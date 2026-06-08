@@ -5,10 +5,6 @@ description: "Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen im Ho
 
 # W Besoldung Und Leistungsbezuege
 
-## Arbeitsbereich
-
-Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **W Besoldung Und Leistungsbezuege**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **W Besoldung Und Leistungsbezuege**. Prüfe diese Anker am Sachve
 - `§ 70 Abs. 1 VwGO` — Widerspruch.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz bei Vollziehung.
 - `§ 123 Abs. 1 VwGO` — vorläufige Zulassung/Statussicherung.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -93,3 +88,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: Besoldungsmemo. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

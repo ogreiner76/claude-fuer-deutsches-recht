@@ -17,7 +17,6 @@ Arbeitsfokus: **Normenkontrollrat / KMU-Check**. Prüfe diese Anker am Sachverha
 - `Art. 80 Abs. 1 GG` — Bestimmtheit bei Verordnungsermächtigungen.
 - `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit bei Vollzugskosten.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Nationaler Normenkontrollrat (NKR)
@@ -58,9 +57,6 @@ Seit 2015 Bundesregierungsregel: Jeder neue Bürokratieaufwand für die Wirtscha
 
 §§ 1-8 NKRG (Normenkontrollrat-Gesetz) — § 62 Abs. 1 GGO (NKR-Beteiligung Pflicht) — Art. 5 EUV (EU-Verhaeltnismaessigkeit, KMU-Test) — Leitlinien KMU-Test Europaeische Kommission COM 2009 (SME-Test)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 - NKR-Vorlagedatei
@@ -73,3 +69,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Anschluss
 
 `gesetzesentwurf-kabinett`.
+

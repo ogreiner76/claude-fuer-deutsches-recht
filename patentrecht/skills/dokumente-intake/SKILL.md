@@ -23,7 +23,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 Dieser Dokumenten-Intake für **Patentrecht** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-patentverletzung-verteidigung` — Abmahnung Patentverletzung Verteidigung
@@ -48,10 +47,6 @@ Dieser Dokumenten-Intake für **Patentrecht** ordnet Anlagen, Registerdaten, Kor
 - Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
 - Tragende Normen vorläufig zuordnen: PatG §§ 1, 3, 4, 9, 10, 14, 21, 24, 34, 38, 81, 139, 140a, 140b, EPÜ Art. 52, 54, 56, 64, 69, 87–89, PCT Art. 3, 8, UPCA — Endfeststellung erst nach Live-Check.
 - Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Patentanmelder, Erfinder, Patentanwalt, DPMA, EPO, BPatG, BGH X. Senat, UPC prüfen.
-
-## Output
-
-Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Patentinhaber.
 
 ## Qualitätsanker
 

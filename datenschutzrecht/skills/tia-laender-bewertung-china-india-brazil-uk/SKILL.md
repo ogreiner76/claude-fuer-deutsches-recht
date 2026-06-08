@@ -5,10 +5,6 @@ description: "TIA-Länderbewertung jenseits der USA: Vereinigtes Koenigreich (An
 
 # TIA-Länderbewertung: UK, China, Indien, Brasilien
 
-## Zweck
-
-Dieser Skill liefert die operative Drittlandbewertung für vier zentrale Nicht-USA-Ziellaender: das Vereinigte Koenigreich (UK), die Volksrepublik China, Indien und Brasilien. Er ergaenzt die US-Fachmodule um die haeufigsten weiteren Cluster und liefert Pruefraster und Empfehlung für das Transferinstrument.
-
 ## Wann dieses Modul hilft
 
 - Konzernweite TIA-Updates mit nicht-amerikanischen Tochtergesellschaften.
@@ -95,13 +91,6 @@ Dieser Skill liefert die operative Drittlandbewertung für vier zentrale Nicht-U
 - Nutzung von Art. 49 DSGVO als Daueroption.
 - Konzerninterne Transfers in mehrere Drittlaender ohne differenzierte Bewertung.
 
-## Querverweise
-
-- `tia-edpb-roadmap-6-schritte-deutsch` für Methodik.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Schritt 4.
-- `tia-template-deutsch-vollvorlage` für Vollvorlage.
-- `drittlandstransfer-pruefung` für Art. 44 ff. DSGVO Basis.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 44–49.
@@ -113,3 +102,4 @@ Dieser Skill liefert die operative Drittlandbewertung für vier zentrale Nicht-U
 - Indien: Digital Personal Data Protection Act 2023; IT Act 2000 § 69.
 - Brasilien: LGPD Lei nº 13.709/2018; ANPD-Regelungen.
 - EDPB Empfehlung 01/2020 Final 18.06.2021.
+

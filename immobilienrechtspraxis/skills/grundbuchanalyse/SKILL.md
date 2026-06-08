@@ -5,10 +5,6 @@ description: "Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschuld
 
 # Grundbuchanalyse
 
-## Arbeitsbereich
-
-Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Prüfraster: Abteilung I bis III, Widersprueche, Rangverhältnisse, Löschungsansprüche. Output: Grundbuchanalyse-Bericht mit Handlungsempfehlung. Abgrenzung: nicht Kaufvertragsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,15 +48,6 @@ Objekttabelle und ein einheitliches Risikoschema.
  im Grundbuch)
 5. Risikobewertung pro Objekt und Aggregation auf Portfolio
 6. Generierung Risikomatrix Excel-Tabelle und Memo
-
-## Output
-
-- `Grundbuch_Portfolio.xlsx` — eine Zeile pro Flurstück, Spalten je
- Risikofeld
-- `Risikomatrix.md` mit Ampel pro Objekt und Aggregat-Statistik
-- `Auffaelligkeiten.md` — Objekte mit ungewöhnlichen Vermerken
- (Insolvenzvermerk Zwangsversteigerungsvermerk Nacherbenvermerk
- Sanierungsvermerk § 144 BauGB Vorkaufsrecht nach BauGB)
 
 ## Typische Risikofelder
 
@@ -107,9 +94,6 @@ Objekttabelle und ein einheitliches Risikoschema.
 
 Konkrete Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## — Schritt für Schritt
 
 1. **Grundbuchauszuege anfordern** — aktuell (ggf. amtliches Datumsstempel pruefen); bei Portfolio: Grundbuchamts-CSV abrufen
@@ -135,3 +119,4 @@ seine Zeit dort einsetzt, wo es wirklich brennt.
 <!-- AUDIT 27.05.2026 — Bundle 033 —
  Kein gesicherter Ersatz verfügbar; Eintrag gelöscht. § 892 BGB bleibt als Normverweis erhalten.
 -->
+

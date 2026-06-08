@@ -5,10 +5,6 @@ description: "Entwickelt das Settlement-Narrativ für Behörden und Öffentlichk
 
 # Settlement-Narrativ und Verfahrensabschluss
 
-## Arbeitsbereich
-
-Entwickelt das Settlement-Narrativ für Behörden und Öffentlichkeit – DPA/NPA-Formulierungen, Faktenbasis, Schuldanerkenntnis-Grenzen, Präzedenzwirkung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -67,15 +63,6 @@ Dieser Skill gestaltet das Settlement-Narrativ so, dass es die Kooperationsanfor
 - Cooperation Obligation: Unternehmen verpflichtet sich zur weiteren Kooperation bei Ermittlungen gegen Individuen.
 - Auflösungsbedingungen: was muss das Unternehmen tun, damit das DPA/NPA ausläuft?
 
-## Red-Team-Fragen
-
-- Enthält das Statement of Facts Formulierungen, die in einer US Class Action gegen das Unternehmen verwendet werden könnten?
-- Wurden Schuldanerkennungen auf das absolut Notwendige beschränkt?
-- Hat das Unternehmen eine eigene Pressemitteilung vorbereitet, die gleichzeitig mit der DOJ-Veröffentlichung herausgeht?
-- Welche Organmitglieder werden im Statement of Facts namentlich oder funktional erwähnt – mit welcher Konsequenz für Regressansprüche?
-- Enthält das Settlement Cooperation-Klauseln, die das Unternehmen bei der Verfolgung von Individuen binden?
-- Ist das Settlement mit allen parallelen Behördenverfahren (BaFin, StA, SEC) koordiniert?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -94,3 +81,4 @@ Dieser Skill gestaltet das Settlement-Narrativ so, dass es die Kooperationsanfor
 - **Pressemitteilungs-Template** für Settlement-Ankündigung
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

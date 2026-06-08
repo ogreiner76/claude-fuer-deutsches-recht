@@ -5,10 +5,6 @@ description: "Gesellschafterdarlehen Rangruecktritt: ordnet Normen, Nutzerangabe
 
 # Gesellschafterdarlehen — qualifizierter Rangrücktritt
 
-## Arbeitsbereich
-
-Gesellschafterdarlehen Rangruecktritt: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Gesellschafterdarlehen Rangruecktritt: ordnet Normen, Nutzerangaben, Fristen, Be
 - Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Eine bestehende Forderung des Gesellschafters gegen die Gesellschaft (Darlehen Verkaufsforderung Mietforderung) wird mit einem **qualifizierten Rangrücktritt** versehen. Folge:
-
-- Die Forderung wird im insolvenzrechtlichen Status **nicht passiviert** (§ 19 Abs. 2 S. 2 InsO).
-- Der Status verbessert sich um den Nennbetrag der Forderung.
-- Bei späterer Insolvenz tritt der Gesellschafter hinter alle anderen Gläubiger zurück.
 
 ## BGH-Anforderungen
 
@@ -164,6 +152,3 @@ Es besteht keine eigenständige Anzeigepflicht. Aber bei Insolvenzantrag ist der
 3. **Sanierungskonzept vorhanden?** Ohne IDW S 6 kein Sanierungsprivileg § 39 Abs. 4 InsO.
 4. **Zinsen laufen?** Nachrangige Zinsen sollten ebenfalls durch Rangruecktritt erfasst sein.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

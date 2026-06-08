@@ -5,10 +5,6 @@ description: "Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, L
 
 # Anfänger-Modus: PE-Begriffe ohne Gesichtsverlust
 
-## Arbeitsbereich
-
-Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -109,13 +105,6 @@ European Waterfall (Kurzfassung):
 - IRR und MOIC verwechseln; IRR ohne Zeitdimension ist sinnlos.
 - "Distribution" ist nicht Ausschüttung im Sinne § 174 AktG, sondern Auskehrung aus Personengesellschaft.
 - "Bridge" / "Subscription Line" als langfristige Finanzierung verstehen — sie ist Liquiditätsbrücke, nicht Term Loan.
-
-## Querverweise
-
-- pe-001 zum Rollen-Routing.
-- pe-014 für Carry/Waterfall im Detail.
-- pe-020 für Tax-Qualifikation von Carry.
-- pe-011 für Subscription-Mechanik.
 
 ## Quellen Stand 06/2026
 

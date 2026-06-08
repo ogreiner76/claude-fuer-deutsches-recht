@@ -5,10 +5,6 @@ description: "AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simpl
 
 # AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten
 
-## Arbeitsbereich
-
-AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prueft regelmäßige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Aenderungen in Haftungsverhaeltnissen, Compliance-Systemen und Sicherheitsstandards. Output: Monitoring-Checkliste und Meldedokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Secu
 - Versaumnisse bei regelmäßiger Selbstevaluation fuehren zu Aussetzungsverfahren.
 - Compliance-Luecken bei Subunternehmern im Sicherheitskonzept werden unterschaetzt.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -86,10 +69,6 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
-
-## Output
-
-Monitoring-Checkliste mit Bewertung jedes Kriteriums, Meldedokument an Hauptzollamt, Massnahmenplan mit Terminen und Verantwortlichen.
 
 ## Quellen
 

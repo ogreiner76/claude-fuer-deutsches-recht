@@ -5,10 +5,6 @@ description: "Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, W
 
 # Slogan-Marken für Luxus-Mode
 
-## Arbeitsbereich
-
-Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -141,3 +137,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

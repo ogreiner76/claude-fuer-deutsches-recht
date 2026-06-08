@@ -16,10 +16,6 @@ description: "Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzun
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill baut aus einem diffusen Argument eine überprüfbare Normkette. Er ist besonders nützlich, wenn Verwaltung, Gericht, Verband, Unternehmen oder Gesetzgeber mit `Zuständigkeit`, `Satzung`, `Praxis`, `Gewohnheit`, `Anordnung`, `Richtlinie`, `Hausrecht` oder `Notwendigkeit` arbeiten.
-
 ## Sofort klären
 
 1. Welche konkrete Rechtsfolge soll am Ende eintreten?
@@ -66,16 +62,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Gib eine `Normkette von unten nach oben` aus:
-
-1. unmittelbare Rechtsfolge;
-2. unmittelbare Norm;
-3. Ermächtigung und Verfahren;
-4. höherrangige Grenzen;
-5. Kontrollinstanz;
-6. stärkster Angriffspunkt;
-7. knappes Ergebnis.
-
-Wenn eine Normkette reißt, sage nicht nur `unwirksam`, sondern benenne genau, an welcher Stufe sie reißt.

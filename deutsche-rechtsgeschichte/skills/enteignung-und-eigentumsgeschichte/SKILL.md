@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Soz
 
 # Enteignung und Eigentumsgeschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das Verhaeltnis von Eigentum und staatlichem Zugriff ist ein Kernthema der deuts
 - NS-11. Verordnung: RGBl. I 1941, 722 via ALEX/OeNB
 - EGMR: hudoc.echr.coe.int
 
-## Output
-
-- Enteignungsrecht-Zeitleiste: PrEG 1874 bis GG Art. 14
-- NS-Enteignungen: Systematik und Aufarbeitung
-- BVerfGE 84, 90 und EGMR: Parallelentscheidungen
-
-## Quellenregel
-
-GG Art. 14: gesetze-im-internet.de. BVerfGE: bverfg.de. NS-Verordnungen: ALEX/OeNB. EGMR: hudoc.echr.coe.int. PrEG 1874: historische PrGBl.-Edition.

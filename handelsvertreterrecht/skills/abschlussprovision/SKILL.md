@@ -5,10 +5,6 @@ description: "Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87
 
 # Abschlussprovision des Abschlussvertreters nach §§ 87 und 87a HGB
 
-## Arbeitsbereich
-
-Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - § 87a Abs. 3 HGB bei einvernehmlicher Vertragsaufhebung übersehen.
 - Abschlussvertreter handelt ohne ausreichende Vollmacht — Provisionsanspruch gefährdet.
 - Provisionssatz aus alten Vertragsversionen übernommen — aktuelle Fassung nicht geprüft.
-
-## Output
-
-Provisionsberechnung mit Kausalitätsnachweis, Klageschriftentwurf auf Provisionszahlung, Fristenübersicht.
 
 ## Hintergrund und Kontext
 

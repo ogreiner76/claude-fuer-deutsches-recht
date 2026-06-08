@@ -5,10 +5,6 @@ description: "Prüft EuVECA-Label, Venture-Capital-Fonds, Start-up-Portfolios, M
 
 # EuVECA und VC-Fonds: Wagniskapital richtig etikettieren
 
-## Arbeitsbereich
-
-Prüft EuVECA-Label, Venture-Capital-Fonds, Start-up-Portfolios, Minderheitsbeteiligungen und zulässige Assets. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,14 +81,6 @@ Founder Vesting (EN/DE):
 - INVEST-Zuschuss kollidiert mit Fonds-Struktur, weil Privatanleger nicht direkt halten.
 - Founder Vesting fehlt — späterer Streit beim Founder-Exit.
 
-## Querverweise
-
-- pe-004 für KAGB-Scope und Fund Formation.
-- pe-005 für Spezial-AIF als Alternative.
-- pe-008 für KVG-Registrierung.
-- pe-014 für Carry-Strukturen.
-- pe-020 für Tax-Aspekte (§ 8c/8d KStG, § 19a EStG).
-
 ## Quellen Stand 06/2026
 
 - EuVECA-VO (EU) 345/2013 i.d.F. (EU) 2017/1991.
@@ -101,3 +89,4 @@ Founder Vesting (EN/DE):
 - INVEST-Förderrichtlinie des BMWK (Stand vom Anwender zu prüfen).
 - § 19a EStG (Zukunftsfinanzierungsgesetz, Stand 2024); § 8c, § 8d KStG.
 - Wachstumschancengesetz 2024.
+

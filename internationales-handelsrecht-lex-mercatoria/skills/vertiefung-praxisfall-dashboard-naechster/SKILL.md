@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Auswertung eines Praxisfalls aus dem
 
 # Praxisfall-Auswertung Internationales Handelsrecht
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Auswertung eines Praxisfalls aus dem internationalen Handel. Strukturierter Fallansatz: Sachverhalt, Rechtsrahmen, Subsumtion (CISG, Incoterms, UCP), Ergebnis und Handlungsempfehlungen auf Basis realer Materialien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Die Praxisfall-Auswertung transferiert die theoretischen Normen auf einen konkre
 - Zahlen eintragen: Kaufpreis, Deckungskaufpreis, Zinsen, Schadensminderung konkret berechnen
 - Ergebnis mit Unsicherheit: "wahrscheinlich... [75% Erfolgswahrscheinlichkeit], aber unsicher wegen..."
 
-## Output
-
-- IRAC-Fallanalyse-Template (internationales Handelsrecht)
-- Schadensberechnungs-Worksheet
-- Board-Memo-Format für Handelsstreit
-
-## Quellenregel
-
-CISG: uncitral.un.org. Incoterms 2020: iccwbo.org. UCP 600: iccwbo.org. NY Convention: newyorkconvention.org. Unsicherheit bleibt sichtbar.

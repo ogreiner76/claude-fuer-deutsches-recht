@@ -5,10 +5,6 @@ description: "Prüft Senat, Fakultätsrat und akademische Gremien im Hochschulre
 
 # Senat Fakultaetsrat Gremien
 
-## Arbeitsbereich
-
-Prüft Senat, Fakultätsrat und akademische Gremien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Senat Fakultaetsrat Gremien**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -22,7 +18,6 @@ Arbeitsfokus: **Senat Fakultaetsrat Gremien**. Prüfe diese Anker am Sachverhalt
 - `§ 40 VwVfG` — Ermessen.
 - `§ 47 Abs. 1 VwGO` — Normenkontrolle gegen Satzungen, soweit eröffnet.
 - `§ 123 Abs. 1 VwGO` — Organstreit/Eilrechtsschutz.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -92,3 +87,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: Gremiencheck. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

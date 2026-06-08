@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaeh
 
 # Abschlussmemo historische Tragfaehigkeit
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prueft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrum
 - Lueckentest: Gibt es Epochen ohne Quellenbeleg in der Argumentationskette?
 - Unsicherheitsmarkierung: Worte wie vermutlich, nach bisherigem Forschungsstand usw.
 
-## Output
-
-- Abschlussmemo-Vorlage mit Ampelbewertung (Gruen/Gelb/Rot)
-- Checkliste: 10 Qualitaetsfragen für historische Argumentation
-- Beispielauswertung: Ein konkretes historisches Argument und seine Bewertung
-
-## Quellenregel
-
-Alle Quellen mit Fundstelle. BVerfGE: bverfg.de. Mugdan: historische Ausgabe. Einigungsvertrag: BGBl. II 1990 via gesetze-im-internet.de. Unsicherheit sichtbar.

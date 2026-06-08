@@ -34,10 +34,6 @@ description: "Identifiziert notenrelevante Saetze im Arbeitszeugnis und trennt s
 
 **Beispiel 5 – Schlussformel (signalrelevant):** Fehlen des Bedauerns über das Ausscheiden — mögliches Distanzsignal trotz positiver Leistungsformulierungen; rechtlich nicht automatisch einklagbar.
 
-## Ausgabeformat
-
-Jeder Satz des Zeugnisses wird in einer Tabelle klassifiziert: Satz (Kurzform) | Kategorie (Aufgabe/Leistung/Verhalten/Schluss) | Notenrelevant (Ja/Nein) | Weitergeleitet an Skill (z. B. leistungsbeurteilung-analyse). Notenrelevante Sätze werden im Anschluss an die zuständigen Analyse-Skills weitergegeben.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -46,3 +42,4 @@ Jeder Satz des Zeugnisses wird in einer Tabelle klassifiziert: Satz (Kurzform) |
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

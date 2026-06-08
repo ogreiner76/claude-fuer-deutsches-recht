@@ -5,10 +5,6 @@ description: "PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbei
 
 # PSV — Pensionssicherungsverein und Haftungsketten
 
-## Arbeitsbereich
-
-PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. Abgrenzung: nicht CTA-Struktur (freiwillige Auslagerung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -40,6 +36,7 @@ PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analys
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Vorgehen
 
 ### Schritt 1: PSV-Pflicht — Systematischer Überblick
@@ -160,3 +157,4 @@ bAV-Projektteam · fachliche Leitung
 <!-- AUDIT 27.05.2026
 Halluzinations-Reparatur Bundle 014:
 -->
+

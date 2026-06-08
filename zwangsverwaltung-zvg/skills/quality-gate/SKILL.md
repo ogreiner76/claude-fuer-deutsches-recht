@@ -17,12 +17,6 @@ Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsf
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Prüft ZVG-Arbeitsprodukte vor Versand oder Zahlung auf Rechenfehler, fehlende Belege und Rollenprobleme.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
-
 ## Startet bei
 
 - Bericht, Rechnung, Verteilungsplan oder Schreiben fertig wirkt
@@ -78,9 +72,6 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 § 154 ZVG (Gerichtliche Aufsicht) → § 20 ZwVwV (Vergütung Ordnungsmäßigkeit) → § 13-15 ZwVwV (Buchführung Berichte) → § 839 BGB (Haftung Amtspflichtverletzung) → § 280 BGB (Pflichtverletzung Schadensersatz)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quality-Gate-Checkliste (Quartalsweise)
 
 **Pflicht-Checkpunkte:**
@@ -94,3 +85,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - [ ] Instandhaltungsmaßnahmen dokumentiert und genehmigt (falls erforderlich)
 - [ ] Keine Zahlungen an Schuldner ohne Gerichtsgenehmigung
 - [ ] Aktennotizen für außergewöhnliche Vorkommnisse vorhanden
+

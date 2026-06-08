@@ -75,13 +75,6 @@ Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhaeltnis zu
 ### Phase 5 — Sanktions- und Devisen-Compliance
 ### Phase 6 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo zur DBA-Anwendung Ukraine mit Konflikt-Lagebild.
-- Sanktions-Compliance-Memo.
-- Berechnungsbeispiel.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Ukraine ist nicht selbst sanktioniert, aber Russland-Bezuege loesen Sekundaerwirkungen aus.
@@ -155,12 +148,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Ukraine 1995 Fundstellen, BMF-Schreiben zur Ukraine, EU-Sanktionsverordnungen verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-russland-suspendierung-2024`, `stb-dba-serbien-montenegro`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Ukraine 03.07.1995, BGBl. 1996 II S. 498, in Kraft 03.10.1996. Dividenden 5/10%, Zinsen 2%, Lizenzen: DBA-Text pruefen (Neuentwurf 5% einheitlich). EU-Beitrittskandidat seit 23.06.2022. MLI-Status: aktuellen BMF-DBA-Stand pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: BGBl. 1996 II S. 498 und Inkrafttreten 03.10.1996 bestaetigt (BMF-Webseite); Art. 10 5%/10% bestaetigt (NWB); Art. 11 2% bestaetigt (GTAI); Art. 12 allgemein (neuer DBA-Entwurf 5% per GTAI); BMF Ukraine allgemein gefasst; MLI allgemein gefasst; Quellen-Marker gestrichen -->
+

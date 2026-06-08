@@ -75,43 +75,6 @@ Ein Unternehmen, das keinen validierten Liquiditätsplan mit 24 Monaten Reichwei
 
 ---
 
-## Vorgehen
-
-### Schritt 1: Standortbestimmung — Welche Pflichten gelten konkret?
-
-Checkliste für jede Gesellschaft:
-
-- [ ] Liegt eine haftungsbeschränkte Rechtsform vor? → Wenn ja: § 1 StaRUG anwendbar
-- [ ] Existiert ein formales Risikoüberwachungssystem (IDW PS 340 n.F.)?
-- [ ] Wird eine rollierende Liquiditätsplanung mit Horizont ≥ 24 Monate erstellt?
-- [ ] Sind Eskalationsschwellen und Berichtspflichten an GF/AR dokumentiert?
-- [ ] Werden Abweichungsanalysen systematisch durchgeführt und protokolliert?
-
-### Schritt 2: 24-Monats-Planung implementieren
-
-Die Planung muss folgende Elemente umfassen:
-
-1. **GuV-Planung** (monatlich, auf Basis realistischer Szenarien)
-2. **Bilanzplanung** (quartalsweise, mit Working-Capital-Modellierung)
-3. **Liquiditätsplanung** (Wochen 1-13 wöchentlich; Monat 14-24 monatlich)
-4. **Integrierte Plan-Ist-Abweichungsanalyse** mit Kommentierung
-5. **Stresstest-Szenarien** (Base / Bear / Distress)
-
-### Schritt 3: Eskalationsmatrix festlegen
-
-| Indikator | Schwelle Gelb | Schwelle Rot | Eskalation |
-|---|---|---|---|
-| Liquiditätsreichweite | < 6 Monate | < 3 Monate | GF-Runde / AR |
-| EBITDA-Coverage | < 1,5x | < 1,0x | Gesellschafterinfo |
-| Covenant-Headroom | < 20 % | < 10 % | Bankgespräch |
-| Net-Debt/EBITDA | > 4,0x | > 5,5x | GF-Sofortmaßnahmen |
-
-### Schritt 4: Dokumentation und Protokollierung
-
-Jede Erkennung einer bestandsgefährdenden Entwicklung muss unverzüglich protokolliert werden. Ohne Dokumentation kein Beweis — ohne Beweis keine Haftungsfreistellung.
-
----
-
 ## Templates
 
 ### Muster: Beschlussprotokoll Geschäftsführersitzung — Ersteinführung Frühwarnsystem
@@ -170,15 +133,7 @@ Unterschriften: _________________ / _________________
 
 ---
 
-## Querverweise
-
-- → `fruehwarnsystem-architektur-zwei-jahres-horizont` — technische Architektur des Frühwarnsystems
-- → `rollierende-liquiditaetsplanung-24-monate-template` — konkrete Planungsstruktur
-- → `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Set und Schwellenwerte
-- → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — Haftungsfolgen
-- → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Abgrenzung § 18 InsO
-- → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Protokollführung
-
 ## Weitere Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

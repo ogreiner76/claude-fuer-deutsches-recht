@@ -5,10 +5,6 @@ description: "Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschu
 
 # Verl-043 · Verlegerrecht: Historisch und heutige Grenzen
 
-## Arbeitsbereich
-
-Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschutzrecht des Presseverlegers (§ 87f UrhG), BGH-Verlegeranteil-Entscheidung und Grenzen des Verlegerschutzes. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -120,3 +116,4 @@ Das Verlegerrecht ist historisch und aktuell umstritten. Dieser Skill klärt die
 - **Leistungsschutzrecht-Anmeldung**: Bei VG Media für Pressepublikationen
 - **Autoren-Beteiligungsklausel** (§ 87h UrhG)
 - **Opt-Out-Erklärung** für robots.txt bei Leistungsschutzrecht-Verweigerung
+

@@ -5,10 +5,6 @@ description: "Schlaegt anhand eines Lebenssachverhalts einschlaegige Normen des 
 
 # Einschlägige Normen vorschlagen — Deutsches Recht
 
-## Arbeitsbereich
-
-Schlaegt anhand eines Lebenssachverhalts einschlaegige Normen des deutschen Rechts vor: BGB, HGB, StGB, StPO, ZPO, VwGO, GG, AO, SGB und Nebengesetze. Gibt Prüfungsreihenfolge und Hinweise auf Spezialitaet und konkurrierende Anspruchsgrundlagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Schlaegt anhand eines Lebenssachverhalts einschlaegige Normen des deutschen Rech
 3. Besteht eine vertragliche Beziehung zwischen den Beteiligten?
 4. Hat der Sachverhalt einen grenzüberschreitenden Bezug? → IPR prüfen (Rom I/Rom II VO)
 5. Sind schutzgesetzliche Spezialregelungen denkbar (ProdHG, StVG, HaftPflG, WpHG)?
-
-## Zweck
-
-Dieser Skill unterstützt den Nutzer bei der Identifikation einschlägiger Normen des deutschen Rechts anhand eines geschilderten Lebenssachverhalts. Das System macht Vorschläge auf der Grundlage des im Sachverhalt beschriebenen Rechtsgebiets und der typischen Anspruchsgrundlagen. Die endgültige Normwahl liegt beim Nutzer.
 
 ## Zentrale Paragrafenkette je Rechtsgebiet
 
@@ -89,9 +81,6 @@ Das System weist darauf hin, dass für die Auslegung der vorgeschlagenen Normen 
 
 Das System listet Vorschläge auf und bittet den Nutzer, die zu prüfende Norm zu bestätigen oder eine andere Norm anzugeben. Erst nach Bestätigung wird die Norm in `norm-zerlegen-in-tatbestandsmerkmale` übergeben.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grenzen
 
 Das System weist ausdrücklich darauf hin, dass:
@@ -102,3 +91,4 @@ Das System weist ausdrücklich darauf hin, dass:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+

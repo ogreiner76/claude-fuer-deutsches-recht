@@ -5,10 +5,6 @@ description: "Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentl
 
 # Leak Response – Reaktion auf Informationslecks
 
-## Arbeitsbereich
-
-Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,23 +70,3 @@ Sofortmaßnahme: Compliance-Officer, CFO und General Counsel unverzüglich infor
 - Befragung der Wissensträger (durch externe Kanzlei, um Vertraulichkeit zu wahren)
 - Ergebnis der Untersuchung dokumentieren
 
-## Red-Team-Fragen
-
-- Wurde der Leak rechtzeitig erkannt (Marktmonitoring aktiv)?
-- Wurde der laufende Aufschub korrekt beendet?
-- Wurde die Ad-hoc-Mitteilung unverzüglich (und nicht erst nach PR-Vorbereitung) veröffentlicht?
-- Wurde BaFin proaktiv informiert?
-- Wurden Beweise vor Vernichtung gesichert?
-- Ist die interne Untersuchung unabhängig (externe Kanzlei)?
-- Wurden alle Insider-Listen-Einträge auf Vollständigkeit geprüft?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Leak-Response-Checkliste (zeitkritisch, mit Minutenangaben)
-2. Ad-hoc-Entwurf (Sofortveröffentlichung)
-3. BaFin-Meldungsschreiben
-4. Forensische Untersuchungsvorlage
-5. Kommunikations-Leitfaden (intern, Presse, Handelsplatz)
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

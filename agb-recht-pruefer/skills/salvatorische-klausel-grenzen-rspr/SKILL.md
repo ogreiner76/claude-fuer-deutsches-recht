@@ -47,7 +47,3 @@ description: "Salvatorische Klausel: Grenzen und Wirkung. Skill klaert die BGH-L
 4. Blue-Pencil-Test moeglich?
 5. Geltungserhaltende Reduktion zulaessig?
 
-## Output
-
-- Klauselentwurf "moderne salvatorische Klausel".
-- Schriftsatzbaustein "Reduktion abwehren".

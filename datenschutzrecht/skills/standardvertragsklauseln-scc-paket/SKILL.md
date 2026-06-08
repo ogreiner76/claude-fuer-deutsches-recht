@@ -5,12 +5,6 @@ description: "Standardvertragsklauseln für Drittlandtransfers nach Art. 46 DSGV
 
 # Standardvertragsklauseln-SCC-Paket
 
-## Zweck
-
-Dieser Skill erstellt ein praxistaugliches SCC-Arbeitspaket für Drittlandtransfers. Er wählt das richtige Modul, bereitet die Anlagen vor, verbindet die SCC mit AVV/DPA, TIA und Subprozessoren und erzeugt eine unterschriftsreife Dokumentationsstruktur.
-
-**Wichtig:** Die offiziellen Standardvertragsklauseln der EU-Kommission werden nicht umformuliert. Das Tool erstellt Auswahl, Anlagen, Begleitvermerk, Verhandlungs- und Lückenliste. Der endgültige Vertrag muss die offiziellen Klauseln unverändert enthalten, soweit keine zulässige Ergänzung außerhalb des Klauselkerns erfolgt.
-
 ## Einsatzfälle
 
 - US- oder sonstiger Drittlandanbieter ist nicht oder nicht passend über einen Angemessenheitsbeschluss abgedeckt.
@@ -102,19 +96,6 @@ Prüfe Konsistenz:
 - Vorrangregel bei Konflikt zwischen AVV, MSA und SCC.
 - Haftung, Indemnity und technische Leistungsversprechen.
 
-## Output
-
-Lieferbare Dokumente:
-
-1. **SCC-Modulmatrix** mit Entscheidung.
-2. **Annex-I-Arbeitsfassung**.
-3. **Annex-II-TOM-Matrix**.
-4. **Annex-III-Subprozessorenliste**.
-5. **Lücken- und Verhandlungsprotokoll**.
-6. **Unterzeichnungscheckliste**.
-7. **Behördenfähiger SCC-Deckvermerk**.
-8. **TIA-Andockliste** für `us-transfer-tia-dokumentation`.
-
 ## Lückenbewertung
 
 | Ampel | Bedeutung |
@@ -140,10 +121,3 @@ Lieferbare Dokumente:
 - EDSA Recommendations 01/2020 zu ergänzenden Maßnahmen.
 - Bei US-Transfers immer mit `us-transfer-tia-dokumentation` kombinieren.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

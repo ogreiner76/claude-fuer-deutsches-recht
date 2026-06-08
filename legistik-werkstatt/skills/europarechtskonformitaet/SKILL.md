@@ -5,10 +5,6 @@ description: "Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht pr�
 
 # Europarechtskonformität
 
-## Arbeitsbereich
-
-Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht prüfen. Anwendungsfall Referent oder Verband fragt ob nationales Vorhaben mit EU-Recht vereinbar ist oder ob Notifizierungspflicht besteht. Primaerrecht EUV AEUV Grundrechtecharta Sekundaerrecht Verordnungen Richtlinien. Prüfung Anwendungsbereich Schutzbereich Eingriff Rechtfertigung Verhältnismäßigkeit. Notifizierungspflicht Richtlinie 2015/1535 technische Vorschriften IT-Vorschriften. Subsidiaritaet Verhältnismäßigkeit Art. 5 EUV Vorlagepflicht Art. 267 AEUV. Output Prüfgutachten ein bis drei Seiten Notifizierungs-Vermerk Empfehlung. Abgrenzung zu verfassungsmäßigkeit-quercheck nationales Verfassungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,9 +76,6 @@ Anwendung im Vollzug: Wenn das nationale Gesetz zu EU-Recht Auslegungszweifel we
 
 Art. 288 AEUV (Rechtsakte, Verordnung, Richtlinie) — Art. 5 EUV (Subsidiaritaet, Verhaeltnismaessigkeit) — Art. 267 AEUV (Vorlagepflicht) — RL 2015/1535/EU Art. 1, 5 (Notifizierungspflicht) — Art. 51 Charta (Anwendungsbereich Grundrechte-Charta)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Pruefgutachten ein bis drei Seiten:
@@ -98,3 +91,4 @@ Pruefgutachten ein bis drei Seiten:
 ## Anschluss
 
 `goldplating-vermeiden`, `verfassungsmaessigkeit-quercheck`.
+

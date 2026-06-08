@@ -5,10 +5,6 @@ description: "Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenent
 
 # Redline-QA
 
-## Arbeitsbereich
-
-Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenentwurf oder überarbeitete Fassung liegt vor und soll auf Vollständigkeit versteckte Änderungen Formatbrüche und ungeklärte Klauselentscheidungen geprüft werden. §§ 145 ff. BGB Vertragsänderungen, §§ 305 ff. BGB AGB-Änderungskontrolle. Prüfraster Ausgangsfassung und überarbeitete Fassung identifiziert, alle Track-Changes-Status klar, materielle Änderungen gegen Freigaben geprüft. Output QA-Protokoll mit Änderungsübersicht und offenen Klauselentscheidungen. Abgrenzung zu Clean-Output und zu Klauselentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -33,13 +29,6 @@ Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenentwurf oder übe
 - § 119 ff. BGB — Anfechtung (bei verdeckten Änderungen im Redline-Prozess)
 - § 241 Abs. 2 BGB — Nebenpflicht zur Rücksichtnahme (kein Einbringen unbesprochener Änderungen)
 - § 307 BGB — Transparenzgebot (bei Änderungen per AGB)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Der Skill kontrolliert Änderungsfassungen vor Herausgabe. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.
 
 ## Startet bei
 
@@ -75,3 +64,4 @@ Der Skill kontrolliert Änderungsfassungen vor Herausgabe. Er arbeitet freistehe
 <!-- AUDIT 27.05.2026
 Bundle: bundle_047.json
 -->
+

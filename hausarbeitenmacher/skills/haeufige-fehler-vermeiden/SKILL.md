@@ -5,10 +5,6 @@ description: "Student will typische Fehler in juristischen Hausarbeiten vermeide
 
 # Häufige Fehler vermeiden — Top-20
 
-## Arbeitsbereich
-
-Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,15 +27,6 @@ Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: mahnende Analogie für korrekte Sachverhaltserfassung
 - § 242 BGB — Treu und Glauben: verhindert uebertrieben formalistische Fehler
 - §§ 133, 157 BGB — Auslegungsgrundsaetze: Masstab für Definitionen und Subsumtion
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**, typische Fehler zu vermeiden. Jeder Fehler kommt mit einer sanften Korrektur-Anregung.
-
----
 
 ## Methodische Fehler
 
@@ -246,3 +233,4 @@ Idealerweise jemand mit juristischer Vorbildung. Selbst Nicht-Juristen finden St
 
 - `selbstkontrolle-vor-abgabe` — Endcheck-Vorgang
 - `gutachtenstil-vs-urteilsstil` — Stil-Übung
+

@@ -5,10 +5,6 @@ description: "Verhältnismäßigkeitsprüfung für staatliche Massnahmen oder Ge
 
 # Verhältnismäßigkeit (Vier-Stufen-Prüfung)
 
-## Arbeitsbereich
-
-Verhältnismäßigkeitsprüfung für staatliche Massnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenprüfung Abwaegung. Output: Verhältnismäßigkeitsprüfschema Ergebnis Argumentationshilfe. Abgrenzung: nicht für Grundrechtsprüfung insgesamt (grundrechtsprüfung) sondern Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -150,3 +146,4 @@ Gesamtergebnis: [verhältnismäßig / unverhältnismäßig auf Stufe ___]
 ## Disclaimer-Wiederholung
 
 Die Verhältnismäßigkeitsabwägung ist im konkreten Einzelfall hochsensibel und wird im Streitfall verbindlich nur durch das BVerfG entschieden.
+

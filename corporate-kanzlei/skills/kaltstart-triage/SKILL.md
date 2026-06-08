@@ -3,17 +3,6 @@ name: kaltstart-triage
 description: "Einstieg, Schnelltriage und Fallrouting im Corporate Kanzlei-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage."
 ---
 
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-# Corporate-Kanzlei — Allgemein
-
 ## Aktenstart statt Formularstart
 
 Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Corporate Kanzlei** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
@@ -290,14 +279,6 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 - Umwandlungssteuerrecht getrennt von Umwandlungsrecht betrachtet: Sperrfristen koennen rueckwirkend ausgeloest werden.
 - Expert Calls ohne Insider-Abgrenzungs-Check: Informationsaustausch mit Experten kann MAR-pflichtig sein.
 
-## Querverweise
-
-- `geldwaeschepraevention-aml-kyc` — GwG-Konfliktrack und Sanktionscheck bei M&A-Mandaten.
-- `datenschutzrecht` — DSGVO-Schnittstellen bei Datenraeumen und DD-Dokumentation.
-- `regulatorisches-recht` — Fusionskontrolle (GWB) und FDI-Investitionspruefung (AWG/AWV) als Regulatory-Workstream.
-- `vertragsrecht` — Allgemeine Vertragspruefung für nicht-M&A-Vertraege im Transaktionsumfeld.
-- `energierecht` — Energiesektor-Transaktionen mit regulatorischen Sonderanforderungen.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
@@ -306,3 +287,4 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 - UmwG und UmwStG in der geltenden Fassung
 - StaRUG in der geltenden Fassung
 - MAR (EU 596/2014) in der geltenden Fassung
+

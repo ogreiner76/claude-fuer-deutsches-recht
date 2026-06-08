@@ -5,9 +5,6 @@ description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buer
 
 # Abwaegung Material Abwaegungslast NON
 
-## Arbeitsbereich
-
-**Abwaegung Material Abwaegungslast NON** ordnet den Fall über die tragenden Prüfungslinien: Leitet durch die methodisch begründete Auswahl von, Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Abwaegung Material Abwaegungslast NON im Plugin Methodenlehre Buer
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `abwaegung-material-auswahl`
@@ -85,10 +83,6 @@ Die Qualität jeder Abwägungsentscheidung hängt entscheidend davon ab, welches
 - Übergewichtung von Einzelpräjudizien, obwohl die Gesamtrechtsprechung ein anderes Bild ergibt.
 - Nichtbeachtung legislativer Vorgewichtungen durch Regelbeispiele in Normen wie § 307 Abs. 2 BGB.
 - Fehlende Transparenz über ausgeschlossenes Material — der Eindruck der Willkür entsteht.
-
-## Output
-
-Das Skill liefert eine strukturierte Materialmatrix: zulässiges Material mit Quellenangabe und Gewichtung, ausgeschlossenes Material mit Begründung, sowie ein Abwägungsergebnis, das auf dieser Grundlage nachvollziehbar ist. Geeignet als Annex zu Schriftsätzen, als Gutachtenanlage oder als Vorbereitung revisionsrechtlicher Angriffe.
 
 ## Vertiefung: Hierarchie des Abwägungsmaterials
 
@@ -174,10 +168,6 @@ Nicht jede Abwägungslage ergibt eine eindeutige Antwort. Dieses Skill behandelt
 - § 287 ZPO wird als Freifahrtschein für beliebige Schadensschätzung ohne methodische Grundlage missverstanden.
 - Gesetzliche Vermutungen werden übersehen oder rechtswidrig umgekehrt.
 - Die institutionelle Konsequenz eines echten Abwägungspatts — Vorlage oder Zurückhaltung — wird nicht erwogen.
-
-## Output
-
-Das Skill erzeugt eine Non-liquet-Analyse: Feststellen, ob echte Abwägungsunklarheit besteht, Identifikation der einschlägigen Entscheidungsregel, Anwendung auf den Sachverhalt und Formulierungsvorschlag für das Gutachten oder den Schriftsatz. Einschließlich Beweislastaufklärung und institutioneller Konsequenz.
 
 ## Vertiefung: Beweislastverteilung als Systemfrage
 
@@ -296,15 +286,6 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 
 Kritik der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Die Figuren sind Topoi, also Argumentationsmuster — keine Beweisschluesse. Sie ueberzeugen nur, wenn die dahinterliegende Wertung trifft.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Einordnung.
-- `wortlaut-grammatikalische-auslegung` — Wortlaut der Norm als Grundlage.
-- `analogie-und-teleologische-reduktion` — Abgrenzung zur Rechtsfortbildung.
-- `teleologische-auslegung` — Wertungsanker.
-- `pandekten-und-begriffsjurisprudenz` — historische Wurzeln.
-- `diskurstheorie-habermas-alexy` — moderne argumentationstheoretische Einordnung.
-
 ## Quellen und Stand 05/2026
 
 - Karl Larenz, Methodenlehre der Rechtswissenschaft, 1960.
@@ -312,14 +293,6 @@ Kritik der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Die Figuren s
 - §§ 119, 123, 134, 138, 139, 142, 181, 311 Abs. 1, 437, 657, 661a BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `auslegung-rechtsfortbildung-grenzprotokoll`
 
@@ -380,10 +353,6 @@ Die Grenze zwischen Auslegung und Rechtsfortbildung ist eine der wichtigsten met
 - Die Frage, ob der Gesetzgeber die Lücke bewusst gelassen hat, wird nicht gestellt.
 - Rechtsfortbildung contra legem wird als Auslegung getarnt, um die Vorlagepflicht nach Art. 100 GG zu umgehen.
 
-## Output
-
-Das Skill erstellt ein strukturiertes Grenzprotokoll: Auslegungsergebnisse aller vier Methoden, Divergenzanalyse, Lückenfeststellung, Rechtsfortbildungsinstrument und demokratische Legitimation. Das Protokoll ist revisionsrechtlich verwendbar und kann als Anlage zu Schriftsätzen oder Gutachten beigefügt werden.
-
 ## Vertiefung: Das Wortlautspektrum als Grenzmarkierung
 
 Das Wortlautspektrum einer Norm erstreckt sich von der engsten (minimalistischen) bis zur weitesten (maximalistischen) vertretbaren Lesart. Solange das Ergebnis innerhalb dieses Spektrums liegt, handelt es sich um Auslegung; jenseits davon beginnt Rechtsfortbildung. Die Aufgabe des Interpreten ist, dieses Spektrum durch Analyse des sprachlichen Bedeutungsrahmens möglichst präzise zu bestimmen.
@@ -424,10 +393,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Einsatz
-
-Anwendungsfall: eine zivilrechtliche Lösung inhaltlich plausibel ist, aber verfahrensförmig nicht sauber entsteht: Parteivortrag wird übergangen, Beweisangebote werden nicht eingeordnet, eine neue rechtliche Wertung überrascht oder die Begründung erklärt dem Adressaten nicht, warum er verliert.
-
 ## Prüfprogramm
 
 1. **Vortrag ordnen:** Welche Tatsachen, Einwendungen, Beweisangebote und Rechtsansichten liegen tatsächlich vor?
@@ -439,10 +404,6 @@ Anwendungsfall: eine zivilrechtliche Lösung inhaltlich plausibel ist, aber verf
 ## Methodischer Kern
 
 Zivilrechtliche Methodik ist nicht nur Ergebnisproduktion. Sie muss das Verfahren ernst nehmen: Wer gehört wird, kann Tatsachen klären; wer Gründe erhält, kann das Recht akzeptieren, angreifen oder künftig beachten.
-
-## Output
-
-Liefere eine Verfahrens- und Begründungsmatrix mit `Vortrag`, `Norm`, `Beweis`, `Gehör`, `Begründungslücke`, `nächster Schritt`.
 
 ## Quellen- und Zitierdisziplin
 
@@ -478,3 +439,4 @@ Liefere eine Verfahrens- und Begründungsmatrix mit `Vortrag`, `Norm`, `Beweis`,
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
+

@@ -35,10 +35,6 @@ description: "Erkennt fehlende Pflichtaussagen im Arbeitszeugnis: Was nicht gesa
 
 **Beispiel 5 – Fehlender Kundenkontakt-Verweis:** Vertriebsmitarbeiter-Zeugnis ohne ein einziges Wort zu Kunden oder Verkaufserfolgen → deutliches rotes Signal.
 
-## Ausgabeformat
-
-Der Skill gibt eine Auslassungs-Checkliste aus: Erwartete Aussage | Vorhanden (ja/nein) | Ampel | Begründung. Darunter folgt eine Liste aller erkannten Negationsformeln mit Interpretation. Die Gesamtzahl der fehlenden Standardaussagen fließt in die Gesamtnoten-Aggregation ein.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -47,3 +43,4 @@ Der Skill gibt eine Auslassungs-Checkliste aus: Erwartete Aussage | Vorhanden (j
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

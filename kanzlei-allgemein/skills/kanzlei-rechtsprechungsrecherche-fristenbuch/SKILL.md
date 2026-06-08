@@ -5,10 +5,6 @@ description: "Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen 
 
 # Rechtsprechungsrecherche und Fundstellenablage
 
-## Arbeitsbereich
-
-Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen Datenbanken der Bundesgerichte und Länder, ergänzt OpenJur und dejure.org, bewertet Treffer, erstellt Zitier- und Verwertungsnotizen und legt Fundstellen samt Quellenprotokoll in der Akte oder freigegebenen Online-Ablage ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen Datenbanken de
 - § 43a Abs. 2 BRAO — Verschwiegenheit: Abstrahierung des Sachverhalts vor Datenbanksuche
 - Art. 3 GG i.V.m. Art. 20 Abs. 3 GG — Bindung an Gesetz und Recht: einschlaegige Rechtsprechung ist massgebend
 - § 139 ZPO — Richterliche Hinweispflicht: Gericht nutzt bekannte Rechtsprechung; Anwalt muss vorbereitet sein
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill recherchiert gezielt Rechtsprechung zu einer Akte, einem Schriftsatz, einer Replik, einem Vertragsrisiko oder einer internen Rechtsfrage. Er arbeitet quellenbewusst: zuerst amtliche Quellen, dann freie Ergänzungsdatenbanken, danach nur mit Kennzeichnung weitere Quellen.
 
 ## Sicherheitsregeln
 
@@ -146,3 +135,4 @@ Wenn eine Online-Ablage gewünscht ist:
 - `assets/templates/rechtsprechungsfundstellen-register.md`
 - `assets/templates/rechtsprechungsablage-protokoll.md`
 - optional `assets/templates/rechtsprechungsmonitor.md`
+

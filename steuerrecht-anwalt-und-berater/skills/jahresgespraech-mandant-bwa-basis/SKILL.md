@@ -118,13 +118,6 @@ Dauer: 2-3 Stunden
 - Verbindlichkeit der Vereinbarungen.
 - Bei wesentlichen strategischen Entscheidungen: schriftliche Bestaetigung.
 
-## Output
-
-- Gespraechs-Protokoll.
-- Strategiepapier Folgejahr.
-- Massnahmen-Liste.
-- Wiedervorlage in DATEV-Kanzleiplaner.
-
 ## Strategie und Praxis-Tipps
 
 - Jahresgespraech ist Mandantenbindungs-Hoehepunkt — gut investierte Zeit.
@@ -132,13 +125,6 @@ Dauer: 2-3 Stunden
 - Bei Krisensignalen: schriftliche Bestaetigung der ausgesprochenen Warnung.
 - Bei mehreren Generationen Familien-GmbH: alle Generationen einladen.
 - StBVV: Jahresgespraech in Pauschalvereinbarung oder separates Beratungshonorar.
-
-## Querverweise
-
-- `stb-bwa-jahres-bwa-erstellen` — Jahres-BWA.
-- `stb-bwa-mandantengespraech-uebergabe` — BWA-Uebergabe.
-- `stb-mandantenkommunikation-bwa-uebergabe-quartal` — Quartalsgespraech.
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
 
 ## Quellen und Updates
 
@@ -148,10 +134,3 @@ Stand: 05/2026.
 - StaRUG § 102.
 - RDG § 5.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

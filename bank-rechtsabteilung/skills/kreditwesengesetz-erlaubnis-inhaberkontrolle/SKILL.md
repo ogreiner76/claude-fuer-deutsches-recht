@@ -5,10 +5,6 @@ description: "KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifiz
 
 # KWG-Erlaubnis und Inhaberkontrolle
 
-## Arbeitsbereich
-
-KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifizierte Beteiligung prüfen: Geschäftsmodell, Schwellen, Anzeige, Fit-and-Proper und BaFin-Erwartungen strukturieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,10 +46,3 @@ Dieser Skill analysiert, ob ein Geschäftsmodell einer KWG-Erlaubnis bedarf, wel
 - Abberufungsverlangen BaFin: § 36 KWG, vorherige Anhörung, aufschiebende Wirkung nur bei Antrag
 - Unterschreiten 10 %-Schwelle: § 24 Abs. 1 Nr. 12 KWG Anzeige nachträglich, AnzV § 18
 
-## Output
-
-Erlaubnisantrags-Checkliste mit Normbezug; Inhaberkontroll-Absichtsanzeige (Entwurf); Fit-and-Proper-Selbstauskunftsbogen; Vermerk zu Versagungsrisiken mit Risikoampel.
-
-## Quellenregel
-
-gesetze-im-internet.de (KWG, InhKontrollV, AnzV), bafin.de (Merkblatt Inhaberkontrolle, Formular-Center), eba.europa.eu (EBA/GL/2021/06 Fit-and-Proper). Live-Check: BaFin-Merkblätter zu Erlaubnispflicht werden nach Gesetzesänderungen aktualisiert.

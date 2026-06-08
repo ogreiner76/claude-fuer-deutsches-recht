@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Zweck
-
-Beim ersten Einsatz des Plugins wird das Anwender-Profil erfasst, damit die anschließenden Skills passend zur Kanzlei und zum Technikgebiet arbeiten. Das Interview läuft einmal je Kanzlei und wird bei Bedarf aktualisiert.
-
 ## Ablauf
 
 Frage in dieser Reihenfolge, jeweils mit Kurzbegründung:
@@ -155,3 +151,4 @@ Bevor das Interview begonnen wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DPMA, Richtlinien für die Pruefung 2023 (Teil 5 — Rechercheberichte):** Amtliche Rechercheberichte des DPMA umfassen in der Regel eine Suche nach allen in Klassen eingetragenen Patentdokumenten des relevanten Technikgebiets; agentische private Vorrecherchen koennen die amtliche Recherche nicht ersetzen, aber als qualifizierte Vorbereitung dienen.
+

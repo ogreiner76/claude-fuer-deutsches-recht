@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Flughafenvorfelder und Towerb
 
 # Bauueberwachung Flughafen Vorfeld und Tower
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Flughafenvorfelder und Towerbauten — Kontrolle von Vorfeldbeton C35/45 XF4 XD3 nach DIN EN 206 und DIN 1045-2, Befeuerungsanlagen nach ICAO Annex 14, ILS-Schutzbereiche nach LuftVO sowie koordinierte Abnahme mit Luftfahrtbehoerde. Umfasst Drohnendokumentation, SAP-PM-Mangelmanagement und VOB/C-Abnahme in sicherheitskritischer Luftfahrtumgebung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Die Bauueberwachung auf Flughafenvorfeldern und bei Towerneubauten erfordert die
 - FOD-Risiko durch Baustellenmuell auf Vorfeld: Schrauben koennen Triebwerksschaden verursachen, Haftungsfragen nach § 823 BGB
 - Fehlende Koordination Befeuerungsabnahme: Inbetriebnahme verzoegert sich 4-8 Wochen wenn Abnahmetermin nicht 6 Wochen vorher angemeldet
 
-## Output
-
-Tagesprotokoll Betonage mit Frischbetonkennwerten, Temperaturprotokoll und Chargen-Nummern als PDF. Maengelreport in PlanRadar und SAP PM mit Foto, GPS und Faelligkeitsdatum. Abnahmeprotokoll Vorfeldbeton mit Unterschrift LBA-Vertreter nach VOB/B § 12. Orthofoto-Dokumentation Drohne je Bauabschnitt. SAP-PM-Abschlussmeldung mit Kostenstellen-Buchung.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Tagesprotokoll Betonage mit Frischbetonkennwerten, Temperaturprotokoll und Charg
 - [LuftVO § 18a Bauschutzbereich](https://www.gesetze-im-internet.de/luftvo_2015/__18a.html)
 - [VOB Vergabe und Vertragsordnung](https://www.gesetze-im-internet.de/vob/)
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
+

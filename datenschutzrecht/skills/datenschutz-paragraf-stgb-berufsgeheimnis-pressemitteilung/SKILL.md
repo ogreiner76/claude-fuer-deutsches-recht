@@ -5,9 +5,6 @@ description: "Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung im Date
 
 # Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung
 
-## Arbeitsbereich
-
-**Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung** ordnet den Fall über die tragenden Prüfungslinien: Bewertet einen Datenschutzvorfall bei, Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Datenschutz Paragraf Stgb Berufsgeheimnis Pressemitteilung im Date
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsv-paragraf-203-stgb-berufsgeheimnis`
@@ -57,10 +55,6 @@ Nicht aus Modellwissen; insbesondere zur Reichweite des § 203 Abs. 3 Satz 2 StG
 ## Zentrale Normen
 
 § 203 Abs. 1; § 203 Abs. 3; § 203 Abs. 4 StGB; Art. 33 DSGVO; § 43a Abs. 2 BRAO.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Strafbarkeitsraster
 
@@ -111,10 +105,6 @@ Nicht aus Modellwissen; insbesondere zu Sammelklagen und immateriellen Schadense
 ## Zentrale Normen
 
 Art. 5 Abs. 1 lit. a; Art. 34 Abs. 1; Art. 34 Abs. 3 lit. c DSGVO; § 824 BGB.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Pressemitteilung-Bausteine
 
@@ -171,10 +161,6 @@ Nicht aus Modellwissen; insbesondere zu BGH/EuGH-Urteilen zum immateriellen Scha
 
 Art. 82 DSGVO; § 1 UKlaG; VDuG; § 309 BGB; Verbandsklagen-Richtlinie 2020/1828.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Roadmap
 
 Phase 1 vor Versand: Wortwahl prüfen; Goodwill-Pakete schnüren; Pressepolitik abstimmen.
@@ -227,10 +213,6 @@ Nicht aus Modellwissen; insbesondere zur Vorlagepflicht des VVT auf Behördenanf
 ## Zentrale Normen
 
 Art. 5 Abs. 2; Art. 24; Art. 30; Art. 32; Art. 33 Abs. 5 DSGVO.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Update-Checkliste
 
@@ -351,12 +333,6 @@ B) Klausel zur Verpflichtung mitwirkender Personen bei Auftragsverarbeitung:
 - Informationspflichten Art. 13/14 DSGVO nicht beruecksichtigt.
 - Cloud-Speicher für Mandantenakten ohne AVV oder ohne § 203-Klausel.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-dsgvo-grundtatbestand/SKILL.md`
-- `datenschutzrecht/skills/avv-rolemix-getrennt-vs-gemeinsam-verantwortlich/SKILL.md`
-- `datenschutzrecht/skills/dpa-en-controller-controller-tmpl/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 4 Nr. 7, Art. 6 Abs. 1, Art. 9 Abs. 2, Art. 28 DSGVO.
@@ -366,10 +342,3 @@ B) Klausel zur Verpflichtung mitwirkender Personen bei Auftragsverarbeitung:
 - EDSA-Leitlinien 07/2020 (Final 07.07.2021), edpb.europa.eu.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

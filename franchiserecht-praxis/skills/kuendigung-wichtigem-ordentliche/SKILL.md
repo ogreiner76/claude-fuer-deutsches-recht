@@ -5,10 +5,6 @@ description: "Ausserordentliche Kündigung eines Franchisevertrags prüfen: wich
 
 # Franchiserecht: Kündigung aus wichtigem Grund
 
-## Arbeitsbereich
-
-Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Ein Franchisegeber möchte einem Franchisenehmer wegen wiederholter Verstösse (
 - Kündigung wird erst Monate nach Kenntnis des Kündigungsgrundes erklärt; § 314 Abs. 3 BGB-Frist versäumt.
 - Interessenabwägung wird nicht ausreichend dokumentiert; Gericht hält Kündigung für unverhältnismässig.
 
-## Output
-
-- Prüfmemo: Liegt ein wichtiger Grund vor? (Ja/Nein/mit Bedingung)
-- Abmahnungsschreiben mit konkreter Fristsetzung
-- Kündigungsschreiben mit Begründung
-- Checkliste Nachkündigungspflichten (Rückbau, Herausgabe, Abrechnung)
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/314.html
@@ -72,6 +61,7 @@ Ein Franchisegeber möchte einem Franchisenehmer wegen wiederholter Verstösse (
 - https://dejure.org/gesetze/BGB/242.html
 - https://dejure.org/gesetze/BGB/305.html
 - https://www.bgh.de/
+
 ## Vertiefung
 
 Die Kündigung aus wichtigem Grund nach § 314 BGB setzt voraus, dass dem kündigenden Teil die Fortsetzung des Vertragsverhältnisses bis zur regulären Beendigung nicht zugemutet werden kann. Das Gericht prüft anhand einer umfassenden Interessenabwägung, ob die Pflichtverletzung die Schwelle zum wichtigen Grund überschreitet.
@@ -85,7 +75,10 @@ Im Franchiserecht häufige wichtige Gründe: wiederholter Zahlungsverzug (nach A
 - Warten nach dem Kündigungsgrund: § 314 Abs. 3 BGB verlangt Kündigung ohne schuldhaftes Zögern; 2 Wochen sind regelmässig angemessen.
 - Kündigung und Schadensersatzvorbehalt kombinieren; kein Wahlrecht zwischen Kündigung und Schadensersatz erforderlich.
 - Nach Kündigung sofort Rückbau- und Herausgabepflichten schriftlich fordern.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

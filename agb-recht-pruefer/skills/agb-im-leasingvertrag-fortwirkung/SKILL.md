@@ -43,7 +43,3 @@ description: "AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und
 3. Restwertklausel transparent?
 4. Mehrkilometerregelung angemessen?
 
-## Output
-
-- Klauselraster.
-- Schriftsatzbaustein.

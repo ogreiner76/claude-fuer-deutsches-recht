@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Battle of Forms im internationalen K
 
 # Battle of Forms International
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Battle of Forms im internationalen Kaufrecht. CISG Art. 19 modifizierte Annahme, Knock-Out-Theorie (herrschende Schiedsgerichtspraxis), Last-Shot-Doktrin (Common Law), Mirror-Image-Rule und Abwehrklauseln in AGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Battle of Forms entsteht wenn Käufer und Verkäufer widersprüchliche AGB einbe
 - Schiedsklausel: besonders kritisch prüfen (Art. 19 Abs. 3 — wesentliche Abweichung)
 - Abwehrklausel einbauen: verhindert unerwünschte Vertragsschlüsse unter fremden AGB
 
-## Output
-
-- Battle-of-Forms-Flowchart (CISG-Knock-Out)
-- Abwehrklausel-Muster
-- Schiedsklausel-Prüfung im Battle-of-Forms-Kontext
-
 ## Quellenregel
 
 CISG Art. 19: uncitral.un.org. PICC Art. 2.1.22: unidroit.org. UCC § 2-207: uniform.law.cornell.edu. BGB §§ 305-310: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
+

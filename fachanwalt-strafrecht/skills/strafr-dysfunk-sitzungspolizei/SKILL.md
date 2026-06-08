@@ -5,9 +5,6 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 # Strafr Dysfunk Sitzungspolizei
 
-## Arbeitsbereich
-
-**Strafr Dysfunk Sitzungspolizei** ordnet den Fall über die tragenden Prüfungslinien: Sitzungspolizei §§ 176 ff, Verschleppungsabsicht nach § 244 Abs, Erste Reaktion wenn Gericht oder Staatsanwaltschaft den. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafr-dysfunk-sitzungspolizei-ordnungsmittel`
@@ -68,18 +66,6 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 - Eskalation gegenueber dem Vorsitz fuehrt zu weiteren Sanktionen.
 - Beleidigung ist eigenstaendig strafbar § 185 StGB und berufsrechtlich relevant § 43a Abs. 3 BRAO.
 
-## Querverweise
-
-- `strafr-dysfunk-beistandsleistung-137-stpo`
-- `strafr-dysfunk-contempt-of-court-debatte-177a`
-- `strafr-dysfunk-mandant-strategie-schuetzen`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
-
 ## 2. `strafr-dysfunk-verschleppungsabsicht-abgrenzen`
 
 **Fokus:** Verschleppungsabsicht nach § 244 Abs. 3 Satz 3 StPO als Sonderfall der Ablehnung von Beweisantraegen sauber abgrenzen. Doppelte Voraussetzung des Gerichts. Antrag wuerde nicht wesentlich zur Sachaufklaerung beitragen und Antragsteller weiss das. Auch der Reformvorschlag der StPO-Reformkommission BMJ wuerde das Tatbestandsbild verschaerfen aber nicht jeden spaeten Antrag als verschleppend behandeln. Konkrete Substantiierungspflicht der Kammer.
@@ -114,18 +100,6 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 - Spaete Antraege brauchen extra Substanz. Wenn neue Beweise im Verlauf der Hauptverhandlung sichtbar werden, dies in der Begruendung des Antrags transparent machen.
 - Wiederholte Antraege ohne neuen Vortrag werden gerne als Verschleppung gewertet. Lieber Antrag aufstocken statt wiederholen.
-
-## Querverweise
-
-- `strafr-dysfunk-beweisantragsstrategie`
-- `strafr-dysfunk-antrag-wiederholen-ohne-missbrauch`
-- `strafr-dysfunk-darlegungslast-umkehren`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
 
 ## 3. `strafr-dysfunk-vorwurf-einordnen`
 
@@ -166,18 +140,6 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 - Direkte Konfrontation oder Beleidigung des Gerichts ist ihrerseits angreifbar (§ 178 GVG, § 185 StGB).
 - Annahme, der Begriff sei rechtsstaatlich geklaert: ist er nicht. Reformkommission BMJ ab 2025 diskutiert noch.
 
-## Querverweise
-
-- `strafr-dysfunk-konfliktverteidigung-vs-dysfunktional`
-- `strafr-dysfunk-empirie-nutzen`
-- `strafr-dysfunk-darlegungslast-umkehren`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
-
 ## 4. `strafr-dysfunk-wahlverteidigerausschluss-138a`
 
 **Fokus:** Wahlverteidigerausschluss nach § 138a StPO abwehren. Antrag muss konkrete tatbestandliche Voraussetzungen substantiieren. § 138a Abs. 1 Nr. 1 bis 3 StPO erfasst Tatverstrickung, Strafverletzungen oder Sicherheitsgefahren. Ausschluss ist ultima ratio und beruehrt das Beistandsrecht nach § 137 Abs. 1 StPO. Verteidigung gegen den Ausschlussantrag mit Bezug zu Beweisanforderungen Verhaeltnismaessigkeit und Verfahrensschutz.
@@ -213,18 +175,6 @@ description: "Strafr Dysfunk Sitzungspolizei im Strafrecht: prüft konkret Sitzu
 
 - Selbst belastendes Verhalten wahrend des Ausschlussverfahrens vermeiden. Auseinandersetzung ist eng vom Strafverfahren zu trennen.
 - Mandanten umgehend informieren und Strategie absprechen.
-
-## Querverweise
-
-- `strafr-dysfunk-beistandsleistung-137-stpo`
-- `strafr-dysfunk-pflichtverteidiger-entpflichtung-143a`
-- `strafr-dysfunk-mandant-strategie-schuetzen`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
 
 ## 5. `strafr-revision-pruefung-spezial`
 
@@ -262,15 +212,9 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+

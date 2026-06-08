@@ -5,10 +5,6 @@ description: "Besichtigung, Beschlagnahme und technische Beweissicherung bei Geb
 
 # Besichtigung Beschlagnahme Und Beweissicherung
 
-## Arbeitsbereich
-
-Besichtigung, Beschlagnahme und technische Beweissicherung bei Gebrauchsmusterverletzung: Produktzugang, Musterkauf, technische Analyse, Sachverständige, Geheimnisschutz, Chain of Custody und Vorbereitung von Verletzung oder Verteidigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Besichtigung, Beschlagnahme und technische Beweissicherung bei Gebrauchsmusterve
 
 Eine mutmaßliche Gebrauchsmusterverletzung lässt sich nicht allein aus Werbefotos oder Datenblättern beweisen.
 
-## Arbeitsweise
-
-Baue zuerst einen Beweisplan: Welche Anspruchsmerkmale sind äußerlich sichtbar, welche brauchen Zerlegung, Messung, Laborprüfung oder Sachverständigenblick? Prüfe dann, welche Maßnahmen verhältnismäßig und prozessual sinnvoll sind.
-
 ## Prüfpunkte
 
 - Produkt, Anspruchsmerkmale, Beweisziel und Gegnerrolle konkret erfassen.
@@ -33,13 +25,10 @@ Baue zuerst einen Beweisplan: Welche Anspruchsmerkmale sind äußerlich sichtbar
 - Technische Analyse und anwaltliche Bewertung trennen.
 - Vor eiligen Maßnahmen Rechtsbestand und Registerstand prüfen.
 
-## Output
-
-Beweissicherungsplan, Claim-Feature-Beweistabelle und Anlagenliste.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

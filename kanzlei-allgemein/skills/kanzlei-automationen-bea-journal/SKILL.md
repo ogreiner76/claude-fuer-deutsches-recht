@@ -32,13 +32,6 @@ Plant und dokumentiert wiederkehrende Kanzlei-Routinen als sichere automatisiert
 - Art. 32 DSGVO — Technisch-organisatorische Massnahmen für sichere Automation
 - § 43 BRAO — Berufsrechtliche Pflichten bei Einsatz technischer Hilfsmittel
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill übersetzt Kanzlei-Routinen in sichere wiederkehrende Abläufe. Er richtet keine Automation ohne ausdrückliche Zustimmung ein.
-
 ## Typische Routinen
 
 - Täglicher Postlauf um 11 Uhr.
@@ -99,3 +92,4 @@ Bei HR- und Payroll-Automationen keine Diagnosen, keine unnötigen Gesundheitsda
 Bei Rechtsprechungsmonitoring keine vertraulichen Mandatsdaten in öffentliche Suchfelder übernehmen und keine Fundstellen öffentlich ablegen. Zulässig sind pseudonymisierte Suchabfragen, Trefferlisten, Verwertungsnotizen und Ablageprotokolle nach Freigabe.
 
 Bei Mandatsannahme- und GwG-Automationen keine Ausweisdokumente ungeschützt auslesen, keine Verdachtsmeldungen automatisch versenden und keine Mandatsannahme fingieren. Zulässig sind Erinnerungen, Checklisten, Dokumentationsentwürfe, Ablageprotokolle und Freigabeanforderungen.
+

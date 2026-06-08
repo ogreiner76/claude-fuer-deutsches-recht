@@ -5,10 +5,6 @@ description: "Geschäftsgeheimnisschutz nach GeschGehG: Schutzvoraussetzungen, a
 
 # GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial
 
-## Arbeitsbereich
-
-Geschäftsgeheimnisschutz nach GeschGehG: Schutzvoraussetzungen, angemessene Geheimhaltungsmaßnahmen, Verletzungshandlungen, Unterlassung, Schadensersatz und einstweiliger Rechtsschutz. Abgrenzung zu UWG und Strafrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -124,17 +120,10 @@ Mandatsbezug: Mitarbeiter verlässt Unternehmen und nimmt Kundendaten mit; Wettb
 - **EV-Antrag-Skizze:** Verfügungsanspruch §§ 6 ff. GeschGehG, Glaubhaftmachungspaket.
 - **Abmahnung Muster GeschGehG:** Verletzungshandlung, Anspruchsgrundlage, Unterlassungsaufforderung.
 
-## Quellenregel
-
-- GeschGehG: [gesetze-im-internet.de/geschgehg](https://www.gesetze-im-internet.de/geschgehg/)
-- Richtlinie (EU) 2016/943: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016L0943)
-- [§ 2 GeschGehG – dejure.org](https://dejure.org/gesetze/GeschGehG/2.html)
-- Rechtsprechung: openjur.de, bgh.de mit Gericht, Datum, AZ.
-- Keine BeckRS-Blindzitate.
-
 ## Anschluss-Skills
 
 - `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag
 - `verletzungs-triage` – Erstentscheidung
 - `unterlassungsverlangen` – Unterlassungserklärung
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beweis
+

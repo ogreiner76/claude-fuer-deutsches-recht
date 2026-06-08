@@ -34,10 +34,6 @@ Nicht aus Modellwissen; insbesondere EuGH, Urteil vom 05.12.2023, C-807/21 (Deut
 
 Art. 58 Abs. 2, Art. 78, Art. 83 Abs. 1, Art. 83 Abs. 2, Art. 83 Abs. 4, Art. 83 Abs. 5, Art. 83 Abs. 6 DSGVO; § 20, § 41 BDSG; §§ 49, 55, 65, 67, 68, 69, 71, 72, 73, 79 OWiG; § 147 StPO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Verteidigungsraster
 
 Schritt 1: Akteneinsicht beantragen.
@@ -62,3 +58,4 @@ Schritt 7: Stellungnahme verfassen; ggf. Bußgeldbescheid abwarten; Einspruch fr
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-schadensersatz-art-82` deckt zivilrechtliche Folgen ab.
+

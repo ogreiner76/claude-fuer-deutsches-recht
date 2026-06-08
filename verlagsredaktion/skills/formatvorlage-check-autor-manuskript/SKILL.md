@@ -5,10 +5,6 @@ description: "Prueft strikt die Einhaltung der Verlagsformatvorlage in Autorenma
 
 # Formatvorlage-Check (Autor-Manuskript)
 
-## Arbeitsbereich
-
-Prueft strikt die Einhaltung der Verlagsformatvorlage in Autorenmanuskripten und meldet Abweichungen so, dass der Autor sie selbst beheben kann. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,14 +92,6 @@ Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klaeren Sie:
 - LaTeX-Manuskript ohne Probekompilation freigegeben.
 - Zitiernorm-Check vergessen - landet erst in der Fahnenpruefung als Drama.
 
-## Querverweise
-
-- `verl-manuskript-merkwuerdige-formate-rettung` - bei Formatchaos.
-- `verl-zitierweise-pruefung-zeitschrift-jus-njw` - Zitiernorm separat.
-- `verl-fussnoten-quellen-konsolidierung` - Fussnotenpflege.
-- `verl-redaktionelle-rueckmeldung-formulieren` - Stil der Rueckmeldung.
-- `workflow-dokumentenintake` - Intake-Workflow.
-
 ## Quellen Stand 06/2026
 
 - NJW-Manuskriptrichtlinien (vom Verlag bezogen, Stand jeweils im Manuskriptbearbeitungspaket).
@@ -111,3 +99,4 @@ Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klaeren Sie:
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
+

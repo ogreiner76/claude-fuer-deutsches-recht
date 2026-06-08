@@ -17,10 +17,6 @@ Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Er
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Das ist das **Master-Skill** des Plugins: Es führt agentisch durch die wichtigsten Patentdatenbanken. Während das System im Hauptfenster sichtbar durch die Datenbank navigiert, erscheint das Ergebnis strukturiert im Chat.
-
 ## Eingaben
 
 - **Suchauftrag** in natürlicher Sprache ("Bitte recherchiere zu folgender Erfindung den Stand der Technik in Europa und USA …").

@@ -53,10 +53,6 @@ description: "Prüft zivilrechtliche Vertragsregelungen und ihre Auslegung auf v
 - Verhältnismäßigkeit wird nicht geprüft, weil die schützende Absicht der Regelung für sich selbst zu sprechen scheint.
 - Libertäre Alternativen (Informationspflichten, Wahlmöglichkeiten) werden nicht erwogen.
 
-## Output
-
-Das Skill erzeugt einen Paternalismus-Check: Schutzdefizitanalyse, Verhältnismäßigkeitsprüfung, Bewertung verfügbarer freiheitlicherer Alternativen und Einschätzung der verfassungsrechtlichen Legitimation der Schutzregelung. Verwendbar als Argumentationsbaustein in Schriftsätzen, Gutachten und wissenschaftlichen Beiträgen zum Vertragsrecht.
-
 ## Vertiefung: Libertärer Paternalismus als Kompromissmodell
 
 Der libertäre Paternalismus (Nudge-Theorie) bietet einen Mittelweg zwischen staatlichem Eingriff und absoluter Vertragsfreiheit: Durch kluge Standardoptionen (opt-out statt opt-in) können schützende Ergebnisse ohne Freiheitsentzug erreicht werden. Dieses Modell hat Eingang in EU-Regulierungen gefunden und ist auch für die Auslegung zivilrechtlicher Schutznormen relevant.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 14 GG bei dejure](https://dejure.org/gesetze/GG/14.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

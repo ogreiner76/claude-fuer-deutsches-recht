@@ -5,9 +5,6 @@ description: "Verhalten Saal Verletztengeld SGB im Selbstvertretung am Sozialger
 
 # Verhalten Saal Verletztengeld SGB
 
-## Arbeitsbereich
-
-**Verhalten Saal Verletztengeld SGB** ordnet den Fall über die tragenden Prüfungslinien: Wie verhalte ich mich im Sitzungssaal des SG, Verletztengeld nach § 46 SGB VII, Die Verpflichtungsklage nach § 54 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Verhalten Saal Verletztengeld SGB im Selbstvertretung am Sozialger
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `verhalten-im-saal-sozialgericht-laienleitfaden`
@@ -152,25 +150,9 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 - Reden, bevor man dran ist → warten
 - Beleidigungen → strikt vermeiden
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `ladung-termin-sozialgericht-vorbereitung` — Ladung
-- `terminvorbereitung-laien-checkliste-sozialgericht` — Vorbereitung
-- `dolmetscher-beim-sozialgericht-laien` — Dolmetscher
-- `vergleich-vorschlag-101-sgg` — Vergleich
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Hinweise.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `verletztengeld-46-sgb-vii`
 
@@ -375,27 +357,9 @@ Wie Anfechtungsklage: schriftlich, per Fax, MJP oder zur Niederschrift.
 - Versicherungsrechtliche Voraussetzungen vergessen → Versicherungsverlauf pruefen
 - Nicht beachtet, dass auch Anfechtung mit drin sein muss → kombinierter Antrag
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — Ueberblick
-- `anfechtungsklage-54-sgg` — als Teil der kombinierten Klage
-- `erwerbsminderungs-rente-streit-sgb-vi` — EM-Rente speziell
-- `pflegegrad-streit-mdk-pflegekasse-sgb-xi` — Pflegegrad speziell
-- `grad-der-behinderung-gdb-sgb-ix` — GdB speziell
-- `sachverstaendigen-wahlrecht-109-sgg` — Gutachter waehlen
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 SGG aktuell. BSG-Linie zum Berufsschutz und zum verschlossenen Teilzeitarbeitsmarkt zu beachten. Verifizierung in einer amtlichen oder frei zugänglichen Quelle empfohlen; juris nur bei vorhandenem Lizenzzugriff.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `versand-selbst-zurechnung-laien-sozialgericht`
 
@@ -507,26 +471,9 @@ Bei Einschreiben:
 - Normaler Brief am letzten Tag → kein Beweis bei Verlust
 - Empfangsstempel verblasst → frueh kopieren
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-ohne-anwalt-einreichen` — Widerspruch verschicken
-- `einreichung-mein-justizpostfach-mjp-sozialgericht` — MJP
-- `einreichung-papierform-sozialgericht-mit-abschriften` — Post
-- `einreichung-fax-und-grenzen-sozialgericht` — Fax
-- `fristen-berechnen-sgg-laien` — Fristen
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Standard-Beweispraxis.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `video-verhandlung-110a-sgg`
 
@@ -632,21 +579,7 @@ Mit freundlichen Gruessen
 - Technik nicht getestet → Stress am Termintag
 - Hund / Familie im Hintergrund → Stoerung
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `ladung-termin-sozialgericht-vorbereitung` — Ladung
-- `terminvorbereitung-laien-checkliste-sozialgericht` — Vorbereitung
-- `verhalten-im-saal-sozialgericht-laienleitfaden` — Verhalten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 110a SGG. Praxis variiert je SG.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

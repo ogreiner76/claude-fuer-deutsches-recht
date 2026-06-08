@@ -151,14 +151,6 @@ Gewerbeverlust verbraucht
 - Zerlegung bei mehreren Betriebsstätten nicht beachtet.
 - § 10a S. 1 GewStG-Vortrag mit § 10d EStG-Vortrag verwechselt.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust`
-- `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
-- `stb-sanierungsgewinn-betriebsstaette-und-international`
-- `stb-sanierungsgewinn-zuständigkeiten-fa-betriebspruefung`
-
 ## Quellen Stand 06/2026
 
 - § 7b Abs. 1, 2, 3 GewStG.
@@ -168,3 +160,4 @@ Gewerbeverlust verbraucht
 - § 3a Abs. 1, 4 EStG (Verweis).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

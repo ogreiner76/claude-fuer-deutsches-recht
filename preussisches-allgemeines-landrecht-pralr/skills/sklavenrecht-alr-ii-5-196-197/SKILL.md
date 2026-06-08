@@ -58,9 +58,3 @@ Spaetere Akte:
 4. "1-Jahres-Frist" kritisch einordnen (Verwechslung mit Code Noir oder mit gesinderechtlicher Anschlussbindung).
 5. Heutige Norm (Art. 1 GG, § 138 BGB, § 233 StGB, Art. 4 EMRK).
 
-## Output
-
-- Quellenmatrix mit ALR-Wortlaut.
-- Memo zur "freien Luft Preussens".
-- Vergleichende Synopse zu Somerset 1772 (England) und Code Noir 1716/1738 (Frankreich).
-- Rechtshistorische Hausarbeitsstruktur.

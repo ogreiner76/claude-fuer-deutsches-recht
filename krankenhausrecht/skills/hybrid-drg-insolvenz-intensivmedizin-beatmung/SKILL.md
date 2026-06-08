@@ -5,10 +5,6 @@ description: "Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für hae
 
 # Hybrid-DRG § 115f SGB V
 
-## Arbeitsbereich
-
-Hybrid-DRG nach § 115f SGB V: sektorengleiche Verguetung für haeufige Eingriffe (Hernie, Tonsillektomie u. a.), Katalog, Abrechnung gegen Kasse, Abgrenzung zu AOP und stationaerer DRG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,14 +72,6 @@ Seit 2024 sind **Hybrid-DRG** eingefuehrt: einheitliche Verguetung für einen ab
 - Stationaere Aufnahme ohne dokumentierte Begruendung — MD-Risiko.
 - Hybrid-DRG-Mengen nicht in Casemix-Statistik beachten.
 
-## Querverweise
-- `ambulantes-operieren-115b-sgb-v`
-- `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
-- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
-- `strukturpruefung-ops-und-md`
-- `sektorenuebergreifende-versorgung-level-ii-klinik`
-- `dokumentation-aufbewahrung-beweislast`
-
 ## Quellen Stand 06/2026
 - SGB V § 115f.
 - Hybrid-DRG-Verordnung (Live-Check BMG, gkv-spitzenverband.de).
@@ -98,3 +86,4 @@ Konkret zu prüfen:
 - § 17b KHG
 - InEK-DRG-Katalog
 - KHEntgG
+

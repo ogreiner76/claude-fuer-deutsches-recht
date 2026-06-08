@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Standby Letter of Credit nach ISP98 
 
 # Standby Letter of Credit nach ISP98
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Standby Letter of Credit nach ISP98 (ICC 1998). Abgrenzung zu Akkreditiv und Bankgarantie, Demand-Charakter, ISP98 Rule 1.06 (Unabhängigkeit), Rule 4 (Dokumentenprüfung) und häufige Einsatzgebiete. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Der Standby Letter of Credit (SBLC) ist ein auf Ersterstkenntnisfordering basier
 - Anti-Fraud: Gerichtsstandsklausel für Injunction-Fälle mitdenken
 - Evergreen-Klausel: Ablaufdatum und Nichterneuerungs-Notifikationsfrist sorgfältig prüfen
 
-## Output
-
-- ISP98 vs. UCP 600 Vergleich für Standbys
-- SBLC-Einsatzfälle-Matrix (Zahlungssicherung, Bietungsgarantie, Performance Bond)
-- Anti-Fraud-Clause-Muster
-
-## Quellenregel
-
-ISP98: iccwbo.org (ICC Publication 590). URDG 758: iccwbo.org. UCP 600: iccwbo.org. Schrifttum: Byrne, International Standby Practices (ISP98) (1998). Unsicherheit bleibt sichtbar.

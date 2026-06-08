@@ -45,13 +45,6 @@ description: "Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: t
 - Offenkundigkeit bei § 164 BGB fehlt häufig — kein Stellvertretungseffekt ohne sie.
 - Urteilsstil in Klausuren verwenden statt Gutachtenstil ist ein Bewertungsmangel.
 
-## Output
-
-- Annotiertes Feedback zur eingereichten Lösung mit Zeilennummern
-- Rangliste der schwerwiegendsten Fehler nach Punktgewichtung
-- Musterlösung-Skizze für den fehlerhaften Abschnitt
-- Wiederholungscheckliste für häufige BGB-AT-Klausurfehler
-
 ## Quellen
 
 - [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -81,3 +74,4 @@ Punkte.
 - Tatbestandsmerkmale unvollständig oder falsch definiert?
 - § 122 BGB nach Anfechtung übersehen?
 - Gutachtenstil verletzt (Ergebnis vor Begründung)?
+

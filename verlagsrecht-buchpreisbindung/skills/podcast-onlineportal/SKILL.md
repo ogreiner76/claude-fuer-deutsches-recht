@@ -5,10 +5,6 @@ description: "Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsr
 
 # Verl-035 · Podcast und Verlag: Content-Recycling
 
-## Arbeitsbereich
-
-Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsrechte, GEMA, Sprecher-Leistungsschutz, Content-Recycling-Klauseln und medienrechtliche Anforderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -127,3 +123,4 @@ Musterklausel:
 - **GEMA-Anmeldungsformular**: Podcast-Nutzung
 - **Interview-Einwilligungsformular**: Kurzfassung für Autoren-Interviews
 - **Medienrechtliches Impressum**: MStV-konformes Muster für Podcast-Website
+

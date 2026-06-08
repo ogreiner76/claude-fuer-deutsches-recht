@@ -5,10 +5,6 @@ description: "Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insid
 
 # Übernahmeangebot – MAR und WpÜG
 
-## Arbeitsbereich
-
-Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,23 +68,6 @@ in einem öffentlichen Übernahmeverfahren.
 - Angebotsunterlage: Enthält keine MAR-pflichtigen Informationen, aber alle wesentlichen
  Angaben nach WpÜG
 
-## Red-Team-Fragen
-
-- Wurden Bieter-Berater auf das Handelsverbot für DD-Insiderinformationen hingewiesen?
-- Hat die Zielgesellschaft den Aufschub nach Art. 17 Abs. 4 MAR rechtmäßig aufrechterhalten?
-- Wurden PDMRs beider Gesellschaften auf ihre jeweiligen Handelsverbote hingewiesen?
-- Wurden Insiderlisten beider Gesellschaften zeitgerecht und vollständig geführt?
-
-## Ausgabeformat
-
-Erzeuge:
-1. MAR/WpÜG-Pflichtentabelle (Bieter × Zielgesellschaft × Berater)
-2. Zeitstrahl Insiderinformation → § 10 WpÜG → Ad-hoc Zielgesellschaft
-3. Doppeltes Insiderlisten-Framework
-4. PDMR-Eigengeschäfts-Sperrprotokoll (beide Gesellschaften)
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Bei freiwilligen Übernahmeangeboten kann der Bieter im Vorfeld Pakete außerhalb des formellen
@@ -100,3 +79,4 @@ müssen koordiniert eingehalten werden.
 Weitere Quellen:
 - WpÜG § 23: https://www.gesetze-im-internet.de/wpueg/__23.html
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+

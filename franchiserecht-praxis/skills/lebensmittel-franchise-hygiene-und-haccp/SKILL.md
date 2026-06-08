@@ -5,10 +5,6 @@ description: "Lebensmittelfranchise rechtlich absichern: Hygienepflichten nach V
 
 # Franchiserecht: Lebensmittel-Franchise, Hygiene und HACCP
 
-## Arbeitsbereich
-
-Lebensmittelfranchise rechtlich absichern: Hygienepflichten nach VO (EG) 852/2004 und LMHV, HACCP-Konzept als Systempflicht, Haftung bei Lebensmittelskandalen im Franchise-Netz, behördliche Schliessungen und Rückrufpflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchise-Lebensmittelbetrieb (Restaurant, Bäckerei, Catering) erhält von 
 - Behördliche Schliessung eines Standorts infiziert Systemruf aller Standorte; keine Reputationskrisenplanung.
 - HACCP-Dokumentation fehlt; bei Lebensmittelskandal fehlen entlastende Nachweise.
 
-## Output
-
-- HACCP-Checkliste für Franchise-Lebensmittelbetriebe
-- Hygiene-Audit-Protokoll (Vorlage)
-- Rückruf-Kommunikationsplan für Franchisesystem
-- Haftungsabgrenzungsklausel im Franchisevertrag
-
 ## Quellen
 
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004R0852
@@ -71,6 +60,7 @@ Ein Franchise-Lebensmittelbetrieb (Restaurant, Bäckerei, Catering) erhält von 
 - https://dejure.org/gesetze/BGB/823.html
 - https://gesetze-im-internet.de/lfgb/__42a.html
 - https://gesetze-im-internet.de/lfgb/
+
 ## Vertiefung
 
 Das HACCP-Konzept (Hazard Analysis and Critical Control Points) nach Art. 5 VO (EG) 852/2004 ist für alle Lebensmittelunternehmer verpflichtend. Im Franchisekontext stellt sich die Frage, wer das HACCP-Konzept entwickelt (typischerweise der Franchisegeber als Systemstandard) und wer es implementiert und dokumentiert (der Franchisenehmer als selbstständiger Betreiber).
@@ -84,7 +74,10 @@ Wenn ein Lebensmittelfranchise-System in einen Lebensmittelskandal verwickelt wi
 - Rückruf-Kommunikationsbaum entwickeln: Franchisegeber informiert alle Franchisenehmer innerhalb von 2 Stunden.
 - Behördenbescheide und Schliessungsverfügungen einzelner Standorte sofort an den Franchisegeber melden.
 - Lebensmittelsicherheitssystem regelmässig intern auditieren; externe Zertifizierung (z. B. IFS Food) als Qualitätssignal.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

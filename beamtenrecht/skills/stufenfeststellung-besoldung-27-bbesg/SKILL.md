@@ -5,10 +5,6 @@ description: "Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe n
 
 # Stufenfeststellung Besoldung nach § 27 BBesG
 
-## Arbeitsbereich
-
-Skill zur erstmaligen Stufenfeststellung in der Besoldungsgruppe nach § 27 BBesG bzw. den landesrechtlichen Parallelvorschriften. Klaert Anerkennung beruflicher Vorzeiten Wartezeiten Stufenaufstieg Verzoegerungstatbestaende Hemmungen durch Beurlaubung Elternzeit und Teilzeitbeschaeftigung. Behandelt die Konstellation Wechsel aus Tarif in Beamtenverhaeltnis Wechsel zwischen Bund und Land sowie die unionsrechtlich gebotene Vorzeitenanerkennung aus EuGH-Rechtsprechung. Liefert Antrag auf Korrektur und Schriftsatzbausteine für Widerspruch und Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -71,3 +67,4 @@ Skill für Beamte, die ihre Erfahrungsstufe der Besoldung anzweifeln. Anwendung 
 ## 7. Beispiel (Kurzfassung)
 
 Mandantin wechselt nach 12 Jahren Tarifbeschaeftigung im Hochschulrechenzentrum in ein Beamtenverhaeltnis als IT-Referatsleiterin. Stufenfeststellung erkannt nur drei Jahre an. Skill liefert Antrag auf Korrektur unter Verweis auf Foerderlichkeit der Vortaetigkeit.
+

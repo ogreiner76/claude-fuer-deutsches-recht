@@ -5,10 +5,6 @@ description: "Anfechtung, Verpflichtung oder Eilrechtsschutz gegen BNetzA-Beschl
 
 # Anfechtung von BNetzA-Beschlüssen
 
-## Arbeitsbereich
-
-Anfechtung, Verpflichtung oder Eilrechtsschutz gegen BNetzA-Beschlüsse und Nebenbestimmungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Anfechtung, Verpflichtung oder Eilrechtsschutz gegen BNetzA-Beschlüsse und Nebe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Unternehmen, die BNetzA-Entscheidungen angreifen oder verteidigen.
-
 ## Norm- und Quellenanker
 
 VwGO; TKG; VwVfG; Rechtsbehelfsbelehrung live prüfen.
-
-## Arbeitsfragen
-
-1. Welche Klageart?
-2. Welche Frist?
-3. Welche aufschiebende Wirkung/Eilstrategie?
-
-## Output
-
-Klage-/Eilantragsgerüst und Fristenplan.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Klage-/Eilantragsgerüst und Fristenplan.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

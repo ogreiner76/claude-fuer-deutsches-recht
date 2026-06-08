@@ -161,14 +161,6 @@ beachtet; parallel § 7b GewStG-Antrag.
 - Sanierungseignung nicht plausibilisiert; Maßnahme zu klein.
 - § 3a Abs. 2 EStG (unternehmensbezogen) mit personenbezogen verwechselt.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-estg-unternehmens-vs-person`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
-- `stb-sanierungsgewinn-bmf-2017-sanierungserlass-nachfolge`
-- `stb-sanierungsgewinn-vorbereitungs-checkliste`
-
 ## Quellen Stand 06/2026
 
 ### Normen
@@ -199,3 +191,4 @@ beachtet; parallel § 7b GewStG-Antrag.
 ### Querverweis Liquidations-Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse zur Behandlung stehen gelassener Verbindlichkeiten in der Liquidation.
+

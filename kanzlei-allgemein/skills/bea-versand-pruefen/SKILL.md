@@ -32,9 +32,6 @@ Prüft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO § 65d SGG § 
 - § 12 ERVV — Technische Anforderungen an den elektronischen Rechtsverkehr
 - § 130a Abs. 6 ZPO — Wiedereinsetzung bei nachgewiesener technischer Stoerung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - **§ 31a BRAO** beA-Pflicht für Rechtsanwälte.
@@ -126,3 +123,4 @@ Beide gehören in die Mandatsakte unter `mandate/<az>/03_schriftsaetze/<datum>-b
 - Eintrag im `versand-audit.jsonl`.
 - Quittungen unter Mandatsakte.
 - Bei Störung: Störungsdokumentation als PDF.
+

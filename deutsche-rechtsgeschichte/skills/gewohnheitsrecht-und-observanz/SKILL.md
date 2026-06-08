@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Gewohnheitsrecht und Observanz. Consuet
 
 # Gewohnheitsrecht und Observanz
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Gewohnheitsrecht und Observanz. Consuetudo im gemeinen Recht, Puchtas Gewohnheitsrechtslehre, Handelsbräuche im HGB und Gewohnheitsrecht im modernen deutschen Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Gewohnheitsrecht war im mittelalterlichen und fruehneuzeitlichen Recht die Haupt
 - BGH zu Handelsbräuchen: bgh.de (Handelsrecht-Entscheidungen)
 - Historische Handelsbräuche: HGB-Kommentare mit historischen Annotationen
 
-## Output
-
-- Uebersicht: Gewohnheitsrecht vs. kodifiziertes Recht in jeder Epoche
-- HGB § 346: Anwendungsvoraussetzungen und Praxisbeispiele
-- Vergleich Puchta-Savigny-Gierke zur Gewohnheitsrechtslehre
-
-## Quellenregel
-
-HGB: gesetze-im-internet.de. BGH: bgh.de. Historische Quellen: Puchta Das Gewohnheitsrecht (1828/1837), Savigny System Bd. I (1840). Unsicherheit sichtbar lassen.

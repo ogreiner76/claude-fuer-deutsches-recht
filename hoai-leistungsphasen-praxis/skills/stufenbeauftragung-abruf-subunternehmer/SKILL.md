@@ -5,10 +5,6 @@ description: "HOAI-Fachfrage: Stufenbeauftragung, Optionsabruf, Nichtabruf weite
 
 # Stufenbeauftragung, Abruf Und Nichtabruf
 
-## Arbeitsbereich
-
-HOAI-Fachfrage: Stufenbeauftragung, Optionsabruf, Nichtabruf weiterer Leistungsphasen, Kündigung, Vergütung, Vorleistung und Akquisitionsrisiko im Architektenvertrag prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ HOAI-Fachfrage: Stufenbeauftragung, Optionsabruf, Nichtabruf weiterer Leistungsp
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Dieses Fachmodul bei Verträgen, in denen LPH 1-2, 1-4 oder 1-5 fest beauftragt sind und weitere LPH nur optional abgerufen werden.
 
 ## Prüffragen
 
@@ -34,6 +26,3 @@ Dieses Fachmodul bei Verträgen, in denen LPH 1-2, 1-4 oder 1-5 fest beauftragt 
 - §§ 631, 648, 650p bis 650r BGB.
 - HOAI nur für Honorarorientierung und Leistungsabgrenzung, nicht als automatischer Abruf.
 
-## Output
-
-Eine Stufenmatrix: Stufe, Status, Leistungsnachweis, Vergütungsgrund, Kündigungs-/Nichtabrufrisiko, nächster Brief.

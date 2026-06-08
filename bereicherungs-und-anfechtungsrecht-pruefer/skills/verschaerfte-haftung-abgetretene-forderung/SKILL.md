@@ -40,13 +40,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-§ 819 BGB schließt die Entreicherungseinrede aus und unterwirft den bösgläubigen Bereicherungsschuldner einer verschärften Haftung.
-
 ## Tatbestand § 819 Abs. 1 BGB — Kenntnis des Mangels
 
 **Voraussetzung:** Positive Kenntnis der Tatsachen, aus denen sich das Fehlen des Rechtsgrundes ergibt. Grob fahrlässige Unkenntnis genügt nach dem Gesetzeswortlaut nicht (str.).
@@ -115,3 +108,4 @@ Sachverhalt (kurz): [...]
 3. Sind Anschlusswege erwünscht? [Mediation / Direktgespräch / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+

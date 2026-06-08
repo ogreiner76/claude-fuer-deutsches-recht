@@ -93,14 +93,6 @@ In der Stellungnahme:
 - Antwort auf NKR-Nachfrage erst nach Stellungnahme-Vorlage
 - Verweis auf "weitere Konkretisierung im Verordnungsweg" ohne Hinweis auf erneute NKR-Befassung
 
-## Querverweise
-
-- `nkr-aufgabe-und-kompetenz-nkrg`
-- `nkr-verfahrensgang-referentenentwurf-bis-bundestag`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-evaluation-und-jahresbericht`
-- `legistik-werkstatt/verbaendeanhoerung-ressortabstimmung`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 1, 3, 5, 6
@@ -108,3 +100,4 @@ In der Stellungnahme:
 - Geschaeftsordnung des NKR (intern)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

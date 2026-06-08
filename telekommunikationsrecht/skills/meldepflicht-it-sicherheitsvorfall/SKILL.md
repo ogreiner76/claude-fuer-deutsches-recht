@@ -5,10 +5,6 @@ description: "Sicherheitsvorfälle bei TK-Anbietern: BNetzA/BSI/DSGVO-Meldungen,
 
 # IT-Sicherheitsvorfall und Meldepflicht
 
-## Arbeitsbereich
-
-Sicherheitsvorfälle bei TK-Anbietern: BNetzA/BSI/DSGVO-Meldungen, Kundenkommunikation, Ursachenanalyse und Abhilfe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Sicherheitsvorfälle bei TK-Anbietern: BNetzA/BSI/DSGVO-Meldungen, Kundenkommuni
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Incident Response im TK-Betrieb.
-
 ## Norm- und Quellenanker
 
 TKG Sicherheitsvorschriften; BSI-Gesetz/NIS2; DSGVO Art. 33, 34.
-
-## Arbeitsfragen
-
-1. Was ist passiert und welche Dienste betroffen?
-2. Welche Meldewege und Fristen?
-3. Welche Sofortmaßnahmen?
-
-## Output
-
-Incident-Meldeplan und Vorstandsvorlage.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Incident-Meldeplan und Vorstandsvorlage.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

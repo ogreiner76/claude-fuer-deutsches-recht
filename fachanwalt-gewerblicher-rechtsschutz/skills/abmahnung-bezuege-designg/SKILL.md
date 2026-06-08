@@ -5,9 +5,6 @@ description: "Abmahnung Bezuege Designg im Plugin Fachanwalt Gewerblicher Rechts
 
 # Abmahnung Bezuege Designg
 
-## Arbeitsbereich
-
-**Abmahnung Bezuege Designg** ordnet den Fall über die tragenden Prüfungslinien: Abmahnung, Streitwerte, Gebühren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Abmahnung Bezuege Designg im Plugin Fachanwalt Gewerblicher Rechts
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-abmahnung-formular-portal-und-einreichung`
@@ -30,9 +28,6 @@ description: "Abmahnung Bezuege Designg im Plugin Fachanwalt Gewerblicher Rechts
 **Fokus:** Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz. § 13 UWG Formerfordernisse, DPMA-Online-Dienste, EUIPO-Portal, beA-Einreichung, Vollmachtsnachweis, Fehlerquellen und Heilung.
 
 ### Abmahnung: Formular, Portal und Einreichungslogik
-
-## Aufgabe
-Dieser Skill behandelt die formalen Anforderungen an Abmahnungen im gewerblichen Rechtsschutz: gesetzliche Formerfordernisse, Übermittlungswege, Portalzugang und häufige Fehlerquellen.
 
 ## Formale Anforderungen Abmahnung
 
@@ -120,13 +115,6 @@ Keine spezifischen gesetzlichen Formerfordernisse wie § 13 UWG; aber Vollmachts
 - `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – EV nach Abmahnung.
 - `spezial-rechtsschutz-fristen-form-und-zuständigkeit` – Fristen und Formalien.
 
-## Quellenregel
-- UWG, ZPO: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- DPMA: [dpma.de](https://www.dpma.de); EUIPO: [euipo.europa.eu](https://euipo.europa.eu); ZSSR: [zssr.de](https://www.zssr.de).
-- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Fristenberechnung ohne vollständige Sachverhaltskenntnis.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -136,9 +124,6 @@ Keine spezifischen gesetzlichen Formerfordernisse wie § 13 UWG; aber Vollmachts
 **Fokus:** Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtsschutz: Streitwertrahmen Marke/Patent/Design/UWG, RVG-Gebühren, Gerichtskosten GKG, Schadensersatzberechnung (drei Methoden), DPMA/EUIPO-Gebührentabellen, Vertragsstrafe.
 
 ### Bezüge, Zahlen, Schwellen und Berechnung
-
-## Aufgabe
-Dieser Skill liefert die wichtigsten Zahlen, Gebühren und Berechnungsrahmen im gewerblichen Rechtsschutz: Streitwerte, Anwaltsgebühren, Gerichtsgebühren, Schadensersatz und Behördengebühren.
 
 ## Streitwertrahmen – Orientierungspunkte
 
@@ -238,12 +223,6 @@ Entgangener Gewinn + nachgewiesener Schaden.
 4. Liegt eine Vertragsstrafe vor und ist diese zu beziffern?
 5. Output: Gebührentabelle, Kostenrechnung, Schadensersatzberechnung, Streitwert-Memo?
 
-## Quellenregel
-- RVG: [gesetze-im-internet.de/rvg](https://www.gesetze-im-internet.de/rvg/); GKG: [gesetze-im-internet.de/gkg](https://www.gesetze-im-internet.de/gkg/).
-- DPMA: [dpma.de/dpma/gebuehren](https://www.dpma.de/dpma/gebuehren/); EUIPO: [euipo.europa.eu/ohimportal/en/fees-and-payments](https://euipo.europa.eu/ohimportal/en/fees-and-payments).
-- Keine Berechnung aus Modellwissen ohne Live-Prüfung aktueller Tabellen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindlichen Kostenberechnungen ohne vollständige Daten.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -254,9 +233,6 @@ Entgangener Gewinn + nachgewiesener Schaden.
 **Fokus:** DesignG: Behörden, Gerichte und Registerwege. DPMA-Anmeldung, EUIPO-GGM, Nichtigkeitsverfahren, Registerrecherche, Zuständigkeitsverteilung zwischen DPMA und Designgerichten, Musterschutzklage, Rechtsmittelwege.
 
 ### DesignG: Behörden, Gerichte und Registerweg
-
-## Aufgabe
-Dieser Skill behandelt die behördlichen und gerichtlichen Wege im Designrecht: Anmeldung, Register, Nichtigkeitsverfahren, Gerichtszuständigkeiten und Rechtsmittelwege.
 
 ## Rechtsrahmen
 
@@ -367,13 +343,6 @@ Deutschland hat folgende GGM-Gerichte designiert:
 - `designrecht-praxis-grundlagen` – Schutzvoraussetzungen und Verletzungsprüfung.
 - `spezial-designverletzung-red-team-und-qualitaetskontrolle` – Red-Team bei Designverletzung.
 - `spezial-euipo-internationaler-bezug-und-schnittstellen` – EUIPO-Verfahren international.
-
-## Quellenregel
-- DesignG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/designg/); GGV: [eur-lex.europa.eu](https://eur-lex.europa.eu).
-- DPMA: [dpma.de](https://www.dpma.de); EUIPO: [euipo.europa.eu](https://euipo.europa.eu).
-- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de), [curia.europa.eu](https://curia.europa.eu).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 ## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Designprüfung ohne Kenntnis der Abbildungen.

@@ -45,13 +45,6 @@ description: "Klausurfall zur ergänzenden Vertragsauslegung nach §§ 133 und 1
 - Dispositives Recht hat Vorrang vor ergänzender Auslegung wenn eine passende Norm existiert.
 - Im AGB-Recht sind die Anforderungen an ergänzende Auslegung strenger als bei Individualverträgen.
 
-## Output
-
-- Prüfungsschema ergänzende Vertragsauslegung: Lücke — planwidrig — hypothetischer Wille
-- Abgrenzungstabelle: ergänzende Auslegung vs. dispositives Recht vs. § 313 BGB
-- Gutachtenstil-Abschnitt zur Lückenschließung
-- Klausurlösungsskizze mit Ergebnis
-
 ## Quellen
 
 - [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -81,3 +74,4 @@ wollte, sondern was beide bei redlichem Vorgehen gewollt hätten.
 - Wenn nicht: Hypothetischer Parteiwille nach §§ 133 und 157 BGB ermittelbar?
 - Ergebnis sachgerecht und für beide Parteien zumutbar?
 - Abgrenzung zum Dissens: Haben Parteien die Lücke bewusst offengelassen?
+

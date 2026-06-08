@@ -5,10 +5,6 @@ description: "Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Sys
 
 # Spezial: Red-Team und Qualitätskontrolle
 
-## Arbeitsbereich
-
-Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Systematische Überprüfung von Schriftsätzen, Memos und Rechtsanalysen auf Fehler, Quellenschwächen, Gegenargumente und blinde Flecken. Checkliste für interne Qualitätssicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -150,16 +146,10 @@ Empfehlung vor Versand:
 [ ] Rücksprache mit Mandant erforderlich (Details: _______)
 ```
 
-## Quellenregel
-
-- [§ 8c UWG – dejure.org](https://dejure.org/gesetze/UWG/8c.html)
-- [§ 945 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/945.html)
-- Rechtsprechung immer mit Gericht, Datum, AZ und prüfbarer Quelle.
-- Keine Aussagen aus Modellwissen ohne Live-Check bei tragenden Argumenten.
-
 ## Anschluss-Skills
 
 - `workflow-redteam-qualitygate` – Red-Team-im Plugin
 - `spezial-source-red-team-und-qualitaetskontrolle` – Dieser Skill (Selbstreferenz)
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweislastfragen
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beweis
+

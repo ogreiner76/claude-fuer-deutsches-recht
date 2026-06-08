@@ -11,10 +11,6 @@ description: "Kommunalen Grundsteuerbescheid prüfen: Hebesatz, Satzung, Fällig
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Aufgabe
-
-Prüfe den Grundsteuerbescheid der Gemeinde und organisiere Zahlung, Stundung, Erlass oder kommunale Rechtsbehelfe. Dieser Skill ist nicht für Bewertungsfehler im Grundsteuerwertbescheid gedacht.
-
 ## Prüfen
 
 1. Messbetrag aus dem Finanzamtsbescheid übernommen?
@@ -32,16 +28,6 @@ Prüfe den Grundsteuerbescheid der Gemeinde und organisiere Zahlung, Stundung, E
 - Hebesatzjahr verwechselt,
 - Vorauszahlungen ohne neuen Bescheid fortgeschrieben,
 - Hausverwaltung legt Kosten falsch auf Mieter oder WEG-Einheiten um.
-
-## Output
-
-Erstelle:
-
-- Zahlungsplan mit Fälligkeiten und Vorfristen.
-- Gemeindeschreiben bei Übernahmefehler.
-- Stundungs-/Ratenzahlungsantrag, wenn nötig.
-- Hinweis auf parallelen Einspruch beim Finanzamt, wenn die Bewertung falsch ist.
-- Betriebskosten-/WEG-Hinweis nur als Nebensatz; vertiefte Prüfung an Miet-/WEG-Plugin abgeben.
 
 ## Abgrenzung
 
@@ -71,10 +57,3 @@ Wenn der Wert falsch ist, nicht bei der Gemeinde "korrigieren" wollen. Dann `anw
 - Rechtsbehelf gegen Hebesatzbescheid wird als Angriff auf den Grundsteuerwert geführt; die Gemeinde verweist auf den Grundlagenbescheid nach § 351 Abs. 2 AO - dort muss der Einspruch laufen.
 - Zahlung "unter Vorbehalt" eingestellt, ohne förmliche AdV beim Finanzamt; Folge: Mahn- und Vollstreckungsverfahren der Gemeinde.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

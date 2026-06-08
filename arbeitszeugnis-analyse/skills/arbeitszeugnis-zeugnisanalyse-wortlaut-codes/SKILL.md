@@ -30,14 +30,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Zuständigkeit:** ArbG erstinstanzlich (§ 2 Abs. 1 Nr. 3a ArbGG); Streitwert ein Bruttomonatsgehalt analog § 42 Abs. 2 GKG; keine Anwaltspflicht erste Instanz (§ 11 ArbGG); Klagegegner ist Arbeitgeber, bei Betriebsübergang nach § 613a BGB der Erwerber.
 5. **Anschluss:** Aufforderungsschreiben mit Fristsetzung (2-4 Wochen üblich), bei Untätigkeit Klage; Antrag konkretisieren ("verurteilt, ein qualifiziertes Arbeitszeugnis mit folgendem Inhalt zu erteilen ..." oder unbestimmter Antrag mit Notenangabe).
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

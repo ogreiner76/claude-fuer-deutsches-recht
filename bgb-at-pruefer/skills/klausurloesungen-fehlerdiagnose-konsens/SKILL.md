@@ -5,10 +5,6 @@ description: "Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: t
 
 # Klausurlösungen — Fehlerdiagnose und Verbesserung
 
-## Arbeitsbereich
-
-Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbau
 - Offenkundigkeit bei § 164 BGB fehlt häufig — kein Stellvertretungseffekt ohne sie.
 - Urteilsstil in Klausuren verwenden statt Gutachtenstil ist ein Bewertungsmangel.
 
-## Output
-
-- Annotiertes Feedback zur eingereichten Lösung mit Zeilennummern
-- Rangliste der schwerwiegendsten Fehler nach Punktgewichtung
-- Musterlösung-Skizze für den fehlerhaften Abschnitt
-- Wiederholungscheckliste für häufige BGB-AT-Klausurfehler
-
 ## Quellen
 
 - [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -93,3 +82,4 @@ Punkte.
 - Tatbestandsmerkmale unvollständig oder falsch definiert?
 - § 122 BGB nach Anfechtung übersehen?
 - Gutachtenstil verletzt (Ergebnis vor Begründung)?
+

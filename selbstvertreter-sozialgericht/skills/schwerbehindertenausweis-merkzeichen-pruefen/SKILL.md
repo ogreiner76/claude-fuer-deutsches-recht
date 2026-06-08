@@ -61,7 +61,3 @@ description: "Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert d
 6. Stimmen die zugrunde gelegten Funktionsbeeinträchtigungen mit den Befundberichten überein?
 7. Ist ein Änderungsantrag sinnvoll oder riskant, weil der Gesamt-GdB insgesamt neu geprüft werden kann?
 
-## Output
-
-- Merkzeichen-Matrix mit Voraussetzung, Belegen, Nachteilsausgleich, fehlendem Befund und Widerspruchsargument.
-- Arztbrief-Fragenliste in Alltagssprache, damit die betroffene Person keine bloßen Diagnosen, sondern funktionelle Einschränkungen belegt.

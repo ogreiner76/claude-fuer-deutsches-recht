@@ -5,10 +5,6 @@ description: "Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`
 
 # Semesterübergabe
 
-## Arbeitsbereich
-
-Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an die nächste übergibt. Liest Fristendatei, Mandantenkommunikationslog und Fallhistorie. Lädt, wenn der Supervisor oder abgehende Studierende den Semesterabschluss koordinieren, Übergabenotizen erstellen oder einen ausscheidenden Studierenden abmelden müssen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -49,6 +45,7 @@ Ohne diese Übergabe verlässt das Fallwissen die Beratungsstelle mit den Studie
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1: Fälle und Zuständigkeiten identifizieren
@@ -184,10 +181,6 @@ Das Schließen oder Übergeben eines Falls ist eine folgenschwere Handlung. Das 
 
 Nach Supervisoren-Prüfung liegen die Übergabenotizen unter `handoffs/[semester]/[fall-id].md`. Der/die Nachfolger/-in liest sie im `/einarbeitung`-Durchlauf zu Semesterbeginn — `/einarbeitung` soll die Notizen für die zugewiesenen Fälle surfacen.
 
-## Ausgabeformat
-
-Per-Fall-Übergabenotiz (Markdown) plus Kohortenübersicht, beide nach dem Schema oben. Alle Notizen werden ausschließlich innerhalb der Beratungsstelle über sichere, bestellungsführende Systeme ausgetauscht.
-
 ## Beispiel
 
 **Szenario:** Studierende Müller beendet das Semester und gibt Fall `erdem-mietrecht-2026` an nachfolgende Studierende Schulze weiter. Frist: Widerspruch gegen Mieterhöhung am 08.06.2026.
@@ -207,3 +200,4 @@ Per-Fall-Übergabenotiz (Markdown) plus Kohortenübersicht, beide nach dem Schem
 Übergabenotizen sind interne Arbeitsdokumente, keine zitierten Rechtsgutachten. Alle darin enthaltenen offenen Rechtsfragen sind in den entsprechenden Skills (`/memo`, `/recherche-start`) mit Quellenangaben zu hinterlegen. Die Übergabenotiz verweist auf das zugrundeliegende Gutachten, zitiert aber keine Normen eigenständig ohne Verifizierung.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

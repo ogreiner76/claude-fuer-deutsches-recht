@@ -5,10 +5,6 @@ description: "Begleitet die Übertragung von Fondsanteilen, Zustimmungserfordern
 
 # LP-Transfer und Secondary Interest Sale
 
-## Arbeitsbereich
-
-Begleitet die Übertragung von Fondsanteilen, Zustimmungserfordernisse, KYC-Neuaufnahme und Käufer-DD. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,14 +81,6 @@ Apportionment of Distributions / Capital Calls (Secondary SPA):
 - Side-Letter-Erwartungen des Buyers ohne Sponsor-Confirmation — späteres Veto.
 - Tax-Stempel oder Substanz-Test in LUX/UK ignoriert.
 
-## Querverweise
-
-- pe-011 für Side Letter und Sub-Doc.
-- pe-013 für Capital Calls / Unfunded.
-- pe-017 für GP-led Secondaries / Continuation Funds.
-- pe-019 für KYC bei Buyer-Onboarding.
-- pe-020 für Tax-Schnittstellen.
-
 ## Quellen Stand 06/2026
 
 - KAGB §§ 1 Abs. 19, 281 ff.
@@ -101,3 +89,4 @@ Apportionment of Distributions / Capital Calls (Secondary SPA):
 - AnlV (für Versicherer); FKAustG (CRS); FATCA-Abkommen DE-USA.
 - ILPA Secondary Market Guidance (jeweils aktuelle Fassung vom Anwender zu prüfen).
 - Coller Capital Global Private Equity Barometer (Stand vom Anwender zu prüfen).
+

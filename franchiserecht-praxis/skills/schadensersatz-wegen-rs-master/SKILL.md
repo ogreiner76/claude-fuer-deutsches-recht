@@ -5,10 +5,6 @@ description: "Schadensersatzklage wegen Falschaufklärung im Franchiserecht vorb
 
 # Franchiserecht: Schadensersatz wegen Falschaufklärung
 
-## Arbeitsbereich
-
-Schadensersatzklage wegen Falschaufklärung im Franchiserecht vorbereiten: Anspruchsgrundlagen §§ 280 und 311 BGB, Kausalität, Schadensberechnung (negatives Interesse), Verjährung, Anfechtung nach § 123 BGB und Beweisführung im Klageverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisenehmer fordert Schadensersatz, weil er vor Vertragsschluss über Re
 - Anfechtungsklage wird nicht fristgemäss innerhalb eines Jahres nach § 124 BGB erklärt.
 - Mitverschulden des Franchisenehmers wird grob unterschätzt; Gericht kürzt Schadensersatz erheblich.
 
-## Output
-
-- Haftungsanalyse: cic vs. Anfechtung vs. beides
-- Schadensberechnung (Aufstellung negatives Interesse)
-- Klageschrift-Entwurf Schadensersatz Franchise
-- Verjährungs-Checkliste
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/311.html
@@ -71,6 +60,7 @@ Ein Franchisenehmer fordert Schadensersatz, weil er vor Vertragsschluss über Re
 - https://dejure.org/gesetze/BGB/249.html
 - https://dejure.org/gesetze/BGB/195.html
 - https://www.bgh.de/
+
 ## Vertiefung
 
 Der Schadensersatz wegen Falschaufklärung im Franchiserecht hat zwei Dimensionen: Das negative Interesse (Vertrauensschaden) ersetzt den Schaden, der dadurch entstanden ist, dass der Franchisenehmer im Vertrauen auf die Richtigkeit der Aufklärung gehandelt hat. Das positive Interesse (Erfüllungsschaden) würde den Schaden ersetzen, wenn die Aufklärung richtig gewesen wäre.
@@ -84,7 +74,10 @@ Bei der cic-Haftung schuldet der Franchisegeber das negative Interesse: Der Fran
 - Beweismittel für die Falschaufklärung frühzeitig sichern: Gesprächsprotokolle, E-Mails, Disclosure-Dokument-Versionen.
 - Anfechtung nach § 123 BGB parallel zu cic-Schadensersatz prüfen; Jahresfrist überwachen.
 - Verjährung nach § 199 BGB: 3 Jahre ab Jahresschluss, in dem Schaden und Schuldner bekannt wurden.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

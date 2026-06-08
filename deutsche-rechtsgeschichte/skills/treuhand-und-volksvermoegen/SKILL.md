@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen.
 
 # Treuhandanstalt und DDR-Volksvermoegen
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen. Treuhandgesetz 1990, THA-Privatisierungen, parlamentarische Kontrolle, Schulden und historisch-rechtliche Bewertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Die Treuhandanstalt (THA) wurde mit dem Treuhandgesetz vom 17. Juni 1990 (GBl. I
 - THA-Akten im Bundesarchiv: Bestand DG 1 (THA-Hauptverwaltung), Findmittel via invenio
 - Parlamentarische Kontrolle: Bundestag-Untersuchungsausschuss THA 1992
 
-## Output
-
-- Uebersicht THA-Struktur und Privatisierungsstatistik
-- Rechtliche Grundlagen der Treuhand (Treuhandgesetz, EV Art. 25)
-- Kritikpunkte und politische Debatte tabellarisch zusammengefasst
-
-## Quellenregel
-
-Treuhandgesetz 1990: GBl. DDR I via ALEX/OeNB. Einigungsvertrag: BGBl. II 1990, 885. Bundesarchiv THA-Akten: invenio.bundesarchiv.de. Sekundaerliteratur: Breuel (Hrsg.), Ohne historisches Vorbild; mit Seite.

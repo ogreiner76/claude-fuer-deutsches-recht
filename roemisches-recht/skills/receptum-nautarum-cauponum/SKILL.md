@@ -5,10 +5,6 @@ description: "Receptum nautarum cauponum stabulariorum: praetorische Schaerfung 
 
 # Rom 126 Receptum Nautarum Cauponum Stabulariorum
 
-## Aufgabe
-
-Skill für die strenge praetorische Schaerfung der Haftung der nautae cauponum stabulariorum.
-
 ## Rechtsquelle
 
 - D. 4.9 (Nautae caupones stabularii ut recepta restituant).
@@ -59,7 +55,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.

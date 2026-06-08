@@ -79,12 +79,6 @@ Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Wer
 - **Konformitätserklärung** in falscher Amtssprache.
 - **Missbräuchliche Abmahnung** ohne § 8 Abs. 3 UWG-Aktivlegitimation.
 
-## Querverweise
-
-- `cra-produkt-mit-digitalen-elementen`
-- `betriebsanleitung-sprache-und-warnhinweise`
-- `robotik-recht-allgemein`
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2023/1230 (MaschinenVO), Art. 16, Anhang II.
@@ -97,3 +91,4 @@ Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Wer
 - UWG §§ 3, 3a, 5, 8, 8c, 13.
 - NANDO-Datenbank der EU-Kommission.
 - Live-Verifikation auf eur-lex.europa.eu, BAuA, ec.europa.eu/growth (NANDO); lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

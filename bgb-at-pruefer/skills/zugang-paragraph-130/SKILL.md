@@ -45,13 +45,6 @@ description: "Klausurfall zum Zugang empfangsbedürftiger Willenserklärungen na
 - E-Mail außerhalb der Geschäftszeiten: Im B2B-Bereich Zugang erst am nächsten Werktag nach h.M.
 - Zugangsvereitelung führt zu fiktivem Zugang nach § 242 BGB — Treu und Glauben.
 
-## Output
-
-- Gutachtenstil-Abschnitt zu § 130 BGB mit vollständiger Subsumtion
-- Zeitstrahl: Abgabe → Machtbereich → Kenntnisnahmemöglichkeit → Zugangszeitpunkt
-- Prüfampel: Zugang erfolgt / Widerruf wirksam / Zugangsvereitelung nach § 242 BGB
-- Klausurlösungsskizze mit E-Mail- und Briefkastenvariante
-
 ## Quellen
 
 - [§ 130 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__130.html)
@@ -84,3 +77,4 @@ BGB ist der Zugang beim zuständigen Bediensteten oder in der Poststelle maßgeb
 - Widerruf nach § 130 Abs. 1 S. 2 BGB: Gleichzeitig oder vor der Erklärung zugegangen?
 - Zugangsvereitelung: Aktives Verhindern des Zugangs — § 242 BGB?
 - Tod des Erklärenden nach Abgabe: § 130 Abs. 2 BGB — Wirksamkeit bleibt?
+

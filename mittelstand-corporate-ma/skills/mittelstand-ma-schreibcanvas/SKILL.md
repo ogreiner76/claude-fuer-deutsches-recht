@@ -5,10 +5,6 @@ description: "Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung
 
 # Freistehender Corporate-Schreibcanvas
 
-## Arbeitsbereich
-
-Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Prüfraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollständigkeit. Output Kommentierter-Entwurf Verbesserungshinweise Substanz-Prüfung. Abgrenzung zu vertragsmarkup-key-issues (Vertragsprüfung) und output-versand-signing (Ausgabe). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report ode
 ## Fachkern: Freistehender Corporate-Schreibcanvas
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Mandatsaufnahme, Deal-PMO, Unternehmerkommunikation, Staffing und Budgetsteuerung**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Freistehender Corporate-Schreibcanvas
 
-## Zweck
-
-Dieser Skill ist der freundliche Schreib- und Qualitätsbegleiter im M&A-Plugin. Er erkennt beim Entwerfen von SPA-Klauseln, Markup-Antworten, Board Papers, DD-Reports, Mandatsvereinbarungen, Registertexten und Management-Memos, wenn eine Aussage noch juristisch unsubstantiiert, unbelegt, zu scharf, zu weich oder transaktionspraktisch unklar ist.
-
 ## Arbeitsmodus
 
 - Nicht nerven: kurze Hinweise geben, wenn sie den nächsten Satz wirklich verbessern.
@@ -171,3 +160,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. Tonfall waehlen: sachlich-juristisch / erklaerend / konfrontativ
 3. Struktur: Einleitung, Sachverhalt, Rechtliche Wuerdigung, Ergebnis
 4. Qualitaetssicherung: Senior-Review vor Versand
+

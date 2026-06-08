@@ -5,10 +5,6 @@ description: "Kanzlei strukturiert Transaktionsteam für grosse M&A-Mandate: Wor
 
 # Deal-Team und Staffing
 
-## Arbeitsbereich
-
-Kanzlei strukturiert Transaktionsteam für grosse M&A-Mandate: Workstreams Rollen Kapazitaetsplanung Review-Level Eskalationswege. Normen BRAO § 43a Berufsrecht Mandantsgeheimnis-Sicherung. Prüfraster Workstream-Karte Rollen-Matrix Kapazitaets-Check Staffing-Risiken. Output Staffing-Plan Organigramm Deal-Team-Karte. Abgrenzung zu deal-intake (Erstaufnahme) und matter-file (Aktenstruktur). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Kanzlei strukturiert Transaktionsteam für grosse M&A-Mandate: Workstreams Rolle
 ## Fachkern: Deal-Team und Staffing
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Mandatsaufnahme, Deal-PMO, Unternehmerkommunikation, Staffing und Budgetsteuerung**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Deal-Team und Staffing
 
-## Zweck
-
-Plant Workstreams, Rollen, Kapazitäten, Review-Level und Eskalationswege für große Transaktionen.
-
 ## Arbeitsmodus
 
 - Workstreams Recht, Tax, Finance, ESG, IP/IT, Employment, Regulatory, Litigation, Real Estate und PMI anlegen.
@@ -170,9 +159,6 @@ Plant Workstreams, Rollen, Kapazitäten, Review-Level und Eskalationswege für g
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Workstream-Matrix erstellen:** je Workstream: Leader, Reviewer, Associate, Deadline
@@ -185,3 +171,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Workstream ohne qualifizierten Spezialisten: Haftungsrisiko
 - Kein Conflicts-Check für Team-Mitglieder: § 43a BRAO-Verstoß
+

@@ -17,15 +17,6 @@ description: "Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfass
 
 Sechs Schritte des Rulemap Builders nach dem Modell der Rulemapping-Group: Capture; Model; Simulate; Verify; Integrate; Improve. Jeder Schritt produziert ein eigenes Artefakt; alle Artefakte sind versionierbar und im Builder ohne Programmierung pflegbar.
 
-## Vorgehen
-
-1. Capture: Normtext erfassen; Strukturparser anwerfen; Tatbestaende; Rechtsfolgen; Ausnahmen markieren
-2. Model: Knoten und Kanten der Rulemap zeichnen; Entscheidungspfade abbilden
-3. Simulate: realistische Faelle durchspielen; Pfaddeckung pruefen
-4. Verify: automatisierte Entscheidungen gegen juristische Soll-Vorgabe pruefen
-5. Integrate: Schnittstelle zur Vollzugs-IT der Verwaltung; ohne Programmierung
-6. Improve: Feedback aus Vollzug und Gerichtsbarkeit zurueckspielen; Rulemap iterieren
-
 ## Pruefpunkte
 
 Pruefen: ist jede Entscheidungspfad-Variante abgedeckt? Sind Ausnahmen explizit modelliert und nicht implizit? Liegt die Verantwortung für die Logik beim Normgeber oder beim IT-Dienstleister?
@@ -45,17 +36,7 @@ Arbeitsfokus: **Von der Norm zur Rulemap - Vorgehensmodell**. Prüfe diese Anker
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-```
-Skill: legw-rmap-norm-zu-rulemap
-Thema: Von der Norm zur Rulemap - Vorgehensmodell
-Ergebnis: <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills: siehe Description-Verweise
-```
 
 ## Abgrenzung
 
@@ -64,3 +45,4 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 ## Quellen Stand 06/2026
 
 Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
+

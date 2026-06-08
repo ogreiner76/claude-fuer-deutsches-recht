@@ -5,10 +5,6 @@ description: "Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X
 
 # Rückforderung zu Unrecht erbrachter Leistungen
 
-## Arbeitsbereich
-
-Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X: Rücknahme, Widerruf, Erstattung; Vertrauensschutz und Verjährungsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Krankenkassen fordern manchmal Leistungen zurück, die sie zu Unrecht erbracht h
 - [BSG B 1 KR 8/15 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 45 SGB X](https://dejure.org/gesetze/SGB_X/45.html)
 - [§ 48 SGB X – Aufhebung](https://www.gesetze-im-internet.de/sgb_10/__48.html)
+

@@ -5,10 +5,6 @@ description: "Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfal
 
 # Krankheit — Entgeltfortzahlung § 3 EFZG und eAU
 
-## Arbeitsbereich
-
-Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfähigkeit. Methodik Prüfung Anspruch Berechnung. Output Lohn-Abrechnung Krank Erstattungsantrag U1. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -110,12 +106,6 @@ Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortza
 - AG ist beendet aus der Lohnabrechnung (Unterbrechungsmeldung Grund 51).
 - Bei langer Krankheit (ueber 78 Wochen): Rente wegen Erwerbsminderung pruefen.
 
-## Output
-
-- Lohn-Abrechnung mit Entgeltfortzahlung.
-- U1-Erstattungsantrag an Krankenkasse.
-- Krankheitstage-Aufzeichnung.
-
 ## Strategie und Praxis-Tipps
 
 - eAU ist seit 2023 Standard — AG-Belastung reduziert (kein Papierabruf mehr).
@@ -124,13 +114,6 @@ Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortza
 - Bei Konflikt Krankheit-Echtheit: AG kann nach BAG arbeitsrechtlich agieren.
 - StBVV: Krankheits-Abrechnung in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS eAU-Schnittstelle einrichten; automatischer Krankheits-Lohn.
-
-## Querverweise
-
-- `stb-lohn-elternzeit-mutterschutz` — Mutterschutz.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-umlage-u1-u2-insogeld-umlage` — U1/U2-Umlagen.
-- `stb-eau-elektronische-arbeitsunfaehigkeit-2023` — eAU.
 
 ## Quellen und Updates
 
@@ -142,10 +125,3 @@ Stand: 05/2026.
 - SGB V.
 - BMAS eAU-Verfahren.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

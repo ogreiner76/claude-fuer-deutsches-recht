@@ -5,10 +5,6 @@ description: "Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börs
 
 # Datenbankrecht bei Finanzmarktdaten — Börsen, Kurse und Marktdaten
 
-## Arbeitsbereich
-
-Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO bei personenbezogenen Transaktionsdaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursda
 - Kumulationsregel (§ 87b Abs. 1 S. 2 UrhG) trifft FinTechs, die täglich kleine Datenpakete abrufen.
 - DSGVO-Transaktionsdaten dürfen nicht unbeschränkt für Analytics-Zwecke verarbeitet werden — Zweckbindung beachten.
 
-## Output
-
-- Börsendaten-Herstellerrecht-Gutachten (BHB-Prüfung + separate Datenbankpflege)
-- MiFID-II-Marktdaten-Compliance-Analyse
-- Marktdaten-Lizenzvertrag-Vorlage (Echtzeit / Verzögert / Historisch)
-- Aggregator-Verletzungsanalyse und Abmahnstrategie
-- DSGVO-Prüfbogen für Transaktionsdaten in FinTech-Datenbanken
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursda
 - [MiFID-II-Richtlinie 2014/65/EU — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014L0065)
 - [DSGVO Art. 4 — dejure.org](https://dejure.org/gesetze/DSGVO/4.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

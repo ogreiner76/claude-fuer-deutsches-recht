@@ -5,23 +5,9 @@ description: "Beschwerde nach Art. 77 DSGVO gegen SCHUFA/Credit Agency: Zuständ
 
 # Aufsichtsbeschwerde gegen Auskunftei
 
-## Einsatz
-
-Wenn Auskunftei nicht löscht, nicht erklärt oder Betroffenenrechte verschleppt.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 57, 58, 77, 78; BDSG/Landesrecht Zuständigkeit; EuGH C-26/22.
-
-## Arbeitsfragen
-
-1. Welche Aufsicht ist zuständig?
-2. Welche Pflichtverletzung ist belegbar?
-3. Welche Entscheidung wird begehrt?
-
-## Output
-
-Beschwerdeschrift, Anlagenverzeichnis und Follow-up-Kalender.
 
 ## Red Flags
 
@@ -39,3 +25,4 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 - **Auskunftei-/Score-Fälle:** Bei `Aufsichtsbeschwerde gegen Auskunftei` EuGH C-634/21 zum Scoring und EuGH C-26/22/C-64/22 zur Restschuldbefreiung nur mit verifizierter Quelle und Kernaussage verwenden.
 - **Belege:** Datenkopie, Scorelogik, Speicherfrist, Insolvenzbekanntmachung, Ablehnungsschreiben der Bank, Selbstauskunft und Beschwerdeantwort getrennt ablegen.
 - **Output:** Löschungs-/Berichtigungsantrag, Aufsichtsbehördenbeschwerde, Beweisplan und Klage-/Eilrechtsschutzmatrix.
+

@@ -5,10 +5,6 @@ description: "Airline braucht Slot-Bestätigung oder neuen Slot und prueft Geneh
 
 # Slot – Genehmigung prüfen
 
-## Arbeitsbereich
-
-Airline braucht Slot-Bestätigung oder neuen Slot und prueft Genehmigungsstand. Prueft VO EWG 95/93 Grandfather Rights Koordinierungsstand FHKV IATA-WSAG Saisonantrag und liefert Slot-Bedarfs-Analyse und Antrags-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,6 +41,7 @@ VO EWG 95/93 Art. 8 10 12 LuftVG §§ 27a-27d FHKV IATA-WASG – die einschlägi
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
 - **LuftVG § 27a**: Deutsche Koordinierungsstelle (Fluko); Rechtsstellung und Aufgaben.
 - **BVerwG Urt. v. 26.01.2012 – 3 C 8.11**: Slot-Entzug als Verwaltungsakt; Rechtsweg VG.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -55,6 +52,7 @@ VO EWG 95/93 Art. 8 10 12 LuftVG §§ 27a-27d FHKV IATA-WASG – die einschlägi
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist die 80/20-Nutzungsquote (VO EWG 95/93 Art. 8) im letzten IATA-Season eingehalten?
 8. Sind Force-Majeure-Ausnahmen (COVID-Pandemie-Sonderregeln) korrekt beantragt?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -73,9 +71,6 @@ Das luftrechtliche Genehmigungsrecht ist mehrschichtig:
 - **Einzelgenehmigungen**: Nichtplanmäßige Flüge Überflüge fremden Staatsgebiets Sonderlasten erfordern gesonderte Genehmigung.
 - **Genehmigungsversagung**: Anfechtungsklage vor VG; aufschiebende Wirkung nach § 80 VwGO als Sofortmaßnahme beantragen.
 
-## Output
-
-Strukturierter Vermerk zu Slot – Genehmigung prüfen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Slot-Portfolio-Analyse mit Nutzungsnachweis. Koordinatoren-Schreiben-Template.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -105,3 +100,4 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

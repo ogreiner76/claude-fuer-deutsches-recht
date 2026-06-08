@@ -5,10 +5,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Krisenfrueherkennung St
 
 # Krisenfrueherkennung und StaRUG-Management — Allgemein
 
-## Arbeitsbereich
-
-Einstieg, Schnelltriage und Fallrouting im Krisenfrueherkennung Starug-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,15 +12,6 @@ Einstieg, Schnelltriage und Fallrouting im Krisenfrueherkennung Starug-Plugin. F
 - Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
 ## Schnellstart-Workflow
 
@@ -224,12 +211,6 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - Liquiditaetsplanung zu grob: Monatliche Granularitaet genuegt für die naechsten drei Monate nicht; woechentliche Granularitaet ist Mindeststandard in der akuten Krise.
 - Cram-Down ohne Schlechterstellungsverbot-Nachweis beantragt: Das Gericht wird den Antrag zurueckweisen, wenn der Schlechterstellungstest nicht dokumentiert ist.
 
-## Querverweise
-
-- `arbeitsrecht` — Wenn Massenentlassungen (§ 17 KSchG) oder Betriebsaenderungen (§ 111 BetrVG) im Restrukturierungsplan vorgesehen sind.
-- `prozessrecht` — Fuer Vollstreckungsabwehr und anfechtungsrechtliche Fragen im Umfeld der Sanierung.
-- `gewerblicher-rechtsschutz` — Wenn IP-Rechte im Restrukturierungsplan einer Verwertung zugefuehrt oder lizenziert werden sollen.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
@@ -237,3 +218,4 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - InsO §§ 15a, 17, 18, 19 in geltender Fassung
 - GmbHG § 43, AktG § 93 in geltender Fassung
 - IDW S 6 (Sanierungskonzept), IDW S 11 (Fortbestehensprognose), IDW PS 340 n.F.
+

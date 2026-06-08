@@ -5,10 +5,6 @@ description: "Praktischer Neustart nach Restschuldbefreiung: Basiskonto, Kreditf
 
 # Neustart nach Insolvenz: Konto, Kredit, Bonität
 
-## Arbeitsbereich
-
-Praktischer Neustart nach Restschuldbefreiung: Basiskonto, Kreditfähigkeit, Vermieter-/Bankauskunft, Löschung, Berichtigung und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -25,23 +21,9 @@ Praktischer Neustart nach Restschuldbefreiung: Basiskonto, Kreditfähigkeit, Ver
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Einsatz
-
-Für Verbraucher und ehemals Selbstständige, die nach Insolvenz wieder handlungsfähig werden wollen.
-
 ## Norm- und Quellenanker
 
 InsO §§ 286 ff., 301; ZKG Basiskonto; DSGVO Art. 15–22; BGB.
-
-## Arbeitsfragen
-
-1. Welche Verträge scheitern an Bonität?
-2. Welche Daten sind falsch/alt?
-3. Welche Mindestversorgung wie Basiskonto?
-
-## Output
-
-Neustart-Checkliste, Auskunftskaskade und Musterschreiben an Bank/Vermieter/Auskunftei.
 
 ## Red Flags
 
@@ -52,3 +34,4 @@ Neustart-Checkliste, Auskunftskaskade und Musterschreiben an Bank/Vermieter/Ausk
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

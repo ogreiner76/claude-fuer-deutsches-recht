@@ -5,10 +5,6 @@ description: "Influencer-Recht: Recht am eigenen Bild – KUG, Einwilligung, Bei
 
 # Influencer-Recht: Bildrechte – KUG, Beiwerk und Öffentlichkeit
 
-## Arbeitsbereich
-
-Influencer-Recht: Recht am eigenen Bild – KUG, Einwilligung, Beiwerk, Öffentlichkeit, Personen im Hintergrund und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,3 +72,4 @@ Das Recht am eigenen Bild schützt Persönlichkeitsrechte und ist für Creator t
 - Model-Release-Vorlage (deutsch/englisch)
 - KUG-Abmahnung: Reaktionsschreiben
 - Minderjährigen-Einwilligungsformular
+

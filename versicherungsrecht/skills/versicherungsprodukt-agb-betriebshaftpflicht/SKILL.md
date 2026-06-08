@@ -5,10 +5,6 @@ description: "AVB-Klauseln nach Transparenz, Überraschung, unangemessener Benac
 
 # Versicherungsbedingungen als AGB prüfen
 
-## Arbeitsbereich
-
-AVB-Klauseln nach Transparenz, Überraschung, unangemessener Benachteiligung und VVG-Leitbild prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ AVB-Klauseln nach Transparenz, Überraschung, unangemessener Benachteiligung und
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Für Klauselstreit und Produktentwicklung, wenn AVB unklar oder unwirksam sein könnten.
 
 ## Normenanker
 
@@ -38,16 +30,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 BGB §§ 305–310; VVG; UKlaG; UWG; ZPO.
 
-## Arbeitsfragen
-
-1. Welche Klausel ist streitig?
-2. Welches gesetzliche Leitbild wird verschoben?
-3. Ist die Klausel transparent und systematisch platziert?
-
-## Output
-
-AGB-Prüfvermerk und Klausel-Redline.
-
 ## Red Flags
 
 - Ausschluss versteckt
@@ -58,6 +40,3 @@ AGB-Prüfvermerk und Klausel-Redline.
 
 - Nutze den allgemeinen Skill des Plugins, wenn Rolle, Police/Vertrag, Frist oder Ziel noch nicht klar sind.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren; sonst nur als Prüfpunkt formulieren.

@@ -5,10 +5,6 @@ description: "Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Eq
 
 # Distressed Debt und Loan-to-Own
 
-## Arbeitsbereich
-
-Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,14 +33,9 @@ InsO, StaRUG, BGB Abtretung, Sicherheiten, Kartell/FDI, MAR bei börsennahen Tar
 4. Risikopunkte nach Deal Value, Closing-Fähigkeit, Haftung und Verhandlungshebel priorisieren.
 5. Verwertbaren Output erzeugen und offene Annahmen sichtbar markieren.
 
-## Output
-
-- Kurz-Memo mit Ergebnis, Annahmen und nächstem Schritt.
-- Issues List oder Checkliste mit Owner, Frist, Beleg und Risikoampel.
-- Bei Entwurfsaufgaben: erster Draft mit Platzhaltern für fehlende Informationen.
-
 ## Qualitätsgate
 
 - Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
 - Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
 - Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
+

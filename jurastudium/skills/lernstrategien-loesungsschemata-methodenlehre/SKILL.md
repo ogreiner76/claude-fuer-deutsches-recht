@@ -5,10 +5,6 @@ description: "Lernstrategien für Jurastudium und Examensvorbereitung entwickeln
 
 # Lernstrategien für Jura
 
-## Arbeitsbereich
-
-Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan für Zeitmanagement und zu Examens-Prognose für Themengewichtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,15 +27,6 @@ Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfa
 - §§ 242 StGB, 263 StGB — Strafrecht-Standardtatbestaende für Interleaving-Uebungen
 - §§ 40, 42 VwGO — VwR-Klageart-Pruefung als wiederkehrendes Interleaving-Element
 - §§ 133, 157 BGB — Auslegung als Kern-Kompetenz: muss durch aktiven Abruf gelernt werden
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Jurastudium ist kein Wissensfach im Sinne der Medizin — es ist ein **Anwendungsfach mit großem Wissensanteil**. Lernen muss daher zweispurig laufen: Definitionen, Streitstände, Schemata abrufbar haben **und** sie in Subsumtion und Argumentation anwenden können. Was in der Psychologie der Erwachsenenbildung gut funktioniert (Retrieval Practice, Spaced Repetition, Interleaving), funktioniert auch hier — aber juristisch übersetzt.
-
-Diese Skill ist kein Selbsthilfetraktat. Sie nennt Strategien, ordnet sie nach Evidenz und passt sie an das deutsche Jurastudium an.
 
 ## Eingaben
 
@@ -121,16 +108,9 @@ Diese Skill ist kein Selbsthilfetraktat. Sie nennt Strategien, ordnet sie nach E
 - Skill `pruefungsgespraech-ag` mit Pushback.
 - Sich selbst aufnehmen, wieder anhören, Floskeln eliminieren.
 
-## Querverweise
-
-- `lernplan` — Lernplan-Builder, der die Strategien in einen Kalender übersetzt.
-- `lernsitzung` — eine konkrete Lerneinheit nach dieser Methodik.
-- `karteikarten` — Spaced-Repetition-Karteikarten.
-- `pruefungsgespraech-ag` — sokratischer Drill.
-- `jurastudium-anpassen` — Schwachstellenprofil pflegen.
-
 ## Was diese Skill nicht tut
 
 - Sie schreibt keinen fertigen Lernplan (das macht `lernplan`).
 - Sie gibt keine pauschale "so musst du lernen"-Antwort. Sie nennt Strategien, der Studierende wählt.
 - Sie ist keine Motivationsberatung. Wer kein Examen schreiben will, lernt nicht effektiver, weil ein Plugin Ratschläge gibt.
+

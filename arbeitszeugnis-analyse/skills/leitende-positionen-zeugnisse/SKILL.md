@@ -34,10 +34,6 @@ description: "Analyse von Arbeitszeugnissen für Führungskräfte und leitende A
 
 **Beispiel 5 – Vollständiges GF-Zeugnis (Grün):** Alle Bausteine vorhanden: Führung, Strategie, Budget, Repräsentation, Loyalität, vollständige Schlussformel mit persönlichem Bedauern → Note 1 bis 2.
 
-## Ausgabeformat
-
-Der Skill prüft zunächst, ob es sich um ein Führungskräfte-Zeugnis handelt (anhand der beschriebenen Position). Dann gibt er die Führungskräfte-Checkliste aus (Baustein / vorhanden / Ampel) und integriert die Ergebnisse in die allgemeine Ampeltabelle. Fehlende Führungsbausteine erhalten besonderes Gewicht in der Gesamtnotenberechnung.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
@@ -46,3 +42,4 @@ Der Skill prüft zunächst, ob es sich um ein Führungskräfte-Zeugnis handelt (
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

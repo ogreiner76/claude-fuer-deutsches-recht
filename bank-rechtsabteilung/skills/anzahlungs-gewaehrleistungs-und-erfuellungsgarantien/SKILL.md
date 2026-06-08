@@ -5,10 +5,6 @@ description: "Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien f�
 
 # Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien
 
-## Arbeitsbereich
-
-Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien für Bankkunden prüfen: Sicherungszweck, Abruftext, Laufzeit, Projekt-/Baurisiko, Rückgabe, Reduzierung, Avalrahmen und Liquiditätseffekt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien für Bankkunden 
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Prüfe die Garantien, die den Geschäftsverkehr wirklich am Laufen halten: Der Kunde bekommt eine Anzahlung, erfüllt einen Werk-/Liefervertrag, muss Gewährleistung absichern oder will keine Barsicherheit stellen. Der Skill bearbeitet Vertragsrecht, Bankrisiko und Projektpraxis.
 
 ## Typische Konstellationen
 

@@ -124,15 +124,6 @@ Ergebnis: kein KSt-Cashflow durch Verzicht
 - Sanierungsabsicht der Gläubiger nur mündlich vereinbart; FA verlangt Schriftform.
 - Personenbezogene Sanierung mit unternehmensbezogenem Antrag verwechselt.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-mandantenwarnung-rechtzeitig`
-- `stb-sanierungsgewinn-vorbereitungs-checkliste`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-vermeidungsstrategien-praxis`
-- `anw-insolvenzreife-pruefung-17-19-inso` (vorgelagerte Insolvenzprüfung)
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG (Sanierungsertrag, Steuerbefreiung).
@@ -144,3 +135,4 @@ Ergebnis: kein KSt-Cashflow durch Verzicht
 - Wachstumschancengesetz (BGBl. I 2024) — gesetzliche Verankerung; Stand prüfen.
 - IDW S 6 (Sanierungskonzept), IDW S 11 (Insolvenzeröffnungsgründe).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren. Vor Ausgabe Quelle mit Gericht, Datum, Aktenzeichen, Fundstelle, Randnummer protokollieren.
+

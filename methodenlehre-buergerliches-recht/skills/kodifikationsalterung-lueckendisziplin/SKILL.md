@@ -5,9 +5,6 @@ description: "Kodifikationsalterung Lueckendisziplin im Plugin Methodenlehre Bue
 
 # Kodifikationsalterung Lueckendisziplin
 
-## Arbeitsbereich
-
-**Kodifikationsalterung Lueckendisziplin** ordnet den Fall über die tragenden Prüfungslinien: Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, Analysiert die konservative Methodenkritik an einer als zu. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Kodifikationsalterung Lueckendisziplin im Plugin Methodenlehre Bue
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kodifikationsalterung-und-lueckendisziplin`
@@ -85,10 +83,6 @@ Das BGB von 1900 stößt im digitalen Zeitalter auf Sachverhalte, die sein Geset
 - Analogien werden auf Bereiche ausgedehnt, in denen der Gesetzgeber offensichtlich eine andere Lösung bevorzugt hätte.
 - Die demokratische Legitimation der Lückenfüllung wird nicht diskutiert, obwohl es sich um eine wesentliche normative Entscheidung handelt.
 - Der Zeitfaktor wird ignoriert: Je länger eine Lücke bekannt ist und der Gesetzgeber nicht tätig wird, desto mehr spricht für richterliche Schließung — aber auch für klare Signalpflicht.
-
-## Output
-
-Das Skill liefert eine Alterungslücken-Analyse: Art der Lücke, historische Unvorhergesehbarkeit, Normzweckorientierung, Lückenfüllungsinstrument, demokratische Legitimation und Signalpflicht. Geeignet als methodischer Grundlagenteil für Gutachten, Urteilsanmerkungen und wissenschaftliche Beiträge zu Rechtsfortbildung.
 
 ## Vertiefung: Digitalisierung als systematische Herausforderung des BGB
 
@@ -174,10 +168,6 @@ Die konservative Methodenkritik fordert eine strikte Rückbindung der Rechtsanwe
 - Konservative Kritik verkennt, dass gesetzgeberisches Schweigen oft keine Ablehnung, sondern Unkenntnis der Fallgruppe ist.
 - Die Forderung nach strenger Gesetzesbindung wird mit einer Rückkehr zum Positivismus des 19. Jahrhunderts gleichgesetzt, die verfassungsrechtlich nicht geboten ist.
 
-## Output
-
-Das Skill liefert eine methodologische Kritikanalyse: Rekonstruktion der konservativen Methodenposition, Prüfung ihrer normativen Belege, Bewertung der methodischen Konsistenz und Einschätzung, wo die Kritik berechtigt ist und wo sie überschießt. Geeignet für wissenschaftliche Methodenbeiträge und für Revisionsrügen, die auf Gesetzesbindungsargumenten basieren.
-
 ## Vertiefung: Neo-Positivismus als methodische Strömung
 
 Der Neo-Positivismus verbindet die klassische positivistische Forderung nach Textrückbindung mit einer differenzierteren Anerkennung von Wertungsspielräumen: Er anerkennt, dass Normen notwendigerweise Wertungsbegriffe enthalten, fordert aber, dass diese Wertungen normtextgebunden und methodisch transparent vorgenommen werden. Diese Position ist methodisch konsistenter als ein reiner Positivismus und vermeidet Legitimationslücken.
@@ -261,10 +251,6 @@ Die Kontrolle von Abwägungsentscheidungen ist eine der anspruchsvollsten method
 - Abwägungsdefizite werden übersehen, weil das Ergebnis der Abwägung vertretbar erscheint.
 - Abwägungsfehlgewichtungen werden akzeptiert, solange kein Abwägungsausfall vorliegt.
 - Die Heilungsmöglichkeit von Abwägungsfehlern durch nachträgliche ergänzende Abwägung wird nicht geprüft.
-
-## Output
-
-Das Skill liefert eine Abwägungskontrolle-Analyse: Identifikation des Fehlertyps, Anwendung des Kontrollmaßstabs, Prüfung der Grenzen zur Ersatzabwägung, Rechtsfolgenbestimmung und Formulierungsvorschlag für Schriftsatz oder Urteilsanmerkung. Geeignet für Verwaltungs-, Zivil- und Arbeitsrechtsfälle mit Abwägungskomponente.
 
 ## Vertiefung: Inzidente Abwägungskontrolle im Zivilprozess
 
@@ -407,15 +393,6 @@ Kernsatz: "The prophecies of what the courts will do in fact, and nothing more p
 
 Die deutsche Methodenlehre hat von Realism und CLS gelernt: Wertungen offenlegen, nicht verbergen. Die juristische Begruendung muss die Wertungen sichtbar machen — das ist auch Forderung der Wertungsjurisprudenz.
 
-## Querverweise
-
-- `wertungsjurisprudenz-larenz-canaris` — herrschende Methodenposition.
-- `interessenjurisprudenz-heck` — Vorlaeufer einer offenen Methode.
-- `oekonomische-analyse-des-rechts-coase-posner` — andere Aussensicht.
-- `topik-viehweg-vs-systemdenken` — verwandt durch Offenheit.
-- `systemtheorie-luhmann-rechtssystem-autopoiese` — Gegenposition zur "Recht ist Politik"-These.
-- `diskurstheorie-habermas-alexy` — Gegenposition zum Indeterminismus.
-
 ## Quellen und Stand 05/2026
 
 - Oliver Wendell Holmes, The Path of the Law, Harvard Law Review 1897.
@@ -428,14 +405,6 @@ Die deutsche Methodenlehre hat von Realism und CLS gelernt: Wertungen offenlegen
 - §§ 134, 138, 242, 305 ff., 535 ff., 573 ff. BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `legalitaetsqualitaet-der-auslegung`
 
@@ -450,10 +419,6 @@ Stand: Mai 2026.
 - **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-
-Anwendungsfall: eine Auslegung dogmatisch elegant wirkt, aber für Bürger, Unternehmen oder Verwaltung kaum noch vorhersehbar ist. Der Skill fragt nicht nur, ob ein Ergebnis vertretbar ist, sondern ob die Methode die Orientierungsfunktion des Rechts bewahrt.
 
 ## Prüfroutine
 
@@ -473,12 +438,9 @@ Anwendungsfall: eine Auslegung dogmatisch elegant wirkt, aber für Bürger, Unte
 
 Der Skill eignet sich, um einer Gegenseite entgegenzuhalten, dass ihre Auslegung zwar plausibel klingt, aber Rechtsklarheit, Vertrauen und planbare Dispositionen zerstört. Umgekehrt hilft er, eine eigene innovative Auslegung so zu rahmen, dass sie nicht als Überraschungsrecht wirkt.
 
-## Output
-
-Gib ein kurzes Qualitygate aus: `Methode`, `Adressatenklarheit`, `Vertrauensschutz`, `Systemkongruenz`, `Risiko`, `bessere Formulierung`.
-
 ## Quellen- und Zitierdisziplin
 
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
 - Bei nicht geprüften Rechtsprechungslinien ausdrücklich Live-Check markieren.
+

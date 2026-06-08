@@ -18,12 +18,7 @@ Arbeitsfokus: **Datenraum und SharePoint als Anlagenquelle**. Prüfe diese Anker
 - `§ 299 Abs. 1 ZPO` — Akteneinsicht.
 - `§ 371 Abs. 1 ZPO` — Augenschein.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill ist für moderne Akten, in denen der Beweis nicht aus einem Ordner, sondern aus Datenraum-Exports, SharePoint-Links und DMS-Versionen kommt.
 
 ## Mindestinput
 

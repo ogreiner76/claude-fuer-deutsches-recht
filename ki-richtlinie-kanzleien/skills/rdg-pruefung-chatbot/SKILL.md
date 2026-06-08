@@ -5,10 +5,6 @@ description: "Rdg Pruefung Chatbot: ordnet Normen, Nutzerangaben, Fristen, Beleg
 
 # RDG-Prüfung Chatbot
 
-## Arbeitsbereich
-
-Rdg Pruefung Chatbot: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Ergebnis: [ZULASSIG / BEDINGT ZULASSIG / UNZULAESSIG]
 Auflagen: [BESCHREIBUNG]
 Geprueft von: [NAME RA/RAin], [DATUM]
 ```
+

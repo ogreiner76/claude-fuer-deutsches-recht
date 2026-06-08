@@ -32,9 +32,6 @@ Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwen
 - §§ 688-703 ZPO — Gerichtliches Mahnverfahren: schnelles Inkasso-Instrument
 - § 23 Nr. 1 GVG — Sachliche Zuständigkeit des AG bis 10.000 EUR (ab 01.01.2026)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Disclaimer
 
 Honorarforderungen gegen Mandanten sind besonders sensible Eskalationen — das laufende Mandatsverhältnis kann darunter leiden. Vor jeder Eskalation Rücksprache mit dem zuständigen Anwalt; nichts ohne anwaltliche Freigabe versenden.
@@ -144,3 +141,4 @@ Mandant kann verlangen Einsicht in die Akte (§ 50 Abs. 5 BRAO). Bei Streit übe
 - Mahnentwurf je Stufe.
 - Eintrag im Honorar-Tracker.
 - Eskalation an Anwalt bei Stufe 2 oder 3.
+

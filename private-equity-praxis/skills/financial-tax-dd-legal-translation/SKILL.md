@@ -5,10 +5,6 @@ description: "Übersetzt Quality-of-Earnings, Net Debt, Working Capital, Tax Exp
 
 # Financial/Tax DD für Legal Teams übersetzen
 
-## Arbeitsbereich
-
-Übersetzt Quality-of-Earnings, Net Debt, Working Capital, Tax Exposure und Locked-Box-Findings in Legal Issues. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,14 +33,9 @@ SPA-Kaufpreismechanik, Steuerklauseln, Warranty/Indemnity, Disclosure.
 4. Risikopunkte nach Deal Value, Closing-Fähigkeit, Haftung und Verhandlungshebel priorisieren.
 5. Verwertbaren Output erzeugen und offene Annahmen sichtbar markieren.
 
-## Output
-
-- Kurz-Memo mit Ergebnis, Annahmen und nächstem Schritt.
-- Issues List oder Checkliste mit Owner, Frist, Beleg und Risikoampel.
-- Bei Entwurfsaufgaben: erster Draft mit Platzhaltern für fehlende Informationen.
-
 ## Qualitätsgate
 
 - Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
 - Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
 - Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
+

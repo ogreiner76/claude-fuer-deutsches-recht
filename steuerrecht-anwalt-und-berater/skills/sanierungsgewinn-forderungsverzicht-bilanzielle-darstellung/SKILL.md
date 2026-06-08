@@ -5,10 +5,6 @@ description: "Bilanzielle Darstellung des Forderungsverzichts beim Schuldner und
 
 # Forderungsverzicht — bilanzielle Darstellung
 
-## Arbeitsbereich
-
-Bilanzielle Darstellung des Forderungsverzichts beim Schuldner und beim Gläubiger. Werthaltigkeit, außerordentlicher Ertrag, Ausweis in der GuV; Plan-Bilanz vor und nach Sanierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -157,14 +153,6 @@ führung erfüllt.
 - Buchungssatz fehlerhaft — z. B. Verbindlichkeit nicht ausgebucht.
 - Besserungsabrede bilanziell nicht erkannt; Ertrag zu früh gebucht.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-debt-equity-swap-statt-verzicht`
-- `stb-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg`
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
-
 ## Quellen Stand 06/2026
 
 ### Normen
@@ -202,3 +190,4 @@ führung erfüllt.
 ### Querverweis Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse für stehen gelassene Verbindlichkeiten in der Liquidation.
+

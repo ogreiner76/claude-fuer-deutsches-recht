@@ -5,10 +5,6 @@ description: "Button-Lösung § 312j BGB: prüft die einschlägigen Voraussetzun
 
 # Button-Lösung § 312j BGB
 
-## Arbeitsbereich
-
-Button-Lösung § 312j BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,15 +91,6 @@ Button-Lösung § 312j BGB: prüft die einschlägigen Voraussetzungen, Dokumente
 - Mindestlaufzeit nur in AGB – nicht in Übersicht.
 - A/B-Tests mit nicht-konformen Varianten produktiv geschaltet.
 
-## Querverweise
-
-- kuendigungsbutton-312k-bgb
-- fernabsatzvertrag-312c-bgb
-- e-mail-bestellbestaetigung-vertragsschluss
-- informationspflichten-vor-vertragsschluss-art-246a-egbgb
-- preisangaben-pangv-gesamtpreis-grundpreis
-- shop-check-checkout-widerruf-impressum
-
 ## Quellen Stand 06/2026
 
 - § 312j BGB – Volltext gesetze-im-internet.de.
@@ -112,3 +99,4 @@ Button-Lösung § 312j BGB: prüft die einschlägigen Voraussetzungen, Dokumente
 - UWG §§ 3a, 5a – Volltext gesetze-im-internet.de.
 - Verbraucherrechte-RL 2011/83/EU Art. 8 – EUR-Lex.
 - Verbraucherzentralen – Abmahnpraxis.
+

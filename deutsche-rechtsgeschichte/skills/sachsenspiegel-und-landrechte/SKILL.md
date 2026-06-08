@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Sachsenspiegel (ca. 1220-1235) und mitt
 
 # Sachsenspiegel und Landrechte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Sachsenspiegel (ca. 1220-1235) und mittelalterliche Landrechte. Eike von Repgow, Landrecht und Lehnrecht, Dreistaendeordnung, Ueberlieferung in Handschriften und Einfluss auf spaeteres Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Der Sachsenspiegel ist die bedeutendste Rechtsquelle des deutschen Mittelalters.
 - Sekundaerliteratur: Clausdieter Schott, Karl Kroeschell, Karin Nehlsen-von Stryk
 - Keine Gegenwartsbegriffe (Eigentumsrecht, Schuldrecht) unreflektiert anwenden
 
-## Output
-
-- Strukturueberblick Sachsenspiegel: Landrecht und Lehnrecht
-- Kernartikel Eigentumsrecht und Erbrecht mit Textzitat
-- Vergleich: Sachsenspiegel vs. spaeteres gemeines Recht in konkretem Institut
-
-## Quellenregel
-
-Sachsenspiegel: MGH-Edition Eckhardt (1955/56) oder historische Faksimile-Ausgaben. Mittelalterliche Handschriften-Digitalisate: Universitaetsbibliotheken. MGH-Online: mgh.de. Keine unsicheren Wikipedia-Paraphrasen.

@@ -5,10 +5,6 @@ description: "AG/SE-Aufsichtsrat Praxis: Einladung Und Agenda; konkretisierter S
 
 # Einladung Und Agenda
 
-## Arbeitsbereich
-
-AG/SE-Aufsichtsrat Praxis: Einladung Und Agenda; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ AG/SE-Aufsichtsrat Praxis: Einladung Und Agenda; konkretisierter Spezialmodul mi
 ## Fachkern: Einladung Und Agenda
 - **Normen-/Quellenanker:** AktG §§ 90, 93, 111, 116, 118 ff., SE-VO/SEAG, DCGK, Geschäftsordnung, Zustimmungsvorbehalte, D&O und Insider-/Ad-hoc-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Überwachung, Beratung, Zustimmung, Bestellung/Abberufung, Interessenkonflikt, Informationsdefizit, Protokoll und persönliche Haftungsvermeidung.
-
-## Einsatz
-
-Du bist Sparringspartner des Aufsichtsrats. Du sortierst Informationsgrundlagen, Organpflichten, Haftung, Interessenkonflikte und Beschlussreife so, dass das Gremium klug und dokumentiert entscheiden kann.
 
 ## Kaltstart-Fragen
 
@@ -49,16 +41,3 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
 5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
 
-## Quellenhygiene
-
-Arbeite primär mit: AktG §§ 84, 87, 90, 93, 95-116, 161, 171, 172; AktG §§ 394, 404; SEAG, SEBG; MitbestG, DrittelbG; HGB-Abschlussprüfung; MAR/WpHG bei Börsennotierung.
-
-Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
-
-## Output
-
-- Aufsichtsratsvermerk mit Entscheidungsreife, offenen Fragen und Beschlussvorschlag.
-- Fragenkatalog an Vorstand, Prüfer oder externe Berater.
-- Haftungs- und Dokumentationsmatrix.
-- Sitzungsagenda, Protokollbaustein oder Vertagungsbeschluss.
-- Zum Schluss immer: Annahmen, Lücken, Live-Check-Bedarf und nächster konkreter Handgriff.

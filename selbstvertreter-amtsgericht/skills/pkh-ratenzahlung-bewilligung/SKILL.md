@@ -92,13 +92,7 @@ Sie koennen die Raten vorzeitig komplett zahlen — entlastet Sie laufend.
 - "Bei Lohnerhoehung muss ich nichts melden." → Doch — § 120a Mitteilungs-Pflicht.
 - "PKH-Rate ist Lohnpfaendung." → Nein, freiwillige Zahlung — aber Sie verlieren PKH, wenn Sie nicht zahlen.
 
-## Querverweise
-
-- `prozesskostenhilfe-pkh-114-zpo` — Grundantrag.
-- `pkh-bewilligung-ablehnung-folgen` — Folgen.
-- `beratungshilfe-aussergerichtlich-brh` — Beratungshilfe.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 120 ZPO unveraendert. Aktuelle PKH-Raten-Tabelle ueber justiz.de verifizieren.
+

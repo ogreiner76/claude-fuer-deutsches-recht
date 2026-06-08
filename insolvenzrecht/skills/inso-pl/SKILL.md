@@ -5,10 +5,6 @@ description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nach
 
 # Mandantenkommunikation
 
-## Arbeitsbereich
-
-Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -25,9 +21,6 @@ Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Ents
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-Dieses Modul bearbeitet: Mandantenkommunikation im Plugin insolvenzrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
-
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
@@ -41,18 +34,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ## Mandantenbrief-Bausteine Insolvenzrecht
 - **Adressat:** Geschäftsführer / Vorstand persönlich (Hinweis auf persönliche Haftung), in CC keine Vertraulichkeitsbedenken (§ 43a Abs. 2 BRAO, § 203 StGB).
@@ -70,3 +51,4 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Verschwiegenheit § 43a BRAO:** Mandantengeheimnis auch nach Insolvenzeröffnung; Verwalter wird nicht automatisch Mandant.
 - **Aufklärungspflicht:** Geschäftsführer ist über § 15a, § 15b InsO und § 266a StGB (Sozialversicherungsbeiträge) ausdrücklich aufzuklären — Beweissicherung der Aufklärung (E-Mail, Protokoll).
 - **Eilkommunikation:** Bei akuter Antragspflicht keine Beratung nur per E-Mail; telefonische Aufklärung dokumentieren.
+

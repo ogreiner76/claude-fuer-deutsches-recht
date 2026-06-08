@@ -5,10 +5,6 @@ description: "White-Label-Banking juristisch strukturieren: Bankrolle sichtbar m
 
 # White-Label-Banking
 
-## Arbeitsbereich
-
-White-Label-Banking juristisch strukturieren: Bankrolle sichtbar machen, Partnerpflichten, Kundenschutz, AGB, Datenschutz, Auslagerung, Beschwerden, Vertriebsrecht und Reputationsrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,12 +17,6 @@ White-Label-Banking juristisch strukturieren: Bankrolle sichtbar machen, Partner
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Bearbeite diesen Spezialfall aus Sicht einer Bank-Rechtsabteilung. Das Ergebnis muss intern verwendbar sein: als Legal Note, Vorstandsvorlage, BaFin-Fragenpaket, Produktfreigabe, Vertragscheck, Red-Team-Vermerk oder Umsetzungs-Backlog.
-
-**Wann nutzen:** Bankprodukt wird über Partneroberfläche angeboten oder Partner verkauft Bankleistung unter eigener Marke.
 
 ## Schnellmodus
 
@@ -107,3 +97,4 @@ Vor Ausgabe prüfen:
 - Gibt es eine konkrete Unterlagenliste?
 - Ist die Bankentscheidung dokumentationsfest?
 - Sind keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate enthalten?
+

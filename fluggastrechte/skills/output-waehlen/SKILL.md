@@ -9,7 +9,6 @@ description: "Output-Wahl für Fluggastrechte VO 261/2004: stimmt Adressat (Flug
 
 Diese Output-Weiche für **Fluggastrechte** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abtretung-an-fluggastportal-spezial` — Abtretung AN Fluggastportal Spezial
@@ -36,7 +35,6 @@ Diese Output-Weiche für **Fluggastrechte** entscheidet, ob Memo, Antrag, Schrif
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -46,12 +44,10 @@ Konkret zu prüfen:
 - Art. 6 VO 261/2004 (Verspätung)
 - Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
 - EuGH C-402/07 (Sturgeon)
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Fluggastrechte VO 261/2004 sofort: Ausgleichszahlungs-Forderung oder Klage AG.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

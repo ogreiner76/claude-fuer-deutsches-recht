@@ -10,10 +10,6 @@ description: "Prüft Haftung für Verrichtungsgehilfen § 831 BGB: Verrichtungsg
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Gehilfenhaftung nach § 831 BGB vollständig prüfen: Gehilfeneigenschaft, Schaden bei Ausführung der Verrichtung und Entlastungsbeweis des Geschäftsherrn.
-
 ## Normanker
 
 - § 831 BGB: Haftung des Geschäftsherrn für Verrichtungsgehilfen
@@ -47,25 +43,13 @@ Gehilfenhaftung nach § 831 BGB vollständig prüfen: Gehilfeneigenschaft, Schad
 - Exkulpationsbeweis ist schwierig; bloße formale Richtlinien reichen nicht aus.
 - Bei juristischen Personen gilt § 31 BGB für Organe ohne Exkulpationsmöglichkeit.
 - Verrichtungsgehilfe haftet daneben persönlich nach § 823 BGB.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Gehilfenhaftungs-Schema (Geschäftsherr, Gehilfe, Schaden, Zusammenhang)
-- Exkulpations-Checkliste
-- Gesamtschuldnerische Haftungsmatrix
-- Risikoampel und Handlungsempfehlungen
-
-## Qualitätsregeln
-
-- In-Ausführung vs. bei-Gelegenheit immer klar abgrenzen.
-- Exkulpationsbeweis vollständig aufnehmen und würdigen.
-- § 31 BGB und § 831 BGB nicht verwechseln.
 
 ## Anschluss-Skills
 
@@ -79,10 +63,4 @@ Gehilfenhaftung nach § 831 BGB vollständig prüfen: Gehilfeneigenschaft, Schad
 - https://www.gesetze-im-internet.de/bgb/__831.html
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/bgb/__276.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

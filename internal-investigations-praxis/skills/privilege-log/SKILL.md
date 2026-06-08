@@ -5,10 +5,6 @@ description: "Erstellt und verwaltet das Privilege-Log für privilegierte Unters
 
 # Privilege-Log in Internal Investigations
 
-## Arbeitsbereich
-
-Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -68,15 +64,6 @@ Dieser Skill stellt sicher, dass das Privilege-Log vollständig, korrekt und US-
 - Begründung des Privilege für jedes angegriffene Dokument vorbereiten.
 - Keine Teiloffenbarung ohne Strategie (Subject-Matter-Waiver-Risiko).
 
-## Red-Team-Fragen
-
-- Enthält das Privilege-Log alle zurückgehaltenen Dokumente, oder fehlen bestimmte Kategorien?
-- Sind alle Privilege-Ansprüche mit konkreten Begründungen versehen – keine Blanket-Behauptungen?
-- Gibt es Dokumente, die an Behörden weitergegeben wurden, für die kein Selective-Waiver-Schutz vereinbart wurde?
-- Wurden versehentlich offenbarte privilegierte Dokumente sofort per Claw-Back zurückgefordert?
-- Ist das Privilege-Log im FRCP Rule 26(b)(5)-konformen Format erstellt?
-- Haben Nicht-Anwälte (Wirtschaftsprüfer, IT-Forensiker) Dokumente erstellt, die fälschlicherweise als privilegiert getaggt sind?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -94,3 +81,4 @@ Dieser Skill stellt sicher, dass das Privilege-Log vollständig, korrekt und US-
 - **Attorney-Client-Privilege-Prüfliste** (Voraussetzungen im Einzelfall)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

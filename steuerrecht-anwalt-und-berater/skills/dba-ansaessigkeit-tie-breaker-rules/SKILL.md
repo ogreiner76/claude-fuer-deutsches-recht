@@ -119,13 +119,6 @@ Pruefungskaskade in dieser Reihenfolge:
 2. Wegzugsbesteuerung § 6 AStG bei Wegfall deutscher Ansaessigkeit pruefen.
 3. Beschraenkte Steuerpflicht im anderen Staat fortbestehend?
 
-## Output
-
-- **Ansaessigkeitsmemo** mit Tie-Breaker-Subsumtion.
-- **Indizientabelle** Mittelpunkt der Lebensinteressen.
-- **Beweismittelliste** mit konkreten Belegen.
-- **BZSt-Formular-Hinweis** für Ansaessigkeitsbescheinigung.
-
 ## Strategie und Praxis-Tipps
 
 - Bei strittiger Ansaessigkeit: Verstaendigungsverfahren Art. 25 MA in Erwaegung ziehen, da Tie-Breaker im Einzelfall ambivalent ist.
@@ -186,22 +179,9 @@ Pruefungskaskade in dieser Reihenfolge:
 | Hausarzt / Zahnarzt | [...] | [...] | Behandlungsnachweis |
 | Aufenthaltstage (Reisekalender) | [...] | [...] | Reisekalender mit Belegen |
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen` — Aufbau und Pruefschritte.
-- `stb-dba-methodenartikel-anrechnung-vs-freistellung` — Methodenartikel-Wahl.
-- `stb-dba-grenzgaenger-frankreich-vor-allem-elsass`, `stb-dba-grenzgaenger-schweiz-60-tage-rueckkehr`, `stb-dba-grenzgaenger-oesterreich-rueckkehr` — Grenzgaenger als Sonderfaelle.
-
 ## Quellen und Updates
 
 Stand: 05/2026. Art. 4 OECD-MA 2017. §§ 8, 9, 10, 11 AO. §§ 1, 1a, 6 EStG. § 1 KStG. § 6 AStG nach ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035). MLI Art. 4. Aktuelle BFH-Rechtsprechung zu Art. 4 OECD-MA in freier amtlicher Quelle abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 1 belegt (Fundstelle/Datum bestaetigt), 6 ersetzt (Az nicht belegbar, Satz neu formuliert) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

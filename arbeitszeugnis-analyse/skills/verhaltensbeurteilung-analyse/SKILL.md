@@ -36,10 +36,6 @@ description: "Analysiert Verhaltensbeurteilungen im Arbeitszeugnis: Verhalten zu
 
 **Beispiel 5 – Grün (Note 2):** "Herr Schulz verhielt sich gegenüber Vorgesetzten und Kollegen jederzeit einwandfrei und hinterließ einen ausgezeichneten Eindruck bei unseren Kunden."
 
-## Ausgabeformat
-
-Jede Verhaltensaussage wird tabelliert mit: Satz, Personengruppe (Vorgesetzte/Kollegen/Kunden), erkannte Formel, Reihenfolge-Signal (korrekt/auffällig), Ampelfarbe, Notentendenz, Begründung. Auslassungen werden als eigene Zeile mit "fehlend" ausgewiesen.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -48,3 +44,4 @@ Jede Verhaltensaussage wird tabelliert mit: Satz, Personengruppe (Vorgesetzte/Ko
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

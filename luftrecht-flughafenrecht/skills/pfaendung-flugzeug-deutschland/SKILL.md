@@ -5,10 +5,6 @@ description: "Glaeubiger will inlaendisches Flugzeug pfaenden oder Schuldner weh
 
 # Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargumentation
 
-## Arbeitsbereich
-
-Glaeubiger will inlaendisches Flugzeug pfaenden oder Schuldner wehrt Pfaendung ab. Prueft ZPO §§ 808 864-871 Mobiliarpfaendung vs. Luftfahrzeug-Zwangsversteigerung LuftFzgG Pfandrechtsregister AG Braunschweig Arrestgrund ZPO § 917 und liefert Pfaendungsstrategie oder Abwehr-Schriftsatz-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -41,6 +37,7 @@ Glaeubiger will inlaendisches Flugzeug pfaenden oder Schuldner wehrt Pfaendung a
 - **ZPO § 771**: Drittwiderspruchsklage des Eigentümers gegen Pfändung fremder Sachen.
 - **InsO § 89**: Vollstreckungssperre nach Insolvenzeröffnung.
 - **Cape Town Convention Art. 10**: Zwangsmassnahmen in Insolvenz.
+
 ## Prüfraster
 
 1. Liegt wirksamer Vollstreckungstitel vor?
@@ -65,10 +62,6 @@ Die Pfändung eines Luftfahrzeugs erfordert besondere Vorbereitung:
 - **Arrestantrag**: Zuständiges Gericht am Belegenheitsort; Arrestgrund glaubhaft machen.
 - **Betriebsunterbrechung**: Pfändung eines Linienflugzeugs löst Betriebsunterbrechung aus; Schadensersatz bei unberechtigtem Arrest.
 - **Cape Town Priorität**: Vor Pfändung ICAO-Register prüfen; vorrangige Sicherungsinteressen können Arrest verhindern.
-
-## Output
-
-Pfändungsstrategie-Vermerk mit Vollstreckungsweg und Ranganalyse. Arrest-Antrag-Baustein. Abwehr-Schriftsatz-Baustein für Schuldner.
 
 ## Quellen
 
@@ -96,3 +89,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

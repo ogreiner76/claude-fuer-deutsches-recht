@@ -5,10 +5,6 @@ description: "Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-E
 
 # Spam-und-Massen-Anfrage-Filter
 
-## Arbeitsbereich
-
-Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Prüfraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-parser (echte Anfragen) und dringlichkeitsmarker. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,9 +32,6 @@ Dieser Skill erkennt und kennzeichnet eingehende E-Mails, die keine legitimen Ma
 - § 43 BRAO — Sorgfaltspflicht: Ressourceneinsatz der Kanzlei darf auf legitime Anfragen beschraenkt werden
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: keine Verarbeitung von Spam-Daten
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Spam-Muster-Katalog
 
 ### Kategorie 1: Klassischer 419-Scam (Vorschussbetrug)
@@ -111,17 +104,6 @@ Die folgenden Merkmale sprechen gegen Spam:
 - Reale Absender-Domain (kein Wegwerf-Mail-Dienst)
 - Anhang mit relevanten Dokumenten (Kündigung, Bescheid, Vertrag)
 
-## Ausgabeformat
-
-```
-SPAM-CHECK ERGEBNIS
-===================
-Status: [KLAR / VERDÄCHTIG / SPAM — TYP]
-Konfidenz: [HOCH / MITTEL / NIEDRIG]
-Erkannte Muster: [Liste der erkannten Muster oder "keine"]
-Empfehlung: [Normale Bearbeitung / Manuelle Prüfung / Aussortieren / IT-Meldung]
-```
-
 ## Verhalten bei SPAM-Erkennung
 
 1. Keine Erstantwort generieren.
@@ -140,3 +122,4 @@ Der Filter ist bewusst konservativ eingestellt. Im Zweifel lieber `VERDÄCHTIG` 
 - `folgekorrespondenz-vorbereiten` — erhält den Spam-Status
 - `dringlichkeitsmarker` — läuft nur bei KLAR-Status
 - `erstantwort-generator` — wird nur bei KLAR-Status ausgeführt
+

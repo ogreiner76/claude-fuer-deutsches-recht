@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Rechtsgeschichte im Schriftsatz. Wie ma
 
 # Rechtsgeschichte im Schriftsatz
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Rechtsgeschichte im Schriftsatz. Wie man historische Argumente in Klage, Berufung oder Revisionsbegründung methodisch korrekt einbringt ohne Anachronismus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,12 +63,3 @@ Rechtshistorische Argumente koennen in prozessualen Schriftsaetzen eingebracht w
 - Anachronismus-Test vor Schriftsatzabgabe
 - ZPO: gesetze-im-internet.de für formale Anforderungen
 
-## Output
-
-- Formblatt für rechtshistorisches Argument im Schriftsatz
-- Beispielsatz: Rechtshistorisches Argument in Revisionsbegründung
-- Fehler-Checkliste: Typische Schriftsatz-Fehler mit historischen Argumenten
-
-## Quellenregel
-
-Primaerquellen: ALEX/OeNB, gesetze-im-internet.de, bverfg.de, bgh.de. Mugdan: Band und Seite. Kein Blindzitat. Kein Essay-Stil.

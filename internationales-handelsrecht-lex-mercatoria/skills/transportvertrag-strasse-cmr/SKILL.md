@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Strassengütertransportrecht nach CM
 
 # CMR: Straßengütertransport international
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Strassengütertransportrecht nach CMR-Übereinkommen 1956. Haftung des Strassenfrachtführers (Art. 17-29 CMR), Haftungsgrenzen (8.33 SZR/kg), CMR-Frachtbrief, Reklamationsfristen und Kombination mit Incoterms. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -54,12 +50,3 @@ Das CMR-Übereinkommen (Convention relative au contrat de transport internationa
 - Reklamationsfristen: sofort bei sichtbaren Schäden; 7 Tage für verdeckte; im CMR-Frachtbrief notieren
 - Verjährung: 1 Jahr ab Ablieferung oder erwarteter Ablieferung
 
-## Output
-
-- CMR-Haftungsschema (Verlust / Beschädigung / Verspätung)
-- Haftungslimit-Berechnungsbeispiel
-- Reklamations-Protokoll-Muster
-
-## Quellenregel
-
-CMR 1956: uncitral.un.org (Text), unece.org (UNECE). e-CMR Protokoll 2008: unece.org. HGB §§ 407 ff. (nationales Frachtrecht): gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

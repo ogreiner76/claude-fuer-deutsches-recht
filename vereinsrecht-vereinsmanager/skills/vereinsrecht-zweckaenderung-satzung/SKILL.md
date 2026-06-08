@@ -5,10 +5,6 @@ description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager im Ve
 
 # Zweckaenderung Satzung
 
-## Arbeitsbereich
-
-**Zweckaenderung Satzung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager im Ve
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zweckaenderung`
@@ -29,9 +26,6 @@ description: "Zweckaenderung Satzung im Plugin Vereinsrecht Vereinsmanager im Ve
 **Fokus:** Prüft strenge Anforderungen an Zweckänderung, Mitgliederschutz, Register und Gemeinnützigkeit.
 
 ### Zweckänderung
-
-## Aufgabe
-Prüft strenge Anforderungen an Zweckänderung, Mitgliederschutz, Register und Gemeinnützigkeit.
 
 ## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
@@ -50,12 +44,6 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
-
 ## Quellen- und Aktualitätsregel
 - BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
 - Vereinsregisterverordnung/FamFG/Registergericht live prüfen
@@ -64,3 +52,4 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 - Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+

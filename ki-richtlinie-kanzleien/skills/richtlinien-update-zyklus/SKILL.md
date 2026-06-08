@@ -5,10 +5,6 @@ description: "KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwe
 
 # Richtlinien-Update-Zyklus
 
-## Arbeitsbereich
-
-KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Prüfraster Prüfintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prüftermin. Abgrenzung zu Richtlinien-Skelett für Neuerstellung und zu Literatur-und-Quellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,17 +20,6 @@ Eine KI-Nutzungsrichtlinie ist kein statisches Dokument. Die KI-Technologie entw
 ## Rechtlicher Hintergrund
 
 Art. 4 KI-VO: KI-Kompetenz muss auf dem aktuellen Stand gehalten werden — was eine aktuelle Richtlinie voraussetzt. Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht erfordert, dass die getroffenen Maßnahmen dem aktuellen Stand entsprechen. § 43 BRAO: Gewissenhaftigkeit umfasst die laufende Anpassung der Kanzlei-Compliance an neue Rechtsentwicklungen. BRAK-Hinweise 12/2024 und DAV-Stellungnahme 32/2025 werden fortgeschrieben. Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des EU-KI-Büros konkretisiert (Art. 113 KI-VO enthält den Inkrafttreten-Stufenplan).
-
-## Vorgehen
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-1. **Reguläres Halbjahres-Review**: Alle sechs Monate überprüfen, ob neue Entwicklungen (neue Rechtsprechung, neue BRAK/DAV-Stellungnahmen, neue KI-VO-Akte) eine Anpassung erfordern.
-2. **Event-getriggerte Updates**: Bei bestimmten Ereignissen (Trigger-Liste) wird die Richtlinie unmittelbar angepasst, ohne das nächste reguläre Review abzuwarten.
-3. **Verantwortliche Person benennen**: Eine Person (z.B. Datenschutzbeauftragter, Berufsrechtsbeauftragter oder Partnerkreis-Mitglied) ist für den Update-Zyklus verantwortlich.
-4. **Änderungshistorie führen**: Jede Version der Richtlinie mit Datum, geändertem Inhalt und Grund der Änderung dokumentieren.
-5. **Kommunikation bei Updates**: Alle Mitarbeitenden über wesentliche Änderungen informieren; bei grundlegenden Änderungen erneute Schulung durchführen.
-6. **Inkrafttretungs-Übersicht KI-VO**: Zeitplan für relevante KI-VO-Bestimmungen im Blick behalten (z.B. Hochrisiko-Personalwesen: 2. August 2026).
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -130,3 +115,4 @@ AKTUELLER UPDATE-BEDARF:
 BETRIEBSRATS-EINBINDUNG: ☑/☐ Erforderlich — geplant am [DATUM]
 FREIGABE NACH UPDATE: [DATUM] durch [NAME]
 ```
+

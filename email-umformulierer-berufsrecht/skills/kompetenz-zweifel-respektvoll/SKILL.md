@@ -26,9 +26,6 @@ Dieser Skill hilft dabei, fachliche Kritik oder Zweifel an der Kompetenz eines A
 - Art. 5 GG — Meinungsfreiheit: Schutz sachlicher Kritik
 - § 824 BGB — Kreditgefaehrdung: unwahre Kompetenzabsprachen loesen Haftung aus
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Der Unterschied: Sachkritik vs. Personenabwertung
 
 Sachkritik bezieht sich auf ein konkretes Handeln, Dokument oder Ergebnis. Sie ist nachprüfbar, begründet und verhältnismäßig. Personenabwertung bezieht sich auf die Person selbst — ihre Intelligenz, Ausbildung, Persönlichkeit — und ist nicht nachprüfbar. Die Grenze: "Dieser Schriftsatz enthält keinen Verweis auf § 278 BGB" ist Sachkritik. "Sie kennen § 278 BGB offenbar nicht" ist Personenabwertung.
@@ -56,6 +53,3 @@ Die wirksamste Form respektvoller Fachkritik ist der Verweis auf einschlägige N
 | "Das haben Sie falsch berechnet" | "In der Berechnung ergibt sich nach meiner Prüfung ein abweichender Wert" |
 | "Sie verstehen das Gesetz nicht" | "Die Norm des § XY wird in der Fachliteratur überwiegend anders ausgelegt" |
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Identifizierte Kompetenzabsprache. (2) Sachlicher Kern der Kritik. (3) Respektvolle Alternativformulierung mit Sachverhaltsbezug. (4) Ggf. geeigneter Normen- oder Rechtsprechungsverweis als Ersatz für die persönliche Bewertung.

@@ -39,13 +39,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - § 358 ff. ZPO — Beweisbeschluss und Beweisaufnahme
 - § 286 ZPO — freie Beweiswürdigung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Erster, systematischer Pruefschritt nach dem Eingang einer neuen Sache — sei es bei Aktenzuteilung an einen Berichterstatter, beim Wechsel des zuständigen Richters oder bei der Vorbereitung einer Beweisaufnahme. Ziel ist eine **vollständige Aktenübersicht**, die in der nachfolgenden Relation und in den prozessleitenden Maßnahmen (Paragraf 139 ZPO Hinweise, Beweisbeschluss, Vergleichsvorschlag) tragfähig ist.
-
 ## 1) Bestandteile einer typischen Zivilakte
 
 | Stück | Standardinhalte | Worauf zu achten |

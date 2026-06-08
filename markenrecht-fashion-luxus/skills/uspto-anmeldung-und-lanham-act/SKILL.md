@@ -5,10 +5,6 @@ description: "USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will 
 
 # USPTO-Anmeldung und Lanham Act
 
-## Arbeitsbereich
-
-USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -174,10 +170,3 @@ Bevor die TEAS-Anmeldung eingereicht wird, klaere:
 
 > **In re Nett Designs Inc., 236 F.3d 1339 (Fed. Cir. 2001):** Ein Zeichen ist "merely descriptive" nach § 2(e)(1) Lanham Act, wenn es eine Eigenschaft oder Qualitaet der Waren unmittelbar beschreibt; bei Phantasiewoertern im Luxusbereich ist die Beschreibungsschranke in der Regel kein Hindernis, solange keine offensichtliche laudatory Bedeutung vorliegt.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

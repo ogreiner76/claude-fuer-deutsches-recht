@@ -5,10 +5,6 @@ description: "Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergü
 
 # Verl-005 · Honorar, Vorschuss, Absatzhonorar und Abrechnung
 
-## Arbeitsbereich
-
-Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §§ 32 und 32a, 32d — Berechnung, Angemessenheit und Auskunft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -132,3 +128,4 @@ Dieser Skill klärt alle vergütungsrechtlichen Fragen im Verlagsvertrag: Wie wi
 - **Auskunftsschreiben** nach § 32d UrhG
 - **Nachvergütungsklage-Vorprüfung**: Missverhältnis-Berechnung
 - **Abrechnungsrüge**: Formelles Einwandsschreiben gegen Verlagsabrechnung
+

@@ -5,10 +5,6 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Ak
 
 # Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur
 
-## Arbeitsbereich
-
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,13 +88,6 @@ Dieser Skill steuert die anwaltliche Arbeit am Schnittpunkt von Akteneinsicht un
 - EuGH zu Art. 339 AEUV und zum Schutz vertraulicher Geschäftsinformationen mit Datum und Rechtssachen-Nr.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-
-- Schwärzungstabelle als Anlage (Spalten: Seite, Zeile, Inhalt, Schutzkategorie, Norm, Begründung).
-- Schriftsatz mit klarer Gliederung: Sachverhalt, Antrag, Begründung, Anlagen.
-- Risikoampel: grün (Schwärzung tragfähig), gelb (Begründung schwach, Nachbesserung nötig), rot (Schwärzung wird voraussichtlich aufgehoben).
-- Versions-Übersicht (Vollversion vs. Beigeladenen-Version vs. Öffentlichkeits-Version) mit Pflege-Vermerk.
-
 ## Beispiele
 
 - **Entgeltverfahren TK.** Wettbewerber X verlangt Einsicht in die Kostenkalkulation der Y AG im Entgeltverfahren BK4-25-XXX-XX. Ergebnis: Bandbreitenoffenlegung, Schwärzung der Einzelwerte, Begründung über § 71 Abs. 1 TKG.
@@ -160,3 +149,4 @@ Vor Versand prüfen:
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

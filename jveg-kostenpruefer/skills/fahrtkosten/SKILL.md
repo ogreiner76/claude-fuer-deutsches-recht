@@ -5,10 +5,6 @@ description: "Fahrtkosten nach JVEG berechnen: eigenes Fahrzeug, öffentliche Ve
 
 # JVEG-Fahrtkosten
 
-## Arbeitsbereich
-
-Fahrtkosten nach JVEG berechnen: eigenes Fahrzeug, öffentliche Verkehrsmittel, Flug. Normen: § 5 JVEG. Prüfraster: Wegstrecke, Verkehrsmittelwahl, Parkgebühren, Taxikosten. Output: Fahrtkosten-Berechnung JVEG. Abgrenzung: nicht Übernachtungskosten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Fahrtkosten nach JVEG berechnen: eigenes Fahrzeug, öffentliche Verkehrsmittel, 
 ## Fachkern: JVEG-Fahrtkosten
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Prüfe geltend gemachte Fahrtkosten auf Normkonformität nach §§ 5–7 JVEG: Verkehrsmittelwahl, Kilometersatz, Wirtschaftlichkeit und Belegpflicht.
 
 ## Triage — kläre vor der Prüfung
 
@@ -57,9 +50,6 @@ Mit dem Kosten- und Betreuungsrechtsaenderungsgesetz 2025 (KostRAeG 2025) sind z
 - Aktuelle Rechtsprechung zu § 5 JVEG vor Ausgabe ueber https://dejure.org pruefen.
 - BGH-Linie Sachverstaendigenverguetung: Senat für Anwaltssachen sowie I., VII., IV. Zivilsenat zuständig je nach Sachgebiet; Aktenzeichen vor Uebernahme verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Fahrtkosten-Position in Rechnung oder Kostenfestsetzungsantrag.
 
@@ -86,3 +76,4 @@ Positionsgenaue Fahrtkostenprüfung mit Kilometersatz, Befund und anerkanntem Be
 ## Leitplanken
 - Zeugen-Kilometersatz (§ 5 Abs. 2 JVEG) niedriger als Sachverständigen-Satz.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

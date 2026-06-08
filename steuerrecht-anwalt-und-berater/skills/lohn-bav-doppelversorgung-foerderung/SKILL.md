@@ -84,12 +84,6 @@ Hat ein AN mehrere bAV-Vertraege (z.B. Direktversicherung und Pensionskasse), gr
 - Jaehrliche Aktualisierung.
 - Bei Aenderungen Anpassung Lohnabrechnung.
 
-## Output
-
-- bAV-Pruefnotiz mit Beitragssumme und Restbetragsgrenze.
-- Empfehlung Beitragsanpassung.
-- Lohnabrechnung mit Beruecksichtigung der Doppelfoerderung.
-
 ## Strategie und Praxis-Tipps
 
 - Bei mehreren Vertraegen jahrelange Plausibilitaetspruefung — sonst rueckwirkende Versteuerung.
@@ -97,12 +91,6 @@ Hat ein AN mehrere bAV-Vertraege (z.B. Direktversicherung und Pensionskasse), gr
 - Bei sehr engen Grenzen: Beitragsreduktion frueh angeben.
 - StBVV: bei mehreren bAV-Vertraegen Mehraufwand — Zusatzauftrag.
 - DATEV-Tipp: DATEV LODAS bAV-Kumulation pro AN, automatische 8-Prozent-Pruefung.
-
-## Querverweise
-
-- `stb-lohn-betriebliche-altersversorgung-grundlagen` — bAV.
-- `stb-lohn-direktversicherung-3-nr-63-estg` — Direktversicherung.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
 
 ## Quellen und Updates
 
@@ -116,10 +104,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 2 bestaetigt (BMF-Daten recherchiert), 2 ersetzt (BBG-Werte 2025 eingesetzt, Pruefhinweis ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

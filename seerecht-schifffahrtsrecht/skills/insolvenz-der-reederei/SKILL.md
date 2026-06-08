@@ -49,11 +49,6 @@ Eine Reederei mit acht Schiffen meldet Insolvenz an; die finanzierende Bank hat 
 - Crewlöhne als Schiffsgläubigerrechte (HGB § 597): vorrangig; wird im Verwertungsplan oft vergessen.
 - Ausländische Arrests durchbrechen deutschen Insolvenzbeschlag nicht automatisch.
 
-## Output
-- Gläubigeranalyse-Vermerk: Rang; Sicherung; Forderungshöhe je Gläubiger
-- Verwertungsstrategie: Fortbetrieb vs. Sofortversteigerung (Kostenvergleich)
-- Schriftsatz-Baustein Absonderungsantrag der Bank
-
 ## Erweiterte Normengrundlage
 
 ### Insolvenzrecht
@@ -90,3 +85,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - ZPO §§ 864-871: https://dejure.org/gesetze/ZPO/864.html
 - EuInsVO Recast: https://dejure.org/gesetze/EuInsVO
 - BGH Insolvenz Schiff: https://www.bgh.de
+

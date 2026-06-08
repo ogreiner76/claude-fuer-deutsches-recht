@@ -5,9 +5,6 @@ description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Un
 
 # Urheberrecht Urhg 108a Gewerblich
 
-## Arbeitsbereich
-
-**Urheberrecht Urhg 108a Gewerblich** ordnet den Fall über die tragenden Prüfungslinien: Unerlaubte Eingriffe in verwandte Schutzrechte nach, Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a, Unerlaubte Eingriffe in technische Schutzmassnahmen und zur. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +27,7 @@ description: "Urheberrecht Urhg 108a Gewerblich im Strafrecht: prüft konkret Un
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
@@ -111,14 +109,6 @@ Strafrahmen Paragraph 108 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldst
 6. **Vergleich mit Rechteinhaber** und Antragsruecknahme Paragraph 77d StGB anregen.
 7. **Schutzschrift / Verstaendigung Paragraph 257c StPO** je nach Beweislage.
 8. **Hauptverhandlung** mit Sachverstaendigenbeweisantraegen zu Schutzfrist und Inhaberschaft.
-
-## Querverweise
-
-- `strafrecht-spezial-urheberrecht-106-urhg`
-- `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich`
-- `strafrecht-spezial-urheberrecht-108b-urhg-tpm`
-- `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung`
 
 ## Quellen Stand 06/2026
 
@@ -214,15 +204,6 @@ Strafrahmen Paragraph 108a UrhG: drei Monate bis fuenf Jahre Freiheitsstrafe. Ke
 7. **Untersuchungshaft Paragraph 112 StPO** abwenden: Aussetzung Paragraph 116 StPO mit Sicherheitsleistung; bei Bandenbezug Wiederholungsgefahr Paragraph 112a StPO.
 8. **Hauptverhandlung** mit Wirtschaftsstrafkammer-Tauglichkeit (Paragraph 74c GVG).
 
-## Querverweise
-
-- `strafrecht-spezial-urheberrecht-106-urhg`
-- `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
-- `strafrecht-spezial-urheberrecht-108b-urhg-tpm`
-- `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung`
-- `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 108a UrhG im Wortlaut (gesetze-im-internet.de): Freiheitsstrafe drei Monate bis fuenf Jahre.
@@ -232,14 +213,6 @@ Strafrahmen Paragraph 108a UrhG: drei Monate bis fuenf Jahre Freiheitsstrafe. Ke
 - Paragraph 257c StPO Verstaendigung; Paragraph 153a StPO Einstellung gegen Auflage.
 - Paragraphen 73, 73c, 74 StGB Einziehung und Wertersatz; Bruttoprinzip BGH.
 - VO (EU) 608/2013 (Produktpiraterieverordnung) für Zollverfahren; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `strafrecht-spezial-urheberrecht-108b-urhg-tpm`
 
@@ -319,14 +292,6 @@ Strafrahmen Paragraph 108b Abs 1 UrhG: Freiheitsstrafe bis ein Jahr oder Geldstr
 6. **Vergleich mit Rechteinhaber** und Antragsruecknahme Paragraph 77d StGB; Lizenzgebuehrenanalogie.
 7. **Verstaendigung Paragraph 257c StPO** bei kommerzieller Tat und kooperativer Mandantenseite.
 8. **Hauptverhandlung** mit IT-Sachverstaendigem.
-
-## Querverweise
-
-- `strafrecht-spezial-urheberrecht-106-urhg`
-- `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
-- `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich`
-- `strafrecht-spezial-geschgehg-23-strafvorschriften`
-- `strafrecht-spezial-ip-strafrecht-verteidigung`
 
 ## Quellen Stand 06/2026
 
@@ -451,13 +416,6 @@ Vor Inkrafttreten der Reform am 10.11.2016 galt § 177 StGB a.F.: nur sexuelle N
 **Plaedoyer-Snippet:**
 > Bei Aussage gegen Aussage ist nach staendiger BGH-Rechtsprechung die Nullhypothese anzuwenden. Die Aussage der Geschaedigten weist Inkonsistenzen, Detailarmut und atypisches Verhalten auf. Das Vertrauenswuerdigkeitsmerkmal "fehlende Belastungstendenz" ist nicht zu bejahen. Es bleibt der Zweifelsgrundsatz iSd § 261 StPO. Freispruch ist die Folge.
 
-## Querverweise
-
-- `strafrecht-spezial-sexueller-uebergriff-177-i-stgb` – Vertiefung zu Abs. 1.
-- `strafrecht-spezial-sexueller-missbrauch-176-stgb` – Kinder.
-- `fachanwalt-strafrecht-einlassung-vorbereiten` – Aussagestrategie.
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` – Nebenklage.
-
 ## Quellen Stand 06/2026
 
 - § 177 StGB sexueller Uebergriff / sexuelle Noetigung / Vergewaltigung (gesetze-im-internet.de).
@@ -551,12 +509,6 @@ Vorsatz bezueglich aller objektiven Merkmale: Unfall, Schaden, Wartepflicht. Ver
 **Schriftsatz-Snippet (taetige Reue):** "Mein Mandant hat sich am DD.MM.JJJJ binnen weniger Stunden nach dem Vorfall freiwillig bei der Polizei gemeldet (Anlage VR 1) und alle erforderlichen Feststellungen ermoeglicht. Damit liegen die Voraussetzungen einer taetigen Reue nach Paragraph 142 Abs 4 StGB vor."
 
 **Antrag auf Bagatellschadenfeststellung:** "Es wird beantragt, ein Sachverstaendigengutachten ueber die tatsaechliche Schadenshoehe einzuholen. Der vom Anzeigeerstatter eingereichte Kostenvoranschlag in Hoehe von 1.800 Euro enthaelt zahlreiche nicht durch die Streifkollision verursachte Schaeden."
-
-## Querverweise
-
-- `strafrecht-spezial-verkehrsstrafrecht-315c-stgb-gefaehrdung`
-- `strafrecht-spezial-verkehrsstrafrecht-316-stgb-trunkenheit`
-- `strafrecht-spezial-verkehrsstrafrecht-315d-stgb-rennen`
 
 ## Quellen Stand 06/2026
 
@@ -654,14 +606,6 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 
 **Einlassungs-Snippet:** "Ich habe das Stoppschild uebersehen, weil meine Aufmerksamkeit kurzzeitig von einem Wespenstich abgelenkt war. Ich habe das andere Fahrzeug sofort gesehen und gebremst; eine Gefaehrdung war für mich subjektiv nicht erkennbar."
 
-## Querverweise
-
-- `strafrecht-spezial-verkehrsstrafrecht-316-stgb-trunkenheit`
-- `strafrecht-spezial-verkehrsstrafrecht-142-stgb-unfallflucht`
-- `strafrecht-spezial-verkehrsstrafrecht-315d-stgb-rennen`
-- `strafrecht-spezial-verkehrsstrafrecht-323a-stgb-rauschtat`
-- `strafrecht-spezial-noetigung-240-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 315c StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -673,14 +617,6 @@ Begeht der Taeter die Tat fahrlaessig (Absatz 3 Nummer 1) oder verursacht er die
 - BGH staendige Rspr. zur konkreten Gefahr als Beinaheunfall.
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).
 - BVerfG staendige Linie zur Bestimmtheit von Strafgesetzen Art 103 II GG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 7. `strafrecht-spezial-verkehrsstrafrecht-315d-stgb-rennen`
 
@@ -764,14 +700,6 @@ Wer fahrlaessig die Gefahr verursacht, wird mit Freiheitsstrafe bis zu drei Jahr
 **Schriftsatz-Snippet (Bestreiten konkludenter Absprache):** "Eine konkludente Verstaendigung mit dem Mitangeklagten X auf ein Rennen ist nicht erwiesen. Beide Fahrzeuge sind zwar zeitlich und raeumlich nahe gefahren, das beweist jedoch nach BGH staendige Rspr. noch keine Absprache zum Wettbewerb."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Sachverstaendigengutachten zu erheben zum Beweis der Tatsache, dass die Geschwindigkeit meines Mandanten zum Tatzeitpunkt unter der jeweils erreichbaren Hoechstgeschwindigkeit lag. Damit fehlt es an dem Tatbestandsmerkmal hoechstmoegliche Geschwindigkeit nach Paragraph 315d Abs 1 Nr 3 StGB."
-
-## Querverweise
-
-- `strafrecht-spezial-verkehrsstrafrecht-315c-stgb-gefaehrdung`
-- `strafrecht-spezial-verkehrsstrafrecht-316-stgb-trunkenheit`
-- `strafrecht-spezial-verkehrsstrafrecht-142-stgb-unfallflucht`
-- `strafrecht-spezial-totschlag-212-stgb`
-- `strafrecht-spezial-mord-211-stgb-mordmerkmale`
 
 ## Quellen Stand 06/2026
 
@@ -864,13 +792,6 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 
 **Antrag auf Wiederzulassung zur Eignungspruefung nach 6 Monaten Sperre:** "Es wird beantragt, die Sperrfrist nach Paragraph 69a Abs 7 StGB vorzeitig aufzuheben, da die Eignung zur Fuehrung von Kraftfahrzeugen wieder hergestellt ist. Es liegt ein verkehrspsychologisches Gutachten vom DD.MM.JJJJ vor."
 
-## Querverweise
-
-- `strafrecht-spezial-verkehrsstrafrecht-315c-stgb-gefaehrdung`
-- `strafrecht-spezial-verkehrsstrafrecht-142-stgb-unfallflucht`
-- `strafrecht-spezial-verkehrsstrafrecht-323a-stgb-rauschtat`
-- `strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 316 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -882,14 +803,6 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 - KCanG Cannabisgesetz mit aktuellem THC-Grenzwert (siehe Fachmodul).
 - Fahrerlaubnis-Verordnung (FeV) zur Eignungsbegutachtung.
 - BVerfG staendige Linie zur Bestimmtheit von Strafgesetzen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 9. `strafrecht-spezial-verkehrsstrafrecht-323a-stgb-rauschtat`
 
@@ -970,12 +883,6 @@ Wenn die Rauschtat ein Antragsdelikt ist, dann ist auch die Vollrauschtat nur au
 
 **Antrag auf Massregel Paragraph 64 StGB:** "Es wird hilfsweise beantragt, die Unterbringung in einer Entziehungsanstalt nach Paragraph 64 StGB anzuordnen. Mein Mandant leidet an einem Hang zum uebermäßigen Alkoholkonsum. Eine erfolgversprechende Therapie ist nach Sachverstaendigengutachten vom DD.MM.JJJJ moeglich."
 
-## Querverweise
-
-- `strafrecht-spezial-verkehrsstrafrecht-316-stgb-trunkenheit`
-- `strafrecht-spezial-verkehrsstrafrecht-315c-stgb-gefaehrdung`
-- `strafrecht-spezial-koerperverletzung-223-stgb-grund`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 323a StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -986,14 +893,6 @@ Wenn die Rauschtat ein Antragsdelikt ist, dann ist auch die Vollrauschtat nur au
 - BGH staendige Rspr. zur actio libera in causa.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 10. `strafrecht-spezial-verletzung-buchfuehrungspflicht-283b-stgb`
 
@@ -1068,13 +967,6 @@ Aufbewahrungspflichten: 10 Jahre für Handelsbuecher, Inventare, Eroeffnungsbila
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der Datev-Mandantenliste der Kanzlei X (Stichtag DD.MM.JJJJ) zu erheben zum Beweis der Tatsache, dass die laufende Buchhaltung bis zum Insolvenzantrag vollstaendig in Datev gefuehrt war."
 
-## Querverweise
-
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb`
-- `strafrecht-spezial-insolvenzverschleppung-15a-inso`
-- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 283b StGB im Wortlaut (gesetze-im-internet.de).
@@ -1084,10 +976,3 @@ Aufbewahrungspflichten: 10 Jahre für Handelsbuecher, Inventare, Eroeffnungsbila
 - BGH staendige Rspr. zur Subsidiaritaet des Paragraph 283b StGB gegenueber Paragraph 283 Abs 1 Nr 5 bis 7 StGB.
 - BGH staendige Rspr. zur Dauerstraftat bei fortlaufender Unterlassung der Buchfuehrung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Stellt klassische Lösungsschemata für die deutsche Juristenklaus
 
 # Lösungsschemata
 
-## Arbeitsbereich
-
-Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, können aber das Verständnis tragen. Lädt, wenn der Nutzer "Schema BGB", "Schema StGB", "Anspruchsprüfung Aufbau", "Verbrechensaufbau", "Grundrechtsschema" oder "brauche ich Schemata" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -32,9 +28,6 @@ Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — 
 - Art. 1, 19 GG — Grundrechte: Schutzbereich als erster Schritt des Grundrechtsschemas
 - §§ 40, 42 VwGO — Rechtsweg und Klageart als erster Schritt des Verwaltungsrecht-Schemas
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ehrlicher Disclaimer vorweg
 
 **Schemata sind nicht das Gesetz, nicht die Lehre und nicht das Examen. Sie sind didaktische Krücken — manchmal sehr gute, manchmal irreführende.**
@@ -171,13 +164,6 @@ Die Skill stellt das Schema bereit, **erklärt aber jeden Schritt** mit der dogm
 
 Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studierende erst aus dem Gesetz beantwortet, dann mit dem Schema abgleicht.
 
-## Querverweise
-
-- `subsumtionslehre` — Schemata strukturieren, aber die Subsumtion **innerhalb** jedes Schemapunkts ist das eigentliche Lernziel.
-- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-öffentliches-recht` — fachspezifischer Hintergrund.
-- `gutachten-uebung` — Schema in der Klausur anwenden.
-- `tatbestaende-lernen` — Definitionen, ohne die Schemata leer bleiben.
-
 ## Was diese Skill nicht tut
 
 - Sie ist **nicht** das Lehrbuch. Wer nur das Schema lernt, geht durch das Examen wie ein Roboter mit fehlerhafter Firmware: erkennt einen 80%-passenden Sachverhalt nicht.
@@ -187,3 +173,4 @@ Im Drill-Modus stellt die Skill Schritt-für-Schritt-Fragen, die der Studierende
 ## Schlusswort
 
 Schemata sind wie Stützräder am Fahrrad. Solange sie tragen, lassen sie sich nicht ohne Folgen abbauen. Wer fahren kann, fährt ohne. Wer das Fahren lernt, fährt erstmal mit — und schämt sich nicht.
+

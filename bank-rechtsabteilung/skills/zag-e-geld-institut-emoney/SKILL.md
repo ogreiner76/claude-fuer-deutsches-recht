@@ -5,10 +5,6 @@ description: "E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, R�
 
 # E-Geld-Institut und E-Geld-Geschäft nach ZAG
 
-## Arbeitsbereich
-
-E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, Rücktausch, monetärer Wert, Akzeptanzstellen, Sicherungsmittel, Eigenmittel, Vertrieb und Abgrenzung zu Gutschein, Token und Einlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,10 +47,3 @@ Dieser Skill prüft das E-Geld-Geschäft nach ZAG: ob ein Produkt E-Geld im Sinn
 - Mobile-Wallet mit E-Geld-Funktion: § 11 ZAG Erlaubnis, § 23a ZAG wenn Vertrieb über Agenten, § 16 Sicherung pro App-Nutzer
 - Rücktauschverweigerung durch Institut: § 11a ZAG, zivilrechtlicher Anspruch des Inhabers; BaFin-Beschwerdeweg
 
-## Output
-
-E-Geld-Prüfungsschema (Definition-Checkliste); Erlaubnisantrags-Checkliste § 11 ZAG; Eigenmittelberechnung Methode D; Sicherungskonzept-Vorlage; Agenten-Registrierungsanforderungen § 23a ZAG.
-
-## Quellenregel
-
-gesetze-im-internet.de (ZAG), eur-lex.europa.eu (EMD2 2009/110/EG, MiCAR VO 2023/1114), bafin.de (Merkblatt E-Geld, Abgrenzungsfälle). Live-Check: BaFin-Merkblatt E-Geld zuletzt 2022; MiCAR EMT-Regime ab Juni 2024 in Kraft.

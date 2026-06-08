@@ -5,10 +5,6 @@ description: "Abgrenzung gesetzliche Unfallversicherung (SGB VII) und GKV bei Ar
 
 # Unfallversicherung oder Krankenkasse: Zuständigkeitsstreit
 
-## Arbeitsbereich
-
-Abgrenzung gesetzliche Unfallversicherung (SGB VII) und GKV bei Arbeitsunfällen: Zuständigkeit, Vorleistungspflicht der GKV, Erstattungsansprüche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Bei Arbeitsunfällen und Berufskrankheiten ist die Berufsgenossenschaft (BG) zus
 - [BSG B 2 U 23/14 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [DGUV – Deutsche Gesetzliche Unfallversicherung](https://www.dguv.de)
 - [dejure.org § 8 SGB VII](https://dejure.org/gesetze/SGB_VII/8.html)
+

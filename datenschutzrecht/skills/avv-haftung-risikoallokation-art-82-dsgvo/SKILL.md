@@ -79,12 +79,6 @@ Haftungsklausel:
 - Versicherungsnachweis nicht eingefordert.
 - Sub-AV-Haftung nicht thematisiert.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/dsr-schadensersatz-art82-spezial/SKILL.md`
-- `datenschutzrecht/skills/avv-audit-und-kontrollrechte/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 82, Art. 28 Abs. 4, Art. 28 Abs. 10, Art. 83 DSGVO.
@@ -120,3 +114,4 @@ Haftungsklausel:
 - Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
 - Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
 - Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
+

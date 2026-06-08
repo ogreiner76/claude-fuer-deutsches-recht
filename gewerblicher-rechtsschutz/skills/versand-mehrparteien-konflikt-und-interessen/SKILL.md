@@ -5,10 +5,6 @@ description: "Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzge
 
 # Spezial: Mehrparteien-Konstellationen und Interessenkonflikte
 
-## Arbeitsbereich
-
-Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -140,3 +136,4 @@ Mandatsbezug: Lizenzgeber und Lizenznehmer streiten über Verletzung durch Dritt
 - `spezial-operate-verhandlung-vergleich-und-eskalation` – Vergleichsverhandlung
 - `spezial-gewerblicher-erstpruefung-und-mandatsziel` – Erstprüfung und Mandatsziel
 - `mandat-triage-gewerblicher-rechtsschutz` – Mandatstriage
+

@@ -5,9 +5,6 @@ description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: 
 
 # Betriebsrat Ladung Betriebsuebergang 613a
 
-## Arbeitsbereich
-
-**Betriebsrat Ladung Betriebsuebergang 613a** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für betriebsrat ladung und ersatzmitglieder pruefen, Unternehmen wird verkauft oder Betrieb geht auf neuen, Prüfung von Arbeitsvertrag und Befristung bei. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Betriebsrat Ladung Betriebsuebergang 613a im Plugin Arbeitsrecht: 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `betriebsrat-ladung-und-ersatzmitglieder-pruefen`
@@ -167,12 +165,6 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 
 **Folge**: Wechsel zum Skill `betriebsrat-beschluss-heilung-nachtraeglich` — kann der Betriebsrat den Beschluss in einer Folgesitzung nachträglich heilen?
 
-## Querverweise
-
-- → `betriebsrat-beschluss-heilung-nachtraeglich` — Heilungsmöglichkeit bei festgestelltem Fehler
-- → `betriebsrat-anhoerung` — formgerechte Anhörung des Betriebsrats vor Kündigung
-- → `kuendigungsschutz-grundlagen`
-
 ## 2. `betriebsuebergang-613a-pruefen`
 
 **Fokus:** Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan.
@@ -223,9 +215,6 @@ Bevor losgelegt wird, kläre:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 — Tatbestand: Identitätswahrung
@@ -416,9 +405,6 @@ Zitierstandard: `../references/zitierweise.md`.
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 ### Schritt 1: Kontext und Unterlagen klären
@@ -559,16 +545,6 @@ Handlungsempfehlungen:
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Diese Skill kehrt zu einem laufenden Expansions-Tracker zurück und aktualisiert
-den Bearbeitungsstand anhand der seit der letzten Sitzung eingetretenen
-Entwicklungen. Sie berechnet neu, welche Punkte jetzt angegangen werden können,
-kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten.
-
-Lädt, wenn Fortschritte bei einer laufenden Auslandseinstellung zu dokumentieren
-sind und der Tracker aktualisiert werden soll.
-
 ## Eingaben
 
 - Zielland (ggf. aus bestehendem Tracker automatisch erkannt)
@@ -672,12 +648,6 @@ Tracker aktualisiert — [N] Punkte geschlossen, [N] noch offen.
 Nächste Priorität: [oberster offener Punkt].
 ```
 
-## Ausgabeformat
-
-Statusanzeige nach Schritt 2 (Tabellenform), gefolgt von freiem Abfrageblock,
-dann Bestätigungsnachricht nach Update. Bei AÜG-Fristwarnung: gesonderter
-Warnblock über der Bestätigung.
-
 ## Beispiel
 
 ```
@@ -721,3 +691,4 @@ Bei AÜG-relevanten Warnungen zitieren:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

@@ -97,12 +97,6 @@ SUMME [X]
 - Zahlungsempfehlung mit Skonti-Hinweis.
 - Bei ueberfaelligen SV-Beitraegen: dringende Warnung.
 
-## Output
-
-- Kreditoren-OPOS-Liste mit Faelligkeitsstaffel.
-- Zahlungsempfehlung mit Skonti-Optimierung.
-- Krisensignal-Hinweis bei ueberfaelligen FA/SV-Schulden.
-
 ## Strategie und Praxis-Tipps
 
 - Skonti sind oft die guenstigste Finanzierungsform — Verzinsung 36-72 Prozent p.a. Aequivalent.
@@ -111,14 +105,6 @@ SUMME [X]
 - Bei ueber 90 Tage ueberfaelligen Lieferantenrechnungen: § 17 InsO-Indiz; Hinweispflicht § 102 StaRUG ausgeloest.
 - StBVV: OPOS-Auswertung in Buchfuehrungspauschale; Zahlungsdisposition optional Zusatzauftrag.
 - DATEV-Tipp: DATEV-Zahlungstrager mit Skonti-Faelligkeitspruefung.
-
-## Querverweise
-
-- `stb-susa-debitorenliste-osa-offene-posten` — Debitoren-OPOS.
-- `stb-susa-saldenabstimmung-bestaetigung` — Saldenabstimmung.
-- `stb-liquiditaetsvorschau-3wochen` — 3-Wochen-Liquiditaet.
-- `stb-warnschreiben-krisensignale` — Krisensignal.
-- `stb-bwa-sus-bilanz-pruefung` — Krisensignale.
 
 ## Quellen und Updates
 
@@ -131,10 +117,3 @@ Stand: 05/2026.
 - StaRUG § 102.
 - IDW PS 480.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

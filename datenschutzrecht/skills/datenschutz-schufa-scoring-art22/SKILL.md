@@ -5,9 +5,6 @@ description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkr
 
 # Datenschutz Schufa Scoring Art22
 
-## Arbeitsbereich
-
-**Datenschutz Schufa Scoring Art22** ordnet den Fall über die tragenden Prüfungslinien: Löschung von SCHUFA-/Auskunfteidaten zur, Bonitätsscoring nach EuGH C-634/21, Bestehende Datenschutzdokumentation oder Richtlinien an. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkr
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `datenschutz-schufa-insolvenzdaten-loeschung`
@@ -33,23 +31,9 @@ description: "Datenschutz Schufa Scoring Art22 im Datenschutzrecht: prüft konkr
 
 ### Datenschutz: SCHUFA-Insolvenzdaten löschen
 
-## Einsatz
-
-Für Betroffene, die nach Restschuldbefreiung weiterhin negative Auskunfteieinträge finden.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 5, 6, 15, 17, 18, 21, 77, 79; EuGH 07.12.2023 C-26/22 und C-64/22; InsO/InsBekV live prüfen.
-
-## Arbeitsfragen
-
-1. Welche Einträge, Datenquellen und Speicherfristen?
-2. Ist die öffentliche Bekanntmachung noch abrufbar?
-3. Welche Auskunfteien und Empfänger?
-
-## Output
-
-Auskunfts-/Löschungsverlangen, Fristenplan und Beschwerdeentwurf.
 
 ## Red Flags
 
@@ -67,23 +51,9 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ### Scoring und Art. 22 DSGVO nach EuGH C-634/21
 
-## Einsatz
-
-Für Score-basierte Kredit-, Miet-, Konto- oder Vertragsablehnung.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 15, 21, 22, 35; BDSG § 31 live prüfen; EuGH 07.12.2023 C-634/21.
-
-## Arbeitsfragen
-
-1. Hat ein Dritter maßgeblich auf den Score abgestellt?
-2. Welche Logik/Scorefaktoren sind bekannt?
-3. Welche menschliche Prüfung fand statt?
-
-## Output
-
-Art.-22-Prüfung, Auskunftsverlangen und Argumente gegen automatisierte Entscheidung.
 
 ## Red Flags
 
@@ -100,10 +70,6 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 **Fokus:** Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Prüfraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten Anpassungsbedarf. Output: Anpassungsprotokoll ueberarbeitete Dokumente. Abgrenzung: nicht für Neuerstellung von Dokumentation.
 
 ### Customize – Praxisprofil anpassen
-
-## Zweck
-
-Gezieltes Aktualisieren einzelner Abschnitte von `CLAUDE.md`, ohne das gesamte Kaltstart-Interview zu wiederholen. Typische Anlässe: neue Aufsichtsbehörde wegen Umzug der Hauptniederlassung, geänderter AVV-Dealbreaker nach Vertragsverhandlung, neue Systemliste nach IT-Migration, aktualisertes DSFA-Format nach Audit-Feedback, Wechsel des internen DSB.
 
 ## Eingaben
 
@@ -146,17 +112,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 28 DSGVO (AVV-Mindestanforderungen für Playbook-Änderungen)
 - Art. 46, 47, 49 DSGVO (Drittlandtransfer-Mechanismen)
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
-## Ausgabeformat
-
-Kurze Änderungsbestätigung:
-```
-Geändert: [Abschnitt]
-Alter Wert: [Wert]
-Neuer Wert: [Wert]
-Rechtsgrundlage der Änderung: [Norm oder "organisatorische Entscheidung"]
-Folgeaktionen: [z.B. "Datenschutzerklärung prüfen, ob Änderung dort sichtbar werden muss"]
-```
 
 ## Beispiel
 
@@ -323,12 +278,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 28, 29 DSGVO (Auftragsverarbeitung bei Nutzung externer Systeme)
 - Art. 25 DSGVO (Datenschutz durch Technikgestaltung – Mandatsisolation als TOMs)
 - Zuck, in: Zuck/Lenz, Anwaltsrecht, 2. Aufl. 2018, § 43a BRAO Rn. 15 ff. (Berufsgeheimnis).
-
-## Ausgabeformat
-
-- Kurzbestätigungen (angelegt, gewechselt, geschlossen) als einzeilige Statusnachricht
-- Mandatsübersicht als Tabelle
-- `mandat.md` als vollständig befülltes Dokument
 
 ## Risiken / typische Fehler
 
@@ -507,13 +456,6 @@ Date: Date:
 - Breach notification only one-way.
 - Onward transfer not addressed.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dpa-en-template-controller-processor/SKILL.md`
-- `datenschutzrecht/skills/joint-controllership-en-template/SKILL.md`
-- `datenschutzrecht/skills/avv-rolemix-getrennt-vs-gemeinsam-verantwortlich/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-us-data-privacy-framework-bezug/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - GDPR Articles 4, 6, 13, 14, 26, 28, 32, 33, 34, 44 to 49, 82.
@@ -522,10 +464,3 @@ Date: Date:
 - CJEU C-25/17, C-498/16, C-40/17 – verified case numbers; check full text via curia.europa.eu before citation.
 - Citation rules: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,9 +5,6 @@ description: "Aussagepsy Suggestion Tuechtigkeit im Strafrecht: prüft konkret S
 
 # Aussagepsy Suggestion Tuechtigkeit
 
-## Arbeitsbereich
-
-**Aussagepsy Suggestion Tuechtigkeit** ordnet den Fall über die tragenden Prüfungslinien: Suggestion und Falscherinnerung, Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur, Falschgestaendnisse. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +27,7 @@ description: "Aussagepsy Suggestion Tuechtigkeit im Strafrecht: prüft konkret S
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung`
@@ -92,15 +90,6 @@ Im Plaedoyer trennen Sie klar: "Es ist nicht zu unterstellen, die Zeugin luege. 
 
 **Mustersatz für Plaedoyer:**
 "Die Annahme, die Zeugin luege, ist nicht zu treffen — und sie ist methodisch auch nicht der richtige Pruefansatz. Der richtige Ansatz ist: Ist die Erinnerung erlebnisbasiert oder suggestiv kontaminiert? Nach dem Stand der aussagepsychologischen Forschung (Loftus, Volbert/Steller) sind die Faktoren Latenz von [Zeitraum], die [N] vorausgegangenen Vernehmungen und die therapeutische Aufdeckung seit [Datum] geeignet, eine Falscherinnerung zu erzeugen. Damit ist die Suggestionshypothese nicht ausgeraeumt."
-
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen`
-- `strafrecht-spezial-aussagepsychologie-kindliche-zeugen`
-- `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
 
 ## Quellen Stand 06/2026
 
@@ -173,14 +162,6 @@ Im Plaedoyer trennen Sie methodisch: "Vor der Pruefung der Glaubhaftigkeit der A
 
 **Mustersatz für Plaedoyer:**
 "Es ist methodisch nicht ausreichend, die Aussage einer Zeugin auf Realkennzeichen und Konstanz zu pruefen, wenn die vorgeschaltete Frage der Aussagetuechtigkeit nicht geklaert ist. Im vorliegenden Fall ist die Aussagetuechtigkeit substanziell zweifelhaft. [Begruendung]. Bevor das Gericht ueber die Glaubhaftigkeit befindet, muss die Tuechtigkeit geklaert sein. Andernfalls baut die Beweiswuerdigung auf einem nicht tragfaehigen Fundament."
-
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-glaubhaftigkeit-vs-glaubwuerdigkeit`
-- `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-kriminologie-opferpsychologie`
 
 ## Quellen Stand 06/2026
 
@@ -268,14 +249,6 @@ Im Plaedoyer methodisch arbeiten: "Mein Mandant hat gestanden — aber ein Gesta
 **Mustersatz für Plaedoyer:**
 "Wer eine Verurteilung allein auf ein widerrufenes Gestaendnis stuetzt, das unter den Bedingungen einer lang andauernden, ohne Verteidiger gefuehrten Vernehmung entstanden ist, baut auf einer brueckigen Beweisbasis. Die kriminologische und aussagepsychologische Forschung kennt das Phaenomen des Falschgestaendnisses seit Jahrzehnten. Im vorliegenden Fall liegen genau jene Risikofaktoren vor, die in der Forschung als gestaendniskontaminierend identifiziert sind. Damit bleibt Restzweifel. Freispruch."
 
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis`
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen`
-- `strafrecht-spezial-aussagepsychologie-emotionsbewertung-mimik-gefahren`
-
 ## Quellen Stand 06/2026
 
 - § 136a StPO (verbotene Vernehmungsmethoden).
@@ -345,16 +318,6 @@ Im Schlussvortrag arbeiten Sie nicht mit Vorwuerfen ("die Zeugin luegt"), sonder
 
 **Mustersatz für Plaedoyer:**
 "Die Annahme, die Zeugin luege, ist methodisch unzulaessig, weil sie eine Beweisrichtung verkennt: Nach der Hypothesen-gegen-Hypothesen-Methode (BGH, 1 StR 618/98) ist nicht zu beweisen, dass die Zeugin luegt, sondern dass die Aussage ueberhaupt erlebnisbasiert ist. Bleiben alternative Hypothesen — Suggestion, Falscherinnerung, Motivation — methodisch offen, ist die Null-Hypothese nicht widerlegt, und der Angeklagte muss freigesprochen werden."
-
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-glaubhaftigkeit-vs-glaubwuerdigkeit`
-- `strafrecht-spezial-aussagepsychologie-aussagetuechtigkeit-aussagebereitschaft`
-- `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`
-- `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
 
 ## Quellen Stand 06/2026
 
@@ -440,15 +403,6 @@ Im Plaedoyer methodisch arbeiten: "Das vorgelegte aussagepsychologische Gutachte
 3. Wie bewerten Sie die Tatsache, dass die Zeugin seit dem [Datum] in psychotherapeutischer Behandlung ist? Welche Aufdeckungstechniken werden dort eingesetzt?
 4. Welche Bedeutung messen Sie der Latenz von [Zeitraum] zwischen behaupteter Tat und Erstaussage zu?"
 
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-aussagetuechtigkeit-aussagebereitschaft`
-- `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
-
 ## Quellen Stand 06/2026
 
 - BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (methodische Anforderungen an aussagepsychologische Begutachtung).
@@ -530,15 +484,6 @@ Im Plaedoyer differenziert und respektvoll: "Die Zeugin ist 16 Jahre alt. Sie is
 **Mustersatz für Plaedoyer:**
 "Eine jugendliche Zeugin ist nicht unglaubwuerdig — und sie ist auch nicht automatisch glaubhaft. Sie ist in einer Lebensphase, in der die Aussage von mehr als nur dem Erlebnis abhaengt: Loyalitaeten zur Familie, zum Freundeskreis, zur Partnerschaft; Sexualgrauzonen mit Unsicherheit; Stress unter Vernehmung. Diese Faktoren erfordern eine sorgfaeltige aussagepsychologische Pruefung. Eine Eindrucksbewertung genuegt nicht."
 
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-kindliche-zeugen`
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-aussagetuechtigkeit-aussagebereitschaft`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen`
-- `strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis`
-
 ## Quellen Stand 06/2026
 
 - BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (Methodik aussagepsychologischer Begutachtung).
@@ -610,15 +555,6 @@ Im Plaedoyer respektvoll, niemals herabsetzend: "Die Aussage des Kindes ist nich
 
 **Mustersatz für Plaedoyer:**
 "Die Aussage eines Kindes verdient besonderen Respekt — aber sie verdient auch besondere Sorgfalt. Bei einem Kind im Alter von [X] Jahren ist die Suggestibilitaet entwicklungspsychologisch erhoeht, das Quellengedaechtnis noch nicht voll ausgebildet, die zeitliche Verortung schwach. Wenn dann [N] Befragungen vorausgehen, in einem Kontext der bereits erhobenen Anschuldigung, ist die Annahme einer kontaminierten Erinnerung nicht von der Hand zu weisen. Damit bleibt Restzweifel — Freispruch."
-
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
-- `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`
-- `strafrecht-spezial-aussagepsychologie-jugendliche-und-belastung`
 
 ## Quellen Stand 06/2026
 
@@ -698,14 +634,6 @@ Im Plaedoyer arbeiten Sie nicht mit Pauschalkritik, sondern mit konkreter Gegenu
 **Mustersatz für Plaedoyer:**
 "Die Aussage der Zeugin weist erhebliche Inkonstanzen im Tatkern auf. Diese betreffen nicht periphere Details, sondern den Tatort, den Tatablauf und die zeitliche Einordnung. Die Inkonstanzen lassen sich plausibel mit suggestiven Einfluessen erklaeren, die durch Mehrfachvernehmungen, therapeutische Bezugspersonen und Gespraeche im familiaeren Umfeld entstanden sind. Damit ist die Wahrhypothese nicht mit der notwendigen Sicherheit nachweisbar."
 
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen`
-- `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`
-
 ## Quellen Stand 06/2026
 
 - BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (Beweiswuerdigung in Aussage-gegen-Aussage-Konstellationen).
@@ -777,15 +705,6 @@ Im Plaedoyer arbeiten Sie chronologisch: "Die Aussage der Zeugin ist nicht aus e
 
 **Mustersatz für Plaedoyer:**
 "Konstanz ist nicht Erlebnis. Eine Aussage, die ueber acht Vernehmungen hinweg gleich bleibt, kann erlebnisbasiert sein — sie kann aber auch ein durch Wiederholung verfestigtes Skript sein. Die aussagepsychologische Forschung kennt diesen Skripteffekt seit Jahrzehnten. Bei den hier dokumentierten Aussagesituationen ist die Annahme einer reinen Erlebnisbasierung methodisch nicht gestuetzt. Damit traegt die Aussage die Verurteilung nicht."
-
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`
-- `strafrecht-spezial-aussagepsychologie-kindliche-zeugen`
 
 ## Quellen Stand 06/2026
 
@@ -875,14 +794,6 @@ Im Schlussvortrag arbeiten Sie strukturiert: erstes Kriterium, Beleg, Bewertung;
 **Mustersatz für Plaedoyer:**
 "Eine sorgfaeltige Pruefung der Aussage anhand der 19 Realkennzeichen nach Steller und Koehnken ergibt: Komplikationen im Tatverlauf werden nicht beschrieben. Woertliche Rede fehlt vollstaendig. Ungewoehnliche Details kommen nicht vor. Nebensaechlichkeiten sind nicht erinnert. Eigenpsychische Vorgaenge bleiben Floskeln. Diese Aussage zeigt nicht das Profil eines erlebten Ereignisses, sondern das einer konstruierten Erzaehlung. Restzweifel bleiben — Freispruch nach in dubio pro reo."
 
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`
-- `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
-
 ## Quellen Stand 06/2026
 
 - BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (methodische Grundlage in der Rechtsprechung).
@@ -893,10 +804,3 @@ Im Schlussvortrag arbeiten Sie strukturiert: erstes Kriterium, Beleg, Bewertung;
 - Zitierregeln siehe `references/zitierweise.md`.
 - Bei jeder konkreten Fundstelle: Verifizierung in lizenzierten Datenbanken oder amtlichen Quellen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

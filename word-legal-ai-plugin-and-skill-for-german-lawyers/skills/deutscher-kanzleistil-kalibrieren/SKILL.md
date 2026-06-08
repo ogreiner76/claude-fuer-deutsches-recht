@@ -5,10 +5,6 @@ description: "Kalibriert juristische Texte auf den passenden deutschen Kanzleist
 
 # Deutscher Kanzleistil Kalibrieren
 
-## Arbeitsbereich
-
-Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurte
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Gute juristische Texte klingen nicht überall gleich. Ein Partner-Update in einer M&A-Boutique, ein Mandantenbrief aus einer Familienrechtskanzlei, ein Schriftsatz an ein Landgericht und eine englische Clause Note für einen US-Counsel brauchen verschiedene Register. Dieser Skill macht das Register bewusst und reproduzierbar.
 
 ## Stilprofile
 
@@ -63,17 +55,3 @@ Stilprofil:
 - Gericht: keine Pointe, kein Marketington, keine unnötigen Adjektive.
 - US/UK: keine wörtliche Übersetzung deutscher Schachtelsätze.
 
-## Output
-
-- Stilprofil.
-- Kurze Begründung der Stilwahl.
-- Überarbeitete Passage oder Gliederung.
-- Hinweis auf passende Folge-Skills, insbesondere `stil-und-ton-juristische-texte`, `schriftsatz-ueberarbeiten-richterlesbar`, `mandantenmemo-und-partner-update` oder `us-uk-legal-writing-für-deutsche`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

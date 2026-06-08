@@ -5,10 +5,6 @@ description: "Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehr
 
 # Berufsgenossenschaft — Lohnnachweis Jahresende
 
-## Arbeitsbereich
-
-Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehrlicher Lohnnachweis an die zuständige BG Vorauszahlung BG-Beitrag Schluesseldaten Gefahrtarif. Methodik elektronischer Lohnnachweis über sv.net oder DAKOTA. Output BG-Lohnnachweis Beitragsbescheid. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,12 +93,6 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 - Jahresabrechnung mit Soll-Ist-Vergleich.
 - Bei Nachzahlung: zusaetzliche Buchung.
 
-## Output
-
-- Elektronischer Lohnnachweis.
-- BG-Beitragsbescheid in Mandantenakte.
-- Buchung im Hauptbuch.
-
 ## Strategie und Praxis-Tipps
 
 - Frist 15. Februar zwingend einhalten — Verspaetungszuschlag der BG.
@@ -111,13 +101,6 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 - BG bietet oft Beratung zur Unfallpraevention an (Praemienrabatt moeglich).
 - StBVV: BG-Lohnnachweis als Sonderauftrag (jaehrlich).
 - DATEV-Tipp: DATEV LODAS BG-Modul mit automatischer Lohnsummen-Aufstellung.
-
-## Querverweise
-
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-monatsende-meldepflichten-checkliste` — Meldepflichten.
-- `stb-lohn-jahresmeldungen-ahn-asn-besondere` — Jahresmeldungen.
-- `stb-lohn-sv-meldungen-dakota-svnet` — sv.net.
 
 ## Quellen und Updates
 
@@ -129,10 +112,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (BG-Satzungs-Faelligkeit ohne Marker neu formuliert) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

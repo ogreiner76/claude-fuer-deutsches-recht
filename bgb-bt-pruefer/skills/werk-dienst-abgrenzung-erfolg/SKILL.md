@@ -10,10 +10,6 @@ description: "Werk-Dienst-Abgrenzung: Erfolgsschuldnerschaft § 631 BGB vs. Tät
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Abgrenzung zwischen Werkvertrag (Erfolgshaftung) und Dienstvertrag (Tätigkeitspflicht) vornehmen: Rechtsfolgen für Mängelhaftung, Kündigung, Vergütung und Abnahme.
-
 ## Normanker
 
 - § 631 BGB: Werkvertrag (Herstellung oder Veränderung einer Sache oder ein anderer durch Arbeit herbeigeführter Erfolg)
@@ -47,25 +43,13 @@ Abgrenzung zwischen Werkvertrag (Erfolgshaftung) und Dienstvertrag (Tätigkeitsp
 - IT-Dienstleistungsverträge: oft unklar ob Dienst oder Werk; Pflichtenheft-Analyse entscheidend.
 - Bei Scheinselbstständigkeit droht Arbeitnehmerqualifikation mit Sozialversicherungspflicht.
 - Vergütungsfolgen: Werkvertrag zahlt nach Abnahme; Dienstvertrag zahlt laufend oder nach Zeitperioden.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Einordnungsmatrix (Werk vs. Dienst vs. Arbeitsvertrag)
-- Rechtsfolgen-Vergleich (Vergütung, Mängel, Kündigung, Abnahme)
-- Risikobewertung bei Fehlqualifikation
-- Gestaltungsempfehlung
-
-## Qualitätsregeln
-
-- Erfolgsdefinition im Vertrag immer wörtlich auswerten; keine Vermutungen.
-- Behandlungsvertrag immer als Dienstvertrag einordnen.
-- Bei IT-Projekten Meilensteine und Abnahmeregeln analysieren.
 
 ## Anschluss-Skills
 
@@ -79,10 +63,4 @@ Abgrenzung zwischen Werkvertrag (Erfolgshaftung) und Dienstvertrag (Tätigkeitsp
 - https://www.gesetze-im-internet.de/bgb/__631.html
 - https://www.gesetze-im-internet.de/bgb/__611.html
 - https://www.gesetze-im-internet.de/bgb/__630a.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Römisches Recht: Freilassung (manumissio) nach Gaius Inst. 1.17-4
 
 # Freilassung (manumissio) und Freiheitsstatus - historisch-kritisch
 
-## Arbeitsbereich
-
-Römisches Recht: Freilassung (manumissio) nach Gaius Inst. 1.17-41 - manumissio vindicta, censu, testamento, Rechtsstatus der Freigelassenen (libertini), Patronatsverhältnis und lex Iunia Norbana. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -71,13 +67,3 @@ Die manumissio ist die Freilassung eines Sklaven. Gaius Inst. 1.17-41 kennt drei
 - D. 38.1 (Operae libertorum)
 - Kaser RP I §§ 290-300; Wiedemann Slavery in Greek and Roman History
 
-## Output
-
-- Schema: drei Freilassungsformen
-- Rechtsstatustabelle: civis - Latinus Iunianus - dediticius
-- Memo zum Patronatsverhältnis
-- Historisch-kritisches Fazit zur Freilassung im Sklavensystem
-
-## Quellenregel
-
-Gaius Inst. 1.17-41; D. 40; D. 38.1 (Mommsen-Krüger). Kaser RP I. Wiedemann.

@@ -41,9 +41,6 @@ Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab Zustellung) und erstel
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Frist sofort berechnen und dokumentieren:** Zugangsdatum (aus Zustellungsurkunde oder Mandantenangabe) + 14 Tage = Fristende; in Fristenkalender einpflegen, 3-Tage-Vorlauf-Wiedervorlage setzen.
@@ -136,3 +133,4 @@ Mit freundlichen Gruessen
 - Beschraenkter Einspruch nur nach Mandantenruecksprache und schriftlicher Bestaetigung der Konsequenzen.
 - Wiedereinsetzung nach § 44 StPO erfordert Glaubhaftmachung — Mandant muss eidesstattliche Versicherung liefern.
 - Anwaltliche Endkontrolle vor Versand zwingend.
+

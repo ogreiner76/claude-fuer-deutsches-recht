@@ -5,10 +5,6 @@ description: "Krankenversicherungsschutz für Personen ohne anderweitigen KV-Sch
 
 # Nichtversicherte: Auffangpflichtversicherung
 
-## Arbeitsbereich
-
-Krankenversicherungsschutz für Personen ohne anderweitigen KV-Schutz: Auffangpflichtversicherung nach § 5 Abs. 1 Nr. 13 SGB V, Beiträge und Schuldenproblematik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Wer zuletzt gesetzlich versichert war und keinen anderen KV-Schutz hat, wird üb
 - [§ 76 SGB IV – Stundung](https://www.gesetze-im-internet.de/sgb_4/__76.html)
 - [BSG B 12 KR 14/07 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
+

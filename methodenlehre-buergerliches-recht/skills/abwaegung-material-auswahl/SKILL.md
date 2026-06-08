@@ -54,10 +54,6 @@ description: "Leitet durch die methodisch begründete Auswahl von Abwägungsmate
 - Nichtbeachtung legislativer Vorgewichtungen durch Regelbeispiele in Normen wie § 307 Abs. 2 BGB.
 - Fehlende Transparenz über ausgeschlossenes Material — der Eindruck der Willkür entsteht.
 
-## Output
-
-Das Skill liefert eine strukturierte Materialmatrix: zulässiges Material mit Quellenangabe und Gewichtung, ausgeschlossenes Material mit Begründung, sowie ein Abwägungsergebnis, das auf dieser Grundlage nachvollziehbar ist. Geeignet als Annex zu Schriftsätzen, als Gutachtenanlage oder als Vorbereitung revisionsrechtlicher Angriffe.
-
 ## Vertiefung: Hierarchie des Abwägungsmaterials
 
 Abwägungsmaterial ist nicht gleichrangig. Normative Vorgaben des Gesetzgebers stehen an erster Stelle, gefolgt von gesicherten Präjudizien, anerkannten Rechtsprinzipien und zuletzt bloßen Interessenerwägungen. Diese Hierarchie ist in der Rechtsanwendung konsequent einzuhalten und transparent zu kommunizieren, damit Abwägungsentscheidungen nicht als beliebig erscheinen.
@@ -112,3 +108,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
+

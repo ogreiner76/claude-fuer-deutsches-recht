@@ -65,10 +65,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Prognoseabzug zu pauschal geschätzt — gerichtlich angreifbar.
 - Anmeldefrist nach § 89b Abs. 4 S. 2 HGB versäumt — Anspruch erlischt.
 
-## Output
-
-Ausgleichsberechnung (tabellarisch), Höchstbetragsvergleich, Klageschriftentwurf mit Ausgleichsforderung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +85,4 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - [EuGH C-381/19 Saint-Gobain auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62019CJ0381)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
 - [BGH Rechtsprechung Openjur](https://openjur.de/)
+

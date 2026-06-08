@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegensta
 
 # Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert, Kostenschuldner
 
-## Arbeitsbereich
-
-Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert und Kostenschuldner. Strukturierte Kostenberechnung nach dem Kostenverzeichnis, Gegenstandswertermittlung, Schuldnerbestimmung und Rechnungsstellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,3 +97,4 @@ Kostenschuldner sind diejenigen, die die notarielle Tätigkeit veranlasst haben.
 - **Mandantenmail** (Kostenübersicht, Fälligkeit)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

@@ -16,10 +16,6 @@ description: "Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung,
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill prüft, ob eine Krisenmaßnahme in der Verfassung bleibt oder eine Ausnahme dauerhaft normalisiert. Er verbindet Kelsen-artige Normbindung mit einer scharfen Kritik an Notstands- und Entscheidungsrhetorik.
-
 ## Sofort klären
 
 1. Ist es eine echte Krise oder ein politisch dramatisiertes Dauerproblem?
@@ -72,12 +68,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Liefere eine Notstandsampel:
-
-- `grün`: Krisennorm klar, Befristung klar, Kontrolle wirksam;
-- `gelb`: Krise plausibel, aber Grenzen/Dokumentation nachschärfen;
-- `rot`: Selbstermächtigung, Entfristung oder Ausschaltung effektiver Kontrolle.
-
-Schließe mit einer alternativen Formulierung, die Krisenhandeln ermöglicht, aber den Ausnahmezustand nicht verstetigt.

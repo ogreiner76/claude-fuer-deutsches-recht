@@ -5,10 +5,6 @@ description: "Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags
 
 # Schiffbauvertrag Werft – Risikoprüfung
 
-## Arbeitsbereich
-
-Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,11 +44,6 @@ Ein Reeder schließt mit einer polnischen Werft einen Vertrag über drei Mehrzwe
 - Schiffbauwerkshypothek erlischt mit Eintragung als fertiges Schiff; Übergang auf Seeschiffshypothek muss aktiv beantragt werden.
 - Force-Majeure-Klauseln schließen Stahlpreiserhöhungen nicht automatisch ein.
 
-## Output
-- Vertragsrisiko-Matrix: Lieferung; Zahlung; Mängel; Insolvenz; Gewährleistung
-- Verhandlungsempfehlung: Klauseln nachbessern
-- Checkliste Schiffbauhypothek und Sicherheitenpaket
-
 ## Erweiterte Normengrundlage
 
 ### Werkvertragsrecht
@@ -88,3 +79,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - HGB § 480: https://dejure.org/gesetze/HGB/480.html
 - BGH Werkvertragsrecht Schiffbau: https://www.bgh.de
 - dejure BGB § 631: https://dejure.org/gesetze/BGB/631.html
+

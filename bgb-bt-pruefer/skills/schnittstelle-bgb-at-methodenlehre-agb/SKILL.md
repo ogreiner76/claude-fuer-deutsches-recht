@@ -49,25 +49,13 @@ AGB-Recht nach §§ 305-310 BGB mit BGB-AT-Methodenlehre verknüpfen: Einbeziehu
 - § 307 BGB gilt auch im B2B-Bereich; Kontrolldichte ist aber geringer als gegenüber Verbrauchern.
 - Transparenzgebot des § 307 Abs. 1 S. 2 BGB: Klausel muss verständlich und klar sein.
 - Kumulation von Klauseln: einzelne wirksame Klauseln können zusammen unwirksam sein.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- AGB-Klausel-Prüfprotokoll (Einbeziehung, Überraschungsklausel, Inhaltskontrolle)
-- Wirksamkeitsmatrix nach §§ 307-309 BGB
-- B2B/B2C-Unterscheidungsübersicht
-- Vertragsgestaltungsempfehlungen
-
-## Qualitätsregeln
-
-- AGB-Tatbestand und individuelle Vereinbarung immer als erste Weiche prüfen.
-- Rechtsfolge des § 306 BGB (gesetzliche Ersatzregelung) bei unwirksamen Klauseln stets mitdenken.
-- B2B-Situation schließt AGB-Kontrolle nicht aus.
 
 ## Anschluss-Skills
 
@@ -81,10 +69,4 @@ AGB-Recht nach §§ 305-310 BGB mit BGB-AT-Methodenlehre verknüpfen: Einbeziehu
 - https://www.gesetze-im-internet.de/bgb/__305.html
 - https://www.gesetze-im-internet.de/bgb/__307.html
 - https://www.gesetze-im-internet.de/bgb/__309.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

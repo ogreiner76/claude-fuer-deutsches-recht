@@ -5,9 +5,6 @@ description: "Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarkt
 
 # Orientierung Schufa Eintrag
 
-## Arbeitsbereich
-
-**Orientierung Schufa Eintrag** ordnet den Fall über die tragenden Prüfungslinien: Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht, Prüfungslinie für fachanwalt bank kapitalmarktrecht schufa. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarkt
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-orientierung`
@@ -78,9 +76,6 @@ description: "Orientierung Schufa Eintrag im Plugin Fachanwalt Bank Kapitalmarkt
 - VG / OVG / BVerwG bei BaFin-Verwaltungsverfahren.
 - BaFin selbst als Aufsichtsbehörde.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Bank- und Kapitalmarktrecht DAV.
@@ -218,10 +213,6 @@ Mit freundlichen Gruessen
 **Fokus:** Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### SCHUFA-Löschungsanspruch
-
-## Zweck
-
-Mandate von Verbrauchern mit unrechtmäßigen SCHUFA-Eintraegen. Auskunft, Widerspruch, Löschung, Schadensersatz.
 
 ## 1) Eingangs-Abfrage
 
@@ -417,3 +408,4 @@ Beweismittel:
 
 [Rechtsanwalt/-anwaeltin]
 ```
+

@@ -5,10 +5,6 @@ description: "Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmuste
 
 # Wiedergabe Ansichten
 
-## Arbeitsbereich
-
-**Wiedergabe Ansichten** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmuste
 - Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Designer, DPMA, EUIPO, Bundespatentgericht, LG (Design-Verletzungsklage), OLG-Designsenate, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Design-Anmeldung DPMA/EUIPO, Registerauszug, Sammelanmeldung, Verzichtserklärung, Nichtigkeitsantrag, Verletzungsklage, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `wiedergabe-ansichten-fotos-linien`
@@ -34,10 +31,6 @@ description: "Wiedergabe Ansichten im Designrecht im Designrecht Geschmacksmuste
 
 Bilder, Renderings oder Zeichnungen liegen vor.
 
-## Arbeitsweise
-
-Prüfe Konsistenz, Perspektiven, neutrale Hintergründe, gestrichelte Linien, Farbangaben und versteckte Widersprüche.
-
 ## Prüfpunkte
 
 - Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
@@ -45,13 +38,10 @@ Prüfe Konsistenz, Perspektiven, neutrale Hintergründe, gestrichelte Linien, Fa
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
-## Output
-
-Bild-QA-Liste und Korrekturauftrag an Design/Studio.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

@@ -76,14 +76,6 @@ Pro Beschluss:
 > **Datenschutz**: Hinweise nach Art. 13 DSGVO (Anlage 7).
 > **Technik bei virtueller Teilnahme**: Zugangsdaten und Identifikationshinweise (Anlage 8).
 
-## Output
-
-- Einladungstext (Volldokument)
-- Tagesordnung mit Beschluss-/Infopunkt-Kennzeichnung und Anlagenverweis
-- Anlagenliste mit Quellen/Stand
-- Versand- und Fristenprotokoll
-- Risikohinweise (Bestimmtheit, Vorbefassung, virtuelle Versammlung)
-
 ## Cross-Refs
 
 - Beschlussformulierung → `beschlussvorlagen-erstellen`
@@ -94,10 +86,3 @@ Pro Beschluss:
 
 `rechtsstand-mai-2026-faktenbank` laden. § 24 WEG: https://www.gesetze-im-internet.de/woeigg/__24.html ; § 23 Abs. 1a WEG: https://www.gesetze-im-internet.de/woeigg/__23.html .
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

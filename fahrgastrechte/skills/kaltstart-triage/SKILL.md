@@ -3,17 +3,6 @@ name: kaltstart-triage
 description: "Einstieg, Schnelltriage und Fallrouting im Fahrgastrechte-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenstaendig: ordnet das Material, prueft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rueckfrage."
 ---
 
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-# Fahrgastrechte — Allgemein
-
 ## Aktenstart statt Formularstart
 
 Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Fahrgastrechte** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
@@ -217,12 +206,6 @@ Das Plugin deckt den vollständigen Mandatsablauf ab: vom Erfassen der Ticket- u
 - "Antrag muss innerhalb 30 Tagen gestellt werden" → DB-Argumentation greift nicht; VO sieht keine kurze Ausschlussfrist vor, § 195 BGB drei Jahre maßgeblich.
 - "Voucher als Erfüllung akzeptiert" → schließt Anspruch auf Geld nicht aus, wenn Fahrgast nicht ausdrücklich verzichtet hat (Art. 19 Abs. 7 VO: auf Wunsch in Geld).
 
-## Querverweise
-
-- `prozessrecht` — bei prozessrechtlichen Fragen vor dem Amtsgericht (Zuständigkeit, Mahnbescheid, Streitwert).
-- `selbstvertreter-amtsgericht` — wenn Mandant ohne Anwalt klagen will und eine Orientierung zum AG-Verfahren braucht.
-- `verbraucherschutzrecht-pruefer` — Schnittstellen zu allgemeinen Verbraucherschutz-Themen (UKlaG, Abmahnung Verbraucherzentrale).
-
 ## Quellen und Aktualität (Stand Juni 2026)
 
 - VO (EU) 2021/782 in geltender Fassung (eur-lex.europa.eu, CELEX 32021R0782)
@@ -232,12 +215,3 @@ Das Plugin deckt den vollständigen Mandatsablauf ab: vom Erfassen der Ticket- u
 - Schlichtungsstelle Reise & Verkehr e.V. (schlichtungsstelle-reise-verkehr.de)
 - EuGH- und BGH-Linie — siehe `references/rechtsprechung-fahrgastrechte.md`; Live-Check vor jedem Versand.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -16,10 +16,6 @@ description: "Nutzen realistischer Perspektiven: Wie entscheiden Institutionen t
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
-
 ## Sofort klären
 
 1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
@@ -46,15 +42,6 @@ Bei Besitz-, Eigentums- und Fundfällen zeigt sich besonders gut, ob eine Theori
 
 Der Skill darf praktische Bedürfnisse nicht bloß behaupten. Er muss sie konkretisieren: Beweislast, Konfliktkosten, Suchkosten, Investitionsvertrauen, Grenzunklarheit, Verwahrungsrisiko oder Schutz vor Opportunismus.
 
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-- Rechtsrealismus ersetzt keine Dogmatik: Die realistische Fallprognose wird immer an Norm, Tatbestand, Beweislast und Rechtsfolge zurückgebunden.
-
 ## Regelungs- und Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -72,6 +59,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.

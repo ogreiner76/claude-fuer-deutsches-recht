@@ -25,13 +25,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-§ 813 BGB ist ein Sonderfall der Leistungskondiktion. Er erlaubt die Rückforderung einer Leistung, die zur Erfüllung einer Verbindlichkeit erbracht wurde, gegen die dem Leistenden eine dauernde Einrede zustand.
-
 ## Obersatz
 
 Wer zur Erfüllung einer Verbindlichkeit geleistet hat, gegen die ihm eine dauernde Einrede zusteht, kann das Geleistete nach § 813 Abs. 1 S. 1 BGB zurückfordern.
@@ -92,3 +85,4 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+

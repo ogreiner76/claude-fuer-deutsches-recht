@@ -5,10 +5,6 @@ description: "Influencer-Recht: Bewertungen und Fake Reviews – UWG, EU-Omnibus
 
 # Influencer-Recht: Bewertungen, Rezensionen und Fake Reviews
 
-## Arbeitsbereich
-
-Influencer-Recht: Bewertungen und Fake Reviews – UWG, EU-Omnibus-Richtlinie, strafrechtliche Risiken und Creator-Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Bewertungsmanipulation ist nach altem und neuem Recht verboten:
 - Fake-Review-Löschungsantrag
 - Abmahnantwort (Bewertungsmanipulation)
 - Compliance-Protokoll für Bewertungs-Kampagne
+

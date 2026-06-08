@@ -5,10 +5,6 @@ description: "Vorlagen für Geschäftsführersitzungen und Protokolle erstellen:
 
 # GF-Meeting-Templates
 
-## Arbeitsbereich
-
-Vorlagen für Geschäftsführersitzungen und Protokolle erstellen: Tagesordnung, Beschlussprotokoll, Aktionsliste. Normen: §§ 35 ff. GmbHG. Prüfraster: Beschlussfähigkeit, Umlaufverfahren, Dokumentationspflichten. Output: Meeting-Templates für GF-Sitzungen. Abgrenzung: nicht Gesellschafterversammlungs-Protokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,9 +40,6 @@ Vorlagen für Geschäftsführersitzungen und Protokolle erstellen: Tagesordnung,
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Meeting-Typen und Rhythmus
 
 | Meeting-Typ | Rhythmus | Teilnehmer | Zweck |
@@ -209,3 +202,4 @@ Datum, Ort: __________ Unterschriften: __________
 - `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter` — GV-Protokoll (Gesellschafterversammlung)
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — Gesellschafterversammlungs-Einladung
 - `gesellschaftsgruender-beirat-advisory-board` — Beiratssitzungs-Templates
+

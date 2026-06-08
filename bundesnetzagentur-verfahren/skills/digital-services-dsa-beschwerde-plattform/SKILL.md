@@ -5,10 +5,6 @@ description: "Digital Services / DSA Beschwerde Plattform: anwaltlicher für Ver
 
 # DSA-Beschwerde gegen eine Online-Plattform
 
-## Arbeitsbereich
-
-Digital Services / DSA Beschwerde Plattform: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -60,11 +56,6 @@ Anwaltliche Begleitung einer Beschwerde nach Art. 53 DSA i. V. m. § 18 DDG, die
 - VG Köln-Rechtsprechung mit Datum und Az.
 - Zitierweise gemäß `references/zitierweise.md`.
 
-## Ausgabeformat
-- Beschwerdeschrift (3–10 Seiten) mit Anlagenverzeichnis.
-- Risikomatrix (Erfolgsaussicht, Verfahrensdauer, Kostenrisiko).
-- Eskalationsplan (DSC, EU-Gremium, Untätigkeitsklage, parallele UWG-Klage).
-
 ## Beispiele
 - Nutzer beschwert sich gegen Sperrung wegen behauptetem AGB-Verstoß. Beschwerde stützt sich auf Art. 17 DSA (Begründungspflicht) und Art. 20 DSA (internes Beschwerdesystem).
 - Verband (vzbv) beschwert sich gegen unklare Werbekennzeichnung auf einer Plattform. Beschwerde stützt sich auf Art. 26 DSA.
@@ -101,3 +92,4 @@ Aktivlegitimation tragfähig? Pflichtenzuordnung präzise (genaue DSA-Artikel)? 
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

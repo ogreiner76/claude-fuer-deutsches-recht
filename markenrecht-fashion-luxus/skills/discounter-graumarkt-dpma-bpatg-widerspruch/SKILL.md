@@ -5,10 +5,6 @@ description: "Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prü
 
 # Erschöpfung, Graumarkt und Brezelmann-Strategie
 
-## Arbeitsbereich
-
-Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -125,3 +121,4 @@ Bevor rechtliche Schritte eingeleitet werden, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

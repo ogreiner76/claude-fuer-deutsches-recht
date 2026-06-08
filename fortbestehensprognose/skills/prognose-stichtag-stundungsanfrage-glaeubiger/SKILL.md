@@ -5,10 +5,6 @@ description: "Abschließende Selbstdokumentation der Fortbestehensprognose zum k
 
 # Prognose-Dokumentation Stichtag
 
-## Arbeitsbereich
-
-Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO § 43 GmbHG) und gegenüber Gläubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stich
 - Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die Fortbestehensprognose ist Beweisstück. Bei späterer Insolvenz wird genau geprüft ob der Geschäftsleiter zum Stichtag der Erstellung **objektiv** eine positive Prognose annehmen durfte. Diese Dokumentation muss als Beweis dienen können.
 
 ## Pflichtinhalte
 
@@ -196,6 +188,3 @@ Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben un
 3. **Anlagen?** Alle Berechnungs-Spreadsheets, Auszuege, IDW S 11-Gutachten als Anlagen beifuegen.
 4. **Wiedervorlage?** Naechste Aktualisierung terminieren (spaetestens nach 3 Monaten oder bei wesentlichen Aenderungen).
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

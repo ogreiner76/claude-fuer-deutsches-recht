@@ -5,10 +5,6 @@ description: "Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale (TBM): 
 
 # Norm zerlegen in Tatbestandsmerkmale
 
-## Arbeitsbereich
-
-Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale (TBM): geschriebene und ungeschriebene Merkmale, Definitionen aus h.M. und Rechtsprechung, Prüfungsreihenfolge. Grundlage für den Vier-Schritt der Subsumtion je TBM. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale (TBM): geschriebene u
 3. Enthält die Norm Verweisungen (i.V.m. einer anderen Norm)? → Kettenverweisung entfalten
 4. Sind ungeschriebene Tatbestandsmerkmale einschlägig (Verkehrspflichten, soziale Adäquanz)?
 5. Gibt es Normen im EU-Recht, die die nationale Norm verdrängen oder überlagern?
-
-## Zweck
-
-Bevor subsumiert werden kann, muss die Norm in ihre Tatbestandsmerkmale (TBM) zerlegt werden. Dieser Skill führt die strukturierte Zerlegung durch, benennt Definitionen aus h.M. und Rechtsprechung und legt die Prüfungsreihenfolge fest.
 
 ## Zentrale Methodik
 
@@ -94,6 +86,3 @@ Bei EU-Normen benennt das System zusätzlich:
 - EuGH-Leitentscheidungen zur Normauslegung
 - Unterschied zwischen autonomer unionsrechtlicher Auslegung und mitgliedstaatlichem Ermessen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

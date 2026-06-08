@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abna
 
 # Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen
 
-## Arbeitsbereich
-
-Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abnahmefallen. Pflichtinhalt nach MaBV, Sicherungsanforderungen, Ratenplan-Voraussetzungen, Abnahme und typische Risiken für Erwerber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -107,3 +103,4 @@ Die Abnahme (§ 640 BGB) ist der entscheidende Moment: Ab Abnahme läuft die Gew
 - **Mandantenmail** (Risikohinweis Bauträger, Abnahme)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

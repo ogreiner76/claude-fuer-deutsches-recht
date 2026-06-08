@@ -5,10 +5,6 @@ description: "Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen
 
 # Gesellschafterbeschluss – GmbH und AG
 
-## Arbeitsbereich
-
-Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfähigkeit, Formfragen, Protokollführung sowie Nichtigkeit (241 AktG analog) und Anfechtbarkeit (246 AktG analog). Laedt bei Mandaten zur Beschlussfassung, Anfechtungsklage oder Nichtigkeitsfeststellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,9 +46,6 @@ Vor der Bearbeitung folgende Fragen klären:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Gesellschafterbeschluss
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
@@ -159,8 +152,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `gesellschaftsrecht:gesellschafterstreit-loesungsstrategie` — wenn Beschluss Teil eines Gesellschafterkonflikts ist
 
 ---
+
 ## Audit-Hinweis (27.05.2026)
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: NOT_FOUND — dejure.org findet zum Datum 10.02.2021 kein Urteil unter diesem Aktenzeichen; NZG 2021, 418 nicht verifizierbar.
 Maßnahme: Zitat entfernt. Kein Ersatz eingefügt; die gesetzliche Regelung (§ 48 Abs. 2 GmbHG sowie seit 2022 § 48 Abs. 1 S. 2 GmbHG) ist im Skill durch Normtexte abgedeckt.
+

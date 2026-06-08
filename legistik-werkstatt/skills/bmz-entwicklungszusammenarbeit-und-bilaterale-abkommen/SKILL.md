@@ -5,10 +5,6 @@ description: "Sachbereich Entwicklungszusammenarbeit und bilaterale Abkommen im 
 
 # Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ)
 
-## Arbeitsbereich
-
-Sachbereich Entwicklungszusammenarbeit und bilaterale Abkommen im Geschaeftsbereich BMZ: Normbestand (Verwaltungsvereinbarungen; HG; BHO; Vertragsgesetze (BGBl II).); Akteure (BMZ; GIZ; KfW; Auslandshandelskammern; AA-Schnittstelle.); EU-Bezug (Team Europe Initiatives; EU-Treuhandfonds; NDICI.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -21,7 +17,6 @@ Arbeitsfokus: **Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ)**. Prü
 - `§ 5 EGovG` — elektronische Aktenführung live prüfen.
 - `Art. 3 KI-VO` — Begriffe.
 - `Art. 6 KI-VO` — Hochrisiko-Systeme.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -82,23 +77,6 @@ Auslandskorruption; Wirkungskontrolle; Sicherheitslage; Sanktionsumsetzung.
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Entwicklungszusammenarbeit und bilaterale Abkommen
-Ressort: BMZ
-Kernnormen: Verwaltungsvereinbarungen; HG; BHO; Vertragsgesetze (BGBl II).
-Akteure/Aufsicht: BMZ; GIZ; KfW; Auslandshandelskammern; AA-Schnittstelle.
-EU/Voelkerrecht: Team Europe Initiatives; EU-Treuhandfonds; NDICI.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmz` -> `legw-ressortaufgaben-bmz` -> `legw-bmz-entwicklungszusammenarbeit-und-bilaterale-abkommen` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -107,6 +85,3 @@ Naechste Skills: legw-ressortaufgaben-bmz; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

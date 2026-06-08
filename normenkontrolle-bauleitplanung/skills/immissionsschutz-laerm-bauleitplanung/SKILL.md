@@ -5,10 +5,6 @@ description: "Mandant greift Bebauungsplan wegen unzureichendem Schallschutz ode
 
 # Immissionsschutz und Lärm in der Bauleitplanung
 
-## Zweck
-
-Lärm ist der häufigste materielle Hebel im Normenkontrollverfahren bei Innenstadt-Plänen. DIN 18005 und TA Lärm liefern die Orientierungswerte, der Trennungsgrundsatz § 50 BImSchG den materiellen Maßstab.
-
 ## Schritt 1 — DIN 18005 Schallschutz im Städtebau
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -198,9 +194,6 @@ Lärm ist der häufigste materielle Hebel im Normenkontrollverfahren bei Innenst
 
 § 50 BImSchG (Trennungsgrundsatz) → § 41 BImSchG (Verkehrslärmschutz) → 16. BImSchV (Grenzwerte Schiene/Straße) → 18. BImSchV (Sportlärm) → DIN 18005-1 (Orientierungswerte) → § 9 Abs. 1 Nr. 24 BauGB (Schallschutzflächen) → § 1 Abs. 6 Nr. 1 BauGB (allgemeine Wohlfahrtspflege) → § 2 Abs. 3 BauGB (Ermittlungspflicht)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Bearbeitung
 
 Kläre bei Mandantenübernahme:
@@ -256,3 +249,4 @@ Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

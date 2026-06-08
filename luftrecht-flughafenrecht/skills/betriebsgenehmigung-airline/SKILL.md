@@ -5,10 +5,6 @@ description: "Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Gen
 
 # Betriebsgenehmigung Airline – Antrag, Änderung und Widerruf
 
-## Arbeitsbereich
-
-Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll geaendert oder widerrufen werden. Prueft EU-VO 1008/2008 Art. 3-9 Genehmigungsvoraussetzungen AOC Hauptniederlassung EU-Eigentumskontrolle und liefert Antragsunterlagen-Checkliste und Widerrufsabwehr-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,6 +40,7 @@ Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll 
 - **LuftVG § 21a**: Wet-Lease-Genehmigung; Voraussetzungen und Befristung.
 - **LuftVG § 29d**: Aufsichtsbefugnisse des LBA gegenüber Luftverkehrsunternehmen.
 - **EASA Part-OPS ORO.AOC.100**: AOC-Anforderungen; Nachweis technischer und betrieblicher Kompetenz.
+
 ## Prüfraster
 
 1. Besteht Hauptniederlassung in Deutschland?
@@ -54,6 +51,7 @@ Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll 
 6. Wurden Auflagen aus letztem Bescheid erfüllt?
 7. Ist das AOC noch gültig und entspricht es dem aktuellen Streckennetz?
 8. Haben sich Eigentümerstruktur oder Hauptsitz geändert (EU-VO 1008/2008 Art. 4)?
+
 ## Typische Fallstricke
 
 - AOC-Antrag nicht koordiniert mit Betriebsgenehmigungsantrag; LBA wartet auf AOC.
@@ -72,9 +70,6 @@ Das luftrechtliche Genehmigungsrecht ist mehrschichtig:
 - **Einzelgenehmigungen**: Nichtplanmäßige Flüge Überflüge fremden Staatsgebiets Sonderlasten erfordern gesonderte Genehmigung.
 - **Genehmigungsversagung**: Anfechtungsklage vor VG; aufschiebende Wirkung nach § 80 VwGO als Sofortmaßnahme beantragen.
 
-## Output
-
-Antragsunterlagen-Checkliste (EU-VO 1008/2008 konform). Zeitplan Genehmigungsverfahren. Widerrufsabwehr-Stellungnahme-Baustein. Zuständigkeitsmatrix Behörde/Register. Fristenkalender mit Ampelstatus.
 ## Quellen
 
 - EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
@@ -102,3 +97,4 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

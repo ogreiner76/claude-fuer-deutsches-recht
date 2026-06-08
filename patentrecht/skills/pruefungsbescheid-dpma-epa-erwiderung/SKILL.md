@@ -5,10 +5,6 @@ description: "Bereitet Erwiderungen auf Prüfungsbescheide von DPMA oder EPA vor
 
 # Prüfungsbescheid DPMA/EPA
 
-## Arbeitsbereich
-
-Bereitet Erwiderungen auf Prüfungsbescheide von DPMA oder EPA vor: Beanstandungen, Entgegenhaltungen, Anspruchsänderungen, Argumentation zu Neuheit/erfinderischer Tätigkeit und Mandantenrückfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,28 +13,10 @@ Bereitet Erwiderungen auf Prüfungsbescheide von DPMA oder EPA vor: Beanstandung
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPA, BPatG, BGH X. Senat, UPC, Wettbewerber (Einsprechende).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Patentanmeldung, Patentschrift, Recherchebericht, Prüfungsbescheid, Einspruchsschrift, Nichtigkeitsklage, FTO-Gutachten, UPC-Klage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Vorgehen
-
-1. Frist, Amt, Aktenzeichen und Verfahrensstand erfassen.
-2. Jede Beanstandung einzeln aus dem Bescheid extrahieren.
-3. Entgegenhaltungen mit Volltext und Fundstellen sichern.
-4. Anspruchsfassung vor/nach Bescheid vergleichen.
-5. Pro Beanstandung entscheiden: argumentieren, ändern, teilen, aufgeben, Rücksprache.
-6. Anspruchsänderungen auf Stütze in ursprünglicher Offenbarung prüfen.
-7. Mandantenrisiken und kommerziell wichtige Ausführungsformen abgleichen.
-
 ## Tabellenformat
 
 | Beanstandung | Amtliche Begründung | Antwortlinie | Anspruchsänderung | Risiko |
 | --- | --- | --- | --- | --- |
-
-## Output
-
-- Entwurf einer Erwiderungsstruktur.
-- Änderungsvorschläge für Ansprüche.
-- Argumentationsbausteine.
-- Rückfragen an Mandant/Erfinder.
-- Fristen- und Anlagencheck.
 
 ## Warnungen
 
@@ -56,10 +34,3 @@ Keine Anspruchsänderung vorschlagen, wenn Stütze in ursprünglicher Anmeldung 
 - **Praxisreaktion:** Auch bei argumentativer Erwiderung Hilfsantrag mit beschränktem Anspruch nachreichen (Rückzugsposition).
 - Falle: Stand-der-Technik-Dokumente aus dem PCT-Recherchebericht ignorieren — die kommen im Erteilungsverfahren häufig zurück.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

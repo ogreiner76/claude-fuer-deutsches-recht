@@ -5,10 +5,6 @@ description: "Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbeding
 
 # Open-Data-Portal und Nutzungsbedingungen — Datenbankrecht öffentlicher Stellen
 
-## Arbeitsbereich
-
-Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterverwendungsrechte. Analysiert Konflikte zwischen Open-Data-Prinzip und urheberrechtlichem Datenbankschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Ope
 - Behörden dürfen nach IWG keine exklusiven Vereinbarungen über Weiterverwendung schließen (Diskriminierungsverbot).
 - Nicht alle Behördendaten fallen unter IWG — Ausnahmen für Sicherheit, Gerichte, Rundfunk und Forschungseinrichtungen.
 
-## Output
-
-- Lizenz-Compliance-Check für die geplante Open-Data-Nutzung
-- Datenbankherstellerrecht-Prüfmatrix für öffentliche Stellen
-- Nutzungsbedingungen-Vorlage für eigene Open-Data-Veröffentlichungen
-- Attribution-Pflichten-Checkliste (dl-de/by / CC BY 4.0)
-- DSGVO-Kurzprüfung für personenbezogene Open-Data-Bestände
-
 ## Quellen
 
 - [Open-Data-Richtlinie 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
@@ -75,3 +63,4 @@ Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Ope
 - [§ 5 UrhG amtliche Werke — dejure.org](https://dejure.org/gesetze/UrhG/5.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 - [Art. 4 Open-Data-RL 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
+

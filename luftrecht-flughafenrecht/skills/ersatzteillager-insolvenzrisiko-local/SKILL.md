@@ -5,10 +5,6 @@ description: "MRO-Betrieb oder Airline mit grossem Ersatzteillager zeigt Insolve
 
 # Ersatzteillager – Insolvenzrisiko markieren
 
-## Arbeitsbereich
-
-MRO-Betrieb oder Airline mit grossem Ersatzteillager zeigt Insolvenzzeichen. Prueft InsO §§ 47 50 103 Aus- und Absonderungsrechte an Ersatzteilen und Werkzeugpfandrecht des Reparateurs und liefert Risikoampel für Glaeubiger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,6 +44,7 @@ InsO §§ 47 50 103 BGB § 369 Handelspfandrecht EASA Part-145 LuftFzgG – die 
 - **LuftVG § 10**: Instandhaltungsorganisation; Verbindung zur LBA-Aufsicht.
 - **HGB § 475h**: Lagerhalter-Haftung; Freizeichnung bei mangelhafter Dokumentation.
 - **VO (EG) 2042/2003 Anhang II (Part-145)**: Genehmigungsumfang; Erweiterung von Ratings.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -58,6 +55,7 @@ InsO §§ 47 50 103 BGB § 369 Handelspfandrecht EASA Part-145 LuftFzgG – die 
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Liegt für jedes eingelagerte Teil ein gültiger Konformitätsnachweis (EASA Form 1) vor?
 8. Sind Lagerorte und Umgebungsbedingungen nach Part-145 dokumentiert?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -76,9 +74,6 @@ Airline-Insolvenzen erfordern schnelles Handeln:
 - **InsO § 47**: Aussonderungsrecht des Eigentümers (Leasinggeber); Priorität gegenüber Insolvenzgläubigern.
 - **IATA/IOSA**: Kreditversicherung und IATA-Abrechnung (BSP) können bei Insolvenz besondere Regelungen auslösen.
 
-## Output
-
-Strukturierter Vermerk zu Ersatzteillager – Insolvenzrisiko markieren mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Part-145-Compliance-Checkliste für Lager. Dokumentationsnachweis-Schema.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -107,3 +102,4 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

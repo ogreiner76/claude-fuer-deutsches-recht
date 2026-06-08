@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberle
 
 # Einigungsvertrag und Rechtsueberleitung (1990)
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Der Einigungsvertrag vom 31. August 1990 (EV, BGBl. II 1990, 885) regelte den re
 - BVerfGE: bverfg.de
 - GG Art. 143: gesetze-im-internet.de
 
-## Output
-
-- Einigungsvertrag-Systematik: Anlagen I und II (Uebergangsrecht)
-- DDR-Rechtsueberleitung: was blieb, was fiel weg
-- BVerfGE-Uebersicht zur Wiedervereinigungsrechtsprechung
-
-## Quellenregel
-
-Einigungsvertrag: BGBl. II 1990, 885 und gesetze-im-internet.de. Zwei-plus-Vier-Vertrag: BGBl. II 1990, 1318. BVerfGE: bverfg.de. GG: gesetze-im-internet.de.

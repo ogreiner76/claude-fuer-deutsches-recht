@@ -5,10 +5,6 @@ description: "Newsletter-Redaktion juristisch: Konzept, Themenkasten, Empfaenger
 
 # Newsletter-Redaktion juristisch
 
-## Arbeitsbereich
-
-Newsletter-Redaktion juristisch: Konzept, Themenkasten, Empfaengerverwaltung nach DSGVO und UWG § 7, double opt-in, Mustertexte für wochen- und monatsweisen Versand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -155,15 +151,6 @@ Vertiefend im Verlag: [Buchempfehlung mit ISBN]
 - Empfaengerliste aus alten Datenbestaenden ohne Einwilligungsnachweis - DSGVO-Risiko.
 - Sponsoring nicht als "Anzeige" markiert.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung des Newsletteranlasses.
-- `marketing-presse-social` - Marketing-Gesamtkonzept.
-- `verl-pressetext-rechtsthemen` - parallele PM-Strecke.
-- `verl-social-media-rechtsfachzeitschrift` - parallele Social-Strecke.
-- `verl-impressum-pflicht-und-pruefung` - Impressumspflicht im Newsletter.
-- `ai-einsatz-transparenz-datenschutz` - bei KI-gestuetzten Texten.
-
 ## Quellen Stand 06/2026
 
 - UWG § 7 Abs. 2 Nr. 2, Abs. 3 - Werbe-E-Mails und Einwilligungspflicht.
@@ -172,3 +159,4 @@ Vertiefend im Verlag: [Buchempfehlung mit ISBN]
 - TDDDG / TTDSG § 25 - Einwilligung für Tracking.
 - MStV § 18 - journalistische Sorgfalt.
 - BGH 10.02.2011 - I ZR 164/09 - Double opt-in (Volltext unter bundesgerichtshof.de und dejure.org).
+

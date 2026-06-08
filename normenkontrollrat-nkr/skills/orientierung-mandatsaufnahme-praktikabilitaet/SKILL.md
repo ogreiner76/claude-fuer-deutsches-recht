@@ -5,10 +5,6 @@ description: "Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen 
 
 # NKR-Orientierung und Mandatsaufnahme
 
-## Arbeitsbereich
-
-Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Fachmodulen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,14 +86,6 @@ Erst-Antwort an Sekretariat (intern):
 - One-in-one-out: "Wird im weiteren Verfahren geprueft"
 - Digitaltauglichkeit: nicht erwaehnt
 
-## Querverweise
-
-- `nkr-aufgabe-und-kompetenz-nkrg` — rechtlicher Rahmen
-- `nkr-pruefumfang-was-prueft-der-nkr-nicht` — Abgrenzung
-- `nkr-verfahrensgang-referentenentwurf-bis-bundestag` — Phasen
-- `nkr-stellungnahme-aufbau-und-format` — Drafting der Stellungnahme
-- `legistik-werkstatt/legistik-auftragsaufnahme` — Gegenstueck aus Ressortsicht
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) in der jeweils geltenden Fassung
@@ -106,3 +94,4 @@ Erst-Antwort an Sekretariat (intern):
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

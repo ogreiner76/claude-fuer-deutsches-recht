@@ -32,17 +32,6 @@ Die Kanzlei ist nicht automatisch Anbieterin des zugrunde liegenden Modells. Sie
 
 Die KI-VO beantwortet nicht die Berufsgeheimnisfrage. Selbst ein KI-VO-konformes Tool kann berufsrechtlich unzulässig sein, wenn Verschwiegenheit, No-Training, Subunternehmer oder Drittstaat nicht tragen. Umgekehrt macht § 43e BRAO ein Tool nicht automatisch KI-VO-konform.
 
-## Output
-
-Erstelle einen Rollenvermerk mit:
-
-- Systembeschreibung
-- Rolle der Kanzlei
-- Rolle des Anbieters
-- KI-VO-Pflichten
-- Berufsrechtliche Zusatzprüfung
-- nächster Dokumentationsschritt
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek

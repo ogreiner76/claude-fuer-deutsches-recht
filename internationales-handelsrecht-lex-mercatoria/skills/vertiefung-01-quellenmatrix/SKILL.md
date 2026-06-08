@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Quellenmatrix für internationale Ha
 
 # Quellenmatrix Internationales Handelsrecht
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Quellenmatrix für internationale Handelsfälle. Systematisierung von Primär- (CISG, PICC, Incoterms, UCP 600), Sekundär- und Tertiärquellen, Datenbanken (CISG-online, jusmundi, trans-lex), Zitierpflichten und Verifikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Eine strukturierte Quellenmatrix systematisiert die relevanten Quellen für inte
 - Schiedssprüche: immer ICC-Award-Nummer und Jahr angeben; nicht nur Beschreibung
 - Soft Law: explizit als nicht verbindlich kennzeichnen; Einbeziehungsnachweis prüfen
 
-## Output
-
-- Quellenmatrix-Template (Kategorien × Zugänglichkeit × Verbindlichkeit)
-- Datenbanken-Kurzführer (URL, Inhalt, Kosten, Aktualisierung)
-- Zitierstil-Leitfaden für internationale Handelsfälle
-
-## Quellenregel
-
-uncitral.un.org, unidroit.org, iccwbo.org, trans-lex.org, jusmundi.com, eur-lex.europa.eu, CISG-online.ch. Alle URLs mit Abrufdatum angeben. Unsicherheit bleibt sichtbar.

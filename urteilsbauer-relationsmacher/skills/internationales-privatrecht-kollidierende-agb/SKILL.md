@@ -44,9 +44,6 @@ Bei Auslandsbezug immer prüfen, welches Recht zur Anwendung kommt.
 - Art. 3 ff. EGBGB — autonomes deutsches IPR
 - CISG — internationales Einheitskaufrecht, vorrangig
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Auslandsbezug feststellen:** Welche Anknüpfungspunkte liegen im Ausland?
@@ -62,6 +59,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
 
 ```
+
 ## Anwendbares Recht (IPR)
 
 **Auslandsbezug:** [Beklagte hat Sitz in USA / Erfüllungsort in Schweiz / Schaden in Deutschland].
@@ -98,3 +96,4 @@ Verkäufer seinen gewöhnlichen Aufenthalt hat: [STAAT].
 ## Eingriffsnormen
 
 DSGVO Artikel 3 (raeumlicher Anwendungsbereich) ist Eingriffsnorm. Das deutsche Datenschutzrecht ist auf Verarbeitungen anwendbar, die sich an Personen in der EU richten, unabhängig vom Sitz des Verantwortlichen.
+

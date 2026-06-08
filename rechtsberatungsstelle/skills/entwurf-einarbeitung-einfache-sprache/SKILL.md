@@ -5,10 +5,6 @@ description: "Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsbera
 
 # Schriftsatzentwurf: Erstentwurf-Erstellung
 
-## Arbeitsbereich
-
-Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden- Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks der Klinik benötigt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,6 +48,7 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfo
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1: Welches Schriftstück?
@@ -106,21 +103,6 @@ Ein Schriftstück bei Gericht oder einer Behörde einzureichen ist eine folgensc
 - **Konfigurierbare Flags:** Wenn dieser Schriftstücktyp ein Flag auslöst (gerichtliche Einreichungen in der Regel immer), enthält der Output: "VOR DER EINREICHUNG MIT [SUPERVISOR] ABSPRECHEN"
 - **Leichtere Begleitung:** Standard-Sicherheitslabel; keine zusätzliche Schranke — aber gerichtliche Einreichungen gehen per Klinikverfahren dennoch an den Supervisor vor Einreichung
 
-## Ausgabeformat
-
-```
-═══════════════════════════════════════════════════════════════════════
- KI-GESTÜTZTER ENTWURF — ERFORDERT STUDENTISCHE ANALYSE UND SUPERVISOREN-PRÜFUNG
- Dies ist ein Ausgangspunkt, kein fertiggestelltes Arbeitsergebnis.
- Jedes [PRÜFEN]- und [TATSACHE FEHLT]-Flag muss vor der Einreichung aufgelöst werden.
- § 6 Abs. 2 RDG: Einreichung erst nach Supervisoren-Freigabe.
-═══════════════════════════════════════════════════════════════════════
-
-[Das Schriftstück — im Rechtsgebiet-Musterformat, formvorschriftengerecht,
-mit Flags direkt im Text]
-
-═══════════════════════════════════════════════════════════════════════
-
 ## Prüfliste für Studierende
 
 Vor Vorlage an [Supervisor]:
@@ -160,3 +142,4 @@ Entwurf enthält: Rubrum (AG Berlin), Anträge, Klagebegründung mit `[PRÜFEN: 
 Jede Rechtsbehauptung im Entwurf ist mit der einschlägigen Norm oder Entscheidung zu belegen. Vorgeschlagene Quellen aus dem Modell sind mit `[Modellwissen — verifizieren]` zu kennzeichnen und vor Verwendung gegen aktuelle Datenbanken (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, dejure) zu prüfen. Niemals ohne Quellangabe und Supervisoren-Freigabe einreichen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

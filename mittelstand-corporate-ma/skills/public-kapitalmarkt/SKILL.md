@@ -5,10 +5,6 @@ description: "Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergiea
 
 # Post-Closing Integration
 
-## Arbeitsbereich
-
-Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergieannahmen in PMI-Plan; Earn-Out-Monitoring, Post-Closing-Ansprüche, Betriebsuebergang, § 613a BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergieannahmen in PMI
 ## Fachkern: Post-Closing Integration
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Mandatsaufnahme, Deal-PMO, Unternehmerkommunikation, Staffing und Budgetsteuerung**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Post-Closing Integration
 
-## Zweck
-
-Uebersetzt DD-Findings, SPA-Pflichten und Synergieannahmen in einen Post-Merger-Integration-Plan (PMI). Ueberwacht Earn-Out-Mechanismen, Post-Closing-Ansprueche, Betriebsuebergang und Registeranmeldungen nach Closing.
-
 ## Triage
 
 1. Welche Post-Closing Obligations sind im SPA vereinbart — Completion Accounts, Earn-Out-Berechnungspflichten, Purchase Price Adjustments?
@@ -142,9 +131,6 @@ Uebersetzt DD-Findings, SPA-Pflichten und Synergieannahmen in einen Post-Merger-
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Post-Closing-Obligations-Register:** alle SPA-Verpflichtungen nach Closing erfassen (Owner, Faelligkeit, Nachweis)
@@ -204,3 +190,4 @@ PMI-MEILENSTEINE
 
 - assets/templates/pmi-checkliste.md
 - assets/templates/post-closing-obligations-register.md
+

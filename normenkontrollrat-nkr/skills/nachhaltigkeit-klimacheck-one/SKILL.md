@@ -5,10 +5,6 @@ description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die N
 
 # NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit
 
-## Arbeitsbereich
-
-Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zuständig sind. Mit Mustertexten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -105,14 +101,6 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - Bezug zu Klimaschutzgesetz fehlt
 - Klimacheck nicht dokumentiert (sofern vorgesehen)
 
-## Querverweise
-
-- `nkr-erfuellungsaufwand-grundbegriff`
-- `nkr-eu-ebene-und-better-regulation`
-- `nkr-evaluation-und-jahresbericht`
-- `nkr-gleichstellungs-und-gendercheck`
-- `legistik-werkstatt/folgenabschaetzung-nachhaltigkeit`
-
 ## Quellen Stand 06/2026
 
 - Deutsche Nachhaltigkeitsstrategie der Bundesregierung (jeweils aktuelle Fortschreibung)
@@ -123,3 +111,4 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.bundesregierung.de/nachhaltigkeit](https://www.bundesregierung.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

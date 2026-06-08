@@ -26,9 +26,6 @@ Erzeugt aus strukturierten Markdown-Bausteinen ein lieferfertiges Urteil im Layo
 - § 319 ZPO — Berichtigung offenbarer Unrichtigkeiten
 - § 130b ZPO — elektronisches Dokument (beA-Signaturen)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Wahlfragen stellen** (s. oben: Dokumenttyp, Format, Tenor-Variante).
@@ -116,3 +113,4 @@ Ersatz: BGH I ZR 90/14, GRUR 2016, 860 (verifiziert auf dejure.org)
 Thema: § 315 ZPO Verhinderungsgrund Richterunterschrift — thematisch passend
 Hinweis: BGH V ZB 68/19 (NJW 2020, 3661) in derselben Sektion ebenfalls NOT_FOUND; nicht im Bundle-Scope, zur Nachprüfung vorgemerkt.
 -->
+

@@ -5,10 +5,6 @@ description: "Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefu
 
 # NKR-Verhaeltnismaessigkeit aus NKR-Sicht
 
-## Arbeitsbereich
-
-Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. Mit Mustertexten und Standardargumenten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,14 +86,6 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 - Keine KMU-Differenzierung
 - "Vorsorgegrundsatz" als Pauschalbegruendung
 
-## Querverweise
-
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-alternativen-pruefung-keine-regelung-soft-law`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-praktikabilitaet-vollzug-test`
-- `legistik-werkstatt/verfassungsmaessigkeit-quercheck`
-
 ## Quellen Stand 06/2026
 
 - Art. 20 Abs. 3 GG (Rechtsstaatsprinzip)
@@ -106,3 +94,4 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

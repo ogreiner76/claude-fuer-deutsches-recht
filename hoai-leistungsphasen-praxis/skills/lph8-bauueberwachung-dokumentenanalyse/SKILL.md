@@ -5,10 +5,6 @@ description: "Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse
 
 # Dokumentenanalyse und Aufmass in der Bauueberwachung LPH 8
 
-## Arbeitsbereich
-
-Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion für Schlussrechnungspruefung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Die Dokumentenanalyse ist das Rueckgrat des Nachweises ordnungsgemaesser Bau-aus
 - Mengenabgleich zu spaet: Erst bei Schlussrechnung aufgefallen, kein Zugriff mehr auf Details, Streit ueber Mengen
 - Digitalisierungsfehler OCR: Chargen-Nr falsch erkannt, manuelle Kontrolle Pflicht besonders bei handschriftlichen Dokumenten
 
-## Output
-
-Dokumentenregister vollstaendig mit Ablageort und Status. Aufmassblatt je LV-Position mit Aufmass-Skizze. Mengenabgleich-Protokoll Plan-Ist je Gewerk. Schlussrechnungs-Pruefvermerk mit Gesamtbetrag-Freigabe. Lieferschein- und Werksbescheinigungsarchiv vollstaendig. SAP-FI-Zahlungsfreigabe-Dokumentation.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Dokumentenregister vollstaendig mit Ablageort und Status. Aufmassblatt je LV-Pos
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme](https://www.gesetze-im-internet.de/bgb/__640.html)
+

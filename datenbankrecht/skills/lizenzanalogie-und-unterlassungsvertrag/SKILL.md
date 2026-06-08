@@ -59,14 +59,6 @@ Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung
 - Modifizierte Unterlassungserklärung muss innerhalb kurzer Frist angenommen oder abgelehnt werden — prozessuale Fristen beachten.
 - Vergleich über Vergangenheit schließt Schadensersatzansprüche für den vereinbarten Zeitraum ab — Restansprüche sichern.
 
-## Output
-
-- Lizenzanalogie-Berechnungsmodell (Marktpreisanalyse, eigene Lizenzpraxis)
-- Unterlassungserklärung-Muster mit Vertragsstrafe (Hamburger Brauch und Festsumme-Variante)
-- Vertragsstrafe-Verhältnismäßigkeitsprüfung nach § 340 BGB
-- Vergleichsvertrag-Muster (Lizenzgebühr + Unterlassung + Lizenz)
-- Modifizierte Unterlassungserklärung — Annahme/Ablehnung-Entscheidungsmatrix
-
 ## Quellen
 
 - [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
@@ -75,3 +67,4 @@ Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [§ 890 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/890.html)
 - [§ 340 BGB — dejure.org](https://dejure.org/gesetze/BGB/340.html)
+

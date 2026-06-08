@@ -5,10 +5,6 @@ description: "Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel,
 
 # Ehe: Konsens, Form und Hindernisse
 
-## Arbeitsbereich
-
-Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,3 +92,4 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+

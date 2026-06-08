@@ -5,10 +5,6 @@ description: "PKV-Leistungsprüfung: medizinische Notwendigkeit, Gebührenrecht,
 
 # PKV: Kostenerstattung und medizinische Notwendigkeit
 
-## Arbeitsbereich
-
-PKV-Leistungsprüfung: medizinische Notwendigkeit, Gebührenrecht, Heilbehandlung, Hilfsmittel, Psychotherapie, Arzneimittel und Kürzungsschreiben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ PKV-Leistungsprüfung: medizinische Notwendigkeit, Gebührenrecht, Heilbehandlun
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Für Streit um Arztrechnungen und Heilbehandlung: nicht bloß „medizinisch sinnvoll“, sondern erstattungsfähig nach Vertrag.
 
 ## Normenanker
 
@@ -38,17 +30,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 VVG §§ 192, 193, 194, 203; MB/KK; GOÄ/GOZ; BGB; ZPO medizinischer Sachverständiger.
 
-## Arbeitsfragen
-
-1. Welche Behandlung, Diagnose, Rechnung und Tarifklausel sind betroffen?
-2. Bestreitet der Versicherer medizinische Notwendigkeit, Gebührenhöhe oder Tarifdeckung?
-3. Welche Belege braucht der Arzt, welche der Versicherungsnehmer?
-4. Ist eine vorherige Leistungszusage relevant?
-
-## Output
-
-Erstattungsmemo, Arztfragebogen, Versichererantwort und Klagebaustein.
-
 ## Red Flags
 
 - Arztbrief ersetzt keine Notwendigkeitsbegründung
@@ -61,6 +42,3 @@ Erstattungsmemo, Arztfragebogen, Versichererantwort und Klagebaustein.
 - datenschutz-schweigepflicht-gesundheitsdaten
 - krankentagegeld-berufsunfaehigkeit-abgrenzung
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren; sonst nur als Prüfpunkt formulieren.

@@ -5,10 +5,6 @@ description: "Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zu
 
 # Statusabfrage Externe Bevollmächtigte
 
-## Arbeitsbereich
-
-Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, Insolvenzantrag, Kostensicherheit. Normen: §§ 78 85 ZPO. Prüfraster: Vertreternachweis, Prozessvollmacht, Beklagteninsolvenz, Sicherheitsleistung. Output: Statusbericht Gegenseite. Abgrenzung: nicht Streitwert oder Anspruchstabelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Jede Woche dieselbe Statusanfrage an externe Bevollmächtigte für 5–15 Prozessmandate zu schreiben ist mechanische Routinearbeit. Inhalt je Mandat ist wiederkehrend (Stand, ausstehende Entscheidungen, Budgetkontrolle). Die Adressaten sind gleich (Partneranwalt der mandatierten Sozietät). Der Ton ist einheitlich (gemäß der im Kanzleiprofil hinterlegten Direktive für externe Bevollmächtigte). Dieser Skill erstellt alle Entwürfe; der Anwalt prüft und versendet.
 
 ## Eingaben
 
@@ -44,6 +36,7 @@ Jede Woche dieselbe Statusanfrage an externe Bevollmächtigte für 5–15 Prozes
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1: Mandate filtern
@@ -99,47 +92,6 @@ Jedem Entwurf wird folgender Hinweis angefügt (vor dem Versenden entfernen):
 
 > Dies ist ein Entwurf zur anwaltlichen Prüfung vor dem Versand an externe Bevollmächtigte. Prüfen Sie auf privilegierte Inhalte, die nicht aus dem Mandatsverhältnis herausgegeben werden sollten, sachliche Richtigkeit, Ton und Budgethaltung. Auch routinemäßige Wochenanfragen können Strategie, Positionierungen oder unbeabsichtigte Zugeständnisse enthalten.
 
-## Ausgabeformat
-
-### Markdown-Entwürfe
-
-Datei: `gegenseite-status/[JJJJ-MM-TT]/[slug].md`
-
-```markdown
-[ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
-
-### [Mandatsbezeichnung] — Statusanfrage externe Bevollmächtigte — [JJJJ-MM-TT]
-
-**An:** [externe_bevollmaechtigte.email] ([Partner], [Sozietät])
-**Von:** [Unterzeichner Name/E-Mail aus Kanzleikonfiguration]
-**Betreff:** [Betreffzeile]
-
-> Der Arbeitsergebnis-Kopf oben gilt für diesen internen Vermerk. Der ausgehende E-Mail-Text unten geht an externe Bevollmächtigte in einem Mandatsverhältnis, das selbst durch Verschwiegenheit (§ 43a Abs. 2 BRAO) geschützt ist — Vertraulichkeitskennzeichnung gemäß Kanzleikonfiguration auf der versendeten E-Mail anbringen (typisch: "Vertraulich — Anwaltskorrespondenz / Mandatsgeheimnis").
-
----
-
-[Rumpf gemäß Gerüst]
-```
-
-### Outlook-Entwürfe (falls MCP verfügbar)
-
-Falls die Outlook-MCP-Integration authentifiziert ist:
-
-- Je Mandat wird ein Entwurf im Outlook-Postfach (Ordner "Entwürfe") angelegt mit `an`, `von`, `betreff` und `text`
-- Der Entwurf liegt montags zur Prüfung bereit
-- Falls die MCP-Integration nicht verfügbar oder fehlerhaft ist: Rückfall auf Markdown und Hinweis an den Nutzer
-
-### Laufergebnis-Zusammenfassung
-
-Nach Verarbeitung aller Mandate: `gegenseite-status/[JJJJ-MM-TT]/_zusammenfassung.md`
-
-```markdown
-### Statusanfrage Externe Bevollmächtigte — Lauf [JJJJ-MM-TT]
-
-**Mandate verarbeitet:** [N]
-**Entwürfe erstellt:** [N]
-**Outlook-Entwürfe:** [erstellt / übersprungen — Grund]
-
 ## Entwurf erstellt für
 
 | Mandat | Externer Partner | Zuletzt aktualisiert | Grund der Aufnahme |
@@ -179,3 +131,4 @@ Nach Verarbeitung aller Mandate: `gegenseite-status/[JJJJ-MM-TT]/_zusammenfassun
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

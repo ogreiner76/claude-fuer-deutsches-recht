@@ -5,10 +5,6 @@ description: "Intrastat/Außenhandelsstatistik: Eingänge/Versendungen, Schwelle
 
 # Außenhandel und Intrastat
 
-## Arbeitsbereich
-
-Intrastat/Außenhandelsstatistik: Eingänge/Versendungen, Schwellen, Warennummer, Ursprungsland, Lieferbedingung und Korrekturmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Intrastat/Außenhandelsstatistik: Eingänge/Versendungen, Schwellen, Warennummer
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Unternehmen mit EU-Warenverkehr.
-
 ## Norm- und Quellenanker
 
 AHStatG; EU-Intrastat-Regeln; Warenverzeichnis; BStatG.
-
-## Arbeitsfragen
-
-1. Welche Schwelle überschritten?
-2. Welche Warennummer und Transaktionsart?
-3. Welche Korrektur nötig?
-
-## Output
-
-Intrastat-Meldematrix und Korrekturplan.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Intrastat-Meldematrix und Korrekturplan.
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

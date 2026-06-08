@@ -5,9 +5,6 @@ description: "Handwerker Beauftragung Hausgeld Sonderumlage im Plugin Weg Hausve
 
 # Handwerker Beauftragung Hausgeld Sonderumlage
 
-## Arbeitsbereich
-
-**Handwerker Beauftragung Hausgeld Sonderumlage** ordnet den Fall über die tragenden Prüfungslinien: Begleitet Handwerkerbeauftragung in der WEG (Stand 05/2026), Prüft Hausgeld, Vorschüsse. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Handwerker Beauftragung Hausgeld Sonderumlage im Plugin Weg Hausve
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `handwerker-beauftragung-vergabe`
@@ -98,15 +96,6 @@ Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Be
 > 6. Versicherungsnachweis bitte bis [Datum] vorlegen.
 > 7. Nachträge nur schriftlich nach vorheriger Freigabe der Verwaltung.
 
-## Output
-
-- Leistungsbeschreibung
-- Angebotsvergleich (Tabelle)
-- Beauftragungsentwurf
-- Nachtragsprüfung (Anlass, Erforderlichkeit, Mehrkosten, Freigabe)
-- Abnahme- und Mängelprotokoll
-- Rechnungsprüfung mit Differenzliste
-
 ## Cross-Refs
 
 - Erhaltung / Modernisierung / GEG → `erhaltung-modernisierung-baumaengel`
@@ -117,14 +106,6 @@ Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Be
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 27 WEG: https://www.gesetze-im-internet.de/woeigg/__27.html . Bei Heizungstausch GEG § 71 (https://www.gesetze-im-internet.de/geg/__71.html) prüfen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `hausgeld-sonderumlage-liquiditaet`
 
@@ -188,14 +169,6 @@ Die Zahlungsfähigkeit der GdWE sichern, ohne Forderungen unsauber zu verfolgen.
 - Vorbereitendes Anwaltspaket: Sachverhaltschronologie, Beschlüsse (vollständig), Einzelabrechnung, Mahnverlauf, Zahlungsverkehr, Eigentümerwechselbeleg (§ 894 BGB).
 - Amtsgericht der belegenen Sache (§ 43 Abs. 1 WEG, § 23 Nr. 2c GVG).
 
-## Output
-
-- Rückstandstabelle (Eigentümer, Beschluss, Betrag, Fälligkeit, Mahnstand, Zinsen)
-- Mahnung/Erinnerung
-- Ratenzahlungs-Check (Gleichbehandlung, Beschlussbedarf, Sicherheiten)
-- Beschlussvorschlag Sonderumlage
-- Übergabepaket Hausgeldklage
-
 ## Cross-Refs
 
 - Beschlussvorschlag Sonderumlage → `beschlussvorlagen-erstellen`
@@ -206,14 +179,6 @@ Die Zahlungsfähigkeit der GdWE sichern, ohne Forderungen unsauber zu verfolgen.
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Keine Beck-RS, juris ohne offene Veröffentlichung, Kommentare/Aufsätze aus Modellwissen. Aktenzeichen nur mit offen prüfbarer URL.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `hausordnung-tauben-fahrrad-kinder-weihnachtsbaum`
 
@@ -268,10 +233,3 @@ Die Gemeinschaft beschließt eine Neuordnung der Fahrradabstellflächen. Die Ver
 - Fahrräder werden ohne Dokumentation entfernt.
 - Weihnachtsbaum/Beleuchtung blockiert Rettungswege oder erzeugt Brandlast.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

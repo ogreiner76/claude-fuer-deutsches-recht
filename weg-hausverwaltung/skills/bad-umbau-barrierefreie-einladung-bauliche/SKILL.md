@@ -5,9 +5,6 @@ description: "BAD Umbau Barrierefreie Einladung Bauliche im Plugin Weg Hausverwa
 
 # BAD Umbau Barrierefreie Einladung Bauliche
 
-## Arbeitsbereich
-
-**BAD Umbau Barrierefreie Einladung Bauliche** ordnet den Fall über die tragenden Prüfungslinien: Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentu, Versammlungsdokumente barrierefrei gestalten (Stand 06/2026). Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "BAD Umbau Barrierefreie Einladung Bauliche im Plugin Weg Hausverwa
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft`
@@ -81,14 +79,6 @@ Pflegekasse § 40 Abs. 4 SGB XI: bis 4.180 Euro je Maßnahme bei Pflegegrad 1-5;
 
 Mietrecht § 554a BGB: Mieter mit Behinderung hat gegenüber dem Vermieter (hier: vermietender Eigentümer) einen Anspruch auf Genehmigung barrierefreier Umbauten gegen Absicherung des Rückbaus. Dieser Anspruch ist vom WEG-internen Anspruch des Eigentümers gegen die GdWE zu trennen. Norm: https://www.gesetze-im-internet.de/bgb/__554.html
 
-## Output
-
-- Sondereigentums-/Gemeinschafts-Abgrenzungs-Checkliste (Badbereich, 15 Bauteile)
-- Beschlussvorschlag bodengleiche Dusche (mit DIN 18534-Auflagen, Fachbetriebsnachweis)
-- Versicherungs-Anzeige Muster (Gefahrerhöhung Wohngebäudeversicherung)
-- Förderantragspfad Pflegekasse (Ablauf, Fristen, Formulare)
-- Mängelanzeige bei nachträglichen Feuchtigkeitsschäden (Verursacher-Zuordnung)
-
 ## Cross-Refs
 
 - Aufzug und Treppenlift → `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg`
@@ -142,14 +132,6 @@ Großdruck: Schriftgröße mind. 16-18 pt, serifenlose Schrift (Arial, Verdana),
 ## Rechtlicher Rahmen
 
 AGG § 5 verpflichtet im Grundsatz zur Barrierefreiheit bei der Bereitstellung von Leistungen, soweit dies zumutbar ist. BGG (Behindertengleichstellungsgesetz) gilt unmittelbar nur für öffentliche Stellen. Für Privatrechtssubjekte (Hausverwaltung) gilt: Zumutbarkeit und Einzelfall-Abwägung. Antrag eines Eigentümers auf barrierefreie Übermittlung ist regelmäßig zumutbar zu erfüllen. Norm AGG § 5: https://www.gesetze-im-internet.de/agg/__5.html. Norm BGG: https://www.gesetze-im-internet.de/bgg/
-
-## Output
-
-- Word-Vorlage barrierefrei (Beschreibung Formatvorlagen-Einrichtung, Checkliste 15 Punkte)
-- Leichte-Sprache-Beispiel-Einladung (vollständiger Text, ca. 150 Wörter)
-- PDF-Export-Anleitung mit Tags (Word + Acrobat, bebilderte Schritte)
-- Antwortschreiben auf Eigentümeranfrage nach barrierefreien Unterlagen
-- Audit-Checkliste eigenes Protokoll (PDF/UA-Punkte)
 
 ## Cross-Refs
 
@@ -206,14 +188,6 @@ Außenaufzug: Statik-Gutachten, ggf. Baugenehmigung nach Landesbauordnung, Denkm
 - KfW 455-B (Zuschuss Altersgerecht Umbauen): seit 2022 ausgesetzt — aktuellen Status auf kfw.de prüfen.
 - Pflegekasse § 40 Abs. 4 SGB XI: bis 4.180 Euro je Maßnahme bei Pflegegrad 1-5 (Stand 06/2026 — verifizieren). Antrag VOR Maßnahmenbeginn. Norm: https://www.gesetze-im-internet.de/sgb_11/__40.html
 - Kommunale Programme: Berlin SIWA (Soziale Infrastruktur und Wohnraumförderung), Hamburg WK Hamburg, München Wohnungspolitik-Fonds.
-
-## Output
-
-- Anspruchsprüfungs-Bogen (§ 20 Abs. 2 Nr. 2 WEG: Eigentümer, Maßnahme, Behinderungsbedarf, technische Umsetzbarkeit)
-- Beschlusswortlaut Aufzug-Nachrüstung mit Beitritts-Option für andere Eigentümer
-- Kostenmatrix (Anschaffung, laufender Betrieb, Beitrittsbeitrag)
-- Förderantragspfade (KfW vor Bauvertrag, Pflegekasse vor Beginn)
-- Risiko-Analyse Anfechtung (mögliche Einwände und Entgegnungen)
 
 ## Cross-Refs
 

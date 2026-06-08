@@ -5,10 +5,6 @@ description: "Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberw
 
 # Verbote und Beschraenkungen (VuB) bei Ein- und Ausfuhr: Behördenkoordination
 
-## Arbeitsbereich
-
-Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzuständigen Behörden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotokoll und Behördenkoordinationsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnah
 - Multiples VuB mehrerer Behörden bei ein und derselben Ware moeglich.
 - Zeitverzug bei Behörden-Genehmigungen kann Lieferketten erheblich stoeren.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-VuB-Pruefprotokoll mit Behördenidentifikation, Genehmigungs-Checkliste, ATLAS-Eintragungsanleitung und Lieferketten-Zeitplanung.
-
 ## Quellen
 
 - [Zoll.de TARIC-Datenbank](https://www.zoll.de/DE/Fachthemen/Zoelle/Zolltarif/Taric/taric_node.html)
 - [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
 - [BAFA Ausfuhrkontrolle](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+

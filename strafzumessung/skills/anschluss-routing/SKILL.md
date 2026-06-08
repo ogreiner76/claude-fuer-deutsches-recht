@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Strafzumessung: wählt den nächsten Spezia
 
 Dieses Anschluss-Routing für **Strafzumessung** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `153a-stpo-iii-bewaehrung-stgb` — 153a STPO III Bewaehrung STGB
@@ -35,10 +34,6 @@ Dieses Anschluss-Routing für **Strafzumessung** wählt nach dem ersten Ergebnis
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Tatrichter, Verteidiger, Staatsanwaltschaft, Bewährungshelfer, Vollstreckungsbehörde oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Strafzumessung.
 
 ## Qualitätsanker
 

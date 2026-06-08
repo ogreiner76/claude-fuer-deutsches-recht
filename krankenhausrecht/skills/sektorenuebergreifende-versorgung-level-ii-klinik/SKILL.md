@@ -5,10 +5,6 @@ description: "Sektorenuebergreifende Versorgung und Level Ii-Klinik nach KHVVG: 
 
 # Sektorenuebergreifende Versorgung Level Ii Klinik
 
-## Arbeitsbereich
-
-Sektorenuebergreifende Versorgung und Level Ii-Klinik nach KHVVG: Bruecke ambulant/stationaer, Strukturmerkmale, Verguetungslogik, Versorgungsauftrag und Kooperationsmodelle mit MVZ und Praxen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,17 +75,10 @@ Mit der Krankenhausreform (KHVVG) entstand die Stufe **Level Ii** (sektorenueber
 - Personal-/Betriebsuebergang nicht geregelt (§ 613a BGB).
 - Transformationsfondsantrag ohne klares Strukturveraenderungskonzept.
 
-## Querverweise
-- `krankenhausreform-leistungsgruppen-routing`
-- `hybrid-drg-115f-sgb-v`
-- `ambulantes-operieren-115b-sgb-v`
-- `krankenhaus-mvz-gruendung-zulassung-compliance`
-- `notfallstufen-und-sicherstellungszuschlaege`
-- `privatisierung-betriebsuebergang-traegerwechsel`
-
 ## Quellen Stand 06/2026
 - KHG § 6a, KHEntgG, SGB V §§ 115b, 115f, 116, 140a.
 - KHVVG (12.12.2024).
 - BMG-Konkretisierung Level Ii (Live-Check bundesgesundheitsministerium.de).
 - G-BA-Beschluesse zu sektorenuebergreifender Versorgung (Live-Check g-ba.de).
 - BSG, staend. Rspr. zum Versorgungsauftrag.
+

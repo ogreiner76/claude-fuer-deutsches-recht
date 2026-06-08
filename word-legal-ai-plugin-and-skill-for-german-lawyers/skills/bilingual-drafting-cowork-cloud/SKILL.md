@@ -5,10 +5,6 @@ description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacke
 
 # Bilinguales Drafting Deutsch-Englisch
 
-## Arbeitsbereich
-
-Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boilerplate-Klauseln in beiden Richtungen, vermeidet False Friends (Indemnify, Reasonable, Consequential Damages, Best Efforts, Force Majeure, Severability, Schiedsklausel, Hauptleistung), waehlt Word-Tabellenformat oder gestapeltes Layout, behaelt Definitionen synchron und liefert eine Pruefcheckliste für Konsistenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,16 +12,6 @@ Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Best
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Im deutschen Wirtschaftsrecht sind bilinguale Vertraege Standard, sobald eine Partei nicht-deutschsprachig ist oder im internationalen Geschaeft taetig ist. Dieser Skill fuehrt durch die drei Hauptfragen:
-
-1. **Anwendungsfall**: true bilingual (beide Fassungen gleichwertig), sovereign language (eine ist verbindlich), oder courtesy translation (eine ist nur informativ).
-2. **Layout**: Tabelle zweispaltig (Side-by-Side) oder gestapelte Saetze (Stacked).
-3. **Sprachklausel**: Welche Fassung gilt bei Widerspruch.
-
-Er bietet Uebersetzungsvorlagen für alle Standardklauseln und warnt vor den False Friends, die in deutschen Anwaltsbueros regelmaessig zu falschen Uebersetzungen fuehren.
 
 ## Eingaben
 
@@ -146,12 +132,6 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 8. Forum-Pruefung: Kosten und Risiken bei Streitfall im vereinbarten Gericht (§ 184 GVG, § 293 ZPO).
 9. Versand mit beiden Fassungen im selben Word-Dokument.
 
-## Ausgabeformat
-
-- **Bilingualer Vertragsentwurf** als .docx (Side-by-Side oder Stacked je nach Wahl).
-- **Definitionsverzeichnis** zweispaltig.
-- **Memo zu Sprachklausel und Forum** für den Mandanten.
-
 ## Beispiel: Sprachklausel mit Forum-Hinweis
 
 > ### § 28 Sprache, Anwendbares Recht, Gerichtsstand
@@ -170,22 +150,8 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 >
 > (3) The exclusive place of jurisdiction for all disputes arising out of or in connection with this Agreement shall be Frankfurt am Main, Germany. The parties may agree on arbitration pursuant to the rules of the DIS (German Arbitration Institute); in such case, the seat of arbitration shall be Frankfurt am Main, Germany, and the language of arbitration shall be German.
 
-## Querverweise
-
-- `boilerplate-klauseln-katalog` für Schlussbestimmungen
-- `klausel-bibliothek-katalog` für bilinguale Klauselbausteine
-- `dokumentarchitektur-vertrag-und-schriftsatz`
-- `word-dokument-finish-und-layout` für die Endkontrolle von Tabellen, Seitenumbrüchen und Versandfassung
-
 ## Quellen (Stand 05/2026)
 
 - Art. 3, 6 Rom I-VO; §§ 133, 157, 158, 257, 305b, 309 Nr. 5, 387, 398, 414 BGB; §§ 17 AktG, 184 GVG, 293 ZPO, 328 ZPO, 1030 ZPO; § 15 AktG; CISG (UN-Kaufrechtsuebereinkommen).
 - Zitierweise: `references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

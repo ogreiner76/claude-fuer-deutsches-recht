@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Mandantenanfragen-Assistent: wählt den nä
 
 Dieses Anschluss-Routing für **Mandantenanfragen Assistent** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `anfrage-eingang-parser` — Anfrage Eingang Parser
@@ -35,10 +34,6 @@ Dieses Anschluss-Routing für **Mandantenanfragen Assistent** wählt nach dem er
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Mandantenanfragen-Assistent.
 
 ## Qualitätsanker
 

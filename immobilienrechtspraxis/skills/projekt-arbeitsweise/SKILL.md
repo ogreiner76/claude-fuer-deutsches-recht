@@ -5,10 +5,6 @@ description: "Projektmethodik für Immobilienrechtsprojekte: Strukturierung komp
 
 # Projekt-Arbeitsweise Immobilienrecht
 
-## Arbeitsbereich
-
-Projektmethodik für Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Prüfraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan Immobilienrechtsmandat. Abgrenzung: nicht Einzelverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -170,6 +166,3 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 - GwG-Dokumentation: §§ 10 ff. GwG
 - Aufbewahrungspflicht: § 50 StBerG analog, Steuerrecht 10 Jahre
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

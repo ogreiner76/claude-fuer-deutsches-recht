@@ -5,10 +5,6 @@ description: "Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Build
 
 # Evaluierung und Aenderung von Rulemap-Normen
 
-## Arbeitsbereich
-
-Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zuständigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfaden. Abgrenzung zur reinen Gesetzgebungstechnik; hier wird die Pflege im Zeitverlauf organisiert. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Evaluierung und Aenderung von Rulemap-Normen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Evaluierung und Aenderung von Rulemap-Normen**. Prüfe diese Ank
 - `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -49,26 +44,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Rulemaps werden im Builder per No-Code gepflegt; Aenderungen sind versionierbar und reviewbar. Die Evaluation orientiert sich an Wirkungskontrolle und Erfuellungsaufwand (NKRG-Anforderungen) und stellt fest; ob das Regelungsziel erreicht wird.
 
-## Vorgehen
-
-1. Versionierungsschema festlegen (z.B. semantisch; Datum; Zustaendige)
-2. Aenderungsanlass dokumentieren (Vollzug; Gericht; politischer Auftrag)
-3. Aenderung im Builder vornehmen; Validierung erneut durchlaufen
-4. Evaluation nach Standardrahmen NKRG durchfuehren
-5. Bericht an Hausleitung und ggf. Parlament uebermitteln
-
 ## Pruefpunkte
 
 Pruefen: ist jede Aenderung rueckverfolgbar? Bleibt der parlamentarische Vorbehalt gewahrt? Wird die Norm trotz Modellpflege materiell richtig gehalten?
-
-## Output
-
-```
-Skill: legw-rmap-evaluierung-und-aenderung
-Thema: Evaluierung und Aenderung von Rulemap-Normen
-Ergebnis: <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills: siehe Description-Verweise
-```
 
 ## Abgrenzung
 
@@ -77,3 +55,4 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 ## Quellen Stand 06/2026
 
 Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
+

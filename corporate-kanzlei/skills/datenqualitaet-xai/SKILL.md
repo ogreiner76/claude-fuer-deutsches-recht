@@ -31,9 +31,6 @@ description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfmatrix Datenqualitätskontrolle
 
 | Dimension | Prüffrage | Ampel | Massnahme bei Rot |
@@ -133,3 +130,4 @@ OFFENE PUNKTE (TODO)
 - `corporate-kanzlei-board-paper-business-judgment` — Board Paper setzt Qualitätsprotokoll voraus
 - `corporate-kanzlei-due-diligence-reporting` — DD-Report nur mit verifizierten Quellen
 - `corporate-kanzlei-disclosure-schedules` — Disclosure nur mit vollständiger Belegkette
+

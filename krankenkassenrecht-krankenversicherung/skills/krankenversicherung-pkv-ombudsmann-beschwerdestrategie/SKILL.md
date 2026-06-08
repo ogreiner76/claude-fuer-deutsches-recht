@@ -5,10 +5,6 @@ description: "PKV-Ombudsmann: Zuständigkeit, Verfahren, Einleitungsvoraussetzun
 
 # PKV-Ombudsmann und Beschwerdestrategie
 
-## Arbeitsbereich
-
-PKV-Ombudsmann: Zuständigkeit, Verfahren, Einleitungsvoraussetzungen, Entscheidungswirkung und strategische Einbindung in die Rechtsdurchsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Der PKV-Ombudsmann ist eine kostenlose außergerichtliche Streitschlichtungsstel
 - [§ 204 BGB – Verjährungshemmung](https://www.gesetze-im-internet.de/bgb/__204.html)
 - [PKV-Verband](https://www.pkv.de)
 - [dejure.org § 214 VVG](https://dejure.org/gesetze/VVG/214.html)
+

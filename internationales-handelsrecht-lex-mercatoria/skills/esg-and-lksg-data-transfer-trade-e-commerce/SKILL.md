@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023
 
 # ESG, LkSG und CSDDD in der Lieferkette
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ ESG (Environmental, Social, Governance) hat erhebliche Rechtsrelevanz: LkSG verp
 - Taxonomie-Check: Wirtschaftsaktivitäten der Lieferanten gegen 6 Umweltziele screenen
 - Greenwashing-Risiko: Marketingaussagen rechtlich prüfen vor Veröffentlichung
 
-## Output
-
-- ESG-Lieferkettenklausel-Muster
-- CSRD-Berichtspflichten-Zeitplan
-- Taxonomie-Alignment-Checkliste
-
-## Quellenregel
-
-LkSG: gesetze-im-internet.de. CSDDD RL 2024/1760: eur-lex.europa.eu. CSRD RL 2022/2464: eur-lex.europa.eu. Taxonomie-VO 2020/852: eur-lex.europa.eu. Greenwashing-RL 2024/825: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

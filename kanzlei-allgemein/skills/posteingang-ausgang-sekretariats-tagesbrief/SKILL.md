@@ -32,9 +32,6 @@ Postein- und Postausgangsbuch führen. Posteingang erfasst Empfangstag (relevant
 - § 173 ZPO — beA-Zustellungszeitpunkt: Eingang im Empfangspostfach
 - § 51 BRAO — Haftung bei fehlerhafter oder fehlender Postbuchdokumentation
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Posteingang
 
 ### Erfassung pro eingegangenem Schriftstück
@@ -125,3 +122,4 @@ Bei Notfristen (Berufung Revision Kündigungsschutzklage): Posteingang Akte und 
 - Aktualisierte Logbücher.
 - Tagesbrief-Einträge.
 - Verbindungen zu Akte Fristenbuch und Honorar-Tracker.
+

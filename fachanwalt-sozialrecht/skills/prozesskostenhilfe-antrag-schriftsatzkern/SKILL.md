@@ -5,9 +5,6 @@ description: "Prozesskostenhilfe Antrag Schriftsatzkern im Plugin Fachanwalt Soz
 
 # Prozesskostenhilfe Antrag Schriftsatzkern
 
-## Arbeitsbereich
-
-**Prozesskostenhilfe Antrag Schriftsatzkern** ordnet den Fall über die tragenden Prüfungslinien: Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und, Substantiierter Schriftsatzkern für Widerspruch + SG-Klage, Eilantrag § 86b SGG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Prozesskostenhilfe Antrag Schriftsatzkern im Plugin Fachanwalt Soz
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `prozesskostenhilfe-antrag`
@@ -135,10 +133,6 @@ PKH-Bescheid des Gerichts mit Akte aufheben. Bei Ablehnung: Beschwerde § 127 ZP
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 2. `schriftsatzkern-substantiierung`
 
 **Fokus:** Substantiierter Schriftsatzkern für Widerspruch + SG-Klage, Eilantrag § 86b SGG, Überprüfungsantrag § 44 SGB X: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
@@ -163,9 +157,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Sozialrecht (SGB I-XIV) erstellt werden, typischerweise: Widerspruch + SG-Klage, Eilantrag § 86b SGG, Ueberpruefungsantrag § 44 SGB X.
@@ -503,10 +494,6 @@ Die Testakte `sozialrecht-rollstuhl-tannenberg` ist auf vier Familienmitglieder 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 4. `sozialrecht-fallaufnahme-routing`
 
 **Fokus:** Master-Routing-Skill der sozialrechtlichen Kanzlei. Nimmt einen frischen Fall an und entscheidet in drei Schritten welche weiteren Skills wann gezogen werden. Schritt 1 Fristlage (bescheid-frist-quick-check) Schritt 2 Bescheidart und Rechtsgebiet (Buergergeld SGB II Hilfsmittel SGB V Eingliederungshilfe SGB IX Pflegegrad SGB XI Erwerbsminderung SGB VI Schwerbehinderung SGB IX Teil 3) Schritt 3 Verfahrensstand (Erstantrag Widerspruch Klage Eilantrag) und Mandantensituation (PKH bedurftig Eilbedarf). Endet mit einer konkreten Skill-Reihenfolge für den vorliegenden Fall und einem Aktenanlage-Eintrag. Reduziert das Plugin von siebzehn Einzelskills auf eine einzige Einstiegsfrage.
@@ -617,6 +604,3 @@ In der Testakte `sozialrecht-rollstuhl-tannenberg` liegen vier Fälle in einer F
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

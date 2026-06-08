@@ -5,10 +5,6 @@ description: "Marken als Vermögensgegenstand bewerten und in Asset Deal, Finanz
 
 # Markenbewertung, Asset Deal und Insolvenz
 
-## Arbeitsbereich
-
-Marken als Vermögensgegenstand bewerten und in Asset Deal, Finanzierung oder Insolvenz verwerten: Portfolioqualität, Benutzung, Lizenzen, Streit, Bewertungsmethoden, Sicherheiten, Datenraum und Käuferfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Marken als Vermögensgegenstand bewerten und in Asset Deal, Finanzierung oder In
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Strukturiere die rechtliche Marken-Due-Diligence für Bewertung, Verkauf, Finanzierung oder Insolvenzverwertung.
 
 ## Normanker
 
@@ -50,13 +42,7 @@ Strukturiere die rechtliche Marken-Due-Diligence für Bewertung, Verkauf, Finanz
 6. **Chain of Title:** Gründer, Agentur, Designer, Konzernumwandlung, Abspaltung, Asset Deal und Registerumschreibung lückenlos prüfen.
 7. **Digital Assets:** Domains, Social Handles, Marketplace-Shops und Produktbilder gehören nicht automatisch zur Marke.
 
-## Output
-
-- IP-DD-Bericht.
-- Red-Flag-Matrix.
-- Datenraumanforderung.
-- Käufer-/Verwalterfragenkatalog.
-
 ## Warnung
 
 Keine Bewertungszahlen erfinden. Methoden und Eingabedaten offenlegen.
+

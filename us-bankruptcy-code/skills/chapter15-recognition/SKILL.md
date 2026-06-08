@@ -5,10 +5,6 @@ description: "Prueft recognition of foreign proceedings, foreign main/nonmain, C
 
 # Chapter 15 Recognition
 
-## Arbeitsbereich
-
-Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -38,12 +34,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
 
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass für Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Chapter 15 Recognition** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
 ## Code- und Quellenanker
 
 - 11 U.S.C. §§ 1501-1532
@@ -64,12 +54,6 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 2. COMI evidence.
 3. Relief and notice plan.
 
-## Output
-
-- Chapter 15 recognition memo
-- COMI evidence list
-- Relief checklist
-
 ## Tiefencheck für die Akte
 
 Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
@@ -88,3 +72,4 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 - Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
 - Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
+

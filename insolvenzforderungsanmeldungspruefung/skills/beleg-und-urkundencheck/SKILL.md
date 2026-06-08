@@ -5,10 +5,6 @@ description: "Belege und Urkunden bei Insolvenzforderungsanmeldung prüfen: Anwe
 
 # Beleg- und Urkundencheck
 
-## Arbeitsbereich
-
-Belege und Urkunden bei Insolvenzforderungsanmeldung prüfen: Anwendungsfall Gläubiger legt Rechnungen Verträge Titel Lieferscheine Kontoauszüge vor; Insolvenzverwalter oder Prüfungsstelle muss Belegkette aufbauen und Beweiswert einordnen. § 174 InsO Anmeldepflicht Urkunden, § 180 InsO streitige Forderung. Prüfraster vollständige Belegkette prüfen, Originale vs. Kopien, Lesbarkeit, Titel-Nachweis, Zuordnung zur Forderungssumme. Output Belegcheckliste mit Beweiswert-Ampel und Nachforderungsbedarf. Abgrenzung zu Formalprüfung-174 und zu Grund-Betrag-Zinsen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,12 +20,6 @@ Belege und Urkunden bei Insolvenzforderungsanmeldung prüfen: Anwendungsfall Gl�
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-
-Bildet die Belegkette der Anmeldung und trennt belastbare Nachweise von bloßem Vortrag.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
 
 ## Startet bei
 
@@ -78,10 +68,6 @@ Bevor losgelegt wird, klaere:
 2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Normen und Rechtsprechung
 

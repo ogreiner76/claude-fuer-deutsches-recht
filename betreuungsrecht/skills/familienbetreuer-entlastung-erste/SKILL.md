@@ -5,10 +5,6 @@ description: "Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderung
 
 # Familienbetreuer: Entlastung, Verhinderung, Wechsel
 
-## Arbeitsbereich
-
-Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Au
 - Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Für Angehörige, die gut betreuen wollen, aber nicht untergehen dürfen.
 
 ## Normenanker
 
@@ -36,18 +28,7 @@ Arbeitsfokus: **Familienbetreuer: Entlastung, Verhinderung, Wechsel**. Prüfe di
 - `§ 5 BtOG` — Beratung und Unterstützung.
 - `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsfragen
-
-1. Was überfordert konkret?
-2. Welche Unterstützung bietet Betreuungsverein/Behörde?
-3. Muss Aufgabenkreis geändert oder Betreuung gewechselt werden?
-
-## Output
-
-Entlastungsplan, Antrag an Gericht/Behörde und Übergabemappe.
 
 ## Red Flags
 
@@ -58,3 +39,4 @@ Entlastungsplan, Antrag an Gericht/Behörde und Übergabemappe.
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

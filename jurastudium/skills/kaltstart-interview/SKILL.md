@@ -34,23 +34,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - §§ 133, 157 BGB — Auslegung als Kernkompetenz: immer abzufragen im Kaltstart
 - § 195 BGB — Verjährung als Dauerthema: immer im Profil zu beruecksichtigen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill ist der **einmalige Einrichtungsschritt**, der alle anderen Skills erst brauchbar macht. Er stellt die Fragen, die nötig sind, um dein Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md` sinnvoll zu befüllen.
-
-Ohne diesen Schritt liefern alle anderen Skills generische, unkalibrierte Ausgaben. Mit ihm arbeitet das Plugin wie ein gut informierter Kommilitone oder Repetitor, der weiß, wo du stehst.
-
-Einsatz:
-- Erstes Starten des Plugins
-- Nach einem Semester- oder Stationswechsel
-- Vor Beginn der intensiven Examensvorbereitung
-- `--redo` zum vollständigen Neuaufsetzen
-- `--schnellstart` für eine kürzere Variante (~5 Minuten, danach erweiterbar)
-- `--check-integrations` prüft nur, ob externe Dienste angebunden sind
-
 ## Eingaben
 
 Keine Voreingaben nötig. Dieser Skill stellt alle Fragen selbst. Optional: Materialien als Anhang mitgeben (Vorlesungsplan, benotete Klausuren, Gliederungen).
@@ -133,33 +116,6 @@ Das Plugin schreibt alle Angaben in `~/.claude/plugins/config/claude-fuer-deutsc
 
 Dieser Skill erzeugt keine inhaltlichen juristischen Outputs. Zitierregeln → `../references/zitierweise.md` werden in den nachgelagerten Skills angewendet.
 
-## Ausgabeformat
-
-Nach dem Interview: **Profil-Zusammenfassung** mit allen eingetragenen Werten zur Bestätigung durch den Nutzer. Danach: Schreiben in `CLAUDE.md`.
-
-```
-**Dein Lernprofil – Zusammenfassung**
-
-Name: [Name]
-Fachsemester: [X]
-Hochschule: [X]
-Bundesland / JAG: [X] (JPA: [X])
-Ziel-Examen: [1. StEx / 2. StEx / …]
-Prüfungstermin: [Datum]
-Repetitorium: [X]
-
-Aktuelle Lehrveranstaltungen:
-- [Fach]: [Format], Woche [X]
-
-Lernstil: [Drill / Erklärung]
-Stärken: [X]
-Schwächen: [X]
-
-Material: [N] Positionen [WENIG MATERIAL: ja/nein]
-
-→ Profil wird in CLAUDE.md geschrieben. Bestätigen? (ja / ändern)
-```
-
 ## Beispiel (Schnellstart-Modus)
 
 ```
@@ -182,3 +138,4 @@ Plugin: Profil angelegt. Empfehle: /jurastudium:lernplan
 - **Falsches Bundesland:** JAG-Unterschiede sind erheblich (Klausurzahl, Prüfungsgebiete). Einmal falsch eingetragen → alle Examensprognosen und Lernpläne gehen an der Realität vorbei.
 - **Wenig Material hochladen:** Das Plugin arbeitet besser mit mehr Material. Alte JPA-Klausuren und benotete eigene Arbeiten sind besonders wertvoll für `examens-prognose` und `gutachten-uebung`.
 - **Lernstil nicht anpassen:** Drill-Modus ist intensiver und für Examensphase geeignet; Erklärungs-Modus für Grundstudium. Kann jederzeit per `/jurastudium:jurastudium-anpassen` geändert werden.
+

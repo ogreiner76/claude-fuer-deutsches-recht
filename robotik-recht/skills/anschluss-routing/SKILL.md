@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Robotik-Recht: wählt den nächsten Spezial
 
 Dieses Anschluss-Routing für **Robotik Recht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `accuracy-robustness-cybersecurity-ai` — Accuracy Robustness Cybersecurity AI
@@ -35,7 +34,6 @@ Dieses Anschluss-Routing für **Robotik Recht** wählt nach dem ersten Ergebnis 
 - Eskalation an Hersteller, Inverkehrbringer, Betreiber, Endnutzer, Marktüberwachungsbehörde, benannte Stelle oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -44,12 +42,10 @@ Konkret zu prüfen:
 - Art. 6 AI-Act (Hochrisiko-KI)
 - §§ 1-19 ProdHaftG
 - RL (EU) 2024/2853 (neue Produkthaftungs-RL)
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Robotik-Recht.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

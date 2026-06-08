@@ -5,10 +5,6 @@ description: "Nebentätigkeit Geschenkannahme Compliance: prüft die einschlägi
 
 # Nebentätigkeit und Geschenkannahme – Compliance des Soldaten
 
-## Arbeitsbereich
-
-Nebentätigkeit Geschenkannahme Compliance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,15 +90,6 @@ Soldaten dürfen Nebentätigkeiten nur eingeschränkt und nur nach vorheriger Ge
 - Industriekonferenz-Honorar versteckt – Compliance-Verstoß.
 - Vermengung von zulässiger ehrenamtlicher Tätigkeit mit anzeigepflichtiger Nebentätigkeit.
 
-## Querverweise
-
-- soldatengesetz-rechtsstellung-grundpflichten
-- pflicht-zum-treuen-dienen-7-sg
-- extremismus-verdachtsfall-sicherheitsrecht
-- entlassung-auf-eigenen-antrag
-- besoldung-zulagen-auslandsverwendungszuschlag
-- mandantenbrief-soldat-verstaendlich
-
 ## Quellen Stand 06/2026
 
 - §§ 19, 20, 21, 21a SG – Volltext gesetze-im-internet.de.
@@ -110,3 +97,4 @@ Soldaten dürfen Nebentätigkeiten nur eingeschränkt und nur nach vorheriger Ge
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung zu § 20 SG.
 - BGH-Rechtsprechung zur Amtsträgereigenschaft des Soldaten – ständige Rechtsprechung.
 - ZDv A-2614/1 (Nebentätigkeit) – nur nach Vorlage durch Mandanten.
+

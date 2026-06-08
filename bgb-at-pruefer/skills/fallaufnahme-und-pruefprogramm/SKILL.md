@@ -60,13 +60,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Rollenverteilung bei mehreren Beteiligten nicht verwischen: Wer hat wann was erklärt?
 - Mandantensicht von objektiver Rechtslage trennen — beides dokumentieren.
 
-## Output
-
-- Fallaufnahme-Protokoll mit Zeitstrahl, Parteien und Erklärungen
-- Offene-Fragen-Liste für Rückfragen ans Mandat
-- Prüfprogramm: Normen und Reihenfolge
-- Verjährungs-Sofortcheck: Fristen und Handlungsbedarf
-
 ## Quellen
 
 - [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
@@ -97,3 +90,4 @@ Prüfungsschritte: (1) Willenserklärungen abgegeben und zugegangen? (2) Geschä
 - Parteieigenschaft (Verbraucher/Unternehmer/Minderjähriger) festgestellt?
 - Vollmachten und Vertretungssituationen erfasst?
 - Prüfprogramm auf den konkreten Fall zugeschnitten?
+

@@ -5,9 +5,6 @@ description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung 
 
 # Grad Behinderung Grundsicherung Alter SGB XII
 
-## Arbeitsbereich
-
-**Grad Behinderung Grundsicherung Alter SGB XII** ordnet den Fall über die tragenden Prüfungslinien: Grad der Behinderung (GdB) Streit nach SGB IX, Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41, Grundsicherung im Alter und bei Erwerbsminderung nach SGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Grad Behinderung Grundsicherung Alter SGB XII im Selbstvertretung 
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `grad-der-behinderung-gdb-sgb-ix`
@@ -172,25 +170,9 @@ Bei erfolglosem Widerspruch Klage am SG. Beklagte: Versorgungsamt (oder Bezirksr
 - Atteste zu allgemein → konkrete Funktionsbeschreibung
 - Merkzeichen ohne Begruendung beantragt
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch
-- `verpflichtungsklage-54-sgg` — Klage
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-- `medizinische-gutachten-strategie-laien` — Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Versorgungsamt-Zuständigkeit regional unterschiedlich: in NRW Bezirksregierungen, in anderen Bundeslaendern Versorgungsaemter.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `grundsicherung-alter-sgb-xii-41`
 
@@ -381,24 +363,9 @@ Wie bei anderen Sozialleistungen.
 - Mehrbedarfe nicht beantragt → konkret beantragen
 - Schwerbehindertenausweis nicht vorgelegt → vorlegen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `buergergeld-jobcenter-sgb-ii` — Abgrenzung
-- `wohngeld-und-sozialhilfe-grenzfaelle` — Wohngeld vs. Sozialhilfe
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst. Sozialamt-Praxis regional unterschiedlich.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `hilfe-zum-lebensunterhalt-27-sgb-xii`
 
@@ -501,3 +468,4 @@ Kindergeld nach EStG wird über die Familienkasse im Einspruchsverfahren nach de
 3. Frist gewahrt?
 4. Schriftlich eingereicht?
 5. Bei Streit zum Finanzgericht (kein Sozialgericht!).
+

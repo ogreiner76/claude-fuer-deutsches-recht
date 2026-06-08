@@ -5,10 +5,6 @@ description: "Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltli
 
 # VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA
 
-## Arbeitsbereich
-
-Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,11 +53,6 @@ Anwaltliche Steuerung von Mandaten an der Schnittstelle zwischen ausschließlich
 - BNetzA-Stellungnahmen.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Verfahrenslandkarte (Kommission vs. BNetzA).
-- Stellungnahme an die Kommission mit Akteneinsicht-Begleitschrift.
-- Verpflichtungszusagen-Entwurf.
-
 ## Beispiele
 - VLOP erhält Auskunftsverlangen der Kommission zu Art. 34 DSA-Risiken. Strategie: vollständige Antwort, Schwärzungen wegen Sicherheits- und Geschäftsgeheimnissen, Begleitkommunikation an BNetzA.
 - VLOSE muss erstmals Art. 42-Bericht veröffentlichen. Anwaltliche Compliance-Audit-Begleitung.
@@ -98,3 +89,4 @@ VLOP/VLOSE-Status verifiziert? Zuständigkeitskaskade (Kommission vs. DSC) korre
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

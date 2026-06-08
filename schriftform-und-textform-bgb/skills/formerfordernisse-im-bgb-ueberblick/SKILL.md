@@ -5,10 +5,6 @@ description: "Systematik der Formerfordernisse im BGB: gesetzliche vs. gewillkü
 
 # Formerfordernisse im BGB — Überblick
 
-## Arbeitsbereich
-
-Systematik der Formerfordernisse im BGB: gesetzliche vs. gewillkürte Form, §§ 125-129 BGB, Nichtigkeitsfolge § 125 BGB, Heilungsmöglichkeiten, Formhierarchie von Textform bis notarielle Beurkundung — Einstieg und Überblick für die Kanzleipraxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,10 +90,3 @@ Die Berufung auf einen Formmangel kann nach § 242 BGB treuwidrig sein, wenn:
 - **Digitale Konvergenz**: WhatsApp und E-Mail erfüllen Textform (§ 126b BGB), aber nicht Schriftform (§ 126 BGB). Wer irrtümlich Textform für ausreichend hält, riskiert Nichtigkeit bei gesetzlichem Schriftformerfordernis.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Querverweise
-
-- → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
-- → `elektronische-form-paragraph-126a-bgb-qes`
-- → `textform-paragraph-126b-bgb-dauerhafter-datentraeger`
-- → `notarielle-beurkundung-und-öffentliche-beglaubigung`
-- → `form-checker-für-vertrag-oder-willenserklaerung`

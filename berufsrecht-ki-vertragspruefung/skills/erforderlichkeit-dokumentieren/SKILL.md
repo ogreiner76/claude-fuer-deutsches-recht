@@ -48,18 +48,6 @@ Bei zwei Konstellationen verlässt der Vorgang den Bereich des nach Abs. 1 Erfor
 - Gibt es Zweckbindungsklauseln im Vertrag?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Output
-
-Interner Compliance-Vermerk mit:
-
-- Beschreibung des konkreten Einsatzzwecks
-- Begründung, warum die Offenlegung erforderlich ist
-- Alternativen, die abgewogen wurden
-- "no training"-Aussage im Vertrag (Fundstelle oder Lücke)
-- Beurteilung Ampel: grün/gelb/rot
-
-Der Vermerk geht zu den Kanzleiunterlagen. Er ist im Streitfall (etwa berufsrechtliches Verfahren) der zentrale Nachweis der Erforderlichkeit.
-
 ## Sonderfall Notar
 
 Bei Dienstleistungen, die unmittelbar einem einzelnen Amtsgeschäft dienen (§ 26a Abs. 4 BNotO), ist die Einwilligung des Beteiligten erforderlich. Die Erforderlichkeit nach Abs. 1 bleibt davon unberührt, tritt aber neben das Einwilligungserfordernis.
@@ -74,9 +62,6 @@ Bei Dienstleistungen, die unmittelbar einem einzelnen Amtsgeschäft dienen (§ 2
 - Art. 5 Abs. 1 lit. c DSGVO — Datenminimierung (entsprechender Grundsatz)
 - Art. 6 Abs. 1 DSGVO — Zulässigkeit der Verarbeitung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Einsatzzweck konkret benennen:** Was soll das Tool leisten? (Vertragsanalyse, Recherche, Schriftsatzentwurf, Dokumentenprüfung)
@@ -134,3 +119,4 @@ Begruendung: [...]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

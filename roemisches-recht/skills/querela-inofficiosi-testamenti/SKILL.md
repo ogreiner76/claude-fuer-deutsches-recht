@@ -5,10 +5,6 @@ description: "Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Ski
 
 # Rom 145 Querela Inofficiosi Testamenti Pflichtteil
 
-## Aufgabe
-
-Skill für roemischen Pflichtteilsschutz.
-
 ## Rechtsquelle
 
 - D. 5.2 (De inofficioso testamento).
@@ -60,7 +56,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

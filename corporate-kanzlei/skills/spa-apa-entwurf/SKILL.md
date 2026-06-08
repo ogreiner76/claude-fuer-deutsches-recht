@@ -39,9 +39,6 @@ description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Praxiswissen: Kaufpreismechanik
 
 ### Locked Box
@@ -213,3 +210,4 @@ Best Practice: (a) Accounting-Methodology einfrieren; (b) Nicht-Beeintrachtigung
 - MoPeG (in Kraft 01.01.2024) — Asset/Share Deal bei Personengesellschaften, neue eGbR-Eintragung: https://www.gesetze-im-internet.de/bgb/__705.html
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+

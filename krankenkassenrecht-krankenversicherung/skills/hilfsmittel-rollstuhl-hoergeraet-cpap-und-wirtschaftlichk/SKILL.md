@@ -5,10 +5,6 @@ description: "Hilfsmittelanspruch nach § 33 SGB V: Hilfsmittelverzeichnis, Wirt
 
 # Hilfsmittel: Rollstuhl, Hörgerät, CPAP und Wirtschaftlichkeit
 
-## Arbeitsbereich
-
-Hilfsmittelanspruch nach § 33 SGB V: Hilfsmittelverzeichnis, Wirtschaftlichkeitsgebot, Mehrkostenerklärung, MDK-Gutachten und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ Dieser Skill bearbeitet **Hilfsmittelversorgung** in der GKV: vom Antrag bis zur
 - [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 33 SGB V](https://dejure.org/gesetze/SGB_V/33.html)
 - [§ 139 SGB V – Hilfsmittelverzeichnis](https://www.gesetze-im-internet.de/sgb_5/__139.html)
+

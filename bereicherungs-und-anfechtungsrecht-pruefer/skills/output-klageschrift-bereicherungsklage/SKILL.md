@@ -27,9 +27,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Hinweis
 
 Dieser Skill liefert ein strukturiertes Muster für eine Klageschrift auf Grundlage der §§ 812 ff. BGB. Er ersetzt keine anwaltliche Leistung. Bezeichnungen und Beträge sind Platzhalter.
@@ -115,3 +112,4 @@ Soweit das Gericht von einer Rückabwicklung eines gegenseitigen Vertrags ausgeh
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+

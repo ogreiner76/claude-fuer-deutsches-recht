@@ -5,10 +5,6 @@ description: "Standardvorlagen für den Mandantenbrief der Kanzlei. Aufbau Anred
 
 # Mandantenbrief-Vorlagen
 
-## Arbeitsbereich
-
-Standardvorlagen für den Mandantenbrief der Kanzlei. Aufbau Anrede Bezug Sachstand Empfehlung naechste Schritte Frist Kostenhinweis Unterschrift mit Berufsbezeichnung. Verschiedene Vorlagen für Mandatseroeffnung Zwischenbericht Beratungsergebnis Abschlussbericht Schlussrechnung. Hauptregel klar verstaendlich kein Juristenjargon ohne Erklärung. Bei Mandantenkommunikation auf Mandantenseite Rolle prüfen (Verbraucher vs Geschäftskunde). Disclaimer und Kostenhinweis Pflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -32,9 +28,6 @@ Standardvorlagen für den Mandantenbrief der Kanzlei. Aufbau Anrede Bezug Sachst
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch für Inhalte im Mandantenbrief
 - § 2 BORA — Gewissenhaftigkeit: verstaendliche und klare Kommunikation mit dem Mandanten
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Allgemeine Aufbauregel
 
 ```
@@ -223,3 +216,4 @@ Mit freundlichen Grüßen
 ## Versand
 
 Vor Versand der Skill `versand-vor-check` aus diesem Plugin. Eintrag im Postausgang.
+

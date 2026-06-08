@@ -5,10 +5,6 @@ description: "Short Online Literary Works und Online-Beiträge: Gruppenoptionen 
 
 # Short Online Literary Works und GRTX
 
-## Arbeitsbereich
-
-Short Online Literary Works und Online-Beiträge: Gruppenoptionen für kurze Veröffentlichungen prüfen, ohne Buch-, Newsletter- und Periodikumslogik zu vermischen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Short Online Literary Works und Online-Beiträge: Gruppenoptionen für kurze Ver
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Prüfe, ob kurze online veröffentlichte Texte eines Verlags über eine spezielle Gruppenoption statt über Einzelanträge laufen können. Das betrifft eher Kolumnen, kurze Beiträge und Online-Serien als klassische Bücher.
-
 ## Prüfprogramm
 
 - Sind es kurze literarische Online-Werke oder eigentlich Zeitschriften-/Newsletter-/Datenbankbeiträge?
@@ -33,14 +25,6 @@ Prüfe, ob kurze online veröffentlichte Texte eines Verlags über eine speziell
 - Liegt eine passende Gruppenoption mit aktueller eCO-Anleitung vor?
 - Müssen einzelne Texte wegen Wert, Streit oder Rechtekette separat behandelt werden?
 - Passt das Deposit-Format zur Gruppenoption?
-
-## Output
-
-Eine Online-Beitragsmatrix: Beitrag, URL/Veröffentlichungsdatum, Autorenschaft, Rechteinhaber, Antragstyp, Deposit-Datei, Risiko.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -52,3 +36,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Ausgabe braucht der Mandant: Antragspaket, Clearance-Memo, Risikomatrix, Takedown, Lizenzklausel oder US-Counsel-Briefing?
 
 **Mindest-Output:** Arbeitsprodukt mit Claim Scope, Rechtekette, Risikomatrix, Evidenzlücken und nächstem US-Schritt.
+

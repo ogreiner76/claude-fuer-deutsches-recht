@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Aufgabe
-
-Macht die Versorgung berechenbar, bevor über Abschläge oder Ruhensregeln gestritten wird.
-
 ## Pflichtfragen
 
 - Bund oder welches Bundesland, welcher Dienstherr und welcher Status: Beamter, Richter, Versorgungsempfänger, Bewerber oder Ruhestandsfall?
@@ -47,3 +43,4 @@ Macht die Versorgung berechenbar, bevor über Abschläge oder Ruhensregeln gestr
 ## Quellen-Hardening
 
 Keine Rechtsprechung aus Modellwissen zitieren. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher/frei prüfbarer Quelle. Landesrecht und Beihilferecht live prüfen.
+

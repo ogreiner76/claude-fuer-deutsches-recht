@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Industrieanlagen mit komplexe
 
 # Bauueberwachung Industrieanlage Medien (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Industrieanlagen mit komplexen Medieninfrastrukturen — Pruefung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unterstuetzt Bauueberwacher mit SAP-PM-EAM-Integration für Instandhaltungsbeauftragten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ SAP PM Enterprise Asset Management (EAM) wird bei Industriebetreibern zur Anlage
 - Rohrleitung ohne Druckpruefprotokoll: Undichtigkeiten erst im Betrieb sichtbar, Produktionsstop
 - Potentialausgleich Ex-Bereich vergessen: statische Aufladung bei Schuettgut-Foerderanlagen gefaehrlich
 
-## Output
-
-Druckpruefprotokolle je Mediensystem. ATEX-Konformitaetsdokumentation mit Zoneneinteilung.
-TUeV-Abnahmeprotokoll Druckbehaelter. Erdungsmessprotokoll. Kanalisation Kamera-Inspektion.
-SAP-PM-Equipment-Hierarchie als Anlageninventar. Abnahmeprotokoll Industrieanlage.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ SAP-PM-Equipment-Hierarchie als Anlageninventar. Abnahmeprotokoll Industrieanlag
 - [PED 2014/68/EU Druckgeraete](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0068)
 - [DVGW W 400 Trinkwasser](https://www.gesetze-im-internet.de/)
 - [DIN EN 60079-14 ATEX Elektro](https://www.gesetze-im-internet.de/)
+

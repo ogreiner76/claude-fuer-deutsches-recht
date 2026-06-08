@@ -5,10 +5,6 @@ description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeff
 
 # Abnahmeprotokoll und Foerder-ERP in der Bauueberwachung LPH 8
 
-## Arbeitsbereich
-
-Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeffentlich geförderte Projekte mit ERP-Schnittstelle. Umfasst Abnahmeprotokoll nach VOB/B § 12 mit Foerderantrag-Konformitaetsnachweis, Verwendungsnachweis BNH und SAP-FI-Buchung, Abnahmeprotokoll-Erstellung in Dalux und PlanRadar, Upload in SAP PS und ELSTER-Foerderprogramme, Teilabnahmen nach Bauabschnitten sowie digitale Unterschrift eIDAS und Integration in Foerderprogramme KfW Bundesfoerderung und EU-EFRE-Richtlinien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Oeffentlich gefoerderte Bauprojekte erfordern besonders sorgfaeltige Abnahmeprot
 - Verwendungsnachweis-Frist verspasst: Foerdermittelrueckforderung moeglich nach Foerderrichtlinie bei Fristversaeumnis
 - SAP FI Buchung falsche Kontengruppe: Wirtschaftspruefer-Pruefung ergibt Fehler, Foerderantrag abgelehnt
 
-## Output
-
-Abnahmeprotokoll vollstaendig nach VOB/B § 12 mit eIDAS-Signatur aller Parteien. Foerderantrag-Konformitaetsnachweis je Foerderposition. Verwendungsnachweis SAP PS Ist-Kosten-Auswertung. Rechnungsbeleg-Archiv BIM360 für Foerdermittelpruefer. SAP FI Buchungsprotokoll Foerdermittelzuschuss. Mangelbeseitigungs-Abschlussprotokoll. Bautagebuch-Gesamtarchiv für Gewaehrleistungsphase.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Abnahmeprotokoll vollstaendig nach VOB/B § 12 mit eIDAS-Signatur aller Parteien
 - [eIDAS EU 910/2014 elektronische Signatur](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0910)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
+

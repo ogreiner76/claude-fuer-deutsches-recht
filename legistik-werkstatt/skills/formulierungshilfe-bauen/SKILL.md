@@ -137,9 +137,6 @@ Auch bei schnellen parlamentarischen Texten intern prüfen und sichtbar dokument
 
 Art. 76 Abs. 1 GG — GO-BT Vorlagen/Anträge — Art. 70-74 GG — Art. 20 Abs. 3 GG — Art. 103 Abs. 2 GG bei Straf- oder Bußgeldnormen — Landesverfassung und Landtags-GO bei Landesvorhaben — GGO bei ministerieller Zulieferung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 - `Parlamentarische_Vorlage_[Kurztitel].md` mit Normtext oder Antrag, Begründung und internem Kurzvermerk
@@ -149,3 +146,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Anschluss
 
 `gesetzgebungskompetenz-pruefen`, `verfassungsmaessigkeit-quercheck`, `europarechtskonformitaet`, `synopse-erstellen`, `dokumente-rendern-docx-pdf`.
+

@@ -5,10 +5,6 @@ description: "KI-Outsourcing für Kanzleien und Rechtsabteilungen: Mandatsgeheim
 
 # Kanzlei-KI-Outsourcing und Berufsgeheimnis
 
-## Zweck
-
-Der Skill erzeugt eine belastbare Prüfung, ob eine Kanzlei oder Rechtsabteilung ein KI-System für Aktenanalyse, Recherche, Dokumentenentwurf, Übersetzung oder Review einsetzen darf.
-
 ## Norm- und Berufsrechtsanker
 
 - StGB § 203 und BRAO § 43a für Berufsgeheimnis/Verschwiegenheit; BRAO § 43e für Dienstleistereinbindung bei anwaltlicher Berufsausübung prüfen.
@@ -39,6 +35,3 @@ Erstelle bei Bedarf:
 - Kanzleiinterne Freigabematrix.
 - Verbotene Nutzungen.
 
-## Qualitätsregel
-
-Nicht abstrakt "Cloud ist verboten" oder "Cloud ist erlaubt" sagen. Entscheidend ist die konkrete Datenklasse, technische Kontrolle und berufliche Verantwortlichkeit.

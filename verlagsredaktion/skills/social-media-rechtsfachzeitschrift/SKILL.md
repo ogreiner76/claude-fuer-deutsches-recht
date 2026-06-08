@@ -5,10 +5,6 @@ description: "Social-Media-Beitrag für juristische Fachzeitschrift: Konzept fü
 
 # Social-Media-Beitrag für Fachzeitschrift
 
-## Arbeitsbereich
-
-Social-Media-Beitrag für juristische Fachzeitschrift: Konzept für LinkedIn, Bluesky, Mastodon. Texttemplates, Bildvorgaben, Disclaimer, Werbekennzeichnung nach UWG und DDG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -129,15 +125,6 @@ Pressekontakt: [Link]
 - Personenfoto des Autors ohne KUG-Pruefung gepostet.
 - Bei Influencer-Kooperation kein Vertrag, keine Werbekennzeichnung - Bussgeld.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung Postanlass.
-- `marketing-presse-social` - Gesamtkonzept Marketing.
-- `verl-pressetext-rechtsthemen` - parallele PM-Strecke.
-- `verl-newsletter-redaktion-jur` - Newsletter als Push-Kanal.
-- `metadaten-seo-klappentext` - Konsistenz Klappentext/Post.
-- `verl-impressum-pflicht-und-pruefung` - Impressumsverlinkung im Profil.
-
 ## Quellen Stand 06/2026
 
 - DDG § 5 - Impressumspflicht.
@@ -147,3 +134,4 @@ Pressekontakt: [Link]
 - DSGVO Art. 6 - Rechtsgrundlage.
 - KUG §§ 22, 23 - Bildnisrecht.
 - Aktuelle Hinweise der Landesmedienanstalten zur Werbekennzeichnung (die-medienanstalten.de).
+

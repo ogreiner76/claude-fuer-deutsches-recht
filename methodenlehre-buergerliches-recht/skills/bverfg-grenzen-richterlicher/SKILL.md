@@ -54,10 +54,6 @@ description: "Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfo
 - Vorlagepflicht nach Art. 100 GG besteht nur bei nachrangigem Recht, nicht bei verfassungskonformer Auslegung.
 - Die Verfassungsbeschwerde gegen richterliche Rechtsfortbildung muss binnen eines Monats nach dem letzten fachgerichtlichen Urteil erhoben werden.
 
-## Output
-
-Das Skill liefert eine Verfassungsrüge-Analyse: Identifikation der rechtsfortbildenden Entscheidung, Prüfung gegen die BVerfG-Maßstäbe, Formulierung der konkreten Verfassungsverletzung (Norm, Grundrecht, Verletzungshandlung) und Einschätzung der Erfolgsaussichten einer Verfassungsbeschwerde. Inklusive Formulierungsvorschlag für die Begründungsschrift.
-
 ## Vertiefung: Die BVerfG-Prüfungsformel im Einzelnen
 
 Das BVerfG prüft bei Verfassungsbeschwerden gegen richterliche Rechtsfortbildung nach einer eigenen Formel: Es stellt fest, ob die Auslegung des Gerichts mit dem Grundgesetz vereinbar ist, insbesondere ob sie den klar erkennbaren Willen des Gesetzgebers missachtet und damit gegen Art. 2 Abs. 1 GG in Verbindung mit dem Rechtsstaatsprinzip verstößt. Diese Formel begrenzt die Prüfung auf spezifische Verfassungsverstöße.
@@ -83,3 +79,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 82, 6 – zu richterlicher Rechtsfortbildung im Arbeitsrecht](https://www.bverfg.de/e/rs19900306_1bvl150187.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

@@ -5,10 +5,6 @@ description: "Richtet einen sicheren virtuellen Data Room für externe Counsel, 
 
 # Sicherer Data Room für Counsel und Behörden
 
-## Arbeitsbereich
-
-Richtet einen sicheren virtuellen Data Room für externe Counsel, Behörden und US-Discovery ein – Zugang, Privilegierung, Protokollierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -70,15 +66,6 @@ Dieser Skill stellt den technisch und rechtlich korrekten Aufbau und Betrieb ein
 - Verdacht auf unberechtigten Zugriff: sofortige Sperrung des verdächtigen Accounts; Forensik-Log prüfen.
 - Backup: tägliches automatisches Backup; Wiederherstellungsplan dokumentieren.
 
-## Red-Team-Fragen
-
-- Ist der VDR-Anbieter DSGVO-konform und wurde ein Art. 28-Vertrag abgeschlossen?
-- Werden alle Zugriffe im Audit Trail lückenlos protokolliert und regelmäßig ausgewertet?
-- Haben Behörden Zugang zu privilegierten Dokumenten erhalten, ohne dass eine Waiver-Entscheidung getroffen wurde?
-- Ist der Drittstaatentransfer (US-Counsel, DOJ) durch SCC oder eine andere DSGVO-Grundlage gedeckt?
-- Wurden Wasserzeichen und View-only-Modus auf alle sensiblen Dokumente angewandt?
-- Ist der VDR-Zugang nach Abschluss der Untersuchung deaktiviert und wurden die Daten gelöscht?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -98,3 +85,4 @@ Dieser Skill stellt den technisch und rechtlich korrekten Aufbau und Betrieb ein
 - **Herausgabe-Protokoll** für Behörden
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

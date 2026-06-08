@@ -5,10 +5,6 @@ description: "Datenpanne nach Art. 33 34 DSGVO melden wenn Sicherheitsverletzung
 
 # Datenpannen-Meldung (Art. 33/34 DSGVO)
 
-## Zweck
-
-Dieser Skill unterstützt beim strukturierten Umgang mit Verletzungen des Schutzes personenbezogener Daten (Art. 4 Nr. 12 DSGVO). Er führt durch die dreistufige Prüfung: (1) Liegt eine meldepflichtige Datenschutzverletzung vor? (2) Muss die Aufsichtsbehörde innerhalb von 72 Stunden informiert werden? (3) Besteht zusätzlich eine Benachrichtigungspflicht gegenüber Betroffenen? Anwendungsfälle: Ransomware-Angriff, versehentlich offengelegter Datenexport, gestohlener Laptop, Fehlversand personenbezogener Daten, unbefugter Mitarbeiterzugriff.
-
 ## Eingaben
 
 Das Modell benötigt:
@@ -133,3 +129,4 @@ Stand: 05/2026. Aktualität prüfen bei neuen EuGH-Entscheidungen zum Schadenser
 ## Aktuelle Rechtsprechung (v14.2)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

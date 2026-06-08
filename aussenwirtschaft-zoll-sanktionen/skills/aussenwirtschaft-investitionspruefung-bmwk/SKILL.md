@@ -5,10 +5,6 @@ description: "Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV �
 
 # Investitionspruefung BMWK: AWG-Verfahren bei auslaendischen Unternehmenserwerben
 
-## Arbeitsbereich
-
-Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV §§ 55 ff.: sektorspezifische Pruefung (KRITIS) und allgemeine Pruefung, Anteilsschwellen (10/20/25 Prozent), Vollzugsverbot, Freigabe und Untersagung. Drittstaatsinvestoren und inlaendische Erwerber. Output: Anmeldeformular und M&A-Pruefcheckliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV §§ 55 ff.: se
 - Berechnung Anteilsschwelle muss alle Stimmrechte und wirtschaftliche Einflussmoeglichkeiten einschliessen.
 - BMWK-Pruefverfahren kann laenger als 3 Monate dauern; Verlaengerungen moeglich.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-BMWK-Anmeldeformular, M&A-Pruefcheckliste für Investitionspruefung, Risikoklassifizierung Zielunternehmen und Zeitplan-Empfehlung.
-
 ## Quellen
 
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
 - [BMWK Investitionspruefung](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/investitionspruefung.html)
 - [EUR-Lex VO (EU) 2019/452 Screening-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
+

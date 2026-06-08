@@ -17,12 +17,6 @@ Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachv
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Eine Klageschrift muss zwei Wirksamkeitsvoraussetzungen erfüllen: einen bestimmten Antrag und eine Sachverhaltsdarstellung, die Rechtsschutzbegehren und Streitgegenstand erkennen lässt. § 253 Abs. 2 ZPO ist die zentrale Norm. Wer hier zu unbestimmt schreibt, riskiert die Unzulässigkeit der Klage. Dieser Skill führt Sie durch den Aufbau, prüft die Bestimmtheit Ihres Antrags und liefert einen Mustertext für eine Zahlungsklage.
-
-Der Skill richtet sich an Drafter, die eine erste Fassung erzeugen oder einen Entwurf prüfen. Er erklärt keine Prozessrechtsdogmatik, sondern operationalisiert die formalen Anforderungen.
-
 ## Eingaben
 
 - Mandantenrolle (Klägerseite, Streitgenosse)
@@ -75,12 +69,6 @@ Der Skill richtet sich an Drafter, die eine erste Fassung erzeugen oder einen En
 - **Anspruchskumulation ohne Trennung.** Mehrere Ansprüche müssen einzeln dargestellt werden; Streitgegenstandsidentität sonst unklar.
 - **Falsches Gericht.** Sachliche oder örtliche Unzuständigkeit übersehen. Vor Klageerhebung prüfen.
 - **Streitwert vergessen.** Kann zur Verzögerung führen.
-
-## Ausgabeformat
-
-- Vollständige Klageschrift im Schriftsatzformat.
-- Bei nur Antragsentwurf: Antragstext mit Subsumtionsskizze.
-- Stets mit Anlagenverzeichnis.
 
 ## Beispiele
 
@@ -145,13 +133,6 @@ Marta Stern
 Rechtsanwältin
 ```
 
-## Querverweise
-
-- `klageerwiderung-substantiiertes-bestreiten`
-- `dokumentarchitektur-vertrag-und-schriftsatz`
-- `anwaltsschreiben-aussergerichtlich` für die vorprozessuale Mahnung
-- `revisions-prozess-redlines-comparison` für Schriftsatzwechsel mit dem Mandanten
-
 ## Quellen (Stand 05/2026)
 
 - §§ 253, 130, 3, 4 ZPO; gesetze-im-internet.de.
@@ -159,3 +140,4 @@ Rechtsanwältin
 - § 286 BGB für Verzugszinsen; § 288 BGB für Verzugszinssatz.
 - Rechtsprechung des BGH zur Bestimmtheit von Anträgen: vom Nutzer zu verifizieren. Keine Aktenzeichen aus Modellwissen.
 - `references/zitierweise.md` für Belegpflicht.
+

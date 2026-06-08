@@ -5,10 +5,6 @@ description: "Ordentliche Kündigung und automatische Verlängerung von Franchis
 
 # Franchiserecht: Ordentliche Kündigung, Laufzeit und Verlängerung
 
-## Arbeitsbereich
-
-Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisevertrag läuft auf ein automatisches Verlängerungsdatum zu. Der Fr
 - Investitionsschutz wird ignoriert; Franchisegeber kündigt kurz nach kostspieligen Umbaumassnahmen des Franchisenehmers.
 - Verlängerungsoption enthält keine Preisanpassungsregel; Royalties werden nie aktualisiert.
 
-## Output
-
-- Laufzeit-Audit-Memo
-- Kündigung-Checkliste mit Fristen und Formvoraussetzungen
-- Bewertung der Verlängerungsoption
-- Schadensersatzberechnung bei Nichtverlängerung
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/307.html
@@ -71,6 +60,7 @@ Ein Franchisevertrag läuft auf ein automatisches Verlängerungsdatum zu. Der Fr
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
 - https://dejure.org/gesetze/HGB/89b.html
 - https://dejure.org/gesetze/BGB/252.html
+
 ## Vertiefung
 
 Die Laufzeit eines Franchisevertrags muss im Verhältnis zu den Investitionen des Franchisenehmers stehen. Eine sehr kurze Laufzeit kann den Investitionsschutz des Franchisenehmers verletzen, eine sehr lange Laufzeit kann kartellrechtlich bedenklich sein. Der BGH hat Laufzeiten von 5 bis 10 Jahren als regelmässig verhältnismässig angesehen.
@@ -84,7 +74,10 @@ Automatische Verlängerungsklauseln sind AGB-rechtlich zulässig, müssen aber k
 - Bei Nichtverlängerungsentscheidung des Franchisegebers frühzeitig informieren; Investitionsschutzinteressen des Franchisenehmers berücksichtigen.
 - Kartellrechtliche 5-Jahres-Grenze für Bezugsbindungen beachten; Laufzeit und Bezugsbindung koordinieren.
 - Schriftform für Kündigung stets einhalten; mündliche oder per E-Mail erklärte Kündigungen können formunwirksam sein.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

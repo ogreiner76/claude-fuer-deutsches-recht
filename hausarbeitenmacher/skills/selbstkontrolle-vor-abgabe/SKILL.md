@@ -5,10 +5,6 @@ description: "Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale V
 
 # Selbst-Kontrolle vor Abgabe
 
-## Arbeitsbereich
-
-Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen. Prüfraster Inhalt-Checkliste Formal-Checkliste Selbstprüfung-Reflexion. Output Abgabe-Checkliste Prüfergebnis Korrekturen. Abgrenzung zu häufige-fehler-vermeiden (Fehler-Katalog) und bearbeitungsplan-erstellen (Zeitplan). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,15 +27,6 @@ Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkei
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: Selbstkontrolle sichert Korrektheit der Tatsachengrundlage
 - §§ 133, 157 BGB — Auslegungsgrundsaetze: Endcheck prueft Konsistenz der Auslegungsergebnisse
 - § 17 JAG NRW analog — Qualitaetsstandards für schriftliche Pruefungsleistungen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Bevor Du Deine Hausarbeit abgibst — eine letzte, sorgfältige Selbst-Kontrolle. Sie nimmt einen Tag in Anspruch, aber sie kann Dir eine ganze Note retten.
-
-**Wichtig vorab:** Du gibst eine **eigene Leistung** ab. Vom Plugin generierte Textbausteine gehören in **Deine** Worte umgeschrieben oder als Pruefstein zum Abgleich genutzt, nicht als Copy-Paste-Material. Wer Plugin-Output ungeprüft übernimmt riskiert eine Prüfungstaeuschung. Eigenständigkeitserklärung gewissenhaft unterschreiben.
 
 ## Durchgang 1 — Inhaltlich
 
@@ -274,3 +261,4 @@ Wenn nicht — überarbeite noch eine Stunde.
 <!-- AUDIT 27.05.2026 — Bundle 033 —
  nicht "Formale Korrektheit als Bestandteil professioneller Leistung". Kein geeigneter Ersatz gefunden; Zeile gelöscht.
 -->
+

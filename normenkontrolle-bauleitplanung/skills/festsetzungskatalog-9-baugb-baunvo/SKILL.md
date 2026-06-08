@@ -5,10 +5,6 @@ description: "Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtsw
 
 # Festsetzungs-Katalog § 9 BauGB iVm BauNVO
 
-## Zweck
-
-§ 9 BauGB ist die zentrale Norm für den Inhalt qualifizierter Bebauungspläne. Sie ist **abschließend** — Festsetzungen außerhalb des Katalogs sind unwirksam. Dieses Skill prüft Bebauungsplan-Festsetzungen auf Rechtsgrundlage und Grenzen.
-
 ## Eingaben
 
 - Bebauungsplan-Festsetzungen (textlich beschrieben)
@@ -331,3 +327,4 @@ f) **§ 18 Satzung "Bahnflächen"** — Hinweis auf nicht-entwidmete DB-Flächen
 - Ernst/Zinkahn/Bielenberg BauGB
 - Battis/Krautzberger/Löhr BauGB
 - Söfker BauNVO
+

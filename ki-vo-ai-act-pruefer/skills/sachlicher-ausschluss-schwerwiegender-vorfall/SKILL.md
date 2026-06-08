@@ -17,10 +17,6 @@ Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwend
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Art. 2 KI-VO enthält eine Reihe expliziter sachlicher Ausnahmen. Dieser Skill prüft, ob eine dieser Ausnahmen einschlägig ist und damit der Anwendungsbereich der KI-VO insgesamt oder für bestimmte Pflichten ausgeschlossen ist.
-
 ## Ausnahme 1 — Militärische und nationale Sicherheitszwecke (Art. 2 Abs. 3 KI-VO)
 
 Die KI-VO gilt nicht für KI-Systeme, die ausschließlich für militärische Zwecke oder für Zwecke der nationalen Sicherheit entwickelt oder eingesetzt werden.
@@ -94,9 +90,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -123,3 +116,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

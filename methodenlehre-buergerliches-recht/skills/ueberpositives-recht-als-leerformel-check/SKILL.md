@@ -51,10 +51,6 @@ description: "Dieses Skill prüft den argumentativen Einsatz von überpositivem 
 - Der Rückgriff auf Art. 1 GG wird als Universallösung verwendet, ohne die Schrankendogmatik zu beachten.
 - Richterliche Entscheidungen mit überpositiver Begründung werden nicht als methodisch angreifbar erkannt.
 
-## Output
-
-Das Skill liefert eine Leerformel-Analyse: Identifikation aller überpositiven Argumente, Übersetzungstest (positivrechtlicher Anker?), Substanzbewertung und methodisch begründete Alternativformulierung. Das Ergebnis ist für die Kritik gegnerischer Argumente und für die Qualitätssicherung eigener Gutachten verwendbar.
-
 ## Quellen
 
 - [Art. 1 GG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gg/art_1.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

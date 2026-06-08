@@ -5,10 +5,6 @@ description: "Semestereinarbeitung für neue studentische Berater — Einführun
 
 # Einarbeitung: Semestereinarbeitung
 
-## Arbeitsbereich
-
-Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater "Einarbeitung starten", "ich bin neu in der Klinik", "Einführung" sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Semestereinarbeitung für neue studentische Berater — Einführung in die Berat
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Jedes Semester verliert die Rechtsberatungsstelle ihre gesamte studentische Belegschaft und baut sie neu auf. Neue Studierende müssen Verfahrensabläufe, Mandatsverwaltung, Einreichungskonventionen und Rechtsgebiet-Grundlagen kennenlernen, bevor sie produktiv arbeiten können. Traditionell kostet das Wochen mit PDF-Lektüre und immer wiederkehrenden Fragen an den Supervisor.
-
-Diese Skill ist der geführte Walkthrough. Sie liest, was der Supervisor beim Kalt-Start hinterlegt hat — das Handbuch, Einreichungsanleitungen, Verfahrensregeln — und vermittelt es interaktiv, mit Übungsaufgaben in einem sicheren Rahmen, bevor ein echter Mandant betroffen ist.
-
-**Zielgruppe: Studierende.** Supervisoren nutzen `/kalt-start-interview`.
 
 ## Eingaben
 
@@ -48,6 +36,7 @@ Falls die Konfigurationsdatei fehlt oder noch Platzhalter enthält: "Die Beratun
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Begrüßung
@@ -150,12 +139,6 @@ Die Einarbeitung selbst enthält keine zitierpflichtigen Belege — die RDG-Norm
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine juristische Ausbildung. Die inhaltliche Einführung in das Rechtsgebiet übernimmt der Supervisor, nicht dieses Tool.
 
-## Ausgabeformat
-
-Die Einarbeitung läuft interaktiv — keine einmalige Ausgabe, sondern ein geführtes Gespräch in vier Teilen (Klinik-Kontext, Befehle, Übungsaufgaben, Verifikationsgewohnheiten). Jeder Teil schließt mit einer Verständnisfrage oder einer Übung, bevor zum nächsten Teil übergegangen wird.
-
-`/einarbeitung --karte` erzeugt eine druckbare, einseitige Referenzkarte (Markdown, ggf. in PDF exportierbar) mit den wesentlichen Befehlen, Verifikationsgewohnheiten und dem RDG-Kurzhinweis.
-
 ## Beispiel
 
 **Szenario:** Neue Studierende Hofer betritt die Mietrechtsklinik zu Beginn des Wintersemesters. Sie führt `/einarbeitung` aus.
@@ -171,3 +154,4 @@ Teil 3, Übung 1: Fiktiver Fall "Frau Erdem — Heizung defekt seit November". H
 Übung 3: `/recherche-start "§ 536 BGB Mietminderung Heizungsausfall"` → Fahrplan mit ungeprüften Normen. Hofer wählt § 536c BGB und erklärt: Prüfung über juris mit Aktualitätsdatum.
 
 Teil 4: Verifikationsgewohnheiten besprochen. Abschluss: `/einarbeitung --karte` aufgerufen.
+

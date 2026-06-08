@@ -5,10 +5,6 @@ description: "Ausgleichsanspruch des Franchisenehmers analog § 89b HGB prüfen:
 
 # Franchiserecht: Handelsvertreterausgleich analog – § 89b HGB prüfen
 
-## Arbeitsbereich
-
-Ausgleichsanspruch des Franchisenehmers analog § 89b HGB prüfen: Voraussetzungen, Berechnung nach Rohertrag und Unternehmervorteilen, BGH-Linie zur analogen Anwendung, Ausschlussgründe und Verjährung. Perspektive Franchisenehmer und Franchisegeber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisevertrag läuft aus oder wird gekündigt. Der Franchisenehmer macht 
 - Jahresfrist nach § 89b Abs. 4 HGB wird versäumt; Anspruch verfällt.
 - Berechnung des Rohertrags ist streitig; fehlende Buchführungsunterlagen erschweren die Schadensquantifizierung.
 
-## Output
-
-- Ausgleichsanspruchs-Analyse mit Analogieprüfung
-- Berechnung des Ausgleichs (Rohertrag, Abzinsungsfaktoren)
-- Ausschlussgründe-Prüfung
-- Anspruchsschreiben oder Klageentwurf
-
 ## Quellen
 
 - https://dejure.org/gesetze/HGB/89b.html
@@ -71,6 +60,7 @@ Ein Franchisevertrag läuft aus oder wird gekündigt. Der Franchisenehmer macht 
 - https://www.bgh.de/
 - https://openjur.de/
 - https://gesetze-im-internet.de/hgb/__89b.html
+
 ## Vertiefung
 
 Der BGH hat die analoge Anwendung des § 89b HGB auf Franchiseverhältnisse bejaht, wenn der Franchisenehmer eine dem Handelsvertreter vergleichbare Funktion ausübt: Er baut einen Kundenstamm auf, den der Franchisegeber nach Vertragsende weiternutzt, ohne dafür eine Gegenleistung zu erbringen. Voraussetzung ist, dass der Franchisegeber von den Kundenbeziehungen unmittelbar profitiert.
@@ -84,7 +74,10 @@ Die Berechnung des Ausgleichs nach § 89b HGB erfolgt auf Basis der durchschnitt
 - Ausgleich wird reduziert, wenn der Franchisenehmer den Kundenstamm durch eigene Kündigung verliert (§ 89b Abs. 3 Nr. 1 HGB).
 - Unterlagen für Berechnung sichern: Kundenliste, Umsatzauswertung, Lizenzgebühren der letzten 5 Jahre.
 - Vertragsklauseln, die den Ausgleich vollständig ausschliessen, auf AGB-Rechtsgültigkeit prüfen.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

@@ -5,10 +5,6 @@ description: "Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar na
 
 # Post-Closing-Integration (PMI)
 
-## Arbeitsbereich
-
-Post-Closing-Integration (PMI) rechtlich begleiten: Unmittelbar nach Closing muessen Handelsregister, Vertraege, Organ-Strukturen und Steuereinheiten angepasst werden. Normen: GmbHG, AktG, UmwStG, KStG (Organschaft), § 613a BGB (Betriebsuebergang, Arbeitnehmerinfo). Prüfraster: Handelsregisteranmeldungen, Vertragsanpassungen, Konzernanpassungen, Organschaft-Prüfung. Output PMI-Checkliste, Zeitplan, Aktionsprotokoll, § 613a-Informationsschreiben. Abgrenzung: Closing selbst siehe signing-closing-conditions; Umwandlung siehe umwandlungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -141,9 +137,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Post-Closing-Aktionsplan: Priorisierte Massnahmen
 
 ### Sofort (bis 2 Wochen post-Closing)
@@ -232,3 +225,4 @@ Mit freundlichen Gruessen
 - §§ 39-45 GmbHG; §§ 291-310, 304-305 AktG; §§ 14-19 KStG; § 613a BGB; § 106 BetrVG
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+

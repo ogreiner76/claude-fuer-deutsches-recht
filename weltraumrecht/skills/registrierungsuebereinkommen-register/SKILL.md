@@ -5,10 +5,6 @@ description: "Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Re
 
 # Weltraumrecht: Registrierungsübereinkommen: Register, Staat, Zuständigkeit, Kontrolle
 
-## Arbeitsbereich
-
-Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -114,3 +110,4 @@ Dieser Skill bearbeitet **Registrierungsübereinkommen: Register, Staat, Zustän
 - UNGA Res. 62/101: https://www.unoosa.org/res/oosadoc/data/resolutions/2007/general_assembly_62nd_session/res_6262_101_html/A_RES_62_101E.pdf
 - OST Art. VIII: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html
 - BMWK Weltraumgesetz: https://www.bmwk.de/
+

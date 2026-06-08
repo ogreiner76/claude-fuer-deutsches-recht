@@ -5,10 +5,6 @@ description: "Right to Repair und Reparaturanspruch: Nacherfüllung, Ersatzteile
 
 # Right to Repair und Reparaturanspruch: Nacherfüllung, Ersatzteile, Reparaturinformation, Herstellergarantie und Nachhaltigkeitsargument.
 
-## Arbeitsbereich
-
-Right to Repair und Reparaturanspruch: Nacherfüllung, Ersatzteile, Reparaturinformation, Herstellergarantie und Nachhaltigkeitsargument.; Normanker: BGB §§ 439 und 475; EU-Reparaturregime; Produktsicherheitsrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,3 +31,4 @@ BGB §§ 439, 475; EU-Reparaturregime; Produktsicherheitsrecht. Der aktuelle Nor
 3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
 4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
 5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
+

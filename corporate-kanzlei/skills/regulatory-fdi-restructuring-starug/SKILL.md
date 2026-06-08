@@ -141,9 +141,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fusionskontrolle: Aufgreifschwellen
 
 ### Bundeskartellamt (§ 35 GWB)
@@ -242,3 +239,4 @@ Datum: [DATUM]
 - §§ 35-43 GWB; Art. 1-21 FKVO (EG) 139/2004; §§ 55, 56, 60 AWV; Verordnung (EU) 2019/452
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Immenga/Mestmaecker GWB (6. Aufl. 2020) §§ 35 ff.; Ohler AWG/AWV (2021)
+

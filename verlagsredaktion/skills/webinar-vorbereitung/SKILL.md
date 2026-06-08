@@ -5,10 +5,6 @@ description: "Webinar-Vorbereitung als Fachbeitrag-Sequel: Vom Aufsatz zur Onlin
 
 # Webinar-Vorbereitung als Fachbeitrag-Sequel
 
-## Arbeitsbereich
-
-Webinar-Vorbereitung als Fachbeitrag-Sequel: Vom Aufsatz zur Onlineveranstaltung. Vertrag mit Autor, FAO-Fortbildungspunkte, Technik, Datenschutz, Aufzeichnung und Vermarktung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -167,16 +163,6 @@ Fortbildung anerkannt.
 - Newsletter-Werbung an Teilnehmende ohne separate Einwilligung.
 - Chat-Mitschnitt ohne Loeschpolitik - DSGVO-Risiko.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung des Veranstaltungsanlasses.
-- `marketing-presse-social` - Marketingbegleitung.
-- `verl-pressetext-rechtsthemen` - PM zum Webinar.
-- `verl-social-media-rechtsfachzeitschrift` - Social-Push.
-- `verl-newsletter-redaktion-jur` - Newsletter-Bewerbung.
-- `verl-honorarvertrag-templates-und-abweichungen` - Webinarvertragsklauseln.
-- `ai-einsatz-transparenz-datenschutz` - bei KI-erstellten Folien oder Untertiteln.
-
 ## Quellen Stand 06/2026
 
 - BRAO § 43a Abs. 6; FAO § 15 - Fortbildungspflicht und -nachweis.
@@ -186,3 +172,4 @@ Fortbildung anerkannt.
 - TDDDG § 25 - Einwilligung bei Cookies.
 - UWG § 7 - Werbe-E-Mails.
 - BRAK-Hinweise zur Fortbildung (brak.de).
+

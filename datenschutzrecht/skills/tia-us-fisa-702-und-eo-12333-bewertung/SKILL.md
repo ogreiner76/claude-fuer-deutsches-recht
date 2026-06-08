@@ -5,15 +5,6 @@ description: "Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Exec
 
 # US-Ueberwachungsgrundlagen FISA 702 und EO 12333 für das TIA
 
-## Zweck
-
-Dieser Skill liefert die operative Bewertung der beiden zentralen US-Ueberwachungsgrundlagen, die der EuGH in Schrems II als ausschlaggebend für das fehlende Schutzniveau identifiziert hat:
-
-- **FISA Section 702** (Foreign Intelligence Surveillance Act, 50 U.S.C. § 1881a) – Zugriff auf elektronische Kommunikation von Non-US-Personen ueber US-Anbieter ("electronic communication service providers", ECSP).
-- **Executive Order 12333** vom 04.12.1981 (zuletzt geaendert) – Auslandsaufklaerung der US-Geheimdienste; deckt z. B. Bulk Collection bei Glasfasertrassen ab.
-
-Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practice) geprueft. Nach Inkrafttreten der Executive Order **14086** vom 07.10.2022 (Grundlage des EU-US DPF) sind zudem die Reformen zu wuerdigen.
-
 ## Wann dieses Modul hilft
 
 - TIA für US-Cloud-/SaaS-Anbieter.
@@ -93,14 +84,6 @@ Baustein TIA-Schritt 3 (US):
 - Quellenangaben aus Modellwissen statt Verifikation an offiziellen Texten.
 - Annahme, Schrems II sei "ueberholt" durch DPF – TIA für SCC-Faelle bleibt zwingend.
 
-## Querverweise
-
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` für EuGH-Grundlage.
-- `tia-eu-us-data-privacy-framework-aktueller-stand` für DPF.
-- `tia-edpb-roadmap-6-schritte-deutsch` für Schritt-3-Einbindung.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Step 4.
-- `us-transfer-tia-dokumentation` für Output-Paket.
-
 ## Quellen Stand 06/2026
 
 - EuGH C-311/18 vom 16.07.2020 (Schrems II), insb. Rn. 168 ff.
@@ -112,10 +95,3 @@ Baustein TIA-Schritt 3 (US):
 - EDPB Information Note 1/2024 on EU-US DPF redress mechanism (Verifikation am Originaldokument).
 - PCLOB-Berichte (Privacy and Civil Liberties Oversight Board) zu Section 702.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

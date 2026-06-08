@@ -5,10 +5,6 @@ description: "Fristenkalender Bundeswehrrecht: systematische Übersicht aller re
 
 # Fristenkalender Bundeswehrrecht
 
-## Arbeitsbereich
-
-Fristenkalender Bundeswehrrecht: systematische Übersicht aller relevanten Fristen nach WBO, WDO, SG, BBesG und VwGO. Norm-/Quellenanker: WBO, WDO, VwGO, SG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,12 +32,6 @@ Besonders kritisch: WBO-Frist 1 Monat ab Bekanntgabe; TDG-Antrag nach Beschwerde
 - § 74 VwGO — Klage
 - § 38 WDO — WDO-Fristen
 - § 17 WDO — Ausschlussfrist Disziplinar
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -96,21 +86,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Berechnungsformular: Datum eingeben → Fristende berechnen
 - Warnsystem: kritische Fristen (< 1 Woche bis Ablauf)
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/wbo/ — WBO
-- https://www.gesetze-im-internet.de/wdo_2002/ — WDO
-- https://www.gesetze-im-internet.de/vwgo/ — VwGO
-- https://www.bverwg.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -120,3 +95,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

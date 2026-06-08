@@ -53,10 +53,6 @@ description: "Dieses Skill systematisiert die wichtigsten Fristen, Formvorschrif
 - Der ausschließliche Gerichtsstand bei Wohnraummietsachen (§ 29a ZPO) wird übersehen.
 - Gerichtsstandsklauseln werden akzeptiert, ohne deren Wirksamkeit nach § 38 ZPO zu prüfen.
 
-## Output
-
-Das Skill erstellt eine Fristen-Form-Zuständigkeits-Checkliste für das Mandat: tabellarische Fristenübersicht mit Wiedervorlage, Formprüfungsergebnis mit Heilungshinweis und Zuständigkeitsanalyse mit Empfehlung des Forums. Geeignet als Grundlage für Mandatsprotokoll, Schriftsatzvorbereitung und interne Qualitätssicherung.
-
 ## Quellen
 
 - [§§ 186 ff. BGB Fristberechnung auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__186.html)
@@ -88,3 +84,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

@@ -40,12 +40,7 @@ Boilerplate-Klauseln in internationalen Kaufverträgen werden oft gedankenlos ü
 - AGB-Kontrolle: BGB § 307-309 prüfen für deutsche Rechtswahl
 - Verhandlungshebelstrategie: Welche Klauseln haben höchsten Verhandlungswert?
 
-## Output
-
-- Red-Team-Analyse-Matrix (10 Boilerplate-Klauseln × 3 Szenarien)
-- Gegenklausel-Vorschläge für identifizierte Risiken
-- Verhandlungspriorität-Rangliste
-
 ## Quellenregel
 
 CISG Art. 74: uncitral.un.org. BGB §§ 307-309: gesetze-im-internet.de. PICC Art. 2.1.20: unidroit.org. Schrifttum: Raeschke-Kessler, Internationale Vertragsgestaltung (2018). Unsicherheit bleibt sichtbar.
+

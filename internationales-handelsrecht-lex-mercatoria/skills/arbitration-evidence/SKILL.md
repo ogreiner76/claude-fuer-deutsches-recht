@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Beweisrecht in internationaler Schie
 
 # Beweisrecht in der internationalen Schiedsgerichtsbarkeit
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Beweisrecht in internationaler Schiedsgerichtsbarkeit. IBA Rules on the Taking of Evidence 2020, Document Production, Zeugenaussagen, Sachverständige, Beweiswürdigung und Verhältnis zu nationaler ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,16 +48,6 @@ Das internationale Schiedsverfahren kennt kein einheitliches Prozessrecht. Die I
 - Witness Statement: faktenlastig, erste Person; kein "law statement"; Anlage-Referenzen
 - Sachverständige: Party-appointed vs. Joint Expert — Kosteneffizienz vs. Neutralität abwägen
 - Privilege-Check: anwendbares Recht für Rechtsanwaltsgeheimnis im Schiedsort
-
-## Output
-
-- Redfern Schedule Vorlage
-- Witness Statement Strukturleitfaden
-- IBA Rules 2020 Kernartikel-Übersicht
-
-## Quellenregel
-
-IBA Rules 2020: ibanet.org. ICC Schiedsregeln 2021: iccwbo.org. § 1042 ZPO: gesetze-im-internet.de. Schrifttum: Born, International Commercial Arbitration (3. Aufl. 2021) Kap. 22. Unsicherheit bleibt sichtbar.
 
 ## Normen und Rechtsprechung
 

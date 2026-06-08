@@ -107,9 +107,6 @@ Stand 2026: in den ersten Tranchen wurden mehrere Big-Tech-Konzerne als Gatekeep
 - Art. 5–7 DMA — Per-se-Verbote und spezifizierbare Pflichten
 - Art. 26 ff. DMA — Aufsicht durch Kommission
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Überschreitet der Anbieter die quantitativen Schwellen? (Umsatz EWR 7.5 Mrd. EUR / Marktwert 75 Mrd. / 45 Mio. EU-Nutzer / 10.000 Gewerbekunden)
@@ -139,3 +136,4 @@ Designation bereits erfolgt: ja (Beschluss vom [DATUM]) / nein / beantragt
 Anwendbare Pflichten: Art. 5–7 DMA [LISTE EINSCHLAEGIGER PFLICHTEN]
 Empfehlung: [BERATUNGSEMPFEHLUNG]
 ```
+

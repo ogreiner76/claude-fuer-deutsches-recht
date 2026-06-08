@@ -5,10 +5,6 @@ description: "Untersucht Spesenabrechungs- und Reisekostenbetrug – forensische
 
 # Spesenbetrug und Reisekostenmissbrauch
 
-## Arbeitsbereich
-
-Untersucht Spesenabrechungs- und Reisekostenbetrug – forensische Buchprüfung, Beweissicherung, arbeitsrechtliche und strafrechtliche Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -68,15 +64,6 @@ Dieser Skill strukturiert die forensische Untersuchung von Spesenbetrug: von der
 - Remediation: Kontrollen verschärfen, Spending-Limits anpassen, Prüfung externer Lieferanten automatisieren.
 - § 130 OWiG: Fehlende Kontrollen können selbst bußgeldbewehrt sein.
 
-## Red-Team-Fragen
-
-- Wurden alle verfügbaren Datenquellen (ERP, Kreditkarte, Reisebuchung) systematisch ausgewertet?
-- Gibt es Indizien, dass Genehmiger kompromittiert oder mitbeteiligt waren?
-- Sind die modifizierten Belege so dokumentiert (Metadaten, Schriftarten), dass ein Sachverständiger im Strafverfahren den Betrug bestätigen kann?
-- Wurde der Schaden vollständig berechnet, einschließlich steuerlicher Effekte?
-- Ist die 2-Wochen-Frist für die außerordentliche Kündigung eingehalten?
-- Wurden Systemschwachstellen identifiziert und Remediation-Maßnahmen festgelegt?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -96,3 +83,4 @@ Dieser Skill strukturiert die forensische Untersuchung von Spesenbetrug: von der
 - **Remediation-Maßnahmenplan** (Kontrolllücken schließen)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

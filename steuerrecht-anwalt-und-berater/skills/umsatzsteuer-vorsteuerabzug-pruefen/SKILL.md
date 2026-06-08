@@ -11,10 +11,6 @@ description: "Prüfungslinie für anw umsatzsteuer vorsteuerabzug pruefen im Ste
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Vorsteuerabzug § 15 UStG ist ein zentrales Element der USt-Mandanten-Beratung — bei Fehlern Berichtigung mit Zins-Folgen, im schlimmsten Fall Strafverfahren.
-
 ## Schritt 1 — Voraussetzungen § 15 Abs. 1 UStG
 
 ### 1. Unternehmer-Eigenschaft § 2 UStG
@@ -240,3 +236,4 @@ Pflichtangaben § 14 Abs. 4 UStG:
 - **Steueraenderungsgesetz 2025** (BGBl. 2025 I Nr. 363, verkuendet 23.12.2025): Erweiterung des ermaessigten USt-Satzes (7 %) auf Restaurant- und Verpflegungsdienstleistungen (ohne Getraenke) für Umsaetze nach dem 31.12.2025.
 - Sölch/Ringleb UStG
 - Tipke/Lang Steuerrecht
+

@@ -5,12 +5,6 @@ description: "Produktmanager oder Rechtsabteilung will vor dem Launch prüfen, o
 
 # Produkt-Launch-Freigabeprüfung
 
-## Zweck
-
-Dieser Skill führt eine vollständige produktrechtliche Freigabeprüfung durch: Er liest das PRD oder die technische Produktbeschreibung, prüft jede Kategorie des konfigurierten Prüfrahmenwerks und kalibriert die Befunde gegen die hinterlegten Risikoschwellen. Das Ergebnis ist ein Prüfvermerk, den ein Produktmanager liest und daraus genau weiß, was vor der Markteinführung erledigt sein muss.
-
-Der Skill lädt automatisch, wenn der Nutzer eine Markteinführung, eine CE-Prüfung, eine Konformitätsbewertung oder eine Produktsicherheitsprüfung anspricht.
-
 ## Eingaben
 
 - **PRD / Produktbeschreibung** — als Datei, Link oder direkte Eingabe
@@ -49,6 +43,7 @@ Der Skill lädt automatisch, wenn der Nutzer eine Markteinführung, eine CE-Prü
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1: Eingaben erfassen
@@ -168,10 +163,6 @@ Jeden Befund gegen die Kalibrierungstabelle in der CLAUDE.md abgleichen:
 
 Der bereinigte Block enthält weder rechtliche Begründungen noch interne Überlegungen, keine Normenverweise, keine Eskalationsnotizen.
 
-## Ausgabeformat
-
-Prüfvermerk im internen Format gemäß CLAUDE.md. Falls kein Hausformat vorgegeben, Standard aus Schritt 5 verwenden. Immer beide Ausgaben erzeugen: vollständiger Vermerk und bereinigter Tracker-Kommentar.
-
 ## Beispiel
 
 **Sachverhalt:** Neues Haushaltsgerät mit WLAN-Schnittstelle soll in Deutschland und Österreich auf den Markt gebracht werden.
@@ -202,3 +193,4 @@ Jede Norm, Entscheidung oder Behördenaussage im Prüfvermerk muss belegt sein:
 Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.
 
 Hinweis: Dieser Skill strukturiert die Launch-Freigabe so, dass juristische und technische Teams Risiken früh sehen, sauber dokumentieren und gezielt entscheiden können; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
+

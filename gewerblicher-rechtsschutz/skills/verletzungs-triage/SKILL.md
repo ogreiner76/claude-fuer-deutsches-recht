@@ -31,10 +31,6 @@ Mandant sieht IP-Verletzung oder hat Verletzungsschreiben erhalten und fragt: Wa
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Strukturierte Erstbewertung einer möglichen Schutzrechtsverletzung. Der Skill klärt, welches Recht verletzt sein könnte, bewertet den kommerziellen und rechtlichen Schweregrad und empfiehlt die verhältnismäßige Reaktion auf einer fünfstufigen Skala: von "Ignorieren" bis "Sofortklage". Die Empfehlung wird kalibriert an der im Kanzleiprofil hinterlegten Durchsetzungsstrategie.
-
 ## Eingaben
 
 - Beschreibung der möglichen Verletzungshandlung (mit Beweismitteln: URLs, Screenshots, Produktbeschreibungen, Werbematerial)
@@ -164,16 +160,6 @@ Zitierweise nach `../references/zitierweise.md`.
 - Dreier/Schulze, UrhG, 7. Aufl. 2022, § 97 Rn. 10 ff.
 - Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 97 Rn. 42 ff.
 
-## Ausgabeformat
-
-**Triage-Memo:**
-1. Sachverhaltsdarstellung (2–3 Sätze)
-2. Rechtliche Einordnung (je Anspruchsgrundlage: Kurze Prüfung)
-3. Schwerbewertung (Ampel: 🔴/🟠/🟡/🟢)
-4. Handlungsoptionen A–E mit Vor-/Nachteilen
-5. Empfehlung (kalibriert an Kanzleiprofil)
-6. Entscheidungsbaum
-
 ## Risiken / typische Fehler
 
 - **EV-Dringlichkeit verpassen:** Frist von 1 Monat ab Kenntnis läuft schnell ab; sofort nach Entdeckung handeln.
@@ -185,3 +171,4 @@ Zitierweise nach `../references/zitierweise.md`.
 <!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

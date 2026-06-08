@@ -5,10 +5,6 @@ description: "Verlagsrecht: Werbung mit Bestseller-Siegeln, Preisauszeichnungen 
 
 # Verl-040 · Werbung mit Bestseller-Siegel und Rezensionen
 
-## Arbeitsbereich
-
-Verlagsrecht: Werbung mit Bestseller-Siegeln, Preisauszeichnungen und Rezensionszitaten — UWG, Irreführungsverbot, Siegel-Anforderungen und Abmahnrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -114,3 +110,4 @@ Verlage werben mit **Bestseller-Listen, Preisauszeichnungen und Rezensionszitate
 - **Bestseller-Nachweis-Dokumentation**: Liste, Zeitraum, Platzierung
 - **Abmahnungs-Reaktions-Schreiben**: Bei Irreführungs-Vorwurf
 - **Influencer-Kooperations-Transparenzcheck**
+

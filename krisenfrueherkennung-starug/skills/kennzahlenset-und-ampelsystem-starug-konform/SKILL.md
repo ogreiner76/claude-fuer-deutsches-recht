@@ -5,10 +5,6 @@ description: "StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung
 
 # Kennzahlenset und Ampelsystem — StaRUG-konform
 
-## Arbeitsbereich
-
-StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte für Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F. Prüfraster: Liquiditaetsreichweite, EBITDA-Coverage, Net-Debt-EBITDA, Covenant-Headroom, DSCR — numerische Schwellen gruen/gelb/rot, Berechnungsformeln, Eskalationslogik. Output KPI-Dashboard-Template, Ampelsystem-Beschreibung, Schwellenwert-Dokumentation. Abgrenzung: Fruehwarnsystem-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -124,52 +120,6 @@ Bedeutung: Wie viel des Ergebnisses wird tatsächlich als Cash realisiert?
 
 ---
 
-## Vorgehen
-
-### Schritt 1: Ampeltabelle monatlich aktualisieren
-
-```
-AMPELTABELLE — [Firma GmbH] — Stand: [MM/JJJJ]
-
-KPI | Ist-Wert | Grün | Gelb | Rot | Ampel | Trend
-------------------------|----------|------------|----------------|------------|-------|------
-Liquiditätsreichweite | [x] Mon. | ≥ 6 Mon. | 3 bis < 6 Mon. | < 3 Mon. | [🔴/🟡/🟢] | [↑↓→]
-EBITDA-Coverage | [x,xx]x | ≥ 3,0x | 1,5x bis < 3x | < 1,5x | [Amp] | [↑↓→]
-Net-Debt/EBITDA | [x,xx]x | ≤ 3,0x | 3,0x bis 4,5x | > 4,5x | [Amp] | [↑↓→]
-Covenant-Headroom | [x] % | ≥ 25 % | 10 % bis < 25% | < 10 % | [Amp] | [↑↓→]
-DSCR | [x,xx]x | ≥ 1,20x | 1,0x bis 1,2x | < 1,0x | [Amp] | [↑↓→]
-Eigenkapitalquote | [x] % | ≥ 20 % | 10 % bis < 20% | < 10 % | [Amp] | [↑↓→]
-Cash-Conversion-Rate | [x] % | ≥ 70 % | 40 % bis < 70% | < 40 % | [Amp] | [↑↓→]
-
-Gesamtampel: [ROT / GELB / GRÜN]
-Eskalationsstufe: [1 / 2 / 3]
-Kommentar: [___]
-```
-
-### Schritt 2: Eskalationslogik anwenden
-
-```
-GESAMTAMPEL-LOGIK:
- GRÜN: Alle KPIs im grünen Bereich
- GELB: Mind. 1 KPI im gelben Bereich, kein KPI im roten Bereich
- ROT: Mind. 1 KPI im roten Bereich
-
-ESKALATION:
- GRÜN: Routinereporting, monatlich
- GELB: Sofortanalyse (5 Werktage), Maßnahmenplan (10 Werktage), Info Gesellschafter (15 Werktage)
- ROT: Sofortmaßnahmen (72 Stunden), Berater einschalten, StaRUG prüfen
-```
-
-### Schritt 3: Trendanalyse und Prognostik
-
-Nicht nur der Ist-Wert, auch der Trend ist entscheidend:
-
-- **Verschlechterung über drei Monate** bei einem grünen KPI → präventiver Gelb-Status setzen
-- **Gleichbleibend Gelb über zwei Monate ohne Maßnahmen** → automatisch Rot
-- **Verbesserung** dokumentieren und in Protokoll aufnehmen (Enthaftung)
-
----
-
 ## Templates
 
 ### Muster: KPI-Datenblatt für Monatsreporting
@@ -235,14 +185,6 @@ MAßNAHMEN BEI GELB/ROT:
 
 ---
 
-## Querverweise
-
-- → `fruehwarnsystem-architektur-zwei-jahres-horizont` — Systemarchitektur und Reporting-Zyklus
-- → `rollierende-liquiditaetsplanung-24-monate-template` — Datenbasis für KPIs
-- → `integrierte-planung-guv-bilanz-cashflow` — Planungsbasis für Forecast-KPIs
-- → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Liquiditätsreichweite als Tatbestandsmerkmal
-- → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Protokollierung der Ampelwerte
-
 ## Weitere Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -254,3 +196,4 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+

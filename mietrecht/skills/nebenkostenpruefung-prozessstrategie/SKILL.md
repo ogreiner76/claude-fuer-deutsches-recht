@@ -5,10 +5,6 @@ description: "Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Bele
 
 # Nebenkostenprüfung: Einreichung, Portal und Amtsgericht
 
-## Arbeitsbereich
-
-Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Belegeinsicht verlangen, Einwendungen fristwahrend formulieren, Rückzahlungsanspruch beziffern, Mahnung/Mahnverfahren/Klage behandeln und Unterlagen für Amtsgericht oder Mieter-/Vermieterportal ordnen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Belegeinsicht verl
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-
-Dieser Skill baut aus einer fehlerhaften oder bestrittenen Betriebskostenabrechnung ein verwertbares Arbeitspaket: fristwahrendes Einwendungsschreiben, Belegeinsicht, Korrekturberechnung, Rückzahlungsaufforderung, Mahn-/Klageabwehr oder Klagepaket zum Amtsgericht.
 
 ## Einstieg
 
@@ -57,17 +49,3 @@ Dieser Skill baut aus einer fehlerhaften oder bestrittenen Betriebskostenabrechn
 - Bei Mahnbescheid rechtzeitig Widerspruch prüfen; Begründung folgt erst im streitigen Verfahren.
 - Bei Klage: Forderung, Zahlung, Vorbehalt, Belegeinsicht und konkrete Fehler getrennt vortragen.
 
-## Output-Standard
-
-- fristwahrendes Einwendungsschreiben,
-- Belegeinsichtsliste,
-- Korrekturtabelle,
-- Anlagenverzeichnis,
-- Mahnbescheid-/Klage-Reaktionsplan,
-- Schriftsatzbausteine in knapper Amtsgerichtssprache.
-
-## Quellenregel
-
-- § 556 BGB, § 556a BGB, BetrKV, HeizkostenV und CO2KostAufG aktuell prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.

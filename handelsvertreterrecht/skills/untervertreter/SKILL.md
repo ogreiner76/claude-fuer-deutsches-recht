@@ -5,10 +5,6 @@ description: "Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulä
 
 # Untervertreter im Handelsvertreterrecht — Zulässigkeit und Haftung nach § 84 HGB
 
-## Arbeitsbereich
-
-Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulässigkeit der Unterbeauftragung nach § 84 HGB, Haftung des Hauptvertreters für den Untervertreter, Provisionsaufteilung, Vertragsverhältnisse zu Unternehmer und Untervertreter sowie Ausgleichsansprüche beider Ebenen bei Vertragsende. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Provisionsaufteilung nicht geregelt — Streit über Höhe der Untervertreterprovision.
 - Ausgleichsanspruch des Untervertreters falsch adressiert — gegen falschen Anspruchsgegner.
 
-## Output
-
-Untervertretervertrag Entwurf, Provisionsaufteilungsregelung, Ausgleichsanspruch-Analyse.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 278 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__278.html)
 - [§ 86 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86.html)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

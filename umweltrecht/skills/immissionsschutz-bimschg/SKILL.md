@@ -51,9 +51,6 @@ Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nac
 
 Konkrete Aktenzeichen weiterer Entscheidungen (insb. OVG / VGH) vor Ausgabe ueber bverwg.de bzw. landesrecht-[bundesland].de verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -169,3 +166,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `umweltrecht-verfahren` — Klageverfahren Geruestvorbereitung
 - `energieanlagen-bimschg-genehmigung-verfahren` — Spezial-Energieanlagen
 - `eilantrag-80-abs-5-vwgo` — Eilrechtsschutz nach Genehmigung
+

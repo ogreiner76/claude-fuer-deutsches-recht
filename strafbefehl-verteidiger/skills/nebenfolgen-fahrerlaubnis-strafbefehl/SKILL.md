@@ -40,9 +40,6 @@ Fahrerlaubnisentzug § 69 StGB und Fahrverbot § 44 StGB im Strafbefehl. Regelen
 - KCanG-Folgeproblem für Fahrerlaubnis nach BGH (GSSt) 03.02.2025 — GSSt 1/24 und § 24a Abs. 1a StVG (THC-Grenzwert 3,5 ng/ml im Blutserum, in Kraft seit 22.08.2024): Bei sanktionsfreier Eigenkonsumlage bleibt die straßenverkehrsrechtliche Eignungsfrage (FeV) eigenständig zu prüfen; die strafrechtliche Bewertung determiniert nicht das FeV-Verfahren. Offene Fundstelle zum GSSt-Beschluss: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 zur Eignungsfrage nach § 11 FeV bei einmaligem Cannabiskonsum nach KCanG-Inkrafttreten ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de / bverwg.de unter "Cannabis Fahreignung FeV" durchführen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Fahrerlaubnis-Strategie
 
 ```
@@ -80,3 +77,4 @@ Im Strafbefehl: Fahrverbot § 44 StGB?
 - MPU-Anforderung durch Behörde ist eigenstaendiger Verwaltungsrechtsweg.
 - Haertefall-Argument bei § 69 StGB selten erfolgreich — Mandant realistisch informieren.
 - Sperrfrist-Antrag nach § 69a Abs. 7 StGB erst nach halber Mindestlaufzeit.
+

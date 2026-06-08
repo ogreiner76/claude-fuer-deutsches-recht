@@ -5,10 +5,6 @@ description: "Cura annonae: roemische Verwaltung des Getreidehandels und der Ver
 
 # Rom 129 Getreidehandel Cura Annonae
 
-## Aufgabe
-
-Skill für die cura annonae.
-
 ## Rechtsquelle
 
 - D. 50.5 (De vacatione et excusatione munerum).
@@ -59,14 +55,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Lebensmittelversorgung als öffentliche Aufgabe.
-
 ## Powersprint-Vertiefung
 
 - **Quellenlage:** Trenne Zwölftafelrecht, prätorisches Edikt, klassische Juristen, justinianische Kompilation und byzantinische Fortentwicklung; unsichere Überlieferung ausdrücklich markieren.
 - **Actio-Denken:** Prüfe bei `Rom 129 Getreidehandel Cura Annonae` zuerst, welche Klage, Einrede oder formula das praktische Problem trägt; römisches Recht nicht als modernes Gesetzbuch erzählen.
 - **Dogmatische Brücke:** Zeige die Verbindung zu BGB/ABGB/OR nur als Rezeptions- oder Strukturvergleich, insbesondere Besitz, Eigentum, Obligation, Delikt, Erbe oder Status.
 - **Output:** Erzeuge `römischer Mechanismus / Quellenstufe / Prozessweg / moderne Parallele / Grenze der Analogie`.
+

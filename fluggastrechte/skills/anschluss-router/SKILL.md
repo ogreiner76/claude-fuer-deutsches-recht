@@ -5,10 +5,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Fluggastrechte-Plugin. 
 
 # Fluggastrechte — Allgemein
 
-## Arbeitsbereich
-
-Einstieg, Schnelltriage und Fallrouting im Fluggastrechte-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,15 +12,6 @@ Einstieg, Schnelltriage und Fallrouting im Fluggastrechte-Plugin. Fragt Rolle, Z
 - Tragende Normen verifizieren: EU-Fluggastrechte-VO 261/2004 Art. 5, 6, 7, 8, 9, EU-VO 2027/97 (Montrealer Übereinkommen), MontÜ Art. 17, 19, 22, BGB §§ 631, 651a ff. (Pauschalreise), LuftVG, AGB der Luftfahrtunternehmen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU), Reisebüro, SÖP (Schlichtungsstelle Öffentlicher Personenverkehr), LBA (Luftfahrt-Bundesamt), AG/LG am Sitz des Carriers oder Abflug/Ankunft.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Buchungsbestätigung, Boardingpass, Verspätungsbestätigung, Foto Anzeigetafel, Abrechnung Auslagen, Ablehnungsschreiben, Klageschrift AG, SÖP-Antrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
 ## Schnellstart-Workflow
 
@@ -220,11 +207,6 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
 - Umbuchungs-Voucher als Erfuellung akzeptiert: Ein Gutschein ersetzt den Baranspruch nicht, wenn der Passagier dem nicht ausdruecklich zugestimmt hat.
 - Ansprueche von Mitreisenden ohne Vollmacht geltend gemacht: Prozessual fehlt dann die Ermaechtigung zur Einziehung fremder Forderungen.
 
-## Querverweise
-
-- `prozessrecht` — Wenn der Fluggast-Fall vor dem Amtsgericht wird und prozessrechtliche Fragen (Zuständigkeit, Fristen, Mahnbescheid) auftauchen.
-- `selbstvertreter-amtsgericht` — Wenn der Mandant ohne Anwalt klagen will und eine Orientierung für das Amtsgerichtsverfahren benoetigt.
-
 ## Quellen und Aktualitaet (Stand Mai 2026)
 
 - VO (EG) Nr. 261/2004 in geltender Fassung
@@ -242,10 +224,3 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
  - C-399/24 (16.10.2025) — Blitzschlag
 - Leitlinien der Kommission zur Auslegung VO 261/2004: ABl. EU C 2024/05687
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -9,10 +9,6 @@ description: "Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweism
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
 ## Einstieg
 
 1. Verfahrensart klären: Strafverfahren, reine OWi-Sache, Mischfall oder Übergang zwischen beiden.
@@ -50,7 +46,6 @@ Der Skill prüft, ob der Bußgeldbescheid als verfahrensleitendes Zentrum tragf�
 - Datenschutz- oder Unternehmensbußgelder ohne Spezialverweisung prüfen.
 - Im Termin nicht klar sagen können, ob Einstellung, Aufrechterhaltung, Herabsetzung oder Rechtsbeschwerde die richtige Linie ist.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -61,6 +56,4 @@ Konkret zu prüfen:
 - § 168b StPO (Aufzeichnung)
 - § 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)
-## Quellenhygiene
 
-Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, RiStBV und bei Datenschutz Art. 83 DSGVO sowie § 41 BDSG. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle verwenden; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

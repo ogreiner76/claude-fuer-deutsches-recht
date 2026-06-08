@@ -5,10 +5,6 @@ description: "Fair Disclosure und Knowledge: Prüft Wissens-, Kenntnis-, Fair-Di
 
 # Fair Disclosure und Knowledge
 
-## Arbeitsbereich
-
-Fair Disclosure und Knowledge: Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte von KI-gestuetzter Datenraumprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Fair Disclosure und Knowledge: Prüft Wissens-, Kenntnis-, Fair-Disclosure- und 
 ## Fachkern: Fair Disclosure und Knowledge
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Datenraum, Legal Due Diligence und pragmatische Information-Request-Steuerung**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Fair Disclosure und Knowledge
 
-## Zweck
-
-Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte von KI-gestützter Datenraumprüfung.
-
 ## Arbeitsmodus
 
 - Positive Kenntnis, best knowledge, Kennenmüssen und grobe Fahrlaessigkeit trennen.
@@ -169,9 +158,6 @@ Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Knowledge-Standard pruefen:** SPA-Klausel analysieren; "Best Knowledge" vs. "Actual Knowledge" vs. "Constructive Knowledge"
@@ -184,3 +170,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Arglistiges Verschweigen trotz Disclosure: Haftungsausschluss unwirksam; persönliche Haftung
 - KI-DD ohne Transparenz: Underwriter koennte Deckung verweigern; Fair-Disclosure in Frage gestellt
+

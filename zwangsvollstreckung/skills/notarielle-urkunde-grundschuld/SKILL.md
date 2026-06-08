@@ -17,10 +17,6 @@ Gläubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Banken und Investoren stützen die Vollstreckung in Immobilien fast immer auf eine notarielle Urkunde mit Grundschuld und Unterwerfungsklausel. Dieser Skill koordiniert beide Vollstreckungsrichtungen: dinglich in das Grundstück, persönlich in das sonstige Vermögen.
-
 ## Startet bei
 
 - Notarielle Urkunde mit Grundschuld vorhanden
@@ -97,10 +93,3 @@ WIEDERVORLAGE: DD.MM.JJJJ + 6 Monate (Kündigungsfrist)
 - Niemals persönliche Vollstreckung ohne Unterwerfung in das Vermögen prüfen.
 - Bei Verbraucher-Sicherungsgrundschuld AGB-Kontrolle der Unterwerfungsklausel.
 
-## Querverweise
-
-- `zv-titel-klausel-zustellung`
-- `zv-zvg-antrag-glaeubiger`
-- `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`
-- `zv-abwehr-schuldner`
-- `insolvenzforderungsanmeldungspruefung/ifap-tabellenauszug-178` – falls Schuldner Insolvenz

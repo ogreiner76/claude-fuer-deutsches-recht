@@ -53,10 +53,6 @@ description: "Lehrt die methodisch korrekte Bildung wertungsoffener Obersätze f
 - Der Obersatz benennt eine Anspruchsgrundlage, die im Sachverhalt offensichtlich nicht einschlägig ist.
 - Subsumtionsergebnisse aus einem Prüfungspunkt werden im Obersatz des nächsten Prüfungspunkts vorweggenommen.
 
-## Output
-
-Das Skill liefert Formulierungsvorlagen für wertungsoffene Obersätze in typischen zivilrechtlichen Prüfungskonstellationen: Anspruch auf Schadensersatz, AGB-Unwirksamkeit, Vertragsauslegung, Sittenwidrigkeit, Anfechtung. Plus ein Qualitäts-Checkliste zur Selbstprüfung jedes Obersatzes vor Abgabe.
-
 ## Vertiefung: Obersatz als Strukturierungsinstrument
 
 Der Obersatz hat nicht nur eine inhaltliche, sondern auch eine strukturelle Funktion: Er gliedert das Gutachten in nachvollziehbare Prüfungseinheiten und signalisiert dem Leser, welche Rechtsfrage als nächstes geprüft wird. Ein gut formulierter Obersatz kann die gesamte Gutachtenstruktur sichtbar machen, ohne die Subsumtion vorwegzunehmen. Diese doppelte Funktion — Inhalt und Struktur — sollte bei der Formulierung stets im Blick behalten werden.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 138 BGB – Sittenwidrigkeit](https://www.gesetze-im-internet.de/bgb/__138.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

@@ -5,10 +5,6 @@ description: "Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um – Ab
 
 # Disziplinarmaßnahmen nach Internal Investigations
 
-## Arbeitsbereich
-
-Wählt und setzt arbeitsrechtliche Disziplinarmaßnahmen um – Abmahnung, Versetzung, Kürzung von Boni, Freistellung, Zielvereinbarungsänderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,15 +71,6 @@ Dieser Skill wählt die proportionale Disziplinarmaßnahme auf Grundlage der Unt
 - Fristen einhalten: § 626 Abs. 2 BGB (2-Wochen-Frist für außerordentliche Kündigung ab Kenntniserlangung).
 - Nachverfolgung: wurden Maßnahmen tatsächlich vollständig umgesetzt?
 
-## Red-Team-Fragen
-
-- Ist die gewählte Disziplinarmaßnahme verhältnismäßig zur festgestellten Verfehlung?
-- Wurden alle Mitarbeiter mit ähnlichem Verhalten gleich behandelt (Gleichbehandlungsgrundsatz)?
-- Ist die 2-Wochen-Frist für außerordentliche Kündigung eingehalten?
-- Gibt es Claw-Back-Klauseln in den Vergütungsverträgen, die bei Compliance-Verstößen aktiviert werden können?
-- Wurden alle Betriebsratsrechte gewahrt (§ 102 BetrVG-Anhörung)?
-- Sind die Disziplinarmaßnahmen nach außen hin konsistent – keine unterschiedliche Behandlung nach Hierarchieebene ohne sachlichen Grund?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -103,3 +90,4 @@ Dieser Skill wählt die proportionale Disziplinarmaßnahme auf Grundlage der Unt
 - **Organhaftungs-Schadensersatz-Memo**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

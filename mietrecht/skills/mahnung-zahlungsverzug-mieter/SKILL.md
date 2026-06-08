@@ -122,6 +122,3 @@ Vor Versand der fristlosen Kündigung: fachanwaltliche Prüfung der Rückstandsb
 
 §§ 543, 569, 573 BGB — Kuendigungsvoraussetzungen Zahlungsverzug; § 286 BGB — Verzug; § 569 Abs. 3 BGB — Schonfrist; § 247 BGB — Basiszinssatz; § 288 BGB — Verzugszinsen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -5,10 +5,6 @@ description: "Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laen
 
 # Krankheitsbedingte Urlaubsuebertragung
 
-## Arbeitsbereich
-
-Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laenger andauernder Erkrankung im Beamtenverhaeltnis. Klaert die 15-Monats-Frist nach EuGH-Rechtsprechung den unionsrechtlichen Mindesturlaub die Unterscheidung zwischen unionsrechtlich gewaehrtem Urlaub und nationalem Zusatzurlaub den Verzicht auf Verfall mangels Mitwirkungsobliegenheit sowie das Verhaeltnis zur Abgeltung bei Eintritt in den Ruhestand. Liefert Berechnungstabelle und Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,3 +65,4 @@ Skill für Beamte mit langjaehriger Erkrankung und entstehenden Resturlaubsanspr
 ## 7. Beispiel (Kurzfassung)
 
 Mandantin 28 Monate Krankheit, in 2022 zehn Tage Urlaub genommen. Skill liefert Berechnung des unionsrechtlichen Mindesturlaubs für 2022, 2023 und 2024 unter Beruecksichtigung des Verfalls 15 Monate nach Urlaubsjahr.
+

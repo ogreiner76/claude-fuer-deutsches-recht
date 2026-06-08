@@ -5,10 +5,6 @@ description: "Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: s
 
 # Airline – Insolvenzrisiko markieren
 
-## Arbeitsbereich
-
-Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquiditaet schlechte Ratings Zahlungsrueckstaende. Prueft EU-VO 1008/2008 Art. 9 Fruehwarnindikatoren InsO §§ 15a 17-19 Antragspflicht und Haftungsrisiken Geschaeftsfuehrer und liefert Risikoampel-Bewertung und Geschaeftsfuehrer-Haftungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,6 +40,7 @@ Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquid
 - **LuftVG § 21a**: Wet-Lease-Genehmigung; Voraussetzungen und Befristung.
 - **LuftVG § 29d**: Aufsichtsbefugnisse des LBA gegenüber Luftverkehrsunternehmen.
 - **EASA Part-OPS ORO.AOC.100**: AOC-Anforderungen; Nachweis technischer und betrieblicher Kompetenz.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -54,6 +51,7 @@ Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquid
 6. Sind Sicherheitsauflagen bewertet und Widerspruch geprüft?
 7. Ist das AOC noch gültig und entspricht es dem aktuellen Streckennetz?
 8. Haben sich Eigentümerstruktur oder Hauptsitz geändert (EU-VO 1008/2008 Art. 4)?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -72,9 +70,6 @@ Airline-Insolvenzen erfordern schnelles Handeln:
 - **InsO § 47**: Aussonderungsrecht des Eigentümers (Leasinggeber); Priorität gegenüber Insolvenzgläubigern.
 - **IATA/IOSA**: Kreditversicherung und IATA-Abrechnung (BSP) können bei Insolvenz besondere Regelungen auslösen.
 
-## Output
-
-Vermerk zu Airline – Insolvenzrisiko markieren mit Ampel-Rating Fristenstand und nächsten Schritten. Checkliste offener Punkte. Zuständigkeitsmatrix Behörde/Register. Fristenkalender mit Ampelstatus.
 ## Quellen
 
 - EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
@@ -103,3 +98,4 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

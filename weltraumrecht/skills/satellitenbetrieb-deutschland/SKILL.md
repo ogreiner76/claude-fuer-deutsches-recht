@@ -5,10 +5,6 @@ description: "Genehmigungsverfahren für Satellitenbetrieb aus Deutschland – z
 
 # Weltraumrecht: Satellitenbetrieb aus Deutschland: Genehmigung, Versicherung, Aufsicht
 
-## Arbeitsbereich
-
-Genehmigungsverfahren für Satellitenbetrieb aus Deutschland – zuständige Behörden, Versicherungspflichten, laufende Aufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,3 +111,4 @@ Dieser Skill bearbeitet **Satellitenbetrieb aus Deutschland: Genehmigung, Versic
 - EU Space Programme Regulation: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0696
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
 - UNOOSA: https://www.unoosa.org/
+

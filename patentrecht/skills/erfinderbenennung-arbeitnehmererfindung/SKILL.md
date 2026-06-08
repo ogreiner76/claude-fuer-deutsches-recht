@@ -5,10 +5,6 @@ description: "Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-S
 
 # Erfinderbenennung und Arbeitnehmererfindung
 
-## Arbeitsbereich
-
-Prüft Erfinderbenennung, Rechtekette und Arbeitnehmererfindungs-Schnittstellen: wer ist Erfinder, wer ist Anmelder, Diensterfindung, freie Erfindung, Inanspruchnahme, Vergütung und Dokumentationsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Erfinder ist, wer einen schöpferischen Beitrag zur technischen Lehre geleistet 
 6. Sind Vergütungs- und Nachweisdokumente vorhanden?
 7. Muss die Anmeldung korrigiert oder eine Rechtekette geschlossen werden?
 
-## Output
-
-- Erfinderbeitragsmatrix.
-- Rechtekettenübersicht.
-- Rückfragen an HR/Legal/Technik.
-- Warnhinweise zur Anmeldung und Lizenzierung.
-
 ## Red Flags
 
 - Anmelder ist Konzernmutter, erfunden wurde aber bei Tochter/Freelancer.
@@ -56,10 +45,3 @@ Erfinder ist, wer einen schöpferischen Beitrag zur technischen Lehre geleistet 
 - **Vergütung Routinearbeit:** § 9 ArbEG-Logik nicht auf "freie" Erfindungen anwendbar — Trennung sauber ziehen.
 - Falle: Bei Konzernlizenzen IP-Inhaberschaft live im DPMA-Register prüfen; "wirtschaftliche" Zuordnung reicht nicht; Diensterfinderbenennung darf nicht zur Familienangelegenheit werden — § 8 PatG Vindikationsanspruch droht.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproble
 
 # Dringlichkeitsmarker
 
-## Arbeitsbereich
-
-Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Prüfraster: Signale Hauptverhandlung naechste Woche Kündigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,9 +34,6 @@ Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt 
 - § 51 BRAO — Haftung: Fristversaeumnis durch mangelnde Dringlichkeits-Erkennung
 - § 233 ZPO — Wiedereinsetzung: nur moeglich wenn Kanzlei keine Fahrlässigkeit trifft
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Dringlichkeitsstufen
 
 | Stufe | Kriterium | Konsequenz |
@@ -106,23 +99,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - "Vertragsstrafe droht"
 - "mein Unternehmen ist in Gefahr"
 
-## Ausgabeformat
-
-```
-DRINGLICHKEIT
-=============
-Stufe: [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
-Frist/Termin: [Datum und Art oder "nicht erkannt"]
-Signal: [Zitat des Eile-Signals aus der Anfrage oder "keins"]
-Begründung: [Kurze Erklärung der Bewertung]
-
-MASSNAHMEN:
- [x] Sofortiger Anwaltsrückruf erforderlich — NICHT auf E-Mail warten
- [ ] Rückmeldung innerhalb 24 Stunden
- [ ] Normale Bearbeitung
- [ ] Frist im Kalender eintragen: [Datum]
-```
-
 ## Hinweis-Text für die Erstantwort-Mail (bei HOCH)
 
 ```
@@ -160,3 +136,4 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Aktion: Eintrag geloescht.
 -->
+

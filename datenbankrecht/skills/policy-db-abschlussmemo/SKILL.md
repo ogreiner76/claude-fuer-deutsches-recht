@@ -60,15 +60,6 @@ Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umg
 - **Veraltete Lizenzregister**: Datenbanklizenzen laufen ab oder ändern sich; ohne Ablaufdaten im Register entstehen unbemerkt Rechtsverletzungen.
 - **Fehlende Mitarbeiterkommunikation**: Eine Policy ohne Schulung und Awareness ist im Streitfall schwer als wirksam durchgesetzt nachzuweisen.
 
-## Output
-
-- Compliance-Policy-Entwurf (Datenbankrecht und Data Governance) als Word-Dokument
-- Zentrales Datenbankregister-Template (Excel/CSV: Quelle, Schutzstatus, Lizenz, Ablaufdatum, Freigabe)
-- Freigabe-Workflow-Diagramm (Swimlane: IT, Legal, Data-Owner)
-- Opt-out-Prüf-Checkliste für externe Datenquellen (robots.txt, AGB, maschinenlesbarer Hinweis)
-- Schulungsfolien-Grundgerüst (10-15 Folien: Grundbegriffe, Fallbeispiele, Dos and Don'ts)
-- Audit-Fragebogen für jährliche Compliance-Prüfung
-
 ## Quellen
 
 - [§ 87b UrhG — Rechte des Datenbankherstellers (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/urhg/__87b.html)
@@ -77,3 +68,4 @@ Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umg
 - [RL 96/9/EG — Datenbankrichtlinie (eur-lex.europa.eu)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 - [Data Act VO 2023/2854 (eur-lex.europa.eu)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2854)
 - [EuGH C-202/12 Innoweb/Wegener — Meta-Suchdienst als Entnahme (curia.europa.eu)](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
+

@@ -5,10 +5,6 @@ description: "W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungs
 
 # W&I-Versicherung
 
-## Arbeitsbereich
-
-W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter für M&A. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, 
 ## Fachkern: W&I-Versicherung
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **SPA/APA, Disclosure, Signing, Closing und Post-Closing-Mechanik**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### W&I-Versicherung
 
-## Zweck
-
-Bereitet W&I-Prozess (Warranty and Indemnity Insurance), Underwriting, DD-Berichte, Deckungsausschluesse und AI-DD-Transparenz vor. Sichert Versicherungsschutz für Garantieverletzungen im SPA.
-
 ## Triage
 
 1. Ist W&I-Versicherung vom Kaeufer oder Verkaeufer beabsichtigt — Buy-side oder Sell-side Policy?
@@ -142,9 +131,6 @@ Bereitet W&I-Prozess (Warranty and Indemnity Insurance), Underwriting, DD-Berich
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **W&I-Struktur entscheiden:** Buy-side (Kaeufer versichert sich gegen Garantienverletzung des Verkaeuf ers) vs. Sell-side (Verkaeufer versichert seine Haftung); Buy-side in Europa Standard
@@ -213,3 +199,4 @@ BINDUNGSBESTAETIGUNG FRIST: bis [DATUM]
 
 - assets/templates/wi-versicherung-checkliste.md
 - assets/templates/wi-underwriting-disclosure.md
+

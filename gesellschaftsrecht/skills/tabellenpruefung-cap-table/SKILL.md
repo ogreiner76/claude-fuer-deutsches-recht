@@ -18,20 +18,6 @@ description: "'Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ei
 - **Entscheidende Weiche:** Gesellschaftsform, Organrolle, Beschluss/Vertrag, Registerwirkung, Minderheitenschutz, Haftung und Frist getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Zweck
-
-Sie haben einen Stapel Dokumente und eine Liste von Fragen, die für jedes Dokument konsistent beantwortet werden müssen. Das Ergebnis ist eine Tabelle: **Dokumentenzeilen × Datenpunktspalten**, jede Zelle rückverfolgbar bis auf die exakten Wörter im Quelltext.
-
-**Die Prompt-Matrix:**
-- **Prompt pro Spalte** (Spaltenprompt) = die Frage, die für *alle* Dokumente gestellt wird. "Welche Kündigungsfrist gilt? Wörtliches Zitat mit Fundstelle."
-- **Prompt pro Zeile** (Zeilenprompt) = die *dokumentspezifische* Anweisung, die das Lesen dieses einen Dokuments steuert. "Dieser Vertrag ist ein Konzernvertrag — § 311 AktG zusätzlich prüfen." Oder: "Anlage 7 liegt nur in geänderter Fassung vor — Originalfassung anfordern."
-
-Der Wert der Matrix: gleiche Fragen für alle Dokumente (Vergleichbarkeit), aber gezielte Sonderbehandlung dort, wo ein Dokument abweicht (Genauigkeit).
-
-Dies ist **keine** Problemerkennung. `/gesellschaftsrecht:dd-findings-extraktion` findet die 30 Probleme in 2.000 Dokumenten. Dieser Skill beantwortet die gleichen 15 Fragen für alle 2.000 Dokumente.
-
-Dies ersetzt **nicht** das Lesen des Dokuments. Jede Zelle ist ein **Hinweis, der der Verifikation bedarf**, kein abschließender Befund.
-
 ## Kernsachverhalt
 
 Die Prompt-Matrix löst ein klassisches Problem in der M&A-Due-Diligence: Wenn 200 Kundenverträge auf Change-of-Control-Klauseln geprüft werden müssen, kann ein Anwalt dies nicht einzeln konsistenter qualitätsprüfen als durch ein strukturiertes Schema, das für jeden Vertrag dieselben Fragen in derselben Reihenfolge stellt. Das Risiko ohne Matrix: Unterschiedliche Prüfer stellen unterschiedliche Fragen, übersehen relevante Klauseln oder formulieren Befunde inkonsistent. Mit Matrix: Vollständigkeit, Vergleichbarkeit und Rückverfolgbarkeit sind strukturell gesichert.
@@ -276,6 +262,7 @@ zeilen:
 Vor dem Probedurchlauf die zusammengesetzte Matrix dem Nutzer zeigen. Beispiel:
 
 ```markdown
+
 ## Prompt-Matrix — Probedurchlauf
 
 **Dokumente:** 4 (von 80 im VDR)
@@ -369,10 +356,6 @@ Arbeitsergebnis-Kopfzeile aus CLAUDE.md voranstellen plus:
 - Spalten, bei denen die Normalisierung > 10 % der Zeilen flaggte
 - Speicherort der Ausgabedateien
 - Hinweis: Jede Zelle ist ein Hinweis, kein Befund. Verifikation erforderlich.
-
-## Ausgabeformat
-
-Strukturierte Tabelle (Markdown sitzungsintern + Excel/CSV als Dateien) + `review-schema.yaml` + `zeilen-prompts.yaml` + einseitige Zusammenfassung. Arbeitsergebnis-Kopfzeile und Verteilungshinweis oben.
 
 ## Beispiel — kompakte Prompt-Matrix für M&A-DD
 
@@ -559,3 +542,4 @@ Eindeutig bewertete Zellen: [N] ([%])
 - **Abtretungsverbot uebersehen (§ 399 BGB / § 354a HGB)** — Haftungsrisiko bei Garantie; alle Abtretungsverbots-Spalten manuell validieren.
 - **Rechtswahlklausel auslaendisches Recht ohne Hinweis** — Anwendbares Recht bestimmt Gueltigkeit aller anderen Befunde; Rechtswahlspalte immer zuerst pruefen.
 - **Zitat fehlt bei belastender Befundzeile** — Beweiswert null; Nachpruefung erforderlich bevor Weitergabe an Mandant.
+

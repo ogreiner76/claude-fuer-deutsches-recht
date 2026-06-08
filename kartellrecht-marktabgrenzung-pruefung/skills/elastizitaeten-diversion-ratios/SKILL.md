@@ -5,10 +5,6 @@ description: "Oekonomischer Gutachter oder Mandant legt Elastizitaetsdaten oder 
 
 # Elastizitäten und Diversion Ratios
 
-## Arbeitsbereich
-
-Oekonomischer Gutachter oder Mandant legt Elastizitaetsdaten oder Diversion-Ratio-Analyse vor und Belastbarkeit ist zu prüfen. Prüft Eigenpreis-Elastizitaet Kreuzpreis-Elastizitaet und Diversion Ratios als Instrumente quantitativer Marktabgrenzung. Normen EU-Bekanntmachung Marktdefinition 2024 SSNIP-Test § 18 GWB Art. 102 AEUV. Prüfraster oekonometrische Methodik Datenbasis Endogenitaet Schwellenwerte Cellophane-Fallacy. Output Methodenbewertungs-Memo mit Staerken Schwaechen und prozessualer Angreifbarkeit. Abgrenzung: ssnip-test-anwendung für den SSNIP-Test selbst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,6 +97,3 @@ Bewertung: [belastbar / eingeschränkt belastbar / nicht belastbar]
 - EK, Horizontal Merger Guidelines 2004 Rn. 22-29 — Diversion Ratios als Evidenz für Marktabgrenzung; hohe Diversion zwischen Produkten A und B indiziert gemeinsamen Markt.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -126,14 +126,6 @@ Beispiel 5: "Mein Vermieter macht keine Reparatur, Wasser tropft."
 - "Ich nehme nur eine Anspruchsgrundlage." → Lieber mehrere pruefen — falls eine scheitert, traegt die andere.
 - "Ich behaupte einfach, es waere ein Vertrag gewesen." → Sie muessen die Tatsachen vortragen, aus denen der Vertrag folgt (Angebot, Annahme).
 
-## Querverweise
-
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Vorab-Pruefung.
-- `tatbestand-zerlegen-anspruchspruefung-laien` — Voraussetzungen identifizieren.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung.
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
-- `klageschrift-tatsachenvortrag-strukturieren` — Sachverhalt aufbauen.
-
 ## Quellen und Aktualitaet
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

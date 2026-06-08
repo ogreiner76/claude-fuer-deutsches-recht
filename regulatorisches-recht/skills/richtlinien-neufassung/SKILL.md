@@ -5,10 +5,6 @@ description: "Interne Richtlinien und Unternehmensanweisungen auf regulatorische
 
 # Richtlinien-Neufassung
 
-## Arbeitsbereich
-
-Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk. Prüfraster: regulatorische Anforderungen Inhaltsstruktur Formulierungsstandard Genehmigungsweg. Output: neue Richtlinie Implementierungshinweise. Abgrenzung: nicht für Anpassung bestehender Richtlinien (regulatorisches-recht-anpassen). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,16 +12,6 @@ Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu ve
 - Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erstellt einen Erst-Entwurf einer überarbeiteten internen Richtlinie auf Basis einer identifizierten Compliance-Lücke (aus `luecken-aufzeiger` oder `richtlinien-vergleich`). Er erzeugt keinen finalen Text – das Ergebnis ist ein Redline-Entwurf zur internen Prüfung und Freigabe, nicht die direkte Bearbeitung des Quelldokuments.
-
-Typische Einsatzfelder:
-- Anpassung von MaRisk-Richtlinien nach BaFin-Novelle
-- Überarbeitung der IT-Sicherheitsrichtlinie nach neuem BAIT-Rundschreiben
-- ESG-Risikorichtlinie neu erstellen nach aufsichtsrechtlicher Pflicht
-- Compliance-Handbuch für Zahlungsinstitute nach ZAG-Änderung
 
 ## Eingaben
 
@@ -115,9 +101,6 @@ Freigabe-Checkliste vor Inkraftsetzung:
 
 Art. 288 AEUV (Richtlinien) — §§ 40-44 GGO (Verwaltungsvorschriften-Neufassung) — §§ 305-310 BGB (AGB-Neufassung) — §§ 133, 157 BGB (Auslegung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen und Zitierweise
 
 Zitierweise: `../../../references/zitierweise.md`
@@ -131,14 +114,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Lerch, ZAG, 2. Aufl. 2020, § 27 Rn. 20 ff.
 - BaFin-Rundschreiben 09/2017 (BA) – MaRisk [Primärquelle; abrufbar: bafin.de]
-
-## Ausgabeformat
-
-- **Redline-Entwurf:** Vollständige Richtlinie mit markierten Änderungen
-- **Änderungsübersicht:** Tabelle aller Änderungen mit Normverweis
-- **Freigabe-Checkliste:** Am Ende des Entwurfs
-- **Prüfernotiz:** Quellen, Vollständigkeit, offene Fragen
-- Reviewer-Header wie in CLAUDE.md definiert
 
 ## Beispiel
 
@@ -182,3 +157,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Fehlende Schulungsmaßnahmen:** Neue Pflichten in internen Richtlinien wirken nicht ohne Mitarbeiterschulungen. Hinweis in Checkliste.
 - **Versionskontrolle:** Jede Richtlinienänderung erfordert eine neue Versionsnummer und ein Änderungsprotokoll. Ohne Versionskontrolle ist die Richtlinie in BaFin-Prüfungen nur schwer nachzuweisen.
 - **Proportionalitätsgrundsatz vergessen:** Für kleine und mittelgroße Institute gelten teils erleichterte Anforderungen (§ 25a Abs. 1 S. 3 KWG); Redline ggf. anpassen.
+

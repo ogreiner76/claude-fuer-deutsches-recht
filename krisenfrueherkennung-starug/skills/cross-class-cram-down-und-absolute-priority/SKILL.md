@@ -82,58 +82,6 @@ Das Obstruktionsverbot ergänzt den Cram-Down: Eine Gruppe, die dem Plan zustimm
 
 ---
 
-## Vorgehen
-
-### Schritt 1: Gruppenanalyse und Mehrheitsprognose
-
-Vor Einleitung des Cram-Down-Verfahrens:
-
-1. Welche Gruppen werden zustimmen? → Verhandlungen führen
-2. Welche Gruppen werden ablehnen? → Warum? (sachlich vs. taktisch?)
-3. Ist die ablehnende Gruppe schlechtergestellt als im Alternativszenario? → Vergleichsrechnung
-4. Verletzt die Absolute Priority Rule die Rechte ranghöherer Gruppen?
-
-### Schritt 2: Vergleichsrechnung optimieren
-
-Die Vergleichsrechnung ist das Herzstück des Cram-Down-Verfahrens:
-
-```
-VERGLEICHSRECHNUNG (ablehnende Gruppe — Beispiel):
-
-Alternativszenario (Regelinsolvenzverfahren):
- Verwertungserlös Masse: EUR [___]
- Verfahrenskosten (Insolvenzverwalter, Gericht): EUR [___]
- Vorrangige Gläubiger: EUR [___]
- = Verbleibend für ablehnende Gruppe: EUR [___]
- = Quote: [x] %
-
-Planscenario:
- Auszahlung an ablehnende Gruppe gemäß Plan: EUR [___]
- = Quote Plan: [x] %
-
-Ergebnis: Plan-Quote [x] % ≥ Insolvenz-Quote [x] %
- → Schlechterstellungsverbot eingehalten
-```
-
-### Schritt 3: Antrag auf Bestätigung trotz ablehnender Gruppe
-
-Der Antrag muss dem Gericht darlegen:
-
-1. Welche Gruppen haben zugestimmt (mit ¾-Mehrheit)?
-2. Welche Gruppe lehnt ab?
-3. Warum ist das Schlechterstellungsverbot eingehalten (Vergleichsrechnung)?
-4. Warum ist die Absolute Priority Rule eingehalten?
-5. Liegt ein Obstruktionstatbestand vor (hilfsweise)?
-
-### Schritt 4: Verfahren vor dem Restrukturierungsgericht
-
-- Gerichtstermin zur Bestätigung
-- Ablehnende Gruppe hat Widerspruchsrecht
-- Gericht prüft von Amts wegen alle Bestätigungsvoraussetzungen
-- Beschluss ist anfechtbar (sofortige Beschwerde, § 66 StaRUG)
-
----
-
 ## Templates
 
 ### Muster: Vergleichsrechnung-Tabelle
@@ -190,14 +138,6 @@ ERGEBNIS:
 
 ---
 
-## Querverweise
-
-- → `restrukturierungsplan-architektur-paragraph-7ff-starug` — Planstruktur und Gruppenbildung
-- → `stabilisierungsanordnung-und-vollstreckungssperre` — Schutz während Cram-Down-Verfahren
-- → `restrukturierungsbeauftragter-und-sachwalter` — Kontrollfunktion im Cram-Down
-- → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Zugangsvoraussetzung
-- → `fortbestehensprognose-zweistufig` — Basis der Vergleichsrechnung
-
 ## Aktuelle Leitentscheidungen — Cross-Class Cramdown (Stand Mai 2026)
 
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (3. Kammer, Erster Senat — VARTA AG): Verfassungsbeschwerde von Minderheitsaktionären gegen die gerichtliche Bestätigung eines StaRUG-Restrukturierungsplans (Kapitalherabsetzung auf Null mit Bezugsrechtsausschluss) als unzulässig zurückgewiesen. Die Beschwerdeführer hatten Grundrechtsverletzungen nicht hinreichend dargelegt; die Beschwerde war nicht gegen § 66 Abs. 2 Nr. 3 StaRUG selbst gerichtet. Aus der Entscheidung folgt mittelbar: Der Cross-Class-Cramdown ist verfassungsrechtlich tragfähig, wenn die Schlechterstellungsprüfung wirksam greift.
@@ -214,10 +154,6 @@ ERGEBNIS:
 2. **Best-Interest-Test berechnet?** Liquidationsquote als untere Grenze für ablehnende Klasse.
 3. **Mehrheit der Klassen vorhanden?** Mindestens Haelfte aller Klassen muss zugestimmt haben.
 4. **Gleichbehandlung?** Kein Glaeubiger gleichen Rangs darf schlechter gestellt sein als abgelehnende Klasse.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Normen und Rechtsprechung
 

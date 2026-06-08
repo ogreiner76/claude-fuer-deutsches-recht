@@ -5,10 +5,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im JVEG Kostenpruefer-Plug
 
 # JVEG-Kostenpruefer — Allgemein
 
-## Arbeitsbereich
-
-Einstieg, Schnelltriage und Fallrouting im JVEG Kostenpruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,15 +12,6 @@ Einstieg, Schnelltriage und Fallrouting im JVEG Kostenpruefer-Plugin. Fragt Roll
 - Tragende Normen verifizieren: JVEG §§ 1, 2, 4, 5, 7, 8, 9, 10, 12, 13, 14, 19, 22, 23, RVG (Anwalt), ZSEG (alt), KostO/GNotKG, GG Art. 12 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Sachverständiger, Dolmetscher, Übersetzer, Geschäftsstelle, Kostenbeamter, Bezirksrevisor, Festsetzungsrichter, Erinnerung-/Beschwerdesenat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergütungsantrag, Stundennachweis, Reisekostenabrechnung, Festsetzungsbeschluss, Erinnerung, Beschwerde, Sachverständigenrechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
 ## Schnellstart-Workflow
 
@@ -247,12 +234,6 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 - Sachverstaendiger ordnet sich selbst in eine hoehere Honorargruppe ein, ohne Begrunndung; Gericht kuerzt auf naechste Gruppe.
 - Widerspruch gegen Kuerzung wird als formelle Beschwerde nach § 4 Abs. 3 JVEG eingereicht, obwohl Beschwerdesumme unterschritten ist.
 
-## Querverweise
-
-- `normenkontrolle-bauleitplanung` — Bei Sachverstaendigenkosten im oeffentlich-rechtlichen Normenkontrollverfahren.
-- `insolvenzrecht` — Bei Sachverstaendigenbeauftragung im Insolvenzverfahren.
-- `bereicherungs-und-anfechtungsrecht-pruefer` — Wenn zu Unrecht gezahlte JVEG-Verguetung zurueckgefordert werden soll.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
@@ -260,10 +241,3 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 - Anlage 1 JVEG (Honorargruppen und Stundensaetze) in der durch das Kosten- und Betreuungsrechtsaenderungsgesetz 2025 (KostRAeG 2025) zum 01.06.2025 geaenderten Fassung; pauschale Erhoehung der Sachverstaendigen-Stundensaetze um 9 Prozent (nur für Auftraege ab 01.06.2025). Synopse: https://ifsforum.de/fileadmin/user_upload/Aktuelles/Synopse_JVEG__2025.pdf
 - Saetze für Zeugen (§§ 19 bis 22 JVEG) durch KostRAeG 2025 unveraendert; Kilometerpauschale Zeugen 0,35 EUR (§ 5 Abs. 2 JVEG), Sachverstaendige 0,42 EUR (§ 5 Abs. 1 JVEG).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

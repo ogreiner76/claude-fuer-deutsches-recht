@@ -5,10 +5,6 @@ description: "Prueft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmen
 
 # Songtext, Lyrics und Sprachwerk
 
-## Arbeitsbereich
-
-Prueft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmente als Sprachwerke oder nicht schutzfaehige Redewendungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -86,3 +82,4 @@ Konkret zu prüfen:
 - § 2 UrhG (Werkbegriff)
 - § 2 Abs. 2 UrhG (persönliche geistige Schöpfung)
 - EuGH C-310/17 (Levola Hengelo)
+

@@ -5,10 +5,6 @@ description: "Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landes
 
 # Krankenhausfinanzierungsgesetz KHG Grundstruktur
 
-## Arbeitsbereich
-
-Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Investitionsfoerderung, Leistungsgruppen und Bund-Länder-Aufgabenteilung im Ueberblick. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,17 +69,10 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 - Plankrankenhausstatus mit GKV-Versorgungsvertrag verwechseln (§ 108 SGB V).
 - KHVVG-Aenderungen nicht in laufende Foerderbescheide einarbeiten.
 
-## Querverweise
-- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
-- `investitionsfoerderung-einzelfoerderung-pauschalfoerderung`
-- `krankenhausreform-leistungsgruppen-routing`
-- `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
-- `kommunale-klinik-beihilfe-und-eu-beihilfen`
-- `landesaufsicht-krankenhausaufsicht-beanstandung`
-
 ## Quellen Stand 06/2026
 - KHG i. d. F. KHVVG 12/2024.
 - Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
 - SGB V §§ 108, 109.
 - BSG, staend. Rspr. zu Versorgungsauftrag, Plankrankenhaus, Förderung.
 - BVerwG, staend. Rspr. zur Aufnahmeentscheidung Krankenhausplan.
+

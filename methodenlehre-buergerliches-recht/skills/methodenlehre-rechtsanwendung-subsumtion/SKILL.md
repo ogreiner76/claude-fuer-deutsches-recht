@@ -51,10 +51,6 @@ description: "Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbesta
 - Beweismittel werden nicht rechtzeitig gesichert (Zeugen nicht sofort vernommen, Belege nicht archiviert).
 - Darlegungsanforderungen werden nicht vollständig erfüllt, was zu einem prozessualen Nichtbeachten führt.
 
-## Output
-
-Das Skill liefert eine tatbestandsbasierte Beweismatrix: Anspruchsgrundlage, Tatbestandsmerkmale, Beweislast, vorhandene Beweismittel, fehlende Beweismittel und Maßnahmenplan. Das Ergebnis ist direkt schriftsatzfähig und dient als Grundlage für Klagebegründung, Erwiderung und Beweisantritte.
-
 ## Quellen
 
 - [§ 634 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__634.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

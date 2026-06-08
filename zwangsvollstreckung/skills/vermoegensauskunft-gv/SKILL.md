@@ -17,10 +17,6 @@ Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwing
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Sachstandsermittlung beim Schuldner über alle Vermögenswerte. Voraussetzung für gezielte Pfändung, wenn Bank, Arbeitgeber oder andere Werte unbekannt sind.
-
 ## Startet bei
 
 - Vollstreckbarer Titel + Klausel + Zustellung
@@ -93,10 +89,3 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Bei Verbraucherinsolvenz § 287a InsO: Schuldnerverzeichniseintragung kann Restschuldbefreiung gefährden – Schuldnerseite mitdenken.
 - Drittauskunft § 802l ZPO erst nach VA mit erfolglosem Ergebnis – nicht vorab.
 
-## Querverweise
-
-- `zv-titel-klausel-zustellung`
-- `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`, `zv-pfueb-mieter-finanzamt`
-- `zv-mobiliar-gv-auftrag`
-- `zv-kontensuche-drittschuldner`
-- `zv-elektronische-zustellung-2027`

@@ -5,10 +5,6 @@ description: "Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach �
 
 # UWG-Abmahnung – Erstellung und Prüfung
 
-## Arbeitsbereich
-
-Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach § 13 UWG sowie der dazugehörigen modifizierten Unterlassungserklärung mit Vertragsstrafe und der Schutzschrift. Lädt, wenn ein Mandat eine wettbewerbsrechtliche Abmahnung, eine strafbewehrte Unterlassungserklärung oder eine Schutzschrift zum Gegenstand hat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,6 +69,7 @@ Das Modell benötigt folgende Informationen:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 1. **Sachverhaltsaufnahme** (Tag 0): Wettbewerbsverstoß dokumentieren (Screenshot mit
@@ -100,15 +97,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
  erfasst?); ggf. Ablehnung mit Begründung.
 9. **Gerichtliche Durchsetzung** bei ausbleibender/unzureichender Reaktion: einstweilige
  Verfügung §§ 935, 940 ZPO oder Hauptsacheklage nach §§ 8, 14 UWG.
-
-## Ausgabeformat
-
-Das Modell gibt folgende Dokumente aus:
-
-- **Abmahnschreiben** (Urteilsstil, vollständiger Briefkopf, Datum, Fristsetzung, Anlage UE)
-- **Entwurf der Unterlassungserklärung** (separate Anlage, unterschriftsreif)
-- **Rechtliches Memo** (Gutachtenstil) mit Prüfung der Erfolgsaussichten
-- Optional: **Schutzschrift** (vgl. Skill einstweilige-verfügung)
 
 ## Beispiel
 

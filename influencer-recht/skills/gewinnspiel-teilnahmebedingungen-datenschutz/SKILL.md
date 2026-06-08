@@ -5,10 +5,6 @@ description: "Influencer-Recht: Gewinnspiele auf Social Media – rechtssichere 
 
 # Influencer-Recht: Gewinnspiel – Teilnahmebedingungen, Datenschutz
 
-## Arbeitsbereich
-
-Influencer-Recht: Gewinnspiele auf Social Media – rechtssichere Teilnahmebedingungen, Datenschutz, Impressumspflicht und Plattform-AGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,3 +77,4 @@ Gewinnspiele sind ein rechtlich komplexes Feld mit mehreren Schutzregimen:
 - DSGVO-Datenschutztext für Gewinnspiel
 - Plattform-Compliance-Checkliste
 - Gewinnübergabe-Protokoll
+

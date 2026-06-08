@@ -5,10 +5,6 @@ description: "Prüft BAföG-Schnittstellen zu Hochschulstatus im Hochschulrecht 
 
 # BAföG Und Hochschulstatus
 
-## Arbeitsbereich
-
-Prüft BAföG-Schnittstellen zu Hochschulstatus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **BAföG Und Hochschulstatus**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **BAföG Und Hochschulstatus**. Prüfe diese Anker am Sachverhalt;
 - `§ 70 Abs. 1 VwGO` — Widerspruch.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz bei Vollziehung.
 - `§ 123 Abs. 1 VwGO` — vorläufige Zulassung/Statussicherung.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

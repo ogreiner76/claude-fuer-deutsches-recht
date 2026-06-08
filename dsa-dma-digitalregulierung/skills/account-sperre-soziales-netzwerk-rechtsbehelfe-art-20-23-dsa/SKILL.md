@@ -5,10 +5,6 @@ description: "Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa: ordn
 
 # Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA
 
-## Arbeitsbereich
-
-Account Sperre Soziales Netzwerk Rechtsbehelfe Art 20 23 Dsa: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -111,10 +107,6 @@ Bei Sperrgrund "illegal content" prüfen, ob tatsächlich Straftatbestand erfül
 - §§ 307, 241 Abs. 2 BGB — AGB-Kontrolle und Rücksichtnahmepflichten
 - §§ 935, 940 ZPO — Einstweilige Verfügung
 - Art. 11 GRCh — Meinungsfreiheit
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Faktische Updates (Stand 05/2026)
 

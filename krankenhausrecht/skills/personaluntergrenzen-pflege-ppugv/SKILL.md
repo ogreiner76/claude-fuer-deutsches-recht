@@ -5,10 +5,6 @@ description: "Pflegepersonaluntergrenzen-Verordnung (PpUGV): pflegesensitive Ber
 
 # Personaluntergrenzen Pflege PpUGV
 
-## Arbeitsbereich
-
-Pflegepersonaluntergrenzen-Verordnung (PpUGV): pflegesensitive Bereiche, Quotenberechnung, Schichten, Meldepflicht, Sanktionen und Strukturpruefung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,14 +73,6 @@ Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB 
 - Notfall-/Ausnahmetatbestaende nicht dokumentiert.
 - Bei pflegesensitiven Bereichen falsche OPS-Zuordnung.
 
-## Querverweise
-- `leistungsgruppen-und-qualitaetskriterien-reformlogik`
-- `arbeitszeit-bereitschaftsdienst-rufdienst`
-- `pflegebudget-vereinbarung-nachweis-risiken`
-- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
-- `intensivmedizin-beatmung-verlegung`
-- `landesaufsicht-krankenhausaufsicht-beanstandung`
-
 ## Quellen Stand 06/2026
 - SGB V §§ 137i, 137k.
 - PpUGV (Live-Check bundesgesundheitsministerium.de, gkv-spitzenverband.de).
@@ -102,3 +90,4 @@ Konkret zu prüfen:
 - Ärztegesetzgebung
 - MBO-Ä
 - PpUGV
+

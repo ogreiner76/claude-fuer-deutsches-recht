@@ -90,13 +90,6 @@ Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 - **Mandatsannahme ohne AVV** bei Cloud-Tooling – § 43a Abs. 2 BRAO, § 203 StGB.
 - **Vermischung Vertrags- und Aufsichtsrecht** im selben Schriftsatz.
 
-## Querverweise
-
-- `ce-zeichen-fehlgebrauch-und-abmahnung`
-- `cra-produkt-mit-digitalen-elementen`
-- `data-act-roboterdaten`
-- `chirurgie-und-op-robotik` (sektoral)
-
 ## Mandats-Kickoff-Checkliste
 
 - [ ] Rollenmatrix erstellt (wer ist Hersteller, Anbieter, Integrator, Betreiber, Importeur, Distributor)
@@ -128,3 +121,4 @@ Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 - DSGVO; BDSG.
 - ProdSG; ProdHaftG; BGB §§ 823, 831.
 - Live-Verifikation in eur-lex.europa.eu, BfJ, BSI, BfDI; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

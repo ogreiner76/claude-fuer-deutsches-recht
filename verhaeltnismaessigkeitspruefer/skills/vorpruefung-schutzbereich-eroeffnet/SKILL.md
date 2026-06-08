@@ -47,10 +47,6 @@ Nicht erfasst sind:
 
 Wenn der Schutzbereich nicht eroeffnet ist, gibt es weder Eingriff noch Rechtfertigungsbedarf. Wenn er eroeffnet ist, weiter mit `vorpruefung-eingriff-klassisch-modern`.
 
-## Output
-
-Knappe Pruefnotiz in vier Zeilen: persoenlich erfasst (ja/nein), sachlich erfasst (ja/nein), einschlaegige Spezialgrundrechte, Begruendung in einem Satz.
-
 ## Quellen mit Schlagwort
 
 - BVerfGE 7, 198 (Lueth-Urteil, Drittwirkung der Grundrechte)
@@ -61,3 +57,4 @@ Knappe Pruefnotiz in vier Zeilen: persoenlich erfasst (ja/nein), sachlich erfass
 - BVerfGE 105, 252 (Glykol-Warnung, faktischer Eingriff)
 - BVerfGE 120, 274 (Online-Durchsuchung, Computer-Grundrecht)
 - BVerfGE 129, 78 (Cassina, EU-juristische Personen)
+

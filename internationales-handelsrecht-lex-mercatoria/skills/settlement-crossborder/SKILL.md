@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Ve
 
 # Grenzüberschreitende Vergleiche
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Vergleiche in internationalen Streitigkeiten können als privatrechtlicher Vertr
 - Steuerberater einbeziehen: Quellensteuerrisiko bei grenzüberschreitender Vergleichszahlung
 - Ratenzahlung: Vollstreckungsverzicht nur für pünktliche Raten; bei Verzug sofortige Vollstreckung
 
-## Output
-
-- Consent-Award-Request-Muster
-- Full-and-Final-Release-Klausel-Muster
-- Ratenzahlungsvergleich-Struktur
-
-## Quellenregel
-
-BGB § 779: gesetze-im-internet.de. NY Convention: newyorkconvention.org. Singapur-Konvention: uncitral.un.org. ZPO § 794: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

@@ -5,10 +5,6 @@ description: "Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführu
 
 # Beschreibung und Zeichnungen prüfen
 
-## Arbeitsbereich
-
-Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele einer Patentanmeldung auf Offenbarungsstütze, Verständlichkeit, Anspruchskonsistenz, Varianten und formale Lücken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -29,13 +25,6 @@ Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele e
 8. **Stütze:** jedes Anspruchsmerkmal muss in der Beschreibung unmittelbar auffindbar sein.
 9. **Keine späteren Überraschungen:** keine Merkmale nur in Zeichnungen verstecken, keine Widersprüche zwischen Anspruch und Beschreibung.
 
-## Output
-
-- Tabelle `Anspruchsmerkmal | Stütze in Beschreibung/Figur | Problem | Korrekturvorschlag`.
-- Bezugszeichenliste.
-- Liste fehlender Figuren oder technischer Angaben.
-- Mandantenrückfragen.
-
 ## Typische Korrekturen
 
 - unklare Begriffe definieren.
@@ -52,14 +41,6 @@ Prüft Beschreibung, Zeichnungen, Bezugszeichenliste und Ausführungsbeispiele e
 - **Klarheit Anspruch (Art. 84 EPÜ):** "Unmittelbar und eindeutig" entnehmbar; vage Begriffe wie "im Wesentlichen", "etwa" prüfen.
 - **Zeichnungen:** Bezugszeichen konsistent mit Beschreibung; nur als Erläuterung, nicht zur Anspruchsbegrenzung.
 - Tipp: Bei mehreren Ausführungsbeispielen Unteransprüche entsprechend gestaffelt anlegen — gibt im Einspruch/Nichtigkeitsverfahren Rückzugsposition.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

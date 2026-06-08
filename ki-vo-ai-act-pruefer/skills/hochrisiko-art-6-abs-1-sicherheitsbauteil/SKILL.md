@@ -5,10 +5,6 @@ description: "Unternehmen integriert KI-Komponente in ein reguliertes Produkt (M
 
 # Hochrisiko-KI: Sicherheitsbauteil — Art. 6 Abs. 1 KI-VO
 
-## Zweck
-
-Art. 6 Abs. 1 KI-VO ist einer von zwei Pfaden zur Hochrisiko-Einstufung. Ein KI-System ist Hochrisiko, wenn es Sicherheitsbauteil eines Produkts ist, das unter Anhang-I-Sektorrecht fällt und einer Drittprüfung unterzogen werden muss. Dieser Skill prüft beide Voraussetzungen im Entscheidungsbaum.
-
 ## Zwei kumulativ zu erfüllende Voraussetzungen
 
 ### Voraussetzung 1 — Sicherheitsbauteil oder Produkt selbst
@@ -86,9 +82,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -115,3 +108,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

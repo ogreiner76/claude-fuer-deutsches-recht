@@ -5,10 +5,6 @@ description: "Abschluss-Memo China-Deal: Checkliste für finale Dokumentation vo
 
 # Abschluss-Memo China-Deal: Signing/Closing-Checkliste
 
-## Arbeitsbereich
-
-Abschluss-Memo China-Deal: Checkliste für finale Dokumentation vor Signing/Closing, AWV-Meldung, BAFA-Genehmigungen, FDI-Screening-Clearance, IP-Registrierung, Datenschutz-Compliance (PIPL/DSGVO), LkSG-Risikoanalyse abgeschlossen, Notarielle Beglaubigungen CN, Post-Closing-Obligations. Output: Abschluss-Memo-Template und Post-Closing-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,13 +79,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
-
-## Output
-
-Prüfbericht Abschlussmemo China Deal, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
 
 ## Quellen
 

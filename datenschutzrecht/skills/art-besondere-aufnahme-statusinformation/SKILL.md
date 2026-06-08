@@ -19,9 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-**DSV ART Besondere Aufnahme Statusinformation** ordnet den Fall über die tragenden Prüfungslinien: Bewertet einen Datenschutzvorfall mit besonderen Kategorien, Erstellt nach einem gemeldeten Datenschutzvorfall eine, Prüft die Ausnahmen von der Benachrichtigungspflicht nach. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -39,6 +36,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsv-art-9-besondere-kategorien`
@@ -70,10 +68,6 @@ Nicht aus Modellwissen; insbesondere zu Gesundheitsdaten-Leaks und Bußgeldhöhe
 ## Zentrale Normen
 
 Art. 9 Abs. 1; Art. 9 Abs. 2; Art. 34 Abs. 1; Art. 83 Abs. 5 lit. a DSGVO; Erwägungsgrund 75.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Schutzbedarfsanalyse Art. 9
 
@@ -121,10 +115,6 @@ Rechtsprechung wird nicht aus Modellwissen zitiert; aktuelle Entscheidungen des 
 ## Zentrale Normen
 
 Art. 4 Nr. 12; Art. 33 Abs. 1; Art. 33 Abs. 3; Art. 33 Abs. 5; Art. 34 Abs. 1 DSGVO; § 42 BDSG.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Statusinformation (Stilreferenz Fließtext)
 
@@ -190,10 +180,6 @@ Nicht aus Modellwissen; insbesondere zu lit. a Verschlüsselungsstandards und li
 
 Art. 34 Abs. 3 lit. a-c; Art. 5 Abs. 2 DSGVO; Erwägungsgrund 86.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Ausnahmenprüfung
 
 lit. a: Verschlüsselung nachweisen — Algorithmus, Schlüsselverwaltung, Stand der Technik (BSI-Empfehlungen). Reasoning vor Conclusion.
@@ -243,10 +229,6 @@ Nicht aus Modellwissen; insbesondere zur Form der Benachrichtigung und zu Sammel
 ## Zentrale Normen
 
 Art. 12; Art. 34 Abs. 1; Art. 34 Abs. 2; Art. 34 Abs. 3 DSGVO; § 29 BDSG.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Benachrichtigungsschreiben
 
@@ -312,10 +294,6 @@ Nicht aus Modellwissen; aktuelle Entscheidungen zur Schwellenwertentscheidung Ar
 
 Art. 34 Abs. 1; Art. 5 Abs. 2 DSGVO; Erwägungsgrund 75; 76; 86; EDSA-Leitlinien 9/2022.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Bewertungsraster
 
 Faktor 1 Schwere: gering / mittel / hoch / sehr hoch.
@@ -365,3 +343,4 @@ Conclusion: hohes Risiko ab Schwere hoch + Wahrscheinlichkeit mittel; bei Art. 9
 - Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
 - Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
 - Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
+

@@ -5,10 +5,6 @@ description: "Strukturiert Spezial-AIF für PE/Private Credit mit Anlegeraufnahm
 
 # Spezial-AIF: professionelle und semiprofessionelle Anleger
 
-## Arbeitsbereich
-
-Strukturiert Spezial-AIF für PE/Private Credit mit Anlegeraufnahme, Anlagebedingungen und Berichtspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,15 +81,6 @@ Equalisation Late Closing (EN/DE):
 - Anlagebedingungen und LPA widersprechen sich (z. B. unterschiedliche Investment-Period-Dauer).
 - AIFMD-Annex-IV-Reporting verspätet — Bußgeldgefahr.
 - Versicherer-LP-Aufnahme ohne AnlV-Klassifizierung — Veto durch Anlageabteilung.
-
-## Querverweise
-
-- pe-004 für KAGB-Scope-Frage.
-- pe-006 für ELTIF, wenn Retail-Zugang gewünscht.
-- pe-008 für KVG-Erlaubnis.
-- pe-009 für Verwahrstelle.
-- pe-011 für Subscription / Side Letter.
-- pe-013 für Capital Calls und Defaulting LP.
 
 ## Quellen Stand 06/2026
 

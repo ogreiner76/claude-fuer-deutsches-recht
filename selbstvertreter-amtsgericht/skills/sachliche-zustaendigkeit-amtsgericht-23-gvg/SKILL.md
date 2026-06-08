@@ -81,14 +81,7 @@ Falsche Zuständigkeit ist nicht das Ende. Auf Ihren Antrag verweist das Gericht
 - "Familiengerichts-Sachen kann ich selbst betreiben." → Bei Ehesachen und Folgesachen Anwaltszwang § 114 FamFG.
 - "Die Grenze ist 5.000 EUR." → Veraltet. Seit 01.01.2026 sind es 10.000 EUR.
 
-## Querverweise
-
-- `ausnahmen-streitwertgrenze-23-nr-2-gvg` — Mietsache, Reisevertrag.
-- `oertliche-zuständigkeit-12-37-zpo` — Welches AG raeumlich?
-- `verbrauchergerichtsstand-29c-zpo` — Verbraucher-Vorteile.
-- `klage-streitwert-angabe-3-zpo` — Streitwert berechnen.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten je Streitwert.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 23 Nr. 1 GVG aktuelle Fassung: AG-Wertgrenze 10.000 EUR (Anhebung von 5.000 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz). Bei Klagen aus der Uebergangszeit Stichtag und Anhaengigkeit pruefen.
+

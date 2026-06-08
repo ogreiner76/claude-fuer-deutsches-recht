@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Bruecken im Freivorbau- oder 
 
 # Bauueberwachung Bruecke Spannbeton Vorschub (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Bruecken im Freivorbau- oder Vorschubverfahren — Spannstahlpruefung nach ZTV-Ing und DIN EN 1992-2, Pressenprotokoll Vorspannung, Betonguete C40/50 bis C50/60, Lageraus-tausch nach DIN EN 1337 und Messung Gebrauchstauglichkeit Durchbiegung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Autobahn- und Bahninfrastrukturbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Gebrauchstauglichkeit und Rissbeschraenkung nach DIN EN 1992-2 (Eurocode 2 Bruec
 - Betonguete unter C45/55: Wuerfelprobe Unterschreitung, Statiker entscheidet Rueckbau oder Ertuechtigung
 - Lagerfehler beim Einbau: Lagerpressung ungleichmaessig, Traeger kippt beim Taktschieben
 
-## Output
-
-Pressenprotokolle je Litzenbuendel und Betoniertakt. Betonguete-Pruefprotokolle C45/55.
-Spannkanal-Dichtheitspruefprotokolle. Traeger-Geometriemessung nach Vorschub.
-Lagerabnahme-Protokoll. Abnahmeprotokoll Bruecke nach VOB/B und ZTV-Ing.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Lagerabnahme-Protokoll. Abnahmeprotokoll Bruecke nach VOB/B und ZTV-Ing.
 - [ZTV-Ing Teil 4 Spannbetonbau](https://www.gesetze-im-internet.de/)
 - [DIN EN 1337 Lager im Bauwesen](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 41/08 Brueckenbau Haftung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+41/08)
+

@@ -5,10 +5,6 @@ description: "Lerncoach für Schuldrecht BT: Erklärungsebenen, Klausuraufbau, F
 
 # Workflow: Anfängercoach Schuldrecht BT
 
-## Zweck
-
-Einsteiger in das BGB Besonderer Teil begleiten: Prüfungsschemata erklären, Klausurfälle durcharbeiten, typische Fehler aufzeigen und Selbsttests anbieten. Zielgruppe: Examenskandidaten und Berufseinsteiger.
-
 ## Normanker
 
 - §§ 433 ff. BGB: Kaufrecht (Grundfall für alle Schuldrecht-BT-Themen)
@@ -43,25 +39,13 @@ Einsteiger in das BGB Besonderer Teil begleiten: Prüfungsschemata erklären, Kl
 - Prüfungsschemata dürfen nicht auswendig gelernt, sondern müssen verstanden werden.
 - Schuldrecht BT baut auf AT-Kenntnissen auf; Lücken im AT frühzeitig schließen.
 - Klausurtechnik (Gutachtenstil, Ampelregel) separat üben.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Lernplan mit Priorisierung
-- Erklärung des Themas mit Beispielfällen
-- Prüfungsschema zum Download
-- Selbsttest mit Musterlösung
-
-## Qualitätsregeln
-
-- Erklärungen immer mit konkretem Beispiel verknüpfen.
-- Fehlerklassifikation (Verständnisfehler vs. Aufbaufehler vs. Lücken) vornehmen.
-- Examensfokus: Was kommt im Examen wirklich vor?
 
 ## Anschluss-Skills
 
@@ -75,13 +59,6 @@ Einsteiger in das BGB Besonderer Teil begleiten: Prüfungsschemata erklären, Kl
 - https://www.gesetze-im-internet.de/bgb/
 - https://www.bundesgerichtshof.de/
 - https://dejure.org/gesetze/BGB
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

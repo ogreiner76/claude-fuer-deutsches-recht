@@ -5,10 +5,6 @@ description: "Auskunftsersuchen nach Art. 15 DSGVO prüfen und beantworten wenn 
 
 # DSGVO-Auskunftsrecht (Art. 15 DSGVO)
 
-## Zweck
-
-Dieser Skill begleitet Verantwortliche (und deren Berater) bei der vollständigen und fristgerechten Bearbeitung von Auskunftsersuchen nach Art. 15 DSGVO. Er deckt ebenso die Beratung betroffener Personen ab, die ein Auskunftsverlangen stellen wollen. Anwendungsfälle: Unternehmen erhält Auskunftsanfrage eines Kunden, ehemaligen Mitarbeiters oder Behörde; Arbeitnehmer fragt nach gespeicherten HR-Daten; Betroffener begehrt Auskunft von Auskunftei.
-
 ## Eingaben
 
 Das Modell benötigt folgende Informationen:
@@ -41,6 +37,7 @@ Das Modell benötigt folgende Informationen:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Schritt 1 – Eingangserfassung und Fristsetzen**
@@ -67,13 +64,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 **Schritt 6 – Dokumentation**
 - Interne Dokumentation der Anfrage, Prüfschritte, Ergebnis und Versanddatum (Nachweispflicht Art. 5 Abs. 2 DSGVO).
-
-## Ausgabeformat
-
-- **Auskunftsschreiben** (Brief oder E-Mail) an Betroffenen: strukturierte Tabelle der Datenkategorien, Zwecke, Empfänger, Fristen; Anlage: Datenkopie.
-- **Internes Prüfmemo** (bei komplexen Fällen): Tatbestand, Rechtslage, Ausnahmeprüfung, Ergebnis, Fristprotokoll.
-- **Ablehnungsschreiben** mit Begründung und Belehrung über Beschwerderecht.
-- Stil: klar, präzise, ohne Fachjargon gegenüber dem Betroffenen; juristisch präzise im Mandanten-Memo.
 
 ## Beispiel
 
@@ -213,3 +203,4 @@ Ihnen hiermit Auskunft gemäß Art. 15 DSGVO:
 [Unterschrift, Datenschutzbeauftragter]
 [DATUM]
 ```
+

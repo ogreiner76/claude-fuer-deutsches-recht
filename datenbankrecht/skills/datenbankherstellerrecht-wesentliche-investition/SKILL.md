@@ -59,14 +59,6 @@ Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und A
 - Ein ausgelagerter Datenbankbetreiber (Dienstleister) ist nicht Hersteller, wenn er kein Investitionsrisiko trägt.
 - Parallele Datenbankwerke können daneben geschützt sein — die Prüfung muss beide Schutztatbestände getrennt erfassen.
 
-## Output
-
-- Investitionsprotokoll-Vorlage (Kategorisierung nach Beschaffung/Überprüfung/Darstellung)
-- Herstellerrechtsgutachten mit Subsumtion nach § 87a UrhG
-- Schutzdauer-Kalender (Fristbeginn, letzte wesentliche Änderung, Ablauf)
-- Verletzungsanalyse mit Empfehlung (Abmahnung, EV, Klage)
-- Lizenzgebühren-Berechnungshinweise für Schadensersatz (§ 97 UrhG)
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +67,4 @@ Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und A
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [EuGH C-545/07 Apis/Lakorda — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
+

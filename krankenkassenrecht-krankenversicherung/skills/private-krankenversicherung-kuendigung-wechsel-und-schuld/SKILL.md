@@ -5,10 +5,6 @@ description: "PKV kündigen, in GKV wechseln oder PKV-Schulden bereinigen: Vorau
 
 # PKV: Kündigung, Wechsel und Schulden
 
-## Arbeitsbereich
-
-PKV kündigen, in GKV wechseln oder PKV-Schulden bereinigen: Voraussetzungen, Kündigungsfristen, Schuldenbereinigung und Wechseloptionen zur GKV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Wer die PKV kündigen oder in die GKV wechseln will, stößt auf enge Voraussetz
 - [BGH IV ZR 62/16](https://www.bundesgerichtshof.de/DE/Entscheidungen/entscheidungen_node.html)
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
 - [dejure.org § 205 VVG](https://dejure.org/gesetze/VVG/205.html)
+

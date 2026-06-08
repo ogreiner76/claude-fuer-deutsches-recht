@@ -5,9 +5,6 @@ description: "Sportr Athletenvertrag im Sportrecht: prüft konkret Profi-Sportle
 
 # Sportr Athletenvertrag
 
-## Arbeitsbereich
-
-**Sportr Athletenvertrag** ordnet den Fall über die tragenden Prüfungslinien: Profi-Sportler will Verein wechseln und braucht Prüfung von, Bauleiter Athletenvertrag, eSports-Organisator oder Verein fragt ob DOSB-Anerkennung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Sportr Athletenvertrag im Sportrecht: prüft konkret Profi-Sportle
 - Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-sportrecht-transferklausel`
@@ -30,10 +28,6 @@ description: "Sportr Athletenvertrag im Sportrecht: prüft konkret Profi-Sportle
 **Fokus:** Profi-Sportler will Verein wechseln und braucht Prüfung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-Statuten Wechselgebühr. Normen FIFA RSTP Art. 17 18 UEFA-Transferregeln DFB-Lizenzordnung. Prüfraster Ausstiegsklausel-Hoehe Transfer-Fenster Solidaritaetsmechanismus Vertragsbruch-Risiko. Output Vertrags-Prüfungsbericht Verhandlungs-Strategie Klage-Optionen. Abgrenzung zu fachanwalt-sportrecht-spielervertrag (Arbeitsvertrag) und fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren (Schiedsgericht).
 
 ### Spieler-Transfer-Klausel
-
-## Zweck
-
-Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 
 ## 1) Eingangs-Abfrage
 
@@ -190,13 +184,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
@@ -208,10 +195,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 **Fokus:** eSports-Organisator oder Verein fragt ob DOSB-Anerkennung möglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist. § 52 AO Gemeinnuetzigkeit § 21 BGB Vereinsrecht. Normen §§ 21 ff. BGB § 52 AO DOSB-Satzung. Prüfraster DOSB-Aufnahme-Kriterien Gemeinnuetzigkeits-Prüfung Vereinstyp-Wahl. Output Rechtsstruktur-Empfehlung Satzungs-Entwurf Finanzamt-Antrag. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und mandat-triage-sportrecht (Erstabfrage).
 
 ### eSports-Verein — Vereinsrecht und DOSB-Anerkennung
-
-## Zweck
-
-Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Bereich in einen bestehenden Sportverein integrieren. Zwei zentrale Rechtsfragen: (1) Ist eSports "Sport" i.S.d. § 52 AO (gemeinnützig)? — aktuell strittig. (2) DOSB / LSB-Anerkennung als Spitzenverband: nicht erfolgt.
 
 ## Eingaben
 
@@ -300,12 +283,6 @@ Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Berei
 | Werbung / Sponsoring überwiegt | Wirtschaftsbetrieb statt Idealverein | Klärung läuft | Idealzweck-Schwerpunkt |
 | Jugendschutz-Verstoß (USK) | Vereinsaufsicht; Imageschaden | Compliance läuft | USK-konforme Spiele |
 
-## Querverweise
-
-- `fachanwalt-sportrecht-orientierung` — Triage
-- `fachanwalt-sportrecht-transferklausel` — bei Profi-eSports-Verträgen
-- `fachanwalt-steuerrecht-...` (steuerrecht-anwalt-und-berater) — Gemeinnützigkeits-Beratung
-
 ## Quellen und Updates
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -322,3 +299,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - § 51 AO — allgemeine Gemeinnuetzigkeitsvoraussetzungen
 - § 67a AO — Sportveranstaltungen-Steuerbefreiung
 - § 58 Nr. 7 AO — Mittelbeschaffungskoerperschaft als Ausweg
+

@@ -84,15 +84,6 @@ Verfassungskonforme Auslegung: Von mehreren vertretbaren Auslegungen ist die mit
 
 Kritik: Wenn jede Auslegung als verfassungs- oder unionsrechtskonform gerechtfertigt werden kann, verliert das Gesetz seine Bindungskraft. Die Wortlaut-Grenze ist daher ernst zu nehmen.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Grundkanon.
-- `wortlaut-grammatikalische-auslegung` — Grenze der konformen Auslegung.
-- `historische-auslegung` — bei EU-Umsetzungsgesetzen.
-- `teleologische-auslegung` — Schutzzweck-Argument.
-- `analogie-und-teleologische-reduktion` — wenn die Wortlaut-Grenze erreicht wird.
-- `rechtspluralismus-und-mehrebenen-system` — theoretische Einordnung.
-
 ## Quellen und Stand 05/2026
 
 - BVerfGE 7, 198 — Lueth (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%207%2C%20198).
@@ -102,3 +93,4 @@ Kritik: Wenn jede Auslegung als verfassungs- oder unionsrechtskonform gerechtfer
 - §§ 138, 242, 305 ff., 312 ff., 327 ff., 651a ff., 823, 826 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026. Rechtsprechungslinien laufen weiter; vor Verwendung live verifizieren.
+

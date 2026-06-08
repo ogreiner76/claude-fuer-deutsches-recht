@@ -18,12 +18,7 @@ Arbeitsfokus: **Anlagenverzeichnis für Gericht, Kanzlei und intern**. Prüfe di
 - `§ 299 Abs. 1 ZPO` — Akteneinsicht.
 - `§ 371 Abs. 1 ZPO` — Augenschein.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Ein gutes Anlagenverzeichnis ist nicht nur Inhaltsverzeichnis. Es ist die Brücke zwischen Schriftsatz, Gerichtspaket, Kanzleiakte und späterem Kosten-/Nachreichungsstreit.
 
 ## Mindestinput
 
@@ -77,3 +72,4 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 - Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
 - Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
 - Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
+

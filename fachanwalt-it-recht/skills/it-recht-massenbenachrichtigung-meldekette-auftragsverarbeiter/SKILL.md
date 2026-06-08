@@ -5,9 +5,6 @@ description: "Massenbenachrichtigung Meldekette Auftragsverarbeiter im Plugin Fa
 
 # Massenbenachrichtigung Meldekette Auftragsverarbeiter
 
-## Arbeitsbereich
-
-**Massenbenachrichtigung Meldekette Auftragsverarbeiter** ordnet den Fall über die tragenden Prüfungslinien: Steuert die Massenbenachrichtigung tausender oder Millionen, Steuert die Meldekette in einer, Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Massenbenachrichtigung Meldekette Auftragsverarbeiter im Plugin Fa
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsv-massenbenachrichtigung`
@@ -57,10 +55,6 @@ Nicht aus Modellwissen; insbesondere zu Sammelklagen nach Massendatenpannen vor 
 ## Zentrale Normen
 
 Art. 12 Abs. 1; Art. 34 Abs. 1; Art. 34 Abs. 2; Art. 5 Abs. 2 DSGVO.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Versandplan
 
@@ -112,10 +106,6 @@ Nicht aus Modellwissen; insbesondere zu Fristberechnung Art. 33 Abs. 1 DSGVO bei
 ## Zentrale Normen
 
 Art. 28 Abs. 3; Art. 33 Abs. 2; Art. 82 DSGVO; § 280 BGB.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Muster Meldung Auftragsverarbeiter
 
@@ -175,10 +165,6 @@ Nicht aus Modellwissen; insbesondere zu One-Stop-Shop-Streitigkeiten und Drittst
 
 Art. 33; Art. 49; Art. 56; Art. 60 DSGVO; UK GDPR; Swiss DSG.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Meldelandkarte
 
 Spalte 1: Land; Spalte 2: Behörde; Spalte 3: Pflicht oder freiwillig; Spalte 4: Frist; Spalte 5: Sprache; Spalte 6: Verantwortlicher intern; Spalte 7: Status.
@@ -222,10 +208,6 @@ Nicht aus Modellwissen; aktuelle Stände zur NIS-2-Umsetzung in Deutschland vor 
 ## Zentrale Normen
 
 Art. 33 DSGVO; § 8b BSIG; § 168 TKG; NIS-2-Richtlinie; BAIT.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Mehrfach-Meldelandschaft
 
@@ -279,10 +261,6 @@ Nicht aus Modellwissen; insbesondere zur Reichweite des § 203 Abs. 3 Satz 2 StG
 
 § 203 Abs. 1; § 203 Abs. 3; § 203 Abs. 4 StGB; Art. 33 DSGVO; § 43a Abs. 2 BRAO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Strafbarkeitsraster
 
 Tathandlung: Offenbaren / unbefugt Zugänglichmachen.
@@ -302,3 +280,4 @@ Berufsrecht: zusätzliche Meldung an Kammer; Disziplinarverfahren möglich.
 
 - `dsv-art-9-besondere-kategorien` deckt sensible Daten ab.
 - `dsv-sozialdaten-sgb` deckt Sozialdaten ab.
+

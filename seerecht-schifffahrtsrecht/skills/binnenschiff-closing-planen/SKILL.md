@@ -5,10 +5,6 @@ description: "Binnenschiff: Closing eines Binnenmotorgueterschiff; Tanker oder F
 
 # Binnenschiff – Closing planen
 
-## Arbeitsbereich
-
-Binnenschiff: Closing eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Der Kauf eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff soll abgeschl
 - Zahlung ohne simultane Loeschung: Hypothek bleibt trotz Zahlung eingetragen.
 - ISM-/MLC-Luecke nach Eigentumsuebergang; Port-State-Detention droht.
 - Nachranghypotheken blockieren Closing wenn Erstrangglaeubigerbank nicht kooperiert.
-
-## Output
-Closing-Checkliste und Zeitplan mit Abhängigkeiten für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
 
 ## Vertiefung: Closing-Mechanismus im Schiffskauf
 Das Closing eines Schiffskaufs ist der Moment wo Eigentum und Risiko auf den Käufer übergehen. Technisch besteht das Closing aus: (1) Zahlung des Kaufpreises (oder freigabe aus Escrow); (2) Übergabe der Delivery Documents; (3) Eintragung des Eigentumsübergangs im Schiffsregister (SchRG § 2). Alle drei Schritte sollen simultan erfolgen; in der Praxis nutzt man Softclose-Mechanismen.

@@ -5,10 +5,6 @@ description: "Pfandrecht an Luftfahrzeugen: Zuständigkeit AG Braunschweig vs. I
 
 # Registerpfandrecht – Zuständigkeit prüfen
 
-## Arbeitsbereich
-
-Pfandrecht an Luftfahrzeugen: Zuständigkeit AG Braunschweig vs. ICAO-Register vs. Cape-Town-Registry. Prueft LuftFzgG § 1 AG-Braunschweig-Registerzuständigkeit Cape-Town-Convention Art. 16 und Kollisionsrecht und liefert Zuständigkeits-Vermerk für nationales und internationales Pfandrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,6 +43,7 @@ LuftFzgG §§ 1-12 Cape Town Convention Art. 16 29 ZPO InsO – die einschlägig
 - **LuftFzgG § 4**: Pfandrechtseintragung beim AG Braunschweig; konstitutive Wirkung.
 - **LuftFzgG § 25**: Pfandrechtsvollstreckung; Verwertung durch Versteigerung.
 - **ZPO § 864**: Pfändung eingetragener Luftfahrzeuge; besonderer Vollstreckungsweg.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -57,6 +54,7 @@ LuftFzgG §§ 1-12 Cape Town Convention Art. 16 29 ZPO InsO – die einschlägig
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist die Rangfolge konkurrierender Pfandrechte (national vs. Cape Town) klar ermittelt?
 8. Ist das Pfandrecht bei Weiterveräußerung des Luftfahrzeugs erloschen (LuftFzgG § 27)?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -74,9 +72,6 @@ Die Zuständigkeitsfrage ist bei luftrechtlichen Mandaten häufig das erste Hind
 - **EASA vs. nationale Behörde**: Seit Inkrafttreten der EASA-Basisverordnung (VO 2018/1139) hat EASA Direktzuständigkeit für Zulassungen von Luftfahrzeugen und Organisationen; das LBA bleibt für betriebliche Zulassungen zuständig.
 - **Verwaltungsgericht vs. Zivilgericht**: Bescheide einer Luftfahrtbehörde sind vor dem VG anzufechten; privatrechtliche Ansprüche (Leasingstreit Schaden) gehören vor die Zivilgerichte.
 
-## Output
-
-Strukturierter Vermerk zu Registerpfandrecht – Zuständigkeit prüfen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Registerauszug-Analyse mit Rangfolge. Vollstreckungsfahrplan.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -103,3 +98,4 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

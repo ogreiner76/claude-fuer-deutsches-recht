@@ -5,10 +5,6 @@ description: "AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und
 
 # Agb Im Leasingvertrag Fortwirkung
 
-## Arbeitsbereich
-
-AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Maengelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung Mehrkilometerregelung. Liefert Klauselentwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,7 +51,3 @@ AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und Finance-Leasi
 3. Restwertklausel transparent?
 4. Mehrkilometerregelung angemessen?
 
-## Output
-
-- Klauselraster.
-- Schriftsatzbaustein.

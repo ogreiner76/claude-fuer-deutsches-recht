@@ -5,10 +5,6 @@ description: "Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach A
 
 # Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen
 
-## Zweck
-
-Dieser Skill ordnet das Verzeichnis von Verarbeitungstaetigkeiten (Records of Processing Activities, kurz RoPA) nach Art. 30 DSGVO ein. Er erklaert Pflichtige, Inhalte, Form und Verhaeltnis zu anderen Dokumentationspflichten (DSFA, AVV, RoPA), damit Kanzleien und Datenschutzbeauftragte das richtige Werkzeug für das richtige Dokument waehlen.
-
 ## Wann dieses Modul hilft
 
 - Mandant fragt: "Brauchen wir ein Verarbeitungsverzeichnis?"
@@ -103,13 +99,6 @@ Konkrete Vorlagen liefern die Skills:
 - Loeschfristen pauschal "10 Jahre"; ohne Differenzierung nach Datenkategorie.
 - Doppelte Pflege RoPA / DSFA / TOM-Konzept ohne Querverweise.
 
-## Querverweise
-
-- `dsfa-erstellung` für hochrisikobehaftete Verarbeitungen.
-- `avv-art-28-dsgvo-grundtatbestand` für Processor-Vertraege.
-- `drittlandstransfer-pruefung` für Art. 44 ff. DSGVO.
-- `dsb-bestellungspflicht-pruefung` für DSB-Verantwortlichkeiten.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), insbesondere Art. 30, Erwaegungsgrund 13, 82.
@@ -117,10 +106,3 @@ Konkrete Vorlagen liefern die Skills:
 - EDSA: Position Paper on Article 30(5) GDPR (vom 19.04.2018).
 - Konferenz der unabhaengigen Datenschutzaufsichtsbehoerden des Bundes und der Länder (DSK): Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

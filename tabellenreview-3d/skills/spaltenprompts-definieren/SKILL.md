@@ -16,10 +16,6 @@ description: "Spaltenprompts für die drei Prüfperspektiven des 3D-Tabellenrevi
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Die erste Würfel-Achse — Spalten — ist die wichtigste. Ein schlechter Spaltenprompt erzeugt schlechte Zellen über den gesamten Stapel. Dieser Skill kuratiert Spaltenprompts: aus Bibliothek wählen, anpassen, neu schreiben.
-
 ## Bibliothek (Auszug)
 
 ### M&A-Due-Diligence
@@ -69,3 +65,4 @@ Die erste Würfel-Achse — Spalten — ist die wichtigste. Ein schlechter Spalt
 ## Grenzen
 
 Spaltenprompts ersetzen nicht das Lesen des Dokuments. Sie machen das Lesen reproduzierbar und vergleichbar.
+

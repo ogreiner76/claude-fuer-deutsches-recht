@@ -46,13 +46,6 @@ description: "Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: Vollm
 - Anscheinsvollmacht erfordert, dass der Vertretene das Erscheinungsbild hätte erkennen und verhindern können.
 - § 181 BGB ist abdingbar durch ausdrückliche Gestattung — Ausnahme prüfen.
 
-## Output
-
-- Routing-Schema: Vollmacht vorhanden → Umfang → Missbrauch → vollmachtloser Vertreter
-- Verweis auf Teilskills: vollmacht-erteilung-umfang-erloeschen, duldungs-anscheinsvollmacht, insichgeschaeft-paragraph-181
-- Prüfampel: Vertretungswirkung eingetreten / schwebend unwirksam / Haftung des Vertreters
-- Klausurlösungsskizze mit vollständigem Stellvertretungspfad
-
 ## Quellen
 
 - [§ 164 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__164.html)
@@ -83,3 +76,4 @@ duldungs-anscheinsvollmacht für Rechtsschein, insichgeschaeft-paragraph-181 fü
 - Vollmacht fehlend: Rechtsschein (Duldung/Anschein) oder vollmachtloser Vertreter?
 - Insichgeschäft: § 181 BGB mit Ausnahmen geprüft?
 - Richtiger Teilskill für Detailprüfung ausgewählt?
+

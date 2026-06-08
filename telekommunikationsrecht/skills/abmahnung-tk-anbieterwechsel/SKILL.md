@@ -5,10 +5,6 @@ description: "Abmahnungen bei TK-Marketing, Preiswerbung, Rufnummernmissbrauch, 
 
 # Abmahnung nach UWG/TKG
 
-## Arbeitsbereich
-
-Abmahnungen bei TK-Marketing, Preiswerbung, Rufnummernmissbrauch, Vergleichsportalen und Informationspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Abmahnungen bei TK-Marketing, Preiswerbung, Rufnummernmissbrauch, Vergleichsport
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Wettbewerber, Verbände und Anbieter.
-
 ## Norm- und Quellenanker
 
 UWG; TKG; PAngV; TDDDG/DSGVO; BGB.
-
-## Arbeitsfragen
-
-1. Welche Marktverhaltensregel?
-2. Welche Werbung/Information ist falsch?
-3. Welche Unterlassung und Vertragsstrafe?
-
-## Output
-
-Abmahnungs-/Verteidigungsschreiben und Beweisplan.
 
 ## Red Flags
 
@@ -44,10 +26,6 @@ Abmahnungs-/Verteidigungsschreiben und Beweisplan.
 ## Anschluss-Skills
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.
 
 ## Normen und Rechtsprechung
 

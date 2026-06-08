@@ -5,10 +5,6 @@ description: "Untersucht Healthcare-Compliance-Verstöße – § 299a/b StGB, Tr
 
 # Healthcare-Compliance-Verstöße und Untersuchung
 
-## Arbeitsbereich
-
-Untersucht Healthcare-Compliance-Verstöße – § 299a/b StGB, Transparenzgesetz, AMG/HWG, Kick-Back-Verbote, FSA-Kodex und US-AKS. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,15 +68,6 @@ Dieser Skill untersucht Healthcare-spezifische Korruptionsszenarien, klärt die 
 - Training für Sales-Force und Medical-Affairs.
 - Monitoring: stichprobenartiger Review aller HCP-Zahlungen.
 
-## Red-Team-Fragen
-
-- Ist die Korrelation zwischen Honorarzahlungen und Verordnungsverhalten dokumentiert und analysiert worden?
-- Sind alle HCP-Zahlungen im FSA-Transparenzbericht korrekt ausgewiesen?
-- Werden Fair-Market-Value-Benchmarks für Referentenhonorare tatsächlich angewandt?
-- Gibt es AWBs, bei denen die wissenschaftliche Substanz so gering ist, dass sie als verdecktes Marketing qualifizieren?
-- Wurden Hochrisikoärzte (hohe Zahlungen + hohe Verordnungsvolumina) im Rahmen der internen Untersuchung identifiziert?
-- Ist ein US-AKS-Exposure vorhanden, und wurde das DOJ-Voluntary-Disclosure erwogen?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -100,3 +87,4 @@ Dieser Skill untersucht Healthcare-spezifische Korruptionsszenarien, klärt die 
 - **Compliance-SOP-Template** für HCP-Interaktionen
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

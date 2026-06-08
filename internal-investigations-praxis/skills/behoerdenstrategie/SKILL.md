@@ -5,10 +5,6 @@ description: "Entwickelt die Behördenstrategie für Self-Reporting an BaFin, St
 
 # Behördenstrategie und Self-Reporting
 
-## Arbeitsbereich
-
-Entwickelt die Behördenstrategie für Self-Reporting an BaFin, StA, DOJ/SEC – Zeitpunkt, Inhalt, Kooperationsanreize und Risikoabwägung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -71,15 +67,6 @@ Dieser Skill entwickelt eine maßgeschneiderte Behördenstrategie, die Kooperati
 - „One team" aus deutschen und US-Anwälten mit klarer Kommunikationslinie.
 - Amnesty-Programme: Kartell (Bonusantrag), FCPA DPA/NPA als Ziel.
 
-## Red-Team-Fragen
-
-- Wurde eine Pflicht zum Self-Reporting geprüft, bevor proaktiv gemeldet wurde?
-- Wurden Kooperationsvorteile konkret berechnet (Bußgeldreduktion vs. Offenbarungsrisiko)?
-- Ist der Inhalt der Meldung so formuliert, dass der Privileg-Schutz erhalten bleibt?
-- Besteht ein Whistleblower-Risiko, das das Timing der Meldung beeinflusst?
-- Sind alle beteiligten Behörden (BaFin, StA, DOJ, SEC) koordiniert – insbesondere bei widersprüchlichen Anforderungen?
-- Wurde der Vorstand über das Meldungsrisiko und die Entscheidungsoptionen vollständig informiert?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -99,3 +86,4 @@ Dieser Skill entwickelt eine maßgeschneiderte Behördenstrategie, die Kooperati
 - **BaFin-Gesprächsvorbereitung**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

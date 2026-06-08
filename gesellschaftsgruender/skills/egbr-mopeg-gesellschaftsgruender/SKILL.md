@@ -5,10 +5,6 @@ description: "GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als e
 
 # eGbR und GbR nach MoPeG 2024
 
-## Arbeitsbereich
-
-GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als eGbR vorbereiten. Normen: §§ 705 ff. BGB n.F. MoPeG, §§ 707 ff. BGB Gesellschaftsregister. Prüfraster: Eintragungsvoraussetzungen, Gesellschafterverzeichnis, Vertretungsregeln, Haftungsfolgen. Output: eGbR-Gründungsunterlagen. Abgrenzung: nicht GmbH-Gründung mit Notar und HRB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,9 +47,6 @@ Klaere bei jedem eGbR-Mandat zuerst:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: eGbR-Eintragungsentscheidung
 
 | Schritt | Frage | Norm | Ergebnis |
@@ -136,3 +129,4 @@ Unterschriften aller Gesellschafter (notariell beglaubigt)
 - `gesellschaftsgruender-handelsregister-anmeldung` — bei Umwandlung in OHG
 - `gesellschaftsgruender-transparenzregister` — wirtschaftlich Berechtigte
 - `gesellschaftsgruender-kommandocenter` — Gesamtablauf
+

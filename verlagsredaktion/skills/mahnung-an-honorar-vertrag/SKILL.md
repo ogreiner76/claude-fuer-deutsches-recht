@@ -5,10 +5,6 @@ description: "Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahlte
 
 # Mahnung an Autor
 
-## Arbeitsbereich
-
-Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB § 286 und § 323, Verjährungspruefung, Mustertexte und gerichtliche Geltendmachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -151,18 +147,10 @@ Mit freundlichen Gruessen
 - Doppelmahnung an verschiedene Adressen, ohne Tilgungsbestimmung.
 - Bei juristischer Person als Autor (z. B. Sozietaet) falsche Empfaengerbezeichnung.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Eingangsroutung der Forderung.
-- `workflow-fristen-und-risikoampel` - Verjährungs- und Verzugsampel.
-- `verl-vorschuss-pruefung-buecher` - bei Vorschussrueckforderungen.
-- `verl-tantieme-abrechnung-jaehrlich` - bei ueberzahlten Tantiemen.
-- `verl-vergleichsverhandlung-mit-autor` - aussergerichtliche Loesung.
-- `verl-eskalation-bei-deadline-konflikt` - bei kombinierter Leistungs- und Zahlungsstoerung.
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 195, 199, 286, 288, 309 Nr. 5, 366, 812 - Verjährung, Verzug, Verzugszinsen, AGB-Schranke, Tilgungsbestimmung, Bereicherung.
 - VerlG § 33 - Folgen Nichtlieferung; Rueckforderung Vorschuss.
 - ZPO §§ 688-703d - Mahnverfahren, Vollstreckungsbescheid.
 - Basiszinssatz (Deutsche Bundesbank, halbjaehrliche Anpassung) unter bundesbank.de.
+

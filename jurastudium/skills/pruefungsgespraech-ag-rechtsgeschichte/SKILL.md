@@ -5,10 +5,6 @@ description: "Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft sim
 
 # Prüfungsgespräch nach AG-Tradition
 
-## Arbeitsbereich
-
-Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Strafrecht öffentliches Recht. Prüfraster Gespraeachsführung Sokrates-Methode, Gegenfragen antizipieren, Argumentationsschwaechen erkennen, Unsicherheiten korrekt kommunizieren. Output simuliertes Prüfungsgespraeach mit Feedbackprotokoll und Verbesserungshinweisen. Abgrenzung zu AG-Vorbereitung für Vorbereitung und zu Examensvorbereitung-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwen
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Recht lernt man nicht durch Lesen. Man lernt es, indem man falsch liegt, merkt warum, und es korrigiert. Diese Skill macht das in einer sicheren Umgebung: Fragen stellen, nachfaken, nicht nachgeben — damit das Examen es nicht tun muss.
-
-**Diese Skill gibt keine Antworten, bevor der Studierende es versucht hat.** Wer eine Antwort sucht, nutzt eine andere Funktion.
-
-Vorbild ist die deutsche AG-Tradition: Der Seminar- oder Übungsleiter im Arbeitsgemeinschaft-Gespräch fragt nach, lässt nicht locker, korrigiert auf dem Weg — gibt aber nicht die Lösung preis, bevor die Frage gedacht wurde. (Eine deutsche Entsprechung zum englischen "Socratic drilling" gibt es nicht; die AG ist der heimische Begriff.)
 
 ## Eingaben
 
@@ -102,13 +90,6 @@ Fordernd, aber nicht herabsetzend. Das Modell ist der AG-Leiter, der kalt-stellt
 
 Schludrige Begründungen jedes Mal hinterfragen. Wer "das ist ja offensichtlich" sagen darf, lernt, dass Offensichtlichkeit ein Argument ist — und scheitert im Examen.
 
-## Ausgabeformat
-
-- Eine Frage nach der anderen
-- Reaktion auf die Antwort (Bestätigung / Pushback / Verengungsfrage)
-- Kein Monolog — dies ist Frage-Antwort, keine Vorlesung
-- Sitzungsnotiz am Ende: Themen, auf denen gepusht wurde; Antworten, die konsequent falsch lagen
-
 ## Beispiel
 
 **Thema:** Bereicherungsrecht §§ 812 ff. BGB, Kondiktionsarten
@@ -133,3 +114,4 @@ Falls der Studierende § 812 nennt, aber nicht die Alternative spezifiziert: "§
 Kontrollantworten, die dieser Skill intern verwendet, um Antworten des Studierenden zu beurteilen, basieren auf gefestigter Literatur und Rechtsprechung (s. Rechtlicher Rahmen). Wenn ein Themengebiet nicht sicher abgedeckt werden kann, wird nur die Struktur (Frage / Nachfrage) angeboten — kein inhaltlicher Pushback aus unsicherer Quelle.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

@@ -5,10 +5,6 @@ description: "Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren
 
 # Goldplating vermeiden
 
-## Arbeitsbereich
-
-Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den Richtlinien-Mindeststandard hinaus geprüft werden. Vorgabe Bundesregierung 1-zu-1-Umsetzung. Differenzierung bewusstes Goldplating Verbraucherschutz Datenschutz oder versehentlich. Erfasst jeden Abweichungspunkt Begründung notwendig nicht notwendig politisch gewollt. Output Goldplating-Liste Empfehlungen. Abgrenzung zu europarechtskonformität Vereinbarkeit mit EU-Primaerrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -71,9 +67,6 @@ Bei vollharmonisierenden Richtlinien (z.B. Verbraucherrechte-RL 2011/83) ist Gol
 
 § 62 Abs. 2 GGO (Goldplating-Vermeidungsgebot) — Art. 288 AEUV (Richtlinien-Regelungs-Spielraum) — §§ 1-3 GoldplatingV (Bundesregierung 2012, Berichtspflicht) — Art. 5 EUV (Verhaeltnismaessigkeit, Subsidiaritaet)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Goldplating-Liste mit Empfehlungen pro Abweichungspunkt.
@@ -81,3 +74,4 @@ Goldplating-Liste mit Empfehlungen pro Abweichungspunkt.
 ## Anschluss
 
 `verfassungsmaessigkeit-quercheck`.
+

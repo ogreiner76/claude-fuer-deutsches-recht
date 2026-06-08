@@ -5,10 +5,6 @@ description: "Steuert den Compliance-Prozess bei einer Profit Warning: Insiderin
 
 # Krisenfall Profit Warning – Ad-hoc und Insiderrecht
 
-## Arbeitsbereich
-
-Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,22 +73,3 @@ Verboten: Verwischende Sprache, Prognose-Widersprüche, irreführende Formulieru
 - § 97-WpHG-Haftungsrisiko einschätzen: Wie lange zwischen Entstehung und Veröffentlichung?
 - Compliance-Akte: Entstehungszeitpunkt der Insiderinformation belegen
 
-## Red-Team-Fragen
-
-- Wurde der frühestmögliche Entstehungszeitpunkt der Insiderinformation identifiziert?
-- Hat ein PDMR zwischen Entstehung der Insiderinformation und Ad-hoc Aktien verkauft?
-- Wurde kursrelevanz ex ante beurteilt, nicht erst nach einem Kurseinbruch?
-- Enthält die Ad-hoc-Mitteilung eine konkrete neue Prognose oder nur Allgemeinplätze?
-- Ist der Zeitraum zwischen interner Erkenntnis und Veröffentlichung dokumentiert
- (Haftungsrisiko § 97 WpHG)?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Profit-Warning-Ad-hoc-Entwurf
-2. Insiderinformations-Entstehungszeitplan (intern vs. Ad-hoc-Datum)
-3. PDMR-Eigengeschäfts-Check (Zeitraum der Insiderinformation)
-4. § 97-WpHG-Haftungsrisiko-Einschätzung
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, curia.europa.eu,
-bgh.de, dejure.org.

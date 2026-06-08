@@ -5,10 +5,6 @@ description: "Strukturiert den E-Mail-Review in Internal Investigations – Keyw
 
 # E-Mail-Review in Internal Investigations
 
-## Arbeitsbereich
-
-Strukturiert den E-Mail-Review in Internal Investigations – Keyword-Suche, TAR, Privilege-Log, DSGVO und Verwertbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -70,15 +66,6 @@ Dieser Skill steuert den E-Mail-Review von der Planung bis zur Produktion: Keywo
 - Hot-Documents-Liste: bedeutsame Dokumente mit Kurzzusammenfassung für den Anwalt.
 - Produktions-Log: welche Dokumente wurden wem wann übergeben?
 
-## Red-Team-Fragen
-
-- Ist die Keyword-Liste dokumentiert und begründet – sodass sie vor Gericht verteidigt werden kann?
-- Wurden private E-Mails gefiltert, wenn die Nutzung erlaubt war?
-- Ist das Privilege-Log vollständig und im FRCP-konformen Format?
-- Haben Reviewer aus Drittstaaten (US) Zugriff auf DSGVO-geschützte Daten gehabt, ohne dass eine DSGVO-Grundlage vorlag?
-- Wurden E-Mail-Metadaten auf Manipulationen überprüft?
-- Hat der Betriebsrat die Auswertung gebilligt, oder droht ein Beweisverwertungsverbot?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -97,3 +84,4 @@ Dieser Skill steuert den E-Mail-Review von der Planung bis zur Produktion: Keywo
 - **Hot-Documents-Zusammenfassung**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

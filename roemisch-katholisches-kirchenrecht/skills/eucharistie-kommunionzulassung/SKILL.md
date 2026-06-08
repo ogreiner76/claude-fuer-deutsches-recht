@@ -5,10 +5,6 @@ description: "Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, 
 
 # Eucharistie und Kommunionzulassung
 
-## Arbeitsbereich
-
-Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch; CIC can. 897-958 und 912-923; KKK 1322-1419; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Canones- und Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -83,3 +79,4 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+

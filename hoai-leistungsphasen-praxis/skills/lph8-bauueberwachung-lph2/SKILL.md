@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Erdbauarbeiten mit Fokus auf Boden
 
 # Bauueberwachung Erdbau und Bodenkennwerte
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Erdbauarbeiten mit Fokus auf Bodenkennwerte — Verdichtungspruefungen nach DIN 18127 Proctor und DIN 18134 Plattendruckversuch Ev2, Bodenklassen nach DIN 18300 und DIN 18196, Baugrubensicherung nach EAB und DIN 4124, Setzungsmonitoring nach EC7, Schichtenverzeichnis nach DIN 4022. Umfasst Laborprotokolle, Drohnen-Gelaendeaufnahme und SAP-PS-Vorgangsverfolgung für Trassenbau und Baugruben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 - Unzureichende Baugrubenentwaessserung: Sohlaufbruch bei Grundwasseranstieg, Verbau versagt durch Auflast-Druckentlastung
 - Fehlendes Baugrundgutachten für Bodenklassenabweichung: Mehr- und Mindermengen Bodenklasse nicht vertraglich geregelt, Streit mit Auftraggeber
 
-## Output
-
-Verdichtungsprotokoll Ev2 je Bauabschnitt mit GPS und Pruefgeraet-Kalibrierungsnachweis. Laborberichte Boden Proctor und Atterberg je Bodencharge. Massenbilanz Aushub und Einbau mit Drohnen-Volumenmodell. Inklinometer-Auswertungsberichte. Entsorgungsnachweise Aushub. Bautagebuch chronologisch. SAP-PS-Abschlussbericht.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Verdichtungsprotokoll Ev2 je Bauabschnitt mit GPS und Pruefgeraet-Kalibrierungsn
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [KrWG Kreislaufwirtschaftsgesetz](https://www.gesetze-im-internet.de/krwg/index.html)
+

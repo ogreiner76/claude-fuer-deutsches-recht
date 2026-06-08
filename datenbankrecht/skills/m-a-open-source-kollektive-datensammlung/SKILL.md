@@ -5,10 +5,6 @@ description: "Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: 
 
 # M&A-Datenraum und Datenbankrechte — Due Diligence und Transaktion
 
-## Arbeitsbereich
-
-Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: Due-Diligence-Prüfung von Datenbankherstellerrechten (§§ 87a-87e UrhG) als Zielunternehmensvermögen, Übertragung im Asset- und Share-Deal, Datenbankrechte im virtuellen Datenraum als Verhandlungsunterlage und DSGVO-Compliance bei Due-Diligence-Datenbankzugang. Erstellt IP-Asset-Bewertungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: Due-Diligence-
 - Laufende Datenbankrechts-Verletzungen des Zielunternehmens gegen Dritte gehen auf Käufer über — Freistellungsklausel im Vertrag nötig.
 - Virtuelle Datenräume mit sensiblen Datenbankdaten erfordern Auftragsverarbeitungsvertrag mit dem Datenraum-Anbieter.
 
-## Output
-
-- Datenbankrechte-Inventarvorlage für Due Diligence
-- IP-Asset-Bewertungsmatrix (Herstellerrecht, Schutzdauer, Lizenzpotenzial)
-- Kaufvertrag-Klauseln zur Datenbankrechte-Übertragung (Asset Deal)
-- DSGVO-Due-Diligence-Checkliste für personenbezogene Zieldatenbanken
-- Freistellungsklausel für Datenbankrechts-Verletzungen des Zielunternehmens
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: Due-Diligence-
 - [§ 31 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
 - [DSGVO Art. 6 — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [DSGVO Art. 28 — dejure.org](https://dejure.org/gesetze/DSGVO/28.html)
+

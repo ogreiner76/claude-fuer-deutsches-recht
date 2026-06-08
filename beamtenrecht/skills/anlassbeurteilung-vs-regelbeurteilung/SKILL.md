@@ -5,10 +5,6 @@ description: "Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung 
 
 # Anlassbeurteilung vs. Regelbeurteilung — Aktualitaet und Vergleichbarkeit
 
-## Arbeitsbereich
-
-Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des öffentlichen Dienstes. Skill pruef Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation in der ein Bewerber eine Anlassbeurteilung erhaelt und ein anderer eine alte Regelbeurteilung. Liefert Argumente zur Frage wann Anlassbeurteilung Pflicht ist und wann sie unzulaessig waere. Verweist auf das Schwester-Skill plausibilisierung-gleicher-gesamtnoten und konkurrentenschutz-bestenauslese-art-33-ii-gg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -99,3 +95,4 @@ Regelbeurteilung Mandant Stichtag vor 4 Jahren, Bewertung "uebertrifft die Anfor
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
 - Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.
+

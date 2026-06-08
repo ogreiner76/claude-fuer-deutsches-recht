@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zur Auslegung Art. 34 Abs. 3 lit. a DSGVO (
 
 Art. 4 Nr. 12; Art. 33 Abs. 1; Art. 34 Abs. 1; Art. 34 Abs. 3 DSGVO; Erwägungsgrund 75; 76; 85; 86.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Entscheidungsbaum
 
 Frage 1: Verletzung im Sinne Art. 4 Nr. 12? Nein → Dokumentation reicht. Ja → Frage 2.
@@ -52,3 +48,4 @@ Frage 4: Art. 34 Abs. 3 DSGVO Ausnahme? Ja → öffentliche Bekanntmachung statt
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-risikobewertung-edsa-leitlinie` und `dsv-risikobewertung-enisa-schweregrad` liefern die methodische Tiefe.
+

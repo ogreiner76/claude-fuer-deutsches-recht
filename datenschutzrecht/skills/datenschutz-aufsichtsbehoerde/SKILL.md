@@ -5,10 +5,6 @@ description: "Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inha
 
 # Datenschutz Mandantenkommunikation mit Aufsichtsbehoerden
 
-## Zweck
-
-Dieser Skill leitet die anwaltliche Kommunikation des Mandanten mit der zuständigen Aufsichtsbehoerde — also BfDI für Telekommunikation, Post und bestimmte Bundesbehoerden oder Landesaufsicht für den öffentlichen und privaten Bereich der Länder — so, dass der Mandant in Pruefungs-, Anhörungs- und Beschwerdeverfahren weder seine Position verschlechtert noch Bussgeldakten unnoetig fuettert.
-
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald ein Schreiben einer Aufsichtsbehoerde eingegangen ist — egal ob foermlich (Anhörung nach § 28 VwVfG), informell (Auskunftsverlangen nach Art. 58 I a DSGVO), als Pruefungsankuendigung (Art. 58 I b DSGVO Untersuchung) oder als Reaktion auf eine eigene Meldung.
@@ -90,14 +86,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert die Aufsichtsbehoerde besonders?** Schweigen, Floskeln, fehlendes Verarbeitungsverzeichnis Art. 30, kein DSB benannt obwohl § 38 BDSG Schwelle ueberschritten.
 
-## Querverweise
-
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung`
-- `datenschutz-datenpanne-art-33-34-72h-incident-response`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 31, 56, 57, 58, 77, 83.
@@ -108,10 +96,3 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien 04/2022 zur Berechnung der Geldbussen nach DSGVO, angenommen 24.05.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

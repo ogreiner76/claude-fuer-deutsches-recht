@@ -5,10 +5,6 @@ description: "Rechtsabteilungs-Fachmodul für Cross-Border-Shop EU-Verbraucherre
 
 # Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht
 
-## Arbeitsbereich
-
-Rechtsabteilungs-Fachmodul für Cross-Border-Shop EU-Verbraucherrecht: Rechtswahl, Gerichtsstand, Sprachversionen und Lieferlandrisiken werden sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,6 +64,3 @@ Rechtswahl, Gerichtsstand, Sprachversionen und Lieferlandrisiken werden sortiert
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

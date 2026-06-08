@@ -5,9 +5,6 @@ description: "Erhaltung Modernisierung KFW Förderung im Plugin Weg Hausverwaltu
 
 # Erhaltung Modernisierung KFW Förderung
 
-## Arbeitsbereich
-
-**Erhaltung Modernisierung KFW Förderung** ordnet den Fall über die tragenden Prüfungslinien: Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Erhaltung Modernisierung KFW Förderung im Plugin Weg Hausverwaltu
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `erhaltung-modernisierung-baumaengel`
@@ -89,14 +87,6 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 > Wir setzen Ihnen eine angemessene Frist zur Nachbesserung bis [Datum]. Nach fruchtlosem Ablauf behalten wir uns Ersatzvornahme, Minderung und Schadensersatz vor (§§ 634, 637 BGB).
 > Bitte bestätigen Sie den Nachbesserungstermin bis [Datum].
 
-## Output
-
-- Maßnahmensteckbrief (Ist/Ziel, Variantenvergleich, GEG-Konformität)
-- Beschluss- oder Eilentscheidungsbedarf
-- Gutachter-/Handwerkerfragen
-- Mängelrüge / Fristsetzung
-- Eigentümerinformation (Risikoampel, Kostenrahmen, Finanzierung)
-
 ## Cross-Refs
 
 - Beschluss / Sonderumlage → `beschlussvorlagen-erstellen`, `hausgeld-sonderumlage-liquiditaet`
@@ -107,14 +97,6 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 19 WEG: https://www.gesetze-im-internet.de/woeigg/__19.html ; § 20 WEG: https://www.gesetze-im-internet.de/woeigg/__20.html ; § 71 GEG: https://www.gesetze-im-internet.de/geg/__71.html .
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `kfw-foerderung-pflegekasse-bafa-barriere-koordination`
 
@@ -175,13 +157,6 @@ GdB (Grad der Behinderung) und Merkzeichen entscheiden über Steuer-Pauschbeträ
 ## Beratungsstellen
 
 Kostenlose Beratung: Verbraucherzentrale (Energie- und Wohnberatung), Caritas (Pflegeberatung § 7a SGB XI), Diakonie, kommunale Wohnberatungsstellen (Adressen über BIVA-Pflegeschutzbund), Ergotherapeuten (Wohnraumanpassung fachlich begleiten).
-
-## Output
-
-- Förder-Matrix mit Beträgen und Voraussetzungen (tabellarisch)
-- Antragspfad-Diagramm (Reihenfolge und Fristen, Schritt 1-4)
-- Eigentümer-Beratungsschreiben „Welche Förderungen stehen Ihnen zu?" (individualisierbar)
-- Verweis-Liste Beratungsstellen (Adressen, Telefon, URL)
 
 ## Cross-Refs
 
@@ -273,10 +248,3 @@ Erzeuge auf Wunsch ein exportfähiges Paket:
 - "Genehmigung der Jahresabrechnung" als Beschlusstext ohne Klarstellung auf Nachschüsse/Vorschussanpassung.
 - vermietender Eigentümer erhält WEG-Abrechnung so spät, dass § 556 Abs. 3 BGB im Mietverhältnis brennt.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Lieferkettensorgfalt: Risikoanalyse, Beschwerdeverfahren, Prävent
 
 # LkSG BAFA-Bericht und Risikoanalyse
 
-## Arbeitsbereich
-
-Lieferkettensorgfalt: Risikoanalyse, Beschwerdeverfahren, Präventionsmaßnahmen, Bericht/BAFA und Lieferantendokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Lieferkettensorgfalt: Risikoanalyse, Beschwerdeverfahren, Präventionsmaßnahmen
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für größere Mittelständler und Zulieferer in LkSG-Ketten.
-
 ## Norm- und Quellenanker
 
 LkSG §§ 3, 4, 8, 10, 12; BAFA-Hinweise live prüfen.
-
-## Arbeitsfragen
-
-1. Direkt betroffen oder nur Lieferant?
-2. Welche Risiken und Maßnahmen?
-3. Welche Dokumentation gegenüber BAFA/Kunden?
-
-## Output
-
-LkSG-Berichts- und Lieferantenpaket.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ LkSG-Berichts- und Lieferantenpaket.
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

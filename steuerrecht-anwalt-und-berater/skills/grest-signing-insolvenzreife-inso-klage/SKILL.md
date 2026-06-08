@@ -25,10 +25,6 @@ GrESt Signing/Closing Fachmodul: auseinanderfallendes schuldrechtliches Erwerbsg
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Prüfe Fälle, in denen Finanzämter wegen Signing und Closing mehrfach Grunderwerbsteuer festsetzen. Der Skill ist für M&A-Transaktionen mit zeitlich auseinanderfallendem SPA und dinglicher Anteilsübertragung gedacht.
-
 ## Entscheidende Fragen
 
 1. Welche Norm wurde für das Signing angewandt?
@@ -53,22 +49,7 @@ Nicht blind "keine GrESt" schreiben. Besser:
 3. Die richtige AdV-Zielrichtung ist die zusätzliche Festsetzung, nicht automatisch der Closing-Bescheid.
 4. § 16 GrEStG und Verfahrensrecht müssen konkret mitgedacht werden.
 
-## Output
-
-- Timeline Signing/Closing/Bescheide.
-- Normenkollisionstabelle.
-- AdV-Antrag mit Zielbescheid.
-- Einspruchsbegründung gegen doppelte Festsetzung.
-- Mandantenhinweis: Liquiditätsrisiko, Sicherheitsleistung, Zins- und Fristenlage.
-
 ## No-Go
 
 Keine Aussage, die Finanzverwaltung dürfe "nie" zwei Bescheide erlassen. Der aktuelle Stand ist differenziert und verfahrensabhängig.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

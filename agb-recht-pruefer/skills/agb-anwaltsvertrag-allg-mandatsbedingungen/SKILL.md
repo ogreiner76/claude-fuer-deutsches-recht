@@ -42,11 +42,6 @@ description: "AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill kla
 3. Haftungsbeschraenkung im Rahmen § 52 BRAO (nur einfache Fahrlaessigkeit, max. vierfache Mindestversicherungssumme)?
 4. Beratungspflichten?
 
-## Output
-
-- Klauselraster.
-- Mandatsbedingungs-Entwurf.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -75,3 +70,4 @@ description: "AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill kla
 - AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
 - Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+

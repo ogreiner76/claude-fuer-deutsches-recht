@@ -5,10 +5,6 @@ description: "Römisches Recht: Bereicherungsrecht im Vergleich - röm. condicti
 
 # Bereicherungsrecht im Vergleich
 
-## Arbeitsbereich
-
-Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -54,13 +50,3 @@ Das röm. Bereicherungsrecht basiert auf dem System der condictiones (Rückforde
 - Larenz/Canaris Schuldrecht BT Bd. II/2 § 67ff.
 - Zimmermann Law of Obligations Kap. 27
 
-## Output
-
-- Kondiktionstabelle: röm. condictio vs. BGB
-- Schema: Leistungs- vs. Nichtleistungskondiktion
-- Memo: Einheitslehre vs. Trennungslehre
-- Fallbearbeitung: condictio indebiti
-
-## Quellenregel
-
-D. 12 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Zimmermann Law of Obligations. Larenz/Canaris.

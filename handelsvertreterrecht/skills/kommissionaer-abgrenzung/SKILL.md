@@ -5,10 +5,6 @@ description: "Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach
 
 # Abgrenzung Handelsvertreter vom Kommissionär nach §§ 383 ff. HGB
 
-## Arbeitsbereich
-
-Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspruch und Auswirkungen der Qualifikation auf Vertrags- und Haftungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Mischformen zwischen Handelsvertretung und Kommission nicht erkannt.
 - Steuerliche Mehrbelastung durch falsche Qualifikation.
 
-## Output
-
-Qualifikationsgutachten Handelsvertreter vs. Kommissionär, Vertragsanalyse, Steuerliche Hinweise.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 383 HGB](https://dejure.org/gesetze/HGB/383.html)
+

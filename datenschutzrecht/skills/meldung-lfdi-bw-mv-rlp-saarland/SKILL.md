@@ -5,9 +5,6 @@ description: "DSV Meldung Lfdi BW MV RLP Saarland im Datenschutzrecht: prüft ko
 
 # DSV Meldung Lfdi BW MV RLP Saarland
 
-## Arbeitsbereich
-
-**DSV Meldung Lfdi BW MV RLP Saarland** ordnet den Fall über die tragenden Prüfungslinien: Reicht eine Meldung nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "DSV Meldung Lfdi BW MV RLP Saarland im Datenschutzrecht: prüft ko
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsv-meldung-lfdi-bremen`
@@ -56,10 +54,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der LfDI HB vor Ausgabe verifizi
 ## Zentrale Normen
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; BremDSGVOAG Bremisches Ausführungsgesetz zur DSGVO.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Behördenstammdaten LfDI HB
 
@@ -162,10 +156,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der LfDI BW vor Ausgabe verifizi
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; LDSG Baden-Württemberg.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Behördenstammdaten LfDI BW
 
 - Name: Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg
@@ -266,10 +256,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der LfDI MV vor Ausgabe verifizi
 ## Zentrale Normen
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; DSG M-V Datenschutzgesetz Mecklenburg-Vorpommern.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Behördenstammdaten LfDI MV
 
@@ -372,10 +358,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der LfDI RLP vor Ausgabe verifiz
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; LDSG Rheinland-Pfalz.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Behördenstammdaten LfDI RLP
 
 - Name: Landesbeauftragter für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz
@@ -477,10 +459,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der UDS vor Ausgabe verifizieren
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; SDSG Saarländisches Datenschutzgesetz.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Behördenstammdaten UDS
 
 - Name: Unabhängiges Datenschutzzentrum Saarland — Landesbeauftragte für Datenschutz und Informationsfreiheit
@@ -551,3 +529,4 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 - `dsv-meldung-art-33-pflichtangaben` liefert die generische Pflichtinhalte-Vorlage.
 - `dsv-nachmeldung-aktualisierung-art-33-abs-4` deckt die Nachmeldung ab.
+

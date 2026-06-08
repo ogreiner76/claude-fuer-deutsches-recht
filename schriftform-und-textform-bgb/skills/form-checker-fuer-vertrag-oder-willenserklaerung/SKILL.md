@@ -5,10 +5,6 @@ description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form 
 
 # Form-Checker — Vertrag oder Willenserklärung
 
-## Arbeitsbereich
-
-Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -39,9 +35,6 @@ Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschri
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - §§ 125-129 BGB — Formerfordernisse und Sanktionen
@@ -190,14 +183,3 @@ kann nur durch eine schriftliche Vereinbarung beider Parteien verzichtet werden.
 - **§ 305b BGB**: Individuelle Abreden gehen AGB (einschließlich Schriftformklausel in AGB) vor — auch mündlich. Doppelte Schriftformklausel kann Schutz bieten, ist aber selbst AGB-pflichtig.
 - **Formhierarchie**: Wer Textform hat, hat noch keine Schriftform. Wer Schriftform hat, hat automatisch auch Textform gewahrt.
 
-## Querverweise
-
-- → `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt`
-- → `prozessablauf-papier-vs-elektronisch`
-- → `formerfordernisse-im-bgb-ueberblick`
-- → alle spezifischen Form-Skills
-
-<!-- AUDIT 27.05.2026 bundle_043
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2015&Aktenzeichen=XII+ZR+114%2F14
--->

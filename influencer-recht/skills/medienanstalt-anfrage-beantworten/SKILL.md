@@ -5,10 +5,6 @@ description: "Influencer-Recht: Anfrage der Landesmedienanstalt beantworten – 
 
 # Influencer-Recht: Landesmedienanstalt – Anfrage beantworten
 
-## Arbeitsbereich
-
-Influencer-Recht: Anfrage der Landesmedienanstalt beantworten – MStV, Verfahren, Mitwirkungspflichten, Bußgeld und Reaktionsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,3 +73,4 @@ Landesmedienanstalten prüfen Influencer auf Verstöße gegen den Medienstaatsve
 - Selbstreparatur-Dokumentation (Kennzeichnung nachgeholt)
 - Widerspruchsschreiben (Muster)
 - Bußgeld-Reaktionsstrategie
+

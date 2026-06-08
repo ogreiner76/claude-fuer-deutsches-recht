@@ -34,18 +34,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Rüge zwingend (§ 215 BauGB):** Innerhalb eines Jahres ab Bekanntmachung sind formelle und materielle Mängel der Abwägung gegenüber der Gemeinde zu rügen; Versäumung der Rügefrist führt zur Unbeachtlichkeit der Mängel.
 - **Praktiker-Tipp:** Bei jeder Stellungnahme im Bauleitplanverfahren konkret rügen, was zu erwartende Beeinträchtigung ist (Lärm, Verkehr, Sichtachsen, Geruch, Verschattung); ohne konkrete Einwendung droht Präklusion im späteren Normenkontrollverfahren.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek

@@ -5,20 +5,6 @@ description: "Kanzleieigenes Playbook aus vorhandenen Musterdokumenten und Vorla
 
 # Skill: Playbook aus eigenen Daten
 
-## Zweck
-
-Aus echten, bereits abgeschlossenen Mandaten und Korrespondenzen wird ein
-strukturiertes Vorgehens-Spielbuch (Playbook) destilliert, das anschließend
-als wiederverwendbarer Skill, Auslöser oder Agentenrezept im Hintergrund
-für gleichartige Vorgänge eingesetzt werden kann. Eingaben sind ausschließlich
-die eigenen Daten der Anwältin oder des Anwalts: Outlook-Mails, Wordsschriftsätze,
-Aktenexporte, Sprachnotizen, Excel-Trackings oder Notizdokumente.
-
-Das Ergebnis ist kein generisches Muster, sondern ein an die tatsächliche
-Arbeitsweise der Kanzlei angepasstes Spielbuch — mit den dort üblichen
-Floskeln, Eskalationsstufen, Standardklauseln, Prüfreihenfolgen und
-Mandantenansprachen.
-
 ## Eingaben
 
 - **E-Mail-Korpus** (Outlook-Konnektor oder `.eml`/`.msg`-Exporte): typischerweise
@@ -121,30 +107,6 @@ Kommentare:
  Agentenrezept erzeugt, das das Vorgehen bei neuen, gleichartigen
  Mandaten automatisch vorschlägt.
 
-## Ausgabeformat
-
-```
-playbooks/
-├── <mandatstyp>.playbook.md # Hauptergebnis
-├── <mandatstyp>.klauselbibliothek.md # Wiederverwendbare Textbausteine
-├── <mandatstyp>.fristen.yaml # Fristen-Skelett, maschinenlesbar
-├── <mandatstyp>.entscheidungsbaum.md # Verzweigungspunkte
-└── <mandatstyp>.generierungslog.json # Audit-Trail
-```
-
-**`<mandatstyp>.playbook.md` Pflichtsektionen:**
-
-1. Übersicht (Mandatstyp, typische Dauer, Hauptrisiken)
-2. Phasen (mit Eingaben/Ausgaben pro Phase)
-3. Sprachmuster nach Kontext (Mandant intern / Gegenseite / Gericht /
- Behörde)
-4. Entscheidungsbaum (Knotenpunkte und Folgepfade)
-5. Fristen-Skelett (mit Norm-Verweisen)
-6. Eskalationsmatrix (Schwellenwerte, Zuständigkeiten)
-7. Verifikationsstatus (gegen welche Fälle gespiegelt)
-8. Quellenpflicht (welche Korpus-Dateien zur Generierung beitrugen —
- nur Hash-IDs, keine Mandantennamen)
-
 ## Beispiel
 
 **Eingabe:** Eine Fachanwältin für Arbeitsrecht stellt einen Outlook-Ordner
@@ -154,6 +116,7 @@ dazu vier Word-Klageschriften und ein Excel-Tracking mit Verfahrensdauern.
 **Ausgabe (Auszug aus `kündigungsschutz-arbeitnehmer.playbook.md`):**
 
 ```markdown
+
 ## Phase 2 — Sachverhaltsaufnahme (Tag 1–3 nach Erstkontakt)
 
 Eingaben: Kündigungsschreiben, Arbeitsvertrag, Lohnabrechnungen
@@ -223,3 +186,4 @@ Mandatsworkspace ein Eintrag mit Spielbuch-Version und Treffer-Score.
 Rechtsprechung und Kommentarstellen aus dem Spielbuch werden im
 neuen Mandat auf Aktualität gegengeprüft (mindestens BGH/BAG/BFH der
 letzten 24 Monate).
+

@@ -5,10 +5,6 @@ description: "Führt einen Statuscheck zur Qualifikation als Handelsvertreter na
 
 # Statuscheck Handelsvertreter nach § 84 HGB
 
-## Arbeitsbereich
-
-Führt einen Statuscheck zur Qualifikation als Handelsvertreter nach § 84 HGB durch: Prüfung der Selbständigkeit anhand der gesetzlichen Merkmale, Abgrenzung zu Angestellten und Scheinselbständigen sowie Bewertung der Vertragsgestaltung auf Konformität mit den zwingenden HGB-Normen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Kein Statusfeststellungsverfahren initiiert — jahrelange Unsicherheit.
 - Vertragsklauseln widersprechen Selbständigkeitsmerkmalen — Status gefährdet.
 
-## Output
-
-Statuscheck-Bericht nach § 84 HGB, Empfehlung zur Vertragsgestaltung, Statusfeststellungsantrag.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 611a BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__611a.html)
 - [§ 92a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92a.html)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
+

@@ -28,9 +28,6 @@ Der Tenor ist das Herzstück des Urteils. Er muss vollstreckbar sein.
 - § 709 ZPO — Vollstreckbarkeit gegen Sicherheitsleistung von 110 Prozent
 - § 713 ZPO — Vollstreckbarkeit ohne Sicherheit bei fehlendem Rechtsmittel
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Hauptsacheantrag prüfen:** Zahlungsbetrag, Zinssatz, Zinsbeginn — konkret und vollstreckbar formulieren.
@@ -44,6 +41,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Urteil → Tenor — Tonfall: formal-amtlich
 
 ```
+
 ## Tenor
 
 1. Die Beklagte wird verurteilt, an den Kläger [BETRAG] EUR nebst Zinsen in Höhe von
@@ -91,3 +89,4 @@ Im Repository werden Geldbetraege im Fliesstext mit Punkt geschrieben (Repo-Konv
 
 ---
 <!-- AUDIT 27.05.2026: BGH VII ZR 213/10 (NJW 2011, 2885) auf dejure.org nicht auffindbar (NOT_FOUND) — Eintrag ersatzlos geloescht. Uebrige Rechtsprechungseintraege wurden nicht geprueft. -->
+

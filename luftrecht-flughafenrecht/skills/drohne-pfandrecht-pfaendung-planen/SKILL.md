@@ -5,10 +5,6 @@ description: "Kreditgeber will Pfandrecht an teurer Drohne oder Drohnenflotte al
 
 # Drohne – Pfandrecht vorbereiten
 
-## Arbeitsbereich
-
-Kreditgeber will Pfandrecht an teurer Drohne oder Drohnenflotte als Sicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftVG § 21a Registrierungsstatus und Cape-Town-Abgrenzung und liefert Sicherungsstruktur-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,6 +43,7 @@ BGB §§ 1204 ff. BGB §§ 929 930 Sicherungsübereignung LuftVG § 21a – die 
 - **LuftVG § 21e**: Nationales UAS-Register; Registrierungspflicht ab 250 g.
 - **LuftVO § 21b**: Betriebsverbote und Beschränkungszonen; Kontrollluftraum.
 - **EASA Easy Access Rules for UAS**: Konsolidierte Fassung aller UAS-Verordnungen.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -57,6 +54,7 @@ BGB §§ 1204 ff. BGB §§ 929 930 Sicherungsübereignung LuftVG § 21a – die 
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Betriebskategorie (offen/spezifisch/zertifiziert) korrekt eingestuft (EU-VO 2019/947 Art. 5)?
 8. Liegt für spezifische Kategorie ein genehmigter SORA-Risikoplan vor?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -74,9 +72,6 @@ Das Luftfahrzeugpfandrecht verbindet nationales Sachenrecht mit dem internationa
 - **Vollstreckung**: Pfandrechtsverwertung erfolgt durch öffentliche Versteigerung; ZPO § 864 regelt den besonderen Vollstreckungsweg für Luftfahrzeuge.
 - **Internationaler Arrest**: Luftfahrzeug kann im Ausland nach nationalen Regeln oder Cape-Town-Mechanismus arretiert werden; Koordination mit Local Counsel erforderlich.
 
-## Output
-
-Strukturierter Vermerk zu Drohne – Pfandrecht vorbereiten mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Betriebsgenehmigungsmatrix nach Kategorie. SORA-Risikoanalyse-Template.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -106,3 +101,4 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

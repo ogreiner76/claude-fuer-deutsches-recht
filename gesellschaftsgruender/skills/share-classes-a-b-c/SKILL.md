@@ -5,10 +5,6 @@ description: "Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche
 
 # Anteilsklassen A / B / C / Common
 
-## Arbeitsbereich
-
-Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche Gewinn-, Stimm- und Liquidationsrechte. Normen: §§ 29 47 GmbHG, §§ 11 12 AktG. Prüfraster: Satzungsgestaltung, steuerliche Wirkung, Investorenerwartungen. Output: Satzungsklauseln Anteilsklassen. Abgrenzung: nicht Golden-Share-Einzelvetorecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,9 +41,6 @@ Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche Gewinn-, Stim
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Klassen-Übersichtstabelle
 
 | Klasse | Typischer Inhaber | Stimmrecht | Liquidation Preference | Anti-Dilution | Veto-Rechte |
@@ -156,3 +149,4 @@ VETORECHTE CLASS A (Investor)
 - `gesellschaftsgruender-genehmigtes-kapital` — Ausgabe neuer Klassen aus genehmigtem Kapital
 - `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — ordentliche KE mit Bezugsrechtsausschluss
 - `gesellschaftsgruender-klauselkatalog-bilingual` — Klauseln in Deutsch und Englisch
+

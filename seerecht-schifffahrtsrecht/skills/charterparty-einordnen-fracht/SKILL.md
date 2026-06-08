@@ -5,10 +5,6 @@ description: "Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Ti
 
 # Charterparty einordnen – Vertragstyp und Haftungsmatrix
 
-## Arbeitsbereich
-
-Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter oder Bareboat Charter nach HGB §§ 527-569. Prueft Verantwortungsverteilung Reeder/Charterer; Besatzungspflicht; nautische vs. kommerzielle Fuehrung; ISM-Code-Zuordnung; Hire-Regime. NYPE 2015; Baltime 2001. Output: Einordnungsvermerk und Haftungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,11 +46,6 @@ Ein Handelskonzern legt einen NYPE-Chartervertrag vor und fragt, ob er als Time 
 - ISM-Verantwortung bei Sub-Charter ohne neue DOC ist rechtswidrig.
 - Bareboat-Charter ohne Flaggenwechsel: Heimatstaat verliert nicht automatisch die Kontrolle.
 
-## Output
-- Einordnungsvermerk: Vertragstyp; Rechtsrahmen; ISM-Zuordnung
-- Haftungsmatrix: Reeder vs. Charterer nach Schadensart
-- Red-Flag-Liste für kritische Vertragsklauseln
-
 ## Erweiterte Normengrundlage
 
 ### Charterrecht
@@ -91,3 +82,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - ISM-Code BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/ISM_Code/ism_code_node.html
 - NYPE 2015 BIMCO: https://www.bimco.org
 - dejure HGB § 557: https://dejure.org/gesetze/HGB/557.html
+

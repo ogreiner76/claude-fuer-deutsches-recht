@@ -52,10 +52,6 @@ description: "Dieses Skill strukturiert das Red-Team-Quality-Gate als systematis
 - Formale Mängel werden nicht als solche erkannt, weil der inhaltliche Fokus überwiegt.
 - Das Quality-Gate-Ergebnis wird nicht dokumentiert, sodass bei späterem Streit kein Nachweis der Qualitätssicherung vorliegt.
 
-## Output
-
-Das Skill liefert ein Quality-Gate-Protokoll: formale Vollständigkeitsprüfung, inhaltliche Konsistenzprüfung, Red-Team-Ergebnisse, Quellenaktualitätsprüfung, Fristencheck und Freigabeentscheidung. Das Protokoll wird in der Mandatsakte abgelegt und bildet den Nachweis der methodischen Qualitätssicherung.
-
 ## Quellen
 
 - [§ 253 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__253.html)
@@ -86,3 +82,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

@@ -25,9 +25,6 @@ description: "Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benacht
 - Weiterentwicklung: BGH, Urt. v. 18.04.2024 – Az. IX ZR 129/22 — Verwalter muss Deckungsluecke darlegen; einfaches Bestreiten kann genuegen; insoweit ebenfalls auf § 3 AnfG uebertragbar, weil der Anfechtende dort dieselben Darlegungslasten traegt. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129%2F22
 - Aktenzeichen und Uebertragbarkeit auf den konkreten Mandatssachverhalt vor Schriftsatzverwendung pruefen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Obersatz
 
 Anfechtbar sind Rechtshandlungen des Schuldners, die er mit dem Vorsatz vorgenommen hat, seine Gläubiger zu benachteiligen, wenn der Anfechtungsgegner zur Zeit der Handlung den Vorsatz des Schuldners kannte (§ 3 Abs. 1 AnfG).
@@ -66,3 +63,4 @@ Der Anfechtungsgegner muss zum Zeitpunkt der Handlung den Benachteiligungsvorsat
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+

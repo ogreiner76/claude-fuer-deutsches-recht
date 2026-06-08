@@ -5,10 +5,6 @@ description: "Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverwei
 
 # Zeugenvernehmung-Vorbereitung
 
-## Arbeitsbereich
-
-Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: §§ 373 ff. 383 ff. ZPO. Prüfraster: Zeugnisverweigerungsrecht, Glaubwürdigkeitsfragen, Vernehmungsthemen. Output: Zeugenvorbereitungsprotokoll. Abgrenzung: nicht Sachverständigenbestellung §§ 402 ff. ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,29 +74,6 @@ Verbindlich: `../references/zitierweise.md`.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-### Vernehmungs-Vorbereitung – Eigener Zeuge
-
-**Zeuge:** [Name]
-**Vernehmungsdatum:** TT.MM.JJJJ
-**Verfahren:** [Mandat-Slug], [Gericht], Az.: [Aktenzeichen]
-
-**Kernwissen des Zeugen (aus Chronologie):**
-| Datum | Ereignis | Belegdokument | Zeugen-Relevanz |
-|---|---|---|---|
-| 12.03.2022 | Vertragsschluss | Anlage K1 | Zeuge anwesend |
-
-**Fragenkatalog – erwartete Fragen:**
-1. Wann wurden Sie auf das Projekt aufmerksam?
-2. Waren Sie beim Vertragsschluss am 12.03.2022 anwesend?
-...
-
-**Vorhalte (antizipiert):**
-- E-Mail v. 05.04.2022 (Anlage B3): Zeuge bat um Verlängerung – klären, warum.
-
-**Zeugnisverweigerungsrecht:** Nicht einschlägig (kein Angehöriger, kein Berufsgeheimnisträger).
-
 ## Risiken / typische Fehler
 
 - **Zeugencoaching verboten:** Der Anwalt darf den Zeugen nicht zu einer bestimmten Aussage anleiten; nur Erläuterung des Ablaufs und Erinnerungshilfe auf Basis vorhandener Dokumente zulässig (vgl. § 1 BORA).
@@ -114,3 +87,4 @@ Kreditkarte) - falscher Senat, falsches Thema. Behauptetes Thema "Freie Beweiswu
 bei Zeugenaussagen § 286 ZPO" ist eine Halluzination. Referenz geloescht.
 Keine Ersatzquelle ergaenzt.
 -->
+

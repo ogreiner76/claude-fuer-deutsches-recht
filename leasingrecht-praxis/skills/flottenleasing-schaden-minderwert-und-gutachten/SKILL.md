@@ -5,10 +5,6 @@ description: "Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachten
 
 # Flottenleasing: Schadenmanagement und Minderwertabrechnung
 
-## Arbeitsbereich
-
-Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flottenvertrag-Besonderheiten und Regressprozesse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flott
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Beim Flottenleasing verwaltet ein Unternehmen typischerweise 10 bis mehrere Hundert Leasingfahrzeuge. Die Komplexität der Schadensabrechnung, Minderwertfeststellung und Gutachtenkoordination übersteigt das Einzelverfahren erheblich. Dieser Skill beschreibt Flottenvertragsstruktur, Schadenprozess und Streitvermeidung.
 
 ## Rechtlicher Rahmen
 
@@ -114,3 +106,4 @@ Wenn Flottenvertrag Full-Service umfasst (Wartung, Reifen, Schäden):
 - **Minderwert-Widerspruch**: Muster für LN gegen Flottengutachten
 - **Regressmatrix**: Fahrer – Verschulden – Regressquote – Betrag
 - **Flottenübergabe-Protokoll**: Checkliste für 10+ Fahrzeuge gleichzeitig
+

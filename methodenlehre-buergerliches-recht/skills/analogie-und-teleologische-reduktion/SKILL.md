@@ -103,15 +103,6 @@ Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten
 - **Analogie zulasten von Privaten ohne klare Begruendung.** Im Zivilrecht zulaessig, aber argumentationsbeduerftig.
 - **Vermeintliche Analogie zur Umgehung der Wortlaut-Grenze.** Wer im Strafrecht oder Steuerrecht "analog" anwendet, verstoesst gegen Art. 103 Abs. 2 GG bzw. den Vorbehalt des Gesetzes.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Grundkanon.
-- `wortlaut-grammatikalische-auslegung` — Wortlaut-Grenze als Schwelle.
-- `historische-auslegung` — Planwidrigkeit aus Materialien.
-- `teleologische-auslegung` — Telos als Massstab.
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori` — Gegen- und Erst-recht-Schluesse.
-- `wertungsjurisprudenz-larenz-canaris` — theoretische Grundlage.
-
 ## Quellen und Stand 05/2026
 
 - Karl Larenz, Methodenlehre der Rechtswissenschaft, 1960 (6. Aufl. 1991).
@@ -121,14 +112,6 @@ Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten
 - `references/methodik-buergerliches-recht.md` im Repo.
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -158,3 +141,4 @@ Stand: Mai 2026.
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
+

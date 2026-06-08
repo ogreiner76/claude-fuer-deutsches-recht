@@ -5,10 +5,6 @@ description: "Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwi
 
 # Vorbenutzungsrecht
 
-## Arbeitsbereich
-
-Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, Benutzungsvorbereitung, Beweisunterlagen und Reichweite. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwicklungsstand, 
 ## Wann dieser Skill hilft
 
 Der Gegner beruft sich auf ältere Nutzung.
-
-## Arbeitsweise
-
-Sichere Laborbücher, Bestellungen, CAD, Tests und Zeugen.
 
 ## Prüfpunkte
 
@@ -61,13 +53,10 @@ Sichere Laborbücher, Bestellungen, CAD, Tests und Zeugen.
 - Wichtiges Verteidigungsmittel gegen spaeter angemeldetes Gebrauchsmuster.
 - Sorgfaeltige Dokumentation der eigenen Entwicklung Pflicht.
 
-## Output
-
-Vorbenutzungs-Memo.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

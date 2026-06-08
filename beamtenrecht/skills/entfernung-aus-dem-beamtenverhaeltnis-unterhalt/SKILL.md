@@ -5,10 +5,6 @@ description: "Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Di
 
 # Entfernung aus dem Beamtenverhaeltnis und Unterhaltsbeitrag
 
-## Arbeitsbereich
-
-Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhaeltnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen für Krankenversicherung Beihilfe und Rentenversicherung. Behandelt die Konstellation Nachversicherung in der gesetzlichen Rentenversicherung sowie das Verhaeltnis zur Ruhestandsversetzung. Liefert Pruefraster und Antragsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,3 +68,4 @@ Skill für Beamte, denen die Entfernung aus dem Beamtenverhaeltnis droht oder ve
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Studiendirektor entfernt wegen Veruntreuung von 35.000 Euro Schulgeld. Skill liefert Antrag auf Unterhaltsbeitrag und Hinweise auf Nachversicherung in der gesetzlichen Rentenversicherung.
+

@@ -5,10 +5,6 @@ description: "Gesellschafterversammlung für Wandeldarlehensmandat einberufen un
 
 # Gesellschafterversammlung einberufen (Kapitalerhöhung)
 
-## Arbeitsbereich
-
-Gesellschafterversammlung für Wandeldarlehensmandat einberufen und Tagesordnung aufstellen. §§ 49 51 GmbHG Ladungspflichten. Prüfraster: Ladungsfrist Form Tagesordnung Quorum Vollmachten Protokollpflicht. Output: Einberufungsschreiben Tagesordnung Vollmachtsformular. Abgrenzung: nicht für spezifische Beschlussvorbereitung (gesellschafterbeschluss-vorbereiten). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Gesellschafterversammlung für Wandeldarlehensmandat einberufen und Tagesordnung
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill leitet die Einberufung der außerordentlichen Gesellschafterversammlung zur Beschlussfassung über die Kapitalerhöhung gegen Sacheinlage (Wandlung Wandeldarlehen) ein. Phase D des Lebenszyklus.
 
 ## Eingaben
 
@@ -93,12 +85,6 @@ Hinweis: Die Beschlussfassung zu TOP 1 bis 3 erfordert notarielle Beurkundung.
 | Tagesordnung unvollständig | Beschluss über nicht angekündigten Punkt anfechtbar | Nachträgliche Ergänzung | Vollständige Tagesordnung |
 | Quorum nicht erreicht | Beschluss nicht gefasst | Vertretung unklar | Alle Gesellschafterinnen anwesend/vertreten |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-kapitalerhoehung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/notar-paket-uebermittlung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/wandlung-kommunikation-paketverteilung/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 49 ff. aktualisieren.
@@ -114,3 +100,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 § 51 GmbHG (Einberufung Gesellschafterversammlung, Frist 1 Woche) → § 51 Abs. 3 GmbHG (Vollversammlung mit Zustimmung) → § 53 GmbHG (notarielle Beurkundung, vollständige Beschlussangaben) → § 47 Abs. 1 GmbHG (Stimmrecht, Mehrheitserfordernisse)
+

@@ -5,10 +5,6 @@ description: "Truppendienstgericht Zuständigkeit Verfahren: prüft die einschl�
 
 # Truppendienstgericht – Zuständigkeit und Verfahren
 
-## Arbeitsbereich
-
-Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,15 +86,6 @@ Die Truppendienstgerichte (Süd in München, Nord in Münster) sind erstinstanzl
 - Vorläufige Dienstenthebung nicht gesondert angegriffen.
 - Pflichtige Anwesenheit übersehen – Folge: Vorführung oder Verfahrensnachteile.
 
-## Querverweise
-
-- wehrbeschwerdeordnung-beschwerde-frist-form
-- gerichtliches-disziplinarverfahren-soldat
-- bundesverwaltungsgericht-wehrdienstsenate
-- vorläufige-dienstenthebung-einbehaltung-bezuege
-- eilverfahren-konkurrentenstreit-wehrdienstsenat
-- rechtsbeistand-im-disziplinarverfahren
-
 ## Quellen Stand 06/2026
 
 - WDO §§ 68 ff., 90 ff. – Volltext gesetze-im-internet.de.
@@ -106,3 +93,4 @@ Die Truppendienstgerichte (Süd in München, Nord in Münster) sind erstinstanzl
 - Geschäftsverteilung Truppendienstgerichte – jährlich veröffentlicht beim BVerwG.
 - BVerwG Wehrdienstsenate – Rechtsprechung zu Verfahrensgrundsätzen vor dem TDG.
 - Keine Kommentarstellen oder Aufsätze aus Modellwissen.
+

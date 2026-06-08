@@ -5,10 +5,6 @@ description: "Disziplinarbuße, Gehaltskürzung, Besoldungsfolgen: prüft WDO §
 
 # Disziplinarbuße, Gehaltskürzung und Besoldung
 
-## Arbeitsbereich
-
-Disziplinarbuße, Gehaltskürzung, Besoldungsfolgen: prüft WDO §§ 22–30, Bemessung, Vollstreckung und Rechtsbehelfe. Norm-/Quellenanker: WDO, BBesG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,12 +32,6 @@ Verhältnismäßigkeit ist zentrales Prüfkriterium. BVerwG-Rechtsprechung ist s
 - § 30 WDO — Beförderungsverbot
 - § 38 WDO — Bemessungsgrundsätze
 - BBesG — Besoldung bei Disziplinarmaßnahmen
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -96,20 +86,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Prüfschema: Verhältnismäßigkeit Disziplinarbuße
 - Muster-WBO-Beschwerde gegen Disziplinarmaßnahme
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/wdo_2002/ — WDO
-- https://dejure.org/gesetze/WDO
-- https://www.bverwg.de — BVerwG Wehrdienstsenat
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -119,3 +95,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

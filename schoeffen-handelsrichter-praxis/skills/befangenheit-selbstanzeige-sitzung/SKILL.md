@@ -5,10 +5,6 @@ description: "Befangenheit Selbstanzeige (Sitzungspraxis): hilft ehrenamtlichen 
 
 # Befangenheit Selbstanzeige: Sitzungspraxis
 
-## Arbeitsbereich
-
-Befangenheit Selbstanzeige (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,12 +17,6 @@ Befangenheit Selbstanzeige (Sitzungspraxis): hilft ehrenamtlichen Richterinnen u
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Näheverhältnis, Vorbefassung, Social Media, Lokalpolitik und Selbstanzeige - Sitzungspraxis
 
 ## Sofortsortierung
 
@@ -59,7 +49,6 @@ Erzeuge konkreter Ablaufplan, sichere Formulierungen für Nachfragen und Nachber
 - Welches Gericht und welche Rolle?
 - Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -67,6 +56,4 @@ Konkret zu prüfen:
 - §§ 24, 26 StPO
 - § 31 StPO
 - § 338 Nr. 3 StPO
-## Quellenhygiene
 
-Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

@@ -5,9 +5,6 @@ description: "Orientierung Patent Nichtigkeitsklage UWG im Plugin Fachanwalt Gew
 
 # Orientierung Patent Nichtigkeitsklage UWG
 
-## Arbeitsbereich
-
-**Orientierung Patent Nichtigkeitsklage UWG** ordnet den Fall über die tragenden Prüfungslinien: Gewerblichen Rechtsschutz-Mandat einordnen und, Patentnichtigkeitsklage beim BPatG vorbereiten oder, Einstweilige Verfuegung im UWG-Verfahren beantragen oder. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Orientierung Patent Nichtigkeitsklage UWG im Plugin Fachanwalt Gew
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-gewerblicher-rechtsschutz-orientierung`
@@ -87,9 +85,6 @@ Keine Eintragungs-Barriere vorhanden?
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Checkliste
 
 - [ ] Widerspruchsfrist Marke: 3 Monate (§ 42 MarkenG / Art. 46 UMV)
@@ -223,9 +218,6 @@ Schritt 8: Berufung BGH (wenn noetig)
  → Frist: 1 Monat nach Urteilszustellung (§ 110 Abs. 1 PatG)
 ```
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -392,9 +384,6 @@ Schritt 7: Nach Erlass der Verfuegung
  → Hauptsacheklage ggf. einreichen (zur dauerhaften Unterlassung)
 ```
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template Abmahnung UWG (Auszug)
 
 **Adressat:** Gegenseite — Tonfall scharf-fristsetzend
@@ -489,3 +478,4 @@ ANLAGEN: K1 [Screenshot], K2 [Kaufbeleg], K3 [Eidesstattliche Versicherung]
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — vollstaendige UWG-Abmahnung
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo` — Vergleichsstrategie nach Abmahnung
 - `gewerblicher-rechtsschutz/schutzschrift-eilverfuegung` — Schutzschrift auf Gegenseite
+

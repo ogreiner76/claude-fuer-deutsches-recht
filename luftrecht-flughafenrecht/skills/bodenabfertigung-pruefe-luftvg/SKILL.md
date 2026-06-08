@@ -5,10 +5,6 @@ description: "Bodenabfertigungs-Mandat: unklar welche Behörde zuständig ist La
 
 # Bodenabfertigung – Zuständigkeit prüfen
 
-## Arbeitsbereich
-
-Bodenabfertigungs-Mandat: unklar welche Behörde zuständig ist Landesluftfahrtbehoerde Wettbewerbsbehoerde oder Flughafenbetreiber. Prueft BADV EU-RL 96/67 EG LuftVG § 6 und Ausschreibungsrecht und liefert Zuständigkeits-Vermerk für Bodenabfertigungs-Streit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,6 +44,7 @@ BADV EU-RL 96/67 EG LuftVG § 6 GWB Verwaltungsrecht – die einschlägigen Norm
 - **BADV § 16**: Auswahlverfahren bei Kapazitätsbeschränkung; Vergabekommission.
 - **EU-Richtlinie 96/67/EG Art. 6**: Marktöffnung für Bodenabfertigungsdienste.
 - **LuftVG § 45**: Haftung bei Bodenabfertigungsschäden; Verweis auf allg. Deliktsrecht.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -58,6 +55,7 @@ BADV EU-RL 96/67 EG LuftVG § 6 GWB Verwaltungsrecht – die einschlägigen Norm
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Genehmigung nach BADV § 3 aktuell und umfasst die tatsächlich erbrachten Dienste?
 8. Hat Flughafen Kapazitätsbeschränkung nach BADV § 16 rechtmäßig festgesetzt?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -75,9 +73,6 @@ Die Zuständigkeitsfrage ist bei luftrechtlichen Mandaten häufig das erste Hind
 - **EASA vs. nationale Behörde**: Seit Inkrafttreten der EASA-Basisverordnung (VO 2018/1139) hat EASA Direktzuständigkeit für Zulassungen von Luftfahrzeugen und Organisationen; das LBA bleibt für betriebliche Zulassungen zuständig.
 - **Verwaltungsgericht vs. Zivilgericht**: Bescheide einer Luftfahrtbehörde sind vor dem VG anzufechten; privatrechtliche Ansprüche (Leasingstreit Schaden) gehören vor die Zivilgerichte.
 
-## Output
-
-Strukturierter Vermerk zu Bodenabfertigung – Zuständigkeit prüfen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. BADV-Compliance-Checkliste. Vergabeverfahrens-Protokoll. Selbstabfertigungs-Antrag.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -106,3 +101,4 @@ Für Mandate im Bereich Bodenabfertigungsdienste und Selbstabfertigungsrecht sin
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

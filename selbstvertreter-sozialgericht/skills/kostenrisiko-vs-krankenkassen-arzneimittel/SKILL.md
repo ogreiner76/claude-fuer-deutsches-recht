@@ -5,9 +5,6 @@ description: "Kostenrisiko VS Krankenkassen Arzneimittel im Selbstvertretung am 
 
 # Kostenrisiko VS Krankenkassen Arzneimittel
 
-## Arbeitsbereich
-
-**Kostenrisiko VS Krankenkassen Arzneimittel** ordnet den Fall über die tragenden Prüfungslinien: Was kostet Sie ein SG-Verfahren wirklich?, Krankenkassen-Arzneimittel nach § 31 SGB V, Krankenkassen-Fahrkosten nach § 60 SGB V. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Kostenrisiko VS Krankenkassen Arzneimittel im Selbstvertretung am 
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kostenrisiko-vs-kostenfreiheit-laien`
@@ -146,26 +144,9 @@ Bei Erfolg: Beklagte erstattet (Sie kriegen meist die volle Anwalts-Erstattung).
 - Mutwilligkeits-Warnung ignoriert → § 192 SGG kommt
 - Erstattung nach Erfolg vergessen → § 193-Antrag stellen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `gerichtskostenfreiheit-183-sgg` — Grundlage
-- `kostenfrei-vs-aufwendungsersatz-193-sgg` — Erstattung
-- `anwaltskosten-bei-erfolg-erstattung` — Anwalt
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-- `pkh-vor-sozialgericht-73a-sgg` — PKH
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt. Pruefen Sie Anwalts-RVG-Werte aktuell.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `krankenkassen-arzneimittel-31-sgb-v`
 
@@ -380,3 +361,4 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 3. Verordnungsdauer?
 4. Grundpflege als Annex?
 5. Pflegekasse parallel?
+

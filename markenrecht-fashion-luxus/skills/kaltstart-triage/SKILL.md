@@ -3,17 +3,6 @@ name: kaltstart-triage
 description: "Einstieg, Schnelltriage und Fallrouting im großen Markenrechts-Plugin: klärt Anmeldung, Recherche, DPMA/EUIPO/WIPO/USPTO, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-Fashion-Spezialfälle."
 ---
 
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-# Markenrecht — Allgemein
-
 ## Aktenstart statt Formularstart
 
 Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Markenrecht Fashion Luxus** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
@@ -250,15 +239,9 @@ Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nich
 - Unterschied DPMA-Widerspruch und Nichtigkeitsklage verwechselt: Widerspruch nur binnen drei Monaten nach Eintragung; Nichtigkeitsklage jederzeit.
 - CBP-Recordation in den USA unterlassen: Ohne Eintragung beim CBP kein aktiver US-Zollschutz gegen gefaelschte Einfuhren.
 
-## Querverweise
-
-- Plugin `patentrecherche` — Formmarken und technische Schutzrechte koennen sich ueberschneiden; Kombinationsschutz pruefen.
-- Plugin `aussenwirtschaft-zoll-sanktionen` — EU-Grenzbeschlagnahme und US-CBP-Massnahmen erfordern Abstimmung mit Zollrecht.
-- Plugin `grosskanzlei-corporate-ma` — Bei M&A-Transaktionen: IP-Portfolio-Due-Diligence und Markenuebergang.
-- Plugin `umweltrecht` — Greenwashing-Schutzaussagen auf Produkten koennen Marken- und UWG-Fragen verbinden.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
 - MarkenG, UMV (VO (EU) 2017/1001), Lanham Act (15 U.S.C.) in aktuell geltender Fassung
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -19,9 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-**Entfristung Schriftform ABS Triage WAS** ordnet den Fall über die tragenden Prüfungslinien: KERNSKILL, Einstieg Entfristungsklage-Workflow, Typische Vergleichsbausteine in der Entfristungsklage. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -38,6 +35,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `entfristung-schriftform-14-abs-4-erkennen`
@@ -75,9 +73,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum: Schriftformmangel erkennen
 
 ```
@@ -97,10 +92,6 @@ Frage 4 (bei Verlängerung): Verlaengerungsvereinbarung ebenfalls formwirksam (P
  ├── Nein (mündlich / per E-Mail) → SCHRIFTFORMMANGEL bei der Verlängerung
  └── Ja → Verlängerung wirksam
 ```
-
-## Zweck
-
-Dies ist der wichtigste Skill im Entfristungs-Bündel. § 14 Abs. 4 TzBfG legt fest, dass die **Befristungsabrede** — also die Klausel im Arbeitsvertrag, die eine zeitliche Begrenzung festlegt — der Schriftform bedarf. Fehlt diese Schriftform, gilt der Vertrag als unbefristet.
 
 ## Die Norm — § 14 Abs. 4 TzBfG
 
@@ -184,10 +175,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 ## Aktuelle Rechtsprechung (Kurzüberblick für Triage)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zweck
-
-Dieser Skill ist der Einstieg in den Entfristungs-Workflow. Er klärt, ob das Ziel des Nutzers ist, festzustellen, dass ein angeblich befristeter Vertrag in Wirklichkeit **unbefristet** ist (Befristungskontrollklage / Entfristungsklage).
 
 ## Abgrenzung: Entfristungsklage vs. Kündigungsschutzklage
 
@@ -274,10 +261,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zweck
-
-Ein Vergleich in der Entfristungsklage kann verschiedene Formen annehmen. Dieser Skill listet alle relevanten Punkte auf.
 
 ## Option A: Entfristungsbestätigung (Arbeitgeber gibt nach)
 
@@ -393,9 +376,6 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=7+AZR+1048%2F0
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## KRITISCHE SOFORTPRÜFUNG (Schritte)
 
 ### Schritt 1: Zugangsdatum feststellen
@@ -472,3 +452,4 @@ Kündigung zugegangen?
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+

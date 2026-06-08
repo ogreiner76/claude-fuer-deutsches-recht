@@ -5,10 +5,6 @@ description: "Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach
 
 # Klageerwiderung und substantiiertes Bestreiten
 
-## Arbeitsbereich
-
-Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: Eingangsformel, Antrag auf Klageabweisung, Sachverhalt mit Bestreitens-Architektur, rechtliche Würdigung, Hilfsantrag (Aufrechnung; Zurückbehaltung), Beweisangebote. Mit Mustertext und Pitfalls. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. W
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die Klageerwiderung ist die erste schriftliche Verteidigung der Beklagtenseite. Sie entscheidet über die Bestreitenshöhe und damit über die Beweislast. § 138 ZPO ist die zentrale Norm: Tatsachen sind vollständig und der Wahrheit gemäß zu erklären; Bestreiten muss substantiiert sein, wo dem Beklagten ein eigener Vortrag möglich und zumutbar ist.
-
-Dieser Skill führt Sie durch den Aufbau, hilft bei der Bestreitens-Architektur und liefert einen Mustertext. Er richtet sich an Drafter, die eine Erwiderung in der Klageschrift-Frist erstellen oder ein Konzept für die mündliche Verhandlung schreiben.
 
 ## Eingaben
 
@@ -74,12 +64,6 @@ Dieser Skill führt Sie durch den Aufbau, hilft bei der Bestreitens-Architektur 
 - **Nichtwissen-Erklärung trotz eigener Wahrnehmung.** § 138 Abs. 4 ZPO gilt nicht für eigene Vorgänge.
 - **Reihenfolgefehler.** Aufrechnung vor Verteidigung. Erst gewinnen wollen, dann hilfsweise rechnen.
 - **Präklusion durch Fristversäumnis.** § 296 ZPO greift hart. Frist beachten.
-
-## Ausgabeformat
-
-- Vollständige Klageerwiderung im Schriftsatzformat.
-- Bei Konzeptphase: tabellarische Bestreitens-Matrix plus Skizze der Anträge.
-- Stets Anlagenverzeichnis B1 ff.
 
 ## Beispiele
 
@@ -136,16 +120,10 @@ Marta Verteidiger
 Rechtsanwalt
 ```
 
-## Querverweise
-
-- `klage-drafting-253-zpo` für die Klägerseite
-- `dokumentarchitektur-vertrag-und-schriftsatz`
-- `gutachten-memo-internes-drafting` für die interne Vorbereitung
-- `revisions-prozess-redlines-comparison` für Abstimmung mit dem Mandanten
-
 ## Quellen (Stand 05/2026)
 
 - §§ 138, 145 Abs. 3, 277, 296 ZPO; gesetze-im-internet.de.
 - §§ 320, 273, 387 ff. BGB für Zurückbehaltung und Aufrechnung.
 - BGH-Rechtsprechung zum substantiierten Bestreiten und zur sekundären Darlegungslast: vom Nutzer zu verifizieren. Keine Aktenzeichen aus Modellwissen.
 - `references/zitierweise.md` für Belegpflicht.
+

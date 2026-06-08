@@ -5,10 +5,6 @@ description: "Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet
 
 # Polizeiliche KI: Vertrauenswürdigkeit und Auditierbarkeit
 
-## Arbeitsbereich
-
-Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation für Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,10 +40,7 @@ Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditi
 - klare Nichtnutzungsszenarien.
 - Betroffenen- und Rechtsschutzperspektive.
 
-## Output
-
-Ein Beschaffungs- oder Einsatzvermerk mit Ampel und Abhilfen.
-
 ## Warnung
 
 Bei Polizei-KI ist "Treffer" nur ein Hinweis. Er darf nicht unbemerkt zum Beweis, zur Verdachtsbegründung oder zur Einsatzentscheidung mutieren.
+

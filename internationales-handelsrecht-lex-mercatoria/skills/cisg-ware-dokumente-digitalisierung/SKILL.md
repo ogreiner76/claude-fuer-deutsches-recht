@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Vertragsmäßigkeit der Ware nach CI
 
 # Ware, Dokumente und Digitalisierung (CISG Art. 34-35)
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Vertragsmäßigkeit der Ware nach CISG Art. 35 und Dokumentenpflichten. Objektive und subjektive Anforderungen, Verpackung, Haltbarkeit, Eignung für besonderen Zweck und elektronische Handelsdokumente. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Art. 35 CISG bestimmt die Vertragsmäßigkeit der Ware in subjektiver (Art. 35 A
 - Digitalisierung: MLETR-Umsetzungsstand im relevanten Land prüfen (uncitral.un.org)
 - eUCP 2.0 Anpassungsklausel in Akkreditiv explizit einbeziehen
 
-## Output
-
-- Vertragsmäßigkeits-Checkliste (Art. 35 Abs. 1 und 2)
-- Übersicht elektronische Dokumente und Rechtsrahmen
-- Klauselvorschlag: eUCP-Verweis im Akkreditiv
-
-## Quellenregel
-
-CISG Art. 34-35: uncitral.un.org. MLETR: uncitral.un.org/en/texts/ecommerce. eUCP 2.0: iccwbo.org. CISG-Rspr.: CISG-online.ch. Unsicherheit bleibt sichtbar.

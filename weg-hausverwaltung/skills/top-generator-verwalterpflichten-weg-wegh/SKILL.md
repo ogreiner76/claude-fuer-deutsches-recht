@@ -5,9 +5,6 @@ description: "TOP Generator Verwalterpflichten WEG Wegh im Plugin Weg Hausverwal
 
 # TOP Generator Verwalterpflichten WEG Wegh
 
-## Arbeitsbereich
-
-**TOP Generator Verwalterpflichten WEG Wegh** ordnet den Fall über die tragenden Prüfungslinien: Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und V. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "TOP Generator Verwalterpflichten WEG Wegh im Plugin Weg Hausverwal
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `top-generator-emotion-zu-beschluss`
@@ -42,10 +40,6 @@ description: "TOP Generator Verwalterpflichten WEG Wegh im Plugin Weg Hausverwal
 ## Fachkern: TOP-Generator - von Emotion zu Beschluss
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-
-## Zweck
-
-Dieser Skill nimmt Material so, wie es in der Verwaltung wirklich ankommt: wuetende E-Mails, Fotos, Chatverlaeufe, halbe Kostenvoranschlaege und unklare Beschwerden. Daraus wird eine sachliche, beschlussfaehige Tagesordnung.
 
 ## Vier Pflichtbausteine
 
@@ -71,14 +65,6 @@ Dieser Skill nimmt Material so, wie es in der Verwaltung wirklich ankommt: wuete
 ## Qualitaetsgate
 
 Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfundene Quellen? Sind Fristen und offene Tatsachen sichtbar? Ist der naechste Schritt eindeutig?
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `verwalterpflichten-26-27-weg`
 
@@ -137,14 +123,6 @@ Verwalterhandeln rechtssicher einordnen: Was darf der Verwalter allein, was brau
 - Verweigerung der Belegeinsicht.
 - Nichteinhaltung des CO2KostAufG (Datenbereitstellung) oder GEG-Pflichten (z. B. Heizungstausch-Beschlussvorlage).
 
-## Output
-
-- Kompetenzmatrix für den konkreten Vorgang
-- Beschlussbedarfsliste
-- Verwalter- bzw. Beiratsnotiz mit Risikoampel
-- Abberufungs- und Neubestellungsfahrplan (Termine, Vergleichsangebote, Vertragsentwurf)
-- Hinweis auf Schadensersatzweg über GdWE (V ZR 34/24)
-
 ## Cross-Refs
 
 - Beschlussvorlage / Neubestellung → `beschlussvorlagen-erstellen`
@@ -155,14 +133,6 @@ Verwalterhandeln rechtssicher einordnen: Was darf der Verwalter allein, was brau
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 26, § 27 WEG: https://www.gesetze-im-internet.de/woeigg/__26.html, https://www.gesetze-im-internet.de/woeigg/__27.html .
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `wegh-bauliche-veraenderung-beschluss-spezial`
 
@@ -209,15 +179,9 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+

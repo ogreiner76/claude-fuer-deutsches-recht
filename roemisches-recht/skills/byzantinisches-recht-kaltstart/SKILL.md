@@ -36,11 +36,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Aufgabe
-
-Dieser Skill öffnet den byzantinischen Teil des Plugins. Er behandelt **römisches Recht im oströmisch-byzantinischen Fortleben**: Justinian, spätere Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung, Verwaltungsrecht, Kirchenrecht, Familienrecht und die Basiliken-Tradition.
-
 ## Startfragen
 
 1. Welche Zeit interessiert: Justinian, nachjustinianische Gesetzgebung, mittlere byzantinische Kompilationen oder spätere Rezeption?
@@ -62,3 +57,4 @@ Dieser Skill öffnet den byzantinischen Teil des Plugins. Er behandelt **römisc
 - Kurze Epochenlinie.
 - Materienbezogene Prüfmatrix.
 - Anschluss-Skills zu Novellen, Basiliken, Kirchenrecht oder Rezeptionsvergleich.
+

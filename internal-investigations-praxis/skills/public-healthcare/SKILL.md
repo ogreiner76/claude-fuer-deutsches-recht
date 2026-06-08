@@ -5,10 +5,6 @@ description: "Untersucht Unregelmäßigkeiten bei öffentlichen Vergabeverfahren
 
 # Öffentliche Vergabe und Beschaffungsmanipulation
 
-## Arbeitsbereich
-
-Untersucht Unregelmäßigkeiten bei öffentlichen Vergabeverfahren – GWB, VgV, Kartellrecht, Manipulationsrisiken und Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill untersucht Manipulationen in öffentlichen Vergabeverfahren und lei
 - Schadensersatz gegenüber dem öffentlichen Auftraggeber.
 - Rehabilitation durch Selbstreinigung (§ 125 GWB): Nachweis angemessener Compliance-Maßnahmen.
 
-## Red-Team-Fragen
-
-- Gibt es Dokument-Metadaten, die auf identische Erstellungsumgebung mehrerer Bieter hindeuten?
-- Wurden Spezifikationen im Vergabeverfahren nachträglich zum Vorteil eines Bieters geändert?
-- Hat das Unternehmen bei einem Misserfolg in einem Vergabeverfahren die Vergabeakte gemäß § 165 GWB eingesehen?
-- Wurden alle Beteiligten an der Vergabeentscheidung auf Interessenkonflikte geprüft?
-- Wenn Absprachen mit anderen Bietern vorlagen: wurde der Kronzeugenantrag beim Bundeskartellamt erwogen?
-- Ist eine Selbstreinigung nach § 125 GWB möglich und sinnvoll, um Vergabeausschlüsse zu vermeiden?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -97,3 +84,4 @@ Dieser Skill untersucht Manipulationen in öffentlichen Vergabeverfahren und lei
 - **Strafanzeige** §§ 298, 333 StGB
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

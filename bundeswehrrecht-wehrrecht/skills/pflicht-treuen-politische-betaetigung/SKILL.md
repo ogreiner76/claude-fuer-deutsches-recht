@@ -37,12 +37,6 @@ Pflicht zum treuen Dienen § 7 SG: prüft Treuepflicht, politisches Mäßigungsg
 - Art. 4 GG — Gewissensfreiheit
 - BVerwG — Treuepflichtverletzungen
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - Was ist der konkrete Vorwurf (extremistische Äußerung, politische Betätigung, soziale Medien)?
@@ -94,21 +88,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Meinungsäußerung Soldat — erlaubt oder verboten?
 - Tabelle: §§ 7, 7a, 8 SG — Pflichten im Überblick
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — §§ 7, 7a, 8 SG
-- https://www.bverwg.de — BVerwG Treuepflichtverletzungen
-- https://www.bverfg.de
-- https://dejure.org/gesetze/SG/7.html
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +97,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

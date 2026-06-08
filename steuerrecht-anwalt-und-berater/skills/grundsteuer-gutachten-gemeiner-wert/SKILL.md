@@ -11,10 +11,6 @@ description: "Grundsteuer-Gegenbeweis mit gemeinem Wert vorbereiten: Kaufpreis, 
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Aufgabe
-
-Bereite den Nachweis vor, dass der festgestellte Grundsteuerwert im Einzelfall erheblich über dem gemeinen Wert liegt. Der Skill hilft, ohne voreilige Gutachtenkosten eine belastbare Belegstrategie zu bauen.
-
 ## Belegtreppe
 
 1. **Schnellbelege**: aktueller Kaufpreis, nicht nur Wunschpreis; Exposé; Maklerbewertung; Vergleichsangebote.
@@ -34,14 +30,6 @@ Bereite den Nachweis vor, dass der festgestellte Grundsteuerwert im Einzelfall e
 
 Die BFH-AdV-Beschlüsse vom 27.05.2024 ermöglichen im Eilverfahren eine Argumentation über den niedrigeren gemeinen Wert. Das ersetzt nicht den Nachweis. Formuliere daher nie "wegen BFH automatisch auszusetzen", sondern "ernstliche Zweifel bei plausibel belegter erheblicher Abweichung".
 
-## Output
-
-- Belegtreppe mit Kosten-Nutzen-Einschätzung.
-- Gutachter-Briefing mit konkreter Bewertungsfrage.
-- AdV-Begründungsbaustein.
-- Anlageverzeichnis.
-- Risikoabschnitt: Kosten, Beweislast, Zeit, Hauptsache.
-
 ## Praktischer Tipp
 
 - "Erhebliche Abweichung" nach BFH-AdV-Linie heißt: in den entschiedenen Fällen lagen festgestellter Grundsteuerwert und plausibler gemeiner Wert um deutlich mehr als 40 % auseinander. Bei kleineren Abweichungen besser auf konkrete Bewertungsfehler stützen, nicht auf den gemeinen Wert.
@@ -58,10 +46,3 @@ Die BFH-AdV-Beschlüsse vom 27.05.2024 ermöglichen im Eilverfahren eine Argumen
 - Kaufpreis aus 2020 für den Stichtag 01.01.2022 ohne Zeitanpassung verwenden.
 - AdV-Antrag ohne ausdrücklichen Hilfsantrag auf Sicherheitsleistung; bei hohen Beträgen riskant.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

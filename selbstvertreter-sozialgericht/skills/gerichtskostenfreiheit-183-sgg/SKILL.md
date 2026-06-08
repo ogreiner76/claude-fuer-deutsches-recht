@@ -91,23 +91,7 @@ Wenn Sie gewinnen, muss die unterliegende Behörde Ihnen die notwendigen ausserg
 - Anwalt selbst gezahlt, obwohl Erfolg → § 193-Antrag beim SG stellen
 - § 192 SGG provoziert mit aggressiven Schriftsaetzen → ruhig und sachlich bleiben
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `kostenfrei-vs-aufwendungsersatz-193-sgg` — Auslagen bei Erfolg
-- `anwaltskosten-bei-erfolg-erstattung` — Anwaltskosten zurueck
-- `pkh-vor-sozialgericht-73a-sgg` — PKH, falls Sie doch Anwalt brauchen
-- `sachverstaendigen-wahlrecht-109-sgg` — wann Sie eigenes Gutachten zahlen
-- `kostenrisiko-vs-kostenfreiheit-laien` — Risiko-Ueberblick
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 183 SGG ist Kernschutz der sozialen Gerichtsbarkeit. Pruefen Sie im Zweifel mit Ihrem Sozialverband.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Prueft die Zitierweise in Manuskripten gegen die jeweiligen Hausno
 
 # Zitierweise-Pruefung (NJW, NZA, JuS, JZ, ...)
 
-## Arbeitsbereich
-
-Prueft die Zitierweise in Manuskripten gegen die jeweiligen Hausnormen von NJW NZA JuS JZ und verwandten Fachzeitschriften ohne Halluzination. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -88,14 +84,6 @@ Hinweis: Die exakte Hausnorm immer aus den jeweils geltenden Manuskriptrichtlini
 - aaO an Stellen, an denen das vorherige Zitat zu weit zurueckliegt.
 - Internetzitate ohne Abrufdatum.
 
-## Querverweise
-
-- `verl-formatvorlage-check-autor-manuskript` - vorgelagerte Pruefung.
-- `verl-fussnoten-quellen-konsolidierung` - Aufbau des Apparats.
-- `quellen-zitate-fundstellencheck` - allgemeiner Quellencheck.
-- `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-- `verl-aussagensicherheit-pruefung` - bei unklaren Aussagen mit fehlenden Belegen.
-
 ## Quellen Stand 06/2026
 
 - Manuskriptrichtlinien der jeweiligen Zielzeitschrift (vom Verlag bezogen).
@@ -104,3 +92,4 @@ Hinweis: Die exakte Hausnorm immer aus den jeweils geltenden Manuskriptrichtlini
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - dejure.org, [https://dejure.org](https://dejure.org) (für Az.-Verifikation).
+

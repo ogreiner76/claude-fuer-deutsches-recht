@@ -8,6 +8,7 @@ description: "Inso P040 Unterhaltsanspruche P041 Nicht P042 im Insolvenz- und Sa
 ## Arbeitsbereich
 
 **Inso P040 Unterhaltsanspruche P041 Nicht P042** ordnet den Fall über die tragenden Prüfungslinien: § 40 InsO (Unterhaltsansprüche) im Mandat prüfen, § 41 InsO (Nicht fällige Forderungen) im Mandat prüfen, § 42 InsO (Auflösend bedingte Forderungen) im Mandat prüfen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -41,6 +42,7 @@ description: "Inso P040 Unterhaltsanspruche P041 Nicht P042 im Insolvenz- und Sa
 - Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `inso-p040-unterhaltsanspruche`
@@ -56,9 +58,6 @@ description: "Inso P040 Unterhaltsanspruche P041 Nicht P042 im Insolvenz- und Sa
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 40 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 40 InsO**
@@ -94,9 +93,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 2. `inso-p041-nicht-fallige-forderungen`
 
 **Fokus:** § 41 InsO (Nicht fällige Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -110,9 +106,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 41 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 41 InsO**
@@ -148,9 +141,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 3. `inso-p042-auflosend-bedingte-forderungen`
 
 **Fokus:** § 42 InsO (Auflösend bedingte Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -164,9 +154,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 42 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 42 InsO**
@@ -202,9 +189,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 4. `inso-p044-rechte-der-gesamtschuldner-und-burgen`
 
 **Fokus:** § 44 InsO (Rechte der Gesamtschuldner und Bürgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -218,9 +202,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 44 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 44 InsO**
@@ -256,9 +237,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 5. `inso-p044a-gesicherte-darlehen`
 
 **Fokus:** § 44a InsO (Gesicherte Darlehen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -272,9 +250,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 44a InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 44a InsO**
@@ -310,9 +285,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 6. `inso-p045-umrechnung-von-forderungen`
 
 **Fokus:** § 45 InsO (Umrechnung von Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -326,9 +298,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 45 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 45 InsO**
@@ -364,9 +333,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 7. `inso-p046-wiederkehrende-leistungen`
 
 **Fokus:** § 46 InsO (Wiederkehrende Leistungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -380,9 +346,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 46 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 46 InsO**
@@ -418,9 +381,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 8. `inso-p047-aussonderung`
 
 **Fokus:** § 47 InsO (Aussonderung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -434,9 +394,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 47 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 47 InsO**
@@ -472,9 +429,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 9. `inso-p048-ersatzaussonderung`
 
 **Fokus:** § 48 InsO (Ersatzaussonderung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -488,9 +442,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 48 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 48 InsO**
@@ -526,9 +477,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 10. `inso-p049-abgesonderte-befriedigung-aus-unbeweglichen-gegenstand`
 
 **Fokus:** § 49 InsO (Abgesonderte Befriedigung aus unbeweglichen Gegenständen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -542,9 +490,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 49 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 49 InsO**
@@ -580,9 +525,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 11. `inso-p050-abgesonderte-befriedigung-der-pfandglaubiger`
 
 **Fokus:** § 50 InsO (Abgesonderte Befriedigung der Pfandgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -596,9 +538,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 50 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 50 InsO**
@@ -634,9 +573,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 12. `inso-p051-sonstige-absonderungsberechtigte`
 
 **Fokus:** § 51 InsO (Sonstige Absonderungsberechtigte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -650,9 +586,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 51 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 51 InsO**
@@ -688,9 +621,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 13. `inso-p052-ausfall-der-absonderungsberechtigten`
 
 **Fokus:** § 52 InsO (Ausfall der Absonderungsberechtigten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -704,9 +634,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 52 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 52 InsO**
@@ -742,9 +669,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 14. `inso-p053-masseglaubiger`
 
 **Fokus:** § 53 InsO (Massegläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -758,9 +682,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 53 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 53 InsO**
@@ -796,9 +717,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 15. `inso-p055-sonstige-masseverbindlichkeiten`
 
 **Fokus:** § 55 InsO (Sonstige Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -812,9 +730,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 55 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 55 InsO**
@@ -850,9 +765,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 16. `inso-p056-bestellung-des-insolvenzverwalters`
 
 **Fokus:** § 56 InsO (Bestellung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -866,9 +778,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 56 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 56 InsO**
@@ -904,9 +813,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 17. `inso-p056a-glaubigerbeteiligung-bei-der-verwalterbestellung`
 
 **Fokus:** § 56a InsO (Gläubigerbeteiligung bei der Verwalterbestellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -920,9 +826,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 56a InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 56a InsO**
@@ -959,9 +862,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 18. `inso-p056b-verwalterbestellung-bei-schuldnern-derselben-unterneh`
 
 **Fokus:** § 56b InsO (Verwalterbestellung bei Schuldnern derselben Unternehmensgruppe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -975,9 +875,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 56b InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 56b InsO**
@@ -1014,9 +911,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 19. `inso-p057-wahl-eines-anderen-insolvenzverwalters`
 
 **Fokus:** § 57 InsO (Wahl eines anderen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -1030,9 +924,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 57 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 57 InsO**
@@ -1068,9 +959,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 20. `inso-p058-aufsicht-des-insolvenzgerichts`
 
 **Fokus:** § 58 InsO (Aufsicht des Insolvenzgerichts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -1084,9 +972,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 58 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 58 InsO**
@@ -1122,9 +1007,6 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.
-
 ## 21. `inso-p059-entlassung-des-insolvenzverwalters`
 
 **Fokus:** § 59 InsO (Entlassung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
@@ -1138,9 +1020,6 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einsatz
-Anwendungsfall: ein Mandat, Schriftsatz, Gutachten, Registervorgang oder Sanierungsan **§ 59 InsO** hängt. Der Skill macht aus dem Paragraphen keinen Kommentarersatz, sondern einen präzisen Arbeitsweg: erst Normfunktion, dann Tatsachen, dann Belege, dann Rechtsfolge.
 
 ## Normkontext
 - Paragraph: **§ 59 InsO**
@@ -1176,5 +1055,3 @@ Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die 
 - **Gerichts-/Verwalterfassung:** knapper, beleggestützter Vortrag ohne Literaturblindzitate.
 - **Red-Team-Block:** Gegenargumente, Beweisprobleme, Zuständigkeits- oder Formrisiken.
 
-## Quellenhygiene
-Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und möglichst freiem amtlichem oder gerichtlichem Link. Keine BeckRS-/juris-/Kommentarangaben aus Modellwissen. Wenn der konkrete Wortlaut, Reformstand oder eine Übergangsfrage entscheidend ist, zuerst den aktuellen Normtext und danach belastbare freie Rechtsprechungsquellen prüfen.

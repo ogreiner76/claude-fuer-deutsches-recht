@@ -5,10 +5,6 @@ description: "PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern im Preußis
 
 # PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern
 
-## Arbeitsbereich
-
-PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern. Arbeite entlang dieser k
 - Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Zweiter Teil Ständeordnung Adel Bürger Bauern** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
 ## Kaltstart in 6 Fragen
 
@@ -73,10 +65,3 @@ ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Bei
 1. Heute reine Rechtsgeschichte. Falls nicht: namensrechtliche Frage zum Adelspraedikat.
 2. Bei Patrimonialgerichtsbarkeit: Aktenbestaende heute in Landesarchiven; Vorsicht bei Erbe und Lehen.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

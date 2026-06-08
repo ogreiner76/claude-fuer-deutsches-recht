@@ -36,12 +36,6 @@ Probleme entstehen bei PKV-Aufnahme nach langer Dienstzeit (Vorerkrankungen, War
 - SG § 30 — Fürsorge- und Treuepflicht
 - GOÄ/GOZ — Gebührenordnungen
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - Aktiver Soldat (Heilfürsorge) oder entlassen (PKV/Beihilfe)?
@@ -93,21 +87,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Tabelle: Heilfürsorge vs. Beihilfe vs. SVG-Heilbehandlung
 - Merkblatt: PKV-Übergang nach Entlassung
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/bbesg/ — § 70 BBesG
-- https://www.gesetze-im-internet.de/svg/ — §§ 69–74 SVG
-- https://www.gesetze-im-internet.de/bbhv/ — BBhV
-- https://www.bundeswehr.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -117,3 +96,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

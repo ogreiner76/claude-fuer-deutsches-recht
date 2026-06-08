@@ -18,10 +18,6 @@ description: "Red-Team gegen Institutionen-, Ordnung- und Lebenswirklichkeitsrhe
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill prüft Argumente, die mit `Institution`, `gewachsener Ordnung`, `Lebenswirklichkeit`, `Funktionsfähigkeit`, `organischer Struktur`, `Berufsbild`, `Familie`, `Markt`, `Verwaltungspraxis` oder `Tradition` arbeiten. Solche Argumente können hilfreich sein. Sie werden aber gefährlich, wenn sie unbemerkt Rechtsquellen ersetzen.
-
 ## Sofort klären
 
 1. Welche Institution wird angerufen?
@@ -67,13 +63,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Liefere:
-
-1. institutionelle Behauptung;
-2. empirischer Kern;
-3. rechtlicher Anknüpfungspunkt;
-4. nicht gedeckte Überschüsse;
-5. Macht- und Grundrechtsrisiko;
-6. bereinigte juristische Formulierung.

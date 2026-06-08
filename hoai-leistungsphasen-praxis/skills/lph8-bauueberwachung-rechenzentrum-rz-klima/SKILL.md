@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise K
 
 # Bauueberwachung Rechenzentrum RZ-Klima (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterstuetzt Bauueberwacher mit BIM360 und SAP-PM-EAM-Dokumentation für Rechenzentrum-Betreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Messgroessen wie PUE (Power Usage Effectiveness) und DCIE werden durch korrekt i
 - USV-Batterie unterdimensioniert: Testlauf zeigt Kapazitaet unter Anforderung, Nachruesten teuer
 - Doppelboden-Traglast ueberschritten: Rackgewicht ue12 kN/m, Bodenplatte versagt, Betrieb unmoeglich
 
-## Output
-
-Kuehlwasser-Druckpruefprotokolle je Kreislauf. USV-Batterietestprotokoll.
-Gasloesch-Aktivierungsprotokoll mit Konzentrationsmessung. BIM-Clash-Bericht.
-Abnahmeprotokoll Rechenzentrum mit Tier-Klassifizierungs-Checklist. SAP-PM-Equipment-Anlageninventar.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Rechenzentrum mit Tier-Klassifizierungs-Checklist. SAP-PM-Equip
 - [DIN EN 50173 Kabelanlagen](https://www.gesetze-im-internet.de/)
 - [ATEX-Richtlinie 2014/34/EU](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0034)
 - [DIN EN ISO 13849 Sicherheit Steuerungen](https://www.gesetze-im-internet.de/)
+

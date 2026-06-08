@@ -5,10 +5,6 @@ description: "Schnelle Triage von eingehenden NDA-/Geheimhaltungsvereinbarungen 
 
 # NDA-/Geheimhaltungsvereinbarung-Prüfung
 
-## Arbeitsbereich
-
-Schnelle Triage von eingehenden NDA-/Geheimhaltungsvereinbarungen in GRÜN / GELB / ROT, damit nur die Vereinbarungen anwaltliche Zeit beanspruchen, die sie wirklich brauchen. Geeignet für Vertrieb und BD zur eigenständigen Erstprüfung. Wird von /vertragsrecht:vertragsprüfung geladen, wenn ein NDA erkannt wird. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -251,3 +247,4 @@ Kommentare:
 - **Wettbewerbsverbote ohne Karenzentschädigung:** Bei Arbeitnehmern unwirksam (§§ 74 ff. HGB); bei Geschäftsführern/Freelancern gesondert prüfen.
 - **Jurisdiktionswechsel:** Wenn die NDA ausländisches Recht wählt, überträgt sich die Triage nicht 1:1. ROT-kennzeichnen und Spezialist einschalten.
 - **Mandantengeheimnis:** § 43a Abs. 2 BRAO, § 203 StGB bei jeder Weitergabe beachten.
+

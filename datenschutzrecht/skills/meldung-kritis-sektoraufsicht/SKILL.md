@@ -30,10 +30,6 @@ Nicht aus Modellwissen; aktuelle Stände zur NIS-2-Umsetzung in Deutschland vor 
 
 Art. 33 DSGVO; § 8b BSIG; § 168 TKG; NIS-2-Richtlinie; BAIT.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Mehrfach-Meldelandschaft
 
 Datenschutz-Spur: zuständige Datenschutzbehörde (Lead-Authority + Land).
@@ -54,3 +50,4 @@ Texte synchronisiert; Aktenzeichen wechselseitig zitieren.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-meldung-art-33-pflichtangaben` deckt die Datenschutz-Meldung ab.
+

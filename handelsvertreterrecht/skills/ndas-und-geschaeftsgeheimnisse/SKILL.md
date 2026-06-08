@@ -5,10 +5,6 @@ description: "Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbar
 
 # Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach § 88 HGB und GeschGehG
 
-## Arbeitsbereich
-
-Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadensersatz bei Verletzung und strafrechtliche Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 - NDA-Klausel zu weit — nach § 307 BGB teilweise nichtig.
 - Schadensersatz nach § 10 GeschGehG nicht beziffert — Klage abgewiesen.
 
-## Output
-
-NDA-Prüfvermerk, Schadensersatzberechnung nach GeschGehG, Strafanzeige-Vorbereitung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 10 GeschGehG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/__10.html)
 - [§ 23 GeschGehG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/__23.html)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
+

@@ -55,11 +55,3 @@ Beamtenrecht wirkt einheitlich, ist es aber nicht. Seit der Föderalismusreform 
 - Landesrichter mit Bundesrichtern gleichsetzen.
 - Kommunalbeamte ohne Landeskommunalrecht prüfen.
 
-## Output
-
-Der Skill liefert eine kurze „Rechtsquellenlandkarte" mit Trefferquote:
-
-- sicher einschlägige Normen;
-- noch live zu prüfende Landesnormen;
-- falsche Normen, die ausdrücklich ausgeschlossen werden;
-- nächster Fachmodul.

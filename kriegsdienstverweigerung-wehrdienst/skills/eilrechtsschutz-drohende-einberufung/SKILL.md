@@ -5,10 +5,6 @@ description: "Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe im
 
 # Eilrechtsschutz bei Einberufung
 
-## Arbeitsbereich
-
-Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,12 +40,6 @@ Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe. Die Antwort mus
 ## Norm- und Quellenanker
 KDVG §§ 3, 11, 13; VwGO §§ 80, 123
 
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
-
 ## Rote Linien
 Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
 
@@ -63,3 +53,4 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 - BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+

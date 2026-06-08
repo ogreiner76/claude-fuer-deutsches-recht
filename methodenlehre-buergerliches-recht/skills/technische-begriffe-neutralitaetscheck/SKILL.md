@@ -51,10 +51,6 @@ description: "Dieses Skill führt einen Neutralitätscheck für technische und f
 - Sachverständigenaussagen werden zur Begriffsfüllung benötigt, aber nicht eingeplant.
 - Implizite Wertungen in Fachbegriffen führen dazu, dass das Ergebnis schon durch die Begriffswahl feststeh.
 
-## Output
-
-Das Skill liefert eine Neutralitätsprüfung aller technischen Begriffe: Fachbegriff, rechtliche Definition, Übereinstimmungsanalyse, Neutralitätsrisiken und methodisch neutrale Reformulierung. Das Ergebnis sichert die methodische Integrität der Argumentation und ist direkt in Gutachten und Schriftsätze übertragbar.
-
 ## Quellen
 
 - [§ 3 ProdHaftG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/prodhaftg/__3.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Logistikhallen mit hochbelast
 
 # Bauueberwachung Logistikhalle Bodenplatte (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Logistikhallen mit hochbelasteten Industriebodenplatten — Freiflaechen-Beton nach DIN EN 13670 und TR Industrieboden, Ebenheitsanforderungen nach DIN 18202 Tabelle 3, Fugenloses Verlegen und Hartstoff-Einstreutechnik. Unterstuetzt Bauueberwacher bei Betongueteprotokollen, Ebenheitsmessungen und SAP-PM-Integration für Logistikbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Hochregal-Gabelstapler erfordern eine Ebenheit von max. 2 mm/2 m, die beim Beton
 - Betonage bei Frost: Frischbetontemperatur unter 5 Grad C ohne Frostschutzmassnahmen fuehrt zu Schaden
 - Einstreurate zu gering: Bodenplatte mit zu geringer Haerte, Gabelstapler-Spuren nach Wochen sichtbar
 
-## Output
-
-Betongueteprotokolle je Abschnitt. Ebenheitsmessungsprotokoll nach DIN 18202.
-Fugenplan-Ist mit Schnittprotokollen. Bohrkernpruefberichte akkreditiertes Labor.
-Abnahmeprotokoll Logistikbodenplatte. Fotodokumentation Einbau und Fugenraster.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Logistikbodenplatte. Fotodokumentation Einbau und Fugenraster.
 - [DIN EN 13670 Beton Ausfuehrung](https://www.gesetze-im-internet.de/)
 - [DIN 1045-2 Beton Festigkeitsklassen](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 83/10 Industrieboden Ebenheit](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+83/10)
+

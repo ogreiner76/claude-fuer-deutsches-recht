@@ -5,10 +5,6 @@ description: "Prüft § 188 StGB bei Äußerungen gegen Personen des politischen
 
 # § 188 StGB - Personen des politischen Lebens
 
-## Arbeitsbereich
-
-Prüft § 188 StGB bei Äußerungen gegen Personen des politischen Lebens. Klärt Öffentlichkeit, Zusammenhang mit Stellung, Eignung zur Erschwerung öffentlichen Wirkens und die verfassungsrechtliche Machtkritik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,18 +33,6 @@ Nicht jede scharfe Kritik an einem Bürgermeister, Ratsmitglied oder Ministerial
 - Drohungen, gezielte Kampagnen und Prangerwirkung erhöhen Risiko.
 - Kleine kommunale Öffentlichkeit kann trotzdem Öffentlichkeit sein.
 
-## Output
-
-Gib ein §-188-Prüfblatt aus:
-
-- politische Rolle:
-- Öffentlichkeit:
-- Zusammenhang:
-- Erschwerung:
-- Basisdelikt:
-- Art.-5-Abwägung:
-- Ergebnis:
-
 ## Norm-Stand und Praxisprobleme
 
 - **§ 188 StGB Fassung 22.09.2021:** Strafrahmen Freiheitsstrafe bis 5 Jahre oder Geldstrafe; bei § 188 II StGB qualifiziert.
@@ -60,10 +44,3 @@ Gib ein §-188-Prüfblatt aus:
 - **Strafverteidigung:** Sachbezug herausarbeiten; bei kommunaler Politik Auseinandersetzung mit der Amtsführung dokumentieren; bei Soziale-Medien-Posts Kontext (Thread, Kommentarstrang) sichern.
 - Falle: Frühe Annahme § 188 ohne Subsumtion der Eignungs-Voraussetzung führt regelmäßig zu Aufhebung. Sorgfältig prüfen: Wäre der Mandatsträger ohne diese Äußerung weiterhin in seinem Wirken nennenswert beeinträchtigt?
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

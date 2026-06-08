@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. E
 
 # Europaeisierung des deutschen Rechts
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und öffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Die Europaeisierung des deutschen Rechts begann ernsthaft mit der Rechtsprechung
 - BVerfGE: bverfg.de
 - BGB nach SchuRModG 2002: gesetze-im-internet.de
 
-## Output
-
-- Zeitleiste Europaeisierung des BGB: 1963-2002
-- EU-Richtlinien und BGB-Entsprechungen: Vergleichstabelle
-- Solange I und II und Maastricht: BVerfG-Linie im Ueberblick
-
-## Quellenregel
-
-EuGH: curia.europa.eu. EU-Richtlinien: eur-lex.europa.eu. BVerfGE: bverfg.de. BGB: gesetze-im-internet.de. BGBl. für Umsetzungsgesetze.

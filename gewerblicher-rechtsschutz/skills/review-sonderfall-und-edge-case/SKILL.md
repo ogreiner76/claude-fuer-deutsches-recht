@@ -5,10 +5,6 @@ description: "Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypisch
 
 # Spezial: Sonderfälle und Edge Cases im Gewerblichen Rechtsschutz
 
-## Arbeitsbereich
-
-Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypische Konstellationen bei Marke, Patent, Design, Urheberrecht und UWG. Erschöpfung, Verwirkung, FRAND, KI-generierte Inhalte, Open Source, Parallelimporte und weitere Grenzfälle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -146,3 +142,4 @@ Dritter hat Domain registriert, die Marke des Mandanten enthält.
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
 - `erfindungsmeldung-aufnahme` – ArbnErfG Prozess
 - `takedown-anweisung` – Domain-Takedown
+

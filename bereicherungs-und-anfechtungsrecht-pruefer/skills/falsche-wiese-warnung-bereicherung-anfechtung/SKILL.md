@@ -27,13 +27,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill benennt die häufigsten systematischen Fehler bei der Auswahl des richtigen Regelungskreises und erklärt, warum sie das Ergebnis vollständig entwerten.
-
 ## Falschverortung 1: Vertrag statt Bereicherungsrecht
 
 **Fehler:** Nutzer begehrt Rückzahlung einer Leistung, stützt sich aber auf den unwirksamen Vertrag selbst.
@@ -83,3 +76,4 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozes
 
 # Zivilprozessgeschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Der Zivilprozess entwickelte sich aus der territorialen Gerichtsbarkeit der Einz
 - Vereinfachungsnovelle 1977 und ZPO-Reform 2002: BGBl. via gesetze-im-internet.de
 - BGH-Rechtsprechung zur ZPO: bgh.de
 
-## Output
-
-- Zeitlinie ZPO: 1877 bis ZPO-Reform 2002
-- Vergleich: Eventualitaetsmaxime vor und nach 1977
-- ZPO-Rechtsmittelsystem 2002: Kernpunkte der Reform
-
-## Quellenregel
-
-ZPO: gesetze-im-internet.de. Historische ZPO-Fassungen: ALEX/OeNB. BGH: bgh.de. BGBl. für Novellentext.

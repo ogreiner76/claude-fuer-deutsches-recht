@@ -46,13 +46,6 @@ description: "Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irr
 - Bestätigung nach § 144 BGB setzt Kenntnis des Anfechtungsgrunds voraus — unbewusstes Weiterhandeln genügt nicht.
 - Die 10-Jahres-Frist des § 124 Abs. 3 BGB ist eine absolute Ausschlussfrist, keine Verjährungsfrist.
 
-## Output
-
-- Fristberechnungsschema: Fristbeginn, -lauf und -ende konkret mit Datum
-- Gutachtenstil-Prüfung der Anfechtungserklärung und Rechtzeitigkeit
-- Analyse Bestätigung § 144 BGB: Liegt wirksame Bestätigung vor?
-- Rückfragenliste zu Kenntniszeitpunkt und späteren Handlungen
-
 ## Quellen
 
 - [§ 121 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__121.html)
@@ -84,3 +77,4 @@ schlüssiges Verhalten (z.B. Erfüllung der Verbindlichkeit) erklärt werden.
 - Fristbeginn: Kenntnis des Anfechtungsgrunds festgestellt?
 - Absolute Frist nach § 121 Abs. 2 BGB oder § 124 Abs. 3 BGB beachtet?
 - Bestätigung nach § 144 BGB: Kenntnis des Anfechtungsgrunds bei Bestätigung vorhanden?
+

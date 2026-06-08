@@ -5,10 +5,6 @@ description: "Strukturierte Checkliste problematischer Muster in Marktabgrenzung
 
 # Red-Flag-Checkliste — Marktabgrenzung
 
-## Arbeitsbereich
-
-Strukturierte Checkliste problematischer Muster in Marktabgrenzungen: ergebnisgetriebene Argumentation Zirkelschluesse fehlende oekonomische Fundierung selektive Datenwahl kuenstliche Marktverengung oder -erweiterung und Präzedenzfall-Missbrauch. Ausgabe als priorisierte Mängelliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -111,6 +107,3 @@ MITTLERE MÄNGEL (vertiefende Prüfung empfohlen):
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Red Flag ueberragende Marktstellung; § 19a GWB neue Eingriffsvoraussetzung; BKartA erhaelt praezise Eingriffsbefugnis.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

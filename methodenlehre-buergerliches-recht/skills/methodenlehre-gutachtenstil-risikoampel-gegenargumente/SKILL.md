@@ -51,10 +51,6 @@ description: "Dieses Skill bearbeitet den klassischen juristischen Gutachtenstil
 - Mandanten erhalten ein "grünes" Gutachten, das die gegnerischen Stärken systematisch unterschätzt.
 - Der Gutachtenstil wird mit einem Urteilsstil vermischt, was die Argumentationsklarheit reduziert.
 
-## Output
-
-Das Skill liefert ein zweiteiliges Gutachten: Teil 1 enthält die eigene Argumentation im klassischen Gutachtenstil; Teil 2 enthält die systematisch aufgearbeiteten Gegenargumente mit Risikoampelwertung je Tatbestandsmerkmal und einer zusammenfassenden Gesamtrisikobewertung. Das Ergebnis ist direkt für die Mandantenberatung und als Grundlage für die Prozessentscheidung verwendbar.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -86,3 +82,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

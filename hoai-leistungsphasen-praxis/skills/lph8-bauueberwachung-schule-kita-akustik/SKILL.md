@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Schulen und Kinderbetreuungse
 
 # Bauueberwachung Schule und Kita Akustik (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Schulen und Kinderbetreuungseinrichtungen — Raumakustik nach DIN 18041, Schallschutz nach DIN 4109, Tageslicht und kuenstliche Beleuchtung nach DIN EN 12464-1, barrierefreie Sanitaeranlagen nach DIN 18040-1 und Brandschutzkonzept Sonderbau. Unterstuetzt Bauueberwacher mit PlanRadar-Checklisten und kommunalem SAP-PM. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Akustische Maanahmen (Akustikdecken, Wandpaneele) muessen vor Verkleidung auf ko
 - Barrierefreies WC pro Geschoss fehlt: nachtraeglich teurer Umbau, Betriebsgenehmigung gefaehrdet
 - Spielgeraete ohne DIN EN 1176 Pruefprotokoll: Schultraeger haftet bei Unfaellen
 
-## Output
-
-Akustik-Pruefprotokoll Nachhallzeit je Raumgruppe. Beleuchtungsprotokoll Lux-Messung Klassenraeume.
-Brandschutz-Tuerliste mit Zulassungsnachweis. Barrierefreiheits-Abnahme nach DIN 18040-1.
-Abnahmeprotokoll Schule/Kita nach VOB/B. PlanRadar Maengelreport für Schultraeger.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Schule/Kita nach VOB/B. PlanRadar Maengelreport für Schultraeg
 - [DIN 4109 Schallschutz](https://www.gesetze-im-internet.de/)
 - [DIN 18040-1 Barrierefreies Bauen](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 222/08 Schallschutz Schule](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+222/08)
+

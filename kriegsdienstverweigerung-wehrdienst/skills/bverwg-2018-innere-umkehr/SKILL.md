@@ -5,10 +5,6 @@ description: "Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an im Kriegsdie
 
 # BVerwG 2018 innere Umkehr
 
-## Arbeitsbereich
-
-Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,9 +17,6 @@ Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an. Arbeite entlang dieser ko
 - **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
 - **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Einsatz
-Nutzt nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
 
 ## Fachlicher Kern
 Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
@@ -44,12 +37,6 @@ Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an. Die Antwort muss den konk
 ## Norm- und Quellenanker
 BVerwG 03.08.2018 - 6 B 124.18
 
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
-
 ## Rote Linien
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
@@ -63,3 +50,4 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 - BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+

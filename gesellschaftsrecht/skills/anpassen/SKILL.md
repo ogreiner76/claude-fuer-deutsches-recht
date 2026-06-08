@@ -5,10 +5,6 @@ description: "Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils —
 
 # Praxisprofil anpassen
 
-## Arbeitsbereich
-
-Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils — einzelne Einstellung ändern, ohne das vollständige Ersteinrichtungs-Interview neu durchzuführen. Risikoprofil, Eskalationskontakte, aktive Module (M&A / Governance / Kapitalmarkt / Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Beschlussformat oder Mandatsworkspace-Pfade anpassen. Lädt, wenn der Nutzer "Profil ändern", "Konfiguration aktualisieren", "Einstellung anpassen" oder vergleichbare Formulierungen verwendet. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -39,10 +35,6 @@ Vor der Profilanpassung klaeren:
 3. **Modul-Aktivierung?** Wird ein bisher inaktives Modul aktiviert (z.B. Kapitalmarkt)? Dann sind Folge-Einrichtungsfragen zu stellen.
 4. **Rechtsrelevante Aenderung?** Betrifft die Aenderung Normschwellen (z.B. Wesentlichkeitsschwelle M&A) oder Verfahrensregeln (z.B. Beschlussformat)? Dann rechtliche Downstream-Konsequenz erklaeren.
 5. **Downstream-Wirkung?** Welche anderen Skills werden von der Aenderung beeinflusst? (Tabelle der konfigurierbaren Bereiche zeigen)
-
-## Zweck
-
-Der Nutzer möchte eine einzelne Einstellung im Praxisprofil ändern — ein Risikoprofil, einen Eskalationskontakt, einen Modulschalter, ein Ausgabeformat — ohne das vollständige Ersteinrichtungs-Interview zu wiederholen und ohne YAML manuell zu bearbeiten.
 
 ## Eingaben
 
@@ -105,12 +97,6 @@ Bei Änderungen an Unternehmensname, Branche, Sitz, Tätigkeitssetting, Rechtsfo
 ### Schritt 6: Abschluss
 
 > Fertig. Ihre nächste Ausgabe spiegelt die Änderung wider. Weitere Anpassungen? Sie können `/gesellschaftsrecht:gesellschaftsrecht-anpassen` jederzeit erneut aufrufen.
-
-## Ausgabeformat
-
-- Bestaetigung der Aenderung mit Vorher-/Nachher-Wert
-- Hinweis auf betroffene Skills
-- Ggf. Inkonsistenzwarnung (s. u.)
 
 ## Output-Template
 

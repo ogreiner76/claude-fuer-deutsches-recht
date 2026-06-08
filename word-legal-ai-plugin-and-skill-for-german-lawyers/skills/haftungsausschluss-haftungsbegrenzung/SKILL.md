@@ -17,12 +17,6 @@ Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 B
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Haftungsklauseln sind die wirtschaftlich wichtigste Kategorie in vielen Vertraegen. Sie sind gleichzeitig die rechtlich riskanteste: Ein zu weit gefasster Ausschluss ist nichtig und reisst die gesamte Klausel mit. Ein zu enger Ausschluss laesst Haftung stehen, die kalkulatorisch nicht gewollt war.
-
-Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), die typischen Drafting-Strategien (Summenbegrenzung, Zeitbegrenzung, Ausschluss mittelbarer Schaeden) und Mustertexte für B2B und B2C. Er zeigt die Tabelle, in der die meisten Drafter scheitern.
-
 ## Eingaben
 
 - Vertragstyp und Parteien (B2B oder B2C)
@@ -122,12 +116,6 @@ Dieser Skill liefert die Pflichtgrenzen (was nie ausgeschlossen werden kann), di
 - **Verjährungsverkuerzung unter zwei Jahre im B2C.** Bei neuen Sachen nach § 309 Nr. 8 lit. b ff BGB Klauselverbot.
 - **Arglistklausel umgangen.** § 444 BGB kann nicht abbedungen werden.
 
-## Ausgabeformat
-
-- Haftungsklausel fertig formuliert, gegliedert nach Verschuldensgrad.
-- Tabelle B2B vs. B2C mit Vergleich.
-- Hinweis auf Versicherungsdeckung.
-
 ## Beispiel
 
 **Aufgabe:** Haftungsklausel für einen IT-Dienstleistervertrag (B2B) mit Vertragsvolumen 200.000 Euro pro Jahr, Berufshaftpflicht des Dienstleisters mit Deckungssumme 5 Mio Euro je Schadensfall.
@@ -159,15 +147,9 @@ Verjährungsbeginn. Anspruechee nach Abs. 1 verjaehren nach den
 gesetzlichen Vorschriften.
 ```
 
-## Querverweise
-
-- `anspruchsgrundlage-und-rechtsfolgen-klauseln`
-- `agb-konforme-klauseln-305-310-bgb`
-- `b2b-vs-b2c-klausel-strategie`
-- `boilerplate-klauseln-katalog`
-
 ## Quellen (Stand 05/2026)
 
 - § 276 Abs. 3 BGB, § 278 BGB, § 307 BGB, § 309 Nr. 7 BGB, § 309 Nr. 8 BGB, § 444 BGB, § 202 BGB. gesetze-im-internet.de.
 - § 11 ProdHaftG. gesetze-im-internet.de/prodhaftg/.
 - BGH-Rspr. zu Kardinalpflichten und summenmäßiger Begrenzung: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
+

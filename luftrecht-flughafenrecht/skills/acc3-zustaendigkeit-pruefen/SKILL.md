@@ -5,10 +5,6 @@ description: "ACC3-Mandat: Luftfrachttraeger der Fracht aus Drittlaendern in EU 
 
 # ACC3 – Zuständigkeit prüfen
 
-## Arbeitsbereich
-
-ACC3-Mandat: Luftfrachttraeger der Fracht aus Drittlaendern in EU bringt muss Designierung und Validierung nachweisen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 und EU-Validierungs-Verfahren und liefert Zuständigkeits-Vermerk für ACC3-Designierungsverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,6 +41,7 @@ EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 EASA – die einschlägigen Normen 
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
 - **LuftSiG § 3c**: Nationale Umsetzung der EU-Sicherheitsarchitektur; Zuständigkeit LBA.
 - **ICAO Annex 17 Std. 4.6**: Frachtsicherheitskette; Verantwortung des Luftfrachtführers.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -55,6 +52,7 @@ EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 EASA – die einschlägigen Normen 
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist der EU-Validator zugelassen und sein Bericht nicht älter als 3 Jahre?
 8. Sind alle Sub-Auftragnehmer in der Lieferkette als RA oder KC anerkannt?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -72,9 +70,6 @@ Die Zuständigkeitsfrage ist bei luftrechtlichen Mandaten häufig das erste Hind
 - **EASA vs. nationale Behörde**: Seit Inkrafttreten der EASA-Basisverordnung (VO 2018/1139) hat EASA Direktzuständigkeit für Zulassungen von Luftfahrzeugen und Organisationen; das LBA bleibt für betriebliche Zulassungen zuständig.
 - **Verwaltungsgericht vs. Zivilgericht**: Bescheide einer Luftfahrtbehörde sind vor dem VG anzufechten; privatrechtliche Ansprüche (Leasingstreit Schaden) gehören vor die Zivilgerichte.
 
-## Output
-
-Strukturierter Vermerk zu ACC3 – Zuständigkeit prüfen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. ACC3-Compliance-Matrix. Validierungskalender mit Ablaufdaten.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -104,3 +99,4 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

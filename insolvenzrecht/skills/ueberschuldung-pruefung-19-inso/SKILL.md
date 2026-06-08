@@ -153,36 +153,6 @@ Bei Überschuldung: Antragspflicht gem. § 15a Abs. 1 InsO — Frist grundsätzl
 Parallel prüfen: Zahlungsunfähigkeit gem. § 17 InsO und drohende Zahlungsunfähigkeit
 gem. § 18 InsO.
 
-## Ausgabeformat
-
-Erstelle ein strukturiertes Gutachten mit folgenden Abschnitten:
-
-```
-I. Sachverhalt und Prüfungsanlass
-II. Fortbestehensprognose
- 1. Unternehmenskonzept
- 2. Finanzplanung (tabellarisch: Monat 1–12, Liquiditätssaldo)
- 3. Prognoseergebnis mit Begründung
-III. Überschuldungsstatus (bei negativer Prognose)
- Aktiva (Liquidationswerte) EUR
- ─────────────────────────────────────────
- Anlagevermögen ...
- Umlaufvermögen ...
- Sonstige Aktiva ...
- Summe Aktiva ...
- ─────────────────────────────────────────
- Passiva
- Verbindlichkeiten (gesamt) ...
- ./. qualif. Rangrücktritt ...
- Summe Passiva (maßgeblich) ...
- ─────────────────────────────────────────
- Saldo (Unter-/Überdeckung) ...
-IV. Rechtliches Ergebnis
-V. Handlungsempfehlung (Antragspflicht, Sanierungsoptionen)
-```
-
-Quellenangaben in Fußnoten oder am Ende des Gutachtens.
-
 ## Beispiel
 
 **Sachverhalt:** Die XY GmbH, Maschinenbau, weist zum 30.04.2026 in der Handelsbilanz
@@ -344,3 +314,4 @@ ERGEBNIS:
 [Ueberschuldung i.S.d. § 19 InsO: JA / NEIN]
 [Antragspflicht: JA ab [DATUM] / NEIN]
 ```
+

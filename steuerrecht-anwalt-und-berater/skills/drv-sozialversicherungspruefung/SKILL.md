@@ -11,12 +11,6 @@ description: "Steuerberater-Begleitung der DRV-Sozialversicherungsprüfung nach 
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Steuerberater-Begleitung der **Sozialversicherungsprüfung** durch die Deutsche Rentenversicherung (DRV) — turnusmäßig alle vier Jahre nach § 28p SGB IV. Im Unterschied zur Lohnsteuer-Außenprüfung (Finanzamt) prüft die DRV die Sozialversicherungsbeiträge (Renten-, Kranken-, Pflege-, Arbeitslosen-, Unfallversicherung). Häufige Risiken: Statusfeststellung (Scheinselbständigkeit), Phantomlohn (Mindestlohn-Differenz), § 266a StGB-Strafbarkeit bei vorenthaltenem AN-Anteil.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Kaltstart-Rückfragen
 
 1. Prüfung angekündigt (Datum, Prüfer, Vorlage-Anforderung)?
@@ -131,15 +125,6 @@ Folge bei Umqualifizierung: Nachzahlung Beiträge **rückwirkend bis 4 Jahre** (
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Dokumentation** aller Hinweise an Mandantenleitung.
 
-## Querverweise
-
-- `stb-bwa-sus-bilanz-pruefung` — Pre-Check für SV-Themen
-- `stb-warnschreiben-krisensignale` — Warnschreiben bei SV-Rückständen
-- `anw-aussenpruefung-strategien` — Parallele LSt-AP (FA) kann ergänzen
-- `anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern` — bei GmbH-Insolvenz und LSt/SV-Rückständen
-- `anw-steuerstrafverteidigung-verstaendigung` — bei § 266a StGB-Anklage
-- `fachanwalt-arbeitsrecht` — bei arbeitsrechtlichen Statusfragen
-
 ## Quellen und Updates
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -149,3 +134,4 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
  Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

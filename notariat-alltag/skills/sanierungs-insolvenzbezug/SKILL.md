@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- un
 
 # Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen
 
-## Arbeitsbereich
-
-Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen. Insolvenzvermerk im Grundbuch, Insolvenzverwalter als Vertragspartei, insolvenzrechtliche Anfechtung und notarielle Prüfpflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -108,3 +104,4 @@ In größeren Insolvenzverfahren kann ein Gläubigerausschuss (§ 68 InsO) oder 
 - Zustimmung Gläubigerausschuss nach § 160 InsO prüfen
 - Insolvenzvermerk Abt. II des Grundbuchs verifizieren
 - Vollzugssperre beachten: keine Eintragung ohne Freigabe durch Verwalter
+

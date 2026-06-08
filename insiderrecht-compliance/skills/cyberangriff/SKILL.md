@@ -5,10 +5,6 @@ description: "Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrele
 
 # Cyberangriff – Insiderrecht und Ad-hoc-Pflicht
 
-## Arbeitsbereich
-
-Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,20 +74,3 @@ Ad-hoc-Strategie und koordiniert die parallelen Meldepflichten (MAR, DSGVO, NIS-
 - Keine Offenlegung von Informationen, die laufende Ermittlungen gefährden
 - Aktualisierungs-Ad-hoc: Wenn neue wesentliche Informationen bekannt werden
 
-## Red-Team-Fragen
-
-- Wurde der Zeitpunkt der Insiderinformations-Entstehung korrekt bestimmt?
-- Liegen die Aufschub-Voraussetzungen vor (Behördenbestätigung)?
-- Werden DSGVO- und NIS-2-Meldepflichten parallel und koordiniert erfüllt?
-- Gibt es Eigengeschäfte von PDMRs zwischen Angriffs-Erkenntnis und Ad-hoc?
-- Ist die Ad-hoc-Mitteilung ausreichend informativ ohne Ermittlungsgefährdung?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Schadensbewertungs-Matrix (System × Schadensart × Kursrelevanz-Indikation)
-2. Parallele Meldepflichten-Übersicht (MAR × DSGVO × NIS-2 × KWG)
-3. Aufschub-Prüfprotokoll
-4. Ad-hoc-Entwurf Cyberangriff
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

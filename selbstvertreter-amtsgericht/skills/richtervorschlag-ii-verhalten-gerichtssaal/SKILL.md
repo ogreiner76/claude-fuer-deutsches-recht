@@ -5,9 +5,6 @@ description: "Richtervorschlag II Verhalten Gerichtssaal im Selbstvertretung am 
 
 # Richtervorschlag II Verhalten Gerichtssaal
 
-## Arbeitsbereich
-
-**Richtervorschlag II Verhalten Gerichtssaal** ordnet den Fall über die tragenden Prüfungslinien: Vergleich vor dem Amtsgericht nach § 278 II ZPO, Verhalten im Gerichtssaal für Laien, Video-Verhandlung nach § 128a ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Richtervorschlag II Verhalten Gerichtssaal im Selbstvertretung am 
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `vergleich-richtervorschlag-278-ii-zpo`
@@ -153,24 +151,9 @@ Vergleich ist grundsaetzlich bindend. Anfechtung nur in Ausnahmefaellen (Irrtum,
 - "Vergleich heisst, Streit ist beendet." → Korrekt.
 - "Ich kann nach 6 Monaten widerrufen." → Nein, Vergleich endgueltig.
 
-## Querverweise
-
-- `terminvorbereitung-checkliste` — Vorbereitung.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten.
-- `urteil-rechtskraft-705-zpo` — Alternative.
-- `zwangsvollstreckung-querverweis-substitutionsagent` — Vergleichs-Vollstreckung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 278 ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `verhalten-gerichtssaal-laienleitfaden`
 
@@ -305,24 +288,9 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 - "Mein Anwalt hat gesagt ..." (wenn Sie keinen haben). → Konsequenz Selbstvertretung beachten.
 - "Schreien beim Vortrag." → Verlust von Glaubwuerdigkeit.
 
-## Querverweise
-
-- `terminvorbereitung-checkliste` — Vorbereitung.
-- `ladung-termin-216-zpo` — Ladung.
-- `vergleich-richtervorschlag-278-ii-zpo` — Vergleich.
-- `saeumnis-im-termin-330-zpo` — Saeumnis.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Saalpraxis weitgehend stabil.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `video-verhandlung-128a-zpo`
 
@@ -446,12 +414,7 @@ Skill `saeumnis-im-termin-330-zpo`.
 - "Im Cafe oder im Auto." → Stoerend; ruhiger Hintergrund noetig.
 - "Kamera aus." → Pflicht zur Sichtbarkeit waehrend der Verhandlung.
 
-## Querverweise
-
-- `ladung-termin-216-zpo` — Ladung.
-- `terminvorbereitung-checkliste` — Vorbereitung.
-- `verhalten-gerichtssaal-laienleitfaden` — Verhalten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 128a ZPO Video-Verhandlung in Reformbewegung — die genaue Ausgestaltung kann sich nach Justizmodernisierungs-Gesetz aendern. Verifizieren Sie aktuellen Stand.
+

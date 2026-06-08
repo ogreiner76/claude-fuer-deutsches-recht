@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Eigentumsübergang bei Warenkauf int
 
 # Eigentumsübergang und Kreditsicherheiten
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Eigentumsübergang bei Warenkauf international. CISG-Lücke (Art. 4b), lex situs, Traditio vs. Konsensualprinzip, Kreditsicherheiten in der Lieferkette und Floating Charge (englisches Recht). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Das CISG regelt Eigentumsübergang ausdrücklich nicht (Art. 4 lit. b). National
 - Sicherungszession: Formvorschriften des Rechts des Drittschuldners prüfen
 - CISG-Vertrag: Eigentumsklausel ausdrücklich in Vertrag aufnehmen
 
-## Output
-
-- Eigentumsübergangs-Matrix: D, UK, F, USA
-- Kreditsicherheiten-Checkliste (national und international)
-- Floating-Charge-Anerkennung im deutschen Insolvenzverfahren
-
 ## Quellenregel
 
 BGB §§ 929 ff.: gesetze-im-internet.de. SGA 1979 (UK): legislation.gov.uk. CISG Art. 4: uncitral.un.org. UCC Art. 9: uniform.law.cornell.edu. Unsicherheit bleibt sichtbar.
+

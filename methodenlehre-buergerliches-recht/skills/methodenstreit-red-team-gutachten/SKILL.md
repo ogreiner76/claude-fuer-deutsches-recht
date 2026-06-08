@@ -57,10 +57,6 @@ Das Red-Team-Gutachten ist das stärkste Instrument der methodischen Selbstprüf
 - Verfassungsrechtliche Argumente werden im Red Team ignoriert, obwohl sie die stärksten Gegenargumente wären.
 - Das Fazit ist zu eindeutig: Ein gutes Red-Team zeigt echte methodische Unsicherheiten auf.
 
-## Output
-
-Das Skill liefert ein vollständiges Red-Team-Gutachten: Darstellung der zu prüfenden Position, stärkste methodische Gegenposition, Schwachstellenanalyse, Qualitätsbewertung beider Positionen nach methodischen Kriterien und strategische Empfehlungen für die Prozessplanung. Schriftsatztauglich und verwendbar als Anlage zu Mandantenberichten.
-
 ## Vertiefung: Dreikampf der Methoden als Prüfungsformat
 
 Ein besonders leistungsfähiges Format des Red-Team-Gutachtens ist der "Dreikampf": Es werden nicht nur zwei Positionen gegenübergestellt, sondern drei methodisch verschiedene Lösungsansätze entwickelt und nach einheitlichen Kriterien bewertet. Dieser plurale Ansatz verhindert false dichotomies und liefert ein differenzierteres Bild der methodischen Landschaft.
@@ -86,3 +82,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 34, 269 – Soraya zu methodischen Grenzen](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

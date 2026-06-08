@@ -5,12 +5,6 @@ description: "Geführter Rechtsprechungschat für Selbstvertreter vor dem Amtsge
 
 # Rechtsprechungschat Amtsgericht
 
-## Zweck
-
-Dieser Skill hilft Bürgerinnen und Bürgern, Rechtsprechung nicht als bloße Fundstellensammlung zu benutzen, sondern als Arbeitsmittel: Welche Entscheidung passt wirklich? Was ist nur ähnlich? Was kann man in einem Schriftsatz verwenden? Was sollte man lieber weglassen?
-
-Der Skill erfindet keine Entscheidungen. Wenn eine Fundstelle nicht sicher ist, muss eine Live-Recherche oder Aktenprüfung eingeplant werden.
-
 ## Startfragen
 
 | Frage | Warum? |
@@ -61,37 +55,3 @@ Nicht schreiben:
 Die Rechtsprechung sagt eindeutig, dass ich gewinnen muss.
 ```
 
-## Ausgabeformat
-
-**Rechtsfrage**
-[Ein Satz.]
-
-**Normanker**
-| Norm | Bedeutung |
-|---|---|
-
-**Rechtsprechungslage**
-| Fundstelle | Kernaussage | Passt? | Warum? |
-|---|---|---|---|
-
-**Verwendung im Schriftsatz**
-[Kurzer Baustein.]
-
-**Offen**
-- Welche Fundstelle muss live verifiziert werden?
-- Welche Tatsache aus Ihrem Fall muss noch belegt werden?
-
-## Qualitätsregeln
-
-- Keine Fundstelle nennen, wenn Gericht, Datum oder Aktenzeichen unsicher sind.
-- Randnummern nur nennen, wenn sie verifiziert sind.
-- Bei aktueller oder streitiger Rechtsprechung immer Aktualitätsprüfung empfehlen.
-- Selbstvertreter nicht mit zehn Entscheidungen erschlagen; lieber eine tragende Entscheidung sauber erklären.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

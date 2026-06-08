@@ -5,10 +5,6 @@ description: "Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes �
 
 # Verl-041 · Abmahnung Buchpreisbindung
 
-## Arbeitsbereich
-
-Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes — BuchPrG §§ 9–11, Abmahnung verfassen und beantworten, Unterlassungserklärung, Schadensersatz und Prozessstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

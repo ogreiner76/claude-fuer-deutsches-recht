@@ -5,10 +5,6 @@ description: "Verbraucherzentrale: Diesel- und Fahrzeug-Serienfälle nach EuGH C
 
 # VDG 106 Diesel Differenzschaden Serienfall
 
-## Arbeitsbereich
-
-Verbraucherzentrale: Diesel- und Fahrzeug-Serienfälle nach EuGH C-100/21 und BGH VIa ZR 335/21/533/21/1031/22 strukturieren; Differenzschaden, Anspruchsgruppen, Beweise, Verjährung und Vergleichsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill ist für Verbands- und Serienarbeit in Fahrzeugfällen mit unzulässigen Abschalteinrichtungen gedacht. Er vermeidet pauschale Diesel-Parolen und zwingt zur Typ-, Motor-, Software-, Erwerbs- und Schadensmatrix.
-
 ## Rechtsanker
 
 - EuGH, Urteil vom 21.03.2023, C-100/21, Mercedes-Benz Group.
@@ -53,14 +45,7 @@ Dieser Skill ist für Verbands- und Serienarbeit in Fahrzeugfällen mit unzuläs
 5. Großer Schadensersatz, kleiner Schadensersatz, Differenzschaden.
 6. Vorteilsausgleich und Restwert.
 
-## Output
-
-- Anspruchsgruppen- und Beweismatrix.
-- Verbraucherfragebogen.
-- Gutachter-/KBA-Auskunftsliste.
-- Vergleichs- und Kosten-Nutzen-Ampel.
-- Kommunikationslinie für Verbandspresse ohne Überversprechen.
-
 ## Red Team
 
 Serienfähigkeit scheitert oft nicht am großen Rechtsproblem, sondern an heterogenen Fahrzeugdaten. Der Skill muss deshalb immer sagen, welche Tatsachen standardisierbar sind und welche zwingend individualisiert werden müssen.
+

@@ -5,10 +5,6 @@ description: "Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie kl
 
 # Havarie und Kollision – Erstbericht und Haftungsklärung
 
-## Arbeitsbereich
-
-Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -49,12 +45,6 @@ Ein Containerschiff rammt im Hamburger Hafen einen Tanker; beide Schiffe haben S
 - BSU-Ergebnisse haben keine Bindungswirkung in Zivilprozessen; werden aber als Beweismittel verwendet.
 - P&I-Club trägt Kollisionshaftung gegen andere Schiffe nur bis zu 3/4; 1/4 liegt bei H&M.
 
-## Output
-- Havarie-Erstbericht (Hergang; Schäden; Beteiligte; Zeugen)
-- Dispache-Auftrag-Muster für Große Havarie
-- Klagestrategie-Vermerk
-- Checkliste Sofortmaßnahmen Unfallort und Versicherung
-
 ## Erweiterte Normengrundlage
 
 ### Kollisionsrecht
@@ -91,3 +81,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - BSU Seeunfalluntersuchung: https://www.bsu-bund.de
 - SeeUG: https://www.gesetze-im-internet.de/seeug/
 - YAR 2016 BIMCO: https://www.bimco.org
+

@@ -5,10 +5,6 @@ description: "Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwe
 
 # Weltraumrecht: Orbit-Slot: Verwertung, Sicherheiten und Streit
 
-## Arbeitsbereich
-
-Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,3 +111,4 @@ Das Rechtsgebiet berührt folgende Kernthemen: Orbit Slot Verwertung, Frequenzpr
 - UNOOSA: https://www.unoosa.org/
 - BNetzA: https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/start.html
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
+

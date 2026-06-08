@@ -45,13 +45,6 @@ description: "Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahiere
 - Schwebende Unwirksamkeit nach § 177 BGB bedeutet Genehmigungsmöglichkeit — keine endgültige Nichtigkeit.
 - Ausnahme bei rechtlichem Vorteil gilt nur, wenn keinerlei rechtliche Belastung entsteht.
 
-## Output
-
-- Gutachtenstil-Abschnitt zu § 181 BGB mit Ausnahmeprüfung
-- Prüfampel: Insichgeschäft verboten / Ausnahme greift / schwebend unwirksam mit Genehmigungsoption
-- Klausurlösungsskizze mit GmbH-Sonderfall und § 177 BGB-Folgeprüfung
-- Rückfragenliste zu Vollmachts- und Satzungsregelungen
-
 ## Quellen
 
 - [§ 181 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__181.html)
@@ -81,3 +74,4 @@ Person für zwei Vertragsparteien gleichzeitig verhandelt. § 181 BGB erfasst be
 - Ausdrückliche Gestattung: In Vollmacht, Satzung oder Gesellschaftsvertrag vorhanden?
 - Schwebende Unwirksamkeit und Genehmigung nach § 177 BGB als Folge?
 - GmbH-Besonderheit: § 35 Abs. 3 GmbHG als Befreiungsmöglichkeit?
+

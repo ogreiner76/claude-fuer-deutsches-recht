@@ -5,9 +5,6 @@ description: "Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US i
 
 # Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US
 
-## Arbeitsbereich
-
-**Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US** ordnet den Fall über die tragenden Prüfungslinien: Audit- und Kontrollrechte des Verantwortlichen gegenueber, Auftragsverarbeitung bei Cloud-Diensten und, Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Datenschutz Audit Kontrollrechte Cloud Subverarbeitung ART EU US i
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `avv-audit-und-kontrollrechte`
@@ -123,12 +121,6 @@ Audit-Klausel:
 - Sub-AV-Audit-Kette nicht geregelt.
 - Bei Berufsgeheimnistraegern (Kanzlei, Praxis) keine Auditor-Schweigepflichtklausel – kann § 203 StGB-Problem ausloesen.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-mindestinhalte-checkliste/SKILL.md`
-- `datenschutzrecht/skills/avv-tom-art-32-dsgvo-anlage/SKILL.md`
-- `datenschutzrecht/skills/avv-pruefung-bestehender-vertraege-audit/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 28 Abs. 3 lit. h DSGVO.
@@ -136,14 +128,6 @@ Audit-Klausel:
 - § 17 UWG, § 203 StGB, § 43a Abs. 2 BRAO.
 - ISO/IEC 27001:2022, SOC 2 Trust Services Criteria, BSI C5:2020.
 - Zitierweise: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `avv-cloud-und-subverarbeitung-art-28-iv`
 
@@ -225,13 +209,6 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 - Drittland-Sub-AV ohne SCC oder ohne TIA.
 - Kein Recht zur ausserordentlichen Kuendigung bei berechtigtem Widerspruch.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-mindestinhalte-checkliste/SKILL.md`
-- `datenschutzrecht/skills/avv-haftung-risikoallokation-art-82-dsgvo/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-us-data-privacy-framework-bezug/SKILL.md`
-- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 28 Abs. 2 und Abs. 4 DSGVO.
@@ -239,14 +216,6 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 - EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021).
 - EDSA-Empfehlungen 01/2020 zur Transferfolgenabschaetzung (Version 2.0 Juni 2021).
 - Zitierweise: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `avv-eu-us-data-privacy-framework-bezug`
 
@@ -325,13 +294,6 @@ DPF-und-Fallback-Klausel:
 - Veraltete Verweise auf Privacy Shield – seit Schrems II (EuGH C-311/18) unwirksam.
 - DPF-Listing nur einmal geprueft, keine periodische Kontrolle.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-kommission-musterklauseln-2021-915/SKILL.md`
-- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md`
-- `datenschutzrecht/skills/dpa-en-template-controller-processor/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, ABl. L 231/118 vom 20.09.2023 – verifiziert.
@@ -342,14 +304,6 @@ DPF-und-Fallback-Klausel:
 - EDSA-Empfehlungen 01/2020 (Version 2.0 Juni 2021).
 - DPF-Listing ueber dataprivacyframework.gov pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `avv-konzern-und-multi-party-konstellation`
 
@@ -440,13 +394,6 @@ Konzern-AVV-Klauseln (Auszug):
 - Drittlandbezug einer Konzerngesellschaft uebersehen.
 - Beitrittsanlage ohne Pflicht zur Information des Dienstleisters – Versionierungschaos.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-rolemix-getrennt-vs-gemeinsam-verantwortlich/SKILL.md`
-- `datenschutzrecht/skills/avv-art-26-joint-controllership-deutsch/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 28, Art. 26, Art. 47 sowie ErwGr. 36 und 48.
@@ -456,23 +403,11 @@ Konzern-AVV-Klauseln (Auszug):
 - EU-Kommission Beschluss (EU) 2021/914 mit Docking Clause (Klausel 7).
 - Zitierweise: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 5. `avv-pruefung`
 
 **Fokus:** Auftragsverarbeitungsvertrag nach Art. 28 DSGVO prüfen oder erstellen wenn Dritter Daten im Auftrag verarbeitet. Art. 28 DSGVO AVV-Pflicht § 62 BDSG. Prüfraster: Pflichtinhalte Art. 28 Abs. 3 Weisungsgebundenheit Subauftragsverarbeiter Rückgabe Lösung Audits. Output: AVV-Prüfmemo oder Vertragsentwurf. Abgrenzung: nicht für Joint-Controller-Vereinbarungen (joint-controller-vereinbarung).
 
 ### AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO
-
-## Zweck
-
-Strukturierte Prüfung eingehender oder ausgehender Auftragsverarbeitungsverträge gegen Art. 28 DSGVO-Mindestanforderungen, das eigene AVV-Playbook (aus `CLAUDE.md`) und aktuelle EDSA-Leitlinien. Der Skill prüft zusätzlich, ob Drittlandtransfers wirksam abgesichert sind (EU-SCC, DPF, TIA) und ob Sub-Auftragsverarbeiter-Klauseln den Anforderungen entsprechen.
 
 ## Eingaben
 
@@ -555,16 +490,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — mehrstufige Subunternehmer-Kette | Subunternehmer-Klausel gesondert pruefen; Haftungskette sichern |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Ausgabeformat
-
-1. **Kopfzeile:** Dokumentbezeichnung, Datum des Reviews, Richtung, Risikobewertung Gesamt
-2. **Pflichtklausel-Tabelle** (Art. 28 Abs. 3 DSGVO, alle Buchstaben, Status ✓/⚠️/🔴)
-3. **Playbook-Abgleich** (Klausel | Ist-Position | Soll-Position | Bewertung | Empfehlung)
-4. **Sub-AV-Abschnitt** (Listenformat)
-5. **TIA-Abschnitt** (nur wenn Drittlandexposure vorhanden)
-6. **Redline-Vorschläge** (Vertragssprache, nummeriert)
-7. **Entscheidungsoptionen**
 
 ## Beispiel (Gutachtenstil)
 
@@ -663,3 +588,4 @@ Empfehlung: Unterzeichnen / Mit Redlines / Ablehnen
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

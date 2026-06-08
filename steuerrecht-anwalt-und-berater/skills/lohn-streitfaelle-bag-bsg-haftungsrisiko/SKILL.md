@@ -103,12 +103,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - StB-Haftungsrisiko (§ 280 BGB): wenn StB hatte Veranlassung der Klassifikation.
 - Berufshaftpflicht-Anmeldung pruefen.
 
-## Output
-
-- Memo zu Streitfall und Risikobewertung.
-- Anwaltliche Begleitung empfohlen.
-- Berufshaftpflicht-Anzeige falls relevant.
-
 ## Strategie und Praxis-Tipps
 
 - Bei strittigen Klassifikationen frueh DRV-Statusfeststellung beantragen.
@@ -118,14 +112,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - StB-Haftungsrisiko bei "ich habe nur weiterabgerechnet" begrenzt — bei aktiver Beratung erheblich.
 - StBVV: Streitfall-Begleitung nach Zeithonorar oder Streitwert.
 - StB-BHV rechtzeitig informieren bei drohendem Haftungsanspruch.
-
-## Querverweise
-
-- `stb-lohn-gesellschafter-geschaeftsfuehrer-sv` — GGF-Status.
-- `stb-lohn-pruefungen-drv-bp-haftung-stb` — DRV-Pruefung.
-- `stb-lohn-werkstudent-pauschalen` — Werkstudent.
-- `stb-drv-sozialversicherungspruefung` — DRV-Pruefung.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
 
 ## Quellen und Updates
 
@@ -139,3 +125,4 @@ Stand: 05/2026.
 - BAG- und BSG-Linien; aktuelle Entscheidungen in amtliche/freie Quellen oder lizenzierte Datenbanken pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BAG 9 AZR 102/20 v. 01.12.2020 recherchiert), 3 ersetzt (Pruefhinweise ohne Marker) -->
+

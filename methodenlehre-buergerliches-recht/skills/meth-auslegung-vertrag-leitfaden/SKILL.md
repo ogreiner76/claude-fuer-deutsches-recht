@@ -54,10 +54,6 @@ description: "Bietet einen vollständigen methodischen Leitfaden für die Ausleg
 - Ambiguitas contra proferentem wird auch auf individuell ausgehandelte Klauseln angewandt.
 - Offene Einigungsmängel (§ 154 BGB) werden durch ergänzende Auslegung überbrückt, obwohl kein Vertrag besteht.
 
-## Output
-
-Das Skill liefert einen vollständigen Auslegungsbericht: Ergebnis der subjektiven Auslegung, normative Auslegung nach Empfängerhorizont, Begleitumstandsanalyse, Lückenfeststellung und ergänzende Auslegung. Verwendbar als Grundlage für Schriftsatz, Gutachten oder richterliche Urteilsbegründung.
-
 ## Vertiefung: Auslegung im unternehmerischen Verkehr
 
 Im unternehmerischen Verkehr gelten besondere Auslegungsregeln: Kaufleute kennen die Handelsbräuche ihrer Branche, und § 346 HGB erklärt diese für verbindlich. Außerdem ist im B2B-Bereich ein strengerer objektiver Empfängerhorizont anzulegen als im Verbraucherrecht: Kaufleute müssen mehrdeutige Formulierungen als solche erkennen und um Klarstellung bitten.
@@ -83,3 +79,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BGH NJW 2010, 1135 – ergänzende Vertragsauslegung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=NJW%202010%2C%201135)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

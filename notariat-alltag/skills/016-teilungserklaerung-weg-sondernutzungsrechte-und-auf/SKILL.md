@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte u
 
 # Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte, Aufteilungsplan
 
-## Arbeitsbereich
-
-Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach § 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -98,3 +94,4 @@ Seit 1.12.2020: Wohnungseigentümergemeinschaft ist teilrechtsfähig (§ 9a WEG)
 - **Mandantenmail** (Ablauf, Fristen, Kosten)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

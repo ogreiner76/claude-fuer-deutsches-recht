@@ -109,21 +109,7 @@ Auch bei Sozialgericht (§ 1 JVEG i.V.m. § 197a SGG analog). Sagen Sie das dem 
 - Zeuge hat nur vom Hoeren-sagen Kenntnis → wenig wertvoll
 - Zeuge unzuverlaessig → besser nicht benennen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `beweismittel-im-sozialgericht-uebersicht` — Ueberblick
-- `amtsermittlungsgrundsatz-103-sgg` — Amtsermittlung
-- `medizinische-gutachten-strategie-laien` — bei medizinischen Fragen lieber Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze für Zeugenentschaedigung pruefen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

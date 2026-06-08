@@ -5,10 +5,6 @@ description: "Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen
 
 # Multijurisdiktionale Uebersetzungen und Dokumente
 
-## Arbeitsbereich
-
-Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10 ff. (Sprache des Rechtsgeschäfts), Governing-Language-Klauseln. Prüfraster: Terminologie-Konsistenz, Governing-Language, Notarerfordernis Übersetzung, Divergenz-Risiken. Output Mehrsprachiges Dokument, Terminologie-Glossar, Gouvernance-Language-Klausel. Abgrenzung: Reine Übersetzung ohne Rechtsinhalt ist kein Rechtsfall; substantielle Aenderungen siehe spa-apa-entwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -138,9 +134,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Terminologie-Mapping: Deutsch / Englisch
 
 | Deutscher Begriff | Englische Entsprechung (DE-Recht-Bezug) | Common Law-Aequivalent |
@@ -214,3 +207,4 @@ purposes only. In case of doubt, the German version shall prevail.
 - § 184 GVG; Art. 3 Rom-I-VO; Art. 10 ff. EGBGB; § 30 BeurkG
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+

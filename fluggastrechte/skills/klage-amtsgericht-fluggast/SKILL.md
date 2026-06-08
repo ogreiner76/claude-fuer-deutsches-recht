@@ -292,9 +292,6 @@ beA-Konvention:
 - EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler
 - EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Klageerhebung
 
 1. Schlichtung versucht? → SOEP-Verfahren erst ausschoepfen (kostenfrei); danach Klage
@@ -307,3 +304,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Adressat & Tonfall
 
 Adressat: Amtsgericht am gewaehlten Gerichtsstand — Tonfall sachlich-juristisch; Schriftsatz ohne Anwaltszwang trotzdem klar strukturiert nach § 253 ZPO-Mindestinhalt (Parteien, Antrag, Begruendung, Beweisangebote)
+

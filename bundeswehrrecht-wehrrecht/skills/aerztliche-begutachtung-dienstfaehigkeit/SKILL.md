@@ -5,10 +5,6 @@ description: "Ärztliche Begutachtung und Dienstfähigkeit: prüft Begutachtungs
 
 # Ärztliche Begutachtung und Dienstfähigkeit
 
-## Arbeitsbereich
-
-Ärztliche Begutachtung und Dienstfähigkeit: prüft Begutachtungsverfahren, Tauglichkeitsstufen, Rechtsbehelfe und Versorgungsfolgen. Norm-/Quellenanker: §§ 44–45 SG, SVG, DV 46/1. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,12 +33,6 @@ Dauerhafte Dienstunfähigkeit löst bei Berufssoldaten die Zurruhesetzung (§ 45
 - §§ 27–38 SVG — Wehrdienstbeschädigung und Versorgungsleistungen
 - § 17 SG — Personalakte (Aufnahme Begutachtungsergebnisse)
 - §§ 6–11 WBO — Beschwerdeverfahren
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -103,22 +93,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Prüfschema: Wehrdienstbeschädigung § 27 SVG (Schaden → Kausalität → Leistung)
 - Checkliste: Gegengutachten beauftragen — notwendige Unterlagen
 - Muster-WBO-Beschwerde gegen Entlassungsverfügung wegen Dienstunfähigkeit
-
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — SG §§ 44–45, 55
-- https://www.gesetze-im-internet.de/svg/ — SVG §§ 27–38, 63a ff.
-- https://dejure.org/gesetze/SG
-- https://www.bverwg.de — BVerwG Wehrdienstsenat
-- https://www.bundeswehr.de/de/organisation/personal/bundesamt-für-das-personalmanagement
 
 ## Qualitätsgate
 

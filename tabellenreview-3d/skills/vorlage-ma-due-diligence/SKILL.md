@@ -5,10 +5,6 @@ description: "Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format: Forderunge
 
 # /tabellenreview-3d:vorlage-ma-due-diligence
 
-## Zweck
-
-M&A-DD bei einem Vertragsstapel der Zielgesellschaft. Die Standardfragen sind bekannt — diese Vorlage liefert sie fix und fertig: Spaltenprompts mit BGH-Verankerung, vier Arbeitsblatt-Perspektiven, Ampel-Schwellen praxisbewährt.
-
 ## Spalten (18 Datenpunkte)
 
 1. **Vertragsart** — Rahmenvertrag / Einzelvertrag / NDA / Lizenz / Lieferung / Werk
@@ -63,3 +59,4 @@ M&A-DD bei einem Vertragsstapel der Zielgesellschaft. Die Standardfragen sind be
 ## Ausgabe
 
 Würfel-Schema fix und fertig in `wuerfel-schema.yaml` mit allen drei Achsen. Direkt einsatzbereit für `review-durchfuehren`.
+

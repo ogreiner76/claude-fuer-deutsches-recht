@@ -5,10 +5,6 @@ description: "Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (
 
 # Fallstatus: Zielgruppengerechte Fallzusammenfassung
 
-## Arbeitsbereich
-
-Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche Sprache), intern (für den Supervisor) oder gerichts-/behördengerichtet (formale Schriftsatzform per Verfahrensordnung). Gleiche Fakten, unterschiedliche Darstellung und Tiefe. Lädt, wenn ein Studierender den Mandanten informieren, den Supervisor briefen oder einen gerichtlichen/behördlichen Statusbericht vorbereiten muss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Fallstatuszusammenfassung nach Zielgruppe — mandantengerichtet (verständliche
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Rechtsberatungsstellen erstellen eine Vielzahl von Statusmitteilungen — an Mandanten, Supervisoren, Gerichte und Behörden. Gleicher Fall, gleiche Fakten, völlig verschiedene Dokumente. Diese Skill nimmt die Fallnotizen und erstellt die jeweils passende Zusammenfassung für den jeweiligen Leser.
 
 ## Eingaben
 
@@ -45,6 +37,7 @@ Rechtsberatungsstellen erstellen eine Vielzahl von Statusmitteilungen — an Man
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Modus: Mandantengerichtet
@@ -186,10 +179,6 @@ Entsprechend der Klinik-Konfiguration:
 - Intern → kein Flag (geht ohnehin an den Supervisor)
 - Gerichts-/Behördengerichtet → immer geflaggt, wenn formelle Prüfwarteschlange aktiviert (gerichtliche/behördliche Einreichungen)
 
-## Ausgabeformat
-
-Strukturierter Markdown-Text nach dem jeweiligen Zielgruppen-Modus oben. Interne Prüfvermerke erscheinen im Entwurf; sie werden vor Versand an Mandanten, Gerichte oder Behörden entfernt.
-
 ## Beispiel
 
 **Szenario:** Mandantin Erdem, Widerspruch gegen Nebenkostennachforderung. Widerspruch eingereicht 01.04.2026. Bestätigung vom Vermieter erwartet.
@@ -211,3 +200,4 @@ Strukturierter Markdown-Text nach dem jeweiligen Zielgruppen-Modus oben. Interne
 Statusberichte enthalten keine zitierten Normen als Primärbelege — das obliegt den zugrunde liegenden Gutachten (`/memo`). Rechtliche Behauptungen in Statusberichten müssen durch verifizierte Gutachten gedeckt sein, auf die der Bericht verweist. Kein Status-Schriftstück enthält ungeprüfte Rechtsbehauptungen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

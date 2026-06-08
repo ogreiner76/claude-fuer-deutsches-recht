@@ -38,10 +38,6 @@ description: "Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — 
 
 § 280 BGB · § 675 BGB · § 33 StBerG · § 43a BRAO · § 153 AO · § 371 AO · § 89 AO (verbindliche Auskunft) · § 204 AO (verbindliche Zusage)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
-
 ## Praxisformulierung / Antragsmuster
 
 ```
@@ -72,3 +68,4 @@ Der Mandant entscheidet sich für Option [...].
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+

@@ -5,10 +5,6 @@ description: "Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen wenn 
 
 # Inkassodienstleistungen (RDG)
 
-## Arbeitsbereich
-
-Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen wenn gewerbliche Forderungseinziehung betrieben wird. §§ 2 10 RDG Rechtsdienstleistungserlaubnis. Prüfraster: Erlaubnispflicht Nebenleistungsprivileg Inkassoerlaubnis Zulassung Aufsicht Kundenschutz. Output: RDG-Prüfmemo Erlaubnis-Empfehlung. Abgrenzung: nicht für anwaltliche Forderungseinziehung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,6 +51,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Schritt 1 – Zulässigkeitsprüfung: Inkassodienstleistung i.S.d. RDG**
@@ -88,13 +85,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Informationspflicht nach Art. 14 DSGVO beim ersten Kontakt mit Schuldner (Datenherkunft: Gläubiger).
 - Auskunfteien-Meldung (SCHUFA): Nur bei erheblicher Forderung, nach Mahnung, keine unverhältnismäßige Beeinträchtigung (Berechtigungsinteresse nach § 31 BDSG i.V.m. Art. 6 Abs. 1 lit. f DSGVO).
 
-## Ausgabeformat
-
-- **Erstmahnung/Inkassoschreiben** (Vorlage nach § 13d RDG): Vollständige Hinweispflichten, Kostenaufschlüsselung.
-- **Zulässigkeits-Prüfmemo**: Inkassotätigkeit vs. unerlaubte Rechtsberatung, Registrierungsstatus.
-- **Kostenrechnung** (Tabelle): Hauptforderung, Zinsen, RVG-Inkassogebühr, Gesamtbetrag.
-- **Datenschutz-Checkliste**: Rechtsgrundlage, Art-14-Information, Auskunftei-Meldung.
-
 ## Beispiel
 
 **Sachverhalt**: Legal-Tech-Startup L (RDG-registriert) zieht für Mieter M Ansprüche aus der Mietpreisbremse ein. L lässt sich die Forderung abtreten und nimmt 30 % Erfolgsprovision vom Erstattungsbetrag. L sendet Schreiben an Vermieter V ohne Hinweis auf M's Widerspruchsmöglichkeit.
@@ -119,3 +109,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Quellenpflicht
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+

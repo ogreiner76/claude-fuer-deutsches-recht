@@ -5,10 +5,6 @@ description: "Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urte
 
 # Schrems II – Grundlagen für Transfer Impact Assessment
 
-## Zweck
-
-Dieser Skill ordnet das EuGH-Urteil Schrems II (Rechtssache C-311/18 vom 16.07.2020) ein und erlaeutert, warum daraus die Pflicht zur Durchfuehrung eines Transfer Impact Assessment (TIA) folgt. Er ist der Einstieg in das TIA-Toolset im Datenschutzrecht-Plugin.
-
 ## Wann dieses Modul hilft
 
 - Mandant fragt: "Warum brauchen wir ein TIA?"
@@ -67,15 +63,6 @@ Kurzvermerk-Baustein für das TIA:
 - TIA-Dokument als Einmal-Pruefung; keine Wiedervorlage.
 - "Essentially equivalent" mit "identisch" gleichgesetzt – nicht zutreffend, ein "im Wesentlichen gleichwertiger" Schutz genuegt.
 
-## Querverweise
-
-- `tia-edpb-roadmap-6-schritte-deutsch` für die operative Sechs-Schritte-Pruefung.
-- `tia-en-six-step-roadmap` (englische Fassung).
-- `tia-us-fisa-702-und-eo-12333-bewertung` für die US-Behörden-Bewertung.
-- `tia-eu-us-data-privacy-framework-aktueller-stand` für DPF.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Supplementary Measures.
-- `tia-template-deutsch-vollvorlage` für das TIA-Dokument.
-
 ## Quellen Stand 06/2026
 
 - EuGH, Urteil der Grossen Kammer vom 16.07.2020, C-311/18, ECLI:EU:C:2020:559 (Schrems II).
@@ -86,10 +73,3 @@ Kurzvermerk-Baustein für das TIA:
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 (EU-US DPF).
 - US Executive Order 14086 vom 07.10.2022.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

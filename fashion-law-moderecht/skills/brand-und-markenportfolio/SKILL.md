@@ -5,10 +5,6 @@ description: "Brand- und Markenportfolio für Modeunternehmen prüfen: Wortmarke
 
 # Brand Und Markenportfolio
 
-## Arbeitsbereich
-
-Brand- und Markenportfolio für Modeunternehmen prüfen: Wortmarke, Logo, Monogramm, Kollektionstitel, Linienname, Klasse, Territory und Watchlist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,20 +17,12 @@ Brand- und Markenportfolio für Modeunternehmen prüfen: Wortmarke, Logo, Monogr
 
 Eine Fashion Brand wird aufgebaut oder verteidigt.
 
-## Arbeitsweise
-
-Route bei Tiefe in das Markenrechtsplugin, aber liefere hier die Mode-spezifische Portfoliologik.
-
 ## Prüfpunkte
 
 - Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
 - Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Output
-
-Brand-Portfolio-Memo.
 
 ## Quellen-Hardening
 

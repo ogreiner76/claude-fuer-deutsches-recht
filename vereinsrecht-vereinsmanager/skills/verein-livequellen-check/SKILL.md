@@ -5,9 +5,6 @@ description: "Sammelt aktuelle amtliche Quellen zu BGB, AO, Registergericht, Fin
 
 # Livequellen-Check Vereinsrecht
 
-## Aufgabe
-Sammelt aktuelle amtliche Quellen zu BGB, AO, Registergericht, Finanzamt, Landesrecht und Satzung vor Ausgabe.
-
 ## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
@@ -25,12 +22,6 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
-
 ## Quellen- und Aktualitätsregel
 - BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
 - Vereinsregisterverordnung/FamFG/Registergericht live prüfen
@@ -39,3 +30,4 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 - Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+

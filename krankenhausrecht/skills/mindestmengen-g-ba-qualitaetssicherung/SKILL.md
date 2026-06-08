@@ -5,10 +5,6 @@ description: "Mindestmengen nach § 136b SGB V und G-BA-Mm-R: Prognoseverfahren,
 
 # Mindestmengen G-BA Qualitaetssicherung
 
-## Arbeitsbereich
-
-Mindestmengen nach § 136b SGB V und G-BA-Mm-R: Prognoseverfahren, Ausnahmen, Erbringungsverbote, Pruefung durch Land und Klage gegen Negativfeststellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,17 +71,10 @@ Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Frue
 - Frist für Negativfeststellungsanzeige verpassen.
 - Mindestmenge mit Vorhalteanteil/LG verwechseln.
 
-## Querverweise
-- `leistungsgruppen-und-qualitaetskriterien-reformlogik`
-- `qualitaets-und-strukturvorgaben-intake`
-- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
-- `notfallstufen-und-sicherstellungszuschlaege`
-- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
-- `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung`
-
 ## Quellen Stand 06/2026
 - SGB V § 136b.
 - G-BA Mindestmengenregelungen (Mm-R) in aktueller Fassung (Live-Check g-ba.de/richtlinien/38/).
 - BSG, staend. Rspr. zur Mindestmengen-Prognose.
 - BVerfG zu Verfassungsmaessigkeit von Mindestmengen.
 - Landeskrankenhausgesetze 16 Länder zur Aufsicht und Negativfeststellung.
+

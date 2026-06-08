@@ -9,7 +9,6 @@ description: "Output-Wahl für Fortbestehensprognose StaRUG/InsO: stimmt Adressa
 
 Diese Output-Weiche für **Fortbestehensprognose** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `annahmen-behoerden-gericht-und-registerweg` — Annahmen Behoerden Gericht und Registerweg
@@ -36,12 +35,9 @@ Diese Output-Weiche für **Fortbestehensprognose** entscheidet, ob Memo, Antrag,
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Fortbestehensprognose StaRUG/InsO sofort: Fortbestehensprognose IDW S 11 oder Restrukturierungsplan.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

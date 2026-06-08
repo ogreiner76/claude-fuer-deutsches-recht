@@ -5,9 +5,6 @@ description: "Replik Klageerwiderung Richterlicher Hinweis im Selbstvertretung a
 
 # Replik Klageerwiderung Richterlicher Hinweis
 
-## Arbeitsbereich
-
-**Replik Klageerwiderung Richterlicher Hinweis** ordnet den Fall über die tragenden Prüfungslinien: Replik als Klaeger-Antwort auf die Klageerwiderung, Reaktion auf einen richterlichen Hinweis nach § 139 ZPO, Sachverständigenbeweis nach §§ 402 ff. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Replik Klageerwiderung Richterlicher Hinweis im Selbstvertretung a
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `replik-auf-klageerwiderung-systematik`
@@ -187,25 +185,9 @@ Tragen Sie alles in der Replik vor. Spaeter erst im Termin kommt schlechter an.
 - "Die Replik ist nicht zwingend." → Doch — gegen neuen Beklagten-Vortrag.
 - "Ich warte auf den Termin und sage dann was." → Praeklusions-Gefahr.
 
-## Querverweise
-
-- `klageerwiderung-checkliste-alle-punkte` — Klageerwiderung (analog).
-- `duplik-nach-replik` — Duplik des Beklagten.
-- `substantiiertes-bestreiten-138-iv-zpo` — Bestreiten.
-- `nachgereichter-schriftsatz-296a-zpo` — Spaeterer Schriftsatz.
-- `fristverlaengerung-antrag-225-zpo` — Verlaengerung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `richterlicher-hinweis-139-zpo-reaktion`
 
@@ -327,24 +309,9 @@ Wenn ueberraschende Niederlage ohne Hinweis: Berufungs-Grund (Verfahrensfehler).
 - "Ich ignoriere den Hinweis." → Verfahrensnachteil.
 - "Ich verteidige mich beleidigt." → Sachlich antworten ist effektiver.
 
-## Querverweise
-
-- `klageerwiderung-checkliste-alle-punkte` — Klageerwiderung.
-- `replik-auf-klageerwiderung-systematik` — Replik.
-- `nachgereichter-schriftsatz-296a-zpo` — Schriftsatznachlass.
-- `berufung-amtsgericht-511-zpo` — Berufung bei Verfahrensfehler.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 139 ZPO unveraendert. BGH-Linie zur Hinweispflicht stabil.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `sachverstaendigenbeweis-402-zpo`
 
@@ -471,21 +438,7 @@ Wenn Gerichtsgutachten ueberzeugt nicht: Sie koennen Privat-Gegen-Gutachten einr
 - "Ich erwarte gratis Gerichts-Gutachten." → Vorschuss noetig.
 - "Privatgutachten reicht." → Gericht kann eigenes anordnen.
 
-## Querverweise
-
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweisangebot.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kostenkalkulation.
-- `beweislast-grundregel-wer-was` — Beweislast.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 402 ff. ZPO, § 17 GKG unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

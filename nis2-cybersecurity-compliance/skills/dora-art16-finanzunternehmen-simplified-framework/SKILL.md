@@ -5,10 +5,6 @@ description: "DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft
 
 # DORA Artikel 16 für Finanzunternehmen
 
-## Arbeitsbereich
-
-DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ DORA-Artikel-16-Fachmodul für Cyber- und Compliance-Teams: prüft, ob ein Finan
 - Tragende Normen verifizieren: EU NIS2-RL 2022/2555, NIS2UmsuCG (deutsches Umsetzungsgesetz), BSIG §§ 8a, 8b, 8c, KRITIS-DachG, DORA (VO 2022/2554) für Finanzwesen, IT-SiG 2.0, DSGVO Art. 32 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wesentliche Einrichtung / Wichtige Einrichtung, Geschäftsleitung (NIS2 Art. 20 Haftung), BSI, BNetzA (Sektorbehörden), CSIRT-Bund.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, Informationssicherheits-Konzept, Incident-Response-Plan, BSI-Meldung, Schulungsnachweis Geschäftsleitung, Lieferkettenrisiko-Bericht, Business-Continuity-Plan — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill sitzt zwischen NIS2-/Cybersecurity-Compliance und Finanzaufsicht. Er klärt, ob DORA als Spezialregime vorgeht, ob Artikel 16 DORA den vereinfachten Rahmen eröffnet, und welche technischen und organisatorischen Mindestnachweise trotzdem erforderlich sind.
 
 ## Scope-Check
 
@@ -41,16 +33,6 @@ Dieser Skill sitzt zwischen NIS2-/Cybersecurity-Compliance und Finanzaufsicht. E
 7. Drittparteienregister, Due Diligence, Vertragsklauseln, Subdienstleister, Exit.
 8. Nachweisordner für Geschäftsleitung, Revision, BaFin/Bundesbank.
 
-## Output
-
-Erzeuge eine `DORA-Art.-16-Note`:
-
-- Scope-Entscheidung.
-- Ampel für Governance, Assets, IAM, Betrieb, BCP, Drittparteien, Nachweise.
-- 30-/60-/90-Tage-Maßnahmenplan.
-- Vertragslücken für kritische IKT-Dienstleister.
-- Liste der Live-Checks auf BaFin, EUR-Lex und nationalen Umsetzungsseiten.
-
 ## Stolperstellen
 
 - Artikel 16 wird fälschlich als Minimalpflicht verstanden.
@@ -58,3 +40,4 @@ Erzeuge eine `DORA-Art.-16-Note`:
 - Drittparteien werden nur in Procurement erfasst, aber nicht im IKT-Risikomanagement.
 - Exit-Pläne sind Papier, aber nicht testbar.
 - Geschäftsleitung sieht Reports, entscheidet aber keine Prioritäten.
+

@@ -5,10 +5,6 @@ description: "Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Beg
 
 # Elektronische Unterzeichnung (DocuSign / Adobe Sign)
 
-## Arbeitsbereich
-
-Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Prüfraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur für elektronische Signatur; nicht für notarielle Beurkundung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill begleitet die elektronische Unterzeichnung des Wandeldarlehensvertrags über DocuSign oder Adobe Sign. Er stellt sicher, dass die Textform (§ 126b BGB) gewahrt ist, alle Parteien authentifiziert sind und der Audit Trail revisionssicher archiviert wird. Phase B des Lebenszyklus.
 
 ## Eingaben
 
@@ -40,30 +32,6 @@ Dieser Skill begleitet die elektronische Unterzeichnung des Wandeldarlehensvertr
 
 ### Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Vorgehen
-
-### 1. Dokument vorbereiten
-Endgültige PDF des Wandeldarlehensvertrags erstellen (kein DOCX an Unterzeichner senden). Alle Felder ausgefüllt, keine Platzhalter. Unterschriftsfelder positionieren (am Signaturblock).
-
-### 2. DocuSign-Envelope erstellen
-Empfängerreihenfolge: 1. Gesellschaft (Geschäftsführerin), 2. Gesellschafterin 1, 3. Gesellschafterin 2, 4. Darlehensgeber. Authentifizierung: SMS-OTP (Standard) oder eID. Ablaufdatum: sieben Bankarbeitstage.
-
-### 3. Authentifizierungsstufen
-| Stufe | Methode | Für Wandeldarlehen |
-|---|---|---|
-| E-Mail-OTP | Code per E-Mail | Ausreichend (Textform § 126b BGB) |
-| SMS-OTP | Code per SMS | Empfohlen |
-| QES (eIDAS) | Personalausweis-Online-Funktion | Nicht erforderlich, höchste Sicherheit |
-
-### 4. Erinnerungsmanagement
-Automatische Erinnerungen nach drei Tagen, nach fünf Tagen. Persönliche Nachfrage nach sieben Tagen. Ablauf-Eskalation an alle Parteien kommunizieren.
-
-### 5. Audit Trail sichern
-Nach Abschluss: Certificate of Completion (PDF mit Audit Trail) herunterladen. Zeitstempel, IP-Adressen, Authentifizierungsnachweis, Unterzeichnungschronologie. Archivieren: zehn Jahre revisionssicher (§ 147 AO).
-
-### 6. Archivierung und Verteilung
-Jede Partei erhält signiertes PDF per E-Mail (automatisch durch DocuSign). Zusätzlich: Ablage in Kanzleidokumentenmanagementsystem. Backup: mindestens zwei unabhängige Speicherorte.
 
 ## Checkliste Unterzeichnungsrunde
 
@@ -87,12 +55,6 @@ Jede Partei erhält signiertes PDF per E-Mail (automatisch durch DocuSign). Zus�
 | Aufbewahrung unter zehn Jahre | § 147 AO-Verstoß | Sechs Jahre | Zehn Jahre |
 | Falsches Dokument (Entwurf) unterzeichnet | Streit über Vertragsinhalt | Versionsverwechslung möglich | Nur finale PDF |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/textform-vs-schriftform-vs-notariell/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/beurkundungserfordernis-pruefung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/wandelereignis-eingang/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. eIDAS-VO 910/2014; § 147 AO. Bei Änderung eIDAS 2.0 (VO 2024/1183) aktualisieren.
@@ -108,3 +70,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 § 126 BGB (Schriftform) → § 126a BGB (elektronische Form, QES) → § 126b BGB (Textform) → Art. 3 Nr. 12, Art. 25, 26 eIDAS-VO (qualifizierte elektronische Signatur) → § 15 Abs. 3, 4 GmbHG (notarielle Form bei GmbH-Anteilsverträgen, kein elektronischer Ersatz)
+

@@ -5,10 +5,6 @@ description: "Erstellt Verlagstexte für Vorschau, Newsletter, Presse, Website u
 
 # Marketing, Presse und Social
 
-## Arbeitsbereich
-
-Erstellt Verlagstexte für Vorschau, Newsletter, Presse, Website und Social Media aus Manuskript, Zielgruppe und Produktnutzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,16 +16,6 @@ Erstellt Verlagstexte für Vorschau, Newsletter, Presse, Website und Social Medi
 ## Ziel
 
 Aus Fachinhalt wird klare Produktkommunikation, ohne falsche Versprechen.
-
-## Output
-
-- Webteaser.
-- Newslettertext.
-- Pressenotiz.
-- Social-Posts.
-- Nutzenargumente.
-- Zielgruppenansprache.
-- Autor:innenzitat als Platzhalter zur Freigabe.
 
 ## Regel
 
@@ -51,10 +37,3 @@ Bei Zitaten nie echte Aussagen erfinden. Platzhalter verwenden und Freigabe anfo
 
 Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll veroeffentlicht oder uebergeben werden? Fuer wen ist es bestimmt? Bis wann muss es freigegeben sein? Danach mit einer belastbaren Arbeitsfassung beginnen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

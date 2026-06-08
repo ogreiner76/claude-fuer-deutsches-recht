@@ -5,10 +5,6 @@ description: "Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht pr
 
 # Bürgschaft auf erste Anforderung
 
-## Arbeitsbereich
-
-Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textauslegung, Abrufmechanik, offensichtlicher Rechtsmissbrauch, einstweiliger Rechtsschutz, Regress gegen Kunden und Dokumentation der Zahlungsentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textaus
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Prüfe Fälle, in denen die Bank sich verpflichtet hat oder verpflichten soll, bei bloßem formalem Abruf zunächst zu zahlen. Der Skill soll verhindern, dass Legal entweder blind zahlt oder reflexhaft blockiert. Entscheidend ist die genaue Trennung zwischen Akzessorietät, selbständiger Garantie, erstem Anfordern, Missbrauchseinwand und späterem Rückforderungs-/Regressprozess.
 
 ## Wann nutzen
 
@@ -102,3 +94,4 @@ Formuliere:
 - `garantieabruf-missbrauch-und-zahlungsstopp` für Eilfall.
 - `kreditsicherheiten-bestellung-verwertung` für Regress und Sicherheiten.
 - `litigation-schlichtung-prozess` für gerichtlichen Streit.
+

@@ -118,25 +118,10 @@ Mit freundlichen Grüßen [Berufsbezeichnung]."
 - Anrechnung auf falsches Wirtschaftsjahr beantragt.
 - Vorauszahlungssenkung beantragt, ohne dass Bescheinigung schon vorliegt.
 
-## Output
-
-- Vollständige Antragsmappe an das Finanzamt.
-- ELSTER-Eingangsbestätigung.
-- Bescheidprüfungsblatt nach Eingang.
-- Liquiditätszeitachse.
-- Schreiben an Mandant zur Bestätigung der Antragstellung und nächsten Schritte.
-
-## Querverweise
-
-- `fz-bsfz-bescheinigung-projektbeschreibung` für die Vorstufe.
-- `fz-bemessungsgrundlage-2026` für die Höhe der BMG.
-- `fz-ablehnung-nachbesserung-einspruch` bei Bescheidkürzung.
-- `fz-insolvenz-verlust-liquiditaet` bei Auszahlungsfragen in Verlustlagen.
-- `fz-kumulierung-beihilfen-agvo` für AGVO-Kumulierungsblatt.
-
 ## Quellen Stand 05/2026
 
 - FZulG, insbesondere §§ 5, 10 (vom Antragsteller mit konsolidierter Fassung zu prüfen).
 - BMF-Hinweise zur Forschungszulage: https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerliche_Themengebiete/Forschungszulage/forschungszulage.html
 - ELSTER-Portal (Antragsformulare und elektronischer Zugang).
 - `references/forschungszulage-quellen-und-zahlen.md`.
+

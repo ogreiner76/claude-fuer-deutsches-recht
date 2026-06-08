@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Windpark-Fundamente und Turmbauten
 
 # Bauueberwachung Windpark Fundament und Turmschaft
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Windpark-Fundamente und Turmbauten — Ueberwachung Pfahlgruendungen und Flachgruendungen nach DIN EN 1997-1 EC7, Stahlbeton C30/37 XS1 für kuestennahe Standorte, Ringfundamente nach DIBt-Zulassung, Ankerkorb-Einmessung mit Tachymeter, Ankerschrauben-Drehmomentkontrolle M48 Guete 10.9, Setzungsmonitoring sowie VOB/C-Abnahme bei Windenergieanlagen bis 200 m Nabenhoehe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchs
 - Veraenderte Setzungsdynamik nach Drainageeinbau: Dränagen um Fundament beschleunigen Konsolidierung, Monitoring-Auswertung pflichtmaessig
 - Fehlende DIBt-Pruefung vor Betonage: Ankerkorb-Einbauprotokoll fehlt in Zulassungsunterlagen, Genehmigungsversagung Inbetriebnahme
 
-## Output
-
-Fundamentabnahmeprotokoll mit Bewehrungsabnahme-Bescheinigung, Frischbetonprotokoll und Tachymeter-Einmessprotokoll Ankerkorb. Drehmomenten-Pruefprotokoll Ankerschrauben. Bautagebuch je Bauphase. Foto-Dokumentation in PlanRadar und BIM360. Setzungsmonitoring-Bericht nach 12 Monaten. SAP-PS-Projektabschluss mit Kostenauswertung.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Fundamentabnahmeprotokoll mit Bewehrungsabnahme-Bescheinigung, Frischbetonprotok
 - [VOB Vergabe und Vertragsordnung](https://www.gesetze-im-internet.de/vob/)
 - [BGB § 634 Maengelansprueche Werkvertrag](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [DIN EN 1997-1 Geotechnik Eurocode 7](https://www.gesetze-im-internet.de/vob/)
+

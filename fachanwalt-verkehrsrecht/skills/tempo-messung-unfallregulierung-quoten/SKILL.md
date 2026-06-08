@@ -5,9 +5,6 @@ description: "Tempo Messung Unfallregulierung Quoten im Plugin Fachanwalt Verkeh
 
 # Tempo Messung Unfallregulierung Quoten
 
-## Arbeitsbereich
-
-**Tempo Messung Unfallregulierung Quoten** ordnet den Fall über die tragenden Prüfungslinien: Mandant bestreitet korrekte Geschwindigkeitsmessung in, Mandant hat Unfall mit Mitverschulden und fragt welche, Versicherer hat Regulierung angeboten und Anwalt verhandelt. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Tempo Messung Unfallregulierung Quoten im Plugin Fachanwalt Verkeh
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-verkehrsrecht-tempo-messung-beweis`
@@ -30,10 +28,6 @@ description: "Tempo Messung Unfallregulierung Quoten im Plugin Fachanwalt Verkeh
 **Fokus:** Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid. Tempo-Messung Beweisanfechtung OWiG. Prüfraster: Standardmessgeräte PoliScan Speed Es 3.0 LeivTec XV-3 Multanova PTB-Zulassung Eichschein Messdokumentation Messverfahren-Verzeichnis. Output: Beweisanfechtungs-Strategie und Beweisantrag auf Sachverständigen. Abgrenzung zu fachanwalt-verkehrsrecht-bußgeldbescheid-prüfen (Gesamtprüfung) und bußgeld-einspruch-prüfen.
 
 ### Tempo-Messung Beweisanfechtung
-
-## Zweck
-
-Verteidigung bei OWi wegen Geschwindigkeitsüberschreitung.
 
 ## 1) Standardisierte Messverfahren
 
@@ -189,10 +183,6 @@ Hinweis: Standardisierung nach BGH-Linie bedeutet nur eine Beweis-Erleichterung.
 
 ### Unfallregulierung — Quoten
 
-## Zweck
-
-Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
-
 ## 1) Schadens-Positionen
 
 | Position | Inhalt |
@@ -327,10 +317,6 @@ Hinweis: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Mode
 
 ### Versicherer-Verhandlung / Quotenstreit im Verkehrsrecht
 
-## Zweck
-
-Verkehrsunfall-Mandate enden zu ca. 80 % in Vergleich mit Kfz-Versicherer. Verhandlungs-Strategie ist Kern: Mitverschuldensquote § 254 BGB, Schmerzensgeld-Tabellen, vermehrte Bedürfnisse.
-
 ## Eingaben
 
 - Unfallhergang (Polizei, Foto, Zeugen)
@@ -422,13 +408,6 @@ Verkehrsunfall-Mandate enden zu ca. 80 % in Vergleich mit Kfz-Versicherer. Verha
 - **Vermehrte Bedürfnisse** § 843 BGB lebenslang-Rente bei Schwerstverletzung
 - **Versicherer-Vergleichsdruck**: Klage-Drohung oft Quotenerhöher
 
-## Querverweise
-
-- `fachanwalt-verkehrsrecht-orientierung` — Triage
-- `fachanwalt-verkehrsrecht-unfallregulierung-quoten` — Quote
-- `fachanwalt-verkehrsrecht-mpu-vorbereitung` — MPU
-- `fachanwalt-verkehr-autonom-1d-stvg` — Sonderfall
-
 ## Quellen und Updates
 
 Stand: 05/2026. StVG, § 254 BGB. BGH-Linie zu Schmerzensgeld stabil.
@@ -447,10 +426,3 @@ Keine Modellwissen-Zitate. Vor Versand offene Quelle prüfen (juris.bundesgerich
 
 <!-- audit: 27.05.2026 — VI ZR 73/22 (NOT_FOUND auf dejure.org) geloescht; VI ZR 233/19 (NOT_FOUND auf dejure.org) geloescht; VI ZR 286/19 WRONG_TOPIC korrigiert: Thema Anhaenger-Gefaehrdungshaftung § 7 StVG, NJW-Zitat 2020 2116 (nicht 1876), Quelle dejure.org/2020,9266. -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

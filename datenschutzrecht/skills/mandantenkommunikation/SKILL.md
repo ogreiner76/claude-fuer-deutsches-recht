@@ -5,9 +5,6 @@ description: "Mandantenkommunikation im Datenschutzrecht: 1. Wer fragt in welche
 
 # Mandantenkommunikation
 
-## Aufgabe
-Dieses Modul bearbeitet: Mandantenkommunikation im Plugin datenschutzrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
-
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
@@ -34,14 +31,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Praxis-Tipp
 Bei Betroffenenanfragen die Mandantschaft frühzeitig über die Antwortpflicht aufklären — der häufigste Fehler ist Ablehnung "wir geben keine Daten heraus" ohne Rechtsgrundlage. Das löst regelmäßig Beschwerde bei der Aufsichtsbehörde und Bußgeldverfahren aus. Antwortverweigerung nur nach Art. 12 Abs. 5 (Missbrauch) oder § 34 BDSG (gesetzliche Ausnahme).
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

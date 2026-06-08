@@ -5,10 +5,6 @@ description: "Fachmodul Franchiserecht für Irreführende Systemwerbung und Fran
 
 # Franchise: Irreführende Systemwerbung und Franchise Sales
 
-## Arbeitsbereich
-
-Fachmodul Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,6 +47,3 @@ Sales-Material-Review mit Claim-Register und Belegpflicht.
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

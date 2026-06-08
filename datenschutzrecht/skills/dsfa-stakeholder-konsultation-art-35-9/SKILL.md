@@ -5,10 +5,6 @@ description: "Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs
 
 # Stakeholder-Konsultation nach Art. 35 Abs. 9 DSGVO
 
-## Zweck
-
-Pruefung und Strukturierung der Konsultation Betroffener oder ihrer Vertreter im Rahmen einer DSFA. Art. 35 Abs. 9 DSGVO sieht vor, dass der Verantwortliche, soweit angemessen, den Standpunkt Betroffener oder ihrer Vertreter einholt. Ergebnis dieses Skills ist ein dokumentierter Konsultationsplan mit Begruendung, Form, Reichweite und Verwertung des Ergebnisses.
-
 ## Wann dieses Modul hilft
 
 - Bei DSFA mit Beschaeftigtendaten (Betriebsrat als Vertretung)
@@ -108,13 +104,6 @@ Unterschrift DSB: ____________________
 - Bei öffentlichen Stellen werden Beteiligungsrechte nach Landesrecht uebersehen.
 - Eingaenge der Stakeholder werden nicht im Verarbeitungsverzeichnis Art. 30 verlinkt.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Aufnahme in Vollvorlage
-- `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikoanalyse
-- `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Aufsichtskonsultation
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 9 DSGVO
@@ -122,3 +111,4 @@ Unterschrift DSB: ____________________
 - EDSA-Leitlinien WP 248 rev.01
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

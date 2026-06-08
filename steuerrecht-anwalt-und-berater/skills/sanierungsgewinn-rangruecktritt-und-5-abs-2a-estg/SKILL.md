@@ -5,10 +5,6 @@ description: "Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot
 
 # Rangrücktritt und § 5 Abs. 2a EStG
 
-## Arbeitsbereich
-
-Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung ausschließlich aus zukünftigen Gewinnen führt zum Ertrag in voller Höhe und damit zum Sanierungsgewinn. BFH-Linie streng - keine Az aus Modellwissen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -170,14 +166,6 @@ IV. Empfehlung
 - Insolvenzrechtliche und steuerrechtliche Wirkung verwechselt.
 - BFH-Linie zur Liquidationsklausel überschätzt; Klausel zu schmal.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung`
-- `stb-sanierungsgewinn-liquidation-nachrang-fg-koeln`
-- `anw-insolvenzreife-pruefung-17-19-inso`
-
 ## Quellen Stand 06/2026
 
 - § 5 Abs. 1, 2a EStG.
@@ -187,3 +175,4 @@ IV. Empfehlung
 - § 8 Abs. 3 KStG.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung des BFH zu § 5 Abs. 2a EStG (ständige Rspr.): keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

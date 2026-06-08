@@ -5,10 +5,6 @@ description: "Prueft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Co
 
 # Open Source und Softwarelizenzen
 
-## Arbeitsbereich
-
-Prueft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Codegeneratoren und Lizenzkompatibilität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,3 +79,4 @@ Konkret zu prüfen:
 - GPL/MIT-Lizenzen
 - § 32 UrhG
 - LG München I 7 O 5245/21
+

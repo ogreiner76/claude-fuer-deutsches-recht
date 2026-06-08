@@ -65,10 +65,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Ausschlussgrund § 89b Abs. 3 Nr. 1 HGB ohne konkretes schuldhaftes Verhalten behauptet.
 - Schadensersatz nach § 89a Abs. 2 HGB bei unbegründeter Kündigung nicht geltend gemacht.
 
-## Output
-
-Kündigungsschreiben mit wichtigem Grund, Schadensersatzberechnung § 89a Abs. 2 HGB, Klageentwurf.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +85,4 @@ ergänzen das Recht praxisnah.
 - [§ 626 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__626.html)
 - [Art. 18 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 89a HGB](https://dejure.org/gesetze/HGB/89a.html)
+

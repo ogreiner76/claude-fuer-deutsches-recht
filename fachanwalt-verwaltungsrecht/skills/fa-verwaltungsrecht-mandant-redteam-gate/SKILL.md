@@ -5,9 +5,6 @@ description: "FA Verwaltungsrecht Mandant Redteam Gate im Plugin Fachanwalt Verw
 
 # FA Verwaltungsrecht Mandant Redteam Gate
 
-## Arbeitsbereich
-
-**FA Verwaltungsrecht Mandant Redteam Gate** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht, Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht, BImSchG-Genehmigung für Energieanlagen (Wind. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "FA Verwaltungsrecht Mandant Redteam Gate im Plugin Fachanwalt Verw
 - Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `workflow-mandantenkommunikation`
@@ -30,9 +28,6 @@ description: "FA Verwaltungsrecht Mandant Redteam Gate im Plugin Fachanwalt Verw
 **Fokus:** Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
 ### Mandantenkommunikation
-
-## Aufgabe
-Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-verwaltungsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
@@ -48,26 +43,11 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
 ## 2. `workflow-redteam-qualitygate`
 
 **Fokus:** Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
 ### Red-Team Qualitygate
-
-## Aufgabe
-Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-verwaltungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
@@ -92,18 +72,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Sofortvollzug:** Bei § 80 Abs. 2 Nr. 4 VwGO Begründungspflicht der Anordnung (§ 80 Abs. 3 VwGO); fehlende Begründung führt regelmäßig zur Aussetzung.
 - **Verhältnismäßigkeit/Ermessen:** Bei Ermessensverwaltungsakten Ermessensfehlerlehre (Nicht-, Unter-, Überschreitung, Fehlgebrauch) durchprüfen (§ 114 VwGO).
 - **Keine erfundenen BVerwG-/OVG-Aktenzeichen** — jedes Az. live verifizieren.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ## 3. `energieanlagen-bimschg-genehmigung-verfahren`
 
@@ -418,3 +386,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 <!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
 -->
+

@@ -5,10 +5,6 @@ description: "Quellenhygiene-Red-Team für Beamten- und Richterrecht: erkennt ve
 
 # Quellenhygiene im Beamten- und Richterrecht
 
-## Aufgabe
-
-Dieser Skill ist die Bremse, bevor eine scheinbar glänzende Antwort mit falscher Fundstelle herausgeht. Er prüft, ob Normen, Rechtsprechung und Landesrecht belegbar sind.
-
 ## Prüfliste
 
 | Risiko | Kontrolle |
@@ -29,14 +25,7 @@ Dieser Skill ist die Bremse, bevor eine scheinbar glänzende Antwort mit falsche
 - Richterdienstgericht und Verwaltungsgericht verwechseln.
 - alte Stalking-/Strafrechtslogik in Disziplinarfällen nebenbei mitschleppen.
 
-## Ausgabeformat
-
-Der Skill erzeugt eine Fundstellen-Tabelle:
-
-| Behauptung | Quelle | Status | Handlung |
-| --- | --- | --- | --- |
-| ... | ... | verifiziert / unsicher / falsch | zitieren / live prüfen / entfernen |
-
 ## Harte Regel
 
 Wenn Gericht, Datum und Aktenzeichen nicht zusammenpassen, wird nicht geraten. Der Skill formuliert dann: „Diese Fundstelle ist nicht belastbar; vor Verwendung amtlich oder frei verifizieren."
+

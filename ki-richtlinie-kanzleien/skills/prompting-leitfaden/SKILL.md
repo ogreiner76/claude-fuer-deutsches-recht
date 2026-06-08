@@ -5,10 +5,6 @@ description: "Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwe
 
 # Prompting-Leitfaden
 
-## Arbeitsbereich
-
-Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompten. Prüfraster Vier-Elemente-Methode Zielformulierung Ausgabeformat Hintergrundwissen Beispiel, Rollenanweisung, Schritt-für-Schritt-Methode, Iteration, Zitate-Verifikation. Output Prompting-Leitfaden mit Vorlagen und Checkliste für juristische Aufgabentypen. Abgrenzung zu Halluzinations-Handhabung und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,24 +20,6 @@ Ein "Prompt" ist eine Instruktion an ein KI-System — vergleichbar damit, wie m
 ## Rechtlicher Hintergrund
 
 Art. 4 KI-VO: Pflicht zur KI-Kompetenz — die Fähigkeit zum effektiven und sicheren Prompten ist eine zentrale Komponente dieser Kompetenz. Art. 3 Nr. 56 KI-VO: KI-Kompetenz umfasst das Wissen, KI-Systeme sachkundig einzusetzen. BRAK-Hinweise 12/2024: Anwälte müssen in der Lage sein, KI-Output zu beurteilen — was voraussetzt, dass der Prompt präzise genug war, um einen beurteilbaren Output zu erzeugen. DAV-Stellungnahme 32/2025: Kompetenter Umgang mit KI-Systemen als berufsrechtliche Anforderung.
-
-## Vorgehen
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-Die **Vier-Elemente-Methode** strukturiert jeden Prompt nach folgenden Elementen:
-
-**Element 1 — Zielformulierung:**
-Formulieren Sie ein klares, spezifisches Ziel. Was soll das KI-System tun? Welches Ergebnis soll erzeugt werden? Achten Sie auf Präzision und Direktheit. Vermeiden Sie vage Anweisungen wie "Schreibe etwas über X" — besser: "Erstelle einen ersten Entwurf des Abschnitts zur Haftungsbegrenzung für einen M&A-Vertrag nach deutschem Recht."
-
-**Element 2 — Ausgabeformat:**
-Beschreiben Sie genau, wie die Informationen dargestellt werden sollen (Fließtext, Stichpunkte, Tabelle, Gliederung, Absatz-Länge, Sprachstil). Legen Sie strukturelle Anforderungen fest (z.B. "Gliedere nach Abschnitten mit Überschriften", "Verwende juristische Fachsprache", "Schreibe in maximal drei Absätzen").
-
-**Element 3 — Hintergrundwissen:**
-Liefern Sie umfassende Kontextinformationen, die das KI-System für die Aufgabe benötigt. Teilen Sie relevante Sachverhaltsdetails mit (anonymisiert!). Nennen Sie anwendbare Normen, auf die das KI-System sich beziehen soll.
-
-**Element 4 — Beispiel:**
-Wenn vorhanden: Zeigen Sie dem KI-System ein Beispiel für den gewünschten Output (Stil, Struktur, Tiefe). Dieses "Few-Shot-Prompting" verbessert die Qualität der Ergebnisse erheblich.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -132,3 +110,4 @@ VERBOTENE INHALTE IM PROMPT:
 KANZLEI-PROMPT-VORLAGEN: [REFERENZ AUF VORLAGENSAMMLUNG]
 FRAGEN: [ANSPRECHPARTNER KI]
 ```
+

@@ -64,10 +64,6 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 - Buchauszug für nachvertragliche Geschäfte nicht angefordert.
 - Concurrent-Provision mit Nachfolger ungeklärt — Doppelzahlung oder Verlust.
 
-## Output
-
-Nachvertragliche Provisionsberechnung, Buchauszugs-Anforderung, Stufenklage-Entwurf.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +85,4 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 195 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
 - [Art. 8 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

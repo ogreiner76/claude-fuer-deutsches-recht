@@ -147,14 +147,6 @@ nerin gem. § 364 BGB durch Konfusion.
 - Im Plan d/e-swap als Strukturelement vergessen; nur Verzichte beschlossen.
 - Steuerliche Würdigung d/e-swap nicht von Verzicht abgegrenzt.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung`
-- `stb-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg`
-- `stb-sanierungsgewinn-vermeidungsstrategien-praxis`
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-
 ## Quellen Stand 06/2026
 
 ### Normen
@@ -187,3 +179,4 @@ nerin gem. § 364 BGB durch Konfusion.
 ### Querverweis Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Liquidations-Alternative zum DES, wenn Restrukturierung scheitert.
+

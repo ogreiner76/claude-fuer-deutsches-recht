@@ -37,10 +37,6 @@ description: "Katalog schwacher positiver Formulierungen im Arbeitszeugnis, die 
 
 **Beispiel 5 – Integration statt Teamstärke:** "Frau Bauer hat sich gut in unser Team integriert und war kollegial." — Integration als passive Formulierung statt aktiver Teamstärke → Orange.
 
-## Ausgabeformat
-
-Der Skill listet alle orange Signale mit Zitat, Signaltyp (fehlende Steigerung/Einschränkungsadverb/strukturelle Abschwächung) und Notentendenz. Er gibt außerdem an, welche Formulierung stattdessen eine grüne Bewertung ergeben hätte.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -49,3 +45,4 @@ Der Skill listet alle orange Signale mit Zitat, Signaltyp (fehlende Steigerung/E
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

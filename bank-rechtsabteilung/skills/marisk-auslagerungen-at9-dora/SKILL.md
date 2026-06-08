@@ -5,10 +5,6 @@ description: "MaRisk-Auslagerung und DORA-Schnittstelle: AT 9, § 25b KWG, Ausla
 
 # Auslagerung und DORA
 
-## Arbeitsbereich
-
-MaRisk-Auslagerung und DORA-Schnittstelle: AT 9, § 25b KWG, Auslagerungsregister, Risikoanalyse, wesentliche Auslagerung, IKT-Drittanbieter und Exit-Plan zusammen prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -125,3 +121,4 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 ## DORA-Drittparteien-Vertiefung
 
 Bei IKT-Dienstleistern den gesamten Lebenszyklus prüfen: Ex-ante-Risikoanalyse, Due Diligence, Vertragsklauseln, Register-of-Information-Daten, Monitoring, Subdienstleister, Konzentrationsrisiko, Incident-Unterstützung und Exit. Bei Artikel-16-Unternehmen die Erleichterungen dokumentieren, aber Kontrollrechte, Informationsrechte, Krisenfähigkeit und Nachweise nicht wegdefinieren.
+

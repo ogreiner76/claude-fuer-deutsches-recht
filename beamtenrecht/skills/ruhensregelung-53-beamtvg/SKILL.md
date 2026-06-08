@@ -5,10 +5,6 @@ description: "Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkom
 
 # Ruhensregelung Versorgungsbezuege § 53 BeamtVG
 
-## Arbeitsbereich
-
-Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53 BeamtVG. Klaert Hinzuverdienstgrenze für Ruhestandsbeamte unterschiedliche Grenzen vor und nach Erreichen der Regelaltersgrenze Anrechnung von Verwendungseinkommen aus dem öffentlichen Dienst und Erwerbsersatzeinkommen wie Krankengeld oder Arbeitslosengeld. Behandelt Sonderfaelle wie Tantiemen Aktienoptionen Honorare als Sachverstaendiger und Beratungseinkommen. Liefert Pruefraster und Antragsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,3 +65,4 @@ Skill für Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher
 ## 7. Beispiel (Kurzfassung)
 
 Ruhestandsbeamter A14 mit 60 Jahren wegen Dienstunfaehigkeit, beraten Honorarvertrag für Beratung beim Wirtschaftspruefer. Skill liefert Ruhensberechnung und Gestaltungshinweise.
+

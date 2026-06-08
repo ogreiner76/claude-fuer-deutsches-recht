@@ -5,10 +5,6 @@ description: "Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden 
 
 # Gutachtenstil und Urteilsstil
 
-## Arbeitsbereich
-
-Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-für-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachten
 - § 276 ZPO — Grundsatz schriftlicher Begruendung: Gutachtenstil als Lerngrundlage
 - §§ 133, 157 BGB — Auslegung als methodisches Fundament der Subsumtion
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: Sachverhaltsbezug als Wahrheitspflicht
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Der Gutachtenstil ist die juristische Schreibweise schlechthin. Wer ihn nicht beherrscht, schreibt keine gute Hausarbeit.
 
 ## Schritt 1 — Was ist der Gutachtenstil?
 
@@ -243,3 +232,4 @@ Lies Deinen Text laut. Wenn er
 - `subsumtion-schritt-für-schritt` — Subsumtions-Übung
 - `gliederung-mit-tiefenstruktur` — Gliederung erstellen
 - `meinungsstreit-darstellen` — Bei Streit-Punkten
+

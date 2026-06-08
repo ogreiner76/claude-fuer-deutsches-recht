@@ -29,12 +29,3 @@ Nutze diese Logik, ohne Scheinsicherheit:
 - "Nur nach Mandanteninformation/Einwilligung."
 - "Nicht freigegeben, weil Training/Telemetrie/Subunternehmer/Drittstaat ungeklärt."
 
-## Output
-
-Erzeuge einen zwei- bis dreiseitigen Kanzleivermerk, der in die Toolakte gelegt werden kann:
-
-- Ergebnis in einem Satz
-- tragende Gründe
-- Restrisiken
-- Nachprüftermin
-- Verantwortliche Person

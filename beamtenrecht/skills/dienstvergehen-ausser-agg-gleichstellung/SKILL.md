@@ -5,10 +5,6 @@ description: "Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserh
 
 # Dienstvergehen ausser Dienst nach § 47 BeamtStG
 
-## Arbeitsbereich
-
-Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltnis zwischen privatem Verhalten und dienstlichen Anforderungen. Behandelt typische Konstellationen wie Trunkenheitsfahrt Steuerstraftaten Internetkommentare Mitgliedschaft in Vereinigungen sowie Sexualstraftaten ausserhalb des Dienstes. Liefert Verteidigungsbausteine und Pruefraster für die Disziplinarklage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,3 +68,4 @@ Skill für Beamte, denen Verhalten ausserhalb des Dienstes als Dienstvergehen vo
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Lehrer, Verurteilung wegen Steuerhinterziehung 28.000 Euro im Strafbefehlsverfahren. Skill liefert Pruefraster: Bezug zum Lehramt, Statusrelevanz, Bemessung der Disziplinarmassnahme.
+

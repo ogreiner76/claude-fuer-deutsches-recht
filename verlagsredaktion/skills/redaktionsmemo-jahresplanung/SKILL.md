@@ -5,10 +5,6 @@ description: "Erstellt das Jahresheft-Planungsmemo einer juristischen Fachzeitsc
 
 # Redaktionsmemo Jahresplanung
 
-## Arbeitsbereich
-
-Erstellt das Jahresheft-Planungsmemo einer juristischen Fachzeitschrift mit Themenarchitektur, Heftfolge, Autorenstrategie und Risikoreserven. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -102,14 +98,6 @@ Festlegung Schriftleitung: 15.10.2026
 - Marketing-Wuensche dominieren die inhaltliche Planung.
 - Memo zu lang (20+ Seiten) - keiner liest, keiner entscheidet.
 
-## Querverweise
-
-- `verl-themenscout-rechtsentwicklung` - liefert Themenkandidaten.
-- `verl-ideenpool-und-priorisierung` - Backlog-Verwaltung.
-- `verl-redaktionssitzung-vorbereiten` - operative Umsetzung.
-- `verl-zeitschriftenartikel-leitfaden` - Zielformat pro Beitrag.
-- `projektplan-fristen-heftplanung` - operative Heftplanung.
-
 ## Quellen Stand 06/2026
 
 - Verlagsgesetz, [https://www.gesetze-im-internet.de/verlg/](https://www.gesetze-im-internet.de/verlg/).
@@ -117,3 +105,4 @@ Festlegung Schriftleitung: 15.10.2026
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

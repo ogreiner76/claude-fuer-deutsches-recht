@@ -104,6 +104,7 @@ Siehe Arbeitsakte `legistik-pflichtpostfach`.
 - ggf. Excel-Schulung für Synopsen-Tabellen
 - HdR-PDF, GGO-PDF, NKRG-PDF
 - Smartphone für Online-Recherche in BGBl und Bundesanzeiger
+
 ## Aktuelle Rechtsprechung & Leitsätze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -112,6 +113,3 @@ Siehe Arbeitsakte `legistik-pflichtpostfach`.
 
 §§ 38-42 GGO (Legistik-Grundregeln, Schulungspflicht für Referenten) — §§ 1-5 HdR (Handbuch der Rechtsförmlichkeit, Ausbildungsgrundlage) — Art. 20 Abs. 3 GG (Rechtsstaat: hinreichende Normenqualität) — § 33 BBG (Fortbildungspflicht Bundesbeamte)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

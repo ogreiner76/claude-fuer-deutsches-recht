@@ -36,12 +36,6 @@ Folgen: Entlassung, Rückforderung von Bezügen und Ausbildungskosten. Der Solda
 - Art. 33 Abs. 2 GG — Eignungsvoraussetzungen
 - SÜG — Sicherheitsüberprüfung (Täuschung)
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - Liegt ein Widerrufsbescheid vor?
@@ -94,21 +88,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Verteidigung gegen Widerruf
 - Tabelle: Nichtigkeit vs. Widerruf der Ernennung
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — §§ 43–44 SG
-- https://www.gesetze-im-internet.de/vwvfg/ — § 48 VwVfG
-- https://www.bverwg.de
-- https://dejure.org/gesetze/SG/44.html
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +97,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

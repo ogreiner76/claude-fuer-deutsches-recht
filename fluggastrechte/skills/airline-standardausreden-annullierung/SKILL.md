@@ -5,10 +5,6 @@ description: "Katalog typischer Standardausreden der Fluggesellschaften mit Gege
 
 # Airline-Standardausreden — Katalog und Gegenargumente
 
-## Arbeitsbereich
-
-Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumung der Meldefrist Akzeptanz der Umbuchung Voucher als Erfuellung Zuständigkeitseinrede. Für Reaktion auf Airline-Ablehnungsschreiben in Skill `forderungsschreiben-mahnung` oder Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

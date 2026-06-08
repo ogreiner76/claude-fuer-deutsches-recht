@@ -5,10 +5,6 @@ description: "Influencer-Recht: Vertragsarchiv und Creator-Dashboard – Vertrag
 
 # Influencer-Recht: Vertragsarchiv und Creator-Dashboard
 
-## Arbeitsbereich
-
-Influencer-Recht: Vertragsarchiv und Creator-Dashboard – Vertragsverwaltung, Fristen, Nutzungsrechte-Tracking und Compliance-Übersicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Strukturierte Vertragsverwaltung ist Grundlage für Compliance und Betriebsprüf
 - Fristen-Kalender-Template
 - Vertragsinventur-Checkliste
 - Compliance-Log-Vorlage
+

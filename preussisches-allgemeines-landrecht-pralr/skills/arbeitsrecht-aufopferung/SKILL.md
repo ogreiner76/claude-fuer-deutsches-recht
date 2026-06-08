@@ -5,10 +5,6 @@ description: "Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die 
 
 # Pralr Arbeitsrecht Vorgaenger Im Alr
 
-## Arbeitsbereich
-
-Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die Differenzierung zwischen Gesinde Tagelohn Handlungsgehilfe und freier Berufstaetigkeit Schutzvorschriften und das Verhaeltnis zur preussischen Sozialversicherung Bismarcks. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,7 +63,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Schutzvorschriften?
 3. Sozialversicherung anwendbar?
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Arbeitsrechtsgeschichte.

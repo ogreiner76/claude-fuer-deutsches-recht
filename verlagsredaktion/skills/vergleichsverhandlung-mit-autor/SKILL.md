@@ -5,10 +5,6 @@ description: "Vergleichsverhandlung mit Autor: Aufbau einer Verhandlungslinie be
 
 # Vergleichsverhandlung mit Autor
 
-## Arbeitsbereich
-
-Vergleichsverhandlung mit Autor: Aufbau einer Verhandlungslinie bei Honorar-, Tantieme- oder Rueckforderungsstreit, BATNA, Eskalationsstufen, schriftlicher Vergleich und Abgeltungsklausel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -153,15 +149,6 @@ Verlag Autor
 - Steuerliche Behandlung der Zahlung uebersehen (Schadensersatz, Honorar, Vergleichssumme).
 - Vergleich ohne Beteiligung des Justiziariats bei rechtlich komplexer Lage.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Eingangsroutung des Streits.
-- `workflow-fristen-und-risikoampel` - Bewertung der Klagewahrscheinlichkeit.
-- `verl-abstimmung-mit-rechtsabteilung-pruefung` - vor Unterzeichnung.
-- `verl-eskalation-bei-deadline-konflikt` - vorgelagerte Eskalationsstufen.
-- `verl-tantieme-abrechnung-jaehrlich` - bei Anpassungsstreit.
-- `honorar-vertrag-royalties-triage` - Triage der Vertragslage.
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 145 ff., 305 ff., 779 - Angebot, AGB-Kontrolle, Vergleich.
@@ -169,3 +156,4 @@ Verlag Autor
 - UrhG §§ 32, 32a, 79b - Verguetung, Anpassung, Nichtabdingbarkeit.
 - DSGVO Art. 6, 17 - bei Datenloeschung als Vergleichsleistung.
 - BGH-Rechtsprechung zur Reichweite von Abgeltungsklauseln (Volltexte unter bundesgerichtshof.de und dejure.org).
+

@@ -5,10 +5,6 @@ description: "Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandl
 
 # Honorarrechnung erstellen und pruefen
 
-## Arbeitsbereich
-
-Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen für Aufsatz, Beitrag, Werk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -127,14 +123,6 @@ Hinweis: Gemaess § 19 UStG wird keine Umsatzsteuer ausgewiesen
 - Gutschrift ohne Bezeichnung "Gutschrift" - unwirksam als Rechnung.
 - Pauschalhonorar für "alles" verschleiert spaetere Tantiemeansprueche (UrhG § 32a).
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung des Honorarvorgangs.
-- `honorar-vertrag-royalties-triage` - Triage vor Rechnungsstellung.
-- `verl-tantieme-abrechnung-jaehrlich` - Jahresabrechnung bei Tantiemen.
-- `verl-vorschuss-pruefung-buecher` - Vorschussbehandlung.
-- `verl-mahnung-an-autor-zahlung-frist` - bei Rueckforderungen.
-
 ## Quellen Stand 06/2026
 
 - UStG §§ 12 Abs. 2 Nr. 7 lit. c, 13b, 14, 19 - Steuersatz, Reverse Charge, Pflichtangaben, Kleinunternehmer.
@@ -142,3 +130,4 @@ Hinweis: Gemaess § 19 UStG wird keine Umsatzsteuer ausgewiesen
 - KSVG - Kuenstlersozialabgabepflicht; aktueller Satz unter kuenstlersozialkasse.de.
 - BMF-Schreiben zu § 14 UStG; aktuelle Anwendungserlasse pruefen.
 - Verlagsgesetz (VerlG) §§ 14, 22 - Honorarpflicht und Faelligkeit.
+

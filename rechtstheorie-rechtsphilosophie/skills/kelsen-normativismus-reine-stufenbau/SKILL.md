@@ -5,9 +5,6 @@ description: "Kelsen Normativismus Reine Stufenbau im Rechtstheorie und Rechtsph
 
 # Kelsen Normativismus Reine Stufenbau
 
-## Arbeitsbereich
-
-**Kelsen Normativismus Reine Stufenbau** ordnet den Fall über die tragenden Prüfungslinien: Prueft Rechtsgeltung kelsenianisch, Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von, Moral. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -40,6 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kelsen-normativismus-und-reine-rechtslehre`
@@ -60,10 +58,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill zwingt eine rechtliche Argumentation in eine nüchterne Normstruktur. Er fragt nicht zuerst, wer politisch mächtig, moralisch im Recht oder sozial plausibel wirkt, sondern: Welche Norm gilt, aus welcher Quelle, aufgrund welcher Kompetenz, in welchem Rang und mit welchem Auslegungsspielraum?
 
 ## Sofort klären
 
@@ -95,22 +89,6 @@ Dieser Skill zwingt eine rechtliche Argumentation in eine nüchterne Normstruktu
 - `In der Krise entscheidet die Exekutive` ist nur dann Recht, wenn eine rechtliche Notstands-, Eil- oder Ermächtigungsnorm mit Grenzen greift.
 - Sozialwissenschaftliche Wirklichkeitsdiagnosen dürfen Rechtsanwendung informieren, aber nicht Normgeltung erfinden.
 
-## Output
-
-Liefere eine knappe Normgeltungsmatrix:
-
-| Frage | Antwort |
-| --- | --- |
-| Rechtsbehauptung | ... |
-| Normquelle | ... |
-| Rang | ... |
-| Kompetenz/Verfahren | ... |
-| Auslegungsspielraum | ... |
-| moralische/politische Bewertung | ... |
-| Ergebnis | gilt / gilt nicht / offen |
-
-Schließe mit einem Satz, der die Rechtsgeltung und die rechtspolitische Bewertung sauber trennt.
-
 ## 2. `kelsen-stufenbau-gueltigkeit-und-methodendisziplin`
 
 **Fokus:** Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz.
@@ -126,9 +104,6 @@ Kelsen zwingt die juristische Arbeit zur Disziplin: Eine Aussage ist nicht schon
 3. **Rang und Konflikt:** Lex superior, lex specialis, lex posterior, unionsrechtlicher Anwendungsvorrang, Grundrechtsbindung.
 4. **Geltung vs. Bewertung:** Ist die Norm gültig, anwendbar, nichtig, unanwendbar oder nur moralisch/politisch problematisch?
 5. **Rechtsschutz:** Welcher Weg kontrolliert sie, wer ist antragsbefugt, welche Frist gilt?
-
-## Output
-Normstufenkarte plus kurzer Red-Team-Abschnitt gegen Souveränitäts-, Ausnahme- oder Sachzwangrhetorik.
 
 ## 3. `kelsen-stufenbau-kompetenz-und-grundnorm`
 
@@ -148,10 +123,6 @@ Normstufenkarte plus kurzer Red-Team-Abschnitt gegen Souveränitäts-, Ausnahme-
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill baut aus einem diffusen Argument eine überprüfbare Normkette. Er ist besonders nützlich, wenn Verwaltung, Gericht, Verband, Unternehmen oder Gesetzgeber mit `Zuständigkeit`, `Satzung`, `Praxis`, `Gewohnheit`, `Anordnung`, `Richtlinie`, `Hausrecht` oder `Notwendigkeit` arbeiten.
 
 ## Sofort klären
 
@@ -182,16 +153,3 @@ Dieser Skill baut aus einem diffusen Argument eine überprüfbare Normkette. Er 
 
 Der Begriff wird hier nicht mystifiziert. Er bedeutet praktisch: Irgendwann endet jede positive Normkette bei einer vorausgesetzten Akzeptanz der Rechtsordnung. Für die anwaltliche Arbeit ist entscheidend, bis zu welcher Stufe eine konkrete Rechtsfrage tatsächlich geprüft werden muss.
 
-## Output
-
-Gib eine `Normkette von unten nach oben` aus:
-
-1. unmittelbare Rechtsfolge;
-2. unmittelbare Norm;
-3. Ermächtigung und Verfahren;
-4. höherrangige Grenzen;
-5. Kontrollinstanz;
-6. stärkster Angriffspunkt;
-7. knappes Ergebnis.
-
-Wenn eine Normkette reißt, sage nicht nur `unwirksam`, sondern benenne genau, an welcher Stufe sie reißt.

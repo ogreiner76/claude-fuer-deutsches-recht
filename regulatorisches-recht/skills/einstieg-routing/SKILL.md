@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Regulatorisches Recht (Sektoren)
 
 Dieser Einstieg routet **Regulatorisches Recht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `anhoerung-red-team-und-qualitaetskontrolle` — Anhoerung RED Team und Qualitaetskontrolle
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Regulatorisches Recht** vom ersten Sachverhalt zu Rolle
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Regulatorisches Recht (Sektoren) typische Eskalationsstufen: Stellungnahme Aufsicht, Beschwerde, Compliance-Memo.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

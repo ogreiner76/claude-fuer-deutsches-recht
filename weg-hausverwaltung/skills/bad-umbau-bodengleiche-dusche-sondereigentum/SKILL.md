@@ -51,14 +51,6 @@ Pflegekasse § 40 Abs. 4 SGB XI: bis 4.180 Euro je Maßnahme bei Pflegegrad 1-5;
 
 Mietrecht § 554a BGB: Mieter mit Behinderung hat gegenüber dem Vermieter (hier: vermietender Eigentümer) einen Anspruch auf Genehmigung barrierefreier Umbauten gegen Absicherung des Rückbaus. Dieser Anspruch ist vom WEG-internen Anspruch des Eigentümers gegen die GdWE zu trennen. Norm: https://www.gesetze-im-internet.de/bgb/__554.html
 
-## Output
-
-- Sondereigentums-/Gemeinschafts-Abgrenzungs-Checkliste (Badbereich, 15 Bauteile)
-- Beschlussvorschlag bodengleiche Dusche (mit DIN 18534-Auflagen, Fachbetriebsnachweis)
-- Versicherungs-Anzeige Muster (Gefahrerhöhung Wohngebäudeversicherung)
-- Förderantragspfad Pflegekasse (Ablauf, Fristen, Formulare)
-- Mängelanzeige bei nachträglichen Feuchtigkeitsschäden (Verursacher-Zuordnung)
-
 ## Cross-Refs
 
 - Aufzug und Treppenlift → `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg`

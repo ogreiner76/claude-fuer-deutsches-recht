@@ -5,10 +5,6 @@ description: "Skill zur Pruefung der Pflichten öffentlicher Arbeitgeber bei Bew
 
 # Schwerbehinderte Bewerber im öffentlichen Dienst — § 165 SGB IX
 
-## Arbeitsbereich
-
-Skill zur Pruefung der Pflichten öffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung der Schwerbehindertenvertretung nach §§ 178 179 SGB IX und die Indizwirkung von Verstoessen im AGG-Entschaedigungsprozess. Liefert Pruefraster Schriftsatzbausteine für Eilantrag Entschaedigungsforderung und Konkurrentenklage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,3 +71,4 @@ Skill für schwerbehinderte oder gleichgestellte Bewerber im öffentlichen Diens
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Grad der Behinderung 60 bewirbt sich auf A12-Stelle im Bundesministerium. Wird nicht zum Vorstellungsgespraech eingeladen; Absage ohne Begruendung. Skill liefert Indizienanalyse, AGG-Entschaedigungsschreiben mit Zwei-Monats-Frist und Begruendung des Anordnungsanspruchs für Eilantrag.
+

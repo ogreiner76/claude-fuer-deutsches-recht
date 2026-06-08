@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Ankunftsklauseln DAP, DPU und DDP na
 
 # DAP, DPU, DDP: Ankunftsklauseln
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Ankunftsklauseln DAP, DPU und DDP nach Incoterms 2020. Gefahrübergang am Bestimmungsort, Entladepflicht (DPU), Verzollungspflicht (DDP), Risiken für Verkäufer und steuerrechtliche Implikationen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ DAP (Delivered at Place), DPU (Delivered at Place Unloaded, neu in 2020 statt DA
 - Exportkontrolle: Bei sanktionierten Ländern DDP oder DAP nicht wählen
 - Named Place DPU: explizit Terminal-Name + Entladefazilität spezifizieren
 
-## Output
-
-- DAP/DPU/DDP Vergleichstabelle: Gefahrübergang, Kosten, Pflichten
-- DDP-Risiko-Check (Steuer, Zoll, Exportkontrolle)
-- Named-Place-Spezifikations-Muster
-
-## Quellenregel
-
-Incoterms 2020: iccwbo.org. UZK (VO 952/2013): eur-lex.europa.eu. Schrifttum: Ramberg, ICC Guide to Incoterms 2020 (2019). Unsicherheit bleibt sichtbar.

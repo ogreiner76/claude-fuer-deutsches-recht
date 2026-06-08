@@ -5,10 +5,6 @@ description: "Fachmodul Franchiserecht für Disclosure-Fail bei Phantom-Umsatzza
 
 # Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen
 
-## Arbeitsbereich
-
-Fachmodul Franchiserecht für Disclosure-Fail bei Phantom-Umsatzzahlen: Vorvertragliche Aufklärung, Rentabilitätsprognosen und Systemkennzahlen werden auf Datenbasis, Vergleichbarkeit, Warnhinweise und Kausalität geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,6 +47,3 @@ Disclosure-Tabelle, Prognose-Red-Flag-Liste, Anspruchs- oder Verteidigungsnotiz.
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

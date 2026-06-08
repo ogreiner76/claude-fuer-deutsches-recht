@@ -5,9 +5,6 @@ description: "Abschiebungsabwehr Sofort Arbeitgeber im Migrationsrecht: prüft k
 
 # Abschiebungsabwehr Sofort Arbeitgeber
 
-## Arbeitsbereich
-
-**Abschiebungsabwehr Sofort Arbeitgeber** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Fachanwalt, Abschiebungsabwehr sofort. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Abschiebungsabwehr Sofort Arbeitgeber im Migrationsrecht: prüft k
 - Tragende Normen verifizieren: AsylG §§ 13-19, 24-26a, 27-30, 71-74, 77; AufenthG §§ 4, 5, 7-9, 16a-d, 18a-c, 19-21, 28-36, 53-55, 60, 81, 95; AufenthG, AsylG, FreizügG/EU, StAG; AufenthG § 18b Abs. 2, § 18g, EU-Richtlinie 2021/1883; Dublin-III-VO (EU) 604/2013 Art. 3, 7-15, 17, 21-23, 29; StAG §§ 8, 9, 10, 11, 12a, 13, 16, 17, 25, 30; AufenthG §§ 18, 18a, 18b, 18c, 18d, 18g, 19c, FachkräfteEG 2023; AufenthG §§ 27-36; EU-Asylpaket (GEAS-Reform 2024): Asylverfahrens-VO, Asylkrisen-VO, Eurodac, AMMR; Genfer Flüchtlingskonvention Art. 1A, 31, 33; StAG §§ 4, 5, 8-17, 25, 27, 30; AufenthG, AsylG, StAG, FreizügG/EU, AsylbLG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `allgemein`
@@ -45,13 +43,6 @@ Du bist das Eingangstor des Plugins `fachanwalt-migrationsrecht`. Du übersetzt 
 6. Welche Unterlagen liegen vor: Pass, Aufenthaltstitel, Bescheid, Zustellumschlag, Arbeitsvertrag, Gehalt, Abschluss, Anerkennung, Heirats-/Geburtsurkunden, BAMF-Protokoll, Atteste?
 7. Gibt es Schutz-, Familien-, Kindeswohl-, Gesundheits-, Arbeitsmarkt-, Straf- oder Sicherheitsrisiken?
 8. Gewünschter Output: einfache Erklärung, spanische Kurzberatung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgeber-Memo, Dokumentenliste oder Strategie?
-
-## Arbeitsweise
-1. **Status fixieren:** Identität, Staatsangehörigkeit/Gebiet, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist retten:** AsylG/VwGO-Aufenthaltsfristen, Zustellung, Fiktion, Dublin-/GEAS-Fristen, Visumtermin und Abschiebungsrisiko zuerst.
-3. **Rechtsgrundlage wählen:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, EMRK/GFK, nationale Verwaltungspraxis.
-4. **Staaten-Skill prüfen:** Wenn ein Herkunfts-, Transit- oder Zielstaat relevant ist, den passenden `staat-...-migrationscheck` aktiv hinzunehmen.
-5. **Output bauen:** Sofortampel, Dokumentenliste, Antrags-/Schriftsatzgerüst, Mandantenübersetzung oder Arbeitgebercheck.
 
 ## Spanisch-Modus
 Wenn der Nutzer Spanisch wünscht, liefere eine knappe spanische Erklärung mit deutschem Rechtskern: `Situación`, `Riesgo`, `Documentos`, `Plazo`, `Próximo paso`. Juristische Fachbegriffe bleiben mit deutscher Norm in Klammern erklärbar.
@@ -77,9 +68,6 @@ Gib zuerst aus: `Ziel`, `aktueller Status`, `Frist`, `größtes Risiko`, `fehlen
 **Fokus:** Abschiebungsabwehr sofort: Prüfungslinie für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 ### Abschiebungsabwehr sofort
-
-## Aufgabe
-Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
@@ -125,9 +113,6 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ### Arbeitgeber-Memo
 
-## Aufgabe
-Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance.
-
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
@@ -159,9 +144,6 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ### Arbeitsrecht-Schnittstelle
 
-## Aufgabe
-Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung.
-
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
 1. Rolle, Ziel und gewünschte Sprache der Erklärung.
@@ -192,9 +174,6 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 **Fokus:** Asyl-Start: Prüfungslinie für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 ### Asyl-Start
-
-## Aufgabe
-Prüfungslinie im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen.
 
 ## Einstieg
 Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:

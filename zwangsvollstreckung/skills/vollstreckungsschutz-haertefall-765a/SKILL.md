@@ -5,10 +5,6 @@ description: "Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders sc
 
 # Vollstreckungsschutz § 765a ZPO — Härtefall
 
-## Arbeitsbereich
-
-Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -196,15 +192,7 @@ Rechtsanwalt/-anwaeltin
 | § 712 ZPO Schutzantrag im Urteilsverfahren | Vor Rechtskraft | Vor Vollstreckbarkeit |
 | § 850k ZPO P-Konto | Pfändungsschutz Bankkonto | Standard, vorrangig prüfen |
 
-## Querverweise
-
-- `zv-abwehr-schuldner` — übergeordnete Schuldnerschutz-Triage
-- `zv-raeumung-885` — Räumungsvollstreckung (§ 765a Abs. 3 Pflicht)
-- `zv-pfueb-bank` — P-Konto-Schutz parallel
-- `zv-pfaendungstabelle-2025` — Pfändungsfreigrenzen
-- `betreuungsrecht` — bei betreutem Schuldner
-- `fachanwalt-medizinrecht` — bei medizinischen Attest-Fragen
-
 ## Quellen und Updates
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

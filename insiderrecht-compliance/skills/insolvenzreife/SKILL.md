@@ -5,10 +5,6 @@ description: "Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Ins
 
 # Insolvenzreife – Insiderrecht und Ad-hoc-Pflicht
 
-## Arbeitsbereich
-
-Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,24 +68,6 @@ eingetretener Insolvenzreife und verhindert die typischen Haftungsfallen.
 - Ausblick: Soweit möglich (kein Irreführungsrisiko)
 - Insolvenzantrag: Separate Ad-hoc nach Antragstellung
 
-## Red-Team-Fragen
-
-- Wurde die Insolvenzreife als Insiderinformation korrekt und zeitnah identifiziert?
-- Wurden PDMR-Eigengeschäfte im kritischen Zeitraum geprüft?
-- Ist der Aufschub (falls Sanierungsverhandlungen) mit realistischer Sanierungschance begründet?
-- Wurden Ad-hoc-Pflicht und InsO-Antragsfristen koordiniert?
-- Ist der Ad-hoc-Inhalt präzise und nicht irreführend?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Insolvenzreife-Insiderinformations-Prüfprotokoll
-2. Parallel-Fristen-Tabelle (MAR × InsO)
-3. Aufschub-Prüfprotokoll bei Sanierungsverhandlungen
-4. Ad-hoc-Entwurf Insolvenzreife / Insolvenzantrag
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Bei einer Unternehmensanleihe, die neben der Aktie börsennotiert ist, gelten MAR-Pflichten
@@ -101,3 +79,4 @@ Anlegergruppen (Aktionäre und Anleihegläubiger).
 Weitere Quellen:
 - Art. 2 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - §§ 15a, 17–19 InsO: https://www.gesetze-im-internet.de/inso/__15a.html
+

@@ -51,10 +51,6 @@ description: "Dieses Skill behandelt die methodisch riskante Praxis des Systemwe
 - Der Wechsel zur teleologischen Auslegung wird nicht damit begründet, dass der Wortlaut zu einem sinnwidrigen Ergebnis führt.
 - Methodeninkohärenz in Urteilen wird als unvermeidlich hingenommen statt als Berufungsansatzpunkt genutzt.
 
-## Output
-
-Das Skill liefert eine methodische Kohärenzanalyse: Übersicht der verwendeten Auslegungsmethoden, Prüfung auf Konsistenz, Identifikation von Methodenakrobatik und eine methodisch begründete Gegenargumentation. Das Ergebnis ist direkt für Schriftsätze, Berufungsbegründungen und anwaltliche Beratung verwendbar.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -84,3 +80,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

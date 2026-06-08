@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung u
 
 # Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung, beglaubigte Abschrift
 
-## Arbeitsbereich
-
-Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung und beglaubigte Abschrift. Pflichten nach DONot, Ausfertigungs- und Abschriftsarten, Aufbewahrungsfristen und Vernichtungsvoraussetzungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,3 +97,4 @@ Elektronische Akte ist zulässig. Papierurkunden müssen dennoch aufbewahrt werd
 - **Mandantenmail** (Ausfertigung angefordert, Anleitung)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

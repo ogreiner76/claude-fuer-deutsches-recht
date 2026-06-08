@@ -5,9 +5,6 @@ description: "Ombudsmann GDV Orientierung Regress Abwehr im Plugin Fachanwalt Ve
 
 # Ombudsmann GDV Orientierung Regress Abwehr
 
-## Arbeitsbereich
-
-**Ombudsmann GDV Orientierung Regress Abwehr** ordnet den Fall über die tragenden Prüfungslinien: Außergerichtliche Schlichtung über Versicherungs-Ombudsmann, Orientierung im Versicherungsvertragsrecht für Mandate und, Regressabwehr gegen Sozialversicherungstraeger und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Ombudsmann GDV Orientierung Regress Abwehr im Plugin Fachanwalt Ve
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung`
@@ -30,10 +28,6 @@ description: "Ombudsmann GDV Orientierung Regress Abwehr im Plugin Fachanwalt Ve
 **Fokus:** Außergerichtliche Schlichtung über Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage. Anwendungsfall Streitwert bis 10000 EUR oder Mandant will Klage vermeiden und Schlichtung versuchen. Normen §§ 214 ff. VVG Schlichtungsverfahren § 204 BGB Hemmung Verjährung VSBG Verbraucherstreitbeilegungsgesetz § 84 VVG Sachverständigenverfahren. Prüfraster Zuständigkeit Ombudsmann Streitwert Schlichtungsantrag Beschwerdewortlaut PKV-Ombudsmann BaFin-Verbraucherbeschwerde. Output Schlichtungsantrag mit Sachverhaltsdarstellung Normbezug und Zuständigkeitsprüfung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und klage-versicherer-strategie.
 
 ### Versicherungs-Ombudsmann / GDV-Schlichtung
-
-## Zweck
-
-Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im außergerichtlichen Schlichtungsverfahren günstig zu lösen: **Versicherungs-Ombudsmann e.V.** für PKV/Kompositversicherer, **PKV-Ombudsmann** für private Kranken/Pflege, **BaFin-Beschwerde** als Aufsichts-Eingang, **Sachverständigen-Verfahren § 84 VVG** bei Schadenhöhe-Streit.
 
 ## Eingaben
 
@@ -126,13 +120,6 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 - **Sachverständigen-Verfahren**: bei klar bezifferbarem Schaden günstig; bei rechtlichen Fragen ungeeignet
 - **BU-Versicherung**: 50-%-Berufsunfähigkeits-Anforderung; Sachverständigen-Strategie kritisch
 
-## Querverweise
-
-- `fachanwalt-versicherungsrecht-orientierung` — Triage
-- `fachanwalt-versicherungsrecht-leistungsklage-vvg` — Klage
-- `fachanwalt-versicherungsrecht-cyberversicherung-nis2` — Sonderfall
-- `fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung` — Bank-Variante
-
 ## Quellen und Updates
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -201,9 +188,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Amtsgericht Landgericht (regulaere ZPO-Streitwertgrenze 10.000 EUR ab 01.01.2026).
 - OLG / BGH IV. Zivilsenat für Versicherungssachen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Versicherungsrecht DAV.
@@ -578,6 +562,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Audit-Hinweis
 
 **Datum:** 27.05.2026
@@ -587,3 +572,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 |---|---|---|
 | Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+

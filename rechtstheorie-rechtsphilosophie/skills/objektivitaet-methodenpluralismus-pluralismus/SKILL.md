@@ -5,9 +5,6 @@ description: "Objektivitaet Methodenpluralismus Pluralismus im Rechtstheorie und
 
 # Objektivitaet Methodenpluralismus Pluralismus
 
-## Arbeitsbereich
-
-**Objektivitaet Methodenpluralismus Pluralismus** ordnet den Fall über die tragenden Prüfungslinien: Prueft, wie objektiv juristische Methoden sein koennen, wenn mehrere Methoden pl. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -40,6 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `objektivitaet-methodenpluralismus`
@@ -61,10 +59,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
-
 ## Sofort klären
 
 1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
@@ -78,18 +72,6 @@ Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in 
 2. Prüfe, welcher Pfad kontrollierbar und falsifizierbar ist.
 3. Markiere strategische Methodenwahl.
 4. Gib eine ehrliche Alternativenkarte aus.
-
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.
 
 ## 2. `pluralismus-mehrebenenordnung`
 
@@ -110,10 +92,6 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
-
 ## Sofort klären
 
 1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
@@ -127,18 +105,6 @@ Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in 
 2. Prüfe Vorrang, Anwendungsvorrang, Spezialität und privatautonome Bindung.
 3. Warne vor Vermischung von rechtlicher Bindung und faktischem Druck.
 4. Erzeuge eine Normenhierarchie.
-
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.
 
 ## 3. `positivismus-normgeltung-ohne-moralautomat`
 
@@ -158,10 +124,6 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
 
 ## Sofort klären
 
@@ -194,15 +156,3 @@ Nutze einen normativen Positivismus als Arbeitsdisziplin:
 
 Dieser Block verhindert, dass das System entweder blind formalistisch oder politisch beliebig antwortet.
 
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-- Keine souveräne Ausnahmebehauptung ohne Norm: Wer aus Krise, Ordnung oder Staatsräson eine Rechtsfolge ableitet, muss die Ermächtigung zeigen.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.

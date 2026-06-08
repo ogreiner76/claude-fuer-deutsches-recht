@@ -135,22 +135,7 @@ Bei wirklich fehlendem Beweis: Anspruch scheitert. Skill `kein-beweis-folgen-lai
 - "Ich sage, der hat den Vertrag gebrochen." → Welcher? Welche Pflicht? Welche Verletzung?
 - "Beweise hat das Gericht selbst." → Sie muessen sie anbieten.
 
-## Querverweise
-
-- `anspruchsgrundlage-finden-laienhilfe` — Norm finden.
-- `klageschrift-tatsachenvortrag-strukturieren` — Vortrag.
-- `beweislast-grundregel-wer-was` — Beweislast.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweisangebote.
-- `kein-beweis-folgen-laienwarnung` — Folgen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Subsumtions-Methodik staendige Praxis.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

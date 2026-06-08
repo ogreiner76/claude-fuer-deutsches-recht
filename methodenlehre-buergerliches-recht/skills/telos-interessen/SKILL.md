@@ -51,10 +51,6 @@ description: "Dieses Skill wendet teleologische Auslegung auf Mehrparteien-Konfl
 - Zielkonflikte zwischen Normzweck und Parteiinteressen werden durch ergebnisorientierte Argumentation überdeckt.
 - Die Abwägung wird nicht begründet, sondern nur als Ergebnis behauptet.
 
-## Output
-
-Das Skill liefert eine strukturierte Mehrparteien-Teleologie: Parteiübersicht mit Interessenmatrix, Normzweckanalyse, Abwägungsprotokoll und begründetes Auslegungsergebnis. Das Ergebnis ist direkt für Gutachten, Schriftsätze und Beratungsgespräche im Mehrparteienkontext nutzbar.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -86,3 +82,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

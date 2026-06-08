@@ -5,10 +5,6 @@ description: "Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposi
 
 # Rom Zwoelftafelrecht Delikt Busse Talion Und Komposition
 
-## Arbeitsbereich
-
-Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition. Arbeite 
 - Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Zwoelftafelrecht: Delikt, Busse, Talion und Komposition.
 
 ## Tafel VIII (Delikte)
 
@@ -54,6 +46,3 @@ A beleidigt B oeffentlich.
 2. Talion oder Komposition?
 3. Heutiges Pendant?
 
-## Output
-
-- Delikt-Analyse.

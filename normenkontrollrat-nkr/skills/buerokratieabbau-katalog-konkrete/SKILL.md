@@ -125,14 +125,6 @@ Vorhaben mit Wirksamkeitsunsicherheit befristen.
 - "Buerokratieabbau erfolgt im weiteren Verfahren"
 - Gegenrechnung leer
 
-## Querverweise
-
-- `nkr-one-in-one-out-bilanz-und-buchung`
-- `nkr-alternativen-pruefung-keine-regelung-soft-law`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-digital-anschlussfaehigkeit-tauglich`
-- `legistik-werkstatt/normenkontrollrat-kmu-check`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4, § 7
@@ -141,3 +133,4 @@ Vorhaben mit Wirksamkeitsunsicherheit befristen.
 - EU Better Regulation REFIT (jeweils aktuelle Ausgabe)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Best-Practice-Kapitel
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

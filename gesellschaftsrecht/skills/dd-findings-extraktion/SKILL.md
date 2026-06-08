@@ -5,10 +5,6 @@ description: "Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskateg
 
 # DD-Issue-Extraktion (Findings-Report)
 
-## Arbeitsbereich
-
-Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskategorien und Wesentlichkeitsschwellen im Findings-Report-Format. Laden wenn der Nutzer Datenraum prüfen, DD-Issues extrahieren aus [Ordner], Due-Diligence-Prüfung oder was ist im VDR sagt oder auf VDR-Dokumente hinweist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -49,9 +45,6 @@ Vor dem Start des DD-Reviews folgende Fragen klären:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Der Datenraum hat 2.000 Dokumente. Irgendwo darin befinden sich die 30, die für den Deal entscheidend sind. Dieser Skill liest Dokumente gegen die DD-Kategorien und Wesentlichkeitsschwellen aus dem Praxisprofil, extrahiert Issues und schreibt sie im Hausformat.
@@ -72,6 +65,7 @@ Der Datenraum hat 2.000 Dokumente. Irgendwo darin befinden sich die 30, die für
 Falls VDR-Connector (Box/Datasite/Intralinks) verbunden: Index abrufen. VDR-Ordner auf DD-Anforderungskategorien abbilden. Lücken notieren – Kategorien ohne VDR-Inhalt.
 
 ```markdown
+
 ## VDR-Inventar: [Deal-Code]
 
 | Anforderungskategorie | VDR-Ordner | Dokumente | Status |
@@ -236,3 +230,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Er trifft keine Wesentlichkeitsentscheidung bei Grenzfällen. Er wendet die Schwelle an; ein Mensch entscheidet über den Grenzfall.
 - Er verhandelt keine Garantien. Er erstellt die Findings, die deren Inhalt informieren.
 - Er ersetzt keine KI-Massenprüfung. Für hochvolumige Klauselextraktion an ki-werkzeug-uebergabe übergeben.
+

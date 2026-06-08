@@ -5,10 +5,6 @@ description: "Erwerbsminderungsrente: medizinische Unterlagen, Leistungsvermöge
 
 # erwerbsminderungsrente-medizinische-unterlagen
 
-## Aufgabe
-
-Hilft bei Ablehnung oder Vorbereitung einer EM-Rente mit sauberem medizinischem Tatsachenkern.
-
 ## Pflichtfragen
 
 - Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall?
@@ -45,13 +41,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Medizinische Beweismatrix und Argumentationskern.
-
-## Qualitäts-Hardening
-
-- Keine nicht überprüfbaren Fundstellen, keine privaten Datenbankzitate, keine Kommentar- oder Aufsatzblindzitate.
-- Bei ausländischen Zeiten nie pauschal anerkennen: EU/EWR/Schweiz, Abkommensstaat, vertragsloser Drittstaat und FRG strikt trennen.
-- Bei Versorgungswerken immer Beruf, Kammer, Bundesland und aktuelle Satzung verlangen.
-- Zahlen, Fristen und Altersgrenzen nur mit aktueller Quelle oder als ausdrücklich zu prüfenden Punkt ausgeben.

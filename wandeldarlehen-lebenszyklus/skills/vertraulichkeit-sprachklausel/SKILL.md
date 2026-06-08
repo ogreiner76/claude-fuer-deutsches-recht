@@ -5,10 +5,6 @@ description: "Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag pr�
 
 # Vertraulichkeit und Sprachklausel
 
-## Arbeitsbereich
-
-Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Prüfraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Prüfprotokoll. Abgrenzung: nicht für gesamte Vertragserstellung (einsprachige-vertragsfassung-de). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder form
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill formuliert die Vertraulichkeitsklausel (§ 8) und die Schlussbestimmungen (§ 10) des Wandeldarlehensvertrags: Sprachklausel, Gerichtsstand oder Schiedsklausel, Salvatorische Klausel, Abtretungsverbot, Textformänderung. Phase A des Lebenszyklus.
 
 ## Eingaben
 
@@ -90,12 +82,6 @@ Frankfurt am Main in deutscher Sprache vor einem Einzelschiedsrichter statt.
 | § 139 BGB nicht abbedungen | Gesamtvertrag bei Teilnichtigkeit unwirksam | Nur Teilregelung | Vollständige Abbedingung |
 | CISG nicht ausgeschlossen | Internationales Kaufrecht könnte greifen | Kaufrechtsausschluss unklar | CISG ausdrücklich ausgeschlossen |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/bilinguale-vertragserstellung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/kyc-aml-geldwaesche/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/notar-paket-uebermittlung/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. DIS-Schiedsordnung 2018. Bei Änderung BGB oder DIS-Schiedsordnung aktualisieren.
@@ -115,3 +101,4 @@ Problem : BGH VI ZR 171/18 (NJW 2019, 2077) – WRONG_TOPIC; tatsächlich: Anfor
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: https://dejure.org/2019,11230
 -->
+

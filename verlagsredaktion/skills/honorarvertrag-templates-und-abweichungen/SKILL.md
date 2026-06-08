@@ -5,10 +5,6 @@ description: "Honorarvertragstemplates für juristische Werke: Standardvertrag A
 
 # Honorarvertrags-Templates
 
-## Arbeitsbereich
-
-Honorarvertragstemplates für juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG § 32 angemessene Verguetung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -144,15 +140,6 @@ Justiziariat einbinden? [ja/nein]
 - Bearbeitungspflicht ohne Honorierung der Neuauflage.
 - Datenschutzklausel zur Werbenutzung des Autorennamens fehlt.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung des Vertragsanlasses.
-- `honorar-vertrag-royalties-triage` - schnelle Triage der Vertragslage.
-- `verl-vorschuss-pruefung-buecher` - Vorschussklausel im Vertrag.
-- `verl-zweitverwertungsrechte-pauschal` - Behandlung der Nebenrechte.
-- `verl-abstimmung-mit-rechtsabteilung-pruefung` - Justiziariatsabstimmung.
-- `rechtecheck-urhg-verlg` - Detailpruefung urheber- und verlagsrechtlicher Klauseln.
-
 ## Quellen Stand 06/2026
 
 - VerlG §§ 1-29 - Pflichten der Vertragsparteien.
@@ -160,3 +147,4 @@ Justiziariat einbinden? [ja/nein]
 - BGB §§ 305 ff. - AGB-Kontrolle.
 - Gemeinsame Verguetungsregeln (z. B. Boersenverein, Verband deutscher Schriftsteller); aktuelle Fassungen unter den Verbandsseiten.
 - BGH-Rechtsprechung zu § 32a UrhG (Volltexte unter bundesgerichtshof.de).
+

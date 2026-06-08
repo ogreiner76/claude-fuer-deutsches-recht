@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Liquiditätsplanung: wählt den nächsten S
 
 Dieses Anschluss-Routing für **Liquiditaetsplanung** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `ampel-zahlen-schwellenwerte-berechnung` — Ampel Zahlen Schwellenwerte Berechnung
@@ -35,10 +34,6 @@ Dieses Anschluss-Routing für **Liquiditaetsplanung** wählt nach dem ersten Erg
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Bank, IV/Restrukturierungsbeauftragter oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Liquiditätsplanung.
 
 ## Qualitätsanker
 

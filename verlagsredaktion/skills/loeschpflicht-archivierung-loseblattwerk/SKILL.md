@@ -5,10 +5,6 @@ description: "Loeschpflicht und Archivierung bei juristischer Fachzeitschrift: D
 
 # Loeschpflicht und Archivierung
 
-## Arbeitsbereich
-
-Loeschpflicht und Archivierung bei juristischer Fachzeitschrift: DSGVO Art. 17 Recht auf Vergessen, Online-Archiv, Aktenzeichen-Anonymisierung, Pressefreiheitsabwaegung, Versionierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -152,15 +148,6 @@ angaben. Inhaltliche Aenderungen wurden nicht vorgenommen.
 - Frist von einem Monat verstrichen ohne Antwort - DSGVO-Verstoss.
 - Loeschung mit Hinweis "wegen Loeschanspruch" ohne Datum - Streisand-Effekt.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Eingangsroutung des Loeschbegehrens.
-- `workflow-fristen-und-risikoampel` - DSGVO-Antwortfrist und Eilbedarf.
-- `verl-richtigstellung-online-print` - bei Kombination Loeschung/Berichtigung.
-- `verl-abstimmung-mit-rechtsabteilung-pruefung` - Justiziariatspflicht.
-- `verl-rueckruf-fehlerbeitrag-spaet-erkannt` - parallele Rueckrufmassnahme.
-- `ai-einsatz-transparenz-datenschutz` - bei KI-gestuetzter Personenanalyse.
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 12, 17, 18, 21, 77, 85 - Loeschung, Beschraenkung, Widerspruch, Beschwerde, Medienprivileg.
@@ -170,3 +157,4 @@ angaben. Inhaltliche Aenderungen wurden nicht vorgenommen.
 - BVerfG, Lebach (Volltext unter bundesverfassungsgericht.de); aktuelle Anschluss-Rechtsprechung pruefen.
 - EuGH C-131/12 (Google Spain) - Loeschung in Suchindex; nachfolgende Rechtsprechung.
 - BGH-Rechtsprechung zur Online-Archivierung (Volltexte unter bundesgerichtshof.de).
+

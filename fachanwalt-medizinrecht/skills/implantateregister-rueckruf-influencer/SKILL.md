@@ -5,9 +5,6 @@ description: "Implantateregister Rueckruf Influencer im Medizinrecht: prüft kon
 
 # Implantateregister Rueckruf Influencer
 
-## Arbeitsbereich
-
-**Implantateregister Rueckruf Influencer** ordnet den Fall über die tragenden Prüfungslinien: Implantateregister und Rückruf, Influencer Healthcare Werbung, IVDR und Lab Developed Test. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Implantateregister Rueckruf Influencer im Medizinrecht: prüft kon
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `implantateregister-rueckruf`
@@ -63,13 +61,6 @@ Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Sch
 - Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
 - Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
 - Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
-
-## Output
-
-- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
-- Dokumentenmatrix mit Lücken und Beweiswert.
-- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
-- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
 
 ## Quellen- und Aktualitätsgate
 
@@ -119,13 +110,6 @@ Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Sch
 - Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
 - Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
 
-## Output
-
-- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
-- Dokumentenmatrix mit Lücken und Beweiswert.
-- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
-- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
-
 ## Quellen- und Aktualitätsgate
 
 Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
@@ -171,13 +155,6 @@ Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Sch
 - Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
 - Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
 - Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
-
-## Output
-
-- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
-- Dokumentenmatrix mit Lücken und Beweiswert.
-- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
-- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
 
 ## Quellen- und Aktualitätsgate
 
@@ -229,13 +206,6 @@ Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Sch
 - Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
 - Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
 
-## Output
-
-- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
-- Dokumentenmatrix mit Lücken und Beweiswert.
-- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
-- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
-
 ## Quellen- und Aktualitätsgate
 
 Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
@@ -244,3 +214,4 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 - GenDG: https://www.gesetze-im-internet.de/gendg/BJNR252900009.html
 - BGB Behandlungsvertrag: https://www.gesetze-im-internet.de/bgb/__630a.html
+

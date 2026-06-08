@@ -5,10 +5,6 @@ description: "Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, 
 
 # Influencer-Recht: Merch-Drops, E-Commerce und Widerruf
 
-## Arbeitsbereich
-
-Influencer-Recht: Merch-Drops und E-Commerce – Fernabsatzrecht, AGB, Widerrufsrecht, Preisangaben und rechtssicherer Shop-Aufbau. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,3 +76,4 @@ Wer Merchandise verkauft, betreibt einen Online-Shop mit vollständigem Fernabsa
 - AGB-Vorlage (Online-Shop Creator)
 - Widerrufsbelehrungs-Muster
 - Bestätigungs-E-Mail-Vorlage
+

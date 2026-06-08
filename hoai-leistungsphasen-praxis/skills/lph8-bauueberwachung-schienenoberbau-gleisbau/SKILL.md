@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbaua
 
 # Bauueberwachung Schienenoberbau Gleisbau (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbauarbeiten — Lagetoleranzen und Oberbau-Pruefung nach RIL 820 der DB AG, Schweissnahtpruefung Schienenstoss nach DIN EN 14730, Schotterqualitaet nach EN 13450, Spurweiten-Einhaltung und Gleisgeometrie-Messung mit Gleismessfahrzeug. Praxisnahe Koordination mit SAP-PM EAM und RIB iTWO für DB InfraGo. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Gleismessfahrzeuge der DB AG messen die Gleisgeometrie nach RIL 820 und geben Gr
 - Schotterqualitaet mangelhaft: Verschmutzungsgrad zu hoch, Drainagefunktion beeintraechtigt
 - Gleisgeometrie-Mangel unerkannt: Verwindung ue2 mm/3 m, Langsamfahrstelle erforderlich
 
-## Output
-
-Schweissnaht-Pruefprotokolle UT je Stoss und km. Spurweiten-Pruefliste je 25 m.
-Gleismessbericht RIL 820 nach Fertigstellung. Schotterqualitaets-Analyseprotokoll.
-Abnahmeprotokoll Schienenoberbau nach VOB/B und RIL 820. SAP-PM-Equipment-Hierarchie Gleisanlage.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Schienenoberbau nach VOB/B und RIL 820. SAP-PM-Equipment-Hierar
 - [DIN EN 13450 Gleisschotter](https://www.gesetze-im-internet.de/)
 - [DIN EN 13674 Schienen](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 180/12 Gleisbau Schweissnaht](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+180/12)
+

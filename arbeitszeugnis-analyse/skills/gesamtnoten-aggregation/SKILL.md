@@ -37,10 +37,6 @@ description: "Aggregiert Einzelbewertungen aus Leistungs- Verhaltens- und Schlus
 
 **Beispiel 6 – Schaufenster-Zeugnis:** Spitzensätze grün (Note 1) bei Fachkenntnissen, Arbeitsweise, Arbeitsergebnis; daneben orange Sätze (Note 3) zu Lernbereitschaft, Innovation, Sozialverhalten; Schlussformel grün (Note 1). Rechnerischer Wert vor Penalty: Note 1 bis 2. Drift-Penalty Lernbereitschaft: minus halbe Stufe. Konstante Note 3 in weichen Bereichen: minus halbe Stufe. Gesamtnote: Note 2 bis Note 3, nicht Note 1 wie die Schaufenster-Sätze suggerieren.
 
-## Ausgabeformat
-
-Der Skill gibt aus: Gewichtete Einzelbewertungen je Teilbereich (Tabelle), Gesamtnoten-Spanne (z. B. Note 2 bis Note 3), entscheidendes positives Signal (bestes Einzelelement), entscheidendes negatives Signal (schlechtestes Einzelelement), und Handlungsempfehlung (Akzeptieren/Nachverhandeln/Klageprüfung).
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
@@ -49,3 +45,4 @@ Der Skill gibt aus: Gewichtete Einzelbewertungen je Teilbereich (Tabelle), Gesam
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

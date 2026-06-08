@@ -5,10 +5,6 @@ description: "TK-Verträge: Mindestlaufzeit, automatische Verlängerung, monatli
 
 # Mindestlaufzeit, Verlängerung, Kündigung
 
-## Arbeitsbereich
-
-TK-Verträge: Mindestlaufzeit, automatische Verlängerung, monatliche Kündbarkeit, Kündigungsbutton/Onlinekündigung, AGB und Nachweis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ TK-Verträge: Mindestlaufzeit, automatische Verlängerung, monatliche Kündbarke
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Der Skill prüft, ob Kunden aus einem Vertrag herauskommen oder Anbieter ihre Laufzeitklauseln sauber gestalten.
-
 ## Norm- und Quellenanker
 
 TKG Kundenschutz; BGB §§ 309, 312k, 314; TDDDG bei Onlineabschluss; AGB-Recht.
-
-## Arbeitsfragen
-
-1. Welche Laufzeit wurde wann vereinbart?
-2. Welche Verlängerungsmechanik gilt nach aktueller Rechtslage?
-3. Wie wurde gekündigt und wie bestätigt?
-4. Ist eine außerordentliche Kündigung möglich?
-
-## Output
-
-Kündigungsprüfung, Anbieterbrief, AGB-Redline und Fristenkalender.
 
 ## Red Flags
 
@@ -48,6 +29,3 @@ Kündigungsprüfung, Anbieterbrief, AGB-Redline und Fristenkalender.
 - tk-umzug-vertragsanpassung
 - tk-output-beschwerde-antrag-klage
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

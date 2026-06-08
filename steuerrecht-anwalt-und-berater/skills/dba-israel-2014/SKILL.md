@@ -87,13 +87,6 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 ### Phase 6 — Erstattung / Erklaerung
 1. BZSt-Antrag.
 
-## Output
-
-- Mandanten-Memo zur DBA-Anwendung Israel.
-- Ansaessigkeits-Memo bei Aliyah-Status.
-- Berechnungsbeispiel Software-Lizenz.
-- BZSt-Antragspaket.
-
 ## Strategie und Praxis-Tipps
 
 - Aliyah-Status (Olim Chadashim): Israel besteuert in der Beguenstigungs-Periode auslaendische Einkuenfte regelmaessig nicht (Dauer nach aktuellem israelischen Steuerrecht pruefen; in der Literatur mit 10 Jahren referenziert); deutsches FA prueft § 50d Abs. 9 EStG-Rueckfallklausel.
@@ -162,12 +155,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Israel 2014 Fundstellen, BMF-Schreiben verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-lizenzgebuehren-art-12-bzst`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Israel 21.08.2014, in Kraft 09.05.2016, Anwendung ab 01.01.2017 (BGBl. 2015 II S. 1301/1302). MLI-Status Israel: unterzeichnet, Ratifizierungsstatus im BMF-Verzeichnis pruefen. Aliyah-Steuerstatus: nach israelischem Steuerrecht im Einzelfall pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 11 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

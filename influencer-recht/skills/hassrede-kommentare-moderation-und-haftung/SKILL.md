@@ -5,10 +5,6 @@ description: "Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Mod
 
 # Influencer-Recht: Hassrede, Kommentare, Moderation und Haftung
 
-## Arbeitsbereich
-
-Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Creator können für Kommentare unter ihren Posts haften, wenn sie nicht moderie
 - Strafanzeige-Muster (Hassrede)
 - Community-Guidelines-Template
 - Abmahnreaktion (Kommentar-Haftung)
+

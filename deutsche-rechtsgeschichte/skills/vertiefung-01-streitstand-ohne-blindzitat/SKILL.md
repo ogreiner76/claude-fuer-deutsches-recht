@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtsh
 
 # Vertiefung: Streitstand ohne Blindzitat
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -69,12 +65,3 @@ Ein rechtshistorischer Streitstand ist die strukturierte Darstellung divergieren
 - Radbruch 1946: SJZ 1946, 105 (Sueddeutsche Juristen-Zeitung)
 - Stolleis, Geschichte des öffentlichen Rechts: Bandangabe + Seite
 
-## Output
-
-- Streitstand-Schema: These, Antithese, Fundstellen, Synthese
-- Vorlage für korrekten wissenschaftlichen Apparat bei Rechtshistoriker-Zitaten
-- Beispielstreitstand: Kodifikationsstreit Savigny-Thibaut mit vollstaendigen Fundstellen
-
-## Quellenregel
-
-Kein Blindzitat. Savigny 1814 und Thibaut 1814: historische Erstausgaben. Radbruch: SJZ 1946. Stolleis: Werk, Bandnummer, Seite. BVerfGE: bverfg.de. Mugdan: Bandnummer und Seite.

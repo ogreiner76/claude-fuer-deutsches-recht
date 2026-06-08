@@ -105,12 +105,6 @@ Datum: [Datum] Bearbeiter: [Name]
  Korrektur: Nachbuchung mit Steuerschluessel 3 (Umsatz 19 Prozent).
 ```
 
-## Output
-
-- Fehlerprotokoll mit konkreten Korrekturmassnahmen.
-- Korrigierte SuSa.
-- Pruefer-Vermerk in Mandantenakte.
-
 ## Strategie und Praxis-Tipps
 
 - SuSa-Pruefung sollte vor jedem Versand erfolgen — auch bei Routine-Mandanten.
@@ -119,14 +113,6 @@ Datum: [Datum] Bearbeiter: [Name]
 - Bei wesentlichen Fehlern in der Vorperiode: § 153 AO Berichtigungspflicht.
 - StBVV: Pruefung als Bestandteil der Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV-Pruefliste Monatsabschluss systematisch durchgehen; "Konten mit ungewoehnlichem Saldo" als Standardlauf.
-
-## Querverweise
-
-- `stb-susa-erstellen-grundlagen` — SuSa-Grundlagen.
-- `stb-susa-haupt-und-personenkonten` — Hauptbuch-Nebenbuch.
-- `stb-susa-vorperiode-vergleich` — Periodenvergleich.
-- `stb-bwa-fehlerquellen-haeufig` — BWA-Fehler.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -140,10 +126,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

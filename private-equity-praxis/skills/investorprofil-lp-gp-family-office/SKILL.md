@@ -5,10 +5,6 @@ description: "Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, 
 
 # Investorprofil: LP, GP, Family Office, Stiftung, Versicherung
 
-## Arbeitsbereich
-
-Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,15 +79,6 @@ Excuse Right (Standardklausel):
 - FATCA-Forms zu spät einsammeln — Bank verweigert Konto, Closing rutscht.
 - MFN ungestuft gewähren — späterer Side Letter zwingt zu Massen-Anpassungen.
 
-## Querverweise
-
-- pe-001 zur Rollen-Einordnung.
-- pe-005 für Spezial-AIF.
-- pe-006 für ELTIF 2.0.
-- pe-011 für Sub-Doc / Side Letter.
-- pe-018 für ESG-Profil.
-- pe-019 für KYC/UBO.
-
 ## Quellen Stand 06/2026
 
 - KAGB § 1 Abs. 19 (Anlegerkategorien); §§ 281 ff. (Spezial-AIF).
@@ -100,3 +87,4 @@ Excuse Right (Standardklausel):
 - GwG §§ 10 ff.; FKAustG (CRS); FATCA-Abkommen DE-USA.
 - SFDR (VO (EU) 2019/2088); EU-Taxonomie-VO 2020/852.
 - IORP-II-RL (EU) 2016/2341.
+

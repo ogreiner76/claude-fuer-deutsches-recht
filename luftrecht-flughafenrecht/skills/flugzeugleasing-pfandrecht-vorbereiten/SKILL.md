@@ -5,10 +5,6 @@ description: "Leasinggeber will internationales Sicherungsinteresse Cape-Town un
 
 # Flugzeugleasing – Pfandrecht vorbereiten
 
-## Arbeitsbereich
-
-Leasinggeber will internationales Sicherungsinteresse Cape-Town und nationales Pfandrecht an geleasetem Flugzeug koordinieren. Prueft Cape-Town-Convention Art. 2 ICAO-Register-Eintragung LuftFzgG §§ 1-12 AG-Braunschweig und IDERA-Bestellung und liefert Sicherungsstruktur-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ Cape Town Convention Art. 2 ICAO-Register LuftFzgG §§ 1-12 AG Braunschweig –
 - **Cape Town Aircraft Protocol Art. XII**: Prioritäten konkurrierender Sicherungsrechte im internationalen Register.
 - **LuftFzgG § 3**: Entstehung des Pfandrechts; Eintragungszeitpunkt als Prioritätsregel.
 - **InsO § 47**: Aussonderungsrecht des Leasinggebers; Priorität gegenüber Insolvenzgläubigern.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -56,6 +53,7 @@ Cape Town Convention Art. 2 ICAO-Register LuftFzgG §§ 1-12 AG Braunschweig –
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist eine IDERA (Irrevocable Deregistration and Export Request Authorisation) im Cape-Town-Register eingetragen?
 8. Hat Leasinggeber wirksam nach InsO § 47 Aussonderung geltend gemacht?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -73,9 +71,6 @@ Das Luftfahrzeugpfandrecht verbindet nationales Sachenrecht mit dem internationa
 - **Vollstreckung**: Pfandrechtsverwertung erfolgt durch öffentliche Versteigerung; ZPO § 864 regelt den besonderen Vollstreckungsweg für Luftfahrzeuge.
 - **Internationaler Arrest**: Luftfahrzeug kann im Ausland nach nationalen Regeln oder Cape-Town-Mechanismus arretiert werden; Koordination mit Local Counsel erforderlich.
 
-## Output
-
-Sicherungsstruktur-Vermerk. IDERA-Hinterlegungs-Ablauf. Pfandrechts-Bestellungs-Checkliste. Cape-Town-Registrierungs-Checkliste. Aussonderungsvermerk bei Insolvenz.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -103,3 +98,4 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

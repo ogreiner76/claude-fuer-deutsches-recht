@@ -5,10 +5,6 @@ description: "Qualitaets-Gate für JVEG-Kostenberechnungen: Vollständigkeits- u
 
 # JVEG-Quality-Gate
 
-## Arbeitsbereich
-
-Qualitaets-Gate für JVEG-Kostenberechnungen: Vollständigkeits- und Konsistenzprüfung aller Positionen. Normen: JVEG. Prüfraster: Vollständigkeit, Rechenfehler, Normzitate, Belegpflicht. Output: Quality-Gate-Prüfbericht JVEG. Abgrenzung: nicht Einzelberechnungs-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Qualitaets-Gate für JVEG-Kostenberechnungen: Vollständigkeits- und Konsistenzp
 ## Fachkern: JVEG-Quality-Gate
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Führe eine abschließende Qualitätsprüfung aller JVEG-Dokumente durch, bevor sie versandt oder eingereicht werden.
 
 ## Triage — kläre vor der Prüfung
 
@@ -53,19 +46,8 @@ Das Quality Gate stoppt den Prozess, wenn folgende rote Punkte erkannt werden:
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Jedes fertiggestellte JVEG-Dokument vor Versand.
-
-## Arbeitsweise
-1. Mathcheck: Alle Summen nachrechnen.
-2. Belegcheck: Anlagenliste mit Belegen abgleichen.
-3. Doppelpostencheck: Jede Position auf Überschneidung prüfen.
-4. Fristcheck: § 23 JVEG-Frist bestätigen.
-5. Antragssatz prüfen: eindeutig, vollständig, mit Betrag.
-6. Bei rotem Punkt: Prozess stoppen und Fehler benennen.
 
 ## Output-Template
 
@@ -84,3 +66,4 @@ Qualitätsbericht mit Ampelstatus; roter Punkt hält Dokument zurück.
 ## Leitplanken
 - Freigabe erst nach vollständig grünem Prüfbericht.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

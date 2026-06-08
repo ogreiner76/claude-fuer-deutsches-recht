@@ -12,10 +12,6 @@ description: "Erstelle das zusammenfassende Vorprüfungs-Gutachten zum KI-Anbiet
 - **Entscheidende Weiche:** Mustertext, Anbieterbehauptung, technische Wirklichkeit, Berufsgeheimnis und Datenschutzrolle müssen getrennt bleiben.
 - **Arbeitsprodukt:** Vertragsbaustein, Gutachtenstruktur, Redline oder Anbieter-Fragenliste; Ergebnis bleibt Vorprüfung und wird nicht als fertige Berufsrechtsfreigabe ausgegeben.
 
-## Zweck
-
-Das Gutachten fasst alle Einzelprüfungen zu einem strukturierten Dokument zusammen. Es ist intern für die Kanzlei bestimmt, kann aber auszugsweise als Argumentationsgrundlage gegenüber dem Anbieter verwendet werden.
-
 ## Aufbau
 
 ### 1. Eingangsdaten
@@ -106,9 +102,6 @@ Markdown, ca. 5 bis 10 Seiten. PDF-Export optional via Plugin `office`.
 - §§ 53a, 97 StPO — Strafprozessuale Absicherung
 - Art. 28, 32 DSGVO — Datenschutzrechtliche Parallelprüfung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Wurden alle Einzelprüfungen aus den Teilskills (Verschwiegenheit, Belehrung, Subunternehmer, Strafprozess, TOM, Drittstaat) durchgeführt?
@@ -179,3 +172,4 @@ Quellen: geltende Gesetzestexte, Gesetzesmaterialien, verifizierbare Kammerhinwe
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

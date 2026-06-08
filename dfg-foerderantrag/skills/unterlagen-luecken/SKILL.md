@@ -9,7 +9,6 @@ description: "Lücken- und Beschaffungsliste für DFG-Förderantrag: trennt fehl
 
 Diese Unterlagenprüfung für **Dfg Foerderantrag** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `adaptive-dokumentenmatrix-lueckenliste` — Adaptive Dokumentenmatrix Lueckenliste
@@ -43,7 +42,6 @@ Arbeitsfokus: **Unterlagen und Lücken**. Prüfe diese Anker am Sachverhalt; erg
 - `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
 - `DFG-Kodex Leitlinie 14` — Autorschaft.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
@@ -54,12 +52,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
-## Output
-
-Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat DFG-Förderantrag typischerweise Projektbeschreibung, Finanzierungsplan zuerst.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

@@ -9,7 +9,6 @@ description: "Lücken- und Beschaffungsliste für Krisenfrüherkennung StaRUG: t
 
 Diese Unterlagenprüfung für **Krisenfrueherkennung Starug** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `ampelsystem-beweislast-und-darlegungslast` — Ampelsystem Beweislast und Darlegungslast
@@ -36,12 +35,9 @@ Diese Unterlagenprüfung für **Krisenfrueherkennung Starug** benennt fehlende D
 - Rückfrageschreiben an Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragter, Restrukturierungsgericht (LG) entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
-## Output
-
-Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Krisenfrüherkennung StaRUG typischerweise Liquiditätsplan, Frühwarn-Indikatoren zuerst.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

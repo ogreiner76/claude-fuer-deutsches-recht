@@ -5,10 +5,6 @@ description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liqui
 
 # Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel
 
-## Arbeitsbereich
-
-Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, Fortbestehensprognose-Bezug und Hinweisen zu § 15a InsO und § 15b InsO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -124,21 +120,6 @@ Praktisch wertvoll wird die Auszahlung bei:
 - Antragsbefugnis nach Eröffnung nicht beim Insolvenzverwalter geklärt.
 - Vorauszahlungssenkung beantragt, obwohl BSFZ-Bescheinigung fehlt.
 
-## Output
-
-- Liquiditätsmemo mit Bandbreiten konservativ/realistisch/optimistisch.
-- Insolvenz-/Masse-Checkliste.
-- Unterlagenliste für Insolvenzverwaltung, CFO oder Sanierungsgeschäftsführer.
-- Vorsichtshinweis zu § 15a InsO, § 15b InsO und Steuerhaftung.
-
-## Querverweise
-
-- `fz-foerdercheck-kaltstart` zur ersten Förderchance.
-- `fz-bsfz-bescheinigung-projektbeschreibung` für die BSFZ-Stufe.
-- `fz-finanzamt-festsetzung-auszahlung` für die Antragstellung beim Finanzamt.
-- Im Plugin `fortbestehensprognose` (falls vorhanden) für die formale Krisenprognose.
-- Im Plugin `liquiditaetsplanung` für die Cashflow-Planung.
-
 ## Quellen Stand 05/2026
 
 - FZulG § 10 — Anrechnung und Auszahlung.
@@ -147,10 +128,3 @@ Praktisch wertvoll wird die Auszahlung bei:
 - BMF-Hinweise zur Forschungszulage.
 - `references/forschungszulage-quellen-und-zahlen.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

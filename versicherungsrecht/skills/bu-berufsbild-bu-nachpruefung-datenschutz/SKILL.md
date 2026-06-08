@@ -5,10 +5,6 @@ description: "Berufsunfähigkeitsversicherung: konkretes Berufsbild, prägende T
 
 # BU: Berufsbild und 50-Prozent-Prüfung
 
-## Arbeitsbereich
-
-Berufsunfähigkeitsversicherung: konkretes Berufsbild, prägende Tätigkeiten, Zeitanteile, gesundheitliche Einschränkungen und 50-Prozent-Grenze substantiiert darstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Berufsunfähigkeitsversicherung: konkretes Berufsbild, prägende Tätigkeiten, Z
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Der Skill macht aus Arztbriefen und Tätigkeitslisten eine klagefeste BU-Substantiierung.
 
 ## Normenanker
 
@@ -38,17 +30,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 VVG §§ 172–177; AVB BU; ZPO Darlegungslast; Sozial-/Medizinunterlagen nur mit Datenschutzcheck.
 
-## Arbeitsfragen
-
-1. Wie sah der Beruf zuletzt in gesunden Tagen konkret aus?
-2. Welche Tätigkeiten waren prägend, wie häufig und wie belastend?
-3. Welche Einschränkung trifft welche Tätigkeit?
-4. Seit wann besteht BU und welche Prognose gilt?
-
-## Output
-
-Berufsbildtabelle, Gesundheits-Mapping, Beweisangebote und BU-Antrag/Klagekern.
-
 ## Red Flags
 
 - Beruf nur als Berufsbezeichnung beschrieben
@@ -60,10 +41,6 @@ Berufsbildtabelle, Gesundheits-Mapping, Beweisangebote und BU-Antrag/Klagekern.
 
 - bu-abstrakte-konkrete-verweisung
 - bu-nachpruefung-anerkenntnis-leistungseinstellung
-
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren; sonst nur als Prüfpunkt formulieren.
 
 ## Normen und Rechtsprechung
 

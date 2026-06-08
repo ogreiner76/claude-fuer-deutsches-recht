@@ -5,10 +5,6 @@ description: "Fachmodul Franchiserecht für Systemhandbuch-Änderungen ohne AGB-
 
 # Franchise: Systemhandbuch-Änderungen ohne AGB-Absturz
 
-## Arbeitsbereich
-
-Fachmodul Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,6 +47,3 @@ Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsm
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

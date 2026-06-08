@@ -5,10 +5,6 @@ description: "GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verord
 
 # Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung
 
-## Arbeitsbereich
-
-GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verordnung, Freischaltung, Erprobungsphase und Nutzenbewertung durch BfArM. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -87,6 +83,7 @@ Digitale Gesundheitsanwendungen (DiGA) sind Apps auf Rezept. Dieser Skill klärt
 - [DiGAV – Zulassungsverordnung](https://www.gesetze-im-internet.de/digav/)
 - [dejure.org § 33a SGB V](https://dejure.org/gesetze/SGB_V/33a.html)
 - [GKV-Spitzenverband DiGA](https://www.gkv-spitzenverband.de)
+
 ## Schritt 5 – Widerspruch bei Ablehnung einer DiGA
 
 - Krankenkasse muss innerhalb von 3 Wochen über DiGA-Antrag entscheiden (§ 33a Abs. 4 SGB V)
@@ -100,3 +97,4 @@ Digitale Gesundheitsanwendungen (DiGA) sind Apps auf Rezept. Dieser Skill klärt
 - [BfArM – DiGA-Verzeichnis](https://diga.bfarm.de/de/verzeichnis)
 - [G-BA – DiGA-Richtlinie](https://www.g-ba.de/richtlinien/107/)
 - [GKV-Spitzenverband – DiGA-Informationen](https://www.gkv-spitzenverband.de)
+

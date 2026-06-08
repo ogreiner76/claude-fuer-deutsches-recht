@@ -97,16 +97,9 @@ Diese Werte ersetzen **keinen** Einzelfall; sie zeigen, wo regional, gerichtsbez
 - **U-Haft-Anrechnung** in der Urteilsformel uebersehen (§ 51 StGB).
 - **Doppelverwertung** Tatbestandsmerkmale.
 
-## Querverweise
-
-- `paragraph-46-stgb-grundsatz-strafzumessung` — Grundsatz.
-- `strafrahmen-und-strafzumessungsstufen` — Strafrahmen vor Zumessung.
-- `bewaehrung-56-stgb-positive-sozialprognose` — Bewaehrung.
-- `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — Vollstreckung.
-- `gesamtstrafenbildung-53-54-stgb-erste-instanz` — bei Mehrtat.
-
 ## Quellen und Stand 05/2026
 
 - §§ 38, 39, 46, 47, 49, 51, 56-57a StGB in der geltenden Fassung.
 - Art. 6 Abs. 1 EMRK Verfahrensdauer.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

@@ -53,12 +53,3 @@ Handelsbräuche (Trade Usages) können nach CISG Art. 9 Abs. 2 Vertragsinhalt we
 - Gegenpartei-Argument: Unkenntnis des Brauchs belegen (Ausnahme Art. 9 Abs. 2)
 - Course of Dealing: Dokumentation früherer Verträge als Beweismittel
 
-## Output
-
-- Trade-Usage-Beweismatrix (Beweismitteltypen und Wert)
-- CENTRAL-Top-20-Prinzipien-Übersicht
-- Expert-Witness-Brief für Trade Usage
-
-## Quellenregel
-
-CISG Art. 9: uncitral.un.org. PICC Art. 1.9: unidroit.org. CENTRAL: trans-lex.org. jusmundi.com (Schiedssprüche). IBA Rules 2020: ibanet.org. Unsicherheit bleibt sichtbar.

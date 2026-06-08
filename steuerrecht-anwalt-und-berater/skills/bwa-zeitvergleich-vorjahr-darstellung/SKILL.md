@@ -99,12 +99,6 @@ Tabellen sind sachlich richtig, aber visuell muehsam. Fuer das Mandantengespraec
 - Bei Praesentation: PowerPoint mit gleichen Grafiken.
 - Mandantenakte dokumentieren.
 
-## Output
-
-- BWA-Grafik-Anhang mit 3-5 Standardgrafiken.
-- Erlaeuterungstext zu jeder Grafik.
-- Praesentationsvorlage für Quartalsgespraech.
-
 ## Strategie und Praxis-Tipps
 
 - Grafische Aufbereitung ist Mandantenbindungs-Instrument; mit Abstand wirkungsvoller als reine Tabelle.
@@ -114,14 +108,6 @@ Tabellen sind sachlich richtig, aber visuell muehsam. Fuer das Mandantengespraec
 - StBVV: Standard-Grafik pauschaliert, Sonderformate mit Zeithonorar.
 - Datenschutz: bei Cloud-basierten Tools (Power BI Online) DSGVO-konforme Konfiguration.
 
-## Querverweise
-
-- `stb-bwa-zeitlicher-vergleich-jahresvergleich` — Zahlentabelle.
-- `stb-bwa-mandantenreport-monatlich` — Monatsreport.
-- `stb-bwa-mandantengespraech-uebergabe` — Quartalsgespraech.
-- `stb-bwa-branchenvergleich-bbe-datev` — Branchenvergleich.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -130,10 +116,3 @@ Stand: 05/2026.
 - DATEV Praesentations-Modul.
 - IDW PS 480.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

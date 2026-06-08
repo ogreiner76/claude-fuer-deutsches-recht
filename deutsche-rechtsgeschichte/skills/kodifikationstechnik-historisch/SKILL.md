@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Ve
 
 # Kodifikationstechnik historisch
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Vergleich. ALR 1794 als kasuistisches System, BGB-Abstraktion und Pandektistik, DDR-ZGB 1975 und moderne Schuldrechtsreform 2002. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Kodifikation ist die planmäßige Zusammenfassung eines Rechtsgebiets in einem G
 - BGB aktuell: gesetze-im-internet.de
 - SchuRModG 2002: BGBl. I 2001, 3138
 
-## Output
-
-- Vergleichstabelle Kodifikationstechniken ALR / Code Civil / BGB / DDR-ZGB
-- Ausgewaehlte Paragraphen mit fachliche Einordnung (Mugdan-Bezug)
-- Schuldrechtsreform 2002: vor/nach-Vergleich für Kerninstitute
-
-## Quellenregel
-
-BGB: gesetze-im-internet.de. Mugdan-Materialien: historische Ausgabe (1899). ALR und DDR-ZGB: ALEX/ÖNB. SchuRModG 2002: BGBl. I 2001, 3138 via gesetze-im-internet.de.

@@ -5,10 +5,6 @@ description: "Werftvertrag: Schadensereignis an Neubauprojekt unter Werftvertrag
 
 # Werftvertrag – Schadensfall bei Versicherung melden
 
-## Arbeitsbereich
-
-Werftvertrag: Schadensereignis an Neubauprojekt unter Werftvertrag melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Ein Neubauprojekt unter Werftvertrag erleidet Kollisionsschäden; P&I-Club und H
 - Verspaetete P&I-Meldung fuehrt zu Deckungsverlust (Club Rule: prompt notification).
 - MII greift nur wenn Bank nicht als Mitversicherter in H&M-Police steht.
 - H&M deckt nur 3/4 der Kollisionshaftung; P&I nimmt 1/4.
-
-## Output
-Meldecheckliste (P&I/H&M/MII) und Fristenübersicht für Neubauprojekt unter Werftvertrag.
 
 ## Vertiefung: P&I-Club-Meldesystem
 P&I-Clubs arbeiten nach dem Mutual-Insurance-Prinzip: Mitglieder (Reeder) sichern sich gegenseitig ab; Prämien werden nachträglich angepasst. Für die Deckungsauslösung entscheidend ist die prompte Meldung an den zuständigen Club-Korrespondenten im Hafenstaat. Alle 13 IG-Clubs haben weltweite Korrespondentennetzwerke; im Schadenfall sofort aktivieren.
@@ -98,3 +91,4 @@ Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des
 - DTV-Klauseln Kasko: https://www.deutscher-transport-versicherungsverband.de
 - IGP&I: https://www.igpandi.org
 - openjur P&I-Streit: https://www.openjur.de
+

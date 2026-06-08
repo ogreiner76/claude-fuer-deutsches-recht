@@ -137,14 +137,6 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 - Aktenzeichen fehlt
 - Zu lange Wiederholung der Begruendung des Ressorts
 
-## Querverweise
-
-- `nkr-stellungnahme-grundsatzfeststellung`
-- `nkr-stellungnahme-ergebnis-und-empfehlung`
-- `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `legistik-werkstatt/spezial-normtext-begruendung-und-synopse`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 6
@@ -152,3 +144,4 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Mustertexte und Praxisbeispiele
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

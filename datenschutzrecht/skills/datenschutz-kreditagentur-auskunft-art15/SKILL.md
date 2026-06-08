@@ -5,23 +5,9 @@ description: "Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, 
 
 # Art. 15 DSGVO bei Auskunftei und Scorelogik
 
-## Einsatz
-
-Für sauberen Start vor Löschung, Berichtigung oder Schadensersatz.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 12, 15, 16, 17, 22; EuGH zu Art. 15 nur verifiziert zitieren.
-
-## Arbeitsfragen
-
-1. Welche Daten werden konkret verlangt?
-2. Welche Empfänger und Herkunftsquellen?
-3. Wie wird Scorelogik verständlich erklärt?
-
-## Output
-
-Auskunftsantrag mit Checkliste und Antwort-Auswertung.
 
 ## Red Flags
 
@@ -39,3 +25,4 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 - **Auskunftei-/Score-Fälle:** Bei `Art. 15 DSGVO bei Auskunftei und Scorelogik` EuGH C-634/21 zum Scoring und EuGH C-26/22/C-64/22 zur Restschuldbefreiung nur mit verifizierter Quelle und Kernaussage verwenden.
 - **Belege:** Datenkopie, Scorelogik, Speicherfrist, Insolvenzbekanntmachung, Ablehnungsschreiben der Bank, Selbstauskunft und Beschwerdeantwort getrennt ablegen.
 - **Output:** Löschungs-/Berichtigungsantrag, Aufsichtsbehördenbeschwerde, Beweisplan und Klage-/Eilrechtsschutzmatrix.
+

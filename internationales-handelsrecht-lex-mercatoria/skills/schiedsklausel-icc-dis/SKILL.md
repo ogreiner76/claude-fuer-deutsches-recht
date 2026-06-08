@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Schiedsklauseln nach ICC-Schiedsrege
 
 # Schiedsklauseln: ICC und DIS
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Schiedsklauseln nach ICC-Schiedsregeln 2021 und DIS-Schiedsregeln 2018. Musterklauseln, Sitzwahl, Anzahl Schiedsrichter, Verfahrenssprache, Schnellverfahren (Expedited Procedure) und pathologische Klauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Die Schiedsklausel ist die prozessuale Grundlage internationaler Streitbeilegung
 - Schnellverfahren: opt-out ausdrücklich in Klausel, wenn nicht gewünscht
 - Pathologische Klauseln: Test vor Unterzeichnung — ist Institution eindeutig identifiziert?
 
-## Output
-
-- ICC-Musterklausel (Standard und Expedited)
-- DIS-Musterklausel (Standard)
-- Checkliste: Schiedsort-Auswahl nach Vollstreckungsrisiko
-
-## Quellenregel
-
-ICC Regeln 2021: iccwbo.org. DIS Regeln 2018: dis-arb.de. New York Konvention: newyorkconvention.org. § 1031 ZPO: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

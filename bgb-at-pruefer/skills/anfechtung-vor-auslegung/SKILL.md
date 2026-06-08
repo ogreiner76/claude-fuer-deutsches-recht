@@ -45,13 +45,6 @@ description: "Klausurmethodik: Prüfungsreihenfolge Auslegung vor Anfechtung im 
 - falsa demonstratio: Beide Parteien meinen dasselbe, sagen aber etwas anderes — kein Anfechtungsfall.
 - Erklärungsirrtum setzt voraus, dass die Erklärung tatsächlich einen ungewollten Inhalt hat.
 
-## Output
-
-- Methodenschema: Auslegung → Ergebnis → ggf. Anfechtung
-- Klausurlösungsskizze mit korrekter Reihenfolge
-- Abgrenzungstabelle: Auslegungsproblem vs. Irrtum vs. Anfechtung
-- Hinweis zu typischen Klausurfehlern und wie sie vermieden werden
-
 ## Quellen
 
 - [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)

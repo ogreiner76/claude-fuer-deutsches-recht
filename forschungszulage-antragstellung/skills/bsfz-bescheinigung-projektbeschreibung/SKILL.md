@@ -151,24 +151,7 @@ Arbeitsfokus: **BSFZ-Bescheinigung und Projektbeschreibung**. Prüfe diese Anker
 - `§ 70 Abs. 1 VwGO` — Widerspruch, soweit eröffnet.
 - `Frascati Manual Kriterien` — Neuheit, Ungewissheit, Systematik, Übertragbarkeit als fachliche Abgrenzung live einordnen.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- BSFZ-taugliche Portaltexte mit Zeichenbudget.
-- Interne Langfassung als Beleg- und Kürzungsgrundlage, wenn Material vorhanden ist.
-- Arbeitspaket-Matrix.
-- Quellenverzeichnis Stand der Technik.
-- Nachforderungsvorsorge: Liste der vorbereiteten Antworten auf typische Rückfragen.
-- Liste der Anlagen (Skizzen, Vorprojekt-Berichte, Patente, Publikationen).
-
-## Querverweise
-
-- `fz-fue-definition-frascati-abgrenzung` für die FuE-Vorprüfung.
-- `fz-bemessungsgrundlage-2026` für die parallele Vorbereitung der Personalkostenrechnung.
-- `fz-dokumentationspaket-betriebspruefung` für die spätere Belegfähigkeit.
-- `fz-ablehnung-nachbesserung-einspruch` bei BSFZ-Rückfragen.
 
 ## Quellen Stand 05/2026
 
@@ -178,10 +161,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - FZulG: https://www.gesetze-im-internet.de/fzulg/
 - AGVO Art. 2 Nr. 84 bis 86 (vom Antragsteller mit konsolidierter Fassung zu prüfen).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

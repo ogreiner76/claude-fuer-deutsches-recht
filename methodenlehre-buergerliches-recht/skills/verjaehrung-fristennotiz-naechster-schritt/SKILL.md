@@ -51,10 +51,6 @@ description: "Dieses Skill systematisiert die Berechnung und Überwachung aller 
 - Bei kaufrechtlicher Verjährung (§ 438 BGB) wird die kürzere Frist von zwei Jahren übersehen.
 - Wiedervorlagen werden nicht eingeplant, sodass Fristen erst kurz vor Ablauf erkannt werden.
 
-## Output
-
-Das Skill liefert eine vollständige Fristennotiz mit Verjährungsberechnung, Hemmungsprotokoll, Wiedervorlagen und Sofortmaßnahmenplan. Ergänzt wird ein Mandantenschreiben, das über Verjährungsrisiken und erforderliche Mitwirkungshandlungen informiert. Das Ergebnis sichert die Haftungsfreiheit des Anwalts.
-
 ## Quellen
 
 - [§ 195 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
@@ -84,3 +80,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

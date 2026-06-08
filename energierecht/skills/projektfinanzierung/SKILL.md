@@ -5,10 +5,6 @@ description: "Projektfinanzierung für Energieanlagen strukturieren: Darlehen, S
 
 # Projektfinanzierung Energie
 
-## Arbeitsbereich
-
-Projektfinanzierung für Energieanlagen strukturieren: Darlehen, Sicherheiten, Ratinganforderungen. Normen: EnWG, EEG, KWKG, BGB. Prüfraster: Finanzierungsstruktur, Sicherheitenpakete, Cashflow-Analyse, Foerderdarlehen. Output: Projektfinanzierungs-Struktur Energieanlage. Abgrenzung: nicht Betriebsgenehmigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Projektfinanzierung für Energieanlagen strukturieren: Darlehen, Sicherheiten, R
 - Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Behandelt die Finanzierungs-Strukturierung von Energie-Projekten: Bank-Finanzierung, KfW-Förderung, PPA-Vermarktung, Sicherheiten-Konstruktion, Refinanzierung.
 
 ## Eingaben
 
@@ -298,9 +290,6 @@ Behandelt die Finanzierungs-Strukturierung von Energie-Projekten: Bank-Finanzier
 
 §§ 1191 ff. BGB (Grundschuld als Sicherheit) — §§ 398, 399 BGB (Forderungsabtretung) — § 307 BGB (AGB-Kontrolle Take-or-Pay) — §§ 48, 49 VwVfG (Rücknahme, Widerruf Foerderbescheid) — §§ 19-21 EEG (Verguetungs-Anspruch als Sicherungs-Gegenstand) — §§ 1 ff. KWG (Finanzierung durch Kreditinstitute)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-eeg-kwkg-erzeugung`
@@ -324,3 +313,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 <!-- AUDIT 27.05.2026 -->
+

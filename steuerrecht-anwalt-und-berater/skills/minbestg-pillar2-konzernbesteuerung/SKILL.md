@@ -11,10 +11,6 @@ description: "Beratung zur globalen Mindestbesteuerung Pillar Two MinBestG für 
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Anwaltliche Beratung großer Konzerne zur globalen Mindestbesteuerung (OECD Pillar Two / GloBE), die in Deutschland durch das **Mindestbesteuerungsgesetz (MinBestG)** seit 1.1.2024 implementiert ist. Anwendungsbereich: multinationale und große inländische Konzerne mit konsolidiertem Konzernumsatz **≥ 750 Mio. EUR** in mindestens zwei der letzten vier Jahre. Ziel: weltweiter effektiver Mindeststeuersatz von **15 %** auf Konzernebene pro Land.
-
 ## Kaltstart-Rückfragen
 
 1. Konzern-Konsolidierter Umsatz (letzte 4 Jahre) — ≥ 750 Mio. EUR erreicht?
@@ -54,21 +50,6 @@ Anwaltliche Beratung großer Konzerne zur globalen Mindestbesteuerung (OECD Pill
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 *Hinweis: Zum MinBestG selbst (in Kraft seit 1.1.2024) liegt noch keine BFH-Rechtsprechung vor. Erste Entscheidungen sind ab 2026/2027 zu erwarten.*
-
-## Anwendungsbereich
-
-**MinBestG gilt für Unternehmensgruppen, wenn:**
-
-1. Konsolidierter Umsatz **≥ 750 Mio. EUR** in mindestens **zwei der letzten vier** Geschäftsjahre vor dem Veranlagungszeitraum
-2. Die Gruppe ist in mindestens einem anderen Staat tätig (multinational) **oder** rein inländisch (große inländische Gruppen, § 1 Abs. 1 MinBestG)
-
-**Ausgenommen:**
-- Staatliche Einrichtungen
-- Internationale Organisationen
-- Investment-Fonds (UCITS, AIF)
-- Pensionsfonds
-- Non-Profit-Organisationen
-- Sicherungs- und Anlagevehikel im engeren Sinne
 
 ## Drei-Stufen-Berechnung GloBE
 
@@ -171,15 +152,7 @@ Top-Up Tax = (15 % - ETR) × (GloBE Income - Substance-Based Income Exclusion)
 - **Administrative Guidance** OECD wird laufend ergänzt; aktuellen Stand prüfen.
 - **DBA-Verständigungsverfahren** bei Doppelbesteuerung (Art. 25 OECD-MA) wird häufig relevant.
 
-## Querverweise
-
-- `anw-verbindliche-auskunft` — vorab bei Strukturierungsfragen
-- `anw-organschaft-konzern-grundlagen` — Inland-Konzern-Strukturen
-- `anw-grunderwerbsteuer-share-deal-90-prozent` — bei M&A im großen Konzern
-- `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` — bei Holding-Setup mit MinBestG-Bezug
-- `fachanwalt-internationales-wirtschaftsrecht` — bei DBA/EU-Recht
-- `aussenwirtschaft-zoll-sanktionen` — bei zoll-/sanktionsbezogener Konzern-Compliance
-
 ## Quellen und Updates
 
 Stand: 05/2026. MinBestG seit 1.1.2024. OECD Administrative Guidance Stand Januar 2025; weitere Updates in 2025/2026 erwartet. Transitional Safe Harbour bis 31.12.2026. BMF-Schreiben 18.04.2024. **Mindeststeueranpassungsgesetz (MinStAnpG)** verkuendet im BGBl. 2025 I Nr. 353 (23.12.2025; in Kraft 24.12.2025) — passt MinBestG an OECD-Guidance an. Bei Verschärfung oder DAC-9-Erweiterungen aktualisieren.
+

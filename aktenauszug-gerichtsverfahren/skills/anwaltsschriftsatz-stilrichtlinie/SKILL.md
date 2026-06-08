@@ -5,10 +5,6 @@ description: "Stilrichtlinie für den juristisch sauberen neutralen und für Anw
 
 # Anwaltsschriftsatz-Stilrichtlinie
 
-## Arbeitsbereich
-
-Stilrichtlinie für den juristisch sauberen neutralen und für Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln für alle Bausteine des Aktenauszugs. Massstab §§ 130 131 ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Stilrichtlinie für den juristisch sauberen neutralen und für Anwaelte lesbaren
 - Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Diese Stilrichtlinie legt verbindliche Regeln für Sprache, Gliederung und Formatierung des Aktenauszugs fest. Sie sichert, dass der Aktenauszug dem professionellen Standard entspricht, den Rechtsanwältinnen und Rechtsanwälte in ihrer täglichen Arbeit erwarten.
 
 ## Normhintergrund — Schriftsatz-Anforderungen
 
@@ -33,9 +25,6 @@ Diese Stilrichtlinie legt verbindliche Regeln für Sprache, Gliederung und Forma
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Sprache
 
 ### Allgemeine Grundsätze
@@ -68,6 +57,7 @@ Keine Begriffe aus dem Bereich kommerzieller Textverarbeitungssoftware oder Assi
 
 ```
 ### Aktenauszug — [Aktenzeichen] (H1 — nur einmal)
+
 ## Verfahrensidentifikation (H2 — Bausteine)
 ### Parteien (H3 — Unterabschnitte)
 #### Klägerseite (H4 — bei Bedarf)
@@ -135,3 +125,4 @@ Aktenzeichen geprueft und korrigiert:
 - VII ZR 248/12 (BGH): ersatzlos entfernt (NOT_FOUND auf dejure.org; kein Urteil vom 06.11.2013 nachweisbar)
 - VII ZR 126/02 (BGH): ersatzlos entfernt (WRONG_TOPIC: tatsaechliches Thema ist Werkvertragsrecht/Verputzungsfehler/§ 421 BGB, nicht Prozessrecht; Quelle: https://dejure.org/2003,299)
 - Aktenzeichen-Formatbeispiele sind frei erfunden und duerfen nicht als Rechtsprechungszitate verwendet werden.
+

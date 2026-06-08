@@ -5,10 +5,6 @@ description: "Sichert Roadshows (Kapitalmarkt, Pre-IPO, M&A) gegen MAR-Risiken: 
 
 # Roadshows – Insiderrechtliche Compliance
 
-## Arbeitsbereich
-
-Sichert Roadshows (Kapitalmarkt, Pre-IPO, M&A) gegen MAR-Risiken: Praesentation-Screening, Selective Disclosure, Insider-Free-Periods und Wall-Crossing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,23 +65,6 @@ Präsentationsfreigabe bis zum Post-Roadshow-Compliance-Report.
 - Protokolle aufbewahren (5 Jahre)
 - Nächste Roadshow: Learnings aus Compliance-Review einarbeiten
 
-## Red-Team-Fragen
-
-- Wurde die Präsentation vor der Roadshow von Compliance freigegeben?
-- Gibt es eine klare Trennung zwischen Market Sounding und Roadshow-Teilnehmern?
-- Liegt die Roadshow in einer Closed Period oder Insiderphase?
-- Wurden Q&A-Sessions protokolliert und auf Selective Disclosure geprüft?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Präsentations-Screening-Checkliste
-2. Roadshow-Teilnehmer-Matrix (Sounding vs. öffentlich vs. Wall-Crossing-Status)
-3. Q&A-Protokollvorlage
-4. Post-Roadshow-Compliance-Report
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Bei IPO-Roadshows gelten zusätzlich die Anforderungen der EU-Prospektverordnung
@@ -97,3 +76,4 @@ und Prospekt auf Kohärenz prüfen. Bei Abweichungen: Nachtrags-Prospekt erforde
 Weitere Quellen:
 - EU-Prospektverordnung (EU) 2017/1129: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1129
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+

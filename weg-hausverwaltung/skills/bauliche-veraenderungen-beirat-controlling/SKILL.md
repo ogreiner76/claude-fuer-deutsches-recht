@@ -5,9 +5,6 @@ description: "Bauliche Veraenderungen Beirat Controlling im Plugin Weg Hausverwa
 
 # Bauliche Veraenderungen Beirat Controlling
 
-## Arbeitsbereich
-
-**Bauliche Veraenderungen Beirat Controlling** ordnet den Fall über die tragenden Prüfungslinien: Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand, Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Bauliche Veraenderungen Beirat Controlling im Plugin Weg Hausverwa
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bauliche-veraenderungen-20-weg`
@@ -112,14 +110,6 @@ Bauliche Veränderungen so prüfen, dass Anspruch, Gestattung und Kostenfolge ni
 
 `rechtsstand-mai-2026-faktenbank` und `references/rechtsstand-mai-2026.md` zwingend laden, bevor Rechtsprechungsaussagen ausgegeben werden.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `beirat-controlling-verwalter`
 
 **Fokus:** Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle, Beschlussvorbereitung, Protokollcheck, Verwalterkommunikation und Eskalationsnotizen (Stand 05/2026); berücksichtigt BGH V ZR 34/24 (Schadensersatzweg über GdWE) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE).
@@ -189,14 +179,6 @@ Der Beirat bekommt eine strukturierte, nicht übergriffige Kontroll- und Unterst
 > 5. Vermögensbericht zum [Stichtag]: liegt vor und ist plausibel.
 > Empfehlung an Eigentümer: Beschlussfassung über Abrechnungsspitzen mit dem Wortlaut gemäß Anlage [X] [befürworten / mit folgenden Korrekturen befürworten].
 
-## Output
-
-- Beiratsprüfvermerk
-- Fragenkatalog an Verwalter
-- Freigabe-/Bedenkennotiz
-- Eigentümerbericht (1 Seite Kurzfassung)
-- Hinweis auf Prozesskostenrisiko und Schadensersatzweg über GdWE
-
 ## Cross-Refs
 
 - Verwalterkompetenz / Haftung → `verwalterpflichten-26-27-weg`
@@ -207,14 +189,6 @@ Der Beirat bekommt eine strukturierte, nicht übergriffige Kontroll- und Unterst
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 29 WEG: https://www.gesetze-im-internet.de/woeigg/__29.html .
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `beschlussanfechtung-risiko`
 
@@ -274,14 +248,6 @@ Vor oder nach einer Versammlung erkennen, ob ein Beschluss gefährdet ist und wi
 - Mehrheits- und Beschlussfähigkeit dokumentieren (Stimmrechtsliste, Vollmachten).
 - Kostenfolge expliziter formulieren, Anlagen vollständig benennen.
 
-## Output
-
-- Risikoampel je Beschluss (grün/gelb/rot)
-- Angriffspunkte mit Begründung
-- Heilungs- oder Neubeschluss-Vorschlag
-- Eskalationsnotiz für Anwalt
-- Fristen-Übersicht (insb. Erkundigungsobliegenheit)
-
 ## Cross-Refs
 
 - Beschluss formulieren / präzisieren → `beschlussvorlagen-erstellen`
@@ -292,10 +258,3 @@ Vor oder nach einer Versammlung erkennen, ob ein Beschluss gefährdet ist und wi
 
 `rechtsstand-mai-2026-faktenbank` laden. Rechtsprechungsaussagen nur mit offen prüfbarer Quelle (dejure.org, openjur.de, bundesgerichtshof.de).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

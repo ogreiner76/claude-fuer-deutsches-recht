@@ -90,14 +90,6 @@ Vor dem BSG muessen Sie einen Anwalt nehmen, der beim BSG zugelassen ist. Liste 
 - Anwalt zu spaet eingeschaltet → schon beim Widerspruch Beratungshilfe einholen
 - Anwaltskosten selbst getragen, obwohl PKH moeglich war → PKH-Antrag immer pruefen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `pkh-vor-sozialgericht-73a-sgg` — Prozesskostenhilfe
-- `beratungshilfe-vor-widerspruch-brh` — Beratungshilfe vor Klage
-- `wann-doch-anwalt-grenzfaelle-sozialgericht` — wann doch Anwalt
-- `revision-bsg-160-sgg` — vor dem BSG
-
 ## Praxis-Tipp
 
 Auch wenn vor SG und LSG kein Anwaltszwang besteht, ist die Vertretungs-Frage eine Strategie-Frage: (1) **Sozialverband (VdK, SoVD)** ist meist die guenstigste Loesung – Mitgliedsbeitrag rund 70-120 EUR/Jahr, vollstaendiger Rechtsschutz inkl. Klage, oft inklusive § 109 SGG-Gutachtenkosten. (2) **PKH nach § 73a SGG** parallel zur Klage stellen – Erfolgsaussichten sind im Sozialrecht haeufig zu bejahen, weil Amtsermittlung § 103 SGG zugunsten Klaeger wirkt. (3) **Beratungshilfe nach BerHG** vor Widerspruch – nur 15 EUR Schutzgebuehr beim Anwalt. Anwaltskosten werden bei Erfolg ueber § 193 SGG erstattet, daher kein finanzielles Risiko. Erst beim BSG ist Anwaltszwang absolut (§ 73 Abs. 4 SGG) – BSG-Anwaltsliste auf bsg.bund.de.
@@ -105,14 +97,6 @@ Auch wenn vor SG und LSG kein Anwaltszwang besteht, ist die Vertretungs-Frage ei
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen Anwaelte auf www.bsg.bund.de.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -142,3 +126,4 @@ Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen A
 - Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.
+

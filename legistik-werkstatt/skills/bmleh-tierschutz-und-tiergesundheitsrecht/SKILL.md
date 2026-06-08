@@ -5,10 +5,6 @@ description: "Sachbereich Tierschutz- und Tiergesundheitsrecht im Geschaeftsbere
 
 # Tierschutz- und Tiergesundheitsrecht (BMLEH)
 
-## Arbeitsbereich
-
-Sachbereich Tierschutz- und Tiergesundheitsrecht im Geschaeftsbereich BMLEH: Normbestand (TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.); Akteure (BVL; FLI; Länder-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.); EU-Bezug (EU-Tiergesundheitsrecht (AHL); Tierhaltungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Tierschutz- und Tiergesundheitsrecht (BMLEH)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -21,7 +17,6 @@ Arbeitsfokus: **Tierschutz- und Tiergesundheitsrecht (BMLEH)**. Prüfe diese Ank
 - `§ 5 EGovG` — elektronische Aktenführung live prüfen.
 - `Art. 3 KI-VO` — Begriffe.
 - `Art. 6 KI-VO` — Hochrisiko-Systeme.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -82,23 +77,6 @@ Konflikte zwischen Verbraucherwunsch und Wirtschaftlichkeit; Vollzugsschwaeche i
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Tierschutz- und Tiergesundheitsrecht
-Ressort: BMLEH
-Kernnormen: TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.
-Akteure/Aufsicht: BVL; FLI; Länder-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.
-EU/Voelkerrecht: EU-Tiergesundheitsrecht (AHL); Tierhaltungsrichtlinien.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmleh` -> `legw-ressortaufgaben-bmleh` -> `legw-bmleh-tierschutz-und-tiergesundheitsrecht` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -107,6 +85,3 @@ Naechste Skills: legw-ressortaufgaben-bmleh; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

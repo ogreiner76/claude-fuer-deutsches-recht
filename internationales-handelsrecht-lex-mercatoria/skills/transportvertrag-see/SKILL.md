@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Seetransportrecht — Haager-Visby-R
 
 # Seetransportrecht: Haag-Visby, Hamburg, Rotterdam
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Drei internationale Transportrechtsregime konkurrieren im Seetransport: (1) Haag
 - Konnossement-Klauseln auf Paramountklausel (HVR-Verweis) prüfen
 - Rotterdamer Regeln: für zukünftige Vertragsgestaltung im Blick halten
 
-## Output
-
-- Regime-Vergleich: HVR / Hamburg / Rotterdam (Haftung, Ausnahmen, Grenzen)
-- Konnossements-Checkliste (Pflichtangaben HVR Art. 3 Abs. 3)
-- Haftungsberechnung-Schema
-
-## Quellenregel
-
-HVR: uncitral.un.org (Text). Hamburger Regeln: uncitral.un.org. Rotterdamer Regeln: uncitral.un.org. HGB §§ 498 ff.: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

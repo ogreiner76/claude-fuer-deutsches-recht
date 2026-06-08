@@ -5,10 +5,6 @@ description: "Commercial LEO Destinations: rechtliche Architektur kommerzieller 
 
 # Commercial LEO Destinations - ISS-Nachfolge
 
-## Arbeitsbereich
-
-Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln für Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbi
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für Mandate aus dem entstehenden Markt kommerzieller LEO-Stationen, die ab ca. 2028-2031 die ISS abloesen werden. Betroffene Akteure: deutsche Forschungsinstitute (DLR, MPG, Helmholtz), Industriepartner (Airbus, OHB, Boeing-Europe), Pharma- und Biotech-Anwender (Mikrogravitationsforschung), Start-ups mit In-Space-Manufacturing.
 
 ## Sofortfragen
 
@@ -82,10 +74,3 @@ Skill für Mandate aus dem entstehenden Markt kommerzieller LEO-Stationen, die a
 6. Exportkontrolle (ITAR / EAR / EU Dual-Use)?
 7. Crew-Anforderungen (Medizincheck, Versicherbarkeit, Schadensersatz)?
 
-## Output
-
-- Vertragsentwurf OCA / MHA / PHA.
-- Cross-Waiver-Klausel und Versicherungssatz.
-- IP-Lizenzraster für Forschungsdaten.
-- Risiko-Cockpit für Aufsichtsrat und Investoren.
-- Talking Points für NASA / ESA / DLR-Koordination.

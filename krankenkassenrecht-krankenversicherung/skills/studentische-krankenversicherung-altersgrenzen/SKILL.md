@@ -5,10 +5,6 @@ description: "Pflichtversicherung Studierender (§ 5 Abs. 1 Nr. 9 SGB V): Alters
 
 # Studentische Krankenversicherung: Altersgrenzen
 
-## Arbeitsbereich
-
-Pflichtversicherung Studierender (§ 5 Abs. 1 Nr. 9 SGB V): Altersgrenze 25 Jahre, Fachsemesterlimit, Urlaubssemester, Ende der Versicherung und Übergangsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Studierende sind zu günstigen Konditionen gesetzlich pflichtversichert – aber
 - [BSG studentische KV](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [GKV-Spitzenverband Studierende](https://www.gkv-spitzenverband.de)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
+

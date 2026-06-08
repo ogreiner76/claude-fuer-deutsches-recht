@@ -35,15 +35,6 @@ Karteninhalt (sechs Felder aus der Excel-Vorlage):
   - Beschluss = lila
   - Schreiben = grau
 
-## Vorgehen
-1. Spalte 2 anlegen, Namen setzen.
-2. Aus Reiter 1 alle GRUENEN und GELBEN Dokumente uebernehmen, die als
-   `vorliegend` markiert sind. ROTE (`FEHLT`) gehoeren in Spalte 3.
-3. Pro Karte Type-Tag setzen.
-4. Pro Karte den Unterschriftsbefund aus dem Skill unterschriftspruefung
-   in der Anmerkung kurzfassen.
-5. Anhaenge verlinken.
-
 ## Anwendungsbeispiel
 LausitzStorage-Akte, Spalte 2 enthaelt 16 Karten:
 - Pachtvertrag (GRUEN, Vertrag-Tag): UR-Nr. 217/2025 Notar Albers,
@@ -67,3 +58,4 @@ LausitzStorage-Akte, Spalte 2 enthaelt 16 Karten:
 Spalte 2 ist Lieferquelle fuer die Querkommunikation zwischen Padlet-Karten
 und Excel-Reitern. Wer hier sauber Type-Tags vergibt, kann spaeter
 filtern (zum Beispiel `nur Beschluesse anzeigen`).
+

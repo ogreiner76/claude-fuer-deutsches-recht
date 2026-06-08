@@ -5,9 +5,6 @@ description: "Datenschutz Datenpanne ART Erstgespraech im Datenschutzrecht: prü
 
 # Datenschutz Datenpanne ART Erstgespraech
 
-## Arbeitsbereich
-
-**Datenschutz Datenpanne ART Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Datenpannen-Incident-Response Art, Strukturiertes Erstgespraech im Datenschutzmandat, Auskunft gegenüber Auskunfteien. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Datenschutz Datenpanne ART Erstgespraech im Datenschutzrecht: prü
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `datenschutz-datenpanne-art-33-34-72h-incident-response`
@@ -141,15 +139,6 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 
 **Was triggert die Aufsichtsbehoerde besonders?** Fristueberschreitung, leere Floskeln zu TOM, fehlende Risikoabwaegung Art. 34, keine Mandantenbeteiligung dokumentiert, kein DSB beteiligt.
 
-## Querverweise
-
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-- `datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung`
-- `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
-- `datenpanne-meldung`
-- `it-recht-incident-response-it-sicherheit-und-datenschutz-zusammen`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 4 Nr. 12, 32, 33, 34, 37, 82, 83.
@@ -158,23 +147,11 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 - EDSA, Leitlinien 01/2021 zu Beispielen für Meldungen von Datenpannen.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
 
 **Fokus:** Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte Fragen ordnen den Sachverhalt in eine Mandantenmatrix ein: Rolle nach Art. 4 DSGVO Verantwortlicher oder Auftragsverarbeiter oder gemeinsam Verantwortlicher Art. 26 DSGVO Anlass Aufsichtsbehoerde Betroffener Anwalt Gegner Fristlage Art. 12 III DSGVO Risikolage Datenkategorien Art. 9 10 DSGVO Vorgeschichte und Mandatsziel. Liefert sofort Mandatsfragebogen-Antwortpattern Risikoampel und Folge-Skill-Empfehlung. Abgrenzung: keine Subsumtion ersetzt die Fachmodule.
 
 ### Datenschutz Erstgespraech — Mandantenmatrix mit sieben Fragen
-
-## Zweck
-
-Dieser Skill fuehrt das erste Gespraech mit dem Mandanten in einem Datenschutzfall. Ziel ist nicht eine sofortige rechtliche Bewertung, sondern die saubere Einordnung des Falls in eine **Mandantenmatrix**, aus der hervorgeht: Welche Rolle hat der Mandant? Welche Frist laeuft? Welcher Folge-Skill ist als naechstes zu starten? Der Skill ersetzt keine Subsumtion, sondern ist die Weiche.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -271,15 +248,6 @@ Folge-Skill: [datenschutz-auskunftsersuchen-art-15-praxis / datenschutz-datenpan
 
 **Was triggert die Aufsichtsbehoerde besonders?** Leerformelhafte Antworten, fehlende Rechtsgrundlage (Art. 6 DSGVO), kein Bezug zu technischen und organisatorischen Massnahmen (Art. 32 DSGVO), fehlende Mandantenbeteiligung.
 
-## Querverweise
-
-- `datenschutz-auskunftsersuchen-art-15-praxis`
-- `datenschutz-datenpanne-art-33-34-72h-incident-response`
-- `datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung`
-- `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-
 ## Quellen Stand 06/2026
 
 - Verordnung (EU) 2016/679 (DSGVO), insbesondere Art. 4, 5, 12, 26, 28, 33, 34, 77, 82, 83.
@@ -288,37 +256,15 @@ Folge-Skill: [datenschutz-auskunftsersuchen-art-15-praxis / datenschutz-datenpan
 - BRAO § 43a, § 49b; RVG-Hinweise zur Vertretung in Datenschutzmandaten.
 - Kein Modellwissen zu konkreten Aufsatzfundstellen. Verifizierung vor Versand in amtliche Quellen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `datenschutz-kreditagentur-auskunft-art15-scorelogik`
 
 **Fokus:** Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, Herkunft, Scorelogik, Kategorien, Löschfristen und Kopie.
 
 ### Art. 15 DSGVO bei Auskunftei und Scorelogik
 
-## Einsatz
-
-Für sauberen Start vor Löschung, Berichtigung oder Schadensersatz.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 12, 15, 16, 17, 22; EuGH zu Art. 15 nur verifiziert zitieren.
-
-## Arbeitsfragen
-
-1. Welche Daten werden konkret verlangt?
-2. Welche Empfänger und Herkunftsquellen?
-3. Wie wird Scorelogik verständlich erklärt?
-
-## Output
-
-Auskunftsantrag mit Checkliste und Antwort-Auswertung.
 
 ## Red Flags
 
@@ -335,10 +281,6 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 **Fokus:** Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-für-Schritt: NICHT pauschal alles loeschen Pruefraster nach Datenkategorie. Mustertexte für Loeschkonzept Sperrvermerk Ablehnungsschreiben. EuGH C-129/21 Proximus C-460/20 Google Right to be Forgotten. Abgrenzung: keine reine Auskunft (datenschutz-auskunftsersuchen-art-15-praxis).
 
 ### Datenschutz Loeschpflicht — Art. 17 DSGVO und Aufbewahrung
-
-## Zweck
-
-Dieser Skill loest den haeufigen Konflikt zwischen Loeschpflicht nach Art. 17 DSGVO und gesetzlichen Aufbewahrungspflichten nach Handels-, Steuer- und Sozialrecht so auf, dass weder eine Loeschpflichtverletzung noch eine Aufbewahrungspflichtverletzung entsteht. Ergebnis ist regelmaessig eine Sperrung (Einschraenkung Art. 18 DSGVO) bis zum Ablauf der Aufbewahrungspflicht.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -431,14 +373,6 @@ Datenkategorie 5 (Marketing): nach Widerruf / Widerspruch sofort
 
 **Was triggert die Aufsichtsbehoerde?** Pauschale Ablehnungen ohne konkrete Norm, kein Loeschkonzept, keine Sperrvermerke, fehlende Backup-Strategie.
 
-## Querverweise
-
-- `datenschutz-betroffenenrechte-art-15-22-orchestriert`
-- `datenschutz-auskunftsersuchen-art-15-praxis`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 17, 18, 19, 77.
@@ -451,23 +385,11 @@ Datenkategorie 5 (Marketing): nach Widerruf / Widerspruch sofort
 - EuGH C-460/20 Google, Urteil 08.12.2022.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 5. `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
 
 **Fokus:** Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inhaltlich und taktisch fuehren. Sieben-Fragen-Diagnose: Welche Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG welcher Anlass Pruefung Anhörung Mandant antwortbereit. Schritt-für-Schritt: Mandantenfreigabe zwingend NICHT vorschnell schriftliche Stellungnahme abgeben Akteneinsicht beantragen Frist nutzen. Trade-off-Matrix zwischen Kooperation und Vorsicht. Mustertexte für Antwortbriefe Akteneinsichtsantrag und Bevollmaechtigungsanzeige. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
 
 ### Datenschutz Mandantenkommunikation mit Aufsichtsbehoerden
-
-## Zweck
-
-Dieser Skill leitet die anwaltliche Kommunikation des Mandanten mit der zuständigen Aufsichtsbehoerde — also BfDI für Telekommunikation, Post und bestimmte Bundesbehoerden oder Landesaufsicht für den öffentlichen und privaten Bereich der Länder — so, dass der Mandant in Pruefungs-, Anhörungs- und Beschwerdeverfahren weder seine Position verschlechtert noch Bussgeldakten unnoetig fuettert.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -550,14 +472,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert die Aufsichtsbehoerde besonders?** Schweigen, Floskeln, fehlendes Verarbeitungsverzeichnis Art. 30, kein DSB benannt obwohl § 38 BDSG Schwelle ueberschritten.
 
-## Querverweise
-
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung`
-- `datenschutz-datenpanne-art-33-34-72h-incident-response`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 31, 56, 57, 58, 77, 83.
@@ -568,10 +482,3 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien 04/2022 zur Berechnung der Geldbussen nach DSGVO, angenommen 24.05.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

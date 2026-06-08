@@ -112,23 +112,7 @@ Pruefen Sie, ob es sich lohnt. Bei klar abgeschlossener Sache: einfach akzeptier
 - Bekanntgabedatum statt Bescheidsdatum verwechselt → Bekanntgabe zaehlt
 - Nicht erkennen, dass es Teilabhilfe ist → genau lesen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — das Vorverfahren
-- `teilstattgabe-vollstattgabe-verstehen` — Ergebnis verstehen
-- `klagearten-uebersicht-sgg` — welche Klage
-- `klage-zur-niederschrift-90-sgg` — Klage diktieren
-- `eilantrag-86b-sgg-grundlagen` — wenn parallel Eilantrag noetig
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 87 SGG aktuell. 1-Monats-Frist klar. PostModG 2025 wichtig für Bekanntgabefiktion.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

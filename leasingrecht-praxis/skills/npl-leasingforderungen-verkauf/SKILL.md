@@ -5,10 +5,6 @@ description: "NPL-Leasingforderungen: Definition, Bewertung, Verkaufsprozess, In
 
 # NPL-Leasingforderungen: Verkauf und Restrukturierung
 
-## Arbeitsbereich
-
-NPL-Leasingforderungen: Definition, Bewertung, Verkaufsprozess, Inkasso, regulatorische Anforderungen und Restrukturierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ NPL-Leasingforderungen: Definition, Bewertung, Verkaufsprozess, Inkasso, regulat
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Non-Performing Leases (NPL) sind ausgefallene oder überfällige Leasingverträge. LG müssen diese aktiv managen: Inkasso, Restrukturierung oder Portfolio-Verkauf sind die Optionen. Dieser Skill beschreibt Definitionen, Bewertung und Verkaufsprozess.
 
 ## NPL-Definition im Leasing
 
@@ -116,3 +108,4 @@ EU-Richtlinie 2021/2167 über Kreditdienstleister und Kreditkäufer:
 - **Data-Tape-Vorlage**: Excel-Format für NPL-Portfolio-Verkauf
 - **Forderungskaufvertrag-Checkliste**: R&W, Gewährleistung, Abtretung
 - **KrZwMG-Compliance-Memo**: Registrierungsvoraussetzungen
+

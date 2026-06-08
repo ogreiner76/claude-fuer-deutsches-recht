@@ -5,10 +5,6 @@ description: "Besoldungsnachzahlung praktisch sichern: zeitnahe Geltendmachung, 
 
 # Besoldung - zeitnahe Geltendmachung und Musterverfahren
 
-## Arbeitsbereich
-
-Besoldungsnachzahlung praktisch sichern: zeitnahe Geltendmachung, Widerspruch, Antrag, Musterverfahren, Ruhendstellung, Verjährung, Haushaltsjahrlogik und sichere Mandantenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Besoldungsnachzahlung praktisch sichern: zeitnahe Geltendmachung, Widerspruch, A
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Viele Besoldungsmandate werden nicht an der großen Verfassungsfrage verloren, sondern an der kleinen Verfahrensfrage: Wurde der Anspruch rechtzeitig, klar und nachweisbar geltend gemacht? Dieser Skill baut die Sicherungsschritte.
 
 ## Intake
 
@@ -80,3 +72,4 @@ Vor Ausgabe muss der Text beantworten:
 - Gibt es Zugangsnachweis?
 - Ist eine Ruhendstellung beantragt?
 - Wird nichts Falsches zum sicheren Ausgang versprochen?
+

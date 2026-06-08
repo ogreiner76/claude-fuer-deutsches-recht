@@ -8,6 +8,7 @@ description: "Betrug Stgb Btmg Grundtatbestand im Strafrecht: prüft konkret Bet
 ## Arbeitsbereich
 
 **Betrug Stgb Btmg Grundtatbestand** ordnet den Fall über die tragenden Prüfungslinien: Betrug § 263 StGB Grundtatbestand, BtMG-Grundtatbestand § 29 Abs, BtMG-Qualifikation § 29a BtMG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +31,7 @@ description: "Betrug Stgb Btmg Grundtatbestand im Strafrecht: prüft konkret Bet
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
@@ -231,18 +233,6 @@ Tatbestandsausschluss durch Erlaubnis (§ 3 BtMG, Bundesopiumstelle BfArM).
 **Antrag § 31a BtMG:**
 "Gemaess § 31a BtMG wird angeregt, von der Strafverfolgung abzusehen. Die Tat betrifft eine geringe Menge zum Eigenverbrauch; öffentliches Interesse an der Strafverfolgung ist nicht ersichtlich (vgl. RL-OEAB der Justizverwaltung [Bundesland])."
 
-## Querverweise
-
-- `strafrecht-spezial-btmg-29a-nicht-geringe-menge` (Qualifikation nicht geringe Menge)
-- `strafrecht-spezial-btmg-30-handeltreiben` (banden- und waffenmaessig)
-- `strafrecht-spezial-btmg-30a-schwerer-bandenhandel` (Verbrechen, fuenf Jahre Mindeststrafe)
-- `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge` (Strafmilderung)
-- `strafrecht-spezial-btmg-35-therapie-statt-strafe` (Zurueckstellung)
-- `strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz` (Cannabis-Sonderrecht)
-- `strafrecht-spezial-btmg-nicht-geringe-menge-grenzen` (Mengen-Tabelle)
-- `strafrecht-spezial-btmg-strafverfahren-praxis` (Verteidigungspraxis)
-- `strafrecht-spezial-btmg-konsumeigenbedarf-verteidigung` (Eigenbedarfsstrategie)
-
 ## Quellen Stand 06/2026
 
 - BtMG in der seit 01.04.2024 geltenden Fassung; Anlagen I bis III.
@@ -332,17 +322,6 @@ Beispiel: 50 g Kokain mit 70 Prozent Wirkstoffgehalt = 35 g KHC. Damit deutlich 
 **Antrag minder schwerer Fall § 29a Abs. 2 BtMG:**
 "Es liegt ein minder schwerer Fall im Sinne des § 29a Abs. 2 BtMG vor. Mein Mandant ist nicht vorbestraft, hat ein umfassendes Gestaendnis abgelegt, die nicht geringe Menge wurde nur knapp ueberschritten (Wirkstoffmenge: [X] g, Schwelle [Y] g). Aufklaerungshilfe im Sinne des § 31 BtMG wurde geleistet. Die wirtschaftlichen und persönlichen Verhaeltnisse rechtfertigen die Annahme eines minder schweren Falls."
 
-## Querverweise
-
-- `strafrecht-spezial-btmg-29-grundtatbestand` (Grundtatbestand)
-- `strafrecht-spezial-btmg-30-handeltreiben` (banden- und waffenmaessig)
-- `strafrecht-spezial-btmg-30a-schwerer-bandenhandel` (Verbrechen 30a)
-- `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge` (Strafmilderung)
-- `strafrecht-spezial-btmg-35-therapie-statt-strafe` (Zurueckstellung)
-- `strafrecht-spezial-btmg-nicht-geringe-menge-grenzen` (Mengen-Tabelle)
-- `strafrecht-spezial-btmg-strafverfahren-praxis` (Verteidigung)
-- `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang` (Cannabis-Strafrecht KCanG)
-
 ## Quellen Stand 06/2026
 
 - § 29a BtMG in der seit 01.04.2024 geltenden Fassung.
@@ -429,16 +408,6 @@ Stoffliche Erfassung wie § 29 BtMG; setzt nicht geringe Menge nicht voraus, jed
 **Antrag minder schwerer Fall § 30 Abs. 2 Halbsatz 2 BtMG:**
 "Es ist ein minder schwerer Fall des § 30 BtMG anzunehmen. Mein Mandant war nicht zentrale Figur der Bande, sondern fungierte als Kurier. Er hat ein umfassendes Gestaendnis abgelegt und Aufklaerungshilfe im Sinne des § 31 BtMG geleistet. Eigene Suchtkrankheit ist durch Attest belegt. Die Strafe ist dem § 30 Abs. 2 Halbsatz 2 BtMG zu entnehmen."
 
-## Querverweise
-
-- `strafrecht-spezial-btmg-29-grundtatbestand`
-- `strafrecht-spezial-btmg-29a-nicht-geringe-menge`
-- `strafrecht-spezial-btmg-30a-schwerer-bandenhandel` (hoechste Qualifikation)
-- `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge`
-- `strafrecht-spezial-btmg-35-therapie-statt-strafe`
-- `strafrecht-spezial-btmg-strafverfahren-praxis`
-- `strafrecht-spezial-btmg-nicht-geringe-menge-grenzen`
-
 ## Quellen Stand 06/2026
 
 - § 30 BtMG in der geltenden Fassung.
@@ -524,16 +493,6 @@ Mengen wie § 29a BtMG (BGH-Faustregeln): Heroin 1.5 g HHC, Kokain 5 g KHC, Amph
 
 **Antrag minder schwerer Fall § 30a Abs. 3 BtMG mit Aufklaerungshilfe:**
 "Es ist ein minder schwerer Fall im Sinne des § 30a Abs. 3 BtMG anzunehmen, hilfsweise eine Strafrahmenverschiebung nach § 31 BtMG in Verbindung mit § 49 Abs. 1 StGB. Mein Mandant ist nicht vorbestraft, war nicht zentrale Figur der Bande, sondern fungierte als Kurier ohne organisatorische Verantwortung. Er hat ein umfassendes Gestaendnis abgelegt und Aufklaerungshilfe nach § 31 BtMG geleistet, indem er ueber [Sachverhalt] aufgeklaert hat. Eigene Suchtkrankheit ist durch Attest des Dr. [Name] vom [Datum] belegt."
-
-## Querverweise
-
-- `strafrecht-spezial-btmg-29-grundtatbestand`
-- `strafrecht-spezial-btmg-29a-nicht-geringe-menge`
-- `strafrecht-spezial-btmg-30-handeltreiben`
-- `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge` (zentral)
-- `strafrecht-spezial-btmg-35-therapie-statt-strafe`
-- `strafrecht-spezial-btmg-strafverfahren-praxis`
-- `strafrecht-spezial-btmg-nicht-geringe-menge-grenzen`
 
 ## Quellen Stand 06/2026
 
@@ -628,16 +587,6 @@ Wir beantragen Strafrahmenverschiebung nach § 49 Abs. 1 StGB, hilfsweise Absehe
 **Antrag § 257c StPO Verstaendigung:**
 "Mein Mandant ist bereit, Aufklaerungshilfe nach § 31 BtMG zu leisten und ein umfassendes Gestaendnis abzulegen. Im Rahmen einer Verstaendigung wird eine Strafe nicht ueber [X] Jahren Freiheitsstrafe mit Bewaehrungsvorbehalt angeregt."
 
-## Querverweise
-
-- `strafrecht-spezial-btmg-29a-nicht-geringe-menge`
-- `strafrecht-spezial-btmg-30-handeltreiben`
-- `strafrecht-spezial-btmg-30a-schwerer-bandenhandel`
-- `strafrecht-spezial-btmg-35-therapie-statt-strafe`
-- `strafrecht-spezial-btmg-strafverfahren-praxis`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` (Verstaendigung)
-- `fachanwalt-strafrecht-untersuchungshaft-haftpruefung` (U-Haft im BtMG)
-
 ## Quellen Stand 06/2026
 
 - § 31 BtMG in der geltenden Fassung.
@@ -729,16 +678,6 @@ Begruendung:
 5. Die Reststrafe betraegt weniger als zwei Jahre Freiheitsstrafe.
 
 Ich beantrage die Zurueckstellung gemaess § 35 BtMG und vorläufige Aussetzung der Vollstreckung gemaess § 35 Abs. 6 BtMG."
-
-## Querverweise
-
-- `strafrecht-spezial-btmg-29-grundtatbestand`
-- `strafrecht-spezial-btmg-29a-nicht-geringe-menge`
-- `strafrecht-spezial-btmg-30-handeltreiben`
-- `strafrecht-spezial-btmg-30a-schwerer-bandenhandel`
-- `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge`
-- `strafrecht-spezial-btmg-konsumeigenbedarf-verteidigung`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
 
 ## Quellen Stand 06/2026
 
@@ -847,16 +786,6 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
 - Auflage 1: Mein Mandant absolviert eine ambulante Drogentherapie bei [Stelle] ueber [Dauer].
 - Auflage 2: Mein Mandant zahlt [Betrag] EUR an eine gemeinnuetzige Einrichtung."
 
-## Querverweise
-
-- `strafrecht-spezial-btmg-29-grundtatbestand`
-- `strafrecht-spezial-btmg-29a-nicht-geringe-menge`
-- `strafrecht-spezial-btmg-35-therapie-statt-strafe`
-- `strafrecht-spezial-btmg-strafverfahren-praxis`
-- `strafrecht-spezial-btmg-nicht-geringe-menge-grenzen`
-- `strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz`
-- `strafrecht-spezial-cannabis-uebergangsregeln-altfaelle-amnestie`
-
 ## Quellen Stand 06/2026
 
 - § 31a BtMG in der geltenden Fassung.
@@ -960,16 +889,6 @@ Beispiel: 100 g Kokain, Wirkstoffgehalt 60 Prozent KHC = 60 g KHC = 12-fache nic
 - Wirkstoffmenge: [X] g x [Y] Prozent = [Z] g [Stoff].
 Die nicht geringe Menge ([Schwelle] g) wird damit [Faktor]-fach erreicht/unterschritten. Mein Mandant bestreitet die Wirkstoffberechnung im Detail (Anlage: Gegengutachten Prof. [Name])."
 
-## Querverweise
-
-- `strafrecht-spezial-btmg-29-grundtatbestand`
-- `strafrecht-spezial-btmg-29a-nicht-geringe-menge`
-- `strafrecht-spezial-btmg-30-handeltreiben`
-- `strafrecht-spezial-btmg-30a-schwerer-bandenhandel`
-- `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge`
-- `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang`
-- `strafrecht-spezial-btmg-strafverfahren-praxis`
-
 ## Quellen Stand 06/2026
 
 - BGH staendige Rspr. zur nicht geringen Menge jeweils stoffbezogen:
@@ -1068,15 +987,6 @@ Hilfsweise wird beantragt, die Gesamtstrafe nach § 55 StGB unter Wegfall der Ei
 **Antrag Tilgung Bundeszentralregister:**
 "Nach Erlass der Strafe wegen der Cannabis-Tat beantrage ich Tilgung des Eintrags im Bundeszentralregister."
 
-## Querverweise
-
-- `strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz`
-- `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang`
-- `strafrecht-spezial-kcang-anbauvereinigung-cannabis-club`
-- `strafrecht-spezial-btmg-29-grundtatbestand`
-- `strafrecht-spezial-btmg-29a-nicht-geringe-menge`
-- `strafrecht-spezial-btmg-konsumeigenbedarf-verteidigung`
-
 ## Quellen Stand 06/2026
 
 - KCanG vom 27.03.2024, in Kraft seit 01.04.2024.
@@ -1090,3 +1000,4 @@ Hilfsweise wird beantragt, die Gesamtstrafe nach § 55 StGB unter Wegfall der Ei
 - Generalbundesanwalt Hinweise zur Amnestie-Anwendung (laenderuebergreifend; ergaenzt durch Verlautbarungen der Generalstaatsanwaltschaften).
 - Methodik siehe `references/methodik-buergerliches-recht.md`.
 - Zitierregeln siehe `references/zitierweise.md`.
+

@@ -5,10 +5,6 @@ description: "Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (Ver
 
 # Verl-044 · Verlagsgesetz: Paragraphen-Navigator
 
-## Arbeitsbereich
-
-Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle §§ mit Funktion, Anwendungsfall und Querverweisen zum UrhG und BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -153,3 +149,4 @@ Das **Verlagsgesetz von 1901** (VerlG) ist nach wie vor geltendes Recht für den
 - **Abgrenzungs-Chart**: VerlG vs. BGB-Werkvertrag vs. Lizenzvertrag
 - **Fristenübersicht** aus VerlG
 - **Honorarberechnungs-Leitfaden** nach VerlG §§ 22–28
+

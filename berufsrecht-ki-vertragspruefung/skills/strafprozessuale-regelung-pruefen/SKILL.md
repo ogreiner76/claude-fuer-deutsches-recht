@@ -67,10 +67,6 @@ Bei US-Anbietern oder US-Töchtern greift der US-CLOUD Act und kann § 97 StPO f
 - Keine Pflicht zur Vorab-Information der Kanzlei
 - Nur US-Eskalationspfad, kein deutsches Verfahren möglich
 
-## Output
-
-Tabellarische Bewertung. Defizite fließen in den Rückfragebrief und in die Klauselvorschläge.
-
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -82,9 +78,6 @@ Tabellarische Bewertung. Defizite fließen in den Rückfragebrief und in die Kla
 - § 203 Abs. 4 StGB — Pflicht des Berufsgeheimnisträgers, den Dienstleister auf §§ 203/204 StGB hinzuweisen
 - §§ 43e Abs. 3, 62a Abs. 3 StBerG etc. — Vertragsinhalt
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Ist im Vertrag geregelt, wie der Dienstleister mit behördlichen Auskunftsersuchen umgeht?
@@ -117,3 +110,4 @@ Ergebnis
 Ampel strafprozessuale Absicherung: GRUEN / GELB / ROT
 Handlungsbedarf: [...]
 ```
+

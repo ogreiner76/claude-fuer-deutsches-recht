@@ -38,10 +38,6 @@ description: "Analysiert Sätze zur Arbeitsqualität, Arbeitsbereitschaft, Arbei
 
 **Beispiel 5 – Irreführend positiv:** "Er war in der Lage, auch anspruchsvolle Projekte erfolgreich abzuschließen." → Implikation: nur gelegentlich, Note 3-4.
 
-## Ausgabeformat
-
-Jede Leistungsaussage wird in der Ampeltabelle mit Satz, Teilbereich (Qualität/Tempo/Motivation/Belastbarkeit/Eigeninitiative), Ampelfarbe, Notentendenz und Begründung ausgewiesen. Die Gesamttendenz der Leistungsbeurteilung wird am Ende zusammengefasst.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
@@ -50,3 +46,4 @@ Jede Leistungsaussage wird in der Ampeltabelle mit Satz, Teilbereich (Qualität/
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

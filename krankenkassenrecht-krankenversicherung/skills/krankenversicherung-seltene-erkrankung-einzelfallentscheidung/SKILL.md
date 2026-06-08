@@ -5,10 +5,6 @@ description: "GKV-Leistungsanspruch bei seltenen Erkrankungen: § 2 Abs. 1a SGB 
 
 # Seltene Erkrankung: Einzelfallentscheidung
 
-## Arbeitsbereich
-
-GKV-Leistungsanspruch bei seltenen Erkrankungen: § 2 Abs. 1a SGB V, Nikolaus-Beschluss des BVerfG, Off-Label-Use ohne Nutzenbewertung und Einzelfallgenehmigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Bei seltenen Erkrankungen fehlen oft zugelassene Therapien oder G-BA-Beschlüsse
 - [BSG B 1 KR 37/04 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [ORPHANET Seltene Erkrankungen](https://www.orpha.net)
 - [dejure.org § 2 SGB V](https://dejure.org/gesetze/SGB_V/2.html)
+

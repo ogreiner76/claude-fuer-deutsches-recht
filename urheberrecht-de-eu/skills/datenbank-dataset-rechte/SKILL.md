@@ -5,10 +5,6 @@ description: "Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scrap
 
 # Datenbanken, Datasets und Trainingskorpora
 
-## Arbeitsbereich
-
-Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,3 +79,4 @@ Konkret zu prüfen:
 
 - §§ 87a-87e UrhG (sui generis)
 - § 4 UrhG (Sammelwerk, Datenbankwerk)
+

@@ -5,10 +5,6 @@ description: "Briefing für Vertrieb und Marketing zu einem Verlagsprodukt: Ziel
 
 # Abstimmung mit Vertrieb / Marketing
 
-## Arbeitsbereich
-
-Briefing für Vertrieb und Marketing zu einem Verlagsprodukt: Zielgruppe Kernnutzen Vergleichstitel Preisarchitektur und Material für Katalog Webseite Veranstaltungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -111,14 +107,6 @@ Erscheinungsphasen:
 - Preis erst nach Druck festgelegt - Kalkulation passt nicht.
 - Pressetext / Klappentext ohne Autorenabstimmung.
 - Erscheinungsphasen nicht synchron mit Marketing-Kalender.
-
-## Querverweise
-
-- `metadaten-seo-klappentext` - Klappentext, SEO.
-- `marketing-presse-social` - Presse, Social Media.
-- `sales-katalog-vlb-buchhandel` - Vertriebskatalog, VLB.
-- `verl-buchprojekt-bauleiter` - Buchprojekt allgemein.
-- `verl-abstimmung-mit-produktion-satz-druck` - Produktionsschnittstelle.
 
 ## Quellen Stand 06/2026
 

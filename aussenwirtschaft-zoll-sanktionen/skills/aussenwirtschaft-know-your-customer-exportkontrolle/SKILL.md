@@ -5,10 +5,6 @@ description: "KYC-Prozess für Exportkontrollzwecke: Kundenidentifizierung, Endv
 
 # Know Your Customer im Exportkontrollkontext: Kundenscreening und Endverwenderidentifizierung
 
-## Arbeitsbereich
-
-KYC-Prozess für Exportkontrollzwecke: Kundenidentifizierung, Endverwender-Screening, UBO-Ermittlung nach VO (EU) 2021/821 und BAFA-Anforderungen, Red-Flag-Analyse bei verdaechtigen Bestellmuster und Sanktionslistenabgleich. Output: KYC-Kundenprofil und Freigabe-/Sperrentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ KYC-Prozess für Exportkontrollzwecke: Kundenidentifizierung, Endverwender-Scree
 - UAE, Tuerkei, Armenien als bekannte Umgehungslaender erfordern erhoehte Sorgfalt.
 - EUC-Formulierung 'Eigenbedarf' ohne Angabe des konkreten Verwendungszwecks ist unzureichend.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-KYC-Kundenprofil mit UBO-Kette, Red-Flag-Protokoll, Sanktionsscreening-Ergebnis, Endverwender-Bewertung und Freigabe-/Sperrentscheidung.
-
 ## Quellen
 
 - [BAFA Red-Flags-Merkblatt](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/dual_use_node.html)
 - [VO (EU) 2021/821 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
 - [GwG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwg_2017/index.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+

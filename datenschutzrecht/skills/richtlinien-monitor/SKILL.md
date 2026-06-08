@@ -5,12 +5,6 @@ description: "Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet
 
 # Policy-Monitor – Drift-Monitoring Datenschutzerklärung
 
-## Zweck
-
-Zwei Modi: (1) **Sweep-Modus** – regelmäßiger Abgleich aller Datenschutz-Commitment-Flächen gegen aktuelle Verarbeitungspraxis, um Drift zu erkennen. (2) **Direkt-Modus** – für eine konkrete geplante Änderung prüfen, ob und wie die Datenschutzerklärung angepasst werden muss.
-
-Typische Drifts: neue Tracking-Tool-Integration ohne Datenschutzerklärungsupdate, neuer Sub-AV ohne Empfängerlistenaktualisierung, verlängerte Speicherfristen ohne Ankündigung, neue Drittlandtransfers ohne Transfermechanismus in der Erklärung.
-
 ## Eingaben
 
 - **Sweep-Modus:** Ausgabenordner aus `CLAUDE.md` (wo DSFAs, AVV-Reviews, Triage-Ergebnisse gespeichert sind), Datenschutzerklärungsquelle (URL oder Datei), Liste aktueller Verarbeitungstätigkeiten
@@ -84,21 +78,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Ausgabeformat
-
-**Sweep-Modus:**
-1. Sweep-Datum und geprüfte Quellen
-2. Drift-Tabelle (alle Flächen × alle Dimensionen)
-3. Drift-Klassifikation mit Schwere
-4. Priorisierte Änderungsvorschläge (druckfertige Textbausteine, keine Kommentare im Erklärungstext)
-5. Sweep-Folgeaktionen
-
-**Direkt-Modus:**
-1. Betroffene Art. 13/14-Pflichten
-2. Rechtsgrundlagen-Check
-3. DSFA-Hinweis (falls einschlägig)
-4. Änderungsentwurf für Datenschutzerklärung (Textbausteine)
-
 ## Beispiel (Direkt-Modus)
 
 **Geplante Änderung:** Das Unternehmen möchte einen neuen Analytics-Anbieter mit Sitz in den USA integrieren (bisher EU-only).
@@ -171,3 +150,4 @@ Keine Abweichungen: [LISTE GEPRÜFTER BEREICHE]
 Empfehlung: Aktualisierung bis [DATUM]
 Verantwortlich: [PERSON/ROLLE]
 ```
+

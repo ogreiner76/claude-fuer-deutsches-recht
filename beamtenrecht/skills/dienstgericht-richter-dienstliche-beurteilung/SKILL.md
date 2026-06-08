@@ -5,10 +5,6 @@ description: "Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den
 
 # Dienstgericht für Richter
 
-## Arbeitsbereich
-
-Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensrecht in Anlehnung an das BDG. Behandelt die Konstellationen Verfahren gegen Disziplinarmassnahmen Pruefung der richterlichen Unabhaengigkeit nach § 26 DRiG und Antrag auf Aufhebung der Geschaeftsverteilung. Liefert Pruefraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -70,3 +66,4 @@ Skill für Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidige
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Vorsitzender Richter, Praesidium hat ihm anhaengiges Verfahren entzogen mit Hinweis auf Belastungssituation. Skill liefert Pruefung nach § 26 DRiG und Antrag beim Dienstgericht.
+

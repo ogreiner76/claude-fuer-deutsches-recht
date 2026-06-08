@@ -5,10 +5,6 @@ description: "Bestellungspflicht für Datenschutzbeauftragten prüfen. Art. 37 D
 
 # DSB-Bestellungspflicht und -Anforderungen
 
-## Zweck
-
-Häufige Lücke in Unternehmen: Pflicht zur DSB-Bestellung wird nicht erkannt. Dieses Skill prüft Pflicht, Anforderungen an DSB und löst Folge-Probleme (Interessens-Konflikt, externe vs. interne Bestellung).
-
 ## Eingaben
 
 - Unternehmens-Typ (öffentlich privat)
@@ -347,3 +343,4 @@ Qualifikation ausreichend: ja / nein / unklar
 
 Empfehlung: DSB bestellen (bis [FRIST]) / DSB wechseln / kein Handlungsbedarf
 ```
+

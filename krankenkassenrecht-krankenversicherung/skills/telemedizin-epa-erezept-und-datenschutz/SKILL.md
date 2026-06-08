@@ -5,10 +5,6 @@ description: "Digitalisierung im Gesundheitswesen: Telemedizin, elektronische Pa
 
 # Telemedizin, ePA, eRezept und Datenschutz
 
-## Arbeitsbereich
-
-Digitalisierung im Gesundheitswesen: Telemedizin, elektronische Patientenakte (ePA), elektronisches Rezept (eRezept) – GKV-Leistungsrahmen, Datenschutz und Opt-out. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,3 +91,4 @@ Die Digitalisierung verändert das Krankenversicherungsrecht. Dieser Skill klär
 - [BfDI – Datenschutz Gesundheit](https://www.bfdi.bund.de)
 - [dejure.org § 291a SGB V](https://dejure.org/gesetze/SGB_V/291a.html)
 - [DSGVO Art. 9](https://dsgvo-gesetz.de/art-9-dsgvo/)
+

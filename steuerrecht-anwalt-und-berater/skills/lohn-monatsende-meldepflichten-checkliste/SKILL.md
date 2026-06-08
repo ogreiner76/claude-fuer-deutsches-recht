@@ -99,13 +99,6 @@ Mandant: [Firma]
 - BG-Vorauszahlung jaehrlich oder Vorauszahlung in monatlichen Raten.
 - Jahresmeldungen (siehe stb-lohn-jahresmeldungen-ahn-asn-besondere).
 
-## Output
-
-- Erledigungs-Liste mit Hakerl.
-- LSt-Quittung ELSTER.
-- SV-Beitragsnachweis-Quittungen.
-- Beleg-Datei in Mandantenakte.
-
 ## Strategie und Praxis-Tipps
 
 - Checkliste konsequent durchgehen — fehlende Pflicht kostet Bussgeld oder Saeumniszuschlag.
@@ -114,14 +107,6 @@ Mandant: [Firma]
 - 10. des Folgemonats LSt: harte Frist, sonst Verspaetungszuschlag.
 - StBVV: alle Standardpflichten in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS Erledigungs-Center mit automatischen Erinnerungen.
-
-## Querverweise
-
-- `stb-lohn-lohnsteuer-anmeldung-elster` — LSt-Anmeldung.
-- `stb-lohn-sv-meldungen-dakota-svnet` — sv.net.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-jahresmeldungen-ahn-asn-besondere` — Jahresmeldungen.
-- `stb-lohn-berufsgenossenschaft-bg-meldung-jahresende` — BG.
 
 ## Quellen und Updates
 
@@ -133,10 +118,3 @@ Stand: 05/2026.
 - AO §§ 152, 240.
 - StGB § 266a.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

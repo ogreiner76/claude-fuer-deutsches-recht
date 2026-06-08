@@ -5,10 +5,6 @@ description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des 
 
 # Rom Roemische Obligationenlehre Im Handelsrecht Des Mitt
 
-## Arbeitsbereich
-
-Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Roemische Obligationenlehre im Handelsrecht des Mittelalters.
-
 ## Lex mercatoria
 
 - Mittelalterliches Handelsrecht (12.-18. Jh.).
@@ -61,6 +53,3 @@ Roemische Obligationenlehre im Handelsrecht des Mittelalters.
 2. Roemische Wurzel?
 3. Moderne Aequivalenz?
 
-## Output
-
-- Handelsrechtsgeschichte.

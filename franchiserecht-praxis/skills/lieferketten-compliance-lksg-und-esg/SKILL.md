@@ -5,10 +5,6 @@ description: "Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüf
 
 # Franchiserecht: Lieferketten-Compliance, LkSG und ESG
 
-## Arbeitsbereich
-
-Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber mit mehr als 3.000 Mitarbeitern (LkSG-Schwellenwert ab 2024: 
 - Weitergabeklauseln im Franchisevertrag fehlen; Franchisenehmer verpflichten ihre Lieferanten nicht zu Mindeststandards.
 - EU-Lieferkettenrichtlinie ab 2027 verschärft Anforderungen erheblich; keine Vorbereitungsstrategie.
 
-## Output
-
-- LkSG-Anwendbarkeitsanalyse für Franchisesystem
-- Risikoanalyse-Vorlage (Lieferantenmatrix)
-- Beschwerdeverfahren-Muster für Franchisesystem
-- LkSG-Weitergabeklausel für Franchisevertrag
-
 ## Quellen
 
 - https://gesetze-im-internet.de/lksg/
@@ -71,6 +60,7 @@ Ein Franchisegeber mit mehr als 3.000 Mitarbeitern (LkSG-Schwellenwert ab 2024: 
 - https://gesetze-im-internet.de/lksg/__10.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1760
 - https://dejure.org/gesetze/BGB/307.html
+
 ## Vertiefung
 
 Das Lieferkettensorgfaltspflichtengesetz (LkSG) gilt seit dem 1. Januar 2023 für Unternehmen mit mindestens 3.000 Mitarbeitern in Deutschland; seit dem 1. Januar 2024 für Unternehmen mit mindestens 1.000 Mitarbeitern. Die EU-Lieferkettenrichtlinie (CSDDD) wird ab 2027 schrittweise für deutlich mehr Unternehmen gelten.
@@ -84,7 +74,10 @@ Für Franchisesysteme ist die Frage entscheidend, ob Franchisenehmer als Teil de
 - Beschwerdeverfahren für Hinweisgeber aus dem Franchisesystem BAFA-konform gestalten.
 - LkSG-Weitergabeklauseln im Franchisevertrag so formulieren, dass Franchisenehmer Lieferantensorgfaltspflichten ohne unverhältnismässigen Aufwand erfüllen können.
 - EU-CSDDD-Entwicklung beobachten; frühzeitige Anpassung der Compliance-Struktur spart spätere Kosten.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

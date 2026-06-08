@@ -5,10 +5,6 @@ description: "Eisenbahn / Anreizsetzung Schiene: anwaltlicher für Verfahren, An
 
 # Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach § 39 ERegG
 
-## Arbeitsbereich
-
-Eisenbahn / Anreizsetzung Schiene: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,11 +55,6 @@ Anwaltliche Begleitung des Anreizsetzungssystems (ASS) für Pünktlichkeit und Z
 - BVerwG/VG Köln-Rechtsprechung mit Datum, Az., freier Fundstelle.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Stellungnahme oder Beschwerde (10–25 Seiten).
-- Datenanlagen (Verspätungsdaten, Malus-Tabellen).
-- Risikoampel: Erfolgsaussicht beim BNetzA-Verfahren und beim VG Köln.
-
 ## Beispiele
 - EVU rügt unverhältnismäßigen Malus bei Verspätungen, die durch Bautätigkeit des EIU verursacht wurden. Bezug auf § 39 i. V. m. Verursacherprinzip.
 - EIU verteidigt Differenzierung Personen- vs. Güterverkehr mit unterschiedlichen Pünktlichkeitsmetriken.
@@ -71,3 +62,4 @@ Anwaltliche Begleitung des Anreizsetzungssystems (ASS) für Pünktlichkeit und Z
 
 ## Qualitätsgate
 ASS-Definition und Verspätungs-Schwellen klar? Datenbasis vor Streitwert genau beziffert? Diskriminierungs-Maßstab vergleichend belegt? Verfahrensstand bei der BNetzA korrekt eingeordnet? Eil-Optionen § 68 ERegG / VG Köln benannt?
+

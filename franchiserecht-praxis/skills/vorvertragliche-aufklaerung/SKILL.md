@@ -5,10 +5,6 @@ description: "Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen:
 
 # Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose
 
-## Arbeitsbereich
-
-Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen: Disclosure-Dokument, Rentabilitätsprognose, BGH-Linie zu culpa in contrahendo. Schadensersatz- und Anfechtungsrisiken bewerten. Perspektive Franchisegeber oder Franchisenehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Ein Franchisenehmer wirft dem Franchisegeber vor, vor Vertragsschluss falsche od
 - Verjährung wird übersehen, weil der Schaden erst nach Jahren evident wird; auf § 199 Abs. 3 BGB achten.
 - Anfechtungserklärung muss unverzüglich nach Kenntnis der Täuschung erfolgen (§ 121 BGB).
 
-## Output
-
-- Haftungsanalyse: cic vs. Anfechtung vs. Dauerschuldverhältnisbeendigung
-- Disclosure-Audit-Bericht für den Franchisegeber
-- Schadensberechnung (Vertrauens- und Erfüllungsschaden)
-- Entwurf Anfechtungs- oder Schadensersatzschreiben
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/311.html
@@ -72,6 +61,7 @@ Ein Franchisenehmer wirft dem Franchisegeber vor, vor Vertragsschluss falsche od
 - https://openjur.de/
 - https://www.bgh.de/
 - https://dejure.org/gesetze/BGB/195.html
+
 ## Vertiefung
 
 Die BGH-Entscheidung NJW 2003 S. 743 ist die zentrale Leitentscheidung zur vorvertraglichen Aufklärung im Franchiserecht. Der BGH hat festgestellt, dass der Franchisegeber alle ihm bekannten Umstände mitteilen muss, die für die Entscheidung des Franchisenehmers zum Vertragsschluss wesentlich sind. Dazu gehören insbesondere Daten über die wirtschaftliche Lage des Systems, negative Vergangenheitserfahrungen und erkennbare Marktrisiken.
@@ -85,7 +75,10 @@ Die Rentabilitätsprognose muss auf einer nachvollziehbaren Datenbasis beruhen. 
 - Schadensberechnung frühzeitig strukturieren: Was hätte der Franchisenehmer ohne den Vertragsschluss verdient?
 - Anfechtungsfrist § 124 BGB überwachen; 1 Jahr ab Kenntnis der Täuschung.
 - Bei Fahrlässigkeit des Franchisegebers § 280 Abs. 1 BGB; bei Vorsatz § 123 BGB-Anfechtung möglich.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

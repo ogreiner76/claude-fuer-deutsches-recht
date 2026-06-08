@@ -19,12 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Aufgabe
-
-China-Geschäft ohne Illusionen und ohne Reflexe: freiheitsbewusst, regelgebunden, de-risked, dokumentiert und wirtschaftlich handlungsfähig.
-
-Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Fachmodule dieses Plugins vor.
-
 ## Startfragen
 
 1. Was soll entstehen: Verständnis, Gutachten, Vertragsbaustein, Risiko-Dashboard, Unterrichtseinheit, Board-Memo oder Streitstrategie?
@@ -40,6 +34,3 @@ Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und
 - Lieferkette: LkSG, CSDDD, Forced-Labour-Risiko, Audit, Customs, Trade Defence
 - China-spezifisch: Daten/Cybersecurity, IP, JV/WFOE, Tech Transfer, National-Security- und Retaliation-Risiken
 
-## Qualitätsregel
-
-Keine Blindzitate, keine Paywall-Fundstellen ohne Nutzerquelle, keine erfundenen historischen Linien. Soft-Law und Handelsbräuche werden nur mit ihrer richtigen Bindungswirkung verwendet. Politisch sensible Wirtschaftsfragen werden freiheits-, menschenrechts- und compliancebewusst geprüft.

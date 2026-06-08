@@ -5,10 +5,6 @@ description: "Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von
 
 # KHEntgG Budgetverhandlung DRG PEPP Abgrenzung
 
-## Arbeitsbereich
-
-Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychiatrie/Psychosomatik), strukturiert E1- und L-Datensatz, AEB-Forderungen, Vereinbarung mit Kassen oder Schiedsstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,14 +74,6 @@ Die jaehrliche Budgetverhandlung legt für jede Klinik den Erloesrahmen fest. **
 - Verhandlung mit falschen Kostentraegerverbaenden (Ersatzkassen vs. AOK getrennt).
 - Frist zur Schiedsstellenanrufung versaeumt (haeufig 6 Wochen nach erklaertem Scheitern).
 
-## Querverweise
-- `vorhalteverguetung-leistungsgruppen-krankenhausreform`
-- `schiedsstellenverfahren-krankenhausentgelt`
-- `pflegebudget-vereinbarung-nachweis-risiken`
-- `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung`
-- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
-- `krankenhausfinanzierungsgesetz-khg-grundstruktur`
-
 ## Quellen Stand 06/2026
 - KHEntgG i. d. F. KHVVG (12/2024).
 - BPflV i. d. F. 2025.
@@ -93,3 +81,4 @@ Die jaehrliche Budgetverhandlung legt für jede Klinik den Erloesrahmen fest. **
 - InEK G-DRG- und PEPP-Kataloge 2026 (Live-Check: g-drg.de).
 - BSG, staend. Rspr. zu Budgetverhandlung und Schiedsstellenentscheidungen.
 - BMG-FAQ zur Konvergenzphase (Live-Check: bundesgesundheitsministerium.de).
+

@@ -5,10 +5,6 @@ description: "Analysiert die Rechtsstellung des nebenberuflichen Handelsvertrete
 
 # Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung
 
-## Arbeitsbereich
-
-Analysiert die Rechtsstellung des nebenberuflichen Handelsvertreters: Vollständige Anwendung der §§ 84-92c HGB, Besonderheiten bei geringem Vertragsumfang, Scheinselbständigkeit bei nur einem Auftraggeber, Sozialversicherungsrecht sowie Steuerrecht für nebenberufliche Selbständige. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 - Sozialversicherungspflicht übersehen — Nachforderungsrisiko.
 - Nebenberufliche Handelsvertretereinkünfte steuerlich nicht deklariert.
 
-## Output
-
-Statusprüfung nebenberuflicher Handelsvertreter, Ausgleichsberechnung, Steuerliche Einordnung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
 - [§ 92a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92a.html)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
+

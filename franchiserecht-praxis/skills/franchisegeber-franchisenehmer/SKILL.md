@@ -44,13 +44,6 @@ Ein Franchisegeber oder ein Franchisenehmer tritt erstmals an die Kanzlei heran.
 - Systemhandbücher werden als blosse Anlage übergangen, obwohl sie vertragsrelevante Pflichten und AGB enthalten.
 - Marktdaten in der Rentabilitätsprognose werden unkritisch übernommen, ohne die Haftungsgrundlage zu prüfen.
 
-## Output
-
-- Systemakte-Checkliste (Dokumente, Fristen, Parteien, Schutzrechte)
-- Erstmemo mit Rollenklärung und erstem Handlungsplan
-- Fristenkalender
-- Offene Beweisfragen mit Sicherungshinweisen
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/311.html
@@ -59,6 +52,7 @@ Ein Franchisegeber oder ein Franchisenehmer tritt erstmals an die Kanzlei heran.
 - https://dejure.org/gesetze/MarkenG/3.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
 - https://dejure.org/gesetze/GWB/1.html
+
 ## Vertiefung
 
 Franchiserecht ist kein eigener gesetzlich geregelter Vertragstyp im BGB. Es handelt sich um ein Dauerschuldverhältnis mit typengemischten Elementen aus Lizenzrecht (Marke, Know-how), Dienstleistungsrecht (Schulung, Unterstützung) und Kaufrecht (Warenbezug). Das hat unmittelbare Folgen für die Rechtsanwendung: Lücken im Franchisevertrag werden durch analoge Anwendung der am nächsten liegenden gesetzlichen Regelung geschlossen.
@@ -72,7 +66,10 @@ Die BGH-Rechtsprechung hat klargestellt, dass der Franchisegeber eine umfassende
 - Disclosure-Dokument auf Vollständigkeit nach DFV-Code of Ethics prüfen.
 - Bei Unsicherheit über Vertragstyp (Franchise vs. Handelsvertreter) immer § 89b HGB-Ausgleichsanspruch vorsorglich prüfen.
 - Keine Bewertung von Rentabilitätsprognosen aus dem Kopf heraus; eigene Recherche oder Sachverständiger erforderlich.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

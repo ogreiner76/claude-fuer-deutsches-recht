@@ -5,10 +5,6 @@ description: "Umsatzmeldepflichten und Royalty-Audit im Franchiserecht durchsetz
 
 # Franchiserecht: Umsatzmeldung, Audit und Nachzahlung
 
-## Arbeitsbereich
-
-Umsatzmeldepflichten und Royalty-Audit im Franchiserecht durchsetzen: Pflicht zur korrekten Umsatzreportierung, Revisionsrecht des Franchisegebers nach § 259 BGB, Nachzahlungsansprüche bei Falschmeldung, Verjährung und Beweislastverteilung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber stellt im Rahmen eines Jahresaudits fest, dass ein Franchisen
 - Verjährung älterer Nachzahlungsansprüche wird übersehen; Ansprüche aus Jahren vor dem Audit sind bereits verjährt.
 - Strafanzeige wegen Betrugs eskaliert den Streit und zerstört die Geschäftsbeziehung ohne Mehrwert.
 
-## Output
-
-- Nachzahlungsberechnung (tabellarisch)
-- Nachzahlungsforderungsschreiben
-- Audit-Verfahrensordnung (Franchisegeber-Perspektive)
-- Verjährungs-Checkliste für Royalty-Ansprüche
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/259.html
@@ -71,6 +60,7 @@ Ein Franchisegeber stellt im Rahmen eines Jahresaudits fest, dass ein Franchisen
 - https://dejure.org/gesetze/BGB/195.html
 - https://gesetze-im-internet.de/stgb/__263.html
 - https://dejure.org/gesetze/BGB/314.html
+
 ## Vertiefung
 
 Die Umsatzmeldepflicht ist für das Franchisesystem wirtschaftlich zentral: Die Lizenzgebühren basieren typischerweise auf dem gemeldeten Umsatz. Systematische Falschmeldungen können den Franchisegeber um erhebliche Beträge schädigen und bilden einen wichtigen Grund für eine fristlose Kündigung.
@@ -84,7 +74,10 @@ Für den Nachweis von Falschmeldungen nutzt der Franchisegeber typischerweise PO
 - Revisionsrecht auf externe Wirtschaftsprüfer ausweiten; Kosten bei positiv festgestellten Falschmeldungen dem Franchisenehmer auferlegen.
 - Vertragsstrafe für vorsätzliche Falschmeldung als schwere Pflichtverletzung qualifizieren; kein Abmahnungserfordernis.
 - Strafrechtliches Risiko des Franchisenehmers (§ 263 StGB, Betrug) bei systematischen Falschmeldungen kommunizieren.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

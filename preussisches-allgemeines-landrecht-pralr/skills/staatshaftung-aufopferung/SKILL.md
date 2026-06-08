@@ -5,12 +5,6 @@ description: "PrALR: Einleitung §§ 74 und 75, Aufopferung, enteignender/enteig
 
 # Aufopferung
 
-## Aufgabe
-
-Beginne mit heutigem Anspruchssystem und zeige dann, ob PrALR nur historischer Ausgangspunkt oder fortwirkendes Gewohnheitsrecht ist.
-
-Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staaten als historischer Normquelle. Er behandelt das PrALR nicht als dekorativen Alttext, sondern als konkrete Quelle mit Ausgabejahr, Textzeugen, Geltungsraum, systematischem Ort und möglicher heutiger Fortwirkung.
-
 ## Startfragen
 
 1. Welche Quelle liegt vor: Scan, OCR, PDF, Transkription, Sekundärtext, Urteil oder Aktenvermerk?
@@ -47,10 +41,3 @@ ALR-Loesung: Einl. §§ 74-75 — rechtmäßige hoheitliche Handlung; Sonderopfe
 - Subsidiaer zu Spezialgesetzen (SGB XIV, PolG der Länder, OEG bis 31.12.2023, StVG).
 - Abgrenzung: Art. 14 III GG (Enteignung) — Eigentumsentziehung; Art. 34 GG iVm § 839 BGB (Amtshaftung) — rechtswidrige Eingriffe; Aufopferung — alle uebrigen rechtmäßigen Eingriffe.
 
-## Ausgabeformat
-
-- **Kurzbefund:** Was sagt die Quelle sicher?
-- **Textzeugenstand:** Welche Fassung wurde benutzt und wo ist sie unsicher?
-- **Historische Einordnung:** Systemstelle, Geltungsraum, gesellschaftliche Funktion.
-- **Heutiger Anschluss:** Fortwirkung, Gewohnheitsrecht, bloße Dogmengeschichte oder keine heutige Relevanz.
-- **Nächster Schritt:** zweite Quelle, Scan-Gegenprobe, aktuelles Landesrecht oder Rechtsprechungsrecherche.

@@ -5,10 +5,6 @@ description: "Formulare und Portale im gewerblichen Rechtsschutz: Welches Formul
 
 # Spezial: Formulare, Portale und Einreichungswege
 
-## Arbeitsbereich
-
-Formulare und Portale im gewerblichen Rechtsschutz: Welches Formular wird für welches Verfahren bei DPMA, EUIPO, EPA, BPatG und Gerichten benötigt? Einreichungswege, technische Voraussetzungen und Fehlervermeidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -177,16 +173,9 @@ Mandatsbezug: Anwalt fragt: Welches Formular verwende ich für den DPMA-Widerspr
 4. Datum der Einreichung sofort ins Fristenbuch.
 5. Kopien aller eingereichten Dokumente in eigener Akte aufbewahren.
 
-## Quellenregel
-
-- DPMA: [dpma.de/service/formulare](https://www.dpma.de/service/formulare/index.html)
-- EUIPO: [euipo.europa.eu/en/trade-marks/apply-for-a-trade-mark](https://www.euipo.europa.eu/en/trade-marks/apply-for-a-trade-mark)
-- EPA: [epo.org/en/applying/online-filing](https://www.epo.org/en/applying/online-filing)
-- BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de)
-- Formulare und Gebühren immer über offizielle Webseiten prüfen; Drittquellen können veraltet sein.
-
 ## Anschluss-Skills
 
 - `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Verfahren
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
+

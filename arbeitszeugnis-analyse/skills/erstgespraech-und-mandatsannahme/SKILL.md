@@ -90,9 +90,6 @@ Nach Mandatsannahme folgt die Ampelanalyse mit den Skills zur Notenmatrix, Drift
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — Erstgesprächs-Einstieg
 
 1. Wann wurde das Zeugnis ausgestellt und wann übergeben?
@@ -100,3 +97,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 3. Welche Unterlagen hat der Mandant bereits mitgebracht?
 4. Welches Ziel hat der Mandant konkret? (Gesamtnote verbessern / einzelne Passagen / Schlussformel)
 5. Steht ein Vorstellungsgespräch an? → Eilbedürftigkeit prüfen!
+

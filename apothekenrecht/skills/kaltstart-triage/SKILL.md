@@ -86,11 +86,6 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `import-einzelimport-73-amg` | Import Einzelimport § 73 AMG |
 | `gefahrstoffe-chemikalien-ausgangsstoffe` | Gefahrstoffe Chemikalien Ausgangsstoffe |
 
-## Quellenregel
-Vor tragenden Aussagen immer aktuelle Normtexte, amtliche Behördenseiten, EU-Texte oder frei zugängliche Entscheidungen prüfen. Keine BeckRS-/juris-/Kommentarzitate aus Modellwissen. Wenn eine Quelle nicht verifizierbar ist, deutlich sagen und nicht als Beleg verwenden.
-
-<!-- BEGIN ACTUAL-SKILL-ROUTING -->
-
 ## Aktuelle Anschluss-Skills
 
 Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wenn ein Nutzer nach dem Einstieg weitergeleitet werden soll, nimm bevorzugt diese Namen.
@@ -163,3 +158,4 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `widerruf-ruecknahme-ruhen-apothekenerlaubnis` | Widerruf Rücknahme Ruhen Apothekenerlaubnis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB... |
 
 <!-- END ACTUAL-SKILL-ROUTING -->
+

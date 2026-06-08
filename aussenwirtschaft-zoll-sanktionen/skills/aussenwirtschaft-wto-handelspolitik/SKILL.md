@@ -5,10 +5,6 @@ description: "WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext für Impo
 
 # WTO-Handelspolitik: GATT Schutzmassnahmen und EU-Handelsverteidigung
 
-## Arbeitsbereich
-
-WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext für Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung für Unternehmen bei EU-Massnahmen und Streitbeilegungsverfahren. Output: WTO-Kontext-Vermerk und handelspolitisches Risikoradar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext für Importzuschlaege A
 - Schutzmassnahmen und Antidumping-Zoelle koennen kumulativ auf dieselbe Ware angewendet werden.
 - Circumvention-Ermittlungen koennen Massnahmen auf Drittland-Exporteure ausdehnen.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-WTO-Kontext-Vermerk mit Massnahmen-Analyse, Verfahrensrechte-Checkliste und handelspolitisches Risikoradar für laufende und potenzielle Massnahmen.
-
 ## Quellen
 
 - [VO (EU) 2016/1036 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1036)
 - [WTO Antidumping](https://www.wto.org/english/tratop_e/adp_e/adp_e.htm)
 - [EU-Kommission Trade Defence](https://trade.ec.europa.eu/access-to-markets/en/trade-defence)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+

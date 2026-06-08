@@ -47,6 +47,7 @@ LuftFzgG §§ 22-28 ZPO §§ 864-871 Cape Town Convention Art. 8-10 InsO §§ 50
 - **LuftFzgG § 4**: Pfandrechtseintragung beim AG Braunschweig; konstitutive Wirkung.
 - **LuftFzgG § 25**: Pfandrechtsvollstreckung; Verwertung durch Versteigerung.
 - **ZPO § 864**: Pfändung eingetragener Luftfahrzeuge; besonderer Vollstreckungsweg.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -57,6 +58,7 @@ LuftFzgG §§ 22-28 ZPO §§ 864-871 Cape Town Convention Art. 8-10 InsO §§ 50
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist die Rangfolge konkurrierender Pfandrechte (national vs. Cape Town) klar ermittelt?
 8. Ist das Pfandrecht bei Weiterveräußerung des Luftfahrzeugs erloschen (LuftFzgG § 27)?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -75,9 +77,6 @@ Die Registerauswertung ist Grundlage jeder luftrechtlichen Due-Diligence-Prüfun
 - **ICAO International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
 - **Registerauszug Aktualität**: Stets aktuellen Auszug anfordern; veraltete Auszüge führen zu Haftungsrisiken.
 
-## Output
-
-Strukturierter Vermerk zu Registerpfandrecht – Pfändung planen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Registerauszug-Analyse mit Rangfolge. Vollstreckungsfahrplan.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -104,3 +103,4 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

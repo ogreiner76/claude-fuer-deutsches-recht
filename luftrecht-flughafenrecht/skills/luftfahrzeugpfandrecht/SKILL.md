@@ -5,10 +5,6 @@ description: "Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfa
 
 # Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstreckung
 
-## Arbeitsbereich
-
-Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfandrechtsinhaber will vollstrecken. Prueft LuftFzgG §§ 1-28 Entstehung Rang Durchsetzung Eintragung AG Braunschweig und Abgrenzung zu Cape Town Convention International Interest und liefert Sicherungsstrategie-Vermerk und Vollstreckungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -41,6 +37,7 @@ Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfandrechtsinhabe
 - **Cape Town Convention Art. 2**: Internationales Sicherungsinteresse.
 - **Aircraft Protocol Art. IX**: Rangverhältnis; Eintragungszeitpunkt im ICAO-Register entscheidend.
 - **InsO § 50**: Absonderungsrecht des Pfandgläubigers in Insolvenz.
+
 ## Prüfraster
 
 1. Ist Pfandrecht korrekt im AG Braunschweig eingetragen?
@@ -64,10 +61,6 @@ Das Luftfahrzeugpfandrecht verbindet nationales Sachenrecht mit dem internationa
 - **Rangkonflikt**: Nationales Pfandrecht (LuftFzgG) und Cape-Town-Sicherungsinteresse können konkurrieren; Priorität richtet sich nach Eintragungsdatum im jeweiligen Register.
 - **Vollstreckung**: Pfandrechtsverwertung erfolgt durch öffentliche Versteigerung; ZPO § 864 regelt den besonderen Vollstreckungsweg für Luftfahrzeuge.
 - **Internationaler Arrest**: Luftfahrzeug kann im Ausland nach nationalen Regeln oder Cape-Town-Mechanismus arretiert werden; Koordination mit Local Counsel erforderlich.
-
-## Output
-
-Sicherungsstrategie-Vermerk mit Pfandrechtsbestellung inkl. Cape-Town-Check. Ranganalyse-Tabelle. Vollstreckungs-Checkliste.
 
 ## Quellen
 
@@ -95,3 +88,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

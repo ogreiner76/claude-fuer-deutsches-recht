@@ -51,10 +51,6 @@ description: "Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von
 - Internationale Gerichtsstandsvereinbarungen werden vereinbart, ohne die Vollstreckbarkeit von Urteilen im Zielland zu prüfen.
 - Der Verbrauchergerichtsstand nach Brüssel Ia wird bei Online-Verträgen nicht beachtet.
 
-## Output
-
-Das Skill liefert einen strukturierten Schnittstellen-Check: Identifikation des internationalen Anknüpfungspunkts, Kollisionsrechtsprüfung mit Ergebnis, Empfehlung zur Vertragsgestaltung (Rechtswahl, Gerichtsstand, Schiedsklausel) und Risikohinweise zur Vollstreckbarkeit. Geeignet als Bestandteil von Vertragsreviews und internationalen Mandaten.
-
 ## Quellen
 
 - [Rom-I-Verordnung auf eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32008R0593)
@@ -86,3 +82,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

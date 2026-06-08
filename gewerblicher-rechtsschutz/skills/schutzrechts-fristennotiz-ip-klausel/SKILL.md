@@ -5,10 +5,6 @@ description: "Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung 
 
 # Spezial: Schutzrechts-Fristennotiz und nächster Schritt
 
-## Arbeitsbereich
-
-Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung aller relevanten Fristen bei einem IP-Mandat, sofortige Bewertung der Handlungsdringlichkeit und konkreter nächster Schritt für Anwalt und Mandant. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -188,3 +184,4 @@ Bis wann: 15.04.2025 (Puffer von 2 Wochen vor Fristende)
 - `workflow-fristen-und-risikoampel` – Fristen
 - `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` – Mandanteninfo
 - `workflow-dokumentenintake` – Dokumentenerfassung
+

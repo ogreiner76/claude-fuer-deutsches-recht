@@ -5,10 +5,6 @@ description: "Verkehrsowi Akteneinsicht Messakte: ordnet Normen, Nutzerangaben, 
 
 # Akteneinsicht und Messakte im OWi-Verfahren
 
-## Arbeitsbereich
-
-Verkehrsowi Akteneinsicht Messakte: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,9 +34,6 @@ Verkehrsowi Akteneinsicht Messakte: ordnet Normen, Nutzerangaben, Fristen, Beleg
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vollstaendige Messakte — Was muss enthalten sein?
 
 ```
@@ -106,3 +99,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Unvollstaendige Messakte immer schriftlich ruegen.
 - Verweigerung — Beschwerde sofort; nicht akzeptieren.
 - Anwaltliche Endkontrolle bei jedem Schritt.
+

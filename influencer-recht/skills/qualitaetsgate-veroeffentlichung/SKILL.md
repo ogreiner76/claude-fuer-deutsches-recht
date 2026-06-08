@@ -5,10 +5,6 @@ description: "Influencer-Recht: Qualitätsgate vor Veröffentlichung – systema
 
 # Influencer-Recht: Qualitätsgate – Freigabe vor Veröffentlichung
 
-## Arbeitsbereich
-
-Influencer-Recht: Qualitätsgate vor Veröffentlichung – systematischer Freigabe-Check für alle rechtlichen Pflichten vor einem Creator-Post. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -108,3 +104,4 @@ Das Qualitätsgate ist der finale Compliance-Check vor Veröffentlichung eines B
 - Freigabe-Ampel-Bericht
 - Korrektur-Anleitung für gelbe/rote Punkte
 - Post-Freigabeformular (mit Unterschrift Brand + Creator)
+

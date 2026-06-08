@@ -5,10 +5,6 @@ description: "Preisempfehlungen und Preisbindungen im Franchisesystem kartellrec
 
 # Franchiserecht: Preisempfehlung, Preisbindung und Wettbewerbsrecht
 
-## Arbeitsbereich
-
-Preisempfehlungen und Preisbindungen im Franchisesystem kartellrechtlich einordnen: unverbindliche Preisempfehlung vs. verbotene Preisbindung zweiter Hand nach Art. 4 lit. a Vertikal-GVO und § 21 GWB. Druckmittel und Anreize als verdeckte Preisbindung erkennen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,13 +51,6 @@ Ein Franchisegeber gibt seinen Franchisenehmern Preislisten mit empfohlenen Verk
 - Preisbindung in Systemhandbuch tarnt sich als Qualitäts- oder Markenstandard.
 - Beweissicherungspflicht: Interne Kommunikation zu Preisen kann belastend sein; E-Mail-Archivierung beachten.
 
-## Output
-
-- Kartellrechtliches Risikorating der Preisregeln (Ampel)
-- Compliance-Hinweise für Preiskommunikation im System
-- Verteidigungsmemo bei Kartellbehördenermittlung
-- Empfehlung für konforme Preisempfehlungsstrategie
-
 ## Quellen
 
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
@@ -70,6 +59,7 @@ Ein Franchisegeber gibt seinen Franchisenehmern Preislisten mit empfohlenen Verk
 - https://dejure.org/gesetze/GWB/81.html
 - https://dejure.org/gesetze/BGB/307.html
 - https://gesetze-im-internet.de/gwb/__21.html
+
 ## Vertiefung
 
 Die Grenze zwischen zulässiger unverbindlicher Preisempfehlung und verbotener Preisbindung zweiter Hand ist in der Praxis fliessend. Entscheidend ist nicht der Wortlaut der Empfehlung, sondern die tatsächliche Wirkung: Werden Franchisenehmer durch direkte oder indirekte Massnahmen veranlasst, die empfohlenen Preise einzuhalten?
@@ -83,9 +73,12 @@ Das Bundeskartellamt hat in mehreren Entscheidungen klargestellt, dass auch verd
 - Dokumentation: Preisempfehlung als ausdrücklich unverbindlich kennzeichnen.
 - Bei Kartellbehörden-Anfrage unverzüglich Rechtsrat einholen; Mitarbeiter zu Aussagen instruieren.
 - Compliance-Programm für Vertriebsmitarbeiter entwickeln: Was darf gesagt werden bei Franchisenehmern über Preise?
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
 
 ## Abgrenzung und Einordnung
+

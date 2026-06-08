@@ -53,10 +53,6 @@ description: "Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht
 - Vorabentscheidungsersuchen werden nicht gestellt, obwohl die Auslegungsfrage nicht gesichert ist — das begründet Staatshaftungsansprüche.
 - Erwägungsgründe werden als unverbindliche Präambeln abgetan, obwohl sie zentrale Auslegungshilfen sind.
 
-## Output
-
-Das Skill liefert eine unionsrechtliche Auslegungsanalyse: Begriffsbestimmung nach allen relevanten Sprachfassungen, Auswertung der EuGH-Rechtsprechung, Analyse der nationalen Umsetzungskonformität und Empfehlung, ob ein Vorabentscheidungsersuchen geboten ist. Geeignet als Schriftsatzbaustein in Verfahren mit Unionsrechtsbezug.
-
 ## Vertiefung: Rangverhältnis der Sprachfassungen nach EuGH-Formel
 
 Der EuGH hat in ständiger Rechtsprechung entschieden, dass alle Sprachfassungen des EU-Rechts gleich authentisch sind und bei Divergenzen nach dem Geist und Zweck des Rechtsakts aufgelöst werden müssen. Die Formel "im Lichte aller Amtssprachen und des Ziels der Regelung" ist der Ausgangspunkt. Dabei kommt dem effet utile besondere Bedeutung zu: Die Auslegung muss die praktische Wirksamkeit des Unionsrechts sicherstellen.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 288 AEUV bei dejure](https://dejure.org/gesetze/AEUV/288.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

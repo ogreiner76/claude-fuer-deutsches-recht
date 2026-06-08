@@ -118,9 +118,6 @@ Bei DSA-Designation und DMA-Gatekeeper-Benennung ist das Unternehmen **Adressat 
 - Art. 33 DSA — VLOP-Designation durch Kommission
 - Art. 3 DMA — Gatekeeper-Designation durch Kommission
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Ist der Mandant Adressat des Kommissionsbeschlusses (VLOP/Gatekeeper)?
@@ -175,3 +172,4 @@ Antrag:
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

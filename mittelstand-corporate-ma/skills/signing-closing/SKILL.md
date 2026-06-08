@@ -29,9 +29,6 @@ Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolv
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
 
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Distressed M&A, StaRUG/Insolvenz, Liquidität und steuerliche Strukturfolgen**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
-
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
 - "Ich habe hier StaRUG und Insolvenzplan und brauche einen belastbaren nächsten Schritt."
@@ -114,10 +111,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### StaRUG und Insolvenzplan
 
-## Zweck
-
-Unterstuetzt Restrukturierungsfaelle mit Planoptionen, Glaeubigerkl assen, Liquiditaetspruefung, Antragspflichten, Distressed M&A und Zeitplan nach StaRUG und Insolvenzplanrecht.
-
 ## Triage — klaere vor Strukturentscheidung
 
 1. Welcher Insolvenztatbestand liegt vor — drohende Zahlungsunfaehigkeit (§ 18 InsO, Voraussetzung für StaRUG) oder bereits Zahlungsunfaehigkeit/Ueberschuldung (§§ 17, 19 InsO, Antragspflicht)?
@@ -141,9 +134,6 @@ Unterstuetzt Restrukturierungsfaelle mit Planoptionen, Glaeubigerkl assen, Liqui
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Insolvenztatbestand feststellen:** §§ 17-19 InsO prufen; 13-Wochen-Liquiditaetsplan erstellen; Antragspflicht-Frist notieren
@@ -215,3 +205,4 @@ GESTALTENDER TEIL
 Massnahme: Eintrag geloescht (bei Zweifel loeschen).
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=07.05.2020&Aktenzeichen=IX+ZR+18%2F19
 -->
+

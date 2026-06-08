@@ -16,10 +16,6 @@ description: "Prompt-Versionen für den 3D-Review verwalten: Versionierung der S
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Wenn der Spaltenprompt 'Change-of-Control' heute leicht anders formuliert ist als gestern dann sind die heutigen Zellen mit den gestrigen nicht vergleichbar. Dieser Skill macht den Unterschied explizit.
-
 ## Versionierungsschema
 
 Semantische Versions-ID pro Prompt: `<spalte-id>@<major>.<minor>.<patch>`
@@ -75,3 +71,4 @@ Jede Prompt-Änderung erzeugt einen `prompt.geändert` Eintrag im `audit-trail-p
 ## Grenzen
 
 Versionierung verhindert keine schlechten Prompts — sie macht sie nur sichtbar. Der Prüfer entscheidet ob Migration noetig ist.
+

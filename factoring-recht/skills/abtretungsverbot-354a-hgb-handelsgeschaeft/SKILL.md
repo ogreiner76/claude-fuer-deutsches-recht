@@ -114,13 +114,6 @@ Fragen zum Einstieg:
 - **Mietzinsforderungen**: Vermietung als Handelsgeschäft setzt voraus, dass beide Parteien Kaufleute sind; bei privaten Vermietern fällt § 354a HGB aus.
 - **§ 354a Abs. 2 HGB als Falle**: Kreditinstitute können ihre eigenen Darlehensforderungen nicht über § 354a HGB faktorieren lassen – Sondergestaltung als Risikoteilnahme oder Refinanzierung über Forderungsverbriefung (ABS) notwendig.
 
-## Querverweise
-
-- `abtretbarkeit-forderungen-398-bgb-und-abtretungsverbote`
-- `debitorenkommunikation-und-abtretungsanzeige`
-- `drittschuldneranzeige-und-stille-zession`
-- `b2b-lieferketten-forderungsbestand-und-reklamationsrisiko`
-
 ## Quellen Stand 06/2026
 
 - HGB § 354a in der Fassung des Risikobegrenzungsgesetzes vom 12.08.2008.

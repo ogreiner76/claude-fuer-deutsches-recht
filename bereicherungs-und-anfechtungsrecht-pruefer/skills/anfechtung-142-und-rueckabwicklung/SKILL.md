@@ -94,14 +94,6 @@ Anwendungsfall: eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt.
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -130,3 +122,4 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Leistungs- vs. Nichtleistungskondiktion strikt trennen; § 812 Abs. 1 S. 1 1. Alt. BGB ist kein Auffang.
 - Saldotheorie BGH VIII ZR 91/04 bei nichtigen Vertraegen anwenden; Zwei-Kondiktionen-Lehre als Gegenmodell pruefen.
 - Anfechtung §§ 119, 123 BGB binnen Jahresfrist § 124 BGB; verschaerfte Haftung § 819 BGB ab Kenntnis.
+

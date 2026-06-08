@@ -5,10 +5,6 @@ description: "Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Brib
 
 # Third-Party-Due-Diligence und Agenten-Untersuchung
 
-## Arbeitsbereich
-
-Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Bribery-Risiken – Due Diligence, Verträge, Red Flags und Vertragsbeendigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill strukturiert die Überprüfung von Drittparteien auf Korruptionsris
 - Verträge ohne aktuelle DD oder Compliance-Klauseln sofort aktualisieren.
 - Agenten-Register mit DD-Status und nächstem Review-Datum.
 
-## Red-Team-Fragen
-
-- Gibt es Agenten, die keine aktuelle Due-Diligence-Prüfung haben?
-- Sind Provisionen im Verhältnis zur nachweisbaren Leistung des Agenten angemessen?
-- Wurden Vertragskündigungen bei Red Flags rechtzeitig ausgesprochen, oder hat das Unternehmen zu lange zugeschaut?
-- Hat das Unternehmen das Audit-Right gegenüber Hochrisiko-Agenten tatsächlich ausgeübt?
-- Kann das Unternehmen gegenüber dem DOJ demonstrieren, dass Adequate Procedures vorhanden waren?
-- Gibt es Hinweise auf Zahlungen nach der Vertragskündigung oder auf laufende Verbindungen zu dem Agenten?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -97,3 +84,4 @@ Dieser Skill strukturiert die Überprüfung von Drittparteien auf Korruptionsris
 - **Kündigungsschreiben** bei Compliance-Verstoß (Muster)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

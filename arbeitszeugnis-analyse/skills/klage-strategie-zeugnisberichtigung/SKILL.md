@@ -86,10 +86,6 @@ Bei dem Begehren einer Note besser als befriedigend kommen folgende Beweisangebo
 
 Wartet der Arbeitnehmer zwei Jahre, bevor er das Berichtigungsverlangen erhebt, ohne plausiblen Grund für die Verzoegerung, kann der Anspruch nach den Grundsaetzen der Verwirkung untergehen, auch wenn die Verjährungsfrist nicht abgelaufen ist. Empfehlung: Berichtigungsverlangen innerhalb der ersten Monate nach Zeugnisuebergabe stellen.
 
-## Ausgabeformat
-
-Der Skill liefert: eine Bewertung der Klagbarkeit pro Befund aus der Ampelanalyse (Hoch, Mittel, Niedrig), einen Vorschlag für das aussergerichtliche Berichtigungsverlangen mit konkreten Ersatzformulierungen, einen ausformulierten Klageantrag für die als klagbar identifizierten Punkte, eine Streitwertschaetzung in Abhaengigkeit vom Monatsbruttogehalt und eine Verfahrensempfehlung (sofortige Klage, Berichtigungsverlangen zuerst, kombinierte Klage mit weiteren Anspruechen).
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf Berichtigung; Grundlage der Klage
@@ -100,6 +96,3 @@ Der Skill liefert: eine Bewertung der Klagbarkeit pro Befund aus der Ampelanalys
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

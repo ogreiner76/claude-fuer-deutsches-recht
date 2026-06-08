@@ -5,10 +5,6 @@ description: "Prueft Insiderinformations-Entstehung bei Dividendenaenderungen: V
 
 # Dividendenänderung – Insiderrecht und Ad-hoc-Pflicht
 
-## Arbeitsbereich
-
-Prueft Insiderinformations-Entstehung bei Dividendenaenderungen: Vorstandsvorschlag, AR-Billigung, Kapitalmarktkonsensus-Abweichung und Ad-hoc-Pflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,23 +69,6 @@ und stellt die rechtzeitige Ad-hoc-Veröffentlichung sicher.
 - HV-Beschluss: Offizielle Bestätigung der Dividende, i.d.R. nicht mehr kursrelevant
  (bereits bekannt durch Ad-hoc)
 
-## Red-Team-Fragen
-
-- Wurde der Analystenkonsensus als Kursrelevanz-Benchmark herangezogen?
-- Liegt ein früherer Entstehungszeitpunkt als AR-Billigung vor?
-- Wurden Eigengeschäfte von PDMRs zwischen Beschluss und Ad-hoc geprüft?
-- Wurde bei Dividendenausfall sofort veröffentlicht (nicht erst zum Jahresabschluss)?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Kursrelevanz-Analyse (Konsensus-Abweichung, Wesentlichkeitsbewertung)
-2. Zeitstrahl Entstehung → Beschluss → Ad-hoc
-3. Ad-hoc-Entwurf Dividendenänderung
-4. PDMR-Eigengeschäfts-Check im kritischen Zeitraum
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Bei Dividendenankündigungen von REIT-Strukturen oder dividend-orientierten Emittenten
@@ -101,3 +80,4 @@ muss in solchen Fällen eine noch niedrigere Wesentlichkeitsschwelle anwenden.
 Weitere Quellen:
 - Art. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+

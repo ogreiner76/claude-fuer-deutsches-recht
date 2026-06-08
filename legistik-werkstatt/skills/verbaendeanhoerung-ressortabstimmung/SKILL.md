@@ -20,7 +20,6 @@ Arbeitsfokus: **Verbändeanhörung und Ressortabstimmung**. Prüfe diese Anker a
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Verbändeanhörung
@@ -92,9 +91,6 @@ Pro Änderungswunsch des Ressorts: Wer wollte was warum, wie wurde damit umgegan
 
 §§ 47-50 GGO (Ressortabstimmung, Verbands-Anhörung) — § 63 BNatSchG (Verbandsbeteiligung Umwelt-NGOs) — § 47 Abs. 2 GGO (Fristen Ressortbeteiligung) — §§ 28, 29 VwVfG (Anhörungsrecht Betroffener, Parallele zu Verbands-Beteiligung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 - Verbandsliste (Excel)
@@ -105,3 +101,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Anschluss
 
 `gesetzesentwurf-kabinett`.
+

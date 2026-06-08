@@ -86,14 +86,6 @@ Hier dient die NKR-Sicht der Selbstvergewisserung der Institution:
 - Annahme, NKR pruefe Kosten für den Bundeshaushalt (das ist BMF und Bundesrechnungshof)
 - Veraltete Angabe "NKR sitzt beim Bundeskanzleramt" — NKR ist nach § 1 Abs. 1 Satz 1 NKRG **beim BMJ** eingerichtet, Geschaeftsstelle beim BMJ (§ 3 Abs. 9 NKRG); Unabhaengigkeit nach § 1 Abs. 1 Satz 2 NKRG bleibt davon unberuehrt
 
-## Querverweise
-
-- `nkr-pruefumfang-was-prueft-der-nkr-nicht` — Negativabgrenzung
-- `nkr-verfahrensgang-referentenentwurf-bis-bundestag` — Phasen
-- `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts` — Praxis
-- `nkr-evaluation-und-jahresbericht` — § 7 NKRG
-- `legistik-werkstatt/normenkontrollrat-kmu-check` — Ressortsicht
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) in der jeweils geltenden Fassung

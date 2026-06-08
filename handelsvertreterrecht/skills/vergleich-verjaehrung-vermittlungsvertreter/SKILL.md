@@ -65,10 +65,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Vergleich über zwingende Normen nach § 92c HGB — teilweise nichtig.
 - Nicht vollstreckbarer Vergleich — Zwangsvollstreckung nicht möglich.
 
-## Output
-
-Vergleichsentwurf, Erledigungsklausel, Vollstreckbarkeitsprüfung.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +85,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 779 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__779.html)
 - [§ 794 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__794.html)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

@@ -5,10 +5,6 @@ description: "Anbieter benoetigt das fertige Musterdokument für die EU-Konformi
 
 # Output: EU-Konformitätserklärung — Art. 47 und Anhang V KI-VO
 
-## Zweck
-
-Dieser Skill generiert ein Musterdokument für die EU-Konformitätserklärung, die Anbieter von Hochrisiko-KI-Systemen nach Art. 47 i.V.m. Anhang V KI-VO ausstellen müssen.
-
 ## Rechtliche Grundlage
 
 Art. 47 KI-VO verpflichtet Anbieter, für jedes Hochrisiko-KI-System eine EU-Konformitätserklärung auszustellen. Diese Erklärung bestätigt, dass das System die Anforderungen der KI-VO erfüllt. Inhalt und Format sind in Anhang V KI-VO festgelegt.
@@ -120,9 +116,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -149,3 +142,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

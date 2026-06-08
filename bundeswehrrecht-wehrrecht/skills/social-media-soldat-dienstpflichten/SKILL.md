@@ -36,12 +36,6 @@ Disziplinarrechtliche Konsequenzen drohen bei extremistischen Äußerungen, VS-V
 - Art. 5 GG — Meinungsfreiheit
 - AGG, SoldGG — Diskriminierungsverbot
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - Was wurde gepostet (Inhalt, Plattform)?
@@ -93,21 +87,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Tabelle: Erlaubt vs. Verboten für Soldaten in sozialen Medien
 - Prüfschema: Disziplinarmaßnahme vs. Meinungsfreiheit
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — §§ 7, 7a, 17 SG
-- https://www.bverfg.de — Art. 5 GG
-- https://www.bverwg.de
-- https://dejure.org/gesetze/SG/7a.html
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -117,3 +96,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

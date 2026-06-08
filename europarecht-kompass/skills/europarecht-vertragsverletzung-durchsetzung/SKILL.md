@@ -5,10 +5,6 @@ description: "Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaat
 
 # Vertragsverletzung und Durchsetzung
 
-## Arbeitsbereich
-
-Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Prüfraster: Verletzungshandlung Mahnschreiben Klage Urteil Sanktion Abhilfemassnahmen. Output: Verfahrensstand-Memo Reaktionsstrategie. Abgrenzung: nicht für Nichtigkeitsklage (europarecht-klagearten-eugh). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,11 @@ Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen o
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267 AEUV, Nichtigkeitsklage, Beschwerde an EU-KOM, Stellungnahme im Vertragsverletzungsverfahren, Notifizierung, EuGH-Urteilsbeleg — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Kommissionsbeschwerde, nationale Rechtsbehelfe, politischer Druck und Fristen werden realistisch eingeordnet.
-
 ## Wann verwenden
 
 - bei Memos, Behördenbriefen, Schriftsätzen oder Compliance-Projekten mit EU-Bezug
 - wenn deutsche Kategorien die EU-Eigenlogik verdecken könnten
 - wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind
-
-## Arbeitsweise
-
-1. **Rechtsquelle fixieren.** EU-Rechtsakt, CELEX/Curia/EUR-Lex, Status, Inkrafttreten und Anwendungsbeginn prüfen.
-2. **Wirkung bestimmen.** Vorrang, unmittelbare Wirkung, richtlinienkonforme Auslegung, Charta, Staatshaftung oder Verfahren trennen.
-3. **Deutsche Denkfehler markieren.** Nationale Kategorien nur nutzen, wenn sie unionsrechtlich passen.
-4. **Verfahrensweg planen.** Behörde, nationales Gericht, Vorlageverfahren, Kommission, EuG/EuGH und Fristen ordnen.
-5. **Qualitätstor setzen.** Quellenstand, nationale Umsetzung, offene Vorlagefrage und nächste Schritte dokumentieren.
 
 ## Rückfragen, wenn unklar
 
@@ -54,13 +38,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Vorlageverfahren an EuGH schneller | Art. 267 AEUV Vorabentscheidung wenn nationale Gerichte befasst |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel
-- Prüfmatrix mit Fundstelle, Risiko, Vorschlag und Review-Level
-- anwaltlich prüfbarer Entwurf oder Mandantenhinweis
-- offene Annahmen, Quellenstand und nächste Schritte
 
 ## Typische Fehler vermeiden
 
@@ -93,9 +70,6 @@ Bevor losgelegt wird, klaere:
 - **Art. 260 AEUV** — Zwangsgeld und Pauschalstrafe bei Nichtbefolgung des ersten Urteils
 - **§ 839 BGB / Art. 34 GG** iVm Staatshaftungsgrundsaetzen — nationales Instrument für Private
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Beschwerde an EU-Kommission
 
 **Adressat:** Europaeische Kommission, Generaldirektion [ZUSTAENDIG]
@@ -136,3 +110,4 @@ Wir bitten die Kommission, ein Vorverfahren nach Art. 258 AEUV zu eroeeffnen.
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

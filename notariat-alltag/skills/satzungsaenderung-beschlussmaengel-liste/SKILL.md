@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Satzungsänderung – Beschlussmängel und Reg
 
 # Notariat im Alltag: Satzungsänderung – Beschlussmängel, Registerrisiko
 
-## Arbeitsbereich
-
-Notariat im Alltag: Satzungsänderung – Beschlussmängel und Registerrisiko. Voraussetzungen für wirksame Satzungsänderungen bei GmbH und AG, häufige Beschlussmängel und Konsequenzen bei der Handelsregistereintragung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -108,3 +104,4 @@ Nach der Satzungsänderung muss der Notar eine konsolidierte Neufassung der Satz
 - **Mandantenmail** (Ablauf, Eintragungsfrist)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

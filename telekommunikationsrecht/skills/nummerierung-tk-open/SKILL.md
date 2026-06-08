@@ -5,10 +5,6 @@ description: "Rufnummernzuteilung, Nutzung, Entzug, Mehrwertdienste, geografisch
 
 # Nummerierung und Rufnummernzuteilung
 
-## Arbeitsbereich
-
-Rufnummernzuteilung, Nutzung, Entzug, Mehrwertdienste, geografische Nummern, 0800/0900, M2M und Nummernportierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Rufnummernzuteilung, Nutzung, Entzug, Mehrwertdienste, geografische Nummern, 080
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Anbieter und Dienste, deren Geschäftsmodell an Rufnummern hängt.
-
 ## Norm- und Quellenanker
 
 TKG Nummerierungsrecht; BNetzA-Nummernpläne/Verfügungen live prüfen.
-
-## Arbeitsfragen
-
-1. Welche Nummernart und Nutzungsbedingung?
-2. Ist Nutzung zweckgerecht?
-3. Droht Entzug oder Abschaltung?
-
-## Output
-
-Nummernrechtsmemo und BNetzA-Antrag/Antwort.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Nummernrechtsmemo und BNetzA-Antrag/Antwort.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

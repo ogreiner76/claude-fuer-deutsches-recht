@@ -5,9 +5,6 @@ description: "Prüft System- und Wertungsargumente im Zivilrecht kritisch auf de
 
 # Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle
 
-## Arbeitsauftrag
-Wenn ein Schriftsatz oder Gutachten mit „System“, „Natur der Sache“, „objektiver Wertung“ oder „konkreter Ordnung“ argumentiert, wird hier red-geteamt.
-
 ## Kritische Leitplanken
 - Larenz’ nationalsozialistische Vergangenheit darf bei methodischer Autoritätsbildung nicht ausgeblendet werden.
 - Canaris’ Systemdenken kann präzise Dogmatik liefern, darf aber nicht als Ersatz für Normtext, Gesetzgeberentscheidung und Präjudizien dienen.
@@ -37,5 +34,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-Red-Team-Memo mit ersetzbaren Formulierungen für Schriftsatz oder Gutachten.

@@ -5,10 +5,6 @@ description: "Skill zum Versorgungsabschlag bei vorzeitigem Eintritt in den Ruhe
 
 # Versorgungsabschlag § 14 Abs. 3 BeamtVG
 
-## Arbeitsbereich
-
-Skill zum Versorgungsabschlag bei vorzeitigem Eintritt in den Ruhestand nach § 14 Abs. 3 BeamtVG. Klaert die Hoehe des Abschlags die Konstellationen Antragsruhestand vor Erreichen der Regelaltersgrenze und Ruhestand wegen Dienstunfaehigkeit sowie die Ausnahmen für schwerbehinderte Beamte und für Dienstunfall. Behandelt das Verhaeltnis zum Mindestversorgungsschutz und die Berechnung im Wechselspiel mit Altersteilzeitmodellen. Liefert Berechnungstabelle und Beratungsraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -70,3 +66,4 @@ Skill für Beamte, die einen Antragsruhestand vor Erreichen der Regelaltersgrenz
 ## 7. Beispiel (Kurzfassung)
 
 Mandantin 62 Jahre, Antragsruhestand zum Jahresende. Skill liefert Berechnung des Versorgungsabschlags und Hinweise auf Alternativen (Altersteilzeit Blockmodell, Pruefung Schwerbehinderung).
+

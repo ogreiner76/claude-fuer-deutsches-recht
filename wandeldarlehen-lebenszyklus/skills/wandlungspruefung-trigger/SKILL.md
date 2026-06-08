@@ -5,10 +5,6 @@ description: "Wandlung bei Laufzeitablauf des Wandeldarlehens prüfen wenn kein 
 
 # Wandlungsprüfung – Trigger Maturity (Laufzeitablauf)
 
-## Arbeitsbereich
-
-Wandlung bei Laufzeitablauf des Wandeldarlehens prüfen wenn kein qualifiziertes Finanzierungsereignis eingetreten ist. §§ 488 ff. BGB Fälligkeit. Prüfraster: Laufzeitenddatum Wandlungsrecht Wandlungspflicht Rückzahlungsalternative Preisbestimmung. Output: Prüfprotokoll Handlungsempfehlung. Abgrenzung: nicht für Qualified-Financing-Trigger (wandlungsprüfung-trigger-qualified-financing). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Wandlung bei Laufzeitablauf des Wandeldarlehens prüfen wenn kein qualifiziertes
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill prüft den Maturity-Trigger: Ist die Feste Laufzeit abgelaufen, ohne dass ein qualifizierendes Wandlungsereignis eingetreten ist? Wenn ja, erfolgt Wandlung auf Basis der Fall-back-Bewertung. Phase C des Lebenszyklus.
 
 ## Eingaben
 
@@ -86,12 +78,6 @@ Nach Wandlungserklärung: Gesellschaft beruft Gesellschafterversammlung ein (§ 
 | Lender will weder wandeln noch zahlen | Unklarheit über Rechtslage | Verhandlung läuft | Klares Wahlrecht ausgeübt |
 | Laufzeitende strittig | Unterzeichnungsdatum unklar | Näherungsdatum | Unterzeichnungsdatum belegt |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/wandlungspreis-berechnung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-liquidation/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-kapitalerhoehung/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. aktualisieren.
@@ -107,3 +93,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 §§ 488 ff. BGB (Fälligkeit bei Maturity) → §§ 135, 143 InsO (Anfechtung Rückzahlung Gesellschafterdarlehen) → § 39 InsO (Nachrang bei Wandlung nach Insolvenz) → § 315 BGB (Wahlrecht des Darlehensgebers bei Maturity) → §§ 55, 56 GmbHG (Kapitalerhöhung nach Wandlungsausübung)
+

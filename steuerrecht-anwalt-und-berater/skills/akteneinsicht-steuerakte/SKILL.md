@@ -37,9 +37,6 @@ description: "Akteneinsicht in die Steuerakte beantragen und auswerten — Einsp
 
 § 364 AO (Akteneinsicht Einspruch) · § 78 FGO (Klageverfahren) · § 71 Abs. 2 FGO (Beiziehung VA) · Art. 15 DSGVO · § 30 AO (Steuergeheimnis) · § 93a AO (Kontrollmitteilungen) · § 87a Abs. 1 S. 2 AO n.F. (ELSTER-Pflicht gegenüber FA)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Antrag im Einspruchsverfahren (§ 364 AO)
 
 ```
@@ -224,3 +221,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

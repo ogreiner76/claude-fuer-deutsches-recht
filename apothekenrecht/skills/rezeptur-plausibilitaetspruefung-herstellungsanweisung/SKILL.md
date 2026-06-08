@@ -5,10 +5,6 @@ description: "Rezeptur Plausibilitätsprüfung Herstellungsanweisung: prüft die
 
 # Rezeptur Plausibilitätsprüfung Herstellungsanweisung
 
-## Arbeitsbereich
-
-Rezeptur Plausibilitätsprüfung Herstellungsanweisung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -103,15 +99,6 @@ Eingaben:
 - Hilfsstoff allergisch beim Patient, nicht im Plausibilitätscheck erkannt.
 - Verfallsdatum auf Etikett zu generös; eigene Stabilitätsdaten fehlen.
 
-## Querverweise
-
-- `arzneimittelpruefung-ausgangsstoffe-pruefprotokoll` (Eingangsprüfung)
-- `defektur-100er-regel-qualitaetssicherung` (Serienherstellung)
-- `apothekenbetriebsordnung-grundpflichten` (Rahmen)
-- `qualitaetsmanagement-qms-sops` (SOP)
-- `raeume-ausstattung-rezeptur-defektur-labor` (Räume/Geräte)
-- `btm-rezeptur-amts-schnellcheck` (BtM-Rezeptur)
-
 ## Quellen Stand 06/2026
 
 - ApBetrO §§ 7, 8, 11, 14, 21.
@@ -120,3 +107,4 @@ Eingaben:
 - ABDA-Leitlinien zur Rezeptur (vom Anwender zu verifizieren).
 - BGH, staend. Rspr. zur Apothekenhaftung bei Herstellungsfehlern.
 - Landesaufsicht-Merkblätter zur Rezeptur (vom Anwender zu verifizieren).
+

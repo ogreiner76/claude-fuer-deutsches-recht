@@ -5,10 +5,6 @@ description: "Management chinesischer Rechtsanwälte und lokaler Berater: Beauft
 
 # Lokale Rechtsberater China: Auswahl/Beauftragung/Risiken
 
-## Arbeitsbereich
-
-Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,13 +80,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
 
-## Output
-
-Prüfbericht Local Counsel Management, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
-
 ## Quellen
 
 Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
@@ -101,3 +90,4 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+

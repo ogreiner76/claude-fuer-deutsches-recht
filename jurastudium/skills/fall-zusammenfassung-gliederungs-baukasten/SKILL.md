@@ -5,10 +5,6 @@ description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall
 
 # Fallbearbeitung im Gutachtenstil
 
-## Arbeitsbereich
-
-Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil, Tatbestandsmerkmale, Subsumtion Methodenlehre. Prüfraster Sachverhalt komprimieren, Kern-Rechtsfragen extrahieren, Obersatz und Subsumtion trennen, Relevantes von Irrelevantem trennen. Output strukturierte Fallzusammenfassung mit Rechtsfragen-Übersicht und Lösungshinweisen. Abgrenzung zu Gutachten-Uebung für vollständige Bearbeitung und zu Lösungsschemata. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,20 +27,6 @@ Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder 
 - §§ 241-304 BGB — Leistungsstoerungsrecht: Kern-Anspruchsgrundlagen
 - §§ 823-853 BGB — Deliktsrecht: zweite Pruefungssaule
 - §§ 242, 263 StGB — Strafrecht-Standardtatbestaende für Klausur
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill begleitet die Bearbeitung juristischer Übungsfälle, Klausuren und Hausarbeitssachverhalte im deutschen **Gutachtenstil**. Er gibt keine fertige Lösung vor – er stellt das Gerüst bereit, hakt bei Ungenauigkeiten nach und bewertet Schritt für Schritt die Struktur, die Definitionen und die Subsumtion.
-
-Einsatzbereiche:
-- Große und kleine BGB-Übungen (AT, SchuldR, SachenR, FamR, ErbR)
-- Anfänger- und Fortgeschrittenenklausuren
-- Examsklausuren (1. StEx, Bundesland nach JAG)
-- Hausarbeiten und Seminararbeiten
-- Anwaltsklausur / 2. StEx
 
 ## Eingaben
 
@@ -145,42 +127,6 @@ Beispiel-Korrektur:
 **Leitentscheidungen (Beispiele für häufige Streitstände):**
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-### Lösungsgliederung (Gerüst-Modus)
-
-```
-**Sachverhalt:** [Schlüsselfakten fett]
-
-**Lösungsskizze – Gliederung**
-
-A. Ansprüche des A gegen B
- I. § X BGB – [Kurzbezeichnung]
- Obersatz: [leer – deine Formulierung]
- Definition: [Hinweis auf Tatbestandsmerkmale; Kommentarstelle]
- Subsumtion: [leer – deine Subsumtion]
- Ergebnis: [leer]
- II. § Y BGB – [Kurzbezeichnung]
- [...]
-
-B. Ansprüche des B gegen A
- [...]
-
-**Offene Streitstände:** [Liste mit Kommentarstellen, ohne Lösung]
-**Zitierhinweise:** [Formatvorgaben für die in der Lösung benötigten Quellen]
-```
-
-### Feedback nach Nutzerantwort
-
-```
-**⚠️ Feedback**
-- Obersatz: [korrekt hypothetisch / nicht hypothetisch → Formulierungsvorschlag-Struktur]
-- Definition: [belegt / unbelegt → benötigte Quelle]
-- Subsumtion: [vollständig / Sachverhaltselement X fehlt]
-- Streitstand: [h.M. belegt / Gegenmeinung fehlt / Meinungsstreit nicht erkannt]
-- Zitat: [konform / Abweichung von zitierweise.md]
-```
-
 ## Beispiel
 
 **Sachverhalt:** A verkauft B sein Motorrad für 4.000 €. B zahlt, A übergibt das Motorrad. Drei Wochen später bricht das Vorderrad aus mangelhafter Schweißnaht, B stürzt und verletzt sich. A wusste von dem Defekt.
@@ -220,3 +166,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Konkurrenzfragen nicht lösen:** Wenn § 823 Abs. 1 BGB und §§ 437, 280 BGB nebeneinander bestehen, dies kurz konstatieren (kumulative Anspruchskonkurrenz).
 - **Zu lange Obersätze:** Der Obersatz soll die Rechtsfolge benennen, nicht die gesamte Prüfung vorwegnehmen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+

@@ -5,10 +5,6 @@ description: "Verbraucherleasing beweglicher Sachen: Pflichtangaben, Widerruf, f
 
 # Verbraucherleasing beweglicher Sachen: Pflichten und Widerruf
 
-## Arbeitsbereich
-
-Verbraucherleasing beweglicher Sachen: Pflichtangaben, Widerruf, fehlerhafte Belehrung, Rückabwicklung, typische Fallen und Musterfälle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Verbraucherleasing beweglicher Sachen: Pflichtangaben, Widerruf, fehlerhafte Bel
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Wenn Verbraucher bewegliche Sachen (Kfz, Haushaltsgeräte, IT, Möbel) leasen, gelten §§ 506–509 BGB mit strikten Pflichtangaben. Fehler bei der Belehrung öffnen ein verlängertes Widerrufsrecht. Dieser Skill systematisiert die Anforderungen für das tägliche Geschäft.
 
 ## Anwendungsbereich
 
@@ -127,3 +119,4 @@ LG insolvent; LN will widerrufen.
 - **Widerrufsinformation-Muster**: Aktuelle Anlage 7 EGBGB
 - **Fehlerfolgen-Tabelle**: Fehlende Angabe → Rechtsfolge § 494 BGB
 - **Widerrufserklärung**: Muster für Verbraucher (Textform)
+

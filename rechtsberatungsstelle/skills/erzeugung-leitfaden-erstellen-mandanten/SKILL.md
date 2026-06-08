@@ -5,10 +5,6 @@ description: "Formulare und Antragsdokumente für Rechtsberatungsstelle erstelle
 
 # [VERALTET] Formularerstellung → siehe `/entwurf`
 
-## Arbeitsbereich
-
-Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behörde oder Gericht. BeratungsHiG Beratungsschein, BRAO, Formulare Sozialrecht Mietrecht Arbeitsrecht. Prüfraster Formular-Typ bestimmen, Pflichtfelder ermitteln, Rückfragen minimal halten, Fristen beachten. Output ausgefuelltes Formular oder Antragsentwurf mit Einreichungshinweisen. Abgrenzung zu Entwurf für individuelle Schriftsaetze und zu Mandantenbrief. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsf
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Diese Skill wurde im Rahmen des Umbaus auf Version 2 vollständig in `skills/entwurf/` überführt. Der Befehl `/entwurf` übernimmt alle Aufgaben, die zuvor hier lagen: Erstellung von Erstentwürfen für Antragsformulare (Beratungshilfe-Antrag BerH 1, PKH-Antrag nach § 117 ZPO, Widerspruchsvordrucke, Behördenformulare), Ausfüllen aus Fallnotizen, Rechtsgebiet-spezifische Muster und formvorschriftengerechte Formatierung.
-
-Die Skill nimmt keine Eingaben mehr entgegen und erzeugt keine Ausgaben. Sie verbleibt im Dateisystem als Migrationshinweis für ältere Dokumentationen und Semesterskripte.
 
 ## Eingaben
 
@@ -47,6 +37,7 @@ Die Trennung zwischen "Formularerstellung" und "Schriftsatzerstellung" war in de
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Stattdessen `/entwurf [Schriftstücktyp]` verwenden.**
@@ -65,10 +56,6 @@ Vollständiger Ablauf in `skills/entwurf/SKILL.md`:
 3. Formvorschriften und Einreichungsweg prüfen
 4. Entwurf erstellen mit `[PRÜFEN]`- und `[UNSICHER]`-Flags
 5. Supervisoren-Routing nach § 6 Abs. 2 RDG
-
-## Ausgabeformat
-
-Keine Ausgabe — diese Skill ist inaktiv. Weiterleitung auf `/entwurf`.
 
 ## Beispiel
 
@@ -98,3 +85,4 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund: GELOESCHT. Echtes Datum 22.10.2015 (Skill hatte 14.01.2016); echtes Thema Streitwert der Vollstreckungsgegenklage (§§ 3, 4 ZPO) — kein Bezug zu Beratungshilfe oder anwaltlicher Antragspruefungspflicht. Quelle: dejure.org/2015,32471. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
 -->
+

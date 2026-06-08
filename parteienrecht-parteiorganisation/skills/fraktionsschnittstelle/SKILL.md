@@ -5,10 +5,6 @@ description: "Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und
 
 # Schnittstelle Fraktion/Partei
 
-## Arbeitsbereich
-
-Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,9 +12,6 @@ Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichke
 - Tragende Normen verifizieren: GG Art. 21, PartG §§ 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Parteisatzung, Rechenschaftsbericht, Mitgliederliste, Beteiligungsanzeige, Wahlvorschlag, Schiedsgerichtsentscheid, Parteitagsprotokoll, Spendenbescheinigung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit.
 
 ## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
@@ -37,12 +30,6 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
-
 ## Quellen- und Aktualitätsregel
 - Parteiengesetz live prüfen
 - Bundeswahlgesetz/Bundeswahlordnung und Bundeswahlleiterin live prüfen
@@ -51,3 +38,4 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 - Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+

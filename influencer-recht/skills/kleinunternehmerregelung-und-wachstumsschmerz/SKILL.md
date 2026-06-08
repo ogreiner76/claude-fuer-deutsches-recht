@@ -5,10 +5,6 @@ description: "Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile
 
 # Influencer-Recht: Kleinunternehmerregelung und Wachstumsschmerz
 
-## Arbeitsbereich
-
-Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,3 +68,4 @@ Die Kleinunternehmerregelung ist für viele Creator der Einstieg – birgt aber 
 - Rechenvergleich: KU vs. Regelbesteuerung (Tabelle)
 - Rechnungsmuster mit KU-Pflichthinweis
 - Wechsel-Checkliste mit Fristen
+

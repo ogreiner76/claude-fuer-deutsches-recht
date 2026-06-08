@@ -23,16 +23,13 @@ Lesekompetenz oder hohem Barrierefreiheitsbedarf verständlich werden soll.
 - § 12a BGG — Webzugaenglichkeitsgesetz: Anforderungen an öffentliche digitale Dokumente
 - DIN EN ISO 9241-171 — Ergonomie der Mensch-System-Interaktion: Barrierefreiheit
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
 
 - § 11 BGG (Leichte Sprache)
 - § 14 BGG (Gebärdensprache)
+
 ## Output-Template: Leichte-Sprache-Fassung
 
 **Adressat:** Personen mit Leseschwierigkeiten / Barrierefreiheitsbedarf
@@ -74,6 +71,7 @@ Das bedeutet: [Erklaerung in 1-2 Saetzen]
 
 > **Hinweis:** Dieser Entwurf ist in Leichter Sprache formuliert.
 > Eine Pruefung durch Personen aus der Zielgruppe steht noch aus.
+
 ## Grundhaltung
 
 Leichte Sprache ist kein "netter Ton". Sie ist ein eigenständiges
@@ -160,3 +158,4 @@ Wenn keine Prüfung stattgefunden hat, schreibe:
 
 > Dieser Entwurf ist in Leichter Sprache formuliert.
 > Eine Prüfung durch Personen aus der Zielgruppe steht noch aus.
+

@@ -5,10 +5,6 @@ description: "Kernskill für verlegerische Rohmanuskript- und Editionsarbeit: Ma
 
 # Verlagsredaktion — Kernskill
 
-## Arbeitsbereich
-
-Kernskill für verlegerische Rohmanuskript- und Editionsarbeit: Material inventarisieren, strukturieren, redigieren, Luecken markieren, Quellen trennen und Autor:innenfreigaben vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Kernskill für verlegerische Rohmanuskript- und Editionsarbeit: Material inventa
 - Tragende Normen verifizieren: UrhG §§ 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB §§ 433, 631, JuSchG, PresseG der Länder, ImpressumsR, DSGVO Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Dieser Skill ist der klassische Redaktionsmotor. Er macht aus Material ein Rohmanuskript oder aus einer vorhandenen Fassung eine bessere Fassung, ohne Autor:innenstimme und Redaktionseingriff zu vermischen.
 
 ## Modi
 
@@ -49,15 +41,3 @@ Dieser Skill ist der klassische Redaktionsmotor. Er macht aus Material ein Rohma
 - `[RECHTE]` Nutzung noch nicht geklärt.
 - `[QUELLE]` Fundstelle noch zu prüfen.
 
-## Quellenregel
-
-Keine Kommentar-, Handbuch-, Aufsatz- oder Datenbankfundstellen aus Modellwissen. Literatur nur aus Nutzerquelle, frei zugänglicher Quelle oder lizenziertem Live-Zugriff. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle.
-
-## Output
-
-- Materialinventar.
-- Gliederung.
-- Rohmanuskript oder Editionsbericht.
-- Rechte-/Quellenampel.
-- Autor:innenmail.
-- Produktionsnächste Schritte.

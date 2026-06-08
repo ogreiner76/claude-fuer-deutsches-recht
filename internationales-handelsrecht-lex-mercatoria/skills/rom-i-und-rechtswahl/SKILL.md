@@ -53,12 +53,3 @@ Die Rom I-Verordnung (EG) 593/2008 bestimmt in EU-Mitgliedstaaten das auf Schuld
 - Bei Zweifel: CISG als überlagernde lex specialis prüfen
 - Nicht-staatliches Recht nur als Vertragsinhaltsklausel, nicht als Statut
 
-## Output
-
-- Rechtswahlklausel-Muster (vollständig und minimal)
-- Tabelle: Charakteristische Leistung nach Art. 4 für Standardvertragstypen
-- Eingriffsnormen-Checkliste für wichtige Handelsländer
-
-## Quellenregel
-
-Rom I-VO: eur-lex.europa.eu (32008R0593). EuGH-Rspr.: curia.europa.eu. Schrifttum: Rauscher EuZPR/EuIPR (5. Aufl.) Art. 3-4 Rom I. Unsicherheit bleibt sichtbar.

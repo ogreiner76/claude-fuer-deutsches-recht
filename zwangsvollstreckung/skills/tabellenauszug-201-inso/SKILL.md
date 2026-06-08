@@ -17,10 +17,6 @@ Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will n
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Der vollstreckbare Tabellenauszug ist ein eigener Titel (§ 201 Abs. 2 Satz 1 InsO). Dieser Skill prüft, ob aus ihm vollstreckt werden darf, und steuert die nächste Pfändung.
-
 ## Startet bei
 
 - Insolvenzverfahren ist aufgehoben (§ 200 InsO) oder eingestellt (§§ 207, 211 InsO)
@@ -95,9 +91,3 @@ NÄCHSTER SKILL: [zv-pfueb-bank / zv-pfueb-arbeitsentgelt / ...]
 - Verjährung 30 Jahre: jüngere Forderungen aus laufender Tabelle möglich.
 - Klausel und Zustellung wie bei jedem Titel.
 
-## Querverweise
-
-- `insolvenzforderungsanmeldungspruefung/ifap-tabellenauszug-178` – wenn der Auszug erst beschafft wird (anderes Plugin, eng verzahnt)
-- `zv-titel-klausel-zustellung`
-- `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`
-- `zv-abwehr-schuldner` – Vollstreckungsgegenklage nach Restschuldbefreiung

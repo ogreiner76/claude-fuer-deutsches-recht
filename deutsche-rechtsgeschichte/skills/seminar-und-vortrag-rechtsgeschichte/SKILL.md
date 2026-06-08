@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Seminarvorbereitung und Vortrag. Strukt
 
 # Seminar und Vortrag Rechtsgeschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Seminarvorbereitung und Vortrag. Strukturierung eines rechtshistorischen Referats oder Seminarvortrags zu Sachsenspiegel, BGB-Entstehung, Weimar oder NS-Recht mit quellengestuetzten Thesen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Ein rechtshistorisches Seminar oder Referat braucht andere Kompetenzen als ein d
 - WRV-Dokumente: documentArchiv.de, Reichsgesetzblatt-ALEX
 - NS-Quellen: ALEX/ÖNB für RGBl. I
 
-## Output
-
-- Gliedrungsvorlage für rechtshistorisches Seminarreferat
-- Quellenmatrix für 3 klassische Seminarthemen (Sachsenspiegel, BGB, WRV)
-- Tipps zur Visualisierung: Zeitleiste, Quellendiagramm, Vergleichstabelle
-
-## Quellenregel
-
-Sachsenspiegel: MGH-Edition. Mugdan: historische Erstausgabe. WRV: documentArchiv.de und ALEX/ÖNB. GG: gesetze-im-internet.de. Jede These mit Quelle belegen.

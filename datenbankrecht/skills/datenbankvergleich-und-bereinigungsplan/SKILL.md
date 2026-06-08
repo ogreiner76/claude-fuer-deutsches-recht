@@ -5,10 +5,6 @@ description: "Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verlet
 
 # Datenbankvergleich und Bereinigungsplan — Technischer Nachweis und Vollstreckung
 
-## Arbeitsbereich
-
-Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Technische Methoden zum Nachweis von Datenübereinstimmungen (Fingerprinting, Fuzzy-Matching, Hash-Vergleich), Bereinigungspflicht des Verletzers nach Unterlassungsurteil und Vernichtungsanspruch (§ 98 UrhG). Erstellt Vergleichsprotokoll und Bereinigungsplan-Vorlage für Prozess und Vollstreckung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Techni
 - Backup-Kopien des Verletzers enthalten möglicherweise noch die gestohlenen Daten — Bereinigung muss explizit alle Systeme umfassen.
 - Ohne Sachverständigengutachten kann das Gericht die technische Vergleichsmethodik nicht ausreichend würdigen.
 
-## Output
-
-- Datenbankvergleichs-Protokollvorlage (Methodik, Ergebnis, Statistik)
-- Bereinigungsplan-Vorlage (Fristen, Systeme, Nachweispflichten)
-- Vernichtungsantrag nach § 98 UrhG
-- Vollstreckungsantrag bei Nichterfüllung (§§ 887-890 ZPO)
-- Sachverständigen-Briefing für technischen Datenbankvergleich
-
 ## Quellen
 
 - [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
@@ -75,3 +63,4 @@ Datenbankvergleich und Bereinigungsplan bei Datenbankrechts-Verletzungen: Techni
 - [§ 887 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/887.html)
 - [§ 286 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/286.html)
 - [Art. 10 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

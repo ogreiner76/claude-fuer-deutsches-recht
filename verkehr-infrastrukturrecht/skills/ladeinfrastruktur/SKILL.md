@@ -5,10 +5,6 @@ description: "Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betr
 
 # Ladeinfrastruktur Elektromobilitaet
 
-## Arbeitsbereich
-
-Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Prüfraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle öffentliche/private Flaechen, Förderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -40,9 +36,6 @@ Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant La
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Ladeinfrastruktur
 
 ```
@@ -66,3 +59,4 @@ Standort der Ladeinfrastruktur?
 - Sondernutzungserlaubnis für öffentliche Flaechen niemals vergessen.
 - WEG-Beschluss sorgfaeltig dokumentieren.
 - Anwaltliche Endkontrolle bei komplexen Konstellationen.
+

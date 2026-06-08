@@ -5,10 +5,6 @@ description: "Recordation von Transfers und Dokumenten: Rechteübertragungen, Si
 
 # Recordation von Transfers und Sicherheiten
 
-## Arbeitsbereich
-
-Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Ve
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Prüfe, ob neben der Registrierung eine Recordation von Rechteübertragungen oder sonstigen Dokumenten sinnvoll ist. Das betrifft Verlagskäufe, Backlist-Deals, Sicherheiten, Abtretungen, exklusive Lizenzen und Nachweise gegenüber Plattformen.
-
 ## Prüfschritte
 
 - Welches Dokument soll recorded werden: Assignment, Merger, Security Interest, Lizenz, Vergleich, Kettennachweis?
@@ -33,14 +25,6 @@ Prüfe, ob neben der Registrierung eine Recordation von Rechteübertragungen ode
 - Liegt ein unterschriebener, recordable Nachweis vor?
 - Stimmen Werklisten, Titelvarianten, Registrierungsnummern und Claimants?
 - Welche Gebühren und zusätzlichen Werke sind nach aktueller Fee Schedule relevant?
-
-## Output
-
-Eine Recordation-Entscheidung mit Dokumentenliste, Titelanhang, Kostenabschätzung, Risiko und Empfehlung, ob US-Counsel prüfen soll.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -52,3 +36,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Frist-/Remedy-Wirkung hat timing nach § 411/§ 412 und was muss als Nachweis in die Verlagsakte?
 
 **Mindest-Output:** Registrierungsakte mit Antragstyp, Werkdaten, Rechtekette, Deposit-Route, Fee/Tracking und Certificate-Archiv.
+

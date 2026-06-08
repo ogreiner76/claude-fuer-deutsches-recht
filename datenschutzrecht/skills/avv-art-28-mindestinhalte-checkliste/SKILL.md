@@ -79,14 +79,6 @@ Konsolidierte Pflichtklausel-Liste (Kurzform für Vertragsanlage):
 - lit. g ohne klare Wahlmoeglichkeit (Loeschung oder Rueckgabe) und ohne Format.
 - lit. h verweist auf Zertifikate, ohne eigenes Audit-Recht zuzulassen.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-dsgvo-grundtatbestand/SKILL.md`
-- `datenschutzrecht/skills/avv-tom-art-32-dsgvo-anlage/SKILL.md`
-- `datenschutzrecht/skills/avv-audit-und-kontrollrechte/SKILL.md`
-- `datenschutzrecht/skills/avv-loeschung-rueckgabe-nach-vertragsende/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 28 Abs. 3 DSGVO – Pflichtinhalte des Vertrags.
@@ -95,14 +87,6 @@ Konsolidierte Pflichtklausel-Liste (Kurzform für Vertragsanlage):
 - Art. 29 DSGVO – Weisungsgebundenheit.
 - EDSA-Leitlinien 07/2020 – Final 07.07.2021; abrufbar ueber edpb.europa.eu.
 - Zitierweise: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -132,3 +116,4 @@ Konsolidierte Pflichtklausel-Liste (Kurzform für Vertragsanlage):
 - Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
 - Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
 - Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
+

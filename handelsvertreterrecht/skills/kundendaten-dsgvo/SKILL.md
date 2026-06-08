@@ -5,10 +5,6 @@ description: "Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundend
 
 # Kundendaten und DSGVO im Handelsvertretervertrag nach § 88 HGB und DSGVO
 
-## Arbeitsbereich
-
-Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschätzung bei CRM-Einsatz sowie Bußgeldrisiken bei Datenschutzverstößen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Dateneigentum nicht vertraglich geregelt — Streit über Herausgabepflicht.
 - Löschpflichten nach DSGVO nach Vertragsende nicht umgesetzt.
 
-## Output
-
-DSGVO-Compliance-Prüfung Handelsvertreter, AVV-Entwurf, Herausgabeverlangen Kundendaten.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [Art. 28 DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
 - [Art. 83 DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
+

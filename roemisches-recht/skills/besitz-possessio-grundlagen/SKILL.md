@@ -5,10 +5,6 @@ description: "Römisches Recht: Besitz Possessio Grundlagen. Geführter Fachmodu
 
 # Besitz Possessio Grundlagen
 
-## Arbeitsauftrag
-
-Dieser Skill bearbeitet **Besitz Possessio Grundlagen** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
-
 ## Sofortsortierung
 
 1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
@@ -38,17 +34,6 @@ Dieser Skill bearbeitet **Besitz Possessio Grundlagen** im Plugin **Römisches R
 - Risikoampel mit nächstem Schritt
 - Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
 
-## Red-Team-Fragen
-
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
-
-## Quellenregel
-
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
 ## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
 
 ### Schluesselstellen
@@ -72,3 +57,4 @@ Sachverhalt: A besitzt Toga; B stiehlt sie; C kauft sie redlich vom B.
 Sachverhalt: A laesst seine Sache bei B verwahren; B behauptet, die Sache gehoert ihm.
 - **Roemisch**: D. 41.5.2 — Aenderung der Besitzcausa (interversio possessionis) ist nicht moeglich; B bleibt possessio naturalis, kein possessio civilis.
 - **BGB**: § 856 BGB Besitzaufgabe; B veraendert nur seinen Willen — keine Wirkung; A bleibt mittelbarer Besitzer, kann § 985 BGB Vindikation klagen.
+

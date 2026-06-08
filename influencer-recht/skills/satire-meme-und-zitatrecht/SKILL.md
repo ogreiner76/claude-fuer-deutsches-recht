@@ -5,10 +5,6 @@ description: "Influencer-Recht: Satire, Memes und Zitatrecht – Kunstfreiheit, 
 
 # Influencer-Recht: Satire, Memes und Zitatrecht
 
-## Arbeitsbereich
-
-Influencer-Recht: Satire, Memes und Zitatrecht – Kunstfreiheit, Grenzen, Markenparodie, UrhG und strafrechtliche Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,3 +72,4 @@ Satire und Memes bewegen sich an der Grenze zwischen Kunstfreiheit und Rechtsver
 - Meme-Prüf-Checkliste vor Veröffentlichung
 - Verteidigungsschreiben bei Abmahnung (Satire-Einwand)
 - Umgestaltungsvorschlag für riskante Aussagen
+

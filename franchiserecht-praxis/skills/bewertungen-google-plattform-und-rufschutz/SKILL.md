@@ -5,10 +5,6 @@ description: "Online-Bewertungen im Franchisesystem managen: Löschungsansprüch
 
 # Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz
 
-## Arbeitsbereich
-
-Online-Bewertungen im Franchisesystem managen: Löschungsansprüche gegen Google und Plattformen nach § 823 BGB und DSGVO, Gegendarstellungsrecht, Fake-Bewertungen als Wettbewerbsverstoss nach § 5 UWG und systemweite Reputationsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisenehmer oder das gesamte Franchisesystem leidet unter negativen, mö
 - Öffentliche Gegendarstellungen des Franchisenehmers, die den Reviewer angreifen, verstärken die Sichtbarkeit der negativen Bewertung.
 - Franchisenehmer und Franchisegeber reagieren unkoordiniert auf Bewertungen; System wirkt zerrissen.
 
-## Output
-
-- Bewertungs-Klassifikations-Leitfaden (Meinung vs. Tatsachenbehauptung)
-- Löschungsantragsvorlage an Google und Plattformen
-- Systemweite Bewertungsmanagement-Richtlinie
-- Escalation-Protokoll für Reputationskrisen
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/823.html
@@ -71,6 +60,7 @@ Ein Franchisenehmer oder das gesamte Franchisesystem leidet unter negativen, mö
 - https://dejure.org/gesetze/UWG/4.html
 - https://dejure.org/gesetze/BGB/1004.html
 - https://dejure.org/gesetze/MarkenG/14.html
+
 ## Vertiefung
 
 Das Recht auf Löschung von Online-Bewertungen ist durch die EuGH-Entscheidungen zu Recht auf Vergessenwerden (Google Spain, C-131/12) und durch die DSGVO geprägt. Bewertungen, die unwahre Tatsachenbehauptungen enthalten oder anonyme Fake-Bewertungen darstellen, können gelöscht werden; Meinungsäusserungen, auch wenn sie negativ sind, sind grundsätzlich geschützt.
@@ -84,9 +74,11 @@ Google ist als Host Provider nach dem NetzDG und der E-Commerce-Richtlinie verpf
 - Öffentliche Antwort auf Bewertung professionell und ohne Gegenangriffe auf den Reviewer formulieren.
 - Fake-Bewertungs-Kampagnen von Wettbewerbern als UWG-Verstoss dokumentieren und abmahnen.
 - Systemweites Bewertungsmanagement-Protokoll mit eindeutigen Zuständigkeiten entwickeln.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
 
 ## Normen und Rechtsprechung

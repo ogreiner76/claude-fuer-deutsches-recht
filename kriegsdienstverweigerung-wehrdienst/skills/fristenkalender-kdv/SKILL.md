@@ -5,10 +5,6 @@ description: "Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Wid
 
 # Fristenkalender KDV
 
-## Arbeitsbereich
-
-Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 75 und § 13. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,9 +17,6 @@ Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 7
 - **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
 - **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Einsatz
-Führt den Nutzer ruhig durch Status, Ziel, Fristen, Unterlagen und nächste Schritte, ohne die persönliche Gewissensentscheidung zu ersetzen.
 
 ## Fachlicher Kern
 Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 75 und § 13. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
@@ -44,12 +37,6 @@ Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 7
 ## Norm- und Quellenanker
 KDVG §§ 6, 7, 9, 11, 13; VwGO § 75
 
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
-
 ## Rote Linien
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
 
@@ -63,3 +50,4 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 - BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+

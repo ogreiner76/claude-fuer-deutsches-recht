@@ -5,10 +5,6 @@ description: "Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der a
 
 # KI-Regulierungs-Lückenanalyse
 
-## Arbeitsbereich
-
-Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer "Lückenanalyse AI Act", "gilt der AI Act für uns", "Compliance-Prüfung KI", "neue KI-Verordnung prüfen" oder Regelungstext eingibt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,18 +12,6 @@ Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Gover
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Der AI Act ist seit 01.08.2024 in Kraft — mit gestaffelter Anwendbarkeit.
-Die Datenschutzaufsichtsbehörden präzisieren DSGVO Art. 22. Die neue
-Produkthaftungs-RL (RL 2024/2853) erfasst KI-Systeme. Etwas bewegt sich —
-und nun muss bekannt sein, was sich, wenn überhaupt, ändern muss.
-
-Dieser Skill gleicht neue Anforderungen mit der aktuellen KI-Governance
-ab (gem. `CLAUDE.md`) und produziert eine priorisierte Lückenliste mit
-Maßnahmenplan. Wo Regelungstext tatsächlich mehrdeutig ist: klar sagen,
-konservative Lesart nennen, bei Materialität externe Beratung empfehlen.
 
 ## Eingaben
 
@@ -119,6 +103,7 @@ Risiko: [Bußgeldrahmen; Durchsetzungswahrscheinlichkeit]
 **Schritt 5 — Maßnahmenplan**
 
 ```markdown
+
 ## Maßnahmenplan: [Regulierungsname]
 Anwendungsdatum: [Datum] | Betrifft uns als: [Anbieter/Betreiber/beides]
 
@@ -131,16 +116,6 @@ Anwendungsdatum: [Datum] | Betrifft uns als: [Anbieter/Betreiber/beides]
 ### Bereits compliant [Liste]
 ### Akzeptierte Lücken [mit Begründung und Akzeptant]
 ```
-
-## Ausgabeformat
-
-Datiertes Markdown-Dokument; Maßnahmenplan-Tabelle wird zum Tracker.
-Auch bei "keine Lücken" dokumentieren — nützlicher Compliance-Nachweis.
-
-**Quellen-Tagging:**
-- `[gesichert]` — stabile Normen (z. B. DSGVO Art. 22, VO (EU) 2024/1689).
-- `[prüfen]` — Durchführungsrechtsakte, Leitlinien, Schwellenwerte.
-- **Pinpoint-Pflicht** — konkrete Artikelnummern, Anhang-Referenzen und Erwägungsgründe immer gegen die Primärquelle (ABl./EUR-Lex, amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang) verifizieren. AI-Act-Artikelnummern haben sich während der Konsolidierung verschoben; im Output keine ungeprüften Pinpoint-Tags stehen lassen.
 
 ## Beispiel
 
@@ -197,3 +172,4 @@ NAECHSTE SCHRITTE:
 
 Erstellt: [NAME], [DATUM]
 ```
+

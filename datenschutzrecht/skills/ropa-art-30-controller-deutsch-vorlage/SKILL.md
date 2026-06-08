@@ -5,10 +5,6 @@ description: "Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des
 
 # RoPA-Vorlage Verantwortlicher (Controller) – Deutsch
 
-## Zweck
-
-Dieser Skill liefert eine ausfuellfertige Vorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Er enthaelt die Spaltenstruktur, ein Deckblatt, drei vollstaendig befuellte Beispiele und einen Versionierungs-Footer.
-
 ## Wann dieses Modul hilft
 
 - Erstaufbau eines Verarbeitungsverzeichnisses in der Kanzlei oder im Mandantenunternehmen.
@@ -79,14 +75,6 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 - TOM-Spalte mit vollem Wortlaut der Anlage 32 DSGVO – besser Verweis.
 - Kein DSB-Eintrag obwohl Bestellpflicht (§ 38 BDSG) besteht.
 
-## Querverweise
-
-- `ropa-art-30-dsgvo-grundlagen` für Rechtsrahmen.
-- `ropa-art-30-processor-deutsch-vorlage` für Spiegel-Vorlage Processor.
-- `ropa-bdsg-besondere-art-9-categories` für Gesundheits- und Beschaeftigtendaten.
-- `avv-tom-art-32-dsgvo-anlage` für TOM-Konzept.
-- `drittlandstransfer-pruefung` für Art. 44 ff. DSGVO.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 30 Abs. 1.
@@ -95,10 +83,3 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 - HGB § 257, AO § 147 (handels-/steuerrechtliche Aufbewahrung).
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

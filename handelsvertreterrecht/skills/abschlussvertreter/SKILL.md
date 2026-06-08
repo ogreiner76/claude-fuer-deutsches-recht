@@ -5,10 +5,6 @@ description: "Klärt Rechtsstellung und Haftungsrahmen des Abschlussvertreters m
 
 # Rechtsstellung des Abschlussvertreters nach §§ 84 und 54 HGB
 
-## Arbeitsbereich
-
-Klärt Rechtsstellung und Haftungsrahmen des Abschlussvertreters mit Abschlussvollmacht nach §§ 84 und 54 HGB: Vollmachtsumfang, Wirksamkeit abgeschlossener Verträge, Haftung bei Überschreitung der Vollmacht sowie Abgrenzung zum Vermittlungsvertreter ohne Abschlussbefugnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Fehlende schriftliche Vollmachtsurkunde erschwert Nachweis gegenüber Dritten.
 - Anscheinsvollmacht durch jahrelange Duldung — Unternehmer kann Verträge nicht mehr anfechten.
 - Abgrenzung zum Vermittlungsvertreter unklar — Provisionsstruktur und Haftung divergieren.
-
-## Output
-
-Vollmachtsprüfungsvermerk, Risikobewertung abgeschlossener Verträge, Empfehlung zur Vollmachtsgestaltung.
 
 ## Hintergrund und Kontext
 

@@ -37,12 +37,6 @@ BVerfG und BVerwG betonen Verhältnismäßigkeit: Erstattung ist Vorteilsausglei
 - BVerwGE 95, 262 — Verhältnismäßigkeit Rückforderung
 - SVG §§ 39–48 — Berufsförderungsdienst
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - Wann wurde Ausbildung abgeschlossen, und welche Dienstzeitverpflichtung bestand?
@@ -102,21 +96,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Tabelle: Typische Ausbildungen, Verpflichtungszeiten und Kostengrößenordnungen
 - Muster-Widerspruch gegen Rückforderungsbescheid
 - Checkliste: Härtegründe für Billigkeitserlass
-
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — § 56 SG
-- https://www.bverwg.de — BVerwG Wehrdienstsenat
-- https://openjur.de — TDG-Entscheidungen
-- https://dejure.org/gesetze/SG/56.html
 
 ## Qualitätsgate
 

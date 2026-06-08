@@ -5,9 +5,6 @@ description: "Beteiligung Betriebsrat Erstgespraech im Plugin Fachanwalt Arbeits
 
 # Beteiligung Betriebsrat Erstgespraech
 
-## Arbeitsbereich
-
-**Beteiligung Betriebsrat Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Betriebsratsanhörung vor Kündigung, Strukturierter Erstgespraechsleitfaden für Individual- und, Prüfungslinie für fachanwalt arbeitsrecht bag equal pay. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Beteiligung Betriebsrat Erstgespraech im Plugin Fachanwalt Arbeits
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `beteiligung-betriebsrat-102-betrvg`
@@ -46,14 +44,6 @@ Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit A
 ## Normanker
 
 BetrVG § 102; KSchG; BAG live prüfen. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle genannt; bei unsicherem Stand wird ausdrücklich ein Live-Check verlangt.
-
-## Arbeitsfragen
-
-1. Was ist das konkrete Ziel und welche Frist läuft?
-2. Welche Urkunde, Mail, Zustellung, Berechnung oder Aussage belegt den entscheidenden Punkt?
-3. Welche typische Gegenposition ist zu erwarten?
-4. Welche prozessuale Form ist richtig: Schreiben, Antrag, Klage, Eilantrag, Vergleich, Red-Team?
-5. Welche Formulierung vermeidet unnötige Zugeständnisse und hält den Fall offen?
 
 ## 2. `erstgespraech-mandatsannahme`
 
@@ -240,9 +230,6 @@ Weitere Entscheidungen siehe Themenskills. Im Erstgespraech keine Rechtsprechung
 - **§ 61b ArbGG** — Klage auf AGG-Entschädigung: drei Monate ab schriftlicher Geltendmachung
 - **§ 102 Abs. 2 BetrVG** — Betriebsratsanhörung: eine Woche ordentlich, drei Tage außerordentlich
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — Erstgespräch-Einstieg
 
 1. Liegt eine sofortige Klagefrist vor? (Kündigung → § 4 KSchG, Befristungsende → § 17 TzBfG)
@@ -358,6 +345,3 @@ Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
 - § 15 AGG — Entschädigung (Frist zwei Monate)
 - § 22 AGG — Beweislastverteilung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

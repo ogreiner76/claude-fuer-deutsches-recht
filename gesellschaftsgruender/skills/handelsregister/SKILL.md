@@ -5,10 +5,6 @@ description: "Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftr
 
 # Handelsregister-Anmeldung
 
-## Arbeitsbereich
-
-Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gründungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Prüfraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gründung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,9 +43,6 @@ Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflicht-Anlagen und Checkliste
 
 | Anlage | Pflicht | Besonderheit |
@@ -151,3 +144,4 @@ Bekanntmachungskosten: ca. 25 EUR
 - `gesellschaftsgruender-stammkapital-einzahlung` — Einzahlungsnachweis für Bankbestätigung
 - `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — nächste Schritte nach HR-Eintragung
 - `gesellschaftsgruender-transparenzregister` — Transparenzregistermeldung nach HR-Eintragung
+

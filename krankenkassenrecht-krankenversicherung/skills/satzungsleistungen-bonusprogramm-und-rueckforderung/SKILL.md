@@ -5,10 +5,6 @@ description: "Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 
 
 # Satzungsleistungen, Bonusprogramm und Rückforderung
 
-## Arbeitsbereich
-
-Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 SGB V), Bonusprogramme und Rückforderungsansprüche der Kasse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ Krankenkassen können freiwillige Leistungen anbieten, die über den gesetzliche
 - [BSG Satzungsleistungen](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 65a SGB V](https://dejure.org/gesetze/SGB_V/65a.html)
 - [GKV-Spitzenverband Satzungsleistungen](https://www.gkv-spitzenverband.de)
+

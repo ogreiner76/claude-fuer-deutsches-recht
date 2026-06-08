@@ -23,7 +23,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 Dieser Dokumenten-Intake für **Dsa Dma Digitalregulierung** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `account-internationaler-bezug-und-schnittstellen` — Account Internationaler Bezug und Schnittstellen
@@ -50,12 +49,9 @@ Dieser Dokumenten-Intake für **Dsa Dma Digitalregulierung** ordnet Anlagen, Reg
 - Tragende Normen vorläufig zuordnen: Art. 13, Art. 20, Art. 34, Art. 40, DDG, § 19a GWB — Endfeststellung erst nach Live-Check.
 - Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
 
-## Output
-
-Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Plattform/VLOP.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

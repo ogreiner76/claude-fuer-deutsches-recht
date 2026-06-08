@@ -37,13 +37,6 @@ Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss 
 - § 850i ZPO — Pfändung bei selbstständigem Einkommen
 - § 850k ZPO — Pfändungsschutzkonto (P-Konto), Sockelbetrag und Erhöhungen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Verlässlich pfändbare Beträge berechnen. Falsche Pfändungsfreigrenzen sind der häufigste Vollstreckungsfehler – Skill kapselt die aktuelle Tabelle und das zugehörige Python-Werkzeug.
-
 ## Startet bei
 
 - Lohnpfändung in Vorbereitung (`zv-pfueb-arbeitsentgelt`)
@@ -117,21 +110,6 @@ Erhöhungen müssen durch Bescheinigung (Schuldnerberatung, anerkannter Berater,
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-```
-PFÄNDUNGSBERECHNUNG (Tabelle 1.7.2025)
-
-Netto: EUR x
-Unterhaltspflichten: n
-Pfändbar regulär: EUR y / Monat
-Pfändbar privilegiert: EUR z (§ 850d ZPO, Selbstbehalt EUR a)
-P-Konto-Sockel: EUR b / Monat (+ Erhöhungen)
-Hinweis Sonderzuw.: [§ 850a Nr. 3/4 ZPO]
-
-Tabelle gültig bis: 30.6.2027
-```
-
 ## Qualitätsgates
 
 - Niemals Tabellenwerte 2019, 2021, 2022, 2023 verwenden.
@@ -140,14 +118,8 @@ Tabelle gültig bis: 30.6.2027
 - Bei selbstständigem Einkommen Berechnung § 850i ZPO statt § 850c ZPO.
 - Bei Sozialleistungen § 54 SGB I prüfen.
 
-## Querverweise
-
-- `zv-pfueb-arbeitsentgelt`, `zv-pfueb-bank`
-- `zv-abwehr-schuldner`
-- `werkzeuge/pfaendungsrechner.py`
-- `forderungsmanagement-klagewerkstatt/skills/inkasso-zahlungsklage-ersteller`
-
 ## Audit-Hinweis (27.05.2026)
 
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
+

@@ -46,13 +46,6 @@ description: "Tableau zur Darstellung von Erklärungsketten im BGB Allgemeiner T
 - Bei mehrerer stufiger Vollmacht: Untervollmacht erfordert ausdrückliche oder schlüssige Erlaubnis.
 - § 181 BGB gilt auch bei juristischen Personen, wenn eine Person auf beiden Seiten steht.
 
-## Output
-
-- Erklärungsketten-Tableau: grafische oder tabellarische Darstellung
-- Subsumtionsraster für jeden Kettenschritt
-- Gutachtenstil-Abschnitt zu kritischen Stellen der Kette
-- Ergebnis mit Wirksamkeitsfeststellung für die Gesamtkette
-
 ## Quellen
 
 - [§ 164 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__164.html)
@@ -82,3 +75,4 @@ als Vertreter oder als bloßer Bote handelt.
 - Vollmacht für jeden Vertreter in der Kette vorhanden?
 - § 166 BGB Wissenszurechnung in der Kette berücksichtigt?
 - Ergebnis der Kette: Wer ist Vertragspartner des Erklärungsempfängers?
+

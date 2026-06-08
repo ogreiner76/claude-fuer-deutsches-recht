@@ -10,10 +10,6 @@ description: "Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Bewei
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Verbrauchsgüterkauf nach §§ 474 ff. BGB und seine Schnittstellen zu §§ 327 ff. BGB für digitale Produkte prüfen: zwingende Normen, Beweislastumkehr, Updatepflichten.
-
 ## Normanker
 
 - § 474 BGB: Verbrauchsgüterkauf (Verbraucher kauft von Unternehmer)
@@ -48,25 +44,13 @@ Verbrauchsgüterkauf nach §§ 474 ff. BGB und seine Schnittstellen zu §§ 327 
 - Gebrauchte Sachen: Gewährleistungsfrist kann auf 1 Jahr verkürzt werden (§ 476 Abs. 2 BGB).
 - Fehler bei der Abgrenzung digitales Produkt (§ 327 BGB) vs. Ware mit digitalen Elementen (§ 475b BGB).
 - Ausschluss oder Beschränkung von Mängelrechten bei Verbrauchsgüterkauf ist nur in den Grenzen von § 476 BGB möglich.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Verbrauchsgüterkauf-Check (Parteien, Gegenstand, Fristen)
-- Beweislastumkehr-Analyse (Zeitpunkt, Vermutung, Ausnahmen)
-- Digital-Schnittstellen-Übersicht
-- Lieferketten-Rückgriffs-Check
-
-## Qualitätsregeln
-
-- Beweislastumkehr-Zeitraum (12 Monate) und Ausnahmen präzise prüfen.
-- Abgrenzung digitales Produkt/Ware mit digitalen Elementen immer vor Normauswahl klären.
-- § 476 BGB-Zwingendes immer mitprüfen.
 
 ## Anschluss-Skills
 
@@ -80,10 +64,4 @@ Verbrauchsgüterkauf nach §§ 474 ff. BGB und seine Schnittstellen zu §§ 327 
 - https://www.gesetze-im-internet.de/bgb/__474.html
 - https://www.gesetze-im-internet.de/bgb/__477.html
 - https://www.gesetze-im-internet.de/bgb/__475b.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

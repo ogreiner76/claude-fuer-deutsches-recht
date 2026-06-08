@@ -25,14 +25,6 @@ Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestel
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Anwaltliche Beratung und schriftliche Dokumentation gegenüber der Geschäftsführung einer GmbH/UG, wenn die Mandantin (häufig nach Hinweis des Steuerberaters via `stb-warnschreiben-krisensignale`) bei dem Anwalt vorspricht und sich Insolvenzreife verdichtet. Anders als der Steuerberater **darf und muss** der Anwalt die rechtliche Beurteilung der Antragspflicht treffen — und sich dabei selbst absichern.
-
-> ℹ️ **Rollenabgrenzung zu `anw-insolvenzreife-pruefung-17-19-inso`:** Dieser Skill ist **präventiv-belehrend** — erstellt das schriftliche Warn-/Belehrungsschreiben an den GF nach erfolgter Reife-Analyse. Die vorgeschaltete **analytische** Prüfung der Insolvenzreife (§§ 17, 19 InsO Subsumtion, Beweiswürdigung) leistet `anw-insolvenzreife-pruefung-17-19-inso`. Standardablauf: erst `anw-insolvenzreife-pruefung-17-19-inso` (Diagnose), dann dieser Skill (Mandantenbelehrung + Dokumentation).
-
-> Dieses Schreiben dokumentiert die Beratungsleistung. Es ist **kein** anwaltliches Mahn-/Warnschreiben gegen den Mandanten, sondern eine schriftliche **Belehrung über die Antragspflicht und ihre Folgen** mit Bestätigung der Beratung — Pflicht aus § 11 BORA und Selbstschutz vor späteren Regressansprüchen.
-
 ## Eingaben
 
 - Mandant (GmbH/UG, vollständige Firma, HRB, Stammkapital, GF mit Vertretungsbefugnis)
@@ -179,15 +171,6 @@ Rechtsanwalt/-anwaeltin
 | Anwalt selbst zahlt Honorar aus Mandantenkonto nach Insolvenzreife | § 15b InsO-Pflichtverstoß GF, Risiko Anwaltsregress | nach Verfahrenseröffnung | Honorar vor Insolvenzreife oder als Massevorab |
 | Beratung ohne Aktenlage | Sorgfaltsverstoß; Beweislastumkehr bei Schaden | bei kurzfristigem Hinweis | nach umfassender Akteneinsicht |
 
-## Querverweise
-
-- `stb-warnschreiben-krisensignale` — vorgelagerte StB-Warnschreiben
-- `stb-ueberschuldungspruefung-19-inso` — technische Vorprüfung
-- `stb-liquiditaetsvorschau-3wochen` — Liquidität § 17 InsO
-- `liquiditaetsplanung` (Power-Plugin) — gerichtsfeste insolvenzrechtliche Bilanz
-- `fachanwalt-insolvenz-sanierungsrecht` — bei Vollmandat zur Sanierung/Antragstellung
-- `anw-selbstanzeige-371` — wenn parallel Steuer-Hinterziehungsproblematik (Selbstanzeige kann § 15b-Schutz nicht ersetzen)
-
 ## Quellen und Updates
 
 Stand: 05/2026. SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F., 1.1.2021), SanInsKG (24-Monats-Prognose § 19 InsO bis 31.12.2026) berücksichtigt. § 11 BORA-Schriftformpflicht zentral. Bei Änderung InsO/BORA aktualisieren.
@@ -196,3 +179,4 @@ Stand: 05/2026. SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F., 1.1.2021), SanIns
 Maßnahme: Beschreibung des AZ korrigiert auf tatsächliches Thema: § 64 GmbHG a.F. — Zahlungsverbot nach Insolvenzreife; Aktiventausch und Rückgewähranspruch des GF. Das AZ ist damit thematisch passend für diesen Insolvenzreife-Skill und bleibt erhalten.
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=04.07.2017&Aktenzeichen=II+ZR+319%2F15
 -->
+

@@ -5,10 +5,6 @@ description: "Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher für Verfa
 
 # Baumaßnahmen und Sperrpausen im Schienennetz
 
-## Arbeitsbereich
-
-Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -60,11 +56,6 @@ Anwaltliche Begleitung bei Streitigkeiten über Baumaßnahmen, Sperrpausen, Bauu
 - VG Köln, OVG Münster, BVerwG mit Datum, Az., freier Fundstelle.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Beschwerdeschrift mit Auswirkungs-Datenanlagen.
-- Eilantrag § 68 ERegG.
-- Kommunikationsplan EVU-EIU-BNetzA (Eskalationspfad).
-
 ## Beispiele
 - EVU Schienengüter rügt 6-monatige Vollsperrung ohne ausreichende Umleitungstrasse. Beschwerde § 66 ERegG mit Antrag auf Korridoröffnung am Wochenende.
 - Personennahverkehr-EVU beanstandet Sperrpausenkonzept ohne Schienenersatzverkehr. Beschwerde plus Schadensersatz nach Verkehrsverträgen ÖPNV.
@@ -72,3 +63,4 @@ Anwaltliche Begleitung bei Streitigkeiten über Baumaßnahmen, Sperrpausen, Bauu
 
 ## Qualitätsgate
 TCR-Anmeldung fristgemäß? Vorrangkriterien § 51 ERegG bewertet? Eilbedürftigkeit dargelegt? Kompensationsangebote dokumentiert? Schadensersatzweg getrennt geprüft? Parallelverfahren EBA-Eisenbahnaufsicht reflektiert?
+

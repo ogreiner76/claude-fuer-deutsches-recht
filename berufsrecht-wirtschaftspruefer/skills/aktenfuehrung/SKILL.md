@@ -5,10 +5,6 @@ description: "Aktenführung: vertiefter Berufsrechts-Skill für Wirtschaftsprüf
 
 # Aktenführung
 
-## Arbeitsbereich
-
-Aktenführung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Aktenführung im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,12 +17,6 @@ Aktenführung: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Akt
 - **Normen-/Quellenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfung, EU-Abschlussprüferrecht, APAS/WPK, Unabhängigkeit, Rotation und Qualitätskontrolle.
 - **Entscheidende Weiche:** Prüfungsauftrag, Unabhängigkeit, Dokumentation, Wesentlichkeit, Berichterstattung, Aufsicht und Verteidigungslinie trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Aktenführung im Berufsrecht für Wirtschaftsprüfer
 
 ## Kaltstart in fünf Schritten
 
@@ -43,20 +33,6 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
 
 ## Normen und Rechtsprechung
 
@@ -86,3 +62,4 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 - Unabhaengigkeit nach § 49 WPO und Art. 5 VO 537/2014 vor Mandatsannahme schriftlich pruefen.
 - Bestaetigungsvermerk § 322 HGB darf keine versteckten Einschraenkungen enthalten; Versagung sorgfaeltig begruenden.
 - IDW PS 200 ff. sind Berufsstandards, ueber die im Disziplinarverfahren nicht hinausgegangen werden darf.
+

@@ -5,10 +5,6 @@ description: "Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wie
 
 # Influencer-Recht: DSA – Plattformbeschwerde und Account-Sperre
 
-## Arbeitsbereich
-
-Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,3 +69,4 @@ Der Digital Services Act (DSA) stärkt Creator-Rechte gegenüber Plattformen erh
 - Außergerichtlicher Streitbeilegungsantrag (Art. 21)
 - Schadensdokumentation-Vorlage
 - Einstweilige-Verfügungs-Antrag (Muster)
+

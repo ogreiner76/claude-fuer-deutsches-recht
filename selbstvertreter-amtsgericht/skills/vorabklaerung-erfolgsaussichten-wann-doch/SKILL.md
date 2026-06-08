@@ -5,9 +5,6 @@ description: "Vorabklaerung Erfolgsaussichten Wann Doch im Selbstvertretung am A
 
 # Vorabklaerung Erfolgsaussichten Wann Doch
 
-## Arbeitsbereich
-
-**Vorabklaerung Erfolgsaussichten Wann Doch** ordnet den Fall über die tragenden Prüfungslinien: Selbstcheck der Erfolgsaussichten einer Klage vor dem, Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll, Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Vorabklaerung Erfolgsaussichten Wann Doch im Selbstvertretung am A
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `vorabklaerung-erfolgsaussichten-selbstcheck`
@@ -146,27 +144,9 @@ Wenn Sie mehr als 2x "Nein/Unklar" haben: pause — pruefen Sie nochmal mit der 
 - "Ich habe ja Recht, das sieht der Richter doch." → Beweislage zaehlt, nicht Ueberzeugung.
 - "Wenn der Beklagte nichts hat, hat das Gericht ihn zur Zahlung zu verpflichten." → Gericht entscheidet, ob Anspruch besteht. Vollstreckung ist Ihr Problem.
 
-## Querverweise
-
-- `anspruchsgrundlage-finden-laienhilfe` — Was ist meine Anspruchsgrundlage?
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjährungs-Check.
-- `aussergerichtliche-mahnung-286-bgb` — Mahnung vor Klage.
-- `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid als Alternative.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kostenkalkulation.
-- `beweismittel-vorab-sammeln-checkliste` — Beweismittel ordnen.
-- `wann-doch-anwalt-grenzfaelle` — Wann doch Anwalt einschalten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill, keine spezifischen Reformen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `wann-doch-anwalt-grenzfaelle`
 
@@ -306,25 +286,9 @@ Wenn 3 von 4 mal "Nein": Anwalt.
 - "Anwalt zahlt sich nicht aus." → Bei Komplikationen schon.
 - "Ich nehme erst Anwalt für Berufung." → Gut, aber AG-Phase vorher gut gestalten.
 
-## Querverweise
-
-- `anwaltszwang-pruefen-78-zpo` — Wann zwingend.
-- `beratungshilfe-aussergerichtlich-brh` — Vor Mandat.
-- `prozesskostenhilfe-pkh-114-zpo` — Im Mandat.
-- `berufung-amtsgericht-511-zpo` — Berufung.
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Vorab-Pruefung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `widerklage-33-zpo`
 
@@ -458,21 +422,7 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 - "Widerklage hat eigenen Streitwert." → Falsch — wird addiert zur Klage.
 - "Bei Widerklage zahle ich nichts extra." → Doch — Gerichtsgebuehren auf addierten Streitwert.
 
-## Querverweise
-
-- `einreden-aktiv-geltend-machen` — Aufrechnung als Alternative.
-- `klageerwiderung-checkliste-alle-punkte` — Vollstaendigkeit.
-- `klage-streitwert-angabe-3-zpo` — Streitwert.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 33 ZPO unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

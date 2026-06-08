@@ -5,10 +5,6 @@ description: "Klauselkatalog für GmbH-Satzung und SHA in Deutsch und Englisch: 
 
 # Klauselkatalog bilingual DE/EN
 
-## Arbeitsbereich
-
-Klauselkatalog für GmbH-Satzung und SHA in Deutsch und Englisch: Standardklauseln für internationale Investoren. Normen: GmbHG, BGB. Prüfraster: Drag-Along, Tag-Along, Liquidationspräferenzen, Leaver-Klauseln. Output: Klauselkatalog bilinguale Fassung. Abgrenzung: nicht vollständiger Gesellschaftsvertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -514,3 +510,4 @@ OFFENE PUNKTE:
 
 FREIGABE: [NAME / DATUM]
 ```
+

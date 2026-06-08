@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Liquiditätsplanung: ordnet Roll
 
 Dieser Einstieg routet **Liquiditaetsplanung** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `ampel-zahlen-schwellenwerte-berechnung` — Ampel Zahlen Schwellenwerte Berechnung
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Liquiditaetsplanung** vom ersten Sachverhalt zu Rollen,
 - Zuständige Stelle bestimmen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Bank, IV/Restrukturierungsbeauftragter.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Liquiditätsplanung typische Eskalationsstufen: 13-Wochen-Plan, 24-Monats-Plan, Cash-Pool-Aufstellung.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

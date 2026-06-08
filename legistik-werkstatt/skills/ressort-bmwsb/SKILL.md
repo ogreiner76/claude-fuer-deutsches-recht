@@ -75,33 +75,6 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
  Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
-## Vorgehen
-
-### Schritt 1 - Stammdaten dieses Ressorts in das Auftragsblatt uebernehmen
-
-Volltitel; Federfuehrung; Mitzeichner; Spiegelausschuss; verantwortliches Referat und Aufsicht
-in das Auftragsblatt einpflegen.
-
-### Schritt 2 - Spezialfeld waehlen
-
-Aus den fuenf Spezialfeldern (siehe oben) das passende waehlen. Bei Mehrfachbezug: das
-schwerpunktmäßige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
-
-### Schritt 3 - Ressortaufgaben-Skill rufen
-
-Anschluss an `legw-ressortaufgaben-bmwsb` - dort ressortspezifische Aufgaben (Begruendung;
-Verbaendeanhoerung; Bundestagsweg; Aufsicht).
-
-### Schritt 4 - Werkstatt-Skills nutzen
-
-`legistik-auftragsaufnahme`; `normhierarchie-routing`; `normenkartierung`;
-`verfassungsmaessigkeit-quercheck`; `europarechtskonformitaet`; `folgenabschaetzung-*` und
-`begruendung-allgemein-und-besonders` ergaenzen.
-
-### Schritt 5 - Optional RuleMapping-Anschluss
-
-Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einstieg in die 10 RuleMapping-Skills (Abschluss mit `legw-rmap-anschluss-an-legw`).
-
 ## Normenanker
 
 Arbeitsfokus: **Ressort-Heranfuehrung BMWSB**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -117,30 +90,9 @@ Arbeitsfokus: **Ressort-Heranfuehrung BMWSB**. Prüfe diese Anker am Sachverhalt
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-Ressort-Kompass im Auftragsblatt:
-
-```
-Ressort: BMWSB - Bundesministerium für Wohnen; Stadtentwicklung und Bauwesen
-Hausleitung: Verena Hubertz (SPD)
-Materie: Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung.
-Kernnormen: BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG.
-Spezialfeld: <gewaehlter Slug>
-Mitzeichner: <Liste>
-Spiegelausschuss: <Bundestags-Ausschuss>
-Verbaendekreis: <Listen-Liste>
-EU-Bezug: <Generaldirektion und Rechtsakt>
-Naechster Skill: legw-ressortaufgaben-bmwsb
-```
 
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

@@ -5,10 +5,6 @@ description: "Datenschutz im Krankenhaus: DSGVO, BDSG, Landeskrankenhausgesetze,
 
 # Datenschutz Krankenhaus Patientenakte Forschung
 
-## Arbeitsbereich
-
-Datenschutz im Krankenhaus: DSGVO, BDSG, Landeskrankenhausgesetze, Patientenakte, ePA-Anbindung, Forschungsdaten, Auftragsverarbeitung Cloud/KI, Betroffenenrechte und Datenpannen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,14 +79,6 @@ Patientendaten sind besonders schutzwuerdig (Art. 9 DSGVO Gesundheitsdaten). Im 
 - Datenpannen-Frist 72h versaeumt.
 - KI-Tools ohne DSFA und ohne Pseudonymisierungspruefung.
 
-## Querverweise
-- `patientenrechte-behandlungsvertrag-aufklaerung`
-- `dokumentation-aufbewahrung-beweislast`
-- `forschung-studien-ethikkommission-datenschutz`
-- `krankenhausdigitalisierung-khzg-it-sicherheit`
-- `kritis-krankenhaus-bsi-gesetz-nis2`
-- `dora-und-it-dienstleister-soweit-einschlaegig`
-
 ## Quellen Stand 06/2026
 - DSGVO.
 - BDSG §§ 22, 23, 27.
@@ -100,3 +88,4 @@ Patientendaten sind besonders schutzwuerdig (Art. 9 DSGVO Gesundheitsdaten). Im 
 - PatientendatenSchutzG (PDSG) zur ePA.
 - BfDI- und Landesdatenschutzaufsicht-Hinweise (Live-Check bfdi.bund.de).
 - BGH, staend. Rspr. zur aerztlichen Schweigepflicht.
+

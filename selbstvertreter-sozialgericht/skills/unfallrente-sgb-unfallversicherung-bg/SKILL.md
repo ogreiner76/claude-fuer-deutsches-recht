@@ -5,9 +5,6 @@ description: "Unfallrente SGB Unfallversicherung BG im Selbstvertretung am Sozia
 
 # Unfallrente SGB Unfallversicherung BG
 
-## Arbeitsbereich
-
-**Unfallrente SGB Unfallversicherung BG** ordnet den Fall über die tragenden Prüfungslinien: Unfallrente nach § 56 SGB VII, Streit mit der Berufsgenossenschaft SGB VII, Die Untätigkeitsklage nach § 88 SGG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Unfallrente SGB Unfallversicherung BG im Selbstvertretung am Sozia
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `unfallrente-56-sgb-vii`
@@ -229,25 +227,9 @@ Beklagte: BG am Sitz der BG (Sonderzuständigkeit nach § 57 Abs. 2 SGG). Beispi
 - Privater Arzt-Behandlung statt BG-Wege → Erstattung gefaehrdet
 - Wegeunfall-Definition (Umweg, Unterbrechung) zu locker
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch
-- `verpflichtungsklage-54-sgg` — Klage
-- `medizinische-gutachten-strategie-laien` — Gutachten
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB VII aktuell. BKV jaehrlich aktualisiert. BSG-Linie zu BK-Anerkennung detailliert in juris pruefen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `untaetigkeitsklage-88-sgg`
 
@@ -389,25 +371,9 @@ Wichtig: Das Gericht entscheidet nur, DASS die Behörde entscheiden muss — nic
 - Klage ohne Erinnerung → erlaubt, aber Sachgrund hat dann mehr Gewicht
 - Nicht erkennen, dass Untaetigkeitsklage nur Pflicht zur Entscheidung erzwingt → realistisch bleiben
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — Ueberblick
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch
-- `widerspruchsbescheid-was-jetzt` — wenn Bescheid dann doch kommt
-- `kostenfrei-vs-aufwendungsersatz-193-sgg` — Erstattung
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Pruefungen oft Sachgrund — aber nicht unbegrenzt.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `urteil-sozialgericht-was-jetzt`
 
@@ -519,25 +485,9 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 - Bei Sieg kein Aufwendungs-Ersatz beantragt → § 193 SGG nutzen
 - Auf Auszahlung gewartet ohne nachzufragen → Erinnerung schicken
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `berufung-lsg-144-sgg-wertgrenze-750` — Berufung
-- `berufung-zulassung-besondere-bedeutung` — Berufung zulassen
-- `nichtzulassungsbeschwerde-bsg-160a-sgg` — bei BSG-Frage
-- `kostenfrei-vs-aufwendungsersatz-193-sgg` — Aufwendungs-Ersatz
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `vergleich-vorschlag-101-sgg`
 
@@ -653,22 +603,7 @@ Im Vergleich wird die Kostenregel geregelt:
 - Datum-Beginn nicht klar → ausdruecklich
 - Teilvergleich akzeptiert ohne Rest-Klage zu verstehen → klaeren
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `verhalten-im-saal-sozialgericht-laienleitfaden` — Verhalten
-- `terminvorbereitung-laien-checkliste-sozialgericht` — Vorbereitung
-- `kostenfrei-vs-aufwendungsersatz-193-sgg` — Kosten
-- `urteil-sozialgericht-was-jetzt` — Alternative Urteil
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 101 SGG aktuell.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

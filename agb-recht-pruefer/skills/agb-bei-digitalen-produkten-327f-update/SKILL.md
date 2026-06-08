@@ -5,10 +5,6 @@ description: "AGB bei digitalen Produkten und § 327f BGB Update-Pflicht. Skill 
 
 # Agb Bei Digitalen Produkten 327F Update
 
-## Aufgabe
-
-Skill für AGB-Kontrolle bei digitalen Produkten nach § 327 ff. BGB.
-
 ## Norm
 
 - §§ 327-327u BGB (in Kraft 01.01.2022).
@@ -48,12 +44,6 @@ Skill für AGB-Kontrolle bei digitalen Produkten nach § 327 ff. BGB.
 4. Hauptleistungsbeschreibung?
 5. EU-Linie zur Vertragsanpassung?
 
-## Output
-
-- Klauselentwurf.
-- Schriftsatzbaustein Verbraucherklage.
-- Pruefraster für Anbieter.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -82,3 +72,4 @@ Skill für AGB-Kontrolle bei digitalen Produkten nach § 327 ff. BGB.
 - AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
 - Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+

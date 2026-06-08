@@ -5,10 +5,6 @@ description: "Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, N
 
 # Laufzeitende und Exitplan
 
-## Arbeitsbereich
-
-Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -41,10 +37,6 @@ Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, 
 ## Spezialfokus
 
 Der Skill macht aus dem Laufzeitende kein überraschendes Desaster, sondern eine geordnete Entscheidungsstrecke.
-
-## Aufgabe
-
-Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches Amt/Gericht, welcher Rang oder welche Eintragung betroffen ist. Trenne streng zwischen materieller Rechtslage, Formnachweis, Vollzugshindernis und taktischer Kommunikation.
 
 ## Arbeitsmodus
 

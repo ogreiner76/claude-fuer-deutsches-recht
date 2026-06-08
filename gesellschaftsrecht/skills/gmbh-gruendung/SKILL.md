@@ -42,19 +42,6 @@ Vor Beginn der Gruendungsbegleitung klaeren:
 6. **Transparenzregister-Pflicht bekannt?** Wirtschaftlich Berechtigte (§ 3 GwG) identifiziert? Eintragungsfrist 2 Wochen nach Gruendung.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Zweck
-
-Dieser Skill deckt den gesamten Gründungsprozess einer GmbH ab: Entwurf und
-notarielle Beurkundung des Gesellschaftsvertrags, Aufbringung und Nachweis des
-Stammkapitals, Bestellung und Anmeldung des Geschäftsführers, Eintragung ins
-Handelsregister sowie die nachgelagerten Pflichten (Gewerbeanmeldung, IHK-
-Mitgliedschaft, Bankkontoöffnung, Eintragung ins Transparenzregister). Daneben
-behandelt er die kostengünstige Alternative der Unternehmergesellschaft (UG)
-nach § 5a GmbHG.
-
-Mandatsbezug: Mandant möchte eine Kapitalgesellschaft errichten; Beratung über
-Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
-
 ## Eingaben
 
 1. **Gesellschafterkreis** – Namen, Adressen, Nationalität, Geschäftsfähigkeit;
@@ -107,6 +94,7 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -156,12 +144,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Gruender will erst UG dann Hochstufung | UG-Gruendung zuerst; Hochstufung nach Kapitalaufbau |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Ausgabeformat
-
-- **Gruendungs-Checkliste** (Tabelle): Schritt | Norm | Verantwortlich | Frist.
-- **Gesellschaftsvertragsentwurf** (Schriftsatz): Mindestinhalt § 3 GmbHG; optionale Klauseln (Vinkulierung, Wettbewerbsverbot, Nachschusspflicht).
-- **Mandantenmemo** (Gutachtenstil): Kapitalaufbringungsrisiken, Vorgesellschaftshaftung, UG-Vergleich.
 
 ## Output-Template
 
@@ -283,3 +265,4 @@ Alle Aussagen zu GmbH-Gründungsrecht nach `references/zitierweise.md`.
 Rspr. vor Kommentar; neueste Entscheidungen zuerst. Bei UG-Variante und
 Vorgesellschaftsfragen bestehende Meinungsunterschiede in der Literatur
 ausdrücklich aufzeigen. Gesetzesstände (insb. GwG) auf Aktualität prüfen.
+

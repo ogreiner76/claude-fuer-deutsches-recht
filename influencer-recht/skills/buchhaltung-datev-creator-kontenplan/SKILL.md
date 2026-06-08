@@ -5,10 +5,6 @@ description: "Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenpla
 
 # Influencer-Recht: Buchhaltung, DATEV und Creator-Kontenplan
 
-## Arbeitsbereich
-
-Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,3 +80,4 @@ Korrekte Buchführung ist die Grundlage für Steuern und Betriebsprüfungen:
 - Kontenplan SKR 03 für Creator
 - Belegarchivierungs-Checkliste (GoBD)
 - DATEV-Schnittstelle-Anleitung
+

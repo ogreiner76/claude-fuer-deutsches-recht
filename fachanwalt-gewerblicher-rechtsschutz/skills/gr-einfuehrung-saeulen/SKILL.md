@@ -5,9 +5,6 @@ description: "GR Einfuehrung Saeulen im Plugin Fachanwalt Gewerblicher Rechtssch
 
 # GR Einfuehrung Saeulen
 
-## Arbeitsbereich
-
-**GR Einfuehrung Saeulen** ordnet den Fall über die tragenden Prüfungslinien: Einführung in den gewerblichen Rechtsschutz, Aktivlegitimation bei Mitbewerberabmahnung, Markenrecht in Österreich und der Schweiz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "GR Einfuehrung Saeulen im Plugin Fachanwalt Gewerblicher Rechtssch
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `gr-einfuehrung-saeulen`
@@ -30,9 +28,6 @@ description: "GR Einfuehrung Saeulen im Plugin Fachanwalt Gewerblicher Rechtssch
 **Fokus:** Einführung in den gewerblichen Rechtsschutz: Fünf Säulen (Markenrecht, Patentrecht, Designrecht, Urheberrecht, Lauterkeitsrecht/UWG), FAO-Anforderungen § 14k, Behördenübersicht DPMA/EUIPO/EPA, Verfahrensarten, Schutzrechts-Portfolio.
 
 ### Einführung: Die fünf Säulen des gewerblichen Rechtsschutzes
-
-## Aufgabe
-Dieser Skill vermittelt den systematischen Überblick über den gewerblichen Rechtsschutz: Rechtsgebiete, Behörden, Schutzrechte, Verfahrensarten und Routing in die passenden Fachmodule.
 
 ## Die fünf Säulen
 
@@ -136,13 +131,6 @@ Besondere praktische Erfahrungen in **drei der fünf Bereiche**: Markenrecht, Pa
 4. Gibt es Fristen oder eilige Schritte?
 5. Output: Überblicksmemo, Routing-Empfehlung, Checkliste?
 
-## Quellenregel
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de), [eur-lex.europa.eu](https://eur-lex.europa.eu).
-- Behörden: [dpma.de](https://www.dpma.de), [euipo.europa.eu](https://euipo.europa.eu), [epo.org](https://www.epo.org).
-- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
 - Kein Einzel-Rechtsgebiet-Tiefgang (dafür Fachmodule nutzen).
@@ -152,9 +140,6 @@ Besondere praktische Erfahrungen in **drei der fünf Bereiche**: Markenrecht, Pa
 **Fokus:** Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis § 2 Abs. 1 Nr. 4 UWG, Mitbewerberbegriff BGH, Verbands- und Kammerbefugnis § 8 Abs. 3 UWG, Missbrauchsprüfung § 8c UWG, negative Feststellungsklage als Gegenmaßnahme.
 
 ### Aktivlegitimation bei Mitbewerberabmahnung
-
-## Aufgabe
-Dieser Skill prüft die Aktivlegitimation bei UWG-Abmahnungen: konkretes Wettbewerbsverhältnis, Mitbewerberbegriff, Verbandsbefugnis und Missbrauchsprüfung.
 
 ## Rechtsrahmen
 
@@ -238,13 +223,6 @@ Dieser Skill prüft die Aktivlegitimation bei UWG-Abmahnungen: konkretes Wettbew
 ## Plugin-Kontext
 Anschluss-Skills: `gr-abmahnung-workflow`, `spezial-gewerblichen-tatbestand-beweis-und-belege`, `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten`.
 
-## Quellenregel
-- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- BfJ-Liste: [bundesjustizamt.de](https://www.bundesjustizamt.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
 - Keine Bewertung ohne Kenntnis der konkreten Markt- und Geschäftslage.
@@ -254,9 +232,6 @@ Anschluss-Skills: `gr-abmahnung-workflow`, `spezial-gewerblichen-tatbestand-bewe
 **Fokus:** Markenrecht in Österreich und der Schweiz: Österreichisches Markengesetz (MSchG), Österreichisches Patentamt (ÖPA), Schweizer Markenschutzgesetz (MSchG CH), IGE/IPI Bern, IR-Marke als Erweiterungsweg, EUIPO-Ausschluss Schweiz, Besonderheiten und Fallstricke.
 
 ### Markenrecht in Österreich und der Schweiz
-
-## Aufgabe
-Dieser Skill behandelt die Besonderheiten des Markenrechts in Österreich und der Schweiz: nationale Verfahren, Anmeldewege, Unterschiede zum deutschen/EU-Recht und Fallstricke für deutschsprachige Mandate.
 
 ## Österreich – Markenrecht
 
@@ -342,13 +317,7 @@ Die effizienteste Möglichkeit, Markenschutz in der Schweiz zu erlangen, ist die
 ## Plugin-Kontext
 Anschluss-Skills: `spezial-euipo-internationaler-bezug-und-schnittstellen`, `gr-portfolio-pflege-workflow`, `faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung`.
 
-## Quellenregel
-- ÖPA: [patentamt.at](https://www.patentamt.at); IGE: [ige.ch](https://www.ige.ch); WIPO: [wipo.int](https://www.wipo.int).
-- Normen: AT MSchG (ris.bka.gv.at); CH MSchG (fedlex.admin.ch).
-- Rechtsprechung: OGH Wien (AT); Bundesgericht (CH); [curia.europa.eu](https://curia.europa.eu) (EU-Recht).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Rechtsberatung nach österreichischem oder schweizerischem Recht ohne Kooperation mit Lokalkanzlei.
 - Kein Ersatz für Anwaltsmandat in AT oder CH.
+

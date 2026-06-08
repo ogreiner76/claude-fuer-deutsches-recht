@@ -98,13 +98,6 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 1. Rueckkehr zu Art. 15 — 183-Tage-Pruefung.
 2. Vollumfaengliche Schweizer Quellensteuer.
 
-## Output
-
-- **Mandanten-Memo Grenzgaengerstatus Schweiz**.
-- **Reisekalender-Vorlage**.
-- **Berechnungsbeispiel** mit Schweizer Quellensteuer (Hoechstsatz aus Art. 15a DBA-Schweiz entnehmen — in der Praxis traditionell 4,5 Prozent, verifikationspflichtig) und Anrechnung nach § 34c EStG.
-- **Anlage N-AUS und AUS** Hinweise.
-
 ## Strategie und Praxis-Tipps
 
 - 60-Tage-Schaedlichkeit ist DAS Streitthema — Reisekalender taeglich fuehren, Beweismittel sammeln.
@@ -186,15 +179,9 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 >
 > Schritt 5: Vergleich Schaedlichkeitsfall (vorheriges Beispiel): Status-Erhalt spart erhebliche CH-Steuer und nutzt deutsche guenstigere Tarife.
 
-## Querverweise
-
-- `stb-dba-schweiz` — Grunddokumentation DBA-Schweiz.
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.
-- `stb-dba-home-office-pandemie-folgeregelung` — Konsultationsvereinbarung Home-Office.
-- `stb-dba-grenzgaenger-frankreich-vor-allem-elsass`, `stb-dba-grenzgaenger-oesterreich-rueckkehr` — Vergleichsregelungen.
-
 ## Quellen und Updates
 
 Stand: 05/2026. Art. 15a DBA-Schweiz in der Fassung Aend.-Prot. 12.03.2002 (BGBl. 2003 II S. 68). Konsultationsvereinbarung Home-Office vom 11.06.2020 und Folgevereinbarungen. Konkreten Quellensteuer-Hoechstsatz und 60-Tage-Schaedlichkeitsschwelle im DBA-Text Art. 15a pruefen; aktuelle Home-Office-Konsultationsvereinbarung im BMF-Veroeffentlichungsverzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 2 belegt (BGBl. 1972 II S. 1021/1022 bestaetigt; BGBl. 2003 II S. 68 bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert; FM-description final ohne Marker) -->
+

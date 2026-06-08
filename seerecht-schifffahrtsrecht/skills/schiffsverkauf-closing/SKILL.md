@@ -49,11 +49,6 @@ Ein norddeutscher Schiffskapitalfonds veräußert einen Bulkcarrier an einen gri
 - Bunker-Streit nach Übergabe mangels Protokollierung.
 - ISM-/MLC-Zertifikate nicht rechtzeitig neu ausgestellt; Detention droht.
 
-## Output
-- Closing-Checkliste (Dokumente; Register; Versicherung; Zertifikate)
-- Übergabe-Protokoll-Baustein (Delivery and Acceptance Certificate)
-- Ablösungsrechnung-Vorlage für Hypothekenbanken
-
 ## Erweiterte Normengrundlage
 
 ### Kaufrecht
@@ -90,3 +85,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - SchRegO: https://dejure.org/gesetze/SchRegO
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - MLC ILO: https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C186
+

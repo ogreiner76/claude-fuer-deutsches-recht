@@ -116,22 +116,7 @@ Bei Teil-Sieg: Quotenrechnung. Beispiel: Sie wollten 1000 EUR, bekommen 500: 50 
 - Antrag vergessen → kein Geld
 - Eigene Stundenrechnung → nicht erstattungsfaehig
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `gerichtskostenfreiheit-183-sgg` — Grundlage
-- `anwaltskosten-bei-erfolg-erstattung` — Anwalt
-- `fahrtkosten-zeugen-pkh-erstattung` — Fahrtkosten
-- `urteil-sozialgericht-was-jetzt` — Urteil
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 193 SGG aktuell. RVG für Anwaltsrechnung pruefen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

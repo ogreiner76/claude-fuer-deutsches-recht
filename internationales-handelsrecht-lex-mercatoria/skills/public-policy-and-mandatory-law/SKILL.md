@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Ordre public und Eingriffsnormen in 
 
 # Ordre Public und Eingriffsnormen
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Ordre public und Eingriffsnormen sind Ausnahmen von der Parteiautonomie. Eingrif
 - Eco Swiss: EU-Kartellrecht im Schiedsantrag als Gegenargumentation nutzen
 - NY Convention: Vollstreckungsvorbehalt als letztes Mittel — Angriff auf Award inhaltlich kostspielig
 
-## Output
-
-- Eingriffsnorm vs. Ordre Public Unterscheidungsschema
-- EU-Kartellrecht als Eingriffsnorm / Ordre Public Checkliste
-- NY Convention Art. V Abs. 2 lit. b Anwendungsfälle
-
-## Quellenregel
-
-Rom I Art. 9, 21: eur-lex.europa.eu. NY Convention: newyorkconvention.org. EuGH C-126/97 Eco Swiss: curia.europa.eu. Schrifttum: Born, International Commercial Arbitration (2021) Kap. 26. Unsicherheit bleibt sichtbar.

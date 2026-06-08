@@ -5,10 +5,6 @@ description: "Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss
 
 # Onboarding eines neuen Handelsvertreters — Vertragsstart und erste Pflichten nach § 86 HGB
 
-## Arbeitsbereich
-
-Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss, Vollmachtserteilung, erste Pflichten des Handelsvertreters nach § 86 HGB, Einrichtung von Berichts- und Abrechnungssystemen, Einarbeitung in das Produktsortiment sowie Klärung von Provisionssatz, Bezirk und Berichtspflichten zu Vertragsbeginn. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,10 +62,6 @@ Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländis
 - DSGVO-Vereinbarungen vergessen — Bußgeldrisiko bei Kundendatenverarbeitung.
 - Berichtspflichten nicht vereinbart — Unternehmer hat keine Kontrollmöglichkeit.
 
-## Output
-
-Onboarding-Checkliste, Vollmachtsurkunde Entwurf, Vertragsüberprüfung erster Monat.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
 - [§ 54 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__54.html)
 - [Dejure § 86 HGB](https://dejure.org/gesetze/HGB/86.html)
+

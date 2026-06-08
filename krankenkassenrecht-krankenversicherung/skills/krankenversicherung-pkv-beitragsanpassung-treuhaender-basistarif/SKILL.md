@@ -5,10 +5,6 @@ description: "PKV-Beitragserhöhungen nach § 203 VVG: Treuhänder-Zustimmung, f
 
 # PKV-Beitragsanpassung: Treuhänder, Begründung und Verjährung
 
-## Arbeitsbereich
-
-PKV-Beitragserhöhungen nach § 203 VVG: Treuhänder-Zustimmung, formelle und materielle Anforderungen, BGH-Rechtsprechung und Rückforderungsverjährung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ PKV-Beiträge werden regelmäßig erhöht. Dieser Skill prüft, ob **Beitragsanp
 - [§ 157 VAG – Treuhänder](https://www.gesetze-im-internet.de/vag_2016/__157.html)
 - [dejure.org § 203 VVG](https://dejure.org/gesetze/VVG/203.html)
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
+

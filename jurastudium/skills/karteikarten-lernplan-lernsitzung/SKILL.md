@@ -5,10 +5,6 @@ description: "Karteikarten für Jurastudium und Examensvorbereitung erstellen: A
 
 # Karteikarten-Drill
 
-## Arbeitsbereich
-
-Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Karteikarten-Format Vorderseite Begriff/Norm Rückseite Definition/Schema, Schwierigkeitsgrad einordnen, prüfungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert für Spaced-Repetition. Abgrenzung zu Lernplan für Zeitmanagement und zu Tatbestaende-Lernen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall 
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Definitionen, Tatbestandsmerkmale und Normstrukturen für das Staatsexamen müssen exakt und abrufbar sein — nicht "ungefähr bekannt". Diese Skill erzeugt Karteikarten aus eigenen Materialien (Skripten, Lernblättern, Definitionen-Sammlungen) oder aus eigenen Notizen, übt sie im Leitner-System und zeigt, welche Wissenslücken bestehen.
-
-Nicht diese Skill: Anki selbst ersetzen. Wer Anki bereits nutzt, sollte es behalten. Diese Skill ist für den Direkteinstieg im Chat — ohne Programmwechsel.
-
-Modi: `--erstellen` | `--üben` (Standard) | `--durchsehen` | `--statistik` | `--einheit <n>`
 
 ## Eingaben
 
@@ -112,24 +100,6 @@ Norm: § 185 StGB
 | nicht gewusst | absteigen | heute +4 Stunden |
 | weiß nicht | absteigen | heute +4 Stunden |
 
-## Ausgabeformat
-
-- Karten im Markdown-Format, ein Block je Karte
-- Statistik als Tabelle: Rechtsgebiet / Gesamt / Bucket-Verteilung / Heute fällig
-- Sitzungsbericht am Ende einer `--einheit`:
-
-```yaml
-sitzungs_verlauf:
- - datum: 2026-05-08
- rechtsgebiet: Schuldrecht BT
- typ: karteikarten
- karten_anzahl: 10
- gewusst: 7
- teilweise: 2
- nicht_gewusst: 1
- problemthemen: [§ 823 Abs. 2 BGB Schutzgesetze]
-```
-
 ## Beispiel
 
 **Einheit BGB AT — 5 Karten:**
@@ -160,3 +130,4 @@ Jede Karte, die aus eigenen Unterlagen generiert wurde, trägt die Quellangabe d
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

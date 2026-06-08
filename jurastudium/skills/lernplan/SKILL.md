@@ -5,10 +5,6 @@ description: "Erstellt oder aktualisiert einen strukturierten Lernplan für das 
 
 # Staatsexamen-Lernplan
 
-## Arbeitsbereich
-
-Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet, adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv, Kaiser-Skripten). Lädt, wenn der Nutzer "Lernplan erstellen", "Examensvorbereitung planen", "Stundenplan Staatsexamen" oder "wie soll ich für [Prüfung] lernen" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsex
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Ohne Plan verschwindet Zeit. Diese Skill baut einen Lernplan für das Erste oder Zweite Staatsexamen — phasenbezogen, nach Schwachstellen gewichtet, mit Tages- und Wochenstruktur — und passt ihn nach jeder Lernsitzung an. Der Plan lebt; er ist kein exportierter Kalender.
-
-Er gibt auch den nachgelagerten Skills (Karteikarten, Drill, Gutachtenstil) einen gemeinsamen Fahrplan, damit nicht bei jeder Sitzung von vorn gefragt werden muss, was heute dran ist.
 
 ## Eingaben
 
@@ -219,12 +209,6 @@ Nach jeder Sitzung (Karteikarten, Drill, Klausur) wird ein Sitzungsbericht an `s
 - `--status`: Was ist heute und diese Woche geplant? Scoreverlauf? Was liegt zurück?
 - `--intensiv`: Crash-Modus erzwingen (auch wenn mehr als 6 Wochen verbleiben)
 
-## Ausgabeformat
-
-- Prosa-Zusammenfassung vor dem Speichern (mit Bestätigungsfrage)
-- YAML-Datei mit vollständiger Planstruktur
-- Tagesplan für die ersten zwei Wochen tagesgenau; danach wochenweise
-
 ## Beispiel
 
 **Eingabe:** "Lernplan für das Erste Staatsexamen NRW, Termin März 2027, Schwächen: Sachenrecht, Strafrecht BT."
@@ -248,4 +232,6 @@ Hinweis: Dieser Lernplan ersetzt keine Beratung durch Seminarleiter, Repetitoren
 ---
 
 <!-- AUDIT 27.05.2026 -->
+
 ## Audit-Hinweis (27.05.2026)
+

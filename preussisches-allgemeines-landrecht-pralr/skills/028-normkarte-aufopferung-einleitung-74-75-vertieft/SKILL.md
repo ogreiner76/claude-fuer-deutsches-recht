@@ -5,10 +5,6 @@ description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft im Preußis
 
 # PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft
 
-## Arbeitsbereich
-
-PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft. Arbeite entlang dieser k
 - Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Normkarte Aufopferung Einleitung 74 75 vertieft** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
 ## Kaltstart in 6 Fragen
 
@@ -77,10 +69,3 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 3. Spezialgesetz vorhanden (POG, BVG, InfSchG)? — Vorrang.
 4. Sonst allgemeiner Aufopferungsanspruch nach Einl. §§ 74, 75 ALR.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

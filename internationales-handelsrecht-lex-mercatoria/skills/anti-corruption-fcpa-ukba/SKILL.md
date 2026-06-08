@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Anti-Korruption im internationalen H
 
 # Anti-Korruption: FCPA und UK Bribery Act
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,16 +48,6 @@ Der FCPA (Foreign Corrupt Practices Act, 1977) verbietet Bestechung ausländisch
 - Compliance-Programm: Adequate Procedures nach UKBA-Leitfaden (Ministry of Justice 2011)
 - Books-and-Records: FCPA-konforme Buchführung für alle Ausgaben
 - Red Flags: Zahlung auf Drittkonten, Bargeld, ungewöhnlich hohe Provisionen
-
-## Output
-
-- FCPA/UKBA-Vergleichstabelle
-- Third-Party-Due-Diligence-Checkliste
-- Adequate-Procedures-Grundstruktur (UKBA)
-
-## Quellenregel
-
-FCPA: justice.gov/criminal-fraud/foreign-corrupt-practices-act. UKBA: legislation.gov.uk. OECD-Konvention: oecd.org. StGB: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
 
 ## Normen und Rechtsprechung
 

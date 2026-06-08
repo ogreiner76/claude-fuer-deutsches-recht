@@ -5,10 +5,6 @@ description: "Erstellt FAQ, interne Wissensbasis und Kundenservice-Antworten zu 
 
 # Knowledge Base und Kundenservice
 
-## Arbeitsbereich
-
-Erstellt FAQ, interne Wissensbasis und Kundenservice-Antworten zu Verlagstiteln, Updates, Downloads, Errata, Lizenzen und Produktfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,19 +12,6 @@ Erstellt FAQ, interne Wissensbasis und Kundenservice-Antworten zu Verlagstiteln,
 - Tragende Normen verifizieren: UrhG §§ 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB §§ 433, 631, JuSchG, PresseG der Länder, ImpressumsR, DSGVO Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Für wiederkehrende Fragen aus Vertrieb, Support, Autor:innenbetreuung oder Redaktion.
-
-## Output
-
-- FAQ.
-- interne Antwortbausteine.
-- Eskalationsregeln.
-- Produktstatus.
-- Errata-Hinweise.
-- Download-/Lizenzhinweise.
 
 ## Regel
 
@@ -50,10 +33,3 @@ Keine rechtlichen oder vertraglichen Zusagen erfinden. Unklare Punkte an Verlag/
 
 Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll veroeffentlicht oder uebergeben werden? Fuer wen ist es bestimmt? Bis wann muss es freigegeben sein? Danach mit einer belastbaren Arbeitsfassung beginnen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

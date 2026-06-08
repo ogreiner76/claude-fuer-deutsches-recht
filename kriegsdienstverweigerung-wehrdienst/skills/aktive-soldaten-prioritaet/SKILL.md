@@ -5,10 +5,6 @@ description: "Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst 
 
 # Vorrang aktive Soldaten
 
-## Arbeitsbereich
-
-Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,9 +17,6 @@ Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst. Arbeite entla
 - **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
 - **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Einsatz
-Behandelt aktive Soldatinnen und Soldaten, SaZ, Berufssoldaten, FWDL und soldatenrechtliche Nebenfolgen.
 
 ## Fachlicher Kern
 Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
@@ -43,12 +36,6 @@ Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst. Die Antwort m
 
 ## Norm- und Quellenanker
 KDVG § 4; KDVG § 2 Abs. 6
-
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
 
 ## Rote Linien
 Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarrisiken und anwaltliche Absicherung sauber trennen.
@@ -92,3 +79,4 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 - Antrag § 3 KDVG schriftlich, ausfuehrlich, mit Lebenslauf und Gewissensentscheidung; BVerwG 6 C 4.83 als Massstab.
 - Anerkennungsausschuss BAFzA als Beweisaufnahme: persoenliche Anhoerung Pflicht, keine reine Aktenpruefung.
 - Rechtsschutz nach §§ 14, 15 KDVG ueber VG; aufschiebende Wirkung § 80 Abs. 5 VwGO bei Einberufung.
+

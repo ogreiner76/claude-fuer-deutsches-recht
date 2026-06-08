@@ -48,25 +48,13 @@ Verjährungsfristen im BGB Besonderer Teil prüfen: Sonderfristen für Kaufrecht
 - Arglist verlängert Verjährung bei Kauf auf 30 Jahre; bei Werkvertrag auf 10 Jahre.
 - Hemmung durch Verhandlungen (§ 203 BGB) setzt echten Austausch voraus; bloße Ablehnung genügt nicht.
 - Verjährung des Bereicherungsanspruchs nach § 852 BGB (10 Jahre) als 'Restschaden' neben § 823 BGB.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Verjährungs-Kalender (Fristbeginn, Fristende, Hemmungszeiträume)
-- Sonderfrist-Matrix (Kauf, Miete, Werk, Delikt)
-- Arglist-Verlängerungs-Prüfung
-- Handlungsempfehlung (Klageerhebung, Anerkenntniseinholung)
-
-## Qualitätsregeln
-
-- Anspruchsgrundlage und Sonderverjährung immer als erste Weiche setzen.
-- Arglist immer aktiv mitprüfen; kann Verjährung entscheidend verlängern.
-- Hemmungsberechnung dokumentieren.
 
 ## Anschluss-Skills
 
@@ -80,10 +68,4 @@ Verjährungsfristen im BGB Besonderer Teil prüfen: Sonderfristen für Kaufrecht
 - https://www.gesetze-im-internet.de/bgb/__438.html
 - https://www.gesetze-im-internet.de/bgb/__548.html
 - https://www.gesetze-im-internet.de/bgb/__634a.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Bestehende Datenschutzdokumentation oder Richtlinien an neue Anfor
 
 # Customize – Praxisprofil anpassen
 
-## Zweck
-
-Gezieltes Aktualisieren einzelner Abschnitte von `CLAUDE.md`, ohne das gesamte Kaltstart-Interview zu wiederholen. Typische Anlässe: neue Aufsichtsbehörde wegen Umzug der Hauptniederlassung, geänderter AVV-Dealbreaker nach Vertragsverhandlung, neue Systemliste nach IT-Migration, aktualisertes DSFA-Format nach Audit-Feedback, Wechsel des internen DSB.
-
 ## Eingaben
 
 - Welcher Abschnitt soll geändert werden? (frei formuliert oder Menüauswahl)
@@ -50,17 +46,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 28 DSGVO (AVV-Mindestanforderungen für Playbook-Änderungen)
 - Art. 46, 47, 49 DSGVO (Drittlandtransfer-Mechanismen)
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
-## Ausgabeformat
-
-Kurze Änderungsbestätigung:
-```
-Geändert: [Abschnitt]
-Alter Wert: [Wert]
-Neuer Wert: [Wert]
-Rechtsgrundlage der Änderung: [Norm oder "organisatorische Entscheidung"]
-Folgeaktionen: [z.B. "Datenschutzerklärung prüfen, ob Änderung dort sichtbar werden muss"]
-```
 
 ## Beispiel
 
@@ -149,3 +134,4 @@ Durchgefuehrt von: [SACHBEARBEITER]
 - Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
 - Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
 - Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
+

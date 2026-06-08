@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Staatsrecht des Deutschen Kaiserreichs 
 
 # Staatsrecht des Deutschen Kaiserreichs
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Staatsrecht des Deutschen Kaiserreichs (1871-1918). Bismarckverfassung, Bundesstaat, Reichstag, Reichsleitung, Dualistischer Konstitutionalismus und Laband-Jellinek-Schule. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das Deutsche Reich (1871-1918) war ein Bundesstaat mit 25 Mitgliedsstaaten unter
 - Jellinek Allgemeine Staatslehre: 3. Aufl. 1914, Band und Seite
 - Sekundaerliteratur: Michael Stolleis Geschichte des öffentlichen Rechts Bd. II (1992)
 
-## Output
-
-- Verfassungsschema Kaiserreich 1871: Bundesrat, Reichstag, Kanzler, Kaiser
-- Laband vs. Jellinek: Methodenvergleich Staatsrechtslehre
-- Oktober-Reformen 1918: Inhalt und historische Einordnung
-
-## Quellenregel
-
-Reichsverfassung 1871: ALEX/OeNB und documentArchiv.de. Laband Staatsrecht: historische Edition (Band und Seite). Jellinek Allgemeine Staatslehre: 3. Aufl. 1914. Stolleis Geschichte Bd. II (1992): Seite.

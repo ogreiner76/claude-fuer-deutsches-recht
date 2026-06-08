@@ -5,10 +5,6 @@ description: "Bezugsbindungen im Franchisesystem kartellrechtlich prüfen: Freis
 
 # Franchiserecht: Bezugsbindung, Lieferanten und Kartellrecht
 
-## Arbeitsbereich
-
-Bezugsbindungen im Franchisesystem kartellrechtlich prüfen: Freistellungsvoraussetzungen nach Vertikal-GVO EU 2022/720 und § 2 GWB, Marktanteilsschwellen, Ausnahmen für Qualitätsstandards, Risiken bei Bezugsverpflichtung über die Kernprodukte hinaus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,13 +51,6 @@ Ein Franchisesystem verpflichtet Franchisenehmer, bestimmte Waren ausschliesslic
 - Franchisegeber belastet Bezugspreise mit versteckten Systemgebühren ohne transparente Kalkulation.
 - Genehmigungsverfahren für Alternativlieferanten wird faktisch verweigert, was die Bezugsbindung kartellrechtlich gefährdet.
 
-## Output
-
-- Kartellrechtliches Compliance-Gutachten zur Bezugsbindung
-- Marktanteilsanalyse (Datenbasis und Methodik)
-- Empfehlungen für Vertragsklauseln (Alternativlieferantengenehmigung)
-- Beschwerdemuster an Bundeskartellamt (§ 54 GWB)
-
 ## Quellen
 
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
@@ -70,6 +59,7 @@ Ein Franchisesystem verpflichtet Franchisenehmer, bestimmte Waren ausschliesslic
 - https://dejure.org/gesetze/BGB/307.html
 - https://dejure.org/gesetze/GWB/54.html
 - https://gesetze-im-internet.de/gwb/__2.html
+
 ## Vertiefung
 
 Bezugsbindungen sind kartellrechtlich zulässig, wenn sie die Qualität des Franchisesystems sichern und die Marktanteilsschwellen der Vertikal-GVO eingehalten werden. Entscheidend ist die Unterscheidung zwischen systemprägenden Kernprodukten (z. B. markengebundene Rohstoffe eines Gastronomiefranchise) und allgemeinen Betriebsmitteln (z. B. Büromaterial).
@@ -83,9 +73,12 @@ Die 5-Jahres-Grenze nach Art. 5 Abs. 1 lit. a Vertikal-GVO gilt für Wettbewerbs
 - Versteckte Rückvergütungen von Lieferanten an den Franchisegeber als mögliche Interessenkollision offenlegen.
 - Kartellbehörde frühzeitig kontaktieren bei Unsicherheit über die Freistellungsfähigkeit.
 - Bezugsbindung für Kernprodukte sachlich begründen und dokumentieren (Qualitätshandbuch).
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
 
 ## Abgrenzung und Einordnung
+

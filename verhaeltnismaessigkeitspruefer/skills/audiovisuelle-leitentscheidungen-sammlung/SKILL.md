@@ -5,10 +5,6 @@ description: Kuratierte Sammlung audiovisueller Materialien zu Leitentscheidunge
 
 # Audiovisuelle Leitentscheidungen Sammlung
 
-## Zweck
-
-Die Verhaeltnismaessigkeitsdogmatik ist nicht nur Lesestoff. Verkuendungstermine, muendliche Verhandlungen und akademische Vortraege geben den Entscheidungen Stimme, Mimik, Pause und Betonung. Dieser Skill kuratiert verifizierte audiovisuelle Materialien zu Leitentscheidungen und ordnet sie didaktisch in das vierstufige Schema ein.
-
 ## Quellenkategorien
 
 1. **Offizielle BVerfG-Mediathek** — Verkuendungstermine seit etwa 2018 zunehmend videodokumentiert (`https://www.bundesverfassungsgericht.de`).
@@ -77,13 +73,10 @@ Jeder Eintrag erhaelt:
 - Folgewirkung in zwei Saetzen.
 - Zitierfaehige Fundstelle nach Lokalitaetenformat (BVerfGE Band, Seite Schlagwort).
 
-## Output
-
-Tabellarische OEbersicht mit Aktenzeichen, Fundstelle, Datum, Medium, Quelle/Permalink, Zeitstempel, Stufenverortung und zentraler Aussage. Bei Bedarf zusaetzlich Padlet-Tafel ueber den Skill `padlet-vier-stufen-tafel` mit den vier Pruefungsstufen als Spalten.
-
 ## Hinweise zur Rechtssicherheit
 
 - Einbettungen ausschliesslich mit Permalinks der Originalquelle, keine Re-Uploads.
 - Bei akademischen Vortraegen Lizenz pruefen (CC BY, CC BY-SA oder Open Access).
 - Verkuendungsmaterial des BVerfG ist gemeinfrei, jedoch Persoenlichkeitsrechte der Beteiligten beachten.
 - Pressekonferenzen koennen Urheberrechte der Sender enthalten; Zitatrecht nach § 51 UrhG pruefen.
+

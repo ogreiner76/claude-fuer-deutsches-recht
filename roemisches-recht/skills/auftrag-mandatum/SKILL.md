@@ -5,10 +5,6 @@ description: "Römisches Recht: Auftrag Mandatum. Geführter Fachmodul mit Quell
 
 # Auftrag Mandatum
 
-## Arbeitsauftrag
-
-Dieser Skill bearbeitet **Auftrag Mandatum** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
-
 ## Sofortsortierung
 
 1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
@@ -38,17 +34,6 @@ Dieser Skill bearbeitet **Auftrag Mandatum** im Plugin **Römisches Recht**. Er 
 - Risikoampel mit nächstem Schritt
 - Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
 
-## Red-Team-Fragen
-
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
-
-## Quellenregel
-
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
 ## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
 
 ### Schluesselstellen
@@ -76,3 +61,4 @@ Sachverhalt: A weist B an, dem C 100 zu leihen.
 - Roemisches Recht: Auftrag streng unentgeltlich.
 - Mittelalter: ius commune erlaubt Honorarvereinbarung.
 - BGB: § 662 unentgeltlich, aber daneben Geschaeftsbesorgungsvertrag § 675 BGB entgeltlich.
+

@@ -5,10 +5,6 @@ description: "Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland 
 
 # Weltraumrecht: Satellitenschwarm über Deutschland: Frequenz-, Kollisions- und Datenschutzrisiken
 
-## Arbeitsbereich
-
-Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -114,3 +110,4 @@ Dieser Skill bearbeitet **Satellitenschwarm über Deutschland: Frequenz-, Kollis
 - EU Space Programme Regulation SST: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0696
 - UNCOPUOS LTS Guidelines: https://www.unoosa.org/oosa/en/ourwork/topics/long-term-sustainability-of-outer-space-activities.html
 - DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
+

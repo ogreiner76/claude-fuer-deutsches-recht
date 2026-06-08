@@ -5,10 +5,6 @@ description: "Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst,
 
 # Computerkunst und generative Modelle
 
-## Arbeitsbereich
-
-Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,3 +78,4 @@ Konkret zu prüfen:
 
 - §§ 87a-87e UrhG (sui generis)
 - § 4 UrhG (Sammelwerk, Datenbankwerk)
+

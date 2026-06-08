@@ -5,9 +5,6 @@ description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht
 
 # Paragraf Quelle Beweislast Tzbfg
 
-## Arbeitsbereich
-
-**Paragraf Quelle Beweislast Tzbfg** ordnet den Fall über die tragenden Prüfungslinien: Paragraf-Dokumentenmatrix und Lückenliste, Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-paragraf-dokumentenmatrix-und-lueckenliste`
@@ -38,9 +36,6 @@ description: "Paragraf Quelle Beweislast Tzbfg im Plugin Fachanwalt Arbeitsrecht
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Schnelle Zuordnung von Normen zu Dokumenten und Belegen für die häufigsten arbeitsrechtlichen Streitgegenstände. Das Ergebnis ist eine Matrix mit (a) erforderlichem Dokument, (b) vorhandenem Dokument, (c) fehlendem Dokument und (d) Beschaffungsweg.
 
 ## Einstieg
 Wenn ein Sachverhalt vorliegt, zuerst bestimmen:
@@ -130,11 +125,6 @@ Nach Ausfüllen der Matrix:
 - `workflow-chronologie-und-belegmatrix` für Sachverhaltsaufbereitung
 - `spezial-arbeitsrecht-tatbestand-beweis-und-belege` für Beweislaststrategie
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Dokument-Beschaffung; die Dokumentenbeschaffung bleibt beim Anwalt und Mandanten.
 - Keine abschließende Liste aller denkbaren Dokumente; jeder Fall erfordert individuelle Ergänzung.
@@ -152,9 +142,6 @@ Nach Ausfüllen der Matrix:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Systematische Aufbereitung der Quellen- und Beweislastregeln für arbeitsrechtliche Schriftsätze — von der Darlegungslastverteilung über die abgestufte BAG-Linie bis zum Quellenprotokoll für jeden zitierten Rechtssatz.
 
 ## Einstieg
 Wenn ein Schriftsatz, eine Prüfmatrix oder eine Antwort auf eine Rechtsfrage zu erstellen ist:
@@ -260,12 +247,6 @@ Unsichere Punkte (Live-Check erforderlich):
 - `workflow-rechtsquellen-livecheck` für Live-Prüfung von Normen und Urteilen
 - `spezial-arbeitsrecht-tatbestand-beweis-und-belege` für Beweismittel
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit verifizierbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [openjur.de](https://openjur.de).
-- Keine Modellwissen-Zitate ohne Verifikation.
-- Annahmen und unsichere Punkte explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Quellenverifikation; menschliche Prüfung bleibt notwendig.
 - Keine Prüfung von Kommentarliteratur ohne Nutzervorlage.
@@ -283,9 +264,6 @@ Unsichere Punkte (Live-Check erforderlich):
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Fertige und anpassbare Textbausteine für die häufigsten TzBfG-Konstellationen — Entfristungsklage, Mandantenbrief und Vergleichsformeln. Alle Bausteine sind Vorlage; anwaltliche Einzelfallprüfung bleibt erforderlich.
 
 ## Einstieg
 Wenn eine TzBfG-Konstellation vorliegt, zuerst klären:
@@ -393,11 +371,7 @@ Nächster Schritt: [Klageschrift bis Datum / Mandantengespräch / Verhandlungsve
 - `spezial-befristung-compliance-dokumentation-und-akte` für Dokumentationsanforderungen
 - `workflow-output-waehlen` für Outputformat-Auswahl
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige anwaltliche Klageschrift-Erstellung.
 - Keine Gewähr für Aktualität der Klageformulierungen bei Gesetzesänderungen.
+

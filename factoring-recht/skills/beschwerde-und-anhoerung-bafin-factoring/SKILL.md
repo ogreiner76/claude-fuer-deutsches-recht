@@ -121,12 +121,6 @@ III. Anregung: Wir regen an, das Verfahren bei Erfüllung folgender Auflagen ein
 - **Verfassungsbeschwerde**: Bei Grundrechtsverletzung durch BaFin-Verfügung Verfassungsbeschwerde nach Erschöpfung des Rechtswegs (Art. 19 Abs. 4 GG, Art. 12 Abs. 1 GG).
 - **Streitwert-Festsetzung**: Bei aufsichtsrechtlichen Klagen Streitwert nach wirtschaftlichem Interesse, häufig Jahresumsatz – Gerichtskosten beachten.
 
-## Querverweise
-
-- `bafin-tatbestand-factoring-laufender-forderungsankauf-rahmenvert`
-- `aufsichtsrechtliche-schnellampel-kwg-zag`
-- `erlaubnisantrag-32-kwg-unterlagen-geschaeftsleiter`
-
 ## Quellen Stand 06/2026
 
 - KWG §§ 25a, 25b, 32, 37, 44, 49, 56.
@@ -134,3 +128,4 @@ III. Anregung: Wir regen an, das Verfahren bei Erfüllung folgender Auflagen ein
 - VwGO §§ 42, 80, 113 zum verwaltungsgerichtlichen Rechtsschutz.
 - BaFin-Veröffentlichungen zur Verwaltungspraxis (aktueller Stand auf bafin.de).
 - BVerwG zur Verhältnismäßigkeit aufsichtsrechtlicher Maßnahmen.
+

@@ -5,10 +5,6 @@ description: "Pflichtversicherung in der KVdR (§ 5 Abs. 1 Nr. 11 SGB V): Vorver
 
 # Rentner: Krankenversicherung der Rentner (KVdR)
 
-## Arbeitsbereich
-
-Pflichtversicherung in der KVdR (§ 5 Abs. 1 Nr. 11 SGB V): Vorversicherungszeit, Beitragsbemessung, Versorgungsbezüge und Widerspruchsstrategien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Die Krankenversicherung der Rentner (KVdR) regelt die GKV-Pflichtmitgliedschaft 
 - [BSG B 12 KR 10/17 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de)
 - [dejure.org § 229 SGB V](https://dejure.org/gesetze/SGB_V/229.html)
+

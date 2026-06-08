@@ -5,9 +5,6 @@ description: "Untersuchungs Zusammenfassung Kuendigung im Plugin Arbeitsrecht: p
 
 # Untersuchungs Zusammenfassung Kuendigung
 
-## Arbeitsbereich
-
-**Untersuchungs Zusammenfassung Kuendigung** ordnet den Fall über die tragenden Prüfungslinien: Entwirft den vertraulichen Untersuchungsvermerk aus dem, Entwirft eine zielgruppengerechte Zusammenfassung aus dem, Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Untersuchungs Zusammenfassung Kuendigung im Plugin Arbeitsrecht: p
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `untersuchungs-memo`
@@ -39,16 +37,6 @@ description: "Untersuchungs Zusammenfassung Kuendigung im Plugin Arbeitsrecht: p
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Erstellt den ersten Entwurf des vertraulichen Untersuchungsvermerks aus dem
-Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn
-seit dem letzten Stand neue Protokolleinträge hinzugekommen sind.
-
-Lädt, wenn eine Untersuchung einen ausreichenden Erkenntnisstand für die
-erste Verschriftlichung erreicht hat oder wenn neue Erkenntnisse den
-vorhandenen Entwurf überarbeiten.
 
 ## Eingaben
 
@@ -154,15 +142,6 @@ anwaltlichen Freigabe.
 Alle Ausgaben dieser Skill tragen den Kopfzeilen-Vermerk:
 `VERTRAULICH — INTERNE UNTERSUCHUNG — NUR ZUR INTERNEN VERWENDUNG`
 
-## Ausgabeformat
-
-Vorbedingungswarnung (falls zutreffend), dann vollständiger Vermerksentwurf
-(Struktur: Zusammenfassung, Hintergrund/Umfang, Methodik, Sachverhaltliche
-Feststellungen, Glaubwürdigkeitsbewertung, Einschlägige Regelungen,
-Ergebnisse, Empfehlungen, Anlagen A und B).
-
-Bei Aktualisierung: Änderungsbericht zuerst, dann überarbeiteter Vermerk.
-
 ## Beispiel
 
 ```
@@ -240,17 +219,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Entwirft eine auf die jeweilige Zielgruppe zugeschnittene Zusammenfassung
-aus dem vertraulichen Untersuchungsvermerk. HR-Zusammenfassungen enthalten
-keine anwaltliche Analyse. Zusammenfassungen für Geschäftsführung und
-Aufsichtsrat bleiben auf hohem Niveau. Briefings an externe Bevollmächtigte
-umfassen den vollständigen Kontext.
-
-Lädt, wenn ein Untersuchungsergebnis an eine Zielgruppe kommuniziert werden
-soll, die nicht den vollständigen Vermerk erhalten darf oder soll.
 
 ## Eingaben
 
@@ -371,12 +339,6 @@ In allen Zielgruppen-Zusammenfassungen: Identität der hinweisgebenden
 Person darf nicht erkennbar sein (§§ 8, 37 HinSchG). Zusammenfassung
 vor Weitergabe auf Rückschlüsse prüfen.
 
-## Ausgabeformat
-
-Zielgruppengerechte Zusammenfassung mit Kopfzeile, Sachverhaltsdarstellung,
-Ergebnistabelle und (falls HR) Handlungsempfehlung. HR-Zusammenfassungen
-ohne Eintrags-IDs, Rechtsanalyse und Glaubwürdigkeitsbewertung.
-
 ## Beispiel
 
 ```
@@ -466,9 +428,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ### Kündigung: Zugang, Umschlag, Bote und Beweiswerkstatt
 
-## Einsatz
-Anwendungsfall: eine Kündigung erklärt, abgewehrt oder rekonstruiert werden muss und der Fall am Zugang, am Inhalt des Umschlags oder an § 4 KSchG kippen kann.
-
 ## Rechtskern
 - **Schriftform:** § 623 BGB verlangt eigenhändige Namensunterschrift; Textform, Scan, E-Mail, DocuSign oder beA-Nachricht ersetzen die arbeitsrechtliche Kündigung materiell nicht.
 - **Zugang:** Zugang nach § 130 BGB, sobald das Schreiben so in den Machtbereich gelangt, dass unter gewöhnlichen Umständen mit Kenntnisnahme zu rechnen ist.
@@ -482,18 +441,11 @@ Anwendungsfall: eine Kündigung erklärt, abgewehrt oder rekonstruiert werden mu
 4. **Was ist streitig?** Zugangstag, Uhrzeit, Briefkasten, Wohnsitz, Krankenhaus/Urlaub, Empfangsverweigerung, falscher Umschlag, falsche Anlage.
 5. **Welche Frist folgt?** § 4 KSchG, Anhörungs-/Beteiligungsfristen, Sonderkündigungsschutz, Ausschlussfristen.
 
-## Output
-Erzeuge immer eine Tabelle: `Zustellweg / Beleg / beweisbarer Inhalt / Zugangstag / Prozessrisiko / Sofortmaßnahme`. Danach ein kurzes Mandantenmail und, falls Arbeitgeberseite, eine Zustellanweisung für den Boten.
-
 ## 4. `zugang-neu-001-kuendigungszugang-beweislast-und-zugangsmoment`
 
 **Fokus:** Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 ### Zugang Kuendigungszugang Beweislast Und Zugangsmoment
-
-## Aufgabe
-
-Skill für den **Kuendigungszugang nach § 130 BGB** im Arbeitsrecht: Beweislast, Zugangsmoment, Folge für die 3-Wochen-Frist § 4 KSchG.
 
 ## Norm
 
@@ -530,8 +482,3 @@ Zugang = wenn die Erklaerung so in den Machtbereich des Empfaengers gelangt, das
 3. Wann beginnt die Klagefrist § 4 KSchG?
 4. Beweisbar?
 
-## Output
-
-- Zugangsanalyse mit Datum-/Zeitnachweis.
-- 3-Wochen-Frist-Berechnung.
-- Beweissicherungs-Memo.

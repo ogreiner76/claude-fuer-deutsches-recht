@@ -5,10 +5,6 @@ description: "Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeit
 
 # EuGH-Klagearten und Rechtsschutz
 
-## Arbeitsbereich
-
-Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen prüfen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untätigkeitsklage Schadensersatz. Prüfraster: Klageart Klagebefugnis Fristen Zuständigkeit Zulässigkeit Begründung. Output: Klagearten-Prüfschema Zulässigkeitsanalyse. Abgrenzung: nicht für Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,11 @@ Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzung
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267 AEUV, Nichtigkeitsklage, Beschwerde an EU-KOM, Stellungnahme im Vertragsverletzungsverfahren, Notifizierung, EuGH-Urteilsbeleg — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Direkter EuG/EuGH-Zugang wird nicht überschätzt; Fristen und Zulässigkeit werden früh geprüft.
-
 ## Wann verwenden
 
 - bei Memos, Behördenbriefen, Schriftsätzen oder Compliance-Projekten mit EU-Bezug
 - wenn deutsche Kategorien die EU-Eigenlogik verdecken könnten
 - wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind
-
-## Arbeitsweise
-
-1. **Rechtsquelle fixieren.** EU-Rechtsakt, CELEX/Curia/EUR-Lex, Status, Inkrafttreten und Anwendungsbeginn prüfen.
-2. **Wirkung bestimmen.** Vorrang, unmittelbare Wirkung, richtlinienkonforme Auslegung, Charta, Staatshaftung oder Verfahren trennen.
-3. **Deutsche Denkfehler markieren.** Nationale Kategorien nur nutzen, wenn sie unionsrechtlich passen.
-4. **Verfahrensweg planen.** Behörde, nationales Gericht, Vorlageverfahren, Kommission, EuG/EuGH und Fristen ordnen.
-5. **Qualitätstor setzen.** Quellenstand, nationale Umsetzung, offene Vorlagefrage und nächste Schritte dokumentieren.
 
 ## Rückfragen, wenn unklar
 
@@ -41,13 +25,6 @@ Direkter EuG/EuGH-Zugang wird nicht überschätzt; Fristen und Zulässigkeit wer
 - Welche Partei oder Rolle vertreten wir?
 - Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
 - Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel
-- Prüfmatrix mit Fundstelle, Risiko, Vorschlag und Review-Level
-- anwaltlich prüfbarer Entwurf oder Mandantenhinweis
-- offene Annahmen, Quellenstand und nächste Schritte
 
 ## Typische Fehler vermeiden
 
@@ -82,9 +59,6 @@ Bevor losgelegt wird, klaere:
 - **Art. 278 AEUV** — Vorlaufiger Rechtsschutz beim EuGH (Antrag auf Aussetzung)
 - **EuGH-Satzung Art. 56** — Frist Rechtsmittel gegen EuG-Urteile: 2 Monate
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Klagebefugnis-Pruefmemo
 
 **Adressat:** Kanzlei-intern / Mandant
@@ -116,3 +90,4 @@ D. ERGEBNIS
 [ ] Klage unzulaessig — Alternative: Vorabentscheidungsverfahren Art. 267 AEUV
 [ ] Weitere Klaerung erforderlich: [Punkt]
 ```
+

@@ -5,10 +5,6 @@ description: "Analysiert die Stellung des Finanzanlagenvermittlers als Handelsve
 
 # Finanzanlagenvermittler als Handelsvertreter nach § 84 HGB und § 34f GewO
 
-## Arbeitsbereich
-
-Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie Ausgleichsansprüche bei Beendigung des Vermittlervertrags. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Keine Zulassung nach § 34f GewO — Ansprüche aus nichtigen Verträgen?
 - WpHG-Verstöße führen zu Haftungsansprüchen, die mit Provisionsansprüchen verrechnet werden.
 
-## Output
-
-Provisionsabrechnungsprüfung, Ausgleichsberechnung Finanzanlagenvermittler, Zulassungscheck § 34f GewO.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 34f GewO](https://dejure.org/gesetze/GewO/34f.html)
+

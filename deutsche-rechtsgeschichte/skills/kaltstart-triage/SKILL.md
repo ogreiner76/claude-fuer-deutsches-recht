@@ -36,13 +36,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Aufgabe
-
-Rechtsgeschichte als Werkzeug, nicht als Museum: Quellen lesen, Epochen trennen, Kontinuitäten prüfen und Gegenwartsargumente sauber historisieren.
-
-Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Fachmodule dieses Plugins vor.
-
 ## Startfragen
 
 1. Was soll entstehen: Verständnis, Gutachten, Vertragsbaustein, Risiko-Dashboard, Unterrichtseinheit, Board-Memo oder Streitstrategie?
@@ -58,6 +51,3 @@ Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und
 - Dogmengeschichte: Eigentum, Vertrag, Familie, Strafrecht, Verwaltung, Verfassung, Handelsrecht
 - Warnregel: keine Gegenwartsnorm unbemerkt in historische Quellen hineinlesen
 
-## Qualitätsregel
-
-Keine Blindzitate, keine Paywall-Fundstellen ohne Nutzerquelle, keine erfundenen historischen Linien. Soft-Law und Handelsbräuche werden nur mit ihrer richtigen Bindungswirkung verwendet. Politisch sensible Wirtschaftsfragen werden freiheits-, menschenrechts- und compliancebewusst geprüft.

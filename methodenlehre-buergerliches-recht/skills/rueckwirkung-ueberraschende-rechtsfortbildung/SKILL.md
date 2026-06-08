@@ -11,10 +11,6 @@ description: "Prueft Rueckwirkung, Vertrauensschutz und Ueberraschung bei neuer 
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Einsatz
-
-Anwendungsfall: eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
-
 ## Prüfroutine
 
 1. **Zeitachse bauen:** Vertragsschluss, Pflichtverletzung, Zugang, Leistung, Kündigung, Prozessbeginn, Rechtsprechungsänderung, Reformdatum.
@@ -47,12 +43,9 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Erstelle eine Chronologie mit Vertrauensschutzampel und einem Schriftsatzbaustein. Wenn die neue Linie tragfähig ist, formuliere sie so, dass die Gegenseite nicht mit dem Vorwurf des Überraschungsrechts durchdringt.
-
 ## Quellen- und Zitierdisziplin
 
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
 - Ungeprüfte Rechtsprechungsänderungen als Rechercheauftrag kennzeichnen.
+

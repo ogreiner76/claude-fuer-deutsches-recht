@@ -5,10 +5,6 @@ description: "Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachtr�
 
 # Nachtragsverwaltung
 
-## Arbeitsbereich
-
-Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt "was hat sich in diesem Vertrag geändert", "zeig mir die Nachtragshistorie", "wo steht die aktuelle [Klausel]" oder mehrere Vertragsversionen hochlädt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,13 +31,6 @@ Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg ver
 - § 311 BGB — Vertragsänderungen und Ergänzungsvereinbarungen
 - § 550 BGB — Schriftformerfordernis bei langfristiger Miete (mehr als 1 Jahr)
 - § 154 BGB — fehlendes Einvernehmen über einzelne Punkte
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Verträge sammeln über die Zeit Nachträge an. Spätestens beim dritten Nachtrag erinnert sich niemand mehr, was im Ursprungsvertrag stand oder welche Fassung einer Klausel gilt. Dieser Skill liest den Basisvertrag und alle Nachträge in chronologischer Reihenfolge und erstellt entweder eine Gesamtübersicht aller Änderungen oder verfolgt eine bestimmte Klausel durch jede Fassung bis zur aktuell geltenden Regelung.
 
 ## Eingaben
 
@@ -168,6 +157,7 @@ Nur änderungen zeigen. Nachträge, in denen die Bestimmung unberührt blieb, vo
 
 ```markdown
 ### Klausel-Rückverfolgung: [Bestimmungsname]
+
 ## [Vertragspartner] – [Vertragstyp]
 
 ---
@@ -210,10 +200,6 @@ Nur änderungen zeigen. Nachträge, in denen die Bestimmung unberührt blieb, vo
 
 Falls die Bestimmung nach dem Basisvertrag nie geändert wurde:
 > "Diese Bestimmung wurde durch keinen Nachtrag geändert. Die ursprüngliche Formulierung gilt. §[X.X], Basisvertrag, [Datum]."
-
-## Ausgabeformat
-
-Memo-Format. Kein Schriftsatz-Stil. Klarer Prüf-Hinweis (⚠️ Prüfer-Hinweis) über dem Dokument gemäß CLAUDE.md.
 
 ## Quellen und Zitierweise
 

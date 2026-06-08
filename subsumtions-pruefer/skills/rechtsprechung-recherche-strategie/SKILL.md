@@ -17,10 +17,6 @@ Gibt eine Strategie für die Rechtsprechungsrecherche: wann systeminternes Wisse
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Subsumtion ohne Rechtsprechung ist unvollständig. Dieser Skill vermittelt, wie und wo Rechtsprechung zu einer geprüften Norm recherchiert werden sollte. Er unterscheidet, wann das Wissen des Systems ausreichend ist und wann eine eigenständige Webrecherche unbedingt empfohlen wird. Grundregel: Keine Entscheidung aus Modellwissen zitieren ohne Live-Verifikation.
-
 ## Triage: Wann Live-Recherche zwingend?
 
 1. Enthält das Ergebnis ein konkretes Aktenzeichen oder Datum? → immer live prüfen
@@ -87,11 +83,3 @@ Recherche-Protokoll: Norm → Such-Strategie → Gefundene Entscheidungen (mit L
 
 Hinweis: Keine Rechtsberatung. Systemwissen ersetzt keine Live-Recherche.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-- Normtext live prüfen: gesetze-im-internet.de (Bund), eur-lex.europa.eu (EU), dejure.org (Querverweise).

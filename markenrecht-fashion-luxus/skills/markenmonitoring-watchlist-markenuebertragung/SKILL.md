@@ -5,10 +5,6 @@ description: "Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will F
 
 # Markenmonitoring und Watchlist-Dienste
 
-## Arbeitsbereich
-
-Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Prüfraster: DPMA/EUIPO/WIPO-Watch-Konfiguration, Alert-Parameter (Klassen, Aehnlichkeitsgrad), ROMARIN-Datenbank. Output Watchlist-Konfigurationsempfehlung, Monitoring-Service-Auswahl, Alert-Workflow. Abgrenzung: Widerspruch nach Alert siehe dpma-widerspruch-und-löschung, euipo-widerspruchsverfahren; Konkurrenten-Monitoring Patent siehe ueberwachung-konkurrenten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -165,3 +161,4 @@ Reaktions-SLA:
 - **False Positives:** Zu breite Suchparameter generieren zu viele Alerts → Fatigue; sorgfältige Kalibrierung
 - **Domain-Privacy-Shields:** Anonyme Domainhaber erschweren UDRP — WHOIS-Lookup + UDRP-Registrar-Daten oft der einzige Weg
 - **Monitoring ≠ Registrierung:** Monitoring ersetzt keine Markenanmeldung in neuen Märkten — beide müssen parallel laufen
+

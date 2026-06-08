@@ -92,10 +92,6 @@ description: "Vollständige Referenzliste aller Steigerungsadverbien der Zeugnis
 
 **Beispiel 6 – Auslassung als Signal:** Zeugnis enthaelt zehnmal "stets", einmal aber "Sein Verhalten war einwandfrei" ohne "stets" → punktuelle Drift, Sozialverhalten-Note rutscht von 1 auf 2 bis 3.
 
-## Ausgabeformat
-
-Der Skill kann zweifach eingesetzt werden. Erstens als Nachschlagewerk: Eingabe eines Adverbs liefert Notenwirkung und Kategorie (Maximalsteigerer, Standardsteigerer, Scheinsteigerer, Abschwaecher, Negativsteigerer, Frequenzadverb). Zweitens als Analysator: Eingabe eines vollstaendigen Zeugnistexts liefert eine Tabelle mit allen erkannten Adverbien, ihren Positionen, ihren Notenwirkungen und besonderen Auslassungen. Die Ausgabe ist Eingangsbasis für satzweise-notenmatrix und bereichs-drift-detektor.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -104,3 +100,4 @@ Der Skill kann zweifach eingesetzt werden. Erstens als Nachschlagewerk: Eingabe 
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsver
 
 # Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand
 
-## Arbeitsbereich
-
-Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand. § 17 Abs. 2a BeurkG, Anwendungsbereich, Fristberechnung, Dokumentation und Rechtsfolgen bei Verstößen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -100,3 +96,4 @@ Der Entwurf muss an den Verbraucher übermittelt werden:
 - **Checkliste Verbrauchervertrag** (alle Schutzpflichten)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

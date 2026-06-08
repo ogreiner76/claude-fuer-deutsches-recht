@@ -5,10 +5,6 @@ description: "Prüft, ob Speicher, Leitwarte, Netzanschluss oder Betreiber kriti
 
 # KRITIS, NIS2, BSI und Cybersecurity
 
-## Arbeitsbereich
-
-Prüft, ob Speicher, Leitwarte, Netzanschluss oder Betreiber kritische Anlage/IT-Sicherheitsfall sind. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -32,14 +28,9 @@ BSIG, NIS2-Umsetzung live prüfen, EnWG-IT-Sicherheit, KRITIS-Dachgesetz live pr
 3. Genehmigungs-, Netz-, Sicherheits-, Markt- und Vertragsfragen in getrennte Spuren legen.
 4. Rote Punkte mit Belegen, zuständiger Stelle, Frist und konkretem nächsten Dokument ausgeben.
 
-## Output
-
-- Risikomatrix
-- Unterlagen- und Behördenliste
-- Mandantenmemo oder Board-Paper-Baustein
-
 ## Qualitätsgate
 
 - Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
 - Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
 - Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
+

@@ -10,10 +10,6 @@ description: "Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenw
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-§ 826 BGB als Auffangtatbestand für vorsätzliche sittenwidrige Schädigungen prüfen: Sittenwidrigkeit des Verhaltens, bedingter Vorsatz und reiner Vermögensschaden.
-
 ## Normanker
 
 - § 826 BGB: vorsätzliche sittenwidrige Schädigung
@@ -47,25 +43,13 @@ description: "Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenw
 - Sittenwidrigkeit ist nicht dasselbe wie Rechtswidrigkeit; eigenständige Wertung erforderlich.
 - § 826 BGB schützt auch reinen Vermögensschaden, § 823 Abs. 1 BGB tut das nicht.
 - BGH-Rechtsprechung zum Dieselskandal ist fallbezogen; keine pauschale Übertragung.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Sittenwidrigkeits-Analyse mit Fallwertung
-- Vorsatz-Dokumentation
-- Schadensberechnung
-- Risikoampel und Handlungsempfehlung
-
-## Qualitätsregeln
-
-- Sittenwidrigkeitswertung immer mit konkreten Tatsachen belegen.
-- Vorsatz und Fahrlässigkeit klar abgrenzen.
-- BGH-Entscheidungen nur nach Live-Prüfung mit Aktenzeichen verwenden.
 
 ## Anschluss-Skills
 
@@ -79,10 +63,4 @@ description: "Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenw
 - https://www.gesetze-im-internet.de/bgb/__826.html
 - https://www.gesetze-im-internet.de/bgb/__138.html
 - https://www.gesetze-im-internet.de/bgb/__823.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

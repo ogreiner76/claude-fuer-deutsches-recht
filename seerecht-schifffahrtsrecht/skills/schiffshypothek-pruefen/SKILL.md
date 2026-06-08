@@ -51,11 +51,6 @@ Eine Schiffsfinanzierungsbank prüft, ob ihre erstrangige Schiffshypothek noch v
 - Bei Flaggenwechsel unter Bare-Boat bleibt Heimatregister-Hypothek erhalten; ausländisches Registerpfandrecht kann konkurrieren.
 - Löschung setzt vollständige Valutierungsfreiheit voraus.
 
-## Output
-- Hypothekenprüfvermerk: Rang; Valuta; Sicherungsumfang; Risiken
-- Freigabestrategie-Empfehlung (Ablösung; Umschuldung; Vollstreckung)
-- Checkliste Kreditkündigungsvoraussetzungen
-
 ## Erweiterte Normengrundlage
 
 ### Hypothekenrecht
@@ -91,3 +86,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - InsO § 49: https://www.gesetze-im-internet.de/inso/__49.html
 - ZPO §§ 864 ff.: https://dejure.org/gesetze/ZPO/864.html
 - BGH Schiffshypothek: https://www.bgh.de
+

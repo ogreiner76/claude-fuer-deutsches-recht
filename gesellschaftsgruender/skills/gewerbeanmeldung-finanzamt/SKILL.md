@@ -5,10 +5,6 @@ description: "Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gründung
 
 # Gewerbeanmeldung und Finanzamt-Erfassung
 
-## Arbeitsbereich
-
-Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gründung vorbereiten: Fragebogen Finanzamt, Gewerbeamt. Normen: § 14 GewO, AO, UStG. Prüfraster: Steuerklassen, USt-Voranmeldung, Betriebsstaette, Umsatzsteuer-ID. Output: Ausfuell-Checkliste Gewerbeanmeldung und Finanzamt-Fragebogen. Abgrenzung: nicht Handelsregisteranmeldung HRB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,9 +42,7 @@ Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gründung vorbereiten: 
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-## Quellenregel
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anmeldungs-Matrix
 
 | Behörde | Pflicht | Frist | Kosten | Konsequenz Versäumnis |
@@ -140,3 +134,4 @@ GewSt-Vorauszahlung: 15.02. / 15.05. / 15.08. / 15.11.
 - `gesellschaftsgruender-ihk-und-berufsgenossenschaft` — weitere Pflichtmeldungen
 - `gesellschaftsgruender-transparenzregister` — GwG-Pflicht
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — laufende Steuerpflichten
+

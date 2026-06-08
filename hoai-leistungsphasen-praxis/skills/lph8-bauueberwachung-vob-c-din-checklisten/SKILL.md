@@ -5,10 +5,6 @@ description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten f
 
 # VOB/C-DIN-Checklisten in der Bauueberwachung LPH 8
 
-## Arbeitsbereich
-
-Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte für mobile Nutzung auf der Baustelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsing
 - Checkliste nicht gepfuegt: Bei Sonderbauteilen keine passende Checkliste vorhanden, Pruefung unvollstaendig
 - QR-Code-Aufkleber beschaedigt: Scan nicht moeglich, manuelle Eingabe erforderlich, GPS-Genauigkeit schlechter
 
-## Output
-
-Gewerkeweise VOB/C-Abnahmechecklisten vollstaendig mit Pruefergebnis und Foto. SAP-PM-Meldungsliste aus Checklistenauswertung. Abnahmeprotokoll je Gewerk mit Unterschrift Bauueberwacher und AN. Mangelstatistik nach Gewerk und Schadenscode. SAP PS Abnahme-Meilensteinsetzung Dokumentation. Archivierung revisionssicher 10 Jahre.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Gewerkeweise VOB/C-Abnahmechecklisten vollstaendig mit Pruefergebnis und Foto. S
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme](https://www.gesetze-im-internet.de/bgb/__640.html)
+

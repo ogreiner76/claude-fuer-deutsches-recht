@@ -5,10 +5,6 @@ description: "EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übe
 
 # EV-Vollzug 007: Abschlussschreiben und Übergang in die Hauptsache
 
-## Arbeitsbereich
-
-EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übergang in die Hauptsache und Verhältnis zur vorangegangenen Abmahnung. Wann Hauptsacheklage nötig, wann Abschlussvereinbarung ausreicht, Fristen und Kostenfallen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -119,3 +115,4 @@ Typischer Inhalt der Abschlussvereinbarung:
 - `unterlassungsverlangen` – Unterlassungserklärung und Vertragsstrafe
 - `spezial-operate-verhandlung-vergleich-und-eskalation` – Vergleichsstrategie
 - `verletzungs-triage` – Erstentscheidung IP-Verletzung
+

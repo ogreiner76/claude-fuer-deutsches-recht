@@ -64,10 +64,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Die Erstprüfung konzentriert sich auf eine offensichtliche Anspruchsgrundlage und übersieht günstigere Alternativen.
 - Das Erstprotokoll wird nicht dokumentiert, was bei späteren Meinungsverschiedenheiten keine Grundlage bietet.
 
-## Output
-
-Das Skill liefert ein strukturiertes Erstprotokoll: Sachverhaltserfassung, provisorische Rechtsfrage, Mandatsziel, Rangfolge der Anspruchsgrundlagen, sofortiger Handlungsbedarf und nächste Bearbeitungsschritte. Das Dokument bildet die Grundlage für das gesamte Mandat und sichert die methodische Kohärenz von Anfang an.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -99,3 +95,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

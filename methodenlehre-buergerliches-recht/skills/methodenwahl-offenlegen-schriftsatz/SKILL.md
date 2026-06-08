@@ -53,10 +53,6 @@ description: "Lehrt die professionelle Offenlegung der gewählten Auslegungsmeth
 - Inkonsistenz: In einem Teil des Schriftsatzes wird die teleologische, im anderen die historische Methode bevorzugt, ohne Hierarchie zu erklären.
 - Methodenfehler des Vorurteils werden nicht als solche gerügt, sondern nur im Ergebnis angegriffen.
 
-## Output
-
-Das Skill liefert Formulierungsbausteine für methodisch transparente Schriftsätze: Einstiegsformulierungen zur Methodenwahl, Begründungspassagen für die Methode, Abgrenzungsformulierungen gegen alternative Methoden und Rügeformulierungen gegen Methodenfehler der Gegenseite. Direkt schriftsatztauglich.
-
 ## Vertiefung: Methodentransparenz als Überzeugungstechnik
 
 Methodentransparenz ist nicht nur eine ethische Anforderung, sondern auch eine Überzeugungstechnik: Gerichte, die sehen, dass ein Anwalt alle relevanten Methoden ernsthaft angewandt hat und trotzdem zu seinem Ergebnis kommt, neigen dazu, das Ergebnis als gut begründet zu akzeptieren. Methodische Transparenz signalisiert Kompetenz und Redlichkeit und schafft Vertrauen.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 20 GG bei dejure](https://dejure.org/gesetze/GG/20.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

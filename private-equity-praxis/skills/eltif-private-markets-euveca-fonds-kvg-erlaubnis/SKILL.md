@@ -5,10 +5,6 @@ description: "Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity
 
 # ELTIF 2.0: europäischer Long-Term-Fund für Private Markets
 
-## Arbeitsbereich
-
-Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity, Infrastruktur oder Private Debt sinnvoll ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -87,14 +83,6 @@ Redemption-Gate-Klausel:
 - Master-Feeder ohne saubere Tax-Brücke — Doppelbelastung droht.
 - Redemption Gates zu großzügig kalibriert — Run-Risk bei Stress.
 
-## Querverweise
-
-- pe-004 für KAGB-Scope.
-- pe-005 für Spezial-AIF als Alternative oder Master.
-- pe-008 für KVG-Erlaubnis.
-- pe-010 für Vertrieb und Fundraising.
-- pe-018 für SFDR/ESG.
-
 ## Quellen Stand 06/2026
 
 - ELTIF-VO (EU) 2015/760 i.d.F. (EU) 2023/606 (ELTIF 2.0, anwendbar seit 10.01.2024).
@@ -103,3 +91,4 @@ Redemption-Gate-Klausel:
 - PRIIPs-VO (EU) 1286/2014 und Delegated Regulation (EU) 2017/653.
 - MiFID II (RL 2014/65/EU), §§ 63 ff., 87 WpHG.
 - SFDR (VO (EU) 2019/2088); InvStG §§ 20, 21 (Teilfreistellung).
+

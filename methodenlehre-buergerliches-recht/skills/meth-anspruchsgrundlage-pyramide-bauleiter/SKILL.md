@@ -54,10 +54,6 @@ description: "Leitet durch die methodisch korrekte Aufbereitung und Prüfung von
 - Die Abgrenzung von Werk- und Dienstvertrag beim Bauleitervertrag wird nicht sorgfältig vorgenommen.
 - Gesamtschuldnerschaft mehrerer Baubeteiligter nach § 421 BGB wird übersehen.
 
-## Output
-
-Das Skill liefert eine Anspruchspyramide: systematische Übersicht aller einschlägigen Anspruchsgrundlagen, Rangordnung nach Subsidiarität, Prüfung der Tatbestandsvoraussetzungen, Verjährungsanalyse und Formulierungsvorschlag für den Klageantrag oder das Gutachten. Geeignet für mandatsbezogene Risikoanalysen im Baurecht.
-
 ## Vertiefung: HOAI und VOB/B als Auslegungsrahmen
 
 Im Bauleitungsrecht spielt die HOAI (Honorarordnung für Architekten und Ingenieure) als Preisrecht eine zentrale Rolle. Darüber hinaus ist die VOB/B (Vergabe- und Vertragsordnung für Bauleistungen) ein wichtiger Vertragsrahmen. Beide Regelwerke sind bei der Bestimmung der Anspruchsgrundlagen und des Pflichtenkreises des Bauleiters zu berücksichtigen, auch wenn sie kein formelles Gesetzesrecht sind.
@@ -83,3 +79,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 634a BGB – Verjährung der Mängelansprüche](https://www.gesetze-im-internet.de/bgb/__634a.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

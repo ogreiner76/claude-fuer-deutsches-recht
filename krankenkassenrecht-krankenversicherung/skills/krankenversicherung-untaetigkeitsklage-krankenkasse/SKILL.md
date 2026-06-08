@@ -5,10 +5,6 @@ description: "Rechtsdurchsetzung bei untätiger Krankenkasse: Untätigkeitsklage
 
 # Untätigkeitsklage, Krankenkasse und Akteneinsicht
 
-## Arbeitsbereich
-
-Rechtsdurchsetzung bei untätiger Krankenkasse: Untätigkeitsklage (§ 88 SGG), Akteneinsichtsrecht (§ 25 SGB X), Fristen und Beschleunigungsstrategien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ Krankenkassen entscheiden manchmal nicht oder zu spät. Dieser Skill nutzt die *
 - [BSG Untätigkeitsklage](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 88 SGG](https://dejure.org/gesetze/SGG/88.html)
 - [Sozialgericht Klageanleitung](https://www.sozialgerichtsbarkeit.de)
+

@@ -5,10 +5,6 @@ description: "Werftvertrag: Auslaendischen Anwalt für Arrest; Vollstreckung ode
 
 # Werftvertrag – Local Counsel instruieren
 
-## Arbeitsbereich
-
-Werftvertrag: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Neubauprojekt unter Werftvertrag im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Ein Neubauprojekt unter Werftvertrag liegt in einem ausländischen Hafen; lokale
 - Lokale Seepfandrechte koennen deutsche Hypothek im Rang ueberbieten.
 - Kostenunterschaetzung: Auslandsverfahren dauern laenger und kosten mehr.
 - LOU-Verhandlungen erfordern erfahrenen Local Counsel.
-
-## Output
-Local-Counsel-Briefing für Neubauprojekt unter Werftvertrag und Prioritätenliste.
 
 ## Vertiefung: Netzwerk-Aufbau und Koordination
 P&I-Clubs unterhalten weltweit Netzwerke von Korrespondenten und Local Counsel (LoC). Bei Arrestsachen ist der LoC am Liegeplatz des Schiffes entscheidend; er kennt lokale Verfahrensvorschriften und Richter. Bei Vollstreckungsurteilen ist der LoC im Staat des zu vollstreckenden Urteils zuständig. Für EU-Staaten erleichtert die EuGVVO 2012 die Anerkennung.
@@ -98,3 +91,4 @@ Der P&I-Club hat eigene Netzwerke von Correspondenten und Local Counsel. Die Kos
 - EuGVVO: https://dejure.org/gesetze/EuGVVO
 - SchRG: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
 - openjur Vollstreckung Ausland: https://www.openjur.de
+

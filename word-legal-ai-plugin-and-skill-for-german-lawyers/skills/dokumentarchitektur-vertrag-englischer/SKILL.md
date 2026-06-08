@@ -5,10 +5,6 @@ description: "Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit R
 
 # Dokumentarchitektur: Vertrag und Schriftsatz
 
-## Arbeitsbereich
-
-Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien, Praeambel, Definitionen, Hauptleistungspflichten, Nebenpflichten, Bedingungen, Beendigung, Boilerplate, Anlagen. Schriftsatz nach § 253 Abs. 2 ZPO mit Rubrum, Antraegen, Sachverhalt, rechtlicher Wuerdigung, Beweisangeboten, Schlussformel, Anlagenverzeichnis. Mit Strukturbaeumen je Dokumenttyp als Tabelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit Rubrum/Parteien
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Juristisches Drafting beginnt mit der Architektur, nicht mit dem Klauseltext. Wer einen Vertrag ohne Inhaltsverzeichnis schreibt, baut ein Haus ohne Statik. Dieser Skill liefert die Standardstruktur für die beiden wichtigsten Dokumenttypen: Vertrag und Schriftsatz. Daneben kurz: Memo, Anwaltsschreiben, AGB.
-
-Die Struktur ist Konvention, keine Mode. Gerichte erwarten sie. Geschaeftsleitung erwartet sie. Wer abweicht, soll wissen warum.
-
-Der Skill liefert je Dokument einen Strukturbaum als Tabelle und ein Skelett. Klauseltext entsteht in den Fachmodule.
 
 ## Eingaben
 
@@ -112,12 +100,6 @@ Der Skill liefert je Dokument einen Strukturbaum als Tabelle und ein Skelett. Kl
 - **Sachverhalt vermischt mit Rechtsmeinung.** Sachverhalt ist Faktentafel, kein Schlagabtausch.
 - **Anlagen ohne Verzeichnis.** Anlage K7 ohne Verzeichnis ist im Prozess nicht auffindbar.
 
-## Ausgabeformat
-
-- Strukturbaum als Tabelle.
-- Skelett-Dokument mit Ueberschriften und Platzhaltern in eckigen Klammern.
-- Hinweis auf einschlaegige Fachmodule je Block.
-
 ## Beispiel
 
 **Skelett Liefer- und Werkvertrag (mittlere Komplexitaet):**
@@ -146,15 +128,6 @@ Anlage 2: Preisliste
 Anlage 3: Lieferplan
 ```
 
-## Querverweise
-
-- `definitionen-klauseln-stringent`
-- `boilerplate-klauseln-katalog`
-- `haftungsausschluss-und-haftungsbegrenzung`
-- `verweis-und-querverweis-technik`
-- `klage-drafting-253-zpo`
-- `gutachten-memo-internes-drafting`
-
 ## Quellen (Stand 05/2026)
 
 - § 253 Abs. 2 ZPO; § 130 ZPO; gesetze-im-internet.de.
@@ -162,10 +135,3 @@ Anlage 3: Lieferplan
 - Memo-Struktur: CLAUDE.md im Repository-Wurzelverzeichnis.
 - Vertragsstruktur folgt der Konvention deutscher Wirtschaftskanzleien. Konkrete Klauselmuster vom Nutzer mit aktueller Literatur zu validieren.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

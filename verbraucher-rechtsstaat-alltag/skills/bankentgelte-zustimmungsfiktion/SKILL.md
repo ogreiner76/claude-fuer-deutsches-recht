@@ -5,10 +5,6 @@ description: "Bankentgelte und Zustimmungsfiktion: führt Verbraucher durch Rüc
 
 # Bankentgelte Und Zustimmungsfiktion
 
-## Arbeitsbereich
-
-Bankentgelte und Zustimmungsfiktion: führt Verbraucher durch Rückforderung von Kontoentgelten nach BGH XI ZR 26/20, XI ZR 139/23 und XI ZR 45/24; mit Kontoauszugsmatrix, Verjährungscheck, Anspruchsschreiben und Ombudsmann-/Klagepfad. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -38,10 +34,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einsatz
-
-Anwendungsfall: eine Bank oder Sparkasse Entgelte erhöht hat und die Zustimmung angeblich durch Schweigen, Online-Banking-Hinweis, Kontoauszugsmitteilung oder bloße Weiternutzung des Kontos erfolgt sein soll.
 
 ## Rechtsprechungsanker
 

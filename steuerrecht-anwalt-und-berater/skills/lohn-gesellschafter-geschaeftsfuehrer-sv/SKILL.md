@@ -100,13 +100,6 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 - AG haftet für AN- und AG-Anteil.
 - Strafrechtlich § 266a StGB-Risiko bei Vorsatz.
 
-## Output
-
-- Statusfeststellungs-Antrag DRV.
-- Bescheid mit Statusfeststellung.
-- Mandanten-Notiz für Lohnabrechnung.
-- Lohnabrechnung mit korrekter SV-Behandlung.
-
 ## Strategie und Praxis-Tipps
 
 - Statusfeststellung bei jedem GGF zwingend empfehlen — Rechtssicherheit.
@@ -115,13 +108,6 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 - Bei spaeterer Aenderung (Verkauf Anteile, neue Gesellschaftervereinbarung): Statusfeststellung wiederholen.
 - StBVV: Statusfeststellung als Zusatzauftrag mit Zeithonorar (komplex).
 - DATEV-Tipp: DATEV LODAS bei GGF separate Personengruppen-Schluessel; bei "selbstaendig" Lohnabrechnung manuell konfigurieren.
-
-## Querverweise
-
-- `stb-drv-sozialversicherungspruefung` — DRV-Pruefung.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
-- `stb-lohn-pruefungen-drv-bp-haftung-stb` — DRV-Pruefung Haftung.
 
 ## Quellen und Updates
 
@@ -134,3 +120,4 @@ Stand: 05/2026.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (BSG-Az recherchiert), 1 ersetzt (Pruefhinweis ohne Marker) -->
+

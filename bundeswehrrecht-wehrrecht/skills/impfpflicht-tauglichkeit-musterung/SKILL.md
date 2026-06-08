@@ -5,10 +5,6 @@ description: "Impfpflicht, Tauglichkeit und Musterung: prüft Impfpflicht Soldat
 
 # Impfpflicht, Tauglichkeit und Musterung
 
-## Arbeitsbereich
-
-Impfpflicht, Tauglichkeit und Musterung: prüft Impfpflicht Soldaten, Weigerungsrecht, Tauglichkeitsfeststellung und Rechtsmittel. Norm-/Quellenanker: SG § 17a, IfSG, WPflG, DV 46/1. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Die Musterung (Tauglichkeitsfeststellung) ist nach Aussetzung der allgemeinen We
 - WPflG — Wehrpflichtgesetz (Musterung, heute Spannungsfall)
 - DV 46/1 — Tauglichkeitsfeststellung
 - § 11 SG — Gehorsamspflicht (Grenzen)
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -93,21 +83,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Tabelle: Impfungen im Bundeswehr-Kontext
 - Checkliste: Vorgehen bei Impfverweigerung
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — § 17a SG
-- https://www.gesetze-im-internet.de/ifsg/ — IfSG
-- https://www.bverwg.de
-- https://dejure.org/gesetze/SG/17a.html
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -117,3 +92,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

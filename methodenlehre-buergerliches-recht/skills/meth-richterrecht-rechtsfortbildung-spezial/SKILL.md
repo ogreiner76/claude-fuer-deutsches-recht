@@ -53,10 +53,6 @@ description: "Analysiert das Richterrecht als Quelle des Zivilrechts und die met
 - Der Gesetzgeberwille, der richterrechtliche Regeln implizit toleriert, wird als Billigung fehlgedeutet.
 - Die faktische Bindungswirkung von BGH-Richterrecht auf unterinstanzliche Gerichte wird unterschätzt.
 
-## Output
-
-Das Skill liefert eine Richterrechtsanalyse: Identifikation der richterrechtlichen Regel, Konsolidierungsgradbestimmung, demokratische Legitimationscheck, distinguishing- und overruling-Analyse und Formulierungsvorschlag für den methodischen Umgang mit der Regel in Schriftsatz oder Gutachten.
-
 ## Vertiefung: Richterrecht im Europäischen Kontext
 
 Neben deutschem Richterrecht prägt auch das Richterrecht des EuGH das deutsche Zivilrecht erheblich: Unionsrechtliche Begriffe werden durch EuGH-Rechtsprechung konkretisiert und entwickelt. Dieses "supranationale Richterrecht" hat eine stärkere Bindungswirkung als deutsches Richterrecht, weil es durch Art. 267 AEUV institutionell abgesichert ist und von allen nationalen Gerichten zu beachten ist.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 823 BGB bei dejure](https://dejure.org/gesetze/BGB/823.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

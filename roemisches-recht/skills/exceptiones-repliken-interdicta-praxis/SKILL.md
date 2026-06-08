@@ -5,10 +5,6 @@ description: "Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-12
 
 # Exceptiones und Repliken im Formularprozess
 
-## Arbeitsbereich
-
-Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-129 - peremptorische vs. dilatorische Einreden, exceptio doli, exceptio rei iudicatae, replicatio und die Einredestruktur im Formularprozess. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -71,13 +67,3 @@ Exceptiones sind Einreden des Beklagten, die in die Formel aufgenommen werden un
 - Kaser/Hackl Zivilprozessrecht §§ 44-55
 - Lenel Edictum Perpetuum (Einredenabschnitt)
 
-## Output
-
-- Tabelle: wichtigste Exceptiones
-- Schema: Formel mit intentio - exceptio - replicatio
-- Peremptorisch vs. dilatorisch: Unterschiede
-- Vergleich röm. Exceptio vs. mod. Einreden (BGB, ZPO)
-
-## Quellenregel
-
-Gaius Inst. 4.115-129; D. 44.1; D. 44.4 (Mommsen-Krüger). Kaser/Hackl. Lenel Edictum (archive.org).

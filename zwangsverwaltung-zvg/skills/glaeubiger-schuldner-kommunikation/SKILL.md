@@ -17,12 +17,6 @@ Schriftwechsel in der Zwangsverwaltung mit Schuldner Gläubiger Mieter Gericht V
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Erstellt klare, rollenrichtige Schreiben in der Zwangsverwaltung.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
-
 ## Startet bei
 
 - Mieter, Schuldner, Gläubiger oder Behörden informiert werden müssen
@@ -78,9 +72,6 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 § 154 ZVG (Aufsicht durch Gericht) → § 153 Abs. 2 ZVG (Auskunftspflicht) → §§ 13-15 ZwVwV (Buchführung Rechnungslegung) → § 20 ZwVwV (Vergütung und Rechenschaft) → § 242 BGB (Treu und Glauben, Auskunftsanspruch analog)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Kommunikation
 
 1. Wer ist betreibender Gläubiger? (Alle Gläubiger in Rangklassen nach § 10 ZVG erfassen)
@@ -114,3 +105,4 @@ Nächster Auszahlungsantrag: [DATUM]
 
 [UNTERSCHRIFT ZWANGSVERWALTER]
 ```
+

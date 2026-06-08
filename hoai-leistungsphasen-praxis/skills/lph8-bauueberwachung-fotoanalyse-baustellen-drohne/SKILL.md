@@ -5,10 +5,6 @@ description: "Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse v
 
 # Fotoanalyse Baustellen-Drohne in der Bauueberwachung LPH 8
 
-## Arbeitsbereich
-
-Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM für Mangelmanagement bei Bauueberwachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geword
 - Wetterbedingung Wind zu stark: DJI Mavic 3 bei Wind groesser 10 m/s unzuverlaessig, Fotos verwackelt, Orthofoto-Qualitaet ungenügend
 - Thermografie-Emissionsgrad falsch: Beton-Emissionsgrad 0.9 statt Metall 0.3, Temperaturanzeige komplett falsch, Fehlinterpretation
 
-## Output
-
-Orthofoto-Mosaik GeoTIFF mit Koordinatensystem EPSG 25832. Pix4Dmapper Genauigkeitsbericht mit GCP-Residuen und GSD. Volumenberechnung Aushubmassen CSV. Thermografie-PDF-Bericht je Befliegung. PlanRadar-Meldungsliste aus Drohnenauswertung. SAP-PM-Meldungen mit GPS-Koordinate und Drohnenfoto. Befliegungsprotokoll Datum, Drohne, Pilot, Wetter.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Orthofoto-Mosaik GeoTIFF mit Koordinatensystem EPSG 25832. Pix4Dmapper Genauigke
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [VOB/B § 4 Ausfuehrung](https://www.gesetze-im-internet.de/vob/)
+

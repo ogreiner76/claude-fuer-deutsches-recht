@@ -5,10 +5,6 @@ description: "Fremd- und Mehrbesitzverbot Apothekenrecht: prüft die einschlägi
 
 # Fremd- und Mehrbesitzverbot Apothekenrecht
 
-## Arbeitsbereich
-
-Fremd- und Mehrbesitzverbot Apothekenrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,15 +93,6 @@ Eingaben:
 - Strohmann-Apotheker für Investor — bei Aufdeckung Widerruf der Erlaubnis und ggf. strafrechtliche Folgen wegen mittelbarer Tatherrschaft.
 - Mietvertrag mit umsatzabhängiger Komponente nicht offengelegt — Behörde sieht verdeckte Beteiligung.
 
-## Querverweise
-
-- `apothekenerlaubnis-apog-persönliche-voraussetzungen` (subjektive Voraussetzungen)
-- `inhaberwechsel-kauf-apothekenbetrieb` (Übernahme)
-- `filialapotheke-hauptapotheke-leitung-vertretung` (Filialgrenze)
-- `widerruf-ruecknahme-ruhen-apothekenerlaubnis` (Folgen)
-- `mietvertrag-apothekenstandort-konkurrenzschutz` (Mietvertragspraxis)
-- `digitale-plattformen-marktplatz-apothekenrecht` (Plattform-Beteiligungen)
-
 ## Quellen Stand 06/2026
 
 - ApoG §§ 1, 7, 8, 9, 10, 13.
@@ -113,3 +100,4 @@ Eingaben:
 - EuGH, staend. Rspr. zum Fremdbesitzverbot (DocMorris-Verfahren, Apothekenkammer Saarland).
 - BGH und OLG, staend. Rspr. zu verdeckten Fremdbesitzkonstellationen.
 - Landesaufsichtsbehörden — Merkblätter zur Erlaubnisprüfung (vom Anwender zu verifizieren).
+

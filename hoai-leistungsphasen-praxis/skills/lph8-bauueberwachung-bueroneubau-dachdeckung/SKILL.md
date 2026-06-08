@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-
 
 # Bauueberwachung Bueroneubau Curtain Wall (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-Fassade — Pfosten-Riegel-Fassade nach DIN EN 13830, strukturelle Verglasung nach ETAG 002, TGA-Koordination Buerogebaeude nach VDI 3804, Doppelboden nach DIN EN 12825 und Brandschutzkonzept Sonderbau. Praxisnahe Dokumentation mit BIM360, Dalux und SAP PM für gewerblichen Vermieter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige
 - Strukturelle Verglasung ohne ETAG 002-Nachweis: Glashalterung nicht zugelassen, Nacharbeit
 - Brandschutzabschottung TGA vergessen: jede Deckensperre EI 90 erforderlich, Nutzungsuntersagung droht
 
-## Output
-
-BIM-Clash-Bericht mit offenen und geschlossenen Konflikten. Fassaden-Abnahmeprotokoll.
-Doppelboden-Pruefprotokoll Trittfestigkeit. Kuehldecke-Druckpruefprotokoll je Geschoss.
-Thermografie-Bericht nach Inbetriebnahme. Abnahmeprotokoll Bueroneubau nach VOB/B.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Thermografie-Bericht nach Inbetriebnahme. Abnahmeprotokoll Bueroneubau nach VOB/
 - [ETAG 002 Strukturelle Verglasung](https://www.gesetze-im-internet.de/)
 - [VDI 3804 Raumlufttechnik Buero](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 212/04 Fassadenmangel](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+212/04)
+

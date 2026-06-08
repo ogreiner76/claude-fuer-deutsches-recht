@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Syste
 
 # Incoterms 2020: Klauselauswahl und Systematik
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Systematik der elf Klauseln (Gruppe E/F/C/D), Eignung für Containerverkehr vs. konventionellen Seehandel, FCA mit Konnossementsabrede und Auswahlkriterien für Exporte und Importe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Incoterms 2020 (ICC-Publikation 2019, in Kraft 1. Januar 2020) regeln Risikoübe
 - Versicherungscheck: CIF Mindestdeckung (Klausel C) oft unzureichend
 - EXW-Risiko für Verkäufer: Exportkontrolle liegt beim Käufer — Compliance-Lücke
 
-## Output
-
-- Incoterms 2020 Auswahlmatrix (11 Klauseln × Transportmodus × Risikoposition)
-- FCA-Konnossementsabrede-Muster
-- Checkliste Named Place
-
-## Quellenregel
-
-Incoterms 2020: iccwbo.org (Publikation Nr. 2020). ICC Guidance Notes 2020: iccwbo.org. Schrifttum: Ramberg, ICC Guide to Incoterms 2020 (2019). Unsicherheit bleibt sichtbar.

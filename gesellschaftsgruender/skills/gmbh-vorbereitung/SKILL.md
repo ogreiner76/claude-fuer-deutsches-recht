@@ -5,10 +5,6 @@ description: "GmbH-Gründung vorbereiten: Gründerprüfung, Kapitalplanung, Nota
 
 # GmbH-Vorbereitung
 
-## Arbeitsbereich
-
-GmbH-Gründung vorbereiten: Gründerprüfung, Kapitalplanung, Notar-Auftrag, Gesellschafterliste. Normen: §§ 2 3 5 7 GmbHG. Prüfraster: Mindestkapital 25000 Euro, Einzahlungsnachweis, Gesellschafterkreis, Geschäftsführereignung. Output: Vorbereitungscheckliste GmbH-Gründung. Abgrenzung: nicht UG-Gründung (eigener Skill). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,9 +44,6 @@ GmbH-Gründung vorbereiten: Gründerprüfung, Kapitalplanung, Notar-Auftrag, Ges
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Sieben-Bausteine-Prüfschema
 
 | Baustein | Kernfrage | Fallstrick | Ergebnis |
@@ -152,3 +145,4 @@ Anstellungsvertrag: [vorhanden / noch abzuschließen]
 - `gesellschaftsgruender-stammkapital-einzahlung` — Einzahlungsnachweis
 - `gesellschaftsgruender-handelsregister-anmeldung` — HR-Eintragungsablauf
 - `gesellschaftsgruender-online-gruendung-dirug` — DiRUG-Online-Gründung
+

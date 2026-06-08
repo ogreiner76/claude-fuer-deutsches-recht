@@ -5,10 +5,6 @@ description: "Liability Convention 1972 – Art. II–V: Gefährdungshaftung am 
 
 # Weltraumrecht: Haftungsübereinkommen: Absoluter Bodenschaden und Verschuldenshaftung im All
 
-## Arbeitsbereich
-
-Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -117,3 +113,4 @@ Dieser Skill bearbeitet **Haftungsübereinkommen: Absoluter Bodenschaden und Ver
 - UNOOSA Vertragsstaaten: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/status/index.html
 - ESA Legal Framework: https://www.esa.int/About_Us/Law_at_ESA/ESA_s_legal_framework
 - BMWK Weltraumgesetz: https://www.bmwk.de/
+

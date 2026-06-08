@@ -5,10 +5,6 @@ description: "Student beginnt Hausarbeit und braucht vollständige Begleitung vo
 
 # Master-Hausarbeiten- und Seminararbeitenmacher
 
-## Arbeitsbereich
-
-Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Prüfungslinie: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach…. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis A
 - § 1 PruefO Jura (beispielhaft) — Eigenstaendigkeit als Grundprinzip jeder juristischen Pruefungsleistung
 - §§ 133, 157 BGB — Methodische Basis für korrekte Auslegung im Workflow
 - § 242 BGB — Treu und Glauben: umfasst auch sorgfaeltige wissenschaftliche Arbeit
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill ist die **Einstiegs-Schiene** für jede **Hausarbeits- oder Seminararbeits-Bearbeitung**. Er führt Dich gentle und ermutigend durch alle Phasen — von der ersten Lektüre der Aufgabe bis zur Abgabe (bei Seminararbeit: bis zum Vortrag).
 
 ## Vorsicht: hiermit bitte nicht mogeln im Studium
 
@@ -333,3 +322,4 @@ Jetzt geht's los. Das Plugin fragt Dich Schritt für Schritt durch. Bleibe entsp
 → Dann weiter mit `aufgabenstellung-erfassen` und durch den oben genannten Workflow.
 
 → Bei Unsicherheit, welcher Skill als nächstes: frage das Plugin "Was sollte ich als nächstes machen?". Es wird Dir basierend auf Deinem Stand einen Vorschlag machen.
+

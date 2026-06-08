@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktione
 
 # Bauueberwachung Flachdach und Attika
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flutung sowie lR-Thermografie-Drohnenbefliegung auf Feuchteeinschluesse und Blasenbildung im Dachaufbau. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Flachdachkonstruktionen sind besonders fehleranfaellig: Mangelhafte Dampfsperren
 - Notablauf unter Daemmung begraben: Bei Verstopfung Hauptablauf kein Notueberlauf, Ponding-Ueberlastung Dachhaut
 - Kein Dehnungsprofil Attikaabdeckung: Waermedehnung Blech fuehrt zu Ausbeulung oder Abloesung Klemmleiste
 
-## Output
-
-IR-Thermografie-Bericht Flachdach mit Hotspot-Lageplan. Gefaellekontroll-Protokoll Lasernivelliermessung. Nahtfestigkeitspruef-Protokoll je 100 qm. Attikaabdeckung-Abnahmeprotokoll. Bautagebuch Dachdeckerarbeiten. SAP-PM-Equipment-ID Dach für Facility Management. Abnahmeprotokoll nach VOB/B § 12 mit Sachverstaendigen-Unterschrift.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ IR-Thermografie-Bericht Flachdach mit Hotspot-Lageplan. Gefaellekontroll-Protoko
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme Werkvertrag](https://www.gesetze-im-internet.de/bgb/__640.html)
+

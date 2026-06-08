@@ -67,6 +67,7 @@ Wenn Daten fehlen: Annahmen explizit dokumentieren und im Worst Case rechnen.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Schritt 1 – Stichtag und Eröffnungsbestand**
@@ -93,14 +94,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - 🟢: Routine dokumentieren, nächste Woche erneut.
 - 🟡: Engpasswoche identifizieren, Maßnahmen (Skontofinanzierung, Stundungsverhandlung, Avalziehung, Forderungsbeschleunigung); Dokumentation in Geschäftsleiter-Protokoll nach § 1 StaRUG.
 - 🔴: **Hinweispflicht § 102 StaRUG** prüfen (bei Mandant). Übergabe an Skill `zahlungsunfaehigkeit-pruefung-17-inso` und `antragspflicht-15a-inso` aus Plugin `insolvenzrecht`. Frist § 15a InsO (3 Wochen) läuft ab tatsächlichem Eintritt der Zahlungsunfähigkeit — nicht ab Erstellung des Plans.
-
-## Ausgabeformat
-
-1. **Kompakte Tabelle** (3 Spalten t, t+1, t+2) mit Anfangsbestand, Einzahlungen, Auszahlungen, Endbestand, Lücke, Quote, Ampel.
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. **Handlungsempfehlung** je Ampelfarbe.
-5. **Hinweis nach § 102 StaRUG** als Textbaustein, wenn 🔴 und Mandantenverhältnis besteht.
 
 ## Beispiel
 
@@ -137,3 +130,4 @@ Bei roter Ampel sofort auf das Plugin `insolvenzrecht` umschwenken:
 - `liquiditaetsvorschau-insolvenzrechtlich` — gerichtsfähige Liquiditätsbilanz als Beweismittel.
 
 Für die mittel- und langfristige Sicht: Schwester-Skill `stb-liquiditaetsvorschau-3-6-12-monate` aus diesem Plugin oder gebearbeitet im Plugin Liquiditätsplanung (`liquiditaetsplanung`).
+

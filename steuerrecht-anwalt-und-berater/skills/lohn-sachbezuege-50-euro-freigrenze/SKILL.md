@@ -95,12 +95,6 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 - Bei Freigrenz-Einhaltung: LSt-frei und SV-frei.
 - Bei Ueberschreitung: voll versteuern und verbeitragen.
 
-## Output
-
-- Lohn-Abrechnung mit Sachbezugs-Aufstellung.
-- Dokumentation 50-EUR-Pruefung pro AN.
-- Belege im Lohnordner.
-
 ## Strategie und Praxis-Tipps
 
 - 50-EUR-Freigrenze ist beliebter Gestaltungshebel — bei sorgfaeltiger Dokumentation problemlos.
@@ -110,14 +104,6 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 - Pauschalierung § 37b EStG bei groesseren Streuwerbeartikel-Verteilungen sinnvoll.
 - StBVV: in Lohnpauschale; Sondergestaltungen Zeithonorar.
 - DATEV-Tipp: DATEV LODAS hat eigene Sachbezugs-Konten; bei Mandanten mit Gutscheinprogrammen sorgfaeltige Konfiguration.
-
-## Querverweise
-
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
-- `stb-lohn-betriebsausfluege-aufmerksamkeiten-60-euro` — 60-EUR-Aufmerksamkeit.
-- `stb-lohn-dienstwagen-1-prozent-fahrtenbuch` — Dienstwagen.
-- `stb-lohn-jobticket-mobilitaet-deutschlandticket` — Jobticket.
-- `stb-lohn-firmenrad-leasing-jobrad` — JobRad.
 
 ## Quellen und Updates
 
@@ -131,10 +117,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 bestaetigt (50-EUR-Freigrenze seit 2022 und SvEV-Werte 2025 eingesetzt) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

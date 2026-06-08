@@ -92,12 +92,6 @@ Kapitalgesellschaften und KapCoGes (insbesondere GmbH & Co. KG) muessen ihren Ja
 - Veroeffentlichungs-Quittung in Mandantenakte.
 - Frist-Wiedervorlage Folgejahr.
 
-## Output
-
-- Veroeffentlichter / hinterlegter Jahresabschluss im Unternehmensregister (für Geschaeftsjahre ab 01.01.2022) bzw. im Bundesanzeiger (für aeltere Geschaeftsjahre).
-- Uebermittlungs-Quittung (Transferticket) als Nachweis in der Mandantenakte.
-- Wiedervorlage Folgejahr im Fristenkalender.
-
 ## Strategie und Praxis-Tipps
 
 - Die 12-Monats-Frist gemaess § 325 Abs. 1a HGB ist hart; verstreicht sie, leitet das BfJ ohne weitere Mahnung das Ordnungsgeldverfahren ein.
@@ -105,12 +99,6 @@ Kapitalgesellschaften und KapCoGes (insbesondere GmbH & Co. KG) muessen ihren Ja
 - Bei mehreren offenen Vorperioden: nachholen vor Folgeperiode, da das BfJ Ordnungsgelder mehrfach festsetzen kann.
 - Veroeffentlichungskosten variieren mit Umfang und Format; Richtwert pro Geschaeftsjahr 30-200 EUR — konkrete Gebühren ueber den Tarif des Unternehmensregisters.
 - StBVV-Honorar: Offenlegung als Sonderauftrag, in der Praxis ueblich als Pauschalvereinbarung gem. § 14 StBVV oder als Beratungsleistung gem. § 21 StBVV (Erstellung E-Bilanz und Offenlegung sind getrennte Leistungen).
-
-## Querverweise
-
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-jahresabschluss-elektronische-uebermittlung-ebilanz` — E-Bilanz.
-- `stb-mandantenfragebogen-jahresabschluss` — Mandantenfragebogen.
 
 ## Quellen und Updates
 
@@ -121,10 +109,3 @@ Stand: 05/2026.
 - BfJ-Verfahrensanweisungen zum Ordnungsgeldverfahren.
 - Unternehmensregister: www.unternehmensregister.de bzw. www.publikations-plattform.de.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

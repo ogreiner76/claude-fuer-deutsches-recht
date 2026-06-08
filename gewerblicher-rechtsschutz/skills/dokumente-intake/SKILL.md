@@ -23,7 +23,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 Dieser Dokumenten-Intake für **Gewerblicher Rechtsschutz** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-compliance-dokumentation-und-akte` — Abmahnung Compliance Dokumentation und Akte
@@ -50,12 +49,9 @@ Dieser Dokumenten-Intake für **Gewerblicher Rechtsschutz** ordnet Anlagen, Regi
 - Tragende Normen vorläufig zuordnen: UWG — Endfeststellung erst nach Live-Check.
 - Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
 
-## Output
-
-Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Schutzrechtsinhaber.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

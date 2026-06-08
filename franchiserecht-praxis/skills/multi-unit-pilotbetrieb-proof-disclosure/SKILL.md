@@ -5,10 +5,6 @@ description: "Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gesta
 
 # Franchiserecht: Multi-Unit-Franchise und Area Developer
 
-## Arbeitsbereich
-
-Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gestalten: Entwicklungsvereinbarung, Eröffnungspflichten, Gebietsrechte, Haftung des Area Developers für Systemstandards und AGB-Kontrolle von Paketerweiterungsklauseln nach § 307 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein erfahrener Franchisenehmer möchte mehrere Standorte eines Franchisesystems 
 - Entwicklungsgebühr wird als vollständig verbraucht angesehen; bei Nichterfüllung besteht kein Rückforderungsanspruch.
 - Gebietsexklusivität erstreckt sich nicht auf Online-Kanäle des Franchisegebers.
 
-## Output
-
-- Entwicklungsvereinbarung (Entwurf)
-- Standortmatrix mit Haftungsklärung
-- Gebietsschutz-Karte und Rechtsanalyse
-- Exit-Regelungskonzept für das Paket
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/307.html
@@ -71,6 +60,7 @@ Ein erfahrener Franchisenehmer möchte mehrere Standorte eines Franchisesystems 
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
 - https://dejure.org/gesetze/HGB/89b.html
 - https://dejure.org/gesetze/BGB/311.html
+
 ## Vertiefung
 
 Multi-Unit-Franchise und Area-Developer-Strukturen ermöglichen dem Franchisegeber, schnell zu wachsen, indem erfahrene Franchisenehmer mehrere Standorte übernehmen. Die rechtliche Herausforderung liegt in der Haftungsstruktur: Kann der Franchisegeber bei Problemen an einem Standort das gesamte Paket des Area Developers kündigen oder nur den betroffenen Einzelstandort?
@@ -84,7 +74,10 @@ Die Vertragsgestaltung muss klar regeln, ob die Standortverträge rechtlich unab
 - Exklusivgebiet des Area Developers kartographisch genau dokumentieren und im Vertrag als Anlage beifügen.
 - Exit-Optionen für einzelne Standorte vorsehen; Rückübertragungsrecht des Franchisegebers bei Nicht-Performance.
 - Multi-Unit-Entwicklungsgebühren proportional bei vorzeitiger Beendigung rückzuerstatten vereinbaren.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

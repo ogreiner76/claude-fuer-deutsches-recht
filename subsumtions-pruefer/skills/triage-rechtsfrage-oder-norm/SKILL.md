@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rückfragen und leitet zum passenden naechsten Skill weiter. Warnt vor typischen Eingabefehlern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,10 +34,6 @@ Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, ein
 3. Hat der Nutzer bereits eine Norm benannt oder sucht er noch eine?
 4. Besteht Dringlichkeit (Fristen, Zustellungen, Vollstreckungshandlungen)? → Notfristen prüfen
 5. Sind Mehrparteienkonstellationen oder ausländische Beteiligte erkennbar? → IPR-Hinweis
-
-## Zweck
-
-Dieser Skill ist der erste Schritt im Subsumtions-Workflow. Er stellt sicher, dass das System versteht, was der Nutzer mitgebracht hat: eine abstrakte Rechtsfrage, einen konkreten Lebenssachverhalt, eine benannte Norm oder eine Kombination davon.
 
 ## Zentrale Normen für häufige Triage-Situationen
 
@@ -116,6 +108,3 @@ Wichtige Fristen in Ihrem Fall:
 Bitte bestätigen Sie, dass ich den Sachverhalt richtig erfasst habe.
 ```
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

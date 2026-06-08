@@ -5,10 +5,6 @@ description: "Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e U
 
 # Datenbankrecht für App Stores und App-Daten — DMA und Herstellerrecht
 
-## Arbeitsbereich
-
-Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und Scraper, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store und Google Play sowie DSGVO bei Nutzerdaten und App-Analytics-Datenbanken. Erstellt Schutzkonzept und DMA-Compliance-Analyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-S
 - DSGVO-Drittlandtransfer bei US-App-Stores erfordert Standardvertragsklauseln — wird von Nutzern oft nicht wahrgenommen.
 - Konkurrierende App-Katalog-Websites können sich auf DMA/P2B-Rechte berufen, um App-Daten zugänglich zu machen — auch gegen Herstellerrecht.
 
-## Output
-
-- App-Store-Datenbankherstellerrecht-Gutachten
-- DMA-Gatekeeper-Compliance-Check für App-Store-Betreiber
-- Abmahnschreiben gegen App-Katalog-Scraper (§ 87b UrhG)
-- P2B-VO-Transparenzpflichten-Übersicht für App Stores
-- DSGVO-Drittlandtransfer-Analyse für US-App-Store-Nutzerdaten
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-S
 - [P2B-VO 2019/1150 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R1150)
 - [DSGVO Art. 46 — dejure.org](https://dejure.org/gesetze/DSGVO/46.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

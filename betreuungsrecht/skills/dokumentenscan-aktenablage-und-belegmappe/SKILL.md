@@ -5,10 +5,6 @@ description: "Scan- und Ablagefür Betreuungsakten: sortiert Fotos, PDFs, E-Mail
 
 # Dokumentenscan, Aktenablage und Belegmappe
 
-## Zweck
-
-Ehrenamtliche Betreuer verlieren oft nicht am Recht, sondern an Papier. Dieser Skill macht aus einem Stapel Post, Handyfotos, PDFs, E-Mails und Kontoauszügen eine nutzbare Akte.
-
 ## Ordnerlogik
 
 Empfohlene Struktur:
@@ -72,17 +68,9 @@ Arbeitsfokus: **Dokumentenscan, Aktenablage und Belegmappe**. Prüfe diese Anker
 - `§ 5 BtOG` — Beratung.
 - `§ 8 BtOG` — Betreuungsvermeidung.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- `Aktenindex`
-- `Belegliste`
-- `Fristenliste`
-- `Lückenliste`
-- `Einreichungspaket für Betreuungsgericht`
 
 ## Qualitätsgate
 
 Keine erfundenen Inhalte. Wenn ein Scan unleserlich ist, ausdrücklich sagen, welche Passage fehlt. Bei rechtlich tragenden Aussagen Normtext und Formularstand live prüfen.
+

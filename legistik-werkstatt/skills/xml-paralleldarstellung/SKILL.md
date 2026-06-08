@@ -20,7 +20,6 @@ Arbeitsfokus: **XML-Paralleldarstellung**. Prüfe diese Anker am Sachverhalt; er
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Schemas
@@ -81,9 +80,6 @@ xmllint --schema akomaNtoso-3.0.xsd --noout entwurf.xml
 
 §§ 1-5 eGovG (E-Government-Gesetz, Digitalisierungspflichten) — §§ 3a, 3b VwVfG (elektronisches Verwaltungshandeln) — § 2 ERVV (Dokumentenformat-Anforderungen) — ISO 8879 (SGML/XML-Standard) — LegalDocML-Standard (OASIS, Parlamentsgesetze)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 XML-Datei plus Validierungs-Protokoll. Bei Fehlern korrigieren und nochmals validieren.
@@ -91,3 +87,4 @@ XML-Datei plus Validierungs-Protokoll. Bei Fehlern korrigieren und nochmals vali
 ## Anschluss
 
 `folgenabschaetzung-erfuellungsaufwand`.
+

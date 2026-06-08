@@ -5,10 +5,6 @@ description: "Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Haf
 
 # Pfändung und Arrest am Schiff
 
-## Arbeitsbereich
-
-Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,11 +46,6 @@ Ein Konnossementsinhaber will einen in Hamburg eingelaufenen Frachter arrestiere
 - ZPO § 945-Schadensersatz kann erheblich sein; besonders bei Linienschiffen.
 - ISAC 1952 gilt nur für Seeforderungen; Ansprüche aus Landtransport berechtigen nicht zum Schiffsarrest.
 
-## Output
-- Arrestantrags-Baustein (ZPO § 920) mit Glaubhaftmachung
-- Vollziehungsstrategie: Register-Eintragung plus physische Bewachung
-- Freigabe-Strategie: LOU; Sicherheitsleistung; Gegenantrag
-
 ## Erweiterte Normengrundlage
 
 ### Arrest und Pfändung
@@ -90,3 +81,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - SchRegO § 67: https://dejure.org/gesetze/SchRegO/67.html
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - openjur LG Hamburg Arrest: https://www.openjur.de
+

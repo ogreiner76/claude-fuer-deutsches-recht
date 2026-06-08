@@ -5,10 +5,6 @@ description: "Inkassokosten, Konzerninkasso und Verzug: prüft Hauptforderung, V
 
 # Inkassokosten Konzerninkasso Verzug
 
-## Arbeitsbereich
-
-Inkassokosten, Konzerninkasso und Verzug: prüft Hauptforderung, Verzug, § 280/286/249 BGB, RDG-Schnittstelle, BGH VIII ZR 138/23, Gebührenhöhe, Drohkulisse und Verbraucherantwort ohne Anerkenntnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -39,10 +35,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Einsatz
-
-Anwendungsfall: inkasso nicht nur die Hauptforderung, sondern Mahnkosten, Inkassovergütung, Auslagen, Kontoführungsgebühren, Bonitätskosten oder "Ermittlungskosten" verlangt.
-
 ## Rechtsanker
 
 - §§ 280, 286, 249, 254 BGB.
@@ -71,13 +63,7 @@ Danach:
 - Bei unklarer Forderung Belege, Abtretung/Vollmacht und Gebührenberechnung verlangen.
 - Bei Mahnbescheid Widerspruchsfrist sofort sichern.
 
-## Output
-
-- Sachliche Inkassoantwort.
-- Teilzahlungs-/Vergleichsprüfung mit Anerkenntniswarnung.
-- Mahnbescheid-Notfallzettel.
-- Verbraucherzentrale-/Aufsichtsbeschwerde, wenn systematische Drohkulisse erkennbar ist.
-
 ## Ton
 
 Ruhig, knapp, keine emotionalen Vorwürfe. Der Text soll beweisbar machen: bestritten, begründet, fristgerecht, ohne unnötige Daten preiszugeben.
+

@@ -5,10 +5,6 @@ description: "Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen 
 
 # NKR-Evaluierung, Befristung, Sunset-Klausel
 
-## Arbeitsbereich
-
-Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -121,14 +117,6 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 - Indikatoren fehlen
 - Frist ohne Bezug zu Investitionszyklen
 
-## Querverweise
-
-- `nkr-evaluation-und-jahresbericht`
-- `nkr-stellungnahme-evaluationsklausel-vorschlag`
-- `nkr-one-in-one-out-bilanz-und-buchung`
-- `nkr-praktikabilitaet-vollzug-test`
-- `legistik-werkstatt/inkrafttreten-uebergangsrecht`
-
 ## Quellen Stand 06/2026
 
 - § 44 GGO
@@ -138,3 +126,4 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 - Handbuch der Rechtsfoermlichkeit Teil C
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

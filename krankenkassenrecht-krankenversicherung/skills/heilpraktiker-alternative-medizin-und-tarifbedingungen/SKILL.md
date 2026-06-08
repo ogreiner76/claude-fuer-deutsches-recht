@@ -5,10 +5,6 @@ description: "Erstattung von Heilpraktiker-Behandlungen und alternativer Medizin
 
 # Heilpraktiker, Alternative Medizin und Tarifbedingungen
 
-## Arbeitsbereich
-
-Erstattung von Heilpraktiker-Behandlungen und alternativer Medizin in PKV und GKV: Tarif­bedingungen, Leistungsumfang, Evidenzanforderungen und Ablehnungsgründe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -88,6 +84,7 @@ Heilpraktiker und alternative Medizin werden zunehmend nachgefragt. Dieser Skill
 - [G-BA Akupunktur-Beschluss](https://www.g-ba.de/beschluesse/)
 - [MB/KK 2009](https://www.pkv.de/service/broschueren/)
 - [dejure.org § 2 SGB V](https://dejure.org/gesetze/SGB_V/2.html)
+
 ## Hinweis: Erstattungsgrenzen und Abrechnungspraxis
 
 - Heilpraktikertarife erstatten oft nach Gebührenverzeichnis für Heilpraktiker (GebüH)
@@ -100,3 +97,4 @@ Heilpraktiker und alternative Medizin werden zunehmend nachgefragt. Dieser Skill
 - [§ 192 VVG – Leistungspflicht PKV](https://www.gesetze-im-internet.de/vvg_2008/__192.html)
 - [Gebührenverzeichnis für Heilpraktiker (GebüH)](https://www.heilpraktiker.org)
 - [PKV-Ombudsmann Beschwerdeverfahren](https://www.pkv-ombudsmann.de)
+

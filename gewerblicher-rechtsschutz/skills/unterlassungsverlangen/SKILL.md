@@ -5,10 +5,6 @@ description: "Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmah
 
 # Abmahnung
 
-## Arbeitsbereich
-
-Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Prüfraster: Abmahnungsentwurf modifizierte Unterlassungserklärung Streitwert Kostenansatz RVG oder Reaktions-Optionsmemo bei erhaltener Abmahnung. Output: Abmahnungsschreiben oder Optionsmemo mit Risikobewertung. Abgrenzung zu schutzschrift-eilverfuegung (Praeventiv) und verletzungs-triage (Eingangsentscheidung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -158,12 +154,6 @@ Zitierweise nach `../references/zitierweise.md`.
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 14 Rn. 345 ff. (vor. auf BGH-Rspr. aktualisieren).
 - Dreier/Schulze, UrhG, 7. Aufl. 2022, § 97a Rn. 12 ff.
 
-## Ausgabeformat
-
-**Sendemodus:** Abmahnschreiben als vollständiger Briefentwurf (Briefkopf, Datum, Empfänger, Betreff, Sachverhalt, Rechtslage, Forderungen, Fristangabe, Anlagen-Verzeichnis: modifizierte UE) + separater Prüfvermerk.
-
-**Empfangsmodus:** Optionen-Memo mit Zusammenfassung der Abmahnung, Fristnotiz, Risikoeinschätzung je Option (Ampel 🔴/🟠/🟡/🟢), Empfehlung und Entscheidungsbaum.
-
 ## Beispiel (Sendemodus – Markenrechtliche Abmahnung)
 
 > **Sachverhalt:** Mandant ist Inhaber der deutschen Wortmarke "NORDBLATT" (DPMA-Reg.-Nr. 30 2019 012 345, eingetragen für Kl. 25), registriert seit 2019. Dritter bietet auf einer Verkaufsplattform Oberbekleidung unter der Bezeichnung "NORDBLATT" an.
@@ -210,3 +200,4 @@ Bevor das Unterlassungsverlangen formuliert wird, klaere:
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
 - BGH I ZR 153/16 (WRONG_TOPIC: tatsaechlich "19% MwSt. GESCHENKT" — irrefuehrende Werbung, nicht Unterlassungserklaerung-Praezision): ersetzt durch verifizierte Entscheidung BGH I ZR 82/99 vom 31.05.2001 (Weit-Vor-Winter-Schluss-Verkauf), GRUR 2002, 180 (Quelle: dejure.org/2001,536)
+

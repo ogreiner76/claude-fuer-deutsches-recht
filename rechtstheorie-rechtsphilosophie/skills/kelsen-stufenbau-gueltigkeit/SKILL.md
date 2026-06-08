@@ -32,12 +32,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-Normstufenkarte plus kurzer Red-Team-Abschnitt gegen Souveränitäts-, Ausnahme- oder Sachzwangrhetorik.
-
 ## Powersprint-Vertiefung
 
 - **Argumentationsdisziplin:** Bei `Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin` positive Normbindung, Präjudizien, Prinzipien, institutionelle Kompetenz und rechtspolitische Wertung getrennt halten.
 - **Methodischer Streit:** Gesetzespositivistische, prinzipienorientierte, systematische, historische und realistische Lesarten als Alternativen sichtbar machen; keine Methode als Zauberformel ausgeben.
 - **Fehlerbremse:** Keine bloße Berufung auf „objektive Auslegung“, „Ausnahme eng“ oder „Natur der Sache“, ohne zu zeigen, wer dadurch Kompetenz gewinnt und welche Normbindung bleibt.
 - **Output:** Thesenpapier, Schriftsatzargument, Gegenargument-Matrix und Grenze richterlicher Rechtsfortbildung.
+

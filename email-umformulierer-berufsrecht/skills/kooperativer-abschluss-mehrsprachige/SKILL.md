@@ -5,10 +5,6 @@ description: "E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Ab
 
 # Kooperativer Abschluss
 
-## Arbeitsbereich
-
-E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,9 +34,6 @@ Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspas
 - § 91a ZPO — Kostenentscheidung bei Erledigung: Kooperationsbereitschaft beeinflusst Abwaegung
 - § 278 ZPO — Gueteversuch: kooperativer Ton staerkt Aussichten auf guetige Einigung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Kooperativer Abschluss (gestuft)
 
 | Kontext | Abschlussformel |
@@ -85,6 +78,3 @@ In streitigen Situationen mit hohem Konfliktpotenzial: sachlicher Ausblick ohne 
 **Vorher:** "Das ist mein letztes Wort in dieser Sache."
 **Nachher:** "Ich hoffe, dass die vorstehenden Ausführungen zur Klärung beitragen. Für eine Rückmeldung bin ich jederzeit offen."
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Vorgeschlagene Schlusspassage passend zum Ton des Schreibens. (2) Alternative kooperative Formeln nach Intensitätsstufe. (3) Hinweis auf geeignete Schlussformel.

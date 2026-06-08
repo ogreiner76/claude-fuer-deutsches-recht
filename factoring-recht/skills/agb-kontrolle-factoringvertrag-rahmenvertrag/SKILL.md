@@ -113,13 +113,6 @@ Fragen zum Einstieg:
 - **Drittsicherheiten**: Bürgschaften und Garantien Dritter zu Lasten Factor-Kunde, die formularmäßig verlangt werden, unterliegen ebenfalls AGB-Kontrolle des Kunden.
 - **Verzugszinsanpassung**: Verzugszinsen über § 288 Abs. 2 BGB hinaus müssen ausdrücklich vereinbart sein; AGB-Klausel "Verzugszinsen 15 Prozent" benötigt Verhältnismäßigkeitsprüfung.
 
-## Querverweise
-
-- `factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe`
-- `echtes-und-unechtes-factoring-risikoverteilung`
-- `kuendigung-rahmenvertrag-exit-und-rueckuebertragung`
-- `gerichtsstand-rechtswahl-schiedsvereinbarung`
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 305 bis 310, insbesondere § 307 Abs. 1 S. 2 (Transparenz) und § 310 Abs. 1 (B2B-Modifikation).

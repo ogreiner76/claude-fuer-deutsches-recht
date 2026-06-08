@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Transportversicherung im internation
 
 # Transportversicherung im internationalen Handel
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Transportversicherung im internationalen Handel. Institute Cargo Clauses A/B/C (Lloyd's), All-Risk vs. benannte Gefahren, Versicherungspflicht nach Incoterms CIF/CIP, Versicherungszertifikat für Akkreditive und Subrogation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Die Transportversicherung (Cargo Insurance) sichert Warenrisiken auf dem interna
 - Versicherungszertifikat: Blank-Indossament für Akkreditivzwecke
 - Kriegsrisikogebiete: Lloyd's Market Association Annual War Notice prüfen
 
-## Output
-
-- ICC A/B/C Vergleichstabelle (Gefahren, Ausschlüsse)
-- Versicherungszertifikat-Checkliste (UCP 600 Art. 28)
-- Open-Cover-Klausel-Muster
-
-## Quellenregel
-
-ICC A/B/C 2009: lloyds.com (LMA). UCP 600 Art. 28: iccwbo.org. Incoterms 2020: iccwbo.org. Schrifttum: Tetley, Marine Cargo Claims (4. Aufl. 2008). Unsicherheit bleibt sichtbar.

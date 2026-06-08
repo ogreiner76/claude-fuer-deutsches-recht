@@ -5,10 +5,6 @@ description: "Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abz
 
 # Influencer-Recht: Reisekosten, Pressereise und gemischte Veranlassung
 
-## Arbeitsbereich
-
-Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abzugsfähigkeit, gemischte Veranlassung, Kennzeichnungspflicht und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,3 +72,4 @@ Reisen mit Content-Anteil sind steuerlich die schwierigste Kategorie:
 - Reisetagebuch-Vorlage
 - Kennzeichnungsampel (Pressereise-Posts)
 - Betriebseinnahme-Buchungsnotiz (Pressereise vom Brand)
+

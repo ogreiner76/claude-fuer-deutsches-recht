@@ -5,10 +5,6 @@ description: "Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, R
 
 # Frist Sofortcheck
 
-## Arbeitsbereich
-
-Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,17 +72,10 @@ Behörden setzen Fristen oder lassen Fristen entstehen (Rechtsbehelf, Aeusserung
 - Widerspruch bei Behörde eingereicht, die nicht zuständig ist (zur Niederschrift bei jeder Behörde moeglich, aber Zuständigkeitsweiterleitung sicherer).
 - Nachts vor Mitternacht eingeworfen, ohne Zeugen — Beweisproblem.
 
-## Querverweise
-- `widerspruch-einfach`
-- `eilantrag-notfall`
-- `bescheid-ohne-rechtsbehelf`
-- `was-will-dieses-schreiben`
-- `klage-verwaltungsgericht-einfach`
-- `untaetigkeit-behoerde`
-
 ## Quellen Stand 06/2026
 - VwVfG §§ 31, 41.
 - VwGO §§ 58, 60, 70, 74.
 - SGG § 66; AO § 356.
 - BGB §§ 187, 188.
 - BVerwG, staend. Rspr. zu Rechtsbehelfsbelehrung und Wiedereinsetzung.
+

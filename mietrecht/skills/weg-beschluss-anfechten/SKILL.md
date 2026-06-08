@@ -25,10 +25,6 @@ Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft 
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitsklage in Frage kommt. Die WEG-Reform 2020 hat das Verfahren neu strukturiert — alte Begriffe (Beschlussanfechtungsklage) sind nun "Beschlussklage".
-
 ## Eingaben
 
 - Einladung mit Tagesordnung
@@ -214,6 +210,3 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 
 Weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

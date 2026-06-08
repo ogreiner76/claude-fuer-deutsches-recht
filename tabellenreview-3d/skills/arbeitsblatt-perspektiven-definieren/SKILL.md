@@ -5,10 +5,6 @@ description: "Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview defini
 
 # /tabellenreview-3d:arbeitsblatt-perspektiven-definieren
 
-## Zweck
-
-Excel kann mehrere Tabellenblaetter nebeneinander. Der 3D-Würfel übernimmt dieses Bild: dieselben Dokumente (Zeilen) werden mehrfach geprüft, jedes Mal aus einer anderen Perspektive (Arbeitsblatt). Die Spalten sind je Arbeitsblatt zum Teil deckungsgleich (vergleichbare Datenpunkte) und zum Teil arbeitsblattspezifisch.
-
 ## Triage zu Beginn
 
 1. Wie viele Perspektiven sind erforderlich? (Recht / Steuer / Wirtschaft / Datenschutz / IT)

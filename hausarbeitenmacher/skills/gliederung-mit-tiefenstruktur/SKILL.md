@@ -5,10 +5,6 @@ description: "Student erstellt Gliederung für juristische Hausarbeit mit korrek
 
 # Gliederung mit Tiefen-Struktur
 
-## Arbeitsbereich
-
-Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Prüfraster Gliederungs-Logik Hierarchie Prüfungsschema-Sichtbarkeit Vollständigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-für-schritt (Inhalt). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstru
 - § 308 ZPO — Bindung an Antraege: Gliederung darf nicht ueber den Bearbeitungsvermerk hinausgehen
 - §§ 195 ff. BGB — Verjährung als eigener Gliederungspunkt bei Anspruchs-Erloesung
 - § 362 BGB — Erfuellung als erster Erloeschungsgrund in Gliederungs-Unterebene
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Eine gute Gliederung zeigt schon im Inhaltsverzeichnis, ob Du das Problem verstanden hast. Sie ist die Schiene, auf der die Argumentation läuft.
 
 ## Schritt 1 — Standard-Tiefenstruktur
 
@@ -280,3 +269,4 @@ B. Ansprüche des B gegen A....................................... 15
 - `zivilrecht-anspruchsgrundlagen-pruefung` — Detail Zivilrecht-Schema
 - `öffentliches-recht-statthaft-zulaessig-begruendet` — ÖR-Schema
 - `strafrecht-tatbestand-rechtswidrigkeit-schuld` — Strafrecht-Schema
+

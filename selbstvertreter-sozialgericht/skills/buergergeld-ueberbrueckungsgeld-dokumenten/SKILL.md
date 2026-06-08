@@ -5,9 +5,6 @@ description: "Buergergeld Ueberbrueckungsgeld Dokumenten im Selbstvertretung am 
 
 # Buergergeld Ueberbrueckungsgeld Dokumenten
 
-## Arbeitsbereich
-
-**Buergergeld Ueberbrueckungsgeld Dokumenten** ordnet den Fall über die tragenden Prüfungslinien: Buergergeld Ueberbrueckungsgeld bei Haftentlassung, PDF-Dateien für SG-Klage erstellen, Dolmetscher beim SG nach § 185 GVG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Buergergeld Ueberbrueckungsgeld Dokumenten im Selbstvertretung am 
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `buergergeld-ueberbrueckungsgeld`
@@ -206,24 +204,9 @@ Speichern Sie alle Klage-PDFs in einem Ordner. Sortieren Sie alphabetisch:
 - Datei zu gross → komprimieren
 - Privates nicht geschwaerzt → Datenschutz beachten
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `einreichung-mein-justizpostfach-mjp-sozialgericht` — MJP-Versand
-- `anlagen-bezeichnen-und-sortieren-sozialgericht` — Anlagen ordnen
-- `klage-zusammenstellen-bundle-sozialgericht` — Komplett-Paket
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Apps und Tools veraendern sich. Bei Fragen: lokale Computer-Beratung, VHS-Kurs, Familie / Bekannte fragen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `dolmetscher-beim-sozialgericht-laien`
 
@@ -331,24 +314,9 @@ Sagen Sie sofort: "Ich habe das nicht verstanden, bitte langsamer." Der Dolmetsc
 - Falsche Sprache angegeben (Dialekt) → Verstaendigungs-Probleme
 - "Bekannte kann uebersetzen" als Notloesung → bei wichtigen Punkten besser Profi
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `ladung-termin-sozialgericht-vorbereitung` — Ladung
-- `terminvorbereitung-laien-checkliste-sozialgericht` — Vorbereitung
-- `verhalten-im-saal-sozialgericht-laienleitfaden` — Verhalten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 185 GVG aktuell. Praxis-erprobt.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `dsgvo-art-15-auskunft-sozialakte`
 
@@ -558,23 +526,7 @@ Das SG entscheidet meist innerhalb von 1 bis 4 Wochen. Bei akuten Faellen (Strom
 - Eidesstattliche Versicherung vergessen → immer beilegen
 - Hauptsache versaeumt (kein Widerspruch / Klage) → parallel laufen lassen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `eilantrag-buergergeld-jobcenter` — Spezialfall Buergergeld
-- `eilantrag-krankenkassen-leistung` — Spezialfall Krankenkasse
-- `eilantrag-pflegekassen-pflegehilfsmittel` — Spezialfall Pflege
-- `eilantrag-erfolgsaussichten-checkliste` — Pruefung der Chancen
-- `widerspruch-vorverfahren-78-sgg` — parallel Widerspruch
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 86b SGG aktuell. BVerfG hat Anforderungen an effektiven Eilrechtsschutz hochgehalten (Art. 19 Abs. 4 GG). Bei akuten Faellen Geschaeftsstelle anrufen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

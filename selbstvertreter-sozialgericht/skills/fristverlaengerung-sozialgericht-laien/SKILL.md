@@ -107,22 +107,7 @@ Eine zweite oder dritte Verlaengerung wird strenger geprueft. Begruenden Sie gut
 - Begruendung fehlt → wird abgelehnt
 - Verlaengerung nicht aufgepasst → neue Frist setzen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `fristen-berechnen-sgg-laien` — Fristen
-- `fristenbuch-fuehren-laien-sozialgericht` — Fristen verwalten
-- `wiedereinsetzung-frist-67-sgg` — wenn verspaetet
-- `widerspruch-gegen-gutachten-laien` — Stellungnahme
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 64 SGG und Praxis der Sozialgerichtsbarkeit.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb
 
 # /tabellenreview-3d:risikoampel-aggregation
 
-## Arbeitsbereich
-
-Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb/gruen je Dimension. Normen: §§ 174 ff. InsO. Prüfraster: Ampellogik, Schwellenwerte, Gesamtrisikoeinschaetzung. Output: Risikoampel-Aggregationsbericht. Abgrenzung: nicht Kreuzblatt-Konsistenzprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,10 +23,6 @@ Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb/gruen je Dime
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zweck
-
-4000 Zellen einzeln zu sichten ist nicht praktikabel. Diese Aggregation reduziert die Sicht ohne Information zu verlieren — wer reinzoomen will klickt durch.
 
 ## Aggregationsstufen
 

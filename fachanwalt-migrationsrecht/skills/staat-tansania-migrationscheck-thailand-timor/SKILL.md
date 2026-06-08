@@ -5,9 +5,6 @@ description: "Staat Tansania Migrationscheck Thailand Timor im Migrationsrecht: 
 
 # Staat Tansania Migrationscheck Thailand Timor
 
-## Arbeitsbereich
-
-**Staat Tansania Migrationscheck Thailand Timor** ordnet den Fall über die tragenden Prüfungslinien: Staaten- und Gebietscheck Tansania, Staaten- und Gebietscheck Thailand, Staaten- und Gebietscheck Timor-Leste. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -37,6 +34,7 @@ description: "Staat Tansania Migrationscheck Thailand Timor im Migrationsrecht: 
 - Tragende Normen verifizieren: AsylG §§ 13-19, 24-26a, 27-30, 71-74, 77; AufenthG §§ 4, 5, 7-9, 16a-d, 18a-c, 19-21, 28-36, 53-55, 60, 81, 95; AufenthG, AsylG, FreizügG/EU, StAG; AufenthG § 18b Abs. 2, § 18g, EU-Richtlinie 2021/1883; Dublin-III-VO (EU) 604/2013 Art. 3, 7-15, 17, 21-23, 29; StAG §§ 8, 9, 10, 11, 12a, 13, 16, 17, 25, 30; AufenthG §§ 18, 18a, 18b, 18c, 18d, 18g, 19c, FachkräfteEG 2023; AufenthG §§ 27-36; EU-Asylpaket (GEAS-Reform 2024): Asylverfahrens-VO, Asylkrisen-VO, Eurodac, AMMR; Genfer Flüchtlingskonvention Art. 1A, 31, 33; StAG §§ 4, 5, 8-17, 25, 27, 30; AufenthG, AsylG, StAG, FreizügG/EU, AsylbLG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `staat-tansania-migrationscheck`
@@ -44,9 +42,6 @@ description: "Staat Tansania Migrationscheck Thailand Timor im Migrationsrecht: 
 **Fokus:** Staaten- und Gebietscheck Tansania: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Tansania
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tansania**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Tansania: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -63,13 +58,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tansania**. Er is
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Tansania`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -81,9 +69,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tansania**. Er is
 **Fokus:** Staaten- und Gebietscheck Thailand: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Thailand
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Thailand**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Thailand: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -100,13 +85,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Thailand**. Er is
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Thailand`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -118,9 +96,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Thailand**. Er is
 **Fokus:** Staaten- und Gebietscheck Timor-Leste: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Timor-Leste
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Timor-Leste**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Timor-Leste: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -137,13 +112,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Timor-Leste**. Er
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Timor-Leste`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -155,9 +123,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Timor-Leste**. Er
 **Fokus:** Staaten- und Gebietscheck Togo: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Togo
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Togo**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Togo: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -174,13 +139,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Togo**. Er ist ke
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Togo`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -192,9 +150,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Togo**. Er ist ke
 **Fokus:** Staaten- und Gebietscheck Tonga: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Tonga
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tonga**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Tonga: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -211,13 +166,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tonga**. Er ist k
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Tonga`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -229,9 +177,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tonga**. Er ist k
 **Fokus:** Staaten- und Gebietscheck Trinidad und Tobago: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Trinidad und Tobago
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Trinidad und Tobago**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Trinidad und Tobago: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -248,13 +193,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Trinidad und Toba
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Trinidad und Tobago`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -266,9 +204,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Trinidad und Toba
 **Fokus:** Staaten- und Gebietscheck Tschad: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Tschad
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tschad**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Tschad: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -285,13 +220,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tschad**. Er ist 
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Tschad`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -303,9 +231,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tschad**. Er ist 
 **Fokus:** Staaten- und Gebietscheck Tschechien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Tschechien
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tschechien**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Tschechien: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -322,13 +247,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tschechien**. Er 
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Tschechien`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -340,9 +258,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tschechien**. Er 
 **Fokus:** Staaten- und Gebietscheck Türkei: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Türkei
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Türkei**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Türkei: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -359,13 +274,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Türkei**. Er ist
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Türkei`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -377,9 +285,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Türkei**. Er ist
 **Fokus:** Staaten- und Gebietscheck Tunesien: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Tunesien
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tunesien**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Tunesien: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -396,13 +301,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tunesien**. Er is
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Tunesien`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -414,9 +312,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tunesien**. Er is
 **Fokus:** Staaten- und Gebietscheck Turkmenistan: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Turkmenistan
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Turkmenistan**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Turkmenistan: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -433,13 +328,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Turkmenistan**. E
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Turkmenistan`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -451,9 +339,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Turkmenistan**. E
 **Fokus:** Staaten- und Gebietscheck Tuvalu: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Tuvalu
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tuvalu**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Tuvalu: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -470,13 +355,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tuvalu**. Er ist 
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Tuvalu`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -488,9 +366,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Tuvalu**. Er ist 
 **Fokus:** Staaten- und Gebietscheck Uganda: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Uganda
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Uganda**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Uganda: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -507,13 +382,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Uganda**. Er ist 
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Uganda`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -525,9 +393,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Uganda**. Er ist 
 **Fokus:** Staaten- und Gebietscheck Ukraine: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Ukraine
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Ukraine**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Ukraine: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -544,13 +409,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Ukraine**. Er ist
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Ukraine`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -562,9 +420,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Ukraine**. Er ist
 **Fokus:** Staaten- und Gebietscheck Ungarn: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Ungarn
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Ungarn**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Ungarn: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -581,13 +436,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Ungarn**. Er ist 
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Ungarn`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -599,9 +447,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Ungarn**. Er ist 
 **Fokus:** Staaten- und Gebietscheck Uruguay: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: Uruguay
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Uruguay**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu Uruguay: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -618,13 +463,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Uruguay**. Er ist
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `Uruguay`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
@@ -636,9 +474,6 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Uruguay**. Er ist
 **Fokus:** Staaten- und Gebietscheck US-Jungferninseln: migrationsrechtlicher für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 ### Staaten-/Gebietscheck: US-Jungferninseln
-
-## Aufgabe
-Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **US-Jungferninseln**. Er ist kein Länderlexikon, sondern ein Arbeitsinstrument für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz- und Rückführungsfragen.
 
 ## Einstieg
 1. Welche Beziehung besteht zu US-Jungferninseln: Staatsangehörigkeit, Geburt, Wohnsitz, Transit, Fluchtgrund, Urkunde, Pass, Familie, Arbeitgeber oder Zielstaat?
@@ -655,15 +490,9 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **US-Jungferninseln
 5. **Rückführung/Pass:** Botschaftspraxis, Heimreisedokument, Mitwirkung, Zumutbarkeit, Vollstreckungshindernisse.
 6. **Strategie:** Antrag, Nachreichung, Eilantrag, Länderquellenvermerk, Mandantenhinweis, spanische/einfache Erklärung bei Bedarf.
 
-## Output
-- Kurzlage: `US-Jungferninseln`, Status, Ziel, Frist, Hauptrisiko.
-- Quellenvermerk mit Datum des Live-Checks.
-- Dokumenten- und Beweisliste.
-- Textbaustein für Behörde/Gericht/Mandant.
-- Anschluss-Skills: Aufenthaltsstatus, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Passbeschaffung oder Abschiebungsabwehr.
-
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+

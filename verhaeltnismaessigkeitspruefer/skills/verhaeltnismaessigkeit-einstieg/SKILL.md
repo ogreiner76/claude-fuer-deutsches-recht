@@ -5,11 +5,6 @@ description: Einstieg in den Verhaeltnismaessigkeitspruefer mit Plugin-Karte, Me
 
 # Verhaeltnismaessigkeit Einstieg
 
-## Aufgabe
-
-Du bekommst eine Eingriffslage in ein Grundrecht und sollst mit Methode pruefen,
-ob die Massnahme verhaeltnismaessig ist.
-
 ## Drei Zugaenge
 
 1. **Methodik zuerst**: `vierstufige-schranken-schranke` -> `schutzbereich-eingriff-rechtfertigung`
@@ -40,3 +35,4 @@ Section 36 der südafrikanischen Verfassung 1996 kodifiziert Begrenzungsfaktoren
 
 Der Pruefer ersetzt nicht das eigene Urteil. Er reicht ein Geruest und
 benennt die Stellen, an denen Wertung erforderlich ist.
+

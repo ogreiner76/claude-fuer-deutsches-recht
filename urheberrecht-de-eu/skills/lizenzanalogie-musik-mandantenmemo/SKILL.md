@@ -5,10 +5,6 @@ description: "Bereitet Lizenzanalogie im Musikfall vor: Tarife, Marktvergleich, 
 
 # Musiklizenzanalogie und Tarife
 
-## Arbeitsbereich
-
-Bereitet Lizenzanalogie im Musikfall vor: Tarife, Marktvergleich, Nutzungsausmaß, Reichweite, Dauer, Gebiet und Zuschläge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -86,3 +82,4 @@ Konkret zu prüfen:
 - § 2 Abs. 1 Nr. 2 UrhG
 - § 73 UrhG (ausübende Künstler)
 - § 85 UrhG (Tonträgerhersteller)
+

@@ -16,10 +16,6 @@ description: "Prueft Rechtsgeltung kelsenianisch: Norm, Rechtsquelle, Kompetenz,
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill zwingt eine rechtliche Argumentation in eine nüchterne Normstruktur. Er fragt nicht zuerst, wer politisch mächtig, moralisch im Recht oder sozial plausibel wirkt, sondern: Welche Norm gilt, aus welcher Quelle, aufgrund welcher Kompetenz, in welchem Rang und mit welchem Auslegungsspielraum?
-
 ## Sofort klären
 
 1. Welche Aussage soll rechtlich gelten: Pflicht, Befugnis, Verbot, Anspruch, Sanktion, Kompetenz oder bloße Empfehlung?
@@ -67,18 +63,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Liefere eine knappe Normgeltungsmatrix:
-
-| Frage | Antwort |
-| --- | --- |
-| Rechtsbehauptung | ... |
-| Normquelle | ... |
-| Rang | ... |
-| Kompetenz/Verfahren | ... |
-| Auslegungsspielraum | ... |
-| moralische/politische Bewertung | ... |
-| Ergebnis | gilt / gilt nicht / offen |
-
-Schließe mit einem Satz, der die Rechtsgeltung und die rechtspolitische Bewertung sauber trennt.

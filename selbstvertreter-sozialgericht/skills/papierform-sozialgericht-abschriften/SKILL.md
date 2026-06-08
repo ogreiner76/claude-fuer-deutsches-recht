@@ -94,23 +94,7 @@ Aufheben min. 5 Jahre.
 - Falsche Adresse (LSG statt SG) → Verweisung; Zeitverlust
 - Normaler Brief am letzten Tag → riskant
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `einreichung-mein-justizpostfach-mjp-sozialgericht` — digitale Alternative
-- `einreichung-fax-und-grenzen-sozialgericht` — Fax
-- `anlagen-bezeichnen-und-sortieren-sozialgericht` — Anlagen
-- `klage-zusammenstellen-bundle-sozialgericht` — Komplett-Versand
-- `versand-selbst-zurechnung-laien-sozialgericht` — Versand-Beweis
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 93 SGG zu Abschriften. Postpreise variieren, aktuell pruefen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

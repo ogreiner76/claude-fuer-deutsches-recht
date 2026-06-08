@@ -19,24 +19,9 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Einsatz
-
-Dieser Skill startet jedes TK-Mandat und verhindert, dass Verbraucherärger, Regulierungsbescheid und kartellähnlicher Infrastrukturstreit durcheinanderlaufen.
-
 ## Norm- und Quellenanker
 
 TKG 2021; TDDDG; DSGVO; VwVfG/VwGO; BGB; GWB/AEUV; EU-Richtlinie 2018/1972 (EECC); BNetzA-Veröffentlichungen live prüfen.
-
-## Arbeitsfragen
-
-1. Wer ist beteiligt: Endnutzer, Anbieter, Netzbetreiber, Vorleister, Wettbewerber, Behörde?
-2. Geht es um Vertrag, Bescheid, Beschwerde, Marktregulierung, Frequenz, Nummer oder Sicherheit?
-3. Welche Frist oder Störung läuft?
-4. Welche Unterlagen liegen vor: Vertrag, Leistungsbeschreibung, Messprotokoll, Rechnung, Bescheid, BNetzA-Akte?
-
-## Output
-
-Triage-Memo mit Rechtsweg, Fristen, Unterlagenliste, Zielbild und passenden Fachmodule.
 
 ## Red Flags
 
@@ -50,6 +35,3 @@ Triage-Memo mit Rechtsweg, Fristen, Unterlagenliste, Zielbild und passenden Fach
 - tk-zuständigkeits-router-bnetza-vg-lg
 - tk-bundesnetzagentur-verfahren-akteneinsicht-fristen
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

@@ -5,10 +5,6 @@ description: "Anwalt will sich schnell in Akte einarbeiten ohne vollständige Le
 
 # Verfahrenszusammenfassung — Absatz
 
-## Arbeitsbereich
-
-Anwalt will sich schnell in Akte einarbeiten ohne vollständige Lektuere. Acht bis zehn Saetze Hintergrund Streitstand prozessuale Lage anstehende Verfahrenshandlungen. Normen §§ 253 261 ZPO. Prüfraster Vollständigkeit Neutralitaet Verstaendlichkeit Aktualitaet. Output Zusammenfassungs-Absatz. Abgrenzung zu aktenauszug-erstellen (vollständig) und schwerpunktthemen-identifikation (Streitpunkte). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Anwalt will sich schnell in Akte einarbeiten ohne vollständige Lektuere. Acht b
 - Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Der Zusammenfassungsabsatz bietet dem Leser nach dem Einleitungssatz eine kompakte Gesamtschau des Verfahrens. Er ist kein Sachverhaltsnarrativ und keine Chronologie, sondern ein strukturierter Fließtext, der Hintergrund, Streitpunkte, Stand und Ausblick verbindet.
 
 ## Triage — kläre vor Erstellung
 
@@ -117,3 +109,4 @@ Rechtlich offen ist die Frage [zentrale Rechtsfrage].
 - [ ] Richterliche Hinweise nach § 139 ZPO berücksichtigt?
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 146/19 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH VI ZR 84/19, NJW 2021, 2364 (verifiziert auf dejure.org). -->
+

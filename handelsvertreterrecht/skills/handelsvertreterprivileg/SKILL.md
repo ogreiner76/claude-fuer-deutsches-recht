@@ -65,10 +65,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Freistellung nach Vertikal-GVO als Rückfalloption nicht geprüft.
 - Informelles Clearing mit Kartellbehörde versäumt — Bußgeldrisiko.
 
-## Output
-
-Kartellrechtliches Gutachten Handelsvertreterprivileg, Risikoanalyse, Vertragsklausel-Bewertung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +85,4 @@ ergänzen das Recht praxisnah.
 - [EuGH C-217/05 CEPSA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62005CJ0217)
 - [Vertikal-GVO 2022/720 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R0720)
 - [Dejure § 1 GWB](https://dejure.org/gesetze/GWB/1.html)
+

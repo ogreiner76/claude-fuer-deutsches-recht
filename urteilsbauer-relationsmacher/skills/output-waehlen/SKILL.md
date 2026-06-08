@@ -9,7 +9,6 @@ description: "Output-Wahl für Urteilsbauer/Relationsmacher: stimmt Adressat (Ri
 
 Diese Output-Weiche für **Urteilsbauer Relationsmacher** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `aktenintake-schriftsatz-brief-und-memo-bausteine` — Aktenintake Schriftsatz Brief und Memo Bausteine
@@ -36,12 +35,9 @@ Diese Output-Weiche für **Urteilsbauer Relationsmacher** entscheidet, ob Memo, 
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Urteilsbauer/Relationsmacher sofort: Relation (Klägerstation/Beklagtenstation) oder Urteilsskizze.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

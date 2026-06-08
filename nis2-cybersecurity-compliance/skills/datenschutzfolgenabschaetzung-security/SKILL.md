@@ -5,10 +5,6 @@ description: "Erstellt DSFA für Security-Systeme mit hohem Risiko im Nis2 Cyber
 
 # Datenschutzfolgenabschaetzung Security
 
-## Arbeitsbereich
-
-Erstellt DSFA für Security-Systeme mit hohem Risiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: DSFA-Gliederung. Wenn der Nutzer nur eine Kurzantwort möchte
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

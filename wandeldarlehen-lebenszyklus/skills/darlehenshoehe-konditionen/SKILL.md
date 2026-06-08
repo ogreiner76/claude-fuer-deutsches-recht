@@ -5,10 +5,6 @@ description: "Darlehenshoehe Zinsen Laufzeit und Konditionen für Wandeldarlehen
 
 # Darlehensbetrag und Konditionen
 
-## Arbeitsbereich
-
-Darlehenshoehe Zinsen Laufzeit und Konditionen für Wandeldarlehen verhandeln und dokumentieren. §§ 488 491 BGB Darlehensvertrag §§ 246 247 BGB Zinsen. Prüfraster: Darlehenshoehe Zinssatz Disagio Laufzeit Fälligkeit Sicherheiten Rangrücktritt. Output: Term-Sheet Konditionenblatt Vertragsklauseln. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Darlehenshoehe Zinsen Laufzeit und Konditionen für Wandeldarlehen verhandeln un
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erfasst alle wirtschaftlichen Kernkonditionen des Wandeldarlehens und bereitet die Vertragsabschnitte §§ 1 bis 3 vor (Darlehensgewährung, Laufzeit, Rückzahlung, Verzinsung). Phase A des Lebenszyklus.
 
 ## Eingaben
 
@@ -83,12 +75,6 @@ Ordentliche Kündigung ausgeschlossen für alle Parteien. § 490 Abs. 1 BGB vert
 | Keine Bankverbindung vorhanden | Auszahlung blockiert | Konto in Eröffnung | Konto bekannt |
 | Laufzeit über fünf Jahre | Langfristigkeit prüfen | Drei bis fünf Jahre | Standard zwei Jahre |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/wandlungsmechanik-konzipieren/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/rangruecktritt-formulieren/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/wandlungspreis-berechnung/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung BGB-Darlehensrecht aktualisieren.
@@ -106,3 +92,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 §§ 488, 491 ff. BGB (Darlehensvertrag) → § 490 BGB (Kündigung, vertraglich ausgeschlossen) → § 314 BGB (Kündigung wichtiger Grund, unberührt) → § 138 BGB (Sittenwidrigkeit überhöhter Zins) → §§ 135, 143 InsO (Anfechtung Rückzahlung Gesellschafterdarlehen) → § 119 InsO (Unwirksamkeit insolvenzabhängiger Lösungsklauseln) → §§ 3, 4 StaRUG (Restrukturierungsrahmen)
+

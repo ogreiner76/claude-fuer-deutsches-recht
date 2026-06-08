@@ -5,10 +5,6 @@ description: "Wahltarife mit Selbstbehalt nach § 53 SGB V: Funktionsweise, Kün
 
 # Selbstbehalt-Wahltarif und Kündigung
 
-## Arbeitsbereich
-
-Wahltarife mit Selbstbehalt nach § 53 SGB V: Funktionsweise, Kündigung, Rückforderungsrisiko bei vorzeitigem Austritt und Interaktion mit anderen Leistungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -88,6 +84,7 @@ Selbstbehalt-Wahltarife bieten niedrigere Beiträge gegen einen Eigenanteil bei 
 - [BSG B 1 KR 14/17 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 53 SGB V](https://dejure.org/gesetze/SGB_V/53.html)
 - [GKV-Spitzenverband Wahltarife](https://www.gkv-spitzenverband.de)
+
 ## Hinweis: Prämienrückgewähr und Steuerrecht
 
 - Prämienrückgewähr bei Inanspruchnahme: mindert Sonderausgabenabzug (§ 10 Abs. 1 Nr. 3 EStG)
@@ -100,3 +97,4 @@ Selbstbehalt-Wahltarife bieten niedrigere Beiträge gegen einen Eigenanteil bei 
 - [§ 175 SGB V – Wahlrecht, Kündigung](https://www.gesetze-im-internet.de/sgb_5/__175.html)
 - [GKV-Spitzenverband – Wahltarife](https://www.gkv-spitzenverband.de)
 - [BSG-Rechtsprechung Wahltarife](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+

@@ -16,10 +16,6 @@ description: "3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern e
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Excel ist das Lingua Franca der Mandatsübergabe. Der 3D-Würfel wird in Excel nativ abgebildet: jedes Arbeitsblatt ist ein Tabellenreiter — genau das was die dritte Dimension visuell darstellt.
-
 ## Aufbau der Excel-Datei
 
 ### Reiter 1 bis N — Pro Arbeitsblatt-Perspektive
@@ -78,3 +74,4 @@ Reviewlauf-Zeitstempel, verwendete Modell-Version, Laufdauer, Anzahl Zellen, Anz
 ## Grenzen
 
 Excel kann große Stapel handeln; ab 100.000 Zellen sind PDF und CSV pro Reiter zu erwägen (siehe Skill `pdf-bericht-erzeugen`).
+

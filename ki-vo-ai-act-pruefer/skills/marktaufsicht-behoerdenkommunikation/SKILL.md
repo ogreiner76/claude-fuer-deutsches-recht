@@ -5,10 +5,6 @@ description: "Marktaufsicht und Behördenkommunikation: Evidence Room für KI-VO
 
 # Marktaufsicht: Evidence Room
 
-## Arbeitsbereich
-
-Marktaufsicht und Behördenkommunikation: Evidence Room für KI-VO-Pruefungen, Zuständigkeit, Fristen, Dokumentenpakete, technische Erklaerungen, Betriebsgeheimnisse, Schwärzung, Nachforderung und Eskalationsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,10 +38,3 @@ Wenn eine Behörde Unterlagen verlangt, muss das Unternehmen schnell, geordnet u
 5. Keine Spekulationen liefern.
 6. Nachreichungen sauber versionieren.
 
-## Output
-
-- Behördenbrief.
-- Dokumentenindex.
-- Schwärzungsliste.
-- Fragen-an-Technik-Liste.
-- Eskalationsvermerk für Geschäftsleitung.

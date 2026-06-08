@@ -5,10 +5,6 @@ description: "Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwal
 
 # Rom 159 Romanisierung Der Provinzen Und Stadtrecht
 
-## Aufgabe
-
-Skill für die Romanisierung der Provinzen.
-
 ## Ius Latinum
 
 - Verleihung des "lateinischen Rechts" an Provinzialstaedte.
@@ -64,7 +60,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Romanisierung.

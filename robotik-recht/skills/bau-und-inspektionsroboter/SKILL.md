@@ -77,12 +77,6 @@ Bau- und Inspektionsroboter (Vermessungs-Roboter, Mauerwerks-, 3D-Druck-, Schwei
 - **Logs überschrieben** nach 24 h – Beweisverlust.
 - **Wartung extern, aber ohne Übergabeprotokoll**.
 
-## Querverweise
-
-- `arbeitsschutz-betrsichv-robotik`
-- `betreiber-mitverschulden-und-fehlbedienung`
-- `deliktische-haftung-paragraph-823-bgb`
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2023/1230 (MaschinenVO).
@@ -91,3 +85,4 @@ Bau- und Inspektionsroboter (Vermessungs-Roboter, Mauerwerks-, 3D-Druck-, Schwei
 - VO (EU) 2024/2853 (neue ProdHaftRL).
 - VO (EU) 2024/1689 (KI-VO).
 - Live-Verifikation auf baua.de, bundesanzeiger.de, eur-lex.europa.eu; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

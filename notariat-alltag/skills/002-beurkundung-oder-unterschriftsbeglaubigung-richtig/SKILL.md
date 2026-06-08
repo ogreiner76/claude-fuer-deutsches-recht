@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung ric
 
 # Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen
 
-## Arbeitsbereich
-
-Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (§§ 6–35 BeurkG) und Beglaubigung (§§ 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

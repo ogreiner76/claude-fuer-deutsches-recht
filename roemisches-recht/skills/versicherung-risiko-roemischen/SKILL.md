@@ -5,10 +5,6 @@ description: "Versicherung und Risikoverteilung im roemischen Recht. Skill behan
 
 # Rom 139 Versicherung Und Risiko Im Roemischen Recht
 
-## Aufgabe
-
-Skill für Versicherungsersatz im roemischen Recht.
-
 ## Fehlen einer Versicherungslehre
 
 - Klassische Roemische Juristen kannten keinen Versicherungsvertrag als typenmäßiges Geschaeft.
@@ -58,7 +54,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

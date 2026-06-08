@@ -5,12 +5,6 @@ description: "KI-gestütztes Screening von Schuldnerakten auf mögliche Insolven
 
 # KI-Screening Schuldnerakten — mögliche Anfechtungsansprüche
 
-## Aufgabe
-
-Dieser Skill nutzt KI nicht als Ersatz für die anwaltliche oder insolvenzverwalterliche Prüfung, sondern als **beleggebundenes Screening-Werkzeug**. Er soll aus Schuldnerakten mögliche Anfechtungskandidaten erkennen, strukturieren, priorisieren und mit Quellenstellen versehen.
-
-Die richtige Antwort kann in schwierigen Fällen auch lauten: **Der Sachverhalt reicht für eine rechtliche Prüfung durch KI nicht aus.** Das ist kein Fehler, sondern ein verwertbares Ergebnis.
-
 ## Grundregel
 
 KI darf:
@@ -153,10 +147,3 @@ Die folgenden Punkte können ohne menschliche Bewertung nicht abgeschlossen werd
 
 Hinweis: Keine Rechtsberatung. Dieses Screening erzeugt Kandidaten und Belegketten, keine belastbare Anspruchsdurchsetzung ohne fachliche Endprüfung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

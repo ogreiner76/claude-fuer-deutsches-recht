@@ -5,10 +5,6 @@ description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenz
 
 # Zollwert und Ursprung: Integrierte Pruefung und kombiniertes Nachweispaket
 
-## Arbeitsbereich
-
-Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nichtpraeferenzieller Ursprung als Zollwert-Einflussfaktor und Nachweis-Anforderungen. Zollwertberichtigung bei nachtraeglichen Ursprungsnachweisen und REX-Erklaerungen. Kombinierte Pruefung Zollwert-Ursprung bei Zollaußenpruefungen. Output: Integrierte Zollwert-Ursprungs-Pruefmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nic
 - Zollwert und Ursprung werden bei Pruefung oft kombiniert; Luecken in beiden Bereichen kumulieren sich.
 - Nachtraegliche Ursprungs-Korrekturen erfordern Zollanmeldungs-Berichtigung.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Integrierte Zollwert-Ursprungs-Pruefmatrix mit Nachweis-Status-Tracking, Erstattungsantrags-Vorlage und Pruefungs-Vorberei tungscheckliste.
-
 ## Quellen
 
 - [UZK Art. 59 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
 - [Zoll.de Praeferenz](https://www.zoll.de/DE/Fachthemen/Zoelle/Praeferenzrecht/praeferenzrecht_node.html)
 - [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
 - [BAFA Ausfuhrkontrolle](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
+

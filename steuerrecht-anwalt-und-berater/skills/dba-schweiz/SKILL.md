@@ -180,15 +180,9 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 >
 > Anmerkung: konkrete Saetze und Verfahren aus DBA-Text und ESTV-Wegleitung pruefen.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.
-- `stb-dba-grenzgaenger-schweiz-60-tage-rueckkehr` — Detail-Skill.
-- `stb-dba-home-office-pandemie-folgeregelung` — Konsultationsvereinbarung.
-- `stb-dba-rentner-pensionen-art-18` — Pensions-Saeulen.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Schweiz 11.08.1971 (BGBl. 1972 II S. 1021/1022), Aend.-Prot. 12.03.2002 (BGBl. 2003 II S. 68), 27.10.2010 (BGBl. 2011 II S. 1092), 21.08.2023 (BGBl. 2025 II Nr. 275, in Kraft 27.11.2025, ab 01.01.2026). ATAD-Umsetzungsgesetz 2021 (BGBl. 2021 I S. 2035). BMF-Schreiben zu Grenzgaengern und Wegzug im BMF-Veroeffentlichungsverzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 14 Marker aufgeloest: 4 belegt (DBA-Schweiz BGBl-Daten bestaetigt; BVerfG 2 BvL 1/12 15.12.2015 bestaetigt; Schweizer Verrechnungssteuer 35% Art. 13 VStG; ATAD-UG BGBl. 2021 I S. 2035), 10 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

@@ -5,9 +5,6 @@ description: "Klageschrift Pflichtbestandteile im Selbstvertretung am Amtsgerich
 
 # Klageschrift Pflichtbestandteile
 
-## Arbeitsbereich
-
-**Klageschrift Pflichtbestandteile** ordnet den Fall über die tragenden Prüfungslinien: Pflichtbestandteile einer Klageschrift nach § 253 ZPO, Strukturierung des Tatsachenvortrags in der Klageschrift, Kostenfestsetzung nach §§ 103 104 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Klageschrift Pflichtbestandteile im Selbstvertretung am Amtsgerich
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `klageschrift-pflichtbestandteile-253-zpo`
@@ -215,26 +213,9 @@ Schicken Sie an das Gericht — per MJP (elektronisch), Post (mit Einschreiben) 
 - "Anschrift Beklagter brauche ich nicht, hab ja Nachnamen." → Doch, ladungsfaehige Anschrift Pflicht.
 - "Streitwert kann das Gericht selbst rechnen." → Sie muessen ihn angeben (§ 253 III ZPO).
 
-## Querverweise
-
-- `klageschrift-antrag-bestimmt-formulieren` — Antragsformulierung.
-- `klageschrift-tatsachenvortrag-strukturieren` — Sachverhalt aufbauen.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweismittel.
-- `klageschrift-anlagen-bezeichnen` — Anlagen K1-Kn.
-- `klage-streitwert-angabe-3-zpo` — Streitwert.
-- `klageschrift-anschreiben-an-gericht-laien` — Anschreiben.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 253 ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `klageschrift-tatsachenvortrag-strukturieren`
 
@@ -406,25 +387,9 @@ Bei Selbstvertretung muss die Rechtsfolge nicht ueberkomplex sein — kurz und a
 - "Beweis steht nur unten als Liste." → Pro Tatsache direkt darunter Beweis-Angabe.
 - "Ich bestreite eigene Pflichten." → Sie als Klaeger muessen Ihre Tatsachen positiv vortragen.
 
-## Querverweise
-
-- `anspruchsgrundlage-finden-laienhilfe` — Anspruchsgrundlage.
-- `tatbestand-zerlegen-anspruchspruefung-laien` — Tatbestandsmerkmale identifizieren.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweismittel.
-- `klageschrift-pflichtbestandteile-253-zpo` — Gesamtaufbau.
-- `beweismittel-vorab-sammeln-checkliste` — Beweise sammeln.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Tipp.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `kostenfestsetzung-103-104-zpo`
 
@@ -558,21 +523,7 @@ Mit dem Kostenfestsetzungs-Beschluss koennen Sie:
 - "Belege weggeworfen." → Festsetzung schwierig.
 - "Hohe Arbeitszeit als Erstattung." → Bei Selbstvertretung nicht.
 
-## Querverweise
-
-- `vollstreckungsklausel-724-zpo` — Klausel.
-- `urteil-rechtskraft-705-zpo` — Rechtskraft.
-- `zwangsvollstreckung-querverweis-substitutionsagent` — Vollstreckung.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten-Kalkulation.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 103, 104 ZPO unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

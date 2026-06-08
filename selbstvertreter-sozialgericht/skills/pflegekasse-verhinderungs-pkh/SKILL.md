@@ -5,9 +5,6 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 
 # Pflegekasse Verhinderungs PKH
 
-## Arbeitsbereich
-
-**Pflegekasse Verhinderungs PKH** ordnet den Fall über die tragenden Prüfungslinien: Pflegekasse Verhinderungspflege und Kurzzeitpflege, Erfolgsaussicht in der PKH-Prüfung, Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Pflegekasse Verhinderungs PKH im Selbstvertretung am Sozialgericht
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `pflegekasse-verhinderungs-und-kurzzeitpflege`
@@ -182,13 +180,6 @@ Niemals offen aggressiv schreiben — sachlich bleiben.
 - Allgemeine Schilderung der Notlage → konkrete Tatsachen
 - Verzicht auf medizinische Belege → wichtig in EM-, GdB-, Pflege-Streits
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `pkh-vor-sozialgericht-73a-sgg` — Antrag
-- `klagebegruendung-laienleitfaden` — Begruendung
-- `kostenrisiko-vs-kostenfreiheit-laien` — Kostenrisiko
-
 ## Quellen und Aktualitaet
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -337,25 +328,9 @@ Das SG entscheidet meist innerhalb von Wochen. Anwalt-Beiordnung wird oft bewill
 - Keinen Anwalt → ohne Anwalt keine Beiordnung; Sie koennen sich selbst vertreten
 - Anwalt akzeptiert PKH-Mandat nicht → anderen Anwalt fragen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `beratungshilfe-vor-widerspruch-brh` — Vor der Klage
-- `pkh-anwaltsbeiordnung-erfolgsaussicht` — Erfolgsaussicht
-- `kostenrisiko-vs-kostenfreiheit-laien` — Kosten allgemein
-- `wann-doch-anwalt-grenzfaelle-sozialgericht` — wann doch Anwalt
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `rentenauskunft-und-versicherungsverlauf-pruefen`
 
@@ -483,3 +458,4 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 3. Lueckhe identifiziert?
 4. Belege gesammelt?
 5. Bescheid pruefen?
+

@@ -5,10 +5,6 @@ description: "Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte im Hinweis
 
 # Arbeitsvertrag Klauseln
 
-## Arbeitsbereich
-
-Prüft Arbeitsvertragsklauseln gegen Hinweisgeberrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

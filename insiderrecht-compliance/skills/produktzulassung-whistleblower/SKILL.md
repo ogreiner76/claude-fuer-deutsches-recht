@@ -5,10 +5,6 @@ description: "Prueft Insiderinformations-Entstehung bei regulatorischen Produktz
 
 # Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen
 
-## Arbeitsbereich
-
-Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,21 +70,3 @@ auch wenn finale FDA/EMA-Entscheidung noch aussteht.
 - Bei negativer Entscheidung: Ebenso unverzüglich
 - Koordination mit IR und Presse für simultane Kommunikation
 
-## Red-Team-Fragen
-
-- Wurden alle wesentlichen Meilensteine im Zulassungsverfahren auf Insiderinformations-
- Qualität geprüft?
-- Wurde der Geltl/Daimler-Test zeitpunktbezogen (nicht rückblickend) angewendet?
-- Ist die Kursrelevanz-Beurteilung anhand von Markterwartungen gestützt?
-- Wurden alle Wissensträger (Regulatory Affairs, Wissenschaftler, externe Berater) in
- Insiderliste aufgenommen?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Zulassungsverfahren-Meilensteinmatrix mit Insiderinformations-Prüfung je Meilenstein
-2. Kursrelevanz-Analyse (Markterwartung vs. mögliches Ergebnis)
-3. Insiderliste für Zulassungsprojekt
-4. Ad-hoc-Entwurf (positiv / negativ / mit Auflagen)
-
-Belege ausschließlich mit: eur-lex.europa.eu, curia.europa.eu, bafin.de, gesetze-im-internet.de.

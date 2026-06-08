@@ -5,10 +5,6 @@ description: "Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und s
 
 # Gastwissenschaftler, Sanktionen und Dual Use
 
-## Arbeitsbereich
-
-Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Gastwissenschaftler, Sanktionen und Dual Use**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Gastwissenschaftler, Sanktionen und Dual Use**. Prüfe diese Ank
 - `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruch.
 - `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -87,3 +82,4 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 - **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
 - **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
 - **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
+

@@ -173,15 +173,7 @@ Bei dringender Situation siehe `eilantrag-pflegekassen-pflegehilfsmittel`.
 - Begruendung pro Modul fehlt → Modul für Modul argumentieren
 - "Es geht mir schlechter" ohne konkreten Verlauf → konkret
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch
-- `eilantrag-pflegekassen-pflegehilfsmittel` — Eilantrag
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-- `medizinische-gutachten-strategie-laien` — Gutachten
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-
 ## Quellen und Aktualitaet
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Erstprüfung und Mandatszielbestimmung im gewerblichen Rechtsschutz: strukturiertes Erstgespräch, Rollen- und Interessenklärung, Schutzrechtslandschaft, Falltypisierung und Zieldefinition für anwaltliche Mandate in IP- und Wettbewerbssachen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -161,17 +157,10 @@ Nächster Termin: _______________
 - Keine abschließende rechtliche Beurteilung ohne Normtext- und Rechtsprechungs-Prüfung.
 - Keine Festlegung auf eine Handlungsoption ohne Mandantenentscheidung.
 
-## Quellenregel
-
-- MarkenG: [gesetze-im-internet.de/markeng](https://www.gesetze-im-internet.de/markeng/)
-- PatG: [gesetze-im-internet.de/patg](https://www.gesetze-im-internet.de/patg/)
-- UWG: [gesetze-im-internet.de/uwg_2004](https://www.gesetze-im-internet.de/uwg_2004/)
-- GeschGehG: [gesetze-im-internet.de/geschgehg](https://www.gesetze-im-internet.de/geschgehg/)
-- Keine BeckRS-Blindzitate; Normen live prüfen.
-
 ## Anschluss-Skills
 
 - `mandat-triage-gewerblicher-rechtsschutz` – Vertiefte Triage
 - `gewerblicher-rechtsschutz-kaltstart-interview` – Kaltstart-Interview
 - `gw-einfuehrung-rechtsschutzwege` – Überblick Rechtsschutzwege
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
+

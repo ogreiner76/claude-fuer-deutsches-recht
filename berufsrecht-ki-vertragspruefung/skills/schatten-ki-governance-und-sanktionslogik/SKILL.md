@@ -38,11 +38,3 @@ Bei versehentlichem Upload:
 4. Prüfen, ob Mandant, Kammer, Datenschutzaufsicht oder Versicherung einzubeziehen sind.
 5. Wiederholungsschutz: Policy, Technik, Schulung nachziehen.
 
-## Output
-
-Erstelle eine kurze Partner-/Managementvorlage:
-
-- Was ist passiert?
-- Wie hoch ist das Geheimnisschutzrisiko?
-- Welche Sofortmaßnahmen laufen?
-- Welche langfristige Governance verhindert Wiederholung?

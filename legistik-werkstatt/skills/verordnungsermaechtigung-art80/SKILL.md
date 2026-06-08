@@ -68,9 +68,6 @@ Auf Landesebene gilt regelmäßig Art. 80 GG analog über die Landesverfassungen
 
 Art. 80 Abs. 1 GG (Ermaechtigungs-Bestimmtheitstrias) — Art. 80 Abs. 1 Satz 4 GG (Sub-Delegation) — Art. 80 Abs. 2 GG (Bundesrats-Zustimmung) — § 51 BImSchG (Beispiel-Ermaechtigungsnorm mit Anhörungspflicht)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Pruefprotokoll plus Empfehlung:
@@ -82,3 +79,4 @@ Pruefprotokoll plus Empfehlung:
 ## Anschluss
 
 `normenkartierung` und `referentenentwurf-bauen` (mit korrektem Citatum).
+

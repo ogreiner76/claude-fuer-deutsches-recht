@@ -23,7 +23,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 Dieser Dokumenten-Intake für **Barrierefreiheit Web Checker** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abnahme-formular-portal-und-einreichung` — Abnahme Formular Portal und Einreichung
@@ -50,12 +49,9 @@ Dieser Dokumenten-Intake für **Barrierefreiheit Web Checker** ordnet Anlagen, R
 - Tragende Normen vorläufig zuordnen: BFSG, BITV 2.0, EU 2016/2102, EAA-RL 2019/882, WCAG 2.1 / 2.2 (AA), DIN EN 301 549 — Endfeststellung erst nach Live-Check.
 - Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Webseitenbetreiber, Bundes-/Landesbarrierefreiheitsbeauftragter, Schlichtungsstelle BFSG, Marktüberwachung prüfen.
 
-## Output
-
-Dokumentenregister mit K/B-Nummerierung, Chronologie, Beweiswerttabelle und Rückfrageliste an Betreiber Website/App.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

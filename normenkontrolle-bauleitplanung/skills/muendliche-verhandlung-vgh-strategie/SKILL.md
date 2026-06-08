@@ -5,10 +5,6 @@ description: "Normenkontrollantrag steht vor muendlicher Verhandlung am VGH oder
 
 # Mündliche Verhandlung BayVGH/OVG
 
-## Zweck
-
-Die mündliche Verhandlung ist der entscheidende Auftritt. Senatsentscheidungen fallen in der Regel kurz danach. Vorbereitung und strukturiertes Plädoyer entscheiden.
-
 ## Schritt 1 — Vor der Verhandlung
 
 ### Termin-Bekanntgabe
@@ -209,6 +205,3 @@ Die mündliche Verhandlung ist der entscheidende Auftritt. Senatsentscheidungen 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

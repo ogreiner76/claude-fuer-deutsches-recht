@@ -5,10 +5,6 @@ description: "Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sond
 
 # Kassenwahl: Kündigung, Bindungsfrist und Wahltarif
 
-## Arbeitsbereich
-
-Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sonderkündigungsrecht, Wahltarife und Kostenbeteiligung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Dieser Skill regelt das **Kassenwahlrecht in der GKV**: Wie kann man die Kasse w
 - [BSG Kassenwechsel-Rechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 175 SGB V](https://dejure.org/gesetze/SGB_V/175.html)
 - [GKV-Spitzenverband Kassenwahl](https://www.gkv-spitzenverband.de)
+

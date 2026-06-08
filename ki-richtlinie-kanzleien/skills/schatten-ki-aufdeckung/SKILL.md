@@ -5,10 +5,6 @@ description: "Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendu
 
 # Schatten-KI Aufdeckung
 
-## Arbeitsbereich
-
-Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Prüfraster Stilanalyse von Arbeitsergebnissen, Browser-Logs, freiwillige Selbstauskunft, vertrauliche Anlaufstelle, konstruktiver Umgang. Output Aufdeckungs- und Praeventionstrategie mit Kommunikationsplan. Abgrenzung zu Compliance-Regelsatz und zu Richtlinien-Skelett. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,15 +20,6 @@ Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzle
 ## Rechtlicher Hintergrund
 
 § 43a Abs. 2 BRAO, § 203 StGB: Jede Übermittlung von Mandatsgeheimnissen an nicht autorisierte externe Dienste kann eine Verletzung der Verschwiegenheitspflicht darstellen — auch wenn der Mitarbeitende dies nicht beabsichtigt. Art. 5 DSGVO: Rechenschaftspflicht des Verantwortlichen — die Kanzlei muss darlegen können, dass Daten rechtmäßig verarbeitet werden. § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmungsrecht des Betriebsrats bei technischer Überwachung von Mitarbeitenden. § 26 BDSG: Zulässigkeit der Verarbeitung von Beschäftigtendaten. Art. 4 KI-VO: Pflicht zur KI-Kompetenz setzt voraus, dass der Einsatz bekannt und geregelt ist.
-
-## Vorgehen
-
-1. **Offene Kommunikation zuerst**: Schatten-KI ist oft ein Zeichen dafür, dass Mitarbeitende ein reales Bedürfnis nach KI-Unterstützung haben. Zunächst im Dialog klären, warum KI-Systeme genutzt werden und welche Aufgaben damit erledigt werden.
-2. **Schulung und Sensibilisierung**: Alle Mitarbeitenden über die Risiken der Schatten-KI aufklären (Verschwiegenheitspflicht, Datenschutz, Haftung) und gleichzeitig Alternativen aufzeigen (autorisierte Kanzlei-Accounts).
-3. **Stilanalyse**: KI-typische Texteigenschaften (übermäßig formaler Stil, fehlerfreie Grammatik bei sonst fehleranfälligen Mitarbeitenden, wiederkehrende Formulierungen) können Hinweise geben — keine Beweiskraft, aber Anlass für ein Gespräch.
-4. **Browser- und Netzwerk-Logs**: Im Rahmen des datenschutzrechtlich und arbeitsrechtlich Zulässigen können Netzwerklogs Zugriffe auf externe KI-Dienste aufdecken. Betriebsrat einbinden; keine verdachtslose Totalüberwachung.
-5. **Freiwillige Selbstauskunft und Amnestie**: Mitarbeitende können eingeladen werden, offen zu kommunizieren, welche KI-Tools sie nutzen. Eine Amnestie für vergangene Verstöße gegen nicht existierende Richtlinien schafft Vertrauen.
-6. **Vertrauliche Anlaufstelle einrichten**: Einen Ansprechpartner (z.B. Datenschutzbeauftragter oder Berufsrechtsbeauftragter) benennen, an den Mitarbeitende Fragen zur KI-Nutzung ohne Angst vor Konsequenzen richten können.
 
 ## Vorlagentext / Bausteine
 
@@ -89,3 +76,4 @@ PRAEVENTION:
 
 Verantwortlicher: [NAME], [DATUM]
 ```
+

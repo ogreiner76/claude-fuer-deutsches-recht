@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausna
 
 # Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung
 
-## Arbeitsbereich
-
-Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 54a BeurkG, §§ 23 ff. DONot und den Verwahrungsregeln, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -104,3 +100,4 @@ Geldzahlungen über Notaranderkonto unterliegen GwG-Prüfung. Der Notar muss auc
 - **GwG-Checklist für Geldeingang**
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

@@ -5,10 +5,6 @@ description: "Fitnessstudio, Schließung und Rückzahlung: prüft Mitgliedsbeitr
 
 # Fitnessstudio Rückzahlung Schließung
 
-## Arbeitsbereich
-
-Fitnessstudio, Schließung und Rückzahlung: prüft Mitgliedsbeiträge, Unmöglichkeit, Vertragsverlängerung, BGH XII ZR 64/21, Kündigung, Gutscheinlösung, Krankheit, Umzug und Beitragsinkasso. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -39,10 +35,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Einsatz
-
-Dieses Fachmodul bei Fitnessstudio- und Sportclubstreitigkeiten: Schließung, Beitragsrückzahlung, automatische Vertragsverlängerung, Kündigung, Krankheit, Umzug, Hausverbot, Inkasso.
-
 ## Rechtsanker
 
 - §§ 275, 326, 313, 346 BGB.
@@ -65,13 +57,7 @@ Dieses Fachmodul bei Fitnessstudio- und Sportclubstreitigkeiten: Schließung, Be
 - Lastschrift und Inkasso nur nach Fristen- und Beweischeck angehen.
 - Bei Krankheit/Umzug nicht automatisch Sonderkündigungsrecht behaupten, sondern Vertragsklauseln und Zumutbarkeit prüfen.
 
-## Output
-
-- Rückforderungsberechnung nach Monaten.
-- Kündigung oder Einwendung gegen Vertragsverlängerung.
-- Antwort auf Inkasso.
-- Vergleichsvorschlag, wenn Beweislage gemischt ist.
-
 ## Laienklartext
 
 "Nicht trainiert" ist nicht dasselbe wie "Studio konnte nicht leisten". Genau diese Unterscheidung entscheidet den Fall.
+

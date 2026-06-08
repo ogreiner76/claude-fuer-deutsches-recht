@@ -5,10 +5,6 @@ description: "PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung im Preußisches 
 
 # PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung
 
-## Aufgabe
-
-Dieser Skill bearbeitet **Erster Teil Titel 11 Kauf Tausch Schenkung** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
 ## Kaltstart in 6 Fragen
 
 1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
@@ -51,10 +47,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

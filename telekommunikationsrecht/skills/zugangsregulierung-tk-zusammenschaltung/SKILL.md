@@ -5,10 +5,6 @@ description: "Zugang zu Netzen, Vorleistungsprodukten, TAL/Bitstrom, Glasfaser, 
 
 # Zugangsregulierung und Vorleistungen
 
-## Arbeitsbereich
-
-Zugang zu Netzen, Vorleistungsprodukten, TAL/Bitstrom, Glasfaser, Nichtdiskriminierung und technische Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Zugang zu Netzen, Vorleistungsprodukten, TAL/Bitstrom, Glasfaser, Nichtdiskrimin
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Wettbewerber, die Zugang brauchen, oder Netzbetreiber, die Zugangspflichten erfüllen müssen.
-
 ## Norm- und Quellenanker
 
 TKG Zugangsregulierung; BNetzA-Standardangebote; GWB/AEUV.
-
-## Arbeitsfragen
-
-1. Welcher Zugang wird verlangt?
-2. Ist Pflicht, freiwilliger Open Access oder Vertrag betroffen?
-3. Welche technischen/kommerziellen Bedingungen sind streitig?
-
-## Output
-
-Zugangsantrag/Stellungnahme und Konditionenmatrix.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Zugangsantrag/Stellungnahme und Konditionenmatrix.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

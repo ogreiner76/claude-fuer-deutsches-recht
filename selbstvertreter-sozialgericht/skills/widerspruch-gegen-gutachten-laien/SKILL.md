@@ -128,22 +128,7 @@ Das Gericht prueft Stellungnahme und ggf. Erlaeuterung. Eine Entscheidung dauert
 - § 109-Gutachten ohne aerztliche Absicherung → Risiko
 - Keine Reaktion → Gericht legt das Gutachten zugrunde
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `medizinische-gutachten-strategie-laien` — Strategie
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-- `terminvorbereitung-laien-checkliste-sozialgericht` — Verhandlung
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 411 ZPO analog. Erlaeuterung im Termin selten verweigert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

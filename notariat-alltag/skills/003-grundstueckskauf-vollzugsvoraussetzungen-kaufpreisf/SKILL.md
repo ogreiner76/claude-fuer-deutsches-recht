@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, 
 
 # Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit, Auflassungsvormerkung
 
-## Arbeitsbereich
-
-Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit und Auflassungsvormerkung. Strukturierter Vollzugsablauf von der Beurkundung bis zur Eigentumsumschreibung mit GrESt, GBO und Lastenfreistellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

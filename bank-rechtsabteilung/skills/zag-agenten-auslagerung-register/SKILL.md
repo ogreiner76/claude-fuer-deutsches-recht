@@ -5,10 +5,6 @@ description: "ZAG-Agenten, E-Geld-Agenten und Auslagerung prüfen: Register, Haf
 
 # ZAG-Agenten, E-Geld-Agenten und Auslagerung
 
-## Arbeitsbereich
-
-ZAG-Agenten, E-Geld-Agenten und Auslagerung prüfen: Register, Haftung, Weisungen, Schulungen, AML, Kundenkommunikation, Passporting und Abgrenzung zum bloßen Dienstleister. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -54,6 +50,3 @@ Dieser Skill prüft den Einsatz von Agenten und die Auslagerung bei ZAG-Institut
 
 Agenten-Registrierungsanzeige-Vorlage § 25 ZAG; Auslagerungsvertrag-Mindestklausel-Checkliste (§ 24 ZAG, DORA Art. 30); DORA-ICT-Drittparteien-Register-Template; AML-Schulungsplan für Agenten; Risikoampel wesentliche vs. nicht-wesentliche Auslagerung.
 
-## Quellenregel
-
-gesetze-im-internet.de (ZAG, GwG), eur-lex.europa.eu (DORA VO 2022/2554), eba.europa.eu (EBA/GL/2017/09 Agenten und Auslagerung), bafin.de (Merkblatt ZAG-Auslagerung). Live-Check: DORA gilt seit 17.01.2025; EBA DORA-ITS/RTS auf eba.europa.eu; EBA/GL/2017/09 überarbeitet nach DORA.

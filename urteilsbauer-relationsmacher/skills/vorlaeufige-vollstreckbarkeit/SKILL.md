@@ -27,9 +27,6 @@ description: "Anordnung zur vorläufigen Vollstreckbarkeit nach §§ 708-720a ZP
 - § 713 ZPO — keine Sicherheit bei fehlendem Rechtsmittel (Beschwer ≤ 600 EUR)
 - § 719 ZPO — Einstellung der Vollstreckung bei Berufung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Entscheidungsbaum
 
 ```
@@ -48,6 +45,7 @@ Entscheidungstyp?
 **Adressat:** Urteil → Tenor (Ziff. 3) — Tonfall: formal-amtlich
 
 ```
+
 ## Vorläufige Vollstreckbarkeit
 
 **Standardfall § 709 ZPO:**
@@ -86,6 +84,8 @@ Paragraf 709 ZPO - vorläufige Vollstreckbarkeit gegen Sicherheitsleistung von 1
 ---
 
 <!-- AUDIT 27.05.2026 -->
+
 ## Audit-Hinweis (27.05.2026)
 
 Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.
+

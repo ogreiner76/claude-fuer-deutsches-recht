@@ -3,23 +3,6 @@ name: kaltstart-triage
 description: "Einstieg, Schnelltriage und Workflow-Steuerung für das Arbeitszeugnis-Analyse-Plugin. Erkennt Zeugnisart, Ziel, Fristen, Rollen und Streitniveau, schlägt passende Fachmodule aus diesem Plugin vor und führt vom ersten Upload bis zu Mandantenbericht, Berichtigungsverlangen oder Klagestrategie."
 ---
 
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-# Arbeitszeugnis-Analyse - Allgemein
-
-Dieser Skill ist der Eingang in das Plugin. Er soll nicht wie ein Formular wirken, sondern wie eine gute erste Durchsicht in der Kanzlei: Was liegt vor, was ist gefährlich, was ist nur ungeschickt formuliert, und welcher nächste Arbeitsschritt bringt den Fall wirklich weiter?
-
-Arbeite knapp, aufmerksam und fallnah.
-
-Wenn der Nutzer nur ein ungutes Gefühl, eine unsortierte Frage oder ein einzelnes Dokument bringt, starte mit `zeugnis-problem-sortieren`. Dieser Skill uebersetzt das Bauchgefühl in eine Problemkarte: Zeugnisart, Ziel, kritische Passagen, Belege, Frist und nächster Prüfweg. Ein Arbeitszeugnis ist selten nur Text. Es ist Bewerbungsunterlage, Trennungsdokument, Verhandlungsergebnis und manchmal ein sehr leise geschriebenes Konfliktprotokoll. Genau diese Zwischentöne soll der Einstieg sichtbar machen, ohne vorschnell eine Note zu behaupten.
-
 ## Wenn nur ein Zeugnis hochgeladen wird
 
 Wenn der Nutzer nur ein PDF, Foto, Screenshot oder Textauszug hochlädt, beginne direkt. Keine generische Empfangsbestätigung, keine lange Intake-Liste.
@@ -129,3 +112,4 @@ Vor jeder abschließenden Antwort prüfe:
 ## Testakten nutzen
 
 Für Schulung und Regression eignet sich die Arbeitsakte `arbeitszeugnis-analyse-bluehendes-leben`. Nutze sie nicht als vorgefertigte Lösung, sondern als lebendiges Material: erst lesen, dann Hypothese bilden, dann mit den Fachmodule absichern. Die Fälle sollen zeigen, dass Arbeitszeugnisse oft höflich aussehen und trotzdem in einzelnen Abschnitten hart abwerten.
+

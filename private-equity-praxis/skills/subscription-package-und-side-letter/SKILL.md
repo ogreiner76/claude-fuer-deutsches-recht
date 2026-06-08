@@ -5,10 +5,6 @@ description: "Prüft Beitrittserklärung, KYC, Tax Forms, MFN, Reporting, No-Fau
 
 # Subscription Package und Side Letter
 
-## Arbeitsbereich
-
-Prüft Beitrittserklärung, KYC, Tax Forms, MFN, Reporting, No-Fault-Divorce, Key-Person und Most-Favoured-Nation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,14 +80,6 @@ Key Person Suspension (LPA):
 - KYC-Lücke beim Anchor-LP — Initial Closing rutscht.
 - Datenschutzhinweis fehlt — AVV-Lücke gegenüber Administrator.
 
-## Querverweise
-
-- pe-005 für Spezial-AIF-Setup.
-- pe-013 für Capital Calls.
-- pe-014 für Carry/Waterfall.
-- pe-018 für ESG-Reporting.
-- pe-019 für KYC/GwG.
-
 ## Quellen Stand 06/2026
 
 - KAGB §§ 67, 162, 281 ff.
@@ -100,3 +88,4 @@ Key Person Suspension (LPA):
 - SFDR (VO (EU) 2019/2088) Pre-Contractual Disclosure.
 - ILPA Principles 3.0 (Stand vom Anwender zu prüfen).
 - DSGVO Art. 6, 28.
+

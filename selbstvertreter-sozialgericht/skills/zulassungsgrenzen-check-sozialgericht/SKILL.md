@@ -11,10 +11,6 @@ description: "Zulassungs- und Rechtsmittelgrenzen im Sozialgerichtsverfahren: §
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Dieser Skill prüft, ob nach einem Urteil des Sozialgerichts die Berufung zum Landessozialgericht ohne Zulassung möglich ist, ob die Berufung zugelassen werden muss oder ob eine Nichtzulassungsbeschwerde in Betracht kommt. Er erklärt die Schwellen so, dass Bürger sie selbst nachvollziehen können.
-
 ## Kernwerte Stand Mai 2026
 
 | Thema | Grenze | Norm |
@@ -65,30 +61,3 @@ Wenn Wertgrenze nicht erreicht und keine laufenden Leistungen über mehr als ein
 - SG und LSG: Bürger dürfen sich selbst vertreten.
 - BSG: Vertretungszwang nach § 73 Abs. 4 SGG. Rechtzeitig Anwalt, Sozialverband oder zugelassene Vertretung prüfen.
 
-## Ausgabeformat
-
-**Rechtsmittel-Check**
-| Frage | Ergebnis | Ampel |
-|---|---|---|
-| Berufung zugelassen? | | |
-| Beschwer über 750 EUR? | | |
-| Laufende Leistungen über mehr als 1 Jahr? | | |
-| Zulassungsgrund erkennbar? | | |
-| Frist gesichert? | | |
-| Anwalt/Sozialverband nötig? | | |
-
-**Konsequenz**
-[Berufung einlegen, Nichtzulassungsbeschwerde prüfen, Urteil akzeptieren, PKH/Anwalt/Sozialverband einschalten.]
-
-**Nächste Skills**
-- `berufung-lsg-144-sgg-wertgrenze-750`
-- `berufung-zulassung-besondere-bedeutung`
-- `anwaltszwang-pruefen-73-sgg`
-- `nichtzulassungsbeschwerde-bsg-160a-sgg` nur nach einem LSG-Urteil ohne Revisionszulassung.
-
-## Qualitätsregeln
-
-- Immer zwischen Berufung, Nichtzulassungsbeschwerde und Revision unterscheiden.
-- Fristdatum konkret berechnen oder fehlende Zustellung markieren.
-- Bei BSG-Verfahren nie suggerieren, dass Bürger allein handeln können.
-- Bei Kostenfreiheit § 183 SGG trotzdem § 109 SGG, Mutwillenskosten und eigene Anwaltskosten erwähnen.

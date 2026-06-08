@@ -5,10 +5,6 @@ description: "Prüft EuGH- und Art 11 GRCh-Bezüge bei Äußerungen: Plattformen
 
 # EuGH und Art. 11 GRCh
 
-## Arbeitsbereich
-
-Prüft EuGH- und Art 11 GRCh-Bezüge bei Äußerungen: Plattformen, Suchmaschinen, Datenschutz, Uploadfilter, De-Referenzierung, journalistische Zwecke und Informationsfreiheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüft EuGH- und Art 11 GRCh-Bezüge bei Äußerungen: Plattformen, Suchmaschine
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill prüft, ob ein Meinungsfall zusätzlich unionsrechtlich gerahmt werden muss: Art. 11 GRCh, Datenschutz, Suchmaschinen, Plattformen, DSA, urheberrechtliche Uploadfilter oder journalistische Zwecke. Er hilft besonders, wenn ein rein deutsches Art.-5-GG-Schema zu eng wäre oder die Plattformebene den Fall prägt.
 
 ## Wann einsetzen?
 
@@ -47,28 +39,9 @@ Dieser Skill prüft, ob ein Meinungsfall zusätzlich unionsrechtlich gerahmt wer
 - **EuGH, Urteil vom 26.04.2022 - C-401/19, Polen/Parlament und Rat:** Uploadfilter-Regime brauchen wirksame Schutzvorkehrungen für rechtmäßige Kommunikation, einschließlich Zitat, Kritik, Rezension, Karikatur, Parodie und Pastiche.
 - **EuGH, Urteil vom 08.12.2022 - C-460/20, Google:** Bei De-Referenzierung angeblich unrichtiger Inhalte kommt es auf hinreichenden Nachweis offensichtlicher Unrichtigkeit und die Grundrechtsbalance an.
 
-## Output
-
-```text
-Unionsrechtlicher Zusatzcheck
-- Unionsanker:
-- Betroffene GRCh-Rechte:
-- Plattform-/Suchmaschinenmaßnahme:
-- EuGH-Leitlinie:
-- Übertrag auf den deutschen Prüfvermerk:
-- Offene Tatsachen/technische Nachweise:
-```
-
 ## Warnhinweise
 
 - Art. 11 GRCh ersetzt Art. 5 GG nicht, sondern wirkt im Anwendungsbereich des Unionsrechts.
 - Plattformlöschung ist nicht automatisch staatlicher Grundrechtseingriff, kann aber über DSA, Vertrag, AGB-Kontrolle, mittelbare Drittwirkung und Verfahrensschutz relevant werden.
 - De-Referenzierung ist nicht dasselbe wie Löschung der Originalquelle.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

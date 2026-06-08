@@ -5,10 +5,6 @@ description: "Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, una
 
 # Anspruchsfassung Gebrauchsmuster
 
-## Arbeitsbereich
-
-Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, unabhängiger Anspruch, Unteransprüche, Stütze, Varianten und Klarheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, unabhängiger Ans
 ## Wann dieser Skill hilft
 
 Der Anspruchsentwurf ist roh oder KI-generiert.
-
-## Arbeitsweise
-
-Formuliere nicht blind neu, sondern stelle Rückfragen zu technischen Wirkungen und Ausführungsformen.
 
 ## Prüfpunkte
 
@@ -53,10 +45,6 @@ Formuliere nicht blind neu, sondern stelle Rückfragen zu technischen Wirkungen 
 ### BGH-Linie
 - BGH X ZR 95/05 "Schneidmesser" — Aequivalenz auch im Gebrauchsmusterrecht.
 - BGH X ZB 5/16 (Az verifizieren) — Auslegung der Schutzansprueche aus dem Verstaendnis des Fachmanns.
-
-## Output
-
-Anspruchs-Review und Rückfragen.
 
 ## Quellen-Hardening
 

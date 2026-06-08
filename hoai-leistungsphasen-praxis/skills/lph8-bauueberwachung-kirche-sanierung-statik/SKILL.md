@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Kirchensanierungen mit statis
 
 # Bauueberwachung Kirche Sanierung Statik (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Kirchensanierungen mit statischen Ertuechtigunsarbeiten — Gewoelbe-Sicherung, Dachstuhl-Sanierung nach DIN EN 1995, Blitzschutz nach DIN EN 62305, Naturstein-Fugenrestaurierung nach DIN EN 998 und Feuchtemessung nach DIN EN ISO 12572. Unterstuetzt Bauueberwacher bei Foerdermittel-Dokumentation und kirchlichen Baulasttraegern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Kirchenbauaemter der Landeskirchen haben eigene Baulast-Regelungen und Pruefanfo
 - Foerdermittel-Dokumentation lueckenhaft: Zuwendungsgeber fordert Rueckzahlung
 - Blitzschutz-Trennungsstellen falsch: Ueberspannungsschaeden an Orgel und Kirchenelektronik
 
-## Output
-
-Rissmonitoring-Langzeitprotokoll. Resistograph-Bohrprotokolle Dachstuhl.
-Gewoelbe-Injektionsprotokoll. Blitzschutz-Pruefprotokoll. Feuchtemessungsprotokoll.
-Foerdermittel-Dokumentation mit Vorher-Nachher-Fotos. Abnahmeprotokoll Kirchenbauamt.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Foerdermittel-Dokumentation mit Vorher-Nachher-Fotos. Abnahmeprotokoll Kirchenba
 - [DIN EN 998 Moertel](https://www.gesetze-im-internet.de/)
 - [DIN EN 1995 Holzbau](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 97/01 Kirchensanierung Haftung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+97/01)
+

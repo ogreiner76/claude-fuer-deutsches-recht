@@ -5,10 +5,6 @@ description: "Erstellt eine redaktionelle Rechteampel zu UrhG, Verlagsgesetz, Nu
 
 # Rechtecheck UrhG und Verlagsgesetz
 
-## Arbeitsbereich
-
-Erstellt eine redaktionelle Rechteampel zu UrhG, Verlagsgesetz, Nutzungsrechten, Zitatrecht, Bearbeitung, Zweitveroeffentlichung und Freigaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,13 +32,6 @@ Dieser Skill bereitet Rechtefragen für Redaktion, Justiziariat oder externe Pr�
 
 UrhG §§ 31 ff., § 38, § 39, § 51, § 63; Verlagsgesetz; vertragliche Vereinbarungen.
 
-## Output
-
-- Rechteampel.
-- Freigabeliste.
-- Fragen an Autor:in.
-- Stopp-Hinweise.
-
 ## Schneller Arbeitsmodus
 
 - Erst klaeren: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
@@ -55,10 +44,3 @@ UrhG §§ 31 ff., § 38, § 39, § 51, § 63; Verlagsgesetz; vertragliche Verein
 - Sind Rechte, Quellen, Namen, Titel, Preis, Termine und Freigaben als belegt oder offen markiert?
 - Gibt es genau die naechsten Schritte mit Owner, Frist und Eskalation?
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

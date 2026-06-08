@@ -5,10 +5,6 @@ description: "Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zust�
 
 # Fristen- und Zuständigkeitscockpit
 
-## Arbeitsbereich
-
-Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,12 +17,6 @@ Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, R
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar
 
 ## Kaltstart in fünf Schritten
 
@@ -44,13 +34,6 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
-## Spezielle Leitplanken
-
-- Keine Beratung über konkrete geheime Beratungsinhalte offenlegen.
-- Unabhängigkeit und Beratungsgeheimnis schützen.
-- Bei Unsicherheit vorsitzende Person in der Sitzung sachlich ansprechen.
-
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -59,10 +42,4 @@ Konkret zu prüfen:
 - § 76 GVG (Mitwirkung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
-## Output
 
-Erzeuge je nach Auftrag: Sitzungscheckliste, Fragenleitfaden, Befangenheitsnotiz, Beratungscheck oder verständliche Erklärung. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.

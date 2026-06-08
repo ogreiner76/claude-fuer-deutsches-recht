@@ -5,10 +5,6 @@ description: "DD Reporting und Legal Fact Book: Erstellt Red-Flag-Report, Full D
 
 # DD Reporting und Legal Fact Book
 
-## Arbeitsbereich
-
-DD Reporting und Legal Fact Book: Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und Issues-to-SPA-Mapping. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ DD Reporting und Legal Fact Book: Erstellt Red-Flag-Report, Full DD Report, Lega
 ## Fachkern: DD Reporting und Legal Fact Book
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Datenraum, Legal Due Diligence und pragmatische Information-Request-Steuerung**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -116,10 +109,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### DD Reporting und Legal Fact Book
 
-## Zweck
-
-Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und Issues-to-SPA-Mapping.
-
 ## Arbeitsmodus
 
 - Findings nach Materiality, Risiko und Deal-Auswirkung verdichten.
@@ -168,9 +157,6 @@ Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Workstream-Findings zusammenfuehren:** Legal, Commercial, Tax, HR, IP, IT, Real Estate, Litigation
@@ -184,3 +170,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Wesentliche Findings nicht adressiert: Anwaltshaftung § 280 BGB
 - Issues-to-SPA-Mapping fehlt: Kaeufer hat keine Entscheidungsgrundlage für SPA-Verhandlung
 - Executive Summary ohne klare Risikoampel: Management kann nicht priorisieren
+

@@ -5,10 +5,6 @@ description: "Rechtsdurchsetzung gegen Auskunfteien: Aufsichtsbeschwerde, Zivilk
 
 # Gerichtliche und aufsichtsrechtliche Wege gegen Auskunfteien
 
-## Arbeitsbereich
-
-Rechtsdurchsetzung gegen Auskunfteien: Aufsichtsbeschwerde, Zivilklage, einstweiliger Rechtsschutz, Art. 82 DSGVO und Beweislast. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -25,23 +21,9 @@ Rechtsdurchsetzung gegen Auskunfteien: Aufsichtsbeschwerde, Zivilklage, einstwei
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Einsatz
-
-Wenn Löschungs- und Auskunftsschreiben nicht reichen.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 77–82; ZPO; InsO; EuGH C-26/22/C-64/22, C-634/21.
-
-## Arbeitsfragen
-
-1. Welcher Antrag: Löschung, Unterlassung, Auskunft, Schadensersatz?
-2. Welche Dringlichkeit?
-3. Welche Aufsicht und welches Gericht?
-
-## Output
-
-Rechtsweg-Memo, Klage-/Eilantragsgerüst und Risikoampel.
 
 ## Red Flags
 
@@ -52,3 +34,4 @@ Rechtsweg-Memo, Klage-/Eilantragsgerüst und Risikoampel.
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

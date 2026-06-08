@@ -5,10 +5,6 @@ description: "Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Beg
 
 # Schriftsatzabschnitt-Entwurf
 
-## Arbeitsbereich
-
-Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begründung, Beweisangebot nach ZPO-Schema. Normen: §§ 253 313 ZPO. Prüfraster: Schluessigskeit, Beweisangebot, Normzitat. Output: Schriftsatz-Abschnitt für Einbau in Klageschrift oder Erwiderung. Abgrenzung: nicht vollständige Klageschrift. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begründung, Bewe
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Entwurf einzelner Abschnitte eines Schriftsatzes – Klageschrift, Klageerwiderung, Replik, Duplik, Berufungsbegründung (§ 520 ZPO), Revisionsbegründung (§ 551 ZPO), Beschwerdeerwiderung oder anderer Schriftsätze – im Urteilsstil nach deutschem Prozessrecht. Der Skill arbeitet mandatsspezifisch auf Basis der mandat.md und verlauf.md des aktiven Mandats und hält den Kanzleistil aus CLAUDE.md ein.
 
 ## Eingaben
 
@@ -61,16 +53,6 @@ Einschlägige Kommentare und Rechtsprechung:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Ausgabeformat
-
-Schriftsatzformat im deutschen Standard:
-1. **Rubrum** (Gericht, Parteien, Az., Datum) – sofern vollständiger Schriftsatz
-2. **Abschnittsüberschrift** (z. B. "I. Sachverhaltsdarstellung", "III. Zum Berufungsangriff")
-3. **Fließtext im Urteilsstil** mit Randnummern (fakultativ)
-4. **Beweisangebote** am Ende jedes bestrittenen Tatsachenblocks
-5. **Lücken-Notizen** in Klammern: `[LÜCKE: Beleg für Fristversäumnis fehlt]`
-6. **Fristenliste** am Ende des Outputs
-
 ## Beispiel
 
 > **III. Zur Berufungsbegründung – Verletzung des § 286 ZPO**
@@ -97,3 +79,4 @@ Problem : BGH VI ZR 73/20, NJW 2021, 1886 Rn. 15 (" neue Angriffsmittel § 531 Z
 Quelle : https://dejure.org/2021,4358
 Aktion : Zeile entfernt
 -->
+

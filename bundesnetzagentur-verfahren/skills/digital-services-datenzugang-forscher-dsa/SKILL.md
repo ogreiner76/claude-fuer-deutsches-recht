@@ -5,10 +5,6 @@ description: "Digital Services / Datenzugang Forscher DSA: anwaltlicher für Ver
 
 # Datenzugang für Forschung nach Art. 40 DSA
 
-## Arbeitsbereich
-
-Digital Services / Datenzugang Forscher DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,11 +53,6 @@ Anwaltliche Begleitung des Datenzugangsverfahrens für unabhängige Forschung ge
 - BNetzA-Praxis vom Anwender zu verifizieren.
 - Zitierweise gemäß `references/zitierweise.md`.
 
-## Ausgabeformat
-- Datenzugangs-Antragsdossier (15–40 Seiten inkl. Anlagen).
-- Schutzkonzept (separat als Anlage).
-- Risikomatrix (Datenschutz, Geheimnisschutz, Sicherheit).
-
 ## Beispiele
 - Universität untersucht Empfehlungsdynamik im Vorfeld einer Wahl. Antrag bezieht sich auf Art. 34 Abs. 1 lit. c DSA (negative Auswirkungen auf Wahlprozesse).
 - Forschungsverbund will Werbedaten zu Minderjährigenwerbung analysieren. Bezug Art. 34 Abs. 1 lit. d DSA.
@@ -98,3 +89,4 @@ Akkreditierung sichergestellt? Bezug zu Art. 34 DSA explizit? Datenschutzfolgena
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

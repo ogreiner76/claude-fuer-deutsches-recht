@@ -5,10 +5,6 @@ description: "Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisie
 
 # /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review
 
-## Arbeitsbereich
-
-Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisieren: neue Norm-Versionen, Rechtsprechungsaenderungen. Normen: technisch/intern. Prüfraster: aeltere Versionen identifizieren, Update-Prioritaet, Rollback-Option. Output: Aktualisierungsprotokoll. Abgrenzung: nicht manuelle Skill-Verwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisieren: neue Norm
 - Tragende Normen verifizieren: BRAO §§ 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG §§ 1 ff., GwG §§ 2, 10, 11, 43 (Kanzlei als Verpflichteter), DSGVO, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch, Datenschutz-Konzept, Geldwäsche-Risikoanalyse, Mandatsvertrag, Honorarvereinbarung, Versicherungspolice, Sozietätsvertrag, beA-Konfiguration — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Community-Skills verbessern sich. Dieser Skill bemerkt, wenn eine neue Version vorliegt, zeigt genau, was sich geändert hat, und wendet Updates ausschließlich mit Ihrer expliziten Genehmigung an. Kein Update wird jemals ohne menschliche Sichtung des Diffs durchgeführt.
-
-**Vertrauenshaltung:** Installierte Skills laufen in Ihrer privilegierten Kanzleiumgebung mit Zugriff auf Mandantendaten. Ein vorgelagertes Repository kann kompromittiert, an einen neuen Eigentümer übertragen oder einfach so geändert werden, dass Sie das nicht möchten. Dieser Skill ist so konzipiert, dass **kein Update jemals ohne Lesen des Diffs und explizite Genehmigung angewendet wird.** Das ist kein Präferenz — es ist das Design.
 
 ## Eingaben
 
@@ -123,18 +113,10 @@ Es gibt keinen "automatischen" Modus. Updates für Code in der Kanzleiumgebung e
 
 Installierte Skill-Dateien durch neue Version ersetzen. `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` mit neuem Commit-SHA aktualisieren. Alte Version vorher sichern (nach `~/.claude/skills/.backups/[skill]-[alter-sha]/`) für Rollback.
 
-## Ausgabeformat
-
-Für jedes Update:
-- Skill-Name und SHA-Übergang
-- Vollständiger Diff aller geänderten Dateien
-- Vertrauensprüfungs-Ergebnisse (Automatische Auslöser, MCP, Werkzeugberechtigungen, Netzwerkaufrufe)
-- skills-qualitätsprüfung-Scan-Ergebnis für neue Version
-- Genehmigungsprompt: "Anwenden? (ja / nein)"
-
 ## Beispiel
 
 ```
+
 ## Update-Prüfung — 3 installierte Skills geprüft
 
 ### nda-prüfung — Update verfügbar

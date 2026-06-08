@@ -5,10 +5,6 @@ description: "Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz
 
 # Spezial: Verhandlung, Vergleich und Eskalation
 
-## Arbeitsbereich
-
-Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -155,3 +151,4 @@ Die Kosten des Eilverfahrens trägt [Partei].
 - `evvollzug-neu-005` – Ordnungsmittelantrag
 - `unterlassungsverlangen` – Unterlassungserklärung
 - `spezial-freedom-schriftsatz-brief-und-memo-bausteine` – Vertragsbausteine
+

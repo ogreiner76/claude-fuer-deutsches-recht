@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit histor
 
 # Presserecht und Meinungsfreiheit historisch
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit historisch. Pressezensur im Deutschen Bund, Reichspressegesetz 1874, Weimarer Presserecht, NS-Schriftleitergesetz 1933 und GG Art. 5. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Das Presserecht in Deutschland ist durch den Wechsel zwischen Zensur und Freihei
 - GG Art. 5: gesetze-im-internet.de; BVerfGE: bverfg.de
 - BVerfGE 7, 198 und 20, 162: bverfg.de
 
-## Output
-
-- Zeitleiste Presserecht: 1819 Karlsbader Beschluesse bis GG 1949
-- Spiegel-Affaere: Tatsachen, Recht und politische Folgen
-- GG Art. 5 und Schranken: BVerfGE-Ueberblick
-
-## Quellenregel
-
-Reichspressegesetz 1874: ALEX/OeNB. NS-Schriftleitergesetz 1933: ALEX/OeNB. GG Art. 5: gesetze-im-internet.de. BVerfGE 7, 198 und 20, 162: bverfg.de.

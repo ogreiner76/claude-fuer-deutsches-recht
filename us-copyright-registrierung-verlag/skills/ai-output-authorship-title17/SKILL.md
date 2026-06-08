@@ -10,12 +10,6 @@ description: "Prueft generative AI outputs nach USCO-Policy: human authorship, s
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Zweck
-
-Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug für Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
-
-Dieser Skill macht aus dem Thema **AI Output und Copyrightability** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
-
 ## Code- und Quellenanker
 
 - USCO AI Report Part 2 (Copyrightability)
@@ -43,12 +37,6 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 1. Human contribution dokumentieren.
 2. AI material abgrenzen.
 3. Registration statement vorbereiten.
-
-## Output
-
-- AI copyrightability memo
-- eCO disclosure draft
-- Evidence of human creativity
 
 ## Tiefencheck für die Akte
 

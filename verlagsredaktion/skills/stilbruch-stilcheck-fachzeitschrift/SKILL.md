@@ -5,10 +5,6 @@ description: "Spuert Stilbrueche im Fachzeitschriften-Manuskript auf: gemischte 
 
 # Stilbruch- und Stilcheck Fachzeitschrift
 
-## Arbeitsbereich
-
-Spuert Stilbrueche im Fachzeitschriften-Manuskript auf: gemischte Stilebenen Ironie Umgangssprache Floskeln Marketingsprache und KI-typische Phrasen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,14 +97,6 @@ Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
 - Marketingsprache als "Stil der Autorin" akzeptiert - haftet dem Heft an.
 - Ironie im Mittelteil eines wissenschaftlichen Aufsatzes uebersehen.
 
-## Querverweise
-
-- `verl-rechtschreibung-amtlich-aktuell` - Rechtschreibung.
-- `verl-grammatik-konsistenzcheck` - Grammatik und Konsistenz.
-- `sprachlektorat-stil-tonalitaet` - allgemeines Sprachlektorat.
-- `verl-aussagensicherheit-pruefung` - inhaltliche Pruefung.
-- `verl-formatvorlage-check-autor-manuskript` - Format.
-
 ## Quellen Stand 06/2026
 
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
@@ -117,3 +105,4 @@ Sie brauchen ihn nach inhaltlichem Lektorat, vor der Endkorrektur. Klaeren Sie:
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
+

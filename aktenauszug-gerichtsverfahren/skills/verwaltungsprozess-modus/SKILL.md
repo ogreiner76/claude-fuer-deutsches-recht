@@ -17,10 +17,6 @@ Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Beru
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für Verwaltungsgerichtsverfahren nach der Verwaltungsgerichtsordnung (VwGO). Verwaltungsverfahren sind durch das obligatorische Vorverfahren und die besondere Stellung der Behörde als Beklagte geprägt.
-
 ## Triage — kläre vor Aktivierung des Modus
 
 1. Liegt ein Widerspruchsbescheid vor? (Klagefrist 1 Monat ab Zustellung — § 74 VwGO!)
@@ -44,9 +40,6 @@ Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für Verwa
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Klagenarten (§ 42 VwGO)
 
 | Klageart | Ziel | Voraussetzung |
@@ -109,3 +102,4 @@ Berufung bedarf der Zulassung durch das Oberverwaltungsgericht. Zulassungsgründ
 - Verwaltungsakt mit vollständigem Inhalt und Datum erfassen
 - Widerspruchsbescheid als eigenes Dokument in der Sachverhaltschronologie
 - Behördliche Aktenzeichen neben Gerichtsaktenzeichen angeben
+

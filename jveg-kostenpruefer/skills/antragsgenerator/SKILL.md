@@ -5,10 +5,6 @@ description: "Antrag auf gerichtliche Kostenfestsetzung nach JVEG erstellen: Ver
 
 # JVEG-Antragsgenerator
 
-## Arbeitsbereich
-
-Antrag auf gerichtliche Kostenfestsetzung nach JVEG erstellen: Verguetungsantrag, Anlagen, Fristen. Normen: §§ 2 4 JVEG. Prüfraster: Antragsfrist, Formerfordernis, Anlagenliste. Output: Kostenfestsetzungsantrag nach JVEG. Abgrenzung: nicht Beschwerde gegen Festsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Antrag auf gerichtliche Kostenfestsetzung nach JVEG erstellen: Verguetungsantrag
 ## Fachkern: JVEG-Antragsgenerator
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Erstelle druckfertige JVEG-Antragsschreiben (Vorschuss, Nachzahlung, Festsetzung, Ergänzung) mit vollständiger Anlagen- und Belegliste.
 
 ## Triage — kläre vor der Erstellung
 
@@ -48,18 +41,8 @@ Erstelle druckfertige JVEG-Antragsschreiben (Vorschuss, Nachzahlung, Festsetzung
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Mandant oder Sachverständiger möchte JVEG-Vergütung gerichtlich festsetzen lassen oder Vorschuss beantragen.
-
-## Arbeitsweise
-1. Antragsart und Anspruchsgrundlage bestimmen.
-2. Alle Positionen mit Normbezug und Belegverweis auflisten.
-3. Frist § 23 JVEG prüfen und im Schreiben dokumentieren.
-4. Anlagenliste mit Belegnummern erstellen.
-5. Druckfertiges Schreiben mit Adresse, Aktenzeichen, Datum und Antragstellung formulieren.
 
 ## Output-Template
 

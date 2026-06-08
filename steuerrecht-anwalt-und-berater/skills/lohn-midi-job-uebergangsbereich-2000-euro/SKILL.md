@@ -80,12 +80,6 @@ Vereinfacht: AN-Anteil wird linear progressiv erhoeht von 0 (an Untergrenze) bis
 - AN-Anteil gemindert als Abzug.
 - Differenz zur regulaeren AN-Beitragslast = staatliche Subvention.
 
-## Output
-
-- Lohnabrechnung mit Midi-Job-Faktor.
-- Korrekte AG-AN-Aufteilung.
-- Dokumentation Wahlrecht voll SV-Pflicht falls genutzt.
-
 ## Strategie und Praxis-Tipps
 
 - Untergrenze des Uebergangsbereichs steigt automatisch mit Mindestlohn-Anhebung (§ 8 Abs. 1a SGB IV; Stand 2025: 556,01 EUR); bei Mindestlohn-Aenderung Untergrenze neu berechnen.
@@ -94,13 +88,6 @@ Vereinfacht: AN-Anteil wird linear progressiv erhoeht von 0 (an Untergrenze) bis
 - Bei Mehrfachbeschaeftigung Summe wesentlich — bei Ueberschreitung 2.000 EUR verlassen alle Stellen den Uebergangsbereich.
 - StBVV: in Lohnpauschale; komplexe Sonderzahlungen Zeithonorar.
 - DATEV-Tipp: DATEV LODAS prueft automatisch Midi-Job-Status; bei Bruttolohn-Aenderung Folgemonat anpassen.
-
-## Querverweise
-
-- `stb-lohn-minijob-538-euro-2024-anpassung` — Minijob.
-- `stb-lohn-mini-midi-grenzen-2026-stand` — aktuelle Grenzen.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-mindestlohn-aktuell-2026-anpassung` — Mindestlohn.
 
 ## Quellen und Updates
 
@@ -112,10 +99,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 3 bestaetigt (Grenzen 2025 eingesetzt), 1 ersetzt (Pruefhinweis ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

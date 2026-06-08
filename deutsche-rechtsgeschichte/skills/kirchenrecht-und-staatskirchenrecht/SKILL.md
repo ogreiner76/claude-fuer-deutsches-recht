@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Re
 
 # Kirchenrecht und Staatskirchenrecht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhaeltnis Staat-Kirche heute. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,7 @@ Das Verhaeltnis von Staat und Kirche in Deutschland ist historisch gewachsen und
 - BVerfGE zum Staatskirchenrecht: bverfg.de
 - Kulturkampf-Gesetze: RGBl. 1871 ff. via ALEX/OeNB
 
-## Output
-
-- Kirchenartikel WRV und GG: Inhalt und Systematik
-- Kulturkampf: Gesetze, Konflikte, Ergebnisse
-- Kirchensteuer und kirchliches Arbeitsrecht: Rechtliche Grundlagen
-
 ## Quellenregel
 
 WRV Art. 136-141: documentArchiv.de. GG Art. 140 und 7: gesetze-im-internet.de. BVerfGE: bverfg.de. Kulturkampf-Gesetze: ALEX/OeNB.
+

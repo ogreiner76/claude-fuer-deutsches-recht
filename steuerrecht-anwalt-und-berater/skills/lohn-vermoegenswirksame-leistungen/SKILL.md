@@ -83,12 +83,6 @@ Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG für den AN a
 - AG benoetigt die Bescheinigung als Beleg.
 - Im Lohnordner archivieren.
 
-## Output
-
-- VL in Lohnabrechnung konfiguriert.
-- Sparzulage-Berechnung für Steuererklaerung.
-- VL-Bescheinigung im Lohnordner.
-
 ## Strategie und Praxis-Tipps
 
 - VL ist KEINE steuerliche Sonderfoerderung des AG-Zuschusses — Zuschuss ist normaler Lohn.
@@ -97,12 +91,6 @@ Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG für den AN a
 - AN mit Einkommen ueber Grenzen: VL wirtschaftlich nur als zusaetzliches Sparen ohne staatliche Zulage.
 - StBVV: in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS VL-Konfiguration mit Anlageinstitut-Schnittstelle.
-
-## Querverweise
-
-- `stb-lohn-betriebliche-altersversorgung-grundlagen` — bAV.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
 
 ## Quellen und Updates
 
@@ -115,10 +103,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (VermBG-Saetze 2025 eingesetzt), 1 ersetzt (Normbestand Pruefhinweis ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

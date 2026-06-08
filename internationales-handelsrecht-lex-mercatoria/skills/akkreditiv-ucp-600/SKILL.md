@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Dokumentenakkreditiv nach UCP 600 (I
 
 # Akkreditiv nach UCP 600
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Dokumentenakkreditiv nach UCP 600 (ICC 2007). Abstraktionsprinzip, konforme Dokumentenvorlage, Prüffrist 5 Bankarbeitstage (Art. 14b), Diskrepanzbehandlung, eUCP 2.0 und häufige Fehler bei Akkreditivdokumenten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,16 +48,6 @@ Das Dokumentenakkreditiv (Letter of Credit, L/C) ist die sicherste Zahlungsform 
 - Dokumentenprüfung: Checkliste UCP 600 Art. 20-28 für jedes Dokumententyp
 - Diskrepanz-Management: Waiver-Anfrage vs. Neuvorlage vs. Ablehnung priorisieren
 - eUCP: nur wenn Akkreditiv ausdrücklich eUCP einbezieht
-
-## Output
-
-- UCP 600 Dokumenten-Prüfcheckliste (Konnossement, Rechnung, Packzettel, Versicherung)
-- Diskrepanz-Behandlungs-Flowchart
-- eUCP 2.0 Einbeziehungsklausel-Muster
-
-## Quellenregel
-
-UCP 600: iccwbo.org. eUCP 2.0: iccwbo.org. ICC Opinions on UCP 600: iccwbo.org. Schrifttum: Byrne, The Comparison of UCP 600 (2007). Unsicherheit bleibt sichtbar.
 
 ## Normen und Rechtsprechung
 

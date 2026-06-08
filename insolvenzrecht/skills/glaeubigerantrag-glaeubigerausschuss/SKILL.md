@@ -5,10 +5,6 @@ description: "Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags au
 
 # Prüfung Gläubigerantrag nach § 14 InsO
 
-## Arbeitsbereich
-
-Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des Insolvenzverfahrens nach § 14 InsO — sowohl aus Gläubigerperspektive (Antragstellung) als auch aus Schuldnerperspektive (Abwehrstrategien). Lädt, wenn ein Mandant als Gläubiger einen Insolvenzantrag stellen will, wenn ein Schuldner einen Gläubigerantrag abwehren muss oder wenn Zulässigkeitsvoraussetzungen des Gläubigerantrags zu prüfen sind. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,14 +20,6 @@ Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung d
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Dieser Skill strukturiert die vollständige Prüfung eines Gläubigerantrags auf
-Eröffnung des Insolvenzverfahrens. Er deckt ab: die Zulässigkeitsvoraussetzungen
-(rechtliches Interesse, Glaubhaftmachung der Forderung und des Eröffnungsgrundes),
-die formellen Anforderungen der Antragsschrift, die Besonderheiten bei
-Behördengläubigern sowie die wesentlichen Abwehrstrategien des Schuldners.
 
 ## Eingaben
 
@@ -198,19 +186,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Ausgabeformat
-
-Strukturiertes Prüfungsmemo mit:
-1. **Zulässigkeitsprüfung** (tabellarische Checkliste: Merkmal — Befund —
- Bewertung)
-2. **Begründetheitsprüfung** (Indizienliste mit Beweismitteln und
- Bewertungsstärke)
-3. **Handlungsempfehlung** (Gläubiger: Antragstellung ratsam/nicht ratsam;
- Schuldner: Abwehrmittel priorisiert nach Erfolgsaussicht)
-4. **Formulierungsvorschlag** für den zentralen Antragssatz
-5. **Quellen** (vollständige Zitierung aller herangezogenen Entscheidungen und
- Kommentarstellen)
-
 ## Beispiel
 
 **Sachverhalt:**
@@ -353,3 +328,4 @@ Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

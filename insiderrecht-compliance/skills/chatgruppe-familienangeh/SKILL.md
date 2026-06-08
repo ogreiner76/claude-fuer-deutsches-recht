@@ -5,10 +5,6 @@ description: "Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Grupp
 
 # Messenger-Chatgruppen und Insiderhandel
 
-## Arbeitsbereich
-
-Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,19 +72,3 @@ Präventionsmaßnahmen.
 - Monitoring: Ungewöhnliche Handelsmuster vor und nach Chatgruppen-Aktivität
 - Social-Media-Policy: Klare Regeln für Diskussion über Finanzinstrumente
 
-## Red-Team-Fragen
-
-- Haben Chat-Teilnehmer Zugang zu Insiderinformationen des Emittenten?
-- Gibt es einen zeitlichen Zusammenhang zwischen Chatgruppen-Aktivität und Transaktionen?
-- Ist die Abgrenzung zwischen erlaubter Marktdiskussion und verbotenem Tipping klar?
-- Werden Mitarbeiter ausreichend über Chatgruppen-Risiken geschult?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Tatbestandsprüfung: Insiderhandel × Marktmanipulation × Sachverhalt
-2. Strafrisiko-Bewertung (nach § 119 WpHG)
-3. Präventions-Policy (Chatgruppen-Nutzungsregeln)
-4. Interne Untersuchungsvorlage bei Verdacht
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

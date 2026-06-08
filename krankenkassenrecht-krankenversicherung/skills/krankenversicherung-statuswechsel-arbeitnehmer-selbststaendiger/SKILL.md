@@ -5,10 +5,6 @@ description: "Krankenversicherungsrechtliche Folgen beim Wechsel des Erwerbsstat
 
 # Statuswechsel: Arbeitnehmer, Selbstständiger, Student, Rentner
 
-## Arbeitsbereich
-
-Krankenversicherungsrechtliche Folgen beim Wechsel des Erwerbsstatus – Fristen, Beitragsanpassungen, Kassenpflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Jeder Wechsel des Erwerbsstatus hat unmittelbare krankenversicherungsrechtliche 
 - [§ 229 SGB V – Versorgungsbezüge](https://www.gesetze-im-internet.de/sgb_5/__229.html)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
 - [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+

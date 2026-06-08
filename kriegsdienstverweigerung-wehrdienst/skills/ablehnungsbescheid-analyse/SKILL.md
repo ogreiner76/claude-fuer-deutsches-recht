@@ -5,10 +5,6 @@ description: "Analysiert Tenor, Begründung, Rechtsbehelfsbelehrung und Fehler e
 
 # Ablehnungsbescheid analysieren
 
-## Arbeitsbereich
-
-Analysiert Tenor, Begründung, Rechtsbehelfsbelehrung und Fehler eines Ablehnungsbescheids. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -43,12 +39,6 @@ Analysiert Tenor, Begründung, Rechtsbehelfsbelehrung und Fehler eines Ablehnung
 
 ## Norm- und Quellenanker
 KDVG §§ 7, 9, 10; VwGO §§ 68 ff.
-
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
 
 ## Rote Linien
 Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
@@ -92,3 +82,4 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 - Antrag § 3 KDVG schriftlich, ausfuehrlich, mit Lebenslauf und Gewissensentscheidung; BVerwG 6 C 4.83 als Massstab.
 - Anerkennungsausschuss BAFzA als Beweisaufnahme: persoenliche Anhoerung Pflicht, keine reine Aktenpruefung.
 - Rechtsschutz nach §§ 14, 15 KDVG ueber VG; aufschiebende Wirkung § 80 Abs. 5 VwGO bei Einberufung.
+

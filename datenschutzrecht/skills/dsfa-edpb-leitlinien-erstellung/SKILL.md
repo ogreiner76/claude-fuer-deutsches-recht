@@ -5,9 +5,6 @@ description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkre
 
 # Dsfa Edpb Leitlinien Erstellung
 
-## Arbeitsbereich
-
-**Dsfa Edpb Leitlinien Erstellung** ordnet den Fall über die tragenden Prüfungslinien: Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA, Datenschutz-Folgenabschaetzung nach Art, DSFA bei internationalen Datentransfers nach Kapitel V DSGVO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkre
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsfa-edpb-leitlinien-9-19-anwendung`
@@ -32,10 +30,6 @@ description: "Dsfa Edpb Leitlinien Erstellung im Datenschutzrecht: prüft konkre
 **Fokus:** Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien für voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis.
 
 ### Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA
-
-## Zweck
-
-Strukturierte Anwendung der neun Kriterien der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur Bestimmung von voraussichtlich hohem Risiko. Ergebnis ist eine Kriterien-Tabelle mit Subsumtion und einer klaren Schwellwertaussage: 0 Kriterien (DSFA entbehrlich), 1 Kriterium (Empfehlung mit Begruendung), 2 oder mehr Kriterien (DSFA zwingend, soweit keine entgegenstehende Whitelist-Position einschlaegig ist).
 
 ## Wann dieses Modul hilft
 
@@ -134,14 +128,6 @@ Unterschrift DSB: ____________________
 - Negativabgrenzung fehlt — wenn Kriterium nicht erfuellt ist, muss auch das begruendet werden.
 - Mehrfachzaehlung (ein Sachverhalt für zwei Kriterien) ohne Begruendung.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-art-35-dsgvo-trigger-und-anwendungsbereich/SKILL.md` — Trigger-Gesamtpruefung
-- `datenschutzrecht/skills/dsfa-bfdi-und-laender-blacklist/SKILL.md` — Listenabgleich
-- `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikoanalyse-Methodik
-- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA-Schnittstelle
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - EDSA-/EDPB-Leitlinien WP 248 rev.01 — neun Kriterien
@@ -157,10 +143,6 @@ Unterschrift DSB: ____________________
 **Fokus:** Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wenn hohes Risiko für Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Prüfraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhältnismäßigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahmenkatalog. Abgrenzung: nicht für regulaere Verarbeitungen ohne hohes Risiko.
 
 ### DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO
-
-## Zweck
-
-Vollständige Datenschutz-Folgenabschätzung nach Art. 35 DSGVO: von der Schwellwertanalyse über die Risikoidentifikation bis zur Maßnahmenplanung und Freigabe. Das Format richtet sich nach dem Hausformat aus der Referenz-DSFA in `CLAUDE.md`; fehlt diese, wird die EDSA-Methodik (Leitlinien 09/2022) genutzt.
 
 ## Eingaben
 
@@ -267,21 +249,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Ausgabeformat
-
-DSFA im Hausformat (aus Referenz-DSFA in `CLAUDE.md`) oder, falls nicht verfügbar, folgendes Standardformat:
-
-1. Deckblatt (Vorhaben, Datum, Verantwortlicher, DSB, Version)
-2. Zusammenfassung (Executive Summary: Risikostufe Gesamt, Ergebnis, Freigabe-Status)
-3. Beschreibung Verarbeitungstätigkeit
-4. Schwellwertanalyse (Tabelle + Begründung)
-5. Notwendigkeit und Verhältnismäßigkeit
-6. Risikoidentifikation und -bewertung (Risikotabelle)
-7. Maßnahmen (Tabelle: Risiko | Maßnahme | Verantwortlich | Frist | Restrisiko)
-8. DSB-Stellungnahme (Platzhalter für Unterschrift)
-9. Freigabe-Dokumentation
-10. Überprüfungsplan (wann wiederholen)
-
 ## Beispiel (Schwellwertanalyse)
 
 **Vorhaben:** Einführung eines KI-gestützten Bewerberscreenings mit automatischer Vorauswahl.
@@ -371,10 +338,6 @@ Datum: [DATUM]
 **Fokus:** DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Pruefung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion für Drittlandbezug.
 
 ### DSFA bei internationalen Datentransfers
-
-## Zweck
-
-Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. Wenn die Verarbeitung einen Drittlandtransfer beinhaltet, ist eine Transfer Impact Assessment (TIA) erforderlich, die in die DSFA integriert oder als deren Bestandteil gefuehrt wird. Ergebnis ist eine erweiterte DSFA-Sektion mit Transferregister, Rechtsgrundlage des Transfers, Risikobewertung des Drittlandes und ergaenzenden Massnahmen.
 
 ## Wann dieses Modul hilft
 
@@ -484,15 +447,6 @@ Unterschrift DSB: ____________________
 - Ausnahme Art. 49 wird als Daueroption verwendet, obwohl sie nur für Einzelfaelle gedacht ist.
 - Re-Pruefung nach Schrems-Folgeurteil unterbleibt.
 - DPF-Zertifizierung des Anbieters wird nicht jaehrlich nachgeprueft.
-
-## Querverweise
-
-- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Allgemeine Pruefung
-- `datenschutzrecht/skills/standardvertragsklauseln-scc-paket/SKILL.md` — SCC-Pakete
-- `datenschutzrecht/skills/us-transfer-tia-dokumentation/SKILL.md` — US-spezifische TIA
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Integration in DSFA
-- `datenschutzrecht/skills/spezial-transfer-livequellen-und-rechtsprechungscheck/SKILL.md` — Livequellen
-- `references/zitierweise.md` — Zitierweise
 
 ## Quellen Stand 06/2026
 
@@ -611,14 +565,6 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 - KI-Anbieter im Drittland: zusaetzliche Transferpruefung uebersehen (Skill dsfa-für-internationale-datentransfers).
 - Generative KI: Art. 50 KI-VO Transparenzpflichten uebersehen.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage
-- `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Vorab-Konsultation
-- `datenschutzrecht/skills/dsfa-für-internationale-datentransfers/SKILL.md` — Drittlandtransfer
-- `datenschutzrecht/skills/ki-verordnung-compliance/SKILL.md` — KI-VO Compliance
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35, 36, 22 DSGVO
@@ -633,10 +579,6 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 **Fokus:** Vergleich der DSFA-Methoden: CNIL PIA Software (Frankreich) gegenueber dem BSI Standard-Datenschutzmodell (SDM) und dem BSFD-Ansatz. Output: Methodenwahl mit Begruendung, Anwendungshinweisen und Werkzeugauswahl.
 
 ### DSFA-Methodik CNIL PIA versus SDM/BSI
-
-## Zweck
-
-Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNIL PIA Software, Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz und der BSI-Bausteine zum Standard-Datenschutz — und Auswahl der jeweils passenden Methodik für die konkrete Mandantenkonstellation. Ergebnis ist eine begruendete Methodenwahl mit Werkzeughinweis.
 
 ## Wann dieses Modul hilft
 
@@ -736,14 +678,6 @@ Unterschrift DSB: ____________________
 - Methodenwahl wird im Projektverlauf gewechselt — kein Quervergleich der Risikobewertung mehr moeglich.
 - Aufsichtshinweise zur Methodenfreiheit werden als Beliebigkeit verstanden — die Methode muss zur Verarbeitung passen.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage DE
-- `datenschutzrecht/skills/dpia-en-template-full-version/SKILL.md` — Englische Vollvorlage
-- `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikoanalyse
-- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 7 DSGVO
@@ -753,3 +687,4 @@ Unterschrift DSB: ____________________
 - BSI: bsi.bund.de — Grundschutz-Fachüberblick, Baustein zum Datenschutz
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

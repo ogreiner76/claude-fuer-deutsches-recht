@@ -5,10 +5,6 @@ description: "Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwor
 
 # Muster-Erstantwort
 
-## Arbeitsbereich
-
-Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollständiges Template-Set für Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,9 +34,6 @@ Alle Platzhalter in eckigen Klammern `[...]` werden durch den Skill `telefon-kon
 - § 43 BRAO — Sorgfaltspflicht: standardisierte Qualitaetssicherung durch Templates
 - § 43a Abs. 2 BRAO — Verschwiegenheit: Template darf keine vertraulichen Informationen enthalten
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Platzhalter-Verzeichnis
 
 | Platzhalter | Beschreibung | Quelle |
@@ -184,3 +177,4 @@ Datenschutzhinweis gemäß Art. 13 DSGVO auf Anfrage erhältlich unter [KANZLEI-
 - `erstantwort-generator` — Hauptskill der die Variante automatisch wählt
 - `einwilligung-hinweis-datenschutz` — Langform auf Anfrage
 - `mandatsverhaeltnis-hinweis` — Disclaimer (Langform bei Bedarf)
+

@@ -5,10 +5,6 @@ description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdr
 
 # NKR-Pruefumfang — was prueft der NKR nicht
 
-## Arbeitsbereich
-
-Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Standardbausteine für die Stellungnahme zur Kompetenzabgrenzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,14 +90,6 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 - "Der NKR hat die Wirtschaftlichkeit bestaetigt" — falsch, das ist BRH
 - "NKR-Beteiligung erfolgt nur bei wirtschaftspolitischen Vorhaben" — falsch, generelle Befassungspflicht bei Erfuellungsaufwand
 
-## Querverweise
-
-- `nkr-aufgabe-und-kompetenz-nkrg`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts`
-- `nkr-eu-ebene-und-better-regulation`
-- `legistik-werkstatt/verfassungsmaessigkeit-quercheck`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 1, 4, 6
@@ -109,3 +97,4 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 - BHO §§ 7, 88, 114
 - Art. 93, 114 GG
 - Live verifizieren ueber Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

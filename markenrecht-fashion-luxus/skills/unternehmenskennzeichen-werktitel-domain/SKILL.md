@@ -5,10 +5,6 @@ description: "Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werkti
 
 # Unternehmenskennzeichen, Werktitel und Domains
 
-## Arbeitsbereich
-
-Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werktitel, Domains und Social-Media-Handles markenrechtlich einordnen: Entstehung ohne Register, Priorität, Reichweite, Verwechslungsgefahr und Durchsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werktitel, Domains u
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Prüfe Kennzeichenrechte außerhalb der eingetragenen Marke und ihre Kollision mit Marken, Domains, App-Namen, Hashtags und Social-Media-Handles.
 
 ## Intake
 
@@ -41,12 +33,7 @@ Prüfe Kennzeichenrechte außerhalb der eingetragenen Marke und ihre Kollision m
 4. **Verwechslungsgefahr:** Zeichen, Branche, Waren/Dienstleistungen, Gebiet, Aufmerksamkeit.
 5. **Durchsetzung:** Unterlassung, Domainübertragung meist nicht automatisch, Dispute-Eintrag, Plattformprozesse, Vergleich.
 
-## Output
-
-- Kennzeichenkarte mit Prioritäten.
-- Domain-/Handle-Strategie.
-- Abmahn- oder Verteidigungsentwurf.
-
 ## Quellen
 
 MarkenG live prüfen; Domain- und Plattformregeln konkret nach Registry/Plattform nachziehen.
+

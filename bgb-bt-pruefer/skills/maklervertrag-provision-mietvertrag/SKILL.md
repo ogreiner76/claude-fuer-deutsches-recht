@@ -5,10 +5,6 @@ description: "Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, D
 
 # Maklervertrag und Provision §§ 652 ff. BGB
 
-## Arbeitsbereich
-
-Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler und Bestellerprinzip. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Maklervertrag §§ 652 ff. BGB: Provisionsanspruch, Kausalität, Doppelmakler un
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Zweck
-
-Maklerrechtliche Ansprüche prüfen: Entstehung des Provisionsanspruchs nach § 652 BGB, Kausalität zwischen Maklertätigkeit und Hauptvertragsschluss, Verwirkung und Bestellerprinzip bei Wohnraumvermittlung.
 
 ## Normanker
 
@@ -60,25 +52,13 @@ Maklerrechtliche Ansprüche prüfen: Entstehung des Provisionsanspruchs nach § 
 - Doppelmaklertätigkeit ohne Einverständnis beider Parteien führt nach § 654 BGB zur Verwirkung der Provision.
 - Bei Wohnraumanmietung darf Makler vom Mieter keine Provision verlangen (§ 2 WoVermG); Rückforderungsrecht.
 - Alleinauftrag versus einfacher Maklervertrag: Unterschied für Haftung bei Nichtabschluss.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Provisionsanspruch-Analyse (Entstehungsvoraussetzungen, Kausalität)
-- Verwirkungs-Risikoprüfung
-- Bestellerprinzip-Compliance-Check bei Wohnraum
-- Handlungsempfehlung für Makler oder Auftraggeber
-
-## Qualitätsregeln
-
-- Kausalität zwischen Maklertätigkeit und Hauptvertragsschluss immer sachverhaltsnah prüfen.
-- WoVermG bei Wohnraumvermittlung immer neben BGB prüfen.
-- Doppelmakler-Konstellation aktiv auf Verwirkungsrisiko untersuchen.
 
 ## Anschluss-Skills
 
@@ -92,10 +72,4 @@ Maklerrechtliche Ansprüche prüfen: Entstehung des Provisionsanspruchs nach § 
 - https://www.gesetze-im-internet.de/bgb/__652.html
 - https://www.gesetze-im-internet.de/bgb/__654.html
 - https://www.gesetze-im-internet.de/wovermg/
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

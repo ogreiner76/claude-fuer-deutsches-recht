@@ -5,12 +5,6 @@ description: "Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle
 
 # Konformitätsbewertung — Art. 43 bis 49 KI-VO
 
-## Zweck
-
-Vor dem Inverkehrbringen oder der Inbetriebnahme eines Hochrisiko-KI-Systems muss eine Konformitätsbewertung durchgeführt werden. Dieser Skill liefert den Entscheidungsbaum: Wer bewertet? Welches Verfahren? Was ist danach zu tun?
-
-Wenn das Ergebnis anschließend druckreif als Bescheinigung, EU-Konformitätserklärung, Evidence Index und Lückenliste ausgegeben werden soll, an `output-konformitaetsbescheinigung-evidence-pack` übergeben.
-
 ## Entscheidungsbaum — Selbstbewertung oder benannte Stelle?
 
 ### Schritt 1 — Anhang-I-Systeme oder Anhang-III-Systeme?
@@ -94,9 +88,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -123,3 +114,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

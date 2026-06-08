@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. V
 
 # Fallvergleich epochenuebergreifend
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. Verfahren und Ergebnis desselben Sachproblems in verschiedenen Epochen (z. B. Eigentumsschutz von Sachsenspiegel bis GG) strukturiert vergleichen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Der epochenuebergreifende Fallvergleich ist eine Kerntechnik der Rechtsgeschicht
 - GG Art. 14, BVerfGE: bverfg.de (Grundrechts-Leitsaetze)
 - DDR-ZGB: GBl. I DDR 1975, 465
 
-## Output
-
-- Vergleichstabelle Eigentumsschutz durch die Epochen
-- Argumente für und gegen Kontinuitaet
-- Methodennotiz: Wie Epochenvergleich ohne Anachronismus gelingt
-
-## Quellenregel
-
-Sachsenspiegel: MGH oder historische Faksimile-Edition. ALR und DDR-ZGB: ALEX/ÖNB. BGB: gesetze-im-internet.de. GG und BVerfGE: bverfg.de.

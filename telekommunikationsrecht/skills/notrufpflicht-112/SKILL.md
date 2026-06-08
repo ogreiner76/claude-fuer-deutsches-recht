@@ -5,10 +5,6 @@ description: "Notruf 112/110, Standortdaten, Ausfallsicherheit, VoIP, Alarmierun
 
 # Notrufpflicht und Ausfallsicherheit
 
-## Arbeitsbereich
-
-Notruf 112/110, Standortdaten, Ausfallsicherheit, VoIP, Alarmierung, Unternehmensanschlüsse und Haftungsrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ Notruf 112/110, Standortdaten, Ausfallsicherheit, VoIP, Alarmierung, Unternehmen
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Anbieter und Geschäftskunden, wenn Telefonie, Cloud-PBX oder IoT-Dienst Notruffunktionen beeinflusst.
-
 ## Norm- und Quellenanker
 
 TKG Notrufvorschriften live prüfen; Sicherheitsrecht; DSGVO Standortdaten; BSI/NIS2-Schnittstelle.
-
-## Arbeitsfragen
-
-1. Welche Dienste ermöglichen Notrufe?
-2. Welche Standort-/Routingdaten werden übermittelt?
-3. Welche Ausfall- und Backupstrategie existiert?
-4. Welche Kundeninformationen sind nötig?
-
-## Output
-
-Notruf-Compliance-Check, Risikoampel, Vertragsklauseln und Incident-Plan.
 
 ## Red Flags
 
@@ -48,6 +29,3 @@ Notruf-Compliance-Check, Risikoampel, Vertragsklauseln und Incident-Plan.
 - tk-cloud-telefonie-voip-compliance
 - tk-notfall-und-katastrophenkommunikation
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

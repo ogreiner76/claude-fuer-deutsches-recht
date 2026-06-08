@@ -5,9 +5,6 @@ description: "Reihenfolge Starren System Telos Interessen im Plugin Methodenlehr
 
 # Reihenfolge Starren System Telos Interessen
 
-## Arbeitsbereich
-
-**Reihenfolge Starren System Telos Interessen** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill definiert die methodisch optimale Reihenfolge, Dieses Skill behandelt die methodisch korrekte Handhabung, Dieses Skill systematisiert die wichtigsten Zahlenschwellen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Reihenfolge Starren System Telos Interessen im Plugin Methodenlehr
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine`
@@ -82,10 +80,6 @@ Die Überzeugungskraft eines juristischen Dokuments hängt maßgeblich von seine
 - Sachverhalt und Rechtsausführungen werden vermischt, was die Klarheit der Argumentation mindert.
 - Das interne Memo enthält keine Executive Summary, sodass Entscheidungsträger die Kernbotschaft suchen müssen.
 - Beweisantritte fehlen oder sind zu allgemein formuliert, um prozessual wirksam zu sein.
-
-## Output
-
-Das Skill liefert für jede Textgattung ein Baustein-Template mit optimaler Reihenfolge und kurzen Ausfüllhinweisen. Ergänzt wird eine Checkliste für die Qualitätsprüfung vor dem Versand. Alle Templates sind direkt für die anwaltliche Kanzleipraxis nutzbar.
 
 ## Quellen
 
@@ -174,10 +168,6 @@ Digitale Gerichtsportale, das besondere elektronische Anwaltspostfach (beA) und 
 - Das beA-Postfach wird nicht regelmäßig geleert, sodass Zustellungen unbemerkt bleiben und Fristen versäumt werden.
 - Formularpflichtfelder werden unvollständig ausgefüllt, was zur Zurückweisung ohne Sachprüfung führt.
 
-## Output
-
-Das Skill liefert eine Einreichungs-Checkliste für die gängigen elektronischen Wege (beA, Online-Mahnportal, Unternehmensregister): Anforderungen, Schritt-für-Schritt-Anleitung, Fehlerquellen und Dokumentationspflichten. Ergänzt wird eine Notfallprozedur für technische Ausfälle nach § 130a Abs. 6 ZPO.
-
 ## Quellen
 
 - [§ 130a ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__130a.html)
@@ -265,10 +255,6 @@ Im Zivilrecht entscheiden Zahlen über Zuständigkeiten, Zulässigkeiten und mat
 - Der Basiszinssatz wird nicht aktuell abgerufen, was zu falschen Zinssätzen nach § 288 Abs. 2 BGB führt.
 - Die Schriftformgrenze bei der Bürgschaft wird bei niedrigen Beträgen als bedeutungslos abgetan.
 
-## Output
-
-Das Skill liefert eine vollständige Berechnungsübersicht: Hauptforderung, Nebenforderungen, Zinssätze und Zinszeiträume, Gesamtstreitwert und Gerichtszuständigkeit. Ergänzt wird eine Tabelle der wichtigsten Betragsschwellen im BGB und ZPO mit Norm und Anwendungsbereich.
-
 ## Quellen
 
 - [§ 288 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__288.html)
@@ -355,10 +341,6 @@ Wenn mehr als zwei Parteien an einem Rechtsstreit beteiligt sind, steigen die Ko
 - Der Normzweck wird aus der Perspektive des typischen Zweipersonenverhältnisses bestimmt und nicht auf das Mehrparteien-Verhältnis angepasst.
 - Zielkonflikte zwischen Normzweck und Parteiinteressen werden durch ergebnisorientierte Argumentation überdeckt.
 - Die Abwägung wird nicht begründet, sondern nur als Ergebnis behauptet.
-
-## Output
-
-Das Skill liefert eine strukturierte Mehrparteien-Teleologie: Parteiübersicht mit Interessenmatrix, Normzweckanalyse, Abwägungsprotokoll und begründetes Auslegungsergebnis. Das Ergebnis ist direkt für Gutachten, Schriftsätze und Beratungsgespräche im Mehrparteienkontext nutzbar.
 
 ## Quellen
 
@@ -448,10 +430,6 @@ Das Unionsrecht greift zunehmend in die nationalen Beweislastregeln ein. EU-Rich
 - Die Beweislasterleichterung nach § 477 BGB wird nicht auf den richtigen Zeitraum (erste zwölf Monate nach Kauf bei Verbrauchern) angewendet.
 - Das Gericht wird nicht explizit auf seine Pflicht zur richtlinienkonformen Auslegung hingewiesen.
 
-## Output
-
-Das Skill liefert eine unionsrechtliche Beweislastanalyse: Richtlinienvorschrift, nationaler Vergleichsstand, Abweichungsanalyse, richtlinienkonforme Auslegungslösung und prozessuale Empfehlung. Geeignet für Klagebegründungen, Erwiderungen und Gutachten mit EU-rechtlichem Bezug.
-
 ## Quellen
 
 - [§ 477 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__477.html)
@@ -483,3 +461,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

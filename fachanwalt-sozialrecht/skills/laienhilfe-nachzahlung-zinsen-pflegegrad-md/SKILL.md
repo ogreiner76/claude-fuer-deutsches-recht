@@ -5,9 +5,6 @@ description: "Laienhilfe Nachzahlung Zinsen Pflegegrad MD im Plugin Fachanwalt S
 
 # Laienhilfe Nachzahlung Zinsen Pflegegrad MD
 
-## Arbeitsbereich
-
-**Laienhilfe Nachzahlung Zinsen Pflegegrad MD** ordnet den Fall über die tragenden Prüfungslinien: Laienverstaendlicher Sozialrechts-Skill zu Nachzahlung, Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md, Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Laienhilfe Nachzahlung Zinsen Pflegegrad MD im Plugin Fachanwalt S
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `laienhilfe-nachzahlung-zinsen`
@@ -52,14 +50,6 @@ Dieser Skill erklaert **Nachzahlung Zinsen** so, dass auch Menschen ohne juristi
 4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
 5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
 
-## Arbeitsweise
-
-- Schwierige Woerter erst in einfache Sprache uebersetzen.
-- Fristen immer sichtbar ausgeben.
-- Zwischen sicher, unklar und zu beweisen unterscheiden.
-- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
-- Keine falschen Versprechen machen.
-
 ## Ausgabe
 
 **Kurz erklaert**
@@ -87,14 +77,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `laienhilfe-pflegegrad-md-begutachtung`
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Md Begutachtung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
@@ -120,14 +102,6 @@ Dieser Skill erklaert **Pflegegrad Md Begutachtung** so, dass auch Menschen ohne
 3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?
 4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
 5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
-
-## Arbeitsweise
-
-- Schwierige Woerter erst in einfache Sprache uebersetzen.
-- Fristen immer sichtbar ausgeben.
-- Zwischen sicher, unklar und zu beweisen unterscheiden.
-- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
-- Keine falschen Versprechen machen.
 
 ## Ausgabe
 
@@ -172,14 +146,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Erst-/Zweitgutachten:** Klage nach Widerspruch zum SG; § 109 SGG Wahl-Sachverstaendiger im Klageverfahren.
 - **Praxis-Tipp:** Bei Begutachtungstermin Bezugsperson dabei haben; Krankheitsbild nicht "schoenreden"; Diagnosen nennen und konkrete Beispiele aus dem Alltag.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `laienhilfe-pflegegrad-widerspruch-module`
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Pflegegrad Widerspruch Module. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
@@ -205,14 +171,6 @@ Dieser Skill erklaert **Pflegegrad Widerspruch Module** so, dass auch Menschen o
 3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?
 4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
 5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
-
-## Arbeitsweise
-
-- Schwierige Woerter erst in einfache Sprache uebersetzen.
-- Fristen immer sichtbar ausgeben.
-- Zwischen sicher, unklar und zu beweisen unterscheiden.
-- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
-- Keine falschen Versprechen machen.
 
 ## Ausgabe
 
@@ -260,14 +218,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Klage SG** nach erfolglosem Widerspruch (1 Monat § 87 SGG); **§ 109 SGG** Wahl-Sachverstaendiger.
 - **Praxis-Tipp:** Bei demenzkranken Personen Module 2, 3, 5, 6 detailliert dokumentieren; bei orthopaedischen / neurologischen Erkrankungen Module 1 und 4; objektivierende Hilfsmittel zur Beweisstaerkung (Bewegungsmessungen, Verbrauchsdokumentation Inkontinenz).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 4. `laienhilfe-reha-antrag`
 
 **Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
@@ -293,14 +243,6 @@ Dieser Skill erklaert **Reha Antrag** so, dass auch Menschen ohne juristische Vo
 3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?
 4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
 5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
-
-## Arbeitsweise
-
-- Schwierige Woerter erst in einfache Sprache uebersetzen.
-- Fristen immer sichtbar ausgeben.
-- Zwischen sicher, unklar und zu beweisen unterscheiden.
-- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
-- Keine falschen Versprechen machen.
 
 ## Ausgabe
 
@@ -329,10 +271,3 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

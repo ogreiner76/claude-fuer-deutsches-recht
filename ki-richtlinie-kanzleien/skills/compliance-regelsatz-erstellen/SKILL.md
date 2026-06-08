@@ -25,16 +25,6 @@ Ein klarer, prägnanter Compliance-Regelsatz ist das operative Herzstück jeder 
 
 Der Regelsatz operationalisiert die zentralen Rechtspflichten: § 43a Abs. 2 BRAO (Verschwiegenheit), § 43e BRAO (IT-Dienstleister), Art. 5 DSGVO (Grundsätze der Verarbeitung: Zweckbindung, Datenminimierung), Art. 28 DSGVO (Auftragsverarbeitung), § 2 Abs. 2 UrhG (Urheberrecht am KI-Output), Art. 50 Abs. 4 KI-VO (Kennzeichnung), § 203 StGB (Geheimnisverrat), Art. 22 DSGVO (Verbot automatisierter Entscheidungen).
 
-## Vorgehen
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-1. **Zielgruppe definieren**: Unterschiedliche Regeln für anwaltliche und nicht-anwaltliche Mitarbeitende oder einheitlicher Regelsatz für alle?
-2. **Zehn Gebote formulieren**: Aus den rechtlichen Anforderungen konkrete Handlungsregeln ableiten.
-3. **Ausnahmen definieren**: Wann sind Ausnahmen zulässig (z.B. Upload mit AVV)?
-4. **Kommunikation sicherstellen**: Regelsatz in Schulungen erklären, schriftlich quittieren lassen.
-5. **Regelsatz plakativ aufbereiten**: Auf einer DIN-A4-Seite oder als Poster für Kanzleiräume aufbereiten.
-
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -125,3 +115,4 @@ VERBINDLICH FUER ALLE MITARBEITERINNEN UND MITARBEITER
 
 Verabschiedet von: [GESCHAEFTSFUEHRUNG], [DATUM]
 ```
+

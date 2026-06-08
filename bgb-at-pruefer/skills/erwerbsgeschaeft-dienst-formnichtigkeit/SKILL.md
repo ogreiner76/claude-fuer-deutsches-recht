@@ -5,10 +5,6 @@ description: "Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäfte
 
 # Ermächtigung zu Erwerbsgeschäften — §§ 112 und 113 BGB
 
-## Arbeitsbereich
-
-Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäften nach §§ 112 und 113 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts oder zur Dienstleistung/Arbeit, Umfang der Geschäftsfähigkeit und gerichtliche Genehmigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ dem Schutz des Minderjährigen vor unüberschaubaren Verpflichtungen durch die E
 - Reichweite der Ermächtigung: Welche Geschäfte sind damit erfasst?
 - Ausnahmen: Grundstückserwerb und ähnlich weitreichende Verpflichtungen?
 - Widerruf der Ermächtigung: Wirkung für laufende Verträge?
+

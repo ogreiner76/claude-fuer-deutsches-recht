@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre
 
 # Qualitätskontrolle: Pre-Shipment Inspection
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Pre-Shipment Inspection (PSI) ist die Warenprüfung vor Verschiffung durch unabh
 - Akkreditiv: PSI-Zertifikat-Format mit Bank vorab abstimmen (UCP 600 Art. 26)
 - Kosten-Risikoanalyse: PSI-Kosten vs. Mangelrisiko nach Transaktionsgröße
 
-## Output
-
-- PSI-Klausel-Muster (Vertragsbaustein)
-- PSI vs. CISG Haftungsmatrix
-- Inspektionszertifikat-Checkliste für Akkreditivzwecke
-
-## Quellenregel
-
-CISG Art. 35/38: uncitral.un.org. WTO PSI Agreement: wto.org. UCP 600 Art. 26: iccwbo.org. ISO 2859: iso.org. Unsicherheit bleibt sichtbar.

@@ -5,10 +5,6 @@ description: "Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungser
 
 # Sanierungsgewinn — Massehaftungsbefreiung und Bilanzbuchung
 
-## Arbeitsbereich
-
-Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stille Reserven, latente Steuern, ggf. Paragraph 5 Absatz 2a EStG-Wirkung. Mustertexte Buchungsbeleg und Pruefvermerk für die Bilanz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -155,20 +151,6 @@ Buchung erfolgt auf Basis Plan, WP-Gutachten und StB-Pruefung. Aktenstand:
 5. IFRS-Bilanz parallel uebersehen.
 6. Bei Plan-Cramdown auf Anteilseigner (Paragraph 225a Absatz 3 InsO): Kapitalherabsetzung/-erhoehung bilanziell nicht abgebildet.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-verzicht-bilanz-im-plan` — Verzichtsmechanik.
-- `insol-sanierungsgewinn-debt-equity-swap-im-plan` — DES.
-- `insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan` — Rangruecktritt.
-- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftung.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — Bilanzsteuerrecht.
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt.
-
 ## Quellen Stand 06/2026
 
 - Paragraphen 246, 252, 266, 272 HGB.
@@ -177,3 +159,4 @@ In anderen Plugins:
 - Paragraph 7b GewStG.
 - Paragraphen 55, 60, 225a InsO.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

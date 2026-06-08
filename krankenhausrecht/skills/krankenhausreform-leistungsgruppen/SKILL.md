@@ -5,10 +5,6 @@ description: "Routing-Skill für die Krankenhausreform 2024/2025 (KHVVG): ordnet
 
 # Krankenhausreform Leistungsgruppen Routing
 
-## Arbeitsbereich
-
-Routing-Skill für die Krankenhausreform 2024/2025 (KHVVG): ordnet Mandat in Leistungsgruppen-, Vorhaltefinanzierungs-, Plan- und Strukturfragen, klaert Uebergangsregime, identifiziert das einschlaegige Vertiefungs-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,17 +72,10 @@ Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz
 - Strukturqualitaet ohne G-BA-Beschluesse pruefen; G-BA ist Quelle.
 - Frist zur Anhörung verpassen — danach gilt Bescheid als wirksam zugestellt.
 
-## Querverweise
-- `leistungsgruppen-und-qualitaetskriterien-reformlogik`
-- `vorhalteverguetung-leistungsgruppen-krankenhausreform`
-- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
-- `mindestmengen-g-ba-qualitaetssicherung`
-- `notfallstufen-und-sicherstellungszuschlaege`
-- `sektorenuebergreifende-versorgung-level-ii-klinik`
-
 ## Quellen Stand 06/2026
 - KHVVG (12.12.2024); KHG, KHEntgG, SGB V in der seit 01/2025 geltenden Fassung.
 - BMG-Leistungsgruppen-Liste (Live-Check: bundesgesundheitsministerium.de).
 - G-BA-Beschluesse zu Mindestmengen und Strukturqualitaet (Live-Check: g-ba.de).
 - Landeskrankenhausplaene der Länder (Live-Check Landesministerium).
 - BSG, staend. Rspr. zum Versorgungsauftrag (§ 109 SGB V).
+

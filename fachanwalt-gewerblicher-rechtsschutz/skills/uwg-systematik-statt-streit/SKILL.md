@@ -5,9 +5,6 @@ description: "UWG Systematik Statt Streit im Plugin Fachanwalt Gewerblicher Rech
 
 # UWG Systematik Statt Streit
 
-## Arbeitsbereich
-
-**UWG Systematik Statt Streit** ordnet den Fall über die tragenden Prüfungslinien: UWG-Systematik, Vergleich statt Streit, Streit im gewerblichen Rechtsschutz durch Vergleich lösen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "UWG Systematik Statt Streit im Plugin Fachanwalt Gewerblicher Rech
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `uwg-systematik-und-anwendung`
@@ -30,9 +28,6 @@ description: "UWG Systematik Statt Streit im Plugin Fachanwalt Gewerblicher Rech
 **Fokus:** UWG-Systematik: § 3 (unlautere geschäftliche Handlungen), § 5 (Irreführung), § 5a (Vorenthalten wesentlicher Informationen), §§ 4 ff. (Mitbewerber), §§ 8 ff. (Anspruchsberechtigung, Verband, Mitbewerber). Aktive Mitbewerber, eingetragene Verbände. Beispielfälle und Schriftsatzbausteine.
 
 ### UWG: Systematik und Anwendung
-
-## Aufgabe
-Dieser Skill liefert die systematische Übersicht des UWG und praxisnahe Werkzeuge: Tatbestandsaufbau, Anspruchsberechtigung, Beispielfälle und Schriftsatzbausteine.
 
 ## Rechtsrahmen
 
@@ -145,13 +140,6 @@ III. Dringlichkeit: § 12 Abs. 1 UWG; Kenntniszeitpunkt: [Datum].
 ## Plugin-Kontext
 Anschluss-Skills: `gr-abmahnung-workflow`, `gr-mitbewerberabmahnung-aktivlegitimation-spezial`, `influencer-marketing-uwg-spezial`, `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung`.
 
-## Quellenregel
-- UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/uwg_2004/).
-- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
-- BfJ-Liste qualifizierter Verbände: [bundesjustizamt.de](https://www.bundesjustizamt.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
 - Keine Einzelfallbewertung ohne vollständige Sachverhaltskenntnis.
@@ -161,9 +149,6 @@ Anschluss-Skills: `gr-abmahnung-workflow`, `gr-mitbewerberabmahnung-aktivlegitim
 **Fokus:** Vergleich statt Streit: Strategische Vergleichsführung im gewerblichen Rechtsschutz. Wann Vergleich sinnvoll, Vergleichsoptionen (Abgrenzung, Kreuzlizenz, Einmalzahlung), Vergleichsprotokoll, RVG-Einigungsgebühr, Vergleichsklauseln und Risiken.
 
 ### Vergleich statt Streit: Strategie im gewerblichen Rechtsschutz
-
-## Aufgabe
-Dieser Skill entwickelt Vergleichsstrategien für Schutzrechts- und Wettbewerbsrechtsstreitigkeiten: Entscheidungsrahmen, Optionen, Verhandlungsführung, Vertragsbausteine und Kostenaspekte.
 
 ## Wann Vergleich sinnvoll?
 
@@ -286,13 +271,6 @@ von EUR [Betrag] für jeden Fall der Zuwiderhandlung (Hamburger Brauch).
 - `spezial-gebrmg-verhandlung-vergleich-und-eskalation` – GebrMG-Vergleiche.
 - `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist` – Abschlussschreiben nach EV.
 
-## Quellenregel
-- BGB (Vergleich § 779), ZPO: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- RVG: [gesetze-im-internet.de/rvg](https://www.gesetze-im-internet.de/rvg/).
-- GWB, Art. 101 AEUV: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwb/), [eur-lex.europa.eu](https://eur-lex.europa.eu).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Wertermittlung von Schutzrechten.
 - Kein Ersatz für vollständige Mandantenberatung und Vertragsgestaltung durch Anwalt.
@@ -394,9 +372,6 @@ Schritt 6: Mandantenfreigabe vor Unterzeichnung
 - Widerrufsvorbehalt mit klarer Frist.
 - Kostenregelung: ueblicherweise Kostenaufhebung, ggf. Quote.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template Vergleichsvertrag
 
 **Adressat:** beide Parteien — Tonfall sachlich-vertragstechnisch
@@ -490,3 +465,4 @@ Maßnahme: Zitat aus Abschnitt "Zentrale Rechtsprechung" gelöscht.
 Hinweis: Das Anti-Hammer-Klausel-Konzept als solches ist verbreitet und bleibt
 im Vergleichsentwurf-Template erhalten (ohne Einzelzitat).
 -->
+

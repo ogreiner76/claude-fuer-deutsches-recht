@@ -109,12 +109,6 @@ Stichtag: [Datum]
 - 4-Augen-Prinzip: Sachbearbeiter schreibt, Berufstraeger gibt frei.
 - Versand zusammen mit der BWA als PDF im verschluesselten Mandantenportal.
 
-## Output
-
-- Erlaeuterungstext 1-2 Seiten DIN A4 als PDF.
-- Beigeheftet zur BWA.
-- Mandantenakte mit Versanddatum dokumentiert.
-
 ## Strategie und Praxis-Tipps
 
 - Erlaeuterungstexte standardisieren: Bausteinbibliothek pflegen, individualisieren je Mandant.
@@ -122,14 +116,6 @@ Stichtag: [Datum]
 - Nicht ausufernd: Mandant liest 2 Seiten, nicht 10. Was nicht in 2 Seiten passt, gehoert ins Quartalsgespraech.
 - Wiederkehrende Posten in den Folgemonaten nur kurz erwaehnen, neuartige Effekte ausfuehrlich.
 - StBVV: Erlaeuterungstext als Teil der BWA-Erstellung pauschalisiert; bei Sondererlaeuterung Zeithonorar.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-bwa-mandantengespraech-uebergabe` — Quartalsgespraech.
-- `stb-bwa-zeitlicher-vergleich-jahresvergleich` — Abweichungsanalyse.
-- `stb-bwa-sus-bilanz-pruefung` — Krisensignale.
-- `stb-warnschreiben-krisensignale` — formelles Warnschreiben.
 
 ## Quellen und Updates
 
@@ -141,14 +127,6 @@ Stand: 05/2026.
 - AO §§ 222, 240.
 - StGB § 266a.
 - IDW PS 480.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -178,3 +156,4 @@ Stand: 05/2026.
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

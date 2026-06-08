@@ -51,10 +51,6 @@ description: "Dieses Skill zeigt, dass die juristische Sachverhaltserfassung kei
 - Beweislücken werden erst im Prozess bemerkt, anstatt sie bei der Sachverhaltsaufnahme zu identifizieren.
 - Die Chronologie wird nicht vollständig erstellt, sodass Verjährungs- und Fristenfragen ungeprüft bleiben.
 
-## Output
-
-Das Skill liefert eine strukturierte Sachverhaltsdarstellung in zwei Stufen: zunächst eine Rohdokumentation aller Mandantenangaben mit Wertungsmarkierung, dann eine rechtlich aufbereitete Fassung mit Chronologie, Tatsachen-Wertungs-Trennung und Beweisbarkeitscheck. Die Darstellung ist direkt für Gutachten, Klageentwurf oder Beratungsprotokoll verwendbar.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

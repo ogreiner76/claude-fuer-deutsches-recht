@@ -126,14 +126,6 @@ Typische Erscheinungsformen:
 - Delta nicht beziffert
 - One-in-one-out pauschal als Ausnahme behauptet
 
-## Querverweise
-
-- `nkr-eu-ebene-und-better-regulation`
-- `nkr-one-in-one-out-bilanz-und-buchung`
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-digitalcheck-und-onlinezugangsgesetz-ozg`
-- `legistik-werkstatt/legw-eu-richtlinienumsetzung-spezial`
-
 ## Quellen Stand 06/2026
 
 - Art. 288 AEUV
@@ -144,3 +136,4 @@ Typische Erscheinungsformen:
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [ec.europa.eu/info/better-regulation](https://ec.europa.eu/info/law/better-regulation_en) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

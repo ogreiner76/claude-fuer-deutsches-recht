@@ -5,10 +5,6 @@ description: "Prueft Grammatik und Stilkonsistenz im Manuskript: Tempus Genus Nu
 
 # Grammatik- und Konsistenzcheck
 
-## Arbeitsbereich
-
-Prueft Grammatik und Stilkonsistenz im Manuskript: Tempus Genus Numerus Kasus Verweisbezug Zeitformwechsel und Hausstilkonsistenz quer durch den Text. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -103,14 +99,6 @@ Sie brauchen ihn nach dem Lektorat und vor dem Endkorrekturlauf. Klaeren Sie:
 - Tempus springt zwischen Praesens und Praeteritum.
 - Lange Schachtelsaetze mit Bezugsfehler.
 
-## Querverweise
-
-- `verl-rechtschreibung-amtlich-aktuell` - Rechtschreibung.
-- `verl-stilbruch-stilcheck-fachzeitschrift` - Stilbrueche.
-- `verl-glossar-konsistenz-pruefung` - Glossar.
-- `verl-formatvorlage-check-autor-manuskript` - Format.
-- `satzfahne-korrekturlauf` - finale Fahne.
-
 ## Quellen Stand 06/2026
 
 - Duden, Die Grammatik, 10. Aufl. 2022.
@@ -119,3 +107,4 @@ Sie brauchen ihn nach dem Lektorat und vor dem Endkorrekturlauf. Klaeren Sie:
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

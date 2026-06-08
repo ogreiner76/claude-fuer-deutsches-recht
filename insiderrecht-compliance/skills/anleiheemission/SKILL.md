@@ -5,10 +5,6 @@ description: "Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emit
 
 # Anleiheemission – Insiderrechtliche Anforderungen
 
-## Arbeitsbereich
-
-Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,24 +68,6 @@ die Compliance für Emittenten und Arrangeure.
  der Emission (Kondiktionen, Ergebnis) sind im Rahmen der allgemeinen Pflichten zu melden
 - Prospektpflicht nach EU-Prospektverordnung: Parallel zu MAR-Compliance prüfen
 - Ongoing-Disclosure: Kupon-Änderungen, Covenant Breaches → ggf. ad-hoc-pflichtig
-
-## Red-Team-Fragen
-
-- Wird MAR korrekt auf den Anwendungsbereich (gelistete vs. nicht-gelistete Anleihe) angewendet?
-- Gibt es eine aktuelle Insiderinformation, die vor der Emission veröffentlicht werden muss?
-- Wurden Arrangeur-Teams ordnungsgemäß über Insiderstatus informiert?
-- Wurden Market-Sounding-Investoren in Insiderlisten aufgenommen?
-- Besteht neben MAR auch Prospektpflicht (EU-Prospektverordnung)?
-
-## Ausgabeformat
-
-Erzeuge:
-1. MAR-Anwendungsbereichs-Prüfung (Anleihe × Handelsplatz × MAR-Pflicht)
-2. Market-Sounding-Protokoll für Anleihe (Art. 11 MAR-konform)
-3. Arrangeur-Compliance-Checkliste
-4. Zeitplan Insiderinformation → Ad-hoc → Emission
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
 
 ## Normen und Rechtsprechung
 

@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Erbfolge – Erbschein, Europäisches Nachlass
 
 # Notariat im Alltag: Erbfolge – Erbschein, ENZ, Grundbuchberichtigung
 
-## Arbeitsbereich
-
-Notariat im Alltag: Erbfolge – Erbschein, Europäisches Nachlasszeugnis und Grundbuchberichtigung. Gesetzliche und gewillkürte Erbfolge, Erbscheinsantrag beim Nachlassgericht, ENZ nach EuErbVO und Grundbuchberichtigung nach § 35 GBO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,3 +97,4 @@ Nach dem Tod des eingetragenen Eigentümers muss das Grundbuch berichtigt werden
 - **Mandantenmail** (Schritte nach Todesfall, Ausschlagungsfrist)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

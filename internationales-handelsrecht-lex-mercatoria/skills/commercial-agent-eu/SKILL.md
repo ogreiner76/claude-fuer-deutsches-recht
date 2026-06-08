@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: EU-Handelsvertreterrecht nach RL 86/
 
 # EU-Handelsvertreterrecht
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: EU-Handelsvertreterrecht nach RL 86/653/EWG und HGB §§ 84-92c. Vergütung (Provision), Ausgleichsanspruch § 89b HGB, Kundschutzliste, Delkrederepflicht und Kollisionsrecht bei ausländischen HV-Klauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Die EU-Handelsvertreter-Richtlinie 86/653/EWG harmonisiert den HV-Schutz in der 
 - Wettbewerbsverbot: max. 2 Jahre + angemessene Entschädigung (Halbjahresprovision p.a.)
 - Kollisionsrecht: § 92c HGB Schutz bei Drittland-Rechtswahl
 
-## Output
-
-- Ausgleichsberechnungs-Schema § 89b
-- HV-Vertrags-Checkliste
-- Wettbewerbsverbot-Klausel-Muster
-
 ## Quellenregel
 
 HGB §§ 84-92c: gesetze-im-internet.de. EU-HV-RL 86/653/EWG: eur-lex.europa.eu. BGH-Rspr. zu § 89b: dejure.org. Unsicherheit bleibt sichtbar.
+

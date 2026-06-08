@@ -5,10 +5,6 @@ description: "Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde R
 
 # Vollmacht für Mitreisende
 
-## Zweck
-
-Wenn mehrere Personen unter einer gemeinsamen Buchung gestört wurden, hat **jede:r** einen eigenen Anspruch aus Art. 19 VO (EU) 2021/782. Damit eine Hauptansprechperson alle Ansprüche gebearbeitet verfolgen kann (vorgerichtlich Forderung an DB / Widerspruch / Schlichtung; gerichtlich Klage), braucht es Vollmachten der Mitreisenden.
-
 ## Vollmacht-Inhalt (Erwachsene)
 
 ```
@@ -140,12 +136,9 @@ Bei Übergabe an eine Anwältin oder einen Anwalt: die anwaltliche Untervollmach
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## Ausgabe
 
 - `vollmacht-<name>-<datum>.md` (eine Datei pro Mitreisendem) und PDF.
 - Vollmacht-Versandliste mit Status (versendet / unterschrieben / vorliegt).
 - Hinweis: Eingang der unterschriebenen Vollmachten ist Voraussetzung für die Mitvertretung in Forderungs-, Schlichtungs- und Klageverfahren.
+

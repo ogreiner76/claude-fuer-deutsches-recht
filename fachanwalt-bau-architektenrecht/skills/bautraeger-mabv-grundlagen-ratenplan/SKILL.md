@@ -5,9 +5,6 @@ description: "Bautraeger Mabv Grundlagen Ratenplan im Plugin Fachanwalt Bau Arch
 
 # Bautraeger Mabv Grundlagen Ratenplan
 
-## Arbeitsbereich
-
-**Bautraeger Mabv Grundlagen Ratenplan** ordnet den Fall über die tragenden Prüfungslinien: Makler- und Bautraegerverordnung (MaBV) Grundlagen, MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt, MaBV § 2. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Bautraeger Mabv Grundlagen Ratenplan im Plugin Fachanwalt Bau Arch
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bautraeger-mabv-grundlagen-1-2`
@@ -182,3 +180,4 @@ Summen koennen je nach Fassung der MaBV abweichen — Vor Mandatsmäßigen Berat
 1. Welches Modell (§ 3 vs § 7)?
 2. Trennung des Sonderkontos belegbar?
 3. Bei Insolvenz: Glaeubigeranfechtung?
+

@@ -5,10 +5,6 @@ description: "Familienversicherung nach § 10 SGB V: Einkommensgrenzen, Minijob 
 
 # Familienversicherung: Einkommensgrenze und Minijob
 
-## Arbeitsbereich
-
-Familienversicherung nach § 10 SGB V: Einkommensgrenzen, Minijob als Ausschlussgrund, Überprüfung und Nachzahlungsrisiken bei Grenzüberschreitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -88,6 +84,7 @@ Die Familienversicherung erlaubt beitragsfreie Mitversicherung von Angehörigen.
 - [BSG B 12 KR 4/15 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [GKV-Spitzenverband Familienversicherung](https://www.gkv-spitzenverband.de)
 - [dejure.org § 10 SGB V](https://dejure.org/gesetze/SGB_V/10.html)
+
 ## Hinweis: Änderungsmeldepflicht und rückwirkende Beiträge
 
 - Überschreiten der Einkommensgrenze ist der Kasse unverzüglich zu melden
@@ -101,3 +98,4 @@ Die Familienversicherung erlaubt beitragsfreie Mitversicherung von Angehörigen.
 - [§ 6 Abs. 1 Nr. 1 SGB V – Versicherungsfreiheit Minijob](https://www.gesetze-im-internet.de/sgb_5/__6.html)
 - [§ 249b SGB V – Pauschalbeitrag Minijob](https://www.gesetze-im-internet.de/sgb_5/__249b.html)
 - [BSG-Rechtsprechung Familienversicherung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+

@@ -34,10 +34,6 @@ description: "Erkennt und kommentiert Widersprüche im Arbeitszeugnis: wenn Leis
 
 **Beispiel 5 – Positiver Leistungsteil, fehlende Integrität:** Alle Leistungsaussagen grün, kein einziges Wort zu Zuverlässigkeit oder Vertrauen bei einem Buchhalter → der Widerspruch zwischen Lob und Schweigen ist das rote Signal.
 
-## Ausgabeformat
-
-Der Skill listet jeden erkannten Widerspruch mit den sich widersprechenden Sätzen, dem Widerspruchstyp, der Signalwirkung für eingeweihte Personalverantwortliche und einer Handlungsempfehlung (Klärung beim Aussteller / Nachverhandlung / Klageprüfung). Am Ende folgt eine Gesamteinschätzung der Zeugniskonsistenz (hoch/mittel/niedrig).
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -46,3 +42,4 @@ Der Skill listet jeden erkannten Widerspruch mit den sich widersprechenden Sätz
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

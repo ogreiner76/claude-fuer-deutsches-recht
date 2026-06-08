@@ -17,12 +17,7 @@ Arbeitsfokus: **Anlagen für Glaubhaftmachung**. Prüfe diese Anker am Sachverha
 - `§ 130a Abs. 1 ZPO` — elektronische Einreichung.
 - `§ 371 ZPO` — Augenschein.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill ist für einstweilige Verfügung, Arrest, einstweilige Anordnung und sonstige Eilsachen. Er fragt: Was muss heute glaubhaft gemacht werden, mit welchem Mittel, und was ist nur schmückendes Beiwerk?
 
 ## Mindestinput
 
@@ -76,3 +71,4 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 - Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
 - Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
 - Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
+

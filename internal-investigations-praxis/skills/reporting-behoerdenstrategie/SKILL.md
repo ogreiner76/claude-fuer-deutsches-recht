@@ -5,10 +5,6 @@ description: "Strukturiert den Abschlussbericht einer Internal Investigation –
 
 # Abschlussbericht der Internal Investigation
 
-## Arbeitsbereich
-
-Strukturiert den Abschlussbericht einer Internal Investigation – Aufbau, Privilegierung, Adressaten, Versionen und Verwertbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill strukturiert den Abschlussbericht so, dass er belastbar und verwert
 - Bericht als Grundlage für Schadensersatz: § 93 Abs. 2 AktG, § 249 BGB.
 - Bericht bei BaFin Self-Reporting: Inhalt und Zeitpunkt strategisch abstimmen (vgl. inv-012-behoerdenstrategie).
 
-## Red-Team-Fragen
-
-- Ist die Privilegierungsstrategie wasserdicht – sind Fakten- und Rechtsteil tatsächlich getrennt?
-- Enthält der Bericht Behauptungen, die nicht durch Dokumente oder Interviews belegt sind?
-- Wurden betroffene Mitarbeiter vor Fertigstellung des Berichts mit den Vorwürfen konfrontiert und hatten die Möglichkeit zur Gegendarstellung?
-- Wer hat außer dem Anwalt Zugang zum Vollbericht gehabt, und hat das den Privilegeschutz gefährdet?
-- Ist die Verteilermatrix dokumentiert und eingehalten worden?
-- Könnten Formulierungen im Bericht als falsche Verdächtigung (§ 164 StGB) qualifizieren?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -96,3 +83,4 @@ Dieser Skill strukturiert den Abschlussbericht so, dass er belastbar und verwert
 - **Gegendarstellungs-Checkliste** für betroffene Mitarbeiter
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

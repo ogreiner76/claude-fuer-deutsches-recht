@@ -126,14 +126,6 @@ Lehre: Vor Sanierung § 8d KStG-Antrag sichern.
 - Gewerbeverlust mit KSt-Verlustvortrag verwechselt; § 7b GewStG-Antrag fehlt.
 - Sanierungsertrag vor Verlustverbrauch in Steuererklärung nicht klar deklariert.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust`
-- `stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel`
-- `stb-sanierungsgewinn-fruehwarnung-monat-zwoelf-vor-plan`
-
 ## Quellen Stand 06/2026
 
 ### Normen
@@ -164,3 +156,4 @@ Lehre: Vor Sanierung § 8d KStG-Antrag sichern.
 ### Querverweis Liquidations-Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse: bei Liquidation Wegfall der Verbindlichkeit mit Erloeschen mangels Steuersubjekt (FG Köln 13 K 3006/11), wodurch der Definitiveffekt sich nicht materialisiert.
+

@@ -5,10 +5,6 @@ description: "Rechtsabteilungs-Fachmodul für Debt Push-down und Financial Assis
 
 # Rechtsabteilung: Debt Push-down und Financial Assistance
 
-## Arbeitsbereich
-
-Rechtsabteilungs-Fachmodul für Debt Push-down und Financial Assistance: Akquisitionsfinanzierung wird auf Upstream-Security- und Cashflow-Fallen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,6 +47,3 @@ Akquisitionsfinanzierung wird auf Upstream-Security- und Cashflow-Fallen geprüf
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

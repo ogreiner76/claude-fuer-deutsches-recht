@@ -5,10 +5,6 @@ description: "Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag f
 
 # Kanzleitag-Simulation
 
-## Arbeitsbereich
-
-Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training u
 - Art. 32 DSGVO — TOM: Sicherheitsstandards gelten auch für Trainingsumgebungen
 - § 43 BRAO — Fortbildungspflicht des Anwalts: Simulation als anerkanntes Fortbildungsmittel
 - § 26 BDSG — Beschaeftigtendatenschutz: gilt auch bei internem Onboarding mit Simulationsdaten
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill führt durch einen realistisch wirkenden Kanzleitag, ohne echte Systeme zu benötigen. Er eignet sich für Training, Demo, Testakte und Onboarding junger Anwältinnen und Anwälte.
 
 ## Startfragen
 
@@ -89,3 +78,4 @@ Wenn Mandatsannahme oder GwG nicht echt angebunden ist, an `kanzlei-allgemein-ma
 ## Ausgabe
 
 `assets/templates/kanzleitag-simulation.md` verwenden.
+

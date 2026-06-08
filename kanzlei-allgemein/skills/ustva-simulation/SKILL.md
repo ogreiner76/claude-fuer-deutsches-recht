@@ -32,13 +32,6 @@ Fallback bei ELSTER-Stoerung oder fehlendem Steuersoftware-Zugang für UStVA-Sim
 - § 150 Abs. 6 AO — Datenfernuebertragung als Abgabeform; entsprechende technische Standards
 - § 152 AO — Verspaetungszuschlag bei Nichtabgabe
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Anwendungsfall: die Umsatzsteuer-Voranmeldung vorbereitet ist, aber ELSTER, Buchhaltung, XML-Upload oder Fachsoftware nicht angeschlossen ist oder scheitert. Er bietet einen realistischen Übungslauf und sichere Fallbacks, ohne eine echte steuerliche Übermittlung zu behaupten.
-
 ## Grundsatz
 
 ELSTER ist kein Ablageort für beliebige Dokumente. Eine UStVA wird in Mein ELSTER im Formular erfasst oder über geeignete Software beziehungsweise passende XML-Daten übertragen. Ein PDF, eine Markdown-Datei oder ein gewöhnliches Tabellenblatt ist kein UStVA-Upload. Wenn XML genutzt wird, muss die Datei zum ELSTER/ERiC-Datensatz passen und technisch geprüft sein.
@@ -111,3 +104,4 @@ Immer anhalten bei:
 - `assets/templates/ustva-elster-eingabebogen.md`.
 - `assets/templates/ustva-xml-upload-pruefung.md`.
 - `assets/templates/ustva-steuerberater-paket.md`.
+

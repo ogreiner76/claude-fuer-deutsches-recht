@@ -58,6 +58,3 @@ Das Familienrecht des BGB 1900 spiegelte das 19. Jahrhundert: Eheliche Schluesse
 - Vergleich: Eherecht 1900 vs. 1957 vs. 1976 (Tabelle)
 - BVerfGE-Linie: BVerfGE 3, 225 bis BVerfGE zu gleichgeschlechtlichen Ehen
 
-## Quellenregel
-
-BGB Familienrecht: gesetze-im-internet.de (aktuell); Mugdan Bd. IV (historisch). BVerfGE 3, 225: bverfg.de. BGBl. I 1957, 609 und 1976, 1421: gesetze-im-internet.de.

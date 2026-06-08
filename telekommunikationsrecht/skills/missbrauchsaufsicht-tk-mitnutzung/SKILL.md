@@ -5,10 +5,6 @@ description: "Missbrauchsaufsicht im TK-Recht: Marktmacht, Diskriminierung, Behi
 
 # TK-Missbrauchsaufsicht als Sonderkartellrecht
 
-## Arbeitsbereich
-
-Missbrauchsaufsicht im TK-Recht: Marktmacht, Diskriminierung, Behinderung, Margin Squeeze, Zugang und Verhältnis zu GWB/AEUV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Missbrauchsaufsicht im TK-Recht: Marktmacht, Diskriminierung, Behinderung, Margi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Wettbewerberbeschwerden und Verteidigung von Netzbetreibern.
-
 ## Norm- und Quellenanker
 
 TKG; GWB §§ 18–20; AEUV Art. 102; BNetzA/BKartA-Schnittstelle.
-
-## Arbeitsfragen
-
-1. Welche Marktstellung und Infrastrukturkontrolle?
-2. Welche Behinderung/Diskriminierung ist konkret?
-3. Ist BNetzA oder BKartA führend?
-
-## Output
-
-Missbrauchsmemo und Behördenstrategie.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Missbrauchsmemo und Behördenstrategie.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

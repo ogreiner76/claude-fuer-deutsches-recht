@@ -10,10 +10,6 @@ description: "Prüft Rechtsmangel § 435 BGB: Rechte Dritter, beschränkt dingli
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Rechtsmängel nach § 435 BGB prüfen: Rechte Dritter, Belastungen und öffentlich-rechtliche Lasten, die den Käufer beeinträchtigen; Rechtsfolgen und Abgrenzung zum Sachmangel.
-
 ## Normanker
 
 - § 435 BGB: Rechtsmangel (Rechte Dritter und öffentlich-rechtliche Lasten)
@@ -46,25 +42,13 @@ Rechtsmängel nach § 435 BGB prüfen: Rechte Dritter, Belastungen und öffentli
 - Mieter hat aus Kaufvertrag kein Klagerecht gegen Käufer (kein Vertragsverhältnis), aber es kann Vollstreckungsschutz für Mieter bestehen.
 - Kauf bricht nicht Miete nach § 566 BGB: Mieter bleibt berechtigt trotz Eigentümerwechsel.
 - Aufgedeckte Rechtsmängel müssen zeitnah gerügt werden.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Rechtsmangel-Analyse (Art und Umfang des Rechts Dritter)
-- Käuferrechte-Stufenleiter
-- Öffentlich-rechtliche Lasten-Checkliste
-- Risikoampel
-
-## Qualitätsregeln
-
-- Sachmangel und Rechtsmangel immer klar trennen.
-- Öffentlich-rechtliche Lasten immer einschließen.
-- § 566 BGB bei Immobilienkaufrecht stets beachten.
 
 ## Anschluss-Skills
 
@@ -78,10 +62,4 @@ Rechtsmängel nach § 435 BGB prüfen: Rechte Dritter, Belastungen und öffentli
 - https://www.gesetze-im-internet.de/bgb/__435.html
 - https://www.gesetze-im-internet.de/bgb/__437.html
 - https://www.gesetze-im-internet.de/bgb/__433.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

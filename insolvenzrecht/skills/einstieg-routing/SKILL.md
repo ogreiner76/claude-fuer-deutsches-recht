@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Insolvenzrecht (Allgemein): ordn
 
 Dieser Einstieg routet **Insolvenzrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `anfechtungsrechte-antragspflicht-15a` — Anfechtungsrechte Antragspflicht 15A
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Insolvenzrecht** vom ersten Sachverhalt zu Rollen, Fris
 - Zuständige Stelle bestimmen: Schuldner, IV/SV/Restrukturierungsbeauftragter, Gläubigerausschuss, Insolvenzgericht, Gläubiger, Geschäftsführer (§ 15a-Adressat).
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Insolvenzrecht (Allgemein) typische Eskalationsstufen: Insolvenzantrag, Gutachten, Anfechtungsklage.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

@@ -5,10 +5,6 @@ description: "Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, in
 
 # Schiffsleasing: Schiffsregister, Schiffshypothek und Flagge
 
-## Arbeitsbereich
-
-Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale L
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Schiffsleasing verbindet Seerecht, Registerrecht und allgemeines Leasingrecht. Schiffe haben eigene Register und Sicherungsrechte (Schiffshypothek). Die Flagge des Schiffes bestimmt das anwendbare Recht für viele Fragen. Dieser Skill klärt die relevanten Strukturen.
 
 ## Rechtlicher Rahmen
 
@@ -113,3 +105,4 @@ Viele Schiffe in Deutschland: KG-Struktur (Kommanditgesellschaft als Schiffs-Eig
 - **Bareboat-Charter-Checkliste**: Flagge, ISM, Crew, Versicherung
 - **Insolvenz-Sofortplan**: LG bei Insolvenz der Reederei
 - **Tonnagesteuer-Memo**: Voraussetzungen und Berechnung
+

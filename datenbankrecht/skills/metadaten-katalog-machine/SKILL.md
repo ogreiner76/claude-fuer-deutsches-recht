@@ -59,14 +59,6 @@ Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankw
 - Open-Access-Thesauri haben oft CC-Lizenzen, die Sharealike-Pflichten für abgeleitete Ontologien auslösen.
 - Personenbezogene Metadaten (Autorenlisten, Rezensenten) unterliegen DSGVO — Auskunftsansprüche bei wissenschaftlichen Katalogen praktisch relevant.
 
-## Output
-
-- Datenbankrecht-Schutzkonzept für Metadatenkataloge und Thesauri
-- TDM-Opt-out-Implementierungsguide für Informationsdienstleister
-- Metadaten-Lizenzvertrag-Vorlage (API-Feed, Volllizenz, Forschungslizenz)
-- DSGVO-Compliance-Check für personenbezogene Metadaten
-- Thesaurus-Verletzungsanalyse (Datenbankwerk + Herstellerrecht kumulativ)
-
 ## Quellen
 
 - [§ 4 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
@@ -75,3 +67,4 @@ Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankw
 - [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
 - [§ 69a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/69a.html)
 - [DSGVO Art. 15 — dejure.org](https://dejure.org/gesetze/DSGVO/15.html)
+

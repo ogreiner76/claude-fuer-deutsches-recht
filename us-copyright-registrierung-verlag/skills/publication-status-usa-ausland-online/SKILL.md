@@ -5,10 +5,6 @@ description: "Publication-Status klären: veröffentlicht/unveröffentlicht, U.S
 
 # Publication Status USA, Ausland und Online
 
-## Arbeitsbereich
-
-Publication-Status klären: veröffentlicht/unveröffentlicht, U.S.-Erstveröffentlichung, ausländische Erstveröffentlichung, Online-only und gleichzeitige Verbreitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Publication-Status klären: veröffentlicht/unveröffentlicht, U.S.-Erstveröffe
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Bestimme den Veröffentlichungsstatus, weil davon Antragstyp, Deposit und Fristen abhängen. Deutsche Begriffe wie „erschienen“, „lieferbar“, „POD“ oder „Online gestellt“ müssen in die U.S.-Copyright-Office-Logik übersetzt werden.
-
 ## Prüfpfad
 
 - Gab es Verbreitung von Kopien an die Öffentlichkeit, Verkauf, Lizenzangebot, Download, Print-on-demand oder nur interne Manuskriptzirkulation?
@@ -33,14 +25,6 @@ Bestimme den Veröffentlichungsstatus, weil davon Antragstyp, Deposit und Friste
 - Ist eine US-Ausgabe, ein Import, ein Amazon-/Distributor-Angebot oder ein institutioneller Zugang vorhanden?
 - Ist das Werk nur online verfügbar und wurde das Copyright Office eventuell aktiv zur elektronischen Mandatory Deposit aufgefordert?
 - Stimmen Impressum, ISBN-Meldung, Verlagssystem, Vertrieb und eCO-Angabe überein?
-
-## Output
-
-Eine Publication-Entscheidung mit Datum, Land, Belegen, Deposit-Folge und Unsicherheiten. Bei Widerspruch zwischen Unterlagen immer eine Belegliste statt Bauchgefühl liefern.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -52,3 +36,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Frist-/Remedy-Wirkung hat timing nach § 411/§ 412 und was muss als Nachweis in die Verlagsakte?
 
 **Mindest-Output:** Registrierungsakte mit Antragstyp, Werkdaten, Rechtekette, Deposit-Route, Fee/Tracking und Certificate-Archiv.
+

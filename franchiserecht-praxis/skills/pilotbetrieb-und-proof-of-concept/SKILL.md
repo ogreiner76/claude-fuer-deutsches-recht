@@ -5,10 +5,6 @@ description: "Pilotbetrieb vor Franchisesystemstart rechtlich absichern: Nachwei
 
 # Franchiserecht: Pilotbetrieb und Proof of Concept
 
-## Arbeitsbereich
-
-Pilotbetrieb vor Franchisesystemstart rechtlich absichern: Nachweis der Systemtauglichkeit als Aufklärungspflicht nach § 311 Abs. 2 BGB, Datenbasis für Rentabilitätsprognosen, Vertraulichkeit und Systemschutzmassnahmen während der Pilotphase. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber plant die Aufnahme von Franchisenehmern, hat aber noch keinen
 - Know-how wird in der Pilotphase ohne NDAs an Mitarbeiter weitergegeben; Schutzfähigkeit nach GeschGehG geht verloren.
 - Markenanmeldung wird auf nach dem ersten Franchisevertragsschluss verschoben; Priorität ist verloren.
 
-## Output
-
-- Systemreife-Checkliste für Franchisegeber
-- Pilotbetriebsdokumentation (Vorlage)
-- NDA-Muster für Pilotphasen-Partner
-- Disclosure-Inhalt-Checkliste für Pilotdaten
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/311.html
@@ -71,6 +60,7 @@ Ein Franchisegeber plant die Aufnahme von Franchisenehmern, hat aber noch keinen
 - https://gesetze-im-internet.de/geschgehg/
 - https://dejure.org/gesetze/MarkenG/3.html
 - https://gesetze-im-internet.de/bgb/__311.html
+
 ## Vertiefung
 
 Die Bedeutung des Pilotbetriebs für die vorvertragliche Aufklärungspflicht kann nicht hoch genug eingeschätzt werden. Ein Franchisegeber, der ohne hinreichend erprobtes System Franchisenehmer aufnimmt, läuft Gefahr, nach § 311 Abs. 2 BGB zu haften, wenn das System sich nicht in der Realität bewährt. Die Gerichte stellen hohe Anforderungen an die Vergleichbarkeit des Pilotbetriebs mit einem typischen Franchiseestandort.
@@ -84,7 +74,10 @@ Der Code of Ethics des Deutschen Franchiseverbands empfiehlt die Erprobung des S
 - Negativergebnisse des Pilotbetriebs sind im Disclosure-Dokument offenzulegen; Schönfärberei ist haftungsrelevant.
 - Know-how-Schutz durch NDA-Abschlüsse mit allen Personen, die Einblick in das Konzept haben.
 - Systemhandbuch-Stand bei Franchisebeginn muss Pilot-Erkenntnisse berücksichtigen.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

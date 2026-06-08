@@ -5,10 +5,6 @@ description: "EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergae
 
 # Embargo Syrien: Sanktionsregime und Post-Assad-Lockerungen
 
-## Arbeitsbereich
-
-EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnungen: Finanzsanktionen gelisteter Personen und Entitaeten, Waffenembargo, Guetersanktionen und Oelembargo. Post-Assad-Lockerungen 2024/2025 beachten. Fallkonstellation: Unternehmen plant Wiederaufbaulieferungen nach Syrien. Output: Syrien-Embargo-Pruefvermerk mit aktuellem Regelungsstand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnu
 - Waffenembargo gilt unabhaengig vom Regime.
 - Humanitaere Ausnahmen sind eng und erfordern Genehmigung.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Syrien-Embargo-Pruefvermerk mit aktuellem Regelungsstand, Personensanktions-Screeningprotokoll, Gueterlisten-Pruefung und Genehmigungsantrag-Entwurf.
-
 ## Quellen
 
 - [VO (EU) 36/2012 konsolidiert auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R0036)
 - [EU Sanctions Map Syrien](https://www.sanctionsmap.eu/#/main/details/41)
 - [BAFA Syrien-Embargo](https://www.bafa.de/DE/Aussenwirtschaft/Exportkontrolle/Embargolaender/embargolaender_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+

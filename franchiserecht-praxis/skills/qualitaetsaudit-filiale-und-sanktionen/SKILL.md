@@ -5,10 +5,6 @@ description: "Qualitätsaudit im Franchisesystem rechtskonform durchführen: Zut
 
 # Franchiserecht: Qualitätsaudit, Filialprüfung und Sanktionen
 
-## Arbeitsbereich
-
-Qualitätsaudit im Franchisesystem rechtskonform durchführen: Zutrittsrechte, Dokumentationspflichten, Vertragsstrafen nach § 307 BGB, Verhältnismässigkeit von Sanktionen und Rechtsschutz des Franchisenehmers gegen unberechtigte Auditbefunde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Ein Franchisegeber will ein umfassendes Qualitätsauditsystem einführen und bei
 - Audit-Checklisten sind so subjektiv formuliert, dass nahezu jedes Ergebnis als Mangel gewertet werden kann.
 - Datenschutzverstoss beim Audit: Prüfer nimmt Kundendaten ein, ohne dass ein AVV nach Art. 28 DSGVO besteht.
 
-## Output
-
-- Audit-Handbuch (rechtskonforme Vorlage)
-- Vertragsstrafe-Klausel (AGB-konforme Formulierung)
-- Widerspruchsverfahren-Muster
-- Mängelbeseitigungsfristenplan
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/307.html
@@ -72,6 +61,7 @@ Ein Franchisegeber will ein umfassendes Qualitätsauditsystem einführen und bei
 - https://dejure.org/gesetze/BGB/343.html
 - https://dejure.org/gesetze/MarkenG/30.html
 - https://gesetze-im-internet.de/dsgvo/art_32.html
+
 ## Vertiefung
 
 Das Qualitätsaudit ist ein zentrales Instrument der Systemkontrolle im Franchiserecht. Es dient sowohl der Qualitätssicherung als auch der Beweissicherung für spätere Sanktionsschritte. Der Franchisegeber hat ein legitimes Interesse an der Kontrolle der Systemstandards; der Franchisenehmer hat ein legitimes Interesse an einem fairen, objektiven und verhältnismässigen Verfahren.
@@ -85,7 +75,10 @@ Die AGB-rechtliche Zulässigkeit von Vertragsstrafen nach §§ 307 und 309 BGB s
 - Mängelbeseitigungsfrist von mindestens 2 bis 4 Wochen einräumen, bevor Vertragsstrafe verwirkt.
 - Vertragsstrafe nur für schwerwiegende oder wiederholte Verstösse vorgesehen; keine Bagatellstrafen.
 - Mystery-Shopping-Ergebnis alleine ist selten ausreichend für Kündigung; immer mit Auditprotokoll kombinieren.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

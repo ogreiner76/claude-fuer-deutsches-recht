@@ -5,10 +5,6 @@ description: "Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestse
 
 # Muster-Buchpreisfreigabe-Dokumentation
 
-## Arbeitsbereich
-
-Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestsetzung und -aufhebung gemäß §§ 3 und 7 BuchPrG, VLB-Protokoll, Ausnahmenbelege nach § 6 BuchPrG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -214,3 +210,4 @@ Preisaufhebung erklärt: □ Ja, Datum: [___] □ Nein, weiter auf anderer Platt
 - E-Book-Plattform-Preisbindungsprotokoll
 - Checkliste Preisbindungs-Compliance (jährliche Revisionskontrolle)
 - Ausnahmen-Belegliste nach § 6 BuchPrG
+

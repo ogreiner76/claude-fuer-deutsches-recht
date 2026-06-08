@@ -147,15 +147,7 @@ Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Pruefen Sie genau die Definit
 - Berufsschutz für falschen Jahrgang behauptet → nur vor 02.01.1961
 - Reha-Bericht ignoriert → wichtigster Beleg
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `verpflichtungsklage-54-sgg` — Klageform
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-- `medizinische-gutachten-strategie-laien` — Gutachten
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-- `widerspruch-gegen-gutachten-laien` — Reaktion auf Gutachten
-
 ## Quellen und Aktualitaet
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

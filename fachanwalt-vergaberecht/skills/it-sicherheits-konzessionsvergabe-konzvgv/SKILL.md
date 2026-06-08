@@ -5,9 +5,6 @@ description: "IT Sicherheits Konzessionsvergabe Konzvgv im Plugin Fachanwalt Ver
 
 # IT Sicherheits Konzessionsvergabe Konzvgv
 
-## Arbeitsbereich
-
-**IT Sicherheits Konzessionsvergabe Konzvgv** ordnet den Fall über die tragenden Prüfungslinien: IT-Sicherheits-Vergabe für KRITIS-Betreiber und, Konzessionsvergabe nach KonzVgV strukturieren und pruefen, Losbildung und Mittelstandsfoerderung im Vergabeverfahren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "IT Sicherheits Konzessionsvergabe Konzvgv im Plugin Fachanwalt Ver
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2`
@@ -31,10 +29,6 @@ description: "IT Sicherheits Konzessionsvergabe Konzvgv im Plugin Fachanwalt Ver
 **Fokus:** IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei öffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen. Normen: §§ 122 und 124 GWB, IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0), NIS2UmsuCG, BSI-Grundschutz, BSI C5, ISO 27001. Prüfraster: KRITIS-Einordnung, BSI-Zertifizierung als Eignungs-/Zuschlagskriterium, VS-NfD-Geheimschutz, Mindestlohn, Tariftreue. Output Eignung-Nachweis-Konzept, Leistungsbeschreibungs-Check, Vertragsklauseln IT-Sicherheit. Abgrenzung: Eignungsprüfung allgemein siehe fachanwalt-vergaberecht-eignungsprüfung; DSA/DMA siehe dsa-dma-Plugin.
 
 ### IT-Sicherheits-Vergabe — IT-SiG 2.0 / NIS2
-
-## Zweck
-
-Spezial-Mandat: Öffentlicher Auftraggeber (KRITIS oder NIS2-Einrichtung) vergibt IT-Dienstleistung — Software, Cloud, SaaS, Beratung, Hosting. Wegen IT-Sicherheitsgesetz 2.0 und NIS2-Umsetzungsgesetz (NIS2UmsuCG) sind erweiterte Sicherheitsanforderungen Pflicht. Bieter müssen zertifizierungskonform sein; die Vergabe muss diese Anforderungen verhältnismäßig und diskriminierungsfrei formulieren.
 
 ## Kaltstart-Rückfragen
 
@@ -337,9 +331,6 @@ Halluzinations-Reparatur Bundle 026:
 
 ### Konzessionsvergabe (KonzVgV)
 
-## Aufgabe
-Bau- oder Dienstleistungskonzession nach KonzVgV strukturieren oder eine angegriffene Konzessionsvergabe verteidigen. Abgrenzungs-Kernfrage: Konzession (Betriebsrisiko beim Konzessionaer) vs. öffentlicher Auftrag (Festentgelt).
-
 ## Einstieg
 1. Konzessionsgegenstand: Bau (Errichtung + Betrieb) oder Dienstleistung (Betrieb mit Entgelt von Dritten)?
 2. Wer traegt das Betriebsrisiko (Nachfragerisiko, Angebotsrisiko)?
@@ -383,14 +374,6 @@ Bau- oder Dienstleistungskonzession nach KonzVgV strukturieren oder eine angegri
 - Wesentliche Vertragsaenderung waehrend Laufzeit ohne neue Vergabe.
 - Konzession unter EU-Schwelle vergeben ohne Primaerrechtsschutz-Pruefung.
 
-## Output
-- Konzessionsbekanntmachung-Entwurf.
-- Risikoteilungsmatrix.
-- Verfahrensplan KonzVgV.
-
-## Quellenregel
-EuGH-Entscheidungen zur Konzessionsabgrenzung ueber curia.europa.eu verifizieren.
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -406,9 +389,6 @@ EuGH-Entscheidungen zur Konzessionsabgrenzung ueber curia.europa.eu verifizieren
 **Fokus:** Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende für Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
 
 ### Losbildung und Mittelstandsfoerderung
-
-## Aufgabe
-Losbildung im Vergabeverfahren strukturieren oder eine fehlerhafte Gesamtvergabe ruegen. Schluesselregel: Aufteilung in Lose ist Grundsatz, Gesamtvergabe bedarf Begruendung.
 
 ## Einstieg
 1. Auftraggeber- oder Bieter-Mandat?
@@ -454,11 +434,6 @@ Zulaessig nur, wenn wirtschaftliche oder technische Gruende dies erfordern. Begr
 - Wirtschaftliche Gruende werden nur pauschal genannt.
 - Fachlose ohne Beruecksichtigung von Schnittstellenpflichten beim Auftraggeber.
 - Eignungsanforderungen pro Los sind nicht losbezogen, sondern für Gesamtleistung formuliert.
-
-## Output
-- Losbildungs-Pruefvermerk (Auftraggeber).
-- Ruegeschriftsatz-Modul Losverzicht (Bieter).
-- Schnittstellenkonzept bei Losvergabe.
 
 ## Quellenregel
 OLG-Linie zu § 97 Abs. 4 GWB (OLG Duesseldorf, OLG Muenchen) vor Ausgabe ueber dejure.org verifizieren.
@@ -811,3 +786,4 @@ als Anlage K2. Frist § 160 Abs. 3 Nr. 4 GWB gewahrt.
 - Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+

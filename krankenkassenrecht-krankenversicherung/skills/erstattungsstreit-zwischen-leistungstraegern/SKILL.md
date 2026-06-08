@@ -5,10 +5,6 @@ description: "Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenvers
 
 # Erstattungsstreit zwischen Leistungsträgern
 
-## Arbeitsbereich
-
-Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenversicherung, Unfallversicherung und Sozialhilfe (§§ 102–115 SGB X): Voraussetzungen und Verjährung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -89,6 +85,7 @@ Wenn ein Leistungsträger an den Versicherten leistet, obwohl ein anderer Träge
 - [§ 14 SGB IX – Reha-Erstangegangener](https://www.gesetze-im-internet.de/sgb_9_2018/__14.html)
 - [BSG Erstattungsrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 102 SGB X](https://dejure.org/gesetze/SGB_X/102.html)
+
 ## Hinweis: Ausschluss- und Verjährungsfristen
 
 - Erstattungsansprüche zwischen Trägern: 4-Jahres-Frist nach § 111 SGB X
@@ -101,3 +98,4 @@ Wenn ein Leistungsträger an den Versicherten leistet, obwohl ein anderer Träge
 - [§ 102 SGB X – Erstattungsanspruch vorläufig leistender Träger](https://www.gesetze-im-internet.de/sgb_10/__102.html)
 - [§ 111 SGB X – Ausschlussfrist](https://www.gesetze-im-internet.de/sgb_10/__111.html)
 - [BSG-Rechtsprechung zu § 105 SGB X](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+

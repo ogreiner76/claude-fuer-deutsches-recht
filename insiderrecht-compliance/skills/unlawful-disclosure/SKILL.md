@@ -5,10 +5,6 @@ description: "Prueft unzulaessige Offenlegung von Insiderinformationen nach Art.
 
 # Unzulässige Offenlegung nach Art. 10 MAR
 
-## Arbeitsbereich
-
-Prueft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,23 +77,3 @@ Für jeden Weitergabevorgang außerhalb der Ad-hoc-Veröffentlichung:
 - Belehrung des Empfängers über Insiderstatus
 - Aufnahme in Insiderliste (Art. 18 MAR)
 
-## Red-Team-Fragen
-
-- War die weitergegebene Information tatsächlich eine Insiderinformation?
-- War die Weitergabe für die Berufsausübung notwendig oder erfolgte sie freiwillig?
-- Wurden Market-Sounding-Formalia (DVO 2016/960) eingehalten?
-- Sind alle Empfänger in der Insiderliste erfasst und belehrt?
-- Wurde beim M&A-Prozess sichergestellt, dass Informationen aus dem Datenraum nicht für
- Eigengeschäfte genutzt wurden?
-- Gibt es Hinweise auf „Tipping" (gezielte Weitergabe zum Vorteil Dritter)?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Offenlegungs-Prüfprotokoll (Weitergabe × Tatbestand × Ausnahme × Ergebnis)
-2. Market-Sounding-Protokoll (DVO-konform)
-3. Wall-Crossing-Checklist
-4. Verteidigungsdossier für BaFin-Anfragen
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org,
-openjur.de, curia.europa.eu, bgh.de.

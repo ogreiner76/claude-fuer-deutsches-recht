@@ -82,12 +82,6 @@ Roboter im betrieblichen Einsatz sind Arbeitsmittel i. S. d. BetrSichV. Den Arbe
 - **Wesentliche Veränderung** verkannt – kann CE-Pflicht des Betreibers auslösen (Integrator wird Hersteller).
 - **Betriebsrat nicht beteiligt** – Betriebsvereinbarung anfechtbar.
 
-## Querverweise
-
-- `beschaeftigtendatenschutz-cobot`
-- `betreiber-mitverschulden-und-fehlbedienung`
-- `betriebsanleitung-sprache-und-warnhinweise`
-
 ## Checkliste Cobot-Inbetriebnahme
 
 - [ ] EU-Konformitätserklärung und Anleitung vom Hersteller liegen vor (deutsch)
@@ -120,3 +114,4 @@ Roboter im betrieblichen Einsatz sind Arbeitsmittel i. S. d. BetrSichV. Den Arbe
 - ISO 10218-1:2025; ISO 10218-2:2025; ISO/TS 15066:2016.
 - BetrVG § 87.
 - Live-Verifikation auf baua.de, dguv.de, eur-lex.europa.eu; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

@@ -84,13 +84,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
 
-## Output
-
-Mandats-Kurzaufnahme (Rolle/Unterlagen/Rechtsrahmen), Risiko-Ampel, Checkliste offener Prüfpunkte, Routing-Empfehlung zu Fachmodule.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
-
 ## Quellen
 
 Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
@@ -100,3 +93,4 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+

@@ -5,10 +5,6 @@ description: "DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Du
 
 # Due Diligence Reporting
 
-## Arbeitsbereich
-
-DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Due-Diligence-Workstreams zu einem integrierten DD-Bericht für M&A-Transaktionen. Normen: §§ 311 Abs. 2 und 444 BGB; SPA Representations & Warranties. Prüfraster: Executive Summary, Risikomatrix nach Workstreams, Priorisierung für SPA-Verhandlung, Abzugspositionen Kaufpreis. Output Integrierter DD-Bericht mit Deckblatt, Management-Summary, Risikotabelle, SPA-Handlungsempfehlungen. Abgrenzung: Einzelne Workstreams siehe due-diligence-legal, due-diligence-commercial-contracts; W&I-Schnittstelle siehe wi-insurance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -137,9 +133,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Integriertes DD-Reporting: Workstream-Matrix
 
 | Workstream | Hauptbefunde | Risikobewertung | SPA-Empfehlung |
@@ -257,3 +250,4 @@ Beim Verkaefer-initiierten Vendor DD erstellt ein unabhaengiger Berater den Repo
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+

@@ -5,10 +5,6 @@ description: "Gebietsschutz im Franchiserecht prüfen: exklusiver vs. relativer 
 
 # Franchiserecht: Gebietsschutz, Standortanalyse und Kannibalisierung
 
-## Arbeitsbereich
-
-Gebietsschutz im Franchiserecht prüfen: exklusiver vs. relativer Gebietsschutz, Kannibalisierung durch Nachbar-Franchisees und Online-Direktvertrieb. Kartellrechtliche Grenzen der Gebietsabschottung nach Vertikal-GVO EU 2022/720 und § 1 GWB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,13 +51,6 @@ Ein Franchisenehmer klagt, dass der Franchisegeber ein neues Outlet in unmittelb
 - Umsatzverluste durch Kannibalisierung sind schwer kausal nachzuweisen ohne Vergleichsdaten aus der Zeit vor der Verletzung.
 - Franchisegeber öffnet neue Channels (App, Delivery-Plattform) ohne Gebietsschutzregelung für diese Channels.
 
-## Output
-
-- Gebietsschutz-Audit mit Karte und Rechtsbewertung
-- Schadensberechnung (entgangener Gewinn nach § 252 BGB)
-- Unterlassungsbegehren oder einstweilige Verfügung
-- Empfehlung für Vertragsklausel zu Online-Gebietsschutz
-
 ## Quellen
 
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
@@ -70,6 +59,7 @@ Ein Franchisenehmer klagt, dass der Franchisegeber ein neues Outlet in unmittelb
 - https://dejure.org/gesetze/BGB/1004.html
 - https://dejure.org/gesetze/BGB/307.html
 - https://dejure.org/gesetze/BGB/252.html
+
 ## Vertiefung
 
 Gebietsschutzklauseln sind kartellrechtlich sensitiv: Exklusivgebiete sind nach Art. 2 Vertikal-GVO EU 2022/720 grundsätzlich freigestellt, wenn die Marktanteilsschwelle von 30 % nicht überschritten wird. Verboten sind dagegen Klauseln, die passive Verkäufe in andere Gebiete untersagen (Art. 4 lit. c Vertikal-GVO: Kernbeschränkung).
@@ -83,9 +73,12 @@ Die Kannibalisierungsproblematik entsteht besonders im Online-Zeitalter: Wenn ei
 - Umsatzverluste durch Kannibalisierung mit Vergleichsdaten aus der Zeit vor der Verletzung belegen.
 - Passive Verkaufsbeschränkung im Vertrag entfernen; das ist eine Kernbeschränkung nach Vertikal-GVO.
 - Gerichtsstandort für Schadensersatzklagen bei Gebietsschutzverstoß prüfen (allgemeiner Gerichtsstand oder Deliktsort).
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
 
 ## Abgrenzung und Einordnung
+

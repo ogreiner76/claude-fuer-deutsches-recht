@@ -59,14 +59,6 @@ Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87
 - Innoweb-Entscheidung gilt für Echtzeitsuche; reine Archivabfragen könnten anders bewertet werden.
 - Schadensberechnung bei unerlaubtem Crawling schwierig — Lizenzanalogie (§ 97 Abs. 2 UrhG) als Methode.
 
-## Output
-
-- Rechtsgutachten Crawler-Verbot (§ 87b UrhG + AGB + UWG)
-- AGB-Crawler-Klausel-Vorlage (§ 307 BGB-konform)
-- P2B-VO-Compliance-Check für Plattformbetreiber
-- Unterlassungsschreiben gegen Preisvergleichsportal
-- Eigener Datenbankschutz-Aufbauplan für Preisvergleichsdienst
-
 ## Quellen
 
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
@@ -75,3 +67,4 @@ Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87
 - [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
 - [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

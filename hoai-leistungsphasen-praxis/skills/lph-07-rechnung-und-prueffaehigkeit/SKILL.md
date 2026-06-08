@@ -5,10 +5,6 @@ description: "HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Abschlag, Schlussrec
 
 # LPH 7 Mitwirkung bei der Vergabe: Prüft abschlag
 
-## Arbeitsbereich
-
-HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,17 +12,6 @@ HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Abschlag, Schlussrechnung, Prüfba
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** gedacht. Er prüft prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen im Kontext dieser Phase: Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen. Bewertungsanker für Gebäude/Innenräume: 4 % Gebäude / 3 % Innenräume.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-7-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-7-Zweck: Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
 
 ## Ergebnis
 
@@ -47,3 +32,4 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 - Praktischer Kern: Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen
 - Bewertungsanker Gebäude/Innenräume: 4 % Gebäude / 3 % Innenräume
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
+

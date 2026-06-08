@@ -5,10 +5,6 @@ description: "Römisches Recht: Justinianische Novellen, griechische Rechtssprac
 
 # Justinianische Novellen und griechische Rechtskultur
 
-## Aufgabe
-
-Dieser Skill vertieft die **Novellen Justinians** und ihren Übergang in eine zunehmend griechischsprachige Rechtskultur. Er trennt Codex/Digesten/Institutionen von späteren kaiserlichen Neuregelungen und zeigt, wo byzantinisches Recht praktisch anders arbeitet als klassische Romanistik.
-
 ## Startfragen
 
 1. Geht es um Familienrecht, Erbrecht, Kirche, Verwaltung, Prozess oder allgemein Gesetzgebungstechnik?
@@ -40,8 +36,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Kurznotiz zur Novellen-Logik.
-- Synopse: justinianische Kompilation versus Novellenrecht.
-- Hinweise für Unterricht, Memo oder Quellenkritik.

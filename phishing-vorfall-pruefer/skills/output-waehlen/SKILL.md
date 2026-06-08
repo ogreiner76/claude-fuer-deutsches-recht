@@ -9,7 +9,6 @@ description: "Output-Wahl für Phishing-Vorfall-Prüfer: stimmt Adressat (Gesch�
 
 Diese Output-Weiche für **Phishing Vorfall Prüfer** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `675u-675w-banking` — 675u 675w Banking
@@ -36,12 +35,9 @@ Diese Output-Weiche für **Phishing Vorfall Prüfer** entscheidet, ob Memo, Antr
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Phishing-Vorfall-Prüfer sofort: Vorfallsmeldung Art. 33 DSGVO oder BSI-Meldung NIS2.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

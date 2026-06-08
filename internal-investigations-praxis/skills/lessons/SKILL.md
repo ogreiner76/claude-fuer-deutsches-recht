@@ -5,10 +5,6 @@ description: "INV Lessons im Internal Investigations im Internal Investigations 
 
 # INV Lessons
 
-## Arbeitsbereich
-
-**INV Lessons** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "INV Lessons im Internal Investigations im Internal Investigations 
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; StPO §§ 53, 97, 102, 110, 136, 137, 152, 153a, BGB §§ 280, 626, BRAO § 43a, GwG, AntiDopG, HinSchG; StPO; HinSchG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `inv-054-lessons-learned`
@@ -85,15 +82,6 @@ Dieser Skill extrahiert aus jeder abgeschlossenen Internal Investigation struktu
 - Compliance-Ausschuss oder Prüfungsausschuss erhält Lessons-Learned-Bericht.
 - Knowledge Management: anonymisierte Fallbeschreibungen für künftige Trainings und Analysen.
 
-## Red-Team-Fragen
-
-- Wurden die Root Causes des Verstoßes wirklich verstanden, oder wurden nur Symptome bekämpft?
-- Sind die Verbesserungsmaßnahmen bereits umgesetzt, oder existieren sie nur auf dem Papier?
-- Gibt es ähnliche Bereiche im Unternehmen, die dieselben Kontrolllücken haben und nicht adressiert wurden?
-- Würde das DOJ oder die BaFin die Lessons-Learned-Analyse als ernsthaft und vollständig bewerten?
-- Hat der Vorstand persönlich Verantwortung für die Lessons Learned übernommen, oder wurde es an die Compliance-Abteilung delegiert?
-- Wurden die Mitarbeiter, die den Verstoß gemeldet haben (Whistleblower), nach der Untersuchung geschützt und gewürdigt?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -113,3 +101,4 @@ Dieser Skill extrahiert aus jeder abgeschlossenen Internal Investigation struktu
 - **CMS-Wirksamkeits-Prüfliste** (IDW PS 980)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

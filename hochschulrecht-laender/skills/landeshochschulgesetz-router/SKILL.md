@@ -5,10 +5,6 @@ description: "Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz 
 
 # Landeshochschulgesetz Router
 
-## Arbeitsbereich
-
-Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Landeshochschulgesetz Router**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Landeshochschulgesetz Router**. Prüfe diese Anker am Sachverhal
 - `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruch.
 - `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -93,3 +88,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: Normenkette Hochschule. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

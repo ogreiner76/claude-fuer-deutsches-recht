@@ -39,10 +39,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Beispiel 5 – Euphemismus-Falle:** "Frau Schneider zeichnete sich durch eine direkte Art der Kommunikation aus und pflegte eine eigenständige Arbeitsweise." → Doppeltes rotes Signal: schwierig im Team und schwierig in der Hierarchie.
 
-## Ausgabeformat
-
-Der Skill listet alle erkannten roten Signale mit Zitat, Signaltyp (Direktformulierung/Strukturmangel/Negation/Euphemismus), Notentendenz und einer kurzen Handlungsempfehlung (Nachverhandlung empfohlen: ja/nein). Am Ende folgt eine Zusammenfassung mit der Gesamtzahl roter Flaggen.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -51,3 +47,4 @@ Der Skill listet alle erkannten roten Signale mit Zitat, Signaltyp (Direktformul
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

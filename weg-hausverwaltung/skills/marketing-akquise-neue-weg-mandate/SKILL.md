@@ -48,14 +48,6 @@ Wettbewerbsrechtliche Grenzen: Keine irreführenden Kostenersparnisversprechen o
 
 Vom Vor-Verwalter zu übergebende Unterlagen: vollständige Beschlusssammlung, alle laufenden Handwerkerverträge und Dauerverträge (Hausmeister, Versicherungen), Jahresabrechnungen der letzten 3 Jahre, aktuelle Rücklagenhöhe mit Belegen, Bankvollmachten (sofortige Ummeldung), Schlüssel und Schlüsselliste, Nebenkostenabrechnungen gegenüber Mietern, offene Gerichtsverfahren und Anwaltskorrespondenz, Gebäudeversicherungspolice.
 
-## Output
-
-- Pitch-Deck-Gerüst (10 Folien, Beschreibung Inhalte je Folie)
-- Honorarmatrix (Einheiten-Staffel: 1-20 / 21-50 / 51-100 / 100+ mit Sonderhonorarliste)
-- Erstgesprächs-Leitfaden (Fragen zu Objekt, Konflikten, Erwartungen)
-- Übernahme-Checkliste (Unterlagen, Fristen, Stichtag-Bilanz)
-- Angebots-Musterschreiben mit Leistungsverzeichnis
-
 ## Cross-Refs
 
 - Verwaltervertrag und Pflichten → `verwalterpflichten-26-27-weg`
@@ -66,3 +58,4 @@ Vom Vor-Verwalter zu übergebende Unterlagen: vollständige Beschlusssammlung, a
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 26 WEG und Honorar-Rechtsprechung über https://www.gesetze-im-internet.de/woeigg/__26.html und https://dejure.org live verifizieren. VDIV-Honorarempfehlungen und aktuelle Marktpreise vor Angebotserstellung prüfen.
+

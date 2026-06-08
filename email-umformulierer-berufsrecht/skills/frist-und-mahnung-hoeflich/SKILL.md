@@ -27,9 +27,6 @@ Dieser Skill stellt abgestufte Vorlagen für Erinnerungen, Mahnungen und Fristse
 - § 240 StGB — Noetigung: Grenze zwischen zulaessigem Folgehinweis und strafbarer Drohung
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot bei anwaltlichen Mahnschreiben
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -105,6 +102,3 @@ Zulässig: "Ich behalte mir vor, die Angelegenheit gerichtlich geltend zu machen
 **Vorher:** "Jetzt reicht es mir mit Ihnen!"
 **Nachher:** "Da trotz mehrfacher Erinnerung keine Reaktion erfolgt ist, sehe ich mich gehalten, formell zu mahnen und eine Frist bis TT.MM.JJJJ zu setzen."
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Überarbeitetes Mahnschreiben in der passenden Mahnstufe. (2) Einordnung der gewählten Mahnstufe. (3) Hinweis auf berufsrechtliche oder zivilrechtliche Besonderheiten.

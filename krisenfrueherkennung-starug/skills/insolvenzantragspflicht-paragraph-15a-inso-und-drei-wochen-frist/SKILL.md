@@ -207,14 +207,6 @@ NACH ANTRAGSTELLUNG:
 
 ---
 
-## Querverweise
-
-- → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Abgrenzung vor Antragspflicht
-- → `fortbestehensprognose-zweistufig` — FBP als Voraussetzung für modifizierten Überschuldungsbegriff
-- → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — persönliche Haftungsfolgen
-- → `pflichtenkollision-und-shift-of-fiduciary-duties` — Pflichtenwandel bei Insolvenzreife
-- → `restrukturierungsplan-architektur-paragraph-7ff-starug` — letzte StaRUG-Chance vor § 15a InsO
-
 ## Triage — Erste Einordnung
 
 Bevor losgelegt wird, klaere:
@@ -222,3 +214,4 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+

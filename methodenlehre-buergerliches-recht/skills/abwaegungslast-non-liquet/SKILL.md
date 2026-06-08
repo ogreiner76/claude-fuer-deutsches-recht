@@ -54,10 +54,6 @@ description: "Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen
 - Gesetzliche Vermutungen werden übersehen oder rechtswidrig umgekehrt.
 - Die institutionelle Konsequenz eines echten Abwägungspatts — Vorlage oder Zurückhaltung — wird nicht erwogen.
 
-## Output
-
-Das Skill erzeugt eine Non-liquet-Analyse: Feststellen, ob echte Abwägungsunklarheit besteht, Identifikation der einschlägigen Entscheidungsregel, Anwendung auf den Sachverhalt und Formulierungsvorschlag für das Gutachten oder den Schriftsatz. Einschließlich Beweislastaufklärung und institutioneller Konsequenz.
-
 ## Vertiefung: Beweislastverteilung als Systemfrage
 
 Die Verteilung der Beweislast im deutschen Zivilrecht folgt dem Grundsatz, dass jede Partei die Voraussetzungen der ihr günstigen Norm darlegen und beweisen muss. Bei Non-liquet-Situationen ist daher zuerst die Frage zu stellen: Welche Partei trägt die Last der Abwägungsunklarheit? Die Antwort ergibt sich aus dem Normzweck und dem Schutzbedürfnis der Parteien.
@@ -112,3 +108,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
+

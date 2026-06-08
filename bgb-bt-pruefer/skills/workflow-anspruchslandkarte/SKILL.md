@@ -5,10 +5,6 @@ description: "Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen str
 
 # Workflow: Anspruchslandkarte BGB BT
 
-## Arbeitsbereich
-
-Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auffinden und zuordnen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Anspruchslandkarte BGB BT: alle relevanten Anspruchsgrundlagen strukturiert auff
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Alle relevanten Anspruchsgrundlagen im BGB Besonderer Teil für einen Sachverhalt strukturiert auffinden, priorisieren und in einem Überblick abbilden: vertragliche, gesetzliche und deliktische Ansprüche.
 
 ## Normanker
 
@@ -58,25 +50,13 @@ Alle relevanten Anspruchsgrundlagen im BGB Besonderer Teil für einen Sachverhal
 - Bereicherungsrecht schließt vertragliche Ansprüche nicht aus, hat aber Subsidiarität.
 - Drittbeteiligte können eigene Ansprüche haben, die übersehen werden.
 - Verjährungsunterschiede zwischen den Anspruchsgrundlagen können entscheidend sein.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Anspruchslandkarte (Überblick aller Ansprüche, Parteien, Normen)
-- Prioritätsliste (stärkste Ansprüche zuerst)
-- Verjährungs-Matrix
-- Empfehlung: Welche Ansprüche verfolgen?
-
-## Qualitätsregeln
-
-- Alle drei Ebenen (vertraglich, gesetzlich, deliktisch) immer durchprüfen.
-- Konkurrenzen aktiv erkennen und begründen.
-- Verjährungsfristen für jeden Anspruch getrennt ausweisen.
 
 ## Anschluss-Skills
 
@@ -90,10 +70,4 @@ Alle relevanten Anspruchsgrundlagen im BGB Besonderer Teil für einen Sachverhal
 - https://www.gesetze-im-internet.de/bgb/
 - https://www.bundesgerichtshof.de/
 - https://openjur.de/
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

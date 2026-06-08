@@ -18,11 +18,7 @@ Arbeitsfokus: **Red-Team Qualitygate**. Prüfe diese Anker am Sachverhalt; ergä
 - `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
 - `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Aufgabe
-Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin zitierweise-deutsches-recht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
@@ -38,18 +34,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
 ## Zitier-Red-Team — Pflichtchecks vor Abgabe
 - **Halluzinations-Suche:** Jedes Az. wird gegen DPMA/EPA/BGH/BVerfG/EuGH-Register oder dejure.org/openjur.de verifiziert. Verbreitete Halluzinationsmuster: erfundene Senatsnummern, falsche Jahres-Punkte (z. B. "BVerfGE 123, 456" — bei BVerfGE Bd. 142 endet die Sammlung 2016!).
 - **Fundstellen-Plausibilität:** Bei NJW/NZG/GRUR: Jahr und Heft stimmen? Bei BGHZ: korrekter Band (BGHZ 0 bis derzeit ca. 230)? Bei BVerfGE: Bd. 1 bis ca. 165.
@@ -59,3 +43,4 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Reihenfolge:** Innerhalb Rspr.: BVerfG vor BGH vor OLG. Innerhalb Lit.: chronologisch neueste zuerst.
 - **Fußnoten-Lage:** Bei großen Werken nach Norm + Rn., nicht nach Seite (außer bei Anhängen).
 - Falle: BeckRS-Stelle als alleinige Fundstelle bei tragender Aussage — Verlage erwarten Hauptzeitschrift (NJW, NZG, GRUR) oder amtliche Sammlung (BGHZ, BVerfGE, BVerwGE).
+

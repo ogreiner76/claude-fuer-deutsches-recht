@@ -38,10 +38,6 @@ description: "Katalog starker positiver Formulierungen im Arbeitszeugnis, die au
 
 **Beispiel 5 – Grüne Verhaltensformel mit Erweiterung:** "Ihr Verhalten gegenüber Vorgesetzten, Kollegen und Kunden war stets einwandfrei und hinterließ durchweg hervorragende Eindrücke."
 
-## Ausgabeformat
-
-Der Skill listet alle grünen Signale mit Zitat, Signaltyp (Zufriedenheitsformel/Leistungsadjektiv/Verhaltensformel/Schlussformel/Verstärker) und Notentendenz. Am Ende gibt er die Gesamtzahl grüner Flaggen aus und vergleicht sie mit der Anzahl oranger und roter Signale.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
@@ -50,3 +46,4 @@ Der Skill listet alle grünen Signale mit Zitat, Signaltyp (Zufriedenheitsformel
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -5,10 +5,6 @@ description: "Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallver
 
 # Aufsichtspflicht Und Unfall
 
-## Arbeitsbereich
-
-Prüft Aufsichtspflicht, Unfall, Haftung und gesetzliche Unfallversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

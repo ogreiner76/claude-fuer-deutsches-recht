@@ -5,10 +5,6 @@ description: "Prüft Beschränkungen, Auflagen und Nebenbestimmungen auf Rechtsg
 
 # Auflagen brauchen mehr als Bauchgefühl
 
-## Arbeitsbereich
-
-Prüft Beschränkungen, Auflagen und Nebenbestimmungen auf Rechtsgrundlage, Tatsachenbasis und Verhältnismäßigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,17 +23,11 @@ Analysiere jede Auflage einzeln: Schutzgut, konkrete Tatsachen, unmittelbare Gef
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
 
-## Arbeitsweise
-Trenne harmlose Organisationsauflage von massiver Inhalts-, Orts-, Zeit- oder Routenbeschränkung.
-
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
 - Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
 - Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
 - Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Output
-Output: Ampeltabelle, Änderungsantrag an Behörde und Eilrechtsschutz-Baustein.
 
 ## Qualitätsgate
 - Wurde das richtige Landesrecht verwendet?

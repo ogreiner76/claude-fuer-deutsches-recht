@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentsc
 
 # Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung
 
-## Arbeitsbereich
-
-Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung. Beschwerdeverfahren nach FamFG und GBO, Zuständigkeit, Fristen, Rechtsmittel und Beschwerdeinhalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Beschwerde bei LG (Grundbuchsache): Gerichtskosten nach GNotKG/GKG (Auffangwert 
 ## Aussetzungsantrag
 
 Parallel zur Beschwerde kann beim Ausgangsgericht eine Aussetzung des Verfahrens beantragt werden, um eine bereits angeordnete Maßnahme vorläufig zu stoppen. Bei Grundbuchsachen: § 381 FamFG i.V.m. § 21 Abs. 1 FamFG. Selten erfolgreich; einstweiliger Rechtsschutz im FamFG ist begrenzt.
+

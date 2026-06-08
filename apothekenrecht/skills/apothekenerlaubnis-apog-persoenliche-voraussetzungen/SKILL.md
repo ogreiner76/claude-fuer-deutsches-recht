@@ -5,10 +5,6 @@ description: "Apothekenerlaubnis ApoG persönliche Voraussetzungen: prüft die e
 
 # Apothekenerlaubnis ApoG persönliche Voraussetzungen
 
-## Arbeitsbereich
-
-Apothekenerlaubnis ApoG persönliche Voraussetzungen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,14 +90,6 @@ Erforderliche Eingaben vom Mandanten:
 - Persönliche Leitung wird durch verwaltende Tätigkeit ersetzt; die Behörde verlangt jedoch tatsächliche Anwesenheit und pharmazeutische Letztverantwortung.
 - Bei OHG-Gründung wird ein Nicht-Apotheker als Gesellschafter geführt — verstösst gegen § 8 ApoG (Fremdbesitzverbot).
 - Vier-Apotheken-Grenze wird übersehen, wenn Mandant bereits drei Filialen führt.
-
-## Querverweise
-
-- `fremd-und-mehrbesitzverbot-apothekenrecht` (Eigentumsstruktur)
-- `filialapotheke-hauptapotheke-leitung-vertretung` (mehrere Betriebsstätten)
-- `widerruf-ruecknahme-ruhen-apothekenerlaubnis` (Verlust der Erlaubnis)
-- `inhaberwechsel-kauf-apothekenbetrieb` (Eigentümerwechsel)
-- `apothekenbetriebsordnung-grundpflichten` (sachliche Anforderungen)
 
 ## Quellen Stand 06/2026
 

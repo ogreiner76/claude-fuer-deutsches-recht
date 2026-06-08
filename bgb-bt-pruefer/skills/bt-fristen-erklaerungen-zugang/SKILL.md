@@ -10,10 +10,6 @@ description: "Prüft Fristen, Erklärungen und Zugang im Schuldrecht BT: Rücktr
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Fristen und empfangsbedürftige Willenserklärungen im Schuldrecht BT prüfen: Zugang, Wirksamkeit und Rechtsfolgen von Rücktritt, Kündigung, Mahnung und Nachfrist.
-
 ## Normanker
 
 - § 130 BGB: Zugang empfangsbedürftiger Willenserklärungen
@@ -51,25 +47,13 @@ Fristen und empfangsbedürftige Willenserklärungen im Schuldrecht BT prüfen: Z
 - Zu kurze Nachfrist wird automatisch auf angemessene Frist verlängert (h.M.).
 - Rücktritt per E-Mail ist zugegangen, wenn sie in den Machtbereich des Empfängers gelangt ist.
 - Kündigung per Telefon oder WhatsApp kann formwidrig sein (z.B. § 568 BGB Schriftform).
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Fristkalender mit Berechnungsschritten
-- Zugangsdokumentation
-- Rücktritts-/Kündigungsvoraussetzungen-Checkliste
-- Beweissicherungshinweise
-
-## Qualitätsregeln
-
-- Zugang immer von Abgabe und Absendung trennen.
-- Nachfrist-Angemessenheit nach Art und Umfang der Leistung beurteilen.
-- Bei elektronischen Erklärungen Zugangsfiktion und AGB-Klauseln prüfen.
 
 ## Anschluss-Skills
 
@@ -78,10 +62,3 @@ Fristen und empfangsbedürftige Willenserklärungen im Schuldrecht BT prüfen: Z
 - workflow-fristen-ruecktritt-kuendigung
 - kaufrecht-nacherfuellung-ruecktritt-minderung
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

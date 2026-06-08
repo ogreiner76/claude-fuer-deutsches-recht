@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Datentransfer in der internationalen
 
 # Datentransfer im internationalen Handel
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Datentransfer in der internationalen Handelspraxis. DSGVO Art. 44-49 (Drittlandübermittlung), Standardvertragsklauseln (SCC), EU-US Data Privacy Framework (2023) und Datenschutz in Handelsverträgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Internationale Handelsverträge beinhalten häufig Datenaustausch (Kundendaten, 
 - TIA-Dokumentation: Rechtslage des Empfängerlandes (Geheimdienste, Zugriff) bewerten
 - Handelsvertrag: DPA nach Art. 28 DSGVO als Anhang einbinden
 
-## Output
-
-- Drittlandtransfer-Entscheidungsbaum (DSGVO Art. 44-49)
-- SCC-Modul-Übersicht (2021)
-- TIA-Muster-Dokumentation
-
-## Quellenregel
-
-DSGVO: eur-lex.europa.eu (32016R0679). SCC 2021: eur-lex.europa.eu. DPF-Beschluss 2023/1795: eur-lex.europa.eu. Schrems II C-311/18: curia.europa.eu. Unsicherheit bleibt sichtbar.

@@ -5,10 +5,6 @@ description: "Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulag
 
 # Forschungszulage — Allgemein
 
-## Arbeitsbereich
-
-Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Fachmodule und liefert sofort Kurzbild plus Arbeitsentwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Forschungszulage — Allgemein**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -21,7 +17,6 @@ Arbeitsfokus: **Forschungszulage — Allgemein**. Prüfe diese Anker am Sachverh
 - `§ 6 FZulG` — Bescheinigung.
 - `§ 10 FZulG` — Festsetzung/Auszahlung.
 - `§ 90 Abs. 1 AO` — Mitwirkung und Belege.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -171,12 +166,6 @@ Ohne BSFZ-Bescheinigung keine Festsetzung. Wer die BSFZ-Stufe unterschätzt, ver
 - Zu lange auf "perfekten" BSFZ-Text gewartet, statt parallel die Stundenerfassung aufzubauen.
 - Andere Förderungen (ZIM, BMBF) nicht abgefragt, dadurch AGVO-Höchstintensität gerissen.
 
-## Output
-
-- Kurzbild plus Auswahl des passenden Fachmodule.
-- Erste grobe Förderchance.
-- Liste der unverzichtbaren Eingaben für den Folge-Skill.
-
 ## Quellen Stand 05/2026
 
 - FZulG: https://www.gesetze-im-internet.de/fzulg/
@@ -186,3 +175,4 @@ Ohne BSFZ-Bescheinigung keine Festsetzung. Wer die BSFZ-Stufe unterschätzt, ver
 - Zitierweise: `references/zitierweise.md`
 
 Konkrete Beträge, Fristen und KMU-Definition vom Antragsteller vor Einreichung live mit aktueller Gesetzesfassung und BSFZ-Portal abgleichen.
+

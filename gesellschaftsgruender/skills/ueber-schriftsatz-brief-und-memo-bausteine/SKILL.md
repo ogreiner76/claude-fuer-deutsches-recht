@@ -5,10 +5,6 @@ description: "Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgr�
 
 # Ueber: Schriftsatz-, Brief- und Memo-Bausteine
 
-## Arbeitsbereich
-
-Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgründung: fachlich vertieftes Modul mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,14 +51,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Befreiung § 181 BGB:** Bei Ein-Personen-GmbH zwingend Insichgeschäfts-Befreiung im Gesellschaftsvertrag und konkrete Erteilung; sonst kann GF mit sich selbst nicht wirksam kontrahieren.
 5. **Anschluss:** Geschäftsführervertrag-Skill `spezial-geschaeftsfuehrervertrag-livequellen-check`; bei Transparenzregister `gesellschaftsgruender-transparenzregister`.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

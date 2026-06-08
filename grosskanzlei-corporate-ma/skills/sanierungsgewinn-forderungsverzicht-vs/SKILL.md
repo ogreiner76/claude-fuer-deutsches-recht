@@ -117,16 +117,6 @@ Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
 - Mittelbare Anteilseignerwechsel auf Konzernebene (z. B. Wechsel am obersten Gesellschafter) werden übersehen.
 - Stimmrechte und nahestehende Personen werden in der 50 %-Berechnung nicht zusammengerechnet.
 
-## Querverweise
-
-- Plugin `steuerrecht-anwalt-und-berater`: § 8c KStG, § 8d KStG im Detail.
-- Plugin `insolvenzrecht`: Anteilseignerwechsel im Insolvenzplan.
-- Plugin `grosskanzlei-corporate-ma`:
- - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
- - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
- - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
- - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
-
 ## Quellen Stand 06/2026
 
 ### Normen
@@ -156,15 +146,3 @@ Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
 
 - `steuerrecht-anwalt-und-berater/stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse für stehen gelassene Verbindlichkeiten in der Liquidation als Plan-B-Pfad zum Mantelkauf-Szenario.
 
-## V61 Deal-OS Boost
-
-Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
-
-- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
-- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
-- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
-- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
-- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
-- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

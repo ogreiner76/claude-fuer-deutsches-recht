@@ -5,10 +5,6 @@ description: "GKV-Leistungen für Schwangere und Mütter: Mutterschaftsgeld (§ 
 
 # Mutterschaftsgeld und Schwangerschaftsleistungen
 
-## Arbeitsbereich
-
-GKV-Leistungen für Schwangere und Mütter: Mutterschaftsgeld (§ 24i SGB V), Schwangerschaftsvorsorge, Entbindungsleistungen und Nachsorge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,3 +91,4 @@ Dieser Skill klärt alle **GKV-Leistungen rund um Schwangerschaft und Geburt**: 
 - [Mutterschaftsrichtlinien G-BA](https://www.g-ba.de/richtlinien/19/)
 - [BSG Mutterschaftsgeld](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 24i SGB V](https://dejure.org/gesetze/SGB_V/24i.html)
+

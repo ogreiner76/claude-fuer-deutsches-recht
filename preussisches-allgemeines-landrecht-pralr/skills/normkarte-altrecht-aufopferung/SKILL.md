@@ -5,10 +5,6 @@ description: "PrALR: Normkarte Altrecht in heutiger Akte im Preußisches Allgeme
 
 # Pralr Normkarte Altrecht In Heutiger Akte
 
-## Arbeitsbereich
-
-PrALR: Normkarte Altrecht in heutiger Akte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ PrALR: Normkarte Altrecht in heutiger Akte. Arbeite entlang dieser konkreten Pr�
 - Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Wie taucht ALR-Altrecht in heutigen Akten auf? Praxisleitfaden.
 
 ## Typische Faelle
 
@@ -56,7 +48,3 @@ Wie taucht ALR-Altrecht in heutigen Akten auf? Praxisleitfaden.
 2. Welches Recht?
 3. Heute Ablöse moeglich?
 
-## Output
-
-- Altrechte-Analyse.
-- Bereinigungsantrag.

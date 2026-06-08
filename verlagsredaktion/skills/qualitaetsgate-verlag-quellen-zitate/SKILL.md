@@ -5,10 +5,6 @@ description: "Schlusspruefung für Verlagsoutputs vor Autor:innenversand, Satz, 
 
 # Qualitätstor Verlag
 
-## Arbeitsbereich
-
-Schlusspruefung für Verlagsoutputs vor Autor:innenversand, Satz, Onlinegang oder Druck mit Rechte-, Quellen-, Stil-, Fristen- und Produktionsampel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -30,14 +26,6 @@ Schlusspruefung für Verlagsoutputs vor Autor:innenversand, Satz, Onlinegang ode
 | Freigabe | Wer muss noch zustimmen? |
 | Produktion | Sind Dateien und Metadaten vollständig? |
 
-## Output
-
-- Go/No-Go.
-- Stopper.
-- offene Rückfragen.
-- finale To-do-Liste.
-- Versand-/Produktionsfreigabeentwurf.
-
 ## Schneller Arbeitsmodus
 
 - Erst klaeren: Produktart, Adressat, Verwendungsort, Frist und Freigabeperson. Wenn Angaben fehlen, mit einer kurzen Arbeitsannahme starten und offene Punkte sichtbar markieren.
@@ -50,10 +38,3 @@ Schlusspruefung für Verlagsoutputs vor Autor:innenversand, Satz, Onlinegang ode
 - Sind Rechte, Quellen, Namen, Titel, Preis, Termine und Freigaben als belegt oder offen markiert?
 - Gibt es genau die naechsten Schritte mit Owner, Frist und Eskalation?
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

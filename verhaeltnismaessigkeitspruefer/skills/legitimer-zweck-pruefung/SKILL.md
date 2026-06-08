@@ -48,7 +48,3 @@ Der gesetzgeberische Zweck muss tragfaehig sein. Wenn die Materialien
 einen ganz anderen Zweck verraten und der vorgetragene Zweck nicht
 ernsthaft erreicht wird, ist der Zweck vorgeschoben.
 
-## Output
-
-Tabelle mit Spalten: vorgetragener Zweck, Schranke (einfach versus qualifiziert),
-Tragfaehigkeit, Belege aus Materialien.

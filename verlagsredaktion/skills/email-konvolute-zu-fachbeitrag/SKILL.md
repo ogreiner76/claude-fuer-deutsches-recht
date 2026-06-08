@@ -5,10 +5,6 @@ description: "Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmat
 
 # E-Mail-Konvolute zu Fachbeitrag
 
-## Arbeitsbereich
-
-Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial für eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -88,14 +84,6 @@ EUR = Betraege auf 1.000 EUR gerundet, wenn Identifikation droht
 - Mails als Originalformat (Schriftverkehr) ungeprueft in Layout uebernommen - Layout-Bruch.
 - Chronologie verschoben durch Threading-Anzeigen aus Outlook.
 
-## Querverweise
-
-- `verl-roh-research-zu-essay` - aehnlicher Verwertungsprozess.
-- `rechtecheck-urhg-verlg` - Rechte an fremden Mails.
-- `quellen-zitate-fundstellencheck` - für Belegbehandlung.
-- `verl-aussagensicherheit-pruefung` - "darf das so im Druck?".
-- `workflow-dokumentenintake` - Intake.
-
 ## Quellen Stand 06/2026
 
 - BRAO § 43a Abs. 2 (Verschwiegenheit), [https://www.gesetze-im-internet.de/brao/](https://www.gesetze-im-internet.de/brao/).
@@ -104,3 +92,4 @@ EUR = Betraege auf 1.000 EUR gerundet, wenn Identifikation droht
 - UrhG § 51 (Zitatschranke), § 63 (Quellenangabe).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

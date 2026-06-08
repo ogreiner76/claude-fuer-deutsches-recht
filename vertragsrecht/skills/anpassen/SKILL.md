@@ -5,10 +5,6 @@ description: "Geführte Anpassung des Kanzleiprofils im Vertragsrecht — änder
 
 # Kanzleiprofil anpassen
 
-## Arbeitsbereich
-
-Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer "Profil anpassen", "Playbook ändern", "Eskalation aktualisieren", "Klauselposition ändern" oder "konfigurieren" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,17 +12,6 @@ Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Ein
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; §§ 305 ff. BGB, NDA, SaaS- — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Diese Skill ermöglicht die gezielte Anpassung einzelner Einstellungen im
-Kanzleiprofil, ohne das vollständige Erstgespräch erneut zu durchlaufen.
-Sie eignet sich für Situationen, in denen sich eine Verhandlungsposition,
-eine Eskalationsstufe, ein Klauselstandard oder eine Integrationseinstellung
-geändert hat.
-
-Lädt, wenn der Nutzer eine einzelne Änderung am bestehenden Profil vornehmen
-möchte — nicht für die Ersteinrichtung (dafür: `/vertragsrecht:vertragsrecht-kaltstart-interview`).
 
 ## Eingaben
 
@@ -68,6 +53,7 @@ begrenzt. Relevante Grenzen:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1 — Profil lesen
@@ -142,12 +128,6 @@ Schreibe in das gemeinsame Profil und weise darauf hin:
 
 > Erledigt. Ihre nächste Ausgabe spiegelt die Änderung wider. Weitere
 > Anpassungen? `/vertragsrecht:vertragsrecht-anpassen` ist jederzeit verfügbar.
-
-## Ausgabeformat
-
-Keine vollständige Neuschreibung des Profils — nur gezielter Diff (alter
-Wert → neuer Wert) mit Bestätigung und Downstream-Hinweis. Der Nutzer sieht
-genau, was sich geändert hat.
 
 ## Beispiel
 

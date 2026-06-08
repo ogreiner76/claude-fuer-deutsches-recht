@@ -17,10 +17,6 @@ Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BG
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill unterstützt Sie beim Drafting und bei der Prüfung von AGB-Klauseln im Verbraucher- und Unternehmergeschäft. AGB-Recht ist Vorschaltprüfung jeder vorformulierten Klausel; Fehler hier führen zur Unwirksamkeit der Klausel und zur Geltung des dispositiven Rechts (§ 306 II BGB).
-
 ## Eingaben
 
 - Vertragstyp und Branche.
@@ -65,13 +61,6 @@ Dieser Skill unterstützt Sie beim Drafting und bei der Prüfung von AGB-Klausel
 - Geltungserhaltende Reduktion in salvatorischer Klausel: läuft leer.
 - Schriftformklauseln in AGB, die strenger sind als § 126 BGB: kritisch (§ 309 Nr. 13 BGB).
 
-## Ausgabeformat
-
-- AGB-Set als Klauselkatalog mit Überschriften und Definitionen.
-- Tabelle Klausel-Risiko-Alternative (Klausel, einschlägige Norm, Risiko, alternative Formulierung).
-- Memo zur Einbeziehung, mit Hinweisen auf B2B-/B2C-Trennung (vgl. `b2b-vs-b2c-klausel-strategie`).
-- Versionierung dokumentieren.
-
 ## Beispiel
 
 Tabelle (Auszug, Haftungsbegrenzung):
@@ -85,14 +74,6 @@ Tabelle (Auszug, Haftungsbegrenzung):
 Mustertext (Einbeziehungsklausel, B2C-Onlineshop):
 
 > Es gelten die nachfolgenden Allgemeinen Geschäftsbedingungen in der zum Zeitpunkt des Vertragsschlusses gültigen Fassung. Sie sind im Bestellprozess vor Vertragsschluss eingeblendet und können in lesbarer Form gespeichert und ausgedruckt werden. Mit Abgabe der Bestellung erklärt sich der Kunde mit der Geltung dieser Bedingungen einverstanden.
-
-## Querverweise
-
-- `transparenzgebot-307-bgb` – Vertiefung zur Verständlichkeit.
-- `b2b-vs-b2c-klausel-strategie` – Trennung der Vertragswelten.
-- `haftungsausschluss-und-haftungsbegrenzung` – AGB-Grenzen der Haftungsbegrenzung.
-- `vertragsstrafe-339-bgb` – § 309 Nr. 6 BGB.
-- `kuendigungsklauseln-und-vertragsbeendigung` – § 309 Nr. 9 BGB Laufzeiten in Dauerschuldverhältnissen.
 
 ## Quellen (Stand 05/2026)
 

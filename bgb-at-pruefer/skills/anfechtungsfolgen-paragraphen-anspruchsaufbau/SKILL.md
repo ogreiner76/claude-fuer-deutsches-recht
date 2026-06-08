@@ -5,10 +5,6 @@ description: "Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tun
 
 # Anfechtungsfolgen — §§ 142 und 122 BGB
 
-## Arbeitsbereich
-
-Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,13 +54,6 @@ Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit 
 - Verjährungsbeginn der Kondiktionsansprüche: ab Kenntnis von Nichtigkeit und Person des Schuldners.
 - Bei gegenseitigen Verträgen: Saldotheorie oder Zweikondiktionentheorie anwenden.
 
-## Output
-
-- Gutachtenstil-Abschnitt: Rechtsfolge der Anfechtung nach § 142 BGB
-- Rückabwicklungsschema: Ansprüche und Gegenforderungen tabellarisch
-- Berechnung des Vertrauensschadens nach § 122 BGB mit Rechenweg
-- Hinweise zur Verjährung der Rückforderungsansprüche
-
 ## Quellen
 
 - [§ 142 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__142.html)
@@ -95,3 +84,4 @@ vertraut hätte. Deckelung auf das positive Interesse (§ 122 Abs. 1 a.E. BGB) v
 - Rückabwicklung nach § 812 BGB bei vollzogenen Leistungen?
 - § 122 BGB: Schadensersatz nur bei gutgläubigem Empfänger?
 - Kein Schadensersatz, wenn Empfänger den Anfechtungsgrund kannte (§ 122 Abs. 2 BGB)?
+

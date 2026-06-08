@@ -16,10 +16,6 @@ description: "Erkennt Freund-Feind-Rhetorik, Entpluralisierung, Loyalitaetszwang
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill erkennt, wann rechtliche Argumente nicht mehr mit Normen, Gründen und Belegen arbeiten, sondern politische Gegnerschaft zur Rechtskategorie machen. Er ist nützlich bei Parteiverbot, Vereinsverbot, Beamtenrecht, Sicherheitsrecht, Demonstrationen, Hochschulrecht, Plattformregeln, Arbeitsrecht und öffentlicher Kommunikation.
-
 ## Sofort klären
 
 1. Wer wird als Gegner, Gefahr, illoyal, systemfremd oder untragbar markiert?
@@ -65,11 +61,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Liefere eine Entgiftungsmatrix:
-
-| Kampfbegriff | Tatsachenkern | Rechtsnorm | geschütztes Gegenrecht | zulässige Reaktion |
-| --- | --- | --- | --- | --- |
-
-Schließe mit einer Formulierung, die harte rechtliche Konsequenzen nur an prüfbare Tatbestände knüpft.

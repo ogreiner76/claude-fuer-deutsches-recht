@@ -69,12 +69,6 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform für Belegtransfer zwis
 - 10 Jahre Aufbewahrung.
 - Belege im Mandanten-Online-Postfach.
 
-## Output
-
-- Konfigurierter Belegfluss DUO.
-- Buchungen mit Belegverknuepfung.
-- GoBD-konforme Archivierung.
-
 ## Strategie und Praxis-Tipps
 
 - DUO + DATEV Upload Online = Killer-Kombination für effizienten Belegfluss.
@@ -82,13 +76,6 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform für Belegtransfer zwis
 - Bei vielen kleinen Belegen: Mandant taeglich scannen, Sachbearbeiter woechentlich pruefen.
 - Bei eRechnungs-Empfang: Automatisierung Hebel.
 - DATEV-Tipp: DATEV Upload Online mit GoBD-konformer Mandanten-Schulung.
-
-## Querverweise
-
-- `stb-online-portal-datev-mandantenshop` — DUO.
-- `stb-erechnung-pflicht-b2b-2025-2026` — eRechnung.
-- `stb-pruefliste-belegabgabe-monatlich` — Belegabgabe.
-- `stb-datev-bwa-modul-bedienen-tipps` — DATEV.
 
 ## Quellen und Updates
 
@@ -98,14 +85,6 @@ Stand: 05/2026.
 - BMF v. 28.11.2019 zu GoBD.
 - DATEV Unternehmen Online und "Belege Online" Dokumentation (aktuelle Version pruefen).
 - Verifikations-Hinweis: konkrete Programmpfade und Modul-Bezeichnungen ggf. abweichend in aktueller DATEV-Version.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -135,3 +114,4 @@ Stand: 05/2026.
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

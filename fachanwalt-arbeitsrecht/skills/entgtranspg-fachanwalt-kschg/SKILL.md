@@ -5,9 +5,6 @@ description: "Entgtranspg Fachanwalt Kschg im Plugin Fachanwalt Arbeitsrecht: pr
 
 # Entgtranspg Fachanwalt Kschg
 
-## Arbeitsbereich
-
-**Entgtranspg Fachanwalt Kschg** ordnet den Fall über die tragenden Prüfungslinien: EntgTranspG Entgelttransparenzgesetz, Fachanwalt Erstprüfung und Mandatsziel, KSchG Risikoampel. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Entgtranspg Fachanwalt Kschg im Plugin Fachanwalt Arbeitsrecht: pr
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-entgtranspg-verhandlung-vergleich-und-eskalation`
@@ -38,9 +36,6 @@ description: "Entgtranspg Fachanwalt Kschg im Plugin Fachanwalt Arbeitsrecht: pr
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vollständige Strategie bei Entgelttransparenz und Entgeltdiskriminierung — vom Auskunftsanspruch über die Verhandlung bis zur AGG-Klage. Besonderer Fokus auf die BAG-Linie zum Paarvergleich und die EU-Lohntransparenz-Richtlinie.
 
 ## Einstieg
 Wenn eine Entgelttransparenz-Frage vorliegt, zuerst klären:
@@ -120,12 +115,6 @@ Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Verglei
 - `ar-leiharbeit-equal-pay-spezial` wenn Equal Pay und Entgeltdiskriminierung zusammentreffen
 - `workflow-redteam-qualitygate` für Anspruchsprüfung vor Klage
 
-## Quellenregel
-- BAG 8 AZR 300/24: [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de) Pressemitteilung; [dejure.org](https://dejure.org).
-- EntgTranspG-Normtext: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- EU-RL 2023/970: [eur-lex.europa.eu](https://eur-lex.europa.eu); Umsetzungsstand BMAS live prüfen.
-- Keine modellwissensbasierten AGG-Fallkonstellationen ohne Normgrundlage.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Entgeltdiskriminierungsanalyse ohne Vorlage von Vergütungsdaten.
 - Keine abschließende Prognose über Klagerfolg ohne vollständige Sachverhaltskenntnis.
@@ -143,9 +132,6 @@ Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Verglei
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Strukturierte Erstprüfung bei Annahme eines Arbeitsrechtsmandats — von der Rollenklärung und Interessenkonflikt-Prüfung über die Zielformulierung bis zur ersten Risikoampel. Grundlage für alle weiteren Skill-Aktivitäten im Plugin.
 
 ## Einstieg
 Wenn ein Mandat vorliegt oder angeboten wird, folgende Punkte klären:
@@ -244,12 +230,6 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 - `ar-kuendigungspruefung-workflow` wenn Kündigung das Kernproblem ist
 - `workflow-kaltstart-und-routing` für weiteres Routing im Plugin
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Keine modellwissensbasierten Kostenangaben ohne RVG-Normprüfung.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Kostenberechnung ohne vollständige Mandantsdaten.
 - Keine Steuerberatung zur steuerlichen Behandlung von Abfindungen.
@@ -267,9 +247,6 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Schnelle und strukturierte Risikobewertung einer Kündigung nach dem KSchG — als Ampel (Grün/Gelb/Rot) für die anwaltliche Erstberatung. Für jeden Prüfpunkt werden auch die typischen Gegenargumente der anderen Seite gezeigt.
 
 ## Einstieg
 Wenn eine Kündigung vorliegt, die unter das KSchG fällt:
@@ -373,12 +350,7 @@ Wenn eine Kündigung vorliegt, die unter das KSchG fällt:
 - `ar-abfindungs-rechner-modular` für Abfindungsberechnung
 - `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- BAG-Entscheidungen via [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de); [dejure.org](https://dejure.org).
-- Keine modellwissensbasierten Aussagen ohne Normgrundlage oder verifizierten Quellenbeleg.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine abschließende Kündigungsschutzprüfung ohne vollständige Dokumentenvorlage.
 - Keine garantierte Prognose zum Prozessausgang.
+

@@ -5,10 +5,6 @@ description: "Tankstellen-Franchise und Handelsvertreter-Nähe rechtlich einordn
 
 # Franchiserecht: Tankstellen-Franchise und Handelsvertreter-Nähe
 
-## Arbeitsbereich
-
-Tankstellen-Franchise und Handelsvertreter-Nähe rechtlich einordnen: Abgrenzung Kommissionsagentur vs. Franchise vs. Handelsvertretung, Ausgleichsanspruch nach § 89b HGB, Kraftstoffpreisbindung und kartellrechtliche Aspekte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Tankstellenbetreiber fragt, ob er als Franchisenehmer, Handelsvertreter oder
 - Ausgleichsanspruch nach § 89b HGB wird bei Vertragsende nicht rechtzeitig innerhalb der Jahresfrist geltend gemacht.
 - Kartellrechtliche Sonderregeln für Kraftstoff-Preismonitoring durch Markttransparenzstelle werden ignoriert.
 
-## Output
-
-- Einordnungs-Memo: Franchise vs. Handelsvertreter vs. Kommission
-- Ausgleichsanspruchs-Berechnung
-- Kartellrechtliches Compliance-Memo für Preisgestaltung
-- Empfehlung für Vertragsstruktur
-
 ## Quellen
 
 - https://dejure.org/gesetze/HGB/84.html
@@ -71,6 +60,7 @@ Ein Tankstellenbetreiber fragt, ob er als Franchisenehmer, Handelsvertreter oder
 - https://dejure.org/gesetze/GWB/1.html
 - https://dejure.org/gesetze/BGB/307.html
 - https://gesetze-im-internet.de/hgb/__89b.html
+
 ## Vertiefung
 
 Die rechtliche Einordnung von Tankstellenbetreibern ist ein Dauerbrenner des deutschen Handelsrechts. Das BSG und der BGH haben in zahlreichen Entscheidungen Kriterien entwickelt, die zwischen echtem Handelsvertreter (Verkauf auf Rechnung des Konzerns) und Eigenhändler (Kauf und Weiterverkauf auf eigene Rechnung) unterscheiden.
@@ -84,7 +74,10 @@ Für die kartellrechtliche Einordnung ist entscheidend: Beim echten Handelsvertr
 - Ausgleichsanspruch nach § 89b HGB bei echtem Handelsvertreter zwingend prüfen; Jahresfrist beachten.
 - Markttransparenzstelle für Kraftstoffe des Bundeskartellamts beachten; Preismonitoring durch MTS-K ist kartellrechtskonform.
 - Systemwechselrecht des Tankstellenbetreibers bei Fusion des Mineralölkonzerns vertraglich regeln.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

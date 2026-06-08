@@ -5,10 +5,6 @@ description: "Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer pr�
 
 # Bösgläubige Anmeldung und Sperrmarke
 
-## Arbeitsbereich
-
-Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer prüfen: Kenntnis älterer Benutzung, Behinderungsabsicht, Serienanmeldungen, Abmahnmodell, Nichtigkeit, Gegenabmahnung und Beweisführung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer prüfen: Kenntnis
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Prüfe, ob eine Marke als Sperr- oder Trittbrettfahrermarke angegriffen werden kann oder ob ein Bösgläubigkeitsvorwurf abgewehrt werden muss.
 
 ## Pflichtfragen
 
@@ -41,12 +33,7 @@ Prüfe, ob eine Marke als Sperr- oder Trittbrettfahrermarke angegriffen werden k
 4. **Registermuster suchen:** Wiederholte Anmeldungen fremder Zeichen, Klassenbreite, Nichtbenutzung, Verkaufsofferten.
 5. **Rechtsweg wählen:** DPMA/EUIPO-Nichtigkeitsverfahren, Widerklage, negative Feststellung, Vergleich.
 
-## Output
-
-- Bösgläubigkeits-Dossier.
-- Beweismatrix nach Indizien.
-- Entwurf für Nichtigkeitsantrag oder Abwehr.
-
 ## Vorsicht
 
 Bösgläubigkeit ist wertungsintensiv. Keine moralische Empörung als Rechtsersatz; die Belegkette muss tragen.
+

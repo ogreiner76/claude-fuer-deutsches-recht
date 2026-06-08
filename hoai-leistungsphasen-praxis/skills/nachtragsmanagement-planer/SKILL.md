@@ -5,10 +5,6 @@ description: "HOAI-Praxis: prüft Zusatzleistung, Änderung, Anordnung und Verg�
 
 # HOAI Querschnitt: Prüft zusatzleistung
 
-## Arbeitsbereich
-
-HOAI-Praxis: prüft Zusatzleistung, Änderung, Anordnung und Vergütungsanpassung; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,17 +12,6 @@ HOAI-Praxis: prüft Zusatzleistung, Änderung, Anordnung und Vergütungsanpassun
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Dieser Querschnitts-Skill bearbeitet **prüft Zusatzleistung, Änderung, Anordnung und Vergütungsanpassung** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
-
-## Arbeitsweise
-
-1. Klär Rolle, Projektart, Leistungsbild, beauftragte LPH, Vertrag, Honorarvereinbarung und aktuellen Konflikt.
-2. Ordne die Unterlagen nach LPH, Planstand, Freigabe, Kostenstand, Terminstand und Beweiswert.
-3. Trenne HOAI-Grundleistung, besondere Leistung, Bauvertragsrecht, Vergabe, öffentliches Recht und Haftung.
-4. Erzeuge ein knappes, anschlussfähiges Arbeitsprodukt für Bauherr, Planer, Bauunternehmen, Anwalt oder Sachverständigen.
 
 ## Ergebnis
 
@@ -40,3 +25,4 @@ Dieser Querschnitts-Skill bearbeitet **prüft Zusatzleistung, Änderung, Anordnu
 - HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
 - BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
+

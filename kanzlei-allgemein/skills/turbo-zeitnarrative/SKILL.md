@@ -33,13 +33,6 @@ Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit
 - § 13 GVG — Sachliche Zuständigkeit des LG (ab 10.000 EUR ab 01.01.2026)
 - §§ 935-945 ZPO — Einstweiliger Rechtsschutz: Verfuegungsgrund und Verfuegungsanspruch
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill bringt aus ungeordneten Informationen schnell einen gerichtsfähigen Entwurf: Klage, Replik, Antrag, Klageerwiderung, Schriftsatzantwort, einstweiliger Antrag oder Mandantenentwurf. Er priorisiert Nutzbarkeit: erst Struktur und Pflichtteile, dann Verfeinerung.
-
 ## Schnellstart
 
 Wenn wenig Zeit ist, fragen:
@@ -179,3 +172,4 @@ Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

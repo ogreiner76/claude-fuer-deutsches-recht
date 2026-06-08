@@ -51,9 +51,6 @@ Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und ide
 - **Art. 103 Abs. 2 GG** — Bestimmtheitsgrundsatz
 - **§ 40 StGB** — Tagessatz-System (Anzahl nach Schuld, Hoehe nach Einkommen)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pruef-Checkliste Strafbefehlsinhalt
 
 ```
@@ -107,3 +104,4 @@ Mandantenhinweis: verstaendlich-erklaerend, Fachbegriffe erklaeren.
 - Nichtigkeit des Strafbefehls fuehrt nicht automatisch zum Freispruch — Anklageerhebung moeglich.
 - Einspruch immer fristgerecht einlegen, unabhaengig von Fehlerruegen.
 - Anwaltliche Endkontrolle vor Versand.
+

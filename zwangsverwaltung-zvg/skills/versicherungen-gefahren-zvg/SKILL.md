@@ -5,10 +5,6 @@ description: "Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt.
 
 # Versicherungen und Gefahren
 
-## Arbeitsbereich
-
-Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Gebaeudeversicherung ist nicht bezahlt oder Schadenfall ist eingetreten. Normen § 154 ZVG Erhaltungspflicht § 823 BGB Verkehrssicherungspflicht VVG Versicherungsrecht. Prüfraster Gebaeudeversicherung Haftpflicht Beitragsrückstaende Schadenmeldung Deckungsprüfung Notmassnahmen Sicherung. Output Versicherungsprüfbericht mit Deckungsnachweis Schadenmeldung und Sicherungsmassnahmen. Abgrenzung zu zvg-instandhaltung-sicherung und zvg-konten-kassenführung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfal
 - Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Prüft und sichert den Versicherungsschutz des verwalteten Objekts.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
 
 ## Startet bei
 
@@ -78,9 +68,6 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 § 152 ZVG (ordnungsgemäße Verwaltung) → § 823 BGB (Verkehrssicherungspflicht) → § 836 BGB (Gebäudeeigentümerhaftung) → § 280 BGB (Pflichtverletzung) → § 9 ZwVwV (Versicherung und Gefahren) → VVG (Versicherungsvertragsrecht allgemein)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Versicherungen/Gefahren
 
 1. Ist die Gebäudeversicherung (Feuer Leitungswasser Sturm) aktiv?
@@ -100,3 +87,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Wasserschaden | Absperrung/Trocknung | SOFORT | [ ] |
 | Einbruchsschäden | Sicherung/Schlösser | HOCH | [ ] |
 | Elektrische Mängel | Elektrofachkraft | HOCH | [ ] |
+

@@ -5,10 +5,6 @@ description: "Anhörung nach § 28 VwVfG: Bedeutung, Pflicht der Behörde, Ausna
 
 # Anhörung vor Bescheid
 
-## Arbeitsbereich
-
-Anhörung nach § 28 VwVfG: Bedeutung, Pflicht der Behörde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhörung und Sofortmassnahmen vor belastender Entscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,14 +73,6 @@ Vor jedem belastenden Verwaltungsakt muss die Behörde grundsaetzlich anhoeren �
 - Frist versaeumt; keine Verlaengerung beantragt.
 - Hilfsweise Antraege vergessen (z. B. Ratenzahlung).
 - Eingang nicht beweissicher gemacht.
-
-## Querverweise
-- `frist-sofortcheck`
-- `widerspruch-einfach`
-- `rueckforderung-und-aufhebung`
-- `gebuehrenbescheid`
-- `bussgeld-anhoerung`
-- `ermessen-verstehen`
 
 ## Quellen Stand 06/2026
 - VwVfG §§ 28, 45, 46.

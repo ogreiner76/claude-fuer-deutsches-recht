@@ -25,12 +25,6 @@ Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen: Anwendungsfall F
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Hält bestrittene Forderungen nach Prüfungstermin auf Kurs und verhindert verlorene Nachläufe.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
-
 ## Startet bei
 
 - Forderung wurde bestritten
@@ -80,6 +74,3 @@ Bevor losgelegt wird, klaere:
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Bestreitung substantiiert?** Wer bestreitet, muss konkret begründen (Grund, Höhe, Rang). Bei Vorsatz-Forderungen § 184 InsO Schuldnerwiderspruch eigenständig prüfen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

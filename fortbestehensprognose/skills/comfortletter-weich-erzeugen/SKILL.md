@@ -5,10 +5,6 @@ description: "Erzeugt einen Comfortletter — eine weiche Erklärung des Patrons
 
 # Comfortletter (weich)
 
-## Arbeitsbereich
-
-Erzeugt einen Comfortletter — eine weiche Erklärung des Patrons oder Mutterunternehmens das Tochterunternehmen zu unterstuetzen. Im Gegensatz zur harten externen Patronatserklärung ist der Comfortletter nicht rechtsverbindlich durchsetzbar. Wirkung Reputation und Banken-Signal. Nicht ausreichend zur Berücksichtigung im insolvenzrechtlichen Status nach § 19 Abs. 2 InsO. Skill erzeugt Dokument plus Warnhinweis dass der Comfortletter die Fortbestehensprognose nicht traegt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -112,6 +108,3 @@ Mit freundlichen Grüßen
 3. **Formulierung?** Vage Formulierungen ("werden unterstuetzen") koennen trotzdem Haftung ausloesen.
 4. **Alternative?** Ersetze Comfortletter durch qualifizierten Rangruecktritt oder harte Patronatserklaerung wenn Fortbestehensprognose abgesichert werden soll.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

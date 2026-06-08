@@ -5,9 +5,6 @@ description: "Bauablauf VBG im Plugin Fachanwalt Bau Architektenrecht: prüft ko
 
 # Bauablauf VBG
 
-## Arbeitsbereich
-
-**Bauablauf VBG** ordnet den Fall über die tragenden Prüfungslinien: Abnahme des Bauwerks verweigern, Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen, Insolvenz des Bautraegers. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Bauablauf VBG im Plugin Fachanwalt Bau Architektenrecht: prüft ko
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-bau-architektenrecht-abnahme-verweigerung`
@@ -31,10 +29,6 @@ description: "Bauablauf VBG im Plugin Fachanwalt Bau Architektenrecht: prüft ko
 **Fokus:** Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Prüfraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt.
 
 ### Abnahme-Verweigerung wegen Mängeln
-
-## Zweck
-
-Mandate zur Abnahme: Auftraggeber will Abnahme verweigern wegen Mängeln; Auftragnehmer will Abnahme erreichen.
 
 ## 1) Eingangs-Abfrage
 
@@ -515,10 +509,6 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 
 ### Bauträger-Insolvenz — Erwerber-Schutz
 
-## Zweck
-
-Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, Sanierungs-Option.
-
 ## 1) Eingangs-Abfrage
 
 1. Bauträger-Vertrag mit Notar-Beurkundung?
@@ -662,9 +652,6 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 
 MaBV (Makler- und Bautraegerverordnung) — aktuell §§ 3-7 MaBV, vor Anwendung Stand des BMJ-Bundesanzeigers pruefen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Sofort-Check bei Bautraeger-Insolvenz
 
 | Frist | Norm | Zeitfenster |
@@ -699,10 +686,6 @@ nachweisbar. Bestehende Zitate IX ZR 109/04, IX ZR 235/12, IX ZR 285/14 bleiben.
 **Fokus:** HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen. Normen: HOAI, §§ 650p ff. BGB. Prüfraster: Leistungsphasen, anrechenbare Kosten, Mindestsaetze nach EuGH-Entscheidung. Output: Honorarberechnung HOAI. Abgrenzung: nicht Architektenvertrag-Gestaltung.
 
 ### HOAI-Honorar (nach EuGH-Urteil)
-
-## Zweck
-
-Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil zur Unwirksamkeit der Mindestsätze.
 
 ## 1) Eingangs-Abfrage
 
@@ -861,9 +844,6 @@ Verifizierbare Eckentscheidungen:
 
 Weitere konkrete Aktenzeichen vor Ausgabe immer per dejure.org / bundesgerichtshof.de verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## 12) Output-Template Honorarklage (Auszug)
 
 **Adressat**: Landgericht [ORT] — Tonfall sachlich-juristisch
@@ -915,3 +895,4 @@ K 4 — Leistungsphasennachweise
 <!-- VII ZR 144/17 (behauptet 11.10.2018): NOT_FOUND auf dejure.org — geloescht -->
 <!-- VII ZR 107/19 (behauptet 22.10.2020): NOT_FOUND auf dejure.org — geloescht -->
 <!-- UPDATE 05/2026: EuGH C-377/17 (04.07.2019), EuGH C-261/20 (18.01.2022) Thelen, BGH VII ZR 174/19 (02.06.2022) ergaenzt; alle ueber curia.europa.eu bzw. bundesgerichtshof.de verifiziert -->
+

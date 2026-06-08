@@ -20,17 +20,10 @@ description: "Steuerbescheid strukturiert auswerten und Angriffspunkte für Eins
 5. Liegt eine Außenprüfung zugrunde? → Schätzungsprobleme und Sicherheitszuschläge prüfen
 6. Soll AdV beantragt werden? → Liquidität und Frist klären
 
-## Zweck
-
-Bescheid systematisch lesen vor dem Einspruch.
-
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Eingaben
 
 - Steuerbescheid (PDF Original; gescannt mit OCR).
@@ -95,3 +88,4 @@ Analyseprotokoll mit:
 6. Empfehlung: Einspruch / Antrag § 129 AO / Änderungsantrag / nichts
 7. Antrag auf Aussetzung der Vollziehung erforderlich?
 8. Frist im Fristenbuch eintragen (Skill `anw-fristenbuch-steuerrecht`)
+

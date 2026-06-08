@@ -5,10 +5,6 @@ description: "Sachbereich Industriepolitik; Foerderrecht; EU-Beihilfen im Gescha
 
 # Industriepolitik; Foerderrecht; EU-Beihilfen (BMWE)
 
-## Arbeitsbereich
-
-Sachbereich Industriepolitik; Foerderrecht; EU-Beihilfen im Geschaeftsbereich BMWE: Normbestand (BHO; SubvG; AGVO; Notifizierungspflicht (Art. 108 AEUV); ggf. IPCEI-Regeln.); Akteure (BMWE; Bafa; Projekttraeger; EU-Kommission GD COMP.); EU-Bezug (AGVO; KMU-Definition; Klimaschutz-Beihilfeleitlinien; Chips Act; CRMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,23 +62,6 @@ Notifizierungsmangel; Doppelfoerderung; Mitnahmeeffekte; Bundes- und Landeskonku
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Industriepolitik; Foerderrecht; EU-Beihilfen
-Ressort: BMWE
-Kernnormen: BHO; SubvG; AGVO; Notifizierungspflicht (Art. 108 AEUV); ggf. IPCEI-Regeln.
-Akteure/Aufsicht: BMWE; Bafa; Projekttraeger; EU-Kommission GD COMP.
-EU/Voelkerrecht: AGVO; KMU-Definition; Klimaschutz-Beihilfeleitlinien; Chips Act; CRMA.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmwe` -> `legw-ressortaufgaben-bmwe` -> `legw-bmwe-industriepolitik-foerderrecht-und-beihilfen` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -91,6 +70,3 @@ Naechste Skills: legw-ressortaufgaben-bmwe; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

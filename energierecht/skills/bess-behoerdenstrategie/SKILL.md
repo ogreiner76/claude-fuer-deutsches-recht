@@ -5,10 +5,6 @@ description: "Plant Vorgespräche mit Gemeinde, Bauaufsicht, Immissionsschutz, F
 
 # Behördenstrategie und Bürgerkommunikation
 
-## Arbeitsbereich
-
-Plant Vorgespräche mit Gemeinde, Bauaufsicht, Immissionsschutz, Feuerwehr, Netzbetreiber, Polizei und Datenschutzaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,12 +27,6 @@ VwVfG, BauGB-Beteiligung, BImSchG-Verfahren, Informationsfreiheits-/Umweltinform
 2. Standort, Technik, Netzebene, Leistung, Kapazität, Betriebsmodell und Dokumentenstand erfassen.
 3. Genehmigungs-, Netz-, Sicherheits-, Markt- und Vertragsfragen in getrennte Spuren legen.
 4. Rote Punkte mit Belegen, zuständiger Stelle, Frist und konkretem nächsten Dokument ausgeben.
-
-## Output
-
-- Risikomatrix
-- Unterlagen- und Behördenliste
-- Mandantenmemo oder Board-Paper-Baustein
 
 ## Qualitätsgate
 

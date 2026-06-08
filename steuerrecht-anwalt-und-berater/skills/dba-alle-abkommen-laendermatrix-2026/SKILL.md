@@ -13,10 +13,6 @@ description: "DBA-Ländermatrix Deutschland 2026 nach BMF-Stand 01.01.2026. Rout
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Dieser Skill ist der Einstieg in alle DBA-Fälle, auch wenn es noch keinen länderspezifischen Einzel-Skill gibt. Er lädt bei Bedarf `references/dba-laendermatrix-2026.md`, bestimmt den Staat und zwingt danach zur konkreten DBA-Textprüfung.
-
 ## Einstieg
 
 1. Welche Staaten sind beteiligt?
@@ -34,13 +30,6 @@ Dieser Skill ist der Einstieg in alle DBA-Fälle, auch wenn es noch keinen länd
 4. Falls nein: `stb-dba-regionenrouter-nichteu` und `stb-dba-all-country-memo-generator` verwenden.
 5. Bei Quellensteuer zusätzlich `stb-dba-quellensteuer-atlas-weltweit`.
 6. Bei Doppelbesteuerung trotz DBA zusätzlich `stb-dba-map-eu-streitbeilegung`.
-
-## Output
-
-- DBA-Routingblatt mit Staat, Zeitraum, Abkommensart, Fundstellen-Prüfhinweis.
-- Liste der anzuwendenden Artikel.
-- Noch live zu prüfende Punkte.
-- Empfohlene Folgeskills.
 
 ## Quellenpflicht
 
@@ -116,10 +105,3 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 5. **All-Country-Memo-Generator** für das Memo selbst.
 6. **Querverweis auf relevante Querschnitts-Skills** (Methodenartikel, Quellensteuer, MAP).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

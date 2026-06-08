@@ -109,12 +109,6 @@ Konto Bezeichnung Soll-Summe Haben-Summe Saldo Soll Saldo Haben
 - Archivierung GoBD-konform 10 Jahre.
 - Versand an Mandant ueber DATEV Unternehmen Online oder verschluesseltes Portal.
 
-## Output
-
-- SuSa als PDF mit Zeitstempel.
-- Excel-Export für interne Auswertung.
-- GoBD-konforme Archivierung.
-
 ## Strategie und Praxis-Tipps
 
 - SuSa ist NICHT direkt für den Mandanten — meist interne Auswertung; bei externem Bedarf BWA bevorzugen.
@@ -123,15 +117,6 @@ Konto Bezeichnung Soll-Summe Haben-Summe Saldo Soll Saldo Haben
 - Bei Mandanten mit grossem Belegvolumen: SuSa kann mehrere Hundert Konten umfassen — Filter und Sortierung wichtig.
 - StBVV: SuSa-Erstellung pauschaliert in der Buchfuehrungspauschale.
 - DATEV-Tipp: SuSa per "Sachkontenauswertung" mit Filter "nur saldierte Konten" anfordern.
-
-## Querverweise
-
-- `stb-susa-monatlich-quartalsweise` — Periodische Erstellung.
-- `stb-susa-debitorenliste-osa-offene-posten` — Debitoren-OPOS.
-- `stb-susa-kreditorenliste-ova` — Kreditoren-OPOS.
-- `stb-susa-formfehler-pruefen` — Pruefung.
-- `stb-bwa-aufbau-grundlagen` — BWA aus SuSa.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -143,10 +128,3 @@ Stand: 05/2026.
 - BMF v. 28.11.2019, BStBl I 2019, 1269.
 - IDW PS 480.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

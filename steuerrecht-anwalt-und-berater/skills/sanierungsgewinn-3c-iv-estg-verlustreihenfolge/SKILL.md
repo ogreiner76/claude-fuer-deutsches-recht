@@ -5,10 +5,6 @@ description: "§ 3c Absatz 4 EStG Verlustreihenfolge: bestehende Verlustvorträg
 
 # § 3c Abs. 4 EStG — Verlustreihenfolge bei Sanierung
 
-## Arbeitsbereich
-
-§ 3c Absatz 4 EStG Verlustreihenfolge: bestehende Verlustvorträge mindern den Sanierungsertrag, bevor die Steuerbefreiung nach § 3a EStG greift. Folge: Verlustvortrag wird verbraucht, mindestens aber bis Mindestbesteuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -171,14 +167,6 @@ Anlage zur Steuererklärung Sanierungsjahr:
 - Gewerbesteuer-Parallele § 10a S. 1 GewStG vergessen.
 - Verlustvortrag nach Antrag bzw. Sanierung im Folgejahr noch angesetzt — ist aber verbraucht.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust`
-- `stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel`
-- `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-
 ## Quellen Stand 06/2026
 
 - § 3c Abs. 1, 4 EStG.
@@ -188,3 +176,4 @@ Anlage zur Steuererklärung Sanierungsjahr:
 - § 7b GewStG.
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

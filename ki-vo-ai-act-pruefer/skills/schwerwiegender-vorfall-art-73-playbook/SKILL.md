@@ -27,14 +27,3 @@ Wenn ein KI-System Schaden verursacht, Sicherheitsrisiken zeigt, diskriminierend
 - Root-Cause-Analyse starten.
 - Korrekturmaßnahme dokumentieren.
 
-## Output
-
-- Vorfall-Erstmeldung.
-- Incident Timeline.
-- Root-Cause-Fragen.
-- Behörden- und Kundenkommunikation.
-- Lessons-Learned-Vermerk.
-
-## Qualitätsregel
-
-Nicht jede Fehlfunktion ist meldepflichtig. Aber jeder potenziell schwerwiegende Vorfall braucht eine nachvollziehbare Entscheidung, warum gemeldet oder nicht gemeldet wurde.

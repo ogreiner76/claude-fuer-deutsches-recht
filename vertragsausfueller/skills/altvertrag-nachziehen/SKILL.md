@@ -5,10 +5,6 @@ description: "Altvertrag auf neue Vorlage nachziehen und aktualisieren: Anwendun
 
 # Altvertrag nachziehen
 
-## Arbeitsbereich
-
-Altvertrag auf neue Vorlage nachziehen und aktualisieren: Anwendungsfall bestehendes Vertragsverhältnis soll auf neue Vertragsvorlage überführt werden wegen Parteienwechsel, aktualisierter Klauseln oder Gesetzesänderungen. §§ 305 ff. BGB AGB-Recht, § 622 BGB bei Arbeitsverträgen. Prüfraster Parteienänderungen erkennen, veraltete Klauseln identifizieren, Altlasten markieren, Gesetzesänderungen seit Vertragsschluss einpflegen. Output aktualiserter Vertragsentwurf mit Änderungsprotokoll und offenen Punkten. Abgrenzung zu Template-Erkennung für neue Vorlagen und zu Redline-QA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,13 +31,6 @@ Altvertrag auf neue Vorlage nachziehen und aktualisieren: Anwendungsfall bestehe
 - § 550 BGB — Schriftformgebot bei langfristigen Mietverträgen (mehr als 1 Jahr)
 - § 195 BGB — Verjährung (regelmäßig 3 Jahre)
 - § 313 BGB — Störung der Geschäftsgrundlage (bei wesentlich veränderten Umständen)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Der Skill macht aus alten Verträgen neue Entwürfe. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.
 
 ## Startet bei
 

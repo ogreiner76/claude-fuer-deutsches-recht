@@ -5,10 +5,6 @@ description: "Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wen
 
 # DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO
 
-## Zweck
-
-Vollständige Datenschutz-Folgenabschätzung nach Art. 35 DSGVO: von der Schwellwertanalyse über die Risikoidentifikation bis zur Maßnahmenplanung und Freigabe. Das Format richtet sich nach dem Hausformat aus der Referenz-DSFA in `CLAUDE.md`; fehlt diese, wird die EDSA-Methodik (Leitlinien 09/2022) genutzt.
-
 ## Eingaben
 
 - Beschreibung des Verarbeitungsvorhabens (Zweck, Datenarten, Betroffene, Technologie)
@@ -114,21 +110,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Ausgabeformat
-
-DSFA im Hausformat (aus Referenz-DSFA in `CLAUDE.md`) oder, falls nicht verfügbar, folgendes Standardformat:
-
-1. Deckblatt (Vorhaben, Datum, Verantwortlicher, DSB, Version)
-2. Zusammenfassung (Executive Summary: Risikostufe Gesamt, Ergebnis, Freigabe-Status)
-3. Beschreibung Verarbeitungstätigkeit
-4. Schwellwertanalyse (Tabelle + Begründung)
-5. Notwendigkeit und Verhältnismäßigkeit
-6. Risikoidentifikation und -bewertung (Risikotabelle)
-7. Maßnahmen (Tabelle: Risiko | Maßnahme | Verantwortlich | Frist | Restrisiko)
-8. DSB-Stellungnahme (Platzhalter für Unterschrift)
-9. Freigabe-Dokumentation
-10. Überprüfungsplan (wann wiederholen)
-
 ## Beispiel (Schwellwertanalyse)
 
 **Vorhaben:** Einführung eines KI-gestützten Bewerberscreenings mit automatischer Vorauswahl.
@@ -212,3 +193,4 @@ Datum: [DATUM]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

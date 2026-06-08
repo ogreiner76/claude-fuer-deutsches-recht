@@ -16,10 +16,6 @@ description: "Belegkette für Forderungen und Zahlungen zurückverfolgen: Origin
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Eine Tabellenzelle die behauptet etwas zu sagen ohne dass man die Stelle im Dokument findet ist wertlos. Schlimmer: gefährlich. Dieser Skill macht jede Zellaussage rückverfolgbar.
-
 ## Komponenten der Belegkette
 
 1. **Antwort** — was in der Zelle steht
@@ -60,3 +56,4 @@ Diese Datei MUSS bei jeder Mandatsübergabe mitgehen. Sie ist die Reproduzierbar
 
 - Bei geänderten Dokumenten (Vertragsversion 2 überschreibt Version 1) erhält die Belegkette die alte Fassung — der Prüfer entscheidet ob neu zu rechnen ist.
 - Bei OCR-Fehlern (Zitat hat OCR-Wortwahl die im Original anders steht) kann die Volltextsuche fehlschlagen — das ist ein bekannter OCR-Falschalarm, kein Belegkette-Bruch.
+

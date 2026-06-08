@@ -5,10 +5,6 @@ description: "Ausweis Betriebsergebnis vor und nach Zinsen Deckungsbeitragsstruk
 
 # Betriebsergebnis und Deckungsbeitrag in der BWA
 
-## Arbeitsbereich
-
-Ausweis Betriebsergebnis vor und nach Zinsen Deckungsbeitragsstruktur in der BWA. Anwendungsfall analytische BWA mit Stufendeckungsbeitrag EBITDA EBIT EBT Mandant aus Industrie Handel Dienstleistung. Methodik fixe und variable Kosten Identifikation Branchenkennzahl. Output BWA mit Ergebnis-Pyramide Stufendeckung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,12 +111,6 @@ Umsatzerloese [Umsatz]
 - DB-Struktur erlaeutern, Mandant für die Stellschrauben sensibilisieren.
 - Massnahmen-Plan bei kritischer Marge: Preiserhoehung, Sortimentsbereinigung, Fixkostensenkung.
 
-## Output
-
-- BWA mit Deckungsbeitragsstruktur (DB I, DB II, EBITDA, EBIT, EBT).
-- Break-even-Analyse und Sicherheitsmarge.
-- Erlaeuterungstext für Mandant.
-
 ## Strategie und Praxis-Tipps
 
 - Stufendeckungsbeitrag ist bei Handel und Industrie Pflicht; bei Dienstleistung haeufig Stunden-DB sinnvoller.
@@ -128,15 +118,6 @@ Umsatzerloese [Umsatz]
 - Bei kalkulatorischen Positionen Mandant darauf hinweisen, dass es sich um Sicht der Betriebswirtschaft handelt, nicht um steuerliche Behandlung.
 - DB-Rate als Kennzahl monatlich tracken — sinkende DB-Rate bei steigendem Umsatz ist Alarmsignal (Preisdruck).
 - StBVV: Individuelle BWA-Konfiguration als Zusatzauftrag mit Zeithonorar abrechnen.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-bwa-kennzahlen-rentabilitaet-eigenkapital` — Rentabilitaetskennzahlen.
-- `stb-bwa-cashflow-laienverstaendlich` — Cashflow-Darstellung.
-- `stb-bwa-branchenvergleich-bbe-datev` — Branchenvergleich.
-- `stb-bwa-statische-liquiditaet-kennzahlen` — Liquiditaetskennzahlen ergaenzend zur DB-Rechnung.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -147,14 +128,6 @@ Stand: 05/2026.
 - DATEV BWA-Form 01, 11, 21.
 - Schweitzer/Kuepper, Systeme der Kostenrechnung (Standardlehrbuch).
 - Coenenberg, Kostenrechnung und Kostenanalyse.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -184,3 +157,4 @@ Stand: 05/2026.
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

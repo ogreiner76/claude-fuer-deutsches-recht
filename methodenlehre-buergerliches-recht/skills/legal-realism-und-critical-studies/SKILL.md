@@ -112,15 +112,6 @@ Kernsatz: "The prophecies of what the courts will do in fact, and nothing more p
 
 Die deutsche Methodenlehre hat von Realism und CLS gelernt: Wertungen offenlegen, nicht verbergen. Die juristische Begruendung muss die Wertungen sichtbar machen — das ist auch Forderung der Wertungsjurisprudenz.
 
-## Querverweise
-
-- `wertungsjurisprudenz-larenz-canaris` — herrschende Methodenposition.
-- `interessenjurisprudenz-heck` — Vorlaeufer einer offenen Methode.
-- `oekonomische-analyse-des-rechts-coase-posner` — andere Aussensicht.
-- `topik-viehweg-vs-systemdenken` — verwandt durch Offenheit.
-- `systemtheorie-luhmann-rechtssystem-autopoiese` — Gegenposition zur "Recht ist Politik"-These.
-- `diskurstheorie-habermas-alexy` — Gegenposition zum Indeterminismus.
-
 ## Quellen und Stand 05/2026
 
 - Oliver Wendell Holmes, The Path of the Law, Harvard Law Review 1897.
@@ -134,10 +125,3 @@ Die deutsche Methodenlehre hat von Realism und CLS gelernt: Wertungen offenlegen
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

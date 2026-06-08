@@ -53,12 +53,7 @@ Das Zurückbehaltungsrecht (CISG Art. 58 Abs. 1: Käufer zahlt gegen Übergabe; 
 - ZBR im Akkreditivgeschäft: Akkreditiv ist abstrakt — ZBR aus Grundgeschäft nicht gegenüber Bank
 - Netting-Vereinbarung: für Finanzderivate ISDA Master Agreement mit Close-Out-Netting-Klausel
 
-## Output
-
-- ZBR vs. Aufrechnung Abgrenzungsschema
-- Aufrechnungs-Erklärungsschreiben-Muster
-- ISDA Close-Out Netting Grundprinzip
-
 ## Quellenregel
 
 BGB §§ 273, 387-396: gesetze-im-internet.de. CISG Art. 58: uncitral.un.org. PICC Art. 8.1: unidroit.org. InsO § 94: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
+

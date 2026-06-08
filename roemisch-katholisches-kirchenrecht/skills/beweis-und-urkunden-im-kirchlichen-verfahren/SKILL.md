@@ -5,10 +5,6 @@ description: "Beweis und Urkunden im kirchlichen Verfahren: Urkunden, Zeugen, In
 
 # Beweis und Urkunden im kirchlichen Verfahren
 
-## Arbeitsbereich
-
-Beweis und Urkunden im kirchlichen Verfahren: Urkunden, Zeugen, Indizien, Gutachten und Glaubwürdigkeit; CIC can. 1526-1586; KKK 2464-2513; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Canones- und Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -83,3 +79,4 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+

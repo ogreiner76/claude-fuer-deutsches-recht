@@ -11,10 +11,6 @@ description: "Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbes
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Anwaltliche Beratung bei Erwerb von Anteilen an Gesellschaften mit inländischem Grundbesitz. Seit der GrEStG-Reform vom 1.7.2021 ist die Schwelle für die GrESt-Pflicht beim Share Deal von 95 % auf **90 %** abgesenkt; die Behaltefrist wurde auf **10 Jahre** verlängert. Praxisrelevant in nahezu jedem M&A-Mandat mit Immobilien-Hintergrund.
-
 ## Kaltstart-Rückfragen
 
 1. Welcher Anteilserwerb wird geplant (unmittelbar / mittelbar; Quote)?
@@ -178,15 +174,7 @@ und wird zusätzlich zum Kaufpreis fällig.
 | Bundesland-Steuersatz übersehen | Falsche Steuerprognose | Korrektur möglich | richtiger Hebesatz |
 | Signing/Closing-Trennung + Doppel-Festsetzung § 1 Abs. 2b + Abs. 3 | Doppelbesteuerung — AdV unter Berufung auf BFH II B 13/25, II B 47/25 sofort beantragen | Pruefung Verhaeltnismaessigkeit; Verzicht auf eine Festsetzung verhandeln | Einheitliche Festsetzung |
 
-## Querverweise
-
-- `anw-verbindliche-auskunft` — Pre-Signing-Klärung
-- `anw-mandat-triage-steuerrecht` — bei Mandatsanfang
-- `anw-organschaft-konzern-grundlagen` — bei Konzern-Restrukturierung
-- `fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings` — DD im M&A
-- `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` — Holding-Setup
-- `immobilienrechtspraxis` — bei vorgelagertem Grundstücksgeschäft
-
 ## Quellen und Updates
 
 Stand: 05/2026. StAGeRefG (Reform 1.7.2021): 95→90 %, 5→10 Jahre. Gleich lautende Ländererlasse vom 20.02.2026 als Verwaltungsauffassung einordnen und den BStBl-/Landesvolltext vor Ausgabe öffnen. Bundesland-Steuersätze 3.5 %–6.5 % vor Ausgabe aktuell prüfen. Bei Verschärfung RETT-Blocker oder weiterer Schwellenabsenkung aktualisieren.
+

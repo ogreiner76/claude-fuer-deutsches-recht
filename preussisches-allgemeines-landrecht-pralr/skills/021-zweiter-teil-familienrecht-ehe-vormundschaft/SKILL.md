@@ -5,10 +5,6 @@ description: "PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft im Preußische
 
 # PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft
 
-## Arbeitsbereich
-
-PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft. Arbeite entlang dieser konk
 - Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Zweiter Teil Familienrecht Ehe Vormundschaft** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
 ## Kaltstart in 6 Fragen
 
@@ -74,10 +66,3 @@ ALR II 1 / II 2 / II 3 / II 18 regelt Eherecht, eheliches Gueterrecht, Vormundsc
 2. Wann der Erbfall? — entsprechend.
 3. Heute lebende Frage? Direkt BGB.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

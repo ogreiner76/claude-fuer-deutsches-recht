@@ -5,10 +5,6 @@ description: "Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr im Nis2 Cybe
 
 # Deepfake Ceo Fraud
 
-## Arbeitsbereich
-
-Prüft Deepfake-, CEO-Fraud- und Payment-Fraud-Abwehr. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Fraud-Control-Memo. Wenn der Nutzer nur eine Kurzantwort möc
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

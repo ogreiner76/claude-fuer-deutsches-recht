@@ -137,22 +137,7 @@ Wichtig: Das Gericht entscheidet nur, DASS die Behörde entscheiden muss — nic
 - Klage ohne Erinnerung → erlaubt, aber Sachgrund hat dann mehr Gewicht
 - Nicht erkennen, dass Untaetigkeitsklage nur Pflicht zur Entscheidung erzwingt → realistisch bleiben
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — Ueberblick
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch
-- `widerspruchsbescheid-was-jetzt` — wenn Bescheid dann doch kommt
-- `kostenfrei-vs-aufwendungsersatz-193-sgg` — Erstattung
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Pruefungen oft Sachgrund — aber nicht unbegrenzt.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

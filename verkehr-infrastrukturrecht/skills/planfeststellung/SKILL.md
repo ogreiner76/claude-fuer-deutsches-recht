@@ -48,9 +48,6 @@ Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begl
 
 **Gesetzeslage 2026:** LNG-Beschleunigungsgesetz und Planungsbeschleunigungsgesetze (Genehmigungsbeschleunigungsgesetz Energie BGBl. I 2023 S. 1565); Wind-an-Land-Gesetz (BGBl. I 2022 S. 1353); Solarpaket I (BGBl. I 2024). Vor Mandatsanwendung aktuellen Stand pruefen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -132,3 +129,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Einwendungen muessen konkret und auf eigene Betroffenheit bezogen sein.
 - Klagebefugnis nach § 42 Abs. 2 VwGO muss sorgfaeltig begruendet werden.
 - Anwaltliche Endkontrolle bei allen Fristen und Einwendungen.
+

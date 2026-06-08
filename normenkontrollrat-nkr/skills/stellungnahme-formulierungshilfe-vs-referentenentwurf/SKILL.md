@@ -5,10 +5,6 @@ description: "Behandlung von Formulierungshilfen der Bundesregierung an Koalitio
 
 # NKR-Formulierungshilfe vs. Referentenentwurf
 
-## Arbeitsbereich
-
-Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,14 +91,6 @@ Rueckfrage nur wenn unklar: *"Liegt eine Formulierungshilfe der Bundesregierung 
 - "NKR-Befassung nicht erforderlich, da Initiative aus der Mitte"
 - Begruendungstext fragmentarisch
 
-## Querverweise
-
-- `nkr-aufgabe-und-kompetenz-nkrg`
-- `nkr-verfahrensgang-referentenentwurf-bis-bundestag`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-stellungnahme-pressepolitik-und-jahresbericht`
-- `legistik-werkstatt/legw-gesetzgebungsverfahren-bauleiter`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
@@ -110,3 +98,4 @@ Rueckfrage nur wenn unklar: *"Liegt eine Formulierungshilfe der Bundesregierung 
 - GO BT §§ 75 ff.
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — wiederholt zur Umgehungsproblematik
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundestag.de](https://www.bundestag.de)
+

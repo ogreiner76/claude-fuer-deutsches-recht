@@ -5,10 +5,6 @@ description: "Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise u
 
 # Verl-012 · Subskriptionspreis, Einführungspreis und Aktionspreis
 
-## Arbeitsbereich
-
-Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise und Aktionspreise — BuchPrG § 7 Preisänderung, Fristenregelungen, Preisbindungs-Compliance bei temporären Preissenkungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -126,3 +122,4 @@ Verlage nutzen **Subskriptions-, Einführungs- und Aktionspreise**, um Nachfrage
 - **Compliance-Checkliste Plattformen**: E-Book-Aktionen auf Richtigkeit geprüft
 - **UWG-Werbungscheck**: Preisangaben in Werbematerialien
 - **Aktionspreis-Briefing** für Buchhandel
+

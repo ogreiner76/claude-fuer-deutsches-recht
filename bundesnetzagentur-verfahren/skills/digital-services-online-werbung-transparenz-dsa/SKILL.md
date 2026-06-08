@@ -5,10 +5,6 @@ description: "Digital Services / Online-Werbung Transparenz DSA: anwaltlicher f�
 
 # Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA
 
-## Arbeitsbereich
-
-Digital Services / Online-Werbung Transparenz DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -60,11 +56,6 @@ Anwaltliche Arbeit an den DSA-Transparenzpflichten für Online-Werbung. Plattfor
 - EuGH-Rechtsprechung zu Werbung und Datenschutz nur mit Az., Datum, Fundstelle.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Compliance-Memo für die Plattform.
-- Werbeanzeige-Audit-Bericht.
-- Beschwerde an DSC.
-
 ## Beispiele
 - Online-Marktplatz schaltet Werbung ohne klare Kennzeichnung. Anzeige BNetzA, parallel UWG-Abmahnung.
 - VLOP betreibt Werbe-Repository, das nur 6 Monate speichert. Nachforderung Repository-Update bis 12 Monate (Art. 39 Abs. 1 DSA).
@@ -101,3 +92,4 @@ Werbedefinition korrekt? Kennzeichnung in jedem Exemplar (nicht nur in den AGB)?
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

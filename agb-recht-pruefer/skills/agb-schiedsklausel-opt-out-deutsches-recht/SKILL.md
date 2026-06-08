@@ -51,8 +51,3 @@ description: "Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie 
 5. Vollstreckbarkeit im Zielstaat (NYC 1958)?
 6. § 307 BGB-Kontrolle der Klausel (kein unangemessenes Hindernis für den Rechtsweg)?
 
-## Output
-
-- Memo zur Schiedsklausel-AGB-Rechts-Verzahnung.
-- Klauselentwurf "saubere Schiedsabrede in B2B-AGB".
-- Schriftsatzbaustein zur Anfechtung einer Schiedsabrede im AGB-Streit.

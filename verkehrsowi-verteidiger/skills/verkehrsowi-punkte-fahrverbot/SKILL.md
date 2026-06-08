@@ -39,9 +39,6 @@ Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Manda
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Punkte-Tabelle nach BKatV (Auswahl)
 
 | Verstos | Punkte |
@@ -79,3 +76,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Tilgungshemmung durch neue Eintragung beachten.
 - Freiwilliger Kurs nur bei <= 5 Punkten wirksam.
 - Anwaltliche Endkontrolle bei Kursempfehlung und Verwaltungsrechtsstrategie.
+

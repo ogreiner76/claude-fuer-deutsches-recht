@@ -122,12 +122,6 @@ MITTELVERWENDUNG:
 - Bei Bank-/Investor-Reporting: zusammen mit Bilanz und BWA.
 - Mandantenakte dokumentieren.
 
-## Output
-
-- Bewegungsbilanz als strukturiertes PDF.
-- Erlaeuterungstext zu wesentlichen Veraenderungen.
-- Vorstufe für Kapitalflussrechnung.
-
 ## Strategie und Praxis-Tipps
 
 - Die Bewegungsbilanz ist bei Kleinunternehmen keine Pflicht, gehoert bei mittelstaendischer Bilanzanalyse jedoch zum Standard.
@@ -136,14 +130,6 @@ MITTELVERWENDUNG:
 - Praxis-Tipp: Die Bewegungsbilanz wird ueblicherweise halbjaehrlich erstellt und nicht monatlich, da der Aufstellungsaufwand bei kuerzerem Intervall den Steuerungsnutzen uebersteigt.
 - StBVV: Diese Sonderauswertung wird ueber Zeithonorar oder Pauschalvereinbarung gesondert abgerechnet.
 - DATEV-Tipp: Das DATEV-Bilanzbericht-/BAB-Modul automatisiert die Bewegungsbilanz aus zwei SuSa-Stichtagen (Klickpfad: Rechnungswesen → Auswertungen → Bewegungsbilanz oder Bilanzanalyse-Auswertungspaket).
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-bwa-kapitalflussrechnung-iduk` — Kapitalflussrechnung.
-- `stb-bwa-cashflow-laienverstaendlich` — Cashflow.
-- `stb-liquiditaetsvorschau-3-6-12-monate` — Liquiditaetsplan.
-- `stb-bwa-sus-bilanz-pruefung` — Krisensignale.
 
 ## Quellen und Updates
 
@@ -154,14 +140,6 @@ Stand: 05/2026.
 - IDW S 6, IDW PS 305.
 - InsO § 19.
 - DATEV BAB-Modul.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -191,3 +169,4 @@ Stand: 05/2026.
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

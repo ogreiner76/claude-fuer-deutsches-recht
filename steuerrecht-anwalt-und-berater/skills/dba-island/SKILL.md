@@ -71,12 +71,6 @@ Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, je
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo Island.
-- Berechnungsbeispiel.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - EWR-Mitgliedschaft erlaubt § 6 AStG-Stundung bei Wegzug — Stundungsbedingungen pruefen.
@@ -154,12 +148,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Island 1971 mit Protokoll 1996 Fundstellen, BMF-Schreiben verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-norwegen`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Island 18.03.1971 (BGBl. 1973 II S. 209) mit Protokoll 20.06.1996. Dividenden-Quellensteuer: national 22 Prozent, DBA-Hoechstsatz 15 Prozent (BZSt 2025). MLI-Ratifizierungsstatus im BMF-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 3 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

@@ -5,9 +5,6 @@ description: "Long Covid Vergleichsverhandlung Strategie im Plugin Fachanwalt So
 
 # Long Covid Vergleichsverhandlung Strategie
 
-## Arbeitsbereich
-
-**Long Covid Vergleichsverhandlung Strategie** ordnet den Fall über die tragenden Prüfungslinien: Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychis. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +19,7 @@ description: "Long Covid Vergleichsverhandlung Strategie im Plugin Fachanwalt So
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `long-covid-erwerbsminderung-gdb-reha-beweis`
@@ -29,9 +27,6 @@ description: "Long Covid Vergleichsverhandlung Strategie im Plugin Fachanwalt So
 **Fokus:** Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychisch-somatischen Abgrenzungen durch Krankenversicherung, Rentenversicherung, Versorgungsamt und Sozialgericht.
 
 ### Long Covid/ME-CFS: Erwerbsminderung, GdB, Reha, Krankengeld und Beweis
-
-## Einsatz
-Für Fälle, in denen Behörden Long Covid als „unklar“, „psychisch“, „subjektiv“ oder „nicht objektivierbar“ abtun oder Leistungen wegen fehlender Belastbarkeit, Erwerbsminderung, GdB, Pflegegrad oder Reha streitig sind.
 
 ## Normenradar
 SGB V (Krankenbehandlung, Krankengeld), SGB VI (Reha und Erwerbsminderungsrente), SGB IX (Teilhabe, GdB), SGB X §§ 20, 24, 44, 45, 48, 60 ff., SGG §§ 86b, 103, 109.
@@ -42,9 +37,6 @@ SGB V (Krankenbehandlung, Krankengeld), SGB VI (Reha und Erwerbsminderungsrente)
 3. Akten: Befundberichte, Reha-Entlassungsbericht, Arbeitsplatzprofil, Aktivitätsprotokoll, Medikamentenplan, Fremdanamnese.
 4. Sachverständige: Fachrichtung passend wählen, Beweisfragen funktional formulieren, § 109 SGG als Option prüfen.
 5. Eilrechtsschutz: Krankengeld-/Existenzsicherung, Nahtlosigkeit, Reha vor Rente, Fristen.
-
-## Output
-Erzeuge eine Funktionsmatrix `Symptom / objektivierbarer Befund / Alltagsfolge / Arbeitsfolge / Beleg / Beweisfrage` sowie Widerspruchs- oder Klagebaustein.
 
 ## 2. `vergleichsverhandlung-strategie`
 
@@ -71,9 +63,6 @@ Erzeuge eine Funktionsmatrix `Symptom / objektivierbarer Befund / Alltagsfolge /
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Sozialrecht (SGB I-XIV), in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
@@ -223,3 +212,4 @@ Klassische Stolperfalle in Sozialrecht (SGB I-XIV):
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+

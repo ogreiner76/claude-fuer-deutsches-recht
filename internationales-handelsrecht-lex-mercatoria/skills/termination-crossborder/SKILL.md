@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Vertragsbeendigung im grenzüberschr
 
 # Vertragsbeendigung International
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Vertragsbeendigung im grenzüberschreitenden Handel. CISG Art. 26 / 49 / 64 Aufhebungserklärung, PICC Art. 7.3.1-7.3.6 Kündigungsrecht, Rückabwicklung und cross-border Durchsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Die Vertragsaufhebung nach CISG (Art. 26, 49, 64) setzt wesentliche Verletzung o
 - Zinsen: ab Zahlung des Kaufpreises rückwirkend (Art. 84 CISG)
 - Dokumentation: Aufhebungsgrund, Datum der Kenntnis, Erklärung alles schriftlich
 
-## Output
-
-- Aufhebungs-Checkliste (Zeitstrahl: Verletzung → Erklärung → Rückabwicklung)
-- Rückabwicklungs-Logistik-Muster
-- Schadensersatz-Aufhebungs-Kombinations-Schema
-
 ## Quellenregel
 
 CISG Art. 26, 49, 64, 81-84: uncitral.un.org. PICC Art. 7.3.1: unidroit.org. Schrifttum: Schlechtriem/Schwenzer (2019) Art. 81-84. Unsicherheit bleibt sichtbar.
+

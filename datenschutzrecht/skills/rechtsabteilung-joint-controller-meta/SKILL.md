@@ -5,9 +5,6 @@ description: "Rechtsabteilung Joint Controller Meta im Datenschutzrecht: prüft 
 
 # Rechtsabteilung Joint Controller Meta
 
-## Arbeitsbereich
-
-**Rechtsabteilung Joint Controller Meta** ordnet den Fall über die tragenden Prüfungslinien: Rechtsabteilungs-Fachmodul für Joint Controller im, Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und, Rechtsabteilungs-Fachmodul für Schufa- und Credit-Scoring. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Rechtsabteilung Joint Controller Meta im Datenschutzrecht: prüft 
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `rechtsabteilung-joint-controller-im-plattform-oekosystem`
@@ -63,10 +61,6 @@ Gemeinsame Verantwortlichkeit wird für Plattform, Händler, Franchise und Konze
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
-
 ## 2. `rechtsabteilung-meta-datenminimierung-und-zweckbindung`
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Meta-Datenminimierung und Zweckbindung: Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebungen abgeklopft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
@@ -102,10 +96,6 @@ Social-, AdTech- und CRM-Daten werden auf Speichergrenzen und Zweckverschiebunge
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
 
 ## 3. `rechtsabteilung-schufa-und-credit-scoring-im-kundenprozess`
 
@@ -143,10 +133,6 @@ Scoring-Workflows werden auf maßgeblichen Entscheidungseinfluss und menschliche
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
-
 ## 4. `rechtsabteilung-unternehmensgeldbusse-nach-deutsche-wohnen`
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
@@ -183,19 +169,11 @@ Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine ide
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
-
 ## 5. `regulierungs-luecken-analyse`
 
 **Fokus:** Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Prüfraster: Bestandsaufnahme bestehender Massnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten. Output: Lueckenanalyse Massnahmenkatalog Prioritaetenliste. Abgrenzung: nicht für spezifische Prüfungen wie AVV oder DSFA.
 
 ### DS-Gap-Analyse – Datenschutzrecht
-
-## Zweck
-
-Systematische Lückenanalyse zwischen dem aktuellen Datenschutz-Status der Organisation und neuen oder geänderten Anforderungen aus: EDSA-Leitlinien, DSK-Orientierungshilfen, Gesetzesnovellen (BDSG, TDDDG, sektorspezifisches Recht), Aufsichtsbeschlüssen oder EuGH-Entscheidungen. Ergebnis ist ein priorisierter Umsetzungsplan – kein pauschales Compliance-Dashboard.
 
 ## Eingaben
 
@@ -268,15 +246,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Ausgabeformat
-
-1. **Kopfzeile:** Analysierte Anforderung, Datum, Anwendungsbereich (ja/nein/teilweise)
-2. **Anforderungs-Inventur** (Tabelle)
-3. **Ist-Zustand-Abgleich** (Gap-Tabelle: Anforderung | Status | Lückenbeschreibung)
-4. **Gap-Bewertung** (mit Risikobeschreibung)
-5. **Maßnahmenplan** (Prioritäts-Tabelle mit Fristen)
-6. **Entscheidungsoptionen**
-
 ## Beispiel (EDSA-Leitlinie zu Drittlandtransfers)
 
 **Anforderung:** EDSA-Empfehlungen 01/2020 zur Transferfolgenabschätzung (TIA) – Schritt-6-Methodik nach Schrems II.
@@ -347,3 +316,4 @@ Geringe Lücken (GRUEN): [X]
 
 Empfehlung: Maßnahmenplan bis [DATUM]
 ```
+

@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Stadien und Grossveranstaltun
 
 # Bauueberwachung Stadion Tragwerk Dach (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Stadien und Grossveranstaltungsstaetten — Membrandach-Montage nach DIN EN 13782, Tragseil-Spannungsprotokoll, Stahltribueuen-Schweissnahtpruefung nach DIN EN ISO 5817, Brandschutzkonzept Sonderbau Versammlungsstaette nach MVStaettVO sowie KARO-Zertifizierung Fangtragwerk. Praxisnahe Koordination mit BIM360 und SAP PM für Stadionbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Fangtraegerkonstruktionen und Membranen erfordern Fadenspannungs-Messungen und H
 - Fluchtwegebreite zu schmal: Behörde verweigert Betriebsgenehmigung, Nacharbeiten teuer
 - KARO-Fangnetz ohne Zertifizierung: Betrieb ohne Sicherheitsnachweis, Nutzungsuntersagung
 
-## Output
-
-Membranspannungsprotokoll je Feld. Schweissnahtueberwachungsbericht VT/UT.
-Fangnetz KARO-Pruefprotokoll. Spielfeldbeleuchtungs-Lux-Messung. Brandschutz-Abnahme MVStaettVO.
-Abnahmeprotokoll Stadion Sonderbau. BIM360 As-Built-Dokumentation für Betreiber.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Stadion Sonderbau. BIM360 As-Built-Dokumentation für Betreiber
 - [DIN EN ISO 5817 Schweissnaehte](https://www.gesetze-im-internet.de/)
 - [DIN EN 1263-1 Fangnetze](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 179/10 Stahltribuene Mangel](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+179/10)
+

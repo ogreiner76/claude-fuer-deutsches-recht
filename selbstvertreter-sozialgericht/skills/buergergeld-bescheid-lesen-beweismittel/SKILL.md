@@ -5,9 +5,6 @@ description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Soz
 
 # Buergergeld Bescheid Lesen Beweismittel
 
-## Arbeitsbereich
-
-**Buergergeld Bescheid Lesen Beweismittel** ordnet den Fall über die tragenden Prüfungslinien: Bescheid lesen, Welche Beweismittel gelten am SG, Buergergeld nach SGB II. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Buergergeld Bescheid Lesen Beweismittel im Selbstvertretung am Soz
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bescheid-lesen-tenor-begruendung-belehrung`
@@ -226,26 +224,9 @@ Vortragen Sie, wie viele Indizien zusammenpassen.
 - Sachverstaendigen-Frage nicht klar formuliert → das Gericht braucht klare Fragestellungen
 - Atteste alt (mehrere Jahre) → aktuelle einholen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `amtsermittlungsgrundsatz-103-sgg` — das Gericht ermittelt mit
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste konkret
-- `zeugenbeweis-sozialgericht-373-zpo-analog` — Zeugen
-- `medizinische-gutachten-strategie-laien` — Gutachten
-- `sachverstaendigen-wahlrecht-109-sgg` — § 109-Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Beweisrecht SGG i.V.m. ZPO klassisch.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `buergergeld-jobcenter-sgb-ii`
 
@@ -381,16 +362,6 @@ Jobcenter rechnet alte Forderungen mit Buergergeld auf. Pruefen Sie:
 - KdU stillschweigend zugestimmt → nicht zu hoch ansetzen, aber durchsetzen
 - Vermoegen verschwiegen → Strafbarkeit Betrug!
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `eilantrag-buergergeld-jobcenter` — Eilantrag
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch
-- `anfechtungsklage-54-sgg` — gegen Sanktion
-- `verpflichtungsklage-54-sgg` — auf Mehrleistung
-- `grundsicherung-sgb-xii` — wenn nicht erwerbsfaehig
-- `wohngeld-und-sozialhilfe-grenzfaelle` — Abgrenzung
-
 ## Quellen und Aktualitaet
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -490,3 +461,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 3. Aerztliches Attest noetig?
 4. Hoehe richtig?
 5. Antrag separat zu stellen?
+

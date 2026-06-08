@@ -127,21 +127,7 @@ Vergleich ist grundsaetzlich bindend. Anfechtung nur in Ausnahmefaellen (Irrtum,
 - "Vergleich heisst, Streit ist beendet." → Korrekt.
 - "Ich kann nach 6 Monaten widerrufen." → Nein, Vergleich endgueltig.
 
-## Querverweise
-
-- `terminvorbereitung-checkliste` — Vorbereitung.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten.
-- `urteil-rechtskraft-705-zpo` — Alternative.
-- `zwangsvollstreckung-querverweis-substitutionsagent` — Vergleichs-Vollstreckung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 278 ZPO unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

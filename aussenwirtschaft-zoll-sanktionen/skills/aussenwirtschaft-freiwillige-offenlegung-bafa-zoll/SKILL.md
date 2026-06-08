@@ -5,10 +5,6 @@ description: "Strategische und operative Vorbereitung einer freiwilligen Selbsta
 
 # Freiwillige Offenlegung bei BAFA und Zoll: Strategie und Vorbereitung
 
-## Arbeitsbereich
-
-Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAFA oder Hauptzollamt nach §§ 22 Abs. 4 AWG und 371 AO analog: Strafmildernde Wirkung, Sachverhaltsaufklaerung, Zeitpunkt, Form und Inhalt der Anzeige, Koordination mit Strafverfolgungsbehoerden. Output: Selbstanzeigenschreiben und Verteidigungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAF
 - Bei laufenden Ermittlungen ist Offenlegung nur im Rahmen der Verteidigungsstrategie sinnvoll.
 - Nachtraegliche Korrekturen in ATLAS-Systemen sind moeglicher Beweis; nur mit Behördenabstimmung.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Selbstanzeigenschreiben an BAFA/Hauptzollamt, Sachverhaltschronologie, Schadensquantifizierung, Massnahmenplan und Verteidigungsstrategie-Kurzpapier.
-
 ## Quellen
 
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [BAFA Exportkontrolle Verstoss](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ausfuhrkontrolle_node.html)
 - [AO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/index.html)
 - [Zoll.de Zollrecht und Strafrecht](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollkodex/zollkodex_node.html)
+

@@ -5,10 +5,6 @@ description: "Roemischer Importhandel mit dem Orient: Gold Silber Seide Edelstei
 
 # Rom 130 Import Aus Orient Aurum Silberbarren
 
-## Aufgabe
-
-Skill für den roemischen Luxusgueterimport.
-
 ## Hauptgueter
 
 - Pfeffer und Gewuerze aus Indien.
@@ -63,7 +59,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Memo zur roemischen Wirtschaftsbilanz.

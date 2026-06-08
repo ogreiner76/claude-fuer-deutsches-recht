@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Audit-Rechte gegenüber Lieferanten.
 
 # Audit-Rechte gegenüber Lieferanten
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Audit-Rechte gegenüber Lieferanten. Vertragliche Grundlage, Umfang (Qualität, Umwelt, Menschenrechte, Finanzprüfung), Ankündigung, Datenzugang, Ergebnisverwertung und LkSG-Prüfpflichten bei mittelbaren Zulieferern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,16 +48,6 @@ Audit-Rechte in Lieferverträgen ermöglichen dem Auftraggeber die Überprüfung
 - LkSG-Risikoanalyse: erst Fragebogen, dann risikobasiert physisches Audit
 - CAR-Prozess: Frist setzen (30/60/90 Tage je nach Schwere); Follow-up-Audit verankern
 - Shared Audit: SEDEX/EcoVadis-Plattform für Multi-Stakeholder-Auditsharing nutzen
-
-## Output
-
-- Audit-Klausel-Muster (Supply Chain)
-- Supplier Self-Assessment-Fragebogen-Grundstruktur
-- CAR-Prozess-Beschreibung
-
-## Quellenregel
-
-LkSG §§ 4-5: gesetze-im-internet.de. ISO 19011:2018: iso.org. SA8000: saasaccreditation.org. DSGVO Art. 28: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.
 
 ## Normen und Rechtsprechung
 

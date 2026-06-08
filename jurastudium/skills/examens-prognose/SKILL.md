@@ -5,10 +5,6 @@ description: "Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statis
 
 # Examensprognose / JPA-Statistik
 
-## Arbeitsbereich
-
-Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,18 +12,6 @@ Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendu
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill analysiert **vergangene Examsklausuren** desselben Justizprüfungsamts (JPA) und erstellt eine **gewichtete Prognose** für kommende Prüfungen. Er hilft dabei, Lernzeit auf examensrelevante Themen zu konzentrieren, statt gleichmäßig über alle Rechtsgebiete zu verteilen.
-
-Grundlage:
-- Vom Nutzer hochgeladene **JPA-Klausuren** aus dem Lernprofil
-- Öffentlich bekannte **Statistiken des BMJV** (Bundesministerium der Justiz) zur Bestehensquote und Fächerverteilung
-- **JPA-spezifische Schwerpunkte** (bekannte Präferenzen einzelner Prüfungsämter)
-- **Aktuelle Rechtsentwicklungen** (z. B. BGB-Reformen, neue BGH-Leitentscheidungen)
-
-**Wichtiger Vorbehalt:** Eine Prognose ist eine Gewichtungshilfe für die Lernzeitplanung, keine Vorhersage. Alle Prognosepunkte werden mit `[UNSICHER – Prognose]` markiert.
 
 ## Eingaben
 
@@ -99,40 +83,6 @@ Auf Basis der Gewichtungsmatrix:
 **Für inhaltliche Kontrolle:**
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Ausgabeformat
-
-### Examensprognose (Vollformat)
-
-```
-**Examensprognose – [Rechtsgebiet] – [Bundesland] / JPA [X]**
-Stand: [Datum der Analyse]
-
-⚠️ Hinweis: Diese Prognose ist eine Lernzeit-Gewichtungshilfe, keine Vorhersage.
-Alle Punkte mit [UNSICHER – Prognose] markiert.
-
-**Datenbasis:**
-- [N] eigene JPA-Klausuren analysiert [WENIG MATERIAL falls <5]
-- BMJV-Statistik [Jahr]
-- Bekannte JPA-Präferenzen [Bundesland]
-
-**Gewichtungsmatrix:**
-[Tabelle]
-
-**Priorität A – Schwerpunkt Lernzeit:**
-1. [Thema]: [Begründung] [UNSICHER – Prognose]
-2. [Thema]: …
-
-**Priorität B – Zweite Lernphase:**
-[…]
-
-**Aktuelle Rechtsentwicklungen die du kennen solltest:**
-- [Thema]: [Kurzbeschreibung] [Modellwissen – prüfen]
-
-**Verknüpfte Skills:**
-→ /jurastudium:lernplan (Prognose in Lernplan übertragen)
-→ /jurastudium:examensvorbereitung-fragen --bundesland [X] [Rechtsgebiet]
-```
-
 ## Beispiel
 
 **Anfrage:** Examensprognose BGB Schuldrecht, Bayern, basierend auf 7 JPA-Klausuren
@@ -161,3 +111,4 @@ BGB-Reform 2022 (VerbrRRL): Neuer § 434 BGB – subjektiver, objektiver und mon
 - **Aktualitätslücken:** BGH-Entscheidungen der letzten 12 Monate sind im Modell möglicherweise nicht vollständig. Vor dem Examen: NJW und JuS der letzten zwei Hefte prüfen.
 - **Nur Priorität-A-Themen lernen:** Examsklausuren enthalten bewusst seltene Normen als Differenzierungspunkte. Priorität-C-Themen nicht weglassen.
 - **BMJV-Statistik fehlinterpretieren:** Bestehensquoten sagen nichts über Themenverteilung aus. Nur Klausuranalyse ergibt Themengewichtung.
+

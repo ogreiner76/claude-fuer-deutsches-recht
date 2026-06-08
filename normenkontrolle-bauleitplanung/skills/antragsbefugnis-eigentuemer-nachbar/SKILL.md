@@ -5,10 +5,6 @@ description: "Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag 
 
 # Antragsbefugnis § 47 Abs. 2 VwGO
 
-## Zweck
-
-Zweite Säule der Zulässigkeit. Die Antragsbefugnis filtert nicht selbst betroffene Bürger heraus. Wer sie versäumt, scheitert ohne Sachprüfung.
-
 ## Schritt 1 — Maßstab Möglichkeitstheorie
 
 ### Wortlaut § 47 Abs. 2 S. 1 VwGO
@@ -136,6 +132,3 @@ Zweite Säule der Zulässigkeit. Die Antragsbefugnis filtert nicht selbst betrof
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

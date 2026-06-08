@@ -5,10 +5,6 @@ description: "Familienkonflikte in der Betreuung: trennt Betreuerrolle, Angehör
 
 # Familienkonflikt, Grenzen und Rollen
 
-## Zweck
-
-Familienbetreuung ist oft fachlich machbar, aber emotional schwer. Dieser Skill ordnet Konflikte, ohne die Betreuung in Familienstreit zu verwandeln.
-
 ## Rollenklärung
 
 Unterscheide:
@@ -54,17 +50,9 @@ Arbeitsfokus: **Familienkonflikt, Grenzen und Rollen**. Prüfe diese Anker am Sa
 - `§ 5 BtOG` — Beratung und Unterstützung.
 - `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- Konfliktkarte.
-- Datenschutz- und Auskunftsantwort an Angehörige.
-- Gesprächsleitfaden für Familientermin.
-- Sachstandsmitteilung an Betreuungsgericht.
-- Red-Team: Ist der Betreuer befangen oder überfordert?
 
 ## Tonregel
 
 Keine Familienpsychologie spielen. Alles auf Rolle, Beleg, Wunsch, Aufgabenkreis und Schutzbedarf zurückführen.
+

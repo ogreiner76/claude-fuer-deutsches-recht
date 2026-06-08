@@ -65,10 +65,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Unternehmer verletzt eigene Informationspflicht nach § 86a HGB.
 - Berichtspflichten ohne Dokumentation — Beweisprobleme im Streitfall.
 
-## Output
-
-Berichtspflicht-Analyse, Vertragliche Berichtsregelung Entwurf, Abmahnungsschreiben.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +85,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
 - [Art. 4 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 86 HGB](https://dejure.org/gesetze/HGB/86.html)
+

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittel
 
 # Stadtrecht und Handelsstaedte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittelalter. Magdeburger Recht, Luebisches Recht, Hanse, Kaufmannsgilden und Entstehung des fruehen Handelsrechts in Stadtrechtsfamilien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das mittelalterliche Stadtrecht entstand als Privileg der Stadtgruender (Landesh
 - Keine Fernwirkung moderner Handelsrechtsbegriffe auf mittelalterliche Praxis
 - Vergleichende Stadtrechtsforschung: Dilcher, Ebel, Kroeschell als Sekundaerliteratur
 
-## Output
-
-- Stadtrechtsfamilien-Karte: Magdeburger und Luebisches Recht im Ueberblick
-- Handelsrechtliche Kerninstitute des Stadtrechts: Wechsel, Seerecht, Kauf
-- Vergleich mittelalterliches Stadtrecht vs. HGB 1897
-
-## Quellenregel
-
-Stadtrechtsquellen: MGH Constitutiones et Acta, Landesarchiv-Editionen. Hansisches Urkundenbuch (HUB): historische Ausgabe. Hansische Rezesse: Historische Kommission. Kein Blindzitat.

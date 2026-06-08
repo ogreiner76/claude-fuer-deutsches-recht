@@ -9,10 +9,6 @@ description: "Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, F
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
-## Einsatz
-
-Anwendungsfall: eine Akte übernommen, vertreten oder kurzfristig im Sitzungsdienst weitergeführt werden muss. Ziel ist eine Übergabe, die nicht nur erzählt, sondern sofort handlungsfähig macht.
-
 ## Einstieg
 
 1. Aktenzeichen, Dezernat, Vertretungslage und Eilfristen feststellen.
@@ -28,7 +24,6 @@ Anwendungsfall: eine Akte übernommen, vertreten oder kurzfristig im Sitzungsdie
 - **Risikokontrolle:** Haftfristen, Verjährung, Beschlagnahmen, Grundrechtseingriffe und entlastende Tatsachen zuerst prüfen.
 - **Kommunikation:** klare Verfügung an Geschäftsstelle oder Polizei, keine unklaren Wiedervorlagen.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -39,10 +34,4 @@ Konkret zu prüfen:
 - § 168b StPO (Aufzeichnung)
 - § 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)
-## Output
 
-Erzeuge einen Übergabevermerk mit Ampel, Fristenblatt, offenen Punkten, Sofortverfügung und Vorschlag für die nächste Abschlussentscheidung.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle.

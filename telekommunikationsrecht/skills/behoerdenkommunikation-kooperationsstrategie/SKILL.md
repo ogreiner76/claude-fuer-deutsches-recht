@@ -5,10 +5,6 @@ description: "Kommunikationsstrategie gegenüber der Bundesnetzagentur: kooperat
 
 # Behördenkommunikation mit BNetzA
 
-## Arbeitsbereich
-
-Kommunikationsstrategie gegenüber der Bundesnetzagentur: kooperativ, präzise, aktenfest, geheimnisschonend und entscheidungsorientiert. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Kommunikationsstrategie gegenüber der Bundesnetzagentur: kooperativ, präzise, 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für regulierte Unternehmen und Beschwerdegegner.
-
 ## Norm- und Quellenanker
 
 VwVfG; TKG; Geschäftsgeheimnisgesetz; Compliance-Dokumentation.
-
-## Arbeitsfragen
-
-1. Was ist Ziel der Kommunikation?
-2. Welche Fakten sind gesichert?
-3. Welche Geheimnisse sind zu markieren?
-
-## Output
-
-Kommunikationsleitfaden und Antwortentwurf.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Kommunikationsleitfaden und Antwortentwurf.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

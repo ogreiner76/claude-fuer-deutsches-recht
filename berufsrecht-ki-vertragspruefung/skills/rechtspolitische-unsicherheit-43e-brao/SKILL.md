@@ -5,10 +5,6 @@ description: "Rechtsunsicherheit bei § 43e BRAO und KI-Outsourcing dokumentiere
 
 # Rechtsunsicherheit zu § 43e BRAO dokumentieren
 
-## Zweck
-
-Dieser Skill ist kein Meinungsaufsatz, sondern ein Aktenwerkzeug. Er hält fest, wo die Norm relativ klar ist, wo KI neue Reibung erzeugt und welche Entscheidung die Kanzlei trotz Unsicherheit verantwortet.
-
 ## Unsicherheitsfelder
 
 - Wie weit reicht die Erforderlichkeit bei modernen KI-Diensten?
@@ -41,12 +37,3 @@ Nicht als Garantie, aber als Verteidigungslinie:
 - menschliche Endkontrolle
 - Incident-Plan
 
-## Output
-
-Erstelle einen **Unsicherheits- und Reformmonitor-Vermerk** für die Kanzleileitung mit:
-
-- Ampel
-- vertretbarer Arbeitslinie
-- nicht vertretbaren Varianten
-- Monitoringpflicht
-- konkreten Nachverhandlungspunkten

@@ -115,21 +115,7 @@ Theoretisch moeglich, aber selten. Wenn Beweis-Notwendigkeit besteht, beantragt 
 - "Ich brauche keine Anwesenheit." → Im vereinfachten Verfahren oft nicht erforderlich. Aber wenn Termin: pflichtschuldig erscheinen.
 - "Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR.
 
-## Querverweise
-
-- `klage-streitwert-angabe-3-zpo` — Streitwert berechnen.
-- `klageschrift-pflichtbestandteile-253-zpo` — Klageschrift.
-- `terminvorbereitung-checkliste` — Termin vorbereiten.
-- `kostenrisiko-streitwert-berechnen-gkg` — Niedriger Streitwert = niedrige Kosten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 495a ZPO aktuelle Fassung: Wertgrenze 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

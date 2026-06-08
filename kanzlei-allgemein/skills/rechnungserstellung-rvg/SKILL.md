@@ -21,9 +21,6 @@ description: "Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG 
 - Nr. 2300, 3100, 3104 VV RVG — Geschaefts-, Verfahrens- und Terminsgebuehr
 - Nr. 7001, 7002 VV RVG — Auslagenpauschale Kopien und Entgelte für Post-/Telefonkommunikation
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - **RVG** Rechtsanwaltsvergütungsgesetz — § 10 Berechnung der Vergütung; Anlage 1 (RVG-VV) Vergütungstabelle.
@@ -138,3 +135,4 @@ Konsolen-Rechner für RVG-Gebühren nach Anlage 2 (Stand 01.01.2021):
 - Umsatzsteuer (Default 19 %).
 
 Aufruf: `python3 werkzeuge/rvg_gebuehrenrechner.py --wert 25000 --faktor 1.3`. Liefert Netto, USt., Brutto in deutscher Zahlenschreibweise. Ersetzt nicht die RVG-Abrechnung im Kanzleisystem, sondern hilft beim schnellen Plausibilisieren.
+

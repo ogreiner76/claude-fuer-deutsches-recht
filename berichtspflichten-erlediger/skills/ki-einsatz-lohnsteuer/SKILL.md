@@ -5,10 +5,6 @@ description: "KI-gestützte Berichtserstellung: Datenextraktion, Plausibilität,
 
 # KI zum Ausfüllen und Validieren nutzen
 
-## Arbeitsbereich
-
-KI-gestützte Berichtserstellung: Datenextraktion, Plausibilität, Red Flags, Freigabe und keine ungeprüfte Behördenabgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ KI-gestützte Berichtserstellung: Datenextraktion, Plausibilität, Red Flags, Fr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für sichere Nutzung von KI bei Formularen und Meldungen.
-
 ## Norm- und Quellenanker
 
 DSGVO; Geschäftsgeheimnisse; KI-VO je nach System; Fachrecht.
-
-## Arbeitsfragen
-
-1. Welche Daten dürfen in KI?
-2. Welche Plausibilitätschecks?
-3. Wer gibt final frei?
-
-## Output
-
-KI-mit Human-Freigabe und Audit-Trail.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ KI-mit Human-Freigabe und Audit-Trail.
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

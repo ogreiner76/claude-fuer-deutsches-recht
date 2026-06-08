@@ -37,12 +37,6 @@ Wichtig: mehrere parallele Wege (intern, WBO, Strafrecht) können und sollten gl
 - WBO — Beschwerderecht
 - StGB §§ 177, 184i — strafrechtliche Tatbestände
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - Was ist das konkrete Verhalten?
@@ -93,21 +87,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Muster-WBO-Beschwerde bei sexueller Belästigung
 - Tabelle: Beschwerdewege und Fristen
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/soldgg/ — SoldGG
-- https://www.gesetze-im-internet.de/agg/ — AGG
-- https://www.gesetze-im-internet.de/stgb/ — StGB §§ 177, 184i
-- https://www.gesetze-im-internet.de/wbo/ — WBO
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -117,3 +96,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

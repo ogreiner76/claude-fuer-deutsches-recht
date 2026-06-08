@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Vertragshandbuch für den Exporteur.
 
 # Contract Playbook für Exporteure
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Ein Contract Playbook hilft Exporteuren, ihre Standardpositionen und Verhandlung
 - Länder-spezifische Anpassung: EV in USA (UCC Filing), China (lokale Registrierung)
 - Revisionszyklus: Playbook jährlich auf Rechtsentwicklungen (CISG-Rspr., VBER, LkSG) aktualisieren
 
-## Output
-
-- Contract-Playbook-Struktur-Template
-- Klausel-Prioritätenliste (Must/Should/Nice)
-- BATNA-Analyse-Vorlage für internationale Kaufverhandlungen
-
-## Quellenregel
-
-CISG: uncitral.un.org. ICC Regeln 2021: iccwbo.org. LkSG: gesetze-im-internet.de. VBER 2022/720: eur-lex.europa.eu. Schrifttum: International Trade Law Handbook (Praxis-Quellen). Unsicherheit bleibt sichtbar.

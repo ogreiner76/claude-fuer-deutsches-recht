@@ -45,13 +45,6 @@ description: "Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach 
 - Gegenüber Minderjährigem abgegebene einseitige Erklärungen: §§ 111 und 131 BGB beachten.
 - Taschengeld-Paragraph § 110 BGB gilt nur für Verträge, nicht für einseitige Geschäfte.
 
-## Output
-
-- Prüfungsschema einseitiges Rechtsgeschäft mit Minderjährigem
-- Abgrenzungstabelle: § 111 BGB vs. § 108 BGB
-- Gutachtenstil-Abschnitt mit Subsumtion
-- Klausurlösungsskizze: Kündigung durch Minderjährigen
-
 ## Quellen
 
 - [§ 111 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__111.html)
@@ -86,3 +79,4 @@ Rechtsgeschäfte. Alle unterliegen bei Minderjährigen dem Einwilligungserforder
 - § 111 BGB: Endgültige Unwirksamkeit — keine Genehmigung möglich?
 - Ausnahme § 111 S. 2 BGB: Einwilligung bei Abgabe vorgelegt?
 - Abgrenzung zu §§ 107/108 BGB: Einseitiges oder mehrseitiges Rechtsgeschäft?
+

@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Produktionsvertrag (Manufacturing Ag
 
 # Produktionsvertrag International
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Produktionsvertrag (Manufacturing Agreement) international. Spezifikationspflichten, Qualitätssicherung (IATF 16949, ISO 9001), IP-Schutz, Exklusivität, Verlagerungsschutz und CISG-Anwendbarkeit auf Werklieferung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Produktionsverträge verpflichten einen Hersteller zur Fertigung nach Spezifikat
 - Geheimhaltung: NDA + Zugangsprotokoll + digitale DRM-Maßnahmen
 - Qualität: QMS-Anforderungen als Vertragsanhang; Audit-Recht vertraglich verankern
 
-## Output
-
-- Manufacturing-Agreement-Checkliste (IP, Qualität, Tooling, Exit)
-- Tooling-Eigentumsklausel-Muster
-- QMS-Anforderungs-Anhang-Struktur
-
-## Quellenregel
-
-CISG Art. 3: uncitral.un.org. BGB §§ 631 ff.: gesetze-im-internet.de. HGeschGehG: gesetze-im-internet.de. RL (EU) 2016/943: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

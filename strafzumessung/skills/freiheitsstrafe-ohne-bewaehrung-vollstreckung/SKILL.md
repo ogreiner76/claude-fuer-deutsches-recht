@@ -103,16 +103,10 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 - **Anhörung** nicht persoenlich wahrgenommen: Strafvollstreckungskammer trifft auf einen "unsichtbaren" Verurteilten.
 - **Sofortige Beschwerde** gegen ablehnenden Reststrafenaussetzungs-Beschluss versaeumt (Frist 1 Woche, § 311 StPO).
 
-## Querverweise
-
-- `freiheitsstrafe-strafmass-pruefen` — Strafmass.
-- `bewaehrung-56-stgb-positive-sozialprognose` — Aussetzung in erster Instanz.
-- `bewaehrungswiderruf-56f-stgb` — wenn Bewaehrung widerrufen.
-- `gesamtstrafenbildung-53-54-stgb-erste-instanz` — Vollstreckung von Gesamtstrafen.
-
 ## Quellen und Stand 05/2026
 
 - §§ 38, 51, 57, 57a, 57b StGB in der geltenden Fassung.
 - §§ 35, 36 BtMG.
 - §§ 454, 455, 455a, 456, 456a, 458, 462a StPO.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

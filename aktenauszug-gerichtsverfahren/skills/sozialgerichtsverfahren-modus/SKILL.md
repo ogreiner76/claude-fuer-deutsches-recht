@@ -17,10 +17,6 @@ Aktenauszug für SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilant
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für sozialgerichtliche Verfahren nach dem Sozialgerichtsgesetz (SGG). Sozialgerichtsverfahren betreffen Streitigkeiten im Bereich der Sozialversicherung (GKV, GRV, Arbeitslosenversicherung, Pflegeversicherung, Unfallversicherung) sowie der Grundsicherung.
-
 ## Triage — kläre vor Aktivierung des Modus
 
 1. Widerspruch eingelegt? Liegt Widerspruchsbescheid vor? (Klagefrist läuft ab Zustellung!)
@@ -42,9 +38,6 @@ Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für sozia
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Sachgebiete der Sozialgerichtsbarkeit
 
 - Krankenversicherung (SGB V)
@@ -102,3 +95,4 @@ Das Sozialgericht ermittelt den Sachverhalt von Amts wegen. Beweisangebote der P
 - Leistungsart und Leistungszeitraum im Verfahrensidentifikationsblock aufführen
 - Gutachten (ärztliche / berufskundliche) als eigene Kategorie in Beweismittel-Tabelle
 - Kostenrecht: keine Gerichtskosten für Versicherte (§ 183 SGG)
+

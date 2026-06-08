@@ -5,10 +5,6 @@ description: "Antragsfristen nach JVEG prüfen: drei Monate Ausschlussfrist für
 
 # JVEG-Fristen-Erloeschen
 
-## Arbeitsbereich
-
-Antragsfristen nach JVEG prüfen: drei Monate Ausschlussfrist für Verguetungsantrag. Normen: § 2 Abs. 1 JVEG. Prüfraster: Fristbeginn, Fristende, Wiedereinsetzungsmöglichkeit. Output: Fristenprüfung JVEG mit Empfehlung. Abgrenzung: nicht materiell-rechtliche Verguetungsberechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Antragsfristen nach JVEG prüfen: drei Monate Ausschlussfrist für Verguetungsan
 ## Fachkern: JVEG-Fristen-Erloeschen
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Prüfe, ob JVEG-Vergütungsansprüche fristgerecht geltend gemacht wurden, und bewerte Risiken des Anspruchserlöschens nach § 23 JVEG.
 
 ## Triage — kläre vor der Prüfung
 
@@ -45,18 +38,8 @@ Prüfe, ob JVEG-Vergütungsansprüche fristgerecht geltend gemacht wurden, und b
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Jeder JVEG-Vorgang, bei dem Zeitpunkt der Leistungserbringung und Antragstellung bekannt sind.
-
-## Arbeitsweise
-1. Leistungsdatum und Antragsdatum gegenüberstellen.
-2. Dreimonatsfrist nach § 23 JVEG berechnen.
-3. Belehrungsdokumentation prüfen.
-4. Wiedereinsetzungspotenzial bewerten.
-5. Fristennotiz für Akte erstellen.
 
 ## Output-Template
 
@@ -76,3 +59,4 @@ Fristennotiz mit Risikoeinschätzung und Handlungsempfehlung.
 ## Leitplanken
 - Dreimonatsfrist ist absolut; keine Kulanzregelung ohne Wiedereinsetzung.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

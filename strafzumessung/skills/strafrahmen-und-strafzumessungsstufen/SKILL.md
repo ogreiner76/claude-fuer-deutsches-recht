@@ -90,16 +90,10 @@ Wenn mehrere § 49 Abs. 1 StGB-Milderungen zusammentreffen (z.B. Beihilfe + verm
 - **§ 28 StGB uebersehen** bei Beihilfe-/Anstifter-Pruefung: fehlende strafbegruendende persönliche Merkmale fuehren zwingend zur Strafmilderung nach § 49 Abs. 1 StGB.
 - **Doppelverwertung** zwischen Regelbeispiel und § 46 StGB: Umstaende, die das Regelbeispiel begruenden, duerfen nicht noch einmal als strafschaerfender Faktor angefuehrt werden.
 
-## Querverweise
-
-- `paragraph-46-stgb-grundsatz-strafzumessung` — Folge nach Strafrahmen-Bestimmung.
-- `strafmilderung-49-stgb-zwingend-fakultativ` — Detail.
-- `minder-schwerer-fall-und-besonders-schwerer-fall` — Detail.
-- `regelbeispiele-rechtsprechung` — Detail.
-
 ## Quellen und Stand 05/2026
 
 - §§ 38, 39, 49 StGB in der geltenden Fassung.
 - Einschlaegige Spezialnormen je nach Tatbestand.
 - BGH-Linie zu mehrfacher Milderung und Regelbeispielen — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

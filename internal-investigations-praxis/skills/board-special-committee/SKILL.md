@@ -5,10 +5,6 @@ description: "Richtet ein Sonderuntersuchungsausschuss des Vorstands oder Aufsic
 
 # Board Special Committee und Sonderuntersuchungsausschuss
 
-## Arbeitsbereich
-
-Richtet ein Sonderuntersuchungsausschuss des Vorstands oder Aufsichtsrats ein – Mandat, Besetzung, Unabhängigkeit und Berichtspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,15 +61,6 @@ Dieser Skill stellt sicher, dass das Special Committee ordnungsgemäß eingerich
 - Special Committee kann Empfehlung zur Abberufung an Aufsichtsrat aussprechen.
 - Interim-Management: wer führt die Geschäfte während der Freistellung?
 
-## Red-Team-Fragen
-
-- Ist das Special Committee tatsächlich unabhängig, oder gibt es versteckte Verbindungen zu Beschuldigten?
-- Hat das Committee das nötige Mandat, um alle relevanten Dokumente und Personen zu erreichen?
-- Sind die externen Anwälte dem Committee direkt mandatiert – oder faktisch dem CFO oder GC, der selbst involviert sein könnte?
-- Genügt das Special Committee den Unabhängigkeitskriterien für ein US-DOJ/SEC-Kooperationsszenario?
-- Ist der Privilegeschutz für Committee-Unterlagen gegenüber dem (involvierten) Vorstand gesichert?
-- Wurde der Beschluss des Aufsichtsrats korrekt im Protokoll dokumentiert?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -93,3 +80,4 @@ Dieser Skill stellt sicher, dass das Special Committee ordnungsgemäß eingerich
 - **Freistellungsbeschluss-Vorlage** (§ 84 AktG)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

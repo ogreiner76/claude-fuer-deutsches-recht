@@ -5,10 +5,6 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema An
 
 # Anhörung, Auskunftsbeschluss, Fristenplan
 
-## Arbeitsbereich
-
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,13 +88,6 @@ Anwaltliche Steuerung von Anhörungen und Auskunftsverlangen der Bundesnetzagent
 - VG Köln und BVerwG (insbesondere zu § 206 TKG und § 69 EnWG) nur mit konkretem Az., Datum und freier Fundstelle.
 - Zitierweise gemäß `references/zitierweise.md`.
 
-## Ausgabeformat
-
-- Fristenkalender mit Eskalationspunkten (Zwischenfristen für interne Freigabe, Datenextraktion, Schwärzungsprüfung).
-- Stellungnahme-Entwurf (3–10 Seiten je nach Komplexität).
-- Risikomatrix für Verweigerungsstrategien (Selbstbelastung, Unverhältnismäßigkeit, Datenschutzbedenken).
-- Anlagenverzeichnis mit Schwärzungs-Versionsstand.
-
 ## Beispiele
 
 - **TK-Marktanalyse BK3.** BK3 fordert Marktdaten zum SMP-Test. Antwort: vollständige Datenlieferung unter Schwärzung der Margen, Begleitschreiben mit Bezug auf § 71 TKG.
@@ -160,3 +149,4 @@ Vor Absendung prüfen:
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

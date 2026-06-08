@@ -5,10 +5,6 @@ description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagier
 
 # Kreuzfahrtschiff – Schiffshypothek bestellen
 
-## Arbeitsbereich
-
-Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bestellt Schiffshypothek als Sicherheit für Finanzierung eines Kreuzfahrtschiff oder grosses Fahrgastschiff. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Eine Bank bestellt eine Hypothek auf ein Kreuzfahrtschiff oder grosses Fahrgasts
 - Fehlende notarielle Form fuehrt zur Nichtigkeit der Hypothek (SchRG § 17).
 - Rang entsteht mit Antragstellung; fruehzeitig beim Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta)-Gericht stellen.
 - Briefhypothek verliert Vollstreckungswert bei Verlust des Hypothekenbriefs.
-
-## Output
-Checkliste Hypothekenbestellung und Unterlagen-Übersicht für Kreuzfahrtschiff oder grosses Fahrgastschiff.
 
 ## Vertiefung: Hypothekenarten im deutschen Schiffsrecht
 Das SchRG kennt die Verkehrshypothek (§§ 8-30) und die Höchstbetragshypothek (§ 75). Die Verkehrshypothek ist an eine bestimmte Forderung gebunden; die Höchstbetragshypothek sichert variable Forderungen bis zu einem eingetragenen Maximalbetrag und eignet sich für revolvierende Kreditlinien. In der Praxis der Schiffsfinanzierung dominiert die Hypothekenbestellung als erstrangige Höchstbetragshypothek zugunsten der Konsortialführerbank.
@@ -87,3 +80,4 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 - SchRegO §§ 13-19: https://dejure.org/gesetze/SchRegO
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - dejure SchRG § 75: https://dejure.org/gesetze/SchRG/75.html
+

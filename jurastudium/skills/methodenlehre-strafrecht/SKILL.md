@@ -32,13 +32,6 @@ description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechen
 - §§ 52, 53 StGB — Konkurrenzlehre: Tateinheit und Tatmehrheit
 - § 15 StGB — Vorsatz als Regelform; Fahrlässigkeit nur bei ausdrucklicher Normierung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Strafrecht hat den methodisch strengsten Aufbau aller drei großen Rechtsgebiete: dreistufig, formal trennscharf, mit Verboten, die in anderen Rechtsgebieten nicht gelten (Analogieverbot zulasten des Täters, Bestimmtheitsgebot, Rückwirkungsverbot, Schuldprinzip). Wer das innere Gerüst kennt, kann jede Klausur lösen — auch ohne den konkreten Tatbestand auswendig zu wissen.
-
 ## Eingaben
 
 - **Sachverhalt** oder **Tatbestand**
@@ -127,14 +120,8 @@ Die Konkurrenzen sind der zweite große Methodenkomplex im Strafrecht.
 4. Konkurrenzen werden **zum Schluss** geprüft, nicht zwischendrin.
 5. Skill prüft Trennung objektiv/subjektiv besonders streng.
 
-## Querverweise
-
-- `methodenlehre-grundlagen` — Auslegung allgemein (Wortlautgrenze besonders streng).
-- `subsumtionslehre` — Subsumtion innerhalb jedes Tatbestandsmerkmals.
-- `loesungsschemata` — Verbrechensaufbau als Schema (mit Disclaimer).
-- `rechtsgeschichte` — Strafrecht im NS und in der SBZ/DDR als methodisches Anschauungsmaterial dafür, was passiert, wenn Bestimmtheit fällt.
-
 ## Was diese Skill nicht tut
 
 - Sie korrigiert keine ausgeschriebenen Gutachten (das macht `gutachten-uebung`).
 - Sie übt nicht den Streit objektive/subjektive Theorie auf Detailniveau — sie übt die Anwendung in der Klausur.
+

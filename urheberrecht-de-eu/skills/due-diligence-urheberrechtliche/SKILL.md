@@ -5,10 +5,6 @@ description: "Prueft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform,
 
 # Copyright Due Diligence
 
-## Arbeitsbereich
-
-Prueft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,3 +79,4 @@ Konkret zu prüfen:
 - RL 2001/29/EG (InfoSoc)
 - RL (EU) 2019/790 (DSM)
 - RL 2014/26/EU
+

@@ -5,10 +5,6 @@ description: "Anti-Korruption und Geschenke im China-Geschaeft: FCPA (US) bei US
 
 # Anti-Korruption China: FCPA/§ 299 StGB/CN-Recht
 
-## Arbeitsbereich
-
-Anti-Korruption und Geschenke im China-Geschaeft: FCPA (US) bei US-Nexus, UK Bribery Act, § 299 StGB (DE), chinesisches Anti-Korruptionsrecht (Criminal Law Art. 391-396), Geschenke- und Bewirtungsrichtlinien, Red-Flag-Indikatoren, Whistleblower-Schutz, Behördliche Ermittlungen CN. Output: Anti-Bribery-Compliance-Richtlinie China und Schulungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,13 +79,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
-
-## Output
-
-Prüfbericht Anti Bribery And, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
 
 ## Quellen
 

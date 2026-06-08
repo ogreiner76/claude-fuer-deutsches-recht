@@ -5,10 +5,6 @@ description: "Strafanzeige bei häuslicher Gewalt plus Schutzanordnung, Beweissi
 
 # Häusliche Gewalt und GewSchG
 
-## Arbeitsbereich
-
-Strafanzeige bei häuslicher Gewalt plus Schutzanordnung, Beweissicherung, medizinische Dokumentation und Sicherheitsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Strafanzeige bei häuslicher Gewalt plus Schutzanordnung, Beweissicherung, mediz
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Betroffene und Unterstützer.
-
 ## Norm- und Quellenanker
 
 StGB §§ 223 ff., 240, 241; GewSchG; StPO.
-
-## Arbeitsfragen
-
-1. Welche akute Gefahr?
-2. Welche Verletzungen/Drohungen?
-3. Welche Schutzanträge?
-
 
 ## Normen & Rechtsprechung
 
@@ -40,9 +25,6 @@ Konkret zu prüfen:
 - § 238 StGB
 - § 4 GewSchG
 - § 52 StPO (Zeugnisverweigerungsrecht Angehöriger)
-## Output
-
-Sicherheits- und Anzeigenpaket.
 
 ## Red Flags
 
@@ -54,6 +36,3 @@ Sicherheits- und Anzeigenpaket.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

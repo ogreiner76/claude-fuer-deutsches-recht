@@ -93,12 +93,6 @@ description: "Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jae
 - Wertberechnung dokumentieren.
 - Bei Pruefungspflicht WP-Inventur-Begleitung.
 
-## Output
-
-- Inventur-Protokoll mit Warenbestand.
-- Bewertung mit Methode dokumentiert.
-- Bilanzposten "Vorraete".
-
 ## Strategie und Praxis-Tipps
 
 - Inventur ist Pflicht — nicht abgekuerzte Pruefung.
@@ -106,13 +100,6 @@ description: "Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jae
 - LIFO steuerlich nur unter Voraussetzungen — aber bei Inflation Steuerstundungs-Vorteil.
 - Niederstwertprinzip ist Vorsichtsprinzip — bei zweifelhaften Bestaenden abschreiben.
 - Bei Pruefungspflicht: WP beobachtet Inventur (Stichproben).
-
-## Querverweise
-
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-jahresabschluss-bestandskonten-abstimmung` — Bestandsabstimmung.
-- `stb-jahresabschluss-kassenfuehrung-gobd-pflichten` — GoBD.
-- `stb-jahresabschluss-handels-vs-steuerbilanz` — Massgeblichkeit.
 
 ## Quellen und Updates
 
@@ -123,10 +110,3 @@ Stand: 05/2026.
 - BMF v. 28.11.2019 zu GoBD.
 - IDW PS 480.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Prüft Gebühren für internationale Studierende, Satzung, Ausnahm
 
 # Studiengebühren internationale Studierende
 
-## Arbeitsbereich
-
-Prüft Gebühren für internationale Studierende, Satzung, Ausnahmen und Rückerstattung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Studiengebühren internationale Studierende**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Studiengebühren internationale Studierende**. Prüfe diese Anke
 - `§ 70 Abs. 1 VwGO` — Widerspruch.
 - `§ 80 Abs. 5 VwGO` — Eilrechtsschutz bei Vollziehung.
 - `§ 123 Abs. 1 VwGO` — vorläufige Zulassung/Statussicherung.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -87,3 +82,4 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 - **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
 - **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
 - **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
+

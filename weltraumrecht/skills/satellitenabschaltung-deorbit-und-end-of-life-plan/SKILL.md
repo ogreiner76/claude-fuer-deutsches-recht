@@ -5,10 +5,6 @@ description: "End-of-Life-Planung für Satelliten – Deorbit-Pflicht, IADC 25-J
 
 # Weltraumrecht: Satellitenabschaltung: Deorbit und End-of-Life-Plan
 
-## Arbeitsbereich
-
-End-of-Life-Planung für Satelliten – Deorbit-Pflicht, IADC 25-Jahres-Regel, Passivierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,3 +111,4 @@ Das Rechtsgebiet berührt folgende Kernthemen: Deorbit Pflicht, IADC 25-Jahres-R
 - UNOOSA: https://www.unoosa.org/
 - BNetzA: https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/start.html
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
+

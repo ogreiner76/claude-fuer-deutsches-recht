@@ -69,10 +69,6 @@ Original: "Herr Beispiel war in der Lage, Konflikte erfolgreich zu bewältigen."
 Vorschlag: "Herr Beispiel löste Konflikte stets souverän, mit Augenmaß und zur Zufriedenheit aller Beteiligten."
 Begründung: "war in der Lage" (theoretische Fähigkeit) wird zu "löste" (tatsächliche Handlung); Steigerer "stets" plus drei Qualifizierer.
 
-## Ausgabeformat
-
-Der Skill gibt eine Gegenüberstellungstabelle aus: Original-Formulierung | Problem | Verbesserungsoperation | Vorschlag | Zielnote | Belegbedarf | Durchsetzbarkeit. Darunter folgt ein aufgewerteter Zeugnis-Entwurf als Fließtext. Der Entwurf darf nicht wie eine Fantasie-Bestnote wirken, sondern muss zum Lebenssachverhalt und zu vorhandenen Belegen passen.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -81,3 +77,4 @@ Der Skill gibt eine Gegenüberstellungstabelle aus: Original-Formulierung | Prob
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

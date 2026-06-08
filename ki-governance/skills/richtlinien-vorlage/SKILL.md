@@ -5,10 +5,6 @@ description: "Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentli
 
 # KI-Richtlinien-Starter
 
-## Arbeitsbereich
-
-Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtlinie. Lädt, wenn der Nutzer "KI-Richtlinie entwerfen", "wir brauchen eine KI-Richtlinie", "AI-Act-konforme Richtlinie" oder Ähnliches sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,20 +12,6 @@ Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterri
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Viele Unternehmen haben noch keine schriftliche KI-Nutzungsrichtlinie, oder
-arbeiten mit einer veralteten Fassung, die den AI Act (VO (EU) 2024/1689),
-DSGVO Art. 22 und den tatsächlichen Tool-Einsatz nicht abbildet.
-
-Dieser Skill produziert einen **Entwurf** — keinen fertigen Text. Disziplin:
-(1) aus veröffentlichten Musterquellen sourcing, nicht aus dem Nichts;
-(2) Umfang vor Entwurf klären; (3) jeden Ermessensspielraum mit `[prüfen]`
-kennzeichnen; (4) Adoptionstatus-Signale nicht abschwächen.
-
-Dieser Skill schließt keine Richtlinie ab, verteilt sie nicht und empfiehlt
-keine konkrete Position zu den schwierigen Entscheidungspunkten.
 
 ## Eingaben
 
@@ -135,13 +117,6 @@ Freigabe-Checkliste am Ende:
 - [ ] Datenschutzbeauftragter (Art. 38 Abs. 1 DSGVO) `[prüfen]`
 - [ ] Inkrafttretungsdatum und Überprüfungsrhythmus `[prüfen]`
 
-## Ausgabeformat
-
-Strukturiertes Markdown-Dokument: Kopfzeile, Quellenblock, Zusammenfassung
-(max. 3 Abs.), gewählte Abschnitte (materielle Regeln + inline-Quellen +
-offene Fragen je Abschnitt), Freigabe-Checkliste, Prüfhinweis. Sprache
-klar genug für Nicht-Juristen; Präzision liegt in den `[prüfen]`-Markern.
-
 ## Beispiel
 
 **Anfrage:** KI-Richtlinie für 200-Personen-Unternehmen mit Betriebsrat,
@@ -221,3 +196,4 @@ Datenschutzbeauftragter: [NAME, EMAIL]
 
 [DATUM] — [UNTERSCHRIFT GESCHAEFTSFUEHRUNG]
 ```
+

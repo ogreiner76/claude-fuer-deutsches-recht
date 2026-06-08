@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Vertragsrecht (BGB-Vertragsrecht
 
 Dieser Einstieg routet **Vertragsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-uwg` — Abmahnung UWG
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Vertragsrecht** vom ersten Sachverhalt zu Rollen, Frist
 - Zuständige Stelle bestimmen: Vertragsparteien, AGB-Verwender, Verbraucher (§ 13), Unternehmer (§ 14), Verbraucherzentrale.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Vertragsrecht (BGB-Vertragsrecht) typische Eskalationsstufen: Vertragsentwurf, AGB-Check, Klage Erfüllung.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

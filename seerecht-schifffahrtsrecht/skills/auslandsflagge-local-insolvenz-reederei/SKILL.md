@@ -5,10 +5,6 @@ description: "Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Is
 
 # Auslandsflagge und Local Counsel – Flaggenstaat-Compliance
 
-## Arbeitsbereich
-
-Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel für Registerfragen; Hypotheken; PSC-Verfahren. UNCLOS Art. 91-94 (genuine link; Flaggenstaat); FlaggRG §§ 1-10 (Deutsche Flagge); ISM-Code; Paris MOU Port-State-Control. Output: Local-Counsel-Briefing und Flaggenstaat-Compliance-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,11 +44,6 @@ Eine deutsche Reederei betreibt ihre Flotte unter Panama-Flagge und bekommt Port
 - Hypotheken unter deutschem Recht sind im Auslandsregister nicht automatisch anerkannt.
 - DOC muss auf das operativ verantwortliche Unternehmen ausgestellt sein.
 - Paris-MOU-Banning kann alle europäischen Häfen sperren.
-
-## Output
-- Local-Counsel-Briefing-Vorlage (Register; Hypothek; PSC-Verfahren)
-- Flaggenstaat-Compliance-Checkliste (SOLAS/ISM/MARPOL/MLC/ISPS)
-- Flaggenwechsel-Zeitplan
 
 ## Checkliste Local-Counsel-Beauftragung
 - [ ] Local Counsel ausgewählt (Empfehlung P&I-Club-Korrespondent)

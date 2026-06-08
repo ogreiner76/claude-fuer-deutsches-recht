@@ -120,12 +120,6 @@ ANSCHLUSS-TERMIN: [Datum]
 - Massnahmen in DATEV-Wiedervorlage oder Tasksystem eintragen.
 - Bei Krisengespraech: Warnschreiben separat per Einschreiben.
 
-## Output
-
-- Gespraechsnotiz mit Massnahmenliste.
-- Wiedervorlage-Eintrag für Folgetermin.
-- Ggf. Warnschreiben § 102 StaRUG.
-
 ## Strategie und Praxis-Tipps
 
 - Quartalsgespraech als Standard mit allen wichtigen Mandanten — staerkste Mandantenbindung.
@@ -133,14 +127,6 @@ ANSCHLUSS-TERMIN: [Datum]
 - Gespraechsnotiz ist Haftungsschutz — was schriftlich dokumentiert ist, gilt.
 - StBVV: Gespraech als Zusatzleistung; Pauschalvereinbarung mit Gespraechs-Kontingent moeglich.
 - Bei wiederholten Krisensignalen ohne Reaktion: Mandatsniederlegung § 627 BGB pruefen, mit anwaltlicher Begleitung.
-
-## Querverweise
-
-- `stb-bwa-erlaeuterungstext-mandant` — Erlaeuterungstext.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung.
-- `stb-warnschreiben-krisensignale` — Warnschreiben.
-- `stb-mandantenkommunikation-bwa-uebergabe-quartal` — Quartalsgespraech.
-- `stb-jahresgespraech-mandant-bwa-basis` — Jahresgespraech.
 
 ## Quellen und Updates
 
@@ -152,3 +138,4 @@ Stand: 05/2026.
 - BGB § 627.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BStBK Berufsrichtlinien.
+

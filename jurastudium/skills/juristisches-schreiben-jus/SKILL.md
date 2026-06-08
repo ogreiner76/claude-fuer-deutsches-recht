@@ -5,10 +5,6 @@ description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfa
 
 # Lernprofil anpassen
 
-## Arbeitsbereich
-
-Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Prüfraster Lernstil-Typ, Faecher-Auswahl, Bundesland-Spezifika, Prüfungsziel, verfuegbare Ressourcen amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang Bibliothek. Output aktualisiertes Lernprofil mit neuer Schwerpunktsetzung. Abgrenzung zu Jurastudium-Kaltstart für Erst-Konfiguration und zu Lernplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,21 +27,6 @@ Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wec
 - Art. 3 GG — Chancengleichheit: Grundlage für bundeslandspezifische Lernprofile
 - §§ 133, 157 BGB — Auslegungsmethoden: unveraendert kernelementig in allen Profilen
 - § 195 BGB — Verjährung als Dauerklassiker: bleibt in jedem Profil
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill ändert einzelne oder mehrere Einträge im Lernprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md`, ohne das gesamte Kaltstart-Interview erneut zu durchlaufen.
-
-Einsatzbereiche:
-- Semesterwechsel (neue Lehrveranstaltungen, neues Prüfungsziel)
-- Lernstil wechseln (Drill → Erklärung oder umgekehrt)
-- Bundesland / JAG aktualisieren (z. B. nach Hochschulwechsel)
-- Neues Material hinzufügen (Klausuren, Gliederungen)
-- Schwächen- und Stärkenprofil nach Prüfungsergebnissen anpassen
-- `--reset`: vollständiges Löschen des Profils (vor neuem Kaltstart)
 
 ## Eingaben
 
@@ -109,27 +90,6 @@ Sicherheitsabfrage:
 
 Dieser Skill ändert nur Konfigurationsdaten. Keine juristischen Inhalte. Zitierregeln → `../references/zitierweise.md` gelten in den inhaltlichen Skills.
 
-## Ausgabeformat
-
-Nach jeder Änderung:
-
-```
-**Profil aktualisiert**
-
-Geändert:
-- [Feld]: [alter Wert] → [neuer Wert]
-
-Nicht geändert:
-- [Feld]: [aktueller Wert] (unverändert)
-
-Gespeichert in: ~/.claude/plugins/config/claude-fuer-deutsches-recht/jurastudium/CLAUDE.md
-
-**Auswirkungen auf laufende Skills:**
-- lernplan: [wird beim nächsten Aufruf mit neuen Daten neu berechnet]
-- examens-prognose: [aktualisiert Prüfungsgebietsliste nach neuer JAG]
-- examensvorbereitung-fragen: [neue Bundesland-Filterung aktiv]
-```
-
 ## Beispiel
 
 **Anfrage:** "Ich habe jetzt auch VwGO als Pflichtfach und möchte auf Drill-Modus wechseln."
@@ -153,3 +113,4 @@ Auswirkungen:
 - **Veraltete Lehrveranstaltungen nicht entfernen:** Beendete Fächer im Profil lassen laufen, führt zu Studienplan-Verzerrungen.
 - **`--reset` versehentlich ausführen:** Das Plugin fragt zur Sicherheit nach. Antwort "nein" bricht ab. Vor dem Reset eigene Gliederungen sichern.
 - **Material nicht hochladen nach neuen Klausurergebnissen:** `examens-prognose` und `gutachten-uebung` werden genauer, wenn benotete Klausuren im Profil sind. Nach jeder Prüfungsrückgabe `--material` ausführen.
+

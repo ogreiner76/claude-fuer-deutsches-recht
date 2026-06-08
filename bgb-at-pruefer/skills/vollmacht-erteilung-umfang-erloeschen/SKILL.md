@@ -45,13 +45,6 @@ description: "Klausurfall zu Vollmachtserteilung, Vollmachtsumfang und Erlösche
 - Vollmachtsurkunde begründet Rechtsschein — Aushändigung an gutgläubigen Dritten bindet Vollmachtgeber.
 - Generalvollmacht mit gesetzlichem Umfang nicht grenzenlos — § 181 BGB und Missbrauchsschranken gelten.
 
-## Output
-
-- Gutachtenstil-Abschnitt zu Vollmachtserteilung und -erlöschen
-- Schema: Erteilung → Umfang → Erlöschen → Rechtsscheinwirkung → Drittschutz
-- Prüfampel: Vollmacht wirksam / erloschen / Rechtsschein fortbestehend
-- Klausurlösungsskizze mit §§ 170 bis 173 BGB-Prüfung
-
 ## Quellen
 
 - [§ 167 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__167.html)
@@ -84,3 +77,4 @@ bestimmt (§ 49 HGB). Einschränkungen durch Innenverhältnis sind dem Dritten n
 - Erlöschen: Widerruf oder Beendigung des Grundverhältnisses?
 - Rechtsschein nach §§ 170 bis 172 BGB: Gutgläubiger Dritte geschützt?
 - § 173 BGB: Kannte oder musste Dritte das Erlöschen kennen?
+

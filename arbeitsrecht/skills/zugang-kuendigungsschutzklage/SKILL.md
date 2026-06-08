@@ -5,9 +5,6 @@ description: "Zugang Kuendigungsschutzklage im Plugin Arbeitsrecht: prüft konkr
 
 # Zugang Kuendigungsschutzklage
 
-## Arbeitsbereich
-
-**Zugang Kuendigungsschutzklage** ordnet den Fall über die tragenden Prüfungslinien: Arbeitsrecht, Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Zugang Kuendigungsschutzklage im Plugin Arbeitsrecht: prüft konkr
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga`
@@ -31,10 +29,6 @@ description: "Zugang Kuendigungsschutzklage im Plugin Arbeitsrecht: prüft konkr
 **Fokus:** Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 ### Zugang Kuendigungsschutzklage Frist Nach Streitigem Zuga
-
-## Aufgabe
-
-Skill für Kuendigungsschutzklage § 4 KSchG bei streitigem Zugangsmoment.
 
 ## Norm
 
@@ -79,11 +73,6 @@ Skill für Kuendigungsschutzklage § 4 KSchG bei streitigem Zugangsmoment.
 2. Wann hat Arbeitnehmer Kenntnis?
 3. 3-Wochen-Frist laufend?
 4. Hilfsweise § 5 KSchG?
-
-## Output
-
-- Klageschrift § 4 KSchG mit Hilfsantrag § 5.
-- Fristenplan.
 
 ## 2. `aufhebungsvertrag`
 
@@ -148,6 +137,7 @@ Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1 – Interessenklärung und Strategiewahl
@@ -200,12 +190,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Zeugnis**: Zeugnisformulierung (§ 109 GewO), Zeitpunkt der Ausstellung, Verhaltens- und Leistungsbeurteilung.
 - **Wettbewerbsverbot**: Nachvertragliches Wettbewerbsverbot § 74 HGB (Schriftform, Karenzentschädigung ≥ 50 % der letzten Vergütung); Verzicht möglich (§ 75a HGB).
 - **Rückgabe von Eigentum**, IT-Geräte, Schlüssel, Firmenfahrzeug.
-
-## Ausgabeformat
-
-- **Standardausgabe**: Rechtliches Memo (Gutachtenstil) mit Checkliste Risiken.
-- **Auf Anforderung**: Vollständiger Aufhebungsvertrags-Entwurf (Urteilsstil).
-- **Auf Anforderung**: Tabellarische Übersicht Sperrzeit-Risiken, Abfindungsberechnung.
 
 ## Beispiel
 
@@ -275,10 +259,6 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Aufhebungsverträge führen häufig zu Sperrzeit beim Arbeitslosen-Geld (§ 159 SGB III) und Ruhens-Zeit (§ 158 SGB III). Bei fehlerhafter Beratung droht Mandanten erheblicher Schaden — Berater haftet. Dieses Skill strukturiert die Prognose.
 
 ## Eingaben
 
@@ -680,3 +660,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Anschluss
 
 In Kombination mit `kuendigungs-pruefung` und `kueschk-anwendbarkeit-kschg-pruefen` für die Prüfung der Kündigung selbst. Bei Vergleichsverhandlungen mit Freistellung als Verhandlungsmasse den Skill `kueschk-vergleichsverhandlung-checkliste` heranziehen — die Klausel ist konkret zu fassen, nicht pauschal.
+

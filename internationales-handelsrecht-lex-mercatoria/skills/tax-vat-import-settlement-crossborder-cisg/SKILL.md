@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Steuerrecht im internationalen Hande
 
 # Steuerrecht im internationalen Handel
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Steuerrecht im internationalen Handel. Umsatzsteuer bei grenzüberschreitenden Lieferungen (§ 4 Nr. 1a UStG, 0%-Satz), Einfuhrumsatzsteuer, Verrechnungspreise (OECD-Leitsätze), Betriebsstättenrisiko und withholding tax. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Grenzüberschreitende Warenlieferungen haben Umsatzsteuer- und Zollkonsequenzen.
 - Verrechnungspreise: Dokumentation nach § 90 Abs. 3 AO (Sachverhaltsaufzeichnung)
 - Betriebsstättenprüfung: "Dependent Agent"-Test nach OECD Musterabkommen Art. 5
 
-## Output
-
-- Ausfuhrnachweis-Checkliste (§ 6 UStG)
-- Verrechnungspreismethoden-Übersicht (OECD 2022)
-- Betriebsstättenrisiko-Matrix für Handelsvertreter
-
 ## Quellenregel
 
 UStG §§ 4, 6, 13b: gesetze-im-internet.de. MwStSystRL Art. 138: eur-lex.europa.eu. OECD-Verrechnungspreisleitlinien: oecd.org. AStG §§ 1, 1a: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
+

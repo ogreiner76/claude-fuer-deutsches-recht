@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Mehrsprachige Verträge und Auslegun
 
 # Mehrsprachige Verträge und Auslegung
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Mehrsprachige Verträge und Auslegung. Kollision zwischen Sprachfassungen, Maßgeblichkeitsklauseln, CISG Art. 7-8 Auslegungsregeln, Treu-und-Glauben-Maßstab und rechtsvergleichende Auslegungsprobleme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Internationale Verträge werden häufig in zwei oder mehr Sprachen erstellt. Bei
 - CISG-Auslegung: immer an CISG-Quellen (CISG-online.ch, uncitral.un.org) orientieren
 - Lücken: intern aus CISG, dann aus IPR-Vertragsstatut
 
-## Output
-
-- Maßgeblichkeitsklausel-Muster (Englisch und Deutsch)
-- Auslegungsregeln-Übersicht (CISG / PICC / BGB)
-- Checkliste: Mehrsprachiger Vertragsabschluss
-
 ## Quellenregel
 
 CISG Art. 7-8: uncitral.un.org. PICC Art. 4.1-4.7: unidroit.org. BGB § 305c Abs. 2: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
+

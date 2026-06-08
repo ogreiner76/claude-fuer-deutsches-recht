@@ -5,10 +5,6 @@ description: "Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunik
 
 # Influencer-Recht: Influencer als Testimonial in Kapitalmarktkommunikation
 
-## Arbeitsbereich
-
-Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Creator in Kapitalmarktumfeld tragen erhebliche Haftungsrisiken:
 - Interessenkonflikt-Offenlegungstext
 - Ablehnungsschreiben für nicht lizenzierte Finanzprodukte
 - MAR-Compliance-Checkliste
+

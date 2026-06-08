@@ -5,9 +5,6 @@ description: "Erstgespraech Mandatsannahme Verkehr Autonom im Plugin Fachanwalt 
 
 # Erstgespraech Mandatsannahme Verkehr Autonom
 
-## Arbeitsbereich
-
-**Erstgespraech Mandatsannahme Verkehr Autonom** ordnet den Fall über die tragenden Prüfungslinien: Strukturierter Erstgespraechsleitfaden für Verkehrsrecht, OWi- und Verk, Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Erstgespraech Mandatsannahme Verkehr Autonom im Plugin Fachanwalt 
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `erstgespraech-mandatsannahme`
@@ -204,10 +202,6 @@ Frontmatter unveraendert. Kein Commit. Bearbeiter: KI-Audit-Agent.
 
 ### Autonomes Fahren PKW — § 1d StVG Haftungskonzept
 
-## Zweck
-
-Spezial-Mandat: Unfall mit autonomem PKW (Tesla FSD Beta, Mercedes Drive Pilot Level 3, BMW Personal Pilot). Anwaltliche Unfallregulierung muss klären, wer haftet — Halter, Fahrer, Hersteller — bei Aktiv-Sein des autonomen Systems.
-
 ## Eingaben
 
 - Fahrzeug + autonomes System (SAE-Level 2/3/4)
@@ -303,13 +297,6 @@ Spezial-Mandat: Unfall mit autonomem PKW (Tesla FSD Beta, Mercedes Drive Pilot L
 | Fahrer bei Übergabe abgelenkt | § 18 StVG-Haftung | Klärung | klare System-Fehler |
 | Hersteller-Recall vor Unfall | Mit-Verschulden Halter (nicht reagiert) | unklar | klar nach Recall installiert |
 | Beta-Software ohne KBA | Zulassung fehlt; Halter-Schuld | Klärung läuft | Serien-Software |
-
-## Querverweise
-
-- `fachanwalt-verkehrsrecht-orientierung` — Triage
-- `fachanwalt-verkehrsrecht-unfallregulierung-quoten` — Standard-Unfall
-- `fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg` — LKW-Variante
-- `fachanwalt-versicherungsrecht-orientierung` — Kfz-Versicherer
 
 ## Quellen und Updates
 
@@ -627,10 +614,3 @@ Aktueller Stand Mai 2026:
 <!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
 -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

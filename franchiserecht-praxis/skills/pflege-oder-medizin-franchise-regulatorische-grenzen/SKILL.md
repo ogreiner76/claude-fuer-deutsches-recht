@@ -5,10 +5,6 @@ description: "Pflege- und Medizin-Franchise regulatorisch prüfen: Zulassungspfl
 
 # Franchiserecht: Pflege- und Medizin-Franchise – Regulatorische Grenzen
 
-## Arbeitsbereich
-
-Pflege- und Medizin-Franchise regulatorisch prüfen: Zulassungspflichten nach SGB XI und SGB V, Berufsrechtsschranken für Heilberufe, Werbebeschränkungen nach HWG und UWG, Haftung für Pflegemängel und Systemverantwortung des Franchisegebers. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchise-System für ambulante Pflege oder medizinische Dienstleistungen wi
 - Franchisenehmer verliert Pflegezulassung; Franchisegeber ist nicht informiert und reagiert zu langsam.
 - Patientendaten werden ohne ausreichende Sicherheitsmassnahmen in der zentralen CRM-Plattform gespeichert.
 
-## Output
-
-- Regulatorische Zulassungs-Checkliste für Pflege-Franchise
-- HWG-konformer Werbeguide
-- Haftungsabgrenzungsklausel Franchise/Berufsrecht
-- Datenschutzkonzept für Gesundheitsdaten im System
-
 ## Quellen
 
 - https://gesetze-im-internet.de/sgb_11/__71.html
@@ -71,6 +60,7 @@ Ein Franchise-System für ambulante Pflege oder medizinische Dienstleistungen wi
 - https://dejure.org/gesetze/BGB/831.html
 - https://gesetze-im-internet.de/dsgvo/art_9.html
 - https://dejure.org/gesetze/UWG/5.html
+
 ## Vertiefung
 
 Das Spannungsfeld zwischen Systemstandardisierung im Franchise und berufsrechtlicher Freiheit der Heilberufe ist rechtlich komplex. Ärzte, Apotheker und Pflegefachkräfte unterliegen Berufsordnungen, die ihnen eine eigenverantwortliche Berufsausübung vorschreiben. Systemhandbuchklauseln, die spezifische Behandlungsabläufe oder Medikamentierungsvorgaben enthalten, können diese Berufsfreiheit verletzen.
@@ -84,7 +74,10 @@ Die Kassenärztlichen Vereinigungen und Pflegekassen haben eigene Qualitätsprü
 - Zulassungsvoraussetzungen (SGB V, SGB XI) vor Franchisepartnerwerbung klären; Zulassung ist Voraussetzung für Betrieb.
 - Haftungsfreistellung des Franchisegebers für medizinische Behandlungsfehler vertraglich klarstellen.
 - Qualitätssicherungssystem des Franchisegebers darf die Berufsautonomie der Leistungserbringer nicht einschränken.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

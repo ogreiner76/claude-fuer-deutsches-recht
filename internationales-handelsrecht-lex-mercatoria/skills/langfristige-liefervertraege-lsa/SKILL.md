@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Langfristige Lieferverträge (Long-T
 
 # Langfristige Lieferverträge (LSA)
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Langfristige Lieferverträge sichern Versorgung und Absatz über mehrere Jahre. 
 - Änderungsmanagement: Schriftlichkeitsgebot für Änderungen und Change-Order-Verfahren
 - Laufzeit und Exit: Kündigungsfristen nach Transaktionsvolumen staffeln
 
-## Output
-
-- Preisgleitklausel-Muster (Indexbasiert)
-- Take-or-Pay-Klausel mit FM-Carve-out
-- LSA-Checkliste (Laufzeit, Preis, Menge, Qualität, Exit)
-
 ## Quellenregel
 
 CISG Art. 14, 29: uncitral.un.org. PICC Art. 6.2.1-6.2.3: unidroit.org. BGB §§ 308, 313: gesetze-im-internet.de. ICC FM-Klausel 2020: iccwbo.org. Unsicherheit bleibt sichtbar.
+

@@ -5,10 +5,6 @@ description: "Erstellt Musterprovisonionsabrechnungen für Handelsvertreter nach
 
 # Muster-Provisionsabrechnung nach § 87c HGB
 
-## Arbeitsbereich
-
-Erstellt Musterprovisonionsabrechnungen für Handelsvertreter nach § 87c HGB: vollständige Abrechnung mit Nachweis vermittelter Geschäfte, Provisionsberechnung je Auftragsposition, Stornobuchungen mit Begründung sowie Prüfcheckliste für die Handelsvertreterseite zur Kontrolle erhaltener Abrechnungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 - Abrechnung nicht monatlich — Verzug des Unternehmers nach § 286 BGB.
 - Provisionsabrechnungszeitraum nicht klar abgegrenzt — Doppelzählung oder Lücken.
 
-## Output
-
-Muster-Provisionsabrechnung (tabellarisch), Prüfcheckliste, Buchauszugs-Vergleich.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 87a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87a.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87c HGB](https://dejure.org/gesetze/HGB/87c.html)
+

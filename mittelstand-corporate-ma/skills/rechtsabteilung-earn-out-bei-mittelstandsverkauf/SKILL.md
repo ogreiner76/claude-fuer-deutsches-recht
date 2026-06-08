@@ -5,10 +5,6 @@ description: "Rechtsabteilungs-Fachmodul für Earn-out bei Mittelstandsverkauf: 
 
 # Rechtsabteilung: Earn-out bei Mittelstandsverkauf
 
-## Arbeitsbereich
-
-Rechtsabteilungs-Fachmodul für Earn-out bei Mittelstandsverkauf: Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,6 +55,3 @@ Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkä
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

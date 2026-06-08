@@ -5,10 +5,6 @@ description: "Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschu
 
 # VDG 105 SCHUFA Scoring DSGVO Verbandsfall
 
-## Arbeitsbereich
-
-Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschuldbefreiung als DSGVO-Verbandsfall prüfen; EuGH C-634/21, C-26/22, C-64/22, Art. 15/17/21/22 DSGVO, Datenschutzaufsicht und Gruppenbeweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschuldbefreiung al
 - Tragende Normen verifizieren: VDuG; UKlaG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill bearbeitet Auskunftei-Fälle, ohne vorschnell jede schlechte Bonitätsbewertung als rechtswidrig zu bezeichnen. Entscheidend sind Datenrichtigkeit, Speicherdauer, Transparenz und die Rolle des Scores in Entscheidungen Dritter.
 
 ## Rechtsanker
 
@@ -44,14 +36,7 @@ Dieser Skill bearbeitet Auskunftei-Fälle, ohne vorschnell jede schlechte Bonit�
 - Forderungsstatus.
 - Kommunikation mit Datenschutzaufsicht.
 
-## Output
-
-- Datenschutzrechtlicher Verbandsvermerk.
-- Muster-Auskunfts- und Löschungsformular.
-- Beschwerdegerüst an Aufsicht.
-- Klage- oder Musterfallmatrix.
-- Kommunikationslinie: Score ist nicht verboten, aber rechtsstaatlich erklärungs- und kontrollbedürftig.
-
 ## Red Team
 
 Nicht jedes Scoring ist Art. 22 DSGVO. Prüfe, ob der Score für die Drittentscheidung tatsächlich maßgeblich war oder nur ein Hilfsindikator.
+

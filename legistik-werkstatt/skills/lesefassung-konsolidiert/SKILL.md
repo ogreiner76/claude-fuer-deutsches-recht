@@ -7,15 +7,6 @@ description: "Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkra
 
 > Wie sieht das Gesetz aus, wenn das neue Gesetz in Kraft getreten ist? Klipp und klar zum Mitlesen.
 
-## Zweck
-
-Die Lesefassung zeigt das Stammgesetz in der nach Inkrafttreten gültigen Form — **ohne** Änderungsmarkierung, **mit** allen Änderungen eingearbeitet. Adressaten (Bürger, Unternehmen) und Vollzugsbehörden brauchen diese Fassung, um zu sehen, "wie es ab Tag X heisst", ohne den Änderungs-Diff lesen zu müssen.
-
-Komplementär zu:
-- **Synopse**: zeigt alt vs. neu in zwei Spalten
-- **Änderungsanordnung**: zeigt die Änderung als Befehl ("Paragraf 3 Absatz 2 wird wie folgt geändert: ...")
-- **Lesefassung**: zeigt das fertige neue Gesetz
-
 ## 1) Inhalte pro Datei
 
 Eine Datei je Stammgesetz. Bei einem Änderungsgesetz, das mehrere Stammgesetze beruehrt, entsprechend mehrere Lesefassungen.
@@ -121,6 +112,7 @@ Die Lesefassung ist **kein** amtliches Dokument. Die amtliche Konsolidierung erf
 - `dokumente-rendern-docx-pdf` — für den DOCX-/PDF-Export der Lesefassung
 - `referentenentwurf-bauen` — bei aenderbarem Entwurfsstand
 - `inkrafttreten-uebergangsrecht` — bei stufenweisem Inkrafttreten oder Übergangsregelungen
+
 ## Aktuelle Rechtsprechung & Leitsätze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -129,6 +121,3 @@ Die Lesefassung ist **kein** amtliches Dokument. Die amtliche Konsolidierung erf
 
 Art. 82 GG (Ausfertigung und Verkuendung) — § 1 BGBlG (Bundesgesetzblatt als amtliche Quelle) — §§ 1-5 NormDokVO (Normdokumentations-Verordnung) — Art. 20 Abs. 3 GG (Normklarheit als Rechtsstaatsprinzip)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

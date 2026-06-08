@@ -5,10 +5,6 @@ description: "Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach 
 
 # Einseitige Rechtsgeschäfte und Minderjährige — § 111 BGB
 
-## Arbeitsbereich
-
-Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: Kündigung, Anfechtung oder Rücktritt durch oder gegenüber Minderjährigem, sofortige Verwerfung ohne Einwilligung, Unterschied zum zweiseitigen Vertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: K�
 - Gegenüber Minderjährigem abgegebene einseitige Erklärungen: §§ 111 und 131 BGB beachten.
 - Taschengeld-Paragraph § 110 BGB gilt nur für Verträge, nicht für einseitige Geschäfte.
 
-## Output
-
-- Prüfungsschema einseitiges Rechtsgeschäft mit Minderjährigem
-- Abgrenzungstabelle: § 111 BGB vs. § 108 BGB
-- Gutachtenstil-Abschnitt mit Subsumtion
-- Klausurlösungsskizze: Kündigung durch Minderjährigen
-
 ## Quellen
 
 - [§ 111 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__111.html)
@@ -98,3 +87,4 @@ Rechtsgeschäfte. Alle unterliegen bei Minderjährigen dem Einwilligungserforder
 - § 111 BGB: Endgültige Unwirksamkeit — keine Genehmigung möglich?
 - Ausnahme § 111 S. 2 BGB: Einwilligung bei Abgabe vorgelegt?
 - Abgrenzung zu §§ 107/108 BGB: Einseitiges oder mehrseitiges Rechtsgeschäft?
+

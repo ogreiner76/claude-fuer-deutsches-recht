@@ -5,9 +5,6 @@ description: "Oekonomische Analyse Originalismus im Plugin Methodenlehre Buerger
 
 # Oekonomische Analyse Originalismus
 
-## Arbeitsbereich
-
-**Oekonomische Analyse Originalismus** ordnet den Fall über die tragenden Prüfungslinien: Oekonomische Analyse des Rechts (Law and Economics), The Proble, Analysiert den deutschen Originalismus als Auslegungsansatz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Oekonomische Analyse Originalismus im Plugin Methodenlehre Buerger
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `oekonomische-analyse-des-rechts-coase-posner`
@@ -115,14 +113,6 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 **Kritik aus Grundrechtsdogmatik:** Effizienzueberlegungen koennen Grundrechte nicht ueberspielen. Wer für Mietkuendigungsschutz nach § 573 BGB rein effizienzoekonomisch argumentiert, vergisst Art. 13 GG und Sozialstaatsprinzip.
 
-## Querverweise
-
-- `wertungsjurisprudenz-larenz-canaris` — herrschende Methodenposition; Effizienz als zusaetzliches Wertungsargument.
-- `teleologische-auslegung` — Effizienz als ratio legis-Argument.
-- `interessenjurisprudenz-heck` — Vorlaeufer interessenorientierter Methodik.
-- `systemtheorie-luhmann-rechtssystem-autopoiese` — alternative Beobachtung des Rechts (Recht als autopoietisches System, nicht als Effizienzinstrument).
-- `legal-realism-und-critical-legal-studies` — Vorlaeufer (Holmes) und Kritik (CLS).
-
 ## Quellen und Stand 05/2026
 
 - Ronald H. Coase, The Problem of Social Cost, Journal of Law and Economics 1960.
@@ -133,14 +123,6 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 - §§ 254, 305 ff., 311 Abs. 2, 573, 906 BGB; ProdHaftG (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `originalismus-und-gesetzgebungsmaterialien-deutschland`
 
@@ -199,10 +181,6 @@ Der Originalismus fragt nach dem ursprünglichen Sinn und Willen des Gesetzgeber
 - Der Zeitwandel-Einwand wird ignoriert: Ein originalistischer Ansatz muss erklären, warum der historische Wille heute noch gilt.
 - Primäre Quellen (Motive, Protokolle) werden selektiv zitiert, um das gewünschte Ergebnis zu stützen.
 - Der historische Wille kann widersprüchlich sein — diese Widersprüche werden nicht aufgelöst.
-
-## Output
-
-Das Skill liefert eine originalistische Auslegungsanalyse: Identifikation und Auswertung der primären Materialquellen, Extraktion des historischen Gesetzgeberwillens, Prüfung auf Zeitwandel und verfassungsrechtliche Kompatibilität sowie Formulierungsvorschlag für die originalistische Argumentation. Verwendbar in Schriftsätzen, Gutachten und methodologischen Beiträgen.
 
 ## Vertiefung: Komparativer Originalismus und seine Grenzen
 
@@ -320,15 +298,6 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 
 **Verteidigung:** Eine reine Wertungsjurisprudenz ohne dogmatische Begriffsstrukturen verliert die Vorhersehbarkeit. Die Begriffsjurisprudenz hat den Vorteil der Rechtssicherheit und Gleichbehandlung. Daher ist das heutige Modell ein Mix aus Begriff und Wertung.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Vorlaeufer in der Historischen Rechtsschule.
-- `systematische-auslegung` — pandektistische Wurzeln des Systemdenkens.
-- `interessenjurisprudenz-heck` — Gegenposition.
-- `wertungsjurisprudenz-larenz-canaris` — moderner Mix.
-- `topik-viehweg-vs-systemdenken` — Gegenposition zur Systemgeschlossenheit.
-- `legal-realism-und-critical-legal-studies` — externe Kritik am Systemdenken.
-
 ## Quellen und Stand 05/2026
 
 - Georg Friedrich Puchta, Lehrbuch der Pandekten, Leipzig 1838.
@@ -338,14 +307,6 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 - §§ 104 ff., 116 ff., 158 ff., 164 ff., 194 Abs. 1, 433, 929 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `positivismus-und-rueckbindung-an-den-text`
 
@@ -404,10 +365,6 @@ Der juristische Positivismus fordert die strikte Rückbindung aller Rechtsanwend
 - Positivismus wird vollständig abgelehnt, ohne seine legitimen Kernpositionen (Rechtssicherheit, Demokratierespekt) anzuerkennen.
 - Die Spannung zwischen § 133 BGB ("wirklicher Wille", nicht Buchstabe) und positivistischer Wortlautbindung wird nicht aufgelöst.
 - Positivismus wird für die Ablehnung unerwünschter richterrechtlicher Entwicklungen instrumentalisiert, nicht als konsistentes Methodenprinzip vertreten.
-
-## Output
-
-Das Skill liefert eine Positivismus-Analyse: Identifikation positivistischer Methodenpositionen im konkreten Fall, Stärken-Schwächen-Profil, Alternative nach nicht-positivistischen Methoden und methodisches Fazit zu den berechtigten Kernpositionen des Positivismus im deutschen Zivilrecht. Verwendbar für wissenschaftliche Methodenbeiträge und Schriftsätze.
 
 ## Vertiefung: Positivismus nach 1945 und die Radbruchsche Wende
 
@@ -493,10 +450,6 @@ Postfaktische Argumente arbeiten mit falschen oder unverifizierten Tatsachenbeha
 - Der Gegenbeweis wird nicht angeboten, weil das Bestreiten als ausreichend erscheint.
 - Die Verletzung des rechtlichen Gehörs durch postfaktische Argumentation wird nicht als Verfahrensrüge formuliert.
 
-## Output
-
-Das Skill liefert eine postfaktische Argumentation-Dekonstruktion: Identifikation der unbelegten Behauptung, Belegpflichtprüfung, Tragfähigkeitsanalyse, Red-Team-Gegenbehauptung, prozessuale Konsequenz und Formulierungsvorschlag für den Einwand im Schriftsatz oder die Urteilsanmerkung. Direkt verwendbar in Verfahren.
-
 ## Vertiefung: Unterschied zwischen Beweisfrage und Rechtsfrage
 
 Postfaktische Argumente operieren oft an der Grenze zwischen Beweis- und Rechtsfrage: Wenn eine Behauptung als "allgemeinbekannt" oder "rechtlich anerkannt" ausgegeben wird, verschiebt sich die Last. Das Red-Team muss daher zunächst klären, ob die angegriffene Behauptung eine Tatsache (Beweis erforderlich) oder eine normative Wertung (Begründung erforderlich) ist. Erst dann kann die angemessene Gegenargumentation formuliert werden.
@@ -522,3 +475,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 103 GG – Rechtliches Gehör](https://dejure.org/gesetze/GG/103.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

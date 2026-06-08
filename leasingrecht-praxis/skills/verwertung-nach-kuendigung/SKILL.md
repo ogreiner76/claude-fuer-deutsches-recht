@@ -5,10 +5,6 @@ description: "Verwertung des Leasingobjekts nach Kündigung: Verfahren, Schadens
 
 # Verwertung nach Kündigung: Prozess und Schadensminderung
 
-## Arbeitsbereich
-
-Verwertung des Leasingobjekts nach Kündigung: Verfahren, Schadensminderungspflicht, Erlösoptimierung, Dokumentation und Schadensersatzberechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Verwertung des Leasingobjekts nach Kündigung: Verfahren, Schadensminderungspfli
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Nach der Kündigung des Leasingvertrags muss der Leasinggeber das zurückgeholte Objekt bestmöglich verwerten. Dieser Skill beschreibt den Verwertungsprozess, die rechtliche Schadensminderungspflicht und die Schadensersatzberechnung.
 
 ## Schadensminderungspflicht (§ 254 BGB)
 
@@ -120,3 +112,4 @@ Gesamtforderung LG:
 - **Schadensersatz-Berechnung**: Vorlage mit Abzinsung und Verwertungserlös
 - **Verwertungskanal-Matrix**: Objekt – Kanal – Vor-/Nachteile
 - **Abrechnung an LN**: Muster-Schlussabrechnung nach Kündigung
+

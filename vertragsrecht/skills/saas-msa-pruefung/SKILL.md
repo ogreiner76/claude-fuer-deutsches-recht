@@ -17,10 +17,6 @@ Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-SaaS-Verträge haben ein anderes Risikoprofil als einmalige Lieferantenverträge. Die Kosten akkumulieren über Verlängerungen, die Daten häufen sich an, und die Wechselkosten wachsen monatlich. Dieser Skill prüft unter Berücksichtigung dieser Besonderheiten. Er führt die Standard-Playbook-Prüfung aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` durch und ergänzt sie um einen SaaS-spezifischen Prüfaufschlag für die Punkte, die bei Abonnementverträgen besonders gefährlich sind.
-
 ## Eingaben
 
 - SaaS-/MSA-Vertrag (Datei-Upload oder Direkteingabe)
@@ -142,25 +138,6 @@ Falls Vertragsstrafe (z. B. bei SLA-Verstößen oder Datenschutzverstößen) ver
 - Verhältnis zur Haftungsklausel: Ist die Vertragsstrafe auf den Haftungsdeckel angerechnet?
 - Kumulationsproblem: Mehrere Vertragsstrafen-Tatbestände?
 
-## Ausgabeformat
-
-Memo mit folgendem Aufbau:
-
-```markdown
-VERTRAULICH – ANWALTLICHES ARBEITSERGEBNIS (§ 43a II BRAO)
-
-⚠️ Prüfer-Hinweis
-[Quellen, gelesene Seiten, gekennzeichnete Punkte, Aktualitätsprüfung]
-
-### SaaS-/MSA-Prüfung: [Anbieter] – [Vertragsbezeichnung]
-
-**Seite:** [Käufer / Verkäufer]
-**Jahreswert (ACV):** [Betrag / nicht angegeben – bitte nennen für Eskalationsrouting]
-**Laufzeit:** [Dauer, Verlängerung]
-**AVV:** [beigefügt / per URL referenziert / fehlt]
-
----
-
 ## Zusammenfassung
 
 [3–5 Sätze: Was ist das Wichtigste, was muss der Anwalt wissen?]
@@ -225,3 +202,4 @@ Kommentare:
 - **Credit-als-einzige-Abhilfe + Null-Haftung:** Wechselwirkung ergibt de-facto-Haftungsausschluss; im B2C regelmäßig unwirksam nach § 307 BGB.
 - **CISG-Abwahl vergessen:** Falls der SaaS-Anbieter im Ausland sitzt, CISG ausschließen.
 - **Berufsrechtlicher Hinweis:** § 43a Abs. 2 BRAO, § 203 StGB bei jeder Weitergabe beachten.
+

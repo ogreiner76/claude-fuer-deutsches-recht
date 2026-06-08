@@ -27,10 +27,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Dieser Startcheck greift am Anfang jeder Immobilien- oder M&A-Transaktion mit inländischem Grundbesitz. Ziel: Tatbestand, Zeitachse, Steuerschuldner, Anzeige und Streitpunkte schnell sortieren.
-
 ## Rückfragen
 
 1. Direkter Grundstückskauf oder Anteilskauf?
@@ -67,14 +63,7 @@ Dieser Startcheck greift am Anfang jeder Immobilien- oder M&A-Transaktion mit in
 | Konzern/Umwandlung | `anw-grest-konzernklausel-6a` |
 | Bescheidstreit | `anw-grest-bescheid-einspruch-adv-16` |
 
-## Output
-
-- Ein-Seiten-Transaktionskarte.
-- GrESt-Tatbestandsmatrix.
-- Anzeige- und Fristenplan.
-- Steuerschuldner- und Haftungsrisiko.
-- Entwurf für Mandantenhinweis.
-
 ## Quellen
 
 Gesetzestext GrEStG und aktuelle BFH-Entscheidungen live prüfen. Finanzverwaltungsauffassung zu Share Deals als solche kennzeichnen, nicht als zwingende Rechtsprechung.
+

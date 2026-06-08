@@ -47,9 +47,6 @@ Wenn Landesgesetz: Prüfung der Landesverfassung. Hat das Land Selbstverwaltung 
 
 Art. 70 GG (Auffangkompetenz Länder) — Art. 71-73 GG (ausschliessliche Bundeskompetenz) — Art. 72-74 GG (konkurrierende Kompetenz, Erforderlichkeit) — Art. 72 Abs. 3 GG (Abweichungskompetenz) — Art. 80 GG (Verordnungsermaechtigung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Gutachten ein bis zwei Seiten mit:
@@ -64,3 +61,4 @@ Gutachten ein bis zwei Seiten mit:
 
 Wenn tragfähig: weiter mit `normenkartierung`.
 Wenn nicht tragfähig: zurueck zu `legistik-auftragsaufnahme` und Norm-Ebene wechseln.
+

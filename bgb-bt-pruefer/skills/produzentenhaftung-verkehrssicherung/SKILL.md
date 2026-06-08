@@ -5,10 +5,6 @@ description: "Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, K
 
 # Produzentenhaftung und Verkehrssicherung
 
-## Arbeitsbereich
-
-Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Ve
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Zweck
-
-Produzentenhaftung nach § 823 Abs. 1 BGB und dem Produkthaftungsgesetz (ProdHaftG) prüfen: Produktfehler, Kausalität, Beweislast und Abgrenzung zur allgemeinen Verkehrssicherungspflicht.
 
 ## Normanker
 
@@ -61,25 +53,13 @@ Produzentenhaftung nach § 823 Abs. 1 BGB und dem Produkthaftungsgesetz (ProdHaf
 - Instruktionsfehler oft übersehen: mangelhafte Gebrauchsanleitung kann Fehler begründen.
 - Entwicklungsrisiko-Einwand nach § 1 Abs. 2 Nr. 5 ProdHaftG: Hersteller muss Exkulpation beweisen.
 - Bei reinen Vermögensschäden hilft ProdHaftG nicht; dann nur § 823 BGB oder § 826 BGB.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Fehler-Typen-Analyse (Konstruktion, Fabrikation, Instruktion)
-- Anspruchsgrundlagen-Matrix (§ 823 BGB vs. ProdHaftG)
-- Haftungsausschluss-Prüfung
-- Schadensersatz-Berechnung und Obergrenzen
-
-## Qualitätsregeln
-
-- § 823 BGB und ProdHaftG immer nebeneinander prüfen; unterschiedliche Beweislasten.
-- Produktbeobachtungspflicht auch nach Inverkehrbringen mitprüfen.
-- Entwicklungsrisiko-Einwand sachverhaltsnah bewerten.
 
 ## Anschluss-Skills
 
@@ -93,10 +73,4 @@ Produzentenhaftung nach § 823 Abs. 1 BGB und dem Produkthaftungsgesetz (ProdHaf
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/prodhaftg/
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2853
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

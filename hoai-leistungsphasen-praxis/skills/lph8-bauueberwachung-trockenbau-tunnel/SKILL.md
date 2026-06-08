@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -
 
 # Bauueberwachung Trockenbau F30 und F90 Brandschutzwaende
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle für Brandschutzsachverstaendige und Baubehoerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung
 - Falsches System: Zulassung für CW 75 gilt nicht automatisch für CW 50, Systemwechsel ohne neue Zulassung unzulaessig
 - Fehlende BSV-Abnahme vor Verputz: Nachtraegliche Pruefung unmoeglich, Zwangsweise Dokumentation durch Bohrung oder Rissoemission
 
-## Output
-
-Abnahmeprotokoll Brandschutzwand je Wandabschnitt mit BSV-Unterschrift. Abschottungs-Checkliste mit Foto je Durchfuehrung. Beplankungslagen-Fotodokumentation je Lage. Lieferschein-Archiv Trockenbau-Systemkomponenten. SAP-PM-Equipment-IDs Brandschutzwaende. Bautagebuch Trockenbau. Freigabe-Dokumentation für Baubehoerde.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Abnahmeprotokoll Brandschutzwand je Wandabschnitt mit BSV-Unterschrift. Abschott
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [MBO § 28 Aussenwaende Brandschutz](https://www.gesetze-im-internet.de/mbo_2002/index.html)
+

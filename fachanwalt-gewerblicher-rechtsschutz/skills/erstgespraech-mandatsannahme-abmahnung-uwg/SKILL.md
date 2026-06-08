@@ -5,9 +5,6 @@ description: "Erstgespraech Mandatsannahme Abmahnung UWG im Plugin Fachanwalt Ge
 
 # Erstgespraech Mandatsannahme Abmahnung UWG
 
-## Arbeitsbereich
-
-**Erstgespraech Mandatsannahme Abmahnung UWG** ordnet den Fall über die tragenden Prüfungslinien: Erstgespraech im gewerblichen Rechtsschutz strukturieren, UWG-Abmahnung prüfen versenden oder auf Eingang reagieren, Abmahnung oder Vergleich bei Domainnamen-Streit und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Erstgespraech Mandatsannahme Abmahnung UWG im Plugin Fachanwalt Ge
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `erstgespraech-mandatsannahme`
@@ -94,9 +92,6 @@ Drei Weichen am Ende des Erstgespraechs:
 - § 3a RVG — Schriftformerfordernis Stundenhonorar
 - §§ 195, 199 BGB — Regelverjaehrung 3 Jahre
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
@@ -617,9 +612,6 @@ Schritt 6: Bei Scheitern
  → Negative Feststellungsklage (Abgemahnter)
 ```
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template Modifizierte Unterlassungserklaerung
 
 **Adressat:** Abmahnender/Gegenseite — Tonfall sachlich-juristisch
@@ -698,8 +690,3 @@ Mit freundlichen Gruessen
 | Einmaliger Pauschbetrag | Nach Billigkeit, haeufig 5.000-50.000 EUR | Gerichtliche Schaetzung § 287 ZPO |
 | Vertragsstrafe | Vereinbarter Betrag je Verstoß | Unterlassungserklaerung |
 
-## Querverweise
-
-- `fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung` — Eil-Verfahren nach Scheitern
-- `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` — Marken-Verfahren parallel
-- `fachanwalt-gewerblicher-rechtsschutz-orientierung` — Triage

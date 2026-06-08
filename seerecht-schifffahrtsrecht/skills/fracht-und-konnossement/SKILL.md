@@ -49,12 +49,6 @@ Ein Importeur erhält beschädigte Ware; das Konnossement ist geklauselt; er fra
 - Einjährige Ausschlussfrist (HGB § 606) ist Ausschlussfrist; kein Neubeginn durch Verhandlungen.
 - Mehrfachindossament von Konnossementen: bei Kollision mit Sea-Waybill gilt das Konnossement.
 
-## Output
-- Konnossementsprüfprotokoll (Dokumentenstatus; Mängel; Risiken)
-- Schadensabwicklungs-Leitfaden (Anzeige; Sicherung; Klageweg)
-- Haftungsgrenzen-Berechnung
-- Musterbrief Schadensmeldung an Verfrachter
-
 ## Erweiterte Normengrundlage
 
 ### Konnossementsrecht
@@ -91,3 +85,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - HGB § 606: https://dejure.org/gesetze/HGB/606.html
 - Hamburg Rules UNCTAD: https://unctad.org/system/files/official-document/aconf89d13_en.pdf
 - gesetze-im-internet HGB § 513: https://www.gesetze-im-internet.de/hgb/__513.html
+

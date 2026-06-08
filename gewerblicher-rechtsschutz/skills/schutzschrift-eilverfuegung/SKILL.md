@@ -5,10 +5,6 @@ description: "Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befü
 
 # Schutzschrift gegen Eilverfügung
 
-## Arbeitsbereich
-
-Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befürchtet einstweilige Verfuegung ohne Anhörung. § 945a ZPO Schutzschrift ZSER. Prüfraster: Hinterlegung zentrales elektronisches Schutzschriftenregister § 945a ZPO Sachverhalt Gegenrede Glaubhaftmachung eidesstattliche Versicherung Wertangabe Senatsauswahl. Output: Schutzschrift-Entwurf für sofortige Hinterlegung. Abgrenzung zu unterlassungsverlangen (Abwehr der Abmahnung selbst) und verletzungs-triage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befürchtet einstwe
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Wenn eine einstweilige Verfügung droht, kann eine Schutzschrift im zentralen elektronischen Schutzschriftenregister hinterlegt werden — das Gericht muss sie bei jeder EV-Prüfung berücksichtigen.
 
 ## Schritt 1 — Anwendungsbereich
 
@@ -247,3 +239,4 @@ Es wird beantragt:
 <!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

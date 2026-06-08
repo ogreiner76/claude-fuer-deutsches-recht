@@ -83,6 +83,3 @@ Liegt ein Cluster- oder Systemmarkt vor? Begründung und Auswirkung auf Marktant
 - EK, Entsch. v. 22.07.2009 — COMP/M.5529 (Oracle/Sun Microsystems) — Systemmarkt Hardware/Software; Buendelungsstrategien als wettbewerbsrelevante Faktoren; After-Sales-Markt separat zu betrachten.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

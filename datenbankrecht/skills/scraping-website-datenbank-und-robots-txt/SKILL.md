@@ -59,14 +59,6 @@ Rechtliche Bewertung von Web-Scraping gegen Websites mit Datenbankcharakter: Pr�
 - Aggregator-Dienste, die Echtzeit-Suche auf Fremddatenbanken betreiben, erfüllen nach Innoweb/Wegener den Weiterverwendungstatbestand.
 - Wettbewerbsrechtliche Ansprüche (UWG) unterliegen kürzerer Verjährung (§ 11 UWG: 6 Monate) als urheberrechtliche.
 
-## Output
-
-- Risikoampel (Scraping-Vorhaben: grün/gelb/rot nach Datenbankschutz, AGB, Strafrecht)
-- AGB- und robots.txt-Analyse-Checkliste
-- Unterlassungsschreiben für betroffene Betreiber
-- Compliance-Leitfaden für eigene Scraping-Aktivitäten
-- Beweissicherungsprotokoll für angegriffene Datenbankbetreiber
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +67,4 @@ Rechtliche Bewertung von Web-Scraping gegen Websites mit Datenbankcharakter: Pr�
 - [§ 202a StGB — dejure.org](https://dejure.org/gesetze/StGB/202a.html)
 - [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

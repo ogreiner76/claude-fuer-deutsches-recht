@@ -5,9 +5,6 @@ description: "Methodenwahl Offenlegen Methodischer im Plugin Methodenlehre Buerg
 
 # Methodenwahl Offenlegen Methodischer
 
-## Arbeitsbereich
-
-**Methodenwahl Offenlegen Methodischer** ordnet den Fall über die tragenden Prüfungslinien: Lehrt die professionelle Offenlegung der gewählten, Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf, Analysiert den Einfluss von Narrativen und Framings auf die. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Methodenwahl Offenlegen Methodischer im Plugin Methodenlehre Buerg
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `methodenwahl-offenlegen-schriftsatz`
@@ -84,10 +82,6 @@ Professionelle Juristen machen ihre Methodenwahl explizit. Sie sagen nicht nur, 
 - Die Methodenoffenlegung ist zu ausführlich und überschattet das eigentliche rechtliche Argument.
 - Inkonsistenz: In einem Teil des Schriftsatzes wird die teleologische, im anderen die historische Methode bevorzugt, ohne Hierarchie zu erklären.
 - Methodenfehler des Vorurteils werden nicht als solche gerügt, sondern nur im Ergebnis angegriffen.
-
-## Output
-
-Das Skill liefert Formulierungsbausteine für methodisch transparente Schriftsätze: Einstiegsformulierungen zur Methodenwahl, Begründungspassagen für die Methode, Abgrenzungsformulierungen gegen alternative Methoden und Rügeformulierungen gegen Methodenfehler der Gegenseite. Direkt schriftsatztauglich.
 
 ## Vertiefung: Methodentransparenz als Überzeugungstechnik
 
@@ -173,10 +167,6 @@ Jede Auslegungs- und Rechtsfortbildungsentscheidung hat eine demokratietheoretis
 - Demokratieargumente werden instrumentalisiert: Sie werden nur gegen unerwünschte Entscheidungen eingesetzt.
 - Art. 79 Abs. 3 GG als absolute Grenze wird nicht in Betracht gezogen, wenn Grundsätze des Demokratieprinzips durch Richterrecht ausgehöhlt werden.
 
-## Output
-
-Das Skill liefert einen Demokratiecheck: Identifikation der demokratischen Vorentscheidung, Prüfung der methodischen Entscheidung gegen das Demokratieprinzip, Kompetenzanalyse, Legitimationskette und Formulierung der demokratietheoretischen Konsequenz. Verwendbar für Verfassungsbeschwerden, wissenschaftliche Beiträge und institutionelle Reformdiskussionen.
-
 ## Vertiefung: Parlamentsvorbehalt im Privatrecht
 
 Der Parlamentsvorbehalt ist nicht nur im Öffentlichen Recht relevant: Auch im Privatrecht verlangen grundrechtlich wesentliche Entscheidungen eine parlamentarisch-gesetzliche Grundlage. Die Wesentlichkeitslehre des BVerfG gilt auch hier: Wenn eine richterrechtliche Fortbildung in grundrechtsrelevante Bereiche eingreift, ohne gesetzliche Ermächtigung, fehlt ihr die demokratische Legitimation.
@@ -260,10 +250,6 @@ Juristische Texte sind nie narrativ neutral. Die Art, wie ein Sachverhalt erzäh
 - Die Dekonstruktion des Narrativs schafft unbeabsichtigt ein eigenes Gegennarrativ (Umkehrframing).
 - Tatbestandsmerkmale werden zu eng auf buchstäbliche Fakten reduziert — normative Wertungselemente sind ebenfalls tatbestandsrelevant.
 - Narrativkritik wird eingesetzt, um unerwünschte emotionale Elemente aus dem Sachverhalt zu verdrängen, die eigentlich rechtlich relevant sind.
-
-## Output
-
-Das Skill liefert eine Narrativkritik-Analyse: Identifikation des Narrativs, Dekonstruktion der Sachverhaltsrahmung, tatbestandszentrierte Reformulierung, Subsumtionsvergleich und Formulierungsvorschlag für die narrative Gegendarstellung. Verwendbar als Werkzeug für Schriftsatzkritik, als Anlage zu Gutachten und für wissenschaftliche Methodenanalysen.
 
 ## Vertiefung: Narrativkritik in der Urteilsanalyse
 
@@ -349,10 +335,6 @@ Der Obersatz ist der Ausgangspunkt jeder gutachterlichen Prüfung. Er muss die z
 - Der Obersatz benennt eine Anspruchsgrundlage, die im Sachverhalt offensichtlich nicht einschlägig ist.
 - Subsumtionsergebnisse aus einem Prüfungspunkt werden im Obersatz des nächsten Prüfungspunkts vorweggenommen.
 
-## Output
-
-Das Skill liefert Formulierungsvorlagen für wertungsoffene Obersätze in typischen zivilrechtlichen Prüfungskonstellationen: Anspruch auf Schadensersatz, AGB-Unwirksamkeit, Vertragsauslegung, Sittenwidrigkeit, Anfechtung. Plus ein Qualitäts-Checkliste zur Selbstprüfung jedes Obersatzes vor Abgabe.
-
 ## Vertiefung: Obersatz als Strukturierungsinstrument
 
 Der Obersatz hat nicht nur eine inhaltliche, sondern auch eine strukturelle Funktion: Er gliedert das Gutachten in nachvollziehbare Prüfungseinheiten und signalisiert dem Leser, welche Rechtsfrage als nächstes geprüft wird. Ein gut formulierter Obersatz kann die gesamte Gutachtenstruktur sichtbar machen, ohne die Subsumtion vorwegzunehmen. Diese doppelte Funktion — Inhalt und Struktur — sollte bei der Formulierung stets im Blick behalten werden.
@@ -437,10 +419,6 @@ Die objektiv-teleologische Auslegung fragt nach dem Zweck, den die Norm nach heu
 - Die Frage, ob objektive Teleologie zu besseren Ergebnissen führt als die Alternative, wird nicht als methodisches Argument berücksichtigt.
 - Systemkonsistenz als Argument für objektive Teleologie wird vom Red-Team nicht ausreichend gewürdigt.
 
-## Output
-
-Das Skill liefert ein Red-Team-Gutachten zur objektiven Teleologie: Identifikation der abweichenden Zweckbehauptung, stärkste historische und demokratietheoretische Gegenargumente, Konsistenzcheck, Alternativmethodenprüfung und ausgewogenes Fazit zur methodischen Vertretbarkeit. Direkt verwendbar in Schriftsätzen und Methodenbeiträgen.
-
 ## Vertiefung: Zeitgenössischer Teleologismus und Normwandel
 
 Der zeitgenössische Teleologismus fragt nicht nur nach dem historischen Normzweck, sondern nach dem Zweck, den die Norm im heutigen gesellschaftlichen und rechtlichen Kontext erfüllen soll. Diese "dynamische Teleologie" ist besonders bei Normen relevant, die über Jahrzehnte alt sind und deren historischer Kontext grundlegend verändert ist. Der Red-Team-Angriff muss hier erklären, warum die Festlegung des Normzwecks für die Gegenwart dem Richter und nicht dem Gesetzgeber obliegen soll.
@@ -466,3 +444,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 34, 269 – Soraya-Urteil zu Grenzen der Teleologie](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

@@ -5,10 +5,6 @@ description: "Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 
 
 # Sanierungsgewinn — IV-Haftung für versaeumte Paragraph 3a-Antraege
 
-## Arbeitsbereich
-
-Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO für versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtverletzung vor. Verteidigungsstrategie und Versicherungsdeckung. Mustertext für Verteidigungsschriftsatz und für praeventive Aktendokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -182,21 +178,6 @@ Beweis: Anlagen 1-12.
 5. Versicherung erst nach Klage angezeigt.
 6. Verteidigung baut nur auf "kein Verschulden" — Verteidigung muss mehrere Linien parallel fuehren.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Modellrechnung.
-- `insol-sanierungsgewinn-mandantenwarnung-iv-und-cro` — Praeventionsbrief.
-- `do-versicherung-manager-haftung` — Versicherungsfragen.
-- `glaeubigerausschuss-mitwirkung` — Ausschuss-Beschluss.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — generelle Steuerthemen.
-- `insolvenzplan-starug-planwerkstatt` — Plan-Mechanik.
-
 ## Quellen Stand 06/2026
 
 - Paragraph 60 InsO, `gesetze-im-internet.de/inso/__60.html`.
@@ -205,3 +186,4 @@ In anderen Plugins:
 - Paragraph 3a EStG, Paragraph 7b GewStG.
 - FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25. Verifikation ueber `dejure.org`.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

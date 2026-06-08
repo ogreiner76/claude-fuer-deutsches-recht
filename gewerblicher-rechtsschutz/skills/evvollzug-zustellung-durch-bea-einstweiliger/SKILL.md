@@ -5,10 +5,6 @@ description: "EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweil
 
 # EV-Vollzug 003: Zustellung durch Gerichtsvollzieher im IP-Verfahren
 
-## Arbeitsbereich
-
-EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -135,3 +131,4 @@ Kostenvorschuss: [Betrag] anbei / per Überweisung
 - `evvollzug-neu-004` – beA-Zustellung als Alternative
 - `evvollzug-neu-005` – Ordnungsmittelantrag nach Vollzug
 - `evvollzug-neu-006` – Auslandszustellung EV
+

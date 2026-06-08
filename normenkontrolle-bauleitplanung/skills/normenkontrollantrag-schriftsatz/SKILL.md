@@ -5,10 +5,6 @@ description: "Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen
 
 # Normenkontrollantrag — Schriftsatz
 
-## Zweck
-
-Der Normenkontrollantrag ist das Kernstück der Mandatsbearbeitung. Er muss in der Begründung die formellen und materiellen Fehler so darstellen, dass der Senat die Unwirksamkeit erkennen muss.
-
 ## Schritt 1 — Rubrum
 
 ### Bestandteile
@@ -182,6 +178,3 @@ C. Beachtlichkeit / Rüge
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -83,14 +83,6 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 **Kritik aus der Wertungsjurisprudenz (Larenz, Canaris):** Reiner Pluralismus ohne Vorrangordnung untergraebt die Rechtssicherheit. Daher: Die Mehrebenenstruktur braucht klare Vorrangregeln (Unionsrecht > Bundesrecht > Landesrecht; Spezialgesetz > Generalgesetz).
 
-## Querverweise
-
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Vorrang des Unionsrechts und Wirkung auf nationale Auslegung.
-- `systematische-auslegung` — System nicht nur national, sondern transnational denken.
-- `systemtheorie-luhmann-rechtssystem-autopoiese` — Recht als gesellschaftliches Teilsystem.
-- `oekonomische-analyse-des-rechts-coase-posner` — transnationale Wirtschaftsordnungen.
-- `legal-realism-und-critical-legal-studies` — Kritik an "Neutralitaet" der Mehrebenenordnung.
-
 ## Quellen und Stand 05/2026
 
 - Sally Falk Moore, Law and Social Change: The Semi-Autonomous Social Field, Law & Society Review 1973.
@@ -103,10 +95,3 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

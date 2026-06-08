@@ -5,10 +5,6 @@ description: "PKV-Krankentagegeld nach § 192 Abs. 5 VVG: Anspruchsvoraussetzung
 
 # PKV-Krankentagegeld: Berufsunfähigkeit und Arbeitsunfähigkeit
 
-## Arbeitsbereich
-
-PKV-Krankentagegeld nach § 192 Abs. 5 VVG: Anspruchsvoraussetzungen, Arbeitsunfähigkeitsbegriff, Berufsunfähigkeitsabgrenzung und Leistungseinstellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Das PKV-Krankentagegeld sichert das Einkommen bei Arbeitsunfähigkeit ab. Dieser
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
 - [dejure.org § 192 VVG](https://dejure.org/gesetze/VVG/192.html)
 - [BDA Berufsunfähigkeit](https://www.bda.de)
+

@@ -5,10 +5,6 @@ description: "Öffnungsklausel für GKV bei Beamten, pauschale Beihilfe (Baden-W
 
 # Beamtenanfänger: Pauschale Beihilfe, Ländercheck
 
-## Arbeitsbereich
-
-Öffnungsklausel für GKV bei Beamten, pauschale Beihilfe (Baden-Württemberg), Vergleich der Beihilfemodelle in den Bundesländern und GKV-Rückkehroption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaer
 
 # Rechtshistorische Literatur nur mit Quelle
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik für Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -70,12 +66,3 @@ Rechtshistorische Sekundaerliteratur darf nicht als Autorenbeweis für historisc
 - Mugdan 1899: Mit Bandnummer (I-VI) und Seite
 - Kein Blindzitat: immer Autor, Werk, Auflage, Seite
 
-## Output
-
-- Checkliste: Korrekte Zitiertechnik für rechtshistorische Literatur
-- Prioritaetenliste: Wann Primaerquelle, wann Sekundaerliteratur
-- Beispielzitierungen aus Savigny, Jhering, Wieacker, Coing, Mugdan
-
-## Quellenregel
-
-Keine Sekundaerliteratur ohne Werk, Auflage und Seite. Standardwerke: Wieacker (1967), Coing (1973-1988), Mugdan (1899). Digitalisate bei ALEX/ÖNB und Universitaetsbibliotheken pruefen.

@@ -5,10 +5,6 @@ description: "Beitragsrückstände in der GKV und PKV: Säumniszuschläge, Leist
 
 # Beitragsschuld, Säumniszuschlag und Ruhen der Leistung
 
-## Arbeitsbereich
-
-Beitragsrückstände in der GKV und PKV: Säumniszuschläge, Leistungsruhen, Schuldenbereinigung und Wiederherstellung des Versicherungsschutzes. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -89,6 +85,7 @@ Beitragsrückstände können den Versicherungsschutz suspendieren. Dieser Skill 
 - [§ 76 SGB IV – Stundung](https://www.gesetze-im-internet.de/sgb_4/__76.html)
 - [BVerfG 1 BvR 347/98](https://www.bverfg.de/e/rs19990109_1bvr034798.html)
 - [dejure.org SGB V § 16](https://dejure.org/gesetze/SGB_V/16.html)
+
 ## Hinweis: Insolvenz und Beitragsschuld
 
 - Bei Insolvenz des Versicherten: Beitragsschuld ist Insolvenzforderung
@@ -101,3 +98,4 @@ Beitragsrückstände können den Versicherungsschutz suspendieren. Dieser Skill 
 - [§ 24 SGB IV – Säumniszuschlag](https://www.gesetze-im-internet.de/sgb_4/__24.html)
 - [§ 16 SGB V – Ruhen der Leistung](https://www.gesetze-im-internet.de/sgb_5/__16.html)
 - [§ 256a SGB V – Beiträge aus Versorgungsbezügen](https://www.gesetze-im-internet.de/sgb_5/__256a.html)
+

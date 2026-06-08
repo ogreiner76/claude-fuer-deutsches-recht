@@ -92,22 +92,7 @@ Detailliert beim separaten Substitutionsagenten.
 - "Ich erwarte Rechtsberatung." → Gibt es nicht. Fuer Beratung Anwalt oder Beratungshilfe.
 - "Ich gehe direkt vor Termin ohne Anmeldung." → Manche AG nur nach Termin.
 
-## Querverweise
-
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage selbst formulieren.
-- `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `beratungshilfe-aussergerichtlich-brh` — Beratungshilfe.
-- `wann-doch-anwalt-grenzfaelle` — Wann Anwalt.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 496 ZPO unveraendert. Rechtsantragsstellen bei den meisten AG vorhanden — vor Besuch Sprechzeiten klaeren.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

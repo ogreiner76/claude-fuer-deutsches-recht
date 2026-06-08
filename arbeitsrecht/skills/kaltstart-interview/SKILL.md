@@ -27,10 +27,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Arbeitsrecht ist standort- und betriebsgebunden. Die richtige Antwort in einem tarifgebundenen Metallbetrieb mit Betriebsrat ist falsch im ungebundenen Start-up mit 8 Mitarbeitern. Dieses Interview kartiert Ihren Fußabdruck: jedes Bundesland und jedes Land mit Mitarbeitern, Tarifbindung, Betriebsratssituation – und baut daraus eine Eskalationstabelle, die weiß, welche Regeln wo gelten.
-
 ## Eingaben
 
 - Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` (Zieldatei)
@@ -177,3 +173,4 @@ Konfiguration gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/
 - **Tarifbindung übersehen.** Nachwirkung (§ 4 Abs. 5 TVG), Allgemeinverbindlicherklärung (§ 5 TVG) oder Bezugnahmeklausel im Arbeitsvertrag können Tarifrecht anwendbar machen, ohne Verbandsmitgliedschaft.
 - **Betriebsrat-Situation unklar.** Betriebsrat kann auch in kleinen Betrieben (ab 5 wahlberechtigten AN) gewählt werden (§ 1 BetrVG). Auf § 102 BetrVG hinweisen, sobald Kündigung im Raum steht.
 - **Datenschutz bei Seed-Dokumenten.** Kündigungsunterlagen sind personenbezogen; § 26 BDSG. Anonymisierung oder Pseudonymisierung empfehlen.
+

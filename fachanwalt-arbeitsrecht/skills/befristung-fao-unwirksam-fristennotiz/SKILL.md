@@ -5,9 +5,6 @@ description: "Befristung FAO Unwirksam Fristennotiz im Plugin Fachanwalt Arbeits
 
 # Befristung FAO Unwirksam Fristennotiz
 
-## Arbeitsbereich
-
-**Befristung FAO Unwirksam Fristennotiz** ordnet den Fall über die tragenden Prüfungslinien: Befristungscompliance und Aktenführung, Fachanwalt für Arbeitsrecht (FAO § 10), Unwirksamkeit erkannt — Fristennotiz und nächster Schritt. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Befristung FAO Unwirksam Fristennotiz im Plugin Fachanwalt Arbeits
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-befristung-compliance-dokumentation-und-akte`
@@ -38,9 +36,6 @@ description: "Befristung FAO Unwirksam Fristennotiz im Plugin Fachanwalt Arbeits
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Systematische Compliance-Prüfung für befristete Arbeitsverhältnisse — von der Formkontrolle über die Sachgrundprüfung bis zur Dokumentationsanforderung. Besonderer Fokus auf die häufigsten Fehler, die zur ungewollten Entfristung führen.
 
 ## Einstieg
 Wenn ein befristeter Arbeitsvertrag oder eine Verlängerungsvereinbarung vorliegt, zuerst prüfen:
@@ -137,12 +132,6 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 - `spezial-tzbfg-schriftsatz-brief-und-memo-bausteine` für Schriftsatzbausteine
 - `workflow-fristen-und-risikoampel` für Fristenkontrolle
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Keine modellwissensbasierten Befristungsregeln ohne Normgrundlage.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu wissenschaftlichen Befristungen nach WissZeitVG.
 - Keine Prüfung besonderer öffentlich-rechtlicher Befristungsregeln (Beamtenrecht, öffentlicher Dienst spezifisch).
@@ -160,9 +149,6 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vollständiger Überblick über das arbeitsgerichtliche Verfahrensrecht — Zuständigkeit, Instanzen, Fristen, Anwaltszwang und prozessuale Form. Grundlage für jede gerichtliche Tätigkeit im Arbeitsrecht.
 
 ## Einstieg
 Wenn eine verfahrensrechtliche Frage vorliegt, zuerst bestimmen:
@@ -255,12 +241,6 @@ Angelegenheiten aus dem BetrVG, MitbestG, TVG (§ 2a ArbGG); Beteiligte sind AG 
 - `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` für Gütermin-Strategie
 - `spezial-datum-formular-portal-und-einreichung` für Einreichungs-Details
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- ArbGG live prüfen auf [gesetze-im-internet.de/arbgg](https://www.gesetze-im-internet.de/arbgg/).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine abschließende Zuständigkeitsprüfung bei internationalem Sachverhalt (EuGVVO, Brüssel Ia-VO).
 - Keine Prüfung von Sondergerichtsbarkeiten (Verwaltungsgericht für Beamte, Sozialgericht für SGB-Ansprüche).
@@ -278,9 +258,6 @@ Angelegenheiten aus dem BetrVG, MitbestG, TVG (§ 2a ArbGG); Beteiligte sind AG 
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Sofortiger Handlungsleitfaden, wenn ein Unwirksamkeitsgrund bei einer Kündigung oder Befristung erkannt wurde. Dieser Skill stellt sicher, dass die laufende Frist gewahrt wird und der Mandant klar über den nächsten Schritt informiert wird.
 
 ## Einstieg
 Wenn ein Unwirksamkeitsgrund erkannt wurde, sofort folgende Schritte:
@@ -394,11 +371,7 @@ Wiedervorlage: [Datum — 2 Tage vor Fristablauf als Sicherheitspolster]
 - `fachanwalt-arbeitsrecht-kuendigungsschutzklage` für Klageschrift
 - `workflow-fristen-und-risikoampel` für Fristenmanagement
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Fristenberechnung; individuelle Prüfung bleibt notwendig.
 - Keine Mandantenvertretung ohne ausdrücklichen Auftrag.
+

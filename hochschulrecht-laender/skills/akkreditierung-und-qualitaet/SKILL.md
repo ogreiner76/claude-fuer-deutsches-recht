@@ -5,10 +5,6 @@ description: "Prüft Akkreditierung und Qualitätssicherung im Hochschulrecht L�
 
 # Akkreditierung Und Qualitaet
 
-## Arbeitsbereich
-
-Prüft Akkreditierung und Qualitätssicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Akkreditierung Und Qualitaet**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Akkreditierung Und Qualitaet**. Prüfe diese Anker am Sachverhal
 - `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruch.
 - `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

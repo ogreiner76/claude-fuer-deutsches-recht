@@ -5,10 +5,6 @@ description: "IoT-/M2M-Konnektivität: SIM-Karten, Roaming, Nummerierung, Sicher
 
 # IoT, M2M und SIM-Karten
 
-## Arbeitsbereich
-
-IoT-/M2M-Konnektivität: SIM-Karten, Roaming, Nummerierung, Sicherheit, Datenzugriff, Produkthaftung und Vertragsketten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ IoT-/M2M-Konnektivität: SIM-Karten, Roaming, Nummerierung, Sicherheit, Datenzug
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für vernetzte Geräte, Flotten, Industrieanlagen und Smart Meter.
-
 ## Norm- und Quellenanker
 
 TKG; Cyber-/NIS2-Recht; DSGVO; Produktsicherheitsrecht.
-
-## Arbeitsfragen
-
-1. Welche Geräte und Länder?
-2. Welche Daten und Fernzugriffe?
-3. Welche Ausfallfolgen?
-
-## Output
-
-IoT-Konnektivitätsmemo und Vertragsklauseln.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ IoT-Konnektivitätsmemo und Vertragsklauseln.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

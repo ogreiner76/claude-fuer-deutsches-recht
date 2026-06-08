@@ -39,10 +39,6 @@ description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen �
 
 § 108 AO · § 122 AO · § 122a AO · § 355 AO · § 47 FGO · § 110 AO · § 56 FGO · §§ 169 ff. AO · §§ 228 ff. AO · § 171 AO (Ablaufhemmung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
-
 ## Fristenmatrix (Schnellzugriff)
 
 | Verfahrensschritt | Frist | Rechtsgrundlage | Wiedereinsetzung |
@@ -63,3 +59,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+

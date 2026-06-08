@@ -5,10 +5,6 @@ description: "Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht.
 
 # Rom 122 Seehandel Lex Rhodia De Iactu
 
-## Aufgabe
-
-Skill für die lex Rhodia de iactu als historisches Pendant der modernen Grossen Havarie.
-
 ## Rechtsquelle
 
 - D. 14.2 (Justinianische Digesten, Buch 14, Titel 2 — De lege Rhodia de iactu).
@@ -69,8 +65,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix mit D. 14.2.
-- Vergleichende Synopse zu York-Antwerp Rules und HGB.
-- Memo für rechtshistorische Hausarbeit.

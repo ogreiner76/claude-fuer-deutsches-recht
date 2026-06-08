@@ -5,10 +5,6 @@ description: "Sale-and-Lease-Back: Strukturierung, Liquiditätswirkung, Bilanzie
 
 # Sale-and-Lease-Back: Liquidität, Bilanzierung und Insolvenzanfechtung
 
-## Arbeitsbereich
-
-Sale-and-Lease-Back: Strukturierung, Liquiditätswirkung, Bilanzierung, Insolvenzanfechtung (§§ 129 ff. InsO) und steuerliche Behandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Sale-and-Lease-Back: Strukturierung, Liquiditätswirkung, Bilanzierung, Insolven
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Sale-and-Lease-Back (SLB) ermöglicht es Unternehmen, bereits vorhandene Anlagegüter zu verkaufen und gleichzeitig zu leasen. Ziel ist meist Liquiditätsbeschaffung ohne Betriebsunterbrechung. Dieser Skill analysiert die Struktur, Bilanzierungsfolgen, Insolvenzanfechtungsrisiken und steuerliche Auswirkungen.
 
 ## Struktur einer SLB-Transaktion
 
@@ -112,3 +104,4 @@ IFRS 16 §§ 98–103 regeln SLB gesondert:
 - **Anfechtungsrisiko-Matrix**: Zeitpunkt – Anfechtungsgrund – Frist – Schutzmaßnahme
 - **IFRS-16-Buchung**: Echte vs. unechte SLB-Transaktion
 - **Steuer-Memo**: Veräußerungsgewinn, AfA, Leasingraten-Abzug
+

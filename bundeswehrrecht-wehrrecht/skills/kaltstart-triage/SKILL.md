@@ -86,11 +86,6 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `statusrechte-im-einsatz-urlaub-betreuung` | Statusrechte im Einsatz Urlaub Betreuung |
 | `schadenersatz-regress-dienstunfall-material` | Schadenersatz Regress Dienstunfall Material |
 
-## Quellenregel
-Vor tragenden Aussagen immer aktuelle Normtexte, amtliche Behördenseiten, EU-Texte oder frei zugängliche Entscheidungen prüfen. Keine BeckRS-/juris-/Kommentarzitate aus Modellwissen. Wenn eine Quelle nicht verifizierbar ist, deutlich sagen und nicht als Beleg verwenden.
-
-<!-- BEGIN ACTUAL-SKILL-ROUTING -->
-
 ## Aktuelle Anschluss-Skills
 
 Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wenn ein Nutzer nach dem Einstieg weitergeleitet werden soll, nimm bevorzugt diese Namen.
@@ -165,3 +160,4 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `widerruf-ernennung-arglistige-taeuschung` | Widerruf Ernennung arglistige Täuschung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinar... |
 
 <!-- END ACTUAL-SKILL-ROUTING -->
+

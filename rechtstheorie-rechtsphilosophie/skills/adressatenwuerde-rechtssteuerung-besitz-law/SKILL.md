@@ -5,9 +5,6 @@ description: "Adressatenwuerde Rechtssteuerung Besitz LAW im Rechtstheorie und R
 
 # Adressatenwuerde Rechtssteuerung Besitz LAW
 
-## Arbeitsbereich
-
-**Adressatenwuerde Rechtssteuerung Besitz LAW** ordnet den Fall über die tragenden Prüfungslinien: Prueft Recht als Adressierung verantwortlicher Personen, Analysiert Besitz, Fund. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -40,6 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `adressatenwuerde-und-rechtssteuerung`
@@ -61,10 +59,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Einsatz
-
-Anwendungsfall: ein Rechtsargument zwar formal korrekt klingt, aber die betroffene Person nur als Objekt staatlicher oder privater Steuerung behandelt. Rechtsstaatliche Legalität schützt nicht nur Planungssicherheit; sie respektiert den Adressaten als jemanden, der verstehen, disponieren, widersprechen und Verantwortung übernehmen kann.
-
 ## Leitfrage
 
 Kann die betroffene Person vernünftigerweise erkennen, was gilt, was von ihr erwartet wird, welche Folgen drohen, welche Einwände zählen und auf welchem Weg sie gehört wird?
@@ -85,10 +79,6 @@ Kann die betroffene Person vernünftigerweise erkennen, was gilt, was von ihr er
 - Behördenpraxis, die nicht mit veröffentlichten Vorgaben übereinstimmt.
 - Überraschende Rechtsprechungsänderung oder neue Verwaltungsauslegung.
 - Private Machtordnungen wie Konzernrichtlinien, Schiedsordnungen, Vereins- und Parteirecht.
-
-## Output
-
-Erstelle einen Adressatenwürde-Check mit den Spalten Erkennbarkeit, Befolgbarkeit, Einwendung, Begründung, Rechtsschutz und Reparatur. Schließe mit einer Formulierung, die den Rechtsstaat nicht pathetisch beschwört, sondern in konkrete Verfahrensrechte übersetzt.
 
 ## Quellen- und Zitierdisziplin
 
@@ -114,10 +104,6 @@ Erstelle einen Adressatenwürde-Check mit den Spalten Erkennbarkeit, Befolgbarke
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill betrachtet Besitz- und Eigentumsfragen als Zuordnung knapper Ressourcen. Er fragt, welche Regel Investitionen schützt, Streit reduziert, Such- und Beweiskosten senkt und Sachen in wertvolle Nutzung bringt. Die ökonomische Analyse ist ein Prüfwerkzeug, kein Ersatz für Normbindung.
 
 ## Sofort klären
 
@@ -148,22 +134,6 @@ Dieser Skill betrachtet Besitz- und Eigentumsfragen als Zuordnung knapper Ressou
 
 Effizienz darf nicht heimlich Eigentum, Grundrechte, Verbraucherschutz, Mieterschutz, Sachenrechtsklarheit oder soziale Schutzentscheidungen verdrängen. Immer zuerst geltendes Recht, dann ökonomische Plausibilisierung oder Reformargument.
 
-## Output
-
-Erstelle eine ökonomische Besitzanalyse:
-
-| Faktor | Befund |
-| --- | --- |
-| Ressource | ... |
-| Exklusivitätsbedarf | ... |
-| Investitionsanreiz | ... |
-| Such-/Sicherungskosten | ... |
-| Beweis- und Transaktionskosten | ... |
-| geeignete Rechtsfolge | ... |
-| Grenze des Effizienzarguments | ... |
-
-Schließe mit `geltendes Recht` und `rechtspolitische Bewertung` getrennt.
-
 ## 3. `besitz-rechtsrealismus-und-praktische-beduerfnisse`
 
 **Fokus:** Prueft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen.
@@ -182,10 +152,6 @@ Schließe mit `geltendes Recht` und `rechtspolitische Bewertung` getrennt.
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill fragt bei Besitz- und Eigentumsargumenten: Welche reale Konfliktlage entscheidet das Recht? Er ergänzt Begriffsarbeit um Rechtsrealismus, ohne in bloße Bauchgefühl-Jurisprudenz zu kippen. Praktische Bedürfnisse müssen konkret benannt werden: Wer handelt wie, welche Beweise gibt es, welche Regel senkt Konflikte, welche Regel erzeugt Fehlanreize?
 
 ## Sofort klären
 
@@ -215,18 +181,6 @@ Rechtsrealismus ist stark, wenn er die tatsächliche Konfliktlage sichtbar macht
 - Baustelle, Grundstücksgrenze, Überbau, Zaunversatz;
 - Tiere, bewegliche Sachen, digitale Zugangsmittel;
 - Besitzdiener, Arbeitnehmer, Hausverwaltung, Logistikdienstleister.
-
-## Output
-
-Gib ein rechtsrealistisches Besitzmemo aus:
-
-1. tatsächliche Kontrolle;
-2. behaupteter Besitzwille oder Ausschlusswille;
-3. Konflikt- und Friedensfunktion;
-4. Beweislage;
-5. handhabbare Entscheidungsregel;
-6. dogmatischer Anschluss;
-7. Ergebnis mit stärkstem Gegenargument.
 
 ## Normen und Rechtsprechung
 

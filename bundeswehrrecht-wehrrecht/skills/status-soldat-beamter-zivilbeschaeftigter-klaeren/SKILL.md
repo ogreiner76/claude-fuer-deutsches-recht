@@ -5,10 +5,6 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema St
 
 # Status klären: Soldat, Beamter oder Zivilbeschäftigter
 
-## Arbeitsbereich
-
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,15 +87,6 @@ Innerhalb der Bundeswehr arbeiten drei Statusgruppen mit unterschiedlichen Recht
 - Personalrat statt Vertrauensperson einschalten oder umgekehrt.
 - Versorgungsansprüche nach BeamtVG statt SVG prüfen.
 
-## Querverweise
-
-- soldatengesetz-rechtsstellung-grundpflichten
-- beamtenrecht-bundeswehrverwaltung-abgrenzung
-- arbeitsrecht-zivile-bundeswehrbeschaeftigte
-- personalvertretung-zivile-beschaeftigte-schnittstelle
-- soldatenbeteiligung-vertrauensperson-sbg
-- reservistendienst-dienstleistungspflicht
-
 ## Quellen Stand 06/2026
 
 - SG, WBO, WDO, SBG, SVG, WPflG – Volltexte gesetze-im-internet.de.
@@ -107,3 +94,4 @@ Innerhalb der Bundeswehr arbeiten drei Statusgruppen mit unterschiedlichen Recht
 - BPersVG – Volltext gesetze-im-internet.de.
 - TVöD-Bund – aktuelle Fassung beim Bundesinnenministerium.
 - BVerwG zu Statusfragen – ständige Rechtsprechung (Az. nur verifiziert).
+

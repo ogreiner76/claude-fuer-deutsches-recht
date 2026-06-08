@@ -5,10 +5,6 @@ description: "Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Res
 
 # Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung)
 
-## Arbeitsbereich
-
-Analysiert Insiderinformation bei mehrstufigen Prozessen (M&A, Restrukturierung) nach dem EuGH-Geltl/Daimler-Standard für Zwischenschritte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,15 +91,3 @@ d) Ist die Information noch nicht öffentlich?
 - Wurde Market Sounding (Art. 11 MAR) korrekt angewendet, sofern potenzielle Investoren
  sondiert wurden?
 
-## Ausgabeformat
-
-Erzeuge eine Zwischenschritt-Matrix mit:
-1. Zeitleiste aller Prozessschritte
-2. Je Schritt: Geltl/Daimler-Test (Präzision / Wahrscheinlichkeit / Kursrelevanz / Öffentlichkeit)
-3. Erste Insiderinformation: Zeitpunkt und Begründung
-4. Insiderliste: Einzutragende Personen ab Zeitpunkt X
-5. Aufschubakte: Voraussetzungen, Beginn, geplantes Ende
-6. Trigger-Ereignisse für Sofortveröffentlichung
-
-Belege ausschließlich mit Quellen aus: dejure.org, openjur.de, gesetze-im-internet.de,
-eur-lex.europa.eu, curia.europa.eu, bafin.de, bgh.de.

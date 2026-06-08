@@ -5,10 +5,6 @@ description: "Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schwe
 
 # Strafverteidigung – Ersttermin und erste Schritte
 
-## Arbeitsbereich
-
-Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: §§ 137 147 StPO. Prüfraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output: Checkliste Ersttermin Strafverteidigung. Abgrenzung: nicht ZPO-Prozessrecht (Zivilrecht). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,6 +79,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Ersttermin – Checkliste
@@ -182,3 +179,4 @@ Beweisverwertungsverboten ist nach `references/zitierweise.md` zu belegen. BVerf
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Kommentare mit Bearbeiter, Werk, Aufl. bzw. Ed. (Stand), §, Rn. Mindermeinungen bei
 umstrittenen Heilungsfällen § 136 StPO ausdrücklich benennen.
+

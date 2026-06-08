@@ -5,10 +5,6 @@ description: "EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gege
 
 # EV-Vollzug 005: Ordnungsmittelantrag (§ 890 ZPO) nach Unterlassungstitel
 
-## Arbeitsbereich
-
-EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gegen Unterlassungstitel aus einstweiliger Verfügung. Tatbestandsvoraussetzungen, Antragsinhalt, Höhe Ordnungsgeld, Verschuldensmaßstab und typische Verteidigungsstrategien des Schuldners. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -109,16 +105,10 @@ Typische Einwände des Schuldners:
 - **Ordnungsgeld-Einschätzungsmatrix:** Umsatz, Schwere, Vorsatz, Wiederholung → empfohlene Höhe.
 - **Antizipierte Verteidigung:** Tabelle Schuldnereinwand / Gegenargument.
 
-## Quellenregel
-
-- [§ 890 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/890.html)
-- [§ 891 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/891.html)
-- Rechtsprechung zur Ordnungsgeldhöhe nur mit Gericht, Datum, AZ und prüfbarer Quelle (openjur.de, bgh.de).
-- Keine BeckRS-Blindzitate; Gerichtspraxis zu Ordnungsgeld variiert; konkretes Gericht maßgeblich.
-
 ## Anschluss-Skills
 
 - `evvollzug-neu-001` – Vollziehungsfrist und Parteizustellung
 - `evvollzug-neu-007` – Abmahnung, Abschlussschreiben und Hauptsache
 - `unterlassungsverlangen` – Unterlassungserklärung als Alternative zum Gerichtsverfahren
 - `verletzungs-triage` – Erstentscheidung bei IP-Verletzung
+

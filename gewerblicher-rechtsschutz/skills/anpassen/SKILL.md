@@ -5,10 +5,6 @@ description: "Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz:
 
 # Gewerblicher Rechtsschutz: Plugin anpassen
 
-## Arbeitsbereich
-
-Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz: Mandatsprofil, Kanzleipräferenzen, Normenauswahl, Sprachstil und Outputformat an konkreten Bedarf anpassen. Skill für Kanzleien, die den Plugin-Rahmen ihrem Arbeitsalltag anpassen wollen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -131,13 +127,6 @@ Basierend auf Profil empfehlen, welche Fachmodule bevorzugt genutzt werden sollt
 - Prüfen: Stimmen Normenreferenzen, Gerichtsstand, Outputformat?
 - Anpassen: Falls Output nicht passt, Profil verfeinern.
 - Periodisch: Plugin bei Gesetzesänderungen (z.B. neue UWG-Novelle, MarkenG-Reform) aktualisieren.
-
-## Quellenregel
-
-- Normänderungen über [gesetze-im-internet.de](https://www.gesetze-im-internet.de) live prüfen.
-- DPMA-Praxis über [dpma.de](https://www.dpma.de) aktuell halten.
-- EUIPO-Richtlinien über [euipo.europa.eu](https://www.euipo.europa.eu) nachverfolgen.
-- Keine BeckRS-Blindzitate; bei spezifischen Gerichtspraxisfragen: Live-Check.
 
 ## Anschluss-Skills
 

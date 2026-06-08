@@ -5,10 +5,6 @@ description: "Prüft Datenschutz bei Prüfungsdaten im Pruefungsrecht Hochschule
 
 # Datenschutz Pruefungsdaten
 
-## Arbeitsbereich
-
-Prüft Datenschutz bei Prüfungsdaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -92,3 +88,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: Datenschutzmemo. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

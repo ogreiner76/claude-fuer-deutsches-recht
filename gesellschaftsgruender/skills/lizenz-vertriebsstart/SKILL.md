@@ -5,10 +5,6 @@ description: "Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeig
 
 # Kommandocenter Gesellschaftsgründung
 
-## Arbeitsbereich
-
-Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeige, Delegierung an Fachinhalte, Status. Normen: GmbHG, AktG, HGB. Prüfraster: aktueller Gründungsstand, offene Schritte, Notartermin, Eintragungsstatus. Output: Statusuebersicht Gründungsprozess mit Naechste-Schritte-Liste. Abgrenzung: kein inhaltlicher Gründungs-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,9 +44,6 @@ Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeige, Delegierung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gründungsphasen-Übersicht
 
 | Phase | Inhalt | Dauer (ca.) | Fachmodul |
@@ -161,3 +154,4 @@ Geschäftsführer: [Namen]
 - `gesellschaftsgruender-notar-vorbereitung` — Notarsitzung
 - `gesellschaftsgruender-handelsregister-anmeldung` — HR-Eintragung
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — GF-Pflichten ab Tag 1
+

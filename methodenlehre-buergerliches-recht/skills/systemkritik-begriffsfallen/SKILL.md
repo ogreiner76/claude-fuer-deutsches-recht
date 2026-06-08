@@ -51,10 +51,6 @@ description: "Dieses Skill schult die Fähigkeit, juristische Begriffsfallen zu 
 - Begriffsausweitungen werden argumentativ getarnt als "sinngemäße Auslegung".
 - Historisch überholte Begriffsdefinitionen werden ohne Prüfung aus älterer Literatur übernommen.
 
-## Output
-
-Das Skill liefert eine Begriffsanalyse für die entscheidenden Rechtsbegriffe im Sachverhalt: Normtext, historische Bedeutung, aktuelle Rechtsprechungsdefinition, Überdehnungs-/Unterdehnungsprüfung und methodisch begründete Begriffsdefinition für den konkreten Fall. Das Ergebnis ist für Gutachten und Schriftsätze direkt verwendbar.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

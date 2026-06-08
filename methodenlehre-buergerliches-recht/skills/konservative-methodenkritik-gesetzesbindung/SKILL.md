@@ -53,10 +53,6 @@ description: "Analysiert die konservative Methodenkritik an einer als zu weitgeh
 - Konservative Kritik verkennt, dass gesetzgeberisches Schweigen oft keine Ablehnung, sondern Unkenntnis der Fallgruppe ist.
 - Die Forderung nach strenger Gesetzesbindung wird mit einer Rückkehr zum Positivismus des 19. Jahrhunderts gleichgesetzt, die verfassungsrechtlich nicht geboten ist.
 
-## Output
-
-Das Skill liefert eine methodologische Kritikanalyse: Rekonstruktion der konservativen Methodenposition, Prüfung ihrer normativen Belege, Bewertung der methodischen Konsistenz und Einschätzung, wo die Kritik berechtigt ist und wo sie überschießt. Geeignet für wissenschaftliche Methodenbeiträge und für Revisionsrügen, die auf Gesetzesbindungsargumenten basieren.
-
 ## Vertiefung: Neo-Positivismus als methodische Strömung
 
 Der Neo-Positivismus verbindet die klassische positivistische Forderung nach Textrückbindung mit einer differenzierteren Anerkennung von Wertungsspielräumen: Er anerkennt, dass Normen notwendigerweise Wertungsbegriffe enthalten, fordert aber, dass diese Wertungen normtextgebunden und methodisch transparent vorgenommen werden. Diese Position ist methodisch konsistenter als ein reiner Positivismus und vermeidet Legitimationslücken.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 133 BGB bei dejure](https://dejure.org/gesetze/BGB/133.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

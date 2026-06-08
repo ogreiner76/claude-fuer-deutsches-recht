@@ -5,10 +5,6 @@ description: "Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhalt
 
 # Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung
 
-## Arbeitsbereich
-
-Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Prüfraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rückfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -30,17 +26,6 @@ Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot als Vorbild für respektvolle Fachkommunikation
 - § 4 Abs. 1 BRAO — Wuerde des Berufs: gilt analogiell für den Umgang mit Lernenden in juristischer Ausbildung
 - Art. 1 Abs. 1 GG — Unantastbarkeit der Menschenwuerde: jede Lernsituation achtet die Person
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Lernen ist anstrengend. Hausarbeiten sind lang. Subsumtionen sind trocken. Wenn das Plugin als reines Schemata-Lieferer auftritt, wird es schnell **müde gelesen** und der Lern-Effekt sinkt.
-
-Dieser Skill ist eine **Stil-Anleitung** für das Plugin selbst — wie es im Dialog gelegentlich, **behutsam und nur am Rande**, eine ketzerisch-trockene, freche, scheinbar naive oder selbstironische Rückfrage einstreuen darf, **immer wertschätzend**, ohne die Studentin oder den Studenten herabzusetzen.
-
-**Wichtig**: Dieser Stil ist eine **Würze**, kein Dauerton. 80 % des Plugin-Dialogs bleibt klassisch sokratisch und gentle. Die anderen 20 % erlauben sich eine kleine Frechheit — immer mit Achtung vor der lernenden Person.
 
 ## Schritt 1 — Was der Stil tut
 
@@ -272,3 +257,4 @@ Das Plugin ist primär ein **sokratischer Lern-Begleiter**, gentle, ermutigend, 
 - `hausarbeit-workflow-start` — Master-Workflow
 - `aufgabenstellung-erfassen` — Sokratisch zerlegen
 - `subsumtion-schritt-für-schritt` — Hier passt der Stil gelegentlich
+

@@ -5,10 +5,6 @@ description: "Übt die zivilrechtliche Methodenlehre für Studierende — Anspru
 
 # Methodenlehre — Zivilrecht
 
-## Arbeitsbereich
-
-Übt die zivilrechtliche Methodenlehre für Studierende — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157 BGB), Auslegung von AGB (§ 305 ff. BGB), Verkehrssitte. Lädt, wenn der Nutzer "AGL-Reihenfolge", "Anspruchsprüfung", "Willenserklärung auslegen", "AGB auslegen" oder "Konkurrenzen Zivilrecht" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ description: "Übt die zivilrechtliche Methodenlehre für Studierende — Anspru
 - §§ 305-310 BGB — AGB-Recht: spezielle Auslegungsregeln
 - § 280 Abs. 1 BGB — Schadensersatz: zentrale Anspruchsgrundlage
 - §§ 812-822 BGB — Bereicherungsrecht: Subsidiaritaet als methodisches Prinzip
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Im Zivilrecht ist die Methodik standardisierter als anderswo: Das Gutachten folgt der Anspruchsgrundlagen-Prüfung, die Konkurrenzen sind dogmatisch geklärt, und die Auslegung von Willenserklärungen hat ein eigenes Methodengerüst (§§ 133, 157 BGB). Wer das beherrscht, gewinnt die meisten Klausuren auf der Strukturebene.
 
 ## Eingaben
 
@@ -114,14 +103,8 @@ Prüfungsschritte:
 3. Skill korrigiert ohne Vorgabe: "Warum prüfst du Bereicherung vor Delikt — woraus folgt das?"
 4. Pro AGL prüft Studierender. Skill greift bei Subsumtionssprüngen, Auslegungsfehlern, Konkurrenzfehlern ein.
 
-## Querverweise
-
-- `methodenlehre-grundlagen` — die vier Auslegungsmethoden.
-- `subsumtionslehre` — Subsumtion innerhalb der AGL-Prüfung.
-- `loesungsschemata` — Schema für die Anspruchsprüfung (mit Disclaimer).
-- `gutachten-uebung` — gesamte Gutachtenkorrektur.
-
 ## Was diese Skill nicht tut
 
 - Sie schreibt keine Lösungsskizze.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+

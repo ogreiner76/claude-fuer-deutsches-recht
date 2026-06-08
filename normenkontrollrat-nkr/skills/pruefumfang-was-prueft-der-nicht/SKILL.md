@@ -82,14 +82,6 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 - "Der NKR hat die Wirtschaftlichkeit bestaetigt" — falsch, das ist BRH
 - "NKR-Beteiligung erfolgt nur bei wirtschaftspolitischen Vorhaben" — falsch, generelle Befassungspflicht bei Erfuellungsaufwand
 
-## Querverweise
-
-- `nkr-aufgabe-und-kompetenz-nkrg`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts`
-- `nkr-eu-ebene-und-better-regulation`
-- `legistik-werkstatt/verfassungsmaessigkeit-quercheck`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 1, 4, 6
@@ -97,3 +89,4 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 - BHO §§ 7, 88, 114
 - Art. 93, 114 GG
 - Live verifizieren ueber Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

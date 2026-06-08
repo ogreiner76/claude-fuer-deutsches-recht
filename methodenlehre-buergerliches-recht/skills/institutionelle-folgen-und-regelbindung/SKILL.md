@@ -54,10 +54,6 @@ description: "Analysiert die institutionellen Folgen von Rechtsanwendungsentsche
 - Institutionelle Folgen werden als irrelevant für die Rechtsfindung abgetan, obwohl sie ein legitimes Auslegungsargument sind.
 - Die Verhaltenssteuerungswirkung des Rechts wird bei der Auslegungsentscheidung nicht berücksichtigt.
 
-## Output
-
-Das Skill liefert eine institutionelle Folgenanalyse: Identifikation des Einzelfall- vs. Präzedenzscharakters, Regelbindungsanalyse, institutionelle Folgenprognose, Konsistenztest und Empfehlung für die methodisch korrekte Entscheidung. Geeignet für strategische Prozessplanung, Gutachten und Rechtsfortbildungsanalysen.
-
 ## Vertiefung: Präventiveffekt von Regelbindung
 
 Strenge Regelbindung hat einen starken Präventiveffekt: Wenn Normen vorhersehbar angewandt werden, können Akteure ihr Verhalten daran ausrichten und Transaktionskosten senken. Dieser ökonomische Vorteil der Regelbindung spricht dafür, Ausnahmen nur bei besonders schwerwiegendem Einzelfallunrecht zuzulassen. Andernfalls untergräbt die Ausnahme die allgemeine Verhaltenssteuerungsfunktion der Norm.
@@ -83,3 +79,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 49, 89 – Kalkar I, institutionelle Folgenverantwortung](https://www.bverfg.de/e/rs19781208_2bvl000175.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

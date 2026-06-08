@@ -5,10 +5,6 @@ description: "Prüft kartellrechtliche Anforderungen an vertikale Vertriebsverei
 
 # Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV
 
-## Arbeitsbereich
-
-Prüft kartellrechtliche Anforderungen an vertikale Vertriebsvereinbarungen mit Handelsvertretern: Preisbindung der zweiten Hand, Gebietsschutz und Kundengruppen unter der Vertikal-GVO, Einzelfreistellung nach Art. 101 Abs. 3 AEUV sowie Abgrenzung zulässiger Empfehlungen von verbotener Preisbindung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Absolute Gebietsabschottung als Hardcore-Restriction nicht erkannt.
 - Echte Handelsvertretung irrtümlich angenommen — Kartellprivileg entfällt.
 
-## Output
-
-Kartellrechtliches Gutachten Vertriebsvereinbarung, Freistellungsanalyse Vertikal-GVO, Preisbindungs-Bewertung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 1 GWB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwb/__1.html)
 - [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
 - [Dejure Art. 101 AEUV](https://dejure.org/gesetze/EGV/81.html)
+

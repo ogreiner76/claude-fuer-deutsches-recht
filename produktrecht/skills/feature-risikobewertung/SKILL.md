@@ -5,10 +5,6 @@ description: "Tiefgehende Risikobewertung für ein einzelnes Feature oder einen 
 
 # Feature-Risikobewertung
 
-## Arbeitsbereich
-
-Tiefgehende Risikobewertung für ein einzelnes Feature oder einen Produktbereich wenn der Launch-Review etwas gefunden hat das mehr als eine Tabellenzeile braucht. Strukturierte Analyse: was könnte schiefgehen, wie wahrscheinlich, wie schlimm, was mildert es. Verwenden wenn der Nutzer sagt "tiefer Einblick in dieses Risiko", "Risikobewertung für [Feature]", "was könnte schiefgehen mit", oder wenn launch-prüfung eine neuartige Frage flaggt. Besonders einschlägig bei: UWG-Verstoßrisiken, DSGVO-Verletzung, DSA-Pflichten, KI-VO-Anforderungen, Verbraucherschutz nach BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,12 +18,6 @@ Tiefgehende Risikobewertung für ein einzelnes Feature oder einen Produktbereich
 **Mandat-Kontext.** `## Mandate-Workspaces` in der praxisseitigen CLAUDE.md prüfen. Wenn `Aktiviert` `✗` ist (Standard für In-House-Nutzer), diesen Absatz überspringen. Wenn aktiviert und kein aktives Mandat, fragen: "Für welches Mandat ist das? `/produktrecht:produktrecht-mandat-arbeitsbereich switch <kürzel>` ausführen oder 'Praxisebene' sagen." Das aktive `mandat.md` für mandatsspezifischen Kontext laden. Ausgaben in den Mandat-Ordner schreiben. Niemals Dateien eines anderen Mandats lesen außer `Mandats-übergreifender Kontext` ist `ein`.
 
 ---
-
-## Zweck
-
-Der Launch-Review ist breit. Dies ist tief. Wenn eine einzelne Frage mehr als eine Tabellenzeile braucht – ein neuartiges KI-Feature, ein Produkt für Minderjährige, etwas das ein Behörde aktiv beobachtet – erstellt dieser Skill eine eigenständige Bewertung.
-
-Nicht jeder Launch braucht eine. Die meisten nicht. Dies ist für die 10% wo "DSFA fertig, geshippt" nicht das richtige Prüfungsniveau ist.
 
 ## Eingaben
 
@@ -203,14 +193,6 @@ Prüfen:
 - **An Datenschutzrecht:** Wenn das Feature neue Datenerhebung oder -verarbeitung beinhaltet, `/datenschutzrecht:dsfa-erstellung [Feature]` ausführen.
 - **An KI-Governance-Lieferantenprüfung:** Wenn das Feature einen neuen KI-Anbieter verwendet, `/ki-governance:ki-anbieter-prüfung [Lieferantenvertrag]` ausführen.
 
-## Ausgabeformat
-
-Eigenständiges Dokument, 2–4 Seiten. Arbeitsvermerk aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` `## Ausgaben` voranstellen.
-
-Kein Foliensatz, kein Memo zur Akte – ein Entscheidungsdokument das jemand liest und dann entscheidet.
-
-Speichern wo `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` → Launch-Review-Prozess sagt wohin Review-Dokumente gehen.
-
 ## Quellen und Zitierweise
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -239,3 +221,4 @@ Problem : BGH VI ZR 721/15 ("Nutzerdaten") – Zitatfehler (WRONG_TOPIC). Das Ur
 Quelle : https://dejure.org/2017,9951
 Aktion : Zeile entfernt
 -->
+

@@ -42,12 +42,6 @@ Vor dem Kaltstart-Interview klaeren:
 4. **Welche Module werden benoetigt?** Nicht alle Module annehmen; Nutzer explizit fragen. Pro-Tipp: Die meisten Nutzer brauchen 1-2 Module, nicht alle vier.
 5. **Seed-Dokumente verfuegbar?** Wenn Nutzer Due-Diligence-Anforderungsliste oder Musterbeschluesse hochgeladen hat: aus diesen extrahieren statt manuell fragen.
 
-## Zweck
-
-Gesellschaftsrechtliche Mandate variieren erheblich: Ein GmbH-Syndikusrechtsanwalt (§ 46 BRAO) bei einem Start-up führt M&A-Transaktionen durch, pflegt die Gesellschafterliste und protokolliert Gesellschafterbeschlüsse. Ein Kanzleianwalt bei einem DAX-Konzern verantwortet möglicherweise nur BaFin-Meldepflichten oder die Vorbereitung von Hauptversammlungen. Dieses Interview ermittelt, welche Bereiche für den Nutzer aktiv sind, und baut ausschließlich das relevante Praxisprofil — keine leeren Abschnitte für nicht anwendbare Bereiche.
-
-Beim Aufruf mit `--integrationen-prüfen`: Nur Teil 0 "Was ist verbunden?" neu ausführen und die `## Verfügbare Integrationen`-Tabelle in CLAUDE.md aktualisieren. Integration nur als ✓ ausweisen, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war.
-
 ## Eingaben
 
 - Angaben des Nutzers zu Tätigkeit, Kanzlei-/Unternehmensprofil und aktivem Modul
@@ -155,17 +149,12 @@ Zusammenfassung zeigen, Praxisprofil erstellen, Pflege erläutern:
 
 > Ihr Praxisprofil liegt in CLAUDE.md. Änderungen jederzeit direkt oder per `/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview --redo` möglich. Am häufigsten angepasst: Wesentlichkeitsschwellen, Hausstil für Beschlüsse, Eskalationsmatrix.
 
-## Ausgabeformat
-
-- Praxisprofil in CLAUDE.md mit allen aktiven Modulen und befuellten Abschnitten
-- Keine `[PLATZHALTER]` in abgeschlossenen Sektionen — nur bewusst ausgelassene Felder als `[AUSSTEHEND]` markieren
-- Tabellarische Uebersicht aktiver Module mit Kurzbeschreibung
-
 ## Output-Template
 
 **Adressat:** Praxis-Nutzer / Kanzlei-intern — Tonfall: sachlich-bestaedigend, handlungsanleitend
 
 ```
+
 ## Gesellschaftsrecht Praxisprofil
 _Erstellt: [TT.MM.JJJJ] — Version 1.0_
 
@@ -246,3 +235,4 @@ Jeder Verweis auf Vorschriften in CLAUDE.md und in Skill-Ausgaben muss zitieren:
 - Keine bloßen Gesetzesnummern ohne Paragraphenzeichen
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

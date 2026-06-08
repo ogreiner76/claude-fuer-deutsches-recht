@@ -5,10 +5,6 @@ description: "Prüft Äußerungen im Betrieb, in der Kantine, im Kollegenkreis, 
 
 # Betrieb, Kantine und Arbeitgeber
 
-## Arbeitsbereich
-
-Prüft Äußerungen im Betrieb, in der Kantine, im Kollegenkreis, gegenüber Arbeitgeber, Betriebsrat oder auf LinkedIn. Verbindet Ehrschutz, Meinungsfreiheit, arbeitsrechtliche Nebenpflichten und Eskalationsrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -30,14 +26,6 @@ Im Betrieb können dieselben Worte anders wirken als auf einer öffentlichen Pla
 5. **Nebenfolgen:** Abmahnung, Kündigung, Zeugnis, Betriebsfrieden.
 6. **Whistleblowing/Sonderwege:** interne Meldestelle, Hinweisgeberschutz prüfen, falls einschlägig.
 
-## Output
-
-- Äußerungsrechtliche Ampel.
-- Arbeitsrechtliche Ampel.
-- Beweisbedarf.
-- Deeskalationsvorschlag.
-- Formulierungsalternative für interne Kritik.
-
 ## Beispielhafte sichere Umformung
 
 Statt "Die Projektleitung ist unfähig und trickst die Kunden aus" eher:
@@ -52,10 +40,3 @@ Statt "Die Projektleitung ist unfähig und trickst die Kunden aus" eher:
 - **Beweissicherung:** Screenshots mit Datum/URL, Zeugen befragen, ggf. Audioprotokoll (Achtung § 201 StGB — heimliche Aufnahme strafbar!).
 - Falle: Schmähkritik-Vorwurf gegenüber legitimer Sachkritik überdehnt — BAG verlangt erkennbaren Sachbezug und Verhältnismäßigkeit.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

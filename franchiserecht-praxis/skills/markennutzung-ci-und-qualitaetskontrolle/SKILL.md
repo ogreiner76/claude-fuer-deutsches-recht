@@ -5,10 +5,6 @@ description: "Markennutzung im Franchisesystem prüfen: Lizenzierung nach Marken
 
 # Franchiserecht: Markennutzung, Corporate Identity und Qualitätskontrolle
 
-## Arbeitsbereich
-
-Markennutzung im Franchisesystem prüfen: Lizenzierung nach MarkenG, Corporate-Identity-Pflichten, Qualitätskontrollrechte des Franchisegebers, Konsequenzen bei CI-Verstössen und Erschöpfungsgrundsatz. Kennzeichenschutz für Systemname und Logo. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber stellt fest, dass ein Franchisenehmer die Systemmarke abweich
 - Social-Media-Kanäle des Franchisenehmers unter dem Systemnamen sind nicht explizit geregelt; nach Vertragsende entsteht Zuordnungsstreit.
 - Erschöpfungsgrundsatz (§ 24 MarkenG) gilt nur für Waren, nicht für Dienstleistungsmarken im Franchisekontext.
 
-## Output
-
-- Marken-Compliance-Check mit Verletzungsrisikobewertung
-- Abmahnschreiben wegen Markenverletzung
-- Vertragsklausel für Social-Media- und Domain-Regelung
-- Qualitätskontrollkonzept nach § 30 MarkenG
-
 ## Quellen
 
 - https://dejure.org/gesetze/MarkenG/14.html
@@ -71,6 +60,7 @@ Ein Franchisegeber stellt fest, dass ein Franchisenehmer die Systemmarke abweich
 - https://dejure.org/gesetze/MarkenG/49.html
 - https://gesetze-im-internet.de/markeng/__30.html
 - https://dejure.org/gesetze/BGB/305.html
+
 ## Vertiefung
 
 Die Markenlizenz im Franchise ist das rechtliche Herzstück der Systembeziehung. Der Franchisegeber überlässt dem Franchisenehmer das Recht, die Systemmarke zu nutzen, behält aber das Eigentum und die Kontrolle. Aus § 30 Abs. 3 MarkenG ergibt sich das Recht des Markeninhabers, die Qualität der Waren und Dienstleistungen des Lizenznehmers zu kontrollieren.
@@ -84,7 +74,10 @@ Nach Vertragsende erlischt die Lizenz automatisch. Eine weiterhin erfolgende Mar
 - Social-Media-Accounts-Regelung unbedingt in den Franchisevertrag aufnehmen: Übertragung oder Löschung bei Vertragsende.
 - Qualitätskontrollanspruch nach § 30 Abs. 3 MarkenG im Vertrag ausdrücklich verankern.
 - Domain-Inhaber-Check: Sind Franchise-typische Domains auf den Franchisegeber oder auf Franchisenehmer registriert?
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

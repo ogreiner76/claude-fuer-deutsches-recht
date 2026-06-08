@@ -29,9 +29,6 @@ Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
 - § 38 FamFG — Beschluss (bei Familiensachen)
 - §§ 708, 709 ZPO — vorläufige Vollstreckbarkeit
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Erweiterter Stundenplan Zweitagesschulung
 
 ### Tag 1
@@ -117,6 +114,8 @@ Die Antworten werden im Akten-Workspace gespeichert (Datei `workflow-entscheidun
 ---
 
 <!-- AUDIT 27.05.2026 -->
+
 ## Audit-Hinweis (27.05.2026)
 
 Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.
+

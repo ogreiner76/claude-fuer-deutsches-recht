@@ -148,10 +148,6 @@ Formhinweise: Präzise formulieren (keine Vagen Formulierungen); bevollmächtigt
 3. **Prüf-Checkliste** (Präzision der Formulierung, Anlagen, Gesellschaftsvertrag, § 47 Abs. 4, Handelsregister).
 4. **Entwurfs-Hinweis** (vor Unterzeichnung zu entfernen): "Dies ist ein Entwurf zur anwaltlichen Prüfung. Die Unterzeichnung begründet rechtswirksame Gesellschafterbeschlüsse — ein zugelassener Rechtsanwalt prüft, bevor der Beschluss zirkuliert wird."
 
-## Ausgabeformat
-
-Beschlussentwurf + Unterzeichner-Checkliste + Pruef-Checkliste + Entwurfs-Hinweis. Arbeitsergebnis-Kopfzeile auf Pruef-Unterlagen.
-
 ## Output-Template
 
 **Adressat:** Gesellschafter / Unterzeichnerkreis — Tonfall: praezise-rechtlich, handlungsanleitend
@@ -230,3 +226,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

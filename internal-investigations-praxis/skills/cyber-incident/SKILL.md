@@ -5,10 +5,6 @@ description: "Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGV
 
 # Cyber-Incident-Response und forensische Untersuchung
 
-## Arbeitsbereich
-
-Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGVO-Meldepflichten, forensische Sicherung, Behördenstrategie, Strafverfolgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,15 +69,6 @@ Dieser Skill strukturiert die unmittelbare Incident-Response, die forensische Be
 - Kundenkommunikation: falls Kundendaten betroffen.
 - Pressekommunikation (vgl. inv-051-press-strategy): kontrollierte Information, keine Spekulation.
 
-## Red-Team-Fragen
-
-- Wurden RAM-Dump und forensische Images vor der Systembereinigung gesichert?
-- Ist die 72-Stunden-DSGVO-Meldepflicht eingehalten, auch wenn noch nicht alle Fakten klar sind?
-- Gibt es sektorspezifische Meldepflichten (BaFin, BSI, NIS2), die separat erfüllt werden müssen?
-- Wurde vor einer Lösegeldzahlung das OFAC-Sanktionsrisiko geprüft?
-- Ist der Zeitpunkt des Erstzugriffs des Angreifers bekannt, und wurden alle Aktivitäten seitdem rekonstruiert?
-- Wurden Strafverfolgungsbehörden (ZAC, BKA) einbezogen?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -101,3 +88,4 @@ Dieser Skill strukturiert die unmittelbare Incident-Response, die forensische Be
 - **Kommunikationsplan** (intern, Kunden, Presse)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

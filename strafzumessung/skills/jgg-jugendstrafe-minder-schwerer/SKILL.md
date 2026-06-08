@@ -144,13 +144,6 @@ Das Jugendgerichtsgesetz (JGG) gilt für Jugendliche (14 bis unter 18 Jahre) und
 - **Vollzug** in Jugendstrafanstalt (§§ 89 ff. JGG) nicht beachtet.
 - **§ 31 JGG**: bei mehreren Taten ist eine **einheitliche** Massnahme oder Strafe zu bilden — kein einfaches "Aufsummieren".
 
-## Querverweise
-
-- `paragraph-46-stgb-grundsatz-strafzumessung` — bei Anwendung Erwachsenenrecht.
-- `bewaehrung-56-stgb-positive-sozialprognose` — Analoge Aussetzung im Erwachsenenrecht.
-- `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — Vollstreckung; bei JGG Sonderregeln in JStVollzG.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Begruendungspflicht auch im Jugendurteil.
-
 ## Quellen und Stand 05/2026
 
 - §§ 1, 2, 9-12, 13-16, 17-22, 27, 31, 105, 106 JGG in der geltenden Fassung.
@@ -158,3 +151,4 @@ Das Jugendgerichtsgesetz (JGG) gilt für Jugendliche (14 bis unter 18 Jahre) und
 - Landes-JStVollzGe.
 - BGH zum Heranwachsenden-Recht und zur Schwere der Schuld — Aktenzeichen verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

@@ -23,13 +23,6 @@ description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: 
 - § 126 BGB — Schriftform (wo erforderlich)
 - § 127 BGB — gewillkürte Schriftform
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Der Skill liefert den ersten belastbaren Vertragsentwurf. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.
-
 ## Startet bei
 
 - hochgeladener Word-Vorlage oder altem Vertrag
@@ -61,3 +54,4 @@ Der Skill liefert den ersten belastbaren Vertragsentwurf. Er arbeitet freistehen
 
 ---
 <!-- AUDIT 27.05.2026: BGH VII ZR 37/17 (NJW 2018, 375) auf dejure.org nicht auffindbar (NOT_FOUND), NJW 2018, 375 ebenfalls nicht in Datenbank — Eintrag ersatzlos geloescht. -->
+

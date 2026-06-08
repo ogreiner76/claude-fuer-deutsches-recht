@@ -5,9 +5,6 @@ description: "Dpma Interessen Einstweilige Euipo im Plugin Fachanwalt Gewerblich
 
 # Dpma Interessen Einstweilige Euipo
 
-## Arbeitsbereich
-
-**Dpma Interessen Einstweilige Euipo** ordnet den Fall über die tragenden Prüfungslinien: DPMA-Mehrparteienverfahren, Mandantenkommunikation im Eilverfahren, EUIPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Dpma Interessen Einstweilige Euipo im Plugin Fachanwalt Gewerblich
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-dpma-mehrparteien-konflikt-und-interessen`
@@ -30,9 +28,6 @@ description: "Dpma Interessen Einstweilige Euipo im Plugin Fachanwalt Gewerblich
 **Fokus:** DPMA-Mehrparteienverfahren: Widerspruchsverfahren MarkenG §§ 41–43, Verfalls- und Nichtigkeitsverfahren, Beschwerde zum BPatG, Beteiligtenrechte, Kollidierende Interessen mehrerer Schutzrechtsinhaber, Prioritätskonflikte, Verfahrensstrategie.
 
 ### DPMA-Mehrparteienverfahren: Konflikte und Interessen
-
-## Aufgabe
-Dieser Skill behandelt DPMA-Verfahren mit mehreren Beteiligten: Widerspruchsverfahren, Löschungsverfahren, Beschwerde beim BPatG und Strategiefragen bei kollidierenden Schutzrechten.
 
 ## Rechtsrahmen
 
@@ -141,13 +136,6 @@ Beschwerde beim BPatG (§ 66 MarkenG) → Rechtsbeschwerde BGH
 - `spezial-markeng-risikoampel-und-gegenargumente` – Risikoampel Markenrecht.
 - `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` – Vollständiger Widerspruchsworkflow.
 
-## Quellenregel
-- MarkenG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/markeng/); DPMA: [dpma.de](https://www.dpma.de).
-- BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de); BGH: [bgh.de](https://www.bundesgerichtshof.de).
-- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Beurteilung ohne Kenntnis der konkreten Marken und Registerauszüge.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -157,9 +145,6 @@ Beschwerde beim BPatG (§ 66 MarkenG) → Rechtsbeschwerde BGH
 **Fokus:** Mandantenkommunikation im Eilverfahren: Entscheidungsvorlage für einstweilige Verfügung, Risiko-Chancen-Abwägung, Kostenaufklärung § 49b BRAO, Mandantenbrief EV-Antrag oder Reaktion auf EV, Informationspflichten und Dokumentation.
 
 ### Mandantenkommunikation: Entscheidungsvorlage Eilverfügung
-
-## Aufgabe
-Dieser Skill unterstützt die Mandantenkommunikation in Eilsituationen: strukturierte Entscheidungsvorlage für oder gegen eine einstweilige Verfügung, Kostenaufklärung und mandantengerechte Darstellung der Optionen.
 
 ## Rechtsrahmen
 
@@ -281,12 +266,6 @@ Wir empfehlen [Option] weil [Begründung].
 - `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung` – Qualitätsgate.
 - `spezial-bezuege-zahlen-schwellen-und-berechnung` – Kostenberechnung.
 
-## Quellenregel
-- BRAO, BORA: [gesetze-im-internet.de](https://www.gesetze-im-internet.de); ZPO: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- RVG, GKG: [gesetze-im-internet.de/rvg](https://www.gesetze-im-internet.de/rvg/), [gesetze-im-internet.de/gkg](https://www.gesetze-im-internet.de/gkg/).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Kostenberechnung ohne vollständige Daten.
 - Kein Ersatz für vollständige Mandantenberatung und individuelle Aufklärung.
@@ -296,9 +275,6 @@ Wir empfehlen [Option] weil [Begründung].
 **Fokus:** EUIPO: Internationale Schnittstellen und Verfahren. Unionsmarke UMV, GGM-Verfahren, EUIPO-Beschwerdekammer, EuGH-Vorabentscheidungen, IR-Marke Madrider System, TM5/IP5, WIPO-Schnittstellen, nationale Designierung über Hague-System.
 
 ### EUIPO: Internationale Bezüge und Schnittstellen
-
-## Aufgabe
-Dieser Skill behandelt EUIPO-Verfahren mit internationalem Bezug: Unionsmarken, GGM, IR-Marken, Beschwerdekammer, EuGH-Vorabentscheidungen und Schnittstellen zu WIPO.
 
 ## Rechtsrahmen
 
@@ -405,14 +381,7 @@ Gültig in allen 27 EU-Mitgliedstaaten
 - `gr-uebersetzung-marke-osterreich-schweiz-spezial` – DACH-Schnittstellen.
 - `faevvollzug-neu-007-grenzueberschreitende-ip-eilverfuegung` – Grenzüberschreitende EV.
 
-## Quellenregel
-- UMV, GGV: [eur-lex.europa.eu](https://eur-lex.europa.eu).
-- EUIPO: [euipo.europa.eu](https://euipo.europa.eu).
-- WIPO: [wipo.int](https://www.wipo.int).
-- EuGH: [curia.europa.eu](https://curia.europa.eu).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine länderspezifische IP-Beratung für Nicht-EU-Länder ohne Quellenverifizierung.
 - Kein Ersatz für vollständige Mandantenberatung.
+

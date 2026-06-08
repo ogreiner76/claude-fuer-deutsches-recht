@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: CFR, CIF, CPT und CIP nach Incoterms
 
 # CFR, CIF, CPT, CIP: C-Klauseln
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: CFR, CIF, CPT und CIP nach Incoterms 2020. C-Klauseln als Ankunftsklauseln für Kosten und Abgangsklauseln für Gefahr, Versicherungspflichten (CIF Klausel C vs. CIP Klausel A) und Transportdokumentenpflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Die C-Klauseln (CFR, CIF, CPT, CIP) sind Hybrid-Klauseln: Gefahrübergang am Abg
 - Versicherungszeugnis für Akkreditiv: UCP 600 Art. 28 Anforderungen vor Vertragsabschluss abstimmen
 - Named Destination: Terminal-Level-Spezifizierung für Frachtkostentransparenz
 
-## Output
-
-- C-Klausel Vergleichstabelle: Gefahrübergang / Kostentragung / Versicherung
-- Versicherungszeugnis-Anforderungen nach UCP 600 Art. 28
-- CIF vs. CIP Entscheidungsbaum
-
-## Quellenregel
-
-Incoterms 2020: iccwbo.org. Institute Cargo Clauses: lloyds.com (LMA). UCP 600: iccwbo.org. Schrifttum: Ramberg, ICC Guide to Incoterms 2020. Unsicherheit bleibt sichtbar.

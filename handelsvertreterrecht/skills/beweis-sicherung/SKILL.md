@@ -5,10 +5,6 @@ description: "Unterstützt Handelsvertreter und Unternehmer bei der Beweissicher
 
 # Beweissicherung im Handelsvertreterstreit nach §§ 485 ff. ZPO
 
-## Arbeitsbereich
-
-Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; digitale Beweismittel und deren Verwertbarkeit vor Gericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Datenschutzrechtliche Verwertungsverbote bei heimlich aufgezeichneten Gesprächen.
 - Beweislastumkehr bei Beweisvereitelung durch Unternehmer nicht ausgenutzt.
 
-## Output
-
-Antrag auf selbständiges Beweisverfahren, Beweismittelliste, Protokoll zur Datensicherung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
 - [Dejure § 485 ZPO](https://dejure.org/gesetze/ZPO/485.html)
 - [Dejure § 87c HGB](https://dejure.org/gesetze/HGB/87c.html)
+

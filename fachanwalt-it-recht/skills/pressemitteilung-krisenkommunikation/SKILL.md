@@ -5,9 +5,6 @@ description: "DSV Pressemitteilung Krisenkommunikation im Plugin Fachanwalt It R
 
 # DSV Pressemitteilung Krisenkommunikation
 
-## Arbeitsbereich
-
-**DSV Pressemitteilung Krisenkommunikation** ordnet den Fall über die tragenden Prüfungslinien: Entwirft eine Pressemitteilung und begleitende, Entwickelt eine Strategie zur Prävention und Steuerung von, Steuert die Aktualisierung des Verzeichnisses von. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "DSV Pressemitteilung Krisenkommunikation im Plugin Fachanwalt It R
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsv-pressemitteilung-krisenkommunikation`
@@ -56,10 +54,6 @@ Nicht aus Modellwissen; insbesondere zu Sammelklagen und immateriellen Schadense
 ## Zentrale Normen
 
 Art. 5 Abs. 1 lit. a; Art. 34 Abs. 1; Art. 34 Abs. 3 lit. c DSGVO; § 824 BGB.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Pressemitteilung-Bausteine
 
@@ -116,10 +110,6 @@ Nicht aus Modellwissen; insbesondere zu BGH/EuGH-Urteilen zum immateriellen Scha
 
 Art. 82 DSGVO; § 1 UKlaG; VDuG; § 309 BGB; Verbandsklagen-Richtlinie 2020/1828.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Roadmap
 
 Phase 1 vor Versand: Wortwahl prüfen; Goodwill-Pakete schnüren; Pressepolitik abstimmen.
@@ -172,10 +162,6 @@ Nicht aus Modellwissen; insbesondere zur Vorlagepflicht des VVT auf Behördenanf
 ## Zentrale Normen
 
 Art. 5 Abs. 2; Art. 24; Art. 30; Art. 32; Art. 33 Abs. 5 DSGVO.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Update-Checkliste
 
@@ -518,10 +504,6 @@ Nicht aus Modellwissen; insbesondere zu Gesundheitsdaten-Leaks und Bußgeldhöhe
 
 Art. 9 Abs. 1; Art. 9 Abs. 2; Art. 34 Abs. 1; Art. 83 Abs. 5 lit. a DSGVO; Erwägungsgrund 75.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Schutzbedarfsanalyse Art. 9
 
 Welche Kategorie liegt vor; in welcher Form (Klartext / pseudonymisiert / verschlüsselt); welche Anzahl; welche Folgen sind plausibel.
@@ -537,3 +519,4 @@ Conclusion: bei Art. 9-Daten im Klartext regelmäßig Meldung Art. 33 und Benach
 
 - `dsv-paragraf-203-stgb-berufsgeheimnis` deckt strafrechtliche Geheimnistraeger ab.
 - `dsv-sozialdaten-sgb` deckt Sozialdaten ab.
+

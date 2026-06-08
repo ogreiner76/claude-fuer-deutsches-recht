@@ -5,9 +5,6 @@ description: "Strafprozess Ermittlungsverfahren im Strafrecht: prüft konkret So
 
 # Strafprozess Ermittlungsverfahren
 
-## Arbeitsbereich
-
-**Strafprozess Ermittlungsverfahren** ordnet den Fall über die tragenden Prüfungslinien: Sofortmaßnahmen im Ermittlungsverfahren, Rechtsmittel- und Notfristencockpit im Strafverfahren, BtMG-Verteidigungspraxis. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Strafprozess Ermittlungsverfahren im Strafrecht: prüft konkret So
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafprozess-ermittlungsverfahren-sofortmassnahmen`
@@ -32,10 +30,6 @@ description: "Strafprozess Ermittlungsverfahren im Strafrecht: prüft konkret So
 **Fokus:** Sofortmaßnahmen im Ermittlungsverfahren: Polizei- oder StA-Kontakt, Vorladung, Durchsuchung, Beschlagnahme, Festnahme, Akteneinsicht, Schweigerecht, Pflichtverteidigung, Presse- und Familienkontakt in eine sichere Verteidigungsroutine bringen.
 
 ### Ermittlungsverfahren: Sofortmaßnahmen
-
-## Zweck
-
-Dieser Skill führt durch die ersten Stunden und Tage eines Strafmandats. Ziel ist nicht “alles erklären”, sondern Schaden verhindern: keine vorschnelle Aussage, keine verpasste Haftfrage, keine verlorenen Beweise, keine chaotische Kommunikation.
 
 ## Sofortcheck
 
@@ -75,23 +69,11 @@ Erzeuge:
 - Herausgabe-/Widerspruchsstrategie.
 - Schutz vertraulicher Mandatsunterlagen.
 
-## Output
-
-- `Sofortmaßnahmenplan`
-- `Mandantenanweisung`
-- `Akteneinsichtsantrag`
-- `Beweissicherungsplan`
-- `Wiedervorlagen`
-
 ## 2. `strafprozess-rechtsmittel-und-notfristencockpit`
 
 **Fokus:** Rechtsmittel- und Notfristencockpit im Strafverfahren: prüft Strafbefehlseinspruch, Berufung, Revision, sofortige Beschwerde, einfache Beschwerde, Wiedereinsetzung, Zustellung, Empfangsbekenntnis, Fristbeginn und Mandantenentscheidung.
 
 ### Rechtsmittel- und Notfristencockpit
-
-## Zweck
-
-Dieser Skill sichert nach Strafbefehl, Beschluss oder Urteil die richtige Entscheidung in der richtigen Frist. Er zwingt zu getrennten Prüfungen: Statthaftigkeit, Form, Frist, Zuständigkeit, Mandantenwille, Risiko.
 
 ## Fristenkern
 
@@ -146,14 +128,6 @@ Prüfe:
 2. Sofort getrennte Wiedervorlagen anlegen: Einlegung, Urteilszustellung, Protokollfertigstellung, Begründung, Mandantenentscheidung.
 3. Bei Revision sofort prüfen: vollständiges Urteil, Hauptverhandlungsprotokoll, Verständigungsdokumentation, Antrags-/Widerspruchslog, Protokollierungsanträge, letztes Wort.
 4. Rücknahme nur mit dokumentierter ausdrücklicher Mandantenermächtigung; bei Verständigung Verzichtsfragen besonders vorsichtig behandeln.
-
-## Output
-
-- `Fristenblatt`
-- `Mandantenentscheidung`
-- `Rechtsmittelentwurf`
-- `Risikoampel`
-- `Wiedervorlage Begründung`
 
 ## 3. `strafrecht-spezial-btmg-strafverfahren-praxis`
 
@@ -251,21 +225,6 @@ Dieser Skill ist Checkliste für Strafverteidiger in BtMG-Verfahren — von der 
 **Haftpruefungsantrag:**
 "In der Strafsache gegen meinen Mandanten beantrage ich Haftpruefung gemaess § 117 StPO. Es fehlt am Haftgrund: Fluchtgefahr besteht nicht (Wohnsitz, Familie, Arbeit in Deutschland, Beschaffung Reisepass schwierig). Die Wiederholungsgefahr nach § 112 Abs. 3 StPO ist widerlegt durch [konkrete Umstaende: Therapieantritt, Wohnumfeld, soziales Netz]."
 
-## Querverweise
-
-- `strafrecht-spezial-btmg-29-grundtatbestand`
-- `strafrecht-spezial-btmg-29a-nicht-geringe-menge`
-- `strafrecht-spezial-btmg-30-handeltreiben`
-- `strafrecht-spezial-btmg-30a-schwerer-bandenhandel`
-- `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge`
-- `strafrecht-spezial-btmg-35-therapie-statt-strafe`
-- `strafrecht-spezial-btmg-konsumeigenbedarf-verteidigung`
-- `strafrecht-spezial-btmg-nicht-geringe-menge-grenzen`
-- `fachanwalt-strafrecht-untersuchungshaft-haftpruefung`
-- `fachanwalt-strafrecht-akteneinsicht-beantragen`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
-- `plaedoyer-vorbereitung-strafverteidigung`
-
 ## Quellen Stand 06/2026
 
 - §§ 102 ff. StPO Durchsuchung.
@@ -345,29 +304,12 @@ Dieser Skill ist Checkliste für Strafverteidiger in BtMG-Verfahren — von der 
 **Hilfsbeweisantrag aussagepsy-Gutachten**:
 > Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zu Frau [Geschaedigte] einzuholen. Es ist methodisch nach der Hypothesen-gegen-Hypothesen-Methode (BGH 30.07.1999 - 1 StR 618/98, BGHSt 45, 164) zu klaeren, ob die belastende Aussage erlebnisbasiert ist oder durch (a) Trennungs- und Sorgerechtskonflikt, (b) Loyalitaetskonflikt gegenueber Dritten, (c) konfliktreiche Vor-Vernehmungssituation suggestiv gepraegt ist.
 
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung`
-- `strafrecht-spezial-koerperverletzung-223-stgb-grund`
-- `strafrecht-spezial-stalking-238-stgb`
-- `fachanwalt-familienrecht` (GewSchG-Schnittstelle, Annaeherungsverbot, Wohnungszuweisung, Sorgerecht)
-
 ## Quellen Stand 06/2026
 
 - §§ 223 ff., 177, 238, 240, 241 StGB.
 - GewSchG, insb. §§ 1, 2, 4 GewSchG.
 - Polizeigesetze der Länder (Wegweisung/Rueckkehrverbot je nach Bundesland unterschiedlich — z.B. § 31 PolG NRW).
 - BGH staend. Rspr. zu Aussage-gegen-Aussage-Konstellation; methodische Standards der Aussagepsychologie BGH 30.07.1999 - 1 StR 618/98 (BGHSt 45, 164).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `strafrecht-spezial-markenrecht-144-markeng-strafverfahren`
 
@@ -449,14 +391,6 @@ Praxistipps:
 
 **Strafanzeige mit Antrag (Markeninhaber-Seite):** "Namens und mit Vollmacht der X AG, Inhaberin der Marke Y, erstatte ich Strafanzeige und stelle Strafantrag gemaess Paragraph 144 Abs 1 MarkenG iVm Paragraph 143 MarkenG. Die Mandantin hat am DD.MM.JJJJ erstmals Kenntnis von Tat und Taeter erlangt. Ein besonderes öffentliches Interesse besteht: Der Beschuldigte hat ueber die Plattform Z im Tatzeitraum [...] Stueck Counterfeit-Ware mit einem Umsatz von EUR W vertrieben; die Vertriebsstruktur weist auf Wiederholungsabsicht hin. Die Akte enthaelt: Testkaeufe (Anlage K1), Originalitaetsbegutachtung durch X AG (Anlage K2), Plattform-Verkaufsstatistik (Anlage K3)."
 
-## Querverweise
-
-- `strafrecht-spezial-markenrecht-143-markeng`
-- `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`
-- `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung`
-- `fachanwalt-strafrecht-adhaesionsverfahren`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 144 MarkenG im Wortlaut (gesetze-im-internet.de).
@@ -467,3 +401,4 @@ Praxistipps:
 - Paragraphen 403 ff. StPO Adhaesionsverfahren.
 - VO (EU) 608/2013 (Produktpiraterieverordnung) für Grenzbeschlagnahme.
 - BGH staendige Rspr. zum besonderen öffentlichen Interesse bei IP-Straftaten; Datum und konkrete Aktenzeichen vor Verwendung im Schriftsatz live verifizieren.
+

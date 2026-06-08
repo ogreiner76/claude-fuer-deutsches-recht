@@ -5,10 +5,6 @@ description: "Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, 
 
 # Amtsangemessene Alimentation
 
-## Arbeitsbereich
-
-Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, Nachzahlung, Widerspruch und Musterverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, Nachzahlung, W
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Amtsangemessene Alimentation: Mindestabstand, Familienzuschläge, Nachzahlung, Widerspruch und Musterverfahren.
-
-## Arbeitsweise
-
-Prüfe Besoldungsjahr, Haushaltslage, Rechtsbehelfe, Widerspruchserfordernis, Ruhendstellung und vorhandene Musterverfahren. Keine Zahlen ohne aktuellen Live-Check.
 
 ## Pflichtfragen
 
@@ -40,14 +28,6 @@ Prüfe Besoldungsjahr, Haushaltslage, Rechtsbehelfe, Widerspruchserfordernis, Ru
 3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
 4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
 5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
 
 ## Normen und Rechtsprechung
 
@@ -77,3 +57,4 @@ Prüfe Besoldungsjahr, Haushaltslage, Rechtsbehelfe, Widerspruchserfordernis, Ru
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
 - Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.
+

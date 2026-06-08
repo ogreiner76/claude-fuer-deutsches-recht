@@ -91,13 +91,6 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 ### Phase 6 — Anrechnung
 1. § 34c EStG-Anrechnung auslaendischer Quellensteuer (bei DE-Empfaenger).
 
-## Output
-
-- **Mandanten-Memo Dividenden-Besteuerung**.
-- **DBA-Hoechstsatz-Pruefungstabelle**.
-- **BZSt-Antragspaket** (vorab oder nachtraeglich).
-- **Berechnungsbeispiel** Vergleich MTRL vs. DBA vs. national.
-
 ## Strategie und Praxis-Tipps
 
 - MTRL (0 Prozent bei Schachtel innerhalb EU) ist regelmaessig guenstiger als DBA-Hoechstsatz — Empfaengergunst-Pruefung.
@@ -159,14 +152,9 @@ Sachverhalt: Deutsche GmbH (Mutter) haelt 100 Prozent an Tochter in Frankreich (
 
 (**Werte sind Beispiel — konkrete Saetze für Frankreich und MTRL-Voraussetzungen im DBA und in der MTRL-RL nachpruefen.**)
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.
-- `stb-dba-lizenzgebuehren-art-12-bzst` — paralleler Skill Lizenzen.
-- Landesspezifische DBA-Skills (USA, UK, Luxemburg, Niederlande, Schweiz, ...).
-
 ## Quellen und Updates
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 5 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

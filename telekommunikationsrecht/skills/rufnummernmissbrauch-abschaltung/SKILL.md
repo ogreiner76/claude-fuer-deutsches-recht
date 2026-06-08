@@ -5,10 +5,6 @@ description: "Rufnummernmissbrauch, Ping-Anrufe, Spam, Mehrwertdienste, Abschalt
 
 # Rufnummernmissbrauch, Abschaltung und Inkassoverbot
 
-## Arbeitsbereich
-
-Rufnummernmissbrauch, Ping-Anrufe, Spam, Mehrwertdienste, Abschaltung, Rechnungslegungs-/Inkassoverbot und Beschwerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Rufnummernmissbrauch, Ping-Anrufe, Spam, Mehrwertdienste, Abschaltung, Rechnungs
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Verbraucherbeschwerden und Anbieterabwehr gegen Missbrauchsmaßnahmen.
-
 ## Norm- und Quellenanker
 
 TKG Missbrauchsaufsicht/Nummerierung; UWG; BNetzA-Verbraucherschutz.
-
-## Arbeitsfragen
-
-1. Welche Nummer, Kampagne und Rechnung ist betroffen?
-2. Welche Missbrauchstatsachen sind belegt?
-3. Welche BNetzA-Maßnahme oder Beschwerde läuft?
-
-## Output
-
-Missbrauchsdossier, Beschwerde/Abwehr und Rechnungsprüfung.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Missbrauchsdossier, Beschwerde/Abwehr und Rechnungsprüfung.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

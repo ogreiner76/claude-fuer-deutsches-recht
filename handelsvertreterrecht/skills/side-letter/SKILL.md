@@ -5,10 +5,6 @@ description: "Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (
 
 # Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken
 
-## Arbeitsbereich
-
-Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zusagen sowie Risiken für Beweisbarkeit und Vertragskonsistenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Individuell ausgehandelte Side-Letter-Klausel verdrängt AGB — nicht erkannt.
 - Widersprüchliche Regelungen in Hauptvertrag und Side Letter — Unklarheiten gehen zu Lasten des Verwenders.
 
-## Output
-
-Side-Letter-Prüfvermerk, Vertragskonsolidierung, Beweisführungsstrategie.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
 - [§ 127 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__127.html)
 - [Dejure § 305b BGB](https://dejure.org/gesetze/BGB/305b.html)
+

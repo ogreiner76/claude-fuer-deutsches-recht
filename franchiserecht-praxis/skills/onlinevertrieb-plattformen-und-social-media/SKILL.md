@@ -5,10 +5,6 @@ description: "Online-Vertrieb im Franchisesystem regeln: Plattformverbote, Markt
 
 # Franchiserecht: Online-Vertrieb, Plattformen und Social Media
 
-## Arbeitsbereich
-
-Online-Vertrieb im Franchisesystem regeln: Plattformverbote, Marktplatz-Sperren nach Vertikal-GVO EU 2022/720, Social-Media-Pflichten des Franchisenehmers, Gebietsschutz im E-Commerce und Datenschutz bei digitalen Kundenbeziehungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,13 +51,6 @@ Ein Franchisegeber möchte den Verkauf über Amazon, eBay oder andere Marktplät
 - Social-Media-Accounts werden auf den Franchisenehmer persönlich registriert; bei Vertragsende entsteht Rechtsstreit.
 - Kundendaten-Hoheit ist unklar; Datenschutz-Aufsichtsbehörde kann beide Parteien sanktionieren.
 
-## Output
-
-- Online-Vertriebsstrategie-Memo mit kartellrechtlicher Einordnung
-- Social-Media-Richtlinie für Franchisesystem
-- Datenschutzkonzept für gemeinsame Verantwortlichkeit nach Art. 26 DSGVO
-- Vertragsklauseln für Online-Gebietsschutz und Account-Übertragung
-
 ## Quellen
 
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
@@ -70,6 +59,7 @@ Ein Franchisegeber möchte den Verkauf über Amazon, eBay oder andere Marktplät
 - https://gesetze-im-internet.de/dsgvo/art_4.html
 - https://gesetze-im-internet.de/ddg/
 - https://dejure.org/gesetze/BGB/307.html
+
 ## Vertiefung
 
 Die Vertikal-GVO EU 2022/720 hat das Online-Vertriebsrecht gegenüber der Vorgänger-Verordnung von 2010 erheblich aktualisiert. Plattformverbote sind nun nur noch als qualitative Selektivvertriebskriterien zulässig, nicht mehr als absolute Verbote. Dual-Pricing (unterschiedliche Preise für Online- und Offline-Vertrieb) ist unter bestimmten Bedingungen kartellrechtlich zulässig.
@@ -83,9 +73,12 @@ Die DSGVO-Verantwortlichkeit für gemeinsame Online-Shops ist durch die EuGH-Ent
 - Plattformverbote nur dann, wenn das System als qualitativer Selektivvertrieb qualifiziert; kartellrechtliche Analyse vor Vertragsgestaltung.
 - Domain-Strategie entwickeln: Wer hält Domains, die den Franchisenehmernamen enthalten?
 - Art.-26-DSGVO-Vereinbarung für gemeinsamen Online-Shop obligatorisch vor Launch.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
 
 ## Abgrenzung und Einordnung
+

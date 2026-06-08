@@ -5,10 +5,6 @@ description: "Verlagsrecht: Manuskriptablieferung, Lektorat, Abnahme und Verzug 
 
 # Verl-004 · Manuskriptablieferung, Lektorat, Abnahme und Verzug
 
-## Arbeitsbereich
-
-Verlagsrecht: Manuskriptablieferung, Lektorat, Abnahme und Verzug nach VerlG §§ 2–4, BGB §§ 280 und 286 — Pflichten, Fristen, Rechtsfolgen bei Verzug und Mängelrüge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -117,3 +113,4 @@ Dieser Skill behandelt den **Ablieferungsprozess** im Verlagsvertrag: Was der Au
 - **Fristenplan**: Ablieferung, Lektorat, Korrekturfristen, Erscheinungstermin
 - **Entwurf Mängelrüge** (Verlag an Autor)
 - **Entwurf Nachfrist** (Autor an Verlag wegen Nichterscheinen)
+

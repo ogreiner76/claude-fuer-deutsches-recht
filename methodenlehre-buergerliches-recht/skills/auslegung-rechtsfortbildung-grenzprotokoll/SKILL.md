@@ -54,10 +54,6 @@ description: "Protokolliert methodisch präzise die Grenze zwischen erlaubter Au
 - Die Frage, ob der Gesetzgeber die Lücke bewusst gelassen hat, wird nicht gestellt.
 - Rechtsfortbildung contra legem wird als Auslegung getarnt, um die Vorlagepflicht nach Art. 100 GG zu umgehen.
 
-## Output
-
-Das Skill erstellt ein strukturiertes Grenzprotokoll: Auslegungsergebnisse aller vier Methoden, Divergenzanalyse, Lückenfeststellung, Rechtsfortbildungsinstrument und demokratische Legitimation. Das Protokoll ist revisionsrechtlich verwendbar und kann als Anlage zu Schriftsätzen oder Gutachten beigefügt werden.
-
 ## Vertiefung: Das Wortlautspektrum als Grenzmarkierung
 
 Das Wortlautspektrum einer Norm erstreckt sich von der engsten (minimalistischen) bis zur weitesten (maximalistischen) vertretbaren Lesart. Solange das Ergebnis innerhalb dieses Spektrums liegt, handelt es sich um Auslegung; jenseits davon beginnt Rechtsfortbildung. Die Aufgabe des Interpreten ist, dieses Spektrum durch Analyse des sprachlichen Bedeutungsrahmens möglichst präzise zu bestimmen.
@@ -83,3 +79,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BGH NJW 2012, 3576 – Beispiel richterlicher Rechtsfortbildung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=NJW%202012%2C%203576)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

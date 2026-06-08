@@ -17,10 +17,6 @@ Verteidigung des Anfechtungsgegners gegen Insolvenzanfechtung nach §§ 129-147 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Dieser Skill baut die Gegenwehr gegen ein Anfechtungsschreiben oder eine Anfechtungsklage auf. Er prüft nicht aus Verwaltersicht, was maximal denkbar ist, sondern aus Sicht des Empfängers: Welche Tatbestandsmerkmale sind nicht substantiiert, welche Einreden und Gegenargumente sind tragfähig, und welche Unterlagen müssen sofort gesichert werden?
-
 ## Sofortfragen
 
 1. Welche konkrete Rechtshandlung wird angefochten: Zahlung, Sicherheit, Verrechnung, Aufrechnung, Verzicht, Drittzahlung?
@@ -105,3 +101,4 @@ Zinsen: Nach § 143 Abs. 1 S. 3 InsO ist eine Geldschuld nur bei Verzug oder nac
 ---
 
 Hinweis: Keine Rechtsberatung. Verteidigung nie pauschal führen; jeder Zahlungsvorgang braucht eigene Norm, eigene Frist und eigene Beleglage.
+

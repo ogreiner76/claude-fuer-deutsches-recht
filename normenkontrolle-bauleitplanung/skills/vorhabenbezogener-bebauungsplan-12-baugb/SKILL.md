@@ -5,10 +5,6 @@ description: "Prüfungslinie für vorhabenbezogener bebauungsplan 12 baugb im No
 
 # Vorhabenbezogener Bebauungsplan § 12 BauGB
 
-## Zweck
-
-Bei vielen Plänen ist die Frage zentral, ob es sich um einen qualifizierten Bebauungsplan oder einen vorhabenbezogenen Bebauungsplan (VEP) handelt. Die Abgrenzung hat erhebliche Folgen für Aktivlegitimation, Anfechtbarkeit, Realisierungs-Pflicht und Beendigung.
-
 ## Eingaben
 
 - Bebauungsplan-Bezeichnung und Beschluss-Datum
@@ -216,6 +212,3 @@ Die Antragsbefugnis nach § 47 Abs. 2 VwGO ist beim VEP häufig erleichtert:
 - BVerwG 11.04.2024, 4 BN 50.23 — Klimaschutz § 1 Abs. 5 S. 2 BauGB Abwaegungsmaengel (bverwg.de)
 - Weitere Aktenzeichen vor Ausgabe per bverwg.de verifizieren
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -5,10 +5,6 @@ description: "Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen
 
 # GwG, KYC, UBO und Sanktionen
 
-## Arbeitsbereich
-
-Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen, Russland-/China-/Dual-Use-Risiken und Transaktionssperren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,14 +89,6 @@ UBO-Erklärung (KYC Form):
 - Russland-Indirektbeziehung übersehen (z. B. ehemaliger russischer UBO mit jetziger EU-Staatsbürgerschaft).
 - Mittelherkunft formularhaft akzeptiert ohne plausible Dokumentation.
 
-## Querverweise
-
-- pe-001 für Mandatsannahme.
-- pe-003 für Investorprofil.
-- pe-011 für Subscription / KYC im Sub-Doc.
-- pe-012 für KYC bei Secondary-Buyer-Onboarding.
-- pe-023 für DD inkl. Sanktionsprüfung Target.
-
 ## Quellen Stand 06/2026
 
 - GwG (aktuelle Fassung), insb. §§ 10–15, 18–24, 43.
@@ -110,3 +98,4 @@ UBO-Erklärung (KYC Form):
 - Dual-Use-VO (EU) 2021/821.
 - AWG/AWV (deutsche Außenwirtschaftsregeln); HinSchG (Hinweisgeberschutzgesetz).
 - BaFin/FIU-Hinweise zur Auslegung des GwG (vom Anwender mit aktuellem Stand zu prüfen).
+

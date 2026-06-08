@@ -5,10 +5,6 @@ description: "Untersucht Lieferanten-Kickbacks – forensische Zahlungsanalyse, 
 
 # Lieferanten-Kickback-Untersuchung
 
-## Arbeitsbereich
-
-Untersucht Lieferanten-Kickbacks – forensische Zahlungsanalyse, Vergabeverfahren-Review, Täteridentifizierung, strafrechtliche und arbeitsrechtliche Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,15 +68,6 @@ Dieser Skill strukturiert die forensische Untersuchung von Kickback-Verdachtsmom
 - Anonyme Meldestelle für Lieferantenbeschwerden.
 - Rotationsprinzip für Einkäufer in sensiblen Kategorien.
 
-## Red-Team-Fragen
-
-- Gibt es systematische Muster in der Lieferantenauswahl, die auf Manipulation hindeuten?
-- Wurden Preisvergleiche für die verdächtigen Lieferantentransaktionen durchgeführt?
-- Haben Kickback-Zahlungen den Weg zurück in das Unternehmen gefunden (Geldwäsche-Risiko)?
-- Gibt es Verbindungen zwischen dem verdächtigen Lieferanten und Einkäufern oder Führungskräften im Unternehmen?
-- Wurden alle erforderlichen Genehmigungen ordnungsgemäß eingeholt und dokumentiert?
-- Ist der Schaden vollständig berechnet – nicht nur der Kickback-Betrag, sondern der gesamte Überzahlungsbetrag?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -100,3 +87,4 @@ Dieser Skill strukturiert die forensische Untersuchung von Kickback-Verdachtsmom
 - **Präventionsmaßnahmen-Katalog** (Beschaffungsrichtlinie, Supplier Code of Conduct)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

@@ -11,10 +11,6 @@ description: "Grundsteuer-Landesmodell-Routing: Bundesmodell von Baden-Wuerttemb
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Aufgabe
-
-Bestimme das richtige Grundsteuermodell und verhindere Modellvermischung. Dieser Skill ist besonders wichtig, wenn Mandanten mit Immobilien in mehreren Bundesländern arbeiten.
-
 ## Modellkarte
 
 | Modellgruppe | Typische Route |
@@ -34,18 +30,6 @@ Bestimme das richtige Grundsteuermodell und verhindere Modellvermischung. Dieser
 3. Landesgesetz und Verwaltungshinweise öffnen.
 4. BFH-/FG-Stand für genau dieses Modell prüfen.
 5. Nur dann verfassungsrechtlich argumentieren.
-
-## Output
-
-- Bundesland-Matrix.
-- Zuständigkeitsliste Finanzamt/Gemeinde.
-- Modellbedingte Angriffspunkte.
-- Warnung, wenn eine Bundesmodell-Entscheidung nicht auf das Landesmodell passt.
-- Vorschlag, welche Folgeskills geladen werden.
-
-## Quellenregel
-
-Aktuelle BFH-Fokusseite zur Grundsteuer und Landesgesetze prüfen. Keine pauschalen Aussagen wie "die Grundsteuer ist überall gleich" oder "BFH hat alles entschieden".
 
 ## Praktischer Tipp
 
@@ -67,3 +51,4 @@ Empfehlung: Erst Einzelfall prüfen, dann ggf. zusätzlich verfassungsrechtlich 
 
 - Mandant hat Immobilien in BY und BW, Einspruch wird mit BFH-Linie zum Bundesmodell begründet; das geht in beiden Ländern fehl.
 - "Hauptfeststellungszeitpunkt 01.01.2022" wird auch auf Bayern übertragen; dort gilt der Stichtag der Erklärung (Flächenmodell hat keine Hauptfeststellung im klassischen Sinn).
+

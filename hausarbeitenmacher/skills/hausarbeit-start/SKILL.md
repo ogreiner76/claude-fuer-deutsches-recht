@@ -5,10 +5,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plug
 
 # Hausarbeitenmacher — Allgemein
 
-## Arbeitsbereich
-
-Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,15 +12,6 @@ Einstieg, Schnelltriage und Fallrouting im Hausarbeitenmacher-Plugin. Fragt Roll
 - Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3, UrhG §§ 51, 51a (Zitatrecht), Promotionsordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
 ## Schnellstart-Workflow
 
@@ -227,15 +214,10 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - Gliederung zu flach: Nur zwei Ebenen genuegen nicht; tiefe Pruefungsschritte muessen strukturiert werden.
 - Keine Selbstkontrolle vor Abgabe: Formfehler (Seitenanzahl, Deckblatt, eidesstattliche Erklaerung) kosten Punkte.
 
-## Querverweise
-
-- `datenschutzrecht` — Fuer Seminararbeiten mit DSGVO-Bezug.
-- `legistik-werkstatt` — Fuer Seminararbeiten zu gesetzgeberischen Vorhaben und Legistik-Fragen.
-- `einfache-leichte-sprache-jura` — Wenn Hausarbeit sich mit Sprachbarrieren im Recht beschaeftigt.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
 - BGB in der zum Stand-Datum geltenden Fassung
 - StGB in der geltenden Fassung
 - GG in der geltenden Fassung
+

@@ -5,10 +5,6 @@ description: "Regulatorische Luecken im Datenschutzrecht identifizieren und Hand
 
 # DS-Gap-Analyse – Datenschutzrecht
 
-## Zweck
-
-Systematische Lückenanalyse zwischen dem aktuellen Datenschutz-Status der Organisation und neuen oder geänderten Anforderungen aus: EDSA-Leitlinien, DSK-Orientierungshilfen, Gesetzesnovellen (BDSG, TDDDG, sektorspezifisches Recht), Aufsichtsbeschlüssen oder EuGH-Entscheidungen. Ergebnis ist ein priorisierter Umsetzungsplan – kein pauschales Compliance-Dashboard.
-
 ## Eingaben
 
 - Neue Anforderung (Leitlinie, Beschluss, Urteil, Gesetz) – als Dokument, URL oder Beschreibung
@@ -80,15 +76,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Ausgabeformat
-
-1. **Kopfzeile:** Analysierte Anforderung, Datum, Anwendungsbereich (ja/nein/teilweise)
-2. **Anforderungs-Inventur** (Tabelle)
-3. **Ist-Zustand-Abgleich** (Gap-Tabelle: Anforderung | Status | Lückenbeschreibung)
-4. **Gap-Bewertung** (mit Risikobeschreibung)
-5. **Maßnahmenplan** (Prioritäts-Tabelle mit Fristen)
-6. **Entscheidungsoptionen**
-
 ## Beispiel (EDSA-Leitlinie zu Drittlandtransfers)
 
 **Anforderung:** EDSA-Empfehlungen 01/2020 zur Transferfolgenabschätzung (TIA) – Schritt-6-Methodik nach Schrems II.
@@ -159,3 +146,4 @@ Geringe Lücken (GRUEN): [X]
 
 Empfehlung: Maßnahmenplan bis [DATUM]
 ```
+

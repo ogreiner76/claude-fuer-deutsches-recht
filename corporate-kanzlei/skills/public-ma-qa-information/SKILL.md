@@ -52,9 +52,6 @@ Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtang
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BaFin, Bescheid vom 27.01.2023 (veroeffentl. BaFin-Jahresbericht 2023) — Pflichtangebot: Erwerb von Stimmrechten durch Konsortium als gemeinsam handelnde Person iSd § 2 V WpUeG; Zusammenrechnung der Anteile
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prozessablauf: Oeffentliches Uebernahmeangebot (WpUeG)
 
 | Phase | Inhalt | Norm | Frist |
@@ -175,3 +172,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - BaFin-Merkblaetter MAR/Ad-hoc: https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Marktmissbrauch/marktmissbrauch_node.html
 - Listing Act (Verordnung (EU) 2024/2809 zur Aenderung MAR/Prospekt-VO/MiFIR; in Kraft 04.12.2024 mit gestaffelten Anwendungsdaten — Inkrafttretensdaten je Artikel pruefen): https://eur-lex.europa.eu/eli/reg/2024/2809/oj
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

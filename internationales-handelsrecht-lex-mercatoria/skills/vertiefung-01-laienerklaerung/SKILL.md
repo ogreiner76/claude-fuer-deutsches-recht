@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Laienerklärung komplexer Rechtsbegr
 
 # Laienerklärungen: Internationales Handelsrecht
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Laienerklärung komplexer Rechtsbegriffe aus dem internationalen Handel. CISG in einfacher Sprache, Incoterms ohne Fachjargon, Schiedsverfahren vs. Gericht und Akkreditiv erklärt für Nicht-Juristen und Führungskräfte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Nicht-Juristen (Geschäftsführer, Einkäufer, Logistiker) brauchen verständlic
 - Konsequenz-Fokus: was bedeutet das für meine Entscheidung heute?
 - Grafiken empfehlen: Incoterms 2020 Risk-Transfer-Grafik der ICC
 
-## Output
-
-- Glossar: 20 Schlüsselbegriffe in Alltagssprache (2-3 Sätze je)
-- FAQ-Format: 10 häufige Fragen von Nicht-Juristen mit kurzen Antworten
-- Incoterms-Laienerklärung (ein DIN-A4-Blatt)
-
-## Quellenregel
-
-Incoterms 2020 Grafik: iccwbo.org. CISG-Laienerklärung: uncitral.un.org (CISG Digest). UCP 600 Einführung: iccwbo.org. Unsicherheit bleibt sichtbar.

@@ -5,10 +5,6 @@ description: "Formuliert Autoren-Rueckmeldungen kollegial und praezise: trennt k
 
 # Redaktionelle Rueckmeldung formulieren
 
-## Arbeitsbereich
-
-Formuliert Autoren-Rueckmeldungen kollegial und praezise: trennt klar Stops von Wuenschen vermeidet Praedigtton und gibt der Autorin handhabbare Aufgaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -111,14 +107,6 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 - Befunde ohne Stelle (Seite, Zeile) - Autorin findet sie nicht.
 - Keine Anlauf-Option ("bei Rueckfragen ...") - keine Kommunikationsoeffnung.
 
-## Querverweise
-
-- `verl-formatvorlage-check-autor-manuskript` - Format-Befunde.
-- `verl-zitierweise-pruefung-zeitschrift-jus-njw` - Zitier-Befunde.
-- `verl-stilbruch-stilcheck-fachzeitschrift` - Stil-Befunde.
-- `verl-aussagensicherheit-pruefung` - Aussage-Befunde.
-- `autorenkommunikation-email` - generelle Autoren-E-Mail-Kommunikation.
-
 ## Quellen Stand 06/2026
 
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
@@ -126,3 +114,4 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 - BRAO § 43a Abs. 2 (bei Mandantenfreigabe).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

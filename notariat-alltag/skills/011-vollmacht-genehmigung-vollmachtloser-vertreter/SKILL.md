@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertret
 
 # Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter, Nachgenehmigung
 
-## Arbeitsbereich
-
-Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter und Nachgenehmigung. Formvoraussetzungen, Prüfung der Vertretungsmacht, Wirkung der Genehmigung und Schwebende Unwirksamkeit nach § 177 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Praxisrelevanz: Alleingesellschafter-GF schließt Vertrag zwischen sich selbst u
 - **Red-Team** (Risiken bei unvollständiger Vollmachtsprüfung)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

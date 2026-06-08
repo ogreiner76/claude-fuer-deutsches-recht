@@ -5,10 +5,6 @@ description: "Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug d
 
 # Einstweilige Anordnung § 47 Abs. 6 VwGO
 
-## Zweck
-
-Der Eilantrag ist die schärfste Waffe der Mandantenseite. Bei drohendem Vollzug (Baugenehmigung, Baustart) muss er parallel zum Hauptsacheantrag eingereicht werden.
-
 ## Schritt 1 — Wortlaut § 47 Abs. 6 VwGO
 
 ### Norm
@@ -175,6 +171,3 @@ Der Eilantrag ist die schärfste Waffe der Mandantenseite. Bei drohendem Vollzug
 - BVerwG 23.06.2020, 9 A 22.19 — Klimaschutz als beruecksichtigungspflichtiger Belang (bverwg.de)
 - Aktuelle OVG-/VGH-Beschluesse vor Ausgabe ueber landesrecht-[bundesland].de und bverwg.de verifizieren
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

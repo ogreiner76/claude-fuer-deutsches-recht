@@ -5,10 +5,6 @@ description: "Digitalisiert handschriftliche Originalvorlagen und alte Dokumente
 
 # Handschrift und Altdokumente digitalisieren
 
-## Arbeitsbereich
-
-Digitalisiert handschriftliche Originalvorlagen und alte Dokumente für die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,14 +88,6 @@ Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftlich
 - Modernisierung stillschweigend - Wissenschaftler beschweren sich zu Recht.
 - Schreibmaschinendurchschlag als Original ausgewiesen.
 
-## Querverweise
-
-- `verl-screenshot-pdf-ocr-redaktion` - allgemeiner OCR-Workflow.
-- `verl-manuskript-merkwuerdige-formate-rettung` - Format-Rettung.
-- `rechtecheck-urhg-verlg` - Urhg-Schutzfristen.
-- `quellen-zitate-fundstellencheck` - Pinpoint-Pflicht auch in Editionen.
-- `workflow-dokumentenintake` - Intake-Workflow.
-
 ## Quellen Stand 06/2026
 
 - UrhG §§ 64, 65 (Schutzfrist), [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
@@ -108,3 +96,4 @@ Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftlich
 - Plachta, Editionswissenschaft, 4. Aufl. 2020.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

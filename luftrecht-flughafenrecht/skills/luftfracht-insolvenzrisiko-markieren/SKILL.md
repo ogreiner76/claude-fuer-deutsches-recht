@@ -5,10 +5,6 @@ description: "Luftfrachtfuehrer oder grosser Luftfracht-Spediteur zeigt Insolven
 
 # Luftfracht – Insolvenzrisiko markieren
 
-## Arbeitsbereich
-
-Luftfrachtfuehrer oder grosser Luftfracht-Spediteur zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Frachtfuehrer-Pfandrecht HGB § 440 Montreal Convention Haftungsgrenzen und liefert Risikoampel für Fracht-Glaeubiger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,6 +43,7 @@ InsO §§ 15a 17-19 47 HGB § 440 Montreal Convention Art. 18 35 – die einschl
 - **LuftVG § 44**: Nationale Verweisung auf Montrealer Übereinkommen für innerdeutsche Flüge.
 - **EU-VO 300/2008 und DVO 2015/1998**: Sicherheitsanforderungen für Luftfracht; ACC3 und RA/KC-Status.
 - **HGB § 475**: Frachtführerhaftung subsidiär; nur soweit MÜ keine Regelung trifft.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -57,6 +54,7 @@ InsO §§ 15a 17-19 47 HGB § 440 Montreal Convention Art. 18 35 – die einschl
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Haftungsgrenze (22 SZR/kg) eingehalten oder Werterklärung im AWB vermerkt?
 8. Ist die Frachtkette lückenlos dokumentiert (AWB Sicherheitsdeklaration Manifest)?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -75,9 +73,6 @@ Airline-Insolvenzen erfordern schnelles Handeln:
 - **InsO § 47**: Aussonderungsrecht des Eigentümers (Leasinggeber); Priorität gegenüber Insolvenzgläubigern.
 - **IATA/IOSA**: Kreditversicherung und IATA-Abrechnung (BSP) können bei Insolvenz besondere Regelungen auslösen.
 
-## Output
-
-Strukturierter Vermerk zu Luftfracht – Insolvenzrisiko markieren mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Haftungsanalyse nach MÜ. AWB-Prüfschema. Schadensmeldungs-Fristenübersicht.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -106,3 +101,4 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

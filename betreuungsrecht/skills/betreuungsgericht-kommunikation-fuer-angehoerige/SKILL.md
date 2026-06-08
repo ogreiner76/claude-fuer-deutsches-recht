@@ -5,10 +5,6 @@ description: "Kommunikation mit dem Betreuungsgericht für Angehörige und ehren
 
 # Betreuungsgericht-Kommunikation für Angehörige
 
-## Arbeitsbereich
-
-Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst und ohne unnötige Selbstbelastung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Betreuungsgericht-Kommunikation für Angehörige**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -24,7 +20,6 @@ Arbeitsfokus: **Betreuungsgericht-Kommunikation für Angehörige**. Prüfe diese
 - `§ 5 BtOG` — Beratung und Unterstützung.
 - `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
@@ -34,10 +29,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill hilft ehrenamtlichen Betreuern, mit dem Betreuungsgericht knapp, vollständig und respektvoll zu kommunizieren. Das Ziel ist: Gericht bekommt, was es zur Aufsicht braucht; der Betreuer verrennt sich nicht in lange Erzählungen.
 
 ## Grundton
 
@@ -97,3 +88,4 @@ Mit freundlichen Grüßen
 - `vermoegensverzeichnis-pruefung`
 - `familienbetreuer-alltagscockpit`
 - `kalender-reminder-und-fristenmanagement`
+

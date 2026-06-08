@@ -85,9 +85,6 @@ Bei dynamischen Verweisungen auf EU-Recht oder andere externe Stellen: ist die d
 
 Art. 1 Abs. 3 GG (Grundrechtsbindung) — Art. 3 GG (Gleichheitsgebot) — Art. 12 GG (Berufsfreiheit, Drei-Stufen-Theorie) — Art. 14 GG (Eigentum) — Art. 20 Abs. 3 GG (Wesentlichkeitstheorie, Bestimmtheit) — Art. 28 Abs. 2 GG (kommunale Selbstverwaltung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Tabellarisches Querprotokoll mit allen einschlaegigen Grundrechten plus Prüfergebnis plus Empfehlung.
@@ -95,3 +92,4 @@ Tabellarisches Querprotokoll mit allen einschlaegigen Grundrechten plus Prüferg
 ## Anschluss
 
 `folgenabschaetzung-erfuellungsaufwand`.
+

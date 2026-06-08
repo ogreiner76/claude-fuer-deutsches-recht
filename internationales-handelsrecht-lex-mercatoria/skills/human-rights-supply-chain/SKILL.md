@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Menschenrechte in der Lieferkette. U
 
 # Menschenrechte in der Lieferkette
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Menschenrechte in der Lieferkette. UN-Guiding Principles on Business and Human Rights (UNGP 2011), deutsches Lieferkettensorgfaltspflichtengesetz (LkSG 2023), EU CSDDD-RL 2024 und zivilrechtliche Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Das LkSG (Lieferkettensorgfaltspflichtengesetz, seit 1. Januar 2023) verpflichte
 - Audit-Programme: Drittparteien-Audits für Risikolieferanten
 - CSDDD-Readiness: Frühzeitig CSDDD-Anforderungen antizipieren (Umsetzung bis 2027)
 
-## Output
-
-- LkSG-Sorgfaltspflichten-Checkliste
-- Supplier-Code-of-Conduct-Muster
-- Risikoanalyse-Matrix (Länder/Sektoren)
-
-## Quellenregel
-
-LkSG: gesetze-im-internet.de. CSDDD (RL 2024/1760): eur-lex.europa.eu. UNGP: ohchr.org. OECD-Leitsätze 2023: oecd.org. Unsicherheit bleibt sichtbar.

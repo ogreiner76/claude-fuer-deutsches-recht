@@ -5,10 +5,6 @@ description: "Betriebskostenabrechnung erstellen aus Vermieter- und Hausverwaltu
 
 # Betriebskostenabrechnung erstellen
 
-## Arbeitsbereich
-
-Betriebskostenabrechnung erstellen aus Vermieter- und Hausverwaltungssicht: Umlagevereinbarung, BetrKV-Kostenarten, HeizkostenV, CO2KostAufG, Abrechnungsfrist, Vorauszahlungen, Belegpaket, Zugangsnachweis und Versand-Qualitygate. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -117,15 +113,3 @@ Vor Versand zwingend ausgeben:
 6. Belege kurzfristig einsichtsfähig,
 7. Anschreiben mit Einwendungsfrist und Belegeinsichtshinweis.
 
-## Output
-
-- fertige Abrechnung als Tabelle,
-- Begleitschreiben an den Mieter,
-- Belegverzeichnis,
-- Rechenkontrollblatt,
-- Vorauszahlungsanpassung als separates Schreiben,
-- Lückenliste, wenn die Abrechnung noch nicht versandfähig ist.
-
-## Quellenregel
-
-Normen live auf gesetze-im-internet.de prüfen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

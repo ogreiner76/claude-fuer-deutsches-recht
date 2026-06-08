@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Bewehrungsverlegung — Kontrolle 
 
 # Bauueberwachung Bewehrungsverlegung und Verlegekontrolle
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Bewehrungsverlegung — Kontrolle Stabstaehle BSt 500 S und BSt 500 M nach DIN 488, Betondeckung nach DIN EN 1992-1-1 EC2, Stosslaeange und Ankerlaeange, Biegerollendurchmesser, Abstandhalter-Typ und Anordnung nach DBV-Merkblatt Betondeckung. Umfasst Werksbescheinigungen 3.1 nach EN 10204, Stahllager-Pruefung, fotografische Abnahmedokumentation und BIM360-Integration. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 - Stosslage in Momentenmaximum: Fehlplatzierung Stosslage durch unklare Plandarstellung, Tragfaehigkeitsminderung im Stutzmomentbereich
 - Chargen-Wechsel ohne neue Werksbescheinigung: Stahl anderer Schmelze ohne Nachweis verbaut, Guetedokumentation lueckenhaft
 
-## Output
-
-Bewehrungsabnahme-Protokoll je Bauteil mit Freigabe-Unterschrift Bauueberwacher. Covermeter-Messprotokoll nach Ausschalen. Werksbescheinigungen 3.1 Archiv je Liefercharge. Fotodokumentation Stossstellen und Abstandhalter in BIM360. PlanRadar-Maengelliste. Abnahme-Freigabevermerk vor Betonage je Bauteil.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Bewehrungsabnahme-Protokoll je Bauteil mit Freigabe-Unterschrift Bauueberwacher.
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme Werkvertrag](https://www.gesetze-im-internet.de/bgb/__640.html)
+

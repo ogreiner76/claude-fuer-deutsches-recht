@@ -84,12 +84,6 @@ Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bil
 - E-Bilanz-Uebermittlung an FA gemaess `stb-jahresabschluss-elektronische-uebermittlung-ebilanz`.
 - Offenlegung im Unternehmensregister (§ 325 HGB) innerhalb 12 Monaten nach Stichtag gemaess `stb-jahresabschluss-veroeffentlichung-bundesanzeiger`.
 
-## Output
-
-- Aufgestellter Jahresabschluss.
-- E-Bilanz uebermittelt.
-- Bundesanzeiger-Veroeffentlichung.
-
 ## Strategie und Praxis-Tipps
 
 - 8-12 Wochen Vorlauf sind Standard.
@@ -97,16 +91,6 @@ Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bil
 - Inventur-Beobachtung beim Mandanten ist wertvoll für Bewertung.
 - Mandantenfragebogen ist Effizienz-Hebel.
 - StBVV § 35: Honorar nach Gegenstandswert; ggf. Pauschal mit Mandant.
-
-## Querverweise
-
-- `stb-mandantenfragebogen-jahresabschluss` — Fragebogen.
-- `stb-jahresabschluss-warenbestand-inventur` — Inventur.
-- `stb-jahresabschluss-bestandskonten-abstimmung` — Bestandsabstimmung.
-- `stb-jahresabschluss-rueckstellungen-bewertung` — Rueckstellungen.
-- `stb-jahresabschluss-anlagenverzeichnis-afa` — AfA.
-- `stb-jahresabschluss-veroeffentlichung-bundesanzeiger` — Bundesanzeiger.
-- `stb-jahresabschluss-elektronische-uebermittlung-ebilanz` — E-Bilanz.
 
 ## Quellen und Updates
 
@@ -116,10 +100,3 @@ Stand: 05/2026.
 - StBVV § 35.
 - IDW PS 480.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

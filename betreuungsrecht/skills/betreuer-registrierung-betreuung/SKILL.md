@@ -5,10 +5,6 @@ description: "Betreuer Als Erbe: ordnet Normen, Nutzerangaben, Fristen, Belege u
 
 # Betreuer als Erbe und Beschenkter
 
-## Arbeitsbereich
-
-Betreuer Als Erbe: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -29,9 +25,6 @@ Der Skill greift nicht, wenn der Bedachte **ehrenamtlicher** Betreuer im Sinne d
 - OLG Nürnberg (Live-Verifikation erforderlich für Aktenzeichen und Datum): bestätigte vor BGH-Entscheidung bereits, dass § 30 BtOG kein § 134 BGB-Verbotsgesetz ist, das Testament wirksam bleibt, aber berufsrechtliche Sanktion droht.
 - Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, dejure.org oder openjur.de verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflichtbestandteile der Antwort
 
 Eine vollständige Antwort enthält mindestens:

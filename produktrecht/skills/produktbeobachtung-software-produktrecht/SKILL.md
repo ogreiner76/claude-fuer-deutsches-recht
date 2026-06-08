@@ -5,10 +5,6 @@ description: "Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-U
 
 # Produktbeobachtung: Software, OTA und Sicherheitsupdates
 
-## Arbeitsbereich
-
-Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digita
 - Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Dieser Skill behandelt Software und OTA-Updates als Teil der Produktverantwortung. Er verknüpft kaufrechtliche Aktualisierungspflichten, Produktsicherheit, Cybersecurity, Reparaturdaten und Haftungsprävention.
 
 ## Sofort klären
 
@@ -45,10 +37,6 @@ Dieser Skill behandelt Software und OTA-Updates als Teil der Produktverantwortun
 4. **Beweisakte bauen.** Versionen, Seriennummern, Firmwarestände, Update-Historie, Reparaturversuche, Schadensbilder, Kundenkommunikation und Behördenkontakte dokumentieren.
 5. **Output entscheidungsfähig machen.** Risikoampel, Maßnahmenplan, Behörden-/Kundenschreiben, Rückruf-/Repair-Plan, Vertragsklauseln oder Klage-/Abwehrmemo liefern.
 
-## Quellenhygiene
-
-EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verwenden; insbesondere GPSR ist VO (EU) 2023/988, die BatterieVO ist VO (EU) 2023/1542. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur verifiziert ausgeben.
-
 ## Spezialfragen
 
 - Welche Version ist betroffen: Hardware, Firmware, App, Cloud, KI-Modell, digitaler Dienst?
@@ -57,3 +45,4 @@ EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verw
 - Zeigen Reparatur-/Werkstattdaten, Tickets oder Social Media ein Feldproblem?
 - Ist ein Repair-by-design-Problem entstanden, etwa Pairing oder Ersatzteilsperre?
 - Muss die Maßnahme Warnung, Update, Rückruf, Reparaturprogramm oder Vertriebsstopp sein?
+

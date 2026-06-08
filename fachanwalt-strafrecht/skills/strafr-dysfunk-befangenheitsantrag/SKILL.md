@@ -5,9 +5,6 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 
 # Strafr Dysfunk Befangenheitsantrag
 
-## Arbeitsbereich
-
-**Strafr Dysfunk Befangenheitsantrag** ordnet den Fall über die tragenden Prüfungslinien: Befangenheitsantrag nach § 24 StPO zielgenau formulieren, § 137 Abs, Beweisantrag so begruenden dass er gegen den. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafr-dysfunk-befangenheitsantrag-zielgenau`
@@ -66,18 +64,6 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 
 - Wiederholung schon verworfener Antraege ohne neuen Vortrag ist angreifbar.
 - Pauschale Misstrauensbekundungen ohne Tatsachenbasis sind unzulaessig nach § 26a StPO und werden gegen die Verteidigung gewendet.
-
-## Querverweise
-
-- `strafr-dysfunk-beweisantragsstrategie`
-- `strafr-dysfunk-darlegungslast-umkehren`
-- `strafr-dysfunk-mandant-strategie-schuetzen`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
 
 ## 2. `strafr-dysfunk-beistandsleistung-137-stpo`
 
@@ -121,18 +107,6 @@ description: "Strafr Dysfunk Befangenheitsantrag im Strafrecht: prüft konkret B
 
 - Vermischung mit § 43a BRAO ist gefaehrlich. Berufsrechtliche Pflichten sind eigenstaendig und nicht von § 137 StPO suspendiert.
 - Wenn Mandant einer Strategie nicht zustimmt, geht § 137 StPO ins Leere. Mandantenwille immer dokumentieren.
-
-## Querverweise
-
-- `strafr-dysfunk-konfliktverteidigung-vs-dysfunktional`
-- `strafr-dysfunk-wahlverteidigerausschluss-138a`
-- `strafr-dysfunk-pflichtverteidiger-entpflichtung-143a`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
 
 ## 3. `strafr-dysfunk-beweisantrag-fundament`
 
@@ -183,18 +157,6 @@ das konkrete Aussageverhalten / die Beweiskette / die Glaubhaftigkeitspruefung v
 - Doppelte Antraege ohne neuen Vortrag.
 - Schlecht formulierte Beweisbehauptungen (zu allgemein, zu wertend) sind angreifbar.
 
-## Querverweise
-
-- `strafr-dysfunk-beweisantragsstrategie`
-- `strafr-dysfunk-verschleppungsabsicht-abgrenzen`
-- `strafr-dysfunk-hinweis-auf-heilbaren-fehler`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
-
 ## 4. `strafr-dysfunk-beweisantragsstrategie`
 
 **Fokus:** Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff scheitert. Jeder Antrag traegt erkennbar Beweisbehauptung Beweismittel Konnex zur Sachverteidigung. Bezug zu konkreten Lebenstatsachen statt Beweisermittlungsantrag. Reihenfolge und Zeitpunkt der Antraege strategisch. Antraege schriftlich oder Sitzungsprotokoll. § 244 Abs. 3 und Abs. 6 StPO und § 244 Abs. 4 Satz 2 StPO. Antworten der Kammer mit Sachdienlichkeitsbegruendung pruefen. Vorbeugend gegen § 244 Abs. 3 Satz 3 StPO Verschleppungsabsicht.
@@ -233,18 +195,6 @@ das konkrete Aussageverhalten / die Beweiskette / die Glaubhaftigkeitspruefung v
 - Beweisermittlungsantrag ist kein Beweisantrag. Behauptung muss konkret sein.
 - Doppelte Antraege ohne neuen Vortrag sind angreifbar.
 
-## Querverweise
-
-- `strafr-dysfunk-verschleppungsabsicht-abgrenzen`
-- `strafr-dysfunk-beweisantrag-fundament`
-- `strafr-dysfunk-antrag-wiederholen-ohne-missbrauch`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
-
 ## 5. `strafr-dysfunk-contempt-of-court-debatte-177a`
 
 **Fokus:** Reformdebatte ueber Contempt of Court und § 177a GVG-E der StPO-Reformkommission BMJ rechtspolitisch einordnen. Adversatorisches Element schwer mit inquisitorischer Aufklaerungspflicht § 244 Abs. 2 StPO vereinbar. Einseitige Adressierung Ordnungsgeld an Verteidiger ohne Bezug zur Staatsanwaltschaft verletzt Waffengleichheit. Argumentationslinien für berufspolitische Auseinandersetzung und für den einzelnen Sitzungsverlauf. Bezug zur historischen Tradition § 177 § 178 GVG seit 1921 keine Zwangsmittel gegen Verteidiger.
@@ -278,14 +228,3 @@ das konkrete Aussageverhalten / die Beweiskette / die Glaubhaftigkeitspruefung v
 - Reformdebatten sind volatil. Quellenstand vor Verwendung verifizieren.
 - Polemische Auseinandersetzung schadet der eigenen Argumentation.
 
-## Querverweise
-
-- `strafr-dysfunk-institutsmissbrauch-kritik`
-- `strafr-dysfunk-sitzungspolizei-ordnungsmittel`
-- `strafr-dysfunk-empirie-nutzen`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.

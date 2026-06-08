@@ -5,10 +5,6 @@ description: "Notfallkommunikation, Resilienz, Priorisierung, Cell Broadcast, Be
 
 # Notfall- und Katastrophenkommunikation
 
-## Arbeitsbereich
-
-Notfallkommunikation, Resilienz, Priorisierung, Cell Broadcast, Behördenkommunikation und Business Continuity. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Notfallkommunikation, Resilienz, Priorisierung, Cell Broadcast, Behördenkommuni
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Provider und Betreiber kritischer Einrichtungen.
-
 ## Norm- und Quellenanker
 
 TKG Sicherheits-/Notfallregeln; BBK/BSI/BNetzA-Vorgaben live prüfen.
-
-## Arbeitsfragen
-
-1. Welche Dienste müssen im Notfall aufrechterhalten werden?
-2. Welche Behördenkontakte und Tests?
-3. Welche Kunden-/Priorisierungspflichten?
-
-## Output
-
-Notfallkommunikationsplan und Testkalender.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Notfallkommunikationsplan und Testkalender.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

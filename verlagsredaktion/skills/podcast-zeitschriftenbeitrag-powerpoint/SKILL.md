@@ -5,10 +5,6 @@ description: "Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle für
 
 # Podcast zu Zeitschriftenbeitrag
 
-## Arbeitsbereich
-
-Nutzt einen juristischen Podcast als Zitat- und Inhaltsquelle für einen Zeitschriftenbeitrag, klaert Verwertungsrechte und liefert ein zitierbares Belegformat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,14 +75,6 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 - Aussage aus dem Kontext gerissen - § 51 UrhG verlangt sachgemaesse Wiedergabe.
 - Pointierte Podcast-Aussagen als rechtsdogmatische Position behandelt.
 
-## Querverweise
-
-- `verl-audio-transkript-zu-fachbeitrag` - direkter Schwester-Skill für eigene Audioquellen.
-- `quellen-zitate-fundstellencheck` - Quellenpruefung allgemein.
-- `rechtecheck-urhg-verlg` - § 51 UrhG vertieft.
-- `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-- `workflow-dokumentenintake` - Intake-Workflow.
-
 ## Quellen Stand 06/2026
 
 - UrhG § 51 (Zitatschranke), § 63 (Quellenangabe), [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
@@ -94,3 +82,4 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Wayback Machine, [https://web.archive.org](https://web.archive.org), für URL-Archivierung.
+

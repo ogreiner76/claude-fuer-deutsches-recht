@@ -5,10 +5,6 @@ description: "Grenzfall-Skill zur Abgrenzung konventioneller Software, Automatio
 
 # Abgrenzung: Konventionelle Software versus KI-System
 
-## Arbeitsbereich
-
-Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit belastbarer Begruendung und Weiterleitung zu liegt-ki-system-vor-art-3-nr-1, GPAI oder Hochrisiko-Pruefung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,13 +12,6 @@ Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, 
 - Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill wird verwendet, wenn der Nutzer nicht sicher ist, ob eine Anwendung nur konventionelle Software oder bereits ein KI-System ist. Er vertieft die Art.-3-Nr.-1-Prüfung und verhindert zwei typische Fehler:
-
-- KI-VO-Pflichten werden unnötig auf rein deterministische Software gezogen.
-- KI-Komponenten werden übersehen, weil sie in normale Software, Workflows oder externe APIs eingebettet sind.
 
 ## Leitgedanke
 
@@ -131,14 +120,6 @@ System / Komponente: [NAME]
 
 Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1 KI-VO, Erwägungsgrund 12 und die Kommissionsleitlinien zur Definition des KI-Systems. Keine Rechtsberatung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -167,3 +148,4 @@ Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1 KI-VO, Erwägungsgrund 12 und die 
 - KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
 - Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
 - GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.
+

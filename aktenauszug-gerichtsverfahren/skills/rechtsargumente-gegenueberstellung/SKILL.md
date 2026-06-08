@@ -17,10 +17,6 @@ Erstellt eine tabellarische Gegenüberstellung der Rechtsargumente beider Partei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Die Rechtsargumenten-Tabelle stellt die juristischen Positionen beider Parteien gegenüber. Sie zeigt, auf welche Anspruchsgrundlagen, Einwendungen, Einreden und Rechtsprechungsnachweise sich die Parteien berufen.
-
 ## Triage — kläre vor Erstellung
 
 1. Welche Anspruchsgrundlagen benennt die Klägerseite explizit?
@@ -40,9 +36,6 @@ Die Rechtsargumenten-Tabelle stellt die juristischen Positionen beider Parteien 
 
 ## Rechtsprechung zu Anspruchsgrundlagen und Einreden
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Tabellenstruktur
 
 ```markdown
@@ -107,3 +100,4 @@ Aktenzeichen geprueft und korrigiert:
 - VI ZR 136/20: ersatzlos entfernt — WRONG_TOPIC; reale Entscheidung 05.10.2021 betrifft Feststellungsklage VW-Abgasskandal (NJW-RR 2022, 23), nicht Verjährungsbeginn § 199 BGB; beanspruchte NJW 2022, 53 existiert nicht in dejure
 - VI ZR 282/17: ersatzlos entfernt — kein Eintrag auf dejure.org (NOT_FOUND)
 - VI ZR 259/17: ersatzlos entfernt — kein Eintrag auf dejure.org (NOT_FOUND)
+

@@ -30,10 +30,6 @@ Nicht aus Modellwissen; aktuelle Anwendungspraxis der Aufsichtsbehörden zu EDSA
 
 Art. 33 Abs. 1; Art. 34 Abs. 1 DSGVO; Erwägungsgrund 75; 76; EDSA-Leitlinien 9/2022.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Anwendung EDSA-Beispiele
 
 Fallgruppe identifizieren: Ransomware mit/ohne Exfiltration; Datenexfiltration Hashes Passwörter; Insider absichtlich/unabsichtlich; Verlust verschlüsselt/unverschlüsselt; Fehlversand mit Empfängerrückläufer; soziale Ingenieurkunst.
@@ -50,3 +46,4 @@ Risikomatrix: Eintrittswahrscheinlichkeit × Schwere; Begründung mit EDSA-Refer
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-risikobewertung-enisa-schweregrad` ergaenzt um quantitative ENISA-Methodik.
+

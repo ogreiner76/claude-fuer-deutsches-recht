@@ -5,10 +5,6 @@ description: "KV Qualitaetsgate im Krankenkassenrecht / Krankenversicherung im K
 
 # KV Qualitaetsgate
 
-## Arbeitsbereich
-
-**KV Qualitaetsgate** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "KV Qualitaetsgate im Krankenkassenrecht / Krankenversicherung im K
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kv-080-qualitaetsgate-krankenversicherungsakte`
@@ -107,3 +104,4 @@ Dieser Skill fungiert als **Schlusscheck** für jeden Fall im Krankenversicherun
 - [G-BA Richtlinien](https://www.g-ba.de/richtlinien/)
 - [dejure.org SGB V](https://dejure.org/gesetze/SGB_V)
 - [openjur.de – Sozialrecht](https://openjur.de)
+

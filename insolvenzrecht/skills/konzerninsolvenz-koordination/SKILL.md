@@ -25,10 +25,6 @@ Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfah
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4.2018 zentral. Dieses Skill bedient Koordinations-Strategien.
-
 ## Eingaben
 
 - Konzern-Struktur (Mutter Tochter Beteiligungen)
@@ -369,6 +365,3 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 - **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Nachrangigkeit kapitalmarktrechtlicher Aktionärsschadensersatzansprüche in der Insolvenz der AG (Bedeutung für Konzernspitze als Holding-AG).
 - **EuInsVO** und konkrete EuGH-Entscheidungen zu COMI/Konzerninsolvenz vor Ausgabe über curia.europa.eu oder dejure.org verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

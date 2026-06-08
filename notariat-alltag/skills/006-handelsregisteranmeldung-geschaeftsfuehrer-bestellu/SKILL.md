@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer
 
 # Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer Bestellung, Abberufung, Vertretungsmacht
 
-## Arbeitsbereich
-
-Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer-Bestellung, Abberufung, Vertretungsmacht. Formelle Anforderungen, Inhalt der Anmeldung, Vollzug und Zwischenverfügungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

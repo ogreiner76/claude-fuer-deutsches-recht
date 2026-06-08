@@ -5,10 +5,6 @@ description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung f�
 
 # Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermoegen
 
-## Aufgabe
-
-Skill f체r Vermoegensvormundschaft.
-
 ## Tutela impuberum
 
 - Vormundschaft f체r Minderjaehrige (impuberes) bis 14 Jahre (Knaben) / 12 Jahre (Maedchen).
@@ -65,7 +61,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext pr체fen
 
 Rechtsprechung nur erg채nzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr체fbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

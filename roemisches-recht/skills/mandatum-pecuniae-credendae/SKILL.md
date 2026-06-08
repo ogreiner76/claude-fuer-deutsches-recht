@@ -5,10 +5,6 @@ description: "Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemisch
 
 # Rom 138 Mandatum Pecuniae Credendae Bankvertrag
 
-## Aufgabe
-
-Skill für mandatum pecuniae credendae.
-
 ## Rechtsquelle
 
 - D. 17.1 (Mandati vel contra).
@@ -59,7 +55,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.

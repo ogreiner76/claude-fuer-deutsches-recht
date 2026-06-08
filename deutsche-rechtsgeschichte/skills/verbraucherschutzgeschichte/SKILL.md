@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Geschichte des Verbraucherschutzrechts.
 
 # Verbraucherschutzgeschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Geschichte des Verbraucherschutzrechts. AGBG 1976, Haustuerwiderrufsgesetz 1986, Verbraucherkreditgesetz 1990, Schuldrechtsreform 2002 und EU-Verbraucherrichtlinien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Verbraucherschutzrecht ist ein Kind des 20. Jahrhunderts. Das BGB 1900 kannte ke
 - BGH-Verbraucherrecht: bgh.de
 - EU-AGB-Richtlinie 93/13/EWG: eur-lex.europa.eu
 
-## Output
-
-- Zeitleiste Verbraucherschutz: 1976-2022
-- AGBG und BGB: vor/nach SchuRModG 2002 Vergleich
-- Widerrufsrecht: Entwicklung von 1986 bis heute
-
-## Quellenregel
-
-AGBG 1976: BGBl. I 1976, 3317. BGB: gesetze-im-internet.de. BGH: bgh.de. EU-Richtlinien: eur-lex.europa.eu.

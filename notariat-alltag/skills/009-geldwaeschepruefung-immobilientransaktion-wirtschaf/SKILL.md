@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Geldwäscheprüfung bei Immobilientransaktione
 
 # Notariat im Alltag: Geldwäscheprüfung – Immobilientransaktion, wirtschaftlich Berechtigter, Risikoklassifizierung
 
-## Arbeitsbereich
-
-Notariat im Alltag: Geldwäscheprüfung bei Immobilientransaktionen – wirtschaftlich Berechtigter, Risikoklassifizierung, Dokumentationspflichten nach GwG §§ 1–17 und Meldepflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,3 +92,4 @@ Ausnahme: § 43 Abs. 2 GwG – Notar darf Meldung nicht erstatten, wenn dadurch 
 - **Meldungshinweis an FIU** (bei Verdacht, ohne Inhaltsangabe an Mandant)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

@@ -5,10 +5,6 @@ description: "Markenlizenzverträge entwerfen und prüfen: exklusive/nicht-exklu
 
 # Markenlizenz und Qualitätskontrolle
 
-## Arbeitsbereich
-
-Markenlizenzverträge entwerfen und prüfen: exklusive/nicht-exklusive Lizenz, Territorium, Waren, Qualitätskontrolle, Unterlizenz, Register, Royalty, Audit, Kündigung, Erschöpfung und Insolvenzrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Markenlizenzverträge entwerfen und prüfen: exklusive/nicht-exklusive Lizenz, T
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Gestalte oder prüfe Markenlizenzen so, dass Schutzrecht, Marke, Vertrieb und Qualität zusammenpassen.
 
 ## Normanker
 
@@ -52,13 +44,7 @@ Gestalte oder prüfe Markenlizenzen so, dass Schutzrecht, Marke, Vertrieb und Qu
 7. **Qualitätsdurchgriff:** Brand Guidelines, Musterfreigabe, Audit, Rückruf und Lieferantenfreigabe so formulieren, dass Kontrolle praktisch ausübbar bleibt.
 8. **Royalty-Controlling:** Reporting, Buchprüfung, Mindestgarantie, Währung, Quellensteuer und Transfer Pricing nicht in einer Pauschalklausel verstecken.
 
-## Output
-
-- Klauselcheck.
-- Redline-Hinweise.
-- Lizenz-Termsheet.
-- Risikomatrix für Brand Owner.
-
 ## Quellen-Hardening
 
 Auslandsregister und lokale Eintragungserfordernisse live prüfen; keine pauschale weltweite Aussage.
+

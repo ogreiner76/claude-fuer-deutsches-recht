@@ -5,10 +5,6 @@ description: "Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln un
 
 # Lebensmittel- und Futtermitteleinfuhr: Verbote, Beschraenkungen und Grenzkontrolle
 
-## Arbeitsbereich
-
-Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen für Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermittel
 - Einfuhr aus bestimmten Drittlaendern erfordert zusaetzliche Einfuhrbescheinigungen.
 - Futtermittel unterliegen eigenen Regelwerken (VO (EG) 183/2005); nicht mit Lebensmittelrecht verwechseln.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Einfuhr-VuB-Checkliste für Lebensmittel/Futtermittel, TRACES NT-Voranmeldeprotokoll, Grenzkontrollstellen-Uebersicht und RASFF-Pruefprotokoll.
-
 ## Quellen
 
 - [VO (EG) 178/2002 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32002R0178)
 - [RASFF-Datenbank EU-Kommission](https://webgate.ec.europa.eu/rasff-window/screen/search)
 - [Zoll.de Lebensmittel](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Lebensmittel-Futtermittel/lebensmittel-futtermittel_node.html)
 - [BVL Lebensmitteleinfuhr](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucherinnen_und_Verbraucher/lebensmittel_node.html)
+

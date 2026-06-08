@@ -83,20 +83,7 @@ Erbschein-Antraege, Testamentsvollstreckung, Betreuung. Immer AG (§ 23b, 23c GV
 - "Reiseversicherungs-Anspruch gegen Versicherer ist Reisevertrag." → Nein, das ist Versicherungsvertrag. Streitwertgrenze § 23 Nr. 1 GVG anwendbar.
 - "Ehevertrag-Streit ist allgemeine Zivilsache." → Wenn er die Ehe betrifft, ist es Familiensache und Anwaltszwang.
 
-## Querverweise
-
-- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Allgemeine Grundregel.
-- `oertliche-zuständigkeit-12-37-zpo` — Welches AG raeumlich?
-- `anwaltszwang-pruefen-78-zpo` — Familiensache und Anwaltszwang.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 23 Nr. 2 GVG unveraendert. Reform der Wertgrenze § 23 Nr. 1 GVG betrifft die Sonderzuständigkeiten nicht.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

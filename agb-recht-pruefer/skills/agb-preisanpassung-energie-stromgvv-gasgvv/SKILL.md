@@ -43,7 +43,3 @@ description: "AGB-Preisanpassung Energieversorgung StromGVV GasGVV. Skill klaert
 4. Kuendigungsrecht?
 5. EuGH-Linie eingehalten?
 
-## Output
-
-- Klauselentwurf.
-- Schriftsatzbaustein Rueckforderung.

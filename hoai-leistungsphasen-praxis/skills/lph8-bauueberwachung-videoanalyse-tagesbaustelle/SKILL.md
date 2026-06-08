@@ -5,10 +5,6 @@ description: "Methodikskill HOAI LPH 8 — Strukturierter für die Videoanalyse 
 
 # Videoanalyse Tagesbaustelle in der Bauueberwachung LPH 8
 
-## Arbeitsbereich
-
-Methodikskill HOAI LPH 8 — Strukturierter für die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Die systematische Videodokumentation der Tagesbaustelle ergaenzt die klassische 
 - Zeitstempel-Asynchronie: Kamera um 30 Minuten falsch, Videobeweise im Streitfall angezweifelt
 - Zu geringes Kamera-Aufloesungsquerschnitt: Wichtige Details wie Risse oder Bewehrungslage nicht erkennbar
 
-## Output
-
-Taeglich-Zeitraffer-Video 5 Minuten als MP4 mit Datum und Wetter-Overlay. Matterport 3D-Scan je Bauphase als Online-Viewer-Link. Konflikt-Video-Clips bei Behinderungsanzeige. DSGVO-Dokumentation Einwilligungen und Loeschprotokoll. SAP-PM-Meldungen mit Video-Zeitstempel-Referenz. Baufortschritts-Dashboard PlanRadar und SAP PS tagesaktuell.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Taeglich-Zeitraffer-Video 5 Minuten als MP4 mit Datum und Wetter-Overlay. Matter
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [VOB/B § 4 Ausfuehrung](https://www.gesetze-im-internet.de/vob/)
+

@@ -48,9 +48,6 @@ GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassu
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflicht-Inhalte § 3 GmbHG
 
 | Pflichtangabe | Inhalt | Fallstrick |
@@ -161,3 +158,4 @@ Version: [Nr.], Datum: [Datum], Notariell beurkundet: [Datum]
 - `gesellschaftsgruender-notar-vorbereitung` — Beurkundungstermin
 - `gesellschaftsgruender-genehmigtes-kapital` — § 55a GmbHG-Klausel in Satzung
 - `gesellschaftsgruender-sha-satzung-stimmverpflichtung` — Stimmverpflichtung SHA/Satzung
+

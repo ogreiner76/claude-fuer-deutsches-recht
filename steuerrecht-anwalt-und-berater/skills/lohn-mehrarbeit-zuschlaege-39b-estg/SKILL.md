@@ -95,12 +95,6 @@ Wenn tariflich oder einzelvertraglich hoehere Zuschlaege vereinbart sind, bleibt
 - Bei fehlender Dokumentation: gesamter Zuschlag steuerpflichtig.
 - Bei Pruefung durch Lohnsteuer-Aussenpruefer: Stichproben.
 
-## Output
-
-- Lohn-Abrechnung mit korrekter Zuschlag-Behandlung.
-- Schichtnachweis-Aufzeichnung.
-- Dokumentation Vereinbarung im Vertrag.
-
 ## Strategie und Praxis-Tipps
 
 - § 3b EStG ist generoes — bis zu 50 Prozent Sonntagszuschlag steuer- und SV-frei.
@@ -109,13 +103,6 @@ Wenn tariflich oder einzelvertraglich hoehere Zuschlaege vereinbart sind, bleibt
 - Grundlohn-Grenze 50 EUR/Stunde für Topverdiener relevant.
 - StBVV: in Lohnpauschale; komplexe Schichten Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Schichtkonfiguration sorgfaeltig — Zeitgrenzen automatisch.
-
-## Querverweise
-
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-ueberstunden-abbau-arbeitszeitkonto` — Ueberstunden.
-- `stb-lohn-aufzeichnungspflichten-milog` — MiLoG.
 
 ## Quellen und Updates
 
@@ -129,10 +116,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SvEV Grundlohn-Grenze 25 EUR/Stunde seit 2019 stabil) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

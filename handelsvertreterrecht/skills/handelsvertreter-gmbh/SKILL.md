@@ -5,10 +5,6 @@ description: "Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile
 
 # Handelsvertreter-GmbH — Rechtsformwahl und Ausgleichsanspruch nach § 89b HGB
 
-## Arbeitsbereich
-
-Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile der GmbH gegenüber dem Einzelkaufmann, Auswirkungen auf den Ausgleichsanspruch nach § 89b HGB (kein Ausschluss wegen juristischer Person), Geschäftsführerhaftung, Gesellschafterwechsel und Auflösung der GmbH sowie Pfändungsschutz des Ausgleichs. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Ausgleichsanspruch bei GmbH-Liquidation nicht rechtzeitig gesichert.
 - Gesellschafterwechsel ohne Zustimmung des Unternehmers — Vertragsübergang problematisch.
 
-## Output
-
-GmbH-Strukturanalyse für Handelsvertreterrecht, Ausgleichsanspruchsprüfung, Gesellschaftsvertrag-Empfehlung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 43 GmbHG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gmbhg/__43.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

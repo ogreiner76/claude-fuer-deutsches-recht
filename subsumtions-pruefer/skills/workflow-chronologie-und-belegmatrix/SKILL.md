@@ -5,10 +5,6 @@ description: "Chronologie und Belegmatrix: macht aus unordentlichem Material ein
 
 # Chronologie und Belegmatrix
 
-## Arbeitsbereich
-
-Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Diese Prüfungslinie ordnet zu jedem Tatbestandsmerkmal einer Subsumtion die konkreten Tatsachen aus dem Sachverhalt und die Belege (Anlagen, Korrespondenz, Zeugen) zu. Ergebnis ist eine Belegmatrix, die die Subsumtion auditierbar macht.
 
 ## Subsumtions-Belegmatrix
 
@@ -87,23 +79,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 4. Chronologie und Widerspruchs-Protokoll anlegen.
 5. Passende Fachmodule vorschlagen (z. B. spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste).
 
-## Output-Standard
-
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Belegmatrix mit den entscheidenden Punkten.
-- Chronologie-Tabelle und Widerspruchs-Protokoll.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-
-## Quellenregel
-
-- Normen live prüfen: gesetze-im-internet.de (ZPO §§ 138, 286, 287, 294, 355 ff.; BGB §§ 286, 323, 377 HGB, 438).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

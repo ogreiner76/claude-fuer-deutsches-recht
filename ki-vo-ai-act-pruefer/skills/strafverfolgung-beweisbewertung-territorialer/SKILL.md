@@ -5,10 +5,6 @@ description: "KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsge
 
 # Strafverfolgung: KI und Beweisbewertung
 
-## Arbeitsbereich
-
-KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -43,13 +39,3 @@ Der Skill prüft, ob KI-Ergebnisse in Ermittlungsakten, Polizeivermerken oder Be
 9. Aktenklarheit: Ist das KI-Ergebnis Primärbeweis, Ermittlungsanstoß, Übersetzungshilfe oder bloße Sortier-/Priorisierungshilfe?
 10. Fair-Trial-Gate: Kann die Verteidigung Methode, Datenbasis, Fehlerquellen und menschliche Kontrollentscheidung tatsächlich angreifen?
 
-## Output
-
-- Behörden-Governance-Vermerk.
-- Verteidigungsangriffsmatrix.
-- Fragenkatalog für Akteneinsicht.
-- Sachverständigenfragen.
-
-## Qualitätsregel
-
-KI-Auswertung ist nicht selbsterklärend. Wenn sie beweisrelevant wird, müssen Methode, Datenbasis und Fehlerquellen in die Akte.

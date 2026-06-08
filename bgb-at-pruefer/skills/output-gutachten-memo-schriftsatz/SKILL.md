@@ -45,13 +45,6 @@ description: "Output-Skill für BGB-AT-Ergebnisse: Klausurlösung im Gutachtenst
 - Schriftsatz muss prozessuale Anforderungen (Beweisangebot, Antrag) erfüllen.
 - Keine erfundenen BGH-Entscheidungen in Schriftsatz oder Memo einbauen.
 
-## Output
-
-- Klausurlösungsschema im OTSE-Gutachtenstil
-- Mandatsmemo-Vorlage: Sachverhalt — Recht — Risiko — Empfehlung
-- Schriftsatzbaustein-Vorlage: Antrag — Normzitat — Tatsachenvortrag — Beweisangebot
-- Kurzformat-Übersicht für schnelle Orientierung
-
 ## Quellen
 
 - [§ 241 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__241.html)
@@ -85,3 +78,4 @@ explizit benennen.
 - Gutachtenstil: Obersatz hypothetisch, Subsumtion vollständig, Ergebnis am Ende?
 - Memo: Kurz, praxisorientiert, mit Risikoampel und Empfehlung?
 - Schriftsatz: Formale Anforderungen nach ZPO eingehalten?
+

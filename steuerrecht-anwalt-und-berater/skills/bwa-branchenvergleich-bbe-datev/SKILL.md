@@ -93,12 +93,6 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 - Handlungsoptionen ableiten.
 - Massnahmen-Plan zur naechsten Quartals-Pruefung.
 
-## Output
-
-- BWA mit Branchenvergleichs-Spalte oder Anhang.
-- Verortungsbericht mit Top-Quartil-Vergleich.
-- Massnahmen-Plan.
-
 ## Strategie und Praxis-Tipps
 
 - BBE-Daten sind nicht ideal aktuell — bei schnellen Marktveraenderungen ggf. mit zusaetzlichen Quellen ergaenzen (Bundesverbaende, Bafa-Studien).
@@ -107,14 +101,6 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 - Branchenvergleich nicht moralisieren — Mandant darf in einer Branche auch unterdurchschnittlich sein, wenn er bewusst Nische besetzt.
 - StBVV: BBE-Bericht als Zusatzleistung, ueber Pauschal oder Zeithonorar.
 - Datenschutz: BBE-Berichte enthalten anonymisierte Daten; nicht weitergeben an Dritte ohne Mandantenzustimmung.
-
-## Querverweise
-
-- `stb-bwa-zeitlicher-vergleich-jahresvergleich` — Vorjahresvergleich.
-- `stb-bwa-kennzahlen-rentabilitaet-eigenkapital` — Rentabilitaetskennzahlen.
-- `stb-bwa-mandantengespraech-uebergabe` — Quartalsgespraech.
-- `stb-bwa-mandantenreport-monatlich` — Monatsreport.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -128,14 +114,6 @@ Stand: 05/2026.
 - Hinweis: BBE-Datenstand vor Mandanteneinsatz pruefen (Zeitverzug von ein bis zwei Jahren ueblich); Branchenrichtwerte aus aktuellem DATEV-BBE-Bericht oder Branchenverbands-Daten entnehmen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (WZ 2008 Statistisches Bundesamt bestaetigt), 1 ersetzt (Hinweis ohne Marker neu formuliert) -->
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -165,3 +143,4 @@ Stand: 05/2026.
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

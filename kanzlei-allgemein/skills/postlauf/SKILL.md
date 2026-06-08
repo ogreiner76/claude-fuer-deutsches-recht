@@ -5,10 +5,6 @@ description: "Führt den täglichen Postlauf ideal um 11 Uhr. Prüft neue Eingä
 
 # Postlauf um 11 Uhr
 
-## Arbeitsbereich
-
-Führt den täglichen Postlauf ideal um 11 Uhr. Prüft neue Eingänge beA-Journal Fristen Action-Items nicht zugeordnete Akten Versandbedarf EB und Rückfragen. Erstellt ein Postlauf-Journal und übergibt an Akten Fristen Output Zeit und Rechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Führt den täglichen Postlauf ideal um 11 Uhr. Prüft neue Eingänge beA-Journa
 - § 174 Abs. 4 ZPO — Elektronisches Empfangsbekenntnis: Datum massgebend für Fristbeginn
 - Art. 7 PostModG — Vier-Tages-Zustellungsfiktion seit 01.01.2025
 - § 51 BRAO — Haftung bei Organisationspflichtverletzung im Postlauf
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill bildet die tägliche Kanzleipost ab. Er ist für den manuellen Aufruf oder für eine Umgebung mit Automationen gedacht.
 
 ## Ablauf
 
@@ -64,3 +53,4 @@ Wenn die Umgebung Automationen unterstützt, den Nutzer fragen:
 > Soll ich eine tägliche Erinnerung um 11 Uhr für den Postlauf einrichten?
 
 Ohne Automationsunterstützung eine manuelle Checkliste erzeugen.
+

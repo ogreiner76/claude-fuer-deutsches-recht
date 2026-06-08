@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Rahmenvertrag (Framework Agreement) 
 
 # Rahmenvertrag und Abrufaufträge
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Rahmenvertrag (Framework Agreement) und Abrufaufträge (Call-Offs). Verhältnis Rahmen- zu Einzelauftrag, CISG-Anwendbarkeit auf Abrufaufträge, Mindestmengen, Exklusivität, Preisrecht und Kündigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,7 @@ Rahmenverträge schaffen einen Handlungsrahmen ohne sofortige Kaufverpflichtung;
 - Exklusivitätsklausel: wettbewerbsrechtliche Grenzen (GWB, Art. 101 AEUV)
 - Bestellverfahren: elektronisch und mit Bestätigungsobliegenheit
 
-## Output
-
-- Rahmenvertrag-Struktur-Muster
-- Abrufauftrags-Formular-Vorlage
-- Mindestmengen-Klausel mit Take-or-Pay-Element
-
 ## Quellenregel
 
 CISG Art. 14: uncitral.un.org. BGB §§ 311, 433: gesetze-im-internet.de. GWB § 20: gesetze-im-internet.de. EU-RL 2014/24/EU: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.
+

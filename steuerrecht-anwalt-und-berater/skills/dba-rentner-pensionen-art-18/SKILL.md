@@ -101,13 +101,6 @@ Art. 18 OECD-MA gibt grundsaetzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 2. Anlage AUS bei Anrechnung.
 3. Anrechnung auslaendischer Steuer § 34c EStG.
 
-## Output
-
-- **Mandanten-Memo Rentenbesteuerung**.
-- **DBA-Pruefungs-Tabelle** je Wohnsitzstaat.
-- **Berechnungsbeispiel** mit Anrechnung oder Wohnsitzstaat-Besteuerung.
-- **Anlage R-AUS** Hinweise.
-
 ## Strategie und Praxis-Tipps
 
 - Wohnsitz im Ausland (Spanien, Portugal, Italien, Tuerkei) — Pension wird oft beim Wohnsitzstaat besteuert; deutsches FA pruegt mit § 50d Abs. 9 EStG bei Nichtbesteuerung (NHR Portugal!).
@@ -182,13 +175,9 @@ Sachverhalt: Rentner Wohnsitz DE, bezieht 50.000 USD/Jahr aus IRA. DBA-USA 1989/
 
 (**Werte sind Beispiel — DBA-USA-Protokoll 2006 Art. 18A und § 22 Nr. 1 EStG Versorgungsanteil 2026 nachpruefen.**)
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`.
-- `stb-dba-spanien-2011`, `stb-dba-portugal`, `stb-dba-italien`, `stb-dba-tuerkei-2011`, `stb-dba-niederlande-2012`, `stb-dba-schweiz`, `stb-dba-usa-1989-protokoll-2006`, `stb-dba-kanada-2001`, `stb-dba-oesterreich`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. Art. 18, 19 OECD-MA. § 22 Nr. 1 EStG. § 49 Abs. 1 Nr. 7 EStG. § 50d Abs. 8, 9 EStG. Alterseinkuenftegesetz 2005. DBA-spezifische Pensionsklauseln und Schwellenwerte konkret im jeweiligen DBA-Text pruefen. Subject-to-Tax-Anwendungsschreiben des BMF im BMF-Veroeffentlichungsverzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

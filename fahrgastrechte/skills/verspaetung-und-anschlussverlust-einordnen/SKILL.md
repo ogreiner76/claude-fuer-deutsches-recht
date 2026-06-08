@@ -5,10 +5,6 @@ description: "Ordnet das Stoerungsereignis rechtlich ein: Verspaetung (Art. 19 V
 
 # Verspätung, Zugausfall oder Anschlussverlust einordnen
 
-## Zweck
-
-Klärt für einen erfassten Fall (vorab über `ticket-und-reisedaten-erfassen`), welcher Tatbestand der VO 2021/782 vorliegt. Maßgeblich für die Folge-Skills (Entschädigungsberechnung, Forderung, Widerspruch, Klage).
-
 ## Tatbestände im Überblick
 
 | Tatbestand | Norm | Konsequenz |
@@ -131,6 +127,3 @@ Nächster Skill: entschaedigung-berechnen (exakte Berechnung)
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

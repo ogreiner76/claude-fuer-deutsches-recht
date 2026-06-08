@@ -5,10 +5,6 @@ description: "Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, 
 
 # Intensivmedizin Beatmung Verlegung
 
-## Arbeitsbereich
-
-Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaehigkeit, IPReG-Bedingungen ausserklinische Beatmung, Strukturanforderungen, OPS- und MD-Pruefung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,14 +74,6 @@ Die Intensivmedizin ist hochreguliert: Personaluntergrenzen (PpUGV-Intensiv), St
 - Triage-Entscheidung ohne Dokumentation.
 - Ausserklinische Beatmung ohne IPReG-Indikationspruefung.
 
-## Querverweise
-- `personaluntergrenzen-pflege-ppugv`
-- `strukturpruefung-ops-und-md`
-- `triage-notaufnahme-ueberlastung-dokumentation`
-- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
-- `notfallstufen-und-sicherstellungszuschlaege`
-- `kinder-und-jugendmedizin-besondere-versorgung`
-
 ## Quellen Stand 06/2026
 - PpUGV (Live-Check BMG).
 - OPS-Katalog BfArM (Live-Check bfarm.de).
@@ -102,3 +90,4 @@ Konkret zu prüfen:
 - §§ 107-114 SGB V (Krankenhaus)
 - KHEntgG (Entgeltgesetz)
 - §§ 17a-17d KHG (DRG, Pflege, Investitionen)
+

@@ -53,10 +53,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - BGH-Entscheidung nicht auf Verifizierbarkeitsprüfung unterzogen.
 - Widersprüche zwischen verschiedenen Abschnitten des Dokuments.
 
-## Output
-
-Red-Team-Prüfprotokoll, Fehlerbereinigter Entwurf, Checklist Verifizierbarkeit.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -77,3 +73,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
 - [BGH auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
 - [Dejure HGB](https://dejure.org/gesetze/HGB)
+

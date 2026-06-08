@@ -15,10 +15,6 @@ description: "WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach § 28 WEG:
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
 
-## Aufgabe
-
-Dieser Skill führt Verwalter, Beirat, Eigentümer und Anwälte durch die aktuelle § 28-WEG-Logik. Er vermeidet den alten Reflex, "die Jahresabrechnung zu genehmigen". Beschlossen werden Nachschüsse und die Anpassung von Vorschüssen; der Wirtschaftsplan stützt die Vorschüsse.
-
 ## Einstieg
 
 1. Geht es um Erstellung, Beschlussvorbereitung, Beiratsprüfung, Anfechtung oder Mieterschnittstelle?
@@ -63,15 +59,9 @@ Dieser Skill führt Verwalter, Beirat, Eigentümer und Anwälte durch die aktuel
 - Anfechtungsrisiko-Matrix.
 - Vermieter-Datenpaket für Betriebskostenabrechnung.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+

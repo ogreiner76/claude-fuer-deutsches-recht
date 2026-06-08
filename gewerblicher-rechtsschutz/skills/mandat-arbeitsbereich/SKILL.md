@@ -5,10 +5,6 @@ description: "Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss K
 
 # Mandatsarbeitsbereich
 
-## Arbeitsbereich
-
-Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bestätigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwische
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Anwälte und Patentanwälte arbeiten gleichzeitig an mehreren Mandaten. Ein Mandatsarbeitsbereich hält den Kontext eines Mandanten oder einer Angelegenheit von jedem anderen getrennt. Diese Skill verwaltet diese Bereiche.
-
-Der Standardzustand ist **deaktiviert**. Syndikusrechtsanwälte und Inhouse-Teams (ein Mandant) arbeiten auf Praxisebene; Mandatsarbeitsbereiche sind für sie unsichtbar. Sie aktivieren sich beim Erstkonfigurationsgespräch für externe Anwälte (Einzel-, Klein- und Großkanzleien) oder durch manuelle Einrichtung.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ## Eingaben
 
@@ -120,22 +108,6 @@ Aktives Mandat mit `*` markieren. `_archiv/*` unter gesonderter Überschrift "Ar
 
 `Aktives Mandat:` in der Praxiskonfigurationsdatei auf `kein — nur Praxisebene` setzen. Bestätigung an den Nutzer.
 
-## Ausgabeformat
-
-### Vorlage `mandat.md`
-
-```markdown
-[ARBEITSERGEBNIS-KOPFZEILE — gemäß Mandatsprofil]
-
-### Mandat: [Mandant] — [Kurzbeschreibung]
-
-**Kurzzeichen:** [kurzzeichen]
-**Eröffnet:** [JJJJ-MM-TT]
-**Status:** aktiv
-**Vertraulichkeit:** [standard / erhöht / Clean-Team]
-
----
-
 ## Parteien
 
 **Mandant:** [Name]
@@ -230,3 +202,4 @@ Bevor das Mandat angelegt wird, klaere:
 Task: Bundle 031 / Halluzinations-Reparatur
 Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
 -->
+

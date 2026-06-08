@@ -46,8 +46,3 @@ description: "AGB und Cookie-Einwilligung nach DSGVO und TTDSG / TDDDG. Skill kl
 4. Bussgeldrisiko?
 5. Werbliche Folgen?
 
-## Output
-
-- Cookie-Banner-Entwurf.
-- AGB-Klausel zur Datenverarbeitung.
-- Compliance-Memo.

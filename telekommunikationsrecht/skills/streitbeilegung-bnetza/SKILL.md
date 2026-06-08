@@ -5,10 +5,6 @@ description: "Streitbeilegung bei Zugang, Mitnutzung, Entgelt, Nummerierung oder
 
 # BNetzA-Streitbeilegung zwischen Unternehmen
 
-## Arbeitsbereich
-
-Streitbeilegung bei Zugang, Mitnutzung, Entgelt, Nummerierung oder Anbieterwechsel mit BNetzA-Beteiligung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Streitbeilegung bei Zugang, Mitnutzung, Entgelt, Nummerierung oder Anbieterwechs
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für schnelle regulatorische Konfliktlösung statt langer Zivilstreitigkeit.
-
 ## Norm- und Quellenanker
 
 TKG Streitbeilegungsnormen live prüfen; VwVfG/VwGO.
-
-## Arbeitsfragen
-
-1. Welche Norm eröffnet Streitbeilegung?
-2. Welche Vorverhandlungen sind dokumentiert?
-3. Welche Entscheidung soll die BNetzA treffen?
-
-## Output
-
-Streitbeilegungsantrag mit Sachverhalt, Antrag und Anlagen.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Streitbeilegungsantrag mit Sachverhalt, Antrag und Anlagen.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

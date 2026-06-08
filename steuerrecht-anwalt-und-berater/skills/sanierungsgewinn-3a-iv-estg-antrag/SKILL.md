@@ -145,14 +145,6 @@ Schritt 6: Bei späterer Streit: nur noch Steuerbescheid-
 - Vier Voraussetzungen nicht vollständig dokumentiert; FA lehnt ab.
 - Sanierungsjahr falsch zugeordnet (Verzicht im Vorjahr, Antrag im Folgejahr).
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
-- `stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel`
-- `stb-sanierungsgewinn-bmf-2017-sanierungserlass-nachfolge`
-
 ## Quellen Stand 06/2026
 
 - § 3a Abs. 1, 3, 4 EStG.
@@ -165,3 +157,4 @@ Schritt 6: Bei späterer Streit: nur noch Steuerbescheid-
 - § 347 AO (Einspruch).
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

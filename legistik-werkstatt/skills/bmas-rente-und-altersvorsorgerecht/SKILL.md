@@ -67,25 +67,7 @@ Arbeitsfokus: **Rente und Altersvorsorgerecht (BMAS)**. Prüfe diese Anker am Sa
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Rente und Altersvorsorgerecht
-Ressort: BMAS
-Kernnormen: SGB VI; AVG (alt); FRG; ZRBG; Riester; Foerderhinweise Steuer (mit BMF).
-Akteure/Aufsicht: DRV Bund; Aufsicht ueber Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).
-EU/Voelkerrecht: VO 883/2004; PEPP-VO.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
 
 ## Anschluss an die Legistik-Kette
 
@@ -95,6 +77,3 @@ Naechste Skills: legw-ressortaufgaben-bmas; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

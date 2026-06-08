@@ -5,10 +5,6 @@ description: "Verweis- und Querverweistechnik in juristischen Dokumenten. Intern
 
 # Verweis- und Querverweis-Technik
 
-## Arbeitsbereich
-
-Verweis- und Querverweistechnik in juristischen Dokumenten. Interne Verweise auf Klauseln und Anlagen, externe Verweise auf Gesetze und Urteile. Anlagenverwaltung: jede Anlage einmal benannt, einmal definiert, einmal eingeführt. Vorstehender vs. nachstehender Verweis, Vermeidung der Klausel-Spinne, konsolidierter Verweisapparat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Verweis- und Querverweistechnik in juristischen Dokumenten. Interne Verweise auf
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Verweise machen einen Vertrag oder Schriftsatz lesbar oder zerstoeren ihn. Wer "im Sinne der vorstehenden Klausel" schreibt, hat keine Klausel benannt. Wer "Anlage 7" referenziert, ohne sie zu definieren, schafft eine Klausel-Spinne, die kein Reviewer mehr entwirrt.
-
-Dieser Skill liefert die Verweistechnik: interne Verweise auf Klauseln und Anlagen, externe Verweise auf Gesetze, Verordnungen und Urteile. Er zeigt die Anlagenverwaltung mit dem Drei-Punkte-Prinzip: einmal benannt, einmal definiert, einmal eingeführt. Es geht um saubere juristische Verweislogik, nicht um Word-Makros, VBA oder Office-Automatisierung.
 
 ## Eingaben
 
@@ -136,12 +126,6 @@ Vermeiden Sie diese Begriffe in operativen Klauseln. Sie sind Auslegungsmuell. W
 - **Rspr.-Zitate aus Modellwissen.** Verifikationspflicht nach `references/zitierweise.md`.
 - **Klausel-Spinne.** Mehrfach kreisende Verweise. Hauptregel konsolidieren.
 
-## Ausgabeformat
-
-- Verweisapparat mit Tabelle Verweis-Quelle zu Verweis-Ziel.
-- Konsistenzbericht (welche Verweise sind tot, welche doppelt).
-- Empfehlung zur Konsolidierung.
-
 ## Beispiel
 
 **Aufgabe:** Pruefen Sie den Verweisapparat folgender Klausel:
@@ -173,23 +157,9 @@ zur Geheimhaltung.
 (3) Im Uebrigen ist die Haftung ausgeschlossen.
 ```
 
-## Querverweise
-
-- `dokumentarchitektur-vertrag-und-schriftsatz`
-- `definitionen-klauseln-stringent`
-- `word-dokument-finish-und-layout`
-- `drafting-prinzipien-klarheit-bestimmtheit-praezision`
-
 ## Quellen (Stand 05/2026)
 
 - § 305 Abs. 2 BGB, § 305c Abs. 2 BGB, §§ 133, 157 BGB. gesetze-im-internet.de.
 - `references/zitierweise.md` für externe Verweise.
 - Normale Word-Querverweise können helfen; Makros, VBA und Office-Automatisierung sind für diesen Skill bewusst ausgeschlossen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

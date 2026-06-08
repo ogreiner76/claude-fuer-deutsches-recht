@@ -5,10 +5,6 @@ description: "Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sonder
 
 # Teil-Erbbaurecht und Aufteilung
 
-## Arbeitsbereich
-
-Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -42,10 +38,6 @@ Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte
 
 Der Skill achtet darauf, dass Grundstücksgrundbuch, Erbbaugrundbuch und WEG-Unterlagen miteinander sprechen.
 
-## Aufgabe
-
-Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches Amt/Gericht, welcher Rang oder welche Eintragung betroffen ist. Trenne streng zwischen materieller Rechtslage, Formnachweis, Vollzugshindernis und taktischer Kommunikation.
-
 ## Arbeitsmodus
 
 1. **Dokumente sortieren:** Auszug, Urkunde, Bewilligung, Antrag, Beschluss, Vollmacht, Gerichtsschreiben, Bankauflage und Frist erfassen.
@@ -61,3 +53,4 @@ Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
+

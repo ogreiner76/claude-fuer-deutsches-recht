@@ -5,10 +5,6 @@ description: "Reagiert auf BaFin-Prüfungsfeststellungen und aufsichtsrechtliche
 
 # BaFin-Prüfungsfeststellungen und Bankregulatorik
 
-## Arbeitsbereich
-
-Reagiert auf BaFin-Prüfungsfeststellungen und aufsichtsrechtliche Findings – Mängelbeseitigungspflicht, Anordnungsbefugnisse, Internal Investigation als Reaktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill strukturiert die Reaktion auf BaFin-Prüfungsfeststellungen: Intern
 - § 93 AktG i. V. m. BGH II ZR 234/09: Vorstand haftet intern bei schuldhafter Nichtbehebung von Compliance-Mängeln.
 - D&O-Versicherung: Deckungsschutz für Untersuchungskosten und Abwehrmaßnahmen prüfen.
 
-## Red-Team-Fragen
-
-- Sind alle BaFin-Feststellungen vollständig inventarisiert und priorisiert?
-- Gibt es unter den Feststellungen Hinweise auf individuelle Pflichtverletzungen, die eine separate Internal Investigation erfordern?
-- Ist die Kommunikation mit der BaFin in allen Punkten präzise und vollständig – keine Halbwahrheiten?
-- Wurden alle erforderlichen GwG-Verdachtsmeldungen abgegeben?
-- Ist der Maßnahmenplan realistisch und wurden die Fristen eingehalten?
-- Haben Organmitglieder persönliche Abberufungsrisiken (§ 36 KWG), und wurde die D&O-Deckung geprüft?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -97,3 +84,4 @@ Dieser Skill strukturiert die Reaktion auf BaFin-Prüfungsfeststellungen: Intern
 - **Organhaftungs-Risikoanalyse** (§ 36 KWG, D&O)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

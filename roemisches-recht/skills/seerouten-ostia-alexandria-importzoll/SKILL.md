@@ -5,10 +5,6 @@ description: "Roemische Seerouten und Importzollordnung. Skill behandelt die his
 
 # Rom 128 Seerouten Ostia Alexandria Und Importzoll
 
-## Aufgabe
-
-Skill für die roemische Importzollordnung im Welthandel.
-
 ## Hauptrouten
 
 - Ostia (Tiber-Muendung) - Alexandria (Aegypten): Getreide, Papyrus.
@@ -63,7 +59,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Memo zur roemischen Wirtschaftsgeschichte.

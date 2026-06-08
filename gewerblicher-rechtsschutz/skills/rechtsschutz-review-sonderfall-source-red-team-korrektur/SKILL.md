@@ -5,10 +5,6 @@ description: "Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: W
 
 # Spezial: Tatbestand, Beweis und Belegaufbau im IP-Recht
 
-## Arbeitsbereich
-
-Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -152,3 +148,4 @@ Jede IP-Verletzung folgt demselben Grundschema:
 - `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag
 - `verletzungs-triage` – Erstentscheidung IP-Verletzung
 - `spezial-freedom-schriftsatz-brief-und-memo-bausteine` – Schriftsatz-Bausteine
+

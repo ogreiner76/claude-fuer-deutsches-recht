@@ -5,10 +5,6 @@ description: "Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, 
 
 # Hilfe holen: Betreuungsverein, Behörde, Gericht
 
-## Arbeitsbereich
-
-Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbeh�
 - Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Ehrenamtliche Betreuung soll nicht allein auf dem Küchentisch liegen. Dieser Skill zeigt, welche Unterstützungsstellen es gibt und wie man sie praktisch nutzt.
 
 ## Wer hilft wobei?
 
@@ -37,16 +29,6 @@ Ehrenamtliche Betreuung soll nicht allein auf dem Küchentisch liegen. Dieser Sk
 - § 21 BtOG: Persönliche Eignung und Zuverlässigkeit; Führungszeugnis und Schuldnerverzeichnis-Auskunft bei erstmaliger Bestellung.
 - § 1816 Abs. 4 BGB: Auswahl ehrenamtlicher Betreuer ohne persönliche Bindung mit Anbindungslogik.
 
-## Output
-
-Erzeuge:
-
-- Anschreiben an Betreuungsverein.
-- Anschreiben an Betreuungsbehörde.
-- Fragenliste für Einführungsgespräch beim Gericht.
-- Checkliste “Was darf ich allein, wann brauche ich Genehmigung/Hilfe?”
-- Plan für Verhinderung: Urlaub, Krankheit, Überlastung, Klinikaufenthalt des Betreuers.
-
 ## Mustertext kurz
 
 ```text
@@ -61,6 +43,3 @@ Aktenzeichen: [...]
 Besondere Eilfragen: [...]
 ```
 
-## Qualitätsregel
-
-Der Skill soll nicht beschämen. Wenn der Betreuer unsicher ist, ist das kein Fehler, sondern der Normalfall. Gute Betreuung heißt auch: rechtzeitig Unterstützung organisieren.

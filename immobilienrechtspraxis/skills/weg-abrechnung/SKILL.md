@@ -5,10 +5,6 @@ description: "WEG Abrechnung im Plugin Immobilienrechtspraxis im Immobilienrecht
 
 # WEG Abrechnung
 
-## Arbeitsbereich
-
-**WEG Abrechnung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "WEG Abrechnung im Plugin Immobilienrechtspraxis im Immobilienrecht
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `weg-abrechnung-mieterschnittstelle-datenpaket`
@@ -33,10 +30,6 @@ description: "WEG Abrechnung im Plugin Immobilienrechtspraxis im Immobilienrecht
 ## Fachkern: WEG-Abrechnung als Mieterdatenpaket
 - **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
 - **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
-
-## Aufgabe
-
-Dieser Skill hilft, wenn ein vermietender Wohnungseigentümer seine WEG-Unterlagen bekommt und daraus eine Betriebskostenabrechnung für den Mieter erstellen muss. Er verhindert, dass interne WEG-Kosten unbesehen in das Mietverhältnis rutschen.
 
 ## Trennung
 
@@ -64,13 +57,3 @@ Dieser Skill hilft, wenn ein vermietender Wohnungseigentümer seine WEG-Unterlag
 | Vermögensbericht | Transparenz WEG | nicht in Betriebskostenabrechnung |
 | Heizkostenanlage | Mieterabrechnung | HeizkostenV/CO2 prüfen |
 
-## Output
-
-- Datenpaket-Checkliste für Verwaltung.
-- Mietrechtliche Übernahmematrix.
-- Entwurf Betriebskostenabrechnung aus WEG-Daten.
-- Schreiben an Eigentümer: welche Positionen nicht umgelegt werden dürfen.
-
-## Quellenregel
-
-§ 28 WEG, § 556 BGB, BetrKV, HeizkostenV und CO2KostAufG aktuell prüfen. WEG-Rechtsprechung zu Abrechnungsspitzen nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.

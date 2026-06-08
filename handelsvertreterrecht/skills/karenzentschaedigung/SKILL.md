@@ -5,10 +5,6 @@ description: "Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Ents
 
 # Karenzentschädigung nach § 90a HGB beim nachvertraglichen Wettbewerbsverbot
 
-## Arbeitsbereich
-
-Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Entschädigung (50 % der zuletzt bezogenen Vergütung), Zahlungsmodalitäten, Entfall bei Kündigung aus wichtigem Grund durch den Unternehmer, Loslösungsrecht des Handelsvertreters bei unzureichender Karenzentschädigung sowie AGB-Kontrolle von Entschädigungsklauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Kündigung durch Unternehmer aus wichtigem Grund — Wettbewerbsverbot bleibt bestehen.
 - Monatliche Ratenzahlung nicht vereinbart — Einmalzahlung setzt Entschädigung nicht rechtzeitig um.
 
-## Output
-
-Karenzentschädigungsberechnung, Loslösungserklärung Entwurf, Klage auf Karenzentschädigung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [Art. 20 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 90a HGB](https://dejure.org/gesetze/HGB/90a.html)
 - [BGH Rechtsprechung Openjur](https://openjur.de/)
+

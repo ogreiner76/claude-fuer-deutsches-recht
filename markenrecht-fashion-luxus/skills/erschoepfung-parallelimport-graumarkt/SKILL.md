@@ -5,10 +5,6 @@ description: "Erschöpfung, Parallelimport und Graumarkt prüfen: erstes Inverke
 
 # Erschöpfung, Parallelimport und Graumarkt
 
-## Arbeitsbereich
-
-Erschöpfung, Parallelimport und Graumarkt prüfen: erstes Inverkehrbringen im EWR, Zustimmung, Umpacken, Luxusimage, selektiver Vertrieb, Beweislast, Testkäufe und Durchsetzungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Erschöpfung, Parallelimport und Graumarkt prüfen: erstes Inverkehrbringen im E
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Prüfe, ob der Markeninhaber gegen Weitervertrieb vorgehen kann oder ob Erschöpfung eingreift.
 
 ## Normanker
 
@@ -50,13 +42,7 @@ Prüfe, ob der Markeninhaber gegen Weitervertrieb vorgehen kann oder ob Erschöp
 6. **Beweislast praktisch:** Markeninhaber braucht Lieferkettenindizien; Händler braucht EWR-Herkunft/Zustimmung. Keine Seite mit bloßen Behauptungen arbeiten lassen.
 7. **Luxus-/Pharmafall:** Reputationsschaden, Sicherheitsmerkmale, Beipackzettel, Serialisierung, Garantie und After-Sales-Service besonders prüfen.
 
-## Output
-
-- Lieferkettenmatrix.
-- Erschöpfungsampel.
-- Beweisplan für Testkauf und Auskunft.
-- Abmahn- oder Verteidigungslinie.
-
 ## Qualitätsgate
 
 EuGH/BGH-Rechtsprechung nur verifiziert zitieren; Produkt- und Lieferdaten nicht raten.
+

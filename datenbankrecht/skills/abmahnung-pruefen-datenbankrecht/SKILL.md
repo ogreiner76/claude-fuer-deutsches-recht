@@ -59,14 +59,6 @@ Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abm
 - Schutzschrift beim vermuteten Gericht einreichen, bevor die einstweilige Verfügung beantragt wird — Gericht muss sie berücksichtigen.
 - TDM-Schranke (§ 44b UrhG) kann als Einwand gegen den Verletzungsvorwurf wirken — wurde Opt-out wirksam erklärt?
 
-## Output
-
-- Abmahnungs-Prüf-Checkliste (Berechtigung, Verletzung, Verjährung, Schranken)
-- Antwortschreiben-Optionen (Unterzeichnung / Widerspruch / modifizierte Erklärung)
-- Schutzschrift-Muster für das zuständige Landgericht
-- Gegenanspruch-Bewertung bei unberechtigter Abmahnung (§ 97a Abs. 4 UrhG)
-- Risikoabwägungsmatrix (Unterzeichnen vs. Prozessrisiko)
-
 ## Quellen
 
 - [§ 97a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97a.html)

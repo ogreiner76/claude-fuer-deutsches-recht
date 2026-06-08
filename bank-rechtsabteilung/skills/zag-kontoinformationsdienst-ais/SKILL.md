@@ -5,10 +5,6 @@ description: "Kontoinformationsdienst nach ZAG und PSD2 prüfen: Registrierung, 
 
 # Kontoinformationsdienst (AIS) nach ZAG und PSD2
 
-## Arbeitsbereich
-
-Kontoinformationsdienst nach ZAG und PSD2 prüfen: Registrierung, Datenzugriff, Schnittstelle, Consent, Versicherung, Datenschutz, Open-Banking-Verträge und White-Label-Modelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,10 +46,3 @@ Dieser Skill prüft Kontoinformationsdienste (Account Information Services, AIS)
 - AIS-Dienstleister gibt Daten weiter: § 51 ZAG Haftung, DSGVO Art. 83 Abs. 4 Bußgeld bis 10 Mio. Euro
 - Kombi AIS+PIS: Erlaubnis § 10 ZAG (PIS) + Registrierung § 34 ZAG (AIS) kombinieren
 
-## Output
-
-Registrierungsantrag-Checkliste § 34 ZAG; Consent-Framework-Template nach PSD2/DSGVO; SCA-Flow-Diagram für 90-Tage-Erneuerung; Haftungsanalyse-Vermerk; Datenschutz-Impact-Assessment Outline.
-
-## Quellenregel
-
-gesetze-im-internet.de (ZAG, BDSG), eur-lex.europa.eu (PSD2 2015/2366, RTS-SCA VO 2018/389), bafin.de (Merkblatt AIS-Registrierung), eba.europa.eu (EBA/GL/2018/07 API-Qualität, Q&A). Live-Check: PSD3-Entwurf COM(2023)366 verschärft Datenzugangsregeln; eba.europa.eu Q&A-Datenbank.

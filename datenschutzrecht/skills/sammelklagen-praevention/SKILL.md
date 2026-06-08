@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zu BGH/EuGH-Urteilen zum immateriellen Scha
 
 Art. 82 DSGVO; § 1 UKlaG; VDuG; § 309 BGB; Verbandsklagen-Richtlinie 2020/1828.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Roadmap
 
 Phase 1 vor Versand: Wortwahl prüfen; Goodwill-Pakete schnüren; Pressepolitik abstimmen.
@@ -55,3 +51,4 @@ Goodwill: pauschale Kulanzpakete (z.B. Schufa-Auskunft, Identitätsschutz) ohne 
 
 - `dsv-schadensersatz-art-82` deckt die zivilrechtliche Verteidigung ab.
 - `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` deckt die Rechtsprechungsanalyse ab.
+

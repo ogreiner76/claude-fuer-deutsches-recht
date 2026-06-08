@@ -16,10 +16,6 @@ description: "Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funkt
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill verhindert zwei Fehler: bloßen Formenformalismus, der reale Verwaltungsaufgaben ignoriert, und bloßen Funktionalismus, der Rechtsformen als lästige Hülle behandelt. Er fragt: Welche Aufgabe soll gelöst werden, und welche Rechtsform trägt sie rechtsstaatlich sauber?
-
 ## Sofort klären
 
 1. Was soll die Verwaltung erreichen?
@@ -43,13 +39,6 @@ Dieser Skill verhindert zwei Fehler: bloßen Formenformalismus, der reale Verwal
 - Je komplexer die Aufgabe, desto wichtiger sind Begründung, Beteiligung und überprüfbare Abwägung.
 - Effektivität ist ein legitimes Ziel, aber keine Ersatz-Ermächtigung.
 
-## Red-Team-Fragen
-
-- Wird eine belastende Regel als `Service`, `Kooperation` oder `Hinweis` verkleidet?
-- Wird ein Vertrag genutzt, um gesetzliche Schutzstandards zu umgehen?
-- Wird eine Planung als reine Technikfrage dargestellt, obwohl Wertungen enthalten sind?
-- Wird eine Verwaltungspraxis zur faktischen Norm, ohne veröffentlicht oder kontrollierbar zu sein?
-
 ## Regelungs- und Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,11 +56,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Erstelle eine Instrumentenwahl-Matrix:
-
-| Verwaltungsziel | mögliche Form | Ermächtigung | Rechtsschutz | Risiko | Empfehlung |
-| --- | --- | --- | --- | --- | --- |
-
-Schließe mit einer präzisen Empfehlung zur rechtssicheren Rechtsform.

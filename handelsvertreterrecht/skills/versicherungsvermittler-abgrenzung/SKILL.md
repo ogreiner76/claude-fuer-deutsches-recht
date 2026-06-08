@@ -65,10 +65,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Keine Erlaubnis nach § 34d GewO — berufsrechtliches Risiko.
 - Stornoregelungen im Versicherungsbereich von allgemeinen HGB-Regeln abweichend — nicht beachtet.
 
-## Output
-
-Abgrenzungsanalyse HGB/VVG, Ausgleichsanspruch-Prüfung, Berufsrechts-Check § 34d GewO.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +85,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 34d GewO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewo/__34d.html)
 - [RL 2016/97/EU auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016L0097)
 - [Dejure § 59 VVG](https://dejure.org/gesetze/VVG/59.html)
+

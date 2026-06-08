@@ -78,13 +78,3 @@ Angriffspunkte:
 - Wurden Befunde schriftlich festgehalten und weitergeleitet?
 - Gibt es eine Follow-up-Prüfung nach Maßnahmenumsetzung?
 
-## Ausgabeformat
-
-Erzeuge:
-1. Red-Team-Befundliste (Dimension × Angriffspunkt × Schwere × Empfehlung)
-2. Dokumentations-Scorecard (je Compliance-Element: ausreichend / lückenhaft / fehlend)
-3. Priorisierter Aktionsplan
-4. Kurze Zusammenfassung für Vorstand/Compliance-Committee
-
-Belege ausschließlich mit: eur-lex.europa.eu, curia.europa.eu, gesetze-im-internet.de,
-bafin.de, bgh.de, dejure.org, openjur.de.

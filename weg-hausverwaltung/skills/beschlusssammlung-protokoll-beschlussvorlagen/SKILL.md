@@ -5,9 +5,6 @@ description: "Beschlusssammlung Protokoll Beschlussvorlagen im Plugin Weg Hausve
 
 # Beschlusssammlung Protokoll Beschlussvorlagen
 
-## Arbeitsbereich
-
-**Beschlusssammlung Protokoll Beschlussvorlagen** ordnet den Fall über die tragenden Prüfungslinien: Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Beschlusssammlung Protokoll Beschlussvorlagen im Plugin Weg Hausve
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `beschlusssammlung-protokoll`
@@ -85,13 +83,6 @@ Tabellarisch mit:
 > **Hinweis Anfechtungsfristen**: Eine Beschlussanfechtungsklage muss innerhalb eines Monats ab Beschlussfassung erhoben und innerhalb von zwei Monaten begründet werden (§ 45 WEG). Bei Zustellungsverzögerungen empfiehlt sich, innerhalb eines Jahres beim Gericht den Sachstand zu erfragen (BGH, V ZR 17/24).
 > Für Rückfragen stehe ich Ihnen zur Verfügung.
 
-## Output
-
-- Protokollentwurf
-- Beschlusssammlungseintrag (tabellarisch)
-- Nachversand-Mail
-- Umsetzungs-Tracker (Aufgabe, Zuständig, Frist, Status)
-
 ## Cross-Refs
 
 - Anfechtungsrisiko → `beschlussanfechtung-risiko`
@@ -101,14 +92,6 @@ Tabellarisch mit:
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 24 Abs. 7 WEG: https://www.gesetze-im-internet.de/woeigg/__24.html .
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `beschlussvorlagen-erstellen`
 
@@ -188,14 +171,6 @@ Aus einem Verwaltungsthema wird ein klarer Beschlussantrag, der nicht zu viel un
 
 > Die Wohnungseigentümer beschließen, den Anspruch auf Ersatz des Schadens [Sachverhalt] gegenüber der GdWE geltend zu machen; die Verwaltung wird beauftragt, etwaige Regressansprüche der GdWE gegenüber dem (vormaligen) Verwalter zu prüfen und ggf. geltend zu machen.
 
-## Output
-
-- Beschlussvorlage kurz (für TOP-Block)
-- Beschlussvorlage ausführlich (mit Begründung)
-- Begründungstext für Einladung
-- Risikoampel (Kompetenz, Bestimmtheit, Kostenfolge, Vorbefassung)
-- Anlagenliste
-
 ## Cross-Refs
 
 - Vorbefassung / Anfechtung → `beschlussanfechtung-risiko`
@@ -206,14 +181,6 @@ Aus einem Verwaltungsthema wird ein klarer Beschlussantrag, der nicht zu viel un
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Rechtsprechungsaussagen nur mit offen prüfbarer Quelle.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `betriebskosten-nebenkostenabrechnung`
 
@@ -312,15 +279,6 @@ Seit der WEG-Reform beschließen Eigentümer nicht mehr die Jahresabrechnung "al
 | Hausmeister | ja, soweit nicht Reparatur | Vertrag/Stundenliste | Stundennachweise | Aussonderung von Reparaturen |
 | Verwalterkosten WEG | nein (Verwaltungskosten) | — | — | herausnehmen |
 
-## Output
-
-- Prüftabelle Kostenpositionen
-- Rückfragen an Verwaltung (WEG-seitig)
-- Mieter-/Vermieter-Antwortentwurf
-- Korrekturvorschlag mit beziffertem Erstattungs-/Nachforderungsbetrag
-- Hinweis auf CO2KostAufG-Aufteilung
-- Datenpaket für vermietende Eigentümer: umlagefähige Positionen, nicht umlagefähige Positionen, Heizkosten/CO2, Belegliste, Schlüssel
-
 ## Cross-Refs
 
 - WEG-Abrechnungsseite → `wirtschaftsplan-jahresabrechnung-28-weg`
@@ -332,10 +290,3 @@ Seit der WEG-Reform beschließen Eigentümer nicht mehr die Jahresabrechnung "al
 
 `rechtsstand-mai-2026-faktenbank` laden. BetrKV: https://www.gesetze-im-internet.de/betrkv/ ; HeizkostenV: https://www.gesetze-im-internet.de/heizkostenv/ ; § 556 BGB: https://www.gesetze-im-internet.de/bgb/__556.html ; CO2KostAufG: https://www.gesetze-im-internet.de/co2kostaufg/ .
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

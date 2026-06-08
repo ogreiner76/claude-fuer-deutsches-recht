@@ -5,10 +5,6 @@ description: "Prüft Blockaden, Sitzblockaden, Zufahrtsnähe und Friedlichkeitsg
 
 # Friedlichkeit sorgfältig prüfen
 
-## Arbeitsbereich
-
-Prüft Blockaden, Sitzblockaden, Zufahrtsnähe und Friedlichkeitsgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,17 +23,11 @@ Nicht jede Behinderung nimmt Art. 8 GG heraus, aber Gewalt, Zwangslagen, Rettung
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
 
-## Arbeitsweise
-Kläre Aktionsform, körperliche Einwirkung, Dauer, Rettungswege, Adressat, Ausweichmöglichkeiten, Polizeikommunikation und Straftatrisiken.
-
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
 - Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
 - Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
 - Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Output
-Output: Risikoampel und sichere Aktionsalternativen.
 
 ## Qualitätsgate
 - Wurde das richtige Landesrecht verwendet?
@@ -51,3 +41,4 @@ Output: Risikoampel und sichere Aktionsalternativen.
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+

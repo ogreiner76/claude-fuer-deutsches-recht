@@ -22,12 +22,6 @@ Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprov
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Bearbeite Avale als echtes Bankgeschäft, nicht als dekoratives Vertragsanhängsel. Das Ergebnis soll Legal, Marktfolge, Risk und Firmenkundenbetreuung helfen, eine Avalrahmenlinie oder ein Einzelaval schnell, sauber und mit Blick auf Abruf, Regress und Aufsicht zu entscheiden.
-
-**Wann nutzen:** Der Firmenkunde braucht Mietaval, Gewährleistungsaval, Vertragserfüllungsaval, Anzahlungsaval, Zoll-/Steueraval oder Prozess-/Bietungsaval; ein Begünstigter verlangt einen geänderten Text; Risk fragt, ob das noch im Limit ist; ein Aval wird gezogen.
-
 ## Sofortfragen
 
 1. **Welche Art von Aval?** Kautionsaval, Anzahlungsaval, Gewährleistungsaval, Vertragserfüllungsaval, Zollaval, Steueraval, Prozessbürgschaft oder Sondertext.

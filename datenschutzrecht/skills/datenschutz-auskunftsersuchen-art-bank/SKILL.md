@@ -5,9 +5,6 @@ description: "Datenschutz Auskunftsersuchen ART Bank im Datenschutzrecht: prüft
 
 # Datenschutz Auskunftsersuchen ART Bank
 
-## Arbeitsbereich
-
-**Datenschutz Auskunftsersuchen ART Bank** ordnet den Fall über die tragenden Prüfungslinien: Auskunftsersuchen nach Art, Beweis- und Anspruchsplan bei Konto-, Kredit-. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Datenschutz Auskunftsersuchen ART Bank im Datenschutzrecht: prüft
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `datenschutz-auskunftsersuchen-art-15-praxis`
@@ -123,14 +121,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert die Aufsichtsbehoerde?** Vorlage nicht innerhalb Monatsfrist, fehlende Kopie, fehlende Empfaengerangabe trotz EuGH C-579/21, keine Aufklaerung ueber automatisierte Entscheidungsfindung.
 
-## Querverweise
-
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-betroffenenrechte-art-15-22-orchestriert`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
-- `datenschutz-loeschpflicht-art-17-und-aufbewahrung`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 12, 15, 22.
@@ -141,37 +131,15 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `datenschutz-bank-ablehnung-score-beweisplan`
 
 **Fokus:** Beweis- und Anspruchsplan bei Konto-, Kredit-, Leasing- oder Mietablehnung wegen Auskunftei-/Score-Daten.
 
 ### Bankablehnung wegen Score: Beweisplan
 
-## Einsatz
-
-Für Betroffene, die nur eine diffuse Ablehnung erhalten.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 15, 17, 21, 22, 82; BGB AGG nur falls einschlägig; ZPO Beweis.
-
-## Arbeitsfragen
-
-1. Welche Entscheidung wurde abgelehnt?
-2. Welche Auskunftei wurde abgefragt?
-3. Welche menschliche Prüfung ist dokumentiert?
-
-## Output
-
-Beweisplan, Auskunftskaskade an Bank/Auskunftei und Schadensersatznotiz.
 
 ## Red Flags
 
@@ -188,10 +156,6 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 **Fokus:** Beschwerde Art. 77 DSGVO bei zuständiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-für-Schritt für beide Seiten. Mustertexte für Beschwerdeschreiben Stellungnahme und Anhörungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
 
 ### Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehoerden-Praxis
-
-## Zweck
-
-Dieser Skill bearbeitet das Beschwerdeverfahren nach Art. 77 DSGVO. Er hilft dem Beschwerdefuehrer, eine wirksame Beschwerde einzureichen, und dem Beschwerdegegner, im Verfahren der Aufsichtsbehoerde fundiert Stellung zu nehmen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -301,14 +265,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert die Aufsicht zu nachhaltigem Verfahren?** Wiederholungstaeter, Konflikt mit gesetzlichem DSB, Beschwerde durch organisierte Verbraucherzentrale Art. 80 DSGVO.
 
-## Querverweise
-
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-- `datenschutz-auskunftsersuchen-art-15-praxis`
-- `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
-- `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 56, 58, 77, 78, 80.
@@ -319,37 +275,15 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien zur Zusammenarbeit nach Art. 56 ff. DSGVO.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 4. `datenschutz-beschwerde-aufsicht-auskunftei`
 
 **Fokus:** Beschwerde nach Art. 77 DSGVO gegen SCHUFA/Credit Agency: Zuständigkeit, Sachverhalt, Anträge, Belege, gerichtliche Kontrolle.
 
 ### Aufsichtsbeschwerde gegen Auskunftei
 
-## Einsatz
-
-Wenn Auskunftei nicht löscht, nicht erklärt oder Betroffenenrechte verschleppt.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 57, 58, 77, 78; BDSG/Landesrecht Zuständigkeit; EuGH C-26/22.
-
-## Arbeitsfragen
-
-1. Welche Aufsicht ist zuständig?
-2. Welche Pflichtverletzung ist belegbar?
-3. Welche Entscheidung wird begehrt?
-
-## Output
-
-Beschwerdeschrift, Anlagenverzeichnis und Follow-up-Kalender.
 
 ## Red Flags
 
@@ -454,14 +388,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert die Aufsichtsbehoerde?** Sammelantwort ohne Konfliktaufloesung, fehlende Begruendung der Verlaengerung, kein Hinweis auf Art. 77.
 
-## Querverweise
-
-- `datenschutz-auskunftsersuchen-art-15-praxis`
-- `datenschutz-loeschpflicht-art-17-und-aufbewahrung`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `dsr-betroffenenrechte-prozess-leitfaden`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 12 bis 22.
@@ -473,10 +399,3 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Master-Franchise-Struktur für internationale Expansion prüfen: M
 
 # Franchiserecht: Master-Franchise und Internationalisierung
 
-## Arbeitsbereich
-
-Master-Franchise-Struktur für internationale Expansion prüfen: Mehrebenenverhältnis Franchisegeber/Master-Franchisenehmer/Sub-Franchisenehmer, Markenlizenzkette, Anwendbares Recht nach Rom-I-VO, Kartellrecht im Auslandsmarkt und Disclosure-Pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein deutsches Franchiseunternehmen möchte sein System international über einen
 - Master-Franchise-Vertrag enthält keine Direktrecht-Klausel; bei Insolvenz des Masters sind Sub-Franchisees schutzlos.
 - Lokale Disclosure-Pflichten werden ignoriert; Franchiseverträge im Zielland sind anfechtbar.
 
-## Output
-
-- Strukturmemo Master-Franchise mit Rechte-Pflichten-Matrix
-- Markenlizenzkette (Überblick)
-- Checkliste länderspezifische Disclosure-Pflichten
-- Rechtswahlklausel-Empfehlung
-
 ## Quellen
 
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32008R0593
@@ -71,6 +60,7 @@ Ein deutsches Franchiseunternehmen möchte sein System international über einen
 - https://gesetze-im-internet.de/bgb/__311.html
 - https://www.wipo.int/madrid/en/
 - https://dejure.org/gesetze/GWB/1.html
+
 ## Vertiefung
 
 Master-Franchise-Systeme sind typisch für internationale Expansion, weil sie dem Franchisegeber erlauben, mit einem einzigen Vertragspartner (dem Master) ein ganzes Territorium zu erschliessen. Das Mehrebenenverhältnis schafft jedoch komplexe Haftungsstrukturen: Der Franchisegeber haftet nicht direkt gegenüber Sub-Franchisenehmern, es sei denn, er hat eine direkte Rechtsbeziehung mit diesen etabliert.
@@ -84,7 +74,10 @@ Das anwendbare Recht auf Master-Franchiseverträge bestimmt sich nach Art. 3 und
 - Lokale Disclosure-Pflichten im Zielland recherchieren (spezifisches Franchiserecht in über 20 Ländern).
 - Steuerliche Struktur der Lizenzgebührzahlungen (Master zahlt Sub-Royalties; Master zahlt an Franchisegeber) optimieren.
 - Sub-Franchiseverträge auf Übereinstimmung mit dem Master-Franchisevertrag prüfen; Abweichungen dokumentieren.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

@@ -5,9 +5,6 @@ description: "Befristung Tzbfg BEM Verfahren Fazugang im Plugin Fachanwalt Arbei
 
 # Befristung Tzbfg BEM Verfahren Fazugang
 
-## Arbeitsbereich
-
-**Befristung Tzbfg BEM Verfahren Fazugang** ordnet den Fall über die tragenden Prüfungslinien: Befristungskontrolle und Befristungsgestaltung nach TzBfG, Prüfungslinie für fachanwalt arbeitsrecht bem verfahren, Kündigungsfrist berechnen bei unsicherem Zugangsdatum. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Befristung Tzbfg BEM Verfahren Fazugang im Plugin Fachanwalt Arbei
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-befristung-tzbfg`
@@ -140,10 +138,6 @@ Rechtliche Bewertung:
 - § 17 TzBfG — Befristungskontrollklage (Frist drei Wochen ab vereinbartem Ende)
 - § 16 TzBfG — Rechtsfolge Unwirksamkeit: Arbeitsverhältnis gilt als unbefristet geschlossen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 2. `fachanwalt-arbeitsrecht-bem-verfahren`
 
 **Fokus:** Fachanwalt Arbeitsrecht Bem Verfahren: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
@@ -157,10 +151,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Das Betriebliche Eingliederungs-Management (BEM) ist Pflicht bei mehr als 6 Wochen AU innerhalb eines Jahres. Versäumnis führt fast immer zu **Unwirksamkeit einer personenbedingten Kündigung** (BAG-Linie).
 
 ## 1) Eingangs-Abfrage
 
@@ -296,10 +286,6 @@ Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 - § 84 SGB IX a.F. / § 167 SGB IX n.F. — Wiedereingliederung
 - § 69 SGB IX — Feststellung Schwerbehinderung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 3. `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugan`
 
 **Fokus:** Kündigungsfrist berechnen bei unsicherem Zugangsdatum: frühest- und spätestmöglicher Zugang, Fristberechnung §§ 187 ff. BGB, Drei-Wochen-Klagefrist § 4 KSchG, Kündigungsfristen § 622 BGB, worst-case-Strategie für Mandant.
@@ -313,9 +299,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Präzise Fristberechnung, wenn das genaue Zugangsdatum der Kündigung unsicher ist — für die Klagefrist (§ 4 KSchG: 3 Wochen) und für die Berechnung der Kündigungsfrist (§ 622 BGB). Worst-Case-Strategie und Sicherheitspolster für die anwaltliche Praxis.
 
 ## Einstieg
 Wenn ein Sachverhalt vorliegt, zuerst die Zeitachse klären:
@@ -403,12 +386,7 @@ Wenn ein Sachverhalt vorliegt, zuerst die Zeitachse klären:
 - `fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslandsaufenthalt` für Sonderfälle
 - `ar-kuendigungspruefung-workflow` für vollständige Prüfung
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Keine modellwissensbasierten Fristen ohne Verifikation.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatisierte Fristenberechnung; Einzelfallprüfung bleibt notwendig.
 - Keine Berücksichtigung abweichender tariflicher oder vertraglicher Fristen ohne konkrete Vorlage.
+

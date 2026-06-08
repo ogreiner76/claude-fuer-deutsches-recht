@@ -5,10 +5,6 @@ description: "Arztrechnung GOÄ für Laien: führt Laien durch Privatrechnung, S
 
 # Arztrechnung GOÄ für Laien
 
-## Arbeitsbereich
-
-Arztrechnung GOÄ für Laien: führt Laien durch Privatrechnung, Steigerungssatz, Analogziffer, Erstattung und Einwendungen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -39,12 +35,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Privatrechnung, Steigerungssatz, Analogziffer, Erstattung und Einwendungen.
-
 ## Sofortsortierung
 
 1. Beteiligte, Rolle und Kommunikationskanal klären: Verbraucher, Behörde, Kammer, Gericht, Plattform, Bank, Kammer oder Verfahrensgegner.
@@ -74,10 +64,6 @@ Erzeuge Rechnungsprüfliste, Nachfrage an Praxis, Versicherungsanschreiben und D
 ## Prompts, die dieser Skill stellen soll
 
 - Privatpatient/Selbstzahler, Rechnung, Faktor, Begründung, Erstattung?
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.
 
 ## Normen und Rechtsprechung
 

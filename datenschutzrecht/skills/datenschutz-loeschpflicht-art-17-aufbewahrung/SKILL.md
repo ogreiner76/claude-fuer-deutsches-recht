@@ -5,10 +5,6 @@ description: "Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HG
 
 # Datenschutz Loeschpflicht — Art. 17 DSGVO und Aufbewahrung
 
-## Zweck
-
-Dieser Skill loest den haeufigen Konflikt zwischen Loeschpflicht nach Art. 17 DSGVO und gesetzlichen Aufbewahrungspflichten nach Handels-, Steuer- und Sozialrecht so auf, dass weder eine Loeschpflichtverletzung noch eine Aufbewahrungspflichtverletzung entsteht. Ergebnis ist regelmaessig eine Sperrung (Einschraenkung Art. 18 DSGVO) bis zum Ablauf der Aufbewahrungspflicht.
-
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald (a) ein Loeschantrag eingeht, (b) Daten ohne Antrag rechtmaessig zu loeschen waeren oder (c) ein Loeschkonzept erstellt werden soll.
@@ -100,14 +96,6 @@ Datenkategorie 5 (Marketing): nach Widerruf / Widerspruch sofort
 
 **Was triggert die Aufsichtsbehoerde?** Pauschale Ablehnungen ohne konkrete Norm, kein Loeschkonzept, keine Sperrvermerke, fehlende Backup-Strategie.
 
-## Querverweise
-
-- `datenschutz-betroffenenrechte-art-15-22-orchestriert`
-- `datenschutz-auskunftsersuchen-art-15-praxis`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 17, 18, 19, 77.
@@ -120,10 +108,3 @@ Datenkategorie 5 (Marketing): nach Widerruf / Widerspruch sofort
 - EuGH C-460/20 Google, Urteil 08.12.2022.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

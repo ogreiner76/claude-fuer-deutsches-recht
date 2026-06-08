@@ -5,10 +5,6 @@ description: "Strukturiertes Erstgespraech im Datenschutzmandat. Sieben gezielte
 
 # Datenschutz Erstgespraech — Mandantenmatrix mit sieben Fragen
 
-## Zweck
-
-Dieser Skill fuehrt das erste Gespraech mit dem Mandanten in einem Datenschutzfall. Ziel ist nicht eine sofortige rechtliche Bewertung, sondern die saubere Einordnung des Falls in eine **Mandantenmatrix**, aus der hervorgeht: Welche Rolle hat der Mandant? Welche Frist laeuft? Welcher Folge-Skill ist als naechstes zu starten? Der Skill ersetzt keine Subsumtion, sondern ist die Weiche.
-
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen diesen Skill **immer dann**, wenn ein neues Datenschutzmandat eingeht und unklar ist, welcher Fachmodul greift. Typische Anlaesse:
@@ -104,15 +100,6 @@ Folge-Skill: [datenschutz-auskunftsersuchen-art-15-praxis / datenschutz-datenpan
 
 **Was triggert die Aufsichtsbehoerde besonders?** Leerformelhafte Antworten, fehlende Rechtsgrundlage (Art. 6 DSGVO), kein Bezug zu technischen und organisatorischen Massnahmen (Art. 32 DSGVO), fehlende Mandantenbeteiligung.
 
-## Querverweise
-
-- `datenschutz-auskunftsersuchen-art-15-praxis`
-- `datenschutz-datenpanne-art-33-34-72h-incident-response`
-- `datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung`
-- `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-
 ## Quellen Stand 06/2026
 
 - Verordnung (EU) 2016/679 (DSGVO), insbesondere Art. 4, 5, 12, 26, 28, 33, 34, 77, 82, 83.
@@ -121,10 +108,3 @@ Folge-Skill: [datenschutz-auskunftsersuchen-art-15-praxis / datenschutz-datenpan
 - BRAO § 43a, § 49b; RVG-Hinweise zur Vertretung in Datenschutzmandaten.
 - Kein Modellwissen zu konkreten Aufsatzfundstellen. Verifizierung vor Versand in amtliche Quellen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

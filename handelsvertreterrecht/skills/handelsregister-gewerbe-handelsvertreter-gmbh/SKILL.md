@@ -65,10 +65,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Branchenspezifische Zulassung (§ 34d GewO) nicht erkannt — Verträge möglicherweise nichtig.
 - Handelsregistereintragung ohne Aktualisierung nach Umzug oder Namensänderung.
 
-## Output
-
-Handelsregister-Checkliste, Gewerbeanmeldungsformular, Muster Geschäftsbriefpflichtangaben.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +85,4 @@ ergänzen das Recht praxisnah.
 - [§ 37a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__37a.html)
 - [§ 34d GewO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewo/__34d.html)
 - [Dejure § 1 HGB](https://dejure.org/gesetze/HGB/1.html)
+

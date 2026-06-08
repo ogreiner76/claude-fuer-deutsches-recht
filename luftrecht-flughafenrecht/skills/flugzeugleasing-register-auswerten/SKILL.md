@@ -5,10 +5,6 @@ description: "Mandant will Register zu einem geleasten Flugzeug auswerten: Luftf
 
 # Flugzeugleasing – Register auswerten
 
-## Arbeitsbereich
-
-Mandant will Register zu einem geleasten Flugzeug auswerten: Luftfahrzeugrolle Cape-Town-ICAO-Register Pfandrechtsregister AG Braunschweig und IDERA-Status. Prueft LuftVG § 64 LuftFzgG Cape-Town-Art. 16 und liefert Registerauszugs-Auswertung mit vollstaendiger Belastungsanalyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ LuftVG § 64 LuftFzgG Cape Town Convention Art. 16 ICAO-Register – die einschl
 - **Cape Town Aircraft Protocol Art. XII**: Prioritäten konkurrierender Sicherungsrechte im internationalen Register.
 - **LuftFzgG § 3**: Entstehung des Pfandrechts; Eintragungszeitpunkt als Prioritätsregel.
 - **InsO § 47**: Aussonderungsrecht des Leasinggebers; Priorität gegenüber Insolvenzgläubigern.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -56,6 +53,7 @@ LuftVG § 64 LuftFzgG Cape Town Convention Art. 16 ICAO-Register – die einschl
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist eine IDERA (Irrevocable Deregistration and Export Request Authorisation) im Cape-Town-Register eingetragen?
 8. Hat Leasinggeber wirksam nach InsO § 47 Aussonderung geltend gemacht?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -74,9 +72,6 @@ Die Registerauswertung ist Grundlage jeder luftrechtlichen Due-Diligence-Prüfun
 - **ICAO International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
 - **Registerauszug Aktualität**: Stets aktuellen Auszug anfordern; veraltete Auszüge führen zu Haftungsrisiken.
 
-## Output
-
-Registerauszugs-Auswertungs-Bericht je Flugzeug (Tabelle). Inkonsistenz-Markierungsliste. IDERA-Status-Vermerk. Cape-Town-Registrierungs-Checkliste. Aussonderungsvermerk bei Insolvenz.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -104,3 +99,4 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

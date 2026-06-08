@@ -135,13 +135,6 @@ Date: Date:
 - Breach notification only one-way.
 - Onward transfer not addressed.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dpa-en-template-controller-processor/SKILL.md`
-- `datenschutzrecht/skills/joint-controllership-en-template/SKILL.md`
-- `datenschutzrecht/skills/avv-rolemix-getrennt-vs-gemeinsam-verantwortlich/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-us-data-privacy-framework-bezug/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - GDPR Articles 4, 6, 13, 14, 26, 28, 32, 33, 34, 44 to 49, 82.
@@ -150,10 +143,3 @@ Date: Date:
 - CJEU C-25/17, C-498/16, C-40/17 – verified case numbers; check full text via curia.europa.eu before citation.
 - Citation rules: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

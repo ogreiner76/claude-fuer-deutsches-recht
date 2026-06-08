@@ -121,21 +121,6 @@ Mit freundlichen Grüßen [Verfasser]."
 - Belege ohne Bezug zum konkreten Kritikpunkt eingereicht.
 - Klage Finanzgericht vor Einspruchsentscheidung erhoben.
 
-## Output
-
-- Kritik-Synopse (Ebene, Punkt, Bewertung).
-- Reparaturplan mit Verantwortlichen und Fristen.
-- Antwortentwurf (BSFZ-Stellungnahme oder Einspruchsbegründung).
-- Einspruchsentwurf fristwahrend, sobald Finanzamt-Bescheid betroffen.
-- Liste fehlender Belege.
-
-## Querverweise
-
-- `fz-bsfz-bescheinigung-projektbeschreibung` für die Neufassung der Projektbeschreibung.
-- `fz-bemessungsgrundlage-2026` für die Personalkostenreparatur.
-- `fz-dokumentationspaket-betriebspruefung` für Belegnachschub.
-- `fz-kumulierung-beihilfen-agvo` bei AGVO-Kürzungen.
-
 ## Quellen Stand 05/2026
 
 - AO §§ 347 bis 367 (Einspruchsverfahren) und § 355 AO (Frist) — vom Antragsteller mit konsolidierter Fassung zu prüfen.
@@ -143,14 +128,6 @@ Mit freundlichen Grüßen [Verfasser]."
 - BSFZ-Verfahrensregeln.
 - FZulG.
 - `references/forschungszulage-quellen-und-zahlen.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

@@ -5,10 +5,6 @@ description: "Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungsl
 
 # Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien
 
-## Arbeitsbereich
-
-Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,14 +42,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Steuern und Nebenkosten:** Grunderwerbsteuer (bundesländerabhängig 3,5-6,5%), Notar- und Gerichtskosten ca. 1,5-2% des Kaufpreises, Maklerprovision (im B2C bei Wohnimmobilien zwingend hälftig zu teilen, § 656c BGB - Gesetz zur Verteilung der Maklerkosten 2020).
 - **Praktiker-Tipp:** Bei Bau- und Modernisierungsverpflichtungen des Verkäufers immer Sicherheit für die Erfüllung vereinbaren (Bankbürgschaft, Sperrkonto). Bei Share Deal: § 1 Abs. 2a/3 GrEStG (Anteilsübertragungen) prüfen - 90%-Schwelle, 10-Jahres-Frist.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

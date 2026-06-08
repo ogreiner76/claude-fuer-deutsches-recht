@@ -5,9 +5,6 @@ description: "Hinschg im Plugin Fachanwalt Arbeitsrecht: prüft konkret Verteidi
 
 # Hinschg
 
-## Arbeitsbereich
-
-**Hinschg** ordnet den Fall über die tragenden Prüfungslinien: Verteidigung von Hinweisgebern nach HinSchG gegen, Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist, Prüfungslinie für fachanwalt arbeitsrecht massenentlassung 17. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Hinschg im Plugin Fachanwalt Arbeitsrecht: prüft konkret Verteidi
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie`
@@ -38,10 +36,6 @@ description: "Hinschg im Plugin Fachanwalt Arbeitsrecht: prüft konkret Verteidi
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Anwaltliche Verteidigung der hinweisgebenden Person gegen Repressalien des Arbeitgebers nach Meldung von Verstößen. Der typische Fall: Mitarbeiterin meldet intern oder extern einen Verstoß und erhält danach eine Kündigung, Versetzung oder erleidet Mobbing. § 36 HinSchG kehrt die Beweislast um — der Arbeitgeber muss beweisen, dass die Maßnahme nichts mit der Meldung zu tun hat.
 
 ## Mandantenfragen — Kaltstart
 
@@ -272,9 +266,6 @@ Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Adressat & Tonfall
 
 | Phase | Adressat | Tonfall |
@@ -306,10 +297,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der Erstberatung bis zur Klageschrift. Das Fristrisiko (3 Wochen ab Zugang) ist der kritische Faktor; alles andere kann nachgebessert werden.
 
 ## Mandantenfragen — Kaltstart
 
@@ -376,9 +363,6 @@ Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der
 | BAG, 8. Senat | 8 AZR 300/24 | 23.10.2025 | Paarvergleich bei Entgeltdiskriminierung: ein einziger Vergleichskollege des anderen Geschlechts genuegt zur Begruendung der Vermutung nach § 22 AGG | dejure.org-Vernetzung; bundesarbeitsgericht.de Pressemitteilung "Anspruch auf Entgeltdifferenz wegen Geschlechtsdiskriminierung - Paarvergleich" |
 | BAG, 7. Senat | 7 AZR 50/24 | 18.06.2025 | § 14 Abs. 2 TzBfG ist auch auf Betriebsratsmitglieder anwendbar; bei Verweigerung des Folgevertrags wegen BR-Mandat Schadensersatzanspruch auf Vertragsschluss | dejure.org-Vernetzung |
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema Kündigung
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -566,10 +550,6 @@ rechtlichen Möglichkeiten konsequent ausgeschöpft.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Vollstaendige Anzeige-, Konsultations- und Sozialplan-Pflichten bei Massenentlassung vorbereiten. Versaeumnis fuehrt zur **Unwirksamkeit ALLER Kuendigungen** (EuGH Junk / BAG). Dieser Skill deckt sowohl die Arbeitgeber-Strategie (Compliance-Checkliste) als auch die Arbeitnehmer-Strategie (Klageerhebung bei Verfahrensfehler) ab.
 
 ## Triage — vor jeder Bearbeitung klaeren
 
@@ -795,9 +775,6 @@ c) Soziale Rechtfertigung fehlt nach § 1 II KSchG.
 → Art. 2-4 RL 98/59/EG (Massenentlassungs-RL)
 ```
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen — Ueberblick
 
 | Frist | Dauer | Rechtsgrundlage |
@@ -907,3 +884,4 @@ Anhaltspunkte für eine hohe Abfindung sind vorhanden.
 
 <!-- AUDIT 27.05.2026
 -->
+

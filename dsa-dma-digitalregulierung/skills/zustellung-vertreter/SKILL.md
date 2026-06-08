@@ -5,10 +5,6 @@ description: "Zustellung Vertreter im DSA/DMA-Digitalregulierung im Dsa Dma Digi
 
 # Zustellung Vertreter
 
-## Arbeitsbereich
-
-**Zustellung Vertreter** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Zustellung Vertreter im DSA/DMA-Digitalregulierung im Dsa Dma Digi
 - Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zustellung-und-vertreter-art-13-dsa-art-37-dma`
@@ -118,9 +115,6 @@ description: "Zustellung Vertreter im DSA/DMA-Digitalregulierung im Dsa Dma Digi
 - §§ 183–185 ZPO — Auslandszustellung und öffentliche Zustellung
 - Art. 17–19 HZÜ — Haager Zustellungsübereinkommen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Hat die Plattform eine EU-Niederlassung? (Zustellung dorthin nach EuZVO)
@@ -148,3 +142,4 @@ Bevorzugter Zustellungsweg:
 Internationale Zuständigkeit: Art. [X] Bruessel-Ia-VO (VO 1215/2012)
 Gerichtsstand: [GERICHT]
 ```
+

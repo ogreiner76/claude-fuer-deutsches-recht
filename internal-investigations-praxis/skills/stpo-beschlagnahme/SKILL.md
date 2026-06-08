@@ -5,10 +5,6 @@ description: "Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für A
 
 # StPO-Beschlagnahme und Durchsuchung
 
-## Arbeitsbereich
-
-Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlagen und Verhalten bei Durchsuchung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,15 +62,6 @@ Dieser Skill bereitet auf Durchsuchungs- und Beschlagnahme-Szenarien vor, analys
 - Krisenplan muss vor einem Dawn Raid vorliegen (vgl. inv-021-dawn-raid-playbook).
 - Kommunikationsplan: Wer informiert wen (Vorstand, Aufsichtsrat, PR, externe Anwälte)?
 
-## Red-Team-Fragen
-
-- Liegt ein Krisenplan für den Fall einer Durchsuchung vor, und ist er allen Schlüsselpersonen bekannt?
-- Wurden alle Interviewprotokolle und Berichte so dokumentiert, dass eine Unterscheidung zwischen privilegierten und nicht-privilegierten Teilen möglich ist?
-- Ist der externe Anwalt 24/7 erreichbar und über den Stand der Untersuchung informiert?
-- Wurde die Inventarliste beschlagnahmter Gegenstände sorgfältig dokumentiert?
-- Gibt es Unterlagen beim Wirtschaftsprüfer, die nicht durch Anwaltsgeheimnis geschützt sind und beschlagnahmt werden könnten?
-- Wurde gegen eine etwaige Beschlagnahme privilegierter Unterlagen sofort Widerspruch eingelegt?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -95,3 +82,4 @@ Dieser Skill bereitet auf Durchsuchungs- und Beschlagnahme-Szenarien vor, analys
 - **Inventarlisten-Vorlage**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

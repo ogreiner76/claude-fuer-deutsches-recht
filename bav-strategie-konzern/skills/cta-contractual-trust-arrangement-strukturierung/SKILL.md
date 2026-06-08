@@ -5,10 +5,6 @@ description: "CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetze
 
 # CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
 
-## Arbeitsbereich
-
-CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -39,6 +35,7 @@ CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmod
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Vorgehen
 
 ### Schritt 1: Entscheidung für CTA-Strukturierung
@@ -243,3 +240,4 @@ IAS 19 — plan asset:
 - → `governance-und-anpassungsmechanismen` — Treuhandausschuss/Pension Committee Charter
 - → `pension-buyout-strukturierung-und-de-risking` — CTA als Vorstufe zu Buy-in/Buy-out
 - → `historisch-gewachsene-altsysteme-due-diligence` — CTA-Audit bei M&A
+

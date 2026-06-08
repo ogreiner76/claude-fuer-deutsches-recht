@@ -5,10 +5,6 @@ description: "Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf l
 
 # Insolvenz des Handelsvertreters — Vertragsbeendigung und Anspruchsübertragung
 
-## Arbeitsbereich
-
-Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertreters. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Abtretungen von Provisionsansprüchen nicht angefochten — Gläubiger benachteiligt.
 - Insolvenzverwalter ohne Kenntnis vom Ausgleichsanspruch — Frist nach § 89b Abs. 4 HGB abgelaufen.
 
-## Output
-
-Kündigungsschreiben Insolvenzfall, Forderungsübersicht für Insolvenzverwalter, Abtretungsanfechtungsantrag.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 851 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__851.html)
 - [§ 91 InsO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/inso/__91.html)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

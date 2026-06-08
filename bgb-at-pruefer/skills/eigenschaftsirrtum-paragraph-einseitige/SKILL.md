@@ -5,10 +5,6 @@ description: "Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff
 
 # Eigenschaftsirrtum — § 119 Abs. 2 BGB
 
-## Arbeitsbereich
-
-Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrsw
 - Im Kaufrecht kann kaufrechtliche Gewährleistung § 119 Abs. 2 BGB verdrängen (streitig).
 - Eigenschaft muss bei Erklärung vorgelegen haben, nicht erst danach eingetreten sein.
 
-## Output
-
-- Gutachtenstil-Abschnitt § 119 Abs. 2 BGB mit vollständiger Subsumtion
-- Abgrenzungstabelle: Eigenschaftsirrtum vs. Motivirrtum vs. Wertirrtum
-- Klausurlösungsskizze mit Anfechtungsfrist
-- Hinweise zur Konkurrenz mit kaufrechtlicher Gewährleistung
-
 ## Quellen
 
 - [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
@@ -93,3 +82,4 @@ grundsätzlich Motivirrtum. Die Grenze ist fließend und BGH-Rechtsprechung prä
 - Irrtum: Hatte der Anfechtende eine falsche Vorstellung über diese Eigenschaft?
 - Kausalität: Hätte er bei richtiger Kenntnis die Erklärung nicht abgegeben?
 - Abgrenzung: Eigenschaftsirrtum oder Motivirrtum — welche Merkmale sprechen wofür?
+

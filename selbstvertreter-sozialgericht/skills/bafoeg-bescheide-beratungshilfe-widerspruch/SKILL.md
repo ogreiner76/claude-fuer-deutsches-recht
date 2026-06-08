@@ -5,9 +5,6 @@ description: "Bafoeg Bescheide Beratungshilfe Widerspruch im Selbstvertretung am
 
 # Bafoeg Bescheide Beratungshilfe Widerspruch
 
-## Arbeitsbereich
-
-**Bafoeg Bescheide Beratungshilfe Widerspruch** ordnet den Fall über die tragenden Prüfungslinien: BAfoeG-Bescheide und Widerspruch, Beratungshilfe nach BerHG für kostenlose Anwaltsberatung, Berufskrankheit. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Bafoeg Bescheide Beratungshilfe Widerspruch im Selbstvertretung am
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bafoeg-bescheide-widerspruch`
@@ -99,12 +97,6 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 5. Widerspruchsfrist?
 6. Aktualisierungsantrag, Vorausleistung oder Härtefall nötig?
 7. Rückforderung/Aufhebung nach Verwaltungsverfahrensrecht gesondert zu verteidigen?
-
-## Output
-
-- Bescheidanalyse mit Rechenzeilen, Fehlerverdacht, fehlenden Belegen und Fristen.
-- Widerspruchsentwurf in einfacher Sprache mit Anlagenliste.
-- Nachreichungs- und Telefonnotizplan, damit Laien nicht versehentlich Angaben machen, die sie nicht belegen können.
 
 ## 2. `beratungshilfe-vor-widerspruch-brh`
 
@@ -215,24 +207,9 @@ Beratungshilfe ist VOR dem Gerichtsverfahren. Im laufenden Verfahren brauchen Si
 - Anwalt ohne Schein aufsucht, ohne Vereinbarung → Anwalt kann volles Honorar verlangen
 - Belege fehlen → Schein nicht bewilligt
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `pkh-vor-sozialgericht-73a-sgg` — PKH im laufenden Verfahren
-- `anwaltszwang-pruefen-73-sgg` — Anwalt allgemein
-- `wann-doch-anwalt-grenzfaelle-sozialgericht` — wann Anwalt
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BerHG aktuell. Eigenanteil seit Jahren 15 EUR. Pruefen Sie aktuellen Stand auf www.justiz.de.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `berufskrankheit-bk-meldung-bkv`
 
@@ -435,25 +412,9 @@ Verfahren am LSG ebenfalls kostenfrei (§ 183 SGG). Anwaltskosten zahlen Sie / P
 - Frist verpasst → kaum Rettung
 - Begruendung unklar → konkret zu den SG-Fehlern
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `urteil-sozialgericht-was-jetzt` — vorgelagert
-- `berufung-zulassung-besondere-bedeutung` — Zulassung
-- `berufung-zulassung-besondere-bedeutung` — wenn Wertgrenze nicht erreicht oder die Berufung nicht zugelassen wurde
-- `pkh-vor-sozialgericht-73a-sgg` — PKH auch im LSG
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 144 SGG aktuell. Wertgrenze 750 EUR.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `berufung-zulassung-besondere-bedeutung`
 
@@ -580,21 +541,7 @@ Das LSG laesst die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
 - Verfahrensfehler nicht konkret bezeichnet
 - Frist verpasst
 
-## Querverweise
-
-- `urteil-sozialgericht-was-jetzt` — vorgelagert
-- `berufung-lsg-144-sgg-wertgrenze-750` — wenn Wertgrenze erreicht
-- `nichtzulassungsbeschwerde-bsg-160a-sgg` — erst nach einem LSG-Urteil ohne zugelassene Revision
-- `pkh-vor-sozialgericht-73a-sgg` — PKH
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 144 Abs. 2 SGG aktuell.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

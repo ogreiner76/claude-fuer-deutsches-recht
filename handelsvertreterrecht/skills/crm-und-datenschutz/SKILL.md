@@ -5,10 +5,6 @@ description: "Analysiert datenschutzrechtliche Anforderungen beim Einsatz von CR
 
 # CRM-Systeme und Datenschutz im Handelsvertretervertrag nach DSGVO und § 88 HGB
 
-## Arbeitsbereich
-
-Analysiert datenschutzrechtliche Anforderungen beim Einsatz von CRM-Systemen im Handelsvertrieb nach DSGVO und § 88 HGB: Verarbeitung von Kundendaten durch Handelsvertreter, Verantwortlichkeit und Auftragsverarbeitung, Herausgabepflichten von CRM-Daten bei Vertragsende sowie Rechte des Unternehmers an den erhobenen Kundendaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Handelsvertreter nutzt CRM-Daten nach Vertragsende für eigene Akquise — Verletzung von § 88 HGB.
 - Löschpflichten nach DSGVO nicht umgesetzt — Haftungsrisiko für Verantwortlichen.
 
-## Output
-
-Datenschutz-Analyse CRM-Nutzung, AVV-Entwurf nach Art. 28 DSGVO, Herausgabeverlangen für CRM-Daten.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 667 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__667.html)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
 - [Dejure Art. 28 DSGVO](https://dejure.org/gesetze/DSGVO/28.html)
+

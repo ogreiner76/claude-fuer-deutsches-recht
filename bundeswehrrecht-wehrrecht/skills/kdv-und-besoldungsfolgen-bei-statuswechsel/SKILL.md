@@ -36,12 +36,6 @@ BVerwG: Entlassung wegen echten Gewissenskonflikts möglich, aber Ausbildungskos
 - § 56 SG — Rückforderung Ausbildungskosten
 - Art. 4 Abs. 1 GG — Gewissensfreiheit
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - KDV beantragt oder Entlassungsantrag gestellt?
@@ -94,21 +88,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Entlassungsantrag — notwendige Unterlagen
 - Tabelle: Kostenfolgen nach Dienstzeitlänge § 56 SG
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/kdvg/ — KDVG
-- https://www.gesetze-im-internet.de/sg/ — SG §§ 46, 56
-- https://www.bverfg.de — Art. 4 GG
-- https://www.bverwg.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +97,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

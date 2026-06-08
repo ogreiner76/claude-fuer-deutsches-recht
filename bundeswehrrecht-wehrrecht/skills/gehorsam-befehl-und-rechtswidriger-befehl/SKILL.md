@@ -5,10 +5,6 @@ description: "Gehorsam Befehl und rechtswidriger Befehl: prüft die einschlägig
 
 # Gehorsam, Befehl und rechtswidriger Befehl
 
-## Arbeitsbereich
-
-Gehorsam Befehl und rechtswidriger Befehl: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,15 +89,6 @@ Der Soldat schuldet nach § 11 SG Gehorsam gegenüber dienstlichen Befehlen sein
 - Mündliche Befehlserteilung ohne Zeugen ungesichert lassen – Beweisnot.
 - Berufung auf "Gewissensnot" ohne KDV-Antrag bei generalisierter Ablehnung jeder Befehlsausführung.
 
-## Querverweise
-
-- soldatengesetz-rechtsstellung-grundpflichten
-- wehrstrafrecht-fahnenflucht-gehorsamsverweigerung-schnittstelle
-- befehl-verweigern-gewissensnot-rechtswidrigkeit
-- kriegsdienstverweigerung-verfahren
-- auslandseinsatz-mandat-einsatzregeln
-- rechtsbeistand-im-disziplinarverfahren
-
 ## Quellen Stand 06/2026
 
 - § 11 SG, §§ 19–22 WStG, § 5 WStG – Volltext gesetze-im-internet.de.
@@ -109,3 +96,4 @@ Der Soldat schuldet nach § 11 SG Gehorsam gegenüber dienstlichen Befehlen sein
 - BVerfG zum Gewissensschutz von Soldaten – ständige Rechtsprechung (Volltexte: bundesverfassungsgericht.de).
 - Truppendienstgerichte – Rechtsprechung in WDO-Verfahren (Az. nur generisch; konkrete Fundstellen nur nach Live-Recherche).
 - Bundeswehr-interne Vorschriften (ZDv, A-Vorschrift) nur nach Mandantenvorlage, nicht aus Modellwissen.
+

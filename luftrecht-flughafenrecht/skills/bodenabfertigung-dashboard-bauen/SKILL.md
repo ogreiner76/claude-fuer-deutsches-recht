@@ -5,10 +5,6 @@ description: "Flughafen oder Bodenabfertigungsunternehmen braucht Dashboard: Zul
 
 # Bodenabfertigung – Dashboard bauen
 
-## Arbeitsbereich
-
-Flughafen oder Bodenabfertigungsunternehmen braucht Dashboard: Zulassungsstatus Entgelt-Genehmigungen LuftSiG-Findings Personalzuverlässigkeit Finanzkennzahlen. Skill strukturiert Datenquellen BADV LuftSiG und liefert befuellbares Dashboard-Template. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,6 +44,7 @@ BADV EU-RL 96/67 EG LuftSiG § 7 EU-DVO 2015/1998 LuftVG – die einschlägigen 
 - **BADV § 16**: Auswahlverfahren bei Kapazitätsbeschränkung; Vergabekommission.
 - **EU-Richtlinie 96/67/EG Art. 6**: Marktöffnung für Bodenabfertigungsdienste.
 - **LuftVG § 45**: Haftung bei Bodenabfertigungsschäden; Verweis auf allg. Deliktsrecht.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -58,6 +55,7 @@ BADV EU-RL 96/67 EG LuftSiG § 7 EU-DVO 2015/1998 LuftVG – die einschlägigen 
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Genehmigung nach BADV § 3 aktuell und umfasst die tatsächlich erbrachten Dienste?
 8. Hat Flughafen Kapazitätsbeschränkung nach BADV § 16 rechtmäßig festgesetzt?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -77,9 +75,6 @@ Ein effektives Luftrecht-Dashboard für laufende Mandate umfasst:
 - **Insolvenz-Frühwarnung**: Finanzkennzahlen der beteiligten Airline; Ratingänderungen; Pressemeldungen.
 - **Dokumentenablage**: Bescheide Verträge Gutachten Registerauszüge versioniert und durchsuchbar.
 
-## Output
-
-Strukturierter Vermerk zu Bodenabfertigung – Dashboard bauen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. BADV-Compliance-Checkliste. Vergabeverfahrens-Protokoll. Selbstabfertigungs-Antrag.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -108,3 +103,4 @@ Für Mandate im Bereich Bodenabfertigungsdienste und Selbstabfertigungsrecht sin
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

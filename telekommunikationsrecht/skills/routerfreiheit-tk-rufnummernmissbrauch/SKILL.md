@@ -5,10 +5,6 @@ description: "Routerfreiheit, Netzabschlusspunkt, Endgerätefreiheit, Providerro
 
 # Routerfreiheit und Endgeräte
 
-## Arbeitsbereich
-
-Routerfreiheit, Netzabschlusspunkt, Endgerätefreiheit, Providerrouter, Konfigurationsdaten, Glasfaser-ONT und Gewährleistung/Sicherheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ Routerfreiheit, Netzabschlusspunkt, Endgerätefreiheit, Providerrouter, Konfigur
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Streit, ob der Kunde eigenen Router/ONT nutzen darf oder Provider technische Vorgaben macht.
-
 ## Norm- und Quellenanker
 
 TKG Endgerätefreiheit/Netzabschlusspunkt live prüfen; BGB; Produktsicherheits-/Cyberrecht; BNetzA-Festlegungen.
-
-## Arbeitsfragen
-
-1. Wo liegt der passive Netzabschlusspunkt?
-2. Welche Zugangsdaten/Konfigurationsdaten muss Anbieter bereitstellen?
-3. Welche Sicherheits- oder Supportargumente sind tragfähig?
-4. Welche Folgen hat eigener Router für Störung/Gewährleistung?
-
-## Output
-
-Routerfreiheits-Memo, Providerbrief, technische Fragenliste und Verbraucher-/Businessvariante.
 
 ## Red Flags
 
@@ -48,6 +29,3 @@ Routerfreiheits-Memo, Providerbrief, technische Fragenliste und Verbraucher-/Bus
 - tk-stoerung-minderung-ausfallentschaedigung
 - tk-glasfaser-hausanschluss-wegerecht
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

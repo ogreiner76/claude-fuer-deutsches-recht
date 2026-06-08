@@ -18,12 +18,7 @@ Arbeitsfokus: **Schriftsatz-Anlagen-Mapping**. Prüfe diese Anker am Sachverhalt
 - `§ 299 Abs. 1 ZPO` — Akteneinsicht.
 - `§ 371 Abs. 1 ZPO` — Augenschein.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill liest den Schriftsatz als Landkarte. Jede erhebliche Behauptung bekommt eine Belegstelle; jede Anlage bekommt eine Funktion. Das verhindert die verbreitete Krankheit: viele Anlagen, aber kein tragender Vortrag.
 
 ## Mindestinput
 
@@ -62,3 +57,4 @@ Dieser Skill liest den Schriftsatz als Landkarte. Jede erhebliche Behauptung bek
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
+

@@ -45,9 +45,6 @@ Genehmigtes Kapital für GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschl
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema Genehmigtes Kapital
 
 | Prüfungspunkt | Anforderung | Ergebnis |
@@ -158,3 +155,4 @@ Die Geschäftsführung beschließt:
 - `gesellschaftsgruender-share-classes-a-b-c` — Anteilsklassen bei Ausübung
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Bezugsrechtsausschluss-Anfechtung
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzungsklausel einbetten
+

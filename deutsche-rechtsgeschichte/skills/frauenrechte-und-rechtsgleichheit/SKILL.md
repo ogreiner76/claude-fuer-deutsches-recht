@@ -57,6 +57,3 @@ Das BGB 1900 sicherte Frauen keine Gleichberechtigung: Maennliches Entscheidungs
 - BVerfGE 3, 225 und Gleichberechtigungsgesetz 1957: Zusammenhang
 - GG Art. 3 Abs. 2: Inhalt, Grenzen, BVerfGE-Linie
 
-## Quellenregel
-
-BGB: gesetze-im-internet.de. BVerfGE 3, 225: bverfg.de. Gleichberechtigungsgesetz 1957: BGBl. I 1957, 609. AGG: gesetze-im-internet.de.

@@ -17,18 +17,6 @@ Nutzt obergerichtliche Praxis zu Äußerungen: OLG Frankfurt, OLG München, OLG 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill macht aus Leitlinien der Verfassungsgerichte arbeitsfähige Instanzpraxis. Gerade in Eilverfahren, Unterlassung, Plattformfällen und Pressesachen entscheiden Details: Deutungsvarianten, Tenorweite, Verdachtsäußerung, tatsächliche Grundlage, Accountmaßnahme und Wiederholungsgefahr.
-
-## Einsatz
-
-- Unterlassungsantrag, Abmahnung, einstweilige Verfügung oder Gegendarstellung.
-- Social-Media-Beitrag, Plattformlabel, De-Referenzierung, Kommentarspalte.
-- Vorwurf innerer Tatsachen wie Absicht, Täuschung, Wissen oder "bewusst".
-- Streit um Werturteil mit Tatsachenkern.
-- OLG-Bezirk soll für Argumentation oder Vergleichsrisiko greifbar werden.
-
 ## Arbeitsprogramm
 
 1. **Antrag/Tenor zuerst:** Was genau soll verboten werden? Ist die Deutungsvariante zu weit?
@@ -49,26 +37,3 @@ Dieser Skill macht aus Leitlinien der Verfassungsgerichte arbeitsfähige Instanz
 - **OLG Düsseldorf, Beschluss vom 10.07.2006 - III-5 Ss 101/05 - 53/05 I:** Beleidigungsprüfung darf nicht aus dem Kontext gerissene Ausschnitte bewerten; Schmähkritik verlangt Gesamtwürdigung.
 - **KG Berlin, Beschluss vom 11.03.2020 - 10 W 13/20:** Datenherausgabe wegen beleidigender Onlineäußerungen verlangt Prüfung, ob die Äußerung strafbar und die Herausgabe erforderlich ist.
 
-## Output
-
-```text
-Obergerichtlicher Praxischeck
-- Relevanter Bezirk/Instanz:
-- Geeignete Praxisanker:
-- Risiko für Antrag/Tenor:
-- Schwachpunkt der Gegenseite:
-- Vergleichsfenster:
-- Formulierungsvorschlag für Schriftsatz:
-```
-
-## Quellenhygiene
-
-Nur Entscheidungen verwenden, die im Skill `rechtsprechungsbank-verifiziert` oder durch freie amtliche Datenbanken nachprüfbar sind. Keine Verlagssignaturen und keine Kommentar-Fundstellen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

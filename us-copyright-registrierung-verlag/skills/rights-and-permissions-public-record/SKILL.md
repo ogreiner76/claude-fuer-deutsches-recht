@@ -5,10 +5,6 @@ description: "Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Da
 
 # Rights and Permissions und Public Record
 
-## Arbeitsbereich
-
-Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Datenschutz, Verlagsadresse, Pseudonyme und spätere Anfragen kontrollieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Datenschutz, Ver
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Bereite öffentliche Kontakt- und Rechteangaben bewusst vor. Eine Registrierung erzeugt öffentliche Records; deutsche Verlage sollten nicht versehentlich private Autorendaten oder unzuständige Mitarbeiteradressen veröffentlichen.
-
 ## Checkliste
 
 - Welche Adresse und E-Mail sollen öffentlich für Rights and Permissions erscheinen?
@@ -33,14 +25,6 @@ Bereite öffentliche Kontakt- und Rechteangaben bewusst vor. Eine Registrierung 
 - Sind Pseudonyme, anonyme Werke oder sensible Autorendaten betroffen?
 - Passt die Rechteauskunft zur tatsächlichen Lizenzlage?
 - Gibt es ein internes Routing für US-Anfragen, Takedowns, Lizenzanfragen und Litigation Holds?
-
-## Output
-
-Ein Public-Record-Vermerk mit zulässigen Kontaktdaten, Datenschutznotiz, interner Zuständigkeit und Textbaustein für eingehende Rights-Anfragen.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -52,3 +36,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Frist-/Remedy-Wirkung hat timing nach § 411/§ 412 und was muss als Nachweis in die Verlagsakte?
 
 **Mindest-Output:** Registrierungsakte mit Antragstyp, Werkdaten, Rechtekette, Deposit-Route, Fee/Tracking und Certificate-Archiv.
+

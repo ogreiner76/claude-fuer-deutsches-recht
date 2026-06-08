@@ -17,10 +17,6 @@ Bereitet Antwort auf Prüfungsbescheid des DPMA nach § 45 PatG oder des EPA nac
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Wenn DPMA oder EPA einen **Prüfungsbescheid** erlässt, muss die Patentanwältin innerhalb der gesetzten Frist (typisch 4 Monate, verlängerbar) antworten. Dieses Skill strukturiert die Antwort.
-
 ## Rechtsrahmen
 
 - **§ 45 PatG.** DPMA-Prüfungsbescheid.
@@ -186,3 +182,4 @@ Bevor die Antwort auf den Pruefungsbescheid formuliert wird, klaere:
 > **EPA, Erweiterte Beschwerdekammer, G 2/21 (Plausibilitaet):** Die technische Wirkung, auf die eine erfinderische Taetigkeit gestuetzt wird, muss in der Anmeldung plausibel offenbart sein; spaetere Versuchsbelege koennen die Plausibilitaet ersetzen, wenn der Fachmann den Effekt nachtraeglich als glaubhaft bestaetigt ansehen kann.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

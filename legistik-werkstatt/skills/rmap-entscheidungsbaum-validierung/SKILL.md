@@ -16,14 +16,6 @@ description: "Simulation und Verifikation der Rulemap: Faelle generieren; Pfadab
 
 Validierung ueber drei Achsen: Vollstaendigkeit (jeder Pfad erreichbar); Konsistenz (keine widerspruechlichen Pfade); Korrektheit (juristisch korrekte Ergebnisse). Im Builder werden Faelle simuliert und Entscheidungen automatisch verifiziert.
 
-## Vorgehen
-
-1. Fallkatalog mit realistischen und Grenzfallszenarien aufbauen
-2. Simulation laufen lassen; Pfadabdeckung messen
-3. Verifikation: jeden Pfad gegen juristische Soll-Antwort spiegeln
-4. Abweichungen aufnehmen; in legw-rmap-tatbestand-und-rechtsfolge zurueckspielen
-5. Validierungsprotokoll für Akte und NKR ablegen
-
 ## Pruefpunkte
 
 Pruefen: ist jeder Pfad mindestens einmal gepruefte? Sind systematisch Grenz- und Ausnahmefaelle erfasst? Sind die juristischen Soll-Antworten autorisiert (durch Fachreferat oder externe Begutachtung)?
@@ -41,17 +33,7 @@ Arbeitsfokus: **Entscheidungsbaum-Simulation und Verifikation**. Prüfe diese An
 - `§ 556 Abs. 1 BGB` — Betriebskosten.
 - `Art. 20 Abs. 3 GG` — Normklarheit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-```
-Skill: legw-rmap-entscheidungsbaum-validierung
-Thema: Entscheidungsbaum-Simulation und Verifikation
-Ergebnis: <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills: siehe Description-Verweise
-```
 
 ## Abgrenzung
 
@@ -60,3 +42,4 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 ## Quellen Stand 06/2026
 
 Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
+

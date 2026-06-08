@@ -5,10 +5,6 @@ description: "Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererk
 
 # Influencer-Recht: Jahresabschluss – Creator-Risiken
 
-## Arbeitsbereich
-
-Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererklärung, Risikofelder, Abgabefristen und Optimierungspotenziale. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Der Jahresabschluss eines Creators ist komplexer als bei klassischen Gewerbetrei
 - Steueroptimierungs-Memo (IAB, Verluste, KSK)
 - Steuerberater-Briefing-Vorlage
 - EÜR-Vollständigkeitscheck
+

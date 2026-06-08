@@ -5,10 +5,6 @@ description: "Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichke
 
 # Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit
 
-## Arbeitsbereich
-
-Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichkeit nach Art. 26 DSGVO für CRM und Kundendaten, Auftragsverarbeitungsverträge nach Art. 28 DSGVO, Rechenschaftspflichten und Bussgeldrisiken. Perspektive Franchisegeber und Franchisenehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisesystem nutzt ein zentrales CRM-System, in das alle Franchisenehmer 
 - Treueprogramm sammelt Daten über das Franchisesystem hinaus und überträgt diese an Muttergesellschaft ohne Rechtsgrundlage.
 - Löschfristen für Kundendaten sind nicht definiert; Daten werden unbegrenzt gespeichert.
 
-## Output
-
-- DSGVO-Mapping der Verantwortlichkeiten im Franchisesystem
-- Muster-AVV (Art. 28 DSGVO) für Franchisepartner
-- Muster-Art.-26-Vereinbarung (gemeinsame Verantwortlichkeit)
-- Datenschutzcheckliste für Franchisegeber-Audit
-
 ## Quellen
 
 - https://gesetze-im-internet.de/dsgvo/art_26.html
@@ -85,3 +74,4 @@ Im Franchisekontext ist besonders kritisch, wer die Entscheidung über den Einsa
 - Kundendaten-Eigentum im Franchisevertrag klar regeln: Wessen Daten sind es nach Vertragsende?
 - Löschfristen für Kundendaten in einem Verarbeitungsverzeichnis nach Art. 30 DSGVO dokumentieren.
 - Datenschutz-Audits in das Franchise-Audit-Programm integrieren.
+

@@ -5,10 +5,6 @@ description: "Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim
 
 # Aufstellungsbeschluss und Bekanntmachung
 
-## Zweck
-
-Audit der formellen Verfahrenskette des B-Plans. Häufigste Treffer im Normenkontrollverfahren liegen hier: Bekanntmachung fehlerhaft, Beschlussvorlage abweichend, Anstoßfunktion verletzt.
-
 ## Schritt 1 — Verfahrenskette im Überblick
 
 ### Reguläre Kette
@@ -149,6 +145,3 @@ Audit der formellen Verfahrenskette des B-Plans. Häufigste Treffer im Normenkon
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

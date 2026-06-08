@@ -22,11 +22,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Aufgabe
-
-Dieser Skill baut eine **vergleichende Synopse**: Zwölftafelgesetz, republikanisch-archaisches Recht, klassische Juristen, prätorische Fortbildung, justinianische Kompilation, byzantinische Weiterbearbeitung und spätere Rezeption.
-
 ## Startfragen
 
 1. Welches Institut soll verglichen werden: Eigentum, Besitz, Vertrag, Delikt, Familie, Erbe, Prozess, Kirche oder Verwaltung?
@@ -41,18 +36,10 @@ Dieser Skill baut eine **vergleichende Synopse**: Zwölftafelgesetz, republikani
 4. **Quellenrang angeben:** sicher überliefert, rekonstruierend, kommentierend, später bearbeitet.
 5. **Nutzwert herstellen:** Was darf man daraus heute argumentativ lernen und was gerade nicht?
 
-## Ausgabeformat
-
-| Schicht | Leitquelle | Kernidee | Unsicherheit | heutiger Lernwert |
-|---|---|---|---|---|
-| Zwölftafelgesetz | tradierte Fragmente | archaische Ordnung | hoch bis mittel | Ursprung und Formstrenge |
-| Klassik | Juristen/Prätor | Fallkunst und Aktionendenken | mittel | begriffliche Präzision |
-| Justinian | Kompilation/Novellen | Sammlung und kaiserliche Ordnung | mittel | System- und Rezeptionsanker |
-| Byzanz | griechische Kompilationen | Fortbildung und Praxisnähe | mittel | Rechtskultur und Transfer |
-
 ## Red-Team
 
 - Wird eine Entwicklung zu glatt erzählt?
 - Wird ein späterer byzantinischer Text als klassisches Rom ausgegeben?
 - Wird ein archaisches Fragment überinterpretiert?
 - Ist die moderne Analogie methodisch tragfähig?
+

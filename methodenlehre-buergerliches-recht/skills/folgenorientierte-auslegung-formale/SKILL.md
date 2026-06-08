@@ -5,9 +5,6 @@ description: "Folgenorientierte Auslegung Formale im Plugin Methodenlehre Buerge
 
 # Folgenorientierte Auslegung Formale
 
-## Arbeitsbereich
-
-**Folgenorientierte Auslegung Formale** ordnet den Fall über die tragenden Prüfungslinien: Leitet durch die methodisch korrekte Einbeziehung von, Balanciert formale Legalitaet und Einzelfallgerechtigkeit, Bietet ein strukturiertes Prüfprotokoll für die Einhaltung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Folgenorientierte Auslegung Formale im Plugin Methodenlehre Buerge
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `folgenorientierte-auslegung-empirie`
@@ -85,10 +83,6 @@ Die Berücksichtigung von Rechtsfolgen bei der Auslegung ist methodisch zulässi
 - Die Grenze zwischen zulässiger Normzweckorientierung und unzulässiger rechtspolitischer Gestaltung wird nicht gezogen.
 - Systemische Folgen (Präzedenzwirkung für ähnliche Fälle) werden bei der Folgenabwägung nicht berücksichtigt.
 
-## Output
-
-Das Skill liefert eine Folgenanalyse für die Auslegungsentscheidung: Identifikation der konkurrierenden Auslegungsalternativen, empirische Bewertung der prognostizierten Folgen, methodische Einordnung der Folgenorientierung und Formulierungsvorschlag für die begründete Entscheidung. Geeignet für Gutachten, Schriftsätze und wissenschaftliche Beiträge zur Methodenlehre.
-
 ## Vertiefung: Ökonomische Analyse als Folgenorientierungsinstrument
 
 Die ökonomische Analyse des Rechts ist ein wichtiges Instrument der Folgenorientierung: Sie fragt, welche Auslegung zu den effizientesten Ergebnissen führt und Fehlanreize minimiert. Im deutschen Recht ist die ökonomische Analyse anerkanntes Auslegungshilfsmittel, aber kein primärer Auslegungsmaßstab. Sie kann die teleologische Auslegung stützen, wenn Normzweck und ökonomische Effizienz übereinstimmen.
@@ -129,10 +123,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Einsatz
-
-Anwendungsfall: das rechtlich naheliegende Ergebnis hart wirkt oder das gerechte Ergebnis den Normtext strapaziert. Der Skill verhindert zwei schlechte Reflexe: kalten Formalismus und grenzenlose Billigkeitsdogmatik.
-
 ## Prüfroutine
 
 1. **Formaler Ausgangspunkt:** Was folgt aus Wortlaut, System und Regel-Ausnahme-Struktur?
@@ -148,10 +138,6 @@ Anwendungsfall: das rechtlich naheliegende Ergebnis hart wirkt oder das gerechte
 - Ist "Form" hier bloß Bürokratie oder gerade Schutz vor Willkür?
 - Wird eine Generalklausel als Abkürzung benutzt, obwohl eine speziellere Norm existiert?
 - Könnte dieselbe Methode morgen gegen den eigenen Mandanten eingesetzt werden?
-
-## Output
-
-Erstelle eine Matrix `Formaler Befund / Härte / Normanker / Kompetenz / Verallgemeinerung / Ergebnis`. Füge eine Formulierung hinzu, die offenlegt, ob es sich um Auslegung, Korrektur über Generalklausel oder Rechtsfortbildung handelt.
 
 ## Quellen- und Zitierdisziplin
 
@@ -217,10 +203,6 @@ Art. 20 Abs. 3 GG bindet die vollziehende Gewalt an Gesetz und Recht sowie die R
 - Die Grenze zwischen erlaubter Analogie und unzulässiger Gesetzeskorrektur wird nicht gezogen.
 - Art. 97 GG wird als Freibrief für richterliche Eigenständigkeit missverstanden, obwohl er nur Unabhängigkeit von Weisungen schützt.
 - Wesentlichkeitsgrundsatz wird nicht angewandt: Grundrechtlich relevante Entscheidungen müssen gesetzlich normiert sein.
-
-## Output
-
-Das Protokoll liefert eine Gesetzesbindungsprüfung: Normgrundlage, Wortlautkonformität, Gesetzgeberwillenkonformität, richterrechtliche Eigenständigkeitsanalyse, Wesentlichkeitsprüfung und verfassungsrechtliche Konsequenz. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Methodenkritik.
 
 ## Vertiefung: Wesentlichkeitstheorie als Gesetzesbindungskonkretisierung
 
@@ -307,10 +289,6 @@ Gesetzgebungsmaterialien sind wichtige Auslegungshilfen, aber keine bindenden No
 - Ministerielle Begründungen und amtliche Kommentierungen werden mit parlamentarischem Gesetzgeberwillen gleichgesetzt.
 - Der Unterschied zwischen dem Willen des historischen und des hypothetischen Gesetzgebers wird nicht gemacht.
 
-## Output
-
-Das Skill liefert eine Materialienauswertung: strukturierte Übersicht über relevante Gesetzgebungsdokumente, Einordnung nach Verfahrensrelevanz, Auflösung von Widersprüchen, Extrakt des dokumentierten Gesetzgeberwillens und Formulierungsvorschlag für die historische Auslegungsargumentation. Schriftsatztauglich und revisionsrechtlich verwendbar.
-
 ## Vertiefung: Differenzierung von subjektiver und objektiver Theorie
 
 Die historische Auslegung folgt der subjektiven Theorie, die den Willen des historischen Gesetzgebers in den Mittelpunkt stellt. Die objektive Theorie dagegen fragt nach dem Willen des Gesetzes, wie er sich aus dem Text erschließt. Die herrschende Meinung verbindet beide Ansätze: Der historische Wille ist Ausgangspunkt, kann aber durch objektive Auslegungselemente überlagert werden, wenn der Text eine eigenständige Aussage trägt.
@@ -395,10 +373,6 @@ Im demokratischen Rechtsstaat haben Gesetzgebung, Rechtsprechung und Rechtswisse
 - Wissenschaftliche Systematisierungen werden unreflektiert auf normative Aussagen übertragen.
 - Die Grenze zwischen dogmatischer Systembildung (Wissenschaft) und Normkonkretisierung (Justiz) wird verwischt.
 
-## Output
-
-Das Skill liefert eine Rollenanalyse: Identifikation des institutionellen Akteurs, Prüfung der Rollentreue, Bewertung etwaiger Rollenkonfusionen und Formulierungsvorschlag für die institutionelle Rüge oder die methodisch korrekte Begründung. Geeignet für wissenschaftliche Methodenkritik, Schriftsätze und Gutachten zur institutionellen Kompetenz.
-
 ## Vertiefung: Kooperatives Verhältnis der Institutionen
 
 Das Verhältnis zwischen Gesetzgebung, Justiz und Wissenschaft ist nicht rein antagonistisch, sondern kooperativ: Rechtswissenschaft liefert Interpretationsvorschläge, die Justiz konkretisiert das Recht, und der Gesetzgeber kann auf Rechtsprechungsentwicklungen reagieren. Dieser Kreislauf ist für die Fortentwicklung des Rechts unverzichtbar, solange die institutionellen Grenzen gewahrt bleiben.
@@ -424,3 +398,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 34, 269 – Soraya, Richterrecht und Gesetzgebung](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

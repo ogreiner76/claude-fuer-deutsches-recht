@@ -78,12 +78,6 @@ OP- und Chirurgieroboter sind regelmäßig Medizinprodukte hoher Risikoklasse (M
 - **Vigilanz-Meldung zu spät** – MPDG-Bußgeld.
 - **KI-Funktion ohne Konformitätsbewertung** in laufendem Eingriff aktiv.
 
-## Querverweise
-
-- `accuracy-robustness-cybersecurity-ai`
-- `betreiber-mitverschulden-und-fehlbedienung`
-- Plugin-Nachbar `medizinrecht` für Behandlungsvertrag
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2017/745 (MDR), Art. 5, 10, 52, 62, 87; Anhang VIII.
@@ -93,3 +87,4 @@ OP- und Chirurgieroboter sind regelmäßig Medizinprodukte hoher Risikoklasse (M
 - VO (EU) 2024/2853 (neue ProdHaftRL).
 - DSGVO Art. 9; BDSG § 22.
 - Live-Verifikation auf eur-lex.europa.eu, bfarm.de, dimdi/bfarm; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

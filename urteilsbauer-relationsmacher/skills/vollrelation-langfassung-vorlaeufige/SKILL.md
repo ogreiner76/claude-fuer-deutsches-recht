@@ -5,10 +5,6 @@ description: "Vollständige Relation im Schulstandard für Referendar-/Assessorp
 
 # Vollrelation Langfassung - Schulstandard für Prüfung
 
-## Arbeitsbereich
-
-Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, Replik, Beweisstation, Tenorierung) als eigener Abschnitt mit ORSA (Obersatz, Regel, Subsumtion, Abschluss). Output Vollrelation bis 20 Seiten, alle Stationen. Abgrenzung: Kurzfassung für Praxis siehe relation-zivil; Schulung siehe schulung-urteilsbauer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -118,14 +114,3 @@ Fragenkatalog am Ende:
 - Normzitate ausgeschrieben (Paragraf 433 Absatz 1 Satz 1 BGB).
 - Keine Abkürzungen wie BGH BVerfG sondern Bundesgerichtshof Bundesverfassungsgericht beim ersten Auftreten ausschreiben.
 
-## Ausgabeformat
-
-Markdown mit klaren Hierarchien (## A Sachbericht ## B Auslegung ...). Bei DOCX-Render-Wunsch kann das Ergebnis mit dem Skill `dokumente-rendern-urteil-docx` als Relations-Dokument im Schul-Layout ausgegeben werden (separater Modus --typ relation).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

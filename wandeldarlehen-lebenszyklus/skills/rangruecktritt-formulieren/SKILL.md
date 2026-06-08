@@ -5,10 +5,6 @@ description: "Rangrücktrittserklärung für Wandeldarlehen formulieren um insol
 
 # Qualifizierten Rangrücktritt formulieren
 
-## Arbeitsbereich
-
-Rangrücktrittserklärung für Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangrücktritt. Prüfraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangrücktrittserklärung Prüfmemo. Abgrenzung: nicht für allgemeine Darlehenskonditionen (darlehenshoehe-konditionen). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,12 +81,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Aufhebungsverbot fehlt | Gläubiger nicht geschützt | Aufhebungsverbot nur schuldrechtlich | Echter Vertrag zugunsten Dritter |
 | § 15b InsO-Klausel fehlt | GF-Haftungsrisiko | Klausel unvollständig | Vollständige Schutzklausel |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/beurkundungserfordernis-pruefung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/sacheinlagebericht-werthaltigkeit/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/post-eintragung-checkliste/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -101,3 +91,4 @@ Stand: 05/2026.
 - § 15b InsO (rechtsformneutrales Zahlungsverbot bei Insolvenzreife seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256; ersetzt § 64 GmbHG a.F. und § 92 II AktG a.F.): https://www.gesetze-im-internet.de/inso/__15b.html
 - SanInsFoG-Gesetzgebungsmaterialien: https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id=%27bgbl120s3256.pdf%27]
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

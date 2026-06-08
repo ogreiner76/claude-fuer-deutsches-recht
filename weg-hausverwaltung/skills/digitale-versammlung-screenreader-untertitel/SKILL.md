@@ -46,14 +46,6 @@ Hybrid (Präsenz + Online-Zuschaltung): Keine Sonder-Beschlussgrundlage erforder
 
 Videoaufzeichnung der Versammlung nur mit ausdrücklicher Einwilligung aller Teilnehmer (DSGVO Art. 6 Abs. 1 lit. a). Fehlt eine Einwilligung, ist Aufzeichnung rechtswidrig. Tonprotokoll als Arbeitsgrundlage für Schriftführer ist weniger problematisch, sofern es danach gelöscht wird. Aufzeichnungsabsicht in der Einladung ankündigen.
 
-## Output
-
-- Technik-Briefing-Vorlage für Versammlungsleiter (Ablauf, Mikro-Regeln, Abstimmungskanal)
-- Live-Untertitel-Aktivierungsanleitung Zoom und Teams (Schritt-für-Schritt)
-- Eröffnungs-Skript mit Barrierefreiheitshinweis (ca. 90 Sekunden gesprochen)
-- Vollmachts-Muster für digitale Versammlungen (Textform-konform)
-- Protokoll-Anhang Barrierefreiheit (was technisch eingesetzt wurde, Beschluss-Basis)
-
 ## Cross-Refs
 
 - BFSG für Portale und Websites → `bfsg-hausverwalter-website-portal-2025`
@@ -65,3 +57,4 @@ Videoaufzeichnung der Versammlung nur mit ausdrücklicher Einwilligung aller Tei
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 23 und § 24 WEG über https://www.gesetze-im-internet.de/woeigg/__23.html live verifizieren. BGH V ZR 33/24 über https://dejure.org abrufen. Zoom- und Teams-Funktionen ändern sich mit Software-Updates — vor jeder Versammlung testen.
+

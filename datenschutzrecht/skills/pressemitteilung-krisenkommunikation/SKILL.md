@@ -29,10 +29,6 @@ Nicht aus Modellwissen; insbesondere zu Sammelklagen und immateriellen Schadense
 
 Art. 5 Abs. 1 lit. a; Art. 34 Abs. 1; Art. 34 Abs. 3 lit. c DSGVO; § 824 BGB.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Pressemitteilung-Bausteine
 
 Headline: sachlich; keine Schuldzuweisung; keine Verharmlosung.
@@ -56,3 +52,4 @@ Sperrfristen: erst nach Information der Betroffenen oder gleichzeitig veröffent
 
 - `dsv-kommunikationssperre` deckt die internen Sprachregelungen ab.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die individuelle Benachrichtigung ab.
+

@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Spediteurrecht national (HGB §§ 45
 
 # Spediteur- und Logistikvertrag
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Spediteurrecht national (HGB §§ 453-466) und international. FIATA-Dokumente (FBL, FCR, FWR), Spediteurslagerschein, Haftungsregimes bei Sammelladung, Haftungsdurchbrechung durch Kenntnis vom Inhalt und Multimodaltransport. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -54,12 +50,3 @@ Der Spediteur organisiert Transporte, schließt im eigenen Namen für Rechnung d
 - FBL für Akkreditive: nur wenn Bank ausdrücklich akzeptiert (UCP 600 Art. 19 Multimodal-Transport-Dokument)
 - ADSp 2017: nur bei nationalen Verträgen; international: FIATA-Bedingungen besser
 
-## Output
-
-- Spediteur vs. Frachtführer Abgrenzungsschema
-- FIATA-Dokumentenübersicht (FBL, FCR, FWR, FIATA Warrant)
-- Haftungs-Flussdiagramm bei unbekanntem Schadensort
-
-## Quellenregel
-
-HGB §§ 453-466: gesetze-im-internet.de. ADSp 2017: dslv.org. FIATA-Dokumente: fiata.org. UCP 600: iccwbo.org. Unsicherheit bleibt sichtbar.

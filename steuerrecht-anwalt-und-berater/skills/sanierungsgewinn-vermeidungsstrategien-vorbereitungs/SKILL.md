@@ -5,10 +5,6 @@ description: "Vermeidungsstrategien Sanierungsertrag in der Praxis: Verlustvortr
 
 # Sanierungsgewinn — Vermeidungsstrategien in der Praxis
 
-## Arbeitsbereich
-
-Vermeidungsstrategien Sanierungsertrag in der Praxis: Verlustvortrag-Maximierung, Debt-Equity-Swap, qualifizierter Rangrücktritt, Besserungsabrede, Sanierungspause. Wann § 3a EStG nicht der einzige Weg ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -197,15 +193,6 @@ Strategie C: Verzicht mit Besserungsabrede
 - Besserungsabrede ohne Bilanz-Vermerk; spätere Buchung unklar.
 - Konzern-Optimierung übersehen — Organschaftsmöglichkeit.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-debt-equity-swap-statt-verzicht`
-- `stb-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg`
-- `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-fruehwarnung-monat-zwoelf-vor-plan`
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG.
@@ -219,3 +206,4 @@ Strategie C: Verzicht mit Besserungsabrede
 - UmwStG (bei konzerninternen Umstrukturierungen).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

@@ -13,10 +13,6 @@ description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, 
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Wenn kein Einzel-Länderskill existiert, baut dieser Skill einen länderbezogenen Prüfpfad aus Matrix, DBA-Text und Einkunftsart.
-
 ## Regionale Risikomuster
 
 | Region | Typische Edge-Cases |
@@ -29,14 +25,6 @@ Wenn kein Einzel-Länderskill existiert, baut dieser Skill einen länderbezogene
 | Lateinamerika | Quellensteuer, technische Dienstleistungen, lokale Formulare, Treaty-Override im Quellenstaat prüfen |
 | Afrika/Nahost | ältere DBA, Bauausführung, Personalentsendung, Sicherheit/Exportkontrolle als Nebenthema |
 | UdSSR/Jugoslawien-Fortgeltung | Staatennachfolge und Anwendbarkeit besonders streng prüfen |
-
-## Output
-
-- Länderfahrplan.
-- Artikel-Mapping.
-- Belegliste.
-- Edge-Case-Hinweise.
-- Warnung, wenn nur ein Sonderabkommen und kein aktuelles Einkommensteuer-DBA greift.
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
@@ -139,10 +127,3 @@ Wenn kein Einzel-Länderskill existiert, baut dieser Skill einen länderbezogene
 | Bearbeitungszeit | 6-8 Wochen | 4-6 Wochen | 2-4 Wochen | variabel | 4-8 Wochen |
 | Online-Antrag | Form 8802 elektronisch | HMRC-Portal | kantonal variabel | TIN-Portal | nicht standardisiert |
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

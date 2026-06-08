@@ -5,10 +5,6 @@ description: "HOAI-Fachfrage: anrechenbare Kosten nach § 4 HOAI, DIN-276-Bezug,
 
 # Anrechenbare Kosten, DIN 276 Und Kostengruppen
 
-## Arbeitsbereich
-
-HOAI-Fachfrage: anrechenbare Kosten nach § 4 HOAI, DIN-276-Bezug, Kostengruppen, ortsübliche Preise, Eigenleistungen, Umsatzsteuer, Kostenberechnung/Kostenschätzung und Honorargrundlage gerichtsfest prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ HOAI-Fachfrage: anrechenbare Kosten nach § 4 HOAI, DIN-276-Bezug, Kostengruppen
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Anwendungsfall: honorar, Abschlag, Schlussrechnung oder Nachtrag davon abhängen, welche Kosten in die HOAI-Berechnung eingehen. Nicht pauschal "Baukosten" übernehmen: anrechenbare Kosten sind eine eigene Prüfgröße.
 
 ## Normanker
 
@@ -35,10 +27,6 @@ Anwendungsfall: honorar, Abschlag, Schlussrechnung oder Nachtrag davon abhängen
 4. Gibt es Eigenleistungen, Materialgestellungen, Rabatte, Gegenrechnung oder vorhandene Bauteile?
 5. Wurde Umsatzsteuer herausgerechnet?
 6. Wird ein Kostenstand als Budget, Kostenobergrenze oder nur als Honorargrundlage missverstanden?
-
-## Output
-
-Erstelle eine Tabelle: Kostenposition, DIN-276-Gruppe, Quelle, anrechenbar ja/nein/teilweise, Begründung, Beleg, Streitrisiko. Am Ende: Honorarfolge und offene Unterlagen.
 
 ## Normen und Rechtsprechung
 
@@ -68,3 +56,4 @@ Erstelle eine Tabelle: Kostenposition, DIN-276-Gruppe, Quelle, anrechenbar ja/ne
 - Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
 - Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
 - Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
+

@@ -291,22 +291,6 @@ Mit rechtskräftiger Bestätigung des Insolvenzplans treten die im **gestaltende
 
 ---
 
-## Querverweise
-
-- `ips-gestaltender-teil` — Aufbau des gestaltenden Teils
-- `ips-darstellender-teil` — Begründung der Übertragung
-- `ips-anlagenpaket` — Verträge, Annexe, Listen
-- `ips-planbetroffene-auswahl` — wer ist betroffen
-- `ips-gruppen-klassenbildung` — Gruppenbildung
-- `ips-cramdown-obstruktion` — Mehrheits-Ersatz bei Widerstand
-- `ips-stakeholder-kommunikation` — Kommunikation mit Betroffenen
-- `ips-sicherheiten-drittsicherheiten` — Sicherheiten-Lastenfreistellung
-- `ips-planvollzug-monitoring` — Vollzug
-- `ips-steuern-bilanz-folgen` — steuerliche Folgen
-- `ips-redteam-qualitygate` — Plausibilität der Klauseln
-
----
-
 ## Mini-Checkliste vor Einreichung des Plans
 
 - [ ] Asset-Inventar mit Zuordnung zu §-254a-fähig vs. nicht
@@ -338,3 +322,4 @@ Bevor losgelegt wird, klaere:
 2. **Rechte Dritter?** Pfandrechte, Sicherungsuebereignungen, Eigentumsvorbehalte an Assets?
 3. **DSGVO?** Kundendaten-Uebertragung: Art. 6 Abs. 1 lit. b DSGVO Vertragsuebernahme oder neue Einwilligung?
 4. **Grundbuch?** Grundstuecks-Auflassung nicht aufschiebbar auf Plan-Vollzug; Grundbuchamt einbinden.
+

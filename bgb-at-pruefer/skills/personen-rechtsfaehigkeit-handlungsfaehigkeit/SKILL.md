@@ -45,13 +45,6 @@ description: "Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und j
 - Nasciturus ist noch nicht rechtsfähig — Rechte entstehen erst mit vollendeter Geburt, wirken zurück.
 - Parteifähigkeit und Prozessfähigkeit im Zivilprozess sind unterschiedliche Voraussetzungen.
 
-## Output
-
-- Gutachtenstil-Abschnitt zu Rechtsfähigkeit und Handlungsfähigkeit
-- Checkliste: Rechtsfähigkeit / Geschäftsfähigkeit / Deliktsfähigkeit / Parteifähigkeit
-- Klausurlösungsskizze mit vollständiger Subsumtion
-- Rückfragenliste zu Geburtsdatum, Geisteszustand und Registereintragung
-
 ## Quellen
 
 - [§ 1 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__1.html)
@@ -81,3 +74,4 @@ Die Gründer haften persönlich für Verbindlichkeiten, die vor der Eintragung e
 - Vor-Gesellschaft: Haftung der Gründer für Verbindlichkeiten?
 - Nasciturus: Bedingte Rechtsfähigkeit für Erbschaft nach § 1923 Abs. 2 BGB?
 - Deliktsfähigkeit nach § 828 BGB — Abweichung von Geschäftsfähigkeit beachten?
+

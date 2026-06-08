@@ -5,10 +5,6 @@ description: "Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsf
 
 # Haftpflichtfall Krankenhaus Gutachtenstrategie
 
-## Arbeitsbereich
-
-Haftpflichtfall Krankenhaus: Behandlungsfehler- oder Aufklaerungsfehler-Vorwurf, Sicherung der Akte, Gutachtenstrategie, BGB-Beweislast (§ 630h), Versicherung, Schiedsstellen der Aerztekammer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,14 +76,6 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 - Gutachter ohne Pruefung der Reputation/Fachrichtung.
 - Strafrechtliche Aspekte ignoriert (Schweigerecht, Beschuldigtenrechte).
 
-## Querverweise
-- `patientenrechte-behandlungsvertrag-aufklaerung`
-- `dokumentation-aufbewahrung-beweislast`
-- `geburtshilfe-haftung-hebammen-schnittstelle`
-- `intensivmedizin-beatmung-verlegung`
-- `triage-notaufnahme-ueberlastung-dokumentation`
-- `compliance-system-klinik-einkauf-forschung-spenden`
-
 ## Quellen Stand 06/2026
 - BGB §§ 280, 630a-630h, 823, 831.
 - StGB §§ 211 ff., 223 ff.
@@ -95,3 +83,4 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 - HeilberG Länder (Live-Check Landesaerztekammern).
 - BGH, staend. Rspr. zu Behandlungsfehler, Aufklaerung, Beweislast.
 - ZPO §§ 142, 411a, 412.
+

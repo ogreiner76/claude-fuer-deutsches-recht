@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Prüft die engen Ausnahmefälle Schmähkritik, Formalbeleidigung und Menschenwürdeangriff. Verhindert, dass Fachgerichte oder Nutzer die Art 5 GG Normalabwägung vorschnell abschneiden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Das ist die engste und schwerste Kategorie: Der Person wird der Würdekern abges
 - Wurde die Einordnung konkret begründet?
 - Sollte hilfsweise trotzdem abgewogen werden?
 
-## Output
-
-- Ausnahme geprüft:
-- Ergebnis:
-- Begründung:
-- Falls keine Ausnahme: Rückkehr zur Normalabwägung mit `abwaegung-art-5-gg`.
-
 ## BVerfG-Linie und Trade-offs
 
 - **BVerfG ständige Rspr.:** Schmähkritik ist eng auszulegen — nur bei reiner Diffamierung ohne Sachbezug. Sachbezug (auch über Ecken) verdrängt regelmäßig den Schmähvorwurf. Vgl. BVerfG, Beschl. v. 19.05.2020 — 1 BvR 2397/19 ("Sterbehilfeverein"), BVerfG, Beschl. v. 19.12.2021 — 1 BvR 1073/20 — Az. live verifizieren.
@@ -72,3 +61,4 @@ Das ist die engste und schwerste Kategorie: Der Person wird der Würdekern abges
 - **Echo (Persönlichkeit, Recht am eigenen Bild, allgemeines Persönlichkeitsrecht):** Art. 2 I iVm Art. 1 I GG; abzuwägen gegen Art. 5 I GG.
 - **§ 188 StGB (Personen des politischen Lebens):** ab 22.09.2021 verschärft; Strafrahmen bis 5 Jahre Freiheitsstrafe.
 - Falle: "Schmähkritik" wird vorgerichtlich oder im Schriftsatz als Kürzel verwendet, BVerfG fordert aber detaillierte Subsumtion. Bei Verstoß: Aufhebung durch BVerfG (Verfassungsbeschwerde lohnt regelmäßig).
+

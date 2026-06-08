@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. 
 
 # Lex Mercatoria im Schiedsspruch
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ ICC-Schiedsgerichte und ICSID-Tribunale haben lex mercatoria und "allgemeine Gru
 - CENTRAL: Prinzipien mit möglichst vielen Schiedsreferenzen auswählen
 - ICC Art. 21: Antrag auf Anwendung PICC als "appropriate rules" mit Begründung
 
-## Output
-
-- Lex-mercatoria-Klausel-Muster (ICC-kompatibel)
-- CENTRAL Top-Prinzipien für Schiedsverfahren
-- Ordre-public-Risikoanalyse für lex-mercatoria-Awards
-
-## Quellenregel
-
-trans-lex.org (CENTRAL). jusmundi.com. iccwbo.org (ICC Regeln). icsid.worldbank.org. NY Convention: newyorkconvention.org. Unsicherheit bleibt sichtbar.

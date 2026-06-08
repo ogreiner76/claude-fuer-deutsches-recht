@@ -5,10 +5,6 @@ description: "Anwaltliche Endkontrolle von KI-Outputs prüfen: § 43 BRAO, § 43
 
 # KI-Output, anwaltliche Endkontrolle und Signatur
 
-## Arbeitsbereich
-
-Anwaltliche Endkontrolle von KI-Outputs prüfen: § 43 BRAO, § 43a BRAO, Mandatsvertrag, Halluzinationen, Quellenprüfung, Schriftsatzsignatur, keine ungeprüfte Übernahme, Mandantenwunsch nach Rohoutput, Qualitätsvermerk und Haftungsprävention. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -71,10 +67,3 @@ Wer einen Schriftsatz unterschreibt oder über das besondere elektronische Anwal
 - Welche Risikopunkte bleiben offen?
 - Wer hat final freigegeben?
 
-## Output
-
-Erstelle einen **Endkontrollvermerk** mit Ampel:
-
-- Grün: verifiziert, taktisch passend, geheimnisschutzrechtlich sauber.
-- Gelb: nutzbar nach Nacharbeit.
-- Rot: nicht verwenden; neue Prüfung oder Spezialist nötig.

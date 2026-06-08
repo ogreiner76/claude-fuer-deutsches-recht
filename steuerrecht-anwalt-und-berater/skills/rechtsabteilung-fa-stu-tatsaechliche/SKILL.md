@@ -55,10 +55,6 @@ Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueb
 
 §§ 40 ff. FGO · § 47 FGO · § 64 FGO · § 65 FGO · § 69 FGO · § 78 FGO · § 96 FGO (Beweiswuerdigung) · § 52 GKG (Streitwert)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
-
 ## Praxisformulierung / Antragsmuster
 
 ```
@@ -93,3 +89,4 @@ Antrag auf Aussetzung der Vollziehung § 69 FGO wird gestellt.
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+

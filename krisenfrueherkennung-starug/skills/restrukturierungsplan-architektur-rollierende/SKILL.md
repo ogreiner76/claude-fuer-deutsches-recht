@@ -204,14 +204,6 @@ ANLAGEN
 
 ---
 
-## Querverweise
-
-- → `cross-class-cram-down-und-absolute-priority` — Durchsetzung gegen ablehnende Gruppen
-- → `stabilisierungsanordnung-und-vollstreckungssperre` — Schutz während Planentwicklung
-- → `restrukturierungsbeauftragter-und-sachwalter` — externe Aufsicht
-- → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Zugangsvoraussetzung
-- → `fortbestehensprognose-zweistufig` — Plananlage Fortführungsprognose
-
 ## Aktuelle Leitentscheidungen — StaRUG-Plan-Architektur
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -227,6 +219,3 @@ ANLAGEN
 3. **Gruppen korrekt?** Homogenitaet je Gruppe sichergestellt?
 4. **Anlagen?** Integrierten Finanzplan, Sanierungsgutachten, Beteiligten-Listen als Anlagen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

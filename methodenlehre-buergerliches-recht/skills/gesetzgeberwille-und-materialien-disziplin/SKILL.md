@@ -54,10 +54,6 @@ description: "Lehrt den methodisch disziplinierten Umgang mit Gesetzgebungsmater
 - Ministerielle Begründungen und amtliche Kommentierungen werden mit parlamentarischem Gesetzgeberwillen gleichgesetzt.
 - Der Unterschied zwischen dem Willen des historischen und des hypothetischen Gesetzgebers wird nicht gemacht.
 
-## Output
-
-Das Skill liefert eine Materialienauswertung: strukturierte Übersicht über relevante Gesetzgebungsdokumente, Einordnung nach Verfahrensrelevanz, Auflösung von Widersprüchen, Extrakt des dokumentierten Gesetzgeberwillens und Formulierungsvorschlag für die historische Auslegungsargumentation. Schriftsatztauglich und revisionsrechtlich verwendbar.
-
 ## Vertiefung: Differenzierung von subjektiver und objektiver Theorie
 
 Die historische Auslegung folgt der subjektiven Theorie, die den Willen des historischen Gesetzgebers in den Mittelpunkt stellt. Die objektive Theorie dagegen fragt nach dem Willen des Gesetzes, wie er sich aus dem Text erschließt. Die herrschende Meinung verbindet beide Ansätze: Der historische Wille ist Ausgangspunkt, kann aber durch objektive Auslegungselemente überlagert werden, wenn der Text eine eigenständige Aussage trägt.
@@ -83,3 +79,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 20 GG bei dejure](https://dejure.org/gesetze/GG/20.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

@@ -5,10 +5,6 @@ description: "Erstellt ein professionelles juristisches Memorandum aus heterogen
 
 # Memorandums-Ersteller
 
-## Arbeitsbereich
-
-Erstellt ein professionelles juristisches Memorandum aus heterogenen Mandantenunterlagen. Anwendungsfall Mandant hat Unterlagen eingereicht und Kanzlei soll Rechtslage in Memorandumsform aufbereiten. Normen rechtsgebietsneutral einsetzbar für Arbeitsrecht Mietrecht Gesellschaftsrecht Vertragsrecht und alle weiteren Gebiete. Prüfraster Vier-Teile-Gliederung Sachverhalt mit Quellenreferenz Fragestellung als Ein-Satz-Fragen Antworten als Ein-Satz-Zusammenfassung Rechtliche Ausführungen mit Anspruchsgrundlage Tatbestandsmerkmale Subsumtion Ergebnis. Identifiziert Widersprueche offene Punkte und bietet Piercing-Questions. Output Strukturiertes Rechtsmemorandum mit Pinpoint-Zitierung aktueller Rechtsprechung. Abgrenzung zu kanzlei-allgemein-schreibcanvas und kanzlei-allgemein-schriftsatz-turbo. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,9 +34,6 @@ Erstellt ein professionelles juristisches Memorandum aus heterogenen Mandantenun
 2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Leitidee
 
 Strukturierte Sachverhaltsaufbereitung ist das Fundament jeder
@@ -148,9 +141,6 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 Juengere Entscheidungen stehen zuerst.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pinpoint-Zitierung Aufsätze
 
 Format: Autor Titel Zeitschrift Jahr Anfangsseite konkrete Seite.
@@ -243,3 +233,4 @@ zulässig. Der Skill weist im Output-Hinweis darauf hin.
 Vorkommen 1: Rechtsprechungsliste Eintrag Nr. 1 geloescht, Nummerierung korrigiert (3->2, 4->3).
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

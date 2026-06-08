@@ -147,14 +147,6 @@ Verzicht Gesellschafterdarlehen Kommanditist A
 - Verzicht des Gesellschafters fälschlich als § 3a EStG-Sachverhalt; in Wirklichkeit verdeckte Einlage.
 - Aufgabe Betrieb und § 3a Abs. 1 EStG-Antrag — fehlende Unternehmensfortführung.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-personengesellschaft-und-mitunternehmer`
-- `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-- `stb-sanierungsgewinn-liquidation-nachrang-fg-koeln`
-- `stb-sanierungsgewinn-debt-equity-swap-statt-verzicht`
-
 ## Quellen Stand 06/2026
 
 - § 3a Abs. 1, 2, 4, 5 EStG.
@@ -164,3 +156,4 @@ Verzicht Gesellschafterdarlehen Kommanditist A
 - §§ 286 ff. InsO (Restschuldbefreiung).
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

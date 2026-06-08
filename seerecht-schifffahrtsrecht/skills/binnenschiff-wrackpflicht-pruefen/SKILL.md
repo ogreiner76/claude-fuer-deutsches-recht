@@ -43,9 +43,6 @@ Ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff sinkt in deutschen Gewä
 - Behoerdliche Ersatzvornahme begründet Kostenerstattungsanspruch mit Vorrang.
 - Bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff unter Auslandsflagge kommen Flaggenstaat-Pflichten hinzu.
 
-## Output
-WRC-Pflichtenanalyse und Kostenrisiko-Vermerk für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
-
 ## Vertiefung: Nairobi WRC 2007 im Überblick
 Das Nairobi Wrack-Übereinkommen (WRC 2007) trat international 2015 in Kraft; Deutschland hat es 2013 ratifiziert und durch das Wrackbeseitigungsgesetz (WSG) umgesetzt. Es gilt für Wracks in der AWZ und dem Küstenmeer von Vertragsstaaten; für Wracks auf der Hohen See gelten nur nationale Normen. Kernpflicht: Eigentümer muss das Wrack melden; markieren; und beseitigen oder beseitigen lassen.
 
@@ -99,3 +96,4 @@ Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Ar
 - WRC 2007 IMO: https://www.imo.org/en/About/Conventions/Pages/Nairobi-International-Convention-on-the-Removal-of-Wrecks.aspx
 - BSH: https://www.bsh.de
 - MARPOL IMO: https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx
+

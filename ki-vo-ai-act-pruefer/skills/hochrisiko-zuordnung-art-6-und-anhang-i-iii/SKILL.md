@@ -5,10 +5,6 @@ description: "Gesamtuebersicht zur Hochrisiko-Zuordnung nach Art. 6 KI-VO: Art. 
 
 # Hochrisiko-Zuordnung — Art. 6 KI-VO und Anhang I/III
 
-## Zweck
-
-Dieser Skill gibt die Gesamtübersicht zur Hochrisiko-Einstufung. Er entscheidet nicht endgültig, sondern leitet in die passenden Detailprüfungen.
-
 ## Zwei Hochrisiko-Pfade
 
 ### Pfad 1 — Art. 6 Abs. 1
@@ -80,10 +76,3 @@ Nächste Skills: [...]
 
 Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 12/13/23, Art. 6 und Anhang I/III KI-VO. Keine Rechtsberatung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähri
 
 # Taschengeldparagraph — § 110 BGB
 
-## Arbeitsbereich
-
-Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,3 +89,4 @@ bezahlt wird und die restlichen Raten noch offen sind.
 - Vollständige Leistungsbewirkung aus diesen Mitteln?
 - Ratenkauf: Alle künftigen Raten aus freien Mitteln bestreitbar?
 - Zweckgebundene Mittel ausgeschieden: Schulbuch-Geld, Ausbildungsgelder?
+

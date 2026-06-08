@@ -98,12 +98,6 @@ Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung d
 - Schwarzarbeit-Verdacht.
 - AN-Klage auf Lohndifferenz (§ 612a BGB).
 
-## Output
-
-- Aktuelle MiLo-Uebersicht.
-- Mandanten-Information bei Aenderung.
-- Aktualisierte DATEV-Stammdaten.
-
 ## Strategie und Praxis-Tipps
 
 - MiLo-Updates jaehrlich zum 1. Januar zwingend einspielen.
@@ -112,13 +106,6 @@ Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung d
 - Bei tariflich gebundenen Branchen tarifvertraglichen Mindestlohn pruefen.
 - StBVV: Information ueber Anpassungen in Mandantenkommunikations-Pauschale.
 - DATEV-Tipp: DATEV-Update mit neuem MiLo zum 1. Januar einspielen.
-
-## Querverweise
-
-- `stb-lohn-mini-midi-grenzen-2026-stand` — Mini-/Midi-Grenzen.
-- `stb-lohn-minijob-538-euro-2024-anpassung` — Minijob.
-- `stb-lohn-aufzeichnungspflichten-milog` — MiLoG.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
 
 ## Quellen und Updates
 
@@ -132,10 +119,3 @@ Stand: 05/2026.
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 3 bestaetigt (MiLoV3 BGBl. 2023 I Nr. 321, 12,82 EUR eingesetzt), 1 ersetzt (2026-Wert als noch nicht festgesetzt ausgewiesen) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: 13,90 EUR (2026) und 14,60 EUR (2027) bestaetigt, BGBl. 2025 I Nr. 268/312 -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Bau- und Ladenbau-Pflichten im Franchisesystem regeln: Pflichtauss
 
 # Franchiserecht: Bau- und Ladenbau-Pflichten
 
-## Arbeitsbereich
-
-Bau- und Ladenbau-Pflichten im Franchisesystem regeln: Pflichtausstattung nach Systemhandbuch, Kostenverteilung zwischen Franchisegeber und Franchisenehmer, Baugenehmigungsrisiken, Gewährleistungsrecht und Investitionsschutz bei Systemänderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisenehmer hat seinen Standort nach Systemvorgaben ausgebaut. Der Franc
 - Systemausstattung des Franchisegebers ist mangelhaft; ohne vertragliche Regelung bleibt der Franchisenehmer auf Gewährleistungsansprüchen gegen Dritte sitzen.
 - Umbau-Pflichten sind so weitgehend, dass sie faktisch die gesamte Erstinvestition entwerten.
 
-## Output
-
-- Ladenbau-Pflichten-Checkliste
-- Kostenverteilungsklausel (AGB-konformer Entwurf)
-- Umbau-Anforderungsplan mit Fristenrechnung
-- Investitionsschutz-Memo
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/631.html
@@ -71,6 +60,7 @@ Ein Franchisenehmer hat seinen Standort nach Systemvorgaben ausgebaut. Der Franc
 - https://dejure.org/gesetze/BGB/242.html
 - https://dejure.org/gesetze/BGB/280.html
 - https://gesetze-im-internet.de/bbaug/
+
 ## Vertiefung
 
 Der Ladenbau ist eine der grössten Investitionen eines Franchisenehmers und hat direkten Einfluss auf den Wert seines Unternehmens. Wenn der Franchisegeber kurz nach kostspieligen Ausbaumassnahmen das CI-Konzept ändert und den Franchisenehmer zur Umrüstung verpflichtet, entsteht ein ernsthafter Interessenkonflikt.
@@ -84,9 +74,11 @@ Gerichte haben wiederholt entschieden, dass CI-Änderungspflichten, die den Fran
 - Kostenbeteiligung des Franchisegebers an Modernisierungen vertraglich vereinbaren (z. B. Zuschuss pro Jahr Restlaufzeit).
 - Baugenehmigungsverantwortung klar zuordnen; Regelung: Franchisenehmer als Bauherr ist zuständig.
 - Rückbaukosten im Verhältnis zur Nutzungsdauer aufteilen; Vollrückbau nach kurzer Nutzung ist unverhältnismässig.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
 
 ## Normen und Rechtsprechung

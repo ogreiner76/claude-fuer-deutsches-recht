@@ -5,10 +5,6 @@ description: "Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buc
 
 # Verl-028 · Schulbuch: Zulassung und öffentliche Beschaffung
 
-## Arbeitsbereich
-
-Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buchpreisbindung im Schulbuchsektor — Länderverfahren, Vergaberecht, Konditionenpraxis und Förderrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -118,3 +114,4 @@ Der Schulbuchmarkt unterliegt neben dem allgemeinen Verlagsrecht zusätzlichen *
 - **Vergaberechts-Check**: Ausschreibungsangebot auf Preisbindungs-Compliance geprüft
 - **Lehrplan-Übereinstimmungs-Matrix**: Fach, Klasse, Bundesland
 - **Digitales-Schulbuch-Checkliste**: DSGVO, Barrierefreiheit, Plattformzertifizierung
+

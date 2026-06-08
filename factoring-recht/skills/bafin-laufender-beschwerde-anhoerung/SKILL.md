@@ -120,13 +120,6 @@ Fragen zum Einstieg:
 - **Trade-Receivables-Securitization**: Verkauf an SPV mit ABS-Strukturierung – Aufsicht trifft sowohl Originator (Verkäufer) als auch SPV; § 18a KWG zu Verbriefungen beachten.
 - **PSD2/PSD3-Bezug**: Sobald Kontoinformationsdienste eingebunden sind, greift ZAG.
 
-## Querverweise
-
-- `aufsichtsrechtliche-schnellampel-kwg-zag`
-- `erlaubnisantrag-32-kwg-unterlagen-geschaeftsleiter`
-- `beschwerde-und-anhoerung-bafin-factoring`
-- `factoringtyp-true-false-reverse-maturity`
-
 ## Quellen Stand 06/2026
 
 - KWG § 1 Abs. 1a Satz 2 Nr. 9, § 2, § 32, § 33, § 54.
@@ -134,3 +127,4 @@ Fragen zum Einstieg:
 - Gesetzesbegründung zum Jahressteuergesetz 2009 (Einführung des Factoring-Tatbestands).
 - BaFin-Veröffentlichungen zur Praxis der Erlaubnisverfahren.
 - BVerwG zu Untersagungsverfügungen bei erlaubnislosem Betrieb (jeweils prüfen).
+

@@ -5,10 +5,6 @@ description: "Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: 
 
 # Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler?
 
-## Arbeitsbereich
-
-Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: Abgrenzung Handelsvertreter vom Vertragshändler, analoge Anwendung des § 89b HGB auf Kfz-Vertragshändler nach BGH-Rechtsprechung, Hersteller-Händler-Verträge und markenrechtliche Bindungen im Automobilvertrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Ausgleichsanspruch ohne fristgerechte Anmeldung nach § 89b Abs. 4 HGB erloschen.
 - GVO Kfz-Vertrieb enthält besondere Wettbewerbsregeln, die für Handelsvertreter nicht gelten.
 
-## Output
-
-Qualifikationsgutachten Handelsvertreter vs. Vertragshändler, Ausgleichsberechnung, Klageschriftentwurf.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [GVO 461/2010 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32010R0461)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [BGH Rechtsprechung Openjur](https://openjur.de/)
+

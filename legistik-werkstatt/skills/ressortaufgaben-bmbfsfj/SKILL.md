@@ -15,68 +15,6 @@ description: "Ressortaufgaben BMBFSFJ: typische Legistik-Aufgaben im Geschaeftsb
 - Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
 - Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
 
-## Vorgehen
-
-### Schritt 1 - Vorhabenart einordnen
-
-| Vorhabenart | Zuständigkeit im BMBFSFJ | Vorlageweg |
-|---|---|---|
-| Eckpunktepapier | Fachreferat plus Hausleitung | Hausintern; ggf. Ressortbesprechung |
-| Referentenentwurf | Fachreferat fuehrt; Hauspruefung (Z; ZA; ZB) | Verbaendeanhoerung; Ressortabstimmung |
-| Kabinettsentwurf | Hausleitung legt vor | Staatssekretaersausschuss; Kabinettsvorlage |
-| Rechtsverordnung | Fachreferat plus ggf. Bundesrat-Zustimmung | RV-Vorlage; ggf. Bundesrat |
-| Aenderungsantrag aus der Mitte | Fraktion zusammen mit BMBFSFJ | Bundestagsausschuss |
-
-### Schritt 2 - Begruendungspflichten klaeren
-
-- **Allgemeiner Teil:** Anlass; Zielsetzung; wesentliche Inhalte; Alternativen; Erfuellungsaufwand
- (Buerger; Wirtschaft; Verwaltung); weitere Kosten; KMU-Belange; Nachhaltigkeit; weitere Folgen.
-- **Besonderer Teil:** Begruendung je Artikel und Absatz; Bezug zu Kernnormen (BAfoeG; BBiG; KJHG (SGB VIII); BEEG; UnterhVG; AGG; LFGB; LPartG.).
-- Skill-Anschluss: `begruendung-allgemein-und-besonders` und `folgenabschaetzung-erfuellungsaufwand`.
-
-### Schritt 3 - Verbaendeanhoerung nach GGO Paragraf 47
-
-Im Geschaeftsbereich BMBFSFJ sind typische Beteiligte:
-
-- Spitzenverbaende der Materie (siehe `legw-bmbfsfj-schul-und-berufsbildungsrecht` und folgende)
-- Länder (Bundesrat-Spiegel; KOM-Vertreter)
-- Wissenschaftliche Sachverstaendige und Beiraete des BMBFSFJ
-- EU-Generaldirektion (bei EU-Bezug)
-- Bei Eingriff in Grundrechte: Datenschutzkonferenz; Bundesbeauftragte; ggf. EDSA
-
-Anhörungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
-
-### Schritt 4 - Ressortabstimmung und Mitzeichnung
-
-- **Mitzeichnende Ressorts** typisch für BMBFSFJ-Vorhaben: BMI (Verwaltung), BMF
- (Haushalt), BMJV (Pruefung Rechtsfoermlichkeit), BMWE (Wirtschaftsbezug), BMDS (Digital);
- weitere ressortabhaengig.
-- **Streitschlichtung:** Staatssekretaersrunde; im Ernstfall Chefsache.
-- Skill-Anschluss: `verbaendeanhoerung-ressortabstimmung`.
-
-### Schritt 5 - NKR und Erfuellungsaufwand
-
-- **Nationaler Normenkontrollrat:** Stellungnahme nach Paragraf 4 NKRG; Stellungnahme drueckt die
- Berechnung des Erfuellungsaufwands auf Plausibilitaet.
-- Skill-Anschluss: `normenkontrollrat-kmu-check` und `legw-rechtsfolgenabschaetzung-leitfaden`.
-
-### Schritt 6 - Kabinettsweg
-
-- Kabinettsvorlage gemaess GGO Paragraf 22 mit Begruendung; Verbaendeauswertung; Ressort-
- abstimmungsergebnis; NKR-Stellungnahme; ggf. Beschlussfassung im Staatssekretaersausschuss.
-- Skill-Anschluss: `gesetzesentwurf-kabinett` und `spezial-kabinettsentwuerfe-compliance-dokumentation-und-akte`.
-
-### Schritt 7 - Bundestag und Bundesrat
-
-- **Initiativweg:** Bundesregierung (Art. 76 Abs. 1 GG) oder aus der Mitte (Fraktion).
-- **Bundesrat-Beteiligung:** Zustimmungs- oder Einspruchsgesetz; pruefen ueber
- `spezial-bundestag-fristen-form-und-zuständigkeit` und `gesetzgebungskompetenz-pruefen`.
-- **Fachausschuss im Bundestag** (BMBFSFJ-Spiegel).
-
-### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
-
-Nachgeordnete Behörden des BMBFSFJ im Vollzug einbinden. Vollzugsfolgen pruefen.
-
 ## Normenanker
 
 Arbeitsfokus: **Ressortaufgaben BMBFSFJ**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -92,31 +30,9 @@ Arbeitsfokus: **Ressortaufgaben BMBFSFJ**. Prüfe diese Anker am Sachverhalt; er
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-Aufgabenmatrix:
-
-```
-Ressort: BMBFSFJ
-Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende: <Liste>; Frist 4 Wochen
-Mitzeichner: <BMF;BMI;BMJV;...>
-NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett: ja|nein; Vorlage-Schwerpunkt
-Bundesrat: Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT: BMBFSFJ-Spiegel
-Aufsicht/Vollzug: <Behörde>; Vollzugsfolgen
-Naechste Skills: legw-bmbfsfj-<thema>; normhierarchie-routing
-```
 
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

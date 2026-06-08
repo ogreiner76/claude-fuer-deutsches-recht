@@ -67,25 +67,7 @@ Arbeitsfokus: **Kuenstliche Intelligenz und Technikregulierung (BMFTR)**. Prüfe
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Kuenstliche Intelligenz und Technikregulierung
-Ressort: BMFTR
-Kernnormen: KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.
-Akteure/Aufsicht: BSI; Marktueberwachung der Länder; BNetzA; ggf. KI-Marktaufsicht.
-EU/Voelkerrecht: KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
 
 ## Anschluss an die Legistik-Kette
 
@@ -95,6 +77,3 @@ Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

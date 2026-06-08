@@ -5,10 +5,6 @@ description: "Verlagsrecht: Titelschutz für Werktitel, Reihennamen und Zeitschr
 
 # Verl-015 · Titelschutz: Werktitel und Reihenname
 
-## Arbeitsbereich
-
-Verlagsrecht: Titelschutz für Werktitel, Reihennamen und Zeitschriftentitel — UrhG § 5, MarkenG § 5, UWG-Titelschutz, Kollisionsrisiken und Durchsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -132,3 +128,4 @@ Der **Titelschutz** schützt die Bezeichnung eines Werks, einer Reihe oder einer
 - **Titelschutzanzeige-Entwurf** für Börsenblatt
 - **Abmahnungsentwurf** bei fremder Titelnutzung
 - **Verteidigungsschrift** gegen Titelschutz-Abmahnung
+

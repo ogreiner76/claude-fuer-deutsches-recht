@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Einbeziehung von AGB im grenzübersc
 
 # Standard Terms im grenzüberschreitenden Handel
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Einbeziehung von AGB im grenzüberschreitenden B2B-Handel. Unterschiede CISG-Regime vs. nationales AGB-Recht, Sprachanforderungen, Überraschungsklauseln (PICC Art. 2.1.20) und branchenspezifische Standardbedingungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Allgemeine Geschäftsbedingungen (AGB) im internationalen B2B-Handel unterliegen
 - Inhaltskontrolle: Vertragsstatut bestimmt welche AGB-Kontrolle gilt (IPR-Frage)
 - Branchenstandards: Nur nach Art. 9 Abs. 2 CISG wenn allgemein bekannt und regelmäßig beachtet
 
-## Output
-
-- AGB-Einbeziehungsklausel-Muster (CISG-kompatibel)
-- Checkliste: Überraschungsklausel-Test (PICC Art. 2.1.20)
-- AGB-Sprachanforderungen-Übersicht
-
 ## Quellenregel
 
 CISG Art. 8-9: uncitral.un.org. PICC Art. 2.1.19-2.1.22: unidroit.org. BGB §§ 305-310: gesetze-im-internet.de. BGH VIII ZR 274/98: dejure.org. Unsicherheit bleibt sichtbar.
+

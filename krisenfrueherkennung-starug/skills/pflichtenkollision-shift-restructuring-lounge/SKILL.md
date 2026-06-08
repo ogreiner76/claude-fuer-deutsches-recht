@@ -5,10 +5,6 @@ description: "Pflichtenkollision Und Shift Of Fiduciary Duties: ordnet Normen, N
 
 # Pflichtenkollision und Shift of Fiduciary Duties in der Krise
 
-## Arbeitsbereich
-
-Pflichtenkollision Und Shift Of Fiduciary Duties: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,37 +93,6 @@ In der Krise entsteht häufig eine direkte Pflichtenkollision:
 
 ---
 
-## Vorgehen
-
-### Schritt 1: Pflichtenstatus-Check bei Kriseneintritt
-
-Bei Auftreten erster Krisensignale sofort prüfen:
-
-- [ ] In welchem Krisenstadium befindet sich das Unternehmen?
-- [ ] Liegt drohende Zahlungsunfähigkeit vor? → Spezialisten hinzuziehen
-- [ ] Wem gegenüber bin ich primär verpflichtet? (Shift prüfen)
-- [ ] Welche Weisungen der Gesellschafter sind noch befolgbar?
-- [ ] Gibt es laufende Intercompany-Zahlungen, die zu prüfen sind?
-
-### Schritt 2: Dokumentation des Pflichtenrahmens
-
-Sobald der Shift eingetreten ist, dokumentieren:
-
-1. Zeitpunkt der Erkenntnis
-2. Rechtliche Einschätzung (intern oder extern)
-3. Änderung der internen Entscheidungsmatrix
-4. Information an Gesellschafter über geänderte Pflichtenlage
-
-### Schritt 3: Intercompany-Zahlungen prüfen
-
-Zahlungen an verbundene Unternehmen in der Krise sind besonders gefährlich:
-
-- Upstream-Garantien an Muttergesellschaft: Haftungsrisiko § 30 GmbHG, § 15b InsO
-- Konzernumlagen: Marktüblichkeit prüfen
-- Cash-Pooling: Rückforderbarkeit sicherstellen
-
----
-
 ## Templates
 
 ### Muster: Pflichtenstatus-Memo für Geschäftsführer-Akte
@@ -176,14 +141,6 @@ Erstellt von: ___________________
 
 ---
 
-## Querverweise
-
-- → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF-Haftung im Überblick
-- → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — § 15a InsO
-- → `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — Krisenstadien-Diagnostik
-- → `fortbestehensprognose-zweistufig` — Fortführungsprognose als Pflichtanker
-- → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Beweissicherung
-
 ## Triage — Erste Einordnung
 
 Bevor losgelegt wird, klaere:
@@ -191,3 +148,4 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+

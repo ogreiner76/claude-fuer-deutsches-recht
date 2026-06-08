@@ -5,10 +5,6 @@ description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat C
 
 # Charterparty – Kaufvertrag scopen
 
-## Arbeitsbereich
-
-Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer scopet Kaufvertrag für Gechartertes Seeschiff unter Charterparty: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Ein Investor kauft ein Gechartertes Seeschiff unter Charterparty; Risiken aus Al
 - Kaeufer haftet mit Gechartertes Seeschiff unter Charterparty für Altschulden bis zur Loeschung.
 - Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
 - Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
-
-## Output
-Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste für Gechartertes Seeschiff unter Charterparty.
 
 ## Vertiefung: Wesentliche Kaufvertragsklauseln im Schiffskauf
 International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen Kaufrechtsregeln (BGB §§ 433-479). Bei internationalem Schiffskauf empfiehlt sich die ausdrückliche Rechtswahl (z.B. englisches Recht) im Vertrag, um CISG-Anwendung zu vermeiden.
@@ -88,3 +81,4 @@ Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassem
 - BGB §§ 433-479: https://dejure.org/gesetze/BGB/433.html
 - HGB §§ 480 ff.: https://dejure.org/gesetze/HGB/480.html
 - openjur Schiffskaufstreit: https://www.openjur.de
+

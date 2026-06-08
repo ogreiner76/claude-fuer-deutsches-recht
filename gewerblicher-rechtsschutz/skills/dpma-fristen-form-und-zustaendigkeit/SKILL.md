@@ -5,10 +5,6 @@ description: "DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zustän
 
 # Spezial: DPMA – Fristen, Form und Zuständigkeit
 
-## Arbeitsbereich
-
-DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -137,18 +133,10 @@ Mandatsbezug: Anwalt fragt: Wann muss ich Widerspruch einlegen? Was ist die korr
 - **Jahresgebühr nicht bezahlt:** Patent verfällt; Wiedereinsetzung nur bei entschuldbarem Versäumnis.
 - **Zeichendarstellung unzureichend:** Anmeldung zurückgestellt bis Nachbesserung.
 
-## Quellenregel
-
-- [DPMA – dpma.de](https://www.dpma.de)
-- [MarkenG – gesetze-im-internet.de](https://www.gesetze-im-internet.de/markeng/)
-- [PatG – gesetze-im-internet.de](https://www.gesetze-im-internet.de/patg/)
-- [§ 42 MarkenG – dejure.org](https://dejure.org/gesetze/MarkenG/42.html)
-- DPMA-Gebühren: [dpma.de/service/gebuehren](https://www.dpma.de/service/gebuehren/index.html)
-- Keine BeckRS-Blindzitate; Gebühren und Fristen laufend über DPMA-Website prüfen.
-
 ## Anschluss-Skills
 
 - `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
 - `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `markenanmeldung-dpma` – DPMA-Anmeldung im Detail
+

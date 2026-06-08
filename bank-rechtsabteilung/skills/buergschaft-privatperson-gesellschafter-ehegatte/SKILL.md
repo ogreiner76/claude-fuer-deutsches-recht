@@ -5,10 +5,6 @@ description: "Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Ba
 
 # Buergschaft Privatperson Gesellschafter Ehegatte
 
-## Arbeitsbereich
-
-Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Bankensicht prüfen: Schriftform, krasse finanzielle Überforderung, Sittenwidrigkeit, Verbraucherschutz, Aufklärung, Sicherheitenwert und Prozessrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Bankensicht prü
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für Buergschaft Privatperson / Gesellschafter / Ehegatte — Wirksamkeit und Sittenwidrigkeit.
 
 ## Norm
 
@@ -56,7 +48,3 @@ Skill für Buergschaft Privatperson / Gesellschafter / Ehegatte — Wirksamkeit 
 3. Tilgungsfaehigkeit?
 4. Sittenwidrigkeit?
 
-## Output
-
-- Wirksamkeitspruefung.
-- Klage bei Inanspruchnahme.

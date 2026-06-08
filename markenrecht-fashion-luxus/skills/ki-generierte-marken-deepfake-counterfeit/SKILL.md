@@ -5,10 +5,6 @@ description: "KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit
 
 # KI-generierte Markenverletzungen und Deepfake-Counterfeit
 
-## Arbeitsbereich
-
-KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen prüfen: synthetische Produktbilder, Fake-Shops, Brand-Impersonation, Plattformmeldungen, DSA, AI-Act-Schnittstelle und Beweissicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen pr�
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Bewerte neue Verletzungsformen, bei denen KI Bilder, Shops, Anzeigen, Stimmen, Models oder Produktwelten erzeugt, die eine Marke ausnutzen oder nachahmen.
 
 ## Intake
 
@@ -41,13 +33,7 @@ Bewerte neue Verletzungsformen, bei denen KI Bilder, Shops, Anzeigen, Stimmen, M
 4. **Beweis:** Screenshots, Video, Metadaten, Testkauf, Zahlungsweg, DNS/WHOIS, Archiv.
 5. **Maßnahmenmix:** Plattformmeldung, Domain/Hoster, Zahlungsdienstleister, Abmahnung, eV, Strafanzeige bei Fälschungen.
 
-## Output
-
-- Verletzungs- und Maßnahmenmatrix.
-- DSA-Meldung.
-- Eilantrags-Belegliste.
-- Krisenkommunikationshinweis.
-
 ## Warnung
 
 Nicht jede KI-Nähe ist Markenverletzung. Entscheidend bleibt konkrete kennzeichenmäßige Ausnutzung oder Irreführung.
+

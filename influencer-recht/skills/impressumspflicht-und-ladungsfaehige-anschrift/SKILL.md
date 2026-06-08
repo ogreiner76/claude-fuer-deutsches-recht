@@ -5,10 +5,6 @@ description: "Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 
 
 # Influencer-Recht: Impressumspflicht und ladungsfähige Anschrift
 
-## Arbeitsbereich
-
-Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 18 MStV, ladungsfähige Anschrift, Pflichtangaben und Datenschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Jeder Creator mit geschäftsmäßig genutztem Account benötigt ein Impressum:
 - Checkliste: Impressum auf allen Plattformen prüfen
 - Abmahnreaktions-Schreiben (Impressumsmangel)
 - Postadress-Alternativen (Datenschutz-konform)
+

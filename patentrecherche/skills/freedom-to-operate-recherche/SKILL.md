@@ -5,10 +5,6 @@ description: "Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkret
 
 # freedom-to-operate-recherche
 
-## Arbeitsbereich
-
-Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in Kraft befindliche** Patente und Gebrauchsmuster Dritter im Zielmarkt deren Schutzbereich nach § 14 PatG Art. 69 EPUe das Produkt erreichen koennte. Anders als Stand-der-Technik-Recherche: Filter auf erteilte und rechtsstandfähige Schutzrechte (DPMAregister EPO Register Status erteilt nicht erloschen), Territorium passt zum Zielmarkt, Schutzbereich passt zum Produkt. Liefert Risiko-Ampel pro Treffer rot gelb gruen mit Begründung Pinpoint auf Hauptanspruch und Empfehlung Vermeidung Lizenz Vernichtungsklage Nichtigkeitsklage. Disclaimer keine Rechtsberatung kein Ersatz für Patentanwaltsbewertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts od
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 139, EPÜ Art. 54, 56, 64, 69, 87 ff., Straßburger IPC-Abkommen, PCT, Espacenet-Datenbankzugriff, DEPATISnet-Bedingungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Bevor die Mandantin ein Produkt auf den Markt bringt oder ein Verfahren einführt, muss geprüft werden, ob **fremde Patente** den Markteintritt blockieren könnten. Anders als bei der Stand-der-Technik-Recherche geht es nicht um Patentierbarkeit, sondern um **Verletzungsrisiko**.
 
 ## Abgrenzung
 
@@ -120,3 +112,4 @@ Bevor die FTO-Analyse begonnen wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

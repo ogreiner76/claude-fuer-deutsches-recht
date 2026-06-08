@@ -113,9 +113,6 @@ Algorithmen-Untersuchung kann zugleich als Erforschung eines KI-Systems im Sinne
 - Delegierte VO (EU) 2024/2987 — Verfahren und Bedingungen Forschungsdatenzugang
 - Art. 39 DSA — Werbetransparenz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Wer ist der Mandant: Plattform (Pflichtenseite) oder Forscher/Behörde (Anspruchsseite)?
@@ -143,3 +140,4 @@ DSGVO-Aspekte: [PERSONENBEZUG JA/NEIN; WENN JA: RECHTSGRUNDLAGE]
 
 Entscheidung beantragt bis: [FRIST]
 ```
+

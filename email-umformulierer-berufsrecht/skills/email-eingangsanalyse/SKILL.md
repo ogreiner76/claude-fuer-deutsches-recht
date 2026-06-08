@@ -26,9 +26,6 @@ Dieser Skill analysiert einen eingegangenen E-Mail-Text systematisch auf emotion
 - § 241 StGB — Bedrohung: bei Drohungen Dokumentationspflicht und ggf. Strafanzeige erwaegen
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht: Gegenschreiben darf keine neuen Verletzungen setzen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Analyseebenen
 
 Die Eingangsanalyse untersucht den Text auf vier Ebenen: sprachliche Auffälligkeiten (Schimpfwörter, Großbuchstaben, übermäßige Satzzeichen), rhetorische Stilmittel (Sarkasmus, Ironie, Übertreibung), inhaltliche Vorwürfe (Kompetenzabsprache, Unterstellungen, Drohungen) sowie strukturelle Mängel (fehlende sachliche Begründung, reine Emotionsäußerung ohne Kernbotschaft).
@@ -56,6 +53,3 @@ Die wichtigsten emotionalen Trigger sind: Großschreibung ganzer Wörter oder S�
 **Vorher:** "Ihre Kollegin hat mir versprochen, dass das erledigt wird. Offenbar sind dort alle unfähig."
 **Nachher (Analyse):** Konfliktgrad mittel-hoch. Trigger: Pauschalurteil, Kompetenzabsprache. Kern: Unerfüllte Zusage eines Mitarbeiters; Klärungsbedarf.
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Tabellarische Trigger-Liste mit Zitat, Trigger-Typ und Einordnung. (2) Konfliktgrad-Einschätzung (gering/mittel/hoch) mit Begründung. (3) Sachlicher Kerninhalt in einem Satz. (4) Empfehlung, welche weiteren Skills zur Umformulierung einzusetzen sind.

@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arb
 
 # Notfallschiedsrichter (Emergency Arbitrator)
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arbitrator) nach ICC Art. 29/Appendix V, LCIA Art. 9B, SIAC Schedule 1. Voraussetzungen, Verfahrensablauf, Vollstreckbarkeit und Verhältnis zu staatlichen einstweiligen Maßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Der Emergency Arbitrator (EA) ermöglicht einstweiligen Rechtsschutz vor Bildung
 - Vollstreckung: parallel staatlichen Vollstreckungsantrag in Zielland vorbereiten
 - Hauptschiedsgericht: EA-Maßnahme in erstem verfahrensleitendem Beschluss bestätigen lassen
 
-## Output
-
-- EA-Antrag-Checkliste (ICC und LCIA)
-- EA vs. staatlicher einstweiliger Rechtsschutz Vergleich
-- EA-Vollstreckbarkeits-Matrix (Länderübersicht)
-
-## Quellenregel
-
-ICC Appendix V: iccwbo.org. LCIA Regeln 2020: lcia.org. SIAC Schedule 1: siac.org.sg. § 1041 ZPO: gesetze-im-internet.de. Schrifttum: Born, International Commercial Arbitration (2021) Kap. 17. Unsicherheit bleibt sichtbar.

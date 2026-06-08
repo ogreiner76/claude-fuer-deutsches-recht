@@ -5,10 +5,6 @@ description: "Pflicht-Pre-Check vor jedem ausgehenden Versand — prüft Dokumen
 
 # Versand-Vor-Check (Pflicht vor jedem Versand)
 
-## Arbeitsbereich
-
-Pflicht-Pre-Check vor jedem ausgehenden Versand — prüft Dokumentidentität (das richtige PDF? Stand vom richtigen Datum? Aktenzeichen passt?) Unterschrift (durch berechtigte Person? eigenhaendig oder qualifizierte elektronische Signatur?) Adressat (richtiges Gericht / Behörde / Mandant? richtige Adresse beA-SAFE-ID EGVP-Adresse?) Anlagen (vollständig? im Inhaltsverzeichnis aufgeführt? Sigel richtig?) Versandweg (Post / beA / EGVP / E-Mail / De-Mail). Versandquittung sichern. Audit-Eintrag. Bei Mangel Versand sperren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -32,9 +28,6 @@ Pflicht-Pre-Check vor jedem ausgehenden Versand — prüft Dokumentidentität (d
 - § 253 Abs. 4 ZPO — Anlagen sind dem Schriftsatz beizufuegen
 - § 43 BRAO — Sorgfaltspflicht: Versand-Vor-Check als anwaltliche Pflicht
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflicht
 
 Jeder ausgehende Versand der Kanzlei muss diesen Check durchlaufen. Fehlversand ist anwaltliche Pflichtverletzung mit Haftungsrisiko.
@@ -143,3 +136,4 @@ quittung-pdf: mandate/2026-0042/03_schriftsaetze/2026-05-20-versand-quittung.pdf
 - Versand-Audit-Eintrag in `versand-audit.jsonl` (append-only).
 - Quittungs-PDF unter Mandatsakte.
 - Bestätigung an Anwalt und Sekretariat.
+

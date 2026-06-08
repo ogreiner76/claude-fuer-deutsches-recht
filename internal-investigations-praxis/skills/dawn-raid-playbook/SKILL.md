@@ -5,10 +5,6 @@ description: "Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Sta
 
 # Dawn Raid Playbook
 
-## Arbeitsbereich
-
-Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Staatsanwaltschaft, Kartellbehörden oder Regulatoren – Verhalten, Protokoll, Eskalation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,15 +69,6 @@ Dieser Skill liefert ein sofort einsetzbares Playbook für den Fall eines Dawn R
 - Privilegierungs-Labeling aller anwaltlichen Dokumente vorab.
 - Kein vertrauliches Material auf öffentlich zugänglichen Druckern oder Whiteboards.
 
-## Red-Team-Fragen
-
-- Kennen Empfangsmitarbeiter und Sicherheit das Dawn-Raid-Protokoll und die Krisentelefonnummern?
-- Sind alle anwaltlichen Unterlagen im Büro eindeutig als „Attorney-Client Privilege – Confidential" gekennzeichnet?
-- Gibt es einen Kommunikationsplan für parallele Durchsuchungen an mehreren Standorten?
-- Wurde nach der Durchsuchung sofort eine Inventarliste der Beschlagnahmungen erstellt und auf Vollständigkeit geprüft?
-- Ist Leniency-/Kronzeugenantrag eine Option, und wurde diese zeitkritisch geprüft?
-- Wurden alle Mitarbeiter nach dem Dawn Raid zu Schweigepflichten und Aussagebeschränkungen instruiert?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -101,3 +88,4 @@ Dieser Skill liefert ein sofort einsetzbares Playbook für den Fall eines Dawn R
 - **Widerspruchs-Formulierung** für privilegierte Unterlagen
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

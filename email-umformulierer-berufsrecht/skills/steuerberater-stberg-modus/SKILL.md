@@ -26,9 +26,6 @@ Dieser Skill passt den Umformulierungsprozess an die spezifischen Berufspflichte
 - § 5 BOStB — Verschwiegenheitspflicht (analog § 2 BORA)
 - § 9 BOStB — Kollegialitaetsgebot für Steuerberater
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## § 57 StBerG — Gewissenhafte Berufsausübung
 
 § 57 Abs. 1 StBerG verpflichtet Steuerberater zu Unabhängigkeit, Gewissenhaftigkeit, Verschwiegenheit und einem Verhalten, das dem Vertrauen in den Berufsstand entspricht. In der Korrespondenz bedeutet dies: sachliche Kommunikation mit Mandanten, Finanzbehörden und Kollegen; keine Äußerungen, die das Ansehen des Berufsstands schädigen könnten; Trennung von persönlicher Meinung und beruflicher Stellungnahme.
@@ -59,6 +56,3 @@ Einschlägige Normen: § 57 StBerG (Allgemeine Berufspflichten), § 57a StBerG (
 **Vorher:** "Das habe ich Ihnen doch schon hundertmal erklärt!"
 **Nachher:** "Wie bereits in meinem Schreiben vom TT.MM.JJJJ dargelegt, gilt folgendes..."
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Analyse des Textes auf steuerberaterliche Berufspflichten. (2) Identifizierte Risikostellen. (3) Konforme Alternativformulierung. (4) Einschlägige StBerG/BOStB-Norm.

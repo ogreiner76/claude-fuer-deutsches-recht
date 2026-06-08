@@ -88,15 +88,6 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 
 Kritik der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Die Figuren sind Topoi, also Argumentationsmuster — keine Beweisschluesse. Sie ueberzeugen nur, wenn die dahinterliegende Wertung trifft.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Einordnung.
-- `wortlaut-grammatikalische-auslegung` — Wortlaut der Norm als Grundlage.
-- `analogie-und-teleologische-reduktion` — Abgrenzung zur Rechtsfortbildung.
-- `teleologische-auslegung` — Wertungsanker.
-- `pandekten-und-begriffsjurisprudenz` — historische Wurzeln.
-- `diskurstheorie-habermas-alexy` — moderne argumentationstheoretische Einordnung.
-
 ## Quellen und Stand 05/2026
 
 - Karl Larenz, Methodenlehre der Rechtswissenschaft, 1960.
@@ -105,10 +96,3 @@ Kritik der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Die Figuren s
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

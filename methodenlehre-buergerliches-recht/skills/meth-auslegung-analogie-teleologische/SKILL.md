@@ -5,9 +5,6 @@ description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buer
 
 # Meth Auslegung Analogie Teleologische
 
-## Arbeitsbereich
-
-**Meth Auslegung Analogie Teleologische** ordnet den Fall über die tragenden Prüfungslinien: Bietet einen vollständigen methodischen Leitfaden für die, Rechtsfortbildung im deutschen Zivilrecht jenseits der, Prüft zivilrechtliche Urteile. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Meth Auslegung Analogie Teleologische im Plugin Methodenlehre Buer
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `meth-auslegung-vertrag-leitfaden`
@@ -85,10 +83,6 @@ Die Vertragsauslegung ist das tägliche Handwerk zivilrechtlicher Praxis. Dieses
 - Verkehrssitte wird behauptet, ohne tatsächliche Branchenpraxis zu belegen.
 - Ambiguitas contra proferentem wird auch auf individuell ausgehandelte Klauseln angewandt.
 - Offene Einigungsmängel (§ 154 BGB) werden durch ergänzende Auslegung überbrückt, obwohl kein Vertrag besteht.
-
-## Output
-
-Das Skill liefert einen vollständigen Auslegungsbericht: Ergebnis der subjektiven Auslegung, normative Auslegung nach Empfängerhorizont, Begleitumstandsanalyse, Lückenfeststellung und ergänzende Auslegung. Verwendbar als Grundlage für Schriftsatz, Gutachten oder richterliche Urteilsbegründung.
 
 ## Vertiefung: Auslegung im unternehmerischen Verkehr
 
@@ -222,15 +216,6 @@ Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten
 - **Analogie zulasten von Privaten ohne klare Begruendung.** Im Zivilrecht zulaessig, aber argumentationsbeduerftig.
 - **Vermeintliche Analogie zur Umgehung der Wortlaut-Grenze.** Wer im Strafrecht oder Steuerrecht "analog" anwendet, verstoesst gegen Art. 103 Abs. 2 GG bzw. den Vorbehalt des Gesetzes.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Grundkanon.
-- `wortlaut-grammatikalische-auslegung` — Wortlaut-Grenze als Schwelle.
-- `historische-auslegung` — Planwidrigkeit aus Materialien.
-- `teleologische-auslegung` — Telos als Massstab.
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori` — Gegen- und Erst-recht-Schluesse.
-- `wertungsjurisprudenz-larenz-canaris` — theoretische Grundlage.
-
 ## Quellen und Stand 05/2026
 
 - Karl Larenz, Methodenlehre der Rechtswissenschaft, 1960 (6. Aufl. 1991).
@@ -240,14 +225,6 @@ Im **Zivilrecht** ist Analogie grundsaetzlich zulaessig. Auch Analogien zulasten
 - `references/methodik-buergerliches-recht.md` im Repo.
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `methodenehrlichkeit-ideologiekritik-check`
 
@@ -307,10 +284,6 @@ Juristische Methode ist kein neutrales Werkzeug. Methodenwahl kann Ergebnisse st
 - Sprachkritik wird zu stark betont und übersieht, dass inhaltliche Argumente wichtiger sind als sprachliche Signale.
 - Ideologiekritik wird nicht auf konkrete methodische Defizite bezogen, sondern bleibt abstrakt.
 - Die eigene Methodenwahl wird nicht der gleichen Ideologiekritik unterzogen.
-
-## Output
-
-Das Skill liefert einen Methodenehrlichkeits-Check: Identifikation selektiver Methodenwahl, Sprachanalyse auf versteckte Vorannahmen, Vollständigkeitsprüfung der Materialauswertung, explizite Wertprämissenanalyse und konstruktiver Formulierungsvorschlag für methodisch ehrlichere Argumentation. Geeignet für Urteilsanmerkungen, wissenschaftliche Beiträge und anwaltliche Gegenargumentation.
 
 ## Vertiefung: Dekonstruktive Methoden als Analysewerkzeug
 
@@ -393,10 +366,6 @@ Juristische Argumentation ist dann methodisch redlich, wenn die verwendeten Ausl
 - Gegnerische Methodenakrobatik wird prozessual nicht thematisiert, obwohl sie eine angreifbare Begründungsschwäche ist.
 - Der Wechsel zur teleologischen Auslegung wird nicht damit begründet, dass der Wortlaut zu einem sinnwidrigen Ergebnis führt.
 - Methodeninkohärenz in Urteilen wird als unvermeidlich hingenommen statt als Berufungsansatzpunkt genutzt.
-
-## Output
-
-Das Skill liefert eine methodische Kohärenzanalyse: Übersicht der verwendeten Auslegungsmethoden, Prüfung auf Konsistenz, Identifikation von Methodenakrobatik und eine methodisch begründete Gegenargumentation. Das Ergebnis ist direkt für Schriftsätze, Berufungsbegründungen und anwaltliche Beratung verwendbar.
 
 ## Quellen
 
@@ -486,10 +455,6 @@ Dieses Skill leitet durch die methodisch strukturierte Gewichtungsarbeit bei kol
 - Verhältnismäßigkeit wird auf Angemessenheit verkürzt — Geeignetheit und Erforderlichkeit werden übersprungen.
 - Praktische Konkordanz wird als bloßes Kompromissgebot missverstanden; sie verlangt optimale Entfaltung beider Positionen, nicht arithmetische Mitte.
 
-## Output
-
-Am Ende steht ein strukturiertes Abwägungsmemo, das die kollidierenden Positionen benennt, ihre Gewichtung mit Intensitätsargumenten belegt und das verhältnismäßige Ergebnis inklusive der alternativen Lösungen dokumentiert. Das Memo ist schriftsatztauglich und kann als Grundlage für Revision oder Verfassungsbeschwerde dienen.
-
 ## Vertiefung: Intensitätsstufen in der Rechtsprechung
 
 Das BVerfG unterscheidet in ständiger Rechtsprechung zwischen leichten, mittleren und schweren Grundrechtseingriffen. Diese Trias ist auf zivilrechtliche Abwägungen übertragbar: Eingriffe in die Sozialsphäre des Persönlichkeitsrechts sind weniger gewichtig als Eingriffe in die Intimsphäre. Dieses Stufenmodell macht Abwägungsentscheidungen revisionsrechtlich überprüfbar.
@@ -515,3 +480,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 826 BGB bei dejure](https://dejure.org/gesetze/BGB/826.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

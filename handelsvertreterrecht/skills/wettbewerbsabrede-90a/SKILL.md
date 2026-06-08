@@ -5,10 +5,6 @@ description: "Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraus
 
 # Nachvertragliches Wettbewerbsverbot nach § 90a HGB
 
-## Arbeitsbereich
-
-Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrecht des Handelsvertreters sowie Abwehr unzumutbarer Klauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Wahlrecht nach § 90a Abs. 2 HGB bei unberechtigter Kündigung nicht ausgeübt.
 - Verstoß gegen wirksames Verbot — Schadensersatzanspruch des Unternehmers nach § 90a Abs. 3 HGB.
 
-## Output
-
-Wettbewerbsverbot-Analyse, Karenzentschädigungs-Berechnung, Wahlrechtserklärung nach § 90a Abs. 2 HGB.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [Art. 20 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [BGH auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
 - [Dejure § 90a HGB](https://dejure.org/gesetze/HGB/90a.html)
+

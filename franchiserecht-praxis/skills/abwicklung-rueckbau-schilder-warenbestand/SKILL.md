@@ -5,10 +5,6 @@ description: "Abwicklung und Rückbau nach Beendigung eines Franchisevertrags: H
 
 # Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende
 
-## Arbeitsbereich
-
-Abwicklung und Rückbau nach Beendigung eines Franchisevertrags: Herausgabe des Systemhandbuchs, Abbau von CI-Schildern, Verarbeitung des Warenbestands, Schlussabrechnung und Abwicklungspflichten beider Parteien nach §§ 242 und 280 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisevertrag ist beendet (Ablauf, Kündigung oder Aufhebung). Beide Seit
 - Kundendaten werden nach Vertragsende weitergenutzt, ohne neue Rechtsgrundlage; DSGVO-Verstoss.
 - Systemhandbuch wird nicht vollständig herausgegeben; Know-how-Schutz (GeschGehG) wird verletzt.
 
-## Output
-
-- Abwicklungs-Checkliste für beide Parteien
-- Schlussabrechnungsvorlage
-- Musterprotokoll Rückbau mit Fristenplan
-- Datenschutz-Abwicklungskonzept
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/242.html
@@ -71,6 +60,7 @@ Ein Franchisevertrag ist beendet (Ablauf, Kündigung oder Aufhebung). Beide Seit
 - https://dejure.org/gesetze/BGB/812.html
 - https://gesetze-im-internet.de/dsgvo/art_17.html
 - https://gesetze-im-internet.de/geschgehg/
+
 ## Vertiefung
 
 Die Abwicklung nach Franchiseende ist oft der konfliktträchtigste Teil der Vertragsbeziehung. Streitig sind regelmässig: Umfang und Kosten des Rückbaus, Verwertung des Warenbestands, Rückforderung von Kautionen, Schlussabrechnung der Lizenzgebühren und Abrechnung des Marketingfonds.
@@ -84,9 +74,11 @@ Eine gute Vertragsgestaltung sieht ein konkretes Abwicklungsprotokoll vor, das b
 - Datenschutz-Abwicklung nicht vergessen: Kundendaten sind zu übergeben oder zu löschen (Art. 17 DSGVO).
 - Offene Gegenforderungen des Franchisenehmers (Ausgleichsanspruch, Kaution) im Abwicklungsvertrag verrechnen.
 - Warenbestandsrückkaufpflicht des Franchisegebers nur bei expliziter Vertragsregelung; kein gesetzlicher Anspruch.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
 
 ## Normen und Rechtsprechung

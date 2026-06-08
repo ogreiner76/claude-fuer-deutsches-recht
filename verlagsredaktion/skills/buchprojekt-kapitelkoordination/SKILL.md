@@ -5,10 +5,6 @@ description: "Steuert Buchprojekte, Kapitel, Autor:innen, Herausgeber:innen, Reg
 
 # Buchprojekt- und Kapitelkoordination
 
-## Arbeitsbereich
-
-Steuert Buchprojekte, Kapitel, Autor:innen, Herausgeber:innen, Register, Abbildungen, Vorwort, Fristen und Produktionsstand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,17 +16,6 @@ Steuert Buchprojekte, Kapitel, Autor:innen, Herausgeber:innen, Register, Abbildu
 ## Ziel
 
 Ein Buchprojekt als Projektkarte sichtbar machen.
-
-## Output
-
-- Kapitelmatrix.
-- Autor:innenstatus.
-- Fehlteile.
-- Rechteampel.
-- Abbildungsstatus.
-- Register-/Stichwortliste.
-- Vorwort-/Titelei-Check.
-- Produktionsübergabe.
 
 ## Ampel
 
@@ -52,10 +37,3 @@ Grün: lieferbar. Gelb: Rückfrage. Rot: blockiert.
 
 Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll veroeffentlicht oder uebergeben werden? Fuer wen ist es bestimmt? Bis wann muss es freigegeben sein? Danach mit einer belastbaren Arbeitsfassung beginnen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

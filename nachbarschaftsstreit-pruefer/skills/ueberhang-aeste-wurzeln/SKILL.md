@@ -5,10 +5,6 @@ description: "Überhängende Äste, eindringende Wurzeln, Laub, Früchte und Ver
 
 # Überhang, Äste und Wurzeln
 
-## Arbeitsbereich
-
-Überhängende Äste, eindringende Wurzeln, Laub, Früchte und Verschattung prüfen: § 910 BGB, Beeinträchtigung, Fristsetzung, Selbsthilfe, Beseitigungsanspruch, Baumschutzsatzung, Naturschutz und Landesnachbarrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ description: "Überhängende Äste, eindringende Wurzeln, Laub, Früchte und Ver
 - Tragende Normen verifizieren: BGB §§ 903, 906, 1004, 910, 912, 917, 921, 922, NachbG (Landesnachbarrechtsgesetze), BImSchG, BauO Land, BNatSchG (Bäume), Schlichtungsgesetze der Länder (z. B. § 15a EGZPO BW) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schlichtungsantrag, Klage AG, Lichtbilder, Lärm-/Geruchsprotokoll, Sachverständigengutachten, Anwaltsschreiben, Vermessungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill führt durch die Prüfung von herüberragenden Zweigen und eindringenden Wurzeln. Er schützt vor zwei klassischen Fehlern: zu früh selbst schneiden und zu spät Rechte sichern.
 
 ## Prüfschema § 910 BGB
 
@@ -51,21 +43,7 @@ Ein Schreiben soll enthalten:
 - Ankündigung von Selbsthilfe oder gerichtlichen Schritten,
 - Hinweis auf Baumschutz/Naturschutzprüfung.
 
-## Output
-
-- Rückschnittvermerk.
-- Fristsetzungsschreiben.
-- Selbsthilfe-Risikoampel.
-- Fotoplan und Beweisliste.
-
 ## Warnung
 
 Selbsthilfe ist kein Freibrief. Unzulässiger Rückschnitt kann Schadensersatz, Besitzschutz, Naturschutz- oder Baumschutzprobleme auslösen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

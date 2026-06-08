@@ -5,10 +5,6 @@ description: "Verbraucherzentrale: Probeabo- und automatische Verlängerungsmode
 
 # VDG 104 Probeabo Widerruf Verbandsstrategie
 
-## Arbeitsbereich
-
-Verbraucherzentrale: Probeabo- und automatische Verlängerungsmodelle strategisch prüfen; EuGH C-565/22 Sofatutor, § 312j/312k/355 BGB, Widerrufsbelehrung, Kündigungsbutton, Anspruchsgruppen und Rückzahlungslogik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill hilft, Abo-Modelle nicht nur als Einzelfall, sondern als Muster zu prüfen: Testphase, Kostenumschlag, Widerruf, Kündigungsbutton, Inkassokette und Rückzahlung.
-
 ## Rechtsanker
 
 - §§ 312g, 312j, 312k, 355, 356 BGB.
@@ -60,13 +52,7 @@ Dieser Skill hilft, Abo-Modelle nicht nur als Einzelfall, sondern als Muster zu 
 4. Anspruchsgruppen bilden: nie gekündigt, rechtzeitig gekündigt, widerrufen, Minderjährige, Identitätsmissbrauch.
 5. Rückzahlungslogik: Zahlungen, Nutzungszeiträume, Wertersatz, Verjährung.
 
-## Output
-
-- Verbandsvermerk.
-- Abmahnung oder Klagebaustein.
-- Betroffenenformular mit Screenshot-Uploadlogik.
-- FAQ für Verbraucher: "Was mache ich jetzt mit der Abbuchung?"
-
 ## Red Team
 
 Prüfe die Verteidigung: klare Kostenhinweise, bestätigte Nutzung, Wertersatz, ordnungsgemäße Kündigungsbestätigung, individuelles Vergleichsangebot.
+

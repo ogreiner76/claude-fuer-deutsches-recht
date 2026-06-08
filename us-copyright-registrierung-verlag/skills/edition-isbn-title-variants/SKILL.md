@@ -5,10 +5,6 @@ description: "Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Origina
 
 # Edition, ISBN und Titelvarianten
 
-## Arbeitsbereich
-
-Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihen
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Verhindere, dass Titelvarianten, Umlaute, ISBN-Wechsel und Neuauflagen die Registerakte unlesbar machen. Der Skill baut eine konsistente Datenlogik zwischen Verlagssystem, Impressum, eCO und Archiv.
-
 ## Prüfschritte
 
 - Originaltitel, eCO-kompatible Schreibweise und interne Titel-ID erfassen.
@@ -33,14 +25,6 @@ Verhindere, dass Titelvarianten, Umlaute, ISBN-Wechsel und Neuauflagen die Regis
 - ISBN, Auflage, Erscheinungsjahr, Format und Sprachfassung zuordnen.
 - Reihen- und Bandtitel vom konkreten Werkstitel trennen.
 - Neuauflagen, unveränderte Nachdrucke und substantiell überarbeitete Ausgaben unterscheiden.
-
-## Output
-
-Eine Titelvarianten-Tabelle mit Registertitel, Originaltitel, ISBN, Ausgabe, Format, Antrag, Deposit und interner Akten-ID.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -52,3 +36,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Frist-/Remedy-Wirkung hat timing nach § 411/§ 412 und was muss als Nachweis in die Verlagsakte?
 
 **Mindest-Output:** Registrierungsakte mit Antragstyp, Werkdaten, Rechtekette, Deposit-Route, Fee/Tracking und Certificate-Archiv.
+

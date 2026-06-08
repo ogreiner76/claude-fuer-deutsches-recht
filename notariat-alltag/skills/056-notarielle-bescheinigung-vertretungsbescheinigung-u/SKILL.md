@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbesche
 
 # Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung, Registerstand
 
-## Arbeitsbereich
-
-Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung und Registerstand. Bescheinigungen nach § 21 BNotO, Vertretungsberechtigungsbescheinigung und aktuelle Registerstandsbescheinigungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,3 +92,4 @@ Bescheinigung nach § 21 BNotO: KV Nr. 25200 GNotKG. Gegenstandswert: Wert des b
 - **Mandantenmail** (Zweck der Bescheinigung erläutern)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

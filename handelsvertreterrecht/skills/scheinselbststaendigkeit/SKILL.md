@@ -5,10 +5,6 @@ description: "Prüft das Risiko der Scheinselbständigkeit des Handelsvertreters
 
 # Scheinselbständigkeit des Handelsvertreters: § 7 SGB IV und § 84 HGB
 
-## Arbeitsbereich
-
-Prüft das Risiko der Scheinselbständigkeit des Handelsvertreters nach § 7 SGB IV: Merkmale persönlicher und wirtschaftlicher Abhängigkeit, Konsequenzen für Sozialversicherungspflicht und Steuern, Unterschied zu arbeitnehmerähnlicher Stellung nach § 92a HGB sowie Statusfeststellungsverfahren bei der Deutschen Rentenversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Rückwirkende Nachzahlungspflicht von bis zu vier Jahren unterschätzt.
 - Arbeitnehmerähnlichkeit (§ 92a HGB) mit Scheinselbständigkeit verwechselt.
 
-## Output
-
-Scheinselbständigkeits-Check, Statusfeststellungsantrag, Vertragsgestaltungsempfehlung.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 7a SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7a.html)
 - [§ 92a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92a.html)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
+

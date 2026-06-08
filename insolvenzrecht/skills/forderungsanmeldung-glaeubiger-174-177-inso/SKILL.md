@@ -25,12 +25,6 @@ Gläubiger meldet Forderung im Insolvenzverfahren an §§ 174-177 InsO: Fristen 
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Sobald das Insolvenzverfahren über das Vermögen des Schuldners eröffnet ist, müssen Insolvenzgläubiger ihre Forderungen beim Insolvenzverwalter zur Tabelle anmelden. Erst durch die Anmeldung wird die Forderung Teil der Verteilung. Dieser Skill führt Schritt für Schritt durch Form, Frist, Inhalt, Rangfragen, Besonderheiten (vorsätzliche unerlaubte Handlung, nachträgliche Anmeldung) und Reaktionsmöglichkeiten im Prüfungstermin.
-
----
-
 ## PFLICHT-DISCLAIMER
 
 **Keine Rechtsberatung. Mechanischer Workflow.** Konkrete Anmeldung ist im Einzelfall mit Fachanwalt für Insolvenzrecht abzustimmen.
@@ -327,27 +321,6 @@ Wenn nach Schlusstermin (§ 197 InsO) noch Masse oder Forderungen auftauchen:
 
 ---
 
-## Querverweise
-
-Innerhalb des `insolvenzrecht`-Plugins:
-
-- `mandat-triage-insolvenzrecht` — Eingangstriage
-- `insolvenzrecht-kaltstart-interview` — Sachverhaltsaufnahme
-- `anfechtungsrechte-pruefen` — Anfechtungsschiene
-- `vorsatzanfechtung-133-inso` — verwandte Norm
-- `glaeubigerantrag-pruefung` — Antragstellung des Gläubigers
-- `glaeubigerausschuss-mitwirkung` — Mitwirkung im Ausschuss
-- `insolvenzgeld-165-sgb-iii` — Arbeitnehmer-Sonderschiene
-- `uebertragende-sanierung-und-asset-deals` — Plan-/Verfahrenswahl
-
-Verwandte Plugins:
-
-- `insolvenzforderungsanmeldungspruefung` — Verwalter-Prüfung im Detail
-- `insolvenzverwaltung/iv-forderungsanmeldung-pruefung` — Verwalter-Workflow
-- `insolvenzverwaltung/iv-tabelle-pruefungstermin` — Tabellen-Mechanik
-
----
-
 ## Mini-Checkliste vor Versand der Anmeldung
 
 - [ ] Forderungstyp geklärt (Insolvenz § 38 / nachrangig § 39 / Masse § 53)
@@ -381,4 +354,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Forderungsanmeldun
 ---
 
 <!-- AUDIT 27.05.2026 -->
+
 ## Audit-Hinweis (27.05.2026)
+

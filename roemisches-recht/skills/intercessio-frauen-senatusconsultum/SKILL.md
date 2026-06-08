@@ -5,10 +5,6 @@ description: "Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot
 
 # Rom 136 Intercessio Frauen Senatusconsultum Velleianum
 
-## Aufgabe
-
-Skill für das SC Velleianum.
-
 ## Rechtsquelle
 
 - Senatusconsultum Velleianum (ca. 46 n. Chr. unter Claudius oder Nero; Datum vor Zitat verifizieren).
@@ -58,7 +54,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse zur modernen Buergschaftsproblematik.

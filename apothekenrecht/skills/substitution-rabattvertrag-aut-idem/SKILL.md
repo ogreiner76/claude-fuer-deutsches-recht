@@ -5,10 +5,6 @@ description: "Substitution Rabattvertrag Aut-idem: prüft die einschlägigen Vor
 
 # Substitution Rabattvertrag Aut-idem
 
-## Arbeitsbereich
-
-Substitution Rabattvertrag Aut-idem: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,15 +92,6 @@ Eingaben:
 - Bedenken nicht auf Rezept gekennzeichnet — Krankenkasse erkennt nicht, dass Apotheke begründet abweicht.
 - Widerspruchsfrist versäumt — entgangener Erlös wird endgültig.
 
-## Querverweise
-
-- `arzneimittelabgabe-verschreibungspflicht` (allgemeiner Abgabevorgang)
-- `retaxationsabwehr-nullretax-risiko` (Retax-Abwehr)
-- `lieferengpaesse-austausch-dokumentation` (Austausch bei Lieferengpass)
-- `rechnung-retaxation-krankenkasse` (Krankenkassen-Rechnung)
-- `e-rezept-ti-gematik-apothekenprozess` (E-Rezept-Substitution)
-- `schiedsstellen-krankenkassen-apotheke` (Streitschlichtung)
-
 ## Quellen Stand 06/2026
 
 - SGB V §§ 129, 73; ApBetrO § 17.
@@ -112,3 +99,4 @@ Eingaben:
 - BSG, staend. Rspr. zu pharmazeutischen Bedenken und Retaxation.
 - DAV-Mitgliederinformationen / aktuelle Rabattvertragslisten (vom Anwender zu verifizieren).
 - ABDA-Leitlinien zur Substitution.
+

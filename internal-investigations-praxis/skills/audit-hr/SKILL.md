@@ -5,10 +5,6 @@ description: "Definiert Rolle und Pflichten des Audit Committee bei Internal Inv
 
 # Audit Committee in Internal Investigations
 
-## Arbeitsbereich
-
-Definiert Rolle und Pflichten des Audit Committee bei Internal Investigations – § 107 AktG, Berichtspflichten, Unabhängigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,15 +62,6 @@ Dieser Skill klärt die Pflichten und Befugnisse des Audit Committee bei Interna
 - Wenn Vorstandsmitglied Gegenstand der Untersuchung: Audit Committee hat Leitungsfunktion, nicht der Vorstand.
 - Informationsfluss kontrollieren: Vorstand erhält nur das, was für laufende Geschäftsführung notwendig ist.
 - Anwaltliche Kommunikation direkt an Prüfungsausschuss, nicht über Vorstand leiten.
-
-## Red-Team-Fragen
-
-- Hat das Audit Committee ein Direktmandat für den externen Anwalt erteilt, ohne Einbindung des betroffenen Vorstands?
-- Wurde der Abschlussprüfer über die laufende Untersuchung informiert – und wenn nein, warum nicht?
-- Sind alle Mitglieder des Audit Committee tatsächlich unabhängig (keine Verbindungen zu Beschuldigten)?
-- Wurde dem Gesamtaufsichtsrat rechtzeitig über wesentliche Untersuchungsergebnisse berichtet?
-- Trägt das Audit Committee selbst ein Haftungsrisiko für Untätigkeit?
-- Wurde die Abgrenzung zwischen Audit Committee und Special Committee klar dokumentiert?
 
 ## Normenregister
 

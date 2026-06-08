@@ -56,19 +56,6 @@ Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 
 - Keine Selbstkorrektur ohne vorherige rechtliche Beratung; Reihenfolge entscheidend.
 - Konzernweite Implikationen: Andere Konzerneinheiten muessen einbezogen werden.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,10 +74,6 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Strafbarkeits-Risikobewertung mit Einordnung AWG/AO, Selbstkorrektur-Strategie mit Zeitplan und Muster-Offenlegungsschreiben für BAFA bzw. Hauptzollamt.
-
 ## Quellen
 
 - [§ 18 AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/__18.html)
@@ -98,3 +81,4 @@ Strafbarkeits-Risikobewertung mit Einordnung AWG/AO, Selbstkorrektur-Strategie m
 - [BAFA Freiwillige Offenlegung](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Allgemeine_Informationen/allgemeine_informationen_node.html)
 - [ZollVG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zollvg/index.html)
 - [§ 370 AO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ao_1977/__370.html)
+

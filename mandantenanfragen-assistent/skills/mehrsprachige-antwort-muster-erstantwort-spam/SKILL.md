@@ -5,10 +5,6 @@ description: "Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch un
 
 # Mehrsprachige-Antwort
 
-## Arbeitsbereich
-
-Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,9 +32,6 @@ Dieser Skill erkennt die Sprache der eingehenden Mandantenanfrage und schaltet d
 - § 49b Abs. 5 BRAO — Kostenbelehrung: muss für Mandanten verstaendlich sein (Sprache relevant)
 - § 43 BRAO — Sorgfaltspflicht: Sprachbarriere als organisatorisches Risiko in der Kanzlei
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Sprach-Erkennung
 
 | Erkannte Sprache | Antwortsprache | Fallback |
@@ -159,3 +152,4 @@ der das Erstgespräch führen kann? Falls nein: Hinweis in der Mail aufnehmen.
 - `anfrage-eingang-parser` — erkennt die Sprache der Anfrage
 - `erstantwort-generator` — erhält den Sprachmodus
 - `anrede-uebernehmen` — liefert die sprachangepasste Anrede
+

@@ -5,10 +5,6 @@ description: "Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundlea
 
 # Verl-010 · Rabatte, Bibliotheken, Schulen, Bundles und Serien
 
-## Arbeitsbereich
-
-Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundleangebote und Serienpreise — BuchPrG §§ 5–6 und Sonderkonditionenpraxis im deutschen Buchhandel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -124,3 +120,4 @@ Das BuchPrG verbietet grundsätzlich Abweichungen vom festgesetzten Ladenpreis. 
 - **Bibliothekskonditionen-Vorlage**: Preisänderungsmechanismus nach § 7 BuchPrG
 - **Ausnahmen-Protokoll**: Dokumentation aller gewährten Ausnahmen mit Rechtsgrundlage
 - **Abmahnungsrisiko-Ampel**: Grün/Gelb/Rot für jede Kondition
+

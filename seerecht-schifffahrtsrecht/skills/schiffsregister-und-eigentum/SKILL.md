@@ -49,11 +49,6 @@ Eine Investmentgesellschaft kauft einen gebrauchten Containerfrachter und benöt
 - Auslandshypotheken bei Bare-Boat-Registrierung können parallel existieren.
 - Arreste kurz vor Closing können den Eigentumsübergang verzögern.
 
-## Output
-- Registerprüfprotokoll (Abteilungen I/II/III)
-- Due-Diligence-Vermerk: Eigentumsklarheit; Lasten; offene Fragen
-- Checkliste Löschungsvoraussetzungen
-
 ## Erweiterte Normengrundlage
 
 ### Registerrecht
@@ -88,3 +83,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - BGH Schiffsregister: https://www.bgh.de
+

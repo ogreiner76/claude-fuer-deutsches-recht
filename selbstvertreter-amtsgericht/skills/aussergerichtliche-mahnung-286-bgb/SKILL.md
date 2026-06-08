@@ -126,13 +126,7 @@ Sie koennen ueber Zinsen hinaus weitere Schaeden geltend machen (z. B. Mahngebue
 - "Ich klage direkt." → Geht, aber dann keine Verzugszinsen und ggf. Klage-Kosten allein.
 - "Mahnen mit 3 Tagen Frist." → In der Regel zu kurz und unangemessen.
 
-## Querverweise
-
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung.
-- `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid als naechste Stufe.
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Erfolg pruefen.
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 286 BGB unveraendert. Basiszinssatz halbjaehrlich aktualisieren.
+

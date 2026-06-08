@@ -5,10 +5,6 @@ description: "Chronologie und Belegmatrix für IP-Mandate: Sachverhalt zeitlich 
 
 # Workflow: Chronologie und Belegmatrix
 
-## Arbeitsbereich
-
-Chronologie und Belegmatrix für IP-Mandate: Sachverhalt zeitlich ordnen, Belege zu Ereignissen zuordnen, Lücken identifizieren und Beweisgrundlage für Abmahnung, EV und Klage aufbauen. Werkzeug für systematische Fallaufbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Chronologie und Belegmatrix für IP-Mandate: Sachverhalt zeitlich ordnen, Belege
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erstellt eine **Sachverhalts-Chronologie und Belegmatrix** für IP- und Wettbewerbsrechtsmandate. Er ordnet Ereignisse zeitlich, weist Belege zu und identifiziert Lücken in der Beweiskette. Ohne strukturierte Chronologie verliert man in komplexen Fällen den Überblick.
-
-Mandatsbezug: Mandant schildert einen komplexen Sachverhalt mit mehreren Verletzungshandlungen über längere Zeit. Anwalt muss daraus eine klare, zeitliche Abfolge mit Belegen erstellen, bevor er Abmahnung oder EV-Antrag vorbereitet.
 
 ## Chronologie-Aufbau
 
@@ -130,15 +120,10 @@ L = Lücke (Ereignis unbekannt oder unbelegt)
 
 **Detail-Belegmatrix:** Vollständige Tabelle für interne Akte und Qualitätsprüfung.
 
-## Quellenregel
-
-- Keine externen Rechtsquellen für diesen Prozess-Skill erforderlich.
-- Belege auf Aktualität prüfen: Registerauszüge < 3 Monate; Screenshots mit Datum.
-- Eidesstattliche Versicherung: Inhalt mit Chronologie abgleichen; keine Widersprüche.
-
 ## Anschluss-Skills
 
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Belegaufbau
 - `workflow-dokumentenintake` – Dokumentenerfassung
 - `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweislastverteilung
+

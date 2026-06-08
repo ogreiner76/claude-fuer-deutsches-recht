@@ -5,10 +5,6 @@ description: "Associate Workbench: steuert Associate bekommt klare Aufgaben, Kon
 
 # Associate Workbench
 
-## Arbeitsbereich
-
-Associate Workbench: steuert Associate bekommt klare Aufgaben, Kontext, Deadline, Qualitätsmaßstab und Feedback zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,13 +44,6 @@ Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Sch
 - Budget und Erfolgsaussicht nie als Scheingenauigkeit verkaufen.
 - Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
 - Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
-
-## Output
-
-- Dashboard-Karte mit Status, Budget, Ownern und nächstem Schritt.
-- Entscheidungsvorlage oder Kommunikationsentwurf für Kanzlei oder Mandant.
-- Risiko-/Kosten-/Fristenampel mit Eskalationspunkt.
-- Qualitygate: Was darf raus, was muss intern bleiben, was braucht Freigabe?
 
 ## Quellen- und Aktualitätsgate
 

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Naturrecht und Vernunftrecht im 17. und
 
 # Naturrecht und Vernunftrecht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Naturrecht und Vernunftrecht im 17. und 18. Jahrhundert. Grotius, Pufendorf, Wolff, Kant und der Einfluss auf ALR, Code Civil und fruehe Kodifikationsbewegung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -69,12 +65,3 @@ Das Naturrecht des 17./18. Jh. war die intellektuelle Grundlage der Kodifikation
 - Kant Metaphysik der Sitten: Akademie-Ausgabe Bd. VI (1907)
 - ALR: ALEX/OeNB; Savigny Vom Beruf (1814): Erstausgabe Heidelberg
 
-## Output
-
-- Naturrechts-Stammbaum: Grotius, Pufendorf, Wolff, Kant in Beziehung
-- Einfluss des Vernunftrechts auf ALR, Code Civil, BGB
-- Vergleich Naturrecht vs. Savignys Historische Schule: Methode und Ergebnis
-
-## Quellenregel
-
-Grotius 1625, Pufendorf 1672, Wolff 1740-1748: historische Erstausgaben. Kant Metaphysik der Sitten: Akademie-Ausgabe Bd. VI. ALR: ALEX/OeNB. Savigny 1814: Erstausgabe Heidelberg.

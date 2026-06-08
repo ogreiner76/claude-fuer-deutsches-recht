@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Preussisches Allgemeines Landrecht (ALR
 
 # Preussisches Allgemeines Landrecht (ALR 1794)
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Preussisches Allgemeines Landrecht (ALR) von 1794. Entstehung unter Friedrich dem Grossen und Svarez, kasuistische Kodifikationstechnik, Inhalt und Scheitern als gesamtdeutsches Zivilrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -69,12 +65,3 @@ Das Allgemeine Landrecht für die Preussischen Staaten (ALR) trat am 1. Juni 179
 - Sekundaerliteratur: Reinhart Koselleck, Preussen zwischen Reform und Revolution (1967)
 - Keine Anwendung heutiger BGB-Kategeorien auf ALR ohne expliziten Vergleich
 
-## Output
-
-- Strukturueberblick ALR: Gliederung und Kerninhalte
-- Vergleichstabelle ALR vs. BGB in zentralen Instituten (Vertrag, Eigentum, Ehe)
-- Historische Bedeutung und Grenzen der kasuistischen Kodifikation
-
-## Quellenregel
-
-ALR 1794: historische Druckausgaben oder ALEX/OeNB. Svarez Revisionsarbeiten: Geheimes Staatsarchiv Berlin-Dahlem. Sekundaerliteratur: Koselleck (1967) mit Seite; Wieacker (1967) mit Seite.

@@ -5,10 +5,6 @@ description: "Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvert
 
 # Vertragserstellung musterbasiert
 
-## Arbeitsbereich
-
-Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: §§ 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Prüfraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis. Output: Vertragsentwurf auf Musterbasis. Abgrenzung: nicht individuelle Vertragsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,14 +61,6 @@ und gibt das Dokument unverändert zurück mit Hinweis.
  welche Konflikte
 7. Roter Block oben im Dokument: was zwingend manuell zu prüfen ist
 
-## Output
-
-- `Vertrag_<Objekt>_<Datum>.docx` auf Muster-Layout, Platzhalter befüllt
-- `Aenderungsprotokoll.md` mit Tabelle Platzhalter — Wert — Quelle im Term Sheet
-- `Manuelle_Pruefung.md` mit Liste der Punkte die nur ein Jurist
- entscheiden kann (zB GenehmigungspflichtigerVerkauf §§ 1365 BGB,
- Vorkaufsrechte §§ 24 ff. BauGB, Denkmalschutz, Erbbauzins-Anpassung)
-
 ## Typische manuelle Pruefpunkte bei Immobilienverträgen
 
 - Vorkaufsrechte der Gemeinde §§ 24 ff. BauGB
@@ -107,6 +95,3 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 - Modernisierung: §§ 555a ff. BGB
 - WEG-Verwaltervertrag: §§ 26 ff. WEG
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -5,10 +5,6 @@ description: "Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur ger
 
 # Verletzung dokumentieren — Hash-Logs, Screenshots und Crawl-Protokolle
 
-## Arbeitsbereich
-
-Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Dokumentation von Scraping und unerlaubter Entnahme durch Hash-Logs, Screenshot-Serien, Crawl-Protokolle, Honey-Pot-Datensätze und notarielle Sicherung. Erstellt Beweis-Checkliste für § 87b UrhG-Klagen und einstweilige Verfügungen sowie technisches Sachverständigen-Briefing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Do
 - Honey-Pot-Datensätze müssen von Anfang an in der Datenbank vorhanden sein — nachträgliches Einpflegen ist als Beweis wertlos.
 - Ohne Sachverständigen scheitern technische Beweismittel im Prozess häufig an mangelnder gerichtlicher Würdigung.
 
-## Output
-
-- Beweissicherungs-Checkliste für Datenbankrechts-Verletzungen
-- Server-Log-Sicherungsprotokoll (technische Anforderungen)
-- Honey-Pot-Datensatz-Konzept und Implementierungsguide
-- Notarielle Beweissicherungs-Briefing-Vorlage
-- Sachverständigen-Briefing für technische Datenbankbeweise
-
 ## Quellen
 
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
@@ -75,3 +63,4 @@ Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Do
 - [§ 286 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/286.html)
 - [eIDAS-VO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014R0910)
 - [§ 371 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/371.html)
+

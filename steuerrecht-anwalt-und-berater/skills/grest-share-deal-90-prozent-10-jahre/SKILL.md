@@ -11,10 +11,6 @@ description: "GrESt Share Deal vertieft: § 1 Abs. 2a/2b/3/3a GrEStG, 90-Prozent
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Aufgabe
-
-Prüfe, ob ein Anteilserwerb an einer grundbesitzhaltenden Gesellschaft Grunderwerbsteuer auslöst. Dieser Skill vertieft den bestehenden Share-Deal-Skill und arbeitet stärker mit Zeitachse und Beteiligungskette.
-
 ## Datenmodell
 
 Erstelle immer eine Tabelle:
@@ -40,14 +36,3 @@ Erstelle immer eine Tabelle:
 | Forward Deal | Signing/Closing, Grundstückserwerb der Zielgesellschaft während Dealphase |
 | Konzernumstrukturierung | § 6a GrEStG gesondert |
 
-## Output
-
-- Beteiligungsdiagramm in Textform.
-- 10-Jahres-Tracking.
-- Ampel je Tatbestand.
-- Anzeige- und Bescheidrisiko.
-- Gestaltungshinweis mit Warnung vor Scheinsplitting.
-
-## Quellenregel
-
-Gleich lautende Ländererlasse und Verwaltungsauffassung nur als Verwaltungsposition markieren. Für streitige Auslegung BFH/FG-Stand live prüfen.

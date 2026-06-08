@@ -5,10 +5,6 @@ description: "Analysiert Provisionsansprüche bei Cross-Selling im Handelsvertre
 
 # Cross-Selling und Multi-Produkt-Provision im Handelsvertretervertrag
 
-## Arbeitsbereich
-
-Analysiert Provisionsansprüche bei Cross-Selling im Handelsvertretervertrag: Provision für Produkte außerhalb des ursprünglichen Vertragsgebiets oder Sortiments, Erweiterung des Provisionsanspruchs bei mehreren vertretenen Produktlinien, Abgrenzung von Haupt- und Nebenprodukten sowie vertragliche Gestaltung von Multi-Produkt-Provisionsstrukturen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Cross-Selling-Provision nicht in Ausgleichsberechnung einbezogen.
 - Ergänzungsvereinbarung ohne ausreichende Provisionsregelung abgeschlossen.
 
-## Output
-
-Vertragsanalyse Produktumfang, Ergänzungsvereinbarung Entwurf, Provisionsberechnung Cross-Selling.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

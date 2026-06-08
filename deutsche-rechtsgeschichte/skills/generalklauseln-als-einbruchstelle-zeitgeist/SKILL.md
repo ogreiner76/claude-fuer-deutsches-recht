@@ -5,10 +5,6 @@ description: "Analysiert historische Nutzung von Generalklauseln wie Treu und Gl
 
 # Generalklauseln als Einbruchstelle des Zeitgeists
 
-## Arbeitsbereich
-
-Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Generalklauseln sind unverzichtbar, aber gefährlich. Dieser Skill zeigt historisch, wann sie flexible Gerechtigkeit ermöglichen und wann sie zur Schleuse politischer Vorgaben werden.
-
 ## Prüfschritte
 
 1. Generalklausel identifizieren.
@@ -46,10 +38,6 @@ Generalklauseln sind unverzichtbar, aber gefährlich. Dieser Skill zeigt histori
 4. Subjektive Rechte und Minderheitenschutz gesondert prüfen.
 5. Gegenwartslehre: Generalklauseln heute durch Grundrechte, Gesetzeszweck und Begründungspflichten disziplinieren.
 
-## Output
-
-Generalklausel-Historie mit Risikoampel: legitime Konkretisierung, zeitgeistige Überformung oder rechtsstaatliche Entkernung.
-
 ## Quellen- und Zitierdisziplin
 
 - Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
@@ -57,3 +45,4 @@ Generalklausel-Historie mit Risikoampel: legitime Konkretisierung, zeitgeistige 
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
 - Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
+

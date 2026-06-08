@@ -5,16 +5,6 @@ description: "'Supervisoren-Prüfwarteschlange — studentische Arbeitsergebniss
 
 # Supervisoren-Prüfwarteschlange (Optional)
 
-## Zweck
-
-Manche Beratungsstellen wollen ein formelles Gate: Studierendenentw[urf], Supervisoren-Prüfung, dann Freigabe. Andere finden das zu starr — sie begleiten über Fallgespräche und Einzelgespräche, nicht über eine Warteschlange.
-
-**Diese Skill ist nur aktiv, wenn die Klinik-Konfiguration (CLAUDE.md) unter "Supervisionsmodell" die Option "formelle Prüfwarteschlange" gewählt hat.** Andernfalls ist sie inaktiv — beim Kalt-Start-Interview entscheidet der Supervisor, welches Modell er/sie möchte; dies ist eine von drei Optionen.
-
-Ob eine formelle Prüf-Ablauf sinnvoll ist, hängt vom Erfahrungsstand der Studierenden, der Fallzahl und der bestehenden Betreuungsstruktur ab. Der Supervisor entscheidet beim Kalt-Start und kann die Einstellung jederzeit ändern.
-
-**Rechtlicher Hintergrund:** Die Prüfwarteschlange dokumentiert, dass ein zugelassener Rechtsanwalt/eine zugelassene Rechtsanwältin studentische Arbeitsergebnisse geprüft hat, bevor sie Mandanten, Gerichte oder Behörden erreichten. Dies ist die institutionelle Umsetzung der Aufsichtspflicht nach § 6 Abs. 2 RDG.
-
 ## Eingaben
 
 - **Keine** bei Standardaufruf (zeigt, was wartet)
@@ -39,6 +29,7 @@ Ob eine formelle Prüf-Ablauf sinnvoll ist, hängt vom Erfahrungsstand der Studi
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Konfigurationsprüfung
@@ -69,6 +60,7 @@ Liegt in `references/review-queue.yaml`. Jeder Eintrag:
 ### Was wartet (Standard-Anzeige)
 
 ```markdown
+
 ## Prüfwarteschlange — [Datum]
 
 **Ausstehend:** [N] | **Ältester Eintrag:** [N] Stunden
@@ -93,10 +85,6 @@ Vollständigen Inhalt anzeigen + Warum geflaggt + Notizen des Studierenden.
 - **Freigeben:** Status → freigegeben, Studierender informiert, protokolliert.
 - **Bearbeiten und Freigeben:** Supervisor bearbeitet inline; die freigegebene Version ist die bearbeitete; Original im Protokoll erhalten, damit der Studierende den Unterschied sieht (Lehrmoment).
 - **Zurückschicken:** Mit Hinweis. Studierender überarbeitet und reicht erneut ein.
-
-## Ausgabeformat
-
-Markdown-Tabellen nach dem Warteschlangen-Anzeigeschema oben. Einzelne Einträge werden mit vollständigem Inhalt, Flag-Begründung und Studierenden-Notizen angezeigt.
 
 ## Beispiel
 

@@ -9,7 +9,6 @@ description: "Output-Wahl für Fachanwalt Insolvenz- und Sanierungsrecht: stimmt
 
 Diese Output-Weiche für **Fachanwalt Insolvenz Sanierungsrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `absonderungsrecht-paragraf-50-inso` — Absonderungsrecht Paragraf 50 Inso
@@ -36,12 +35,9 @@ Diese Output-Weiche für **Fachanwalt Insolvenz Sanierungsrecht** entscheidet, o
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Fachanwalt Insolvenz- und Sanierungsrecht sofort: Insolvenzantrag oder Sanierungsplan StaRUG.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

@@ -5,10 +5,6 @@ description: "Personalakte, Einsicht, Datenschutz: prüft § 17 SG, Aufnahmerech
 
 # Personalakte, Einsicht und Datenschutz
 
-## Arbeitsbereich
-
-Personalakte, Einsicht, Datenschutz: prüft § 17 SG, Aufnahmerecht, Löschungsansprüche und DSGVO-Rechte. Norm-/Quellenanker: § 17 SG, DSGVO, BDSG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ DSGVO-Rechte (Art. 15, 17) gelten ergänzend für personenbezogene Daten in der 
 - DSGVO Art. 15–17 — Auskunft, Berichtigung, Löschung
 - BDSG § 26 — Beschäftigtendatenschutz
 - SÜG § 25 — Sicherheitsakte
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -94,21 +84,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Berichtigungs- und Löschungsanträge
 - Tabelle: Personalakte vs. Sicherheitsakte
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — § 17 SG
-- https://www.gesetze-im-internet.de/bdsg_2018/ — BDSG
-- https://www.bfdi.bund.de
-- https://dejure.org/gesetze/DSGVO/15.html
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +93,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

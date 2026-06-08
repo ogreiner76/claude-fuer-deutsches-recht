@@ -5,9 +5,6 @@ description: "Mandantenkommunikation Redteam Qualitygate im Plugin Liquiditaetsp
 
 # Mandantenkommunikation Redteam Qualitygate
 
-## Arbeitsbereich
-
-**Mandantenkommunikation Redteam Qualitygate** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin liquiditaetsplanung, Red-Team Qualitygate im Plugin liquiditaetsplanung, Ausgabengruppen. Zuerst wird das Feld bestimmt, das die Akte wirklich trägt; ergänzende Felder kommen nur hinzu, wenn sie dieselbe Frist, Zuständigkeit, Beweislast oder denselben Output berühren.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Mandantenkommunikation Redteam Qualitygate im Plugin Liquiditaetsp
 - Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `workflow-mandantenkommunikation`
@@ -30,9 +28,6 @@ description: "Mandantenkommunikation Redteam Qualitygate im Plugin Liquiditaetsp
 **Fokus:** Mandantenkommunikation im Plugin liquiditaetsplanung: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
 ### Mandantenkommunikation
-
-## Aufgabe
-Dieses Modul bearbeitet: Mandantenkommunikation im Plugin liquiditaetsplanung: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
@@ -47,12 +42,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
 ## Kommunikation Liquiditätsplanung — wesentliche Pflichten
 - **§ 1 StaRUG ist Geschäftsführungspflicht:** Die Krisenfrüherkennung ist nicht "schön zu haben", sondern Pflicht jedes Geschäftsleiters einer haftungsbeschränkten Gesellschaft. Verstoß kann § 43 GmbHG-Haftung auslösen.
@@ -62,20 +51,11 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Klare Sprache:** "Sie haben am [Datum] eine Deckungslücke von X EUR. Nach BGH-Rechtsprechung liegt dann Zahlungsunfähigkeit vor, sofern keine Schließung binnen drei Wochen absehbar ist."
 - **Honorar:** Beratungsvereinbarung mit Pauschal- oder Stundenhonorar; reine RVG-Abrechnung deckt Sanierungsberatung nicht.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
 ## 2. `workflow-redteam-qualitygate`
 
 **Fokus:** Red-Team Qualitygate im Plugin liquiditaetsplanung: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
 ### Red-Team Qualitygate
-
-## Aufgabe
-Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin liquiditaetsplanung: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
@@ -90,18 +70,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ## Liquiditätsplanungs-Red-Team
 - **Methodenprüfung:**
@@ -156,12 +124,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Ausgabengruppen Liquiditätsplan — Fristen und Priorisierung
 - **Personal (Pflicht):** Lohn/Gehalt zum Monatsende, Lohnsteuer & SV-Beiträge zum drittletzten Bankarbeitstag des Folgemonats. § 266a StGB strafbewehrt für AN-SV-Beiträge!
 - **Steuern:** USt-Voranmeldung 10. des Folgemonats, Steuervorauszahlungen quartalsweise (10.3., 10.6., 10.9., 10.12.), Jahresvorauszahlungen nach Bescheid. Bei Insolvenzreife Aufrechnungsverbot § 96 InsO.
@@ -172,8 +134,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Versicherungen:** Haftpflicht und Sach idR jährlich; bei Krise prüfen, ob Auszahlung bei Insolvenzfall in Masse oder beim Versicherungsnehmer landet.
 - **Priorisierung in Krise (vor § 15a InsO-Antragspflicht):** SV-Beiträge AN-Anteil > Steuerschulden (Lohnsteuer) > Lohn > Lieferanten kritischer Lieferant > sonstige. Reine Liquiditätsschonung kann § 266a StGB-Strafbarkeit und § 15b InsO-Haftung auslösen.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

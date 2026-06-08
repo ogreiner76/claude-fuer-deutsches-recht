@@ -5,10 +5,6 @@ description: "Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsi
 
 # Rechtsfolge bestimmen
 
-## Arbeitsbereich
-
-Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt Berechnungshinweise für Schadensersatz und Vertragsstrafen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, 
 3. Sind Nebenansprüche (Verzugszinsen, Anwaltskosten, Kosten) geltend zu machen?
 4. Ist der Schaden berechenbar oder wird Schätzung nach § 287 ZPO erforderlich?
 5. Ist die Rechtsfolge vollstreckungsfähig? (Tenor bestimmt genug für Vollstreckung)
-
-## Zweck
-
-Ist der Tatbestand erfüllt und sind Einwendungen und Einreden geprüft, bestimmt dieser Skill die konkrete Rechtsfolge.
 
 ## Zentrale Normen
 
@@ -97,6 +89,3 @@ Tatbestand erfüllt → Rechtsfolge bestimmen
 └─ Nebenansprüche: Verzugszinsen § 288 BGB + RK als SE
 ```
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -5,10 +5,6 @@ description: "Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, S
 
 # EU-Behörde und SOLVIT
 
-## Arbeitsbereich
-
-Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,9 +12,6 @@ Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nati
 - Tragende Normen verifizieren: BEG IV (Viertes Bürokratieentlastungsgesetz 2024), OZG/OZG-Änderungsgesetz, VwVfG §§ 35, 35a (vollautomatisierter VA), §§ 9, 10 e-Government-Gesetz, NKR-Gesetz, GGO § 44 (Gesetzesfolgenabschätzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde.
 
 ## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
@@ -37,12 +30,6 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ## Vorsichtsregel
 Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt bei Straf-, Familien-, Aufenthalts-, Kinderschutz-, Existenz- oder Eilrisiken früh anwaltliche Beratung, Beratungshilfe, Rechtsantragsstelle oder Fachberatungsstelle.
 
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
-
 ## Quellen- und Aktualitätsregel
 - einschlägiges Bundesrecht
 - Landesrecht/kommunale Satzung
@@ -50,3 +37,4 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 - frei prüfbare Rechtsprechung nur mit Gericht, Datum und Aktenzeichen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+

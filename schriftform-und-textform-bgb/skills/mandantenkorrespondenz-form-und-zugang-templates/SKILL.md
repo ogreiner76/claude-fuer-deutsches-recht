@@ -5,10 +5,6 @@ description: "Mandantenkorrespondenz Form Und Zugang Templates: ordnet Normen, N
 
 # Mandantenkorrespondenz — Form und Zugang: Templates
 
-## Arbeitsbereich
-
-Mandantenkorrespondenz Form Und Zugang Templates: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -239,10 +235,3 @@ Mit freundlichen Grüßen
 - **Mandantenbrief ≠ Rechtsgutachten**: Die Mandantenbriefe ersetzen keine vollständige rechtliche Beratung. Bei komplexen Sachverhalten ist ein ausführlicheres Beratungsschreiben erforderlich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Querverweise
-
-- → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
-- → `wohnraummiete-kuendigung-paragraph-568-bgb`
-- → `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25`
-- → `dokumentations-und-beweisarchitektur`
-- → `prozessablauf-papier-vs-elektronisch`

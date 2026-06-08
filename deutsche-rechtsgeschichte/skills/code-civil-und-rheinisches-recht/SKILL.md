@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht
 
 # Code Civil und rheinisches Recht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht. Napoleonische Kodifikation, Geltung in Deutschland, rheinisches Recht im 19. Jahrhundert und Nachwirkung auf BGB-Entstehung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Der Code Civil (CC) trat am 21. Maerz 1804 in Kraft und galt im linksrheinischen
 - BGB-Materialien: Mugdan Bd. I zum Einfluss des CC
 - Rheinisches Recht: Sekundaerliteratur Hattenhauer, Europaeische Rechtsgeschichte (1999)
 
-## Output
-
-- Vergleich Code Civil vs. ALR vs. BGB in drei Kerninstituten
-- Thibaut-Savigny-Streit: Kernargumente und historisches Ergebnis
-- Rheinisches Recht 1814-1900: Sonderweg und Erbe
-
-## Quellenregel
-
-Code Civil: franzoesische Originalausgabe (1804) oder kommentierte Ausgaben. Thibaut und Savigny 1814: Erstausgaben. BGB-Materialien CC-Einfluss: Mugdan Bd. I (1899). Kein Blindzitat.

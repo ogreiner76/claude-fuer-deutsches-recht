@@ -5,10 +5,6 @@ description: "Koordiniert parallele DSGVO-Bußgeldverfahren mit Internal Investi
 
 # Parallele DSGVO-Bußgeldverfahren
 
-## Arbeitsbereich
-
-Koordiniert parallele DSGVO-Bußgeldverfahren mit Internal Investigations – Aufsichtsbehörden-Kommunikation, Selbstbelastungsschutz, Kooperation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,3 +92,4 @@ Dieser Skill koordiniert die parallele Führung von Internal Investigation und D
 - **Art.-15-Anfragen-Antwortprotokoll**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

@@ -5,10 +5,6 @@ description: "Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflich
 
 # LkSG und CSDDD — Lieferkettensorgfalt
 
-## Arbeitsbereich
-
-Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit 1.1.2023 CSDDD Richtlinie 2024/1760 Phasing ab 2027. Normen LkSG §§ 3 4 8 11 24 CSDDD Art. 1 ff. Prüfraster Anwendungsbereich Sorgfaltspflichten Risikoanalyse Beschwerdemechanismus BAFA-Aufsicht. Output Risikoanalyse-Template Grundsatzerklärung Beschwerdeverfahren. Abgrenzung zu esg-greenwashing-csrd (Berichtspflicht) und umweltrecht-transaktionen-dd (M&A). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG 
 - Tragende Normen verifizieren: BImSchG, KrWG, WHG, BNatSchG, UVPG, BBodSchG, ChemG, StörfallV (12. BImSchV), TA Luft, TA Lärm, EU-IED 2010/75, UmwRG, EU-FFH-RL, EU-WRRL — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Lieferketten-Sorgfaltspflichten sind seit 2023 deutsches Recht (LkSG) und werden EU-weit ab 2027 mit der CSDDD (Richtlinie (EU) 2024/1760 vom 13.6.2024, ABl. L 2024/1760; Umsetzungsfrist 26.7.2026) verschaerft. Dieses Skill bedient Compliance-Aufbau und Verstoß-Verteidigung.
-
-**Stand 05/2026:** Im Rahmen des EU-Omnibus-Pakets (Anfang 2025) hat die Kommission Vorschlaege zur Verschiebung und Lockerung von CSDDD und CSRD vorgelegt; Kommissionsvorschlag COM(2025) 81 final ueber eur-lex.europa.eu/legal-content/DE/TXT/?uri=COM:2025:81:FIN — vor Mandatsanwendung den aktuellen legislativen Stand pruefen (eur-lex Trilog-Ergebnis 2025/2026).
 
 ## Eingaben
 
@@ -370,10 +360,3 @@ verabschiedet und wird jaehrlich aktualisiert.
 - UN Guiding Principles on Business and Human Rights
 - OECD Due Diligence Guidance
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

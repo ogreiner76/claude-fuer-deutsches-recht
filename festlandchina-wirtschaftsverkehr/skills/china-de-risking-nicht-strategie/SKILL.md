@@ -5,10 +5,6 @@ description: "Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: 
 
 # De-risking statt Decoupling: Strategie und operative Umsetzung
 
-## Arbeitsbereich
-
-Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Ressourcenplanung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,13 +79,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
 
-## Output
-
-De-risking-Fahrplan (Priorisierungsmatrix, Zeitplan, KPIs), Risiko-Ampel je Lieferant/Technologie, Board-Paper-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
-
 ## Quellen
 
 Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
@@ -99,3 +88,4 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
+

@@ -5,10 +5,6 @@ description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt
 
 # Stil und Ton juristischer Texte
 
-## Arbeitsbereich
-
-Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und Ton je nach Adressat: Mandantenbrief klar und mit Empfehlung, Gegenseitenbrief kuehl und mit Frist, Schriftsatz urteilsstil und beweisbar, Memo gutachtenstil, Behördenschreiben nuechtern. Mit Tabelle Adressat zu Register zu Beispielsatz, Sie-Form als Default und konkreten Anti-Mustern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt Register und 
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Juristische Texte erreichen ihr Ziel nur, wenn Stil und Ton zum Adressaten passen. Ein Mandantenbrief im Schriftsatzton verunsichert; ein Schriftsatz im Coaching-Ton wirkt unprofessionell. Dieser Skill macht die Wahl des Registers explizit und reproduzierbar.
-
-Er ist kein Stillehrer, sondern eine Pruefcheckliste. Er sagt Ihnen, welches Register zu welchem Adressaten passt, und liefert pro Adressat Beispielsaetze.
-
-Im Zweifel gilt: Sie-Form, nuechterner Ton, kurze Saetze, klare Empfehlung am Ende.
 
 ## Eingaben
 
@@ -90,24 +78,11 @@ Im Zweifel gilt: Sie-Form, nuechterner Ton, kurze Saetze, klare Empfehlung am En
 - **Gegenseitenbrief ohne Frist.** Ohne Frist keine Verzugswirkung.
 - **Bratwurst-Saetze.** Saetze ueber drei Zeilen sind nur in der Hauptbegruendung eines Schriftsatzes vertretbar, und auch dort selten.
 
-## Ausgabeformat
-
-- Stilbefund (Adressat erkannt, Register bewertet).
-- Ueberarbeitungsvorschlag mit konkret zitiertem Originalsatz und Alternative.
-- Optional: Komplett-Neuentwurf im richtigen Register.
-
 ## Beispiel
 
 **Original (Mandantenbrief, fehlerhaft):** "Vorstehend duerften die Tatbestandsmerkmale des § 433 BGB erfuellt sein, was kausal die im Tenor begehrte Rechtsfolge zu tragen vermag, weshalb wir Ihnen vorschlagen, in Erwaegung zu ziehen, ob Sie nicht doch zur Zahlung schreiten wollen."
 
 **Ueberarbeitet:** "Nach unserer Einschaetzung sind Sie zur Zahlung verpflichtet. Wir empfehlen, den Betrag bis zum 12. Juni 2026 zu ueberweisen. Sollten Sie der Einschaetzung nicht folgen, schlagen wir ein kurzes Telefonat vor."
-
-## Querverweise
-
-- `drafting-prinzipien-klarheit-bestimmtheit-praezision`
-- `anwaltsschreiben-aussergerichtlich`
-- `gutachten-memo-internes-drafting`
-- `dokumentarchitektur-vertrag-und-schriftsatz`
 
 ## Quellen (Stand 05/2026)
 
@@ -115,10 +90,3 @@ Im Zweifel gilt: Sie-Form, nuechterner Ton, kurze Saetze, klare Empfehlung am En
 - CLAUDE.md im Repository für Sie-Form und Methodikvorgaben.
 - `references/methodik-buergerliches-recht.md` für Gutachtenstil und Urteilsstil.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

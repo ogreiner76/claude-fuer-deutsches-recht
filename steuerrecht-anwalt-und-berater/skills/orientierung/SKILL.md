@@ -15,9 +15,6 @@ description: "Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht.
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wichtige Normen
 
 | Bereich | Norm |
@@ -56,9 +53,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Bundesfinanzhof (BFH) — Revisionsinstanz, München.
 - Strafgericht (AG/LG Wirtschaftsstrafkammer) bei Steuerstrafverfahren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Arbeitsgemeinschaft Steuerrecht im DAV.
@@ -79,3 +73,4 @@ Nur relevant für den Erwerb des Fachanwaltstitels "Fachanwalt für Steuerrecht"
 - 50 Faelle in den letzten drei Jahren aus dem Steuerrecht, davon Bezug zu mindestens drei der in § 9 Nr. 1 bis 3 FAO genannten Bereiche und zu allen drei Bereichen in der Falldokumentation; mindestens fuenf rechtsfoermliche Verfahren vor Finanzgerichten oder vergleichbare Verfahren.
 
 Inhaltlich-fachlich macht der Fachanwaltstitel keinen Unterschied — alle Skills in diesem Plugin (`anw-*`) sind sowohl für Fachanwaeltinnen/Fachanwaelte als auch für alle anderen Anwaeltinnen/Anwaelte im Steuerrecht gleichermassen nutzbar.
+

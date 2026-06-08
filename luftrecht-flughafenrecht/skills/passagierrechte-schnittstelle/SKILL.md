@@ -5,10 +5,6 @@ description: "Passagier fordert Entschaedigung nach Flugumsetzung Annullierung o
 
 # Passagierrechte – EU 261/2004 Entschädigung und Durchsetzung
 
-## Arbeitsbereich
-
-Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prueft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rechtsprechung und liefert Klageschriftsatz-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,10 +54,6 @@ Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetun
 - Voucher statt Barzahlung akzeptiert; Anspruch nicht vollständig abgegolten.
 - SÖP-Schlichtung nicht genutzt; unnötige Klageverzögerung.
 
-## Output
-
-Klageschriftsatz-Baustein AG (EU-261-Anspruch). Außergewöhnliche-Umstände-Gegenargumentations-Liste. Entschädigungsberechnung-Tool.
-
 ## Quellen
 
 - EU-VO 261/2004: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32004R0261
@@ -88,3 +80,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

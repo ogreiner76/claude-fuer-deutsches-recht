@@ -5,10 +5,6 @@ description: "Römisches Recht: Zwölftafelgesetz zu furtum, iniuria, Sachschade
 
 # Zwölftafelgesetz - Delikte und Sanktionen
 
-## Arbeitsbereich
-
-Römisches Recht: Zwölftafelgesetz zu furtum, iniuria, Sachschaden, Talion, Bußen, Sakralnähe und privater Sanktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Dieser Skill behandelt Delikts- und Sanktionslogik im Zwölftafelgesetz: **Diebstahl, Personenverletzung, Sachschaden, Bußen, Talion, private Durchsetzung und sakrale Restbestände**.
-
 ## Startfragen
 
 1. Geht es um furtum, iniuria, Sachbeschädigung, Körperverletzung, falsches Zeugnis, Brand, Zauber-/Sakralthema oder Bußsystem?
@@ -52,8 +44,3 @@ Dieser Skill behandelt Delikts- und Sanktionslogik im Zwölftafelgesetz: **Diebs
 4. **Fortbildung zeigen:** vom starren Satz zur actio, vom Bußsystem zur differenzierten Haftung.
 5. **Kritik sichtbar machen:** Gewalt, Statusunterschiede und Ungleichheit nicht glätten.
 
-## Ausgabeformat
-
-- Deliktsmatrix mit Regeltyp, Schutzgut, Sanktion und späterer Entwicklung.
-- Vergleich mit klassischem römischem Deliktsrecht.
-- Warnhinweis: keine moderne Strafrechtsdogmatik rückprojizieren.

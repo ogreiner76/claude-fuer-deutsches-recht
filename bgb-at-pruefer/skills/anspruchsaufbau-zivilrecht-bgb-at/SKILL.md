@@ -46,13 +46,6 @@ description: "Strukturhilfe für den zivilrechtlichen Anspruchsaufbau im BGB All
 - Anspruchskonkurrenz nicht vergessen: Beide Ansprüche können nebeneinander bestehen.
 - § 242 BGB nur als letztes Korrektiv einsetzen, nicht als Allheilmittel.
 
-## Output
-
-- Anspruchsaufbau-Schema als tabellarische Übersicht
-- Klausurlösungsskizze im Gutachtenstil für einen konkreten Fall
-- Checkliste: Einwendungen und Einreden systematisch
-- Hinweise zu Anspruchskonkurrenz und Reihenfolge der Prüfung
-
 ## Quellen
 
 - [§ 241 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__241.html)
@@ -83,3 +76,4 @@ Der Dreiklang jeder Anspruchsprüfung:
 - Tatbestandsmerkmale vollständig definiert und subsumiert?
 - Erlöschensgründe geprüft (Erfüllung § 362, Aufrechnung § 387, Verjährung §§ 194 ff. BGB)?
 - Durchsetzbarkeit: Einreden und Einwendungen geprüft?
+

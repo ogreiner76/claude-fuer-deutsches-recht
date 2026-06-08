@@ -81,14 +81,6 @@ Keine Rueckfrage noetig.
 - Schulungsaufwand nicht erfasst
 - Vergleich mit Altvorhaben ohne methodische Anpassung
 
-## Querverweise
-
-- `nkr-erfuellungsaufwand-grundbegriff`
-- `nkr-standardkostenmodell-skm`
-- `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866), Aenderungen 2011 ff.
@@ -96,3 +88,4 @@ Keine Rueckfrage noetig.
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - EU Better Regulation Toolbox (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

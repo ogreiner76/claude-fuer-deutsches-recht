@@ -5,10 +5,6 @@ description: "Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragu
 
 # Agenturverkauf und Nachfolge im Handelsvertreterrecht
 
-## Arbeitsbereich
-
-Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragung des Vertretervertrags mit Zustimmung des Unternehmers, Auswirkungen auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB, Kaufpreisermittlung für den Kundenstamm, Wettbewerbsklauseln im Agenturverkauf und Regelungen zur Nachfolge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 - Haftung des Erwerbers für Altverbindlichkeiten nicht vertraglich ausgeschlossen.
 - Wettbewerbsverbot für Veräußerer vergessen — sofortige Konkurrenz nach Verkauf.
 
-## Output
-
-Agenturkaufvertrag Entwurf, Kaufpreisberechnung, Wettbewerbsverbotsklausel für Veräußerer.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 25 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__25.html)
 - [§ 90a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__90a.html)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

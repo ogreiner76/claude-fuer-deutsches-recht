@@ -77,12 +77,6 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 ### Phase 5 — Subject-to-Tax pruefen (§ 50d Abs. 9 EStG)
 ### Phase 6 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo Portugal.
-- Berechnungsbeispiel mit Subject-to-Tax bei NHR-Status.
-- BZSt-Antrag bei Beteiligungen.
-
 ## Strategie und Praxis-Tipps
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -155,12 +149,9 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 >
 > Anmerkung: konkrete Pillar-Two-Regelungen in §§ 1-100 MinStG (Mindestbesteuerungsgesetz, BGBl. 2023 I) pruefen.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-spanien-2011`.
-
 ## Quellen und Updates
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 11 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

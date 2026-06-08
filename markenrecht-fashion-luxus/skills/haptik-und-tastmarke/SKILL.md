@@ -5,10 +5,6 @@ description: "Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgef�
 
 # Tastmarken und Haptik-Marken
 
-## Arbeitsbereich
-
-Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -166,3 +162,4 @@ Bevor der Schutzweg gewaehlt wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

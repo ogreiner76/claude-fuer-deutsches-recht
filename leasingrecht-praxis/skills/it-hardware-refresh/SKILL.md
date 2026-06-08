@@ -5,10 +5,6 @@ description: "IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Kl
 
 # IT Hardware Refresh im Leasing
 
-## Arbeitsbereich
-
-IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Klauseln, Datenlöschung, Disposition und steuerliche Behandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Klauseln, Datenl
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-IT-Hardware veraltet schnell. Hardware-Refresh-Programme ermöglichen Unternehmen, regelmäßig auf neue Technologie umzusteigen. Dieser Skill beschreibt die Vertragsstruktur, Upgrade-Klauseln, Datenlöschung und steuerliche Aspekte.
 
 ## Refresh-Modelle
 
@@ -115,3 +107,4 @@ IT-Hardware veraltet schnell. Hardware-Refresh-Programme ermöglichen Unternehme
 - **Datenlöschungs-Zertifikat**: Mit Gerätedaten und Methode
 - **Verrechungs-Tabelle**: Restbuchwert-Berechnung bei Midterm Upgrade
 - **WEEE-Compliance-Checkliste**: Altgeräte-Rücknahme und Recycling
+

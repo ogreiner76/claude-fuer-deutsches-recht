@@ -5,10 +5,6 @@ description: "Prüft internationale Zuständigkeit, Gerichtsstandsvereinbarung, 
 
 # Cross-Border Jurisdiction
 
-## Arbeitsbereich
-
-Prüft internationale Zuständigkeit, Gerichtsstandsvereinbarung, Brüssel Ia, Lugano-Bezug, Drittstaaten und Anti-suit-/lis-pendens-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Prüft internationale Zuständigkeit, Gerichtsstandsvereinbarung, Brüssel Ia, L
 - **Normen-/Quellenanker:** Commercial Courts/Commercial Chambers der Länder, ZPO, GVG, Zuständigkeit, Sprachwahl Englisch/Deutsch, Wortprotokoll, Geheimnisschutz und internationale Zustellung.
 - **Entscheidende Weiche:** Gerichtsstand, Streitwert/Sachgebiet, Verfahrenssprache, Vertraulichkeit, Beweisaufnahme, Übersetzung, Protokoll und Vollstreckbarkeit steuern.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Dieser Skill unterstützt Verfahren vor deutschen Commercial Courts oder Commercial Chambers mit internationalem Wirtschaftsbezug. Er liefert eine prozessuale Arbeitsstruktur und, wenn gewünscht, englischen Output. Deutsches Prozessrecht bleibt der Rahmen; englische Sprache bedeutet nicht Common-Law-Verfahren.
 
 ## Einstieg
 
@@ -44,14 +36,6 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 4. **Lis pendens und Anti-suit:** Art. 29 Brüssel Ia Erstanrufungsprinzip; bei ausschließlicher Gerichtsstandsvereinbarung Art. 31 Abs. 2 Brüssel Ia Vorrang des vereinbarten Gerichts. EuGH: Anti-suit-Injunctions gegen EU-Gerichte unzulässig (West Tankers-Doktrin); im Verhältnis zu Drittstaaten möglich, aber von deutschen Gerichten nicht anerkannt.
 5. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Nächsten Schritt: Zuständigkeitsrüge § 39 ZPO oder positive Anrufung Commercial Court mit Forum-Klausel als Anlage; Vollstreckbarerklärung-Frage frühzeitig mitdenken (§§ 1110 ff. ZPO, Verordnungen).
 
-## Output-Standard
-
-- **Executive Snapshot:** forum, language, next deadline, procedural risk.
-- **Procedural Action:** konkreter nächster Antrag/Schriftsatz/Briefing in der gewünschten Sprache.
-- **Evidence and Exhibits:** welche Anlagen tragen welchen Punkt, welche Übersetzung fehlt.
-- **Risk Flags:** Zuständigkeit, Sprache, Frist, Geheimnis, Kosten, Rechtsmittel.
-- **Follow-up Skills:** passende Skills aus diesem Plugin vorschlagen.
-
 ## Red Flags
 
 - Commercial-Court-Zuständigkeit oder englische Sprache wird nur behauptet, aber nicht aus Klausel, Gesetz und Landesrecht hergeleitet.
@@ -60,6 +44,3 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 - Geheimhaltungsinteressen werden erst in der mündlichen Verhandlung entdeckt.
 - Das Wortprotokoll wird gewünscht, aber nicht rechtzeitig prozessual vorbereitet.
 
-## Quellenregel
-
-Vor echter Verwendung aktuelle Primärquellen prüfen: GVG, ZPO, einschlägige Landesverordnungen und die Gerichtsseite des zuständigen Landes. Keine erfundenen Gerichtslisten, keine erfundenen Formularpflichten, keine Paywall-Fundstellen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.

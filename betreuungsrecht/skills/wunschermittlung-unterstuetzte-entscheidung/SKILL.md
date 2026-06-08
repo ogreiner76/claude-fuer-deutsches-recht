@@ -18,12 +18,7 @@ Arbeitsfokus: **Wunschermittlung und unterstützte Entscheidung**. Prüfe diese 
 - `§ 278 FamFG` — persönliche Anhörung.
 - `§ 5 BtOG` — Unterstützung zur Betreuungsvermeidung.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Betreuung beginnt nicht mit “Was ist vernünftig?”, sondern mit “Was will die betreute Person?”. Dieser Skill hilft, Wünsche und Präferenzen praktisch zu erfassen und gerichtstauglich zu dokumentieren.
 
 ## Prüfpfad
 
@@ -71,3 +66,4 @@ Warum entspricht die Entscheidung dem Wunsch oder warum ausnahmsweise nicht?
 - § 1821 BGB: Unterstützung, Wunschbefolgung, mutmaßlicher Wille.
 - § 1814 BGB: Betreuung nur erforderlich, wenn andere Hilfen nicht ausreichen.
 - UN-BRK Art. 12 als Leitbild unterstützter Rechts- und Handlungsfähigkeit; konkrete Umsetzung erfolgt über deutsches Betreuungsrecht.
+

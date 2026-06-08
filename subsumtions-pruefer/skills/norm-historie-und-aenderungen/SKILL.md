@@ -5,10 +5,6 @@ description: "Prüft die Norm-Historie: geltende Fassung zum massgeblichen Zeitp
 
 # Norm-Historie und Änderungen
 
-## Arbeitsbereich
-
-Prüft die Norm-Historie: geltende Fassung zum massgeblichen Zeitpunkt, Übergangsvorschriften, intertemporales Recht, aenderungsrelevante Gesetzgebungsverfahren. Warnt bei Normen, die seit dem Wissensstand des Systems geaendert worden sein koennten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Prüft die Norm-Historie: geltende Fassung zum massgeblichen Zeitpunkt, Übergan
 3. Enthält der Sachverhalt eine strafrechtliche Komponente? → § 2 StGB (lex mitior) prüfen
 4. Hat der Sachverhalt EU-Bezug? → Anwendungsbeginn und Übergangszeitraum der EU-Verordnung prüfen
 5. Gibt es Übergangsvorschriften, die alte Rechtslage für Altfälle erhalten?
-
-## Zweck
-
-Subsumtion setzt voraus, dass die richtige Normfassung angewendet wird. Für zurückliegende Sachverhalte gilt das Recht zum Zeitpunkt des relevanten Ereignisses (Tatzeit, Vertragsschluss, Bescheiderlass).
 
 ## Zentrale Normen zum intertemporalen Recht
 
@@ -88,9 +80,6 @@ Das System unterscheidet:
 
 Das System gibt in jedem Fall den Hinweis: "Diese Angaben zur Normfassung entsprechen dem Wissensstand des Systems. Für Änderungen danach ist gesetze-im-internet.de oder eur-lex.europa.eu zu prüfen."
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 - Maßgeblicher Zeitpunkt (Nutzerangabe)
@@ -107,3 +96,4 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
  → Falsche Rechtsprechungszeile entfernt
  → kein gesicherter Ersatz für lex-temporis-actus-Aussage gefunden; Grundsatz weiterhin durch BVerfG Art. 20 Abs. 3 GG / lizenzpflichtige Literaturquelle BGB Einl. gedeckt
 -->
+

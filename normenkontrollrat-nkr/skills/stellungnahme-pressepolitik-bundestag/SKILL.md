@@ -5,10 +5,6 @@ description: "Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksam
 
 # NKR-Stellungnahme — Pressepolitik und Jahresbericht
 
-## Arbeitsbereich
-
-Verzahnt einzelne NKR-Stellungnahmen mit der öffentlichen Wirksamkeit ueber Jahresbericht Pressemitteilung Hintergrundgespraech und Bilanz-Konferenz. Beschreibt wie der NKR seine Mahnungen oeffentlich verstaerken kann ohne politisch zu werden. Mit Bausteinen für Pressehinweis Jahresberichts-Eintrag und konsistenter Kommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -140,14 +136,6 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 - Spekulation ueber politische Motive
 - Pressehinweis ohne abgestimmte Stellungnahme
 
-## Querverweise
-
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-evaluation-und-jahresbericht`
-- `nkr-stellungnahme-ergebnis-und-empfehlung`
-- `nkr-stellungnahme-zum-bundestag-anhoerung`
-- `legistik-werkstatt/spezial-mitte-internationaler-bezug-und-schnittstellen`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 7
@@ -155,3 +143,4 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 - NKR-Geschaeftsordnung (intern)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

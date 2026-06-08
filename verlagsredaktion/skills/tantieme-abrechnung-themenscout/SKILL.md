@@ -5,10 +5,6 @@ description: "Jaehrliche Tantieme-Abrechnung für Autoren juristischer Werke: St
 
 # Tantieme jaehrlich abrechnen
 
-## Arbeitsbereich
-
-Jaehrliche Tantieme-Abrechnung für Autoren juristischer Werke: Stueck- und Umsatzbeteiligung, Loseblatt-Ergaenzungslieferungen, Online-Nutzung, Verrechnung mit Vorschuss, Pflichten nach UrhG § 32d. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -143,14 +139,6 @@ Mit freundlichen Gruessen
 - UrhG § 32d-Pflicht ignoriert - kann zu Auskunftsklage fuehren.
 - KSK-Meldung der Tantieme vergessen.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einstieg bei Reklamationen.
-- `honorar-vertrag-royalties-triage` - Triage zur Vertragslage.
-- `verl-honorarrechnung-erstellen-pruefen` - rechnungsformale Behandlung.
-- `verl-vorschuss-pruefung-buecher` - Vorschussverrechnung.
-- `verl-vergleichsverhandlung-mit-autor` - bei Streit ueber Anpassungsanspruch.
-
 ## Quellen Stand 06/2026
 
 - UrhG §§ 32, 32a, 32d, 32e - Verguetung und Auskunftspflichten.
@@ -159,3 +147,4 @@ Mit freundlichen Gruessen
 - UStG § 12 Abs. 2 Nr. 7 lit. c - ermaessigter Steuersatz für Rechteeinraeumung.
 - KSVG - Abgabepflicht; aktueller Satz unter kuenstlersozialkasse.de.
 - BGH-Rechtsprechung zu § 32a UrhG (Volltexte zur amtlichen Pruefung unter bundesgerichtshof.de und dejure.org).
+

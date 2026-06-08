@@ -190,12 +190,3 @@ Befristungsende Klage erheben (§ 17 TzBfG — Entfristungsklage).
 - **Kündigung nicht direkt elektronisch**: § 623 BGB schließt die elektronische Form ausdrücklich aus. qES-DocuSign-Kündigungen, E-Mails und beA-Nachrichten außerhalb einer gesetzlichen Formfiktion sind kein sicherer Kündigungsweg.
 - **§ 46h ArbGG separat prüfen**: Bei arbeitsgerichtlichen Schriftsätzen kann die neue Formfiktion tragen; sie ersetzt aber nicht Zustellung, Vollmacht, Klarerkennbarkeit und § 174 BGB.
 
-## Querverweise
-
-- → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
-- → `elektronische-form-paragraph-126a-bgb-qes`
-- → `arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb`
-- → `kuendigung-per-schriftsatz-zustellung-formfragen`
-- → `textform-paragraph-126b-bgb-dauerhafter-datentraeger`
-- → `form-checker-für-vertrag-oder-willenserklaerung`
-- → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`

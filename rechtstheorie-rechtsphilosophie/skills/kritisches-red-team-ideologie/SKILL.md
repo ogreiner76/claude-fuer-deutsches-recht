@@ -18,10 +18,6 @@ description: "Red-Team für verdeckte Ideologie, Systemrhetorik, Moralueberschus
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
-
 ## Sofort klären
 
 1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
@@ -55,15 +51,6 @@ Carl-Schmitt-nahe Argumentationsmuster sind nicht schon deshalb falsch, weil sie
 - Frage nach Minderheiten, Opposition, Kontrollinstanzen und Rückkehr zur Normalordnung.
 - Gib eine alternative Begründung aus, die Handlungsfähigkeit ermöglicht, aber nicht entgrenzt.
 
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-- Ausnahme-, Ordnungs- und Staatsräsonrhetorik wird nur akzeptiert, wenn sie in eine konkrete Rechtsgrundlage mit Grenzen übersetzt ist.
-
 ## Regelungs- und Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -81,6 +68,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.

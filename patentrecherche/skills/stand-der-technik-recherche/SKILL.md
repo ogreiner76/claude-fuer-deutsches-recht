@@ -17,10 +17,6 @@ Recherche Stand der Technik vor eigener Patentanmeldung. Identifiziert anhand de
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Vor einer eigenen Patentanmeldung der Mandantin (oder zur Beratung der Mandantin "lohnt sich die Anmeldung?") wird der Stand der Technik recherchiert. Dieses Skill nutzt die Treffer aus `agentische-datenbank-recherche` und ordnet sie methodisch ein.
-
 ## Rechtsrahmen
 
 - **§ 3 Abs. 1 PatG / Art. 54 Abs. 2 EPÜ.** Stand der Technik ist alles, was vor dem Anmeldetag (oder Prioritätstag) der Öffentlichkeit zugänglich gemacht worden ist — schriftlich, mündlich, durch Benutzung oder in sonstiger Weise. **Weltweit. In jeder Sprache.**
@@ -121,3 +117,4 @@ Bevor die Recherche begonnen wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

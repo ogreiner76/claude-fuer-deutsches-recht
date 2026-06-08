@@ -5,10 +5,6 @@ description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat C
 
 # Charterparty – Wrackbeseitigungspflicht prüfen
 
-## Arbeitsbereich
-
-Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 für gesunkenes Gechartertes Seeschiff unter Charterparty. Versicherungspflicht ab 300 BRZ; Behördenkoordination; Haftungsfolge. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Ein Gechartertes Seeschiff unter Charterparty sinkt in deutschen Gewässern; WSA
 - WRC gilt auch für Freizeitjachten ab 14 Meter Laenge.
 - Behoerdliche Ersatzvornahme begründet Kostenerstattungsanspruch mit Vorrang.
 - Bei Gechartertes Seeschiff unter Charterparty unter Auslandsflagge kommen Flaggenstaat-Pflichten hinzu.
-
-## Output
-WRC-Pflichtenanalyse und Kostenrisiko-Vermerk für Gechartertes Seeschiff unter Charterparty.
 
 ## Vertiefung: Nairobi WRC 2007 im Überblick
 Das Nairobi Wrack-Übereinkommen (WRC 2007) trat international 2015 in Kraft; Deutschland hat es 2013 ratifiziert und durch das Wrackbeseitigungsgesetz (WSG) umgesetzt. Es gilt für Wracks in der AWZ und dem Küstenmeer von Vertragsstaaten; für Wracks auf der Hohen See gelten nur nationale Normen. Kernpflicht: Eigentümer muss das Wrack melden; markieren; und beseitigen oder beseitigen lassen.
@@ -99,3 +92,4 @@ Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Ar
 - WRC 2007 IMO: https://www.imo.org/en/About/Conventions/Pages/Nairobi-International-Convention-on-the-Removal-of-Wrecks.aspx
 - BSH: https://www.bsh.de
 - MARPOL IMO: https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx
+

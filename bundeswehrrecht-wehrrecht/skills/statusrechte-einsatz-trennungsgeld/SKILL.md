@@ -5,10 +5,6 @@ description: "Statusrechte im Einsatz, Urlaub, Betreuung: prüft Urlaubsansprüc
 
 # Statusrechte im Einsatz: Urlaub, Betreuung und Fürsorge
 
-## Arbeitsbereich
-
-Statusrechte im Einsatz, Urlaub, Betreuung: prüft Urlaubsansprüche, Betreuungsleistungen, Fürsorge im Auslandseinsatz und Rechtsbehelfe. Norm-/Quellenanker: SG § 30, EinsatzWVG, SVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Einsatz-bedingte Sonderregelungen: Verlängerung des Einsatzes, ungeplante Verwe
 - EinsatzWVG — Weiterverwendung
 - SVG §§ 63a ff. — Einsatzversorgung
 - ZDv A-1402/1 — Betreuungsvorschrift
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -94,21 +84,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Sonderurlaub bei familiärer Notlage
 - Kontakte: PSBw, Sozialdienst Bundeswehr
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — SG §§ 28–30
-- https://www.gesetze-im-internet.de/bburlg/ — BUrlG
-- https://www.bundeswehr.de/de/organisation/streitkraefte/sanitaetsdienst/psychosoziale-betreuung
-- https://www.bverwg.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +93,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

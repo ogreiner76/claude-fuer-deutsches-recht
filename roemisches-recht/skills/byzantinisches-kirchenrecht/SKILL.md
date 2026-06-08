@@ -5,10 +5,6 @@ description: "Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Eh
 
 # Byzantinisches Kirchenrecht und Familienrecht
 
-## Aufgabe
-
-Dieser Skill behandelt die byzantinische Verbindung von **Kirche, Ehe, Familie, Erbrecht und kaiserlicher Ordnung**. Er zeigt, wie sich römische Privatrechtsstrukturen in einem christlich geprägten Reichskontext verändern.
-
 ## Startfragen
 
 1. Geht es um Ehe, Scheidung, Verwandtschaft, Adoption, Erbrecht, kirchliche Zuständigkeit oder moralische Sanktion?
@@ -40,8 +36,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Familienrechtliche Entwicklungslinie.
-- Tabelle: Institut, römische Grundlage, byzantinische Akzentverschiebung.
-- Kurze kritische Einordnung aus heutiger Sicht.

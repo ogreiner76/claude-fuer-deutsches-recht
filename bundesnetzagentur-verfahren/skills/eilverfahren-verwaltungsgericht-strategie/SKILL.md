@@ -5,10 +5,6 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Ei
 
 # Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen
 
-## Arbeitsbereich
-
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,11 +53,6 @@ Strategische Steuerung verwaltungsgerichtlichen Eilrechtsschutzes gegen Maßnahm
 - Keine erfundenen Az.; verifizierbare Verfahren bevorzugen.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Strategie-Memo (Wahl der Antragsart, Erfolgswahrscheinlichkeit, Kostenrisiko).
-- Eilantragsschrift (10–25 Seiten je nach Komplexität).
-- Anlagenverzeichnis (Bescheid, Glaubhaftmachungs-Anlagen, Wirtschaftlichkeits-Belege).
-
 ## Beispiele
 - TK-Unternehmen erhält Untersagungsverfügung der BNetzA (BK1) zu einem Vertriebspraxisproblem. Eilantrag § 80 Abs. 5 VwGO beim VG Köln.
 - Wettbewerber will Marktdefinition (BK3) sperren lassen. Drittangriff über § 80a VwGO.
@@ -69,3 +60,4 @@ Strategische Steuerung verwaltungsgerichtlichen Eilrechtsschutzes gegen Maßnahm
 
 ## Qualitätsgate
 Antragsart begründet gewählt? Zuständigkeit beim richtigen Gericht? Sofortige Vollziehbarkeit identifiziert? Glaubhaftmachung mit Anlagen vollständig? Beschwerdefrist § 147 VwGO im Kalender? Mandant über Kostenrisiko (Streitwert) informiert?
+

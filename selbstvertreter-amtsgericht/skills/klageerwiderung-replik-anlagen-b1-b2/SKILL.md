@@ -127,23 +127,7 @@ Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
 - **Fehler:** Anlagenverzeichnis vergessen, nur im Text auf Anlagen verwiesen. → **So vermeiden:** Anlagenverzeichnis ist Pflicht-Element.
 - **Fehler:** Querverweis "siehe Anlage 2" — unklar ob K2 oder B2. → **So vermeiden:** Immer den Buchstaben mitschreiben.
 
-## Querverweise
-
-- `klage-zusammenstellen-komplettes-bundle-amtsgericht` — Bundle zusammenstellen
-- `anlagen-formatieren-k1-k2-pdf-amtsgericht` — Anlagen formatieren
-- `klageschrift-anlagen-bezeichnen` — Anlagen im Klagetext bezeichnen
-- `klageerwiderung-checkliste-alle-punkte` — Auf alle Punkte antworten
-- `replik-auf-klageerwiderung-systematik` — Replik schreiben
-- `duplik-nach-replik` — Duplik
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 für Klaeger und KE1, KE2 für Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

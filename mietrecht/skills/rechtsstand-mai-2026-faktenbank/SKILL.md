@@ -5,10 +5,6 @@ description: "Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-r
 
 # Rechtsstand Mai 2026 — Faktenbank Mietrecht und WEG
 
-## Arbeitsbereich
-
-Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersolargeräten, virtueller Eigentümerversammlung, WEG-Beschlussklage und baulichen Veränderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,19 +20,6 @@ Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Auss
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Dieser Skill ist das Quellen-Gate des Mietrecht-Plugins. Er wird geladen, wenn aktuelle Rechtslage, Mietpreisbremse, WEG-Reform, Betriebskosten, Kündigung, Kaution, bauliche Veränderung oder gerichtliche Durchsetzung relevant sind.
-
-Stand dieser Faktenbank: **29.05.2026**. Bei konkreten Mietspiegeln, Landesverordnungen und Rechtsprechung immer live prüfen.
-
-## Quellenregel
-
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freiem/amtlichem Link.
-- Mietspiegel nur aus amtlicher kommunaler Quelle oder aus `references/mietspiegel-quellen.md`.
-- Landesverordnungen zur Mietpreisbremse/Kappungsgrenze immer für Bundesland, Gemeinde und Zeitpunkt prüfen.
 
 ## Verifizierte Rechtsstandsanker
 
@@ -65,3 +48,4 @@ Stand dieser Faktenbank: **29.05.2026**. Bei konkreten Mietspiegeln, Landesveror
 - Bauliche Veränderungen: Beschluss/Anspruch, ordnungsmäßige Ausführung, Grenzen des § 20 Abs. 4 WEG und Kostenverteilung § 21 WEG getrennt prüfen.
 - Schonfristzahlung heilt die fristlose Kündigung wegen Zahlungsverzugs, nicht automatisch eine hilfsweise ordentliche Kündigung; konkrete BGH-Linie live verifizieren.
 - Mietpreisbremse nie ohne lokale Landesverordnung, Mietspiegel und Ausnahmen prüfen.
+

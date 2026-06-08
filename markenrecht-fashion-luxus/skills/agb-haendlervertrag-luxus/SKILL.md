@@ -5,10 +5,6 @@ description: "AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qua
 
 # AGB im Händlervertrag für Luxus-Selektivvertrieb
 
-## Arbeitsbereich
-
-AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

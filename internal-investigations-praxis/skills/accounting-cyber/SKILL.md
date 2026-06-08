@@ -5,10 +5,6 @@ description: "Untersucht Bilanzierungsunregelmäßigkeiten und Bilanzfälschung 
 
 # Bilanzierungsunregelmäßigkeiten und Accounting-Forensik
 
-## Arbeitsbereich
-
-Untersucht Bilanzierungsunregelmäßigkeiten und Bilanzfälschung – forensische Buchprüfung, § 331 HGB, Abschlussprüferhaftung, SEC-Meldungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -71,15 +67,6 @@ Dieser Skill strukturiert die forensische Buchprüfung und klärt die strafrecht
 - § 93 Abs. 2 AktG: Schadensersatz der Gesellschaft gegen Vorstandsmitglieder.
 - D&O-Versicherung prüfen: Deckungsausschlüsse bei vorsätzlichem Handeln.
 - Aktionärsklagen, Kapitalmarkthaftung nach §§ 37b, 37c WpHG.
-
-## Red-Team-Fragen
-
-- Wurden alle manuellen Buchungen (insb. Quartalsende, Jahresabschluss) auf Auffälligkeiten geprüft?
-- Hat der Abschlussprüfer Unregelmäßigkeiten gefunden und im Prüfungsbericht dokumentiert?
-- Ist die Ad-hoc-Meldepflicht ausgelöst, und wurde die Entscheidung zur Selbstbefreiung dokumentiert?
-- Wurden CEO und CFO über ihre persönliche SOX-Zertifizierungshaftung informiert?
-- Gibt es SEC-Whistle-Blower-Risiko (Mitarbeiter meldet direkt)?
-- Ist die D&O-Versicherung informiert und deckt sie diesen Fall?
 
 ## Normenregister
 

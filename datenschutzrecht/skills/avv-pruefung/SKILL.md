@@ -5,10 +5,6 @@ description: "Auftragsverarbeitungsvertrag nach Art. 28 DSGVO prüfen oder erste
 
 # AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO
 
-## Zweck
-
-Strukturierte Prüfung eingehender oder ausgehender Auftragsverarbeitungsverträge gegen Art. 28 DSGVO-Mindestanforderungen, das eigene AVV-Playbook (aus `CLAUDE.md`) und aktuelle EDSA-Leitlinien. Der Skill prüft zusätzlich, ob Drittlandtransfers wirksam abgesichert sind (EU-SCC, DPF, TIA) und ob Sub-Auftragsverarbeiter-Klauseln den Anforderungen entsprechen.
-
 ## Eingaben
 
 - AVV-Dokument (Datei oder Paste)
@@ -90,16 +86,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — mehrstufige Subunternehmer-Kette | Subunternehmer-Klausel gesondert pruefen; Haftungskette sichern |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Ausgabeformat
-
-1. **Kopfzeile:** Dokumentbezeichnung, Datum des Reviews, Richtung, Risikobewertung Gesamt
-2. **Pflichtklausel-Tabelle** (Art. 28 Abs. 3 DSGVO, alle Buchstaben, Status ✓/⚠️/🔴)
-3. **Playbook-Abgleich** (Klausel | Ist-Position | Soll-Position | Bewertung | Empfehlung)
-4. **Sub-AV-Abschnitt** (Listenformat)
-5. **TIA-Abschnitt** (nur wenn Drittlandexposure vorhanden)
-6. **Redline-Vorschläge** (Vertragssprache, nummeriert)
-7. **Entscheidungsoptionen**
 
 ## Beispiel (Gutachtenstil)
 
@@ -198,3 +184,4 @@ Empfehlung: Unterzeichnen / Mit Redlines / Ablehnen
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

@@ -35,10 +35,6 @@ description: "Erkennt das Schaufenster-Pattern in Arbeitszeugnissen: einzelne Sp
 
 **Beispiel 5 – Keine Drift, authentisch:** Alle Saetze im Bereich Fachkenntnisse tragen durchgehend Steigerungsadverbien und Superlative auf Note-1-Niveau. Keine Drift, Grün.
 
-## Ausgabeformat
-
-Der Skill gibt aus: pro Themenbereich eine Tabelle mit den enthaltenen Saetzen, der Einzelnote je Satz, dem hoechsten und niedrigsten Wert sowie der Drift-Spreizung. Anschliessend eine Bereichsbilanz mit Drift-Wert, Ampelzuordnung und Hinweis auf besonders heikle Bereiche (Lernbereitschaft, Innovation, Sozialverhalten). Am Ende eine Gesamtdrift-Einschaetzung mit Empfehlung: Akzeptieren, Nachverhandeln einzelner Saetze, Klagepruefung.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 Abs. 2 GewO** — Zeugnis muss klar und verständlich sein; widersprüchliche Bewertungen im selben Themenbereich verstoßen gegen Wohlwollensgebot
@@ -53,3 +49,4 @@ Der Skill gibt aus: pro Themenbereich eine Tabelle mit den enthaltenen Saetzen, 
 1. Welche Themenblöcke sind im Zeugnis enthalten? (Fachkenntnisse, Motivation, Qualität, Teamverhalten, Führung, Schluss)
 2. Wurde die Zufriedenheitsformel bereits ausgewertet? (Satzweise-Notenmatrix-Skill?)
 3. Ziel der Drift-Analyse: Klageantrag-Vorbereitung oder Mandantenberatung?
+

@@ -5,10 +5,6 @@ description: "Skill zur neuen EU-Kommissions-Bekanntmachung zur Marktdefinition 
 
 # EU-Bekanntmachung zur Marktdefinition 2024
 
-## Arbeitsbereich
-
-Skill zur neuen EU-Kommissions-Bekanntmachung zur Marktdefinition (Februar 2024) und ihrer praktischen Anwendung. Vergleich zur Bekanntmachung von 1997. Neue Elemente: digitale Maerkte Innovationswettbewerb Datenmaerkte beidseitiger SSNIP-Test und qualitative Evidenz. Fundstelle ABl 2024/C 1645. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,6 +81,3 @@ Das BKartA orientiert sich an der Kommissions-Bekanntmachung, wendet aber § 18 
 - EK, Marktdefinitionsbekanntmachung, ABl. C/2024/1645 vom 22.02.2024 (Annahme 08.02.2024) — Ablösung der Bekanntmachung 1997; erweiterte Methoden; Digitalmärkte; angebotsseitige Substitution; Preisdaten-Analyse — [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:C_202401645).
 - Rechtsprechung im Mandat live verifizieren über [curia.europa.eu](https://curia.europa.eu/) — keine Aktenzeichen aus Modellwissen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

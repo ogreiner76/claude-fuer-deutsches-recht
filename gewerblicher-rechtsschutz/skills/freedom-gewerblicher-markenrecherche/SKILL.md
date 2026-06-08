@@ -5,10 +5,6 @@ description: "Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rech
 
 # Spezial: Freedom – Schriftsatz, Brief und Memo-Bausteine
 
-## Arbeitsbereich
-
-Schriftsatz-, Brief- und Memo-Bausteine für den gewerblichen Rechtsschutz: Freedom-to-Operate, Abmahnung, einstweilige Verfügung, Klageschrift, Mandantenbrief. Wiederverwendbare Textbausteine für schnelle Dokumentenerstellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -231,15 +227,10 @@ Erstellt von: [Anwalt]
 [Patentdatenbank, Gericht, Datum]
 ```
 
-## Quellenregel
-
-- Schriftsatzbausteine auf aktuelle Normfassungen abstimmen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine veralteten Gesetzesverweise; insbesondere UWG-Reform 2022 und MarkenG-Änderungen beachten.
-- Keine BeckRS-Blindzitate; Rechtsprechungsnachweise nur mit verifizierbarer Quelle.
-
 ## Anschluss-Skills
 
 - `gewr-uwg-abmahnung-checkliste` – UWG-Abmahnung Prüfcheckliste
 - `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antragsdetails
 - `fto-triage` – Freedom-to-Operate Prüfung
 - `unterlassungsverlangen` – Unterlassungserklärung
+

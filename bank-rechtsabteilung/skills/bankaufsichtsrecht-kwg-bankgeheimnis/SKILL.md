@@ -5,10 +5,6 @@ description: "Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäfts
 
 # Bankaufsichtsrecht KWG/MaRisk-Triage
 
-## Arbeitsbereich
-
-Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäftsorganisation, Risikomanagement, Compliance, Revision, Risikocontrolling, Leitungsbefassung und Dokumentationsbedarf für interne Vermerke prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -54,10 +50,3 @@ Dieser Skill prüft, welche bankaufsichtsrechtlichen Pflichten ein konkreter Vor
 - Neue Auslagerung Kernbankensystem: § 25b KWG wesentliche Funktion, MaRisk AT 9 vollständige Dokumentation, Anzeige § 24 Abs. 1 Nr. 19 KWG
 - Compliance-Mängel intern: MaRisk AT 4.4 (Compliance-Funktion), § 25a Abs. 1 Satz 6 KWG, BaFin-Anordnungsrisiko § 6 KWG
 
-## Output
-
-Triage-Vermerk mit Normverankerung und Risikoampel; Checkliste für Anzeigepflichten nach AnzV; Entscheidungsvorlage für Vorstand/Aufsichtsrat; Entwurf Dienstleistervertrag-Klauseln bei Auslagerung.
-
-## Quellenregel
-
-Primärquellen: gesetze-im-internet.de (KWG, AnzV), bafin.de (MaRisk aktuelle Fassung, BAIT 2021). Live-Check bei MaRisk-Änderungsrundschreiben (BaFin veröffentlicht Novellen unregelmäßig), bei laufenden EBA-Guidelines zu Internal Governance (EBA/GL/2021/05) und bei DORA-ITS/RTS (eur-lex.europa.eu).

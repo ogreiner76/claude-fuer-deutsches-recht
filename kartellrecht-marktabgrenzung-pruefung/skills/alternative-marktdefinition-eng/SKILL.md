@@ -22,13 +22,6 @@ Mandant will eine engere Marktabgrenzung argumentieren um niedrigere Marktanteil
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Zweck
-
-Dieser Skill generiert eine systematisch engere alternative Marktdefinition als Gegenthese zu einer vorgelegten Abgrenzung. Anwendungsfälle:
-- Eigenes Team: Risiko-Stress-Test der eigenen Abgrenzung.
-- Gegnerische Partei oder Behörde: Argumentation für engere Definition.
-- Missbrauchsverfahren: Nachweis dominanter Stellung auf engerem Markt.
-
 ## Vorgehensweise
 
 ### Schritt 1: Ausgangsdefinition aufnehmen
@@ -78,9 +71,6 @@ Bewertung der Vertretbarkeit der engeren Definition:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Standardformulierung für Schriftsatz
 
 > "Selbst wenn man — entgegen der hier vertretenen Auffassung — den Markt enger definiert und [Produkt X] ausklammert, weil [Begründung], ergibt sich ein Marktanteil des Antragstellers von [Y%], was [Ergebnis] zur Folge hat."
@@ -113,3 +103,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Marktabgrenzung nach SSNIP-Test sauber durchfuehren; Bekanntmachung der Kommission 2024/C berücksichtigen.
 - Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie pruefen.
 - § 19a GWB-Verfahren sind eigenstaendig vom Marktmissbrauch nach § 19 GWB; Befugnisse und Rechtsfolgen unterscheiden.
+

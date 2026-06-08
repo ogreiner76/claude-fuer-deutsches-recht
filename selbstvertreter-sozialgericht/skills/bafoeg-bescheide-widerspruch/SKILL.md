@@ -70,8 +70,3 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 6. Aktualisierungsantrag, Vorausleistung oder Härtefall nötig?
 7. Rückforderung/Aufhebung nach Verwaltungsverfahrensrecht gesondert zu verteidigen?
 
-## Output
-
-- Bescheidanalyse mit Rechenzeilen, Fehlerverdacht, fehlenden Belegen und Fristen.
-- Widerspruchsentwurf in einfacher Sprache mit Anlagenliste.
-- Nachreichungs- und Telefonnotizplan, damit Laien nicht versehentlich Angaben machen, die sie nicht belegen können.

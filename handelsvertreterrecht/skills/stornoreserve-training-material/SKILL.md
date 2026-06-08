@@ -65,10 +65,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Verrechnung mit fiktiven Stornierungen — unzulässige Eigenaufrechnung.
 - Buchauszug nicht eingeholt — Stornierungen nicht nachprüfbar.
 
-## Output
-
-Stornoreserve-Analyse, AGB-Prüfvermerk, Auszahlungsanspruch-Berechnung.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +85,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
 - [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
 - [Dejure § 87a HGB](https://dejure.org/gesetze/HGB/87a.html)
+

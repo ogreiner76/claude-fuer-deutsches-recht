@@ -5,10 +5,6 @@ description: "Anwenden 02 im Zitierweise im deutschen Recht im Zitierweise. Lief
 
 # Anwenden 02
 
-## Arbeitsbereich
-
-**Anwenden 02** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Anwenden 02 im Zitierweise im deutschen Recht im Zitierweise. Lief
 - Tragende Normen verifizieren: BVerfG, BGH, BAG, BSG, BFG, BVerwG, EuGH, OLG-Zitierregeln (BGHZ, BVerfGE, NJW, ZIP, NZG, NJW-RR), § 1 GVG, ZPO/StPO/VwGO-Berichtspflichten, OSCOLA/Bluebook nur am Rande — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verfasser (Anwalt, Wissenschaftler, Richter), Adressat (Gericht, Behörde, Mandant, Peer-Review), Verlage (C.H.Beck, Nomos, Otto Schmidt).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schriftsatz, Beschluss, Aufsatz, Festschrift-Beitrag, Hausarbeit, Dissertation, Habilitation, Klausur — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zitierweise-anwenden`
@@ -165,3 +162,4 @@ Die vollständige Hauszitierweise steht in `references/zitierweise.md`. Lies sie
 - Alle Klotzkette-Rechtsgebiet-Plugins setzen diese Zitierweise als Hausstandard voraus.
 
 <!-- AUDIT 28.05.2026: Beispielblock auf schema- und prüfvermerkbasierte Darstellung reduziert, damit der Skill keine nicht erneut live verifizierten Beispielsfundstellen weiterträgt. -->
+

@@ -5,10 +5,6 @@ description: "Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe Rechnun
 
 # Schreib-Canvas
 
-## Arbeitsbereich
-
-Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe Rechnungen beA-Nachrichten und Mandantenkommunikation. Anwendungsfall Anwalt will einen Entwurf strukturieren oder schwache Stellen in einem laufenden Text aufdecken lassen. Prüfraster Tatsachenvortrag Beweisangebote Anträge Normen Fristen Stilsicherheit juristischer Substanzcheck. Output Kommentierter Entwurf mit Verbesserungsvorschlaegen zu Tatsachen Beweisen Anträgen Normen naechsten Schritten. Abgrenzung zu kanzlei-allgemein-schriftsatz-turbo (Schnellerstellung) und kanzlei-allgemein-qualitaetsgate-hardening. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Bietet ein freies Schreib-Canvas für Schriftsaetze Briefe Rechnungen beA-Nachri
 - § 253 Abs. 2 Nr. 2 ZPO — Bestimmtheitsgrundsatz beim Klageantrag
 - § 138 ZPO — Wahrheitspflicht und Erklaerungslast: Tatsachen muessen vollstaendig und wahrheitsgemass sein
 - § 43 BRAO — Sorgfaltspflicht: Canvas-Pruefung als Teil anwaltlicher Dokumentenerstellung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill stellt ein Arbeitsbrett für Entwürfe bereit: links der Rohtext, rechts Hinweise, darunter offene Tatsachen, Beweise, Fristen, Anlagen, Versand- und Abrechnungspunkte. Das Canvas soll beim Schreiben helfen, ohne ständig zu stören.
 
 ## Canvas-Bereiche
 
@@ -75,19 +64,7 @@ Formulierungen:
 - `Das ist schon verwendbar. Für den beA-Versand sollten wir noch Anlagen und Signatur prüfen.`
 - `Aus diesem Arbeitsschritt kann ich ein Zeitnarrativ vorbereiten.`
 
-## Arbeitsweise
-
-1. Entwurf aufnehmen.
-2. Textsorte erkennen.
-3. Ziel und Adressat klären.
-4. Substanzcheck durchführen.
-5. Verbesserungsvorschlag danebenstellen.
-6. Offene Punkte als kleine Aufgaben erfassen.
-7. Nach Freigabe an Output, Fristen, Zeit oder Rechnung übergeben.
-8. Bei Klage, Replik, Antrag oder gerichtlichem Schriftsatz an `kanzlei-allgemein-schriftsatz-turbo` übergeben.
-9. Bei Vertrag, Termsheet oder Klauselwunsch an `kanzlei-allgemein-vertragsentwurf` übergeben.
-10. Vor Ausgabe `kanzlei-allgemein-qualitaetsgate-hardening` nutzen.
-
 ## Ausgabe
 
 `assets/templates/schreibcanvas.md` verwenden.
+

@@ -112,12 +112,6 @@ TAG 29-30: ABSCHLUSS UND ARCHIVIERUNG
 - Monats-Statistik: Wie viele Mandanten p termingerecht?
 - KPIs: Tage zwischen Belegannahme und BWA-Versand.
 
-## Output
-
-- 30-Tage-Plan mit Termin-Sicherheit.
-- BWA, USt-VA, SV-Meldung pflichtgemaess.
-- Mandantenkommunikation strukturiert.
-
 ## Strategie und Praxis-Tipps
 
 - 30-Tage-Plan ist Standard für professionelle Kanzleien — staerkstes Qualitaetsmerkmal.
@@ -125,14 +119,6 @@ TAG 29-30: ABSCHLUSS UND ARCHIVIERUNG
 - Bei Saisonbetrieb angepasste Planung (z.B. Saison-Spitzen).
 - Sachbearbeiter-Schulung in der Kanzlei zu klaren Prozessen.
 - StBVV: in Buchfuehrungspauschale.
-
-## Querverweise
-
-- `stb-bwa-monatsabschluss-routine` — Monatsabschluss.
-- `stb-pruefliste-belegabgabe-monatlich` — Belegabgabe.
-- `stb-routine-quartalsabschluss-prozess` — Quartalsabschluss.
-- `stb-lohn-monatsende-meldepflichten-checkliste` — Lohn-Meldepflichten.
-- `stb-mandantenanfrage-reaktion-frist-laufend` — Reaktionsfristen.
 
 ## Quellen und Updates
 
@@ -144,10 +130,3 @@ Stand: 05/2026.
 - SGB IV § 23.
 - DStV-Praxisleitfaden Kanzleiorganisation.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

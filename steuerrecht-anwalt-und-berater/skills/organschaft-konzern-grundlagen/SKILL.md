@@ -11,14 +11,6 @@ description: "Prüfungslinie für anw organschaft konzern grundlagen im Steuerre
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Anwaltliche Beratung bei Begründung, Pflege und Beendigung von Organschaftsverhältnissen — drei verschiedene Konzepte mit unterschiedlichen Voraussetzungen:
-
-1. **Ertragsteuerliche Organschaft** (KSt + GewSt) — verlangt **Gewinnabführungsvertrag** mindestens 5 Jahre
-2. **Umsatzsteuerliche Organschaft** — verlangt **dreifache Eingliederung**, **keinen** Vertrag
-3. **Gewerbesteuerliche Organschaft** — i.d.R. parallel zur körperschaftsteuerlichen, eigene Tatbestände
-
 ## Kaltstart-Rückfragen
 
 1. Welche Steuerart soll Organschaft begründen (KSt, USt, GewSt, alle drei)?
@@ -157,15 +149,7 @@ Folgt grundsätzlich der KSt-Organschaft (Akzessorietät). Eigenständige Voraus
 | Internationale Struktur ohne DBA-Prüfung | Doppelbesteuerung, Wegzugsbesteuerung | DBA-Prüfung läuft | DBA-Klärung dokumentiert |
 | MinBestG-Schwelle (≥ 750 Mio EUR) überschritten | Pillar-Two-Folgen; Compliance massiv | Schwelle nähert sich | unter Schwelle |
 
-## Querverweise
-
-- `anw-verbindliche-auskunft` — vor Begründung empfehlenswert
-- `anw-mandat-triage-steuerrecht` — bei Mandatsanfang Strukturberatung
-- `fachanwalt-handels-gesellschaftsrecht` — bei Gesellschaftsrecht-Aspekten (GAV, Beteiligungserwerb)
-- `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` — Holding-Strukturierung
-- `fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings` — bei M&A
-- `anw-grunderwerbsteuer-share-deal-90-prozent` — bei Anteilserwerb mit Grundbesitz
-
 ## Quellen und Updates
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

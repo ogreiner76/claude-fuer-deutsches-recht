@@ -5,9 +5,6 @@ description: "Arbeitsgericht Abrechnung im Plugin Fachanwalt Arbeitsrecht: prüf
 
 # Arbeitsgericht Abrechnung
 
-## Arbeitsbereich
-
-**Arbeitsgericht Abrechnung** ordnet den Fall über die tragenden Prüfungslinien: Arbeitsgerichtlicher Vergleich, Vergleichsverhandlungs-Strategie für Individual- und, Zugang der Kündigung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Arbeitsgericht Abrechnung im Plugin Fachanwalt Arbeitsrecht: prüf
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `vergleich-arbeitsgericht-abrechnung`
@@ -46,14 +44,6 @@ Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit A
 ## Normanker
 
 SGB III Sperrzeit; BGB; KSchG; GewO § 109. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle genannt; bei unsicherem Stand wird ausdrücklich ein Live-Check verlangt.
-
-## Arbeitsfragen
-
-1. Was ist das konkrete Ziel und welche Frist läuft?
-2. Welche Urkunde, Mail, Zustellung, Berechnung oder Aussage belegt den entscheidenden Punkt?
-3. Welche typische Gegenposition ist zu erwarten?
-4. Welche prozessuale Form ist richtig: Schreiben, Antrag, Klage, Eilantrag, Vergleich, Red-Team?
-5. Welche Formulierung vermeidet unnötige Zugeständnisse und hält den Fall offen?
 
 ## 2. `vergleichsverhandlung-strategie`
 
@@ -234,10 +224,6 @@ Klassische Stolperfalle in Individual- und kollektives Arbeitsrecht:
 - §§ 195, 199 BGB — Verjährung (Ansprüche aus Vergleich drei Jahre)
 - § 138 BGB — Sittenwidrigkeit; § 123 BGB — Anfechtung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 3. `zugang-kuendigung-bote-beweis`
 
 **Fokus:** Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.; Normanker: KSchG § 4; BGB §§ 130 und 623; ZPO Beweis; BAG-Rechtsprechung live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
@@ -260,10 +246,3 @@ Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit A
 
 KSchG § 4; BGB §§ 130, 623; ZPO Beweis; BAG-Rechtsprechung live prüfen. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle genannt; bei unsicherem Stand wird ausdrücklich ein Live-Check verlangt.
 
-## Arbeitsfragen
-
-1. Was ist das konkrete Ziel und welche Frist läuft?
-2. Welche Urkunde, Mail, Zustellung, Berechnung oder Aussage belegt den entscheidenden Punkt?
-3. Welche typische Gegenposition ist zu erwarten?
-4. Welche prozessuale Form ist richtig: Schreiben, Antrag, Klage, Eilantrag, Vergleich, Red-Team?
-5. Welche Formulierung vermeidet unnötige Zugeständnisse und hält den Fall offen?

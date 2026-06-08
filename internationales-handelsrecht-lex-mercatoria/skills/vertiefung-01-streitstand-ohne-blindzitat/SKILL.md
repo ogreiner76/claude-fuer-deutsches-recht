@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Darstellung von Streitständen ohne 
 
 # Streitstandsdarstellung ohne Blindzitate
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Darstellung von Streitständen ohne Blindzitate. Methodik für kontroverse CISG-Fragen (Art. 55, Art. 35 öffentl.-rechtl. Anforderungen, CISG für Softwareverträge), Schiedsgerichts-Divergenz und Evidenz-basierte Positionierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Internationale Handelsfälle enthalten viele ungelöste Rechtsfragen. Eine seri�
 - CISG-online.ch: Länderrechtsprechung nach Art. 35 filtern; Divergenzen dokumentieren
 - Schiedssprüche: jusmundi.com + CENTRAL trans-lex.org für Schiedsgerichtsstandpunkte
 
-## Output
-
-- Streitstandsschema-Template (3-Positionen-Matrix)
-- Quellencheck-Checkliste gegen Blindzitate
-- CISG-Hauptstreitfragen-Übersicht mit echten Belegen
-
-## Quellenregel
-
-CISG-online.ch, CISG Advisory Council Opinions (cisgac.com), jusmundi.com, uncitral.un.org. BGH: dejure.org. Alle Zitate mit Gericht, Datum, Aktenzeichen. Unsicherheit bleibt sichtbar.

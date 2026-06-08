@@ -148,15 +148,3 @@ Ergebnis: Die Berufung auf den Formmangel ist im konkreten Fall nach
 - **§ 174 BGB Unverzüglichkeit**: Wer nicht unverzüglich (d. h. ohne schuldhaftes Zögern, in der Regel binnen einer Woche) zurückweist, verliert das Recht zur Zurückweisung wegen fehlender Vollmacht — die Kündigung gilt dann als wirksam erklärt.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Querverweise
-
-- → `anspruchsformulierungen-bei-formverstoss`
-- → `formerfordernisse-im-bgb-ueberblick`
-- → `gewerberaummiete-paragraph-550-bgb-langzeitform` (§ 242 BGB bei § 550 BGB)
-- → `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt`
-
-<!-- AUDIT 27.05.2026 bundle_043
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Maßnahme: Keine Änderung am Skill-Text erforderlich. AZ und Inhalt bestätigt.
-Quelle: https://www.otto-schmidt.de/blog/zivil-und-zivilverfahrensrecht-blog/montagsblog-neues-vom-bgh-ZRBLOG0004000.html
--->

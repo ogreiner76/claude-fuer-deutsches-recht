@@ -5,10 +5,6 @@ description: "Rechtsweg- und Zuständigkeitsrouter für TK-Streitigkeiten: Verbr
 
 # Zuständigkeit: BNetzA, Verwaltungsgericht, Zivilgericht, Kartellspur
 
-## Arbeitsbereich
-
-Rechtsweg- und Zuständigkeitsrouter für TK-Streitigkeiten: Verbraucheranspruch, BNetzA-Regulierungsverfahren, zivilrechtlicher Vertrag, verwaltungsgerichtlicher Eilrechtsschutz und Kartell-/Missbrauchsschnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ Rechtsweg- und Zuständigkeitsrouter für TK-Streitigkeiten: Verbraucheranspruch
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Fälle, in denen unklar ist, ob man zur Bundesnetzagentur, zum Verwaltungsgericht, zum Amts-/Landgericht oder in eine kartellrechtliche Spur muss.
-
 ## Norm- und Quellenanker
 
 TKG; VwGO; VwVfG; GVG/ZPO; GWB; AEUV Art. 101/102; Rechtsbehelfsbelehrung live prüfen.
-
-## Arbeitsfragen
-
-1. Welche Entscheidung/Handlung wird angegriffen?
-2. Ist es Verwaltungsakt, Allgemeinverfügung, zivilrechtliche Rechnung oder Marktverhalten?
-3. Welche Rechtsbehelfsbelehrung steht im Dokument?
-4. Gibt es parallele Schlichtung oder Beschwerde?
-
-## Output
-
-Rechtsweg-Vermerk mit taktischem Parallelfahrplan und Fristenampel.
 
 ## Red Flags
 
@@ -48,6 +29,3 @@ Rechtsweg-Vermerk mit taktischem Parallelfahrplan und Fristenampel.
 - tk-verwaltungsrecht-anfechtung-bnetza
 - tk-zivilklage-lg-entgelt-schadensersatz
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

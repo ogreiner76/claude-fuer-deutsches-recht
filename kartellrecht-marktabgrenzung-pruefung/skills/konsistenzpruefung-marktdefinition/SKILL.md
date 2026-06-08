@@ -5,10 +5,6 @@ description: "Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Üb
 
 # Konsistenzprüfung der Marktdefinition
 
-## Arbeitsbereich
-
-Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Übereinstimmung von Sachmarkt und räumlichem Markt tatsaechlichem Marktverhalten Behördenpraxis und oekonomischen Grundprinzipien. Erkennt Zirkelschluesse und inkonsistente Argumente zwischen verschiedenen Teilen einer Marktanalyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Übereinstimmung 
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Zweck
-
-Eine Marktabgrenzung kann auf Einzelargumenten robust erscheinen, aber in sich widersprüchlich sein. Die Konsistenzprüfung sucht nach internen Inkohärenzen.
 
 ## Prüfkategorien
 
@@ -86,6 +78,3 @@ Konsistenz: **hoch / mittel / gering** — mit Hauptwiderspruch in einem Satz.
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -46,13 +46,6 @@ description: "Klausurhilfe zu häufigen Fehlsubsumtionen bei Minderjährigen-Ges
 - Taschengeld-Paragraph gilt nicht bei Ratenkauf auf Kredit, auch wenn Raten aus Taschengeld bezahlt werden.
 - Genehmigung durch einen Elternteil kann ausreichen, aber Interessenkollision beachten.
 
-## Output
-
-- Fehlsubsumtions-Checkliste mit typischen Irrtümern und Korrektur
-- Prüfungsschema Minderjährige: Schritt für Schritt
-- Gutachtenstil-Abschnitt zu einem exemplarischen Klausurfall
-- Merksätze für häufige Fallgruppen
-
 ## Quellen
 
 - [§ 107 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__107.html)
@@ -84,3 +77,4 @@ Wenn ein Minderjährigenfall falsch gelöst wurde: (1) Richtige Norm identifizie
 - § 107 BGB (rechtlich vorteilhaft) oder § 110 BGB (Taschengeldparagraph) zutreffend?
 - Einwilligung oder Genehmigung — Zeitpunkt der Zustimmung beachtet?
 - § 111 BGB: Einseitige Rechtsgeschäfte ohne Einwilligung unwirksam?
+

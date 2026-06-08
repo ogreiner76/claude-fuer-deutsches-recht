@@ -5,10 +5,6 @@ description: "Aufbau eines EU-China-Handelsrisiko-Dashboards für Unternehmen: D
 
 # EU-China Trade-Risk-Dashboard: Aufbau und Betrieb
 
-## Arbeitsbereich
-
-Aufbau eines EU-China-Handelsrisiko-Dashboards für Unternehmen: Datenquellen (Eurostat, BMWK, BAFA), Abhängigkeitsindikatoren, Sektorrisiko-Scores, De-risking-Fortschritts-KPIs, Anti-Dumping/Countervailing-Watch, FDI-Meldestatus. Output: Dashboard-Struktur mit Datenquellen-Matrix und Aktualisierungsrhythmus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,13 +77,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
 
-## Output
-
-Dashboard-Struktur (Dimensionen, KPIs, Datenquellen), Datenquellen-Matrix, Aktualisierungsplan, Muster-Folie für Board-Reporting.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
-
 ## Quellen
 
 Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
@@ -97,3 +86,4 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
 - [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
 - [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
+

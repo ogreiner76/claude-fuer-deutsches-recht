@@ -5,10 +5,6 @@ description: "Entlassmanagement nach § 39 Abs. 1a SGB V: Rahmenvertrag Entlassm
 
 # Entlassmanagement § 39 Abs. 1a SGB V
 
-## Arbeitsbereich
-
-Entlassmanagement nach § 39 Abs. 1a SGB V: Rahmenvertrag Entlassmanagement, Patienteneinwilligung, Verordnungsbefugnis (AU, Heil-/Hilfsmittel, AM), Schnittstelle ambulante Versorgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,17 +75,10 @@ Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussver
 - Reha-Antrag erst nach Entlassung — Versorgungslueche.
 - Pflegeueberleitung erst am Entlasstag — Pflegegrad-Lueche.
 
-## Querverweise
-- `patientenrechte-behandlungsvertrag-aufklaerung`
-- `datenschutz-krankenhaus-patientenakte-forschung`
-- `dokumentation-aufbewahrung-beweislast`
-- `krankenhausapotheke-arzneimittelversorgung`
-- `sektorenuebergreifende-versorgung-level-ii-klinik`
-- `kinder-und-jugendmedizin-besondere-versorgung`
-
 ## Quellen Stand 06/2026
 - SGB V § 39 Abs. 1a.
 - Rahmenvertrag Entlassmanagement (Live-Check gkv-spitzenverband.de, dkgev.de, kbv.de).
 - SGB XI Pflegeueberleitung.
 - BGB §§ 630a ff., PatientenrechteG.
 - BSG, staend. Rspr. zur Anschlussversorgung.
+

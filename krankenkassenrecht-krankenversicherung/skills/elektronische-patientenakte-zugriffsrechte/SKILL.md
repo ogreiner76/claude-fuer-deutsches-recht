@@ -5,10 +5,6 @@ description: "ePA nach § 341 SGB V: Zugriffsrechte der Versicherten und Leistun
 
 # Elektronische Patientenakte: Zugriffsrechte
 
-## Arbeitsbereich
-
-ePA nach § 341 SGB V: Zugriffsrechte der Versicherten und Leistungserbringer, Datenschutzkontrolle, opt-out-Regelung und Pflichten der Kassen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,3 +91,4 @@ Die elektronische Patientenakte (ePA) wird ab 2025 für alle GKV-Versicherten an
 - [BfDI ePA-Stellungnahmen](https://www.bfdi.bund.de)
 - [DSGVO Art. 9](https://dsgvo-gesetz.de/art-9-dsgvo/)
 - [dejure.org § 341 SGB V](https://dejure.org/gesetze/SGB_V/341.html)
+

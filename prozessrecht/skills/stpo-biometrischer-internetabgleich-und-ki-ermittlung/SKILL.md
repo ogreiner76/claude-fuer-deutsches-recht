@@ -17,12 +17,6 @@ StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometris
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill ist die StPO-Schaltstelle für neue digitale Ermittlungsmaßnahmen. Er prüft, ob Ermittlungsbehörden biometrische Daten, öffentlich zugängliche Internetdaten oder verfahrensübergreifende Analyseplattformen rechtmäßig eingesetzt haben und welche prozessualen Reaktionen möglich sind.
-
-Der Skill arbeitet ausdrücklich mit Rechtsstandsmarkierung: § 98d und § 98e StPO sind als Entwurfsnormen zu prüfen, solange kein verkündetes Gesetz in Kraft ist. Tragende Aussagen zum Wortlaut immer anhand aktueller amtlicher Quellen verifizieren.
-
 ## Einordnung: vier unterschiedliche Maßnahmen
 
 | Maßnahme | Typischer Rechtsanker | Risiko |
@@ -159,11 +153,3 @@ Wenn diese Unterlagen fehlen, ist das nicht nur Datenschutz- oder Technikproblem
 | Berufsgeheimnisträger/Kernbereich berührt | besondere Schutzmechanismen und Verwertungsgrenzen geltend machen |
 | KI-VO-Dokumentation fehlt | Hochrisiko-Konformität, Grundrechte-Folgenabschätzung und Systemaufsicht rügen |
 
-## Output
-
-- StPO-Prüfvermerk zur digitalen Ermittlungsmaßnahme.
-- Akteneinsichts- und Nachforderungsantrag.
-- Beweisverwertungs- und Beweiswertangriff.
-- Fragenkatalog an Ermittlungsbeamte, IT-Verantwortliche und Sachverständige.
-- Mandanten-/Zeugeninformation in verständlicher Sprache.
-- Prozessuale Risikoampel für Hauptverhandlung, Beschwerde und Revision.

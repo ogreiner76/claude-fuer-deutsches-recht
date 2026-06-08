@@ -164,22 +164,7 @@ Arbeitsfokus: **Bemessungsgrundlage 2026**. Prüfe diese Anker am Sachverhalt; e
 - `§ 370 AO` — Grenze zur Steuerhinterziehung bei falschen Angaben.
 - `Art. 25 AGVO` — Beihilferahmen für Forschungs- und Entwicklungsbeihilfen.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- Berechnungstabelle pro Wirtschaftsjahr.
-- Beleganforderungsliste (Lohnkonten, Verträge, Rechnungen, AfA-Plan).
-- Sensitivitätsanalyse konservativ / realistisch / maximal.
-- Hinweis auf KMU-Voraussetzungen und Erhöhungs-Antrag (separat zu prüfen).
-
-## Querverweise
-
-- `fz-finanzamt-festsetzung-auszahlung` für die Antragstellung beim Finanzamt.
-- `fz-dokumentationspaket-betriebspruefung` für die Belegfähigkeit.
-- `fz-kumulierung-beihilfen-agvo` für AGVO-Höchstintensität.
-- `fz-roadmap-mehrjahresantrag` für die Aufteilung über Wirtschaftsjahre.
 
 ## Quellen Stand 05/2026
 
@@ -188,10 +173,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Steuerliches Investitionssofortprogramm 2025/2026: https://www.bescheinigung-forschungszulage.de/steuerliches-investitionssofortprogramm
 - `references/forschungszulage-quellen-und-zahlen.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

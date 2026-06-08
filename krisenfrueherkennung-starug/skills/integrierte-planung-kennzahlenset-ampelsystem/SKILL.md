@@ -5,10 +5,6 @@ description: "Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaR
 
 # Integrierte Planung — GuV, Bilanz und Cashflow
 
-## Arbeitsbereich
-
-Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB §§ 242 ff. (Jahresabschluss), § 1 StaRUG. Prüfraster: GuV-Plan, Bilanzplan, Cash-Flow-Statement, Working-Capital-Modell, Investitions-/Finanzierungsplan, Brucke Ergebnis-Liquiditaet. Output Excel-Modell-Template, Planungsannahmen-Memo. Abgrenzung: Liquiditaetsplanung rolling siehe rollierende-liquiditaetsplanung-24-monate-template; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -60,118 +56,6 @@ KONTROLLFORMEL:
  + Cashflow aus Investitionstätigkeit
  + Cashflow aus Finanzierungstätigkeit
 ```
-
----
-
-## Vorgehen
-
-### Schritt 1: GuV-Planung erstellen
-
-**Mindeststruktur:**
-
-```
-Umsatzerlöse
-- Material-/Wareneinsatz
-= Rohertrag / Bruttoergebnis
-- Personalkosten
-- Sonstige betriebliche Aufwendungen (Miete, Marketing, IT, ...)
-= EBITDA (Earnings before Interest, Taxes, Depreciation, Amortization)
-- Abschreibungen (AfA)
-= EBIT
-- Zinsaufwand
-+ Zinsertrag
-= EBT (Ergebnis vor Steuern)
-- Ertragsteuern (Körperschaftsteuer, Solidaritätszuschlag, Gewerbesteuer)
-= Jahresergebnis
-```
-
-**Planprämissen je Zeile dokumentieren** (Wachstumsrate, Kostensteigerung, etc.)
-
-### Schritt 2: Working-Capital-Modellierung
-
-Das Working Capital ist die kritische Brücke zwischen GuV und Cashflow:
-
-```
-WORKING CAPITAL = Vorräte + Forderungen L&L - Verbindlichkeiten L&L
-
-Modellierung über Umschlagstage:
- Vorräte (DIO) = (Vorräte / Umsatz) × 365 Tage
- Forderungen (DSO) = (Forderungen L&L / Umsatz) × 365 Tage
- Verbindlichkeiten (DPO) = (Verb. L&L / Wareneinsatz) × 365 Tage
-
- Net Working Capital Days = DIO + DSO - DPO
-
- Veränderung Working Capital = WC(t) - WC(t-1)
- → Zunahme WC: Cashflow negativ (Liquiditätsbindung)
- → Abnahme WC: Cashflow positiv (Liquiditätsfreisetzung)
-```
-
-### Schritt 3: Bilanzplanung
-
-Bilanzpositionen aus GuV und Working-Capital-Modell ableiten:
-
-**Aktiva:**
-- Anlagevermögen: Vorjahr + Investitionen - Abschreibungen
-- Vorräte: über DIO-Formel
-- Forderungen L&L: über DSO-Formel
-- Kassenbestand: aus Cashflow-Statement
-
-**Passiva:**
-- Eigenkapital: Vorjahr + Jahresergebnis - Ausschüttungen
-- Verbindlichkeiten L&L: über DPO-Formel
-- Bankverbindlichkeiten: Plan-Tilgungen und -Ziehungen
-- Steuerrückstellungen: aus GuV
-
-### Schritt 4: Cashflow-Statement ableiten (indirekte Methode)
-
-```
-CASHFLOW AUS LAUFENDER GESCHÄFTSTÄTIGKEIT
- Jahresergebnis
- + Abschreibungen
- +/- Veränderung Vorräte
- +/- Veränderung Forderungen L&L
- +/- Veränderung Verbindlichkeiten L&L
- +/- Veränderung sonstige Aktiva/Passiva
- = CFO (Cash Flow from Operations)
-
-CASHFLOW AUS INVESTITIONSTÄTIGKEIT
- - Investitionen in Sachanlagen (CAPEX)
- + Erlöse aus Anlagenverkäufen
- = CFI (Cash Flow from Investing)
-
-CASHFLOW AUS FINANZIERUNGSTÄTIGKEIT
- + Kreditaufnahmen
- - Kredittilgungen
- - Zinszahlungen (alternativ: unter CFO)
- - Dividenden/Ausschüttungen
- = CFF (Cash Flow from Financing)
-
-FREE CASH FLOW = CFO + CFI
-NETTO-CASH-CHANGE = CFO + CFI + CFF
-ENDBESTAND KASSE = Anfangsbestand + Netto-Cash-Change
-```
-
-### Schritt 5: Investitions- und Finanzierungsplan
-
-Separates Modul für größere Investitionsvorhaben:
-
-- CAPEX-Planung (Erhaltungsinvestition vs. Wachstumsinvestition)
-- Finanzierungsstruktur je Investition (Eigen-/Fremdfinanzierung, Förderung)
-- Tilgungsplan bestehender Verbindlichkeiten
-- Fälligkeiten und Verlängerungsoptionen bestehender Kredite
-
-### Schritt 6: Sanierungskonzept-Brücke
-
-Wenn die integrierte Planung ein Sanierungskonzept tragen soll, ergänze zwingend:
-
-- **Krisenursachen:** Welche Planposition adressiert welche Ursache?
-- **Leitbild:** Welche Zielstruktur erklärt die Planwerte nach Sanierung?
-- **Maßnahmenlog:** Maßnahme, Verantwortlicher, Zeitpunkt, Kosten, GuV-/Bilanz-/Liquiditätseffekt, Nachweis.
-- **Szenarien:** Base Case und plausible Downside; bei kritischen Annahmen zusätzlich Einzelsensitivität.
-- **Dokumentation:** Datenstand, Planversion, Quellen, Annahmen, offene Punkte.
-- **Monitoring:** Kennzahlen, Covenants, Mindestliquidität, Reporting-Takt.
-
-Eine reine Drei-Statement-Mechanik reicht nicht, wenn die wirtschaftliche Sanierungslogik fehlt.
 
 ---
 
@@ -227,14 +111,6 @@ FINANZIERUNG
 
 ---
 
-## Querverweise
-
-- → `rollierende-liquiditaetsplanung-24-monate-template` — detaillierter Cashflow-Plan
-- → `fruehwarnsystem-architektur-zwei-jahres-horizont` — Einbettung in Frühwarnsystem
-- → `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Ableitung aus der Planung
-- → `fortbestehensprognose-zweistufig` — Nutzung der integrierten Planung für IDW S 11
-- → `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — Diagnostik auf Basis der Planung
-
 ## Aktuelle Leitentscheidungen — Integrierte Planung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -253,6 +129,3 @@ FINANZIERUNG
 4. **Saldo-Check?** Integrierte Planung muss bilanziell schliessen (Bilanzsumme immer ausgeglichen).
 5. **Sanierungsbezug?** Jede tragende Planverbesserung muss auf Ursache, Maßnahme, Timing und Beleg zurückgeführt werden.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

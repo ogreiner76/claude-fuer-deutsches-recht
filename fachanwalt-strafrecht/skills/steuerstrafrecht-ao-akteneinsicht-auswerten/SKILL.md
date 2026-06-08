@@ -5,9 +5,6 @@ description: "Steuerstrafrecht AO Akteneinsicht Auswerten im Strafrecht: prüft 
 
 # Steuerstrafrecht AO Akteneinsicht Auswerten
 
-## Arbeitsbereich
-
-**Steuerstrafrecht AO Akteneinsicht Auswerten** ordnet den Fall über die tragenden Prüfungslinien: Selbstanzeige nach Paragraph 371 AO, Strukturierte Auswertung der Strafakte nach Akteneinsicht §, Erstgespraeach und Mandatsannahme im Strafrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Steuerstrafrecht AO Akteneinsicht Auswerten im Strafrecht: prüft 
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige`
@@ -113,12 +111,6 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 
 **Antrag auf Verfahrenseinstellung Paragraph 170 Abs 2 StPO:** "Es wird beantragt, das Strafverfahren nach Paragraph 170 Abs 2 StPO einzustellen, da die Selbstanzeige meines Mandanten nach Paragraph 371 AO wirksam ist und alle Voraussetzungen erfuellt sind. Insbesondere wurden alle hinterzogenen Steuern einschliesslich Zinsen und Zuschlag fristgerecht gezahlt."
 
-## Querverweise
-
-- `strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung`
-- `strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig`
-- `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 371 AO im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -131,23 +123,11 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 - BGH staendige Rspr. zum Vollstaendigkeitsgebot.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `akteneinsicht-strafrecht-auswerten`
 
 **Fokus:** Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverständige) Personenregister Chronologie Aussagen-Synopse mit Inkonsistenzen Verwertungsverbots-Prüfung Belehrungsfehler § 136a StPO Beschuldigtenrechte § 136 StPO Beweisverwertungsverbote sowie Verteidigungsstrategie-Optionen. Ergebnis ist Aktenexzerpt zur Hauptverhandlungsvorbereitung mit Beweisanträgen Befangenheits-Prüfung und Vermerk für Beweisverwertung.
 
 ### Akteneinsicht — Strafakte auswerten
-
-## Zweck
-
-Aus der oft tausende Seiten umfassenden Strafakte das Verteidigungs-relevante extrahieren und systematisch ordnen.
 
 ## Voraussetzung
 
@@ -291,10 +271,6 @@ Pro Tat-Element (objektiver Tatbestand: Wer Wann Wo Wie):
 ## Aktuelle Rechtsprechung Aktenauswertung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## 3. `erstgespraech-mandatsannahme`
 
@@ -597,10 +573,6 @@ Mit kollegialen Gruessen
 
 ### Anklage-Reaktion
 
-## Zweck
-
-Anwaltliche Reaktion auf eingereichte Anklage.
-
 ## 1) Anklage-Prüfung
 
 ### Pflicht-Inhalte § 200 StPO
@@ -779,10 +751,3 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 - § 153 StPO — Einstellung Geringfuegigkeit
 - § 153a StPO — Einstellung gegen Auflage
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

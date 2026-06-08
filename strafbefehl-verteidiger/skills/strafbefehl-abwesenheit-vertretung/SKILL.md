@@ -38,9 +38,6 @@ Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht ers
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Abwesenheits-Strategie
 
 ```
@@ -83,3 +80,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Bei Verwerfung nach § 412 StPO: sofort Wiedereinsetzungsantrag (1-Woche-Frist § 45 StPO).
 - Mandant immer ueber Folgen des Nichterscheinens aufklaeren.
 - Anwaltliche Endkontrolle vor dem Termin.
+

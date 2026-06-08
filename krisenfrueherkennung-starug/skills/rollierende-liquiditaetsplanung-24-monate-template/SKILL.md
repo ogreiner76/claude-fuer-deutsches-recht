@@ -5,10 +5,6 @@ description: "Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: S
 
 # Rollierende Liquiditätsplanung — 24-Monate-Template
 
-## Arbeitsbereich
-
-Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), Fortbestehensprognose, Sanierungskonzept. Prüfraster: Woechentliche Granularitaet Wochen 1-13, monatliche Granularitaet Monate 14-24, Stresstests, Sensitivitaetsanalysen, Maßnahmenbrücke, StaRUG-konforme Dokumentation. Output Excel-Template Liquiditaetsplanung, Stresstest-Szenarios, Dokumentationsprotokoll. Abgrenzung: Integrierte GuV/Bilanz/CF-Planung siehe integrierte-planung-guv-bilanz-cashflow; Ampel-KPIs siehe kennzahlenset-und-ampelsystem-starug-konform. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -67,99 +63,6 @@ Der Liquiditätsplan muss enthalten:
 - Kumulierter Kassenbestand
 - Verfügbare Kreditlinien
 - Gesamtliquidität (Kassenbestand + freie Linien)
-
----
-
-## Vorgehen
-
-### Schritt 1: Strukturaufbau des 24-Monats-Plans
-
-```
-PLANSTRUKTUR — ÜBERBLICK
-
-Spalten: [Datum / Woche / Monat]
-
-ZUFLÜSSE
- + Umsatzerlöse brutto
- - USt-Abführung (auf Umsatz)
- + Anzahlungen Kunden
- + Kreditziehungen
- + Sonstige Zuflüsse
- = ZUFLÜSSE GESAMT
-
-ABFLÜSSE
- - Materialeinkauf
- - Personal (netto + AG-Anteile SV)
- - Miete / Leasing
- - Zinsen
- - Tilgung
- - USt-Voranmeldung
- - Investitionen
- - Sonstige Abflüsse
- = ABFLÜSSE GESAMT
-
-NETTO-CASHFLOW = Zuflüsse - Abflüsse
-
-KASSENBESTAND
- + Anfangsbestand
- + Netto-Cashflow
- = Endbestand
-
-KREDITLINIE
- + Verfügbarer Rahmen
- - Inanspruchnahme
- = Freie Kreditlinie
-
-GESAMTLIQUIDITÄT = Endbestand + Freie Kreditlinie
-```
-
-### Schritt 2: Wöchentliche Planung (Wochen 1-13)
-
-Für die ersten 13 Wochen wird jede Woche einzeln geplant:
-
-1. **Basis:** Offene-Posten-Listen Debitoren und Kreditoren (Stichtag aktuell)
-2. **Zahlungsverhalten:** Historische DSO (Days Sales Outstanding) und DPO (Days Payable Outstanding) anwenden
-3. **Fälligkeiten:** Steuertermine, Lohnläufe, Kreditorenzahlungsziele eintragen
-4. **Kontokorrent-Check:** Wöchentlich prüfen, ob Überziehung droht
-
-### Schritt 3: Monatliche Planung (Monate 14-24)
-
-Für den Zeitraum Monat 14-24:
-
-1. **Planprämissen dokumentieren:** Umsatzwachstum/-rückgang, Kostenentwicklung, Investitionspläne
-2. **Mindestens zwei Szenarien:** Base Case + Bear Case (oder mehr)
-3. **Refinanzierungsbedarfe** explizit kennzeichnen: Wann läuft welche Kreditlinie aus?
-4. **Covenants einblenden:** Wann werden Finanzkennzahl-Anforderungen überprüft?
-
-### Schritt 4: Stresstests definieren und durchrechnen
-
-| Stresstest | Annahme | Typische Auswirkung |
-|---|---|---|
-| Umsatzeinbruch | Umsatz minus 20 % über 6 Monate | Liquiditätsreichweite reduziert sich um ca. 4-6 Monate |
-| Debitorenlaufzeit | DSO steigt von 45 auf 75 Tage | Sofortige Liquiditätslücke von ca. 2 Monatsumsätzen |
-| Kreditlinienkündigung | Hausbankkredit wird nicht verlängert | Refinanzierungslücke in EUR [x] sichtbar |
-| Kostenexplosion | Material-/Energiekosten plus 30 % | EBITDA-Erosion, ab wann DSCR unter 1,0? |
-
-### Schritt 5: Plan-Ist-Abweichungsanalyse
-
-Monatlicher Vergleich: Was wurde geplant, was ist eingetreten?
-
-- Abweichungen > 10 % müssen kommentiert werden
-- Systematische Abweichungen führen zur Planrevision
-- Planrevision wird dokumentiert und von GF unterschrieben
-
-### Schritt 6: Brücke zum Sanierungskonzept
-
-Wenn der 24-Monats-Plan Bank, Gläubiger, StaRUG, Schutzschirm oder Insolvenzplan tragen soll, ergänze:
-
-- Krisenursache je Engpass.
-- Leitbild des sanierten Unternehmens.
-- Maßnahmenlog mit Verantwortlichem, Kosten, Timing, GuV-/Bilanz-/Liquiditätseffekt und Nachweis.
-- Plan-GuV und Planbilanz.
-- Base Case und plausible Downside.
-- Annahmen-, Quellen- und Planversionsregister.
-
-Ohne diese Brücke ist die Planung ein Liquiditätsforecast, aber noch kein Sanierungskonzept.
 
 ---
 
@@ -244,14 +147,6 @@ INVESTITIONEN
 
 ---
 
-## Querverweise
-
-- → `fruehwarnsystem-architektur-zwei-jahres-horizont` — Systemarchitektur
-- → `integrierte-planung-guv-bilanz-cashflow` — Drei-Statement-Verbindung
-- → `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Schwellen
-- → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Prognosezeitraum
-- → `fortbestehensprognose-zweistufig` — IDW S 11-Nutzung der Liquiditätsplanung
-
 ## Weitere Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -263,3 +158,4 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+

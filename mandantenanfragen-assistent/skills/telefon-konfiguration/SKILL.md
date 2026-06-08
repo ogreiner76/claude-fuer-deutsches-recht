@@ -5,10 +5,6 @@ description: "Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsser
 
 # Telefon-Konfiguration
 
-## Arbeitsbereich
-
-Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfigurationsverwaltung Kanzlei-Nummern. Prüfraster: kanzlei.json Sekretariatsnummer Transkriptionsnummer Lesen und Setzen der Platzhalter. Output: konfigurierte Telefonnummern in Templates. Abgrenzung zu erstantwort-generator (E-Mail-Erstellung) und muster-erstantwort. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,9 +32,6 @@ Dieser Skill verwaltet die Kanzlei-spezifischen Kontaktdaten — insbesondere Te
 - Art. 13 Abs. 1 lit. a DSGVO — Informationspflicht: Kontaktdaten des Verantwortlichen bei Ersterhebung
 - § 43 BRAO — Sorgfaltspflicht: korrekte und aktuelle Kanzlei-Stammdaten in aller Kommunikation
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Platzhalter-Konfiguration: kanzlei.json
 
 Die Kanzlei hinterlegt ihre Kontaktdaten in einer Datei `kanzlei.json`. Das Beispiel-Format:
@@ -140,3 +133,4 @@ Für jeden Standort eine separate `kanzlei-[standort].json` anlegen und beim Abr
 - `erstantwort-generator` — Hauptabnehmer der Konfigurationsdaten
 - `transkriptionsdienst-erklaerung` — benötigt `telefon_transkription`
 - `muster-erstantwort` — Platzhalter werden durch diesen Skill befüllt
+

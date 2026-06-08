@@ -25,16 +25,6 @@ Kanzleien und Rechtsabteilungen, die externe KI-Dienste beruflich nutzen, sind i
 
 Art. 3 Nr. 4 KI-VO: "Betreiber" — wer ein KI-System in eigener Verantwortung beruflich verwendet, also typischerweise eine Kanzlei, die einen externen KI-Dienst nutzt. Art. 3 Nr. 3 KI-VO: "Anbieter" — wer ein KI-System entwickelt und in Verkehr bringt; Kanzleien sind in der Regel keine Anbieter. Art. 4 KI-VO: Pflicht zur KI-Kompetenz (seit 2. Februar 2025 in Kraft). Art. 6 Abs. 2 KI-VO i.V.m. Anhang III Nr. 8.a: Hochrisiko-KI für Justizbehörden — Anwaltschaft ist keine staatliche Justizbehörde, daher in der Regel kein Hochrisiko-Tatbestand. Art. 6 Abs. 3 KI-VO: Rückausnahmen vom Hochrisiko-Status. Art. 50 Abs. 4 KI-VO: Kennzeichnungspflicht für öffentliche Informationstexte — Ausnahme bei redaktioneller Verantwortung. Art. 3 Nr. 63 KI-VO: GPAI-Modell (KI-Modell mit allgemeinem Verwendungszweck).
 
-## Vorgehen
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-1. **Betreiber-Status bestätigen**: Kanzlei nutzt fremden KI-Dienst beruflich → Betreiber nach Art. 3 Nr. 4 KI-VO. Einzelner angestellter Anwalt ist kein Betreiber, wenn die Kanzlei den Account bereitstellt.
-2. **Hochrisiko-Prüfung**: Fällt das eingesetzte KI-System unter Anhang III Nr. 8.a (Justizbehörden)? Nein — Anwaltschaft ist keine staatliche Justizbehörde. Prüfen, ob ggf. Anhang III Nr. 4 (Personalwesen) greift.
-3. **KI-Kompetenz sicherstellen**: Art. 4 KI-VO verlangt kontextspezifische Kompetenz des Personals. Schulungsmaßnahmen dokumentieren (vgl. Skill `ki-kompetenz-erwerb-plan`).
-4. **Kennzeichnungspflicht beurteilen**: Werden öffentliche Informationstexte zu Angelegenheiten von öffentlichem Interesse erzeugt? Falls ja: Kennzeichnungspflicht, es sei denn, redaktionelle Verantwortung eines Menschen liegt vor. Anwalt, der Schriftsatz unterschreibt, hat redaktionelle Verantwortung.
-5. **GPAI-Modelle berücksichtigen**: Chatbots wie Systeme der OpenAI-Familie oder vergleichbare Dienste basieren auf KI-Modellen mit allgemeinem Verwendungszweck (GPAI). Für diese gelten gesonderte Transparenzpflichten der Anbieter.
-
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -128,3 +118,4 @@ Verantwortlicher: [NAME], [DATUM]
 Halluzinations-Reparatur Bundle 035:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

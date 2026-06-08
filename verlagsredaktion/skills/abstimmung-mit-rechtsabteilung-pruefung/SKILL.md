@@ -5,10 +5,6 @@ description: "Inhouse-Legal-Check vor Veroeffentlichung: strukturierte Abstimmun
 
 # Inhouse-Legal-Check vor Veroeffentlichung
 
-## Arbeitsbereich
-
-Inhouse-Legal-Check vor Veroeffentlichung: strukturierte Abstimmung mit Justiziariat zu Aeusserungsrecht, Persoenlichkeitsrecht, Urheberrecht, Wettbewerbsrecht und Datenschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -125,15 +121,6 @@ Unterschrift: [Name]
 - Pruefauftrag erst zur Drucknacht - Druck der Bewertung lastet auf Justiziariat.
 - Nachtraegliche Aenderungen am Beitrag nach Freigabe ohne erneute Vorlage - Freigabe entfaellt.
 - Bei Onlineversion abweichende Fassung ohne separate Freigabe.
-
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung der Pruefdringlichkeit.
-- `workflow-dokumentenintake` - Aufbereitung der Pruefunterlagen.
-- `rechtecheck-urhg-verlg` - Pruefung der urheber- und verlagsrechtlichen Fragen.
-- `qualitaetsgate-verlag` - Endkontrolle vor Imprimatur.
-- `ai-einsatz-transparenz-datenschutz` - bei KI-Anteilen besonders relevant.
-- `verl-haftungsfreistellung-autor-verlag` - vertragliche Risikoverteilung.
 
 ## Quellen Stand 06/2026
 

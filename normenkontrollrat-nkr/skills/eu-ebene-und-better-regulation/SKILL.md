@@ -83,14 +83,6 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 - EU-Folgenabschaetzung nicht in deutsche Begruendung uebernommen
 - Eigene Methodik abweichend von Better-Regulation-Toolbox ohne Begruendung
 
-## Querverweise
-
-- `nkr-eu-richtlinien-umsetzung-und-goldplating` — Detailskill Goldplating
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `nkr-evaluation-und-jahresbericht`
-- `legistik-werkstatt/legw-eu-richtlinienumsetzung-spezial`
-
 ## Quellen Stand 06/2026
 
 - Art. 288 AEUV, Art. 5 EUV
@@ -99,3 +91,4 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 - NKRG vom 14.08.2006 § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [ec.europa.eu/info/better-regulation](https://ec.europa.eu/info/law/better-regulation_en) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

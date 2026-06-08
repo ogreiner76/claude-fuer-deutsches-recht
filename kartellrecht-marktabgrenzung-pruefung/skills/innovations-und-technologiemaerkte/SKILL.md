@@ -5,10 +5,6 @@ description: "Marktabgrenzung in dynamischen Technologiemaerkten wo kuenftige In
 
 # Innovations- und Technologiemärkte
 
-## Arbeitsbereich
-
-Marktabgrenzung in dynamischen Technologiemaerkten wo kuenftige Innovation den Wettbewerb praegt oder Patent-Pools streitig sind. Prüft Innovationsmaerkte technologische Substitution Standard-Essential-Patents FuE-Maerkte. Normen Art. 102 AEUV § 18 GWB FKVO 139/2004 EU-Bekanntmachung Marktdefinition 2024. Prüfraster Innovation-Markets-Doktrin Patent-Pool-Effekte Innovationswettbewerb als Ausgleich. Output Marktdefinitions-Memo Innovationsmarkt-Analyse Risikobewertung für Fusionskontrolle. Abgrenzung: fusionskontrolle-modus für allgemeine Fusionskontroll-Marktabgrenzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,6 +81,3 @@ Technologiemarkt-Dimension: **berücksichtigt / unvollständig / ignoriert** mit
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Innovationspotenzial als Marktmacht-Faktor § 18 Abs. 3a GWB.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

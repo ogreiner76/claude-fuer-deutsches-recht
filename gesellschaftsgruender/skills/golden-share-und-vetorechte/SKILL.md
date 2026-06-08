@@ -5,10 +5,6 @@ description: "Golden Shares und Vetorechte in GmbH oder AG satzungsmäßig absic
 
 # Golden Share und Sondervetorechte
 
-## Arbeitsbereich
-
-Golden Shares und Vetorechte in GmbH oder AG satzungsmäßig absichern: Sonderrechte, Sperrminoritaeten. Normen: §§ 35 45 GmbHG, §§ 23 ff. AktG. Prüfraster: Satzungsgestaltung, Grenzen der Satzungsautonomie, Bestandsschutz, Vinkulierung. Output: Satzungsklausel Golden Share und Vetorechte. Abgrenzung: nicht Gesellschaftervereinbarung (nur schuldrechtlich). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,9 +46,6 @@ Klaere vor Gestaltung von Vetorechten:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Golden Share-Gestaltung
 
 | Schritt | Frage | Norm | Ergebnis |
@@ -130,3 +123,4 @@ erheben.
 - `gesellschaftsgruender-sha-satzung-stimmverpflichtung` — Stimmverpflichtungs-Klauseln
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Konfliktfall; einstweilige Verfuegung
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzungs-Gestaltung
+

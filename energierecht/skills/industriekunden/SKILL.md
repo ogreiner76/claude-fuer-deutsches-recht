@@ -5,10 +5,6 @@ description: "Sonderregelungen für Industriekunden im Energierecht: Netzentgelt
 
 # Industriekunden — Sonderregelungen
 
-## Arbeitsbereich
-
-Sonderregelungen für Industriekunden im Energierecht: Netzentgeltbefreiungen, Direktleitungen, Eigenerzeugung. Normen: § 19 StromNEV, §§ 17 ff. EnWG, EEG. Prüfraster: atypische Netznutzung, Eigenversorgungsprivileg, Konzerneigenversorgung. Output: Industriekunden-Beratungsmemo. Abgrenzung: nicht Haushaltskunden-Grundversorgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Sonderregelungen für Industriekunden im Energierecht: Netzentgeltbefreiungen, D
 - Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Industriekunden mit hohem Stromverbrauch haben eine Reihe von Sonder-Privilegierungen und entsprechenden Pflichten. Dieser Skill systematisiert.
 
 ## Eingaben
 
@@ -126,9 +118,6 @@ Reduzierung des Netzentgelts wenn
 
 § 19 Abs. 1, Abs. 2 StromNEV (Sondernetzentgelte) — § 8 EDL-G (Energie-Audit) — § 10 EWPG / EnEfG (Energieeffizienz-Pflicht) — §§ 3 ff. KWKG (KWK-Strompreiskompensation) — Art. 2 ff. CBAM-VO 2023/956 (Carbon Border Adjustment Mechanism)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - Mit Strompreiskompensation
@@ -305,3 +294,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - BAFA-Merkblätter Strompreiskompensation und Klimaschutzverträge
 - BGH EnVR-Linien
 - BNetzA BK4-Festlegungen
+

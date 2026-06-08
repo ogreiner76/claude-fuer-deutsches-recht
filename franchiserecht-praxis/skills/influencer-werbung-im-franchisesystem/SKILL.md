@@ -5,10 +5,6 @@ description: "Influencer-Werbung im Franchisesystem rechtlich gestalten: Kennzei
 
 # Franchiserecht: Influencer-Werbung im Franchisesystem
 
-## Arbeitsbereich
-
-Influencer-Werbung im Franchisesystem rechtlich gestalten: Kennzeichnungspflichten nach §§ 5a UWG und MStV, Markennutzungsrechte der Influencer, Haftung des Franchisenehmers und Franchisegebers, vertragliche Einbindung von Influencern ins System. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Einzelne Franchisenehmer beauftragen auf eigene Initiative Influencer mit der Be
 - Influencer macht irreführende Produktaussagen; Franchisegeber haftet wegen Organisationsverschulden mit.
 - Content-Rechte des Influencers werden nicht geklärt; nach Kooperation besteht kein Nutzungsrecht des Systems.
 
-## Output
-
-- Influencer-Vertrag-Vorlage (Kennzeichnung, Markennutzung, Haftung)
-- Social-Media-Richtlinie für Franchisesystem
-- Kennzeichnungsleitfaden für Influencer-Posts
-- Haftungsabgrenzungsklausel Franchisegeber/Franchisenehmer/Influencer
-
 ## Quellen
 
 - https://dejure.org/gesetze/UWG/5a.html
@@ -71,6 +60,7 @@ Einzelne Franchisenehmer beauftragen auf eigene Initiative Influencer mit der Be
 - https://dejure.org/gesetze/UWG/8.html
 - https://dejure.org/gesetze/BGB/831.html
 - https://gesetze-im-internet.de/dsgvo/art_6.html
+
 ## Vertiefung
 
 Die Rechtsprechung zur Kennzeichnungspflicht von Influencer-Werbung hat sich seit 2019 erheblich entwickelt. Das LG München I und das OLG Karlsruhe haben zunächst strenge Massstäbe angelegt; das BGH-Urteil Influencer I (BGH I ZR 90/20) und die nachfolgenden Entscheidungen haben klargestellt, dass Werbeposts mit kommerziellem Hintergrund stets zu kennzeichnen sind, auch wenn es sich um Geschenke oder Eigen-Promotion handelt.
@@ -84,7 +74,10 @@ Im Franchisesystem stellt sich die Frage der Haftungszurechnung: Wenn ein Franch
 - Markennutzungserlaubnis für Influencer immer schriftlich und zeitlich begrenzt erteilen.
 - Monitoring-System für Influencer-Posts im System einrichten; schnelle Reaktion bei Verstössen.
 - UGC (User Generated Content) und bezahlte Kooperationen klar unterscheiden; Bewertungen dürfen nicht als Werbung getarnt werden.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

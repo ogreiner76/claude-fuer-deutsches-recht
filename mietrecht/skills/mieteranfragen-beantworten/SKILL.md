@@ -5,10 +5,6 @@ description: "Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen 
 
 # Mieteranfragen beantworten (Vermieter / Hausverwaltung)
 
-## Arbeitsbereich
-
-Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietminderung Mangelanzeige Modernisierungsankündigung Schoenheitsreparaturen Hausordnung Kaution Eigenbedarfskündigung Belegeinsicht zur Nebenkostenabrechnung). Anweisung — nicht abwimmeln sondern Rechtslage transparent darstellen und Lösungsoptionen anbieten. Strikt sachlich keine Drohgebaerden. Disclaimer am Anfang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,6 +79,3 @@ Dieser Skill liefert Textbausteine und rechtliche Hinweise. Bei substanziellen S
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

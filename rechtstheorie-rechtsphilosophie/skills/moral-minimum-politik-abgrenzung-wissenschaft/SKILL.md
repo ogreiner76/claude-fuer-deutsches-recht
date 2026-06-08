@@ -5,9 +5,6 @@ description: "Moral Minimum Politik Abgrenzung Wissenschaft im Rechtstheorie und
 
 # Moral Minimum Politik Abgrenzung Wissenschaft
 
-## Arbeitsbereich
-
-**Moral Minimum Politik Abgrenzung Wissenschaft** ordnet den Fall über die tragenden Prüfungslinien: Prueft, wann moralische Argumente rechtlich relevant werden, wann eine juristische Entscheidung politisch geprägt ist. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -40,6 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `recht-und-moral-minimum`
@@ -61,10 +59,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
-
 ## Sofort klären
 
 1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
@@ -78,18 +72,6 @@ Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in 
 2. Suche Normen, die Moral rechtlich transformieren.
 3. Prüfe Gefahr subjektiver Gerechtigkeitsersetzung.
 4. Gib eine knappe Anschlussstellenmatrix aus.
-
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.
 
 ## 2. `recht-und-politik-abgrenzung`
 
@@ -109,10 +91,6 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
 
 ## Sofort klären
 
@@ -143,19 +121,6 @@ Wenn eine Akteurin sagt, sie entscheide `aus Verantwortung`, muss das System fra
 
 Besonders kritisch sind Formeln wie `Staatlichkeit`, `Ordnung`, `Sicherheit`, `Funktionsfähigkeit`, `Sachzwang`, `Souveränität` oder `Überleben des Systems`. Sie können legitime Zwecke bezeichnen, dürfen aber keine rechtliche Abkürzung sein.
 
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-- Politische Verantwortung ist keine Ersatzrechtsquelle; sie muss durch Kompetenz, Verfahren und Rechtsschutz übersetzt werden.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.
-
 ## 3. `recht-und-wissenschaft`
 
 **Fokus:** Prueft die Rolle von Rechtswissenschaft: Ordnung, Kritik, Systematisierung, Reformimpuls und Grenze zur Autoritätsbehauptung.
@@ -175,10 +140,6 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
-
 ## Sofort klären
 
 1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
@@ -193,14 +154,3 @@ Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in 
 3. Vermeide Literaturautorität ohne Argument.
 4. Formuliere dogmatischen Nutzen und praktische Grenze.
 
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.

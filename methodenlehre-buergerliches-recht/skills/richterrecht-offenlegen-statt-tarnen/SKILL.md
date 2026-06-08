@@ -57,10 +57,6 @@ description: "Dieses Skill trainiert die Fähigkeit, richterrechtliche Rechtsfor
 
 Richterliche Rechtsfortbildung kann in drei Ebenen unterschieden werden: erstens die verfassungskonforme Auslegung, die den Normtext im Lichte des Grundgesetzes konkretisiert; zweitens die praeter legem-Fortbildung, die eine planwidrige Lücke durch Analogie oder allgemeine Rechtsgrundsätze schließt; und drittens die contra legem-Fortbildung, die nur in extremen Ausnahmefällen (z.B. Mauerschützenurteile) verfassungsrechtlich legitimierbar ist. Im zivilrechtlichen Alltag dominiert die praeter legem-Fortbildung über § 242 BGB und richterrechtliche Institute wie Verwirkung, positiven Vertragsverletzung oder culpa in contrahendo.
 
-## Output
-
-Das Skill liefert eine strukturierte methodische Einordnung des jeweiligen Richterrechts: Memo mit Abgrenzung Auslegung/Fortbildung, Legitimationsanalyse, Vertrauensschutzprüfung und ggf. Argumentationslinie für oder gegen die Fortführung der Rechtsprechung. Geeignet für Schriftsätze, Gutachten und Mandantenberatung in Verfahren, in denen richterrechtliche Linien streitig sind.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -87,3 +83,4 @@ Der methodische Dreischritt zur Analyse von Richterrecht lautet:
 
 Dieser Dreischritt ist für jede Entscheidungsanalyse im Richterrechtsbereich verbindlich anzuwenden und im
 Mandatsprotokoll zu dokumentieren.
+

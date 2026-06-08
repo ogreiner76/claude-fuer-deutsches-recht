@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. E
 
 # Sozialgerichtsbarkeit Geschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -70,12 +66,3 @@ Die Sozialgerichtsbarkeit hat ihre Wurzeln in den Schiedsgerichten der Bismarcks
 - BSG-Rechtsprechung: bsg.bund.de (frei zugaengliche Entscheidungen)
 - Sekundaerliteratur: Ritter, Sozialversicherung in Deutschland und England (1983)
 
-## Output
-
-- Zeitleiste Sozialversicherungsgesetze 1883-1953
-- Vergleichstabelle: Rechtsbehelfssysteme vor und nach SGG 1953
-- Bismarckschen Sozialgesetze: Kerndaten und Versicherungszweige
-
-## Quellenregel
-
-RGBl. Texte: ALEX/ÖNB. RVO und SGG: gesetze-im-internet.de. BSG: bsg.bund.de. Bismarcks Motive: Reichstagsdebatten via reichstagsprotokolle.de.

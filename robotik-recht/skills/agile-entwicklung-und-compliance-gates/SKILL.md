@@ -82,13 +82,6 @@ Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- u
 - **Safety Officer ohne Vetorecht** – Gate ist dann nur Theater.
 - **Kein Rollback-Plan** für KI-Modelle, dadurch operative Risiken bei Hotfix.
 
-## Querverweise
-
-- `accuracy-robustness-cybersecurity-ai`
-- `cra-produkt-mit-digitalen-elementen`
-- `ce-zeichen-fehlgebrauch-und-abmahnung`
-- `qm-system-iso-9001-und-iso-iec-42001` (sofern im Plugin)
-
 ## Pre-Release-Checkliste (Auszug)
 
 - [ ] Risikobeurteilung aktualisiert und vom Safety Officer signiert
@@ -121,3 +114,4 @@ Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- u
 - DSGVO Art. 25, 32, 35.
 - ISO 12100; ISO 13849-1; ISO 10218-1/-2; ISO/TS 15066; ISO/IEC 42001:2023.
 - Live-Verifikation auf eur-lex.europa.eu und beim BSI; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

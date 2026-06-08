@@ -5,10 +5,6 @@ description: "Analysiert Auswirkungen der Insolvenz des Unternehmers auf den Han
 
 # Insolvenz des Unternehmers — Auswirkungen auf Handelsvertretervertrag und Ansprüche
 
-## Arbeitsbereich
-
-Analysiert Auswirkungen der Insolvenz des Unternehmers auf den Handelsvertretervertrag: automatische Beendigung nach § 116 InsO, Anmeldefähigkeit von Provisions- und Ausgleichsansprüchen zur Insolvenztabelle, Absonderungsrechte sowie Sicherungsstrategien für offene Forderungen vor Insolvenzeröffnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Ausgleichsanspruch nicht fristgerecht nach § 89b Abs. 4 HGB angemeldet — erloschen.
 - Fortführung des Vertrags durch Insolvenzverwalter ohne neue Vergütungsregelung.
 
-## Output
-
-Forderungsanmeldung zur Insolvenztabelle, Anfechtungsabwehr, Anspruchssicherungskonzept.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 130 InsO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/inso/__130.html)
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [Dejure § 116 InsO](https://dejure.org/gesetze/InsO/116.html)
+

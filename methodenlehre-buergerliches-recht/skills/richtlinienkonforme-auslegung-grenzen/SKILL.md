@@ -51,10 +51,6 @@ description: "Dieses Skill behandelt die Pflicht zur richtlinienkonformen Ausleg
 - Zeitliche Grenzen der Richtlinienbindung (Umsetzungsfrist, Sachverhaltszeit) werden übersehen.
 - Das Vorabentscheidungsverfahren wird versäumt, obwohl eine letztinstanzliche Entscheidung vorliegt.
 
-## Output
-
-Das Skill liefert eine methodisch strukturierte Prüfung der richtlinienkonformen Auslegung für den konkreten Fall: Abgrenzung von Auslegung und Rechtsfortbildung, Prüfung des contra-legem-Verbots, Bewertung alternativer Rechtswege (Vorabentscheidung, Staatshaftung) und eine handlungsanleitende Empfehlung für Schriftsatz oder Beratungsprotokoll.
-
 ## Quellen
 
 - [Art. 288 AEUV auf eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E288)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

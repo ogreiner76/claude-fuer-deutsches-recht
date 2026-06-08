@@ -5,9 +5,6 @@ description: "Chronologie und Belegmatrix im Einfache und leichte Sprache im Rec
 
 # Chronologie und Belegmatrix
 
-## Aufgabe
-Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin einfache-leichte-sprache-jura: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
-
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
@@ -22,7 +19,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -31,14 +27,4 @@ Konkret zu prüfen:
 - BGG (Behindertengleichstellungsgesetz) § 11
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

@@ -9,7 +9,6 @@ description: "Quellen-Live-Check für Verlagsredaktion: prüft Normen (UrhG, Ver
 
 Dieser Quellen-Livecheck für **Verlagsredaktion** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abstimmung` — Abstimmung
@@ -36,12 +35,9 @@ Dieser Quellen-Livecheck für **Verlagsredaktion** trennt amtliche Normfassung, 
 - Dynamische Bereiche im Verlagsredaktion (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
 - Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
-## Output
-
-Quellenkarte mit Primärnormen, Rechtsprechungssuche (Gericht/Datum/Az/Rn), Behördenstand und Zitierform nach `references/zitierweise.md`.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

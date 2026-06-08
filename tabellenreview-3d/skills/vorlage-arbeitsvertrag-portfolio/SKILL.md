@@ -5,10 +5,6 @@ description: "Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen im 3D-F
 
 # /tabellenreview-3d:vorlage-arbeitsvertrag-portfolio
 
-## Zweck
-
-Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsverträgen mit jeweils 12 bis 30 Klauseln. Diese Vorlage macht das prüfbar — in einem Lauf 200 mal 15 mal 3 = 9000 Zellen mit konsolidierter Ampel.
-
 ## Spalten (15 Datenpunkte)
 
 1. **Vertragsdatum und Eintritt**
@@ -68,10 +64,3 @@ Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsverträgen mit jeweils 12
 
 Würfel-Schema fix und fertig. Direkt einsatzbereit.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

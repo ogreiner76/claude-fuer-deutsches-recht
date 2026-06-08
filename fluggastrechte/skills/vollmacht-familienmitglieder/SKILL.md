@@ -5,10 +5,6 @@ description: "Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde) 
 
 # Vollmacht für Familienmitglieder und Mitreisende
 
-## Zweck
-
-Wenn mehrere Personen unter einer gemeinsamen Buchung gestoert wurden hat **jeder** einen eigenen Anspruch aus Art. 7 VO 261/2004. Damit der Hauptansprechpartner alle Anspruechen gebearbeitet verfolgen kann braucht es Vollmachten der Mitreisenden.
-
 ## Vollmacht-Inhalt
 
 ```
@@ -116,9 +112,6 @@ Liebe Grüße
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 - `vollmacht-<name>-<datum>.docx` pro Mitreisendem.
@@ -134,3 +127,4 @@ Konkret zu prüfen:
 - Art. 6 VO 261/2004 (Verspätung)
 - Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
 - EuGH C-402/07 (Sturgeon)
+

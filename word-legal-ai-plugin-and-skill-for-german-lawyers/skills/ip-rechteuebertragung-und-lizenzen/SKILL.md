@@ -17,10 +17,6 @@ Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertra
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill unterstützt Sie beim Drafting von Klauseln, mit denen Rechte des Geistigen Eigentums (IP, Intellectual Property) übertragen oder lizenziert werden. Der wichtigste Befund vorab: Urheberrechte und Marken-/Patentrechte folgen unterschiedlicher Dogmatik. Wer beides nach demselben Schema regelt, riskiert nichtige Klauseln.
-
 ## Eingaben
 
 - Welche Schutzrechte sind betroffen (Urheberrecht, Marke, Patent, Geschmacksmuster, Topographien, Geschäftsgeheimnis)?
@@ -75,13 +71,6 @@ Dieser Skill unterstützt Sie beim Drafting von Klauseln, mit denen Rechte des G
 - Markenlizenz ohne Qualitätskontrollvorbehalt: Markenfunktion gefährdet (§ 30 MarkenG).
 - Buy-out in AGB ohne Vergütungsregelung: Verstoß gegen § 32 UrhG.
 
-## Ausgabeformat
-
-- Klauselentwürfe getrennt nach Schutzrechtstyp.
-- Querverweis-Architektur (Definitionen, Anlagen mit Schutzrechtsverzeichnis).
-- Risikoliste mit Open-Source-Hinweisen.
-- Vergütungs- und Audit-Anhänge nach Bedarf.
-
 ## Beispiel
 
 Mustertext (Urheberrechtsklausel, Auftragswerk, B2B):
@@ -98,16 +87,10 @@ Mustertext (Markenlizenz, einfache Lizenz, B2B):
 > (1) Der Lizenzgeber räumt dem Lizenznehmer für die Vertragsdauer eine einfache, nicht übertragbare, nicht unterlizenzierbare Lizenz an der Marke "ABC" (DPMA-Registernummer ...) für das Gebiet der Bundesrepublik Deutschland zur Kennzeichnung der unter Anlage 1 aufgeführten Produkte ein.
 > (2) Der Lizenznehmer verwendet die Marke ausschließlich in der eingetragenen Form. Der Lizenzgeber kann die Qualität der lizenzierten Waren prüfen und Mängel beanstanden.
 
-## Querverweise
-
-- `definitionen-klauseln-stringent` – Definitionen für "Schutzrechte" und "Werk".
-- `boilerplate-klauseln-katalog` – Übertragbarkeit und Rechtsnachfolge.
-- `geheimhaltung-nda-vertraulichkeit` – Schutz nicht eingetragenen Know-hows.
-- `agb-konforme-klauseln-305-310-bgb` – Buy-out-Risiko in AGB.
-
 ## Quellen (Stand 05/2026)
 
 - §§ 2, 29, 31, 31a, 32, 34, 35, 41, 69a ff. UrhG.
 - §§ 27, 30 MarkenG; § 15 PatG.
 - BGH "UsedSoft" und EuGH-Rechtsprechung zum Erschöpfungsgrundsatz Software sind vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
+

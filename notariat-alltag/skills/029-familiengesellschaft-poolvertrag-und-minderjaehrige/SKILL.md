@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderj�
 
 # Notariat im Alltag: Familiengesellschaft, Poolvertrag, Minderjährige
 
-## Arbeitsbereich
-
-Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,3 +97,4 @@ Ab 1.1.2024 ist die GbR im Gesellschaftsregister eintragbar (§ 707 BGB n.F.). E
 - **Mandantenmail** (Ablauf, Genehmigungswartezeit)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

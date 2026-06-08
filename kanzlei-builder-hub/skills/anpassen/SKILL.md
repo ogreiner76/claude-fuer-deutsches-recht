@@ -5,10 +5,6 @@ description: "Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: 
 
 # /anpassen — Kanzleiprofil und Einstellungen anpassen
 
-## Arbeitsbereich
-
-Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins, Branding, Workflows. Normen: technisch/intern. Prüfraster: Anpassungsumfang, Kompatibilitaet, Testbedarf. Output: Anpassungs-Konfigurationsdokument. Abgrenzung: nicht Standardinstallation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,15 +27,6 @@ Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei Einsatz externer KI-Infrastruktur
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: bei jeder Aenderung des Verarbeitungsumfangs zu aktualisieren
 - Art. 32 DSGVO — Technisch-organisatorische Massnahmen: TOM-Dokumentation nach jeder relevanten Aenderung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill ermöglicht die gezielte Anpassung einzelner Abschnitte des Kanzleiprofils und der Hub-Einstellungen, ohne das vollständige Kaltstart-Interview zu wiederholen. Verwenden Sie ihn, wenn sich Ihre Kanzlei, Rechtsgebiete, Teamzusammensetzung oder Sicherheitseinstellungen geändert haben.
-
-**Änderungshistorie:** Jede Änderung wird mit Zeitstempel protokolliert, damit nachvollziehbar bleibt, was wann und aus welchem Grund geändert wurde.
 
 ## Eingaben
 
@@ -132,14 +119,6 @@ Einschlägige Normen bei Profil-/TOM-Änderungen:
 - Art. 35 DSGVO (Datenschutz-Folgenabschätzung)
 
 Zitierweise nach `../references/zitierweise.md`.
-
-## Ausgabeformat
-
-Pro Änderung:
-- Aktueller Wert (vor der Änderung)
-- Vorgeschlagener neuer Wert
-- Bestätigungsprompt
-- Bestätigung der gespeicherten Änderung mit Pfad
 
 ## Beispiele
 

@@ -5,10 +5,6 @@ description: "Prueft die amtliche deutsche Rechtschreibung in Verlagsmanuskripte
 
 # Rechtschreibung amtlich-aktuell
 
-## Arbeitsbereich
-
-Prueft die amtliche deutsche Rechtschreibung in Verlagsmanuskripten nach dem aktuellen Duden-Stand und dem amtlichen Regelwerk inklusive Eigennamen und Sondereinrichtungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -103,14 +99,6 @@ DSGVO-konform (Bindestrich)
 - Anfuehrungszeichen gemischt deutsch/englisch.
 - Sonderzeichen § ohne geschuetztes Leerzeichen - Umbruch in der Fahne.
 
-## Querverweise
-
-- `verl-grammatik-konsistenzcheck` - Grammatik und Stil.
-- `verl-stilbruch-stilcheck-fachzeitschrift` - Stilbrueche.
-- `verl-formatvorlage-check-autor-manuskript` - Format-Check.
-- `satzfahne-korrekturlauf` - finale Fahnenpruefung.
-- `sprachlektorat-stil-tonalitaet` - Sprache und Tonalitaet.
-
 ## Quellen Stand 06/2026
 
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024 (Hauptquelle).
@@ -118,3 +106,4 @@ DSGVO-konform (Bindestrich)
 - LanguageTool (Open Source), [https://languagetool.org](https://languagetool.org).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (für Sonderzeichen-Disziplin).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

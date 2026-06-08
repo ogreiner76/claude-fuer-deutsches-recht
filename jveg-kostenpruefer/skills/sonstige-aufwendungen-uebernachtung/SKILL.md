@@ -5,10 +5,6 @@ description: "Sonstige Aufwendungen nach § 7 JVEG prüfen und belegen: Porto, K
 
 # JVEG-Sonstige-Aufwendungen-Belege
 
-## Arbeitsbereich
-
-Sonstige Aufwendungen nach § 7 JVEG prüfen und belegen: Porto, Kopierkosten, technische Geräte. Normen: § 7 JVEG. Prüfraster: Belegpflicht, angemessene Hoehe, Erstattungsfähigkeit. Output: Aufwendungsnachweis JVEG. Abgrenzung: nicht Fahrtkosten oder Übernachtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Sonstige Aufwendungen nach § 7 JVEG prüfen und belegen: Porto, Kopierkosten, t
 ## Fachkern: JVEG-Sonstige-Aufwendungen-Belege
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Prüfe sonstige Aufwendungen und bare Auslagen (Begleitpersonen, Kopien, Dateien, Vertretungskosten) auf Notwendigkeit, Normkonformität und Belegfähigkeit nach JVEG.
 
 ## Triage — kläre vor der Prüfung
 
@@ -44,18 +37,8 @@ Prüfe sonstige Aufwendungen und bare Auslagen (Begleitpersonen, Kopien, Dateien
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Rechnung enthält Positionen jenseits von Honorar, Reisezeit und Fahrtkosten.
-
-## Arbeitsweise
-1. Jede sonstige Position isolieren.
-2. Normgrundlage im JVEG bestimmen.
-3. Notwendigkeit und Wirtschaftlichkeit prüfen.
-4. Beleg vorhanden/fehlend markieren.
-5. Erstattungsfähigen Betrag berechnen.
 
 ## Output-Template
 
@@ -72,3 +55,4 @@ Prüfergebnis für Sammelposition sonstige Aufwendungen mit Belegstatus.
 ## Leitplanken
 - Kein Ansatz ohne Normgrundlage; Analogie nur in engen Grenzen.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

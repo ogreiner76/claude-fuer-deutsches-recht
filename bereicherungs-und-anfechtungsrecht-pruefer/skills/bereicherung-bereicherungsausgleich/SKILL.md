@@ -37,9 +37,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 § 822 BGB schließt eine Schutzlücke: Hat der Erstempfänger das Erlangte unentgeltlich an einen Dritten weitergegeben und ist er dadurch entreichert (§ 818 Abs. 3 BGB), hätte der Bereicherungsgläubiger keine Ansprüche mehr. § 822 BGB gibt ihm einen Direktanspruch gegen den Dritten.
@@ -98,3 +95,4 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+

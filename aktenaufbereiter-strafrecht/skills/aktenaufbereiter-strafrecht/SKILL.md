@@ -236,10 +236,6 @@ Die Vorlage ersetzt nicht die Aktenführung im Kanzleisystem, sondern strukturie
 - § 100a-100e StPO — TKU: Anordnungsvoraussetzungen, Katalogstraftaten, Verwendungsbeschrankung
 - § 108 StPO — Zufallsfunde; eingeschraenkte Verwertung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek

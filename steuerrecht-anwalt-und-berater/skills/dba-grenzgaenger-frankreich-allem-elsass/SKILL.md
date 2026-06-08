@@ -100,13 +100,6 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 1. Konsultationsvereinbarung beachten.
 2. Home-Office-Tage in 20-km-Zone des Wohnsitzstaats: nicht arbeitstaegliche Rueckkehr in Frage.
 
-## Output
-
-- **Mandanten-Memo Grenzgaengerstatus**.
-- **Grenzgaengernachweis** (Vorlage Arbeitgeber).
-- **Reisekalender** (Vorlage Arbeitnehmer).
-- **Berechnungsbeispiel** mit und ohne Grenzgaengerstatus.
-
 ## Strategie und Praxis-Tipps
 
 - Reisekalender taeglich fuehren — nachtraegliche Rekonstruktion ist kritisch.
@@ -184,15 +177,9 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 >
 > Schritt 5: Erhebliche Steuermehrbelastung wahrscheinlich (FR-progressive Tarife hoeher als DE bei mittleren Einkommen) — **vorab Statuswechsel planen**.
 
-## Querverweise
-
-- `stb-dba-frankreich-1959` — Grunddokumentation DBA-Frankreich.
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`.
-- `stb-dba-home-office-pandemie-folgeregelung` — Konsultationsvereinbarung Home-Office.
-- `stb-dba-grenzgaenger-schweiz-60-tage-rueckkehr`, `stb-dba-grenzgaenger-oesterreich-rueckkehr` — Vergleichsregelungen.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Frankreich 21.07.1959 (BGBl. 1961 II S. 397/398), Aend.-Prot. 31.03.2015 (BGBl. 2015 II S. 1332/1335). Verwaltungsvereinbarung Grenzgaenger 16.02.2006. Gemeindelisten 20-km-Zone und aktuelle Konsultationsvereinbarungen Home-Office im BMF-Veroeffentlichungsverzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 3 belegt (BGBl. 1961 II S. 397/398 bestaetigt; BGBl. 2015 II S. 1332/1335 bestaetigt; Verwaltungsvereinbarung 16.02.2006 bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

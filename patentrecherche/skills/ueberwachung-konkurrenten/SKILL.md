@@ -5,10 +5,6 @@ description: "Laufende Überwachung neuer Patentanmeldungen von Konkurrenten der
 
 # überwachung-konkurrenten
 
-## Arbeitsbereich
-
-Laufende Überwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anmelder-Namen (inklusive Konzern-Toechter und ehemaliger Schreibweisen), CPC-IPC-Klassen, Schlagwoerter, Territorien. Laeuft als woechentlicher oder monatlicher Job in Espacenet Smart Search Google Patents oder bei Bezahl-Tools wie PatBase Alert. Liefert Delta-Liste neuer Treffer seit letzter Iteration mit Bewertung relevant oder nicht relevant. Erinnert an Einspruchsfrist Art. 99 EPUe neun Monate ab Erteilungs-Veröffentlichung. Disclaimer Vollständigkeit nicht garantiert insbesondere bei Konzern-Konstruktionen und Tochterfirmen ohne klare Namens-Bindung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,15 +12,6 @@ Laufende Überwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. De
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 139, EPÜ Art. 54, 56, 64, 69, 87 ff., Straßburger IPC-Abkommen, PCT, Espacenet-Datenbankzugriff, DEPATISnet-Bedingungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Für viele Mandanten — insbesondere Mittelstands- und Konzernkundinnen — ist es wichtig, **neue Anmeldungen** von Konkurrenten frühzeitig zu erkennen. Anwendungsfälle:
-
-- **Einspruch** rechtzeitig einlegen (Art. 99 EPÜ — neun Monate ab Erteilungs-Veröffentlichung).
-- **FTO-Risiken** vor Markteintritt erkennen.
-- **Technologie-Strategie** der Konkurrenz beobachten.
-- **Lizenzverhandlungen** vorbereiten.
 
 ## Watch-Profil
 
@@ -112,11 +99,6 @@ Aggregierter Bericht alle drei Monate mit:
 - **Datenverzögerung.** Veröffentlichung erfolgt 18 Monate nach Prioritätstag. Konkurrenz-Anmeldungen werden also erst 1,5 Jahre nach dem Anmeldetag sichtbar.
 - **Nicht-Patent-Literatur.** Ergänzend Google Scholar Alerts und Konferenz-Listings (IEEE, ACM) — Konkurrenten reden oft schon auf Konferenzen, bevor die Anmeldung publiziert ist.
 
-## Output
-
-- **Delta-Tabelle** mit Spalten: Datum, Veröff.-Nr., Anmelder, Anmeldetag, Status, Klassen, Titel, Relevanz, Einspruchsfrist (wenn anwendbar), Link.
-- **Empfehlung pro Treffer:** weiter beobachten / FTO-Recherche / Einspruch vorbereiten / Lizenzdialog.
-
 ## Disclaimer
 
 > **Hinweis zur Überwachung.** Diese laufende Überwachung ist eine KI-gestützte Vorrecherche. Vollständigkeit kann nicht garantiert werden — insbesondere bei Konzern-Konstruktionen mit Tochterfirmen ohne klare Namens-Bindung, bei Strohmann-Anmeldungen und bei Anmeldungen in nicht durchsuchten Klassen oder Sprachen. Einspruchsfristen sind durch die Patentanwältin in einer eigenständigen Prüfung der Veröffentlichungsdaten zu verifizieren bevor die Frist als verbindlich eingetragen wird.
@@ -142,3 +124,4 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Massnahme: Datum und Leitsatz korrigiert auf tatsaechlichen Inhalt.
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.09.2017&Aktenzeichen=X+ZB+1%2F17
 -->
+

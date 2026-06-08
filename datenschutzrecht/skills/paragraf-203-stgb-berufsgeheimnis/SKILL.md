@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zur Reichweite des § 203 Abs. 3 Satz 2 StG
 
 § 203 Abs. 1; § 203 Abs. 3; § 203 Abs. 4 StGB; Art. 33 DSGVO; § 43a Abs. 2 BRAO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Strafbarkeitsraster
 
 Tathandlung: Offenbaren / unbefugt Zugänglichmachen.
@@ -53,3 +49,4 @@ Berufsrecht: zusätzliche Meldung an Kammer; Disziplinarverfahren möglich.
 
 - `dsv-art-9-besondere-kategorien` deckt sensible Daten ab.
 - `dsv-sozialdaten-sgb` deckt Sozialdaten ab.
+

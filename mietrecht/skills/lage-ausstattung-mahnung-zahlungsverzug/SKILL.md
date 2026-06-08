@@ -5,10 +5,6 @@ description: "Strukturierte Datenerhebung für die Einordnung in den Mietspiegel
 
 # Lage und Ausstattung erheben
 
-## Arbeitsbereich
-
-Strukturierte Datenerhebung für die Einordnung in den Mietspiegel — Adresse Baujahr Wohnflaeche Bad Kueche Heizung Wohnungsausstattung Gebaeudeausstattung. Erfasst alle Merkmale die in qualifizierten Mietspiegeln als Sondermerkmale bewertet werden (Bodenbelag Fenster Balkon Terrasse Aufzug Stellplatz Energieeffizienz). Erzeugt eine Checkliste und ein strukturiertes Erhebungsprotokoll als Grundlage für ortsuebliche Vergleichsmiete Mieterhoehung Mietsenkungsverlangen oder Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -98,6 +94,3 @@ Protokoll als Markdown mit den oben genannten Abschnitten plus Quellenangabe (wo
 - Begruendungsmittel: § 558a BGB
 - Kappungsgrenze: § 558 Abs. 3 BGB
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

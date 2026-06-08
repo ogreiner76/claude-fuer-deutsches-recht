@@ -100,13 +100,6 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 2. Anlage AUS / N-AUS / R-AUS.
 3. Bei Grenzgaengern: Grenzgaengernachweis durch Arbeitgeberbescheinigung.
 
-## Output
-
-- **Mandanten-Memo** mit Subsumtion Grenzgaengerregelung.
-- **Grenzgaengernachweis** Vorlage (Arbeitgeberbescheinigung).
-- **Berechnungsbeispiel** Grenzgaenger.
-- BZSt-Hinweise.
-
 ## Strategie und Praxis-Tipps
 
 - Grenzgaengerregelung Elsass: Wohnsitz und Taetigkeitsort muessen beide in der 20-km-Zone liegen — Wohnsitz in Karlsruhe und Arbeitsort in Strassburg: **kein** Grenzgaengerstatus (Karlsruhe nicht in Zone).
@@ -180,14 +173,9 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 >
 > Anmerkung: bei Ueberhang FR-Steuer > DBA-Hoechstsatz Erstattungsantrag mit Cerfa 5000/5001 an SIPNR Noisy-le-Grand; konkrete Saetze auf impots.gouv.fr verifizieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.
-- `stb-dba-grenzgaenger-frankreich-vor-allem-elsass` — Detail Grenzgaenger.
-- `stb-dba-rentner-pensionen-art-18` — Pensionsbesteuerung.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Frankreich 21.07.1959 (BGBl. 1961 II S. 397/398), Aend.-Prot. 31.03.2015 (BGBl. 2015 II S. 1332/1335), MLI wirksam ab 01.01.2025 (BGBl. 2025 II Nr. 5). Verwaltungsvereinbarung Grenzgaenger 16.02.2006. Gemeindelisten 20-km-Zone und Quellensteuer-Saetze im aktuellen BMF-Schreiben pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 14 Marker aufgeloest: 3 belegt (BGBl. 1961 II S. 397/398 und BGBl. 2015 II S. 1332/1335 bestaetigt; MLI wirksam ab 01.01.2025 BGBl. 2025 II Nr. 5 bestaetigt; Verwaltungsvereinbarung 16.02.2006 bestaetigt), 11 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

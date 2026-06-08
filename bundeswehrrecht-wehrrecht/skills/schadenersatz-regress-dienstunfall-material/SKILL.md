@@ -36,12 +36,6 @@ Umgekehrt hat der Soldat bei Dienstunfall Versorgungsansprüche nach SVG; der Di
 - BGB §§ 249 ff. — Schadensersatz
 - § 839 BGB, Art. 34 GG — Amtshaftung
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - Hat der Soldat einen Schaden verursacht (Material, Ausrüstung, Dritte)?
@@ -93,21 +87,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Tabelle: Haftung Soldat in verschiedenen Schadensszenarien
 - Checkliste: Regress-Widerspruch
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — § 24 SG
-- https://www.gesetze-im-internet.de/svg/ — SVG §§ 27 ff.
-- https://dejure.org/gesetze/SG/24.html
-- https://www.bverwg.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -117,3 +96,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

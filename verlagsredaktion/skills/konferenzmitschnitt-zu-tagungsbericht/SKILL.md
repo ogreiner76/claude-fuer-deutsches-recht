@@ -5,10 +5,6 @@ description: "Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsber
 
 # Konferenzmitschnitt zu Tagungsbericht
 
-## Arbeitsbereich
-
-Macht aus einem Tagungs- oder Konferenzmitschnitt einen Tagungsbericht für Fachzeitschrift, mit Vortragsuebersicht, Diskussionsskizze und Quellenpflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,14 +87,6 @@ Fazit (500-1.000 Z)
 - Hauptthesen verfaelscht durch Lektoratseingriffe.
 - Funktionsangaben veraltet zwischen Tagung und Druck.
 
-## Querverweise
-
-- `verl-audio-transkript-zu-fachbeitrag` - für Einzelvortrag.
-- `verl-powerpoint-verwurstung-zu-text` - wenn statt Audio nur PPTs.
-- `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-- `verl-formatvorlage-check-autor-manuskript` - vor Druck.
-- `verl-aussagensicherheit-pruefung` - bei brisanten Diskussionsbeitraegen.
-
 ## Quellen Stand 06/2026
 
 - UrhG § 51 (Zitatschranke), § 63 (Quellenangabe), [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
@@ -107,3 +95,4 @@ Fazit (500-1.000 Z)
 - Pressekodex Ziff. 2 (Sorgfalt), [https://www.presserat.de/pressekodex.html](https://www.presserat.de/pressekodex.html).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Gefahrübergang bei auf Reise befind
 
 # Warentransit und Gefahrübergang
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Gefahrübergang bei auf Reise befindlicher Ware nach CISG Art. 68 und Incoterms 2020. Verkauf auf Reise (string trading), Rückwirkungsfiktion, Dokumentengefahr und Absicherung durch Transportversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ CISG Art. 68 regelt den Gefahrübergang beim Verkauf von Ware, die sich bereits 
 - Dokumentenprüfung: On-Board-Datum im BL bestätigt Frachtführer-Übergabe
 - Arglist-Ausnahme: immer als Gegenargument prüfen
 
-## Output
-
-- Gefahrübergangs-Zeitstrahl (CISG Art. 67/68/69 im Vergleich)
-- String-Trading-Dokumentenfluss
-- Versicherungszeugnis-Anforderungen für String Buyer
-
-## Quellenregel
-
-CISG Art. 67-69: uncitral.un.org. Schrifttum: Schlechtriem/Schwenzer Art. 68 (2019). Incoterms 2020: iccwbo.org. Unsicherheit bleibt sichtbar.

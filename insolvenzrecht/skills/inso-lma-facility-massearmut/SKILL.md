@@ -5,10 +5,6 @@ description: "Prüft syndizierte LMA-Finanzierung in Insolvenz/StaRUG: Facility 
 
 # Insolvenz: LMA Facility, Agent und Syndikat
 
-## Arbeitsbereich
-
-Prüft syndizierte LMA-Finanzierung in Insolvenz/StaRUG: Facility Agent, Security Agent, Majority Lenders, Waiver, Standstill, Acceleration und Forderungsanmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -40,15 +36,9 @@ InsO, StaRUG, BGB, Sicherheitenrecht, hochgeladener Kreditvertrag.
 3. Übertragungsweg, Rechtswirkung, offene Dokumente und Risiken in einer Closing-/Verfahrensmatrix darstellen.
 4. Bei Insolvenz-/Krisenbezug Rang, Anfechtung, Planrechte, Enforcement und Geschäftsleiterpflichten gesondert prüfen.
 
-## Output
-
-- Transfer-Memo
-- Closing-Checkliste
-- Risikoampel mit Unterlagenliste
-- Notice-/Q&A-Entwurf, falls genügend Angaben vorliegen
-
 ## Qualitätsgate
 
 - Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
 - Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
 - Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
+

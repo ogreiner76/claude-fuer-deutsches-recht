@@ -38,9 +38,6 @@ Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verjaerungs-Pruefschema
 
 ```
@@ -79,3 +76,4 @@ Wenn Zustellungsmangel vorliegt:
 - Absolute Verjährung (§ 33 Abs. 3 OWiG) kann nicht durch neue Unterbrechungen ueberschritten werden.
 - Zustellungsmangel-Prufung ist Standardbestandteil jedes OWi-Mandats.
 - Anwaltliche Endkontrolle bei Verjaerungs-Berechnung.
+

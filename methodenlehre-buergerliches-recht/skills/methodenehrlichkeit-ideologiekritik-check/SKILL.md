@@ -54,10 +54,6 @@ description: "Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf me
 - Ideologiekritik wird nicht auf konkrete methodische Defizite bezogen, sondern bleibt abstrakt.
 - Die eigene Methodenwahl wird nicht der gleichen Ideologiekritik unterzogen.
 
-## Output
-
-Das Skill liefert einen Methodenehrlichkeits-Check: Identifikation selektiver Methodenwahl, Sprachanalyse auf versteckte Vorannahmen, Vollständigkeitsprüfung der Materialauswertung, explizite Wertprämissenanalyse und konstruktiver Formulierungsvorschlag für methodisch ehrlichere Argumentation. Geeignet für Urteilsanmerkungen, wissenschaftliche Beiträge und anwaltliche Gegenargumentation.
-
 ## Vertiefung: Dekonstruktive Methoden als Analysewerkzeug
 
 Die Critical Legal Studies-Bewegung hat methodische Werkzeuge entwickelt, um die ideologischen Vorannahmen juristischer Texte freizulegen: Dekonstruktion von Begriffsoppositionen, Aufdeckung hierarchischer Wertungen, Analyse der Machteffekte von Entscheidungen. Diese Werkzeuge sind auch in der deutschen Methodenlehre als Analyseinstrumente nützlich, ohne die Verpflichtung zur normativen Rückbindung aufzugeben.
@@ -83,3 +79,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 97 GG – Richterliche Unabhängigkeit](https://dejure.org/gesetze/GG/97.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

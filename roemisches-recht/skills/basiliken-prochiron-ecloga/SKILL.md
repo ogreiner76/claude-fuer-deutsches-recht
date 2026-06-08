@@ -22,11 +22,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Aufgabe
-
-Dieser Skill ordnet die großen byzantinischen Kompilationen ein: **Ekloge**, **Prochiron**, **Epanagoge** und **Basiliken**. Er erklärt sie als Bearbeitung, Auswahl, Übersetzung, Systematisierung und politische Neuakzentuierung römisch-justinianischen Rechts.
-
 ## Startfragen
 
 1. Welche Quelle oder Quellengruppe soll eingeordnet werden?
@@ -47,3 +42,4 @@ Dieser Skill ordnet die großen byzantinischen Kompilationen ein: **Ekloge**, **
 - Vergleichstabelle: Justinian, Ekloge/Prochiron, Basiliken.
 - Warnhinweise für Zitate und Übersetzungen.
 - Anschluss an Rezeptionsgeschichte.
+

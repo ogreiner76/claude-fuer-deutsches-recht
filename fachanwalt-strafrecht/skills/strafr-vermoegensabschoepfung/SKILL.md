@@ -5,9 +5,6 @@ description: "Strafr Vermoegensabschoepfung im Strafrecht: prüft konkret Spezia
 
 # Strafr Vermoegensabschoepfung
 
-## Arbeitsbereich
-
-**Strafr Vermoegensabschoepfung** ordnet den Fall über die tragenden Prüfungslinien: Spezialfall Vermoegensabschoepfung §§ 73 ff, Leitfaden Wirtschaftsstrafrecht, Strafverteidigung bei Vorwurf wegen Filmens von. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Strafr Vermoegensabschoepfung im Strafrecht: prüft konkret Spezia
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafr-vermoegensabschoepfung-spezial`
@@ -62,13 +60,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -111,13 +102,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -185,14 +169,6 @@ Es wird beantragt, die vollständige Einsatzdokumentation einschließlich Bodyca
 - OLG Zweibrücken, Beschluss vom 30.06.2022 - 1 OLG 2 Ss 62/21: Tonaufnahme bei Polizeikontrolle kann § 201-StGB-Anfangsverdacht tragen; in der Verteidigung als strenge Gegenlinie offen adressieren.
 - Wissenschaftliche Dienste des Bundestages, WD 7 - 3000 - 095/22: Überblick zur strafrechtlichen Beurteilung audiovisueller Aufnahmen von Polizeieinsätzen.
 
-## Output
-
-- Verteidigungsmemo.
-- Einspruchs- und Akteneinsichtsschreiben.
-- Beweisantrags-/Beiziehungsbaustein.
-- Einstellungsvorschlag an StA/Gericht.
-- Mandantenhinweis: Aufnahme sichern, nicht löschen, nicht ungeprüft posten, keine Entsperrcodes ohne Verteidigungsprüfung herausgeben.
-
 ## Qualitätsgate
 
 - Kein pauschales „Polizei darf man immer filmen“; Tonrisiko sauber prüfen.
@@ -205,10 +181,6 @@ Es wird beantragt, die vollständige Einsatzdokumentation einschließlich Bodyca
 **Fokus:** Reaktion auf Anklage, Strafbefehl oder Eröffnungsverfahren wegen § 188 StGB. Baut eine schnelle Verteidigungsakte mit Fristen, Einspruch, Akteneinsicht, § 199 StPO-Erwiderung, § 203 StPO-Eröffnungsangriff, Einstellungsanregung, Strafantrag/besonderes öffentliches Interesse nach § 194 StGB und einer Checkliste gegen überdehnte Politikerbeleidigungs-Vorwürfe.
 
 ### § 188 StGB — Anklage, Strafbefehl, Eröffnungsverfahren
-
-## Einsatz
-
-Anwendungsfall: bereits ein förmliches Dokument vorliegt: polizeiliche Anhörung, staatsanwaltschaftliche Abschlussverfügung, Strafbefehl, Anklageschrift, gerichtliche Verfügung nach § 201 StPO, Eröffnungsbeschluss oder Ladung. Ziel ist eine einfache, schnelle und trotzdem belastbare Verteidigung gegen die Hochstufung zur "Politikerbeleidigung".
 
 ## Eingangsscan
 
@@ -250,15 +222,6 @@ Bei Strafbefehl:
 
 > Der Eröffnung des Hauptverfahrens steht entgegen, dass die Anklage den Aussagegehalt der Äußerung nicht im Gesamtzusammenhang bestimmt. Die Äußerung fiel in einer öffentlichen Debatte über [Thema] und bezog sich auf [konkrete politische Entscheidung]. Die Anklage isoliert lediglich den schärfsten Ausdruck, ohne den Thread, die vorausgegangene Kritik und den erkennbaren Sachbezug zu würdigen. Damit fehlt es bereits am tragfähigen Basisdelikt. Jedenfalls werden die eigenständigen Merkmale des § 188 StGB, insbesondere die Eignung zur erheblichen Erschwerung des öffentlichen Wirkens, nur behauptet.
 
-## Output
-
-- Fristenkarte.
-- Akteneinsichtsantrag oder Erinnerungsmail.
-- § 199-StPO-Erwiderung.
-- Einspruch gegen Strafbefehl.
-- Einstellungsanregung an StA/Gericht.
-- Hauptverhandlungs-Tagesplan für kleine Ehrschutzsachen.
-
 ## Quellen-Gate
 
 - § 188 StGB: https://www.gesetze-im-internet.de/stgb/__188.html
@@ -271,10 +234,6 @@ Bei Strafbefehl:
 **Fokus:** Art.-5-GG-Verteidigung bei § 188 StGB in Schriftsatz und Hauptverhandlung. Entwickelt Argumentation zu politischer Machtkritik, Deutung der Äußerung, Meinung/Tatsache, § 193 StGB, Schmähkritik-Engführung, Eignung zur erheblichen Erschwerung, Befragung von Anzeigeerstatter/Zeugen und Plädoyerbausteinen.
 
 ### § 188 StGB — Art. 5 GG, Schriftsatz und Hauptverhandlung
-
-## Einsatz
-
-Anwendungsfall: die materielle Verteidigung steht und nun in eine überzeugende Verfahrenshandlung übersetzt werden muss: Einstellungsanregung, Eröffnungs-Erwiderung, Einspruchsbegründung, Beweisantrag, Zeugenbefragung, § 257-StPO-Erklärung oder Plädoyer.
 
 ## Verteidigungsthese
 
@@ -328,3 +287,4 @@ Wenn Freispruch nicht erreichbar:
 - § 193 StGB: https://www.gesetze-im-internet.de/stgb/__193.html
 - § 194 StGB: https://www.gesetze-im-internet.de/stgb/__194.html
 - BVerfG, Beschluss vom 04.04.2024 - 1 BvR 820/24: bei §§ 185 ff., 188 StGB Deutung, Gesamtkontext, Meinung/Tatsache und Machtkritik sauber darstellen. Vor Zitierung frei verifizieren.
+

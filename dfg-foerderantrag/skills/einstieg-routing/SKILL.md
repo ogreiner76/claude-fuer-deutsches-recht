@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für DFG-Förderantrag: ordnet Rolle 
 
 Dieser Einstieg routet **Dfg Foerderantrag** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `adaptive-dokumentenmatrix-lueckenliste` — Adaptive Dokumentenmatrix Lueckenliste
@@ -43,7 +42,6 @@ Arbeitsfokus: **Einstieg und Routing**. Prüfe diese Anker am Sachverhalt; ergä
 - `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
 - `DFG-Kodex Leitlinie 14` — Autorschaft.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
@@ -54,12 +52,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei DFG-Förderantrag typische Eskalationsstufen: Projektbeschreibung, Finanzierungsplan, Begründung Personalbedarf.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

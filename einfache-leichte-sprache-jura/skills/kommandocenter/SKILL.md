@@ -23,10 +23,6 @@ Einfache Sprache oder Leichte Sprache.
 - § 43 SGB I — Beratungspflicht sozialrechtlich in verstaendlicher Sprache
 - § 58 VwGO — Rechtsbehelfsbelehrung: Klarheit als Wirksamkeitsvoraussetzung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -35,6 +31,7 @@ Konkret zu prüfen:
 - BGG (Behindertengleichstellungsgesetz) § 11
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
+
 ## Output-Template: Routing-Entscheidung
 
 **Adressat-Bestimmung:**
@@ -49,6 +46,7 @@ Konkret zu prüfen:
 | Pruefgruppe vorhanden | ja/nein |
 
 **Naechster Schritt:** Lade `elsj-einfache-sprache` oder `elsj-leichte-sprache` + immer `elsj-juristische-sicherung`.
+
 ## Erste Entscheidung
 
 Frage zuerst:
@@ -119,3 +117,4 @@ Liefere bei jedem Ergebnis:
 2. **Kurzprotokoll**, welche juristischen Inhalte erhalten wurden.
 3. **Glossar** für schwere Wörter.
 4. **Offene Prüfungen**, insbesondere Nutzerprüfung bei Leichter Sprache.
+

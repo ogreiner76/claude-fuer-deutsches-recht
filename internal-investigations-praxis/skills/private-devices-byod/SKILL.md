@@ -5,10 +5,6 @@ description: "Klärt die Grenzen des Arbeitgeberzugriffs auf private Geräte (BY
 
 # Private Geräte und BYOD in Internal Investigations
 
-## Arbeitsbereich
-
-Klärt die Grenzen des Arbeitgeberzugriffs auf private Geräte (BYOD) in Internal Investigations – Einwilligung, Verhältnismäßigkeit, § 202a StGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -70,15 +66,6 @@ Dieser Skill klärt, unter welchen Bedingungen Arbeitgeber auf BYOD-Geräte zugr
 - Filter-Protokoll: welche Daten als privat ausgesondert wurden.
 - Widerruf der Einwilligung dokumentieren.
 
-## Red-Team-Fragen
-
-- Hat das Unternehmen eine wirksame BYOD-Policy mit Forensik-Klausel?
-- Wurde die Einwilligung zur Forensik vor dem Untersuchungsanlass eingeholt (nicht erst im Verdachtsfall)?
-- Ist die Einwilligung freiwillig gewesen, oder bestand Druck wegen Kündigung?
-- Wurden private Daten tatsächlich gefiltert, und ist das nachweisbar?
-- Gibt es Unternehmensdaten auf dem Gerät, auf die das Unternehmen ohne Forensik Zugriff hat (Container, Cloud-Konto)?
-- Wurde der Betriebsrat über die BYOD-Policy und die geplante Forensik informiert?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -97,3 +84,4 @@ Dieser Skill klärt, unter welchen Bedingungen Arbeitgeber auf BYOD-Geräte zugr
 - **BYOD-Policy-Prüfcheckliste** (Mitbestimmung, Forensik-Klausel, Einwilligung)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

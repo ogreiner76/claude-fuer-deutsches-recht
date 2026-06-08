@@ -50,9 +50,6 @@ Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufungspflicht und 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Krisenampel: Überblick Handlungspflichten
 
 | Krisenphase | Erkennungszeichen | Handlungspflicht | Norm | Frist |
@@ -179,3 +176,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — Kapitalerhöhung als Sanierungsmaßnahme
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — GV-Einladung formgerecht erstellen
 - `corporate-kanzlei-restructuring-starug-insolvenzplan` — StaRUG-Verfahren bei drohender ZU
+

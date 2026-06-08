@@ -5,9 +5,6 @@ description: "Glaeubigerantrag Insolvenzanfechtung im Insolvenz- und Sanierungsr
 
 # Glaeubigerantrag Insolvenzanfechtung
 
-## Arbeitsbereich
-
-**Glaeubigerantrag Insolvenzanfechtung** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt insolvenz sanierungsrecht, Insolvenzanfechtung nach §§ 129-147 InsO fachanwaltlich, Orientierung im Insolvenz- und Sanierungsrecht für Mandate. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Glaeubigerantrag Insolvenzanfechtung im Insolvenz- und Sanierungsr
 - Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag`
@@ -351,12 +349,6 @@ Wenn KI die Prüfung nicht belastbar leisten kann, muss die Ausgabe ausdrücklic
 8. § 146 InsO: Verjährung nach BGB.
 9. Prozess- und Vergleichswirtschaftlichkeit.
 
-## Output
-
-| Vorgang | Norm | Betrag | Belege | Gegenargument | Empfehlung |
-|---|---|---:|---|---|---|
-| [...] | [...] | [...] EUR | [...] | [...] | Klage/Vergleich/Human Review |
-
 ## Anschluss-Skills
 
 - `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter`
@@ -432,9 +424,6 @@ Hinweis: Keine Rechtsberatung. Diese Prüfung ist Facharbeitsstruktur; Rechtssta
 - BGH IX. Zivilsenat — Insolvenz, Insolvenzanfechtung.
 - EuGH bei EuInsVO-Fragen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Arbeitsgemeinschaft Insolvenzrecht und Sanierung im DAV.
@@ -476,9 +465,6 @@ Bevor losgelegt wird, klaere:
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — Verfassungsbeschwerde gegen Bestätigung des StaRUG-Restrukturierungsplans unzulässig.
  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## — Ersteinschätzung in 5 Schritten
 
 1. **Sachverhalt aufnehmen:** Mandantenrolle (Schuldner, Gläubiger, Verwalter, Anfechtungsgegner), Eröffnungsgrund prüfen, Fristen sichern. Bei Aktenzeichen-Bezug: konkrete BGH/BVerfG-Entscheidung über dejure.org/openjur.de mit Datum verifizieren.
@@ -741,10 +727,6 @@ Bevor losgelegt wird, klaere:
 4. **Cramdown-Szenario?** § 26 StaRUG — Falls eine Klasse ablehnt: Best-Interest-Test bestanden?
 5. **Restrukturierungsgericht anzeigen?** § 31 StaRUG konstitutiv — ohne Anzeige kein Schutz und kein Plan.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 5. `insanw-anfechtungsmandat-leitfaden`
 
 **Fokus:** Leitfaden Anfechtungsmandat für Verwalter und Verteidiger: §§ 129 ff. InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Pruefraster Indizien Kenntnis Glaeubigerbenachteiligung. Mustertext Aufforderungsschreiben und Klageerwiderung.
@@ -789,15 +771,9 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+

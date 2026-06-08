@@ -5,10 +5,6 @@ description: "Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zi
 
 # Audio-Transkript zu Fachbeitrag
 
-## Arbeitsbereich
-
-Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zitierfaehigen Fachbeitrag für juristische Fachzeitschriften und Sammelbaende. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -89,14 +85,6 @@ Quellen-Lueckenliste:
 - Drittstimmen aus dem Publikum unter Klarnamen veroeffentlicht.
 - Audio nicht archiviert - Streitfall um den Originalton nicht mehr aufklaerbar.
 
-## Querverweise
-
-- `workflow-dokumentenintake` - für den allgemeinen Intake.
-- `verl-zeitschriftenartikel-leitfaden` - für den Zielformat-Aufbau.
-- `verl-podcast-zu-zeitschriftenbeitrag` - eng verwandt.
-- `verl-konferenzmitschnitt-zu-tagungsbericht` - wenn aus dem Vortrag ein Tagungsbericht wird.
-- `verl-redaktionelle-rueckmeldung-formulieren` - für das Rueckspielen an die Autorin.
-
 ## Quellen Stand 06/2026
 
 - UrhG §§ 31 ff., § 51, § 63, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
@@ -104,3 +92,4 @@ Quellen-Lueckenliste:
 - DSGVO Art. 6 bei personenbezogenen Daten in der Aufnahme.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, für Pinpoint-Disziplin.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023, zum Aufbau von Fachaufsaetzen.
+

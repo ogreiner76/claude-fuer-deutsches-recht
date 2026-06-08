@@ -5,10 +5,6 @@ description: "Zentrales Fristenbuch für die Kanzlei mit Haupt- und Vorfristen �
 
 # Zentrales Fristenbuch der Kanzlei
 
-## Arbeitsbereich
-
-Zentrales Fristenbuch für die Kanzlei mit Haupt- und Vorfristen über alle Rechtsgebiete. Berechnet Fristbeginn nach den jeweiligen Verfahrensordnungen (ZPO StPO SGG FGO VwGO FamFG AO BGB) Vier-Tages-Fiktionen bei Postzustellung (PostModG seit 1.1.2025; bis 31.12.2024 drei Tage). Trennt Notfristen (BRAO-Haftungsrisiko) von Beobachtungsfristen. Setzt Vorfristen typisch fuenf Werktage vor Hauptfrist; bei BRAO-relevanten Notfristen sieben Werktage. Eskalation an Sekretariat und zuständigen Anwalt bei Vorfristerreichung. Audit-Trail jeder Fristaenderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -32,9 +28,6 @@ Zentrales Fristenbuch für die Kanzlei mit Haupt- und Vorfristen über alle Rech
 - § 548 ZPO — Revisionsfrist ein Monat ab Zustellung (Notfrist)
 - Art. 7 PostModG — Vier-Tages-Zustellungsfiktion für Postsendungen ab 01.01.2025
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflicht
 
 Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist anwaltliche Pflichtverletzung mit Haftungsrisiko (§ 51 BRAO).
@@ -149,3 +142,4 @@ Beim Eintragen automatisch berücksichtigen — bei nachweislich früherem Zugan
 ## Haftungshinweis
 
 Das Fristenbuch ist nur so gut wie seine Pflege. Die Letztverantwortung liegt beim Anwalt. Bei Versäumnis Wiedereinsetzung prüfen (jeweilige Verfahrensordnung).
+

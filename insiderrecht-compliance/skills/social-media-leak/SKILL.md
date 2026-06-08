@@ -5,10 +5,6 @@ description: "Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn, Reddit): Kur
 
 # Social-Media-Leak – Insiderrecht und Ad-hoc-Reaktion
 
-## Arbeitsbereich
-
-Reagiert auf Social-Media-Leaks (Twitter/X, LinkedIn, Reddit): Kursrelevanz-Bewertung, Ad-hoc-Pflicht, Nichtoeffentlichkeit und forensische Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,23 +68,6 @@ die Compliance-Reaktion einschließlich Ad-hoc-Entscheidung und forensischer Sic
 - Strafanzeige gegen unbekannte Person (§ 119 WpHG) erwägen
 - Koordination mit IT-Forensik und externer Kanzlei
 
-## Red-Team-Fragen
-
-- Wurde die Nichtöffentlichkeits-Bewertung sorgfältig und zeitnah vorgenommen?
-- Wurde die Entscheidung, nicht zu veröffentlichen (falls getroffen), dokumentiert?
-- Wurden Beweise zeitnah gesichert (Social-Media-Beiträge verschwinden)?
-- Ist der Leak intern untersucht worden?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Leak-Bewertungsbogen (Inhalt × Verbreitung × Nichtöffentlichkeit × Ad-hoc-Pflicht)
-2. Ad-hoc-Entscheidungsprotokoll (mit Begründung)
-3. Forensische Dokumentation (Screenshot-Vorlage mit Zeitstempel)
-4. BaFin-Meldungsschreiben
-
-Belege ausschließlich mit: eur-lex.europa.eu, bafin.de, gesetze-im-internet.de, dejure.org.
-
 ## Weitere Hinweise
 
 Besondere Situation: Ein Mitarbeiter postet kursrelevante Informationen auf dem eigenen
@@ -101,3 +80,4 @@ Unternehmensinformationen zu posten. Verstöße können arbeitsrechtliche Konseq
 Weitere Quellen:
 - Art. 17 Abs. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+

@@ -5,10 +5,6 @@ description: "Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions
 
 # Signing, Closing und Conditions Precedent
 
-## Arbeitsbereich
-
-Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Ordinary Course, Bring-down, Closing Deliverables, Funds Flow und Closing Bible für M&A-Transaktionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Or
 ## Fachkern: Signing, Closing und Conditions Precedent
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **SPA/APA, Disclosure, Signing, Closing und Post-Closing-Mechanik**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -116,10 +109,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Signing, Closing und Conditions Precedent
 
-## Zweck
-
-Fuehrt Signing-to-Closing-Prozess: Conditions Precedent (CPs), Ordinary Course Covenants, Bring-down-Condition, Closing Deliverables, Funds Flow und Closing Bible. Stellt sicher, dass alle Closing-Voraussetzungen zeitgerecht erfullt sind und der Closing-Ablauf reibungslos vollzogen wird.
-
 ## Triage — klaere vor Signing
 
 1. Welche Conditions Precedent sind im SPA vereinbart — Regulatorisch (Kartell, FDI), Gesellschaftsrechtlich (Beschluesse, Genehmigungen), W&I-Deckungsbestaetigung?
@@ -144,9 +133,6 @@ Fuehrt Signing-to-Closing-Prozess: Conditions Precedent (CPs), Ordinary Course C
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **CP-Register anlegen:** alle CPs aus SPA extrahieren; je CP: Owner, Faelligkeit, Nachweis (Behördenbescheid, Beschluss, Zertifikat), Eskalationsstufe
@@ -207,3 +193,4 @@ AMPEL: [ ] Alle CPs gruen [ ] CPs ausstehend — Eskalation erforderlich
 
 - assets/templates/cp-tracker-signing-closing.md
 - assets/templates/closing-deliverables-register.md
+

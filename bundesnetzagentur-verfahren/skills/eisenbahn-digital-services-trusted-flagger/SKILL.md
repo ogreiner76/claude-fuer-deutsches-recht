@@ -5,10 +5,6 @@ description: "Digital Services / Transparenzberichte Online-Plattformen: anwaltl
 
 # Transparenzberichte nach DSA: Art. 15, 24, 42
 
-## Arbeitsbereich
-
-Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,11 +53,6 @@ Anwaltliche Begleitung der Erstellung, Prüfung und Auswertung von DSA-Transpare
 - BNetzA-Mitteilungen, Kommissions-Reports.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Compliance-Memo zur Berichtspflicht (10–20 Seiten).
-- Audit-Checkliste für externe Prüfer.
-- Stellungnahme an die BNetzA.
-
 ## Beispiele
 - Online-Plattform veröffentlicht ihren ersten Art. 15-Bericht. Anwaltliche Begleitung der Aggregation und Schwärzung.
 - BNetzA fordert ergänzende Erklärung zur Berechnung der monatlichen Nutzer (Art. 24 Abs. 2 DSA). Methodikbeschreibung mit statistischer Begründung.
@@ -69,3 +60,4 @@ Anwaltliche Begleitung der Erstellung, Prüfung und Auswertung von DSA-Transpare
 
 ## Qualitätsgate
 Klassifizierung verifiziert? Datenquellen vollständig? Schwellenwerte korrekt berechnet? Format-Konformität (Kommissions-Template) geprüft? Veröffentlichungsstelle und -datum dokumentiert? Audit-Trail für jede Zahl vorhanden?
+

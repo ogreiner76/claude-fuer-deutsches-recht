@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Kartellrecht und Ordoliberalismus. Kart
 
 # Kartellrecht und Ordoliberalismus
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Kartellrecht und Ordoliberalismus. Kartellrecht im Kaiserreich (Kohlen-Kartell-Entscheidung RG 1897), GWB 1957, Bundeskartellamt und EU-Kartellrecht Art. 101-102 AEUV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,6 +54,3 @@ Das Kartellrecht in Deutschland begann mit einem liberalen Verstaendnis: Das Rei
 - GWB § 1 und Art. 101 AEUV: Gemeinsamkeiten und Unterschiede
 - GWB § 19a (2021): Digitale Marktmacht-Regulierung
 
-## Quellenregel
-
-GWB: gesetze-im-internet.de. AEUV: eur-lex.europa.eu. BKartA: bundeskartellamt.de. RGZ 38, 155: historische RG-Entscheidungssammlungen. Boehm-Texte: historische Ausgaben.

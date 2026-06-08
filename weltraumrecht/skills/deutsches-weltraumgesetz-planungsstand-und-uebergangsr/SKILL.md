@@ -5,10 +5,6 @@ description: "Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungs
 
 # Weltraumrecht: Deutsches Weltraumgesetz: Planungsstand und Übergangsrisiko
 
-## Arbeitsbereich
-
-Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -114,3 +110,4 @@ Dieser Skill bearbeitet **Deutsches Weltraumgesetz: Planungsstand und Übergangs
 - EU Space Programme Regulation: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0696
 - BAFA Exportkontrolle: https://www.bafa.de/DE/Aussenwirtschaft/Exportkontrolle/exportkontrolle_node.html
 - ESA Legal Framework: https://www.esa.int/About_Us/Law_at_ESA/ESA_s_legal_framework
+

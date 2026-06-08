@@ -5,10 +5,6 @@ description: "Klage gegen Budgetbescheid (Land) oder Schiedsstellenentscheidung:
 
 # Klage gegen Budgetbescheid oder Schiedsstellenentscheidung
 
-## Arbeitsbereich
-
-Klage gegen Budgetbescheid (Land) oder Schiedsstellenentscheidung: Rechtsweg, Verwaltungs- vs. Sozialgericht, Klagearten, Frist, Begruendung, einstweiliger Rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,14 +78,6 @@ Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Soz
 - Eilantrag versaeumt — Bescheid wirkt vor Klageentscheidung.
 - Schiedsstellenkontrolle ueberschaetzt (Beurteilungsspielraum begrenzt).
 
-## Querverweise
-- `schiedsstellenverfahren-krankenhausentgelt`
-- `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
-- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
-- `vorhalteverguetung-leistungsgruppen-krankenhausreform`
-- `pflegebudget-vereinbarung-nachweis-risiken`
-- `landesaufsicht-krankenhausaufsicht-beanstandung`
-
 ## Quellen Stand 06/2026
 - KHG § 18a Abs. 4.
 - KHEntgG § 14.
@@ -97,3 +85,4 @@ Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen koennen vor dem Soz
 - VwGO §§ 40, 42, 80, 113; SGG §§ 51, 54, 86b.
 - BVerwG, staend. Rspr. zur Schiedsstellenkontrolle (Beurteilungsspielraum).
 - BSG, staend. Rspr. zum sozialgerichtlichen Verguetungsstreit.
+

@@ -5,10 +5,6 @@ description: "Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi:
 
 # Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi
 
-## Arbeitsbereich
-
-Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,11 +12,6 @@ Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi: führt schnel
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `verkehrsowi-verteidiger`. Kontext des Plugins: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
-
-Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
 ## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
@@ -37,18 +28,6 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 3. **Materielle Weichen:** Die Kernfragen zu **Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- Kurzbild in fünf Sätzen: Lage, Ziel, Frist, Risiko, nächster Schritt.
-- Prüfmatrix mit Punkt, Norm/Quelle, Tatsachen, Beleg, Bewertung, To-do.
-- Konkreter Textbaustein oder Arbeitsprodukt passend zur Lage: Memo, Mandantenbrief, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Verhandlungsagenda.
-- Keine Scheingenauigkeit: Annahmen, Lücken und Live-Check-Bedarf offen markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.
 
 ## Messung / Punkte / Fahrverbot Bausteine
 - **Punkte FAER § 4 StVG (seit Reform 2014):**
@@ -77,3 +56,4 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
  - ES 8.0/3.0: Smear-Effekt; Photolinie.
  - TraffiStar S330: stationaerer Blitzer, Rohdaten-Diskussion.
 - **Praxis-Tipp:** Bei Punktestand-Abfrage KBA Flensburg (kostenfrei); Punkteloesch-Tabelle § 29 StVG: 2,5 Jahre für 1-Punkt-OWi; 5 Jahre für 2-Punkt; 10 Jahre für 3-Punkt-Verstoesse.
+

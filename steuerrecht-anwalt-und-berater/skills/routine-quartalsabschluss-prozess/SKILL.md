@@ -96,12 +96,6 @@ WOCHE 5: REPORTING UND GESPRAECH
 - Massnahmen-Liste aus Gespraech.
 - Strategie-Themen kontrollieren.
 
-## Output
-
-- Quartals-BWA mit allen Kennzahlen.
-- Quartalsbericht.
-- Gespraechs-Protokoll.
-
 ## Strategie und Praxis-Tipps
 
 - Bei A-Mandanten Quartalsabschluss Standard, nicht nur Monatsabschluss.
@@ -109,13 +103,6 @@ WOCHE 5: REPORTING UND GESPRAECH
 - Bei Konzern-Mandanten Termincontrolling kritisch (Konzern-Frist meist eng).
 - StBVV: Quartalsabschluss als gesonderter Auftrag oder in Pauschalvereinbarung.
 - DATEV-Tipp: DATEV Quartals-BWA mit kumuliertem Vergleich.
-
-## Querverweise
-
-- `stb-routine-monatsabschluss-30-tage-zyklus` — Monatsabschluss.
-- `stb-mandantenkommunikation-bwa-uebergabe-quartal` — Quartalsgespraech.
-- `stb-bwa-aufbau-grundlagen` — BWA.
-- `stb-susa-monatlich-quartalsweise` — SuSa.
 
 ## Quellen und Updates
 
@@ -126,10 +113,3 @@ Stand: 05/2026.
 - StBerG § 33.
 - EStG § 37.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

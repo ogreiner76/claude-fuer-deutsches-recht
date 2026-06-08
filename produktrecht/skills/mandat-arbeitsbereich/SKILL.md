@@ -5,10 +5,6 @@ description: "Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, W
 
 # Produktmandat-Workspace
 
-## Arbeitsbereich
-
-Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene). Lädt, wenn der Nutzer ein neues Mandat anlegen, zwischen Mandaten wechseln, ein Mandat abschließen oder den mandatsbezogenen Kontext trennen möchte, insbesondere bei mehreren parallelen Produktrechtsmandaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -124,20 +120,6 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Ausgabeformat
-
-### `mandat.md`-Vorlage
-
-```markdown
-### Mandat: [Mandant] — [Kurzbeschreibung]
-
-**Slug:** [slug]
-**Eröffnet:** [JJJJ-MM-TT]
-**Status:** aktiv
-**Vertraulichkeit:** [standard / erhöht / Clean-Team]
-
----
-
 ## Parteien
 
 **Mandant:** [Name]
@@ -219,3 +201,4 @@ Hinweis: Dieser Skill hält Produktmandate sauber getrennt und stärkt damit die
 <!-- AUDIT 27.05.2026 bundle_040
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

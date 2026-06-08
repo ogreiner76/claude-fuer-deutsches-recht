@@ -45,13 +45,6 @@ description: "Klausurfall zu Duldungs- und Anscheinsvollmacht im BGB AT nach BGH
 - Dritter muss gutgläubig sein — bei grob fahrlässiger Unkenntnis kein Vertrauensschutz.
 - BGH-Linie: Hohe Anforderungen an Anscheinsvollmacht, insbesondere bei ungewöhnlichen Geschäften.
 
-## Output
-
-- Prüfungsschema: echte Vollmacht — Duldungsvollmacht — Anscheinsvollmacht — § 179 BGB
-- Gutachtenstil-Abschnitt mit vollständiger Subsumtion
-- BGH-Rechtsprechungs-Überblick zu Anforderungen
-- Klausurlösungsskizze mit Ergebnis
-
 ## Quellen
 
 - [§ 167 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__167.html)
@@ -86,3 +79,4 @@ erkennen und verhindern können, (4) Gutgläubigkeit des Dritten.
 - Anscheinsvollmacht: Hätte Vertretener es erkennen und verhindern können?
 - Gutgläubigkeit des Dritten in beiden Fällen erforderlich?
 - Rechtsfolge: Vollmacht gilt als erteilt — Vertrag mit Vertretungswirkung?
+

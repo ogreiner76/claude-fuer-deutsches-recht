@@ -5,10 +5,6 @@ description: "Digitaler Arbeitsbereich für Prozessmandate: Dokumentenablage, Au
 
 # Mandatsarbeitsbereich
 
-## Arbeitsbereich
-
-Digitaler Arbeitsbereich für Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Prüfraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output: Mandats-Arbeitsbereich-Struktur. Abgrenzung: nicht Kanzlei-Builder-Hub-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Digitaler Arbeitsbereich für Prozessmandate: Dokumentenablage, Aufgabenverteilu
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen Prozessmandaten. Ein Mandatsarbeitsbereich hält den Kontext eines Mandats strikt von allen anderen getrennt. Dieser Skill verwaltet diese Arbeitsbereiche. Lädt bei Anfragen zur Mandatsverwaltung: Anlegen, Auflisten, Wechseln, Schließen und Archivieren von Prozessmandaten.
-
-**Standardzustand ist deaktiviert für Syndikusrechtsanwälte** (§ 46 BRAO) und Einmandat-Kanzleien. Für diese läuft das Plugin automatisch auf Kanzleiebene. Ist `Aktiviert: ✗` in der Kanzleikonfiguration, erklärt dieser Skill den deaktivierten Zustand und schlägt eine Neukonfiguration vor.
 
 ## Eingaben
 
@@ -46,6 +36,7 @@ Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -112,33 +103,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Internationales Verfahren Schiedsgericht | Schiedsverfahrens-Workspace; anderen Skill parallel einsetzen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Ausgabeformat
-
-### Vorlage `akte.md`
-
-```markdown
-[ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-### Mandat: [Mandant] — [Kurzbeschreibung]
-
-**Slug:** [slug]
-**Eröffnet:** [JJJJ-MM-TT]
-**Status:** aktiv
-**Vertraulichkeit:** [standard / erhöht / clean-team]
-
----
 
 ## Parteien
 
@@ -208,3 +172,4 @@ Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

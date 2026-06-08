@@ -5,10 +5,6 @@ description: "Prueft grenzüberschreitende Nutzung, Schutzlandprinzip, Berner Ü
 
 # Internationales Urheberrecht und Kollisionsrecht
 
-## Arbeitsbereich
-
-Prueft grenzüberschreitende Nutzung, Schutzlandprinzip, Berner Übereinkunft, EU-Harmonisierung, Plattformen und US-Bezug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,3 +81,4 @@ Konkret zu prüfen:
 - RBÜ Art. 5
 - WCT/WPPT
 - Rom-Abk.
+

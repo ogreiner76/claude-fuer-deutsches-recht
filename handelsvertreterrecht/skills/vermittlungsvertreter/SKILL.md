@@ -65,10 +65,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Provision für vermittelte Geschäfte irrtümlich verweigert.
 - Ausgleichsanspruch des Vermittlungsvertreters nicht angemeldet.
 
-## Output
-
-Provisionsanspruch-Analyse Vermittlungsvertreter, Ausgleichsberechnung, Vertragsklausel-Empfehlung.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +85,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [§ 91 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__91.html)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

@@ -5,9 +5,6 @@ description: "Erbschein Antrag Orientierung im Plugin Fachanwalt Erbrecht: prüf
 
 # Erbschein Antrag Orientierung
 
-## Arbeitsbereich
-
-**Erbschein Antrag Orientierung** ordnet den Fall über die tragenden Prüfungslinien: Erbschein beantragen wenn Erbfolge nachgewiesen werden muss, Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und, Pflichtteilsanspruch berechnen wenn Erblasser nahe. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Erbschein Antrag Orientierung im Plugin Fachanwalt Erbrecht: prüf
 - Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-erbrecht-erbschein-antrag`
@@ -48,9 +46,6 @@ description: "Erbschein Antrag Orientierung im Plugin Fachanwalt Erbrecht: prüf
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. Wann und wo ist der Erblasser verstorben? Wo war der letzte gewöhnliche Aufenthalt (Zuständigkeitsfrage § 343 FamFG)?
@@ -151,9 +146,6 @@ Anhängig zur Verfassungsmäßigkeit der erbschaftsteuerlichen Verschonung von B
 
 Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, dejure.org oder openjur.de verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## FAO-Voraussetzungen
 
 - Lehrgang 120 Stunden + drei Klausuren.
@@ -195,9 +187,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - BGH IV. Zivilsenat für Erbsachen.
 - Finanzgericht bei Erbschaftsteuer.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Erbrecht DAV.
@@ -541,3 +530,4 @@ Wir fordern Sie auf, bis [Datum] zu zahlen.
 - Weitere Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle (bundesgerichtshof.de, dejure.org, openjur.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Stand: 05/2026
+

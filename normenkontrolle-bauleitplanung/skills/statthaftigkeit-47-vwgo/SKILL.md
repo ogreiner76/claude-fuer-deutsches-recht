@@ -5,10 +5,6 @@ description: "Mandant fragt ob Normenkontrollantrag gegen eine bestimmte Planung
 
 # Statthaftigkeit § 47 VwGO
 
-## Zweck
-
-Klärung, ob die angegriffene Vorschrift überhaupt Gegenstand eines Normenkontrollverfahrens sein kann. Statthaftigkeit ist die erste der vier Zulässigkeits-Säulen und wird vor Antragsbefugnis, Frist und Rechtsschutzbedürfnis geprüft.
-
 ## Schritt 1 — Grundtatbestand § 47 Abs. 1 VwGO
 
 ### Wortlaut sinngemäß
@@ -136,6 +132,3 @@ Klärung, ob die angegriffene Vorschrift überhaupt Gegenstand eines Normenkontr
 
 Konkrete Aktenzeichen vor Ausgabe per bverwg.de verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

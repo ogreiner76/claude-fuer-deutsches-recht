@@ -111,14 +111,6 @@ Die konkreten Saetze sind aus der jeweils aktuellen DESTATIS-Tabelle und Leitfad
 - Lohnsatz "ca. 30 EUR" ohne Differenzierung
 - Fallzahlen aus Pressemeldungen statt Statistik
 
-## Querverweise
-
-- `nkr-standardkostenmodell-skm`
-- `nkr-fallzahlen-schaetzung-bandbreiten`
-- `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR), Zeitwerttabellen
@@ -127,3 +119,4 @@ Die konkreten Saetze sind aus der jeweils aktuellen DESTATIS-Tabelle und Leitfad
 - DESTATIS Personalstandstatistik (jeweils aktuelle Ausgabe)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.destatis.de](https://www.destatis.de) und [www.bmi.bund.de](https://www.bmi.bund.de)
+

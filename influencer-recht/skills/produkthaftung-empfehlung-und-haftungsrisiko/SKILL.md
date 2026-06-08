@@ -5,10 +5,6 @@ description: "Influencer-Recht: Produkthaftung bei Empfehlungen – ProdHaftG, �
 
 # Influencer-Recht: Produkthaftung – Empfehlung und Haftungsrisiko
 
-## Arbeitsbereich
-
-Influencer-Recht: Produkthaftung bei Empfehlungen – ProdHaftG, § 823 BGB, Haftungsfreistellung, Freistellungsklauseln und Risikoabsicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,3 +73,4 @@ Creator können für empfohlene Produkte haftbar werden:
 - Produktrückruf-Reaktionsplan
 - Haftungs-Check vor Produktempfehlung
 - Versicherungsbedarf-Checkliste
+

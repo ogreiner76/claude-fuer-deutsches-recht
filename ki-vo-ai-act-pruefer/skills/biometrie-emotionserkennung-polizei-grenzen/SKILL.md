@@ -26,13 +26,7 @@ Dieser Skill trennt biometrische Identifizierung, biometrische Kategorisierung, 
 - polizeiliche Trefferlisten ohne hinreichende menschliche Nachprüfung.
 - Zweckwechsel von Zugangskontrolle zu Überwachung.
 
-## Output
-
-- Verbots-/Hochrisiko-Ampel.
-- Ausnahmeprüfung.
-- Datenschutz- und Grundrechtsvermerk.
-- technische Mindestkontrollen.
-
 ## Warnung
 
 Bei biometrischen Systemen reicht ein allgemeiner "Security"-Zweck nie. Der konkrete Ort, Zweck, Personenkreis und Entscheidungsbezug müssen sauber feststehen.
+

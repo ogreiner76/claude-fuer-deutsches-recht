@@ -5,10 +5,6 @@ description: "Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Ham
 
 # ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten
 
-## Arbeitsbereich
-
-Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,12 +46,6 @@ Ein Fischereifahrzeug eines Vertragsstaats wird von einem anderen Staat beschlag
 - ITLOS-Schriftsätze müssen präzise UNCLOS-Normen zitieren; allgemeine Menschenrechtsargumente reichen nicht.
 - M/V Saiga Case No. 2: Guinea hatte keinen Anspruch auf Verhaftung in der AWZ für Zollvergehen.
 
-## Output
-- ITLOS-Verfahrensstrategie (Prompt Release oder Provisional Measures)
-- Sicherheitsleistungs-Kalkulation nach ITLOS-Praxis
-- Schriftsatz-Struktur für Prompt-Release-Antrag
-- Normübersicht UNCLOS Art. 292/290/220-228
-
 ## Erweiterte Normengrundlage
 
 ### UNCLOS
@@ -89,3 +79,4 @@ Ein Fischereifahrzeug eines Vertragsstaats wird von einem anderen Staat beschlag
 - ITLOS Statut Annex VI: https://www.un.org/Depts/los/convention_agreements/texts/unclos/annex6.htm
 - BSH UNCLOS: https://www.bsh.de
 - ITLOS Arctic Sunrise Case No. 22: https://www.itlos.org/en/main/cases/list-of-cases/
+

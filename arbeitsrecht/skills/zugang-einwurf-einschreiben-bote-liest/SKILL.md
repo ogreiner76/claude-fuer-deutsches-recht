@@ -5,9 +5,6 @@ description: "Zugang Einwurf Einschreiben Bote Liest im Plugin Arbeitsrecht: pr�
 
 # Zugang Einwurf Einschreiben Bote Liest
 
-## Arbeitsbereich
-
-**Zugang Einwurf Einschreiben Bote Liest** ordnet den Fall über die tragenden Prüfungslinien: Arbeitsrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Zugang Einwurf Einschreiben Bote Liest im Plugin Arbeitsrecht: pr�
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal`
@@ -31,10 +29,6 @@ description: "Zugang Einwurf Einschreiben Bote Liest im Plugin Arbeitsrecht: pr�
 **Fokus:** Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 ### Zugang Einwurf Einschreiben Auslieferungsbeleg Und Inhal
-
-## Aufgabe
-
-Skill für Einwurfeinschreiben als Zustellnachweis bei Kuendigung — Beweiswert des Auslieferungsbelegs.
 
 ## Was ist Einwurfeinschreiben?
 
@@ -70,20 +64,11 @@ Skill für Einwurfeinschreiben als Zustellnachweis bei Kuendigung — Beweiswert
 3. Inhalt nachweisbar?
 4. Gegenbeweis vom Empfaenger?
 
-## Output
-
-- Zustell-Memo.
-- Beweissicherung-Empfehlung.
-
 ## 2. `zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenb`
 
 **Fokus:** Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 ### Zugang Bote Liest Kuendigung Inhalt Umschlag Und Zeugenb
-
-## Aufgabe
-
-Skill für Botenzustellung der Kuendigung — Beweissicherung durch Zeugen.
 
 ## Konstellation
 
@@ -121,20 +106,11 @@ Arbeitgeber laesst die Kuendigung durch einen **Boten** uebergeben (interner Mit
 3. Datum/Uhrzeit dokumentiert?
 4. Zeugenaussage moeglich?
 
-## Output
-
-- Bote-Zustellprotokoll.
-- Zeugenmemo für den Prozess.
-
 ## 3. `zugang-neu-004-persönliche-uebergabe-empfangsverweigerung-und-z`
 
 **Fokus:** Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 ### Zugang Persoenliche Uebergabe Empfangsverweigerung Und Z
-
-## Aufgabe
-
-Skill für persönliche Uebergabe der Kuendigung und Behandlung der Empfangsverweigerung.
 
 ## Persoenliche Uebergabe
 
@@ -169,20 +145,11 @@ Skill für persönliche Uebergabe der Kuendigung und Behandlung der Empfangsverw
 3. Zeuge vorhanden?
 4. Grund der Verweigerung?
 
-## Output
-
-- Uebergabeprotokoll.
-- Zeugenmemo.
-
 ## 4. `zugang-neu-005-hausbriefkasten-leerungszeiten-und-zugang`
 
 **Fokus:** Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 ### Zugang Hausbriefkasten Leerungszeiten Und Zugang
-
-## Aufgabe
-
-Skill für Hausbriefkasten als Zugangsstelle und die Bedeutung der ueblichen Leerungszeit.
 
 ## Hausbriefkasten als Machtbereich
 
@@ -220,7 +187,3 @@ Skill für Hausbriefkasten als Zugangsstelle und die Bedeutung der ueblichen Lee
 4. Werktag oder Sonntag?
 5. Briefkasten ordnungsgemaess?
 
-## Output
-
-- Zugangstabelle mit Datum-Uhrzeit-Berechnung.
-- Memo zur Klagefrist § 4 KSchG.

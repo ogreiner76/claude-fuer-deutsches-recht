@@ -5,10 +5,6 @@ description: "Anfangsverdacht strukturieren: zureichende tatsächliche Anhaltspu
 
 # Anfangsverdacht nach §§ 152, 160 StPO
 
-## Arbeitsbereich
-
-Anfangsverdacht strukturieren: zureichende tatsächliche Anhaltspunkte, Ermittlungsauftrag der StA, keine bloße Spekulation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Anfangsverdacht strukturieren: zureichende tatsächliche Anhaltspunkte, Ermittlu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für die Kernfrage: Reicht der Sachverhalt überhaupt für eine sinnvolle Anzeige?
-
 ## Norm- und Quellenanker
 
 StPO §§ 152 Abs. 2, 160, 158; RiStBV live prüfen.
-
-## Arbeitsfragen
-
-1. Welche Tatsachen tragen welchen Straftatbestand?
-2. Welche Lücken kann die Polizei ermitteln?
-3. Welche Lücken sind reine Spekulation?
-
 
 ## Normen & Rechtsprechung
 
@@ -43,9 +28,6 @@ Konkret zu prüfen:
 - § 168b StPO
 - § 110 StPO
 - Nr. 9-13 RiStBV
-## Output
-
-Anfangsverdachtsmemo und Ermittlungsansatzliste.
 
 ## Red Flags
 
@@ -57,6 +39,3 @@ Anfangsverdachtsmemo und Ermittlungsansatzliste.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

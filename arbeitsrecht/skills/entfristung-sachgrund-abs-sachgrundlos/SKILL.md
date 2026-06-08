@@ -5,9 +5,6 @@ description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: pr�
 
 # Entfristung Sachgrund ABS Sachgrundlos
 
-## Arbeitsbereich
-
-**Entfristung Sachgrund ABS Sachgrundlos** ordnet den Fall über die tragenden Prüfungslinien: Sachgrundprüfung Befristung nach § 14 Abs, Sachgrundlose Befristung nach § 14 Abs, Sachgrundlose Befristung bei Unternehmensneugründung nach §. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: pr�
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `entfristung-sachgrund-pruefen-14-abs-1`
@@ -61,9 +59,6 @@ description: "Entfristung Sachgrund ABS Sachgrundlos im Plugin Arbeitsrecht: pr�
 - **BAG, Urteil vom 18.06.2025 - 7 AZR 50/24**: § 14 Abs. 2 TzBfG ist uneingeschraenkt auf Betriebsratsmitglieder anwendbar; eine teleologische Reduktion für Mitglieder findet nicht statt. Bei Verweigerung eines Folgevertrags wegen Betriebsratsmandat besteht Schadensersatzanspruch gerichtet auf Abschluss des verweigerten Folgevertrags (§ 78 BetrVG i.V.m. § 280 BGB). Quelle: dejure.org-Vernetzung; vor Schriftsatzverwendung Volltext pruefen.
 - Aeltere Leitentscheidungen (BAG zur Vorbeschaeftigung, BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 u.a. zur Verfassungsmaessigkeit § 14 Abs. 2 TzBfG): vor Zitat Aktenzeichen und Fundstelle in dejure.org / openjur.de pruefen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Die acht Sachgründe § 14 Abs. 1 TzBfG
 
 ### Nr. 1 — Vorübergehender Betriebsbedarf
@@ -189,9 +184,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Voraussetzungen der sachgrundlosen Befristung
 
 Nach § 14 Abs. 2 Satz 1 TzBfG ist eine sachgrundlose Befristung zulässig wenn:
@@ -289,9 +281,6 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=7+AZR+716%2F09
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Das Neugründungsprivileg
 
 § 14 Abs. 2a TzBfG gewährt neugegründeten Unternehmen ein erweitertes Recht zur sachgrundlosen Befristung:
@@ -381,9 +370,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Die Regelung
 
 § 14 Abs. 3 TzBfG erlaubt eine sachgrundlose Befristung unter erleichterten Bedingungen, wenn der Arbeitnehmer bei Beginn des befristeten Arbeitsverhältnisses das 52. Lebensjahr vollendet hat und unmittelbar vor Beginn des befristeten Arbeitsverhältnisses mindestens vier Monate beschäftigungslos i.S.d. § 119 Abs. 1 Nr. 1 SGB III war, Transferkurzarbeitergeld bezogen hat oder an einer öffentlich geförderten Beschäftigungsmaßnahme teilgenommen hat.
@@ -434,3 +420,4 @@ Der EuGH hat zu § 14 Abs. 3 TzBfG a.F. entschieden, dass eine generelle Befrist
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+

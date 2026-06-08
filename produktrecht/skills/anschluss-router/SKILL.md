@@ -5,10 +5,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Produktrecht-Plugin. Fr
 
 # Produktrecht — Allgemein
 
-## Arbeitsbereich
-
-Einstieg, Schnelltriage und Fallrouting im Produktrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,15 +12,6 @@ Einstieg, Schnelltriage und Fallrouting im Produktrecht-Plugin. Fragt Rolle, Zie
 - Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
 ## Schnellstart-Workflow
 
@@ -212,12 +199,6 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 - Werbeaussage zu Klimaneutralitaet oder Nachhaltigkeit wird nicht mit belastbaren Nachweisen unterlegt; Greenwashing-Abmahnrisiko.
 - Launch-Pruefung wird als Checkliste abgehakt, ohne Risikokalibrierung und Eskalationsschwellen der eigenen Rechtsabteilung.
 
-## Querverweise
-
-- `dsa-dma-digitalregulierung` — Fuer DSA-Pflichten bei Online-Plattformen und VLOP-Einordnung.
-- `europarecht-kompass` — Fuer EU-Rechtsquellen-Einordnung (Verordnung, Richtlinie) bei EU-Produktregulierung.
-- `vertragsausfueller` — Fuer Lizenz- und Vertriebsvertraege im Produktkontext.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
@@ -228,14 +209,6 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 - **Produkthaftungs-RL (EU) 2024/2853** — Neue Produkthaftungsrichtlinie; Umsetzungsfrist in nationales Recht **bis 09.12.2026**, gilt für Produkte, die **nach dem 09.12.2026** in Verkehr gebracht oder in Betrieb genommen werden; weitgefasster Produktbegriff (auch Software, digitale Konstruktionsunterlagen, Elektrizität, Rohstoffe); Streichung des 500-EUR-Selbstbehalts und der 85-Mio-EUR-Obergrenze; Haftung auch von Importeuren, Beauftragten, Fulfillment-Dienstleistern und bestimmten Online-Plattform-Anbietern — [EUR-Lex 32024L2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj).
 - **KI-VO (EU) 2024/1689** in der geltenden Fassung; Verbote Art. 5 anwendbar seit 02.02.2025; Allgemeine KI-Modelle (GPAI) ab 02.08.2025; Hochrisiko-KI-Pflichten in der Hauptanwendung ab **02.08.2026** — [EUR-Lex 32024R1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).
 - **Maschinenverordnung (EU) 2023/1230** — anwendbar ab 20.01.2027.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

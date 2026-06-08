@@ -5,10 +5,6 @@ description: "Unterhaltssicherung Reservisten: prüft UhSiG, Anspruchsberechtigt
 
 # Unterhaltssicherung für Reservisten
 
-## Arbeitsbereich
-
-Unterhaltssicherung Reservisten: prüft UhSiG, Anspruchsberechtigte, Berechnung, Verfahren und Rechtsbehelfe. Norm-/Quellenanker: UhSiG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Selbstständige müssen Einkommen der letzten 3 Jahre nachweisen; dies ist oft d
 - ArbPlSchG — Arbeitgebererstattung
 - SGB II/III — Schnittstellen
 - SG §§ 60–69 — Dienstleistungspflicht
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -94,21 +84,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Berechnungsschema UhSiG Selbstständiger
 - Checkliste: Unterlagen für UhSiG-Antrag
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/uhsig/ — UhSiG
-- https://www.gesetze-im-internet.de/wsg/ — WSG
-- https://www.gesetze-im-internet.de/arb-plschg/ — ArbPlSchG
-- https://www.bundeswehr.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +93,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

@@ -5,10 +5,6 @@ description: "Lieferengpässe Austausch Dokumentation: prüft die einschlägigen
 
 # Lieferengpässe Austausch Dokumentation
 
-## Arbeitsbereich
-
-Lieferengpässe Austausch Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -102,15 +98,6 @@ Eingaben:
 - Mehrfach-Austausch bei chronischer Therapie ohne Verlaufsdoku.
 - ALBVVG-Möglichkeiten nicht ausgeschöpft, Patient mit "nicht lieferbar" weggeschickt.
 
-## Querverweise
-
-- `arzneimittelabgabe-verschreibungspflicht` (allgemeiner Abgabevorgang)
-- `substitution-rabattvertrag-aut-idem` (Aut-idem)
-- `import-einzelimport-73-amg` (Import-Variante)
-- `retaxationsabwehr-nullretax-risiko` (Retax-Abwehr)
-- `rechnung-retaxation-krankenkasse` (Abrechnung)
-- `e-rezept-ti-gematik-apothekenprozess` (E-Rezept-Codierung)
-
 ## Quellen Stand 06/2026
 
 - AMG §§ 52a, 52b, 79.
@@ -119,3 +106,4 @@ Eingaben:
 - BfArM-Engpassliste (tagesaktuell online).
 - ABDA-Mitteilungen zum Engpass-(vom Anwender zu verifizieren).
 - BSG, staend. Rspr. zur Retaxation bei Engpass.
+

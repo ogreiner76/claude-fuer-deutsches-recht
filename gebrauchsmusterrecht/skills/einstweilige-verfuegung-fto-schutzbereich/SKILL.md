@@ -5,10 +5,6 @@ description: "Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abweh
 
 # Einstweilige Verfuegung Gebrauchsmuster
 
-## Arbeitsbereich
-
-Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlich
 ## Wann dieser Skill hilft
 
 Schnelles Vorgehen wird erwogen.
-
-## Arbeitsweise
-
-Prüfe besonders kritisch, ob das ungeprüfte Recht eV-tauglich ist.
 
 ## Prüfpunkte
 
@@ -59,13 +51,10 @@ Prüfe besonders kritisch, ob das ungeprüfte Recht eV-tauglich ist.
 - LG Duesseldorf, LG Mannheim und LG Muenchen I als zentrale Patentkammern bearbeiten viele Gebrauchsmuster-Verfuegungsverfahren.
 - Aktenzeichen im Mandat live verifizieren.
 
-## Output
-
-eV-Risikomemo.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

@@ -10,10 +10,6 @@ description: "Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persön
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Sonstige absolute Rechte nach § 823 Abs. 1 BGB prüfen: allgemeines Persönlichkeitsrecht (APR), Recht am eingerichteten und ausgeübten Gewerbebetrieb und Immaterialgüterrechte.
-
 ## Normanker
 
 - § 823 Abs. 1 BGB: sonstige Rechte (Auffangtatbestand für absolute Rechte)
@@ -48,25 +44,13 @@ Sonstige absolute Rechte nach § 823 Abs. 1 BGB prüfen: allgemeines Persönlich
 - Recht am Gewerbebetrieb ist subsidiär; spezialgesetzliche Regelungen haben Vorrang.
 - APR-Verletzung erfordert erheblichen Eingriff; geringfügige Beeinträchtigungen reichen nicht.
 - Geldentschädigung wegen APR-Verletzung ist keine Schadenshöhe, sondern eigenständige Anspruchsvoraussetzung.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Rechtsguts-Einordnung (absolutes Recht, sonstiges Recht)
-- APR-Abwägungsmatrix
-- Schadensberechnung (materiell und immateriell)
-- Unterlassungsanspruch und einstweiliger Rechtsschutz
-
-## Qualitätsregeln
-
-- Sonstige Rechte immer restriktiv auslegen; kein Auffangtatbestand für beliebige Schäden.
-- APR-Abwägung mit Meinungsfreiheit und Pressefreiheit ausdrücklich vornehmen.
-- Spezialgesetze immer auf Vorrang prüfen.
 
 ## Anschluss-Skills
 
@@ -80,10 +64,4 @@ Sonstige absolute Rechte nach § 823 Abs. 1 BGB prüfen: allgemeines Persönlich
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/bgb/__12.html
 - https://www.gesetze-im-internet.de/bgb/__1004.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Betriebskostenabrechnung im Immobilienportfolio prüfen: formelle 
 
 # Betriebskostenabrechnung prüfen
 
-## Arbeitsbereich
-
-Betriebskostenabrechnung im Immobilienportfolio prüfen: formelle Mindestangaben, Fristen, Umlagefähigkeit, Buchhaltungsabgleich, WEG-zu-Mieter-Übersetzung, Zahlungsbelege, Wirtschaftlichkeit, HeizkostenV, CO2KostAufG und Streitwertkalkulation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Betriebskostenabrechnung im Immobilienportfolio prüfen: formelle Mindestangaben
 ## Fachkern: Betriebskostenabrechnung prüfen
 - **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
 - **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
-
-## Aufgabe
-
-Dieser Skill prüft Betriebskostenabrechnungen für Mieter, Vermieter, Käufer, Verkäufer, Asset Manager und Prozessanwälte. Er verbindet juristische Prüfung mit Datenprüfung: Buchhaltung, Rechnungen, Zahlungsbelege, Mietvertrag und Abrechnung müssen zusammenpassen.
 
 ## Einstieg
 
@@ -51,13 +43,6 @@ Dieser Skill prüft Betriebskostenabrechnungen für Mieter, Vermieter, Käufer, 
 - Zahlungsbelege zeigen Skonto/Gutschrift, Abrechnung setzt Bruttorechnung an.
 - Gewerbeeinheit verursacht Sonderkosten, aber Wohnmieter tragen alles mit.
 - Abrechnung wurde nach Frist versendet, aber ohne Zugangsnachweis behauptet.
-
-## Output
-
-- Fehlerliste mit Betrag je Einheit.
-- Ampel: sofort korrigieren, verteidigen, vergleichen, Klagerisiko.
-- Mieter-/Vermieterschreiben.
-- Due-Diligence-Risikoanhang mit Rückstellungsvorschlag.
 
 ## Quellenregel
 

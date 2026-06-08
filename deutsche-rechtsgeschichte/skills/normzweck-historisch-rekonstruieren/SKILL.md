@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Normzweck historisch rekonstruieren. Wi
 
 # Normzweck historisch rekonstruieren
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Normzweck historisch rekonstruieren. Wie man den historischen Regelungszweck einer Norm aus Materialien, Parlamentsdebatten und zeitgenoessischer Literatur erschliesst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Die historische Normzweckrekonstruktion (genetische Auslegung) fragt: Was wollte
 - BT-Drucksachen (neuere Gesetze): bundestag.de/dokumente/parlamentsarchiv
 - BVerfGE und BGH: bverfg.de und bgh.de
 
-## Output
-
-- Schema Normzweckrekonstruktion: Quellen und Hilfsmittel
-- Beispielrekonstruktion: BGB § 138 (Sittenwidrigkeit) aus den Materialien
-- Grenzen der genetischen Auslegung: Wann scheitert sie?
-
-## Quellenregel
-
-Mugdan Bde. I-VI: historische Ausgabe (1899) mit Band und Seite. Reichstagsprotokolle: reichstagsprotokolle.de. BT-Drucksachen: bundestag.de. BVerfGE und BGH: bverfg.de und bgh.de.

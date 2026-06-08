@@ -31,13 +31,3 @@ Der Skill prüft, ob KI-Ergebnisse in Ermittlungsakten, Polizeivermerken oder Be
 9. Aktenklarheit: Ist das KI-Ergebnis Primärbeweis, Ermittlungsanstoß, Übersetzungshilfe oder bloße Sortier-/Priorisierungshilfe?
 10. Fair-Trial-Gate: Kann die Verteidigung Methode, Datenbasis, Fehlerquellen und menschliche Kontrollentscheidung tatsächlich angreifen?
 
-## Output
-
-- Behörden-Governance-Vermerk.
-- Verteidigungsangriffsmatrix.
-- Fragenkatalog für Akteneinsicht.
-- Sachverständigenfragen.
-
-## Qualitätsregel
-
-KI-Auswertung ist nicht selbsterklärend. Wenn sie beweisrelevant wird, müssen Methode, Datenbasis und Fehlerquellen in die Akte.

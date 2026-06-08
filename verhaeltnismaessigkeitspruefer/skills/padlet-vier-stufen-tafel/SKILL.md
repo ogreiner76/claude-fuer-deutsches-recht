@@ -109,15 +109,9 @@ Die ASCII-Vorschau wird **zusaetzlich** zum echten Padlet ausgegeben, damit der 
 +-------------------+---------------------+-------------------------+-----------------------+
 ```
 
-## Output
-
-1. Echte Padlet-URL aus Pfad 1 oder Pfad 2.
-2. Liste der angelegten Karten mit IDs.
-3. ASCII-Vorschau zur Mitnahme in den Schriftsatz.
-4. Bei Pfad 3 zusaetzlich die fertige Markdown-Aufstellung der Karten.
-
 ## Verwandt
 
 - `stufenbaum-ascii-art` fuer die druckbare Stufen-Visualisierung.
 - `mermaid-flowchart-pruefung` fuer das Flussdiagramm.
 - `ascii-pruefungsschema` fuer die kompakte Tabellenvariante.
+

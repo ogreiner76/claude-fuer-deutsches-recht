@@ -45,13 +45,6 @@ description: "Klausurfall zum Handeln im fremden Namen nach § 164 Abs. 1 BGB: O
 - Offenkundigkeitsprinzip: Nur rechtliches, nicht wirtschaftliches Handeln für einen anderen.
 - Vollmacht und Offenkundigkeit sind unabhängige Voraussetzungen — beide müssen vorliegen.
 
-## Output
-
-- Prüfungsschema: Offenkundigkeitsprinzip — Eigengeschäft — verdeckte Stellvertretung
-- Abgrenzungstabelle: Handeln unter fremdem Namen vs. Identitätsirrtum
-- Gutachtenstil-Abschnitt zu § 164 BGB
-- Klausurlösungsskizze mit Vollmachts-Folgeprüfung
-
 ## Quellen
 
 - [§ 164 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__164.html)
@@ -82,3 +75,4 @@ Hintermanns irrelevant — § 164 Abs. 1 BGB nicht direkt anwendbar.
 - Unternehmensbezogenheit: Betrieb/Firma erkennbar?
 - Verdeckte Stellvertretung: Handelnder wird selbst Vertragspartner?
 - Handeln unter fremdem Namen: Identitätsirrtum anfechtungsrelevant?
+

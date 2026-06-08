@@ -22,11 +22,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Aufgabe
-
-Dieser Skill erklärt das Zwölftafelgesetz als frühe Ordnung von **Verfahren und Vollstreckung**: Ladung, Anwesenheit, formale Prozessschritte, Urteil, Fristen, Schulddruck und die Härte archaischer Vollstreckung.
-
 ## Sofortsortierung
 
 1. Handelt es sich um Prozessbeginn, Beweis, Urteil, Vollstreckung oder Schuldnerstatus?
@@ -41,15 +36,9 @@ Dieser Skill erklärt das Zwölftafelgesetz als frühe Ordnung von **Verfahren u
 4. **Vollstreckungsdruck:** Schuldhaft und Zugriff auf Person/Vermögen historisch erklären, nicht normativ romantisieren.
 5. **Fortbildung:** Übergang zu Legisaktionen, prätorischer Steuerung, Formularprozess und späterem Kognitionsverfahren skizzieren.
 
-## Ausgabeformat
-
-- Prozesskarte in fünf Schritten.
-- Historischer Härtegrad mit heutiger Warnmarke.
-- Vergleich: Zwölftafelgesetz, klassischer Prozess, justinianische Ordnung, moderne Rechtsstaatslogik.
-- Kurzes didaktisches Beispiel.
-
 ## Fehlervermeidung
 
 - Keine Gleichsetzung mit moderner ZPO.
 - Keine ungesicherte wörtliche Tafelübersetzung ohne Nutzerquelle.
 - Keine Beschönigung archaischer Zwangsmittel.
+

@@ -5,10 +5,6 @@ description: "Politische Betätigung Mäßigung Neutralität: prüft die einschl
 
 # Politische Betätigung – Mäßigungsgebot und Neutralität
 
-## Arbeitsbereich
-
-Politische Betätigung Mäßigung Neutralität: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,15 +92,6 @@ Politische Betätigung Mäßigung Neutralität: prüft die einschlägigen Voraus
 - Verwechslung von Treuepflicht (§ 7 SG) und Mäßigungsgebot (§ 15 SG).
 - Distanzierung erst nach Beginn des Verfahrens – Glaubhaftigkeit fraglich.
 
-## Querverweise
-
-- soldatengesetz-rechtsstellung-grundpflichten
-- presseaeusserung-meinungsfreiheit-soldat
-- social-media-soldat-dienstpflichten
-- extremismus-verdachtsfall-sicherheitsrecht
-- pflicht-zum-treuen-dienen-7-sg
-- geheimschutz-sicherheitsueberpruefung-sueg
-
 ## Quellen Stand 06/2026
 
 - § 15 SG – Volltext gesetze-im-internet.de.
@@ -113,3 +100,4 @@ Politische Betätigung Mäßigung Neutralität: prüft die einschlägigen Voraus
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung zu § 15 SG und Social Media (Az. nach Verifikation).
 - Wehrbeauftragter – Jahresberichte zu Extremismusfällen (bundestag.de/wehrbeauftragter).
 - ZDv A-2630/1 (innere Führung) – nur nach Vorlage.
+

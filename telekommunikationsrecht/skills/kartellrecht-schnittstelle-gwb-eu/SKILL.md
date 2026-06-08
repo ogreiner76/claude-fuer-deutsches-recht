@@ -5,10 +5,6 @@ description: "TK-Verträge und Kooperationen mit Kartellrechtsbezug: Open Access
 
 # Kartellrechtliche Schnittstelle GWB/EU
 
-## Arbeitsbereich
-
-TK-Verträge und Kooperationen mit Kartellrechtsbezug: Open Access, Ausbaukooperation, Exklusivität, Wholesale, Joint Venture. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ TK-Verträge und Kooperationen mit Kartellrechtsbezug: Open Access, Ausbaukooper
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Kooperationen, die Infrastruktur effizient machen, aber Wettbewerber ausschließen könnten.
-
 ## Norm- und Quellenanker
 
 GWB; AEUV Art. 101/102; TKG; Fusionskontrolle bei Transaktionen.
-
-## Arbeitsfragen
-
-1. Welche Wettbewerber kooperieren?
-2. Welche Exklusivität oder Informationsflüsse entstehen?
-3. Welche Rechtfertigung/Effizienz?
-
-## Output
-
-Kartell-/TK-Schnittstellenmemo und Clean-Team-Regeln.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Kartell-/TK-Schnittstellenmemo und Clean-Team-Regeln.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

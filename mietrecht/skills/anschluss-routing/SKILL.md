@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Mietrecht (Wohnraum/Gewerbe): wählt den n�
 
 Dieses Anschluss-Routing für **Mietrecht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `amtlichen-amtsgericht-sonderfall` — Amtlichen Amtsgericht Sonderfall
@@ -35,10 +34,6 @@ Dieses Anschluss-Routing für **Mietrecht** wählt nach dem ersten Ergebnis die 
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Vermieter, Mieter, Hausverwaltung, WEG-Verwaltung, Amtsgericht der Belegenheit, Mieterverein, Eigentümergemeinschaft oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Mietrecht (Wohnraum/Gewerbe).
 
 ## Qualitätsanker
 

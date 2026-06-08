@@ -5,9 +5,6 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 
 # Erstgespraech Mandatsannahme Fachanwalt
 
-## Arbeitsbereich
-
-**Erstgespraech Mandatsannahme Fachanwalt** ordnet den Fall über die tragenden Prüfungslinien: Erstgespraech im Urheber- und Medienrechtsmandat, Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen, Filesharing-Abmahnung verteidigen und Gegenargumente. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Erstgespraech Mandatsannahme Fachanwalt im Plugin Fachanwalt Urheb
 - Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `erstgespraech-mandatsannahme`
@@ -459,10 +457,6 @@ Halluzinations-Reparatur Bundle 026:
 
 ### Filesharing-Abmahnung Verteidigung
 
-## Zweck
-
-Verteidigung Verbraucher bei Filesharing-Abmahnung.
-
 ## 1) Klassische Konstellation
 
 - Abmahnung Kanzlei (Waldorf Frommer, .rka, FAREDS) wegen Film / Serie / Software
@@ -582,3 +576,4 @@ Bevor die Verteidigungsstrategie festgelegt wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

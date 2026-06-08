@@ -5,10 +5,6 @@ description: "Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle: p
 
 # Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung
 
-## Arbeitsbereich
-
-Wehrstrafrecht Fahnenflucht Gehorsamsverweigerung Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,15 +89,6 @@ Das Wehrstrafgesetz (WStG) ergänzt das StGB um spezifische soldatische Tatbest�
 - § 50 SG-Schwelle übersehen – Verurteilung von 1 Jahr Freiheitsstrafe führt zum Verlust der Rechte als Soldat kraft Gesetzes.
 - Versorgungsfolgen (§ 38 SVG) im Strafmaß nicht thematisiert.
 
-## Querverweise
-
-- gehorsam-befehl-und-rechtswidriger-befehl
-- befehl-verweigern-gewissensnot-rechtswidrigkeit
-- entlassung-auf-eigenen-antrag
-- gerichtliches-disziplinarverfahren-soldat
-- truppendienstgericht-zuständigkeit-verfahren
-- kriegsdienstverweigerung-verfahren
-
 ## Quellen Stand 06/2026
 
 - Wehrstrafgesetz (WStG) – Volltext gesetze-im-internet.de.
@@ -110,3 +97,4 @@ Das Wehrstrafgesetz (WStG) ergänzt das StGB um spezifische soldatische Tatbest�
 - BVerwG Wehrdienstsenate – Rechtsprechung zur § 50 SG-Schwelle.
 - NATO-Truppenstatut (BGBl. II 1961 S. 1190 ff.) und Zusatzabkommen – Volltext bei BGBl-Online.
 - Keine Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+

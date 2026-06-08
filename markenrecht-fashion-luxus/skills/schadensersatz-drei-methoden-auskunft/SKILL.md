@@ -5,10 +5,6 @@ description: "Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete 
 
 # Schadensersatz, Auskunft und Rechnungslegung
 
-## Arbeitsbereich
-
-Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberech
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Bereite die wirtschaftliche Seite einer Markenverletzung vor: Auskunft, Schadensmethode, Streitwert, Vergleichsfenster und Vollstreckbarkeit.
 
 ## Normanker
 
@@ -51,13 +43,7 @@ Bereite die wirtschaftliche Seite einer Markenverletzung vor: Auskunft, Schadens
 7. **Zins/Kosten:** Abmahnkosten, Prozesszinsen, Auskunftskosten und Vergleichsmehrwert getrennt darstellen.
 8. **Beweisnot:** Wenn Plattformdaten fehlen, Antrag auf Belegvorlage/Auskunft nicht durch geschätzte Umsätze ersetzen.
 
-## Output
-
-- Auskunftsantrag.
-- Berechnungsmatrix.
-- Vergleichskorridor.
-- Mandantenmemo zu Beweisrisiken.
-
 ## Warnung
 
 Keine fiktiven Lizenzsätze als Tatsache ausgeben. Annahmen offen kennzeichnen.
+

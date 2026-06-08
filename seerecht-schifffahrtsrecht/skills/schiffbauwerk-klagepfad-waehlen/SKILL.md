@@ -5,10 +5,6 @@ description: "Schiffbauwerk: Glaeubiger oder Reeder waehlt Klagepfad bei Streit 
 
 # Schiffbauwerk – Klagepfad wählen
 
-## Arbeitsbereich
-
-Schiffbauwerk: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Schiff im Bau (Schiffbauwerk): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Eine Bank will nach Kreditausfall aus der Hypothek am Schiff im Bau (Schiffbauwe
 - Gesetzliche Schiffsglaeubigerrechte (Crew-Loehne/Hafen) fressen Erloes vor Hypotheken.
 - Zwangsversteigerung dauert; Schiffswert sinkt durch Stillstand im Hafen.
 - Auslaendische Arrests parallel zum deutschen Verfahren.
-
-## Output
-Klagepfad-Analyse und Erlösprognose (Tabelle Kosten vs. Erlös) für Schiff im Bau (Schiffbauwerk).
 
 ## Vertiefung: Gerichtsstand und Schiedsklauseln im Seerecht
 Im deutschen Seerecht gilt für Schiffsarrest die ZPO § 919 (Gericht am Liegeplatz). Für streitige Klagen über Schiffshypotheken gilt ZPO § 29c (besonderer Gerichtsstand) oder der allgemeine Gerichtsstand. International ist London Arbitration (LMAA-Schiedsordnung) der Marktstandard für Charterparty-Streitigkeiten; Hamburg Arbitration (DIS-Regeln) ist eine deutsche Alternative.
@@ -98,3 +91,4 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BGH Zwangsversteigerung Schiff: https://www.bgh.de
+

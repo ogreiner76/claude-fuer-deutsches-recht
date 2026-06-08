@@ -108,15 +108,9 @@ In der Verteidigungspraxis stets **hilfsweise** beide Wege beantragen. **Aktenze
 - **Doppelte Anwendung**: Tatumstand begruendet minder schweren Fall **und** wird zusaetzlich strafmildernd in § 46 StGB beruecksichtigt — moegliche Verstoss gegen § 46 Abs. 3 StGB.
 - **§ 49 StGB** nicht im Verhaeltnis zum minder schweren Fall geprueft.
 
-## Querverweise
-
-- `strafrahmen-und-strafzumessungsstufen` — Strafrahmen-Logik.
-- `regelbeispiele-rechtsprechung` — Detail zu Regelbeispielen.
-- `strafmilderung-49-stgb-zwingend-fakultativ` — Verhaeltnis zu § 49 StGB.
-- `paragraph-46-stgb-grundsatz-strafzumessung` — Anwendung im Schuldrahmen.
-
 ## Quellen und Stand 05/2026
 
 - §§ 213, 224, 226, 240, 243, 249, 250, 263, 267 StGB in der geltenden Fassung.
 - BGH-Linie zur Konkurrenz minder schwerer Fall / § 49 StGB — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

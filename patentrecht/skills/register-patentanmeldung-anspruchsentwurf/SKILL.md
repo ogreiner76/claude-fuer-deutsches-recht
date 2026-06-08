@@ -5,10 +5,6 @@ description: "Prüft Patentregister und Fristen: DPMAregister, EPO Register, nat
 
 # Rechtsstand, Register und Fristen
 
-## Arbeitsbereich
-
-Prüft Patentregister und Fristen: DPMAregister, EPO Register, nationale Validierungen, Einheitspatent, Jahresgebühren, Priorität, Veröffentlichung, Erteilung, Einspruch, Beschränkung, Nichtigkeit und Verlängerungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,13 +31,6 @@ Prüft Patentregister und Fristen: DPMAregister, EPO Register, nationale Validie
 | Nichtigkeit | prozessuale Lage | Zulässigkeit, Parallelverfahren |
 | Abmahnung | Zugang | Unterlassung/EV-Risiko |
 
-## Output
-
-- Registerauszug-Zusammenfassung mit Abrufdatum.
-- Fristenkalender.
-- Statusampel.
-- offene Registerlücken.
-
 ## Regel
 
 Nie allein aus einer Patentnummer schließen, dass ein Patent in Kraft ist. Immer Rechtsstand, Territory und geltende Anspruchsfassung prüfen.
@@ -63,10 +52,3 @@ Nie allein aus einer Patentnummer schließen, dass ein Patent in Kraft ist. Imme
 ## Quellen live
 - `register.dpma.de`, `register.epo.org`, `worldwide.espacenet.com`, `unifiedpatentcourt.org`, `wipo.int/portal/en/index.html` (PatentScope für PCT).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

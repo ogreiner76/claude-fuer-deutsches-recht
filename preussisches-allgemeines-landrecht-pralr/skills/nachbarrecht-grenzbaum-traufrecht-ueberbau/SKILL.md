@@ -5,10 +5,6 @@ description: "Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behan
 
 # Pralr Nachbarrecht Grenzbaum Traufrecht Ueberbau
 
-## Arbeitsbereich
-
-Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behandelt typische nachbarrechtliche Konstellationen Grenzbaeume Ueberhang Wegerecht und das Verhaeltnis zu Landesnachbarrecht und § 906 BGB. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,7 +47,3 @@ Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behandelt typische 
 2. ALR oder Landesrecht?
 3. Heutige Aequivalenz?
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

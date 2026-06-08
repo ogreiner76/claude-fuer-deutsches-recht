@@ -5,10 +5,6 @@ description: "Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weit
 
 # Datenschutz: Gesundheitsdaten, Krankenkasse und Arbeitgeber
 
-## Arbeitsbereich
-
-Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weitergabe an Arbeitgeber, MDK-Datenschutz und Auskunftsrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,3 +91,4 @@ Gesundheitsdaten genießen besonderen Schutz. Dieser Skill klärt, **welche Date
 - [Bundesdatenschutzgesetz BDSG](https://www.gesetze-im-internet.de/bdsg_2018/)
 - [dejure.org § 67 SGB X](https://dejure.org/gesetze/SGB_X/67.html)
 - [BfDI – Bundesbeauftragter Datenschutz](https://www.bfdi.bund.de)
+

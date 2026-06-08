@@ -5,10 +5,6 @@ description: "Anbieter von Hochrisiko-KI fragt: Welche Anforderungen gelten für
 
 # Datenqualität und Data Governance — Art. 10 KI-VO
 
-## Zweck
-
-Art. 10 KI-VO stellt spezifische Anforderungen an die Daten, mit denen Hochrisiko-KI-Systeme trainiert, validiert und getestet werden. "Garbage in, garbage out" ist keine Entschuldigung — mangelhafte Datenqualität begründet einen Pflichtverstoß.
-
 ## Pflichten im Überblick (Art. 10 Abs. 2 KI-VO)
 
 ### Anforderung 1 — Geeignete Datenverwaltungspraktiken
@@ -95,9 +91,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -124,3 +117,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

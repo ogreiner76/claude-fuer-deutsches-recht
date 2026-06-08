@@ -5,10 +5,6 @@ description: "Enthält eine verifizierte Rechtsprechungsbank zur Meinungsfreihei
 
 # Rechtsprechungsbank - verifiziert
 
-## Arbeitsbereich
-
-Enthält eine verifizierte Rechtsprechungsbank zur Meinungsfreiheit und Ehrschutzprüfung mit Gericht, Datum, Aktenzeichen und freier Quelle. Keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Enthält eine verifizierte Rechtsprechungsbank zur Meinungsfreiheit und Ehrschut
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Quellenregel
-
-Nutze diese Rechtsprechung als geprüfte Startbank. Zitiere sie nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und Link. Ergänze weitere Rechtsprechung nur nach Live-Verifikation über freie amtliche oder frei zugängliche Quellen.
 
 ## Leitentscheidungen
 
@@ -97,3 +89,4 @@ Nutze diese Rechtsprechung als geprüfte Startbank. Zitiere sie nur mit Gericht,
 ## Anwendung
 
 Nutze die Bank nicht als starre Ergebnisliste. Sie liefert Prüfmaßstäbe: Sinnermittlung, Meinung/Tatsache, enge Ausnahmen, Normalabwägung, Machtkritik, Kampf ums Recht, Reichweite, Prangerwirkung, europäische Verhältnismäßigkeit und rechtsvergleichende Einordnung.
+

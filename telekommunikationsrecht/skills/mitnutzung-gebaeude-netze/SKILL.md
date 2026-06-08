@@ -5,10 +5,6 @@ description: "Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und 
 
 # Mitnutzung von Gebäudenetzen und passiver Infrastruktur
 
-## Arbeitsbereich
-
-Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und passiver Infrastruktur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Mitnutzung von Gebäudenetzen, Leerrohren, Masten, Schächten und passiver Infra
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Ausbau ohne doppelten Tiefbau.
-
 ## Norm- und Quellenanker
 
 TKG Mitnutzung; WEG/BGB; Infrastrukturatlas/BNetzA; Geschäftsgeheimnisse.
-
-## Arbeitsfragen
-
-1. Welche Infrastruktur existiert?
-2. Wer darf sie nutzen und zu welchen Bedingungen?
-3. Welche Sicherheits-/Kapazitätsgrenzen?
-
-## Output
-
-Mitnutzungsantrag und Entgelt-/Kapazitätsmatrix.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Mitnutzungsantrag und Entgelt-/Kapazitätsmatrix.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

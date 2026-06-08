@@ -91,12 +91,6 @@ Praktika und Berufsausbildung haben besondere lohn- und sv-rechtliche Behandlung
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Mandantenakte mit allen Unterlagen.
 
-## Output
-
-- Lohn-Abrechnung mit korrekter SV-Klassifikation.
-- Personengruppen-Schluessel (102 für Azubi, 105 für Praktikant Pflicht, 109 für Praktikant freiwillig kurz).
-- Dokumentation Pflichtpraktikums-Nachweis.
-
 ## Strategie und Praxis-Tipps
 
 - Pflichtpraktikum streng durch Studienordnung verlangt — nicht jedes Praktikum waehrend Studium.
@@ -105,13 +99,6 @@ Praktika und Berufsausbildung haben besondere lohn- und sv-rechtliche Behandlung
 - Bei Sachbezuegen Anrechnung dokumentieren — sonst Lohnsteuer-Risiko.
 - StBVV: Praktikanten/Azubis in Lohnpauschale; komplexe Sonderfaelle Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Personengruppen-Schluessel beachten; Plausibilitaetspruefung.
-
-## Querverweise
-
-- `stb-lohn-werkstudent-pauschalen` — Werkstudent.
-- `stb-lohn-mindestlohn-aktuell-2026-anpassung` — Mindestlohn.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-sachbezuege-50-euro-freigrenze` — Sachbezuege.
 
 ## Quellen und Updates
 
@@ -125,3 +112,4 @@ Stand: 05/2026.
 - SvEV-Sachbezugswerte jaehrlich angepasst (Stand 2025: Verpflegung 313 EUR/Monat; ueber BMAS pruefen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (Mindest-Ausbildungsverguetung 2025 682 EUR eingesetzt), 1 ersetzt (Geringverdienergrenze Pruefhinweis ohne Marker) -->
+

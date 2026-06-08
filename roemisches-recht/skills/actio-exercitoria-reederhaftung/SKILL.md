@@ -5,10 +5,6 @@ description: "Actio exercitoria: Klage gegen den Reeder (exercitor navis) für V
 
 # Rom 124 Actio Exercitoria Reederhaftung
 
-## Aufgabe
-
-Skill für die actio exercitoria.
-
 ## Rechtsquelle
 
 - D. 14.1 (De exercitoria actione).
@@ -61,7 +57,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.

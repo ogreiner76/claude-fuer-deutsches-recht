@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch und E
 
 # Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch, Erbquoten
 
-## Arbeitsbereich
-
-Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch und Erbquoten. Auseinandersetzung der Erbengemeinschaft, Übertragung von Grundstücken auf einzelne Erben, Grundbuchberichtigung und Steuerfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,3 +92,4 @@ Pflichtteilsberechtigte, die nicht Erben sind, haben nur Geldansprüche (§§ 23
 - **Mandantenmail** (Ablauf, Fristrisiken, Mitwirkungspflicht)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

@@ -5,10 +5,6 @@ description: "§ 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext
 
 # § 10a Satz 1 GewStG — Gewerbeverlust bei Sanierung
 
-## Arbeitsbereich
-
-§ 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext. Reihenfolge und Mindestbesteuerung bei der Gewerbesteuer; Parallele zu § 3c Absatz 4 EStG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -145,13 +141,6 @@ IV. Folge
 - Reihenfolge: § 10a S. 1 GewStG vor § 7b GewStG nicht beachtet.
 - Verwechslung mit § 10d EStG.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
-- `stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel`
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-
 ## Quellen Stand 06/2026
 
 - § 10a S. 1, 2, 3, 6, 8 GewStG.
@@ -160,3 +149,4 @@ IV. Folge
 - § 8c, § 8d KStG (analog).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

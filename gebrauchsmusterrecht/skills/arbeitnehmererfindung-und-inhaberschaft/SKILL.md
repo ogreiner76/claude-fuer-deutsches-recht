@@ -5,10 +5,6 @@ description: "Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen:
 
 # Arbeitnehmererfindung Und Inhaberschaft
 
-## Arbeitsbereich
-
-Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inanspruchnahme, Rechtekette, Vergütung und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inan
 ## Wann dieser Skill hilft
 
 Die Erfindung stammt aus Team, Labor oder Dienstverhältnis.
-
-## Arbeitsweise
-
-Verknüpfe ArbnErfG-Fragen mit Anmelder- und Rechtekette.
 
 ## Prüfpunkte
 
@@ -53,13 +45,10 @@ Verknüpfe ArbnErfG-Fragen mit Anmelder- und Rechtekette.
 ### Aktuelle BGH-Linie
 - BGH X ZR 137/15 (verifizieren) zur Verguetung bei Gebrauchsmuster.
 
-## Output
-
-Inhaberschaftsvermerk.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

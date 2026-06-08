@@ -5,10 +5,6 @@ description: "Geografische Angaben, Kollektivmarken und Gewährleistungsmarken p
 
 # Geografische Angaben, Kollektiv- und Gewährleistungsmarken
 
-## Arbeitsbereich
-
-Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkun
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Prüfe, ob ein Zeichen als Individualmarke, Kollektivmarke, Gewährleistungsmarke oder geografischer Herkunftsschutz gedacht werden muss.
 
 ## Pflichtfragen
 
@@ -41,13 +33,7 @@ Prüfe, ob ein Zeichen als Individualmarke, Kollektivmarke, Gewährleistungsmark
 4. **EU-Schutzsysteme:** Agrar/Lebensmittel/Spirituosen/Wein getrennt prüfen.
 5. **Marketing:** Qualitätszeichen nicht als leere Werbefloskel anmelden.
 
-## Output
-
-- Regime-Entscheidung.
-- Satzungs-/Regelungscheck.
-- Risikoampel Irreführung/Freihaltebedürfnis.
-- Anmeldefahrplan.
-
 ## Quellen
 
 MarkenG, UMV und einschlägige EU-Herkunftsschutzquellen live prüfen.
+

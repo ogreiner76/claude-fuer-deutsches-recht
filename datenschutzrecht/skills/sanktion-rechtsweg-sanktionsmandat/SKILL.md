@@ -5,9 +5,6 @@ description: "DSV Sanktion Rechtsweg Sanktionsmandat im Datenschutzrecht: prüft
 
 # DSV Sanktion Rechtsweg Sanktionsmandat
 
-## Arbeitsbereich
-
-**DSV Sanktion Rechtsweg Sanktionsmandat** ordnet den Fall über die tragenden Prüfungslinien: Datenschutzrecht-Brückenskill. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "DSV Sanktion Rechtsweg Sanktionsmandat im Datenschutzrecht: prüft
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsv-sanktion-rechtsweg-router`
@@ -32,12 +30,6 @@ description: "DSV Sanktion Rechtsweg Sanktionsmandat im Datenschutzrecht: prüft
 **Fokus:** Datenschutzrecht-Brückenskill: Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren: Geldbuße, Art.-58-Maßnahme, Art.-82-Schadensersatz und Strafrechtsspur aus demselben Vorfall trennen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 ### Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren
-
-## Aufgabe
-
-Geldbuße, Art.-58-Maßnahme, Art.-82-Schadensersatz und Strafrechtsspur aus demselben Vorfall trennen.
-
-Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte mit Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtem Arbeitsprodukt; danach wird genau dieses Teilproblem bearbeitet, ohne allgemeine Datenschutzfloskeln vorzuschalten.
 
 ## Kaltstart-Fragen
 
@@ -72,10 +64,6 @@ Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte
 - § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 - Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
-
-## Output
-
-Mandats-Cockpit mit Verfahrensspur, Fristen, Sofortmaßnahmen, Risikoampel und nächsten Skills.
 
 ## Übergabe an das Spezialplugin
 
@@ -94,12 +82,6 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 ### Schlussprodukt des Sanktionsmandats planen
 
-## Aufgabe
-
-Einstellung, Verwarnung, reduzierte Geldbuße, aufgehobene Anordnung, Vergleich, Urteil oder Rechtsbeschwerde als Zielbild definieren.
-
-Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte mit Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtem Arbeitsprodukt; danach wird genau dieses Teilproblem bearbeitet, ohne allgemeine Datenschutzfloskeln vorzuschalten.
-
 ## Kaltstart-Fragen
 
 1. Welches Schreiben oder welcher Verfahrensschritt liegt vor: informelle Anfrage, Art.-58-Auskunftsverlangen, Anhörung, Bußgeldbescheid, Einspruch, gerichtliches Bußgeldverfahren, Art.-58-Anordnung, Verwaltungsgericht oder Rechtsmittel?
@@ -134,10 +116,6 @@ Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 - Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
 
-## Output
-
-Mandats-Cockpit mit Verfahrensspur, Fristen, Sofortmaßnahmen, Risikoampel und nächsten Skills.
-
 ## Übergabe an das Spezialplugin
 
 Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
@@ -154,12 +132,6 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 **Fokus:** Datenschutzrecht-Brückenskill: Scope Cut Behördenfragen einhegen: Zu weite Behördenfragen nach Zeitraum, System, Datenart, Gesellschaft und Betroffenenkreis begrenzen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 ### Scope Cut Behördenfragen einhegen
-
-## Aufgabe
-
-Zu weite Behördenfragen nach Zeitraum, System, Datenart, Gesellschaft und Betroffenenkreis begrenzen.
-
-Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte mit Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtem Arbeitsprodukt; danach wird genau dieses Teilproblem bearbeitet, ohne allgemeine Datenschutzfloskeln vorzuschalten.
 
 ## Kaltstart-Fragen
 
@@ -195,10 +167,6 @@ Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 - Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
 
-## Output
-
-Behördenstrategie mit Antwortentwurf, Vorbehalten, Anlagenplan und Schutz vor überschießender Selbstbelastung.
-
 ## Übergabe an das Spezialplugin
 
 Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
@@ -215,12 +183,6 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 **Fokus:** Datenschutzrecht-Brückenskill: Selbstbelastung und Mitwirkungspflichten: Auskunftspflichten gegenüber der Aufsicht und Aussagefreiheit im Bußgeldverfahren balancieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 ### Selbstbelastung und Mitwirkungspflichten
-
-## Aufgabe
-
-Auskunftspflichten gegenüber der Aufsicht und Aussagefreiheit im Bußgeldverfahren balancieren.
-
-Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte mit Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtem Arbeitsprodukt; danach wird genau dieses Teilproblem bearbeitet, ohne allgemeine Datenschutzfloskeln vorzuschalten.
 
 ## Kaltstart-Fragen
 
@@ -255,10 +217,6 @@ Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte
 - § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 - Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
-
-## Output
-
-Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisthemen und Terminstrategie.
 
 ## Übergabe an das Spezialplugin
 
@@ -277,12 +235,6 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 
 ### Staatsanwaltschaft im DSGVO-OWiG-Verfahren
 
-## Aufgabe
-
-Rolle der Staatsanwaltschaft nach Akteneingang und Zustimmungserfordernis der Aufsicht bei Einstellung erklären.
-
-Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte mit Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtem Arbeitsprodukt; danach wird genau dieses Teilproblem bearbeitet, ohne allgemeine Datenschutzfloskeln vorzuschalten.
-
 ## Kaltstart-Fragen
 
 1. Welches Schreiben oder welcher Verfahrensschritt liegt vor: informelle Anfrage, Art.-58-Auskunftsverlangen, Anhörung, Bußgeldbescheid, Einspruch, gerichtliches Bußgeldverfahren, Art.-58-Anordnung, Verwaltungsgericht oder Rechtsmittel?
@@ -317,10 +269,6 @@ Dieser Skill ist ein konkretes Modul für Datenschutz-Sanktionsverfahren. Starte
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 - Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
 
-## Output
-
-Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisthemen und Terminstrategie.
-
 ## Übergabe an das Spezialplugin
 
 Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
@@ -331,3 +279,4 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 - EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
 - Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+

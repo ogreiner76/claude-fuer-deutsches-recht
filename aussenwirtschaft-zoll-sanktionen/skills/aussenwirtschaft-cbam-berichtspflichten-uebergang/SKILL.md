@@ -5,10 +5,6 @@ description: "CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO 
 
 # CBAM-Uebergangspflichten: Quartalsbericht für eingebettete Emissionen
 
-## Arbeitsbereich
-
-CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956: Vierteljährliche Berichte für Zement, Aluminium, Duenger, Eisen/Stahl, Elektrizitaet und Wasserstoff. Erfassung eingebetteter Emissionen, Verwendung von CBAM-Standardwerten und Fehlerquellen. Output: CBAM-Quartalsbericht mit Emissionsdaten und Quellendokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO (EU) 2023/956:
 - CBAM gilt nicht für alle Länder gleich; EWR und bestimmte Länder ausgenommen.
 - Mischlieferungen erfordern getrennte Emissionsermittlung je Warenart.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-CBAM-Quartalsbericht mit Emissionsdaten und Quellenangaben, Korrekturprotokoll, Lieferanten-Datenanforderungstemplate.
-
 ## Quellen
 
 - [VO (EU) 2023/956 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0956)
 - [VO (EU) 2023/1773 Durchfuehrungs-VO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R1773)
 - [EU-Kommission CBAM-Portal](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
 - [Zoll.de CBAM](https://www.zoll.de/DE/Fachthemen/Steuern/Einfuhrumsatzsteuer/cbam/cbam_node.html)
+

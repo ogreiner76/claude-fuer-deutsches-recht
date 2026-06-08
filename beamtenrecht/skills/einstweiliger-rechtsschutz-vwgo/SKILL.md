@@ -21,10 +21,6 @@ Einstweiliger Rechtsschutz: § 80, § 80a, § 123 VwGO, Sicherungsanordnung und 
 
 Einstweiliger Rechtsschutz: § 80, § 80a, § 123 VwGO, Sicherungsanordnung und Regelungsanordnung.
 
-## Arbeitsweise
-
-Wähle die richtige Eilart. Prüfe Anordnungsanspruch, Anordnungsgrund, Glaubhaftmachung und Folgenabwägung.
-
 ## Pflichtfragen
 
 - Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
@@ -41,10 +37,3 @@ Wähle die richtige Eilart. Prüfe Anordnungsanspruch, Anordnungsgrund, Glaubhaf
 4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
 5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
 
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.

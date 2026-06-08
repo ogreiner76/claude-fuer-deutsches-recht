@@ -121,12 +121,6 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 2. Master File / Local File (§ 90 Abs. 3 AO).
 3. Country-by-Country-Report bei Konzern.
 
-## Output
-
-- **Betriebsstaetten-Memo** mit Subsumtion.
-- **Gewinnabgrenzungs-Schema** (Functions, Risks, Assets, Dotationskapital).
-- **Hinweis-Liste** Compliance-Pflichten beider Staaten.
-
 ## Strategie und Praxis-Tipps
 
 - Home-Office als Betriebsstaette erfordert Verfuegungsmacht des Arbeitgebers (regelmaessig nicht, da kein Mietverhaeltnis); aktuelle Konsultationsvereinbarungen (z.B. DBA-Oesterreich Home-Office-Memo) im BMF-Verzeichnis pruefen.
@@ -191,15 +185,9 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 
 (**Werte sind Beispiel — konkrete Aufteilung nach BsGaV und DBA-Aktivitaetsklausel pruefen.**)
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen` — Pruefkette.
-- `stb-dba-methodenartikel-anrechnung-vs-freistellung` — Folgewirkung.
-- `stb-dba-home-office-pandemie-folgeregelung` — Home-Office Sonderfall.
-- `stb-dba-grenzgaenger-frankreich-vor-allem-elsass` — Grenzgaengerlogik im Vergleich.
-
 ## Quellen und Updates
 
 Stand: 05/2026. Art. 5 OECD-MA 2017, MLI Art. 12, 13, 14, 15. § 12, § 13 AO. § 49 EStG. § 1 Abs. 5 AStG. BsGaV vom 13.10.2014. BMF-Schreiben 22.12.2016 (BStBl I 2017, 182) (Verwaltungsgrundsaetze BS-Gewinn). Aktuelle BFH-Rechtsprechung und MLI-Notifications im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 2 belegt (Fundstelle/Datum bestaetigt), 8 ersetzt (Az nicht belegbar, Saetze neu formuliert) -->
+

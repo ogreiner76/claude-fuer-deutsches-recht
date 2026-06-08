@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe —
 
 # Bauueberwachung Hochhaus Statik und Fassade (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle S
 - Brandschutzputz zu duenn: Schichtdicke unter 20 mm, Pruefprotokoll zeigt Unterschreitung, Nacharbeit erforderlich
 - Fluchtwegbreite unterschritten: Treppenraumbreite min. 1.0 m nach MHHR, Korrekturen im Rohbau kostspielig
 
-## Output
-
-Betongueteprotokolle je Geschoss und Bauteilgruppe. Fassaden-Abnahmeprotokoll (Druckwasserdichtheit, Windlast).
-BIM-Clash-Bericht TGA vs. Fassade. Brandschutzputz-Pruefprotokoll. Aufzugsabnahme durch Sachverstaendiger.
-Abnahmeprotokoll Hochhaus mit Sonderbau-Checkliste. Fotodokumentation Fassadenanker.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Hochhaus mit Sonderbau-Checkliste. Fotodokumentation Fassadenan
 - [DIN EN 13830 Vorhangfassaden](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 7/94 Bauueberwachung Hochbau](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+7/94)
 - [DIN EN 1991-1-4 Windlasten](https://www.gesetze-im-internet.de/)
+

@@ -39,9 +39,6 @@ Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich
 - Weitere OLG-Linien (Bayerisches Oberstes Landesgericht, OLG Hamm, OLG Düsseldorf u.a.): konkrete Aktenzeichen vor Versand in openjur.de oder offenen Landesjustiz-Datenbanken aufrufen.
 - BVerfG zum Verhältnismäßigkeitsgrundsatz bei Fahrverbot: laufende Linie; Aktenzeichen vor Versand in bundesverfassungsgericht.de verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Haertefall-Argumentation — Checkliste
 
 ```
@@ -83,3 +80,4 @@ VIER-MONATS-FRIST (§ 25 Abs. 2a StVG):
 - Vier-Monats-Frist immer als Rueckfall-Option vorbereiten.
 - Mandant realistisch informieren — Fahrverbot ist die Regel, Ausnahme ist die Ausnahme.
 - Anwaltliche Endkontrolle bei Haertefall-Argumentation.
+

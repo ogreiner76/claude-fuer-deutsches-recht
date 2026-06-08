@@ -5,10 +5,6 @@ description: "Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Abl
 
 # Leistungsbescheid lesen für Laien
 
-## Arbeitsbereich
-
-Krankenversicherungs-Bescheide verständlich erklärt: Aufbau, Ablehnungsgründe, Rechtsbehelfsbelehrung und konkrete nächste Schritte für Betroffene ohne Rechtskenntnisse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Viele Versicherte verstehen Bescheide ihrer Krankenkasse nicht. Dieser Skill erk
 - [§ 84 SGG – Widerspruchsfrist](https://www.gesetze-im-internet.de/sgg/__84.html)
 - [Unabhängige Patientenberatung Deutschland (UPD)](https://www.patientenberatung.de)
 - [dejure.org § 35 SGB X](https://dejure.org/gesetze/SGB_X/35.html)
+

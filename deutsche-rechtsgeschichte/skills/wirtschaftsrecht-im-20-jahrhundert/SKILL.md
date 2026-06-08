@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kr
 
 # Wirtschaftsrecht im 20. Jahrhundert
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kriegswirtschaftsrecht 1914-1918, Weimarer Wirtschaftsrecht, NS-Wirtschaftslenkung, Soziale Marktwirtschaft und Ordoliberalismus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,12 +63,3 @@ Das Wirtschaftsrecht des 20. Jh. ist durch extreme Schwankungen gepraegt. Das Ka
 - Erhard Wohlstand für alle (1957): Erstausgabe
 - Vierjahresplan-Verordnung 1936: ALEX/OeNB
 
-## Output
-
-- Zeitleiste Wirtschaftsrecht 1914-1957
-- Ordoliberalismus: Grundsaetze und GWB-Umsetzung
-- Vierjahresplan 1936: Wirtschaftslenkung und Ruestung
-
-## Quellenregel
-
-GWB: gesetze-im-internet.de. NS-Wirtschaftsrecht: RGBl. via ALEX/OeNB. Eucken 1952 und Erhard 1957: historische Erstausgaben mit Seite. EU-Wettbewerbsrecht: eur-lex.europa.eu.

@@ -5,10 +5,6 @@ description: "Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: ei
 
 # Franchise vs. Handelsvertretung — Abgrenzung nach EuGH und §§ 84 ff. HGB
 
-## Arbeitsbereich
-
-Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflicht, Ausgleichsanspruch und kartellrechtliche Zulässigkeit vertikaler Beschränkungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Vertikal-GVO-Freistellung bei echter Handelsvertretung nicht notwendig — Fehler in der Vertragsgestaltung.
 - Alleinvertretungsrechte durch Franchise-System unterlaufen — keine Bezirksprovision vorgesehen.
 
-## Output
-
-Qualifikationsgutachten Franchise vs. Handelsvertretung, Ausgleichsanalyse, kartellrechtliche Bewertung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [EuGH C-217/05 CEPSA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62005CJ0217)
 - [Vertikal-GVO 2022/720 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R0720)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
+

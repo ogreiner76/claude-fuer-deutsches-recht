@@ -5,10 +5,6 @@ description: "Eilverfahren Konkurrentenstreit Wehrdienstsenat: prüft die einsch
 
 # Eilverfahren – Konkurrentenstreit vor dem Wehrdienstsenat
 
-## Arbeitsbereich
-
-Eilverfahren Konkurrentenstreit Wehrdienstsenat: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,15 +88,6 @@ Beim Konkurrentenstreit geht es um die Auswahl zwischen mehreren Soldaten für e
 - Falsches Gericht (TDG statt BVerwG bei höherrangiger Maßnahme).
 - Anordnungsgrund nicht ausreichend (drohende Beförderung muss konkret terminiert sein).
 
-## Querverweise
-
-- beschwerde-gegen-beurteilung-und-laufbahnentscheidung
-- beurteilung-konkurrentenstreit-auswahlentscheidung
-- bundesverwaltungsgericht-wehrdienstsenate
-- wehrbeschwerdeordnung-beschwerde-frist-form
-- ernennung-dienstgrad-laufbahnrecht
-- personalakte-einsicht-datenschutz
-
 ## Quellen Stand 06/2026
 
 - Art. 33 II GG.
@@ -109,3 +96,4 @@ Beim Konkurrentenstreit geht es um die Auswahl zwischen mehreren Soldaten für e
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung zum Konkurrentenrechtsschutz (Az. nach Verifikation).
 - BVerfG zu effektivem Rechtsschutz vor Beförderung – ständige Rechtsprechung; Volltexte bundesverfassungsgericht.de.
 - VwGO §§ 80a, 99, 123 entsprechend.
+

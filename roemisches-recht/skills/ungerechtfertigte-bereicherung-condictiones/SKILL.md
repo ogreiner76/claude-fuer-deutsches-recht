@@ -5,10 +5,6 @@ description: "Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 
 
 # Ungerechtfertigte Bereicherung: condictiones
 
-## Arbeitsbereich
-
-Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -54,13 +50,3 @@ Das römische Bereicherungsrecht basiert auf dem System der condictiones: Rückf
 - Kaser RP I §§ 260-275; Zimmermann Law of Obligations Kap. 27
 - Vergleich BGB §§ 812-822
 
-## Output
-
-- Systemtabelle: condictiones mit Voraussetzungen
-- Schema: Bereicherungsrückforderung Schritt für Schritt
-- Memo zu condictio indebiti und Irrtumserfordernis
-- Vergleich röm. condictio vs. BGB § 812
-
-## Quellenregel
-
-D. 12; D. 44.7; Iust. Inst. 3.27 (Mommsen-Krüger). Kaser RP I. Zimmermann Law of Obligations.

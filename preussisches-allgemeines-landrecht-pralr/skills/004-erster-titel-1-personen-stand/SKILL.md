@@ -5,10 +5,6 @@ description: "PrALR: Erster Teil Titel 1 Personen und Stand im Preußisches Allg
 
 # PrALR: Erster Teil Titel 1 Personen und Stand
 
-## Aufgabe
-
-Dieser Skill bearbeitet **Erster Teil Titel 1 Personen und Stand** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
 ## Kaltstart in 6 Fragen
 
 1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
@@ -62,10 +58,3 @@ ALR I 1 normiert die natuerliche und juristische Person, Rechts- und Geschaeftsf
 2. Wenn lebende Rechtsfrage: weiter zu BGB / NamensG, ALR nur als rechtsgeschichtlicher Hintergrund.
 3. Bei Adelsstreit immer Trennung Reichsadel / Briefadel / Mediatisiertenadel und Bezug zur WRV / GG-Lage.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

@@ -5,10 +5,6 @@ description: "Wehrsold FWD Unterhaltssicherung: prüft WSG, UhSiG, Höhe, Verfah
 
 # Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung
 
-## Arbeitsbereich
-
-Wehrsold FWD Unterhaltssicherung: prüft WSG, UhSiG, Höhe, Verfahren und Schnittstellen SGB. Norm-/Quellenanker: WSG, UhSiG, § 58b SG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Schnittstellen mit Sozialrecht (SGB II/III, GRV) sind komplex; FWD-Zeiten zähle
 - § 58b SG — Freiwilliger Wehrdienst
 - SGB VI § 3 — Pflichtbeitragszeiten FWD
 - § 3 Nr. 5 EStG — Steuerfreiheit Wehrsold
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -94,21 +84,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Berechnungsschema UhSiG (Arbeitnehmer/Selbstständiger)
 - Checkliste: Unterlagen UhSiG-Antrag
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/wsg/ — WSG
-- https://www.gesetze-im-internet.de/uhsig/ — UhSiG
-- https://www.gesetze-im-internet.de/sg/ — § 58b SG
-- https://www.bundeswehr.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +93,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

@@ -93,14 +93,6 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - Bezug zu Klimaschutzgesetz fehlt
 - Klimacheck nicht dokumentiert (sofern vorgesehen)
 
-## Querverweise
-
-- `nkr-erfuellungsaufwand-grundbegriff`
-- `nkr-eu-ebene-und-better-regulation`
-- `nkr-evaluation-und-jahresbericht`
-- `nkr-gleichstellungs-und-gendercheck`
-- `legistik-werkstatt/folgenabschaetzung-nachhaltigkeit`
-
 ## Quellen Stand 06/2026
 
 - Deutsche Nachhaltigkeitsstrategie der Bundesregierung (jeweils aktuelle Fortschreibung)
@@ -111,3 +103,4 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.bundesregierung.de/nachhaltigkeit](https://www.bundesregierung.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

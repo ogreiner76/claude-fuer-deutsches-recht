@@ -5,10 +5,6 @@ description: "IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kat
 
 # NIS2/BSI Incident Reporting
 
-## Arbeitsbereich
-
-IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Fristen, Nachbericht und Beweissicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Frist
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Unternehmen mit relevanten digitalen Diensten oder kritischen Prozessen.
-
 ## Norm- und Quellenanker
 
 NIS2; BSI-Gesetz/Umsetzung live prüfen; DSGVO Art. 33/34.
-
-## Arbeitsfragen
-
-1. Ist das Unternehmen erfasst?
-2. Welcher Incident und welche Frist?
-3. Welche Behörden parallel?
-
-## Output
-
-Incident-Meldeplan und Vorstandsvorlage.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Incident-Meldeplan und Vorstandsvorlage.
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

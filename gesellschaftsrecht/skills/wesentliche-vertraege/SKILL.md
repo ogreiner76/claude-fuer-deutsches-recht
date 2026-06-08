@@ -5,10 +5,6 @@ description: "Wesentliche Vertraege im Plugin Gesellschaftsrecht im Gesellschaft
 
 # Wesentliche Vertraege
 
-## Arbeitsbereich
-
-**Wesentliche Vertraege** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Wesentliche Vertraege im Plugin Gesellschaftsrecht im Gesellschaft
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `wesentliche-vertraege-anlage`
@@ -53,10 +50,6 @@ Vor der Anhangs-Erstellung klaeren:
 4. **Anhangformat bekannt?** Gibt es andere Anhaenge im SPA-Entwurf als Formatvorlage? Nummerierte Liste oder Tabelle?
 5. **Over-Disclosure-Risiko beachten?** Der Anhang ist eine Gewaehrleistung, kein Datendump. Nur Vertraege aufnehmen, die ein SPA-Kriterium erfuellen.
 6. **Regulierte Branche?** Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, öffentliche Auftraege — behoerdliche Zustimmungspflichten zusätzlich pruefen.
-
-## Zweck
-
-Der Unternehmenskaufvertrag (SPA/Anteilskaufvertrag) enthält eine Gewährleistung: "Anhang [X] listet alle wesentlichen Verträge der Gesellschaft." Dieser Skill erstellt diesen Anhang aus den Due-Diligence-Erkenntnissen — welche Verträge sind wesentlich im Sinne der SPA-Definition, in dem Format, das der SPA vorschreibt.
 
 ## Eingaben
 
@@ -136,6 +129,7 @@ Aus bestehenden Due-Diligence-Extraktionen ziehen. Fehlende Felder flaggen — n
 Offenlegungsanhänge haben ein einheitliches Format — in der Regel eine nummerierte Liste oder Tabelle, teilweise mit Unterabschnitten nach Vertragstyp. Format der anderen Anhänge im SPA-Entwurf übernehmen.
 
 ```markdown
+
 ## Anhang [X] — Wesentliche Verträge
 
 Die folgenden Verträge sind wesentliche Verträge im Sinne des Kaufvertrags:
@@ -183,17 +177,12 @@ Vor Übergabe:
 - Anhang ist konsistent mit anderen Gewährleistungsanhängen (ein Vertrag in Anhang [X], der ein Pfandrecht begründet, muss auch im Pfandrechtsanhang erscheinen)
 - Jeder Eintrag hat eine Datenraum-Referenz, damit Käuferberater das Ursprungsdokument findet
 
-## Ausgabeformat
-
-- Anhang im SPA-konformen Format (Markdown, uebertragbar in Word/PDF)
-- Internes Zustimmungs-Overlay als Tabelle (für Abschluss-Checkliste)
-- Flaggenliste mit Grenzfaellen zur menschlichen Entscheidung
-
 ## Output-Template
 
 **Adressat:** Transaktionsteam / SPA-Verhandlung — Tonfall: praezise-strukturiert, SPA-konform
 
 ```
+
 ## Anhang [X.X] — Wesentliche Vertraege (Material Contracts)
 
 > INTERN: Dieser Anhang-Entwurf ist ein privilegiertes Arbeitsdokument.
@@ -279,3 +268,4 @@ Alle rechtlichen Beurteilungen in der Analyse sind mit Norm und ggf. Rechtsprech
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

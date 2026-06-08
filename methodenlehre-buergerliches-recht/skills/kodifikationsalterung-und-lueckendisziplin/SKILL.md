@@ -54,10 +54,6 @@ description: "Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht 
 - Die demokratische Legitimation der Lückenfüllung wird nicht diskutiert, obwohl es sich um eine wesentliche normative Entscheidung handelt.
 - Der Zeitfaktor wird ignoriert: Je länger eine Lücke bekannt ist und der Gesetzgeber nicht tätig wird, desto mehr spricht für richterliche Schließung — aber auch für klare Signalpflicht.
 
-## Output
-
-Das Skill liefert eine Alterungslücken-Analyse: Art der Lücke, historische Unvorhergesehbarkeit, Normzweckorientierung, Lückenfüllungsinstrument, demokratische Legitimation und Signalpflicht. Geeignet als methodischer Grundlagenteil für Gutachten, Urteilsanmerkungen und wissenschaftliche Beiträge zu Rechtsfortbildung.
-
 ## Vertiefung: Digitalisierung als systematische Herausforderung des BGB
 
 Die Digitalisierung stellt das BGB vor systematische Herausforderungen, die über einzelne Lückenfüllungen hinausgehen: Persönlichkeitsrecht bei Algorithmen, Eigentumsrecht an Daten, Vertragsrecht bei KI-Agenten. Diese strukturellen Alterungsfragen verlangen eine koordinierte gesetzgeberische Reaktion, nicht nur richterrechtliche Einzelfalllösungen. Das Skill sensibilisiert für diese Unterscheidung zwischen behebbaren Lücken und systematischem Reformbedarf.
@@ -83,3 +79,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 100 GG – Vorlagepflicht](https://dejure.org/gesetze/GG/100.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

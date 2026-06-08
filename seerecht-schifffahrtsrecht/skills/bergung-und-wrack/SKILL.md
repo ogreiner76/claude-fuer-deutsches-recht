@@ -5,10 +5,6 @@ description: "Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbe
 
 # Bergung und Wrack – Bergungslohn und Beseitigungspflicht
 
-## Arbeitsbereich
-
-Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); WSG §§ 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalkulation; WRC-Pflichtenanalyse und Kostenrisiko-Matrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,11 +44,6 @@ Ein Bergungsschlepper rettet einen havarierten Frachter in der Nordsee; der Reed
 - SCOPIC-Aktivierung durch P&I-Club kann Bergungslohnanspruch nach HGB verdrängen.
 - WRC gilt auch für Freizeitjachten ab 14 Meter Länge.
 - Versicherungspflicht für Wrackbeseitigungskosten (WRC Art. 12) greift ab 300 BRZ.
-
-## Output
-- Bergungslohn-Kalkulation nach HGB § 577 (Faktorenmatrix)
-- WRC-Pflichtenanalyse: Fristen; Meldewege; Versicherungsnachweis
-- Kostenrisiko-Matrix: Bergung; Wrack; Umwelt
 
 ## Erweiterte Normengrundlage
 

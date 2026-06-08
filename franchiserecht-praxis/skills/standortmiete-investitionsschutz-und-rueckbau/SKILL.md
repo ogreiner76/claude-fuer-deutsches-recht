@@ -5,10 +5,6 @@ description: "Fachmodul Franchiserecht für Standortmiete, Investitionsschutz un
 
 # Franchise: Standortmiete, Investitionsschutz und Rückbau
 
-## Arbeitsbereich
-
-Fachmodul Franchiserecht für Standortmiete, Investitionsschutz und Rückbau: Der Franchisenehmer hängt oft am Mietvertrag; deshalb werden Laufzeiten, Eintrittsrechte, Umbaukosten, Rückbau und Sicherheiten zusammen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,6 +47,3 @@ Standort-Risikoprofil mit Mietvertrags-Redflags und Franchisevertrag-Synchronisi
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

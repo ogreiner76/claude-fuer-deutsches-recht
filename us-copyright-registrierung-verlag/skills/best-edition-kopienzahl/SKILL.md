@@ -5,10 +5,6 @@ description: "Best Edition und Kopienzahl für veröffentlichte Verlagswerke: US
 
 # Best Edition und Kopienzahl
 
-## Arbeitsbereich
-
-Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffe
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Bestimme, welche Ausgabe und wie viele Exemplare als Deposit einzureichen sind. Der Skill verhindert den klassischen Fehler, aus deutscher Sicht einfach „zwei Bücher nach Washington“ zu schicken, obwohl Registrierung, Mandatory Deposit, Erstveröffentlichungsland und Werktyp unterschiedlich behandelt werden können.
-
 ## Prüfprogramm
 
 1. **Publication-Status klären:** unveröffentlicht, zuerst USA, zuerst Ausland, gleichzeitig, nur online, Print plus E-Book.
@@ -34,21 +26,9 @@ Bestimme, welche Ausgabe und wie viele Exemplare als Deposit einzureichen sind. 
 4. **Best Edition auswählen:** gebundene Ausgabe vor Paperback, hochwertiger Druck vor einfacher Ausgabe, vollständige Beilagen/Materialien mitdenken.
 5. **Sonderfälle markieren:** Online-only-Werke, demand-based Mandatory Deposit, spezielle Relief Requests und eCO-Gruppenoptionen.
 
-## Output
-
-- kurze Deposit-Entscheidung mit Begründung,
-- Packliste je Werk,
-- Hinweis, ob der Shipping Slip pro Werk sichtbar beizulegen ist,
-- Warnung, wenn Mandatory Deposit und Registrierung verwechselt werden,
-- Wiedervorlage für Rückfragen des Copyright Office.
-
 ## Qualitätsgate
 
 Keine Adresse oder ZIP-Erweiterung raten. Bei eCO-Registrierungen den Shipping Slip und die aktuelle U.S. Copyright Office-Seite als maßgeblich behandeln.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -60,3 +40,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Frist-/Remedy-Wirkung hat timing nach § 411/§ 412 und was muss als Nachweis in die Verlagsakte?
 
 **Mindest-Output:** Registrierungsakte mit Antragstyp, Werkdaten, Rechtekette, Deposit-Route, Fee/Tracking und Certificate-Archiv.
+

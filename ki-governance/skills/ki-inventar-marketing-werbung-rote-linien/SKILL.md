@@ -5,10 +5,6 @@ description: "KI-System-Inventar nach EU-KI-VO (VO 2024/1689) – erfasst je KI-
 
 # /ki-inventar
 
-## Arbeitsbereich
-
-KI-System-Inventar nach EU-KI-VO (VO 2024/1689) – erfasst je KI-System Rolle (Anbieter, Betreiber, Einführer, Händler, Bevollmächtigter, Produkthersteller) und Risikoklasse (verboten, hochrisiko, begrenzt, minimal, Allzweck-KI, systemisch). Rolle und Klasse werden je System bewertet, nicht je Unternehmen. Verwenden, wenn der Nutzer sagt "KI-Inventar", "KI-System hinzufügen", "welche Systeme haben wir", "KI-System klassifizieren", "KI-VO-Register" oder "KI-System-Verzeichnis". Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -233,12 +229,6 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 - Art. 50 KI-VO – Transparenzpflichten `[Primärquelle – EUR-Lex]`
 - Art. 99 KI-VO – Bußgeldrahmen `[Primärquelle – EUR-Lex]`
 
-## Ausgabeformat
-
-- **List:** Kompakte Inventartabelle mit Zählung nach Klasse und 30-Tage-Flag
-- **Add/Edit/Classify:** YAML-Datensatz + Durchlauf-Protokoll im Gespräch
-- **Show:** Vollständiger Datensatz mit allen Feldern
-
 ## Beispiel
 
 ```
@@ -287,9 +277,6 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 - Art. 26 KI-VO — Betreiberpflichten (menschliche Aufsicht, Protokollierung)
 - Art. 99 KI-VO — Bussgeld bis 35 Mio. EUR / 7 % weltweiter Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Ist das Inventar bereits vorhanden oder wird es neu angelegt?
 2. Welche Systeme sind bereits produktiv — und wurden diese nach KI-VO klassifiziert?
@@ -319,3 +306,4 @@ AUSSTEHENDE PFLICHTEN:
 
 Stand: [DATUM] — Naechste Vollpruefung: [DATUM]
 ```
+

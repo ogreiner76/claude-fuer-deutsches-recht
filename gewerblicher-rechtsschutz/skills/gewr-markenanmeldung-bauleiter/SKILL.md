@@ -5,10 +5,6 @@ description: "Markenanmeldung als strukturierter Bauleiter: Recherche, Klassenwa
 
 # GewR: Markenanmeldung – Strukturierter Bauleiter
 
-## Arbeitsbereich
-
-Markenanmeldung als strukturierter Bauleiter: Recherche, Klassenwahl, Anmeldeweg (DPMA/EUIPO/Madrid), Formvoraussetzungen, Fristen und Nachverfolgung. Praxisfür Anwälte und Unternehmen, die eine Marke anmelden oder betreuen wollen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -128,17 +124,10 @@ Mandatsbezug: Startup möchte Produktname schützen; etabliertes Unternehmen wil
 - **Anmeldecheckliste:** DPMA/EUIPO/WIPO – je nach Schutzgebiet.
 - **Fristenplan:** Anmeldedatum, Veröffentlichung, Widerspruchsfrist, Eintragung, Verlängerung.
 
-## Quellenregel
-
-- [DPMA Markenrecht – dpma.de](https://www.dpma.de/marken/index.html)
-- [EUIPO – euipo.europa.eu](https://www.euipo.europa.eu)
-- [VO (EU) 2017/1001 – eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32017R1001)
-- [MarkenG – gesetze-im-internet.de](https://www.gesetze-im-internet.de/markeng/)
-- Keine BeckRS-Blindzitate; DPMA- und EUIPO-Webseiten für aktuelle Gebühren nutzen.
-
 ## Anschluss-Skills
 
 - `markenrecherche` – Vertiefung der Kollisionsrecherche
 - `markenanmeldung-dpma` – DPMA-Anmeldung im Detail
 - `spezial-dpma-fristen-form-und-zuständigkeit` – Fristen und Formalien
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
+

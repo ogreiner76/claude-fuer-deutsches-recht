@@ -5,10 +5,6 @@ description: "Prüft § 16 und § 40 GmbHG, unrichtige Listen, Einziehung, Abtre
 
 # GmbH-Gesellschafterliste: Registerstreit, Legitimationswirkung und einstweiliger Rechtsschutz
 
-## Arbeitsbereich
-
-Prüft § 16 und § 40 GmbHG, unrichtige Listen, Einziehung, Abtretung, Notar-/Registerrolle, einstweilige Verfügung und praktische Vollzugssperren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -29,5 +25,3 @@ Prüft § 16 und § 40 GmbHG, unrichtige Listen, Einziehung, Abtretung, Notar-/R
 3. Gesellschaftsinterne Legitimationswirkung, materielle Berechtigung und Rechtsschutzweg trennen.
 4. Eilrechtsschutz: Verbot Einreichung, Korrekturliste, Widerspruch/Zuordnungsvermerk, Beschlussanfechtung und Hauptsache koordinieren.
 
-## Output
-Erstelle ein `Listenradar`: Anteil / alte Liste / neue Liste / materielle Grundlage / Registerstatus / Risiko / Sofortmaßnahme.

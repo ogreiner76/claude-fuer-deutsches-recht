@@ -5,10 +5,6 @@ description: "Entwickelt Kündigungsstrategie für Beschuldigte und Beteiligte �
 
 # Kündigungsstrategie nach Internal Investigations
 
-## Arbeitsbereich
-
-Entwickelt Kündigungsstrategie für Beschuldigte und Beteiligte – Tatkündigung, Verdachtskündigung, Trennungsvereinbarung, Outplacement. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -70,15 +66,6 @@ Dieser Skill entwickelt für jeden Beschuldigten die optimale Kündigungsstrateg
 - Dokumentation für mögliche Zeugenbefragung in künftigen Verfahren.
 - Zeugnis: fair und wahrheitsgemäß; keine Gefälligkeitszeugnisse trotz Aufhebungsvertrag.
 
-## Red-Team-Fragen
-
-- Ist die 2-Wochen-Frist für außerordentliche Kündigung tatsächlich gewahrt?
-- Wurde der Mitarbeiter vor der Verdachtskündigung angehört und hatte die Möglichkeit zur Stellungnahme?
-- Sind Betriebsratsanhörung und ggf. Sonderkündigungsschutz (Betriebsrat, Schwerbehinderte, DSB) korrekt beachtet?
-- Enthält der Aufhebungsvertrag eine Schadensersatzklausel, die spätere Regressansprüche offenhält?
-- Wurde sichergestellt, dass der Beschuldigte keinen Zugriff mehr auf Systeme hat?
-- Ist die Kündigung konsistent mit den Maßnahmen gegen vergleichbare Fälle im Unternehmen?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -98,3 +85,4 @@ Dieser Skill entwickelt für jeden Beschuldigten die optimale Kündigungsstrateg
 - **Post-Trennungs-Checkliste** (Systemzugang, Unterlagen, Zeugnis)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

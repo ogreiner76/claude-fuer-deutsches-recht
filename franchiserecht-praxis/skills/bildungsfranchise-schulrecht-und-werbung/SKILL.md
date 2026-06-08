@@ -5,10 +5,6 @@ description: "Bildungsfranchise rechtlich prüfen: Schulrecht und staatliche Gen
 
 # Franchiserecht: Bildungsfranchise, Schulrecht und Werbung
 
-## Arbeitsbereich
-
-Bildungsfranchise rechtlich prüfen: Schulrecht und staatliche Genehmigungspflichten, Werbebeschränkungen im Bildungsbereich, Curriculum-Schutz als Know-how, Verbraucherschutz bei Kursverträgen und Haftung für Bildungsversprechen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Ein Bildungsfranchise (Nachhilfeschule, Sprachkursanbieter, Online-Lernplattform
 - Kursvertragslaufzeit von 3 Jahren verstösst gegen § 309 Nr. 9 BGB; gesamte AGB-Klausel nichtig.
 - Elterliche Einwilligung für Verarbeitung von Daten Minderjähriger fehlt; DSGVO-Bussgeld.
 
-## Output
-
-- Genehmigungscheck für Bildungsfranchise (bundeslandspezifisch)
-- Know-how-Schutzkonzept für Curriculum
-- Werbe-Compliance-Leitfaden
-- AGB-konforme Kursvertragsmuster
-
 ## Quellen
 
 - https://gesetze-im-internet.de/geschgehg/
@@ -72,6 +61,7 @@ Ein Bildungsfranchise (Nachhilfeschule, Sprachkursanbieter, Online-Lernplattform
 - https://gesetze-im-internet.de/dsgvo/art_8.html
 - https://dejure.org/gesetze/BGB/355.html
 - https://gesetze-im-internet.de/bgb/__307.html
+
 ## Vertiefung
 
 Bildungsfranchise-Systeme operieren in einem regulierten Umfeld, das sowohl Bundesrecht als auch Landesrecht umfasst. Die Schulgesetze der Länder unterscheiden sich erheblich in ihren Anforderungen an private Bildungseinrichtungen; was in einem Bundesland genehmigungsfrei ist, kann in einem anderen eine staatliche Zulassung erfordern.
@@ -85,7 +75,10 @@ Die Werbung mit Lernerfolgen ist nach dem UWG besonders sensitiv: Versprechen wi
 - Curriculum als Schöpfung des Urheberrechts schützen; NDA für alle Trainer und Lehrenden.
 - Online-Lernplattform: Widerrufsrecht bei Online-Kursverträgen nach §§ 355 ff. BGB implementieren.
 - Datenschutz für minderjährige Lernende: Art. 8 DSGVO; elterliche Einwilligung für Kinder unter 16 Jahren.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

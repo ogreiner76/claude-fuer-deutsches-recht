@@ -5,10 +5,6 @@ description: "Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erke
 
 # Deal-Kommandocenter
 
-## Arbeitsbereich
-
-Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem 
 ## Fachkern: Deal-Kommandocenter
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Mandatsaufnahme, Deal-PMO, Unternehmerkommunikation, Staffing und Budgetsteuerung**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -116,10 +109,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Deal-Kommandocenter
 
-## Zweck
-
-Schnellstart für Corporate/M&A-Mandate. Der Skill erkennt aus einem Satz, Datenraum, Term Sheet, Markup, Screenshot oder Registerauszug die Deal-Phase und führt in den passenden internen Workflow. Das Plugin ist freistehend: Aktenanlage, Tabellenreview, Liquiditätsvorschau, CP-Kalender, Billing und Restrukturierung liegen im selben Plugin.
-
 ## Arbeitsmodus
 
 - Dealtyp und Parteiperspektive erkennen: Buy-side, Sell-side, Management, W&I-Versicherer, Public M&A oder Restrukturierung.
@@ -180,3 +169,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Alle Ergebnisse: Human-in-the-loop bei High-Risk-Findings
 - Senior Review vor Weiterleitung an Mandant oder Gegenseite
 - Dokumentation: Datum, Bearbeiter, Version, Freigabe
+

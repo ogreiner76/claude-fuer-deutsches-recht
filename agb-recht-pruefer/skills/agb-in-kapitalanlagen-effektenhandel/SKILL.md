@@ -5,10 +5,6 @@ description: "AGB im Kapitalanlage- und Effektenhandel. Skill klaert die AGB-rec
 
 # Agb In Kapitalanlagen Effektenhandel
 
-## Aufgabe
-
-Prüfe Sonderbedingungen für Wertpapiergeschäfte, Depot-/Broker-AGB, Spar-/Tagesgeldbedingungen und digitale Trading-AGB so, dass AGB-Recht, WpHG/MiFID-II-Pflichten und tatsächlicher Orderprozess zusammenpassen.
-
 ## Norm
 
 - BGB §§ 305 bis 310, insbesondere Transparenz, Änderungsklauseln, Haftungsbegrenzung, Entgeltklauseln und einseitige Leistungsbestimmung.
@@ -50,7 +46,3 @@ Prüfe Sonderbedingungen für Wertpapiergeschäfte, Depot-/Broker-AGB, Spar-/Tag
 6. Haftungsbegrenzung bei Systemausfall, Marktdatenfehler oder Handelsstopp wirksam?
 7. Produktfreigabe/Zielmarkt für komplexe Produkte dokumentiert?
 
-## Output
-
-- Klauselraster mit AGB-Risiko, WpHG-Pflicht, Prozessschritt, Kundendisclosure, Beleg und Änderungsvorschlag.
-- Schriftsatz-/Abhilfebaustein für Bank, Broker, Verbraucher oder Rechtsabteilung.

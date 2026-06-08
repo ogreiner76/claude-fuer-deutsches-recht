@@ -5,10 +5,6 @@ description: "Skill zur Pruefung der amtsangemessenen Alimentation der Beamten R
 
 # Amtsangemessene Alimentation — Pruefschema BVerfG
 
-## Arbeitsbereich
-
-Skill zur Pruefung der amtsangemessenen Alimentation der Beamten Richter und Soldaten nach Art. 33 Abs. 5 GG. Skill arbeitet das fuenfstufige Pruefungsschema des BVerfG ab mit den Indikatoren Tarifabstand Preisentwicklung Versorgungsempfaenger Vergleich zu anderen Besoldungsgruppen Familienzuschlag und Mindestabstand zur Grundsicherung. Liefert Bausteine für Widerspruch gegen Besoldung und für Vorlageantrag an das BVerfG durch das Verwaltungsgericht. Klaert die Konstellationen Bund und Land seit der Foederalismusreform und die statischen Besoldungsanpassungen einzelner Länder. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,3 +97,4 @@ R1-Richterin in einem Bundesland mit alter Besoldungstabelle, drei Kinder. Skill
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
 - Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.
+

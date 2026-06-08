@@ -5,10 +5,6 @@ description: "Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflich
 
 # Influencer-Recht: Luxusgeschenk – Verlosen oder Behalten?
 
-## Arbeitsbereich
-
-Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,3 +72,4 @@ Hochwertige Geschenke von Brands (Designer-Taschen, Uhren, Reisen) erzeugen erhe
 - Buchungsnotiz für Sacheinnahme
 - Verlosungs-Set-up (Teilnahmebedingungen + DSGVO)
 - Rücksende-Schreiben-Vorlage
+

@@ -5,10 +5,6 @@ description: "Mandant greift Bebauungsplan wegen unzureichendem Schallschutz ode
 
 # Immissionsschutz und Lärm in der Bauleitplanung
 
-## Arbeitsbereich
-
-Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltprüfung (UVPG). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionssc
 - Tragende Normen verifizieren: VwGO § 47, BauGB §§ 1, 1a, 2, 3, 4, 4a, 10, 13, 13a, 13b, 30, 34, 35, BImSchG, BNatSchG, UVPG, EU-Plan-UP-RL 2001/42 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Lärm ist der häufigste materielle Hebel im Normenkontrollverfahren bei Innenstadt-Plänen. DIN 18005 und TA Lärm liefern die Orientierungswerte, der Trennungsgrundsatz § 50 BImSchG den materiellen Maßstab.
 
 ## Schritt 1 — DIN 18005 Schallschutz im Städtebau
 
@@ -210,9 +202,6 @@ Lärm ist der häufigste materielle Hebel im Normenkontrollverfahren bei Innenst
 
 § 50 BImSchG (Trennungsgrundsatz) → § 41 BImSchG (Verkehrslärmschutz) → 16. BImSchV (Grenzwerte Schiene/Straße) → 18. BImSchV (Sportlärm) → DIN 18005-1 (Orientierungswerte) → § 9 Abs. 1 Nr. 24 BauGB (Schallschutzflächen) → § 1 Abs. 6 Nr. 1 BauGB (allgemeine Wohlfahrtspflege) → § 2 Abs. 3 BauGB (Ermittlungspflicht)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Bearbeitung
 
 Kläre bei Mandantenübernahme:
@@ -268,3 +257,4 @@ Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

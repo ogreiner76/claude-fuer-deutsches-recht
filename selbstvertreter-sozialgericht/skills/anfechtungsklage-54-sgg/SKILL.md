@@ -125,26 +125,9 @@ Sie koennen alle Teile angreifen, einen Teil, oder einen einzelnen Punkt. Klare 
 - Antrag fehlt → unverstaendlich; lieber zur Niederschrift
 - "Ich moechte mich beschweren" statt klarer Antrag → Antrag formulieren
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — Ueberblick
-- `verpflichtungsklage-54-sgg` — wenn auch Leistung gewollt
-- `klage-zur-niederschrift-90-sgg` — Einreichen
-- `klagebegruendung-laienleitfaden` — Begruendung
-- `widerspruchsbescheid-was-jetzt` — vor der Klage
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 SGG aktuell. SG hat Hinweis- und Aufklaerungspflicht (§ 106 SGG); falsche Antragsformulierung wird oft repariert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -174,3 +157,4 @@ Stand: 05/2026. § 54 SGG aktuell. SG hat Hinweis- und Aufklaerungspflicht (§ 1
 - Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.
+

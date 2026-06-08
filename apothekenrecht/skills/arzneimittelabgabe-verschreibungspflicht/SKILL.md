@@ -5,10 +5,6 @@ description: "Arzneimittelabgabe Verschreibungspflicht: prüft die einschlägige
 
 # Arzneimittelabgabe Verschreibungspflicht
 
-## Arbeitsbereich
-
-Arzneimittelabgabe Verschreibungspflicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -98,15 +94,6 @@ Eingaben:
 - E-Rezept-Token mehrfach eingelöst; Doppelabgabe wegen mangelhaftem Workflow.
 - Faxrezept BtM angenommen — Original ist zwingend.
 
-## Querverweise
-
-- `btm-rezept-betaeubungsmittel-dokumentation` (BtM-Sonderrecht)
-- `e-rezept-ti-gematik-apothekenprozess` (E-Rezept-Workflow)
-- `substitution-rabattvertrag-aut-idem` (Austausch)
-- `retaxationsabwehr-nullretax-risiko` (Formfehler-Folgen)
-- `lieferengpaesse-austausch-dokumentation` (Austausch bei Nichtverfügbarkeit)
-- `notfallkontrazeption-beratung` (Sonderfall OTC mit Beratungspflicht)
-
 ## Quellen Stand 06/2026
 
 - AMG, AMVV — aktueller Stand zur Anwendung im Bundesgesetzblatt prüfen.
@@ -114,3 +101,4 @@ Eingaben:
 - SGB V § 360 zur E-Rezept-Pflicht.
 - BGH, staend. Rspr. zur Apothekenabgabe.
 - Gematik-Vorgaben zum E-Rezept (vom Anwender zu verifizieren — Versionsstand).
+

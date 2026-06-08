@@ -25,10 +25,6 @@ Insolvenzanfechtungsansprüche nach §§ 129-147 InsO aus Verwaltersicht prüfen
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Dieser Skill prüft und verfolgt Insolvenzanfechtungsansprüche aus Sicht des Insolvenzverwalters. Er kann Schuldnerakten KI-gestützt vorsortieren, ersetzt aber keine fachliche Endprüfung bei wertenden Fragen.
-
 ## Startet bei
 
 - Zahlungen, Sicherheiten oder Verrechnungen vor Insolvenzantrag auffällig sind.
@@ -130,14 +126,6 @@ Rechne nicht nur den Nominalbetrag. Prüfe:
 ---
 
 Hinweis: Keine Rechtsberatung. Die KI kann Anfechtungsrisiken aus Akten sichtbar machen; die rechtliche Endentscheidung bleibt Fachprüfung.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

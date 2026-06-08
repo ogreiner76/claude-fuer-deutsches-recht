@@ -108,13 +108,6 @@ Fragen zum Einstieg:
 - Mehrere Konten ohne Trennung – Vermengung von Kunden- und Factor-Geldern.
 - Lastschriftmandate übersehen, Debitoren bezahlen via SEPA-Mandat an Kunden-Konto.
 
-## Querverweise
-
-- `drittschuldneranzeige-und-stille-zession`
-- `debitorenkommunikation-und-abtretungsanzeige`
-- `insolvenz-des-factoringkunden-aussonderung-absonderung`
-- `factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe`
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 185, 362, 666, 667 zu Verfügung und Geschäftsbesorgung.
@@ -122,3 +115,4 @@ Fragen zum Einstieg:
 - BGH zur Anerkennung der offenen Treuhand als aussonderungsfähig (st. Rspr.).
 - KWG § 21 zum Schutz von Kundengeldern.
 - ZAG zur Behandlung von Zahlungskonten.
+

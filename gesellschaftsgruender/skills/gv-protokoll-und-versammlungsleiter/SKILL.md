@@ -5,10 +5,6 @@ description: "Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsle
 
 # Protokoll der Gesellschafterversammlung
 
-## Arbeitsbereich
-
-Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsleitung durchführen. Normen: §§ 48 ff. GmbHG. Prüfraster: Protokollierungspflicht, Abstimmungsergebnis, Unterschriften, Formfehler. Output: GV-Protokoll-Vorlage. Abgrenzung: nicht GV-Einladung und Tagesordnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -49,9 +45,6 @@ Klaere vor Erstellung und Pruefung des Protokolls:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Protokoll-Rechtmaessigkeit
 
 | Schritt | Pruefpunkt | Norm | Ergebnis |
@@ -138,3 +131,4 @@ Schriftfuehrer: ___________ [NAME]
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit ueber Beschluesse
 - `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung-Protokoll
 - `gesellschaftsgruender-share-classes-a-b-c` — Klassen-Stimmrechts-Berechnung
+

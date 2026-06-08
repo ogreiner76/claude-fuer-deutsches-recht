@@ -5,10 +5,6 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Be
 
 # Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband
 
-## Arbeitsbereich
-
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Beschwerde Verbraucher Unternehmen Verband. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,13 +87,6 @@ Dieser Skill steuert die Beschwerdearbeit bei der Bundesnetzagentur in den Rolle
 - Schlichtungsstelle TK (Veröffentlichungen) und Schlichtungsstelle Energie (Berichte).
 - Zitierweise gemäß `references/zitierweise.md`.
 
-## Ausgabeformat
-
-- Beschwerdeschrift (2–6 Seiten).
-- Anlagenverzeichnis nach Beweisstruktur (Verträge, Korrespondenz, Bestätigungs-Mails, Bescheide).
-- Risikoampel und Erfolgsaussichts-Memo (intern für den Mandanten).
-- Bei Verbänden: Übersicht weiterer parallel laufender Verfahren zur Stärkung der Verbandsthese.
-
 ## Beispiele
 
 - **Rufnummernmissbrauch.** Verbraucher reklamiert Ping-Anrufe. Schlichtungsstelle TK, parallel Anzeige bei der BNetzA wegen § 67 TKG.
@@ -159,3 +148,4 @@ Vor Versand prüfen:
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

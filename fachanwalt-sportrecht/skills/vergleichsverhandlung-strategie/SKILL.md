@@ -5,10 +5,6 @@ description: "Vergleichsverhandlung Strategie im Sportrecht im Fachanwalt Sportr
 
 # Vergleichsverhandlung Strategie
 
-## Arbeitsbereich
-
-**Vergleichsverhandlung Strategie** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Vergleichsverhandlung Strategie im Sportrecht im Fachanwalt Sportr
 - Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `vergleichsverhandlung-strategie`
@@ -192,3 +189,4 @@ Klassische Stolperfalle in Sport- und Sponsoringrecht:
 - §§ 1025 ff. ZPO — Schiedsverfahren; Schiedsspruch mit vereinbartem Wortlaut (§ 1053 ZPO)
 - Art. R65 CAS-Code — Vergleich im CAS-Berufungsverfahren
 - §§ 796a-796c ZPO — Anwaltsvergleich als Vollstreckungstitel
+

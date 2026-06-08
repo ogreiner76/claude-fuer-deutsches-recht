@@ -5,10 +5,6 @@ description: "Prueft wann ein Guidance-Update (Prognoseaenderung) zur Insiderinf
 
 # Guidance Update / Prognoseänderung – Insiderrecht
 
-## Arbeitsbereich
-
-Prueft wann ein Guidance-Update (Prognoseaenderung) zur Insiderinformation wird, koordiniert Ad-hoc und schreibt den Prognose-Passus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,20 +71,3 @@ wird, und steuert die Ad-hoc-Veröffentlichung oder deren Koordination mit dem Q
 - PDMR-Eigengeschäfte in der Phase bis zur Ad-hoc: Prüfung auf Art. 14 MAR-Verletzung
 - Nach Ad-hoc: Insiderliste schließen (Austrittsdaten)
 
-## Red-Team-Fragen
-
-- Wurde der frühestmögliche Zeitpunkt identifiziert, ab dem die Prognoseabweichung
- präzise war?
-- Wurde die Wartezeit bis zum Quartalsbericht sachlich begründet oder war sie Verzögerung?
-- Wurden PDMR-Eigengeschäfte im Zeitraum der Insiderinformation geprüft?
-- Enthält die Ad-hoc eine konkrete neue Prognose (nicht nur „wesentliche Abweichung")?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Prognose-Gap-Analyse (Tabelle: Guidance × Konsensus × Interne Erwartung × Gap)
-2. Zeitplan (Entstehungszeitpunkt der Insiderinformation × nächster Quartalsbericht × Ad-hoc)
-3. Ad-hoc-Entwurf Prognoseänderung
-4. PDMR-Eigengeschäfts-Prüfprotokoll
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

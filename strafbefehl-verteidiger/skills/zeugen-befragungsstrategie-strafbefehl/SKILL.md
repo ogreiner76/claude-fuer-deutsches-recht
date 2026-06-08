@@ -41,9 +41,6 @@ Hauptverhandlung nach Strafbefehl-Einspruch — Zeugen erschuettern oder Entlast
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorbereitung Zeugenbefragung — Checkliste
 
 ```
@@ -119,3 +116,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Vorhalt nur mit konkreter Fundstelle in der Akte — nie pauschal.
 - Zeugnisverweigerungsrecht-Verletzung sofort in der HV ruegen.
 - Anwaltliche Endkontrolle bei Frageliste vor HV.
+

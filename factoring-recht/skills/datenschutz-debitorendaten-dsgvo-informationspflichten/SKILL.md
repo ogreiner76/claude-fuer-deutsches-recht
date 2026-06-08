@@ -107,13 +107,6 @@ Fragen zum Einstieg:
 - Auslandstransfer ohne SCC oder Angemessenheitsbeschluss.
 - Übersehen des § 203 StGB bei Factoring ärztlicher/anwaltlicher Honorarforderungen.
 
-## Querverweise
-
-- `debitorenkommunikation-und-abtretungsanzeige`
-- `factoring-für-rechtsanwaelte-steuerberater-berufsrecht`
-- `factoring-in-gesundheitswesen-goae-ebm-krankenhaus`
-- `geldwaesche-verdachtsmeldung-monitoring`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 4, 6, 9, 13, 14, 15, 17, 28, 35, 44 ff.
@@ -121,3 +114,4 @@ Fragen zum Einstieg:
 - StGB § 203 zum Geheimnisschutz Berufsgeheimnisträger.
 - EuGH zu Standard Contractual Clauses und Schrems-II-Folgen (jeweils aktueller Stand).
 - BfDI- und Landesdatenschutzbehörden, Veröffentlichungen zur Verarbeitung im Factoring.
+

@@ -118,14 +118,6 @@ Die LOB-Klausel im DBA-USA ist in **Art. 28 DBA-USA** geregelt (Fassung gemaess 
 4. **IRS Form 6166** Ansaessigkeitsbescheinigung — vom deutschen Steuerpflichtigen ueber das BZSt zu beantragen ist die US-Ansaessigkeitsbescheinigung von der IRS; Beantragung bei der IRS ueber **Form 8802** (gebuehrenpflichtig).
 5. Bei deutscher Ansaessigkeitsbescheinigung für US-Behörden: BZSt-Formular zur Ansaessigkeitsbescheinigung Bundesrepublik Deutschland nutzen.
 
-## Output
-
-- **Mandanten-Memo USA** mit LOB-Subsumtion.
-- **LOB-Test-Tabelle** durchgespielt.
-- **Pension Protection-Memo** bei IRA/401(k).
-- Branch-Profits-Tax-Berechnung.
-- BZSt- und IRS-Antragspaket.
-
 ## Strategie und Praxis-Tipps
 
 - LOB-Klausel ist DAS Nadeloehr des DBA-USA — frueh pruefen; bei Misserfolg LOB Discretionary Benefits beantragen.
@@ -175,12 +167,9 @@ DE-Mutter haelt 100 Prozent an US-Tochter-Corp (qualifizierter Person nach LOB A
 
 Bei Wegzug DE-Anteilseigner natuerliche Person in die USA: § 6 AStG-Wegzugsbesteuerung auf Anteile (USA Drittland, harte Steuer); plus US-Exit-Tax bei spaeterem Citizenship-Aufgabe.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-kanada-2001`, `stb-dba-kuenstler-sportler-art-17-ma`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-USA 29.08.1989, BGBl. 1991 II S. 354, in Kraft 21.08.1991. Protokoll 2006 vom 01.06.2006, BGBl. 2006 II S. 1184, in Kraft 28.12.2007 (BGBl. 2008 II S. 611). Dividenden 5/15%, Zinsen 0%, Lizenzen 0%. LOB: Art. 28. BMF US-LLC: BStBl. I 2004, 411. BVerfG Treaty Override: 2 BvL 1/12.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 13 Marker aufgeloest: BGBl. 1991 II S. 354 bestaetigt; Protokoll 2006 BGBl. 2006 II S. 1184 bestaetigt (NWB I R 34/08); Inkrafttreten Protokoll 2006 BGBl. 2008 II S. 611 bestaetigt; Art. 10 5/15% bestaetigt (IRS-PDF); Art. 11 0% bestaetigt; Art. 12 0% bestaetigt; LOB Art. 28 bestaetigt (IRS-PDF); BVerfG 2 BvL 1/12 bestaetigt; BMF US-LLC 19.03.2004 bestaetigt; BFH I R 79/15 gestrichen (betrifft DBA-Luxemburg); BFH I R 73/16 gestrichen (betrifft DBA-Belgien/AStG); Pension Protection allgemein gefasst; Branch Profits Tax allgemein gefasst -->
+

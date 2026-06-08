@@ -5,10 +5,6 @@ description: "Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, G
 
 # Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach § 88 HGB
 
-## Arbeitsbereich
-
-Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, Geschäftsunterlagen und digitalen Zugängen bei Vertragsende nach § 88 HGB und § 667 BGB analog: Umfang der Herausgabepflicht, Vollstreckung bei Verweigerung sowie datenschutzrechtliche Löschpflichten nach DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Löschpflicht für Kundendaten auf privatem Gerät des Handelsvertreters nicht umgesetzt.
 - Zurückbehaltungsrecht des Handelsvertreters wegen offener Provisionen nicht berücksichtigt.
 
-## Output
-
-Übergabeprotokoll, Herausgabeverlangen-Schreiben, Vollstreckungsantrag nach § 883 ZPO.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 883 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__883.html)
 - [Art. 17 DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
+

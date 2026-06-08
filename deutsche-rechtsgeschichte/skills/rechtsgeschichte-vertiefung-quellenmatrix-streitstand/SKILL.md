@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix für ein konkr
 
 # Vertiefung: Quellenmatrix
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix für ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -69,12 +65,3 @@ Die Quellenmatrix ist ein strukturiertes Rechercheinstrument für die rechtshist
 - Archivquellen: invenio.bundesarchiv.de, archivportal-d.de
 - Sekundaerliteratur: mit Autor, Werk, Auflage, Seite; keine Blindzitate
 
-## Output
-
-- Vorlage für Quellenmatrix (Tabellenformat)
-- Beispiel-Matrix für das Thema BGB-Entstehung: alle 5 Quellenkategorien
-- Checkliste: Vollstaendigkeitspruefu der Quellenmatrix
-
-## Quellenregel
-
-Alle Quellen mit Fundstelle, frei prüfbar. Primaerquellen: ALEX/ÖNB, gesetze-im-internet.de. Archiv: invenio.bundesarchiv.de. MGH: mgh.de. Kein Blindzitat.

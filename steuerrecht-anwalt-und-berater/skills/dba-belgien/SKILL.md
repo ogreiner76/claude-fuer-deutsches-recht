@@ -93,12 +93,6 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 1. BZSt-Antrag bei Beteiligungseinkuenften.
 2. Anlage AUS / N-AUS / R-AUS.
 
-## Output
-
-- Mandanten-Memo zur DBA-Anwendung.
-- Berechnungsbeispiel.
-- Hinweise zu EU-Beamten und Sonderregelung Grenzbezirke.
-
 ## Strategie und Praxis-Tipps
 
 - DBA-Belgien war fruehe Generation; Begriffe entsprechen nicht in allen Punkten dem OECD-MA 2017 — Protokolle vollstaendig durchgehen.
@@ -166,12 +160,9 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 >
 > Schritt 4: keine belgische Steuerpflicht auf deutsche Mieteinnahmen.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-luxemburg-2012`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Belgien 11.04.1967 (BGBl. 1969 II S. 17/18), Zusatzabk. 05.11.2002 (BGBl. 2003 II S. 1616), Aend.-Prot. 21.01.2010 (BGBl. 2010 II S. 1279). MLI-Notifications beim OECD-Portal pruefen. Aktuelle Quellensteuer-Saetze und Pensionsregelung im konsolidierten DBA-Text pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 3 belegt (BGBl. 1969 II S. 17/18 bestaetigt; BGBl. 2003 II S. 1616 bestaetigt; Aend.-Prot. 21.01.2010 BGBl. 2010 II S. 1279 bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

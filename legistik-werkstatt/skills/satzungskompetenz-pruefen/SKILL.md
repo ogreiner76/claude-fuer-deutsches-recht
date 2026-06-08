@@ -68,9 +68,6 @@ Die Satzung muss im richtigen Publikationsorgan bekanntgemacht werden. Fehlerhaf
 
 Art. 28 Abs. 2 GG (Selbstverwaltungsgarantie) — §§ 1-5 GO (jeweilige Gemeindeordnung, Satzungs-Ermaechtigungen) — Art. 80 GG (analog Verordnungs-Ermaechtigungs-Grundsaetze für Satzungen) — § 47 VwGO (Normenkontrolle gegen Satzungen)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 | Frage | Antwort |
@@ -86,3 +83,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Anschluss
 
 `normenkartierung` und entweder `referentenentwurf-bauen` (wenn Satzung Volltext kommt) oder direkt Ausgabe-Format Satzung.
+

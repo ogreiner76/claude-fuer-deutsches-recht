@@ -5,10 +5,6 @@ description: "Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren 
 
 # Konsultationsbeiträge
 
-## Arbeitsbereich
-
-Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prüfraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege Verhältnismäßigkeit. Output: strukturierte Stellungnahme mit Einzelanmerkungen Aenderungsvorschlaegen. Abgrenzung: nicht für interne Compliance-Analysen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG 
 - Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill unterstützt bei der Bearbeitung offener Konsultationszeiträume von Aufsichtsbehörden. Er hilft, Konsultationsentwürfe zu analysieren, die eigene Betroffenheit zu beurteilen, eine Entscheidung zur Teilnahme zu treffen und einen begründeten Stellungnahmebeitrag zu verfassen. Einsatzfelder: BaFin-Konsultationen (Rundschreiben, Merkblätter), BNetzA-Konsultationen (EnWG, TKG), EBA- und ESMA-Konsultationen (CRR, MiFID II, DORA), EU-Kommissions-Konsultationen.
 
 ## Eingaben
 
@@ -129,9 +121,6 @@ einreichungsbestaetigung: "[Aktenzeichen / Eingangsbestätigung]"
 
 §§ 47-51 GGO (Verbands-Anhörung, Stellungnahme-Verfahren) — Art. 41 GRCh (Recht auf gute Verwaltung, Anhörungsrecht) — §§ 28, 29 VwVfG (Anhörungsrecht im Verwaltungsverfahren) — §§ 2, 3 UmwRG (Verbandsklage, Stellungnahme)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen und Zitierweise
 
 Zitierweise: `../../../references/zitierweise.md`
@@ -147,13 +136,6 @@ Einschlägige Normen und Verlautbarungen:
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Lerch, ZAG, 2. Aufl. 2020 (Zahlungsdiensteaufsicht).
-
-## Ausgabeformat
-
-- **Tracking-Tabelle:** Offene Konsultationen mit Frist, Status, Eigentümer
-- **Relevanzmatrix:** Tabelle der betroffenen Abschnitte
-- **Stellungnahmenentwurf:** Behördenkonformes Format (Brief oder Antwortbogen)
-- Reviewer-Header und Prüfernotiz wie in CLAUDE.md definiert
 
 ## Beispiel
 
@@ -197,3 +179,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 <!-- AUDIT 27.05.2026
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

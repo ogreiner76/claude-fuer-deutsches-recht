@@ -5,10 +5,6 @@ description: "Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Voll
 
 # Notar-Vorbereitung
 
-## Arbeitsbereich
-
-Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,9 +43,6 @@ Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Auswe
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kosten-Überblick (GNotKG 2026)
 
 | Gründungsart | Stammkapital | Notar ca. | HR ca. | Gesamt ca. |
@@ -142,3 +135,4 @@ T+14: Gewerbeanmeldung + Finanzamt-Fragebogen
 - `gesellschaftsgruender-online-gruendung-dirug` — DiRUG-Online-Alternative
 - `gesellschaftsgruender-stammkapital-einzahlung` — Einzahlung und Bankbestätigung
 - `gesellschaftsgruender-handelsregister-anmeldung` — HR-Anmeldung nach Beurkundung
+

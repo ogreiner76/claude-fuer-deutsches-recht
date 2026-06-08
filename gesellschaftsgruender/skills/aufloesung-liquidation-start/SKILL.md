@@ -5,10 +5,6 @@ description: "Prüft geordnete Beendigung einer jungen Gesellschaft: Beschluss, 
 
 # Auflösung und Liquidation Start
 
-## Arbeitsbereich
-
-Prüft geordnete Beendigung einer jungen Gesellschaft: Beschluss, Liquidatoren, Sperrjahr, Register, Gläubiger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -32,10 +28,6 @@ Prüft geordnete Beendigung einer jungen Gesellschaft: Beschluss, Liquidatoren, 
 3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
 4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
 
-## Arbeitsweise
-
-Nicht nur Gründung, auch sauberer Exit.
-
 ## Rechts- und Quellenanker
 
 Je nach Rechtsform live prüfen: GmbHG, HGB, BGB-Gesellschaftsrecht nach MoPeG, PartGG, GenG, AktG, GwG, GewO, AO/UStG/EStG sowie Register- und Notarvorgaben.
@@ -46,14 +38,6 @@ Je nach Rechtsform live prüfen: GmbHG, HGB, BGB-Gesellschaftsrecht nach MoPeG, 
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Gründerfreundliche Kurzantwort
-- To-do-Liste mit Zuständigen
-- Dokumenten- und Lückenliste
-- Risikoampel
-- passende Anschluss-Skills
 
 ## Vertiefter Gründer-Workflow
 

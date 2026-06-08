@@ -5,10 +5,6 @@ description: "Buchpreisbindungsgesetz: Mängelexemplare, Remittenden und Preisbi
 
 # Verl-011 · Mängelexemplare, Remittenden und Preisbindung
 
-## Arbeitsbereich
-
-Buchpreisbindungsgesetz: Mängelexemplare, Remittenden und Preisbindung — BuchPrG § 6, Kennzeichnungspflicht, Handhabung bei Verlag, Auslieferung und Buchhandel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -128,3 +124,4 @@ Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** v
 - **Compliance-Check Internethandel**: Marktplatz-Angebote auf korrekte Kennzeichnung
 - **Konditionenklausel für Remittenden-Händler**
 - **Abmahnungs-Risikobewertung** bei laufenden Aktionen
+

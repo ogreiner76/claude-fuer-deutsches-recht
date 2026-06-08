@@ -87,12 +87,6 @@ Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1333, in Kraft 30.12.2010) mit Aende
 1. BZSt-Antrag bei Beteiligungen.
 2. HMRC-Erstattung bei UK-Quellen.
 
-## Output
-
-- Mandanten-Memo UK mit Brexit-Folgen-Hinweis.
-- Berechnungsbeispiel Anrechnung.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Brexit: Schachtel-Dividenden UK an deutsche Mutter: jetzt Quellensteuer (vor Brexit MTRL 0 Prozent). § 50d Abs. 3 EStG-Substanztest.
@@ -164,12 +158,9 @@ Das DBA-UK vom 30.03.2010 (BGBl. 2010 II S. 1333, in Kraft 30.12.2010) mit Aende
 >
 > Schritt 5: Bei strittiger Klassifikation Verstaendigungsverfahren Art. 25 DBA.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-irland`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-UK 30.03.2010, in Kraft 30.12.2010 (BGBl. 2010 II S. 1333). Aenderungsprotokolle: 17.03.2014 (BGBl. 2015 II S. 1297), 12.01.2021 (BGBl. 2021 II S. 666). Brexit 31.01.2020 / 31.12.2020. Non-Dom-Reform: ab 06.04.2025 neues FIG-Regime.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 13 Marker aufgeloest: 6 geprueft (Fundstelle/Datum bestaetigt), 7 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

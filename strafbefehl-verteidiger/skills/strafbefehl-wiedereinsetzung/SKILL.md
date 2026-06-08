@@ -5,10 +5,6 @@ description: "Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeum
 
 # Wiedereinsetzung nach versaeumter Einspruchsfrist — § 44 StPO
 
-## Arbeitsbereich
-
-Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeumter Einspruchsfrist. Voraussetzungen: kein Verschulden. Antragsfrist 1 Woche. Glaubhaftmachung § 45 StPO. Zustellungsfiktion entgegnen. Eidesstattliche Versicherung. Wiedereinsetzung und gleichzeitiger Einspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,9 +34,6 @@ Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeumter Einspruchs
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Wiedereinsetzung
 
 ```
@@ -103,3 +96,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Eidesstattliche Versicherung des Mandanten zwingend (§ 45 Abs. 2 StPO: Glaubhaftmachung).
 - 1-Wochen-Frist des § 45 StPO ab Kenntnisnahme einhalten.
 - Verschulden des Verteidigers wird dem Mandanten zugerechnet — intern aufklaeren, aber Mandanten nicht schlechterstelllen.
+

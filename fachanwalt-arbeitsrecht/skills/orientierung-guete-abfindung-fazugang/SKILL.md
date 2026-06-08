@@ -5,9 +5,6 @@ description: "Orientierung Guete Abfindung Fazugang im Plugin Fachanwalt Arbeits
 
 # Orientierung Guete Abfindung Fazugang
 
-## Arbeitsbereich
-
-**Orientierung Guete Abfindung Fazugang** ordnet den Fall über die tragenden Prüfungslinien: Orientierung im Individualarbeitsrecht und kollektiven, Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54, Zugang der Kündigung durch Boten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Orientierung Guete Abfindung Fazugang im Plugin Fachanwalt Arbeits
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-orientierung`
@@ -85,9 +83,6 @@ description: "Orientierung Guete Abfindung Fazugang im Plugin Fachanwalt Arbeits
 - BVerfG bei Grundrechtsfragen.
 - EuGH bei unionsrechtlichen Fragen (Befristung, Arbeitszeit, Gleichbehandlung).
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Arbeitsgemeinschaft Arbeitsrecht im DAV.
@@ -124,10 +119,6 @@ Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in off
 - §§ 1, 3 BUrlG — Urlaubsanspruch; § 7 Abs. 3 BUrlG — Verfall
 - § 14 TzBfG — Befristung; § 17 TzBfG — Kontrollklage drei Wochen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 2. `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg`
 
 **Fokus:** Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren § 9 KSchG Auflösungsantrag § 10 KSchG Abfindungsobergrenzen § 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie.
@@ -141,10 +132,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 % aller arbeitsrechtlichen Verfahren enden im Vergleich). Schwerpunkt Abfindungs-Strategie, BA-Sperrzeit-konforme Formulierung, Mediations-Sonderfälle.
 
 ## Eingaben
 
@@ -262,12 +249,6 @@ Verfahren ohne Einschränkung fortgeführt.
 - **Bei AGG-Klagen**: Schadensersatz-Schmerzensgeld als separate Position
 - **Sozialplan-Abfindung** kollektiv-rechtlich oft günstiger; nicht mit Individualvergleich kombinieren ohne Klärung
 
-## Querverweise
-
-- `fachanwalt-arbeitsrecht-orientierung` — Triage
-- `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` — Vertiefung
-- `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` — Sonderfall
-
 ## Quellen und Updates
 
 Stand: 05/2026. § 54 ArbGG, KSchG, SGB III. BAG-Linien zur Faustformel. Bei BAG-Linien-Bildung zur HinSchG-Repressalie-Beweislastumkehr separat.
@@ -291,10 +272,6 @@ Vergleichs- und abfindungsrelevante Leitentscheidungen:
 - § 779 BGB — Vergleich
 - § 794 Abs. 1 Nr. 1 ZPO — vollstreckbarer Prozessvergleich
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 3. `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozes`
 
 **Fokus:** Zugang der Kündigung durch Boten: Beweisvermerk-Erstellung, Zeugenbenennung, Prozessstrategie bei bestritenem Zugang. Beweislast des Arbeitgebers, Anforderungen BAG-Linie, Notarpraxis, Gerichtsvollzieher-Alternative.
@@ -308,9 +285,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vollständige Begleitung bei Zugangsfragen zur Kündigung durch Boten — von der Dokumentation bei Ausspruch bis zur Prozessstrategie bei bestrienem Zugang im Kündigungsschutzprozess. Beweislastverteilung, taktische Optionen und Fallstricke.
 
 ## Einstieg
 Wenn ein Sachverhaltsbericht oder Schriftstücke vorliegen, diese zuerst auswerten. Minimalfragen:
@@ -411,11 +385,7 @@ Alternativ zur Botenzustellung kann der Gerichtsvollzieher beauftragt werden (§
 - `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugang` für Fristberechnung
 - `ar-kuendigungspruefung-workflow` für vollständige Kündigungsprüfung
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Keine modellwissensbasierten BAG-Aktenzeichen ohne Verifikation.
-- Annahmen explizit kennzeichnen; keine erfundenen Beweisvermerks-Standards.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Erstellung von Beweisvermerken als anwaltliche Urkunde — das bleibt dem beauftragten Anwalt.
 - Keine individuelle Prognose über Beweisergebnis ohne Kenntnis der konkreten Umstände.
+

@@ -5,10 +5,6 @@ description: "Soldatenversorgungsgesetz Beschädigtenversorgung: prüft die eins
 
 # Soldatenversorgungsgesetz – Beschädigtenversorgung
 
-## Arbeitsbereich
-
-Soldatenversorgungsgesetz Beschädigtenversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,15 +88,6 @@ Das SVG regelt Versorgung wegen Wehrdienstbeschädigung (WDB), Hinterbliebenenve
 - § 81a SVG übersehen – Einsatzunfall-Pauschale entgeht.
 - Widerspruchsfrist mit Klagefrist verwechselt.
 
-## Querverweise
-
-- einsatzunfall-wehrdienstbeschaedigung
-- einsatz-unfall-versorgung-dokumentenplan
-- ptbs-einsatzfolge-beweisfuehrung
-- aerztliche-begutachtung-dienstfaehigkeit
-- sanitaetsdienst-heilfürsorge
-- dienstunfaehigkeit-entlassung-zurruhesetzung
-
 ## Quellen Stand 06/2026
 
 - SVG, BVG, SGB IX – Volltexte gesetze-im-internet.de.
@@ -108,3 +95,4 @@ Das SVG regelt Versorgung wegen Wehrdienstbeschädigung (WDB), Hinterbliebenenve
 - BSG zu § 81 SVG – ständige Rechtsprechung zur Kausalitätsfrage.
 - BAPersBw – Verwaltungspraxis und Antragsformulare.
 - Einsatzversorgungs-Verbesserungsgesetz – BGBl. Eintrag und Folgenovellen verifizieren.
+

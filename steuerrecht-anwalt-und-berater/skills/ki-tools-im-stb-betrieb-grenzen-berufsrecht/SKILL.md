@@ -5,10 +5,6 @@ description: "KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anw
 
 # KI-Tools im StB-Betrieb — Berufsrechtliche Grenzen
 
-## Arbeitsbereich
-
-KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anwendungsfall ChatGPT Claude Microsoft Copilot Datev-KI Nutzung Mandantenkommunikation Berufsverschwiegenheit. Methodik Prüfung Compliance KI-VO Prüfraster. Output KI-Richtlinie Kanzlei. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -109,12 +105,6 @@ StB-typische KI-Nutzung (Recherche, Textgenerierung, Buchungsvorschlaege) ist re
 - Bei Halluzinationen: Falschberatungs-Risiko.
 - Bei rechtlichen Aspekten: § 5 RDG — KI darf nicht Rechtsberatung ersetzen.
 
-## Output
-
-- KI-Tool-Inventar mit Berufsrecht-Pruefung.
-- KI-Richtlinie Kanzlei.
-- Sachbearbeiter-Schulungs-Dokumentation.
-
 ## Strategie und Praxis-Tipps
 
 - KI ist Produktivitaetshebel für Routine-Texte, Recherche, Beleg-Klassifikation; sie ersetzt aber keine berufsrechtlich verantwortete Pruefung durch den Berufstraeger.
@@ -123,12 +113,6 @@ StB-typische KI-Nutzung (Recherche, Textgenerierung, Buchungsvorschlaege) ist re
 - Berufsverschwiegenheit ist strafrechtlich abgesichert (§ 203 StGB) — jeder Verstoss ist Offizialdelikt; zusaetzlich drohen DSGVO-Bussgelder bis 4 % Jahresumsatz.
 - KI-VO-Compliance: Bis 02.02.2025 verbotene Praktiken vermeiden; Schulung der Sachbearbeiter zur Output-Kontrolle (Halluzinationsrisiko); ab 02.08.2026 Pruefung der eingesetzten KI auf Hochrisiko-Einstufung.
 - Output-Verantwortung verbleibt beim Berufstraeger: jede inhaltliche Aussage ist vor Mandantenkommunikation durch den Berufstraeger zu pruefen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang).
-
-## Querverweise
-
-- `stb-datentransfer-mandant-cloud-dsgvo` — DSGVO.
-- `stb-online-portal-datev-mandantenshop` — DUO.
-- `stb-mandantenanfrage-reaktion-frist-laufend` — Reaktionsfristen.
 
 ## Quellen und Updates
 
@@ -144,10 +128,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (Output-Verantwortungs-Satz ohne Marker neu formuliert; KI-VO-Anwendungsstufen mit konkreten Daten aus VO 2024/1689 belegt) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

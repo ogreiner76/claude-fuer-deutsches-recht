@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Schriftform/Textform BGB: ordnet
 
 Dieser Einstieg routet **Schriftform Und Textform Bgb** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `amtlicher-formkern-bgb-zpo-check` — Amtlicher Formkern BGB ZPO Check
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Schriftform Und Textform Bgb** vom ersten Sachverhalt z
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Schriftform/Textform BGB typische Eskalationsstufen: Schriftform-Memo, Vertrags-Markup, Zugangsnachweis-Plan.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

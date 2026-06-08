@@ -38,13 +38,3 @@ Erstelle eine aktuelle Matrix aus dem Verordnungstext:
 - schnelle Abhilfe;
 - unklare Leitlinienlage.
 
-## Output
-
-- Behördenantwort.
-- Vorstandsvorlage.
-- Bußgeldrisikomatrix.
-- Abhilfe- und Kommunikationsplan.
-
-## Quellenregel
-
-Bußgeldhöhen immer am aktuellen Art. 99 KI-VO prüfen; keine Zahlen aus Sekundärmaterial blind übernehmen.

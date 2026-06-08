@@ -78,15 +78,9 @@ Die Tabelle ersetzt **keine** Einzelfallbetrachtung; sie zeigt nur das Spielfeld
 - **§ 47 StGB uebersehen**: Wenn das Gericht statt Geldstrafe eine kurze Freiheitsstrafe verhaengt, muss es besondere Umstaende benennen.
 - **Gesamtgeldstrafe** falsch gebildet: Es duerfen nicht einfach die Einzelstrafen addiert werden; § 54 Abs. 1 Satz 2 StGB verlangt Erhoehung um eine "angemessene" Quote.
 
-## Querverweise
-
-- `tagessatzhoehe-40-ii-stgb-nettotagesverdienst` — Hoehenkomponente.
-- `geldstrafe-vs-freiheitsstrafe-47-stgb` — Vorrang Geldstrafe.
-- `strafbefehl-strafzumessung-407-stpo` — Strafbefehl.
-- `gesamtstrafenbildung-53-54-stgb-erste-instanz` — Gesamtgeldstrafe.
-
 ## Quellen und Stand 05/2026
 
 - §§ 40, 41, 47, 53, 54 StGB in der geltenden Fassung.
 - § 407 Abs. 2 StPO Strafbefehl.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

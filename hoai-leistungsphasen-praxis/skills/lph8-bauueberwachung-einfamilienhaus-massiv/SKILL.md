@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser im Massivb
 
 # Bauueberwachung Einfamilienhaus Massivbau (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protokollen, Betonpruefung und digitaler Maengeldokumentation mit PlanRadar und RIB iTWO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ KfW-Foerderbedingungen erfordern Nachweis der energetischen Qualitaet durch akkr
 - Mauerwerk ohne Ringbalken: fehlende Horizontalaussteifung fuehrt zu Rissen und Versagen am Sturz
 - GEG-Anforderung verfehlt: Waermebruecken senken Energieeffizienz unter Nachweisgrenze, KfW-Förderung gefaehrdet
 
-## Output
-
-Tagesberichte mit Witterung, Belegschaft und Pruefschwerpunkten. Betonpruef- und Abdichtungsprotokoll als Gewaehrleistungsakte.
-Fotodokumentation verdeckter Bauteile (PlanRadar PDF-Export). Maengelreport mit Fristen.
-Abnahmeprotokoll nach VOB/B § 12 mit Vorbehaltsliste und Restleistungsverzeichnis.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll nach VOB/B § 12 mit Vorbehaltsliste und Restleistungsverzeichn
 - [DIN EN 13670 Beton Ausfuehrung](https://www.gesetze-im-internet.de/)
 - [DIN 18533 Abdichtung erdberuehrte Bauteile](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 346/01 Bauueberwachungshaftung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+346/01)
+

@@ -5,10 +5,6 @@ description: "Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Ve
 
 # Geschäftsführer-Anstellungsvertrag GmbH
 
-## Arbeitsbereich
-
-Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kündigungsfristen. Normen: §§ 35 38 GmbHG, BGB Dienstvertrag. Prüfraster: Verguetungsstruktur, Tantieme, Freistellung, Geheimhaltung, Pensionszusage. Output: Geschäftsführervertrags-Entwurf. Abgrenzung: nicht Anstellungsvertrag Arbeitnehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,9 +46,7 @@ Klaere vor Entwurf des Anstellungsvertrags:
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-## Quellenregel
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Anstellungsvertrag-Check
 
 | Schritt | Pruefpunkt | Norm | Ergebnis |
@@ -155,3 +149,4 @@ Grund (§ 626 BGB) jederzeit moeglich.
 - `gesellschaftsgruender-gesellschaftervereinbarung` — Vesting/Leaver-Klauseln koordinieren
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — Pflichten nach Eintragung
 - `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Statusfeststellung vertiefen
+

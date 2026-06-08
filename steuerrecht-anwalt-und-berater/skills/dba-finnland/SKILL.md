@@ -76,12 +76,6 @@ Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 I
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo Finnland.
-- Berechnungsbeispiel mit Wechsel Methodenartikel.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Wechsel von Freistellung zu Anrechnung beim Uebergang DBA 1979 → DBA 2016 — Altzeitraeume gesondert pruefen.
@@ -151,12 +145,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Finnland 2016, Aenderungsprotokoll 2020/2021 Fundstellen verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-schweden`, `stb-dba-norwegen`, `stb-dba-daenemark`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Finnland 19.02.2016, in Kraft 16.11.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 466/467). Altes DBA 05.07.1979. Aenderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755). MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

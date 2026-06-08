@@ -104,23 +104,7 @@ Das Gericht antwortet im MJP. Sie bekommen Email-Benachrichtigung. Loggen Sie si
 - Quittung nicht gespeichert → immer speichern als Beweis
 - Identifikation klappt nicht → Hotline oder ELSTER-Alternative
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `einreichung-papierform-sozialgericht-mit-abschriften` — Papierform-Alternative
-- `einreichung-fax-und-grenzen-sozialgericht` — Fax-Alternative
-- `dokumenten-erzeugung-pdf-laien-sozialgericht` — wie PDFs machen
-- `klage-zusammenstellen-bundle-sozialgericht` — Schriftsatz mit Anlagen
-- `versand-selbst-zurechnung-laien-sozialgericht` — Versand-Beweise
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. MJP seit 2024 für alle Buerger oeffentlich. § 65a SGG für elektronische Klage. Bei technischen Problemen: www.mein-justizpostfach.de/hilfe. Funktionalitaet variiert je Bundesland.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

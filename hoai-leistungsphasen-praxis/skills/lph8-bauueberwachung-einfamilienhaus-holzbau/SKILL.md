@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser in Holzrah
 
 # Bauueberwachung Einfamilienhaus Holzbau (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe Dokumentation mit Dalux, PlanRadar und Blower-Door-Pruefprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Fehler in der Luftdichtheitsebene sind nach Beplankung kaum noch korrigierbar un
 - Brandschutzverkleidung vergessen: Holztraeger im Treppenhaus muss K260-Bekleidung erhalten, sonst Nutzungsuntersagung
 - Fehlende Diagonalverstrebung: Windscheibe durch falsch montierten Tuerschlitz geschwaeicht
 
-## Output
-
-Aufrichttag-Protokoll mit Fotodokumentation aller Verbindungen. Luftdichtheits-Vortest-Protokoll mit n50-Wert.
-Bautagebuch digital mit tagesaktuellem Leistungsstand. Maengelreport mit Fristen.
-Abnahmeprotokoll nach VOB/B mit Vorbehalt offener Blower-Door-Endmessung und KfW-Fertigstellungsbestaetigung.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll nach VOB/B mit Vorbehalt offener Blower-Door-Endmessung und KfW
 - [DIN 4108-7 Luftdichtheit](https://www.gesetze-im-internet.de/)
 - [VOB/C DIN 18334 Holzbauarbeiten](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 46/06 Bauueberwachung Holzbau](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+46/06)
+

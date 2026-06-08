@@ -28,9 +28,6 @@ Familiensachen folgen FamFG statt ZPO (mit Verweisen auf ZPO).
 - §§ 1 ff. VersAusglG — Versorgungsausgleich
 - §§ 58 ff. FamFG — Rechtsmittel (Beschwerde, Frist 1 Monat)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Verfahrenskategorie bestimmen:** Welche Familiensache (§ 111 FamFG)?
@@ -45,6 +42,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Familiengericht → Beschluss — Tonfall: sachlich-formal
 
 ```
+
 ## Beschluss
 
 In der Familiensache [AKTENZEICHEN]
@@ -86,3 +84,4 @@ Beschwerde nach Paragraf 58 ff FamFG, Frist 1 Monat (in Eilfällen 14 Tage), bei
 - "Im Namen des Volkes" entfaellt
 - Stattdessen: "Beschluss"
 - Tenor wie beim Urteil, aber mit den familiengerichtlichen Spezifika (z. B. Sorgerechtsregelung, Umgangsregelung)
+

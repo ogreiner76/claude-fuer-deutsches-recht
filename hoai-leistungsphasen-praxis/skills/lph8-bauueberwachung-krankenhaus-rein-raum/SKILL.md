@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Krankenhausneubauten und Rein
 
 # Bauueberwachung Krankenhaus Reinraum (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Krankenhausneubauten und Reinraum-Operationsbereiche — Lueftungsanlagen Reinraumklassen nach DIN 1946-4, Hygieneanforderungen Estriche und Oberflaechen nach TRBA 100 und RKI-Empfehlung, Medienversorgung (Sauerstoff, Druckluft, Vakuum) nach DIN 13260 sowie Strahlenschutz-Bauteile nach StrlSchV. Praxisnahe Koordination mit SAP PM und BIM360. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Strahlenschutz-Raeume (Roentgen, MRT) erfordern Blei-Abschirmung nach StrlSchV m
 - Bleiabschirmung zu gering: Strahlenschutzbehoerde verweigert Betriebsgenehmigung
 - HEPA-Filter falsch eingebaut: Bypass-Stroemung moeglich, Reinraumklasse nicht erreichbar
 
-## Output
-
-Reinraum-Abnahmeprotokoll nach DIN 1946-4 mit Partikelzaehlung. Medizingas-Druckpruefprotokoll.
-Strahlenschutz-Gutachten Roentgen und MRT. Hygiene-Estrich-Abnahmeprotokoll.
-Abnahmeprotokoll Krankenhaus nach VOB/B. SAP-PM-Equipment-Hierarchie als Anlageninventar.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Krankenhaus nach VOB/B. SAP-PM-Equipment-Hierarchie als Anlagen
 - [DIN 13260 Medizinische Gase](https://www.gesetze-im-internet.de/)
 - [Strahlenschutzverordnung StrlSchV](https://www.gesetze-im-internet.de/strlschv_2018/index.html)
 - [DIN EN ISO 14644-1 Reinraeume](https://www.gesetze-im-internet.de/)
+

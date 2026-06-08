@@ -5,10 +5,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Umweltrecht-Plugin. Fra
 
 # Umweltrecht — Allgemein
 
-## Arbeitsbereich
-
-Einstieg, Schnelltriage und Fallrouting im Umweltrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,15 +12,6 @@ Einstieg, Schnelltriage und Fallrouting im Umweltrecht-Plugin. Fragt Rolle, Ziel
 - Tragende Normen verifizieren: BImSchG, KrWG, WHG, BNatSchG, UVPG, BBodSchG, ChemG, StörfallV (12. BImSchV), TA Luft, TA Lärm, EU-IED 2010/75, UmwRG, EU-FFH-RL, EU-WRRL — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
 ## Schnellstart-Workflow
 
@@ -217,15 +204,9 @@ Hinzu kommen neuere Rechtsgebiete: ESG-Berichtspflichten nach CSRD, Greenwashing
 - Greenwashing-Aussagen ohne Substanz: EU Green Claims-Richtlinie (Entwurf) und § 5 UWG erfordern pruefbare Belege für Umweltaussagen.
 - Verfristete LkSG-Risikoberichte: Jaehrliche Dokumentationspflicht mit gesetzlicher Frist; fehlendes Reporting loest BAFA-Massnahmen aus.
 
-## Querverweise
-
-- Plugin `verkehr-infrastrukturrecht` — Umweltrecht-Aspekte bei Planfeststellungsverfahren (FFH, Artenschutz).
-- Plugin `aussenwirtschaft-zoll-sanktionen` — CBAM (CO2-Grenzausgleich) hat Schnittstellen zu TEHG-Emissionshandel.
-- Plugin `grosskanzlei-corporate-ma` — Umwelt-DD als Kernkomponente bei Unternehmenstransaktionen.
-- Plugin `patentrecherche` — Greentech-Patentportfolios bei Umwelttechnik-Mandaten ergaenzend pruefen.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
 - BImSchG, TEHG, KrWG, WHG, BBodSchG, BNatSchG, UmwRG, UIG, LkSG in aktuell geltender Fassung
 - CSRD (EU VO 2022/2464) gestaffelt ab 2024/2025/2026 in Kraft
+

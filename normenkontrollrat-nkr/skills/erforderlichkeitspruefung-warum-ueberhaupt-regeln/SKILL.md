@@ -5,10 +5,6 @@ description: "Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellu
 
 # NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln
 
-## Arbeitsbereich
-
-Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -106,14 +102,6 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 - Bestehende Regelung nicht erwaehnt
 - "Vorbeugende Regelung" ohne Risikobeleg
 
-## Querverweise
-
-- `nkr-alternativen-pruefung-keine-regelung-soft-law`
-- `nkr-verhaeltnismaessigkeit-aus-nkr-sicht`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-stellungnahme-grundsatzfeststellung`
-- `legistik-werkstatt/legistik-auftragsaufnahme`
-
 ## Quellen Stand 06/2026
 
 - § 44 Abs. 1 GGO
@@ -122,3 +110,4 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 - Handbuch der Rechtsfoermlichkeit Teil A.III
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

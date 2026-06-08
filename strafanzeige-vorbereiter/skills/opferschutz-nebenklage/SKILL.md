@@ -5,10 +5,6 @@ description: "Rechte Verletzter: Nebenklage, psychosoziale Prozessbegleitung, Ad
 
 # Opferschutz, Nebenklage, Adhäsion
 
-## Arbeitsbereich
-
-Rechte Verletzter: Nebenklage, psychosoziale Prozessbegleitung, Adhäsion, Schutzanordnung, Akteneinsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Rechte Verletzter: Nebenklage, psychosoziale Prozessbegleitung, Adhäsion, Schut
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Opfer schwererer Taten.
-
 ## Norm- und Quellenanker
 
 StPO §§ 395 ff., 406e; GewSchG; OEG/SGB XIV live prüfen.
-
-## Arbeitsfragen
-
-1. Welche Verletztenrechte?
-2. Ist Nebenklage statthaft?
-3. Welche Schutzmaßnahmen?
-
 
 ## Normen & Rechtsprechung
 
@@ -38,9 +23,6 @@ Konkret zu prüfen:
 
 - §§ 395-402 StPO
 - § 397a StPO (Beistandsbeiordnung)
-## Output
-
-Opferrechte-Check und Anschluss-Skills.
 
 ## Red Flags
 
@@ -52,6 +34,3 @@ Opferrechte-Check und Anschluss-Skills.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

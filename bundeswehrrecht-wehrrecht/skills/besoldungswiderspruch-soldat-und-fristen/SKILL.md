@@ -5,10 +5,6 @@ description: "Besoldungswiderspruch Soldat: prüft VwGO-Fristen, Form, aufschieb
 
 # Besoldungswiderspruch Soldat und Fristen
 
-## Arbeitsbereich
-
-Besoldungswiderspruch Soldat: prüft VwGO-Fristen, Form, aufschiebende Wirkung und Klagewege. Norm-/Quellenanker: §§ 68–73 VwGO, BBesG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Wichtig: Unterscheidung dienstrechtliche Maßnahme (WBO) vs. Geldzahlungsanspruc
 - § 80 VwGO — Aufschiebende Wirkung
 - § 9a BBesG — Rückforderung
 - § 6 WBO — Beschwerde (dienstrechtliche Maßnahmen)
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -93,20 +83,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Fristenplan: Widerspruch → Widerspruchsbescheid → Klage
 - Entscheidungsbaum: WBO oder VwGO-Widerspruch?
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/vwgo/ — VwGO
-- https://www.gesetze-im-internet.de/bbesg/ — BBesG
-- https://www.bverwg.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -116,3 +92,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

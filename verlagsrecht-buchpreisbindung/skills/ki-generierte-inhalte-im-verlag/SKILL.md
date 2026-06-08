@@ -5,10 +5,6 @@ description: "Verlagsrecht: KI-generierte Texte, Bilder und Übersetzungen im Ve
 
 # Verl-019 · KI-generierte Inhalte im Verlag
 
-## Arbeitsbereich
-
-Verlagsrecht: KI-generierte Texte, Bilder und Übersetzungen im Verlag — Urheberrechtsstatus, Kennzeichnungspflichten, Vertragsklauseln und Haftungsrisiken (EU AI Act, UrhG). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -128,3 +124,4 @@ KI-Werkzeuge (GPT-4, Claude, Midjourney, DeepL etc.) werden zunehmend in der Ver
 - **Kennzeichnungsvorschlag** für Impressum und Bildnachweis
 - **TDM-Opt-Out-Erklärung** für Website (robots.txt-Snippet)
 - **Risikoampel**: KI-Risiken für das konkrete Werk
+

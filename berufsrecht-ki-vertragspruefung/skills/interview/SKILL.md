@@ -13,10 +13,6 @@ description: "Erfasse Beruf des Auftraggebers (Rechtsanwalt Steuerberater Wirtsc
 - **Arbeitsprodukt:** Anbieter-Fragenliste, Risikomatrix, Vertragsredline und Entscheidung, ob Pilot, Stop oder Nachverhandlung.
 - **Hinweis:** Ergebnis bleibt Vorprüfung für Kanzlei- oder Spezialberatung; keine Scheinsicherheit gegenüber Berufsrecht oder Strafrecht.
 
-## Zweck
-
-Bevor die materielle Prüfung beginnt, brauchen wir saubere Eingangsdaten. Das Interview fixiert Beruf, Anbieter, Datenarten und Vertragstyp. Daraus leitet sich der Norm-Adapter ab — von ihm hängt jede weitere Skill ab.
-
 ## Pflichtfragen
 
 ### Beruf des Auftraggebers
@@ -77,11 +73,6 @@ Indikatoren für **Einzelmandats-Tool** (Einwilligung erforderlich):
 
 Bei Unsicherheit: konservativ entscheiden und Einwilligung einholen.
 
-## Output
-
-Strukturierter Eingangsdatensatz im Markdown-Format:
-
-```
 ## Eingangsdaten
 - Beruf: ...
 - Norm-Adapter: § ...
@@ -115,9 +106,6 @@ Wenn der Auftraggeber Antworten nicht hat, ist das selbst schon ein Befund. Fehl
 - §§ 203, 204 StGB — Straftatbestände Verletzung/Verwertung von Privatgeheimnissen
 - §§ 53a, 97 StPO — Zeugnisverweigerungsrecht und Beschlagnahmeverbot für Berufshelfer
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage-Frage (Entscheidungsbaum)
 
 ```
@@ -137,6 +125,7 @@ Beruf bestimmt?
 **Adressat:** Kanzlei intern — Tonfall: sachlich-strukturiert
 
 ```
+
 ## Eingangsdaten [DATUM]
 - Beruf: [BERUF]
 - Norm-Adapter: § [NORM] [GESETZ]
@@ -150,3 +139,4 @@ Beruf bestimmt?
 - Vertragsdokumente vorgelegt: [ja/nein, Datum, Anlagen]
 - Nächste Schritte: [Prüfpunkte auflisten]
 ```
+

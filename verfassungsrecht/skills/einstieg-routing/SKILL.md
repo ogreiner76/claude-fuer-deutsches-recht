@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Verfassungsrecht: ordnet Rolle (
 
 Dieser Einstieg routet **Verfassungsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `acht-zahlen-schwellen-und-berechnung` — Acht Zahlen Schwellen und Berechnung
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Verfassungsrecht** vom ersten Sachverhalt zu Rollen, Fr
 - Zuständige Stelle bestimmen: Beschwerdeführer, BVerfG (1. und 2. Senat, Kammern), Landesverfassungsgerichte, EGMR.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Verfassungsrecht typische Eskalationsstufen: Verfassungsbeschwerde, Vorlagebeschluss, Stellungnahme.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

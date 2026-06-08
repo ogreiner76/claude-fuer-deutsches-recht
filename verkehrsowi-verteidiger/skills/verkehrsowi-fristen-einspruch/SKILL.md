@@ -38,9 +38,6 @@ Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskr
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Berechnungsschema
 
 ```
@@ -101,3 +98,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - 3-Tage-Vorlauffrist-Erinnerung setzen.
 - Beschraenkter Einspruch nur nach Mandantenruecksprache.
 - Anwaltliche Endkontrolle vor dem Versand.
+

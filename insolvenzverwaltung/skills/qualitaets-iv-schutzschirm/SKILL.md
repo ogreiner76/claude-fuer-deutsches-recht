@@ -5,10 +5,6 @@ description: "IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widerspruec
 
 # Qualitäts- und Plausibilitätsgate
 
-## Arbeitsbereich
-
-IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprueche Rechenfehler fehlende Belege und Rollenfehler prüfen. §§ 58 66 InsO Prüfungspflichten des Gerichts. Prüfraster: Rollencheck Zahlencheck Normencheck Quellencheck Adressatencheck. Output: Gate-Protokoll mit Fehlerliste und Freigabeempfehlung. Abgrenzung: Quality Gate für alle IV-Skills; nicht für eigenständige Sacharbeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,12 +20,6 @@ IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprueche Rechenfehle
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-
-Prüft IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprüche, Rechenfehler, fehlende Belege und Rollenfehler.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
 
 ## Startet bei
 
@@ -94,6 +84,3 @@ Bevor losgelegt wird, klaere:
 3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
 4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

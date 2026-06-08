@@ -5,10 +5,6 @@ description: "Prüft Äußerungsfälle mit der EGMR-Linie zu Art 10 EMRK: öffen
 
 # EGMR-Art.-10-Rechtsprechung
 
-## Arbeitsbereich
-
-Prüft Äußerungsfälle mit der EGMR-Linie zu Art 10 EMRK: öffentlicher Diskurs, Werturteil, Tatsachengrundlage, Reputation, Amtsträger, Anwälte, Hyperlinks und Plattformkommentare. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüft Äußerungsfälle mit der EGMR-Linie zu Art 10 EMRK: öffentlicher Diskur
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill übersetzt die Art.-10-EMRK-Rechtsprechung in die deutsche Äußerungsprüfung. Er ist kein Ersatz für Art. 5 GG, sondern eine zusätzliche Kontrollfolie: Hat das nationale Ergebnis die Freiheit öffentlicher Debatte, Werturteile und Kontext ausreichend ernst genommen?
 
 ## Wann einsetzen?
 
@@ -50,28 +42,7 @@ Dieser Skill übersetzt die Art.-10-EMRK-Rechtsprechung in die deutsche Äußeru
 - **EGMR, Urteil vom 04.12.2018 - 11257/16, Magyar Jeti Zrt/Ungarn:** Hyperlinkhaftung braucht differenzierte Prüfung; Link ist nicht automatisch Billigung des verlinkten Inhalts.
 - **EGMR, Urteil vom 15.05.2023 - 45581/15, Sanchez/Frankreich:** Verantwortlichkeit für Drittkommentare kann in engen Kontexten möglich sein; Rolle des Accountinhabers, Kenntnis, Reaktionszeit und Schwere des Inhalts prüfen.
 
-## Output
-
-Erzeuge einen Abschnitt:
-
-```text
-EGMR-Kontrollfolie
-- Art.-10-Schutzintensität:
-- Art.-8-/Reputationsgewicht:
-- Werturteil/Tatsachengrundlage:
-- Kontext und öffentlicher Diskurs:
-- Sanktion/chilling effect:
-- Korrekturhinweis für die deutsche Abwägung:
-```
-
 ## Grenzen
 
 Keine automatische Übertragung amerikanischer free-speech-Standards. Der EGMR erlaubt Ehrschutz und Reputationsschutz stärker als die US-Linie, verlangt aber eine echte, kontextbezogene Verhältnismäßigkeitsprüfung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

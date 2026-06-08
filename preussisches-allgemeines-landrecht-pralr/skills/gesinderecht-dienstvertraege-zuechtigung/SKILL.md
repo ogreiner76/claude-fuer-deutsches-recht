@@ -5,10 +5,6 @@ description: "Gesinderecht Dienstvertraege und Zuechtigungsbefugnis. Skill behan
 
 # Pralr Gesinderecht Dienstvertraege Zuechtigung
 
-## Arbeitsbereich
-
-Gesinderecht Dienstvertraege und Zuechtigungsbefugnis. Skill behandelt die Vertragsbedingungen ALR II 5 die Zuechtigungsregeln (mit historisch-kritischem Vorbehalt) Misshandlungsschutz und Klagewege für das Gesinde. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -65,7 +61,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Klagebefugnis des Gesindes?
 3. Patrimonialgericht oder öffentliches Gericht?
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Sozialgeschichte.

@@ -5,10 +5,6 @@ description: "Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960
 
 # Market Sounding nach Art. 11 MAR
 
-## Arbeitsbereich
-
-Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,22 +74,3 @@ Nach Ad-hoc-Veröffentlichung:
  5 Jahre aufbewahren (Art. 18 Abs. 5 MAR analog)
 - BaFin-Übermittlung auf Anfrage binnen 24 Stunden
 
-## Red-Team-Fragen
-
-- Wurden alle Wall-Crossing-Formalia vor der Informationsweitergabe erfüllt?
-- Ist das Sounding-Skript vorab genehmigt und eingehalten worden?
-- Sind alle gesoundeten Investoren in der Insiderliste erfasst?
-- Wurde der Wall Down nach Ad-hoc-Veröffentlichung zeitnah und dokumentiert durchgeführt?
-- Haben investierte Parteien während des Insiderstatus keine Transaktionen vorgenommen?
-- Sind die Protokolle DVO-konform und vollständig?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Wall-Crossing-Protokoll (DVO-konformes Formular)
-2. Sounding-Skript mit Non-Insider- und Insider-Versionen
-3. Investor-Matrix: Wall-Crossing-Status × Datum × Bestätigung
-4. Wall-Down-Benachrichtigungsschreiben (Vorlage)
-5. Aufbewahrungsprotokoll
-
-Belege ausschließlich mit: eur-lex.europa.eu, bafin.de, gesetze-im-internet.de, dejure.org.

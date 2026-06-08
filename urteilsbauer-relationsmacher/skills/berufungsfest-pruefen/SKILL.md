@@ -49,6 +49,3 @@ description: "Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen:
 - [ ] Unterschrift der erkennenden Richter (§ 315 Abs. 1 ZPO)?
 - [ ] Hinweispflicht § 139 ZPO dokumentiert?
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

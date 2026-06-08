@@ -3,17 +3,6 @@ name: kaltstart-triage
 description: "Einstieg, Schnelltriage und Fallrouting im Mittelstand Corporate Ma-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage."
 ---
 
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-# Mittelstand Corporate M&A — Allgemein
-
 ## Aktenstart statt Formularstart
 
 Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Mittelstand Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
@@ -333,24 +322,9 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 - Closing Bible wird fragmentarisch aufgebaut; Skill `mittelstand-corporate-ma-closing-bible-archiv` fruehzeitig und nicht erst post-Closing anlegen.
 - Berufsrechtliche KI-Grenzen werden nicht dokumentiert; fehlende Mandantenfreigabe kann Haftungsrisiken ausloesen.
 
-## Querverweise
-
-- `fortbestehensprognose` — Bei Zielunternehmen in Krise: Fortbestehensprognose nach § 19 Abs. 2 InsO parallel erstellen.
-- `gesellschaftsrecht` — Fuer isolierte Gesellschaftsrecht-Fragen zu GmbH/AG und Personengesellschaften ausserhalb M&A.
-- `insolvenzforderungsanmeldungspruefung` — Wenn Distressed-M&A-Transaktion aus Insolvenzverfahren heraus stattfindet.
-- `common-law-kompass` — Bei UK- oder US-Gegenparteien und bilingualen Transaktionsvertraegen.
-- `ki-governance` — Fuer unternehmensseitige KI-Governance-Fragen des Mandanten unabhaengig vom Transaktionsmandat.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum (BGB, GmbHG, AktG, UmwG, InsO, StaRUG, GWB, FKVO, MAR, WpUEG, GoBD, UStG)
 - IDW S 11 (Fortbestehensprognose), IDW S 6 (Sanierungskonzept) in geltender Fassung
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

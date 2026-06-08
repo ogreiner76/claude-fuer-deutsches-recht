@@ -5,10 +5,6 @@ description: "Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbil
 
 # Beweismaß und Überzeugung
 
-## Arbeitsbereich
-
-Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbildung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,12 +40,6 @@ Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbildung. Die Antw
 ## Norm- und Quellenanker
 BVerwG 6 B 124.18; 6 B 55.20
 
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
-
 ## Rote Linien
 Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
 
@@ -63,3 +53,4 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 - BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+

@@ -5,9 +5,6 @@ description: "PKH Bewilligung Ratenzahlung im Selbstvertretung am Amtsgericht: p
 
 # PKH Bewilligung Ratenzahlung
 
-## Arbeitsbereich
-
-**PKH Bewilligung Ratenzahlung** ordnet den Fall über die tragenden Prüfungslinien: Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten, Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO, Antrag auf Prozesskostenhilfe nach § 114 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "PKH Bewilligung Ratenzahlung im Selbstvertretung am Amtsgericht: p
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `pkh-bewilligung-ablehnung-folgen`
@@ -145,25 +143,9 @@ Folge: Sie zahlen rueckwirkend.
 - "Bei PKH bin ich gegen alle Kosten geschuetzt." → Nur eigene Kosten.
 - "Beschwerde-Frist 1 Monat." → 2 Wochen!
 
-## Querverweise
-
-- `prozesskostenhilfe-pkh-114-zpo` — Grundantrag.
-- `pkh-ratenzahlung-bewilligung` — Raten.
-- `beratungshilfe-aussergerichtlich-brh` — Beratungshilfe.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten.
-- `wann-doch-anwalt-grenzfaelle` — Anwalt.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 119 ff. ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `pkh-ratenzahlung-bewilligung`
 
@@ -257,13 +239,6 @@ Sie koennen die Raten vorzeitig komplett zahlen — entlastet Sie laufend.
 - "Raten gelten lebenslang." → Maximal 48 Monate.
 - "Bei Lohnerhoehung muss ich nichts melden." → Doch — § 120a Mitteilungs-Pflicht.
 - "PKH-Rate ist Lohnpfaendung." → Nein, freiwillige Zahlung — aber Sie verlieren PKH, wenn Sie nicht zahlen.
-
-## Querverweise
-
-- `prozesskostenhilfe-pkh-114-zpo` — Grundantrag.
-- `pkh-bewilligung-ablehnung-folgen` — Folgen.
-- `beratungshilfe-aussergerichtlich-brh` — Beratungshilfe.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten.
 
 ## Quellen und Aktualitaet
 
@@ -404,14 +379,7 @@ In Praxis selten bewilligt — meist nur bei komplexen Faellen.
 - "PKH deckt auch Gegnerkosten." → Nein, nur eigene Kosten.
 - "Ich beantrage PKH nach Klage-Einreichung." → Geht, aber besser gleichzeitig.
 
-## Querverweise
-
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten ueberhaupt.
-- `pkh-bewilligung-ablehnung-folgen` — Wenn abgelehnt.
-- `pkh-ratenzahlung-bewilligung` — Raten.
-- `beratungshilfe-aussergerichtlich-brh` — Vor Prozess.
-- `gerichtskostenvorschuss-12-gkg` — Vorschuss.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 114 ff. ZPO unveraendert. PKH-Freibetraege jaehrlich angepasst — aktuelle Hoehen ueber Justizportal verifizieren.
+

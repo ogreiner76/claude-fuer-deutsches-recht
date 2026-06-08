@@ -5,10 +5,6 @@ description: "Ordnet BGB-AT-Fehler in Klausuren: Vertragsschluss, Zugang, Minder
 
 # Fehlerklassen im BGB-AT-Training
 
-## Arbeitsbereich
-
-Ordnet BGB-AT-Fehler in Klausuren: Vertragsschluss, Zugang, Minderjaehrige, Stellvertretung, Anfechtung, Form und Fristen. Trainiert strukturiertes Erkennen, Gewichten und Beheben von Klausurfehlern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,14 +78,6 @@ Dieser Skill führt nicht schematisch durch Fehlerklassen im BGB-AT-Training, so
 - Vertrag vor Delikt (§§ 280 ff. vor § 823 BGB)
 - Spezialgesetz (z. B. CISG, UmwG) vor BGB nicht geprüft
 
-## Red-Team-Fragen
-
-- Welche Anspruchsgrundlage oder Norm ist verführerisch, aber falsch?
-- Welche Tatsache wird im Sachverhalt nur behauptet, aber nicht belegt?
-- Welche Rechtsfolge passt nicht zur gewählten Norm?
-- Wo droht eine falsche Reihenfolge?
-- Ist die gewählte Norm im aktuellen Fassungsstand zu prüfen? (gesetze-im-internet.de)
-
 ## Bewertungsraster
 
 | Fehlertyp | Schwere | Heilung |
@@ -104,15 +92,3 @@ Dieser Skill führt nicht schematisch durch Fehlerklassen im BGB-AT-Training, so
 
 Korrekturvermerk, Randbemerkungen, Punkteindikation und verbesserte Musterpassage. Nenne Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle live vorliegen (dejure.org, bgh.de); keine Blindzitate.
 
-## Quellenregel
-
-- Normtext live prüfen: gesetze-im-internet.de (BGB in aktuellem Fassungsstand).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, openjur.de, bgh.de).
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

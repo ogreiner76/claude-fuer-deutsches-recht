@@ -5,10 +5,6 @@ description: "Digital Services / Nationale Koordinierung DSA Behörden: anwaltli
 
 # Nationale Koordinierung der DSA-Behörden in Deutschland
 
-## Arbeitsbereich
-
-Digital Services / Nationale Koordinierung DSA Behörden: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,11 +53,6 @@ Steuerung anwaltlicher Verfahren entlang der zersplitterten Zuständigkeitsstruk
 - VG Köln, VG Berlin, VG des Bundeslandes des Landesmedienanstalt-Sitzes – Entscheidungen mit Az., Datum, Fundstelle.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Zuständigkeitsmatrix.
-- Stellungnahme oder Anzeige pro betroffener Behörde.
-- Eskalationsplan und Kommunikationspfad.
-
 ## Beispiele
 - Plattform bietet altersinkompatible Werbung. Federführung BzKJ, Mitwirkung BNetzA und Landesmedienanstalt; Verfahrenskonsolidierung über Verpflichtungszusagen.
 - Soziales Netzwerk bei Werbeprofilbildung. Federführung BfDI (DSGVO), Mitwirkung BNetzA (Art. 26 DSA).
@@ -98,3 +89,4 @@ Zuständigkeitsmatrix vollständig? § 17 DDG-Beteiligungsrechte gewahrt? Parall
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

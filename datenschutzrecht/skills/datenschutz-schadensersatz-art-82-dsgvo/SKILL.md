@@ -5,10 +5,6 @@ description: "Schadensersatzklage nach Art. 82 DSGVO materieller und immateriell
 
 # Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
 
-## Zweck
-
-Dieser Skill bearbeitet Schadensersatzansprueche nach Art. 82 DSGVO vor deutschen Zivilgerichten — sowohl auf Klaeger- als auch auf Beklagtenseite. Er konzentriert sich auf den materiellen und immateriellen Schaden, die Kausalitaet zum DSGVO-Verstoss und die Beweislastverteilung nach der inzwischen verfestigten EuGH-Rechtsprechung.
-
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald (a) ein Betroffener Schadensersatz vom Mandanten verlangt oder (b) der Mandant gegen einen Verantwortlichen vorgehen will.
@@ -102,14 +98,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert hohe Schadensersatzbetraege?** Art. 9-Daten, Massenvorfall, nachweisbare Kettenfolge (Identitaetsdiebstahl), fehlende Reaktion des Verantwortlichen, kein DSB.
 
-## Querverweise
-
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-auskunftsersuchen-art-15-praxis`
-- `datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung`
-- `dsr-schadensersatz-art82-spezial`
-- `datenschutz-datenpanne-art-33-34-72h-incident-response`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 79, 82, 83.
@@ -122,10 +110,3 @@ Sieben-Fragen-Diagnose:
 - EuGH C-456/22 VX gegen Saale, Urteil 14.12.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

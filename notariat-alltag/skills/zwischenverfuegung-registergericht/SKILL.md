@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Zwischenverfügung Registergericht – Antwort
 
 # Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie, Frist
 
-## Arbeitsbereich
-
-Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,3 +93,4 @@ Ist die Zwischenverfügung unrechtmäßig (z.B. zu hohe formelle Anforderungen),
 - **Mandantenmail** (Status, Handlungsbedarf, Konsequenz bei Verzug)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

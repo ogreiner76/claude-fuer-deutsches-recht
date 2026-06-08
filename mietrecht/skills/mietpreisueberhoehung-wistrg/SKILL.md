@@ -25,10 +25,6 @@ Prueft ueberhoehte Wohnraummiete dreistufig: Mietpreisbremse §§ 556d ff. BGB, 
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Einsatz
-
-Anwendungsfall: eine Wohnraummiete deutlich über der ortsüblichen Vergleichsmiete liegt oder der Nutzer Wörter wie "Mietwucher", "Mietpreisüberhöhung", "zu hohe Miete", "20 Prozent", "50 Prozent", "Wohnungsnot", "Zwangslage" oder "Anzeige gegen Vermieter" verwendet. Der Skill trennt sauber zwischen zivilrechtlicher Mietpreisbremse, ordnungswidrigkeitenrechtlicher Mietpreisüberhöhung und strafrechtlichem Wucher.
-
 ## Sofort klären
 
 1. Geht es um **Wohnraum** oder Gewerberaum? § 5 WiStrG 1954 und § 291 Abs. 1 Nr. 1 StGB betreffen Wohnräume.
@@ -108,3 +104,4 @@ Erstelle je nach Ziel:
 - § 291 StGB: https://www.gesetze-im-internet.de/stgb/__291.html
 - §§ 556d-556g BGB und § 558 BGB vor konkreter Ausgabe immer aktuell prüfen.
 - Mietspiegel nur aus amtlicher Quelle verwenden; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle zitieren.
+

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Kommunalrecht und Selbstverwaltung. Pre
 
 # Kommunalrecht und Selbstverwaltung
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Kommunalrecht und Selbstverwaltung. Preussische Staedteordnung 1808, kommunale Selbstverwaltung, NS-Deutsche Gemeindeordnung 1935 und GG Art. 28. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,6 +53,3 @@ Die kommunale Selbstverwaltung als Rechtsprinzip entstand mit der Preussischen S
 - Kernbereich Art. 28 Abs. 2 GG: BVerfGE-Uebersicht
 - DGO 1935: NS-Zentralisierung und ihr Ende
 
-## Quellenregel
-
-Staedteordnung 1808: historische Edition. DGO 1935: RGBl. I 1935, 49 via ALEX/OeNB. GG Art. 28: gesetze-im-internet.de. BVerfGE: bverfg.de. GO NRW: gesetze-im-internet.de.

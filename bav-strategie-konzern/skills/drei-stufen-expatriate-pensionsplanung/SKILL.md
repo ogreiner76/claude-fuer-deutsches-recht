@@ -5,10 +5,6 @@ description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften an
 
 # Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte
 
-## Arbeitsbereich
-
-Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -33,6 +29,7 @@ Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdien
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Vorgehen
 
 ### Schritt 1: Systemverständnis Drei-Stufen-Theorie
@@ -207,3 +204,4 @@ Für Stufe-3-Eingriffe (sachliche Gründe):
 - → `harmonisierung-und-migration-rechtssicher` — Eingriffsanalyse bei Plan-Konsolidierung
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Betriebsrats-Mitbestimmung bei Eingriffen
 - → `kollektivrechtliche-loesungen-und-sozialplan` — Sozialplan als Begleitmaßnahme
+

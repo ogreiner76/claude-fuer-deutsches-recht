@@ -5,10 +5,6 @@ description: "MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung,
 
 # Weltraumrecht: Internationale Kooperation: Memorandum of Understanding
 
-## Arbeitsbereich
-
-MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,3 +111,4 @@ Das Rechtsgebiet berührt folgende Kernthemen: MOU Raumfahrt, Rechtsnatur, Parla
 - UNOOSA: https://www.unoosa.org/
 - BNetzA: https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/start.html
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
+

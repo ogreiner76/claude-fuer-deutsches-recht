@@ -5,10 +5,6 @@ description: "Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, sch
 
 # Mandats-Workspace
 
-## Arbeitsbereich
-
-Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei "neues Mandat", "Mandat wechseln", "Mandate auflisten", "Mandat schließen" oder wenn der Nutzer nur auf Praxisebene arbeiten möchte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -415,6 +411,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine Interessenkonfliktprüfung.
 
 ---
+
 ## Audit-Hinweis (27.05.2026)
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

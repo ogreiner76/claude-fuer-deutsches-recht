@@ -5,10 +5,6 @@ description: "Influencer-Recht: Creator-Nachlass und Account-Zugang – Erbrecht
 
 # Influencer-Recht: Creator-Nachlass und Account-Zugang
 
-## Arbeitsbereich
-
-Influencer-Recht: Creator-Nachlass und Account-Zugang – Erbrecht, digitaler Nachlass, Plattform-AGB, postmortales Persönlichkeitsrecht und Vorsorge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,3 +72,4 @@ Der digitale Nachlass eines Creators ist rechtlich und wirtschaftlich bedeutsam:
 - Passwort-Safe-Übergabe-Protokoll
 - Testaments-Ergänzung: Digitale Assets
 - Plattform-Legacy-Contact-Anleitung (Meta, Google)
+

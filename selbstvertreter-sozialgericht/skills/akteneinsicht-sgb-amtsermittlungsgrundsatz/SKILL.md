@@ -8,6 +8,7 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 ## Arbeitsbereich
 
 **Akteneinsicht SGB Amtsermittlungsgrundsatz** ordnet den Fall über die tragenden Prüfungslinien: Akteneinsicht in die Sozialakte nach § 25 SGB X, Das Gericht ermittelt für Sie § 103 SGG, Die Anfechtungsklage nach § 54 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +26,7 @@ description: "Akteneinsicht SGB Amtsermittlungsgrundsatz im Selbstvertretung am 
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `akteneinsicht-25-sgb-x`
@@ -208,26 +210,9 @@ Sie muessen mitmachen. Wenn das Gericht zu Untersuchungen bittet, gehen Sie hin.
 - Keine Schweigepflichtsentbindung → Gericht verzoegert
 - Termine nicht wahrnehmen → § 60 SGB I Verletzung
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `beweismittel-im-sozialgericht-uebersicht` — alle Beweise
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-- `zeugenbeweis-sozialgericht-373-zpo-analog` — Zeugen
-- `medizinische-gutachten-strategie-laien` — Gutachten-Strategie
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 103 SGG ist das Herz des Sozialgerichtsverfahrens. Stark Laien-freundlich.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `anfechtungsklage-54-sgg`
 
@@ -357,26 +342,9 @@ Sie koennen alle Teile angreifen, einen Teil, oder einen einzelnen Punkt. Klare 
 - Antrag fehlt → unverstaendlich; lieber zur Niederschrift
 - "Ich moechte mich beschweren" statt klarer Antrag → Antrag formulieren
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — Ueberblick
-- `verpflichtungsklage-54-sgg` — wenn auch Leistung gewollt
-- `klage-zur-niederschrift-90-sgg` — Einreichen
-- `klagebegruendung-laienleitfaden` — Begruendung
-- `widerspruchsbescheid-was-jetzt` — vor der Klage
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 SGG aktuell. SG hat Hinweis- und Aufklaerungspflicht (§ 106 SGG); falsche Antragsformulierung wird oft repariert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `anlagen-bezeichnen-und-sortieren-sozialgericht`
 
@@ -494,25 +462,9 @@ Wenn das Gericht ein Original braucht (z.B. Original-Vollmacht), wird es ausdrue
 - Kein Anlagenverzeichnis → Verwirrung
 - Falsche Reihenfolge → chronologisch oder thematisch sortieren
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagebegruendung-laienleitfaden` — Schriftsatz
-- `klage-zusammenstellen-bundle-sozialgericht` — komplett verschicken
-- `dokumenten-erzeugung-pdf-laien-sozialgericht` — PDF-Erstellung
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. Standard ist K- bzw. B-Bezeichnung.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `anwaltskosten-bei-erfolg-erstattung`
 
@@ -619,24 +571,9 @@ Festsetzungsbeschluss ist Vollstreckungstitel. Beklagte zahlt meist binnen Woche
 - Bei Teilerfolg vergessen → anteilig erstattbar
 - Bei PKH keine Anrechnung erwartet → Mehrbetrag pruefen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `kostenfrei-vs-aufwendungsersatz-193-sgg` — Aufwendungs-Ersatz
-- `pkh-vor-sozialgericht-73a-sgg` — PKH
-- `fahrtkosten-zeugen-pkh-erstattung` — Fahrtkosten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. RVG aktuell. Konkrete Gebühren-Saetze online pruefen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -666,3 +603,4 @@ Stand: 05/2026. RVG aktuell. Konkrete Gebühren-Saetze online pruefen.
 - Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.
+

@@ -5,10 +5,6 @@ description: "Zahlungsauslösedienst nach ZAG und PSD2 prüfen: Erlaubnis, stark
 
 # Zahlungsauslösedienst (PIS) nach ZAG und PSD2
 
-## Arbeitsbereich
-
-Zahlungsauslösedienst nach ZAG und PSD2 prüfen: Erlaubnis, starke Kundenauthentifizierung, Haftungskette, Interface, technische Dienstleister und Händlerkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,10 +46,3 @@ Dieser Skill prüft Zahlungsauslösedienste (Payment Initiation Services, PIS) n
 - Unbefugter Zahlungsvorgang über PIS: § 27 ZAG Haftung PIS; § 675u BGB Erstattungsanspruch Zahler gegen Kontoführer; Regress
 - Cross-Border-Betrieb (Deutschland + Frankreich): § 38 ZAG Notifizierung; RTS-SCA einheitlich anwendbar im EWR
 
-## Output
-
-Erlaubnisantrags-Checkliste PIS (50 TEUR oder Versicherung); SCA-Ausnahmen-Matrix mit RTS-SCA-Artikeln; Haftungs-Analyse-Vermerk; API-Anforderungs-Checkliste nach RTS-SCA Art. 30–33; Passporting-Checkliste.
-
-## Quellenregel
-
-gesetze-im-internet.de (ZAG), eur-lex.europa.eu (PSD2 Richtlinie 2015/2366, RTS-SCA VO 2018/389), bafin.de (Merkblatt PIS, FAQ Open Banking), eba.europa.eu (EBA Opinion on SCA-Ausnahmen, Q&A-Datenbank). Live-Check: RTS-SCA läuft unter PSD3/PSR-Reform (Entwurf COM(2023)366); eba.europa.eu für aktuelle Q&A.

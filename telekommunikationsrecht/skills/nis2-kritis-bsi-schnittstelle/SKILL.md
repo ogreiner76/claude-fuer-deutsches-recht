@@ -5,10 +5,6 @@ description: "NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren, 
 
 # NIS2, KRITIS und BSI-Schnittstelle
 
-## Arbeitsbereich
-
-NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren, Managed Services und kritische Kommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren, Managed Servic
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Unternehmen, die TK- oder digitale Infrastruktur betreiben.
-
 ## Norm- und Quellenanker
 
 NIS2; BSI-Gesetz; TKG; DORA bei Finanzkunden.
-
-## Arbeitsfragen
-
-1. Ist die Einheit erfasst?
-2. Welche technischen und organisatorischen Maßnahmen?
-3. Welche Leitungsorganpflichten?
-
-## Output
-
-NIS2-Gap-Analyse und Maßnahmenplan.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ NIS2-Gap-Analyse und Maßnahmenplan.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

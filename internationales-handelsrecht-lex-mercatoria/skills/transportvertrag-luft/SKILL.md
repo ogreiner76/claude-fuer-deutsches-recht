@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Lufttransportrecht nach Montrealer �
 
 # Lufttransportrecht: Montrealer Übereinkommen 1999
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Lufttransportrecht nach Montrealer Übereinkommen 1999 (MÜ). Haftung des Luftfrachtführers, Haftungsgrenzen (SDR-Beträge), AWB als Beförderungsdokument, Reklamationsfristen und Abgrenzung zum Warschauer System. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Das Montrealer Übereinkommen (MÜ 1999, in Kraft 2003) hat das Warschauer Über
 - Reklamationsfrist strikt einhalten: AWB-Rückseite Fristen lesen
 - Wertdeklaration für teure Güter: explizit im AWB eintragen
 
-## Output
-
-- MÜ Haftungsschema (Beschädigung / Verlust / Verspätung)
-- Reklamations-Checkliste mit Fristen
-- AWB-Anforderungen nach UCP 600 Art. 23
-
-## Quellenregel
-
-MÜ 1999: icao.int (Doc 9740). IATA: iata.org. UCP 600 Art. 23: iccwbo.org. VO (EG) 2027/97: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

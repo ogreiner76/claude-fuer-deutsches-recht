@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Aspha
 
 # Bauueberwachung Strassenbau Asphalt Mischgut (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Asphaltmischgut-Pruefung nach ZTV Asphalt-StB und TL Asphalt-StB, Verdichtungsgrad Kontroll-Pruefung nach ZTVE-StB, Schichtdicken-Messung mittels Bohrkerne, Ebenheitspruefung nach ZTV Asphalt-StB und Bitumengehalt-Extraktion nach DIN EN 12697-1. Praxisnahe Dokumentation mit PlanRadar und SAP-PM für Strassenbauverwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Eigenverantwortliche Ueberpruefung (EUe) durch Bauueberwacher erganzt Eignungspr
 - Schichtdicke unterschritten: Lkw-Entleerung nicht vollstaendig, Leistungsverzeichnis-Ansatz verfehlt
 - Ebenheit ueberschritten: Laengsunebenheiten ue 3 mm/4 m, Gewichts-Abzug bei Abrechnung
 
-## Output
-
-Mischgutproben-Pruefberichte je 1000 t. Bohrkern-Verdichtungsgrad-Protokolle.
-Profilometer-Ebenheitsbericht. Schichtdicken-Bohrkern-Protokoll.
-Abnahmeprotokoll Strassenbau nach VOB/B und ZTV Asphalt-StB. PlanRadar km-Maengelreport.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Strassenbau nach VOB/B und ZTV Asphalt-StB. PlanRadar km-Maenge
 - [DIN EN 12697 Asphalt Pruefverfahren](https://www.gesetze-im-internet.de/)
 - [ZTVE-StB Erdarbeiten](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 58/11 Strassenbau Mischgut](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+58/11)
+

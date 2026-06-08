@@ -5,10 +5,6 @@ description: "Mandant will Zulassungsstatus eines Luftfrachtfuehrers oder Gefahr
 
 # Luftfracht – Register auswerten
 
-## Arbeitsbereich
-
-Mandant will Zulassungsstatus eines Luftfrachtfuehrers oder Gefahrgut-Deklarationen auswerten. Prueft LuftVG Frachtfuehrer-Zulassung IATA DGR Deklarationspflichten Montreal Convention und liefert Compliance-Status-Bericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ LuftVG EU-VO 300/2008 IATA DGR Montreal Convention Zollrecht – die einschlägi
 - **Montrealer Übereinkommen Art. 18**: Haftung des Luftfrachtführers für Beschädigung; Haftungsausschlüsse.
 - **LuftVG § 44**: Nationale Verweisung auf Montrealer Übereinkommen für innerdeutsche Flüge.
 - **HGB § 475**: Frachtführerhaftung subsidiär; nur soweit MÜ keine Regelung trifft.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -56,6 +53,7 @@ LuftVG EU-VO 300/2008 IATA DGR Montreal Convention Zollrecht – die einschlägi
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Haftungsgrenze (22 SZR/kg) eingehalten oder Werterklärung im AWB vermerkt?
 8. Ist die Frachtkette lückenlos dokumentiert (AWB Sicherheitsdeklaration Manifest)?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -74,9 +72,6 @@ Die Registerauswertung ist Grundlage jeder luftrechtlichen Due-Diligence-Prüfun
 - **ICAO International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
 - **Registerauszug Aktualität**: Stets aktuellen Auszug anfordern; veraltete Auszüge führen zu Haftungsrisiken.
 
-## Output
-
-Strukturierter Vermerk zu Luftfracht – Register auswerten mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Haftungsanalyse nach MÜ. AWB-Prüfschema. Schadensmeldungs-Fristenübersicht.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -105,3 +100,4 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

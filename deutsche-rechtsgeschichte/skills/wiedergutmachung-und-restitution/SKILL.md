@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Wiedergutmachung und Restitution nach N
 
 # Wiedergutmachung und Restitution (NS-Unrecht)
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Wiedergutmachung und Restitution nach NS-Unrecht. Bundesentschaedigungsgesetz 1953, Bundesrueckerstattungsgesetz 1957, Globalabkommen und Grenzen der Wiedergutmachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Die Wiedergutmachung von NS-Unrecht war ein komplexes Feld der Nachkriegsgesetzg
 - EVZ-Gesetz 2000: BGBl. I 2000, 1281
 - BGH: bgh.de für Entschaedigungsrechtsprechung
 
-## Output
-
-- Zeitleiste Wiedergutmachung: 1945-2000
-- BEG: Voraussetzungen, Ansprueche, Ausschlussgründe
-- Stiftung EVZ 2000: Entschaedigungsrahmen und Statistik
-
-## Quellenregel
-
-BEG: gesetze-im-internet.de. Luxemburger Abkommen: BGBl. II 1953, 35. EVZ-Gesetz: BGBl. I 2000, 1281. BGH: bgh.de. NS-Aufhebungsgesetz: BGBl. I 1998, 2501.

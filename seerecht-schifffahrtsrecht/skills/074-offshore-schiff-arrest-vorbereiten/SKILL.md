@@ -5,10 +5,6 @@ description: "Offshore-Schiff: Glaeubiger sichert Anspruch an Offshore-Versorgun
 
 # Offshore-Schiff – Arrest vorbereiten
 
-## Arbeitsbereich
-
-Offshore-Schiff: Glaeubiger sichert Anspruch an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Ein Hypothekengläubiger will ein Offshore-Versorgungsschiff (PSV/AHTS) oder Boh
 - Arrest ohne Registereintragung (SchRegO § 67) ist wirkungslos.
 - LOU des P&I-Clubs beendet Arrest, nicht die Forderung; Klage geht weiter.
 - ZPO § 945-Schadensersatz bei unberechtigtem Arrest kann erheblich sein.
-
-## Output
-Arrestantrags-Baustein (ZPO § 920) und Vollziehungs-Zeitplan für Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender.
 
 ## Vertiefung: Internationale Seearrestpraxis
 International koordinieren sich Gläubiger häufig über die 1952 Brüsseler Seearrest-Konvention (ISAC 1952) und über P&I-Club-Korrespondenten. In der EU gilt ergänzend die EuGVVO 2012 (Brüssel Ia-VO) für Vollstreckung und gegenseitige Anerkennung von Arrestbeschlüssen. In Drittstaaten gelten nationaler Seearrest-Regeln; Koordination mit Local Counsel ist unverzichtbar.

@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Insolvenz des ausländischen Käufer
 
 # Insolvenz des ausländischen Käufers
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Bei Insolvenz des ausländischen Käufers stellen sich Fragen zur anzuwendenden 
 - EV-Schutz: lex situs des Käuferlandes; Registrierung wenn erforderlich
 - CISG Art. 71: Lieferung stoppen wenn plausible Insolvenzanzeichen; dann Aufhebungsrecht prüfen
 
-## Output
-
-- EuInsVO COMI-Bestimmungs-Schema
-- Forderungsanmeldung-Checkliste (EU und Nicht-EU)
-- EV-Anerkennungs-Matrix für EU-Mitgliedstaaten
-
 ## Quellenregel
 
 EuInsVO (EU) 2015/848: eur-lex.europa.eu. InsO §§ 343 ff.: gesetze-im-internet.de. UNCITRAL Model Law: uncitral.un.org. CISG Art. 71-72: uncitral.un.org. Unsicherheit bleibt sichtbar.
+

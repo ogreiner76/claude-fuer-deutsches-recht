@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Wohnungsrecht, Dienstbarkeit, Baulast – Abgr
 
 # Notariat im Alltag: Wohnungsrecht, Dienstbarkeit, Baulast – Abgrenzung
 
-## Arbeitsbereich
-
-Notariat im Alltag: Wohnungsrecht, Dienstbarkeit, Baulast – Abgrenzung. Grunddienstbarkeit, beschränkte persönliche Dienstbarkeit, Wohnungsrecht und Baulast – Inhalt, Bestellung und Grenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -107,3 +103,4 @@ Die Baulast ist eine öffentlich-rechtliche Verpflichtung des Grundstückseigent
 - **Mandantenmail** (Erläuterung Dienstbarkeit, Auswirkung auf Nutzung)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

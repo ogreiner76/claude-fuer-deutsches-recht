@@ -38,15 +38,6 @@ Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte diese
 - Art. 14 EuKtPVO — Kontensuche durch Auskunftsbehörde
 - Art. 33, 34 EuKtPVO — Rechtsbehelfe des Schuldners
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Vorläufige grenzüberschreitende Sicherung von Bankkonten des Schuldners in einem anderen EU-Mitgliedstaat (außer Dänemark). Die EuKtPVO schließt eine Lücke zwischen der EuGVVO (Vollstreckungsanerkennung) und dem Bedürfnis nach **schneller, EU-weiter Sicherung** vor einem Hauptsacheurteil — vergleichbar mit der nationalen PfÜB-Sicherung (§ 829 ZPO), aber **EU-weit** wirkend.
-
-> **Abgrenzung:** Die EuKtPVO ist eine **Sicherungs-Maßnahme** (vergleichbar dem Arrest § 916 ZPO), kein Vollstreckungsverfahren. Für die anschließende Befriedigung benötigt der Gläubiger einen vollstreckbaren Titel und vollstreckt dann im Sitzstaat des Drittschuldners nach dortigem Recht.
-
 ## Startet bei
 
 - Schuldner hat (vermutet) Konto in einem EU-Mitgliedstaat außer Deutschland und außer Dänemark
@@ -162,21 +153,7 @@ Vorläufige grenzüberschreitende Sicherung von Bankkonten des Schuldners in ein
 - **Übersetzungskosten** trägt Gläubiger; das Gericht übernimmt aber die Übermittlung
 - **Bank-Kosten** im Ziel-MS variieren; in IT/FR/ES regelmäßig 50–200 EUR
 
-## Ausgabeformat
-
-- Antragsschrift nach Formblatt I VO (EU) 2016/1823 (deutsch)
-- Übersicht: Anspruch / Forderung / Konto / MS / Sicherheit
-- Frist-Tracker: 30 Tage Hauptsache, 10/5 Arbeitstage Gerichtsentscheidung
-- Schuldner-Schutz-Hinweise
-
-## Querverweise
-
-- `zv-pfueb-bank` — nationale Kontopfändung Inland nach § 829 ZPO (Vergleich)
-- `zv-kontensuche-drittschuldner` — nationale Kontensuche § 802l ZPO
-- `zv-titel-klausel-zustellung` — Titel-Vorprüfung vor EuKtPVO-Antrag bei Titel-Variante
-- `fachanwalt-internationales-wirtschaftsrecht` — EuGVVO Brüssel Ia, Rom I
-- `aussenwirtschaft-zoll-sanktionen` — Sanktionen / OFAC-Konflikt bei Konto-Sicherung
-
 ## Quellen und Updates
 
 Stand: 05/2026. VO (EU) 655/2014 in Kraft seit 18.1.2017. Durchführungsverordnung (EU) 2016/1823 für Formblätter. §§ 946–959 ZPO als DurchführungsRecht. Bei Reform / DAC9-Erweiterung aktualisieren.
+

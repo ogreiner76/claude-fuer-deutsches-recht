@@ -5,10 +5,6 @@ description: "Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare 
 
 # Anspruchsgrundlage und Rechtsfolgen-Klauseln
 
-## Arbeitsbereich
-
-Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtelten Wenn-Tatbestaenden vermeiden. Mit Tabelle Tatbestand zu Rechtsfolge zu Frist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von T
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Vertragliche Klauseln sind kleine Anspruchsgrundlagen. Sie folgen derselben Architektur wie das Gesetz: Wenn die Voraussetzungen vorliegen (Tatbestand), dann tritt die Rechtsfolge ein. Die saubere Trennung beider Teile ist Drafting-Grundpflicht.
-
-Dieser Skill operationalisiert die Wenn-Dann-Architektur für typische Vertragsklauseln: Maengelhaftung, Verzug, Kuendigungsfolgen, Schadensersatz, Aufrechnung. Er liefert das Schema und zeigt, wie Sie Mantelklauseln mit verschachtelten Bedingungen aufloesen.
 
 ## Eingaben
 
@@ -148,12 +138,6 @@ zu leisten sein, wobei die Hoehe sich nach billigem Ermessen richtet.
 - **Klauseln ohne Verweis auf BGB-Defaults.** Wer abweicht, soll wissen wovon.
 - **AGB-Klauselverbote ignoriert.** § 308, § 309 BGB lesen.
 
-## Ausgabeformat
-
-- Klauselentwurf mit klarer Wenn-Dann-Struktur.
-- Tabelle Tatbestand zu Rechtsfolge zu Frist.
-- Hinweis auf BGB-Vergleichsnorm.
-
 ## Beispiel
 
 **Aufgabe:** Klausel für die ausserordentliche Kuendigung bei Pflichtverletzung des Lieferanten.
@@ -185,13 +169,6 @@ Mit Zugang der Kuendigung endet der Vertrag. § 9 Abs. 3 (Folgen) gilt.
 | wesentliche Pflichtverletzung trotz Abmahnung | Ausserordentliche Kuendigung | 14 Tage ab Kenntnis |
 | Insolvenz | Ausserordentliche Kuendigung | 14 Tage ab Kenntnis |
 | Zahlungseinstellung | Ausserordentliche Kuendigung | 14 Tage ab Kenntnis |
-
-## Querverweise
-
-- `drafting-prinzipien-klarheit-bestimmtheit-praezision`
-- `haftungsausschluss-und-haftungsbegrenzung`
-- `bedingungen-aufschiebend-aufloesend-fristen`
-- `kuendigungsklauseln-und-vertragsbeendigung`
 
 ## Quellen (Stand 05/2026)
 

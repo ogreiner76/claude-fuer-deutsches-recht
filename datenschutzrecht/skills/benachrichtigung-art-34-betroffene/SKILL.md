@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zur Form der Benachrichtigung und zu Sammel
 
 Art. 12; Art. 34 Abs. 1; Art. 34 Abs. 2; Art. 34 Abs. 3 DSGVO; § 29 BDSG.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Benachrichtigungsschreiben
 
 Betreff: Wichtige Information zu einem Datenschutzvorfall.
@@ -67,3 +63,4 @@ Mit freundlichen Grüßen, [Geschäftsleitung]
 
 - `dsv-benachrichtigung-art-34-schwelle-hohes-risiko` deckt die Schwellenwertentscheidung ab.
 - `dsv-benachrichtigung-art-34-ausnahmen` deckt die Ausnahmen ab.
+

@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Vollzug mit Behörden – Genehmigungen, Vorka
 
 # Notariat im Alltag: Vollzug mit Behörden – Genehmigungen, Vorkaufsrechtszeugnis, Negativattest
 
-## Arbeitsbereich
-
-Notariat im Alltag: Vollzug mit Behörden – Genehmigungen, Vorkaufsrechtszeugnis und Negativattest. Behördenkommunikation beim Grundstücksvollzug, BauGB-Vorkaufsrecht, Genehmigungsverfahren und Attestbeschaffung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Wenn Minderjährige oder Betreute an Grundstücksgeschäften beteiligt sind, bra
 - **Vollzugsampel** (welche Genehmigungen fehlen noch?)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

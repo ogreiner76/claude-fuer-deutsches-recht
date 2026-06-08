@@ -22,22 +22,6 @@ Reiter 2 folgt der Excel-Vorlage. Spalten:
 | Unterschriftsstatus | vollstaendig / fragwuerdig / Entwurf |
 | Anmerkung | Fundort, Urkundsnummer, Auffaelligkeiten |
 
-## Vorgehen
-1. Alle Dokumente aus Reiter 1, die `vorliegend` markiert sind, hier
-   einzeln aufnehmen.
-2. **Pro Dokument Unterschriftsbefund.** Wer hat unterschrieben?
-   Stimmt das mit der Vertretungsregelung im Handelsregister, im
-   Gesellschaftsvertrag oder in der Vollmacht ueberein?
-3. **Auffaelligkeiten in der Anmerkungsspalte.** Beispiele:
-   - Original im Tresor, Kopie nur als Scan
-   - Unterschrift weicht ab vom Handelsregister
-   - Datum nachgetragen, Streichung im Vertragstext
-   - Fehlende Anlage, fehlende Paraphierung der Anlagen
-4. **Querverweise auf Reiter 3.** Wenn ein Dokument hier liegt, aber eine
-   Anlage fehlt: die Anlage gehoert nach Reiter 3 (Fehlend).
-5. **Querverweis auf den Skill unterschriftspruefung.** Befund dort
-   detailliert dokumentieren, hier nur Kurzhinweis.
-
 ## Anwendungsbeispiel
 LausitzStorage-Akte: Reiter 2 enthaelt 16 vorliegende Dokumente. Drei
 davon haben `fragwuerdig` als Unterschriftsstatus:
@@ -64,3 +48,4 @@ davon haben `fragwuerdig` als Unterschriftsstatus:
 Reiter 2 ist die Lieferquelle fuer die Skills unterschriftspruefung,
 copy-paste-fehler-erkennung, diskrepanzen-aufdecken. Sauber gebauter
 Reiter 2 spart Stunden in den Folgeschritten.
+

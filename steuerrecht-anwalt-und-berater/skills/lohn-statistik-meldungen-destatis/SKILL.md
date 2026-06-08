@@ -85,11 +85,6 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 - Bestaetigungs-E-Mail.
 - Folge-Aufforderungen vermerken.
 
-## Output
-
-- Statistik-Meldung an Destatis.
-- Versandbestaetigung in Mandantenakte.
-
 ## Strategie und Praxis-Tipps
 
 - Aufforderungen rechtzeitig erkennen — wenn beim Mandanten landet, oft uebersehen.
@@ -98,12 +93,6 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 - Bei sehr kleinen Mandanten (wenig AN): Befreiung von der Stichprobe pruefen.
 - StBVV: Statistik-Meldung als Sonderauftrag (Zeithonorar).
 - DATEV-Tipp: DATEV LODAS Statistik-Schnittstelle nutzen.
-
-## Querverweise
-
-- `stb-lohn-jahresmeldungen-ahn-asn-besondere` — Jahresmeldungen.
-- `stb-lohn-monatsende-meldepflichten-checkliste` — Meldepflichten.
-- `stb-lohn-sv-meldungen-dakota-svnet` — sv.net.
 
 ## Quellen und Updates
 
@@ -116,10 +105,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (Paragraphennummerierung BStatG Pruefhinweis ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

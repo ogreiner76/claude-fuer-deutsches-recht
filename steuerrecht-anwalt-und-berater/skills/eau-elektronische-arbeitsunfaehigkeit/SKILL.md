@@ -87,24 +87,12 @@ Lohnabrechnung mit Entgeltfortzahlung-Anteil
 - HR-Abteilung schulen.
 - Schnittstellen-Wartung.
 
-## Output
-
-- eAU-Schnittstelle aktiv.
-- Krankheits-Lohnabrechnung automatisch.
-
 ## Strategie und Praxis-Tipps
 
 - eAU ist Effizienz-Vorteil — keine Papierabholung mehr.
 - Bei PKV-Versicherten: traditionelles Verfahren parallel.
 - Schnittstellen-Stoerungen: rechtzeitig Test (insbesondere zum Jahreswechsel).
 - DATEV-Tipp: DATEV LODAS eAU-Modul mit automatischem Abruf.
-
-## Querverweise
-
-- `stb-lohn-krankheit-entgeltfortzahlung-efzg` — Krankheit.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-datev-lohn-modul-lodas-luh` — DATEV LODAS.
-- `stb-lohn-meldungen-sv-elstam-zugang` — SV-Meldungen.
 
 ## Quellen und Updates
 
@@ -117,10 +105,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (generischer Programmpfad-Hinweis, nicht versionsspezifisch belegbar, Verweis auf Onlinehilfe) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bu
 
 # China-Strategie der Bundesregierung: Unternehmensumsetzung
 
-## Arbeitsbereich
-
-Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,13 +78,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
 
-## Output
-
-Gap-Analyse bestehender Compliance vs. China-Strategie 2023, priorisierter Maßnahmenplan, Board-Memo-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
-
 ## Quellen
 
 Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
@@ -98,3 +87,4 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BAFA Außenwirtschaft](https://www.bafa.de/DE/Aussenwirtschaft/aussenwirtschaft_node.html)
+

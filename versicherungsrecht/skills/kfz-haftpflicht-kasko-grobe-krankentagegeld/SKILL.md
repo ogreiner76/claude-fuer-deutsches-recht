@@ -5,10 +5,6 @@ description: "Kfz-Haftpflichtversicherung: Außenregulierung, Innenregress, Obli
 
 # Kfz-Haftpflicht: Regress bei Alkohol, Flucht, Obliegenheit
 
-## Arbeitsbereich
-
-Kfz-Haftpflichtversicherung: Außenregulierung, Innenregress, Obliegenheitsverletzung, Alkohol, Unfallflucht, Fahrerlaubnis und Regresshöchstgrenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Kfz-Haftpflichtversicherung: Außenregulierung, Innenregress, Obliegenheitsverle
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Für Mandate, in denen die Haftpflicht zwar den Dritten bezahlt, dann aber den Versicherungsnehmer regressiert.
 
 ## Normenanker
 
@@ -38,17 +30,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 VVG §§ 28, 116; PflVG; AKB; StVG; StGB § 142 als Sachkontext.
 
-## Arbeitsfragen
-
-1. Welche Pflichtverletzung wird regressbegründend behauptet?
-2. Welche Regressgrenze und AKB-Regel gilt?
-3. War die Pflichtverletzung kausal oder vorsätzlich?
-4. Welche Straf-/OWi-Akte beeinflusst die Beweisführung?
-
-## Output
-
-Regressabwehr, Kausalitätsargumente, Zahlungs-/Ratenvergleich und Schnittstelle Strafverfahren.
-
 ## Red Flags
 
 - Strafurteil ungeprüft übernommen
@@ -61,6 +42,3 @@ Regressabwehr, Kausalitätsargumente, Zahlungs-/Ratenvergleich und Schnittstelle
 - kfz-kasko-grobe-fahrlaessigkeit-entwendung
 - subrogation-regress-86-vvg
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren; sonst nur als Prüfpunkt formulieren.

@@ -5,10 +5,6 @@ description: "Deutsches Kanzleiteam muss auslaendischen Anwalt für Luftfracht-M
 
 # Luftfracht – Local Counsel briefen
 
-## Arbeitsbereich
-
-Deutsches Kanzleiteam muss auslaendischen Anwalt für Luftfracht-Mandat briefen: Montreal Convention Haftung Gefahrgutvorfall oder Frachtführer-Insolvenz. Skill erstellt englisches Briefing-Memo mit Sachverhalt deutschem Recht und konkreten Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,6 +43,7 @@ Montreal Convention LuftVG HGB § 440 IATA DGR InsO – die einschlägigen Norme
 - **LuftVG § 44**: Nationale Verweisung auf Montrealer Übereinkommen für innerdeutsche Flüge.
 - **EU-VO 300/2008 und DVO 2015/1998**: Sicherheitsanforderungen für Luftfracht; ACC3 und RA/KC-Status.
 - **HGB § 475**: Frachtführerhaftung subsidiär; nur soweit MÜ keine Regelung trifft.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -57,6 +54,7 @@ Montreal Convention LuftVG HGB § 440 IATA DGR InsO – die einschlägigen Norme
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Haftungsgrenze (22 SZR/kg) eingehalten oder Werterklärung im AWB vermerkt?
 8. Ist die Frachtkette lückenlos dokumentiert (AWB Sicherheitsdeklaration Manifest)?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -75,9 +73,6 @@ Bei grenzüberschreitenden Luftrechtsfällen ist die Koordination mit ausländis
 - **Fristen synchronisieren**: Unterschiedliche Widerspruchs- und Klagfristen in verschiedenen Rechtsordnungen; gemeinsamen Fristenkalender anlegen.
 - **Haftungsfragen**: Local Counsel haftet nach eigenem nationalen Recht; Haftungsfreistellung im Mandat klären.
 
-## Output
-
-Strukturierter Vermerk zu Luftfracht – Local Counsel briefen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Haftungsanalyse nach MÜ. AWB-Prüfschema. Schadensmeldungs-Fristenübersicht.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -106,3 +101,4 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

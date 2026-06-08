@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zu EuGH-Entscheidungen zur Auslegung Art. 5
 
 Art. 4 Nr. 16; Art. 56; Art. 60; Art. 63 DSGVO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Bestimmungsraster
 
 1. Hauptniederlassung identifizieren.
@@ -50,3 +46,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-meldung-bfdi` und `dsv-meldung-<land>` decken konkrete Einreichung ab.
+

@@ -5,10 +5,6 @@ description: "Beihilferecht für Beamte: Beihilfesatz, beihilfefähige Aufwendun
 
 # Beihilfe, Beamte, PKV und Restkosten
 
-## Arbeitsbereich
-
-Beihilferecht für Beamte: Beihilfesatz, beihilfefähige Aufwendungen, PKV-Ergänzungsversicherung, Restkosten und Antragsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Beamte finanzieren ihre Krankenversorgung aus zwei Quellen: **staatliche Beihilf
 - [BVerwG Beihilfe-Entscheidungen](https://www.bverwg.de/entscheidungen)
 - [PKV-Verband Beamte](https://www.pkv.de/wissen/beihilfe/)
 - [dejure.org BBhV](https://dejure.org/gesetze/BBhV)
+

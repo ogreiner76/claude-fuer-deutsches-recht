@@ -5,10 +5,6 @@ description: "Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, L
 
 # Aufgeschobene Bekanntmachung
 
-## Arbeitsbereich
-
-Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren und Verletzungsrisiko bei noch nicht veröffentlichter Wiedergabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,20 +17,12 @@ Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 
 
 Ein Design soll geschützt, aber noch nicht gezeigt werden.
 
-## Arbeitsweise
-
-Wäge Geheimhaltung gegen frühe Durchsetzbarkeit ab und erstelle einen Nachholkalender.
-
 ## Prüfpunkte
 
 - Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
 - Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Output
-
-Entscheidungsvorlage Aufschiebung ja/nein.
 
 ## Quellen-Hardening
 

@@ -5,10 +5,6 @@ description: "GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen: Horm
 
 # Transidentität: Geschlechtsangleichende Behandlung
 
-## Arbeitsbereich
-
-GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen: Hormontherapie, operative Eingriffe, Diagnostik, MDK-Prüfung und aktuelle BSG-Rechtsprechung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,3 +91,4 @@ Dieser Skill bearbeitet **GKV-Leistungsansprüche für transidente Personen**: H
 - [dejure.org § 27 SGB V](https://dejure.org/gesetze/SGB_V/27.html)
 - [G-BA Richtlinien](https://www.g-ba.de/richtlinien/)
 - [ICD-11 WHO](https://icd.who.int/browse11)
+

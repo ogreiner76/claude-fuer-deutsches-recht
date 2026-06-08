@@ -5,10 +5,6 @@ description: "Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendu
 
 # Gutachtenstil-Übung
 
-## Arbeitsbereich
-
-Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz Definiton Subsumtion Ergebnis, Tatbestaende, Methodenlehre Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Gutachten-Schema korrekt, Definitionen vollständig, Subsumtion in richtiger Reihenfolge, Zeitlimit simuliert. Output kommentierte Musterlösung mit Hinweisen zu Klausurtechnik. Abgrenzung zu Subsumtionslehre für reine Methodik und zu Examensvorbereitung-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,16 +12,6 @@ Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Studen
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Der Gutachtenstil ist die Grundtechnik jeder deutschen Juristenklausur. Er folgt dem Schema:
-
-**Obersatz → Definition → Subsumtion → Ergebnis**
-
-Diese Skill bewertet die Struktur einer eingereichten Klausurbearbeitung oder erzeugt einen Übungssachverhalt, auf den der Nutzer eine Lösung schreibt. Feedback ist strukturell und inhaltlich, aber die Klausur wird nie umgeschrieben — das ist Lernarbeit des Studierenden.
-
-**Kein Umschreiben. Die Unterlagen lassen die rechtliche Einordnung offen.** Der Skill zeigt Defizite, benennt Techniken, gibt maximal ein bis zwei markierte Formulierungsbeispiele zu Demonstrationszwecken — nie zur Übernahme.
 
 ## Eingaben
 
@@ -159,10 +145,6 @@ Nach 3+ Sitzungen: Fehlermuster benennen:
 - "Die Prüfungsreihenfolge ist stets korrekt; das Defizit liegt bei der Definitionsgenauigkeit."
 - "Hilfsgutachten werden nie eröffnet — auch wenn es klausurtaktisch geboten wäre."
 
-## Ausgabeformat
-
-Strukturiertes Feedback nach dem Schema in Schritt 3. Kein Umschreiben der Klausur. Die Unterlagen lassen die rechtliche Einordnung offen. Einschätzung in Notenbändern (bestanden / grenzwertig / nicht bestanden), keine Prozentzahl.
-
 ## Beispiel
 
 **Sachverhalt (Kurzfall):** A leiht B sein Fahrrad. B nutzt es für eine Woche länger als vereinbart. A verlangt Herausgabe und Schadensersatz.
@@ -184,3 +166,4 @@ Typischer Defizit-Befund: Studierende nennen § 985 BGB (Eigentumsherausgabe) vo
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

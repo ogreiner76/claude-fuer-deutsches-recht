@@ -5,10 +5,6 @@ description: "Yachtkauf: Gesamtrisikobewertung für Privater Kaeufer; Haendler; 
 
 # Yachtkauf – Risiko-Memo schreiben
 
-## Arbeitsbereich
-
-Yachtkauf: Gesamtrisikobewertung für Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bei Segel- oder Motorjacht: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: Risiko-Memo und Empfehlungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Yachtkauf
 - Schiffswertgutachten für Segel- oder Motorjacht veraltet; Marktpreise schwanken stark.
 - Memo ohne Priorisierung zeitkritischer Massnahmen fuehrt zu Untaetigkeit.
 - Vorrangglaeubigerrechte (Besatzungsloehne/Hafengebuehren) werden unterschaetzt.
-
-## Output
-Risiko-Memo (Exekutivfassung) und Empfehlungsmatrix für Segel- oder Motorjacht.
 
 ## Vertiefung: Struktur des Risiko-Memos
 Ein hochwertiges Risiko-Memo enthält: (1) Zusammenfassung und Handlungsempfehlung (Executive Summary; max. 1 Seite); (2) Schiffsdaten und aktueller Schiffswert (mit Gutachterquelle und -datum); (3) Kreditstatus (Valutastand; Zinsen; Fälligkeiten; Default-Events); (4) Sicherheitenanalyse (Hypothekenrang; Verwertungserlös-Prognose); (5) Gläubigerrangfolge (gesetzliche Vorrechte; Hypotheken; ungesicherte Forderungen); (6) Risikoszenarien (Best Case; Base Case; Worst Case); (7) Maßnahmenplan mit Zeitlinie und Verantwortlichen.
@@ -100,3 +93,4 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - BSH: https://www.bsh.de
+

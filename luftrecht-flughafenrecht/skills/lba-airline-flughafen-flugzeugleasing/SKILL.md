@@ -5,10 +5,6 @@ description: "Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde
 
 # LBA-Zuständigkeit prüfen – Behörde korrekt adressieren
 
-## Arbeitsbereich
-
-Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zuständig ist. Prueft §§ 29 31 LuftVG Zuständigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zuständigkeitsvermerk mit richtigem Adressaten für Widerspruch oder Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -40,6 +36,7 @@ Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zuständig is
 - **EU-VO 1008/2008 Art. 4**: Aufsicht durch Mitgliedstaat des Hauptgeschäftssitzes.
 - **LuftVG § 20**: Betriebsgenehmigung durch LBA für gewerblichen Linienverkehr.
 - **VwGO § 68**: Widerspruchspflicht; Widerspruch an erlassende Behörde.
+
 ## Prüfraster
 
 1. Hat LBA oder Landesbehörde den Bescheid erlassen?
@@ -63,10 +60,6 @@ Die Zuständigkeitsfrage ist bei luftrechtlichen Mandaten häufig das erste Hind
 - **LBA vs. Landesluftfahrtbehörde**: Das LBA ist für bundesrechtliche Aufgaben zuständig (Betriebsgenehmigung AOC Register); Landesbehörden überwachen den regionalen Luftverkehr und Kleinflugplätze.
 - **EASA vs. nationale Behörde**: Seit Inkrafttreten der EASA-Basisverordnung (VO 2018/1139) hat EASA Direktzuständigkeit für Zulassungen von Luftfahrzeugen und Organisationen; das LBA bleibt für betriebliche Zulassungen zuständig.
 - **Verwaltungsgericht vs. Zivilgericht**: Bescheide einer Luftfahrtbehörde sind vor dem VG anzufechten; privatrechtliche Ansprüche (Leasingstreit Schaden) gehören vor die Zivilgerichte.
-
-## Output
-
-Zuständigkeitsvermerk mit Rechtsgrundlage korrekter Behörde und Widerspruchsadressat. Fristberechnung Widerspruch/Klage.
 
 ## Quellen
 
@@ -94,3 +87,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

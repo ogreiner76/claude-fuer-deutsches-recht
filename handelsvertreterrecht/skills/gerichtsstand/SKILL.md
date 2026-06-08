@@ -65,10 +65,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Internationale Zuständigkeit nach EuGVVO nicht geprüft — Klage in falschem Staat.
 - Handelsgerichtsstand (§ 95 GVG) nicht genutzt — längere Verfahrensdauer.
 
-## Output
-
-Gerichtsstandsanalyse, Klageschrift mit Zuständigkeitsbegründung, Antrag auf Verweisung bei falschem Gericht.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +85,4 @@ ergänzen das Recht praxisnah.
 - [§ 38 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__38.html)
 - [EuGVVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
 - [Dejure § 29 ZPO](https://dejure.org/gesetze/ZPO/29.html)
+

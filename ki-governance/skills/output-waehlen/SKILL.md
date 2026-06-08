@@ -9,7 +9,6 @@ description: "Output-Wahl für KI-Governance: stimmt Adressat (Anbieter, Betreib
 
 Diese Output-Weiche für **Ki Governance** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `anbieter-mehrparteien-konflikt-und-interessen` — Anbieter Mehrparteien Konflikt und Interessen
@@ -36,12 +35,9 @@ Diese Output-Weiche für **Ki Governance** entscheidet, ob Memo, Antrag, Schrift
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei KI-Governance sofort: KI-Governance-Memo oder Risikoklassifizierung.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

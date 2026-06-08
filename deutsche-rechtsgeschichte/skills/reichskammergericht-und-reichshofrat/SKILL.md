@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Rei
 
 # Reichskammergericht und Reichshofrat
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zuständigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -66,12 +62,3 @@ Das Reichskammergericht (RKG) wurde 1495 auf dem Wormser Reichstag gegründet (R
 - RKG-Kameralakten: Landesarchive (Speyer, Frankfurt); Inventar Smend (1911)
 - Sekundaerliteratur: Bernhard Diestelkamp, Wolfgang Sellert, Klaus Malettke
 
-## Output
-
-- Strukturvergleich RKG vs. Reichshofrat: Zusammensetzung, Zuständigkeit, Verfahren
-- Wichtige RKG-Entscheidungen: Fallbeispiele aus den Kameralakten
-- Zeitleiste RKG 1495-1806 mit Reformstationen
-
-## Quellenregel
-
-RKG-Ordnung 1495: historische Druckausgaben (Neue Sammlung der Reichsabschluesse). RKG-Akten: Landesarchiv Speyer und Hauptstaatsarchiv. Sekundaerliteratur: Diestelkamp und Sellert mit Werk und Seite.

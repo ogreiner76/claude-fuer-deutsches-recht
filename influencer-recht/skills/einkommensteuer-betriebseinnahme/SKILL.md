@@ -5,10 +5,6 @@ description: "Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahm
 
 # Influencer-Recht: Einkommensteuer – Betriebseinnahme und private Nutzung
 
-## Arbeitsbereich
-
-Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Creator als Gewerbetreibende oder Freiberufler unterliegen der Einkommensteuer a
 - EÜR-Vorlage für Creator
 - Private-Nutzung-Tabelle (Schätzungsprotokoll)
 - Steueroptimierungscheck: KSK, GewSt-Anrechnung, Verlustabzug
+

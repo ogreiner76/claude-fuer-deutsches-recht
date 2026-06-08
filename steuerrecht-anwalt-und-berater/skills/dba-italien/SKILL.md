@@ -79,12 +79,6 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 ### Phase 5 — Subject-to-Tax pruefen
 ### Phase 6 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo zur DBA-Anwendung Italien.
-- Berechnungsbeispiel mit Subject-to-Tax-Pruefung.
-- BZSt-Antrag bei Beteiligungen/Lizenzen.
-
 ## Strategie und Praxis-Tipps
 
 - Subject-to-Tax-Klausel DBA-Italien war Ausgangspunkt für § 50d Abs. 9 EStG-Entwicklung — bei jeder Freistellung sauber pruefen, ob italienische Besteuerung erfolgt ist.
@@ -153,12 +147,9 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 >
 > Schritt 3: In DE: volle Versteuerung der Lizenzeinnahme als Betriebseinnahme/EStG.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-lizenzgebuehren-art-12-bzst`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Italien 18.10.1989, in Kraft 26.12.1992 (BGBl. 1990 II S. 742). Kein MLI (Italien nicht ratifiziert, Stand 01/2026). Subject-to-Tax-Klausel in Abschn. 16 Buchst. d Protokoll zum DBA-Italien. Dividenden: 5/15 Prozent; Zinsen: 10 Prozent Quellensteuer; Lizenzen: 0 Prozent. Aktuellen DBA-Text im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 6 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az angepasst oder Satz neu formuliert) -->
+

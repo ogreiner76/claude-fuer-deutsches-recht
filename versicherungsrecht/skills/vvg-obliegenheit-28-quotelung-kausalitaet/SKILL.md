@@ -5,10 +5,6 @@ description: "§ 28 VVG nach Eintritt des Versicherungsfalls: Anzeige, Aufkläru
 
 # Obliegenheitsverletzung § 28 VVG und Quotierung
 
-## Arbeitsbereich
-
-§ 28 VVG nach Eintritt des Versicherungsfalls: Anzeige, Aufklärung, Rettung, Mitwirkung, Kausalitätsgegenbeweis, Vorsatz/grobe Fahrlässigkeit und Quotierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,25 +13,9 @@ description: "§ 28 VVG nach Eintritt des Versicherungsfalls: Anzeige, Aufkläru
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Der Skill trennt echte Obliegenheit von bloßer Mitwirkungsbitte und verhindert automatische Totalablehnungen.
-
 ## Norm- und Quellenanker
 
 VVG §§ 28, 30, 31, 82, 86; AVB; BGB § 242; ZPO.
-
-## Arbeitsfragen
-
-1. Welche Obliegenheit ist vertraglich oder gesetzlich normiert?
-2. Wurde der Versicherungsnehmer korrekt über Folgen belehrt?
-3. War die Verletzung vorsätzlich, grob fahrlässig oder einfach fahrlässig?
-4. Ist der Kausalitätsgegenbeweis möglich?
-5. Welche Quote ist sachgerecht und belegbar?
-
-## Output
-
-Obliegenheitsmatrix mit Beweislast, Verschuldensgrad, Kausalität, Quote und Schriftsatzbaustein.
 
 ## Red Flags
 
@@ -49,6 +29,3 @@ Obliegenheitsmatrix mit Beweislast, Verschuldensgrad, Kausalität, Quote und Sch
 - vers-deckungsablehnung-redteam
 - vergleich-abfindung-entschaedigungsquittung
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren; sonst nur als Prüfpunkt formulieren.

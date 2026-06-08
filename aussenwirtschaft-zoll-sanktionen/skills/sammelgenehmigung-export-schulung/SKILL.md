@@ -5,10 +5,6 @@ description: "Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuh
 
 # Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung
 
-## Arbeitsbereich
-
-Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen EU001-EU008, nationale AGG, globale Einzelgenehmigungen; Voraussetzungen ICP, Berichtspflichten und Ablauf des Antragsverfahrens ueber ELAN-K2. Output: Sammelgenehmigungsantrag und Nutzungsprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen
 - Nutzungsprotokoll fehlt; bei Pruefung Nachweis nicht moeglich.
 - Globale Genehmigung abgelaufen; Zeitlucke zwischen altem und neuem Antrag.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-AGG-Anwendbarkeitsmatrix, Sammelgenehmigungsantrag ueber ELAN-K2, Nutzungsprotokoll-Vorlage und Berichtspflichten-Kalender.
-
 ## Quellen
 
 - [VO (EU) 2021/821 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
 - [BAFA Allgemeine Genehmigungen](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Dual_Use/Allgemeine_Genehmigungen/allgemeine_genehmigungen_node.html)
 - [BAFA ELAN-K2](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/ELAN_K2/elan_k2_node.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
+

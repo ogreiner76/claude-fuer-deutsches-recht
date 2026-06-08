@@ -123,9 +123,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Bundeskartellamt, Leitfaden Clean Team 2019 — kartellrechtlicher Clean Team-Betrieb; nur ausgewaehlte, operativ unabhaengige Personen erhalten Zugang zu wettbewerbssensiblen Informationen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gap-Analyse: Bewertungsmatrix
 
 | Status | Bedeutung | Handlung |
@@ -196,3 +193,4 @@ Verpflichtungen unterschrieben: [Ja/Nein]
 - Art. 5, 28 DSGVO; §§ 1, 19 GWB; § 17 UWG; Art. 18 MAR
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5
+

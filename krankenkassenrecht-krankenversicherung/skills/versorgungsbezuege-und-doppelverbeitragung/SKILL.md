@@ -5,10 +5,6 @@ description: "Kritische Analyse der Doppelverbeitragung von Betriebsrenten in de
 
 # Versorgungsbezüge und Doppelverbeitragung
 
-## Arbeitsbereich
-
-Kritische Analyse der Doppelverbeitragung von Betriebsrenten in der GKV: Rechtslage, Reform 2020, Freibetrag, laufende Verfahren und Gestaltungsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -89,6 +85,7 @@ Die Doppelverbeitragung von Betriebsrenten ist ein politisch und rechtlich umstr
 - [BSG B 12 KR 5/21 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [GKV-Spitzenverband Betriebsrente](https://www.gkv-spitzenverband.de)
 - [dejure.org § 229 SGB V](https://dejure.org/gesetze/SGB_V/229.html)
+
 ## Hinweis: BVerfG-Entscheidung 2023 und Reaktion des Gesetzgebers
 
 - BVerfG 1 BvL 3/18 (August 2023): Doppelverbeitragung von Direktversicherungen verfassungswidrig, soweit keine steuerliche Förderung in der Ansparphase erfolgte
@@ -101,3 +98,4 @@ Die Doppelverbeitragung von Betriebsrenten ist ein politisch und rechtlich umstr
 - [§ 229 SGB V – Versorgungsbezüge](https://www.gesetze-im-internet.de/sgb_5/__229.html)
 - [BVerfG 1 BvL 3/18 – Direktversicherung](https://www.bverfg.de/e/ls20230627_1bvl000318.html)
 - [GKV-Spitzenverband – Beitragsrecht](https://www.gkv-spitzenverband.de)
+

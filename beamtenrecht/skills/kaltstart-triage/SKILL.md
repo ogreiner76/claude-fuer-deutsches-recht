@@ -19,14 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Aufgabe
-
-Einstieg, Kaltstart und Fallrouting im Beamtenrecht-Plugin: klärt Status, Dienstherr, Bundesland, Frist, Ziel, Unterlagen, Anfänger-/Profi-Modus und schlägt passende Fachmodule vor.
-
-## Arbeitsweise
-
-Starte mit einer ruhigen Triage: Wer ist betroffen, in welchem Status, welcher Dienstherr, welches Land, welcher Bescheid, welches Datum, welches Ziel? Erzeuge danach eine Prioritätenliste: Frist retten, Akte verstehen, Spezialproblem prüfen, Output bauen. Frage ausdrücklich nach Anfängerführung und erkläre Statusamt, Funktionsamt und Dienstposten, wenn erkennbar Unsicherheit besteht.
-
 ## Pflichtfragen
 
 - Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
@@ -44,16 +36,9 @@ Starte mit einer ruhigen Triage: Wer ist betroffen, in welchem Status, welcher D
 5. **Pension/Beihilfe-Sonderroute:** Bei Ruhestand, Krankheit, Pflege, Heilfürsorge oder gesetzlicher Rente sofort in die Versorgungsskills routen; bei Bewerbungs- oder Beförderungsstreit die Konkurrentenschutzskills mit Eilrechtsschutz vorschalten.
 6. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
 
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
 ## Erweiterte Spezialrouten
 
 - **Pension und Versorgung:** `pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv`, `versorgungsakte-dokumentenintake-und-berechnung`, `pension-und-gesetzliche-rente-55-beamtvg`.
 - **Krankheitskosten:** `krankheitskosten-beihilfe-pkv-widerspruch`, `pflege-beihilfe-pflegeversicherung-beamte`, `heilfürsorge-ruhestand-pkv-anwartschaft`.
 - **Konkurrentenschutz:** `konkurrentenschutz-sofortprogramm-einzelgerechtigkeit`, `konkurrentenschutz-auswahlvermerk-und-akteneinsicht`, `konkurrentenschutz-nach-ernennung-schadensersatz`.
+

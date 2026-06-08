@@ -5,10 +5,6 @@ description: "Slot-Zuweisung ist mit Auflagen verbunden oder Slot-Nutzung wird d
 
 # Slot – Sicherheitsauflage bewerten
 
-## Arbeitsbereich
-
-Slot-Zuweisung ist mit Auflagen verbunden oder Slot-Nutzung wird durch LuftSiG-Auflage eingeschraenkt. Skill prueft VO EWG 95/93 Auflagen-Moeglichkeiten LuftSiG-Verbot und Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,6 +41,7 @@ VO EWG 95/93 Art. 10 LuftVG §§ 27a-27d LuftSiG VwVfG § 36 – die einschlägi
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
 - **LuftVG § 27a**: Deutsche Koordinierungsstelle (Fluko); Rechtsstellung und Aufgaben.
 - **BVerwG Urt. v. 26.01.2012 – 3 C 8.11**: Slot-Entzug als Verwaltungsakt; Rechtsweg VG.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -55,6 +52,7 @@ VO EWG 95/93 Art. 10 LuftVG §§ 27a-27d LuftSiG VwVfG § 36 – die einschlägi
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist die 80/20-Nutzungsquote (VO EWG 95/93 Art. 8) im letzten IATA-Season eingehalten?
 8. Sind Force-Majeure-Ausnahmen (COVID-Pandemie-Sonderregeln) korrekt beantragt?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -73,9 +71,6 @@ Sicherheitsauflagen im Luftrecht müssen auf Verhältnismäßigkeit und Rechtsgr
 - **Verhältnismäßigkeit**: BVerfG-Rechtsprechung zu Grundrechtseingriffen; Einschränkung der Berufsfreiheit (Art. 12 GG) nur durch geeignete erforderliche und angemessene Maßnahme.
 - **Eilrechtsschutz**: § 80 Abs. 5 VwGO bei sofortigem Vollzug; Interessenabwägung Sicherheitsinteresse vs. Eingriff.
 
-## Output
-
-Strukturierter Vermerk zu Slot – Sicherheitsauflage bewerten mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Slot-Portfolio-Analyse mit Nutzungsnachweis. Koordinatoren-Schreiben-Template.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -105,3 +100,4 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

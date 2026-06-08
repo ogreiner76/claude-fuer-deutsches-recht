@@ -9,7 +9,6 @@ description: "Output-Wahl für Geldwäscheprävention AML/KYC: stimmt Adressat (
 
 Diese Output-Weiche für **Geldwaeschepraevention Aml Kyc** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `aml-kryptotransaktionen-mica-spezial` — AML Kryptotransaktionen Mica Spezial
@@ -36,12 +35,9 @@ Diese Output-Weiche für **Geldwaeschepraevention Aml Kyc** entscheidet, ob Memo
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Geldwäscheprävention AML/KYC sofort: KYC-Dossier oder SAR-Entwurf.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

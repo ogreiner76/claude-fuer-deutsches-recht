@@ -5,10 +5,6 @@ description: "Verlagsrecht: Plagiat im Manuskript — Rechtliche Grundlagen, Pr�
 
 # Verl-020 · Plagiat, Manuskript und Quellenprüfung
 
-## Arbeitsbereich
-
-Verlagsrecht: Plagiat im Manuskript — Rechtliche Grundlagen, Prüfverfahren, Vertragsklauseln, Haftung des Autors, Reaktion bei Plagiatsfund und Rückruf nach Erscheinen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -132,3 +128,4 @@ Plagiate in Verlagswerken können zum **Vertragsrücktritt, Haftungsansprüchen,
 - **Rücktrittsschreiben** (bei erheblichem Plagiat)
 - **Titelrückruf-Protokoll**: Rückrufverfahren, Händleranschreiben
 - **Freistellungs-Rechnung** an Autor nach Plagiatshaftung
+

@@ -5,13 +5,6 @@ description: "Grenzfall-Skill zur Abgrenzung konventioneller Software, Automatio
 
 # Abgrenzung: Konventionelle Software versus KI-System
 
-## Zweck
-
-Dieser Skill wird verwendet, wenn der Nutzer nicht sicher ist, ob eine Anwendung nur konventionelle Software oder bereits ein KI-System ist. Er vertieft die Art.-3-Nr.-1-Prüfung und verhindert zwei typische Fehler:
-
-- KI-VO-Pflichten werden unnötig auf rein deterministische Software gezogen.
-- KI-Komponenten werden übersehen, weil sie in normale Software, Workflows oder externe APIs eingebettet sind.
-
 ## Leitgedanke
 
 Automation ist ein starkes Warnsignal, aber kein alleiniger Test. Entscheidend ist, ob das System aus Eingaben ableitet, wie Vorhersagen, Inhalte, Empfehlungen oder Entscheidungen erzeugt werden. Autonomie muss vorhanden sein, darf aber nicht überhöht werden: Auch ein Mensch-in-der-Schleife-System kann KI sein, wenn die Ausgabe inferenzbasiert entsteht.
@@ -119,14 +112,6 @@ System / Komponente: [NAME]
 
 Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1 KI-VO, Erwägungsgrund 12 und die Kommissionsleitlinien zur Definition des KI-Systems. Keine Rechtsberatung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -155,3 +140,4 @@ Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1 KI-VO, Erwägungsgrund 12 und die 
 - KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
 - Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
 - GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.
+

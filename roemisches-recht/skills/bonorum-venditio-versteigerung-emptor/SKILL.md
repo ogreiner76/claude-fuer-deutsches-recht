@@ -5,10 +5,6 @@ description: "Bonorum venditio: Versteigerung des Schuldnervermoegens als univer
 
 # Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor
 
-## Aufgabe
-
-Skill für die bonorum venditio.
-
 ## Rechtsquelle
 
 - D. 42.4-42.5.
@@ -63,7 +59,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.

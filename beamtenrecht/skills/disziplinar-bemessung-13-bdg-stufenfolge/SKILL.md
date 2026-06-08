@@ -5,10 +5,6 @@ description: "Maßnahmebemessung im Disziplinarrecht: § 13 BDG, Schwere des Die
 
 # Disziplinarmaßnahme bemessen - § 13 BDG und Stufenfolge
 
-## Arbeitsbereich
-
-Maßnahmebemessung im Disziplinarrecht: § 13 BDG, Schwere des Dienstvergehens, Vertrauensverlust, Persönlichkeitsbild, Entlastung, Milderung, Zeitablauf und Stufenfolge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,13 +46,7 @@ Disziplinarrecht ist keine Strafzumessung mit Uniform. Maßgeblich ist, welche M
 | Dauer | Augenblicksversagen, Serie, Vertuschung. |
 | Entlastung | Selbstanzeige, Schadenswiedergutmachung, Belastungssituation, Therapie. |
 
-## Output
-
-- Maßnahmevorschlag mit Alternativen.
-- Behördenentwurf einer Disziplinarverfügung.
-- Verteidigungsstellungnahme mit Milderungsgesichtspunkten.
-- Tabellenvergleich: Vorwurf - Beweis - Gewicht - Rechtsfolge.
-
 ## Wichtig
 
 Der Skill zitiert keine angeblichen Vergleichsfälle aus privaten Datenbanken. Wenn Vergleichsrechtsprechung genutzt wird, dann nur nach Live-Verifikation mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

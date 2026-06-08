@@ -5,9 +5,6 @@ description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft
 
 # EU Agrarfoerderung GAP Direktzahlungen Hoefe
 
-## Arbeitsbereich
-
-**EU Agrarfoerderung GAP Direktzahlungen Hoefe** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt agrarrecht eu agrarfoerderung, Beratung zum Sammelantrag GAP-Direktzahlungen nach der, Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "EU Agrarfoerderung GAP Direktzahlungen Hoefe im Agrarrecht: prüft
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-agrarrecht-eu-agrarfoerderung`
@@ -143,10 +141,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Fokus:** Beratung zum Sammelantrag GAP-Direktzahlungen nach der GAP-Reform 2023. Konditionalitaet (GLOEZ-Standards) Oeko-Regelungen Junglandwirte-Praemie gekoppelte Stuetzung. Sanktionen bei Verstoessen Querprüfung HIT-Datenbank. Antragsfristen 15. Mai mit Verspaetungs-Aenderung. Vorprüfung Risiko-Check Antragstellung Einspruch.
 
 ### Sammelantrag GAP-Direktzahlungen
-
-## Zweck
-
-Beratung bei der Antragstellung für Direktzahlungen nach der GAP-Reform 2023 (VO (EU) 2021/2115; GAPDZG, GAPInVeKoSG). Prüfraster, Risiken, Fristen.
 
 ## 1) Eingangs-Abfrage
 
@@ -372,3 +366,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+

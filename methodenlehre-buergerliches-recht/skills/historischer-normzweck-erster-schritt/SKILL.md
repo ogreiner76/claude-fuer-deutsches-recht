@@ -53,10 +53,6 @@ description: "Leitet durch die historische Auslegung als notwendigen ersten Schr
 - BGB-Motive und Protokolle werden als abschließende Normdeutung missverstanden, obwohl sie Auslegungshilfen sind.
 - Historische Auslegung wird übersprungen, weil das Ergebnis scheinbar bekannt ist — dann fehlt die Begründungstiefe.
 
-## Output
-
-Das Skill liefert eine historische Auslegungsanalyse: Entstehungskontext der Norm, relevante Gesetzgebungsmaterialien, historischer Normzweck und Fallgruppenidentifikation, Zeitwandelprüfung und methodische Einordnung für die Gesamtauslegung. Verwendbar als Grundlagenteil eines Gutachtens oder Schriftsatzes.
-
 ## Vertiefung: Zeitwandel und evolutive Auslegung
 
 Auch wer dem historischen Normzweck großes Gewicht beimisst, muss die Frage stellen, ob sich dieser Zweck durch Zeitwandel überholt hat. Evolutive Auslegung berücksichtigt, dass gesellschaftliche Verhältnisse sich verändern und der historische Zweck in einem neuen Kontext möglicherweise durch andere Mittel erreicht werden muss. Dies ist kein Widerspruch zum historischen Ansatz, sondern seine konsequente Fortführung.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 2 EGBGB – Verhältnis neues altes Recht](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

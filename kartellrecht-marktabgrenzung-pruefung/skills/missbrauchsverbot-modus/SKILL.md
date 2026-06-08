@@ -5,10 +5,6 @@ description: "Unternehmen in marktbeherrschender Stellung soll auf Missbrauch ge
 
 # Missbrauchsverbot — Modus
 
-## Arbeitsbereich
-
-Unternehmen in marktbeherrschender Stellung soll auf Missbrauch geprüft werden oder Wettbewerber klagt auf Missbrauch. Prüft Marktabgrenzung und Missbrauchstatbestaende Art. 102 AEUV § 19 GWB. Prüfraster Behinderungsmissbrauch (Kampfpreise Margin Squeeze Refusal to Deal Selbstbeguenstigung) Ausbeutungsmissbrauch (ueberhoeahte Preise). Marktbeherrschung als Voraussetzung Kausalität Stellung und Missbrauch. Output Marktstellungs-Missbrauchs-Prüf-Memo mit Risikoampel und Verfahrensstrategie. Abgrenzung: paragraf-18-gwb-prüfung für isolierte Marktbeherrschungs-Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,9 +77,6 @@ Zwischenstaatlichkeitsklausel: Spürbare Beeinträchtigung des Handels zwischen 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfprotokoll Missbrauch
 
 ```
@@ -95,3 +88,4 @@ Objektive Rechtfertigung: [ja / nein]
 Zwischenstaatlichkeit: [erfüllt / nicht erfüllt]
 Ergebnis: [missbräuchlich / nicht missbräuchlich / offen]
 ```
+

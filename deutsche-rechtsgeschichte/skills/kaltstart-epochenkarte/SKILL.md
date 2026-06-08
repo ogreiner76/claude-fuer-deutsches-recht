@@ -72,12 +72,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Epochentabelle mit Quellen, Schluesselnoemen und Schluesselpersonen
-- Kurzbeschreibung der Methodenwechsel je Epoche
-- Hinweise auf verfuegbare Digitalisate (ALEX, documentArchiv.de, MGH online)
-
-## Quellenregel
-
-Primaerquellen ueber documentArchiv.de (WRV, GG-Urtext), Reichsgesetzblatt via ALEX/OeNB, MGH für mittelalterliche Quellen. BGB-Materialien: Mugdan, Die gesamten Materialien zum BGB (6 Bde., 1899). Unsicherheit sichtbar lassen.

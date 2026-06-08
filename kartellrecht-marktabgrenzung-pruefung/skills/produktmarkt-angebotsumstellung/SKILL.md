@@ -5,10 +5,6 @@ description: "Prüft angebotsseitige Substitution (Supply-Side Substitution): Ka
 
 # Produktmarkt — Angebotsseitige Substitution
 
-## Arbeitsbereich
-
-Prüft angebotsseitige Substitution (Supply-Side Substitution): Kann ein anderer Anbieter kurzfristig und ohne erhebliche Kosten auf den relevanten Markt wechseln? Bewertet Umstellungskosten regulatorische Anforderungen Zertifizierungen und Zeitaufwand. Grenzt Supply-Side Substitution vom potenziellen Wettbewerb ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,6 +79,3 @@ Supply-Side Substitution **bestätigt / widerlegt / offen** mit Hauptbegründung
 - EK, Marktdefinitionsbekanntmachung 2024 Rn. 40-60 — Supply-Side Substitution als eigenstaendiges Kriterium neben Nachfragesubstitution; Zeitraum 1 Jahr.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

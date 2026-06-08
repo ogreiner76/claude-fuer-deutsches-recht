@@ -5,10 +5,6 @@ description: "Versammlungsrecht: Polizeieinsätze, Gegenaufnahmen, Beweissicheru
 
 # Polizei Filmen Auf Versammlungen
 
-## Arbeitsbereich
-
-Versammlungsrecht: Polizeieinsätze, Gegenaufnahmen, Beweissicherung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Presse- und Versammlungsfreiheit, Vor-Ort-Kommunikation und Nachbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -60,13 +56,6 @@ Ich halte Abstand und dokumentiere nur die öffentliche Amtshandlung zur Beweiss
 4. Bei Wegnahme des Geräts: Herausgabe, Rechtmäßigkeit, Datenumfang, Entsperrung und Auswertung gesondert prüfen.
 5. Bei Strafvorwurf: an `strafrecht-polizeifilmerei-201-stgb-kug-verteidigung` routen.
 
-## Output
-
-- Vor-Ort-Karte für Versammlungsleitung und Ordner.
-- Beweissicherungsplan.
-- Widerspruchsnotiz gegen Filmverbot/Identitätsfeststellung.
-- Veröffentlichungsampel: intern sichern, anwaltlich verwenden, verpixeln, nicht veröffentlichen, pressefähig.
-
 ## Quellen Und Rechtsprechung
 
 - KunstUrhG §§ 22, 23, 33; StGB §§ 201, 201a; GG Art. 5, Art. 8.
@@ -80,3 +69,4 @@ Ich halte Abstand und dokumentiere nur die öffentliche Amtshandlung zur Beweiss
 - Sind Anfertigung, Speicherung, Weitergabe, Livestream und Veröffentlichung getrennt?
 - Wird § 201 StGB ernst genommen, aber nicht pauschal überdehnt?
 - Werden Polizeibehauptungen zur „Vertraulichkeit“ konkret geprüft statt einfach übernommen?
+

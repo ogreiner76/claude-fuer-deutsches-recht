@@ -5,10 +5,6 @@ description: "KI-Outsourcing für Kanzleien und Rechtsabteilungen: Mandatsgeheim
 
 # Kanzlei-KI-Outsourcing und Berufsgeheimnis
 
-## Arbeitsbereich
-
-KI-Outsourcing für Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ KI-Outsourcing für Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsv
 - Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Der Skill erzeugt eine belastbare Prüfung, ob eine Kanzlei oder Rechtsabteilung ein KI-System für Aktenanalyse, Recherche, Dokumentenentwurf, Übersetzung oder Review einsetzen darf.
 
 ## Norm- und Berufsrechtsanker
 
@@ -51,6 +43,3 @@ Erstelle bei Bedarf:
 - Kanzleiinterne Freigabematrix.
 - Verbotene Nutzungen.
 
-## Qualitätsregel
-
-Nicht abstrakt "Cloud ist verboten" oder "Cloud ist erlaubt" sagen. Entscheidend ist die konkrete Datenklasse, technische Kontrolle und berufliche Verantwortlichkeit.

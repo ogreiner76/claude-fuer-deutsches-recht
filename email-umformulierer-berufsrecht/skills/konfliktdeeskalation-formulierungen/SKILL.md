@@ -26,9 +26,6 @@ Dieser Skill stellt eine kuratierte Sammlung deeskalierender Formulierungsbauste
 - § 278 ZPO — Gueteverhandlung: Gericht foerdert Einigung; kooperativer Ton staerkt Glaubwuerdigkeit
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot als Grundlage deeskalierender Kommunikation
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prinzipien der Deeskalation
 
 Deeskalierende Kommunikation folgt vier Grundprinzipien: (1) Verständnis zeigen ohne zuzustimmen — man nimmt die Perspektive zur Kenntnis, ohne sie zu teilen. (2) Sachlichkeit einfordern ohne zu provozieren — man benennt das Kommunikationsproblem, ohne es dem Adressaten anzulasten. (3) Konstruktiven Ausblick geben — man zeigt einen Weg zur Klärung auf. (4) Gemeinsame Interessen betonen — man hebt hervor, was beide Seiten wollen.
@@ -57,6 +54,3 @@ Deeskalierende Kommunikation folgt vier Grundprinzipien: (1) Verständnis zeigen
 
 § 43a Abs. 3 BRAO verlangt sachliche Kommunikation. Deeskalation ist berufsrechtlich nicht vorgeschrieben, aber strategisch klug: Sie hält die Kommunikation offen und vermeidet unnötige Eskalation, die häufig zu berufsrechtlich problematischen Reaktionen auf beiden Seiten führt. § 17 BORA (außergerichtliche Streitbeilegung) unterstreicht den Wert einvernehmlicher Lösungen.
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Vorgeschlagene Deeskalations-Bausteine passend zur Situation. (2) Hinweis auf die Funktion jedes Bausteins. (3) Überarbeiteter Gesamttext mit integrierten Deeskalationselementen.

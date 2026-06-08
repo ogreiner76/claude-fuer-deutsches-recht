@@ -5,10 +5,6 @@ description: "Mystery-Shopping im Franchisesystem rechtlich absichern: Beweisver
 
 # Franchiserecht: Mystery Shopping – Beweis und Datenschutz
 
-## Arbeitsbereich
-
-Mystery-Shopping im Franchisesystem rechtlich absichern: Beweisverwertung von Testkäufen, Datenschutzkonformität nach DSGVO und BDSG, Offenbarungspflicht gegenüber dem Franchisenehmer und Einsatz als Kündigungsgrundlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber setzt Mystery-Shopper ein, um die Qualitätseinhaltung seiner
 - Keine vertragliche Grundlage für Mystery-Shopping; Einholung solcher Berichte kann als unerlaubte Überwachung gewertet werden.
 - Berichte werden unbegrenzt gespeichert und in späteren Verfahren verwendet, ohne Prüfung der Aktualität.
 
-## Output
-
-- Mystery-Shopping-Protokoll-Vorlage (datenschutzkonform)
-- Vertragsklausel für Mystery-Shopping-Recht im Franchise
-- Datenschutz-Folgenabschätzung (DSFA-Vorlage)
-- Beweissicherungsplan für Sanktionsverfahren
-
 ## Quellen
 
 - https://gesetze-im-internet.de/dsgvo/art_6.html
@@ -71,6 +60,7 @@ Ein Franchisegeber setzt Mystery-Shopper ein, um die Qualitätseinhaltung seiner
 - https://dejure.org/gesetze/BGB/242.html
 - https://dejure.org/gesetze/BGB/339.html
 - https://dejure.org/gesetze/BGB/280.html
+
 ## Vertiefung
 
 Mystery-Shopping ist eine etablierte Methode der Qualitätskontrolle, die datenschutzrechtlich jedoch komplex ist: Wenn der Testkäufer als normaler Kunde auftritt und dabei Mitarbeiterdaten erhebt (z. B. Namensnennung, Verhalten), greift der Beschäftigtendatenschutz nach § 26 BDSG. Eine verdeckte Überwachung ohne Informationspflicht ist nach der DSGVO grundsätzlich nur zulässig, wenn berechtigte Interessen überwiegen.
@@ -84,7 +74,10 @@ Für die Beweiskraft des Mystery-Shopping-Berichts im Gerichtsverfahren ist ents
 - Daten der beim Testkauf interagierenden Mitarbeiter nach BDSG § 26 behandeln; Löschfristen einhalten.
 - Ergebnis des Testkaufs dem Franchisenehmer innerhalb von 14 Tagen mitteilen.
 - Einzeltesteinkauf reicht für Kündigung nicht aus; mindestens 2 Testkäufe innerhalb von 3 Monaten und vorangegangene Abmahnung.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

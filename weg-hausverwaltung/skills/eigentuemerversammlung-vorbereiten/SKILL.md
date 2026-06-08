@@ -57,14 +57,6 @@ Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereit
 - **Jahresabrechnung**: TOP klar als "Abrechnungsspitzen" (Nachschüsse, Vorschussanpassung) formulieren — BGH, Urteil vom 19.07.2024, V ZR 102/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23).
 - **Schlüsseländerung**: sachlicher Grund in Begründungstext aufnehmen — BGH, Urteile vom 14.02.2025, V ZR 236/23 und V ZR 128/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+236/23 ; https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23).
 
-## Output
-
-- Versammlungsfahrplan (Termine, Zuständigkeiten, To-dos)
-- Tagesordnungsentwurf mit Beschluss-/Infopunkt-Kennzeichnung
-- Unterlagenliste
-- Beschlussreife-Ampel
-- Nachbereitungsplan (Protokoll, Beschlusssammlung, Umsetzung)
-
 ## Cross-Refs
 
 - Einladung und Fristen → `einladung-tagesordnung-fristen`
@@ -76,10 +68,3 @@ Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereit
 
 `rechtsstand-mai-2026-faktenbank` laden. § 23, § 24, § 25 WEG: https://www.gesetze-im-internet.de/woeigg/__23.html, https://www.gesetze-im-internet.de/woeigg/__24.html, https://www.gesetze-im-internet.de/woeigg/__25.html .
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

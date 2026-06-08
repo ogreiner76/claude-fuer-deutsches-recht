@@ -109,13 +109,6 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 1. BZSt-Antrag.
 2. Anlage AUS / N-AUS / KAP-INV.
 
-## Output
-
-- Mandanten-Memo DBA-Anwendung.
-- **Holding-Substanz-Memo** § 50d Abs. 3 EStG mit Indizientabelle.
-- Berechnungsbeispiel Quellensteuer und Methodenartikel.
-- BZSt-Antragsdokumentation.
-
 ## Strategie und Praxis-Tipps
 
 - Briefkasten-Soparfi ohne Personal scheitert seit AbzStEntModG-Reform 2021 regelmaessig am Substanztest — Personal-Investition aufbauen.
@@ -182,12 +175,9 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 >
 > Schritt 3: Methodenartikel Art. 22: bei aktivem Einkommen und Aktivitaetsklausel **Freistellung mit Progressionsvorbehalt** in DE — deutsche Steuerlast nur auf etwaige weitere DE-Einkuenfte, aber mit hoeherem Progressionssatz wegen LU-Lohn.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-dividenden-quellensteuer-art-10`, `stb-dba-lizenzgebuehren-art-12-bzst`, `stb-dba-home-office-pandemie-folgeregelung`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Luxemburg 23.04.2012 (BGBl. 2012 II S. 1402/1403), in Kraft 30.09.2013 (BGBl. 2014 II S. 728), ab 01.01.2014. Aend.-Prot. 06.07.2023 (BGBl. 2023 II Nr. 334), in Kraft 29.12.2023 (BGBl. 2024 II Nr. 147), ab 01.01.2024. AbzStEntModG 2021 (BGBl. 2021 I S. 1259). § 4k EStG. MLI-Notifications beim OECD-Portal pruefen; aktuelle BMF-Schreiben zu Holding-Substanz und Hybriden im BMF-Veroeffentlichungsverzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 13 Marker aufgeloest: 5 belegt (BGBl. 2012 II S. 1402/1403 bestaetigt; BGBl. 2014 II S. 728 bestaetigt; Aend.-Prot. 06.07.2023 BGBl. 2023 II Nr. 334 bestaetigt; in Kraft 29.12.2023 BGBl. 2024 II Nr. 147 bestaetigt; AbzStEntModG BGBl. 2021 I S. 1259 bestaetigt), 8 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

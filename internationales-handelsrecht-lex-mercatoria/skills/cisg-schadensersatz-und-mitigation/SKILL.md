@@ -53,12 +53,7 @@ Das CISG-Schadensersatzsystem beruht auf dem Grundsatz der vollen Kompensation (
 - Mitigation-Pflicht als eigenen Prüfpunkt anlegen
 - Zinsen Art. 78: Renvoi auf anwendbares nationales Recht nach Rom I
 
-## Output
-
-- Schadensberechnungs-Schema (Art. 74/75/76 alternativ)
-- Mitigation-Analyse: Was hätte Gläubiger tun müssen?
-- Zinsenberechnung mit Rechtswahlanalyse
-
 ## Quellenregel
 
 CISG Art. 74-78: uncitral.un.org. Rechtsprechung: CISG-online.ch, jusmundi.com. CISG Advisory Council Opinion No. 6 (Art. 74, 77). Schrifttum: Gotanda in Kröll/Mistelis/Viscasillas (2018) Art. 74. Unsicherheit bleibt sichtbar.
+

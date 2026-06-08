@@ -5,10 +5,6 @@ description: "Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sin
 
 # Kosten, Streitwert und Wirtschaftlichkeit
 
-## Arbeitsbereich
-
-Prueft Streitwert, Kostenrisiko, Abmahnkosten, wirtschaftliche Sinnhaftigkeit und Eskalationsbudget. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,3 +78,4 @@ Konkret zu prüfen:
 
 - §§ 70-87h UrhG
 - § 87f UrhG (Presseverleger)
+

@@ -5,10 +5,6 @@ description: "Prüft Vorbenutzungsrecht nach § 12 PatG: Besitzstand vor Anmeldu
 
 # Vorbenutzungsrecht § 12 PatG
 
-## Arbeitsbereich
-
-Prüft Vorbenutzungsrecht nach § 12 PatG: Besitzstand vor Anmeldung/Priorität, Benutzung oder ernsthafte Veranstaltungen, Inland, Redlichkeit, Umfang, Beweisführung und Prozessstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -34,13 +30,6 @@ Baue eine Chronologie:
 | Datum | Ereignis | Dokument/Zeuge | Beweisqualität | Bedeutung |
 | --- | --- | --- | --- | --- |
 
-## Output
-
-- Vorbenutzungs-Memo.
-- Beweismatrix.
-- Risiken für Unterlassung und Auskunft.
-- Vergleichs- und Prozessstrategie.
-
 ## Vorsicht
 
 Vorbenutzungsrecht ist kein allgemeiner Freibrief. Es schützt nicht automatisch spätere Weiterentwicklungen, andere Konzernunternehmen oder neue Produktgenerationen.
@@ -56,3 +45,4 @@ Vorbenutzungsrecht ist kein allgemeiner Freibrief. Es schützt nicht automatisch
 - **Vorbenutzungsrecht als Einrede im Verletzungsprozess:** in § 12 PatG verankert; Vorbenutzungsrecht ist KEIN Nichtigkeitsgrund.
 - **Internationale Strategie:** Im Schutzrechtsprozess das Vorbenutzungsrecht als prozessuale Einrede ausspielen; parallel die Nichtigkeitsklage erwägen (§ 22 PatG Nichtigkeit / EPÜ Einspruch).
 - Falle: Konzern-internes Joint Venture als "ein Geschäftsbetrieb" einstufen — § 12 Abs. 2 PatG eng auslegen; Auseinanderfallen rechtlicher und wirtschaftlicher Zuordnung gefährdet Vorbenutzungsrecht.
+

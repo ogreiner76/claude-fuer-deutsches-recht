@@ -5,10 +5,6 @@ description: "KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll
 
 # KI-Kunst: Lizenzierung und Kennzeichnung
 
-## Arbeitsbereich
-
-KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation für Agenturen, Verlage, Kanzleien und Unternehmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,10 +38,3 @@ KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/R
 - Nachbearbeitungs- und Austauschrecht.
 - Verbot bestimmter Referenzprompts.
 
-## Output
-
-Ein druckbarer Freigabezettel mit Ampel:
-
-- Grün: nutzbar.
-- Gelb: nur mit Anpassung/Nachlizenzierung.
-- Rot: nicht veröffentlichen.

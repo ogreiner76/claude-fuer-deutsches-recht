@@ -203,23 +203,7 @@ Arbeitsfokus: **Reviewer-Red-Team**. Prüfe diese Anker am Sachverhalt; ergänze
 - `DFG-Kodex Leitlinie 15` — Publikationsorgan und Qualitätssicherung.
 - `DFG-Verfahrensordnung Begutachtung` — Befangenheit, fachliche Passung und Entscheidungspfad live prüfen.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- **Risikomatrix** mit Brille, Schwere und Reparaturvorschlag.
-- **Drei wahrscheinlichste Ablehnungsargumente** mit konkreter Reparatur.
-- **Reparatur-Plan** priorisiert nach Schwere.
-- **Einreichungsreife-Ampel.**
-- **"Top-5 Änderungen vor Einreichung"** Liste.
-
-## Querverweise
-
-- Vorhergehender Skill: `dfg-projektbeschreibung-arbeitsprogramm`
-- Finanzplan-Kürzungsabwehr: `dfg-finanzplan-module-personal-geraete`
-- Bei Ablehnung danach: `dfg-wiedereinreichung-nach-ablehnung`
-- Formalia für letzte Schritte: `dfg-sachbeihilfe-elan-formalia`
 
 ## Quellen Stand 05/2026
 
@@ -230,10 +214,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Gutachterkriterien und Gewichtung sind in DFG-Quellen dokumentiert — vor Red-Team aktuelle Version prüfen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

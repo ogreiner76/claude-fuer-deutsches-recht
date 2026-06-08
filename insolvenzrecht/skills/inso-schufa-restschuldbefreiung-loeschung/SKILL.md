@@ -5,10 +5,6 @@ description: "SCHUFA-/Auskunfteieinträge nach Restschuldbefreiung löschen lass
 
 # Insolvenzrecht: SCHUFA nach Restschuldbefreiung
 
-## Arbeitsbereich
-
-SCHUFA-/Auskunfteieinträge nach Restschuldbefreiung löschen lassen: Insolvenzbekanntmachung, EuGH C-26/22/C-64/22, DSGVO und Neustartstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -25,23 +21,9 @@ SCHUFA-/Auskunfteieinträge nach Restschuldbefreiung löschen lassen: Insolvenzb
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Einsatz
-
-Für Schuldner nach erteilter Restschuldbefreiung mit blockierter Bonität.
-
 ## Norm- und Quellenanker
 
 InsO §§ 286 ff., 300, 301; InsBekV live prüfen; DSGVO Art. 17; EuGH 07.12.2023 C-26/22/C-64/22.
-
-## Arbeitsfragen
-
-1. Wann wurde Restschuldbefreiung erteilt?
-2. Welche Einträge stehen wo?
-3. Ist öffentliche Bekanntmachung noch abrufbar?
-
-## Output
-
-Löschungsfahrplan, Auskunfts-/Löschungsschreiben und Bonitäts-Neustartplan.
 
 ## Red Flags
 
@@ -52,3 +34,4 @@ Löschungsfahrplan, Auskunfts-/Löschungsschreiben und Bonitäts-Neustartplan.
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

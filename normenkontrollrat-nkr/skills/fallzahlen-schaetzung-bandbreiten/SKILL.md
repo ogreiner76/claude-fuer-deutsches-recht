@@ -97,14 +97,6 @@ Aus Pilotphase oder einer ersten kleinen Stichprobe hochrechnen.
 - Punktschaetzung ohne Bandbreite
 - Keine Sensitivitaet
 
-## Querverweise
-
-- `nkr-zeitwerttabelle-und-fallzahlen`
-- `nkr-standardkostenmodell-skm`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `nkr-evaluation-und-jahresbericht`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
@@ -112,3 +104,4 @@ Aus Pilotphase oder einer ersten kleinen Stichprobe hochrechnen.
 - EU Better Regulation Toolbox Tool 25
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

@@ -5,9 +5,6 @@ description: "Revision BSG Rücknahme SGB Sachstandsanfrage im Selbstvertretung 
 
 # Revision BSG Rücknahme SGB Sachstandsanfrage
 
-## Arbeitsbereich
-
-**Revision BSG Rücknahme SGB Sachstandsanfrage** ordnet den Fall über die tragenden Prüfungslinien: Revision zum BSG § 160 SGG, Aenderung von Dauerverwaltungsakten bei wesentlicher, Sachstandsanfrage und Untaetigkeitsbeschwerde im. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Revision BSG Rücknahme SGB Sachstandsanfrage im Selbstvertretung 
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `revision-bsg-160-sgg`
@@ -113,25 +111,9 @@ Oft im schriftlichen Verfahren. Bei muendlicher Verhandlung: Anwalt vertritt Sie
 - PKH zu spaet → Frist verpasst
 - Tatsachenstreit hineinbringen → BSG nur Rechtsfragen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `nichtzulassungsbeschwerde-bsg-160a-sgg` — wenn nicht zugelassen
-- `berufung-lsg-144-sgg-wertgrenze-750` — vorgelagert
-- `pkh-vor-sozialgericht-73a-sgg` — PKH
-- `anwaltszwang-pruefen-73-sgg` — Anwaltszwang
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 160 SGG aktuell. BSG-Liste zugelassener Anwaelte auf www.bsg.bund.de.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `ruecknahme-48-sgb-x-aenderung`
 
@@ -373,25 +355,9 @@ Wenn auch die Beklagte verliert, koennen die Kosten ueber § 193 SGG erstattet w
 - Kostenvorschuss nicht gezahlt → kein Gutachten
 - Falscher Fachbereich (z.B. Hausarzt statt Sozialmediziner)
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `medizinische-gutachten-strategie-laien` — Strategie
-- `widerspruch-gegen-gutachten-laien` — andere Wege
-- `kostenrisiko-vs-kostenfreiheit-laien` — Kostenrisiko
-- `pkh-vor-sozialgericht-73a-sgg` — PKH-Frage
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 109 SGG aktuell. Pruefen Sie aktuelle Gerichtskosten-Praxis bei Ihrem SG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `saeumnis-im-termin-sozialgericht`
 
@@ -515,21 +481,7 @@ Mehrfaches unentschuldigtes Versaeumnis kann zur Klagezuruecknahme-Fiktion fuehr
 - Termin vergessen → Wiedereinsetzung-Antrag stellen
 - Termin vor 3 Wochen schon verpasst → SG anrufen, was los ist
 
-## Querverweise
-
-- `ladung-termin-sozialgericht-vorbereitung` — Ladung
-- `terminvorbereitung-laien-checkliste-sozialgericht` — Vorbereitung
-- `wiedereinsetzung-frist-67-sgg` — Wiedereinsetzung
-- `fristenbuch-fuehren-laien-sozialgericht` — Fristen sicher
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 110 SGG aktuell.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

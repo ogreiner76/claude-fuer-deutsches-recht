@@ -51,10 +51,6 @@ description: "Dieses Skill strukturiert die historische und compliance-relevante
 - Digitale Dokumente werden ohne Metadaten gespeichert, was ihre zeitliche Einordnung und Authentizität schwächt.
 - Mündliche Verhandlungsergebnisse werden nicht protokolliert, was ihre spätere Beweisbarkeit ausschließt.
 
-## Output
-
-Das Skill liefert eine strukturierte Aktenübersicht mit Dokumentenklassifizierung, Aufbewahrungsfristen und einer historischen Vertragschronologie. Ergänzt wird ein Auslegungsprotokoll, das aus der historischen Dokumentation Argumente für die Interpretation streitiger Klauseln ableitet. Geeignet für Due Diligence, Prozessvorbereitung und interne Compliance-Prüfung.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -86,3 +82,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

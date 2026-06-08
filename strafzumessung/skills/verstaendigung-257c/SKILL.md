@@ -5,10 +5,6 @@ description: "Verstaendigung 257c im Plugin Strafzumessung im Strafzumessung. Li
 
 # Verstaendigung 257c
 
-## Arbeitsbereich
-
-**Verstaendigung 257c** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Verstaendigung 257c im Plugin Strafzumessung im Strafzumessung. Li
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `verstaendigung-257c-stpo-strafzumessung`
@@ -119,15 +116,6 @@ Mindestumfang nach BGH 1 StR 525/11 und Folge-Rspr.:
 - **Geheim-Absprachen** ohne Protokoll — verfassungswidrig (BVerfG 2 BvR 2628/10).
 - **Gestaendnis-Rabatt** doppelt verwertet (sowohl als Strafmilderungsgrund in § 46 StGB als auch als Verstaendigungs-Mehrwert).
 
-## Querverweise
-
-- `gestaendnis-und-strafmilderung` — Strafmilderungsgrund.
-- `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` — TOA als Verhandlungsbaustein.
-- `bewaehrung-56-stgb-positive-sozialprognose` — Bewaehrungsperspektive.
-- `153a-stpo-einstellung-gegen-auflage` — Alternative.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Urteilsbegruendung.
-- Plugin `fachanwalt-strafrecht`: `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`.
-
 ## Quellen und Stand 05/2026
 
 - § 257c StPO in der geltenden Fassung.
@@ -136,3 +124,4 @@ Mindestumfang nach BGH 1 StR 525/11 und Folge-Rspr.:
 - BVerfG, Urteil vom 19.03.2013 — 2 BvR 2628/10 u.a.; offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=19.03.2013&Aktenzeichen=2+BvR+2628/10.
 - BGH, Beschluss vom 07.02.2012 — 1 StR 525/11; offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=07.02.2012&Aktenzeichen=1+StR+525/11.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

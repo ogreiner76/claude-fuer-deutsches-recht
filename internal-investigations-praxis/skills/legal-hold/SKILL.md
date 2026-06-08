@@ -5,10 +5,6 @@ description: "Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation
 
 # Legal Hold
 
-## Arbeitsbereich
-
-Implementiert Legal Hold – Sicherung, Sperrung und Dokumentation aller potenziell relevanten Beweismittel ab Verdachtsmoment. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,15 +61,6 @@ Dieser Skill stellt sicher, dass relevante Daten und Dokumente ab dem Moment des
 - Legal Hold ≠ vollständige Forensik: Nur Sicherung, keine Auswertung durch Unternehmen selbst.
 - Auswertung erst nach Rechtsgrundlagenklärung (Datenschutz, BetrVG, Strafrecht).
 
-## Red-Team-Fragen
-
-- Wurden automatische Löschroutinen auf allen Systemen (inkl. Mobile, Cloud, Backup) deaktiviert?
-- Hat jeder Custodian eine Hold-Notice erhalten und bestätigt?
-- Ist der Datenschutzkonflikt (DSGVO Art. 17 vs. Beweismittelsicherung) dokumentiert gelöst?
-- Gibt es Drittparteien (Steuerberater, Wirtschaftsprüfer), die eigene Unterlagen halten und noch keinen Hold erhalten haben?
-- Wurde der Betriebsrat über die Überwachungsmaßnahmen informiert?
-- Können Hash-Werte und Zugangsprotokolle im Verfahren vorgelegt werden?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -94,3 +81,4 @@ Dieser Skill stellt sicher, dass relevante Daten und Dokumente ab dem Moment des
 - **IT-Anweisungsliste** für Systemadministratoren
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

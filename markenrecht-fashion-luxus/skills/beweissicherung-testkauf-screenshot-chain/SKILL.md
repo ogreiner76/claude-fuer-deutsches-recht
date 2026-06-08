@@ -5,10 +5,6 @@ description: "Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-
 
 # Beweissicherung, Testkauf und Screenshot
 
-## Arbeitsbereich
-
-Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Has
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Sichere Markenverletzungen so, dass Abmahnung, einstweilige Verfügung, Klage, Zollantrag oder Plattformmeldung nicht an dünnen Belegen scheitern.
 
 ## Norm- und Beweisanker
 
@@ -50,13 +42,7 @@ Sichere Markenverletzungen so, dass Abmahnung, einstweilige Verfügung, Klage, Z
 6. **Zeugenfähigkeit:** Testkäufer, Paketöffner und Fotograf sollten später erklären können, was sie wann gesehen und getan haben.
 7. **Eiltempo:** Dringlichkeit nicht durch wochenlange interne Beweissammelroutine selbst widerlegen.
 
-## Output
-
-- Beweissicherungsplan.
-- Testkaufprotokoll.
-- Anlagenverzeichnis.
-- Lückenliste vor Eilantrag.
-
 ## Warnung
 
 Keine heimlichen oder rechtswidrigen Methoden vorschlagen. Beweissicherung bleibt sauber, reproduzierbar und verhältnismäßig.
+

@@ -5,9 +5,6 @@ description: "Orientierung Stadion Hausverbot im Sportrecht: prüft konkret Anwa
 
 # Orientierung Stadion Hausverbot
 
-## Arbeitsbereich
-
-**Orientierung Stadion Hausverbot** ordnet den Fall über die tragenden Prüfungslinien: Anwalt will Fachanwaltschaft Sportrecht erwerben oder, Fan erhaelt bundesweites Stadion-Hausverbot und will dieses, Prüfungslinie für fachanwalt sportrecht vereinsstrafrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Orientierung Stadion Hausverbot im Sportrecht: prüft konkret Anwa
 - Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-sportrecht-orientierung`
@@ -79,9 +77,6 @@ description: "Orientierung Stadion Hausverbot im Sportrecht: prüft konkret Anwa
 - **Ordentliche Gerichte** Vereinsrecht und Arbeitsrecht.
 - **EuGH** bei EU-rechtlichen Vorabentscheidungen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Konstanzer Arbeitskreis für Sportrecht.
@@ -103,10 +98,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Fokus:** Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten. AGB-Prüfung Vereinsrecht Fanrechte Datenschutz. Normen §§ 305 ff. BGB AGB-Kontrolle BGH Bundesliga-Hausverbot § 25 BGB Vereinsrecht DSGVO Polizei-Datei Gewalttaeter Sport. Prüfraster AGB-Wirksamkeit Verhältnismäßigkeit Datenschutz Widerspruch. Output Widerspruchsschreiben Klage-Entwurf. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und verbandsstrafe-anfechten (Verbands-Sanktion).
 
 ### Stadion-Hausverbot
-
-## Zweck
-
-Verteidigung von Fans gegen Stadion-Hausverbot.
 
 ## 1) Rechtsgrundlage
 
@@ -488,3 +479,4 @@ Mit freundlichen Grüßen
 ## Quellen
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

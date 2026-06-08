@@ -108,13 +108,6 @@ Die Sozialversicherung umfasst vier Hauptzweige: Rentenversicherung (RV), Kranke
 - Gesamtsumme an Krankenkasse einheitlich (Gesamt-SV-Beitrag).
 - Faelligkeit: drittletzter Bankarbeitstag des laufenden Monats für die voraussichtliche Beitragsschuld (§ 23 Abs. 1 SGB IV); spaetestens Korrektur mit Beitragsnachweis bis 15. des Folgemonats.
 
-## Output
-
-- SV-Berechnung im DATEV LODAS / Lohn und Gehalt.
-- AG-AN-Aufteilung pruefen.
-- Pauschalbetraege Minijob separat.
-- Buchung im Hauptbuch.
-
 ## Strategie und Praxis-Tipps
 
 - SV-Faelligkeit drittletzter Bankarbeitstag — bei Verspaetung Saeumniszuschlag, ab 1 Jahr § 266a StGB-Risiko (Vorenthalten SV-Beitraege).
@@ -123,15 +116,6 @@ Die Sozialversicherung umfasst vier Hauptzweige: Rentenversicherung (RV), Kranke
 - Bei Mehrfachbeschaeftigung: AG-Pflicht zur Pruefung der BBG-Ueberschreitung.
 - StBVV: SV-Berechnung in Lohnpauschale; komplexe Sonderfaelle (Werkstudent-Pruefung) Zeithonorar.
 - DATEV-Tipp: DATEV LODAS mit automatischen Beitragssatz-Updates; Plausibilitaets-Pruefung Beitragssumme.
-
-## Querverweise
-
-- `stb-lohn-lohnsteuer-monatsabschluss` — Monatsabschluss.
-- `stb-lohn-arbeitgeber-arbeitnehmer-anteile` — AG-AN-Anteile.
-- `stb-lohn-umlage-u1-u2-insogeld-umlage` — Umlagen.
-- `stb-lohn-minijob-538-euro-2024-anpassung` — Minijob.
-- `stb-lohn-werkstudent-pauschalen` — Werkstudent.
-- `stb-lohn-berufsgenossenschaft-bg-meldung-jahresende` — BG.
 
 ## Quellen und Updates
 
@@ -147,10 +131,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 8 bestaetigt (BBG/Beitragssaetze 2025 eingesetzt), 2 ersetzt (Pruefhinweise ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

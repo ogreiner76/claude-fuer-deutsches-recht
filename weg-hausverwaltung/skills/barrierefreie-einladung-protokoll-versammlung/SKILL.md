@@ -37,14 +37,6 @@ Großdruck: Schriftgröße mind. 16-18 pt, serifenlose Schrift (Arial, Verdana),
 
 AGG § 5 verpflichtet im Grundsatz zur Barrierefreiheit bei der Bereitstellung von Leistungen, soweit dies zumutbar ist. BGG (Behindertengleichstellungsgesetz) gilt unmittelbar nur für öffentliche Stellen. Für Privatrechtssubjekte (Hausverwaltung) gilt: Zumutbarkeit und Einzelfall-Abwägung. Antrag eines Eigentümers auf barrierefreie Übermittlung ist regelmäßig zumutbar zu erfüllen. Norm AGG § 5: https://www.gesetze-im-internet.de/agg/__5.html. Norm BGG: https://www.gesetze-im-internet.de/bgg/
 
-## Output
-
-- Word-Vorlage barrierefrei (Beschreibung Formatvorlagen-Einrichtung, Checkliste 15 Punkte)
-- Leichte-Sprache-Beispiel-Einladung (vollständiger Text, ca. 150 Wörter)
-- PDF-Export-Anleitung mit Tags (Word + Acrobat, bebilderte Schritte)
-- Antwortschreiben auf Eigentümeranfrage nach barrierefreien Unterlagen
-- Audit-Checkliste eigenes Protokoll (PDF/UA-Punkte)
-
 ## Cross-Refs
 
 - BFSG für Portale → `bfsg-hausverwalter-website-portal-2025`

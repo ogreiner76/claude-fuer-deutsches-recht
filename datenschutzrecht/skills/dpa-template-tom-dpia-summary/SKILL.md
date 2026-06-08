@@ -5,9 +5,6 @@ description: "DPA Template TOM Dpia Summary im Datenschutzrecht: prüft konkret 
 
 # DPA Template TOM Dpia Summary
 
-## Arbeitsbereich
-
-**DPA Template TOM Dpia Summary** ordnet den Fall über die tragenden Prüfungslinien: English language Data Processing Agreement (DPA) template, English language technical and organisational measures, Concise English DPIA management summary aligned with Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "DPA Template TOM Dpia Summary im Datenschutzrecht: prüft konkret 
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dpa-en-template-controller-processor`
@@ -174,13 +172,6 @@ Date: Date:
 - Audit clauses limited to certifications without a residual on-site right.
 - Cross-border transfers covered only by general references; SCC module not actually executed.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dpa-en-tom-annex-template/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-kommission-musterklauseln-2021-915/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-us-data-privacy-framework-bezug/SKILL.md`
-- `datenschutzrecht/skills/dpa-en-controller-controller-tmpl/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Article 28 GDPR – Regulation (EU) 2016/679.
@@ -188,14 +179,6 @@ Date: Date:
 - Commission Implementing Decision (EU) 2021/915 of 04 June 2021, OJ L 199/18 of 07 June 2021.
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR, adopted 07 July 2021.
 - Citation rules: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `dpa-en-tom-annex-template`
 
@@ -324,13 +307,6 @@ ________________________________ ____________________________
 - No test cadence.
 - Sub-processor consistency not addressed.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-tom-art-32-dsgvo-anlage/SKILL.md`
-- `datenschutzrecht/skills/dpa-en-template-controller-processor/SKILL.md`
-- `datenschutzrecht/skills/avv-audit-und-kontrollrechte/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - GDPR Article 25, Article 28 (3) (c), Article 32, Article 33.
@@ -341,14 +317,6 @@ ________________________________ ____________________________
 - SOC 2 Trust Services Criteria (AICPA, 2017, as amended).
 - Citation rules: `../../../references/zitierweise.md`.
 ```
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `dpia-en-summary-for-management`
 
@@ -472,14 +440,6 @@ DPO: ____________________ Date: ____________________
 - EDPB Opinion 28/2024 on AI models
 - Case law: do not cite from model knowledge; verify with official sources
 - Literature: only cite from user-provided source or licensed live access
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `dpia-en-template-full-version`
 
@@ -680,25 +640,11 @@ Triggers for ad-hoc review: [change of data categories / recipients / technology
 - Case law: do not cite from model knowledge; verify with official sources
 - Literature: only cite from user-provided source or licensed live access
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 5. `drittlandstransfer-pruefung`
 
 **Fokus:** Datentransfer in Drittlaender außerhalb EU und EWR auf Zulässigkeit prüfen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Prüfraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment zusaetzliche Massnahmen. Output: Drittlandstransfer-Prüfmemo TIA-Vorlage. Abgrenzung: nicht für innereuroaeischen Datenaustausch.
 
 ### Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO)
-
-## Zweck
-
-Anwendungsfall: jeder Auslagerung personenbezogener Daten an Empfänger außerhalb der EU/des EWR: US-Cloud-Dienste, Konzernverbund-Transfer, KI-Provider, Sub-Auftragsverarbeiter in Drittstaaten. Er führt strukturiert durch die mehrstufige Prüfung gemäß Kapitel V DSGVO, berücksichtigt den Angemessenheitsbeschluss vom 10. Juli 2023 für die USA (EU-US Data Privacy Framework) sowie die Schrems-II-Anforderungen an Standardvertragsklauseln und ergänzende Maßnahmen.
-
-Anwendungsfälle: Kanzlei oder Unternehmen moechte einen US-amerikanischen SaaS-Dienst einsetzen; Konzernmutter in der Schweiz soll Zugriff auf EU-Kundendaten erhalten; Auftragsverarbeiter setzt Sub-Auftragsverarbeiter in Indien ein; Drittlandbezug bei AVV-Prüfung erkannt.
 
 ## Eingaben
 
@@ -906,17 +852,6 @@ Wer ist Exporteur?
 
 > "Wir übermitteln personenbezogene Daten an Empfänger in [LAND]. Die Übermittlung erfolgt auf Grundlage von [EU-Standardvertragsklauseln nach Beschluss 2021/914/EU, Modul X / Angemessenheitsbeschluss der Kommission vom [DATUM]]. Für die USA gilt: der Empfänger ist unter dem EU-US Data Privacy Framework zertifiziert. Eine Transferfolgenabschätzung (TIA) liegt vor. Auf Anfrage stellen wir Ihnen eine Kopie der Standardvertragsklauseln zur Verfügung (Kontakt: [DSB])."
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-pruefung/SKILL.md` – Drittlandtransfer-Prüfung im AVV-Kontext (Schritt 5)
-- `datenschutzrecht/skills/us-transfer-tia-dokumentation/SKILL.md` – US-Transfers mit DPF-Listing, SCC/BCR-Ausweichpfad, Schrems-Historie und TIA vertiefen
-- `datenschutzrecht/skills/standardvertragsklauseln-scc-paket/SKILL.md` – SCC-Modulwahl und Annex I-III konkret erstellen
-- `datenschutzrecht/skills/drittlandtransfer-behoerdenpaket-output/SKILL.md` – Deckvermerk, Anlagenverzeichnis und Antwortpaket für Aufsichtsbehoerden ausgeben
-- `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` – DSFA bei Hochrisiko-Drittlandtransfers
-- `datenschutzrecht/skills/mandantendaten-ki/SKILL.md` – Drittlandtransfer bei KI-Diensten für Berufsgeheimnisträger
-- `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` – Datenpannen bei Drittlandempfaengern
-- `datenschutzrecht/skills/regulierungs-luecken-analyse/SKILL.md` – Neue Angemessenheitsbeschlüsse in Gap-Analyse einspielen
-
 ## Risiken und typische Fehler
 
 - **DPF-Prüfung vergessen:** DPF-Zertifizierung ist nicht permanent; Unternehmen koennen ihre Zertifizierung verlieren. Vor jedem Transfer auf data.privacyframework.gov prüfen und erneut prüfen bei Vertragserneuerung.
@@ -991,3 +926,4 @@ Zusatzmassnahmen:
 
 Ergebnis: Übermittlung zulässig / zulässig mit Auflagen / unzulässig
 ```
+

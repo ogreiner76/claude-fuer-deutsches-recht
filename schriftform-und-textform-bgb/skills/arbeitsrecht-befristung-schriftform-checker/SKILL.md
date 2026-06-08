@@ -157,14 +157,6 @@ Ein qualifiziertes Arbeitszeugnis wird Ihnen rechtzeitig zugestellt.
 - **Schriftsatzkündigung im Arbeitsgericht**: § 46h ArbGG kann die Form fingieren, wenn die gesetzlichen Voraussetzungen vorliegen. Das ersetzt nicht die Prüfung von Klarerkennbarkeit, Zustellung, Vertretung und § 174 BGB.
 - **§ 174 BGB**: Wenn HR-Manager kündigt ohne vorgelegte Originalvollmacht, kann Arbeitnehmer unverzüglich zurückweisen. Personalleiter-Vollmacht im Original immer beifügen.
 
-## Querverweise
-
-- → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
-- → `elektronische-form-paragraph-126a-bgb-qes` (qES-Frage § 623 BGB)
-- → `kuendigung-per-schriftsatz-zustellung-formfragen` (§ 46h ArbGG und beA)
-- → `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`
-- → `verteidigungsstrategie-bei-formangriff`
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek

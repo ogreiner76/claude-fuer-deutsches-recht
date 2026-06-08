@@ -5,10 +5,6 @@ description: "Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder wider
 
 # Zuverlässigkeitsüberprüfung LuftSiG § 7 – Versagung, Widerruf und Rechtsschutz
 
-## Arbeitsbereich
-
-Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prueft Versagungsgruende Vorstrafen Verfassungsschutz-Erkenntnisse Gesamtwürdigung Anhörungspflicht Rechtsschutz vor VG und BVerfG 2 BvL 8/07 Grundrechtskonformitaet und liefert Widerspruchs-Schriftsatz-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,10 +54,6 @@ Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prueft 
 - Gesamtwürdigung als reiner Automatismus behandelt; Gericht kann aufheben.
 - Löschungsfristen nicht beachtet; Daten länger als erlaubt gespeichert.
 
-## Output
-
-Widerspruchs-Schriftsatz-Baustein mit Verhältnismäßigkeitsargumentation. Eilantrag § 80 Abs. 5 VwGO Muster. Prüfschema Versagungsgrund.
-
 ## Quellen
 
 - LuftSiG: https://www.gesetze-im-internet.de/luftsig/
@@ -88,3 +80,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

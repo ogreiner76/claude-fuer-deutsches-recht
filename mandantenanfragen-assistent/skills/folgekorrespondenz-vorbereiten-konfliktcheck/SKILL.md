@@ -5,10 +5,6 @@ description: "Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte a
 
 # Folgekorrespondenz-Vorbereiten
 
-## Arbeitsbereich
-
-Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Prüfraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag für CRM und Aktenanlage. Abgrenzung zu anfrage-eingang-parser (Parsing) und mandanten-intake im Sozialrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,9 +32,6 @@ Dieser Skill erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Ske
 - § 43 BRAO — Sorgfaltspflicht: vollstaendige und sofortige Akten-/CRM-Dokumentation
 - § 51 BRAO — Haftung: mangelnde Dokumentation als Organisationspflichtverletzung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Skeleton-Eintrag: Standardformat
 
 ```
@@ -144,3 +137,4 @@ Konfliktcheck: AUSSTEHEND — vor Terminvergabe durchführen!
 - `dringlichkeitsmarker` — Dringlichkeitsstufe und Begründung
 - `spam-und-massen-anfrage-filter` — Spam-Check-Status
 - `konfliktcheck-vorab` — Hinweis auf ausstehenden Konfliktcheck
+

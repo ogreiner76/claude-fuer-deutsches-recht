@@ -5,10 +5,6 @@ description: "Inhaberkontrollverfahren bei Banken: bedeutende Beteiligung, mitte
 
 # InhKontrollV: Bedeutende Beteiligung an Banken
 
-## Arbeitsbereich
-
-Inhaberkontrollverfahren bei Banken: bedeutende Beteiligung, mittelbare Kontrolle, Erwerberkette, Finanzierung, Zuverlässigkeit, Schwellen, Übersetzungen, Closing-Condition und BaFin-/Bundesbank-Dealfahrplan prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Inhaberkontrollverfahren bei Banken: bedeutende Beteiligung, mittelbare Kontroll
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill ist für M&A, Family Offices, Fonds, Banken, Beteiligungsgesellschaften und Rechtsabteilungen gedacht, wenn eine Beteiligung an einem regulierten Institut erworben, erhöht, verringert oder aufgegeben werden soll. Er behandelt das Inhaberkontrollverfahren als Closing-kritisches Aufsichtsverfahren, nicht als Formalie.
 
 ## Sofortweichen
 
@@ -66,17 +58,7 @@ Empfiehl regelmäßig:
 - Board-/Investment-Committee-Vorlage mit regulatorischem Zeitpuffer.
 - Parallelcheck Kartell, Außenwirtschaft, Sanktionen, Datenschutz, Börsenrecht und Gruppenaufsicht.
 
-## Output
-
-Erzeuge:
-
-- Schwellen- und Kontrollmatrix.
-- Unterlagenliste nach Erwerbertyp.
-- Einreichfahrplan BaFin/Bundesbank/EZB.
-- Closing-CP-Formulierung.
-- Red-Flag-Liste.
-- Fragenkatalog an M&A-Team und externe Kanzlei.
-
 ## Quellenanker
 
 Prüfe aktuelle InhKontrollV, § 2c KWG, BaFin-Inhaberkontrollhinweise und bei Wertpapierinstituten die WpI-Inhaberkontrollregeln. Keine Schwellen oder Formulare aus alten Transaktionschecklisten übernehmen.
+

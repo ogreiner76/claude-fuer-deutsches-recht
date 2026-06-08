@@ -5,10 +5,6 @@ description: "Römisches Recht: Actio Publiciana nach D. 6.2 (Ulpian) - Fiktions
 
 # Actio Publiciana
 
-## Arbeitsbereich
-
-Römisches Recht: Actio Publiciana nach D. 6.2 (Ulpian) - Fiktionsklage für bonitarischen Eigentümer, Voraussetzungen, Verhältnis zur rei vindicatio und zur exceptio rei venditae et traditae. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,13 +48,3 @@ Die actio Publiciana ist eine prätorische Fiktionsklage (actio ficticia), die d
 - Lenel Edictum Perpetuum §§ 71-72 (Formelrekonstruktion)
 - Kaser RP I §§ 116, 129; Watson Roman Private Law around 200 BC
 
-## Output
-
-- Schema: Voraussetzungen und Abwehrmittel der actio Publiciana
-- Vergleich: rei vindicatio vs. actio Publiciana
-- Formelrekonstruktion nach Lenel
-- Memo zum bonitarischen Eigentum
-
-## Quellenregel
-
-D. 6.2 (Mommsen-Krüger). Gaius Inst. 4. Lenel Edictum (archive.org). Kaser RP I.

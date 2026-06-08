@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Risiko-Dashboard für internationale
 
 # Risiko-Dashboard Internationaler Handel
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Ein systematisches Risiko-Dashboard für internationale Handelsgeschäfte aggreg
 - Datenquellen: OECD, OFAC, TI CPI, Euler Hermes, World Bank Doing Business-Nachfolger
 - Aktualisierung: Quartalsweise oder bei kritischen Ereignissen (Wahlen, Sanktionen, Insolvenz)
 
-## Output
-
-- Risiko-Dashboard-Template (5 Dimensionen × Ampel)
-- Länderprofil-Kurzanalyse-Schema
-- Datenquellen-Matrix (Kostenlos vs. kostenpflichtig)
-
-## Quellenregel
-
-OECD Country Risk: oecd.org. TI CPI: transparency.org. OFAC: home.treasury.gov. World Bank: worldbank.org. Euler Hermes: allianz-trade.com. Unsicherheit bleibt sichtbar.

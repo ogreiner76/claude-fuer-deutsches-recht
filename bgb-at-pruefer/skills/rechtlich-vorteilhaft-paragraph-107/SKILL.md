@@ -45,13 +45,6 @@ description: "Klausurfall zu lediglich rechtlich vorteilhaften Rechtsgeschäften
 - Schenkung mit Auflagen begründet rechtliche Pflichten — kein lediglich rechtlicher Vorteil.
 - § 107 BGB gilt nur für beschränkt Geschäftsfähige, nicht für Geschäftsunfähige (§ 104 BGB).
 
-## Output
-
-- Gutachtenstil-Abschnitt zu § 107 BGB mit vollständiger Subsumtion
-- Checkliste: rechtlicher Vorteil bejaht / verneint / gemischtes Geschäft
-- Prüfampel: wirksam ohne Einwilligung / schwebend unwirksam / nichtig
-- Klausurlösungsskizze mit § 108 BGB-Folgeprüfung
-
 ## Quellen
 
 - [§ 107 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__107.html)
@@ -81,3 +74,4 @@ ist eine Einwilligung des gesetzlichen Vertreters erforderlich (§ 108 BGB).
 - Grundstückserwerb: Sind im Grundbuch Belastungen eingetragen?
 - Schenkung mit Auflage: Auflage als rechtliche Pflicht des Minderjährigen?
 - Wirtschaftliche Vorteile bleiben außer Betracht — nur rechtliche Betrachtung?
+

@@ -109,13 +109,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert die Aufsichtsbehörde besonders zur Höchststrafe?** Wiederholungstäter, Verletzung Art.-9-Daten, fehlende DSB-Bestellung trotz § 38 BDSG, fehlender AVV Art. 28 DSGVO, fehlende DSFA Art. 35 DSGVO.
 
-## Querverweise
-
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-- `datenschutz-datenpanne-art-33-34-72h-incident-response`
-- `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 5, 6, 25, 32, 33, 35, 37, 58, 83.
@@ -126,10 +119,3 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien 04/2022 zur Berechnung der Geldbussen nach DSGVO, Version 1.0, angenommen 24.05.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

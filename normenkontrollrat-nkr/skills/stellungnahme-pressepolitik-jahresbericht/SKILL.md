@@ -128,14 +128,6 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 - Spekulation ueber politische Motive
 - Pressehinweis ohne abgestimmte Stellungnahme
 
-## Querverweise
-
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-evaluation-und-jahresbericht`
-- `nkr-stellungnahme-ergebnis-und-empfehlung`
-- `nkr-stellungnahme-zum-bundestag-anhoerung`
-- `legistik-werkstatt/spezial-mitte-internationaler-bezug-und-schnittstellen`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 7
@@ -143,3 +135,4 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 - NKR-Geschaeftsordnung (intern)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

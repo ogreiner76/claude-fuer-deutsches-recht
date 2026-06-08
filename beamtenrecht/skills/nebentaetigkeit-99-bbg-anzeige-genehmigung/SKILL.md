@@ -5,10 +5,6 @@ description: "Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG b
 
 # Nebentaetigkeit § 99 BBG — Anzeige und Genehmigung
 
-## Arbeitsbereich
-
-Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG bzw. § 40 BeamtStG i.V.m. Landesrecht. Klaert die Unterscheidung anzeigepflichtige und genehmigungspflichtige Nebentaetigkeiten den Versagungs- und Widerrufsgrund das Verbot bestimmter Taetigkeiten sowie die Ablieferungspflicht bei Nebentaetigkeit im öffentlichen Dienst. Behandelt typische Konstellationen Lehrauftrag Sachverstaendigentaetigkeit Aufsichtsratsmandat ehrenamtliche politische Funktionen Schriftstellertaetigkeit. Liefert Pruefraster und Antragsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,3 +68,4 @@ Skill für Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagung
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Hochschuldozent (Beamter) plant Vortragstaetigkeit für einen Wirtschaftspruefer. Skill liefert Genehmigungsantrag, Pruefraster Interessenkonflikt und ggf. Begrenzung der Honorarablieferung.
+

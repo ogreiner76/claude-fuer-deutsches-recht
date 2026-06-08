@@ -28,9 +28,6 @@ Die Beweiswürdigung ist Kernkompetenz der Richterin oder des Richters. Sie laes
 - § 402, 411 ZPO — Sachverständiger, Ergänzungsgutachten
 - § 448 ZPO — Parteivernehmung von Amts wegen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Beweismittel auflisten:** chronologische Liste aller erhobenen Beweismittel aus dem Protokoll.
@@ -47,6 +44,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Entscheidungsgründe → Abschnitt Beweiswürdigung — Tonfall: sachlich-juristisch
 
 ```
+
 ## Beweiswürdigung
 
 Das Gericht hat die Klägerin (Parteivernehmung, Protokoll v. [DATUM]) und die Zeugen
@@ -63,15 +61,6 @@ hat der Sachverständige in seiner Ergänzung v. [DATUM] klargestellt, dass [PUN
 Das Gericht stellt fest: [FESTGESTELLTE TATSACHE].
 ```
 
-## Vorgehen
-
-1. **Schritt 1 (automatisierbar)**: Beweismittel sortieren - Zeuge / Sachverständiger / Augenschein / Urkunde / Parteivernehmung. Inhalte aus dem Sitzungsprotokoll übernehmen.
-2. **Schritt 2 (haendisch)**: Die Richterin / der Richter trifft die Würdigung. Das Plugin fragt strukturiert ab:
- - **Glaubwürdigkeit des Zeugen**: persönliche Verhältnisse, Eigeninteresse, Belastungsmotivation
- - **Glaubhaftigkeit der Aussage**: Aussagekonstanz, Detailreichtum, Realkennzeichen, raumzeitliche Verknuepfungen, ungewoehnliche Detailangaben, Selbstkorrekturen, eigene Beteiligung
- - **Widersprüche** zu anderen Beweismitteln / Akten
-3. **Schritt 3 (automatisierbar)**: Aus der Würdigung den Beweiswürdigungsteil der Entscheidungsgründe formulieren - in vollständigen Sätzen, mit Bezug auf die konkrete Beweisaufnahme.
-
 ## Form
 
 Im Urteil immer:
@@ -84,6 +73,3 @@ Im Urteil immer:
 
 Auf das Sitzungsprotokoll und auf das Sachverständigengutachten ist nach Paragraf 313 II 2 ZPO konkret Bezug zu nehmen.
 
-## Output
-
-Strukturierte Datei `beweiswuerdigung.md` mit den Aussagen, der Würdigung und der zusammenfassenden Feststellung.

@@ -5,10 +5,6 @@ description: "Prüft, ob ein Vehikel als AIF/KVG-reguliert ist oder außerhalb d
 
 # Fund Formation: KAGB-Scope und Strukturentscheidung
 
-## Arbeitsbereich
-
-Prüft, ob ein Vehikel als AIF/KVG-reguliert ist oder außerhalb des KAGB funktionieren kann. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -86,15 +82,6 @@ Discretionary Mandate (Single-Investor-Carve-out):
 - LUX-Setup ohne deutsche Tax-Brücke — Reverse Hybrid-Problem.
 - BaFin-Anzeige zu spät — Fundraising-Start verzögert sich um 3–6 Monate.
 
-## Querverweise
-
-- pe-005 für Spezial-AIF im Detail.
-- pe-006 für ELTIF 2.0.
-- pe-007 für EuVECA und VC.
-- pe-008 für KVG-Erlaubnis/Registrierung.
-- pe-009 für Verwahrstelle.
-- pe-020 für Tax-Strukturierung.
-
 ## Quellen Stand 06/2026
 
 - KAGB §§ 1, 2, 17 ff., 80, 124, 273 ff., 281 ff. (aktuelle Fassung).
@@ -102,3 +89,4 @@ Discretionary Mandate (Single-Investor-Carve-out):
 - EuVECA-VO 345/2013; ELTIF-VO 2015/760 i.d.F. (EU) 2023/606.
 - BaFin-Auslegungshinweise zum Anwendungsbereich des KAGB (vom Anwender mit aktuellem Stand zu prüfen).
 - BMF-Schreiben zur Besteuerung von Investmentvermögen (aktuelle Fassung vom Anwender mit aktuellem BMF zu prüfen).
+

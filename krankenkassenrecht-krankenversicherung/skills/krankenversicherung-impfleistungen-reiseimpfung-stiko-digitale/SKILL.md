@@ -5,10 +5,6 @@ description: "GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfun
 
 # Impfleistungen: Reiseimpfung und STIKO
 
-## Arbeitsbereich
-
-GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfungen als Satzungsleistung, Off-STIKO-Impfungen und Widerspruch bei Ablehnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ GKV übernimmt Kosten für Schutzimpfungen nach STIKO-Empfehlung. Dieser Skill k
 - [§ 60 IfSG – Impfschaden](https://www.gesetze-im-internet.de/ifsg/__60.html)
 - [BSG Impfrechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 20i SGB V](https://dejure.org/gesetze/SGB_V/20i.html)
+

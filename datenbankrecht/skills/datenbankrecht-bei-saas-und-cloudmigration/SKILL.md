@@ -59,14 +59,6 @@ Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenba
 - Datenportabilität nach DSGVO Art. 20 betrifft nur personenbezogene Daten von Verbrauchern — B2B-Kunden sind nicht erfasst.
 - Proprietäre Exportformate können faktisch die Datenmitnahme blockieren, selbst wenn rechtlich Herausgabepflicht besteht.
 
-## Output
-
-- Datenbankherstellerrecht-Inhaberschaftsanalyse für SaaS-Kunden
-- AGB-Prüfbogen für Datenbankrechte-Klauseln (§ 307 BGB)
-- Exit-Klausel-Vorlage (Datenmitnahme, Format, Löschung)
-- Data Act Art. 17 Wechselrecht-Checkliste
-- DSGVO-Auftragsverarbeitungsvertrag-Klausel zum Datenbankherstellerrecht
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +67,4 @@ Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenba
 - [DSGVO Art. 20 — dejure.org](https://dejure.org/gesetze/DSGVO/20.html)
 - [DSGVO Art. 28 — dejure.org](https://dejure.org/gesetze/DSGVO/28.html)
 - [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
+

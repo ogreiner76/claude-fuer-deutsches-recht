@@ -5,10 +5,6 @@ description: "Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Kon
 
 # Konnossement – Risiko-Memo schreiben
 
-## Arbeitsbereich
-
-Konnossement: Gesamtrisikobewertung für Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Eine Bank bereitet den Vorstand auf potenzielle Kreditausfälle in der Konnossem
 - Schiffswertgutachten für Konnossements-Transaktion (Bill of Lading) veraltet; Marktpreise schwanken stark.
 - Memo ohne Priorisierung zeitkritischer Massnahmen fuehrt zu Untaetigkeit.
 - Vorrangglaeubigerrechte (Besatzungsloehne/Hafengebuehren) werden unterschaetzt.
-
-## Output
-Risiko-Memo (Exekutivfassung) und Empfehlungsmatrix für Konnossements-Transaktion (Bill of Lading).
 
 ## Vertiefung: Struktur des Risiko-Memos
 Ein hochwertiges Risiko-Memo enthält: (1) Zusammenfassung und Handlungsempfehlung (Executive Summary; max. 1 Seite); (2) Schiffsdaten und aktueller Schiffswert (mit Gutachterquelle und -datum); (3) Kreditstatus (Valutastand; Zinsen; Fälligkeiten; Default-Events); (4) Sicherheitenanalyse (Hypothekenrang; Verwertungserlös-Prognose); (5) Gläubigerrangfolge (gesetzliche Vorrechte; Hypotheken; ungesicherte Forderungen); (6) Risikoszenarien (Best Case; Base Case; Worst Case); (7) Maßnahmenplan mit Zeitlinie und Verantwortlichen.
@@ -100,3 +93,4 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - InsO §§ 49-51: https://www.gesetze-im-internet.de/inso/__49.html
 - BSH: https://www.bsh.de
+

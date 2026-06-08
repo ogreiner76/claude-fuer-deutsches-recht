@@ -19,14 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Aufgabe
-
-Sortiert Bescheide, Beurteilungen, Ausschreibungen, Auswahlvermerke, Personalaktenauszüge, ärztliche Gutachten, Beihilfebescheide und Disziplinarakten.
-
-## Arbeitsweise
-
-Baue aus Uploads eine Aktenmatrix: Dokument, Datum, Aussteller, Zugang, Rechtsbehelfsbelehrung, Streitpunkt, fehlende Anlage. Kennzeichne Lücken und fordere gezielt Personalakte, Beurteilungsbeiträge, Auswahlvermerk, amtsärztliches Gutachten oder Berechnungsblatt an.
-
 ## Pflichtfragen
 
 - Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
@@ -42,14 +34,6 @@ Baue aus Uploads eine Aktenmatrix: Dokument, Datum, Aussteller, Zugang, Rechtsbe
 3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
 4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
 5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
 
 ## Normen und Rechtsprechung
 
@@ -79,3 +63,4 @@ Baue aus Uploads eine Aktenmatrix: Dokument, Datum, Aussteller, Zugang, Rechtsbe
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
 - Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.
+

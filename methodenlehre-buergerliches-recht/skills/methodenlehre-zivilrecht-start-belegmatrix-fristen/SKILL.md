@@ -5,9 +5,6 @@ description: "Zivilrecht Start Belegmatrix Fristen im Plugin Methodenlehre Buerg
 
 # Zivilrecht Start Belegmatrix Fristen
 
-## Arbeitsbereich
-
-**Zivilrecht Start Belegmatrix Fristen** ordnet den Fall über die tragenden Prüfungslinien: Einstieg, Schnelltriage und Fallrouting im Methodenlehre, Dieses Skill erstellt eine vollständige. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,22 +22,12 @@ description: "Zivilrecht Start Belegmatrix Fristen im Plugin Methodenlehre Buerg
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `methodenlehre-buergerliches-recht-allgemein`
 
 **Fokus:** Einstieg, Schnelltriage und Fallrouting im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
-
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-### Methodenlehre Buergerliches Recht — Allgemein
 
 ## Fachlicher Kern — Juristische Methodenlehre
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Methodenlehre Buergerliches Recht — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
@@ -214,14 +201,6 @@ Das Plugin enthält 20 Skills, gegliedert in fünf Blöcke. Für eine konkrete z
 
 Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `workflow-chronologie-und-belegmatrix`
 
 **Fokus:** Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat. Es zeigt, wie zeitliche Abläufe für Verjährungs- und Fristprüfungen aufbereitet werden, wie Belege tabellarisch den Tatbestandsmerkmalen zugeordnet werden und wie Chronologie und Belegmatrix zusammen die Grundlage für Gutachten, Schriftsatz und Mandatskommunikation bilden. Das Skill sichert lückenlose Nachvollziehbarkeit des gesamten Sachverhaltsverlaufs.
@@ -277,10 +256,6 @@ Eine sorgfältig aufgebaute Chronologie und eine vollständige Belegmatrix sind 
 - Belegmatrizen sind zu allgemein und ordnen Dokumente nicht den konkreten Tatbestandsmerkmalen zu.
 - Verjährungsrelevante Zeitpunkte werden nicht markiert, was Fristberechnungsfehler verursacht.
 - Widersprüchliche Zeitangaben zwischen verschiedenen Dokumenten werden nicht als Problem erkannt.
-
-## Output
-
-Das Skill liefert zwei Arbeitsinstrumente: eine datierte Chronologie mit Ereignissen, Quellen und Beweisbarkeitsstatus sowie eine tabellarische Belegmatrix mit Tatbestandsmerkmalen, vorhandenen und fehlenden Belegen. Beide Instrumente werden im Mandat laufend aktualisiert und bilden die Grundlage für alle nachfolgenden Bearbeitungsschritte.
 
 ## Quellen
 
@@ -369,10 +344,6 @@ Versäumte Fristen sind einer der häufigsten Gründe für Anwaltshaftungsfälle
 - Neue Fristen aus Gegenschriftsätzen und Urteilen werden nicht sofort ins System aufgenommen.
 - Der Mandant wird nicht über kritische Fristen informiert, was zu einer Haftung des Anwalts führt.
 
-## Output
-
-Das Skill liefert eine vollständige Fristenliste mit Risikoampel, kalendarischen Wiedervorlagen und einem Mandantenschreiben für kritische Fristen. Das System wird für das gesamte Mandat fortgeführt und bei jedem neuen Vorgang aktualisiert. Es bildet die Grundlage für eine haftungsfreie Mandatsführung.
-
 ## Quellen
 
 - [§ 195 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
@@ -459,10 +430,6 @@ Rechtliche Beratung ist nur so gut wie ihre Kommunikation. Anwälte haben eine g
 - Die Aufklärung über Risiken erfolgt zu spät oder zu wenig deutlich, was die Haftungsexposition erhöht.
 - Mandanten werden mit juristischer Fachsprache überwältigt, ohne dass eine verständliche Zusammenfassung folgt.
 - Mandantenentscheidungen werden nicht schriftlich bestätigt, was bei Haftungsfragen zu Beweisproblemen führt.
-
-## Output
-
-Das Skill liefert mandantengerechte Kommunikationsvorlagen für die wichtigsten Mandatsstadien: Erstberatungsprotokoll, Zwischenstandsbericht, Entscheidungsvorlage mit Risikokommunikation und Abschlussschreiben. Alle Templates enthalten eine Checkliste für die vollständige Aufklärungspflicht und eine Dokumentationsanleitung für die Mandatsakte.
 
 ## Quellen
 
@@ -552,10 +519,6 @@ Das Quality Gate ist die letzte methodische Schranke vor der Übergabe oder Einr
 - Formale Mängel werden nicht als solche erkannt, weil der inhaltliche Fokus überwiegt.
 - Das Quality-Gate-Ergebnis wird nicht dokumentiert, sodass bei späterem Streit kein Nachweis der Qualitätssicherung vorliegt.
 
-## Output
-
-Das Skill liefert ein Quality-Gate-Protokoll: formale Vollständigkeitsprüfung, inhaltliche Konsistenzprüfung, Red-Team-Ergebnisse, Quellenaktualitätsprüfung, Fristencheck und Freigabeentscheidung. Das Protokoll wird in der Mandatsakte abgelegt und bildet den Nachweis der methodischen Qualitätssicherung.
-
 ## Quellen
 
 - [§ 253 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__253.html)
@@ -586,3 +549,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

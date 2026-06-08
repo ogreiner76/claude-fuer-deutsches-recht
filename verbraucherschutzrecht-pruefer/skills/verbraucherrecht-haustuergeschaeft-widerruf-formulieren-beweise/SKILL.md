@@ -5,9 +5,6 @@ description: "Prüfer: Haustürgeschäft: Widerruf formulieren im Verbrauchersch
 
 # Haustuergeschaeft Widerruf Formulieren
 
-## Arbeitsbereich
-
-Spezialthema **Haustuergeschaeft Widerruf Formulieren** im Verbraucherschutzrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -15,17 +12,6 @@ Spezialthema **Haustuergeschaeft Widerruf Formulieren** im Verbraucherschutzrech
 - Tragende Normen verifizieren: BGB §§ 312 ff., 355, 357, 491 ff., UWG §§ 3, 5, 6, 7, RDG, VBVG, EU-Verbraucherrechts-RL 2011/83; UKlaG; VSBG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Arbeitsauftrag
-
-Haustuergeschaeft Widerruf Formulieren wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Verbraucherschutzrecht allgemein: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
-
-## Einstieg ohne Leerlauf
-
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
 ## Normenanker
 
@@ -56,27 +42,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
-## Typische Artefakte
-
-- Verbraucherrechte-Ampel
-- Anspruchs- und Fristenmatrix
-- Anschreiben an Unternehmer/Plattform
-- Beweis- und Screenshotplan
-
-## Red-Team-Fragen
-
-- B2C/B2B-Rolle unklar
-- Widerrufsfrist/Beweislast falsch gerechnet
-- Plattform- und Händlerrolle vermischt
-- AGB-Kontrolle ohne Einbeziehungskontrolle
-
-## Ausgabeformat
-
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
-
-## Qualitätsregel
-
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung un
 
 # Deutsche Rechtsgeschichte: 002 Rheinisches Recht Gerichtsverfassung Und Notariat
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -33,10 +29,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für die rheinische Gerichtsverfassung und das Notariat in den linksrheinischen Provinzen bis zur Reichsjustizgesetze 1879.
 
 ## Gerichtsverfassung im Rheinland
 
@@ -75,7 +67,3 @@ Erbschaft aus Köln; Erbteilung durch Notar.
 - ALR (Vergleich): Erbteilung beim Gericht (kein Notarmonopol).
 - BGB heute: Erbauseinandersetzung kann notariell oder privatschriftlich erfolgen.
 
-## Output
-
-- Quellenmatrix.
-- Vergleich rheinisches Notariat / preussisches Anwaltsnotariat / heutiges Recht.

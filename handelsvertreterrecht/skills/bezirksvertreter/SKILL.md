@@ -5,10 +5,6 @@ description: "Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 
 
 # Bezirksvertreter nach § 87 Abs. 2 HGB — Gebietsschutz und Provisionsrechte
 
-## Arbeitsbereich
-
-Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 2 HGB: Gebietsschutz, Provisionspflicht für alle Geschäfte im Bezirk unabhängig von der Mitwirkung, Abgrenzung des Gebiets, Beziehung zu Direktkunden und Key Accounts sowie Anforderungen an die Vertragsgestaltung des Bezirksvertretervertrags. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Online-Bestellungen als außerhalb des Bezirks gewertet — rechtlich zweifelhaft.
 - Überlappende Bezirke zwischen mehreren Vertretern führen zu Doppelprovisionsansprüchen.
 
-## Output
-
-Bezirksprovisionsberechnung, Vertragsanalyse Gebietsschutz, Musterschreiben Buchauszugsverlangen.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

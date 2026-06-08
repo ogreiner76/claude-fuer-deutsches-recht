@@ -5,10 +5,6 @@ description: "Kirchenaustritt in Deutschland: Fachmodul für CIC, Katechismus, k
 
 # Kirchenaustritt in Deutschland
 
-## Arbeitsbereich
-
-Kirchenaustritt in Deutschland: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,3 +93,4 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+

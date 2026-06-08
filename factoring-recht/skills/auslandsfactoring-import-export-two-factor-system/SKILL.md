@@ -112,13 +112,6 @@ Fragen zum Einstieg:
 - **Forfaitierung versus Factoring**: Einmaliger Verkauf einer Großforderung mit aval einer Bank – aufsichtsrechtlich anders behandelt, kein laufendes Geschäft.
 - **Geldwäscherisiko grenzüberschreitend**: GwG-Pflichten gelten für jeden Geschäftsabschluss, besondere Sorgfalt bei Auslandsbezug; PEPs-Screening.
 
-## Querverweise
-
-- `gerichtsstand-rechtswahl-schiedsvereinbarung`
-- `factoringtyp-true-false-reverse-maturity`
-- `geldwaesche-verdachtsmeldung-monitoring`
-- `debitorenkommunikation-und-abtretungsanzeige`
-
 ## Quellen Stand 06/2026
 
 - Rom I-Verordnung (VO 593/2008) Art. 14.
@@ -126,3 +119,4 @@ Fragen zum Einstieg:
 - UN-Convention on the Assignment of Receivables in International Trade (New York 2001).
 - General Rules for International Factoring (GRIF/GFI) der FCI – Factors Chain International.
 - AWG/AWV in der jeweils gültigen Fassung; EU-Sanktionsverordnungen.
+

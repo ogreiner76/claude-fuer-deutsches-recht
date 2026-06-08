@@ -147,23 +147,7 @@ Das SG entscheidet meist innerhalb von 1 bis 4 Wochen. Bei akuten Faellen (Strom
 - Eidesstattliche Versicherung vergessen → immer beilegen
 - Hauptsache versaeumt (kein Widerspruch / Klage) → parallel laufen lassen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `eilantrag-buergergeld-jobcenter` — Spezialfall Buergergeld
-- `eilantrag-krankenkassen-leistung` — Spezialfall Krankenkasse
-- `eilantrag-pflegekassen-pflegehilfsmittel` — Spezialfall Pflege
-- `eilantrag-erfolgsaussichten-checkliste` — Pruefung der Chancen
-- `widerspruch-vorverfahren-78-sgg` — parallel Widerspruch
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 86b SGG aktuell. BVerfG hat Anforderungen an effektiven Eilrechtsschutz hochgehalten (Art. 19 Abs. 4 GG). Bei akuten Faellen Geschaeftsstelle anrufen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

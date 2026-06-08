@@ -5,10 +5,6 @@ description: "Einstweilige Verfügung gegen unberechtigte Markennutzung nach Fra
 
 # Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen
 
-## Arbeitsbereich
-
-Einstweilige Verfügung gegen unberechtigte Markennutzung nach Franchiseende durchsetzen: Verfügungsgrund und Verfügungsanspruch nach §§ 935 ff. ZPO und MarkenG, Dringlichkeit, Abschlussschreiben und Vollstreckung gegen ehemaligen Franchisenehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein ehemaliger Franchisenehmer betreibt nach Vertragsbeendigung weiterhin sein G
 - Marke ist nicht eingetragen oder im Verfallsverfahren; Verfügungsanspruch entfällt.
 - Antragsgegner ist die falsche Person (Inhaberin ist GmbH, aber Antrag gegen natürliche Person gestellt).
 
-## Output
-
-- Einstweiligen-Verfügungs-Antrag (Muster)
-- Eidesstattliche Versicherung zur Glaubhaftmachung
-- Abschlussschreiben nach Verfügungserlass
-- Ordnungsmittelantrag bei Zuwiderhandlung
-
 ## Quellen
 
 - https://dejure.org/gesetze/MarkenG/14.html
@@ -71,6 +60,7 @@ Ein ehemaliger Franchisenehmer betreibt nach Vertragsbeendigung weiterhin sein G
 - https://gesetze-im-internet.de/zpo/__890.html
 - https://gesetze-im-internet.de/zpo/__945.html
 - https://dejure.org/gesetze/BGB/242.html
+
 ## Vertiefung
 
 Die einstweilige Verfügung ist das schnellste gerichtliche Instrument, um eine sofortige Markenverletzung zu stoppen. Sie kann ohne vorherige Anhörung des Antragsgegners erlassen werden (§ 937 Abs. 2 ZPO), wenn Dringlichkeit besteht. Im Markenverletzungsrecht gilt eine Regeldringlichkeit von etwa 1 Monat ab Kenntnis der Verletzung.
@@ -84,7 +74,10 @@ Das Abschlussverfahren nach der einstweiligen Verfügung ist ein wichtiger zweit
 - Klaren Unterlassungsantrag formulieren: Was genau soll der Antragsgegner unterlassen?
 - Abschlussschreiben mit Frist (2 Wochen) nach Erlassung der einstweiligen Verfügung versenden.
 - Ordnungsgeld-Antrag bei Zuwiderhandlung sofort stellen; Druckwirkung erhalten.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

@@ -5,10 +5,6 @@ description: "Internationale Aspekte des Sanierungsertrags: Betriebsstätten-Zuo
 
 # Sanierungsgewinn — Betriebsstätte und international
 
-## Arbeitsbereich
-
-Internationale Aspekte des Sanierungsertrags: Betriebsstätten-Zuordnung, DBA-Behandlung, Sanierungsforderungsverzicht durch ausländische Gläubiger. § 3a EStG gilt nur für die deutsche Besteuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -147,13 +143,6 @@ the German tax authorities.
 - DBA-Anwendung übersehen; Doppelbesteuerung oder doppelter Verzicht.
 - § 7 AStG-Hinzurechnung bei Zwischengesellschaft nicht geprüft.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-- `stb-sanierungsgewinn-zuständigkeiten-fa-betriebspruefung`
-
 ## Quellen Stand 06/2026
 
 - § 3a Abs. 1, 4 EStG.
@@ -165,3 +154,4 @@ the German tax authorities.
 - Doppelbesteuerungsabkommen — jeweils einschlägiges DBA.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

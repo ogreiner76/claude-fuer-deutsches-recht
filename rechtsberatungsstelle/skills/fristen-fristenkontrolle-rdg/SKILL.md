@@ -5,10 +5,6 @@ description: "Fristenmanagement für die Rechtsberatungsstelle — Fristen eintr
 
 # Fristenverwaltung
 
-## Arbeitsbereich
-
-Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfällige Einträge bleiben markiert bis zur ausdrücklichen Erledigung. Lädt, wenn ein Studierender oder Supervisor Fristen hinzufügen, den Fristenstatus abrufen oder eine Fristenübersicht für laufende Mandate benötigt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtü
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die gravierendste operative Gefahr einer Rechtsberatungsstelle ist eine versäumte Frist. Studierende betreuen mehrere Mandate gleichzeitig, arbeiten in Teilzeit und wechseln semesterweise. Fristen, die nur im Kopf einzelner Studierender existieren, gehen bei der Semesterübergabe verloren, werden in Prüfungsphasen vergessen oder fallen weg, wenn ein Studierender unerwartet aus der Beratungsstelle ausscheidet.
-
-Diese Skill ist das zentrale Betriebsverzeichnis für Fristen. Der begleitende volljuristische Supervisor trägt die Verantwortung, wenn eine Frist versäumt wird. Die Skill ist auf dieses Haftungsniveau kalibriert: Warnungen greifen früh, überfällige Einträge bleiben in jeder Übersicht sichtbar, und Semesterübergaben (via `/semester-übergabe`) übertragen das Fristenregister auf die nächste Studierendenkohorte.
 
 ## Eingaben
 
@@ -55,6 +45,7 @@ Diese Skill ist das zentrale Betriebsverzeichnis für Fristen. Der begleitende v
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Modus `--eintragen` — neue Frist erfassen
@@ -134,10 +125,6 @@ Typische Aktualisierungen: Fristdatum geändert (Terminverlegung durch Gericht),
 
 Für Fristen, die nicht mehr relevant sind (Fall einvernehmlich beendet, Antrag zurückgenommen, Mandant hat Beratungsstelle abgewählt). Erfordert zwingend einen Eintrag in `notizen:` mit Begründung.
 
-## Ausgabeformat
-
-Strukturierte Markdown-Tabellen gemäß dem Bericht-Modus oben. Jeder Eintrag enthält ID, Fall, Typ, Fälligkeitsdatum, Zuständige/-n und Quellnorm. Überfällige Einträge werden visuell hervorgehoben und bleiben in jedem Bericht sichtbar, bis sie ausdrücklich erledigt oder geschlossen werden.
-
 ## Beispiel
 
 **Szenario:** Studierende Maria hat eine Kündigung des Mietverhältnisses erhalten. Kündigung wurde am 08.04.2026 zugestellt. Widerspruchsfrist (§ 574 BGB i. V. m. § 542 BGB) läuft am 08.05.2026 ab.
@@ -169,3 +156,4 @@ Jede eingetragene Frist muss eine **Quellnorm** enthalten (Gesetz, Gerichtsurtei
 Jeder Fristeneintrag, der außerhalb des Plausibilitätsbands liegt und dennoch bestätigt wurde, erhält automatisch den Hinweis: `warnung: außerhalb-plausibilitätsband — vom Supervisor zu prüfen`.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall. Alle Fristenberechnungen sind vom begleitenden Supervisor zu prüfen und freizugeben.
+

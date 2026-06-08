@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Digitale Produkte im internationalen
 
 # Digitale Produkte im internationalen Handel
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Digitale Produkte im internationalen Handel. EU-Richtlinie 2019/770 (Digitale Inhalte), CISG-Anwendbarkeit auf Software-Verkauf, Lizenzrecht, AI-Act (EU) 2024/1689 und grenzüberschreitende Softwarelizenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Digitale Produkte (Software, Datenbanken, KI-Modelle) stellen besondere Herausfo
 - SaaS-Vertrag: Service Level Agreements (SLA), Datenschutz (DPA), Exit-Strategie
 - Open-Source-Lizenz-Audit: SBOM (Software Bill of Materials) für Lizenzkonformität
 
-## Output
-
-- CISG vs. RL 2019/770 Anwendungsbereich-Matrix
-- AI-Act-Risikokategorien-Übersicht
-- SaaS-Vertrag-Checkliste
-
-## Quellenregel
-
-RL 2019/770: eur-lex.europa.eu. AI Act 2024/1689: eur-lex.europa.eu. BGB §§ 327-327u: gesetze-im-internet.de. CISG: uncitral.un.org. Unsicherheit bleibt sichtbar.

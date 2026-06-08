@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse
 
 # Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse, Sprachvermerk
 
-## Arbeitsbereich
-
-Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse und Sprachvermerk. Anforderungen nach § 16 BeurkG, Dolmetscherqualifikation, Sprachvermerk in der Urkunde und zweisprachige Beurkundung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 ## Kostenhinweise
 
 Der Dolmetscher ist keine notarielle Leistung; die Kosten trägt der Beteiligte direkt. Bei zweisprachiger Niederschrift durch den Notar selbst: erhöhte Komplexität rechtfertigt Ermessenserhöhung der Gebühr (§ 127 GNotKG). Keine gesonderte GNotKG-Gebühr für Sprachvermerk.
+

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in De
 
 # Menschenrechte und EMRK-Rezeption
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in Deutschland. Ratifikation EMRK 1952, EGMR-Rechtsprechung, Caroline-Urteil, Goerguelue-Entscheidung und Verhaeltnis GG-Grundrechte zu EMRK. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Deutschland ratifizierte die Europaeische Menschenrechtskonvention (EMRK) am 5. 
 - BVerfGE: bverfg.de
 - GG Art. 25: gesetze-im-internet.de
 
-## Output
-
-- Rang-Schema EMRK im deutschen Recht: BVerfGE-Entwicklung
-- EGMR-Kernfaelle Deutschland: Caroline, Goerguelue, Schimanek
-- Pflicht zur Beruecksichtigung: Was bedeutet BVerfGE 111, 307 in der Praxis?
-
-## Quellenregel
-
-EMRK: convention.coe.int und BGBl. II 1952, 685. EGMR: hudoc.echr.coe.int. BVerfGE: bverfg.de. GG: gesetze-im-internet.de.

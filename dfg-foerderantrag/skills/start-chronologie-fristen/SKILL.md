@@ -5,10 +5,6 @@ description: "Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderan
 
 # DFG-Förderantrag — Allgemein
 
-## Arbeitsbereich
-
-Adaptiver Einstieg, Schnelltriage und Fallrouting im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Fachmodule. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Regelungs- und Quellenanker
 
 Arbeitsfokus: **DFG-Förderantrag — Allgemein**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **DFG-Förderantrag — Allgemein**. Prüfe diese Anker am Sachver
 - `DFG-Kodex Leitlinie 1` — Redlichkeit.
 - `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
 - `DFG-Kodex Leitlinie 14` — Autorschaft.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -152,47 +147,6 @@ Wenn nur eine Idee vorliegt, trotzdem arbeiten. Nicht sagen "Bitte reichen Sie e
 - "Vorarbeiten" durch Konferenzbeiträge belegen — Reviewer wollen referierte Volltexte.
 - Antragsteller nennt sich "international vernetzt" ohne konkrete Kooperationsschreiben.
 
-## Output
-
-**Kurzbild**
-- Vermutete Programmschiene:
-- Antragssumme/Tempo:
-- Stärken:
-- Risiko:
-- Fehlende Unterlagen:
-
-**Intelligenzschicht**
-- Anfänger-Erklärung in drei Sätzen:
-- Profi-Befund in drei harten Punkten:
-- Schnellster förderfähiger Pfad:
-- Wissenschaftlich beste, aber langsamere Alternative:
-- Eine Sache, die vor Einreichung zwingend besser werden muss:
-
-**Nächster Workflow**
-1. Programmroute und Schwellen prüfen.
-2. Antragsthese in drei Sätzen schärfen.
-3. Arbeitsprogramm und Finanzplan mit Reviewer-Brille bauen.
-
-**Passende Skills**
-
-| Skill | Warum jetzt? | Output |
-| --- | --- | --- |
-| `dfg-foerderstrategie-schnell-oder-gross` | Programmroute unklar | Routing-Empfehlung |
-| `dfg-sachbeihilfe-elan-formalia` | Standardroute Sachbeihilfe | elan-|
-| `dfg-bis-200k-begutachtung-light` | Schlanker Antrag, schneller Bescheid | Kompaktantrag |
-| `dfg-koselleck-500k-125m` | Etabliert, Risiko-Vision | Koselleck-Skizze |
-| `dfg-projektbeschreibung-arbeitsprogramm` | Textarbeit Projektbeschreibung | Vollgliederung |
-| `dfg-finanzplan-module-personal-geraete` | Budget | Finanzplan |
-| `dfg-ki-ethik-forschungsdaten` | KI/Ethik/DMP | Anlagen und Voten |
-| `dfg-reviewer-red-team` | vor Einreichung | Schwächenliste |
-| `dfg-wiedereinreichung-nach-ablehnung` | Ablehnung liegt vor | Stellungnahme |
-
-## Querverweise
-
-- Routing-Skill: `dfg-foerderstrategie-schnell-oder-gross`
-- Methodikleitlinien: `CLAUDE.md` (Zitierweise, Quellenhygiene)
-- DFG-Quellen: `references/dfg-quellen-und-schwellen.md`
-
 ## Quellen Stand 05/2026
 
 Für Schwellen, Fristen, Vordrucke und Antragsberechtigung immer die Referenz `references/dfg-quellen-und-schwellen.md` und danach die verlinkte DFG-Quelle prüfen. Verbindlich nur:
@@ -204,3 +158,4 @@ Für Schwellen, Fristen, Vordrucke und Antragsberechtigung immer die Referenz `r
 - GEPRIS: gepris.dfg.de
 
 Keine alten 100.000-Euro-Schwellen ungeprüft fortschreiben. Vor Empfehlung Verfahrensordnung des Antragsstichtags konsultieren.
+

@@ -5,10 +5,6 @@ description: "Schnittstelle KI-VO und DSGVO Art. 22: automatisierte Einzelentsch
 
 # KI-VO und DSGVO Art. 22
 
-## Arbeitsbereich
-
-Schnittstelle KI-VO und DSGVO Art. 22: automatisierte Einzelentscheidung, Profiling, menschliche Beteiligung, Bewerber/Kredit/Kundenranking, Informationspflicht, DPIA, Rechtsgrundlage und technische Governance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -40,13 +36,7 @@ Ein KI-System kann nach KI-VO nicht Hochrisiko sein und trotzdem datenschutzrech
 - Studienzulassung.
 - Versicherungsprämie.
 
-## Output
-
-- Schnittstellenvermerk KI-VO/DSGVO.
-- Human-Review-Design.
-- Betroffeneninformation.
-- DPIA-Fragenkatalog.
-
 ## Warnung
 
 "Mensch prüft final" reicht nur, wenn der Mensch reale Informationen, Zeit, Kompetenz und Befugnis hat, vom KI-Vorschlag abzuweichen.
+

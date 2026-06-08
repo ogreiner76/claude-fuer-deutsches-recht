@@ -19,21 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Zweck
-
-Diese Skill beantwortet die Frage vor jeder Datenschutz-Folgenabschätzung (DSFA):
-Ist eine Prüfung erforderlich — und wenn ja, welche Art?
-
-Die Triage ist schneller als die DSFA-Generierung, aber ihr vorgelagert. Sie erstellt
-die Folgenabschätzung nicht, sondern bestimmt, ob sie geboten ist.
-
-**Vier Klassifikationen:**
-- **FREIGABE** — Keine gesonderte Prüfung. Standardschutzmaßnahmen gelten.
-- **DSA ERFORDERLICH** — Datenschutzprüfung vor oder begleitend zum Einsatz.
-- **DSFA PFLICHT** — Art. 35 DSGVO zwingend; DSB-Einbindung erforderlich.
-- **STOPP** — Verarbeitung widerspricht Datenschutzrichtlinie oder entbehrt jeder
- Rechtsgrundlage; Neugestaltung vor Fortführung zwingend.
-
 ## Eingaben
 
 - Beschreibung des Verarbeitungsvorgangs (Datenarten, Zweck, Betroffenenkreis)
@@ -160,20 +145,6 @@ Konflikt benennen. Optionen: (A) Vorhaben umgestalten, (B) Richtlinie aktualisie
 - **Beschäftigtendatenschutz:** § 26 BDSG und Mitbestimmung (§§ 87 Abs. 1 Nr. 6,
  94 BetrVG) prüfen.
 
-## Ausgabeformat
-
-Ausgabe im Chat. Bei DSA, DSFA oder STOPP optional Protokolldatei:
-`~/datenschutz-triagen/triage-YYYY-MM-DD-[vorgang].md`.
-
-**Sammel-Triage** (Feature-Liste):
-
-| # | Vorgang | Klassifikation | Blocker |
-|---|---|---|---|
-| 1 | [Vorgang] | FREIGABE | — |
-| 2 | [Vorgang] | DSA ERFORDERLICH | Rechtsgrundlage offen; AVV fehlt |
-| 3 | [Vorgang] | DSFA PFLICHT | Art.-9-Daten, großer Umfang |
-| 4 | [Vorgang] | STOPP | Zweckbindungsverstoß |
-
 ## Beispiel
 
 **Vorgang:** ML-basiertes Kreditscoring für Bestandskunden; Ergebnis fließt in
@@ -275,3 +246,4 @@ Verantwortlich: [PERSON / ROLLE]
 - Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
 - Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
 - Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
+

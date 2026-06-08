@@ -82,9 +82,6 @@ Liste der angehörten Verbände, eingegangene Stellungnahmen, Bewertung.
 
 Art. 65 GG (Ressortprinzip) — Art. 76 GG (Einbringung Bundesgesetze) — §§ 15-28 GGO (Kabinettssache, Ressortabstimmung) — § 62 GGO (Rechts- und Gesetzesfolgen-Pruefung) — Art. 80 GG (Verordnungsermaechtigung in Kabinettsbeschluss)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Vollständige Mappe mit allen 14 Bestandteilen als getrennte Dateien plus Inhaltsverzeichnis.
@@ -92,3 +89,4 @@ Vollständige Mappe mit allen 14 Bestandteilen als getrennte Dateien plus Inhalt
 ## Anschluss
 
 Nach Kabinettsbeschluss: Einbringung in den Bundestag oder Bundesrat (Bundesregierung wählt erste Lesung - Bundestag oder Bundesrat).
+

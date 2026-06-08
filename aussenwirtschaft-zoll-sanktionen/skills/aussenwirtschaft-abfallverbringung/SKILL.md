@@ -5,10 +5,6 @@ description: "Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013
 
 # Abfallverbringung: Grenzueberschreitende Entsorgung und Notifizierungsverfahren
 
-## Arbeitsbereich
-
-Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren für Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schluessel-Pruefung, Kontrolle von Empfaengerlandzustimmungen. Output: Verbringungsantrag mit Begleitdokumenten und Behordenschreiben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,19 +54,6 @@ Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 
 - Gruene-Liste-Ausfuhr in Nicht-OECD ohne Zustimmung ist formell verboten (VO 1418/2007 Anlage).
 - Sicherheitsleistung unterschaetzt: Muss Verbringungs- und Entsorgungskosten abdecken.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -88,10 +71,6 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
-
-## Output
-
-Verbringungsantrag mit ausgefuelltem Notifizierungsdokument (Anhang IA/IB), Begleitformular (Anhang VII), Checkliste offener Behördenbestaedigungen, Kurzvermerkt für Zollabfertigung.
 
 ## Quellen
 

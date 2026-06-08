@@ -11,10 +11,6 @@ description: "Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abge
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Anwaltliche Verteidigung der Geschäftsführerin oder des Geschäftsführers einer GmbH/UG gegen einen Haftungsbescheid des Finanzamts nach § 69 AO. Typischer Fall: Steuerschulden der Gesellschaft (Lohnsteuer, Umsatzsteuer, Säumniszuschläge) sind in der Krise oder nach Insolvenzeröffnung nicht abgeführt worden — das Finanzamt sucht den GF persönlich in der Haftung. **Top-Haftungsfall bei GmbH-Insolvenzen.**
-
 ## Kaltstart-Rückfragen
 
 1. Haftungsbescheid bereits erlassen (Datum, Betrag, Steuerarten)?
@@ -142,3 +138,4 @@ Bei Ablehnung Einspruch: Klage nach `anw-klage-finanzgericht`; AdV beim FG § 69
 ## Quellen und Updates
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

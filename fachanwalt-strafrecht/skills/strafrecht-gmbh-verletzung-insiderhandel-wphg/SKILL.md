@@ -5,9 +5,6 @@ description: "Gmbh Verletzung Insiderhandel Wphg im Strafrecht: prüft konkret U
 
 # Gmbh Verletzung Insiderhandel Wphg
 
-## Arbeitsbereich
-
-**Gmbh Verletzung Insiderhandel Wphg** ordnet den Fall über die tragenden Prüfungslinien: Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei, Insiderhandel § 119 WpHG iVm Art, Insolvenzverschleppung nach Paragraph 15a InsO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +27,7 @@ description: "Gmbh Verletzung Insiderhandel Wphg im Strafrecht: prüft konkret U
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg`
@@ -113,14 +111,6 @@ zu unterrichten. Die Versammlung muss ueber das weitere Vorgehen entscheiden.
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen Gesellschafters Y zu erheben zum Beweis der Tatsache, dass alle Gesellschafter zum Zeitpunkt der Sitzung am DD.MM.JJJJ vollstaendig ueber den Stand des Stammkapitals informiert waren."
 
-## Querverweise
-
-- `strafrecht-spezial-gmbh-unrichtige-darstellung-82-gmbhg`
-- `strafrecht-spezial-insolvenzverschleppung-15a-inso`
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-verletzung-buchfuehrungspflicht-283b-stgb`
-- `strafrecht-spezial-faktische-geschaeftsfuehrer`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 84 GmbHG im Wortlaut (gesetze-im-internet.de).
@@ -129,14 +119,6 @@ zu unterrichten. Die Versammlung muss ueber das weitere Vorgehen entscheiden.
 - Paragraph 121 BGB unverzueglich = ohne schuldhaftes Zoegern.
 - BGH staendige Rspr. zur Formstrenge der Einberufung.
 - BGH staendige Rspr. zur Pflicht auch bei laufender Geschaeftsbeobachtung (pflichtmaesses Ermessen).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `strafrecht-spezial-insiderhandel-119-wphg`
 
@@ -245,13 +227,6 @@ Verbinder zur strafrechtlichen Sanktion. Strafrahmen: Freiheitsstrafe bis fuenf 
 
 "Das streitgegenstaendliche Aktiengeschaeft erfolgte auf Grundlage des am [Datum] festgelegten Trading-Plans (Anlage K-3), der die Verkaufsentscheidung quantitativ und zeitlich ohne Ermessen vorgab. Die Festlegung erfolgte vor Erlangung der in der Anklage genannten Insiderinformation. Damit greift der Schutzbereich des Art. 9 Abs. 3 MAR; eine Verwendung der Insiderinformation im Sinne des Art. 8 MAR ist ausgeschlossen."
 
-## Querverweise
-
-- `strafrecht-spezial-marktmanipulation-120-wphg`
-- `strafrecht-spezial-kapitalanlagebetrug-264a-stgb`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
-
 ## Quellen Stand 06/2026
 
 - § 119 WpHG Stand 06/2026 https://www.gesetze-im-internet.de/wphg/__119.html.
@@ -341,15 +316,6 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen StB X zu erheben zum Beweis der Tatsache, dass er meinem Mandanten zwischen DD.MM. und DD.MM.JJJJ wiederholt eine positive Fortbestehensprognose bestaetigt und ihn von einer sofortigen Antragstellung abgeraten hat."
 
-## Querverweise
-
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-zahlungsverbot-15b-inso`
-- `strafrecht-spezial-faktische-geschaeftsfuehrer`
-- `strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb`
-- `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft`
-- `spezial-insolvenzantrag-red-team-und-qualitaetskontrolle`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 15a InsO im Wortlaut (gesetze-im-internet.de).
@@ -360,14 +326,6 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 - BGH staendige Rspr. zur Pflichtigkeit faktischer Geschaeftsfuehrer.
 - BGH staendige Rspr. zum Beginn der 3-Wochen-Frist (Eintritt, nicht Kenntnis).
 - StaRUG-Verfahren (Gesetz ueber den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen) seit 2021 als zusaetzliches Sanierungsinstrument.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
 
@@ -448,16 +406,6 @@ Grenzbeschlagnahme selbst hat keine Strafzumessung. Auswirkungen auf das nachgel
 **Schreiben an Rechteinhaber (Vergleichsangebot):** "Sehr geehrte Damen und Herren, in Bezug auf die Grenzbeschlagnahme vom DD.MM.JJJJ (Aktenzeichen [...]) bietet mein Mandant folgenden Vergleich an: Zustimmung zur Vernichtung der beschlagnahmten Ware ohne weitere zivilrechtliche Verfolgung; Zahlung von Lizenzgebuehrenanalogie in Hoehe von EUR X; im Gegenzug Rücknahme des Strafantrags gemaess Paragraph 77d StGB."
 
 **Strafanzeige durch Zoll (Selbstanzeige des Beschuldigten/Verteidigerstrategie):** "Mein Mandant erstattet hiermit Selbstanzeige gemaess Paragraph 158 StPO im Zusammenhang mit der Grenzbeschlagnahme vom DD.MM.JJJJ. Er stellt umfassende Aufklaerungshilfe in Aussicht; insbesondere kann er die Lieferkette aus dem Drittstaat Z offenlegen. Es wird Strafmilderung gemaess Paragraph 46b StGB beantragt."
-
-## Querverweise
-
-- `strafrecht-spezial-markenrecht-143-markeng`
-- `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`
-- `strafrecht-spezial-markenrecht-144-markeng-strafverfahren`
-- `strafrecht-spezial-patentrecht-142-patg`
-- `strafrecht-spezial-design-strafrecht-51-designg`
-- `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich`
-- `strafrecht-spezial-ip-strafrecht-verteidigung`
 
 ## Quellen Stand 06/2026
 
@@ -571,21 +519,6 @@ Einziehung Paragraph 74 StGB (Tatobjekte: Counterfeit-Ware, Pressformen, Datentr
 
 **Schutzschrift mit Erschoepfungseinwand:** "Mein Mandant hat die streitgegenstaendliche Ware ueber den autorisierten Haendler X in einem EWR-Mitgliedstaat erworben (Anlage 1, Rechnung mit MWSt-Ausweis; Anlage 2, Lieferschein mit EU-Herkunftserklaerung). Es liegt Erschoepfung nach Paragraph 24 MarkenG vor; eine Markenverletzung scheidet aus. Hilfsweise wird Beweis durch Vernehmung des Zeugen X (Geschaeftsfuehrer der Haendlerfirma) angeboten."
 
-## Querverweise
-
-- `strafrecht-spezial-urheberrecht-106-urhg`
-- `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
-- `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich`
-- `strafrecht-spezial-urheberrecht-108b-urhg-tpm`
-- `strafrecht-spezial-markenrecht-143-markeng`
-- `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`
-- `strafrecht-spezial-markenrecht-144-markeng-strafverfahren`
-- `strafrecht-spezial-geschgehg-23-strafvorschriften`
-- `strafrecht-spezial-patentrecht-142-patg`
-- `strafrecht-spezial-design-strafrecht-51-designg`
-- `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `fachanwalt-strafrecht-adhaesionsverfahren`
-
 ## Quellen Stand 06/2026
 
 - Paragraphen 77, 77b, 77d StGB (Strafantrag, Antragsfrist, Antragsruecknahme).
@@ -683,14 +616,6 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 "Die angefochtene Prospektangabe in Kapitel 3.2 zur prognostizierten Ausschuettungsquote ist als Prognose ausdruecklich gekennzeichnet (Seite 28 des Prospekts, Anlage K-1). Eine durchschnittliche Anlegerin haette dem Prognose-Charakter erkennen koennen; eine Entscheidungserheblichkeit im Sinne des § 264a Abs. 1 StGB ist nicht ersichtlich."
 
-## Querverweise
-
-- `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
-- `strafrecht-spezial-insiderhandel-119-wphg`
-- `strafrecht-spezial-marktmanipulation-120-wphg`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
-
 ## Quellen Stand 06/2026
 
 - § 264a StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/__264a.html.
@@ -779,15 +704,6 @@ Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt ode
 
 **Schriftsatz Erlaubnis-Pruefung:**
 "In dem Strafverfahren gegen die Anbauvereinigung [Name] e.V., HRA [Nummer], wird unter Vorlage des Erlaubnisbescheids der Behörde [Name] vom [Datum], Az. [X], beantragt, von einer Strafverfolgung abzusehen. Die Anbauvereinigung haelt sich an die in der Erlaubnis festgesetzten Auflagen (Mitgliederzahl: [X], Mengenkontingent: [Y] g/Monat pro Mitglied, Standort: [Z]). Die im Verfahren beanstandeten Abgaben liegen innerhalb des erlaubten Rahmens (Anlage: Mengenuebersicht und Mitgliederbuchhaltung)."
-
-## Querverweise
-
-- `strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz`
-- `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang`
-- `strafrecht-spezial-cannabis-uebergangsregeln-altfaelle-amnestie`
-- `strafrecht-spezial-btmg-29-grundtatbestand`
-- `strafrecht-spezial-btmg-35-therapie-statt-strafe`
-- `vereinsrecht-vereinsmanager` (Vereinsgruendung)
 
 ## Quellen Stand 06/2026
 
@@ -894,15 +810,6 @@ Die genauen Schwellen sind im KCanG normiert; § 36 KCanG regelt die Ordnungswid
 
 Weitere Beratung zu Anbauvereinigung oder Schenkung an Bekannte gerne im Folgetermin."
 
-## Querverweise
-
-- `strafrecht-spezial-kcang-anbauvereinigung-cannabis-club`
-- `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang`
-- `strafrecht-spezial-cannabis-uebergangsregeln-altfaelle-amnestie`
-- `strafrecht-spezial-btmg-29-grundtatbestand` (BtMG für Nicht-Cannabis)
-- `strafrecht-spezial-btmg-35-therapie-statt-strafe`
-- `strafrecht-spezial-btmg-konsumeigenbedarf-verteidigung`
-
 ## Quellen Stand 06/2026
 
 - KCanG (Konsumcannabisgesetz) vom 27.03.2024, in Kraft seit 01.04.2024 (BGBl. I, Verkuendung verifizieren).
@@ -1002,16 +909,6 @@ ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstraf
 **Mandantenbrief Verteidigungsstrategie Cannabis Hausanbau:**
 "In Ihrer Sache hat die Staatsanwaltschaft Anklage wegen Verstosses gegen § 34 KCanG erhoben. Wir verteidigen Sie wie folgt: (1) Pruefung Pflanzenzahl unter Beruecksichtigung Stecklinge; (2) Wirkstoffanalyse THC; (3) Eigenbedarfs-Argumentation; (4) Bei Verbrechensstrafrahmen Antrag minder schwerer Fall § 35 Abs. 2 KCanG."
 
-## Querverweise
-
-- `strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz`
-- `strafrecht-spezial-kcang-anbauvereinigung-cannabis-club`
-- `strafrecht-spezial-cannabis-uebergangsregeln-altfaelle-amnestie`
-- `strafrecht-spezial-btmg-29a-nicht-geringe-menge`
-- `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge` (Vergleich)
-- `strafrecht-spezial-btmg-35-therapie-statt-strafe`
-- `strafrecht-spezial-btmg-konsumeigenbedarf-verteidigung`
-
 ## Quellen Stand 06/2026
 
 - KCanG (Konsumcannabisgesetz) vom 27.03.2024, in Kraft seit 01.04.2024.
@@ -1104,14 +1001,6 @@ Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH sta
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Einholung eines Wirtschaftspruefer-Gutachtens (IDW S 6-konform) zu erheben zum Beweis der Tatsache, dass die Forderung gegen die Y AG im Zeitpunkt der Kreditvergabe am DD.MM.JJJJ mit hoechstens 20 Prozent abzuwerten gewesen waere. Die Anklage stuetzt sich dagegen auf eine 50-Prozent-Wertberichtigung ohne tragende Begruendung."
 
-## Querverweise
-
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-- `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand`
-- `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit`
-- `strafrecht-spezial-untreue-aktiengesellschaft-aktg-93`
-- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 266 StGB im Wortlaut (gesetze-im-internet.de).
@@ -1123,10 +1012,3 @@ Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH sta
 - IDW S 6-Standards zur Unternehmensbewertung; IDW PS 800-Standards zur forensischen Bewertung.
 - Paragraph 103 Abs 2 GG Bestimmtheitsgebot des Strafrechts.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -33,12 +33,7 @@ Arbeitsfokus: **Haushaltsrecht BHO Bund und Länder - Allgemeiner Einstieg**. Pr
 - `§ 34 BHO` — Bewirtschaftung.
 - `§ 70 BHO` — Zahlungen.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Aufgabe
-
-Führt in Haushaltsrecht BHO Bund und Länder ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.
 
 ## Startfragen
 
@@ -73,3 +68,4 @@ Führt in Haushaltsrecht BHO Bund und Länder ein, sortiert die Lage, fragt die 
 ## Quellen- und Qualitätsregel
 
 Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen mit Datum/Aktenzeichen und frei prüfbaren Quellen arbeiten. Literatur, Datenbanken hinter Paywalls und Fundstellen ohne Nutzerquelle nicht behaupten. Wenn Landesrecht, EU-Recht oder ausländisches Recht berührt ist, den Rechtsstand ausdrücklich live prüfen und die Ausgabe als Arbeitsfassung kennzeichnen.
+

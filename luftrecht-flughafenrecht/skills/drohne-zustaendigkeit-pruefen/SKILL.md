@@ -5,10 +5,6 @@ description: "Drohnen-Mandat: unklar ob LBA EASA Landesbehoerde oder Luftraum-Nu
 
 # Drohne – Zuständigkeit prüfen
 
-## Arbeitsbereich
-
-Drohnen-Mandat: unklar ob LBA EASA Landesbehoerde oder Luftraum-Nutzer-Behörde zuständig. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a und U-Space-Regulierung und liefert Zuständigkeits-Vermerk für Drohnen-Genehmigung oder Streit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ EU-VO 2019/947 LuftVG § 21a EASA BNatSchG LuftSiG – die einschlägigen Normen
 - **LuftVG § 21e**: Nationales UAS-Register; Registrierungspflicht ab 250 g.
 - **LuftVO § 21b**: Betriebsverbote und Beschränkungszonen; Kontrollluftraum.
 - **EASA Easy Access Rules for UAS**: Konsolidierte Fassung aller UAS-Verordnungen.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -56,6 +53,7 @@ EU-VO 2019/947 LuftVG § 21a EASA BNatSchG LuftSiG – die einschlägigen Normen
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Betriebskategorie (offen/spezifisch/zertifiziert) korrekt eingestuft (EU-VO 2019/947 Art. 5)?
 8. Liegt für spezifische Kategorie ein genehmigter SORA-Risikoplan vor?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -73,9 +71,6 @@ Die Zuständigkeitsfrage ist bei luftrechtlichen Mandaten häufig das erste Hind
 - **EASA vs. nationale Behörde**: Seit Inkrafttreten der EASA-Basisverordnung (VO 2018/1139) hat EASA Direktzuständigkeit für Zulassungen von Luftfahrzeugen und Organisationen; das LBA bleibt für betriebliche Zulassungen zuständig.
 - **Verwaltungsgericht vs. Zivilgericht**: Bescheide einer Luftfahrtbehörde sind vor dem VG anzufechten; privatrechtliche Ansprüche (Leasingstreit Schaden) gehören vor die Zivilgerichte.
 
-## Output
-
-Strukturierter Vermerk zu Drohne – Zuständigkeit prüfen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Betriebsgenehmigungsmatrix nach Kategorie. SORA-Risikoanalyse-Template.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -105,3 +100,4 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

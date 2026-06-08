@@ -5,10 +5,6 @@ description: "Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei 
 
 # Preisangaben (PAngV 2022)
 
-## Arbeitsbereich
-
-Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versandkosten, insbesondere die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen. Lädt bei Fragen zu Preisauszeichnung, Rabattaktionen, Sale-Kennzeichnung und Grundpreisangabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen,
 - Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill begleitet die rechtskonforme Preisauszeichnung gegenüber Verbrauchern nach der Preisangabenverordnung 2022 (PAngV, in Kraft getreten 28.05.2022 zur Umsetzung der EU-Omnibus-Richtlinie). Er deckt Gesamtpreis, Grundpreis, Streichpreise (insb. 30-Tage-Niedrigstpreis nach § 11 PAngV), Versandkosten und die UWG-Rechtsfolgen ab. Anwendungsfälle: Online-Shop-Preisauszeichnung, Black-Friday-Sale, Streichpreiswerbeaktion, Grundpreispflicht für Lebensmittel/Kosmetik, B2C-Preiskommunikation.
 
 ## Eingaben
 
@@ -53,6 +45,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Schritt 1 – Pflicht zur Gesamtpreisangabe prüfen (§ 3 PAngV)**
@@ -94,9 +87,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 §§ 1-4 PAngV (Preisangaben, Gesamtpreis, Grundpreis) — § 11 PAngV (30-Tage-Niedrigstpreisregel) — §§ 3, 5 UWG (Irreführende Werbung, Preisgestaltung) — Art. 6a RL 98/6/EG i.d.F. Omnibus-RL 2019/2161 (Preisreduzierungen)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabeformat
 
 - **Preisauszeichnungs-Checkliste** (Tabelle): § 3 / § 4 / § 6 / § 11 PAngV × Anforderung × Status × Handlungsbedarf.
@@ -142,3 +132,4 @@ Halluzinations-Reparatur task_198 (3 Probleme):
  Nutzungsentgelt für bargeldlose Zahlungen (§ 270a BGB) — falsches Thema;
  kein Handlungsbedarf im Text, da AZ dort nicht vorkommt.
 -->
+

@@ -5,9 +5,6 @@ description: "Schriftsatzkern Substantiierung im Steuerrecht (Anwalt/Berater) im
 
 # Schriftsatzkern Substantiierung
 
-## Arbeitsbereich
-
-**Schriftsatzkern Substantiierung** ordnet den Fall über die tragenden Prüfungslinien: Substantiierten Schriftsatzkern für steuerrechtliche. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -21,6 +18,7 @@ description: "Schriftsatzkern Substantiierung im Steuerrecht (Anwalt/Berater) im
 - Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `schriftsatzkern-substantiierung`
@@ -46,9 +44,6 @@ description: "Schriftsatzkern Substantiierung im Steuerrecht (Anwalt/Berater) im
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Arbeitsgang greift
 
 - Es soll ein vollwertiger Schriftsatz im Bereich Steuerrecht (Beratung und Prozess) erstellt werden, typischerweise: Einspruch, Klage FG, Revision BFH, Stundungs-/Erlassantrag.
@@ -241,3 +236,4 @@ Vor Versand:
  → Falsche Rn.-17-Aussage zur § 76 FGO Amtsermittlung entfernt; description-Referenz entfernt
  Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 -->
+

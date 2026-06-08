@@ -34,13 +34,6 @@ description: "Verständigungsverfahren und EU-Streitbeilegung bei DBA-Doppelbest
 
 Bei EU-Mitgliedstaaten zusätzlich EU-DBA-Streitbeilegungsgesetz prüfen. MAP und EU-Streitbeilegung können strategisch zusammenhängen; keine Frist opfern, weil ein Verfahren informeller wirkt.
 
-## Output
-
-- MAP-Antragsentwurf.
-- Fristen- und Zuständigkeitsblatt.
-- Belegliste.
-- Parallelverfahrensstrategie.
-
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
 - **Frist im konkreten DBA pruefen**: viele DBA setzen 3 Jahre ab erster Mitteilung der Massnahme. EU-DBA-SBG: 3 Jahre ab erster Mitteilung. Frist nicht verpassen — Verlust des Anspruchs.
@@ -174,3 +167,4 @@ Anlagen:
 | Substanzdokumentation | bei Holding/Vertreter-BS |
 | Ansaessigkeitsbescheinigungen beider Staaten | DBA-Anwendung |
 | Vollmacht | Steuerberater-Vertretung |
+

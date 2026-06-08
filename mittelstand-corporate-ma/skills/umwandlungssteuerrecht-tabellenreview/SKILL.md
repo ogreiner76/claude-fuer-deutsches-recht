@@ -5,10 +5,6 @@ description: "Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, ste
 
 # Umwandlungssteuerrecht
 
-## Arbeitsbereich
-
-Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rückwirkung, § 8c KStG Verlustuntergang, GrESt-Ergaenzungstatbestand, Einbringung §§ 20-24 UmwStG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rück
 ## Fachkern: Umwandlungssteuerrecht
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Distressed M&A, StaRUG/Insolvenz, Liquidität und steuerliche Strukturfolgen**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -115,10 +108,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Umwandlungssteuerrecht
 
-## Zweck
-
-Erfasst und bewertet umwandlungssteuerliche Strukturfragen als Arbeitsmatrix für Steuerteam und Corporate-Team. Fokus: Buchwertantrag, steuerliche Rueckwirkung, Verlustuntergang nach § 8c KStG, Grunderwerbsteuer-Ergaenzungstatbestand und Einbringung nach §§ 20-24 UmwStG.
-
 ## Triage — klaere mit Steuerteam vor Strukturentscheidung
 
 1. Soll die Umwandlung zu Buchwerten erfolgen — §§ 11, 13 UmwStG (Verschmelzung), §§ 15, 20 UmwStG (Spaltung/Einbringung)? Antrag erforderlich?
@@ -142,9 +131,6 @@ Erfasst und bewertet umwandlungssteuerliche Strukturfragen als Arbeitsmatrix fü
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Zielstruktur mit Corporate-Team abstimmen:** welche Umwandlungsform (Verschmelzung, Ausgliederung, Formwechsel) ist beabsichtigt?
@@ -205,3 +191,4 @@ Offene Fragen an Steuerteam: [TODO Owner Datum]
 
 - assets/templates/steuerliche-strukturmatrix.md
 - assets/templates/umwandlungssteuer-checkliste.md
+

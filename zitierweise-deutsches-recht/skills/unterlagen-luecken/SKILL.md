@@ -9,7 +9,6 @@ description: "Lücken- und Beschaffungsliste für Zitierweise deutsches Recht: t
 
 Diese Unterlagenprüfung für **Zitierweise Deutsches Recht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `aktenzeichen-schriftsatz-brief-und-memo-bausteine` — Aktenzeichen Schriftsatz Brief und Memo Bausteine
@@ -41,7 +40,6 @@ Arbeitsfokus: **Unterlagen und Lücken**. Prüfe diese Anker am Sachverhalt; erg
 - `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
 - `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
@@ -52,12 +50,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
-## Output
-
-Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Zitierweise deutsches Recht typischerweise Entscheidung, Kommentar zuerst.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

@@ -5,10 +5,6 @@ description: "Mandant war bei Buergerversammlung und moechte Niederschrift auf V
 
 # Bürgerversammlung — Protokoll-Audit
 
-## Zweck
-
-Die Bürgerversammlung ist der zentrale Erörterungsort der frühzeitigen Beteiligung. Aus dem Protokoll lassen sich Vorfestlegung der Stadt, formelhafte Behandlung von Belangen und atmosphärische Indizien für Abwägungsdefizite herausarbeiten.
-
 ## Schritt 1 — Rechtsrahmen
 
 ### Frühzeitige Beteiligung § 3 Abs. 1 BauGB
@@ -144,6 +140,3 @@ Die Bürgerversammlung ist der zentrale Erörterungsort der frühzeitigen Beteil
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

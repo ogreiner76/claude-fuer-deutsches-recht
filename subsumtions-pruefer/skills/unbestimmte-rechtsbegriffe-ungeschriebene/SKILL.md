@@ -5,10 +5,6 @@ description: "Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar
 
 # Unbestimmte Rechtsbegriffe prüfen
 
-## Arbeitsbereich
-
-Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsmassstaeibe aus Rechtsprechung und h.M., Indizien und Fallgruppen. Warnt vor der Grenze mechanischer Subsumtion bei wertungsoffenen Begriffen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, an
 3. Gibt es BGH/BAG/BVerwG-Rechtsprechung zu diesem Begriff in diesem Kontext?
 4. Ist der Begriff durch Fallgruppen der Rechtsprechung konkretisiert?
 5. Handelt es sich um eine Wertungsfrage, die das System nicht abschließend beantworten kann?
-
-## Zweck
-
-Unbestimmte Rechtsbegriffe sind Tatbestandsmerkmale, deren Inhalt nicht aus dem Wortlaut ablesbar ist und deren Ausfüllung einen normativen Wertungsakt erfordert. Das System nennt Auslegungsmaßstäbe und Indizien — keine abschließende Bewertung.
 
 ## Aktuelle Rechtsprechung zur Auslegung unbestimmter Rechtsbegriffe
 
@@ -84,9 +76,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Auslegungsmaßstab:** BGH: Alle Umstände des Einzelfalls; dem Kündigenden ist Festhalten am Vertrag bis Ende nicht zumutbar. Interessenabwägung: Verschulden, Wiederholungsgefahr, Schwere.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Das System nennt:
@@ -98,3 +87,4 @@ Das System nennt:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+

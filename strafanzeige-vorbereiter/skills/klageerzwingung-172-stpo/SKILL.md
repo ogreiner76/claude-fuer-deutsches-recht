@@ -5,10 +5,6 @@ description: "Nach Einstellung: Beschwerde, Klageerzwingung, Fristen, Verletzten
 
 # Klageerzwingung § 172 StPO
 
-## Arbeitsbereich
-
-Nach Einstellung: Beschwerde, Klageerzwingung, Fristen, Verletztenstellung und anwaltliche Schwelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Nach Einstellung: Beschwerde, Klageerzwingung, Fristen, Verletztenstellung und a
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Verletzte nach Einstellung.
-
 ## Norm- und Quellenanker
 
 StPO §§ 171, 172; OLG-Verfahren.
-
-## Arbeitsfragen
-
-1. Ist der Antragsteller verletzt?
-2. Welche Frist?
-3. Welche Begründungstiefe?
-
 
 ## Normen & Rechtsprechung
 
@@ -39,9 +24,6 @@ Konkret zu prüfen:
 - § 172 StPO (Klageerzwingungsverfahren)
 - § 173 StPO
 - § 175 StPO
-## Output
-
-Klageerzwingungs-Check.
 
 ## Red Flags
 
@@ -53,6 +35,3 @@ Klageerzwingungs-Check.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

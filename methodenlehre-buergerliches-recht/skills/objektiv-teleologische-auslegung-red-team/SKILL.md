@@ -53,10 +53,6 @@ description: "Erstellt Red-Team-Analysen zur objektiv-teleologischen Auslegungsm
 - Die Frage, ob objektive Teleologie zu besseren Ergebnissen führt als die Alternative, wird nicht als methodisches Argument berücksichtigt.
 - Systemkonsistenz als Argument für objektive Teleologie wird vom Red-Team nicht ausreichend gewürdigt.
 
-## Output
-
-Das Skill liefert ein Red-Team-Gutachten zur objektiven Teleologie: Identifikation der abweichenden Zweckbehauptung, stärkste historische und demokratietheoretische Gegenargumente, Konsistenzcheck, Alternativmethodenprüfung und ausgewogenes Fazit zur methodischen Vertretbarkeit. Direkt verwendbar in Schriftsätzen und Methodenbeiträgen.
-
 ## Vertiefung: Zeitgenössischer Teleologismus und Normwandel
 
 Der zeitgenössische Teleologismus fragt nicht nur nach dem historischen Normzweck, sondern nach dem Zweck, den die Norm im heutigen gesellschaftlichen und rechtlichen Kontext erfüllen soll. Diese "dynamische Teleologie" ist besonders bei Normen relevant, die über Jahrzehnte alt sind und deren historischer Kontext grundlegend verändert ist. Der Red-Team-Angriff muss hier erklären, warum die Festlegung des Normzwecks für die Gegenwart dem Richter und nicht dem Gesetzgeber obliegen soll.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 34, 269 – Soraya-Urteil zu Grenzen der Teleologie](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

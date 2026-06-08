@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Europaeisierung des Rechts aus historis
 
 # EU-Rechtsgeschichte für deutsche Juristen
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Europaeisierung des Rechts aus historischer Perspektive. EGKS 1951, EWG 1957, EG-Vertrag, Maastricht 1992, Lissabon 2007 und Einfluss des Europarechts auf deutsche Rechtsordnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -69,12 +65,3 @@ Die europaeische Rechtsgeschichte beginnt für Deutschland mit dem EGKS-Vertrag 
 - BVerfGE: bverfg.de
 - BGBl. II für Zustimmungsgesetze: gesetze-im-internet.de
 
-## Output
-
-- Zeitleiste europaeischer Vertraege mit deutschen Zustimmungsgesetzen
-- BVerfG-EuGH-Verhaeltnis: Solange I, II, Maastricht, Lissabon, PSPP
-- Kernartikel AEUV und EUV mit deutschem Bezug
-
-## Quellenregel
-
-Vertragstexte: eur-lex.europa.eu. EuGH: curia.europa.eu. BVerfGE: bverfg.de. BGBl. II Zustimmungsgesetze: gesetze-im-internet.de.

@@ -146,13 +146,6 @@ Date: Date:
 - Audit clauses limited to certifications without a residual on-site right.
 - Cross-border transfers covered only by general references; SCC module not actually executed.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dpa-en-tom-annex-template/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-kommission-musterklauseln-2021-915/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-us-data-privacy-framework-bezug/SKILL.md`
-- `datenschutzrecht/skills/dpa-en-controller-controller-tmpl/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Article 28 GDPR – Regulation (EU) 2016/679.
@@ -161,10 +154,3 @@ Date: Date:
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR, adopted 07 July 2021.
 - Citation rules: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

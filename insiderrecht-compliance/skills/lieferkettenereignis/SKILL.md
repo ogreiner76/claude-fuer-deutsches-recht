@@ -5,10 +5,6 @@ description: "Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei wesent
 
 # Lieferkettenereignis – Insiderrecht und Ad-hoc-Pflicht
 
-## Arbeitsbereich
-
-Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei wesentlichen Lieferkettenereignissen (Lieferantenausfall, Rohstoffengpass, Geopolitik). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,24 +68,6 @@ den Entstehungszeitpunkt und koordiniert die Ad-hoc-Entscheidung mit dem Krisenm
  besprochen werden
 - LkSG-Meldepflichten: Parallel prüfen (Lieferkettensorgfaltspflichtengesetz)
 
-## Red-Team-Fragen
-
-- Wurde der frühestmögliche Zeitpunkt der Insiderinformation identifiziert?
-- Wurde die finanzielle Wesentlichkeit modelliert (nicht nur qualitativ)?
-- Wurde der Lafonta-Test korrekt angewendet (keine Pflicht zur Kursrichtungsangabe)?
-- Werden LkSG-Meldepflichten parallel zur MAR-Compliance geprüft?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Lieferkettenereignis-Kursrelevanz-Matrix
-2. Finanzielle Auswirkungsmodellierung (Umsatz × Marge × Prognose)
-3. Insiderinformations-Zeitstrahl
-4. Ad-hoc-Entwurf Lieferkettenstörung
-
-Belege ausschließlich mit: eur-lex.europa.eu, curia.europa.eu, gesetze-im-internet.de,
-bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Das LkSG (Lieferkettensorgfaltspflichtengesetz) verpflichtet große Unternehmen zu Risikoanalysen
@@ -101,3 +79,4 @@ verknüpfen, damit LkSG-Feststellungen automatisch auf Insiderinformations-Quali
 Weitere Quellen:
 - LkSG: https://www.gesetze-im-internet.de/lksg/
 - Art. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+

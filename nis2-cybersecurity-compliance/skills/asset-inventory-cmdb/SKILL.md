@@ -5,10 +5,6 @@ description: "Prüft Asset-Inventar und CMDB als Grundlage jeder Security-Prüfu
 
 # Asset Inventory Cmdb
 
-## Arbeitsbereich
-
-Prüft Asset-Inventar und CMDB als Grundlage jeder Security-Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

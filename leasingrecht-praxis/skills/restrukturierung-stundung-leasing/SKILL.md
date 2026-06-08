@@ -5,10 +5,6 @@ description: "Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinb
 
 # Restrukturierung: Stundung und Stillhaltevereinbarung
 
-## Arbeitsbereich
-
-Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinbarung, Schuldnerberatung, Rangrücktritt und Sanierungsbeitrag des LG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinbarung, Schuldn
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Gerät der Leasingnehmer in finanzielle Schwierigkeiten, ist eine einvernehmliche Restrukturierung oft besser als Kündigung und Verwertung. Dieser Skill beschreibt Stundung, Ratensenkung, Stillhaltevereinbarung und die Bedingungen für einen Sanierungsbeitrag des Leasinggebers.
 
 ## Restrukturierungsoptionen
 
@@ -112,3 +104,4 @@ Gerät der Leasingnehmer in finanzielle Schwierigkeiten, ist eine einvernehmlich
 - **Stundungsvereinbarungs-Muster**: Rate, Zinsen, Nachzahlungsplan
 - **Sanierungsbeitrags-Matrix**: Optionen LG – Bedingungen – Konsequenzen
 - **Steuer-Memo**: Forderungsverzicht § 3a EStG und § 11 EStG
+

@@ -22,10 +22,6 @@ Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn d
 - **Spezialfrage (Drei-Säulen-Prüfung: Titel, Klausel, Zustellung):** vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung).
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
-## Aufgabe
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Rechtsgrundlagen
 
 - **§ 704 ZPO** – Vollstreckungstitel: rechtskräftige oder vorläufig vollstreckbare Endurteile.
@@ -118,3 +114,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 (Zustellerfordernis § 750 Abs. 2 ZPO; Nachweisurkunden; Heilung nach § 189 ZPO).
 Verifiziert via dejure.org.
 -->
+

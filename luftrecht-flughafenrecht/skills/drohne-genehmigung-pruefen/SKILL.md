@@ -5,10 +5,6 @@ description: "Drohnenbetreiber braucht Genehmigung für Spezialoperationen oder 
 
 # Drohne – Genehmigung prüfen
 
-## Arbeitsbereich
-
-Drohnenbetreiber braucht Genehmigung für Spezialoperationen oder hat Betriebsgenehmigung verloren. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a LBA-Genehmigungsverfahren und Specific Category Operational Authorization und liefert Genehmigungsstatus-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ EU-VO 2019/947 Art. 12 LuftVG § 21a EASA Specific Category STS-Szenarien – di
 - **LuftVG § 21e**: Nationales UAS-Register; Registrierungspflicht ab 250 g.
 - **LuftVO § 21b**: Betriebsverbote und Beschränkungszonen; Kontrollluftraum.
 - **EASA Easy Access Rules for UAS**: Konsolidierte Fassung aller UAS-Verordnungen.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -56,6 +53,7 @@ EU-VO 2019/947 Art. 12 LuftVG § 21a EASA Specific Category STS-Szenarien – di
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Betriebskategorie (offen/spezifisch/zertifiziert) korrekt eingestuft (EU-VO 2019/947 Art. 5)?
 8. Liegt für spezifische Kategorie ein genehmigter SORA-Risikoplan vor?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -74,9 +72,6 @@ Das luftrechtliche Genehmigungsrecht ist mehrschichtig:
 - **Einzelgenehmigungen**: Nichtplanmäßige Flüge Überflüge fremden Staatsgebiets Sonderlasten erfordern gesonderte Genehmigung.
 - **Genehmigungsversagung**: Anfechtungsklage vor VG; aufschiebende Wirkung nach § 80 VwGO als Sofortmaßnahme beantragen.
 
-## Output
-
-Strukturierter Vermerk zu Drohne – Genehmigung prüfen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Betriebsgenehmigungsmatrix nach Kategorie. SORA-Risikoanalyse-Template.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -106,3 +101,4 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

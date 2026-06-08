@@ -97,16 +97,6 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - EuInsVO COMI-Frage nicht geklärt; Hauptverfahren in falscher Jurisdiktion.
 - Lokal Counsel in anderen Jurisdiktionen zu spät eingebunden.
 
-## Querverweise
-
-- Plugin `steuerrecht-anwalt-und-berater`: AStG, ATAD, Konzernsteuerrecht im Detail.
-- Plugin `insolvenzrecht`: EuInsVO, Konzerninsolvenz, Cross-Border-Verfahren.
-- Plugin `grosskanzlei-corporate-ma`:
- - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
- - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
- - `grosskanzlei-corporate-ma-translations-multijurisdictional`
- - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8b KStG; § 14 ff. KStG; § 4h EStG; § 4k EStG; § 8c KStG; § 8d KStG; § 42 AO – gesetze-im-internet.de.
@@ -118,15 +108,3 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BFH zur Konzern-Verlustnutzung – ständige Rspr.; bundesfinanzhof.de.
 
-## V61 Deal-OS Boost
-
-Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
-
-- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
-- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
-- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
-- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
-- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
-- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

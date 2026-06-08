@@ -5,10 +5,6 @@ description: "Prüft anwaltliche Meldestelle und Berufsgeheimnis im Hinweisgeber
 
 # Anwaltliche Meldestelle
 
-## Arbeitsbereich
-
-Prüft anwaltliche Meldestelle und Berufsgeheimnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

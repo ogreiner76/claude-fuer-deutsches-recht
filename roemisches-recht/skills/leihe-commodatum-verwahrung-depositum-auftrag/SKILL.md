@@ -5,10 +5,6 @@ description: "Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6
 
 # Leihe (commodatum)
 
-## Arbeitsbereich
-
-Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,13 +49,3 @@ Das commodatum ist die unentgeltliche Gebrauchsüberlassung einer nicht-vertretb
 - Gaius Inst. 3.196; Iust. Inst. 3.14.2
 - Kaser RP I §§ 223-226; Zimmermann Law of Obligations Kap. 7
 
-## Output
-
-- Schema: commodatum - Pflichten beider Parteien
-- Haftungsübersicht nach Verschuldensmaßstab
-- Abgrenzung: commodatum vs. mutuum vs. locatio rei
-- Vergleich röm. commodatum vs. BGB Leihe
-
-## Quellenregel
-
-D. 13.6 (Mommsen-Krüger). Gaius Inst. 3. Iust. Inst. 3.14. Kaser RP I. Zimmermann Law of Obligations.

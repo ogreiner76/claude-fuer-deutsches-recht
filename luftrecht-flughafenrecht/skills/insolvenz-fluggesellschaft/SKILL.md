@@ -5,10 +5,6 @@ description: "Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Hal
 
 # Insolvenz Fluggesellschaft – Gläubigerrechte und Masseschutz
 
-## Arbeitsbereich
-
-Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Halter fragt nach Anspruechen. Prueft InsO §§ 21 47 50 103 Absonderungsrecht Leasingvertrag Slot-Nicht-Uebertragbarkeit EuGH Cape-Town-Insolvenzschutz Art. XI Aircraft Protocol und liefert Glaeubiger-Strategie-Vermerk und Anmeldeformular-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,10 +54,6 @@ Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Halter fragt nach
 - Passagier meldet Forderung zu spät; Fristversäumnis.
 - Slot-Übertragung an Käufer versucht; scheitert nach EuGH C-272/06.
 
-## Output
-
-Gläubiger-Strategie-Vermerk nach Rang und Anspruchstyp. Forderungsanmeldungs-Baustein. Cape-Town-IDERA-Checkliste.
-
 ## Quellen
 
 - InsO: https://www.gesetze-im-internet.de/inso/
@@ -88,3 +80,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

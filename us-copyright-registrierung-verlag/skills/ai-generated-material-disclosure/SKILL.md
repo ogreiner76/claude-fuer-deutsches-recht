@@ -5,10 +5,6 @@ description: "KI-generierte oder KI-assistierte Inhalte im Verlagstitel erkennen
 
 # AI Generated Material Disclosure
 
-## Arbeitsbereich
-
-KI-generierte oder KI-assistierte Inhalte im Verlagstitel erkennen, Human-Authorship-Anteile abgrenzen, AI-Material disclaimen und eCO-Angaben vorsichtig vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ KI-generierte oder KI-assistierte Inhalte im Verlagstitel erkennen, Human-Author
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Prüfe, ob ein Verlagstitel KI-generiertes Material enthält und wie der Copyright-Claim begrenzt werden muss. Der Skill ist für Bücher, Abbildungen, Tabellen, Cover, Übersetzungsunterstützung, Lektorats-KI und automatisierte Zusammenfassungen gedacht.
-
 ## Prüfschritte
 
 1. KI-Einsatz erfassen: Text, Bild, Cover, Tabellen, Übersetzung, Lektorat, Recherche, Layout oder reine Hilfsfunktion.
@@ -34,17 +26,9 @@ Prüfe, ob ein Verlagstitel KI-generiertes Material enthält und wie der Copyrig
 4. eCO-Angaben vorbereiten: Claim nicht zu breit formulieren; AI-Material und ausgeschlossene Elemente transparent behandeln.
 5. Vertrags- und Autorenkommunikation prüfen: Zusicherungen, Dokumentation der menschlichen Beiträge, Freigabeprozess.
 
-## Output
-
-Eine Claim-Abgrenzungsmatrix mit Spalten: Bestandteil, Entstehung, menschlicher Beitrag, Risiko, eCO-Hinweis, Nachweis.
-
 ## Vorsicht
 
 Bei streitiger Schutzfähigkeit, Plattformklagen oder wichtigen US-Rechten US-Counsel einschalten. Keine pauschale Aussage, dass ein KI-assistiertes Werk insgesamt unregistrierbar oder voll geschützt sei.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Aktueller USCO-Prüfanker
 

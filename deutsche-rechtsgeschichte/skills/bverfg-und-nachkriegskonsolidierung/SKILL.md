@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Er
 
 # BVerfG und Nachkriegskonsolidierung
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das Bundesverfassungsgericht (BVerfG) wurde am 7. September 1951 in Karlsruhe er
 - Sekundaerliteratur: Uwe Wesel, Geschichte des Rechts (1. und 2. Teil)
 - Leibholz Strukturprobleme der modernen Demokratie (1958): historische Ausgabe
 
-## Output
-
-- Zeitleiste BVerfG-Fruehphase: 1951-1960 mit Leitentscheidungen
-- Lueths-Urteil: Kernaussagen und dogmatische Bedeutung
-- Parteiverbotsverfahren SRP und KPD: Unterschiede und Gemeinsamkeiten
-
-## Quellenregel
-
-BVerfGE 2, 1 und 5, 85 und 6, 32 und 7, 198: vollstaendig bei bverfg.de. BVerfGG: gesetze-im-internet.de. GG: gesetze-im-internet.de. Leibholz 1958: historische Ausgabe.

@@ -5,10 +5,6 @@ description: "Mandantenbrief Warnung Paragraph 102 StaRUG Template: ordnet Norme
 
 # Mandantenbrief-Templates — § 102-StaRUG-Warnung in drei Eskalationsstufen
 
-## Arbeitsbereich
-
-Mandantenbrief Warnung Paragraph 102 StaRUG Template: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,22 +51,6 @@ Mandantenbrief Warnung Paragraph 102 StaRUG Template: ordnet Normen, Nutzerangab
 - Auslöser: Keine Reaktion nach Stufe 2, offensichtliche Fahrlässigkeit des Mandanten
 - Ton: klar, formal, ohne Wertung
 - Format: Einschreiben mit Rückschein, sofortige Wirkung oder angemessene Übergabefrist
-
----
-
-## Vorgehen
-
-### Dokumentations-Checkliste für Berater
-
-Für jedes § 102-StaRUG-Warnschreiben:
-
-- [ ] Datum der Erkenntnis der Krisenzeichen protokolliert
-- [ ] Stufe-1-Schreiben versendet am [Datum], per [E-Mail / Brief / Einschreiben]
-- [ ] Empfangsnachweis erhalten am [Datum]
-- [ ] Reaktion des Mandanten: [Beschreibung] / Keine Reaktion
-- [ ] Ggf. Stufe-2-Schreiben versendet am [Datum]
-- [ ] Ggf. Stufe-3-Schreiben / Mandatsniederlegung am [Datum]
-- [ ] Alle Dokumente archiviert in Mandantenakte
 
 ---
 
@@ -316,16 +296,9 @@ _______________________________ _______________________________
 
 ---
 
-## Querverweise
-
-- → `paragraph-102-starug-warnpflicht-bei-rechtsberatern` — rechtliche Grundlagen der Warnpflicht
-- → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Protokollierung auf Mandantenseite
-- → `paragraph-1-starug-pflichten-und-24-monats-horizont` — Früherkennungspflicht der GF
-- → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — § 15a InsO-Hinweis im Template
-- → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF-Haftungsfolgen
-
 ## Weitere Leitentscheidungen (Stand Mai 2026)
 
 - **BGH IX ZR 285/14 vom 26.01.2017** — Hinweis- und Warnpflicht des Steuerberaters bei Krisensignalen.
 - **BGH IX ZR 56/22 vom 29.06.2023** — Drittschutzwirkung zugunsten faktischer Geschäftsführer.
 - Aktuelle Urteile zur Berater-Haftung (Steuerberater, WP, RA) vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
+

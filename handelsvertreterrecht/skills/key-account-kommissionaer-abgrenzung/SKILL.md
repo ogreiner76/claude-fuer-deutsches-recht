@@ -5,10 +5,6 @@ description: "Prüft Konflikte zwischen Handelsvertretern und Unternehmen bei Ke
 
 # Key-Account-Konflikte im Handelsvertretervertrag — Gebietsschutz und Provision
 
-## Arbeitsbereich
-
-Prüft Konflikte zwischen Handelsvertretern und Unternehmen bei Key-Account-Betreuung: Ausnahme von Key Accounts vom Gebietsschutz, Provision bei Direktbetreuung durch Unternehmer, Abgrenzung Stammkunde und neuer Großkunde sowie vertragliche Gestaltung von Key-Account-Klauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - AGB-Klausel, die alle Großkunden automatisch zu Key Accounts macht, nach § 307 BGB nichtig.
 - Schadensersatz bei unberechtigter Direktbetreuung nicht geltend gemacht.
 
-## Output
-
-Key-Account-Provisionsberechnung, Vertragsprüfung Key-Account-Klausel, Schadensersatzberechnung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

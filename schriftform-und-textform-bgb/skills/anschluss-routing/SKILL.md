@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Schriftform/Textform BGB: wählt den nächs
 
 Dieses Anschluss-Routing für **Schriftform Und Textform Bgb** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `amtlicher-formkern-bgb-zpo-check` — Amtlicher Formkern BGB ZPO Check
@@ -35,10 +34,6 @@ Dieses Anschluss-Routing für **Schriftform Und Textform Bgb** wählt nach dem e
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Schriftform/Textform BGB.
 
 ## Qualitätsanker
 

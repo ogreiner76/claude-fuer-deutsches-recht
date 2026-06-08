@@ -5,9 +5,6 @@ description: "Hinschg Whistleblower Interne Untersuchung im Plugin Arbeitsrecht:
 
 # Hinschg Whistleblower Interne Untersuchung
 
-## Arbeitsbereich
-
-**Hinschg Whistleblower Interne Untersuchung** ordnet den Fall über die tragenden Prüfungslinien: Arbeitnehmer hat einen internen Hinweis gegeben oder, Referenz-Skill, Rechtliche Prüfung einer ordentlichen oder. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Hinschg Whistleblower Interne Untersuchung im Plugin Arbeitsrecht:
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `hinschg-whistleblower-antwort`
@@ -65,13 +63,6 @@ Das HinSchG ist seit 02.07.2023 in Kraft; eine veroeffentlichte BAG-Leitentschei
 
 - ArbG Braunschweig, Urteil vom 24.06.2025 - 6 Ca 303/24: § 36 Abs. 2 Satz 2 HinSchG (Beweislastumkehr) gilt nicht auf der Rechtsfolgenseite; Kausalitaet eines konkret behaupteten Schadens ist vom Anspruchsteller zu belegen. Vorgesetzte sind nicht automatisch interne Meldestelle. Hinweisgeber muss substantiiert darlegen, wann, wo und welche konkrete Meldung erfolgte. Quelle: Hensche Arbeitsrecht (vor Schriftsatzverwendung Volltext ueber offene Quelle verifizieren).
 - Bei Verwendung im Schriftsatz: erstinstanzliche Entscheidungen sind nicht bindend, neuere LAG/BAG-Rechtsprechung pruefen.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Seit 2.7.2023 ist das HinSchG in Kraft (Umsetzung EU-RL 2019/1937). Dieses Skill bedient zwei Konstellationen: Mandant ist Beschäftigter (Whistleblower-Schutz) oder Arbeitgeber (Meldekanal-Pflicht und Repressalien-Verteidigung).
 
 ## Eingaben
 
@@ -349,16 +340,6 @@ Bei Rückfragen wenden Sie sich bitte an
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Interne Untersuchungen scheitern auf zwei Wegen: fehlende Quellenabdeckung
-(Erkenntnisquellen, die nie erhoben wurden) und fehlende Synthese (Erkenntnisse,
-die erhoben wurden, aber nie verknüpft wurden). Diese Skill adressiert beide
-Schwachstellen — sie verfolgt, was erhoben wurde und was nicht, verarbeitet
-Dokumentenmassen zur Identifikation des Wesentlichen ohne den Anwalt zu
-überwältigen, und führt ein strukturiertes Protokoll, das jederzeit zu einem
-vertraulichen Memo verdichtet werden kann.
 
 ## Vertraulichkeit und Datenschutz
 
@@ -1067,10 +1048,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Die meisten Kündigungen sind rechtlich unproblematisch. Einige sind Klagen, die noch nicht eingereicht wurden. Dieser Skill findet die Hochrisikofälle, bevor die 3-Wochen-Frist des § 4 KSchG beginnt zu laufen: Sonderkündigungsschutz, fehlende Betriebsratsanhörung, mangelhafte Sozialauswahl, unzureichende Dokumentation.
-
 ## Eingaben
 
 - Kündigungsanlass (betriebsbedingt / verhaltensbedingt / personenbedingt)
@@ -1333,6 +1310,7 @@ Allgemein: Weitere Entscheidungen zu Sozialauswahl, betriebsbedingter Kuendigung
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1 – Fristprüfung (KRITISCH, SOFORT)
@@ -1406,20 +1384,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Gütetermin within 2 Wochen (§ 54 ArbGG): aktive Vorbereitung auf Einigung; Abfindungsüberlegungen nach § 9, 10 KSchG.
 - Kammertermin bei Nichteinigung (§ 57 ArbGG).
 
-## Ausgabeformat
-
-**Standardausgabe:** Rechtliches Memo im Gutachtenstil (vgl. references/methodik-buergerliches-recht.md Ziff. 6):
-1. Sachverhalt
-2. Frage
-3. Ergebnis (1 Satz)
-4. Rechtliche Bewertung (je Prüfungspunkt)
-5. Gesamtergebnis und Empfehlung
-6. Quellenverzeichnis
-
-**Auf Anforderung:** Vollständige Klageschrift (Urteilsstil, Antrag + Begründung).
-
-**Zusätzlich:** Checkliste Fristablauf und Anhörungsfehler als Tabelle.
-
 ## Beispiel
 
 **Sachverhalt:** Arbeitnehmerin A ist seit 8 Jahren als Sachbearbeiterin bei der B-GmbH (85 Arbeitnehmer) beschäftigt. Am 15.04.2025 geht ihr eine ordentliche betriebsbedingte Kündigung zum 30.06.2025 zu. Ein Betriebsrat besteht. A behauptet, die B-GmbH habe die Sozialauswahl fehlerhaft durchgeführt, da die jüngere Kollegin K (3 Jahre Betriebszugehörigkeit, keine Unterhaltspflichten) trotz geringerer Sozialpunkte weiterbeschäftigt wurde.
@@ -1479,3 +1443,4 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - Bei umstrittenen Fragen (z. B. Vergleichbarkeitsbegriff, Interessenabwägung) h. M. und Gegenauffassung getrennt zitieren.
 - Halluzinationsrisiko: Alle Aktenzeichen und Fundstellen vor Einreichung gegenzuprüfen.
 - Keine reine "vgl."-Floskel ohne nachvollziehbaren Verweis.
+

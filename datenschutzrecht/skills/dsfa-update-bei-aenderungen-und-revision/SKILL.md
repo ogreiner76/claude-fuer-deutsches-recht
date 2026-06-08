@@ -5,10 +5,6 @@ description: "Aktualisierung einer DSFA bei wesentlichen Aenderungen der Verarbe
 
 # DSFA Update bei Aenderungen und Revision
 
-## Zweck
-
-Steuerung der Aktualisierung einer bestehenden DSFA bei wesentlichen Aenderungen der Verarbeitungstaetigkeit nach Art. 35 Abs. 11 DSGVO. Ergebnis ist ein Revisionsplan mit Trigger-Liste, Aenderungsanalyse, Risikoreassessment und Versionshistorie. Ziel ist, die DSFA als lebendes Dokument zu fuehren und nicht als Einmalvorgang.
-
 ## Wann dieses Modul hilft
 
 - Bei Aenderung der Zwecke einer Verarbeitung
@@ -114,14 +110,6 @@ Versionshistorie
 - Nach Datenpanne (Art. 33) wird die DSFA nicht ueberprueft.
 - KI-Modellupdate wird nicht als Trigger erkannt.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Basisvorlage
-- `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Vorabkonsultation bei Aenderung
-- `datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/SKILL.md` — Versionierung
-- `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` — Trigger Datenpanne
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 11 DSGVO
@@ -131,3 +119,4 @@ Versionshistorie
 - BfDI / Landesbehoerden — Verfahrenshinweise
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

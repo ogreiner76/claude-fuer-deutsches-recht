@@ -5,10 +5,6 @@ description: "Wehrpflichtgesetz Spannungs- und Verteidigungsfall: prüft Reaktiv
 
 # Wehrpflichtgesetz: Spannungs- und Verteidigungsfall
 
-## Arbeitsbereich
-
-Wehrpflichtgesetz Spannungs- und Verteidigungsfall: prüft Reaktivierung Wehrpflicht, Musterung, Heranziehung und Rechtsbehelfe. Norm-/Quellenanker: WPflG, Art. 12a GG, Art. 115a GG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ KDV-Verfahren läuft parallel; Zurückstellungen für bestimmte Berufsgruppen un
 - WPflG — Wehrpflichtgesetz
 - SG §§ 60 ff. — Reservisten im Verteidigungsfall
 - KDV-Verfahren
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -95,21 +85,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Prüfschema: Wehrpflicht-Heranziehung anfechten
 - Zeitstrahl: Verteidigungsfall — rechtliche Folgen
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/wpflg/ — WPflG
-- https://dejure.org/gesetze/GG/12a.html
-- https://dejure.org/gesetze/GG/115a.html
-- https://www.bverwg.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -119,3 +94,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

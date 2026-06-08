@@ -5,10 +5,6 @@ description: "Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderh
 
 # Deposit versus Registration 407 und 408
 
-## Arbeitsbereich
-
-Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderhalten: Pflichtabgabe, formale Registrierung, Shipping Slip, Fristen und Verlagspraxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Mandatory Deposit (§ 407) und Registrierung (§ 408) auseinanderhalten: Pflicht
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Erkläre und dokumentiere den Unterschied zwischen Mandatory Deposit und Copyright Registration. Viele Verlagsfehler entstehen, weil beide Vorgänge praktisch ähnlich aussehen, aber unterschiedliche Funktionen haben.
 
 ## Kerndifferenz
 
@@ -40,14 +32,6 @@ Erkläre und dokumentiere den Unterschied zwischen Mandatory Deposit und Copyrig
 - Welche Adresse/Shipping-Slip-Logik gilt für den gewählten Weg?
 - Wie wird der Eingang bewiesen?
 
-## Output
-
-Ein kurzer Verlagsvermerk mit Zweck, Rechtsroute, Deposit-Anforderung, Frist, Belegen und offenem Live-Check.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
-
 ## Tiefencheck für die Akte
 
 Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
@@ -58,3 +42,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Frist-/Remedy-Wirkung hat timing nach § 411/§ 412 und was muss als Nachweis in die Verlagsakte?
 
 **Mindest-Output:** Registrierungsakte mit Antragstyp, Werkdaten, Rechtekette, Deposit-Route, Fee/Tracking und Certificate-Archiv.
+

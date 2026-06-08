@@ -8,6 +8,7 @@ description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am A
 ## Arbeitsbereich
 
 **Urteil Rechtskraft Urteilsverkuendung ZPO** ordnet den Fall über die tragenden Prüfungslinien: Rechtskraft des Urteils nach § 705 ZPO, Urteilsverkündung nach § 310 ZPO, Verbrauchergerichtsstand § 29c ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +24,7 @@ description: "Urteil Rechtskraft Urteilsverkuendung ZPO im Selbstvertretung am A
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `urteil-rechtskraft-705-zpo`
@@ -116,24 +118,9 @@ Bei Verwerfung oder Zurueckweisung der Berufung wird das AG-Urteil rechtskraefti
 - "Ich kann nochmal klagen mit anderen Beweisen." → Bei Rechtskraft i. d. R. ausgeschlossen.
 - "Vor Rechtskraft keine Vollstreckung." → Doch, vorläufige Vollstreckbarkeit.
 
-## Querverweise
-
-- `vollstreckungsklausel-724-zpo` — Klausel.
-- `urteil-pruefen-313-zpo` — Urteil.
-- `berufung-amtsgericht-511-zpo` — Berufung.
-- `zwangsvollstreckung-querverweis-substitutionsagent` — Vollstreckung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 322, 705 ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `urteilsverkuendung-310-zpo`
 
@@ -256,24 +243,9 @@ Bei Teil-Erfolg: Kosten anteilig (§ 92 ZPO).
 - "Ich muss zum Verkuendungs-Termin." → Nein, nicht zwingend.
 - "Urteil heisst Endgueltig." → Erst nach Rechtskraft (Skill `urteil-rechtskraft-705-zpo`).
 
-## Querverweise
-
-- `urteil-pruefen-313-zpo` — Schriftliches Urteil.
-- `berufung-amtsgericht-511-zpo` — Berufung.
-- `rechtsmittelfrist-517-zpo` — Frist.
-- `urteil-rechtskraft-705-zpo` — Rechtskraft.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 310 ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `verbrauchergerichtsstand-29c-zpo`
 
@@ -351,20 +323,7 @@ Schreiben Sie in die Klageerwiderung: "Die oertliche Zuständigkeit wird geruegt
 - "Ich klage am Sitz des Online-Shops, dort gibt es einen Geschaeftsfuehrer." → Nein, § 29c ZPO greift; Sie klagen am eigenen Wohnsitz.
 - "Ich bin Freiberufler, kann das aber privat geltend machen." → Sie muessen sich entscheiden — wenn Sie als Privatperson gekauft haben, ja.
 
-## Querverweise
-
-- `oertliche-zuständigkeit-12-37-zpo` — Allgemeine Gerichtsstandsregeln.
-- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Sachliche Zuständigkeit AG.
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 29c ZPO unveraendert. Bei internationalen Verbrauchertraegen Bruessel-Ia-VO zusaetzlich beachten.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

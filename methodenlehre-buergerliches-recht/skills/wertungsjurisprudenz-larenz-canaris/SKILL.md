@@ -76,17 +76,6 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 **Kritik aus Critical Legal Studies (siehe Skill `legal-realism-und-critical-legal-studies`):** Wertungen sind nicht "objektiv", sondern Ausdruck politischer und sozialer Interessen.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Grundkanon, im Lichte der Wertungslehre.
-- `teleologische-auslegung` — Wertungsdimension der Telos-Analyse.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Grundrechtsbindung als Wertungselement.
-- `pandekten-und-begriffsjurisprudenz` — Gegenposition.
-- `interessenjurisprudenz-heck` — Vorlaeufer.
-- `topik-viehweg-vs-systemdenken` — Gegenposition.
-- `systemtheorie-luhmann-rechtssystem-autopoiese` — Systemtheorie als andere Bezugnahme auf "System".
-- `legal-realism-und-critical-legal-studies` — externe Kritik.
-
 ## Quellen und Stand 05/2026
 
 - Karl Larenz, Methodenlehre der Rechtswissenschaft, 1960 (6. Aufl. 1991).
@@ -100,10 +89,3 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische
 
 # GewR: Einstweilige Verfügung – Strategische Gesamtbetrachtung
 
-## Arbeitsbereich
-
-Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrachtung von Antrag bis Hauptsache. Gerichtsauswahl, Tenorformulierung, Sicherheitsleistung, Vollzug, Widerspruch und Übergang in die Hauptsache als integrierter Workflow. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -142,3 +138,4 @@ Vor jeder EV-Entscheidung:
 - `evvollzug-neu-001` bis `evvollzug-neu-008` – Vollzugsschritte
 - `evvollzug-neu-008` – Schutzschrift (Gegenseite)
 - `spezial-operate-verhandlung-vergleich-und-eskalation` – Vergleichsstrategie
+

@@ -5,10 +5,6 @@ description: "Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§
 
 # Vertragsschluss — Antrag und Annahme §§ 145 bis 156 BGB
 
-## Arbeitsbereich
-
-Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 B
 - § 130 Abs. 2 BGB: Tod des Antragenden nach Abgabe hindert Wirksamkeit nicht — häufig falsch gelöst.
 - Kaufmännisches Bestätigungsschreiben kann Vertragsinhalt nachträglich modifizieren.
 
-## Output
-
-- Gutachtenstil-Abschnitt zum Vertragsschluss nach §§ 145 bis 156 BGB
-- Zeitstrahl: Antrag-Abgabe → Antrag-Zugang → Annahme-Frist → Annahme-Zugang → Vertragsschluss
-- Prüfampel: Vertrag geschlossen / Annahmefrist abgelaufen / abgeänderte Annahme als neues Angebot
-- Klausurlösungsskizze mit verspäteter und abgeänderter Annahme
-
 ## Quellen
 
 - [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
@@ -93,3 +82,4 @@ den internationalen BGB-AT-Vergleich.
 - Annahmefrist nach § 147 BGB berechnet?
 - Annahme innerhalb der Frist zugegangen?
 - Verspätete Annahme (§ 149 BGB) oder abgeänderte Annahme (§ 150 Abs. 2 BGB) als neues Angebot?
+

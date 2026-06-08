@@ -134,13 +134,6 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 - Keine Pruefturnusangaben.
 - Sub-AV-Konsistenz nicht adressiert.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-mindestinhalte-checkliste/SKILL.md`
-- `datenschutzrecht/skills/avv-audit-und-kontrollrechte/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/dpa-en-tom-annex-template/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 25, Art. 28 Abs. 3 lit. c, Art. 32 DSGVO.
@@ -150,10 +143,3 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 - SOC 2 Trust Services Criteria.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

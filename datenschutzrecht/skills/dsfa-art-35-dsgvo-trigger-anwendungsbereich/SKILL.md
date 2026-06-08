@@ -5,10 +5,6 @@ description: "Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich
 
 # DSFA Trigger und Anwendungsbereich nach Art. 35 DSGVO
 
-## Zweck
-
-Dieser Skill liefert eine strukturierte Erstpruefung der Frage, ob für eine konkrete Verarbeitungstaetigkeit eine Datenschutz-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO durchzufuehren ist. Ergebnis ist ein Triage-Vermerk mit klarer Aussage DSFA-pflichtig, optional oder entbehrlich und einer Begruendung mit Norm-Anker.
-
 ## Wann dieses Modul hilft
 
 - Vor Einfuehrung einer neuen Verarbeitungstaetigkeit
@@ -95,15 +91,6 @@ Unterschrift DSB: ____________________
 - DSB nicht beteiligt obwohl Art. 35 Abs. 2 ausdruecklich Anhörung verlangt.
 - Wesentliche Aenderung uebersehen — Re-Triage nach Art. 35 Abs. 11 notwendig.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-bfdi-und-laender-blacklist/SKILL.md` — Blacklist-Abgleich
-- `datenschutzrecht/skills/dsfa-edpb-leitlinien-9-19-anwendung/SKILL.md` — EDSA-Kriterien im Detail
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage nach positiver Triage
-- `datenschutzrecht/skills/dsfa-typische-fehler-bei-erstpruefung/SKILL.md` — Fehlerquellen Erstpruefung
-- `datenschutzrecht/skills/anwendungsfall-triage/SKILL.md` — Plugin-weite Triage
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35, 36 DSGVO (Verordnung EU 2016/679)
@@ -114,3 +101,4 @@ Unterschrift DSB: ____________________
 - Landesdatenschutzbehoerden (LfDI BW, LDA Bayern u.a.) — eigene Listen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle oder lizenziertem Live-Zugriff
+

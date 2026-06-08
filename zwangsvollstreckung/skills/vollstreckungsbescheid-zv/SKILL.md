@@ -37,13 +37,6 @@ Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. �
 - § 204 Abs. 2 S. 1 BGB — Ende der Verjährungshemmung bei Verfahrenseinstellung
 - § 705 ZPO — Rechtskraft des VB nach Ablauf der Einspruchsfrist
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Der Vollstreckungsbescheid (VB) ist der Titel, den die meisten Mahnverfahren in Deutschland produzieren. Der Skill begleitet den Antrag, die Reaktion auf Einspruch und die Vollstreckung aus dem VB.
-
 ## Rechtsgrundlagen
 
 - **§ 699 ZPO** – Vollstreckungsbescheid auf Antrag nach Ablauf der Widerspruchsfrist; nicht früher als 14 Tage nach Zustellung des Mahnbescheids (§ 699 Abs. 1 S. 2 ZPO).
@@ -87,30 +80,6 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-```
-VB-STATUS [Mandant] gegen [Schuldner]
-
-Mahnbescheid:
- Zugestellt am: [DD.MM.JJJJ]
- Frist 14 Tage ablauf: [DD.MM.JJJJ]
- Widerspruch: [NEIN / JA Volltext: ...]
-
-VB-Antrag:
- Beantragt am: [DD.MM.JJJJ]
- 6-Monats-Frist § 701: [eingehalten]
- VB erlassen am: [DD.MM.JJJJ]
- VB zugestellt am: [DD.MM.JJJJ]
-
-Einspruchsfrist: [Ende DD.MM.JJJJ]
-Einspruch eingegangen: [NEIN / JA – Übergang Streitverfahren]
-
-Status: [Rechtskraft eingetreten am DD.MM.JJJJ – VOLLSTRECKBAR]
-
-Nächster Skill: [zv-kommandocenter / zv-pfueb-bank / ...]
-```
-
 ## Qualitätsgates
 
 - Niemals VB vollstrecken, ohne Zustellnachweis vorzulegen § 750 ZPO.
@@ -128,3 +97,4 @@ Halluzinations-Reparatur: BGH VII ZB 34/13 (NOT_FOUND) geloescht.
 Kein Ersatz: § 796 Abs. 1 ZPO regelt Klausel kraft Gesetzes direkt im Gesetz;
 kein bekanntes BGH-AZ zu diesem Einzelpunkt verifizierbar auf dejure.org.
 -->
+

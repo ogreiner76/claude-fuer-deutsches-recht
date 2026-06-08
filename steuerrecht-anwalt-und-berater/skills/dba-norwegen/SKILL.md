@@ -79,12 +79,6 @@ Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 970, in Kraft 07.10.1993) rege
 ### Phase 5 — Wegzug § 6 AStG
 ### Phase 6 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo Norwegen.
-- Berechnungsbeispiel Offshore.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Offshore-Aktivitaeten: 30-Tage-Schwelle pruefen — Bohrinsel-Aktivitaeten begruenden schnell Betriebsstaette.
@@ -160,12 +154,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Norwegen 1991 mit Aenderungsprotokoll 2013 Fundstellen, BMF-Schreiben verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-island`, `stb-dba-schweden`, `stb-dba-daenemark`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Norwegen 04.10.1991, in Kraft 07.10.1993 (BGBl. 1993 II S. 970). Aenderungsprotokoll 24.06.2013 (BGBl. 2014 II S. 906, in Kraft 03.02.2015). MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 4 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

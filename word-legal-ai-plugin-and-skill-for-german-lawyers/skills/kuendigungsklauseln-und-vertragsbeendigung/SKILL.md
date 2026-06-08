@@ -17,10 +17,6 @@ Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill unterstützt Sie beim Aufbau und der Prüfung von Beendigungsregelungen in Dauerschuldverhältnissen. Eine saubere Beendigungsklausel definiert Voraussetzungen, Erklärungsweg, Zugang und Folgen für den Vertrag und seine Boilerplate. Schlechtes Drafting führt regelmäßig zu unklarer Beendigung, Streit über den Zeitpunkt der Beendigung und Verlust durchsetzbarer Folgepflichten.
-
 ## Eingaben
 
 - Vertragstyp (Dauerschuldverhältnis, Werkvertrag, Dienstvertrag, Lizenz, Lieferrahmenvertrag).
@@ -61,13 +57,6 @@ Dieser Skill unterstützt Sie beim Aufbau und der Prüfung von Beendigungsregelu
 - Doppelte Schriftformklausel ohne Rücksicht auf § 305b BGB: Individualabrede geht vor.
 - Insolvenzklauseln ohne Berücksichtigung von § 119 InsO und der BGH-Rechtsprechung zu Lösungsklauseln.
 
-## Ausgabeformat
-
-- Klauselentwurf für ordentliche und außerordentliche Kündigung in Urteilsstil.
-- Survival-Klausel als eigener Absatz.
-- Mustertext für Kündigungserklärung mit Datum, Bezug, Begründung (außerordentlich), Frist, Unterschrift.
-- Risikohinweise zu Form, Zugang und Beweislast.
-
 ## Beispiele
 
 Mustertext (Vertragsklausel, B2B-Dauerschuldverhältnis):
@@ -83,16 +72,10 @@ Mustertext (außerordentliche Kündigungserklärung):
 > Sehr geehrte Damen und Herren,
 > in Sachen Rahmenliefervertrag vom ... kündige ich namens und in Vollmacht der ... GmbH den Vertrag außerordentlich aus wichtigem Grund mit sofortiger Wirkung. Der wichtige Grund liegt in der mit Schreiben vom ... abgemahnten und seither nicht behobenen Nichtlieferung gemäß Abruf ... Hilfsweise erkläre ich die ordentliche Kündigung zum nächstmöglichen Termin.
 
-## Querverweise
-
-- `boilerplate-klauseln-katalog` – Survival-, Schriftform- und Gerichtsstandsklausel.
-- `geheimhaltung-nda-vertraulichkeit` – Fortwirkung der Geheimhaltung nach Vertragsende.
-- `schriftform-und-textform-bgb` (Plugin gleichen Namens) – Vertiefung zu §§ 126, 126a, 126b BGB.
-- `vertragsstrafe-339-bgb` – Strafversprechen mit Bezug auf Kündigung.
-
 ## Quellen (Stand 05/2026)
 
 - §§ 125, 126, 126a, 126b, 130, 314, 580a, 621, 622, 305b BGB.
 - § 119 InsO (Beschränkung von Lösungsklauseln).
 - BGH-Rechtsprechung zu doppelten Schriftformklauseln und zu Lösungsklauseln in der Insolvenz ist vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
+

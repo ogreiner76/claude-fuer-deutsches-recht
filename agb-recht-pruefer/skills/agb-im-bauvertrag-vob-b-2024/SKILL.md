@@ -51,8 +51,3 @@ description: "AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie 
 4. Aenderungen 2024 anwendbar?
 5. § 650a ff. BGB zwingend einschlaegig?
 
-## Output
-
-- VOB-B-Pruefraster.
-- Klauselgegenpruefung B2C / B2B.
-- Schriftsatzbaustein.

@@ -51,10 +51,6 @@ description: "Dieses Skill erstellt aus anwaltlicher Perspektive eine systematis
 - Originale werden nicht gesichert, obwohl Kopien nicht ausreichen (Formerfordernisse, § 416 ZPO).
 - Der Mandant wird nicht über seine Mitwirkungspflichten informiert, was die Dokumentenbasis unvollständig lässt.
 
-## Output
-
-Das Skill produziert eine tabellarische Dokumentenmatrix mit drei Spalten: Tatbestandsmerkmal, vorhandene Beweismittel, fehlende Beweismittel. Ergänzt wird eine priorisierte Lückenliste mit Angabe, wer welches Dokument bis wann beschaffen muss. Das Ergebnis fließt in das Mandatsprotokoll und in die Prozessplanung ein.
-
 ## Quellen
 
 - [§ 286 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__286.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

@@ -5,10 +5,6 @@ description: "Analyse struktureller Handelsabhängigkeiten von Deutschland/EU ge
 
 # Handelsbilanz und Abhängigkeiten: Analyse und Risikobewertung
 
-## Arbeitsbereich
-
-Analyse struktureller Handelsabhängigkeiten von Deutschland/EU gegenüber VR China: Gütergruppen mit Importkonzentration über 50 Prozent, kritische Rohstoffe (Seltene Erden, Gallium, Germanium), Exportabhängigkeiten dt. Industrie (Automotive, Maschinenbau), Substitutionspotenzial. Output: Abhängigkeitsmatrix mit Risikobewertung und Diversifizierungsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,13 +77,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
 
-## Output
-
-Abhängigkeitsmatrix (Gütergruppen, Konzentration, Kritikalität, Substitutionspotenzial), priorisierte Diversifizierungsoptionen, Risiko-Ampel.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
-
 ## Quellen
 
 Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
@@ -97,3 +86,4 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [EU Foreign Subsidies VO 2022/2560](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2560)
 - [AWG Volltext](https://www.gesetze-im-internet.de/awg_2013/)
+

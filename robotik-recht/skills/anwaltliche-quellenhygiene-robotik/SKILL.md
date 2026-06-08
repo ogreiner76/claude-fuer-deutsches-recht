@@ -80,12 +80,6 @@ Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeich
 - **Verlinkung statt Zitat** ohne Volltext-Sicherung.
 - **Norm ohne Jahresangabe** ("ISO 10218") – mehrdeutig.
 
-## Querverweise
-
-- `robotik-recht-allgemein`
-- alle Fachmodule mit Quellenangabe
-- `references/zitierweise.md` im Repository
-
 ## Checkliste pro Memo/Schriftsatz
 
 - [ ] Jede juristische Aussage hat eine Belegstelle
@@ -125,3 +119,4 @@ Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeich
 - § 43a Abs. 3 BRAO; § 138 ZPO.
 - eur-lex.europa.eu; ECLI-Portal; openJur; dejure.org; bundesgerichtshof.de.
 - Lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

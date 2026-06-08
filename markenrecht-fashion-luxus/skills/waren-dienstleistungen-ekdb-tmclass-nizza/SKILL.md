@@ -5,10 +5,6 @@ description: "Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid 
 
 # Waren- und Dienstleistungsverzeichnis
 
-## Arbeitsbereich
-
-Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerf
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Erstelle oder prüfe ein Waren- und Dienstleistungsverzeichnis, das breit genug schützt, aber nicht wegen Unklarheit, Kosten, Nichtbenutzung oder falscher Klassenstrategie zur späteren Falle wird.
 
 ## Intake
 
@@ -42,13 +34,7 @@ Erstelle oder prüfe ein Waren- und Dienstleistungsverzeichnis, das breit genug 
 5. **Benutzungsschonfrist mitdenken:** Zu breite Listen erhöhen Angriffsfläche für Verfall wegen Nichtbenutzung.
 6. **Luxus-/Fashion-Spezial:** Klassen 3, 9, 14, 18, 25, 35, 41, 42 prüfen; digitale Waren, NFTs, virtuelle Kleidung und Retail-Services sauber abgrenzen.
 
-## Output
-
-- Entwurf des Verzeichnisses nach Klassen.
-- Begründung pro Klasse.
-- Streich-/Risikoliste.
-- Anmeldeempfehlung DPMA/EUIPO/Madrid.
-
 ## Quellen
 
 TMclass, DPMA-eKDB, EUIPO Guidelines und aktuelle Gebührenhinweise live prüfen.
+

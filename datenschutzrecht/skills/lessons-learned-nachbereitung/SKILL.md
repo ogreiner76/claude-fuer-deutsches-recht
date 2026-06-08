@@ -29,10 +29,6 @@ Nicht aus Modellwissen; insbesondere zu Bußgeldmilderungen bei nachweislicher L
 
 Art. 5 Abs. 2; Art. 24; Art. 32; Art. 33 Abs. 5 DSGVO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Workshop-Ablauf
 
 1. Eröffnung — Ziel; Just Culture; Vertraulichkeit.
@@ -55,3 +51,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - `dsv-vvt-update-nach-vorfall` und `dsv-dsfa-update-nach-vorfall` decken die Compliance-Aktualisierung ab.
 - `dsv-bussgeldverteidigung-art-83` deckt die Verteidigung ab.
+

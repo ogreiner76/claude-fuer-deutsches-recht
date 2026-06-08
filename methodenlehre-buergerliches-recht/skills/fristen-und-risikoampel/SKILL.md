@@ -51,10 +51,6 @@ description: "Dieses Skill bearbeitet die systematische Fristenüberwachung mit 
 - Neue Fristen aus Gegenschriftsätzen und Urteilen werden nicht sofort ins System aufgenommen.
 - Der Mandant wird nicht über kritische Fristen informiert, was zu einer Haftung des Anwalts führt.
 
-## Output
-
-Das Skill liefert eine vollständige Fristenliste mit Risikoampel, kalendarischen Wiedervorlagen und einem Mandantenschreiben für kritische Fristen. Das System wird für das gesamte Mandat fortgeführt und bei jedem neuen Vorgang aktualisiert. Es bildet die Grundlage für eine haftungsfreie Mandatsführung.
-
 ## Quellen
 
 - [§ 195 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

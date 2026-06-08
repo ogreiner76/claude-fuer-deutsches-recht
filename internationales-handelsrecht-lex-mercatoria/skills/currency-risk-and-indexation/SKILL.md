@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Währungsrisiko und Indexklauseln in
 
 # Währungsrisiko und Indexklauseln
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Währungsrisiko und Indexklauseln in internationalen Verträgen. Wechselkursrisiko-Allokation, Hard-Currency-Klauseln, Zahlungswährung vs. Rechnungswährung, CISG Art. 54 Zahlungspflicht und IWF-SZR-Referenzierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Wechselkursrisiken können den wirtschaftlichen Vertragswert erheblich verschieb
 - Indexklausel: Fallback-Index für Fälle der Indexabschaffung definieren
 - Währungskontrollen: Force-Majeure-Klausel explizit auf Devisenbeschränkungen erstrecken
 
-## Output
-
-- Hard-Currency-Klausel-Muster
-- Indexklausel-Muster (mit Fallback)
-- Währungsrisiko-Matrix für Top-Handelsländer
-
 ## Quellenregel
 
 CISG Art. 54, 74, 78: uncitral.un.org. PICC Art. 6.1.9: unidroit.org. Rom I Art. 12: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.
+

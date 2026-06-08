@@ -5,9 +5,6 @@ description: "Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Ko
 
 # Koerperverletzung Stgb Todesfolge
 
-## Arbeitsbereich
-
-**Koerperverletzung Stgb Todesfolge** ordnet den Fall über die tragenden Prüfungslinien: Koerperverletzung nach § 223 StGB Grundtatbestand, Koerperverletzung mit Todesfolge nach § 227 StGB, Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +27,7 @@ description: "Koerperverletzung Stgb Todesfolge im Strafrecht: prüft konkret Ko
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-koerperverletzung-223-stgb-grund`
@@ -121,15 +119,6 @@ In der Praxis ist § 223 StGB Einstiegsnorm für eine Vielzahl von Konstellation
 
 **Plaedoyer-Snippet (Verteidigung):**
 > Die Beweisaufnahme hat ergeben, dass der Angeklagte in einer Konfliktlage gehandelt hat, in der er sich zumindest subjektiv angegriffen sah. Der notwendige Verletzungsvorsatz ist nicht zweifelsfrei belegt. Bei verbleibenden Zweifeln waere das Verfahren mindestens nach § 153 StPO einzustellen.
-
-## Querverweise
-
-- `strafrecht-spezial-gefaehrliche-koerperverletzung-224-stgb` – Qualifikation.
-- `strafrecht-spezial-schwere-koerperverletzung-226-stgb` – Erfolgsqualifikation.
-- `strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb` – Erfolgsqualifikation.
-- `strafrecht-spezial-misshandlung-schutzbefohlener-225-stgb` – qualifizierte Form.
-- `strafrecht-spezial-haeusliche-gewalt-im-strafverfahren` – Praxisleitfaden.
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` – Verstaendigung und TOA.
 
 ## Quellen Stand 06/2026
 
@@ -227,14 +216,6 @@ In der Praxis ist § 227 StGB das **Verteidigungsziel** bei Anklage wegen Totsch
 
 **Plaedoyer-Snippet:**
 > Die Beweisaufnahme hat ergeben, dass dem Angeklagten kein Toetungsvorsatz nachgewiesen werden kann. Die Hemmschwellentheorie der staendigen BGH-Rechtsprechung greift. Es bleibt der Schuldspruch wegen § 227 StGB. Die Tatumstaende rechtfertigen die Annahme eines minder schweren Falls iSd § 227 Abs. 2 StGB.
-
-## Querverweise
-
-- `strafrecht-spezial-totschlag-212-stgb` – Vorrangiger Tatbestand bei Toetungsvorsatz.
-- `strafrecht-spezial-mord-211-stgb-mordmerkmale` – Mordtatbestand.
-- `strafrecht-spezial-koerperverletzung-223-stgb-grund` – Grundtatbestand.
-- `strafrecht-spezial-gefaehrliche-koerperverletzung-224-stgb` – Qualifikation.
-- `strafrecht-spezial-schwere-koerperverletzung-226-stgb` – Erfolgsqualifikation.
 
 ## Quellen Stand 06/2026
 
@@ -335,13 +316,6 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der Liefer- und Zahlungsbedingungen der Y AG zu erheben zum Beweis der Tatsache, dass nach den Vertragsbedingungen die Faelligkeit erst 14 Tage nach Rechnungseingang eintritt."
 
-## Querverweise
-
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb`
-- `strafrecht-spezial-schuldnerbeguenstigung-283d-stgb`
-- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 129 InsO im Wortlaut (gesetze-im-internet.de).
@@ -353,14 +327,6 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 - Paragraph 153a StPO Einstellung gegen Auflage.
 - BGH staendige Rspr. zur Vorsatzanfechtung (subjektive Voraussetzungen, vergleiche BGH-Linie zu Paragraph 133 InsO seit 2017 reformiert).
 - BGH staendige Rspr. zur Schnittstelle Anfechtung und Bankrott.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `strafrecht-spezial-kreditbetrug-265b-stgb`
 
@@ -451,14 +417,6 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 ### Bestreiten Vorsatz
 
 "Der Mandant hat sich vor der Einreichung der Bilanz 2024 auf das Testat des Wirtschaftspruefers [Name] vom [Datum] verlassen. Eine ueber das Testat hinausgehende eigene Kenntnis konkreter Unrichtigkeiten ist nicht ersichtlich; ein Vorsatz im Sinne von § 265b Abs. 1 StGB wird bestritten."
-
-## Querverweise
-
-- `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
-- `strafrecht-spezial-subventionsbetrug-264-stgb`
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
 
 ## Quellen Stand 06/2026
 
@@ -556,13 +514,6 @@ Im Plaedoyer phaenomenologisch kontextualisieren: "Statistisch sind Vermoegensde
 **Antrag auf Bewaehrungsstrafe:**
 "Im Hinblick auf die phaenomenologische Einordnung der Tat — Beziehungstat ohne Tatwiederholungs-Risiko, sozial integrierter Mandant, vollstaendiger Schadensausgleich — ist eine Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB sowohl spezial- als auch generalpraeventiv geboten."
 
-## Querverweise
-
-- `strafrecht-spezial-kriminologie-grundlagen-und-praxis`
-- `strafrecht-spezial-kriminologie-rueckfallprognose`
-- `strafrecht-spezial-kriminologie-tatdynamik-und-modus-operandi`
-- `strafrecht-spezial-kriminologie-opferpsychologie`
-
 ## Quellen Stand 06/2026
 
 - Polizeiliche Kriminalstatistik des Bundeskriminalamts (jaehrlich, auf bka.de verifizieren).
@@ -640,14 +591,6 @@ Im Strafzumessungsplaedoyer kombinieren Sie Einzelfall und Empirie: "Mein Mandan
 **Mustersatz für Bewaehrungsantrag:**
 "Die Voraussetzungen für eine Aussetzung der Vollstreckung der Freiheitsstrafe zur Bewaehrung nach § 56 StGB liegen vor. Die kriminologische Prognose ist guenstig. Mein Mandant hat alle empirisch relevanten Schutzfaktoren: feste Arbeit, feste Partnerschaft, feste Wohnung, soziales Umfeld, fehlende Vorstrafen. Die Erwartung, er werde keine weiteren Straftaten begehen, hat eine breite empirische Grundlage."
 
-## Querverweise
-
-- `strafrecht-spezial-kriminologie-rueckfallprognose`
-- `strafrecht-spezial-kriminologie-tatdynamik-und-modus-operandi`
-- `strafrecht-spezial-kriminologie-opferpsychologie`
-- `strafrecht-spezial-kriminologie-deliktsphaenomenologie-vermoegen-gewalt-sex`
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-
 ## Quellen Stand 06/2026
 
 - Schwind, H. D., Kriminologie und Kriminalpolitik. Eine praxisorientierte Einfuehrung mit Beispielen (Lehrbuch-Bezug, generisch).
@@ -718,15 +661,6 @@ Im Plaedoyer respektvoll und differenziert: "Die Zeugin hat ohne Zweifel belaste
 
 **Mustersatz für Plaedoyer:**
 "Es ist unbestritten, dass die Zeugin Symptome psychischer Belastung zeigt. Es ist auch unbestritten, dass solche Symptome durch traumatische Ereignisse ausgeloest werden koennen. Was aber methodisch nicht zulaessig ist: aus den Symptomen auf die in der Anklage behauptete Tat zurueckzuschliessen. Symptome sind unspezifisch. Sie koennen viele Ursachen haben — und sie koennen auch durch das Verfahren selbst, durch die Therapie, durch sekundaere Viktimisierung mit erzeugt werden. Damit traegt der Trauma-Beweis die Verurteilung nicht."
-
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
-- `strafrecht-spezial-aussagepsychologie-aussagetuechtigkeit-aussagebereitschaft`
-- `strafrecht-spezial-aussagepsychologie-jugendliche-und-belastung`
-- `strafrecht-spezial-kriminologie-grundlagen-und-praxis`
 
 ## Quellen Stand 06/2026
 
@@ -811,13 +745,6 @@ Im Plaedoyer methodisch argumentieren: "Das vorgelegte Prognosegutachten arbeite
 
 **Mustersatz für Bewaehrung nach Strafvollzug:**
 "Die kriminalprognostische Beurteilung des Mandanten ist guenstig. Statische Faktoren (Vorstrafen) sind unveraenderlich, sie sind aber nicht das ganze Bild. Die dynamischen Faktoren — Therapiefortschritt in [Massnahme], Aufnahme bei [Bezugsperson], Beschaeftigungsperspektive bei [Arbeitgeber] — zeigen eine deutliche Risikoreduktion. Eine Aussetzung des Strafrestes nach § 57 StGB ist verantwortbar."
-
-## Querverweise
-
-- `strafrecht-spezial-kriminologie-grundlagen-und-praxis`
-- `strafrecht-spezial-kriminologie-tatdynamik-und-modus-operandi`
-- `strafrecht-spezial-kriminologie-opferpsychologie`
-- `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`
 
 ## Quellen Stand 06/2026
 
@@ -917,14 +844,6 @@ Im Plaedoyer arbeiten Sie strukturiert: "Die Tatdynamik laesst sich aus den Akte
 **Mustersatz für Strafzumessung:**
 "Die Tat hat sich aus einer extrem emotionalen Konfliktsituation entwickelt. Mein Mandant hat nicht geplant, nicht ausgekundschaftet, nicht vorbereitet. Er hat impulsiv und affektgetragen gehandelt — ein Bild, das die Steuerungsfaehigkeit erheblich vermindert hat (§ 21 StGB) und im Rahmen der Strafzumessung deutlich mildernd zu beruecksichtigen ist."
 
-## Querverweise
-
-- `strafrecht-spezial-kriminologie-grundlagen-und-praxis`
-- `strafrecht-spezial-kriminologie-deliktsphaenomenologie-vermoegen-gewalt-sex`
-- `strafrecht-spezial-kriminologie-opferpsychologie`
-- `strafrecht-spezial-totschlag-212-stgb`
-- `strafrecht-spezial-kriminologie-rueckfallprognose`
-
 ## Quellen Stand 06/2026
 
 - Schwind, H. D., Kriminologie und Kriminalpolitik (Lehrbuch-Bezug, generisch).
@@ -1022,15 +941,6 @@ Strafrahmen Paragraph 143 Abs 1 MarkenG: Freiheitsstrafe bis drei Jahre oder Gel
 7. **Privatklageverweis.** Wenn StA nicht uebernimmt: Hinwirken auf Verweisung; Markeninhaber dann mit Suehneversuch konfrontiert.
 8. **Hauptverhandlung** mit Sachverstaendigem für Verkehrskreis.
 
-## Querverweise
-
-- `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`
-- `strafrecht-spezial-markenrecht-144-markeng-strafverfahren`
-- `strafrecht-spezial-design-strafrecht-51-designg`
-- `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung`
-- `strafrecht-spezial-urheberrecht-106-urhg`
-
 ## Quellen Stand 06/2026
 
 - Paragraphen 143, 143a, 144 MarkenG im Wortlaut (gesetze-im-internet.de).
@@ -1040,3 +950,4 @@ Strafrahmen Paragraph 143 Abs 1 MarkenG: Freiheitsstrafe bis drei Jahre oder Gel
 - BGH staendige Rspr. zur Verwechslungsgefahr (Wechselwirkungslehre); EuGH staendige Rspr. zur Marke unter Verordnung 2017/1001 und Vorgaengerverordnung. Konkrete Datierung vor Verwendung im Schriftsatz verifizieren.
 - Paragraphen 73, 73c, 74 StGB Einziehung und Wertersatz; Bruttoprinzip BGH.
 - VO (EU) 608/2013 (Produktpiraterieverordnung) und Paragraph 142a MarkenG für Grenzbeschlagnahme; siehe `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`.
+

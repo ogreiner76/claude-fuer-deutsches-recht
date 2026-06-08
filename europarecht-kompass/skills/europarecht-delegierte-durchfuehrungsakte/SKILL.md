@@ -5,10 +5,6 @@ description: "Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordne
 
 # Delegierte und Durchführungsakte
 
-## Arbeitsbereich
-
-Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht für primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,11 @@ Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Ve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267 AEUV, Nichtigkeitsklage, Beschwerde an EU-KOM, Stellungnahme im Vertragsverletzungsverfahren, Notifizierung, EuGH-Urteilsbeleg — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Moderne EU-Regulierung wird über Basisrechtsakt, Folgeakt, technische Standards und Aufsichtspraxis gelesen.
-
 ## Wann verwenden
 
 - bei Memos, Behördenbriefen, Schriftsätzen oder Compliance-Projekten mit EU-Bezug
 - wenn deutsche Kategorien die EU-Eigenlogik verdecken könnten
 - wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind
-
-## Arbeitsweise
-
-1. **Rechtsquelle fixieren.** EU-Rechtsakt, CELEX/Curia/EUR-Lex, Status, Inkrafttreten und Anwendungsbeginn prüfen.
-2. **Wirkung bestimmen.** Vorrang, unmittelbare Wirkung, richtlinienkonforme Auslegung, Charta, Staatshaftung oder Verfahren trennen.
-3. **Deutsche Denkfehler markieren.** Nationale Kategorien nur nutzen, wenn sie unionsrechtlich passen.
-4. **Verfahrensweg planen.** Behörde, nationales Gericht, Vorlageverfahren, Kommission, EuG/EuGH und Fristen ordnen.
-5. **Qualitätstor setzen.** Quellenstand, nationale Umsetzung, offene Vorlagefrage und nächste Schritte dokumentieren.
 
 ## Rückfragen, wenn unklar
 
@@ -41,13 +25,6 @@ Moderne EU-Regulierung wird über Basisrechtsakt, Folgeakt, technische Standards
 - Welche Partei oder Rolle vertreten wir?
 - Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
 - Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel
-- Prüfmatrix mit Fundstelle, Risiko, Vorschlag und Review-Level
-- anwaltlich prüfbarer Entwurf oder Mandantenhinweis
-- offene Annahmen, Quellenstand und nächste Schritte
 
 ## Typische Fehler vermeiden
 
@@ -87,3 +64,4 @@ Art. 291 (Durchfuehrung): [JA — einheitliche Durchfuehrungsbedingungen]
 Widerspruchsrecht EP/Rat: [JA — Frist X Wochen / NEIN]
 Moegliche Anfechtung: [Art. 263 AEUV — Frist 2 Monate ab Bekanntmachung]
 ```
+

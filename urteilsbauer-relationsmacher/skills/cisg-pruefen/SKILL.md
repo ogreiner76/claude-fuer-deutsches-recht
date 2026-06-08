@@ -28,9 +28,6 @@ Das UN-Kaufrecht (Wiener Übereinkommen vom 11. April 1980 über Verträge über
 - Art. 49 CISG — Aufhebungsrecht des Käufers
 - Art. 74-78 CISG — Schadensersatz und Zinsen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Anwendbarkeit prüfen:** Vertragsstaaten? Warenkauf? Kein Konsumkauf? Kein wirksamer Ausschluss?
@@ -44,6 +41,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
 
 ```
+
 ## CISG-Prüfung
 
 **Anwendbarkeit:** Das CISG ist anwendbar, weil [PARTEI A] ihre Niederlassung in [STAAT A]
@@ -57,13 +55,6 @@ Ein Ausschluss nach Art. 6 CISG liegt nicht vor. [Alternativ: CISG ausgeschlosse
 
 **Ergebnis:** [PARTEI] hat Anspruch auf [Minderung / Schadensersatz / Aufhebung] nach Art. [NORM] CISG.
 ```
-
-## Anwendungsbereich
-
-1. **Sachlich** (Artikel 1-5 CISG): Kauf von Waren (bewegliche koerperliche Sachen). Ausnahmen: Konsumkauf, Versteigerung, Wertpapiere, Geld, Schiffe, Luftfahrzeuge, Elektrizitaet.
-2. **Persönlich** (Artikel 1 CISG): Parteien haben ihre Niederlassung in verschiedenen Vertragsstaaten ODER IPR führt zur Anwendung des Rechts eines Vertragsstaates.
-3. **Raeumlich**: Beide Parteien in Vertragsstaaten (Deutschland, Schweiz, USA, China, Frankreich, Italien, alle EU außer UK seit Brexit, ...).
-4. **Zeitlich**: nach 1. Januar 1991 für Deutschland.
 
 ## Ausschluss
 
@@ -82,3 +73,4 @@ Ein Ausschluss nach Art. 6 CISG liegt nicht vor. [Alternativ: CISG ausgeschlosse
 ## Kollisionsfälle
 
 Wenn die Parteien gleichzeitig deutsches und Schweizer Recht wählen (kollidierende AGB), greift in der Regel CISG, weil beide Staaten Vertragsstaaten sind und die Rechtswahl in beiden Fällen auf einen Vertragsstaat führt. Falls eine Partei den Ausschluss in ihren AGB hat und die andere nicht, ist nach der Theorie der Resstgültigkeit / Knock-out-Doktrin (Artikel 19 CISG, herrschende Meinung in Deutschland) der Ausschluss nicht wirksam vereinbart.
+

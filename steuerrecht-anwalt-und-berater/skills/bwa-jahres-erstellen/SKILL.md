@@ -121,12 +121,6 @@ V. MEHRJAHRES-TREND (3-5 Jahre)
 - Im Anschluss schriftliche Bestaetigung der besprochenen Punkte.
 - Bei Krisensignalen: § 102 StaRUG-Eskalation in den Bericht aufnehmen.
 
-## Output
-
-- Jahres-BWA als Praesentations-PDF (5-10 Seiten).
-- Mehrjahres-Trend-Grafik.
-- Erlaeuterungs- und Empfehlungstext.
-
 ## Strategie und Praxis-Tipps
 
 - Jahres-BWA ist KEIN Ersatz für den formalen Jahresabschluss, sondern ergaenzende Kommunikations-Schicht.
@@ -135,15 +129,6 @@ V. MEHRJAHRES-TREND (3-5 Jahre)
 - Mehrjahres-Trend ist Standard bei mittelstaendischer Bilanzanalyse — 5 Jahre ist guter Kompromiss.
 - StBVV: Jahres-BWA als Zusatzauftrag neben Jahresabschluss-Erstellung; ggf. Pauschal.
 - DATEV-Tipp: Klickpfad für Mehrjahres-Vergleich: Rechnungswesen → Auswertungen → BWA → BWA-Form mit Vorjahresspalten waehlen, Jahresvergleich aktivieren.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-bwa-mandantenreport-monatlich` — Monatsreport.
-- `stb-bwa-kennzahlen-rentabilitaet-eigenkapital` — Rentabilitaet.
-- `stb-jahresgespraech-mandant-bwa-basis` — Jahresgespraech.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -156,10 +141,3 @@ Stand: 05/2026.
 - IDW PS 480, IDW PS 305, DRS 17.
 - DStV-Praxisleitfaden.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

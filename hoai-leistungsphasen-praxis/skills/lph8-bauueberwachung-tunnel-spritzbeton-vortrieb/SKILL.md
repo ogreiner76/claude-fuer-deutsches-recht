@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbeton
 
 # Bauueberwachung Tunnel Spritzbeton Vortrieb (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO für Bahninfrastrukturbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Sicherheitsrelevante Messwerte (Konvergenz, Setzung) werden tagesaktuell mit Tot
 - Konvergenzmessung nicht tagesaktuell: Setzungsraten nicht erkannt, Ausbau bricht ueberraschend
 - Bewetterungsmangel: CO oder NOx-Konzentration ueberschritten, Arbeitsstop durch Behörde
 
-## Output
-
-Vortriebsklassen-Protokoll je Takt. Spritzbeton-Bohrkernpruefprotokolle je Abschnitt.
-Konvergenz-Monatsberichte mit Alarmwert-Auswertung. Ankernagel-Zugpruefprotokolle.
-Bewetterungs-Messprotokoll CO/NOx. Abnahmeprotokoll Tunnel nach VOB/B und ZTV-ING.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Bewetterungs-Messprotokoll CO/NOx. Abnahmeprotokoll Tunnel nach VOB/B und ZTV-IN
 - [ZTV-ING Teil 5 Tunnelbau](https://www.gesetze-im-internet.de/)
 - [VOB/C DIN 18312 Untertagebauarbeiten](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 63/14 Tunnelbau Vortrieb](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+63/14)
+

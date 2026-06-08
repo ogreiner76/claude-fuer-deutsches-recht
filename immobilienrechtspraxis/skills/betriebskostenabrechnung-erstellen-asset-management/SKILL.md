@@ -5,10 +5,6 @@ description: "Betriebskostenabrechnung im Asset- und Property-Management erstell
 
 # Betriebskostenabrechnung erstellen
 
-## Arbeitsbereich
-
-Betriebskostenabrechnung im Asset- und Property-Management erstellen: Mietvertragsklauseln, BetrKV-Mapping, WEG- oder Objektbuchhaltung, HeizkostenV, CO2KostAufG, Gewerbe-Vorwegabzug, Vorauszahlungskonto, Versand und Belegpaket. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Betriebskostenabrechnung im Asset- und Property-Management erstellen: Mietvertra
 ## Fachkern: Betriebskostenabrechnung erstellen
 - **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
 - **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
-
-## Aufgabe
-
-Dieser Skill erstellt eine vermieterseitige Betriebskostenabrechnung für Immobilienportfolios, Mischobjekte und WEG-Sondereigentum. Er ist für Property Manager, Asset Manager, Rechtsabteilungen und Kanzleien gedacht, die aus Buchhaltung, WEG-Abrechnung, Dienstleisterrechnungen und Mietvertragsdaten eine versandfähige Abrechnung bauen müssen.
 
 ## Einstieg
 
@@ -53,17 +45,6 @@ Dieser Skill erstellt eine vermieterseitige Betriebskostenabrechnung für Immobi
 | Hausmeister | Vertrag/Stunden | BetrKV anteilig | Fläche | [...] | [...] | Split nötig |
 | Heizung | Heizkostenabrechnung | HeizkostenV | Verbrauch/Fläche | [...] | [...] | CO2 prüfen |
 | Verwalter | WEG | nicht umlagefähig | - | [...] | 0 | herausnehmen |
-
-## Output
-
-- Abrechnung je Mieter mit Saldo.
-- Beleg- und Datenraumindex.
-- internes Prüfprotokoll "umlagefähig / nicht umlagefähig / offen".
-- separates Schreiben zur Vorauszahlungsanpassung nach § 560 Abs. 4 BGB, wenn Wohnraum betroffen ist.
-
-## Quellenregel
-
-§ 556 BGB, § 556a BGB, BetrKV, HeizkostenV und CO2KostAufG aktuell prüfen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
 
 ## Normen und Rechtsprechung
 

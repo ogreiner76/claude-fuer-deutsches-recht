@@ -17,12 +17,7 @@ Arbeitsfokus: **Nachreichung, Berichtigung und gerichtlicher Hinweis**. Prüfe d
 - `§ 296 ZPO` — Zurückweisung verspäteten Vorbringens.
 - `§ 139 ZPO` — gerichtlicher Hinweis.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill ist die Feuerwehr, wenn das Paket schon draußen ist. Er hält Nummern stabil, korrigiert transparent und vermeidet, dass aus einer kleinen Anlagenpanne ein prozessuales Glaubwürdigkeitsproblem wird.
 
 ## Mindestinput
 
@@ -60,3 +55,4 @@ Dieser Skill ist die Feuerwehr, wenn das Paket schon draußen ist. Er hält Numm
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
+

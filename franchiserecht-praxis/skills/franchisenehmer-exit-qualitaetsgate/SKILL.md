@@ -5,10 +5,6 @@ description: "Exit-Strategie für Franchisenehmer entwickeln: ordentliche und au
 
 # Franchiserecht: Franchisenehmer-Exit-Plan
 
-## Arbeitsbereich
-
-Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkaufsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisenehmer möchte aus dem Franchisesystem aussteigen: durch ordentlich
 - Betriebsübertragung scheitert am einseitigen Franchisegeberveto ohne sachliche Rechtfertigung.
 - Nachvertragliches Wettbewerbsverbot von 3 Jahren schränkt den Franchisenehmer erheblich ein; kartellrechtlich nichtig, aber nicht eingeklagt.
 
-## Output
-
-- Exit-Strategie-Memo mit Optionenvergleich
-- Kündigung oder Aufhebungsvertrag (Vorlage)
-- Ausgleichsanspruchs-Berechnung nach § 89b HGB analog
-- Abwicklungs-Checkliste
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/314.html
@@ -71,6 +60,7 @@ Ein Franchisenehmer möchte aus dem Franchisesystem aussteigen: durch ordentlich
 - https://dejure.org/gesetze/BGB/433.html
 - https://dejure.org/gesetze/BGB/415.html
 - https://dejure.org/gesetze/BGB/242.html
+
 ## Vertiefung
 
 Der Exit aus einem Franchisesystem ist für viele Franchisenehmer mit erheblichen wirtschaftlichen Risiken verbunden: Sie haben in ein systemspezifisches Business investiert, das ohne die Franchisemarke möglicherweise kaum marktfähig ist. Eine frühzeitige Exit-Planung, die alle Optionen analysiert, ist deshalb essenziell.
@@ -84,7 +74,10 @@ Die Übertragung des Franchisebetriebs an einen Nachfolger ist eine oft überseh
 - Betriebsübertragung vorbereiten: Buchführung, Kundenliste und Betriebshandbuch ordentlich dokumentieren; steigert Verkaufswert.
 - Wettbewerbsverbot nach Austritt genau prüfen; bei unzulässiger Länge oder Breite rechtlich angreifen.
 - Franchisegeber-Zustimmungsrecht zur Übertragung auf sachliche Kriterien begrenzen; willkürliches Veto nicht akzeptieren.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

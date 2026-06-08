@@ -86,11 +86,6 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `kinder-und-jugendmedizin-besondere-versorgung` | Kinder- und Jugendmedizin besondere Versorgung |
 | `geburtshilfe-haftung-hebammen-schnittstelle` | Geburtshilfe Haftung Hebammen Schnittstelle |
 
-## Quellenregel
-Vor tragenden Aussagen immer aktuelle Normtexte, amtliche Behördenseiten, EU-Texte oder frei zugängliche Entscheidungen prüfen. Keine BeckRS-/juris-/Kommentarzitate aus Modellwissen. Wenn eine Quelle nicht verifizierbar ist, deutlich sagen und nicht als Beleg verwenden.
-
-<!-- BEGIN ACTUAL-SKILL-ROUTING -->
-
 ## Aktuelle Anschluss-Skills
 
 Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wenn ein Nutzer nach dem Einstieg weitergeleitet werden soll, nimm bevorzugt diese Namen.
@@ -174,3 +169,4 @@ Konkret zu prüfen:
 - §§ 107-114 SGB V (Krankenhaus)
 - KHEntgG (Entgeltgesetz)
 - §§ 17a-17d KHG (DRG, Pflege, Investitionen)
+

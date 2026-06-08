@@ -156,21 +156,18 @@ Widerspruchsrecht nicht operationalisiert. Jeden Widerspruch kennzeichnen.
 So klein wie möglich. Wort → Phrase → Unterklausel → Satz → Klausel.
 Chirurgische Redlines signalisieren: wir haben sorgfältig gelesen.
 
-## Ausgabeformat
-
-```markdown
-### KI-Anbieterprüfung: [Anbietername]
-Geprüftes Dokument: [Typ] | Datum: [heute]
-Anwendungsfall(e): [Zweck] | Governance-Stufe: [Standard/Erhöht/Hoch]
-
 ## Ergebnis
 [2 Sätze: Können wir einsetzen? Was muss sich zuerst ändern?]
 Befunde: [N]❌ [N]🟠 [N]⚠️ [N]✅
 
 ## Klausel-für-Klausel [Tabelle gem. Schritt 2]
+
 ## KI-Annex-Status [Vorhanden/Fehlend + Konsequenz]
+
 ## KI-Richtlinien-Konsistenz [✅/⚠️ Liste]
+
 ## Empfohlene Redlines [konsolidiert; vor Übermittlung mit Anwalt abstimmen]
+
 ## Wenn der Anbieter nicht nachgibt [Fallback oder Eskalation je Punkt]
 ```
 
@@ -238,3 +235,4 @@ WENN ANBIETER NICHT NACHGIBT:
 
 Erstellt: [NAME], [DATUM] — Vor Unterzeichnung anwaltliche Pruefung einholen.
 ```
+

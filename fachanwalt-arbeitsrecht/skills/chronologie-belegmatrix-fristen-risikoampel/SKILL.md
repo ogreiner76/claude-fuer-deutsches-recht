@@ -5,9 +5,6 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt A
 
 # Chronologie Belegmatrix Fristen Risikoampel
 
-## Arbeitsbereich
-
-**Chronologie Belegmatrix Fristen Risikoampel** ordnet den Fall über die tragenden Prüfungslinien: Chronologie und Belegmatrix für arbeitsrechtliche Mandate, Fristen und Risikoampel, Mandantenkommunikation im Arbeitsrechtsmandat. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt A
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `workflow-chronologie-und-belegmatrix`
@@ -38,9 +36,6 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt A
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Strukturierte Aufbereitung des Sachverhalts in einer zeitlichen Abfolge mit Belegzuordnung — Grundlage für Schriftsatz, Prüfvermerk und Mandantengespräch. Verhindert, dass wichtige Ereignisse vergessen oder falsch eingeordnet werden.
 
 ## Einstieg
 Wenn Unterlagen oder ein Sachverhaltsbericht vorliegen:
@@ -130,11 +125,6 @@ BESCHAFFUNGSWEGE:
 - `workflow-unterlagen-lueckenliste` für detaillierte Unterlagenprüfung
 - `spezial-arbeitsrecht-tatbestand-beweis-und-belege` für Beweislaststrategie
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Chronologie-Erstellung ohne Sachverhaltsangaben des Mandanten.
 - Keine Beschaffung von Unterlagen; das bleibt beim Anwalt und Mandanten.
@@ -152,9 +142,6 @@ BESCHAFFUNGSWEGE:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vollständige Fristenkontrolle für alle laufenden und entstehenden Fristen im Arbeitsrechtsmandat — mit Ampelbewertung nach Dringlichkeit. Grundlage für Wiedervorlagenkalender und Mandantenkommunikation.
 
 ## Einstieg
 Wenn ein Sachverhalt oder eine Akte vorliegt:
@@ -258,11 +245,6 @@ ERLEDIGT:
 - `spezial-datum-formular-portal-und-einreichung` für Einreichungsdetails
 - `workflow-kaltstart-und-routing` für Ersteinordnung
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein automatischer Fristenkalender; menschliche Kontrolle bleibt zwingend.
 - Keine Garantie für Vollständigkeit bei außergewöhnlichen Konstellationen.
@@ -280,9 +262,6 @@ ERLEDIGT:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Strukturierte Kommunikation mit Mandanten im Arbeitsrechtsmandat — von der Mandantsaufnahme bis zum Abschluss. Sicherstellt, dass Informationspflichten erfüllt werden und der Mandant informiert und eingebunden bleibt.
 
 ## Einstieg
 Wenn eine Kommunikationsaufgabe vorliegt:
@@ -392,11 +371,7 @@ Wenn eine Kommunikationsaufgabe vorliegt:
 - `spezial-fachanwalt-erstpruefung-und-mandatsziel` für Erstaufnahme
 - `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` für Gütermin-Details
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Berufsrecht: BRAO und BORA auf [brak.de](https://www.brak.de) live prüfen.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für individuelle Mandantenkommunikation; Muster sind Vorlage, nicht fertiger Brief.
 - Keine Kostenkalkulation ohne konkrete Streitwertangabe.
+

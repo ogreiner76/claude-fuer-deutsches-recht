@@ -5,10 +5,6 @@ description: "Verlagsrecht: Buchhandelsvertrag zwischen Verlag und Buchhandel �
 
 # Verl-032 · Buchhandelsvertrag, Konditionen und Remission
 
-## Arbeitsbereich
-
-Verlagsrecht: Buchhandelsvertrag zwischen Verlag und Buchhandel — Konditionenabkommen, Remissionsrecht, Retourenquoten, Auslieferungsverträge und Buchpreisbindungs-Compliance. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -125,3 +121,4 @@ Der **Buchhandelsvertrag** zwischen Verlag (oder Auslieferung) und Buchhandlung 
 - **Buchhandelsvertrag-Muster**: Mindestklauseln
 - **Auslieferungsvertrag-Review**: Versicherung, Kündigung, Kosten
 - **Preisbindungs-Compliance-Checkliste** für Buchhandel
+

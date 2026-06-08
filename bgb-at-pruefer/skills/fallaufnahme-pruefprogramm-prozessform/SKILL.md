@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren: Sachverhalt vollständig erfassen, Mandatsrolle klären, Prüfprogramm erstellen, offene Tatsachenfragen identifizieren und Prüfungsschwerpunkte setzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,13 +68,6 @@ Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren
 - Rollenverteilung bei mehreren Beteiligten nicht verwischen: Wer hat wann was erklärt?
 - Mandantensicht von objektiver Rechtslage trennen — beides dokumentieren.
 
-## Output
-
-- Fallaufnahme-Protokoll mit Zeitstrahl, Parteien und Erklärungen
-- Offene-Fragen-Liste für Rückfragen ans Mandat
-- Prüfprogramm: Normen und Reihenfolge
-- Verjährungs-Sofortcheck: Fristen und Handlungsbedarf
-
 ## Quellen
 
 - [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
@@ -109,3 +98,4 @@ Prüfungsschritte: (1) Willenserklärungen abgegeben und zugegangen? (2) Geschä
 - Parteieigenschaft (Verbraucher/Unternehmer/Minderjähriger) festgestellt?
 - Vollmachten und Vertretungssituationen erfasst?
 - Prüfprogramm auf den konkreten Fall zugeschnitten?
+

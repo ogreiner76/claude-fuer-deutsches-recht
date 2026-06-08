@@ -5,10 +5,6 @@ description: "Unterstützt bei der Erhebung einer Provisionsklage: Klageschrifte
 
 # Provisionsklage nach §§ 87 ff. HGB — Klageschrift, Beweise und Strategie
 
-## Arbeitsbereich
-
-Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,10 +62,6 @@ Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländis
 - Prozesskostenrisiko unterschätzt — Vergleichsangebot nicht erwogen.
 - Gerichtsstand falsch bestimmt — Verweisung kostet Zeit und Geld.
 
-## Output
-
-Klageschriftentwurf Provision, Stufenklage-Schema, Vergleichsentwurf.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [§ 254 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__254.html)
 - [§ 278 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__278.html)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

@@ -5,10 +5,6 @@ description: "Prüft Barrierefreiheit, Inklusion und diskriminierungsarme Bedien
 
 # Barrierefreiheit und Inklusion bei Robotern
 
-## Arbeitsbereich
-
-Prüft Barrierefreiheit, Inklusion und diskriminierungsarme Bedienung bei Robotikprodukten und Nutzerinterfaces. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,12 +87,6 @@ Service-, Pflege-, Liefer- und Empfangsroboter interagieren mit Menschen untersc
 - **Personenerkennung** bricht bei Rollstuhl- oder Rollator-Nutzern.
 - **AGG-Risiko**: Roboter ignoriert Personen aufgrund von Größe oder Hautfarbe (Bias).
 
-## Querverweise
-
-- `datensatzqualitaet-und-bias-hri`
-- `betriebsanleitung-sprache-und-warnhinweise`
-- `biometrie-emotion-und-personenerkennung`
-
 ## Quellen Stand 06/2026
 
 - BFSG; BFSGV.
@@ -106,3 +96,4 @@ Service-, Pflege-, Liefer- und Empfangsroboter interagieren mit Menschen untersc
 - AGG §§ 1, 19, 20.
 - UN-BRK Art. 9.
 - Live-Verifikation auf bmas.de, eur-lex.europa.eu, antidiskriminierungsstelle.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

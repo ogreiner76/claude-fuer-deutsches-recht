@@ -151,21 +151,6 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 - **Verfassung und Unionsrecht uebersehen.** In jedem zivilrechtlichen Schriftsatz mit Grundrechts- oder Richtlinienbezug muessen die Querschnittskanones bedacht werden.
 - **Kein Gegenargument.** Der Schriftsatz, der die gegnerische Position nicht vorwegnimmt, wirkt einseitig.
 
-## Querverweise
-
-Alle anderen Skills dieses Plugins:
-
-- `methodenlehre-buergerliches-recht-allgemein` — Workflow- und Triage-Skill.
-- `methodenlehre-anwenden` — Praxis-Skill für Fallpruefung.
-- `savigny-vier-auslegungsmethoden` — Grundkanon.
-- `wortlaut-grammatikalische-auslegung`, `systematische-auslegung`, `historische-auslegung`, `teleologische-auslegung` — Einzelmethoden.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Querschnittskanones.
-- `analogie-und-teleologische-reduktion` — Rechtsfortbildung.
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori` — Hilfsfiguren.
-- `pandekten-und-begriffsjurisprudenz`, `interessenjurisprudenz-heck`, `wertungsjurisprudenz-larenz-canaris`, `topik-viehweg-vs-systemdenken` — methodische Schulen.
-- `rechtspluralismus-und-mehrebenen-system` — Mehrebenenordnung.
-- `oekonomische-analyse-des-rechts-coase-posner`, `systemtheorie-luhmann-rechtssystem-autopoiese`, `diskurstheorie-habermas-alexy`, `legal-realism-und-critical-legal-studies` — moderne Rechtstheorien.
-
 ## Quellen und Stand 05/2026
 
 - `references/methodik-buergerliches-recht.md` im Repo.
@@ -176,10 +161,3 @@ Alle anderen Skills dieses Plugins:
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

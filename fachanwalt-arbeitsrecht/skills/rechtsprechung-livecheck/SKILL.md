@@ -5,9 +5,6 @@ description: "Rechtsprechung Livecheck im Plugin Fachanwalt Arbeitsrecht: prüft
 
 # Rechtsprechung Livecheck
 
-## Arbeitsbereich
-
-**Rechtsprechung Livecheck** ordnet den Fall über die tragenden Prüfungslinien: Red-Team Qualitätsgate, Internationaler Bezug im Arbeitsrecht, Live-Check für arbeitsrechtliche Rechtsprechung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Rechtsprechung Livecheck im Plugin Fachanwalt Arbeitsrecht: prüft
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `workflow-redteam-qualitygate`
@@ -38,9 +36,6 @@ description: "Rechtsprechung Livecheck im Plugin Fachanwalt Arbeitsrecht: prüft
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Abschließende Qualitätskontrolle, bevor ein Produkt (Schriftsatz, Memo, Brief, Vergleich) den Skill verlässt. Dieser findet Fehler, Lücken und Scheingenauigkeiten — bevor der Gegner oder das Gericht sie findet.
 
 ## Einstieg
 Wenn ein Dokument zur Qualitätskontrolle vorliegt:
@@ -146,13 +141,6 @@ Checkliste:
 - `workflow-rechtsquellen-livecheck` für Quellenverifikation
 - `spezial-quelle-beweislast-und-darlegungslast` für Quellenregeln
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- BAG: [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- EuGH: [curia.europa.eu](https://curia.europa.eu).
-- Keine Aktenzeichen aus Modellwissen ohne Verifikation.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige anwaltliche Prüfung.
 - Keine Garantie für Fehlerfreiheit; menschliche Kontrolle bleibt zwingend.
@@ -170,9 +158,6 @@ Checkliste:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Überblick über die EuGH-Linie im Arbeitsrecht und die relevanten EU-Richtlinien mit ihren deutschen Umsetzungsgesetzen. Besondere Bedeutung: Richtlinienkonforme Auslegung, Vorabentscheidungsverfahren und direkte Anwendbarkeit von EU-Recht.
 
 ## Einstieg
 Wenn ein Sachverhalt mit internationalem Bezug oder einer EU-Rechtsfrage vorliegt:
@@ -248,13 +233,6 @@ Entsendendes Unternehmen muss Entsendung bei der ZKA (Zentrale Kontrolle der Sch
 - `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
 - `ar-betriebsuebergang-spezial` für § 613a BGB
 
-## Quellenregel
-- EuGH-Urteile via [curia.europa.eu](https://curia.europa.eu).
-- BAG-Urteile via [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- EU-Richtlinien via [eur-lex.europa.eu](https://eur-lex.europa.eu).
-- Nationales Recht via [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine Aktenzeichen aus Modellwissen ohne Verifikation.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine umfassende Beratung zu internationalem Arbeitsrecht in Drittstaaten (USA, Großbritannien etc.).
 - Keine Prüfung von Sozialversicherungs-Entsenderecht (A1-Bescheinigung, Entsende-SV-Koordinierung).
@@ -272,9 +250,6 @@ Entsendendes Unternehmen muss Entsendung bei der ZKA (Zentrale Kontrolle der Sch
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Strukturierter Prüffür die Verifikation arbeitsrechtlicher Rechtsprechungszitate — bevor sie in Schriftsätze, Memos oder Beratungshinweise einfließen. Dieser Skill verhindert Scheinzitate und stärkt die anwaltliche Glaubwürdigkeit.
 
 ## Einstieg
 Wenn Urteile zitiert werden sollen oder bereits zitierte Urteile zu prüfen sind:
@@ -371,15 +346,7 @@ Primärquelle für BAG-Entscheidungen: [bundesarbeitsgericht.de](https://www.bun
 - `spezial-aktenzeichen-red-team-und-qualitaetskontrolle` für Schriftsatzprüfung
 - `workflow-rechtsquellen-livecheck` für Live-Prüfung von Normen
 
-## Quellenregel
-- BAG: [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de)
-- EuGH: [curia.europa.eu](https://curia.europa.eu)
-- BVerfG: [bverfg.de](https://www.bverfg.de)
-- LAG/ArbG: [openjur.de](https://openjur.de)
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de)
-- Vernetzung: [dejure.org](https://dejure.org)
-- Keine Aktenzeichen aus Modellwissen ohne Verifikation.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Live-Prüfung von Rechtsprechungsdatenbanken; Prüfung erfolgt durch den Anwalt.
 - Keine Verfügbarkeitsgarantie für ältere oder unveröffentlichte Entscheidungen.
+

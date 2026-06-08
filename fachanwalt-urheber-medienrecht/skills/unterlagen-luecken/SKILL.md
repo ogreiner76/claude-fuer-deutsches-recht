@@ -9,7 +9,6 @@ description: "Lücken- und Beschaffungsliste für Fachanwalt Urheber- und Medien
 
 Diese Unterlagenprüfung für **Fachanwalt Urheber Medienrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-sonderfall-bild-eigenen` — Abmahnung Sonderfall Bild Eigenen
@@ -36,12 +35,9 @@ Diese Unterlagenprüfung für **Fachanwalt Urheber Medienrecht** benennt fehlend
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
-## Output
-
-Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Fachanwalt Urheber- und Medienrecht typischerweise Lizenzvertrag, Verlagsvertrag zuerst.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

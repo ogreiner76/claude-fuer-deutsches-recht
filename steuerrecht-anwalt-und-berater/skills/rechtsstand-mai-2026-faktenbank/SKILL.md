@@ -11,19 +11,6 @@ description: "Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussage
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Dieser Skill bearbeitet verifizierte Rechtsstandsanker für das Steuerrecht-Plugin. Er verhindert Blindzitate und zwingt Ausgaben zu einer sauberen Quellenlage.
-
-Stand dieser Faktenbank: **29.05.2026**. Vor streitentscheidenden Ausgaben immer den aktuellen Gesetzestext, BMF/BZSt-Veröffentlichungen und BFH-Volltext prüfen.
-
-## Quellenregel
-
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- BFH/FG-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freiem Link.
-- Verwaltungsauffassung nur als BMF-/BZSt-/Bundesregierung-/Bundesgesetzblatt-Quelle zitieren; nicht als Ersatz für Gesetz und Rechtsprechung behandeln.
-- Wenn eine Aussage nur aus Datenbankkürzeln bekannt ist, nicht verwenden.
-
 ## Aktuelle Steuerrechtsanker
 
 | Thema | Gesicherter Anker | Praktische Aussage | Freie Quelle |
@@ -64,3 +51,4 @@ Stand dieser Faktenbank: **29.05.2026**. Vor streitentscheidenden Ausgaben immer
 | DBA / Quellensteuer / Ausland | `stb-dba-alle-abkommen-laendermatrix-2026`, `stb-dba-all-country-memo-generator`, `stb-dba-quellensteuer-atlas-weltweit`, `stb-dba-edge-cases-playbook` |
 | Außenprüfung / Verständigung | `anw-aussenpruefung-strategien`, `anw-tatsaechliche-verstaendigung-schlussbesprechung` |
 | Haftung / Insolvenzschnittstelle | `anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern`, `anw-insolvenzreife-pruefung-17-19-inso`, `stb-bwa-sus-bilanz-pruefung` |
+

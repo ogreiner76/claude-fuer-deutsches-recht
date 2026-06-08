@@ -5,10 +5,6 @@ description: "Mandat nach Prozessabschluss formal schließen: Kostenfestsetzung,
 
 # Mandat schließen
 
-## Arbeitsbereich
-
-Mandat nach Prozessabschluss formal schließen: Kostenfestsetzung, Archivierung, Mandanteninformation. Normen: §§ 103 ff. ZPO, RVG. Prüfraster: Kostenfestsetzungsantrag, Ergebnismitteilung, Handaktenfreigabe. Output: Abschlussbericht Mandat. Abgrenzung: nicht laufende Mandat-Aktualisierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Mandat nach Prozessabschluss formal schließen: Kostenfestsetzung, Archivierung,
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Strukturierter Abschluss eines Mandats im Portfolio: Ergebnis dokumentieren, Kosten und Honorar abrechnen, Lehren festhalten, Mandat aus dem aktiven Portfolio in den Archivstatus überführen. Der Datensatz bleibt dauerhaft erhalten (Aufbewahrungspflicht § 50 Abs. 1 BRAO: 6 Jahre nach Mandatsende).
 
 ## Eingaben
 
@@ -118,3 +110,4 @@ _log.yaml-Status: archiv
 <!-- AUDIT 27.05.2026
 Halluzinierte Referenz geloescht. Keine Ersatzquelle gefunden.
 -->
+

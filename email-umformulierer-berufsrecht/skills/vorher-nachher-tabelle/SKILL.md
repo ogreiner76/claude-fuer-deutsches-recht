@@ -27,9 +27,6 @@ Dieser Skill definiert das standardisierte Ausgabeformat für alle E-Mail-Umform
 - § 138 ZPO — Wahrheitspflicht: Transparenz der Aenderungen sichert Authentizitaet
 - § 45 BRAO — Interessenkonflikt-Check: Tabellenformat hilft, Risiken zu identifizieren
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck des Standardformats
 
 Ein einheitliches Ausgabeformat erfüllt mehrere Funktionen: Es macht die Überarbeitung für den Nutzer kontrollierbar (er kann jede Änderung akzeptieren oder ablehnen), es dokumentiert die berufsrechtliche Begründung jeder Formulierungsänderung und es dient als Lernwerkzeug für zukünftige Korrespondenz.
@@ -75,6 +72,3 @@ Um die Tabelle übersichtlich zu halten, können folgende Kürzel verwendet werd
 
 Für sehr kurze E-Mails (unter fünf Sätze) kann die Tabelle auf die wesentlichsten Änderungen beschränkt werden. Für lange Schreiben sollte die Tabelle nach Abschnitten gegliedert werden. Bei mehrsprachigen Schreiben ist die Tabelle zweisprachig zu führen.
 
-## Ausgabeformat
-
-Der Skill selbst ist das Ausgabeformat: Er strukturiert jede Umformulierung in Analyse, Tabelle und überarbeiteten Text.

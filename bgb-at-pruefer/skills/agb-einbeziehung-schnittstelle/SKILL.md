@@ -46,13 +46,6 @@ description: "Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB: ausdrücklicher
 - AGB-Recht gilt nicht für individuell ausgehandelte Klauseln (§ 305 Abs. 1 S. 3 BGB).
 - Online-Einbeziehung: aktives Anklicken einer Checkbox genügt, bloßer Link im Footer reicht nicht immer.
 
-## Output
-
-- Einbeziehungsprüfung im Gutachtenstil mit Subsumtion zu § 305 Abs. 2 BGB
-- Klausel-Screening-Tabelle: einbezogen / überraschend / unwirksam / Rechtsfolge
-- Klausurlösungsskizze mit Schwerpunkt AGB-Recht
-- Hinweise zu kollidierenden AGB im B2B-Bereich
-
 ## Quellen
 
 - [§ 305 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__305.html)

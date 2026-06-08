@@ -5,10 +5,6 @@ description: "Interdictum fraudatorium und restitutio in integrum: weitere praet
 
 # Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum
 
-## Aufgabe
-
-Skill für interdictum fraudatorium und restitutio in integrum.
-
 ## Interdictum fraudatorium
 
 - Praetorisches Eilinstrument zur Sicherung des Status quo.
@@ -57,7 +53,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.

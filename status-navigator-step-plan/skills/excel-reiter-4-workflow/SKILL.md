@@ -21,20 +21,6 @@ Reiter 4 folgt der Excel-Vorlage. Spalten:
 | Unterzeichnet von | die Personen, die zeichnen muessen |
 | Versendet an | Empfaenger, ggfs mit Sendeweg (Bote, Einschreiben, Notar, HR) |
 
-## Vorgehen
-1. **Pro Zeile aus Reiter 3 einen Schrittplan.** Bei Aval-Beschaffung sind
-   das typischerweise: 1. Antrag, 2. Rueckfrageabarbeitung, 3. Komitee,
-   4. Urkunde abholen, 5. an Glaeubiger zustellen.
-2. **Vorlauf realistisch einrechnen.** Notartermin braucht 1 bis 2 Wochen,
-   ILB-Komitee tagt monatlich, HR-Eintragung 2 bis 6 Wochen.
-3. **Verantwortung benennen.** Wer macht den Schritt? RAin? GF? Notar?
-   Vertragspartner? Behoerde? Konkret in der Spalte Unterzeichnet oder
-   Versendet ausweisen.
-4. **Rechtsgrundlage benennen.** Welche Vertragsklausel oder welcher
-   Paragraph trifft hier? Ein Hinweis, keine Pruefung.
-5. **Sendeweg auswaehlen.** Bote mit Empfangsbestaetigung
-   ist haufig die sicherste Variante.
-
 ## Anwendungsbeispiel
 LausitzStorage-Akte, Reiter 4 enthaelt 12 Beschaffungs-Workflows.
 Beispiele:
@@ -64,3 +50,4 @@ Reiter 4 ist der Action-Plan. Wenn Reiter 1 bis 3 sauber sind, schreibt
 Reiter 4 sich fast von selbst. Optional ergaenzbar durch Reiter 5
 (Fristen), Reiter 6 (Beteiligte), Reiter 7 (Rangfolge) und Reiter 8
 (Sicherheiten).
+

@@ -5,10 +5,6 @@ description: "Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen 
 
 # Anfrage-Eingang-Parser
 
-## Arbeitsbereich
-
-Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und will sie schnell strukturiert auswerten. E-Mail-Parser Kanzlei. Prüfraster: Anrede Name Absender E-Mail-Adresse Telefon Sachverhaltsfetzen Stichwörter dringliche Hinweise auf Fristen oder Haftungsrisiken. Output: strukturiertes Datenblatt mit Kontaktdaten und Sachverhalts-Extrakt. Abgrenzung zu erstantwort-generator (Antwort erstellen) und dringlichkeitsmarker (Eilbedarf). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,13 +31,6 @@ Dieser Skill extrahiert aus einer eingehenden Mandantenanfrage per E-Mail alle r
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur notwendige Daten aus der Anfrage extrahieren
 - § 43 BRAO — Sorgfaltspflicht: sofortige Bearbeitung und Dokumentation eingehender Anfragen
 - § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: vor Mandatsannahme ueber voraussichtliche Kosten informieren
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Eingehende Mandantenanfragen sind oft unstrukturiert. Sie können als Fließtext, als kurze Notiz oder als ausführlicher Erlebnisbericht formuliert sein. Dieser Skill normiert die Extraktion und legt eine Grundlage für alle folgenden Skills (Anrede, Erstantwort, Dringlichkeit, Konfliktcheck, CRM-Eintrag).
 
 ## Extraktionsfelder
 
@@ -83,31 +72,6 @@ Eingehende Mandantenanfragen sind oft unstrukturiert. Sie können als Fließtext
 - Implizite Eile-Signale: "sofort", "dringend", "nächste Woche", "bis Ende der Woche"
 - Haftungsrisiken: Versäumnisurteil, Zwangsvollstreckung, Insolvenzantrag
 - Hinweis an den Skill `dringlichkeitsmarker` weitergeben
-
-## Ausgabeformat
-
-```
-PARSED ANFRAGE
-==============
-
-Anrede (roh): [Originaltext der Anrede / Grußformel]
-Name: [Vollständiger Name mit Titeln]
-E-Mail: [Absenderadresse]
-Telefon: [Nummer oder "nicht genannt"]
-Weitere Kontakte: [Adresse, Fax, etc. — oder "keine"]
-
-Rechtsgebiet: [Ersteinschätzung oder "unklar"]
-Sachverhalt-Stichwörter:
- - [Stichwort 1]
- - [Stichwort 2]
- - [...]
-
-Beteiligte: [Gegner/Behörde/weitere Personen oder "nicht genannt"]
-Relevante Daten/Beträge: [oder "nicht genannt"]
-
-DRINGLICHKEIT: [HOCH / MITTEL / NIEDRIG / UNBEKANNT]
-Dringlichkeit-Grund: [Kurze Begründung oder "keiner erkannt"]
-```
 
 ## Heuristiken und Sonderfälle
 

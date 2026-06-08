@@ -5,10 +5,6 @@ description: "EEG- und KWKG-Verguetungen für Stromerzeugungsanlagen prüfen: Ei
 
 # EEG, KWKG und Erzeugung erneuerbarer Energien
 
-## Arbeitsbereich
-
-EEG- und KWKG-Verguetungen für Stromerzeugungsanlagen prüfen: Einspeiseverguetung, Marktpraemie, KWK-Zuschlag. Normen: §§ 19 ff. EEG, §§ 6 ff. KWKG. Prüfraster: Anlagenanschluss, Verguetungsmodalitaeten, Direktvermarktung, Ausschreibungspflicht. Output: Verguetungsberechnung EEG und KWKG. Abgrenzung: nicht Netzanschlussrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ EEG- und KWKG-Verguetungen für Stromerzeugungsanlagen prüfen: Einspeiseverguet
 - Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Zentrale Skill-Norm für Erzeugungs-Anlagen (Wind, Solar, Biomasse, KWK, Wasser, Geothermie). Behandelt Vergütungs-Mechanismen, Ausschreibungs-Verfahren, Anlagen-Zulassung und typische Streit-Konstellationen.
 
 ## Eingaben
 
@@ -242,9 +234,6 @@ Konkrete Aktenzeichen vor Ausgabe ueber bundesgerichtshof.de / bverwg.de / curia
 
 § 19 EEG (Marktpraemie) — § 20 EEG (Direktvermarktung) — § 21 EEG (feste Einspeise-Verguetung) — § 23b EEG (Repowering) — § 33 EEG (MaStR-Eintragungspflicht) — § 4 BImSchG (Genehmigungspflicht) — § 35 BauGB (Privilegierung Aussenbereich) — § 44 BNatSchG (Zugriffsverbote Artenschutz)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-netz-speicher-zugang` — Netzanschluss
@@ -269,3 +258,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - EU-RED III (Richtlinie (EU) 2023/2413, ABl. L 2413 vom 31.10.2023; eur-lex.europa.eu/eli/dir/2023/2413/oj)
 - EU-Strommarkt-Verordnung (EU) 2024/1747; sowie VO (EU) 2019/943 (Grundverordnung)
 - EuGH 02.09.2021, C-718/18 — Unabhaengigkeit BNetzA als Regulierungsbehoerde
+

@@ -5,10 +5,6 @@ description: "Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt o
 
 # Kommandocenter
 
-## Arbeitsbereich
-
-Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen Workflow. Vertragsrecht §§ 145 ff. BGB, § 3a RVG Vergütung. Prüfraster Eingabedokument-Typ erkennen, Ausgabeziel Clean-Entwurf oder Redline klären, Track-Changes-Bestätigung einholen, Vertragstyp bestimmen. Output Deal-Start-Karte mit Weiterleitung zum Fachmodul. Abgrenzung zu Template-Erkennung für Vorlage-Analyse und zu Rückfrageninterview. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -34,13 +30,6 @@ Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant m�
 - § 167 ff. BGB — Vollmacht (Vertretungsbefugnis prüfen)
 - § 305 BGB — AGB-Einbeziehung
 - § 177 BGB — Genehmigung schwebend unwirksamer Verträge
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Der Skill steuert den gesamten von Upload bis neuem Vertragsentwurf. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.
 
 ## Startet bei
 
@@ -70,3 +59,4 @@ Der Skill steuert den gesamten von Upload bis neuem Vertragsentwurf. Er arbeitet
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+

@@ -5,10 +5,6 @@ description: "Fenus nauticum: Seedarlehen als roemisches Vorlaeufer der Seeversi
 
 # Rom 123 Fenus Nauticum Seedarlehen
 
-## Aufgabe
-
-Skill für das fenus nauticum als Risikofinanzierungsinstrument der Antike.
-
 ## Rechtsquelle
 
 - D. 22.2 (De nautico fenore).
@@ -63,7 +59,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.

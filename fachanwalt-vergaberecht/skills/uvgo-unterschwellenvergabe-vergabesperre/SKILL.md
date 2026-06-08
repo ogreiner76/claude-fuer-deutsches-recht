@@ -5,9 +5,6 @@ description: "Uvgo Unterschwellenvergabe Vergabesperre im Plugin Fachanwalt Verg
 
 # Uvgo Unterschwellenvergabe Vergabesperre
 
-## Arbeitsbereich
-
-**Uvgo Unterschwellenvergabe Vergabesperre** ordnet den Fall über die tragenden Prüfungslinien: Unterschwellenvergabe nach UVgO durchfuehren und angreifen, Vergabesperre und fakultative Ausschlussgruende mit, VK-Aufklärungsverfahren und Vergleich im. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Uvgo Unterschwellenvergabe Vergabesperre im Plugin Fachanwalt Verg
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-vergaberecht-uvgo-unterschwellenvergabe`
@@ -31,9 +29,6 @@ description: "Uvgo Unterschwellenvergabe Vergabesperre im Plugin Fachanwalt Verg
 **Fokus:** Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen. Normen: UVgO (Bund seit 2017, Länder ueberwiegend), § 55 BHO, LHO der Länder, Primaerrechtsschutz vor VG nicht VK. Pruefraster: Anwendungsbereich UVgO (LD/D oberhalb Direktauftragsgrenze, unterhalb EU-Schwelle), Verfahrenstypen (oeffentlich, beschraenkt, Verhandlung), Bekanntmachung, Wertungsschema, Rechtsschutz Primaer (VG/OVG) und Sekundaer (LG-Zivilklage). Output Verfahrensentwurf, VG-Eilantrag-Geruest. Abgrenzung: Oberschwelle siehe fachanwalt-vergaberecht-orientierung; VOB-A Abschn. 1 siehe fachanwalt-vergaberecht-vob-a-bauvergabe.
 
 ### UVgO und Unterschwellenvergabe
-
-## Aufgabe
-Vergabe unterhalb der EU-Schwellenwerte nach UVgO (Bund und mehrheitlich Länder) strukturieren oder angreifen. Rechtsschutz unterscheidet sich grundlegend vom Oberschwellenverfahren (kein VK-Verfahren).
 
 ## Einstieg
 1. Auftraggeber: Bund (UVgO direkt), Land (UVgO meist eingefuehrt, Pruefung Landeshaushaltsrecht), Kommune (Pruefung Landes- bzw. Gemeindehaushaltsrecht)?
@@ -75,14 +70,6 @@ Vergabe unterhalb der EU-Schwellenwerte nach UVgO (Bund und mehrheitlich Länder
 - Bekanntmachung erfolgt nicht oder nur auf unbekannter Plattform.
 - Bieter unterlaesst Ruege; Vergaberecht-Ruege ist im Unterschwellenbereich keine zwingende Voraussetzung für Klage, aber empfohlen zur Schadensminderung.
 
-## Output
-- UVgO-Verfahrensplan mit Verfahrenswahl-Begruendung.
-- VG-Eilantrag-Geruest (§ 123 VwGO).
-- Schadensersatz-Pruefvermerk LG.
-
-## Quellenregel
-Landesweite Umsetzungsstaende UVgO und Wertgrenzen (z. B. NRW, BY, HE) vor Beratung in aktueller Landesfassung pruefen; OLG-/OVG-Linien ueber dejure.org / openjur.de verifizieren.
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -98,9 +85,6 @@ Landesweite Umsetzungsstaende UVgO und Wertgrenzen (z. B. NRW, BY, HE) vor Berat
 **Fokus:** Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will Sperre abwenden oder beenden; Auftraggeber will sperren. Normen: §§ 123-126 GWB (zwingende und fakultative Ausschlussgruende), § 125 GWB (Selbstreinigung), Wettbewerbsregister § 8 WRegG. Pruefraster: Tatbestand § 123 zwingend vs. § 124 fakultativ, Sperrfristen § 126 GWB (drei Jahre § 123; zwei Jahre § 124), Selbstreinigungs-Trias Schadenswiedergutmachung Kooperation Compliance, Wettbewerbsregister-Eintrag pruefen. Output Selbstreinigungs-Memo, Sperraufhebungs-Antragsentwurf. Abgrenzung: Eignung siehe fachanwalt-vergaberecht-eignungspruefung.
 
 ### Vergabesperre und Selbstreinigung
-
-## Aufgabe
-Vergabesperre verhindern, aufheben oder durchsetzen. § 125 GWB-Selbstreinigung ist der zentrale Ausweg; Wettbewerbsregister § 8 WRegG ist die zentrale Eintragungsstelle.
 
 ## Einstieg
 1. Welche Tatbestaende sind betroffen (§ 123 zwingend, § 124 fakultativ)?
@@ -163,14 +147,6 @@ Dokumentation: Selbstreinigungs-Memo mit Belegen zu allen drei Pflichten. Wirkun
 - Eintrag im Wettbewerbsregister wird nicht abgefragt.
 - Sperrfrist § 126 GWB wird missachtet.
 
-## Output
-- Selbstreinigungs-Memo mit Trias-Belegen.
-- Sperraufhebungs-Antragsentwurf an Auftraggeber.
-- Compliance-Massnahmenkatalog.
-
-## Quellenregel
-EuGH-Linie zu Selbstreinigung (z. B. C-41/18 Meca, C-267/18 Delta Antrepriza) vor Ausgabe ueber curia.europa.eu verifizieren.
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -186,10 +162,6 @@ EuGH-Linie zu Selbstreinigung (z. B. C-41/18 Meca, C-267/18 Delta Antrepriza) vo
 **Fokus:** VK-Aufklärungsverfahren und Vergleich im Vergabenachprüfungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmöglichkeit. Normen: § 158 Abs. 3 GWB (Vergleich vor VK), § 173 GWB (OLG-Beschwerdeinstanz), § 106 VwVfG (Vergleich). Prüfraster: Aufklärungsverlangen VK, Vergleichsbereitschaft Auftraggeber, OLG-Risiko bei Beschwerde, Vergleichs-Konditionen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Nachprüfungsantrag initial siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; OLG-Beschwerde siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk.
 
 ### VK-Vergleich / OLG-Vergabesenat-Verhandlung
-
-## Zweck
-
-Vergabe-Nachprüfungs-Verfahren ist verfahrensrechtlich straff und schnell (5 Wochen-Frist VK + Beschwerde-Frist 2 Wochen OLG). Vergleichs- und Aufklärungs-Verhandlungen vor Vergabekammer sind dennoch verbreitet.
 
 ## Eingaben
 
@@ -283,13 +255,6 @@ Vergabe-Nachprüfungs-Verfahren ist verfahrensrechtlich straff und schnell (5 Wo
 - **Beschwerde-Strategie**: nur bei klarem Rechtsfehler (kein Tatsachen-Neu)
 - **Kostenrisiko**: Vergabestelle trägt regelmäßig 50 % bei Vergleich
 
-## Querverweise
-
-- `fachanwalt-vergaberecht-orientierung` — Triage
-- `fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb` — Rüge
-- `fachanwalt-vergaberecht-nachpruefungsverfahren-vk` — VK-Verfahren
-- `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2` — Sonderfall
-
 ## Quellen und Updates
 
 Stand: 05/2026. GWB §§ 155-184. 10-Tage-Rüge-Frist stehende BGH-Linie.
@@ -349,14 +314,6 @@ Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -372,9 +329,6 @@ Stellungnahme zum Aufklaerungsschreiben vom [DATUM]
 **Fokus:** VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren. Normen: VOB-A Abschnitt 1 (Unterschwelle), VOB-A Abschnitt 2 (Oberschwelle, ergaenzend zu VgV-Baubereich), §§ 1-22 VOB-A. Pruefraster: Anwendungsbereich Bauleistung § 1 VOB-A, Verfahrenstypen (oeffentlich, beschraenkt mit/ohne TW, freihaendig), Leistungsbeschreibung § 7 VOB-A, Nebenangebote § 8, Wertung § 16d, Schnittstelle VOB-B-Vertrag. Output Verfahrenswahl-Pruefvermerk, Leistungsbeschreibungs-Checkliste. Abgrenzung: Unterschwelle Liefer-/Dienstleistung siehe fachanwalt-vergaberecht-uvgo-unterschwellenvergabe; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
 
 ### VOB-A-Bauvergabe (Abschnitte 1 und 2)
-
-## Aufgabe
-Bauvergaben nach VOB-A (Abschnitt 1 Unterschwelle, Abschnitt 2 Oberschwelle) strukturieren oder angreifen. Schnittstelle: VOB-B regelt anschliessenden Bauvertrag, ist aber nicht Gegenstand des Vergabeskills.
 
 ## Einstieg
 1. Bauleistung i. S. § 1 VOB-A?
@@ -427,14 +381,6 @@ Bauvergaben nach VOB-A (Abschnitt 1 Unterschwelle, Abschnitt 2 Oberschwelle) str
 - Nebenangebote ohne Mindestanforderungen.
 - Vergabevermerk § 20 VOB-A fehlt oder ist unvollstaendig.
 
-## Output
-- Verfahrenswahl-Pruefvermerk.
-- Leistungsbeschreibungs-Checkliste (detailliert vs. funktional).
-- Vergabevermerk-Vorlage § 20 VOB-A.
-
-## Quellenregel
-BGH-Linien zur LB-Verantwortung und zur Wertung Nebenangebote vor Ausgabe ueber bundesgerichtshof.de / dejure.org verifizieren; VOB-A aktuelle Fassung pruefen.
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -444,3 +390,4 @@ BGH-Linien zur LB-Verantwortung und zur Wertung Nebenangebote vor Ausgabe ueber 
 - Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+

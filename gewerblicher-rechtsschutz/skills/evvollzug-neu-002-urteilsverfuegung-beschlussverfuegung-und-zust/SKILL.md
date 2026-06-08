@@ -5,10 +5,6 @@ description: "EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung,
 
 # EV-Vollzug 002: Urteilsverfügung, Beschlussverfügung und Zustellweg
 
-## Arbeitsbereich
-
-EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung, Zustellwege und Vollziehungsmodalitäten im gewerblichen Rechtsschutz. Amts- vs. Parteizustellung, Fristfolgen, Strategiewahl für Marken-, Patent- und UWG-Fälle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -121,3 +117,4 @@ Nach erfolgreicher Zustellung:
 - `evvollzug-neu-003` – Zustellung durch Gerichtsvollzieher im IP-Verfahren
 - `evvollzug-neu-004` – beA-Zustellung bei einstweiligem Rechtsschutz
 - `evvollzug-neu-005` – Ordnungsmittelantrag nach Vollzug
+

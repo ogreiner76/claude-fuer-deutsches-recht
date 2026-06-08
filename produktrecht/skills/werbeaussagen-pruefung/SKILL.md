@@ -5,10 +5,6 @@ description: "Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrecht
 
 # Werbeaussagen-Prüfung (Marketing Claims Review)
 
-## Arbeitsbereich
-
-Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer "Werbetext prüfen", "Marketingaussagen freigeben", "UWG-Prüfung", "Health Claims", "klimaneutral prüfen" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach 
 - Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Das Marketing möchte das Produkt bestmöglich darstellen. Das Recht verlangt, dass Werbeaussagen wahr oder zumindest nicht nachweislich falsch sind. Dieser Skill identifiziert Behauptungen, die Abmahnrisiken, behördliche Anfragen (Bundeskartellamt, Verbraucherschutzverbände) oder eine UWG-Klage auslösen können, und schlägt Alternativformulierungen vor, die Werbewirkung und Rechtskonformität verbinden.
-
-Die Skill lädt automatisch, wenn der Nutzer Werbetexte, Landingpages, Produktbeschreibungen, E-Mail-Kampagnen, Anzeigentexte oder Influencer-Briefings zur Prüfung vorlegt.
 
 ## Eingaben
 
@@ -63,6 +53,7 @@ Die Skill lädt automatisch, wenn der Nutzer Werbetexte, Landingpages, Produktbe
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1: Standards laden und Branchenkontext klären
@@ -202,10 +193,6 @@ Für längere Assets (> 300 Wörter): Änderungs-Diff als Aufzählung.]
 | [Behauptung] | [Datentyp / Studie / Zertifikat] | [PM / Marketing / Recht] |
 ```
 
-## Ausgabeformat
-
-Prüfvermerk im internen Format gemäß CLAUDE.md. Für kurze Assets (Tagline, Headline) ist das Ergebnis die tatsächlich überarbeitete Formulierung, nicht eine Metabeschreibung der Änderungen.
-
 ## Beispiel
 
 **Sachverhalt:** Landingpage für ein Nahrungsergänzungsmittel mit folgenden Aussagen: (1) "Stärkt Ihr Immunsystem", (2) "Klimaneutral produziert", (3) "50 % wirksamer als Vitamin-C-Tabletten der Konkurrenz".
@@ -240,3 +227,4 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 <!-- AUDIT 27.05.2026 bundle_040
 -->
+

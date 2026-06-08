@@ -22,10 +22,6 @@ Wie aendert sich der Marktanteil des Mandanten je nachdem wie eng oder weit der 
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Zweck
-
-Die Wahl der Marktdefinition ist selten neutral: Sie bestimmt, welcher Marktanteil ausgewiesen wird, und damit, ob Marktbeherrschungsvermutungen greifen oder Eingriffsschwellen überschritten werden. Dieser Skill macht diese Auswirkungen sichtbar und quantifiziert sie.
-
 ## Grundstruktur der Analyse
 
 ### 1. Marktanteilsmatrix
@@ -94,10 +90,6 @@ Marktdefinitionsabhängigkeit des Ergebnisses: **gering (< 5 Prozentpunkte Unter
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Ueberragende Marktstellung § 18 Abs. 3a GWB; Marktanteil plus Netzwerkeffekte plus Datenzugang kumulativ.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -126,3 +118,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Marktabgrenzung nach SSNIP-Test sauber durchfuehren; Bekanntmachung der Kommission 2024/C berücksichtigen.
 - Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie pruefen.
 - § 19a GWB-Verfahren sind eigenstaendig vom Marktmissbrauch nach § 19 GWB; Befugnisse und Rechtsfolgen unterscheiden.
+

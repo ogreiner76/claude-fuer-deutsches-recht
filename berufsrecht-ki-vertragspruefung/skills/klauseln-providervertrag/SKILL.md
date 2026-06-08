@@ -99,10 +99,6 @@ Anlage 1 zum Vertrag — Strafrechtliche Belehrung
 - Beim Subunternehmer-Zustimmungsvorbehalt (Baustein 4) wehren sich Anbieter, weil ihre Lieferkette dann statisch wird; ein Widerspruchsrecht mit kurzer Frist ist ein realistischer Kompromiss.
 - "no training" (Baustein 5) ist heute Marktstandard und sollte verbindlich werden, nicht nur Default-Setting in einem Account.
 
-## Output
-
-Markdown-Datei mit ausgewählten oder allen Bausteinen. Bei Bedarf in das Vertragsdokument einarbeiten lassen.
-
 ## Aktuelle Rechtsprechung zur AGB-Kontrolle
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -114,9 +110,6 @@ Markdown-Datei mit ausgewählten oder allen Bausteinen. Bei Bedarf in das Vertra
 - §§ 43e Abs. 3, 62a Abs. 3, 50a Abs. 3, 39c Abs. 3, 26a Abs. 3 — Vertragsinhalt Dienstleisterregelung
 - § 203 Abs. 4 Satz 2 Nr. 1 StGB — Sekundärpflicht des Dienstleisters
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Welche Bausteine sind prioritär? (Verschwiegenheit und Belehrung immer; Drittstaat nur bei US-Anbieter)
@@ -149,3 +142,4 @@ Nr. | Baustein | Status | Anbieter-Antwort
 
 Bei Nichtunterzeichnung bis [FRIST]: Vertragskuendigung zum [DATUM].
 ```
+

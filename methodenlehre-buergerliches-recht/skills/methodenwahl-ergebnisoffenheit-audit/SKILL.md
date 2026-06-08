@@ -53,10 +53,6 @@ description: "Prüft zivilrechtliche Gutachten und Urteile auf Ergebnisoffenheit
 - Strohmann-Argumente der Gegenseite werden als vollständige Berücksichtigung der Gegenposition ausgegeben.
 - Das Audit endet mit einer Qualifikation statt mit konkreten Verbesserungsvorschlägen.
 
-## Output
-
-Das Skill liefert ein Methodenwahl-Audit: systematische Prüfung aller Indikatoren für Ergebnisoffenheit und Ergebnissteuerung, Bewertung der Gegenmethodenbehandlung, Formulierungsanalyse, Konsistenzcheck und abschließende Qualifikation mit konkreten Verbesserungsempfehlungen. Verwendbar als interne Qualitätsprüfung, Mandantenbericht oder wissenschaftliche Urteilsanalyse.
-
 ## Vertiefung: Anchoring als kognitive Falle
 
 Ein zentrales psychologisches Problem bei der Methodenwahl ist Anchoring: Der erste entwickelte Lösungsansatz beeinflusst alle folgenden Überlegungen, auch wenn er methodisch schwach ist. Das Audit sollte daher prüfen, ob die erste Ergebnishypothese den Auslegungs- und Abwägungsprozess dominiert hat. Gegenmittel ist die explizite Entwicklung von Alternativhypothesen vor Beginn der Hauptanalyse.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 3 GG – Gleichheitssatz](https://dejure.org/gesetze/GG/3.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

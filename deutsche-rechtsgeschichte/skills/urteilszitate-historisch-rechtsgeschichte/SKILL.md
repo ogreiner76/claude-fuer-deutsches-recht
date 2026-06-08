@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren.
 
 # Urteilszitate historisch verifizieren
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Historische Urteilszitate muessen anders verifiziert werden als heutige. Das Rei
 - VGH: Bundesarchiv R 3018, Signatur und Blattnummer
 - Kein Urteilszitat ohne Gericht, Datum, Aktenzeichen/Fundstelle
 
-## Output
-
-- Verifikations-Schema für historische Urteilszitate
-- Fundstellen-Leitfaden: RGZ, RGSt, BVerfGE, BGHZ, BVerwGE
-- Bundesarchiv-Hinweise: VGH und nicht publizierte Entscheidungen
-
-## Quellenregel
-
-BVerfGE: bverfg.de. BGH: bgh.de. BVerwG: bverwg.de. RGZ/RGSt: gedruckte Baende (Band und Seite). VGH: Bundesarchiv R 3018. Kein Zitat ohne vollstaendige Fundstelle.

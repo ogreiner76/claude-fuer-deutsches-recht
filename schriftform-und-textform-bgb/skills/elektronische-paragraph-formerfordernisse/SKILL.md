@@ -5,10 +5,6 @@ description: "Elektronische Form Paragraph 126a BGB Qes: ordnet Normen, Nutzeran
 
 # Elektronische Form § 126a BGB — Qualifizierte elektronische Signatur
 
-## Arbeitsbereich
-
-Elektronische Form Paragraph 126a BGB Qes: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -130,18 +126,3 @@ Gesetzliche Formfiktionen bleiben unberührt.
 - **§ 623 BGB bleibt direkt streng**: Kündigung und Aufhebungsvertrag per E-Mail, DocuSign oder beA-Nachricht außerhalb des § 46h ArbGG bleiben riskant bis unwirksam.
 - **Verträge brauchen zwei Seiten**: Bei § 126a Abs. 2 BGB muss die Vertragsmechanik beidseitig elektronisch sauber abgebildet sein.
 
-## Querverweise
-
-- → `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`
-- → `kuendigung-per-schriftsatz-zustellung-formfragen`
-- → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
-- → `wohnraummiete-kuendigung-paragraph-568-bgb`
-- → `dokumentations-und-beweisarchitektur`
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

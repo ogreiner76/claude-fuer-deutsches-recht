@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für KI-VO/AI Act Prüfer: ordnet Rol
 
 Dieser Einstieg routet **Ki Vo Ai Act Prüfer** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abgrenzung-konventionelle-software-vs-ki` — Abgrenzung Konventionelle Software VS KI
@@ -34,12 +33,9 @@ Dieser Einstieg routet **Ki Vo Ai Act Prüfer** vom ersten Sachverhalt zu Rollen
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei KI-VO/AI Act Prüfer typische Eskalationsstufen: Risikoklassifikation, Konformitätsbewertung, Compliance-Plan.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

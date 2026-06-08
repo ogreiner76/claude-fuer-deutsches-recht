@@ -5,10 +5,6 @@ description: "Sachverhaltschronologie für Klageschrift oder Verteidigung aufbau
 
 # Sachverhalts-Chronologie
 
-## Arbeitsbereich
-
-Sachverhaltschronologie für Klageschrift oder Verteidigung aufbauen: Zeitlinie mit Belegen und Normbezug. Normen: §§ 253 138 ZPO. Prüfraster: Ereignisse, Zeitpunkte, Dokumente, Normbezug, streitige vs. unstreitige Tatsachen. Output: Tabellarische Sachverhaltschronologie. Abgrenzung: nicht vollständige Klageschrift. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,9 +34,6 @@ Sachverhaltschronologie für Klageschrift oder Verteidigung aufbauen: Zeitlinie 
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Aufbau einer mandatsbezogenen Sachverhalts-Chronologie aus vorliegenden Dokumenten, Schriftsätzen, Verträgen, E-Mails und Anlagen. Die Chronologie dient als Grundlage für Sachverhaltsdarstellungen im Schriftsatz (§ 253 Abs. 2 Nr. 1 ZPO), Zeugenvernehmungsvorbereitung (§§ 373 ff. ZPO), Berufungsbegründung (§ 520 Abs. 3 ZPO) und interne Mandatsbriefings.
@@ -86,22 +79,6 @@ Verbindlich: `../references/zitierweise.md`.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Ausgabeformat
-
-### Arbeitschronologie (Tabelle)
-
-| Datum | Ereignis | Quelle / Anlage | Beteiligte | Tag | Anmerkung |
-|---|---|---|---|---|---|
-| 12.03.2022 | Abschluss Werkvertrag | Anlage K1 (Vertrag v. 12.03.2022) | Kl., Bekl. | 🔑 | Unterschriften vorhanden |
-| 15.04.2022 | Fristsetzung Mängelbeseitigung (Schreiben Kl.) | Anlage K3 | Kl. → Bekl. | 🔑 | Zugang streitig |
-| [LÜCKE] | Zeitraum 16.04. – 30.05.2022 | – | – | ❓ | Keine Korrespondenz vorhanden |
-
-### Sachverhaltsdarstellung (Fließtext-Modus)
-
-> Am 12. März 2022 schlossen die Parteien einen Werkvertrag über die Erstellung einer Software (Anlage K1). Mit Schreiben vom 15. April 2022, dem Beklagten zugegangen am 17. April 2022 (Anlage K2: Rückschein), setzte die Klägerin eine Nachfrist zur Mängelbeseitigung bis zum 1. Mai 2022.
->
-> *Beweis für Zugang: Zeugnis des Herrn Anton Mayer, [Anschrift]; Anlage K2 (Zustellungsnachweis).*
-
 ## Risiken / typische Fehler
 
 - **Unklarer Zugangszeitpunkt:** Zugangsnachweis für Mahnungen und Fristsetzungen ist entscheidend für Verzugsbeginn (§ 286 Abs. 1 BGB); fehlende Belege zwingend als Lücke markieren.
@@ -109,3 +86,4 @@ Verbindlich: `../references/zitierweise.md`.
 - **Veraltete Chronologie:** Nach jedem Mandat-Update (`/mandat-update`) die Chronologie ergänzen; veraltete Versionen archivieren.
 - **Zeugenchronologie zu weit gefasst:** Nur mandatsrelevante Ereignisse einbeziehen; nicht alle Ereignisse, an denen der Zeuge beteiligt war.
 - **Datenschutz:** Personenbezogene Daten Dritter nur soweit erforderlich; DSGVO-Minimierungsgrundsatz (Art. 5 Abs. 1 lit. c DSGVO) beachten.
+

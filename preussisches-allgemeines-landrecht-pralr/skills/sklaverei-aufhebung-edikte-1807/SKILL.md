@@ -56,8 +56,3 @@ Beide Institute werden umgangssprachlich vermengt, sind rechtshistorisch aber zu
 3. Welches Folge-Edikt einschlaegig?
 4. Heutige Aequivalenz?
 
-## Output
-
-- Quellenmatrix.
-- Chronologische Edikte-Liste.
-- Memo zur Reformpolitik Stein-Hardenberg.

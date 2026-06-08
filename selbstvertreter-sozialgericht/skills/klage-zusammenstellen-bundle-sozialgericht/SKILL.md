@@ -109,24 +109,7 @@ Pruefen Sie das Limit Ihres Versandwegs (z.B. MJP).
 - Schreibfehler im Antrag → Korrigieren mit Schriftsatz nachschicken (Gericht ist verstaendnisvoll)
 - Datum falsch → korrigieren
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — welche Klage
-- `klagebegruendung-laienleitfaden` — Schriftsatz
-- `anlagen-bezeichnen-und-sortieren-sozialgericht` — Anlagen
-- `einreichung-mein-justizpostfach-mjp-sozialgericht` — MJP
-- `einreichung-papierform-sozialgericht-mit-abschriften` — Post
-- `versand-selbst-zurechnung-laien-sozialgericht` — Versandbeweis
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis der Sozialgerichte.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

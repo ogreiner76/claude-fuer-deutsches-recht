@@ -8,6 +8,7 @@ description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung 
 ## Arbeitsbereich
 
 **Berechnen BGB Buch Fuehren Fristverlaengerung** ordnet den Fall über die tragenden Prüfungslinien: Berechnung von Prozessfristen nach §§ 187 188 BGB, Eigenes Fristen-System für Selbstvertreter aufbauen, Antrag auf Fristverlaengerung nach § 224 II und § 225 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +24,7 @@ description: "Berechnen BGB Buch Fuehren Fristverlaengerung im Selbstvertretung 
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fristen-berechnen-187-188-bgb`
@@ -149,24 +151,9 @@ In der Praxis: 2-3 Tage Reserve einplanen. Bote/Post-Verspaetung tragen Sie als 
 - "Wochenende zaehlt nicht." → Doch — nur Fristende kann verschoben werden.
 - "Notfrist verlaengern." → Geht nicht.
 
-## Querverweise
-
-- `fristbeginn-zustellung-protokollieren` — Zustellung dokumentieren.
-- `fristen-buch-fuehren-laien` — Eigenes Reminder-System.
-- `fristverlaengerung-antrag-225-zpo` — Verlaengerung.
-- `wiedereinsetzung-frist-233-zpo` — Wiedereinsetzung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 187, 188, 193 BGB unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `fristen-buch-fuehren-laien`
 
@@ -284,13 +271,6 @@ Einmal pro Woche:
 - "Ich notiere die Frist im Kalender und vergesse die Vorfrist." → Riskant.
 - "Ich vertraue auf Erinnerungen." → Mehrere Quellen besser.
 - "Belege ablegen wann immer." → Sortierung wichtig.
-
-## Querverweise
-
-- `fristen-berechnen-187-188-bgb` — Berechnung.
-- `fristbeginn-zustellung-protokollieren` — Zustellung.
-- `fristverlaengerung-antrag-225-zpo` — Verlaengerung.
-- `zurechnungsproblem-versand-durch-dritte` — Versand-Risiko.
 
 ## Quellen und Aktualitaet
 
@@ -431,21 +411,7 @@ Wenn Sie mit Gegenseite ueber Vergleich verhandeln, koennen Sie Verlaengerung be
 - "Antrag am Frist-Ende." → Zu spaet.
 - "Begruendung: ich brauche mehr Zeit." → Nicht substantiiert.
 
-## Querverweise
-
-- `fristen-berechnen-187-188-bgb` — Berechnung.
-- `fristen-buch-fuehren-laien` — System.
-- `wiedereinsetzung-frist-233-zpo` — Bei Versaeumnis.
-- `klageerwiderung-fristen-274-zpo` — Erwiderungs-Frist.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 224, 225 ZPO unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

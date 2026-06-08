@@ -107,13 +107,7 @@ Niemals offen aggressiv schreiben — sachlich bleiben.
 - Allgemeine Schilderung der Notlage → konkrete Tatsachen
 - Verzicht auf medizinische Belege → wichtig in EM-, GdB-, Pflege-Streits
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `pkh-vor-sozialgericht-73a-sgg` — Antrag
-- `klagebegruendung-laienleitfaden` — Begruendung
-- `kostenrisiko-vs-kostenfreiheit-laien` — Kostenrisiko
-
 ## Quellen und Aktualitaet
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -5,9 +5,6 @@ description: "Versr Deckungsprozess VVG Einfuehrung Themen im Plugin Fachanwalt 
 
 # Versr Deckungsprozess VVG Einfuehrung Themen
 
-## Arbeitsbereich
-
-**Versr Deckungsprozess VVG Einfuehrung Themen** ordnet den Fall über die tragenden Prüfungslinien: Deckungsklage, Versicherungsrecht einfuehrend, Kreditausfall-. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Versr Deckungsprozess VVG Einfuehrung Themen im Plugin Fachanwalt 
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `versr-deckungsprozess-215-vvg-beweislast`
@@ -31,29 +29,12 @@ description: "Versr Deckungsprozess VVG Einfuehrung Themen im Plugin Fachanwalt 
 
 ### FA Versicherungsrecht: Deckungsprozess § 215 VVG
 
-## Einsatz
-
-Für die prozessuale Übersetzung der Deckungsprüfung in Klage oder Klageerwiderung.
-
 ## Norm- und Quellenanker
 
 - VVG §§ 1, 14, 28, 31, 81, 82, 86, 215 je nach Deckungsstreit: Leistung, Fälligkeit, Obliegenheit, Gefahrerhöhung, Herbeiführung, Rettungskosten/Regress.
 - ZPO §§ 253, 256, 286, 402 ff. für Leistungs-/Feststellungsklage, Beweiswürdigung und Sachverständige.
 - AVB/Besondere Bedingungen/Police/Nachträge haben Vorrang vor Produktbezeichnungen; Deckung und Haftpflicht nicht vermischen.
 - VVG § 215 ist Gerichtsstand, kein materieller Anspruch; lokale Zuständigkeit und Verbraucher-/Versicherungsnehmerrolle sauber prüfen.
-
-## Arbeitsfragen
-
-1. Leistung oder Feststellung?
-2. Welches Gericht?
-3. Welche Beweise sind anknüpfungsfähig?
-4. Wer trägt Beweislast für Versicherungsfall, Ausschluss, Obliegenheitsverletzung, Kausalität und Verschulden?
-5. Ist die Leistung fällig oder fehlt noch eine zulässige Auskunft/Beleganforderung?
-6. Muss ein Haftpflichtprozess verteidigt, ein Deckungsprozess geführt oder beides koordiniert werden?
-
-## Output
-
-Klagegerüst, Beweisplan und Streitwertnotiz.
 
 ## Red Flags
 
@@ -101,12 +82,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
@@ -119,23 +94,9 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 
 ### FA Versicherungsrecht: Kredit- und Restschuldversicherung
 
-## Einsatz
-
-Für Lieferanten, Banken und Verbraucher bei Forderungsausfall oder Darlehensabsicherung.
-
 ## Norm- und Quellenanker
 
 VVG; BGB §§ 491 ff.; InsO; HGB; VersVermV/IDD.
-
-## Arbeitsfragen
-
-1. Welches Limit/versicherter Fall?
-2. Welche Melde- und Inkassoobliegenheiten?
-3. War Restschuldversicherung transparent gekoppelt?
-
-## Output
-
-Limit-/Ausfallmatrix und Widerrufs-/Leistungsprüfung.
 
 ## Red Flags
 
@@ -146,3 +107,4 @@ Limit-/Ausfallmatrix und Widerrufs-/Leistungsprüfung.
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

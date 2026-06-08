@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarische
 
 # Deutsche Rechtsgeschichte: 015 Grundgesetz Entstehung Parlamentarischer Rat
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat. Arbeite
 - Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für die Entstehung des Grundgesetzes 1948/49 und seine Architektur.
 
 ## Vorgeschichte
 
@@ -77,7 +69,3 @@ Skill für die Entstehung des Grundgesetzes 1948/49 und seine Architektur.
 - BVerfG.
 - Notstandsverfassung mit strikten Limits.
 
-## Output
-
-- Quellenmatrix.
-- Synopse WRV / GG.

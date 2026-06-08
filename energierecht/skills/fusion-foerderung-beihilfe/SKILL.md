@@ -5,10 +5,6 @@ description: "Prüft staatliche Förderung, EU-Beihilfe, IP-Rechte, Kooperation 
 
 # Fusion: Förderung, Beihilfe und IP
 
-## Arbeitsbereich
-
-Prüft staatliche Förderung, EU-Beihilfe, IP-Rechte, Kooperation mit Forschungseinrichtungen und Exportkontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -32,12 +28,6 @@ EU-Beihilferecht, Haushaltsrecht, IP-Recht, Exportkontrolle, Forschungskooperati
 3. Sicherheits-, Umwelt-, Netz- und Verkehrsfragen getrennt dokumentieren.
 4. Konkrete Nachforderungen an Vorhabenträger und Behördenstrategie ausgeben.
 
-## Output
-
-- Regulierungslandkarte
-- Genehmigungsfahrplan
-- Risiko-/Kommunikationspapier
-
 ## Qualitätsgate
 
 - Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
@@ -47,3 +37,4 @@ EU-Beihilferecht, Haushaltsrecht, IP-Recht, Exportkontrolle, Forschungskooperati
 ## Spezielle Vorsicht
 
 Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen AtG/Strahlenschutz-/Fachrecht und Behördenmaterial live prüfen.
+

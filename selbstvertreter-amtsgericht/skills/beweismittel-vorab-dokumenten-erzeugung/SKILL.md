@@ -5,9 +5,6 @@ description: "Beweismittel Vorab Dokumenten Erzeugung im Selbstvertretung am Amt
 
 # Beweismittel Vorab Dokumenten Erzeugung
 
-## Arbeitsbereich
-
-**Beweismittel Vorab Dokumenten Erzeugung** ordnet den Fall über die tragenden Prüfungslinien: Checkliste für die Sammlung von Beweismitteln vor Klage, PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am, Dolmetscher im Zivilprozess nach § 185 GVG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Beweismittel Vorab Dokumenten Erzeugung im Selbstvertretung am Amt
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `beweismittel-vorab-sammeln-checkliste`
@@ -166,26 +164,9 @@ Wenn Schwachstellen: Sammeln Sie mehr (Email anfragen, Zeugen finden, Indizien s
 - "Zeuge ist mein Ehepartner, der weiss alles." → Naher Angehoeriger hat Zeugnis-Verweigerungsrecht (§ 383 ZPO) und Aussagewert wird kritisch beurteilt.
 - "Ich erinnere mich, dass ..." → Eigene Aussage hat geringen Beweiswert.
 
-## Querverweise
-
-- `beweislast-grundregel-wer-was` — Wer beweist was?
-- `zeugenbeweis-373-ff-zpo` — Zeugen einsetzen.
-- `urkundenbeweis-415-ff-zpo` — Urkunden.
-- `sachverstaendigenbeweis-402-zpo` — Sachverstaendiger.
-- `augenscheinsbeweis-371-zpo` — Augenschein.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Im Schriftsatz.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO-Beweisrecht stabil. Praxis-Tipp.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `dokumenten-erzeugung-pdf-laien-amtsgericht`
 
@@ -327,24 +308,9 @@ Das Datum am Anfang sorgt für chronologische Sortierung. Der Inhalt im Namen hi
 - **Fehler:** PDF ist 200 MB gross, MJP weigert sich. → **So vermeiden:** Komprimieren oder in mehrere Einreichungen aufteilen.
 - **Fehler:** Klageschrift und Anlagen in einem riesigen PDF — Gericht muss alles durchscrollen. → **So vermeiden:** Klageschrift = ein PDF, jede Anlage = ein eigenes PDF.
 
-## Querverweise
-
-- `klage-zusammenstellen-komplettes-bundle-amtsgericht` — Bundle zusammenstellen
-- `anlagen-formatieren-k1-k2-pdf-amtsgericht` — Anlagen formatieren
-- `einreichung-mein-justizpostfach-mjp-2024` — Elektronisch einreichen
-- `einreichung-papierform-mit-abschriften` — Wenn Sie lieber Papier nutzen
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Mein Justizpostfach (MJP) seit 2024 in Betrieb. PDF/A ist das vom Gericht bevorzugte Format. Praxis-Hinweise zu Tools sind unverbindliche Empfehlungen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `dolmetscher-185-gvg`
 
@@ -458,21 +424,7 @@ Wenn Sie ohne Dolmetscher kommen und Verstaendnis-Schwierigkeiten habens: Gerich
 - "Familienangehoeriger uebersetzt." → Nicht vereidigt, Beweis-Wert problematisch.
 - "Uebersetzung ohne Beglaubigung." → Bei Streit erforderlich.
 
-## Querverweise
-
-- `terminvorbereitung-checkliste` — Vorbereitung.
-- `verhalten-gerichtssaal-laienleitfaden` — Verhalten.
-- `zeugenbeweis-373-ff-zpo` — Zeuge.
-- `urkundenbeweis-415-ff-zpo` — Urkunden.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 185 GVG unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

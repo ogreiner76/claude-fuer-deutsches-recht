@@ -18,7 +18,6 @@ Arbeitsfokus: **Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungs
 - `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
 - `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Spezialwissen: Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -40,21 +39,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
 ## Qualitätsanker: Anti-Blindzitat und gerichtsfeste Fundstellen
 
 - **Mindeststandard Rechtsprechung:** Gericht, Entscheidungsform, Datum, Aktenzeichen, frei prüfbarer Link und ein eigener kurzer Satz zur tragenden Aussage. Ohne diese fünf Punkte wird ein Zitat als ungeprüft markiert oder weggelassen.
 - **Verbotene Routine:** Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Solche Angaben sind nur zulässig, wenn die Nutzerin/der Nutzer den Text oder lizenzierten Live-Zugriff bereitstellt; dann aber nicht als frei verifizierte Quelle ausgeben.
 - **Quellenhierarchie:** Amtliche Gerichtsseiten zuerst, danach rechtsprechung-im-internet.de, dejure/openJur/landesrechtliche Datenbanken als freie Kontrollquellen. Presseberichte und Kanzleiblogs nur als Suchhinweis, nicht als tragender Beleg.
 - **Output-Pflicht:** Bei jeder problematischen Fundstelle eine Bereinigungsmatrix liefern: Originalzitat, Problem, verifizierbarer Ersatz, tragende Aussage, Unsicherheitsvermerk.
+

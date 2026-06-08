@@ -54,12 +54,3 @@ Das UN-Kaufrecht (CISG, Wien 1980, in Kraft seit 1988) gilt in 97 Vertragsstaate
 - Bei Art. 3 Werklieferung: Wertanteil Material vs. Dienstleistung nach Vertragsursprung
 - Autonome Auslegung: keine Rückgriffe auf BGB-Dogmatik bei CISG-Begriffen
 
-## Output
-
-- Subsumtionsschema CISG-Anwendbarkeit (ja/nein/condizional)
-- Checkliste Art. 2-Ausschlüsse
-- Formulierungsvorschlag Opting-out-Klausel nach Art. 6
-
-## Quellenregel
-
-CISG-Text: uncitral.un.org. Rechtsprechungsdatenbank: CISG-online.ch, jusmundi.com. Schrifttum: Schlechtriem/Schwenzer (7. Aufl. 2019) mit Stelle angeben. Unsicherheit bleibt sichtbar.

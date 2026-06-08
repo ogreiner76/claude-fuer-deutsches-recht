@@ -5,10 +5,6 @@ description: "Widerrufsrecht Verbraucher im Plugin Ecommerce Recht im Ecommerce 
 
 # Widerrufsrecht Verbraucher
 
-## Arbeitsbereich
-
-**Widerrufsrecht Verbraucher** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Widerrufsrecht Verbraucher im Plugin Ecommerce Recht im Ecommerce 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `widerrufsrecht-verbraucher-355-312g-bgb`
@@ -110,15 +107,6 @@ Bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen st
 - Rücksendekosten dem Verbraucher auferlegt ohne ausdrückliche Belehrung – unwirksam.
 - Wertersatz pauschal verlangt ohne Beweis übersteigender Nutzung.
 
-## Querverweise
-
-- widerrufsbelehrung-digitale-waren-dienstleistungen
-- fernabsatzvertrag-312c-bgb
-- digitale-inhalte-abo-kuendigungsbutton
-- informationspflichten-vor-vertragsschluss-art-246a-egbgb
-- retourenmanagement-wertersatz
-- shop-check-checkout-widerruf-impressum
-
 ## Quellen Stand 06/2026
 
 - §§ 355, 356, 357, 312g BGB – Volltext gesetze-im-internet.de.
@@ -126,3 +114,4 @@ Bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen st
 - Verbraucherrechte-RL 2011/83/EU – EUR-Lex.
 - EuGH-Rechtsprechung zu Belehrung und Widerruf – curia.europa.eu (Az. nach Verifikation).
 - BGH zu Widerrufsbelehrung – ständige Rechtsprechung; Volltexte bundesgerichtshof.de.
+

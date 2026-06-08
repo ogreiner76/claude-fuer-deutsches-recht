@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Abgrenzung Penalty vs. Liquidated Da
 
 # Penalty vs. Liquidated Damages: Rechtsvergleich
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Abgrenzung Penalty vs. Liquidated Damages in Common Law und Civil Law. Cavendish-Test (UK 2015), PICC Art. 7.4.13 Reduktionsrecht, § 343 BGB Mäßigung und rechtsvergleichende Analyse für internationale Verträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Die Abgrenzung Penalty (unzulässige Strafklausel) und Liquidated Damages (zulä
 - PICC: Unverhältnismäßigkeit dokumentieren für Schiedsargument
 - Internationale Verträge: Rechtsordnung wählen die LD-Klausel wirksam hält (Rechtswahl)
 
-## Output
-
-- Cavendish-Test-Anwendungsschema
-- LD-Klausel-Risikocheck (UK, D, PICC)
-- Mäßigungsrecht-Vergleich D-F-UK
-
 ## Quellenregel
 
 Cavendish [2015] UKSC 67: bailii.org. BGB §§ 339, 343: gesetze-im-internet.de. PICC Art. 7.4.13: unidroit.org. Code Civil Art. 1231-5: legifrance.gouv.fr. Unsicherheit bleibt sichtbar.
+

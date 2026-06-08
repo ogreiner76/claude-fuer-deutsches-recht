@@ -5,10 +5,6 @@ description: "Vertiefung Baugrube im Nachbarschaftsstreit im Nachbarschaftsstrei
 
 # Vertiefung Baugrube
 
-## Arbeitsbereich
-
-**Vertiefung Baugrube** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Vertiefung Baugrube im Nachbarschaftsstreit im Nachbarschaftsstrei
 - Tragende Normen verifizieren: BGB §§ 903, 906, 1004, 910, 912, 917, 921, 922, NachbG (Landesnachbarrechtsgesetze), BImSchG, BauO Land, BNatSchG (Bäume), Schlichtungsgesetze der Länder (z. B. § 15a EGZPO BW) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Grundstücksnachbarn, Schlichtungsstelle, AG (Streitwert bis 5.000 €), LG, OLG, Ordnungsamt, untere Bauaufsichtsbehörde, untere Naturschutzbehörde.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schlichtungsantrag, Klage AG, Lichtbilder, Lärm-/Geruchsprotokoll, Sachverständigengutachten, Anwaltsschreiben, Vermessungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `vertiefung-baugrube-stuetzverlust`
@@ -29,10 +26,6 @@ description: "Vertiefung Baugrube im Nachbarschaftsstreit im Nachbarschaftsstrei
 **Fokus:** Vertiefung und Baugrube nach § 909 BGB prüfen: Verlust der Bodenstütze, Unterfangung, Risse, Setzung, Sicherungsmaßnahmen, Baustopp, Beweise, Sachverständige und Eilrechtsschutz.
 
 ### Vertiefung, Baugrube und Stützverlust
-
-## Zweck
-
-Dieser Skill ist für akute Baufälle: Nachbar hebt aus, Mauer reißt, Boden sackt, Terrasse kippt. Hier zuerst sichern, dann streiten.
 
 ## Prüfschema § 909 BGB
 
@@ -50,13 +43,6 @@ Dieser Skill ist für akute Baufälle: Nachbar hebt aus, Mauer reißt, Boden sac
 - Sachverständige für Standsicherheit/Baugrund erwägen.
 - Eilrechtsschutz prüfen.
 
-## Output
-
-- Gefahrenvermerk.
-- Beweisplan.
-- Sicherungsaufforderung an Nachbarn/Bauunternehmen.
-- Entwurf für einstweilige Verfügung oder selbständiges Beweisverfahren.
-
 ## Schneller Arbeitsmodus
 
 - Frage zuerst nach Bundesland, Grundstuecksgrenze, Lageplan/Vermessung, Fotos, Datum, Beteiligten und bisheriger Eskalation.
@@ -64,18 +50,3 @@ Dieser Skill ist für akute Baufälle: Nachbar hebt aus, Mauer reißt, Boden sac
 - Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache. Markiere, was gemessen, besichtigt oder sachverstaendig geklaert werden muss.
 - Priorisiere befriedende Loesungen, aber sichere Fristen, Besitzschutz und Eilrechtsschutz sichtbar ab.
 
-## Ausgabeformat
-
-- Streitstrang mit Anspruchsrichtung.
-- Benötigte Beweise.
-- Risiko für Mandant und Gegenseite.
-- Deeskalierender naechster Schritt.
-- Gerichtlicher naechster Schritt, falls Vergleich scheitert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

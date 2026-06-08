@@ -43,9 +43,6 @@ Ein Investor kauft ein Binnenmotorgueterschiff; Tanker oder Fahrgastschiff; Risi
 - Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
 - Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
 
-## Output
-Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
-
 ## Vertiefung: Wesentliche Kaufvertragsklauseln im Schiffskauf
 International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen Kaufrechtsregeln (BGB §§ 433-479). Bei internationalem Schiffskauf empfiehlt sich die ausdrückliche Rechtswahl (z.B. englisches Recht) im Vertrag, um CISG-Anwendung zu vermeiden.
 

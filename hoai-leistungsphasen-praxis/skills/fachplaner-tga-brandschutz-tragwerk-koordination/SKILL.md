@@ -5,10 +5,6 @@ description: "HOAI-Fachfrage: Schnittstellenkoordination zwischen Objektplanung,
 
 # Fachplanerkoordination TGA, Brandschutz Und Tragwerk
 
-## Arbeitsbereich
-
-HOAI-Fachfrage: Schnittstellenkoordination zwischen Objektplanung, TGA, Tragwerk, Brandschutz, Bauphysik, Baugrund und Sonderplanern mit Planlauf, Verantwortungsmatrix und Haftungsabgrenzung prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ HOAI-Fachfrage: Schnittstellenkoordination zwischen Objektplanung, TGA, Tragwerk
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Anwendungsfall: pläne nicht zusammenpassen: Lüftung kollidiert mit Träger, Brandschutz verlangt andere Türen, TGA-Schächte fehlen oder Baugrundannahmen kippen.
 
 ## Normanker
 
@@ -34,10 +26,6 @@ Anwendungsfall: pläne nicht zusammenpassen: Lüftung kollidiert mit Träger, Br
 3. Offene Schnittstellen als RFI oder Planprüfpunkt formulieren.
 4. Kosten-/Terminfolge und Nachtragsrisiko markieren.
 5. Beweis sichern: Wer erhielt welchen Plan wann?
-
-## Output
-
-RACI-Matrix, Kollisionsliste, Planlauf-Entscheidung und Textbaustein für Fachplaner-Runde.
 
 ## Normen und Rechtsprechung
 
@@ -67,3 +55,4 @@ RACI-Matrix, Kollisionsliste, Planlauf-Entscheidung und Textbaustein für Fachpl
 - Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
 - Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
 - Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
+

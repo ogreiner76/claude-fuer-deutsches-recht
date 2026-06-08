@@ -45,13 +45,6 @@ description: "Prüft offenen und versteckten Dissens nach §§ 154 und 155 BGB: 
 - Beurkundungsvorbehalt nach § 154 Abs. 2 BGB führt zu Formzwang — oft übersehen.
 - Anfechtung wegen Irrtums und Dissens schließen sich nicht aus, aber sind sorgfältig abzugrenzen.
 
-## Output
-
-- Gutachtenstil-Abschnitt zu §§ 154 und 155 BGB
-- Prüfampel: Vertrag zustande gekommen / Dissens / Heilung durch Auslegung möglich
-- Klausurlösungsskizze mit Abgrenzung offener/versteckter Dissens
-- Rückfragenliste zu Vertragsverhandlungsprotokollen und Nebenpunkten
-
 ## Quellen
 
 - [§ 154 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__154.html)
@@ -82,3 +75,4 @@ möglich (§ 155 BGB), der Rest ist offen.
 - Beurkundungsvorbehalt § 154 Abs. 2 BGB: Vereinbart und noch nicht beurkundet?
 - Versteckter Dissens § 155 BGB: Parteien haben trotz Unterschiede geglaubt, einig zu sein?
 - Ergänzende Auslegung: Kann Lücke nach §§ 133 und 157 BGB geschlossen werden?
+

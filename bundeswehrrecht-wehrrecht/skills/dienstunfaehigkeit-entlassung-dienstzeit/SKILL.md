@@ -5,10 +5,6 @@ description: "Dienstunfähigkeit Entlassung Zurruhesetzung: prüft die einschlä
 
 # Dienstunfähigkeit – Entlassung und Zurruhesetzung
 
-## Arbeitsbereich
-
-Dienstunfähigkeit Entlassung Zurruhesetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,15 +89,6 @@ Verliert der Soldat seine Dienstfähigkeit, führt dies zu unterschiedlichen Fol
 - Übergangsgebührnisse SaZ nicht beantragt.
 - Frist § 6 WBO verpasst.
 
-## Querverweise
-
-- soldatenversorgungsgesetz-beschaedigtenversorgung
-- aerztliche-begutachtung-dienstfaehigkeit
-- entlassung-auf-eigenen-antrag
-- ptbs-einsatzfolge-beweisfuehrung
-- einsatzunfall-wehrdienstbeschaedigung
-- dienstzeit-soldat-auf-zeit-berufssoldat-fwdl
-
 ## Quellen Stand 06/2026
 
 - §§ 44, 47, 55 SG – Volltext gesetze-im-internet.de.
@@ -110,3 +97,4 @@ Verliert der Soldat seine Dienstfähigkeit, führt dies zu unterschiedlichen Fol
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung zur Dienstunfähigkeit (Az. nach Verifikation).
 - BAPersBw – Verwaltungspraxis und Formulare.
 - Versorgungsmedizinische Grundsätze – BMAS.
+

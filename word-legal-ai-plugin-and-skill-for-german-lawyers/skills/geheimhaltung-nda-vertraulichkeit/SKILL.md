@@ -5,10 +5,6 @@ description: "Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als
 
 # Geheimhaltung, NDA und Vertraulichkeit
 
-## Arbeitsbereich
-
-Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als Vertragsbaustein. Strukturiert Definition der vertraulichen Information, Standardausnahmen (öffentlich bekannt, eigenständig entwickelt, von Dritten rechtmäßig erhalten, gesetzliche Offenlegungspflicht), Nutzungsbeschränkung, Pflichten zur Geheimhaltung, Dauer, Rückgabe und Löschung, Vertragsstrafe (mit Blick auf § 309 Nr. 6 BGB), Gerichtsstand und das Verhältnis zum GeschGehG mit der Pflicht zu angemessenen Geheimhaltungsmaßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Drafting eines stand-alone NDA und einer Geheimhaltungsklausel als Vertragsbaust
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill unterstützt Sie bei der Erstellung von Geheimhaltungsregeln in zwei Varianten: als eigenständige Vertraulichkeitsvereinbarung (Non Disclosure Agreement, kurz NDA: Vertrag zur Nicht-Offenlegung von Informationen) und als Geheimhaltungsklausel innerhalb eines größeren Vertrags. Ein gutes NDA definiert exakt, was schützenswert ist, schränkt die Nutzung ein, regelt Ausnahmen, Dauer und Sanktion und ist anschlussfähig an das Geschäftsgeheimnisgesetz (GeschGehG).
 
 ## Eingaben
 
@@ -62,12 +54,6 @@ Dieser Skill unterstützt Sie bei der Erstellung von Geheimhaltungsregeln in zwe
 - Vertragsstrafe in Verbraucher-AGB: § 309 Nr. 6 BGB.
 - Dauer "unbegrenzt": in AGB nach § 307 BGB regelmäßig unzulässig.
 
-## Ausgabeformat
-
-- Vollständiger Mustertext NDA (bei stand-alone) mit Präambel, Definitionen, Pflichten, Ausnahmen, Dauer, Rückgabe, Sanktionen, Gerichtsstand.
-- Alternativ Klauselbaustein für Vertragseinbindung mit Querverweis auf Beendigung.
-- Kommentar: Risiken, AGB-Bewertung, GeschGehG-Anschluss.
-
 ## Beispiel
 
 Mustertext (Geheimhaltungsklausel in einem Rahmenvertrag, B2B):
@@ -80,13 +66,6 @@ Mustertext (Geheimhaltungsklausel in einem Rahmenvertrag, B2B):
 > (5) Die Pflichten gelten für die Vertragslaufzeit und für weitere fünf Jahre nach Beendigung.
 > (6) Auf Verlangen oder bei Vertragsende gibt die empfangende Partei alle Verkörperungen der vertraulichen Informationen zurück oder vernichtet sie und bestätigt dies in Textform. Ausgenommen sind automatisierte Backups und gesetzlich vorgeschriebene Aufbewahrung.
 
-## Querverweise
-
-- `vertragsstrafe-339-bgb` – Strafversprechen zur Verstärkung.
-- `kuendigungsklauseln-und-vertragsbeendigung` – Survival-Klausel für Geheimhaltung.
-- `boilerplate-klauseln-katalog` – Gerichtsstand, Rechtswahl, Schriftform.
-- `agb-konforme-klauseln-305-310-bgb` – AGB-Prüfung des NDA.
-
 ## Quellen (Stand 05/2026)
 
 - §§ 241 II, 242, 280, 307, 309 Nr. 6, 311 II BGB.
@@ -94,3 +73,4 @@ Mustertext (Geheimhaltungsklausel in einem Rahmenvertrag, B2B):
 - Art. 28 DSGVO (zur Abgrenzung NDA und AVV).
 - BGH- und OLG-Rechtsprechung zur Angemessenheit der Geheimhaltungsmaßnahmen nach § 2 Nr. 1 b GeschGehG ist vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
+

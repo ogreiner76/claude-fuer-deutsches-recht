@@ -85,14 +85,6 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 **Kritik aus Grundrechtsdogmatik:** Effizienzueberlegungen koennen Grundrechte nicht ueberspielen. Wer für Mietkuendigungsschutz nach § 573 BGB rein effizienzoekonomisch argumentiert, vergisst Art. 13 GG und Sozialstaatsprinzip.
 
-## Querverweise
-
-- `wertungsjurisprudenz-larenz-canaris` — herrschende Methodenposition; Effizienz als zusaetzliches Wertungsargument.
-- `teleologische-auslegung` — Effizienz als ratio legis-Argument.
-- `interessenjurisprudenz-heck` — Vorlaeufer interessenorientierter Methodik.
-- `systemtheorie-luhmann-rechtssystem-autopoiese` — alternative Beobachtung des Rechts (Recht als autopoietisches System, nicht als Effizienzinstrument).
-- `legal-realism-und-critical-legal-studies` — Vorlaeufer (Holmes) und Kritik (CLS).
-
 ## Quellen und Stand 05/2026
 
 - Ronald H. Coase, The Problem of Social Cost, Journal of Law and Economics 1960.
@@ -104,10 +96,3 @@ Im deutschen Zivilrecht ist Law and Economics nicht herrschende Methodenlehre �
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

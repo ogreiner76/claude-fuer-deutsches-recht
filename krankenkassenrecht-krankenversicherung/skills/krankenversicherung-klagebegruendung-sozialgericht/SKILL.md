@@ -5,10 +5,6 @@ description: "Klagebegründung vor dem Sozialgericht in Krankenversicherungssach
 
 # Klagebegründung Sozialgericht: Gesundheitsakte
 
-## Arbeitsbereich
-
-Klagebegründung vor dem Sozialgericht in Krankenversicherungssachen: Struktur, Beweisführung, Gesundheitsakten als Beweismittel, Sachverständige und SGG-Prozessrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ Nach erfolglosem Widerspruch folgt die Klage beim Sozialgericht. Dieser Skill be
 - [BSG Prozessrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [Sozialgericht Anleitungen](https://www.sozialgerichtsbarkeit.de)
 - [dejure.org SGG § 87](https://dejure.org/gesetze/SGG/87.html)
+

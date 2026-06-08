@@ -5,10 +5,6 @@ description: "PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern im Preußis
 
 # PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern
 
-## Aufgabe
-
-Dieser Skill bearbeitet **Zweiter Teil Ständeordnung Adel Bürger Bauern** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
 ## Kaltstart in 6 Fragen
 
 1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
@@ -61,10 +57,3 @@ ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Bei
 1. Heute reine Rechtsgeschichte. Falls nicht: namensrechtliche Frage zum Adelspraedikat.
 2. Bei Patrimonialgerichtsbarkeit: Aktenbestaende heute in Landesarchiven; Vorsicht bei Erbe und Lehen.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

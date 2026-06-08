@@ -5,10 +5,6 @@ description: "Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-V
 
 # Agb Und 242 Bgb Eingriffsnorm
 
-## Aufgabe
-
-Skill für Mandate mit internationalem Bezug, in denen die Frage gestellt wird, ob § 242 BGB als Eingriffsnorm (Art. 9 Rom-I-VO) das gesamte deutsche AGB-Recht international durchsetzt.
-
 ## Argumentation pro Eingriffsnormcharakter
 
 - § 242 BGB ist seit dem Reichsgericht und BGH eine "Generalklausel mit Verfassungsrang" (so vereinzelte Stimmen).
@@ -38,8 +34,3 @@ Skill für Mandate mit internationalem Bezug, in denen die Frage gestellt wird, 
 4. Welche BGH-Linie ist einschlaegig?
 5. Welche praxisnahe Loesung?
 
-## Output
-
-- Memo zur § 242-Eingriffsnorm-These mit Gegenargumenten.
-- Schriftsatzbaustein "Replik: § 242 BGB ist nicht international zwingend".
-- Verweis auf agb-rechtswahl-schweizer-recht-rom-i.

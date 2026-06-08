@@ -131,12 +131,6 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 3. Verstaendigungsverfahren bei Doppelbesteuerung trotz DBA (Art. 25 MA).
 4. EU-Streitbeilegung nach EU-DBA-SBG.
 
-## Output
-
-- **DBA-Pruefungsraster** (tabellarisch): Phase, Norm, Ergebnis, Quelle/Verifikation.
-- **Memo** im Gutachtenstil: Sachverhalt, Fragen, Kurzantwort, Rechtliche Bewertung, Gesamtergebnis, Risiken, Quellen.
-- **Querverweise** zu laenderspezifischen Skills und zu Methodenartikel-Skill.
-
 ## Strategie und Praxis-Tipps
 
 - Bei Mandantenfaellen mit MLI-Anpassung: stets pruefen, ob die spezifische Norm für den jeweiligen Staat angepasst wurde — die MLI-Reservationsregelungen beider Vertragsstaaten muessen kongruieren.
@@ -198,3 +192,4 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 3 belegt (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

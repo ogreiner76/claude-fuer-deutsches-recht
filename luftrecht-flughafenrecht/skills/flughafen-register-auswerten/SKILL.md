@@ -5,10 +5,6 @@ description: "Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigun
 
 # Flughafen – Register auswerten
 
-## Arbeitsbereich
-
-Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigungshistorie eines Flughafens auswerten. Skill prueft LuftVG § 6 Genehmigungsurkunde Planfeststellungsbeschluss Grundbuch und FluglaermG-Zoneneinteilung und liefert strukturierten Genehmigungsstatus-Bericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigungshistorie ein
 - **LuftVG § 9**: Planfeststellungsbeschluss; Drittwirkung und Bestandsschutz.
 - **FluglärmG § 4**: Lärmschutzbereiche; Tagschutzzonen 1 und 2 sowie Nachtschutzzone.
 - **VwVfG § 72**: Planfeststellungsverfahren allgemein; Beteiligungsrechte betroffener Dritter.
+
 ## Prüfraster
 
 1. Ist Planfeststellungsbeschluss aktuell und vollständig umgesetzt?
@@ -56,6 +53,7 @@ Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigungshistorie ein
 6. Sind alle Auflagen aus Planfeststellungsbeschluss fristgerecht erfüllt?
 7. Ist eine UVP nach UVPG § 4 durchgeführt und aktuell?
 8. Sind Lärmschutzbereiche nach FluglärmG § 4 neu zu ermitteln nach Bauerweiterung?
+
 ## Typische Fallstricke
 
 - Planfeststellungsauflagen veraltet und nicht auf aktuelles Recht angepasst.
@@ -74,9 +72,6 @@ Die Registerauswertung ist Grundlage jeder luftrechtlichen Due-Diligence-Prüfun
 - **ICAO International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
 - **Registerauszug Aktualität**: Stets aktuellen Auszug anfordern; veraltete Auszüge führen zu Haftungsrisiken.
 
-## Output
-
-Vermerk zu Flughafen – Register auswerten mit Rechtslagenanalyse Handlungsoptionen und Fristen. Planfeststellungs-Checkliste. Lärmschutzbereichs-Karte als Anhang.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -104,3 +99,4 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

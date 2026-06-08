@@ -5,10 +5,6 @@ description: "Finanzamt als Glaeubiger im Insolvenzverfahren. Paragraph 251 AO A
 
 # Sanierungsgewinn — Finanzamt im Insolvenzverfahren
 
-## Arbeitsbereich
-
-Finanzamt als Glaeubiger im Insolvenzverfahren. Paragraph 251 AO Aussetzung der Vollziehung, Paragraph 35 InsO Massezugehoerigkeit, Steuerforderungen als Insolvenzforderungen oder Masseverbindlichkeiten. Tabellenanmeldung der FA-Forderungen Paragraphen 174 ff. InsO. Steuerlicher Aufrechnungsschutz Paragraph 96 InsO. Schnittstelle zu Sanierungsgewinn. Mustertexte für Kommunikation mit dem Finanzamt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -154,20 +150,6 @@ Mit freundlichen Gruessen
 5. Bei Plan: FA in keine eigene Klasse — Mehrheitsmathematik verkompliziert.
 6. Schluss-Erlassantrag nach Plan-Vollzug vergessen.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Antragsmechanik.
-- `insol-sanierungsgewinn-vergleich-mit-finanzamt-und-stundung` — Stundungs-/Erlassmechanik.
-- `insol-sanierungsgewinn-massenpriorisierung-261-vs-3a-estg` — Massenpriorisierung.
-- `forderungsanmeldung-glaeubiger-174-177-inso` — Tabellenanmeldung.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — Steuerverfahren.
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt.
-
 ## Quellen Stand 06/2026
 
 - Paragraph 251 AO, `gesetze-im-internet.de/ao_1977/__251.html`.
@@ -176,3 +158,4 @@ In anderen Plugins:
 - Paragraph 3a EStG.
 - Paragraph 7b GewStG.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

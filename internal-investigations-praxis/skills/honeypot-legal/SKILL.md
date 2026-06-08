@@ -5,10 +5,6 @@ description: "Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot fü
 
 # Honeypot-Risiko in Internal Investigations
 
-## Arbeitsbereich
-
-Bewertet das Risiko, dass die Untersuchung selbst zum Honeypot für Behörden, Gegner, US-Discovery oder Presselecks wird. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,15 +54,6 @@ Dieser Skill analysiert vor jeder Untersuchungshandlung, ob und welche Dokumente
 - § 353b StGB schützt behördliche Geheimnisse; für Private gilt strafrechtlich kein vergleichbarer Schutz, aber zivilrechtlicher Geheimnisschutz nach GeschGehG ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/)).
 - Medienanfragen: Keine Stellungnahme ohne Pressestrategie (vgl. inv-051-press-strategy).
 
-## Red-Team-Fragen
-
-- Wer außer dem eigenen Anwalt hat jemals physischen oder digitalen Zugriff auf den Bericht erhalten?
-- Ist der Bericht so formuliert, dass er gegen die Gesellschaft verwendet werden kann, wenn er beschlagnahmt wird?
-- Wurden US-Cloud-Dienste genutzt, die dem US-CLOUD-Act (18 U.S.C. § 2713) unterliegen?
-- Hat der Wirtschaftsprüfer eigene Arbeitspapiere erstellt, die nicht vom Anwaltsgeheimnis erfasst sind?
-- Wurde der Betriebsrat informiert – und wenn ja: durch wen, wann, in welchem Umfang?
-- Gibt es Co-Counsel in den USA, die dem eigenen Privilege-Regime nicht unterliegen?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -92,3 +79,4 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 - Kommunikation über die Untersuchung in unverschlüsselten E-Mails oder Messaging-Diensten ist zu vermeiden; alle internen Kommunikationen sollten über sichere Kanäle erfolgen.
 - Wenn ein Journalist gezielt nach der Untersuchung fragt, deutet das oft darauf hin, dass ein Insider Informationen geleakt hat; interne Forensik (Zugriffsprotokoll des VDR) sollte sofort prüfen, wer wann Zugriff hatte.
 - Der Honeypot-Risikocheck wird mindestens einmal in der Woche durch den verantwortlichen Anwalt aktualisiert, sobald neue Dokumente produziert oder neue Personen informiert wurden.
+

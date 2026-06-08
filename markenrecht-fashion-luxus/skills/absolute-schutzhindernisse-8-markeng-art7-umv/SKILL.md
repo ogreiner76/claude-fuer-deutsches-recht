@@ -5,10 +5,6 @@ description: "Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen
 
 # Absolute Schutzhindernisse
 
-## Arbeitsbereich
-
-Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen: Unterscheidungskraft, beschreibende Angaben, Freihaltebedürfnis, Täuschung, Sittenverstoß, Hoheitszeichen, Form- und Funktionsausschlüsse, Verkehrsdurchsetzung und Beanstandungsantwort. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen: Unterscheidu
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Prüfe, ob ein Zeichen an § 8 MarkenG oder Art. 7 UMV scheitert und wie man den Anmeldegegenstand, das Waren- und Dienstleistungsverzeichnis oder die Argumentation retten kann.
 
 ## Pflichtfragen
 
@@ -42,13 +34,6 @@ Prüfe, ob ein Zeichen an § 8 MarkenG oder Art. 7 UMV scheitert und wie man den
 4. **Sonderhindernisse prüfen:** Täuschungsgefahr, öffentliche Ordnung, Hoheitszeichen, geschützte geografische Angaben, Sortenbezeichnungen, religiöse/politische Sensibilität.
 5. **Formmarken-Falle:** Wesentliche Form durch Art der Ware, technische Wirkung oder wesentlichen Wert der Ware prüfen; kein Schutzrechts-Hopping durch Marke.
 6. **Rettungsoptionen:** Waren-/Dienstleistungsverzeichnis verengen, Bildbestandteile stärken, Priorität ändern, Benutzungsdurchsetzung belegen, Design/UWG/GeschGehG als Alternative prüfen.
-
-## Output
-
-- Risikoampel pro Schutzhindernis.
-- Beanstandungsantwort oder interne Go/No-Go-Notiz.
-- Liste der Belege für Verkehrsdurchsetzung.
-- Vorschlag für alternative Zeichenfassung.
 
 ## Quellen-Hardening
 

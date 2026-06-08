@@ -5,10 +5,6 @@ description: "Einsatz, Unfall, Versorgung Dokumentenplan: prüft erforderliche U
 
 # Einsatz, Unfall, Versorgung — Dokumentenplan
 
-## Arbeitsbereich
-
-Einsatz, Unfall, Versorgung Dokumentenplan: prüft erforderliche Unterlagen für Einsatz-WDB-Anträge, Fristen und Beweissicherung. Norm-/Quellenanker: SVG §§ 27 und 63a ff., EinsatzWVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Der Dokumentenplan stellt sicher, dass alle relevanten Unterlagen systematisch e
 - § 17 SG — Personalakte und Befunde
 - BAPersBw — Antragsverfahren
 - SGB XIV — ab 2024
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -95,20 +85,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Muster: Dienstunfallmeldung
 - Zeitstrahl: Fristen nach Einsatz/Unfall
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/svg/ — SVG §§ 27, 63a ff.
-- https://www.gesetze-im-internet.de/einsatzwvg/ — EinsatzWVG
-- https://www.bundeswehr.de/de/organisation/personal/bundesamt-für-das-personalmanagement
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +94,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

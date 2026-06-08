@@ -5,9 +5,6 @@ description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Recht
 
 # Schadensersatz Designrecht
 
-## Arbeitsbereich
-
-**Schadensersatz Designrecht** ordnet den Fall über die tragenden Prüfungslinien: Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz, Schadensersatz-Abschlussprodukt und Übergabe. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Recht
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-rechtsschutz-fristen-form-und-zuständigkeit`
@@ -30,9 +28,6 @@ description: "Schadensersatz Designrecht im Plugin Fachanwalt Gewerblicher Recht
 **Fokus:** Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr.
 
 ### Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz
-
-## Aufgabe
-Dieser Skill liefert eine systematische Übersicht der Fristen, Formvorschriften und Zuständigkeiten in allen Teilbereichen des gewerblichen Rechtsschutzes.
 
 ## Verjährungsfristen
 
@@ -137,13 +132,6 @@ Dieser Skill liefert eine systematische Übersicht der Fristen, Formvorschriften
 - `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – EV-Fristen.
 - `spezial-bezuege-zahlen-schwellen-und-berechnung` – Kosten.
 
-## Quellenregel
-- ZPO, MarkenG, PatG, DesignG, UrhG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- EPÜ, UMV: [eur-lex.europa.eu](https://eur-lex.europa.eu), [epo.org](https://www.epo.org).
-- BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de); BGH: [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Fristberechnung ohne vollständige Sachverhaltskenntnis.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -153,9 +141,6 @@ Dieser Skill liefert eine systematische Übersicht der Fristen, Formvorschriften
 **Fokus:** Schadensersatz-Abschlussprodukt und Übergabe: Schadensberechnung abschließen, Vergleichsverhandlung, Zahlungsvereinbarung, Vollstreckung des Schadensersatzurteils, Abschluss-Memo und Übergabe an Mandanten.
 
 ### Schadensersatz: Abschlussprodukt und Übergabe
-
-## Aufgabe
-Dieser Skill behandelt den Abschluss eines Schadensersatzverfahrens im gewerblichen Rechtsschutz: Bezifferung, Vergleich, Zahlungsvereinbarung, Vollstreckung und Mandantenübergabe.
 
 ## Rechtsrahmen
 
@@ -279,12 +264,6 @@ III. Übergabe an Mandant
 - `spezial-bezuege-zahlen-schwellen-und-berechnung` – Gebühren und Streitwerte.
 - `vergleich-statt-streit-strategie` – Vergleichsstrategie.
 
-## Quellenregel
-- BGB, ZPO, MarkenG, PatG, UrhG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Schätzung des Lizenzsatzes ohne branchenspezifische Recherche.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -294,9 +273,6 @@ III. Übergabe an Mandant
 **Fokus:** Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinschaftsgeschmacksmuster EUIPO, eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster. Verletzungsfolgen, einstweilige Verfügung, Schadensersatz-Berechnung. Prüfraster für Modemarkenpraxis.
 
 ### Designrecht in der Praxis
-
-## Aufgabe
-Fachbaustein für `fachanwalt-gewerblicher-rechtsschutz`: Designrecht nach DesignG und GGV, Schutzvoraussetzungen Neuheit und Eigenart, Verletzung, Durchsetzung und Strategiewahl.
 
 ## Rechtsrahmen
 
@@ -386,15 +362,9 @@ Frage zu Beginn nur ab, was für den nächsten Schritt unverzichtbar ist:
 ## Anschlusslogik
 Nach der Anspruchs- und Schadensprüfung schließt die Akte regelmäßig an drei Arbeitsgänge an: eine Red-Team-Kontrolle der Designverletzung, den Behörden-/Registerweg bei DPMA oder EUIPO und die Fristen-/Dringlichkeitsampel für Abmahnung, eV oder Hauptsacheklage.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link zu [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de), [curia.europa.eu](https://curia.europa.eu).
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de), [eur-lex.europa.eu](https://eur-lex.europa.eu).
-- DPMA-Infos: [dpma.de](https://www.dpma.de); EUIPO: [euipo.europa.eu](https://euipo.europa.eu).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollständige Mandantenberatung.
 - Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
 - Keine Bewertung nicht belegter Tatsachen.
 - Bei Interessenkonflikten oder Berufsrechtsfragen: Hinweis an den fallführenden Anwalt.
+

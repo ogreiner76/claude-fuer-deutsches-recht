@@ -5,10 +5,6 @@ description: "Textform Paragraph 126b BGB Dauerhafter Datentraeger: ordnet Norme
 
 # Textform § 126b BGB — Dauerhafter Datenträger
 
-## Arbeitsbereich
-
-Textform Paragraph 126b BGB Dauerhafter Datentraeger: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -119,13 +115,3 @@ Begründung: [Vergleichswohnungen / Mietspiegel / Sachverständigengutachten]
 - **WhatsApp-Sicherung**: WhatsApp-Nachrichten können als dauerhafter Datenträger dienen — aber: nach Verlust des Geräts oder Löschen der App sind Nachrichten ggf. nicht mehr reproduzierbar. Für Beweissicherung Screenshot anfertigen und in Akte nehmen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Querverweise
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift` (Abgrenzung)
-- → `formerfordernisse-im-bgb-ueberblick`
-- → `dokumentations-und-beweisarchitektur` (Sicherung WhatsApp/E-Mail)
-
-<!-- AUDIT 27.05.2026 bundle_043
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
--->

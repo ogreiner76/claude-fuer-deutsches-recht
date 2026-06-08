@@ -9,10 +9,6 @@ description: "OWi-Hauptverhandlung im Sitzungsdienst: Teilnahme, Anträge, Bewei
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
 ## Einstieg
 
 1. Verfahrensart klären: Strafverfahren, reine OWi-Sache, Mischfall oder Übergang zwischen beiden.
@@ -50,7 +46,6 @@ Der Skill bereitet junge Staatsanwältinnen und Staatsanwälte auf den Gerichtst
 - Datenschutz- oder Unternehmensbußgelder ohne Spezialverweisung prüfen.
 - Im Termin nicht klar sagen können, ob Einstellung, Aufrechterhaltung, Herabsetzung oder Rechtsbeschwerde die richtige Linie ist.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -62,6 +57,4 @@ Konkret zu prüfen:
 - § 258 StPO (Schlussvorträge)
 - § 176 GVG (Sitzungspolizei)
 - Nr. 126-138 RiStBV
-## Quellenhygiene
 
-Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, RiStBV und bei Datenschutz Art. 83 DSGVO sowie § 41 BDSG. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle verwenden; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

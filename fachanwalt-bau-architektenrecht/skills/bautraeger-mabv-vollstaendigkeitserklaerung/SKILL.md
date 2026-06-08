@@ -5,9 +5,6 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 
 # Bautraeger Mabv Vollstaendigkeitserklaerung
 
-## Arbeitsbereich
-
-**Bautraeger Mabv Vollstaendigkeitserklaerung** ordnet den Fall über die tragenden Prüfungslinien: MaBV § 7 Vollstaendigkeitserklaerung als Alternative, Bautraeger-Maengelruegen und Formerfordernis, Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Bautraeger Mabv Vollstaendigkeitserklaerung im Plugin Fachanwalt B
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bautraeger-mabv-vollstaendigkeitserklaerung-7`
@@ -157,3 +155,4 @@ Bautraeger finanziert das Bauvorhaben oft ueber Bankenkredit. Die finanzierende 
 2. Rangruecktritt vereinbart?
 3. Bank hat Erklaerung abgegeben?
 4. Eintragung im Grundbuch nachgewiesen?
+

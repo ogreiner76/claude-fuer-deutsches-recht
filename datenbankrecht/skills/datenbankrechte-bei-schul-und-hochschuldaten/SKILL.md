@@ -5,10 +5,6 @@ description: "Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Le
 
 # Datenbankrechte bei Schul- und Hochschuldaten — Bildungseinrichtungen
 
-## Arbeitsbereich
-
-Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studierendendaten. Erstellt Lizenzkonzept und Compliance-Leitfaden für Bildungseinrichtungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdate
 - Minderjährigen-DSGVO-Anforderungen werden in EdTech-AGB häufig unzureichend berücksichtigt.
 - Open-Access-Pflichten für geförderte Forschungsdaten kollidieren manchmal mit Verlagslizenzen — Prüfung der Förderbedingungen nötig.
 
-## Output
-
-- Datenbankherstellerrecht-Gutachten für Bildungseinrichtung
-- Bildungsschranken-Check (§ 60a UrhG für Unterrichtsdatenbank-Nutzung)
-- LMS-Inhaberschafts-Matrix (Einrichtung / Lehrkraft / LMS-Betreiber)
-- DSGVO-Minderjährigen-Compliance-Checkliste für Schul-IT-Systeme
-- EdTech-Lizenzvertrag-Vorlage für Hochschuldatenbanknutzung
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdate
 - [§ 43 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/43.html)
 - [DSGVO Art. 8 — dejure.org](https://dejure.org/gesetze/DSGVO/8.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

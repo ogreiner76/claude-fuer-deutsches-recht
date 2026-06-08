@@ -5,10 +5,6 @@ description: "Governance-Strukturen und Anpassungsmechanismen für Versorgungsor
 
 # Governance und Anpassungsmechanismen — Pension Committee Charter und § 16 BetrAVG
 
-## Arbeitsbereich
-
-Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Prüfraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -43,6 +39,7 @@ Governance-Strukturen und Anpassungsmechanismen für Versorgungsordnung im Konze
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Vorgehen
 
 ### Schritt 1: Aufbau Pension Committee
@@ -237,3 +234,4 @@ c) Zustimmung zu wesentlichen Änderungen der Anlagestruktur
 - → `cta-contractual-trust-arrangement-strukturierung` — Treuhand und Trustee-Board
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — Anpassungsklauseln in VO
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Betriebsratsbeteiligung bei Anpassungsentscheidungen
+

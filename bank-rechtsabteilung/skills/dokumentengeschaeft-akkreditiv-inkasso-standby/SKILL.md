@@ -5,10 +5,6 @@ description: "Dokumentengeschäft der Bank prüfen: Akkreditiv, Dokumenteninkass
 
 # Dokumentengeschäft: Akkreditiv, Inkasso, Standby
 
-## Arbeitsbereich
-
-Dokumentengeschäft der Bank prüfen: Akkreditiv, Dokumenteninkasso, Standby Letter of Credit, UCP/URC/ISP-Bezug, Dokumentenstrenge, Fraud, Sanktionen, Warenfluss und Zahlungsentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Dokumentengeschäft der Bank prüfen: Akkreditiv, Dokumenteninkasso, Standby Let
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Begleite Bankgeschäfte, bei denen Dokumente Liquidität auslösen: Akkreditiv, Dokumenteninkasso, Standby Letter of Credit und verwandte Trade-Finance-Strukturen. Der Skill achtet auf die Trennung von Dokumentenprüfung und Warengeschäft.
 
 ## Abgrenzung
 
@@ -74,13 +66,10 @@ Liefere:
 - Operations-Anweisung.
 - Eskalation an Compliance/Risk.
 
-## Quellenhygiene
-
-UCP, URC, ISP und URDG sind Handelsregelwerke mit teils lizenzierter Veröffentlichung. Nicht aus Modellwissen zitieren. Wenn der Nutzer den Text nicht vorlegt, nur als zu prüfenden Regelwerksanker nennen und den konkreten Klauseltext anfordern.
-
 ## Anschluss-Skills
 
 - `trade-finance-sanctions-lc-guarantee`
 - `sanktionsscreening-embargo-bank`
 - `garantieabruf-missbrauch-und-zahlungsstopp`
 - `correspondent-banking-nostro-vostro`
+

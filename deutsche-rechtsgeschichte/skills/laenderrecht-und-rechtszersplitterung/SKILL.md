@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Länderrecht und Rechtszersplitterung. 
 
 # Länderrecht und Rechtszersplitterung
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Länderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Vor dem BGB 1900 war Deutschland privatrechtlich zersplittert: Ca. 30-40 verschi
 - HoefeO: gesetze-im-internet.de
 - ABGB: oesterreichisches Bundesrecht bis 1900 (Einfluss sueddeutsches Recht)
 
-## Output
-
-- Karte: Rechtsordnungen Deutschlands vor 1900
-- EGBGB-Uebergangsrecht: Was blieb als Landesrecht
-- Foederales Privatrecht heute: Bereiche und Beispiele
-
-## Quellenregel
-
-EGBGB 1900: RGBl. 1896, 604 via ALEX/OeNB. GG Art. 72 und 74: gesetze-im-internet.de. HoefeO: gesetze-im-internet.de. ABGB: oesterreichische Quellenausgaben.

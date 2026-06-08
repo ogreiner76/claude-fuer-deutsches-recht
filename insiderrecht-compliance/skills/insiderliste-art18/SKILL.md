@@ -5,10 +5,6 @@ description: "Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Forma
 
 # Insiderliste nach Art. 18 MAR
 
-## Arbeitsbereich
-
-Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,23 +79,3 @@ Alle Änderungen sind mit Zeitstempel zu versehen.
 - Format: DVO-konformes Tabellenformat (Excel oder IT-System)
 - Zugriff nur für Compliance und Vorstand, nicht für Handelsabteilungen
 
-## Red-Team-Fragen
-
-- Sind alle Wissensträger (intern und extern) erfasst?
-- Wurde jede Person schriftlich belehrt und hat die Belehrung bestätigt?
-- Sind Aufnahme- und Austrittsdaten mit Uhrzeit korrekt eingetragen?
-- Wurden Berater und Banken zur Führung eigener Listen verpflichtet?
-- Ist die Liste im DVO-konformen Format erstellt?
-- Liegt eine klare Trennung zwischen Projekt- und permanenter Insiderliste vor?
-- Ist die Aufbewahrungspflicht von 5 Jahren sichergestellt?
-- Kann die Liste im Anforderungsfall binnen 24 Stunden an die BaFin übermittelt werden?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Insiderlisten-Vorlage (DVO-konformes Format)
-2. Belehrungsschreiben (Vorlag für Einzel- oder Serienmitteilung)
-3. Aktualisierungs-Checkliste (Trigger und Zuständigkeiten)
-4. BaFin-Übermittlungsprotokoll
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

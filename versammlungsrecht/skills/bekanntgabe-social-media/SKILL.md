@@ -5,10 +5,6 @@ description: "Prüft, wann Flyer, Website, Messenger, Pressemitteilung oder Soci
 
 # Bekanntgabe ist der Fristanker
 
-## Arbeitsbereich
-
-Prüft, wann Flyer, Website, Messenger, Pressemitteilung oder Social-Media-Post die Bekanntgabe oder Einladung auslösen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,17 +23,11 @@ Erfasse jeden Kanal, auf dem Ort, Zeit und Thema an einen bestimmten oder unbest
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
 
-## Arbeitsweise
-Verhindere versehentliche Fristverletzung durch voreiligen Post. Baue erst Anzeige, Eingangsbestätigung und dann öffentliche Einladung, wenn kein Eilfall vorliegt.
-
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
 - Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
 - Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
 - Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Output
-Output: Kommunikationskalender mit Freigabezeitpunkten und sicherem Einladungstext.
 
 ## Qualitätsgate
 - Wurde das richtige Landesrecht verwendet?
@@ -51,3 +41,4 @@ Output: Kommunikationskalender mit Freigabezeitpunkten und sicherem Einladungste
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+

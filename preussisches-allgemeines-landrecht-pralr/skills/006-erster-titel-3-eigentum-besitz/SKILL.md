@@ -5,10 +5,6 @@ description: "PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung im Preußisches
 
 # PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung
 
-## Aufgabe
-
-Dieser Skill bearbeitet **Erster Teil Titel 3 Eigentum Besitz Nutzung** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
 ## Kaltstart in 6 Fragen
 
 1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
@@ -63,10 +59,3 @@ Eigentum, Besitz und Nutzung sind ueber mehrere Titel verteilt: Sachen (I 2), Ei
 3. Berechtigter und Verpflichteter durch Rechtsnachfolge bis heute belegbar?
 4. Live-Check der Eintragung und der landesrechtlichen Bereinigungsgesetze (z. B. Sachenrechtsbereinigungsgesetz Ostdeutschland 1994).
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

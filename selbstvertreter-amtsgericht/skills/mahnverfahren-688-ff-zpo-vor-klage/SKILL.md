@@ -106,14 +106,7 @@ Wenn Sie wissen, dass der Schuldner widersprechen wird (z. B. weil er die Forder
 - "Mahnbescheid kostet nichts." → Vorschuss muessen Sie zahlen.
 - "Ich nutze Mahnbescheid für Herausgabe-Ansprueche." → Nicht moeglich, nur Geldforderungen.
 
-## Querverweise
-
-- `aussergerichtliche-mahnung-286-bgb` — Mahnung vorab.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung hemmen.
-- `klageschrift-pflichtbestandteile-253-zpo` — Wenn Schuldner widerspricht, brauchen Sie Anspruchsbegruendung.
-- `urteil-rechtskraft-705-zpo` — Rechtskraft Vollstreckungsbescheid.
-- `zwangsvollstreckung-querverweis-substitutionsagent` — Vollstreckung mit Titel.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 688 ff. ZPO unveraendert. Online-Mahnantrag-Portal stabil. Vorschuss-Hoehen ueber GKG-Tabelle.
+

@@ -5,10 +5,6 @@ description: "Anwalt schreibt Mandantenmemo für ACC3-Carrier zu Designierungsve
 
 # ACC3 – Mandantenmemo schreiben
 
-## Arbeitsbereich
-
-Anwalt schreibt Mandantenmemo für ACC3-Carrier zu Designierungsverlust Sicherheitsauflage Insolvenznaehe oder Validierungsfehler. Skill strukturiert Memo mit Sachverhalt EU-Sicherheitsrecht Handlungsoptionen und Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,6 +41,7 @@ EU-DVO 2015/1998 EU-VO 300/2008 LuftVG LuftSiG § 9 InsO – die einschlägigen 
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
 - **LuftSiG § 3c**: Nationale Umsetzung der EU-Sicherheitsarchitektur; Zuständigkeit LBA.
 - **ICAO Annex 17 Std. 4.6**: Frachtsicherheitskette; Verantwortung des Luftfrachtführers.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -55,6 +52,7 @@ EU-DVO 2015/1998 EU-VO 300/2008 LuftVG LuftSiG § 9 InsO – die einschlägigen 
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist der EU-Validator zugelassen und sein Bericht nicht älter als 3 Jahre?
 8. Sind alle Sub-Auftragnehmer in der Lieferkette als RA oder KC anerkannt?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -74,9 +72,6 @@ Ein mandantentaugliches Luftrechtsmemo hat folgende Struktur:
 - **Zeitplan**: Wichtigste Fristen; geplante Schritte; nächste Entscheidungspunkte.
 - **Anlagen**: Relevante Normauszüge; Registerauszüge; Behördenschreiben.
 
-## Output
-
-Strukturierter Vermerk zu ACC3 – Mandantenmemo schreiben mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. ACC3-Compliance-Matrix. Validierungskalender mit Ablaufdaten.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -135,3 +130,4 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 - Fluggastrechte VO 261/2004 nach EuGH C-402/07 Sturgeon: 3-Stunden-Schwelle = Ausgleichsanspruch.
 - Planfeststellung § 8 LuftVG nach BVerwG 4 A 5.08 mit FFH-Vertraeglichkeit und Laermschutz.
 - Ausnahmegruende VO 261/2004 Art. 5 Abs. 3 eng auslegen; EuGH C-432/20 zu wilden Streiks.
+

@@ -5,10 +5,6 @@ description: "Entfernt Polemik und Rechtswertungen aus Anzeigen; schreibt nücht
 
 # Sachverhalt ohne Adjektive
 
-## Arbeitsbereich
-
-Entfernt Polemik und Rechtswertungen aus Anzeigen; schreibt nüchtern, präzise und beweisnah. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Entfernt Polemik und Rechtswertungen aus Anzeigen; schreibt nüchtern, präzise 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Entwürfe, die zu emotional klingen.
-
 ## Norm- und Quellenanker
 
 StPO § 158; StGB § 164.
-
-## Arbeitsfragen
-
-1. Welche Wörter sind Wertung?
-2. Welche Tatsache ersetzt die Wertung?
-3. Welche Belege?
-
 
 ## Normen & Rechtsprechung
 
@@ -40,9 +25,6 @@ Konkret zu prüfen:
 - § 152 Abs. 2 StPO (Anfangsverdacht)
 - § 160 StPO (Erforschungspflicht)
 - § 170 StPO (Anklage oder Einstellung)
-## Output
-
-bereinigter Sachverhalt.
 
 ## Red Flags
 
@@ -54,6 +36,3 @@ bereinigter Sachverhalt.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

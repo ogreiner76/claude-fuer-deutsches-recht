@@ -5,10 +5,6 @@ description: "Corporate-Cowork-Design: Definiert die visuelle Oberflaeche für P
 
 # Corporate-Cowork-Look — Design und Ausgabestandard
 
-## Arbeitsbereich
-
-Corporate-Cowork-Design: Definiert die visuelle Oberflaeche für Partner, Counsel und Associates. Ruhig, edel, blaeulich-silbern; Orange für Entscheidungspunkte. Statuskarten, Ampeln und dichte Deal-Information statt Marketing. Keine Spielerei, keine Dekoration. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -242,3 +238,4 @@ Nächste Review: [Datum]
 - Keine spezifischen Rechtsnormen; Design-Standard ist prozessual, nicht materiell-rechtlich.
 - Referenz: Corporate-Cowork-Designsystem (`assets/templates/cowork-ma-designsystem.md`)
 - Vorlagen: `assets/templates/cowork-ma-dashboard.md`, `assets/templates/workflow-statuskarte.md`
+

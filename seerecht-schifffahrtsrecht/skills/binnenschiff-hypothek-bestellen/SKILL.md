@@ -43,9 +43,6 @@ Eine Bank bestellt eine Hypothek auf ein Binnenmotorgueterschiff; Tanker oder Fa
 - Rang entsteht mit Antragstellung; fruehzeitig beim Binnenschiffsregister (AG Duisburg-Ruhrort)-Gericht stellen.
 - Briefhypothek verliert Vollstreckungswert bei Verlust des Hypothekenbriefs.
 
-## Output
-Checkliste Hypothekenbestellung und Unterlagen-Übersicht für Binnenmotorgueterschiff; Tanker oder Fahrgastschiff.
-
 ## Vertiefung: Hypothekenarten im deutschen Schiffsrecht
 Das SchRG kennt die Verkehrshypothek (§§ 8-30) und die Höchstbetragshypothek (§ 75). Die Verkehrshypothek ist an eine bestimmte Forderung gebunden; die Höchstbetragshypothek sichert variable Forderungen bis zu einem eingetragenen Maximalbetrag und eignet sich für revolvierende Kreditlinien. In der Praxis der Schiffsfinanzierung dominiert die Hypothekenbestellung als erstrangige Höchstbetragshypothek zugunsten der Konsortialführerbank.
 

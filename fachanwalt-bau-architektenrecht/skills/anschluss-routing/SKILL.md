@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Fachanwalt Bau- und Architektenrecht: wähl
 
 Dieses Anschluss-Routing für **Fachanwalt Bau Architektenrecht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13` — Abnahme Fiktion Paragraf 640 BGB BGH VII ZR 301 13
@@ -35,10 +34,6 @@ Dieses Anschluss-Routing für **Fachanwalt Bau Architektenrecht** wählt nach de
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Fachanwalt Bau- und Architektenrecht.
 
 ## Qualitätsanker
 

@@ -5,9 +5,6 @@ description: "Joint Controller Controllership KI Verordnung im Datenschutzrecht:
 
 # Joint Controller Controllership KI Verordnung
 
-## Arbeitsbereich
-
-**Joint Controller Controllership KI Verordnung** ordnet den Fall über die tragenden Prüfungslinien: Joint-Controller-Vereinbarung nach Art, English language joint controller agreement template under, KI-Systeme auf Anforderungen der KI-VO und Datenschutz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Joint Controller Controllership KI Verordnung im Datenschutzrecht:
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `joint-controller-vereinbarung`
@@ -32,10 +30,6 @@ description: "Joint Controller Controllership KI Verordnung im Datenschutzrecht:
 **Fokus:** Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Prüfraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle Betroffenenrechte interne Haftungsverteilung. Output: Vereinbarungsentwurf Prüfprotokoll. Abgrenzung: nicht für Auftragsverarbeitung (avv-prüfung).
 
 ### Gemeinsame Verantwortlichkeit Art. 26 DSGVO
-
-## Zweck
-
-Bei vielen Konstellationen sind mehrere Akteure gemeinsam für eine Verarbeitung verantwortlich — das wird oft übersehen. Folge ist eine Pflicht-Vereinbarung und gesamtschuldnerische Haftung. Dieses Skill prüft Konstellationen und entwirft Vereinbarungen.
 
 ## Eingaben
 
@@ -609,13 +603,6 @@ Date: Date:
 - Internal recourse cap exceeds GDPR statutory liability or excludes wilful misconduct.
 - Web tracking scenarios where the initial collection (Fashion ID) is forgotten.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-26-joint-controllership-deutsch/SKILL.md`
-- `datenschutzrecht/skills/avv-rolemix-getrennt-vs-gemeinsam-verantwortlich/SKILL.md`
-- `datenschutzrecht/skills/dpa-en-template-controller-processor/SKILL.md`
-- `datenschutzrecht/skills/avv-haftung-risikoallokation-art-82-dsgvo/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - GDPR Articles 13, 14, 26, 32, 33, 34, 35, 36, 82.
@@ -627,23 +614,11 @@ Date: Date:
 - Citation rules: `../../../references/zitierweise.md`.
 ```
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `ki-verordnung-compliance`
 
 **Fokus:** KI-Systeme auf Anforderungen der KI-VO und Datenschutz prüfen. KI-VO Risikoklassen Art. 5 9 DSGVO Einwilligung. Prüfraster: Risikoklasse Verbote Hochrisiko-KI Dokumentationspflichten DSGVO-Schnittmengen Transparenzpflichten. Output: KI-Compliance-Prüfmemo Massnahmenliste. Abgrenzung: nicht für allgemeine KI-Governance ohne Datenschutzbezug.
 
 ### KI-Verordnung — Compliance-Prüfung
-
-## Zweck
-
-Die EU-KI-Verordnung (VO EU 2024/1689, "AI Act") ist seit 1.8.2024 in Kraft, gestaffelt anwendbar. Dieses Skill prüft Anwendbarkeit, Risiko-Klasse und Pflichten für deutsche Unternehmen.
 
 ## Eingaben
 
@@ -998,6 +973,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Schritt 1 – Berufsrechtliche Zulässigkeitsprüfung (§ 203 StGB)**
@@ -1149,6 +1125,3 @@ DSGVO Art. 33, 34, 82; BSI-/NIS2-Schnittstellen live prüfen
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

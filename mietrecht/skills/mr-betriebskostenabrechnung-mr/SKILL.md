@@ -25,10 +25,6 @@ Fehlerhafte Betriebskostenabrechnung als Streitfall: formelle Mindestangaben, ma
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Dieser Skill ist der Streitfall-Skill: Er hilft, wenn die Abrechnung schon auf dem Tisch liegt, der Mieter nicht zahlen will, der Vermieter eine Nachforderung durchsetzen möchte oder bereits Mahnung, Klage oder Rückzahlung im Raum stehen.
-
 ## Einstieg
 
 1. Welche Seite: Mieter, Vermieter, Verwaltung, Anwalt?
@@ -69,14 +65,3 @@ Dieser Skill ist der Streitfall-Skill: Er hilft, wenn die Abrechnung schon auf d
 5. Welche Zahlung ist sofort sinnvoll, welche nur unter Vorbehalt, welche gar nicht?
 6. Bei Rückzahlungsklage: Zahlung, Vorbehalt, Fehler und Anspruchshöhe sauber darlegen.
 
-## Output
-
-- Fehler- und Betragsmatrix.
-- Einwendungsschreiben mit Belegeinsicht.
-- Vermieter-Korrektur-/Fälligstellungsschreiben.
-- Rückzahlungs- oder Klageerwiderungsbaustein.
-- Vergleichsvorschlag mit sauberer Bezifferung.
-
-## Quellenregel
-
-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

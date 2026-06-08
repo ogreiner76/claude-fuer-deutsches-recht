@@ -34,13 +34,6 @@ Vertragsvorlage und Altvertrag erkennen und analysieren: Anwendungsfall Anwalt o
 - § 305 BGB — AGB-Einbeziehung
 - § 305c Abs. 2 BGB — Unklarheitenregel (gegen Verwender)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Der Skill klassifiziert den Vertrag und trennt Fixtext von Variablen. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.
-
 ## Startet bei
 
 - hochgeladener Word-Vorlage oder altem Vertrag
@@ -69,3 +62,4 @@ Der Skill klassifiziert den Vertrag und trennt Fixtext von Variablen. Er arbeite
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+

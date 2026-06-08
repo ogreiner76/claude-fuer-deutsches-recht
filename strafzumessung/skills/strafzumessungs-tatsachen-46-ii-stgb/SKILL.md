@@ -5,10 +5,6 @@ description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruen
 
 # Strafzumessungstatsachen — § 46 Abs. 2 StGB
 
-## Arbeitsbereich
-
-Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,13 +111,6 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 - Verschulden des Verteidigers / Anwalts dem Mandanten zugerechnet.
 - Doppelverwertung von Tatbestandsmerkmalen (§ 46 Abs. 3 StGB).
 
-## Querverweise
-
-- `paragraph-46-stgb-grundsatz-strafzumessung` — Grundsatznorm.
-- `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` — Spezialnorm.
-- `gestaendnis-und-strafmilderung` — Detail Nachtatverhalten.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Umsetzung im Urteil.
-
 ## Quellen und Stand 05/2026
 
 - § 46 Abs. 2 StGB in der seit 01.08.2015 geltenden Fassung.
@@ -129,3 +118,4 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 - §§ 46 ff. BZRG zur Verwertung von Vorstrafen.
 - Art. 6 Abs. 1 EMRK; Vollstreckungsmodell zur Verfahrensdauer (Az verifizieren in juris/dejure.org).
 - Quellenregel: vgl. `references/zitierweise.md`.
+

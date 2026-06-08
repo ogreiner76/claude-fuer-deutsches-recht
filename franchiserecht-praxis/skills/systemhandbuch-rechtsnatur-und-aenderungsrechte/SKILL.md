@@ -5,10 +5,6 @@ description: "Rechtsnatur des Systemhandbuchs im Franchiserecht klären: AGB-Ein
 
 # Franchiserecht: Systemhandbuch – Rechtsnatur und Änderungsrechte
 
-## Arbeitsbereich
-
-Rechtsnatur des Systemhandbuchs im Franchiserecht klären: AGB-Einbeziehung, einseitige Änderungsrechte des Franchisegebers, Grenzen nach §§ 307 ff. BGB und Systemtreuepflicht nach § 242 BGB. Know-how-Schutz nach GeschGehG einbeziehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber möchte sein Systemhandbuch aktualisieren und fragt, ob und w
 - Know-how-Schutz des Systemhandbuchs erlischt, wenn keine angemessenen Geheimhaltungsmassnahmen (§ 2 Nr. 1 lit. b GeschGehG) bestehen.
 - Änderungen, die den Franchisenehmer de facto aus dem Markt drängen, können Schadensersatzpflicht auslösen.
 
-## Output
-
-- Rechtsgutachten zur Änderungsklausel
-- Checkliste: Voraussetzungen wirksamer Systemhandbuchanpassung
-- Muster-Ankündigungsschreiben mit Umsetzungsfrist
-- Know-how-Schutzkonzept für das Systemhandbuch
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/308.html
@@ -71,6 +60,7 @@ Ein Franchisegeber möchte sein Systemhandbuch aktualisieren und fragt, ob und w
 - https://gesetze-im-internet.de/geschgehg/
 - https://dejure.org/gesetze/BGB/535.html
 - https://www.bgh.de/
+
 ## Vertiefung
 
 Das Systemhandbuch ist das operative Herzstück eines Franchisesystems. Es enthält die Konkretisierung der vertraglichen Hauptleistungspflichten und ist typischerweise als AGB-Anlage ausgestaltet. Entscheidend für die AGB-Einbeziehung ist, dass der Franchisegeber den Franchisenehmer bei Vertragsschluss klar auf das Handbuch hinweist und ihm die Möglichkeit gibt, es zur Kenntnis zu nehmen (§ 305 Abs. 2 BGB).
@@ -84,7 +74,10 @@ Systemhandbuchklauseln, die dem Franchisegeber das Recht geben, Inhalte ohne sac
 - Franchisenehmer haben Recht auf Einsicht in das aktuelle Systemhandbuch; Verweigerung kann Leistungsstörung sein.
 - Änderungsankündigung mit angemessener Frist (mindestens 3 Monate bei kostspieligen Anpassungen) dokumentieren.
 - Änderungsklauseln mit Verhältnismässigkeitsvorbehalt und Zumutbarkeitsgrenze formulieren.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

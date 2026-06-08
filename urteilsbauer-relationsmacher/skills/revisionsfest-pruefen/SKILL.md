@@ -5,12 +5,6 @@ description: "Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründ
 
 # Revisionsfestigkeit prüfen
 
-## Zweck
-
-Bei LG- und OLG-Endurteilen, gegen die Revision möglich ist (Paragraf 542 ZPO), muss das Urteil so geschrieben sein, dass es einer Prüfung durch den BGH standhaelt. "Revisionsfest" ist das Urteil, wenn es weder einen absoluten Revisionsgrund (Paragraf 547 ZPO) noch eine Verletzung von materiellem oder Verfahrensrecht im Sinne der Paragrafen 545, 546 ZPO erkennen laesst, das die Aufhebung tragen koennte.
-
-Dieser Skill liefert die Selbstprüfung **vor** Verkündung — nicht erst, wenn die Revisionsbegründung schon vorliegt.
-
 ## 1) Absolute Revisionsgründe Paragraf 547 ZPO
 
 Der Klassiker — bei diesen Gründen ist die Aufhebung zwingend, ohne dass es auf Kausalitaet ankommt:
@@ -177,3 +171,4 @@ Wenn die Revision nicht zugelassen ist, ist nach Paragraf 544 ZPO Nichtzulassung
 
 - Wenn revisionsfest: `dokumente-rendern-urteil-docx` zum finalen DOCX-/PDF-Export
 - Wenn nicht: zurueck zum mangelhaften Skill (`tatbestand-zivil-schreiben`, `entscheidungsgruende-zivil-schreiben`, `beweiswuerdigung-mit-richter-input` oder `anspruchsgrundlagen-pruefen`, je nach Mangel)
+

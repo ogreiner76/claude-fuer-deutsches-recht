@@ -5,10 +5,6 @@ description: "Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial 
 
 # Start-up Equipment-Leasing: Covenants und Risikoabsicherung
 
-## Arbeitsbereich
-
-Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial Covenants, persönliche Bürgschaft, Anlaufrisikoklauseln und typische Verhandlungspunkte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Start-up Equipment-Leasing: Kreditwürdigkeitsprüfung, Financial Covenants, per
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Start-ups haben oft keinen Track Record und schwache Bonität. Leasinggeber setzen deshalb auf zusätzliche Sicherheiten: Financial Covenants, persönliche Bürgschaft der Gründer, Anzahlungen und spezielle Risikoklauseln. Dieser Skill analysiert typische Anforderungen und Verhandlungspositionen.
 
 ## Bonitätsprüfung bei Start-ups
 
@@ -122,3 +114,4 @@ Bei Verletzung: Kündigungsrecht des LG oder Sonderkündigungsrecht.
 - **Bürgschafts-Vorlage**: Selbstschuldnerische Bürgschaft mit Höchstbetrag
 - **Reporting-Pflichten-Anlage**: Quartalsbericht-Format
 - **Verhandlungsmatrix**: LG-Anforderungen vs. Start-up-Gegenvorschläge
+

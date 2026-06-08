@@ -5,10 +5,6 @@ description: "Scheinselbstständigkeit von Franchisenehmern prüfen: Abgrenzung 
 
 # Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise
 
-## Arbeitsbereich
-
-Scheinselbstständigkeit von Franchisenehmern prüfen: Abgrenzung selbstständiger Unternehmer vs. Arbeitnehmer oder arbeitnehmerähnliche Person nach § 84 HGB. Sozialversicherungsrecht, Statusfeststellungsverfahren DRV und arbeitsrechtliche Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisenehmer oder die Deutsche Rentenversicherung stellt die selbstständ
 - Arbeitnehmerähnlichkeit löst Schutzrechte aus (Urlaubsanspruch, Entgeltfortzahlung), ohne dass ein formeller Arbeitsvertrag geschlossen wurde.
 - Franchisenehmer mit nur einem Franchisegeber als einzigem Auftraggeber ist regelmässig als wirtschaftlich abhängig einzustufen.
 
-## Output
-
-- Selbstständigkeits-Risikoanalyse (Ampelbewertung)
-- Empfehlungen für vertragsgestaltungsseitige Risikominimierung
-- Muster-Antrag auf Statusfeststellung (§ 7a SGB IV)
-- Verteidigungsstrategie bei laufendem Betriebsprüfungsverfahren
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/611a.html
@@ -71,6 +60,7 @@ Ein Franchisenehmer oder die Deutsche Rentenversicherung stellt die selbstständ
 - https://gesetze-im-internet.de/sgb_4/__7a.html
 - https://gesetze-im-internet.de/stgb/__266a.html
 - https://openjur.de/
+
 ## Vertiefung
 
 Das Bundessozialgericht (BSG) hat in mehreren Entscheidungen klargestellt, dass die Scheinselbstständigkeit nach § 7 SGB IV nicht allein durch vertragliche Gestaltung ausgeschlossen werden kann. Massgeblich ist die tatsächlich gelebte Realität der Zusammenarbeit. Franchisesysteme mit stark standardisierten Abläufen, vorgegebenen Öffnungszeiten und ohne echte unternehmerische Entscheidungsfreiheit des Franchisenehmers sind besonders gefährdet.
@@ -84,9 +74,11 @@ Das Statusfeststellungsverfahren nach § 7a SGB IV gibt die Möglichkeit, proakt
 - Statusfeststellungsverfahren frühzeitig stellen, nicht erst nach Betriebsprüfung.
 - § 266a StGB beachten: Vorenthalten von Arbeitsentgelt bei nachträglicher Beschäftigungsfeststellung ist strafbar.
 - Sozialversicherungsnachzahlungen können 4 Jahre rückwirkend erhoben werden; bei Vorsatz ohne zeitliche Grenze.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
 
 ## Normen und Rechtsprechung

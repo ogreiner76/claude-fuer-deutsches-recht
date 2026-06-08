@@ -5,10 +5,6 @@ description: "Fusion von Krankenkassen nach §§ 171a ff. SGB V: Rechtsfolgen f�
 
 # Krankenkassenfusion und Bestandsschutz
 
-## Arbeitsbereich
-
-Fusion von Krankenkassen nach §§ 171a ff. SGB V: Rechtsfolgen für Versicherte, Bestandsschutz für Tarife und Wahlarife, Schließung und Insolvenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Wenn Krankenkassen fusionieren oder geschlossen werden, entstehen Fragen zu Vers
 - [§ 53 SGB V – Wahltarife](https://www.gesetze-im-internet.de/sgb_5/__53.html)
 - [Bundesamt Soziale Sicherung (BAS)](https://www.bundesamtsozialesicherung.de)
 - [dejure.org § 171a SGB V](https://dejure.org/gesetze/SGB_V/171a.html)
+

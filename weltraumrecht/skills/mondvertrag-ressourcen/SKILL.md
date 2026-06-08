@@ -5,10 +5,6 @@ description: "Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheite
 
 # Weltraumrecht: Mondvertrag: Ressourcen-Governance und politische Akzeptanz
 
-## Arbeitsbereich
-
-Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahrtnationen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -112,3 +108,4 @@ Dieser Skill bearbeitet **Mondvertrag: Ressourcen-Governance und politische Akze
 - US SPACE Act 2015: https://www.congress.gov/bill/114th-congress/house-bill/2262
 - Luxemburger Space Resources Law: https://gouvernement.lu/en/actualites/toutes_actualites/communiques/2017/07-juillet/14-loi-espace.html
 - UNOOSA Ratifikationsstatus: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/status/index.html
+

@@ -41,9 +41,6 @@ Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwalt
 - BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG): Akteneinsicht insbesondere in Mengenermittlung und Auswertung; sanktionsfreie Eigenkonsummenge für Tatverdachtspruefung herauszupraeparieren. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zu § 147 StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 147 StPO Strafbefehl" durchführen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Vollmacht sichern** — ohne Vollmacht kein Anspruch.
@@ -89,3 +86,4 @@ Mit kollegialen Gruessen
 - Rohmessdaten bei Geschwindigkeitsmessungen grundsaetzlich mitverlangen.
 - Bei Versagung sofort Rechtsbehelf nach § 147 Abs. 5 StPO — Einspruchsfrist laeuft unabhaengig davon.
 - Anwaltliche Endkontrolle bei jedem Schritt.
+

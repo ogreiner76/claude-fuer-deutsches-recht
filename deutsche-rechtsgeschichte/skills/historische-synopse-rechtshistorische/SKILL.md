@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodis
 
 # Historische Synopse erstellen
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,12 +46,3 @@ Eine historische Synopse stellt Normtexte verschiedener Epochen oder Rechtsordnu
 - WRV: documentArchiv.de; GG: gesetze-im-internet.de
 - Textvergleich: tabellarisch mit Kommentarspalte
 
-## Output
-
-- Synopse-Vorlage (Tabellenformat: Epoche A / Epoche B / Kommentar)
-- Beispielsynopse: BGB § 433 1900 vs. BGB § 433 2002 (Mangelfreiheit)
-- Methodennotiz: Wann Synopse, wann Quellenkritik
-
-## Quellenregel
-
-BGB: gesetze-im-internet.de (historische Fassungen). DDR-ZGB: ALEX/OeNB. WRV und GG: documentArchiv.de und gesetze-im-internet.de. Quellenangabe für jede Textfassung zwingend.

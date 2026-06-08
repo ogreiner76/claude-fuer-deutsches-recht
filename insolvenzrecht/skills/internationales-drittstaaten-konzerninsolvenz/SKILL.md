@@ -5,10 +5,6 @@ description: "Drittstaatliche Insolvenzverfahren in Deutschland prüfen: keine C
 
 # Internationales Insolvenzrecht Drittstaaten — Inzidentprüfung
 
-## Arbeitsbereich
-
-Drittstaatliche Insolvenzverfahren in Deutschland prüfen: keine Chapter-15-Logik, sondern Anerkennung nach §§ 335 ff., 343 InsO und praktische Inzidentprüfung durch Notar, Grundbuchamt, Registergericht, Bank oder Vertragspartner. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,12 +20,6 @@ Drittstaatliche Insolvenzverfahren in Deutschland prüfen: keine Chapter-15-Logi
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-
-Dieser Skill führt durch Fälle, in denen eine Person aus einem ausländischen Insolvenz-, Bankruptcy- oder Restructuring-Verfahren in Deutschland handeln will: US debtor in possession, US trustee, kanadischer trustee/monitor/receiver, englischer office holder, schweizer Konkursverwaltung oder eine sonstige ausländische Verfahrensperson.
-
-Der Kernpunkt: Deutschland hat für Drittstaaten kein eigenständiges Anerkennungsverfahren nach Art eines US-amerikanischen Chapter 15 als zwingenden Vorschaltakt. Die Eröffnung eines ausländischen Insolvenzverfahrens wird nach § 343 InsO grundsätzlich anerkannt, wenn die dortigen Gerichte nach deutschen Maßstäben zuständig waren und kein ordre-public-Verstoß vorliegt. Ob diese Voraussetzungen und die konkrete Vertretungs- oder Verfügungsbefugnis im Einzelfall tragen, wird in der deutschen Praxis häufig inzident geprüft: durch Notar, Grundbuchamt, Handelsregister, Bank, Prozessgericht oder Vertragspartner.
 
 ## Sofort klären
 
@@ -86,16 +76,7 @@ Mindestpaket für Drittstaatenfälle:
 - **„Anerkennung ersetzt die deutsche Form.“** Nein. GmbH-Anteile, Grundstücke, Registeranmeldungen, Abtretungen und Prozessvollmachten folgen weiterhin den deutschen Form- und Registeranforderungen.
 - **„Grundbuchamt prüft nur formal.“** Im Grundbuchverfahren sind die Eintragungsvoraussetzungen in grundbuchtauglicher Form nachzuweisen; § 29 GBO ist ein eigener Engpass.
 
-## Output
-
-Erstelle stets:
-
-- **Kurzlage:** EU/Drittstaat, Verfahrensperson, Asset, Handlung, deutsche Prüfstelle.
-- **Anerkennungsmatrix:** § 335/§ 343 InsO, Zuständigkeit, ordre public, konkrete Befugnis.
-- **Dokumentenliste:** genau nach Notar/Register/Grundbuch/Bank getrennt.
-- **Risikoampel:** grün/gelb/rot für Rechtsmacht, Form, Nachweis, Timing und Anfechtung/Gläubigerschutz.
-- **Anschluss:** `auslaendischer-insolvenzverwalter-register-und-grundbuch`, `spezial-insolvenzrecht-behoerden-gericht-und-registerweg`, `konzerninsolvenz-koordination`, `uebertragende-sanierung-und-asset-deals`.
-
 ## Quellenregel
 
 Tragende Normen live prüfen: InsO §§ 335 ff., 343 ff., § 347, GBO § 29, GmbHG §§ 15, 40, BGB §§ 873, 925, 311b. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+

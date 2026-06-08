@@ -5,9 +5,6 @@ description: "Diszipliniert zivilrechtliche Argumentation durch Quellenklarheit,
 
 # Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung
 
-## Zweck
-Dieser Skill verhindert, dass im Zivilrecht ein guter Gedanke als geltendes Recht ausgegeben wird. Er zwingt jede These in eine Normstufen- und Kompetenzprüfung.
-
 ## Prüfschritte
 1. Welche Rechtsquelle trägt die Aussage: BGB, Nebengesetz, EU-Verordnung, Richtlinie, Grundrecht, Satzung, Vertrag, AGB, Präjudiz?
 2. Welche Rangregel gilt bei Konflikt: Verfassung, Unionsrecht, Spezialgesetz, dispositives Recht, Parteivereinbarung?
@@ -32,12 +29,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-Normstufenkarte und knapper Gutachtenabschnitt, der Wertung und Geltung sauber trennt.
-
 ## Powersprint-Vertiefung
 
 - **Argumentationsdisziplin:** Bei `Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung` positive Normbindung, Präjudizien, Prinzipien, institutionelle Kompetenz und rechtspolitische Wertung getrennt halten.
 - **Methodischer Streit:** Gesetzespositivistische, prinzipienorientierte, systematische, historische und realistische Lesarten als Alternativen sichtbar machen; keine Methode als Zauberformel ausgeben.
 - **Fehlerbremse:** Keine bloße Berufung auf „objektive Auslegung“, „Ausnahme eng“ oder „Natur der Sache“, ohne zu zeigen, wer dadurch Kompetenz gewinnt und welche Normbindung bleibt.
 - **Output:** Thesenpapier, Schriftsatzargument, Gegenargument-Matrix und Grenze richterlicher Rechtsfortbildung.
+

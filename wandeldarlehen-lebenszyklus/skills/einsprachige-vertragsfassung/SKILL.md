@@ -5,10 +5,6 @@ description: "Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten f�
 
 # Einsprachige Vertragsfassung (nur DE)
 
-## Arbeitsbereich
-
-Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten für rein nationale Transaktionen. §§ 488 ff. BGB Darlehen §§ 55 56 GmbHG Kapitalerhohung. Prüfraster: SAFE-Konditionen BGB-Konformität Schriftformerfordernisse Investoren-Sonderrechte. Output: vollständiger Vertragsentwurf auf Deutsch. Abgrenzung: nicht für bilinguale Fassung (bilinguale-vertragserstellung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten für rein nation
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erzeugt aus der bilingualen Fassung eine rein deutsche Vertragsfassung in einspaltigem, lesefreundlichem Word-Dokument. Der materielle Inhalt ist identisch – keine inhaltlichen Unterschiede. Phase A des Lebenszyklus.
 
 ## Eingaben
 
@@ -37,30 +29,6 @@ Dieser Skill erzeugt aus der bilingualen Fassung eine rein deutsche Vertragsfass
 
 ### Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Vorgehen
-
-### 1. Extraktion der deutschen Textspalte
-Aus der bilingualen Tabelle wird exakt der deutsche Text extrahiert. Keine Umformulierungen, keine Kürzungen, keine Ergänzungen.
-
-### 2. Formatierung mit Heading-Stilen
-- Heading 1: Vertragsüberschrift (z. B. "Wandeldarlehensvertrag")
-- Heading 2: Paragrafenüberschriften (§ 0 Präambel, § 1 Darlehensgewährung, …)
-- Heading 3: Unterabschnitte
-- Normal: Vertragstext
-- Tabellen: nur für Bankverbindung und Berechnungsformeln
-
-### 3. Signaturblock
-Vier separate Signaturblöcke mit Platz für Ort, Datum und Unterschrift. DocuSign-Hinweis beibehalten.
-
-### 4. Abschließende Qualitätsprüfung
-Prüfen: Alle Paragrafenverweise korrekt? Keine Querverweise auf englische Begriffe? Alle Zahlen konsistent mit bilingualer Fassung?
-
-### 5. Dokument speichern und benennen
-Dateiname nach Konvention: `Wandeldarlehen-[Gesellschaft]-[Darlehensgeber]-nur-deutsch.docx`.
-
-### 6. Vergleich mit bilingualer Fassung
-Automatischer Abgleich: Jede inhaltlich tragende Aussage der DE-Spalte muss in der einsprachigen Fassung vorhanden sein (1:1-Übertragung). Abweichungen sind Fehler.
 
 ## Beispiel-Dokumentstruktur
 
@@ -93,12 +61,6 @@ zwischen
 | Signaturblock unvollständig | Unterzeichnung verhindert | Ein Block fehlend | Alle vier Blöcke vollständig |
 | Schriftgröße und Layout unleserlich | Professioneller Eindruck fehlt | Geringfügige Formatmängel | Lesefreundliches Layout |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/bilinguale-vertragserstellung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/unterzeichnung-elektronisch-docusign/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/textform-vs-schriftform-vs-notariell/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung BGB-Formvorschriften aktualisieren.
@@ -114,3 +76,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 §§ 133, 157 BGB (Auslegung) → § 305c Abs. 2 BGB (Unklarheitenregelung AGB) → § 184 GVG (Amtssprache) → §§ 55 Abs. 2, 56 GmbHG (Beurkundung, Sacheinlage)
+

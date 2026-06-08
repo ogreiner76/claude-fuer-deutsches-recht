@@ -5,18 +5,6 @@ description: "'Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsm
 
 # NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse
 
-## Zweck
-
-Dieser Skill bearbeitet ein **gegnerisches NDA** so, dass
-
-1. **die optische und strukturelle Identität des Dokuments erhalten bleibt** (Format, Nummerierung, Reihenfolge, Klauselbezeichnungen, Schriftbild) — damit die Gegenseite ihr eigenes Papier wiedererkennt; und
-2. **unsere Mindeststandards aus Vorlage und Checkliste materiell vollständig integriert sind** — durch punktuelle Wort- und Satzergänzungen im Änderungsmodus, **nicht** durch Neufassung.
-
-Parallel zum Redline-Dokument erzeugt der Skill eine strukturierte
-Klausel-für-Klausel-Analyse mit Risikoampel und priorisierter
-Änderungsliste, die als Verhandlungsgrundlage für die Mandantin oder den
-Mandanten dient.
-
 ## Eingaben
 
 - **NDA der Gegenseite** (Prüfling, .docx/PDF/Klartext)
@@ -50,6 +38,7 @@ Falls Referenzvorlage oder Checkliste fehlen, fragt der Skill zunächst nach —
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Mindeststandard-Katalog
 
 Die folgenden zehn Bereiche sind in **jedem** NDA zu prüfen.
@@ -187,3 +176,4 @@ Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 *Dieser Skill produziert einen Arbeitsentwurf. Inhalt, Risikobewertung
 und Redline sind vor Versand durch den verantwortlichen Rechtsanwalt
 eigenständig zu prüfen.*
+

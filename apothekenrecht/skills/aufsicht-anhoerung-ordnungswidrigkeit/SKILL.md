@@ -5,10 +5,6 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Au
 
 # Aufsicht Anhörung Ordnungswidrigkeit
 
-## Arbeitsbereich
-
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsicht Anhörung Ordnungswidrigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -110,15 +106,6 @@ Eingaben:
 - Sofortvollzug-Schliessung wird hingenommen ohne Eilantrag VG.
 - "Verteidigung mit Selbstvorwürfen" — Schuldeingeständnis ohne Rechtfertigungsversuch.
 
-## Querverweise
-
-- `beanstandung-durch-aufsichtsbehoerde-anhoerung` (Anhörungsablauf)
-- `apothekenrevision-vorbereitung-antwort` (Revisionsvorbereitung)
-- `widerruf-ruecknahme-ruhen-apothekenerlaubnis` (Widerruf)
-- `owi-strafrisiken-apog-amg-btmg` (Strafrisiko)
-- `output-behoerdenbrief-sop-mandantenmemo` (Schreibhilfe)
-- `apothekenbetriebsordnung-grundpflichten` (Grundpflichten)
-
 ## Quellen Stand 06/2026
 
 - ApoG §§ 4, 25, 26; ApBetrO; AMG §§ 95–97; BtMG §§ 29 ff., 32.
@@ -126,3 +113,4 @@ Eingaben:
 - BVerwG / OVG / VGH staend. Rspr. zur Apothekenaufsicht.
 - BGH staend. Rspr. zu §§ 299a/b StGB im Apothekenkontext.
 - Landesapothekerkammer-Beanstandungsleitfäden (vom Anwender zu verifizieren).
+

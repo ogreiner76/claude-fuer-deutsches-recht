@@ -5,10 +5,6 @@ description: "Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstr
 
 # Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach §§ 916 ff. ZPO
 
-## Arbeitsbereich
-
-Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstreitigkeiten: einstweilige Verfügungen auf Unterlassung von Wettbewerb, Herausgabe von Unterlagen, Sicherung von Provisionsansprüchen sowie Arrest nach §§ 916 ff. ZPO; Verfügungsanspruch und Verfügungsgrund als Voraussetzungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Schadensersatzrisiko nach § 945 ZPO bei unberechtigter Verfügung unterschätzt.
 - Hauptsacheklage nach Erlass der Verfügung versäumt — Verfügung verliert Wirkung.
 
-## Output
-
-Antrag auf einstweilige Verfügung, Arrest-Antrag, Schadensersatzberechnung § 945 ZPO.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 945 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__945.html)
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [Dejure § 935 ZPO](https://dejure.org/gesetze/ZPO/935.html)
+

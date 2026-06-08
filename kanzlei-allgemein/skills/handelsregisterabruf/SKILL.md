@@ -5,10 +5,6 @@ description: "Handelsregisterabruf über offizielle Quellen für Unternehmenspr�
 
 # Handelsregisterabruf
 
-## Arbeitsbereich
-
-Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura muessen geprüft werden. Normen §§ 15 17 HGB Registerrecht § 10 GwG wirtschaftlich Berechtigte. Prüfraster Firma Sitz Registergericht Vertretung Prokura Gesellschafterliste Gesellschaftsvertrag Zeitstempel Quellenprotokoll. Output Handelsregisterauszug-Zusammenfassung mit Vertretungsnachweis Gesellschafterstruktur und GwG-Dokumentation. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Manda
 - § 8 HGB — Inhalt und Pflichtangaben des Handelsregisters
 - § 40 GmbHG — Gesellschafterliste: Hinterlegung und Wirkung als Nachweis der Mitgliedschaft
 - § 3 GwG — Sorgfaltspflichten für risikobasierte KYC-Pruefung (Handelsregister als Beleg)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill führt durch einen Handelsregisterabruf und macht daraus ein verwertbares Registerprotokoll für Klage, Vertrag, Mandatsanlage, KYC, Rechnungsadresse oder Zustellung. Er nutzt offizielle Quellen und dokumentiert Quelle, Zeitstempel und Unsicherheiten.
 
 ## Offizielle Quellen
 
@@ -115,3 +104,4 @@ Für Rechnung und Buchhaltung:
 ## Ausgabe
 
 `assets/templates/handelsregisterabruf-protokoll.md` verwenden.
+

@@ -5,10 +5,6 @@ description: "Prüft Compliance-Anforderungen und Antikorruptionspflichten im Ha
 
 # Compliance und Antikorruption im Handelsvertretervertrieb
 
-## Arbeitsbereich
-
-Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtengesetzes bei internationalen Vertriebsstrukturen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Kündigung wegen Compliance-Verstoß ohne vorherige Abmahnung bei heilbaren Verstößen unwirksam.
 - LkSG-Anforderungen bei indirekten Lieferanten über Handelsvertreter übersehen.
 - Strafrechtliches Risiko für Unternehmer bei Duldung von Korruption durch Handelsvertreter.
-
-## Output
-
-Compliance-Prüfvermerk, Kündigungsschreiben mit Begründung, Antikorruptions-Vertragsentwurf.
 
 ## Hintergrund und Kontext
 

@@ -96,12 +96,6 @@ Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden
 - ELStAM-Quittungen.
 - DATEV-Mandantenakte Lohn.
 
-## Output
-
-- DEUEV-Anmeldung/Abmeldung verschickt.
-- ELStAM-Abruf erfolgreich (Steuerklasse, KiFB, KV-Status).
-- Quittungen in Mandantenakte.
-
 ## Strategie und Praxis-Tipps
 
 - Anmeldung rechtzeitig — Sofortmeldungspflicht-Branchen vor Beschaeftigungsbeginn melden.
@@ -110,14 +104,6 @@ Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden
 - Bei Mehrfachbeschaeftigung: AN muss FA bzgl. Hauptarbeitgeber informieren.
 - StBVV: SV/ELStAM-Meldungen pauschal in Lohnabrechnungsentgelt.
 - DATEV-Tipp: DATEV LODAS DEUEV-Modul und ELStAM-Schnittstelle automatisiert.
-
-## Querverweise
-
-- `stb-lohn-mandantenaufnahme-onboarding` — Onboarding.
-- `stb-lohn-lohnsteuer-monatsabschluss` — LSt-Anmeldung.
-- `stb-lohn-sv-beitraege-grundlagen` — SV-Beitraege.
-- `stb-lohn-sv-meldungen-dakota-svnet` — DAKOTA/sv.net.
-- `stb-lohn-monatsende-meldepflichten-checkliste` — Meldepflichten.
 
 ## Quellen und Updates
 
@@ -129,10 +115,3 @@ Stand: 05/2026.
 - BMF-Rundschreiben ELStAM.
 - ITSG-Spezifikation.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

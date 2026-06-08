@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-S
 
 # Schuldrecht und Vertragsfreiheit
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Das BGB-Schuldrecht 1900 (Buch II, §§ 241-853) war Ausdruck der liberalen Vert
 - SchuRModG 2002: BGBl. I 2001, 3138; Materialien im Bundestags-Drucksachen (BT-Drs.)
 - BGH-Schuldrechtsprechung: bgh.de (VIII. und X. Zivilsenat)
 
-## Output
-
-- Zeitleiste Schuldrecht: 1900-2002-Gegenwart
-- AGB-Kontrolle: Entwicklung von 0 (1900) zum modernen Klauselverbot
-- Schuldrechtsreform 2002: Kernpunkte (Verjjaehrung, Mangelrecht, AGB)
-
-## Quellenregel
-
-BGB: gesetze-im-internet.de. AGBG 1976: BGBl. I 1976, 3317. SchuRModG 2002: BGBl. I 2001, 3138. BGH: bgh.de. EU-Richtlinien: eur-lex.europa.eu.

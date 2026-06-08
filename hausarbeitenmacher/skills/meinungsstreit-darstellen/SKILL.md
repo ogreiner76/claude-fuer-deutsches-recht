@@ -5,10 +5,6 @@ description: "Student muss Meinungsstreit in Hausarbeit darstellen: herrschende 
 
 # Meinungsstreit darstellen
 
-## Arbeitsbereich
-
-Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog Argument-Zuordnung Stellungnahme-Qualitaet Quellenbelege. Output strukturierter Meinungsstreit-Abschnitt eigene Argumentation. Abgrenzung zu metodenlehre-auslegung (Auslegungsmethoden) und quellenrecherche (Quellen finden). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Minder
 - Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3, UrhG §§ 51, 51a (Zitatrecht), Promotionsordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Der Meinungsstreit ist das Herzstück der Hausarbeit. Wer ihn nicht beherrscht, schreibt nur Routine. Wer ihn beherrscht, zeigt juristisches Denken.
 
 ## Schritt 1 — Wann ist ein Streit darzustellen?
 
@@ -243,3 +235,4 @@ Die Argumente jeder Position lassen sich häufig auf die vier Auslegungs-Methode
 - `methodenlehre-auslegung` — methodische Argumente
 - `zitierweise-jura-fundstellen` — saubere Belege
 - `selbstkontrolle-vor-abgabe` — Endcheck Streit-Stände
+

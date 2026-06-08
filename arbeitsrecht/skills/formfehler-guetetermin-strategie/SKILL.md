@@ -5,9 +5,6 @@ description: "Kueschk Formfehler Guetetermin Strategie im Plugin Arbeitsrecht: p
 
 # Kueschk Formfehler Guetetermin Strategie
 
-## Arbeitsbereich
-
-**Kueschk Formfehler Guetetermin Strategie** ordnet den Fall über die tragenden Prüfungslinien: Formfehler-Prüfung bei Kündigungen, Guetetermin nach § 54 ArbGG, Kammertermin Hauptverhandlung im Kündigungsschutzprozess. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Kueschk Formfehler Guetetermin Strategie im Plugin Arbeitsrecht: p
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kueschk-formfehler-pruefen`
@@ -62,9 +60,6 @@ description: "Kueschk Formfehler Guetetermin Strategie im Plugin Arbeitsrecht: p
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfkatalog Formfehler
 
 ### 1. Schriftform § 623 BGB
@@ -192,13 +187,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Der Gütetermin nach § 54 ArbGG ist der erste Verhandlungstermin vor dem Arbeitsgericht. Er findet in der Regel wenige Wochen nach Klageerhebung statt. In der Praxis werden viele Kündigungsschutzstreitigkeiten im Gütetermin durch Vergleich erledigt. Dieser Skill bereitet auf diesen Termin vor.
-
 ## Was ist der Gütetermin?
 
 - Erster Verhandlungstermin nach § 54 ArbGG
@@ -301,13 +289,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Konnte im Gütetermin keine Einigung erzielt werden, folgt der **Kammertermin** als Hauptverhandlung. Im Kammertermin entscheidet die Kammer (Vorsitzender + zwei ehrenamtliche Richter) über die Klage. Dieser Skill bereitet den Arbeitnehmer auf diesen Termin vor.
 
 ## Was ist der Kammertermin?
 
@@ -414,13 +395,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill erzeugt eine anwaltliche Klageschrift für Kündigungsschutzverfahren vor dem Arbeitsgericht. Er setzt Kenntnisse des KSchG-Prüfschemas voraus und ist für Rechtsanwältinnen und Rechtsanwälte konzipiert.
 
 ## Vorprüfung (Checkliste)
 
@@ -548,3 +522,4 @@ Rechtsanwältin/Rechtsanwalt
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+

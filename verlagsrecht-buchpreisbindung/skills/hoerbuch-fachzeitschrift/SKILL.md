@@ -5,10 +5,6 @@ description: "Verlagsrecht: Hörbuch-Produktion — Sprechervertrag, Leistungssc
 
 # Verl-034 · Hörbuch, Sprechervertrag und Leistungsschutzrechte
 
-## Arbeitsbereich
-
-Verlagsrecht: Hörbuch-Produktion — Sprechervertrag, Leistungsschutzrechte des ausübenden Künstlers (UrhG §§ 73–83), GEMA, Preisbindung und Plattformverträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -125,3 +121,4 @@ Hörbücher sind urheberrechtlich komplexe Produkte: Sie kombinieren das Urheber
 - **GEMA-Lizenz-Checkliste**: Musik-Unterlegung
 - **Plattform-Comparison**: Audible, Spotify, Storytel — Vergütung und Exklusivität
 - **GVL-Meldungsformular**: Hörbuch-Anmeldung
+

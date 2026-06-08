@@ -5,10 +5,6 @@ description: "Steuert das US-Discovery-Risiko bei Internal Investigations – FR
 
 # US-Discovery in Cross-Border Investigations
 
-## Arbeitsbereich
-
-Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -67,15 +63,6 @@ Dieser Skill analysiert das US-Discovery-Risiko für laufende Internal Investiga
 - Privilege-Log: für alle zurückgehaltenen Dokumente (FRCP Rule 26(b)(5)); Anforderungen an Format und Inhalt.
 - Redaktion (Schwärzung) sensibler Drittdaten vor Produktion.
 
-## Red-Team-Fragen
-
-- Gibt es US-Bezüge (Tochtergesellschaft, US-Cloud, FCPA-Risiko), die ein US-Discovery-Risiko begründen?
-- Wurde ein Litigation Hold nach US-Standard ausgelöst, sobald ein US-Verfahren absehbar war?
-- Ist jedes Dokument, das als „privileged" zurückgehalten wird, im Privilege-Log erfasst?
-- Hat die freiwillige Herausgabe von Teilen des Berichts an das DOJ zu einem Subject-Matter-Waiver geführt?
-- Wurden alle US-Cloud-Dienste auf CLOUD-Act-Risiken geprüft?
-- Sind die deutschen und US-amerikanischen Anwälte koordiniert – insbesondere bei widersprüchlichen Pflichten?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -96,3 +83,4 @@ Dieser Skill analysiert das US-Discovery-Risiko für laufende Internal Investiga
 - **DOJ-Kooperationsstrategie**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

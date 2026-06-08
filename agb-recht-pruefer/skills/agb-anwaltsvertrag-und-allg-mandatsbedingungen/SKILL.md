@@ -5,10 +5,6 @@ description: "AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill kla
 
 # Agb Anwaltsvertrag Und Allg Mandatsbedingungen
 
-## Arbeitsbereich
-
-AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-rechtliche Pruefung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme Honorarvereinbarungen und Sondervorschriften der BRAO. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -54,11 +50,6 @@ AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-re
 3. Haftungsbeschraenkung im Rahmen § 52 BRAO (nur einfache Fahrlaessigkeit, max. vierfache Mindestversicherungssumme)?
 4. Beratungspflichten?
 
-## Output
-
-- Klauselraster.
-- Mandatsbedingungs-Entwurf.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -87,3 +78,4 @@ AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-re
 - AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
 - Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+

@@ -5,23 +5,9 @@ description: "Bonitätsscoring nach EuGH C-634/21: automatisierte Entscheidung, 
 
 # Scoring und Art. 22 DSGVO nach EuGH C-634/21
 
-## Einsatz
-
-Für Score-basierte Kredit-, Miet-, Konto- oder Vertragsablehnung.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 15, 21, 22, 35; BDSG § 31 live prüfen; EuGH 07.12.2023 C-634/21.
-
-## Arbeitsfragen
-
-1. Hat ein Dritter maßgeblich auf den Score abgestellt?
-2. Welche Logik/Scorefaktoren sind bekannt?
-3. Welche menschliche Prüfung fand statt?
-
-## Output
-
-Art.-22-Prüfung, Auskunftsverlangen und Argumente gegen automatisierte Entscheidung.
 
 ## Red Flags
 
@@ -39,3 +25,4 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 - **Auskunftei-/Score-Fälle:** Bei `Scoring und Art. 22 DSGVO nach EuGH C-634/21` EuGH C-634/21 zum Scoring und EuGH C-26/22/C-64/22 zur Restschuldbefreiung nur mit verifizierter Quelle und Kernaussage verwenden.
 - **Belege:** Datenkopie, Scorelogik, Speicherfrist, Insolvenzbekanntmachung, Ablehnungsschreiben der Bank, Selbstauskunft und Beschwerdeantwort getrennt ablegen.
 - **Output:** Löschungs-/Berichtigungsantrag, Aufsichtsbehördenbeschwerde, Beweisplan und Klage-/Eilrechtsschutzmatrix.
+

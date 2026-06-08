@@ -5,9 +5,6 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 
 # Steuer Schnittstelle Erstgespraech
 
-## Arbeitsbereich
-
-**Steuer Schnittstelle Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Steuer-Schnittstelle Vermietung, Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-steuer-schnittstelle-vermietung`
@@ -41,9 +39,6 @@ description: "Steuer Schnittstelle Erstgespraech im Miet- und Wohnungseigentumsr
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erkennt Umsatzsteueroption, Gewerbe, Werbungskosten, aber verweist für Steuerdetail.
-
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
@@ -58,12 +53,6 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: erk
 4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
 5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
 6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
-
-## Output
-- Prüfvermerk mit Normen und Belegen.
-- Lückenliste der fehlenden Tatsachen.
-- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
-- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
 
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
@@ -252,9 +241,6 @@ Verifizierte Eckpunkte (Volltext jeweils ueber bundesgerichtshof.de / dejure.org
 
 Triage: bei akutem Schriftsatzbedarf konkrete Aktenzeichen vor Zitierung live verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Cross-Refs
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
@@ -274,10 +260,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Mietstreitigkeiten sind häufig Beziehungs-Streit (Hausgemeinschaft, Vermieter-Mieter-Vertrauensverhältnis). Mediation und Mieterverein-/Vermieterverein-Schlichtung sind erste ADR-Wahl.
 
 ## Eingaben
 
@@ -352,14 +334,6 @@ Mietstreitigkeiten sind häufig Beziehungs-Streit (Hausgemeinschaft, Vermieter-M
 - **Mietspiegel-Argumentation** vs. Vergleichsmieten
 - **Außergerichtliches Mietminderungs-Vergleich** oft 50-70 % der gerichtlich erwartbaren Quote
 
-## Querverweise
-
-- `fachanwalt-miet-wohnungseigentumsrecht-orientierung` — Triage
-- `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel` — Mängel
-- `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` — Eigenbedarf
-- `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44` — WEG
-- `fachanwalt-miet-weg-waermepumpe-geg` — Sonderfall GEG
-
 ## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026)
 
 Verifizierte Eckpunkte für Mediations- und Vergleichsverhandlungs-Kontext (vor Zitierung Volltext pruefen):
@@ -370,9 +344,6 @@ Verifizierte Eckpunkte für Mediations- und Vergleichsverhandlungs-Kontext (vor 
 
 Verjährungshemmung der Mediation: § 204 Abs. 1 Nr. 4 BGB (waehrend Verfahren + 3 Monate).
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Sofort-Check
 
 | Frist | Norm | Zeitfenster |
@@ -661,10 +632,6 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Vermieter-Mandat bei Eigenbedarf; Mieter-Mandat bei Verteidigung.
-
 ## 1) Eingangs-Abfrage
 
 1. Wer ist Mandant — Vermieter oder Mieter?
@@ -823,3 +790,4 @@ Faktualitaets-Update: BGH VIII ZR 289/23 (24.09.2025), VIII ZR 262/24 (26.08.202
 verifiziert ueber https://www.bundesgerichtshof.de und https://dejure.org. Stand der Aktualisierung: 05/2026.
 NJW-/Beck-Fundstellen sind in offenen Quellen nicht enthalten und daher hier nicht aufgenommen.
 -->
+

@@ -5,11 +5,6 @@ description: ASCII-Pruefungsschema fuer die vierstufige Verhaeltnismaessigkeitsp
 
 # Ascii Pruefungsschema
 
-## Aufgabe
-
-Eine reine Text-Visualisierung der vier Pruefungsstufen mit Ampelstatus.
-Brauchbar fuer Schriftsatzanlagen, Klausuren und Mandatsmemos.
-
 ## Schema 1: Sequenz
 
 ```
@@ -74,7 +69,3 @@ Brauchbar fuer Schriftsatzanlagen, Klausuren und Mandatsmemos.
 - Klausurbeilage bei Fortgeschrittenenpruefung.
 - Mandatsmemo als Quick-Overview.
 
-## Output
-
-Reines ASCII; keine Bilder, keine Mermaid-Syntax. Direkt einsetzbar
-in jeder Textdatei.

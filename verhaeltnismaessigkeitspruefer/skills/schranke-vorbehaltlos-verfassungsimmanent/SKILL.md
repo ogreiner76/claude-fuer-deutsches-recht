@@ -39,10 +39,6 @@ Verfassungsimmanente Schranken werden ueber die **praktische Konkordanz** aufgel
 4. Konkordanz herstellen: schonendster Ausgleich, der beide Gueter wahrt.
 5. Absolute Grenzen pruefen (Menschenwuerde, Wesensgehalt, Existenzminimum).
 
-## Output
-
-Tabelle: vorbehaltloses Grundrecht – kollidierendes Verfassungsgut – Massnahme – Konkordanzvorschlag – Restzweifel.
-
 ## Quellen mit Schlagwort
 
 - BVerfGE 30, 173 (Mephisto-Beschluss, Kunstfreiheit)
@@ -54,3 +50,4 @@ Tabelle: vorbehaltloses Grundrecht – kollidierendes Verfassungsgut – Massnah
 - BVerfGE 93, 1 (Kruzifix-Beschluss, praktische Konkordanz)
 - BVerfGE 108, 282 (Kopftuch I, Religionsfreiheit Lehrerin)
 - BVerfGE 138, 296 (Kopftuch II, bundesweite Pauschalverbote)
+

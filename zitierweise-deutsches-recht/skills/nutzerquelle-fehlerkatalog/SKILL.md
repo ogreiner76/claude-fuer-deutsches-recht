@@ -18,7 +18,6 @@ Arbeitsfokus: **Nutzerquelle Fehlerkatalog**. Prüfe diese Anker am Sachverhalt;
 - `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
 - `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Einsatzlage
@@ -38,15 +37,7 @@ Dieser Fehlerkatalog prüft im Bereich **Zitierweise Deutsches Recht** Ergebniss
 - `zit-internationale-urteile-spezial`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `zit-internationale-zit-kommentar-zitat-amtliche`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
-## Red-Team-Fragen
-
-1. Ist die richtige Rolle, Zuständigkeit und Verfahrensart gewählt?
-2. Sind Fristbeginn, Fristende, Form, Zugang und Beweislast getrennt dokumentiert?
-3. Gibt es eine Spezialnorm, die die allgemeine Lösung verdrängt?
-4. Sind tatsächliche Annahmen als Annahmen markiert und Belege benannt?
-5. Enthält der Output unnötige Zugeständnisse, vertrauliche Daten oder ungeprüfte Fundstellen?
-6. Ist der nächste Schritt praktisch ausführbar: wer tut was bis wann mit welchem Dokument?
-
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
+

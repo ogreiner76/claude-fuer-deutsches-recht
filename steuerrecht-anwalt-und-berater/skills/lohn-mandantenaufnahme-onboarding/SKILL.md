@@ -112,13 +112,6 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 - Erste Lohnsteuer-Anmeldung und SV-Meldung.
 - Mandantenakte mit allen Unterlagen aufbauen.
 
-## Output
-
-- Vollstaendige Stammdaten in DATEV LODAS / Lohn und Gehalt.
-- ELStAM-Abruf erfolgreich.
-- SV-Anmeldungen verschickt.
-- Lohn-Mandantenakte aufgebaut.
-
 ## Strategie und Praxis-Tipps
 
 - Onboarding-Checkliste konsequent durchgehen — vergessene Stammdaten kosten spaeter erheblich Zeit.
@@ -127,15 +120,6 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 - Mandantenvereinbarung schriftlich — Lohnbuchfuehrung StBVV § 35 separater Auftrag.
 - Erstes Lohn-Jahr immer mit Stichproben pruefen (Sachbezuege, Pauschalsteuer, SV-Klassifikation).
 - DATEV-Tipp: DATEV LODAS Mandanten-Anlage mit Pruefliste; bei Datenuebernahme aus Vorprogramm (z.B. Lexware) erweiterte Pruefung.
-
-## Querverweise
-
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Arbeitsvertrag.
-- `stb-lohn-meldungen-sv-elstam-zugang` — SV/ELStAM.
-- `stb-lohn-sv-beitraege-grundlagen` — SV-Grundlagen.
-- `stb-lohn-sv-meldungen-dakota-svnet` — DAKOTA/sv.net.
-- `stb-datev-lohn-modul-lodas-luh` — DATEV LODAS.
-- `stb-mandanten-onboarding-checkliste-vollservice` — Vollservice-Onboarding.
 
 ## Quellen und Updates
 
@@ -147,10 +131,3 @@ Stand: 05/2026.
 - DEUEV.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

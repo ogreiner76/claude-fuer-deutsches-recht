@@ -5,12 +5,6 @@ description: "PrALR: Kirchenrecht, Schule, Religion, Gemeinde und staatliche Auf
 
 # Kirche und Schule
 
-## Aufgabe
-
-Trenne konfessionelle Ordnung, staatliche Aufsicht, Familienrecht und spätere Kulturkampf-/Schulrechtslinien.
-
-Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staaten als historischer Normquelle. Er behandelt das PrALR nicht als dekorativen Alttext, sondern als konkrete Quelle mit Ausgabejahr, Textzeugen, Geltungsraum, systematischem Ort und möglicher heutiger Fortwirkung.
-
 ## Startfragen
 
 1. Welche Quelle liegt vor: Scan, OCR, PDF, Transkription, Sekundärtext, Urteil oder Aktenvermerk?
@@ -50,10 +44,3 @@ ALR-Loesung: ALR II 12 — Schulpflicht; Sanktionen ueber Polizei. Heute durchge
 - Allgemeine Schulpflicht in jedem Landesschulgesetz.
 - ALR-Linie der Schulaufsicht durch Geistlichkeit ist aufgehoben — strikte Trennung Staat/Kirche im Schulwesen (Art. 137 III WRV iVm Art. 140 GG).
 
-## Ausgabeformat
-
-- **Kurzbefund:** Was sagt die Quelle sicher?
-- **Textzeugenstand:** Welche Fassung wurde benutzt und wo ist sie unsicher?
-- **Historische Einordnung:** Systemstelle, Geltungsraum, gesellschaftliche Funktion.
-- **Heutiger Anschluss:** Fortwirkung, Gewohnheitsrecht, bloße Dogmengeschichte oder keine heutige Relevanz.
-- **Nächster Schritt:** zweite Quelle, Scan-Gegenprobe, aktuelles Landesrecht oder Rechtsprechungsrecherche.

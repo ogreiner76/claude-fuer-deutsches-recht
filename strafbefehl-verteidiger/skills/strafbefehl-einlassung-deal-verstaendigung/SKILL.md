@@ -41,9 +41,6 @@ Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Einlassungsstrategie
 
 ```
@@ -110,3 +107,4 @@ Strafmildernd ist zu beruecksichtigen:
 - Gestaendnis nur nach Mandantenruecksprache und Aufklaerung ueber Tragweite.
 - Beweisverwertungsverbote aktiv pruefen — Fehler der Ermittlungsbehoerden nicht verschenken.
 - Anwaltliche Endkontrolle bei jedem Schritt.
+

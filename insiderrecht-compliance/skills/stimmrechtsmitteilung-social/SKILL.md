@@ -5,10 +5,6 @@ description: "Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-
 
 # Stimmrechtsmitteilungen (§§ 33 ff. WpHG) und Insiderrecht
 
-## Arbeitsbereich
-
-Koordiniert Stimmrechtsmitteilungen nach §§ 33 ff. WpHG mit MAR-Insiderrecht: Schwellenberechnungen, Meldefristen und Insider-Trading-Risiken bei Paketkauf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,20 +69,3 @@ sicher, dass Paketerwerbe und Meldungen rechtskonform ablaufen.
 - Veröffentlichung durch Emittent nach Eingang der Meldung
 - Bei Fehler oder Nachmeldung: Korrekturmeldung mit Erklärung
 
-## Red-Team-Fragen
-
-- Hat der Käufer beim Paketkauf Insiderinformationen genutzt?
-- Wurde die Stimmrechtsmitteilung fristgerecht und im korrekten Format eingereicht?
-- Hat der Emittent die Beteiligung als Insiderinformation qualifiziert und ggf. eine
- Ad-hoc-Mitteilung veröffentlicht?
-- Gibt es Hinweise auf Acting-in-Concert mit anderen Aktionären?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Stimmrechtsschwellen-Übersicht (Schwelle × Meldepflicht × Frist)
-2. MAR-Insiderrecht-Check für Paketkäufer
-3. Emittenten-Ad-hoc-Prüfprotokoll (bei überraschender Beteiligung)
-4. Stimmrechtsmeldungs-Formular (DVO-konform)
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

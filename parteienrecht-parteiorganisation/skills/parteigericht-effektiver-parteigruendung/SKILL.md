@@ -5,10 +5,6 @@ description: "Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch 
 
 # Parteigericht: Effektiver Rechtsschutz
 
-## Arbeitsbereich
-
-Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rec
 - Tragende Normen verifizieren: GG Art. 21, PartG §§ 1, 2, 5, 6, 7, 8, 9, 10, 14, 18, 23, 23a, 24, 25, 26, 31a-d, EuPartV (VO 1141/2014), BWahlG, EuWG, AbgG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Parteivorstand, Bundestagsverwaltung (Parteienfinanzierung), Bundeswahlleiter, EU-Behörde für europäische politische Parteien, Schiedsgericht der Partei, Mitglied, BVerfG (Parteiverbot Art. 21 GG).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Parteisatzung, Rechenschaftsbericht, Mitgliederliste, Beteiligungsanzeige, Wahlvorschlag, Schiedsgerichtsentscheid, Parteitagsprotokoll, Spendenbescheinigung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Prüft parteigerichtliche Verfahren nicht nur nach Satzung, sondern nach ihrem praktischen Gewährleistungsgehalt: Zugang, Dauer, Gehör, Neutralität, Öffentlichkeit, Befangenheit und Erledigungsgefahr.
 
 ## Einstieg
 
@@ -55,13 +47,6 @@ Wenn ein Dokument vorliegt, lies zuerst Satzung, Schiedsgerichtsordnung, angegri
 - BVerfG, 27.07.2006 - 2 BvR 1416/06: Parteiinterner Rechtsschutz kann staatlichem Rechtsschutz vorgeschaltet sein; bei unzumutbarer Verzögerung oder fehlender Erreichbarkeit bleibt staatlicher Rechtsschutz zu prüfen.
 - BVerfG, 03.06.2022 - 1 BvR 2103/16: Bei zwingend vorgegebenen Schiedsverfahren müssen rechtsstaatliche Mindeststandards und der Grundsatz der Öffentlichkeit mündlicher Verhandlungen ernsthaft gewichtet werden.
 
-## Output
-
-- **Kurzdiagnose:** interner Vorrang tragfähig, gefährdet oder unzumutbar.
-- **Mängelmatrix:** Gehör, Besetzung, Geschäftsstelle, Befangenheit, Öffentlichkeit, Dauer, Eilbedürftigkeit.
-- **Antragspaket:** parteigerichtlicher Antrag plus Hilfs-/Eilanträge, Besetzungsanfrage, Akteneinsicht, Verzögerungsrüge.
-- **Staatlicher Rechtsschutzpfad:** wann und mit welcher Begründung ordentliche Gerichte oder Eilrechtsschutz angerufen werden können.
-
 ## Vorsichtsregel
 
 Keine politischen Bewertungen. Der Skill prüft nur, ob das Verfahren formal und rechtsstaatlich trägt. Vorwürfe gegen Personen nur aufnehmen, wenn sie aktenmäßig belegt, rechtlich erheblich und für Befangenheit, Gehör, Öffentlichkeit oder Verfahrensdauer wirklich nötig sind.
@@ -72,3 +57,4 @@ Keine politischen Bewertungen. Der Skill prüft nur, ob das Verfahren formal und
 - Wahl- und Fristenbezug mit amtlichen Wahlleiterhinweisen abgleichen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+

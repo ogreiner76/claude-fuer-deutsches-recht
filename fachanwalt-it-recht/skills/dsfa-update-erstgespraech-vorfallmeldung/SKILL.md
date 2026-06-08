@@ -5,9 +5,6 @@ description: "DSV Dsfa Update Erstgespraech Vorfallmeldung im Plugin Fachanwalt 
 
 # DSV Dsfa Update Erstgespraech Vorfallmeldung
 
-## Arbeitsbereich
-
-**DSV Dsfa Update Erstgespraech Vorfallmeldung** ordnet den Fall über die tragenden Prüfungslinien: Aktualisiert die Datenschutz-Folgenabschätzung nach Art, Führt das anwaltliche oder DSB-Erstgespräch nach einem, Definiert eine Eskalationsmatrix vom Erstmelder über. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "DSV Dsfa Update Erstgespraech Vorfallmeldung im Plugin Fachanwalt 
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsv-dsfa-update-nach-vorfall`
@@ -57,10 +55,6 @@ Nicht aus Modellwissen; insbesondere zu Anforderungen an die DSFA-Aktualisierung
 ## Zentrale Normen
 
 Art. 5 Abs. 2; Art. 32; Art. 35; Art. 36 DSGVO.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — DSFA-Update-Felder
 
@@ -111,10 +105,6 @@ Nicht aus Modellwissen; insbesondere zu Kenntnisbegriff Art. 33 Abs. 1 DSGVO und
 ## Zentrale Normen
 
 Art. 4 Nr. 12; Art. 28; Art. 33; Art. 34; Art. 56 DSGVO; § 42 BDSG.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Fragenblöcke
 
@@ -175,10 +165,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldfälle wegen verspäteter Meldung infol
 
 Art. 5 Abs. 2; Art. 24; Art. 32; Art. 33 Abs. 1 DSGVO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Eskalationsstufen
 
 Stufe 1: Erstmelder → Service-Desk (innerhalb 30 Minuten).
@@ -226,10 +212,6 @@ Nicht aus Modellwissen; insbesondere zur Aufbewahrungsdauer und Vorlagepflicht v
 
 Art. 5 Abs. 2; Art. 24; Art. 30; Art. 33 Abs. 5 DSGVO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Pflichtfelder Vorfallregister
 
 Vorfall-ID; Datum Kenntnisnahme; Datum Eintritt; Kategorie (V/I/V); Sachverhalt; betroffene Verarbeitung VVT-ID; Datenarten; Anzahl Betroffener; Folgen; ergriffene Maßnahmen; Bewertung Art. 33; Bewertung Art. 34; Meldedatum; Aktenzeichen Aufsichtsbehörde; verantwortlicher Bearbeiter; Status; Aufbewahrung bis.
@@ -274,10 +256,6 @@ Nicht aus Modellwissen; insbesondere zur Beweislastverteilung bei Nichtmeldung v
 
 Art. 33 Abs. 5; Art. 5 Abs. 2 DSGVO; Erwägungsgrund 85.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Inhaltsraster
 
 1. Sachverhalt: was ist passiert; wann; in welchem System.
@@ -296,3 +274,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-interne-dokumentation-art-33-abs-5` deckt die Dokumentation auch für gemeldete Faelle ab.
+

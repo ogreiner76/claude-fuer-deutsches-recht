@@ -10,10 +10,6 @@ description: "Prüft Verkehrssicherungspflichten im digitalen Raum: Plattformhaf
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Verkehrssicherungspflichten in digitalen Umgebungen prüfen: Haftung von Plattformbetreibern, IT-Sicherheitspflichten und deliktische Konsequenzen bei Datenpannen oder Cyberangriffen.
-
 ## Normanker
 
 - § 823 Abs. 1 BGB: allgemeine Verkehrssicherungspflicht, auch im digitalen Bereich
@@ -48,25 +44,13 @@ Verkehrssicherungspflichten in digitalen Umgebungen prüfen: Haftung von Plattfo
 - Art. 82 DSGVO gibt eigene Schadensersatzansprüche, die neben § 823 BGB stehen.
 - NIS2-Pflichten begründen keine direkte privatrechtliche Haftung, können aber Schutzgesetzverletzung indizieren.
 - Beweissicherung bei Cybervorfällen muss sofort erfolgen (Logs, Backups, Forensik).
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Haftungsanalyse (Betreiber, Plattform, Dienstleister)
-- IT-Sicherheitspflichten-Checkliste
-- Schadensberechnung und DSGVO-Parallelprüfung
-- Beweissicherungshinweise
-
-## Qualitätsregeln
-
-- DSA und TMG immer auf Aktualität prüfen.
-- DSGVO-Haftung parallel zu § 823 BGB prüfen.
-- Beweissicherung bei Cybervorfall immer als ersten Schritt anordnen.
 
 ## Anschluss-Skills
 
@@ -80,10 +64,4 @@ Verkehrssicherungspflichten in digitalen Umgebungen prüfen: Haftung von Plattfo
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/tmg/
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

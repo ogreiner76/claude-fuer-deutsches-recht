@@ -33,12 +33,3 @@ Die folgende Matrix ordnet jedem Verfahrensbeteiligten den zulässigen KI-Einsat
 - Quellen, Datenbasis und Methode müssen bei entscheidungsrelevanter KI nachvollziehbar sein.
 - Bei KI-generierten Schriftsätzen bleibt die Verantwortung beim Einreichenden.
 
-## Output
-
-Erzeuge eine Rollenmatrix mit:
-
-- Einsatzart;
-- rechtlichem Risiko;
-- erforderlichem Hinweis oder Vermerk;
-- Beweis- und Akteneinsichtsfrage;
-- Vorschlag für sichere Nutzung.

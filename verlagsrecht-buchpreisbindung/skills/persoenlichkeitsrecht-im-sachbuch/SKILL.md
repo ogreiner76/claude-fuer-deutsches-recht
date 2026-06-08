@@ -5,10 +5,6 @@ description: "Verlagsrecht: Persönlichkeitsrechte im Sachbuch — allgemeines P
 
 # Verl-021 · Persönlichkeitsrecht im Sachbuch
 
-## Arbeitsbereich
-
-Verlagsrecht: Persönlichkeitsrechte im Sachbuch — allgemeines Persönlichkeitsrecht, Recht am eigenen Bild, Gegendarstellung, Unterlassung und Haftung von Autor und Verlag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -134,3 +130,4 @@ Sachbücher, Biographien, Reportagen und journalistische Werke berühren häufig
 - **Unterlassungserklärung** bei empfangener Abmahnung
 - **Anwalts-Briefing** für Rechts-Read
 - **Anonymisierungsprotokoll**: Geänderte Namen und Darstellungen dokumentiert
+

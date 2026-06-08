@@ -5,9 +5,6 @@ description: "Regeln Prinzipien Tacit Sprache Begriffe im Rechtstheorie und Rech
 
 # Regeln Prinzipien Tacit Sprache Begriffe
 
-## Arbeitsbereich
-
-**Regeln Prinzipien Tacit Sprache Begriffe** ordnet den Fall über die tragenden Prüfungslinien: Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -40,6 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `regeln-prinzipien-abwaegung`
@@ -60,10 +58,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
 
 ## Sofort klären
 
@@ -96,19 +90,6 @@ Prüfe deshalb, ob die Regel gerade wegen ihrer Einfachheit sinnvoll ist. Danach
 2. **Standard bevorzugen**, wenn Fallvarianz, neue Technologien, Grundrechtsintensität oder Drittschäden konkrete Wertung verlangen.
 3. **Hybrid bevorzugen**, wenn dezentrales Wissen genutzt werden soll: Vermutung, widerlegbarer Safe Harbor, Audit, Berichtspflicht, Experimentierklausel, Nachsteuerung.
 
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-- Regelbindung kann rational sein; blinde Regelverehrung nicht.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.
-
 ## 2. `regeln-tacit-knowledge-und-kognitive-entlastung`
 
 **Fokus:** Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine.
@@ -127,10 +108,6 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill prüft Regeln nicht nur als Befehle, sondern als Speicher von Erfahrung. Viele Regeln bündeln Wissen, das ihre Anwenderinnen nicht jedes Mal vollständig rekonstruieren können: technische Praxis, Marktinformation, Sicherheitswissen, Verwaltungserfahrung, richterliche Fallgruppen, Kanzleistandards.
 
 ## Sofort klären
 
@@ -158,20 +135,6 @@ Dieser Skill prüft Regeln nicht nur als Befehle, sondern als Speicher von Erfah
 
 Regelbindung kann rational sein, auch wenn die Anwenderin den vollen Grund der Regel nicht kennt. Das ist keine Kapitulation vor Denken, sondern kognitive Ökonomie. Gefährlich wird es, wenn die Regel gegen neue Tatsachen immunisiert wird oder als Autoritätsersatz dient.
 
-## Output
-
-Gib eine Regelwissen-Analyse aus:
-
-| Frage | Antwort |
-| --- | --- |
-| Regel/Routine | ... |
-| gespeichertes Erfahrungswissen | ... |
-| Trigger | ... |
-| Vorteil gegenüber Standard | ... |
-| Ausnahme-/Atypikrisiko | ... |
-| Aktualisierungsbedarf | ... |
-| Empfehlung | ... |
-
 ## 3. `sprache-begriffe-fiktionen`
 
 **Fokus:** Prueft juristische Sprache, Fiktionen, Metaphern und technische Begriffe als Werkzeuge und Gefahrenquellen der Rechtsanwendung.
@@ -191,10 +154,6 @@ Gib eine Regelwissen-Analyse aus:
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
-
 ## Sofort klären
 
 1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
@@ -209,14 +168,3 @@ Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in 
 3. Übersetze sie in Tatbestand, Rechtsfolge und Beweisfrage.
 4. Gib eine klare Sprachfassung aus.
 
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.

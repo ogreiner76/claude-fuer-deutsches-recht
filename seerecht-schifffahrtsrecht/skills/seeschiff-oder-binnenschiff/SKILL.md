@@ -50,11 +50,6 @@ Ein Reeder betreibt eine Fähre zwischen Rügen und dem Festland und fragt, ob s
 - Fehlerhafte Registrierung führt zu Nichtigkeit der Hypothek.
 - Haftungsgrenzen (HGB §§ 611-617 vs. BinSchG §§ 92 ff.) weichen erheblich voneinander ab.
 
-## Output
-- Klassifizierungsvermerk mit Normpfad
-- Empfehlung Register-/Hypothekenweg
-- Checkliste Registereintragung
-
 ## Erweiterte Normengrundlage
 
 ### Abgrenzungsnormen
@@ -89,3 +84,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - SchRG: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - dejure SchRegO: https://dejure.org/gesetze/SchRegO
+

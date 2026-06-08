@@ -5,10 +5,6 @@ description: "Leitet Interviews mit Führungskräften und Organmitgliedern – B
 
 # Interviews mit Führungskräften und Organmitgliedern
 
-## Arbeitsbereich
-
-Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -67,15 +63,6 @@ Dieser Skill strukturiert Interviews mit Führungskräften so, dass die Untersuc
 - Zivil- und strafrechtliche D&O-Versicherung: prüfen, ob Versicherungsschutz für Kosten der Untersuchung und eigene Rechtsverteidigung greift.
 - § 130 OWiG: Führungskraft als Leitungsperson kann selbst Adressat eines Bußgeldverfahrens sein.
 
-## Red-Team-Fragen
-
-- Hat die Führungskraft eine wirksame Upjohn-Warnung erhalten und bestätigt?
-- Kollidiert die arbeitsrechtliche Mitwirkungspflicht mit dem strafrechtlichen Schweigerecht – und wurde dieser Konflikt explizit dokumentiert?
-- Enthält das Protokoll Formulierungen, die die Führungskraft als Täter darstellen, ohne Tatbestandsmerkmale vollständig geprüft zu haben?
-- Gibt es Interessenkollisionen zwischen der aussagenden Führungskraft und dem Auftraggeber der Untersuchung?
-- Wurde die D&O-Versicherung der Führungskraft informiert?
-- Deckt sich die Aussage der Führungskraft mit den vorliegenden Dokumenten – wo gibt es Abweichungen?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -96,3 +83,4 @@ Dieser Skill strukturiert Interviews mit Führungskräften so, dass die Untersuc
 - **Rollendefinitions-Matrix** (Zeuge / Betroffener / Beschuldigter)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

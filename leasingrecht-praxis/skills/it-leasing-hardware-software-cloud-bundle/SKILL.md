@@ -5,10 +5,6 @@ description: "IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lize
 
 # IT-Leasing: Hardware, Software und Cloud-Bundle
 
-## Arbeitsbereich
-
-IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Datenschutz, End-of-Life, Rückgabe und steuerliche Behandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Daten
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-IT-Leasing umfasst Hardware (Server, Netzwerktechnik, Endgeräte), Softwarelizenzen und zunehmend Cloud-Services als Bündel. Die rechtliche Einordnung ist komplex: Leasingvertrag, Lizenzvertrag und Cloud-Vertrag folgen unterschiedlichen Regeln. Dieser Skill klärt Abgrenzungsfragen, Lizenzrecht, Datenschutz und typische Fallstricke.
 
 ## Vertragstypen im IT-Leasing
 
@@ -107,3 +99,4 @@ IT-Leasing umfasst Hardware (Server, Netzwerktechnik, Endgeräte), Softwarelizen
 - **Datenlöschungs-Klausel**: Musterformulierung für Rückgabeprotokoll
 - **EOL-Risikomatrix**: Nutzungsdauer, Supportende, Leasinglaufzeit
 - **AVV-Check**: Auftragsverarbeitung DSGVO-konform?
+

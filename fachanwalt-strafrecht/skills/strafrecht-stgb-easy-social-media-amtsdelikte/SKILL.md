@@ -5,9 +5,6 @@ description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret E
 
 # Stgb Easy Social Media Amtsdelikte
 
-## Arbeitsbereich
-
-**Stgb Easy Social Media Amtsdelikte** ordnet den Fall über die tragenden Prüfungslinien: Easy-Verteidigung gegen § 188 StGB, Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +27,7 @@ description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret E
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-188-stgb-easy-verteidigung`
@@ -37,10 +35,6 @@ description: "Stgb Easy Social Media Amtsdelikte im Strafrecht: prüft konkret E
 **Fokus:** Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsbei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie.
 
 ### § 188 StGB — Easy-Verteidigung
-
-## Einsatz
-
-Anwendungsfall: mandantschaft wegen einer Äußerung über einen Bürgermeister, Gemeinderat, Abgeordneten, Minister, Kandidaten, Parteifunktionär oder sonst politisch sichtbaren Amtsträger angezeigt, angehört, per Strafbefehl belegt oder angeklagt wird. Der Skill soll Verteidigung schnell handlungsfähig machen: nicht zuerst eine Vorlesung, sondern Akte sortieren, Angriffspunkte finden, Schweigen sichern, Beweise sichern und eine schlanke Verteidigungslinie bauen.
 
 ## Sofortmodus
 
@@ -81,27 +75,9 @@ Prüfe erst nach dem Basisdelikt:
 
 Bei politischer Auseinandersetzung niemals automatisch "Beleidigung" sagen. Art. 5 Abs. 1 GG verlangt eine belastbare Deutung der Äußerung aus Sicht einer unvoreingenommenen verständigen Durchschnittsperson und eine Abwägung mit dem Persönlichkeitsrecht. Je stärker der Beitrag eine öffentliche Frage, Amtsführung, Machtkritik oder politische Entscheidung betrifft, desto stärker ist die Meinungsfreiheit.
 
-## Output
-
-Erstelle immer:
-
-- **Kurzbild:** Tatvorwurf, Stand, Frist, schlimmstes Risiko.
-- **§-188-Ampel:** Basisdelikt / Öffentlichkeit / politische Rolle / Motiv / Erschwerung / Art. 5 GG.
-- **Drei Verteidigungslinien:** Hauptlinie, Hilfslinie, Verfahrenslinie.
-- **Beweisliste:** welche Screenshots, Links, Zeugen, Metadaten, Videodateien und Kontextstücke fehlen.
-- **Nächster Schriftsatz:** Akteneinsicht, Einstellungsanregung, Einspruch oder Erwiderung im Eröffnungsverfahren.
-
 ## Muster-Kern
 
 > Die Äußerung ist nicht isoliert, sondern im Gesamtzusammenhang der politischen Auseinandersetzung über [Thema] zu würdigen. Sie betrifft nicht die private Person des Anzeigeerstatters, sondern dessen öffentliches Handeln im Zusammenhang mit [Amt/Entscheidung]. Eine Deutung als reine Herabsetzung wird der Aussage nicht gerecht. Jedenfalls fehlt es an der für § 188 StGB zusätzlich erforderlichen Eignung, das öffentliche Wirken erheblich zu erschweren.
-
-## Querverweise
-
-- `strafrecht-spezial-188-stgb-anklage-und-strafbefehl`
-- `strafrecht-spezial-188-stgb-social-media-beweise`
-- `strafrecht-spezial-188-stgb-art5-schrift-und-hv`
-- `fachanwalt-strafrecht-einlassung-vorbereiten`
-- `strafprozess-rechtsmittel-und-notfristencockpit`
 
 ## Quellen-Gate
 
@@ -115,10 +91,6 @@ Erstelle immer:
 **Fokus:** Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram, TikTok, Telegram, WhatsApp, Blogs, Kommentarspalten und Demonstrationsvideos. Prüft Account-Zuordnung, Öffentlichkeit, Verbreiten eines Inhalts (§ 11 Abs. 3 StGB), Screenshot-Fallen, Thread-Kontext, Reichweite, Bot-/Share-Dynamik, Löschung, Plattformauskunft und Beweisanträge.
 
 ### § 188 StGB — Social Media, Screenshots und Kontext
-
-## Einsatz
-
-Anwendungsfall: der Tatvorwurf aus einem Post, Repost, Kommentar, Meme, Video, Story, Chat-Screenshot, Demonstrationsclip oder Blogbeitrag entsteht. In §-188-Verfahren ist der Screenshot oft die halbe Wahrheit: Verteidigung muss zeigen, was davor, danach, darunter und daneben stand.
 
 ## Sofort sichern
 
@@ -161,14 +133,6 @@ Je nach Verfahrensstand:
 - Originalvideo oder vollständigen Stream statt Kurzclip beiziehen,
 - Sachverständigen nur bei technisch streitiger Authentizität, Deepfake, Manipulation oder Bot-/Reichweitenanalyse erwägen,
 - bei polizeilicher Sicherung Datenträger, Exportprotokoll, Hashwerte und Auswertungsvermerk prüfen.
-
-## Output
-
-- Beweis- und Kontextmatrix.
-- Lückenliste für Akteneinsicht.
-- Beweisantragsideen.
-- Mandanteninstruktion: nicht löschen, nicht erklären, nicht nachposten, keine Direktnachrichten an Anzeigeerstatter.
-- Schriftsatzbaustein gegen isolierte Screenshot-Verwertung.
 
 ## Musterbaustein
 
@@ -265,12 +229,6 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 
 **Hilfsbeweisantrag:** "Es wird beantragt, die Bodycam-Aufnahme der Beamtin X vom DD.MM.JJJJ um 21:34 Uhr in der Hauptverhandlung in Augenschein zu nehmen zum Beweis der Tatsache, dass der Geschaedigte zum Zeitpunkt des Schlages keinen aktiven Widerstand geleistet hat."
 
-## Querverweise
-
-- `strafrecht-spezial-koerperverletzung-223-stgb-grund`
-- `strafrecht-spezial-rechtsbeugung-339-stgb`
-- `strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 340 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -282,14 +240,6 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 - BGH staendige Rspr. zur Abgrenzung zwischen rechtmäßiger Amtsausuebung und Koerperverletzung im Amt.
 - BVerfG-Rechtsprechung zur Polizeigewalt und Verhaeltnismaessigkeit (Art 2 II GG).
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
 
@@ -397,15 +347,6 @@ Spiegelbildlich zu § 332 StGB.
 
 "Der Mandant ist bereit, im Wege der Aufklaerungshilfe gemaess § 46b StGB umfassend ueber die Korruptionsstrukturen im [Behörde] auszusagen. Er hat insbesondere Kenntnis ueber die Rolle der Personen [Namen] und kann zur Aufklaerung folgender weiterer Taten beitragen: [...]. Es wird eine Strafmilderung nach § 49 Abs. 1 StGB beantragt."
 
-## Querverweise
-
-- `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb`
-- `strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis`
-- `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
-
 ## Quellen Stand 06/2026
 
 - § 332 StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/__332.html.
@@ -506,14 +447,6 @@ AMG kennt keine "nicht geringe Menge" wie BtMG. Mengenfragen werden ueber § 96 
 
 **Antrag § 153a StPO bei Online-Bestellung Erstfall:**
 "In dem Verfahren wegen Verstosses gegen § 95 AMG (Online-Bestellung verschreibungspflichtiger Arzneimittel zum Eigenkonsum) wird angeregt, das Verfahren gemaess § 153a Abs. 1 StPO gegen Auflage einer Geldzahlung von [X] EUR an eine gemeinnuetzige Einrichtung einzustellen. Mein Mandant ist Erstaeter, hat die Bestellung im Glauben an die Legalitaet getaetigt und sich umfassend kooperativ verhalten."
-
-## Querverweise
-
-- `strafrecht-spezial-btmg-29-grundtatbestand`
-- `strafrecht-spezial-npsg-neue-psychoaktive-stoffe`
-- `strafrecht-spezial-btmg-strafverfahren-praxis`
-- `fachanwalt-medizinrecht` (Plugin)
-- `fachanwalt-strafrecht-orientierung`
 
 ## Quellen Stand 06/2026
 
@@ -617,11 +550,6 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 
 **Hilfsbeweisantrag:** "Es wird beantragt, das Protokoll der Vernehmung vom DD.MM.JJJJ vollstaendig zu verlesen. Es wird sich zeigen, dass die Aussage meines Mandanten nicht den ihm zur Last gelegten Inhalt hatte."
 
-## Querverweise
-
-- `strafrecht-spezial-aussagedelikte-154-stgb-meineid`
-- `strafrecht-spezial-rechtsbeugung-339-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 153 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -633,14 +561,6 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 - BGH staendige Rspr. zur Tatbestandsbegrenzung "vor Gericht oder einer zur eidlichen Vernehmung zuständigen Stelle".
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 7. `strafrecht-spezial-aussagedelikte-154-stgb-meineid`
 
@@ -724,11 +644,6 @@ Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstrafe. Voraussetzung ist **Fa
 
 **Antrag minder schwerer Fall Paragraph 154 Abs 3 StGB:** "Es wird beantragt, einen minder schweren Fall nach Paragraph 154 Abs 3 StGB anzunehmen. Der Eid wurde im Rahmen einer mehrstuendigen Vernehmung in einer ausschliesslich auf Erinnerung gestuetzten Aussage geleistet; mein Mandant hatte keine Zeit, sich auf die Aussage vorzubereiten."
 
-## Querverweise
-
-- `strafrecht-spezial-aussagedelikte-153-stgb-uneidlich`
-- `strafrecht-spezial-rechtsbeugung-339-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 154 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -740,14 +655,6 @@ Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstrafe. Voraussetzung ist **Fa
 - Paragraph 391 ff. ZPO Zeugenvereidigung im Zivilprozess.
 - BGH staendige Rspr. zur Voraussetzung wirksamer Vereidigung.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 8. `strafrecht-spezial-aussagepsy-glaubhaftigkeit-glaubwuerdigkeit`
 
@@ -812,15 +719,6 @@ Im Plaedoyer trennen Sie die Begriffe explizit: "Es ist zu unterscheiden zwische
 
 **Mustersatz für Plaedoyer:**
 "Wenn das Gericht den Eindruck haben sollte, die Zeugin sei eine glaubwuerdige Person, ist dies nachvollziehbar. Es ist jedoch methodisch nicht das Pruefkriterium. Massgeblich ist die Glaubhaftigkeit der Aussage, und diese ist nach der Hypothesen-gegen-Hypothesen-Methode des BGH zu pruefen. Die Methode verlangt, dass alle plausiblen Alternativen ausgeschlossen werden — Suggestion, Falscherinnerung, Motivation. Diese Alternativen sind hier nicht ausgeschlossen. Damit ist die Verurteilung nicht zu tragen."
-
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
-- `strafrecht-spezial-aussagepsychologie-aussagetuechtigkeit-aussagebereitschaft`
-- `strafrecht-spezial-aussagepsychologie-emotionsbewertung-mimik-gefahren`
-- `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
 
 ## Quellen Stand 06/2026
 
@@ -895,14 +793,6 @@ Im Plaedoyer arbeiten Sie strukturiert: "Die Wiedererkennens-Aussage der Zeugin 
 **Mustersatz für Plaedoyer:**
 "Eine sichere, ueberzeugt vorgetragene Wiedererkennens-Aussage ist nicht gleichbedeutend mit einer richtigen Identifizierung. Die psychologische Forschung ist hier seit Jahrzehnten eindeutig: Subjektive Sicherheit und objektive Richtigkeit korrelieren nur schwach. Die Zeugin moege subjektiv sicher sein — das aendert nichts daran, dass die objektiven Bedingungen ihrer Wahrnehmung [Nacht, Distanz, Stress, weapon focus] der korrekten Identifizierung methodisch entgegenstehen. Damit kann das Gericht nicht von der noetigen Sicherheit ausgehen."
 
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
-
 ## Quellen Stand 06/2026
 
 - BGH staendige Rechtsprechung zur Beweiswuerdigung der Identifizierung durch Wahllichtbildvorlage (Aktenzeichen mit aktueller BGH-Linie verifizieren).
@@ -971,14 +861,6 @@ Im Plaedoyer methodisch und respektvoll: "Es ist eine menschliche und legitime T
 **Mustersatz für Plaedoyer:**
 "Bitte verzeihen Sie, wenn ich Ihnen widerspreche: Auch das geuebte Auge erkennt Luegen nicht. Die Luegenerkennungsforschung ist hier seit Jahrzehnten konsistent. Polizeiliche Erfahrung und richterliche Routine bringen statistisch keinen relevanten Vorteil gegenueber dem Zufall. Das macht die Eindrucksbewertung nicht wertlos — sie ist menschlich und unvermeidbar. Aber sie ersetzt nicht die methodische Pruefung. Und diese ist hier nicht im Sinne der Hypothesen-gegen-Hypothesen-Methode geleistet."
 
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-glaubhaftigkeit-vs-glaubwuerdigkeit`
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis`
-- `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
-
 ## Quellen Stand 06/2026
 
 - BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (methodische Anforderung an Beweiswuerdigung, nicht Eindrucksbewertung).
@@ -988,3 +870,4 @@ Im Plaedoyer methodisch und respektvoll: "Es ist eine menschliche und legitime T
 - Vrij, A., Detecting Lies and Deceit (Lehrbuch-Bezug, generisch).
 - Methodik siehe `references/methodik-buergerliches-recht.md` (entsprechend).
 - Zitierregeln siehe `references/zitierweise.md`.
+

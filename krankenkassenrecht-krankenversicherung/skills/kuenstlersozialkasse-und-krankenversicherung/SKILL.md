@@ -5,10 +5,6 @@ description: "Kranken- und Rentenversicherung über die KSK (KSVG): Versicherung
 
 # Künstlersozialkasse und Krankenversicherung
 
-## Arbeitsbereich
-
-Kranken- und Rentenversicherung über die KSK (KSVG): Versicherungspflicht, Beitragsbemessung, Einkünftemeldepflicht und Prüfungen durch KSK/Rentenversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Die Künstlersozialkasse (KSK) ermöglicht selbstständigen Künstlern und Publi
 - [§ 10 KSVG – Meldepflicht](https://www.gesetze-im-internet.de/ksvg/__10.html)
 - [dejure.org KSVG](https://dejure.org/gesetze/KSVG)
 - [GKV-Spitzenverband KSK](https://www.gkv-spitzenverband.de)
+

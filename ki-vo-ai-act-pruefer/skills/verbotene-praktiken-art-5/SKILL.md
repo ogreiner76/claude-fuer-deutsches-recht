@@ -5,10 +5,6 @@ description: "Unternehmen prüft ob ein KI-Einsatz in den Bereich der absolut ve
 
 # Verbotene Praktiken — Art. 5 KI-VO (Entscheidungsbaum)
 
-## Zweck
-
-Art. 5 KI-VO enthält einen abschließenden Katalog von acht verbotenen KI-Praktiken. Diese Verbote sind seit dem 2. Februar 2025 anwendbar und mit den höchsten Sanktionen bewehrt (bis zu 35 Mio EUR oder sieben Prozent des weltweiten Jahresumsatzes). Dieser Skill prüft alle acht Verbotstatbestände systematisch.
-
 ## Verbotene Praktik 1 — Subliminale und manipulative Techniken (Art. 5 Abs. 1 lit. a KI-VO)
 
 **Tatbestand:** KI-Systeme, die subliminale Techniken einsetzen, die einer Person nicht bewusst sind, oder täuschende Techniken, um die Autonomie, Entscheidungsfindung oder freie Meinungsbildung einer Person durch das Verzerren der Wahrnehmung zu unterlaufen.
@@ -139,3 +135,4 @@ Ergebnis: [KEIN VERBOT / VERBOT: lit. X — Sanktion bis 35 Mio. EUR Art. 99 Abs
 Naechster Schritt: [EINSTELLUNG DES BETRIEBS / sachlicher-ausschluss-art-2 / Weiter-Pruefung]
 Geprueft: [NAME], [DATUM]
 ```
+

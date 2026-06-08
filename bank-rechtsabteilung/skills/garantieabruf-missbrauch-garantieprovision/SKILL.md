@@ -5,10 +5,6 @@ description: "Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern
 
 # Garantieabruf, Missbrauch und Zahlungsstopp
 
-## Arbeitsbereich
-
-Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall steuern: formale Prüfung, Missbrauchseinwand, Zahlungsstopp, einstweiliger Rechtsschutz, Kundenkommunikation und Regress. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -100,3 +96,4 @@ Erzeuge je nach Auftrag:
 - `sanktionsscreening-embargo-bank`
 - `kreditsicherheiten-bestellung-verwertung`
 - `externe-anwaelte-steuerung`
+

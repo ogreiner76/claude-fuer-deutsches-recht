@@ -110,14 +110,9 @@ VI. Belehrung nach § 268a Abs. 3 StPO.
 - **Auflagenangebote** zu spaet (erst nach Verkuendung): wirkt nicht mehr strafzumessend.
 - **Standardauflage** ohne Bezug zur Tat: schwaecht Wirkung.
 
-## Querverweise
-
-- `bewaehrung-56-stgb-positive-sozialprognose` — vor Auflagen/Weisungen.
-- `bewaehrungswiderruf-56f-stgb` — bei Verletzung von Auflagen.
-- `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` — Schadenswiedergutmachung.
-
 ## Quellen und Stand 05/2026
 
 - §§ 56b, 56c, 56d, 56g StGB in der geltenden Fassung.
 - §§ 268a, 305a, 311 StPO.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

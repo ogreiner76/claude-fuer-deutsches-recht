@@ -5,10 +5,6 @@ description: "M&A-Transaktionen in VR China: Due-Diligence-Besonderheiten (SAMR-
 
 # M&A in China: Due Diligence und Transaktionsstruktur
 
-## Arbeitsbereich
-
-M&A-Transaktionen in VR China: Due-Diligence-Besonderheiten (SAMR-Genehmigung, Antimonopol-Gesetz AMG CN 2022), FIL-Compliance, Datenschutz (PIPL) bei Datenraum, Technologietransfer-Risiken, Deregistrierung/Exit-Klauseln, AWV-Meldung DE-Seite, HSR-Analogon China. Output: M&A-Prüfliste und Transaktionsstruktur-Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,13 +80,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
 
-## Output
-
-Prüfbericht M&A China, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
-
 ## Quellen
 
 Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
@@ -101,3 +90,4 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+

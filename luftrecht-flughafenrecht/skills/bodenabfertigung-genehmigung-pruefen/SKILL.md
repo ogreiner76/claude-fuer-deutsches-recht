@@ -5,10 +5,6 @@ description: "Bodenabfertigungsdienstleister braucht Zulassung nach BADV oder Ge
 
 # Bodenabfertigung – Genehmigung prüfen
 
-## Arbeitsbereich
-
-Bodenabfertigungsdienstleister braucht Zulassung nach BADV oder Genehmigung des Flughafenbetreibers. Skill prueft BADV EU-RL 96/67 EG Zulassungsvoraussetzungen LuftSiG-Anforderungen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,6 +44,7 @@ BADV EU-RL 96/67 EG LuftSiG § 7 LuftVG § 6 – die einschlägigen Normen werde
 - **BADV § 16**: Auswahlverfahren bei Kapazitätsbeschränkung; Vergabekommission.
 - **EU-Richtlinie 96/67/EG Art. 6**: Marktöffnung für Bodenabfertigungsdienste.
 - **LuftVG § 45**: Haftung bei Bodenabfertigungsschäden; Verweis auf allg. Deliktsrecht.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -58,6 +55,7 @@ BADV EU-RL 96/67 EG LuftSiG § 7 LuftVG § 6 – die einschlägigen Normen werde
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Genehmigung nach BADV § 3 aktuell und umfasst die tatsächlich erbrachten Dienste?
 8. Hat Flughafen Kapazitätsbeschränkung nach BADV § 16 rechtmäßig festgesetzt?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -76,9 +74,6 @@ Das luftrechtliche Genehmigungsrecht ist mehrschichtig:
 - **Einzelgenehmigungen**: Nichtplanmäßige Flüge Überflüge fremden Staatsgebiets Sonderlasten erfordern gesonderte Genehmigung.
 - **Genehmigungsversagung**: Anfechtungsklage vor VG; aufschiebende Wirkung nach § 80 VwGO als Sofortmaßnahme beantragen.
 
-## Output
-
-Strukturierter Vermerk zu Bodenabfertigung – Genehmigung prüfen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. BADV-Compliance-Checkliste. Vergabeverfahrens-Protokoll. Selbstabfertigungs-Antrag.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -107,3 +102,4 @@ Für Mandate im Bereich Bodenabfertigungsdienste und Selbstabfertigungsrecht sin
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

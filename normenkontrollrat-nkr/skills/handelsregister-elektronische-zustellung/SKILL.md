@@ -135,14 +135,6 @@ Ersparnis: rund **240 Mio EUR jaehrlich**.
 - Mehrere Standards parallel ohne Schnittstellen-Spezifikation
 - Konsequenz Loeschung aus Handelsregister ohne Abstufung
 
-## Querverweise
-
-- `nkr-digitalcheck-und-onlinezugangsgesetz-ozg`
-- `nkr-eu-richtlinien-umsetzung-und-goldplating`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-praktikabilitaet-vollzug-test`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - HGB; HRV in der jeweils geltenden Fassung
@@ -155,3 +147,4 @@ Ersparnis: rund **240 Mio EUR jaehrlich**.
 - Statistisches Bundesamt — Unternehmensregister
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.destatis.de](https://www.destatis.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundesjustizportal.de](https://www.handelsregister.de)
+

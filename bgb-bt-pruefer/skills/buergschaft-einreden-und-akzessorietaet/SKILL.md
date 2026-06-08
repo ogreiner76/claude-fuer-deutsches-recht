@@ -10,10 +10,6 @@ description: "Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 7
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Akzessorietätsprinzip und Einreden des Bürgen nach §§ 768–770 BGB prüfen: welche Einreden stehen dem Bürgen zu und wie wirken Veränderungen der Hauptschuld auf die Bürgschaft.
-
 ## Normanker
 
 - § 765 BGB: Bürgschaftsvertrag (Grundnorm)
@@ -50,25 +46,13 @@ Akzessorietätsprinzip und Einreden des Bürgen nach §§ 768–770 BGB prüfen:
 - § 776 BGB: Aufgabe von Pfandrecht oder anderen Sicherheiten befreit Bürgen nur anteilig.
 - Bürgschaftsschuld kann über die ursprüngliche Hauptschuld hinausgehen, wenn Zinsen und Nebenforderungen vereinbart wurden.
 - Einreden aus der Hauptschuld sind vom Bürgen eigenständig geltend zu machen.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Einreden-Matrix (Hauptschuld-Einreden und bürgschaftsspezifische Einreden)
-- Akzessorietätsprüfung mit Zeitlinie
-- Selbstschuldnerische vs. subsidiäre Bürgschaft: Unterschiede und Rechtsfolgen
-- Risikoampel und Handlungsempfehlungen
-
-## Qualitätsregeln
-
-- Akzessorietät immer als Grundsatz voranstellen und Ausnahmen gesondert markieren.
-- § 776 BGB-Einrede nur bei tatsächlichem Sicherheitenausfall prüfen.
-- Mitbürgschaft-Innenausgleich gesondert behandeln.
 
 ## Anschluss-Skills
 
@@ -77,10 +61,3 @@ Akzessorietätsprinzip und Einreden des Bürgen nach §§ 768–770 BGB prüfen:
 - gesamtschuld-und-regress-bgb-bt
 - workflow-anspruchslandkarte
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -19,12 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Zweck
-
-Dieser Skill konfiguriert das Plugin einmalig auf Ihre Praxis: Welche Behörden beobachten Sie? Welche Richtlinien haben Sie? Was ist für Sie wesentlich? Das Ergebnis ist ein befülltes Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md`, auf das alle anderen Skills zugreifen.
-
-**Dieser Skill ist der einzige, der ohne befülltes Praxisprofil ausgeführt werden darf.** Alle anderen Skills stoppen und verweisen hierher, solange `[PLATZHALTER]`-Marker im Profil vorhanden sind.
-
 ## Eingaben
 
 - Keine Vorbereitung erforderlich – der Skill führt Sie durch alles.
@@ -159,12 +153,6 @@ Einschlägige Normen dieses Skills:
 - § 203 StGB (Anwaltsgeheimnis)
 - BORA §§ 2, 6 (Berufspflichten)
 
-## Ausgabeformat
-
-- Interaktives Gesprächsformat (Frage → Antwort → nächste Frage)
-- Abschließend: Übersichts-Tabelle des erstellten Profils
-- Schreiben in CLAUDE.md, keine separate Ausgabedatei
-
 ## Beispiel
 
 **Eingabe:** `/regulatorisches-recht:regulatorisches-recht-kaltstart-interview`
@@ -202,6 +190,7 @@ Praxisprofil wurde gespeichert. Zusammenfassung:
 - **Falsche Rollenauswahl:** Wenn ein Nicht-Jurist das Plugin als "Rechtsanwalt" konfiguriert, fehlt der Hinweis auf erforderliche Anwaltsprüfung. Bei Zweifeln zum nicht-juristischen Modus default.
 - **Materialitätsschwelle zu niedrig gesetzt:** Führt zu Alert-Flut; jeder Feed-Eintrag wird als wesentlich markiert. Lieber hoch einsetzen und nach 2 Wochen nachjustieren.
 - **Keine Richtlinienbibliothek verbunden:** Policy-Diff und Gap-Analyse laufen gegen eingefügten Inhalt; qualitativ deutlich schlechter als gegen indizierte Dokumente.
+
 ## Aktuelle Rechtsprechung & Leitsätze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -209,3 +198,4 @@ Praxisprofil wurde gespeichert. Zusammenfassung:
 **Kernnormen:** §§ 611-630 BGB — §§ 48-49 VwVfG — Art. 288 AEUV
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+

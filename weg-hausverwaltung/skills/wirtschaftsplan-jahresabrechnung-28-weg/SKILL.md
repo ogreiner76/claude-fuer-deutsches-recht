@@ -65,14 +65,6 @@ Finanzunterlagen der GdWE verwaltungspraktisch und beschlussrechtlich kontrollie
 - Rücklagenentnahme für beschlossene Maßnahme: Rücklagenkonto an Bank/Rechnung Handwerker.
 - Sonderumlage: Sonderumlage-Forderung Eigentümer an Sonderumlage-Erlös; Bank an Sonderumlage-Forderung bei Zahlung.
 
-## Output
-
-- Prüfmatrix Abrechnung (Schlüssel, Verteilung, Plausibilität, Konto)
-- Fragen an Verwalter/Buchhaltung
-- Beschlussvorschlag Abrechnungsspitzen
-- Beschlussvorschlag Schlüsseländerung mit sachlichem Grund
-- Beiratsnotiz mit Risikoampel
-
 ## Cross-Refs
 
 - Liquiditätsprüfung, Sonderumlage → `hausgeld-sonderumlage-liquiditaet`
@@ -84,10 +76,3 @@ Finanzunterlagen der GdWE verwaltungspraktisch und beschlussrechtlich kontrollie
 
 `rechtsstand-mai-2026-faktenbank` zwingend laden. Rechtsprechungsaussagen nur mit Gericht, Datum, Aktenzeichen und offen prüfbarer Quelle.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

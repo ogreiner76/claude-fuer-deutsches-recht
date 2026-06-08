@@ -5,10 +5,6 @@ description: "Römisches Recht: Rei Vindicatio. Geführter Fachmodul mit Quellen
 
 # Rei Vindicatio
 
-## Arbeitsauftrag
-
-Dieser Skill bearbeitet **Rei Vindicatio** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
-
 ## Sofortsortierung
 
 1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
@@ -38,17 +34,6 @@ Dieser Skill bearbeitet **Rei Vindicatio** im Plugin **Römisches Recht**. Er bl
 - Risikoampel mit nächstem Schritt
 - Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
 
-## Red-Team-Fragen
-
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
-
-## Quellenregel
-
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
 ## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
 
 ### Schluesselstellen
@@ -75,3 +60,4 @@ Sachverhalt: A hat Vase; B stiehlt sie; B verkauft sie an C, der nichts weiss; n
 - Boesglaeubiger Besitzer: Haftung ab Besitzbegin.
 - Gutglaeubiger Besitzer: Haftung erst ab Klageerhebung (litiscontestation).
 - Heute: §§ 987-993 BGB Eigentuemer-Besitzer-Verhaeltnis — sehr aehnliches System.
+

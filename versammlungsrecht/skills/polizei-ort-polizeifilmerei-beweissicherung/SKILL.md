@@ -5,10 +5,6 @@ description: "Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auf
 
 # Vor Ort ruhig und dokumentiert
 
-## Arbeitsbereich
-
-Gibt Leitfaden für Kommunikation mit Einsatzleitung, Störer, Auflösung, Durchsuchung und Platzverweise am Versammlungstag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,9 +23,6 @@ Leitung spricht gebearbeitet mit der Einsatzleitung; Ordner geben keine Rechtsgu
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
 
-## Arbeitsweise
-Dokumentiere Uhrzeit, Anordnung, Person, Begründung, Zeugen, Video, Widerspruch im Ton, nicht im Chaos.
-
 ## Wenn Die Polizei Filmen Verbietet
 
 1. Ruhig bleiben, Abstand halten, Maßnahme nicht stören.
@@ -45,9 +38,6 @@ Dokumentiere Uhrzeit, Anordnung, Person, Begründung, Zeugen, Video, Widerspruch
 - Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
 - Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
 
-## Output
-Output: Einsatzkarte, Notfalltelefonliste und Protokollschema.
-
 ## Qualitätsgate
 - Wurde das richtige Landesrecht verwendet?
 - Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
@@ -60,3 +50,4 @@ Output: Einsatzkarte, Notfalltelefonliste und Protokollschema.
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+

@@ -127,14 +127,7 @@ Bei Amtsgericht (siehe `beratungshilfe-vor-widerspruch-brh`).
 - Anwalt suchen, der kein Sozialrecht kann → Fachanwalt suchen
 - Mandat ohne PKH-Antrag → Kosten-Risiko
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `anwaltszwang-pruefen-73-sgg` — Anwalt allgemein
-- `beratungshilfe-vor-widerspruch-brh` — Beratungshilfe
-- `pkh-vor-sozialgericht-73a-sgg` — PKH
-- `berufung-lsg-144-sgg-wertgrenze-750` — Berufung
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxisempfehlung.
+

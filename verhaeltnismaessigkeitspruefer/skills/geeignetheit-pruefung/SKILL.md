@@ -46,7 +46,3 @@ Drei Kontrolldichten:
 - Geeignetheit verneint wurde in BVerfGE selten; die meisten Faelle
   scheitern erst an Erforderlichkeit oder Angemessenheit.
 
-## Output
-
-Kurzpruefung Geeignet ja oder nein mit Begruendung in zwei Saetzen.
-Bei Prognosen Verweis auf Kontrolldichte.

@@ -5,10 +5,6 @@ description: "Einstweiliger Rechtsschutz nach § 86b SGG: Anordnungsanspruch, An
 
 # Eilverfahren Sozialgericht: Medizinische Dringlichkeit
 
-## Arbeitsbereich
-
-Einstweiliger Rechtsschutz nach § 86b SGG: Anordnungsanspruch, Anordnungsgrund, medizinische Dringlichkeit und Glaubhaftmachung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Bei drohender Gesundheitsverschlechterung kann nicht auf den Abschluss des Wider
 - [BSG Eilrechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 86b SGG](https://dejure.org/gesetze/SGG/86b.html)
 - [Art. 19 Abs. 4 GG](https://www.gesetze-im-internet.de/gg/art_19.html)
+

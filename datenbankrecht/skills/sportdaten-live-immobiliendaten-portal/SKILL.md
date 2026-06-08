@@ -5,10 +5,6 @@ description: "Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/W
 
 # Sportdaten, Live-Daten und Ergebnislisten — Datenbankrecht im Sport
 
-## Arbeitsbereich
-
-Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): 
 - Exklusive Datenlizenzierungsverträge können kartellrechtliche Probleme aufwerfen, wenn ein Veranstalter marktbeherrschende Stellung hat.
 - Historische Datenbankbestände genießen oft anderen Schutz als tagesaktuelle Live-Daten — Schutzdauer (§ 87d UrhG) prüfen.
 
-## Output
-
-- Datenbankschutz-Gutachten für Sportdaten (BHB/William Hill-Subsumtion)
-- Investitionsnachweis-Schema für Statistikdatenbanken
-- Lizenzvertrag-Vorlage für Live-Sportdaten-APIs
-- Wettbewerbsrechtliche Alternativanalyse (§ 4 Nr. 3 UWG)
-- Marktmissbrauchs-Risikocheck für exklusive Sportdatenlizenz
-
 ## Quellen
 
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
@@ -75,3 +63,4 @@ Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): 
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

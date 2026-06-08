@@ -5,10 +5,6 @@ description: "Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Fo
 
 # Regress, Forderungsübergang und Sicherheitenfreigabe
 
-## Arbeitsbereich
-
-Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsübergang § 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Insolvenz und Vergleich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsüberg
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Wenn die Bank gezahlt hat, beginnt die zweite Halbzeit: Rückgriff, Sicherheiten, Mitbürgen, Freigaben, Insolvenzrisiko und Kommunikation. Dieser Skill sorgt dafür, dass der Liquiditätsservice der Bank nicht zum ungeordneten Verlust wird.
 
 ## Normenanker
 
@@ -68,3 +60,4 @@ Erzeuge:
 - `restrukturierung-kreditengagement`
 - `kreditsicherheiten-bestellung-verwertung`
 - `litigation-schlichtung-prozess`
+

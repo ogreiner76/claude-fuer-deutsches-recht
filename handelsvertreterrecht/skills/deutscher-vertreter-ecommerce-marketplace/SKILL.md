@@ -5,10 +5,6 @@ description: "Unterstützt deutsche Handelsvertreter, die für ausländische Unt
 
 # Deutscher Handelsvertreter für ausländischen Unternehmer — Rechtsschutz und Gerichtsstand
 
-## Arbeitsbereich
-
-Unterstützt deutsche Handelsvertreter, die für ausländische Unternehmer tätig sind: anwendbares Recht nach Rom-I-VO, Schutz durch § 92c HGB und RL 86/653/EWG auch bei ausländischer Rechtswahl, Gerichtsstand in Deutschland und Durchsetzung von Ausgleichsansprüchen gegen ausländische Unternehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Vollstreckung in USA ohne bilaterales Anerkennungsabkommen kaum möglich.
 - § 92c HGB schützt nur in Deutschland tätige Handelsvertreter — Tätigkeitsort entscheidend.
 
-## Output
-
-Rechtsgutachten anwendbares Recht, Klageschrift mit Gerichtsstandsbegründung, Vollstreckungsplan.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [EuGVVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
 - [Dejure § 92c HGB](https://dejure.org/gesetze/HGB/92c.html)
+

@@ -59,6 +59,3 @@ Mängelrügen, Schadensersatzforderungen und Vertragsaufhebungserklärungen unte
 - Schadensersatz-Forderungsschreiben-Muster (Art. 74-77 CISG)
 - Aufhebungserklärung-Muster (Art. 26 CISG)
 
-## Quellenregel
-
-CISG Art. 26, 39, 74-78: uncitral.un.org. Schrifttum: Lookofsky, CISG (2017) Art. 39. CISG-Rspr.: CISG-online.ch. Unsicherheit bleibt sichtbar.

@@ -5,10 +5,6 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Ve
 
 # Versandhandel und E-Rezept Intake
 
-## Arbeitsbereich
-
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versandhandel und E-Rezept Intake. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -100,15 +96,6 @@ Eingaben:
 - EU-Versandapotheke ohne DEAS-Eintrag — Patient kauft, Apotheke wird wegen unerlaubten Versands verfolgt.
 - Identitätsprüfung Empfänger bei Rx-Versand fehlt — Doppelabgabe an Dritte.
 
-## Querverweise
-
-- `versandhandelserlaubnis-eu-versandapotheke` (EU-Konstellation)
-- `e-rezept-ti-gematik-apothekenprozess` (E-Rezept-Workflow)
-- `kuehlkette-temperaturmonitoring-gdp` (Transport)
-- `preisbindung-arzneimittel-ampreisv` (Preisbindung)
-- `onlinewerbung-hwg-apotheken` (Werbung)
-- `rezeptsammelstelle-botendienst-versandhandel` (Abgrenzung)
-
 ## Quellen Stand 06/2026
 
 - ApoG § 11a; AMG §§ 43, 73; AMVV; SGB V § 360.
@@ -116,3 +103,4 @@ Eingaben:
 - BGH staend. Rspr. zum Apothekenversand und Wettbewerbsrecht.
 - EuGH staend. Rspr. zur Grenzüberschreitung (DocMorris).
 - ABDA-Hinweise zum Versandhandel (vom Anwender zu verifizieren).
+

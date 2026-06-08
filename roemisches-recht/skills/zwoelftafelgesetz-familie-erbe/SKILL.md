@@ -22,11 +22,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Aufgabe
-
-Dieser Skill erschließt die Zwölftafeltradition für **Familienordnung, Erbfolge, Vormundschaft und Nachbarschaftskonflikte**. Er zeigt, wie stark frühes römisches Recht Hausverband, Status und Grundstücksnachbarschaft als Ordnungseinheiten denkt.
-
 ## Startfragen
 
 1. Geht es um pater familias, Gewaltverhältnis, Agnation, Vormundschaft, Testament, gesetzliche Erbfolge oder Nachbarrecht?
@@ -47,3 +42,4 @@ Dieser Skill erschließt die Zwölftafeltradition für **Familienordnung, Erbfol
 - Grundstücks- und Nachbarschaftskarte.
 - Kurzer Vergleich mit moderner Privatautonomie und Gleichheitsordnung.
 - Red-Team-Hinweise gegen anachronistische Idealisierung.
+

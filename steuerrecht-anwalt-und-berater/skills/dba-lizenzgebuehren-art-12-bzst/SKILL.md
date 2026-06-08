@@ -96,14 +96,6 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 1. § 34c EStG-Anrechnung beim ausländischen Empfaenger.
 2. Anlage AUS / Anlage EUer.
 
-## Output
-
-- **Mandanten-Memo Lizenzgebuehren-Besteuerung**.
-- **DBA-Hoechstsatz-Pruefungstabelle** mit ZinsLizenzRL-Vergleich.
-- **BZSt-Antragspaket**.
-- **Berechnungsbeispiel**.
-- **Lizenzschranke § 4j EStG-Pruefung**.
-
 ## Strategie und Praxis-Tipps
 
 - ZinsLizenzRL (0 Prozent) bei verbundenen EU-Unternehmen guenstiger als DBA-Hoechstsatz — Empfaengergunst-Pruefung.
@@ -179,23 +171,9 @@ Sachverhalt: Deutsche GmbH zahlt Softwarelizenz an US-Schwester (verbunden, > 50
 
 (**Werte sind Beispiel — DBA-USA-Text, MLI-Status (USA haben MLI nicht ratifiziert), § 4j EStG-OECD-Liste konkret nachpruefen.**)
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.
-- `stb-dba-dividenden-quellensteuer-art-10` — paralleler Skill Dividenden.
-- `stb-dba-russland-suspendierung-2024` — Suspendierung Russland.
-- Landesspezifische DBA-Skills.
-
 ## Quellen und Updates
 
 Stand: 05/2026. Art. 12 OECD-MA. § 50a, § 50c, § 50d Abs. 3, § 50g EStG. § 4j EStG. ZinsLizenzRL 2003/49/EG. DBA-spezifische Hoechstsaetze, ZinsLizenzRL-Voraussetzungen und § 4j EStG-Anwendung im BMF-Veroeffentlichungsverzeichnis und freier amtlicher Quelle abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

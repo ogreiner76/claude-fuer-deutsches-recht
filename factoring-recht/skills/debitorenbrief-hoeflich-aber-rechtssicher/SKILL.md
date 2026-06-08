@@ -119,13 +119,6 @@ trotz unserer Erinnerung vom … haben Sie die Rechnung Nr. … in Höhe von …
 - DSGVO-Information vergessen – Aufsichtsrisiko.
 - Verzugsbeginn unklar – Verzugszinsen schwer durchsetzbar.
 
-## Querverweise
-
-- `debitorenkommunikation-und-abtretungsanzeige`
-- `drittschuldneranzeige-und-stille-zession`
-- `datenschutz-debitorendaten-dsgvo-informationspflichten`
-- `inkasso-rdg-abgrenzung-forderungsmanagement`
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 286, 288, 407, 409, 410 zu Verzug und Schuldnerschutz.
@@ -133,3 +126,4 @@ trotz unserer Erinnerung vom … haben Sie die Rechnung Nr. … in Höhe von …
 - UWG § 7 zu unzumutbarer Belästigung.
 - RDG § 31a zu Inkassodienstleistungen (Verbraucherbezug).
 - BGH zur Wirksamkeit der Abtretungsanzeige (st. Rspr., amtliche Sammlung).
+

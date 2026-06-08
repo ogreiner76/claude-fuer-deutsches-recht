@@ -5,10 +5,6 @@ description: "Unterstützt bei der rechtlichen Prüfung von Allgemeinen Geschäf
 
 # AGB-Prüfung – Einbeziehung und Inhaltskontrolle
 
-## Arbeitsbereich
-
-Unterstützt bei der rechtlichen Prüfung von Allgemeinen Geschäftsbedingungen (AGB) auf Einbeziehung, Inhaltskontrolle und Transparenzgebot nach §§ 305–310 BGB. Lädt, wenn ein Mandat die Prüfung, Erstellung oder Verteidigung von AGB im B2C- oder B2B-Bereich zum Gegenstand hat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,6 +68,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 1. **Qualifikation als AGB** (§ 305 Abs. 1 BGB): Sind die Klauseln vorformuliert für eine
@@ -97,12 +94,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
  wirksam; dispositives Recht tritt an die Stelle (Lückenfüllung).
 8. **Empfehlung**: Klausel-für-Klausel-Tabelle mit Ampelsystem (grün/gelb/rot) und
  Überarbeitungsvorschlägen.
-
-## Ausgabeformat
-
-- **Prüftabelle** (Klausel | Prüfungsmaßstab | Ergebnis | Überarbeitungsvorschlag)
-- **Rechtliches Memo** (Gutachtenstil) für kritische Klauseln mit ausführlicher Subsumtion
-- Auf Wunsch: **überarbeiteter AGB-Entwurf** mit nachverfolgbaren Änderungen
 
 ## Beispiel
 

@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag u
 
 # Handelsvertreter, Vertriebsvertrag und Franchise
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,16 +48,6 @@ Handelsvertreter (HV), Alleinvertriebshändler und Franchisegeber haben untersch
 - § 89b-Ausgleich: berechnen auf Basis Provisionen der letzten 5 Jahre
 - VBER-Compliance: Gebietsschutz nur in zulässigem Rahmen; Hardcore-Beschränkungen vermeiden
 - Franchise: Disclosure-Dokument für US-Franchising vorbereiten (FTC-Regel)
-
-## Output
-
-- HV vs. Eigenhändler Abgrenzungsmatrix
-- § 89b-Berechnungsschema
-- VBER 2022 Compliance-Checkliste für Vertriebsverträge
-
-## Quellenregel
-
-HGB §§ 84, 89b: gesetze-im-internet.de. EU-HV-RL 86/653/EWG: eur-lex.europa.eu. VBER (EU) 2022/720: eur-lex.europa.eu. FTC Franchise Disclosure: ftc.gov. Unsicherheit bleibt sichtbar.
 
 ## Normen und Rechtsprechung
 

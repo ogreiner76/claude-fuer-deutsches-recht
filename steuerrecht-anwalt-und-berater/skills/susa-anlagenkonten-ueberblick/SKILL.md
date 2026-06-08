@@ -103,12 +103,6 @@ Buero-Ausstattung 15.000 6.000 9.000 — — 1.500 7.500
 - Monatliche Anlagen-Uebersicht in Quartalsberichten.
 - Bei groesseren Investitionen: Beratung zu IAB § 7g EStG.
 
-## Output
-
-- Anlagenspiegel mit Zugaengen, Abgaengen, AfA.
-- Hauptbuch-Anlagenspiegel-Abstimmung.
-- AfA-Buchungsbeleg für SuSa.
-
 ## Strategie und Praxis-Tipps
 
 - Anlagenspiegel und Hauptbuch sollten quartalsweise abgestimmt werden.
@@ -117,14 +111,6 @@ Buero-Ausstattung 15.000 6.000 9.000 — — 1.500 7.500
 - Sonderabschreibungen § 7b EStG: befristet für Bauantraege nach 31.12.2022 und vor 01.10.2029 (EH-40-Standard Pflicht); aktiv bis 2029.
 - StBVV: Anlagenbuchhaltung als separater Auftrag oder in Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV-Anlagenbuchhaltung mit automatischer 1/12-AfA-Buchung in der SuSa (Klickpfad: Anlagenbuchfuehrung → Abschreibungsbuchungen → Buchungsstapel an Rechnungswesen uebergeben).
-
-## Querverweise
-
-- `stb-susa-erstellen-grundlagen` — SuSa-Grundlagen.
-- `stb-jahresabschluss-anlagenverzeichnis-afa` — JA-AfA-Verzeichnis.
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-bwa-aufbau-grundlagen` — BWA.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -139,10 +125,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 8 bestaetigt (§ 7b bis 2029, GWG 800 EUR stabil, Sammelposten 250-1000 EUR stabil, § 7g 40%/50% stabil, BMF AfA-Tabelle AV 15.12.2000), 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

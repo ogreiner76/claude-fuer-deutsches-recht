@@ -5,10 +5,6 @@ description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckg
 
 # Rom 115 Actio Pauliana Glaeubigeranfechtung
 
-## Aufgabe
-
-Skill für die actio Pauliana als historisches Pendant zur modernen Insolvenzanfechtung.
-
 ## Rechtsquelle
 
 - D. 42.8 (Quae in fraudem creditorum facta sunt ut restituantur).
@@ -71,9 +67,3 @@ Skill für die actio Pauliana als historisches Pendant zur modernen Insolvenzanf
 5. Annus utilis nicht abgelaufen?
 6. Quellenmatrix D. 42.8 erstellen.
 
-## Output
-
-- Quellenmatrix mit Digestenstellen.
-- Vergleichende Synopse zu AnfG und §§ 129 ff. InsO.
-- Memo für rechtshistorische und insolvenzrechtliche Fragen.
-- Pruefraster für Hausarbeit oder Schriftsatz.

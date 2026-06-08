@@ -84,15 +84,6 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 - Trainingsdaten aus Mandantenakten – Berufsgeheimnis (§ 43a Abs. 2 BRAO, § 203 StGB) verletzt.
 - Webscraping-Trainingsdaten ohne Rechtsgrundlage.
 
-## Querverweise
-
-- `ropa-art-30-dsgvo-grundlagen` für Basis.
-- `ropa-art-30-controller-deutsch-vorlage` für Grundvorlage.
-- `dsfa-erstellung` für Art. 35 DSGVO.
-- `mandantendaten-ki` (in `kanzleifuehrung-und-mandat` Plugin) für berufsrechtliche Seite.
-- `ki-vo-ai-act-pruefer` (in `ki-vo` Plugin) für KI-Verordnung.
-- `tia-template-deutsch-vollvorlage` für Transferpruefung.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 5, 6, 9, 13, 14, 22, 30, 32, 35.
@@ -101,3 +92,4 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 - BRAO § 43a Abs. 2; § 50; StGB § 203.
 - EDPB Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models (verabschiedet 17.12.2024).
 - DSK: Hambacher Erklaerung zur Kuenstlichen Intelligenz (03.04.2019) und Folgepapiere.
+

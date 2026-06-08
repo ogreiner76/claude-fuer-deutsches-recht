@@ -5,10 +5,6 @@ description: "Erfasst den Anlass der Fortbestehensprognose. Typische Auslöser s
 
 # Auslösendes Ereignis erfassen
 
-## Arbeitsbereich
-
-Erfasst den Anlass der Fortbestehensprognose. Typische Auslöser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftsprüfers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK Liquiditaetsengpass Gesellschafterhinweis eigene Sorge des Geschäftsführers. Dokumentiert Anlass Datum Hinweisgeber Mitteilungsform. Wichtig für spaeteren Nachweis dass der Geschäftsführer auf Insolvenzanzeichen rechtzeitig reagiert hat (Haftungsfrage § 15b InsO). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -123,6 +119,3 @@ Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
 3. **Schriftliche Dokumentation?** E-Mail, Aktenvermerk, Protokoll vorhanden?
 4. **Sofortmassnahmen?** Liquiditaetsplanung starten, Anwalt einschalten, Steuerberater beauftragen?
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

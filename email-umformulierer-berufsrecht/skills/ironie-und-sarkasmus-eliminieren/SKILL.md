@@ -28,9 +28,6 @@ Dieser Skill identifiziert ironische und sarkastische Formulierungen in beruflic
 - Art. 5 GG — Meinungsfreiheit: Schutz scharfer Kritik, nicht von Schmahkritik
 - § 185 StGB — Beleidigung: sarkastische Aussagen koennen Beleidigungscharakter haben
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Warum Ironie und Sarkasmus problematisch sind
 
 In mündlicher Kommunikation kann Ironie durch Tonfall und Körpersprache erkannt werden. Im Schreiben fehlen diese Signale. Selbst wenn die Ironie erkannt wird, verletzt sie: Sie signalisiert Überlegenheit, wertet den Adressaten ab und vergiftet das Kommunikationsklima. Zudem kann Ironie beweisrechtliche Probleme schaffen, wenn das Schreiben in einem Verfahren als Beleg verwendet wird.
@@ -68,6 +65,3 @@ Schritt 1: Ironische/sarkastische Formulierung identifizieren. Schritt 2: Den ta
 **Vorher:** "Ihr,Experte' hat offenbar eine eigene Meinung zum Gesetz."
 **Nachher:** "Die fachliche Einschätzung Ihres Beraters weicht von der geltenden Rechtsprechung ab."
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Identifizierte ironische/sarkastische Stellen mit Zitat. (2) Einordnung (Ironie / Sarkasmus / beides). (3) Tatsächlicher Inhalt der Aussage. (4) Sachliche Alternativformulierung.

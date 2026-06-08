@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amts
 
 # Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung
 
-## Arbeitsbereich
-
-Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung. Umgang mit streitigen Beteiligten im Beurkundungsverfahren, Grenzen der notariellen Mitwirkung und Ablehnung der Beurkundung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -105,3 +101,4 @@ Ausschluss: Notar selbst oder Angehörige sind Beteiligte oder bevollmächtigte 
 - **Mandantenhinweis** (warum Beurkundung abgelehnt wurde)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

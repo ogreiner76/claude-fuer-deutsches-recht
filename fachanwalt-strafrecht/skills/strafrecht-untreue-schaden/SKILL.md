@@ -5,9 +5,6 @@ description: "Untreue Schaden im Strafrecht: prüft konkret Vermoegensschaden be
 
 # Untreue Schaden
 
-## Arbeitsbereich
-
-**Untreue Schaden** ordnet den Fall über die tragenden Prüfungslinien: Vermoegensschaden bei Paragraph 266 StGB Untreue, Verbandssanktionen Stand 06/2026, Akteneinsicht operativ steuern. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Untreue Schaden im Strafrecht: prüft konkret Vermoegensschaden be
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit`
@@ -104,13 +102,6 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Einholung eines Wirtschaftspruefergutachtens zu erheben zum Beweis der Tatsache, dass die Forderung gegen die Z GmbH im Zeitpunkt der Kreditvergabe nach IDW S 6-Standards mit nicht mehr als EUR W abzuschreiben gewesen waere."
 
-## Querverweise
-
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-- `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand`
-- `strafrecht-spezial-koerperliche-vermoegensgefaehrdung-untreue`
-- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 266 StGB im Wortlaut (gesetze-im-internet.de).
@@ -120,14 +111,6 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 - BGH staendige Rspr. zur Vorteilskompensation bei wirtschaftlichem Zusammenhang.
 - IDW S 6-Standards zur Unternehmensbewertung.
 - IDW PS 800-Standards zur Schadensbewertung im Strafverfahren.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
 
@@ -233,15 +216,6 @@ Der VerSanG-Entwurf 2020 sah vor:
 
 "Es wird Antrag gestellt, die zu erwartende Verbandsgeldbusse gemaess § 30 OWiG im Hinblick auf folgende Mitigationsfaktoren zu reduzieren: (1) Vollstaendige Selbstanzeige am [Datum] vor Erkenntnissen der Ermittlungsbehoerden, (2) Vollumfaengliche Kooperation einschliesslich Internal Investigation, (3) Beendigung struktureller Defizite einschliesslich Personalwechsel auf Vorstands- und Compliance-Ebene, (4) Vollstaendige Wiedergutmachung der erlangten Vermoegensvorteile in Hoehe von [Betrag] EUR durch Rueckzahlung an die Geschaedigten."
 
-## Querverweise
-
-- `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
-- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `strafrecht-spezial-insiderhandel-119-wphg`
-- `strafrecht-spezial-marktmanipulation-120-wphg`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
-
 ## Quellen Stand 06/2026
 
 - §§ 30, 130, 17, 47 OWiG https://www.gesetze-im-internet.de/owig_1968/.
@@ -257,10 +231,6 @@ Der VerSanG-Entwurf 2020 sah vor:
 **Fokus:** Akteneinsicht operativ steuern: Antrag, Teilversagung, U-Haft-Mindestinformationen, Sonderbände, digitale Beweismittel, Asservate, Nachlieferungen, Opferdaten, Schwärzungen und Aktenvollständigkeit nach § 147 StPO kontrollieren.
 
 ### Akteneinsicht, Nachlieferungen und Sonderbände
-
-## Zweck
-
-Akteneinsicht ist nicht erledigt, nur weil “die Akte” eingegangen ist. Dieser Skill prüft, ob die Verteidigung wirklich alle relevanten Bestandteile hat und was fehlt.
 
 ## Aktenbestandteile
 
@@ -303,14 +273,6 @@ Verteidigungsrelevanz:
 ## Datenschutz und Opferdaten
 
 Nicht reflexhaft vollständige Weitergabe an Mandant. Bei sensiblen Daten, Anschriften, Gesundheitsdaten oder Opferschutz prüfen: Was muss der Mandant für seine Verteidigung kennen, was darf/soll nur anwaltlich verarbeitet werden?
-
-## Output
-
-- Aktenvollständigkeitscheck.
-- Nachforderungsschreiben.
-- Sonderband-Register.
-- Digitale-Beweise-Liste.
-- Mandantenfähige Aktenzusammenfassung.
 
 ## 4. `strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung`
 
@@ -398,13 +360,6 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 
 **Schriftsatz-Snippet (Schaetzung bestreiten):** "Die im Anklageschriftsatz aufgefuehrte Schaetzung der Finanzbehoerde ist nicht bindend für das Strafgericht. Eine substantiierte Gegenrechnung ergibt einen Verkuerzungsbetrag von hoechstens EUR Y; damit liegt kein grosses Ausmass nach Paragraph 370 III Nr 1 AO vor."
 
-## Querverweise
-
-- `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige`
-- `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel`
-- `strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig`
-- `strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 370 AO im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -416,14 +371,6 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 - BGH staendige Rspr. zur Strafzumessung bei Steuerhinterziehung.
 - BGH staendige Rspr. zum Vorsatzerfordernis bei komplexen Steuersachverhalten.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig`
 
@@ -499,12 +446,6 @@ Der Strafrahmen ist 6 Monate bis 10 Jahre. Mindeststrafrahmen ist niedriger als 
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Sachbearbeiters der Steuerfahndung zu erheben zum Beweis der Tatsache, dass die in der Anklage zugrunde gelegte Schaetzung der Mehrsteuer nicht den Anforderungen an eine strafrechtliche Beweisfuehrung genuegt."
 
-## Querverweise
-
-- `strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung`
-- `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige`
-- `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 370a AO im historischen Wortlaut (Gesetze-Archiv); aktuell ausser Kraft.
@@ -515,3 +456,4 @@ Der Strafrahmen ist 6 Monate bis 10 Jahre. Mindeststrafrahmen ist niedriger als 
 - Paragraph 376 AO Verjährung im Steuerstrafrecht.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 - Fischer, StGB-Kommentar (lizenzpflichtig; nur bei Live-Zugriff zitieren).
+

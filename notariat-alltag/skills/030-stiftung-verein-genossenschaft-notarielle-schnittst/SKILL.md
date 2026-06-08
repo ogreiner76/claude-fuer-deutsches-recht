@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Stiftung, Verein, Genossenschaft – notariell
 
 # Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen
 
-## Arbeitsbereich
-
-Notariat im Alltag: Stiftung, Verein, Genossenschaft – notarielle Schnittstellen. Stiftungsgeschäft, Satzungsbeurkundung, Registrierung und typische notarielle Beiträge zu diesen Rechtsformen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 ## Kostenhinweise
 
 Stiftungsgeschäft: 2,0 Gebühr (KV Nr. 21100 GNotKG), Gegenstandswert = Stiftungskapital (§ 55 GNotKG). Vereins-Satzungsbeglaubigung: KV Nr. 25100 (max. 70 € je Unterschrift). Genossenschaft HR-Anmeldung: pauschal ca. 150 €. Bei Grundstücksschenkung an Stiftung: § 311b BGB + GNotKG Vollwert des Grundstücks.
+

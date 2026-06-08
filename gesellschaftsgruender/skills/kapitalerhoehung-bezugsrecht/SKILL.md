@@ -5,10 +5,6 @@ description: "Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschaf
 
 # Kapitalerhöhung und Bezugsrecht
 
-## Arbeitsbereich
-
-Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschafter durchführen. Normen: §§ 55 56 56a GmbHG. Prüfraster: Gesellschafterbeschluss, Bezugsrechtsausschluss, Einlageverpflichtung, Handelsregisteranmeldung. Output: Beschlussvorlage Kapitalerhöhung und HR-Checkliste. Abgrenzung: nicht genehmigtes Kapital. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschafter durchführ
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Bei Erhöhung des Stammkapitals müssen die bestehenden Gesellschafter **Bezugsrechte** erhalten (Paragraf 55 II GmbHG). Ausschluss ist möglich, aber begründungsbedürftig. Streit über Bezugsrecht / Bezugsrechtsausschluss ist klassischer Konflikt-Auslöser.
 
 ## 1) Rechtsgrundlagen
 
@@ -247,9 +239,6 @@ Klaere vor Bearbeitung einer Kapitalerhoehung:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Kapitalerhoehungs-Beschluss
 
 **Adressat:** Gesellschafterversammlung GmbH — Tonfall rechtspraezise
@@ -281,3 +270,4 @@ Abstimmung: [N] Ja / [N] Nein / [N] Enthaltungen
 (= [%] %; erforderlich 75 % = [N] Stimmen)
 Beschluss: [ANGENOMMEN / ABGELEHNT]
 ```
+

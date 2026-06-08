@@ -26,9 +26,6 @@ Dieser Skill stellt höfliche, sachliche Formulierungshilfen für internationale
 - § 184 GVG — Gerichtssprache Deutsch; Ausnahmen bei internationalen Sachverhalten
 - Richtlinie 77/249/EWG — Dienstleistungsrichtlinie für Anwaelte (grenzueberschreitend)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Englisch (Englischsprachige Jurisdiktionen und internationale Praxis)
 
 Anreden: "Dear Sir or Madam" (allgemein), "Dear Mr./Ms. Smith" (namentlich), "Dear Counsel" (unter Anwälten), "Dear Judge Smith" (an Richter im angloamerikanischen Raum). Schlussformeln: "Yours sincerely" (wenn Name bekannt), "Yours faithfully" (wenn nur Firma/Funktion bekannt), "Kind regards" (förmlich-freundlich), "Best regards" (kollegial). Berufliche Anreden in Schriftsätzen: "To the Honourable Court", "Dear Registrar".
@@ -53,6 +50,3 @@ Für grenzüberschreitende anwaltliche Kommunikation gilt: Die BRAO schreibt kei
 
 "Please find enclosed..." → "Veuillez trouver ci-joint..." → "In allegato trova..." → "Adjunto encontrará..." "We refer to our previous correspondence..." → "Suite à notre précédente correspondance..." "We look forward to your response." → "Nous attendons votre réponse avec intérêt." → "In attesa di una Sua risposta..." → "Quedamos a la espera de su respuesta."
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Empfohlene Anrede in der Zielsprache. (2) Schlussformel mit Varianten nach Förmlichkeitsgrad. (3) Überarbeiteter Text in der Zielsprache (soweit gegeben). (4) Hinweis auf berufsrechtliche Besonderheiten der Zielsprache/Jurisdiktion.

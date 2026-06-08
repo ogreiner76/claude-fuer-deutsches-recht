@@ -5,10 +5,6 @@ description: "Macht aus einer schlechten Vortrags-PPT einen Fliesstextbeitrag f�
 
 # Powerpoint-Verwurstung zu Text
 
-## Arbeitsbereich
-
-Macht aus einer schlechten Vortrags-PPT einen Fliesstextbeitrag für Fachzeitschrift oder Tagungsband, ohne Bullet-Wuesten und mit Quellenrekonstruktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -86,14 +82,6 @@ Sie brauchen ihn, wenn .pptx als einzige Quelle vorliegt. Klaeren Sie:
 - "Vielen Dank für Ihre Aufmerksamkeit" als Schluss im Heft.
 - Eigene Kompositionsleistung des Lektorats nicht markiert - Autor zeichnet Saetze ab, die nicht von ihm sind.
 
-## Querverweise
-
-- `verl-audio-transkript-zu-fachbeitrag` - wenn Audio mitgeliefert wurde.
-- `verl-konferenzmitschnitt-zu-tagungsbericht` - wenn aus Vortrag ein Tagungsbericht wird.
-- `bildrechte-grafiken-tabellen` - für Grafiken aus der PPT.
-- `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-- `verl-fussnoten-quellen-konsolidierung` - für Pinpoint-Aufbau.
-
 ## Quellen Stand 06/2026
 
 - UrhG §§ 51, 63, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
@@ -101,3 +89,4 @@ Sie brauchen ihn, wenn .pptx als einzige Quelle vorliegt. Klaeren Sie:
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022, zum Aufloesen von Stichwortketten in Fliesstext.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

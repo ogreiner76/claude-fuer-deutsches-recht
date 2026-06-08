@@ -5,10 +5,6 @@ description: "Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff 
 
 # Naturschutz und Artenschutz
 
-## Arbeitsbereich
-
-Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschutz-Konflikt. FFH-Vertraeglichkeit Artenschutz §§ 44 45 BNatSchG Kompensationspflichten. Normen BNatSchG §§ 13-19 34-36 44-45 FFH-RL 92/43/EWG Vogelschutz-RL. Prüfraster Eingriffs-Ausgleichs-Regelung saP-Gutachten FFH-Vertraeglichkeit Verbandsklagebefugnis. Output Artenschutz-Prüfung Kompensationskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-verfahren (Klage). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -43,9 +39,6 @@ Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschu
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 ### A) Vorhabentraeger: Artenschutzpruefung und FFH-VS
@@ -121,3 +114,4 @@ vorgelegt und ausgelegt werden.
 - `klimaklagen-verbandsklage-umwrg` — Verbandsklage Klimaschutz
 - `energieanlagen-bimschg-genehmigung-verfahren` — Artenschutz bei Energieanlagen
 - `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt` — Drittanfechtung Naturschutz
+

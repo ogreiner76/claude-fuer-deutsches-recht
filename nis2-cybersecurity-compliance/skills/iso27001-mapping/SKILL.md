@@ -5,10 +5,6 @@ description: "Mappt ISO 27001 Controls auf NIS-2, BSI und interne Policies im Ni
 
 # ISO 27001 Mapping
 
-## Arbeitsbereich
-
-Mappt ISO 27001 Controls auf NIS-2, BSI und interne Policies. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Control-Mapping-Workbook. Wenn der Nutzer nur eine Kurzantwor
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

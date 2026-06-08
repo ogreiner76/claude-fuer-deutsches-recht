@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Markenrecht Fashion/Luxus: ordne
 
 Dieser Einstieg routet **Markenrecht Fashion Luxus** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-markenrecht-euipo-beschwerdekammer` — Abmahnung Markenrecht Euipo Beschwerdekammer
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Markenrecht Fashion Luxus** vom ersten Sachverhalt zu R
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Markenrecht Fashion/Luxus typische Eskalationsstufen: Anmeldung Marke, Widerspruch, Unterlassungsklage.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

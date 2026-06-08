@@ -5,9 +5,6 @@ description: "Anspruchsgrundlage Finden Anwaltszwang ZPO im Selbstvertretung am 
 
 # Anspruchsgrundlage Finden Anwaltszwang ZPO
 
-## Arbeitsbereich
-
-**Anspruchsgrundlage Finden Anwaltszwang ZPO** ordnet den Fall über die tragenden Prüfungslinien: Hilfe für Laien beim Identifizieren der richtigen, Prüfung des Anwaltszwangs nach § 78 ZPO, Augenscheinsbeweis nach § 371 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Anspruchsgrundlage Finden Anwaltszwang ZPO im Selbstvertretung am 
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `anspruchsgrundlage-finden-laienhilfe`
@@ -152,14 +150,6 @@ Beispiel 5: "Mein Vermieter macht keine Reparatur, Wasser tropft."
 - "Ich nehme nur eine Anspruchsgrundlage." → Lieber mehrere pruefen — falls eine scheitert, traegt die andere.
 - "Ich behaupte einfach, es waere ein Vertrag gewesen." → Sie muessen die Tatsachen vortragen, aus denen der Vertrag folgt (Angebot, Annahme).
 
-## Querverweise
-
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Vorab-Pruefung.
-- `tatbestand-zerlegen-anspruchspruefung-laien` — Voraussetzungen identifizieren.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung.
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
-- `klageschrift-tatsachenvortrag-strukturieren` — Sachverhalt aufbauen.
-
 ## Quellen und Aktualitaet
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
@@ -242,14 +232,6 @@ Vor dem AG koennen Sie sich auch durch eine andere Person vertreten lassen, wenn
 - "Mein Cousin ist Jurastudent, der vertritt mich." → Geht nur, wenn er Volljaehriger Familienangehoeriger ist und es Einzelfall. Geschaeftsmäßige Vertretung ist verboten.
 - "Ich kann mich auch in der Berufung vor LG selbst vertreten." → Nur für einzelne Antraege. Berufungsbegruendung braucht Anwalt.
 
-## Querverweise
-
-- `orientierung-selbstvertreter-amtsgericht` — Einstieg.
-- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Wann ist das AG ueberhaupt zuständig?
-- `berufung-amtsgericht-511-zpo` — Berufung zum LG (dort Anwaltszwang).
-- `wann-doch-anwalt-grenzfaelle` — Wann ist Selbstvertretung kein gutes Ergebnis?
-- `prozesskostenhilfe-pkh-114-zpo` — PKH bei finanzieller Notlage.
-
 ## Praxis-Tipp
 
 Selbst wenn am Amtsgericht kein Anwaltszwang besteht, gibt es zwei Schwellen, ab denen Anwaltskontakt regelmaessig sinnvoll ist: (1) **Streitwert ueber 5.000 EUR** – Risiko und Komplexitaet steigen; im Unterliegen drohen erhebliche Kostenfolgen nach §§ 91 ff. ZPO. (2) **Berufungswuerdiger Sachverhalt** – wenn der Fall mit ueber 1.000 EUR Beschwer endet, droht Anwaltszwang vor dem LG (§ 78 I ZPO). Frueh PKH (§§ 114 ff. ZPO) oder Beratungshilfe nach BerHG pruefen, weil Antraege rechtzeitig vor Klage gestellt werden muessen. Notanwalt § 78b ZPO nur als letzter Ausweg, wenn Sie partout keinen Anwalt finden.
@@ -257,14 +239,6 @@ Selbst wenn am Amtsgericht kein Anwaltszwang besteht, gibt es zwei Schwellen, ab
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 78 ZPO und § 114 FamFG unveraendert. Achtung beim Arbeitsgericht — dort gilt § 11 ArbGG, der dieses Plugin nicht abdeckt.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `augenscheinsbeweis-371-zpo`
 
@@ -379,24 +353,9 @@ Vor-Ort-Termin: Reisekosten Gericht, ggf. Sachverstaendiger anwesend. Kosten mei
 - "Foto reicht, ohne Datum-Datei." → EXIF/Datum nachhalten.
 - "Sachverstaendiger ist genug." → Augenschein und Sachverstaendiger ergaenzen sich.
 
-## Querverweise
-
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweisangebot.
-- `sachverstaendigenbeweis-402-zpo` — Sachverstaendiger.
-- `urkundenbeweis-415-ff-zpo` — Urkunden.
-- `beweismittel-vorab-sammeln-checkliste` — Sicherung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 371 ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

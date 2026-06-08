@@ -5,10 +5,6 @@ description: "Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und B
 
 # Frequenzstörungen und Funkverträglichkeit
 
-## Arbeitsbereich
-
-Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Funkstörungen, EMV, Störungsmeldung, Messung, Unterlassung und BNetzA-Eingriff
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Betreiber, Nachbarn und Hersteller bei gestörter oder störender Funknutzung.
-
 ## Norm- und Quellenanker
 
 TKG Frequenznutzung; EMVG; BNetzA-Funkstörungsdienst.
-
-## Arbeitsfragen
-
-1. Welche Frequenz/Anlage stört?
-2. Welche Messdaten und Genehmigungen liegen vor?
-3. Welche Sofortmaßnahmen sind möglich?
-
-## Output
-
-Störungsdossier, BNetzA-Meldung und Abwehr-/Unterlassungsstrategie.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Störungsdossier, BNetzA-Meldung und Abwehr-/Unterlassungsstrategie.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

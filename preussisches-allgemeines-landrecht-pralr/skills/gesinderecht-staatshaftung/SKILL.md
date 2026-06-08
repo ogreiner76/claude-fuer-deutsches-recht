@@ -5,10 +5,6 @@ description: "Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienst
 
 # Pralr Gesinderecht Zeugnis Und Haftung
 
-## Arbeitsbereich
-
-Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes für Schaeden Haftung der Herrschaft für Handlungen des Gesindes. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,7 +40,3 @@ Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorla
 2. Schadenshoehe?
 3. Mit- oder Alleinhaftung?
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Arbeitszeugnis-Tradition.

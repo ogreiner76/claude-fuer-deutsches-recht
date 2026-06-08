@@ -5,10 +5,6 @@ description: "E-Rezept TI Gematik Apothekenprozess: prüft die einschlägigen Vo
 
 # E-Rezept TI Gematik Apothekenprozess
 
-## Arbeitsbereich
-
-E-Rezept TI Gematik Apothekenprozess: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,15 +90,6 @@ Eingaben:
 - HBA-Zertifikat abgelaufen — Apotheker:in kann keine eigenen Quittungen signieren.
 - Patient erteilt App-Zustimmung zur "Vorabreservierung" bei einer bestimmten Versandapotheke; lokale Apotheke fängt Patient nicht ab — Wettbewerbsfrage.
 
-## Querverweise
-
-- `arzneimittelabgabe-verschreibungspflicht` (Plausibilitätsprüfung)
-- `versandhandel-und-e-rezept-intake` (Versandapotheken-E-Rezept)
-- `datenschutz-in-apotheke-gesundheitsdaten` (DSGVO-Tiefe)
-- `digitale-plattformen-marktplatz-apothekenrecht` (Plattformfragen)
-- `retaxationsabwehr-nullretax-risiko` (Retax bei E-Rezept-Mängeln)
-- `securpharm-faelschungsschutz` (Verifikation Fertigarzneimittel)
-
 ## Quellen Stand 06/2026
 
 - SGB V §§ 311, 312, 360 — aktueller Stand im BMG-Veröffentlichungsverzeichnis.
@@ -110,3 +97,4 @@ Eingaben:
 - BfArM und BSI-Hinweise zur TI-Sicherheit.
 - DSGVO Art. 9, 30; BDSG-neu §§ 22, 26 (vom Anwender zu verifizieren — laufende Anpassungen).
 - ABDA-Rundschreiben zur E-Rezept-Praxis (vom Anwender zu verifizieren).
+

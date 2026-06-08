@@ -5,10 +5,6 @@ description: "Unternehmen oder Behörde fragt: An wen muss ich mich in Deutschla
 
 # Governance und Aufsichtsbehörden — Art. 70 ff. KI-VO
 
-## Zweck
-
-Die KI-VO richtet eine mehrstufige Governance-Struktur ein: nationale Behörden, das Europäische KI-Büro und übergeordnete Gremien. Dieser Skill klärt, wer für was zuständig ist und wo in Deutschland der Ansprechpartner liegt.
-
 ## Nationale Ebene — Nationale Aufsichtsbehörden (Art. 70 KI-VO)
 
 Jeder Mitgliedstaat benennt eine oder mehrere nationale zuständige Behörden, die für die Anwendung und Durchsetzung der KI-VO zuständig sind. Diese Behörden üben auch die Funktion der Marktüberwachungsbehörde aus.
@@ -74,9 +70,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -128,3 +121,4 @@ Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

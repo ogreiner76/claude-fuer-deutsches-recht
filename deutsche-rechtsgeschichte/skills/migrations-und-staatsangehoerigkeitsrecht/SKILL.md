@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsre
 
 # Migrations- und Staatsangehoerigkeitsrecht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsrecht. RuStAG 1913, Abstammungsprinzip, Auslaenderrecht im 20. Jahrhundert, Aussiedlerrecht und StAG 2000 mit Geburtsortprinzip. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das Staatsangehoerigkeitsrecht ist ein zentrales Instrument staatlicher Identita
 - GG Art. 116: gesetze-im-internet.de; BVerfGE dazu: bverfg.de
 - BVFG: gesetze-im-internet.de
 
-## Output
-
-- Zeitleiste Staatsangehoerigkeitsrecht: 1913-2023
-- Abstammungsprinzip vs. Geburtsortsprinzip: Unterschiede und Reform
-- GG Art. 116 und NS-Verfolgtenausweisung: BVerfGE-Ueberblick
-
-## Quellenregel
-
-RuStAG 1913: ALEX/OeNB. StAG 2000: gesetze-im-internet.de. GG Art. 116: gesetze-im-internet.de. BVerfGE: bverfg.de.

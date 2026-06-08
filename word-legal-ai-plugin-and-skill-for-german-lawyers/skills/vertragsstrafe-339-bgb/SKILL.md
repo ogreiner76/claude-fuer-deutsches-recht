@@ -17,10 +17,6 @@ Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt B
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill unterstützt Sie beim Drafting und bei der Prüfung von Vertragsstrafeklauseln. Eine Vertragsstrafe sichert eine Hauptverbindlichkeit ab, schafft einen pauschalierten Druck zur Erfüllung und kann zugleich den Schaden des Gläubigers vereinfacht liquidieren. Fehler im Drafting führen typischerweise zur Unbestimmtheit, zur Unwirksamkeit in AGB oder zur richterlichen Herabsetzung.
-
 ## Eingaben
 
 - Art der gesicherten Hauptverbindlichkeit (Tun, Unterlassen, Geheimhaltung, Wettbewerbsverbot, Lieferfrist usw.).
@@ -62,12 +58,6 @@ Dieser Skill unterstützt Sie beim Drafting und bei der Prüfung von Vertragsstr
 - Kopplung an verschuldensunabhängigen Tatbestand in AGB: regelmäßig Unwirksamkeit nach § 307 BGB.
 - Verzicht auf Vorbehalt nach § 341 III BGB (Vertragsstrafe muss bei Annahme der Erfüllung vorbehalten werden).
 
-## Ausgabeformat
-
-- Klauselentwurf in Urteilsstil mit nummerierten Absätzen.
-- Begleitendes Memo: AGB-Risiko, Höhenkalibrierung, Bezug zu § 340/§ 341 BGB, Anrechnungsregel, Hinweis zur Herabsetzung.
-- Kurze Risikoliste am Ende.
-
 ## Beispiel
 
 Mustertext (Individualabrede, B2B, Unterlassungspflicht):
@@ -80,16 +70,10 @@ Mustertext (Individualabrede, B2B, Unterlassungspflicht):
 
 Hinweis: In AGB gegenüber Verbrauchern ist die Klausel nach § 309 Nr. 6 BGB unwirksam. Im AGB-B2B-Geschäft prüfen, ob § 307 BGB die Klausel über die Ausstrahlungswirkung der Klauselverbote indirekt erfasst; gegebenenfalls Höhe absenken und Kappung einziehen.
 
-## Querverweise
-
-- `geheimhaltung-nda-vertraulichkeit` – Vertragsstrafe in NDA-Konstellationen.
-- `haftungsausschluss-und-haftungsbegrenzung` – Abgrenzung Strafe und Haftungsbegrenzung.
-- `agb-konforme-klauseln-305-310-bgb` – § 309 Nr. 6 BGB und Ausstrahlungswirkung.
-- `transparenzgebot-307-bgb` – Bestimmtheit der Hauptverbindlichkeit.
-
 ## Quellen (Stand 05/2026)
 
 - §§ 339-345 BGB, § 286 IV BGB, §§ 276, 307, 309 Nr. 6 BGB.
 - §§ 74 ff. HGB (Wettbewerbsverbote), § 348 HGB (Herabsetzungsausschluss).
 - Methodische Grundlagen: `references/methodik-buergerliches-recht.md`.
 - Zitierweise: `references/zitierweise.md`. Konkrete Rechtsprechung des BGH zur Vertragsstrafe (etwa zur "fortgesetzten Handlung" und zur Kappungsgrenze in AGB) ist vom Nutzer fundstellengenau zu verifizieren.
+

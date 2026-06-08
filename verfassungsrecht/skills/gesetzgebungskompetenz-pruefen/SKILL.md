@@ -5,10 +5,6 @@ description: "Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes
 
 # Gesetzgebungskompetenz prüfen
 
-## Arbeitsbereich
-
-Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Prüfraster: ausschließliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirkung. Output: Kompetenzprüfmemo Ergebnis mit Fundstellen. Abgrenzung: nicht für formelles Gesetzgebungsverfahren (formelle-verfassungsmäßigkeit). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -131,9 +127,6 @@ Gesetzgebungskompetenz nicht verwechseln mit Verwaltungskompetenz:
 
 Art. 70-74 GG (Kompetenzverteilung) — Art. 72 Abs. 2 GG (Erforderlichkeitsklausel) — Art. 72 Abs. 3 GG (Abweichungskompetenz) — Art. 31 GG (Bundesrecht bricht Landesrecht) — Art. 93 Abs. 1 Nr. 2 GG (abstrakte Normenkontrolle)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Format
 
 ```
@@ -157,3 +150,4 @@ Prüfungsgegenstand: <Gesetz / Norm>
 ## Disclaimer-Wiederholung
 
 Diese Kompetenzprüfung ist eine strukturierte Modellauswertung; die verbindliche Verwerfung obliegt allein dem BVerfG (Art. 100 Abs. 1 GG).
+

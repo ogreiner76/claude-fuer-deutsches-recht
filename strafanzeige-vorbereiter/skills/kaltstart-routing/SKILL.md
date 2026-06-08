@@ -19,21 +19,9 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Einsatz
-
-Startet jede Anzeigeidee mit einer Bremse: erst Tatsachen und Belege, dann Strafrecht, dann Entscheidung, ob Anzeige wirklich sinnvoll ist.
-
 ## Norm- und Quellenanker
 
 StPO § 158; StGB §§ 164, 186, 187, 240; BGB § 824; ZPO/Unterlassung als Alternative.
-
-## Arbeitsfragen
-
-1. Was ist sicher selbst wahrgenommen, was nur Vermutung?
-2. Welche Beweise gibt es?
-3. Welche Person soll beschuldigt werden und warum?
-4. Gibt es zivil-, arbeits-, verwaltungs- oder datenschutzrechtliche Alternativen?
-
 
 ## Normen & Rechtsprechung
 
@@ -43,9 +31,6 @@ Konkret zu prüfen:
 - § 152 Abs. 2 StPO (Anfangsverdacht)
 - § 160 StPO (Erforschungspflicht)
 - § 170 StPO (Anklage oder Einstellung)
-## Output
-
-Anzeige-Triage mit Risikoampel, Beweismatrix, Strafantrag-Check und Entscheidungsnotiz.
 
 ## Red Flags
 
@@ -58,6 +43,3 @@ Anzeige-Triage mit Risikoampel, Beweismatrix, Strafantrag-Check und Entscheidung
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

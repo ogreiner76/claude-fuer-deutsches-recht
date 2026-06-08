@@ -5,10 +5,6 @@ description: "Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IF
 
 # Datenbankrecht und Informationsfreiheit — IFG versus Herstellerrecht
 
-## Arbeitsbereich
-
-Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritter. Erstellt Abgrenzungsanalyse für Behörden und IFG-Antragsteller. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsf
 - Personenbezogene Daten in Behördendatenbanken sind DSGVO-geschützt — vollständige Datenbank nicht IFG-zugänglich.
 - Schwärzungsentscheidungen der Behörde müssen begründet werden — pauschale Verweigerung ist rechtswidrig.
 
-## Output
-
-- IFG-Anspruchs-Prüfbogen (§ 1 IFG) mit Datenbankrecht-Abgrenzung
-- Behörden-Antwortentwurf bei IFG-Datenbankantrag (Ablehnung / Teilgewährung)
-- IWG-Weiterverwendungsantrag nach IFG-Zugangsgewährung
-- Klage auf IFG-Zugang vor Verwaltungsgericht — Muster
-- DSGVO-Teilschwärgungs-Konzept für personenbezogene Datenbankdaten
-
 ## Quellen
 
 - [§ 1 IFG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/ifg/index.html)
@@ -75,3 +63,4 @@ Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsf
 - [IWG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/iwg/index.html)
 - [DSGVO Art. 86 — dejure.org](https://dejure.org/gesetze/DSGVO/86.html)
 - [Open-Data-Richtlinie 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
+

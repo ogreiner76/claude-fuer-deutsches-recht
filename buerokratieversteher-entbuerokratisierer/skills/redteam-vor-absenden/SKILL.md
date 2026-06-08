@@ -5,9 +5,6 @@ description: "Prüft jedes Schreiben auf unnötige Angaben, falsche Zugeständni
 
 # Red-Team vor Absenden
 
-## Aufgabe
-Prüft jedes Schreiben auf unnötige Angaben, falsche Zugeständnisse, fehlende Belege, Fristen und Ton.
-
 ## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
@@ -25,12 +22,6 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ## Vorsichtsregel
 Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt bei Straf-, Familien-, Aufenthalts-, Kinderschutz-, Existenz- oder Eilrisiken früh anwaltliche Beratung, Beratungshilfe, Rechtsantragsstelle oder Fachberatungsstelle.
 
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
-
 ## Quellen- und Aktualitätsregel
 - einschlägiges Bundesrecht
 - Landesrecht/kommunale Satzung
@@ -38,3 +29,4 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 - frei prüfbare Rechtsprechung nur mit Gericht, Datum und Aktenzeichen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+

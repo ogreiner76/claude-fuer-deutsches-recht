@@ -5,12 +5,6 @@ description: "Erster Schritt jeder KI-VO-Pruefung: Ist die Software, API, App, A
 
 # Liegt ein KI-System vor? — Art. 3 Nr. 1 KI-VO
 
-## Zweck
-
-Dieser Skill ist das Eingangstor der KI-VO-Prüfung. Er klärt, ob der geprüfte Gegenstand überhaupt ein KI-System im Sinne der Verordnung (EU) 2024/1689 ist. Ohne KI-System greifen die KI-VO-Pflichten grundsätzlich nicht; mit KI-System folgen Anwendungsbereich, Rollen und Risikoklasse.
-
-Der Skill arbeitet nicht mit einem starren Alles-oder-Nichts-Schema. Er erstellt eine nachvollziehbare Einordnung anhand der sieben Elemente der Legaldefinition und dokumentiert, welche Tatsachen die Einordnung tragen.
-
 ## Prüfgegenstand sauber bestimmen
 
 Vor der Definition immer zuerst klären:
@@ -206,10 +200,3 @@ Diese Einordnung beruht auf den angegebenen Tatsachen. Bei geänderter Zweckbest
 
 Stand: 05/2026. Zu berücksichtigen sind Art. 3 Nr. 1, Nr. 12, Nr. 13 und Nr. 23 KI-VO, Erwägungsgrund 12 sowie die Kommissionsleitlinien zur Definition des KI-Systems. Keine Rechtsberatung; die Einordnung bleibt abhängig vom konkreten Tatsachenvortrag.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

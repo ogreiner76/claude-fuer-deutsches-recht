@@ -5,9 +5,6 @@ description: "Zeugenbeweis FF Zulassungsgrenzen Check im Selbstvertretung am Amt
 
 # Zeugenbeweis FF Zulassungsgrenzen Check
 
-## Arbeitsbereich
-
-**Zeugenbeweis FF Zulassungsgrenzen Check** ordnet den Fall über die tragenden Prüfungslinien: Zeugenbeweis nach §§ 373 ff, Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Zeugenbeweis FF Zulassungsgrenzen Check im Selbstvertretung am Amt
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zeugenbeweis-373-ff-zpo`
@@ -157,34 +155,15 @@ Zeuge bekommt Entschaedigung nach JVEG. Sie als beweispflichtige Partei zahlen g
 - "Zeuge: Vater des Beklagten, der weiss alles." → Verweigerungs-Recht.
 - "Bei Bedarf finde ich mehr Zeugen." → Spaete Benennung Praeklusions-Gefahr.
 
-## Querverweise
-
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweisangebot im Schriftsatz.
-- `urkundenbeweis-415-ff-zpo` — Urkunden.
-- `sachverstaendigenbeweis-402-zpo` — Sachverstaendiger.
-- `beweislast-grundregel-wer-was` — Beweislast.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 373 ff. ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `zulassungsgrenzen-check-amtsgericht`
 
 **Fokus:** Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen für Selbstvertreter vor dem Amtsgericht: § 23 GVG 10.000 EUR, Sonderzuständigkeiten, § 495a ZPO 1.000 EUR, § 511 ZPO Berufungsbeschwer 1.000 EUR, Übergangsfälle, Anwaltszwang und rote Flaggen.
 
 ### Zulassungsgrenzen-Check Amtsgericht
-
-## Zweck
-
-Dieser Skill prüft, ob ein Bürger seinen Fall wirklich vor dem Amtsgericht selbst führen kann und welche Wert- oder Zulassungsgrenzen später wichtig werden. Er verbindet Zuständigkeit, Verfahrensart und Rechtsmittel in einer klaren Ampel.
 
 ## Kernwerte Stand Mai 2026
 
@@ -244,40 +223,6 @@ Nach Urteil:
 | über 1.000 EUR | Berufung grundsätzlich statthaft |
 | bis 1.000 EUR und Berufung zugelassen | Berufung statthaft |
 | bis 1.000 EUR und nicht zugelassen | Berufung grundsätzlich nicht statthaft |
-
-## Ausgabeformat
-
-**Grenzen-Check**
-| Frage | Ergebnis | Ampel |
-|---|---|---|
-| Streitwert | | |
-| Amtsgericht zuständig? | | |
-| Selbstvertretung möglich? | | |
-| Vereinfachtes Verfahren möglich? | | |
-| Berufung später realistisch? | | |
-
-**Konsequenz**
-[Klare Handlungsempfehlung: AG, LG/Anwalt, Rechtsantragsstelle, PKH, Streitwert nacharbeiten.]
-
-**Nächste Skills**
-- `sachliche-zuständigkeit-amtsgericht-23-gvg`
-- `anwaltszwang-pruefen-78-zpo`
-- `klage-streitwert-angabe-3-zpo`
-- `berufung-amtsgericht-511-zpo`
-
-## Qualitätsregeln
-
-- Werte immer mit "mehr als", "bis einschließlich" und konkretem Betrag formulieren.
-- Bei knappem Streitwert nicht kreativ kleinrechnen. Teilklage nur mit deutlichem Hinweis auf Risiken.
-- Bei Berufung nie verschweigen, dass vor dem Landgericht Anwaltszwang besteht.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `zurechnungsproblem-versand-durch-dritte`
 
@@ -389,14 +334,7 @@ Erfolgsquote eher gering, aber: probieren, wenn nichts anderes geht. Skill `wied
 - "Bote ist Anwalt — der wird es schon machen." → Wenn Bote nur Bote (kein Mandant-Anwalt-Verhaeltnis), zaehlt sein Versaeumnis Ihnen zu.
 - "Post-Versand am letzten Tag." → Postlaufzeit nicht berechnet.
 
-## Querverweise
-
-- `einreichung-mein-justizpostfach-mjp-2024` — Sichere elektronische Loesung.
-- `einreichung-papierform-mit-abschriften` — Papier mit Einschreiben.
-- `einreichung-fax-und-grenzen` — Fax mit Sendebericht.
-- `wiedereinsetzung-frist-233-zpo` — Wenn doch versaeumt.
-- `fristen-berechnen-187-188-bgb` — Frist richtig berechnen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BVerfG-Selbstverantwortungslinie und BGH-Wiedereinsetzungs-Rechtsprechung stabil. Aktenzeichen und Fundstellen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken verifizieren.
+

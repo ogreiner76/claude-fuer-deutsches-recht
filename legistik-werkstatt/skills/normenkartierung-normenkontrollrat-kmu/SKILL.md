@@ -5,10 +5,6 @@ description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren u
 
 # Normenkartierung
 
-## Arbeitsbereich
-
-Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrecht-Portal Juris BeckOnline. Aenderungsliste je Norm Einfuegen Aendern Aufheben Folgeaenderung. Verweisketten Domino-Wirkungen Prüfung laufende Parallelverfahren. Output Aenderungsmatrix Grundlage für Referentenentwurf und Synopse. Anschluss terminologie-konsistenz zirkelschluss-prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,9 +70,6 @@ Welche EU-Richtlinien oder Verordnungen werden beruehrt? Welche völkerrechtlich
 
 §§ 42-44 GGO (Normenkartierung im Referentenentwurf, Pflichten) — Art. 3 Abs. 1 GG (Gleichheitssatz bei inkonsistenter Normgebung) — Art. 20 Abs. 3 GG (Normenklarheit als Rechtsstaat-Gebot) — § 1 EGBGB (Kollisionsrecht bei Normenkonkurrenz)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Änderungsmatrix als Markdown- und Excel-Vorlage. Eintrag in das Auftragsblatt: Liste der zu aendernden Normen.
@@ -84,3 +77,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Anschluss
 
 `terminologie-konsistenz`, `zirkelschluss-pruefen`, dann `referentenentwurf-bauen`.
+

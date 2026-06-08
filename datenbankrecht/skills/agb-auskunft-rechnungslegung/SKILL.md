@@ -5,10 +5,6 @@ description: "Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: §
 
 # Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
 
-## Arbeitsbereich
-
-Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schranken nach §§ 87c 44b UrhG. Erstellt AGB-Muster für Datenbankbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,14 +54,6 @@ Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhal
 - Klauseln, die dem Betreiber alle Rechte an Kundendaten zuweisen, sind in der Regel nach § 307 BGB unangemessen.
 - Einseitige Leistungsänderungsvorbehalte des Betreibers (§ 308 Nr. 4 BGB) für Datenbankzugang sind begrenzt zulässig.
 - Verbraucher-AGB unterliegen strengerer Kontrolle als B2B-AGB — für B2C immer zusätzlich §§ 308-309 BGB prüfen.
-
-## Output
-
-- AGB-Klausel-Vorlage: Scraping-Verbot (§ 307 BGB-konform)
-- AGB-Klausel-Vorlage: TDM-Opt-out mit technischer Ergänzungspflicht
-- AGB-Klausel-Vorlage: Datenbankrechts-Zuweisung und Nutzungsumfang
-- AGB-Klausel-Vorlage: Haftungsbegrenzung (§ 309 Nr. 7 BGB-konform)
-- AGB-Inhaltskontrolle-Checkliste für bestehende Datenbankbetreiber-AGB
 
 ## Quellen
 

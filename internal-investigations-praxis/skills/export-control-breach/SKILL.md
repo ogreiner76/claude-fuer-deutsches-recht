@@ -5,10 +5,6 @@ description: "Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-D
 
 # Exportkontrollverstöße – Untersuchung und Meldepflichten
 
-## Arbeitsbereich
-
-Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-Dual-Use-VO, BAFA-Meldepflichten, US-Re-Export-Kontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -70,15 +66,6 @@ Dieser Skill identifiziert Exportkontrollverstöße, leitet Selbstanzeige-Entsch
 - Training: alle Mitarbeiter in Exportkontrolle schulen.
 - BAFA-Monitorauftrag: ggf. externe Compliance-Überwachung als Teil der Selbstanzeige-Vereinbarung.
 
-## Red-Team-Fragen
-
-- Wurden alle exportierten Güter korrekt nach Exportkontrollliste klassifiziert?
-- Gibt es US-Komponenten in den exportierten Gütern, die Re-Export-Genehmigungen auslösen?
-- Wurden End-User-Zertifikate auf Plausibilität geprüft, oder wurden sie nur formal abgehakt?
-- Sind alle relevanten Sanktionslisten (EU, US-OFAC, UN) für alle beteiligten Parteien gescreent worden?
-- Wurde die Entscheidung zur Selbstanzeige dokumentiert – mit Pro-Contra-Abwägung?
-- Sind die internen Compliance-Strukturen nach dem Verstoß gestärkt worden?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -98,3 +85,4 @@ Dieser Skill identifiziert Exportkontrollverstöße, leitet Selbstanzeige-Entsch
 - **Remediation-Plan** (Klassifizierung, Screening, Training)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

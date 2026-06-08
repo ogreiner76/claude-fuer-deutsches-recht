@@ -5,9 +5,6 @@ description: "Wählen DSV Rechtsprechung Datenschutz im Datenschutzrecht: prüft
 
 # Wählen DSV Rechtsprechung Datenschutz
 
-## Arbeitsbereich
-
-**Wählen DSV Rechtsprechung Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Output wählen im Plugin datenschutzrecht, Red-Team Qualitygate im Plugin datenschutzrecht, Analysiert die deutsche Rechtsprechung zum immateriellen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Wählen DSV Rechtsprechung Datenschutz im Datenschutzrecht: prüft
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `workflow-output-waehlen`
@@ -32,9 +30,6 @@ description: "Wählen DSV Rechtsprechung Datenschutz im Datenschutzrecht: prüft
 **Fokus:** Output wählen im Plugin datenschutzrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.
 
 ### Output wählen
-
-## Aufgabe
-Dieses Modul bearbeitet: Output wählen im Plugin datenschutzrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung..
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
@@ -62,26 +57,11 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 ## Praxis-Tipp
 Bei einer Datenpannenmeldung nach Art. 33 stets das Online-Meldeformular der zuständigen Behörde (z. B. BfDI-Meldeportal, LDI NRW-Formular) verwenden und parallel intern eine Aktennotiz mit Zeitlinie führen — die 72-Stunden-Frist verläuft schnell, eine spätere Rekonstruktion ist mühsam.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
 ## 2. `workflow-redteam-qualitygate`
 
 **Fokus:** Red-Team Qualitygate im Plugin datenschutzrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
 ### Red-Team Qualitygate
-
-## Aufgabe
-Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin datenschutzrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
@@ -109,18 +89,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## Praxis-Tipp
 Häufiger Fehler in der DSGVO-Beratung: Vermischung von TDDDG-Einwilligung (Endgerätezugriff, § 25 TDDDG) und DSGVO-Rechtsgrundlage (Verarbeitung pbD nach Art. 6). Beide sind kumulativ erforderlich für werbliche Cookies — Einwilligung nach TDDDG ersetzt nicht die Rechtsgrundlage nach DSGVO.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ## 3. `dsv-rechtsprechung-immaterieller-schaden-bgh-olg`
 
@@ -152,10 +120,6 @@ Nicht aus Modellwissen; jede zitierte Entscheidung vor Ausgabe über bundesgeric
 ## Zentrale Normen
 
 Art. 82 DSGVO; § 253 Abs. 2 BGB; EuGH C-300/21; C-687/21; C-456/22.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Übersichtsraster
 
@@ -282,13 +246,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert die Aufsichtsbehörde besonders zur Höchststrafe?** Wiederholungstäter, Verletzung Art.-9-Daten, fehlende DSB-Bestellung trotz § 38 BDSG, fehlender AVV Art. 28 DSGVO, fehlende DSFA Art. 35 DSGVO.
 
-## Querverweise
-
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-- `datenschutz-datenpanne-art-33-34-72h-incident-response`
-- `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 5, 6, 25, 32, 33, 35, 37, 58, 83.
@@ -299,25 +256,11 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien 04/2022 zur Berechnung der Geldbussen nach DSGVO, Version 1.0, angenommen 24.05.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 5. `dsv-sanktion-beschlussverfahren-72-owig`
 
 **Fokus:** Datenschutzrecht-Brückenskill: Beschlussverfahren § 72 OWiG: Schriftliche Erledigung per Beschluss prüfen, wenn Tatsachen und Verfahrenslage dafür taugen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 ### Beschlussverfahren § 72 OWiG
-
-## Aufgabe
-
-Schriftliche Erledigung per Beschluss prüfen, wenn Tatsachen und Verfahrenslage dafür taugen.
-
-Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
 
 ## Kaltstart-Fragen
 
@@ -353,10 +296,6 @@ Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er d
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 - Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
 
-## Output
-
-Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisthemen und Terminstrategie.
-
 ## Übergabe an das Spezialplugin
 
 Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
@@ -367,3 +306,4 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 - EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
 - Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+

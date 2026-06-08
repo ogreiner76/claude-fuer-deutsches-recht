@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Verwaltungsrecht und Polizeirecht. Preu
 
 # Verwaltungsrecht und Polizeirecht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Verwaltungsrecht und Polizeirecht. Preussisches Kreuzberg-Urteil 1882, allgemeines Verwaltungsrecht, Verwaltungsgerichtsbarkeit und Polizeirecht im historischen Wandel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das deutsche Verwaltungsrecht nahm im 19. Jh. seine moderne Form an. Das preussi
 - Otto Mayer, Deutsches Verwaltungsrecht (2 Bde., 1895/96): historische Edition, Bandangabe und Seite
 - BVerwG: bverwg.de für vollstaendige Entscheidungen
 
-## Output
-
-- Zeitleiste Verwaltungsrecht: Kreuzberg 1882 bis VwGO 1960
-- Kreuzberg-Urteil: Kernsaetze und Bedeutung
-- Polizeirecht historisch: Generalermaechtigung vs. Spezialbefugnis
-
-## Quellenregel
-
-VwGO und VwVfG: gesetze-im-internet.de. PrOVGE: historische Entscheidungssammlungen. Otto Mayer 1895/96: Erstausgabe, Band und Seite. BVerwG: bverwg.de.

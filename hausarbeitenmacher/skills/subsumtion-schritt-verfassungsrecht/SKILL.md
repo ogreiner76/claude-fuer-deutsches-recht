@@ -5,10 +5,6 @@ description: "Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerk
 
 # Subsumtion Schritt für Schritt
 
-## Arbeitsbereich
-
-Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition
 - § 276 Abs. 2 BGB — Fahrlässigkeitsdefinition als Musterbeispiel konkreter Gesetzesdefinition
 - § 242 StGB — Diebstahl: Modell-Tatbestand für objektivsubjektive Mehrstufigkeit
 - § 280 BGB — Schadensersatzanspruch: Modell-Tatbestand mit mehreren Voraussetzungen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Subsumtion ist das **Kern-Handwerk** der juristischen Arbeit. Wer subsumieren kann, kann denken wie ein Jurist.
 
 ## Die vier Schritte der Subsumtion
 
@@ -239,3 +228,4 @@ Z.B. "Sache", "Person":
 ## Sanft, ermutigend, fördernd
 
 Das Plugin steht an Deiner Seite. Wenn etwas schiefgeht: Atme durch, lies die Norm nochmal, frag das Plugin nach einer anderen Sichtweise. Subsumtion ist eine Übungs-Sache. Du wirst Schritt für Schritt sicherer.
+

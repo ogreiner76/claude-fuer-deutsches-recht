@@ -96,12 +96,6 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 - Berichtigte Anmeldung mit Vermerk "Berichtigung".
 - Bei wesentlicher Steuerverkuerzung: ggf. Selbstanzeige § 371 AO.
 
-## Output
-
-- ELSTER-Quittung mit Transaktions-Nummer.
-- Lohnsteuer-Anmeldung-Dokumentation in Mandantenakte.
-- Buchungssatz (Konto LSt-Verbindlichkeit).
-
 ## Strategie und Praxis-Tipps
 
 - Frist 10. des Folgemonats hart — bei wiederholten Verspaetungen Verspaetungszuschlag.
@@ -110,13 +104,6 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 - Bei Mehrfachbeschaeftigung des AN: Steuerklasse 6 für Folge-AG.
 - StBVV: ELSTER-Anmeldung in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS hat direkte ELSTER-Schnittstelle; bei Sicherheits-Zertifikaten regelmäßige Erneuerung.
-
-## Querverweise
-
-- `stb-lohn-lohnsteuer-monatsabschluss` — Monatsabschluss.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-monatsende-meldepflichten-checkliste` — Meldepflichten.
-- `stb-datev-lohn-modul-lodas-luh` — DATEV LODAS.
 
 ## Quellen und Updates
 
@@ -130,10 +117,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SolZ-Freigrenze 2025 eingesetzt) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

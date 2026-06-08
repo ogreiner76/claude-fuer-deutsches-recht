@@ -5,12 +5,6 @@ description: "Datentransfer in Drittlaender außerhalb EU und EWR auf Zulässigk
 
 # Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO)
 
-## Zweck
-
-Anwendungsfall: jeder Auslagerung personenbezogener Daten an Empfänger außerhalb der EU/des EWR: US-Cloud-Dienste, Konzernverbund-Transfer, KI-Provider, Sub-Auftragsverarbeiter in Drittstaaten. Er führt strukturiert durch die mehrstufige Prüfung gemäß Kapitel V DSGVO, berücksichtigt den Angemessenheitsbeschluss vom 10. Juli 2023 für die USA (EU-US Data Privacy Framework) sowie die Schrems-II-Anforderungen an Standardvertragsklauseln und ergänzende Maßnahmen.
-
-Anwendungsfälle: Kanzlei oder Unternehmen moechte einen US-amerikanischen SaaS-Dienst einsetzen; Konzernmutter in der Schweiz soll Zugriff auf EU-Kundendaten erhalten; Auftragsverarbeiter setzt Sub-Auftragsverarbeiter in Indien ein; Drittlandbezug bei AVV-Prüfung erkannt.
-
 ## Eingaben
 
 - Empfängerstaat (z.B. USA, Indien, UK, China)
@@ -217,17 +211,6 @@ Wer ist Exporteur?
 
 > "Wir übermitteln personenbezogene Daten an Empfänger in [LAND]. Die Übermittlung erfolgt auf Grundlage von [EU-Standardvertragsklauseln nach Beschluss 2021/914/EU, Modul X / Angemessenheitsbeschluss der Kommission vom [DATUM]]. Für die USA gilt: der Empfänger ist unter dem EU-US Data Privacy Framework zertifiziert. Eine Transferfolgenabschätzung (TIA) liegt vor. Auf Anfrage stellen wir Ihnen eine Kopie der Standardvertragsklauseln zur Verfügung (Kontakt: [DSB])."
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-pruefung/SKILL.md` – Drittlandtransfer-Prüfung im AVV-Kontext (Schritt 5)
-- `datenschutzrecht/skills/us-transfer-tia-dokumentation/SKILL.md` – US-Transfers mit DPF-Listing, SCC/BCR-Ausweichpfad, Schrems-Historie und TIA vertiefen
-- `datenschutzrecht/skills/standardvertragsklauseln-scc-paket/SKILL.md` – SCC-Modulwahl und Annex I-III konkret erstellen
-- `datenschutzrecht/skills/drittlandtransfer-behoerdenpaket-output/SKILL.md` – Deckvermerk, Anlagenverzeichnis und Antwortpaket für Aufsichtsbehoerden ausgeben
-- `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` – DSFA bei Hochrisiko-Drittlandtransfers
-- `datenschutzrecht/skills/mandantendaten-ki/SKILL.md` – Drittlandtransfer bei KI-Diensten für Berufsgeheimnisträger
-- `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` – Datenpannen bei Drittlandempfaengern
-- `datenschutzrecht/skills/regulierungs-luecken-analyse/SKILL.md` – Neue Angemessenheitsbeschlüsse in Gap-Analyse einspielen
-
 ## Risiken und typische Fehler
 
 - **DPF-Prüfung vergessen:** DPF-Zertifizierung ist nicht permanent; Unternehmen koennen ihre Zertifizierung verlieren. Vor jedem Transfer auf data.privacyframework.gov prüfen und erneut prüfen bei Vertragserneuerung.
@@ -302,3 +285,4 @@ Zusatzmassnahmen:
 
 Ergebnis: Übermittlung zulässig / zulässig mit Auflagen / unzulässig
 ```
+

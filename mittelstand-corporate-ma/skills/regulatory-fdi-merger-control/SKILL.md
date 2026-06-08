@@ -5,10 +5,6 @@ description: "Fusionskontrolle und FDI: Freigabe-Landkarte für Kartellrecht GWB
 
 # Fusionskontrolle und Investitionskontrolle
 
-## Arbeitsbereich
-
-Fusionskontrolle und FDI: Freigabe-Landkarte für Kartellrecht GWB/FKVO, AWV-Investitionsprüfung, Sektorregulierung; Multi-Jurisdiction-Filings; §§ 35-44 GWB, Art. 4 FKVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Fusionskontrolle und FDI: Freigabe-Landkarte für Kartellrecht GWB/FKVO, AWV-Inv
 ## Fachkern: Fusionskontrolle und Investitionskontrolle
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Regulatory, FDI, Fusionskontrolle, GwG und Kapitalmarkt-Compliance**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -116,10 +109,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Fusionskontrolle und Investitionskontrolle
 
-## Zweck
-
-Erstellt Freigabe-Landkarte für Kartellrecht (GWB, FKVO), FDI-Investitionspruefung (AWV/§ 55 ff.), Sektorregulierung und Multi-Jurisdiction-Filings. Erkennt Vollzugsverbote und steuert Freigabe-Zeitplan in der Signing-to-Closing-Phase.
-
 ## Triage — klaere vor Signing
 
 1. Werden Kartellrechtsschwellen erreicht — weltweite Umsaetze der Beteiligten (§ 35 GWB: 500 Mio. EUR weltweit; 25 Mio. EUR in Deutschland); EU-Schwellen (Art. 1 FKVO: 5 Mrd. EUR / 250 Mio. EUR EU)?
@@ -143,9 +132,6 @@ Erstellt Freigabe-Landkarte für Kartellrecht (GWB, FKVO), FDI-Investitionspruef
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Umsatz-Screening:** weltweit und in Deutschland (GWB), in der EU (FKVO), in USA, UK, China — Schwellenwerte der Parteien zusammenstellen
@@ -204,3 +190,4 @@ CLEAN TEAM: [ ] eingerichtet — Information Barriers aktiv
 
 - assets/templates/freigabe-landkarte-multijurisdiction.md
 - assets/templates/gun-jumping-protokoll.md
+

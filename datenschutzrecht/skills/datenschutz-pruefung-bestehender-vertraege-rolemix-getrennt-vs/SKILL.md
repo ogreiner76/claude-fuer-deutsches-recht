@@ -5,9 +5,6 @@ description: "Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS im 
 
 # Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS
 
-## Arbeitsbereich
-
-**Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS** ordnet den Fall über die tragenden Prüfungslinien: Pruefung bestehender AVV-Vertraege Vendor-Inventur, Abgrenzung Rollenmix Art, TOM-Anlage zum AVV nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Datenschutz Pruefung Bestehender Vertraege Rolemix Getrennt VS im 
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `avv-pruefung-bestehender-vertraege-audit`
@@ -140,14 +138,6 @@ Frist: [DATUM]
 - Verarbeitungsverzeichnis Art. 30 DSGVO und AVV-Bestand laufen auseinander.
 - Bei M&A: AVV-Bestand des Targets nicht in Due Diligence gewuerdigt.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-mindestinhalte-checkliste/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-us-data-privacy-framework-bezug/SKILL.md`
-- `datenschutzrecht/skills/avv-tom-art-32-dsgvo-anlage/SKILL.md`
-- `datenschutzrecht/skills/avv-pruefung/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 28, Art. 30, Art. 32 DSGVO.
@@ -156,14 +146,6 @@ Frist: [DATUM]
 - EDSA-Leitlinien 07/2020 (Final 07.07.2021).
 - EDSA-Empfehlungen 01/2020 (Version 2.0 Juni 2021).
 - Zitierweise: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `avv-rolemix-getrennt-vs-gemeinsam-verantwortlich`
 
@@ -281,14 +263,6 @@ Datum, Unterschrift Datenschutzbeauftragter
 - Berufsgeheimnistraeger als reine Auftragsverarbeiter behandelt (Funktionsuebertragung uebersehen).
 - Tracking-Anbieter als Auftragsverarbeiter behandelt, obwohl er Daten für eigene Zwecke nutzt.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-dsgvo-grundtatbestand/SKILL.md`
-- `datenschutzrecht/skills/avv-art-26-joint-controllership-deutsch/SKILL.md`
-- `datenschutzrecht/skills/funktionsuebertragung-vs-auftragsverarbeitung/SKILL.md`
-- `datenschutzrecht/skills/joint-controllership-en-template/SKILL.md`
-- `datenschutzrecht/skills/dpa-en-controller-controller-tmpl/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 4 Nr. 7, Art. 26, Art. 28 DSGVO.
@@ -298,14 +272,6 @@ Datum, Unterschrift Datenschutzbeauftragter
 - EuGH C-40/17 (Fashion ID) – verifiziert.
 - Volltexte ueber curia.europa.eu pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `avv-tom-art-32-dsgvo-anlage`
 
@@ -442,13 +408,6 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 - Keine Pruefturnusangaben.
 - Sub-AV-Konsistenz nicht adressiert.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-mindestinhalte-checkliste/SKILL.md`
-- `datenschutzrecht/skills/avv-audit-und-kontrollrechte/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/dpa-en-tom-annex-template/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 25, Art. 28 Abs. 3 lit. c, Art. 32 DSGVO.
@@ -458,23 +417,11 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 - SOC 2 Trust Services Criteria.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 4. `datenpanne-meldung`
 
 **Fokus:** Datenpanne nach Art. 33 34 DSGVO melden wenn Sicherheitsverletzung personenbezogener Daten vorliegt. Art. 33 34 DSGVO Meldepflichten § 65 BDSG. Prüfraster: Meldepflicht 72-Stunden-Frist Schwere Risikobewertung Behordenmeldung Betroffenenbenachrichtigung Dokumentation. Output: Meldeschreiben an Aufsichtsbehoerde Betroffenenbenachrichtigung Dokumentationsprotokoll. Abgrenzung: nicht für praeventive Massnahmen (dsfa-erstellung).
 
 ### Datenpannen-Meldung (Art. 33/34 DSGVO)
-
-## Zweck
-
-Dieser Skill unterstützt beim strukturierten Umgang mit Verletzungen des Schutzes personenbezogener Daten (Art. 4 Nr. 12 DSGVO). Er führt durch die dreistufige Prüfung: (1) Liegt eine meldepflichtige Datenschutzverletzung vor? (2) Muss die Aufsichtsbehörde innerhalb von 72 Stunden informiert werden? (3) Besteht zusätzlich eine Benachrichtigungspflicht gegenüber Betroffenen? Anwendungsfälle: Ransomware-Angriff, versehentlich offengelegter Datenexport, gestohlener Laptop, Fehlversand personenbezogener Daten, unbefugter Mitarbeiterzugriff.
 
 ## Eingaben
 
@@ -607,23 +554,9 @@ Stand: 05/2026. Aktualität prüfen bei neuen EuGH-Entscheidungen zum Schadenser
 
 ### Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung
 
-## Einsatz
-
-Wenn Auskunftei Löschung ablehnt oder nur sperrt.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 6 Abs. 1 lit. f, Art. 17, 18, 21; EuGH C-26/22/C-64/22.
-
-## Arbeitsfragen
-
-1. Welche Rechtsgrundlage nennt die Auskunftei?
-2. Welche Interessen werden konkret behauptet?
-3. Welche Nachteile entstehen dem Betroffenen?
-
-## Output
-
-Red-Team der Ablehnung und Klage-/Beschwerdebaustein.
 
 ## Red Flags
 
@@ -634,3 +567,4 @@ Red-Team der Ablehnung und Klage-/Beschwerdebaustein.
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

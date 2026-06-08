@@ -16,10 +16,6 @@ description: "Prueft starke-Staat- und Ordnungsmacht-Argumente anti-autoritaer: 
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill prüft, wann ein starkes Staatsargument rechtlich trägt und wann es autoritär kippt. Er eignet sich für Polizei- und Ordnungsrecht, Verwaltungsvollzug, Sicherheitsrecht, Krisenrecht, Infrastruktur, Migration, Versammlung, Beamtenrecht und politische Kommunikation.
-
 ## Sofort klären
 
 1. Welche Ordnung soll geschützt werden?
@@ -68,17 +64,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Gib ein Ordnungsmacht-Gutachten aus:
-
-| Element | Prüfung |
-| --- | --- |
-| Schutzgut | ... |
-| Gefahr | ... |
-| Normgrundlage | ... |
-| Zuständigkeit | ... |
-| Verhältnismäßigkeit | ... |
-| Grundrechte | ... |
-| Rechtsschutz | ... |
-| anti-autoritärer Befund | ... |

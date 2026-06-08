@@ -25,12 +25,6 @@ Rang Nachrang Absonderung und Aussonderung bei Insolvenzforderungen prüfen: Anw
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Prüft die insolvenzrechtliche Einordnung der Forderung und alle behaupteten Sonderrechte.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
-
 ## Startet bei
 
 - Nachrang ist angemeldet
@@ -82,6 +76,3 @@ Bevor losgelegt wird, klaere:
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Gesellschafterdarlehen § 39 Abs. 1 Nr. 5 / § 135 InsO?** Nach BGH IX ZR 239/22 vom 18.04.2024 strenge Anforderungen an Anfechtung gesellschafterähnlicher Stellungen; Sanierungsprivileg § 39 Abs. 4 InsO prüfen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

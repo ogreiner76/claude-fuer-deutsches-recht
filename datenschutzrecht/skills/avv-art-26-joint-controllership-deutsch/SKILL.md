@@ -115,12 +115,6 @@ Klauselgeruest für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 - Innenregress nicht geregelt.
 - Bei Webtracking: keine Beruecksichtigung der Erstuebermittlungsphase.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-rolemix-getrennt-vs-gemeinsam-verantwortlich/SKILL.md`
-- `datenschutzrecht/skills/joint-controllership-en-template/SKILL.md`
-- `datenschutzrecht/skills/avv-haftung-risikoallokation-art-82-dsgvo/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 26, Art. 13, Art. 14, Art. 82 Abs. 4 und Abs. 5 DSGVO.
@@ -130,14 +124,6 @@ Klauselgeruest für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 - EuGH C-40/17 – verifiziert.
 - Volltexte ueber curia.europa.eu pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -167,3 +153,4 @@ Klauselgeruest für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 - Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
 - Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
 - Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
+

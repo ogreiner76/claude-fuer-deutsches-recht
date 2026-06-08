@@ -91,12 +91,6 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 - Bei Insolvenz des AG: AN-Anspruch bleibt (Vertragsuebertragung an AN moeglich).
 - PSVaG (Pensions-Sicherungs-Verein) bei Direktzusage relevant, NICHT bei Direktversicherung.
 
-## Output
-
-- Konfigurierte Direktversicherung in DATEV LODAS.
-- Lohnabrechnung mit korrektem Sachbezug.
-- AG-Zuschuss 15 Prozent dokumentiert.
-
 ## Strategie und Praxis-Tipps
 
 - 4-Prozent-SV-Grenze pruefen — daruber LSt-frei, aber SV-pflichtig.
@@ -105,13 +99,6 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 - Bei Wechsel des AG: Vertrag uebertragen lassen, sonst Beitragsfreistellung.
 - StBVV: in Lohnpauschale; Beratung Direktversicherungs-Wahl Zusatzauftrag.
 - DATEV-Tipp: DATEV LODAS Direktversicherungs-Modul mit Versicherer-Schnittstelle (z.B. Allianz, R+V).
-
-## Querverweise
-
-- `stb-lohn-betriebliche-altersversorgung-grundlagen` — bAV-Grundlagen.
-- `stb-lohn-bav-doppelversorgung-foerderung` — Doppelfoerderung.
-- `stb-lohn-vermoegenswirksame-leistungen` — VL.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
 
 ## Quellen und Updates
 
@@ -124,3 +111,4 @@ Stand: 05/2026.
 - BBG-West RV 2025: 96.600 EUR; 8 Prozent = 7.728 EUR LSt-frei; 4 Prozent = 3.864 EUR SV-frei (Sozialversicherungs-Rechengroessenverordnung 2026 pruefen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 4 bestaetigt (BBG 2025 eingesetzt, BMF-GZ recherchiert), 2 ersetzt (Pruefhinweise ohne Marker) -->
+

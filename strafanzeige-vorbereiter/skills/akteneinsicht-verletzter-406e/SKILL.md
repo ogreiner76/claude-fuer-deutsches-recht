@@ -5,10 +5,6 @@ description: "Akteneinsicht für Verletzte und ihre Anwälte: Voraussetzungen, S
 
 # Akteneinsicht Verletzter § 406e StPO
 
-## Arbeitsbereich
-
-Akteneinsicht für Verletzte und ihre Anwälte: Voraussetzungen, Schutzinteressen, Datenschutz und Taktik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Akteneinsicht für Verletzte und ihre Anwälte: Voraussetzungen, Schutzinteresse
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Anzeigeerstatter, die wissen wollen, was aus dem Verfahren wird.
-
 ## Norm- und Quellenanker
 
 StPO § 406e; DSGVO; Persönlichkeitsrechte.
-
-## Arbeitsfragen
-
-1. Wer ist verletzt?
-2. Welches berechtigte Interesse?
-3. Welche Schutzinteressen Dritter?
-
 
 ## Normen & Rechtsprechung
 
@@ -49,9 +34,6 @@ Konkret zu prüfen:
 - §§ 397 ff. StPO (Nebenklage)
 - § 68b StPO (Zeugenbeistand)
 - RL 2012/29/EU
-## Output
-
-Akteneinsichtsantrag und Risikovermerk.
 
 ## Red Flags
 
@@ -63,6 +45,3 @@ Akteneinsichtsantrag und Risikovermerk.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

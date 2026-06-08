@@ -5,10 +5,6 @@ description: "Sachbereich Abfall- und Kreislaufwirtschaftsrecht im Geschaeftsber
 
 # Abfall- und Kreislaufwirtschaftsrecht (BMUKN)
 
-## Arbeitsbereich
-
-Sachbereich Abfall- und Kreislaufwirtschaftsrecht im Geschaeftsbereich BMUKN: Normbestand (KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.); Akteure (UBA; Länder-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.); EU-Bezug (EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Abfall- und Kreislaufwirtschaftsrecht (BMUKN)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Abfall- und Kreislaufwirtschaftsrecht (BMUKN)**. Prüfe diese An
 - `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -84,23 +79,6 @@ Mehrfachzuständigkeit; Marktueberwachung; Trittbrettfahrer im EPR-System.
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Abfall- und Kreislaufwirtschaftsrecht
-Ressort: BMUKN
-Kernnormen: KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.
-Akteure/Aufsicht: UBA; Länder-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.
-EU/Voelkerrecht: EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmukn` -> `legw-ressortaufgaben-bmukn` -> `legw-bmukn-abfall-und-kreislaufwirtschaftsrecht` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -109,6 +87,3 @@ Naechste Skills: legw-ressortaufgaben-bmukn; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

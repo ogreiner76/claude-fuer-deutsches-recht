@@ -5,10 +5,6 @@ description: "Datenbankrecht für Behörden und öffentliche Stellen: Behörden 
 
 # Datenbankrecht für Behörden — Herstellerrecht und Weiterverwendungspflichten
 
-## Arbeitsbereich
-
-Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankherstellerinnen nach § 87a UrhG, Verhältnis zu § 5 UrhG (amtliche Werke), IWG-Weiterverwendungspflichten, Open-Data-RL 2019/1024 und DSGVO-Anforderungen für Behördendatenbanken. Erstellt Datenbankrechte-Konzept für öffentliche Verwaltungen und bewertet Weiterverwendungsansprüche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankh
 - Personenbezogene Daten in Behördendatenbanken dürfen nicht unbeschränkt zur Weiterverwendung freigegeben werden.
 - Behörden als Hersteller können Unterlassungsansprüche gegen kommerzielle Nutzung geltend machen, soweit IWG nicht greift.
 
-## Output
-
-- Datenbankherstellerrecht-Check für öffentliche Stellen
-- IWG-Weiterverwendungsanspruch-Vorlage
-- Open-Data-Richtlinien-Compliance-Check für Behördendatenbanken
-- DSGVO-Zweckbindungs-Prüfbogen für Behördendaten
-- Lizenzgebühren-Zulässigkeitsanalyse (IWG-Grenzkosten vs. kommerzieller Gebühr)
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankh
 - [Open-Data-Richtlinie 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
 - [DSGVO Art. 5 — dejure.org](https://dejure.org/gesetze/DSGVO/5.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

@@ -10,10 +10,6 @@ description: "Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Dauerhaften Bereitstellungspflichten für digitale Elemente nach § 475c BGB prüfen: Pflichten des Verkäufers, Updatepflicht, Mängelhaftung und Abhilfeansprüche des Käufers.
-
 ## Normanker
 
 - § 475b BGB: Ware mit digitalen Elementen (Grundnorm)
@@ -46,25 +42,13 @@ Dauerhaften Bereitstellungspflichten für digitale Elemente nach § 475c BGB pr�
 - Einstellung des Supports ohne Information des Käufers kann Sachmangel begründen.
 - Käufer, der Update verweigert, verliert unter Umständen Mängelansprüche.
 - Bereitstellungszeitraum kann länger sein als der kaufrechtliche Gewährleistungszeitraum.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Bereitstellungspflichten-Analyse
-- Update-Compliance-Checkliste
-- Mängelansprüche bei Update-Pflichtverletzung
-- Handlungsempfehlung für Hersteller und Käufer
-
-## Qualitätsregeln
-
-- Ware mit digitalen Elementen immer von reinen Softwareverträgen abgrenzen.
-- Sicherheitsupdatepflicht als eigenständige Pflicht herausstellen.
-- § 475c Abs. 3 BGB (Update-Verweigerung durch Käufer) nicht vergessen.
 
 ## Anschluss-Skills
 
@@ -78,10 +62,4 @@ Dauerhaften Bereitstellungspflichten für digitale Elemente nach § 475c BGB pr�
 - https://www.gesetze-im-internet.de/bgb/__475c.html
 - https://www.gesetze-im-internet.de/bgb/__327.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

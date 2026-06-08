@@ -5,10 +5,6 @@ description: "PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn im Preuß
 
 # PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn
 
-## Aufgabe
-
-Dieser Skill bearbeitet **Erster Teil Titel 9 Grundstücke Grenzen Nachbarn** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
 ## Kaltstart in 6 Fragen
 
 1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
@@ -61,10 +57,3 @@ ALR I 9 / I 22 / I 23 regelt Grundstuecksrecht, Grenzen, Nachbarrecht, Notwege, 
 2. Eintragungen im Grundbuch (Altrecht ja/nein)?
 3. Heute Landesnachbarrecht und § 906 BGB anwenden, ALR nur als historischer Bezug.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

@@ -25,12 +25,6 @@ Anspruchsgrund Betrag und Zinsen der Insolvenzforderung prüfen: Anwendungsfall 
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Zerlegt die angemeldete Forderung in prüfbare Teilpositionen und macht Rechenfehler sichtbar.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
-
 ## Startet bei
 
 - Betrag passt nicht zu Belegen
@@ -79,6 +73,3 @@ Bevor losgelegt wird, klaere:
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Zinsen ab Eröffnung?** § 39 Abs. 1 Nr. 1 InsO Nachrangzinsen. Hauptforderung mit Zinsen bis Eröffnung als § 38 InsO-Forderung, ab Eröffnung als § 39 InsO-Nachrang anmelden bzw. trennen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

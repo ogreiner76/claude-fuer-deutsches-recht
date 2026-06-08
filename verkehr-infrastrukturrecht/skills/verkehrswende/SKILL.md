@@ -5,10 +5,6 @@ description: "Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fus
 
 # Verkehrswende und Verkehrsberuhigung — Rechtliche Umsetzung
 
-## Arbeitsbereich
-
-Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Förderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Prüfraster: Rechtsgrundlage Verkehrsanordnung, Verhältnismäßigkeit, Anfechtungsrisiken durch Anwohner/Gewerbetreibende, Beteiligung. Output Rechtsgutachten zur Massnahme, Begründungsbausteine für Beschluss. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -41,9 +37,6 @@ Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Massnahme qualifizieren:** reine Verkehrszeichen-Anordnung (§ 45 StVO) oder Strassenplanung (BauGB/StrWG)?
@@ -116,3 +109,4 @@ Bekanntgabe Widerspruch eingelegt werden.
 - Lieferverkehr nie vollstaendig ausschliessen — wirtschaftliche Grundversorgung sichern
 - Ausnahmegenehmigungen (§ 46 StVO) für Anlieger mit Behinderung / Gewerbe einplanen
 - Anfechtungsrecht der Anlieger bei Vollsperrungen: Eilrechtsschutz § 80 V VwGO wahrscheinlich
+

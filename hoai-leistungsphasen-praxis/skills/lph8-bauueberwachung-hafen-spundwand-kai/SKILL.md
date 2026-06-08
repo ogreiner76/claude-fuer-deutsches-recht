@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Hafenspundwaende und Kaianlagen �
 
 # Bauueberwachung Hafen Spundwand und Kai
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle C35/45 XS3 XF4, Korrosionsschutz Riffelblech nach DIN EN ISO 12944, kathodischer Korrosionsschutz sowie koordinierte Abnahme mit Hafen- und Wasserbehoerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Hafenbauwerke gehoeren zu den komplexesten Ingenieurbauwerken im Tiefbau: Stahls
 - Fehlende Ankerpfahl-Freilaenge: Zu kurze Freilaenge fuehrt zu Zwangsspannungen und Kopfbruch unter Last, Statik-Freigabe Pflicht
 - Betonage Kaiplatte bei Seegang: Schalung verformung bei Wellengang, Masstoleranzen Kaipflaster nicht einhaltbar
 
-## Output
-
-Rammprotokoll je Spundwandborle mit GPS und Eindringungsdiagramm. Abnahmeprotokoll Kaiplatte Betonguete. KKS-Inbetriebnahmeprotokoll mit Potential-Messkurve. ROV-Videoprotokoll Unterwasser-Sichtpruefung. Bautagebuch mit taeglich Wasserstand-Pegel. SAP-PM-Anlagenstruktur Hafen-Equipment-IDs. Abnahmeprotokoll Hafenbehoerde.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Rammprotokoll je Spundwandborle mit GPS und Eindringungsdiagramm. Abnahmeprotoko
 - [VOB Vergabe und Vertragsordnung](https://www.gesetze-im-internet.de/vob/)
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
+

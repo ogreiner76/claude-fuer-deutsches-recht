@@ -5,10 +5,6 @@ description: "Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, 
 
 # GP-led Secondary und Continuation Fund
 
-## Arbeitsbereich
-
-Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, Fairness Opinion und Transaktionsprozess. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,14 +87,6 @@ LP-Status-Letter (Auszug):
 - Carry-Crystallisation nicht steuerlich modelliert — Sponsor-Steuer-Schock.
 - Buyer ohne KYC / Anlegerklassifizierung — Closing-Risiko.
 
-## Querverweise
-
-- pe-005 für Spezial-AIF.
-- pe-011 für Side Letter und MFN.
-- pe-012 für klassische LP-Secondary.
-- pe-014 für Carry-Reset-Mechanik.
-- pe-020 für Tax-Strukturierung.
-
 ## Quellen Stand 06/2026
 
 - KAGB §§ 26, 281 ff.
@@ -107,3 +95,4 @@ LP-Status-Letter (Auszug):
 - SEC Private Fund Adviser Rules (vom Anwender mit aktuellem Stand zu prüfen).
 - BMF-Schreiben zu Investment-Veräußerungen und Step-Up (vom Anwender mit aktuellem BMF zu prüfen).
 - § 4k EStG (ATAD); MinStG (Pillar Two seit 01.01.2024).
+

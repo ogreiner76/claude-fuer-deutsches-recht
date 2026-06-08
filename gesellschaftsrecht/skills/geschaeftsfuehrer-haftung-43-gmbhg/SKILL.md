@@ -50,9 +50,6 @@ Vor Beginn des Haftungsprüfrasters folgende Fragen klären:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: GF-Haftung § 43 GmbHG
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
@@ -148,3 +145,4 @@ Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DAT
 - `gesellschaftsrecht:gesellschafterbeschluss` — Entlastungsbeschluss prüfen und anfechten
 - `gesellschaftsrecht:gesellschafterstreit-loesungsstrategie` — wenn Haftungsvorwurf Teil eines Gesellschafterkonflikts ist
 - `gesellschaftsrecht:mandat-triage-gesellschaftsrecht` — wenn Mandat neu aufgenommen wird
+

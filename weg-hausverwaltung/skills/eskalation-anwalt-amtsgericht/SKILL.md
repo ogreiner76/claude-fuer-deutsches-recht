@@ -62,14 +62,6 @@ Rechtzeitig markieren, wann die Verwaltung nicht weiter allein handeln sollte. F
 > 6. **Vollmacht**: liegt bei (Anlage X), Beschluss der GdWE / Bestellung Beirat unter TOP [...] vom [Datum].
 > Wir bitten um Erstbewertung mit Kostenschätzung bis [Datum].
 
-## Output
-
-- Anwaltspaket gemäß Mindestinhalt
-- Klage-/Eilrechtsschutz-Risikoübersicht
-- Vergleichs- oder Neubeschluss-Option
-- Mandantenfreundliche Kurznotiz für Beirat/Eigentümer
-- Hinweis auf Prozesskostenanteil (V ZR 139/23) und Hausgeld-Vorschuss-Logik (V ZR 190/24)
-
 ## Cross-Refs
 
 - Anfechtungsrisiko / Heilung → `beschlussanfechtung-risiko`
@@ -81,10 +73,3 @@ Rechtzeitig markieren, wann die Verwaltung nicht weiter allein handeln sollte. F
 
 `rechtsstand-mai-2026-faktenbank` laden. §§ 43, 44, 45 WEG: https://www.gesetze-im-internet.de/woeigg/__43.html, https://www.gesetze-im-internet.de/woeigg/__44.html, https://www.gesetze-im-internet.de/woeigg/__45.html .
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

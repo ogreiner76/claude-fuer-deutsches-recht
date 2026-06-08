@@ -5,10 +5,6 @@ description: "Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrecht
 
 # Beweissicherung durch Testcrawler — Zulässigkeit und Verwertbarkeit
 
-## Arbeitsbereich
-
-Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrechts-Verletzungen: Aufbau und Betrieb eines eigenen Testcrawlers zur Verletzungsdokumentation, Verwertbarkeit der Ergebnisse als Beweismittel, notarielle Begleitung und Verhältnis zu § 202a StGB und DSGVO. Erstellt Testcrawler-Protokoll und rechtliche Bewertung der Zulässigkeit dieser Beweismethode. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrechts-Verletzungen
 - DSGVO-Verletzung durch personenbezogene Datenabrufe im Testcrawler kann die Beweise unverwertbar machen.
 - Sachverständiger muss die Crawl-Vergleichsmethodik vor Gericht erklären können — Briefing ist entscheidend.
 
-## Output
-
-- Testcrawler-Zulässigkeitsprüfung (§ 202a StGB / AGB / DSGVO)
-- Testcrawler-Protokollvorlage (Zeitstempel, Hashwerte, Honey-Pot-Vergleich)
-- Notarielle Beweissicherungs-Briefing-Vorlage für Crawl-Dokumentation
-- Sachverständigen-Briefing für technischen Datenbankvergleich
-- Prozessvorbereitung: Crawl-Beweis als Augenscheinsbeweis nach § 286 ZPO
-
 ## Quellen
 
 - [§ 286 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/286.html)
@@ -75,3 +63,4 @@ Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrechts-Verletzungen
 - [eIDAS-VO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32014R0910)
 - [DSGVO Art. 6 — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [§ 371 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/371.html)
+

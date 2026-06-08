@@ -5,9 +5,6 @@ description: "Anfaenger Amtsgericht Rechtsprechungschat im Selbstvertretung am A
 
 # Anfaenger Amtsgericht Rechtsprechungschat
 
-## Arbeitsbereich
-
-**Anfaenger Amtsgericht Rechtsprechungschat** ordnet den Fall über die tragenden Prüfungslinien: Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter vor dem, Fristbeginn ab Zustellung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Anfaenger Amtsgericht Rechtsprechungschat im Selbstvertretung am A
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `anfaenger-workflow-amtsgericht`
@@ -30,12 +28,6 @@ description: "Anfaenger Amtsgericht Rechtsprechungschat im Selbstvertretung am A
 **Fokus:** Geführter Anfänger-für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache; routet zu Klage, Klageerwiderung, Beweis, PKH, Termin, Urteil und Rechtsmittel.
 
 ### Anfänger-Amtsgericht
-
-## Zweck
-
-Dieser Skill ist der sehr geführte Einstieg für Menschen, die noch nie vor Gericht waren. Er soll nicht einschüchtern, sondern ordnen: Was liegt vor? Was läuft gerade? Was muss heute passieren? Was kann später kommen? Welche Fachmodule aus diesem Plugin helfen als nächstes?
-
-Der Skill arbeitet in Sie-Form, mit kurzen Sätzen und ohne Juristenjargon. Fachbegriffe werden erst dann erklärt, wenn sie gebraucht werden.
 
 ## Sofortfrage
 
@@ -106,57 +98,11 @@ Geben Sie dem Nutzer am Ende genau einen nächsten Arbeitsschritt, wenn die Lage
 | Unsichere Argumentation | `rechtsprechungschat-amtsgericht` |
 | Vor Einreichung | `sanity-check-selbstvertretung-amtsgericht` |
 
-## Ausgabeformat
-
-**Kurzbild**
-- Stand:
-- Frist:
-- Gericht:
-- Rolle:
-- Risiko:
-
-**Ihr nächster Schritt**
-1. [konkrete Handlung]
-
-**Warum**
-[Ein bis drei einfache Sätze.]
-
-**Passender Plugin-Skill**
-| Skill | Warum jetzt? | Ergebnis |
-|---|---|---|
-| `skill` | Grund | Output |
-
-**Bitte nicht vergessen**
-- Datum der Zustellung sichern.
-- Alles kopieren oder fotografieren.
-- Nichts nur telefonisch klären, wenn eine Frist läuft.
-
-## Qualitätsregeln
-
-- Keine falsche Sicherheit geben.
-- Keine Rechtsmittel, Fristen oder Wertgrenzen erfinden.
-- Bei Rechtsmittel, Landgericht, Familiengericht, Vollstreckung, hoher Gegenforderung oder unklarer Zustellung immer auf anwaltliche Prüfung oder Rechtsantragsstelle hinweisen.
-- Trotzdem handlungsfähig bleiben: immer sagen, welcher sichere nächste Schritt jetzt möglich ist.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `rechtsprechungschat-amtsgericht`
 
 **Fokus:** Geführter Rechtsprechungschat für Selbstvertreter vor dem Amtsgericht. Hilft, passende BGH-, BVerfG-, LG- und AG-Rechtsprechung zu finden, sauber zu zitieren, auf den eigenen Sachverhalt zu übertragen und Scheinargumente zu vermeiden.
 
 ### Rechtsprechungschat Amtsgericht
-
-## Zweck
-
-Dieser Skill hilft Bürgerinnen und Bürgern, Rechtsprechung nicht als bloße Fundstellensammlung zu benutzen, sondern als Arbeitsmittel: Welche Entscheidung passt wirklich? Was ist nur ähnlich? Was kann man in einem Schriftsatz verwenden? Was sollte man lieber weglassen?
-
-Der Skill erfindet keine Entscheidungen. Wenn eine Fundstelle nicht sicher ist, muss eine Live-Recherche oder Aktenprüfung eingeplant werden.
 
 ## Startfragen
 
@@ -207,41 +153,6 @@ Nicht schreiben:
 ```text
 Die Rechtsprechung sagt eindeutig, dass ich gewinnen muss.
 ```
-
-## Ausgabeformat
-
-**Rechtsfrage**
-[Ein Satz.]
-
-**Normanker**
-| Norm | Bedeutung |
-|---|---|
-
-**Rechtsprechungslage**
-| Fundstelle | Kernaussage | Passt? | Warum? |
-|---|---|---|---|
-
-**Verwendung im Schriftsatz**
-[Kurzer Baustein.]
-
-**Offen**
-- Welche Fundstelle muss live verifiziert werden?
-- Welche Tatsache aus Ihrem Fall muss noch belegt werden?
-
-## Qualitätsregeln
-
-- Keine Fundstelle nennen, wenn Gericht, Datum oder Aktenzeichen unsicher sind.
-- Randnummern nur nennen, wenn sie verifiziert sind.
-- Bei aktueller oder streitiger Rechtsprechung immer Aktualitätsprüfung empfehlen.
-- Selbstvertreter nicht mit zehn Entscheidungen erschlagen; lieber eine tragende Entscheidung sauber erklären.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `fristbeginn-zustellung-protokollieren`
 
@@ -350,24 +261,9 @@ Ausnahme: Bei unverschuldetem Verhindertsein evtl. Wiedereinsetzung (Skill `wied
 - "Gelber Umschlag weggeworfen." → Beweis verloren.
 - "Urlaub mit voller Mailbox." → Frist laeuft trotzdem.
 
-## Querverweise
-
-- `fristen-berechnen-187-188-bgb` — Berechnung.
-- `fristen-buch-fuehren-laien` — Reminder-System.
-- `wiedereinsetzung-frist-233-zpo` — Wiedereinsetzung.
-- `klageerwiderung-fristen-274-zpo` — Beklagter-Fristen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Zustellungsrecht §§ 166 ff. ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

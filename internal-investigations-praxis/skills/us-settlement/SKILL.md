@@ -5,10 +5,6 @@ description: "Koordiniert die Zusammenarbeit zwischen deutschem und US-amerikani
 
 # US-Counsel-Koordination in Cross-Border-Investigations
 
-## Arbeitsbereich
-
-Koordiniert die Zusammenarbeit zwischen deutschem und US-amerikanischem Counsel in Cross-Border-Investigations – Privilege-Konflikte, Offenbarungspflichten, Joint-Defense. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill strukturiert die Koordination zwischen deutschem und US-Counsel so,
 - Deutsches OWiG-Bußgeld: parallele Verhandlung.
 - Kein Widerspruch: was das Unternehmen dem DOJ zugegeben hat, kann in deutschen Strafverfahren gegen Individuen verwendet werden.
 
-## Red-Team-Fragen
-
-- Gibt es widersprüchliche Aussagen gegenüber DOJ und deutschen Behörden?
-- Ist ein Joint-Defense-Agreement in Kraft, und schützt es die Kommunikation zwischen allen Co-Defendants?
-- Wurden US-Dokumente dem DOJ übergeben, ohne die DSGVO-Rechtsgrundlage für den Transfer zu prüfen?
-- Ist der „One-Voice"-Ansatz tatsächlich umgesetzt – werden alle Behördenkommunikationen koordiniert?
-- Hat das Unternehmen bei der Grand-Jury-Befragung die Interessen der deutschen Mitarbeiter gewahrt?
-- Gibt es Drittstaaten (UK, Frankreich, China), die eigene Counsel-Koordination erfordern?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -97,3 +84,4 @@ Dieser Skill strukturiert die Koordination zwischen deutschem und US-Counsel so,
 - **DSGVO-/US-Discovery-Konfliktanalyse**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

@@ -68,7 +68,3 @@ description: "Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklär
 6. Widerspruchsfrist und Begründungsfrist gesichert?
 7. Pflegeperson, Rentenversicherung, Verhinderungspflege/Kurzzeitpflege und Kombinationsleistung mitgedacht?
 
-## Output
-
-- Leistungsübersicht mit aktuellem Betrag, Rechtsgrundlage, Nachweis, Pflegekassenkontakt und Frist.
-- Widerspruchsgerüst gegen falschen Pflegegrad mit alltagsnahen Beispielen statt bloßer Diagnosen.

@@ -5,10 +5,6 @@ description: "HOAI-Fachfrage LPH 4: Genehmigungsplanung, Bauantrag, Brandschutz,
 
 # LPH 4 Genehmigungsrisiko, Bauantrag Und Auflagen
 
-## Arbeitsbereich
-
-HOAI-Fachfrage LPH 4: Genehmigungsplanung, Bauantrag, Brandschutz, Nachforderungen, Auflagen, Nutzungsänderung und Rücksprung in frühere Leistungsphasen taktisch und haftungsfest prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ HOAI-Fachfrage LPH 4: Genehmigungsplanung, Bauantrag, Brandschutz, Nachforderung
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Anwendungsfall: die Behörde Nachforderungen stellt, der Bauantrag nicht genehmigungsfähig scheint oder Auflagen Kosten und Planung verändern.
 
 ## Normanker
 
@@ -35,6 +27,3 @@ Anwendungsfall: die Behörde Nachforderungen stellt, der Bauantrag nicht genehmi
 4. Kosten- und Terminfolge bestimmen.
 5. Kommunikationsstrategie mit Behörde und Bauherr vorbereiten.
 
-## Output
-
-Auflagenlog mit Verantwortlichkeit, Planänderung, Honorar-/Nachtragsfolge und nächster Behördenantwort.

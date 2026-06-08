@@ -20,12 +20,7 @@ Arbeitsfokus: **Überforderung, Verhinderung und Abgabe**. Prüfe diese Anker am
 - `§ 5 BtOG` — Beratung.
 - `§ 8 BtOG` — Betreuungsvermeidung.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill schützt die betreute Person und den Betreuer, wenn die Betreuung zu groß wird. Nicht jede Betreuung muss heroisch durchgehalten werden. Manchmal ist der beste Schutz: Aufgaben begrenzen, Hilfe holen oder geordnet abgeben.
 
 ## Red Flags
 
@@ -73,3 +68,4 @@ Vor jeder Abgabe prüfen:
 - Welche Fristen laufen?
 - Welche Unterlagen müssen übergeben werden?
 - Muss das Gericht sofort informiert werden?
+

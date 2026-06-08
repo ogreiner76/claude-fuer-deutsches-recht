@@ -56,19 +56,6 @@ Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Ab
 - Kritisches Kontingent kann Sicherheitsleistung erfordern; cash-flow-Auswirkung.
 - Kontingent gilt oft pro Kontingentsjahr; Jahreswechsel-Management notwendig.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +74,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Kontingentantrag bei zuständiger Stelle, Kontingent-Monitoring-Plan für TARIC-Erschoepfung, Lizenz-Management-Kalender.
-
 ## Quellen
 
 - [TARIC-Datenbank EU-Kommission](https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp)
 - [UZK auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
 - [BLE Agrar-TRQ-Lizenzen](https://www.ble.de/DE/Themen/Markt-Absatz/markt-absatz_node.html)
 - [Zoll.de Zollkontingente](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollkontingente/zollkontingente_node.html)
+

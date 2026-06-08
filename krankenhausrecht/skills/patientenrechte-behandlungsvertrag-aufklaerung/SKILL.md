@@ -5,10 +5,6 @@ description: "Patientenrechte und Behandlungsvertrag (§§ 630a-630h BGB): Aufkl
 
 # Patientenrechte Behandlungsvertrag Aufklaerung
 
-## Arbeitsbereich
-
-Patientenrechte und Behandlungsvertrag (§§ 630a-630h BGB): Aufklaerungs- und Dokumentationspflichten, Einwilligung, Patientenakte, Beweislast bei Behandlungsfehler, Schadensersatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,17 +73,10 @@ Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltn
 - Einwilligungsfaehigkeit ungeprueft (insb. Demenz, akut psychotisch).
 - Dokumentationsluecken bei Pflege — Beweislastumkehr droht.
 
-## Querverweise
-- `dokumentation-aufbewahrung-beweislast`
-- `haftpflichtfall-krankenhaus-gutachtenstrategie`
-- `wahlleistungsvereinbarung-chefarzt-leistungskette`
-- `datenschutz-krankenhaus-patientenakte-forschung`
-- `geburtshilfe-haftung-hebammen-schnittstelle`
-- `psychiatrie-psychkg-unterbringung-fixierung`
-
 ## Quellen Stand 06/2026
 - BGB §§ 630a-630h.
 - DSGVO Art. 12-22.
 - BGH, staend. Rspr. zu Aufklaerung, Behandlungsfehler, Beweislast (§ 630h BGB).
 - MBO-Aerzte, Bundesaerztekammer-Hinweise.
 - StGB §§ 223 ff., § 203.
+

@@ -120,13 +120,7 @@ Wenn die erste Klausel verloren / ausgegeben: zweite Klausel auf Antrag (§ 733 
 - "Klausel ohne Zustellung an Schuldner." → Verfahrensfehler.
 - "Klausel verloren — egal." → Zweite beantragen.
 
-## Querverweise
-
-- `urteil-rechtskraft-705-zpo` — Rechtskraft.
-- `urteilsverkuendung-310-zpo` — Verkuendung.
-- `zwangsvollstreckung-querverweis-substitutionsagent` — Vollstreckung.
-- `gegnerische-vollstreckung-abwehr` — Bei Niederlage.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 724 ff. ZPO unveraendert.
+

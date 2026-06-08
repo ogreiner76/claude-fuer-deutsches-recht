@@ -149,9 +149,6 @@ Weitere Entscheidungen vor Ausgabe live in dejure.org / openjur.de mit Gericht, 
 - PSD2-RL (EU 2015/2366) — Zahlungsdiensterichtlinie; in BGB umgesetzt
 - PSD3-Vorhaben (Payment Services Regulation, COM(2023)367) und Payment Services Directive 3 — Stand des Gesetzgebungsverfahrens vor Verwendung pruefen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. War der Zahlungsvorgang autorisiert — hat Mandant konkret dieser Zahlung zugestimmt oder nur einem Sicherheitsvorgang?
 2. Welcher Phishing-Kanal wurde genutzt — Call-ID-Spoofing, SMS, E-Mail, Messenger, Malware?
@@ -206,3 +203,4 @@ Mit freundlichen Gruessen
 
 Anlagen: Chronologie des Vorfalls (Anlage K1), Kontoauszug (Anlage K2)
 ```
+

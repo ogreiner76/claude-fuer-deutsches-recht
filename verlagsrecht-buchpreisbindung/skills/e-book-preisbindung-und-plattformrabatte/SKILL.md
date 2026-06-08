@@ -5,10 +5,6 @@ description: "Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, 
 
 # Verl-013 · E-Book-Preisbindung und Plattformrabatte
 
-## Arbeitsbereich
-
-Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, Rabatte durch Amazon, Apple und andere Anbieter — BuchPrG § 2 Abs. 1 Nr. 3, Durchsetzung und Vertragsgestaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -128,3 +124,4 @@ Die E-Book-Preisbindung ist ein Spezialbereich mit erheblichem Konfliktpotenzial
 - **Monitoring-Bericht**: Preisabweichungen der letzten 30 Tage
 - **Abmahnungsentwurf** bei Preisbindungsverstoß durch Plattform
 - **MFN-Klausel-Risikoanalyse**
+

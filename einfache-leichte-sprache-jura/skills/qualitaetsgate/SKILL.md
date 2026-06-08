@@ -22,10 +22,6 @@ Dieses Fachmodul vor jeder Herausgabe.
 - BITV 2.0 Anhang 1 — Pruefanforderungen für digitale Barrierefreiheit
 - DIN 33430 — Qualitaetsanforderungen an Testverfahren (analog heranziehbar für Verstaendlichkeitspruefungen)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -34,9 +30,11 @@ Konkret zu prüfen:
 - BGG (Behindertengleichstellungsgesetz) § 11
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
+
 ## Output-Template: Qualitaetsgate-Ergebnis
 
 ```
+
 ## Qualitaetsgate
 
 Geprueft am: [DATUM]
@@ -64,6 +62,7 @@ Status: freigabereif / ueberarbeiten / Nutzergruppe-Pruefung offen
 - [ ] Leichte Sprache: Pruefung durch Zielgruppe faelschlich behauptet
 - [ ] Text wirkt herablassend
 ```
+
 ## Pflichtprüfung
 
 | Prüfungslinie | Frage |
@@ -94,6 +93,7 @@ sein. Ein längerer Satz kann ausnahmsweise nötig sein.
 ## Ergebnisformat
 
 ```markdown
+
 ## Qualitätsgate
 
 Status: freigabereif / überarbeiten / Nutzerprüfung offen
@@ -125,3 +125,4 @@ Stoppe die Herausgabe, wenn:
 - bei Leichter Sprache fälschlich behauptet wird, es habe eine Prüfung durch
  Zielgruppenpersonen gegeben.
 - der Text herablassend wirkt.
+

@@ -27,9 +27,6 @@ description: "Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anw
 - **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** zu Doppelfestsetzung GrEStG bei Signing/Closing-Trennung (§ 1 Abs. 2b, § 1 Abs. 3 Nr. 1 GrEStG).
 - Weitere Rechtsprechung: vor Zitierung ueber dejure.org / BFH-Datenbank verifizieren (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage).
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Voraussetzungen
 
 - **Vorverfahren** durchgeführt — Einspruchsentscheidung liegt vor (§ 44 FGO).
@@ -120,3 +117,4 @@ Nach Urteil des FG: Revision an BFH (§ 115 FGO) wenn zugelassen oder Nichtzulas
 ## Versand
 
 Über beA — vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
+

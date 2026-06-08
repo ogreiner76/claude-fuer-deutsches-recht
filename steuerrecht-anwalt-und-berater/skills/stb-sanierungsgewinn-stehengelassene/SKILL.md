@@ -5,10 +5,6 @@ description: "Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Kris
 
 # Sanierungsgewinn — frühzeitige Mandantenwarnung
 
-## Arbeitsbereich
-
-Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Krise. Erklärt mit verständlicher Sprache, weshalb ein Forderungsverzicht ohne Vorbereitung steuerpflichtig wird, und welche Schritte nach Paragraf 3a EStG die Liquidität retten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -197,13 +193,6 @@ Mit freundlichen Grüßen
 - Steuerberater nicht informiert; Doppelarbeit.
 - Honorarvereinbarung fehlt; Folgemandat schwer durchsetzbar.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-fruehwarnung-monat-zwoelf-vor-plan`
-- `stb-sanierungsgewinn-vorbereitungs-checkliste`
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `anw-haftungswarn-15a-inso-mandant`
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG (Steuerbefreiung Sanierungsertrag).
@@ -214,3 +203,4 @@ Mit freundlichen Grüßen
 - § 43a Abs. 2 BRAO, § 203 StGB.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe Quelle protokollieren.
+

@@ -5,10 +5,6 @@ description: "Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette im
 
 # BSI C5 Cloud Check
 
-## Arbeitsbereich
-
-Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Cloud-Due-Diligence-Memo. Wenn der Nutzer nur eine Kurzantwor
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

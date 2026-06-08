@@ -36,12 +36,6 @@ Beim Prüfen: nur `✓` melden wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich
 
 ### Kaltstart-Interview: Produktrecht
 
-## Zweck
-
-Produktrecht ist unternehmensspezifisch auf eine Weise wie andere Rechtsbereiche es nicht sind. Was bei einem Fintech ein Launch-Blocker ist, ist bei einem Ad-Tech-Unternehmen eine Info-Meldung. Dieselbe Feature ist hochriskant für ein Unternehmen unter einer Abmahnserie und Routine für eines das der Behörde bisher unbekannt ist.
-
-Dieses Interview lernt die Risikokalibrierung *Ihres* Unternehmens durch Lesen Ihrer tatsächlichen Launch-Review-Dokumente – wo Sie blockiert haben, wo Sie durchgewunken haben, und womit Sie Zeit verbracht haben.
-
 ## Kaltstart-Prüfung
 
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` lesen:
@@ -399,3 +393,4 @@ Wenn ja, diese maßgeschneiderte Liste zeigen:
 
 <!-- AUDIT 27.05.2026 bundle_040
 -->
+

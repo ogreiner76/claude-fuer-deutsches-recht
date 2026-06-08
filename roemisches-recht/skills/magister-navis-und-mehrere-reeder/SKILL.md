@@ -5,10 +5,6 @@ description: "Magister navis und Mehrfachreederschaft im roemischen Seerecht. Sk
 
 # Rom 127 Magister Navis Und Mehrere Reeder
 
-## Aufgabe
-
-Skill für die Mehrfachreederschaft.
-
 ## Rechtsquelle
 
 - D. 14.1 (De exercitoria actione).
@@ -65,7 +61,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Schiffsgemeinschaft.

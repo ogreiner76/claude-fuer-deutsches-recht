@@ -5,10 +5,6 @@ description: "Import Einzelimport § 73 AMG: prüft die einschlägigen Vorausset
 
 # Import Einzelimport § 73 AMG
 
-## Arbeitsbereich
-
-Import Einzelimport § 73 AMG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,15 +92,6 @@ Eingaben:
 - BtM-Einzelimport (eigene Regelung) nicht beachtet — Sonderverfahren über Bundesopiumstelle erforderlich.
 - Cannabis-Einzelimport nicht über BfArM angemeldet — Sonderregime ignoriert.
 
-## Querverweise
-
-- `arzneimittelabgabe-verschreibungspflicht` (allgemein)
-- `lieferengpaesse-austausch-dokumentation` (Engpass)
-- `cannabis-medizinalcannabis-abgabe-dokumentation` (Cannabis-Sonderfall)
-- `arzneimittelrisiken-rueckruf-chargenrueckverfolgung` (Sicherheit)
-- `preisbindung-arzneimittel-ampreisv` (Preisrelevanz)
-- `rechnung-retaxation-krankenkasse` (GKV-Abrechnung)
-
 ## Quellen Stand 06/2026
 
 - AMG §§ 21, 73, 79; AMHandV.
@@ -112,3 +99,4 @@ Eingaben:
 - BSG, staend. Rspr. zur Kostenübernahme nicht zugelassener Arzneimittel.
 - ABDA-Hinweise zum Einzelimport (vom Anwender zu verifizieren).
 - Zollvorschriften für Drittstaaten-Import (BfArM-Merkblatt).
+

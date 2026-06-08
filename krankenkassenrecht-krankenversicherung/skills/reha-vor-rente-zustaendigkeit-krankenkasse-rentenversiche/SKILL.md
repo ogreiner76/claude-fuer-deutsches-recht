@@ -5,10 +5,6 @@ description: "Rehabilitation: Zuständigkeitsabgrenzung GKV (§ 40 SGB V) und De
 
 # Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung
 
-## Arbeitsbereich
-
-Rehabilitation: Zuständigkeitsabgrenzung GKV (§ 40 SGB V) und Deutsche Rentenversicherung (§ 9 ff. SGB VI), Nahtlosigkeit, Zwang zur Reha. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Rehabilitation ist häufig Streitgegenstand: **Wer ist zuständig – Krankenkas
 - [Deutsche Rentenversicherung – Rehabilitation](https://www.deutsche-rentenversicherung.de)
 - [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org SGB IX § 14](https://dejure.org/gesetze/SGB_IX/14.html)
+

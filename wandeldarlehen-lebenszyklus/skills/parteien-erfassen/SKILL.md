@@ -5,10 +5,6 @@ description: "Vertragsparteien eines Wandeldarlehens vollständig identifizieren
 
 # Parteien erfassen – KYC und Vertretungsmacht
 
-## Arbeitsbereich
-
-Vertragsparteien eines Wandeldarlehens vollständig identifizieren und dokumentieren. §§ 13 17 GmbHG Gesellschafter §§ 305 ff. BGB AGB bei mehreren Darlehensgebern. Prüfraster: Darlehensgeberin Darlehensnehmerin vertretungsberechtigte Organe Handelsregisterstand. Output: Parteiendossier für Vertragskopf. Abgrenzung: Einstiegs-Skill; vor Vertragserstellung zu verwenden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Vertragsparteien eines Wandeldarlehens vollständig identifizieren und dokumenti
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erfasst alle für den Wandeldarlehensvertrag erforderlichen Parteidaten vollständig und strukturiert. Er prüft Vertretungsmacht, dokumentiert Anschriften und bereitet die Vertragsparteien-Sektion vor. Außerdem initiiert er den Geldwäsche-Grundcheck (KYC). Phase A des Lebenszyklus.
 
 ## Eingaben
 
@@ -92,12 +84,6 @@ Strukturierte Textblöcke für den Vertragskopf: Gesellschaft, Gesellschafterin 
 | Vollmacht fehlt | Vertrag schwebend unwirksam | Vollmacht in Vorbereitung | Vollmacht vorgelegt |
 | HR-Auszug veraltet (über 3 Monate) | Vertretungsrisiko | 3 bis 6 Monate alt | Aktuell |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/kyc-aml-geldwaesche/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/mandat-triage-wandeldarlehen/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/bilinguale-vertragserstellung/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GwG/GmbHG aktualisieren.
@@ -113,3 +99,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 §§ 10, 11 GwG (Identifizierung wirtschaftlich Berechtigter) → §§ 18, 19 GwG (Transparenzregister) → § 40 GmbHG (Gesellschafterliste: Angaben Gesellschafter) → § 15 GmbHG (Abtretung, Übergang Anteile) → § 313 BGB (Identitätsbezeichnung in notariellen Urkunden)
+

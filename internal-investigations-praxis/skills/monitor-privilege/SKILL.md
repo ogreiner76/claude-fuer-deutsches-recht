@@ -5,10 +5,6 @@ description: "Strukturiert das Reporting an einen externen Compliance-Monitor na
 
 # Externer Compliance-Monitor und Monitor-Reporting
 
-## Arbeitsbereich
-
-Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill stellt sicher, dass das Monitor-Reporting vollständig, strategisch
 - Zeitraum: unbegrenzt, solange BaFin es für erforderlich hält.
 - Strategie: proaktive Kooperation, Fortschrittsberichte, klare Milestones für Exit.
 
-## Red-Team-Fragen
-
-- Versteht das Monitor-Team das genaue Mandat des Monitors, einschließlich Zugriffsrechten und Berichtspflichten?
-- Gibt es neue Compliance-Vorfälle, die dem Monitor noch nicht proaktiv gemeldet wurden?
-- Wurden alle Dokumentenanfragen des Monitors zeitnah und vollständig beantwortet?
-- Ist das Unternehmen auf den Abschlussbericht des Monitors vorbereitet, oder gibt es Risiken bei der Attestierung?
-- Gibt es ungelöste faktische oder rechtliche Disputes mit dem Monitor, die eskaliert werden müssen?
-- Ist das Compliance-Programm nach Monitor-Ende nachhaltig genug, um ohne externe Aufsicht zu bestehen?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -96,3 +83,4 @@ Dieser Skill stellt sicher, dass das Monitor-Reporting vollständig, strategisch
 - **Exit-Checkliste** (Attestierungsvoraussetzungen)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

@@ -100,16 +100,9 @@ Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenomme
 - **Strafmilderungsgruende** in der Strafbefehlspruefung uebersehen.
 - **Freiheitsstrafe ohne Verteidiger** im Strafbefehl: Anhaltspunkt für Pflichtverteidigung pruefen (§ 140 StPO).
 
-## Querverweise
-
-- `orientierung-strafzumessung-triage` — Eingang ins Plugin.
-- `geldstrafe-tagessatzanzahl-bestimmen` — Anzahl.
-- `tagessatzhoehe-40-ii-stgb-nettotagesverdienst` — Hoehe.
-- `geldstrafe-vs-freiheitsstrafe-47-stgb` — Vorrang Geldstrafe.
-- Plugin `strafbefehl-verteidiger` — Gesamtverteidigung gegen Strafbefehl.
-
 ## Quellen und Stand 05/2026
 
 - §§ 407-412 StPO in der geltenden Fassung.
 - §§ 40-43, 46, 47, 56 StGB.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

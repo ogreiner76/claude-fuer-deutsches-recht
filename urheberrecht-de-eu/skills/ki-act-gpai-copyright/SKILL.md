@@ -5,10 +5,6 @@ description: "Prueft GPAI-Pflichten zu Urheberrechts-Policy, Rechtevorbehalten, 
 
 # KI-VO GPAI und Urheberrechtspolitik
 
-## Arbeitsbereich
-
-Prueft GPAI-Pflichten zu Urheberrechts-Policy, Rechtevorbehalten, Training-Content-Summary und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,3 +80,4 @@ Konkret zu prüfen:
 - § 44b UrhG
 - Art. 4 RL 2019/790
 - Art. 53 AI-Act (Trainingsdaten)
+

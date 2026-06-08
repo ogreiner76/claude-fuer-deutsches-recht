@@ -5,10 +5,6 @@ description: "Rechtliche Rahmenbedingungen für Elektromobilitaet und gruenen Wa
 
 # E-Mobilität und Wasserstoff
 
-## Arbeitsbereich
-
-Rechtliche Rahmenbedingungen für Elektromobilitaet und gruenen Wasserstoff prüfen: Ladepunkte, H2-Einspeisung. Normen: § 14a EnWG, EEG, GEG, EU-Verordnung Alternative Kraftstoffe. Prüfraster: Netzintegration, Foerderrecht, Liefervertrag, Regulierungsrahmen. Output: Regulierungsrahmen E-Mobilitaet und Wasserstoff. Abgrenzung: nicht allgemeines Netzrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Rechtliche Rahmenbedingungen für Elektromobilitaet und gruenen Wasserstoff prü
 - Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Behandelt die beiden Wachstums-Felder Ladeinfrastruktur (E-Mobilität) und Wasserstoff-Wirtschaft. Recht ist im starken Wandel — RED III, AFIR, BEHG, KSchV-CCfD.
 
 ## Eingaben
 
@@ -251,9 +243,6 @@ Behandelt die beiden Wachstums-Felder Ladeinfrastruktur (E-Mobilität) und Wasse
 
 § 37a BImSchG (THG-Quote) — §§ 7 ff. LSV (Ladesaeulenverordnung) — Art. 3 AFIR 2023/1804 (Mindestanforderungen Ladeinfrastruktur) — §§ 2, 6 MessEG (Eichrecht) — §§ 1, 5 EEG (Erneuerbarkeits-Kriterien RED III) — § 28 EnWG (Wasserstoff-Netz)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-eeg-kwkg-erzeugung` (Elektrolyseure-Strom)
@@ -277,3 +266,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - H2-Stammnetz-Beschluss BNetzA
 - UBA THG-Quoten-Verwaltung
 - BVerwG-/EuGH-Linien zu E-Mobilität (begrenzt)
+

@@ -5,10 +5,6 @@ description: "Quartalsgespraech BWA-Übergabe. Anwendungsfall systematische Quar
 
 # Quartalsgespraech — BWA-Uebergabe mit dem Mandanten
 
-## Arbeitsbereich
-
-Quartalsgespraech BWA-Übergabe. Anwendungsfall systematische Quartalskommunikation mit Mandant Ergebnisbesprechung Steuerthemen Investitionsplanung. Methodik Termin-Vorbereitung Agenda Dokumentation. Output Quartalsgespraechs-Protokoll Massnahmen-Liste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -172,12 +168,6 @@ Naechste Schritte:
 - Naechster Termin Quartalsgespraech bereits in Kalender.
 - Mandant-Verbindlichkeit der Protokoll-Bestaetigung.
 
-## Output
-
-- Gespraechs-Protokoll.
-- Aktionspunkte-Liste.
-- Wiedervorlage in DATEV-Kanzleiplaner.
-
 ## Strategie und Praxis-Tipps
 
 - Quartalsgespraech ist Mandantenbindungs-Instrument — staerkstes verfuegbares Mittel.
@@ -186,14 +176,6 @@ Naechste Schritte:
 - Bei Familienmandanten: einer der Familie zu jedem Quartal einbinden.
 - StBVV: in Pauschalvereinbarung oder separater Auftrag (Beratungs-Honorar).
 - Bei Mandanten ohne Quartalsgespraechs-Vereinbarung: anbieten.
-
-## Querverweise
-
-- `stb-bwa-mandantengespraech-uebergabe` — BWA-Uebergabe.
-- `stb-jahresgespraech-mandant-bwa-basis` — Jahresgespraech.
-- `stb-bwa-mandantenreport-monatlich` — Monatsreport.
-- `stb-bwa-fehlerquellen-haeufig` — Krisensignale und Fehlerquellen.
-- `stb-mandantenrechnung-honorar-stbvv` — StBVV-Honorar.
 
 ## Quellen und Updates
 
@@ -204,10 +186,3 @@ Stand: 05/2026.
 - RDG § 5.
 - DStV-Praxisleitfaden Mandantenkommunikation.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

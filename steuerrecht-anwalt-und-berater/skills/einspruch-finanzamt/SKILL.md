@@ -49,9 +49,6 @@ description: "Begründeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO f
 - **BFH, Beschluss vom 21.03.2025 — X B 21/25 (AdV)** zu Saeumniszuschlaegen § 240 AO — keine verfassungsrechtlichen Zweifel an der Hoehe für Zeitraeume nach 31.12.2018.
 - Im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über dejure.org / BFH-Datenbank verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Beweislast
 
 - Beweislast für steuermindernde Tatsachen (Betriebsausgaben, Werbungskosten): Steuerpflichtiger.
@@ -185,3 +182,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Hierarchie + Chronologie).
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

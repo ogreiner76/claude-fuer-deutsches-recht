@@ -5,10 +5,6 @@ description: "Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die ne
 
 # Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA
 
-## Zweck
-
-Strukturierte Anwendung der neun Kriterien der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur Bestimmung von voraussichtlich hohem Risiko. Ergebnis ist eine Kriterien-Tabelle mit Subsumtion und einer klaren Schwellwertaussage: 0 Kriterien (DSFA entbehrlich), 1 Kriterium (Empfehlung mit Begruendung), 2 oder mehr Kriterien (DSFA zwingend, soweit keine entgegenstehende Whitelist-Position einschlaegig ist).
-
 ## Wann dieses Modul hilft
 
 - In der Schwellwertanalyse einer DSFA-Trigger-Pruefung, wenn weder Art. 35 Abs. 3 noch Abs. 4 DSGVO greift
@@ -106,14 +102,6 @@ Unterschrift DSB: ____________________
 - Negativabgrenzung fehlt — wenn Kriterium nicht erfuellt ist, muss auch das begruendet werden.
 - Mehrfachzaehlung (ein Sachverhalt für zwei Kriterien) ohne Begruendung.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-art-35-dsgvo-trigger-und-anwendungsbereich/SKILL.md` — Trigger-Gesamtpruefung
-- `datenschutzrecht/skills/dsfa-bfdi-und-laender-blacklist/SKILL.md` — Listenabgleich
-- `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikoanalyse-Methodik
-- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA-Schnittstelle
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - EDSA-/EDPB-Leitlinien WP 248 rev.01 — neun Kriterien
@@ -123,3 +111,4 @@ Unterschrift DSB: ____________________
 - BfDI- und Landeslisten (live pruefen)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

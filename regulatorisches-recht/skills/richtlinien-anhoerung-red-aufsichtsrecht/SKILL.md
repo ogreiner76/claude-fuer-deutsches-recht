@@ -5,10 +5,6 @@ description: "Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen u
 
 # Richtlinien-Diff
 
-## Arbeitsbereich
-
-Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht für Lueckenanalyse (luecken). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,16 +12,6 @@ Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschied
 - Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill vergleicht eine neue oder geänderte Aufsichtsnorm / Verlautbarung mit einer bestehenden internen Richtlinie. Das Ergebnis ist ein strukturierter Diff: Welche Anforderungen der neuen Norm sind in der Richtlinie abgedeckt? Wo weicht die Richtlinie ab? Wo hat die Norm Neues hinzugefügt oder Altes gestrichen?
-
-Typische Einsatzfelder:
-- Neue MaRisk-Novelle gegen bestehende Risikomanagement-Richtlinie
-- Geändertes BaFin-Rundschreiben BAIT/VAIT gegen IT-Sicherheitsrichtlinie
-- Neue EBA-Leitlinien gegen interne Compliance-Policies
-- Geändertes BMF-Schreiben gegen steuerliche Richtlinien / AO-Verfahrenshandbuch
 
 ## Eingaben
 
@@ -105,13 +91,6 @@ Einschlägige Normen und Verlautbarungen:
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 
-## Ausgabeformat
-
-- **Diff-Tabelle:** Alle Anforderungen mit Deckungsgrad
-- **Zusammenfassung:** Kennzahlen
-- **Empfehlungen:** Konkrete Formulierungsänderungen als Ausgangspunkt für Neufassung
-- Reviewer-Header und Prüfernotiz wie in CLAUDE.md definiert
-
 ## Beispiel
 
 **Eingabe:** `/regulatorisches-recht:richtlinien-vergleich MaRisk-AT-4.3.2-Novelle-2023`
@@ -144,6 +123,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Verlautbarungsversion:** MaRisk und BAIT werden novelliert; stets Version und Datum der verwendeten Norm angeben und prüfen, ob aktuell.
 - **Best-Practice vs. verbindlich:** EBA-Leitlinien sind nach Art. 16 EBA-VO "comply or explain" – nicht 1:1 verbindlich. Status klar kennzeichnen.
 - **Proportionalitätsgrundsatz:** Nicht jede Norm gilt für jede Institutsgröße gleich (§ 25a Abs. 1 S. 3 KWG). Adressatenkreis prüfen und im Diff ausweisen.
+
 ## Aktuelle Rechtsprechung & Leitsätze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -151,3 +131,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Kernnormen:** Art. 288 AEUV — §§ 133, 157 BGB — § 47 GGO (Ressortabstimmung Richtlinien-Vergleich)
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+

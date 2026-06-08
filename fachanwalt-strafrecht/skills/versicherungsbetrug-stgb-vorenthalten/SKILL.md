@@ -8,6 +8,7 @@ description: "Versicherungsbetrug Stgb Vorenthalten im Strafrecht: prüft konkre
 ## Arbeitsbereich
 
 **Versicherungsbetrug Stgb Vorenthalten** ordnet den Fall über die tragenden Prüfungslinien: Versicherungsmissbrauch § 265 StGB, Vorenthalten und Veruntreuen von Arbeitsentgelt nach, Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -28,6 +29,7 @@ description: "Versicherungsbetrug Stgb Vorenthalten im Strafrecht: prüft konkre
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-versicherungsbetrug-265-stgb`
@@ -118,14 +120,6 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 ### Bestreiten Absicht
 
 "Eine Absicht der Versicherungsleistungserlangung wird bestritten. Die Beschaedigung des Fahrzeugs erfolgte aus persönlichem Frust nach Trennung von der Ehegattin und nicht in Versicherungsabsicht. Die spaeter erfolgte Schadensmeldung an die Versicherung beruhte auf einem familieninternen Ratschlag des [Person] und stellt eine eigenstaendige Entschlussbildung dar."
-
-## Querverweise
-
-- `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
-- `strafrecht-spezial-betrug-263-stgb-besonders-schwer`
-- `strafrecht-spezial-bandenbetrug-263-stgb`
-- `fachanwalt-strafrecht-einlassung-vorbereiten`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
 
 ## Quellen Stand 06/2026
 
@@ -221,14 +215,6 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der Kontoauszuege der Y-Bank für den Zeitraum DD.MM.JJJJ bis DD.MM.JJJJ zu erheben zum Beweis der Tatsache, dass am drittletzten Bankarbeitstag im Maerz 2026 keine ausreichenden Mittel zur Abfuehrung der Sozialabgaben vorhanden waren."
 
-## Querverweise
-
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-insolvenzverschleppung-15a-inso`
-- `strafrecht-spezial-zahlungsverbot-15b-inso`
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-- `strafrecht-spezial-faktische-geschaeftsfuehrer`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 266a StGB im Wortlaut (gesetze-im-internet.de).
@@ -240,14 +226,6 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 - BGH staendige Rspr. zur Wertgrenze "grosses Ausmass" bei EUR 50.000.
 - BGH staendige Rspr. zur Strafbarkeit auch verspaeteter Zahlung.
 - BSG-Linie zur Beitragspflicht bei Scheinwerkvertraegen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb`
 
@@ -346,14 +324,6 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder für den öffentlichen D
 ### Drittmittel-Verteidigung
 
 "Die Annahme der Drittmittel der [Pharmaunternehmen] erfolgte ordnungsgemaess nach den Drittmittel-Richtlinien der [Hochschule]. Mit Bescheid des Praesidiums vom [Datum] (Anlage K-3) wurde die Annahme genehmigt; die Verwendung erfolgte ausschliesslich für Forschungszwecke gemaess § [...] HRG / LHG."
-
-## Querverweise
-
-- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
-- `strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis`
-- `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
 
 ## Quellen Stand 06/2026
 
@@ -459,12 +429,6 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 
 **Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten eines Buechsenmachers einzuholen zum Beweis der Tatsache, dass es sich bei der streitgegenstaendlichen Waffe um eine Antikwaffe nach Paragraph 12 WaffG handelt."
 
-## Querverweise
-
-- `strafrecht-spezial-bandendiebstahl-244-stgb` (sofern vorhanden — alternativ Fachmodul Diebstahl)
-- `strafrecht-spezial-bedrohung-241-stgb`
-- `strafrecht-spezial-koerperverletzung-223-stgb-grund`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 51 WaffG und Paragraph 52 WaffG im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -478,14 +442,6 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 - BGH staendige Rspr. zum Verbotsirrtum bei Waffenrecht.
 - Hinweis: Paragraph 244 I Nr 1 a StGB Diebstahl mit Waffe; Paragraph 244 I Nr 2 StGB Bandendiebstahl. Paragraph 244 IV StGB existiert nicht; das ist ein gelegentlicher Irrtum.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis`
 
@@ -594,14 +550,6 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 "Der streitgegenstaendliche Vorteil (Einladung zur Karnevalsveranstaltung) stellt allenfalls eine Beziehungsleistung im Sinne der staendigen BGH-Rechtsprechung dar. Eine konkrete pflichtwidrige Diensthandlung ist nicht ersichtlich; die im Zeitraum [...] erfolgte Auftragsvergabe an die [Unternehmen] beruhte auf einem ordnungsgemaessen Vergabeverfahren nach VOL/A (Vergabeunterlagen Anlage K-3). Eine Strafbarkeit nach §§ 332 / 334 StGB ist damit ausgeschlossen; allenfalls greift §§ 331 / 333 StGB."
 
-## Querverweise
-
-- `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
-- `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb`
-- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
-
 ## Quellen Stand 06/2026
 
 - §§ 11, 108e, 299, 300, 331, 332, 333, 334, 335 StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/.
@@ -682,14 +630,6 @@ Sonderregel für Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschulde
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen Y (Sanierungsberater) zu erheben zum Beweis der Tatsache, dass die Zahlungen in der Phase zwischen DD.MM. und DD.MM.JJJJ Teil eines schluessigen Sanierungskonzepts waren."
 
-## Querverweise
-
-- `strafrecht-spezial-insolvenzverschleppung-15a-inso`
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb`
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-- `strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 15b InsO im Wortlaut (gesetze-im-internet.de) - eingefuehrt durch SanInsFoG zum 01.01.2021.
@@ -699,14 +639,6 @@ Sonderregel für Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschulde
 - BGH staendige Rspr. zum ex ante-Sorgfaltsmassstab.
 - BGH staendige Rspr. zur Pflichtenkollision Steuerzahlung vs. Massesicherung.
 - BGH staendige Rspr. zum Sanierungsfenster der 3-Wochen-Frist nach Paragraph 15b Abs 2 Nr 2 InsO.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 7. `strafrecht-spezial-zinswucher-291-stgb`
 
@@ -813,13 +745,6 @@ Besonders schwerer Fall liegt nach § 291 Abs. 2 StGB in der Regel vor, wenn der
 ### Bestreiten auffaelliges Missverhaeltnis
 
 "Das in der Anklage behauptete auffaellige Missverhaeltnis von 60 Prozent ueber Vergleichsmiete bestreitet sich. Die heranzuziehende Vergleichsmiete ist anhand des aktuellen Mietspiegels [Stadt] [Jahr] sowie ergaenzend Vergleichswohnungen [Adressen] zu bestimmen. Bei sachgerechter Beruecksichtigung der Sondermerkmale (Ausstattung, Lage, Modernisierungsstand) liegt der vereinbarte Mietzins um weniger als 25 Prozent ueber dem oberen Wert; ein auffaelliges Missverhaeltnis im Sinne der BGH-Rechtsprechung ist damit nicht gegeben."
-
-## Querverweise
-
-- `strafrecht-spezial-mietwucher-5-wistg` — OWi-Variante zu § 5 WiStrG 1954.
-- `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
 
 ## Quellen Stand 06/2026
 
@@ -994,3 +919,4 @@ Strafrechtsspezifische Interessen-Cluster:
 - § 257c StPO — Verstaendigung (Inhalt, Bindungswirkung, Widerruf)
 - § 46a StGB — Taeter-Opfer-Ausgleich als Strafmilderungsgrund
 - § 302 StPO — Rechtsmittelverzicht nach Verstaendigung verboten (§ 302 I 2 StPO)
+

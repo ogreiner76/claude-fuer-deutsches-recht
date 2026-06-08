@@ -5,9 +5,6 @@ description: "Praezedenz Distinguishing Rechtspluralismus im Plugin Methodenlehr
 
 # Praezedenz Distinguishing Rechtspluralismus
 
-## Arbeitsbereich
-
-**Praezedenz Distinguishing Rechtspluralismus** ordnet den Fall über die tragenden Prüfungslinien: Systematisiert den methodischen Umgang mit Präzedenzfällen, Rechtspluralismus und Mehrebenen-System, Leitet durch die methodisch saubere Anwendung von. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Praezedenz Distinguishing Rechtspluralismus im Plugin Methodenlehr
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `praezedenz-distinguishing-overruling-deutsch`
@@ -84,10 +82,6 @@ Das deutsche Recht kennt keine formelle Stare-decisis-Doktrin, aber eine starke 
 - Die fehlende formelle Bindungswirkung von Präjudizien wird mit einer faktischen Unverbindlichkeit verwechselt.
 - Der Gleichheitssatz als Argument für Präjudizkonsistenz wird nicht angewandt.
 - § 132 GVG als institutioneller Mechanismus für Overruling wird übersehen, wenn ein Senat von einem anderen BGH-Senat abweichen will.
-
-## Output
-
-Das Skill liefert eine Präjudiz-Analyse: Identifikation und Zusammenfassung des Präzedenzfalls, Sachverhaltsmatchinganalyse, Distinguishing-Argumente, Overruling-Voraussetzungsprüfung und Formulierungsvorschlag für Schriftsatz oder Revisionsrüge. Direkt verwendbar in der Prozesspraxis.
 
 ## Vertiefung: Abweichungspflicht bei Richtlinienverstößen
 
@@ -201,14 +195,6 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 
 **Kritik aus der Wertungsjurisprudenz (Larenz, Canaris):** Reiner Pluralismus ohne Vorrangordnung untergraebt die Rechtssicherheit. Daher: Die Mehrebenenstruktur braucht klare Vorrangregeln (Unionsrecht > Bundesrecht > Landesrecht; Spezialgesetz > Generalgesetz).
 
-## Querverweise
-
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Vorrang des Unionsrechts und Wirkung auf nationale Auslegung.
-- `systematische-auslegung` — System nicht nur national, sondern transnational denken.
-- `systemtheorie-luhmann-rechtssystem-autopoiese` — Recht als gesellschaftliches Teilsystem.
-- `oekonomische-analyse-des-rechts-coase-posner` — transnationale Wirtschaftsordnungen.
-- `legal-realism-und-critical-legal-studies` — Kritik an "Neutralitaet" der Mehrebenenordnung.
-
 ## Quellen und Stand 05/2026
 
 - Sally Falk Moore, Law and Social Change: The Semi-Autonomous Social Field, Law & Society Review 1973.
@@ -220,14 +206,6 @@ Fuer das deutsche Zivilrecht ist diese Mehrebenenstruktur taegliche Praxis: EU-R
 - Art. 25, 59 GG (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `rechtsvergleichung-methodisch-sauber`
 
@@ -286,10 +264,6 @@ Rechtsvergleichung ist eine anerkannte Erkenntnisquelle in der deutschen Methode
 - Common-law-Konzepte werden unkritisch auf kodifiziertes Zivilrecht übertragen.
 - Rechtsvergleich wird zur Verstärkung einer bereits feststehenden Meinung eingesetzt, ohne den Vergleich ernsthaft zu betreiben.
 - Die prozessuale Einführung nach § 293 ZPO (ausländisches Recht als Tatsache) wird bei internationalem Sachverhalt übersehen.
-
-## Output
-
-Das Skill liefert eine Rechtsvergleichs-Analyse: Vergleichszweckbestimmung, Systemkompatibilitätsprüfung, kontextuelle Übersetzung des ausländischen Konzepts, Grenzenanalyse und Formulierungsvorschlag für den rechtsvergleichenden Argumentationsabschnitt in Schriftsatz oder Gutachten.
 
 ## Vertiefung: Funktionaler Vergleich als Methodik
 
@@ -374,10 +348,6 @@ Richterliche Zurückhaltung ist keine Feigheit, sondern institutionelle Klugheit
 - Die Signalpflicht wird übersehen: Das Gericht kann auf Handlungsbedarf hinweisen, ohne selbst zu entscheiden.
 - Zurückhaltung und Entscheidungsverweigerung werden gleichgesetzt: Das Gericht muss den Fall entscheiden, auch wenn es Zurückhaltung übt.
 - Die Kompetenz des Gerichts für eine empirisch fundierte normative Entscheidung wird nicht kritisch hinterfragt.
-
-## Output
-
-Das Skill liefert eine Zurückhaltungs-Rechtsfortbildungs-Analyse: Lückenfeststellung, Kontroversitätsprüfung, Kompetenzcheck, Alternativenbetrachtung (Signalpflicht, Vorlage) und begründete Empfehlung für das methodische Vorgehen. Verwendbar als Grundlage für Urteilsbegründungen, Gutachten und wissenschaftliche Beiträge zur Methodenlehre.
 
 ## Vertiefung: Prozeduraler vs. substantieller Zurückhaltungsansatz
 
@@ -469,10 +439,6 @@ Die Unterscheidung zwischen Auslegung und Rechtsfortbildung ist nicht nur akadem
 
 Richterliche Rechtsfortbildung kann in drei Ebenen unterschieden werden: erstens die verfassungskonforme Auslegung, die den Normtext im Lichte des Grundgesetzes konkretisiert; zweitens die praeter legem-Fortbildung, die eine planwidrige Lücke durch Analogie oder allgemeine Rechtsgrundsätze schließt; und drittens die contra legem-Fortbildung, die nur in extremen Ausnahmefällen (z.B. Mauerschützenurteile) verfassungsrechtlich legitimierbar ist. Im zivilrechtlichen Alltag dominiert die praeter legem-Fortbildung über § 242 BGB und richterrechtliche Institute wie Verwirkung, positiven Vertragsverletzung oder culpa in contrahendo.
 
-## Output
-
-Das Skill liefert eine strukturierte methodische Einordnung des jeweiligen Richterrechts: Memo mit Abgrenzung Auslegung/Fortbildung, Legitimationsanalyse, Vertrauensschutzprüfung und ggf. Argumentationslinie für oder gegen die Fortführung der Rechtsprechung. Geeignet für Schriftsätze, Gutachten und Mandantenberatung in Verfahren, in denen richterrechtliche Linien streitig sind.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -499,3 +465,4 @@ Der methodische Dreischritt zur Analyse von Richterrecht lautet:
 
 Dieser Dreischritt ist für jede Entscheidungsanalyse im Richterrechtsbereich verbindlich anzuwenden und im
 Mandatsprotokoll zu dokumentieren.
+

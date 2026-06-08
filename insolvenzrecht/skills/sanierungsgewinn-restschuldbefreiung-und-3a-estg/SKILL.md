@@ -5,10 +5,6 @@ description: "Restschuldbefreiung Paragraphen 286 ff. InsO bei natuerlichen Pers
 
 # Sanierungsgewinn — Restschuldbefreiung und Paragraph 3a EStG bei natuerlichen Personen
 
-## Arbeitsbereich
-
-Restschuldbefreiung Paragraphen 286 ff. InsO bei natuerlichen Personen und ihre Schnittstelle zum Sanierungsertrag Paragraph 3a EStG. Bei natuerlichen Personen Unterscheidung unternehmensbezogene vs. unternehmerbezogene Sanierung. Paragraph 3a EStG erfasst nur unternehmensbezogene Sanierung. Restschuldbefreiung erlischt Verbindlichkeiten zivilrechtlich; steuerlich kann gleichwohl ein Ertrag entstehen. Mustertexte und Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -163,20 +159,6 @@ Mit freundlichen Gruessen
 5. Versagungsgruende Paragraph 290 InsO uebersehen.
 6. Bei Personengesellschaft: Gesellschafter-Ebene und Gesellschafts-Ebene durcheinander.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — Hauptlinie Plan.
-- `insol-sanierungsgewinn-vergleich-mit-finanzamt-und-stundung` — Hilfslinien.
-- `inso-restschuldbefreiung-und-versagungsgruende` — Restschuldbefreiungs-Mechanik.
-- `inso-verbraucherinsolvenz-leitfaden` — Verbraucherinsolvenz.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — generelle Steuer.
-- `fachanwalt-insolvenz-sanierungsrecht` — fachanwaltliche Vertiefung.
-
 ## Quellen Stand 06/2026
 
 - Paragraphen 286, 287, 290, 301 InsO.
@@ -187,3 +169,4 @@ In anderen Plugins:
 - Paragraph 227 AO.
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

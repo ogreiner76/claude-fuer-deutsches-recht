@@ -5,10 +5,6 @@ description: "Skonti Boni Rabatte Zuweisungsverbot: prüft die einschlägigen Vo
 
 # Skonti Boni Rabatte Zuweisungsverbot
 
-## Arbeitsbereich
-
-Skonti Boni Rabatte Zuweisungsverbot: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -100,15 +96,6 @@ Eingaben:
 - Grosshandel-Skonto über üblicher Grenze als "Werbemassnahme" — Steuerproblem zusätzlich.
 - Heim erhält "Beratungspauschale" ohne tatsächliche Leistung — § 299a/b StGB-Verdacht.
 
-## Querverweise
-
-- `preisbindung-arzneimittel-ampreisv` (Preisbindung)
-- `kooperation-arzt-apotheke-antikorruption` (Kooperation)
-- `heimversorgung-versorgungsvertrag` (Heimversorgung)
-- `onlinewerbung-hwg-apotheken` (HWG-Werbung)
-- `mietvertrag-apothekenstandort-konkurrenzschutz` (Miete)
-- `owi-strafrisiken-apog-amg-btmg` (Strafrisiko)
-
 ## Quellen Stand 06/2026
 
 - AMG § 78; AMPreisV; HWG § 7; ApoG § 11.
@@ -117,3 +104,4 @@ Eingaben:
 - BGH 14.03.2024 zu Grosshandel-Skonti (vom Anwender Aktualität zu verifizieren — Detailregelungen, Folge-Rspr.).
 - BGH staend. Rspr. zu Patientenboni und Treuepunkten.
 - Berufsordnung Apothekerkammer (vom Anwender zu verifizieren).
+

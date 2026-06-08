@@ -5,10 +5,6 @@ description: "Fuehrt Anfaenger durch eine Corporate-Legal-English-Testakte mit L
 
 # Lernpfad Dealroom-Simulator
 
-## Arbeitsbereich
-
-Fuehrt Anfaenger durch eine Corporate-Legal-English-Testakte mit Lernpfad, Dealroom-Inventar, Uebungen, Loesungsrichtung, Senior-Gates und konkreten Arbeitsprodukten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Fuehrt Anfaenger durch eine Corporate-Legal-English-Testakte mit Lernpfad, Dealr
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Dieser Skill macht aus einer unuebersichtlichen Transaktionsakte einen gefuehrten Lernraum. Er ist für First-Year-Associates, Referendarinnen, Berufsanfänger und laterale Quereinsteiger gedacht, die englische Dealbegriffe in deutschen Gesellschaftsrechtsstrukturen verstehen wollen.
 
 ## Einstieg
 
@@ -79,19 +71,3 @@ Jede Uebung hat vier Stufen:
 - Exit, SPA, CPs: `exit-spa-closing-cp`, `reps-warranties-indemnities`.
 - Qualitaet: `qualitaetsgate-corporate-legal-english`.
 
-## Output
-
-- Dealroom-Inventar.
-- Lernpfad nach Zeitbudget.
-- Begriffskarte.
-- Rueckfragenliste.
-- Partnerbriefing-Skelett.
-- Senior-Review-Gates.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

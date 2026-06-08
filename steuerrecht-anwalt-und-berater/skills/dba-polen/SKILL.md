@@ -76,12 +76,6 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo.
-- Berechnungsbeispiel Lohn-Entsendung mit 183-Tage-Test.
-- BZSt-Antragspaket.
-
 ## Strategie und Praxis-Tipps
 
 - Bei Pflege-Arbeitnehmern Polen (24h-Pflege in Deutschland): Wohnsitz-/Arbeitnehmerstatus dokumentieren — Pruefung Art. 15 und Sozialversicherung A1.
@@ -154,12 +148,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-PL Fundstellen, BMF-Schreiben und BFH-Rechtsprechung sind verbindlich zu zitieren. Bei polnischen Quellen (Krajowa Administracja Skarbowa, Sad Najwyzszy) Original-Aktenzeichen und Datum nennen.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-dividenden-quellensteuer-art-10`, `stb-dba-lizenzgebuehren-art-12-bzst`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Polen 14.05.2003, in Kraft 19.12.2004 (BGBl. 2004 II S. 1304). MLI-Anwendung ab VZ 2020. Quellensteuer-Saetze: Dividenden 5/15 Prozent, Zinsen 5 Prozent, Lizenzen 5 Prozent. 183-Tage-Zeitraum: 12-Monatszeitraum. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle, MLI-Status, Quellensteuer-Saetze, 12-Monatszeitraum), 2 gestrichen (BFH I R 86/13 betrifft Irland nicht Polen; BMF-Schreiben allgemein neu formuliert) -->
+

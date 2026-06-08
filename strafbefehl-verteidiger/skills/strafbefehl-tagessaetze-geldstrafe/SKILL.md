@@ -41,9 +41,6 @@ Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagessatzanzahl nach
 - BGH (GSSt) 03.02.2025 — GSSt 1/24: Sanktionsfreie Eigenkonsummengen sind aus der Einziehung herauszunehmen — relevant für die Bemessung in KCanG-Strafbefehlen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
 - Hinweis: Eine aktuelle BGH-Leitentscheidung 2025/2026 zu § 40 StGB / Tagessatzbemessung im Strafbefehl ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 40 StGB Tagessatzhoehe Nettoeinkommen" durchführen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berechnungsschema Tagessatz
 
 ```
@@ -99,3 +96,4 @@ Anlage: Einkommensnachweis / Kontoauszug
 - Ratenzahlungsantrag fruehzeitig stellen — vor Vollstreckungsbeginn.
 - Ersatzfreiheitsstrafe (§ 43 StGB) dem Mandanten klar erklaeren.
 - Anwaltliche Endkontrolle bei Berechnungen.
+

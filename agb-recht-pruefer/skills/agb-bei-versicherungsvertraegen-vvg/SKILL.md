@@ -46,11 +46,6 @@ description: "AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt d
 4. VVG-Spezialnorm vorrangig?
 5. BGH-Linie konsultieren.
 
-## Output
-
-- Memo zur AVB-Klausel.
-- Klauselentwurf.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -79,3 +74,4 @@ description: "AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt d
 - AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
 - Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+

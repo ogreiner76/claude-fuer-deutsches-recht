@@ -5,10 +5,6 @@ description: "Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrh
 
 # Anerkennung § 5 KDVG
 
-## Arbeitsbereich
-
-Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,9 +17,6 @@ Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel. A
 - **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
 - **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Einsatz
-Ordnet Behördenrollen, Musterung, Registrierung, Zuleitung, Anhörung, Anerkennung und Ablehnung.
 
 ## Fachlicher Kern
 Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
@@ -43,12 +36,6 @@ Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel. D
 
 ## Norm- und Quellenanker
 KDVG § 5
-
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
 
 ## Rote Linien
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
@@ -92,3 +79,4 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 - Antrag § 3 KDVG schriftlich, ausfuehrlich, mit Lebenslauf und Gewissensentscheidung; BVerwG 6 C 4.83 als Massstab.
 - Anerkennungsausschuss BAFzA als Beweisaufnahme: persoenliche Anhoerung Pflicht, keine reine Aktenpruefung.
 - Rechtsschutz nach §§ 14, 15 KDVG ueber VG; aufschiebende Wirkung § 80 Abs. 5 VwGO bei Einberufung.
+

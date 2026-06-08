@@ -5,10 +5,6 @@ description: "Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, 
 
 # Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, Mangelzeitpunkt und Händler-/Herstellerkommunikation.
 
-## Arbeitsbereich
-
-Waren mit digitalen Elementen: Updatepflicht, Interoperabilität, Mangelzeitpunkt und Händler-/Herstellerkommunikation.; Normanker: BGB §§ 475b, 475c, 434 und 437 und 439; Kaufrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,3 +31,4 @@ BGB §§ 475b, 475c, 434, 437, 439; Kaufrecht. Der aktuelle Normtext, insbesonde
 3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
 4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
 5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
+

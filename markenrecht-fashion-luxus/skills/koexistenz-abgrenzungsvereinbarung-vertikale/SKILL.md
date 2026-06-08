@@ -5,10 +5,6 @@ description: "Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenre
 
 # Koexistenz und Abgrenzungsvereinbarung
 
-## Arbeitsbereich
-
-Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenrecht entwerfen: Zeichenabstand, Warenabgrenzung, Territorium, Online-Nutzung, Vertragsstrafe, Registermaßnahmen und Zukunftsmarken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenrecht entwerfen:
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Gestalte Vergleiche, die Markenstreitigkeiten wirklich befrieden und nicht den nächsten Konflikt schon einbauen.
 
 ## Normanker
 
@@ -51,13 +43,7 @@ Gestalte Vergleiche, die Markenstreitigkeiten wirklich befrieden und nicht den n
 7. **Durchgriff:** Verbundene Unternehmen, Geschäftsführer, Lizenznehmer, Händler und Plattformagenturen ausdrücklich einbeziehen oder bewusst ausnehmen.
 8. **Kartellhygiene:** Koexistenz darf Zeichenkonflikt lösen, aber nicht heimlich Märkte oder Preise koordinieren.
 
-## Output
-
-- Term Sheet.
-- Klauselset.
-- Risikomatrix.
-- Verfahrensbeendigungsplan.
-
 ## Warnung
 
 Koexistenz ist kein bloßer Waffenstillstand. Sie muss operativ, registerfest und marketingtauglich sein.
+

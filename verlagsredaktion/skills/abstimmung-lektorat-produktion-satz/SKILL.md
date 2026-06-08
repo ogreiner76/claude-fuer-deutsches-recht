@@ -5,10 +5,6 @@ description: "Klaert Lektorats- und Redaktionsstandards: wer ist für welchen Pr
 
 # Abstimmung Lektorat / Redaktion (Format-Klaerung)
 
-## Arbeitsbereich
-
-Klaert Lektorats- und Redaktionsstandards: wer ist für welchen Pruefschritt zuständig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -114,14 +110,6 @@ Mueller-Plattform_v7_druck.docx (an Produktion)
 - Versionsstand nur in Word-Eigenschaften, nicht im Dateinamen.
 - Externe Lektorinnen ohne NDA.
 - Konfliktdokumentation fehlt - alte Streits werden neu gefuehrt.
-
-## Querverweise
-
-- `verl-formatvorlage-check-autor-manuskript` - Format-Check vor Lektorat.
-- `verl-zitierweise-pruefung-zeitschrift-jus-njw` - Zitat-Pruefung.
-- `verl-redaktionelle-rueckmeldung-formulieren` - Stil der Rueckmeldung.
-- `lektorat-struktur-redaktion` - Strukturlektorat.
-- `verl-jourfix-vorbereiten-protokoll` - Jourfix-Werkzeug.
 
 ## Quellen Stand 06/2026
 

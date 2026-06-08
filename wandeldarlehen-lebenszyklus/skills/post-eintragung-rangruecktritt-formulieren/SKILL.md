@@ -5,10 +5,6 @@ description: "Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung ab
 
 # Post-Eintragung-Checkliste
 
-## Arbeitsbereich
-
-Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgrenzung: nicht für Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill begleitet alle Nacharbeiten nach erfolgreicher Eintragung der Kapitalerhöhung im Handelsregister: Bestätigungen, Dokumentation, steuerliche Würdigung und Abschluss des Wandlungsprozesses. Phase D des Lebenszyklus.
 
 ## Eingaben
 
@@ -84,12 +76,6 @@ Dokumentation: Zeitlinie (Darlehen → Wandlungsereignis → Erklärung → Besc
 | Folgevereinbarungen (SHA/IRA) fehlen | Lender hat nur gesetzliche Rechte | In Verhandlung | Unterzeichnet |
 | Keine Archivierung der Wandlungsdokumentation | Beweislosigkeit bei Streit | Teildokumentation | Vollständig archiviert |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/handelsregisteranmeldung-kapitalerhoehung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterliste-aktualisieren/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/cap-table-update-pre-post/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung UmwStG § 22 oder EStG § 17 aktualisieren.
@@ -105,3 +91,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 § 40 GmbHG (Gesellschafterliste, unverzügliche Einreichung) → § 16 GmbHG (Legitimationswirkung ab Listeneintragung) → § 53 GmbHG (Satzungsänderung falls erforderlich) → § 8 HGB (Handelsregisterpublizität) → § 57 Abs. 4 GmbHG (Haftung bei unrichtiger Kapitalerhöhungsanmeldung)
+

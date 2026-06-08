@@ -5,9 +5,6 @@ description: "Laienhilfe Sanktion Fachanwalt Sozialrecht im Plugin Fachanwalt So
 
 # Laienhilfe Sanktion Fachanwalt Sozialrecht
 
-## Arbeitsbereich
-
-**Laienhilfe Sanktion Fachanwalt Sozialrecht** ordnet den Fall über die tragenden Prüfungslinien: Laienverstaendlicher Sozialrechts-Skill zu Sanktion, Versicherter erhielt Ablehnung der Erwerbsminderungsrente, Mandant hat Behinderung und moechte. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Laienhilfe Sanktion Fachanwalt Sozialrecht im Plugin Fachanwalt So
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `laienhilfe-sanktion-minderung`
@@ -51,14 +49,6 @@ Dieser Skill erklaert **Sanktion Minderung** so, dass auch Menschen ohne juristi
 3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?
 4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
 5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
-
-## Arbeitsweise
-
-- Schwierige Woerter erst in einfache Sprache uebersetzen.
-- Fristen immer sichtbar ausgeben.
-- Zwischen sicher, unklar und zu beweisen unterscheiden.
-- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
-- Keine falschen Versprechen machen.
 
 ## Ausgabe
 
@@ -103,14 +93,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Widerspruch § 84 SGG 1 Monat:** Anhörung pruefen, wichtigen Grund vortragen, Verhaeltnismaessigkeit pruefen (Atypischer Fall? Persoenliche Verhaeltnisse?).
 - **Praxis-Tipp:** Bei wiederholten Sanktionen Aktivierungsplan in Frage stellen (Geeignetheit, Zumutbarkeit § 10 SGB II); bei psychischer Erkrankung Stellungnahme Hausarzt einholen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `fachanwalt-sozialrecht-erwerbsminderungsrente`
 
 **Fokus:** Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch. §§ 43 240 SGB VI. Prüfraster: volle Erwerbsminderung unter 3 Stunden taeglich teilweise unter 6 Stunden Wartezeit 5 Jahre § 50 SGB VI 3 Jahre Pflichtbeitraege in letzten 5 Jahren § 43 Abs. 1 Nr. 2 SGB VI. Berufsschutz § 240 SGB VI Jahrgaenge vor 1961. Medizinische Befundlage Gutachten. Output: Widerspruchsschriftsatz oder Klagebaustein Erwerbsminderungsrente. Abgrenzung zu fachanwalt-sozialrecht-krankengeld-aussteuerung (Übergang).
@@ -140,9 +122,6 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 Weitere Rechtsprechung vor Ausgabe live verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. Welche Erkrankungen liegen vor (somatisch, psychisch, Kombination) — und welche Fachärzte sind behandelnd?
@@ -465,10 +444,6 @@ Mit freundlichen Grüßen
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Antrag und Klage zur Feststellung Grad der Behinderung (GdB).
-
 ## 1) Antrag § 152 SGB IX
 
 ### Antrag
@@ -623,9 +598,6 @@ des angegriffenen Bescheids.
 4. Datum des Erstbescheids: läuft die Ein-Monats-Frist (§ 84 SGG) noch?
 5. Hat der Mandant steuerliche Auswirkungen (§ 33b EStG Pauschbetrag) und Schwerbehindertenrechtsstatus bereits genutzt?
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anschluss
 
 - `fachanwalt-sozialrecht-krankengeld-aussteuerung` — bei AU-Bezug
@@ -659,14 +631,6 @@ Dieser Skill erklaert **Aussteuerung Nahtlosigkeit** so, dass auch Menschen ohne
 3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?
 4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
 5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
-
-## Arbeitsweise
-
-- Schwierige Woerter erst in einfache Sprache uebersetzen.
-- Fristen immer sichtbar ausgeben.
-- Zwischen sicher, unklar und zu beweisen unterscheiden.
-- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
-- Keine falschen Versprechen machen.
 
 ## Ausgabe
 
@@ -708,10 +672,3 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Eilrechtsschutz § 86b SGG** bei Verweigerung Nahtlosigkeits-ALG (Existenzminimum); ggf. Hilfe Jobcenter/Sozialamt parallel beantragen.
 - **Praxis-Tipp:** Beratungstermin bei DRV vor Aussteuerung; medizinische Stellungnahme behandelnde Aerzte zur Leistungsfaehigkeit für Reha- bzw. Rentenantrag; Anwartschafts-Aufrechterhaltung pruefen, weiterhin Krankenversicherung sichern (KV-Pflicht ALG-Bezieher § 5 I Nr. 2 SGB V).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/C
 
 # ESG, SFDR und Lieferketten im PE-Mandat
 
-## Arbeitsbereich
-
-Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -87,14 +83,6 @@ PAI Excuse Right (Side Letter):
 - CSRD-Vorbereitung zu spät — Audit-Schock im ersten Reporting-Jahr.
 - ESG-Side-Letter-Klauseln kollidieren mit Anlagebedingungen — Anlegerstreit.
 
-## Querverweise
-
-- pe-005 für Spezial-AIF-Anlagebedingungen.
-- pe-006 für ELTIF und ESG.
-- pe-010 für Marketing-Compliance.
-- pe-011 für Side Letter.
-- pe-023 für ESG-DD.
-
 ## Quellen Stand 06/2026
 
 - SFDR (VO (EU) 2019/2088) und Delegated Regulation (EU) 2022/1288.
@@ -104,3 +92,4 @@ PAI Excuse Right (Side Letter):
 - CSDDD (RL (EU) 2024/1760).
 - ESMA Greenwashing Final Report (vom Anwender mit aktuellem Stand zu prüfen).
 - ILPA ESG Data Convergence Initiative (Stand vom Anwender zu prüfen).
+

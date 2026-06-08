@@ -65,10 +65,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Handlungsempfehlung:** Nachverhandlung aller Leistungs- und Verhaltensformulierungen sowie wärmere Schlussformel als Vergleichspunkt empfohlen. Bei Weigerung: Klage vor allem zu Leistungs- und Verhaltensformulierungen prüfen; Schlussformel nur mit Zusatzkontext.
 
-## Ausgabeformat
-
-Der Skill gibt das Muster-Zeugnis mit eingebetteten Analyse-Kommentaren aus (wie im Beispiel oben), gefolgt von der vollständigen Ampeltabelle und der Gesamtbewertung. Einsatz als Schulungsmaterial für Mitarbeitende, Personalverantwortliche und Rechtsanwälte.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -77,3 +73,4 @@ Der Skill gibt das Muster-Zeugnis mit eingebetteten Analyse-Kommentaren aus (wie
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

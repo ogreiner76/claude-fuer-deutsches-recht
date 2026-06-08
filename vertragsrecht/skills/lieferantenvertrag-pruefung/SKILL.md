@@ -5,10 +5,6 @@ description: "Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags
 
 # Lieferanten-/Dienstleistervertrag-Prüfung
 
-## Arbeitsbereich
-
-Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragsprüfung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -160,23 +156,6 @@ Falls Lieferant in der Lieferkette und LkSG anwendbar (§ 1 LkSG: ab 1.000 AN se
 | 2 | Should-Haves | Haftungsdeckel-Anpassungen; Freistellungsumfang; Flexibilität bei Kündigung; Audit-Rechte | Firm verhandeln; Tier-3 opfern |
 | 3 | Nice-to-Haves | Bevorzugter Gerichtsstand; Fristen-Präferenzen; kleinere Definitions-Verbesserungen | Konzessions-Kandidaten für Tier-2 |
 
-## Ausgabeformat
-
-```markdown
-VERTRAULICH – ANWALTLICHES ARBEITSERGEBNIS (§ 43a II BRAO)
-
-⚠️ Prüfer-Hinweis
-[Quellen, gelesen Seiten, gekennzeichnete Punkte]
-
-### Vertrags-Prüfvermerk: [Lieferant] – [Vertragsbezeichnung]
-
-**Seite:** [Auftraggeber / Auftragnehmer]
-**Vertragstyp:** [Werk-/Dienst-/Kaufvertrag]
-**ACV:** [Betrag]
-**Laufzeit:** [Dauer und Verlängerung]
-
----
-
 ## Fazit
 [2–3 Sätze: unterzeichnungsreif / [N] Punkte zu klären / blockiert durch [K.-o.-Kriterium]]
 
@@ -234,3 +213,4 @@ Kommentare:
 - **AGB-Kollision (battle of forms):** Wenn beide Parteien AGB verwenden, prüfen, welche gilt.
 - **LkSG-Kündigungsklausel fehlt:** Ohne vertragliches Recht faktisch eingeschränkte LkSG-Durchsetzung.
 - **Mandantengeheimnis:** § 43a Abs. 2 BRAO, § 203 StGB bei jeder Weitergabe beachten.
+

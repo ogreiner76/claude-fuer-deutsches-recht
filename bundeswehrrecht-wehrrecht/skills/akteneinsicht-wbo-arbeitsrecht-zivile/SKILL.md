@@ -37,12 +37,6 @@ Verweigerungsgründe sind eng: VS-Einstufung, laufende Drittermittlungen, Schutz
 - Art. 15 DSGVO — Auskunftsrecht
 - § 56 SG — Disziplinaraktenrecht
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - In welchem Verfahren wird Akteneinsicht beantragt (WBO, WDO, Personalakte § 17 SG)?
@@ -103,21 +97,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Muster-Akteneinsichtsantrag (WBO / WDO / § 17 SG)
 - Tabelle: Rechtsgrundlagen Akteneinsicht in verschiedenen Verfahren
 - Checkliste: Unterlagen im Disziplinarverfahren einfordern
-
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/wbo/ — WBO
-- https://www.gesetze-im-internet.de/wdo_2002/ — WDO
-- https://www.gesetze-im-internet.de/sg/ — § 17 SG
-- https://www.bverwg.de
 
 ## Qualitätsgate
 

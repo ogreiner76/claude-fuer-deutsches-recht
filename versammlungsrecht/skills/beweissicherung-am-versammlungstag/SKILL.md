@@ -5,10 +5,6 @@ description: "Erstellt Beweissicherungsplan für Auflagen, Polizeihandeln, Stör
 
 # Wer später Recht will, braucht Fakten
 
-## Arbeitsbereich
-
-Erstellt Beweissicherungsplan für Auflagen, Polizeihandeln, Störer, Wetter, Teilnehmerzahl und Ablauf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,9 +23,6 @@ Plane neutrale Beobachter, Fotos von Lage und Schildern, Zeitstempel, Screenshot
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
 
-## Arbeitsweise
-Achte auf Datenschutz und sichere Ablage. Keine heimliche Eskalation durch Beweissicherung.
-
 ## Smartphone- Und Video-Beweissicherung
 
 - Dokumentiere öffentliche Amtshandlungen ruhig, aus Abstand und ohne die Maßnahme zu stören.
@@ -45,9 +38,6 @@ Achte auf Datenschutz und sichere Ablage. Keine heimliche Eskalation durch Bewei
 - Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
 - Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
 
-## Output
-Output: Beweisplan, Ereignislog und Anlagenstruktur.
-
 ## Qualitätsgate
 - Wurde das richtige Landesrecht verwendet?
 - Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
@@ -60,3 +50,4 @@ Output: Beweisplan, Ereignislog und Anlagenstruktur.
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+

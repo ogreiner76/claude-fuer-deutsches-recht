@@ -5,9 +5,6 @@ description: "MPU Vorbereitung Orientierung im Plugin Fachanwalt Verkehrsrecht: 
 
 # MPU Vorbereitung Orientierung
 
-## Arbeitsbereich
-
-**MPU Vorbereitung Orientierung** ordnet den Fall über die tragenden Prüfungslinien: Mandant muss MPU ablegen und fragt wie er sich vorbereiten, Einstieg in den Skill-Verbund Verkehrsrecht, Mandant hat Verkehrsunfall und fordert Schadensersatz vom. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "MPU Vorbereitung Orientierung im Plugin Fachanwalt Verkehrsrecht: 
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-verkehrsrecht-mpu-vorbereitung`
@@ -30,10 +28,6 @@ description: "MPU Vorbereitung Orientierung im Plugin Fachanwalt Verkehrsrecht: 
 **Fokus:** Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll. MPU Medizinisch-Psychologische Untersuchung Fahrerlaubnisrecht. Prüfraster: Anlass Alkohol Drogen Punkte Aggression zugelassene Begutachtungsstellen § 66 FeV Vorbereitungskurse Verhaltensaenderung dokumentieren Erfolgsquoten. Output: MPU-Vorbereitungsplan und Kursempfehlung. Abgrenzung zu fachanwalt-verkehrsrecht-fahrerlaubnis-entzug (vorherige Stufe) und mandat-triage-verkehrsrecht.
 
 ### MPU-Vorbereitung
-
-## Zweck
-
-Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — "Idiotentest" — vor Wiedererteilung Fahrerlaubnis.
 
 ## 1) Anlaesse für MPU-Anordnung
 
@@ -179,10 +173,6 @@ Keine Modellwissen-Zitate. Vor Versand Aktenzeichen, Datum und tragende Aussage 
 - § 69 StGB — Entziehung Fahrerlaubnis durch Gericht
 - § 69a StGB — Sperrfrist (Mindest 6 Monate, Hoechst 5 Jahre; unbefristet bei Wiederholung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 2. `fachanwalt-verkehrsrecht-orientierung`
 
 **Fokus:** Einstieg in den Skill-Verbund Verkehrsrecht. Orientierung im Verkehrsrecht FAO Voraussetzungen §§ 14g bis 14i FAO Verkehrsrecht. Typische Mandate Verkehrsunfall Schadensregulierung OWi-Bußgeld Fahrerlaubnis MPU Verkehrsstrafrecht §§ 315c 316 StGB. Normen StVO StVG OWiG StGB VVG. verifizierbare Quellen. Schnittstellen zu fachanwalt-versicherungsrecht und fachanwalt-strafrecht. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-verkehrsrecht (konkrete Falltriage).
@@ -229,9 +219,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - OLG / BGH Revisionsinstanz.
 - Verwaltungsgericht bei Fahrerlaubnis.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ADAC ARGE Verkehrsrecht DAV.
@@ -245,10 +232,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Aktuelle Rechtsprechung Verkehrsrecht
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## 3. `fachanwalt-verkehrsrecht-regulierungsanforderung`
 
@@ -564,3 +547,4 @@ Aktueller Stand Mai 2026 (verifizierte Aktenzeichen mit offener Quelle):
 - BGH VI ZR 280/22 v. 12.3.2024 (Sachverstaendigenrisiko)
 - BGH VI ZR 12/24 v. 5.11.2024 (Haushaltsfuehrungsschaden, Mindestlohn als Untergrenze)
 - BGH VI ZR 24/25 v. 14.10.2025 (Art. 103 Abs. 1 GG — Substantiierungsanforderungen Schaden)
+

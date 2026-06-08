@@ -5,10 +5,6 @@ description: "Römisches Recht: Pontifikalrecht Kalender und Rechtszugang im Rö
 
 # Rom Pontifikalrecht Kalender Und Rechtszugang
 
-## Arbeitsbereich
-
-Römisches Recht: Pontifikalrecht Kalender und Rechtszugang. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Pontifikalrecht — Kalender und Rechtszugang.
-
 ## Pontifices
 
 - Hoechste Priester Roms, Kollegium der pontifices maximi.
@@ -60,6 +52,3 @@ Pontifikalrecht — Kalender und Rechtszugang.
 2. Welche Periode?
 3. Bedeutung?
 
-## Output
-
-- Pontifikalrechtsanalyse.

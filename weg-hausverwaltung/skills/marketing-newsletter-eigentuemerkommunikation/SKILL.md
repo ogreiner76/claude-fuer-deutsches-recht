@@ -46,14 +46,6 @@ Empfiehlt die Hausverwaltung namentlich einen Versicherungsmakler und erhält da
 
 Pflicht-E-Mails (Einladung, Protokoll) dürfen keinen Werbeteil enthalten, der eine eigene Einwilligung erfordern würde — Mischform ist rechtlich riskant. Separate Versendewege empfohlen. Tracking-Pixel in Pflicht-E-Mails: nur mit Einwilligung (§ 25 TDDDG).
 
-## Output
-
-- Einwilligungsformular-Muster (Double-Opt-In, DSGVO-konform mit Pflichtfeldern)
-- Newsletter-Footer-Vorlage mit Abmeldelink und Impressum-Pflichtangaben
-- Trennungs-Checkliste Pflicht-Information / Werbenachricht
-- Texthülsen: Eigentümerinfo-E-Mail (nüchtern, sachlich) vs. optionaler Newsletter (einladend)
-- Muster-Widerspruchsprotokoll bei UWG-Abmahnung
-
 ## Cross-Refs
 
 - Website und Impressum → `marketing-website-impressum-tmg-und-bewertungen`
@@ -64,3 +56,4 @@ Pflicht-E-Mails (Einladung, Protokoll) dürfen keinen Werbeteil enthalten, der e
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 7 UWG über https://www.gesetze-im-internet.de/uwg_2004/__7.html, § 34d GewO über https://www.gesetze-im-internet.de/gewo/__34d.html und § 25 TDDDG live verifizieren.
+

@@ -44,7 +44,3 @@ description: "AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behande
 3. Welche Einzelklausel im Streit?
 4. § 650a ff. BGB vorrangig?
 
-## Output
-
-- Klauselraster.
-- Schriftsatzbaustein.

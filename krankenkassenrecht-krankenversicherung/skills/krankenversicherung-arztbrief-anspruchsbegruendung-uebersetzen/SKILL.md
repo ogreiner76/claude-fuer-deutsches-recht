@@ -5,10 +5,6 @@ description: "Methodik zur Transformation medizinischer Arztbriefe in rechtlich 
 
 # Arztbrief in Anspruchsbegründung übersetzen
 
-## Arbeitsbereich
-
-Methodik zur Transformation medizinischer Arztbriefe in rechtlich verwertbare Anspruchsbegründungen gegenüber GKV und PKV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Arztbriefe enthalten die entscheidenden medizinischen Argumente für GKV-/PKV-An
 - [BSG Off-Label-Rechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [§ 192 VVG – PKV-Notwendigkeit](https://www.gesetze-im-internet.de/vvg_2008/__192.html)
 - [dejure.org § 27 SGB V](https://dejure.org/gesetze/SGB_V/27.html)
+

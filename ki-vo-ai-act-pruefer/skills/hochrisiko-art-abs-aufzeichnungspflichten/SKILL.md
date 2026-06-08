@@ -17,12 +17,6 @@ Vertiefter Hochrisiko-Checker für Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prueft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill prüft, ob ein bereits als KI-System eingeordnetes System nach Art. 6 Abs. 2 KI-VO Hochrisiko ist, weil es in einen der Anhang-III-Tatbestände fällt. Schwerpunkt ist die konkrete Zweckbestimmung und der reale Einsatzkontext, nicht der bloße Name des Modells oder Tools.
-
-Wichtig: Ein allgemeiner Chatbot, ein GPAI-System oder eine ChatGPT-ähnliche Oberfläche ist nicht allein deshalb Hochrisiko, weil man ihn theoretisch in Personalwesen, Justiz, Bildung oder Verwaltung einsetzen könnte. Hochrisiko entsteht regelmäßig erst durch den intendierten oder tatsächlich verantworteten Einsatz für einen Anhang-III-Zweck.
-
 ## Vorfragen
 
 Vor der Anhang-III-Prüfung immer erfassen:
@@ -263,10 +257,3 @@ Nr. 8 Rechtspflege/demokratische Prozesse: [JA/NEIN/UNKLAR] — [Begründung]
 
 Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 12, Nr. 13 und Nr. 23, Art. 6 Abs. 2 bis 5 und Anhang III KI-VO sowie die Kommissionsmaterialien zur Hochrisiko-Klassifikation. Die im Mai 2026 veröffentlichten Hochrisiko-Leitlinien waren zum Stand dieses Skills als Entwurf/Konsultationsmaterial zu behandeln, bis sie formal angenommen sind. Keine Rechtsberatung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Pl
 
 # Landeskrankenhausplan Aufnahme Herausnahme Aenderung
 
-## Arbeitsbereich
-
-Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhörungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,14 +75,6 @@ Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versor
 - Sofortvollzug uebersehen — Klinik wird abgewickelt, bevor Klage entschieden ist.
 - Beihilfenrecht nicht beruecksichtigt bei kommunaler Klinik.
 
-## Querverweise
-- `krankenhausfinanzierungsgesetz-khg-grundstruktur`
-- `leistungsgruppen-und-qualitaetskriterien-reformlogik`
-- `krankenhausreform-leistungsgruppen-routing`
-- `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung`
-- `landesaufsicht-krankenhausaufsicht-beanstandung`
-- `notfallstufen-und-sicherstellungszuschlaege`
-
 ## Quellen Stand 06/2026
 - KHG §§ 6, 6a.
 - Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
@@ -94,3 +82,4 @@ Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versor
 - BVerwG, staend. Rspr. zu Bedarfsplanung und Ermessensgrenzen.
 - BSG, staend. Rspr. zu Versorgungsauftrag (§ 109 SGB V).
 - VwGO §§ 42, 80, 113.
+

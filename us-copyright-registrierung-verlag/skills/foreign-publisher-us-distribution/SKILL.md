@@ -5,10 +5,6 @@ description: "Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformve
 
 # Foreign Publisher und US Distribution
 
-## Arbeitsbereich
-
-Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformverkauf, first foreign edition, U.S.-Mandatory-Deposit-Risiko und Registrierungsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformverkauf, first f
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Prüfe die Lage eines deutschen Verlags, dessen Titel in den USA verkauft, importiert, über Plattformen angeboten oder lizenziert wird. Der Skill bearbeitet Publication-Status, Mandatory Deposit und Registrierungsnutzen.
-
 ## Prüfschritte
 
 - Welche US-Berührung gibt es: Distributor, Amazon, Bibliotheksvertrieb, E-Book-Plattform, Lizenznehmer, Messe, Direktversand?
@@ -33,14 +25,6 @@ Prüfe die Lage eines deutschen Verlags, dessen Titel in den USA verkauft, impor
 - Welche Deposit-Regel gilt für Registrierung und welche Pflicht kann aus Mandatory Deposit folgen?
 - Ist eine US-Registrierung wegen Litigation Readiness, Lizenzierung oder Plattformdurchsetzung sinnvoll?
 - Welche Ausgabe ist einzureichen: ausländische Erstauflage, US-Ausgabe, Best Edition oder Online-Datei?
-
-## Output
-
-Ein US-Distribution-Memo mit Timeline, Deposit-Route, Risikoampel, Registrierungsstrategie und Belegliste.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -52,3 +36,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Ausgabe braucht der Mandant: Antragspaket, Clearance-Memo, Risikomatrix, Takedown, Lizenzklausel oder US-Counsel-Briefing?
 
 **Mindest-Output:** Arbeitsprodukt mit Claim Scope, Rechtekette, Risikomatrix, Evidenzlücken und nächstem US-Schritt.
+

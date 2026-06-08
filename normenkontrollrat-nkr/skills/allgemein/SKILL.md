@@ -41,12 +41,3 @@ Dieses Plugin unterstützt Ressorts, Verbände, Bundesländer und Wissenschaft b
 5. **Mehrere Spezial-Skills nur kombinieren,** wenn das Vorhaben tatsächlich mehrere NKR-Prüfdimensionen berührt.
 6. **Output formulieren.** Stellungnahme an den NKR, Memo ans Ressort, Fragenkatalog an die Verbände, oder Berechnungs-Datenblatt.
 
-## Quellenhygiene
-
-- NKRG, GGO, Handbuch der Rechtsförmlichkeit (HdR), Leitfaden zur Ermittlung des Erfüllungsaufwands — live über `bmi.bund.de`, `normenkontrollrat.bund.de` und `bundesregierung.de` prüfen.
-- Stellungnahmen des NKR (Jahresberichte, Einzel-Stellungnahmen) als Auslegungsmaßstab.
-- Keine NKR-Az aus Modellwissen — Vorgangsnummer immer aus der konkreten BT-/BR-Drucksache verifizieren.
-
-## Output
-
-Triage-Notiz mit empfohlenem Spezial-Skill, Frist (Ressortabstimmung, NKR-Befassung), Datenlücken und konkret nächstem Arbeitsschritt.

@@ -5,10 +5,6 @@ description: "Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit
 
 # Spezial: Internationaler Bezug und Schnittstellen
 
-## Arbeitsbereich
-
-Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit, anwendbares Recht, Enforcement im Ausland, Unionsmarke und -patent, WIPO-UDRP, grenzüberschreitende Abmahnung und Koordination mit ausländischen Anwälten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -124,18 +120,10 @@ Mandatsbezug: Deutsches Unternehmen entdeckt Verletzung seiner deutschen Marke d
 - Strategieziel: Unterlassung, Schadensersatz, Lizenz?
 - Mandantenentscheidung über Kostenrahmen.
 
-## Quellenregel
-
-- EuGVVO: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
-- ROM II: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32007R0864)
-- EUTMR: [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32017R1001)
-- WIPO-UDRP: [wipo.int/amc/en/domains](https://www.wipo.int/amc/en/domains/)
-- EuGH „AMS Neve": [curia.europa.eu](https://curia.europa.eu); AZ C-172/18.
-- Keine BeckRS-Blindzitate; internationale Normen über offizielle Quellen prüfen.
-
 ## Anschluss-Skills
 
 - `evvollzug-neu-006` – Auslandszustellung EV
 - `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
 - `takedown-anweisung` – Domain-Takedown
 - `spezial-patentscreening-livequellen-und-rechtsprechungscheck` – Patentrecherche
+

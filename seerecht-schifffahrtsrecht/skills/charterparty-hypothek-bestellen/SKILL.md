@@ -5,10 +5,6 @@ description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat C
 
 # Charterparty – Schiffshypothek bestellen
 
-## Arbeitsbereich
-
-Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer bestellt Schiffshypothek als Sicherheit für Finanzierung eines Gechartertes Seeschiff unter Charterparty. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Eine Bank bestellt eine Hypothek auf ein Gechartertes Seeschiff unter Charterpar
 - Fehlende notarielle Form fuehrt zur Nichtigkeit der Hypothek (SchRG § 17).
 - Rang entsteht mit Antragstellung; fruehzeitig beim Seeschiffsregister bleibt beim Reeder; kein Charter-Register-Gericht stellen.
 - Briefhypothek verliert Vollstreckungswert bei Verlust des Hypothekenbriefs.
-
-## Output
-Checkliste Hypothekenbestellung und Unterlagen-Übersicht für Gechartertes Seeschiff unter Charterparty.
 
 ## Vertiefung: Hypothekenarten im deutschen Schiffsrecht
 Das SchRG kennt die Verkehrshypothek (§§ 8-30) und die Höchstbetragshypothek (§ 75). Die Verkehrshypothek ist an eine bestimmte Forderung gebunden; die Höchstbetragshypothek sichert variable Forderungen bis zu einem eingetragenen Maximalbetrag und eignet sich für revolvierende Kreditlinien. In der Praxis der Schiffsfinanzierung dominiert die Hypothekenbestellung als erstrangige Höchstbetragshypothek zugunsten der Konsortialführerbank.
@@ -87,3 +80,4 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 - SchRegO §§ 13-19: https://dejure.org/gesetze/SchRegO
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - dejure SchRG § 75: https://dejure.org/gesetze/SchRG/75.html
+

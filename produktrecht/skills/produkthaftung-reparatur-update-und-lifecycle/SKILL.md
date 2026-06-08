@@ -5,10 +5,6 @@ description: "Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support un
 
 # Produkthaftung: Reparatur, Update und Lifecycle
 
-## Arbeitsbereich
-
-Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeoba
 - Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Schwerpunkt: Defekt kann im Lifecycle entstehen oder fortwirken. Produktbeobachtung, Updatepflicht und Reparaturdaten in Rückruf-/Haftungsanalyse integrieren.
 
 ## Sofort klären
 
@@ -45,10 +37,7 @@ Schwerpunkt: Defekt kann im Lifecycle entstehen oder fortwirken. Produktbeobacht
 4. **Beweisakte bauen.** Versionen, Seriennummern, Firmwarestände, Update-Historie, Reparaturversuche, Schadensbilder, Kundenkommunikation und Behördenkontakte dokumentieren.
 5. **Output entscheidungsfähig machen.** Risikoampel, Maßnahmenplan, Behörden-/Kundenschreiben, Rückruf-/Repair-Plan, Vertragsklauseln oder Klage-/Abwehrmemo liefern.
 
-## Quellenhygiene
-
-EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verwenden; insbesondere GPSR ist VO (EU) 2023/988, die BatterieVO ist VO (EU) 2023/1542. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur verifiziert ausgeben.
-
 ## Anschluss-Skills
 
 Nach der Erstprüfung je nach Schwerpunkt `produkthaftung-grundlagen`, `produktbeobachtung-software-ota`, `produktbeobachtung-feldueberwachung`, `prodr-produktrueckruf-leitfaden`, `rueckruf-strategie-konzern`, `marktueberwachung-kommunikation`, `prodr-gpsr-cra-fitness-spezial` oder `ki-act-produktintegration` ziehen.
+

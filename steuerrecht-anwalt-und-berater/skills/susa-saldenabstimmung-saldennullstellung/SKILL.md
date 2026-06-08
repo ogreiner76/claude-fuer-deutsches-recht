@@ -5,10 +5,6 @@ description: "Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass.
 
 # Saldenabstimmung — Bestaetigung der Stichtagssalden
 
-## Arbeitsbereich
-
-Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass. Anwendungsfall Bilanzvorbereitung Stichtag Forderungen und Verbindlichkeiten Lieferanten Kunden Banken. Methodik Abstimmungsschreiben Antwortauswertung Differenzklaerung. Output Saldenbestätigungs-Mappe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -128,12 +124,6 @@ Mit freundlichen Gruessen
 - Bei strittigen Forderungen: Einzelwertberichtigung in der Bilanz.
 - Pruefer-Bericht mit Stichprobenquote.
 
-## Output
-
-- Saldenbestaetigungs-Mappe mit Abstimmungsergebnissen.
-- Differenzklaerungs-Protokoll.
-- Bilanzanpassungs-Buchungen.
-
 ## Strategie und Praxis-Tipps
 
 - Saldenabstimmung ist Pflicht bei Wirtschaftspruefung (§ 320 HGB).
@@ -143,14 +133,6 @@ Mit freundlichen Gruessen
 - StBVV: Saldenabstimmung als Zusatzauftrag Jahresabschluss oder Pruefung.
 - DATEV-Tipp: DATEV-Saldenbestaetigung-Modul automatisiert Schreiben und Antwortauswertung.
 
-## Querverweise
-
-- `stb-susa-debitorenliste-osa-offene-posten` — Debitoren-OPOS.
-- `stb-susa-kreditorenliste-ova` — Kreditoren-OPOS.
-- `stb-jahresabschluss-bestandskonten-abstimmung` — Bilanzvorbereitung.
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -159,10 +141,3 @@ Stand: 05/2026.
 - StBerG § 33.
 - IDW PS 302, IDW PS 480.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

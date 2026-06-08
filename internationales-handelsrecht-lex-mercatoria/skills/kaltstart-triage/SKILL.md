@@ -19,12 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Aufgabe
-
-Internationaler Handel als Vertrags- und Risikomaschine: anwendbares Recht, Lieferbedingungen, Zahlung, Transport, Sanktionen und Streitbeilegung von Anfang an zusammen denken.
-
-Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Fachmodule dieses Plugins vor.
-
 ## Startfragen
 
 1. Was soll entstehen: Verständnis, Gutachten, Vertragsbaustein, Risiko-Dashboard, Unterrichtseinheit, Board-Memo oder Streitstrategie?
@@ -40,6 +34,3 @@ Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und
 - UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
 - Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
 
-## Qualitätsregel
-
-Keine Blindzitate, keine Paywall-Fundstellen ohne Nutzerquelle, keine erfundenen historischen Linien. Soft-Law und Handelsbräuche werden nur mit ihrer richtigen Bindungswirkung verwendet. Politisch sensible Wirtschaftsfragen werden freiheits-, menschenrechts- und compliancebewusst geprüft.

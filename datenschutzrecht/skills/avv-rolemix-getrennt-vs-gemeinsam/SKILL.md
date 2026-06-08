@@ -115,14 +115,6 @@ Datum, Unterschrift Datenschutzbeauftragter
 - Berufsgeheimnistraeger als reine Auftragsverarbeiter behandelt (Funktionsuebertragung uebersehen).
 - Tracking-Anbieter als Auftragsverarbeiter behandelt, obwohl er Daten für eigene Zwecke nutzt.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-dsgvo-grundtatbestand/SKILL.md`
-- `datenschutzrecht/skills/avv-art-26-joint-controllership-deutsch/SKILL.md`
-- `datenschutzrecht/skills/funktionsuebertragung-vs-auftragsverarbeitung/SKILL.md`
-- `datenschutzrecht/skills/joint-controllership-en-template/SKILL.md`
-- `datenschutzrecht/skills/dpa-en-controller-controller-tmpl/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 4 Nr. 7, Art. 26, Art. 28 DSGVO.
@@ -133,10 +125,3 @@ Datum, Unterschrift Datenschutzbeauftragter
 - Volltexte ueber curia.europa.eu pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

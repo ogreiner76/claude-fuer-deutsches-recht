@@ -5,10 +5,6 @@ description: "Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenha
 
 # Produkthaftung: Grundlagen, digitales Produkt und Lifecycle
 
-## Arbeitsbereich
-
-Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerb
 - Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Dieser Skill erklärt und prüft Produkthaftung nicht mehr nur als klassischen Sachschaden an körperlichen Produkten, sondern als Lifecycle-Haftung mit Software, Updates, Reparatur, Refurbishment und Produktbeobachtung.
 
 ## Sofort klären
 
@@ -45,10 +37,6 @@ Dieser Skill erklärt und prüft Produkthaftung nicht mehr nur als klassischen S
 4. **Beweisakte bauen.** Versionen, Seriennummern, Firmwarestände, Update-Historie, Reparaturversuche, Schadensbilder, Kundenkommunikation und Behördenkontakte dokumentieren.
 5. **Output entscheidungsfähig machen.** Risikoampel, Maßnahmenplan, Behörden-/Kundenschreiben, Rückruf-/Repair-Plan, Vertragsklauseln oder Klage-/Abwehrmemo liefern.
 
-## Quellenhygiene
-
-EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verwenden; insbesondere GPSR ist VO (EU) 2023/988, die BatterieVO ist VO (EU) 2023/1542. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur verifiziert ausgeben.
-
 ## Prüfraster
 
 1. Anspruchsspur: ProdHaftG, § 823 BGB, Vertrag/Gewährleistung, Produktsicherheit/Behörde, Versicherung, Strafrecht.
@@ -56,3 +44,4 @@ EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verw
 3. Anspruchsgegner: Hersteller, Quasi-Hersteller, Importeur, Händler, Software-/Komponentenhersteller, Fulfilment/Marktplatz je nach Rechtsstand.
 4. Beweis: Produkt, Fehler, Schaden, Kausalität, Entlastung, Beweiserleichterungen nach kommendem EU-Recht.
 5. Maßnahmen: Rückruf, Warnung, Reparaturprogramm, Update, Ersatzteilversorgung, Versicherer- und Behördenkommunikation.
+

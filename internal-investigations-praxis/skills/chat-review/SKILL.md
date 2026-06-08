@@ -5,10 +5,6 @@ description: "Sichert und wertet Chat-Kommunikation (Teams, Slack, WhatsApp, Sig
 
 # Chat-Review in Internal Investigations
 
-## Arbeitsbereich
-
-Sichert und wertet Chat-Kommunikation (Teams, Slack, WhatsApp, Signal) in Internal Investigations aus – Retention, Forensik, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill sichert alle relevanten Chat-Kommunikationen rechtssicher, wertet s
 - Hash-Werte des extrahierten Datensatzes.
 - Kein Selektionsbias: alle relevanten Nachrichten sichern, nicht nur belastende.
 
-## Red-Team-Fragen
-
-- Wurden alle Chat-Plattformen identifiziert, auch die, die das Unternehmen nicht offiziell unterstützt (Shadow IT)?
-- Wurden Retention-Policies rechtzeitig deaktiviert, bevor relevante Chats automatisch gelöscht wurden?
-- Sind Ende-zu-Ende-verschlüsselte Dienste (Signal, WhatsApp) zugänglich, und wenn nein, welche Beweislücke entsteht?
-- Wurden BYOD-Geräte rechtskonform einbezogen?
-- Haben Regulatoren (BaFin) eigene Anforderungen an die Sicherung von Kommunikation, die separat zu erfüllen sind?
-- Wurden Chat-Nachrichten stets im Kontext des gesamten Gesprächsverlaufs bewertet?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -96,3 +83,4 @@ Dieser Skill sichert alle relevanten Chat-Kommunikationen rechtssicher, wertet s
 - **Regulatorische Archivierungsliste** (MiFID II, BaFin)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

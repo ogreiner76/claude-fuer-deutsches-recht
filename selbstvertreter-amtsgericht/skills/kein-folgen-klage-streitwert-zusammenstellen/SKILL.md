@@ -5,9 +5,6 @@ description: "Kein Folgen Klage Streitwert Zusammenstellen im Selbstvertretung a
 
 # Kein Folgen Klage Streitwert Zusammenstellen
 
-## Arbeitsbereich
-
-**Kein Folgen Klage Streitwert Zusammenstellen** ordnet den Fall über die tragenden Prüfungslinien: Warnung an Laien was passiert wenn ein Tatbestandsmerkmal, Berechnung und Angabe des Streitwerts in der Klage nach § 3, Klage und Anlagen als komplettes Paket für das Amtsgericht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Kein Folgen Klage Streitwert Zusammenstellen im Selbstvertretung a
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kein-beweis-folgen-laienwarnung`
@@ -154,25 +152,9 @@ Pruefen Sie vor Klage:
 - "Ich verlasse mich auf einen Zeugen." → Zeuge kann ausfallen, Erinnerung lassen nach.
 - "Beweise spaeter im Termin." → Praeklusions-Gefahr.
 
-## Querverweise
-
-- `tatbestand-zerlegen-anspruchspruefung-laien` — Tatbestand.
-- `beweislast-grundregel-wer-was` — Beweislast.
-- `beweismittel-vorab-sammeln-checkliste` — Sammeln.
-- `vergleich-richtervorschlag-278-ii-zpo` — Vergleich.
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Vorab-Check.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `klage-streitwert-angabe-3-zpo`
 
@@ -293,23 +275,9 @@ Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO).
 - "Streitwert weglassen, das Gericht berechnet." → Sie muessen ihn angeben (§ 253 III ZPO).
 - "Streitwert zu niedrig angeben, um Gericht zu schmieren." → Funktioniert nicht; Gericht setzt unabhaengig fest.
 
-## Querverweise
-
-- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Wertgrenze.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten je Streitwert.
-- `klageschrift-pflichtbestandteile-253-zpo` — Klageschrift.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 3 ZPO und § 41 GKG unverändert. Wertgrenze § 23 Nr. 1 GVG: 10.000 EUR seit 01.01.2026; Übergangsfälle und Sonderzuständigkeiten gesondert prüfen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `klage-zusammenstellen-komplettes-bundle-amtsgericht`
 
@@ -440,23 +408,7 @@ Behalten Sie selbst **eine vollstaendige Kopie** von allem. Bewahren Sie sie an 
 - **Fehler:** Klage hat 4 Anlagen erwaehnt, aber nur 3 Anlagen liegen bei. → **So vermeiden:** Anlagenverzeichnis und Anlagen-Stapel nebeneinanderlegen und durchzaehlen.
 - **Fehler:** Bei mehreren Beklagten nur ein Bundle eingereicht. → **So vermeiden:** Pro Beklagter ein zusaetzliches Bundle.
 
-## Querverweise
-
-- `klageschrift-pflichtbestandteile-253-zpo` — Was muss in die Klage rein
-- `klageschrift-anlagen-bezeichnen` — Anlagen im Text bezeichnen
-- `anlagen-formatieren-k1-k2-pdf-amtsgericht` — Anlagen formatieren (Schriftart, Position)
-- `dokumenten-erzeugung-pdf-laien-amtsgericht` — PDF erstellen
-- `einreichung-mein-justizpostfach-mjp-2024` — Elektronisch einreichen
-- `einreichung-papierform-mit-abschriften` — Papierform einreichen
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Standard bundesweit ueblich. Die Beschriftung K1, K2 (Klaeger) bzw. B1, B2 (Beklagter) ist nicht gesetzlich vorgeschrieben, aber durchgaengig anerkannte Konvention der Gerichtspraxis.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

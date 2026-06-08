@@ -5,10 +5,6 @@ description: "§ 7b GewStG befreit den Sanierungsertrag parallel zur ESt/KSt von
 
 # § 7b GewStG — Gewerbesteuer-Befreiung Sanierung
 
-## Arbeitsbereich
-
-§ 7b GewStG befreit den Sanierungsertrag parallel zur ESt/KSt von der Gewerbesteuer. Eigener Antrag mit Gewerbesteuererklärung erforderlich; nicht automatisch aus § 3a EStG-Antrag mit zu erstrecken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -165,14 +161,6 @@ Gewerbeverlust verbraucht
 - Zerlegung bei mehreren Betriebsstätten nicht beachtet.
 - § 10a S. 1 GewStG-Vortrag mit § 10d EStG-Vortrag verwechselt.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust`
-- `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
-- `stb-sanierungsgewinn-betriebsstaette-und-international`
-- `stb-sanierungsgewinn-zuständigkeiten-fa-betriebspruefung`
-
 ## Quellen Stand 06/2026
 
 - § 7b Abs. 1, 2, 3 GewStG.
@@ -182,3 +170,4 @@ Gewerbeverlust verbraucht
 - § 3a Abs. 1, 4 EStG (Verweis).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

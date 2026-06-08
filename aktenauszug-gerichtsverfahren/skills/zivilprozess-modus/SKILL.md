@@ -5,10 +5,6 @@ description: "Zivilprozess Modus im Aktenauszug-Praxis im Aktenauszug Gerichtsve
 
 # Zivilprozess Modus
 
-## Arbeitsbereich
-
-**Zivilprozess Modus** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Zivilprozess Modus im Aktenauszug-Praxis im Aktenauszug Gerichtsve
 - Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zivilprozess-modus`
@@ -29,10 +26,6 @@ description: "Zivilprozess Modus im Aktenauszug-Praxis im Aktenauszug Gerichtsve
 **Fokus:** Aktenauszug für ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff. ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §§ 935 ff. ZPO. Normen ZPO BGH-Leitsaetze. Prüfraster ZPO-Fristen Instanzenzug Besonderheiten. Output ZPO-spezifischer Aktenauszug. Abgrenzung zu arbeitsgerichtsverfahren-modus (ArbGG) und verwaltungsprozess-modus (VwGO).
 
 ### Zivilprozess-Modus (ZPO)
-
-## Zweck
-
-Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für ordentliche Zivilverfahren nach der Zivilprozessordnung (ZPO). Er ergänzt den allgemeinen Aktenauszug-um ZPO-spezifische Fristen, Verfahrensschritte und Besonderheiten.
 
 ## Triage — kläre vor Aktivierung des Modus
 
@@ -55,9 +48,6 @@ Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für orden
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verfahrensarten im ZPO-Modus
 
 ### Ordentliches Klageverfahren
@@ -126,3 +116,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Streitwert nach §§ 2 ff. ZPO i.V.m. §§ 3 ff. ZPO und § 48 GKG angeben
 - Zuständigkeit (örtlich / sachlich / funktionell) kurz erwähnen
 - Klageart (Leistungsklage / Feststellungsklage / Gestaltungsklage) benennen
+

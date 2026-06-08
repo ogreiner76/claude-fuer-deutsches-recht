@@ -76,14 +76,6 @@ Kritik aus der Wertungsjurisprudenz (Larenz, Canaris): Hecks "Interessen" sind z
 
 Kritik aus der Topik (Viehweg): Auch Hecks Modell unterstellt einen Konsens darueber, was "die" Interessenabwaegung des Gesetzgebers ist. In der Praxis ist diese Wertung umstritten und wird im juristischen Diskurs ausgehandelt.
 
-## Querverweise
-
-- `pandekten-und-begriffsjurisprudenz` — Gegenposition.
-- `wertungsjurisprudenz-larenz-canaris` — Weiterentwicklung.
-- `teleologische-auslegung` — Brueckenkopf der Interessenjurisprudenz im modernen Kanon.
-- `historische-auslegung` — Interessen-Ermittlung aus Materialien.
-- `topik-viehweg-vs-systemdenken` — Kritik am Konsens-Modell.
-
 ## Quellen und Stand 05/2026
 
 - Philipp Heck, Gesetzesauslegung und Interessenjurisprudenz, 1914.
@@ -95,10 +87,3 @@ Kritik aus der Topik (Viehweg): Auch Hecks Modell unterstellt einen Konsens daru
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

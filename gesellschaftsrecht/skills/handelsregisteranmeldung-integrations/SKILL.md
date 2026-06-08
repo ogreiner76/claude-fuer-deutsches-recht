@@ -42,21 +42,6 @@ Vor der Anmeldungsvorbereitung klaeren:
 6. **§ 15 HGB-Risiko waehrend Wartezeit?** Wer vertritt die Gesellschaft bis zur Eintragung des neuen GF? Uebergangsregelungen (Vollmachten) treffen.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Zweck
-
-Dieser Skill unterstützt bei der Vorbereitung und Überprüfung von Anmeldungen
-zum Handelsregister. Er erfasst alle Registerarten (HRB für Kapitalgesellschaften;
-HRA für Personalhandelsgesellschaften; GnR für eingetragene Genossenschaften;
-PartGR für Partnerschaftsgesellschaften) sowie die wesentlichen Pflichtanmeldungen
-im laufenden Gesellschaftsleben. Zentrale Themen sind das Beurkundungs- und
-Beglaubigungserfordernis (§ 12 HGB), Anmeldefristen, Eintragungsvoraussetzungen
-und die Wirkung der Registereintragung (§ 15 HGB).
-
-Mandatsbezug: Gesellschaft meldet Geschäftsführerwechsel an; Prokuraerteilung
-oder -widerruf; Kapitalerhöhung oder Kapitalherabsetzung; Sitzverlegung;
-Mandant fragt, ob ein nicht eingetragener Sachverhalt Dritten entgegengehalten
-werden kann.
-
 ## Eingaben
 
 1. **Registerart** – HRB (GmbH, AG, KGaA, SE), HRA (OHG, KG, GmbH & Co. KG),
@@ -111,6 +96,7 @@ werden kann.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -159,12 +145,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 | Variante C — Anmeldung wird vom Registergericht bemueckelt | Beschwerdeverfahren vorbereiten; Ergaenzung der Unterlagen zuerst |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Ausgabeformat
-
-- **Anmeldungsschreiben** (Schriftsatz): Adressat Amtsgericht — Handelsregister; Bezeichnung der Gesellschaft mit HRB-Nummer; Gegenstand der Aenderung; Rechtsgrundlage; Anlage: notariell beglaubigte Unterschriften.
-- **Checkliste Unterlagen** (Tabelle): Dokument | Erfordernis | Erledigt.
-- **Memo negative Publizitaet** (Gutachtenstil): Risiken aus § 15 HGB bei verzoegerter Anmeldung.
 
 ## Output-Template
 
@@ -285,3 +265,4 @@ zitierweise.md`. § 15 HGB-Wirkungen sind differenziert darzustellen (negative
 vs. positive Publizität; Gutgläubigkeitsschutz). Bei Streitfragen zur
 konstitutiven vs. deklaratorischen Wirkung von Eintragungen sind h. M. und
 abweichende Literaturauffassungen kenntlich zu machen.
+

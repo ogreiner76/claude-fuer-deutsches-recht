@@ -5,10 +5,6 @@ description: "Internationale bAV-Systeme im Konzern harmonisieren: Governance, F
 
 # Internationale Harmonisierung Konzern-BAV
 
-## Arbeitsbereich
-
-Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -186,6 +182,3 @@ JP | [X] | [X] | [X]% | Mittel | DC-Reform
 
 ## Aktuelle Rechtsprechung und Leitsaetze (Ergaenzung v14.2)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

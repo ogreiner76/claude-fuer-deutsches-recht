@@ -5,10 +5,6 @@ description: "Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fak
 
 # Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.
 
-## Arbeitsbereich
-
-Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.; Normanker: BGB/EGBGB Informationspflichten; UWG; DSA; Produktsicherheitsrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -52,3 +48,4 @@ BGB/EGBGB Informationspflichten; UWG; DSA; Produktsicherheitsrecht. Der aktuelle
 3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
 4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
 5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
+

@@ -106,12 +106,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 25 DSGVO (Datenschutz durch Technikgestaltung – Mandatsisolation als TOMs)
 - Zuck, in: Zuck/Lenz, Anwaltsrecht, 2. Aufl. 2018, § 43a BRAO Rn. 15 ff. (Berufsgeheimnis).
 
-## Ausgabeformat
-
-- Kurzbestätigungen (angelegt, gewechselt, geschlossen) als einzeilige Statusnachricht
-- Mandatsübersicht als Tabelle
-- `mandat.md` als vollständig befülltes Dokument
-
 ## Risiken / typische Fehler
 
 - **Mandatsisolation nicht gewährleistet:** Wenn Skills ohne aktives Mandat auf mandatsspezifische Daten zugreifen oder mandatsübergreifend aggregieren, verletzt dies § 43a Abs. 2 BRAO und Art. 5 Abs. 1 lit. f DSGVO (Integrität und Vertraulichkeit).
@@ -152,3 +146,4 @@ Aktuell aktiver Kontext: [ID_X]
 Sicherheitshinweis: Kontextleak zwischen Mandaten wurde verhindert.
 Letzter Wechsel: [DATUM, UHRZEIT]
 ```
+

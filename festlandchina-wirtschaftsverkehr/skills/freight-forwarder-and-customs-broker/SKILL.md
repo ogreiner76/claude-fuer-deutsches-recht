@@ -5,10 +5,6 @@ description: "Spediteur- und Zolldienstleisterrecht im China-Handel: Haftungsrah
 
 # Spediteur und Zollmakler China-Handel: Haftung und Beauftragung
 
-## Arbeitsbereich
-
-Spediteur- und Zolldienstleisterrecht im China-Handel: Haftungsrahmen HGB §§ 407 ff. (Frachtrecht), Spediteurbedingungen ADSp, Vollmachten für Zollanmeldung, Zollvertretung nach EU-ZK Art. 18 ff., Haftung bei Fehlanmeldung, BAFA-Vertretung bei Exportgenehmigung. Output: Beauftragungsrahmen und Haftungsüberblick. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,13 +80,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
 
-## Output
-
-Prüfbericht Freight Forwarder And, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
-
 ## Quellen
 
 Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
@@ -101,3 +90,4 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+

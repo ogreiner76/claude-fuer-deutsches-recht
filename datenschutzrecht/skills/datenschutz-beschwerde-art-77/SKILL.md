@@ -5,10 +5,6 @@ description: "Beschwerde Art. 77 DSGVO bei zuständiger Aufsichtsbehoerde einrei
 
 # Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehoerden-Praxis
 
-## Zweck
-
-Dieser Skill bearbeitet das Beschwerdeverfahren nach Art. 77 DSGVO. Er hilft dem Beschwerdefuehrer, eine wirksame Beschwerde einzureichen, und dem Beschwerdegegner, im Verfahren der Aufsichtsbehoerde fundiert Stellung zu nehmen.
-
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill, sobald (a) ein Mandant Beschwerde einlegen will, (b) der Mandant Adressat einer Beschwerde ist und von der Aufsichtsbehoerde angehoert wird, oder (c) eine Beschwerde durch Untaetigkeitsklage durchgesetzt werden soll.
@@ -117,14 +113,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert die Aufsicht zu nachhaltigem Verfahren?** Wiederholungstaeter, Konflikt mit gesetzlichem DSB, Beschwerde durch organisierte Verbraucherzentrale Art. 80 DSGVO.
 
-## Querverweise
-
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-- `datenschutz-auskunftsersuchen-art-15-praxis`
-- `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
-- `datenschutz-livecheck-bfdi-laender-aufsichtsbehoerden`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 56, 58, 77, 78, 80.
@@ -135,10 +123,3 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien zur Zusammenarbeit nach Art. 56 ff. DSGVO.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

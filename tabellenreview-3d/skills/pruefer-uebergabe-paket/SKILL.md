@@ -16,10 +16,6 @@ description: "Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen: a
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Das Plugin liefert nicht das fertige Mandatsergebnis. Es liefert das Prüfer-Paket — alles was der zugelassene Rechtsanwalt braucht um in vertretbarer Zeit die Endabnahme machen zu können. Dieser Skill schnuert das Paket.
-
 ## Bestandteile
 
 ### 1. Hauptdatei
@@ -81,3 +77,4 @@ Erst nach dokumentierter Prüfer-Abnahme darf das Paket (oder Auszüge davon) an
 - BRAO Paragraph 43a Absatz 2 — Verschwiegenheit
 - StGB Paragraph 203 — Privatgeheimnisse
 - RDG Paragraph 2 — Rechtsdienstleistung darf nur durch Rechtsanwalt erbracht werden — der Würfel ist Vorbereitung, die Abnahme ist die Rechtsdienstleistung
+

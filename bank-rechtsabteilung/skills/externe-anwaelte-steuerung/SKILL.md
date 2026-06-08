@@ -5,10 +5,6 @@ description: "Externe Anwälte und Kanzleien steuern: Mandatsbrief, Scope, Budge
 
 # Externe Anwälte steuern
 
-## Arbeitsbereich
-
-Externe Anwälte und Kanzleien steuern: Mandatsbrief, Scope, Budget, Reporting, Privilege, Interessenkonflikte, Rechtsmeinungen, Second Opinion und internes Wissen sichern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -121,3 +117,4 @@ Wähle passend oder biete maximal drei Optionen an:
 ## Quellenanker
 
 Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: Gesetze im Internet für KWG, ZAG, WpHG, GwG, HGB, BGB und AktG; BaFin für MaRisk, Merkblätter und Aufsichtsinformationen; EUR-Lex für DORA, CRR/CRD und MiFID; EBA/EZB/Bundesbank für Leitlinien und Aufsichtspraxis. Das Quellenverzeichnis des Plugins liegt in `references/QUELLEN.md`.
+

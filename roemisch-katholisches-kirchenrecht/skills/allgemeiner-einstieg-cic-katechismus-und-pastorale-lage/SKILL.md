@@ -5,10 +5,6 @@ description: "Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: Sprache
 
 # Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage
 
-## Arbeitsbereich
-
-Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: Sprache, Rolle, Status, Normspur, Lehrspur, Zuständigkeit und Ausgabeformat; CIC can. 1-22 und 96-112 und 204-223; KKK Prolog, 748-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Canones- und Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -83,3 +79,4 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+

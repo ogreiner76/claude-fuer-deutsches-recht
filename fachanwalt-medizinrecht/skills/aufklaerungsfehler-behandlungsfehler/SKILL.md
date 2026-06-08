@@ -5,9 +5,6 @@ description: "Aufklaerungsfehler Behandlungsfehler im Medizinrecht: prüft konkr
 
 # Aufklaerungsfehler Behandlungsfehler
 
-## Arbeitsbereich
-
-**Aufklaerungsfehler Behandlungsfehler** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt medizinrecht aufklaerungsfehler, Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +19,7 @@ description: "Aufklaerungsfehler Behandlungsfehler im Medizinrecht: prüft konkr
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BGB §§ 630a-h, MBO-Ä, GKV-Vorgaben, SGB V, PrüfvV, HeilberufsG der Länder; SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-medizinrecht-aufklaerungsfehler`
@@ -410,3 +408,4 @@ Anlagen: Behandlungsdokumentation, aerztl. Atteste, Vollmacht
 - BGH 25.11.2025 — VI ZR 51/24: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+51/24
 - BGH 25.11.2025 — VI ZR 165/23: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2025&Aktenzeichen=VI+ZR+165/23
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentar-, Handbuch- oder Aufsatzblindzitate.
+

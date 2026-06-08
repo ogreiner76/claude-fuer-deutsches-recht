@@ -11,10 +11,6 @@ description: "Prüfungslinie für anw betriebsausgaben werbungskosten pruefraste
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Die zentrale Abgrenzungs-Frage im Einkommensteuerrecht: was darf der Mandant ansetzen? Dieses Raster macht die Entscheidung systematisch.
-
 ## Eingaben
 
 - Belege (Rechnungen Bons Verträge)
@@ -235,3 +231,4 @@ Die zentrale Abgrenzungs-Frage im Einkommensteuerrecht: was darf der Mandant ans
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

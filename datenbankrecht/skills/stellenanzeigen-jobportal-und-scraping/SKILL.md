@@ -5,10 +5,6 @@ description: "Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nac
 
 # Stellenanzeigen, Jobportale und Scraping — Datenbankrecht nach Innoweb
 
-## Arbeitsbereich
-
-Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/1
 - DSGVO-Grundlage für Kontaktdaten in Stellenanzeigen ist berechtigtes Interesse — aber Weitergabe an Dritte ohne weitere Rechtsgrundlage problematisch.
 - Aggregatoren können sich auf § 87c UrhG (zulässige Handlungen) berufen — prüfen, ob Ausnahmen einschlägig sind.
 
-## Output
-
-- Innoweb-Verletzungsanalyse (Echtzeit-Meta-Suche vs. periodisches Crawling)
-- Datenbankherstellerrecht-Gutachten für Jobportal
-- AGB-Klausel-Vorlage für Scraping-Verbot
-- Jobdaten-Lizenzvertrag-Muster (API-Feed)
-- DSGVO-Prüfbogen für Kontaktdaten in Stellenanzeigen
-
 ## Quellen
 
 - [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
@@ -75,3 +63,4 @@ Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/1
 - [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
 - [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für KI-Richtlinie für Kanzleien: or
 
 Dieser Einstieg routet **Ki Richtlinie Kanzleien** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `anonymisierung-pseudonymisierung` — Anonymisierung Pseudonymisierung
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Ki Richtlinie Kanzleien** vom ersten Sachverhalt zu Rol
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei KI-Richtlinie für Kanzleien typische Eskalationsstufen: Interne KI-Richtlinie, Mandanten-Hinweisblatt, AVV-Checkliste.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

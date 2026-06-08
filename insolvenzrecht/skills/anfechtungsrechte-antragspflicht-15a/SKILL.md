@@ -25,10 +25,6 @@ Insolvenzverwalter klagt auf Rückgewaehr einer Zahlung vor Insolvenz oder Gläu
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandanten-Seite (Anfechtungs-Gegner) das Werkzeug zur Verteidigung.
-
 ## Eingaben
 
 - Insolvenzantrags-Datum

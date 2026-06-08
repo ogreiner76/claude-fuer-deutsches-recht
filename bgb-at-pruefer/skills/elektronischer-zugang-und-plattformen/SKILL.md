@@ -45,13 +45,6 @@ description: "Prüft elektronischen Zugang von Willenserklärungen nach § 130 B
 - Spam-Filter: Unverschuldete Nichtkenntnis kann Zugangsvereitelung durch Empfänger ausschließen.
 - Automatisierte Systeme bei juristischen Personen: Zugang sofort bei Eingang im System.
 
-## Output
-
-- Zugangszeitpunkt-Schema: Eingang — Kenntnisnahmemöglichkeit — Zugang
-- B2B vs. B2C-Vergleich für elektronische Erklärungen
-- Gutachtenstil-Abschnitt zu § 130 BGB elektronisch
-- Beweislast-Hinweise für Zugangszeitpunkt
-
 ## Quellen
 
 - [§ 130 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__130.html)
@@ -81,3 +74,4 @@ des Nutzers ist der gängige Ansatz.
 - Außerhalb der Geschäftszeiten: Im B2B-Bereich Verschiebung auf nächsten Werktag?
 - § 312i BGB: Bestätigungspflichten und ihre Rechtsfolgen?
 - Automatisierte Systeme: Wann gilt eine maschinelle Antwort als rechtsverbindliche Erklärung?
+

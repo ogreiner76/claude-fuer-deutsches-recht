@@ -5,10 +5,6 @@ description: "Fachmodul Franchiserecht für Gebietsschutz gegen Online- und Plat
 
 # Franchise: Gebietsschutz gegen Online- und Plattformkanäle
 
-## Arbeitsbereich
-
-Fachmodul Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,6 +47,3 @@ Kanal-Mapping mit zulässigen Qualitätskriterien und Redline für Plattformklau
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

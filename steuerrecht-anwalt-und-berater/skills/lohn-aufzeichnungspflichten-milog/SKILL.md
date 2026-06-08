@@ -87,12 +87,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Empfehlung Zeiterfassungssystem (Software z.B. ZEUS, AVERO, Pliam).
 - Bei Vertrauensarbeitszeit: Aufzeichnungspflicht bleibt; alternative Erfassung moeglich.
 
-## Output
-
-- Mandanten-Notiz zu Aufzeichnungspflichten.
-- Empfehlung Zeiterfassungssystem.
-- Aufbewahrungs-Routine.
-
 ## Strategie und Praxis-Tipps
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -101,13 +95,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Bei Minijob: Aufzeichnung ist zentrale Pruefungsstelle der Pruefer.
 - StBVV: Beratung Aufzeichnungspflichten Zusatzauftrag.
 - DATEV-Tipp: DATEV-Zeitwirtschaft als Modul; Schnittstelle zu LODAS.
-
-## Querverweise
-
-- `stb-lohn-mehrarbeit-zuschlaege-39b-estg` — Zuschlaege.
-- `stb-lohn-mindestlohn-aktuell-2026-anpassung` — Mindestlohn.
-- `stb-lohn-minijob-538-euro-2024-anpassung` — Minijob.
-- `stb-lohn-ueberstunden-abbau-arbeitszeitkonto` — Arbeitszeitkonto.
 
 ## Quellen und Updates
 
@@ -119,3 +106,4 @@ Stand: 05/2026.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Pruefungshinweis neu formuliert ohne Marker) -->
+

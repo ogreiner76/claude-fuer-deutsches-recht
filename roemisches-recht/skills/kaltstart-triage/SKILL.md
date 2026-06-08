@@ -36,13 +36,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Aufgabe
-
-Römisches Recht als begriffliche Werkstatt: Institute verstehen, Falltypen trennen und moderne Dogmatik nicht vorschnell hineindeuten. Ausgangspunkt ist fast immer die praktische Frage: **Welche actio, exceptio, Formel oder prätorische Hilfe macht den Fall überhaupt durchsetzbar?**
-
-Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und schlägt dann gezielt Fachmodule dieses Plugins vor.
-
 ## Startfragen
 
 1. Was soll entstehen: Verständnis, Gutachten, Vertragsbaustein, Risiko-Dashboard, Unterrichtseinheit, Board-Memo oder Streitstrategie?
@@ -73,6 +66,3 @@ Der Skill sortiert zuerst Rolle, Ziel, Unterlagen, Rechtsordnung oder Epoche und
 - Erbrecht/Testament/Pflichtteil: `rom-052-erbrecht-testament`, `rom-145-querela-inofficiosi-testamenti-pflichtteil`
 - Unklare Anfrage "Vergebung": `rom-161-vergebung-vererbung-vergabe-begriffsklaerung`
 
-## Qualitätsregel
-
-Keine Blindzitate, keine Paywall-Fundstellen ohne Nutzerquelle, keine erfundenen historischen Linien. Soft-Law und Handelsbräuche werden nur mit ihrer richtigen Bindungswirkung verwendet. Politisch sensible Wirtschaftsfragen werden freiheits-, menschenrechts- und compliancebewusst geprüft.

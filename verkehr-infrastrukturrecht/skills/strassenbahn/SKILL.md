@@ -39,9 +39,6 @@ Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Planfeststellung Strassenbahn
 
 1. **Trassenauswahl prufen:** Wurden Alternativen ernsthaft geprueft?
@@ -57,3 +54,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Direktvergabe EU-rechtskonform pruefen — VO (EG) 1370/2007 beachten.
 - Laermschutzberechnungen fachlich begleiten lassen (Sachverstaendiger).
 - Anwaltliche Endkontrolle bei Einwendungen und Klagen.
+

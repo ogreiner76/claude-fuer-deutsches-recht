@@ -5,10 +5,6 @@ description: "Krankenversicherungspflicht für ausländische Studierende in Deut
 
 # Internationale Studierende: Krankenversicherung
 
-## Arbeitsbereich
-
-Krankenversicherungspflicht für ausländische Studierende in Deutschland: GKV-Pflicht, Befreiungsmöglichkeiten, private Alternativen und Nachweispflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Ausländische Studierende in Deutschland müssen sich krankenversichern. Dieser 
 - [Bundesagentur für Arbeit Studentische KV](https://www.arbeitsagentur.de)
 - [DAAD Krankenversicherung](https://www.daad.de/de/studieren-und-forschen-in-deutschland/studium-planen/krankenversicherung/)
 - [dejure.org § 8 SGB V](https://dejure.org/gesetze/SGB_V/8.html)
+

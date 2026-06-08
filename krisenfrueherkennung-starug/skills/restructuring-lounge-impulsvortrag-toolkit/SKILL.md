@@ -5,10 +5,6 @@ description: "Toolkit für Impulsvorträge zu Krisenfrüherkennung und StaRUG: F
 
 # Impulsvortrag-Toolkit — StaRUG und Krisenfrüherkennung
 
-## Arbeitsbereich
-
-Toolkit für Impulsvorträge zu Krisenfrüherkennung und StaRUG: Foliensatz-Gliederung, Talking-Points, juristische Kernbotschaften, Q-und-A-Fallnetz, Formathinweise für Veranstaltungen wie Branchenlounge-Formate. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -189,14 +185,6 @@ Veranstaltungsformate, bei denen Impulsgespräche zu Restrukturierungsthemen im 
 
 ---
 
-## Querverweise
-
-- → `paragraph-1-starug-pflichten-und-24-monats-horizont` — Kernnorm des Vortrags
-- → `paragraph-102-starug-warnpflicht-bei-rechtsberatern` — Berater-Pflichten für Fachpublikum
-- → `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — IDW S 6 Stadienmodell als Folie 3
-- → `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Ampel als Anschauungsbeispiel
-- → `mandantenbrief-warnung-paragraph-102-starug-template` — Take-away für Berater im Publikum
-
 ## Triage — Erste Einordnung
 
 Bevor losgelegt wird, klaere:
@@ -204,3 +192,4 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+

@@ -5,10 +5,6 @@ description: "Betriebskostenabrechnung prüfen aus Mietersicht: formelle Mindest
 
 # Betriebskostenabrechnung prüfen
 
-## Arbeitsbereich
-
-Betriebskostenabrechnung prüfen aus Mietersicht: formelle Mindestangaben, Frist, Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, HeizkostenV, CO2KostAufG, Rechenkontrolle, Einwendungen und temporäres Zurückbehaltungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -114,14 +110,3 @@ Erzeuge eine Tabelle:
 | Heizung | ... | prüfen | HeizkostenV/CO2 | Messdaten | ... |
 | Grundsteuer | ... | prüfen | Zeitraum | Bescheid | ... |
 
-## Output
-
-- Kurzbewertung: zahlen, teilweise zahlen, Belegeinsicht, Einwendung oder Klageabwehr.
-- Einwendungsschreiben mit konkreten Positionen.
-- Belegeinsichtsanfrage mit Liste der benötigten Belege.
-- Korrigierte Saldenrechnung.
-- Fristenblatt für Einwendungsfrist und etwaige Zahlung unter Vorbehalt.
-
-## Quellenregel
-
-Normen live auf gesetze-im-internet.de prüfen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

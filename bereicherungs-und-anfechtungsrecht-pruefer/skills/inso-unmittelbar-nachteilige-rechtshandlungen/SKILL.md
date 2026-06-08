@@ -21,9 +21,6 @@ description: "Anfechtung unmittelbar nachteiliger Rechtshandlungen nach § 132 I
 
 Hinweis für diesen Auditstand: § 132 InsO wird hier bewusst am Gesetzestext geführt. Unsichere Altzitate wurden nicht als tragende Arbeitsregel übernommen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Obersatz
 
 Anfechtbar ist nach § 132 Abs. 1 InsO ein Rechtsgeschäft des Schuldners, das die Insolvenzgläubiger unmittelbar benachteiligt, wenn es entweder in den letzten drei Monaten vor dem Eröffnungsantrag bei Zahlungsunfähigkeit und Kenntnis des anderen Teils vorgenommen wurde oder nach dem Eröffnungsantrag bei Kenntnis der Zahlungsunfähigkeit oder des Antrags.
@@ -86,3 +83,4 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+

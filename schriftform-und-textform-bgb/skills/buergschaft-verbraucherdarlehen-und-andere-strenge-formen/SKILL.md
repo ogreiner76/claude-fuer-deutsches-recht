@@ -36,9 +36,7 @@ Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noc
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-## Quellenregel
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - **§ 766 BGB** — Bürgschaft: schriftliche Erteilung der Bürgschaftserklärung
@@ -175,3 +173,4 @@ den vorbereiteten Urkundentext zu.
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund: GELOESCHT. Skill hatte falsches Datum (07.03.2013; korrekt: 16.05.2013) und falsches Thema (Kaufmannseigenschaft des Buergen / § 350 HGB). Echtes Thema: Zwangsverwaltung (ZVG); Nutzungsentschaedigungsanspruch; Wohnschutz des Schuldners (§ 149 ZVG); kein Bezug zu Buergschaft oder HGB. Quelle: dejure.org/2013,18267. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
 -->
+

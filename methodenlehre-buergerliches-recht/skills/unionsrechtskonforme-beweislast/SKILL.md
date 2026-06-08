@@ -51,10 +51,6 @@ description: "Dieses Skill untersucht, wie EU-Richtlinien und EuGH-Rechtsprechun
 - Die Beweislasterleichterung nach § 477 BGB wird nicht auf den richtigen Zeitraum (erste zwölf Monate nach Kauf bei Verbrauchern) angewendet.
 - Das Gericht wird nicht explizit auf seine Pflicht zur richtlinienkonformen Auslegung hingewiesen.
 
-## Output
-
-Das Skill liefert eine unionsrechtliche Beweislastanalyse: Richtlinienvorschrift, nationaler Vergleichsstand, Abweichungsanalyse, richtlinienkonforme Auslegungslösung und prozessuale Empfehlung. Geeignet für Klagebegründungen, Erwiderungen und Gutachten mit EU-rechtlichem Bezug.
-
 ## Quellen
 
 - [§ 477 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__477.html)
@@ -86,3 +82,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

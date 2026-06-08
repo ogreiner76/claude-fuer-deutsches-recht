@@ -79,13 +79,6 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 ### Phase 6 — Pillar Two
 ### Phase 7 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo Malta.
-- **Holding-Substanz-Memo** mit Indizientabelle.
-- Berechnungsbeispiel mit Refund-System und CFC.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Malta-Refund-System (6/7-Rueckerstattung): effektive KSt ca. 5 Prozent — § 8 AStG-Niedrigsteuerschwelle (ab VZ 2024: 15 Prozent) pruefen.
@@ -157,12 +150,9 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 >
 > Schritt 3: § 50d Abs. 3 EStG-Substanztest und PPT-Klausel (MLI) zentral. Bei vollem Substrat in MT Treaty-Schutz; bei Briefkasten Versagung.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-zypern-2011`, `stb-dba-luxemburg-2012`, `stb-dba-irland`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Malta 08.03.2001, in Kraft 27.12.2001 (BGBl. 2001 II S. 1297). Aenderungsprotokoll in Kraft 19.05.2011 (BGBl. 2011 II S. 275). MLI-modifiziert ab 01.01.2025 (MLI-Anwendungsgesetz 2024). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

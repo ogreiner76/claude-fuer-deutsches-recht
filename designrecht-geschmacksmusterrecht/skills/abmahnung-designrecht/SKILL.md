@@ -5,10 +5,6 @@ description: "Designrechtliche Abmahnung erstellen oder verteidigen: Berechtigun
 
 # Abmahnung Designrecht
 
-## Arbeitsbereich
-
-Designrechtliche Abmahnung erstellen oder verteidigen: Berechtigungsprüfung, Rechtsbestand, Verletzung, Unterlassungserklärung, Kosten, Fristen und Gegenangriff. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,20 +17,12 @@ Designrechtliche Abmahnung erstellen oder verteidigen: Berechtigungsprüfung, Re
 
 Eine Abmahnung wird vorbereitet oder liegt vor.
 
-## Arbeitsweise
-
-Beginne mit Registerstand und Bildvergleich; vermeide vorschnelle Unterwerfung ohne Nichtigkeitscheck.
-
 ## Prüfpunkte
 
 - Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
 - Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Output
-
-Abmahnentwurf oder Verteidigungsvermerk.
 
 ## Quellen-Hardening
 

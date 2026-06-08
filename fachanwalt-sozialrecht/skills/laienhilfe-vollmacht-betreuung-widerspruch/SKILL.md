@@ -5,9 +5,6 @@ description: "Laienhilfe Vollmacht Betreuung Widerspruch im Plugin Fachanwalt So
 
 # Laienhilfe Vollmacht Betreuung Widerspruch
 
-## Arbeitsbereich
-
-**Laienhilfe Vollmacht Betreuung Widerspruch** ordnet den Fall über die tragenden Prüfungslinien: Laienverstaendlicher Sozialrechts-Skill zu Vollmacht, Laienverstaendlicher Sozialrechts-Skill zu Widerspruch, Laienverstaendlicher Sozialrechts-Skill zu Wohngeld. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Laienhilfe Vollmacht Betreuung Widerspruch im Plugin Fachanwalt So
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `laienhilfe-vollmacht-betreuung-angehoerige`
@@ -52,14 +50,6 @@ Dieser Skill erklaert **Vollmacht Betreuung Angehoerige** so, dass auch Menschen
 4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
 5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
 
-## Arbeitsweise
-
-- Schwierige Woerter erst in einfache Sprache uebersetzen.
-- Fristen immer sichtbar ausgeben.
-- Zwischen sicher, unklar und zu beweisen unterscheiden.
-- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
-- Keine falschen Versprechen machen.
-
 ## Ausgabe
 
 **Kurz erklaert**
@@ -86,14 +76,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `laienhilfe-widerspruch-einfach`
 
@@ -121,14 +103,6 @@ Dieser Skill erklaert **Widerspruch Einfach** so, dass auch Menschen ohne jurist
 4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
 5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
 
-## Arbeitsweise
-
-- Schwierige Woerter erst in einfache Sprache uebersetzen.
-- Fristen immer sichtbar ausgeben.
-- Zwischen sicher, unklar und zu beweisen unterscheiden.
-- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
-- Keine falschen Versprechen machen.
-
 ## Ausgabe
 
 **Kurz erklaert**
@@ -155,14 +129,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `laienhilfe-wohngeld-kinderzuschlag-schnittstelle`
 
@@ -190,14 +156,6 @@ Dieser Skill erklaert **Wohngeld Kinderzuschlag Schnittstelle** so, dass auch Me
 4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
 5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
 
-## Arbeitsweise
-
-- Schwierige Woerter erst in einfache Sprache uebersetzen.
-- Fristen immer sichtbar ausgeben.
-- Zwischen sicher, unklar und zu beweisen unterscheiden.
-- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
-- Keine falschen Versprechen machen.
-
 ## Ausgabe
 
 **Kurz erklaert**
@@ -225,14 +183,6 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 4. `long-covid-akte-und-tagebuch`
 
 **Fokus:** Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe.; Normanker: SGB X §§ 20 und 21 und 25; SGG § 84, § 87; SGB VI/SGB IX/SGB V je nach Ziel; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
@@ -255,14 +205,7 @@ Dieser Skill prüft Long-Covid/Post-Covid nicht als Schlagwort, sondern als sozi
 
 SGB X §§ 20, 21, 25; SGG § 84, § 87; SGB VI/SGB IX/SGB V je nach Ziel. Medizinisch ist der aktuelle Stand anhand frei zugänglicher Leitlinien und ärztlicher Unterlagen zu prüfen; rechtlich zählt die konkrete Funktionsbeeinträchtigung, nicht ein bloßer Diagnosezettel.
 
-## Arbeitsfragen
-
-1. Welches Leistungsziel: Erwerbsminderungsrente, GdB/Merkzeichen, Krankengeld, BG-Verletztenrente, Reha, Teilhabe, Hilfsmittel oder Schule?
-2. Welche Symptome sind funktionell relevant: Fatigue, PEM, Belastungsintoleranz, Dyspnoe, kognitive Defizite, Schmerzen, Schlaf, Kreislauf, Geruch/Geschmack?
-3. Was ist objektiv dokumentiert: Arztberichte, Reha, Labor/Bildgebung, neuropsychologische Tests, Belastungsprotokoll, Fremdanamnese?
-4. Welche Gutachtenfehler liegen vor: Momentaufnahme, fehlende PEM-Prüfung, falsche psychisch/somatisch-Verengung, keine Alltagstransfers?
-5. Welche Fristen laufen: Widerspruch, Klage, Eilverfahren, Nahtlosigkeit, Krankengeld-Aussteuerung?
-
 ## Ausgabe
 
 Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen Widerspruchsbaustein, eine Klagebegründung oder eine laienverständliche Unterlagenliste.
+

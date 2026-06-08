@@ -28,10 +28,6 @@ Nicht aus Modellwissen; insbesondere zur Beweislastverteilung bei Nichtmeldung v
 
 Art. 33 Abs. 5; Art. 5 Abs. 2 DSGVO; Erwägungsgrund 85.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Inhaltsraster
 
 1. Sachverhalt: was ist passiert; wann; in welchem System.
@@ -50,3 +46,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-interne-dokumentation-art-33-abs-5` deckt die Dokumentation auch für gemeldete Faelle ab.
+

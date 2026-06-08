@@ -45,13 +45,6 @@ description: "Red-Team-Skill für Rechtsschein-Argumentation im BGB AT: Vollmach
 - Gutgläubigkeit des Dritten ist Voraussetzung — grob fahrlässige Unkenntnis schadet.
 - Red-Team-Argumente zu früh einbringen kann Mandantenstrategie gefährden.
 
-## Output
-
-- Red-Team-Analyse: Pro- und Contra-Argumente zur Rechtsscheinvollmacht
-- Prüfungsschema: Duldungsvollmacht vs. Anscheinsvollmacht vs. echte Vollmacht
-- Schwachstellen-Report für Mandatsstrategie
-- Gutachtenstil-Abschnitt mit vollständiger Subsumtion
-
 ## Quellen
 
 - [§ 167 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__167.html)
@@ -82,3 +75,4 @@ Setzende den Schein tatsächlich veranlasst oder konnte er ihn hätte erkennen u
 - Zurechenbarkeit des Rechtsscheins an den Betroffenen?
 - Kausalität: Vertrauen des Dritten auf den Rechtsschein ursächlich für das Rechtsgeschäft?
 - Gegenargumente (Red-Team): Warum könnte der Rechtsschutz nicht greifen?
+

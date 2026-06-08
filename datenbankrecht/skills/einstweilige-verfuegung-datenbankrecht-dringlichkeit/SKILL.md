@@ -5,10 +5,6 @@ description: "Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: V
 
 # Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag
 
-## Arbeitsbereich
-
-Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Scraping-Verletzungen und bewertet Gegendarstellung und Schutzschrift. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsansp
 - Bei anonymen oder ausländischen Verletzern Zustellung und Vollzug im Ausland schwierig — Zuständigkeitsprüfung vorab.
 - Widerspruch des Gegners führt zur mündlichen Verhandlung — Hauptsacheklage vorbereiten.
 
-## Output
-
-- Einstweiliger Verfügungsantrag (Muster) für LG-Einreichung
-- Dringlichkeitsprüfungsprotokoll (Kenntnis-Datum, Zeitlinie)
-- Glaubhaftmachungs-Checkliste (Anlagen-Set)
-- Schutzschrift-Gegengründe-Analyse
-- Vollziehungsprotokoll nach Erlass der Verfügung
-
 ## Quellen
 
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
@@ -75,3 +63,4 @@ Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsansp
 - [§ 294 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/294.html)
 - [§ 929 ZPO — dejure.org](https://dejure.org/gesetze/ZPO/929.html)
 - [§ 12 UWG — dejure.org](https://dejure.org/gesetze/UWG/12.html)
+

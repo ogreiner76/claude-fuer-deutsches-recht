@@ -5,10 +5,6 @@ description: "Entwickler oder Anbieter eines Sprachmodells oder Basismodells fra
 
 # GPAI-Modelle — Art. 51 bis 55 KI-VO
 
-## Zweck
-
-Art. 51 bis 55 KI-VO enthalten einen eigenen Pflichtenkatalog für Anbieter von GPAI-Modellen (General-Purpose-KI-Modelle). Diese Pflichten gelten unabhängig davon, ob das GPAI-Modell als Hochrisiko-KI eingesetzt wird. Sie sind seit dem 2. August 2025 anwendbar.
-
 ## Abgrenzung: GPAI-Modell versus GPAI-System
 
 **GPAI-Modell (Art. 3 Nr. 63 KI-VO):** Ein KI-Modell, das mit großer Datenmenge mit selbstüberwachtem Lernen in großem Maßstab trainiert wird und eine Reihe von allgemeinen Aufgaben erfüllen kann, auch wenn es für einen bestimmten spezifischeren Zweck eingesetzt wird.
@@ -92,9 +88,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -121,3 +114,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

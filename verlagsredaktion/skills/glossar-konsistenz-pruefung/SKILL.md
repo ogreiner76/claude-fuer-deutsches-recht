@@ -5,10 +5,6 @@ description: "Prueft Glossar und Begriffskonsistenz quer durch Reihen Loseblattw
 
 # Glossar- und Konsistenz-Pruefung
 
-## Arbeitsbereich
-
-Prueft Glossar und Begriffskonsistenz quer durch Reihen Loseblattwerke und Online-Kommentare: Lemma-Stamm Definitionen Synonyme Querverweise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,14 +92,6 @@ Lemma "Plattformbetreiber"
 - Stichwortverzeichnis unvollstaendig oder unkonsistent.
 - Bei Online-Kommentar keine Versionierung des Glossars.
 
-## Querverweise
-
-- `verl-grammatik-konsistenzcheck` - allgemeine Konsistenz.
-- `verl-fussnoten-quellen-konsolidierung` - Apparat-Konsistenz.
-- `verl-loseblattwerk-spezial` - Loseblattwerk-Pflege.
-- `verl-online-kommentar-update-spezial` - Online-Kommentar.
-- `verl-buchprojekt-bauleiter` - Buchprojekt.
-
 ## Quellen Stand 06/2026
 
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
@@ -112,3 +100,4 @@ Lemma "Plattformbetreiber"
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
 - Plachta, Editionswissenschaft, 4. Aufl. 2020 (für Werkkonsistenz).
 - Larenz / Canaris, Methodenlehre der Rechtswissenschaft, 4. Aufl. 2019 (zu juristischer Begriffsbildung).
+

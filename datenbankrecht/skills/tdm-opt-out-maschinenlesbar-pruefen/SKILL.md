@@ -59,14 +59,6 @@ Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und 
 - Viele KI-Trainingscrawler ignorieren robots.txt technisch oder identifizieren sich nicht korrekt — Opt-out technisch erzwingen.
 - Fehlender Opt-out für einen Datenbankabschnitt kann TDM für diesen Teil erlaubt sein, obwohl der Rest geschützt ist.
 
-## Output
-
-- Maschinenlesbare Opt-out-Implementierungsguide (robots.txt, HTTP-Header, Metadaten)
-- Opt-out-Wirksamkeits-Checkliste (Zeitpunkt, Reichweite, Format)
-- AGB-vs-maschinenlesbarer-Opt-out Abgrenzungsanalyse
-- TDM-Crawler-Identifikationsliste (gängige KI-Trainingscrawler)
-- Technische Sperrstrategie für TDM-Crawler ohne robots.txt-Compliance
-
 ## Quellen
 
 - [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
@@ -75,3 +67,4 @@ Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und 
 - [§ 97 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

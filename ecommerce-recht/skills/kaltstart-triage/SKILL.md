@@ -86,11 +86,6 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `geoblocking-verordnung-eu` | Geoblocking-Verordnung EU |
 | `grenzueberschreitender-verbrauchervertrag-rom-i-bruessel-ia` | Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia |
 
-## Quellenregel
-Vor tragenden Aussagen immer aktuelle Normtexte, amtliche Behördenseiten, EU-Texte oder frei zugängliche Entscheidungen prüfen. Keine BeckRS-/juris-/Kommentarzitate aus Modellwissen. Wenn eine Quelle nicht verifizierbar ist, deutlich sagen und nicht als Beleg verwenden.
-
-<!-- BEGIN ACTUAL-SKILL-ROUTING -->
-
 ## Aktuelle Anschluss-Skills
 
 Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wenn ein Nutzer nach dem Einstieg weitergeleitet werden soll, nimm bevorzugt diese Namen.
@@ -165,3 +160,4 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `widerrufsrecht-verbraucher-355-312g-bgb` | Widerrufsrecht Verbraucher §§ 355 312g BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Inf... |
 
 <!-- END ACTUAL-SKILL-ROUTING -->
+

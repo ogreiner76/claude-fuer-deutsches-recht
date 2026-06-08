@@ -5,9 +5,6 @@ description: "DSV Kein Risiko Kinderdaten Besondere im Datenschutzrecht: prüft 
 
 # DSV Kein Risiko Kinderdaten Besondere
 
-## Arbeitsbereich
-
-**DSV Kein Risiko Kinderdaten Besondere** ordnet den Fall über die tragenden Prüfungslinien: Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die A, Bewertet einen Datenschutzvorfall mit Daten von. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "DSV Kein Risiko Kinderdaten Besondere im Datenschutzrecht: prüft 
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsv-kein-risiko-dokumentation`
@@ -55,10 +53,6 @@ Nicht aus Modellwissen; insbesondere zur Beweislastverteilung bei Nichtmeldung v
 ## Zentrale Normen
 
 Art. 33 Abs. 5; Art. 5 Abs. 2 DSGVO; Erwägungsgrund 85.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Inhaltsraster
 
@@ -109,10 +103,6 @@ Nicht aus Modellwissen; insbesondere zu Bußgeldverschärfungen bei Kinderdaten 
 
 Art. 8; Art. 34 Abs. 2 DSGVO; Erwägungsgrund 38; § 22 BDSG.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Sonderaspekte Kinderdaten
 
 Sprache: doppelte Adressierung — Erziehungsberechtigte und altersgerecht Kind.
@@ -160,10 +150,6 @@ Nicht aus Modellwissen; aktuelle Entscheidungen zu Auskunftsansprüchen Betroffe
 
 Art. 5 Abs. 2; Art. 34 Abs. 2 DSGVO; § 80; § 87 Abs. 1 Nr. 1 BetrVG.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Sprachregelung Holdingstatement
 
 Wir prüfen derzeit einen Vorfall im Bereich [Bezeichnung]. Datenschutz und Sicherheit unserer Kunden haben für uns höchste Priorität. Sobald belastbare Erkenntnisse vorliegen, informieren wir die zuständige Aufsichtsbehörde und die Betroffenen entsprechend den gesetzlichen Anforderungen. Bis dahin bitten wir um Verständnis, dass wir keine Spekulationen kommentieren.
@@ -205,10 +191,6 @@ Nicht aus Modellwissen; insbesondere zu EuGH-Entscheidungen zur Auslegung Art. 5
 ## Zentrale Normen
 
 Art. 4 Nr. 16; Art. 56; Art. 60; Art. 63 DSGVO.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Bestimmungsraster
 
@@ -257,10 +239,6 @@ Nicht aus Modellwissen; insbesondere zu Bußgeldmilderungen bei nachweislicher L
 
 Art. 5 Abs. 2; Art. 24; Art. 32; Art. 33 Abs. 5 DSGVO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Workshop-Ablauf
 
 1. Eröffnung — Ziel; Just Culture; Vertraulichkeit.
@@ -283,3 +261,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - `dsv-vvt-update-nach-vorfall` und `dsv-dsfa-update-nach-vorfall` decken die Compliance-Aktualisierung ab.
 - `dsv-bussgeldverteidigung-art-83` deckt die Verteidigung ab.
+

@@ -5,10 +5,6 @@ description: "Verwaltet einen Ideen-Backlog der Verlagsredaktion mit Priorisieru
 
 # Ideenpool und Priorisierung
 
-## Arbeitsbereich
-
-Verwaltet einen Ideen-Backlog der Verlagsredaktion mit Priorisierungsmatrix, Zustandskategorien und Eskalationsregeln für entscheidungsreife Themen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,17 +91,10 @@ Abgelehnt: Begruendung in Spalte "Notizen"
 - Abgelehnte Ideen ohne Begruendung - werden in 6 Monaten neu vorgeschlagen.
 - Kein Hygiene-Termin - Backlog wuchert auf 300 Eintraege.
 
-## Querverweise
-
-- `verl-themenscout-rechtsentwicklung` - liefert Roh-Ideen.
-- `verl-trend-radar-rechtsgebiete` - liefert Themenfelder.
-- `verl-redaktionssitzung-vorbereiten` - Prioritaeten in die Sitzung.
-- `verl-redaktionsmemo-jahresplanung` - jaehrliche Architektur.
-- `eingangskorb-triage` - eingehende Manuskripte als Ideenursprung.
-
 ## Quellen Stand 06/2026
 
 - Allgemeine Backlog-/Kanban-Methodik: keine spezifische juristische Quelle erforderlich.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024 (für Backlog-Texte).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (für Verweisungsdisziplin im Backlog).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

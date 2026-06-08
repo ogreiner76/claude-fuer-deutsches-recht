@@ -5,10 +5,6 @@ description: "Mobbing und Fürsorgepflicht Bundeswehr: prüft §§ 10 und 12 SG,
 
 # Mobbing und Fürsorgepflicht Bundeswehr
 
-## Arbeitsbereich
-
-Mobbing und Fürsorgepflicht Bundeswehr: prüft §§ 10 und 12 SG, Beschwerdewege, Schadensersatz und WBO. Norm-/Quellenanker: §§ 10 und 12 SG, SoldGG, WBO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,12 +32,6 @@ Opfer haben Ansprüche: WBO-Beschwerde, Schadensersatz (BGBl Amtshaftung), Diszi
 - § 36 SG — Fürsorge des Dienstherrn
 - BGB §§ 823, 826 — Schadensersatz
 - WBO — Beschwerdeverfahren
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -93,21 +83,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Muster-WBO-Beschwerde bei Mobbing
 - Checkliste: Schadensersatzklage — Anforderungen
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — §§ 10, 12, 36 SG
-- https://www.gesetze-im-internet.de/soldgg/ — SoldGG
-- https://www.gesetze-im-internet.de/wbo/ — WBO
-- https://www.bverwg.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -117,3 +92,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

@@ -112,14 +112,6 @@ Frist: [DATUM]
 - Verarbeitungsverzeichnis Art. 30 DSGVO und AVV-Bestand laufen auseinander.
 - Bei M&A: AVV-Bestand des Targets nicht in Due Diligence gewuerdigt.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-mindestinhalte-checkliste/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-us-data-privacy-framework-bezug/SKILL.md`
-- `datenschutzrecht/skills/avv-tom-art-32-dsgvo-anlage/SKILL.md`
-- `datenschutzrecht/skills/avv-pruefung/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 28, Art. 30, Art. 32 DSGVO.
@@ -129,10 +121,3 @@ Frist: [DATUM]
 - EDSA-Empfehlungen 01/2020 (Version 2.0 Juni 2021).
 - Zitierweise: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

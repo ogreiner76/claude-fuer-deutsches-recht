@@ -5,10 +5,6 @@ description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung im Ver
 
 # Verl Qualitaetsgate
 
-## Arbeitsbereich
-
-**Verl Qualitaetsgate** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Verl Qualitaetsgate im Plugin Verlagsrecht Buchpreisbindung im Ver
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `verl-050-qualitaetsgate-verlagsakte`
@@ -245,3 +242,4 @@ Das Qualitätsgate ist in **7 Prüfbereiche** gegliedert, die den wichtigsten Th
 - Risikoprotokoll (offene Punkte mit Prioritäten und Verantwortlichen)
 - Jahres-Audit-Bericht für Verlagsleitung
 - Onboarding-Checkliste für neue Titel (Kurzversion Bereiche A + B + C)
+

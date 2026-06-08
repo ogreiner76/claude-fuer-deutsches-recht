@@ -46,13 +46,6 @@ description: "Klausurfall zu Formvorschriften nach §§ 125 bis 129 BGB und proz
 - Heilung ist nur in gesetzlich vorgesehenen Fällen möglich — nicht allgemein durch Erfüllung.
 - Berufung auf Formmangel kann nach § 242 BGB treuwidrig sein, wenn sie arglistig eingesetzt wird.
 
-## Output
-
-- Formprüfungs-Checkliste: Formvorschrift — Einhaltung — Formmangel — Rechtsfolge
-- Heilungsprüfung: einschlägiger Heilungstatbestand und Voraussetzungen
-- Gutachtenstil-Abschnitt zur Formnichtigkeit
-- Prozessuale Hinweise zur Beweisbarkeit
-
 ## Quellen
 
 - [§ 125 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__125.html)
@@ -83,3 +76,4 @@ Grundstückskaufvertrag) bleibt die notarielle Beurkundung zwingend — elektron
 - Form eingehalten: Schriftform (§ 126 BGB), Textform (§ 126b BGB) oder Beurkundung (§ 128 BGB)?
 - Formmangel: Heilungsmöglichkeit nach § 311b Abs. 1 S. 2 BGB oder Ausführung des Vertrags?
 - Konsequenz des Formmangels: Nichtigkeit nach § 125 BGB?
+

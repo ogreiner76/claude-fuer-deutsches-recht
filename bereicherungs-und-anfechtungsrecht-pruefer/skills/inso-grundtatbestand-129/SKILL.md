@@ -26,13 +26,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-§ 129 InsO ist die Generalklausel der Insolvenzanfechtung. Sie bildet die Voraussetzungen, die jeder besondere Anfechtungstatbestand (§§ 130–135 InsO) zusätzlich erfüllen muss.
-
 ## Tatbestandsmerkmale § 129 Abs. 1 InsO
 
 ### 1. Rechtshandlung
@@ -97,3 +90,4 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+

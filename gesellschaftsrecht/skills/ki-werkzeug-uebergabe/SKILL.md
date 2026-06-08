@@ -5,10 +5,6 @@ description: "KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder 
 
 # KI-Tool-Übergabe (Luminance / Kira)
 
-## Arbeitsbereich
-
-KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer "Luminance", "Kira", "KI-Prüfung", "automatische Extraktion" oder "Massenprüfung" erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die ein einheitliches Klausel-Extraktionsprofil erfordern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,13 +44,6 @@ Vor der Tool-Ubergabe klaeren:
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-In M&A-Mandaten mit Datenräumen von 100+ Verträgen übersteigt manuelle Einzelprüfung das verfügbare Zeitbudget. Dieser Skill strukturiert die Übergabe an ein KI-Prüftool (Luminance, Kira oder vergleichbar), legt das Extraktionsprofil fest, QA-checkt die Ausgabe und steuert die Rückübernahme in den DD-Issue-Extraktion-Ablauf.
 
 ## Eingaben
 
@@ -131,6 +120,7 @@ Das Übergabe-Paket enthält:
 4. **QA-Stichprobenplan** (welche %-QA für diesen Auftrag)
 
 ```markdown
+
 ## Übergabe-Paket – [Deal-Code] – [Datum]
 
 **Tool:** [Luminance / Kira / anderes]
@@ -203,12 +193,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Ausgabeformat
-
-1. **Übergabe-Paket** (Markdown-Tabelle + YAML-Extraktionsprofil)
-2. **QA-Bericht** (Markdown, nach Stichproben-QA)
-3. **Rückgabe-Datensatz** (YAML/XLSX, für dd-findings-extraktion)
 
 ## Output-Template
 
@@ -286,3 +270,4 @@ Empfehlung: [ERGEBNIS DIREKT UEBERNEHMEN / NACHPRUEFUNG ERFORDERLICH FUER ROT-FI
 - **Jurisdiktion nicht erkannt:** Bei internationalen Verträgen (z. B. englisches Recht) falsche Klauselklassifizierung. Rechtsordnung im Profil explizit angeben.
 - **Vertrauen ohne QA:** Kein Tool ist 100 % korrekt. QA-Stichproben sind nicht optional.
 - **Mandantengeheimnis:** Dokumente an Drittanbieter weitergeben erfordert Auftragsverarbeitungsvertrag (AVV) gem. Art. 28 DSGVO und Zustimmung des Mandanten.
+

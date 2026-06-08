@@ -83,24 +83,12 @@ description: "E-Bilanz § 5b EStG elektronische Übermittlung. Anwendungsfall Bi
 - Taxonomie-Updates jaehrlich.
 - DATEV-Updates einspielen.
 
-## Output
-
-- E-Bilanz uebermittelt.
-- ELSTER-Quittung.
-- Steuererklaerung mit E-Bilanz-Bezug.
-
 ## Strategie und Praxis-Tipps
 
 - E-Bilanz ist Standard für alle Bilanzierer.
 - Bei groesseren Mandanten DATEV-E-Bilanz-Modul mit automatischer Taxonomie-Zuordnung.
 - Pflicht-Felder strikt einhalten — Sendung wird sonst abgelehnt.
 - Taxonomie-Updates zum 1. Januar jeden Jahres einspielen.
-
-## Querverweise
-
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-jahresabschluss-handels-vs-steuerbilanz` — Massgeblichkeit.
-- `stb-bwa-kontenrahmen-skr03-skr04` — Kontenrahmen.
 
 ## Quellen und Updates
 
@@ -112,10 +100,3 @@ Stand: 05/2026.
 - AEAO zu § 5b EStG.
 - Verifikations-Hinweis: aktuelle Taxonomie-Version 2026 und Folgejahre ueber www.esteuer.de bzw. BMF-Newsletter pruefen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

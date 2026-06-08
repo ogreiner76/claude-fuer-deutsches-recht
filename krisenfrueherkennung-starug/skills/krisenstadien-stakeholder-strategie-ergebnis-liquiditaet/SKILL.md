@@ -5,10 +5,6 @@ description: "IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore besti
 
 # Krisenstadien-Diagnostik — IDW S 6 Stadienlehre
 
-## Arbeitsbereich
-
-IDW-S-6-Krisenstadien diagnostizieren und Handlungskorridore bestimmen: Berater oder GF will Krisenstadium und passende Massnahmen ermitteln. Normen: IDW S 6 (Sanierungsstandard: Stakeholder-, Strategie-, Produkt-, Ertrags-, Liquiditaetskrise), § 1 StaRUG. Prüfraster: Erkennungsmerkmale je Stadium, Diagnose-Checklisten, Handlungskorridore, Eskalationspflichten. Output Krisenstadium-Diagnose, Massnahmen-Empfehlung je Stadium. Abgrenzung: Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform; Warnpflicht siehe paragraph-102-starug-warnpflicht-bei-rechtsberatern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -185,14 +181,6 @@ Unterschrift GF: ___________________ Datum: ___________
 
 ---
 
-## Querverweise
-
-- → `paragraph-1-starug-pflichten-und-24-monats-horizont` — Früherkennungspflicht nach § 1 StaRUG
-- → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Abgrenzung zur drohenden ZU
-- → `fortbestehensprognose-zweistufig` — Fortführungsprognose in der Ertragskrise
-- → `kennzahlenset-und-ampelsystem-starug-konform` — KPI-basierte Stadienbestimmung
-- → `restrukturierungsplan-architektur-paragraph-7ff-starug` — StaRUG-Werkzeuge ab Liquiditätskrise
-
 ## Weitere Leitentscheidungen — Krisenstadien und Stakeholder
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -203,3 +191,4 @@ Unterschrift GF: ___________________ Datum: ___________
 2. **Fruehzeitige Stakeholder-Einbindung?** Bank, Hauptlieferanten, FA, PSV frueizeitig kontaktieren.
 3. **Vertraulichkeit?** Stakeholder-Informationen ohne NDA riskant (Weitergabe, Bonitaetsschaden).
 4. **Eskalationskette?** GF → Aufsichtsrat → Anwalt → Bank → FA je nach Stadium.
+

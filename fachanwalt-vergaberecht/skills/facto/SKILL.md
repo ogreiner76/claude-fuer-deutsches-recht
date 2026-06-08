@@ -5,9 +5,6 @@ description: "Facto im Plugin Fachanwalt Vergaberecht: prüft konkret De-facto-V
 
 # Facto
 
-## Arbeitsbereich
-
-**Facto** ordnet den Fall über die tragenden Prüfungslinien: De-facto-Vergabe ohne Ausschreibung angreifen, Bieter-Eignungsprüfung im Vergabeverfahren prüfen, Vergabe freiberuflicher Leistungen (Architekten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Facto im Plugin Fachanwalt Vergaberecht: prüft konkret De-facto-V
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-vergaberecht-de-facto-vergabe-klage`
@@ -31,10 +29,6 @@ description: "Facto im Plugin Fachanwalt Vergaberecht: prüft konkret De-facto-V
 **Fokus:** De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt vergeben hat. Normen: § 135 GWB (Unwirksamkeit), §§ 160 ff. GWB (Nachprüfungsantrag VK), § 132 GWB (wesentliche Vertragsaenderung). Prüfraster: Aufdeckung der direkten Vergabe, Schadensersatzanspruch § 181 GWB, Unwirksamkeitsklage, Ausnahme-Tatbestaende. Output Klageschrift-Geruest, Schadensbeschreibung. Abgrenzung: Regulaerer Nachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Unterschwelle siehe mandat-triage-vergaberecht.
 
 ### De-facto-Vergabe-Klage
-
-## Zweck
-
-Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 
 ## 1) De-facto-Vergabe — Begriff
 
@@ -540,9 +534,6 @@ Vergabeverfahren [BEZEICHNUNG]
 
 ### Freiberufliche Leistungen (§ 50 VgV)
 
-## Aufgabe
-Vergabe von Architekten-, Ingenieur-, Rechts-, Wirtschaftspruefer- und sonstigen freiberuflichen Leistungen vergaberechts- und honorarrechtskonform aufsetzen oder pruefen. Schluesselfrage: Welches Verfahren, wie Honorar in der Wertung beruecksichtigen?
-
 ## Einstieg
 1. Leistung freiberuflich i. S. § 18 EStG?
 2. Schwellenwert oberschwellig (Liefer-/Dienstleistung EUR 216000 Kommunen / EUR 140000 Bund ab 01.01.2026)?
@@ -583,14 +574,6 @@ Loesungsorientierte Vergabe ohne klassisches Leistungsverzeichnis; Eignung und K
 - Planungswettbewerb ohne anonyme Phase.
 - Bieterkreis im Verhandlungsverfahren zu eng (Mindestens 3 Bewerber).
 
-## Output
-- Verfahrensentwurf freiberufliche Leistung.
-- Honorar-Wertungsmodul (Formel, Gewichtung, Pruefung niedriger Honorare).
-- RPW-Wettbewerbs-Auslobungs-Geruest.
-
-## Quellenregel
-EuGH C-377/17 und BGH VII ZR 174/19 ueber curia.europa.eu und bundesgerichtshof.de verifizieren; HOAI 2021 i. d. F. der aktuellen Verordnung pruefen.
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -606,9 +589,6 @@ EuGH C-377/17 und BGH VII ZR 174/19 ueber curia.europa.eu und bundesgerichtshof.
 **Fokus:** Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich pruefen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Pruefraster: Kontrolltest wie ueber eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit für Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Pruefvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
 
 ### Inhouse und interkommunale Zusammenarbeit
-
-## Aufgabe
-Inhouse-Geschaeft oder horizontale interkommunale Zusammenarbeit als Ausnahme von der Ausschreibungspflicht pruefen. Fehlt eine Ausnahme, droht De-facto-Vergabe und § 135 GWB-Unwirksamkeit.
 
 ## Einstieg
 1. Wer ist Auftraggeber, wer ist Auftragnehmer (gleicher öffentlicher Auftraggeber, Tochter, Schwester-Kommune)?
@@ -646,11 +626,6 @@ Grundsaetzlich keine private Beteiligung. Ausnahme § 108 Abs. 1 Nr. 3 GWB: best
 - Fehlende Dokumentation -> Beweislast in Nachpruefungsverfahren beim Auftraggeber.
 - Folge: De-facto-Vergabe, § 135 Abs. 1 Nr. 2 GWB -> Vertrag unwirksam.
 
-## Output
-- Inhouse-Pruefvermerk mit Kontrolltest, Wesentlichkeitstest, Privatkapital-Pruefung.
-- Vertragsmodul Inhouse oder horizontale Kooperation.
-- Monitoring-Konzept (Marktanteil, Kontrollstruktur).
-
 ## Quellenregel
 EuGH-Linie (Teckal, Carbotermo, Hamburg-Stadtreinigung, Datenlotsen) und neuere BGH/OLG-Entscheidungen vor Ausgabe ueber curia.europa.eu und dejure.org verifizieren.
 
@@ -663,3 +638,4 @@ EuGH-Linie (Teckal, Carbotermo, Hamburg-Stadtreinigung, Datenlotsen) und neuere 
 - Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+

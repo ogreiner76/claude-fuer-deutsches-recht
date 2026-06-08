@@ -5,10 +5,6 @@ description: "Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulung
 
 # Schulung und Compliance-Policy für Insiderrecht
 
-## Arbeitsbereich
-
-Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise für Emittenten aller Groessen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,20 +93,3 @@ Pflichtinhalt einer Insider-Compliance-Policy:
 9. Meldewege und Ansprechpartner
 10. Revisions- und Aktualisierungsplan
 
-## Red-Team-Fragen
-
-- Werden neue PDMRs und externe Berater zeitnah geschult?
-- Sind Schulungsunterlagen aktuell (letzte MAR-Änderung oder ESMA-Leitlinie eingearbeitet)?
-- Gibt es Wissenstests und werden diese dokumentiert?
-- Deckt die Policy alle aktuellen Pflichten vollständig ab?
-- Werden Schulungsnachweise für BaFin-Anfragen bereitgehalten?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Schulungsprogramm-Übersicht (Curriculum, Formate, Häufigkeit)
-2. Insider-Compliance-Policy (vollständiger Entwurf)
-3. Teilnehmerlisten-Vorlage
-4. Compliance-Matrix-Vorlage (Ampel-System)
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

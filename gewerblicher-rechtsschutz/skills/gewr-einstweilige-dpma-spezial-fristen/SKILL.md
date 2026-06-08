@@ -5,10 +5,6 @@ description: "Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsa
 
 # GewR: Einstweilige Verfügung – Eilverfahren Spezial
 
-## Arbeitsbereich
-
-Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisfür Antragsteller und Antragsgegner. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -148,3 +144,4 @@ Mandatsbezug: Markeninhaber entdeckt Verletzung und will sofort handeln; Patenti
 - `evvollzug-neu-008` – Schutzschrift (Gegenseite)
 - `schutzschrift-eilverfuegung` – Schutzschrift-Entwurf
 - `verletzungs-triage` – Erstentscheidung bei IP-Verletzung
+

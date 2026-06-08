@@ -5,10 +5,6 @@ description: "Mietkaution Rueckforderung: ordnet Normen, Nutzerangaben, Fristen,
 
 # Mietkaution-Rückforderung
 
-## Arbeitsbereich
-
-Mietkaution Rueckforderung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Mietkaution Rueckforderung: ordnet Normen, Nutzerangaben, Fristen, Belege und ve
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges Streitthema. Strukturierte Bearbeitung des Mieter-Anspruchs.
 
 ## Eingaben
 
@@ -245,3 +237,4 @@ Mit freundlichen Grüßen
 **Datum:** 27.05.2026
 
 Bei diesem Skill wurden drei halluzinierte BGH-Aktenzeichen entfernt oder ersetzt:
+

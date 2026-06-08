@@ -142,15 +142,10 @@ Anlage: Einkommensnachweis, Kontoauszug.
 - **Ratenzahlungsantrag spaet**: nach Beginn der Vollstreckung schwieriger durchzusetzen.
 - **Ersatzfreiheitsstrafe** dem Mandanten nicht erklaert: Eskalationsrisiko unterschaetzt.
 
-## Querverweise
-
-- `geldstrafe-tagessatzanzahl-bestimmen` — Anzahl der Tagessaetze.
-- `strafbefehl-strafzumessung-407-stpo` — im Strafbefehl.
-- `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — Ersatzfreiheitsstrafe-Vollstreckung.
-
 ## Quellen und Stand 05/2026
 
 - §§ 40-43 StGB in der geltenden Fassung.
 - § 459d StPO.
 - § 293 EGStGB i.V.m. landesrechtlichen Tilgungsverordnungen.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

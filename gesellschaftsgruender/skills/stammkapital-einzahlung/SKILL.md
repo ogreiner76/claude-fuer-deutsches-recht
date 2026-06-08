@@ -5,10 +5,6 @@ description: "Stammkapitaleinzahlung bei GmbH-Gründung nachweisen: Mindesteinza
 
 # Stammkapital-Einzahlung
 
-## Arbeitsbereich
-
-Stammkapitaleinzahlung bei GmbH-Gründung nachweisen: Mindesteinzahlung, Bankbescheinigung, Sacheinlage. Normen: §§ 7 Abs. 2 und 19 GmbHG. Prüfraster: Mindesteinzahlung 50 Prozent, Bankbescheinigung, Sacheinlageprüfung, verdeckte Sacheinlage. Output: Einzahlungsdokumentation und Bankbescheinigungsvorlage. Abgrenzung: nicht Kapitalerhöhung nach Gründung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Stammkapitaleinzahlung bei GmbH-Gründung nachweisen: Mindesteinzahlung, Bankbes
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Vor der Anmeldung beim Handelsregister muss das Stammkapital eingezahlt sein (Paragraf 7 II 2 GmbHG: bei GmbH mindestens 12.500 EUR Bareinlage; bei UG: Stammkapital **vollständig**). Dieser Skill behandelt die Einzahlung und die haeufigen Stolpersteine.
 
 ## 1) Höhen-Anforderungen
 
@@ -229,9 +221,6 @@ Klaere vor Anmeldung beim HR:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Einzahlungs-Protokoll für Anwaltsakte
 
 **Adressat:** Interne Dokumentation — Tonfall sachlich
@@ -262,3 +251,4 @@ EIDESSTATTLICHE VERSICHERUNG GF: [NAME] am [DATUM]
 
 EINGEREICHT AN NOTAR: Ja / Nein | Datum: [DATUM]
 ```
+

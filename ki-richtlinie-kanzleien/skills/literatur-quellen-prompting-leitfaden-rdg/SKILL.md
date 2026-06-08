@@ -5,10 +5,6 @@ description: "Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtli
 
 # Literatur und Quellen
 
-## Arbeitsbereich
-
-Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise, DAV-Stellungnahmen, EU-Kommissionsmaterial, BNetzA-Hinweise und KI-VO EU 2024/1689. Prüfraster Kernliteratur Berufsrecht Datenschutz KI-VO, Recherche aktueller Entwicklungen, offene Aktualisierungsliste für neue Entscheidungen. Output kommentierte Quellenliste mit Relevanz-Einordnung und Update-Pflicht. Abgrenzung zu Richtlinien-Update-Zyklus und zu Berufsrecht-Bausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,17 +20,6 @@ Eine fundierte KI-Nutzungsrichtlinie stützt sich auf anerkannte Primärquellen 
 ## Rechtlicher Hintergrund
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Vorgehen
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-1. **Primärquellen stets prüfen**: Bei allen Normanwendungen auf den aktuellen Gesetzestext verweisen (gesetze-im-internet.de, EUR-Lex).
-2. **BRAK und DAV regelmäßig konsultieren**: Neue Hinweise, Stellungnahmen und Leitfäden werden auf den jeweiligen Websites veröffentlicht.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-4. **Judikatur beobachten**: Neue BGH- und OLG-Entscheidungen zum Thema KI in der Anwaltschaft zeitnah in die Richtlinie einarbeiten.
-5. **EU-Instanzen verfolgen**: Leitlinien des EU-KI-Büros (https://digital-strategy.ec.europa.eu/de/policies/ai-office) und FAQ der Europäischen Kommission zur KI-Kompetenz.
-6. **Aktualisierungsliste führen**: Neu erscheinende relevante Quellen in einer offenen Liste erfassen, die beim nächsten Halbjahres-Review ausgewertet wird.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -137,3 +122,4 @@ KI-GENERIERTE FUNDSTELLEN (Verifikationsstatus):
 
 Verifiziert von: [NAME], [DATUM]
 ```
+

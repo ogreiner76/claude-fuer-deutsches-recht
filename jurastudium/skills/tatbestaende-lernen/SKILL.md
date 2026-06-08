@@ -5,10 +5,6 @@ description: "Tatbestaende Lernen im Jurastudium im Jurastudium. Liefert prioris
 
 # Tatbestaende Lernen
 
-## Arbeitsbereich
-
-**Tatbestaende Lernen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Tatbestaende Lernen im Jurastudium im Jurastudium. Liefert prioris
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `tatbestaende-lernen`
@@ -44,13 +41,6 @@ description: "Tatbestaende Lernen im Jurastudium im Jurastudium. Liefert prioris
 - §§ 242, 263, 212 StGB — Straf-Kerntatbestaende für Drill-Lernen
 - §§ 40, 42 VwGO — VwR-Grundtatbestaende für Drill-Lernen
 - §§ 133, 157 BGB — Auslegung als Querschnittskompetenz bei jedem Tatbestand
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Die Subsumtion (siehe `subsumtionslehre`) ist nur möglich, wenn die Tatbestandsmerkmale abrufbar sind. Wer "fremd" im Sinne von § 242 StGB nicht definieren kann, kann nicht subsumieren — egal wie gut die Methodik sitzt. Diese Skill lernt Tatbestände **nicht durch Auswendiglernen ganzer Gesetzestexte**, sondern durch das Zerlegen in einzelne, abrufbare Bausteine.
 
 ## Eingaben
 
@@ -119,16 +109,9 @@ Diese Skill arbeitet eng mit `karteikarten`:
 - Pro Streitstand → 1 Karte mit Argumenten und Gegenargumenten.
 - Frequenz: Vor der Klausur 14 Tage täglich, dann SM-2-Algorithmus.
 
-## Querverweise
-
-- `subsumtionslehre` — Tatbestände werden gelernt, **damit** subsumiert werden kann.
-- `karteikarten` — Format für die abrufbaren Bausteine.
-- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-öffentliches-recht` — Tatbestände im jeweiligen Methodenrahmen.
-- `loesungsschemata` — Hilfsgerüst (mit Disclaimer).
-- `pruefungsgespraech-ag` — Definitionen mündlich abfragen.
-
 ## Was diese Skill nicht tut
 
 - Sie liefert keine vorgefertigten Karteikartendecks, die der Studierende nur konsumiert. Lernzweck wäre dann verfehlt. Die Definitionen muss der Studierende formulieren — die Skill korrigiert.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Sie übt keine ganzen Klausuren (siehe `gutachten-uebung`).
+

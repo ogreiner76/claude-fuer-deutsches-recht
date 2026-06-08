@@ -29,10 +29,6 @@ Nicht aus Modellwissen; insbesondere zur Aufbewahrungsdauer und Vorlagepflicht v
 
 Art. 5 Abs. 2; Art. 24; Art. 30; Art. 33 Abs. 5 DSGVO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Pflichtfelder Vorfallregister
 
 Vorfall-ID; Datum Kenntnisnahme; Datum Eintritt; Kategorie (V/I/V); Sachverhalt; betroffene Verarbeitung VVT-ID; Datenarten; Anzahl Betroffener; Folgen; ergriffene Maßnahmen; Bewertung Art. 33; Bewertung Art. 34; Meldedatum; Aktenzeichen Aufsichtsbehörde; verantwortlicher Bearbeiter; Status; Aufbewahrung bis.
@@ -47,3 +43,4 @@ Versionierung: jede Änderung mit Datum und Bearbeiter; alte Versionen revisions
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-vvt-update-nach-vorfall` deckt die Aktualisierung des VVT ab.
+

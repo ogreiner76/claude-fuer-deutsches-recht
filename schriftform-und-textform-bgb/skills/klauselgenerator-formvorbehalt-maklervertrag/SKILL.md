@@ -5,10 +5,6 @@ description: "Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt: ordnet Nor
 
 # Klauselgenerator — Formvorbehalt und Änderungsvorbehalt
 
-## Arbeitsbereich
-
-Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -154,9 +150,3 @@ benennen.
 - **Schriftformklausel selbst in AGB**: Eine Schriftformklausel ist selbst AGB-pflichtig (§ 307 BGB). Sie darf nicht so formuliert sein, dass Verbraucher benachteiligt werden.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Querverweise
-
-- → `form-checker-für-vertrag-oder-willenserklaerung`
-- → `gewerberaummiete-paragraph-550-bgb-langzeitform`
-- → `elektronische-form-paragraph-126a-bgb-qes`
-- → `verteidigungsstrategie-bei-formangriff` (§ 242 BGB vs. Schriftformklausel)

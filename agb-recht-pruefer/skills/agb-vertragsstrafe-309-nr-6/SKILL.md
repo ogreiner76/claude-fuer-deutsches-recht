@@ -41,7 +41,3 @@ description: "AGB-Vertragsstrafe nach § 309 Nr. 6 BGB. Skill vertieft die AGB-r
 4. Verzugsfall erfasst?
 5. Transparenz?
 
-## Output
-
-- Klauselentwurf "moderne Vertragsstrafe".
-- Schriftsatzbaustein.

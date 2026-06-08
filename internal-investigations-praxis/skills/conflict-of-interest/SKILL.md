@@ -5,10 +5,6 @@ description: "Untersucht Interessenkonflikte von Mitarbeitern und Organmitgliede
 
 # Interessenkonflikte – Untersuchung und Prävention
 
-## Arbeitsbereich
-
-Untersucht Interessenkonflikte von Mitarbeitern und Organmitgliedern – Offenlegungspflichten, § 93 AktG, § 34 HGB, Insider-Geschäfte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -71,15 +67,6 @@ Dieser Skill identifiziert und untersucht Interessenkonflikte, leitet Remediatio
 - Due Diligence für Lieferanten: Verbindungen zu Mitarbeitern prüfen.
 - Rotation: Entscheidungsträger in kritischen Beschaffungspositionen regelmäßig rotieren.
 
-## Red-Team-Fragen
-
-- Wurden alle Entscheidungen, die der verdächtige Mitarbeiter in seinem Interessenbereich getroffen hat, systematisch auf Nachteiligkeit überprüft?
-- Gibt es familiäre oder freundschaftliche Verbindungen zwischen Entscheidungsträgern und Lieferanten, die im Handelsregister oder in sozialen Netzwerken recherchierbar sind?
-- Hat das Organmitglied im Aufsichtsrat abgestimmt, obwohl ein Interessenkonflikt vorlag?
-- Deckt die D&O-Versicherung diesen Fall, oder gibt es Ausschlüsse für Interessenkonflikt-Szenarien?
-- Ist das Code-of-Conduct-Offenlegungsregime so klar formuliert, dass Mitarbeiter wissen, was offenzulegen ist?
-- Sind Schadensersatzansprüche gegen den Täter verjährungsmäßig gesichert?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -99,3 +86,4 @@ Dieser Skill identifiziert und untersucht Interessenkonflikte, leitet Remediatio
 - **Schadensersatz-Berechnungsvorlage**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

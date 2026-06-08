@@ -5,9 +5,6 @@ description: "Datenschutz Dokumentenfreigabe VVT Digitale im Plugin Weg Hausverw
 
 # Datenschutz Dokumentenfreigabe VVT Digitale
 
-## Arbeitsbereich
-
-**Datenschutz Dokumentenfreigabe VVT Digitale** ordnet den Fall über die tragenden Prüfungslinien: Prüft Datenschutz und Dokumentenfreigaben in der, VVT nach Art, TOM nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Datenschutz Dokumentenfreigabe VVT Digitale im Plugin Weg Hausverw
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `datenschutz-dokumentenfreigabe`
@@ -93,13 +91,6 @@ Transparenz in der GdWE ermöglichen, ohne personenbezogene Daten unnötig breit
 - Information der Betroffenen, wenn hohes Risiko.
 - Vorgang dokumentieren (Datum, Vorfall, Maßnahmen, Beteiligte).
 
-## Output
-
-- Freigabeentscheidung (mit Risikoeinstufung)
-- Schwärzungsliste
-- Eigentümerantwort (Begründung Ablehnung / Umfang Einsicht)
-- Datenschutz-Eskalationsnotiz
-
 ## Cross-Refs
 
 - Vermögensbericht / Belegeinsicht → `wirtschaftsplan-jahresabrechnung-28-weg`
@@ -109,14 +100,6 @@ Transparenz in der GdWE ermöglichen, ohne personenbezogene Daten unnötig breit
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 18 Abs. 4 WEG: https://www.gesetze-im-internet.de/woeigg/__18.html ; § 28 Abs. 4 WEG: https://www.gesetze-im-internet.de/woeigg/__28.html ; DSGVO siehe Datenschutzrecht-Plugin.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `datenschutz-vvt-tom-avv-hausverwaltung`
 
@@ -175,13 +158,6 @@ Norm Art. 32 DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A
 ## Haftung nach Art. 82 DSGVO
 
 EuGH, Urteil vom 14.12.2023, C-340/21 (Bulgarische NRA-Hack): Schon die unbefugte Offenlegung oder der unbefugte Zugang begründet Haftung, ohne dass materieller Schaden bewiesen werden muss; immaterieller Schaden (Kontrollverlust über Daten) genügt. Für Hausverwaltungen bedeutet dies: Gestohlener Laptop ohne Verschlüsselung = Schadenersatzpflicht gegenüber betroffenen Eigentümern. Urteil: https://curia.europa.eu/juris/document/document.jsf?docid=280325&doclang=DE
-
-## Output
-
-- VVT-Muster als tabellarisches Gerüst (Excel-Spalten: Tätigkeit, Daten, Zweck, Rechtsgrundlage, Löschfrist, Verantwortlicher, Auftragsverarbeiter)
-- AVV-Vorlagen-Checkliste (Mindestinhalte Art. 28 Abs. 3 lit. a-h)
-- TOM-Audit-Checkliste (20 Prüfpunkte mit Ja/Nein/Teilweise)
-- Bestandsaufnahme-Bogen für neues Mandat (Datenschutz-Erstprüfung)
 
 ## Cross-Refs
 
@@ -245,14 +221,6 @@ Hybrid (Präsenz + Online-Zuschaltung): Keine Sonder-Beschlussgrundlage erforder
 
 Videoaufzeichnung der Versammlung nur mit ausdrücklicher Einwilligung aller Teilnehmer (DSGVO Art. 6 Abs. 1 lit. a). Fehlt eine Einwilligung, ist Aufzeichnung rechtswidrig. Tonprotokoll als Arbeitsgrundlage für Schriftführer ist weniger problematisch, sofern es danach gelöscht wird. Aufzeichnungsabsicht in der Einladung ankündigen.
 
-## Output
-
-- Technik-Briefing-Vorlage für Versammlungsleiter (Ablauf, Mikro-Regeln, Abstimmungskanal)
-- Live-Untertitel-Aktivierungsanleitung Zoom und Teams (Schritt-für-Schritt)
-- Eröffnungs-Skript mit Barrierefreiheitshinweis (ca. 90 Sekunden gesprochen)
-- Vollmachts-Muster für digitale Versammlungen (Textform-konform)
-- Protokoll-Anhang Barrierefreiheit (was technisch eingesetzt wurde, Beschluss-Basis)
-
 ## Cross-Refs
 
 - BFSG für Portale und Websites → `bfsg-hausverwalter-website-portal-2025`
@@ -264,3 +232,4 @@ Videoaufzeichnung der Versammlung nur mit ausdrücklicher Einwilligung aller Tei
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 23 und § 24 WEG über https://www.gesetze-im-internet.de/woeigg/__23.html live verifizieren. BGH V ZR 33/24 über https://dejure.org abrufen. Zoom- und Teams-Funktionen ändern sich mit Software-Updates — vor jeder Versammlung testen.
+

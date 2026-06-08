@@ -79,12 +79,6 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 - Bei Wechsel: Mandant ueber Periode der Umstellung informieren; Auswirkungen auf BWA-Vorjahresvergleich erklaeren.
 - Bei Erst-Einrichtung: kurze schriftliche Begruendung der Wahl in Mandantenakte.
 
-## Output
-
-- Empfehlung SKR 03 oder SKR 04 mit kurzer Begruendung (1-2 Absaetze).
-- Konfigurierter Kontenrahmen in DATEV/Addison/Sage.
-- Konsistenz-Pruefung BWA-Form passend zum Kontenrahmen.
-
 ## Strategie und Praxis-Tipps
 
 - Mandanten mit Wachstumsabsicht und kapitalmarkt-naher Ausrichtung tendieren zu SKR 04; mittelstaendische Industriebetriebe bleiben oft bei SKR 03.
@@ -92,14 +86,6 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 - DATEV-BBE-Branchenvergleich liefert die besten Daten für SKR 03 mit Standardkonten; bei SKR 04 ist die Datenbasis duenner.
 - Honorar für Kontenrahmen-Wechsel separat im Zusatzauftrag aufnehmen (StBVV §§ 33, 35), nicht in der laufenden Buchhaltung.
 - Bei Holding-Strukturen mit verschiedenen Tochtergesellschaften: gleicher Kontenrahmen in allen Einheiten erleichtert Konsolidierung.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — Standard-BWA-Struktur.
-- `stb-jahresabschluss-elektronische-uebermittlung-ebilanz` — E-Bilanz-Taxonomie.
-- `stb-susa-erstellen-grundlagen` — SuSa-Struktur abhaengig vom Kontenrahmen.
-- `stb-datev-bwa-modul-bedienen-tipps` — DATEV-spezifische Konfiguration.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -113,10 +99,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 bestaetigt (E-Bilanz Taxonomie 6.9 für WJ 2026 bestaetigt, esteuer.de-Quelle angegeben) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

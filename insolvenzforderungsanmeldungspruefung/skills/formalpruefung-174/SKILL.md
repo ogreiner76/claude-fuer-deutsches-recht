@@ -25,12 +25,6 @@ Formalprüfung Forderungsanmeldung nach § 174 InsO: Anwendungsfall Insolvenzver
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Prüft, ob eine Forderungsanmeldung formal tabellenfähig ist oder gezielte Ergänzung braucht.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
-
 ## Startet bei
 
 - Anmeldung soll in die Tabelle
@@ -82,6 +76,3 @@ Bevor losgelegt wird, klaere:
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Vorsatzklausel § 174 Abs. 2 InsO?** Bei deliktischer Forderung mit Vorsatz ausdrücklich Tatbestand benennen (Folge: Ausschluss von der Restschuldbefreiung nach § 302 Nr. 1 InsO). Sonderfall Wirecard-Konstellation (BGH IX ZR 127/24): kapitalmarktrechtliche Schadensersatzforderungen geschädigter Aktionäre sind keine einfachen Insolvenzforderungen iSd § 38 InsO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -5,10 +5,6 @@ description: "Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode
 
 # Internes Rechtsgutachten: Gutachten-Gerüst
 
-## Arbeitsbereich
-
-Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind mit RECHERCHE ERFORDERLICH markiert, die Subsumtion mit STUDENTISCHE ANALYSE, das Ergebnis ist bewusst offen gelassen. Lädt, wenn ein Studierender ein internes Rechtsgutachten strukturieren, eine Fallanalyse aufschreiben oder ein Kurz-Gutachten für einen Fall erstellen muss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz —
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Das interne Rechtsgutachten ist das Herzstück studentischen Arbeitens in der Beratungsstelle. Diese Skill liefert das Gerüst nach der deutschen Gutachtenmethode (Obersatz — Norm/Definition — Subsumtion — Ergebnis) und kennzeichnet die Recherchelücken. Die Analyse selbst kommt vom Studierenden.
-
-**Die Analyse ist Aufgabe des Studierenden.** Diese Skill strukturiert; sie schlussfolgert nicht.
-
-Hinweis: Die Gutachtenmethode entspricht dem deutschen juristischen Standard. Kurzgutachten (direkter Einstieg mit Ergebnis, dann Begründung) sind für interne Berichte möglich; für die Ausbildung innerhalb der Beratungsstelle wird die volle Gutachtenform bevorzugt.
 
 ## Eingaben
 
@@ -47,6 +35,7 @@ Hinweis: Die Gutachtenmethode entspricht dem deutschen juristischen Standard. Ku
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1: Rechtsfragen formulieren
@@ -108,22 +97,6 @@ Separater Abschnitt nach den Prüfungsblöcken:
 - Sachverhaltlich: [Was wissen wir nicht über den Mandanten/die Mandantin?]
 - Rechtlich: [Was erfordert Recherche?]
 - Strategisch: [Ermessensentscheidungen für Studierenden/Supervisor]
-
-## Ausgabeformat
-
-```markdown
-═══════════════════════════════════════════════════════════════════════
- KI-GESTÜTZTES GERÜST — DIE ANALYSE IST VON IHNEN ZU VERFASSEN
- Jeder [RECHERCHE ERFORDERLICH]- und [STUDENTISCHE ANALYSE]-Block ist
- eine Aufgabe, kein Platzhalter zum Löschen. Der Bildungswert liegt
- im Ausfüllen dieser Blöcke.
-═══════════════════════════════════════════════════════════════════════
-
-### Internes Rechtsgutachten: [Mandant] — [Rechtsfrage]
-
-**Datum:** [Datum] | **Verfasser/-in:** [Studierender] | **Für:** [Supervisor]
-
----
 
 ## Kurzergebnis
 
@@ -211,3 +184,4 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Befund: KORRIGIERT. Skill hatte falschen Thementext: "Verbraucherrecht: Widerruf nach § 355 BGB". Echtes Thema: Eigenbedarfskündigung; Suizidgefahr des Mieters als Haertegrund (§ 574 BGB); Fortsetzung des Mietverhaeltnisses auf unbestimmte Zeit. Fundstelle korrigiert: NZM 2023 35 Rn. 24 (statt NJW 2023 142 Rn. 20). Quelle: dejure.org/2022,33020.
 -->
+

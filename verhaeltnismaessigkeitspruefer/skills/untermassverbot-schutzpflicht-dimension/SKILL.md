@@ -43,10 +43,6 @@ description: "Untermassverbot als Spiegelbild des Uebermassverbots. Grundrechte 
 
 Siehe `angemessenheit-abwaegung` fuer den klassischen Uebermass-Spiegel. Untermassverbot und Uebermassverbot bilden zusammen den vollstaendigen Pruefungsrahmen.
 
-## Output
-
-Tabelle: Schutzgut – Bedrohungslage – Schutzkonzept – Vollstaendigkeit – Restzweifel.
-
 ## Quellen mit Schlagwort
 
 - BVerfGE 7, 198 (Lueth-Urteil, objektive Wertordnung)
@@ -57,3 +53,4 @@ Tabelle: Schutzgut – Bedrohungslage – Schutzkonzept – Vollstaendigkeit –
 - BVerfGE 77, 170 (C-Waffen-Lagerung, Sicherheitsabstand)
 - BVerfGE 88, 203 (Schwangerschaftsabbruch II, Konkretisierung Schutzpflicht)
 - BVerfGE 157, 30 (Klimaschutz-Beschluss, intertemporale Schutzpflicht)
+

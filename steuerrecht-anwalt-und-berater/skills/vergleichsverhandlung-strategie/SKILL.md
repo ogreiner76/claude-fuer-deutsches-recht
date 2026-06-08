@@ -20,9 +20,6 @@ description: "Prüfungslinie für vergleichsverhandlung strategie im Steuerrecht
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Arbeitsgang greift
 
 - Sachverhalte aus dem Bereich Steuerrecht (Beratung und Prozess), in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
@@ -172,3 +169,4 @@ Klassische Stolperfalle in Steuerrecht (Beratung und Prozess):
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) für die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+

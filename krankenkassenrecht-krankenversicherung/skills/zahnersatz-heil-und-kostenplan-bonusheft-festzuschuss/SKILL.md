@@ -5,10 +5,6 @@ description: "Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversor
 
 # Zahnersatz: Heil- und Kostenplan, Bonusheft, Festzuschuss
 
-## Arbeitsbereich
-
-Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversorgung, Festzuschuss, Bonusheft-Regelungen und Mehrkosten bei Privatleistungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Dieser Skill klärt **Zahnersatzversorgung** in der GKV: Welche Leistung schulde
 - [GKV-Spitzenverband Zahnersatz](https://www.gkv-spitzenverband.de)
 - [BSG Zahnersatzrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 55 SGB V](https://dejure.org/gesetze/SGB_V/55.html)
+

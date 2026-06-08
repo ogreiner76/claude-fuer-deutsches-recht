@@ -5,10 +5,6 @@ description: "Red-Team-Analyse: Gegenseiten-Perspektive für BGB-BT-Mandate einn
 
 # Workflow: Red Team Gegenseite
 
-## Zweck
-
-Gegenseiten-Perspektive im BGB Besonderer Teil systematisch einnehmen: Argumente der Gegenseite antizipieren, eigene Position auf Schwachstellen prüfen und Verhandlungs- oder Prozesstaktik anpassen.
-
 ## Normanker
 
 - §§ 254 und 242 BGB: Mitverschulden und Treu und Glauben als typische Gegenargumente
@@ -43,25 +39,13 @@ Gegenseiten-Perspektive im BGB Besonderer Teil systematisch einnehmen: Argumente
 - Gegenansprüche und Aufrechnung übersehen; können eigene Forderung neutralisieren.
 - Prozesskostenrisiko nicht einbezogen; Mandant sollte realistisches Bild haben.
 - Schwache Beweise nicht als solche erkannt; falsche Siegesgewissheit.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Gegenseiten-Argument-Katalog
-- Schwachstellen-Liste in eigener Position
-- Prozesskostenrisiko-Abschätzung
-- Vergleichskorridor-Empfehlung
-
-## Qualitätsregeln
-
-- Red-Team-Analyse immer vor Klageerhebung oder Verhandlungsbeginn durchführen.
-- Eigene Schwachstellen offen benennen; kein selektives Denken.
-- Mandant über Prozesskostenrisiko und Vergleichsoptionen aufklären.
 
 ## Anschluss-Skills
 
@@ -75,10 +59,4 @@ Gegenseiten-Perspektive im BGB Besonderer Teil systematisch einnehmen: Argumente
 - https://www.gesetze-im-internet.de/bgb/__254.html
 - https://www.gesetze-im-internet.de/bgb/__242.html
 - https://www.gesetze-im-internet.de/bgb/__195.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

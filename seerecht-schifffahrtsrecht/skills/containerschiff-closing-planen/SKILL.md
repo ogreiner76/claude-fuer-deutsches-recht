@@ -5,10 +5,6 @@ description: "Containerschiff: Closing eines Containerlinienfrachtschiff-Kaufs o
 
 # Containerschiff – Closing planen
 
-## Arbeitsbereich
-
-Containerschiff: Closing eines Containerlinienfrachtschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Der Kauf eines Containerlinienfrachtschiff soll abgeschlossen werden; Hypotheken
 - Zahlung ohne simultane Loeschung: Hypothek bleibt trotz Zahlung eingetragen.
 - ISM-/MLC-Luecke nach Eigentumsuebergang; Port-State-Detention droht.
 - Nachranghypotheken blockieren Closing wenn Erstrangglaeubigerbank nicht kooperiert.
-
-## Output
-Closing-Checkliste und Zeitplan mit Abhängigkeiten für Containerlinienfrachtschiff.
 
 ## Vertiefung: Closing-Mechanismus im Schiffskauf
 Das Closing eines Schiffskaufs ist der Moment wo Eigentum und Risiko auf den Käufer übergehen. Technisch besteht das Closing aus: (1) Zahlung des Kaufpreises (oder freigabe aus Escrow); (2) Übergabe der Delivery Documents; (3) Eintragung des Eigentumsübergangs im Schiffsregister (SchRG § 2). Alle drei Schritte sollen simultan erfolgen; in der Praxis nutzt man Softclose-Mechanismen.
@@ -100,3 +93,4 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 - FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
+

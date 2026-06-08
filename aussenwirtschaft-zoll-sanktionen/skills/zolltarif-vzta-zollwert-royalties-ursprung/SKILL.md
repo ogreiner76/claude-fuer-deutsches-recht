@@ -5,10 +5,6 @@ description: "Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZ
 
 # Zolltarifrecht und vZTA: Systematik APS und Zolloptimierung
 
-## Arbeitsbereich
-
-Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Systematik der Kombinierten Nomenklatur EU-Zolltarif TARIC Allgemeine Praeferenzsystem (APS/GSP) und Zollaussetzungen. Verfahren zur Erlangung von Zollbeguenstigungen und deren Kumulierung. Output: Zolltarif-Optimierungsanalyse und vZTA-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Sys
 - Kumulierung von Praeferenzursprungsregeln zwischen Partnerlaendern komplex; Fehler kosten Praeferenz.
 - TARIC aktualisiert sich taeglich; Abfrage vor jeder Anmeldung empfohlen.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Zolltarif-Optimierungsanalyse mit Praeferenzvergleich, Zollaussetzungs-Kalender und vZTA-Antragsberatung.
-
 ## Quellen
 
 - [TARIC-Datenbank EU-Kommission](https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp)
 - [VO (EU) 978/2012 (GSP) auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R0978)
 - [UZK Art. 33 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
 - [Zoll.de Zolltarif](https://www.zoll.de/DE/Fachthemen/Zoelle/Zolltarif/zolltarif_node.html)
+

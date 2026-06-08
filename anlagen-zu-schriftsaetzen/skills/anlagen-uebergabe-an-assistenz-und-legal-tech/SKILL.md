@@ -18,12 +18,7 @@ Arbeitsfokus: **Übergabe an Assistenz und Legal Tech**. Prüfe diese Anker am S
 - `§ 299 Abs. 1 ZPO` — Akteneinsicht.
 - `§ 371 Abs. 1 ZPO` — Augenschein.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill verwandelt anwaltliche Logik in ausführbare Arbeitsschritte. Er ist für den Moment, in dem die Anwältin die Entscheidung trifft und das Team das Paket bauen muss.
 
 ## Mindestinput
 
@@ -76,3 +71,4 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 - Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
 - Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
 - Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
+

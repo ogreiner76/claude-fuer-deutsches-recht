@@ -5,10 +5,6 @@ description: "Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in:
 
 # Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme
 
-## Arbeitsbereich
-
-Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verboten und erstellt Vertragsklauseln für Datenmitnahme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG e
 - Backup von Datenbankstrukturen ohne Genehmigung kann Herstellerrecht verletzen, wenn keine vertragliche Erlaubnis oder § 87c-Schranke eingreift.
 - Löschpflicht nach Export — der alte Anbieter hat kein Recht, eine Kopie der Kundendaten nach Herausgabe zu behalten.
 
-## Output
-
-- AGB-Prüfbogen für Export-Verbote und Exportgebühren (§ 307 BGB)
-- Data Act Art. 17 Wechselrecht-Checkliste für Unternehmenskunden
-- Exit-Klausel-Vorlage (Export, Format, Gebühr, Löschung)
-- DSGVO-Portabilitäts-Anspruchsformulierung für Verbraucher
-- Vendor-Lock-in-Risikoanalyse für Datenbankverträge
-
 ## Quellen
 
 - [§ 87c UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
@@ -75,3 +63,4 @@ Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG e
 - [DSGVO Art. 20 — dejure.org](https://dejure.org/gesetze/DSGVO/20.html)
 - [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
+

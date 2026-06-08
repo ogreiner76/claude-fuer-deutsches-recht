@@ -48,19 +48,13 @@ Organisationsverschulden und Verkehrssicherungspflichten im Deliktsrecht prüfen
 - Exkulpation nach § 831 Abs. 1 Satz 2 BGB setzt sorgfältige Auswahl, Anleitung und Überwachung voraus.
 - Organisationspflichten können sich aus öffentlich-rechtlichen Vorschriften ergeben (z.B. Arbeitssicherheitsrecht).
 - Beweislast für Exkulpation liegt beim Geschäftsherrn.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Haftungsstruktur-Diagramm (Organ/Verrichtungsgehilfe/Unternehmen)
-- Exkulpations-Checkliste nach § 831 Abs. 1 Satz 2 BGB
-- Organisationsdefizit-Analyse
-- Risikoampel und Handlungsempfehlungen
 
 ## Qualitätsregeln
 
@@ -80,10 +74,4 @@ Organisationsverschulden und Verkehrssicherungspflichten im Deliktsrecht prüfen
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/bgb/__831.html
 - https://www.gesetze-im-internet.de/bgb/__280.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

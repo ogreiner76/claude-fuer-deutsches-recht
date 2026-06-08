@@ -123,12 +123,6 @@ Mahnstand: [keine / 1. / 2. Mahnung]
 - Bei jedem Monatsabschluss: Pruefprotokoll mit Status.
 - Bei wesentlichen Maengeln: Mandantengespraech.
 
-## Output
-
-- Pruefprotokoll Belegabgabe.
-- Mahnung bei Verspaetung.
-- Mandantenakte aktualisiert.
-
 ## Strategie und Praxis-Tipps
 
 - Pruefliste konsequent durchgehen — fehlende Belege sind haeufige Ursache von Buchungsfehlern.
@@ -136,13 +130,6 @@ Mahnstand: [keine / 1. / 2. Mahnung]
 - DATEV-DUO ist Effizienz-Hebel — Mandanten konsequent zur Nutzung ermutigen.
 - StBVV: in Pauschal; Eilbearbeitung Sonderhonorar.
 - DATEV-Tipp: DATEV DUO Belegfluss-Statistik nutzen.
-
-## Querverweise
-
-- `stb-bwa-monatsabschluss-routine` — Monatsabschluss.
-- `stb-online-portal-datev-mandantenshop` — DUO.
-- `stb-belegtransfer-datev-unternehmen-online` — Belegtransfer.
-- `stb-mandantenanfrage-reaktion-frist-laufend` — Mandantenanfragen.
 
 ## Quellen und Updates
 
@@ -153,10 +140,3 @@ Stand: 05/2026.
 - StBVV § 4.
 - BMF v. 28.11.2019 zu GoBD.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

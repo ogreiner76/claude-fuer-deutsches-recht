@@ -5,10 +5,6 @@ description: "Konkursrechtliche Stellung des magister bonorum und des curator bo
 
 # Rom 119 Konkursrechtliche Stellung Des Magister Bonorum
 
-## Arbeitsbereich
-
-Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhaeltnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill b
 - Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für die Stellung des magister bonorum und curator bonorum als historische Insolvenzverwalter.
 
 ## Magister bonorum
 
@@ -54,7 +46,3 @@ Skill für die Stellung des magister bonorum und curator bonorum als historische
 3. Welche Aktionen stehen zur Verfuegung?
 4. Quellenmatrix.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.

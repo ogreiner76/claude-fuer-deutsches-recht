@@ -5,10 +5,6 @@ description: "Gerichtsschreiben zur JVEG-Kostenkuerzung rechtlich prüfen und wi
 
 # JVEG-Gerichtsschreiben-Pruefung
 
-## Arbeitsbereich
-
-Gerichtsschreiben zur JVEG-Kostenkuerzung rechtlich prüfen und widersprechen. Normen: §§ 2 4 JVEG, GKG. Prüfraster: Kuerzungsbegründung, fehlerhafte Berechnung, Widerspruchsmöglichkeit. Output: Widerspruchsschreiben gegen JVEG-Kuerzung. Abgrenzung: nicht formelle Beschwerde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Gerichtsschreiben zur JVEG-Kostenkuerzung rechtlich prüfen und widersprechen. N
 ## Fachkern: JVEG-Gerichtsschreiben-Pruefung
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Analysiere Schreiben des Kostenbeamten oder des Gerichts zu JVEG-Vergütungsansprüchen und identifiziere Tatbestandsfehler, Ermessensfehler und unrechtmäßige Beleganforderungen.
 
 ## Triage — kläre vor der Prüfung
 
@@ -52,18 +45,8 @@ Jede Aussage des Gerichtsschreibens wird als prüfbare Hypothese behandelt:
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Eingang eines Schreibens des Kostenbeamten oder Gerichts zu JVEG-Positionen.
-
-## Arbeitsweise
-1. Schreiben in einzelne Aussagen zerlegen.
-2. Jede Aussage auf Normkonformität und Tatsachenbasis prüfen.
-3. Fehler kategorisieren (Tatbestand / Ermessen / Rechtsfolge).
-4. Antwortbedarf und Frist festhalten.
-5. Gegendarstellung vorbereiten.
 
 ## Output-Template
 
@@ -81,3 +64,4 @@ Strukturierte Schreibenanalyse mit Fehlertypen, Normverweisen und Handlungsempfe
 ## Leitplanken
 - Jede Aussage einzeln prüfen; keine Pauschalzustimmung.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

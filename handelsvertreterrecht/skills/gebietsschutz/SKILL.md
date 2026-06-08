@@ -5,10 +5,6 @@ description: "Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umf
 
 # Gebietsschutz im Handelsvertretervertrag nach § 87 Abs. 2 HGB und Kartellrecht
 
-## Arbeitsbereich
-
-Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umfang und Wirksamkeit von Alleinvertretungsklauseln, Provisionsansprüche bei Direktabschlüssen im Schutzgebiet, Kartellrechtskonformität von Gebietsexklusivität und Schadensersatz bei Verletzung des Gebietsschutzes durch den Unternehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Schadensersatz bei Verletzung nicht geltend gemacht — nur Provision eingeklagt.
 - Key-Account-Ausnahme nicht schriftlich vereinbart — Unternehmer kann sie nicht einwandfrei rechtfertigen.
 
-## Output
-
-Gebietsschutzprüfvermerk, Schadensersatzberechnung, Unterlassungsklage-Entwurf.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 1 GWB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gwb/__1.html)
 - [Vertikal-GVO 2022/720 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R0720)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

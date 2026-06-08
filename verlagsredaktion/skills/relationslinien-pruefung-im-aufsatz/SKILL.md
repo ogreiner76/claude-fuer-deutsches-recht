@@ -5,10 +5,6 @@ description: "Prueft die logischen Relationslinien eines juristischen Aufsatzes:
 
 # Relationslinien-Pruefung im Aufsatz
 
-## Arbeitsbereich
-
-Prueft die logischen Relationslinien eines juristischen Aufsatzes: traegt das Argumentationsgeruest die Hauptthese ohne Sprunglinien und ohne Zirkel?. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,14 +89,6 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 - Sprunglinien zwischen Auslegungsmethoden unbegruendet.
 - Schluss faellt nicht auf die Eingangsthese zurueck.
 
-## Querverweise
-
-- `lektorat-struktur-redaktion` - allgemeine Strukturarbeit.
-- `verl-aussagensicherheit-pruefung` - inhaltliche Pruefung.
-- `verl-zitierweise-pruefung-zeitschrift-jus-njw` - Belege.
-- `verl-fussnoten-quellen-konsolidierung` - Apparat.
-- `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-
 ## Quellen Stand 06/2026
 
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022 (zur Argumentationsstruktur).
@@ -108,3 +96,4 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 - Larenz / Canaris, Methodenlehre der Rechtswissenschaft, 4. Aufl. 2019 (Auslegungsmethoden).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
+

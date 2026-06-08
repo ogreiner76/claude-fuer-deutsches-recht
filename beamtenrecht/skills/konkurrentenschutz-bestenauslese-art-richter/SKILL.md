@@ -5,10 +5,6 @@ description: "Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG 
 
 # Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG
 
-## Arbeitsbereich
-
-Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im öffentlichen Dienst. Liefert Bausteine für Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungsmaszstab und gerichtliche Kontrolldichte. Beruecksichtigt Stand der BVerfG- und BVerwG-Rechtsprechung zum bewerbungsverfahrensrechtlichen Anspruch. Hilft bei der Pruefung Anforderungsprofil dienstliche Beurteilung Auswahlvermerk Auswahlgespraech. Im Zweifel Verweis auf das spezifische Schwester-Skill konkurrentenklage-einstweiliger-rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Anwendung typischerweise vor und neben den Skills `konkurrentenklage-einstweilig
 ## 7. Beispiel (Kurzfassung)
 
 Mandant ist Polizeihauptkommissar Besoldungsgruppe A11. Dienstposten A12 wird ausgeschrieben. Ranking ergibt 17 Bewerber. Mandant Rang 3 mit Gesamtnote "uebertrifft die Anforderungen". Rang 1 hat dieselbe Gesamtnote. Aufgabe: Pruefe Anforderungsprofil, Binnendifferenzierung, Auswahlvermerk; bereite Antrag auf einstweiligen Rechtsschutz nach § 123 VwGO vor.
+

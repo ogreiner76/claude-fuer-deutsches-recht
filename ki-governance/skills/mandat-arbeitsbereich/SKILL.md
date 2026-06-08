@@ -5,10 +5,6 @@ description: "Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schlie
 
 # /mandat-arbeitsbereich
 
-## Arbeitsbereich
-
-Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt "neues Mandat", "Mandat wechseln", "Mandate auflisten", "Mandat schließen" oder wenn ein inhaltlicher Skill wissen muss, in welchem Mandat er arbeitet. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -273,3 +269,4 @@ Kernfakten: [KURZBEZEICHNUNG 1-3 SAETZE]
 Naechste Frist: [DATUM — ART DER FRIST]
 Aktiver Skill: [SKILL-NAME]
 ```
+

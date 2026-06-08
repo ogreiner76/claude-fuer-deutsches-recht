@@ -15,14 +15,6 @@ description: "Mandantenaufnahme in der Rechtsberatungsstelle strukturieren: Anwe
 
 ### Mandantenintake
 
-## Zweck
-
-Intake ist einer der größten Engpässe in Beratungsstellen. Eine Studierende könnte 45 Minuten im Gespräch verbringen, eine weitere Stunde mit dem Protokoll, noch mehr Zeit mit der Problemerkennung. In dieser Zeit wächst die Warteliste.
-
-Dieser Skill strukturiert das Gespräch, erstellt das Protokoll, erkennt fachübergreifende Fragen und prüft Interessenkonflikte – damit die Zeit der Studierenden der juristischen Analyse gilt, nicht dem Abtippen.
-
-**Was dieser Skill nicht tut:** entscheiden, ob das Mandat angenommen wird. Das ist Sache der Analyse der Studierenden und der Entscheidung des Anleiters.
-
 ## RDG-Besonderheiten beim Intake
 
 - § 6 Abs. 2 Nr. 2 RDG: Das Intake-Gespräch ist eine Rechtsdienstleistung – es darf nur unentgeltlich und unter Anleitungsstruktur stattfinden.
@@ -103,14 +95,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | **Weitervermittlung** | Außerhalb RDG-Erlaubnis; Interessenkonflikt; zu komplex für Beratungsstelle | Verweis auf RAK-Vermittlung, Pro Bono Berlin/Bremen, VB-Zentrale |
 | **Schuldnerberatung** | Überschuldung als Hauptthema | An anerkannte Schuldnerberatungsstelle (§ 305 Abs. 1 Nr. 1 InsO) verweisen |
 
-## Ausgabeformat
-
-Strukturiertes Fallprotokoll:
-
-```
-[KI-GESTÜTZTER ENTWURF – Analyse durch Studierenden und Freigabe durch
-anleitenden Volljuristen erforderlich. Kein Versand ohne Prüfung.]
-
 ## Fallprotokoll [Datum]
 
 **Mandantenkennung:** [anonymisiert – z. B. M-2024-17]
@@ -147,3 +131,4 @@ anleitenden Volljuristen erforderlich. Kein Versand ohne Prüfung.]
 - **Sprachbarriere nicht dokumentiert:** Wenn der Mandant die Erläuterungen nicht verstanden hat, ist die Aufklärungspflicht nicht erfüllt.
 - **Falsche Rechtsbereichszuordnung:** Asylmandat schlägt fast immer auf SGB II durch (§ 7 Abs. 1 Satz 2 SGB II: Leistungsausschluss für bestimmte Ausländer – prüfen!).
 - **Entgeltlichkeit:** Kein Entgelt entgegennehmen – auch kein "freiwilliges Geschenk". Verletzt § 6 Abs. 2 Nr. 2 RDG (Unentgeltlichkeitspflicht) und ist bußgeldbewehrt (§ 20 RDG).
+

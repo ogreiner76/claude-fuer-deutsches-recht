@@ -5,10 +5,6 @@ description: "Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zw
 
 # Gemeinsame Verantwortlichkeit Art. 26 DSGVO
 
-## Zweck
-
-Bei vielen Konstellationen sind mehrere Akteure gemeinsam für eine Verarbeitung verantwortlich — das wird oft übersehen. Folge ist eine Pflicht-Vereinbarung und gesamtschuldnerische Haftung. Dieses Skill prüft Konstellationen und entwirft Vereinbarungen.
-
 ## Eingaben
 
 - Verarbeitungs-Konstellation (mehrere Akteure?)
@@ -436,3 +432,4 @@ Gesamtschuldnerisch; interner Regressausgleich nach Verschuldensanteilen.
 Das Wesentliche dieser Vereinbarung wird Betroffenen gemäß Art. 26 Abs. 2 DSGVO
 über [DATENSCHUTZERKLAERUNG / DIREKTINFORMATION] zugänglich gemacht.
 ```
+

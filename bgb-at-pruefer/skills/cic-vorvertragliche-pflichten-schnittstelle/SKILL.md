@@ -46,13 +46,6 @@ description: "Klausurfall zu culpa in contrahendo nach §§ 280 Abs. 1 und 311 A
 - § 311 Abs. 3 BGB erfordert besondere Vertrauensinanspruchnahme eines Dritten.
 - Abbruch von Vertragsverhandlungen ist grundsätzlich erlaubt — nur treuwidriger Abbruch begründet cic.
 
-## Output
-
-- Gutachtenstil-Abschnitt zu cic nach §§ 280 und 311 BGB
-- Anspruchskonkurrenz-Schema: cic neben § 123 BGB und kaufrechtlicher Gewährleistung
-- Schadensberechnung: negatives Interesse mit Rechenweg
-- Klausurlösungsskizze mit Schwerpunkt cic
-
 ## Quellen
 
 - [§ 311 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__311.html)
@@ -82,3 +75,4 @@ Vertragsanbahnung, entsteht ein Schadensersatzanspruch nach § 280 Abs. 1 BGB.
 - Verschulden des Schädigers nach § 276 BGB (Fahrlässigkeit ausreichend)?
 - Schaden: negatives oder positives Interesse — was verlangt der Geschädigte?
 - Abgrenzung zur Anfechtung nach § 123 BGB: Beide Wege möglich?
+

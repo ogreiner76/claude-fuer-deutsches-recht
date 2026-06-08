@@ -5,10 +5,6 @@ description: "DPMA-Gebrauchsmusteranmeldung vorbereiten: Antrag, Beschreibung, S
 
 # Dpma Anmeldung Formalien
 
-## Arbeitsbereich
-
-DPMA-Gebrauchsmusteranmeldung vorbereiten: Antrag, Beschreibung, Schutzansprüche, Zeichnungen, Gebühren, DPMAdirekt und Registereintragung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ DPMA-Gebrauchsmusteranmeldung vorbereiten: Antrag, Beschreibung, Schutzansprüch
 ## Wann dieser Skill hilft
 
 Ein Gebrauchsmuster soll angemeldet werden.
-
-## Arbeitsweise
-
-Prüfe formale Vollständigkeit und weise klar aus, was nicht materiell geprüft wird.
 
 ## Prüfpunkte
 
@@ -60,13 +52,10 @@ Prüfe formale Vollständigkeit und weise klar aus, was nicht materiell geprüft
 2. Gebührenzahlung fristgerecht?
 3. Ggf. Inanspruchnahme der Prioritaet (innere oder aussere)?
 
-## Output
-
-Filing-Sheet und Unterlagencheck.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

@@ -5,10 +5,6 @@ description: "Letzter Sanity-Check vor Klage, Klageerwiderung, Replik, Termin, V
 
 # Sanity-Check Selbstvertretung Amtsgericht
 
-## Zweck
-
-Dieser Skill ist die letzte Kontrolle, bevor ein Bürger ohne Anwalt etwas beim Amtsgericht einreicht oder im Termin verwendet. Er soll verhindern, dass gute Fälle an Form, Frist, Beweis oder unklarem Antrag scheitern.
-
 ## Wann aktivieren?
 
 - Vor Klageeinreichung.
@@ -80,34 +76,3 @@ Jede gelbe oder rote Ampel bekommt einen Reparaturschritt:
 - "Fristende mit `fristen-berechnen-187-188-bgb` prüfen";
 - "Vor Einreichung `zulassungsgrenzen-check-amtsgericht` ausführen".
 
-## Ausgabeformat
-
-**Sanity-Check**
-| Feld | Ampel | Befund | Reparatur |
-|---|---|---|---|
-| Frist | Rot/Gelb/Grün | | |
-
-**Nicht abschicken, bevor**
-1. [kritischer Punkt]
-
-**Kann so raus, wenn**
-1. [Bedingung]
-
-**Passende nächste Skills**
-| Skill | Zweck |
-|---|---|
-| `zulassungsgrenzen-check-amtsgericht` | Zuständigkeit, Wertgrenze, Rechtsmittel |
-
-## Qualitätsregeln
-
-- Keine Schriftsatzfreigabe behaupten. Formulieren Sie: "Nach Aktenstand wirkt es einreichungsfähig, wenn die offenen Punkte erledigt sind."
-- Fristen immer mit Datum, Ausgangspunkt und Unsicherheit nennen.
-- Bei Gerichts- oder Rechtsmittelpost nie nur "sieht gut aus" sagen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

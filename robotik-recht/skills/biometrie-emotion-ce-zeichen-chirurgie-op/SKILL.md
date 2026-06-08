@@ -5,10 +5,6 @@ description: "Prüft Biometrie, Emotionserkennung, Personenerkennung, Beschäfti
 
 # Biometrie, Emotion und Personenerkennung in der Robotik
 
-## Arbeitsbereich
-
-Prüft Biometrie, Emotionserkennung, Personenerkennung, Beschäftigtenkontext und Transparenzpflichten bei Robotern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,12 +87,6 @@ Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit 
 - **Cloud-Übermittlung** ohne TIA.
 - **Beschwerde ignoriert** – Bußgeldrisiko Art. 99 Abs. 3 KI-VO (bis 35 Mio. EUR oder 7 %).
 
-## Querverweise
-
-- `beschaeftigtendatenschutz-cobot`
-- `datensatzqualitaet-und-bias-hri`
-- `datenschutz-kameras-und-sensorik`
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2024/1689 (KI-VO), Art. 5 Abs. 1 lit. b, c, e, f, h; Anhang III; Art. 50; Art. 99.
@@ -104,3 +94,4 @@ Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit 
 - BDSG §§ 22, 26.
 - EuGH, Urteil vom 1. August 2022, Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija, ECLI:EU:C:2022:601.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

@@ -93,14 +93,6 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 - Unterschiedliche Betroffenheit nicht thematisiert
 - Foerdermassnahmen nicht erwogen, obwohl moeglich
 
-## Querverweise
-
-- `nkr-nachhaltigkeit-klimacheck-und-vereinbarkeit`
-- `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-evaluation-und-jahresbericht`
-- `legistik-werkstatt/folgenabschaetzung-nachhaltigkeit`
-
 ## Quellen Stand 06/2026
 
 - § 1 BGleiG
@@ -111,3 +103,4 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.bmfsfj.de](https://www.bmfsfj.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

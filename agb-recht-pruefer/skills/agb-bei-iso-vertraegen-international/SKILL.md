@@ -47,10 +47,6 @@ description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-re
 3. § 307 BGB im B2B-Kontext?
 4. Rom-I Eingriffsnorm?
 
-## Output
-
-- Memo zur internationalen Vertragsanpassung.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -79,3 +75,4 @@ description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-re
 - AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
 - Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+

@@ -5,10 +5,6 @@ description: "Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbesch
 
 # Influencer-Recht: Brand Deal – Leistungsbeschreibung, Abnahme und Nutzungsrechte
 
-## Arbeitsbereich
-
-Influencer-Recht: Brand-Deal-Vertragsgestaltung – Leistungsbeschreibung, Abnahme, Nutzungsrechte und Vergütungsstruktur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,3 +76,4 @@ Ein Brand Deal ist ein Werkvertrag (§ 631 BGB) oder gemischter Vertrag; entsche
 - Nutzungsrechte-Tabelle (erlaubt / nicht erlaubt)
 - Abnahme-Protokoll-Vorlage
 - Gegenentwurf zu typischen Brand-AGB
+

@@ -53,10 +53,6 @@ description: "Leitet durch die methodisch saubere Anwendung von Rechtsvergleichu
 - Rechtsvergleich wird zur Verstärkung einer bereits feststehenden Meinung eingesetzt, ohne den Vergleich ernsthaft zu betreiben.
 - Die prozessuale Einführung nach § 293 ZPO (ausländisches Recht als Tatsache) wird bei internationalem Sachverhalt übersehen.
 
-## Output
-
-Das Skill liefert eine Rechtsvergleichs-Analyse: Vergleichszweckbestimmung, Systemkompatibilitätsprüfung, kontextuelle Übersetzung des ausländischen Konzepts, Grenzenanalyse und Formulierungsvorschlag für den rechtsvergleichenden Argumentationsabschnitt in Schriftsatz oder Gutachten.
-
 ## Vertiefung: Funktionaler Vergleich als Methodik
 
 Die methodisch belastbarste Form des Rechtsvergleichs ist der funktionale Vergleich: Er fragt nicht, welche Norm im anderen Rechtssystem existiert, sondern welche Funktion ein Rechtsinstitut erfüllt und ob diese Funktion im deutschen Recht durch vergleichbare Institutionen erfüllt wird. Diese Methode überwindet den Fehler des bloßen "Normtransplants" und ergibt übertragbarere Einsichten.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 133 BGB bei dejure](https://dejure.org/gesetze/BGB/133.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

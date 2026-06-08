@@ -5,10 +5,6 @@ description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat
 
 # Datenqualität und Qualitätskontrolle im M&A-Mandat
 
-## Arbeitsbereich
-
-Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prüft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Prüfraster: Belegkette vollständig, Lueckenanalyse, Human-in-the-loop-Gate. Output Qualitaetsprotokoll mit Freigabe-Vermerk. Abgrenzung: sachliche DD-Prüfung siehe due-diligence-legal; hier nur Prozess- und Datenqualitaet. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,9 +41,6 @@ Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfmatrix Datenqualitätskontrolle
 
 | Dimension | Prüffrage | Ampel | Massnahme bei Rot |
@@ -147,3 +140,4 @@ OFFENE PUNKTE (TODO)
 - `corporate-kanzlei-board-paper-business-judgment` — Board Paper setzt Qualitätsprotokoll voraus
 - `corporate-kanzlei-due-diligence-reporting` — DD-Report nur mit verifizierten Quellen
 - `corporate-kanzlei-disclosure-schedules` — Disclosure nur mit vollständiger Belegkette
+

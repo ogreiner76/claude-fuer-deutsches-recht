@@ -5,10 +5,6 @@ description: "Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout im
 
 # Cloud Saas Einfuehrung Slack
 
-## Arbeitsbereich
-
-Prüft Slack, Teams oder andere Collaboration-Tools vor Rollout. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Slack-Rollout-Freigabevermerk. Wenn der Nutzer nur eine Kurza
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

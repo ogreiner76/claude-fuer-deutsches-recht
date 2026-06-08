@@ -5,10 +5,6 @@ description: "Energieinfrastrukturprojekte rechtlich begleiten: Leitungsgenehmig
 
 # Infrastrukturprojekte und Planfeststellung
 
-## Arbeitsbereich
-
-Energieinfrastrukturprojekte rechtlich begleiten: Leitungsgenehmigungen, Planfeststellung, Enteignung. Normen: §§ 43 ff. EnWG, NABEG, BImSchG, BauGB. Prüfraster: Genehmigungsverfahren, Einwendungen, Planfeststellungsbeschluss, Enteignungsrecht. Output: Genehmigungsverfahrens-Roadmap Energieinfrastruktur. Abgrenzung: nicht Netz- oder Speicherzulassung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Energieinfrastrukturprojekte rechtlich begleiten: Leitungsgenehmigungen, Planfes
 - Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Behandelt Großprojekte Energieinfrastruktur: Stromtrassen, Erdgas-Pipelines, LNG-Terminals, H2-Stammnetz, Offshore-Wind. Komplexe Verfahren mit langer Dauer und vielen Beteiligten.
 
 ## Eingaben
 
@@ -257,9 +249,6 @@ Behandelt Großprojekte Energieinfrastruktur: Stromtrassen, Erdgas-Pipelines, LN
 
 §§ 1 ff. NABEG (Bundesfachplanung) — §§ 1 ff. BBPlG (Bundesbedarfsplan) — §§ 1 ff. EnLAG (Energieleitungsausbau) — §§ 72 ff. VwVfG (Planfeststellung) — §§ 3a, 3b UVPG (UVP-Pflicht) — § 2 UmwRG (Verbandsklagebefugnis)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-netz-speicher-zugang`
@@ -284,3 +273,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - BNetzA-Genehmigungs-Beschlüsse
 - BSH-Beschlüsse Offshore
 - RED III delegierter Akt
+

@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Board-Memo zu einem internationalen 
 
 # Board-Memo: Internationaler Handelsstreit
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Board-Memo zu einem internationalen Handelsstreit oder Vertragsrisiko. Führungskräfte-taugliche Kurzdarstellung, Entscheidungsoptionen, Kostenrisikoabwägung, Settlement-Empfehlung und rechtliche Unsicherheiten transparent gemacht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Das Board-Memo fasst einen internationalen Handelsstreit oder ein Vertragsrisiko
 - Settlement-Threshold: wenn Settlement-Betrag < P×V abzüglich Kosten → ablehnen
 - Zeitplan: Schiedsverfahren dauert 2-3 Jahre; Ressourcen für diese Zeit einplanen
 
-## Output
-
-- Board-Memo-Template (2 Seiten, international)
-- P×V-Entscheidungsmatrix
-- Litigation-Budget-Schätzungsrahmen (ICC-Schiedskosten 2024)
-
-## Quellenregel
-
-ICC Schiedskosten: iccwbo.org/dispute-resolution/arbitration/costs. NY Convention: newyorkconvention.org. BGB § 779: gesetze-im-internet.de. Schrifttum: Redfern/Hunter, Law and Practice of International Commercial Arbitration (2015). Unsicherheit bleibt sichtbar.

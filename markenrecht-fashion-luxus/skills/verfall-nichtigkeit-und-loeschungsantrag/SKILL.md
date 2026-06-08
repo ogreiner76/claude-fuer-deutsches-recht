@@ -5,10 +5,6 @@ description: "Verfall, Nichtigkeit und Löschungsanträge gegen Marken strukturi
 
 # Verfall, Nichtigkeit und Löschung
 
-## Arbeitsbereich
-
-Verfall, Nichtigkeit und Löschungsanträge gegen Marken strukturieren: Nichtbenutzung, absolute Schutzhindernisse, ältere Rechte, Bösgläubigkeit, DPMA/EUIPO-Verfahren, Fristen, Belege und Vergleichsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Verfall, Nichtigkeit und Löschungsanträge gegen Marken strukturieren: Nichtben
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Entscheide, ob eine Marke angegriffen werden kann oder gegen einen Angriff verteidigt werden muss.
 
 ## Intake
 
@@ -41,12 +33,7 @@ Entscheide, ob eine Marke angegriffen werden kann oder gegen einen Angriff verte
 4. **Teilumfang prüfen:** Nicht jede Ware fällt zugleich; Teillöschung kann strategisch reichen.
 5. **Taktik:** Angriff vor Abmahnung, Gegenangriff nach Abmahnung, Vergleich mit Einschränkung, Koexistenz oder Rebranding.
 
-## Output
-
-- Angriffs- und Verteidigungsmatrix.
-- Entwurf Löschungsantrag oder Verteidigungserwiderung.
-- Belegliste und Fristenplan.
-
 ## Qualitätsgate
 
 Registerstand und Amtsgebühren live prüfen. Rechtsprechung nur verifiziert zitieren.
+

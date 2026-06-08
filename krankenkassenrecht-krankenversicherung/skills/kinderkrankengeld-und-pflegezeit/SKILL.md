@@ -5,10 +5,6 @@ description: "Kinderkrankengeld nach § 45 SGB V: Anspruch, Dauer, Erweiterung d
 
 # Kinderkrankengeld und Pflegezeit
 
-## Arbeitsbereich
-
-Kinderkrankengeld nach § 45 SGB V: Anspruch, Dauer, Erweiterung durch Corona-Regelungen; Pflege und Betreuung erkrankter Kinder im Leistungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Dieser Skill klärt den **Anspruch auf Kinderkrankengeld** bei Betreuung erkrank
 - [BSG B 1 KR 19/18 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [GKV-Spitzenverband Kinderkrankengeld](https://www.gkv-spitzenverband.de)
 - [dejure.org § 45 SGB V](https://dejure.org/gesetze/SGB_V/45.html)
+

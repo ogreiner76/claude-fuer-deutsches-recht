@@ -5,9 +5,6 @@ description: "Fristen- und Risikoampel im Einfache und leichte Sprache im Recht:
 
 # Fristen- und Risikoampel
 
-## Aufgabe
-Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin einfache-leichte-sprache-jura: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
-
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
@@ -34,7 +31,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Volljuristischer Inhalt vs. Verständlichkeit: Original-Wortlaut als Zitat plus Übersetzung; Bedeutungstreue vor sprachlicher Eleganz.
 - Mandantengeheimnis bleibt: keine Vereinfachung auf Kosten der Schweigepflicht (§ 43a Abs. 2 BRAO).
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -43,14 +39,4 @@ Konkret zu prüfen:
 - BGG (Behindertengleichstellungsgesetz) § 11
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

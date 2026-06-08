@@ -5,10 +5,6 @@ description: "Anwalt schreibt Mandantenmemo für Leasinggeber oder Leasingnehmer
 
 # Flugzeugleasing – Mandantenmemo schreiben
 
-## Arbeitsbereich
-
-Anwalt schreibt Mandantenmemo für Leasinggeber oder Leasingnehmer zu komplexem Flugzeugleasing-Fall: IDERA-Entregistrierung Insolvenz Cape-Town-Remedies oder Wet-Lease-Genehmigung. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ Cape Town Convention InsO EU-VO 1008/2008 LuftFzgG – die einschlägigen Normen
 - **Cape Town Aircraft Protocol Art. XII**: Prioritäten konkurrierender Sicherungsrechte im internationalen Register.
 - **LuftFzgG § 3**: Entstehung des Pfandrechts; Eintragungszeitpunkt als Prioritätsregel.
 - **InsO § 47**: Aussonderungsrecht des Leasinggebers; Priorität gegenüber Insolvenzgläubigern.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -56,6 +53,7 @@ Cape Town Convention InsO EU-VO 1008/2008 LuftFzgG – die einschlägigen Normen
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist eine IDERA (Irrevocable Deregistration and Export Request Authorisation) im Cape-Town-Register eingetragen?
 8. Hat Leasinggeber wirksam nach InsO § 47 Aussonderung geltend gemacht?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -75,9 +73,6 @@ Ein mandantentaugliches Luftrechtsmemo hat folgende Struktur:
 - **Zeitplan**: Wichtigste Fristen; geplante Schritte; nächste Entscheidungspunkte.
 - **Anlagen**: Relevante Normauszüge; Registerauszüge; Behördenschreiben.
 
-## Output
-
-Vollständiger Mandanten-Memo-Baustein (1-3 Seiten). Executive Summary. Nächste-Schritte-Tabelle. Cape-Town-Registrierungs-Checkliste. Aussonderungsvermerk bei Insolvenz.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -105,3 +100,4 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

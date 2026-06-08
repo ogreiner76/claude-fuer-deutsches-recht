@@ -27,10 +27,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Anwendungsfall: ein Grundsteuerfall neu hereinkommt. Ziel ist ein kurzer, sauberer Einstieg: Welcher Bescheid liegt vor, welche Frist läuft, welches Modell gilt, welche Datenbasis ist angreifbar und welche Folgeskills werden gebraucht.
-
 ## Erste Ausgabe
 
 Beginne mit einer kompakten Mandatskarte:
@@ -73,16 +69,7 @@ Niemals nur gegen den späteren Gemeindebescheid argumentieren, wenn der Fehler 
 | Einspruch, AdV, Klage | `anw-grundsteuer-einspruch-adv-bfh` |
 | Hebesatz / Zahlungsplan / Kommune | `anw-grundsteuer-hebesatz-zahlungsplan` |
 
-## Output
-
-Erstelle am Ende:
-
-- Fristen- und Bescheidketten-Check.
-- Fehlerliste mit Zuständigkeit Finanzamt/Gemeinde.
-- Beleganforderung an Mandant oder Hausverwaltung.
-- Vorschlag: Einspruch, schlichter Änderungsantrag, AdV, Gemeindeantrag oder kein Rechtsbehelf.
-- Quellenblock mit geöffnetem Gesetzestext und verifizierter Rechtsprechung.
-
 ## Quellen-Gate
 
 Vor rechtlicher Bewertung `rechtsstand-mai-2026-faktenbank` laden. Grundsteuerrechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle nennen. Keine BeckRS-, juris-, Kommentar- oder Aufsatzzitate.
+

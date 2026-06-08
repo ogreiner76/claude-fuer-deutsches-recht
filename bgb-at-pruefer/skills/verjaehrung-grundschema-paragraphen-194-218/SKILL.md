@@ -45,13 +45,6 @@ description: "Klausurfall zum Verjährungsrecht nach §§ 194 bis 218 BGB: regel
 - Hemmung verlängert, Neubeginn lässt die Frist komplett neu laufen — Unterschied ist klausurrelevant.
 - § 214 BGB gibt nur eine Einrede — Verjährung muss gerügt werden, sie wirkt nicht von Amts wegen.
 
-## Output
-
-- Gutachtenstil-Abschnitt zum Verjährungsgrundschema
-- Berechnungsschema: Entstehung → Kenntnis → Jahresende → Fristablauf → Hemmung → Neubeginn
-- Prüfampel: Anspruch noch durchsetzbar / Einrede möglich / Verjährung eingetreten
-- Klausurlösungsskizze mit konkreten Datumsberechnungen
-
 ## Quellen
 
 - [§ 195 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
@@ -82,3 +75,4 @@ verweigern, auch wenn er noch Eigentum haben würde.
 - Hemmung: §§ 203 bis 213 BGB — welche Tatbestände greifen wie lange?
 - Neubeginn: § 212 BGB — Anerkenntnis oder Vollstreckungshandlung?
 - Einrede nach § 214 BGB: Erhoben und gerichtlich berücksichtigt?
+

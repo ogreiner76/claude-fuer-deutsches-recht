@@ -5,10 +5,6 @@ description: "Verknüpft IT-Security mit Geschäftsgeheimnisschutz im Nis2 Cyber
 
 # Geheimnisschutz Geschg
 
-## Arbeitsbereich
-
-Verknüpft IT-Security mit Geschäftsgeheimnisschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Geschäftsgeheimnis-Control-Map. Wenn der Nutzer nur eine Kur
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

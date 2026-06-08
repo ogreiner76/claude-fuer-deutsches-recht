@@ -5,10 +5,6 @@ description: "KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35
 
 # /ki-folgenabschätzung – KI-Folgenabschätzung
 
-## Arbeitsbereich
-
-KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt "Folgenabschätzung für", "diesen KI-Anwendungsfall bewerten", "FRIA erstellen", "KI-Folgenabschätzung generieren", "wir müssen dieses KI-System dokumentieren", "KI-Risikoprüfung für X" oder nach einem bedingten Triage-Ergebnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,25 +12,6 @@ KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstel
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die KI-Folgenabschätzung ist eine dokumentierte Entscheidung, kein Formular. Sie beantwortet:
-Was tut dieses KI-System, wie gelangt es zu seinen Ergebnissen, wen betrifft es bei Fehlern,
-welche Aufsicht besteht, und ist der Einsatz vertretbar?
-
-Dieses Skill kombiniert zwei rechtlich eigenständige Instrumente:
-- **FRIA (Fundamental Rights Impact Assessment)** nach Art. 27 KI-VO – für Betreiber
- hochriskanter KI-Systeme, insbesondere öffentliche Stellen sowie private Stellen, die
- öffentlich finanzierte Dienste erbringen oder Kreditwürdigkeitsbewertungen bzw.
- Lebens-/Krankenversicherungs-Risikobewertungen vornehmen.
-- **DSFA (Datenschutz-Folgenabschätzung)** nach Art. 35 DSGVO – bei KI-Systemen, die
- personenbezogene Daten verarbeiten und ein hohes Risiko für die Rechte und Freiheiten
- natürlicher Personen begründen können.
-
-Eine DSFA ist **keine** FRIA, und eine FRIA ist **keine** DSFA. Sie überschneiden sich häufig
-und müssen parallel durchgeführt werden. Dieses Skill deckt beide ab und kennzeichnet explizit,
-welche Abschnitte welchem Instrument zugehören.
 
 ## Eingaben
 
@@ -366,19 +343,6 @@ Artikel gegen EUR-Lex oder Gesetze im Internet prüfen: Pinpoint, Aktualität, D
 zuerst geprüft werden.
 ```
 
-## Ausgabeformat
-
-Das Ausgabedokument folgt der Seed-Struktur aus CLAUDE.md (Schritte 4 und 7). Das Dokument enthält:
-
-1. **Arbeitsergebnis-Kopfzeile** (gemäß Plugin-Konfiguration, privilegiert und vertraulich)
-2. **Zusammenfassung** — zwei Sätze: Was tut diese KI, ist der Einsatz vertretbar?
-3. **Gesamtrisiko-Bewertung** — 🟢 Niedrig / 🟡 Mittel / 🟠 Hoch / 🔴 Sehr hoch
-4. **Abschnitte 1–9** (Systembeschreibung, Betroffene, Daten, Aufsicht, Genauigkeit, Klassifizierung, Richtlinien, Risiken, Empfehlung)
-5. **Bedingungsliste** mit benannten Eigentümern und Fristen
-6. **Weiterleitungs-Flags**: DSFA-Pflicht? Vendor-Review erforderlich?
-
-Bei vereinfachtem Track: Abschnitte 1–3 und Abschnitt 9 sind Pflicht; Abschnitte 4–8 können zusammengefasst werden.
-
 ## Beispiel
 
 **Anfrage:** "Wir wollen einen Chatbot für die Erstberatung von Mandanten einsetzen — was müssen wir prüfen?"
@@ -463,3 +427,4 @@ Weiterleitungs-Flags:
 
 Freigabe: [NAME], [DATUM]
 ```
+

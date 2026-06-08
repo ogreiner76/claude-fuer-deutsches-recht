@@ -5,10 +5,6 @@ description: "Jobticket Deutschlandticket steuerliche Behandlung. Anwendungsfall
 
 # Jobticket und Deutschlandticket — Steuerliche Behandlung
 
-## Arbeitsbereich
-
-Jobticket Deutschlandticket steuerliche Behandlung. Anwendungsfall AG erstattet AN Mobilitaetsticket OePNV oder bietet Jobticket steuerfrei nach § 3 Nr 15 EStG Auswirkung auf Entfernungspauschale. Methodik Prüfung Konfiguration. Output Lohn-Abrechnung mit Jobticket. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -100,12 +96,6 @@ Der AG kann AN ein Jobticket für OePNV steuerfrei zur Verfuegung stellen, wenn 
 - AG-Erstattungsbeleg.
 - Vertrag mit Verkehrsverbund.
 
-## Output
-
-- Lohn-Abrechnung mit Jobticket steuerfrei.
-- LSt-Bescheinigung Zeile 17.
-- Beleg im Lohnordner.
-
 ## Strategie und Praxis-Tipps
 
 - Deutschlandticket ist guenstig für AG — minimale Buchung, hohe AN-Bindung.
@@ -114,13 +104,6 @@ Der AG kann AN ein Jobticket für OePNV steuerfrei zur Verfuegung stellen, wenn 
 - Bei vollstaendiger AG-Erstattung: AN profitiert ueber Werbungskosten-Differenz.
 - StBVV: in Lohnpauschale; Konfiguration einmalig.
 - DATEV-Tipp: DATEV LODAS Jobticket-Konfiguration mit eigenem Lohnart.
-
-## Querverweise
-
-- `stb-lohn-sachbezuege-50-euro-freigrenze` — Sachbezug.
-- `stb-lohn-dienstwagen-1-prozent-fahrtenbuch` — Dienstwagen.
-- `stb-lohn-firmenrad-leasing-jobrad` — JobRad.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
 
 ## Quellen und Updates
 
@@ -133,10 +116,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 2 bestaetigt (Deutschlandticket 58 EUR ab 01.01.2025), 2 ersetzt (Pruefhinweise ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

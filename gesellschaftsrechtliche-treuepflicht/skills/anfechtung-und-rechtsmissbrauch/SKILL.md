@@ -5,10 +5,6 @@ description: "Gesellschaftsrechtliche Treuepflicht: Anfechtung Und Rechtsmissbra
 
 # Anfechtung Und Rechtsmissbrauch
 
-## Arbeitsbereich
-
-Gesellschaftsrechtliche Treuepflicht: Anfechtung Und Rechtsmissbrauch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,10 +24,6 @@ Gesellschaftsrechtliche Treuepflicht: Anfechtung Und Rechtsmissbrauch; konkretis
 ## Fachkern: Anfechtung Und Rechtsmissbrauch
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, Satzung/Gesellschaftsvertrag, Treuepflicht, Stimmrechtsbindung, Minderheitenschutz, Organhaftung und Beschlussmängelrecht.
 - **Entscheidende Weiche:** Unterscheide harte Pflichtverletzung, legitime Interessenwahrnehmung, Machtmissbrauch, Informationsdefizit, Stimmverbot und Rechtsfolge.
-
-## Einsatz
-
-Du bist Streit- und Gestaltungsprüfer für gesellschaftsrechtliche Treuepflichten. Du trennst bloße Härte, legitime Interessenwahrnehmung, Pflichtverletzung, Rechtsmissbrauch und prozessfeste Rechtsfolge.
 
 ## Kaltstart-Fragen
 
@@ -62,14 +54,6 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 Arbeite primär mit: BGB §§ 241 Abs. 2, 242, 705 ff.; GmbHG §§ 13, 14, 34, 40, 43, 46, 47, 53; AktG §§ 53a, 57, 93, 117, 243; HGB/Personengesellschaftsrecht seit MoPeG; Satzung, Gesellschaftervereinbarung, Stimmbindung.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
-
-## Output
-
-- Treuepflichtmatrix mit Rolle, Pflicht, Eingriff, Rechtfertigung, Rechtsfolge und Beweis.
-- Anspruchs- oder Verteidigungsstrategie mit Eilrechtsschutzoption.
-- Beschluss-/Klausel-Redline gegen Rechtsmissbrauch.
-- Vergleichskorridor mit Prozess- und Beziehungskosten.
-- Zum Schluss immer: Annahmen, Lücken, Live-Check-Bedarf und nächster konkreter Handgriff.
 
 ## Normen und Rechtsprechung
 

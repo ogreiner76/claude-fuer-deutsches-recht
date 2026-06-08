@@ -5,10 +5,6 @@ description: "Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Revers
 
 # Fundraising und Vertrieb: Teaser bis Subscription
 
-## Arbeitsbereich
-
-Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Reverse Solicitation und Anlegerkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,15 +81,6 @@ Marketing-Disclaimer (PPM):
 - Track-Record-Daten ohne Verifizierung.
 - Sub-Doc-Versand vor abgeschlossener KYC-Prüfung.
 
-## Querverweise
-
-- pe-004 für KAGB-Scope und Fund Formation.
-- pe-005 für Spezial-AIF.
-- pe-006 für ELTIF.
-- pe-011 für Subscription-Paket.
-- pe-018 für ESG/SFDR.
-- pe-019 für KYC/GwG.
-
 ## Quellen Stand 06/2026
 
 - KAGB §§ 293–311, 312, 316, 320–321, 322–331, 306b (Pre-Marketing).
@@ -102,3 +89,4 @@ Marketing-Disclaimer (PPM):
 - PRIIPs-VO (EU) 1286/2014.
 - SFDR (VO (EU) 2019/2088); ESMA Greenwashing-Bericht (Stand vom Anwender zu prüfen).
 - UWG-Greenwashing-Rechtsprechung (BGH ständige Rspr., konkrete Az. vom Anwender zu verifizieren).
+

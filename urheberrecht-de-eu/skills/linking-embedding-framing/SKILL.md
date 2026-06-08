@@ -5,10 +5,6 @@ description: "Prueft Links, Embeds, Framing, Zugangsbeschränkungen, neue Öffen
 
 # Linking, Embedding und Framing
 
-## Arbeitsbereich
-
-Prueft Links, Embeds, Framing, Zugangsbeschränkungen, neue Öffentlichkeit und technische Schutzmaßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,3 +80,4 @@ Konkret zu prüfen:
 - EuGH C-348/13 (BestWater)
 - EuGH C-466/12 (Svensson)
 - EuGH C-392/19 (VG Bild-Kunst)
+

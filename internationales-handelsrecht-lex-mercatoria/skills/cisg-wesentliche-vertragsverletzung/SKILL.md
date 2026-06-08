@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Wesentliche Vertragsverletzung nach 
 
 # Wesentliche Vertragsverletzung (CISG Art. 25)
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Wesentliche Vertragsverletzung nach CISG Art. 25. Vorhersehbarkeitstest, Erheblichkeit des Nachteils und Rechtsfolge (Vertragsaufhebung Art. 49/64 CISG). Abgrenzung zur unwesentlichen Verletzung und Nacherfüllungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Art. 25 CISG ist die Schlüsselnorm des CISG-Rechtsbehelfssystems. Nur bei wesen
 - CISG Advisory Council Opinions (op. 5, 9) als nicht bindende Auslegungshilfe
 - Rechtsprechungsvergleich: OLG-Rspr. via CISG-online.ch
 
-## Output
-
-- Wesentlichkeits-Checkliste (erheblicher Nachteil / Vorhersehbarkeitstest)
-- Entscheidungsbaum: Aufhebung vs. Minderung vs. Nacherfüllung
-- Muster-Aufhebungserklärung nach Art. 26 CISG
-
-## Quellenregel
-
-CISG Art. 25: uncitral.un.org. CISG Advisory Council Opinions: cisgac.com. Rechtsprechung: CISG-online.ch. Schrifttum: Huber/Mullis, The CISG (2007) S. 185 ff. Unsicherheit bleibt sichtbar.

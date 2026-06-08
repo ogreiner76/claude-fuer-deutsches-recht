@@ -114,9 +114,6 @@ Bei einem Beratungsfall **alle relevanten Anker prüfen**:
 - Art. 3–5 P2B-VO (2019/1150) — Transparenz gegenüber gewerblichen Nutzern
 - § 19a GWB — Sonderregeln für Unternehmen mit überragender marktübergreifender Bedeutung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Welche Ansprüche kommen in Betracht? (DSGVO-Betroffenenrechte / DSA-Beschwerde / P2B-VO / § 19a GWB)
@@ -145,3 +142,4 @@ Anspruchs-Matrix:
 Empfohlene Strategie: [BESCHREIBUNG]
 Nächste Schritte: [LISTE]
 ```
+

@@ -5,10 +5,6 @@ description: "Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-
 
 # Vorstandsvorlage zu Handelsvertreter-Themen nach HGB
 
-## Arbeitsbereich
-
-Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-Themen: Abschluss oder Kündigung von Handelsvertreterverträgen, Ausgleichszahlungen nach § 89b HGB, Wettbewerbsverbote nach § 90a HGB sowie Due-Diligence-Ergebnisse bei M&A mit Handelsvertreter-Netzwerken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Zwingende § 92c HGB-Normen in der Handlungsoption nicht beachtet.
 - Fehlende Empfehlung — Vorlage ohne Entscheidungsgrundlage.
 
-## Output
-
-Vorstandsvorlage Entwurf, Risikoanalyse Ausgleich, Handlungsoptionen-Tabelle.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 89 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89.html)
 - [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

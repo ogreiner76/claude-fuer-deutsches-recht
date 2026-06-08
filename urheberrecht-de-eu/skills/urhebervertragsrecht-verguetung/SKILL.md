@@ -5,10 +5,6 @@ description: "Prueft Urhebervertragsrecht, angemessene Vergütung, weitere Betei
 
 # Angemessene Vergütung und Bestseller
 
-## Arbeitsbereich
-
-Prueft Urhebervertragsrecht, angemessene Vergütung, weitere Beteiligung, Transparenzpflichten und Buyout-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,3 +78,4 @@ Konkret zu prüfen:
 - §§ 31-44 UrhG
 - § 32a UrhG (Bestseller)
 - § 36 UrhG (gemeinsame Vergütungsregeln)
+

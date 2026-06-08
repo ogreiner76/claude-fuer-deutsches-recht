@@ -5,10 +5,6 @@ description: "Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre U
 
 # EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB
 
-## Arbeitsbereich
-
-Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung ins deutsche HGB: Mindeststandards für Ausgleich und Kündigung, richtlinienkonforme Auslegung der §§ 84-92c HGB, EuGH-Rechtsprechung (Honyvem, Saint-Gobain, Quenon) und Schranken der nationalen Rechtsanwendung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -89,3 +85,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [EuGH C-381/19 Saint-Gobain auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62019CJ0381)
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [Dejure § 92c HGB](https://dejure.org/gesetze/HGB/92c.html)
+

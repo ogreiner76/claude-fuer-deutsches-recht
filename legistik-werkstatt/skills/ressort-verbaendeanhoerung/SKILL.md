@@ -5,10 +5,6 @@ description: "Heranfuehrung Ressort BMF (Bundesministerium der Finanzen). Schwer
 
 # Ressort-Heranfuehrung BMF
 
-## Arbeitsbereich
-
-Heranfuehrung Ressort BMF (Bundesministerium der Finanzen). Schwerpunkt: Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche. Kernnormen: AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG. Fuenf Spezialfelder: steuerrecht-und-fiskalnormen; haushalts-und-zuwendungsrecht; finanzmarktaufsicht-bafin-kwg-wpig; zoll-und-aussenwirtschaftsrecht; geldwaesche-und-sanktionsrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmf und legw-bmf-Themenslug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Ressort-Heranfuehrung BMF**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Ressort-Heranfuehrung BMF**. Prüfe diese Anker am Sachverhalt; 
 - `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -107,54 +102,7 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
  Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
-## Vorgehen
-
-### Schritt 1 - Stammdaten dieses Ressorts in das Auftragsblatt uebernehmen
-
-Volltitel; Federfuehrung; Mitzeichner; Spiegelausschuss; verantwortliches Referat und Aufsicht
-in das Auftragsblatt einpflegen.
-
-### Schritt 2 - Spezialfeld waehlen
-
-Aus den fuenf Spezialfeldern (siehe oben) das passende waehlen. Bei Mehrfachbezug: das
-schwerpunktmäßige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
-
-### Schritt 3 - Ressortaufgaben-Skill rufen
-
-Anschluss an `legw-ressortaufgaben-bmf` - dort ressortspezifische Aufgaben (Begruendung;
-Verbaendeanhoerung; Bundestagsweg; Aufsicht).
-
-### Schritt 4 - Werkstatt-Skills nutzen
-
-`legistik-auftragsaufnahme`; `normhierarchie-routing`; `normenkartierung`;
-`verfassungsmaessigkeit-quercheck`; `europarechtskonformitaet`; `folgenabschaetzung-*` und
-`begruendung-allgemein-und-besonders` ergaenzen.
-
-### Schritt 5 - Optional RuleMapping-Anschluss
-
-Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einstieg in die 10 RuleMapping-Skills (Abschluss mit `legw-rmap-anschluss-an-legw`).
-
-## Output
-
-Ressort-Kompass im Auftragsblatt:
-
-```
-Ressort: BMF - Bundesministerium der Finanzen
-Hausleitung: Lars Klingbeil (SPD)
-Materie: Steuer- und Fiskalrecht; Haushalts- und Zuwendungsrecht; Finanzmarkt; Zoll und Aussenwirtschaft; Geldwaesche.
-Kernnormen: AO; EStG; KStG; UStG; BHO; FinStabG; KWG; WpHG; ZollVG; GwG.
-Spezialfeld: <gewaehlter Slug>
-Mitzeichner: <Liste>
-Spiegelausschuss: <Bundestags-Ausschuss>
-Verbaendekreis: <Listen-Liste>
-EU-Bezug: <Generaldirektion und Rechtsakt>
-Naechster Skill: legw-ressortaufgaben-bmf
-```
-
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

@@ -5,10 +5,6 @@ description: "Group Registration of Unpublished Works (GRUW): bis zu zehn unver�
 
 # GRUW - Group Registration of Unpublished Works
 
-## Arbeitsbereich
-
-Group Registration of Unpublished Works (GRUW): bis zu zehn unveröffentlichte Werke, gleiche Autorenschaft, Online-Antrag, separate Dateien und keine Sammel-PDF-Falle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Group Registration of Unpublished Works (GRUW): bis zu zehn unveröffentlichte W
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Prüfe, ob mehrere unveröffentlichte Werke gemeinsam registriert werden können. GRUW kann Kosten sparen, ist aber formal eng: falsche Autorenschaft, veröffentlichte Werke oder Sammeldateien führen schnell zu Problemen.
-
 ## Voraussetzungen
 
 - mindestens zwei und höchstens zehn unveröffentlichte Werke,
@@ -35,17 +27,9 @@ Prüfe, ob mehrere unveröffentlichte Werke gemeinsam registriert werden können
 - jedes Werk als separate elektronische Datei hochladen,
 - keine physische Einreichung für diese Gruppenoption.
 
-## Output
-
-Eine GRUW-Eignungsprüfung mit Ja/Nein/Unsicher, Dateiliste, Titelmatrix, Claimant-Frage und eCO-Hinweis.
-
 ## Warnung
 
 Bei Verlagsrechten an fremden unveröffentlichten Werken sorgfältig prüfen: Die GRUW-Regel kann die Benennung der Autorinnen/Autoren als Claimants verlangen; bei abweichender Rechteinhaberschaft separate Standard-Anträge oder Recordation prüfen.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -57,3 +41,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Frist-/Remedy-Wirkung hat timing nach § 411/§ 412 und was muss als Nachweis in die Verlagsakte?
 
 **Mindest-Output:** Registrierungsakte mit Antragstyp, Werkdaten, Rechtekette, Deposit-Route, Fee/Tracking und Certificate-Archiv.
+

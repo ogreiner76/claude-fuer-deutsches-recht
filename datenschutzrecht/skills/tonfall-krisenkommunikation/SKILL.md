@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zu Wortlaut-Streitigkeiten in Massendatenpa
 
 Art. 5 Abs. 1 lit. a; Art. 12 Abs. 1; Art. 34 Abs. 2 DSGVO; § 824 BGB; § 4 UWG.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Do/Don't
 
 Do: konkrete Beschreibung des Vorfalls; konkrete Folgen; konkrete Empfehlungen; respektvolle Anrede; Hotline.
@@ -53,3 +49,4 @@ Reasoning vor Conclusion: erst Beschreibung der Lage; dann Bewertung; dann Empfe
 
 - `dsv-pressemitteilung-krisenkommunikation` deckt die Pressemitteilung ab.
 - `dsv-benachrichtigung-art-34-betroffene` deckt das Anschreiben ab.
+

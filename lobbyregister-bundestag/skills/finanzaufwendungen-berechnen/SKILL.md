@@ -5,10 +5,6 @@ description: "Berechnet finanzielle Aufwendungen im Bereich Interessenvertretung
 
 # Finanzaufwendungen berechnen
 
-## Arbeitsbereich
-
-Berechnet finanzielle Aufwendungen im Bereich Interessenvertretung, Personal- und Sachkosten, Infrastruktur und Zuordnung. Output Kostenblatt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Berechnet finanzielle Aufwendungen im Bereich Interessenvertretung, Personal- un
 - Tragende Normen verifizieren: LobbyRG §§ 1, 2, 3, 5, 6, 7, 8 (i.d.F. Reform 2024), Verhaltenskodex Lobbyregister, GOBT, BGleiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lobbyregistereintrag, Verhaltenskodex-Bestätigung, Tätigkeitsbericht, Hausausweisantrag, Finanzangaben, Verbandsmitgliederliste — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Finanzangaben nachvollziehbar und prueffest vorbereiten.
 
 ## Gefuehrter Ablauf
 
@@ -87,13 +79,10 @@ Eintrag im Portal erfolgt in Stufen, nicht punktgenau:
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 
-## Output
-
-Kostenblatt mit Methodik, Annahmen, Belegen, Stufenwert und Freigabefragen.
-
 ## Qualitaetsgate
 
 - Pflichtgrund, Ausnahme und freiwillige Registrierung werden getrennt.
 - Jede Frist bekommt Triggerdatum, Verantwortliche und Wiedervorlage.
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
+

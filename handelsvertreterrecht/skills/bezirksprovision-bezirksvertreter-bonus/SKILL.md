@@ -5,10 +5,6 @@ description: "Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Vo
 
 # Bezirksprovision nach § 87 Abs. 2 HGB
 
-## Arbeitsbereich
-
-Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Voraussetzungen des Bezirksvertreterschutzes, Provisionspflicht bei Direktabschlüssen des Unternehmers im Bezirk, Abgrenzung von Stammkunden- und Neukunden-Provision sowie vertragliche Modifikation des Bezirksschutzes. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Key-Account-Ausnahmen nachträglich behauptet, ohne vertragliche Grundlage.
 - Buchauszug enthält keine Direktgeschäfte — separates Auskunftsverlangen erforderlich.
 
-## Output
-
-Bezirksprovisionsberechnung, Buchauszugs-Anforderungsschreiben, Klageschriftentwurf.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [§ 86a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__86a.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

@@ -70,21 +70,11 @@ Hinweis: konkrete Form-Nummern und Bezeichnungen variieren mit der Addison-Versi
 - Bei groesseren Reformen unterjaehrige Updates (z.B. Wachstumschancengesetz, eRechnung).
 - Update-Pflicht aus § 146 AO (Programm muss aktuelle Tabellen abbilden).
 
-## Output
-
-- Konfigurierte Addison-BWA.
-
 ## Strategie und Praxis-Tipps
 
 - Addison-Schulungen ueber Wolters Kluwer Akademie.
 - Wechsel von DATEV zu Addison oder umgekehrt sorgfaeltig planen — Mandantenmigration aufwendig.
 - Hybrid-Modelle (z.B. Lohn Addison, Buchhaltung DATEV) sind selten und teuer.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA.
-- `stb-datev-bwa-modul-bedienen-tipps` — DATEV Pendant.
-- `stb-sage-buchhalter-bwa-konfiguration` — Sage.
 
 ## Quellen und Updates
 
@@ -95,14 +85,6 @@ Stand: 05/2026.
 - Verifikations-Hinweis: konkrete Programmpfade und Form-Nummern ggf. abweichend in aktueller Addison-Version.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Programmpfad-Hinweis ohne Marker neu formuliert) -->
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -132,3 +114,4 @@ Stand: 05/2026.
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

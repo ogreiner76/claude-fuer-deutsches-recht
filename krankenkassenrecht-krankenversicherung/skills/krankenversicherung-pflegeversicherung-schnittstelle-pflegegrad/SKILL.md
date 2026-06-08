@@ -5,10 +5,6 @@ description: "Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Kranken
 
 # Pflegeversicherung: Schnittstelle Pflegegrad
 
-## Arbeitsbereich
-
-Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Krankenbehandlung vs. Pflege, Hilfsmittel, Pflegehilfsmittel und Finanzierungsabgrenzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,3 +89,4 @@ GKV und Pflegeversicherung überschneiden sich bei Hilfsmitteln, Häuslicher Kra
 - [§ 13 SGB XI – Nachrang PV](https://www.gesetze-im-internet.de/sgb_11/__13.html)
 - [BSG GKV/PV-Abgrenzung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 37 SGB V](https://dejure.org/gesetze/SGB_V/37.html)
+

@@ -53,10 +53,6 @@ description: "Leitet durch die Methode der verfassungskonformen Auslegung als Sp
 - Die Subsidiariät gegenüber der Vorlagepflicht wird nicht beachtet.
 - Das Verhältnis zur mittelbaren Drittwirkung von Grundrechten wird nicht klar getrennt.
 
-## Output
-
-Das Skill liefert eine verfassungskonforme Auslegungsanalyse: Identifikation des verfassungsrechtlichen Problems, Prüfung beider Lesarten, Subsidiaritätsprüfung, Normerhaltungsbegründung und Formulierungsvorschlag. Verwendbar in Schriftsätzen mit Grundrechtsbezug, in Gutachten und bei Revisionsrügen.
-
 ## Vertiefung: Mittelbare Drittwirkung und verfassungskonforme Auslegung
 
 Die mittelbare Drittwirkung der Grundrechte und die verfassungskonforme Auslegung sind zwar verwandte, aber unterschiedliche Instrumente: Die mittelbare Drittwirkung fügt dem zivilrechtlichen Tatbestand eine grundrechtliche Wertungsdimension hinzu, während die verfassungskonforme Auslegung unter mehreren möglichen Auslegungen die grundrechtskonforme wählt. Beide Instrumente ergänzen sich und sind methodisch klar zu trennen.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 14 GG bei dejure](https://dejure.org/gesetze/GG/14.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

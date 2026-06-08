@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Patentrecherche (FTO, Validity, 
 
 Dieser Einstieg routet **Patentrecherche** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `agentisch-fristen-form-und-zustaendigkeit` — Agentisch Fristen Form und Zustaendigkeit
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Patentrecherche** vom ersten Sachverhalt zu Rollen, Fri
 - Zuständige Stelle bestimmen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Patentrecherche (FTO, Validity, Family-Watch) typische Eskalationsstufen: FTO-Bericht, Validity-Analyse, Stand der Technik-Liste.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

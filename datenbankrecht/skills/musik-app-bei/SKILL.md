@@ -5,10 +5,6 @@ description: "Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e Ur
 
 # Datenbankrecht für Musik-, Film- und Bildarchive — Mediendatenbanken
 
-## Arbeitsbereich
-
-Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Medien
 - IPTC-Metadaten-Opt-out (XMP-Creator-Tag) wird von vielen KI-Crawlern nicht respektiert — zusätzliche technische Sperren nötig.
 - Leistungsschutzrecht der Tonträgerhersteller (§ 85 UrhG) ist separat von Datenbankrecht zu lizenzieren.
 
-## Output
-
-- Schichtenschutz-Analyse für Mediendatenbank (Datenbankrecht + Urheberrecht + Leistungsschutz)
-- TDM-Opt-out-Implementierungsguide für Bild- und Musikdatenbanken (IPTC-Standard)
-- Stock-Media-Lizenzvertrag-Vorlage (Editorial / Kommerziell / Abo)
-- Verwertungsgesellschafts-Schnittstellen-Übersicht (GEMA / VGBild-Kunst)
-- Verletzungsklage-Strategie für Mediendatenbank-Scraping
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Medien
 - [§ 2 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/2.html)
 - [§ 85 UrhG Tonträgerhersteller — dejure.org](https://dejure.org/gesetze/UrhG/85.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

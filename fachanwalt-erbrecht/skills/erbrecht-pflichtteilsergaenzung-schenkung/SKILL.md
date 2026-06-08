@@ -5,9 +5,6 @@ description: "Pflichtteilsergaenzung Schenkung im Plugin Fachanwalt Erbrecht: pr
 
 # Pflichtteilsergaenzung Schenkung
 
-## Arbeitsbereich
-
-**Pflichtteilsergaenzung Schenkung** ordnet den Fall über die tragenden Prüfungslinien: Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen, Testamentsvollstreckung einrichten oder bei Streit über, Streit in der Erbengemeinschaft durch Verhandlung oder. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Pflichtteilsergaenzung Schenkung im Plugin Fachanwalt Erbrecht: pr
 - Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-erbrecht-pflichtteilsergaenzung-2325`
@@ -38,10 +36,6 @@ description: "Pflichtteilsergaenzung Schenkung im Plugin Fachanwalt Erbrecht: pr
 - **Arbeitsmodus:** Erst Erbfolge, Ausschlagung, Nachlassbestand, Haftung und Fristen sichern; dann Pflichtteil, Auskunft/Wertermittlung, Testamentsauslegung, Erbengemeinschaft und internationale Anknüpfung trennen.
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Mandate von Pflichtteilsberechtigten mit Schenkungs-Verdacht — Ermittlung, Berechnung, Klage.
 
 ## 1) Eingangs-Abfrage
 
@@ -555,13 +549,6 @@ Anlagen: Beweise für Pflichtverletzungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Erbschafts-Streit ist überwiegend Familien-/Beziehungs-Streit; harte Klage zerstört oft die Beziehungen dauerhaft. Mediation und außergerichtliche Vergleichsverhandlungen sind erbrechtsspezifisch zentral — mit Notar-Vermittlung § 363 FamFG, Schiedsgutachten bei Bewertungs-Streit.
-
 ## Eingaben
 
 - Mandantenrolle (Erbe, Pflichtteilsberechtigte, Vermächtnisnehmerin, Testamentsvollstrecker)
@@ -661,13 +648,7 @@ Erbschafts-Streit ist überwiegend Familien-/Beziehungs-Streit; harte Klage zers
 - **Bei Eskalation**: Pflichtteils-Auskunft § 2314 BGB als Druckmittel
 - **Vergleich + Stilllegung**: alle Erben unterschreiben "saemtliche Ansprueche erledigt"
 
-## Querverweise
-
-- `fachanwalt-erbrecht-orientierung` — Triage
-- `fachanwalt-erbrecht-pflichtteilsergaenzung-2325` — Vertiefung
-- `fachanwalt-erbrecht-erbschaftsausschlagung` — Alternative
-- `fachanwalt-erbrecht-krypto-wallet-nachlass-multisig` — Sonderfall
-
 ## Quellen und Updates
 
 Stand: 05/2026. § 363 FamFG, MediationsG. BGH-Linien stabil. Bei ErbStG-Reform aktualisieren.
+

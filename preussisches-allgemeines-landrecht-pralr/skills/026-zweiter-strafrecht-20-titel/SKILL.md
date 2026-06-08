@@ -5,10 +5,6 @@ description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch im Preußi
 
 # PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch
 
-## Aufgabe
-
-Dieser Skill bearbeitet **Zweiter Teil Strafrecht 20 Titel quellenkritisch** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
 ## Kaltstart in 6 Fragen
 
 1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
@@ -61,10 +57,3 @@ ALR II 20 war das preussische Allgemeine Strafgesetzbuch bis zur Einfuehrung des
 2. Heute Strafrecht? — direkt StGB.
 3. Aktuelle Aktenbestaende mit Strafurteilen vor 1871? — fortgesetzt als historisches Material, ohne fortwirkende Vollstreckbarkeit.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

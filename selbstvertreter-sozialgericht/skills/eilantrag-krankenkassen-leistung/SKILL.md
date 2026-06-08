@@ -154,13 +154,7 @@ Das Gericht ordnet die Leistung vorlaeufig an. Die KK muss bezahlen. Die Hauptsa
 - "Lange leiden" als Argument → keine Eilbeduerftigkeit ohne unumkehrbaren Schaden
 - An die Krankenkasse statt ans SG → SG ist Adressat
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `eilantrag-86b-sgg-grundlagen` — Grundlagen
-- `krankenkassen-leistungsablehnung-sgb-v` — Hauptverfahren KK
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste richtig nutzen
-
 ## Quellen und Aktualitaet
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

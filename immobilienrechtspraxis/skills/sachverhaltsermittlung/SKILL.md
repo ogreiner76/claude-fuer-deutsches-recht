@@ -5,10 +5,6 @@ description: "Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentums
 
 # Sachverhaltsermittlung
 
-## Arbeitsbereich
-
-Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhältnisse, Vertragshistorie, Beweismittel. Normen: §§ 873 ff. BGB, GBO, WEG. Prüfraster: Grundbuch, Kaufvertrag, Mietvertrag, Beweismittelkatalog. Output: Sachverhalts-Ermittlungsbericht. Abgrenzung: nicht rechtliche Bewertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -62,17 +58,6 @@ Aussagen werden markiert.
 Pro Tatsachenbehauptung wird vermerkt: durch welches Beweismittel
 gesichert (Urkunde Zeuge Augenschein), bloss plausibel oder offen.
 
-## Output
-
-- `SV_Memo_<Aktenzeichen>.md` mit Abschnitten:
- - Gesicherter Sachverhalt
- - Plausible Annahmen mit Quelle
- - Offene Punkte mit Fragestellung
- - Zeitleiste in Tabellenform
- - Beweisübersicht
-- `Fragenkatalog_<Adressat>.docx` — versendungsfertig an
- Asset-Management oder Hausverwaltung
-
 ## Anti-Halluzinations-Regel
 
 Der Skill erfindet KEINE Sachverhaltsdetails. Wo eine Information
@@ -113,6 +98,3 @@ sonst das Vertrauen — und das ist der teuerste Verlust.
 - Kuendigung: §§ 543, 569, 573 BGB
 - Betriebskosten: § 556 Abs. 3 BGB, BetrKV
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

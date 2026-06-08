@@ -5,10 +5,6 @@ description: "Richtigstellung im Online- und Printmedium: Berichtigungsanspruch,
 
 # Richtigstellung
 
-## Arbeitsbereich
-
-Richtigstellung im Online- und Printmedium: Berichtigungsanspruch, Gegendarstellung nach MStV § 20, Erratum, Online-Korrekturhinweis. Mustertexte für alle drei Eskalationsstufen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -146,15 +142,6 @@ Die Erstfassung ist auf Anforderung beim Verlag erhaeltlich.
 - Berichtigung ohne Datum und Quellenangabe - keine Transparenz.
 - Streichung des Originaltextes ohne Hinweis - Verstoss gegen Pressekodex.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Eingangsroutung der Beanstandung.
-- `workflow-fristen-und-risikoampel` - Gegendarstellungsfrist.
-- `verl-rueckruf-fehlerbeitrag-spaet-erkannt` - parallele Rueckrufmassnahme.
-- `verl-abstimmung-mit-rechtsabteilung-pruefung` - Justiziariatspflicht.
-- `verl-loeschpflicht-und-archivierung-fachzs` - Loeschpflicht und Versionierung.
-- `qualitaetsgate-verlag` - Praeventionslogik.
-
 ## Quellen Stand 06/2026
 
 - MStV § 20 - Gegendarstellung in Telemedien.
@@ -163,3 +150,4 @@ Die Erstfassung ist auf Anforderung beim Verlag erhaeltlich.
 - UWG §§ 5, 5a, 8 - Irrefuehrungsverbot und Beseitigung.
 - BVerfG-Rechtsprechung zum Berichtigungsanspruch (Volltexte unter bundesverfassungsgericht.de).
 - Pressekodex (Ziffer 3 und 13) - presserat.de.
+

@@ -45,13 +45,6 @@ description: "Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für Examen
 - Ablenkungsfakten im Sachverhalt nicht übersehen — Examensklausuren arbeiten damit gezielt.
 - Zeitmanagement trainieren: Nicht nur Inhalte, sondern auch Zeitplanung üben.
 
-## Output
-
-- Fallvariantenserie mit drei Schwierigkeitsstufen pro Thema
-- Mustersubsumtionen im Gutachtenstil
-- Selbstkontroll-Fragebogen nach jeder Variante
-- Lernfortschritts-Checkliste für Examensvorbereitung
-
 ## Quellen
 
 - [§ 104 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__104.html)
@@ -82,3 +75,4 @@ Fallvarianten helfen, das Verständnis zu vertiefen: Was ändert sich, wenn der 
 - Unterschiede zwischen den Varianten klar herausgearbeitet?
 - Lernziel der Variation verstanden und internalisiert?
 - Merkregel für die Variante formuliert?
+

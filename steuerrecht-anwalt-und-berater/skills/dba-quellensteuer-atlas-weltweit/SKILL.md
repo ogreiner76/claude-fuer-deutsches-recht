@@ -13,10 +13,6 @@ description: "Weltweiter DBA-Quellensteuer-Atlas aus deutscher Sicht: Dividenden
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Quellensteuerfragen sind schnell falsch, weil DBA-Sätze, nationale Abzugsregeln und Entlastungsverfahren getrennt laufen. Dieser Skill erzwingt die Dreiteilung.
-
 ## Drei Ebenen
 
 1. **Nationales Quellenstaatrecht:** Gibt es überhaupt Steuerabzug?
@@ -30,13 +26,6 @@ Quellensteuerfragen sind schnell falsch, weil DBA-Sätze, nationale Abzugsregeln
 - Lizenzen: Art. 12 DBA, § 50a EStG, § 50c EStG, Software/Know-how/Service abgrenzen.
 - Künstler/Sportler: Art. 17 DBA, § 50a EStG, Durchgriff auf Künstlergesellschaft.
 - Technische Dienstleistungen: nur wenn konkretes DBA oder Quellenstaatrecht eine Sonderlogik enthält.
-
-## Output
-
-- Quellensteuer-Rechenblatt.
-- BZSt-/Quellenstaat-Verfahrensplan.
-- Dokumentenliste.
-- Anti-Missbrauchsprüfung.
 
 ## Praktiker-Tipps "Schnell zum Bescheid / BZSt-Erstattungs-Tipps"
 
@@ -121,10 +110,3 @@ Quellensteuerfragen sind schnell falsch, weil DBA-Sätze, nationale Abzugsregeln
 | LOB (US-DBA, ggf. andere) | DBA Art. [...] | [Qualified Person?] | [ja / nein] |
 | § 4j EStG Lizenzschranke | EStG | [schaedliche IP-Box im Quellenstaat?] | [Abzug eingeschraenkt / nicht] |
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

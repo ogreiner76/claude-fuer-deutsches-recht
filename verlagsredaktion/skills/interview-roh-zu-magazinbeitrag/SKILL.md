@@ -5,10 +5,6 @@ description: "Macht aus einem Interview-Transkript eine drucktaugliche Interview
 
 # Interview-Roh zu Magazinbeitrag
 
-## Arbeitsbereich
-
-Macht aus einem Interview-Transkript eine drucktaugliche Interview-Fassung für Fachmagazin oder Newsletter, mit Autorisierung und Tonalitaetskontrolle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -86,14 +82,6 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 - Die Reihenfolge im Druck entspricht nicht dem Gespraech - kein Problem, solange Sinn erhalten, aber bei Autorisierung kommunizieren.
 - Pull-Quotes aus dem Kontext gerissen - Korrektur, ggf. Stellungnahme.
 
-## Querverweise
-
-- `verl-audio-transkript-zu-fachbeitrag` - Schwester-Skill.
-- `verl-konferenzmitschnitt-zu-tagungsbericht` - Audio mit mehreren Sprechern.
-- `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-- `verl-aussagensicherheit-pruefung` - für brisante Aussagen.
-- `verl-redaktionelle-rueckmeldung-formulieren` - Rueckmeldungsstil.
-
 ## Quellen Stand 06/2026
 
 - KUG § 22 Bildnis (Portraitbild), [https://www.gesetze-im-internet.de/kunsturhg/](https://www.gesetze-im-internet.de/kunsturhg/).
@@ -102,3 +90,4 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 - DSGVO Art. 6 bei personenbezogenen Daten.
 - Pressekodex Ziff. 2 (Sorgfalt), Ziff. 3 (Richtigstellung), [https://www.presserat.de/pressekodex.html](https://www.presserat.de/pressekodex.html).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
+

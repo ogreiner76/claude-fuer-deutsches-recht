@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Klaeranlage-Becken mit Fokus auf D
 
 # Bauueberwachung Klaeranlage Becken und Dichtigkeit
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Klaeranlage-Becken mit Fokus auf Dichtigkeitspruefungen nach DIN EN 1610, WU-Beton nach DIN 1045-2 WU-Richtlinie 2017, Betonschutzanstriche gegen H2S-Angriff, Rissbreitenkartierung und Fugenband-Einbaukontrolle. Umfasst VOB/C-Abnahme, SAP-PM-Mangelverfolgung und Drohnen-Thermografie für Dichtigkeitskontrolle an Klaerbecken bis 50.000 EW. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Klaerbecken zaehlen zu den am staerksten beanspruchten Stahlbetonbauwerken im ko
 - Mangelhaftes Nachbehandlungskonzept: WU-Beton erhaertet zu schnell bei Wind, mindestens 7 Tage Folienabdeckung Pflicht
 - Falsche Rissbreiteneinstufung: W1-Risse als harmlos eingestuft, Chlorid-bedingte Bewehrungskorrosion langfristig
 
-## Output
-
-Rissbreitenkartierung Beckenwand mit Fotodokumentation und WU-Einstufung. Dichtigkeitspruefungsprotokoll nach DIN EN 1610 mit Manometerdiagramm. Schichtdickenprotokoll Betonschutzanstrich. Drohnen-Thermografie-Bericht mit Hotspot-Markierungen. Bautagebuch chronologisch. SAP-PM-Anlagenstruktur Becken-IDs. Abnahmeprotokoll nach VOB/B § 12.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Rissbreitenkartierung Beckenwand mit Fotodokumentation und WU-Einstufung. Dichti
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 633 Sachmangel](https://www.gesetze-im-internet.de/bgb/__633.html)
+

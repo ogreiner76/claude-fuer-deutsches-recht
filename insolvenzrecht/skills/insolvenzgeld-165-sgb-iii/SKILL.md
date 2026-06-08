@@ -25,10 +25,6 @@ Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder I
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Insolvenzgeld ist zentrale Arbeitnehmer-Sicherung in Insolvenz. Mandanten oft Arbeitnehmer oder Insolvenzverwalter im Lohn-Abrechnungs-Streit. Dieses Skill prüft Anspruch und Antrags-Verfahren.
-
 ## Eingaben
 
 - Insolvenz-Status Arbeitgeber (Antrag Eröffnung)
@@ -358,6 +354,3 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 3. **Vorfinanzierung?** Haushausbank ansprechen; Abtretungserklaerungen der Arbeitnehmer einholen; Zeitplan Vorfinanzierung → Auszahlung BA.
 4. **GF-Anspruch?** GF ist nur Arbeitnehmer wenn tatsaechlich weisungsgebunden; bei Gesellschafter-GF selten Insolvenzgeld.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

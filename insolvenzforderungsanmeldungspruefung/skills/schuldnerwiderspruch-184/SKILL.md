@@ -25,12 +25,6 @@ Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalten: Anwendungsf
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Trennt Schuldnerwiderspruch von Tabellenbestreiten und hält die Monatsfrist bei titulierten Forderungen sichtbar.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
-
 ## Startet bei
 
 - Schuldner widerspricht
@@ -79,6 +73,3 @@ Bevor losgelegt wird, klaere:
 3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
 4. **Vorsatz-Tatbestand benannt?** Für § 302 Nr. 1 InsO ausdrücklich Tatbestand der vorsätzlich unerlaubten Handlung in der Anmeldung benennen. Schuldnerwiderspruch nach § 184 InsO innerhalb der Frist klären.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

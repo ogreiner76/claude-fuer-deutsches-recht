@@ -5,10 +5,6 @@ description: "Widerspruchsverfahren nach §§ 83 ff. SGG: Fristen, Form, Begrün
 
 # Widerspruch gegen Leistungsablehnung: Frist und Begründung
 
-## Arbeitsbereich
-
-Widerspruchsverfahren nach §§ 83 ff. SGG: Fristen, Form, Begründungsanforderungen, Widerspruchsstellen und typische Fehler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,3 +91,4 @@ Der Widerspruch ist das erste Rechtsmittel gegen Ablehnungsbescheide der Kranken
 - [§ 25 SGB X – Akteneinsicht](https://www.gesetze-im-internet.de/sgb_10/__25.html)
 - [BSG Verfahrensrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org SGG § 84](https://dejure.org/gesetze/SGG/84.html)
+

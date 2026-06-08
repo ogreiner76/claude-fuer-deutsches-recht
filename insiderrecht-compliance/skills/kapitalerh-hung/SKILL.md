@@ -5,10 +5,6 @@ description: "Prueft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt d
 
 # Kapitalerhöhung – Insiderrechtliche Anforderungen
 
-## Arbeitsbereich
-
-Prueft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -71,24 +67,6 @@ Falls potenzielle Investoren vor Ankündigung sondiert werden:
 - Stabilisierungsmaßnahmen: Nur unter DVO (EU) 2016/1052 (Bezug zu Skill ins-022)
 - Lock-up-Vereinbarungen dokumentieren
 
-## Red-Team-Fragen
-
-- Wurde der frühestmögliche Entstehungszeitpunkt der Insiderinformation festgestellt?
-- Wurden alle gesoundeten Investoren korrekt als Insider behandelt?
-- Wurden Eigengeschäfte von PDMRs zwischen Beschluss und Ad-hoc ausgeschlossen?
-- Enthält die Ad-hoc alle Pflichtangaben zur Kapitalerhöhung?
-- Wurden Bezugsrechte-Ausübungen durch PDMRs auf Art. 19 MAR-Meldepflicht geprüft?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Zeitstrahl Insiderinformation → Market Sounding → Board-Beschluss → Ad-hoc
-2. Market-Sounding-Dokumentation (Skill ins-008-konform)
-3. Ad-hoc-Entwurf für Kapitalerhöhungsbeschluss
-4. Post-Deal-Compliance-Checkliste
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Eine Kapitalerhöhung unter Ausschluss des Bezugsrechts nach § 186 Abs. 3 S. 4 AktG
@@ -101,3 +79,4 @@ Beginn des Bookbuilding-Prozesses in höchster Alarmbereitschaft sein.
 Weitere Quellen:
 - §§ 182 ff. AktG: https://www.gesetze-im-internet.de/aktg/__182.html
 - DVO (EU) 2016/960: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0960
+

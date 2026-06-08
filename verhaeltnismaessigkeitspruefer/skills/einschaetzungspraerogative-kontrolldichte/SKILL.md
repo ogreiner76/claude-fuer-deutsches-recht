@@ -38,10 +38,6 @@ Verbleibt eine inhaltliche Abwaegung mit Wertungsfragen. Die Kontrolldichte rich
 
 Die Wahl der Kontrolldichte ist nicht "voraussetzungslos". Sie muss begruendet werden, und Tom-Notiz: die Begruendung ist oft das eigentliche Argument im Schriftsatz oder in der Entscheidung.
 
-## Output
-
-Pruefnotiz: gewaehlte Kontrolldichte, Begruendung in zwei Saetzen, Folgen fuer die einzelnen Stufen.
-
 ## Quellen mit Schlagwort
 
 - BVerfGE 30, 292 (Erdoelbevorratung, weite Geeignetheitspruefung)
@@ -51,3 +47,4 @@ Pruefnotiz: gewaehlte Kontrolldichte, Begruendung in zwei Saetzen, Folgen fuer d
 - BVerfGE 88, 203 (Schwangerschaftsabbruch II, intensive Kontrolle Schutzpflicht)
 - BVerfGE 102, 197 (Spielbankenmonopol, Evidenzkontrolle)
 - BVerfGE 159, 223 (Bundesnotbremse, gestaffelte Kontrolle bei dynamischer Wissenslage)
+

@@ -5,10 +5,6 @@ description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche W
 
 # Klauselbibliothek-Katalog
 
-## Arbeitsbereich
-
-Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,17 +12,6 @@ Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvert
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill ist ein abrufbarer Katalog fertiger Klauselbausteine für deutsche Wirtschaftsvertraege. Er ersetzt nicht das Drafting, sondern beschleunigt es: Stelle nicht jeden Vertrag bei null auf, sondern starte mit getesteten Bausteinen und passe sie an die konkrete Mandatsfrage an.
-
-Jeder Baustein hat:
-- **Verwendungshinweis** (B2B / B2C / beides)
-- **AGB-Risiko** (gruen / gelb / rot)
-- **Alternative mild** (verhandlungsoffen)
-- **Alternative scharf** (Verhandlungsmaximum)
-- **Englische Fassung** für bilinguale Vertraege
 
 ## Eingaben
 
@@ -191,25 +176,9 @@ Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bi
 
 Die Bibliothek wird regelmaessig aktualisiert. Aenderungen in der Gesetzgebung (z. B. Verbraucherschutzgesetze, AGB-Novellen) erfordern Anpassungen. Stand der Klauseln ist im Dateikopf von `references/klausel-bibliothek.md` vermerkt.
 
-## Querverweise
-
-- `agb-konforme-klauseln-305-310-bgb` für AGB-Pruefung
-- `boilerplate-klauseln-katalog` für Standardklauseln-Drafting
-- `bilingual-drafting-deutsch-englisch` für Uebersetzungen
-- `defensive-drafting-fallen-erkennen` für Verteidigungsformulierungen
-- `vertragsstrafe-339-bgb` für Pruefung der Vertragsstrafe
-- `haftungsausschluss-und-haftungsbegrenzung` für Haftungsklauseln
-
 ## Quellen (Stand 05/2026)
 
 - §§ 247, 257, 288, 305-310, 339 BGB; §§ 2 GeschGehG; CISG.
 - Klauseln basieren auf gaengiger Vertragspraxis in deutschen Kanzleien und sind vom Nutzer fallbezogen zu pruefen.
 - Zitierweise: `references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

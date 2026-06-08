@@ -5,10 +5,6 @@ description: "Anbieter von Hochrisiko-KI fragt: Was muss die technische Dokument
 
 # Technische Dokumentation — Art. 11 und Anhang IV KI-VO
 
-## Zweck
-
-Art. 11 KI-VO verpflichtet Anbieter von Hochrisiko-KI-Systemen, eine umfangreiche technische Dokumentation zu erstellen und aktuell zu halten. Diese Dokumentation ist Voraussetzung für die Konformitätsbewertung und muss Marktüberwachungsbehörden auf Anfrage vorgelegt werden.
-
 ## Zeitpunkt der Erstellung
 
 Die technische Dokumentation muss vor dem Inverkehrbringen oder der Inbetriebnahme des Hochrisiko-KI-Systems erstellt sein. Sie ist bei wesentlichen Änderungen zu aktualisieren.
@@ -98,9 +94,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -127,3 +120,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

@@ -5,10 +5,6 @@ description: "Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraege
 
 # Blue Pencil Und Geltungserhaltende Reduktion
 
-## Arbeitsbereich
-
-Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ablehnung der geltungserhaltenden Reduktion. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,7 +42,3 @@ Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbei
 4. Rest für sich verstaendlich?
 5. Verbot der Reduktion verletzt?
 
-## Output
-
-- Klauselzerlegungs-Memo.
-- Schriftsatzbaustein.

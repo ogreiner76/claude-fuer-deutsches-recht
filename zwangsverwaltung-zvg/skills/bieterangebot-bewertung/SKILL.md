@@ -17,10 +17,6 @@ Bewertet Zwangsversteigerungsobjekte aus Investorensicht für Bieterentscheidung
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Bewertet ein Objekt aus der Zwangsversteigerung oder ein vor-/außerterminliches Angebot. Der Skill ersetzt keine Finanzierung, Besichtigung oder anwaltliche Endprüfung; er macht die Risiken entscheidungsfähig.
-
 ## Startet bei
 
 - "Ist dieses Versteigerungsangebot attraktiv?"
@@ -71,9 +67,6 @@ Bewertet ein Objekt aus der Zwangsversteigerung oder ein vor-/außerterminliches
 
 § 152 ZVG (Verwalterpflichten) → § 56 ZVG (Übergabe an Ersteher) → § 57 ZVG (Mieterschutz bei Eigentumsübergang) → § 57a ZVG (Sonderkündigungsrecht Ersteher) → §§ 566-566e BGB (Kauf bricht nicht Miete) → § 155 ZVG (Verteilungsplan bis Versteigerung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Bieterangebot/Versteigerung
 
 1. Ist ein Versteigerungstermin angesetzt? (Auftrag des Gerichts, Mieterliste und Zustands-Bericht vorzubereiten)
@@ -98,3 +91,4 @@ Technischer Zustand: [ZUSAMMENFASSUNG]
 Zu beachten für Ersteher: Mietverhältnisse gehen gem. §§ 566 BGB über;
 Sonderkündigungsrecht § 57a ZVG nur innerhalb von 2 Wochen nach Zuschlag.
 ```
+

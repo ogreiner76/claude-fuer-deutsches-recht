@@ -18,12 +18,7 @@ Arbeitsfokus: **K1 aus Chaosordner bauen**. Prüfe diese Anker am Sachverhalt; e
 - `§ 299 Abs. 1 ZPO` — Akteneinsicht.
 - `§ 371 Abs. 1 ZPO` — Augenschein.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill ist für den Moment gedacht, in dem ein Mandant einen ZIP-Ordner mit „final_final_neu.pdf“, Screenshots, Tabellen und E-Mail-Anhängen sendet und in 90 Minuten eine brauchbare Anlagenstaffel entstehen muss.
 
 ## Mindestinput
 
@@ -62,3 +57,4 @@ Dieser Skill ist für den Moment gedacht, in dem ein Mandant einen ZIP-Ordner mi
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
+

@@ -5,10 +5,6 @@ description: "Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfrist
 
 # Special Handling und Eilbedarf
 
-## Arbeitsbereich
-
-Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfe
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Prüfe, ob Special Handling sinnvoll ist. Der Skill behandelt die teure Beschleunigung als Ausnahme für echte Dringlichkeit, nicht als Komfortoption.
-
 ## Prüfpfad
 
 - Dringlichkeitsgrund bestimmen: pending/prospective litigation, Customs matter, Vertragsclosing, Plattformstreit, Lizenzdeadline.
@@ -33,14 +25,6 @@ Prüfe, ob Special Handling sinnvoll ist. Der Skill behandelt die teure Beschleu
 - Begründung knapp und belegbar formulieren.
 - Deposit und Zahlungsweg vorab kontrollieren; Eilbearbeitung nützt nichts, wenn die Anmeldung unvollständig ist.
 - Erwartungsmanagement: beschleunigte Prüfung ist keine Erfolgsgarantie und keine Zusage eines Certificates.
-
-## Output
-
-Eine Entscheidungsvorlage mit Ja/Nein, Begründung, Kosten, Risiken, benötigten Belegen und eCO-Textbaustein.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -52,3 +36,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Business-Lösung ist besser als Klage: takedown, license, settlement, attribution, audit, future-use covenant?
 
 **Mindest-Output:** Litigation-Paket mit claim chart, remedies map, Beweislücken, settlement levers und US-Counsel-Fragen.
+

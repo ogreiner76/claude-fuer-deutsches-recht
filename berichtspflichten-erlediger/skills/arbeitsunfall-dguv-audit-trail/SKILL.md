@@ -5,10 +5,6 @@ description: "Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzei
 
 # Arbeitsunfallanzeige DGUV
 
-## Arbeitsbereich
-
-Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsra
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Betriebe nach Arbeitsunfall.
-
 ## Norm- und Quellenanker
 
 SGB VII; DGUV-Vorgaben live prüfen; ArbSchG.
-
-## Arbeitsfragen
-
-1. Welche Verletzung/Arbeitsunfähigkeit?
-2. Welche BG/Unfallkasse?
-3. Welche Ursachenmaßnahmen?
-
-## Output
-
-Unfallanzeige und Maßnahmenprotokoll.
 
 ## Red Flags
 
@@ -44,10 +26,6 @@ Unfallanzeige und Maßnahmenprotokoll.
 ## Arbeitsstil
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
-
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.
 
 ## Normen und Rechtsprechung
 

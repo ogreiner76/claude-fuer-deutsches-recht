@@ -5,10 +5,6 @@ description: "Qualitätsgate-Prüfung der vollständigen Franchiseakte: Vollstä
 
 # Franchiserecht: Qualitätsgate – Franchiseakte
 
-## Arbeitsbereich
-
-Qualitätsgate-Prüfung der vollständigen Franchiseakte: Vollständigkeit der Systemunterlagen, Kohärenz von Vertrag und Systemhandbuch, Schutzrechtebestand, offene Fristen und finale Plausibilitätsprüfung aller wesentlichen Franchise-Rechtspositionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,14 +53,6 @@ Eine Kanzlei oder ein Franchisegeber möchte vor einem wichtigen Verfahren, eine
 - Verjährungsfristen für ältere Ansprüche wurden nicht in den Fristenkalender aufgenommen; Ansprüche erlöschen.
 - Red-Team-Prüfung entfällt; schwache Stellen im System werden erst im Verfahren sichtbar.
 
-## Output
-
-- Akten-Vollständigkeitscheckliste (alle 51 Themenbereiche)
-- Kohärenz-Report (Vertrag vs. Systemhandbuch)
-- Schutzrechteregister (aktuell)
-- Fristenkalender (komplett)
-- Red-Team-Memo (Top-5-Risiken)
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/305.html
@@ -73,6 +61,7 @@ Eine Kanzlei oder ein Franchisegeber möchte vor einem wichtigen Verfahren, eine
 - https://dejure.org/gesetze/BGB/195.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
 - https://dejure.org/gesetze/HGB/89b.html
+
 ## Vertiefung
 
 Das Qualitätsgate ist der abschliessende Prüfschritt, der sicherstellt, dass kein wesentliches rechtliches Risiko übersehen wurde. Es kombiniert die Erkenntnisse aller vorherigen Skill-Bereiche (fran-001 bis fran-050) und stellt sie in einem integrierten Risikobild zusammen.
@@ -86,7 +75,10 @@ Ein gutes Qualitätsgate identifiziert nicht nur vorhandene Risiken, sondern auc
 - Fristen-Doppelcheck: Jede Frist im System ist mindestens zweimal zu prüfen (Ersterkennung + Kontrolle).
 - Schutzrechte-Refresh: Marken, Domains und Software-Lizenzen immer aktuell halten; keine veralteten Register-Angaben.
 - Systemhandbuch-Versionierung: Alle Versionen des Systemhandbuchs archivieren; welche Version galt bei Vertragsschluss?
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

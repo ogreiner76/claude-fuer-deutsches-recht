@@ -87,15 +87,6 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 
 **Verteidigung:** Eine reine Wertungsjurisprudenz ohne dogmatische Begriffsstrukturen verliert die Vorhersehbarkeit. Die Begriffsjurisprudenz hat den Vorteil der Rechtssicherheit und Gleichbehandlung. Daher ist das heutige Modell ein Mix aus Begriff und Wertung.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Vorlaeufer in der Historischen Rechtsschule.
-- `systematische-auslegung` — pandektistische Wurzeln des Systemdenkens.
-- `interessenjurisprudenz-heck` — Gegenposition.
-- `wertungsjurisprudenz-larenz-canaris` — moderner Mix.
-- `topik-viehweg-vs-systemdenken` — Gegenposition zur Systemgeschlossenheit.
-- `legal-realism-und-critical-legal-studies` — externe Kritik am Systemdenken.
-
 ## Quellen und Stand 05/2026
 
 - Georg Friedrich Puchta, Lehrbuch der Pandekten, Leipzig 1838.
@@ -106,10 +97,3 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

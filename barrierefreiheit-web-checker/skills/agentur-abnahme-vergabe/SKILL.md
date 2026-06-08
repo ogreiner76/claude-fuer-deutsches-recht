@@ -5,10 +5,6 @@ description: "Unterstützt Agentursteuerung, Ausschreibung, Lastenheft und Abnah
 
 # Agentur, Abnahme, Vergabe
 
-## Arbeitsbereich
-
-Unterstützt Agentursteuerung, Ausschreibung, Lastenheft und Abnahme barrierefreier Websites. Formuliert Anforderungen, Akzeptanzkriterien, Nachweis- und Re-Test-Pflichten, Pflegeprozess und Gewährleistungsfragen. Output: Lastenheft oder Abnahmeprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,22 +47,6 @@ Accessibility-Overlay, Plugin oder Widget ersetzt keine barrierefreie Umsetzung.
 - Beurteile nicht nur formal, sondern aus Nutzersicht: Tastatur, Screenreader, Zoom/Reflow, Kontrast, Fehlermeldungen, Zeitlimits und Dokumentzugang.
 - Automatische Scanner sind nur Startpunkt. Markiere False Positives, manuelle Nachpruefung und reproduzierbare Testschritte.
 - Formuliere Fixes als Entwickler-Tickets mit Komponente, Problem, Nutzerwirkung, Normbezug, Prioritaet und Re-Test.
-
-## Ausgabeformat
-
-- Befund.
-- Nutzerwirkung.
-- Norm-/Kriteriumsbezug.
-- Konkreter Fix.
-- Prioritaet und Nachweis für die Dokumentation.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

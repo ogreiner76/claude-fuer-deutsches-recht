@@ -5,10 +5,6 @@ description: "Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrec
 
 # Arbeitsnaher Dienstvertrag im BGB
 
-## Arbeitsbereich
-
-Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Sche
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Zweck
-
-Zivilrechtliche Dienstverträge mit Nähe zum Arbeitsrecht systematisch prüfen: Abgrenzung Arbeitsverhältnis/freier Mitarbeiter, Vergütung, Kündigung und Scheinselbstständigkeit.
 
 ## Normanker
 
@@ -62,6 +54,7 @@ Zivilrechtliche Dienstverträge mit Nähe zum Arbeitsrecht systematisch prüfen:
 - Faktische Weisungsgebundenheit begründet Arbeitnehmereigenschaft unabhängig vom Vertragstext.
 - Vergütungsansprüche können nach § 612 BGB entstehen, auch wenn kein Betrag vereinbart wurde.
 - Sozialversicherungsrechtliche Nachforderungen können rückwirkend vier Jahre betragen.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -69,34 +62,12 @@ Zivilrechtliche Dienstverträge mit Nähe zum Arbeitsrecht systematisch prüfen:
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
 
-## Output
-
-- Einordnungsmemo (Dienstvertrag/Arbeitsvertrag/Werkvertrag) mit Risikoampel
-- Abgrenzungsmatrix tatsächliche Durchführung vs. Vertragslage
-- Fristenkalender für Kündigung und Verjährung
-- Handlungsempfehlung und Lückenliste
-
-## Qualitätsregeln
-
-- Tatsächliche Durchführung immer über formelle Vertragsbezeichnung stellen.
-- Scheinselbstständigkeitsrisiken frühzeitig aufzeigen.
-- Sozialversicherungsrechtliche und steuerliche Parallelrisiken benennen.
-- Keine BAG-Entscheidung ohne Aktenzeichen und frei prüfbare Quelle verwenden.
-
 ## Anschluss-Skills
 
 - dienstvertrag-und-behandlungsvertrag
 - werk-dienst-abgrenzung-erfolg
 - geschaeftsbesorgung-auftrag-mandat
 - workflow-anfangercoach-schuldrecht-bt
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

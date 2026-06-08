@@ -5,10 +5,6 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Au
 
 # Aufsichtsrechtliche Schnellampel KWG ZAG
 
-## Arbeitsbereich
-
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -114,14 +110,6 @@ Fragen zum Einstieg:
 - **Plattform-Vermittlung ohne eigenes Ankaufs-Engagement**: Reine Vermittlung zwischen Verkäufer und Investoren kann erlaubnisfrei sein, sobald aber Treuhandfunktion oder eigene Risikoteilnahme dazu kommt, Erlaubnispflicht.
 - **Crowdinvesting-ähnliche Strukturen**: Wenn Investoren auf Plattform Forderungen kaufen, prüfen ob VermAnlG, WpHG oder KWG einschlägig.
 
-## Querverweise
-
-- `bafin-tatbestand-factoring-laufender-forderungsankauf-rahmenvert`
-- `erlaubnisantrag-32-kwg-unterlagen-geschaeftsleiter`
-- `inkasso-rdg-abgrenzung-forderungsmanagement`
-- `geldwaesche-verdachtsmeldung-monitoring`
-- `factoring-plattformmodelle-fintech-und-api`
-
 ## Quellen Stand 06/2026
 
 - KWG § 1 Abs. 1a Satz 2 Nr. 9, § 2 Abs. 6, § 32, § 33, § 54.
@@ -129,3 +117,4 @@ Fragen zum Einstieg:
 - ZAG §§ 1, 10 zur Zahlungsdiensteaufsicht.
 - GwG §§ 1, 2 Abs. 1 Nr. 6 zur Verpflichteteneigenschaft.
 - Gesetzesbegründung zum Jahressteuergesetz 2009 (Einführung des Factoring-Tatbestands im KWG).
+

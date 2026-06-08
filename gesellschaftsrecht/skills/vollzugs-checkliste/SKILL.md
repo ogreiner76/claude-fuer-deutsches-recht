@@ -5,10 +5,6 @@ description: "Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht –
 
 # Vollzugscheckliste M&A
 
-## Arbeitsbereich
-
-Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: "Vollzugscheckliste", "Closing-Checkliste", "was fehlt noch zum Closing", "Checklisten-Status", "zur Checkliste hinzufügen". Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -488,3 +484,4 @@ Eskalation an: [PERSON / GREMIUM]
 - Er holt keine Zustimmungen ein, stellt keine Anträge, erstellt keine Dokumente. Er verfolgt, dass dies geschehen muss.
 - Er entscheidet nicht, was blockiert — das SPA entscheidet das. Dieser Skill liest das SPA.
 - Er vollzieht den Deal nicht. Er sagt, wann vollzogen werden kann.
+

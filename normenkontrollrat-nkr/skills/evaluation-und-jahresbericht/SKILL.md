@@ -95,14 +95,6 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 - Evaluierungsklausel mit unrealistisch kurzer Frist
 - Wiederholungsfehler aus Vorjahres-Vorhaben
 
-## Querverweise
-
-- `nkr-evaluierung-befristung-sunset-klausel` — Detail-Skill Klauseltechnik
-- `nkr-stellungnahme-evaluationsklausel-vorschlag`
-- `nkr-stellungnahme-pressepolitik-und-jahresbericht`
-- `nkr-one-in-one-out-bilanz-und-buchung`
-- `legistik-werkstatt/inkrafttreten-uebergangsrecht`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 7
@@ -111,3 +103,4 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

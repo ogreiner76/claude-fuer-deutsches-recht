@@ -5,10 +5,6 @@ description: "Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: En
 
 # Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage
 
-## Arbeitsbereich
-
-Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -159,16 +155,10 @@ Datum: _______________ Unterschrift: _______________
 - **Ton:** Sachlich, nicht alarmistisch; Risiken klar, aber ohne unnötige Panikmache.
 - **Timing:** Entscheidungsvorlage immer mit Frist versehen; Mandant braucht Zeitdruck.
 
-## Quellenregel
-
-- Normen für Kostenberechnung: RVG, GKG – [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- DPMA-Gebühren: [dpma.de/service/gebuehren](https://www.dpma.de/service/gebuehren/index.html).
-- EUIPO-Gebühren: [euipo.europa.eu](https://www.euipo.europa.eu/en/trade-marks/fees-and-payments).
-- Keine BeckRS-Blindzitate; konkrete Kostenangaben über offizielle Gebührentabellen prüfen.
-
 ## Anschluss-Skills
 
 - `workflow-mandantenkommunikation` – Mandantenkommunikation Workflow
 - `spezial-gewerblicher-erstpruefung-und-mandatsziel` – Erstprüfung und Zieldefinition
 - `workflow-output-waehlen` – Richtiges Outputformat wählen
 - `spezial-fristen-abschlussprodukt-und-uebergabe` – Fristenverwaltung
+

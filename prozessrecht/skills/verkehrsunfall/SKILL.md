@@ -76,6 +76,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 1. **Sicherung der Beweise** (unmittelbar nach Unfall): Fotos, Polizeiprotokoll, Zeugenangaben,
@@ -102,13 +103,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
  2–4 Wochen; ggf. Mahnung (§ 286 BGB) für Verzugszinsen.
 7. **Klage** beim zuständigen AG/LG: bei Ablehnung oder unzureichendem Angebot; Prozesskostenhilfe
  für einkommenschwache Mandanten prüfen.
-
-## Ausgabeformat
-
-- **Regulierungsschreiben** an Versicherer (vollständige Schadensaufstellung, Fristsetzung)
-- **Schadenstabelle** (Excel/Tabelle: Schadensposten, Betrag, Dokumentation, Quotierung)
-- **Rechtliches Memo** zur Haftungsquote und 130%-Grenze
-- **Klageschrift** bei Scheitern der außergerichtlichen Regulierung
 
 ## Beispiel
 
@@ -159,3 +153,4 @@ Problem : BGH VI ZR 184/10 (NJW 2011, 3237) – WRONG_TOPIC; tatsächlich: Schad
 Maßnahme: Ersetzt durch BGH VI ZR 226/16, 14.03.2017, NJW 2017, 2271 (§ 115 Abs. 2 S. 3 VVG, Direktanspruch, verifiziert auf dejure.org).
 Quelle: https://dejure.org/2011,636
 -->
+

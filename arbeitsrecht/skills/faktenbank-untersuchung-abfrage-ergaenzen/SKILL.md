@@ -5,9 +5,6 @@ description: "Faktenbank Untersuchung Abfrage Ergaenzen im Plugin Arbeitsrecht: 
 
 # Faktenbank Untersuchung Abfrage Ergaenzen
 
-## Arbeitsbereich
-
-**Faktenbank Untersuchung Abfrage Ergaenzen** ordnet den Fall über die tragenden Prüfungslinien: Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche, Beantwortet Fragen gegen ein laufendes, Fügt einer laufenden internen Untersuchung neue Daten hinzu. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Faktenbank Untersuchung Abfrage Ergaenzen im Plugin Arbeitsrecht: 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `rechtsstand-mai-2026-faktenbank`
@@ -39,19 +37,6 @@ description: "Faktenbank Untersuchung Abfrage Ergaenzen im Plugin Arbeitsrecht: 
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Dieser Skill ist kein allgemeines Lehrbuch, sondern das Quellen-Gate für faktische Aussagen im Arbeitsrecht-Plugin. Er wird geladen, wenn der Nutzer nach aktueller Rechtslage, Rechtsprechung, Fristen, Lohn-/Sozialversicherung, Statusfeststellung, Kündigung, AGG, Urlaub oder Freistellung fragt.
-
-Stand dieser Faktenbank: **29.05.2026**. Vor einer konkreten Ausgabe trotzdem Normtext und Rechtsprechung live prüfen, wenn die Aussage fristen-, haftungs- oder streitentscheidend ist.
-
-## Quellenregel
-
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung nur zitieren mit: Gericht, Entscheidungsform, Datum, Aktenzeichen, kurzer tragender Aussage, freier/amtlicher Link.
-- Wenn ein Aktenzeichen nicht frei verifizierbar ist: nicht zitieren, sondern als Recherchebedarf markieren.
-- Literatur nur verwenden, wenn der Nutzer sie hochlädt oder ein lizenzierter Live-Zugriff tatsächlich geöffnet wurde.
 
 ## Verifizierte Rechtsprechungsanker
 
@@ -95,15 +80,6 @@ Jede aktuelle arbeitsrechtliche Antwort enthält am Ende kurz:
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Beantwortet Fragen gegen das Untersuchungsprotokoll — was Zeugen gesagt haben,
-wo Schilderungen im Widerspruch stehen, welche Lücken bestehen, was die
-stärksten Belege zu jeder Untersuchungsfrage sind.
-
-Lädt, wenn der Anwalt das Erkenntnisbild der Untersuchung abfragen möchte,
-ohne alle Protokolleinträge einzeln lesen zu müssen.
 
 ## Eingaben
 
@@ -199,13 +175,6 @@ Für eine Verdachtskündigung nach § 626 BGB: Protokolleinträge nach
 objektiver Schwere und Dringlichkeit des Verdachts auswerten. Anhörung
 der beschuldigten Person dokumentiert? Falls nicht: flaggen.
 
-## Ausgabeformat
-
-Direkte Antwort auf die gestellte Frage, mit Eintrags-IDs in Klammern.
-Bei fehlenden Erkenntnissen: expliziter Hinweis und Angebot zur
-Beweislückendokumentation. Bei Widerspruchsabfragen: tabellarische
-Gegenüberstellung der Einträge mit Beschreibung des Konflikts.
-
 ## Beispiel
 
 ```
@@ -292,16 +261,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Fügt Daten in ein laufendes Untersuchungsprotokoll ein. Verarbeitet
-Dokumentenpakete anhand dokumentierter Auswahlkriterien (§ 26 BDSG —
-Verhältnismäßigkeit), markiert relevante Funde, protokolliert alle
-gesichteten Unterlagen zur Deckungsverifikation.
-
-Lädt, wenn neue Erkenntnisse, Befragungsnotizen oder Dokumentenlieferungen
-für eine laufende Untersuchung zur Verarbeitung eingehen.
 
 ## Eingaben
 
@@ -398,12 +357,6 @@ begründen oder wesentlich vertiefen: Datum des Kenntniserwerbs explizit im
 Protokolleintrag vermerken. Die Zwei-Wochen-Frist für eine außerordentliche
 Kündigung beginnt ab diesem Zeitpunkt zu laufen.
 
-## Ausgabeformat
-
-Zusammenfassung nach Schritt 4 (Zählbericht), dann Aufforderung zur
-Aktualisierung der Quellencheckliste falls zutreffend. Bei
-§ 626 Abs. 2 BGB-relevantem Kenntnisdatum: gesonderter Hinweisblock.
-
 ## Beispiel
 
 ```
@@ -489,16 +442,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Eröffnet eine neue interne Untersuchungssache — führt die strukturierte
-Sachverhaltserfassung durch, generiert die auf den Untersuchungstyp
-zugeschnittene Quellencheckliste und legt das persistente
-Untersuchungsprotokoll an.
-
-Lädt, wenn eine Beschwerde oder ein Hinweis vorliegt und ein strukturierter,
-vertraulicher Untersuchungsarbeitsbereich eingerichtet werden soll.
 
 ## Eingaben
 
@@ -591,24 +534,6 @@ Fristberechnung nach § 626 Abs. 2 BGB (Frist beginnt mit sicherer
 Kenntnis, nicht mit bloßem Verdacht — aber Aufklärung ist zügig
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-Vertraulichkeitsprüfung, dann strukturierte Sachverhaltserfassungs-Abfrage
-in einem Block, dann Quellencheckliste zur Bestätigung durch den Anwalt,
-dann Bestätigung der angelegten Protokolldateien:
-
-```
-Untersuchung eröffnet — [Sachebezeichnung] — [ISO-Datum]
-Protokolldatei: investigation-[slug]/log.yaml
-Quellencheckliste: investigation-[slug]/quellen-checkliste.yaml
-Dokumentenprotokoll: investigation-[slug]/dokumente-geprueft.yaml
-
-Nächste Schritte:
- /arbeitsrecht:untersuchung-ergänzen [slug] — Daten hinzufügen
- /arbeitsrecht:untersuchung-abfrage [slug] — Protokoll abfragen
- /arbeitsrecht:untersuchungs-memo [slug] — Vermerk entwerfen
-```
-
 ## Beispiel
 
 ```
@@ -673,3 +598,4 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 3. Liegt ein Betriebsratsmitglied als Beschuldigte/r vor? (→ § 103 BetrVG beachten)
 4. Schwerbehindert? Werdende Mutter? (→ besonderer Kündigungsschutz)
 5. § 626 Abs. 2 BGB-Uhr: Datum/Uhrzeit der Eröffnung festhalten
+

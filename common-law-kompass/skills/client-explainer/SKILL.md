@@ -5,10 +5,6 @@ description: "Mandant oder Business-Team versteht Common-Law-Konzepte nicht und 
 
 # Mandanten-Erklärer
 
-## Arbeitsbereich
-
-Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklärung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schließen US-Vertrag ab. Prüfraster Verstaendlichkeit Vollständigkeit Wesentliche-Punkte-Abdeckung Risiko-Klarheit. Output verstaendliches Erklärungsschreiben oder Memo für Mandanten. Abgrenzung zu common-law-begriffe-uebersetzung (Fachsprache) und common-law-humor-coach (Ton). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Regelungs- und Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,23 +30,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Management und Business-Team bekommen klare Entscheidungspunkte statt Wörterbuchdogmatik.
-
 ## Wann verwenden
 
 - bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug
 - wenn deutsche Rechtsbegriffe ins Englische übertragen werden
 - wenn UK/US-Unterschiede oder False Friends drohen
-
-## Arbeitsweise
-
-1. **Jurisdiktion fixieren.** Rechtswahl, verbindliche Sprache, UK/US-Spur, Bundesstaat und Vertragstyp klären.
-2. **Begriff funktional prüfen.** Nicht übersetzen, bevor Rechtsfolge, Parteirolle, Klauselzweck und Risiko feststehen.
-3. **False Friends markieren.** Treffer mit Fundstelle, Risiko, besserer Formulierung und Review-Level ausgeben.
-4. **Ton steuern.** Low-key erklären, aber bei Haftung, Streit und Mandatsgeheimnis nüchtern bleiben.
-5. **Qualitätstor setzen.** Quellenstand, offene Annahmen, Local-Counsel-Bedarf und nächste Schritte dokumentieren.
 
 ## Rückfragen, wenn unklar
 
@@ -58,13 +42,6 @@ Management und Business-Team bekommen klare Entscheidungspunkte statt Wörterbuc
 - Welche Partei oder Rolle vertreten wir?
 - Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
 - Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel
-- Prüfmatrix mit Fundstelle, Risiko, Vorschlag und Review-Level
-- anwaltlich prüfbarer Entwurf oder Mandantenhinweis
-- offene Annahmen, Quellenstand und nächste Schritte
 
 ## Typische Fehler vermeiden
 
@@ -122,10 +99,3 @@ FURTHER READING
 [Accessible reference / summary source]
 ```
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

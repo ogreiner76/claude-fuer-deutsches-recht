@@ -5,10 +5,6 @@ description: "Prüft Implementierungsprojekte, Customizing, Konfiguration, Schni
 
 # Implementation und Customizing
 
-## Arbeitsbereich
-
-Prüft Implementierungsprojekte, Customizing, Konfiguration, Schnittstellen, Datenmigration und Verantwortungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,12 +16,6 @@ Prüft Implementierungsprojekte, Customizing, Konfiguration, Schnittstellen, Dat
 ## Fachkern: Implementation und Customizing
 - **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-
-## Zweck
-
-Das Softwarerecht-Plugin ist eine Praxis-Suite für deutsche, europäische, internationale und US-amerikanische Softwaremandate: Entwicklung, Arbeitnehmer/Freelancer, Rechtekette, Lizenzvertrag, SaaS, Open Source, Datenschutz, Cybersecurity, Softwarepatente, AI-Code und Streit.
-
-Dieser Skill macht aus **Implementation und Customizing** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
 
 ## Rechts- und Quellenanker
 
@@ -64,3 +54,4 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 - Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
 - Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
+

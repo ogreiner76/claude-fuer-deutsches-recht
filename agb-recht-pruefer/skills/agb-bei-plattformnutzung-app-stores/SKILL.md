@@ -48,11 +48,6 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 3. AGB-Klausel in Konflikt mit P2B/DMA?
 4. § 307 BGB Generalklausel anwendbar?
 
-## Output
-
-- Klauselraster.
-- Beschwerde-/Klageentwurf.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -81,3 +76,4 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 - AGB-Eigenschaft, Einbeziehung und Inhaltskontrolle in dieser Reihenfolge pruefen; nicht mit § 307 BGB beginnen ohne § 305 BGB zu klaeren.
 - Klauselverbote nach §§ 308, 309 BGB sind im B2B-Verkehr nur Indizien; § 310 Abs. 1 BGB ist nicht 'AGB-Recht light'.
 - Bei Abmahnung Frist und Vertragsstrafenhoehe gegen § 13 Abs. 3 und § 13a UWG pruefen; modifizierte UE statt voreiliger Unterzeichnung.
+

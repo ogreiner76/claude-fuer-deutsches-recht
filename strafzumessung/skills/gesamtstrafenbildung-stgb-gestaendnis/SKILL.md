@@ -116,17 +116,10 @@ Schritt-für-Schritt:
 - **Geldstrafe + Freiheitsstrafe** Umrechnung uebersehen oder falsch (§ 54 Abs. 3 StGB).
 - **Verlautete Bewaehrungsfaehigkeit** bei Gesamtstrafe nahe 2 Jahre uebersehen.
 
-## Querverweise
-
-- `paragraph-46-stgb-grundsatz-strafzumessung` — Einzelstrafen-Bildung.
-- `strafrahmen-und-strafzumessungsstufen` — Strafrahmen vor jeder Einzelstrafe.
-- `nachtraegliche-gesamtstrafenbildung-55-stgb` — wenn Verurteilungen aus verschiedenen Verfahren stammen.
-- `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung` — Sondersituation.
-- `bewaehrung-56-stgb-positive-sozialprognose` — Bewaehrungsperspektive bei Gesamtstrafe.
-
 ## Quellen und Stand 05/2026
 
 - §§ 52, 53, 54 StGB in der geltenden Fassung.
 - §§ 38, 39, 41 StGB.
 - § 267 Abs. 3 StPO Begruendung.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

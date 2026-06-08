@@ -5,10 +5,6 @@ description: "3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern e
 
 # /tabellenreview-3d:excel-multi-sheet-export
 
-## Arbeitsbereich
-
-3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Prüfraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei Multisheet-Struktur. Abgrenzung: nicht PDF-Bericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,10 +23,6 @@ description: "3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern e
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zweck
-
-Excel ist das Lingua Franca der Mandatsübergabe. Der 3D-Würfel wird in Excel nativ abgebildet: jedes Arbeitsblatt ist ein Tabellenreiter — genau das was die dritte Dimension visuell darstellt.
 
 ## Aufbau der Excel-Datei
 
@@ -90,3 +82,4 @@ Reviewlauf-Zeitstempel, verwendete Modell-Version, Laufdauer, Anzahl Zellen, Anz
 ## Grenzen
 
 Excel kann große Stapel handeln; ab 100.000 Zellen sind PDF und CSV pro Reiter zu erwägen (siehe Skill `pdf-bericht-erzeugen`).
+

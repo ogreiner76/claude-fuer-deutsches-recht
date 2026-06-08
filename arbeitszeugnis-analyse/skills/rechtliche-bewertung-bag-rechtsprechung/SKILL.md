@@ -44,14 +44,7 @@ description: "Rechtliche Einordnung von Zeugnisansprüchen nach § 109 GewO und 
 
 **Beispiel 8 – Streitwert und Vertretungspflicht:** Die Streitwertfestsetzung folgt der staendigen Praxis: ein Monatsbruttogehalt, unabhängig von der Anzahl der beanstandeten Sätze. Eine anwaltliche Vertretung ist im ersten Rechtszug vor dem Arbeitsgericht möglich, aber nicht erforderlich. In komplexen Berichtigungsfällen mit mehreren beanstandeten Punkten ist sie ratsam, weil die Wortlautformulierung des Klageantrags entscheidend ist.
 
-## Ausgabeformat
-
-Der Skill gibt eine rechtliche Einordnung des Zeugnisses aus: Welche Berichtigungsansprüche bestehen, wie die Beweislast verteilt ist, welche Schritte für eine anwaltliche Zeugnisklage sinnvoll sind und welche Formulierungen nach BAG-Rechtsprechung nicht haltbar sind. Kein Ersatz für anwaltliche Prüfung im Einzelfall.
-
 ## Ergänzende Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

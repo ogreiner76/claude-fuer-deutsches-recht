@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Eigentumsvorbehalt (EV) im internati
 
 # Eigentumsvorbehalt International
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Eigentumsvorbehalt (EV) im internationalen Handel. Einfacher, erweiterter und verlängerter Eigentumsvorbehalt, Wirksamkeit nach ausländischem Sachenrecht, Kollisionsrecht (lex situs), Registrierungspflichten und UCC Art. 9 (USA). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Der Eigentumsvorbehalt (EV) ist das wichtigste Kreditsicherungsmittel des deutsc
 - Verlängerter EV: Übersicherungs-Verbot (§ 138 BGB) bei Kombination mit Bank-Abtretungen prüfen
 - Insolvenzschutz: EV immer in Vertrag und AGB klar formulieren (AGR § 449 BGB)
 
-## Output
-
-- EV-Wirksamkeit-Checkliste für Top-Exportländer (USA, UK, Frankreich, China)
-- UCC-1 Filing-Schritt-für-Schritt-Anleitung
-- Verlängerter-EV-Klausel-Muster
-
 ## Quellenregel
 
 BGB §§ 449, 138: gesetze-im-internet.de. UCC Art. 9: uniform.law.cornell.edu (US). CISG Art. 4: uncitral.un.org. Schrifttum: Staudinger/Beckmann, BGB § 449 (2020). Unsicherheit bleibt sichtbar.
+

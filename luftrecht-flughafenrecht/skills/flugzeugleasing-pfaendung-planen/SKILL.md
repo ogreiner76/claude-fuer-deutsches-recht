@@ -5,10 +5,6 @@ description: "Leasinggeber will nach Zahlungsausfall das Flugzeug zuruecknehmen 
 
 # Flugzeugleasing – Pfändung planen
 
-## Arbeitsbereich
-
-Leasinggeber will nach Zahlungsausfall das Flugzeug zuruecknehmen oder Glaeubiger will in geleaste Flugzeuge vollstrecken. Prueft Cape-Town-Convention Art. 8-10 Remedies IDERA LuftFzgG ZPO-Vollstreckungsrecht und InsO § 89 Vollstreckungssperre und liefert Rücknahme-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ Cape Town Convention Art. 8-10 Aircraft Protocol Art. IX IDERA LuftFzgG ZPO InsO
 - **Cape Town Aircraft Protocol Art. XII**: Prioritäten konkurrierender Sicherungsrechte im internationalen Register.
 - **LuftFzgG § 3**: Entstehung des Pfandrechts; Eintragungszeitpunkt als Prioritätsregel.
 - **InsO § 47**: Aussonderungsrecht des Leasinggebers; Priorität gegenüber Insolvenzgläubigern.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -56,6 +53,7 @@ Cape Town Convention Art. 8-10 Aircraft Protocol Art. IX IDERA LuftFzgG ZPO InsO
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist eine IDERA (Irrevocable Deregistration and Export Request Authorisation) im Cape-Town-Register eingetragen?
 8. Hat Leasinggeber wirksam nach InsO § 47 Aussonderung geltend gemacht?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -74,9 +72,6 @@ Die Pfändung eines Luftfahrzeugs erfordert besondere Vorbereitung:
 - **Betriebsunterbrechung**: Pfändung eines Linienflugzeugs löst Betriebsunterbrechung aus; Schadensersatz bei unberechtigtem Arrest.
 - **Cape Town Priorität**: Vor Pfändung ICAO-Register prüfen; vorrangige Sicherungsinteressen können Arrest verhindern.
 
-## Output
-
-Rücknahme-Strategie-Vermerk. IDERA-Entregistrierungsablauf. Insolvenz-Reaktions-Checkliste. Cape-Town-Registrierungs-Checkliste. Aussonderungsvermerk bei Insolvenz.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -104,3 +99,4 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

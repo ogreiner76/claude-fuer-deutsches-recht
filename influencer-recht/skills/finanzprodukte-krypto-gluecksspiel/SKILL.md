@@ -5,10 +5,6 @@ description: "Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin
 
 # Influencer-Recht: Finanzprodukte, Krypto-Affiliate und BaFin-Risiko
 
-## Arbeitsbereich
-
-Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Finanzprodukt-Werbung durch Creator ist eines der rechtlich gefährlichsten Bere
 - Interessenkonflikt-Offenlegungstext
 - Ablehnungsschreiben an risikoreichen Brand
 - Compliance-Checkliste für Finanz-Kooperation
+

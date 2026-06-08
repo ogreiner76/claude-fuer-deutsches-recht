@@ -5,10 +5,6 @@ description: "ZAG-Red-Team nach BaFin-Arbeitslogik: Zahlungsfluss, Positivkatalo
 
 # ZAG Payment-Flow Red-Team
 
-## Zweck
-
-Anwendungsfall: ein Bank-, FinTech-, Plattform-, Wallet-, Karten-, Loyalty-, Merchant-, Mobility- oder Embedded-Finance-Modell nach ZAG eingeordnet werden muss. Der Skill soll nicht beruhigen, sondern die aufsichtsrechtlich gefährliche Stelle finden: Wer nimmt Geld an, wer führt eine Zahlung aus, wer kontrolliert Konten oder Zahlungsinstrumente, und wer versucht, eine Ausnahme zu weit zu ziehen?
-
 ## Start in drei Minuten
 
 1. Zeichne den Zahlungsfluss als Tabelle: Zahler, Empfänger, Bankkonto, Treuhandkonto, Wallet, Plattformkonto, Dienstleister, Zeitpunkt der Verfügungsmacht.
@@ -61,17 +57,7 @@ Behandle Ausnahmen als Verteidigungslinie, nicht als Ausgangspunkt.
 6. Ist der angebliche technische Dienstleister in Wahrheit Gatekeeper der Zahlung?
 7. Ist ein Token/Voucher wegen Drittakzeptanz und Rücktausch eher E-Geld?
 
-## Output
-
-Erzeuge:
-
-- Flow-of-Funds-Tabelle.
-- ZAG-Positivkatalog mit Treffer/kein Treffer.
-- Ausnahme-Red-Team mit Ampel.
-- Erlaubnis-/Registrierungs-/Anzeigeweg.
-- Liste der fehlenden Unterlagen für BaFin/Bundesbank.
-- Entscheidungssatz für Produktfreigabe: `Go`, `Go nur mit Auflagen`, `BaFin-Vorabklärung`, `Stop bis Erlaubnisroute geklärt`.
-
 ## Quellenanker
 
 Nutze `references/zag-dora-inhkontrolle-crr-arbeitskern.md` und prüfe vor tragenden Aussagen die aktuelle ZAG-Fassung bei Gesetze im Internet sowie das aktuelle BaFin-Merkblatt zu ZAG und Zahlungsdiensten.
+

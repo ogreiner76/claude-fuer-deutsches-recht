@@ -5,10 +5,6 @@ description: "Zusammenspiel öffentlicher Insolvenzbekanntmachungen und privater
 
 # Insolvenzbekanntmachungen und Auskunfteien
 
-## Arbeitsbereich
-
-Zusammenspiel öffentlicher Insolvenzbekanntmachungen und privater Auskunfteien: Veröffentlichung, Abruffrist, Weiterverarbeitung und Löschdruck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -25,23 +21,9 @@ Zusammenspiel öffentlicher Insolvenzbekanntmachungen und privater Auskunfteien:
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Einsatz
-
-Für Beratung zur Frage, was nach Ende der öffentlichen Bekanntmachung privat weiter gespeichert werden darf.
-
 ## Norm- und Quellenanker
 
 InsO; InsBekV; DSGVO Art. 5, 6, 17; EuGH C-26/22/C-64/22.
-
-## Arbeitsfragen
-
-1. Welche Veröffentlichung ist betroffen?
-2. Welche gesetzliche Abruffrist?
-3. Welche private Weiterverarbeitung?
-
-## Output
-
-Register-/Auskunftei-Matrix und Rechtsargumentation.
 
 ## Red Flags
 
@@ -52,3 +34,4 @@ Register-/Auskunftei-Matrix und Rechtsargumentation.
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

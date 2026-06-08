@@ -5,10 +5,6 @@ description: "EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvorausset
 
 # EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen
 
-## Arbeitsbereich
-
-EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrelevanz für Unternehmen bei chinesischen Gegenmaßnahmen. Output: ACI-Prüfschema und Eskalationspfad. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,13 +79,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
-
-## Output
-
-Prüfbericht Anti Coercion Instrument, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
 
 ## Quellen
 

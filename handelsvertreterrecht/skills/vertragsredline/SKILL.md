@@ -5,10 +5,6 @@ description: "Unterstützt beim Redigieren und Verhandeln von Handelsvertreterve
 
 # Vertragsredline für den Handelsvertretervertrag nach §§ 84–92c HGB
 
-## Arbeitsbereich
-
-Unterstützt beim Redigieren und Verhandeln von Handelsvertreterverträgen: systematisches Redline-Verfahren für Klauseln zu Provision, Ausgleich, Kündigung, Wettbewerbsverbot und AGB, Prüfung auf Konformität mit §§ 84–92c HGB sowie Erstellung eines kommentierten Gegenentwurfs. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Wettbewerbsverbot ohne Karenzentschädigung — nach § 90a Abs. 2 HGB unverbindlich.
 - AGB-Klauseln intransparent oder unangemessen — nach § 307 BGB nichtig.
 
-## Output
-
-Redline-Kommentar, Gegenentwurf Handelsvertretervertrag, Verhandlungsempfehlungen.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 90a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__90a.html)
 - [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
 - [Dejure § 92c HGB](https://dejure.org/gesetze/HGB/92c.html)
+

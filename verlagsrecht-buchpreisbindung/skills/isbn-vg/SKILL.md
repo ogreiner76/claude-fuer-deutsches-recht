@@ -5,10 +5,6 @@ description: "Verlagsrecht und Buchhandel: ISBN-Vergabe, Metadatenpflege, VLB-Me
 
 # Verl-016 · ISBN, Metadaten, VLB und Meldeprozesse
 
-## Arbeitsbereich
-
-Verlagsrecht und Buchhandel: ISBN-Vergabe, Metadatenpflege, VLB-Meldeprozesse und bibliothekarische Pflichtablieferung — rechtliche Anforderungen und Praxisstandards. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -136,3 +132,4 @@ ISBN, Metadaten und VLB-Einträge sind das **operative Rückgrat** des deutschen
 - **Pflichtablieferungs-Checkliste**: DNB + Landesbibliotheken pro Titel
 - **ONIX-Qualitätsprüfbericht**: Fehlende und fehlerhafte Felder
 - **ISBN-Vergabe-Register**: Alle vergebenen ISBNs mit Zuordnung
+

@@ -103,12 +103,6 @@ Freigegeben: [Berufstraeger]
 - Bei drohenden Verlusten oder negativem Eigenkapital: Eskalation an Berufstraeger.
 - Querverweis stb-bwa-sus-bilanz-pruefung und § 102 StaRUG-Pruefung.
 
-## Output
-
-- Vorlaeufige BWA mit klar gekennzeichnetem Vermerk.
-- Schaetzungsliste in Mandantenakte.
-- Hochrechnung Jahresende mit Szenarien.
-
 ## Strategie und Praxis-Tipps
 
 - Vorlaeufigkeitsvermerk ist nicht nur Haftungsschutz, sondern auch Mandanten-Erziehung — der Mandant lernt, dass das Quartal nicht der Jahresabschluss ist.
@@ -116,14 +110,6 @@ Freigegeben: [Berufstraeger]
 - Bei wiederkehrenden Bankgespraechen Vorlaeufigkeit nicht jedes Mal neu erklaeren — einmaliger Schulungstermin mit dem Bankberater.
 - Honoraranknuepfung: Quartals-BWA als Zusatzauftrag StBVV § 35 oder Pauschalvereinbarung.
 - Bei wesentlichen Korrekturen zwischen Quartal und Jahresabschluss Mandanten proaktiv informieren — Vertrauensschutz.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-bwa-zeitlicher-vergleich-jahresvergleich` — Vorjahresvergleich.
-- `stb-jahresabschluss-vorbereitung-stichtag` — Jahresabschluss.
-- `stb-bwa-fehlerquellen-haeufig` — Fehlerquellen.
-- `stb-bwa-sus-bilanz-pruefung` — Krisensignale.
 
 ## Quellen und Updates
 
@@ -135,10 +121,3 @@ Stand: 05/2026.
 - IDW PS 480, IDW S 7.
 - BMF v. 28.11.2019 zu GoBD.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

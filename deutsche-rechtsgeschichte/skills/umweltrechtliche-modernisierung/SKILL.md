@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Umweltrechtliche Modernisierung. Erste 
 
 # Umweltrechtliche Modernisierung
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Umweltrechtliche Modernisierung. Erste Umweltschutzgesetze 1970er, BImSchG 1974, WHG 1957, Umweltschutz im GG (Art. 20a seit 1994) und EU-Umweltrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das moderne Umweltrecht ist ein Kind der zweiten Haelfte des 20. Jh. Zwar gab es
 - GG Art. 20a: gesetze-im-internet.de; BVerfGE 157, 30: bverfg.de
 - EU-WRRL: eur-lex.europa.eu
 
-## Output
-
-- Zeitleiste Umweltrecht: 1970-2021
-- BImSchG: Kernanforderungen und Genehmigungsverfahren historisch
-- GG Art. 20a und BVerfGE 157, 30 (Klimaurteil): Kernaussagen
-
-## Quellenregel
-
-BImSchG und WHG: gesetze-im-internet.de. GG Art. 20a: gesetze-im-internet.de. BVerfGE 157, 30: bverfg.de. EU-WRRL: eur-lex.europa.eu.

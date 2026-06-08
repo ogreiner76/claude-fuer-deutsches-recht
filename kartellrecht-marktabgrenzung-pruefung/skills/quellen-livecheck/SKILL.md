@@ -9,7 +9,6 @@ description: "Quellen-Live-Check für Kartellrecht-Marktabgrenzung: prüft Norme
 
 Dieser Quellen-Livecheck für **Kartellrecht Marktabgrenzung Prüfung** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `1-gwb-kartellverbot-nationale-pruefung` — 1 GWB Kartellverbot Nationale Pruefung
@@ -36,12 +35,9 @@ Dieser Quellen-Livecheck für **Kartellrecht Marktabgrenzung Prüfung** trennt a
 - Dynamische Bereiche im Kartellrecht Marktabgrenzung Pruefung (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
 - Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
-## Output
-
-Quellenkarte mit Primärnormen, Rechtsprechungssuche (Gericht/Datum/Az/Rn), Behördenstand und Zitierform nach `references/zitierweise.md`.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

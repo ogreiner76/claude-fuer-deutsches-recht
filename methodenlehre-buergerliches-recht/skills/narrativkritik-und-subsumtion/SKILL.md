@@ -53,10 +53,6 @@ description: "Analysiert den Einfluss von Narrativen und Framings auf die jurist
 - Tatbestandsmerkmale werden zu eng auf buchstäbliche Fakten reduziert — normative Wertungselemente sind ebenfalls tatbestandsrelevant.
 - Narrativkritik wird eingesetzt, um unerwünschte emotionale Elemente aus dem Sachverhalt zu verdrängen, die eigentlich rechtlich relevant sind.
 
-## Output
-
-Das Skill liefert eine Narrativkritik-Analyse: Identifikation des Narrativs, Dekonstruktion der Sachverhaltsrahmung, tatbestandszentrierte Reformulierung, Subsumtionsvergleich und Formulierungsvorschlag für die narrative Gegendarstellung. Verwendbar als Werkzeug für Schriftsatzkritik, als Anlage zu Gutachten und für wissenschaftliche Methodenanalysen.
-
 ## Vertiefung: Narrativkritik in der Urteilsanalyse
 
 Narrativkritik ist nicht nur ein Instrument gegen die Gegenseite, sondern auch ein Werkzeug der Urteilsanalyse: Richterliche Urteilsnarrative können eine bestimmte Sichtweise auf den Fall kanonisieren, die für zukünftige Präjudizien prägend ist. Die Analyse dieser Narrative hilft, die implizite Wertungsrichtung eines Urteils zu verstehen und gegebenenfalls durch distinguishing zu entkräften.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 3 GG – Gleichheitssatz](https://dejure.org/gesetze/GG/3.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

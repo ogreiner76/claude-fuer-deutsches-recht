@@ -5,10 +5,6 @@ description: "Schnelle Ist-das-ein-Problem?-Antwort für die schnelle Slack-Frag
 
 # /ist-das-ein-problem – Schnellprüfung
 
-## Arbeitsbereich
-
-Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt "ist das ein Problem", "kurze Frage", "können wir X machen", "brauche ich rechtliche Prüfung für", "Plausibilitätsprüfung", oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -40,12 +36,6 @@ Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster
 ## Zielort-Prüfung
 
 Vor der Ausgabe prüfen wohin sie geht. Wenn der Nutzer ein Ziel genannt hat (einen Kanal, eine Verteilerliste, eine Gegenpartei, "alle"), fragen ob es innerhalb des Vertrauenskreises liegt.
-
-## Zweck
-
-Die meisten "schnellen Rechtsfragen" im Slack-Kanal sind eines von drei Dingen: (a) kein Problem, schnell sagen, (b) eine echte Sache die einen echten Blick braucht, weiterleiten, (c) etwas das in Ordnung aussieht aber eine Falle hat, die Falle erwischen. Dieser Skill sortiert in unter fünf Minuten anhand der Kalibrierungstabelle.
-
-Das Ziel ist Geschwindigkeit. Der PM fragte um 16:47 Uhr. Er will eine Antwort, kein Memo.
 
 ## Kalibrierung laden
 
@@ -164,3 +154,4 @@ Typische Schnellzitate für häufige Konstellationen:
 
 <!-- AUDIT 27.05.2026 -->
 <!-- BGH VI ZR 405/18 (claimed: Nutzungsrechte für AI-Training, Zweckbindung): WRONG_TOPIC. Urteil existiert (dejure.org/2020,20251, 27.07.2020, NJW 2020, 3436), behandelt aber Delisting-Ansprueche gegen Suchmaschinenbetreiber (Recht auf Vergessenwerden, Art. 17 DSGVO). Kein Bezug zu AI-Training. BGH-Zitat aus Tabellenzeile entfernt; DSGVO Art. 5 Abs. 1 lit. b Verweis beibehalten. -->
+

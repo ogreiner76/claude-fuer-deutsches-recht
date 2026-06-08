@@ -53,10 +53,6 @@ description: "Leitet durch die methodisch korrekte Einbeziehung von Folgenargume
 - Die Grenze zwischen zulässiger Normzweckorientierung und unzulässiger rechtspolitischer Gestaltung wird nicht gezogen.
 - Systemische Folgen (Präzedenzwirkung für ähnliche Fälle) werden bei der Folgenabwägung nicht berücksichtigt.
 
-## Output
-
-Das Skill liefert eine Folgenanalyse für die Auslegungsentscheidung: Identifikation der konkurrierenden Auslegungsalternativen, empirische Bewertung der prognostizierten Folgen, methodische Einordnung der Folgenorientierung und Formulierungsvorschlag für die begründete Entscheidung. Geeignet für Gutachten, Schriftsätze und wissenschaftliche Beiträge zur Methodenlehre.
-
 ## Vertiefung: Ökonomische Analyse als Folgenorientierungsinstrument
 
 Die ökonomische Analyse des Rechts ist ein wichtiges Instrument der Folgenorientierung: Sie fragt, welche Auslegung zu den effizientesten Ergebnissen führt und Fehlanreize minimiert. Im deutschen Recht ist die ökonomische Analyse anerkanntes Auslegungshilfsmittel, aber kein primärer Auslegungsmaßstab. Sie kann die teleologische Auslegung stützen, wenn Normzweck und ökonomische Effizienz übereinstimmen.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 65, 1 – Volkszählung, zu empirischen Grundlagen staatlicher Entscheidungen](https://www.bverfg.de/e/rs19831215_1bvr020983.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

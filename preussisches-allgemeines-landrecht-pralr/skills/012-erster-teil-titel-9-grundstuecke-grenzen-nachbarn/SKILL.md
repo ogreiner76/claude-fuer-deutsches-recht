@@ -5,10 +5,6 @@ description: "PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn im Preuß
 
 # PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn
 
-## Arbeitsbereich
-
-PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn. Arbeite entlang dieser
 - Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Erster Teil Titel 9 Grundstücke Grenzen Nachbarn** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
 ## Kaltstart in 6 Fragen
 
@@ -73,10 +65,3 @@ ALR I 9 / I 22 / I 23 regelt Grundstuecksrecht, Grenzen, Nachbarrecht, Notwege, 
 2. Eintragungen im Grundbuch (Altrecht ja/nein)?
 3. Heute Landesnachbarrecht und § 906 BGB anwenden, ALR nur als historischer Bezug.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

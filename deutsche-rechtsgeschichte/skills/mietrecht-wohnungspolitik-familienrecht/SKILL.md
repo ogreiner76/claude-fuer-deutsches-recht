@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisc
 
 # Mietrecht und Wohnungspolitik historisch
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das Mietrecht des BGB 1900 (§§ 535-597 a.F.) war ein reines Schuldvertragsrech
 - BGB Mietrecht aktuell: gesetze-im-internet.de
 - BGH-Mietrechtsprechung: bgh.de (VIII. Zivilsenat)
 
-## Output
-
-- Zeitleiste Mietrecht: 1900-2001
-- Kuendigungsschutz: Entwicklung von 0 (1900) zu umfassendem Mieterschutz
-- BGH-Kernsaetze zum Mietrecht
-
-## Quellenregel
-
-BGB Mietrecht: gesetze-im-internet.de (aktuell); Mugdan Bd. II (historisch). Mieterschutzverordnung 1917: RGBl. 1917 via ALEX/OeNB. BGH: bgh.de. Mietrechtsreform 2001: BGBl. I 2001, 1162.

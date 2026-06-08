@@ -5,10 +5,6 @@ description: "Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab 
 
 # Das Kognitionsverfahren (cognitio extra ordinem)
 
-## Arbeitsbereich
-
-Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -71,13 +67,3 @@ Die cognitio extra ordinem ist das kaiserliche/amtliche Gerichtsverfahren, das s
 - Kaser/Hackl Zivilprozessrecht §§ 80-105
 - Marotta Multa de iure sanxit - kaiserliche Rechtsgebung
 
-## Output
-
-- Schema: Kognitionsverfahren vs. Formularprozess
-- Appellationswege: Diagramm
-- Memo: Reskript als Rechtsquelle
-- Historische Entwicklung: Übergang vom Formularprozess
-
-## Quellenregel
-
-D. 49.1; C. 7.62-70; Nov. 82 (Mommsen-Krüger). Kaser/Hackl Zivilprozessrecht.

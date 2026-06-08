@@ -5,10 +5,6 @@ description: "Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln o
 
 # NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen
 
-## Arbeitsbereich
-
-Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln oder Kanzlei will aus mehreren NDAs einen eigenen Standard destillieren. NDA-Verhandlungshilfe. Modus A Destillation: 1 bis n eigene NDAs in konsolidierten Haltelinien-Standard mit Ampelmatrix ROT/GELB/GRUEN. Modus B Redlining: Gegenseiten-Entwurf gegen Standard chirurgisch mit echten Word-Tracked-Changes (w:ins und w:del Laufebene) ueberarbeiten — minimalinvasiv keine Absatzlöschungen. Output: Standard-NDA-Haltelinien oder redigiertes DOCX mit Tracked Changes. Abgrenzung zu ip-klausel-prüfung (IP-Klauseln) und vertragsrecht-plugin allgemein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -43,9 +39,6 @@ Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln oder Kanzlei wi
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann diesen Skill aufrufen
 
 Wenn der Anwender (typischerweise als Inhouse-Jurist oder externer Anwalt der **empfangenden Seite**) entweder seinen eigenen NDA-Standard erst noch **erarbeiten** muss oder einen NDA-Entwurf der Gegenseite bekommen hat, den er **nicht durch einen eigenen Entwurf ersetzen** kann oder will, aber dessen interne Haltelinien er dennoch durchsetzen muss.
@@ -294,3 +287,4 @@ Für Modus B (Redlining):
 - "NDA Redlining gegen unsere Ampelmatrix, behutsam."
 - "Wir sind Receiving Party, die andere Seite hat vorgelegt. Standard durchsetzen ohne neue Absätze."
 - "Bitte nur Wortänderungen, keine ganzen Klauseln neu schreiben."
+

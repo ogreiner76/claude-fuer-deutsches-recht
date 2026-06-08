@@ -5,10 +5,6 @@ description: "Versandhandelserlaubnis EU Versandapotheke: prüft die einschlägi
 
 # Versandhandelserlaubnis EU Versandapotheke
 
-## Arbeitsbereich
-
-Versandhandelserlaubnis EU Versandapotheke: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -107,16 +103,6 @@ Eingaben:
 - Beratungssystem ist nur formell — keine echte Erreichbarkeit, keine Dokumentation.
 - EU-Apotheke verschickt an Patient in D ohne Anerkennung — Aufsichtsbeanstandung, ggf. wettbewerbsrechtliche Unterlassungsklage.
 
-## Querverweise
-
-- `versandhandel-und-e-rezept-intake` (operativer Workflow)
-- `e-rezept-ti-gematik-apothekenprozess` (TI-Anbindung)
-- `securpharm-faelschungsschutz` (Verifikation)
-- `kuehlkette-temperaturmonitoring-gdp` (Kühlkette)
-- `preisbindung-arzneimittel-ampreisv` (Preisbindung)
-- `onlinewerbung-hwg-apotheken` (HWG)
-- `digitale-plattformen-marktplatz-apothekenrecht` (Plattformen)
-
 ## Quellen Stand 06/2026
 
 - ApoG § 11a; AMG § 73 Abs. 1 Nr. 1a.
@@ -125,3 +111,4 @@ Eingaben:
 - EuGH, staend. Rspr. (DocMorris-Komplex).
 - BGH, staend. Rspr. zur Preisbindung im EU-Versandhandel (vom Anwender zu verifizieren Aktualität).
 - Landesaufsichtsbehörden — Erlaubnisleitfäden (vom Anwender zu verifizieren).
+

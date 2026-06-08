@@ -106,10 +106,8 @@ Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt f
 - Streitwert: §§ 41, 48 GKG, § 3 ZPO
 - Vollstreckbarkeit: §§ 708 ff. ZPO
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Audit-Hinweis
 
 Audit durchgefuehrt am 27.05.2026. Drei halluzinierte Aktenzeichen im Abschnitt "Aktuelle Rechtsprechung" geprueft und korrigiert:
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

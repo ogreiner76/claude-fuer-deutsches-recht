@@ -5,10 +5,6 @@ description: "Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audi
 
 # Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung
 
-## Arbeitsbereich
-
-Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -122,3 +118,4 @@ Verlage müssen für jede **Ausgabeform** (Print, E-Book, Hörbuch, Audiostream,
 - **Plattformvertrags-Check**: KDP, Apple, Audible, Spotify — Compliance
 - **Honorarübersicht**: Tantiemensätze je Ausgabe
 - **Checkliste unbekannte Nutzungsarten** für Altverträge (§ 31a UrhG)
+

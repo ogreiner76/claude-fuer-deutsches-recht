@@ -5,10 +5,6 @@ description: "Römisches Recht: Culpa Dolus Custodia. Geführter Fachmodul mit Q
 
 # Culpa Dolus Custodia
 
-## Arbeitsauftrag
-
-Dieser Skill bearbeitet **Culpa Dolus Custodia** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
-
 ## Sofortsortierung
 
 1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
@@ -37,17 +33,6 @@ Dieser Skill bearbeitet **Culpa Dolus Custodia** im Plugin **Römisches Recht**.
 - Quellen- und Belegmatrix
 - Risikoampel mit nächstem Schritt
 - Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
-
-## Red-Team-Fragen
-
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
-
-## Quellenregel
-
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
 
 ## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
 
@@ -81,3 +66,4 @@ Sachverhalt: A schickt Lebensmittel-Lieferung; B als Spediteur verliert sie durc
 Sachverhalt: B leiht Pferd; auf der Reise wird er von Feinden ueberfallen; Pferd genommen.
 - **Roemisch**: commodatum; vis maior (feindlicher Angriff); B nicht haftbar (D. 13.6.18).
 - **BGB**: § 598 BGB Leihvertrag; § 604 BGB Rueckgabepflicht; § 280 BGB iVm § 276 BGB Verschuldenshaftung. **Entleiher haftet für jede Fahrlaessigkeit** — bei einfacher Fahrlaessigkeit Wertersatz, bei vis maior (Feindangriff) entfaellt das Verschulden. Hinweis: § 599 BGB privilegiert den **Verleiher** (unentgeltliches Geschaeft) auf Vorsatz und grobe Fahrlaessigkeit; der Entleiher bleibt voll sorgfaltspflichtig.
+

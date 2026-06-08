@@ -5,10 +5,6 @@ description: "Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Ent
 
 # KI-Dienstleister nach § 43e BRAO in der Praxis
 
-## Arbeitsbereich
-
-Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Enterprise-Tool, Kanzleiinfrastruktur und Einzelmandats-Tool trennen; Erforderlichkeit, Verschwiegenheit, § 203 StGB, No-Training, Drittstaat, Mandanteninformation und Kanzleivermerk praxisnah prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,15 +47,3 @@ Behandle KI nicht als Zauberwort, sondern als Dienstleisterfrage: Wer bekommt we
 - **Gelb:** Vertrag ist grundsätzlich brauchbar, aber Telemetrie, Supportzugriffe, Subunternehmer, Löschfristen oder Mandanteninformation sind unklar.
 - **Rot:** Public Tool mit Mandatsdaten, Training/Produktverbesserung mit Aktenmaterial, unkontrollierte Drittstaatkette, keine Textformverpflichtung oder keine anwaltliche Endkontrolle.
 
-## Output
-
-Erstelle einen Kanzleivermerk mit:
-
-- Toolrolle und Datenflussdiagramm in Worten
-- §-43e-Erforderlichkeitsnotiz
-- Vertragslückenliste
-- No-Training-/Telemetrie-Vermerk
-- Drittstaat- und Subunternehmermatrix
-- Entscheidung: freigeben, nur anonymisiert nutzen, nachverhandeln oder sperren
-
-Schalte bei Vertragsdetails das Plugin `berufsrecht-ki-vertragspruefung` zu.

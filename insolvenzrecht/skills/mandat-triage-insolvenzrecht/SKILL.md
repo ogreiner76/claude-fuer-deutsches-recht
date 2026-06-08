@@ -39,10 +39,6 @@ Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant ist Geschäftsfüh
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Insolvenz-Mandate sind hochzeitkritisch — die Drei-Wochen-Frist § 15a InsO ist strafbewehrt. Triage stellt sofort fest, ob die Antragspflicht akut ist.
-
 ## Ablauf — acht Fragen
 
 ### Frage 1 — Mandantenrolle?
@@ -192,3 +188,4 @@ Insolvenz-Mandate sind hochzeitkritisch — die Drei-Wochen-Frist § 15a InsO is
 - **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer; bei Hinweisen auf Strohmann-/Firmenbestattungs-Konstellation Mandantenrolle besonders sorgfältig prüfen.
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
 - **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung; bei Geschäftsführerhaftung Deckung gesondert prüfen.
+

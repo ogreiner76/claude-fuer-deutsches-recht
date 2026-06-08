@@ -5,10 +5,6 @@ description: "Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing,
 
 # Club Deal und Investorenkonsortium
 
-## Arbeitsbereich
-
-Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,13 +86,6 @@ Deadlock (Stufenmodell):
 - MAR-Insider-Register erst nach Signing — Marktmissbrauchsrisiko.
 - Wettbewerber-Konsortium ohne Information Firewall.
 
-## Querverweise
-
-- pe-015 für SPV-Strukturen und Co-Invest.
-- pe-022 für LOI und Process Letter im Konsortium.
-- pe-026 für FDI / Kartellrecht.
-- pe-040 ff. für Closing-Koordination.
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 705 ff. (GbR); GmbHG; AktG.
@@ -105,3 +94,4 @@ Deadlock (Stufenmodell):
 - WpÜG §§ 33 ff. bei börsennotiertem Target.
 - BGH ständige Rechtsprechung zu Russian Roulette / Texas Shoot-Out (konkrete Az. vom Anwender zu verifizieren).
 - ICC / DIS Schiedsklauseln (Mustertext jeweils aktuelle Fassung).
+

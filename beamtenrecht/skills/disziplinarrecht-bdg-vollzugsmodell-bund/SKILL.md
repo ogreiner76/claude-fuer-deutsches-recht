@@ -5,10 +5,6 @@ description: "Bundesdisziplinarrecht nach der BDG-Novelle 2024: Vollzugsmodell, 
 
 # BDG 2024 - Vollzugsmodell und Disziplinarverfügung
 
-## Arbeitsbereich
-
-Bundesdisziplinarrecht nach der BDG-Novelle 2024: Vollzugsmodell, Disziplinarverfügung, Entfernung, Rechtsschutz, fehlende automatische Suspensivwirkung, Verfassungstreue und Verfahrensbeschleunigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,3 +71,4 @@ Kein Output ohne:
 - Anhörungslage;
 - Strafverfahrensstand;
 - Rechtsschutzfrist.
+

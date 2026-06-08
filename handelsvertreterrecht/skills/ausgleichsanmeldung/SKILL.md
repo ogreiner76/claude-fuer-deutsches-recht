@@ -5,10 +5,6 @@ description: "Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs 
 
 # Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB
 
-## Arbeitsbereich
-
-Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB: Einhaltung der Jahresfrist ab Vertragsende, Inhalt und Form der Anmeldung, Wahrung gegenüber dem Unternehmer und Rechtsfolgen bei Fristversäumnis; Musterschreiben für Handelsvertreter und Unternehmerseite. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Falscher Adressat: Anmeldung geht an Niederlassung statt an Hauptsitz des Unternehmers.
 - Fristbeginn falsch berechnet: Nicht Kündigungsdatum, sondern Datum der Vertragsbeendigung ist maßgeblich.
 
-## Output
-
-Muster-Anmeldungsschreiben Ausgleichsanspruch, Fristenkalender, Checkliste Zugangsnachweis.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [§ 193 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__193.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

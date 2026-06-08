@@ -19,12 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Zweck
-
-Dieser Skill ist der schönere Einstieg in das Plugin. Er nimmt einen rohen Auftrag wie "mach daraus bitte einen guten Schriftsatz", "Partnerin will das in Word sauber haben" oder "wir brauchen den englischen Vertrag nach deutschem Recht" und verwandelt ihn sofort in eine Arbeitsstrecke.
-
-Er arbeitet nicht akademisch. Er stellt wenige Fragen, entscheidet dann, welcher Modus passt, und schlägt die nächsten Skills aus diesem Plugin vor. Wenn genügend Material vorliegt, liefert er sofort ein erstes Gerüst oder eine erste überarbeitete Passage.
-
 ## Startfragen
 
 Stelle höchstens fünf Fragen. Wenn der Nutzer schon genug geliefert hat, überspringe Fragen und arbeite.
@@ -63,14 +57,6 @@ Erzeuge nach den Startfragen eine knappe Mandatsmatrix:
 | US/UK-Text aus deutscher Anwaltsperspektive | `us-uk-legal-writing-für-deutsche`, `bilingual-drafting-deutsch-englisch` |
 | Finale Fassung vor Versand | `finaler-writing-quality-gate`, `word-dokument-finish-und-layout` |
 
-## Output
-
-Gib immer drei Dinge aus:
-
-1. **Arbeitsmodus:** Was wird jetzt konkret gemacht?
-2. **Skill-Kette:** Zwei bis fünf passende Skills aus diesem Plugin.
-3. **Erster Output:** Gliederung, Klauselgerüst, Schriftsatzgerüst, Redline-Plan oder Stilprofil.
-
 ## Qualitätsmaßstab
 
 - Kein leerer Rat wie "Bitte laden Sie weitere Informationen hoch", wenn aus dem Auftrag schon ein sinnvolles Gerüst gebaut werden kann.
@@ -78,10 +64,3 @@ Gib immer drei Dinge aus:
 - Keine Platzhalterlawine. Höchstens wenige eckige Platzhalter, die wirklich ausgefüllt werden müssen.
 - Immer den nächsten konkreten Arbeitsschritt nennen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

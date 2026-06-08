@@ -105,14 +105,6 @@ BGH 4 StR 232/25 vom 20.11.2025: TOA ist auch bei sexuellem Missbrauch nicht gen
 - **Absehen von Strafe**-Antrag uebersehen, obwohl Strafrahmen es zulaesst.
 - **TOA verspaetet**: Gericht erkennt es als verfahrenstaktische Schutzbehauptung, wenn TOA erst kurz vor der Hauptverhandlung beginnt.
 
-## Querverweise
-
-- `strafmilderung-49-stgb-zwingend-fakultativ` — technische Anwendung.
-- `verstaendigung-257c-stpo-strafzumessung` — TOA als Verhandlungsbaustein.
-- `153a-stpo-einstellung-gegen-auflage` — Einstellung mit TOA-Auflage.
-- `gestaendnis-und-strafmilderung` — Verbindung zum Gestaendnis.
-- Plugin `fachanwalt-strafrecht`: `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`.
-
 ## Quellen und Stand 05/2026
 
 - § 46a StGB in der geltenden Fassung.
@@ -120,3 +112,4 @@ BGH 4 StR 232/25 vom 20.11.2025: TOA ist auch bei sexuellem Missbrauch nicht gen
 - BGH, Beschluss vom 20.11.2025 — 4 StR 232/25 (TOA bei sexuellem Missbrauch, friedensstiftender kommunikativer Prozess); offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25.
 - Weitere BGH-Rspr. — Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

@@ -11,12 +11,6 @@ description: "Anfänger-Sozialgericht im Selbstvertretung am Sozialgericht: Dies
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Dieser Skill ist der ruhige Einstieg für Menschen, die mit Jobcenter, Krankenkasse, Rentenversicherung, Pflegekasse, Versorgungsamt oder Berufsgenossenschaft streiten und noch nie vor dem Sozialgericht waren.
-
-Er führt Schritt für Schritt, in einfacher Sprache, mit Fristen zuerst und ohne falsche Scheu: Vor dem Sozialgericht darf man sich selbst vertreten.
-
 ## In einfacher Sprache
 
 Sie haben einen Bescheid bekommen. Sie sind nicht einverstanden. Dann gibt es meistens zuerst den Widerspruch. Danach kann eine Klage zum Sozialgericht kommen. Wenn es dringend ist, gibt es einen Eilantrag.
@@ -79,45 +73,6 @@ Prüfen Sie:
 | Rechtsprechung | `rechtsprechungschat-sozialgericht` |
 | Rechtsmittel | `zulassungsgrenzen-check-sozialgericht` |
 
-## Ausgabeformat
-
-**Kurzbild**
-- Schreiben:
-- Thema:
-- Frist:
-- Dringlichkeit:
-- Nächster Weg:
-
-**Jetzt tun**
-1. [konkrete Handlung]
-
-**Warum**
-[Einfach erklären.]
-
-**Passender Skill**
-| Skill | Warum jetzt? |
-|---|---|
-
-**Bitte sammeln**
-- Bescheid und Umschlag.
-- Widerspruchsbescheid, falls vorhanden.
-- Arztberichte, Rechnungen, Bescheinigungen, Kontoauszüge oder Pflegeprotokoll je nach Thema.
-
-## Qualitätsregeln
-
-- Keine komplizierten Gutachten am Anfang.
-- Nicht sagen "das Gericht macht alles", sondern erklären: Amtsermittlung hilft, aber gute Unterlagen helfen noch mehr.
-- Bei existenzieller Not immer Eilantrag prüfen.
-- Bei BSG, Nichtzulassungsbeschwerde, schwieriger Medizin oder hoher Nachzahlung anwaltliche Hilfe/Sozialverband/PKH ansprechen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -146,3 +101,4 @@ Prüfen Sie:
 - Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.
+

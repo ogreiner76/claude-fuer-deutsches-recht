@@ -5,10 +5,6 @@ description: "Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT
 
 # Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT
 
-## Arbeitsbereich
-
-Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Trennung von Tatsachen und rechtlicher Qualifikation, Identifikation des relevanten Lebenssachverhalts, strukturierte Fallfragebeantwortung im Gutachtenstil. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Tr
 - Nebenpunkte wie Verjährung nicht vergessen, auch wenn sie nicht ausdrücklich gefragt sind.
 - Zeitmanagement: Sachverhaltsanalyse nicht zu lange betreiben, Schreibzeit einplanen.
 
-## Output
-
-- Sachverhalts-Analyseblatt: Tatsachen, Qualifikation, offene Punkte
-- Prüfungsstruktur-Skizze vor dem Schreiben
-- Fallfrage-Matrix: Frage — Norm — Kurzantwort
-- Zeitplan für Klausurbearbeitung
-
 ## Quellen
 
 - [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -94,3 +83,4 @@ Prüfung unter alternativen Annahmen. Erfundene Tatsachen ohne Sachverhaltsgrund
 - Lücken identifiziert und als Rückfragen formuliert?
 - Rechtlich relevante Tatsachen von irrelevanten Hintergrundinformationen getrennt?
 - Fallfrage genau beantwortet — nicht an ihr vorbeigegangen?
+

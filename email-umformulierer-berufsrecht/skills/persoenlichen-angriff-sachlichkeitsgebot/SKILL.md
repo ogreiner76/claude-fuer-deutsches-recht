@@ -5,10 +5,6 @@ description: "Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz er
 
 # Persönlichen Angriff entschärfen
 
-## Arbeitsbereich
-
-Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persönliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklärung. Abgrenzung: nicht für Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,9 +34,6 @@ Dieser Skill vermittelt konkrete Techniken zur Entschärfung persönlicher Angri
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht: Schadenersatz bei Persoenlichkeitsverletzung
 - § 1004 BGB — Unterlassungsanspruch bei andauernden persönlichen Angriffen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Technik 1: Vom Vorwurf zur Beobachtung
 
 Ein Vorwurf bewertet und verletzt: "Sie haben X getan." Eine Beobachtung beschreibt neutral: "X ist eingetreten." Statt: "Sie haben meine E-Mail ignoriert." → "Auf meine E-Mail vom TT.MM.JJJJ ist bisher keine Antwort eingegangen." Diese Technik ist die wirksamste Einzelmaßnahme zur Entschärfung.
@@ -73,8 +66,3 @@ Den persönlichen Angriff durch Sachverhaltsbezug ersetzen: Statt "Sie" als hand
 | "Sie machen alles falsch" | "Es bestehen Korrekturbedarf in mehreren Punkten" |
 | "Sie kümmern sich nicht" | "Das Anliegen scheint bislang keine vorrangige Bearbeitung erhalten zu haben" |
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Identifizierte persönliche Angriffe im Text. (2) Eingesetzte Entschärfungstechnik. (3) Neutralisierte Alternativformulierung. (4) Überarbeiteter Gesamttext ohne persönliche Angriffe.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

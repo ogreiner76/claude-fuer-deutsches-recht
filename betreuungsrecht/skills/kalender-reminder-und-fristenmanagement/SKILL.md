@@ -20,12 +20,7 @@ Arbeitsfokus: **Kalender, Reminder und Fristenmanagement**. Prüfe diese Anker a
 - `§ 5 BtOG` — Beratung.
 - `§ 8 BtOG` — Betreuungsvermeidung.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill sorgt dafür, dass der Betreuer nichts Wichtiges vergisst: nicht die gerichtlichen Berichte, nicht die Bescheidfristen, nicht den Heimvertrag, nicht die Pflegekasse, nicht die nächste Rücksprache mit der betreuten Person.
 
 ## Fristenquellen
 
@@ -60,21 +55,7 @@ Erzeuge drei Ebenen:
 - Jährlich: Jahresbericht vorbereiten; bei Vermögenssorge Vermögensübersicht/Rechnungslegung prüfen.
 - Bei jedem neuen Bescheid: Rechtsbehelfsfrist sofort notieren.
 
-## Ausgabeformat
-
-```text
-Fristen- und Erinnerungsliste
-
-Rot:
-- [Datum] [Aufgabe] [Folge bei Versäumnis] [zuständige Stelle]
-
-Gelb:
-- [Datum] [Vorbereitung] [fehlende Unterlagen]
-
-Routine:
-- [Rhythmus] [Aufgabe] [Beleg/Notiz]
-```
-
 ## Arbeitsregel
 
 Wenn ein echter Kalenderzugriff vorhanden ist, nur nach ausdrücklichem Auftrag Termine anlegen. Sonst eine exportierbare Liste im Klartext liefern.
+

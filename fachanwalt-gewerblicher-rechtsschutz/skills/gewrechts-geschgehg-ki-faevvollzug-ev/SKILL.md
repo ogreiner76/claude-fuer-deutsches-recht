@@ -5,9 +5,6 @@ description: "Gewrechts Geschgehg KI Faevvollzug EV im Plugin Fachanwalt Gewerbl
 
 # Gewrechts Geschgehg KI Faevvollzug EV
 
-## Arbeitsbereich
-
-**Gewrechts Geschgehg KI Faevvollzug EV** ordnet den Fall über die tragenden Prüfungslinien: Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht, KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen, EV-Vollziehungscheck. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Gewrechts Geschgehg KI Faevvollzug EV im Plugin Fachanwalt Gewerbl
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg`
@@ -567,9 +565,6 @@ S. 2 KI-VO offensichtlich künstlerischen oder satirischen Zwecken dienen.
 
 ### EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung
 
-## Aufgabe
-Dieser Skill prüft den EV-Vollziehungscheck bei einstweiligen Verfügungen im gewerblichen Rechtsschutz: Dringlichkeit erhalten, Titel korrekt erwirken, fristgerechte Vollziehung und Zustellung sicherstellen.
-
 ## Rechtsrahmen
 
 | Norm | Inhalt |
@@ -637,13 +632,8 @@ Dieser Skill prüft den EV-Vollziehungscheck bei einstweiligen Verfügungen im g
 - `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-ordnungsmittel` – Ordnungsgeldantrag nach Zuwiderhandlung.
 - `workflow-fristen-und-risikoampel` – Fristenübersicht und Ampelbewertung.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link zu [dejure.org](https://dejure.org) oder [openjur.de](https://openjur.de).
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollständige Mandantenberatung.
 - Keine eigenständige Fristberechnung ohne Kenntnis aller Zustelldaten.
 - Keine Bewertung nicht belegter Zustellvorgänge.
+

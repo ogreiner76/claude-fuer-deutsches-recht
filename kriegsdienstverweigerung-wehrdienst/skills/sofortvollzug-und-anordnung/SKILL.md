@@ -5,10 +5,6 @@ description: "Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext im K
 
 # Sofortvollzug § 80 VwGO
 
-## Arbeitsbereich
-
-Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,12 +40,6 @@ Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext. Die Antwort muss 
 ## Norm- und Quellenanker
 VwGO § 80; KDVG §§ 3, 11, 13
 
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
-
 ## Rote Linien
 Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
 
@@ -63,3 +53,4 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 - BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+

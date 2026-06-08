@@ -5,10 +5,6 @@ description: "Krankenhaus-Dokumentation, Aufbewahrungsfristen und Beweislast: §
 
 # Dokumentation Aufbewahrung Beweislast
 
-## Arbeitsbereich
-
-Krankenhaus-Dokumentation, Aufbewahrungsfristen und Beweislast: § 630f BGB, RoeV/StrlSchV, BO-Aerzte, GoBD, DSGVO, Aufbewahrung 10 bis 30 Jahre und elektronische Patientenakte (ePA). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,14 +78,6 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 - Loeschen nach Frist ohne Pruefung etwa laufender Verfahren.
 - Pflegedokumentation lueckenhaft — § 630h-Risiko.
 
-## Querverweise
-- `patientenrechte-behandlungsvertrag-aufklaerung`
-- `datenschutz-krankenhaus-patientenakte-forschung`
-- `haftpflichtfall-krankenhaus-gutachtenstrategie`
-- `blutprodukte-transfusionsrecht-dokumentation`
-- `strahlenschutz-radiologie-nuklearmedizin`
-- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
-
 ## Quellen Stand 06/2026
 - BGB §§ 630a-630h.
 - StrlSchG § 28, StrlSchV § 85.
@@ -97,3 +85,4 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 - MBO-Aerzte § 10.
 - BGH, staend. Rspr. zur Aufbewahrungsdauer (Haftungsverjaehrung).
 - GoBD, DSGVO Art. 5, 17, 18.
+

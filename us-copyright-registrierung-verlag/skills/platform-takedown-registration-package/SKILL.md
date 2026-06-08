@@ -5,10 +5,6 @@ description: "Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infring
 
 # Platform Takedown Registration Package
 
-## Arbeitsbereich
-
-Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infringement-Belege und DMCA-/Marketplace-Kommunikation für US-Plattformen vorbereiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infringement-Belege u
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Bereite ein Paket für Plattformstreitigkeiten vor, wenn Verlagstitel in den USA oder auf US-Plattformen kopiert, trainiert, gespiegelt oder verkauft werden. Der Skill ersetzt keine US-Rechtsberatung, schafft aber die Nachweislage.
-
 ## Bestandteile
 
 - Registrierungsstatus und Certificate/Case Number,
@@ -34,14 +26,6 @@ Bereite ein Paket für Plattformstreitigkeiten vor, wenn Verlagstitel in den USA
 - Screenshots, URLs, Zeitstempel, Verkäufernamen, Hashes,
 - Abgleich: welches verletzte Material ist vom Copyright-Claim umfasst?
 - Kommunikationsentwurf für Plattform oder US-Counsel.
-
-## Output
-
-Ein Takedown-/Enforcement-Dossier mit Faktenchronologie, Rechtebelegen, Risikohinweisen und nächstem Schritt.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -53,3 +37,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Eskalation droht: restoration, subpoena, repeat-infringer issue, lawsuit hold oder platform suspension?
 
 **Mindest-Output:** DMCA-mit Notice-Check, Safe-Harbor-Gap, Counter-Notice-Risiko und Evidence Hold.
+

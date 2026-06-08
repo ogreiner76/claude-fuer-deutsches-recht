@@ -45,13 +45,6 @@ description: "Klausurfall zur Abgrenzung von Angebot und invitatio ad offerendum
 - Preisfehler-Anfechtung nach § 119 Abs. 1 BGB erfordert unverzügliche Erklärung (§ 121 BGB).
 - § 122 BGB schützt den Empfänger: Anfechtender haftet auf das negative Interesse.
 
-## Output
-
-- Gutachtenstil-Abschnitt: invitatio oder Angebot mit vollständiger Subsumtion
-- Prüfampel: Vertragsschluss wirksam / Anfechtung möglich / offen
-- Rückfragenliste zu Mengenangaben, Automatisierungsgrad und Empfängerkenntnis
-- Klausurlösungsskizze mit Folgeprüfung § 122 BGB
-
 ## Quellen
 
 - [§ 145 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__145.html)
@@ -81,3 +74,4 @@ kann Annahme sein — hier kommt es auf die konkrete Formulierung an.
 - Massengeschäft ohne Mengenbegrenzung typischerweise invitatio?
 - Automatisierte Bestellbestätigung: Annahme oder nur Eingangsbestätigung?
 - Preisfehler: Anfechtung nach § 119 Abs. 1 BGB — unverzüglich nach § 121 BGB?
+

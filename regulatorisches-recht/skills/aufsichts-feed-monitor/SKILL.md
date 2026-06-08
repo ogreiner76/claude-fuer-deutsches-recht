@@ -5,15 +5,6 @@ description: "Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren
 
 # Regulatorischer Feed-Watcher
 
-## Zweck
-
-Die Skill ruft konfigurierte regulatorische Quellen ab, filtert nach Wesentlichkeit und
-gibt aus, was seit dem letzten Lauf neu ist. Der Filter ist der eigentliche Mehrwert —
-ungefilterter Rohinput ist Rauschen. Quellen: Bundesgesetzblatt (BGBl.), Amtsblatt der
-EU (ABl. EU), EUR-Lex, BaFin-Rundschreiben, BSI-Verlautbarungen, EuGH-/BGH-Newsletter,
-Bundesanzeiger, BMJ-Referentenentwürfe, Bundesrat-Drucksachen. Themen: Finanzaufsicht,
-IT-Sicherheit, Datenschutz, KI-Regulierung (EU-KI-VO), ESG/CSRD.
-
 ## Eingaben
 
 - **Watchlist:** Welche Behörden und Rechtsgebiete sind zu überwachen?
@@ -110,9 +101,6 @@ Compliance-Pflicht. Im Eintrag explizit vermerken: "Vorstufe. Kommentierungsfris
 Für jeden Eintrag oberhalb "Zur Kenntnis": einzeilige Zusammenfassung + Relevanzhinweis
 + Link + Inkrafttreten bzw. Kommentierungsfrist. "Zur Kenntnis"-Einträge: nur Anzahl.
 
-## Ausgabeformat
-
-```
 ## Regulatorischer Feed-Check — [Datum]
 Zeitraum: [letzter Lauf] – [jetzt] | Quellen: [...] | Einträge: [N]
 

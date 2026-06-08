@@ -5,10 +5,6 @@ description: "Keyword Advertising, Hashtags, Influencer-Posts und Metatags marke
 
 # Keyword Advertising, Hashtags und Influencer
 
-## Arbeitsbereich
-
-Keyword Advertising, Hashtags, Influencer-Posts und Metatags markenrechtlich prüfen: Benutzung im geschäftlichen Verkehr, Herkunftsfunktion, Anzeigenkontext, vergleichende Werbung, Plattformbelege und UWG-Schnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Keyword Advertising, Hashtags, Influencer-Posts und Metatags markenrechtlich pr�
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Bewerte, ob die Nutzung fremder Zeichen in Suchmaschinenwerbung, Hashtags, Metatags, Social Ads oder Influencer-Kampagnen eine Markenverletzung oder unlautere Werbung ist.
 
 ## Intake
 
@@ -41,13 +33,7 @@ Bewerte, ob die Nutzung fremder Zeichen in Suchmaschinenwerbung, Hashtags, Metat
 4. **Vergleich und Zubehör:** Zulässige Referenznutzung, Ersatzteil-/Kompatibilitätshinweis, vergleichende Werbung.
 5. **Beweis sichern:** Suchabfolge, Uhrzeit, Standort, Account, Quelltext, Archivierung.
 
-## Output
-
-- Verletzungsampel.
-- Beweisprotokoll.
-- Plattformmeldung oder Abmahnung.
-- Verteidigungsargumente.
-
 ## Quellen-Hardening
 
 EuGH/BGH-Keyword-Rechtsprechung nur mit Datum, Aktenzeichen und Quelle zitieren.
+

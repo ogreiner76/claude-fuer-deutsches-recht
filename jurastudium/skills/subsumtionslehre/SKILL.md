@@ -5,10 +5,6 @@ description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur —
 
 # Subsumtionslehre
 
-## Arbeitsbereich
-
-Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem Stil. Lädt, wenn der Nutzer "Subsumtion üben", "subsumiere mit mir", "Tatbestandsmerkmal prüfen", "Obersatz-Definition-Subsumtion" oder "warum springe ich im Gutachten" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,17 +27,6 @@ description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur —
 - § 276 Abs. 2 BGB — Fahrlässigkeitsdefinition als Muster-Tatbestandsmerkmal
 - § 242 StGB — Diebstahl: Klassiker-Tatbestand für Subsumtionsuebungen
 - § 280 Abs. 1 BGB — Vier-Voraussetzungen-Anspruch als Subsumtions-Drillkern
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Subsumtion ist die Anwendung einer abstrakten Rechtsnorm auf einen konkreten Sachverhalt. Sie ist die zentrale Tätigkeit der juristischen Klausur, der Hausarbeit und der späteren Praxis. Eine Klausur scheitert sehr selten am fehlenden Wissen — sie scheitert daran, dass nicht **subsumiert**, sondern **behauptet** wird.
-
-Diese Skill bringt Subsumtion bei: Tatbestandsmerkmal isolieren, definieren, **am Sachverhalt** prüfen, dann (und erst dann) ein Zwischenergebnis bilden. Kein Verschmelzen von Definition und Subsumtion. Keine vorweggenommene Würdigung. Kein "klar einschlägig".
-
-Die Skill schreibt die Subsumtion **nicht für dich**. Sie zeigt dir, wo du gesprungen bist.
 
 ## Eingaben
 
@@ -102,13 +87,6 @@ Der Studierende **schreibt die Subsumtion selbst**. Die Skill schreibt sie nicht
 - **§ 433 I BGB**: "Kaufvertrag" — übereinstimmende Willenserklärungen Angebot/Annahme (§§ 145 ff.) gerichtet auf Kaufgegenstand und Preis.
 - **§ 35 S. 1 VwVfG**: "Verfügung, Entscheidung oder andere hoheitliche Maßnahme"; "Behörde"; "auf dem Gebiet des öffentlichen Rechts"; "zur Regelung"; "eines Einzelfalls"; "mit Außenwirkung". Sechs Merkmale, sechs Subsumtionsblöcke.
 
-## Querverweise
-
-- `gutachten-uebung` — Bewertung kompletter Gutachten (Subsumtion im Großen).
-- `methodenlehre-grundlagen` — wenn vor der Subsumtion ausgelegt werden muss.
-- `pruefungsgespraech-ag` — Subsumtion mündlich abfragen.
-- `tatbestaende-lernen` — Definitionen so abrufbar haben, dass Subsumtion überhaupt möglich ist.
-
 ## Ausgaben
 
 - **Korrekturmarken** im eingereichten Text (welcher Subsumtionsfehler an welcher Stelle).
@@ -119,3 +97,4 @@ Der Studierende **schreibt die Subsumtion selbst**. Die Skill schreibt sie nicht
 
 - Sie schreibt keine Mustersubsumtion. Wer Mustertexte will, sucht falsch.
 - Sie urteilt nicht über das Ergebnis der Subsumtion (richtig/falsch im Sinne der h. M.), sondern über die **handwerkliche Qualität** der Subsumtion. Beides muss man trennen lernen.
+

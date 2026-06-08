@@ -5,9 +5,6 @@ description: "Gewerblichen Markenanmeldung Markeng im Plugin Fachanwalt Gewerbli
 
 # Gewerblichen Markenanmeldung Markeng
 
-## Arbeitsbereich
-
-**Gewerblichen Markenanmeldung Markeng** ordnet den Fall über die tragenden Prüfungslinien: Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz, Markenanmeldung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Gewerblichen Markenanmeldung Markeng im Plugin Fachanwalt Gewerbli
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-gewerblichen-tatbestand-beweis-und-belege`
@@ -30,9 +28,6 @@ description: "Gewerblichen Markenanmeldung Markeng im Plugin Fachanwalt Gewerbli
 **Fokus:** Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz: Beweismittel für Marken-, Patent-, Design- und UWG-Verletzungen, Darlegungs- und Beweislastverteilung, Beweissicherungsklage, Vernichtungsanspruch, eidesstattliche Versicherung, Testkauf.
 
 ### Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz
-
-## Aufgabe
-Dieser Skill behandelt die Beweisführung bei gewerblichen Schutzrechtsverletzungen: Beweismittel, Darlegungslast, Beweissicherungsklage und Beweissicherung im Eilverfahren.
 
 ## Rechtsrahmen
 
@@ -129,12 +124,6 @@ Dieser Skill behandelt die Beweisführung bei gewerblichen Schutzrechtsverletzun
 - `spezial-verletzungsklage-sonderfall-und-edge-case` – Sonderfälle Beweis.
 - `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung` – Qualitätsgate vor EV.
 
-## Quellenregel
-- Normen ZPO, PatG, MarkenG, UrhG, DesignG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Verletzungsanalyse ohne Sachverständigen.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -144,9 +133,6 @@ Dieser Skill behandelt die Beweisführung bei gewerblichen Schutzrechtsverletzun
 **Fokus:** Markenanmeldung: Compliance, Dokumentation und Aktenführung. Vor-Anmeldungs-Recherche, Klassifikation (Nizza), DPMA/EUIPO-Formulare, Anmeldeakte, Vollmachten, Fristen-Tracking, Benutzungsnachweis-Vorsorge, Markenpolitik-Dokumentation.
 
 ### Markenanmeldung: Compliance, Dokumentation und Akte
-
-## Aufgabe
-Dieser Skill behandelt die Compliance-Anforderungen und Aktenführung bei Markenanmeldungen: Vor-Recherche, Anmeldeakte, Fristen-Tracking und Benutzungsnachweis-Vorsorge.
 
 ## Rechtsrahmen
 
@@ -246,12 +232,6 @@ Dieser Skill behandelt die Compliance-Anforderungen und Aktenführung bei Marken
 - `spezial-dpma-mehrparteien-konflikt-und-interessen` – Widerspruchsverfahren.
 - `spezial-rechtsschutz-fristen-form-und-zuständigkeit` – Fristen und Formalien.
 
-## Quellenregel
-- MarkenG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/markeng/); UMV: [eur-lex.europa.eu](https://eur-lex.europa.eu).
-- DPMA: [dpma.de](https://www.dpma.de); EUIPO: [euipo.europa.eu](https://euipo.europa.eu).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine eigenständige Ähnlichkeitsrecherche ohne konkrete Zeichen.
 - Kein Ersatz für vollständige Mandantenberatung und Aktenführung durch zuständige Kanzlei.
@@ -261,9 +241,6 @@ Dieser Skill behandelt die Compliance-Anforderungen und Aktenführung bei Marken
 **Fokus:** MarkenG: Risikoampel und Gegenargumente. Verwechslungsgefahr § 9 MarkenG, Erschöpfung § 24 MarkenG, Nichtbenutzungseinrede § 26, relative Schutzhindernisse, Gegenrechte bei Abmahnung, Verteidigungslinien und Prüfmatrix.
 
 ### MarkenG: Risikoampel und Gegenargumente
-
-## Aufgabe
-Dieser Skill liefert die Risikoampel und Gegenargumente für Markensachen: Verwechslungsgefahr prüfen, Erschöpfungseinwand, Nichtbenutzung und weitere Verteidigungslinien.
 
 ## Rechtsrahmen
 
@@ -353,12 +330,7 @@ Dieser Skill liefert die Risikoampel und Gegenargumente für Markensachen: Verwe
 - `spezial-markeng-risikoampel-und-gegenargumente` – Dieser Skill.
 - `spezial-dpma-mehrparteien-konflikt-und-interessen` – DPMA-Mehrparteienverfahren.
 
-## Quellenregel
-- MarkenG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/markeng/).
-- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de), [curia.europa.eu](https://curia.europa.eu).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine vollständige Verwechslungsbeurteilung ohne Kenntnis beider Zeichen.
 - Kein Ersatz für vollständige Mandantenberatung.
+

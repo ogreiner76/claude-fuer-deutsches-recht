@@ -5,9 +5,6 @@ description: "Expansion Auftakt Fehlzeit Erfassen im Plugin Arbeitsrecht: prüft
 
 # Expansion Auftakt Fehlzeit Erfassen
 
-## Arbeitsbereich
-
-**Expansion Auftakt Fehlzeit Erfassen** ordnet den Fall über die tragenden Prüfungslinien: Startet die Planung einer Neueinstellung in einem weiteren, Neue Abwesenheit oder neuen Urlaubseintrag im Register, Überprüft offene Abwesenheiten und Fristen –. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Expansion Auftakt Fehlzeit Erfassen im Plugin Arbeitsrecht: prüft
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `expansion-auftakt`
@@ -39,21 +37,6 @@ description: "Expansion Auftakt Fehlzeit Erfassen im Plugin Arbeitsrecht: prüft
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Diese Skill startet ein strukturiertes Expansionsprojekt für eine neue
-Einstellungsregion oder ein neues Land. Sie erhebt alle relevanten Ausgangsdaten,
-erarbeitet die Entscheidungsgrundlage zwischen AÜG-Lösung/EOR und eigener
-rechtlicher Einheit, formuliert die richtigen Fragen für Steuerberatung, Finanzen,
-HR und externe Arbeitsrechtler und legt eine persistente Trackerdate an.
-
-Die Skill setzt voraus, dass die Expansionsentscheidung grundsätzlich gefallen ist.
-Sie ist kein Entscheidungsrahmen für "sollen wir überhaupt expandieren?".
-
-Lädt, wenn eine Einstellung in einer neuen Jurisdiktion begonnen wird — typische
-Auslöser: "erste Einstellung in Spanien", "Expansion nach Polen",
-"brauchen wir eine GmbH in den Niederlanden?".
 
 ## Eingaben
 
@@ -133,25 +116,6 @@ Ablauf aus (Schritte 2–5).
 
 Lege `expansion-[slug].yaml` an und bestätige die Erstellung.
 
-## Ausgabeformat
-
-```
-Expansions-Kickoff: [Land] — [Datum]
-
-Erste Einstellung angestrebt: [Datum]
-Headcount (12 Monate): [N]
-Rollen: [Liste]
-Tracker: expansion-[slug].yaml
-
-EOR vs. Gesellschaft: [Einschätzung mit Fragen für Steuer/Finance]
-Scheinselbständigkeitsrisiko: [Flag wenn zutreffend]
-
-Offene Punkte ([N] gesamt):
-| # | Punkt | Verantwortung | Status |
-|---|---|---|---|
-| 1 | ... | ... | Offen |
-```
-
 ## Beispiel
 
 ```
@@ -212,10 +176,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Neue Abwesenheit in `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/urlaubsregister.yaml` eintragen, sodass der Urlaub-/Fehlzeiten-Tracker alle Fristen ab Tag 1 überwacht.
 
 ## Eingaben
 
@@ -310,24 +270,6 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 - § 167 Abs. 2 SGB IX (BEM-Pflicht)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-```
-FEHLZEITEINTRAG ANGELEGT – [ID] – [Datum]
-
-Mitarbeiter: [ID/Rolle]
-Typ: [Abwesenheitstyp]
-Bundesland: [BL]
-Start: [Datum]
-Rückkehr: [Datum / unbekannt]
-
-Berechnete Fristen:
- [Fristname]: [Datum] [Norm]
-
-Gespeichert: ~/.../urlaubsregister.yaml
-Nächste Prüfung: /arbeitsrecht:fehlzeiten-register
-```
-
 ## Beispiele
 
 ```
@@ -356,10 +298,6 @@ Anmeldung liegt schriftlich vor (10.12.2024). Rückkehr geplant 01.02.2026.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Dieser Skill überprüft alle offenen Abwesenheiten mit gesetzlichen Fristen und zeigt nur diejenigen, bei denen eine Entscheidung oder Handlung erforderlich ist. Er ist kein Statusboard – er teilt Ihnen mit, was Sie tun müssen und warum.
 
 ## Eingaben
 
@@ -418,27 +356,6 @@ Wesentliche Quellen:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Ausgabeformat
-
-```
-URLAUB- UND FEHLZEITEN-TRACKER – [Datum]
-
-Aktive Abwesenheiten: [N gesamt] | Handlungsbedarf: [N]
-
-🔴 SOFORTMASSNAHME
- [Name/ID] – [Abwesenheitstyp] – Frist: [Datum]
- → [Was zu tun ist, in einem Satz]
-
-🟠 ZEITNAH HANDELN
- [Name/ID] – [Typ] – Frist: [Datum]
- → [Handlung]
-
-🟢 Unauffällig ([N] Fälle)
- [kurze Zusammenfassung, eine Zeile]
-
-Wie weiter? [Entscheidungsbaum]
-```
-
 ## Beispiele
 
 ```
@@ -483,17 +400,6 @@ Aktive Abwesenheiten: 8 gesamt | Handlungsbedarf: 2
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Änderungen am Personalhandbuch haben Folgewirkungen. Eine geänderte
-Urlaubsregelung betrifft die Berechnung der Urlaubsabgeltung bei Beendigung,
-die Verweisklauseln in anderen Abschnitten und ggf. bestehende
-Betriebsvereinbarungen zum Thema. Diese Skill findet die Folgewirkungen,
-bevor sie zu Widersprüchen werden.
-
-Lädt, wenn eine Regelungsänderung im Personalhandbuch vorbereitet wird und
-Folgewirkungen systematisch geprüft werden sollen.
 
 ## Eingaben
 
@@ -613,9 +519,6 @@ Prüfe, ob die geänderte Regelung eine "wesentliche Arbeitsbedingung" i. S. d.
 § 2 Abs. 1 NachwG darstellt. Falls ja: Informationspflicht gegenüber den
 betroffenen Arbeitnehmern spätestens am Tag nach Wirksamwerden.
 
-## Ausgabeformat
-
-```markdown
 ## Handbuchänderung: [Abschnitt]
 
 ### Änderung
@@ -692,3 +595,4 @@ Jede Ausgabe dieser Skill muss bei mitbestimmungsrelevanten Änderungen zitieren
 - § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmung bei technischen Überwachungseinrichtungen; Rechtsprechung nur frei verifiziert zitieren.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

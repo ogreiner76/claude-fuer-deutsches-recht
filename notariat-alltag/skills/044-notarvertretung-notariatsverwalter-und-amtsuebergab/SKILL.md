@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsü
 
 # Notariat im Alltag: Notarvertretung, Notariatsverwalter, Amtsübergabe
 
-## Arbeitsbereich
-
-Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsübergabe. Verfahren bei Vertretung, Amtsniederlegung und Notariatsverwaltung nach BNotO, Aktentransfer und Mandantenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -107,3 +103,4 @@ Bei Amtsniederlegung oder Ruhestand:
 - **Notariatsverwalter-Briefing** (offene Vorgänge, Fristen)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

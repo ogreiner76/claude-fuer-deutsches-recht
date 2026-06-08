@@ -5,10 +5,6 @@ description: "Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Pr
 
 # Technik dient der Kommunikation
 
-## Arbeitsbereich
-
-Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,17 +23,11 @@ Bewerte, welche Technik nötig ist, damit die Versammlung gehört und verstanden
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
 
-## Arbeitsweise
-Prüfe Uhrzeiten, Dezibelvorgaben, Fahrzeugaufbauten, Generatoren, Kabel, Brandschutz, Unfallrisiko, Stromquelle und Haftung.
-
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
 - Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
 - Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
 - Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Output
-Output: Technikblatt und Auflagenvorschlag.
 
 ## Qualitätsgate
 - Wurde das richtige Landesrecht verwendet?
@@ -51,3 +41,4 @@ Output: Technikblatt und Auflagenvorschlag.
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+

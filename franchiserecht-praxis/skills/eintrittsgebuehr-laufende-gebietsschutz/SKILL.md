@@ -5,10 +5,6 @@ description: "Gebührenstruktur im Franchiserecht prüfen: Eintrittsgebühr, lau
 
 # Franchiserecht: Eintrittsgebühr, laufende Gebühren und Marketingfee
 
-## Arbeitsbereich
-
-Gebührenstruktur im Franchiserecht prüfen: Eintrittsgebühr, laufende Lizenzgebühren, Marketingfonds-Beiträge. AGB-Kontrolle nach § 307 BGB, Transparenzgebot, Rückforderungsansprüche und Rechenschaftspflichten des Franchisegebers. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisenehmer bezweifelt die Rechtmässigkeit der Gebührenstruktur: Die E
 - Royalty-Klauseln fehlt eine Definition des massgeblichen Umsatzbegriffs; Streit über Erstattungen, Rabatte und Steuern.
 - Sonderumlagen für Systemanpassungen werden ohne vertragliche Grundlage erhoben.
 
-## Output
-
-- Gebührenaudit-Bericht mit Ampelbewertung
-- Nachberechnungsanforderung an den Franchisegeber
-- Muster-Rechnungslegungsklage (§ 259 BGB)
-- Empfehlung zur Vertragsverbesserung (Franchisegeber-Perspektive)
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/307.html
@@ -71,6 +60,7 @@ Ein Franchisenehmer bezweifelt die Rechtmässigkeit der Gebührenstruktur: Die E
 - https://dejure.org/gesetze/BGB/259.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
 - https://gesetze-im-internet.de/bgb/__307.html
+
 ## Vertiefung
 
 Die Gebührenstruktur im Franchiserecht ist vielfältig: Einmalige Eintrittsgebühr (auch Franchisegebühr oder Entry Fee), laufende Lizenzgebühr (Royalty, meist prozentualer Umsatzanteil), Marketingfondsbeiträge und Sondergebühren (IT, Schulung, Audit). Für die AGB-Kontrolle ist entscheidend, ob die Gebührenregelungen klar und transparent sind und nicht zu einer einseitigen Benachteiligung des Franchisenehmers führen.
@@ -84,7 +74,10 @@ Der Marketingfonds ist ein Sonderproblem: Franchisegeber erheben Beiträge von F
 - Mindestgebühr auf Verhältnismässigkeit prüfen: Kein Betrieb kann dauerhaft Mindestgebühr auf ohne Umsatz zahlen.
 - Sondergebühren (IT, Schulung) auf Vorliegen einer vertraglichen Grundlage und Verhältnismässigkeit prüfen.
 - Rückforderungsansprüche bei Vertragsaufhebung oder Anfechtung nach §§ 812 ff. BGB sofort sichern.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

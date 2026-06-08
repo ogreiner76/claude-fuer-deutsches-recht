@@ -96,21 +96,7 @@ Wenn die beweispflichtige Partei nicht erscheint: Gericht entscheidet nach freie
 - "Ich werde im Termin erzaehlen, was ich erinnere." → Lieber vorab sortieren.
 - "Bei Falschaussage passiert nichts." → Strafrechtlich relevant.
 
-## Querverweise
-
-- `zeugenbeweis-373-ff-zpo` — Bessere Alternative.
-- `urkundenbeweis-415-ff-zpo` — Urkunden vorab.
-- `beweislast-grundregel-wer-was` — Beweislast.
-- `kein-beweis-folgen-laienwarnung` — Folgen ohne Beweis.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 445 ff. ZPO unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -10,10 +10,6 @@ description: "Mietvertrag § 535 BGB: Pflichten, Gebrauchsüberlassung, Kündigu
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Mietvertrag nach § 535 BGB vollständig prüfen: gegenseitige Hauptleistungspflichten, Vertragsgestaltung, Kündigungsrecht und typische AGB-Klauseln in Mietverträgen.
-
 ## Normanker
 
 - § 535 BGB: Vertragstypische Pflichten beim Mietvertrag
@@ -50,25 +46,13 @@ Mietvertrag nach § 535 BGB vollständig prüfen: gegenseitige Hauptleistungspfl
 - Formverstoß bei Schriftform (§ 550 BGB) führt zu unbefristetem Mietvertrag mit 1-Jahres-Kündigung.
 - Betriebskostenabrechnung muss innerhalb von 12 Monaten nach Abrechnungszeitraum erfolgen (§ 556 Abs. 3 BGB).
 - Eigenbedarfskündigung muss konkrete Nutzungsabsicht nennen; Vorspiegelung begründet Schadensersatz.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Mietvertragsstruktur-Checkliste (Pflichten, Form, Nebenkosten, Kündigung)
-- AGB-Klausel-Scan (Schönheitsreparaturen, Kaution, Haftung)
-- Kündigungsschema (Voraussetzungen, Fristen, Form)
-- Risikoampel für Vermieter und Mieter
-
-## Qualitätsregeln
-
-- Wohnraum- und Gewerberaummietrecht unterscheiden; Mietpreisbremse gilt nur bei Wohnraum.
-- Schönheitsreparaturklauseln grundsätzlich auf BGH-Wirksamkeit prüfen.
-- Betriebskostenabrechnung-Formalia immer mitprüfen.
 
 ## Anschluss-Skills
 
@@ -77,10 +61,3 @@ Mietvertrag nach § 535 BGB vollständig prüfen: gegenseitige Hauptleistungspfl
 - bt-vertragsentwurf-modellvertrag
 - schnittstelle-bgb-at-methodenlehre-agb
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

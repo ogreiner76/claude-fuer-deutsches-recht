@@ -90,14 +90,6 @@ Unterschrift: ____________________
 - Videoueberwachung Bahnhofsvorplatz: Art. 35 Abs. 3 lit. c DSGVO unmittelbar und zusaetzlich Listentreffer wegen öffentlichem Bereich.
 - KI-Personalauswahl: regelmaessig Listentreffer wegen Profiling und neuen Technologien.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-art-35-dsgvo-trigger-und-anwendungsbereich/SKILL.md` — Trigger-Pruefung
-- `datenschutzrecht/skills/dsfa-edpb-leitlinien-9-19-anwendung/SKILL.md` — Wenn kein Listentreffer
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Bei Blacklist-Treffer
-- `datenschutzrecht/skills/spezial-dpia-dokumentenmatrix-und-lueckenliste/SKILL.md` — Dokumentenmatrix
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 4, 5, 6 DSGVO
@@ -107,3 +99,4 @@ Unterschrift: ____________________
 - EDSA-Leitlinien WP 248 rev.01
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

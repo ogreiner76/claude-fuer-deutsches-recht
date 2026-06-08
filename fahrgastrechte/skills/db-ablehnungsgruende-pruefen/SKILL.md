@@ -208,8 +208,3 @@ Diesen Katalog vor jedem Widerspruchsschreiben durchgehen — den konkret im Abl
 - Verweis auf entsprechende Norm in `references/vo-2021-782-uebersicht.md` und `references/evo-2023-uebersicht.md`
 - Übergabe an Skill `fahrgastrechte-widerspruch` zur Brief-Erstellung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

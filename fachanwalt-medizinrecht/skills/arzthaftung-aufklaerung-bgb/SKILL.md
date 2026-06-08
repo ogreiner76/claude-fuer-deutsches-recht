@@ -31,6 +31,3 @@ Dieser Skill prüft, ob eine medizinische Behandlung wirksam eingewilligt, ordnu
 4. Hypothetische Einwilligung nur bearbeiten, wenn der konkrete Entscheidungskonflikt des Patienten greifbar ist.
 5. Output als Behandlungszeitstrahl, Aufklärungsmatrix, Beweislasttabelle und Anspruchs-/Verteidigungsvermerk liefern.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle zitieren. Keine dekorativen BGH-Nummern aus Modellwissen einsetzen.

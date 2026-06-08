@@ -5,10 +5,6 @@ description: "Wertet Corporate-Legal-English-Unterlagen in mehreren Formaten aus
 
 # Anschauungsmaterial Multi-Format-Auswertung
 
-## Arbeitsbereich
-
-Wertet Corporate-Legal-English-Unterlagen in mehreren Formaten aus: PDF, Scan, Screenshot, JPEG, Excel, Chat, Email, Notarvermerk, Cap Table und Dealroom-Fragmente. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Wertet Corporate-Legal-English-Unterlagen in mehreren Formaten aus: PDF, Scan, S
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Transaktionsakten kommen selten sauber als ein PDF. Dieser Skill behandelt Excel-Cap-Tables, PDF-Scans, JPEG-Fotos, Screenshots, Chats, Email-Fragmente und Notizen als Dealroom-Material und macht daraus eine klare Arbeitsgrundlage.
 
 ## Startlogik
 
@@ -67,23 +59,6 @@ Welche Rueckfrage stelle ich?
 - Chatnachrichten nicht wie Vertragsklauseln behandeln.
 - Excel-Formeln nachrechnen oder als ungeprueft markieren.
 - Keine Paywall-Fundstellen, keine externen Autorennamen, keine nicht belegten Rechtsprechungszitate.
-
-## Output
-
-- Materialinventar nach Datei.
-- Extraktionsnotiz.
-- Begriffskarte.
-- Zahlen-/Formrisiko.
-- Naechster Fachmodul.
-- Senior-Review-Gate.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

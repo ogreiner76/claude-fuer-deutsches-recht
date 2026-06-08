@@ -5,10 +5,6 @@ description: "Einstellung gegen Auflage nach § 153a StPO. Zustimmungserforderni
 
 # Einstellung gegen Auflage — § 153a StPO
 
-## Arbeitsbereich
-
-Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein öffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -104,14 +100,6 @@ Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwalt
 - **Zustimmung** vor Mandantenbelehrung: Unterschrift ohne Konsequenz-Verstaendnis.
 - **Auflagenhoehe** zu niedrig angesetzt: Staatsanwaltschaft / Gericht lehnen ab.
 - **TOA-Anbau** ungenutzt: Kombination § 153a + TOA-Auflage bringt oft das Gericht zur Zustimmung.
-
-## Querverweise
-
-- `strafbefehl-strafzumessung-407-stpo` — Alternative.
-- `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` — TOA als Auflage.
-- `verstaendigung-257c-stpo-strafzumessung` — Verstaendigung als Alternative.
-- Plugin `strafbefehl-verteidiger`: `strafbefehl-einstellung-153-153a-170`.
-- Plugin `fachanwalt-strafrecht`: `vergleichsverhandlung-strategie`.
 
 ## Quellen und Stand 05/2026
 

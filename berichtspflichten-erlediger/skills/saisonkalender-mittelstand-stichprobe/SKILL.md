@@ -5,10 +5,6 @@ description: "Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatli
 
 # Saisonkalender Mittelstand
 
-## Arbeitsbereich
-
-Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalsweise, jährlich, ad hoc. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,28 +13,12 @@ Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalswe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Planung über das Kalenderjahr.
-
 ## Norm- und Quellenanker
 
 - Monats-/Quartalspflichten: UStG/AO/ELSTER, AWV/Bundesbank, BEHG/DEHSt, Sozialversicherung/DEÜV, Statistikrecht je nach Branche.
 - Jahrespflichten: HGB/AO/Jahresabschluss, Transparenzregister nach GwG §§ 18 ff., Energieaudit/EDL-G, GEG, Arbeitsschutzunterweisungen, Abfallregister.
 - Ad-hoc-Pflichten: Produktsicherheit/GPSR, Datenschutzverletzung DSGVO Art. 33/34, Arbeitsschutzunfall, TrinkwV-Legionellen, Marktüberwachung.
 - Jede Frist aus Portal, Bescheid, Fachgesetz oder Behördenkalender live ziehen; der Saisonkalender ist Steuerung, nicht Rechtsquelle.
-
-## Arbeitsfragen
-
-1. Welche Pflichten laufen monatlich, quartalsweise, jährlich und ad hoc?
-2. Welche Daten brauchen Vorlauf: Lohn, Umsatz, Energie, Abfall, Messwerte, Labor, Bank/Treasury, HR, Produktchargen?
-3. Wer ist Erstbearbeiter, fachlicher Prüfer, Freigeber, Vertreter und Eskalationsperson?
-4. Welche Portalzugänge/Zertifikate laufen ab: ELSTER, AMS Bundesbank, DEHSt, Statistikportal, Transparenzregister, ear?
-5. Welche Fristen kollidieren mit Urlaub, Jahresabschluss, Inventur, Messe, Betriebsferien oder Monatsabschluss?
-
-## Output
-
-Saisonkalender mit Pflicht, Rechtsgrundlage, Schwelle, Datenquelle, Portal, Bearbeiter, Freigeber, Vertreter, Vorlauffrist und Eskalationspfad.
 
 ## Red Flags
 
@@ -53,6 +33,3 @@ Saisonkalender mit Pflicht, Rechtsgrundlage, Schwelle, Datenquelle, Portal, Bear
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

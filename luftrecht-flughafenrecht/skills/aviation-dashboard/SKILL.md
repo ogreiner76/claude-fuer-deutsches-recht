@@ -5,10 +5,6 @@ description: "Mandant braucht Echtzeit-Lageueberblick ueber eine Airline: Betrie
 
 # Aviation Dashboard – Lageüberblick Airline und Flughafen
 
-## Arbeitsbereich
-
-Mandant braucht Echtzeit-Lageueberblick ueber eine Airline: Betriebsgenehmigung AOC Flotte Slots Sicherheitsstatus Insolvenzrisiko. Skill erstellt Dashboard-Matrix aus LBA-Register EU-VO 1008/2008 Art. 9 Indikatoren FluglaermG-Zonen und Cape-Town-Register und liefert einseitige Lagebewertung mit Ampel-Rating. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -40,6 +36,7 @@ Mandant braucht Echtzeit-Lageueberblick ueber eine Airline: Betriebsgenehmigung 
 - **Cape Town Convention Art. 16**: ICAO-Register für internationale Sicherungsinteressen.
 - **VO EWG 95/93 Art. 10**: Use-it-or-lose-it Slot-Quote.
 - **LuftSiG §§ 8-9**: Sicherheitsprogramme.
+
 ## Prüfraster
 
 1. Ist Betriebsgenehmigung aktuell?
@@ -65,10 +62,6 @@ Ein effektives Luftrecht-Dashboard für laufende Mandate umfasst:
 - **Registerstatus**: Luftfahrzeugrolle AG Braunschweig Cape Town; Abfragedatum und Befund.
 - **Insolvenz-Frühwarnung**: Finanzkennzahlen der beteiligten Airline; Ratingänderungen; Pressemeldungen.
 - **Dokumentenablage**: Bescheide Verträge Gutachten Registerauszüge versioniert und durchsuchbar.
-
-## Output
-
-Einseitige Lage-Matrix mit Ampel-Rating: Genehmigung/Flotte/Slots/Sicherheit/Finanzen. Offene-Punkte-Liste. Risiko-Kurzbewertung.
 
 ## Quellen
 
@@ -96,3 +89,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

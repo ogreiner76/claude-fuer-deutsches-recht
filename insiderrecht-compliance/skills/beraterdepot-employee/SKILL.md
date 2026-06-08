@@ -5,10 +5,6 @@ description: "Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: W
 
 # Berater-Depot und Treuhandkonten – Insiderrecht
 
-## Arbeitsbereich
-
-Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,23 +69,6 @@ entwickelt Schutzmaßnahmen für Berater und ihre Mandanten.
 - Automated pre-trade screening: System prüft Transaktionen gegen Watch List
 - Schulung aller Berater und Assistenten auf Insiderrecht
 
-## Red-Team-Fragen
-
-- Sind Chinese Walls zwischen Beratungsabteilungen und Depot-/Vermögensverwaltung eingerichtet?
-- Gibt es eine Restricted/Watch List, die automatisch Transaktionen blockiert?
-- Werden Vermögensverwaltungsmandate für Insider-Mandanten überwacht?
-- Ist das Safe-Harbour-Verfahren (Art. 9 Abs. 1 MAR) dokumentiert?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Depot-Compliance-Matrix (Depot × Insiderwissen × Handelsverbot)
-2. Chinese-Wall-Protokoll für Berater-Gesellschaft
-3. Watch-List- und Restricted-List-Verfahren
-4. Safe-Harbour-Dokumentationsvorlage (Art. 9 Abs. 1 MAR)
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Für Vermögensverwalter und Anlageberater, die reguliert nach WpIG oder KWG sind, bestehen
@@ -101,3 +80,4 @@ Art. 16 MAR an die BaFin (Suspicious Transaction Report / STR-Meldepflicht).
 Weitere Quellen:
 - Art. 16 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - § 80 WpHG: https://www.gesetze-im-internet.de/wphg/__80.html
+

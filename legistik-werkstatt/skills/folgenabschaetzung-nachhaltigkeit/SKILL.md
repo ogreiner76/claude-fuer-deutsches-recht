@@ -62,9 +62,6 @@ Klimaschutzgesetz Paragraf 13. Wirkung auf Treibhausgasemissionen direkt und ind
 
 §§ 3-6 UVPG (Umweltvertraeglichkeitspruefung) — Art. 20a GG (Staatsziel Umweltschutz) — §§ 4-6 KSG (Klimaschutzziele, Sektorziele) — DNK Deutsche Nachhaltigkeitsstrategie — § 65 GGO (Nachhaltigkeitspruefung in Begruendung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Folgenmatrix als Tabelle plus Text für Vorblatt G und Begründung A.VI.6.
@@ -72,3 +69,4 @@ Folgenmatrix als Tabelle plus Text für Vorblatt G und Begründung A.VI.6.
 ## Anschluss
 
 `inkrafttreten-uebergangsrecht`.
+

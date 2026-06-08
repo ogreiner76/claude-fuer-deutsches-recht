@@ -5,10 +5,6 @@ description: "GKV-Leistungen für sterbende Menschen: Hospizversorgung (§ 39a S
 
 # Hospiz, Palliativversorgung und SAPV
 
-## Arbeitsbereich
-
-GKV-Leistungen für sterbende Menschen: Hospizversorgung (§ 39a SGB V), SAPV (§ 37b SGB V), Zuzahlungsbefreiung und Versorgungskoordination. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Sterbende Menschen und ihre Familien haben Anspruch auf umfassende palliative Ve
 - [BSG B 1 KR 2/22 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [Deutsche Gesellschaft für Palliativmedizin](https://www.dgpalliativmedizin.de)
 - [dejure.org § 37b SGB V](https://dejure.org/gesetze/SGB_V/37b.html)
+

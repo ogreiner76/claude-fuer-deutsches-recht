@@ -22,13 +22,6 @@ description: "Anwalt hat Schriftsatz fertig und muss Anlagen korrekt benennen nu
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill nimmt einen Schriftsatz-Entwurf und eine echte Dokumentensammlung und macht daraus ein gerichtstaugliches Anlagenpaket. Er denkt nicht vom Dateinamen her, sondern vom Vortrag: Welche Tatsachenbehauptung steht im Schriftsatz, welches Dokument belegt sie, welche Fassung ist maßgeblich, wie wird die Anlage benannt, gestempelt, geschwärzt, konvertiert, verzeichnet und versandt?
-
 ## Eingaben
 
 - **Schriftsatz-Entwurf** (PDF oder DOCX) — Pflicht.
@@ -135,3 +128,4 @@ Anzahl Anlagen-Dateien vorhanden: [...]
 ---
 
 Hinweis: Die Letztverantwortung für Vollständigkeit, Tatsachenvortrag, Verschwiegenheit (§ 43a BRAO, § 203 StGB), Datenschutz und Versand liegt beim Anwalt.
+

@@ -5,10 +5,6 @@ description: "Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China In
 
 # Schiedsgerichtsbarkeit China: CIETAC/HKIAC/SIAC-Vergleich
 
-## Arbeitsbereich
-
-Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. Output: Schiedsklausel-Empfehlung und Forum-Vergleichsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,13 +79,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
-
-## Output
-
-Prüfbericht Arbitration Hk Siac, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
 
 ## Quellen
 

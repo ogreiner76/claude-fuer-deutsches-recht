@@ -5,9 +5,6 @@ description: "Wann Doch Widerspruch Begruendung im Selbstvertretung am Sozialger
 
 # Wann Doch Widerspruch Begruendung
 
-## Arbeitsbereich
-
-**Wann Doch Widerspruch Begruendung** ordnet den Fall über die tragenden Prüfungslinien: Wann sollten Sie als Buerger doch einen Anwalt einschalten, Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen, Wie Sie sich gegen ein negatives Gutachten wehren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Wann Doch Widerspruch Begruendung im Selbstvertretung am Sozialger
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `wann-doch-anwalt-grenzfaelle-sozialgericht`
@@ -156,14 +154,6 @@ Bei Amtsgericht (siehe `beratungshilfe-vor-widerspruch-brh`).
 - Anwalt zu spaet → Frist verpasst oder Sache verfahren
 - Anwalt suchen, der kein Sozialrecht kann → Fachanwalt suchen
 - Mandat ohne PKH-Antrag → Kosten-Risiko
-
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `anwaltszwang-pruefen-73-sgg` — Anwalt allgemein
-- `beratungshilfe-vor-widerspruch-brh` — Beratungshilfe
-- `pkh-vor-sozialgericht-73a-sgg` — PKH
-- `berufung-lsg-144-sgg-wertgrenze-750` — Berufung
 
 ## Quellen und Aktualitaet
 
@@ -298,26 +288,9 @@ Per Einschreiben mit Rueckschein oder persoenlich gegen Empfangsbestaetigung.
 - Zu lange Schilderung → strukturieren, max. 3 Seiten
 - Wuetend formuliert → ruhig und sachlich
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — das Verfahren
-- `arztberichte-vorlegen-laien-leitfaden` — Arztbericht richtig nutzen
-- `pflegegrad-streit-mdk-pflegekasse-sgb-xi` — Pflegegrad
-- `buergergeld-jobcenter-sgb-ii` — Buergergeld
-- `grad-der-behinderung-gdb-sgb-ix` — GdB
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 24 SGB X garantiert Ihr Anhörungsrecht. § 25 SGB X gibt Anspruch auf Akteneinsicht. Bei Unsicherheit fragen Sie eine Beratungsstelle (VdK, SoVD).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `widerspruch-gegen-gutachten-laien`
 
@@ -450,25 +423,9 @@ Das Gericht prueft Stellungnahme und ggf. Erlaeuterung. Eine Entscheidung dauert
 - § 109-Gutachten ohne aerztliche Absicherung → Risiko
 - Keine Reaktion → Gericht legt das Gutachten zugrunde
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `medizinische-gutachten-strategie-laien` — Strategie
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-- `terminvorbereitung-laien-checkliste-sozialgericht` — Verhandlung
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 411 ZPO analog. Erlaeuterung im Termin selten verweigert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `widerspruchsbescheid-was-jetzt`
 
@@ -585,26 +542,9 @@ Pruefen Sie, ob es sich lohnt. Bei klar abgeschlossener Sache: einfach akzeptier
 - Bekanntgabedatum statt Bescheidsdatum verwechselt → Bekanntgabe zaehlt
 - Nicht erkennen, dass es Teilabhilfe ist → genau lesen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — das Vorverfahren
-- `teilstattgabe-vollstattgabe-verstehen` — Ergebnis verstehen
-- `klagearten-uebersicht-sgg` — welche Klage
-- `klage-zur-niederschrift-90-sgg` — Klage diktieren
-- `eilantrag-86b-sgg-grundlagen` — wenn parallel Eilantrag noetig
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 87 SGG aktuell. 1-Monats-Frist klar. PostModG 2025 wichtig für Bekanntgabefiktion.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `wohngeld-und-sozialhilfe-grenzfaelle`
 
@@ -708,21 +648,7 @@ Wenn Sie eine Wohngeld-Klage ans SG schicken: das SG verweist ans VG (§ 17a GVG
 - Sozialhilfe-Klage ans VG → Verweisung
 - Beide Antraege vergessen → § 16 SGB I nutzen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `sozialgericht-zuständigkeit-51-sgg` — SG-Zuständigkeit
-- `buergergeld-jobcenter-sgb-ii` — Buergergeld
-- `grundsicherung-sgb-xii` — Grundsicherung
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Wohngeld-Reform 2023 (Wohngeld-Plus) erweiterte Berechtigte. Pruefen Sie aktuelle Werte unter www.bmwsb.bund.de.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

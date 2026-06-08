@@ -5,10 +5,6 @@ description: "Frühwarn-Skill Sanierungsgewinn nach Paragraf 3a EStG. Rechnet 12
 
 # Sanierungsgewinn — Frühwarnung 12 Monate vor Plan
 
-## Arbeitsbereich
-
-Frühwarn-Skill Sanierungsgewinn nach Paragraf 3a EStG. Rechnet 12 Monate vor Insolvenzantrag oder StaRUG-Anzeige rückwärts und zeigt Mandant und Berater wann welche Weiche zu stellen ist damit der Antrag nach Paragraf 3a Absatz 4 EStG nicht im letzten Moment platzt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -138,15 +134,6 @@ Ergebnis: kein KSt-Cashflow durch Verzicht
 - Sanierungsabsicht der Gläubiger nur mündlich vereinbart; FA verlangt Schriftform.
 - Personenbezogene Sanierung mit unternehmensbezogenem Antrag verwechselt.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-mandantenwarnung-rechtzeitig`
-- `stb-sanierungsgewinn-vorbereitungs-checkliste`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-vermeidungsstrategien-praxis`
-- `anw-insolvenzreife-pruefung-17-19-inso` (vorgelagerte Insolvenzprüfung)
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG (Sanierungsertrag, Steuerbefreiung).
@@ -158,3 +145,4 @@ Ergebnis: kein KSt-Cashflow durch Verzicht
 - Wachstumschancengesetz (BGBl. I 2024) — gesetzliche Verankerung; Stand prüfen.
 - IDW S 6 (Sanierungskonzept), IDW S 11 (Insolvenzeröffnungsgründe).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren. Vor Ausgabe Quelle mit Gericht, Datum, Aktenzeichen, Fundstelle, Randnummer protokollieren.
+

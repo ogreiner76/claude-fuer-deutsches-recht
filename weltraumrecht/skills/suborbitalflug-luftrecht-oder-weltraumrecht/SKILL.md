@@ -5,10 +5,6 @@ description: "Suborbitalflug – Abgrenzung Luftraum/Weltraum, Kármán-Linie, F
 
 # Weltraumrecht: Suborbitalflug: Luftrecht oder Weltraumrecht?
 
-## Arbeitsbereich
-
-Suborbitalflug – Abgrenzung Luftraum/Weltraum, Kármán-Linie, FAA AST, EU-Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,3 +111,4 @@ Das Rechtsgebiet berührt folgende Kernthemen: Suborbitalflug, Kármán-Linie, F
 - UNOOSA: https://www.unoosa.org/
 - BNetzA: https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/start.html
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
+

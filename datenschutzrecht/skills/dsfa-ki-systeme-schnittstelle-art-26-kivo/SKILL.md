@@ -105,14 +105,6 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 - KI-Anbieter im Drittland: zusaetzliche Transferpruefung uebersehen (Skill dsfa-für-internationale-datentransfers).
 - Generative KI: Art. 50 KI-VO Transparenzpflichten uebersehen.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage
-- `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Vorab-Konsultation
-- `datenschutzrecht/skills/dsfa-für-internationale-datentransfers/SKILL.md` — Drittlandtransfer
-- `datenschutzrecht/skills/ki-verordnung-compliance/SKILL.md` — KI-VO Compliance
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35, 36, 22 DSGVO
@@ -121,3 +113,4 @@ Unterschrift KI-Beauftragter (falls bestellt): ____________________
 - EDSA-Leitlinien WP 248 rev.01
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

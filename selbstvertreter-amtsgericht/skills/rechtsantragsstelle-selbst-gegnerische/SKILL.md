@@ -5,9 +5,6 @@ description: "Rechtsantragsstelle Selbst Gegnerische im Selbstvertretung am Amts
 
 # Rechtsantragsstelle Selbst Gegnerische
 
-## Arbeitsbereich
-
-**Rechtsantragsstelle Selbst Gegnerische** ordnet den Fall über die tragenden Prüfungslinien: Hilfe über die Rechtsantragsstelle des Amtsgerichts, Abwehr der Vollstreckung wenn Sie verloren haben, Gerichtskostenvorschuss nach § 12 GKG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Rechtsantragsstelle Selbst Gegnerische im Selbstvertretung am Amts
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `einreichung-rechtsantragsstelle-selbst`
@@ -118,25 +116,9 @@ Detailliert beim separaten Substitutionsagenten.
 - "Ich erwarte Rechtsberatung." → Gibt es nicht. Fuer Beratung Anwalt oder Beratungshilfe.
 - "Ich gehe direkt vor Termin ohne Anmeldung." → Manche AG nur nach Termin.
 
-## Querverweise
-
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage selbst formulieren.
-- `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `beratungshilfe-aussergerichtlich-brh` — Beratungshilfe.
-- `wann-doch-anwalt-grenzfaelle` — Wann Anwalt.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 496 ZPO unveraendert. Rechtsantragsstellen bei den meisten AG vorhanden — vor Besuch Sprechzeiten klaeren.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `gegnerische-vollstreckung-abwehr`
 
@@ -297,13 +279,6 @@ Mit Vollstreckungs-Schutzantrag (§ 765a ZPO) oder Vollstreckungs-Gegenklage (§
 - "Konto-Pfaendung ohne P-Konto." → Sofort umwandeln.
 - "Vollstreckung kann nicht gestoppt werden." → § 765a oder § 767 ZPO.
 
-## Querverweise
-
-- `urteil-rechtskraft-705-zpo` — Urteil.
-- `berufung-amtsgericht-511-zpo` — Berufung pruefen.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH für Vollstreckungs-Gegenklage.
-- `zwangsvollstreckung-querverweis-substitutionsagent` — Substitutionsagent.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 765a, 767, 850 ff. ZPO unveraendert. Pfaendungs-Freigrenzen-Tabelle verifizieren ueber justiz.de.
@@ -409,14 +384,7 @@ Praxis: Online-Banking mit Aktenzeichen im Verwendungszweck. Dauer 1-2 Werktage.
 - "Kein Verwendungszweck bei Ueberweisung." → Bank-Zuordnung verzoegert sich.
 - "Ich warte auf zweite Mahnung." → Eingang vom Gericht dauert. Verfahren in Schwebe.
 
-## Querverweise
-
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kostenkalkulation.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung pruefen.
-- `einreichung-papierform-mit-abschriften` — Klage einreichen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 12 GKG, § 167 ZPO unveraendert. GKG-Werte ueber aktuelle Tabelle verifizieren.
+

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Rezeption des roemischen Rechts in Deut
 
 # Rezeption des roemischen Rechts
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Rezeption des roemischen Rechts in Deutschland. Glossatoren, Kommentatoren, Usus modernus Pandectarum, mos italicus vs. mos gallicus und das ius commune als gemeines Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,12 +63,3 @@ Die Rezeption des roemischen Rechts bezeichnet den Prozess, durch den das im Mit
 - Usus modernus: Stryk-Edition (1690-1712)
 - Sekundaerliteratur: Wieacker, Privatrechtsgeschichte (1967); Coing, Handbuch (1973-88)
 
-## Output
-
-- Chronologie der Rezeption: Von Glossatoren bis Usus modernus
-- Kernbegriffe: ius commune, ius particulare, Rezeptionsstreit
-- Vergleich: Was blieb von einheimischem Recht neben dem roemischen?
-
-## Quellenregel
-
-Corpus Iuris Civilis: Mommsen-Krueger-Edition. Reichskammergerichtsordnung 1495: ALEX/OeNB. Stryk Usus modernus: historische Edition. Coing Handbuch: Bd. I (1973) mit Seitenangabe.

@@ -17,23 +17,11 @@ Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Mar
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267 AEUV, Nichtigkeitsklage, Beschwerde an EU-KOM, Stellungnahme im Vertragsverletzungsverfahren, Notifizierung, EuGH-Urteilsbeleg — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Märkte, Marktanteile, Kooperationen, Plattformregeln und Hardcore-Risiken werden strukturiert.
-
 ## Wann verwenden
 
 - bei Memos, Behördenbriefen, Schriftsätzen oder Compliance-Projekten mit EU-Bezug
 - wenn deutsche Kategorien die EU-Eigenlogik verdecken könnten
 - wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind
-
-## Arbeitsweise
-
-1. **Rechtsquelle fixieren.** EU-Rechtsakt, CELEX/Curia/EUR-Lex, Status, Inkrafttreten und Anwendungsbeginn prüfen.
-2. **Wirkung bestimmen.** Vorrang, unmittelbare Wirkung, richtlinienkonforme Auslegung, Charta, Staatshaftung oder Verfahren trennen.
-3. **Deutsche Denkfehler markieren.** Nationale Kategorien nur nutzen, wenn sie unionsrechtlich passen.
-4. **Verfahrensweg planen.** Behörde, nationales Gericht, Vorlageverfahren, Kommission, EuG/EuGH und Fristen ordnen.
-5. **Qualitätstor setzen.** Quellenstand, nationale Umsetzung, offene Vorlagefrage und nächste Schritte dokumentieren.
 
 ## Rückfragen, wenn unklar
 
@@ -41,13 +29,6 @@ Märkte, Marktanteile, Kooperationen, Plattformregeln und Hardcore-Risiken werde
 - Welche Partei oder Rolle vertreten wir?
 - Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
 - Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel
-- Prüfmatrix mit Fundstelle, Risiko, Vorschlag und Review-Level
-- anwaltlich prüfbarer Entwurf oder Mandantenhinweis
-- offene Annahmen, Quellenstand und nächste Schritte
 
 ## Typische Fehler vermeiden
 
@@ -87,9 +68,6 @@ Rechtsprechung live über [curia.europa.eu](https://curia.europa.eu/) und [bunde
 - **Gruppen-FreistellungsVO (EU) 330/2010** (Vertikalvereinb.); **(EU) 2022/720** (neue VertGVO)
 - **§§ 1, 18, 19, 33 GWB** — nationales Kartellrecht; Missbrauch; Schadensersatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Kartell-Kurzpruefmemo
 
 **Adressat:** Kanzlei-intern / Mandant
@@ -122,3 +100,4 @@ Geschaedigter: [Mandant als Opfer / Mandant als Tater]
 Schadenshoehe: EUR [X] geschaetzt
 Klagefrist: § 33h GWB 5 Jahre (verjährt: [DATUM])
 ```
+

@@ -131,13 +131,6 @@ IV. Folge
 - Reihenfolge: § 10a S. 1 GewStG vor § 7b GewStG nicht beachtet.
 - Verwechslung mit § 10d EStG.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
-- `stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel`
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-
 ## Quellen Stand 06/2026
 
 - § 10a S. 1, 2, 3, 6, 8 GewStG.
@@ -146,3 +139,4 @@ IV. Folge
 - § 8c, § 8d KStG (analog).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

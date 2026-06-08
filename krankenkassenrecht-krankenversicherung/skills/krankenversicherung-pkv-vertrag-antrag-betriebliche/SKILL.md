@@ -5,10 +5,6 @@ description: "Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG): Gesu
 
 # PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht
 
-## Arbeitsbereich
-
-Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG): Gesundheitsfragen, Risikoausschlüsse, Leistungsausschlüsse, Anfechtung wegen arglistiger Täuschung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,3 +91,4 @@ Beim Abschluss eines PKV-Vertrags besteht eine **vorvertragliche Anzeigepflicht*
 - [MB/KK 2009 – PKV-Musterbedingungen](https://www.pkv.de)
 - [dejure.org § 19 VVG](https://dejure.org/gesetze/VVG/19.html)
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
+

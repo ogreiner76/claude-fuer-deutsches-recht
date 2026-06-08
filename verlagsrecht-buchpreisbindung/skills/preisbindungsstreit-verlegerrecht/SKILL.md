@@ -5,10 +5,6 @@ description: "Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unter
 
 # Verl-042 · Preisbindungsstreit: Unterlassung und Auskunft
 
-## Arbeitsbereich
-
-Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unterlassungsklage, Auskunfts- und Schadensersatzansprüche (BuchPrG §§ 9–11), Gerichtszuständigkeit und Prozessstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -146,3 +142,4 @@ Dieser Skill führt durch das **gerichtliche Verfahren** bei Preisbindungsstreit
 - **Auskunftsklage-Stufenplan**: Stufe 1–3 mit Antragsformulierungen
 - **Widerspruchs-Schriftsatz** (für Beklagten)
 - **Monitoring-Protokoll** nach Verfügungserlass
+

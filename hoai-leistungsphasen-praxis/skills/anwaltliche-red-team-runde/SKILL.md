@@ -5,17 +5,6 @@ description: "HOAI-Praxis: sucht Fehler, falsche LPH-Zuordnung, fehlende Freigab
 
 # HOAI Querschnitt: Sucht fehler
 
-## Einsatz
-
-Dieser Querschnitts-Skill bearbeitet **sucht Fehler, falsche LPH-Zuordnung, fehlende Freigaben und Beleglücken** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Fachmodule vertieft werden.
-
-## Arbeitsweise
-
-1. Klär Rolle, Projektart, Leistungsbild, beauftragte LPH, Vertrag, Honorarvereinbarung und aktuellen Konflikt.
-2. Ordne die Unterlagen nach LPH, Planstand, Freigabe, Kostenstand, Terminstand und Beweiswert.
-3. Trenne HOAI-Grundleistung, besondere Leistung, Bauvertragsrecht, Vergabe, öffentliches Recht und Haftung.
-4. Erzeuge ein knappes, anschlussfähiges Arbeitsprodukt für Bauherr, Planer, Bauunternehmen, Anwalt oder Sachverständigen.
-
 ## Ergebnis
 
 - LPH-/Vertragsmatrix
@@ -57,3 +46,4 @@ Dieser Querschnitts-Skill bearbeitet **sucht Fehler, falsche LPH-Zuordnung, fehl
 - Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
 - Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
 - Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
+

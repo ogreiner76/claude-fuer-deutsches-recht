@@ -77,12 +77,6 @@ Klausel zu Loeschung und Rueckgabe:
 - Kein Loeschprotokoll und kein Nachweis.
 - Sub-AV-Kette nicht erfasst.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-mindestinhalte-checkliste/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/avv-pruefung-bestehender-vertraege-audit/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 28 Abs. 3 lit. g, Art. 17, Art. 5 Abs. 1 lit. e DSGVO.
@@ -91,10 +85,3 @@ Klausel zu Loeschung und Rueckgabe:
 - NIST SP 800-88 Rev. 1 – Guidelines for Media Sanitization.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

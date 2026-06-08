@@ -5,10 +5,6 @@ description: "PKV-Leistungen auf Auslandsreisen: Geltungsbereich, medizinisch no
 
 # PKV: Auslandsreise und Rücktransport
 
-## Arbeitsbereich
-
-PKV-Leistungen auf Auslandsreisen: Geltungsbereich, medizinisch notwendige Behandlung im Ausland, Rücktransport und Koordination mit Reisekrankenversicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -89,6 +85,7 @@ Die PKV deckt Behandlungen auch im Ausland ab, aber mit Einschränkungen. Dieser
 - [GKV Ausland – EHIC](https://ec.europa.eu/social/main.jsp?catId=559)
 - [dejure.org § 192 VVG](https://dejure.org/gesetze/VVG/192.html)
 - [ADAC Auslandskrankenschutz](https://www.adac.de/reise-ziel/auslandsschutz/)
+
 ## Hinweis: Kostendeckungslimits und Selbstbehalt
 
 - Viele Tarife begrenzen Rücktransportkosten auf einen Höchstbetrag (z.B. 10.000–30.000 €)
@@ -101,3 +98,4 @@ Die PKV deckt Behandlungen auch im Ausland ab, aber mit Einschränkungen. Dieser
 - [§ 192 VVG – Leistungspflicht PKV](https://www.gesetze-im-internet.de/vvg_2008/__192.html)
 - [MB/KK 2009 – Musterbedingungen](https://www.pkv.de/service/rechner-und-services/musterbedingungen/)
 - [PKV-Ombudsmann](https://www.pkv-ombudsmann.de)
+

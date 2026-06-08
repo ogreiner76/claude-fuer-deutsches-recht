@@ -51,10 +51,6 @@ description: "Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betra
 - Der Basiszinssatz wird nicht aktuell abgerufen, was zu falschen Zinssätzen nach § 288 Abs. 2 BGB führt.
 - Die Schriftformgrenze bei der Bürgschaft wird bei niedrigen Beträgen als bedeutungslos abgetan.
 
-## Output
-
-Das Skill liefert eine vollständige Berechnungsübersicht: Hauptforderung, Nebenforderungen, Zinssätze und Zinszeiträume, Gesamtstreitwert und Gerichtszuständigkeit. Ergänzt wird eine Tabelle der wichtigsten Betragsschwellen im BGB und ZPO mit Norm und Anwendungsbereich.
-
 ## Quellen
 
 - [§ 288 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__288.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

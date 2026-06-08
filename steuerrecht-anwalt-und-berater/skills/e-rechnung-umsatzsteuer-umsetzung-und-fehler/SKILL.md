@@ -5,10 +5,6 @@ description: "Führt Unternehmen durch die E-Rechnungspflichten ab 2025, UStAE/B
 
 # E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung
 
-## Arbeitsbereich
-
-Führt Unternehmen durch die E-Rechnungspflichten ab 2025, UStAE/BMF-Linie, Validierung, Archivierung, Rechnungseingang, Ausgangsrechnung und GoBD-Schnittstelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,5 +23,3 @@ Führt Unternehmen durch die E-Rechnungspflichten ab 2025, UStAE/BMF-Linie, Vali
 4. Vorsteuer: Pflichtangaben, Berichtigungsweg, Prüfspur.
 5. GoBD: Unveränderbarkeit, Verfahrensdokumentation, Rollen, Kontrollen.
 
-## Output
-Implementierungsplan, Fehlerampel, Verfahrensdokumentationsbaustein und E-Rechnungs-Kontrollmatrix.

@@ -5,10 +5,6 @@ description: "Übt die juristische Methodenlehre für Studierende — Auslegung 
 
 # Methodenlehre — Grundlagen
 
-## Arbeitsbereich
-
-Übt die juristische Methodenlehre für Studierende — Auslegung nach Wortlaut/Systematik/Historie/Telos, Analogie, teleologische Reduktion, Auslegung gegen den Wortlaut, verfassungskonforme und unionsrechtskonforme Auslegung, Argumentationslast. Lädt, wenn der Nutzer "Methodenlehre üben", "auslegen", "Analogie prüfen", "teleologische Reduktion", "verfassungskonform auslegen" oder "warum brauche ich Methodenlehre" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ description: "Übt die juristische Methodenlehre für Studierende — Auslegung 
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Methodenlehre ist nicht das, was Studierende glauben (Pflichtveranstaltung im ersten Semester, dann wieder vergessen). Methodenlehre ist das, was den Unterschied zwischen einem Gutachten mit 8 Punkten und einem mit 14 Punkten macht: die saubere Begründung, warum eine Norm so und nicht anders verstanden wird.
-
-Diese Skill übt die vier (oft fünf) Auslegungsmethoden, die Rechtsfortbildung (Analogie und teleologische Reduktion) und die normative Korrektur (verfassungs- und unionsrechtskonforme Auslegung). Sie greift dabei auf die anwaltliche Praxisperspektive des `methodenlehre-buergerliches-recht`-Plugins zurück — passt sie aber auf das Studium an.
 
 ## Eingaben
 
@@ -114,21 +104,8 @@ Wer eine Auslegung gegen den Wortlaut, eine Analogie, eine Reduktion vornimmt, *
 4. Skill stellt erst dann die Frage: "Welche Methode trägt hier — und warum?"
 5. Erst zum Schluss: Ergebnis mit Argumentationslast.
 
-## Querverweise
-
-- `methodenlehre-zivilrecht`, `methodenlehre-strafrecht`, `methodenlehre-öffentliches-recht` — fachspezifische Vertiefung.
-- `subsumtionslehre` — wenn nach Auslegung subsumiert wird.
-- `gutachten-uebung` — Methodenlehre als Begründungsteil in der Klausur.
-
 ## Was diese Skill nicht tut
 
 - Sie schreibt keine Mustergutachten zur Auslegung.
 - Sie verzichtet auf den Streit zwischen subjektiver und objektiver Auslegungstheorie als akademische Detailfrage, übt aber die praktische Anwendung beider Ansätze.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

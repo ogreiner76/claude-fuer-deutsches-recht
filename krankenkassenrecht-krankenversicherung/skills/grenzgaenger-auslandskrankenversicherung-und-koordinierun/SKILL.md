@@ -5,10 +5,6 @@ description: "Krankenversicherungsrecht für Grenzgänger, EU-Koordinierungsvero
 
 # Grenzgänger, Auslandskrankenversicherung und Koordinierungsrecht
 
-## Arbeitsbereich
-
-Krankenversicherungsrecht für Grenzgänger, EU-Koordinierungsverordnung 883/2004, S1-/S2-Formulare, Doppelversicherung und zuständige Träger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ Dieser Skill bearbeitet **komplexe grenzüberschreitende Krankenversicherungssit
 - [Europäische Kommission Koordinierung](https://ec.europa.eu/social/main.jsp?catId=849)
 - [Deutsche Verbindungsstelle Krankenversicherung – Ausland (DVKA)](https://www.dvka.de)
 - [dejure.org SGB IV § 4](https://dejure.org/gesetze/SGB_IV/4.html)
+

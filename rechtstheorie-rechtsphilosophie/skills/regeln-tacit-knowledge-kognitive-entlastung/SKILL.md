@@ -16,10 +16,6 @@ description: "Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge,
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill prüft Regeln nicht nur als Befehle, sondern als Speicher von Erfahrung. Viele Regeln bündeln Wissen, das ihre Anwenderinnen nicht jedes Mal vollständig rekonstruieren können: technische Praxis, Marktinformation, Sicherheitswissen, Verwaltungserfahrung, richterliche Fallgruppen, Kanzleistandards.
-
 ## Sofort klären
 
 1. Welche Regel oder Routine wird angewendet?
@@ -63,16 +59,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Gib eine Regelwissen-Analyse aus:
-
-| Frage | Antwort |
-| --- | --- |
-| Regel/Routine | ... |
-| gespeichertes Erfahrungswissen | ... |
-| Trigger | ... |
-| Vorteil gegenüber Standard | ... |
-| Ausnahme-/Atypikrisiko | ... |
-| Aktualisierungsbedarf | ... |
-| Empfehlung | ... |

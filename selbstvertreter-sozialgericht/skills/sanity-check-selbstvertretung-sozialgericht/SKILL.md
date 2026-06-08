@@ -11,10 +11,6 @@ description: "Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungna
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Dieser Skill prüft, ob ein Widerspruch, eine Klage, ein Eilantrag oder eine Stellungnahme vor dem Sozialgericht praktisch tragfähig ist. Er soll Bürgern helfen, nichts Wichtiges zu vergessen.
-
 ## Wann aktivieren?
 
 - Vor Absenden eines Widerspruchs.
@@ -89,35 +85,3 @@ Ich beantrage im Wege der einstweiligen Anordnung, die Antragsgegnerin vorläufi
 | EM-Rente | Befundberichte, Reha-Entlassungsbericht, Tätigkeitsbeschreibung |
 | GdB | Diagnosen, Funktionsbeeinträchtigungen, Befunde, Alltagsschilderung |
 
-## Ausgabeformat
-
-**Sanity-Check**
-| Feld | Ampel | Befund | Reparatur |
-|---|---|---|---|
-
-**Vor Absenden erledigen**
-1. [kritischer Punkt]
-
-**So kann es raus, wenn**
-1. [Bedingung]
-
-**Nächste Skills**
-- `widerspruchsfrist-84-sgg`
-- `klagearten-uebersicht-sgg`
-- `eilantrag-86b-sgg-grundlagen`
-- `zulassungsgrenzen-check-sozialgericht`
-
-## Qualitätsregeln
-
-- Fristen mit Datum und Ausgangspunkt nennen.
-- Amtsermittlung nicht überschätzen: Belege bleiben wichtig.
-- Bei Eilrechtsschutz immer Anordnungsanspruch und Anordnungsgrund trennen.
-- Keine ärztlichen Diagnosen erfinden; medizinische Angaben nur aus Unterlagen übernehmen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

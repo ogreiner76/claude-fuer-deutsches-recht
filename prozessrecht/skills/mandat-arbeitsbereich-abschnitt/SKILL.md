@@ -5,10 +5,6 @@ description: "Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klage
 
 # Praxisprofil anpassen
 
-## Arbeitsbereich
-
-Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klageaenderung, Widerklage, Rücknahme. Normen: §§ 263 264 269 ZPO. Prüfraster: Klageaenderungsvoraussetzungen, Rücknahmefolgen, Widerklagemöglichkeiten. Output: Strategieanpassungs-Vermerk. Abgrenzung: nicht Berufungs-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -39,13 +35,6 @@ Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klageaenderung, Wid
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Gezielte Änderung einzelner Felder des Praxisprofils in CLAUDE.md, ohne den gesamten Kaltstart-Prozess zu wiederholen. Geeignet für Wechsel des Praxisschwerpunkts, Anpassung der Risikostrategie, Aktivierung neuer Integrationen oder Korrektur falscher Angaben.
-
 ## Eingaben
 
 - Eines oder mehrere zu ändernde Felder (z. B. "Schwerpunkt auf Strafrecht hinzufügen", "Outlook MCP aktivieren")
@@ -64,18 +53,8 @@ Gezielte Änderung einzelner Felder des Praxisprofils in CLAUDE.md, ohne den ges
 
 Keine gesonderten Normen. Allgemein: §§ 43a BRAO, 3a RVG bei rollenbezogenen Änderungen.
 
-## Ausgabeformat
-
-```
-Änderung gespeichert:
- Feld: praxis_schwerpunkte
- Alt: ["ZPO", "ArbGG"]
- Neu: ["ZPO", "ArbGG", "StPO"]
-
-CLAUDE.md aktualisiert. Alle Skills verwenden ab sofort das neue Profil.
-```
-
 ## Risiken / typische Fehler
 
 - **Rollenwechsel mit Rechtsfolgen:** Wechsel von Rechtsanwalt zu Syndikusrechtsanwalt (§ 46a BRAO) hat berufsrechtliche Konsequenzen; das Plugin dokumentiert den Wechsel, ersetzt aber keine standesrechtliche Beratung.
 - **Überschreiben statt Ergänzen:** Bei Praxisschwerpunkten immer prüfen, ob bestehende Einträge erhalten bleiben sollen; Default ist Ergänzung, nicht Überschreiben.
+

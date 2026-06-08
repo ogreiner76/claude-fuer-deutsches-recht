@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Handelssanktionen EU, USA (OFAC) und
 
 # Sanktionen und Embargos
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Handelssanktionen EU, USA (OFAC) und UK (OFSI). Blocking Statute (EU VO 2018/1100), SDN-Liste, Sektorsanktionen, Finanzsanktionen, Compliance-Pflichten und Konflikte zwischen EU- und US-Sanktionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Handelssanktionen beschränken oder verbieten Handels-, Finanz- und Servicetrans
 - Blocking-Statute-Konflikt: EU-Unternehmens-Rechtsabteilung und BAFA/Generaldirektion Handel informieren
 - Sanctions-Klausel: vertragliche Regelung wer bei Sanktionsverstoß haftet
 
-## Output
-
-- Sanktions-Screening-Checkliste
-- Blocking-Statute-Konflikt-Handlungsplan
-- Sanctions-Klausel-Muster
-
-## Quellenregel
-
-EU-Sanktionen: eur-lex.europa.eu. OFAC: home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions. OFSI: gov.uk. Blocking Statute VO 2271/96: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

@@ -122,12 +122,6 @@ IV. VERAENDERUNG FINANZMITTELFONDS [X]
 - Bei Bank-/Investor-Reporting Praesentationsformat (eine Seite plus Erlaeuterung).
 - Sanierungskonzept IDW S 6: integriert mit Plan-Cashflow 24 Monate.
 
-## Output
-
-- Kapitalflussrechnung nach DRS 21 indirekte Methode.
-- Erlaeuterung wesentlicher Veraenderungen.
-- Anhang im Jahresabschluss (freiwillig im Einzelabschluss).
-
 ## Strategie und Praxis-Tipps
 
 - Bei Mittelstand: Kapitalflussrechnung auf Wunsch des Bank-Partners als Standard.
@@ -136,14 +130,6 @@ IV. VERAENDERUNG FINANZMITTELFONDS [X]
 - Praxis-Tipp: Cashflow aus laufender Geschaeftstaetigkeit ist Indikator für organische Ertragskraft; deutlich unter Jahresueberschuss = Working-Capital-Problem.
 - StBVV: Kapitalflussrechnung als separater Auftrag (Anhang Jahresabschluss).
 - DATEV-Tipp: DATEV Konzernabschluss/Jahresabschluss-Modul mit Kapitalflussrechnung; bei Einzelabschluss manuelle Erstellung.
-
-## Querverweise
-
-- `stb-bwa-bewegungsbilanz-erstellen` — Vorstufe.
-- `stb-bwa-cashflow-laienverstaendlich` — vereinfachte Darstellung.
-- `stb-jahresabschluss-vorbereitung-stichtag` — Jahresabschluss.
-- `stb-liquiditaetsvorschau-3-6-12-monate` — Plan-Cashflow.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -155,10 +141,3 @@ Stand: 05/2026.
 - IAS 7 (international).
 - InsO § 19.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

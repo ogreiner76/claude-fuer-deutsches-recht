@@ -68,12 +68,6 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 - Daten-Hosting in EU.
 - Backup-Strategie.
 
-## Output
-
-- Cloud-Konto eingerichtet.
-- Schnittstelle zu DATEV.
-- Mandant geschult.
-
 ## Strategie und Praxis-Tipps
 
 - Cloud-Tools sind Effizienzhebel, wenn Mandant disziplinarisch arbeitet.
@@ -82,12 +76,6 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 - Honorar oft niedriger bei Cloud-betreibenden Mandanten (Buchungs-Anteil reduziert).
 - StBVV: Honorarmodell anpassen (Pauschal niedriger, Pruefung Stunden).
 
-## Querverweise
-
-- `stb-online-portal-datev-mandantenshop` — DUO.
-- `stb-belegtransfer-datev-unternehmen-online` — Belegtransfer.
-- `stb-datentransfer-mandant-cloud-dsgvo` — DSGVO im Datenverkehr.
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -95,14 +83,6 @@ Stand: 05/2026.
 - BuchhaltungsButler, sevDesk, Lexware Dokumentation.
 - DSGVO Art. 28.
 - BMF v. 28.11.2019 zu GoBD.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -132,3 +112,4 @@ Stand: 05/2026.
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

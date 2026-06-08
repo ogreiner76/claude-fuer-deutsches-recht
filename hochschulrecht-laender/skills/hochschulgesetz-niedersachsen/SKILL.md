@@ -5,10 +5,6 @@ description: "Prüft Hochschulrecht in Niedersachsen mit Landeshochschulgesetz, 
 
 # Hochschulgesetz Niedersachsen
 
-## Arbeitsbereich
-
-Prüft Hochschulrecht in Niedersachsen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Hochschulgesetz Niedersachsen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Hochschulgesetz Niedersachsen**. Prüfe diese Anker am Sachverha
 - `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruch.
 - `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -93,3 +88,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

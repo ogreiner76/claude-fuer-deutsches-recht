@@ -5,10 +5,6 @@ description: "Untreue anzeigen: Vermögensbetreuungspflicht, Pflichtverletzung, 
 
 # Untreue § 266 StGB
 
-## Arbeitsbereich
-
-Untreue anzeigen: Vermögensbetreuungspflicht, Pflichtverletzung, Vermögensnachteil, Organ-/Mitarbeiterfälle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Untreue anzeigen: Vermögensbetreuungspflicht, Pflichtverletzung, Vermögensnach
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Unternehmen, Vereine und Gesellschafterkonflikte.
-
 ## Norm- und Quellenanker
 
 StGB § 266; GmbHG § 43; AktG § 93.
-
-## Arbeitsfragen
-
-1. Welche Vermögensbetreuungspflicht?
-2. Welche Pflichtverletzung?
-3. Welcher Nachteil?
-
 
 ## Normen & Rechtsprechung
 
@@ -39,9 +24,6 @@ Konkret zu prüfen:
 - § 266 StGB (Untreue)
 - BVerfGE 126, 170
 - BGHSt 50, 331 (gravierende Pflichtverletzung)
-## Output
-
-Untreue-Anzeigememo.
 
 ## Red Flags
 
@@ -53,6 +35,3 @@ Untreue-Anzeigememo.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

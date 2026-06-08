@@ -150,22 +150,7 @@ LG-Urteil kann mit **Revision zum BGH** angefochten werden — aber nur, wenn vo
 - "Das AG hat nicht zugelassen — ich lege Beschwerde beim LG ein." → Existiert nicht. Eine "Zulassungs-Beschwerde" gibt es in § 511 IV ZPO nicht.
 - "Die Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR.
 
-## Querverweise
-
-- `urteil-pruefen-313-zpo` — Urteil pruefen.
-- `rechtsmittelfrist-517-zpo` — Frist.
-- `berufungs-zulassung-niedrig-streitwert` — Zulassung.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `wann-doch-anwalt-grenzfaelle` — Anwalt.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 511 II Nr. 1 ZPO aktuelle Fassung: Beschwer 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz). Anwaltszwang § 78 ZPO unveraendert. Eine Zulassungs-Beschwerde zum LG existiert in § 511 ZPO nicht.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

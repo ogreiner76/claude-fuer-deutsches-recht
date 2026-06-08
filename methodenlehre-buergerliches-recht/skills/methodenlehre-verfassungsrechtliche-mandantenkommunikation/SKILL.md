@@ -51,10 +51,6 @@ description: "Dieses Skill strukturiert die Kommunikation von verfassungsrechtli
 - Mandanten werden nicht ausreichend über die Subsidiarität der Verfassungsbeschwerde informiert.
 - Entscheidungsvorlagen sind zu technisch und nicht auf den Informationsstand des Mandanten abgestimmt.
 
-## Output
-
-Das Skill liefert eine mandantengerechte Entscheidungsvorlage: Sachverhalt in Laienbegriffen, verfassungsrechtliche Einordnung mit Risikoampel, Handlungsoptionen mit Kosten- und Erfolgsprognose, Fristen und Empfehlung. Das Dokument ist für das Beratungsgespräch und die Aktenablage bestimmt.
-
 ## Quellen
 
 - [Art. 14 GG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gg/art_14.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

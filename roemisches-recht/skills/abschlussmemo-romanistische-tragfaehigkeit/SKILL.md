@@ -5,10 +5,6 @@ description: "Römisches Recht: Abschlussmemo zur romanistischen Tragfähigkeit 
 
 # Abschlussmemo: Romanistische Tragfähigkeit
 
-## Arbeitsbereich
-
-Römisches Recht: Abschlussmemo zur romanistischen Tragfähigkeit - Methodenreflexion, Quellenvalidierung, Epochenzuordnung, Interpolationsvorbehalt, Unterschied hist. Aussage und normative Aussage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -71,13 +67,3 @@ Das Abschlussmemo zur romanistischen Tragfähigkeit fasst die Ergebnisse einer r
 - Kaser RP I-II für Sekundäreinordnung
 - Checkliste: Quelle - Autor - Epoche - Interpolation - Rezeption
 
-## Output
-
-- Abschlussmemo-Template
-- Qualitätskriterienliste für romanistische Analyse
-- Stärke-Skala für Quellenaussagen
-- Leitfaden für Hausarbeiten und Seminare
-
-## Quellenregel
-
-CIC: Mommsen-Krüger (archive.org). Lenel Palingenesia (archive.org). Kaser RP I-II. Quellenvalidierung explizit dokumentieren.

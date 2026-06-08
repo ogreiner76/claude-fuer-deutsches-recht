@@ -5,10 +5,6 @@ description: "Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist n
 
 # Verl-039 · Nachlassverwaltung und Autorenerbe
 
-## Arbeitsbereich
-
-Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist nach UrhG § 64, Erbgang des Urheberrechts, Testamentsvollstreckung, Lizenzfortführung und Vergriffenheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -121,3 +117,4 @@ Mit dem Tod eines Autors geht das Urheberrecht auf die **Erben** über. Dieser S
 - **Nachlass-Lizenzvertrag-Muster**: Posthumes Werk
 - **Erbengemeinschafts-Zustimmungs-Protokoll**: Für Lizenzerteilungen
 - **Schutzfristen-Kalender**: Für alle Werke eines Autors
+

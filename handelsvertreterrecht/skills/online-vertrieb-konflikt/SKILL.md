@@ -5,10 +5,6 @@ description: "Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb u
 
 # Online-Vertriebskonflikt — Bezirksschutz vs. E-Commerce nach § 87 HGB
 
-## Arbeitsbereich
-
-Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb und Online-Direktvertrieb des Unternehmers: Provisionsanspruch bei Online-Bestellungen aus dem Vertretergebiet nach § 87 Abs. 2 HGB, AGB-Kontrolle von Online-Kanal-Ausnahmen, Bezirksschutz im digitalen Zeitalter und Ausgleich bei Online-bedingter Marktverdrängung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,10 +62,6 @@ Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländis
 - Online-bedingter Umsatzverlust nicht in Ausgleichsberechnung einbezogen.
 - Kündigung wegen Online-Direktvertrieb ohne wichtigen Grund nach § 89a HGB — Schadensersatz.
 
-## Output
-
-Bezirksprovisionsberechnung Online, AGB-Prüfvermerk, Ausgleichsberechnung mit Online-Faktor.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

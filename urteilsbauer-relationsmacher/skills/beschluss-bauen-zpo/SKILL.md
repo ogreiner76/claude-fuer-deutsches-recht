@@ -5,10 +5,6 @@ description: "Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hi
 
 # Beschluss bauen — Zivilprozess
 
-## Zweck
-
-Beschlüsse sind selbstständige Entscheidungen, die nicht auf muendliche Verhandlung ergehen müssen (Paragraf 128 IV ZPO). Sie sind das tägliche Werkzeug des Zivilrichters — von der prozessleitenden Maßnahme bis zur Endentscheidung im Beschlussverfahren (z.B. Familiensachen FamFG). Dieser Skill liefert die Form, die typischen Tenoere, die wichtigsten Begründungsmuster und die wiederkehrenden Fallstricke.
-
 ## 1) Beschluss-Typen im Überblick
 
 | Typ | Norm | Anlass | Rechtsmittel |
@@ -212,3 +208,4 @@ gegeben.
 - `relation-zivil` — bei nachfolgender Hauptsachenentscheidung
 - `tenor-bauen-zivil` — Tenor-Werkstatt
 - `vorläufige-vollstreckbarkeit` — bei verbundenem Urteil
+

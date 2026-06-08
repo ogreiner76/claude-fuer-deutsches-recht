@@ -53,12 +53,3 @@ Das CISG etabliert ein einheitliches Rechtsbehelfssystem für den Käufer. Der K
 - Kumulierungsmöglichkeit dokumentieren in Anspruchsschreiben
 - Aufhebungsfrist Art. 49 Abs. 2 nicht versäumen (angemessene Zeit nach Kenntnis)
 
-## Output
-
-- Rechtsbehelfstabelle: Voraussetzungen, Rechtsfolge, Fristen
-- Minderungs-Berechnungsbeispiel
-- Muster-Rüge- und Aufhebungsschreiben
-
-## Quellenregel
-
-CISG: uncitral.un.org. CISG Advisory Council Opinion No. 2 (Art. 46) und No. 9 (Art. 50): cisgac.com. Rechtsprechung: CISG-online.ch, jusmundi.com. Unsicherheit bleibt sichtbar.

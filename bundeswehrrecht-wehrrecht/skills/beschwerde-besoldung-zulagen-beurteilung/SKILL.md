@@ -5,10 +5,6 @@ description: "Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die 
 
 # Beschwerde gegen Beurteilung und Laufbahnentscheidung
 
-## Arbeitsbereich
-
-Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,15 +91,6 @@ Die Beurteilung (planmäßig oder Anlassbeurteilung) und die darauf gestützte L
 - Plausibilitätsangriff ohne Vergleichsmaßstab.
 - Verwaltungsgerichtsweg gewählt – WBO ist exklusiv.
 
-## Querverweise
-
-- soldatengesetz-rechtsstellung-grundpflichten
-- eilverfahren-konkurrentenstreit-wehrdienstsenat
-- beurteilung-konkurrentenstreit-auswahlentscheidung
-- wehrbeschwerdeordnung-beschwerde-frist-form
-- personalakte-einsicht-datenschutz
-- ernennung-dienstgrad-laufbahnrecht
-
 ## Quellen Stand 06/2026
 
 - § 27 SG, Soldatenlaufbahnverordnung – Volltexte gesetze-im-internet.de.
@@ -111,3 +98,4 @@ Die Beurteilung (planmäßig oder Anlassbeurteilung) und die darauf gestützte L
 - Art. 33 II GG; BVerfG zu Bestenauslese – ständige Rechtsprechung.
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung zu Beurteilungsspielraum und Plausibilitätskontrolle (Az. nach Verifikation).
 - WBO §§ 1, 6, 17, 21 – Volltext gesetze-im-internet.de.
+

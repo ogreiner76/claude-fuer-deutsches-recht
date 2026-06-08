@@ -5,10 +5,6 @@ description: "Vergleich der DSFA-Methoden: CNIL PIA Software (Frankreich) gegenu
 
 # DSFA-Methodik CNIL PIA versus SDM/BSI
 
-## Zweck
-
-Vergleich der drei in Deutschland und Frankreich gaengigen DSFA-Methoden — CNIL PIA Software, Standard-Datenschutzmodell (SDM) der Datenschutzkonferenz und der BSI-Bausteine zum Standard-Datenschutz — und Auswahl der jeweils passenden Methodik für die konkrete Mandantenkonstellation. Ergebnis ist eine begruendete Methodenwahl mit Werkzeughinweis.
-
 ## Wann dieses Modul hilft
 
 - Vor der Erstdurchfuehrung einer DSFA, wenn keine Hausmethodik vorgegeben ist
@@ -107,14 +103,6 @@ Unterschrift DSB: ____________________
 - Methodenwahl wird im Projektverlauf gewechselt — kein Quervergleich der Risikobewertung mehr moeglich.
 - Aufsichtshinweise zur Methodenfreiheit werden als Beliebigkeit verstanden — die Methode muss zur Verarbeitung passen.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage DE
-- `datenschutzrecht/skills/dpia-en-template-full-version/SKILL.md` — Englische Vollvorlage
-- `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikoanalyse
-- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 7 DSGVO
@@ -124,3 +112,4 @@ Unterschrift DSB: ____________________
 - BSI: bsi.bund.de — Grundschutz-Fachüberblick, Baustein zum Datenschutz
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

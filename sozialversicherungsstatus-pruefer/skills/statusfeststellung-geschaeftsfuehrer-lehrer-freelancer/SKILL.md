@@ -5,10 +5,6 @@ description: "Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Min
 
 # Statusfeststellung: Geschäftsführer, Lehrende, Freelancer und Scheinselbstständigkeit
 
-## Arbeitsbereich
-
-Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -29,5 +25,3 @@ Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgesch�
 4. Rechtsmacht bei GmbH: Beteiligung, Sperrminorität, Muttergesellschaft, Stimmbindung, Abberufbarkeit.
 5. Verfahren: § 7a SGB IV, Betriebsprüfung, Säumniszuschläge, Vertrauensschutz/Übergänge, Dokumentation.
 
-## Output
-Statusmatrix mit Ampel, Nachforderungsrisiko, Gestaltungsvorschlägen und Antragsskizze für DRV/Sozialgericht.

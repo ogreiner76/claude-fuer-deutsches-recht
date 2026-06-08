@@ -5,10 +5,6 @@ description: "Prueft urheberrechtliche Abmahnung, Unterlassungserklärung, Koste
 
 # Abmahnung nach § 97a UrhG beantworten
 
-## Arbeitsbereich
-
-Prueft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegitimation, Belege, Modifikation und Gegenangriff. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,3 +78,4 @@ Konkret zu prüfen:
 - § 97a UrhG (Abmahnung)
 - § 97 UrhG
 - BGH I ZR 121/08 (Sommer unseres Lebens)
+

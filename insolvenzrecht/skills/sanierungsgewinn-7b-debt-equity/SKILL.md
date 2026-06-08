@@ -5,10 +5,6 @@ description: "Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Par
 
 # Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack
 
-## Arbeitsbereich
-
-Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zuständigkeit Stadtkasse/Finanzamt. Mustertext für Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -161,20 +157,6 @@ GewStG vom [Datum]]
 5. Zerlegungsbescheid (Paragraphen 28 ff. GewStG) bei mehreren Betriebsstaetten uebersehen.
 6. Stundungsantrag fehlt — Gemeinde vollstreckt sofort.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — KSt/ESt-Schiene.
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Verrechnungs-Modell.
-- `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
-- `insol-sanierungsgewinn-vergleich-mit-finanzamt-und-stundung` — Stundungs-/Erlassmechanik.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — generelle Gewerbesteuer-Themen.
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt.
-
 ## Quellen Stand 06/2026
 
 - Paragraph 7b GewStG, `gesetze-im-internet.de/gewstg/__7b.html`.
@@ -186,3 +168,4 @@ In anderen Plugins:
 - Paragraph 3a EStG.
 - FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25. Verifikation ueber `dejure.org`.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

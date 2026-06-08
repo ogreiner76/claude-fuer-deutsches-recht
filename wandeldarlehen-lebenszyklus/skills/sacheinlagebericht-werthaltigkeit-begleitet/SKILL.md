@@ -5,10 +5,6 @@ description: "Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen e
 
 # Sacheinlagebericht und Werthaltigkeit der Forderung
 
-## Arbeitsbereich
-
-Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Prüfraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzung: nicht für Beurkundungsfragen (beurkundungserfordernis-prüfung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und W
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erstellt den Sacheinlagebericht und prüft die Werthaltigkeit der als Sacheinlage einzubringenden Forderung aus dem Wandeldarlehen (Darlehen + aufgelaufene Zinsen). Phase D des Lebenszyklus.
 
 ## Eingaben
 
@@ -96,12 +88,6 @@ entspricht ihrem Nennwert von EUR 275694. Eine Überbewertung liegt nicht vor.
 | Differenzhaftungsrisiko ignoriert | Persönliche Haftung Lender/Gesellschafterinnen | Risiko bekannt aber nicht quantifiziert | Konservative Bewertung |
 | GF-Versicherung in HR-Anmeldung ohne Plausibilisierung | § 9a i.V.m. § 57 IV GmbHG-Haftung GF, § 82 GmbHG strafrechtlich | Versicherung dünn dokumentiert | Plausibilisierung durch StB/WP dokumentiert |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-kapitalerhoehung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/rangruecktritt-formulieren/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/notar-paket-uebermittlung/SKILL.md`
-
 ## Vertiefung — Aktuelle Rechtsprechung
 
 ### Leitsatz-Zitate
@@ -124,3 +110,4 @@ Stand: 05/2026.
 - § 272 II Nr. 4 HGB (Kapitalruecklage): https://www.gesetze-im-internet.de/hgb/__272.html
 - IDW S 1 / IDW RS HFA 42 (Werthaltigkeit von Forderungen): https://www.idw.de/idw/idw-verlautbarungen
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

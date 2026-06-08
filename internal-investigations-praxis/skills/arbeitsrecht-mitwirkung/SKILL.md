@@ -5,10 +5,6 @@ description: "Klärt arbeitsrechtliche Mitwirkungspflichten, Auskunftspflichten 
 
 # Arbeitsrechtliche Mitwirkungspflichten
 
-## Arbeitsbereich
-
-Klärt arbeitsrechtliche Mitwirkungspflichten, Auskunftspflichten und Grenzen bei Mitarbeiterbefragungen in Internal Investigations. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -62,15 +58,6 @@ Dieser Skill klärt, welche Mitwirkungspflichten Mitarbeiter haben, wie weit die
 ### 7. Besondere Konstellation: Leitungspersonen
 - § 130 OWiG: Leitungspersonen haben eigene Aufsichtspflicht; Mitwirkung an der Aufklärung kann Bußgeldrisiko mindern ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/owig/__130.html)).
 - BGH II ZR 234/09 (Siemens/Neubürger): Vorstandsmitglied hat persönliche Aufklärungspflicht ([openjur.de](https://openjur.de/o/577696.html)).
-
-## Red-Team-Fragen
-
-- Wurde dem Mitarbeiter vor dem Interview klar kommuniziert, ob er als Zeuge oder Betroffener gilt?
-- Wurde er über das nemo-tenetur-Prinzip belehrt – schriftlich und nachweisbar?
-- Ist die Kündigung bei Verweigerung der Aussage verhältnismäßig, wenn berechtigte Selbstbelastungsgefahr vorliegt?
-- Haben Mitarbeiter mit Berufsgeheimnis (§ 203 StGB) auf ihre Schweigepflicht hingewiesen?
-- Wurde zwischen echter Mitwirkungsverweigerung und berechtigtem Schweigen unterschieden?
-- Ist die Dokumentation der Belehrungen vollständig und gerichtsfest?
 
 ## Normenregister
 

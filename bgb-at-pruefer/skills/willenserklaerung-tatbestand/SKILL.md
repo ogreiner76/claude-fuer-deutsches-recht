@@ -45,13 +45,6 @@ description: "Klausurfall zum Tatbestand der Willenserklärung: objektiver Erkl�
 - Gefälligkeit ohne Rechtsbindungswillen begründet kein Schuldverhältnis — rein sozialer Bereich.
 - Vorübergehende Störung nach § 105 Abs. 2 BGB: Erklärung nichtig, auch wenn nicht auf Dauer geschäftsunfähig.
 
-## Output
-
-- Gutachtenstil-Abschnitt zum Tatbestand der Willenserklärung
-- Schema: Handlungswille → Erklärungsbewusstsein → Rechtsbindungswille → objektiver Tatbestand
-- Prüfampel: Willenserklärung bejaht / verneint / potentielles Bewusstsein ausreichend
-- Klausurlösungsskizze mit § 118 BGB und § 105 BGB-Varianten
-
 ## Quellen
 
 - [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
@@ -81,3 +74,4 @@ Fehlt der Geschäftswille: Anfechtungsrecht nach § 119 Abs. 1 BGB (Inhaltsirrtu
 - Geschäftswille: Wollte Erklärende genau dieses Rechtsgeschäft?
 - Empfangsbedürftigkeit: Bedarf die WE des Zugangs beim Empfänger?
 - Objektiver Empfängerhorizont: Wie musste der Empfänger die Erklärung verstehen?
+

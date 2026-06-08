@@ -39,9 +39,6 @@ Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf E
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - **§ 128 BGB** — Notarielle Beurkundung: gesetzlich angeordnete notarielle Beurkundung nach Beurkundungsgesetz (BeurkG)
@@ -133,8 +130,3 @@ zunächst einen Notartermin.
 - **Formwahrung Vollmacht für Grundstücksgeschäft**: Die Vollmacht zur Beurkundung eines Grundstückskaufs muss ebenfalls notariell beurkundet oder beglaubigt sein.
 - **Video-Beurkundung Schranken**: Nicht alle Notariate bieten Videobeurkundung an; Eheverträge und Testamente bleiben Präsenzgeschäft.
 
-## Querverweise
-
-- → `formerfordernisse-im-bgb-ueberblick`
-- → `buergschaft-verbraucherdarlehen-und-andere-strenge-formen`
-- → `verteidigungsstrategie-bei-formangriff` (Heilung § 311b Abs. 1 S. 2 BGB)

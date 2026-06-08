@@ -5,9 +5,6 @@ description: "Anfaenger Sozialgericht Rechtsprechungschat im Selbstvertretung am
 
 # Anfaenger Sozialgericht Rechtsprechungschat
 
-## Arbeitsbereich
-
-**Anfaenger Sozialgericht Rechtsprechungschat** ordnet den Fall über die tragenden Prüfungslinien: Geführter Anfänger-für Bürgerinnen und Bürger vor dem, Geführter Rechtsprechungschat für Selbstvertreter im, Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Anfaenger Sozialgericht Rechtsprechungschat im Selbstvertretung am
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `anfaenger-workflow-sozialgericht`
@@ -40,12 +38,6 @@ description: "Anfaenger Sozialgericht Rechtsprechungschat im Selbstvertretung am
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Dieser Skill ist der ruhige Einstieg für Menschen, die mit Jobcenter, Krankenkasse, Rentenversicherung, Pflegekasse, Versorgungsamt oder Berufsgenossenschaft streiten und noch nie vor dem Sozialgericht waren.
-
-Er führt Schritt für Schritt, in einfacher Sprache, mit Fristen zuerst und ohne falsche Scheu: Vor dem Sozialgericht darf man sich selbst vertreten.
 
 ## In einfacher Sprache
 
@@ -109,45 +101,6 @@ Prüfen Sie:
 | Rechtsprechung | `rechtsprechungschat-sozialgericht` |
 | Rechtsmittel | `zulassungsgrenzen-check-sozialgericht` |
 
-## Ausgabeformat
-
-**Kurzbild**
-- Schreiben:
-- Thema:
-- Frist:
-- Dringlichkeit:
-- Nächster Weg:
-
-**Jetzt tun**
-1. [konkrete Handlung]
-
-**Warum**
-[Einfach erklären.]
-
-**Passender Skill**
-| Skill | Warum jetzt? |
-|---|---|
-
-**Bitte sammeln**
-- Bescheid und Umschlag.
-- Widerspruchsbescheid, falls vorhanden.
-- Arztberichte, Rechnungen, Bescheinigungen, Kontoauszüge oder Pflegeprotokoll je nach Thema.
-
-## Qualitätsregeln
-
-- Keine komplizierten Gutachten am Anfang.
-- Nicht sagen "das Gericht macht alles", sondern erklären: Amtsermittlung hilft, aber gute Unterlagen helfen noch mehr.
-- Bei existenzieller Not immer Eilantrag prüfen.
-- Bei BSG, Nichtzulassungsbeschwerde, schwieriger Medizin oder hoher Nachzahlung anwaltliche Hilfe/Sozialverband/PKH ansprechen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `rechtsprechungschat-sozialgericht`
 
 **Fokus:** Geführter Rechtsprechungschat für Selbstvertreter im Sozialgerichtsverfahren. Hilft, BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung zu finden, zu verstehen und laiengerecht zu verwenden.
@@ -161,12 +114,6 @@ Prüfen Sie:
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Dieser Skill hilft, Rechtsprechung im Sozialrecht praktisch nutzbar zu machen. Er soll nicht viele Fundstellen sammeln, sondern die eine oder zwei Entscheidungen finden, die den eigenen Punkt wirklich tragen.
-
-Es werden keine Entscheidungen erfunden. Unsichere Fundstellen müssen live verifiziert werden.
 
 ## Startfragen
 
@@ -198,39 +145,6 @@ Es werden keine Entscheidungen erfunden. Unsichere Fundstellen müssen live veri
 | EM-Rente | Leistungsvermögen, qualitativer/quantitativer Maßstab, Arbeitsmarkt |
 | GdB | Funktionsbeeinträchtigung statt bloßer Diagnose |
 | Berufung | § 144 SGG Wertgrenze, laufende Leistungen, Zulassungsgründe |
-
-## Ausgabeformat
-
-**Ihre Rechtsfrage**
-[Ein Satz.]
-
-**Normanker**
-| Norm | Bedeutung |
-|---|---|
-
-**Rechtsprechungslage**
-| Fundstelle | Kernaussage | Passt? | Verwendung |
-|---|---|---|---|
-
-**In einfacher Sprache**
-[Drei bis fünf kurze Sätze.]
-
-**Schriftsatzbaustein**
-```text
-Nach der Rechtsprechung von [Gericht] kommt es bei [Thema] darauf an, ob [Kernsatz].
-Das ist hier relevant, weil [Tatsache].
-```
-
-**Noch zu prüfen**
-- Fundstelle live verifizieren.
-- Sachverhalt mit Belegen unterfüttern.
-- Gegenargument der Behörde prüfen.
-
-## Qualitätsregeln
-
-- BSG-/BVerfG-Fundstellen nur mit sicherem Aktenzeichen, Datum und Aussage nennen.
-- Keine alten Entscheidungen verwenden, wenn Reformen oder neue BSG-Linien erkennbar sind.
-- Laien erklären, dass Rechtsprechung kein Zauberspruch ist: Sie hilft nur, wenn Sachverhalt und Norm passen.
 
 ## 3. `anhoerung-im-sozialverwaltungsverfahren-24-sgb-x`
 
@@ -409,25 +323,9 @@ Sozialgericht Geschaeftsstelle anrufen. Mitarbeiter helfen bei Fristberechnung.
 - Berufungsfrist beim LSG verpasst → keine Wiedereinsetzung leicht
 - Fristverlaengerung am Tag der Frist beantragt → zu spaet
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruchsfrist-84-sgg` — Widerspruchsfrist
-- `wiedereinsetzung-frist-67-sgg` — Wiedereinsetzung
-- `fristenbuch-fuehren-laien-sozialgericht` — Fristen fuehren
-- `fristverlaengerung-sozialgericht-laien` — Verlaengerung
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. PostModG seit 1.1.2025 mit 4-Tage-Fiktion. Vor 2025: 3 Tage.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `fristenbuch-fuehren-laien-sozialgericht`
 
@@ -548,25 +446,9 @@ Wer mehrere Sachen hat:
 - Erst am Tag der Frist daran erinnert → zu spaet für Recherche / Schreiben
 - Verschiedene Fristen verwechselt → Az dazuschreiben
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `fristen-berechnen-sgg-laien` — Berechnen
-- `wiedereinsetzung-frist-67-sgg` — wenn Frist trotzdem versaeumt
-- `fristverlaengerung-sozialgericht-laien` — Verlaengerung
-- `widerspruchsfrist-84-sgg` — Widerspruchsfrist
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Tipps.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -596,3 +478,4 @@ Stand: 05/2026. Praxis-Tipps.
 - Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.
+

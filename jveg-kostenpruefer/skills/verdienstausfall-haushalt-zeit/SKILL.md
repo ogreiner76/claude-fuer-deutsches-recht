@@ -5,10 +5,6 @@ description: "Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG für Ze
 
 # JVEG-Verdienstausfall-Haushalt-Zeit
 
-## Arbeitsbereich
-
-Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG für Zeugen und Sachverständige berechnen. Normen: §§ 20 21 22 JVEG. Prüfraster: tatsaechlicher Verdienstausfall, Stundensatz, Haushaltsführung. Output: Verdienstausfall-Berechnung JVEG. Abgrenzung: nicht Sachverständigenverguetung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG für Zeugen und Sachv
 ## Fachkern: JVEG-Verdienstausfall-Haushalt-Zeit
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Trenne und berechne die Ansprüche auf Verdienstausfallentschädigung, Haushaltführungsschaden und Zeitversäumnis nach §§ 20–22 JVEG und verhindere Doppelerfassung.
 
 ## Triage — kläre vor der Prüfung
 
@@ -49,9 +42,6 @@ Trenne und berechne die Ansprüche auf Verdienstausfallentschädigung, Haushaltf
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. LG München I, Beschl. v. 15.04.2019 — Die Kombination von § 20 (Haushalt) und § 21 (Verdienstausfall) für verschiedene Zeiträume ist zulässig, sofern keine zeitliche Überschneidung besteht.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Zeuge oder Zeugensachwalter meldet sich wegen Verdienstausfall, Haushaltführungsschaden oder Zeitversäumnis.
 
@@ -79,3 +69,4 @@ Bereinigter Anspruch ohne Doppelerfassung, mit Stundensatzberechnung und Belegna
 ## Leitplanken
 - § 22 JVEG ist Auffangtatbestand; nur wenn §§ 20/21 nicht greifen.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

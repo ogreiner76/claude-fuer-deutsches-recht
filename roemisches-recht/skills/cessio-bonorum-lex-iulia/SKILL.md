@@ -5,10 +5,6 @@ description: "Cessio bonorum nach der Lex Iulia: freiwillige Vermoegensabtretung
 
 # Rom 111 Cessio Bonorum Lex Iulia
 
-## Aufgabe
-
-Skill für die cessio bonorum als Vorlaeufer der heutigen Privatinsolvenz.
-
 ## Rechtsquelle
 
 - Lex Iulia de cessione bonorum (vermutlich 17 v. Chr. unter Augustus; Datum vor Zitat verifizieren).
@@ -57,7 +53,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse zur heutigen Restschuldbefreiung.

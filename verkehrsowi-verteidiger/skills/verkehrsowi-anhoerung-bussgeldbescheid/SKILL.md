@@ -39,9 +39,6 @@ Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat An
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anhörungsbogen — Strategie
 
 ```
@@ -96,3 +93,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Einspruchsfrist 2 Wochen ab Zustellung (§ 67 OWiG) — sofort notieren.
 - Bussgeldbescheid auf Pflichtinhalt nach § 66 OWiG pruefen.
 - Anwaltliche Endkontrolle bei Einspruchsformulierung.
+

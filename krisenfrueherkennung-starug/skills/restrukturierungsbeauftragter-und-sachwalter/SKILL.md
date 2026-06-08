@@ -113,36 +113,6 @@ Das StaRUG kennt zwei externe Organe, die in verschiedenen Konstellationen beste
 
 ---
 
-## Vorgehen
-
-### Schritt 1: Entscheidung über Einbeziehung eines Restrukturierungsbeauftragten
-
-- [ ] Liegt ein Fall vor, der Pflichtbeauftragung erfordert?
-- [ ] Ist freiwillige Bestellung sinnvoll (Glaubwürdigkeitsgewinn bei Gläubigern)?
-- [ ] Welche Qualifikationen muss der Beauftrage haben?
-
-### Schritt 2: Kandidaten identifizieren und Vorschlag vorbereiten
-
-```
-VORSCHLAG RESTRUKTURIERUNGSBEAUFTRAGTER
-
-Vorgeschlagene Person: [Name — fiktiv]
-Qualifikationen: [Restrukturierungsrechtler, Fachanwalt für Insolvenzrecht, x Jahre Erfahrung]
-Unabhängigkeitserklärung: beigefügt
-Honorarvorstellung: EUR [___] pro Stunde, max. EUR [___] Gesamthonorar
-Kein Mandat für beteiligte Gläubiger: bestätigt
-
-Begründung der Eignung: [___]
-```
-
-### Schritt 3: Zusammenarbeit mit dem Beauftragten
-
-- Vollständige Dokumentation übergeben (Finanzplan, IDW S 6-Gutachten, Gläubigerliste)
-- Regelmäßige Statusgespräche vereinbaren
-- Transparenz bei allen Verfahrenshandlungen
-
----
-
 ## Templates
 
 ### Muster: Informationspaket für Restrukturierungsbeauftragten
@@ -194,14 +164,6 @@ Sonstiges:
 
 ---
 
-## Querverweise
-
-- → `stabilisierungsanordnung-und-vollstreckungssperre` — Pflichtbeauftragung bei Anordnung
-- → `restrukturierungsplan-architektur-paragraph-7ff-starug` — Aufgaben im Planverfahren
-- → `cross-class-cram-down-und-absolute-priority` — Rolle im Bestätigungsverfahren
-- → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Informationspflichten
-- → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Zugangsvoraussetzung für das Verfahren
-
 ## Aktuelle Leitentscheidungen — Restrukturierungsbeauftragter und Sachwalter
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -219,6 +181,3 @@ Sonstiges:
 3. **Interessen-Konflikt?** Sachwalter darf kein eigenes Interesse an Verwertungs-Ergebnis haben.
 4. **Pflichten-Umfang?** § 274 InsO: Kassenprueung, Zahlungsverkehr-Kontrolle, Bericht an Gericht und Ausschuss.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

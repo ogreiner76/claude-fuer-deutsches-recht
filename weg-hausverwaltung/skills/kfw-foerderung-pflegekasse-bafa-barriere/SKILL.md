@@ -55,13 +55,6 @@ GdB (Grad der Behinderung) und Merkzeichen entscheiden über Steuer-Pauschbeträ
 
 Kostenlose Beratung: Verbraucherzentrale (Energie- und Wohnberatung), Caritas (Pflegeberatung § 7a SGB XI), Diakonie, kommunale Wohnberatungsstellen (Adressen über BIVA-Pflegeschutzbund), Ergotherapeuten (Wohnraumanpassung fachlich begleiten).
 
-## Output
-
-- Förder-Matrix mit Beträgen und Voraussetzungen (tabellarisch)
-- Antragspfad-Diagramm (Reihenfolge und Fristen, Schritt 1-4)
-- Eigentümer-Beratungsschreiben „Welche Förderungen stehen Ihnen zu?" (individualisierbar)
-- Verweis-Liste Beratungsstellen (Adressen, Telefon, URL)
-
 ## Cross-Refs
 
 - Aufzug und Treppenlift → `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg`
@@ -73,3 +66,4 @@ Kostenlose Beratung: Verbraucherzentrale (Energie- und Wohnberatung), Caritas (P
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. KfW-Konditionen und KfW 455-B-Status über kfw.de live prüfen — Zinssätze und Programm-Verfügbarkeit ändern sich monatlich. § 40 SGB XI über https://www.gesetze-im-internet.de/sgb_11/__40.html, § 33b EStG über https://www.gesetze-im-internet.de/estg/__33b.html live verifizieren. BAFA-Richtlinien über bafa.de abrufen.
+

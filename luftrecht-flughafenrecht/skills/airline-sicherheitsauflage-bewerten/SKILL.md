@@ -5,10 +5,6 @@ description: "Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft 
 
 # Airline – Sicherheitsauflage bewerten
 
-## Arbeitsbereich
-
-Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhaeltnismaessigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und Muster-Stellungnahme mit Corrective Action Plan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,6 +40,7 @@ Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8
 - **LuftVG § 21a**: Wet-Lease-Genehmigung; Voraussetzungen und Befristung.
 - **LuftVG § 29d**: Aufsichtsbefugnisse des LBA gegenüber Luftverkehrsunternehmen.
 - **EASA Part-OPS ORO.AOC.100**: AOC-Anforderungen; Nachweis technischer und betrieblicher Kompetenz.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -54,6 +51,7 @@ Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8
 6. Sind Sicherheitsauflagen bewertet und Widerspruch geprüft?
 7. Ist das AOC noch gültig und entspricht es dem aktuellen Streckennetz?
 8. Haben sich Eigentümerstruktur oder Hauptsitz geändert (EU-VO 1008/2008 Art. 4)?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -72,9 +70,6 @@ Sicherheitsauflagen im Luftrecht müssen auf Verhältnismäßigkeit und Rechtsgr
 - **Verhältnismäßigkeit**: BVerfG-Rechtsprechung zu Grundrechtseingriffen; Einschränkung der Berufsfreiheit (Art. 12 GG) nur durch geeignete erforderliche und angemessene Maßnahme.
 - **Eilrechtsschutz**: § 80 Abs. 5 VwGO bei sofortigem Vollzug; Interessenabwägung Sicherheitsinteresse vs. Eingriff.
 
-## Output
-
-Vermerk zu Airline – Sicherheitsauflage bewerten mit Ampel-Rating Fristenstand und nächsten Schritten. Checkliste offener Punkte. Zuständigkeitsmatrix Behörde/Register. Fristenkalender mit Ampelstatus.
 ## Quellen
 
 - EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
@@ -103,3 +98,4 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

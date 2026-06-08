@@ -29,10 +29,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der UDS vor Ausgabe verifizieren
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; SDSG Saarländisches Datenschutzgesetz.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Behördenstammdaten UDS
 
 - Name: Unabhängiges Datenschutzzentrum Saarland — Landesbeauftragte für Datenschutz und Informationsfreiheit
@@ -103,3 +99,4 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 - `dsv-meldung-art-33-pflichtangaben` liefert die generische Pflichtinhalte-Vorlage.
 - `dsv-nachmeldung-aktualisierung-art-33-abs-4` deckt die Nachmeldung ab.
+

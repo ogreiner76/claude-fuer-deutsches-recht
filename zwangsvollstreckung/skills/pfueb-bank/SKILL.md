@@ -5,10 +5,6 @@ description: "Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829
 
 # PfÜB Bankkonto
 
-## Arbeitsbereich
-
-Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB
 - Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Pfändung und Überweisung einer Forderung des Schuldners gegen sein Kreditinstitut. Dies ist die häufigste Geldvollstreckung und gleichzeitig der Bereich, in dem das ZVollstrDigitG 2026/2027 die größten Praxisänderungen bringt.
 
 ## Startet bei
 
@@ -98,10 +90,3 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Bei Pfändungsversuch trotz bekannter Insolvenz: STOPP § 89 InsO.
 - Ab 1.10.2027 elektronische Zustellung dokumentieren – Papier nur noch als Ausnahme.
 
-## Querverweise
-
-- `zv-titel-klausel-zustellung` – Vorprüfung
-- `zv-kontensuche-drittschuldner` – wenn Bank unbekannt
-- `zv-pfaendungstabelle-2025` – Freibeträge bei Lohnzufluss
-- `zv-elektronische-zustellung-2027` – operative Umsetzung ZVollstrDigitG
-- `zv-abwehr-schuldner` – Schuldnersicht

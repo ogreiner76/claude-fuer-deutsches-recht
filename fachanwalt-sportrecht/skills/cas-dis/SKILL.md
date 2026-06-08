@@ -5,9 +5,6 @@ description: "CAS DIS im Sportrecht: prüft konkret Mandantenkommunikation im Pl
 
 # CAS DIS
 
-## Arbeitsbereich
-
-**CAS DIS** ordnet den Fall über die tragenden Prüfungslinien: Mandantenkommunikation im Plugin fachanwalt-sportrecht, Red-Team Qualitygate im Plugin fachanwalt-sportrecht, Sportler Verein oder Verband wird in Schiedsverfahren vor. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "CAS DIS im Sportrecht: prüft konkret Mandantenkommunikation im Pl
 - Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `workflow-mandantenkommunikation`
@@ -31,9 +29,6 @@ description: "CAS DIS im Sportrecht: prüft konkret Mandantenkommunikation im Pl
 
 ### Mandantenkommunikation
 
-## Aufgabe
-Dieses Modul bearbeitet: Mandantenkommunikation im Plugin fachanwalt-sportrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
-
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
@@ -47,18 +42,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ## 2. `workflow-redteam-qualitygate`
 
@@ -66,9 +49,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ### Red-Team Qualitygate
 
-## Aufgabe
-Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fachanwalt-sportrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
-
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
@@ -83,27 +63,11 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
 ## 3. `fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren`
 
 **Fokus:** Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert. WADA-Code Anti-Doping FIFA Players Status Committee. Normen CAS Code Art. R27 ff. DIS-Sportschiedsgerichtsordnung FIFA RSTP Art. 17. Prüfraster Schiedsklausel-Prüfung Frist-Check Verfahrensart Beweis. Output Schiedsklage-Entwurf Strategie-Memo. Abgrenzung zu cas-berufung-vorbereiten (Berufung) und fachanwalt-sportrecht-doping-verfahren (Doping).
 
 ### Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände
-
-## Zweck
-
-Sportrecht ist überwiegend Schiedsrecht. **CAS Lausanne** als oberste Instanz, **DIS-Sport** in DE, **Verbands-Schiedsgerichte** DFB/FIFA/UEFA. Klassische Klage zum LG/OLG meist ausgeschlossen durch Schiedsklauseln (Pechstein-Linie).
 
 ## Eingaben
 
@@ -194,13 +158,6 @@ Sportrecht ist überwiegend Schiedsrecht. **CAS Lausanne** als oberste Instanz, 
 - **B-Probe**: immer beantragen (Chain of Custody)
 - **Transfer-Streit**: FIFA-DRC ist Schwerpunkt; CAS als 2. Instanz
 
-## Querverweise
-
-- `fachanwalt-sportrecht-orientierung` — Triage
-- `fachanwalt-sportrecht-doping-cas-berufung` — Vertiefung Doping
-- `fachanwalt-sportrecht-transferklausel` — Transfer
-- `fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung` — eSports
-
 ## Quellen und Updates
 
 Stand 05/2026. **Strukturwandel CAS-Endgültigkeit:** EuGH, Urt. v. 01.08.2025 — C-600/23 (RFC Seraing) — Nationale Gerichte der EU-Mitgliedstaaten dürfen CAS-Schiedssprüche auf Vereinbarkeit mit Unionsrecht (insbesondere Grundfreiheiten, Wettbewerbsrecht, Grundrechtecharta) inhaltlich überprüfen; die Vermutung der Endgültigkeit von CAS-Sprüchen ist innerhalb der EU eingeschränkt. Verifikation [curia.europa.eu](https://curia.europa.eu/) zu C-600/23.
@@ -211,3 +168,4 @@ Strategische Folge für Mandate: Nach CAS-Entscheidung kann je nach Konstellatio
 - DIS-Sportschiedsgerichtsordnung — [disarb.org](https://www.disarb.org)
 - WADA-Code — [wada-ama.org](https://www.wada-ama.org)
 - Rechtsprechung im Mandat live verifizieren; keine Aktenzeichen aus Modellwissen.
+

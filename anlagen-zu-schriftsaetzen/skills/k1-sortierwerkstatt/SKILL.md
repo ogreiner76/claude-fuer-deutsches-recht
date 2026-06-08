@@ -18,12 +18,7 @@ Arbeitsfokus: **K1-Sortierwerkstatt**. Prüfe diese Anker am Sachverhalt; ergän
 - `§ 299 Abs. 1 ZPO` — Akteneinsicht.
 - `§ 371 Abs. 1 ZPO` — Augenschein.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill entscheidet, was bei einer großen Akte wirklich `Anlage K1` sein soll. Er verhindert, dass die wichtigste Anlage aus fünf Fassungen, einem schlechten Scan und einer halb vergessenen Bestätigungsmail besteht, ohne dass Gericht oder Gegner verstehen, welche Fassung maßgeblich ist.
 
 ## Mindestinput
 
@@ -63,3 +58,4 @@ Dieser Skill entscheidet, was bei einer großen Akte wirklich `Anlage K1` sein s
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
+

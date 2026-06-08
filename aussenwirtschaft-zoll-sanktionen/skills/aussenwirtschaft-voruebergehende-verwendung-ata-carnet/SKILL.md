@@ -5,10 +5,6 @@ description: "Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet na
 
 # Voruebergehende Verwendung und ATA-Carnet: Messeware und Berufsausruestung
 
-## Arbeitsbereich
-
-Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Konvention: Messe- und Ausstellungsgueter Berufsausruestung Transportmittel und Ersatzteile. Beantragung beim Hauptzollamt Buergschaftspflichten und Riedereinf uehrungspflicht. Risiken bei Nichtrueckfuehr und Zollschuldentstehung. Output: ATA-Carnet-Antragsmappe und Verwendungsnachweis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Ko
 - ATA-Carnet gilt nicht in der EU selbst; dort gelten EU-Zollverfahren.
 - Verlust des Carnets im Ausland: Notfallverfahren ueber IHK und WCO.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-ATA-Carnet-Antragsmappe mit Warenliste, Buergschaftsberechnung, Ausfuhr-/Einf uehrer-Abstempelungsanleitung und Wiedereinf uehrungsnachweis.
-
 ## Quellen
 
 - [UZK Art. 250 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
 - [Zoll.de Voruebergehende Verwendung](https://www.zoll.de/DE/Fachthemen/Zoelle/Zollverfahren-allgemein/Besondere-Verfahren/Voruebergehende-Verwendung/voruebergehende-verwendung_node.html)
 - [DIHK ATA-Carnet](https://www.dihk.de/de/themen-und-positionen/internationales/zoll/ata-carnet)
 - [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
+

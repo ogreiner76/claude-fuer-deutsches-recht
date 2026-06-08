@@ -5,10 +5,6 @@ description: "Prueft Handelsverbote und Meldepflichten für Familienangehoerige 
 
 # Familienangehörige und nahestehende Personen – Insiderrecht
 
-## Arbeitsbereich
-
-Prueft Handelsverbote und Meldepflichten für Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,19 +71,3 @@ d) Juristische Personen, Trusts, Personengesellschaften unter Kontrolle des PDMR
  Personen weitergeben
 - Merkblatt für PDMRs: „Was darf ich zu Hause nicht sagen?"
 
-## Red-Team-Fragen
-
-- Sind alle nahestehenden Personen der PDMRs identifiziert und bekannt?
-- Werden nahestehende Personen über ihre eigenen MAR-Pflichten informiert?
-- Gibt es ein Pre-Clearance-Angebot für nahestehende Personen?
-- Werden PDMRs explizit auf das Tipping-Verbot im privaten Umfeld hingewiesen?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Nahestehende-Personen-Register (je PDMR mit Beziehungstyp)
-2. Belehrungsschreiben für nahestehende Personen
-3. Pre-Clearance-Formular für nahestehende Personen
-4. PDMR-Merkblatt: „Was darf ich zu Hause nicht sagen?"
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

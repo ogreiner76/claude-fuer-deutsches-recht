@@ -5,10 +5,6 @@ description: "Nicht-EU-Unternehmen oder Exporteur fragt: Gilt die KI-VO auch fü
 
 # Territorialer Anwendungsbereich — Art. 2 KI-VO
 
-## Zweck
-
-Die KI-VO hat wie die DSGVO eine extraterritoriale Wirkung. Anbieter und Betreiber außerhalb der EU können trotzdem dem Geltungsbereich unterliegen. Dieser Skill klärt, ob die KI-VO auf den geschilderten Sachverhalt anwendbar ist.
-
 ## Drei Anknüpfungspunkte nach Art. 2 KI-VO
 
 ### Anknüpfungspunkt 1 — Inverkehrbringen oder Inbetriebnahme in der EU (Art. 2 Abs. 1 lit. a)
@@ -113,3 +109,4 @@ Ergebnis: [KI-VO ANWENDBAR / NICHT ANWENDBAR: Ausnahme Art. 2 Abs. X]
 Naechster Schritt: [sachlicher-ausschluss-art-2 / persönlicher-anwendungsbereich-rollen-art-3]
 Geprueft: [NAME], [DATUM]
 ```
+

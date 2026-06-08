@@ -17,10 +17,6 @@ Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Führt Bieter oder Berater durch die Vorbereitung, Teilnahme und Nachbereitung eines Zwangsversteigerungstermins.
-
 ## Startet bei
 
 - "Ich will an der Versteigerung teilnehmen"
@@ -78,9 +74,6 @@ Führt Bieter oder Berater durch die Vorbereitung, Teilnahme und Nachbereitung e
 
 § 66 ZVG (Versteigerungstermin) → § 71 ZVG (Bekanntmachungen) → § 82 ZVG (Bieter-Erklärungen) → § 87 ZVG (Zuschlag Bedingungen) → §§ 152-153 ZVG (Verwalterpflichten bis Zuschlag) → §§ 56-57a ZVG (Rechtsfolgen Zuschlag)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Versteigerungsteilnahme
 
 1. Hat das Gericht die Anwesenheit oder Auskunftserteilung angefordert?
@@ -97,3 +90,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 5. Kontostand Treuhandkonto per Stichtag Versteigerung ermitteln
 6. Vollstreckungsgericht über Bereitschaft zur Auskunft informieren
 7. Nach Zuschlag: Übergabe der Unterlagen an Ersteher dokumentieren
+

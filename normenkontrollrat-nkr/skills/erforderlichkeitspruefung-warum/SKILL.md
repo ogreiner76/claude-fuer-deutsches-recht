@@ -94,14 +94,6 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 - Bestehende Regelung nicht erwaehnt
 - "Vorbeugende Regelung" ohne Risikobeleg
 
-## Querverweise
-
-- `nkr-alternativen-pruefung-keine-regelung-soft-law`
-- `nkr-verhaeltnismaessigkeit-aus-nkr-sicht`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-stellungnahme-grundsatzfeststellung`
-- `legistik-werkstatt/legistik-auftragsaufnahme`
-
 ## Quellen Stand 06/2026
 
 - § 44 Abs. 1 GGO
@@ -110,3 +102,4 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 - Handbuch der Rechtsfoermlichkeit Teil A.III
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

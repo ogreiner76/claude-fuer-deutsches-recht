@@ -5,10 +5,6 @@ description: "Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Rec
 
 # Vertragsanalyse und Klauselkontrolle
 
-## Arbeitsbereich
-
-Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Recht. Identifiziert Vertragsstruktur anhand der Titelseite, ordnet das Dokument dem richtigen Prüfpfad zu (Lieferantenvertrag, NDA, AGB-Klauselkontrolle, Dienstleistungsvertrag) und erstellt ein strukturiertes Rechtsprüfungsmemo. Lädt, wenn der Nutzer "Vertrag prüfen", "AGB prüfen", "NDA prüfen", "Klauselkontrolle" oder einen Vertrag zur Analyse einreicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -132,6 +128,7 @@ Lädt, wenn der Nutzer einen Vertrag zur Prüfung einreicht.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1 — Kanzleiprofil laden
@@ -286,19 +283,6 @@ und Eskalationsanfrage formulieren.
 - Eintrag in Fristen-Tracker (bei automatischer Verlängerung)
 - Mandatsakte aktualisieren (wenn Mandatsarbeitsbereich aktiviert)
 
-## Ausgabeformat
-
-```markdown
-[ARBEITSERGEBNIS-KENNZEICHNUNG]
-
-### Vertragsprüfung: [Vertragspartner] — [Vertragstyp]
-**Prüfdatum:** [Datum]
-**Mandatsseite:** [Verwender / Vertragspartner-Seite]
-**Routing:** [angewandte Prüfpfade]
-**Ergebnis:** [UNTERZEICHNUNGSREIF / ÄNDERUNGEN ERFORDERLICH / ESKALATION]
-
----
-
 ## Zusammenfassung
 
 [3–5 Sätze: Gesamtbewertung, kritischste Abweichung, Handlungsempfehlung]
@@ -368,3 +352,4 @@ Jede Klauselbewertung muss belegen:
  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

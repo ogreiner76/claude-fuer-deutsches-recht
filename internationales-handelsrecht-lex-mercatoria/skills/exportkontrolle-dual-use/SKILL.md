@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter
 
 # Exportkontrolle: Dual-Use-Güter
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter nach EU-Dual-Use-VO (EU) 2021/821. Listengüter (Anhang I), Catch-All-Klausel (Art. 4-5), Genehmigungspflichten, BIS-EAR (USA), ITAR und extraterritorialer Anwendungsbereich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Dual-Use-Güter sind zivil und militärisch nutzbar (z.B. Verschlüsselungssoftw
 - US-De-minimis-Berechnung: Anteil US-Controlled Content am Gesamtprodukt
 - Compliance-Programm: ICP (Internal Compliance Programme) nach EU und BIS-Richtlinien
 
-## Output
-
-- Dual-Use-Klassifikations-Flowchart
-- Red-Flag-Checkliste (Catch-All Art. 4)
-- ICP-Grundstruktur-Empfehlung
-
-## Quellenregel
-
-VO (EU) 2021/821: eur-lex.europa.eu. EAR (BIS): bis.doc.gov. ITAR (DDTC): pmddtc.state.gov. Wassenaar-Liste: wassenaar.org. Unsicherheit bleibt sichtbar.

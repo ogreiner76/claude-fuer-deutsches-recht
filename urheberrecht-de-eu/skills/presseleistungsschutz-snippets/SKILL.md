@@ -5,10 +5,6 @@ description: "Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggrega
 
 # Presseleistungsschutz und Snippets
 
-## Arbeitsbereich
-
-Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,3 +79,4 @@ Konkret zu prüfen:
 - § 87f UrhG (Presseverleger)
 - § 87f-87k UrhG (Leistungsschutzrecht Presseverleger)
 - RL (EU) 2019/790 Art. 15
+

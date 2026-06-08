@@ -5,10 +5,6 @@ description: "Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialra
 
 # Richterwahl, Bestenauslese und Präsidialrat
 
-## Arbeitsbereich
-
-Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesrichterwahl, Begründungspflichten, Konkurrentenstreit und politische Wahlspielräume. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesricht
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Richterwahlen verbinden Bestenauslese, demokratische Legitimation und institutionelle Unabhängigkeit. Dieser Skill verhindert zwei Fehler: reine Politik ohne Art. 33 Abs. 2 GG und schematische Bestenauslese ohne Wahlspielraum.
 
 ## Intake
 
@@ -42,14 +34,7 @@ Richterwahlen verbinden Bestenauslese, demokratische Legitimation und institutio
 
 Bei Bundesrichtern wirken Richterwahlausschuss und zuständiger Bundesminister zusammen. Der Skill prüft, ob Art. 33 Abs. 2 GG sichtbar verarbeitet wurde und ob eine Ablehnung nachvollziehbar begründet ist.
 
-## Output
-
-- Auswahlvermerk-Check.
-- Eilantrag gegen Ernennung.
-- Behörden-/Ministeriumsvermerk.
-- Mandantenbrief für Bewerber.
-- Fragenkatalog an Präsidialrat/Richterwahlausschuss.
-
 ## Rechtsprechungsanker
 
 BVerfG 20.09.2016 - 2 BvR 2453/15 zur Bundesrichterwahl. Bei Konkurrentenstreit zusätzlich einschlägige verwaltungsgerichtliche Rechtsprechung live prüfen.
+

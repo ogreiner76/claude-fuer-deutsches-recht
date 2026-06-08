@@ -5,10 +5,6 @@ description: "Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Wide
 
 # Bewaehrungswiderruf — § 56f StGB
 
-## Arbeitsbereich
-
-Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhörungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -109,16 +105,10 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
 - **Geldauflage**-Verstoss bei nachgewiesener Zahlungsunfaehigkeit: Widerruf unverhaeltnismaessig.
 - **Neue Tat** in der Bewaehrungszeit noch nicht rechtskraeftig: Widerruf zumeist verfrueht.
 
-## Querverweise
-
-- `bewaehrung-56-stgb-positive-sozialprognose` — Voraussetzung der Aussetzung.
-- `bewaehrung-auflagen-und-weisungen-56b-c-stgb` — Inhalt von Auflagen/Weisungen.
-- `nachtraegliche-gesamtstrafenbildung-55-stgb` — bei Mehrfachverurteilung.
-- `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — wenn Widerruf erfolgt.
-
 ## Quellen und Stand 05/2026
 
 - § 56f StGB in der geltenden Fassung.
 - §§ 453, 311 StPO.
 - BGH-Linie zur "Beharrlichkeit" und zum Verhaeltnis "Widerruf vs. Gesamtstrafe" — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

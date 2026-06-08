@@ -5,10 +5,6 @@ description: "Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausna
 
 # Influencer-Recht: Gewerbeanmeldung für Creator
 
-## Arbeitsbereich
-
-Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausnahmen, Ablauf, Gewerbesteuer und Abgrenzung zur freiberuflichen Tätigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,3 +73,4 @@ Content = überwiegend Werbung/Marketing?
 - Freiberuf-Abgrenzungsmemo für das Finanzamt
 - Gewerbesteuer-Kalkulation
 - Formular-Ausfüllhilfe (Fragebogen zur steuerlichen Erfassung)
+

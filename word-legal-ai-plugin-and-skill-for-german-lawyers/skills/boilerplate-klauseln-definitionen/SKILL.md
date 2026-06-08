@@ -17,12 +17,6 @@ Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirks
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Boilerplate ist kein Beiwerk. Salvatorische Klausel, Schriftform, Gerichtsstand und Rechtswahl entscheiden im Streitfall ueber Wirksamkeit, Gerichtszuständigkeit und anwendbares Recht. Dieser Skill liefert einen Katalog der Standard-Boilerplate-Klauseln mit Wirksamkeitsanalyse, AGB-Risiko und Mustertext.
-
-Er ist kein Sammelsurium. Er ordnet, was wirklich gebraucht wird, und kennzeichnet, wo BGH-Rechtsprechung die Reichweite einschraenkt.
-
 ## Eingaben
 
 - Vertragsart (Individualvertrag oder AGB)
@@ -146,11 +140,6 @@ Faellt unter Klausel 1 (Salvatorische).
 - **Mitteilungsklausel ohne Empfangsadresse.** Macht keine Zustellung pruefbar.
 - **Abtretungsverbot ohne § 354a HGB.** Bei Geldforderungen aus Handelsgeschaeft unwirksam.
 
-## Ausgabeformat
-
-- Boilerplate-Abschnitt fertig formuliert, durchnummeriert.
-- Tabelle Klausel zu AGB-Risiko zu Hinweis.
-
 ## Beispiel
 
 **Boilerplate-Block (B2B-Lieferantenvertrag):**
@@ -173,15 +162,9 @@ Erfuellungsort für Lieferung und Zahlung ist der Sitz des Lieferanten.
 [Text wie oben]
 ```
 
-## Querverweise
-
-- `dokumentarchitektur-vertrag-und-schriftsatz`
-- `agb-konforme-klauseln-305-310-bgb`
-- `b2b-vs-b2c-klausel-strategie`
-- `verweis-und-querverweis-technik`
-
 ## Quellen (Stand 05/2026)
 
 - § 139 BGB, § 126 BGB, § 127 BGB, § 269 BGB, § 399 BGB, § 354a HGB. gesetze-im-internet.de.
 - § 38 ZPO; Rom-I-VO (Verordnung (EG) Nr. 593/2008). eur-lex.europa.eu.
 - BGH-Rspr. zu salvatorischer Klausel und doppelter Schriftformklausel: vom Nutzer mit konkretem Aktenzeichen ueber bundesgerichtshof.de zu verifizieren.
+

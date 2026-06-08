@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argum
 
 # Archivfund in heutige Argumentation
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Archivfunde (Notariatsprotokolle, Verwaltungsakten, Gerichtsprotokolle, Parlamen
 - MGH-Online: mgh.de für mittelalterliche Quellen
 - Archivzitat: Bestand, Signatur, Blaetterzahl; Zugangsdatum wenn digital
 
-## Output
-
-- Schritt-für-Schritt-Schema: Archivfund evaluieren und einbauen
-- Muster: Footnote/Fussnote für Archivzitat in Gutachten oder Schriftsatz
-- Checkliste: Anachronismus-Check vor Argumentationseinsatz
-
-## Quellenregel
-
-Bundesarchiv: invenio.bundesarchiv.de. Archivportal-D: archivportal-d.de. MGH: mgh.de. Landesarchive: jeweilige Portale. Kein Blindzitat ohne Bestand und Signatur.

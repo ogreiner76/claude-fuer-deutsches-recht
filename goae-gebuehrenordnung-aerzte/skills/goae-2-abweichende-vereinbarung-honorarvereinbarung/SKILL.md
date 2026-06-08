@@ -101,16 +101,6 @@ Eingaben:
 - Vereinbarung ohne konkrete Leistungsangabe — unwirksam.
 - Patient unterschreibt unter Zeitdruck im Empfang — Anfechtungsrisiko.
 
-## Querverweise
-
-- `goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle` (Schwellenwert)
-- `steigerungssatz-begruendung-individuell-patientenbezogen` (Begründung)
-- `begruendung-ueber-schwellenwert-redigieren` (Begründungstexte)
-- `gebuehrenrahmen-schwellenwert-ampel` (Ampel)
-- `igel-aufklaerung-kosteninformation` (IGel)
-- `wahlleistungsvereinbarung-krankenhaus-goae` (Wahlleistung KH)
-- `erstattung-pkv-vs-honoraranspruch-patient` (PKV-Erstattung)
-
 ## Quellen Stand 06/2026
 
 - GOÄ § 2, § 5, § 6a.
@@ -119,3 +109,4 @@ Eingaben:
 - Berufsordnung Ärztekammer.
 - GOÄ-Reform 2024/2025 — vom Anwender Aktualität zu verifizieren.
 - PKV-Verband — Hinweise zur Erstattung von Honorarvereinbarungen (informativ).
+

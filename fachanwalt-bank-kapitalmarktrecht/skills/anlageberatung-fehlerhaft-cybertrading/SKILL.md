@@ -5,9 +5,6 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
 
 # Anlageberatung Fehlerhaft Cybertrading
 
-## Arbeitsbereich
-
-**Anlageberatung Fehlerhaft Cybertrading** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt bank kapitalmarktrecht, Mandant ist Opfer eines Online-Trading-Betrugs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Anlageberatung Fehlerhaft Cybertrading im Plugin Fachanwalt Bank K
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft`
@@ -155,10 +153,6 @@ Mit freundlichen Gruessen
 **Fokus:** Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung).
 
 ### Cybertrading-Anlagebetrug
-
-## Zweck
-
-Mandate von Opfern dubioser Online-Trading-Plattformen — Sofortmaßnahmen, Beweissicherung, zivilrechtliche und strafrechtliche Schritte. Das Schadensbild: 10.000 bis 500.000 EUR Verlust, Plattform nicht erreichbar, Konten gesperrt, vermeintliche "Steuern" werden gefordert.
 
 ## Mandantenfragen — Kaltstart
 

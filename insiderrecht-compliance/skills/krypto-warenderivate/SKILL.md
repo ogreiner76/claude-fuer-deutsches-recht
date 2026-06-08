@@ -5,10 +5,6 @@ description: "Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced
 
 # Krypto-Token und MAR / MiCA – Insiderrecht
 
-## Arbeitsbereich
-
-Prueft Anwendbarkeit von MAR auf Krypto-Token und Asset-Referenced Token: MiCA-Abgrenzung, Insiderrecht für Krypto-Assets und Marktmanipulationsverbote. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,19 +74,3 @@ Art. 90 MiCA: Verpflichtung zur Veröffentlichung von Insiderinformationen für
 - Compliance-Policy für Trading in eigenen Token durch Mitarbeiter und Insider
 - BaFin-Guidance zu Krypto-Assets regelmäßig verfolgen
 
-## Red-Team-Fragen
-
-- Ist die Klassifizierung des Tokens als Finanzinstrument vs. Krypto-Asset rechtssicher?
-- Wurden Art. 87–92 MiCA als eigenständige Compliance-Anforderungen implementiert?
-- Gibt es Marktmanipulations-Monitoring für den Token?
-- Sind die Insiderregeln für Mitarbeiter des Token-Emittenten kommuniziert?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Token-Klassifizierungsmatrix (Merkmal × MAR/MiCA/keine Regel)
-2. MAR vs. MiCA-Pflichten-Vergleich
-3. Compliance-Policy-Entwurf für Token-Insider
-4. Marktmanipulations-Monitoring-Framework
-
-Belege ausschließlich mit: eur-lex.europa.eu, bafin.de, gesetze-im-internet.de, dejure.org.

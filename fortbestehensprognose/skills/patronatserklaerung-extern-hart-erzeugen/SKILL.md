@@ -5,10 +5,6 @@ description: "Patronatserklaerung Extern Hart Erzeugen: ordnet Normen, Nutzerang
 
 # Externe harte Patronatserklärung
 
-## Arbeitsbereich
-
-Patronatserklaerung Extern Hart Erzeugen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -170,6 +166,3 @@ Eine **weiche** Patronatserklärung (Comfortletter, "Best Effort"-Erklärung) ge
 3. **Unwiderruflich?** Widerrufliche Erklaerung reicht nicht für Ueberschuldungsstatus.
 4. **Patron bonitaer?** Aktuelle Bonitats-Pruefung des Patrons erforderlich.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

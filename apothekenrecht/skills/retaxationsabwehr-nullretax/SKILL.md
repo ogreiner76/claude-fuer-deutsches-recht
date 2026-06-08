@@ -5,10 +5,6 @@ description: "Retaxationsabwehr Nullretax Risiko: prüft die einschlägigen Vora
 
 # Retaxationsabwehr Nullretax Risiko
 
-## Arbeitsbereich
-
-Retaxationsabwehr Nullretax Risiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -102,15 +98,6 @@ Eingaben:
 - Substitutionsausschlussliste nicht aktuell — Substitution falsch beurteilt.
 - Doppelabgabe E-Rezept nicht durch TI-Logs widerlegt.
 
-## Querverweise
-
-- `substitution-rabattvertrag-aut-idem` (Substitution)
-- `rechnung-retaxation-krankenkasse` (Abrechnungsworkflow)
-- `schiedsstellen-krankenkassen-apotheke` (Schiedsstellenverfahren)
-- `lieferengpaesse-austausch-dokumentation` (Engpass-Austausch)
-- `arzneimittelabgabe-verschreibungspflicht` (Abgabevorgang)
-- `e-rezept-ti-gematik-apothekenprozess` (E-Rezept-Logs)
-
 ## Quellen Stand 06/2026
 
 - SGB V §§ 8, 12, 129.
@@ -118,3 +105,4 @@ Eingaben:
 - BSG, staend. Rspr. zur Null-Retax und Pharmazeutische Bedenken.
 - DAV-Mitteilungen zu Retaxationen.
 - BMG-Reformbemühungen zur Retax-Begrenzung (Stand vom Anwender zu verifizieren).
+

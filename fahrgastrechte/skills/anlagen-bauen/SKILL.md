@@ -5,12 +5,6 @@ description: "Baut aus den Belegen eines Fahrgastrechte-Mandats ein beA-konforme
 
 # Fahrgastrechte — Anlagen bauen
 
-## Zweck
-
-Erzeugt aus den Rohbelegen eines Fahrgastrechte-Mandats ein sortiertes, **beA-konformes Anlagenkonvolut** für jeden Schriftsatz (Forderungsschreiben, Widerspruch, Schlichtungsantrag, Klageschrift).
-
-Analog zum etablierten Pattern in `fluggastrechte/skills/fluggastrechte-anlagen-bauen/` — gleicher Stempel-Standard, gleiche beA-Konvention.
-
 ## Eingaben
 
 ```yaml
@@ -114,12 +108,6 @@ Erzeugte Anlagen:
 
 Sammel-PDF: Schriftsatz_mit_Anlagen.pdf erzeugt (28 Seiten, 4.2 MB).
 ```
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Normen und Rechtsprechung
 

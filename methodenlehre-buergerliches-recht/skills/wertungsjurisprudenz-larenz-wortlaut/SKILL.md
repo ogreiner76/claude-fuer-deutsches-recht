@@ -5,9 +5,6 @@ description: "Wertungsjurisprudenz Larenz Wortlaut im Plugin Methodenlehre Buerg
 
 # Wertungsjurisprudenz Larenz Wortlaut
 
-## Arbeitsbereich
-
-**Wertungsjurisprudenz Larenz Wortlaut** ordnet den Fall über die tragenden Prüfungslinien: Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm, Grammatikalische Auslegung im deutschen Zivilrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +19,7 @@ description: "Wertungsjurisprudenz Larenz Wortlaut im Plugin Methodenlehre Buerg
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `wertungsjurisprudenz-larenz-canaris`
@@ -103,17 +101,6 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 **Kritik aus Critical Legal Studies (siehe Skill `legal-realism-und-critical-legal-studies`):** Wertungen sind nicht "objektiv", sondern Ausdruck politischer und sozialer Interessen.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Grundkanon, im Lichte der Wertungslehre.
-- `teleologische-auslegung` — Wertungsdimension der Telos-Analyse.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Grundrechtsbindung als Wertungselement.
-- `pandekten-und-begriffsjurisprudenz` — Gegenposition.
-- `interessenjurisprudenz-heck` — Vorlaeufer.
-- `topik-viehweg-vs-systemdenken` — Gegenposition.
-- `systemtheorie-luhmann-rechtssystem-autopoiese` — Systemtheorie als andere Bezugnahme auf "System".
-- `legal-realism-und-critical-legal-studies` — externe Kritik.
-
 ## Quellen und Stand 05/2026
 
 - Karl Larenz, Methodenlehre der Rechtswissenschaft, 1960 (6. Aufl. 1991).
@@ -126,14 +113,6 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 - §§ 138, 242, 305 ff., 307, 437 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `wortlaut-grammatikalische-auslegung`
 
@@ -205,15 +184,6 @@ Die grammatikalische Auslegung ist das erste Element des Savigny-Kanons. Sie fra
 - **Legaldefinitionen ignorieren.** Eine Legaldefinition verdraengt den allgemeinen Sprachgebrauch für den Anwendungsbereich des Gesetzes.
 - **Bei Unionsrechtsbegriffen den deutschen Sprachgebrauch zugrunde legen.** Begriffe aus Verordnungen und Richtlinien sind autonom auszulegen; alle Amtssprachen sind verbindlich.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Einordnung in den Kanon.
-- `systematische-auslegung` — naechstes Element.
-- `historische-auslegung` — wenn der Wortlaut mehrdeutig bleibt.
-- `teleologische-auslegung` — wenn der Wortlaut weiter ist als der Zweck.
-- `analogie-und-teleologische-reduktion` — Rechtsfortbildung jenseits der Wortlaut-Grenze.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — autonome Begriffsbildung im Unionsrecht.
-
 ## Quellen und Stand 05/2026
 
 - Friedrich Carl von Savigny, System des heutigen Roemischen Rechts, Band 1, Berlin 1840, § 33.
@@ -223,10 +193,3 @@ Die grammatikalische Auslegung ist das erste Element des Savigny-Kanons. Sie fra
 
 Stand: Mai 2026. Wortlaut-Fragen koennen sich durch Gesetzesreformen jederzeit verschieben; bei Streitfragen aktuelle Norm- und Rechtsprechungslage pruefen. Bei zweifelhaften Begriffen empfiehlt sich der parallele Blick in Grueneberg, MueKo-BGB oder BeckOK, soweit lizenziert verfuegbar.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

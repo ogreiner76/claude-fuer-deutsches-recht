@@ -5,10 +5,6 @@ description: "Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektr
 
 # Trainerleitfaden Schulung Legistik
 
-## Arbeitsbereich
-
-Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing Verfassungsrecht- und Europarechts-Quercheck Referentenentwurf Begründung Synopse XML Folgenabschaetzung. Sechs Stationen mit Lernziel Aufgabe Stolperfallen Erwartungshorizont. Output Trainerleitfaden Aufgabenhefte Erwartungshorizonten je Station. Kompatibel mit der Arbeitsakte legistik-pflichtpostfach. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -118,6 +114,7 @@ Siehe Arbeitsakte `legistik-pflichtpostfach`.
 - ggf. Excel-Schulung für Synopsen-Tabellen
 - HdR-PDF, GGO-PDF, NKRG-PDF
 - Smartphone für Online-Recherche in BGBl und Bundesanzeiger
+
 ## Aktuelle Rechtsprechung & Leitsätze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -126,6 +123,3 @@ Siehe Arbeitsakte `legistik-pflichtpostfach`.
 
 §§ 38-42 GGO (Legistik-Grundregeln, Schulungspflicht für Referenten) — §§ 1-5 HdR (Handbuch der Rechtsförmlichkeit, Ausbildungsgrundlage) — Art. 20 Abs. 3 GG (Rechtsstaat: hinreichende Normenqualität) — § 33 BBG (Fortbildungspflicht Bundesbeamte)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

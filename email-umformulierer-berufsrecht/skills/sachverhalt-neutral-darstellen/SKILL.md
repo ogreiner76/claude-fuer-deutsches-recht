@@ -26,9 +26,6 @@ Dieser Skill transformiert subjektiv gefärbte, vorwurfsvolle oder emotionale Sa
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht: neutrale Schilderung schutzt vor Haftung
 - § 193 StGB — Wahrnehmung berechtigter Interessen: Schutzbereich bei wahrheitsgemaesser sachlicher Darstellung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grundprinzipien der neutralen Darstellung
 
 Die wichtigsten Werkzeuge sind: Passivkonstruktionen (nicht "Sie haben versäumt" sondern "die Frist ist verstrichen"), Datumsbezüge statt unbestimmter Zeitangaben (nicht "seit Wochen" sondern "seit dem TT.MM.JJJJ"), unpersönliche Pronomen (nicht "Sie ignorieren" sondern "eine Rückmeldung steht noch aus"), Distanzierungsformeln (nicht "Sie behaupten" sondern "nach Ihrer Darstellung" oder "ausweislich Ihres Schreibens") sowie Trennung von Sachverhalt und Wertung.
@@ -59,6 +56,3 @@ Für die Wiedergabe fremder Darstellungen ohne eigene Wertung gelten folgende Fo
 **Vorher:** "Anscheinend ist Ihnen die Vertragstreue nicht wichtig."
 **Nachher:** "Die vereinbarte Leistung ist bis zum TT.MM.JJJJ nicht erbracht worden."
 
-## Ausgabeformat
-
-Der Skill gibt für jeden umzuformulierenden Satz aus: (1) Original. (2) Neutrale Fassung. (3) Erläuterung des eingesetzten Mittels (Passiv, Datumsbezug, Distanzierungsformel). (4) Optionaler Hinweis auf berufsrechtliche Relevanz.

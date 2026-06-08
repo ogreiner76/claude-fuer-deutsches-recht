@@ -5,10 +5,6 @@ description: "Definiert Dokumentenaufbewahrungs- und -vernichtungsstrategien fü
 
 # Dokumentenaufbewahrung und -vernichtung nach Internal Investigations
 
-## Arbeitsbereich
-
-Definiert Dokumentenaufbewahrungs- und -vernichtungsstrategien für Internal Investigation – HGB-Fristen, DSGVO-Löschpflichten, Legal Hold. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,15 +68,6 @@ Dieser Skill definiert für alle relevanten Dokumentenkategorien klare Aufbewahr
 - Keine selektive Vernichtung: alle Kopien (lokal, Cloud, Backup) müssen erfasst sein.
 - Zeuge der Vernichtung: Protokollierung der sicheren Löschung durch IT-Abteilung.
 
-## Red-Team-Fragen
-
-- Wurden alle automatischen Löschroutinen für Legal-Hold-Dokumente deaktiviert?
-- Gibt es US-Litigation-Hold-Pflichten, die mit dem deutschen DSGVO-Löschungsgebot kollidieren?
-- Ist das Löschprotokoll nach Aufhebung des Legal Holds vollständig und deckt alle Speicherorte ab (inkl. Backups)?
-- Wurden Interviewprotokolle und forensische Images nach Verfahrensabschluss datenschutzgerecht gelöscht?
-- Ist die handelsrechtliche Aufbewahrungspflicht für alle relevanten Untersuchungsdokumente geprüft?
-- Gibt es verbleibende personenbezogene Daten in den Untersuchungsunterlagen, die unter DSGVO gelöscht werden müssen?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -100,3 +87,4 @@ Dieser Skill definiert für alle relevanten Dokumentenkategorien klare Aufbewahr
 - **Aufbewahrungskonzept** für Untersuchungsunterlagen
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

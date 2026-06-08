@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Au
 
 # Rechtshistorische Gutachtenstruktur
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,12 +63,3 @@ Ein rechtshistorisches Gutachten unterscheidet sich vom dogmatischen Rechtsgutac
 - Anachronismus-Test: Jede These zeitepochengerecht pruefen
 - Fazit: Klar zwischen Sicherem und Unsicherem unterscheiden
 
-## Output
-
-- Rechtshistorisches Gutachten-Template
-- Beispielgliederung für Gutachten zur BGB-Entstehung
-- Checkliste: Qualitaetssicherung vor Gutachtenabgabe
-
-## Quellenregel
-
-Alle Quellen mit Fundstelle. Primaerquellen: ALEX/OeNB, gesetze-im-internet.de, bverfg.de. Sekundaerliteratur: mit Autor, Werk, Auflage, Seite. Keine Blindzitate.

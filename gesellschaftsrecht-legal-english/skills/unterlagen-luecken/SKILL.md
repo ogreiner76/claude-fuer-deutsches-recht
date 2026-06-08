@@ -9,7 +9,6 @@ description: "Lücken- und Beschaffungsliste für Gesellschaftsrecht in legal En
 
 Diese Unterlagenprüfung für **Gesellschaftsrecht Legal English** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `anfaenger-verhandlung-vergleich-und-eskalation` — Anfaenger Verhandlung Vergleich und Eskalation
@@ -36,12 +35,9 @@ Diese Unterlagenprüfung für **Gesellschaftsrecht Legal English** benennt fehle
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
-## Output
-
-Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Gesellschaftsrecht in legal English typischerweise Articles of Association, Shareholders Agreement zuerst.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

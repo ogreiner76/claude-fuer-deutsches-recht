@@ -93,12 +93,6 @@ Vorsicht: Im obigen Beispiel ist `13,6` nur in der Tabelle akzeptabel; in der Fr
 - 3-5 Saetze unter der BWA: wichtigste Abweichungen benennen, Ursachen vermuten oder klaerend fragen.
 - Bei Krisensignalen (Umsatz minus 20 Prozent, Eigenkapitalerosion): Eskalation an Berufstraeger und ggf. Querverweis stb-bwa-sus-bilanz-pruefung.
 
-## Output
-
-- BWA mit Monats-Vorjahresvergleich und kumuliertem Jahresvergleich.
-- Bereinigte Vergleichszahlen bei Sondereffekten.
-- Erlaeuterungstext mit Abweichungsanalyse.
-
 ## Strategie und Praxis-Tipps
 
 - Bei Mandantenuebernahme klare Erwartung kommunizieren: Vorjahresvergleich ist erst sinnvoll, wenn ein volles Wirtschaftsjahr Daten vorliegt.
@@ -106,14 +100,6 @@ Vorsicht: Im obigen Beispiel ist `13,6` nur in der Tabelle akzeptabel; in der Fr
 - Bei abweichendem Wirtschaftsjahr Mandant darauf hinweisen, dass Standard-BWA-Form ggf. anzupassen ist.
 - DATEV BWA 11 (Bewegungs-BWA) gibt Vormonatsvergleich detailliert aus; DATEV BWA 01 mit Vorjahresvergleich konfigurieren.
 - Honorar für aufwendige Sondereffekt-Bereinigung als Zusatzauftrag StBVV § 35 / Zeithonorar.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Struktur.
-- `stb-bwa-soll-ist-vergleich` — Plan-Ist-Vergleich.
-- `stb-bwa-erlaeuterungstext-mandant` — Erlaeuterungstexte.
-- `stb-bwa-branchenvergleich-bbe-datev` — Branchenvergleich.
-- `stb-bwa-mandantengespraech-uebergabe` — Mandantengespraech.
 
 ## Quellen und Updates
 
@@ -125,10 +111,3 @@ Stand: 05/2026.
 - DATEV BWA-Form 01 mit Vorjahresvergleich (Standard).
 - IDW PS 250 (sinngemaess).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

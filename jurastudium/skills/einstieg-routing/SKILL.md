@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Jurastudium (Klausur, AG, Examen
 
 Dieser Einstieg routet **Jurastudium** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `ag-vorbereitung-examens-prognose` — AG Vorbereitung Examens Prognose
@@ -35,10 +34,6 @@ Dieser Einstieg routet **Jurastudium** vom ersten Sachverhalt zu Rollen, Fristen
 - Fachpfad wählen: zentrale Anker im Jurastudium sind die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen. Anhand des Sachverhalts in einen Sach-Cluster routen und den passenden Spezial-Skill aus der Fachlandkarte oben benennen.
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
-
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Jurastudium (Klausur, AG, Examen) typische Eskalationsstufen: Klausurlösung Gutachtenstil, Hausarbeit, AG-Lösung.
 
 ## Qualitätsanker
 

@@ -5,10 +5,6 @@ description: "EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Be
 
 # EUIPO-Beschwerde und EU-Gerichte
 
-## Arbeitsbereich
-
-EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen,
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Führe eine EUIPO-Entscheidung in die richtige Rechtsmittel- oder Vergleichsroute.
 
 ## Pflichtfragen
 
@@ -42,12 +34,7 @@ Führe eine EUIPO-Entscheidung in die richtige Rechtsmittel- oder Vergleichsrout
 5. **Weitere Route:** Gericht der EU und EuGH nicht als zweite Tatsacheninstanz missverstehen.
 6. **Parallelität:** Nationale Verletzungsverfahren und EUIPO-Bestandsverfahren synchronisieren.
 
-## Output
-
-- Rechtsmittel-Fahrplan.
-- Beschwerdebegründungsstruktur.
-- Beleg- und Fristenmatrix.
-
 ## Quellen
 
 UMV, Verfahrensordnung, EUIPO Guidelines und konkrete Entscheidung live prüfen.
+

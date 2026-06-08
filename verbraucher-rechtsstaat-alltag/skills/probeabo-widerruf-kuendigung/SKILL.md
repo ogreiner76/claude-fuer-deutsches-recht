@@ -5,10 +5,6 @@ description: "Probeabo, automatische Verlängerung und Widerruf: prüft kostenlo
 
 # Probeabo Widerruf Kündigung
 
-## Arbeitsbereich
-
-Probeabo, automatische Verlängerung und Widerruf: prüft kostenlose Testphase, spätere Zahlungspflicht, § 312j/312k/355 BGB, EuGH C-565/22 Sofatutor, Kündigungsbutton, Beweisführung und Forderungsabwehr. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Probeabo, automatische Verlängerung und Widerruf: prüft kostenlose Testphase, 
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einsatz
-
-Dieses Fachmodul bei Lernplattformen, Streaming, Apps, Fitness-/Ernährungsprogrammen, Datingportalen, Coaching, Cloudtools oder sonstigen Probeabos, die nach einer kostenlosen Phase plötzlich kostenpflichtig werden.
 
 ## Rechtsanker
 
@@ -51,15 +43,7 @@ Frage:
 4. **Zahlungsabwehr:** Forderung bestreiten, Lastschrift zurückgeben, Zahlungsdienstleister/Inkasso informieren.
 5. **Kommunikation:** Nie nur "ich wollte das nicht" schreiben; immer konkrete Rechtslinie und Belege nennen.
 
-## Output
-
-Erzeuge:
-
-- Kündigungs- und Widerrufsschreiben in einem taktisch sauberen Text.
-- Checkliste für Screenshots der Nutzeroberfläche.
-- Zahlungsdienstleister-Text für Chargeback/Lastschriftrückgabe.
-- Inkassoantwort ohne Anerkenntnis.
-
 ## Red Flags
 
 Bei Minderjährigen, Identitätsmissbrauch, wiederkehrenden Abbuchungen oder gerichtlichem Mahnbescheid sofort zusätzliche Fachmodule nutzen.
+

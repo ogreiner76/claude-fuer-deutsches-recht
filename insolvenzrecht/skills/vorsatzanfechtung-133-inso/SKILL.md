@@ -5,10 +5,6 @@ description: "Vorsatzanfechtung 133 Inso: ordnet Normen, Nutzerangaben, Fristen,
 
 # Vorsatzanfechtung § 133 InsO
 
-## Arbeitsbereich
-
-Vorsatzanfechtung 133 Inso: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Vorsatzanfechtung 133 Inso: ordnet Normen, Nutzerangaben, Fristen, Belege und ve
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Die Vorsatzanfechtung ist die häufigste und längste Anfechtungs-Art. Mandanten oft als Anfechtungs-Gegner — Lieferanten, Banken, Berater. Dieses Skill bedient Verteidigung und Anfechtungs-Geltendmachung.
 
 ## Eingaben
 
@@ -444,6 +436,3 @@ Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-## Quellenregel
-
-Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Rechtsprechung aus offenen Quellen (dejure.org, openjur.de, bundesgerichtshof.de) mit Gericht, Datum, Aktenzeichen, Randnummer.

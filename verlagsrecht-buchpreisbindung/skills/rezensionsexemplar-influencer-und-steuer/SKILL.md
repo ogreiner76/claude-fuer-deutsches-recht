@@ -5,10 +5,6 @@ description: "Verlagsrecht: Rezensionsexemplare, Influencer-Kooperationen und st
 
 # Verl-030 · Rezensionsexemplare, Influencer und Steuer
 
-## Arbeitsbereich
-
-Verlagsrecht: Rezensionsexemplare, Influencer-Kooperationen und steuerliche Behandlung — BuchPrG § 6, Einkommensteuer, Umsatzsteuer, Kennzeichnungspflichten (UWG, TMG). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -117,3 +113,4 @@ Verlage versenden **Rezensionsexemplare** an Presse, Buchblogger und Influencer.
 - **Kennzeichnungsleitfaden** für Influencer-Kooperationspartner
 - **Rezensionsexemplar-Dokumentationsformular**
 - **Compliance-Check** Social-Media-Posts auf korrekte Kennzeichnung
+

@@ -26,9 +26,6 @@ Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspas
 - § 91a ZPO — Kostenentscheidung bei Erledigung: Kooperationsbereitschaft beeinflusst Abwaegung
 - § 278 ZPO — Gueteversuch: kooperativer Ton staerkt Aussichten auf guetige Einigung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Kooperativer Abschluss (gestuft)
 
 | Kontext | Abschlussformel |
@@ -73,6 +70,3 @@ In streitigen Situationen mit hohem Konfliktpotenzial: sachlicher Ausblick ohne 
 **Vorher:** "Das ist mein letztes Wort in dieser Sache."
 **Nachher:** "Ich hoffe, dass die vorstehenden Ausführungen zur Klärung beitragen. Für eine Rückmeldung bin ich jederzeit offen."
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Vorgeschlagene Schlusspassage passend zum Ton des Schreibens. (2) Alternative kooperative Formeln nach Intensitätsstufe. (3) Hinweis auf geeignete Schlussformel.

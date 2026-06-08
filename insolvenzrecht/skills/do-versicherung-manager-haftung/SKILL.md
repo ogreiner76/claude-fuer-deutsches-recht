@@ -25,10 +25,6 @@ Insolvenzverwalter verklagt Geschäftsführer und D&O-Versicherung soll Deckung 
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Bei Insolvenz wird der Geschäftsführer regelmäßig nach §§ 15a 15b InsO in Anspruch genommen. Die D&O-Versicherung ist dann zentrale Verteidigungs- und Deckungs-Quelle. Dieses Skill bedient Mandanten als Versicherten / Versicherer-Korrespondenz.
-
 ## Eingaben
 
 - D&O-Versicherungs-Vertrag (Police AVB)
@@ -374,3 +370,4 @@ Mit freundlichen Gruessen
 - Konkrete BGH-Linie zur Direkthaftung des D&O-Versicherers gegenüber dem Insolvenzverwalter (Abtretung, Deckungsanspruch) sowie BGH IV ZR 360/15 (NJW 2017, 2466) zum versicherungsrechtlichen Trennungsprinzip vor Ausgabe über dejure.org/openjur.de verifizieren.
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 111/12 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH IV ZR 360/15, NJW 2017, 2466 (verifiziert auf dejure.org). -->
+

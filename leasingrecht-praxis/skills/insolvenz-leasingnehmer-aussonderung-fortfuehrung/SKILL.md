@@ -5,10 +5,6 @@ description: "Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungs
 
 # Insolvenz des Leasingnehmers: Aussonderung und Fortführung
 
-## Arbeitsbereich
-
-Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrec
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die Insolvenz des Leasingnehmers ist ein häufiges Praxisszenario. Der Leasinggeber muss sein Aussonderungsrecht sichern, gleichzeitig prüfen ob eine Fortführung wirtschaftlich sinnvoll ist. Dieser Skill analysiert §§ 108, 109 InsO, das Wahlrecht des Insolvenzverwalters und die Forderungsanmeldung.
 
 ## Rechtlicher Rahmen
 
@@ -116,3 +108,4 @@ Voraussetzungen:
 - **Forderungsanmeldungs-Vorlage**: § 174 InsO (Raten, Schadensersatz)
 - **Aussonderungsantrag-Muster**: An Insolvenzverwalter
 - **Fortführungs-Analyse**: Masseverbindlichkeit vs. Quote-Forderung
+

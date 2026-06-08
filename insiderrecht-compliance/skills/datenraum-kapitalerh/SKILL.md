@@ -5,10 +5,6 @@ description: "Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapital
 
 # Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen
 
-## Arbeitsbereich
-
-Sichert Datenraum-Prozesse in Transaktionen (M&A, Anleihe, Kapitalerhoehung) gegen Insiderrecht-Risiken: Zugangskontrolle, Protokollierung und Exit-Management. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,21 +68,3 @@ Nach Abschluss des Prozesses (Signing, Closing, Abbruch):
 - Bei Abbruch der Transaktion: Insiderinformation erlischt nur, wenn kein legitimes Interesse
  mehr an Aufschub besteht; Compliance prüft neuen Status der Information
 
-## Red-Team-Fragen
-
-- Sind alle Datenraum-Nutzer in der Insiderliste erfasst?
-- Wurden alle Nutzer vor Zugriffserteilung belehrt?
-- Wird das Need-to-Know-Prinzip bei jeder Zugriffserteilung geprüft?
-- Sind Zugangsprotokolle vollständig und unveränderbar gespeichert?
-- Wurden externe Parteien zur Datenvernichtung verpflichtet?
-- Ist der Zusammenhang zwischen Datenraum-Zugang und Aufschubakte dokumentiert?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Datenraum-Governance-Policy
-2. Zugriffsebenen-Matrix (Dokument × Stufe × Nutzerkreis)
-3. Belehrungsvorlage für Datenraum-Nutzer
-4. Exit-Checkliste (Datenraum-Schließung)
-
-Belege ausschließlich mit: eur-lex.europa.eu, bafin.de, gesetze-im-internet.de, dejure.org.

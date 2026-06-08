@@ -3,17 +3,6 @@ name: kaltstart-routing-triage
 description: "Einstieg, Schnelltriage und Fallrouting im Kanzlei Allgemein-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage."
 ---
 
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-# Kanzlei Allgemein — Allgemein
-
 ## Aktenstart statt Formularstart
 
 Wenn zu **Kaltstart Routing Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Kanzlei Allgemein** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
@@ -305,14 +294,6 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - beA-Versand ohne Empfangsbekenntnis bei Fristen; Fristnachweis fehlt.
 - Zeiterfassung tagesverspaetet nachgetragen; GoBD-Zeitstempel-Anforderung nicht erfuellt.
 
-## Querverweise
-
-- `berufsrecht-ki-vertragspruefung` — Berufsrechtliche Pruefung von KI-Diensten, die in Kanzlei-Workflows eingesetzt werden.
-- `ki-richtlinie-kanzleien` — KI-Nutzungsrichtlinie als Rahmen für den KI-Einsatz im Kanzleibetrieb.
-- `kanzlei-builder-hub` — Installation und Verwaltung weiterer Skills.
-- `insolvenzverwaltung` — Wenn Mandate in ein Insolvenzverfahren muenden.
-- `selbstvertreter-amtsgericht` — Wenn Mandanten ohne Anwalt vor dem Amtsgericht auftreten wollen.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
@@ -320,10 +301,3 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - PostModG: Zustellungsfiktion vier Werktage seit 01.01.2025
 - § 23 Nr. 1 GVG: AG-Wertgrenze 10.000 EUR seit 01.01.2026
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

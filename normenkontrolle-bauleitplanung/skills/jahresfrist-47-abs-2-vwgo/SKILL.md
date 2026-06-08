@@ -5,10 +5,6 @@ description: "Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob 
 
 # Jahresfrist § 47 Abs. 2 VwGO
 
-## Zweck
-
-Die Jahresfrist ist die dritte Zulässigkeitssäule und zugleich die schärfste materielle Falle. Wer sie versäumt, kann nur noch über fehlerhafte Bekanntmachung oder Wiedereinsetzung retten.
-
 ## Schritt 1 — Wortlaut und Grundregel
 
 ### § 47 Abs. 2 S. 1 VwGO
@@ -162,6 +158,3 @@ Die Jahresfrist ist die dritte Zulässigkeitssäule und zugleich die schärfste 
 
 Vor Ausgabe per bverwg.de mit Datum und Aktenzeichen verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

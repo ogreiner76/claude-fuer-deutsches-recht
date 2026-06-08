@@ -5,10 +5,6 @@ description: "Gliederungs-Baukasten für juristische Hausarbeiten und Seminararb
 
 # Lernstruktur-Builder
 
-## Arbeitsbereich
-
-Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Prüfraster Gliederungstiefe A-B-C-I-II-III, Oberabschnitte Problemaufriss Hauptteil Ergebnis, Argumentationsfluss prüfen. Output Gliederungsentwurf mit Überschriften und Hinweisen zu Gewichtung. Abgrenzung zu Juristisches-Schreiben für Formulierung und zu Subsumtionslehre für Argumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendu
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die Lernstruktur ist das Instrument, aus dem studiert wird. **Den Aufbau selbst zu erarbeiten ist bereits die Hälfte des Lernens** — das ist keine Floskel. Eine Struktur, die jemand anderes erstellt hat, ist eine Struktur, die man im Examen nicht kennt.
-
-Diese Skill baut das Gerüst — Themenblöcke, Unterpunkte, Normslots, Ausnahmen-Platzhalter — und fragt nach. Inhalte (Definitionen, Fallgruppen, Ausnahmen) trägt der Studierende selbst ein, aus eigenen Notizen, Skripten oder Kommentaren. Das ist nicht Verweigerung — das ist Methode.
 
 ## Eingaben
 
@@ -166,3 +156,4 @@ D. Rücktritt (§§ 323 ff. BGB) [LÜCKE]
 Jede Regelaussage, die in das Gerüst aus meinem Wissen eingetragen wird (nicht aus einer vom Studierenden bereitgestellten Quelle), trägt `[PRÜFEN]`. Vor dem Lernen aus der Struktur: jede solche Stelle gegen das aktuell verwendete Skript oder einen anerkannten Kommentar abgleichen. Falsch eingeübte Strukturen sind in der Klausur schwer zu korrigieren.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

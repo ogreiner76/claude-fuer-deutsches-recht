@@ -5,10 +5,6 @@ description: "Student erstellt Zeitplan und Arbeitsplan für juristische Hausarb
 
 # Bearbeitungs-Plan erstellen
 
-## Arbeitsbereich
-
-Student erstellt Zeitplan und Arbeitsplan für juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Prüfungsordnungen Abgabetermin. Prüfraster Zeitaufteilung Phasen Lernziele Prokrastinations-Barrieren. Output Bearbeitungsplan-Template Zeitstrahl Meilensteine. Abgrenzung zu aufgabenstellung-erfassen (Inhalt) und selbstkontrolle-vor-abgabe (Abschluss). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -30,13 +26,6 @@ Student erstellt Zeitplan und Arbeitsplan für juristische Hausarbeit: Recherche
 - § 13 JAG NRW analog — Mindestanforderungen an juristische Arbeitstechnik im Examen
 - § 273 ZPO — Fruehzeitige Vorbereitung als Grundsatz ziviler Prozessfuehrung (Analogie: Hausarbeits-Vorbereitung)
 - §§ 195, 199 BGB — Fristen als tragendes Strukturprinzip: auch im Lernkontext Fristen-Denken einueben
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Hausarbeit ohne Plan = Hausarbeit zu spät / unfertig / oberflächlich. Mit Plan ist sie schaffbar.
 
 ## Schritt 1 — Art der Hausarbeit identifizieren
 
@@ -196,3 +185,4 @@ Wenn der Plan steht, gehe zu
 - `gutachtenstil-vs-urteilsstil` — Schreibweise lernen
 - `gliederung-mit-tiefenstruktur` — Gliederung erarbeiten
 - `methodenlehre-auslegung` — Methodische Grundlagen
+

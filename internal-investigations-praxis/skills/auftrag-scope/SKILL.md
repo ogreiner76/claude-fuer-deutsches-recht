@@ -5,10 +5,6 @@ description: "Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance u
 
 # Untersuchungsauftrag und Scope
 
-## Arbeitsbereich
-
-Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

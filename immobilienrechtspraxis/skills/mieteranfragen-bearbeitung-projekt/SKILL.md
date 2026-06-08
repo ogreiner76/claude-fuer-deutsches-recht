@@ -5,10 +5,6 @@ description: "Mieteranfragen im Immobilienportfolio bearbeiten: Mängel, Betrieb
 
 # Mieteranfragen Bearbeitung
 
-## Arbeitsbereich
-
-Mieteranfragen im Immobilienportfolio bearbeiten: Mängel, Betriebskosten, Belegeinsicht, Kündigung, Mieterhöhung und Mietpreisbremse; mit Fristen, Zuständigkeit, Antwortentwurf, Aktenvermerk und Anschluss an die Betriebskosten-/WEG-Datenpaket-Skills. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,11 +60,6 @@ Sachverhaltselementen und ergänzt aktuelle BGH-Rechtsprechung.
 6. Aktenvermerk für interne Akte mit Kurzbegründung der gewählten
  Linie
 
-## Output
-
-- `Antwort_<Mieter>_<Datum>.docx` auf Briefkopf
-- `Aktenvermerk_<Aktenzeichen>.md` — kurz und klar für die Akte
-
 ## Pinpoint-Zitierregel
 
 BGH zitiert mit Datum Aktenzeichen Fundstelle Randnummer. Beispiel:
@@ -119,6 +110,3 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 - `betriebskostenabrechnung-pruefen-asset-management`
 - `weg-abrechnung-mieterschnittstelle-datenpaket`
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

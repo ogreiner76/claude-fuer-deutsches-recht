@@ -5,9 +5,6 @@ description: "Strafprozess Antragslog Beweisantraege im Strafrecht: prüft konkr
 
 # Strafprozess Antragslog Beweisantraege
 
-## Arbeitsbereich
-
-**Strafprozess Antragslog Beweisantraege** ordnet den Fall über die tragenden Prüfungslinien: Antragslog für die Hauptverhandlung, Verteidigung gegen automatisierten biometrischen, Tägliches Strafprozess-Cockpit für Verteidiger. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Strafprozess Antragslog Beweisantraege im Strafrecht: prüft konkr
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafprozess-antragslog-beweisantraege-und-widerspruch`
@@ -32,10 +30,6 @@ description: "Strafprozess Antragslog Beweisantraege im Strafrecht: prüft konkr
 **Fokus:** Antragslog für die Hauptverhandlung: verwaltet Beweisanträge, Beweisermittlungsanträge, Widersprüche, § 257-StPO-Erklärungen, Ablehnungsbeschlüsse, Wiederholungsbedarf, Revisionssicherung und taktische Priorität.
 
 ### Antragslog, Beweisanträge und Widerspruch
-
-## Zweck
-
-In langen Hauptverhandlungen geht der Überblick über Anträge schnell verloren. Dieser Skill führt ein präzises Register: Was wurde gestellt, warum, wie hat das Gericht entschieden, was folgt daraus?
 
 ## Antragsregister
 
@@ -86,25 +80,11 @@ Nicht alles ist später heilbar. Deshalb am Sitzungstag prüfen:
 - Muss eine Erklärung oder Beanstandung folgen?
 - Muss der Antrag nach neuer Lage wiederholt oder angepasst werden?
 
-## Output
-
-- `Antragslog`
-- `Beweisantrag-Entwurf`
-- `Widerspruchsnotiz`
-- `Revisionssicherungscheck`
-- `Nächster Antrag`
-
 ## 2. `strafprozess-biometrischer-internetabgleich-98d-stpo-e`
 
 **Fokus:** Verteidigung gegen automatisierten biometrischen Internetabgleich nach dem Regierungsentwurf zu § 98d StPO-E: Rechtsstand prüfen, Akteneinsicht nachfordern, Anordnung, Zweck, Anlasstat, Subsidiarität, Protokollierung, Löschung, KI-VO, Drittbetroffenheit, Trefferqualität, Black-Box-Risiko und Verwertbarkeit angreifen.
 
 ### Biometrischer Internetabgleich im Strafverfahren
-
-## Zweck
-
-Dieser Skill prüft, ob eine Strafakte auf automatisiertem biometrischem Abgleich mit öffentlich zugänglichen Internetdaten beruht oder beruhen könnte. Er ist für Verteidigung, Zeugenbeistand und strafprozessuale Qualitätssicherung gedacht.
-
-Wichtig: § 98d StPO ist nach aktuellem Arbeitsstand als Entwurfsnorm zu behandeln. Vor jeder tragenden Aussage zuerst live prüfen, ob der Entwurf bereits Gesetz geworden ist, ob sich der Wortlaut geändert hat und welche Übergangsregel gilt.
 
 ## Sofort-Triage
 
@@ -247,24 +227,11 @@ Wir bitten um vollständige Akteneinsicht in alle Unterlagen zur biometrischen A
 Vor vollständiger Offenlegung kann die Verteidigung weder die Rechtmäßigkeit noch die Beweisbedeutung des behaupteten Treffers prüfen.
 ```
 
-## Output
-
-- Akteneinsichts- und Nachforderungsantrag.
-- Verteidigungsmemo zur Rechtmäßigkeit der Maßnahme.
-- Widerspruchs- und Verwertungsangriff für die Hauptverhandlung.
-- Fragenkatalog für Polizeizeugen, Sachverständige und IT-Verantwortliche.
-- Mandantenbrief in verständlicher Sprache.
-- Revisionssicherungsnotiz.
-
 ## 3. `strafprozess-cockpit-taegliche-kanzleifuehrung`
 
 **Fokus:** Tägliches Strafprozess-Cockpit für Verteidiger: bearbeitet Verfahrensstand, Fristen, Haftlage, Akteneinsicht, offene Anträge, Mandantenkommunikation, Beweisfragen, Termine und nächste Schritte in einer laufend aktualisierbaren Verteidigungsübersicht.
 
 ### Strafprozess-Cockpit für die tägliche Verteidigung
-
-## Zweck
-
-Dieser Skill ist die Schaltzentrale einer Strafakte. Er soll verhindern, dass Fristen, Nachlieferungen, Haftfragen, Beweisanträge, Zusagen der Staatsanwaltschaft oder Mandantenaufträge in E-Mails und Notizen verschwinden.
 
 ## Einstieg
 
@@ -312,29 +279,11 @@ Nächster Schritt:
 5. Antragslog prüfen: gestellt, beschieden, wiederholen, zurücknehmen, ergänzen.
 6. Tagesentscheidung treffen: heute handeln, diese Woche vorbereiten, beobachten.
 
-## Output
-
-Immer liefern:
-
-- `Kurzstatus Akte`
-- `Fristen/Wiedervorlagen`
-- `Offene Entscheidungen`
-- `Nächster anwaltlicher Schritt`
-- `Mandanteninfo in 5 Sätzen`
-
-## Quellenregel
-
-StPO-Normen, Fristen und Formanforderungen live prüfen, wenn sie das Ergebnis tragen. Keine Rechtsprechung ohne Gericht, Datum, Aktenzeichen und frei prüfbare Quelle.
-
 ## 4. `strafprozess-haft-und-besuchsmanagement`
 
 **Fokus:** Haft- und Besuchsmanagement für Untersuchungshaft: organisiert Haftbefehl, Haftprüfung, Haftbeschwerde, Akteneinsicht, Besuch, Telefon, Post, Familie, Arbeitgeber, Haftverschonungsplan und Beschleunigungskontrolle.
 
 ### Haft- und Besuchsmanagement
-
-## Zweck
-
-U-Haft ist Verteidigung unter Zeitdruck. Dieser Skill führt die praktische Seite: Kontakt zum Mandanten, Akteneinsicht, Haftbefehlprüfung, Entlassungsplan, Familie, Arbeitgeber, Fristen und Beschleunigung.
 
 ## Sofortliste
 
@@ -386,25 +335,11 @@ Familienfreigabe:
 Nächster Schritt:
 ```
 
-## Output
-
-- Haftstatus.
-- Besuchsleitfaden.
-- Haftprüfungs-/Haftbeschwerde-Skizze.
-- Haftverschonungsplan.
-- Familieninfo.
-- Beschleunigungskontrolle.
-- Wiedervorlagenliste: Besuch, Akteneinsicht, Haftprüfung/Beschwerde, sechs Monate, nächster Mandantenkontakt.
-
 ## 5. `strafprozess-hv-tagesmappe-und-sitzungsplan`
 
 **Fokus:** Hauptverhandlungs-Tagesmappe: erstellt für jeden Sitzungstag Zeitplan, Zeugen- und Beweisprogramm, Einlassungsentscheidung, Fragelisten, Antragsentwürfe, Mandantenbriefing, Pausenstrategie, Protokollnotizen und Nachbereitungsaufgaben.
 
 ### Hauptverhandlungs-Tagesmappe und Sitzungsplan
-
-## Zweck
-
-Dieser Skill macht aus einer vorbereiteten Akte eine führbare Hauptverhandlung. Er denkt nicht nur an Rechtsfragen, sondern an den Sitzungstag: Wer kommt wann, was ist zu fragen, was muss beantragt, protokolliert und nachgearbeitet werden?
 
 ## Tagesmappe
 
@@ -449,10 +384,3 @@ Nachbereitung:
 - Fristen/Termine aktualisieren.
 - Revisionssicherung prüfen: Protokoll, Beanstandung, Beschluss, Ablehnung.
 
-## Output
-
-- `HV-Tagesmappe`
-- `Zeugen-Frageliste`
-- `Antragsmappe`
-- `Mandantenbriefing`
-- `Nachbereitungsnotiz`

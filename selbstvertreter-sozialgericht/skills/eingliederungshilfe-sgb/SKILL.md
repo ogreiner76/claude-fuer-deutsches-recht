@@ -5,9 +5,6 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 
 # Eingliederungshilfe SGB
 
-## Arbeitsbereich
-
-**Eingliederungshilfe SGB** ordnet den Fall über die tragenden Prüfungslinien: Eingliederungshilfe nach SGB IX Teil 2, Eingliederungsvereinbarung nach § 15 SGB II / nach Reform, Fax beim SG einreichen Vorteile und Grenzen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `eingliederungshilfe-sgb-ix-rehabilitation`
@@ -135,10 +133,6 @@ description: "Eingliederungshilfe SGB im Selbstvertretung am Sozialgericht: prü
 5. Gibt es eine konkrete Rechtsfolgenbelehrung oder nur allgemeinen Druck?
 6. Widerspruch gegen Minderungsbescheid und einstweiliger Rechtsschutz nötig?
 
-## Output
-
-Kooperationsplan-Redline, Gesprächsvorbereitung, Nachweisliste, Änderungswunsch und Widerspruchs-/Eilantragsampel.
-
 ## 3. `einreichung-fax-und-grenzen-sozialgericht`
 
 **Fokus:** Fax beim SG einreichen Vorteile und Grenzen. Sendebericht als Beweis Telefax-Nummer prüfen Frist halten. Hinweis Fax wird abgeschafft Alternativen vorhanden.
@@ -231,25 +225,9 @@ Achtung: Einige SG haben das Fax abgeschafft oder umgestellt. Pruefen Sie immer 
 - Sehr lange Anhaenge per Fax → besser splitten oder MJP / Post
 - Letzter Tag, Geraet besetzt → schon morgens versuchen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `einreichung-mein-justizpostfach-mjp-sozialgericht` — digitale Alternative
-- `einreichung-papierform-sozialgericht-mit-abschriften` — Post
-- `klage-zusammenstellen-bundle-sozialgericht` — Komplett-Versand
-- `versand-selbst-zurechnung-laien-sozialgericht` — Versand-Beweis
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BGH und BSG haben Fax-Schriftform vielfach bestaetigt. Fax in der Justiz wird mittelfristig abgeschafft. Pruefen Sie bei Ihrem SG aktuell, ob noch verfuegbar.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `einreichung-mein-justizpostfach-mjp-sozialgericht`
 
@@ -358,26 +336,9 @@ Das Gericht antwortet im MJP. Sie bekommen Email-Benachrichtigung. Loggen Sie si
 - Quittung nicht gespeichert → immer speichern als Beweis
 - Identifikation klappt nicht → Hotline oder ELSTER-Alternative
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `einreichung-papierform-sozialgericht-mit-abschriften` — Papierform-Alternative
-- `einreichung-fax-und-grenzen-sozialgericht` — Fax-Alternative
-- `dokumenten-erzeugung-pdf-laien-sozialgericht` — wie PDFs machen
-- `klage-zusammenstellen-bundle-sozialgericht` — Schriftsatz mit Anlagen
-- `versand-selbst-zurechnung-laien-sozialgericht` — Versand-Beweise
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. MJP seit 2024 für alle Buerger oeffentlich. § 65a SGG für elektronische Klage. Bei technischen Problemen: www.mein-justizpostfach.de/hilfe. Funktionalitaet variiert je Bundesland.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `einreichung-papierform-sozialgericht-mit-abschriften`
 
@@ -476,23 +437,7 @@ Aufheben min. 5 Jahre.
 - Falsche Adresse (LSG statt SG) → Verweisung; Zeitverlust
 - Normaler Brief am letzten Tag → riskant
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `einreichung-mein-justizpostfach-mjp-sozialgericht` — digitale Alternative
-- `einreichung-fax-und-grenzen-sozialgericht` — Fax
-- `anlagen-bezeichnen-und-sortieren-sozialgericht` — Anlagen
-- `klage-zusammenstellen-bundle-sozialgericht` — Komplett-Versand
-- `versand-selbst-zurechnung-laien-sozialgericht` — Versand-Beweis
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 93 SGG zu Abschriften. Postpreise variieren, aktuell pruefen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135
 
 # Gesellschafterdarlehen — § 135 InsO
 
-## Arbeitsbereich
-
-Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135 InsO prüfen: Sicherheiten zehn Jahre, Befriedigung ein Jahr, Drittdarlehen mit Gesellschaftersicherheit, Gebrauchsüberlassung, Sanierungsprivileg und Kleinbeteiligtenausnahme. Output: Anspruchsmatrix mit Rollenprüfung, Fristen, Rückgewähr und Verteidigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Wenn diese Punkte streitig sind, wird der Vorgang als Human Review markiert.
 ---
 
 Hinweis: Keine Rechtsberatung. § 135 InsO ist besonders anfällig für Rollen- und Konzernfehler; wirtschaftliche Gleichstellung nie ohne belastbare Tatsachen annehmen.
+

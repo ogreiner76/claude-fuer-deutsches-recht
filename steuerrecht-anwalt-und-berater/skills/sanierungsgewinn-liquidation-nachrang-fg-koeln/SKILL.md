@@ -5,10 +5,6 @@ description: "Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen.
 
 # Sanierungsgewinn — Liquidation, Nachrang und die FG-Koeln-Linie
 
-## Arbeitsbereich
-
-Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen. Klaert mit der verifizierten FG-Koeln-Linie (Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012 Seite 977; vorgehend zu BFH I R 34/12) und mit BFH II R 19/01 die Frage, wann die Verbindlichkeit ausgebucht werden muss und ob ein etwaiger Sanierungsgewinn mangels Koerperschaftsteuersubjekt noch festsetzbar ist. Adressat ist der Steuerberater oder Rechtsanwalt, der eine GmbH ohne Insolvenz nur per Liquidation abwickeln will und ein hohes Gesellschafterdarlehen mit qualifiziertem Rangruecktritt im Bestand hat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -98,11 +94,6 @@ Dieser Skill behandelt die Konstellation systematisch.
 
 Verbindliche Zitierweise: `references/zitierweise.md`. Die FG-Koeln-Fundstelle und die BFH-Linie sind in jedem Memo, Antrag und Mandantenbrief mit Gericht, Datum, Aktenzeichen, Fundstelle und ggf. Randnummer zu nennen. Os. 7 von 13 K 3006/11 ist woertlich zitierfaehig (s. oben).
 
-## Ausgabeformat
-
-- Memo im Gutachtenstil: Sachverhalt knapp; Frage; Kurzantwort; Subsumtion; Gesamtergebnis; Risiken; Quellenverzeichnis.
-- Querverweise auf die Akten 05 (Rangruecktritt), 06 (§ 5 Abs. 2a EStG), 07 (BFH II R 19/01), 08 (Szenario A), 16 (FG Koeln) der Test-Akte Strassburger Handelshof — soweit das Mandat parallel laeuft.
-
 ## Beispiele
 
 ### Beispiel 1 — Klauselwortlaut sauber, Strategie A
@@ -131,16 +122,6 @@ GmbH solvent, Darlehen 2,4 Mio EUR, Gesellschafterin erklaert ausdruecklich Verz
 - **Sperrjahr ausnutzen.** Das Sperrjahr nach § 73 GmbHG (mindestens 1 Jahr nach Bekanntmachung des Glaeubigeraufrufs) gibt Zeit, die Strategie zu finalisieren.
 - **Loeschungsantrag erst nach Steuerakte.** Vor Loeschung sollten die FA-Verfahren abgeschlossen oder die Bescheide bestandskraeftig sein, um die Vollbeendigung nicht zu blockieren.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-3a-estg-unternehmens-vs-person`
-- `stb-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg`
-- `stb-sanierungsgewinn-vermeidungsstrategien-praxis`
-- `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung`
-- `insol-sanierungsgewinn-liquidation-statt-plan-folgen`
-- `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-
 ## Quellen Stand 06/2026
 
 - **FG Koeln, Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12). Os. 7 woertlich oben zitiert.
@@ -149,3 +130,4 @@ GmbH solvent, Darlehen 2,4 Mio EUR, Gesellschafterin erklaert ausdruecklich Verz
 - OFD Frankfurt a. M., Verfuegung (Aktualitaet vor Anwendung pruefen).
 - §§ 60, 65, 71, 73, 74 GmbHG; § 1 KStG, § 11 KStG; § 5 Abs. 2a EStG; § 3a EStG; § 17 EStG; § 397 BGB.
 - Verbindliche Zitierweise: `references/zitierweise.md`.
+

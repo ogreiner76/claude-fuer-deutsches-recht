@@ -5,10 +5,6 @@ description: "Soldatengesetz Rechtsstellung Grundpflichten: prüft die einschlä
 
 # Soldatengesetz – Rechtsstellung und Grundpflichten
 
-## Arbeitsbereich
-
-Soldatengesetz Rechtsstellung Grundpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,15 +88,6 @@ Das Soldatengesetz (SG) regelt das öffentlich-rechtliche Dienst- und Treueverh�
 - WBO-Frist versäumt, weil Zugang nicht dokumentiert.
 - Verwaltungsgerichtsweg nach VwGO gewählt, obwohl WBO-Weg eröffnet und verbindlich ist.
 
-## Querverweise
-
-- gehorsam-befehl-und-rechtswidriger-befehl
-- wehrbeschwerdeordnung-beschwerde-frist-form
-- wehrdisziplinarordnung-einfache-disziplinarmassnahme
-- status-soldat-beamter-zivilbeschaeftigter-klaeren
-- politische-betaetigung-maessigung-neutralitaet
-- presseaeusserung-meinungsfreiheit-soldat
-
 ## Quellen Stand 06/2026
 
 - Soldatengesetz (SG) in der jeweils geltenden Fassung – Volltext: gesetze-im-internet.de.
@@ -108,3 +95,4 @@ Das Soldatengesetz (SG) regelt das öffentlich-rechtliche Dienst- und Treueverh�
 - Wehrdisziplinarordnung (WDO) in der ab 2025 geltenden Fassung.
 - BVerwG, Wehrdienstsenate – ständige Rechtsprechung zu §§ 7, 11, 15, 17 SG (Az. nur nach Live-Verifikation in der BVerwG-Datenbank).
 - Keine Kommentarstellen aus Modellwissen zitieren; Scherer/Alff/Poretschkin und Walz/Eichen nur bei konkretem Lizenzzugriff.
+

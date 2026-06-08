@@ -5,10 +5,6 @@ description: "Prüft Drittmittel, Forschungskooperation und Industrieeinfluss im
 
 # Drittmittel Und Industriekooperation
 
-## Arbeitsbereich
-
-Prüft Drittmittel, Forschungskooperation und Industrieeinfluss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Drittmittel Und Industriekooperation**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -22,7 +18,6 @@ Arbeitsfokus: **Drittmittel Und Industriekooperation**. Prüfe diese Anker am Sa
 - `§ 5 AWG` — Embargo/Sanktionen.
 - `§ 7 Abs. 1 TierSchG` — Tierversuchszweck.
 - `§ 8 Abs. 1 TierSchG` — Tierversuchsgenehmigung.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -92,3 +87,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: Drittmittel-Review. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

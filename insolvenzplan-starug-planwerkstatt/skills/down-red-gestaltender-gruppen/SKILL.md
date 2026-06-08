@@ -5,10 +5,6 @@ description: "Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG
 
 # Down: Red-Team und Qualitätskontrolle
 
-## Arbeitsbereich
-
-Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,12 +40,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Red-Team Cross-Class Cram-Down
 - **InsO § 245 Obstruktionsverbot:** Voraussetzungen: (1) Mehrheit der Gruppen hat zugestimmt, (2) ablehnende Gruppe wird nicht schlechter gestellt als ohne Plan (Best-Interest-Test § 245 Abs. 1 Nr. 1), (3) angemessene Beteiligung an wirtschaftlichem Wert (§ 245 Abs. 1 Nr. 2).
 - **StaRUG §§ 26–28 gruppenübergreifender Cram-Down:** Voraussetzungen ähnlich; (1) Mehrheit der Gruppen, (2) absolute oder relative Priorität nach § 27 StaRUG (Wahlrecht zwischen Vorrangregeln), (3) Schutz nachrangiger Gruppen.
@@ -59,8 +49,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Typische Fallen:** Vergleichsrechnung mit zu optimistischer Liquidationsquote → Cram-Down fällt; Gruppenbildung zu fein → § 222 InsO/§ 9 StaRUG-Verstoß; nachrangige Gruppen nicht angemessen beteiligt → § 245 Abs. 1 Nr. 2 InsO/§ 26 StaRUG.
 - **Praxis:** Cram-Down ist Letzter-Ausweg — Verhandlungslösung mit allen Gruppen ist robuster.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

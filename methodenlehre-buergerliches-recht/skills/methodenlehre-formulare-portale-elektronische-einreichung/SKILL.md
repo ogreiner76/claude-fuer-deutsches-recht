@@ -51,10 +51,6 @@ description: "Dieses Skill behandelt die methodisch korrekte Handhabung von star
 - Das beA-Postfach wird nicht regelmäßig geleert, sodass Zustellungen unbemerkt bleiben und Fristen versäumt werden.
 - Formularpflichtfelder werden unvollständig ausgefüllt, was zur Zurückweisung ohne Sachprüfung führt.
 
-## Output
-
-Das Skill liefert eine Einreichungs-Checkliste für die gängigen elektronischen Wege (beA, Online-Mahnportal, Unternehmensregister): Anforderungen, Schritt-für-Schritt-Anleitung, Fehlerquellen und Dokumentationspflichten. Ergänzt wird eine Notfallprozedur für technische Ausfälle nach § 130a Abs. 6 ZPO.
-
 ## Quellen
 
 - [§ 130a ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__130a.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

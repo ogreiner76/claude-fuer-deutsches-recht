@@ -5,10 +5,6 @@ description: "Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen im Sc
 
 # KI Nutzung Schule
 
-## Arbeitsbereich
-
-Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,3 +70,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: KI-Regelvermerk. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

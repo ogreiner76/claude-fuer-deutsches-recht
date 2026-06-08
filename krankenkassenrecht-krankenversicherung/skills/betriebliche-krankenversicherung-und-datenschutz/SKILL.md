@@ -5,10 +5,6 @@ description: "Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistung
 
 # Betriebliche Krankenversicherung und Datenschutz
 
-## Arbeitsbereich
-
-Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistungsumfang, Arbeitgeber-Datenschutz, steuerliche Behandlung und Portabilität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,3 +89,4 @@ Die betriebliche Krankenversicherung (bKV) ist ein wachsendes Benefit-Instrument
 - [DSGVO Art. 9](https://dsgvo-gesetz.de/art-9-dsgvo/)
 - [PKV-Verband bKV](https://www.pkv.de)
 - [dejure.org § 26 BDSG](https://dejure.org/gesetze/BDSG/26.html)
+

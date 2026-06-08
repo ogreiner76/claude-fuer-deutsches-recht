@@ -51,10 +51,6 @@ description: "Dieses Skill bearbeitet methodische Vertragsauslegung mit strategi
 - Die Verjährungshemmung durch Verhandlungen (§ 203 BGB) wird nicht dokumentiert, und Ansprüche verjähren während der Verhandlungsphase.
 - Die Eskalationsschwelle wird zu spät gezogen, was Verhandlungszeit verschwendet oder kostspielige Verfahren nach sich zieht.
 
-## Output
-
-Das Skill liefert eine dreistufige Dokumentation: Auslegungsanalyse mit Bandbreite vertretbarer Ergebnisse, strukturiertes Verhandlungsprotokoll mit Positions- und Konzessionsplanung, fertiger Vergleichsentwurf mit Vollstreckbarkeitscheck. Bei Eskalation entsteht ein Klageentwurf mit Begründung, warum Verhandlung gescheitert ist.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -86,3 +82,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

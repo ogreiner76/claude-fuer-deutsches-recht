@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemei
 
 # Wahlrecht und Repraesentation
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das Wahlrecht in Deutschland hat tiefgreifende Wandlungen erfahren. Die Reichsve
 - BVerfGE zum Wahlrecht: bverfg.de
 - Reichstagsprotokolle 1918-1919: reichstagsprotokolle.de
 
-## Output
-
-- Wahlrecht-Zeitleiste: 1871-2023
-- Frauenwahlrecht 1918: Entstehung und Bedeutung
-- BVerfGE-Wahlrechtslinie: Kernentscheidungen
-
-## Quellenregel
-
-Reichsverfassung 1871: ALEX/OeNB. WRV: documentArchiv.de. GG und BWahlG: gesetze-im-internet.de. BVerfGE: bverfg.de. Reichstagsprotokolle: reichstagsprotokolle.de.

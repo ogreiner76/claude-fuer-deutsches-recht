@@ -5,10 +5,6 @@ description: "Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inh
 
 # Transparenzgebot nach § 307 I S. 2 BGB
 
-## Arbeitsbereich
-
-Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zuläs
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill unterstützt Sie beim Drafting transparenter AGB-Klauseln. Auch eine inhaltlich zulässige Klausel ist unwirksam, wenn sie unklar oder unverständlich ist. Das Transparenzgebot ist eigenständiger Unwirksamkeitsgrund neben den materiellen Inhaltsverboten der §§ 308 und 309 BGB.
 
 ## Eingaben
 
@@ -61,13 +53,6 @@ Dieser Skill unterstützt Sie beim Drafting transparenter AGB-Klauseln. Auch ein
 - Verlängerungsklauseln, die die Verlängerungsdauer und die Kündigungsfrist nicht zusammen erkennen lassen.
 - Mehrere Klauseln widersprechen sich (Haftungsausschluss in § X widerspricht Garantie in § Y).
 
-## Ausgabeformat
-
-- Überarbeitete Klausel mit "Vorher / Nachher"-Gegenüberstellung.
-- Lesbarkeits-Notiz: Satzlänge, aktive Form, Begriffsklärung.
-- Hinweise auf Layout (Tabelle, Hervorhebung, Beispielrechnung).
-- Querverweis auf `agb-konforme-klauseln-305-310-bgb` für die inhaltliche Kontrolle.
-
 ## Beispiele
 
 Vorher (Preisanpassungsklausel, Verbraucher):
@@ -89,15 +74,9 @@ Nachher (sachgerecht in Verbraucher-AGB):
 
 > Über das gesetzliche Widerrufsrecht und die Mängelrechte werden Sie gesondert in der beigefügten Widerrufsbelehrung und in § Z dieses Vertrages informiert. Diese Vorschriften gehen abweichenden Regelungen in diesen AGB vor.
 
-## Querverweise
-
-- `agb-konforme-klauseln-305-310-bgb` – inhaltliche AGB-Prüfung.
-- `b2b-vs-b2c-klausel-strategie` – unterschiedliche Erwartungshorizonte.
-- `definitionen-klauseln-stringent` – Hierarchie und Konsistenz der Defined Terms.
-- `verweis-und-querverweis-technik` – Verweisarchitektur.
-
 ## Quellen (Stand 05/2026)
 
 - § 307 I S. 2 BGB; § 305c II BGB; § 306 II BGB; § 310 I BGB.
 - BGH-Linie zu Preisanpassungs-, Tarif- und Verlängerungsklauseln (verschiedene Senate) ist vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
+

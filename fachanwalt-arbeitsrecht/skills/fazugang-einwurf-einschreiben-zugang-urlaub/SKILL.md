@@ -5,9 +5,6 @@ description: "Fazugang Einwurf Einschreiben Zugang Urlaub im Plugin Fachanwalt A
 
 # Fazugang Einwurf Einschreiben Zugang Urlaub
 
-## Arbeitsbereich
-
-**Fazugang Einwurf Einschreiben Zugang Urlaub** ordnet den Fall über die tragenden Prüfungslinien: Einschreiben-Zustellung bei Kündigung, Zugang bei Abwesenheit, Bestreiten des Inhalts eines zugestellten Umschlags. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Fazugang Einwurf Einschreiben Zugang Urlaub im Plugin Fachanwalt A
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag`
@@ -38,9 +36,6 @@ description: "Fazugang Einwurf Einschreiben Zugang Urlaub im Plugin Fachanwalt A
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vollständige Analyse der Zustellungsrisiken bei Nutzung des Einschreibens zur Kündigungszustellung. Häufiger Fehler: Arbeitgeber glaubt, mit Einschreiben sei der Zugang gesichert — das Gegenteil kann der Fall sein.
 
 ## Einstieg
 Wenn ein Sachverhalt vorliegt (Kündigungsschreiben wurde per Einschreiben versandt), zuerst die Fakten klären:
@@ -125,11 +120,6 @@ Das BAG hat keine feste Zugangsvermutung für Einschreiben entwickelt. Stattdess
 - `fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangebot` für Inhaltsbestreiten
 - `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugang` für Fristberechnung
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Keine Aussagen zu BAG-Zugangsvermutungen ohne verifizierten Quellenbeleg.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Zugangsprognose ohne Kenntnis der konkreten Umstände.
 - Keine Aussage über Postlaufzeiten der Deutschen Post im konkreten Einzelfall.
@@ -147,9 +137,6 @@ Das BAG hat keine feste Zugangsvermutung für Einschreiben entwickelt. Stattdess
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Klärung des Zugangszeitpunkts bei Kündigung oder anderen fristauslösenden Erklärungen, wenn der Empfänger zum Zeitpunkt der Zustellung abwesend war. Häufig streitiger Ausgangspunkt für die Berechnung der 3-Wochen-Frist § 4 KSchG.
 
 ## Einstieg
 Wenn ein Sachverhalt vorliegt, zuerst die Fakten sichern:
@@ -224,11 +211,6 @@ Wenn der Arbeitnehmer die Klagefrist nach § 4 KSchG unverschuldet versäumt hat
 - `fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugang` für Fristberechnung bei unklarem Zugangsdatum
 - `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne-unwahrheit` für Verteidigungsstrategie
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Keine modellwissensbasierten Urteile ohne Verifikation; aktuelle BAG-Linie live prüfen.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Prognose ohne Kenntnis der konkreten Abwesenheitsumstände.
 - Keine Aussage über internationales Privatrecht bei Auslandssachverhalten.
@@ -246,9 +228,6 @@ Wenn der Arbeitnehmer die Klagefrist nach § 4 KSchG unverschuldet versäumt hat
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vollständige Analyse, wann und wie der Inhalt eines zugestellten Umschlags zulässig bestritten werden kann — mit Blick auf Beweislast, prozessuale Konsequenzen und die Grenze zur unzulässigen Schutzbehauptung.
 
 ## Einstieg
 Wenn ein Sachverhalt vorliegt, zuerst klären:
@@ -324,11 +303,7 @@ Es ist prozessual grundsätzlich zulässig, den Inhalt eines zugegangenen Umschl
 - `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne-unwahrheit` für Verteidigungsstrategie
 - `fazugang-neu-008-schriftform-kuendigung-original-und-elektronische-kommunikation` für Schriftformprobleme
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Keine modellwissensbasierten Urteile ohne Verifikation.
-- Annahmen explizit kennzeichnen; keine spekulativen Beweisaussagen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zur wissentlich falschen Behauptung (Prozessbetrug).
 - Keine individuelle Prognose über Beweiswürdigung des konkreten Gerichts.
+

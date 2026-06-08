@@ -5,10 +5,6 @@ description: "AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Bete
 
 # AnzV/KWG-Anzeigenkalender BaFin und Bundesbank
 
-## Arbeitsbereich
-
-AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-bringen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -49,14 +45,6 @@ Dieser Skill erstellt einen operativen Anzeigenkalender für KWG-Institute nach 
 - Neue Cloud-Auslagerung Kernbank: § 24 Abs. 1 Nr. 19 KWG, AnzV § 13, Risikoanalyse § 25b KWG
 - Kreditlinie erstmals über 1 Mio. Euro: § 14 KWG Millionenkreditmeldung, Bundesbank-Formular, Meldetermin quartalsweise
 - Vergütungssystem-Änderung (Bonus-Caps): AnzV § 21, InstVergV, EBA-Leitlinie EBA/GL/2021/04
-
-## Output
-
-Anzeigenkalender (tabellarisch) mit Ereignis, Norm, Frist, Einreichweg und Verantwortlichem; Checkliste Unterlagen pro Anzeigeart; Entwurf Anschreiben an BaFin/Bundesbank; Risikoampel für überfällige Anzeigen.
-
-## Quellenregel
-
-gesetze-im-internet.de (KWG, AnzV, InhKontrollV, InstVergV), bafin.de (Formular-Center, Anzeigenkalender), bundesbank.de (Meldewesen FINREP/COREP, ExtraNet). Live-Check bei AnzV-Änderungsrundschreiben BaFin und bei EBA-XBRL-Taxonomie-Updates.
 
 ## Normen und Rechtsprechung
 

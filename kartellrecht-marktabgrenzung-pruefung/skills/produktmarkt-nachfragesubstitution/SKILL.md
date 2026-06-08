@@ -5,10 +5,6 @@ description: "Kernschritt jeder Marktabgrenzung: sachlicher Markt aus Nachfrager
 
 # Produktmarkt — Nachfragesubstitution
 
-## Arbeitsbereich
-
-Kernschritt jeder Marktabgrenzung: sachlicher Markt aus Nachfragersicht bestimmen. Prüft funktionale Austauschbarkeit Preisreagibilitaet qualitative Unterschiede Verwendungszweck Bedarfsdeckungsaequivalenz. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Prüfraster Verallgemeinerungsannahmen fehlende Differenzierungen nach Kundensegmenten SSNIP-Test. Output Nachfragesubstitutions-Memo mit Marktdefinition und Argument-Schwachstellen-Liste. Abgrenzung: produktmarkt-angebotsumstellung für Supply-Side-Perspektive. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,6 +76,3 @@ Stufe: **eng / angemessen / zu weit** — mit Kurzformulierung der Hauptschwäch
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

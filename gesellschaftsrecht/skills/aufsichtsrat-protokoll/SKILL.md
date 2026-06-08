@@ -5,10 +5,6 @@ description: "Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitz
 
 # Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG)
 
-## Arbeitsbereich
-
-Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigger: "Protokoll", "Vorstandssitzung", "Aufsichtsratssitzung", "Gesellschafterversammlung", "Protokollentwurf", "Sitzungsprotokoll". Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

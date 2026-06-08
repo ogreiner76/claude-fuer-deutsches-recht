@@ -5,10 +5,6 @@ description: "Übersicht und Verwaltung aller installierten Skills: Status, Vers
 
 # Skill-Manager
 
-## Arbeitsbereich
-
-Übersicht und Verwaltung aller installierten Skills: Status, Version, Abhaengigkeiten. Normen: technisch/intern. Prüfraster: aktive Skills, deaktivierte Skills, Update-Bedarf. Output: Skills-Verwaltungsuebersicht. Abgrenzung: nicht Einzelinstallation oder -aktualisierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -125,24 +121,6 @@ Ist der jüngste Protokolleintrag für den genannten Skill `deaktiviert`, Reakti
 
 ---
 
-## Ausgabeformat
-
-Strukturierte Bestätigung nach jeder Aktion:
-
-```
-Skill-Manager — Aktion: [deinstalliert / deaktiviert / reaktiviert]
-Skill: [name]
-Zeitstempel: [ISO8601]
-Betroffene Dateien:
- - [Pfad 1]
- - [Pfad 2]
-Konfiguration beibehalten:
- - [Pfad, falls zutreffend]
-Protokolleintrag: installations-protokoll.yaml aktualisiert.
-```
-
----
-
 ## Beispiel
 
 **Nutzer:** "Deinstalliere den Skill `vertragsanalyse-nda`."
@@ -179,3 +157,4 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Wagner, BB 2024, 579 (583)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

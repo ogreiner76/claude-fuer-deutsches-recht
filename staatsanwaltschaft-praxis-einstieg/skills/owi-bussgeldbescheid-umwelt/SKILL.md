@@ -5,10 +5,6 @@ description: "Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweism
 
 # Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweismittel, Nebenfolgen, Rechtsbehelf und typische Fehler erkennen
 
-## Arbeitsbereich
-
-Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweismittel, Nebenfolgen, Rechtsbehelf und typische Fehler erkennen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweismittel, Nebenfo
 ## Fachkern: Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweismittel, Nebenfolgen, Rechtsbehelf und typische Fehler erkennen
 - **Normen-/Quellenanker:** StPO, GVG, RiStBV, OWiG, JGG, BtMG, Vermögensabschöpfung, Durchsuchung/Beschlagnahme, Abschlussverfügung und Sitzungsdienst.
 - **Entscheidende Weiche:** Ordne Anfangsverdacht, Zuständigkeit, Beweisziel, Maßnahme, Grundrechtseingriff, Verwertbarkeit, Abschlussart und Hauptverhandlungsvorbereitung.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
 
 ## Einstieg
 
@@ -62,7 +54,6 @@ Der Skill prüft, ob der Bußgeldbescheid als verfahrensleitendes Zentrum tragf�
 - Datenschutz- oder Unternehmensbußgelder ohne Spezialverweisung prüfen.
 - Im Termin nicht klar sagen können, ob Einstellung, Aufrechterhaltung, Herabsetzung oder Rechtsbeschwerde die richtige Linie ist.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -73,6 +64,4 @@ Konkret zu prüfen:
 - § 168b StPO (Aufzeichnung)
 - § 169a StPO (Schlussvermerk)
 - Nr. 9-13 RiStBV (Aktenführung)
-## Quellenhygiene
 
-Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, RiStBV und bei Datenschutz Art. 83 DSGVO sowie § 41 BDSG. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle verwenden; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.

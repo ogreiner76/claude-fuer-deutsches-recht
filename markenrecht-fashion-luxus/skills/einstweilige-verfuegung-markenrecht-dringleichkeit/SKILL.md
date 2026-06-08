@@ -5,10 +5,6 @@ description: "Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: 
 
 # Einstweilige Verfügung im Markenrecht
 
-## Arbeitsbereich
-
-Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsans
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Bereite einen Eilantrag wegen Markenverletzung vor oder verteidige gegen eine drohende Verfügung.
 
 ## Normanker
 
@@ -52,12 +44,7 @@ Bereite einen Eilantrag wegen Markenverletzung vor oder verteidige gegen eine dr
 7. **Plattform-/Messefall:** Takedown, Zoll, Messeleitung, Marketplace-Sperre und physische Beschlagnahme nicht mit gerichtlicher Vollziehung verwechseln.
 8. **Auslandsbezug:** Deutsche Verfügung nur für deutschen Schutzrechts- und Verletzungsbezug bauen; EU-Marke/UMV und internationale Zuständigkeit getrennt prüfen.
 
-## Output
-
-- Eilantragsgerüst oder Schutzschriftgerüst.
-- Dringlichkeitschronologie.
-- Glaubhaftmachungsmatrix.
-
 ## Quellen
 
 Lokale Gerichtspraxis und Rechtsprechung nur verifiziert verwenden. Dringlichkeitsfristen unterscheiden sich praktisch je nach OLG-Bezirk; niemals pauschal eine starre Monatsfrist behaupten, ohne den Gerichtsstand zu prüfen.
+

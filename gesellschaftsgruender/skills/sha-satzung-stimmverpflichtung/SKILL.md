@@ -5,10 +5,6 @@ description: "Stimmbindungsvereinbarung und SHA-Regelungen zu Abstimmungspflicht
 
 # Stimmverpflichtung SHA <-> Satzung
 
-## Arbeitsbereich
-
-Stimmbindungsvereinbarung und SHA-Regelungen zu Abstimmungspflichten in GmbH aufsetzen. Normen: §§ 47 48 GmbHG, BGB. Prüfraster: zulässige Stimmbindung, Durchsetzbarkeit, Vertragsstrafe, Grenze Satzungsautonomie. Output: SHA-Klausel Stimmbindung und Stimmrechtsvertrag. Abgrenzung: nicht Gesellschaftsvertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Stimmbindungsvereinbarung und SHA-Regelungen zu Abstimmungspflichten in GmbH auf
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Die **Gesellschaftervereinbarung (Shareholder Agreement, SHA)** und die **Satzung** müssen zusammenpassen. Wo der SHA bestimmte Entscheidungen vorsieht, müssen die Gesellschafter **innerlich verpflichtet** sein, in der Gesellschafterversammlung **so** abzustimmen. Diese Stimmverpflichtung ist juristisch heikel.
 
 ## 1) Konzept der Stimmverpflichtung
 
@@ -207,9 +199,6 @@ Klaere bei Stimmverpflichtungs-Gestaltung:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Stimmverpflichtungs-Klausel SHA
 
 **Adressat:** Gesellschaftervereinbarung — Tonfall rechtspraezise
@@ -241,3 +230,4 @@ verpflichten, diesem Shareholder Agreement beizutreten
 beduerfen der Zustimmung der Gesellschaft (Vinkulierung
 gemaess § [X] Satzung).
 ```
+

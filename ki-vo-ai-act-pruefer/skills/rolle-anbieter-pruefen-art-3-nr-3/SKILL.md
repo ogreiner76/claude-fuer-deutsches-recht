@@ -5,10 +5,6 @@ description: "Unternehmen das Software oder KI entwickelt fragt: Sind wir Anbiet
 
 # Rolle-Check: Anbieter — Art. 3 Nr. 3 KI-VO
 
-## Zweck
-
-Die Anbieter-Rolle begründet den umfangreichsten Pflichtenkatalog der KI-VO. Dieser Skill klärt durch einen Entscheidungsbaum, ob die Nutzer-Rolle als Anbieter qualifiziert.
-
 ## Legaldefinition — Art. 3 Nr. 3 KI-VO
 
 Anbieter (provider) ist eine natürliche oder juristische Person, Behörde, Einrichtung oder sonstige Stelle, die ein KI-System oder ein GPAI-Modell entwickelt oder entwickeln lässt und dieses KI-System oder GPAI-Modell unter ihrem eigenen Namen oder ihrer eigenen Marke — entgeltlich oder unentgeltlich — in Verkehr bringt oder in Betrieb nimmt.
@@ -78,9 +74,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -107,3 +100,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

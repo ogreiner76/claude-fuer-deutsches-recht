@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rech
 
 # Vergleich BRD-DDR-Recht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rechtsentwicklung 1949-1990, Systemprinzipien, DDR-ZGB vs. BGB, DDR-Strafrecht vs. StGB und Erbschaft nach Wiedervereinigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,12 +46,3 @@ Zwischen 1949 und 1990 entwickelten sich in Deutschland zwei parallele Rechtssys
 - Einigungsvertrag: BGBl. II 1990, 885
 - BVerfGE zu DDR-Recht: bverfg.de
 
-## Output
-
-- Vergleichstabelle BRD vs. DDR: Ehe-, Eigentums-, Strafrecht
-- DDR-ZGB vs. BGB: Systemprinzipien und Unterschiede
-- Einigungsvertrag: Was blieb, was fiel
-
-## Quellenregel
-
-DDR-Gesetze: GBl. DDR via ALEX/OeNB. BRD-Gesetze: gesetze-im-internet.de. Einigungsvertrag: BGBl. II 1990, 885. BVerfGE: bverfg.de.

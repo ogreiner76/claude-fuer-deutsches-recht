@@ -5,10 +5,6 @@ description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis im
 
 # Strafzumessung Schoeffe
 
-## Arbeitsbereich
-
-**Strafzumessung Schoeffe** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis im
 - Tragende Normen verifizieren: GVG §§ 28-77, 116, StPO §§ 30 ff., LRiStAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafzumessung-schoeffe-sitzung`
@@ -34,12 +31,6 @@ description: "Strafzumessung Schoeffe im Schöffen- und Handelsrichter-Praxis im
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Schuld, Prävention, Vorleben, Geständnis, Opferfolgen und Bewährung - Sitzungspraxis
 
 ## Sofortsortierung
 
@@ -72,7 +63,6 @@ Erzeuge konkreter Ablaufplan, sichere Formulierungen für Nachfragen und Nachber
 - Welches Gericht und welche Rolle?
 - Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -81,6 +71,4 @@ Konkret zu prüfen:
 - § 76 GVG (Mitwirkung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
-## Quellenhygiene
 
-Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

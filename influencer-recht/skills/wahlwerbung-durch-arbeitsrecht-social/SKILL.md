@@ -5,10 +5,6 @@ description: "Influencer-Recht: Wahlwerbung durch Creator – Parteiengesetz, Ru
 
 # Influencer-Recht: Wahlwerbung durch Creator
 
-## Arbeitsbereich
-
-Influencer-Recht: Wahlwerbung durch Creator – Parteiengesetz, Rundfunkrecht, Kennzeichnung, Neutralitätsgebot und strafrechtliche Grenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,3 +72,4 @@ Creator bei Wahlkämpfen haben besondere rechtliche Pflichten:
 - Kennzeichnungstext für bezahlte Wahlkampf-Posts
 - Parteispenden-Quittungsvorlage
 - Straf-Risiko-Einschätzung
+

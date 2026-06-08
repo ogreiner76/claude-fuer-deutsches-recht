@@ -5,10 +5,6 @@ description: "Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägig
 
 # Bundesverwaltungsgericht – Wehrdienstsenate
 
-## Arbeitsbereich
-
-Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -88,15 +84,6 @@ Die Wehrdienstsenate des BVerwG (1. und 2. Wehrdienstsenat) entscheiden über Re
 - Tatsachenvortrag erst beim BVerwG nachgeholt – Präklusion droht.
 - Verwechslung von erstinstanzlicher Zuständigkeit nach § 21 WBO und Berufungsweg nach § 23a WDO.
 
-## Querverweise
-
-- truppendienstgericht-zuständigkeit-verfahren
-- wehrbeschwerdeordnung-beschwerde-frist-form
-- eilverfahren-konkurrentenstreit-wehrdienstsenat
-- weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht
-- gerichtliches-disziplinarverfahren-soldat
-- rechtsbeistand-im-disziplinarverfahren
-
 ## Quellen Stand 06/2026
 
 - WBO §§ 17, 21 – Volltext gesetze-im-internet.de.
@@ -105,3 +92,4 @@ Die Wehrdienstsenate des BVerwG (1. und 2. Wehrdienstsenat) entscheiden über Re
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung; Entscheidungsdatenbank des BVerwG (bverwg.de).
 - Geschäftsverteilung BVerwG – jährlich publiziert.
 - Keine Kommentarstellen aus Modellwissen.
+

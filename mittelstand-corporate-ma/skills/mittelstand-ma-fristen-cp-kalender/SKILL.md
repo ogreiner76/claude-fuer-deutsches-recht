@@ -5,10 +5,6 @@ description: "Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-M
 
 # Freistehender Deal-Fristen- und CP-Kalender
 
-## Arbeitsbereich
-
-Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen §§ 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Prüfraster CP-Vollständigkeit Fristenanker Kollusionsrisiken Verlaengerungs-Optionen. Output Fristen-Kalender CP-Checkliste Terminvorschau. Abgrenzung zu automation-monitoring (technisches Monitoring) und steps-plan-pmo (Prozessplan). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-Mandat: Signing
 ## Fachkern: Freistehender Deal-Fristen- und CP-Kalender
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Mandatsaufnahme, Deal-PMO, Unternehmerkommunikation, Staffing und Budgetsteuerung**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Freistehender Deal-Fristen- und CP-Kalender
 
-## Zweck
-
-Dieser Skill führt die Transaktionsfristen im Plugin selbst. Er bearbeitet Q&A-Deadlines, Angebotsfristen, Datenraum-Cut-offs, Signing/Closing, Conditions Precedent, Regulatory Filings, Registertermine, Board Approvals, Ordinary-Course-Consents, W&I-Meilensteine, StaRUG-/Insolvenzfristen und PMI-Aufgaben.
-
 ## Arbeitsmodus
 
 1. Fristen aus E-Mails, Process Letter, NDA, SPA, CP Register, Board Paper, Registerunterlagen und Datenraum-Neuzugängen extrahieren.
@@ -168,9 +157,6 @@ Dieser Skill führt die Transaktionsfristen im Plugin selbst. Er bearbeitet Q&A-
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Fristenregister anlegen:** alle Fristen aus SPA, Regulatorik und Gesetz extrahieren
@@ -183,3 +169,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Frist versaeumt ohne Wiedervorlage: Haftung nach § 280 BGB
 - Longstop Date uebersehen: automatisches Ruecktrittsrecht entsteht
 - Gesellschafterliste nicht fristgerecht: Stimmrechte fraglich
+

@@ -5,10 +5,6 @@ description: "Gesindeordnung 1810 und Folgereformen. Skill ueberblickt die Refor
 
 # Pralr Gesindeordnung 1810 Und Folgereformen
 
-## Arbeitsbereich
-
-Gesindeordnung 1810 und Folgereformen. Skill ueberblickt die Reformwellen der preussischen Gesindeordnung und ihre Aufhebung 1918. Liefert chronologische Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -60,7 +56,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Welche Quelle?
 3. Welche Reform?
 
-## Output
-
-- Quellenmatrix.
-- Chronologie.

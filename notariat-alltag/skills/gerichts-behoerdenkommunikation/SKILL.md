@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem N
 
 # Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat
 
-## Arbeitsbereich
-
-Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -102,3 +98,4 @@ Rechtsgrundlagen: § 12 HGB (HR-Einreichung), GBO §§ 13–15 (Grundbuchantrag)
 - **Genehmigungsantrag-Begleitschreiben** (Familiengericht)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

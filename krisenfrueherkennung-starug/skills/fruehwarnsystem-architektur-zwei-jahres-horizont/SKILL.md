@@ -5,10 +5,6 @@ description: "StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont architekti
 
 # Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont
 
-## Arbeitsbereich
-
-StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont architektieren: Unternehmen will § 1 StaRUG Krisenfrueherkennung implementieren. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW S 6 (Sanierungsstandard), IDW PS 340 n.F. (Risikomanagement-Prüfung). Prüfraster: Risiko-Inventar, KPI-Kaskade, Eskalationsstufen, Reporting-Frequenzen, Schwellenwerte, Organisationseinbettung. Output Fruehwarnsystem-Konzept, Implementierungsplan, Governance-Struktur. Abgrenzung: KPI-Set Ampelsystem siehe kennzahlenset-und-ampelsystem-starug-konform; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,101 +62,6 @@ IDW PS 340 n.F. (Neufassung 2020) verlangt:
 
 ---
 
-## Vorgehen
-
-### Schritt 1: Risiko-Inventar aufbauen
-
-Das Risiko-Inventar ist die Basis des Frühwarnsystems. Typische Risikofelder:
-
-**Finanzrisiken:**
-- Liquiditätsrisiko (Zahlungsunfähigkeit, Refinanzierungsrisiko)
-- Zinsänderungsrisiko (variabel verzinste Verbindlichkeiten)
-- Währungsrisiko (Fremdwährungsgeschäfte)
-- Forderungsausfallrisiko
-
-**Operative Risiken:**
-- Lieferkettenstörungen
-- Kapazitätsengpässe
-- IT-/Systemausfälle
-- Personalabgänge in Schlüsselpositionen
-
-**Marktrisiken:**
-- Nachfragerückgang, Preisdruck
-- Wettbewerberaktivitäten
-- Regulatorische Änderungen
-
-**Strategische Risiken:**
-- Technologiedisruption
-- Kundenkonzentration > 20 % des Umsatzes bei einem Kunden
-
-### Schritt 2: KPI-Kaskade definieren
-
-Die KPI-Kaskade verbindet strategische Ziele mit operativen Frühwarnindikatoren:
-
-**Ebene 1 — Überlebensfähigkeit (täglich/wöchentlich):**
-- Kassenbestand und Kreditlinien-Auslastung
-- Fällige Zahlungen nächste 14 Tage vs. verfügbare Liquidität
-
-**Ebene 2 — Liquiditätsstabilität (wöchentlich/monatlich):**
-- 13-Wochen-Cashflow-Abweichung zum Plan
-- Debitoren-Umschlagsdauer (DSO)
-- Kreditoren-Umschlagsdauer (DPO)
-- Working-Capital-Quote
-
-**Ebene 3 — Ertragsstabilität (monatlich):**
-- EBITDA-Marge vs. Vorjahr und Plan
-- Deckungsbeitrag je Produkt/Segment
-- Auftragseingang und Auftragsbestand
-
-**Ebene 4 — Strukturelle Solidität (quartalsweise):**
-- Net-Debt/EBITDA
-- Eigenkapitalquote
-- Covenant-Headroom (Puffer zu Finanzkennzahl-Anforderungen der Bank)
-- DSCR (Debt Service Coverage Ratio)
-
-### Schritt 3: Eskalationsstufen definieren
-
-```
-ESKALATIONSSYSTEM — DREISTUFIG
-
-Stufe 1 — GRÜN (Normalbetrieb):
- Alle KPIs innerhalb Plankorridor
- Aktion: Routinereporting (monatlich an GF)
-
-Stufe 2 — GELB (Frühwarnung):
- Mind. ein KPI außerhalb Plankorridor aber über Mindestschwelle
- Aktion: Sofortanalyse innerhalb 5 Werktagen
- Maßnahmenplan innerhalb 10 Werktagen
- Information AR/Gesellschafter innerhalb 15 Werktagen
-
-Stufe 3 — ROT (Krisenalarm):
- Mindestschwelle unterschritten ODER Liquiditätsreichweite < 3 Monate
- Aktion: Sofortmaßnahmen (72 Stunden)
- Berater einschalten (RA, StB, Restrukturierungsberater)
- Information AR/Gesellschafter unverzüglich
- § 102 StaRUG Warnung empfangen/versenden
- StaRUG-Zugang prüfen
-```
-
-### Schritt 4: Reporting-Struktur festlegen
-
-| Ebene | Frequenz | Inhalt | Empfänger |
-|---|---|---|---|
-| Tagesreport | Täglich | Kassenbestand, offene Zahlungen | CFO / Treasurer |
-| Wochenreport | Wöchentlich | 13-Wochen-Cashflow, Abweichungen | Gesamte GF |
-| Monatsbericht | Monatlich | Alle KPIs, Plan-Ist, Prognose | GF + Gesellschafter |
-| Quartalsbericht | Quartalsweise | Strukturelle KPIs, Covenant-Check | GF + AR + Bank |
-| Jahresbericht | Jährlich | Risiko-Inventar-Update, Systembewertung | GF + AR |
-
-### Schritt 5: Systemdokumentation und -pflege
-
-1. **Systemhandbuch** erstellen (Verantwortlichkeiten, Prozessablauf, Schwellenwerte)
-2. **Jährliche Überprüfung** der Relevanz und Vollständigkeit des Risiko-Inventars
-3. **Schulung** der beteiligten Mitarbeiter und GF
-4. **Audit-Trail** — alle Reports und Eskalationen protokollieren
-
----
-
 ## Templates
 
 ### Muster: Risiko-Inventar (Tabellenstruktur)
@@ -211,14 +112,6 @@ Die Geschäftsführung beschließt:
 
 ---
 
-## Querverweise
-
-- → `paragraph-1-starug-pflichten-und-24-monats-horizont` — rechtliche Pflichtgrundlage
-- → `rollierende-liquiditaetsplanung-24-monate-template` — konkrete Planungsstruktur
-- → `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Definitionen und Schwellen
-- → `integrierte-planung-guv-bilanz-cashflow` — Drei-Statement-Modell
-- → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Systemdokumentation
-
 ## Aktuelle Leitentscheidungen — Fruehwarnsystem und § 1 StaRUG
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -234,6 +127,3 @@ Die Geschäftsführung beschließt:
 3. **Eskalationskette?** Wer wird bei roten Ampeln informiert? GF → Aufsichtsrat → Anwalt?
 4. **Historische Daten?** 2 Jahre Ruckschau für Trend-Erkennung vorhanden?
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

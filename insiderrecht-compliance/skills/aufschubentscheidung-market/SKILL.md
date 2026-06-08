@@ -5,10 +5,6 @@ description: "Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, d
 
 # Aufschubentscheidung nach Art. 17 Abs. 4 MAR
 
-## Arbeitsbereich
-
-Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -86,18 +82,6 @@ Definiere vorab Trigger für Pflicht zur sofortigen Ad-hoc-Veröffentlichung:
 - Wegfall des legitimen Interesses
 Nach Veröffentlichung: BaFin unverzüglich informieren (schriftlich), Aufschubgrund benennen.
 
-## Red-Team-Fragen
-
-- Liegt tatsächlich ein legitimes Interesse vor, oder wird der Aufschub nur zur PR-Vorbereitung
- verwendet?
-- Stehen öffentliche Aussagen des Emittenten im Widerspruch zur verschwiegenen Information?
-- Ist der Informationskreis wirklich auf „need to know" begrenzt?
-- Ist die Insiderliste vollständig und aktuell?
-- Gibt es einen definierten Trigger für die Aufhebung?
-- Wurde die BaFin nach Veröffentlichung unverzüglich informiert?
-- Wurde Leak-Monitoring betrieben und ein unerwarteter Kurssprung analysiert?
-- Ist die Aufschubakte so vollständig, dass BaFin und Gericht die Entscheidung nachvollziehen können?
-
 ## Ausgabeformat
 
 Erzeuge:
@@ -108,3 +92,4 @@ Erzeuge:
 
 Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org,
 openjur.de, curia.europa.eu, bgh.de.
+

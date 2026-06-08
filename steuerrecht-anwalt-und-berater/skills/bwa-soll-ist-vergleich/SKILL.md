@@ -87,13 +87,6 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 - Bei Konzernreporting: Konzern-Reporting-Form (oft UKV-Format, internationale Lesart).
 - Sanierungsmandate: Plan-Ist als Teil des IDW-S-6-Reports.
 
-## Output
-
-- BWA mit Plan-Ist-Vergleich (Monat und kumuliert).
-- Abweichungsanalyse mit Erlaeuterungen.
-- Planrevisions-Vorschlag bei wesentlichen Abweichungen.
-- Bericht an externe Stakeholder (Bank, Investor, Konzern).
-
 ## Strategie und Praxis-Tipps
 
 - Plan-Ist macht nur Sinn, wenn der Plan ernsthaft erarbeitet wurde — sonst wird der Vergleich Spielerei.
@@ -102,14 +95,6 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 - Honorar für Plan-Erstellung gesondert vereinbaren — die Buchfuehrungspauschale deckt das nicht ab.
 - Bei wesentlichen Abweichungen: Mandantengespraech terminieren, nicht nur per E-Mail kommunizieren.
 - DATEV-Tipp: Plan-Stammdaten zentral pflegen, damit die BWA automatisch Plan-Spalten ausweist.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-bwa-zeitlicher-vergleich-jahresvergleich` — Vorjahresvergleich.
-- `stb-bwa-mandantenreport-monatlich` — Mandantenreport.
-- `stb-liquiditaetsvorschau-3-6-12-monate` — Liquiditaetsplanung.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung.
 
 ## Quellen und Updates
 
@@ -124,10 +109,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 bestaetigt (SanInsKG-Sonderregelung ausgelaufen 31.12.2023, Standardzeitraum 12 Monate bestaetigt) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

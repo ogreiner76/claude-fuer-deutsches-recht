@@ -5,10 +5,6 @@ description: "Red-Team-Prüfung eines Rentenbescheids oder Rentenmemos: Rechenfe
 
 # red-team-rentenbescheid
 
-## Aufgabe
-
-Sucht aktiv nach dem, was im ersten Durchgang übersehen wird.
-
 ## Pflichtfragen
 
 - Welches Rentensystem oder welcher Träger ist betroffen: DRV, Knappschaft, Versorgungswerk, Zusatzversorgung, ausländischer Träger oder Mischfall?
@@ -45,13 +41,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Angriffsliste nach Schweregrad und Reparaturplan.
-
-## Qualitäts-Hardening
-
-- Keine nicht überprüfbaren Fundstellen, keine privaten Datenbankzitate, keine Kommentar- oder Aufsatzblindzitate.
-- Bei ausländischen Zeiten nie pauschal anerkennen: EU/EWR/Schweiz, Abkommensstaat, vertragsloser Drittstaat und FRG strikt trennen.
-- Bei Versorgungswerken immer Beruf, Kammer, Bundesland und aktuelle Satzung verlangen.
-- Zahlen, Fristen und Altersgrenzen nur mit aktueller Quelle oder als ausdrücklich zu prüfenden Punkt ausgeben.

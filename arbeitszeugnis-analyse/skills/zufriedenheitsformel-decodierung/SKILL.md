@@ -36,10 +36,6 @@ description: "Decodiert die fünfstufige Zufriedenheitsformel deutscher Arbeitsz
 
 **Beispiel 5 – Note 5 (Rot):** "Sie hat ihre Aufgaben im Großen und Ganzen zu unserer Zufriedenheit erledigt." — Einschränkung durch "im Großen und Ganzen" → Note 5.
 
-## Ausgabeformat
-
-Der Skill gibt die erkannte Formel im Wortlaut aus, ordnet sie der Note zu (Note 1 bis Note 5), zeigt die Ampelfarbe und erklärt das entscheidende sprachliche Merkmal. Bei mehreren Zufriedenheitsformeln im Zeugnis (Leistung und Verhalten getrennt) werden beide separat ausgewiesen.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -48,3 +44,4 @@ Der Skill gibt die erkannte Formel im Wortlaut aus, ordnet sie der Note zu (Note
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

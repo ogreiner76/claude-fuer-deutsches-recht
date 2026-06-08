@@ -5,9 +5,6 @@ description: "Massenentlassung Kschg Schriftsatzkern im Plugin Fachanwalt Arbeit
 
 # Massenentlassung Kschg Schriftsatzkern
 
-## Arbeitsbereich
-
-**Massenentlassung Kschg Schriftsatzkern** ordnet den Fall über die tragenden Prüfungslinien: Massenentlassung, Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befristungskontrollkl. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Massenentlassung Kschg Schriftsatzkern im Plugin Fachanwalt Arbeit
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `massenentlassung-17-kschg-realitaetscheck`
@@ -46,14 +44,6 @@ Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit A
 ## Normanker
 
 KSchG § 17; MERL; EuGH/BAG live prüfen. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle genannt; bei unsicherem Stand wird ausdrücklich ein Live-Check verlangt.
-
-## Arbeitsfragen
-
-1. Was ist das konkrete Ziel und welche Frist läuft?
-2. Welche Urkunde, Mail, Zustellung, Berechnung oder Aussage belegt den entscheidenden Punkt?
-3. Welche typische Gegenposition ist zu erwarten?
-4. Welche prozessuale Form ist richtig: Schreiben, Antrag, Klage, Eilantrag, Vergleich, Red-Team?
-5. Welche Formulierung vermeidet unnötige Zugeständnisse und hält den Fall offen?
 
 ## 2. `schriftsatzkern-substantiierung`
 
@@ -282,10 +272,6 @@ Vor Schriftsatzverwendung jeweils Volltext und ggf. neuere Rechtsprechung in off
 - § 296 ZPO — Verspäteter Vortrag (mit Präklusion)
 - § 86 Abs. 2 ArbGG — Präklusion im Arbeitsgerichtsverfahren
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 3. `spezial-arbeitsrecht-tatbestand-beweis-und-belege`
 
 **Fokus:** Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs- und Beweislastverteilung nach Normen, abgestufte Darlegungslast BAG-Linie, Beweismittel im Arbeitsgerichtsverfahren, DSGVO-konforme Beweiserhebung § 26 BDSG.
@@ -299,9 +285,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Systematische Aufbereitung der Beweis- und Darlegungslast für die häufigsten arbeitsrechtlichen Streitfragen. Grundlage für Schriftsatzarbeit und Mandantenberatung: Wer muss was beweisen — und wie?
 
 ## Einstieg
 Wenn ein konkreter Sachverhalt vorliegt, zuerst klären:
@@ -410,11 +393,7 @@ Datenerhebung im Arbeitsverhältnis ist nur zulässig, wenn sie zur Durchführun
 - `spezial-aktenzeichen-red-team-und-qualitaetskontrolle` für Schriftsatzprüfung
 - `workflow-chronologie-und-belegmatrix` für Sachverhaltsaufbereitung
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [openjur.de](https://openjur.de).
-- DSGVO-/BDSG-Fragen: aktuellen Normstand auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de) und DSK-Hinweise live prüfen.
-- Keine modellwissensbasierten Beweislastregel-Aussagen ohne Normgrundlage.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Beweismittelerhebung; Entscheidung über Beweisangebote bleibt dem Anwalt.
 - Keine abschließende DSGVO-Compliance-Prüfung für komplexe Überwachungssysteme.
+

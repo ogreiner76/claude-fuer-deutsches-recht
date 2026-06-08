@@ -5,10 +5,6 @@ description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polize
 
 # Pralr Aufopferung Fortwirkung Bgb Und Polizei
 
-## Arbeitsbereich
-
-Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,7 +53,3 @@ Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnung
 4. Aufopferung subsidiaer?
 5. Sonderopfer-Schwelle?
 
-## Output
-
-- Quellenmatrix.
-- Synopse zu Art. 14 / Art. 34 GG.

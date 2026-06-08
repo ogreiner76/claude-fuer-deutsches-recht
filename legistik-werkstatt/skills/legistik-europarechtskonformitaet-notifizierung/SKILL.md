@@ -66,9 +66,6 @@ Anwendung im Vollzug: Wenn das nationale Gesetz zu EU-Recht Auslegungszweifel we
 
 Art. 288 AEUV (Rechtsakte, Verordnung, Richtlinie) — Art. 5 EUV (Subsidiaritaet, Verhaeltnismaessigkeit) — Art. 267 AEUV (Vorlagepflicht) — RL 2015/1535/EU Art. 1, 5 (Notifizierungspflicht) — Art. 51 Charta (Anwendungsbereich Grundrechte-Charta)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Pruefgutachten ein bis drei Seiten:
@@ -84,3 +81,4 @@ Pruefgutachten ein bis drei Seiten:
 ## Anschluss
 
 `goldplating-vermeiden`, `verfassungsmaessigkeit-quercheck`.
+

@@ -43,9 +43,6 @@ Eine Bank bestellt eine Hypothek auf ein Konnossements-Transaktion (Bill of Ladi
 - Rang entsteht mit Antragstellung; fruehzeitig beim kein Schiffsregister; Dokumentenregime-Gericht stellen.
 - Briefhypothek verliert Vollstreckungswert bei Verlust des Hypothekenbriefs.
 
-## Output
-Checkliste Hypothekenbestellung und Unterlagen-Übersicht für Konnossements-Transaktion (Bill of Lading).
-
 ## Vertiefung: Hypothekenarten im deutschen Schiffsrecht
 Das SchRG kennt die Verkehrshypothek (§§ 8-30) und die Höchstbetragshypothek (§ 75). Die Verkehrshypothek ist an eine bestimmte Forderung gebunden; die Höchstbetragshypothek sichert variable Forderungen bis zu einem eingetragenen Maximalbetrag und eignet sich für revolvierende Kreditlinien. In der Praxis der Schiffsfinanzierung dominiert die Hypothekenbestellung als erstrangige Höchstbetragshypothek zugunsten der Konsortialführerbank.
 
@@ -87,3 +84,4 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 - SchRegO §§ 13-19: https://dejure.org/gesetze/SchRegO
 - BSH: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - dejure SchRG § 75: https://dejure.org/gesetze/SchRG/75.html
+

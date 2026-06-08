@@ -5,10 +5,6 @@ description: "Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36
 
 # Restrisiko und Vorab-Konsultation nach Art. 36 DSGVO
 
-## Zweck
-
-Bewertung des Restrisikos nach Umsetzung der DSFA-Massnahmen und, falls erforderlich, Vorbereitung der Vorab-Konsultation bei der zuständigen Aufsichtsbehoerde nach Art. 36 DSGVO. Ergebnis ist ein vollstaendiger Konsultationsantrag mit Verarbeitungsbeschreibung, Massnahmen, Restrisiko und Begruendung der Konsultationsnotwendigkeit.
-
 ## Wann dieses Modul hilft
 
 - Wenn die DSFA-Risikoanalyse nach Massnahmen ein hohes Restrisiko ergibt
@@ -98,14 +94,6 @@ Mit freundlichen Gruessen
 - Frist 8 Wochen wird nicht im Projektplan beruecksichtigt.
 - Anlagen fehlen — Aufsichtsbehoerde fordert nach und Frist beginnt erst dann.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage
-- `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Restrisiko-Berechnung
-- `datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/SKILL.md` — Dokumentation
-- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA und Konsultation
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 36 Abs. 1, 2, 3, 4, 5 DSGVO
@@ -115,3 +103,4 @@ Mit freundlichen Gruessen
 - BfDI / Landesbehoerden — Verfahrenshinweise zur Vorabkonsultation
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

@@ -37,9 +37,6 @@ Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fragestrategie Polizeibeamter-Zeuge
 
 ### Einstiegsfragen (neutral)
@@ -74,3 +71,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Vorhalt nur mit konkreter Fundstelle in der Akte.
 - Polizeibeamten haben grundsaetzlich nicht mehr Glaubwuerdigkeit als andere Zeugen — aber das ist in der HV oft zu betonen.
 - Anwaltliche Endkontrolle bei Frageliste vor HV.
+

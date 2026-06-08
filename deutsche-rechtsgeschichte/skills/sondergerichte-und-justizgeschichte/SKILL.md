@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Sondergerichte und NS-Justizgeschichte.
 
 # Sondergerichte und NS-Justizgeschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Sondergerichte und NS-Justizgeschichte. Volksgerichtshof, Sondergerichte 1933, Kriegsgerichtsbarkeit, NS-Richter nach 1945 und Aufarbeitung durch Ingo Mueller. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das NS-Regime schuf ein paralleles Gerichtssystem neben der ordentlichen Gericht
 - NS-Aufhebungsgesetz 1998: BGBl. I 1998, 2501; gesetze-im-internet.de
 - Mueller Furchtbare Juristen (1987): historische Erstausgabe, Seite angeben
 
-## Output
-
-- Sondergerichtssystem 1933-1945: Strukturueberblick
-- VGH-Statistik: Todesurteile und politische Verurteilungen
-- NS-Richterbiografien nach 1945: Ausgewaehlte Fallbeispiele
-
-## Quellenregel
-
-RGBl. NS-Sondergerichte: ALEX/OeNB. VGH-Akten: Bundesarchiv Berlin (Bestand R 3018). NS-Aufhebungsgesetz 1998: BGBl. I 1998, 2501. Mueller Furchtbare Juristen (1987): Ausgabe und Seite.

@@ -5,10 +5,6 @@ description: "Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen j
 
 # Subsumtion im Klausurton neu schreiben
 
-## Arbeitsbereich
-
-Schreibt falsche oder lueckenhafte Subsumtionen in einen knappen juristischen Klausurton um, ohne neue Tatsachen zu erfinden. Vier-Schritt-Schema: Obersatz, Definition, Subsumtion, Ergebnis je Tatbestandsmerkmal. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,16 +79,3 @@ Dieser Skill schreibt fehlerhafte oder lückenhafte Subsumtionen in sauberen jur
 
 Vollständige Rewrite-Passage je TBM; davor kurzer Fehlerhinweis ("Fehler: Sprung-Subsumtion → jetzt korrigiert"). Rechtsprechung nur mit live verifizierbarem Aktenzeichen.
 
-## Quellenregel
-
-- Normtext live prüfen: gesetze-im-internet.de.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de).
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-- Nur Tatsachen aus der Akte verwenden; keine neuen Sachverhaltselemente erfinden.

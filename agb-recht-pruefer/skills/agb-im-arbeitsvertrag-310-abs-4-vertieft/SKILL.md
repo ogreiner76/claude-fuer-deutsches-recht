@@ -5,10 +5,6 @@ description: "Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB
 
 # Agb Im Arbeitsvertrag 310 Abs 4 Vertieft
 
-## Aufgabe
-
-Skill für arbeitsrechtliche AGB-Kontrolle nach § 310 Abs. 4 BGB.
-
 ## Norm
 
 - § 310 Abs. 4 Satz 1 BGB: Tarifvertraege, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle.
@@ -49,8 +45,3 @@ Skill für arbeitsrechtliche AGB-Kontrolle nach § 310 Abs. 4 BGB.
 4. Transparenzgebot § 307 Abs. 1 Satz 2 BGB erfuellt?
 5. Konkrete BAG-Linie konsultieren.
 
-## Output
-
-- Klauselentwurf rechtskonform.
-- Pruefraster "Arbeitsvertrag — AGB-Risiken".
-- Schriftsatzbaustein.

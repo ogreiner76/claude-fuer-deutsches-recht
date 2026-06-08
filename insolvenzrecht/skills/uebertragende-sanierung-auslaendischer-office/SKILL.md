@@ -5,10 +5,6 @@ description: "Insolvenzverwalter will Geschäftsbetrieb verkaufen oder Investor 
 
 # Übertragende Sanierung und Asset Deals — innerhalb wie außerhalb des Insolvenzplans
 
-## Arbeitsbereich
-
-Insolvenzverwalter will Geschäftsbetrieb verkaufen oder Investor kauft aus der Insolvenz und braucht Prüfung des Asset-Deals. Prüfraster uebertragende Sanierung Asset Deal im Regelverfahren Zustimmung Gläubigerausschuss § 160 InsO. Insolvenzplan § 254a InsO für gesellschaftsrechtliche Massnahmen Grundstuecke Marken Kundendaten. Aufschiebend versus auflösend bedingte Klauseln Haftungsabgrenzung. Output Kaufvertragsentwurf Checkliste Vollzugs-Voraussetzungen Gläubigerausschuss-Vorlage. Abgrenzung: insolvenzplan-starug-planwerkstatt für Insolvenzplan-Erstellung (anderes Plugin). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -333,32 +329,6 @@ Die folgenden Klauseltypen lassen sich sowohl im Asset-Deal-Vertrag (Regelverfah
 
 ---
 
-## Querverweise
-
-Innerhalb des `insolvenzrecht`-Plugins:
-
-- `mandat-triage-insolvenzrecht` — Eingangs-Triage
-- `insolvenzrecht-kaltstart-interview` — Sachverhalts-Erfassung
-- `anfechtungsrechte-pruefen` — Risiko Rückabwicklung
-- `vorsatzanfechtung-133-inso` — Anfechtungs-Tiefencheck
-- `glaeubigerausschuss-mitwirkung` — Zustimmung im Gremium
-- `konzerninsolvenz-koordination` — bei konzerninternen Übertragungen
-
-Für die volle Plan-Mechanik siehe Plugin `insolvenzplan-starug-planwerkstatt`:
-
-- `ips-gestaltender-teil` — Aufbau gestaltender Teil
-- `ips-darstellender-teil` — Begründung der Übertragung
-- `ips-anlagenpaket` — Annexe und Listen
-- `ips-planbetroffene-auswahl` — Wer ist betroffen
-- `ips-gruppen-klassenbildung` — Gruppenbildung
-- `ips-cramdown-obstruktion` — Mehrheits-Ersatz
-- `ips-sicherheiten-drittsicherheiten` — Sicherheiten-Lastenfreistellung
-- `ips-planvollzug-monitoring` — Vollzug
-- `ips-steuern-bilanz-folgen` — steuerliche Folgen
-- `ips-redteam-qualitygate` — Plausibilität
-
----
-
 ## Mini-Checkliste vor Vollzug (Plan-Einreichung oder Asset-Deal-Signing)
 
 - [ ] Verfahrensweg gewählt (Regelverfahren-Asset-Deal vs. Insolvenzplan) und begründet
@@ -419,4 +389,6 @@ USt Asset-Deal: EUR [BETRAG] (Masseverbindlichkeit)
 ---
 
 <!-- AUDIT 27.05.2026 -->
+
 ## Audit-Hinweis (27.05.2026)
+

@@ -5,10 +5,6 @@ description: "JVEG-Verguetungsberechnung in strukturiertem Rechenblatt erstellen
 
 # JVEG-Rechenblatt
 
-## Arbeitsbereich
-
-JVEG-Verguetungsberechnung in strukturiertem Rechenblatt erstellen: alle Kostenpositionen je Kategorie. Normen: §§ 5 bis 12 JVEG. Prüfraster: Stunden, Fahrtkosten, Auslagen, Verguetungssaetze. Output: Ausfuellbares Rechenblatt JVEG. Abgrenzung: nicht Antragsgenerator. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ JVEG-Verguetungsberechnung in strukturiertem Rechenblatt erstellen: alle Kostenp
 ## Fachkern: JVEG-Rechenblatt
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Erstelle ein vollständig nachvollziehbares Rechenblatt für JVEG-Vergütungsansprüche mit Normbezug, Eingabewert, Kappungsgrenze, Belegverweis und Rechenergebnis je Position.
 
 ## Triage — kläre vor der Erstellung
 
@@ -46,18 +39,8 @@ Erstelle ein vollständig nachvollziehbares Rechenblatt für JVEG-Vergütungsans
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Fertigstellung der Positionserfassung (jveg-aktenstripper); vor Antragserstellung.
-
-## Arbeitsweise
-1. Jede Position mit Eingabewert und Norm erfassen.
-2. Kappungsgrenzen anwenden.
-3. Rechenweg Schritt für Schritt dokumentieren.
-4. Belegverweis pro Zeile eintragen.
-5. Summe bilden; Vorschuss abziehen; Restforderung ausweisen.
 
 ## Output-Template
 
@@ -77,3 +60,4 @@ Vollständiges Rechenblatt; dient als Anlage zum Festsetzungsantrag.
 ## Leitplanken
 - Jede Zeile braucht Norm + Beleg; leere Felder blockieren die Ausgabe.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

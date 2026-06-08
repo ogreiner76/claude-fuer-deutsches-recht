@@ -5,10 +5,6 @@ description: "Bereitstellung von Festnetz-, Glasfaser-, Mobilfunk- oder Business
 
 # Anschlussbereitstellung und Verzug
 
-## Arbeitsbereich
-
-Bereitstellung von Festnetz-, Glasfaser-, Mobilfunk- oder Business-Anschluss: Terminversäumnis, Verzug, Entschädigung, Rücktritt, Ersatzlösung und Beweis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ Bereitstellung von Festnetz-, Glasfaser-, Mobilfunk- oder Business-Anschluss: Te
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Fälle, in denen ein Anschluss nicht kommt, Technikertermine platzen oder der Anbieter zwischen Tiefbau, Hausverwaltung und Netzbetreiber verweist.
-
 ## Norm- und Quellenanker
 
 TKG Kundenschutz §§ 51 ff. live prüfen; BGB §§ 280, 286, 323; ZPO; BNetzA-Verbraucherinformationen.
-
-## Arbeitsfragen
-
-1. Was wurde vertraglich zugesagt und bis wann?
-2. Welche Termine wurden versäumt und wer hat sie bestätigt?
-3. Ist Verbraucher- oder Geschäftskundenrecht betroffen?
-4. Welche Ersatzkosten sind entstanden?
-
-## Output
-
-Verzugsfahrplan, Entschädigungsforderung, Rücktrittsoption und Belegmatrix.
 
 ## Red Flags
 
@@ -47,10 +28,6 @@ Verzugsfahrplan, Entschädigungsforderung, Rücktrittsoption und Belegmatrix.
 
 - tk-stoerung-minderung-ausfallentschaedigung
 - tk-glasfaser-hausanschluss-wegerecht
-
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.
 
 ## Normen und Rechtsprechung
 

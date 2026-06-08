@@ -5,10 +5,6 @@ description: "Anbieter von Hochrisiko-KI fragt: Wie setzen wir ein KI-VO-konform
 
 # Risikomanagementsystem — Art. 9 KI-VO
 
-## Zweck
-
-Art. 9 KI-VO verpflichtet Anbieter von Hochrisiko-KI-Systemen, ein Risikomanagementsystem einzurichten und zu betreiben. Es ist kein einmaliger Akt, sondern ein kontinuierlicher, iterativer Prozess, der den gesamten Lebenszyklus des KI-Systems begleitet.
-
 ## Anforderungen an das Risikomanagementsystem
 
 ### Merkmal 1 — Kontinuierlicher iterativer Prozess
@@ -91,9 +87,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -120,3 +113,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

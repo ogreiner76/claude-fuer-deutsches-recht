@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Fachanwalt IT-Recht: ordnet Roll
 
 Dieser Einstieg routet **Fachanwalt It Recht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `ai-act-art-6-hochrisiko-ki` — AI ACT ART 6 Hochrisiko KI
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Fachanwalt It Recht** vom ersten Sachverhalt zu Rollen,
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Fachanwalt IT-Recht typische Eskalationsstufen: Software-Vertrag, SLA-Markup, Mängelklage Software.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

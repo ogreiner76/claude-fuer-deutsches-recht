@@ -5,10 +5,6 @@ description: "Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anw
 
 # Bias und Diskriminierung Prüfung
 
-## Arbeitsbereich
-
-Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Prüfraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Prüfprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,15 +20,6 @@ KI-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und g
 ## Rechtlicher Hintergrund
 
 §§ 1, 7 AGG (Allgemeines Gleichbehandlungsgesetz): Diskriminierungsverbot aufgrund von Rasse, Geschlecht, Religion, Behinderung, Alter oder sexueller Identität — gilt für Beschäftigung und privatrechtliche Verträge, damit auch für Mandatsbeziehungen. Art. 9 DSGVO: Besonders sensible Datenkategorien — rassische/ethnische Herkunft, religiöse Überzeugungen etc. — dürfen nicht Grundlage von Entscheidungen sein. Art. 10 Abs. 5 KI-VO: Hochrisiko-KI-Systeme müssen auf Bias geprüft werden; für Kanzleien gilt dies indirekt beim Einsatz von KI im Personalwesen (Anhang III Nr. 4). Art. 22 DSGVO: Keine ausschließlich automatisierten Entscheidungen mit diskriminierender Wirkung. BAG-Rechtsprechung zum AGG: Der Nachweis einer Benachteiligung kann durch statistische Indizien erbracht werden.
-
-## Vorgehen
-
-1. **Bias-Quellen verstehen**: KI-Systeme können systematisch bestimmte Gruppen bevorzugen oder benachteiligen — je nach Trainingsdaten, Aufgabenstellung und Prompt-Formulierung.
-2. **Kritische Kontexte identifizieren**: Besonders anfällig: Bewerberauswahl, Beurteilung von Vertragsparteien, Formulierung von Texten zu diskriminierungsrechtlichen Themen.
-3. **KI-Output auf Bias prüfen**: Enthält der Text unangemessene Verallgemeinerungen, stereotypische Formulierungen oder einseitige Bewertungen bestimmter Gruppen?
-4. **AGG-Compliance bei Personalentscheidungen**: Stellt eine KI-Vorauswahl von Bewerbungen sicher, dass alle nach AGG geschützten Merkmale ausgeschlossen werden? Prüfung durch beauftragte Personalverantwortliche.
-5. **Mitarbeitende schulen**: Schulungsmodul zu Bias-Erkennung entwickeln; konkrete Beispiele aus der juristischen Praxis verwenden.
-6. **Interne Meldepflicht**: Bei festgestelltem Bias im KI-Output ist dieser intern zu melden und der Output nicht zu verwenden.
 
 ## Vorlagentext / Bausteine
 
@@ -92,3 +79,4 @@ Geprueft von: [NAME], [DATUM]
 
 <!-- AUDIT 27.05.2026 -->
 > **Audit-Hinweis (27.05.2026):** BGH VI ZR 273/16, NJW 2019, 2385 entfernt. Urteil existiert nicht — Suchanfrage auf dejure.org ergab keinen Treffer für BGH VI ZR 273/16 vom 26.03.2019. Beanspruchtes Thema (Produkthaftung für fehlerhafte Algorithmen) ist nicht durch diese Fundstelle belegt. Quelle: dejure.org Vernetzungssuche (NOT_FOUND).
+

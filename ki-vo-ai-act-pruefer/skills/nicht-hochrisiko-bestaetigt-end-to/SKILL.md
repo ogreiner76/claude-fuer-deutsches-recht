@@ -5,12 +5,6 @@ description: "Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche K
 
 # Kein Hochrisiko bestätigt — die End-to-End-Roadmap
 
-## Zweck
-
-Sie haben die Prüfung durchlaufen und das Ergebnis ist: **kein Hochrisiko**. Das ist auch ein Ergebnis — und es will dokumentiert sein. Dieser Skill führt durch die drei Wege, auf denen man dort hin kommt, und zeigt, welche Restpflichten dennoch zu beachten sind.
-
----
-
 ## PFLICHT-DISCLAIMER
 
 **Keine Rechtsberatung. Mechanischer Workflow.** Die Negativ-Diagnose ist nur so belastbar wie die zugrunde liegenden Tatsachenfeststellungen.
@@ -183,21 +177,6 @@ Negativ-Diagnose ist nicht "für immer". **Re-Evaluation bei:**
 
 ---
 
-## Querverweise
-
-- `entscheidungsbaum-ki-vo-gesamt-workflow` — Master-vorgelagert
-- `hochrisiko-bestaetigt-end-to-end-roadmap` — alternative Pfade
-- `risikoklassen-uebersicht-und-triage` — Klassenüberblick
-- `falsche-wiese-warnung-ki-vo` — was ist KI-VO nicht
-- `verbotene-praktiken-art-5` — gilt immer
-- `begrenztes-risiko-art-50-transparenzpflichten` — gilt oft auch ohne Hochrisiko
-- `gpai-vorliegen-art-3-nr-63` — Separate-Modellschiene
-- `sanktionen-art-99-bis-101` — was passiert bei Fehl-Diagnose
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Roadmap. Die Negativ-Diagnose ist nur so belastbar wie die zugrunde liegenden Tatsachenfeststellungen.
-
 ## Aktuelle Rechtsprechung (v14.2)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -208,9 +187,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Roadmap. Die Negativ-Diagnose ist nur
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -237,3 +213,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

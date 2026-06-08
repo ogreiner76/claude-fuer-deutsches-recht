@@ -5,10 +5,6 @@ description: "AG-Zuschuss zur PKV nach § 257 SGB V: Höhe, Berechnung, Sozialve
 
 # Arbeitgeberzuschuss PKV und Entgeltabrechnung
 
-## Arbeitsbereich
-
-AG-Zuschuss zur PKV nach § 257 SGB V: Höhe, Berechnung, Sozialversicherungsfreiheit, falsche Abrechnung und Rückforderungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Arbeitnehmer, die privat krankenversichert sind, haben Anspruch auf einen AG-Zus
 - [BSG B 12 KR 22/18 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 257 SGB V](https://dejure.org/gesetze/SGB_V/257.html)
 - [GKV-Spitzenverband Beitragsrecht](https://www.gkv-spitzenverband.de)
+

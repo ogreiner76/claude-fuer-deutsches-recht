@@ -5,10 +5,6 @@ description: "Verlagsrecht: Open-Access-Modelle, Creative-Commons-Lizenzen und V
 
 # Verl-008 · Open Access, Creative Commons und Verlagspolitik
 
-## Arbeitsbereich
-
-Verlagsrecht: Open-Access-Modelle, Creative-Commons-Lizenzen und Verlagspolitik — Rechteabgrenzung, Buchpreisbindung bei OA, Förderauflagen und Vertragsgestaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -131,3 +127,4 @@ Open Access (OA) und Creative-Commons-Lizenzen (CC) verändern das traditionelle
 - **BuchPrG-Ampel für Hybridwerk**
 - **Vertragsklausel OA**: Muster für Zweitveröffentlichungsrecht und Förderauflage
 - **DEAL-Konformitätsprüfung**
+

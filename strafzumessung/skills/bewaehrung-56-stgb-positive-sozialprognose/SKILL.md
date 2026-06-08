@@ -99,14 +99,6 @@ Wird Bewaehrung **versagt**, muss das Urteil im Strafzumessungsteil konkret darl
 - **Sucht ohne Therapie**: Bewaehrung ohne stoffspezifische Therapieweisung ist riskant.
 - **Verfahrensdauer-Kompensation** vergessen.
 
-## Querverweise
-
-- `freiheitsstrafe-strafmass-pruefen` — vor Bewaehrungsfrage.
-- `bewaehrung-auflagen-und-weisungen-56b-c-stgb` — Auflagen / Weisungen.
-- `bewaehrungswiderruf-56f-stgb` — bei Widerruf.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Begruendungspflicht.
-- Plugin `fachanwalt-strafrecht` — Plaedoyer-Vorbereitung.
-
 ## Quellen und Stand 05/2026
 
 - §§ 56, 56a-g, 57, 57a StGB in der geltenden Fassung.

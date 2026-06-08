@@ -5,10 +5,6 @@ description: "Amtlicher Normcheck für BGB-BT-Fälle: prüft Vertragstypen, Leis
 
 # Amtlicher BGB-BT-Normcheck
 
-## Arbeitsbereich
-
-Amtlicher Normcheck für BGB-BT-Fälle: prüft Vertragstypen, Leistungsstörung, AGB, Verbraucherrecht, digitale Produkte, Kauf, Miete, Dienst, Werk, Auftrag, GoA, Bürgschaft, Bereicherung und Delikt gegen die aktuelle BGB-Fassung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Amtlicher Normcheck für BGB-BT-Fälle: prüft Vertragstypen, Leistungsstörung,
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill verhindert, dass BGB-BT-Fälle mit veralteten Normgruppen oder zu groben Anspruchsformeln gelöst werden. Er zwingt den Fall in die aktuelle BGB-Struktur und trennt Vertragstyp, Anspruchsgrundlage, Rechtsfolge, Frist und Beweis.
 
 ## Prüfroute
 
@@ -47,16 +39,6 @@ Dieser Skill verhindert, dass BGB-BT-Fälle mit veralteten Normgruppen oder zu g
 | Bürgschaft | §§ 765 ff. BGB | Akzessorietät, Schriftform, Einreden |
 | Bereicherung | §§ 812-822 BGB | Leistung/Nichtleistung, Rechtsgrund, Entreicherung |
 | Delikt | §§ 823-853 BGB | Rechtsgut, Schutzgesetz, § 826, Verrichtungsgehilfe, Gefährdungsnähe |
-
-## Output
-
-Erzeuge:
-
-- Anspruchslandkarte.
-- Normenmatrix mit aktueller Normprüfung.
-- Rechtsfolgenbaum.
-- Fristen- und Verjährungsmatrix.
-- ZPO-Durchsetzungspfad, falls der Nutzer ein Prozessprodukt braucht.
 
 ## Referenz
 

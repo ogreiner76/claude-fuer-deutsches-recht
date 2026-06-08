@@ -5,10 +5,6 @@ description: "Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB 
 
 # Force Majeure und § 313 BGB (Wegfall der Geschäftsgrundlage)
 
-## Arbeitsbereich
-
-Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der Geschäftsgrundlage). Strukturiert Definition höherer Gewalt, Anzeigepflicht, Suspendierung der Leistungspflicht und Kaskade bis zur Long-Stop-Kündigung. Klärt die Voraussetzungen des § 313 BGB (schwerwiegende Veränderung der Geschäftsgrundlage, kein vertraglich allokiertes Risiko, Vorrang der Anpassung vor Rücktritt) und grenzt COVID-Sonderkonstellationen von der allgemeinen Lage ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Drafting und Abgrenzung von Force-Majeure-Klauseln und § 313 BGB (Wegfall der G
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill unterstützt Sie beim Drafting der Risikoallokation für außergewöhnliche Ereignisse. Force-Majeure-Klauseln (höhere Gewalt) regeln vertraglich, was geschieht, wenn eine Leistung wegen außerhalb der Sphäre liegender Ereignisse unmöglich oder unzumutbar wird. § 313 BGB greift dort, wo die Geschäftsgrundlage entfällt und keine vertragliche Risikoallokation existiert. Ein gutes Drafting trennt beides sauber und stellt die Reihenfolge klar.
 
 ## Eingaben
 
@@ -61,12 +53,6 @@ Dieser Skill unterstützt Sie beim Drafting der Risikoallokation für außergew�
 - Keine Mitigation: Vertragspartner darf untätig bleiben.
 - Anpassung nach § 313 II BGB nicht beachtet: Klausel springt direkt zum Rücktritt.
 
-## Ausgabeformat
-
-- Klauselentwurf mit Definition, Anzeigepflicht, Suspendierung, Long Stop, Anpassung.
-- Memo mit Risikobewertung, AGB-Check, Hinweis zu § 313 BGB.
-- Begleitende Checkliste für die Anzeige im Eintrittsfall.
-
 ## Beispiel
 
 Mustertext (Force-Majeure-Klausel, B2B-Lieferrahmen):
@@ -78,16 +64,10 @@ Mustertext (Force-Majeure-Klausel, B2B-Lieferrahmen):
 > (4) Dauert das Ereignis länger als sechzig Tage an, kann jede Partei den Vertrag mit Wirkung zum Monatsende durch Erklärung in Textform kündigen, soweit die andere Partei nicht zuvor eine zumutbare Anpassung anbietet.
 > (5) Das Recht zur Anpassung oder zum Rücktritt nach § 313 BGB bleibt unberührt; vorrangig ist diese Klausel.
 
-## Querverweise
-
-- `kuendigungsklauseln-und-vertragsbeendigung` – Long-Stop-Kündigung in der Kaskade.
-- `boilerplate-klauseln-katalog` – Schiedsklausel und Gerichtsstand bei Streit.
-- `haftungsausschluss-und-haftungsbegrenzung` – Abgrenzung zu Haftungsausschlüssen für Leistungsstörungen.
-- `b2b-vs-b2c-klausel-strategie` – AGB-Bewertung in beiden Welten.
-
 ## Quellen (Stand 05/2026)
 
 - §§ 275, 313, 326, 307 BGB.
 - BGH-Urteile zu pandemiebedingten Anpassungen nach § 313 BGB sind vom Nutzer fundstellengenau zu verifizieren.
 - ICC Force Majeure Clause 2020 (als internationale Vorlage; nicht deutsches Recht).
 - Zitierweise: `references/zitierweise.md`.
+

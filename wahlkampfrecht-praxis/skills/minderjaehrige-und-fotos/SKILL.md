@@ -5,10 +5,6 @@ description: "Wahlkampfrecht Praxis: Bilder, Schulformate und Daten Minderjaehri
 
 # Minderjaehrige Und Fotos
 
-## Arbeitsbereich
-
-Wahlkampfrecht Praxis: Bilder, Schulformate und Daten Minderjaehriger pruefen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -62,10 +58,6 @@ Ordnet Einwilligung, Eltern, Schule, politische Instrumentalisierung und Bildrec
 - Ehrenamtliche brauchen kurze, klare Regeln. Wenn das Team improvisiert, müssen die Regeln einfacher und nicht komplizierter werden.
 - Dokumentiere Entscheidungen so, dass Schatzmeisterei, Rechtsberatung, Kandidatenteam und Kampagnenleitung später verstehen, warum etwas freigegeben oder gestoppt wurde.
 
-## Output
-
-Erzeuge: **Minderjaehrigen-Check**. Wenn Informationen fehlen, stelle höchstens acht präzise Rückfragen und liefere anschließend eine vorläufige Ampel mit Annahmen.
-
 ## Qualitätsgate
 
 - Ist die Wahlart und die zuständige Wahl- oder Ordnungsbehörde konkret bestimmt?
@@ -81,3 +73,4 @@ Erzeuge: **Minderjaehrigen-Check**. Wenn Informationen fehlen, stelle höchstens
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei politischer Online-Werbung die Verordnung (EU) 2024/900, Plattformregeln, DSGVO/BDSG und die konkrete Anzeigenbibliothek prüfen.
 - Bei Spenden, Sponsoring und Sachleistungen das Parteiengesetz, Bundestagsverwaltungshinweise und interne Schatzmeisterei-Regeln prüfen.
+

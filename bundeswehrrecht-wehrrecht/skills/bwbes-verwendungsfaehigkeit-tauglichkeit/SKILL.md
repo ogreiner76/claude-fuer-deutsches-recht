@@ -5,10 +5,6 @@ description: "Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Ta
 
 # Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen
 
-## Arbeitsbereich
-
-Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Tauglichkeitsstufen, dienstrechtliche Konsequenzen und SVG-Versorgung. Norm-/Quellenanker: §§ 44–45 und 55 SG, SVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Die Versorgungsfolgen sind erheblich: Ruhegehalt, Übergangsgebührnisse, WDB-Zu
 - § 55 Abs. 2 SG — Entlassung SaZ
 - SVG §§ 1–26 — Versorgungsfolgen
 - DV 46/1 — Begutachtungsrichtlinien
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -91,20 +81,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Prüfschema: Entlassung vs. Zurruhesetzung
 - Checkliste: Gegengutachten beauftragen
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — §§ 44–45, 55 SG
-- https://www.gesetze-im-internet.de/svg/ — SVG
-- https://www.bverwg.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -114,3 +90,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

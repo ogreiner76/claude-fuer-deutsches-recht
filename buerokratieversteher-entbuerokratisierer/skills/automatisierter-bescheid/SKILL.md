@@ -5,10 +5,6 @@ description: "Erklärt vollständig automatisierte Verwaltungsakte, Plausibilit�
 
 # Automatisierter Bescheid
 
-## Arbeitsbereich
-
-Erklärt vollständig automatisierte Verwaltungsakte, Plausibilitätsfehler, Datenbasis und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,9 +12,6 @@ Erklärt vollständig automatisierte Verwaltungsakte, Plausibilitätsfehler, Dat
 - Tragende Normen verifizieren: BEG IV (Viertes Bürokratieentlastungsgesetz 2024), OZG/OZG-Änderungsgesetz, VwVfG §§ 35, 35a (vollautomatisierter VA), §§ 9, 10 e-Government-Gesetz, NKR-Gesetz, GGO § 44 (Gesetzesfolgenabschätzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Erklärt vollständig automatisierte Verwaltungsakte, Plausibilitätsfehler, Datenbasis und Widerspruch.
 
 ## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
@@ -36,12 +29,6 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ## Vorsichtsregel
 Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt bei Straf-, Familien-, Aufenthalts-, Kinderschutz-, Existenz- oder Eilrisiken früh anwaltliche Beratung, Beratungshilfe, Rechtsantragsstelle oder Fachberatungsstelle.
-
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
 
 ## Quellen- und Aktualitätsregel
 - einschlägiges Bundesrecht

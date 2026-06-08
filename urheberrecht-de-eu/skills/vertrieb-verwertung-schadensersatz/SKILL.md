@@ -5,10 +5,6 @@ description: "Prueft Vertrieb, Aggregator, Distributor, Verlag, Label, Plattform
 
 # Verwertungskette und Vertrieb
 
-## Arbeitsbereich
-
-Prueft Vertrieb, Aggregator, Distributor, Verlag, Label, Plattform, Subpublisher und internationale Revenue-Flows. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,3 +78,4 @@ Konkret zu prüfen:
 
 - § 97 Abs. 2 UrhG (Schadensersatz)
 - Lizenzanalogie/dreifache Schadensberechnung
+

@@ -5,10 +5,6 @@ description: "Römisches Recht: Justinianische Novellen, griechische Rechtssprac
 
 # Justinianische Novellen und griechische Rechtskultur
 
-## Arbeitsbereich
-
-Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Dieser Skill vertieft die **Novellen Justinians** und ihren Übergang in eine zunehmend griechischsprachige Rechtskultur. Er trennt Codex/Digesten/Institutionen von späteren kaiserlichen Neuregelungen und zeigt, wo byzantinisches Recht praktisch anders arbeitet als klassische Romanistik.
-
 ## Startfragen
 
 1. Geht es um Familienrecht, Erbrecht, Kirche, Verwaltung, Prozess oder allgemein Gesetzgebungstechnik?
@@ -52,8 +44,3 @@ Dieser Skill vertieft die **Novellen Justinians** und ihren Übergang in eine zu
 4. **Systembruch prüfen:** passt die Neuregelung in klassische Kategorien oder verschiebt sie den Schwerpunkt?
 5. **Rezeptionswert bestimmen:** unmittelbarer byzantinischer Gebrauch, gelehrte Überlieferung oder späterer Vergleichspunkt.
 
-## Output
-
-- Kurznotiz zur Novellen-Logik.
-- Synopse: justinianische Kompilation versus Novellenrecht.
-- Hinweise für Unterricht, Memo oder Quellenkritik.

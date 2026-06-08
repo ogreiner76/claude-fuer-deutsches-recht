@@ -5,9 +5,6 @@ description: "Aussagepsychologie Staatsanwaltschaft im Strafrecht: prüft konkre
 
 # Aussagepsychologie Staatsanwaltschaft
 
-## Arbeitsbereich
-
-**Aussagepsychologie Staatsanwaltschaft** ordnet den Fall über die tragenden Prüfungslinien: Verteidigerwerkzeug, Vernehmungsmethodik, Aussetzung nach § 221 StGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +27,7 @@ description: "Aussagepsychologie Staatsanwaltschaft im Strafrecht: prüft konkre
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
@@ -107,19 +105,6 @@ Im Plaedoyer arbeiten Sie strukturiert in zwei Schritten: erstens die StA-Argume
 
 **Mustersatz für Plaedoyer-Schluss:**
 "Die methodische Pruefung der Aussage nach der Rechtsprechung des BGH ergibt: Die Wahrhypothese ist nicht mit hinreichender Sicherheit gestuetzt. Die Suggestionshypothese — aufgrund der dokumentierten Mehrfachvernehmungen, der therapeutischen Aufdeckung, der sozialen Kontextualisierung — bleibt eine ernstzunehmende Alternative. Die Null-Hypothese ist nicht widerlegt. Damit greift in dubio pro reo. Mein Mandant ist freizusprechen."
-
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-realkennzeichen`
-- `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-glaubhaftigkeit-vs-glaubwuerdigkeit`
-- `strafrecht-spezial-aussagepsychologie-aussagetuechtigkeit-aussagebereitschaft`
-- `strafrecht-spezial-aussagepsychologie-emotionsbewertung-mimik-gefahren`
-- `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen`
-- `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`
-- `strafrecht-spezial-aussagepsychologie-identifizierung-und-wiedererkennen`
 
 ## Quellen Stand 06/2026
 
@@ -209,15 +194,6 @@ Im Plaedoyer methodisch arbeiten: "Die polizeiliche Vernehmung der Belastungszeu
 
 **Mustersatz für Plaedoyer:**
 "Wer aus methodisch fehlerhafter Vernehmung eine Belastung erzeugt, baut die Beweisbasis auf Sand. Die Vernehmungsmethodik ist Teil der Aussagegenese, und sie ist im Rahmen der Beweiswuerdigung zu beruecksichtigen. Die polizeiliche Vernehmung der Zeugin entspricht nicht den methodischen Mindeststandards. Damit ist die Aussagequalitaet kompromittiert."
-
-## Querverweise
-
-- `strafrecht-spezial-aussagepsychologie-vernehmungsfehler-falschgestaendnis`
-- `strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung`
-- `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen`
-- `strafrecht-spezial-aussagepsychologie-emotionsbewertung-mimik-gefahren`
-- `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
-- `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
 
 ## Quellen Stand 06/2026
 
@@ -334,13 +310,6 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 **Hilfsbeweisantrag:**
 > Hilfsweise wird beantragt, einen rechtsmedizinischen Sachverstaendigen zur konkreten Gefahrenlage zum Tatzeitpunkt zu vernehmen. Beweisthema: Eine konkrete Gefahr des Todes oder einer schweren Gesundheitsschaedigung bestand zum Tatzeitpunkt aufgrund der konkreten Lage und Umstaende nicht.
 
-## Querverweise
-
-- `strafrecht-spezial-misshandlung-schutzbefohlener-225-stgb` – qualifizierte Misshandlung.
-- `strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb` – Erfolgsqualifikation.
-- `strafrecht-spezial-totschlag-212-stgb` – Vorrang bei Toetungsvorsatz.
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` – Nebenklage.
-
 ## Quellen Stand 06/2026
 
 - § 221 StGB Aussetzung (gesetze-im-internet.de).
@@ -432,14 +401,6 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 ### Bestreiten Bandenabrede
 
 "Eine Bandenabrede wird bestritten. Der Mandant hat als sogenannter Money Mule lediglich ein einzelnes Konto für Ueberweisungen zur Verfuegung gestellt. Eine Kenntnis von einer auf fortgesetzte Begehung gerichteten Organisation ist nicht ersichtlich; der Kontakt zu den vermeintlichen Mittaetern erfolgte ueber anonyme Chatkanaele ohne Personenwissen. Eine konkludente Bandenabrede setzt zumindest die Kenntnis der wesentlichen Strukturmerkmale voraus (BGH staendige Rspr.)."
-
-## Querverweise
-
-- `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
-- `strafrecht-spezial-betrug-263-stgb-besonders-schwer`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `fachanwalt-strafrecht-untersuchungshaft-haftpruefung`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
 
 ## Quellen Stand 06/2026
 
@@ -537,16 +498,6 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen StB X zu erheben zum Beweis der Tatsache, dass er meinem Mandanten am DD.MM.JJJJ telefonisch die Auskunft gegeben hat, die Bilanz weise kein negatives Eigenkapital aus."
 
-## Querverweise
-
-- `strafrecht-spezial-besonders-schwerer-bankrott-283a-stgb`
-- `strafrecht-spezial-verletzung-buchfuehrungspflicht-283b-stgb`
-- `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb`
-- `strafrecht-spezial-insolvenzverschleppung-15a-inso`
-- `strafrecht-spezial-faktische-geschaeftsfuehrer`
-- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 283 StGB im Wortlaut (dejure.org; gesetze-im-internet.de).
@@ -556,14 +507,6 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 - Paragraph 73 StGB Einziehung; Paragraph 73c StGB Wertersatz.
 - BGH staendige Rspr. zum Verhaeltnis Bankrott und Untreue bei eigennuetzigem Handeln des GF in der GmbH-Krise.
 - BVerfG staendige Linie zur Bestimmtheitspflicht der Tatbestandsmerkmale (Paragraph 103 Abs 2 GG).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 6. `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
 
@@ -673,15 +616,6 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 
 **Antrag Haerteklausel Einziehung:** "Es wird beantragt, von der Anordnung einer Einziehung nach Paragraph 73 StGB im Hinblick auf den Wertersatz nach Paragraph 73c StGB unter Anwendung der Haerteklausel Paragraph 73e StGB zumindest teilweise abzusehen. Mein Mandant ist bereits durch die zivilrechtliche Erstattungsklage des Insolvenzverwalters in Hoehe von EUR Z belastet (Anlage P 3); zusaetzliche Vermoegensabschoepfung wuerde zu Privatinsolvenz fuehren."
 
-## Querverweise
-
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-besonders-schwerer-bankrott-283a-stgb`
-- `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit`
-- `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
-- `plaedoyer-vorbereitung-strafverteidigung`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 46 StGB Strafzumessung; Paragraph 46a StGB Taeter-Opfer-Ausgleich.
@@ -696,14 +630,6 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 - Gesetz zur Reform der strafrechtlichen Vermoegensabschoepfung (in Kraft 01.07.2017) - Bruttoprinzip.
 - BGH staendige Rspr. zur Wertgrenze "grosses Ausmass" bei EUR 50.000.
 - BGH staendige Rspr. zum Verhaeltnis Einziehung und zivilrechtlicher Schaden.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 7. `strafrecht-spezial-bedrohung-241-stgb`
 
@@ -795,12 +721,6 @@ Strafrahmen:
 **Antrag § 153a StPO:**
 > Es wird beantragt, das Verfahren gemaess § 153a Abs. 1 StPO einzustellen. Der Angeklagte ist nicht vorbestraft, die Tat ist von geringer Schwere und der Angeklagte ist zur Zahlung einer Geldauflage in Hoehe von ... EUR und zur Teilnahme an einem Anti-Aggressions-Training bereit.
 
-## Querverweise
-
-- `strafrecht-spezial-noetigung-240-stgb` – Vorrangig bei Noetigung.
-- `strafrecht-spezial-stalking-238-stgb` – Nachstellung.
-- `strafrecht-spezial-haeusliche-gewalt-im-strafverfahren` – Praxisleitfaden.
-
 ## Quellen Stand 06/2026
 
 - § 241 StGB Bedrohung (gesetze-im-internet.de).
@@ -884,13 +804,6 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung des Insolvenzgutachtens Paragraph 5 InsO vom DD.MM.JJJJ (Bl. xx d.A.) zu erheben zum Beweis der Tatsache, dass die Zahl der Insolvenzglaeubiger unter 10 lag und keine Privatperson betroffen war."
 
-## Querverweise
-
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
-- `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 283a StGB im Wortlaut (gesetze-im-internet.de).
@@ -900,14 +813,6 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 - Paragraph 70 StGB Berufsverbot.
 - Paragraph 73 StGB Einziehung des Erlangten.
 - Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG GF-Inhabilitaet.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 9. `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
 
@@ -1005,14 +910,6 @@ Auch für auslaendischen Wettbewerb gilt § 299 StGB; Internationalisierung.
 
 "Der Mandant hat die in der Anklage bezeichnete Einladung zur EM 2024 vor Annahme dem Vorgesetzten [Name] vorgelegt und schriftlich genehmigen lassen (Anlage K-2, E-Mail vom [Datum]). Eine Pflichtverletzung gegenueber dem Unternehmen im Sinne von § 299 Abs. 1 Nr. 2 StGB liegt damit nicht vor."
 
-## Querverweise
-
-- `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb`
-- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
-- `strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
-
 ## Quellen Stand 06/2026
 
 - § 299 StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/__299.html.
@@ -1099,14 +996,6 @@ Spezial-Mandat: Anklage oder Hauptverhandlung mit Vorwurf eines besonders schwer
 ### Plaedoyer-Baustein Schaden
 
 "Der in der Anklage in Hoehe von [Betrag] EUR bezifferte Schaden zerfaellt nach Aktenlage in [Anzahl] Einzeltaten mit jeweils unter 50.000 EUR. Die Schwelle des grossen Ausmasses gemaess § 263 Abs. 3 Satz 2 Nr. 2 Var. 1 StGB ist nach staendiger Rechtsprechung des BGH pro Einzeltat zu pruefen. Eine Anwendung des Regelbeispiels scheidet damit aus."
-
-## Querverweise
-
-- `strafrecht-spezial-betrug-263-stgb-grundtatbestand` — Grundtatbestand.
-- `strafrecht-spezial-bandenbetrug-263-stgb` — Bandenstruktur.
-- `strafrecht-spezial-subventionsbetrug-264-stgb` — Konkurrenznorm.
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` — Verstaendigung.
-- `plaedoyer-vorbereitung-strafverteidigung` — Plaedoyer.
 
 ## Quellen Stand 06/2026
 

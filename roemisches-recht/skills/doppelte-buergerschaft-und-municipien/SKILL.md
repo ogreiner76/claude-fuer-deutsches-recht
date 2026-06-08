@@ -5,10 +5,6 @@ description: "Doppelte Buergerschaft und Municipien. Skill behandelt die roemisc
 
 # Rom 157 Doppelte Buergerschaft Und Municipien
 
-## Aufgabe
-
-Skill für Doppelbuergerschaft im roemischen Reich.
-
 ## Municipes
 
 - Buerger einer municipium (selbstverwaltete Stadt mit roemischem Buergerrecht).
@@ -57,7 +53,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

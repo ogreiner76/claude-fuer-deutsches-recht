@@ -25,15 +25,6 @@ Die Anonymisierung von Mandatsdaten vor der Eingabe in KI-Systeme ist eine der w
 
 Erwägungsgrund 26 DSGVO: Anonymisierte Daten fallen nicht unter die DSGVO — aber die Anonymisierung muss irreversibel sein. Art. 4 Nr. 5 DSGVO: Pseudonymisierung als Verarbeitungstechnik, die den Personenbezug ohne Zusatzinformationen nicht mehr herstellen lässt. Art. 5 Abs. 1 lit. c DSGVO: Datenminimierungsgrundsatz. Art. 25 DSGVO: Datenschutz durch Technikgestaltung (Privacy by Design). § 43a Abs. 2 BRAO: Die Anonymisierung reduziert das Risiko eines Geheimnisverrats, da der Chatbot ohne Personenbezug keine Mandanteninformationen identifizieren kann. Erwägungsgrund 28 DSGVO: Pseudonymisierung als geeignete Schutzmaßnahme.
 
-## Vorgehen
-
-1. **Stufe 1 — Identifikation sensibler Informationen**: Vor dem Upload jedes Dokuments systematisch prüfen, welche Informationen Personenbezug aufweisen (Namen, Adressen, Geburtsdaten, Aktenzeichen, Kontonummern, Gesundheitsdaten etc.).
-2. **Stufe 2 — Schwärzung/Ersetzen durch Platzhalter**: Namen durch generische Bezeichnungen ersetzen (Mandant → "M1", Gegner → "G1", Zeuge → "Z1"), Adressen schwärzen, Aktenzeichen durch fiktive ersetzen.
-3. **Stufe 3 — Konsistenz sicherstellen**: Bei Mehrfachverwendung desselben Dokuments oder mehrerer zusammenhängender Dokumente dieselben Platzhalter konsistent verwenden, damit der Kontext erhalten bleibt.
-4. **Stufe 4 — Re-Identifikationsrisiko prüfen**: Nach der Anonymisierung kritisch prüfen: Kann aus dem verbleibenden Kontext (Branche, Ort, besondere Umstände) dennoch auf die Person geschlossen werden? Falls ja, weitreichendere Schwärzungen vornehmen.
-5. **Stufe 5 — Dokumentation**: Anonymisierungsprozess in der Akte dokumentieren; wer hat anonymisiert, wann, nach welchem Schema?
-6. **Automatisierungsoptionen**: Bei häufigen gleichartigen Dokumenten kann eine (semi-)automatisierte Anonymisierungs-Software eingesetzt werden; deren Zuverlässigkeit ist vor dem produktiven Einsatz zu testen.
-
 ## Vorlagentext / Bausteine
 
 **Baustein Anonymisierungspflicht:**

@@ -5,10 +5,6 @@ description: "Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohn
 
 # Familienbetreuer: Monatsroutine und Kalender
 
-## Einsatz
-
-Für Überforderungsschutz: kleine regelmäßige Schritte statt Chaos.
-
 ## Normenanker
 
 Arbeitsfokus: **Familienbetreuer: Monatsroutine und Kalender**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -24,21 +20,7 @@ Arbeitsfokus: **Familienbetreuer: Monatsroutine und Kalender**. Prüfe diese Ank
 - `§ 5 BtOG` — Beratung und Unterstützung.
 - `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsfragen
-
-1. Welche wiederkehrenden Termine?
-2. Welche Post/Fristen neu?
-3. Welche Veränderung bei Gesundheit, Geld, Wohnung?
-4. Welcher Aufgabenkreis ist wirklich übertragen: Gesundheit, Vermögen, Aufenthalt, Behörden, Post, Wohnungsangelegenheiten?
-5. Was will die betreute Person selbst, und wie wurde dieser Wille ermittelt/dokumentiert?
-6. Braucht eine Handlung gerichtliche Genehmigung, ärztliche Rücksprache oder nur Alltagserledigung?
-
-## Output
-
-Monatscheckliste, Kalenderstruktur, Besuchsnotiz, Gerichtskommunikation, Genehmigungsampel und Angehörigen-/Dienstleisterlog.
 
 ## Red Flags
 
@@ -51,3 +33,4 @@ Monatscheckliste, Kalenderstruktur, Besuchsnotiz, Gerichtskommunikation, Genehmi
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

@@ -5,9 +5,6 @@ description: "AVV Haftung Datenschutz Schadensersatz Dsfa im Datenschutzrecht: p
 
 # AVV Haftung Datenschutz Schadensersatz Dsfa
 
-## Arbeitsbereich
-
-**AVV Haftung Datenschutz Schadensersatz Dsfa** ordnet den Fall über die tragenden Prüfungslinien: Haftungsverteilung Risikoallokation und Haftungscaps im AVV, Schadensersatzklage nach Art, Risikoanalyse im Rahmen der DSFA. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "AVV Haftung Datenschutz Schadensersatz Dsfa im Datenschutzrecht: p
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `avv-haftung-risikoallokation-art-82-dsgvo`
@@ -107,12 +105,6 @@ Haftungsklausel:
 - Versicherungsnachweis nicht eingefordert.
 - Sub-AV-Haftung nicht thematisiert.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/dsr-schadensersatz-art82-spezial/SKILL.md`
-- `datenschutzrecht/skills/avv-audit-und-kontrollrechte/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 82, Art. 28 Abs. 4, Art. 28 Abs. 10, Art. 83 DSGVO.
@@ -125,10 +117,6 @@ Haftungsklausel:
 **Fokus:** Schadensersatzklage nach Art. 82 DSGVO materieller und immaterieller Schaden vor deutschen Zivilgerichten. EuGH C-300/21 Oesterreichische Post C-340/21 Bulgarian Sofia C-687/21 MediaMarkt C-741/21 juris C-456/22 VX gegen Saale. Sieben-Fragen-Diagnose Anspruchsteller oder Anspruchsgegner Verstoss konkret Kausalitaet Schadensart Beweislast Verjährung Anspruchskonkurrenz. Schritt-für-Schritt für Klage und Verteidigung. Mustertexte Klageschrift Klageerwiderung Vergleichsvorschlag. Abgrenzung: keine Bussgeldverteidigung.
 
 ### Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
-
-## Zweck
-
-Dieser Skill bearbeitet Schadensersatzansprueche nach Art. 82 DSGVO vor deutschen Zivilgerichten — sowohl auf Klaeger- als auch auf Beklagtenseite. Er konzentriert sich auf den materiellen und immateriellen Schaden, die Kausalitaet zum DSGVO-Verstoss und die Beweislastverteilung nach der inzwischen verfestigten EuGH-Rechtsprechung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -223,14 +211,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert hohe Schadensersatzbetraege?** Art. 9-Daten, Massenvorfall, nachweisbare Kettenfolge (Identitaetsdiebstahl), fehlende Reaktion des Verantwortlichen, kein DSB.
 
-## Querverweise
-
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-auskunftsersuchen-art-15-praxis`
-- `datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung`
-- `dsr-schadensersatz-art82-spezial`
-- `datenschutz-datenpanne-art-33-34-72h-incident-response`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 79, 82, 83.
@@ -243,23 +223,11 @@ Sieben-Fragen-Diagnose:
 - EuGH C-456/22 VX gegen Saale, Urteil 14.12.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden`
 
 **Fokus:** Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal Schadenschwere für Bedrohungsszenarien systematisch ermitteln. Output: Risikomatrix mit Begruendung Ampelfarbe und Begruendung der Stufung.
 
 ### Risikoanalyse Eintrittswahrscheinlichkeit mal Schadenschwere
-
-## Zweck
-
-Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGVO. Pro Bedrohungsszenario wird die Eintrittswahrscheinlichkeit mit der Schadenschwere für die Betroffenen zu einer Risikostufe verknuepft. Ergebnis ist eine vollstaendige Risikomatrix in Ampelfarben mit jeweils nachvollziehbarer Begruendung.
 
 ## Wann dieses Modul hilft
 
@@ -349,14 +317,6 @@ Unterschrift DSB: ____________________
 - Risikomatrix wird nicht aktualisiert — DSFA als Einmaldokument.
 - Schutzziele werden auf Vertraulichkeit reduziert — Transparenz und Intervenierbarkeit werden vergessen.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Aufnahme in Vollvorlage
-- `datenschutzrecht/skills/dsfa-edpb-leitlinien-9-19-anwendung/SKILL.md` — EDSA-Kriterien für Schwellwert
-- `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Restrisiko und Art. 36
-- `datenschutzrecht/skills/dsfa-methodik-cnil-pia-vs-bsfd-bsi/SKILL.md` — Methodenwahl
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 7 lit. c DSGVO
@@ -403,13 +363,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
@@ -450,10 +403,6 @@ Nicht aus Modellwissen; insbesondere EuGH, Urteil vom 05.12.2023, C-807/21 (Deut
 ## Zentrale Normen
 
 Art. 58 Abs. 2, Art. 78, Art. 83 Abs. 1, Art. 83 Abs. 2, Art. 83 Abs. 4, Art. 83 Abs. 5, Art. 83 Abs. 6 DSGVO; § 20, § 41 BDSG; §§ 49, 55, 65, 67, 68, 69, 71, 72, 73, 79 OWiG; § 147 StPO.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Praxisformulierung — Verteidigungsraster
 
@@ -508,3 +457,4 @@ Schritt 7: Stellungnahme verfassen; ggf. Bußgeldbescheid abwarten; Einspruch fr
 - Rechtsgrundlage nach Art. 6 DSGVO sauber waehlen; berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO mit dokumentierter Abwaegung.
 - Bei Datenpannen die 72-Stunden-Frist nach Art. 33 DSGVO einhalten; Risikoabwaegung Art. 34 DSGVO separat dokumentieren.
 - Auskunftsanspruch Art. 15 DSGVO nicht mit Kopie nach Art. 15 Abs. 3 DSGVO verwechseln; EuGH C-307/22 Reichweite beachten.
+

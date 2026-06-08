@@ -5,10 +5,6 @@ description: "Influencer-Recht: Minderjährige Creator – elterliche Einwilligu
 
 # Influencer-Recht: Minderjährige Creator – Eltern, Jugendschutz, Vertragsrecht
 
-## Arbeitsbereich
-
-Influencer-Recht: Minderjährige Creator – elterliche Einwilligung, Jugendschutz, JuSchG, JMStV, Kooperationsverträge und Vermögensrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,3 +76,4 @@ Minderjährige Creator unterliegen einem besonders dichten Schutzregime:
 - JArbSchG-Zeiterfassungsvorlage
 - JMStV-Compliance-Checkliste
 - Familiengericht-Vorlage (bei erheblichem Vermögen)
+

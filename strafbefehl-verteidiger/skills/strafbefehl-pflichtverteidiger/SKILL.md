@@ -39,9 +39,6 @@ Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendi
 - Geltungsgrundlagen: § 140 StPO i. d. F. nach RL (EU) 2016/1919 (PKH-Richtlinie Strafverfahren), umgesetzt seit Dezember 2019, weiterhin maßgeblich; Aktualisierungen vor Ausgabe in dejure.org / openjur.de pruefen.
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur notwendigen Verteidigung im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 140 StPO Strafbefehl" durchführen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Pflichtverteidiger-Bestellung
 
 ```
@@ -89,3 +86,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Wunschverteidiger des Mandanten beachten und § 142 Abs. 5 StPO beantragen.
 - Auswechslung nach § 143a StPO nur bei ernsthaftem Zerruettnis.
 - Gebührenanspruch gegen Staatskasse entsteht mit Beiordnung.
+

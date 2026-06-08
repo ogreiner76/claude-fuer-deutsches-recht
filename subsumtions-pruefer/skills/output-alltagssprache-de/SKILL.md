@@ -5,10 +5,6 @@ description: "Gibt das Subsumtionsergebnis in verstaendlicher Alltagssprache aus
 
 # Output: Alltagssprache (Deutsch)
 
-## Zweck
-
-Rechtliche Ergebnisse müssen auch für Menschen verständlich sein, die keine juristische Ausbildung haben. Dieser Skill übersetzt das Subsumtionsergebnis in klare, verständliche Alltagssprache. Er behält die inhaltliche Korrektheit bei, vermeidet aber unnötige Fachbegriffe und erklärt alle unvermeidlichen Rechtsbegriffe sofort.
-
 ## Triage zu Beginn
 
 1. Wer ist der Adressat? (Mandant / Bürger / Behördenmitarbeiter ohne juristische Ausbildung)
@@ -82,16 +78,3 @@ Das System vermeidet:
 
 Das System prüft: Würde ein 16-Jähriger ohne Jurastudium diesen Text verstehen?
 
-## Quellenregel
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren (dejure.org, bgh.de, bverfg.de).
-- Gesetzestext in Alltagssprache paraphrasieren; Paragrafenzahl in Klammern ergänzen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-- Normtext live prüfen: gesetze-im-internet.de (Bund), eur-lex.europa.eu (EU), dejure.org (Querverweise).

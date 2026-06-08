@@ -199,14 +199,6 @@ Unterschriften aller Gesellschafter: _______________________
 
 ---
 
-## Querverweise
-
-- → `paragraph-1-starug-pflichten-und-24-monats-horizont` — Früherkennungspflicht
-- → `pflichtenkollision-und-shift-of-fiduciary-duties` — Pflichtenwandel in der Krise
-- → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — § 15a InsO
-- → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Protokollierungspflichten
-- → `fortbestehensprognose-zweistufig` — IDW S 11 als Enthaftungsanker
-
 ## Triage — Erste Einordnung
 
 Bevor losgelegt wird, klaere:
@@ -214,3 +206,4 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+

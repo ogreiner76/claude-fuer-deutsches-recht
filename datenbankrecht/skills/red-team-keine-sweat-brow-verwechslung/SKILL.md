@@ -47,14 +47,6 @@ description: "'Red-Team-Analyse zur Abwehr der Sweat-of-the-Brow-Verwechslung im
 - Einwand der TDM-Schranke (§ 44b UrhG) nur wirksam, wenn kein maschinenlesbarer Opt-out erklärt wurde.
 - Aktivlegitimation des Lizenznehmers ist beschränkt — nur der Herstellerrechtsinhaber kann vollständige Unterlassung verlangen.
 
-## Output
-
-- Red-Team-Analyse-Checkliste für eingehende Datenbankrechts-Klagen und Abmahnungen
-- BHB-Einwand-Argumentation (Datenerzeugung vs. Datenbeschaffung)
-- Angriffspunkte auf Investitionsnachweis des Klägers
-- Schranken-Einwands-Übersicht für Beklagte
-- Schutzschrift-Gliederung mit allen relevanten Gegenargumenten
-
 ## Quellen
 
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
@@ -63,3 +55,4 @@ description: "'Red-Team-Analyse zur Abwehr der Sweat-of-the-Brow-Verwechslung im
 - [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
 - [§ 102 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/102.html)
 - [EuGH C-338/02 Fixtures Marketing — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-338/02)
+

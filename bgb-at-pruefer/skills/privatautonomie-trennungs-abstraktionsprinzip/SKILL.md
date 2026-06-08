@@ -45,13 +45,6 @@ description: "Klausurfall zu Privatautonomie, Trennungs- und Abstraktionsprinzip
 - § 812 BGB ist die Rechtsfolge, nicht das Mittel zur Direktkorrektur des Eigentumsübergangs.
 - Trennungsprinzip und Abstraktionsprinzip werden oft verwechselt — Trennungsprinzip ist die Selbständigkeit, Abstraktionsprinzip die Unabhängigkeit der Wirksamkeit.
 
-## Output
-
-- Gutachtenstil-Abschnitt zu Trennungs- und Abstraktionsprinzip
-- Schema: Verpflichtungsgeschäft → Verfügungsgeschäft → Fehleridentität → Kondiktion
-- Prüfampel: Eigentumsübergang wirksam / Kondiktion begründet / Fehleridentität greift
-- Klausurlösungsskizze mit § 812 BGB-Folgeprüfung
-
 ## Quellen
 
 - [§ 929 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__929.html)
@@ -82,3 +75,4 @@ Kaufvertrag ist nichtig, aber die Übereignung ist es nicht.
 - Abstraktionsprinzip: Nichtigkeitsgründe des Verpflichtungsgeschäfts berühren Verfügung nicht?
 - Fehleridentität: Dieselbe Nichtigkeitsursache erfasst beide Geschäfte?
 - Kondiktion nach § 812 BGB als Rechtsfolge bei wirksamer Verfügung und nichtigem Kausalgeschäft?
+

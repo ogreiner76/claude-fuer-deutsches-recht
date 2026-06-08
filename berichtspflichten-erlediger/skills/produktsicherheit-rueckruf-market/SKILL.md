@@ -5,10 +5,6 @@ description: "Produktsicherheitsrecht: gefährliches Produkt, Rückruf, Safety G
 
 # Produktsicherheit und Marktüberwachung melden
 
-## Arbeitsbereich
-
-Produktsicherheitsrecht: gefährliches Produkt, Rückruf, Safety Gate, Marktüberwachung, Händler-/Herstellerrolle und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,28 +13,12 @@ Produktsicherheitsrecht: gefährliches Produkt, Rückruf, Safety Gate, Marktübe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Hersteller, Importeure, Händler und Plattformverkäufer.
-
 ## Norm- und Quellenanker
 
 - Verordnung (EU) 2023/988 über die allgemeine Produktsicherheit (GPSR) für Verbraucherprodukte, Risikobewertung, Meldepflichten und Safety-Gate-Logik.
 - ProdSG und Marktüberwachungsrecht für nationale Zuständigkeiten, Marktüberwachungsmaßnahmen und Ordnungswidrigkeiten.
 - Spezialrecht vorrangig prüfen: Medizinprodukte, Maschinen, Spielzeug, Elektrogeräte, Funkanlagen, Lebensmittelkontakt, Kosmetik, Fahrzeuge.
 - Produkthaftung, Gewährleistung, UWG und Datenschutz nur als Folge-/Parallelrisiken einordnen.
-
-## Arbeitsfragen
-
-1. Welches Produkt, Charge, Seriennummer, Vertriebsweg, Zeitraum und Nutzergruppe?
-2. Welche Rolle: Hersteller, Bevollmächtigter, Importeur, Händler, Fulfilment-Dienstleister, Online-Marktplatz?
-3. Welches Risiko: Verletzung, Brand, Stromschlag, Verschlucken, Chemie, Cyber-/Softwareupdate, Fehlanleitung?
-4. Welche Maßnahme ist verhältnismäßig: Warnung, Softwarepatch, Reparatur, Austausch, Rücknahme, Rückruf?
-5. Welche Behörden, Plattformen, Händler, Versicherer und Kunden müssen wann informiert werden?
-
-## Output
-
-Rückruf- und Behördenpaket mit Risikobewertung, Rollenmatrix, Meldeentwurf, Kundenkommunikation, Plattformtext, FAQ, Händleranweisung und Dokumentationslog.
 
 ## Red Flags
 
@@ -53,6 +33,3 @@ Rückruf- und Behördenpaket mit Risikobewertung, Rollenmatrix, Meldeentwurf, Ku
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

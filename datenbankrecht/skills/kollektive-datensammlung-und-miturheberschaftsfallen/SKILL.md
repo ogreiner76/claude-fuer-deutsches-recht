@@ -59,14 +59,6 @@ Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturhe
 - Ausscheiden eines Konsortialpartners führt zu Unklarheiten über Fortführung der Schutzdauer (§ 87d UrhG) — vertragliche Regelung nötig.
 - Mitmitglied kann Datenbankherstellerrecht nicht einzeln verletzen, wenn es gemeinsam am Recht beteiligt ist — andere Ansprüche (vertragliche Pflichtverletzung) prüfen.
 
-## Output
-
-- Konsortialvertrag-Klauseln für gemeinsame Datenbankrechte
-- Investitionsanteils-Matrix (Hersteller-Beitragsverteilung)
-- UGC-Plattform-Rechtszuweisung (Plattform vs. Nutzer)
-- Miturheberschafts-Prüfprotokoll (§ 8 UrhG)
-- Ausscheidungsregelung für Konsortialpartner (Datenbankrecht-Fortführung)
-
 ## Quellen
 
 - [§ 8 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/8.html)
@@ -75,3 +67,4 @@ Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturhe
 - [§ 4 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
 - [§ 31 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

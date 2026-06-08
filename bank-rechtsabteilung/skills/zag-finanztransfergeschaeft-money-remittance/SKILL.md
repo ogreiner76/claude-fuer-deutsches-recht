@@ -5,10 +5,6 @@ description: "Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Wei
 
 # Finanztransfergeschäft / Money Remittance nach ZAG
 
-## Arbeitsbereich
-
-Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Weiterleitung von Geldbeträgen ohne Zahlungskonto, Agentenmodelle, Plattformfälle, Bargeld, Ausnahmen und BaFin-Erlaubnisrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,10 +47,3 @@ Dieser Skill prüft das Finanztransfergeschäft nach § 1 Abs. 1 Satz 2 Nr. 6 ZA
 - Transaktionen in FATF-gelistetes Land: GwG § 15 verstärkte Sorgfalt; Einzelgenehmigung Geschäftsleitung; Transaktionslimit erwägen
 - Agentenausfall mit Kundengeldverlust: § 25 ZAG Institut-Haftung, § 16 ZAG Sicherungspflicht, BaFin-Meldepflicht
 
-## Output
-
-Erlaubnisantrags-Checkliste § 10 ZAG für Money Remittance; KYC-Pflichten-Matrix (Schwellenwerte, Dokumente); Travel-Rule-Compliance-Check; AML-Transaktionsmonitoring-Konzept; Agenten-Überwachungs-Protokoll.
-
-## Quellenregel
-
-gesetze-im-internet.de (ZAG, GwG), eur-lex.europa.eu (Geldtransfer-VO 2015/847, VO 2023/1113 Travel Rule), fatf-gafi.org (Recommendation 16, VASP Guidance 2021), bafin.de (Merkblatt Finanztransfer, AML-Hinweise). Live-Check: VO 2023/1113 gilt ab 30.12.2024; FATF-Länderliste wird laufend aktualisiert.

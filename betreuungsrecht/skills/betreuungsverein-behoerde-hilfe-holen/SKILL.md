@@ -5,10 +5,6 @@ description: "Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, 
 
 # Hilfe holen: Betreuungsverein, Behörde, Gericht
 
-## Zweck
-
-Ehrenamtliche Betreuung soll nicht allein auf dem Küchentisch liegen. Dieser Skill zeigt, welche Unterstützungsstellen es gibt und wie man sie praktisch nutzt.
-
 ## Wer hilft wobei?
 
 | Stelle | Hilft bei |
@@ -40,18 +36,7 @@ Arbeitsfokus: **Hilfe holen: Betreuungsverein, Behörde, Gericht**. Prüfe diese
 - `§ 5 BtOG` — Beratung und Unterstützung.
 - `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-Erzeuge:
-
-- Anschreiben an Betreuungsverein.
-- Anschreiben an Betreuungsbehörde.
-- Fragenliste für Einführungsgespräch beim Gericht.
-- Checkliste “Was darf ich allein, wann brauche ich Genehmigung/Hilfe?”
-- Plan für Verhinderung: Urlaub, Krankheit, Überlastung, Klinikaufenthalt des Betreuers.
 
 ## Mustertext kurz
 
@@ -67,6 +52,3 @@ Aktenzeichen: [...]
 Besondere Eilfragen: [...]
 ```
 
-## Qualitätsregel
-
-Der Skill soll nicht beschämen. Wenn der Betreuer unsicher ist, ist das kein Fehler, sondern der Normalfall. Gute Betreuung heißt auch: rechtzeitig Unterstützung organisieren.

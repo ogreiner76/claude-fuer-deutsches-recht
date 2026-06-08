@@ -5,10 +5,6 @@ description: "PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei im Preu�
 
 # Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei
 
-## Arbeitsbereich
-
-PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei. Arbeite entlang diese
 - Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-ALR II 7-8: Gemeinderecht — Staedte, Doerfer, Polizei.
 
 ## Wichtige Paragraphen
 
@@ -50,7 +42,3 @@ Buergermeister einer Mittelstadt erlaesst Verfuegung.
 2. Welche Verfuegung?
 3. Kompetenz?
 
-## Output
-
-- Kommunalrechts-Analyse.
-- Vergleich zu heutiger GO.

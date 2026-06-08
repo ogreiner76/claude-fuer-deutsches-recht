@@ -5,10 +5,6 @@ description: "VLB-Katalog (Verzeichnis lieferbarer Buecher) pflegen: ONIX-Metada
 
 # VLB-Katalog (Verzeichnis lieferbarer Buecher)
 
-## Arbeitsbereich
-
-VLB-Katalog (Verzeichnis lieferbarer Buecher) pflegen: ONIX-Metadaten, Schlagworte, Klappentext, Reihen, Preisbindung, Erscheinungstermin-Pflege. Konsistenz mit Webshop, beck-online und Buchhandel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -155,14 +151,6 @@ Mit freundlichen Gruessen
 - Bei E-Book und Print abweichende Klappentexte - Marketing inkonsistent.
 - Auflagenwechsel ohne Verweis auf Nachfolger - alte ISBN bleibt aktiv.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung des Pflegevorgangs.
-- `metadaten-seo-klappentext` - Konsistenz mit Klappentext.
-- `sales-katalog-vlb-buchhandel` - vertriebliche Begleitung.
-- `verl-pressetext-rechtsthemen` - PM zum Erscheinen.
-- `verl-buchprojekt-bauleiter` - Bauleitung Projekt.
-
 ## Quellen Stand 06/2026
 
 - BuchPrG - Buchpreisbindungsgesetz.
@@ -170,3 +158,4 @@ Mit freundlichen Gruessen
 - VLB-Hinweise und Codelisten - vlb.de (Boersenverein).
 - BVA-Verlagsdienstleister - mvb-online.de.
 - GND - Gemeinsame Normdatei der Deutschen Nationalbibliothek (dnb.de).
+

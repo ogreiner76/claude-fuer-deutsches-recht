@@ -5,10 +5,6 @@ description: "Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen 
 
 # Rechtsprechung live verifizieren
 
-## Arbeitsbereich
-
-Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -42,10 +38,6 @@ Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Lin
 
 ErbbauRG, GBO, GBV, BGB-Sachenrecht, Finanzierungs- und Vollzugspraxis des Erbbaurechts.
 
-## Aufgabe
-
-Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit einem abstrakten Lehrbuchschema, sondern mit einer kurzen Lageklärung: Was soll eingetragen, gelesen, gelöscht, berichtigt, verteidigt oder vorbereitet werden? Welche Urkunde liegt vor? Welche Stelle entscheidet? Welche Frist oder welcher Rang kann verloren gehen?
-
 ## Arbeitsmodus
 
 1. **Aktenlage sichern:** Liste vorhandene Dokumente, fehlende Nachweise, offene Originale, Register-/Grundbuchauszüge, Aktenzeichen, Datum, Beteiligte und Entscheidungsdruck.
@@ -54,10 +46,3 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 4. **Nächste Handlung erzeugen:** Liefere bei Bedarf Nachreichungsschreiben, Mandantenupdate, Checkliste, Fristenlog, Beschwerdegerüst oder Vollzugsmatrix.
 5. **Belegdisziplin:** Zitiere Normen nur, wenn sie zum Schritt passen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst ausdrücklich als zu verifizieren markieren.
 
-## Ausgabeformat
-
-- **Kurzbefund:** 5-8 Sätze, was gerade wirklich los ist.
-- **Prüfmatrix:** Dokument / Normanker / Problem / Risiko / nächster Schritt.
-- **Fragen an die Akte:** maximal 10 präzise Nachfragen, nur soweit entscheidungserheblich.
-- **Arbeitsprodukt:** der passende Entwurf oder die passende Checkliste.
-- **Warnung:** welche falsche Sicherheit hier besonders gefährlich wäre.

@@ -5,10 +5,6 @@ description: "Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoe
 
 # Rom 114 Bonorum Distractio Vermoegenseinzelverkauf
 
-## Aufgabe
-
-Skill für die bonorum distractio.
-
 ## Rechtsquelle
 
 - Senatusconsultum (Daten und Inhalte vor Zitat verifizieren).
@@ -61,7 +57,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Sozialfunktion.

@@ -39,9 +39,6 @@ Beschraenkter Einspruch nach § 410 Abs. 2 StPO auf Rechtsfolgen. Schuldspruch w
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum: Beschraenkt oder unbeschraenkt?
 
 ```
@@ -110,3 +107,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Schriftliche Aufklaerung ueber Rechtskraft des Schuldspruchs und Verboescherungs-Risiko.
 - Einkommensnachweise vor der Hauptverhandlung vollstaendig einreichen.
 - Frist § 410 Abs. 1 StPO (2 Wochen) beachten — gilt auch für beschraenkten Einspruch.
+

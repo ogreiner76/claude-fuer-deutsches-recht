@@ -5,10 +5,6 @@ description: "Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitend
 
 # Grundfreiheiten und Binnenmarkt
 
-## Arbeitsbereich
-
-Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftstätigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Prüfraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhältnismäßigkeit Cassis-Doktrin. Output: Grundfreiheiten-Prüfschema Prüfmemo. Abgrenzung: nicht für EU-Beihilfen (europarecht-beihilfen-vergaben). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,11 @@ Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftst
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267 AEUV, Nichtigkeitsklage, Beschwerde an EU-KOM, Stellungnahme im Vertragsverletzungsverfahren, Notifizierung, EuGH-Urteilsbeleg — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Binnenmarktprüfung ohne Art.-12-GG-Autopilot, mit Grenzbezug, Beschränkung und Rechtfertigung.
-
 ## Wann verwenden
 
 - bei Memos, Behördenbriefen, Schriftsätzen oder Compliance-Projekten mit EU-Bezug
 - wenn deutsche Kategorien die EU-Eigenlogik verdecken könnten
 - wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind
-
-## Arbeitsweise
-
-1. **Rechtsquelle fixieren.** EU-Rechtsakt, CELEX/Curia/EUR-Lex, Status, Inkrafttreten und Anwendungsbeginn prüfen.
-2. **Wirkung bestimmen.** Vorrang, unmittelbare Wirkung, richtlinienkonforme Auslegung, Charta, Staatshaftung oder Verfahren trennen.
-3. **Deutsche Denkfehler markieren.** Nationale Kategorien nur nutzen, wenn sie unionsrechtlich passen.
-4. **Verfahrensweg planen.** Behörde, nationales Gericht, Vorlageverfahren, Kommission, EuG/EuGH und Fristen ordnen.
-5. **Qualitätstor setzen.** Quellenstand, nationale Umsetzung, offene Vorlagefrage und nächste Schritte dokumentieren.
 
 ## Rückfragen, wenn unklar
 
@@ -41,13 +25,6 @@ Binnenmarktprüfung ohne Art.-12-GG-Autopilot, mit Grenzbezug, Beschränkung und
 - Welche Partei oder Rolle vertreten wir?
 - Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
 - Welches Arbeitsprodukt wird gebraucht und wie eilig ist es?
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel
-- Prüfmatrix mit Fundstelle, Risiko, Vorschlag und Review-Level
-- anwaltlich prüfbarer Entwurf oder Mandantenhinweis
-- offene Annahmen, Quellenstand und nächste Schritte
 
 ## Typische Fehler vermeiden
 
@@ -81,9 +58,6 @@ Bevor losgelegt wird, klaere:
 - **Art. 56-62 AEUV** — Dienstleistungsfreiheit; voruebergehende Erbringung; DLF-RL 2006/123
 - **Art. 63-66 AEUV** — Kapitalverkehrsfreiheit; umfassendste Grundfreiheit; auch gg. Drittlaender
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Grundfreiheiten-Pruefung
 
 **Adressat:** Kanzlei-intern oder Mandant
@@ -117,3 +91,4 @@ Sachverhalt: [KURZBESCHREIBUNG]
 [ ] Beschraenkung — gerechtfertigt
 [ ] Beschraenkung — nicht gerechtfertigt — EU-Rechtsverstoß
 ```
+

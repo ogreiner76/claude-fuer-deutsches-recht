@@ -5,10 +5,6 @@ description: "Computerbetrug/Phishing anzeigen: Zahlungsdaten, TAN, Social Engin
 
 # Computerbetrug und Phishing
 
-## Arbeitsbereich
-
-Computerbetrug/Phishing anzeigen: Zahlungsdaten, TAN, Social Engineering, Bankkommunikation, Logs und Sofortmaßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Computerbetrug/Phishing anzeigen: Zahlungsdaten, TAN, Social Engineering, Bankko
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Onlinebanking- und Payment-Betrug.
-
 ## Norm- und Quellenanker
 
 StGB § 263a; §§ 202a ff.; BGB Zahlungsdienste §§ 675u ff.
-
-## Arbeitsfragen
-
-1. Welche Transaktion?
-2. Welche Täuschungs-/IT-Handlung?
-3. Welche Bankreaktion?
-
 
 ## Normen & Rechtsprechung
 
@@ -43,9 +28,6 @@ Konkret zu prüfen:
 - § 263a StGB (Computerbetrug)
 - § 269 StGB (Datenfälschung)
 - § 270 StGB
-## Output
-
-Cyber-Betrugsanzeige und Bankpaket.
 
 ## Red Flags
 
@@ -57,6 +39,3 @@ Cyber-Betrugsanzeige und Bankpaket.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

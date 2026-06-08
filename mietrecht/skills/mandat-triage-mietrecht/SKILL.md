@@ -39,10 +39,6 @@ Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenroll
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Mietrechts-Mandate sind heterogen — Wohnraummietrecht (sozial geschützt) Gewerbemietrecht (vertragsdominiert) WEG (eigene Logik). Triage stellt richtige Spur sicher.
-
 ## Ablauf — sieben Fragen
 
 ### Frage 1 — Mandantenrolle?
@@ -168,3 +164,4 @@ Mietrechts-Mandate sind heterogen — Wohnraummietrecht (sozial geschützt) Gewe
 ## Aktuelle Rechtsprechung — Leitsaetze (Triage-Relevant)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

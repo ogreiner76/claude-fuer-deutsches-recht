@@ -109,14 +109,6 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 - Behauptung "vereinfachtes Verfahren" ohne Konkretisierung
 - Begruendung "Wettbewerbsgleichheit" ohne weitere Pruefung
 
-## Querverweise
-
-- `nkr-verhaeltnismaessigkeit-aus-nkr-sicht`
-- `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-- `nkr-praktikabilitaet-vollzug-test`
-- `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf`
-- `legistik-werkstatt/normenkontrollrat-kmu-check`
-
 ## Quellen Stand 06/2026
 
 - Empfehlung 2003/361/EG der EU-Kommission, ABl. EU L 124/36
@@ -126,3 +118,4 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 - EU Better Regulation Toolbox Tool 23 SME-Test
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

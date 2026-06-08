@@ -5,10 +5,6 @@ description: "Workload Balance im Kanzlei-Management im Kanzlei Management. Lief
 
 # Workload Balance
 
-## Arbeitsbereich
-
-**Workload Balance** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -39,6 +35,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `workload-balance`
@@ -66,14 +63,6 @@ Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche. Der Skill denk
 4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
 5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
 
-## Arbeitsweise
-
-- Trenne Signal von Kanzleigeräusch. Nicht jede laute Partnerstimme ist ein strategisches Argument.
-- Behandle Zahlen als Entscheidungsstütze, nicht als Orakel.
-- Zeige immer die Gegenrechnung: Kosten des Nichtstuns, Kosten der Überreaktion, Kosten der halbherzigen Lösung.
-- Prüfe, ob das Problem ein Cash-, Pricing-, People-, Governance-, Qualitäts- oder Kommunikationsproblem ist.
-- Formuliere den Output so, dass er im Partnerkreis beschlossen und nach vier Wochen überprüft werden kann.
-
 ## Standard-Output
 
 Erzeuge:
@@ -96,3 +85,4 @@ Erzeuge:
 ## Quellen- und Compliance-Hygiene
 
 Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
+

@@ -5,10 +5,6 @@ description: "Vorhaltefinanzierung nach KHVVG: berechnet den Vorhalteanteil je L
 
 # Vorhalteverguetung Leistungsgruppen Krankenhausreform
 
-## Arbeitsbereich
-
-Vorhaltefinanzierung nach KHVVG: berechnet den Vorhalteanteil je Leistungsgruppe, ordnet die Konvergenzphase 2025 bis 2027, prueft Auswirkungen auf Erloesbudget und Liquiditaet. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,14 +73,6 @@ Mit dem KHVVG wird die Krankenhausverguetung umgestellt: Statt fast vollstaendig
 - Pflegebudget in Vorhalteanteil hineinrechnen; Pflege bleibt separat.
 - LG-Verlust ohne Folgen modellieren; Vorhalte verschwindet mit LG.
 
-## Querverweise
-- `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
-- `leistungsgruppen-und-qualitaetskriterien-reformlogik`
-- `krankenhausreform-leistungsgruppen-routing`
-- `pflegebudget-vereinbarung-nachweis-risiken`
-- `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung`
-- `schiedsstellenverfahren-krankenhausentgelt`
-
 ## Quellen Stand 06/2026
 - KHEntgG i. d. F. KHVVG 12/2024.
 - KHG § 6a (LG-Anlage).
@@ -100,3 +88,4 @@ Konkret zu prüfen:
 - §§ 107-114 SGB V (Krankenhaus)
 - KHEntgG (Entgeltgesetz)
 - §§ 17a-17d KHG (DRG, Pflege, Investitionen)
+

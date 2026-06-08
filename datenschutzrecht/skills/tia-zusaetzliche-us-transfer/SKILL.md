@@ -5,9 +5,6 @@ description: "TIA Zusaetzliche US Transfer im Datenschutzrecht: prüft konkret Z
 
 # TIA Zusaetzliche US Transfer
 
-## Arbeitsbereich
-
-**TIA Zusaetzliche US Transfer** ordnet den Fall über die tragenden Prüfungslinien: Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach, US-Drittlandtransfer nach Art, Verzeichnis der Verarbeitungstätigkeiten nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "TIA Zusaetzliche US Transfer im Datenschutzrecht: prüft konkret Z
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung`
@@ -30,10 +28,6 @@ description: "TIA Zusaetzliche US Transfer im Datenschutzrecht: prüft konkret Z
 **Fokus:** Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung.
 
 ### Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap)
-
-## Zweck
-
-Dieser Skill behandelt Schritt 4 der EDPB-Sechs-Schritte-Roadmap: die Auswahl und Bewertung zusaetzlicher Schutzmassnahmen (supplementary measures), wenn das Schutzniveau im Drittland nicht von vornherein der Union "im Wesentlichen gleichwertig" ist. Grundlage ist insbesondere Annex 2 der EDPB-Empfehlung 01/2020 mit den Use Cases 1 bis 7.
 
 ## Wann dieses Modul hilft
 
@@ -118,13 +112,6 @@ Technischer Baustein:
 - Restrisiko nicht dokumentiert; Entscheider-Sign-off fehlt.
 - Warrant Canary versprochen, aber kein operatives Verfahren.
 
-## Querverweise
-
-- `tia-edpb-roadmap-6-schritte-deutsch` für Roadmap.
-- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Use Case.
-- `avv-tom-art-32-dsgvo-anlage` für TOMs.
-- `tia-template-deutsch-vollvorlage` für Vollvorlage.
-
 ## Quellen Stand 06/2026
 
 - EDPB Empfehlung 01/2020 Final 18.06.2021, insb. Annex 2 Use Cases.
@@ -133,14 +120,6 @@ Technischer Baustein:
 - DSGVO, Art. 25, 32.
 - BSI Technische Richtlinie TR-02102 (kryptografische Verfahren), aktueller Stand auf bsi.bund.de pruefen.
 - ENISA Guidelines for SMEs on the security of personal data processing (Dezember 2016) und Folgepapiere.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `us-transfer-tia-dokumentation`
 
@@ -271,14 +250,6 @@ Erzeuge auf Wunsch ein zusammenhängendes Paket:
 7. **Antwortbaustein für Aufsichtsbehörde**.
 8. **Wiedervorlage- und Monitoringplan**.
 
-## Qualitätsregeln
-
-- Keine erfundenen DPF-Listungen. Wenn nicht live geprüft, Ausgabe als `nicht verifiziert` kennzeichnen.
-- Keine pauschale Aussage "USA immer unzulässig" oder "DPF immer ausreichend".
-- Keine SCC umschreiben. Die offiziellen Klauseln unverändert verwenden; nur Modulwahl, Anlagen und Dokumentation vorbereiten.
-- Beschäftigtendaten und Mandats-/Berufsgeheimnisdaten gesondert markieren.
-- Bei KI-Diensten zusätzlich `mandantendaten-ki`, `ki-verordnung-compliance` oder `ki-vo-ai-act-pruefer` vorschlagen.
-
 ## Quellen und Aktualität
 
 - Stand: 05/2026.
@@ -293,10 +264,6 @@ Erzeuge auf Wunsch ein zusammenhängendes Paket:
 **Fokus:** Verzeichnis der Verarbeitungstätigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Prüfraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Massnahmen. Output: vollständiges VVT je Verarbeitungstätigkeit. Abgrenzung: nicht für Datenschutz-Folgenabschaetzung (dsfa-erstellung).
 
 ### VVT — Verzeichnis von Verarbeitungstätigkeiten
-
-## Zweck
-
-Art. 30 DSGVO Pflicht-Dokument für alle datenverarbeitenden Stellen ab Schwellenwerten. Dieses Skill bedient den Aufbau und die Aktualisierung des VVT.
 
 ## Eingaben
 
@@ -690,3 +657,4 @@ Rechtsgrundlage (Empfehlung): Art. [X] DSGVO [§ BDSG]
 ```
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

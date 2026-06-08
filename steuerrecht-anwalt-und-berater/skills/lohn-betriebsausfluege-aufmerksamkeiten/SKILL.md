@@ -87,12 +87,6 @@ Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines 
 - Pauschalierung § 37b EStG 30 Prozent (zzgl. SolZ und KiSt) durch AG moeglich; SV-Befreiung bei Pauschalierung im Anwendungsbereich des § 37b EStG (sofern "zusaetzlich zum Lohn") nach SvEV-Auslegung.
 - Sonst regulaer SV-pflichtig.
 
-## Output
-
-- Aufmerksamkeits-Dokumentation pro Anlass.
-- Lohn-Abrechnung nur bei Ueberschreitung.
-- Beleg im Lohnordner.
-
 ## Strategie und Praxis-Tipps
 
 - Aufmerksamkeiten sind nicht-versteuerter Bonus — generoes nutzen.
@@ -103,12 +97,6 @@ Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines 
 - StBVV: in Lohnpauschale; Gestaltungsberatung Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Aufmerksamkeits-Konto getrennt von Sachbezug.
 
-## Querverweise
-
-- `stb-lohn-sachbezuege-50-euro-freigrenze` — Sachbezug.
-- `stb-lohn-betriebsveranstaltung-110-euro-freibetrag` — Betriebsveranstaltung.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -117,10 +105,3 @@ Stand: 05/2026.
 - LStR R 19.6, R 19.7.
 - BMF v. 13.04.2021 (Gutscheine).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

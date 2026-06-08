@@ -5,10 +5,6 @@ description: "Standortmietvertrag im Franchiserecht absichern: Vermieterzustimmu
 
 # Franchiserecht: Standortmiete und Vermieterzustimmung
 
-## Arbeitsbereich
-
-Standortmietvertrag im Franchiserecht absichern: Vermieterzustimmung zur Untermiete oder Nutzungsüberlassung, Mietvertragslaufzeit passend zur Franchisevertragslaufzeit, Eintrittsrechte des Franchisegebers und Betriebspflichten im Mietrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisenehmer mietet einen Standort für seinen Franchisebetrieb. Der Fran
 - Betriebspflicht im Mietvertrag und Betriebsunterbrechung durch Franchise-Systemausfall erzeugen Konflikt.
 - Umbaukosten werden weder im Miet- noch im Franchisevertrag klar dem Franchisenehmer zugeordnet; Streit bei Vertragsende.
 
-## Output
-
-- Checkliste Miet-Franchise-Koordination (Laufzeit, Pflichten, Rechte)
-- Vertragsklausel für Eintrittsrecht des Franchisegebers
-- Muster-Zustimmungserklärung des Vermieters
-- Rückbaupflichtenplan
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/540.html
@@ -71,6 +60,7 @@ Ein Franchisenehmer mietet einen Standort für seinen Franchisebetrieb. Der Fran
 - https://dejure.org/gesetze/BGB/242.html
 - https://dejure.org/gesetze/BGB/280.html
 - https://gesetze-im-internet.de/bgb/__549.html
+
 ## Vertiefung
 
 Das Zusammenspiel von Mietvertrag und Franchisevertrag ist eine der häufigsten Konfliktquellen in der Praxis. Die Koordination beider Verträge ist essenziell: Wenn der Mietvertrag vor dem Franchisevertrag ausläuft, verliert der Franchisenehmer seinen Standort; wenn der Franchisevertrag vor dem Mietvertrag endet, ist der Franchisenehmer an einen Standort gebunden, den er nicht mehr nutzen darf.
@@ -84,7 +74,10 @@ Das Eintrittsrecht des Franchisegebers in den Mietvertrag bei Ausscheiden des Fr
 - Betriebspflichten im Mietvertrag auf Systemanforderungen abstimmen; Systemruhe oder Betriebsunterbrechungen klären.
 - Mietsicherheit und Bürgschaft des Franchisegebers: nur wenn vertraglich explizit vereinbart; keine ungeprüfte Bürgschaft.
 - Rückbaupflichten im Mietvertrag klar dem Mieter zuordnen; Franchisegeber haftet nicht für Umbauschäden des Franchisenehmers.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

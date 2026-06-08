@@ -5,10 +5,6 @@ description: "Influencer-Recht: Creator-Exit und Agenturwechsel – Vertragskün
 
 # Influencer-Recht: Creator-Exit und Agenturwechsel
 
-## Arbeitsbereich
-
-Influencer-Recht: Creator-Exit und Agenturwechsel – Vertragskündigung, Nachvertragliches Wettbewerbsverbot, Nutzungsrechte und Übergangsprobleme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,3 +77,4 @@ Ein Agenturwechsel ist oft rechtlich komplex – besonders bei Exklusivverträge
 - WBV-Prüfung und Unwirksamkeits-Einwand
 - Account-Zugang-Rückforderungs-Protokoll
 - Übergabeprotokoll laufende Brand-Deals
+

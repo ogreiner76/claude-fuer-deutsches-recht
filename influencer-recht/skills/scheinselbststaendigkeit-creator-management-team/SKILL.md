@@ -5,10 +5,6 @@ description: "Influencer-Recht: Scheinselbstständigkeit bei Creator und Managem
 
 # Influencer-Recht: Scheinselbstständigkeit – Creator und Management-Team
 
-## Arbeitsbereich
-
-Influencer-Recht: Scheinselbstständigkeit bei Creator und Management – Statusfeststellung, Sozialversicherungspflicht, Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,3 +71,4 @@ Enge Kooperationen zwischen Creator und Management/Brand können zur Scheinselbs
 - DRV-Anfrage-Muster (§ 7a SGB IV)
 - Vertragsneugestaltungs-Empfehlung
 - Haftungskalkulationstabelle (Nachzahlung)
+

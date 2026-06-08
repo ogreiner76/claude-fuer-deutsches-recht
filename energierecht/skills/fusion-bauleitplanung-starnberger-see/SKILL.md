@@ -5,10 +5,6 @@ description: "Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht
 
 # Fusion: Bauleitplanung am Starnberger See
 
-## Arbeitsbereich
-
-Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht, Seenschutz und Nachbarrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -32,12 +28,6 @@ BauGB, BayBO, Raumordnung, Naturschutz, Wasserrecht, Kommunalrecht.
 3. Sicherheits-, Umwelt-, Netz- und Verkehrsfragen getrennt dokumentieren.
 4. Konkrete Nachforderungen an Vorhabenträger und Behördenstrategie ausgeben.
 
-## Output
-
-- Regulierungslandkarte
-- Genehmigungsfahrplan
-- Risiko-/Kommunikationspapier
-
 ## Qualitätsgate
 
 - Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
@@ -47,3 +37,4 @@ BauGB, BayBO, Raumordnung, Naturschutz, Wasserrecht, Kommunalrecht.
 ## Spezielle Vorsicht
 
 Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen AtG/Strahlenschutz-/Fachrecht und Behördenmaterial live prüfen.
+

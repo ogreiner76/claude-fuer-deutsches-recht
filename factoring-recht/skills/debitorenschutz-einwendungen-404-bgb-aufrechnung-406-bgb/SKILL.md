@@ -105,13 +105,6 @@ Fragen zum Einstieg:
 - Reklamationsreserve zu niedrig kalkuliert.
 - Mangelnde Beweisdokumentation der Lieferung – Debitor kann unsubstantiierte Mängel einwerfen.
 
-## Querverweise
-
-- `b2b-lieferketten-forderungsbestand-und-reklamationsrisiko`
-- `abtretbarkeit-forderungen-398-bgb-und-abtretungsverbote`
-- `debitorenkommunikation-und-abtretungsanzeige`
-- `agb-kontrolle-factoringklauseln-b2b`
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 404, 405, 406, 407, 410.
@@ -119,3 +112,4 @@ Fragen zum Einstieg:
 - HGB § 377 zur Rügepflicht.
 - BGH zur Reichweite des § 406 BGB (st. Rspr., amtliche Sammlung).
 - BGB § 309 Nr. 3 zum Aufrechnungsverbot in AGB (B2C-Klauselverbot, im B2B Indizwirkung).
+

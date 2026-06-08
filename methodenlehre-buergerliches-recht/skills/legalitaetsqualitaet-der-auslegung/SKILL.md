@@ -11,10 +11,6 @@ description: "Prueft, ob eine zivilrechtliche Auslegung rechtsstaatlich tragfaeh
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Einsatz
-
-Anwendungsfall: eine Auslegung dogmatisch elegant wirkt, aber für Bürger, Unternehmen oder Verwaltung kaum noch vorhersehbar ist. Der Skill fragt nicht nur, ob ein Ergebnis vertretbar ist, sondern ob die Methode die Orientierungsfunktion des Rechts bewahrt.
-
 ## Prüfroutine
 
 1. **Normkern bestimmen:** Welche Vorschrift, Klausel oder Rechtsfigur soll ausgelegt werden?
@@ -50,12 +46,9 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Gib ein kurzes Qualitygate aus: `Methode`, `Adressatenklarheit`, `Vertrauensschutz`, `Systemkongruenz`, `Risiko`, `bessere Formulierung`.
-
 ## Quellen- und Zitierdisziplin
 
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
 - Bei nicht geprüften Rechtsprechungslinien ausdrücklich Live-Check markieren.
+

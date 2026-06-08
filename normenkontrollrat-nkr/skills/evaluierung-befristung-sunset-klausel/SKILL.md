@@ -109,14 +109,6 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 - Indikatoren fehlen
 - Frist ohne Bezug zu Investitionszyklen
 
-## Querverweise
-
-- `nkr-evaluation-und-jahresbericht`
-- `nkr-stellungnahme-evaluationsklausel-vorschlag`
-- `nkr-one-in-one-out-bilanz-und-buchung`
-- `nkr-praktikabilitaet-vollzug-test`
-- `legistik-werkstatt/inkrafttreten-uebergangsrecht`
-
 ## Quellen Stand 06/2026
 
 - § 44 GGO
@@ -126,3 +118,4 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 - Handbuch der Rechtsfoermlichkeit Teil C
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

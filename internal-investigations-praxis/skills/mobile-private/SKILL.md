@@ -5,10 +5,6 @@ description: "Sichert und wertet Mobile Devices (Smartphones, Tablets) forensisc
 
 # Mobile-Device-Forensik in Internal Investigations
 
-## Arbeitsbereich
-
-Sichert und wertet Mobile Devices (Smartphones, Tablets) forensisch aus – MDM, Passwortzugriff, BYOD-Grenzen, DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -68,15 +64,6 @@ Dieser Skill stellt sicher, dass Mobile-Device-Daten rechtssicher gesichert werd
 - Chain-of-Custody-Protokoll.
 - Welche Daten wurden extrahiert, welche nicht (z. B. private Apps ausgeschlossen)?
 
-## Red-Team-Fragen
-
-- Wurde zwischen Unternehmensgerät und BYOD-Gerät rechtssicher unterschieden?
-- Haben IT-Administratoren MDM-Backups ohne vorherige Betriebsrats-Zustimmung abgerufen?
-- Wurden private Daten auf Unternehmensgeräten gefiltert, bevor der Forensiker ausgewertet hat?
-- Ist der Passwortzugriff dokumentiert und auf zulässige Methoden beschränkt?
-- Gibt es Hinweise auf Daten in Cloud-Backups, die nicht im Gerät-Image vorhanden sind?
-- Sind Hash-Werte dokumentiert und stimmen sie mit den Originaldaten überein?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -96,3 +83,4 @@ Dieser Skill stellt sicher, dass Mobile-Device-Daten rechtssicher gesichert werd
 - **DSGVO-Filterkonzept** für private Daten auf Unternehmensgeräten
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

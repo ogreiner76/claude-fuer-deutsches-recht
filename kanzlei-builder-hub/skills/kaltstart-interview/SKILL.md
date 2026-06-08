@@ -34,13 +34,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab erstem Mandatstag und erfordern strukturierte Kanzleiorganisation
 - § 203 StGB — Verletzung von Privatgeheimnissen: KI-Skills muessen mandatsgeheimnis-konform konfiguriert sein
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Das Interview fragt, was für eine Kanzlei oder Rechtsabteilung betrieben wird, und empfiehlt ein Starter-Paket passender Community-Skills. Kurz und direkt: Fünf Fragen, eine Empfehlung, fertig.
-
 ## Eingaben
 
 - Kanzleityp, Rechtsgebiet(e), Teamgröße, technische Vertrautheit
@@ -180,10 +173,6 @@ Einschlägige Normen für Datenschutz im Kanzleibetrieb:
 
 Zitierweise nach `../references/zitierweise.md`.
 
-## Ausgabeformat
-
-Nach dem Interview: Strukturiertes Kanzleiprofil in CLAUDE.md + installierte Skills-Liste + Empfehlungsbegründung. Keine langen Prosa-Absätze — kurze, actionable Abschnitte.
-
 ## Beispiel
 
 ```
@@ -204,3 +193,4 @@ Kanzleiprofil erstellt am 2025-01-15:
 - **Falsche Deployment-Kontext-Angabe:** Kanzlei-intern erfordert AVV mit KI-Infrastrukturanbieter (Art. 28 DSGVO).
 - **TOM-Vergessen:** KI-Skills in der Kanzlei erfordern TOM-Prüfung vor dem Einsatz — dieser Schritt darf nicht übersprungen werden.
 - **Praxisprofil zu generisch:** Ein generisches Profil ergibt generische Empfehlungen.
+

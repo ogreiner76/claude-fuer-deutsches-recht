@@ -25,15 +25,6 @@ Der urheberrechtliche Status von KI-generierten Inhalten und die Frage, welche T
 
 § 2 Abs. 2 UrhG: Urheberrechtlicher Schutz nur für "persönliche geistige Schöpfungen" — rein maschinell erzeugter Output von KI-Systemen genießt in der Regel keinen urheberrechtlichen Schutz. § 5 UrhG: Amtliche Werke (Gesetze, Verordnungen, gerichtliche Entscheidungen) sind gemeinfrei und dürfen ohne Einschränkung genutzt werden. §§ 44a ff. UrhG: Urheberrechtsschranken (Privatkopie, wissenschaftliche Nutzung, Text- und Data-Mining nach § 44b UrhG). § 87a UrhG: Datenbankherstellerschutz für proprietäre Rechtsdatenbanken wie amtliche/freie Quellen oder lizenzierte Datenbanken. § 31 UrhG: Nutzungsrechtsübertragung — maßgeblich für Lizenzbedingungen der Datenbankanbieter.
 
-## Vorgehen
-
-1. **Status des KI-Outputs bestimmen**: KI-generierter Text ohne menschlichen Schöpfungsanteil ist urheberrechtlich nicht geschützt. Erst bei maßgeblichem menschlichen Schöpfungsbeitrag (qualifizierter Prompt mit Schöpfungshöhe + inhaltliche Bearbeitung) entsteht ein Schutzrecht.
-2. **Upload urheberrechtlich geschützter Texte prüfen**: Juristische Aufsätze, Kommentare, Fachbuchkapitel dürfen nur hochgeladen werden, wenn eine Nutzungslizenz vorliegt.
-3. **Amtliche Werke nutzen**: Gerichtsentscheidungen von offiziellen Gerichts-Websites und Gesetzestexte sind gemeinfrei nach § 5 UrhG — Upload unkritisch.
-4. **Vorsicht bei Datenbankimporten**: Aus amtliche/freie Quellen oder lizenzierte Datenbanken entnommene Texte können Datenbankschutz (§ 87b UrhG) und zusätzliche Lizenzklauseln der Anbieter auslösen; AGB der Datenbanken prüfen.
-5. **Anonymisierung bei Urteilen beachten**: Auch gemeinfreie Urteile enthalten ggf. personenbezogene Daten; auf ordnungsgemäße Pseudonymisierung achten.
-6. **Trainingsklauseln des Anbieters prüfen**: Viele KI-Anbieter nutzen hochgeladene Dokumente zum Training ihrer Modelle; Opt-out-Optionen vertraglich absichern (vgl. Skill `dienstleister-due-diligence`).
-
 ## Vorlagentext / Bausteine
 
 **Baustein Urheberrecht KI-Output:**
@@ -88,3 +79,4 @@ wurde und die Nutzung dem Zweck des § 44b UrhG entspricht.
 (4) Haftung: Bei Verdacht auf Urheberrechtsverletzung durch KI-Output ist
 unverzueglich [ANSPRECHPARTNER] zu informieren.
 ```
+

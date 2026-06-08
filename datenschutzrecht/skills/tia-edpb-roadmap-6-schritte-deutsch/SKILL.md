@@ -5,10 +5,6 @@ description: "EDPB-Empfehlung 01/2020 als operative Sechs-Schritte-Roadmap für 
 
 # Sechs-Schritte-Roadmap für das Transfer Impact Assessment (EDPB 01/2020)
 
-## Zweck
-
-Dieser Skill arbeitet die Sechs-Schritte-Roadmap aus der EDPB-Empfehlung 01/2020 (Final Version 18.06.2021) als operative Pruefkette ab. Sie ist die Standard-Architektur für das deutsche TIA-Dokument.
-
 ## Wann dieses Modul hilft
 
 - Erstes TIA-Dokument für einen konkreten Transfer.
@@ -153,15 +149,6 @@ Kapitelueberschriften für das TIA-Dokument:
 - Schritt 6: kein Review-Termin.
 - TIA wird gemacht, aber nicht zur Akte genommen.
 
-## Querverweise
-
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` für rechtliche Grundlage.
-- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Spezifik.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Schritt 4.
-- `tia-laender-bewertung-china-india-brazil-uk` für weitere Länder.
-- `tia-template-deutsch-vollvorlage` für das Vollvorlage-Dokument.
-- `tia-en-six-step-roadmap` für englische Fassung.
-
 ## Quellen Stand 06/2026
 
 - EuGH C-311/18 vom 16.07.2020 (Schrems II).
@@ -171,10 +158,3 @@ Kapitelueberschriften für das TIA-Dokument:
 - Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023 (EU-US DPF).
 - Art. 44–49 DSGVO.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

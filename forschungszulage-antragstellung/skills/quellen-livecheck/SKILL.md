@@ -9,7 +9,6 @@ description: "Quellen-Live-Check für Forschungszulage FZulG: prüft Normen (FZu
 
 Dieser Quellen-Livecheck für **Forschungszulage Antragstellung** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abgrenzung-adaptiver-antrag` — Abgrenzung Adaptiver Antrag
@@ -41,7 +40,6 @@ Arbeitsfokus: **Rechtsquellen-Livecheck**. Prüfe diese Anker am Sachverhalt; er
 - `§ 10 FZulG` — Festsetzung/Auszahlung.
 - `§ 90 Abs. 1 AO` — Mitwirkung und Belege.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
@@ -52,12 +50,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Dynamische Bereiche im Forschungszulage Antragstellung (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
 - Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
-## Output
-
-Quellenkarte mit Primärnormen, Rechtsprechungssuche (Gericht/Datum/Az/Rn), Behördenstand und Zitierform nach `references/zitierweise.md`.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

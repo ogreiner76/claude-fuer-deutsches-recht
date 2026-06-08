@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zu lit. a Verschlüsselungsstandards und li
 
 Art. 34 Abs. 3 lit. a-c; Art. 5 Abs. 2 DSGVO; Erwägungsgrund 86.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Ausnahmenprüfung
 
 lit. a: Verschlüsselung nachweisen — Algorithmus, Schlüsselverwaltung, Stand der Technik (BSI-Empfehlungen). Reasoning vor Conclusion.
@@ -52,3 +48,4 @@ Beweislast: liegt beim Verantwortlichen — schriftlich dokumentieren mit Datum 
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-pressemitteilung-krisenkommunikation` deckt die öffentliche Bekanntmachung ab.
+

@@ -5,10 +5,6 @@ description: "Glaeubiger will Bodenabfertigungs-Equipment oder Entgelt-Forderung
 
 # Bodenabfertigung – Pfändung planen
 
-## Arbeitsbereich
-
-Glaeubiger will Bodenabfertigungs-Equipment oder Entgelt-Forderungen pfaenden. Prueft ZPO § 808 Mobiliarpfaendung ZPO §§ 828 ff. Forderungspfaendung InsO-Vollstreckungssperre und liefert Pfaendungsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,6 +44,7 @@ ZPO §§ 808 828 ff. InsO §§ 89 47 BGB § 320 – die einschlägigen Normen we
 - **BADV § 16**: Auswahlverfahren bei Kapazitätsbeschränkung; Vergabekommission.
 - **EU-Richtlinie 96/67/EG Art. 6**: Marktöffnung für Bodenabfertigungsdienste.
 - **LuftVG § 45**: Haftung bei Bodenabfertigungsschäden; Verweis auf allg. Deliktsrecht.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -58,6 +55,7 @@ ZPO §§ 808 828 ff. InsO §§ 89 47 BGB § 320 – die einschlägigen Normen we
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Genehmigung nach BADV § 3 aktuell und umfasst die tatsächlich erbrachten Dienste?
 8. Hat Flughafen Kapazitätsbeschränkung nach BADV § 16 rechtmäßig festgesetzt?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -76,9 +74,6 @@ Die Pfändung eines Luftfahrzeugs erfordert besondere Vorbereitung:
 - **Betriebsunterbrechung**: Pfändung eines Linienflugzeugs löst Betriebsunterbrechung aus; Schadensersatz bei unberechtigtem Arrest.
 - **Cape Town Priorität**: Vor Pfändung ICAO-Register prüfen; vorrangige Sicherungsinteressen können Arrest verhindern.
 
-## Output
-
-Strukturierter Vermerk zu Bodenabfertigung – Pfändung planen mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. BADV-Compliance-Checkliste. Vergabeverfahrens-Protokoll. Selbstabfertigungs-Antrag.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -107,3 +102,4 @@ Für Mandate im Bereich Bodenabfertigungsdienste und Selbstabfertigungsrecht sin
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

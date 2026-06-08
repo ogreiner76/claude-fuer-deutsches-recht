@@ -20,13 +20,6 @@ description: "Steuert Output und Versand für Schriftsatz Brief E-Mail Fax beA S
 - § 43 BRAO — Sorgfaltspflicht: umfasst Pruefung vor Ausgang
 - § 31a BRAO — beA-Nutzungspflicht: persönlicher Versand durch Inhaber
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill führt vom Entwurf zum kontrollierten Ausgang. Er versendet nicht still. Jeder Versand braucht eine ausdrückliche Einzelentscheidung.
-
 ## Output-Kanäle
 
 - beA.
@@ -85,3 +78,4 @@ Messenger nur für geeignete Inhalte nutzen. Bei Fristen, vertraulichen Dokument
 ## Ausgabe
 
 `assets/templates/output-versandprotokoll.md` verwenden.
+

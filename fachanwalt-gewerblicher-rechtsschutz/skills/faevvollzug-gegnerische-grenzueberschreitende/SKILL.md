@@ -5,9 +5,6 @@ description: "Faevvollzug Gegnerische Grenzueberschreitende im Plugin Fachanwalt
 
 # Faevvollzug Gegnerische Grenzueberschreitende
 
-## Arbeitsbereich
-
-**Faevvollzug Gegnerische Grenzueberschreitende** ordnet den Fall über die tragenden Prüfungslinien: Gegnerische Schutzschrift auswerten, Grenzüberschreitende IP-Eilmaßnahmen, Qualitätsgate vor EV-Vollziehung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Faevvollzug Gegnerische Grenzueberschreitende im Plugin Fachanwalt
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten`
@@ -30,9 +28,6 @@ description: "Faevvollzug Gegnerische Grenzueberschreitende im Plugin Fachanwalt
 **Fokus:** Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz. Zentrales Schutzschriftenregister (ZSSR), Widerspruch, Abschlussschreiben, Antwortstrategien.
 
 ### Gegnerische Schutzschrift auswerten
-
-## Aufgabe
-Dieser Skill hilft beim Auswerten einer Schutzschrift der Gegenseite vor oder nach Erlass einer einstweiligen Verfügung: Argumente identifizieren, Schwächen benennen, Reaktionsstrategie entwickeln.
 
 ## Rechtsrahmen
 
@@ -116,13 +111,6 @@ ggf. mündliche Verhandlung nach Widerspruch (§ 925 ZPO) vorbereiten
 - `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist` – Abschlussschreiben nach EV.
 - `spezial-verfuegung-beweislast-und-darlegungslast` – Beweisführung.
 
-## Quellenregel
-- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
-- ZSSR: [zssr.de](https://www.zssr.de).
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine inhaltliche Bewertung ohne vollständige Schutzschrift.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -132,9 +120,6 @@ ggf. mündliche Verhandlung nach Widerspruch (§ 925 ZPO) vorbereiten
 **Fokus:** Grenzüberschreitende IP-Eilmaßnahmen: Internationale Zuständigkeit EuGVVO, fliegender Gerichtsstand, Unionsmarke und Gemeinschaftsgeschmacksmuster-Gerichte, UPC (Einheitspatent), Cross-border-Injunctions, WIPO-UDRP, Vollstreckung im EU-Ausland.
 
 ### Grenzüberschreitende IP-Eilverfügung
-
-## Aufgabe
-Dieser Skill behandelt einstweilige Verfügungen mit grenzüberschreitendem Bezug im gewerblichen Rechtsschutz: internationale Zuständigkeit, anwendbares Recht, Unionsschutzrechte und grenzüberschreitende Vollstreckung.
 
 ## Rechtsrahmen
 
@@ -210,14 +195,6 @@ Dieser Skill behandelt einstweilige Verfügungen mit grenzüberschreitendem Bezu
 - `spezial-euipo-internationaler-bezug-und-schnittstellen` – EUIPO-Schnittstellen.
 - `gr-uebersetzung-marke-osterreich-schweiz-spezial` – AT/CH-Schutzrechtsfragen.
 
-## Quellenregel
-- EuGVVO, UMV, GGV: [eur-lex.europa.eu](https://eur-lex.europa.eu).
-- UPC: [unified-patent-court.org](https://www.unified-patent-court.org).
-- WIPO UDRP: [wipo.int/amc/en/domains](https://www.wipo.int/amc/en/domains/).
-- Rechtsprechung: [curia.europa.eu](https://curia.europa.eu), [dejure.org](https://dejure.org).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine länderspezifische Rechtsberatung außerhalb Deutschlands/EU ohne lokale Quellenverifizierung.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -227,9 +204,6 @@ Dieser Skill behandelt einstweilige Verfügungen mit grenzüberschreitendem Bezu
 **Fokus:** Qualitätsgate vor EV-Vollziehung: Letzter Check vor Zustellung der einstweiligen Verfügung. Titel, Dringlichkeit, Zustellungsweg, Schutzschrift, Kosten-Nutzen, Red-Team-Fragen, Rücknahmeoptionen im gewerblichen Rechtsschutz.
 
 ### Qualitätsgate vor EV-Vollziehung
-
-## Aufgabe
-Dieser Skill ist der letzte Qualitätscheck vor der Vollziehung einer einstweiligen Verfügung: Vollständigkeit des Titels, Dringlichkeit, Zustellungsweg, Red-Team-Analyse, Kostenrisiken und Rücknahmeoptionen.
 
 ## Warum dieses Qualitätsgate?
 
@@ -315,13 +289,7 @@ Alle MUSS-Punkte erfüllt?
 - `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten` – Schutzschrift-Analyse.
 - `workflow-redteam-qualitygate` – Übergreifendes Red-Team-Gate.
 
-## Quellenregel
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- ZSSR: [zssr.de](https://www.zssr.de).
-- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige anwaltliche Prüfung.
 - Keine Garantie gegen § 945 ZPO-Haftung (einzelfallabhängig).
+

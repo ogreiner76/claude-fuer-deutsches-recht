@@ -18,10 +18,6 @@ description: "Red-Team für spontane Ordnung, Gewohnheit, Branchenuebung und Cus
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill prüft, wann Gewohnheit, Branchenübung, Handelsbrauch, Verkehrssitte, Plattformpraxis oder informelle Ordnung rechtlich hilfreich ist und wann sie gefährlich wird. Er verbindet den Informationswert gewachsener Praxis mit einem harten Red-Team gegen schlechte, träge oder schädliche Gewohnheiten.
-
 ## Sofort klären
 
 1. Welche Praxis wird als `üblich`, `bewährt`, `marktüblich`, `branchenkonform`, `traditionell` oder `spontan entstanden` behauptet?
@@ -69,18 +65,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Erstelle eine Custom-Prüfung:
-
-| Element | Befund |
-| --- | --- |
-| behauptete Praxis | ... |
-| Informationswert | ... |
-| Erwartungsschutz | ... |
-| Dritt- und Externalitätenrisiko | ... |
-| Macht-/Kartell-/Diskriminierungsrisiko | ... |
-| rechtlicher Status | bindend / Indiz / Kontext / unbeachtlich |
-| Ergebnis | ... |
-
-Schließe mit einer bereinigten Formulierung, die den Praxiswert nutzt, aber keine schlechte Gewohnheit verrechtlicht.

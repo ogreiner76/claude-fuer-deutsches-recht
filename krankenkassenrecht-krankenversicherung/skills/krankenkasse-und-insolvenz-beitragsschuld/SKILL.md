@@ -5,10 +5,6 @@ description: "Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolven
 
 # Krankenkasse und Insolvenz: Beitragsschuld
 
-## Arbeitsbereich
-
-Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolvenzforderungen, Masseverbindlichkeiten, Restschuldbefreiung und Verhalten der Kasse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Beitragsschulden bei der Krankenversicherung können erheblich sein. In der Inso
 - [BSG B 12 KR 26/09 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 286 InsO](https://dejure.org/gesetze/InsO/286.html)
 - [§ 302 InsO – Ausnahmen](https://www.gesetze-im-internet.de/inso/__302.html)
+

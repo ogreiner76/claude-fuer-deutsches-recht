@@ -5,10 +5,6 @@ description: "HOAI-Fachfrage: Honorarzone, Bewertungsmerkmale, Objektliste, Punk
 
 # Honorarzone, Bewertungspunkte Und Objektliste
 
-## Arbeitsbereich
-
-HOAI-Fachfrage: Honorarzone, Bewertungsmerkmale, Objektliste, Punktbewertung und Einordnung nach § 5, § 35 HOAI und Anlage 10 sauber begründen und gegen Über-/Unterzonung prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ HOAI-Fachfrage: Honorarzone, Bewertungsmerkmale, Objektliste, Punktbewertung und
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Anwendungsfall: die Honorarzone streitig ist oder ein Projekt fälschlich als "durchschnittlich" durchgewinkt wird. Besonders wichtig bei Schulen, Kitas, Kliniken, Laboren, Denkmälern, Innenräumen und hochinstallierten Gebäuden.
 
 ## Normanker
 
@@ -34,6 +26,3 @@ Anwendungsfall: die Honorarzone streitig ist oder ein Projekt fälschlich als "d
 4. Punktbewertung plausibilisieren.
 5. Gegenposition formulieren: Warum nicht eine Zone niedriger/höher?
 
-## Output
-
-Erstelle eine Honorarzonen-Notiz mit Punktetabelle, Belegen, abweichenden Einordnungen und einem kurzen Text, der in Honorarverhandlung oder Gutachten übernommen werden kann.

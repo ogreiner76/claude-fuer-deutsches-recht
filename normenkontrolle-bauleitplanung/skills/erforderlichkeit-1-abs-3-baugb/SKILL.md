@@ -5,10 +5,6 @@ description: "Prüfungslinie für erforderlichkeit 1 abs 3 baugb im Normenkontro
 
 # Erforderlichkeit § 1 Abs. 3 BauGB
 
-## Zweck
-
-Die Erforderlichkeit ist die strengste materielle Hürde und kein Abwägungselement. Wer hier punktet, bringt den Plan ohne Detail-Diskussion zu Fall. Stets beachtlich, nicht rügepflichtig.
-
 ## Schritt 1 — Wortlaut und Bedeutung
 
 ### § 1 Abs. 3 S. 1 BauGB
@@ -148,6 +144,3 @@ Die Erforderlichkeit ist die strengste materielle Hürde und kein Abwägungselem
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

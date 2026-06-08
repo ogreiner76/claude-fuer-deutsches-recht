@@ -59,10 +59,6 @@ description: "Zentraler Referenzkatalog aller Standardformulierungen im deutsche
 
 **Beispiel 3 – Gemischtes Zeugnis:** Leistungsformulierungen grün, Verhaltensformulierungen orange → Gesamtnote Note 2-3 mit Anmerkung zur sozialen Komponente.
 
-## Ausgabeformat
-
-Der Skill liefert bei Eingabe eines Zeugnis-Auszugs eine vollständige Tabelle aller erkannten Formulierungen mit Ampelfarbe und Notentendenz. Er kann auch im Nachschlagemodus betrieben werden: Eingabe einer konkreten Formulierung → Ausgabe der Ampelzuordnung.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Wohlwollensgebot; auch wahre kodierte Aussagen sind berichtigungspflichtig, wenn sie Fortkommen unnötig erschweren
@@ -72,6 +68,3 @@ Der Skill liefert bei Eingabe eines Zeugnis-Auszugs eine vollständige Tabelle a
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

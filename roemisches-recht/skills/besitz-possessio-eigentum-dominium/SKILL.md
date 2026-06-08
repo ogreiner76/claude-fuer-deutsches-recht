@@ -5,10 +5,6 @@ description: "Römisches Recht: Besitz (possessio) - corpus und animus nach D. 4
 
 # Besitz (possessio) - Grundlagen
 
-## Arbeitsbereich
-
-Römisches Recht: Besitz (possessio) - corpus und animus nach D. 41.2 (Ulpian, Paulus), possessio civilis vs. naturalis, Interdiktsschutz (uti possidetis, utrubi) und Verhältnis zu dominium. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -54,13 +50,3 @@ Possessio ist die tatsächliche Sachherrschaft mit Besitzwillen. Klassisch erfor
 - Savigny Das Recht des Besitzes (1803) als Grundlagenwerk (archive.org)
 - Kaser RP I §§ 98-108; Jhering Über den Grund des Besitzschutzes
 
-## Output
-
-- Schema: Besitzerwerb, -erhaltung und -verlust
-- Vergleichstabelle: possessio civilis vs. naturalis vs. detentio
-- Kurzdarstellung der Interdikte mit Formelrekonstruktion
-- Vergleich: röm. Besitzrecht vs. BGB §§ 854ff.
-
-## Quellenregel
-
-D. 41.2; D. 43 (Mommsen-Krüger). Iust. Inst. 4.15. Savigny 1803 (archive.org). Kaser RP I §§ 98-108.

@@ -5,10 +5,6 @@ description: "Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2
 
 # Alleinvertreter und Bezirksprovision nach § 87 Abs. 2 HGB
 
-## Arbeitsbereich
-
-Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Key-Account-Ausnahmen nicht ausdrücklich vereinbart — Unternehmer kann Direktgeschäfte nicht rechtfertigen.
 - Bezirksprovision nach § 87 Abs. 2 HGB mit allgemeiner Provision verwechselt.
 - Beweislast für Direktabschlüsse liegt beim Handelsvertreter — Dokumentation erforderlich.
-
-## Output
-
-Bezirksprovisionsberechnung, Abmahnungsschreiben bei Verletzung der Alleinvertretungsabrede, Klageschriftentwurf.
 
 ## Hintergrund und Kontext
 

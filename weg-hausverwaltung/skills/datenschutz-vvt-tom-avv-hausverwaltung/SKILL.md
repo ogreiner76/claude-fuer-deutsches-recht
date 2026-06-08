@@ -53,13 +53,6 @@ Norm Art. 32 DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A
 
 EuGH, Urteil vom 14.12.2023, C-340/21 (Bulgarische NRA-Hack): Schon die unbefugte Offenlegung oder der unbefugte Zugang begründet Haftung, ohne dass materieller Schaden bewiesen werden muss; immaterieller Schaden (Kontrollverlust über Daten) genügt. Für Hausverwaltungen bedeutet dies: Gestohlener Laptop ohne Verschlüsselung = Schadenersatzpflicht gegenüber betroffenen Eigentümern. Urteil: https://curia.europa.eu/juris/document/document.jsf?docid=280325&doclang=DE
 
-## Output
-
-- VVT-Muster als tabellarisches Gerüst (Excel-Spalten: Tätigkeit, Daten, Zweck, Rechtsgrundlage, Löschfrist, Verantwortlicher, Auftragsverarbeiter)
-- AVV-Vorlagen-Checkliste (Mindestinhalte Art. 28 Abs. 3 lit. a-h)
-- TOM-Audit-Checkliste (20 Prüfpunkte mit Ja/Nein/Teilweise)
-- Bestandsaufnahme-Bogen für neues Mandat (Datenschutz-Erstprüfung)
-
 ## Cross-Refs
 
 - Dokumentenfreigabe und Einsichtsrechte → `datenschutz-dokumentenfreigabe`
@@ -70,3 +63,4 @@ EuGH, Urteil vom 14.12.2023, C-340/21 (Bulgarische NRA-Hack): Schon die unbefugt
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. DSGVO-Texte über https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679 live verifizieren. BDSG über https://www.gesetze-im-internet.de/bdsg_2018/ abrufen. DSK-Orientierungshilfen unter https://www.datenschutzkonferenz-online.de prüfen — Fassungen ändern sich.
+

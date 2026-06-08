@@ -5,10 +5,6 @@ description: "Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen: ernst
 
 # Rechtserhaltende Benutzung
 
-## Arbeitsbereich
-
-Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen: ernsthafte Benutzung, Zeitraum, Gebiet, Waren/Dienstleistungen, Benutzungsunterlagen, Widerspruchseinrede, Verfallsrisiko und Belegpaket. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen: ernsthafte Benutzun
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Prüfe, ob eine Marke im relevanten Zeitraum ernsthaft benutzt wurde und ob die Benutzung für Widerspruch, Verletzungsklage oder Verteidigung ausreicht.
 
 ## Pflichtfragen
 
@@ -42,13 +34,7 @@ Prüfe, ob eine Marke im relevanten Zeitraum ernsthaft benutzt wurde und ob die 
 5. **Gebietsbezug prüfen:** Deutschland, EU oder jeweiliger Schutzstaat; Unionsmarke nicht mechanisch wie nationale Marke behandeln.
 6. **Belege paketieren:** Rechnungen, Kataloge, Screenshots, Webarchive, Social Media, Presse, Verpackung, Fotos, Marketingpläne.
 
-## Output
-
-- Benutzungsampel pro Ware/Dienstleistung.
-- Belegmatrix mit Beweiswert.
-- Verfallsrisiko und Verteidigungslinie.
-- Nachforderungsbrief an Mandantin.
-
 ## Warnung
 
 Keine Umsatz- oder Marktanteilsschwellen erfinden. Bewertung hängt von Branche, Produkt, Gebiet und Verfahren ab.
+

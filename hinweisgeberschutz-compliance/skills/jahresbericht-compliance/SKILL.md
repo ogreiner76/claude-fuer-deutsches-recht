@@ -5,10 +5,6 @@ description: "Erstellt Jahresbericht ohne Identitätsrisiko im Hinweisgeberschut
 
 # Jahresbericht Compliance
 
-## Arbeitsbereich
-
-Erstellt Jahresbericht ohne Identitätsrisiko. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Jahresbericht. Wenn der Nutzer nur eine Kurzantwort möchte, 
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

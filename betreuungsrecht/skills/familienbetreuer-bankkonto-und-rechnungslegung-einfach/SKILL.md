@@ -5,10 +5,6 @@ description: "Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und
 
 # Familienbetreuer: Bankkonto und einfache Rechnungslegung
 
-## Arbeitsbereich
-
-Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und einfache Rechnungslegung für ehrenamtliche/familiäre Betreuer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Konten, Bargeld, Daueraufträge, Vermögensverzeichnis, Belege und einfache Rech
 - Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Für Familienbetreuer, die Geld verwalten, ohne Buchhalter zu sein.
 
 ## Normenanker
 
@@ -36,18 +28,7 @@ Arbeitsfokus: **Familienbetreuer: Bankkonto und einfache Rechnungslegung**. Prü
 - `§ 292 FamFG` — Rechnungslegung und gerichtliche Kontrolle.
 - `§ 299 FamFG` — Akteneinsicht.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsfragen
-
-1. Welche Konten und Vollmachten existieren?
-2. Welche Ausgaben sind Betreutenwunsch/Bedarf?
-3. Welche Belege müssen monatlich gesichert werden?
-
-## Output
-
-Kontenplan, Belegschema, Monatsübersicht und Berichtsvorlage.
 
 ## Red Flags
 
@@ -58,3 +39,4 @@ Kontenplan, Belegschema, Monatsübersicht und Berichtsvorlage.
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

@@ -26,9 +26,6 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 - § 241 Abs. 2 BGB — Rücksichtnahmepflichten im Schuldverhaeltnis (auch bei Kommunikation)
 - § 5 UWG — Irrefuehrung durch unwahre Angaben in geschaeftlicher Kommunikation
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Ueberarbeitete Korrespondenz
 
 **Adressat:** [NAME / FUNKTION] — **Tonfall:** [sachlich-hoeflich / foermlich / kollegial]
@@ -81,8 +78,3 @@ Für allgemeine Korrespondenz ohne Berufsrechtsbezug gelten keine spezifischen b
 **Vorher:** "Warum antwortet hier niemand??"
 **Nachher:** "Bislang habe ich auf meine E-Mail vom TT.MM.JJJJ keine Rückmeldung erhalten und bitte höflich um Nachricht."
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Überarbeiteter Text in sachlich-höflichem Stil. (2) Erläuterung der wichtigsten Änderungen. (3) Hinweis auf Stilkonsistenz.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

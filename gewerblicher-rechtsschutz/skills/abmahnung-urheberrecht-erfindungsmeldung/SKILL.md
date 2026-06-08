@@ -93,6 +93,7 @@ möchte eigene Werke schützen; Streit über Höhe der Abmahnkosten und des Scha
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Für den Abmahnenden (Rechteinhaber)
@@ -144,15 +145,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 5. **Verjährung beachten** – § 102 UrhG i. V. m. §§ 195, 199 BGB: 3-Jahres-
  Regelverjährung; Beginn mit Kenntnis (§ 199 Abs. 1 BGB); 10-Jahres-Maximal-
  frist ab Verletzungshandlung (§ 199 Abs. 3 Nr. 1 BGB).
-
-## Ausgabeformat
-
-- **Abmahnschreiben** (Schriftsatz): Adressat, Verletzungshandlung, gerügte Normen,
- Aufforderung zur Unterlassungserklärung und Kostenzahlung, Frist.
-- **Modifizierte Unterlassungserklärung** (Muster): Formulierung ohne Schuldanerkenntnis;
- Vertragsstrafe; Beschränkung auf konkrete Verletzungsart.
-- **Verteidigungsmemo** (Gutachtenstil): Deckelungsprüfung § 97a Abs. 3 UrhG →
- Rechteinhaberschaft → Verletzungshandlung → sekundäre Darlegungslast.
 
 ## Beispiel
 

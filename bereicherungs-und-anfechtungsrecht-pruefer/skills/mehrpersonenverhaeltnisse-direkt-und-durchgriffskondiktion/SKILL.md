@@ -5,10 +5,6 @@ description: "Bereicherungsausgleich in Mehrpersonenverhältnissen prüfen: Leis
 
 # Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion
 
-## Arbeitsbereich
-
-Bereicherungsausgleich in Mehrpersonenverhältnissen prüfen: Leistungskarte, Anweisung, Deckungs- und Valutaverhältnis, Doppelmangel, Drittleistung, Insolvenzrisiko und Direktkondiktion. Output: Anspruchspriorisierungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -39,9 +35,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grundsatz: Keine Durchgriffskondiktion im Anweisungsfall
 
 Im Leistungsdreieck (A schuldet B, B schuldet C, A zahlt auf Anweisung des B direkt an C):
@@ -162,3 +155,4 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+

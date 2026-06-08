@@ -5,10 +5,6 @@ description: "Skill zur politischen Maessigungspflicht nach § 60 BBG bzw. § 33
 
 # Politische Maessigungspflicht § 60 BBG
 
-## Arbeitsbereich
-
-Skill zur politischen Maessigungspflicht nach § 60 BBG bzw. § 33 BeamtStG. Klaert die Pflicht zur Maessigung und Zurueckhaltung im politischen Bereich die Reichweite bei privater Aeusserung in sozialen Medien die Grenze zur Verfassungstreue und das Verhaeltnis zur Meinungs- und Wissenschaftsfreiheit. Behandelt typische Konstellationen Twitter-Aeusserung kommunalpolitisches Engagement Lehrerinnen und Lehrer in der Klassendiskussion sowie Wahlkampfauftritte. Liefert Pruefraster und Verteidigungsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -67,3 +63,4 @@ Skill für Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird 
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Studiendirektor postet politische Kommentare zu Migrationsfragen auf Twitter unter Realname und mit Hinweis auf Schulort. Skill liefert Pruefraster Statusbezug, Meinungsfreiheit und Verhaeltnismaessigkeit moeglicher Disziplinarmassnahmen.
+

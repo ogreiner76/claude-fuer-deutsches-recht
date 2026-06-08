@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches R
 
 # Gute Rechtsgeschichte für Laien
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht für Nicht-Juristen. Didaktische Aufbereitung von Sachsenspiegel, BGB-Entstehung, Weimarer Republik oder NS-Unrecht für Unterricht und Oeffentlichkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Rechtsgeschichte für Nicht-Juristen erfordert eine andere Sprache und Struktur 
 - Konkrete Beispiele: Ein Erbfall im Sachsenspiegel vs. BGB vs. heute
 - Quellen nennen, aber nicht als Fussnoten, sondern als weiterführende Literatur am Ende
 
-## Output
-
-- Laienversionartikel (A4-Laenge) zu einem rechtshistorischen Thema
-- Erklaerbox: Was ist X? (Pandektistik, Rezeption, Kodifikation)
-- Zeitlinie für Unterricht oder Ausstellung
-
-## Quellenregel
-
-Quellen in Fliesstext nennen, aber Laien-tauglich (Nicht: RGBl. 1919, 1383, Sondern: Die WRV von 1919 steht auf documentArchiv.de zum Nachlesen). Links: documentArchiv.de, bverfg.de, gesetze-im-internet.de.

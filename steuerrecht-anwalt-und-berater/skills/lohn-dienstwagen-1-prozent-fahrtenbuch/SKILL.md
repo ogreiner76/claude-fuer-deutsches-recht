@@ -98,12 +98,6 @@ Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, ents
 - SV-pflichtig bis BBG.
 - Buchung im Lohnkonto.
 
-## Output
-
-- Lohn-Abrechnung mit Sachbezug Dienstwagen.
-- Fahrtenbuch oder Erklaerung 1-Prozent-Methode.
-- Dokumentation Bruttolistenpreis.
-
 ## Strategie und Praxis-Tipps
 
 - Fahrtenbuch nur sinnvoll bei geringer Privatnutzung — Aufwand erheblich.
@@ -112,13 +106,6 @@ Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, ents
 - Bei Familien-GmbH mit GGF: Dienstwagen kritisch — verdeckte Gewinnausschuettung bei Privatnutzung Familienangehoeriger ueber Vereinbarung.
 - StBVV: in Lohnpauschale; Fahrtenbuch-Pruefung Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Dienstwagen-Modul mit Listenpreis und Konfiguration; bei E-Auto/Hybrid Sonderschluessel.
-
-## Querverweise
-
-- `stb-lohn-sachbezuege-50-euro-freigrenze` — Sachbezug.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
-- `stb-lohn-firmenrad-leasing-jobrad` — JobRad.
-- `stb-lohn-jobticket-mobilitaet-deutschlandticket` — Jobticket.
 
 ## Quellen und Updates
 
@@ -132,10 +119,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 4 bestaetigt (Wachstumschancengesetz BGBl. 2024 I Nr. 108, Grenzwerte eingesetzt), 3 ersetzt (Pruefhinweise ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

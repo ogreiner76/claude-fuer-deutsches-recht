@@ -5,10 +5,6 @@ description: "Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen 
 
 # Umweltrecht-Kommandocenter
 
-## Arbeitsbereich
-
-Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,9 +55,6 @@ Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen Risiken naechs
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ampelmatrix Risikobewertung (Standard-Output)
 
 | Risiko | Ampel | Fristen | Verantwortlich | Naechste Handlung |
@@ -114,3 +107,4 @@ OFFENE FRAGEN / BENOETIGT:
 - `energietrassen-planfeststellung-rechtsschutz` — Energie-Planfeststellung
 - `esg-greenwashing-csrd` — Nachhaltigkeitsberichte
 - `klimaklagen-verbandsklage-umwrg` — Klimaklagen
+

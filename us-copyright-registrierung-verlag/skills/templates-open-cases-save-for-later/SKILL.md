@@ -5,10 +5,6 @@ description: "Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei 
 
 # Templates, Open Cases und Save for Later
 
-## Arbeitsbereich
-
-Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkk
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Organisiere eCO-Templates und gespeicherte Fälle so, dass ein Verlag Geschwindigkeit gewinnt, ohne falsche Daten von einem Titel auf den nächsten zu vererben.
-
 ## Regeln
 
 - Template nur für gleiche Werkklasse und gleiche interne Logik verwenden, etwa Buchmonografie zu Buchmonografie.
@@ -33,14 +25,6 @@ Organisiere eCO-Templates und gespeicherte Fälle so, dass ein Verlag Geschwindi
 - Open Cases wöchentlich aufräumen: Entwurf, bezahlt, Upload offen, Shipping Slip offen, eingereicht, Rückfrage, Certificate.
 - Abgebrochene Entwürfe nicht als erledigt zählen; Budget und Case Number trennen.
 - Screenshots nur dort archivieren, wo sie Status oder Zahlungs-/Deposit-Schritt belegen.
-
-## Output
-
-Eine Open-Cases-Tabelle mit Ampel und nächstem Handgriff. Für Serien/Backlist zusätzlich ein Rollout-Plan: Pilot, Review, Template-Freigabe, Batch.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -52,3 +36,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Ausgabe braucht der Mandant: Antragspaket, Clearance-Memo, Risikomatrix, Takedown, Lizenzklausel oder US-Counsel-Briefing?
 
 **Mindest-Output:** Arbeitsprodukt mit Claim Scope, Rechtekette, Risikomatrix, Evidenzlücken und nächstem US-Schritt.
+

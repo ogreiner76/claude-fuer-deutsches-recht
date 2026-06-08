@@ -20,12 +20,7 @@ Arbeitsfokus: **Schutzplan und Risikoampel**. Prüfe diese Anker am Sachverhalt;
 - `§ 5 BtOG` — Beratung.
 - `§ 8 BtOG` — Betreuungsvermeidung.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill schützt die betreute Person, ohne sie unnötig zu kontrollieren. Er fragt: Wo droht real Schaden, was will die Person, welches mildere Mittel reicht, und was muss dokumentiert werden?
 
 ## Risikofelder
 
@@ -61,3 +56,4 @@ Schutzplan
 ## Entscheidungsregel
 
 Schutz ist kein Freibrief für Bevormundung. Jede Maßnahme muss am Aufgabenkreis, an § 1821 BGB, am Willen der betreuten Person und an der Erforderlichkeit gemessen werden.
+

@@ -5,10 +5,6 @@ description: "Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüf
 
 # Gleichstellung und Diskriminierung Soldatinnen/Soldaten
 
-## Arbeitsbereich
-
-Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüft SoldGG, AGG-Anwendung, Beschwerderechte und Gleichstellungsbeauftragte. Norm-/Quellenanker: SoldGG, AGG, SG, GG Art. 3. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,12 +32,6 @@ Das AGG gilt ergänzend. BVerwG: Diskriminierungsverbote gelten auch bei militä
 - SG § 12 — Kameradschaft
 - SG § 36 — Fürsorge
 - §§ 1, 17 WBO — Beschwerderecht
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -94,21 +84,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Beschwerdewege bei Diskriminierung
 - Muster: Gleichstellungsbeschwerde
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/soldgg/ — SoldGG
-- https://www.gesetze-im-internet.de/agg/ — AGG
-- https://www.gesetze-im-internet.de/sg/ — § 12 SG
-- https://dejure.org/gesetze/SoldGG
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +93,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

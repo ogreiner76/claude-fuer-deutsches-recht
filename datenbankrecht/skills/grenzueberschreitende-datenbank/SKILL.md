@@ -5,10 +5,6 @@ description: "Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 9
 
 # Grenzüberschreitende Datenbanken — EU, UK und USA im Vergleich
 
-## Arbeitsbereich
-
-Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGVO-Drittlandtransfer bei Datenbankübertragungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne �
 - Feist-Doktrin (USA) schützt keine faktischen Daten ohne kreative Auswahl — US-Plattformen können sich auf Feist berufen.
 - DSGVO-Drittlandtransfer bei Datenbankübertragung in die USA erfordert seit Schrems II Standardvertragsklauseln mit TIA.
 
-## Output
-
-- Internationales Datenbankschutz-Vergleichstabelle (EU / UK / USA)
-- Kollisionsrechtliche Analyse (Art. 8 Rom-II-VO) mit Schutzland-Bestimmung
-- Drittland-DSGVO-Compliance-Checkliste für Datenbankübertragungen
-- Gerichtsstands-Entscheidungsmatrix für internationale Verletzungen
-- UK-Post-Brexit-Datenbankrecht-Übersicht für deutsch-britische Transaktionen
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne �
 - [Art. 46 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/46.html)
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [EuGH C-545/07 Apis/Lakorda — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
+

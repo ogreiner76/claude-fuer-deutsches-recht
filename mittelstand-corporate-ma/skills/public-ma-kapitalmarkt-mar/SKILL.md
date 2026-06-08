@@ -5,10 +5,6 @@ description: "Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, Wp
 
 # Public M&A, Kapitalmarkt und MAR
 
-## Arbeitsbereich
-
-Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Prüfung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen
 ## Fachkern: Public M&A, Kapitalmarkt und MAR
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Regulatory, FDI, Fusionskontrolle, GwG und Kapitalmarkt-Compliance**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -116,10 +109,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Public M&A, Kapitalmarkt und MAR
 
-## Zweck
-
-Begleitet boersennotierte Transaktionen: WpUEG-Unterlagen (Angebotsunterlage, Stellungnahme Zielgesellschaft), Ad-hoc-Pruefung nach MAR, Insiderlisten, Marktgeruechte und Squeeze-out.
-
 ## Triage
 
 1. Ist die Zielgesellschaft boersennotiert — Deutschland (Xetra/Prime Standard) oder anderen Boersen?
@@ -142,9 +131,6 @@ Begleitet boersennotierte Transaktionen: WpUEG-Unterlagen (Angebotsunterlage, St
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BaFin, Emittentenleitfaden, Modul C (Insiderinformation) und Modul D (Ad-hoc-Meldung), aktualisierte Fassung 2023
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -228,3 +214,4 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Massnahme: Beschreibung korrigiert auf tatsaechlichen Inhalt: Kapitalanleger-Musterverfahren Daimler/Geltl; Insiderinformation bei gestrecktem Geschehensablauf, § 13 WpHG / Art. 7 MAR; Fundstelle NZG 2013, 708 (nicht 785).
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.04.2013&Aktenzeichen=II+ZB+7%2F09
 -->
+

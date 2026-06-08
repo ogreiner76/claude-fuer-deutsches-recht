@@ -5,10 +5,6 @@ description: "Prüft die Abgrenzung von selbständigen Handelsvertretern und ang
 
 # Selbständiger Handelsvertreter vs. Angestellter Reisender nach § 84 HGB
 
-## Arbeitsbereich
-
-Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Zuständigkeit des falschen Gerichts — Klage abgewiesen.
 - Kein Statusfeststellungsverfahren eingeleitet — jahrelange Ungewissheit.
 
-## Output
-
-Statusanalyse Handelsvertreter vs. Angestellter, Statusfeststellungsantrag DRV, Vertragsempfehlung.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
 - [§ 5 ArbGG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/arbgg/__5.html)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
+

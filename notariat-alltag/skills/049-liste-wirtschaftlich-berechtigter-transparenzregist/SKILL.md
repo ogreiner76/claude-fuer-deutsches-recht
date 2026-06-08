@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transpar
 
 # Notariat im Alltag: Liste wirtschaftlich Berechtigter – Transparenzregister
 
-## Arbeitsbereich
-
-Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transparenzregister. Meldepflichten nach GwG §§ 20–24, Abfragepflichten des Notars, Bußgelder und praktische Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -105,3 +101,4 @@ Seit dem Transparenzregister- und Finanzinformationsgesetz (2021) ist das Transp
 - **Mandantenmail** (WB-Meldepflicht erklären)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

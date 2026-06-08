@@ -42,9 +42,6 @@ Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistiku
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Bedarf analysieren:** Welche Betriebe brauchen Lieferflaeche, welche Frequenz, welche Fahrzeugklassen?
@@ -131,3 +128,4 @@ Mit freundlichen Gruessen
 
 <!-- AUDIT 27.05.2026 -->
 > **Audit-Hinweis (27.05.2026):** BGH VI ZR 281/13, NJW 2014, 2878 entfernt. Tatsaechliches Thema: BGH VI ZR 281/13 (Urt. v. 17.06.2014) betrifft kein Mitverschulden (§ 254 BGB) eines Fahrradfahrers wegen Nichttragens eines Fahrradhelms, NJW 2014, 2493 — kein Bezug zu Frachtfuehrer-Haftung oder Verkehrssicherungspflicht beim Entladen. NJW 2014, 2878 gehoert nicht zu diesem Urteil. Quelle: dejure.org/2014,13360.
+

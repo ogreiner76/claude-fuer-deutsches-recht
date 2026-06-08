@@ -5,9 +5,6 @@ description: "Libertaere Methodenkritik Luecke im Plugin Methodenlehre Buergerli
 
 # Libertaere Methodenkritik Luecke
 
-## Arbeitsbereich
-
-**Libertaere Methodenkritik Luecke** ordnet den Fall über die tragenden Prüfungslinien: Analysiert die libertäre Methodenkritik an staatlichen und, Klärt die methodisch entscheidende Unterscheidung zwischen, Leitet durch die methodisch korrekte Aufbereitung und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Libertaere Methodenkritik Luecke im Plugin Methodenlehre Buergerli
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `libertaere-methodenkritik-privatautonomie`
@@ -84,10 +82,6 @@ Die libertäre Methodenkritik stellt die Vertragsfreiheit ins Zentrum und sieht 
 - Ökonomische Effizienzargumente werden ohne empirische Grundlage als Tatsachenbehauptungen vorgetragen.
 - Die Schutzpflichtdimension aus Art. 1 und Art. 2 GG für die strukturell schwächere Partei wird ausgeblendet.
 - Der Unterschied zwischen kaufmännischen und verbraucherrechtlichen Schutzstandards wird nicht beachtet.
-
-## Output
-
-Das Skill liefert eine libertäre Methodenkritik-Analyse: Rekonstruktion der libertären Position, Prüfung der tatsächlichen Vertragsfreiheit, Bewertung der methodischen Konsistenz, Einschätzung ökonomischer Argumente und Gegengewicht aus Schutzpflichtperspektive. Verwendbar für strategische Prozessplanung, wissenschaftliche Auseinandersetzung und methodische Gegendarstellung.
 
 ## Vertiefung: Strukturelle Verhandlungsfreiheit als empirische Frage
 
@@ -172,10 +166,6 @@ Die wichtigste Vorfrage jeder Analogie ist die Lückenfeststellung. Wer einer An
 - Der Wortlaut der Norm wird engst gelesen, um eine Lücke zu konstruieren, obwohl ein weiter Wortlaut die Fallgruppe einschließen würde.
 - Lückenbehauptungen werden nicht auf Plausibilität geprüft: Ein Gesetzgeber, der ähnliche Fälle regelt, hat selten eine Lücke beim nächststehenden Fall.
 - Die Analogiefähigkeit der Lücke wird nicht separat geprüft: Nicht jede Lücke ist durch Analogie schließbar — manche verlangen Gesetzgebung.
-
-## Output
-
-Das Skill liefert eine Lücken-Ablehnung-Analyse: systematische Prüfung der Lückenvoraussetzungen, Auswertung der Gesetzgebungsmaterialien, Bestimmung als planwidrige Lücke oder bewusste Nichtregelung, Konsequenz für Analogiefähigkeit und Formulierungsvorschlag für die Gutachten- oder Schriftsatzbegründung.
 
 ## Vertiefung: Bewusste Nichtregelung als positives Schweigen
 
@@ -262,10 +252,6 @@ Das Bauleitungsrecht zeichnet sich durch ein Zusammenspiel vertraglicher, delikt
 - Die Abgrenzung von Werk- und Dienstvertrag beim Bauleitervertrag wird nicht sorgfältig vorgenommen.
 - Gesamtschuldnerschaft mehrerer Baubeteiligter nach § 421 BGB wird übersehen.
 
-## Output
-
-Das Skill liefert eine Anspruchspyramide: systematische Übersicht aller einschlägigen Anspruchsgrundlagen, Rangordnung nach Subsidiarität, Prüfung der Tatbestandsvoraussetzungen, Verjährungsanalyse und Formulierungsvorschlag für den Klageantrag oder das Gutachten. Geeignet für mandatsbezogene Risikoanalysen im Baurecht.
-
 ## Vertiefung: HOAI und VOB/B als Auslegungsrahmen
 
 Im Bauleitungsrecht spielt die HOAI (Honorarordnung für Architekten und Ingenieure) als Preisrecht eine zentrale Rolle. Darüber hinaus ist die VOB/B (Vergabe- und Vertragsordnung für Bauleistungen) ein wichtiger Vertragsrahmen. Beide Regelwerke sind bei der Bestimmung der Anspruchsgrundlagen und des Pflichtenkreises des Bauleiters zu berücksichtigen, auch wenn sie kein formelles Gesetzesrecht sind.
@@ -349,10 +335,6 @@ Das Richterrecht ist eine faktische Rechtsquelle im deutschen Zivilrecht, die me
 - Overruling wird ohne Darlegung der veränderten Grundlagen vorgenommen — das erzeugt Willkür.
 - Der Gesetzgeberwille, der richterrechtliche Regeln implizit toleriert, wird als Billigung fehlgedeutet.
 - Die faktische Bindungswirkung von BGH-Richterrecht auf unterinstanzliche Gerichte wird unterschätzt.
-
-## Output
-
-Das Skill liefert eine Richterrechtsanalyse: Identifikation der richterrechtlichen Regel, Konsolidierungsgradbestimmung, demokratische Legitimationscheck, distinguishing- und overruling-Analyse und Formulierungsvorschlag für den methodischen Umgang mit der Regel in Schriftsatz oder Gutachten.
 
 ## Vertiefung: Richterrecht im Europäischen Kontext
 
@@ -438,10 +420,6 @@ Die verfassungskonforme Auslegung ist das vornehmste Instrument der Normerhaltun
 - Die Subsidiariät gegenüber der Vorlagepflicht wird nicht beachtet.
 - Das Verhältnis zur mittelbaren Drittwirkung von Grundrechten wird nicht klar getrennt.
 
-## Output
-
-Das Skill liefert eine verfassungskonforme Auslegungsanalyse: Identifikation des verfassungsrechtlichen Problems, Prüfung beider Lesarten, Subsidiaritätsprüfung, Normerhaltungsbegründung und Formulierungsvorschlag. Verwendbar in Schriftsätzen mit Grundrechtsbezug, in Gutachten und bei Revisionsrügen.
-
 ## Vertiefung: Mittelbare Drittwirkung und verfassungskonforme Auslegung
 
 Die mittelbare Drittwirkung der Grundrechte und die verfassungskonforme Auslegung sind zwar verwandte, aber unterschiedliche Instrumente: Die mittelbare Drittwirkung fügt dem zivilrechtlichen Tatbestand eine grundrechtliche Wertungsdimension hinzu, während die verfassungskonforme Auslegung unter mehreren möglichen Auslegungen die grundrechtskonforme wählt. Beide Instrumente ergänzen sich und sind methodisch klar zu trennen.
@@ -467,3 +445,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 14 GG bei dejure](https://dejure.org/gesetze/GG/14.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

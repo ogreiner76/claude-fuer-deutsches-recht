@@ -40,9 +40,6 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Vergabe
 
 1. **Schwellenwert pruefen:** EU-weite Ausschreibung oder national?
@@ -66,3 +63,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Zuwendungsrecht: Zweckbindungsfristen genau dokumentieren, vorzeitige Nutzungsaenderungen genehmigen lassen.
 - EU-Schwellenwerte regelmaessig aktualisieren (alle 2 Jahre neue EU-Verordnung).
 - Anwaltliche Endkontrolle bei Ruge und Nachpruefungsantrag.
+

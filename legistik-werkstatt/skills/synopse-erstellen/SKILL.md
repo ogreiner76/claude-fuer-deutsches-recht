@@ -20,7 +20,6 @@ Arbeitsfokus: **Synopse erstellen**. Prüfe diese Anker am Sachverhalt; ergänze
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Aufbau einer Synopse
@@ -61,9 +60,7 @@ Beispiel "Lesefassung_HGB_Paragraf_33.md" - das ist der Paragraf, wie er nach In
 
 §§ 42-48 GGO (Synopse als Bestandteil der Begr.) — §§ 1-4 HdR (Rechtsfoermlichkeit, Vergleichs-Darstellungen) — Art. 76 Abs. 2 GG (Einbringungs-Unterlagen inkl. erlaeuternder Materialien)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anschluss
 
 `lesefassung-konsolidiert`.
+

@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Hotelneubauten mit modular vo
 
 # Bauueberwachung Hotel Zimmerfertigung (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Hotelneubauten mit modular vorgefertigten Zimmern — Modulverbindungen Stahlrahmen und Betonkern, Schallschutzanforderungen nach DIN 4109 Schallschutzklasse IV, Sprinkler-Anlage nach DIN EN 12845, barrierefreie Zimmer nach DIN 18040-1 und Energieeffizienz-Anforderungen nach GEG 2023. Praxisnahe Maengeldokumentation mit Dalux und SAP-PM. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Der Gast erwartet hohen Schallschutz (Rw min. 47 dB Zimmertrennung) und reibungs
 - Modulversatz bei Montage: horizontale Verbindungsbolzen nicht fluchtend, Fassade und Fensteranschluss undicht
 - TGA-Querverbindungen zwischen Zimmern: Abwasserrohre falsch angeschlossen, falsches Zimmer entwaessert
 
-## Output
-
-Schallschutzmessprotokoll je Zimmerpaar. Sprinkler-Abnahmeprotokoll VdS. Barrierefreiheits-Pruefprotokoll.
-Modulverbindungs-Fotodokumentation. Dalux Zimmer-Abnahme Checkliste je Zimmer.
-Abnahmeprotokoll Hotel nach VOB/B. SAP-PM-Equipment-Hierarchie als Anlagenregister.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Hotel nach VOB/B. SAP-PM-Equipment-Hierarchie als Anlagenregist
 - [DIN EN 12845 Sprinkleranlagen](https://www.gesetze-im-internet.de/)
 - [DIN 18040-1 Barrierefreiheit](https://www.gesetze-im-internet.de/)
 - [GEG 2023](https://www.gesetze-im-internet.de/geg/index.html)
+

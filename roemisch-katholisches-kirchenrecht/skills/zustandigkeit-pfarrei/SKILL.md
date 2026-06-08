@@ -5,10 +5,6 @@ description: "Zustandigkeit Pfarrei im Römisch-katholischen Kirchenrecht im Rö
 
 # Zustandigkeit Pfarrei
 
-## Arbeitsbereich
-
-**Zustandigkeit Pfarrei** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -39,6 +35,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: CIC/1983 cann. 1, 96, 113, 204, 208, 515, 519, 528, 1055, 1095, 1141, 1148, 1419, 1671, 1673, 1717, 1719, 1730, Codex Canonum Ecclesiarum Orientalium, Apostolische Konstitution Pastor bonus, Apostolische Konstitution Praedicate evangelium, Vos estis lux mundi — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Pfarrer, Bischof, Offizial, Diözesangericht (1. Instanz), Rota Romana, Dikasterium für die Glaubenslehre, Apostolische Signatur, Ordinarius.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klagelibell (libellus), Dekret, Eheprozessakte, Taufregister-Eintrag, Firmungsbescheinigung, Dispens, Inkardinationsurkunde, Visitationsprotokoll, kirchenrechtliches Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zustandigkeit-pfarrei-bistum-offizialat-dikasterium`
@@ -96,3 +93,4 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+

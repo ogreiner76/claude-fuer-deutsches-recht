@@ -5,10 +5,6 @@ description: "Dreidimensionale Marke und Formmarke prüfen: Produktform, Flakon,
 
 # Dreidimensionale Marken (3D-Formmarken)
 
-## Arbeitsbereich
-
-Dreidimensionale Marke und Formmarke prüfen: Produktform, Flakon, Schuhform, technische Funktion, wesentlicher Wert, Unterscheidungskraft, Verkehrsdurchsetzung und Design-Alternativen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -134,3 +130,4 @@ Bevor die dreidimensionale Marke eingereicht wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

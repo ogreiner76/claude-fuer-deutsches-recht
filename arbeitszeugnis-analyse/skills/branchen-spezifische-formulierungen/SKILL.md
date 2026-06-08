@@ -34,10 +34,6 @@ description: "Decodiert branchenspezifische Formulierungen im Arbeitszeugnis zur
 
 **Beispiel 5 – Finanzwesen (Rot durch Schweigen):** Buchhalter-Zeugnis ohne ein einziges Wort zu Sorgfalt, Genauigkeit oder Vertrauenswürdigkeit → klassisches Warnsignal bei finanzrelevanten Positionen.
 
-## Ausgabeformat
-
-Der Skill erkennt zunächst die Branche aus dem Kontext des Zeugnisses (oder aus einem expliziten Hinweis) und listet dann branchentypisch erwartete Aussagen mit dem Status vorhanden/fehlend/abgeschwächt und der Ampelzuordnung. Die branchenspezifischen Auslassungen werden zur allgemeinen Ampeltabelle hinzugefügt, aber nur als Hypothese, solange keine konkrete Tätigkeit oder Vergleichspraxis belegt ist.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Wohlwollend formuliertes qualifiziertes Zeugnis; tatsächliche Tätigkeit und Anforderungsprofil prägen den Maßstab
@@ -46,11 +42,9 @@ Der Skill erkennt zunächst die Branche aus dem Kontext des Zeugnisses (oder aus
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — vor der Branchenanalyse
 
 1. Welcher Branche ist das Zeugnis zuzuordnen?
 2. Gibt es branchentypisch erwartete Aussagen (z.B. Kassenführung im Einzelhandel, Patientenumgang in der Pflege)?
 3. Erfordert die Funktion besondere Sicherheitshinweise oder Vertrauensstellungen?
+

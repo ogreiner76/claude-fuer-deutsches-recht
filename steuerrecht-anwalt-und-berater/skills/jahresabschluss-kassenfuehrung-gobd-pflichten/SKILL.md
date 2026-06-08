@@ -5,10 +5,6 @@ description: "Kassenführung GoBD-Pflichten. Anwendungsfall Mandanten mit Barges
 
 # Kassenfuehrung — GoBD-Pflichten
 
-## Arbeitsbereich
-
-Kassenführung GoBD-Pflichten. Anwendungsfall Mandanten mit Bargeschäft Kasse Aufzeichnungspflichten Kassenbuch elektronische Aufzeichnungssysteme TSE technische Sicherheitseinrichtung. Methodik Prüfung Sorgfalt. Output GoBD-konforme Kassenführung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -105,24 +101,12 @@ Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrun
 - Bedienungsanleitung TSE.
 - Beleg-Archivierung GoBD-konform 10 Jahre.
 
-## Output
-
-- GoBD-konforme Kassenfuehrung.
-- Verfahrensdokumentation.
-- Belegarchiv.
-
 ## Strategie und Praxis-Tipps
 
 - Die TSE-Pflicht ist hart durchgesetzt; der Bussgeldrahmen reicht nach § 379 Abs. 6 AO bis 25.000 EUR pro Verstoss.
 - Die Verfahrensdokumentation (Konfiguration, Bedienungsanleitung, Aenderungsprotokoll) ist haeufig vernachlaessigt, aber ausdruecklich Pflichtbestandteil nach GoBD (BMF v. 28.11.2019, Rz. 153 ff.).
 - Bei Mandanten mit hohem Bargeschaeft ist eine kontinuierliche StB-Begleitung sinnvoll; bei Verdacht auf Manipulation der Aufzeichnungen ist der Mandant nachweisbar (Aktenvermerk, schriftliche Belehrung) auf die Sanktionsrisiken nach § 379 AO bzw. § 370 AO hinzuweisen — vgl. die Eskalations-Routine in `stb-mandantenanfrage-reaktion-frist-laufend` und die berufsrechtliche Hinweispflicht aus § 102 StaRUG bei drohender Insolvenz.
 - Die Kassennachschau nach § 146b AO erfolgt unangekuendigt — auch zu Beginn der Geschaeftsoeffnung; Mandanten sollten auf den Umgang mit dem Pruefer (Vorlage Kassen-Z-Bons, TSE-DSFinV-K-Daten) geschult werden.
-
-## Querverweise
-
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-bwa-fehlerquellen-haeufig` — Fehlerquellen.
-- `stb-susa-erstellen-grundlagen` — SuSa.
 
 ## Quellen und Updates
 
@@ -134,10 +118,3 @@ Stand: 05/2026.
 - BMF v. 11.06.2020 (Kassennachschau).
 - § 146a Abs. 4 AO Meldepflicht (Mein ELSTER) seit 01.01.2025; Altsysteme bis 31.07.2025, Neusysteme ab 01.07.2025 innerhalb 1 Monats.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

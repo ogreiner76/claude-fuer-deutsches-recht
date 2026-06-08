@@ -9,7 +9,6 @@ description: "Output-Wahl für Betriebliche Altersversorgung im Konzern: stimmt 
 
 Diese Output-Weiche für **Bav Strategie Konzern** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `altersversorgung-boutique-fristennotiz-psv` — Altersversorgung Boutique Fristennotiz PSV
@@ -36,12 +35,9 @@ Diese Output-Weiche für **Bav Strategie Konzern** entscheidet, ob Memo, Antrag,
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Betriebliche Altersversorgung im Konzern sofort: bAV-Strategie-Memo oder Anpassungsprüfung.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

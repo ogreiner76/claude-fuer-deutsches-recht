@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS un
 
 # Bauueberwachung WDVS-Fassade und Brandsperren
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Das Waermedaemm-Verbundsystem ist DAS Mauerwerk der Fassade: Fehler im Kleberauf
 - Armierungsgewebe zu nahe an Oberflaeche: Gewebe wird durch Aussenkrafte abgeloest, Rissbildung Schlussbeschichtung nach 2 Jahren
 - Fehlende Tropfkante Fensterbrust: Wasser laeuft an Fassade entlang, Versottung Putz und Fassadenverschmutzung
 
-## Output
-
-Brandsperre-Einbaunachweis je Geschoss mit Foto und Lieferschein Mineralwolle nicht brennbar. Duebel-Einbauprotokoll je Fassadenabschnitt. Kleberflaechenanteil-Fotodokumentation. Drohnen-Befliegungsprotokoll Fassade nach 6 Monaten Standzeit. SAP-PM-Equipment-IDs Fassade. Abnahmeprotokoll WDVS mit Systemhersteller-Vertreter und Bauleiter.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Brandsperre-Einbaunachweis je Geschoss mit Foto und Lieferschein Mineralwolle ni
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [MBO § 28 Aussenwaende Brandschutz](https://www.gesetze-im-internet.de/mbo_2002/index.html)
+

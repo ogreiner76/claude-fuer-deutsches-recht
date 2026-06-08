@@ -5,10 +5,6 @@ description: "Wissensproblem Dezentrale im Rechtstheorie und Rechtsphilosophie i
 
 # Wissensproblem Dezentrale
 
-## Arbeitsbereich
-
-**Wissensproblem Dezentrale** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -39,6 +35,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `wissensproblem-dezentrale-information-und-recht`
@@ -59,10 +56,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill prüft rechtliche Gestaltung unter der Einsicht, dass relevante Informationen oft dezentral, lokal, stillschweigend und schwer artikulierbar verteilt sind. Das ist wichtig bei Regulierung, Marktordnung, Standards, Plattformen, Berufsrecht, Umwelt, Arbeit, Medizin, Technik, Finanzmärkten und Verwaltungsvollzug.
 
 ## Sofort klären
 
@@ -92,17 +85,3 @@ Das Wissensproblem ist ein starkes Argument gegen allzu selbstgewisse zentrale D
 - `Die Branche macht das so, also ist es richtig.`
 - `Komplexität verbietet Regulierung.`
 
-## Output
-
-Gib eine Wissensproblem-Matrix aus:
-
-| Frage | Befund |
-| --- | --- |
-| regelungsrelevantes Wissen | ... |
-| Wissensträger | ... |
-| kommunizierbar? | ... |
-| geeigneter Regelungsmodus | ... |
-| Fehlerkosten | ... |
-| Korrekturmechanismus | ... |
-
-Schließe mit einer Empfehlung, ob die Sache eher Regel, Standard, Experiment, Haftung oder Verfahrenssteuerung verlangt.

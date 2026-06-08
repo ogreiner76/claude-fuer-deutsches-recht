@@ -5,10 +5,6 @@ description: "Energieliefervertraege prüfen und entwerfen: Strom- und Gasliefer
 
 # Energie-Verträge — Strukturierung und Prüfung
 
-## Arbeitsbereich
-
-Energieliefervertraege prüfen und entwerfen: Strom- und Gasliefervertraege mit Industrie- und Privatkunden. Normen: §§ 41 ff. EnWG, StromGVV, GasGVV. Prüfraster: Preisanpassungsklauseln, Laufzeiten, Sonderkündigungsrecht, Lieferbedingungen. Output: Vertragsprüfergebnis oder Vertragsentwurf. Abgrenzung: nicht Netzanschlussvertrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Energieliefervertraege prüfen und entwerfen: Strom- und Gasliefervertraege mit 
 - Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Behandelt die Vertrags-Architektur im Energie-Bereich: Liefer-Verträge Strom / Gas / Wärme, Bilanzkreis-Verträge, Konzessions-Verträge, Industrie-Sonderverträge, PPA-Verträge. Inkl. AGB-Kontrolle und Anpassungs-Klauseln.
 
 ## Eingaben
 
@@ -273,9 +265,6 @@ Weitere Aktenzeichen vor Ausgabe per dejure.org / curia.europa.eu verifizieren.
 
 § 315 BGB (billiges Ermessen Leistungsbestimmung) — §§ 305-310 BGB (AGB-Kontrolle) — §§ 36-38 EnWG (Grundversorgung) — § 46 EnWG (Konzessionsvertrag) — AVBEltV / AVBFernwaermeV (Vertragsbeziehungen Grundversorgung) — §§ 313, 314 BGB (Stoerung Geschaeftsgrundlage, Hardship)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-vertrieb-marktrollen`
@@ -295,3 +284,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - EuGH C-359/11 (Schulz, 23.10.2014); BGH VIII ZR 158/11 (28.10.2015); BGH VIII ZR 178/08 (24.03.2010); BGH VIII ZR 295/09 (09.02.2011); EuGH C-718/18 (02.09.2021)
 - DIS / ICC Schieds-Standards
 - Schiedsstelle Energie
+

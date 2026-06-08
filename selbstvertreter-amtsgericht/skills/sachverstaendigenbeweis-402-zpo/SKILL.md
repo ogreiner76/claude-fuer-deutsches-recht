@@ -124,21 +124,7 @@ Wenn Gerichtsgutachten ueberzeugt nicht: Sie koennen Privat-Gegen-Gutachten einr
 - "Ich erwarte gratis Gerichts-Gutachten." → Vorschuss noetig.
 - "Privatgutachten reicht." → Gericht kann eigenes anordnen.
 
-## Querverweise
-
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweisangebot.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kostenkalkulation.
-- `beweislast-grundregel-wer-was` — Beweislast.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 402 ff. ZPO, § 17 GKG unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

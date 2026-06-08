@@ -5,10 +5,6 @@ description: "Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei 
 
 # Kundenliste und Herausgabepflicht bei Vertragsende nach § 88 HGB
 
-## Arbeitsbereich
-
-Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmissbrauch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 - DSGVO-Löschpflichten nicht beachtet — Bußgeldrisiko.
 - Herausgabe ohne Übergabeprotokoll — Nachweis über vollständige Herausgabe fehlt.
 
-## Output
-
-Herausgabeverlangen-Schreiben, Übergabeprotokoll, Unterlassungsklage-Entwurf, Schadensersatzberechnung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 273 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__273.html)
 - [§ 883 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__883.html)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
+

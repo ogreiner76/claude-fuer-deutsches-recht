@@ -27,13 +27,7 @@ Der Skill hilft, KI-Geschäftsmodelle kartellrechtlich zu lesen: Wer kontrollier
 5. Werden Daten aus einem Markt in einen KI-Markt übertragen?
 6. Welche Abhilfe: Zugang, Interoperabilität, FRAND, Entflechtung, Verhaltenszusage?
 
-## Output
-
-- Kartellrechtliches KI-Risiko-Memo.
-- Fragenkatalog für Due Diligence.
-- Behördenargumentation für Bundeskartellamt/EU.
-- Vertragsredlines gegen marktabschottende KI-Klauseln.
-
 ## Schnittstelle
 
 Kartellrecht ist nicht Teil der KI-VO, aber in KI-Projekten häufig das härtere wirtschaftliche Problem.
+

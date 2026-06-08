@@ -5,10 +5,6 @@ description: "Überwacht die interne KI-Richtlinie auf Abweichungen von der gele
 
 # KI-Richtlinien-Monitor
 
-## Arbeitsbereich
-
-Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer "Richtlinien-Sweep", "KI-Richtlinie prüfen", "deckt unsere Richtlinie das ab", "wir wollen X einführen — brauchen wir eine Richtlinienänderung" oder "Policy-Monitor starten" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,20 +12,6 @@ description: "Überwacht die interne KI-Richtlinie auf Abweichungen von der gele
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-KI-Richtlinien laufen der Praxis schneller hinterher als fast jedes andere
-Richtliniendokument — Anwendungsfälle multiplizieren sich, jede freigegebene
-Folgenabschätzung begründet neue Verpflichtungen, die die Richtlinie noch
-nicht aufgegriffen hat.
-
-Zwei Modi: (1) **Sweep-Modus** — wöchentlicher Abgleich des Ausgabeordners
-auf Policy-Drift; (2) **Direktanfrage-Modus** — direkte Antwort auf
-"Wir wollen X einführen — was bedeutet das für unsere KI-Richtlinie?"
-
-Ausgabe ist immer: Hier ist die Lücke — ERFORDERLICH (Richtlinie wider-
-spricht Praxis) oder EMPFOHLEN (Richtlinie schweigt) — plus Formulierungsvorschlag.
 
 ## Eingaben
 
@@ -113,14 +95,6 @@ Abgleich gegen Richtlinie und Register:
 | Offenlegung ggü. Betroffenen | [Richtlinien-Zusage] | [erforderlich?] | |
 | Anbieter-Datennutzung | [Playbook-Position] | [Anbieter-Bedingungen] | |
 
-## Ausgabeformat
-
-**Sweep-Bericht:**
-```
-### KI-Richtlinien-Monitor — Sweep-Bericht
-Datum: [Datum] | Gescannte Ausgaben: [N] | Neu: [N]
-Gefundene Lücken: [N] ERFORDERLICH | [N] EMPFOHLEN
-
 ## ERFORDERLICHE Änderungen
 ### [Lücke]
 Quelle: [Datei] | Was geschieht: [Beschreibung]
@@ -131,6 +105,7 @@ Formulierungsvorschlag: "[Richtlinientext]" — ergänzen in [Abschnitt]
 ## EMPFOHLENE Änderungen [gleiche Struktur]
 
 ## Kein Handlungsbedarf [Liste]
+
 ## Anwendungsfall-Register-Abgleich [neue Einträge vorschlagen]
 ```
 
@@ -140,7 +115,9 @@ Formulierungsvorschlag: "[Richtlinientext]" — ergänzen in [Abschnitt]
 Ergebnis: [RICHTLINIENÄNDERUNG ERFORDERLICH / EMPFOHLEN / KEINE ÄNDERUNG]
 
 ## Was abgedeckt ist | ## Was fehlt | ## Was im Widerspruch steht
+
 ## Anwendungsfall-Register [Vorschlag falls neu]
+
 ## Zeitplan [vor Inbetriebnahme / beim nächsten Update]
 ```
 
@@ -206,3 +183,4 @@ NAECHSTE SCHRITTE:
 Naechster Sweep: [DATUM]
 Erstellt: [NAME], [DATUM]
 ```
+

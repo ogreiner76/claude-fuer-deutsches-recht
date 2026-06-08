@@ -11,12 +11,6 @@ description: "Prüfungslinie für stb ueberschuldungspruefung 19 inso im Steuerr
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Stichtagsbezogene Prüfung, ob bei einer GmbH/UG **rechnerische Überschuldung** vorliegt und ob die **Fortbestehensprognose** positiv oder negativ ausfällt. Pflicht-für den Steuerberater bei jeder Bilanz/SuSa mit Krisensignalen aus `stb-bwa-sus-bilanz-pruefung`. Ergebnis steuert direkt das Warnschreiben an die Geschäftsführung (`stb-warnschreiben-krisensignale`) und damit die eigene Haftungsvermeidung des Steuerberaters.
-
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Kaltstart-Rückfragen
 
 1. Welcher Stichtag (typisch: Quartalsende, letzter Bilanzstichtag)?
@@ -153,15 +147,7 @@ Nur bei negativer Stufe-1-Prognose. Liquidationswerte ansetzen — stille Reserv
 - **Wiedervorlage und erneuter Hinweis** dokumentieren, wenn die Krise fortbesteht.
 - **Ohne Hinweis** droht eigene Haftung des Steuerberaters für die Verschleppungsschäden — typische Schadenshöhe sechs- bis siebenstellig.
 
-## Querverweise
-
-- `stb-bwa-sus-bilanz-pruefung` — vorgelagerte Auswertung, die diesen Skill triggert
-- `stb-liquiditaetsvorschau-3wochen` — § 17-InsO-Parallelprüfung
-- `stb-liquiditaetsvorschau-3-6-12-monate` — integrierte Planung als Basis Stufe 1
-- `stb-warnschreiben-krisensignale` — nachgelagerter Skill: Schreibvorlage an Mandant
-- `liquiditaetsplanung` (separates Power-Plugin) — gerichtsfeste insolvenzrechtliche Liquiditätsbilanz (BGH-Passiva-II-Schema), bei tiefergehender Begutachtung
-- `anw-haftungswarn-15a-inso-mandant` — anwaltliche Spiegel-Variante
-
 ## Quellen und Updates
 
 Stand: 05/2026. Maßgebliche Reformen berücksichtigt: SanInsKG (24-Monats-Prognose bis 31.12.2026), SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F.), § 102 StaRUG. Bei Verlängerung/Auslaufen des SanInsKG ab 1.1.2027 Prognosezeitraum-Default zurück auf 12 Monate — bitte Stichtag prüfen.
+

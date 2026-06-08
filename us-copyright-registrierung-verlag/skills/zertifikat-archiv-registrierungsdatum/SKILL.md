@@ -5,10 +5,6 @@ description: "Certificate, Registrierungsdatum und Archiv: maßgeblicher Eingang
 
 # Zertifikat, Archiv und Registrierungsdatum
 
-## Arbeitsbereich
-
-Certificate, Registrierungsdatum und Archiv: maßgeblicher Eingang von Antrag, Gebühr und Deposit, elektronische Ablage, Nachweise und Management-Report. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Certificate, Registrierungsdatum und Archiv: maßgeblicher Eingang von Antrag, G
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Schließe die Registrierungsakte sauber ab. Das Certificate ist wichtig, aber die interne Akte braucht mehr: Antrag, Gebühr, Deposit, Tracking, Rückfragen, Änderungen und einen verständlichen Schlussvermerk.
-
 ## Prüfprogramm
 
 - Maßgebliches Registrierungsdatum aus Eingang von Antrag, Gebühr und Deposit herleiten; nicht mit Druckdatum des Certificates verwechseln.
@@ -33,17 +25,6 @@ Schließe die Registrierungsakte sauber ab. Das Certificate ist wichtig, aber di
 - Case Number, Registration Number, Titel, Rechteinhaber und Werkdaten mit dem Verlagssystem verknüpfen.
 - Deposit- und Versandbelege archivieren; eingereichte Exemplare nicht als Rücksendung erwarten.
 - Offene Rückfragen, Refusals oder Supplementary-Registration-Bedarf gesondert markieren.
-
-## Output
-
-- Abschlussvermerk,
-- Archiv-Index,
-- Management-Report über registrierte Titel,
-- Wiedervorlage für Folgeauflagen, Übersetzungen, Sammelbände und Backlist-Rollout.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -55,3 +36,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Ausgabe braucht der Mandant: Antragspaket, Clearance-Memo, Risikomatrix, Takedown, Lizenzklausel oder US-Counsel-Briefing?
 
 **Mindest-Output:** Arbeitsprodukt mit Claim Scope, Rechtekette, Risikomatrix, Evidenzlücken und nächstem US-Schritt.
+

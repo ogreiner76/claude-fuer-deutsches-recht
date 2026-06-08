@@ -5,10 +5,6 @@ description: "Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu fo
 
 # Betriebskostenabrechnung: Belege, Umlageschlüssel, Abflussprinzip und Fristen
 
-## Arbeitsbereich
-
-Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu formeller Ordnungsgemäßheit, Belegeinsicht, Umlageschlüsseln, Vorwegabzug, HeizkostenV und Einwendungsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,5 +24,3 @@ Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu formeller Ordnun
 3. Heiz-/Warmwasserkosten gesondert nach HeizkostenV prüfen.
 4. Formelle Fehler von materiellen Fehlern trennen; nur das richtige Angriffsziel wählen.
 
-## Output
-Erstelle eine Excel-taugliche Tabelle `Kostenart / Betrag gesamt / Abzug / Umlageschlüssel / Anteil / Vorauszahlung / Fehlerart / Beleg / Einwand`. Danach eine Kurzfassung für Mieter, Vermieter oder Verwaltung.

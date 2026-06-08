@@ -5,10 +5,6 @@ description: "Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Dat
 
 # EU-Datenbank-Registrierung — Art. 49 und 71 KI-VO
 
-## Zweck
-
-Art. 49 und 71 KI-VO verpflichten Anbieter und bestimmte Betreiber, ihre Hochrisiko-KI-Systeme in einer öffentlich zugänglichen EU-Datenbank zu registrieren. Dieser Skill klärt, wer wann was registrieren muss.
-
 ## Wer muss sich registrieren?
 
 ### Anbieter von Hochrisiko-KI-Systemen (Art. 49 Abs. 1 KI-VO)
@@ -88,9 +84,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -117,3 +110,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

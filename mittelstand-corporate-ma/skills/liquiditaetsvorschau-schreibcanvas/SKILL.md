@@ -5,10 +5,6 @@ description: "Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Woch
 
 # Freistehende Liquiditätsvorschau (Mittelstand)
 
-## Arbeitsbereich
-
-Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Prüfraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Prüfung Insolvenzschwellen-Check. Output Liquiditaetsplan-Tabelle Runway-Berechnung Warnsignal-Ampel. Abgrenzung zu mittelstand-ma-insolvenzreife (Rechtsschwellen) und fortbestehensprognose (IDW-Gutachten). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -218,3 +214,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2017&Aktenzeichen=II+ZR+88%2F16
 -->
+

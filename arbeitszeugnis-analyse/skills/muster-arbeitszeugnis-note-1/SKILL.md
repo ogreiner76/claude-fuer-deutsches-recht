@@ -55,10 +55,6 @@ Max Mustermann, Geschäftsführer
 
 ---
 
-## Ausgabeformat
-
-Der Skill gibt das Muster-Zeugnis im Fließtext aus (zur direkten Verwendung als Verhandlungsgrundlage) und ergänzt eine Ampeltabelle aller verwendeten Formulierungen mit Notenzuordnung als Erläuterung.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -67,3 +63,4 @@ Der Skill gibt das Muster-Zeugnis im Fließtext aus (zur direkten Verwendung als
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -44,6 +44,7 @@ Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfae
 - **LuftVG § 21a**: Wet-Lease-Genehmigung; Voraussetzungen und Befristung.
 - **LuftVG § 29d**: Aufsichtsbefugnisse des LBA gegenüber Luftverkehrsunternehmen.
 - **EASA Part-OPS ORO.AOC.100**: AOC-Anforderungen; Nachweis technischer und betrieblicher Kompetenz.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -54,6 +55,7 @@ Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfae
 6. Sind Sicherheitsauflagen bewertet und Widerspruch geprüft?
 7. Ist das AOC noch gültig und entspricht es dem aktuellen Streckennetz?
 8. Haben sich Eigentümerstruktur oder Hauptsitz geändert (EU-VO 1008/2008 Art. 4)?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -72,9 +74,6 @@ Die Pfändung eines Luftfahrzeugs erfordert besondere Vorbereitung:
 - **Betriebsunterbrechung**: Pfändung eines Linienflugzeugs löst Betriebsunterbrechung aus; Schadensersatz bei unberechtigtem Arrest.
 - **Cape Town Priorität**: Vor Pfändung ICAO-Register prüfen; vorrangige Sicherungsinteressen können Arrest verhindern.
 
-## Output
-
-Vermerk zu Airline – Pfändung planen mit Ampel-Rating Fristenstand und nächsten Schritten. Checkliste offener Punkte. Zuständigkeitsmatrix Behörde/Register. Fristenkalender mit Ampelstatus.
 ## Quellen
 
 - EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
@@ -103,3 +102,4 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

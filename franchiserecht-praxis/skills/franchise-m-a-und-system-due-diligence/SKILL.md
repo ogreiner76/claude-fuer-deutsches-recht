@@ -5,10 +5,6 @@ description: "Fachmodul Franchiserecht für Franchise-M&A und System-Due-Diligen
 
 # Franchise: Franchise-M&A und System-Due-Diligence
 
-## Arbeitsbereich
-
-Fachmodul Franchiserecht für Franchise-M&A und System-Due-Diligence: Beim Kauf eines Franchisesystems wird nicht nur der Vertrag gelesen, sondern Systemstabilität, Streitquote, Ausgleichsrisiko und IP-Kette geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,6 +47,3 @@ DD-Report mit Red-Flag-Fragen, Kaufpreisanpassung und Closing-CPs.
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

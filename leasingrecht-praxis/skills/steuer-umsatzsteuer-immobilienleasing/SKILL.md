@@ -5,10 +5,6 @@ description: "Umsatzsteuer im Leasingrecht: Lieferung vs. sonstige Leistung, Ent
 
 # Umsatzsteuer im Leasingrecht
 
-## Arbeitsbereich
-
-Umsatzsteuer im Leasingrecht: Lieferung vs. sonstige Leistung, Entstehungszeitpunkt, Vorsteuerabzug, Sonderzahlungen und USt-Pflichtangaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Umsatzsteuer im Leasingrecht: Lieferung vs. sonstige Leistung, Entstehungszeitpu
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die umsatzsteuerliche Behandlung von Leasingverträgen hängt davon ab, ob der Vertrag als **Lieferung** (Eigentumsübergang wirtschaftlich beim LN) oder als **sonstige Leistung** (fortlaufende Nutzungsüberlassung) qualifiziert wird. Die Unterscheidung bestimmt den USt-Entstehungszeitpunkt und die Vorsteuerabzugsmöglichkeit.
 
 ## Lieferung oder sonstige Leistung? (§§ 3, 3a UStG)
 
@@ -118,3 +110,4 @@ Wenn LN Gemischtverwender (unternehmerisch + privat): Vorsteuer aufteilen.
 - **Pflichtangaben-Checkliste**: § 14 IV UStG für Leasingrechnungen
 - **Sonderzahlungs-Buchungsschema**: Anzahlung, USt, Vorsteuer
 - **Dauerrechnung-Muster**: Monatliche Leasingrate mit korrekten Angaben
+

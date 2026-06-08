@@ -40,10 +40,6 @@ Je grundrechtsrelevanter eine Frage ist, desto eher muss der Gesetzgeber sie **s
 
 Verstoss gegen den Parlamentsvorbehalt fuehrt zur Verfassungswidrigkeit der Verordnung oder Verwaltungsvorschrift, ohne dass es noch auf Verhaeltnismaessigkeit ankaeme. Bei einer gesetzlichen Regelung kann die Wesentlichkeitsfrage in der Bestimmtheitspruefung mit aufgehen (siehe `bestimmtheit-normklarheit-eingriffsgesetze`).
 
-## Output
-
-Kurzpruefung: Wesentliche Frage (ja/nein) – wer regelt – Art 80 I GG eingehalten – Folge.
-
 ## Quellen mit Schlagwort
 
 - BVerfGE 33, 125 (Facharztstandard, Berufsregelung)
@@ -52,3 +48,4 @@ Kurzpruefung: Wesentliche Frage (ja/nein) – wer regelt – Art 80 I GG eingeha
 - BVerfGE 49, 89 (Kalkar I, Restrisiko)
 - BVerfGE 90, 286 (Somalia-Einsatz, Parlamentsbeteiligung)
 - BVerfGE 157, 30 (Klimaschutz-Beschluss, intertemporale Steuerung)
+

@@ -5,10 +5,6 @@ description: "Preisbindung Arzneimittel AMPreisV: prüft die einschlägigen Vora
 
 # Preisbindung Arzneimittel AMPreisV
 
-## Arbeitsbereich
-
-Preisbindung Arzneimittel AMPreisV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,15 +93,6 @@ Eingaben:
 - Botendienst über Stadtgrenzen hinaus mit Werbung "kostenfrei" — Wettbewerbsproblem.
 - Werbung mit "günstigster Apotheke" für Rx — irreführend.
 
-## Querverweise
-
-- `skonti-boni-rabatte-zuweisungsverbot` (Boni-Detail)
-- `onlinewerbung-hwg-apotheken` (HWG)
-- `preisangaben-e-commerce-apotheke` (E-Commerce-Preisangaben)
-- `versandhandelserlaubnis-eu-versandapotheke` (EU-Versand)
-- `kooperation-arzt-apotheke-antikorruption` (Zuweisungsverbot)
-- `digitale-plattformen-marktplatz-apothekenrecht` (Marktplätze)
-
 ## Quellen Stand 06/2026
 
 - AMG § 78; AMPreisV (Stand zur Berechnung im amtlichen Bundesgesetzblatt prüfen).
@@ -113,3 +100,4 @@ Eingaben:
 - BGH, staend. Rspr. zur Preisbindung und Bonusaktionen; aktuelle Bestätigung zu Skonti-Vorschriften vom Anwender zu verifizieren.
 - ABDA-Stellungnahmen zur Apothekenhonorarreform (vom Anwender zu verifizieren).
 - BMG-Mitteilungen zur Apothekenreform.
+

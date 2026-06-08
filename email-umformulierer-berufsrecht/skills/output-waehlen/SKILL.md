@@ -9,7 +9,6 @@ description: "Output-Wahl für E-Mail-Umformulierung im Berufsrecht: stimmt Adre
 
 Diese Output-Weiche für **Email Umformulierer Berufsrecht** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `allgemeine-sonderfall-edge-case` — Allgemeine Sonderfall Edge Case
@@ -36,12 +35,9 @@ Diese Output-Weiche für **Email Umformulierer Berufsrecht** entscheidet, ob Mem
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei E-Mail-Umformulierung im Berufsrecht sofort: Umformulierter E-Mail-Entwurf oder Tonalitäts-Variante (sachlich/streng/empathisch).
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

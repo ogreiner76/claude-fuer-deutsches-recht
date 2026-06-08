@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. Augus
 
 # Weimarer Reichsverfassung (WRV, 11. August 1919)
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,13 +48,3 @@ Die WRV war die erste demokratische Gesamtverfassung Deutschlands. Sie galt form
 - Sekundaerliteratur: Huber Deutsche Verfassungsgeschichte Bd. VI-VII; Gusy Die Weimarer Reichsverfassung
 - Nie Gegenwartsdogmatik (GG-Begriffe) unbemerkt in WRV-Texte einlesen
 
-## Output
-
-- Verfassungsrechtliches Memo zur historischen Einordnung
-- Vergleichstabelle WRV - GG zu einzelnen Instituten
-- Quellenmatrix mit Reichsgesetzblatt-Fundstellen
-- Erklaertext für Unterricht und Klausur
-
-## Quellenregel
-
-Nur frei prüfbare Quellen: documentArchiv.de für WRV-Text, Reichsgesetzblatt via ALEX/OeNB, Reichstagsprotokolle via reichstagsprotokolle.de. Sekundaerliteratur mit Autor, Werk, Stelle.

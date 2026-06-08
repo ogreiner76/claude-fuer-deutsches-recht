@@ -5,10 +5,6 @@ description: "Strafanzeige mit Zivilrecht koordinieren: Schadensersatz, Unterlas
 
 # Rechtsfolgen und Zivilstrategie
 
-## Arbeitsbereich
-
-Strafanzeige mit Zivilrecht koordinieren: Schadensersatz, Unterlassung, einstweilige Verfügung, Kündigung, Versicherung, Adhäsion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Strafanzeige mit Zivilrecht koordinieren: Schadensersatz, Unterlassung, einstwei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Fälle, in denen Strafrecht nicht das einzige Ziel ist.
-
 ## Norm- und Quellenanker
 
 BGB; ZPO; StPO Adhäsion; Fachrecht.
-
-## Arbeitsfragen
-
-1. Was soll praktisch erreicht werden?
-2. Welche zivilrechtliche Frist?
-3. Hilft oder schadet Anzeige?
-
 
 ## Normen & Rechtsprechung
 
@@ -40,9 +25,6 @@ Konkret zu prüfen:
 - § 152 Abs. 2 StPO (Anfangsverdacht)
 - § 160 StPO (Erforschungspflicht)
 - § 170 StPO (Anklage oder Einstellung)
-## Output
-
-Parallelstrategie.
 
 ## Red Flags
 
@@ -54,6 +36,3 @@ Parallelstrategie.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

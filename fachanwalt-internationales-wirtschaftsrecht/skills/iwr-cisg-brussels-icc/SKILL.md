@@ -5,9 +5,6 @@ description: "IWR CISG Brussels ICC im Internationalen Wirtschaftsrecht: prüft 
 
 # IWR CISG Brussels ICC
 
-## Arbeitsbereich
-
-**IWR CISG Brussels ICC** ordnet den Fall über die tragenden Prüfungslinien: Unternehmen hat grenzüberschreitenden Warenkauf und fragt, Grenzüberschreitender Rechtsstreit, Mandant hat Schiedsklausel und will internationales. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "IWR CISG Brussels ICC im Internationalen Wirtschaftsrecht: prüft 
 - Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-iwr-cisg-anwendbarkeit`
@@ -30,10 +28,6 @@ description: "IWR CISG Brussels ICC im Internationalen Wirtschaftsrecht: prüft 
 **Fokus:** Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließen? CISG Anwendbarkeit Art. 1 CISG. Prüfraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kollisionsrecht Ausschluss Art. 6 CISG Garantie- und Maengelpflichten Art. 35 ff. Untersuchungspflicht Art. 38 Ruegepflicht Art. 39. Output: CISG-Anwendbarkeits-Entscheidung und Handlungsempfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-cisg-prüfung (inhaltliche Prüfung) und gerichtsstand-und-rechtswahl-prüfen.
 
 ### CISG-Anwendbarkeit
-
-## Zweck
-
-Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwendbar ist.
 
 ## 1) Eingangs-Abfrage
 
@@ -187,10 +181,6 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 **Fokus:** Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen.
 
 ### Brüssel-Ia-VO Internationale Zuständigkeit
-
-## Zweck
-
-Prüfung, welches EU-Gericht international zuständig ist (VO (EU) 1215/2012, Brüssel-Ia).
 
 ## 1) Eingangs-Abfrage
 
@@ -374,10 +364,6 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 
 ### ICC / UNCITRAL Schiedsverfahren — Internationales Wirtschaftsrecht
 
-## Zweck
-
-Internationale Wirtschaftsstreitigkeiten werden überwiegend schiedsgerichtlich gelöst. ICC (Paris), UNCITRAL (UN), SIAC (Singapur), HKIAC (Hong Kong), ICSID (Washington, Investitionsschutz). Anwaltliche Begleitung anspruchsvoll: anwendbares Recht, Sprache, Schiedsrichter-Auswahl.
-
 ## Eingaben
 
 - Vertragsart (Kauf, Lieferung, JV, Lizenz, M&A)
@@ -480,13 +466,6 @@ Internationale Wirtschaftsstreitigkeiten werden überwiegend schiedsgerichtlich 
 - **Vorab-Versicherung gegen Schiedsverfahrenskosten** (After-the-Event-Insurance ATE)
 - **Vollstreckungs-Substanz** vorab klären — Sieg ohne Vermögen ist wertlos
 
-## Querverweise
-
-- `fachanwalt-internationales-wirtschaftsrecht-orientierung` — Triage
-- `fachanwalt-iwr-cisg-anwendbarkeit` — Vertiefung CISG
-- `fachanwalt-iwr-brussels-ia-zuständigkeit` — EuGVVO
-- `fachanwalt-iwr-eu-us-dpf-data-privacy-framework` — DSGVO-Bezug
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -574,3 +553,4 @@ Streitwert: EUR [BETRAG]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

@@ -114,10 +114,6 @@ DSGVO-spezifisches Konformitätsverfahren nach Art. 40 DS-GVO. Hilfreich, aber k
 - Löschung nur "auf Anforderung", keine automatische
 - Keine "no training"-Klausel für das verwendete Modell
 
-## Output
-
-Tabellarische Bewertung. Defizite landen im Rückfragebrief mit der Aufforderung, Zertifikate, Geltungsbereiche und Vertragsklauseln vorzulegen.
-
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -129,9 +125,6 @@ Tabellarische Bewertung. Defizite landen im Rückfragebrief mit der Aufforderung
 - Art. 28 Abs. 3 lit. c DSGVO — TOM-Anlage als Pflichtbestandteil der AVV
 - Art. 83 Abs. 4 DSGVO — Bußgeld bei Verstoß gegen Art. 32: bis 10 Mio. EUR oder 2 %
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Liegt eine aktuelle TOM-Anlage (mit Datum) zum Vertrag vor?
@@ -188,3 +181,4 @@ Luecken: [BESCHREIBUNG]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

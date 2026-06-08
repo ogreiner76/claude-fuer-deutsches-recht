@@ -5,10 +5,6 @@ description: "Kündigungsbutton § 312k BGB: prüft die einschlägigen Vorausset
 
 # Kündigungsbutton § 312k BGB
 
-## Arbeitsbereich
-
-Kündigungsbutton § 312k BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -104,15 +100,6 @@ Kündigungsbutton § 312k BGB: prüft die einschlägigen Voraussetzungen, Dokume
 - Bestandskunden ausgeschlossen.
 - Mobile-Ansicht: Button nicht sichtbar.
 
-## Querverweise
-
-- digitale-inhalte-abo-kuendigungsbutton
-- widerrufsrecht-verbraucher-355-312g-bgb
-- button-loesung-312j-bgb
-- abmahnung-uwg-unterlassungserklaerung
-- shop-check-checkout-widerruf-impressum
-- rechtstexte-versionierung-deployment
-
 ## Quellen Stand 06/2026
 
 - § 312k BGB – Volltext gesetze-im-internet.de.
@@ -121,3 +108,4 @@ Kündigungsbutton § 312k BGB: prüft die einschlägigen Voraussetzungen, Dokume
 - UWG §§ 3a, 5a; UKlaG – Volltexte gesetze-im-internet.de.
 - Verbraucherzentrale Bundesverband (VZBV) – Abmahnpraxis und Musterklagen.
 - Verbraucherrechte-RL 2011/83/EU – EUR-Lex.
+

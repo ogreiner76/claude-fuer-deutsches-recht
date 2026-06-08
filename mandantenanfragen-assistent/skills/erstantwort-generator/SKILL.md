@@ -5,10 +5,6 @@ description: "Sekretariat oder Anwalt muss professionelle Erstantwort-E-Mail an 
 
 # Erstantwort-Generator
 
-## Arbeitsbereich
-
-Sekretariat oder Anwalt muss professionelle Erstantwort-E-Mail an potentiellen Mandanten senden. Hauptskill Erstantwort-E-Mail. Prüfraster: Dank für Anfrage exakte Anrede Terminvergabe-Hinweis Transkriptionsservice mit DSGVO-Einwilligung Mandatsverhältnis-Disclaimer Schlussformel. Output: fertige Erstantwort-E-Mail mit allen Pflichthinweisen. Abgrenzung zu muster-erstantwort (Template-Vorlage) und anrede-uebernehmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,9 +32,6 @@ Dieser Hauptskill erstellt die vollständige formelle Erstantwort-E-Mail an eine
 - § 43 BRAO — Sorgfaltspflicht: zeitnahe und vollstaendige Beantwortung eingehender Anfragen
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch gegenueber dem potenziellen Mandanten
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf (Koordination der Teil-Skills)
 
 1. **Parsing:** Skill `anfrage-eingang-parser` läuft zuerst und liefert strukturierte Daten.
@@ -183,3 +176,4 @@ Der Skill gibt die fertige E-Mail als formatierten Text aus, bereit zum Kopieren
 - `folgekorrespondenz-vorbereiten` — CRM-Eintrag parallel
 - `mehrsprachige-antwort` — Sprache der Antwort
 - `muster-erstantwort` — Vorlagenschreiben als Referenz
+

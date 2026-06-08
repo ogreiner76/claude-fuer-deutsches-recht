@@ -5,10 +5,6 @@ description: "Paragraph 102 StaRUG Warnpflicht Bei Rechtsberatern: ordnet Normen
 
 # § 102 StaRUG — Warnpflicht der Rechtsberater
 
-## Arbeitsbereich
-
-Paragraph 102 StaRUG Warnpflicht Bei Rechtsberatern: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,39 +74,6 @@ Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=
 Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=29.06.2023&Aktenzeichen=IX+ZR+56/22>
 
 **Praktische Konsequenz:** Kein Berater kann sich auf den Umfang seines Mandats zurückziehen, wenn er krisensignifikante Informationen in der Hand hält. Die Warnung gehört zum Mindestinhalt jedes Beratungsverhältnisses.
-
----
-
-## Vorgehen
-
-### Schritt 1: Checkliste Auslöser-Erkennung
-
-Monatliche Prüfung durch den Berater anhand der BWA:
-
-- [ ] Ist die Eigenkapitalquote unter 10 % gesunken?
-- [ ] Ist EBIT/EBITDA seit drei Monaten negativ?
-- [ ] Bestehen Zahlungsverzögerungen an das Finanzamt oder Sozialversicherungsträger?
-- [ ] Wurden Kreditlinien vollständig ausgeschöpft?
-- [ ] Gibt es Klagen, Vollstreckungsmaßnahmen oder Pfändungen?
-- [ ] Hat der Mandant Lieferantenrechnungen > 60 Tage offen?
-- [ ] Wurde die Bank über Covenant-Unterschreitungen informiert?
-
-Wenn mehr als zwei dieser Fragen mit "ja" beantwortet werden: Warnpflicht ist ausgelöst.
-
-### Schritt 2: Warnung aussprechen und dokumentieren
-
-1. Gespräch mit Mandant führen (persönlich oder Videocall, protokolliert)
-2. Schriftliche Bestätigung per Brief oder E-Mail (Muster s.u.)
-3. Empfangsbestätigung einholen (Lesebestätigung, Antwort-E-Mail, Unterschrift)
-4. Akte anlegen: Datum der Erkenntnis, Datum der Warnung, Reaktion des Mandanten
-
-### Schritt 3: Eskalation bei Untätigkeit des Mandanten
-
-Reagiert der Mandant nicht innerhalb der gesetzten Frist (i.d.R. zwei Wochen), folgt:
-
-1. Schriftliche Wiederholung der Warnung mit Fristmahnung
-2. Prüfung der Mandatsfortführungspflicht — ggf. Mandatsniederlegung
-3. Dokumentation der Mandatsniederlegung aus Haftungsgründen
 
 ---
 
@@ -214,14 +177,6 @@ Unterschrift Geschäftsführer
 
 ---
 
-## Querverweise
-
-- → `paragraph-1-starug-pflichten-und-24-monats-horizont` — Früherkennungspflicht der Geschäftsführung
-- → `mandantenbrief-warnung-paragraph-102-starug-template` — ausführliche Briefvorlagen
-- → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Protokollierungspflichten
-- → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Dreiwochen-Frist
-- → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF-Haftung
-
 ## Triage — Erste Einordnung
 
 Bevor losgelegt wird, klaere:
@@ -230,10 +185,3 @@ Bevor losgelegt wird, klaere:
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

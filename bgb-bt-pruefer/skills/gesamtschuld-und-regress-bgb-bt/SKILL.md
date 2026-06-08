@@ -10,10 +10,6 @@ description: "Prüft Gesamtschuld §§ 421 ff. BGB, Innenausgleich nach § 426 B
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Gesamtschuldnerschaft nach §§ 421 ff. BGB prüfen: Entstehungsvoraussetzungen, Wirkungen auf Außen- und Innenverhältnis sowie Regressansprüche.
-
 ## Normanker
 
 - § 421 BGB: Gesamtschuld (jeder Schuldner schuldet das Gleiche)
@@ -50,25 +46,13 @@ Gesamtschuldnerschaft nach §§ 421 ff. BGB prüfen: Entstehungsvoraussetzungen,
 - Verjährung gegen einen Schuldner wirkt nicht gegen die anderen (§ 425 Abs. 2 BGB).
 - Innenquote nach § 426 BGB richtet sich nach Veranlassung des Schadens, nicht nach Kopfteilen.
 - Legalzession nach § 426 Abs. 2 BGB setzt vollständige Befriedigung des Gläubigers voraus.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Gesamtschuldner-Matrix (Außen- und Innenverhältnis)
-- Regressberechnung mit Quoten
-- Verjährungstabelle
-- Handlungsempfehlung und Risikoampel
-
-## Qualitätsregeln
-
-- Außen- und Innenverhältnis immer getrennt prüfen.
-- § 423 BGB-Erlass nur mit ausdrücklicher oder konkludenter Befreiungsabsicht des Gläubigers bejahen.
-- Innenquote nie pauschal nach Kopfteilen bestimmen.
 
 ## Anschluss-Skills
 
@@ -77,10 +61,3 @@ Gesamtschuldnerschaft nach §§ 421 ff. BGB prüfen: Entstehungsvoraussetzungen,
 - deliktsrecht-haftung-für-verrichtungen-paragraph-831
 - workflow-anspruchslandkarte
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

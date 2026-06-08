@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Forschungszulage FZulG: ordnet R
 
 Dieser Einstieg routet **Forschungszulage Antragstellung** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abgrenzung-adaptiver-antrag` — Abgrenzung Adaptiver Antrag
@@ -41,7 +40,6 @@ Arbeitsfokus: **Einstieg und Routing**. Prüfe diese Anker am Sachverhalt; ergä
 - `§ 10 FZulG` — Festsetzung/Auszahlung.
 - `§ 90 Abs. 1 AO` — Mitwirkung und Belege.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
@@ -52,12 +50,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Forschungszulage FZulG typische Eskalationsstufen: BSFZ-Antrag, Festsetzungsantrag FA, Einspruch.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

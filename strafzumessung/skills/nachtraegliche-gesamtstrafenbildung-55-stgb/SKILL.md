@@ -122,14 +122,6 @@ In solchen Faellen kommt der **Haerteausgleich** in Betracht; vgl. `haerteausgle
 - **Gesamtstrafen-Obergrenze** ueberschritten (§ 54 Abs. 2 StGB).
 - **Mehrere Zaesuren** in komplexer Konstellation falsch geordnet.
 
-## Querverweise
-
-- `gesamtstrafenbildung-53-54-stgb-erste-instanz` — Grundlagen.
-- `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung` — Sondersituation.
-- `bewaehrung-56-stgb-positive-sozialprognose` — Bewaehrung der neuen Gesamtstrafe.
-- `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — Vollstreckungsmodalitaeten.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Begruendungspflicht.
-
 ## Quellen und Stand 05/2026
 
 - § 55 StGB in der geltenden Fassung.
@@ -137,3 +129,4 @@ In solchen Faellen kommt der **Haerteausgleich** in Betracht; vgl. `haerteausgle
 - §§ 460, 462, 462a StPO.
 - BGH-staendige Linie zu Zaesurwirkung, Einbeziehung und Schutzzweck — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

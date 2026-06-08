@@ -5,10 +5,6 @@ description: "Verlagsrecht: Rechtehandel auf Buchmessen (Frankfurt, Bologna) —
 
 # Verl-037 · Buchmesse: Rechtehandel und NDA
 
-## Arbeitsbereich
-
-Verlagsrecht: Rechtehandel auf Buchmessen (Frankfurt, Bologna) — NDA, Letter of Intent, Lizenzvertragsvorbereitung, exklusive Verhandlung und internationale Lizenzpraxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -132,3 +128,4 @@ Buchmessen (Frankfurt, Bologna, London, BEA) sind die wichtigsten Plattformen f�
 - **Lizenzvertrag-Checkliste**: Schlüsselklauseln vorhanden / fehlend
 - **Rechtehandel-Tracking-Sheet**: Gespräche, Status, Fristen
 - **Schiedsklausel-Formulierung**: DIS/ICC-Standard
+

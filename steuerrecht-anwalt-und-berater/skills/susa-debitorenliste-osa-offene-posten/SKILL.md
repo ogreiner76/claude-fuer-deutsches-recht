@@ -98,12 +98,6 @@ SUMME [X]
 - Empfehlungen zum Mahnwesen.
 - Bei drohendem grossen Forderungsausfall: Liquiditaets-Eskalation.
 
-## Output
-
-- OPOS-Liste mit Faelligkeitsstaffel.
-- Mahnempfehlung mit Top-Schuldnern.
-- Einzelwertberichtigungs-Vorschlag.
-
 ## Strategie und Praxis-Tipps
 
 - Bei Bilanzstichtag detaillierte Forderungsbewertung — Einzel- und Pauschalwertberichtigung dokumentieren.
@@ -112,14 +106,6 @@ SUMME [X]
 - Mahnwesen frueh ansetzen — je laenger gewartet wird, desto schwieriger ist Durchsetzung.
 - StBVV: OPOS in Buchfuehrungspauschale; separates Mahnwesen-Honorar.
 - DATEV-Tipp: DATEV-OPOS-Auswertung mit Faelligkeitsstaffeln und Mahn-Bewegungs-Eingabe.
-
-## Querverweise
-
-- `stb-susa-kreditorenliste-ova` — Kreditoren-OPOS.
-- `stb-susa-saldenabstimmung-bestaetigung` — Saldenabstimmung.
-- `stb-bwa-statische-liquiditaet-kennzahlen` — Liquiditaet.
-- `stb-jahresabschluss-bestandskonten-abstimmung` — Bilanzvorbereitung.
-- `stb-bwa-sus-bilanz-pruefung` — Krisensignale.
 
 ## Quellen und Updates
 
@@ -134,10 +120,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (BMF-Hinweis ohne Marker neu formuliert) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

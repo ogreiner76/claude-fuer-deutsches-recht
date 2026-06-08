@@ -5,10 +5,6 @@ description: "Bestehende Richtlinien oder Compliance-Dokumente an neue regulator
 
 # Praxisprofil anpassen
 
-## Arbeitsbereich
-
-Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Prüfraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Aenderungsprotokoll. Abgrenzung: nicht für Neuerstellung von Richtlinien (richtlinien-neufassung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforder
 - Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill ermöglicht die gezielte Anpassung einzelner Parameter im Praxisprofil, ohne die vollständige Ersteinrichtung zu wiederholen. Einsatz: neue Behörde hinzufügen, Materialitätsschwelle nachjustieren, Richtlinienbibliothek aktualisieren, Feed-URL korrigieren, Rollenwechsel vornehmen.
 
 ## Eingaben
 
@@ -74,19 +66,11 @@ Geänderten Abschnitt dem Nutzer zur Bestätigung vorlegen, dann speichern.
 
 §§ 48, 49 VwVfG (Rücknahme, Widerruf) — §§ 313, 314 BGB (Anpassung, Kuendigung bei Aenderung der Grundlage) — Art. 288 AEUV (Richtlinien-Anpassungspflicht)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen und Zitierweise
 
 Zitierweise: `../../../references/zitierweise.md`
 
 Keine normativen Anforderungen an das Praxisprofil selbst. Inhaltliche Anforderungen richten sich nach dem Plugin-Zweck.
-
-## Ausgabeformat
-
-- Kurzbestätigung der Änderung
-- Aktualisierten Abschnitt des Praxisprofils anzeigen
 
 ## Beispiel
 
@@ -110,3 +94,4 @@ Keine normativen Anforderungen an das Praxisprofil selbst. Inhaltliche Anforderu
 - **Versehentliches Überschreiben:** Dieser Skill ändert nur den angegebenen Abschnitt. Nie das gesamte Profil überschreiben.
 - **Ungültige Feed-URLs:** Feed-URL vor dem Speichern testen; defekte Feeds führen zu stillen Fehlern im `aufsichts-feed-monitor`.
 - **Fehlende Neuindizierung:** Nach Änderung des Richtlinienspeichers muss die Bibliothek neu indiziert werden. Hinweis geben.
+

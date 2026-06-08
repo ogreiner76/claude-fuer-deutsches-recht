@@ -94,35 +94,6 @@ Im Haftungsprozess — sei es der Insolvenzverwalter gegen den GF oder ein gesch
 
 ---
 
-## Vorgehen
-
-### Schritt 1: Protokollierungs-Regime einführen
-
-1. GF-Sitzungen **immer protokollieren** — auch informelle Runden
-2. **Standard-Protokollvorlage** für alle Sitzungstypen einführen
-3. **Unterschriften** aller anwesenden GF auf Protokoll
-4. **Archivierung** in gesichertem System (cloud-basiert mit Zugriffskontrolle)
-5. **Protokollreihenfolge** sicherstellen: Protokoll des letzten TOP muss Ergebnis des vorherigen referenzieren
-
-### Schritt 2: Krisenprotokoll-Trigger definieren
-
-Das Krisenprotokoll wird ausgelöst, wenn:
-
-- KPI-Ampel auf Gelb wechselt
-- Bank ein Kreditgespräch mit kritischem Inhalt führt
-- § 102-StaRUG-Warnung eines Beraters eingeht
-- Klage oder Vollstreckungsmaßnahme droht
-- GF eine wesentliche Entscheidung mit Krisenrelevanz trifft
-
-### Schritt 3: Digitale Sicherung
-
-- Alle Protokolle im Original und als PDF sichern
-- Versionierung mit Datum und Erstellungszeitpunkt
-- Regelmäßige Backups außerhalb der Unternehmens-IT
-- Im Extremfall: notarielle Hinterlegung wichtiger Dokumente
-
----
-
 ## Templates
 
 ### Muster: Standard-GF-Sitzungsprotokoll (Krisenrelevanz)
@@ -262,14 +233,7 @@ Erstellt von: ___________________ Datum: ___________
 
 ---
 
-## Querverweise
-
-- → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — Beweislastumkehr
-- → `paragraph-1-starug-pflichten-und-24-monats-horizont` — Dokumentation der Früherkennungspflicht
-- → `paragraph-102-starug-warnpflicht-bei-rechtsberatern` — Dokumentation der Warnung
-- → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Protokoll des Erkenntniszeitpunkts
-- → `fruehwarnsystem-architektur-zwei-jahres-horizont` — Systemdokumentation IDW PS 340 n.F.
-
 ## Weitere Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

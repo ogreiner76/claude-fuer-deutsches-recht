@@ -5,10 +5,6 @@ description: "Unterstützt bei Erstellung und Verhandlung von Handelsvertreterve
 
 # Handelsvertretervertrag — Entwurf und Verhandlung nach §§ 84 bis 92c HGB
 
-## Arbeitsbereich
-
-Unterstützt bei Erstellung und Verhandlung von Handelsvertreterverträgen: strukturierter Vertragsentwurf mit Mindestinhalten nach §§ 84-92c HGB, Checkliste für AGB-feste Klauseln, Regelungen zu Provision, Bezirk, Ausgleich, Wettbewerbsverbot und Kündigung sowie Verhandlungshinweise für beide Seiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Gebietsschutz ohne Online-Regelung — Unternehmer schließt Bezirksprovision für E-Commerce aus.
 - Provisionsklausel enthält Digit-Komma-Digit-Muster — Validator-Fehler in digitalen Systemen.
 
-## Output
-
-Vollständiger Handelsvertretervertrag-Entwurf, Verhandlungs-Checkliste, Klausel-Redline mit Kommentaren.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 90a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__90a.html)
 - [§ 92c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92c.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+

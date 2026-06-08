@@ -5,10 +5,6 @@ description: "Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. In
 
 # Sanierungsgewinn — Paragraph 3a EStG im Insolvenzplan
 
-## Arbeitsbereich
-
-Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen pruefen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG. Mustertext für darstellenden Teil des Plans und für den Erlassantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -175,23 +171,6 @@ Paragraph 222 AO.
 5. Stille Reserven mit Sanierungsertrag vermengt.
 6. Annahme, die Plan-Bestaetigung loese die Steuerfreiheit automatisch aus — sie ist Voraussetzung, aber der Antrag ist gesondert zu stellen.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Verrechnungs-Modell.
-- `insol-sanierungsgewinn-verzicht-bilanz-im-plan` — Bilanzteil.
-- `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack` — GewSt-Spiegel.
-- `insol-sanierungsgewinn-debt-equity-swap-im-plan` — DES-Variante.
-- `inso-eroeffnungsantrag-checkliste` — Verfahrenseroeffnung.
-
-In anderen Plugins:
-
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt insgesamt.
-- `steuerrecht-anwalt-und-berater` — generelle Steuer-Skills.
-- `grosskanzlei-corporate-ma` — Investor-Sicht.
-
 ## Quellen Stand 06/2026
 
 ### Normen
@@ -228,3 +207,4 @@ In anderen Plugins:
 - Siehe Fachmodul `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` (Drei-Phasen-Analyse) im Plugin `steuerrecht-anwalt-und-berater`.
 
 Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

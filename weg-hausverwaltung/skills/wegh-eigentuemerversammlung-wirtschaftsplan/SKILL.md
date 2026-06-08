@@ -5,9 +5,6 @@ description: "Wegh Eigentuemerversammlung Wirtschaftsplan im Plugin Weg Hausverw
 
 # Wegh Eigentuemerversammlung Wirtschaftsplan
 
-## Arbeitsbereich
-
-**Wegh Eigentuemerversammlung Wirtschaftsplan** ordnet den Fall über die tragenden Prüfungslinien: Bauleiter Eigentuemerversammlung WEG, WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach §, Prüft Wirtschaftsplan. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Wegh Eigentuemerversammlung Wirtschaftsplan im Plugin Weg Hausverw
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `wegh-eigentuemerversammlung-bauleiter`
@@ -70,13 +68,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
@@ -100,10 +91,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 ## Fachkern: WEG: Wirtschaftsplan und Jahresabrechnung
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
-
-## Aufgabe
-
-Dieser Skill führt Verwalter, Beirat, Eigentümer und Anwälte durch die aktuelle § 28-WEG-Logik. Er vermeidet den alten Reflex, "die Jahresabrechnung zu genehmigen". Beschlossen werden Nachschüsse und die Anpassung von Vorschüssen; der Wirtschaftsplan stützt die Vorschüsse.
 
 ## Einstieg
 
@@ -148,13 +135,6 @@ Dieser Skill führt Verwalter, Beirat, Eigentümer und Anwälte durch die aktuel
 - Eigentümererläuterung in normaler Sprache.
 - Anfechtungsrisiko-Matrix.
 - Vermieter-Datenpaket für Betriebskostenabrechnung.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -230,14 +210,6 @@ Finanzunterlagen der GdWE verwaltungspraktisch und beschlussrechtlich kontrollie
 - Rücklagenentnahme für beschlossene Maßnahme: Rücklagenkonto an Bank/Rechnung Handwerker.
 - Sonderumlage: Sonderumlage-Forderung Eigentümer an Sonderumlage-Erlös; Bank an Sonderumlage-Forderung bei Zahlung.
 
-## Output
-
-- Prüfmatrix Abrechnung (Schlüssel, Verteilung, Plausibilität, Konto)
-- Fragen an Verwalter/Buchhaltung
-- Beschlussvorschlag Abrechnungsspitzen
-- Beschlussvorschlag Schlüsseländerung mit sachlichem Grund
-- Beiratsnotiz mit Risikoampel
-
 ## Cross-Refs
 
 - Liquiditätsprüfung, Sonderumlage → `hausgeld-sonderumlage-liquiditaet`
@@ -249,10 +221,3 @@ Finanzunterlagen der GdWE verwaltungspraktisch und beschlussrechtlich kontrollie
 
 `rechtsstand-mai-2026-faktenbank` zwingend laden. Rechtsprechungsaussagen nur mit Gericht, Datum, Aktenzeichen und offen prüfbarer Quelle.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

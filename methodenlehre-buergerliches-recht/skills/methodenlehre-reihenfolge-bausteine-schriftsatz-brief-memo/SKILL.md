@@ -51,10 +51,6 @@ description: "Dieses Skill definiert die methodisch optimale Reihenfolge und Bau
 - Das interne Memo enthält keine Executive Summary, sodass Entscheidungsträger die Kernbotschaft suchen müssen.
 - Beweisantritte fehlen oder sind zu allgemein formuliert, um prozessual wirksam zu sein.
 
-## Output
-
-Das Skill liefert für jede Textgattung ein Baustein-Template mit optimaler Reihenfolge und kurzen Ausfüllhinweisen. Ergänzt wird eine Checkliste für die Qualitätsprüfung vor dem Versand. Alle Templates sind direkt für die anwaltliche Kanzleipraxis nutzbar.
-
 ## Quellen
 
 - [§ 253 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__253.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

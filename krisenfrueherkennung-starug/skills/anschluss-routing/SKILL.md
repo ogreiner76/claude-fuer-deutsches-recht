@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Krisenfrüherkennung StaRUG: wählt den nä
 
 Dieses Anschluss-Routing für **Krisenfrueherkennung Starug** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `ampelsystem-beweislast-und-darlegungslast` — Ampelsystem Beweislast und Darlegungslast
@@ -35,10 +34,6 @@ Dieses Anschluss-Routing für **Krisenfrueherkennung Starug** wählt nach dem er
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragter, Restrukturierungsgericht (LG) oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Krisenfrüherkennung StaRUG.
 
 ## Qualitätsanker
 

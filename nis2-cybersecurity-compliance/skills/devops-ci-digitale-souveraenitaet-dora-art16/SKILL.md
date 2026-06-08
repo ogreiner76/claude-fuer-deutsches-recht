@@ -5,10 +5,6 @@ description: "Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit im Nis2 Cybers
 
 # Devops Ci Cd Secrets
 
-## Arbeitsbereich
-
-Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: CI/CD-Security-Review. Wenn der Nutzer nur eine Kurzantwort m
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

@@ -5,10 +5,6 @@ description: "Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, 
 
 # Recherchefahrplan: Orientierung, keine Recherche
 
-## Arbeitsbereich
-
-Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechung
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Juristische Recherche ist ein Kernbestandteil der klinischen Ausbildung. Die Initialphase — die richtige Norm finden, den Rahmen verstehen, den Einstieg schaffen — ist jedoch oft die zeitintensivste und bildungsmäßig geringwertigste Phase. Studierende verbringen Stunden damit, den Startpunkt zu finden, bevor sie eigentlich forschen können.
-
-Diese Skill liefert den Startpunkt: Normen zum Nachschlagen, Rechtsprechungsbereiche zum Untersuchen, Suchbegriffe für amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang und dejure. **Nichts davon ist verifiziert. Nichts davon ist zitierfähig. Alles ist ein Hinweis, dem der Studierende nachgehen muss.**
-
-**Dies ist eine pädagogische Absicherung, keine bloße Zeitersparnis.** Studierende lernen weiterhin zu recherchieren — sie beginnen nur von einem besseren Ausgangspunkt.
 
 ## Eingaben
 
@@ -46,6 +34,7 @@ Diese Skill liefert den Startpunkt: Normen zum Nachschlagen, Rechtsprechungsbere
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 0: Klinik-Vorlagendokumente zuerst lesen
@@ -115,22 +104,6 @@ Wenn der Studierende bereits Recherchematerial hochgeladen hat: lesen, was abged
 > - Vorhanden: [Zusammenfassung des Abgedeckten]
 > - Lücke: [Was der Fahrplan oben nahelegt, aber noch nicht gefunden wurde]
 > - `[PRÜFEN: Die zitierte Entscheidung [Name] — per Datenbank-Zitieranalyse prüfen, ob sie nicht durch spätere Rspr. eingeschränkt wurde]`
-
-## Ausgabeformat
-
-```markdown
-═══════════════════════════════════════════════════════════════════════
- RECHERCHEFAHRPLAN — HINWEISE, KEINE QUELLEN
- Nichts unten ist ein geprüfter Beleg. Jede Norm, jeder Rspr.-Bereich,
- jeder Suchbegriff ist ein Startpunkt für IHRE Recherche. Sie verifizieren
- Aktualität, Einschlägigkeit und Richtigkeit. Sie finden die tatsächlichen
- Entscheidungen. Wenn etwas unten unzutreffend oder veraltet ist, liegt
- das in der Natur des Instruments — es ist eine Karte, kein Ergebnis.
-═══════════════════════════════════════════════════════════════════════
-
-### Recherchefahrplan: [Rechtsfrage]
-
-**Rechtsgebiet:** [Gebiet] | **Bearbeiter/-in:** [Studierender]
 
 ## Vorlagendokumente der Klinik (zuerst lesen)
 
@@ -206,3 +179,4 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 <!-- AUDIT 27.05.2026
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

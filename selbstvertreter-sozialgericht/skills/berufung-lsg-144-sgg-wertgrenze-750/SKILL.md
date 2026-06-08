@@ -140,22 +140,7 @@ Verfahren am LSG ebenfalls kostenfrei (§ 183 SGG). Anwaltskosten zahlen Sie / P
 - Frist verpasst → kaum Rettung
 - Begruendung unklar → konkret zu den SG-Fehlern
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `urteil-sozialgericht-was-jetzt` — vorgelagert
-- `berufung-zulassung-besondere-bedeutung` — Zulassung
-- `berufung-zulassung-besondere-bedeutung` — wenn Wertgrenze nicht erreicht oder die Berufung nicht zugelassen wurde
-- `pkh-vor-sozialgericht-73a-sgg` — PKH auch im LSG
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 144 SGG aktuell. Wertgrenze 750 EUR.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Römisches Recht: Leihe Commodatum. Geführter Fachmodul mit Quell
 
 # Leihe Commodatum
 
-## Arbeitsauftrag
-
-Dieser Skill bearbeitet **Leihe Commodatum** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
-
 ## Sofortsortierung
 
 1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
@@ -38,17 +34,6 @@ Dieser Skill bearbeitet **Leihe Commodatum** im Plugin **Römisches Recht**. Er 
 - Risikoampel mit nächstem Schritt
 - Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
 
-## Red-Team-Fragen
-
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
-
-## Quellenregel
-
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
-
 ## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
 
 ### Schluesselstellen
@@ -77,3 +62,4 @@ Sachverhalt: A leiht B ein Pferd; B wird auf einem Feldzug ueberfallen; Pferd en
 ### Modernes Aequivalent
 - §§ 598-606 BGB Leihe.
 - Wesentlicher Unterschied: roemisches Recht Haftung haerter (custodia); BGB hat das gelockert.
+

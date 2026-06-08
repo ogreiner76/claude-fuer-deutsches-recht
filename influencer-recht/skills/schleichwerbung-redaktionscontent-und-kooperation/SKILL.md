@@ -5,10 +5,6 @@ description: "Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a U
 
 # Influencer-Recht: Schleichwerbung – Redaktionscontent und Kooperation
 
-## Arbeitsbereich
-
-Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a UWG, §§ 138 und 826 BGB, Sittenwidrigkeit, Abgrenzung bezahlter Content vs. redaktionelle Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Gibt es eine Gegenleistung (Geld, Produkt, Vorteil)?
 - Modifizierte Unterlassungserklärung
 - Verteidigungsschreiben bei Abmahnung
 - Systematik-Audit: Alle Posts auf Schleichwerbung prüfen
+

@@ -109,14 +109,6 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 - "Inkrafttreten am Tag nach Verkuendung" trotz IT-Erfordernis
 - "Vorhandene Behörden uebernehmen" ohne Personalrechnung
 
-## Querverweise
-
-- `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-- `nkr-verhaeltnismaessigkeit-aus-nkr-sicht`
-- `nkr-digital-anschlussfaehigkeit-tauglich`
-- `nkr-evaluierung-befristung-sunset-klausel`
-- `legistik-werkstatt/inkrafttreten-uebergangsrecht`
-
 ## Quellen Stand 06/2026
 
 - § 44 GGO
@@ -125,3 +117,4 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

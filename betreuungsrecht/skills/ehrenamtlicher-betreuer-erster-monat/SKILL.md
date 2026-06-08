@@ -5,10 +5,6 @@ description: "Ehrenamtlicher Betreuer: erster Monat im Plugin Betreuungsrecht: D
 
 # Ehrenamtlicher Betreuer: erster Monat
 
-## Zweck
-
-Dieser Skill führt nicht berufliche Betreuer Schritt für Schritt durch die ersten vier Wochen nach Bestellung. Er arbeitet beruhigend, praktisch und gerichtstauglich: Was muss sofort passieren, was darf warten, was darf der Betreuer überhaupt, und wann wird Hilfe geholt?
-
 ## Einstieg
 
 Frage nur diese Punkte ab:
@@ -56,16 +52,6 @@ Baue eine Akte mit diesen Fächern:
 - Wiederkehrende Aufgaben in Kalender/Reminder übertragen.
 - Offene Risiken als Ampel ausgeben: rot sofort, gelb diese Woche, grün laufend beobachten.
 
-## Output
-
-Erstelle am Ende:
-
-1. `Kurzstatus Betreuung`
-2. `30-Tage-Checkliste`
-3. `Fristen- und Erinnerungsliste`
-4. `Unterlagen-Lückenliste`
-5. `Nächste Nachricht an Betreuungsgericht / Behörde / Betreuungsverein`
-
 ## Qualitätsregeln
 
 - Nicht bevormundend schreiben: Betreuung ist Unterstützung, nicht Entmündigung.
@@ -73,3 +59,4 @@ Erstelle am Ende:
 - Vertretung nur nutzen, soweit sie erforderlich ist (§ 1821 Abs. 1 BGB).
 - Bei Grundstück, Erbe, Wohnungsaufgabe, riskanten Geldgeschäften, freiheitsentziehenden Maßnahmen oder Zwangsbehandlung immer Genehmigungspflicht prüfen.
 - Keine Rechtsprechung aus Modellwissen zitieren; nur nach Live-Prüfung.
+

@@ -5,10 +5,6 @@ description: "Fitness-Franchise und Verbraucherverträge rechtlich gestalten: La
 
 # Franchiserecht: Fitness-Franchise und Verbraucherverträge
 
-## Arbeitsbereich
-
-Fitness-Franchise und Verbraucherverträge rechtlich gestalten: Laufzeitklauseln in Mitgliedschaftsverträgen nach § 309 Nr. 9 BGB, Widerrufsrecht, Preisanpassungsklauseln, Schliessungspflichten bei Insolvenz und Haftung für Sportverletzungen im System. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Fitness-Franchise-System (Fitnessstudio, Yoga-Center, Kampfsportschule) hat 
 - Preisanpassungsklausel ohne konkreten Anpassungsmechanismus verstösst gegen § 307 BGB Transparenzgebot.
 - Haftungsausschluss für Sportverletzungen ist nach § 309 Nr. 7 BGB nichtig; Franchisegeber und Franchisenehmer haften voll.
 
-## Output
-
-- Mitgliedschaftsvertrag-Audit (Ampelbewertung)
-- AGB-konforme Laufzeit- und Kündigungsklausel
-- Widerrufsbelehrungsmuster
-- Datenschutz-Einwilligungserklärung für Fitness-Tracking
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/309.html
@@ -71,6 +60,7 @@ Ein Fitness-Franchise-System (Fitnessstudio, Yoga-Center, Kampfsportschule) hat 
 - https://dejure.org/gesetze/BGB/812.html
 - https://gesetze-im-internet.de/dsgvo/art_9.html
 - https://gesetze-im-internet.de/bgb/__312.html
+
 ## Vertiefung
 
 Das BGH-Urteil zur Wirksamkeit von Fitnessstudio-Mitgliedschaftsverträgen (BGH NJW 2016 S. 2428) hat grundlegende Weichen gestellt: Laufzeiten von 24 Monaten sind zulässig, aber Klauseln, die die Kündigung bei dauerhafter Leistungsunfähigkeit des Mitglieds ausschliessen, sind nach § 307 BGB unwirksam.
@@ -84,7 +74,10 @@ Das Widerrufsrecht bei Online-Abschluss eines Mitgliedschaftsvertrags (z. B. üb
 - Online-Abschluss: Widerrufsbelehrung prominenter Platz, Button-Lösung nach § 312j BGB, Bestätigungsmail.
 - Gesundheitsdaten aus Fitness-Tracking-Apps sind Gesundheitsdaten nach Art. 9 DSGVO; ausdrückliche Einwilligung einholen.
 - Restitutionspflicht bei Schliessung oder Insolvenz: Rückzahlung vorausgezahlter Beiträge nach § 812 BGB.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

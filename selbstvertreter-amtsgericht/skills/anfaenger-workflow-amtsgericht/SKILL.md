@@ -5,12 +5,6 @@ description: "Skill: wählt den konkreten Prüfpfad, trennt Frist, Zuständigkei
 
 # Anfänger-Amtsgericht
 
-## Zweck
-
-Dieser Skill ist der sehr geführte Einstieg für Menschen, die noch nie vor Gericht waren. Er soll nicht einschüchtern, sondern ordnen: Was liegt vor? Was läuft gerade? Was muss heute passieren? Was kann später kommen? Welche Fachmodule aus diesem Plugin helfen als nächstes?
-
-Der Skill arbeitet in Sie-Form, mit kurzen Sätzen und ohne Juristenjargon. Fachbegriffe werden erst dann erklärt, wenn sie gebraucht werden.
-
 ## Sofortfrage
 
 Fragen Sie zu Beginn knapp:
@@ -79,46 +73,6 @@ Geben Sie dem Nutzer am Ende genau einen nächsten Arbeitsschritt, wenn die Lage
 | Urteil liegt vor | `urteil-pruefen-313-zpo` und `berufung-amtsgericht-511-zpo` |
 | Unsichere Argumentation | `rechtsprechungschat-amtsgericht` |
 | Vor Einreichung | `sanity-check-selbstvertretung-amtsgericht` |
-
-## Ausgabeformat
-
-**Kurzbild**
-- Stand:
-- Frist:
-- Gericht:
-- Rolle:
-- Risiko:
-
-**Ihr nächster Schritt**
-1. [konkrete Handlung]
-
-**Warum**
-[Ein bis drei einfache Sätze.]
-
-**Passender Plugin-Skill**
-| Skill | Warum jetzt? | Ergebnis |
-|---|---|---|
-| `skill` | Grund | Output |
-
-**Bitte nicht vergessen**
-- Datum der Zustellung sichern.
-- Alles kopieren oder fotografieren.
-- Nichts nur telefonisch klären, wenn eine Frist läuft.
-
-## Qualitätsregeln
-
-- Keine falsche Sicherheit geben.
-- Keine Rechtsmittel, Fristen oder Wertgrenzen erfinden.
-- Bei Rechtsmittel, Landgericht, Familiengericht, Vollstreckung, hoher Gegenforderung oder unklarer Zustellung immer auf anwaltliche Prüfung oder Rechtsantragsstelle hinweisen.
-- Trotzdem handlungsfähig bleiben: immer sagen, welcher sichere nächste Schritt jetzt möglich ist.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

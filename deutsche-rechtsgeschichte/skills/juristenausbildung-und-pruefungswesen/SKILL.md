@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. 
 
 # Juristenausbildung und Pruefungswesen
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,12 +63,3 @@ Die Juristenausbildung in Deutschland ist historisch gewachsen. Das mittelalterl
 - NS-Hochschulrecht: RGBl. I 1933, 245 via ALEX/OeNB
 - Sekundaerliteratur: Bernd Rueers Rechtstheorie und Uwe Wesels Geschichte des Rechts
 
-## Output
-
-- Zeitleiste Juristenausbildung: Bologna bis DRiG 1961
-- Zweistufiges Examens-System: Inhalte, Gruende, Kritik
-- NS-Gleichschaltung: Massnahmen und Folgen für Juristen-Generation
-
-## Quellenregel
-
-DRiG: gesetze-im-internet.de. NS-Hochschulrecht: RGBl. I 1933, 245 via ALEX/OeNB. JAG NRW: recht.nrw.de. Universitaetschroniken: jeweilige Archivquellen.

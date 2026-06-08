@@ -5,10 +5,6 @@ description: "Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren u
 
 # Gerichtsverfahren und Schiedsverfahren – Insiderrecht
 
-## Arbeitsbereich
-
-Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,19 +71,3 @@ Neue Insiderinformationen entstehen ggf. bei:
 - Regelmäßiger Update-Mechanismus: Quartalsbericht der Rechtsabteilung an Compliance
  über wesentliche neue Entwicklungen in Verfahren mit Ad-hoc-Relevanz
 
-## Red-Team-Fragen
-
-- Sind alle wesentlichen Verfahren in der Compliance-Übersicht erfasst?
-- Wird die Wesentlichkeitsschwelle regelmäßig neu beurteilt (z. B. nach Klagebegründung)?
-- Werden Vergleichsverhandlungen als eigenständige Insiderinformation behandelt?
-- Ist der Aufschub-Tatbestand mit der konkreten Verfahrenssituation begründet?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Verfahrensregister mit Insiderinformations-Prüfstatus
-2. Wesentlichkeitsanalyse (Streitwert × Wahrscheinlichkeit × Kursrelevanz)
-3. Aufschub-Begründungsmatrix je Verfahren
-4. Eskalationsprotokoll für neue Entwicklungen
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

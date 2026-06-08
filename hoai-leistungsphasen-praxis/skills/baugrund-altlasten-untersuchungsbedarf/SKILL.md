@@ -5,10 +5,6 @@ description: "HOAI-Fachfrage: Baugrund, Altlasten, Schadstoffe, Bestandserkundun
 
 # Baugrund, Altlasten Und Untersuchungsbedarf
 
-## Arbeitsbereich
-
-HOAI-Fachfrage: Baugrund, Altlasten, Schadstoffe, Bestandserkundung, Untersuchungsbedarf, besondere Leistungen und Haftungs-/Nachtragsfolgen im Planungsprozess prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ HOAI-Fachfrage: Baugrund, Altlasten, Schadstoffe, Bestandserkundung, Untersuchun
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Anwendungsfall: baugrundgutachten fehlt, Schadstoffe im Bestand auftauchen, Altlasten Kosten sprengen oder der Planer Untersuchungsbedarf übersehen haben soll.
 
 ## Normanker
 
@@ -34,10 +26,6 @@ Anwendungsfall: baugrundgutachten fehlt, Schadstoffe im Bestand auftauchen, Altl
 3. Wer musste es beauftragen und wer musste warnen?
 4. Wie wirken neue Erkenntnisse auf Kosten, Termine und Planung?
 5. Sind Zusatzleistungen vergütbar oder Fehlerbeseitigung?
-
-## Output
-
-Untersuchungsbedarf-Vermerk mit Warnpflicht, Fachgutachterauftrag, Kostenfolge und Beweisunterlagen.
 
 ## Normen und Rechtsprechung
 
@@ -67,3 +55,4 @@ Untersuchungsbedarf-Vermerk mit Warnpflicht, Fachgutachterauftrag, Kostenfolge u
 - Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
 - Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
 - Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
+

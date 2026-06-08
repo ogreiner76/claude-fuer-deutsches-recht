@@ -59,14 +59,6 @@ Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (T
 - Forschungsdaten, die personenbezogene Informationen enthalten, dürfen unter CC0 nur mit DSGVO-Grundlage veröffentlicht werden.
 - Hochschulen haben selten klare IP-Policies für Forschungsdatenbanken — interne Regelungslücken führen zu Streit bei Ausgründungen.
 
-## Output
-
-- Datenbankherstellerrecht-Gutachten für Forschungsdatenbank
-- TDM-Schranken-Analyse nach § 60d UrhG
-- Lizenzwahlhilfe (CC0 vs. CC BY vs. ODbL) für Forschungsdaten
-- Open-Access-Compliance-Checkliste für Förderprojekte
-- Spin-off-Lizenzvertrag-Vorlage für Hochschuldatenbanknutzung
-
 ## Quellen
 
 - [§ 60d UrhG — dejure.org](https://dejure.org/gesetze/UrhG/60d.html)
@@ -75,3 +67,4 @@ Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (T
 - [§ 87c UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87c.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 - [Art. 3 DSM-RL — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)
+

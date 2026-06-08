@@ -5,10 +5,6 @@ description: "Außergerichtliches Anwaltsschreiben in drei Spielarten: erster an
 
 # Anwaltsschreiben aussergerichtlich
 
-## Arbeitsbereich
-
-Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Brief, Mahnschreiben nach § 286 BGB mit Verzugsbegründung und Vergleichsangebot. Aufbau: Mandantenbezug; Vollmachtnachweis; knapper Sachverhalt; Anspruch oder Forderung mit Berechnung; konkrete Frist mit Datum; Konsequenz bei Nichteinhaltung; Vorbehalt weiterer Schritte. Mit Verzugsfolgen nach § 288 BGB; Annahmefristen und Mustertexten für die drei Brieftypen sowie typischen Drafting-Fehlern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Außergerichtliches Anwaltsschreiben in drei Spielarten: erster anwaltlicher Bri
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Das außergerichtliche Anwaltsschreiben ist häufig der erste Kontakt zwischen Mandant und Gegenseite über anwaltliche Vertretung. Es entscheidet Tonlage, Verzug, Verjährungsunterbrechung und die Bereitschaft der Gegenseite zur einvernehmlichen Erledigung. Drei Brieftypen kommen am häufigsten vor: der Erstkontaktbrief mit Forderung, das Mahnschreiben mit Fristsetzung und das Vergleichsangebot mit Annahmefrist.
-
-Dieser Skill liefert das Drafting-Gerüst für alle drei Spielarten und stellt drei Mustertexte zur Verfügung. Er klärt knapp die rechtlichen Verzugsvoraussetzungen und vermeidet die typischen Fehler.
 
 ## Eingaben
 
@@ -73,12 +63,6 @@ Dieser Skill liefert das Drafting-Gerüst für alle drei Spielarten und stellt d
 - **Schriftform-Fehler.** Bei Kündigungen Schriftform (§ 126 BGB) oder Textform (§ 126b BGB) prüfen. Briefkopf reicht nicht in jedem Fall.
 - **Falsche Anrede oder fehlendes "Sie".** Persönliche Anrede in geschäftlichen Briefen ungewöhnlich.
 - **RVG-Gebühr nicht angemeldet.** Wenn Verzug vorliegt, ist die Geschäftsgebühr Verzugsschaden und sollte mitgefordert werden.
-
-## Ausgabeformat
-
-- Vollständiger Brief im Format DIN 5008.
-- Bei Mahnung: Verzugsdatum, Hauptforderung, Verzugszinsen, RVG-Gebühr separat ausgewiesen.
-- Bei Vergleichsangebot: Erledigungsklausel ausformuliert.
 
 ## Beispiele
 
@@ -172,13 +156,6 @@ Marta Stern
 Rechtsanwältin
 ```
 
-## Querverweise
-
-- `klage-drafting-253-zpo` als nächste Eskalationsstufe
-- `stil-und-ton-juristische-texte`
-- `gutachten-memo-internes-drafting` für die interne Vorprüfung
-- `revisions-prozess-redlines-comparison` für Markup eines Vergleichstexts
-
 ## Quellen (Stand 05/2026)
 
 - §§ 280, 286, 288 BGB; § 203 BGB; gesetze-im-internet.de.
@@ -186,14 +163,6 @@ Rechtsanwältin
 - § 4 RVG; Nr. 2300 VV RVG für die Geschäftsgebühr.
 - § 126, § 126b BGB zur Schriftform und Textform.
 - `references/zitierweise.md` für Belegpflicht.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

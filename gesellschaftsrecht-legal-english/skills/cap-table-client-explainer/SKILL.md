@@ -5,10 +5,6 @@ description: "Erklaert und prueft Cap Table, Gesellschafterliste, wirtschaftlich
 
 # Cap Table statt Gesellschafterliste
 
-## Arbeitsbereich
-
-Erklaert und prueft Cap Table, Gesellschafterliste, wirtschaftliche Beteiligung, Stammkapital, Geschaeftsanteile, Verwässerung und Registerrealitaet. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,17 +48,3 @@ Ein Cap Table ist eine wirtschaftliche Beteiligungsübersicht. Die Gesellschafte
 - Nennbetrag und wirtschaftliche Beteiligung vermischen.
 - VSOP wie echte Anteile behandeln.
 
-## Output
-
-- Abgleichstabelle Cap Table/Gesellschafterliste.
-- Liste fehlender Annahmen.
-- Warnungen für Partnerbriefing.
-- Erklärung für Mandanten.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

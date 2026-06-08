@@ -17,10 +17,6 @@ Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtm�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Gegenmittel für Schuldner und betroffene Dritte. Die Vollstreckung ist staatlicher Eingriff – Skill nutzt die zulässigen Verteidigungswege punktgenau.
-
 ## Startet bei
 
 - Mandant ist Schuldner einer laufenden Vollstreckung
@@ -106,10 +102,3 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Niemals Drittgut über § 766 ZPO verteidigen – das ist § 771 ZPO.
 - Bei § 765a ZPO niemals nur Standardvortrag – konkrete Härte mit Beweismitteln.
 
-## Querverweise
-
-- `zv-titel-klausel-zustellung` – Gegenstück Gläubiger
-- `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`
-- `zv-tabellenauszug-201-inso` – Restschuldbefreiung
-- `zv-raeumung-885`
-- `zv-pfaendungstabelle-2025`

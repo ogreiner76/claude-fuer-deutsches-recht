@@ -5,10 +5,6 @@ description: "Unternehmen kauft oder lizenziert ein KI-System von einem Anbieter
 
 # Rolle-Check: Betreiber — Art. 3 Nr. 4 KI-VO
 
-## Zweck
-
-Die Betreiber-Rolle ist die zweithäufigste Rolle in der KI-Wertschöpfungskette. Dieser Skill klärt durch einen Entscheidungsbaum, ob die Nutzer-Rolle als Betreiber qualifiziert.
-
 ## Legaldefinition — Art. 3 Nr. 4 KI-VO
 
 Betreiber (deployer) ist eine natürliche oder juristische Person, Behörde, Einrichtung oder sonstige Stelle, die ein KI-System in eigener Verantwortung verwendet, es sei denn, das KI-System wird im Rahmen einer persönlichen, nicht beruflichen Tätigkeit verwendet.
@@ -88,9 +84,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -117,3 +110,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

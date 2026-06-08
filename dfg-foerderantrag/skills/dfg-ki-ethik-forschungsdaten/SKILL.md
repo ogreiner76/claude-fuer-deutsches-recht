@@ -171,23 +171,7 @@ Arbeitsfokus: **KI, Ethik und Forschungsdaten**. Prüfe diese Anker am Sachverha
 - `DFG-Kodex Leitlinie 13` — Herstellung von öffentlichem Zugang zu Forschungsergebnissen.
 - `DFG-Kodex Leitlinie 14` — Autorschaft und Verantwortung.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- **DMP-Volltext** (1-2 Seiten, sieben Standardpunkte).
-- **KI-Nutzungs-Statement** für Methodenteil.
-- **Ethik-Risikoampel** mit Bedarf an Voten, Anzeigen, Beratungen.
-- **Anlagenliste:** DMP, Ethikvotum, Datenschutzkonzept, ggf. NFDI-Andocken-Bestätigung.
-- **Offene Prüfmarker** für Aspekte, die der Antragsteller live verifizieren muss.
-
-## Querverweise
-
-- Projektbeschreibung (Methodenteil): `dfg-projektbeschreibung-arbeitsprogramm`
-- Finanzplan (Archivierungs- und Publikationskosten): `dfg-finanzplan-module-personal-geraete`
-- Formalia (DMP als Anlage einreichen): `dfg-sachbeihilfe-elan-formalia`
-- Reviewer-Brille (Lücken im DMP/Ethik): `dfg-reviewer-red-team`
 
 ## Quellen Stand 05/2026
 
@@ -200,3 +184,4 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DSGVO und BDSG: gesetze-im-internet.de
 
 KI-Leitlinien und DMP-Anforderungen ändern sich — vor Einreichung aktuelle DFG-Position prüfen.
+

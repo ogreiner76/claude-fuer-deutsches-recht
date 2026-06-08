@@ -94,26 +94,12 @@ Vor dem JA-Endlauf muessen alle Bestandskonten (Klasse 0-3 SKR 03 bzw. entsprech
 - Endsalden in Bilanz uebernehmen.
 - Konsistenzcheck.
 
-## Output
-
-- Abgestimmte Bestandskonten.
-- Anpassungs-Buchungen dokumentiert.
-- Bilanz vorbereitet.
-
 ## Strategie und Praxis-Tipps
 
 - Bestandskonten-Abstimmung ist Pflicht — nicht abgekuerzte Pruefung.
 - Bei Pruefungspflicht: WP fordert Abstimmung formell.
 - Bei groesseren Mandanten: Saldenabstimmung mit Lieferanten/Kunden Standard.
 - Werterhellung-Pruefung kann erhebliche Auswirkungen haben.
-
-## Querverweise
-
-- `stb-susa-saldenabstimmung-bestaetigung` — Saldenabstimmung.
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-jahresabschluss-warenbestand-inventur` — Inventur.
-- `stb-jahresabschluss-anlagenverzeichnis-afa` — AfA.
-- `stb-jahresabschluss-rueckstellungen-bewertung` — Rueckstellungen.
 
 ## Quellen und Updates
 
@@ -123,10 +109,3 @@ Stand: 05/2026.
 - EStG § 5.
 - IDW PS 480, IDW PS 302.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

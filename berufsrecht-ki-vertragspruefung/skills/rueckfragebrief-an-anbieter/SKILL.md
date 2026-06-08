@@ -13,10 +13,6 @@ description: "Erstelle einen strukturierten Rückfragebrief an den KI-Anbieter z
 - **Arbeitsprodukt:** Anbieter-Fragenliste, Risikomatrix, Vertragsredline und Entscheidung, ob Pilot, Stop oder Nachverhandlung.
 - **Hinweis:** Ergebnis bleibt Vorprüfung für Kanzlei- oder Spezialberatung; keine Scheinsicherheit gegenüber Berufsrecht oder Strafrecht.
 
-## Zweck
-
-Der Rückfragebrief operationalisiert die im Gutachten festgestellten Lücken in konkrete, präzise Fragen an den Anbieter. Er ist die zentrale Schnittstelle zwischen interner Bewertung und externer Verhandlung.
-
 ## Aufbau
 
 ### Briefkopf
@@ -89,10 +85,6 @@ Kurze Einleitung — die Kanzlei prüft den Einsatz des KI-Produkts und benötig
 
 Sachlich, präzise, keine Anschuldigungen. Der Anbieter soll motiviert sein zu antworten. Die Kanzlei dokumentiert dadurch zugleich die Sorgfalt nach Abs. 2 der Dienstleisterregelung.
 
-## Output
-
-Vollständiger Briefentwurf im Markdown. PDF-Export möglich.
-
 ## Disclaimer im Brief
 
 Der Brief ist eine berufsrechtliche und strafrechtliche Anfrage, keine zivilrechtliche Geltendmachung. Eine zivilrechtliche oder gar strafrechtliche Geltendmachung ist im Streitfall einem spezialisierten Rechtsanwalt vorbehalten.
@@ -108,9 +100,6 @@ Der Brief ist eine berufsrechtliche und strafrechtliche Anfrage, keine zivilrech
 - § 126b BGB — Textform
 - § 43e Abs. 3 BRAO, § 62a Abs. 3 StBerG etc. — Vertragsinhalt der Dienstleisterregelung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Welche Lücken hat die bisherige Vertragsprüfung ergeben (Ampel: gelb/rot)?
@@ -160,3 +149,4 @@ Wir bitten um Beantwortung in Textform.
 Mit freundlichen Gruessen
 [UNTERSCHRIFT]
 ```
+

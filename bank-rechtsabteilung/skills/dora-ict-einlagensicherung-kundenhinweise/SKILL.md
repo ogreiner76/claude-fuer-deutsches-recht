@@ -5,10 +5,6 @@ description: "DORA-IKT-Verträge und IKT-Vorfälle: Pflichtklauseln, Register, E
 
 # DORA IKT-Verträge und Vorfälle
 
-## Arbeitsbereich
-
-DORA-IKT-Verträge und IKT-Vorfälle: Pflichtklauseln, Register, Exit, Überwachungsrechte, Suboutsourcing, Incident-Klassifizierung, Meldewege und Managementbericht prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -126,3 +122,4 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 ## DORA-Art.-16-Spezialkern
 
 Wenn Artikel 16 DORA im Raum steht, nicht den vollen Standard mechanisch übertragen und nicht zu wenig verlangen. Erzeuge eine Scope-Entscheidung und prüfe: Leitungsorgan, IKT-Risikorahmen, Asset-Inventar, Need-to-use/IAM, Schwachstellen, Change, Backup, BCP, Incident, Drittparteien, Subdienstleister, Exit und Nachweisordner. Die BaFin-Hinweise vom 21.08.2025 sind als Verwaltungspraxis live zu prüfen.
+

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. 
 
 # Arbeitsgerichtsbarkeit Geschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Die Arbeitsgerichtsbarkeit entstand aus den Gewerbegerichten des Kaiserreichs. D
 - BAG-Rspr.: bundesarbeitsgericht.de oder JURIS
 - Sinzheimer: Arbeitsrechtliche Schriften, historische Erstausgaben
 
-## Output
-
-- Zeitleiste Arbeitsgerichtsbarkeit: 1890-1954
-- ArbGG 1926 vs. ArbGG 1953: Strukturvergleich
-- BAG-Leitentscheidungen: Auswahl nach Rechtsgebiet
-
-## Quellenregel
-
-ArbGG 1926: RGBl. I 1926, 507 via ALEX/OeNB. ArbGG aktuell: gesetze-im-internet.de. BAG: bundesarbeitsgericht.de oder JURIS. Sekundaerliteratur: Sinzheimer mit Werk und Seite.

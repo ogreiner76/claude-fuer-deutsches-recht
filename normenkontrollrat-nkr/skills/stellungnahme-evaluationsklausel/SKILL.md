@@ -97,14 +97,6 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 - Indikatoren nur qualitativ
 - Bericht "an die Bundesregierung" statt an den Bundestag
 
-## Querverweise
-
-- `nkr-evaluierung-befristung-sunset-klausel`
-- `nkr-evaluation-und-jahresbericht`
-- `nkr-stellungnahme-ergebnis-und-empfehlung`
-- `nkr-fallzahlen-schaetzung-bandbreiten`
-- `legistik-werkstatt/inkrafttreten-uebergangsrecht`
-
 ## Quellen Stand 06/2026
 
 - § 44 GGO
@@ -113,3 +105,4 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

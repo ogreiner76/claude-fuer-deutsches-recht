@@ -5,10 +5,6 @@ description: "PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft im Preußische
 
 # PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft
 
-## Aufgabe
-
-Dieser Skill bearbeitet **Zweiter Teil Familienrecht Ehe Vormundschaft** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
 ## Kaltstart in 6 Fragen
 
 1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
@@ -62,10 +58,3 @@ ALR II 1 / II 2 / II 3 / II 18 regelt Eherecht, eheliches Gueterrecht, Vormundsc
 2. Wann der Erbfall? — entsprechend.
 3. Heute lebende Frage? Direkt BGB.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

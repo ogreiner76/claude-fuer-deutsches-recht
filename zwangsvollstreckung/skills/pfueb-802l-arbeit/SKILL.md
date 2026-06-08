@@ -17,10 +17,6 @@ Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Dr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Pfändung beweglicher Forderungen jenseits von Bank und Arbeitgeber. Häufigste Fälle: Mietzins (Vermieter ist Schuldner, Mieter ist Drittschuldner), Steuererstattung gegen Finanzamt, Versicherungsleistungen, B2B-Forderungen.
-
 ## Startet bei
 
 - Titel + Klausel + Zustellung grün
@@ -102,10 +98,3 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Bei Steuererstattung: Zeitraum konkret nennen, sonst Pfändung zu unbestimmt.
 - Bei Mietzins: Mieter darf nicht doppelt zahlen – schriftliche Aufforderung an Mieter zur Zahlung an Gläubiger.
 
-## Querverweise
-
-- `zv-titel-klausel-zustellung`
-- `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`
-- `zv-elektronische-zustellung-2027`
-- `zv-vermoegensauskunft-gv` – wenn Forderungen unbekannt
-- `zv-kontensuche-drittschuldner`

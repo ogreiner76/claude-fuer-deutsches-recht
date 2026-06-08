@@ -5,10 +5,6 @@ description: "Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-
 
 # Open-Source-Datenbanken und Open-Data-Commons-Lizenzen
 
-## Arbeitsbereich
-
-Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL
 - Attribution-Pflichten bei ODbL für große Datenbankbestände technisch schwierig umzusetzen — pragmatische Lösung erforderlich.
 - PDDL gibt kein Sharealike vor, aber auch keine Haftungsfreistellung — Haftungsrisiken für fehlerhafte Daten bleiben.
 
-## Output
-
-- Open-Data-Lizenz-Kompatibilitätsmatrix (ODbL / PDDL / CC0 / CC BY)
-- ODbL-Sharealike-Analyse (Derivative Database vs. Collective Database)
-- Lizenzwahlberatung für Datenbankveröffentlichungen
-- Attribution-Implementierungsguide für ODbL und CC BY
-- Verletzungsanspruchs-Check nach Open-Data-Lizenzveröffentlichung
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL
 - [Open-Data-Richtlinie 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [§ 4 UrhG Datenbankwerk — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
+

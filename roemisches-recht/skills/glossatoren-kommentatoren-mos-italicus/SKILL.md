@@ -5,10 +5,6 @@ description: "Römisches Recht: Glossatoren (Bologna ab 1088, Irnerius) und Komm
 
 # Glossatoren und Kommentatoren
 
-## Arbeitsbereich
-
-Römisches Recht: Glossatoren (Bologna ab 1088, Irnerius) und Kommentatoren (Bartolus, Baldus, 14. Jh.) - Digestenrezeption, Glossenapparat (Accursius), mos italicus und Verhältnis zur Pandektistik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -71,13 +67,3 @@ Die Glossatoren (Bologna, ab ca. 1088) erklärten den Digestentext durch Randglo
 - Wieacker Privatrechtsgeschichte der Neuzeit §§ 1-3
 - Stein Roman Law in European History
 
-## Output
-
-- Zeittafel: Glossatoren und Kommentatoren
-- Memo: Glossenapparat vs. Kommentarform
-- Stilvergleich: Accursius-Glosse vs. Bartolus-Kommentar
-- Einfluss auf Rezeption im deutschen Recht
-
-## Quellenregel
-
-Accursius Glossa ordinaria (archive.org). Bartolus Opera (archive.org). Wieacker Privatrechtsgeschichte. Stein Roman Law.

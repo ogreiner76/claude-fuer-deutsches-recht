@@ -5,10 +5,6 @@ description: "Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dat
 
 # Manuskript-Rettung aus merkwuerdigen Formaten
 
-## Arbeitsbereich
-
-Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dateien und KI-generiertem Wust; legt saubere Konvertierungspfade für die Verlagsredaktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -99,17 +95,10 @@ Output: Mueller-Aufsatz_v2-clean.docx
 - PDF-Konvertierung mit OCR ohne Pruefung - falsche Zahlen in Aktenzeichen.
 - Track-Changes vom Autor verworfen statt aufgeloest.
 
-## Querverweise
-
-- `workflow-dokumentenintake` - allgemeiner Intake-im Plugin.
-- `workflow-kaltstart-und-routing` - für die erste Weiche.
-- `verl-zeitschriftenartikel-leitfaden` - wenn das Manuskript ein Zeitschriftenaufsatz wird.
-- `lektorat-struktur-redaktion` - Anschluss-Skill nach erfolgter Bereinigung.
-- `verl-formatvorlage-check-autor-manuskript` - strenger Formatvorlagen-Check als naechster Schritt.
-
 ## Quellen Stand 06/2026
 
 - Pandoc User Guide, [https://pandoc.org/MANUAL.html](https://pandoc.org/MANUAL.html) (Stand: laufend).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024, Kapitel "Anfuehrungszeichen, Bindestrich, Sonderzeichen".
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, S. 23 ff. zur Konsistenz bei Pinpoints.
 - UrhG, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/) - Hinweis: bei Uebernahme fremder Tabellen / Grafiken aus PDF stets §§ 51, 63 UrhG pruefen.
+

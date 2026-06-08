@@ -5,10 +5,6 @@ description: "Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill be
 
 # Pralr Staatshaftung Im Alr Und Rechtsstaat
 
-## Arbeitsbereich
-
-Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die Staatshaftungsansaetze in der Einleitung des ALR die Stein-Hardenbergsche Reformphase und die spaetere Reichshaftung. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,7 +41,3 @@ Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die St
 2. Aufopferung oder Amtshaftung?
 3. Historischer Stand?
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Staatshaftungsentwicklung.

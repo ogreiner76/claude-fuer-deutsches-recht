@@ -5,10 +5,6 @@ description: "Prueft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: 
 
 # KI-Prognosemodelle und Insiderrecht
 
-## Arbeitsbereich
-
-Prueft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,21 +70,3 @@ Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolli
  Prüfung ob Profit-Warning-Ad-hoc erforderlich
 - Schulung der Modell-Nutzer auf Insiderrecht
 
-## Red-Team-Fragen
-
-- Verarbeitet das Modell nicht-öffentliche Daten, die zu einer Insiderinformation führen?
-- Haben alle Modell-Nutzer eine Insiderrecht-Schulung erhalten?
-- Gibt es Chinese Walls zwischen Modell-Zugang und Handelsabteilung?
-- Wird der Modell-Output auf Ad-hoc-Relevanz geprüft?
-- Sind AI-Act-Anforderungen bekannt und berücksichtigt?
-
-## Ausgabeformat
-
-Erzeuge:
-1. KI-Modell-Risikobewertung (Input × Output × Insiderinformationsrisiko)
-2. Zugangskontrollen-Matrix (Nutzergruppe × Zugangsberechtigung × Insiderstatus)
-3. Modell-Governance-Dokumentationsvorlage
-4. Schulungsmodul: „KI-Prognosen und Insiderrecht"
-
-Belege ausschließlich mit: eur-lex.europa.eu, curia.europa.eu, gesetze-im-internet.de,
-bafin.de, dejure.org.

@@ -10,10 +10,6 @@ description: "Prüft Auftrag §§ 662 ff. BGB, Weisungen, Auskunft, Rechenschaft
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Auftragsverhältnisse nach §§ 662 ff. BGB prüfen: Unentgeltlichkeit, Weisungsbindung, Aufwendungsersatz und Beendigung durch freie Kündigung.
-
 ## Normanker
 
 - § 662 BGB: Auftragsdefinition, Unentgeltlichkeit als Wesensmerkmal
@@ -52,6 +48,7 @@ Auftragsverhältnisse nach §§ 662 ff. BGB prüfen: Unentgeltlichkeit, Weisungs
 - Eigenmächtige Abweichung von Weisungen begründet Schadensersatzpflicht nach § 665 BGB.
 - Herausgabepflicht nach § 667 BGB umfasst auch rechtswidrig erlangte Vorteile.
 - Freie Kündigung durch den Beauftragten kann nach § 671 Abs. 2 BGB Schadensersatzpflicht auslösen.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
@@ -59,33 +56,12 @@ Auftragsverhältnisse nach §§ 662 ff. BGB prüfen: Unentgeltlichkeit, Weisungs
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
 
-## Output
-
-- Kurzantwort mit Risikoampel
-- Anspruchsmatrix (Aufwendungsersatz, Herausgabe, Schadensersatz)
-- Prüfvermerk zum Vertragstypus
-- Fristenliste und Lückenkatalog
-
-## Qualitätsregeln
-
-- Abgrenzung Auftrag/Geschäftsbesorgung/Gefälligkeit immer explizit vornehmen.
-- Herausgabepflicht und Aufwendungsersatz getrennt prüfen.
-- Keine BGH-Entscheidung ohne Live-Verifikation verwenden.
-
 ## Anschluss-Skills
 
 - geschaeftsbesorgung-auftrag-mandat
 - goa-grundschema-paragraph-677
 - unechte-goa-paragraph-687
 - geschaeftsbesorgung-und-zahlungsdienste
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

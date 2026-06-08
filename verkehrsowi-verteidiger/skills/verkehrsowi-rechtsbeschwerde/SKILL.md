@@ -38,9 +38,6 @@ Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil ge
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pruefschema Rechtsbeschwerde-Zulaessigkeit
 
 ```
@@ -97,3 +94,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Begründungsfrist 1 Monat nach Urteilszustellung — nicht nach Verkuendung!
 - Zulassungsbeschwerde bei Geldbusse <= 250 EUR: Grundsatzrechtsfrage benennen.
 - Anwaltliche Endkontrolle bei Ruge-Formulierung.
+

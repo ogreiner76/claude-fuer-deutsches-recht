@@ -5,14 +5,6 @@ description: "Red-Team gegen typische Fehler: falsches Landesrecht, falscher Sta
 
 # Red Team Beamtenrecht
 
-## Aufgabe
-
-Red-Team gegen typische Fehler: falsches Landesrecht, falscher Status, übersehene Frist, unzulässiger Antrag, fehlende Glaubhaftmachung, falsche Besoldungsordnung.
-
-## Arbeitsweise
-
-Prüfe am Ende gegen sieben Fallen: Status, Dienstherr, Landesrecht, Frist, Verwaltungsakt/Realakt, Rechtsweg, Beweis/Glaubhaftmachung. Gib eine knappe Ampel aus und formuliere maximal drei Nachfragen, die den Fall wirklich weiterbringen.
-
 ## Pflichtfragen
 
 - Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
@@ -29,10 +21,3 @@ Prüfe am Ende gegen sieben Fallen: Status, Dienstherr, Landesrecht, Frist, Verw
 4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
 5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
 
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.

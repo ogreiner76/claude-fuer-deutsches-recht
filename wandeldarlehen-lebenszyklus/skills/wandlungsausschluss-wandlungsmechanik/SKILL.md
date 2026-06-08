@@ -5,10 +5,6 @@ description: "Prüfen ob Wandlung gesperrt oder ausgeschlossen ist bei vertragli
 
 # Wandlungsausschluss-Prüfung
 
-## Arbeitsbereich
-
-Prüfen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gesetzlichen Hindernissen. §§ 134 138 BGB Nichtigkeit § 30 GmbHG Kapitalerhaltung. Prüfraster: Ausschlusstatbestaende Insolvenzreife Kapitalerhaltungsverbot Vorzugsrecht Dritter. Output: Ausschluss-Prüfmemo Empfehlung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüfen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gese
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill prüft, ob das Wandlungsrecht des Lenders erloschen, verfristet, verjährt oder durch Verzicht ausgeschlossen ist, bevor eine Wandlung durchgeführt wird. Phase C des Lebenszyklus.
 
 ## Eingaben
 
@@ -81,12 +73,6 @@ Wandlungsrecht besteht: Weiter zu `wandlungspreis-berechnung`. Wandlungsrecht er
 | SHA enthält weiteren Ausschluss | Wandlungsrecht eingeschränkt | SHA auslegungsbedürftig | Kein Ausschluss |
 | Insolvenz Gesellschaft | Kapitalerhöhung unmöglich | Insolvenzantrag gestellt | Gesellschaft solvent |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/wandelereignis-eingang/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/wandlungspreis-berechnung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-maturity/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung BGB-Verjährungsrecht aktualisieren.
@@ -102,3 +88,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 § 305c Abs. 2 BGB (Unklarheitenregelung gegen Verwender) → § 307 BGB (AGB-Kontrolle) → § 39 InsO (Nachrang Gesellschafterdarlehen) → § 119 InsO (Unwirksamkeit insolvenzabhängiger Lösungsklauseln) → §§ 55, 56 GmbHG (Kapitalerhöhung, Voraussetzung Wandlung)
+

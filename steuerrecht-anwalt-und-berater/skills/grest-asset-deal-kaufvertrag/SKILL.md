@@ -11,10 +11,6 @@ description: "Grunderwerbsteuer beim Asset Deal pruefen: Grundstückskauf, Gegen
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Aufgabe
-
-Prüfe den direkten Grundstückserwerb. Der Skill hilft bei Kaufvertrag, Bemessungsgrundlage, Steuerprognose und Risiken aus einheitlichem Erwerbsgegenstand.
-
 ## Prüfraster
 
 1. Grundstück und Erwerber identifizieren.
@@ -32,14 +28,6 @@ Prüfe den direkten Grundstückserwerb. Der Skill hilft bei Kaufvertrag, Bemessu
 - Verkäufer übernimmt Kosten, die als Gegenleistung zählen können.
 - Asset Deal wird mit Share-Deal-Schwellen vermischt.
 - GrESt in Closing Funds Flow vergessen.
-
-## Output
-
-- GrESt-Kaufvertragscheck.
-- Kaufpreis-/Gegenleistungsmatrix.
-- Closing-Steuerbetrag mit Bundesland-Hinweis.
-- Vertragsbaustein: GrESt-Tragung, Mitwirkung, Unbedenklichkeitsbescheinigung.
-- Warnung, welche Aussagen steuerberaterlich/bewertungsrechtlich zu vertiefen sind.
 
 ## Norm-Bezug konkret
 
@@ -66,10 +54,3 @@ Prüfe den direkten Grundstückserwerb. Der Skill hilft bei Kaufvertrag, Bemessu
 
 > Die Grunderwerbsteuer auf den Erwerb des in Anlage [X] bezeichneten Grundbesitzes trägt der Käufer. Bewegliche Wirtschaftsgüter (Anlage [Y]) sind mit dem darin angegebenen Einzelwert in Höhe von insgesamt EUR [...] bewertet; der Veräußerer steht für die Marktüblichkeit dieser Werte ein. Die Beteiligten zeigen den Erwerb unverzüglich gemäß § 19 GrEStG dem zuständigen Finanzamt an; der Käufer übernimmt die federführende Erstellung der Anzeige.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

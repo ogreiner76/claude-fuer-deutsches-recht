@@ -5,10 +5,6 @@ description: "Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, R
 
 # Einbürgerung
 
-## Arbeitsbereich
-
-Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,9 +12,6 @@ Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Ve
 - Tragende Normen verifizieren: BEG IV (Viertes Bürokratieentlastungsgesetz 2024), OZG/OZG-Änderungsgesetz, VwVfG §§ 35, 35a (vollautomatisierter VA), §§ 9, 10 e-Government-Gesetz, NKR-Gesetz, GGO § 44 (Gesetzesfolgenabschätzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel.
 
 ## Normfokus und Praxis
 - Rechtsgrundlagen: § 10 StAG (Anspruchseinbürgerung), § 8 StAG (Ermessenseinbürgerung), § 9 StAG (Ehegatten). Seit Reform 2024 (Inkrafttreten 27.6.2024): Mindestaufenthalt fünf statt acht Jahre, drei Jahre bei besonderer Integration (§ 10 Abs. 3 StAG); Mehrstaatigkeit grundsätzlich zugelassen (Streichung § 12 StAG aF).
@@ -43,12 +36,6 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ## Vorsichtsregel
 Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt bei Straf-, Familien-, Aufenthalts-, Kinderschutz-, Existenz- oder Eilrisiken früh anwaltliche Beratung, Beratungshilfe, Rechtsantragsstelle oder Fachberatungsstelle.
 
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
-
 ## Quellen- und Aktualitätsregel
 - einschlägiges Bundesrecht
 - Landesrecht/kommunale Satzung
@@ -56,3 +43,4 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 - frei prüfbare Rechtsprechung nur mit Gericht, Datum und Aktenzeichen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+

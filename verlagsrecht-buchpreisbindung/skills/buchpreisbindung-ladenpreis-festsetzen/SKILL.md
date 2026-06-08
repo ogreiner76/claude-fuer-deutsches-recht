@@ -5,10 +5,6 @@ description: "Buchpreisbindungsgesetz: Ladenpreis rechtssicher festsetzen — Bu
 
 # Verl-009 · Buchpreisbindung: Ladenpreis festsetzen
 
-## Arbeitsbereich
-
-Buchpreisbindungsgesetz: Ladenpreis rechtssicher festsetzen — BuchPrG §§ 3–5, Preismeldung, Ausnahmen, E-Book-Besonderheiten und Durchsetzungspraxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -123,3 +119,4 @@ Dieser Skill führt durch den **Prozess der Ladenpreisfestsetzung** nach dem Buc
 - **Ausnahmen-Protokoll**: § 6 BuchPrG-Ausnahmen mit Belegen
 - **Preisänderungsschreiben** an Buchhandel
 - **E-Book-Plattform-Compliance-Check**
+

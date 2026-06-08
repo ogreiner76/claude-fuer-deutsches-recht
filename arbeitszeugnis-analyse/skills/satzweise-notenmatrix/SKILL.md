@@ -40,10 +40,6 @@ description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Sc
 
 **Beispiel 7 – Note 4:** "war stets bemueht" → Codewort, unabhaengig vom restlichen Satz. Themenbereich je nach Kontext.
 
-## Ausgabeformat
-
-Tabelle mit den Spalten: laufende Nummer, Satzkurzform (gekuerzt auf maximal achtzig Zeichen), Themenbereich, Note, erkannte Steigerungsadverbien, erkannte Superlative, Begruendung in einem Satz. Anschliessend eine Bereichsuebersicht mit Anzahl Saetze und Notenmittel je Themenbereich. Diese Matrix dient als Eingangsbasis für den Bereichs-Drift-Detektor und die Gesamtnoten-Aggregation.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -52,3 +48,4 @@ Tabelle mit den Spalten: laufende Nummer, Satzkurzform (gekuerzt auf maximal ach
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

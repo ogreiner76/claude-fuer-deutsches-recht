@@ -5,10 +5,6 @@ description: "Online-Bestellbutton und Zahlungspflicht: prüft § 312j BGB, EuGH
 
 # Online-Bestellbutton Und Zahlungspflicht
 
-## Arbeitsbereich
-
-Online-Bestellbutton und Zahlungspflicht: prüft § 312j BGB, EuGH C-249/21 Fuhrmann-2, Buttontext, Checkout-Screenshots, Plattformbuchung, Rückforderung und Inkassoabwehr, wenn Verbraucher angeblich durch einen Klick zahlen sollen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Online-Bestellbutton und Zahlungspflicht: prüft § 312j BGB, EuGH C-249/21 Fuhr
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einsatz
-
-Anwendungsfall: eine Person online gebucht, bestellt oder reserviert haben soll und jetzt eine Rechnung, Mahnung, Inkassopost oder Plattformforderung bekommt. Ziel ist nicht Theorie, sondern eine ruhige Entscheidung: Vertrag ja/nein, Zahlungspflicht ja/nein, Beweise sichern, richtig reagieren.
 
 ## Harte Rechtsanker
 
@@ -51,21 +43,7 @@ Frage kurz und konkret:
 4. **Rechtsfolge:** Bei Verstoß gegen § 312j Abs. 3 BGB kommt nach § 312j Abs. 4 BGB kein Vertrag zustande.
 5. **Folgekommunikation:** Nicht vorschnell "kulant kündigen", wenn die bessere Linie lautet: kein Vertrag, keine Zahlungspflicht.
 
-## Output
-
-Erstelle eine knappe Ampel:
-
-- **Grün:** Button/Preis klar, Zahlungspflicht wahrscheinlich.
-- **Gelb:** Tatsachen fehlen; Screenshot, Bestellstrecke und E-Mails sichern.
-- **Rot:** Button oder letzte Bestellseite sehr wahrscheinlich fehlerhaft; Forderung bestreiten, Rechtsgrund verlangen, Inkasso nur sachlich beantworten.
-
-Danach liefere wahlweise:
-
-- Widerspruch gegen Rechnung/Mahnung.
-- Chargeback-/PayPal-/Kreditkarten-Notiz.
-- Beweisliste für Screenshot und Zeugen.
-- Kurztext für Verbraucherzentrale oder Schlichtungsstelle.
-
 ## Vorsicht
 
 Keine künstliche Sicherheit: Wenn nur eine Bestätigungsmail vorliegt, aber kein Checkout-Screenshot, klar als Beweisproblem markieren. Bei gerichtlichem Mahnbescheid sofort zum Mahnbescheid-Skill routen.
+

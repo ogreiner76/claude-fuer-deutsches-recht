@@ -5,10 +5,6 @@ description: "Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand
 
 # NKR-Einmalig vs. jaehrlich laufend
 
-## Arbeitsbereich
-
-Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen für Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,14 +93,6 @@ Bausteine:
 - Re-Zertifizierung alle 3 Jahre nicht annualisiert
 - Schulung pauschal "einmalig", obwohl jaehrliche Nachschulung erforderlich
 
-## Querverweise
-
-- `nkr-standardkostenmodell-skm`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `nkr-one-in-one-out-bilanz-und-buchung`
-- `nkr-erfuellungsaufwand-grundbegriff`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
@@ -112,3 +100,4 @@ Bausteine:
 - One-in-one-out-Beschluss der Bundesregierung (Stand zu pruefen)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

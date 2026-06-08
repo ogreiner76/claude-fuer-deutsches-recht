@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Einstweilige Maßnahmen in der inter
 
 # Einstweilige Maßnahmen in der Schiedsgerichtsbarkeit
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Einstweilige Maßnahmen in der internationalen Schiedsgerichtsbarkeit. UNCITRAL Model Law Art. 17-17J, Schiedsgericht vs. staatlicher Rechtsschutz, Asset Freezing Orders, Mareva Injunctions und Anti-Suit Injunctions. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Einstweilige Maßnahmen sichern den Rechtsschutz während des laufenden Schiedsv
 - Anti-Suit: nur in Ländern mit anti-suit-freundlicher Rechtsprechung (UK, Singapur, Schweiz)
 - Vollstreckung: Schiedsort-Recht für staatliche Unterstützungsklage (§ 1025 ff. ZPO in D)
 
-## Output
-
-- Einstweilige-Maßnahmen-Typen-Übersicht
-- Asset-Freeze-Antrag-Checkliste (Schiedsgericht)
-- Vollstreckbarkeit-Karte (Länder mit Model Law Art. 17H)
-
-## Quellenregel
-
-UNCITRAL Model Law: uncitral.un.org. ICC Regeln 2021: iccwbo.org. CPR 25.1 (UK): justice.gov.uk. § 1041 ZPO: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

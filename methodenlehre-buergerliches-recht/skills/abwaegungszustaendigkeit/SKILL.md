@@ -5,9 +5,6 @@ description: "Abwaegungszuständigkeit im Plugin Methodenlehre Buergerliches Rec
 
 # Abwaegungszuständigkeit
 
-## Arbeitsbereich
-
-**Abwaegungszuständigkeit** ordnet den Fall über die tragenden Prüfungslinien: Klärt, welche Institution im Rechtssystem für eine konkrete, Dieses Skill systematisiert die wichtigsten Fristen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Abwaegungszuständigkeit im Plugin Methodenlehre Buergerliches Rec
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `abwaegungszuständigkeit-institutionen`
@@ -84,10 +82,6 @@ Abwägungsentscheidungen sind nicht beliebig delegierbar. Dieses Skill klärt, w
 - Die Abwägungsöffnung einer Norm wird als unbegrenzte richterliche Eigenständigkeit missverstanden.
 - Fehlen der demokratischen Rückbindung bei weitreichenden Abwägungsentscheidungen wird nicht thematisiert.
 - Die Vorlagepflicht nach Art. 100 GG wird übersehen, wenn Abwägungsergebnisse gegen förmliches Gesetz verstoßen.
-
-## Output
-
-Das Skill liefert eine institutionelle Zuständigkeitsanalyse: Wer darf die konkrete Abwägungsentscheidung treffen, in welchem Rahmen, und mit welchem Kontrollmaßstab kann das übergeordnete Organ prüfen? Inklusive Formulierungsvorschlag für Schriftsatz oder Gutachten zur institutionellen Rüge.
 
 ## Vertiefung: Ermessen und Kontrolldichte im Mehrebenensystem
 
@@ -173,10 +167,6 @@ Die Einhaltung von Fristen, die Beachtung von Formvorschriften und die Wahl des 
 - Formnichtige Verträge werden als wirksam behandelt, ohne Heilungsmöglichkeiten zu prüfen.
 - Der ausschließliche Gerichtsstand bei Wohnraummietsachen (§ 29a ZPO) wird übersehen.
 - Gerichtsstandsklauseln werden akzeptiert, ohne deren Wirksamkeit nach § 38 ZPO zu prüfen.
-
-## Output
-
-Das Skill erstellt eine Fristen-Form-Zuständigkeits-Checkliste für das Mandat: tabellarische Fristenübersicht mit Wiedervorlage, Formprüfungsergebnis mit Heilungshinweis und Zuständigkeitsanalyse mit Empfehlung des Forums. Geeignet als Grundlage für Mandatsprotokoll, Schriftsatzvorbereitung und interne Qualitätssicherung.
 
 ## Quellen
 
@@ -266,10 +256,6 @@ Verjährte Ansprüche sind für den Mandanten verloren — und für den Anwalt e
 - Bei kaufrechtlicher Verjährung (§ 438 BGB) wird die kürzere Frist von zwei Jahren übersehen.
 - Wiedervorlagen werden nicht eingeplant, sodass Fristen erst kurz vor Ablauf erkannt werden.
 
-## Output
-
-Das Skill liefert eine vollständige Fristennotiz mit Verjährungsberechnung, Hemmungsprotokoll, Wiedervorlagen und Sofortmaßnahmenplan. Ergänzt wird ein Mandantenschreiben, das über Verjährungsrisiken und erforderliche Mitwirkungshandlungen informiert. Das Ergebnis sichert die Haftungsfreiheit des Anwalts.
-
 ## Quellen
 
 - [§ 195 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__195.html)
@@ -358,10 +344,6 @@ Staatliche Eingriffe in Vertragsinhalte und Vertragsfreiheit sind nur gerechtfer
 - Verhältnismäßigkeit wird nicht geprüft, weil die schützende Absicht der Regelung für sich selbst zu sprechen scheint.
 - Libertäre Alternativen (Informationspflichten, Wahlmöglichkeiten) werden nicht erwogen.
 
-## Output
-
-Das Skill erzeugt einen Paternalismus-Check: Schutzdefizitanalyse, Verhältnismäßigkeitsprüfung, Bewertung verfügbarer freiheitlicherer Alternativen und Einschätzung der verfassungsrechtlichen Legitimation der Schutzregelung. Verwendbar als Argumentationsbaustein in Schriftsätzen, Gutachten und wissenschaftlichen Beiträgen zum Vertragsrecht.
-
 ## Vertiefung: Libertärer Paternalismus als Kompromissmodell
 
 Der libertäre Paternalismus (Nudge-Theorie) bietet einen Mittelweg zwischen staatlichem Eingriff und absoluter Vertragsfreiheit: Durch kluge Standardoptionen (opt-out statt opt-in) können schützende Ergebnisse ohne Freiheitsentzug erreicht werden. Dieses Modell hat Eingang in EU-Regulierungen gefunden und ist auch für die Auslegung zivilrechtlicher Schutznormen relevant.
@@ -446,10 +428,6 @@ Generalklauseln wie § 242 BGB und § 138 BGB sind keine Freifahrtscheine für b
 - Fallgruppenbildung der Rechtsprechung wird ignoriert, was zu Inkonsistenz und Gleichheitsverstößen führt.
 - Transparenz der Wertungsmaßstäbe fehlt: Das Ergebnis steht, die normative Herleitung ist unklar.
 
-## Output
-
-Das Skill liefert eine Generalklausel-Analyse: Einschlägigkeit, Fallgruppeneinordnung, normative Quellen der Wertungsmaßstäbe, Verhältnismäßigkeitsprüfung und Begründungsvorschlag für die Entscheidung. Verwendbar in Schriftsätzen, Gutachten und Revisionsrügen bei generalklauselgestützten Urteilen.
-
 ## Vertiefung: Fallgruppenbildung als Konkretisierungsmechanismus
 
 Die Konkretisierung von Generalklauseln erfolgt im deutschen Recht primär durch Fallgruppenbildung in der Rechtsprechung. Diese Fallgruppen haben faktische Bindungswirkung und strukturieren die Abwägung. Wer eine neue Fallgruppe vorschlagen will, muss die Vergleichbarkeit mit anerkannten Gruppen begründen und die neuen Wertungsmaßstäbe aus dem Normzweck ableiten.
@@ -504,3 +482,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
+

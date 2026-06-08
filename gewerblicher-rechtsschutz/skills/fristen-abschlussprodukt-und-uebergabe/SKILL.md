@@ -5,10 +5,6 @@ description: "Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte 
 
 # Spezial: Fristen – Abschlussprodukt und Übergabe
 
-## Arbeitsbereich
-
-Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -142,3 +138,4 @@ Anmerkungen: [Besonderheiten]
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `workflow-fristen-und-risikoampel` – Fristenworkflow
 - `evvollzug-neu-001` – EV-Vollziehungsfrist
+

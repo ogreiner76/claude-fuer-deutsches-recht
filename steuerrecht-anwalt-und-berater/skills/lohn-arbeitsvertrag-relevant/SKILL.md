@@ -114,12 +114,6 @@ Datum: [Datum]
 6. Empfehlung: [...]
 ```
 
-## Output
-
-- Pruefnotiz mit Klassifikation.
-- Empfehlung zu fehlenden Klauseln.
-- Lohn-relevante Setup-Daten für DATEV LODAS.
-
 ## Strategie und Praxis-Tipps
 
 - Schriftliche Niederlegung nach § 2 NachweisG ist Pflicht des Arbeitgebers — bei Fehlen Bussgeld bis 2.000 EUR.
@@ -127,15 +121,6 @@ Datum: [Datum]
 - bAV ueber Direktversicherung steuerlich vorteilhaft, aber Bindung an Versicherungsvertrag.
 - StBVV: Vertragspruefung ist nicht in Lohnpauschale; gesonderter Auftrag oder Zeithonorar.
 - Bei strittigen Klauseln: Hinweis an Mandant, Anwalt einzuschalten (§ 5 RDG).
-
-## Querverweise
-
-- `stb-lohn-mandantenaufnahme-onboarding` — Onboarding.
-- `stb-lohn-sachbezuege-50-euro-freigrenze` — Sachbezug.
-- `stb-lohn-dienstwagen-1-prozent-fahrtenbuch` — Dienstwagen.
-- `stb-lohn-firmenrad-leasing-jobrad` — JobRad.
-- `stb-lohn-betriebliche-altersversorgung-grundlagen` — bAV.
-- `stb-lohn-minijob-538-euro-2024-anpassung` — Minijob.
 
 ## Quellen und Updates
 
@@ -151,10 +136,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (SvEV-Hinweis neu formuliert ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

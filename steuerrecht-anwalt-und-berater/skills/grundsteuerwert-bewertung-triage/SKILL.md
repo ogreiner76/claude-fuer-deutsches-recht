@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Grundsteuerwert nach BewG §§ 218 ff. prüfen: Bundesmodell, Ertragswert, Sachwert, Bodenrichtwert, Grundstücksart, Steuermesszahl, Hauptfeststellung 01.01.2022, Fehlerdiagnose und Bescheidbegründung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,10 +34,6 @@ Grundsteuerwert nach BewG §§ 218 ff. prüfen: Bundesmodell, Ertragswert, Sachw
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-
-Prüfe den Grundsteuerwertbescheid im Bundesmodell. Dieser Skill arbeitet nicht als Rechner ohne Unterlagen, sondern als Bewertungsdiagnose: Welche Eingabe bestimmt den Wert, welche ist falsch, welche ist nur belastend, aber rechtlich vorgesehen?
 
 ## Prüfschritte
 
@@ -70,14 +62,6 @@ Arbeite in dieser Reihenfolge:
 3. richtiger Wert und Beleg,
 4. rechtliche Relevanz für BewG/GrStG,
 5. Antrag auf Änderung beziehungsweise Einspruchsziel.
-
-## Output
-
-- Bewertungsfehler-Matrix.
-- Priorisierte Angriffspunkte.
-- Entwurf eines Beleganschreibens.
-- Kurzer Einspruchsbaustein.
-- Hinweis, ob zusätzlich gemeiner Wert/gutachterlicher Nachweis geprüft werden soll.
 
 ## Quellen
 
@@ -113,3 +97,4 @@ Empfehlung: Erst niedrigwertige Belege (Wohnflächenberechnung, Bodenrichtwertau
 
 - Einspruch trifft den falschen Bescheid: Hebesatz angegriffen, obwohl der Wertfehler im Grundlagenbescheid (Finanzamt) sitzt. § 351 Abs. 2 AO sperrt den Folgebescheid.
 - Einspruchsfrist von einem Monat wird übersehen, weil der Bescheid an die ELSTER-Postfachadresse zugestellt und nicht abgerufen wurde; § 122 Abs. 2a AO regelt elektronische Bekanntgabe nach drei Tagen.
+

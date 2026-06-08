@@ -5,10 +5,6 @@ description: "AI-Act-Transparenz in der Kanzlei prüfen: Mandantenchatbot, Websi
 
 # KI-VO-Transparenz bei Kanzlei-Chatbot, Website und Schriftsatz
 
-## Arbeitsbereich
-
-AI-Act-Transparenz in der Kanzlei prüfen: Mandantenchatbot, Website, Marketing, Legal-Update, Schriftsatzentwurf, Art. 4 und Art. 50 KI-VO, Anbieter-/Betreiberrolle, redaktionelle Kontrolle und Kennzeichnung ab 02.08.2026. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,11 +46,3 @@ Für Transparenzpflichten immer das konkrete Szenario prüfen:
 - redaktionelle Kontrolle durch Menschen
 - gesetzliche Ausnahmen oder Sonderpflichten
 
-## Output
-
-Erstelle:
-
-- Rollenvermerk zur KI-VO
-- Transparenzhinweis für Website/Chatbot
-- Redaktions- und Freigabevermerk
-- Schulungsnotiz nach Art. 4 KI-VO

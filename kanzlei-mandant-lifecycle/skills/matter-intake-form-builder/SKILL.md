@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Matter Intake Form Builder: steuert ein Intake-Formular bauen, das genug fragt und nicht nervt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -63,13 +59,6 @@ Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Sch
 - Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
 - Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
 
-## Output
-
-- Dashboard-Karte mit Status, Budget, Ownern und nächstem Schritt.
-- Entscheidungsvorlage oder Kommunikationsentwurf für Kanzlei oder Mandant.
-- Risiko-/Kosten-/Fristenampel mit Eskalationspunkt.
-- Qualitygate: Was darf raus, was muss intern bleiben, was braucht Freigabe?
-
 ## Quellen- und Aktualitätsgate
 
 Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
@@ -79,3 +68,4 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 - RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
 - BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
 - BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
+

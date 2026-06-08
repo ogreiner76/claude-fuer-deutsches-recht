@@ -3,17 +3,6 @@ name: kaltstart-triage
 description: "Einstieg, Schnelltriage und Fallrouting im Arbeitsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage."
 ---
 
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-# Arbeitsrecht — Allgemein
-
 ## Aktenstart statt Formularstart
 
 Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Arbeitsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
@@ -374,13 +363,6 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - AGG-Fristen versaeumt: Entschaedigungsanspruch nach § 15 Abs. 4 AGG verfaellt in zwei Monaten ab Benachteiligung; Frist wird selten beachtet.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Querverweise
-
-- `arbeitszeugnis-analyse` — Wenn im Rahmen von Kuendigungsschutz oder Aufhebungsvertrag auch ein Zeugnis vereinbart wird.
-- `prozessrecht` — Fuer allgemeine prozessrechtliche Fragen, die sich im Arbeitsgerichtsprozess ergeben.
-- `krisenfrueherkennung-starug` — Wenn Massenentlassungen im Kontext einer Unternehmensrestrukturierung stattfinden.
-- `schriftform-und-textform-bgb` — Fuer Schriftform-Details bei Kuendigung, Befristungsabrede und Aufhebungsvertrag.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
@@ -398,3 +380,4 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - Minijob-Grenze 2026: 603 EUR / Monat - Quelle: Deutsche Rentenversicherung Baden-Wuerttemberg
 - EU-Plattformarbeitsrichtlinie 2024/2831 (ABl. L vom 11.11.2024) - Umsetzungsfrist 02.12.2026: widerlegbare gesetzliche Vermutung eines Arbeitsverhaeltnisses bei Plattformarbeit; Beweislast bei der Plattform; Regelungen zum algorithmischen Management; Umsetzung in deutsches Recht steht aus - Quelle: eur-lex.europa.eu (CELEX 32024L2831)
 - EU-Lohntransparenzrichtlinie 2023/970 (ABl. L 132 vom 17.05.2023) - Umsetzungsfrist 07.06.2026: Auskunftsanspruch zu individuellen und durchschnittlichen Entgelthoehen; Pflicht zur Angabe von Einstiegsentgelt oder Spanne in Stellenausschreibungen; Verbot der Frage nach Gehaltshistorie; Beweislastumkehr bei Verletzung von Transparenzpflichten; Berichterstattung ab 250 Beschaeftigten ab 07.06.2027 jaehrlich; Umsetzung in deutsches Recht steht aus - Quelle: eur-lex.europa.eu (CELEX 32023L0970)
+

@@ -5,9 +5,6 @@ description: "Historische Auslegung Historischer Normzweck im Plugin Methodenleh
 
 # Historische Auslegung Historischer Normzweck
 
-## Arbeitsbereich
-
-**Historische Auslegung Historischer Normzweck** ordnet den Fall über die tragenden Prüfungslinien: Historische Auslegung im deutschen Zivilrecht, Leitet durch die historische Auslegung als notwendigen, Analysiert die institutionellen Folgen von. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Historische Auslegung Historischer Normzweck im Plugin Methodenleh
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `historische-auslegung`
@@ -103,16 +101,6 @@ Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich 
 - **Objektive Theorie ohne Bezug.** Wer rein "objektiv" auslegt, ohne die Historie zu pruefen, verliert die Bindung an den demokratisch legitimierten Gesetzgeber.
 - **Historie bei sehr alten Normen ueberstrapazieren.** § 242 BGB existiert seit 1900; die Reichstagskommission hatte ihn als Programmsatz für Treu und Glauben; die Anwendung im Arbeitsrecht oder im Verbrauchsschutz ist heute weit ueber die historische Vorstellung hinausgewachsen.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Einordnung in den Kanon.
-- `wortlaut-grammatikalische-auslegung` — vorgelagert.
-- `systematische-auslegung` — wenn Materialien das System erklaeren.
-- `teleologische-auslegung` — wenn Materialien die ratio legis dokumentieren.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — bei EU-Umsetzungsgesetzen.
-- `wertungsjurisprudenz-larenz-canaris` — Theorie hinter dem objektivierten Willen.
-- `pandekten-und-begriffsjurisprudenz` — Historische Rechtsschule als Wurzel.
-
 ## Quellen und Stand 05/2026
 
 - Friedrich Carl von Savigny, System des heutigen Roemischen Rechts, Band 1, Berlin 1840, § 33.
@@ -124,14 +112,6 @@ Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich 
 - `references/methodik-buergerliches-recht.md` im Repo.
 
 Stand: Mai 2026. BT-Drucksachen vor Verwendung in Schriftsaetzen immer im Original pruefen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `historischer-normzweck-erster-schritt`
 
@@ -190,10 +170,6 @@ Die historische Auslegung steht am Beginn jeder seriösen Norminterpretation. Si
 - Der historische Normzweck wird mit dem geltenden Normzweck gleichgesetzt, ohne Zeitwandel zu prüfen.
 - BGB-Motive und Protokolle werden als abschließende Normdeutung missverstanden, obwohl sie Auslegungshilfen sind.
 - Historische Auslegung wird übersprungen, weil das Ergebnis scheinbar bekannt ist — dann fehlt die Begründungstiefe.
-
-## Output
-
-Das Skill liefert eine historische Auslegungsanalyse: Entstehungskontext der Norm, relevante Gesetzgebungsmaterialien, historischer Normzweck und Fallgruppenidentifikation, Zeitwandelprüfung und methodische Einordnung für die Gesamtauslegung. Verwendbar als Grundlagenteil eines Gutachtens oder Schriftsatzes.
 
 ## Vertiefung: Zeitwandel und evolutive Auslegung
 
@@ -279,10 +255,6 @@ Jede Auslegungsentscheidung ist auch eine institutionelle Entscheidung: Sie setz
 - Strikte Regeln werden durch kreative Auslegung aufgeweicht, bis die Regel faktisch nicht mehr gilt.
 - Institutionelle Folgen werden als irrelevant für die Rechtsfindung abgetan, obwohl sie ein legitimes Auslegungsargument sind.
 - Die Verhaltenssteuerungswirkung des Rechts wird bei der Auslegungsentscheidung nicht berücksichtigt.
-
-## Output
-
-Das Skill liefert eine institutionelle Folgenanalyse: Identifikation des Einzelfall- vs. Präzedenzscharakters, Regelbindungsanalyse, institutionelle Folgenprognose, Konsistenztest und Empfehlung für die methodisch korrekte Entscheidung. Geeignet für strategische Prozessplanung, Gutachten und Rechtsfortbildungsanalysen.
 
 ## Vertiefung: Präventiveffekt von Regelbindung
 
@@ -389,14 +361,6 @@ Kritik aus der Wertungsjurisprudenz (Larenz, Canaris): Hecks "Interessen" sind z
 
 Kritik aus der Topik (Viehweg): Auch Hecks Modell unterstellt einen Konsens darueber, was "die" Interessenabwaegung des Gesetzgebers ist. In der Praxis ist diese Wertung umstritten und wird im juristischen Diskurs ausgehandelt.
 
-## Querverweise
-
-- `pandekten-und-begriffsjurisprudenz` — Gegenposition.
-- `wertungsjurisprudenz-larenz-canaris` — Weiterentwicklung.
-- `teleologische-auslegung` — Brueckenkopf der Interessenjurisprudenz im modernen Kanon.
-- `historische-auslegung` — Interessen-Ermittlung aus Materialien.
-- `topik-viehweg-vs-systemdenken` — Kritik am Konsens-Modell.
-
 ## Quellen und Stand 05/2026
 
 - Philipp Heck, Gesetzesauslegung und Interessenjurisprudenz, 1914.
@@ -408,22 +372,11 @@ Kritik aus der Topik (Viehweg): Auch Hecks Modell unterstellt einen Konsens daru
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 5. `kelsen-normstufen-kompetenz-bgb-methode`
 
 **Fokus:** Diszipliniert zivilrechtliche Argumentation durch Quellenklarheit, Normhierarchie, Kompetenz und Trennung von Geltung und Bewertung.
 
 ### Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung
-
-## Zweck
-Dieser Skill verhindert, dass im Zivilrecht ein guter Gedanke als geltendes Recht ausgegeben wird. Er zwingt jede These in eine Normstufen- und Kompetenzprüfung.
 
 ## Prüfschritte
 1. Welche Rechtsquelle trägt die Aussage: BGB, Nebengesetz, EU-Verordnung, Richtlinie, Grundrecht, Satzung, Vertrag, AGB, Präjudiz?
@@ -432,5 +385,3 @@ Dieser Skill verhindert, dass im Zivilrecht ein guter Gedanke als geltendes Rech
 4. Ist die Rechtsfolge durch Gericht entscheidbar oder nur rechtspolitisch wünschenswert?
 5. Welche prozessuale Darlegungs- und Beweislast macht die These praktisch nutzbar?
 
-## Output
-Normstufenkarte und knapper Gutachtenabschnitt, der Wertung und Geltung sauber trennt.

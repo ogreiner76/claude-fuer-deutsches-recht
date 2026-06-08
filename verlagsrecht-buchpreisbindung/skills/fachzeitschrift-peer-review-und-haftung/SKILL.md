@@ -5,10 +5,6 @@ description: "Verlagsrecht: Fachzeitschriften, Peer-Review-Verfahren, Haftung f�
 
 # Verl-029 · Fachzeitschrift, Peer Review und Haftung
 
-## Arbeitsbereich
-
-Verlagsrecht: Fachzeitschriften, Peer-Review-Verfahren, Haftung für fehlerhafte Fachinformation und Autorenrechte — UrhG §§ 38 und 32d, wissenschaftliche Publikationsstandards. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -124,3 +120,4 @@ Wissenschaftliche und juristische Fachzeitschriften unterliegen einem eigenen Re
 - **Retraction-Protokoll**: Kriterien, Prozess, Kommunikation
 - **Haftungsdisclaimer-Check**: AGB-Klauseln für Fachinhalte
 - **Gegendarstellungs-Checkliste**: Formal, materiell, Frist
+

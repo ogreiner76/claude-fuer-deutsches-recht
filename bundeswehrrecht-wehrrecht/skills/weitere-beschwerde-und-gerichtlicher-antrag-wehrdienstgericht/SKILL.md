@@ -36,12 +36,6 @@ Das Truppendienstgericht (TDG) entscheidet über WBO-Anträge. BVerwG-Wehrdienst
 - § 82 WDO — Berufung BVerwG
 - BVerwG Wehrdienstsenat
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - Liegt ein ablehnender Beschwerdebescheid vor?
@@ -94,21 +88,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Muster: Antrag auf gerichtliche Entscheidung § 17 WBO
 - Prüfschema: Welches Rechtsmittel als nächstes?
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/wbo/ — §§ 16–22a WBO
-- https://www.bverwg.de — BVerwG Wehrdienstsenat
-- https://openjur.de — TDG-Entscheidungen
-- https://dejure.org/gesetze/WBO/17.html
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +97,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

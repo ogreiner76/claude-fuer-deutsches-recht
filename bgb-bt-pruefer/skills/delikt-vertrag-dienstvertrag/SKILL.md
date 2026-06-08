@@ -5,10 +5,6 @@ description: "Prüft das Verhältnis von vertraglicher und deliktischer Haftung:
 
 # Delikt-Vertrag Konkurrenz
 
-## Arbeitsbereich
-
-Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, A
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Zweck
-
-Das Konkurrenzverhältnis von vertraglichem Schadensersatz (§ 280 BGB) und Deliktsrecht (§ 823 BGB) prüfen: Anspruchskumulation, Wahlrecht und abweichende Verjährungsfristen.
 
 ## Normanker
 
@@ -61,19 +53,13 @@ Das Konkurrenzverhältnis von vertraglichem Schadensersatz (§ 280 BGB) und Deli
 - Beweislast ist unterschiedlich: § 280 BGB favorisiert den Gläubiger, § 823 BGB den Schuldner.
 - § 852 BGB verlängert Deliktsanspruch nach Verjährung auf zehn Jahre in Bereicherungsform.
 - Gehilfenhaftung nach § 278 BGB ist strenger als nach § 831 BGB (keine Exkulpation möglich).
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Anspruchsvergleich (vertraglich vs. deliktisch) mit Vor- und Nachteilen
-- Beweislast-Matrix
-- Verjährungskalender
-- Handlungsempfehlung (welcher Anspruch vorrangig?)
 
 ## Qualitätsregeln
 
@@ -93,10 +79,4 @@ Das Konkurrenzverhältnis von vertraglichem Schadensersatz (§ 280 BGB) und Deli
 - https://www.gesetze-im-internet.de/bgb/__823.html
 - https://www.gesetze-im-internet.de/bgb/__280.html
 - https://www.gesetze-im-internet.de/bgb/__241.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

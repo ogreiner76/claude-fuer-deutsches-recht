@@ -5,10 +5,6 @@ description: "Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahre
 
 # Prozessportfolio-Status
 
-## Arbeitsbereich
-
-Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahrensstand, naechste Schritte. Normen: ZPO, RVG. Prüfraster: Fristenliste, offene Anträge, Termine, Mahnfristen. Output: Portfolio-Statusbericht Prozessmandate. Abgrenzung: nicht Einzelmandat-Briefing. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,13 +34,6 @@ Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahrensstand, naech
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Eine Abfrage, die beantwortet: Was führe ich gerade, was erfordert Aufmerksamkeit, was droht zu versanden? Die Ausgabe ist auf schnelles Überfliegen ausgelegt — geeignet für einen Anwalt, der drei Minuten vor dem nächsten Termin hat. Lädt bei allen Anfragen zu einer Gesamtübersicht aktiver oder aller Prozessmandate.
-
 ## Eingaben
 
 - **Mandatsprotokoll `_log.yaml`**: Primärquelle
@@ -69,6 +58,7 @@ Eine Abfrage, die beantwortet: Was führe ich gerade, was erfordert Aufmerksamke
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1: Kontext laden
@@ -97,18 +87,6 @@ Sieben Prüfregeln (Details im Abschnitt Auffälligkeitsregeln).
 ### Schritt 5: Entscheidungsbaum ausgeben
 
 Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `## Ausgaben`. Optionen an die Ausgabe anpassen (Entwurf erstellen, eskalieren, weitere Fakten beschaffen, beobachten, anderes). Bei mehr als ca. 10 Mandaten oder auf Anfrage: Dashboard-Angebot (Risikoverteilung, Fristatimeline, sortierbare Mandatsliste mit Status und letztem Bearbeitungsdatum).
-
-## Ausgabeformat
-
-```markdown
-[ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
-
-### Prozessportfolio-Status — [heute]
-
-**Aktive Mandate:** [N]
-**Geschlossen (lfd. Jahr):** [N] *(nur bei --alle)*
-
----
 
 ## Nach Risiko
 
@@ -200,3 +178,4 @@ Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

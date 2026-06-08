@@ -46,7 +46,3 @@ description: "AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Spark
 4. BGH-Linie XI ZR 26/20 einschlaegig?
 5. Verbraucher- oder Unternehmenskunde?
 
-## Output
-
-- Klauselraster.
-- Schriftsatzbaustein "Rueckforderung wegen unwirksamer Bankentgelte".

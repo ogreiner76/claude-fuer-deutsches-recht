@@ -102,14 +102,6 @@ Bausteine:
 - Konnexitaet ignoriert (Pflichten für Länder / Kommunen)
 - Buerger pauschal "geringfuegig"
 
-## Querverweise
-
-- `nkr-erfuellungsaufwand-grundbegriff`
-- `nkr-zeitwerttabelle-und-fallzahlen`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-praktikabilitaet-vollzug-test`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
@@ -118,3 +110,4 @@ Bausteine:
 - DESTATIS Verdienststrukturerhebung (jeweils aktuelle Ausgabe)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.destatis.de](https://www.destatis.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

@@ -83,12 +83,6 @@ Das JobRad / Dienstrad ist ein vom AG geleastes Fahrrad oder E-Bike, das dem AN 
 - Buchung im Hauptbuch.
 - LSt-Bescheinigung mit Sachbezugs-Vermerk.
 
-## Output
-
-- Lohn-Abrechnung mit JobRad-Sachbezug.
-- Leasingvertrag-Beleg.
-- Vereinbarung Gehaltsumwandlung.
-
 ## Strategie und Praxis-Tipps
 
 - JobRad ist beliebter Lohnumwandlungs-Hebel mit hoher AN-Akzeptanz.
@@ -99,14 +93,6 @@ Das JobRad / Dienstrad ist ein vom AG geleastes Fahrrad oder E-Bike, das dem AN 
 - StBVV: in Lohnpauschale; Konfiguration einmalig.
 - DATEV-Tipp: DATEV LODAS JobRad-Lohnart konfigurieren; Leasingvertrag verlinken.
 
-## Querverweise
-
-- `stb-lohn-sachbezuege-50-euro-freigrenze` — Sachbezug.
-- `stb-lohn-dienstwagen-1-prozent-fahrtenbuch` — Dienstwagen.
-- `stb-lohn-jobticket-mobilitaet-deutschlandticket` — Jobticket.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
-- `stb-lohn-mindestlohn-aktuell-2026-anpassung` — Mindestlohn (bei Gehaltsumwandlung MiLo-Pruefung).
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -115,10 +101,3 @@ Stand: 05/2026.
 - BMF v. 17.11.2017, v. 09.01.2020.
 - Verifikations-Hinweis: § 3 Nr. 37 EStG gueltig bis 31.12.2030.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

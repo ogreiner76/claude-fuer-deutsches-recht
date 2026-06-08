@@ -5,10 +5,6 @@ description: "Erzeugt aus geprüfter Akte konkrete Dokumente: IC-Memo, Update-Re
 
 # Output Generator Pack
 
-## Aufgabe
-
-Erzeugt aus geprüfter Akte konkrete Dokumente: IC-Memo, Update-Recap, Term-Sheet-Fragen, Deal-Cockpit, Board-Note und Follow-on-Memo.
-
 ## Arbeitsfokus
 
 Vom Denken zum verwendbaren Dokument kommen.
@@ -44,3 +40,4 @@ Vom Denken zum verwendbaren Dokument kommen.
 ## Quellen- und Qualitätsregel
 
 Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Kartellrecht, Datenschutz, AI Act oder internationale Securities-Themen berührt sind, nicht aus Modellwissen final entscheiden. Aktuelle amtliche Quellen oder lokale Counsel verlangen und die Ausgabe als Struktur-/Prüfvermerk kennzeichnen.
+

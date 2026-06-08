@@ -5,10 +5,6 @@ description: "Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antrag
 
 # vZTA-Antrag: Qualitaetsgate für verbindliche Zolltarifauskuenfte
 
-## Arbeitsbereich
-
-Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet Warenbezeichnung technische Unterlagen Muster und Lieferfrist. Behoerdliche Bindungswirkung und Rechtschutz gegen ablehnenden Bescheid oder abweichende Einreihung. Qualitaetsgate vor Antragsstellung. Output: vZTA-Antragsmappe mit Sachverhaltsbeschreibung und Einreihungsbegruendung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet War
 - Ruelckgezogene oder widerrufene vZTA ohne Uebergangsfrist problematisch.
 - Abweichende Einreihung in vZTA und Zollanmeldung loest Strafzoll-Risiko aus.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,12 +70,9 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-vZTA-Antragsmappe mit technischer Warenbe schreibung, Einreihungsbegruendung, Muster-Checkliste und Rechtsschutz-Hinweisblatt.
-
 ## Quellen
 
 - [UZK Art. 33 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0952)
 - [Zoll.de vZTA](https://www.zoll.de/DE/Fachthemen/Zoelle/Zolltarif/Verbindliche-Zolltarifauskunft/verbindliche-zolltarifauskunft_node.html)
 - [UZK-DA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2446)
+

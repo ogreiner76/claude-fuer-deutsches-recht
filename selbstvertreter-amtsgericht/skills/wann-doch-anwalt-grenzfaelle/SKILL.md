@@ -137,22 +137,7 @@ Wenn 3 von 4 mal "Nein": Anwalt.
 - "Anwalt zahlt sich nicht aus." → Bei Komplikationen schon.
 - "Ich nehme erst Anwalt für Berufung." → Gut, aber AG-Phase vorher gut gestalten.
 
-## Querverweise
-
-- `anwaltszwang-pruefen-78-zpo` — Wann zwingend.
-- `beratungshilfe-aussergerichtlich-brh` — Vor Mandat.
-- `prozesskostenhilfe-pkh-114-zpo` — Im Mandat.
-- `berufung-amtsgericht-511-zpo` — Berufung.
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Vorab-Pruefung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -132,22 +132,7 @@ Wenn ein Gutachter erscheint:
 - Bei schwierigen Fragen erfunden Antworten → "Das weiss ich nicht" ist ok
 - Vergleich vorschnell zugestimmt → bedenken
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `ladung-termin-sozialgericht-vorbereitung` — Ladung verstehen
-- `verhalten-im-saal-sozialgericht-laienleitfaden` — Verhalten
-- `vergleich-vorschlag-101-sgg` — Vergleich
-- `widerspruch-gegen-gutachten-laien` — Gutachten kritisieren
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Hinweise.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

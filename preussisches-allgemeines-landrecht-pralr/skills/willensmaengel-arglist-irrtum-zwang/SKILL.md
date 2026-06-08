@@ -5,10 +5,6 @@ description: "Willensmaengel im ALR — Arglist Irrtum Zwang. Skill behandelt AL
 
 # Pralr Willensmaengel Arglist Irrtum Zwang
 
-## Arbeitsbereich
-
-Willensmaengel im ALR — Arglist Irrtum Zwang. Skill behandelt ALR I 4 zur Anfechtbarkeit von Willenserklaerungen wegen arglistiger Taeuschung wesentlichen Irrtums und Zwangs sowie die Fortwirkung in §§ 119-124 BGB. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,7 +46,3 @@ Willensmaengel im ALR — Arglist Irrtum Zwang. Skill behandelt ALR I 4 zur Anfe
 3. Frist?
 4. Rechtsfolge (ex tunc / ex nunc)?
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

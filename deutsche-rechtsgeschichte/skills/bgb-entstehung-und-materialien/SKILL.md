@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Mater
 
 # BGB Entstehung und Materialien (1874-1900)
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste und Zweite Kommission, Mugdan-Materialien, Motive und Protokolle als Schluessel zur historischen Auslegung des BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Die Entstehung des BGB erstreckte sich ueber 26 Jahre (1874-1900). Die Erste Kom
 - BVerfGE und BGH zur Auslegungsbedeutung der Materialien: bverfg.de, bgh.de
 - Keine vereinfachten Paraphrasen ohne Quellenangabe aus den Motiven
 
-## Output
-
-- Zeitleiste BGB-Entstehung: 1874-1900
-- Mugdan-Navigator: Welcher Band für welches BGB-Buch
-- Kernkritik Menger und Gierke: Was wurde aufgenommen, was abgelehnt?
-
-## Quellenregel
-
-Mugdan 6 Bde. (1899): Bandangabe und Seite. BGB-Text: gesetze-im-internet.de. RGBl. 1896, 195: ALEX/OeNB für Originalfassung. BGH und BVerfG zur Materialienauslegung: bgh.de und bverfg.de.

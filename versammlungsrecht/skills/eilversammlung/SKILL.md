@@ -5,10 +5,6 @@ description: "Prüft Eilversammlungen, bei denen ein Veranstalter existiert, der
 
 # Eilversammlung: anzeigen sobald es geht
 
-## Arbeitsbereich
-
-Prüft Eilversammlungen, bei denen ein Veranstalter existiert, der Zweck aber bei voller Fristeinhaltung vereitelt würde. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,17 +23,11 @@ Unterscheide Eilversammlung von Spontanversammlung. Bei Eilversammlungen wird an
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
 
-## Arbeitsweise
-Dokumentiere Anlass, Uhrzeit der Kenntnis, Warum der Termin jetzt sein muss, Kommunikationsweg zur Behörde und welche Angaben trotz Eile vollständig möglich sind.
-
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
 - Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
 - Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
 - Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Output
-Output: telefonische Anzeige-Checkliste, E-Mail-Nachreichung und Rechtfertigungsnotiz.
 
 ## Qualitätsgate
 - Wurde das richtige Landesrecht verwendet?
@@ -51,3 +41,4 @@ Output: telefonische Anzeige-Checkliste, E-Mail-Nachreichung und Rechtfertigungs
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+

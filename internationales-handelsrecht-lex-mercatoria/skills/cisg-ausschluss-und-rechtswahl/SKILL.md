@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: CISG Ausschluss nach Art. 6 CISG und
 
 # CISG-Ausschluss und Rechtswahl
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: CISG Ausschluss nach Art. 6 CISG und Rechtswahl nach Rom I (EG) 593/2008. Formulierung wirksamer Ausschlussklauseln, Teilausschluss einzelner Artikel und Zusammenspiel mit nationaler Kaufrechtsergänzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Art. 6 CISG erlaubt Parteien, das gesamte CISG oder einzelne Bestimmungen auszus
 - Rom I-Statut separat festlegen — CISG und Vertragsstatut sind unabhängig
 - Schriftformvorbehalt-Staaten vor Vertragsabschluss prüfen
 
-## Output
-
-- Musterkausel: CISG-Ausschluss (vollständig und partiell)
-- Checkliste: Wahl CISG vs. nationales Recht vs. UNIDROIT
-- Risikoanalyse: Lückenrecht nach Ausschluss
-
-## Quellenregel
-
-CISG: uncitral.un.org. Rom I: eur-lex.europa.eu (32008R0593). BGH-Rspr.: dejure.org, juris.de. CISG-online.ch für Rechtsprechungsübersichten. Unsicherheit bleibt sichtbar.

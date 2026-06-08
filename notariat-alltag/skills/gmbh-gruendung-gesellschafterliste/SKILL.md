@@ -5,10 +5,6 @@ description: "Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder indivi
 
 # Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung
 
-## Arbeitsbereich
-
-Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -102,3 +98,4 @@ GmbH-Gründung individuelle Satzung: 2,0 Gebühr (KV Nr. 21100), Gegenstandswert
 - **Kostenvoranschlag**
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

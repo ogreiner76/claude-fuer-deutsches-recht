@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB im Deutsche
 
 # Deutsche Rechtsgeschichte: 003 Bremer Handelsrecht Vor Hgb
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -33,10 +29,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für das Bremer Handelsrecht vor Inkrafttreten des ADHGB 1861/1869 und HGB 1900.
 
 ## Bremen als Hansestadt
 
@@ -75,7 +67,3 @@ Schiff mit Bremer Reederei sinkt vor Hamburg.
 - Bremer Recht (vor 1861): Bremer Seerecht; Stadtgerichtsbarkeit.
 - HGB heute: §§ 476 ff. HGB Seehandelsrecht (nach Reform 2013).
 
-## Output
-
-- Quellenmatrix.
-- Memo zur hanseatischen Tradition.

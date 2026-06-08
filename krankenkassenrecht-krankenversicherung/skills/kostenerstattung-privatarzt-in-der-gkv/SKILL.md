@@ -5,10 +5,6 @@ description: "Kostenerstattungsverfahren nach § 13 SGB V: Wahlerklärung, Syste
 
 # Kostenerstattung: Privatarzt in der GKV
 
-## Arbeitsbereich
-
-Kostenerstattungsverfahren nach § 13 SGB V: Wahlerklärung, Systemversagen, Notfall, GOÄ-Abrechnung und Erstattungsgrenzen in der GKV. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ GKV-Versicherte können unter bestimmten Umständen einen Privatarzt aufsuchen u
 - [dejure.org § 13 SGB V](https://dejure.org/gesetze/SGB_V/13.html)
 - [GKV-Spitzenverband Kostenerstattung](https://www.gkv-spitzenverband.de)
 - [Kassenärztliche Bundesvereinigung](https://www.kbv.de)
+

@@ -82,12 +82,6 @@ Der Data Act (VO (EU) 2023/2854) ist seit 11.01.2024 in Kraft und gilt überwieg
 - **Geschäftsgeheimnis-Vorhaben pauschal** angenommen – Art. 5 verlangt konkrete Schutzbedürftigkeit.
 - **Datenexport nur in proprietären Formaten** – Interoperabilitätspflicht verletzt.
 
-## Querverweise
-
-- `datenminimierung-edge-cloud`
-- `beweislast-und-offenlegung-produkthaftung`
-- `cra-produkt-mit-digitalen-elementen`
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2023/2854 (Data Act), Art. 3, 4, 5, 9, 13, 14-22, 23-31, 50.
@@ -95,3 +89,4 @@ Der Data Act (VO (EU) 2023/2854) ist seit 11.01.2024 in Kraft und gilt überwieg
 - GeschGehG; RL (EU) 2016/943.
 - VO (EU) 2024/1689 (KI-VO), Art. 10.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, BfDI; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

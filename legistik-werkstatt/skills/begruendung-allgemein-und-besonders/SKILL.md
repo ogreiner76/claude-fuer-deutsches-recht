@@ -81,9 +81,6 @@ Pro Artikel und pro Paragraf:
 
 § 39 VwVfG (Begruendungspflicht Verwaltungsakt) — § 41 VwVfG (Heilung von Begruendungsmaengeln) — § 76 GGO (Begruendung Referentenentwurf) — §§ 1-4 UVPG (Umwelt-Begruendungspflichten) — § 35 BauGB (Begruendung Abwaegungsergebnis Bauleitplanung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Markdown-Datei "Begruendung.md".
@@ -91,3 +88,4 @@ Markdown-Datei "Begruendung.md".
 ## Anschluss
 
 `synopse-erstellen`.
+

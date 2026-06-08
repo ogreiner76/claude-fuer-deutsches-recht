@@ -5,10 +5,6 @@ description: "Notarpaket für Beurkundungstermin bei Kapitalerhohung durch Wandl
 
 # Notar-Paket zur Handelsregister-Anmeldung
 
-## Arbeitsbereich
-
-Notarpaket für Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenstellen und uebermitteln. §§ 15 55 GmbHG BeurkG. Prüfraster: Vollständigkeit Beschluss Zeichnungsschein Gesellschafterliste Vollmachten Identitätsnachweise. Output: Notarpaket Checkliste Begleitschreiben. Abgrenzung: nicht für Handelsregisteranmeldung nach Beurkundung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Notarpaket für Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenst
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill stellt das vollständige Paket für den Notar zusammen, der die Kapitalerhöhung beim Handelsregister anmeldet. Phase D des Lebenszyklus.
 
 ## Eingaben
 
@@ -92,12 +84,6 @@ Nach Kapitalerhöhung: Pflicht zur Aktualisierung des Transparenzregisters nach 
 | Notar nicht in Beurkundungsbezirk | Zuständigkeitsproblem | Notar außerhalb prüfen | Zuständiger Notar |
 | Transparenzregister nicht aktualisiert | GwG-Verstoß, Bußgeld | Frist läuft | Aktualisierung beauftragt |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-kapitalerhoehung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterliste-aktualisieren/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/handelsregisteranmeldung-kapitalerhoehung/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 57 ff. oder GwG § 19 aktualisieren.
@@ -113,3 +99,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 §§ 53, 54, 55 GmbHG (Beurkundung Kapitalerhöhungsbeschluss + Übernahme) → § 56 Abs. 2 GmbHG (Sacheinlagebericht) → §§ 1-17 BeurkG (Beurkundungsgesetz, Pflichten Notar) → § 40 GmbHG (Gesellschafterliste nach Wandlung) → § 57 GmbHG (Handelsregisteranmeldung)
+

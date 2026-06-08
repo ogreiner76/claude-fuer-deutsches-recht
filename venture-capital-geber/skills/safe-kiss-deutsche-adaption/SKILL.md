@@ -5,10 +5,6 @@ description: "Erklärt SAFE/KISS-Begriffe und prüft, wie sie in deutschen GmbH-
 
 # SAFE/KISS deutsche Adaption
 
-## Arbeitsbereich
-
-Erklärt SAFE/KISS-Begriffe und prüft, wie sie in deutschen GmbH-Strukturen funktionieren oder nicht funktionieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Erklärt SAFE/KISS-Begriffe und prüft, wie sie in deutschen GmbH-Strukturen fun
 - Tragende Normen verifizieren: BGB §§ 311b Abs. 1, 145 ff., GmbHG §§ 5, 15, 16, 17, 53, 55, AktG §§ 182, 186, 192, 202, UmwG, KAGB §§ 1, 2, 281 ff. (geschlossener Spezial-AIF), AStG §§ 6, 50d, EStG §§ 17, 20 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: VC-Fonds (Limited Partner / General Partner), Gründer, Co-Investoren, Notar, Steuerberater, Aufsichtsbehörde BaFin (KAGB), Handelsregister.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Term Sheet, Beteiligungsvertrag (SHA), Gesellschaftsvertrag (Satzung), Wandeldarlehen (CLN/SAFE), ESOP/VSOP-Programm, Due-Diligence-Bericht, Cap Table, Closing-Memorandum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Erklärt SAFE/KISS-Begriffe und prüft, wie sie in deutschen GmbH-Strukturen funktionieren oder nicht funktionieren.
 
 ## Arbeitsfokus
 
@@ -56,3 +48,4 @@ US-Templates nicht blind nach Deutschland kopieren.
 ## Quellen- und Qualitätsregel
 
 Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Kartellrecht, Datenschutz, AI Act oder internationale Securities-Themen berührt sind, nicht aus Modellwissen final entscheiden. Aktuelle amtliche Quellen oder lokale Counsel verlangen und die Ausgabe als Struktur-/Prüfvermerk kennzeichnen.
+

@@ -5,10 +5,6 @@ description: "Vorschusspruefung für Buchprojekte: Bemessungsgrundlage, Auszahlu
 
 # Vorschuss pruefen
 
-## Arbeitsbereich
-
-Vorschusspruefung für Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -136,15 +132,6 @@ Mit freundlichen Gruessen
 - Hoher Vorschuss bei Wechselautor ohne Karenzklausel.
 - Bei Mehrautoren Vorschuss undifferenziert - Streit ueber Anteil.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung des Werks.
-- `verl-buchprojekt-bauleiter` - Gesamtbauleitung des Buchprojekts.
-- `verl-honorarvertrag-templates-und-abweichungen` - Vertragstemplates für Vorschuesse.
-- `verl-tantieme-abrechnung-jaehrlich` - Verrechnung in der Folgeperiode.
-- `verl-honorarrechnung-erstellen-pruefen` - Steuerbehandlung der Tranchen.
-- `verl-vergleichsverhandlung-mit-autor` - bei Streit ueber Rueckforderung.
-
 ## Quellen Stand 06/2026
 
 - VerlG §§ 1, 14, 22, 33 - Verlagsvertrag, Honorarpflicht, Folgen Nichtablieferung.
@@ -153,3 +140,4 @@ Mit freundlichen Gruessen
 - UStG §§ 12, 13 - Steuersatz und Entstehung; bei Vorschuss Anzahlungsversteuerung pruefen.
 - KSVG - Abgabepflicht; aktuelle Saetze unter kuenstlersozialkasse.de.
 - EStG § 11 - Zufluss-/Abflussprinzip.
+

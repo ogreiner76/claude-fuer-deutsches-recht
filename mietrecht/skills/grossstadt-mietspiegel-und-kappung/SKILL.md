@@ -5,10 +5,6 @@ description: "Großstadt-Mietspiegel, Kappungsgrenze und Vergleichsmiete: führt
 
 # Großstadt-Mietspiegel, Kappungsgrenze und Vergleichsmiete
 
-## Arbeitsbereich
-
-Großstadt-Mietspiegel, Kappungsgrenze und Vergleichsmiete: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,11 +20,6 @@ Großstadt-Mietspiegel, Kappungsgrenze und Vergleichsmiete: führt schnell durch
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `mietrecht`. Kontext des Plugins: Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.
-
-Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
 ## Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
@@ -55,14 +46,3 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - **Stichtagsproblematik:** Maßgeblich für die Vergleichsmiete ist der Zeitpunkt des Zugangs des Mieterhöhungsverlangens (§ 558a BGB); für die Kappungsgrenze der Zeitpunkt der Mieterhöhung. Bei Stichtagen vor/nach Veröffentlichung eines neuen Mietspiegels: stets aktuellen Mietspiegel verwenden.
 - **Praktiker-Tipp Großstadt:** In Berlin, München, Hamburg, Frankfurt etc. die LandesVO zu § 558 Abs. 3 S. 2 BGB UND zur Mietpreisbremse (§ 556d Abs. 2 BGB) separat prüfen - oft sind beide nebeneinander einschlägig, aber mit unterschiedlichen Gebietskulissen.
 
-## Output-Standard
-- Kurzbild in fünf Sätzen: Lage, Ziel, Frist, Risiko, nächster Schritt.
-- Prüfmatrix mit Punkt, Norm/Quelle, Tatsachen, Beleg, Bewertung, To-do.
-- Konkreter Textbaustein oder Arbeitsprodukt passend zur Lage: Memo, Mandantenbrief, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Verhandlungsagenda.
-- Keine Scheingenauigkeit: Annahmen, Lücken und Live-Check-Bedarf offen markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.

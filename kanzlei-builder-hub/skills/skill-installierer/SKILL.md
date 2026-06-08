@@ -187,19 +187,6 @@ Prüfen, ob der Skill in der Liste verfügbarer Skills erscheint. Den Nutzer nic
 
 ---
 
-## Ausgabeformat
-
-Strukturierte Ausgabe in dieser Reihenfolge:
-
-1. **Zulassungsstatus** — Quelle gelistet / Modus
-2. **Rohe SKILL.md** (vollständig)
-3. **Injection-Befunde** (mit Datei, Zeile, zitiertem Text)
-4. **Vertrauensprüfung** (Hooks, MCP, Werkzeuge, Netzwerk)
-5. **skills-qualitätsprüfung-Ergebnis**
-6. **Installationsprompt** (oder rollenabhängige Weiterleitung)
-
----
-
 ## Beispiel
 
 **Nutzer:** "Installiere den Skill `vertragsanalyse-nda` aus `kanzlei-registry.de`."
@@ -244,4 +231,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 ---
 
 <!-- AUDIT 27.05.2026 -->
+
 ## Audit-Hinweis (27.05.2026)
+

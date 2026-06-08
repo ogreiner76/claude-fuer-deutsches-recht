@@ -72,10 +72,6 @@ Ausdrücklicher Verweis auf §§ 203, 204 StGB. Idealerweise als Anlage der Norm
 - US-AGB mit "trade secret"-Sprache statt deutscher Berufsgeheimnis-Anlehnung
 - Klausel im FAQ oder Trust Center statt im Vertragstext
 
-## Output
-
-Tabellarische Bewertung pro Anforderung. Gelbe und rote Punkte fließen automatisch in den Rückfragebrief und in die Klauselvorschläge ein.
-
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -87,9 +83,6 @@ Tabellarische Bewertung pro Anforderung. Gelbe und rote Punkte fließen automati
 - § 126b BGB — Textformerfordernis
 - § 203 Abs. 4 StGB — Strafrechtliche Sekundärpflicht
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Enthält der Vertrag eine explizite Verschwiegenheitsklausel — nicht nur eine allgemeine Vertraulichkeitsklausel?
@@ -130,3 +123,4 @@ Beanspruchtes Thema: Haftung Notar Geheimnisverrat § 18 BNotO; NJW-RR 2021, 145
 Massnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Frankfurt&Datum=17.11.2020&Aktenzeichen=8+U+25/20
 -->
+

@@ -40,10 +40,6 @@ Wesensgehalt ist ein **harter Kernbereich** jedes Grundrechts, der jeder Abwaegu
 
 Wenn der Wesensgehalt verletzt ist, scheitert die Massnahme an dieser Stelle. Der Schritt liegt **vor** der Stufe 4 (Angemessenheit) als absoluter Massstab.
 
-## Output
-
-Knappe Notiz: Kernbereich beruehrt (ja/nein), Begruendung in einem Satz, Folgen fuer die weitere Pruefung.
-
 ## Quellen mit Schlagwort
 
 - BVerfGE 7, 377 (Apotheken-Urteil, Stufenlehre)
@@ -55,3 +51,4 @@ Knappe Notiz: Kernbereich beruehrt (ja/nein), Begruendung in einem Satz, Folgen 
 - BVerfGE 120, 274 (Online-Durchsuchung, Kernbereichsschutz)
 - BVerfGE 125, 175 (Hartz IV, Existenzminimum)
 - BVerfGE 141, 220 (BKAG-Urteil, Kernbereich Online-Aufklaerung)
+

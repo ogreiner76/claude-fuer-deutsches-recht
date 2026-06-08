@@ -197,9 +197,6 @@ Stand 05/2026. Vor Verwendung im Schriftsatz Pinpoint (Rn., Tenor) auf [bundesve
 
 §§ 90-95 BVerfGG (Verfassungsbeschwerde: Zulässigkeit, Frist, Annahme) — § 93a BVerfGG (Annahme zur Entscheidung) — § 32 BVerfGG (Einstweilige Anordnung) — §§ 1-3 BVerfGG (Zuständigkeit BVerfG)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Praxishinweise
 
 - **Vollmacht beifügen** — nach § 22 BVerfGG.
@@ -210,3 +207,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Disclaimer-Wiederholung (vor jedem Output)
 
 Eine Verfassungsbeschwerde ist eine der anspruchsvollsten Schriftsätze der deutschen Rechtsordnung. Dieser Entwurf ist **kein Ersatz** für die anwaltliche Mandatsbearbeitung durch eine verfassungsrechtliche Spezialkanzlei. Insbesondere die Substantiierungsanforderungen und die strenge Subsidiarität führen in der Praxis zu hohen Verwerfungsquoten.
+

@@ -92,14 +92,6 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 - Folgekosten werden eingerechnet, obwohl nicht Erfuellungsaufwand
 - "Kein nennenswerter Aufwand" ohne Begruendung
 
-## Querverweise
-
-- `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-- `nkr-buerokratiekosten-vs-erfuellungsaufwand`
-- `nkr-standardkostenmodell-skm`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
@@ -107,3 +99,4 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - Handbuch der Rechtsfoermlichkeit Teil C
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bmi.bund.de](https://www.bmi.bund.de)
+

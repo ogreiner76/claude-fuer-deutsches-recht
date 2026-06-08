@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Parkhaeuser und Tiefgaragen �
 
 # Bauueberwachung Parkhaus und Tiefgarage Beton (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Parkhaeuser und Tiefgaragen — chloridbestaendiger Beton nach DIN 1045 und Instandsetzungsrichtlinie des DAfStb, Abdichtung nach DIN 18532, Spalt-Fugenbewegung nach DIN 18540, Brandschutz nach DIN 18232 und Entlueftungsanlage nach VDI 2053. Praxisnahe Kontrolle mit PlanRadar und SAP-PM-Integration für Parkhausbetreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Tiefgaragen erfordern zudem CO-Abzugsanlage nach VDI 2053 und Brandschutzabschni
 - Fugenspiel zu gering: Saisonale Laengenausdehnung sprengt Fugenprofil
 - CO-Sensor nicht kalibriert: Alarmschwelle nicht korrekt, Gesundheitsgefahr bei Vollbetrieb
 
-## Output
-
-Betonguete-Pruefprotokolle XD3 je Abschnitt. Abdichtungs-Schichtdickenprotokoll Parkdeck.
-CO-Entlueftungs-Inbetriebnahmeprotokoll. Weisse-Wanne-Pruefprotokoll Rissbreite.
-Abnahmeprotokoll Parkhaus nach VOB/B. SAP-PM-Equipment-Hierarchie Tiefgarage.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Parkhaus nach VOB/B. SAP-PM-Equipment-Hierarchie Tiefgarage.
 - [DIN 18532 Abdichtung Verkehrsflaechen](https://www.gesetze-im-internet.de/)
 - [VDI 2053 Garagenlueftung](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 148/06 Tiefgarage Chloridschaden](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+148/06)
+

@@ -56,15 +56,6 @@ Dieser Skill nimmt die gegnerische Perspektive ein: Welche Gegenargumente gibt e
 - Base Case: Einige Beweise unverwertbar, Kooperation mit Behörden senkt Bußgeld.
 - Worst Case: Wesentliche Beweise unverwertbar, Interessenkollision des Ermittlers bekannt, Behörde leitet eigene Untersuchung ein.
 
-## Red-Team-Fragen
-
-- Welche drei stärksten Gegenargumente gibt es gegen die Haupthypothese des Berichts?
-- Wurden alle zumutbaren entlastenden Beweise erhoben und bewertet?
-- Gibt es Beweisverwertungsverbote, die das gesamte Ergebnis infrage stellen?
-- Hat der Ermittler aktiv nach Alternativhypothesen gesucht, oder wurde nur die Ausgangshypothese des Auftraggebers verfolgt?
-- Ist die Interessenlage des Auftraggebers transparent und dokumentiert?
-- Würde ein gegnerischer Anwalt die Untersuchung als glaubwürdig akzeptieren?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -83,3 +74,4 @@ Dieser Skill nimmt die gegnerische Perspektive ein: Welche Gegenargumente gibt e
 - **Qualitätssicherungs-Checkliste** für den Abschlussbericht
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

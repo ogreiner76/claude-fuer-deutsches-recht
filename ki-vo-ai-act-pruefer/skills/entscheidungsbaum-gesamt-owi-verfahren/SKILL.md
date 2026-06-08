@@ -17,10 +17,6 @@ Master-für die vollstaendige KI-VO-Pruefung. Fuehrt von Art. 3 KI-System-Defini
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill ist der zentrale Entscheidungsbaum des KI-VO-Prüfers. Er führt vom ersten Art.-3-Check bis zum dokumentierbaren Endvermerk. Er soll nicht nur klassifizieren, sondern den Prüfpfad so steuern, dass Zweckbestimmung, tatsächliche Nutzung und Off-label-Risiken sauber sichtbar werden.
-
 ## Grundsatz
 
 Nicht der Produktname entscheidet, sondern der geprüfte Funktionszuschnitt und die Zweckbestimmung. Ein allgemeiner Chatbot oder ein GPAI-System ist nicht automatisch Hochrisiko. Wird er aber für Bewerberbewertung, Beschäftigtenmanagement, Kreditwürdigkeit, Bildung, Justiz, Migration, Strafverfolgung, Notfalltriage oder andere Anhang-III-Zwecke bestimmt oder faktisch eingesetzt, muss Art. 6 Abs. 2 i.V.m. Anhang III vertieft geprüft werden.
@@ -168,10 +164,3 @@ Das Enddokument muss enthalten:
 
 Stand: 05/2026. Maßgeblich sind Art. 2, 3, 5, 6, 25, 26, 27, 40, 50, 51 bis 56 und Anhang III KI-VO. Keine Rechtsberatung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

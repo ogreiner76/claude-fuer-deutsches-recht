@@ -5,10 +5,6 @@ description: "Erstellt einen strukturierten Remediation-Plan nach Untersuchungsa
 
 # Remediation-Plan nach Internal Investigation
 
-## Arbeitsbereich
-
-Erstellt einen strukturierten Remediation-Plan nach Untersuchungsabschluss – Kontrolllücken, Compliance-Verbesserungen, Behörden-Reporting und Nachverfolgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,15 +73,6 @@ Dieser Skill erstellt einen strukturierten, priorisierten und nachverfolgbaren R
 - Regelmäßige Compliance-Risikobeurteilung (Compliance Risk Assessment).
 - Externe Überprüfung: unabhängiger Compliance-Monitor oder Externer Prüfer.
 
-## Red-Team-Fragen
-
-- Adressiert der Remediation-Plan die Root Causes, oder werden nur Symptome bekämpft?
-- Sind alle Maßnahmen mit klaren Verantwortlichen und Fristen versehen?
-- Hat der Vorstand den Remediation-Plan persönlich gebilligt und unterstützt er ihn aktiv?
-- Werden die Maßnahmen unabhängig überwacht, oder prüft der Verantwortliche sich selbst?
-- Würde das DOJ oder die BaFin den Remediation-Plan als ernsthaft und ausreichend bewerten?
-- Gibt es Maßnahmen, die nur auf dem Papier existieren, aber in der Praxis nicht umgesetzt werden?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -104,3 +91,4 @@ Dieser Skill erstellt einen strukturierten, priorisierten und nachverfolgbaren R
 - **Behörden-Remediation-Bericht** (für DOJ/BaFin)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

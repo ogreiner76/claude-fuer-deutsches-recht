@@ -5,9 +5,6 @@ description: "Vergleichsverhandlung Strategie Werkmangel im Plugin Fachanwalt Ba
 
 # Vergleichsverhandlung Strategie Werkmangel
 
-## Arbeitsbereich
-
-**Vergleichsverhandlung Strategie Werkmangel** ordnet den Fall über die tragenden Prüfungslinien: Vergleichsverhandlung im Bau- und Architektenrecht, Werkmaengel sowohl nach VOB/B als auch nach. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +19,7 @@ description: "Vergleichsverhandlung Strategie Werkmangel im Plugin Fachanwalt Ba
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `vergleichsverhandlung-strategie`
@@ -188,9 +186,6 @@ Klassische Stolperfalle in Privates Baurecht, Architekten- und Ingenieurrecht:
 
 § 779 BGB (Vergleichsvertrag) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich) → § 796a ZPO (Anwaltsvergleich) → § 123 BGB (Anfechtung arglistige Täuschung) → §§ 631 641 BGB (Werkvertragliche Grundlagen) → § 650r BGB (Kündigungsrecht Architekt) → § 15 HOAI (Pauschalhonorar)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Vergleichsgespräch
 
 Kläre vor Beginn der Verhandlung:
@@ -616,3 +611,4 @@ Aktenzeichen geprueft und korrigiert:
 - EuGH C-377/17 (04.07.2019) — HOAI-Mindestsaetze; EuGH C-261/20 (18.01.2022) — Thelen Technopark
 
 Weitere konkrete Entscheidungen vor Ausgabe per dejure.org verifizieren.
+

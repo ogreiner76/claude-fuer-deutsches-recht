@@ -5,9 +5,6 @@ description: "Tdddg AVV EU Loeschung im Datenschutzrecht: prüft konkret Tdddg, 
 
 # Tdddg AVV EU Loeschung
 
-## Arbeitsbereich
-
-**Tdddg AVV EU Loeschung** ordnet den Fall über die tragenden Prüfungslinien: Tdddg, EU-Kommissions-Standardvertragsklauseln zwischen, Pflicht zur Loeschung oder Rueckgabe personenbezogener. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Tdddg AVV EU Loeschung im Datenschutzrecht: prüft konkret Tdddg, 
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-tdddg-fristen-form-und-zuständigkeit`
@@ -60,18 +58,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Praxis-Trade-off
 - Cookie-Banner mit "Alle ablehnen" auf erster Ebene wird von DSK und mehreren Aufsichtsbehörden gefordert; rein "Akzeptieren / Einstellungen" ist angreifbar.
 - Nudging (Farbgebung, vorausgewählte Häkchen) hebelt die Freiwilligkeit aus — siehe EuGH "Planet49" (Urteil vom 01.10.2019, C-673/17).
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ## 2. `avv-eu-kommission-musterklauseln-2021-915`
 
@@ -140,27 +126,12 @@ Bezugnahme-Klausel zur Inkorporation des Beschluss (EU) 2021/915 in den Hauptver
 - Inkorporation nur "soweit anwendbar" – das schwaecht die Bindungswirkung.
 - Es wird vergessen, dass die SCC nach Beschluss (EU) 2021/915 nicht im Verhaeltnis Verantwortlicher / Verantwortlicher gelten (dafür waeren die C2C-Module aus Beschluss 2021/914 zu verwenden, allerdings nur bei Drittlandbezug).
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-mindestinhalte-checkliste/SKILL.md`
-- `datenschutzrecht/skills/avv-eu-us-data-privacy-framework-bezug/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Durchfuehrungsbeschluss (EU) 2021/915 der Kommission vom 04.06.2021, ABl. L 199/18 vom 07.06.2021 – verifiziert.
 - Durchfuehrungsbeschluss (EU) 2021/914 der Kommission vom 04.06.2021, ABl. L 199/31 vom 07.06.2021 – in Kraft seit 27.06.2021 – verifiziert.
 - Art. 28 Abs. 6 bis 8 DSGVO.
 - Zitierweise: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `avv-loeschung-rueckgabe-nach-vertragsende`
 
@@ -240,12 +211,6 @@ Klausel zu Loeschung und Rueckgabe:
 - Kein Loeschprotokoll und kein Nachweis.
 - Sub-AV-Kette nicht erfasst.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-mindestinhalte-checkliste/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-- `datenschutzrecht/skills/avv-pruefung-bestehender-vertraege-audit/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 28 Abs. 3 lit. g, Art. 17, Art. 5 Abs. 1 lit. e DSGVO.
@@ -253,14 +218,6 @@ Klausel zu Loeschung und Rueckgabe:
 - DIN 66399 – Vernichtung von Datentraegern.
 - NIST SP 800-88 Rev. 1 – Guidelines for Media Sanitization.
 - Zitierweise: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `spezial-standardvertragsklauseln-mehrparteienkonflikt`
 
@@ -304,29 +261,11 @@ Mehrere Module dürfen nicht gemischt werden; pro Datenfluss exakt ein Modul.
 ## Trade-off
 SCC bringen Standardisierung, aber starre Klauseln. Bei sensiblen Daten oder hohem TIA-Risiko sind ergänzende technische Maßnahmen (Verschlüsselung, Split-Processing) oft entscheidender als die vertragliche Schicht.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
 ## 5. `standardvertragsklauseln-scc-paket`
 
 **Fokus:** Standardvertragsklauseln für Drittlandtransfers nach Art. 46 DSGVO vorbereiten: SCC-Modulwahl 1-4, Annex I-III, Subprozessoren, TOMs, AVV-Schnittstelle, TIA-Andockung, Signatur- und Behördenpaket ohne Veränderung der offiziellen Klauseln.
 
 ### Standardvertragsklauseln-SCC-Paket
-
-## Zweck
-
-Dieser Skill erstellt ein praxistaugliches SCC-Arbeitspaket für Drittlandtransfers. Er wählt das richtige Modul, bereitet die Anlagen vor, verbindet die SCC mit AVV/DPA, TIA und Subprozessoren und erzeugt eine unterschriftsreife Dokumentationsstruktur.
-
-**Wichtig:** Die offiziellen Standardvertragsklauseln der EU-Kommission werden nicht umformuliert. Das Tool erstellt Auswahl, Anlagen, Begleitvermerk, Verhandlungs- und Lückenliste. Der endgültige Vertrag muss die offiziellen Klauseln unverändert enthalten, soweit keine zulässige Ergänzung außerhalb des Klauselkerns erfolgt.
 
 ## Einsatzfälle
 
@@ -419,19 +358,6 @@ Prüfe Konsistenz:
 - Vorrangregel bei Konflikt zwischen AVV, MSA und SCC.
 - Haftung, Indemnity und technische Leistungsversprechen.
 
-## Output
-
-Lieferbare Dokumente:
-
-1. **SCC-Modulmatrix** mit Entscheidung.
-2. **Annex-I-Arbeitsfassung**.
-3. **Annex-II-TOM-Matrix**.
-4. **Annex-III-Subprozessorenliste**.
-5. **Lücken- und Verhandlungsprotokoll**.
-6. **Unterzeichnungscheckliste**.
-7. **Behördenfähiger SCC-Deckvermerk**.
-8. **TIA-Andockliste** für `us-transfer-tia-dokumentation`.
-
 ## Lückenbewertung
 
 | Ampel | Bedeutung |
@@ -457,10 +383,3 @@ Lieferbare Dokumente:
 - EDSA Recommendations 01/2020 zu ergänzenden Maßnahmen.
 - Bei US-Transfers immer mit `us-transfer-tia-dokumentation` kombinieren.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

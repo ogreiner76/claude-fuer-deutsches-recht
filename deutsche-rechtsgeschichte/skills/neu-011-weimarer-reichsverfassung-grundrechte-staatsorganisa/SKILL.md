@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte S
 
 # Deutsche Rechtsgeschichte: 011 Weimarer Reichsverfassung Grundrechte Staatsorganisa
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisat
 - Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für die Weimarer Reichsverfassung 11.08.1919.
 
 ## Eckdaten
 
@@ -81,7 +73,3 @@ Skill für die Weimarer Reichsverfassung 11.08.1919.
 - Art. 4 GG iVm Art. 136 WRV.
 - Grundrechtekatalog Art. 1-19 GG ist Erbe der WRV-Grundrechte.
 
-## Output
-
-- Quellenmatrix.
-- Synopse WRV / GG.

@@ -5,10 +5,6 @@ description: "Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungs
 
 # Erklärungsbewusstsein und Potentielles Bewusstsein — Willenserklärung
 
-## Arbeitsbereich
-
-Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: M
 - Anfechtung beseitigt die Willenserklärung ex tunc — aber Vertrauensschaden bleibt.
 - Mindermeinung (keine WE) schützt den Erklärenden stärker, aber belastet Rechtsverkehr.
 
-## Output
-
-- Meinungsstreit-Darstellung: h.M. potentielles Bewusstsein vs. Mindermeinung
-- Gutachtenstil-Abschnitt zum Willenserklärungstatbestand
-- Trierer Weinversteigerungsfall nachgebaut als Klausurbeispiel
-- Folgeprüfung Anfechtung nach § 119 Abs. 1 BGB
-
 ## Quellen
 
 - [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
@@ -96,3 +85,4 @@ nach § 122 BGB, wenn er anficht.
 - Potentielles Bewusstsein: Hätte Erklärende bei Sorgfalt erkennen können?
 - Rechtsfolge: Willenserklärung wirksam — Anfechtung nach § 119 Abs. 1 BGB möglich?
 - § 122 BGB-Haftung bei Anfechtung wegen fehlendem Erklärungsbewusstsein?
+

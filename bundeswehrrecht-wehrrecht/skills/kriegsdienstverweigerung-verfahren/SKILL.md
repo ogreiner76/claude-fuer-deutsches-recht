@@ -5,10 +5,6 @@ description: "Kriegsdienstverweigerung Verfahren: prüft die einschlägigen Vora
 
 # Kriegsdienstverweigerung – Verfahren
 
-## Arbeitsbereich
-
-Kriegsdienstverweigerung Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,15 +86,6 @@ Das Recht auf Kriegsdienstverweigerung aus Gewissensgründen ist in Art. 4 III G
 - Anhörung ohne Beistand – ungeschickte Antworten begründen Ablehnung.
 - KDV als reine Strategie zur Entlassung – Glaubhaftigkeit wird kritisch geprüft, Risiko Rückforderung.
 
-## Querverweise
-
-- soldatengesetz-rechtsstellung-grundpflichten
-- gehorsam-befehl-und-rechtswidriger-befehl
-- befehl-verweigern-gewissensnot-rechtswidrigkeit
-- entlassung-auf-eigenen-antrag
-- ausbildung-studium-bundeswehr-rueckforderung-ausbildungskosten
-- reservistendienst-dienstleistungspflicht
-
 ## Quellen Stand 06/2026
 
 - Art. 4 III GG.
@@ -110,3 +97,4 @@ Das Recht auf Kriegsdienstverweigerung aus Gewissensgründen ist in Art. 4 III G
 ## Spezialplugin
 
 Für KDV-Fälle ab 2026, insbesondere Antrag über BAPersBw, § 13 KDVG n. F., aktive Soldaten, Reservisten, Untätigkeit und Gewissensbegründung, vorrangig das Spezialplugin `kriegsdienstverweigerung-wehrdienst` verwenden. Dieser Skill bleibt als Routing im Bundeswehrrecht erhalten.
+

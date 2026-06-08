@@ -9,7 +9,6 @@ description: "Lücken- und Beschaffungsliste für E-Mail-Umformulierung im Beruf
 
 Diese Unterlagenprüfung für **Email Umformulierer Berufsrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `allgemeine-sonderfall-edge-case` — Allgemeine Sonderfall Edge Case
@@ -36,12 +35,9 @@ Diese Unterlagenprüfung für **Email Umformulierer Berufsrecht** benennt fehlen
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
-## Output
-
-Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat E-Mail-Umformulierung im Berufsrecht typischerweise E-Mail-Entwurf, Mandantenkorrespondenz zuerst.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

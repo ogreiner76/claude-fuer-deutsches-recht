@@ -5,10 +5,6 @@ description: "Zivilrechtliche TK-Klagen: Entgeltforderungen, Rückzahlung, Schad
 
 # Zivilklage: Entgelt, Schaden, Vertrag
 
-## Arbeitsbereich
-
-Zivilrechtliche TK-Klagen: Entgeltforderungen, Rückzahlung, Schadensersatz, SLA, AGB, Minderung und Verbraucher-/Businessstreit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Zivilrechtliche TK-Klagen: Entgeltforderungen, Rückzahlung, Schadensersatz, SLA
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Vertragsstreit ohne unmittelbaren BNetzA-Bescheid.
-
 ## Norm- und Quellenanker
 
 BGB; ZPO; TKG Kundenschutz; AGB-Recht.
-
-## Arbeitsfragen
-
-1. Welche Anspruchsgrundlage?
-2. Welche Rechnung/Leistung ist streitig?
-3. Welche Beweise?
-
-## Output
-
-Klage-/Klageerwiderungsgerüst und Streitwert.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Klage-/Klageerwiderungsgerüst und Streitwert.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

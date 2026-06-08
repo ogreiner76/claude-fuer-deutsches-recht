@@ -5,9 +5,6 @@ description: "Cyber Loesegeld Versr Deckungsanfrage im Plugin Fachanwalt Versich
 
 # Cyber Loesegeld Versr Deckungsanfrage
 
-## Arbeitsbereich
-
-**Cyber Loesegeld Versr Deckungsanfrage** ordnet den Fall über die tragenden Prüfungslinien: Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und, Cyberversicherung bei Ransomware, Prüfung von Versicherungsschadenfaellen und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Cyber Loesegeld Versr Deckungsanfrage im Plugin Fachanwalt Versich
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht`
@@ -30,10 +28,6 @@ description: "Cyber Loesegeld Versr Deckungsanfrage im Plugin Fachanwalt Versich
 **Fokus:** Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht. Anwendungsfall Unternehmen erhaelt Erpressung durch Ransomware und prüft Lösegeldzahlung auf Versicherungsdeckung und Sanktionsrechtsverstoesse. Normen VVG Cyber-Deckung EU-Sanktions-VO 833/2014 269/2014 OFAC-Advisory § 261 StGB Geldwäsche AWG § 34 Aussenwirtschaftsstrafrecht. Prüfraster Deckungsschutz Versicherer Lösegeldzahlung Sanktionsprüfung Empfaenger OFAC-Screening Strafrechtsrisiko BaFin-Meldung. Output Cyber-Schadenprotokoll mit Sanktionsprüfung Deckungsanalyse und Handlungsempfehlung für oder gegen Lösegeldzahlung. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-versicherungsrecht-deckungsklage.
 
 ### Cyber-Lösegeld bei Ransomware mit Sanktions-Risiko
-
-## Zweck
-
-Spezial-Mandat: Mandant hat Cyber-Versicherung, wurde Opfer eines Ransomware-Angriffs. Eine Lösegeldzahlung wird erwogen oder wurde bereits geleistet. Der Versicherer verweigert Deckung mit Verweis auf Sanktionsrisiko (OFAC Specially Designated Nationals List, EU-Russland-Sanktionen, Lazarus Group Nordkorea). Dieser Skill begleitet sowohl die versicherungsrechtliche Deckungsklage als auch die strafrechtliche Risikobewertung.
 
 ## Kaltstart-Rückfragen
 
@@ -364,23 +358,9 @@ Ransomware-Angriff + Lösegeld-Forderung?
 
 ### FA Versicherungsrecht: Cyber, Ransomware, Sanktionen
 
-## Einsatz
-
-Für Unternehmensnotfälle mit Versicherer, IT-Forensik, Datenschutz und Zahlungsrisiko.
-
 ## Norm- und Quellenanker
 
 VVG §§ 28, 81, 82; DSGVO Art. 33, 34; DORA; NIS2/BSI; EU-Sanktionsrecht.
-
-## Arbeitsfragen
-
-1. Welche Kosten sind gedeckt?
-2. Welche Zustimmung des Versicherers ist nötig?
-3. Ist Zahlung rechtlich verboten oder riskant?
-
-## Output
-
-Incident-Deckungscockpit, Meldeplan und Sanktionsscreening.
 
 ## Red Flags
 
@@ -397,10 +377,6 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 **Fokus:** Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG. Anwendungsfall Versicherung hat Leistung abgelehnt oder eingeschraenkt und Mandant will wissen ob Klage Aussicht hat. Normen §§ 1 28 VVG § 19 VVG vorvertragliche Anzeigepflicht § 81 VVG grob fahrlässig § 14 VVG Fälligkeit. Prüfraster Versicherungsfall-Definition Bedingungswerk Obliegenheitsverletzung Risikoausschluss Vorsatz grobe Fahrlässigkeit Kausalität Stichtage. Output Strukturierte Stellungnahme zur Deckungsablehnung mit AVB-Auslegung nach §§ 305 ff. BGB Handlungsempfehlung und Klageeinschaetzung. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-prüfen und klage-versicherer-strategie.
 
 ### Deckungsanfrage prüfen
-
-## Zweck
-
-Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische Prüfung, ob die Ablehnung tragfähig ist. Der Skill führt durch alle materiellen und formellen Prüfschritte und endet mit einer strukturierten Stellungnahme an den Versicherer.
 
 ## Kaltstart-Rückfragen
 
@@ -703,3 +679,4 @@ Vor Versand jeweils Volltext aus offener Quelle aufrufen (juris.bundesgerichtsho
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+

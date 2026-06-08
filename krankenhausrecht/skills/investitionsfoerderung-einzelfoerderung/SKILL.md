@@ -5,10 +5,6 @@ description: "Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen
 
 # Investitionsfoerderung Einzelfoerderung Pauschalfoerderung
 
-## Arbeitsbereich
-
-Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,14 +74,6 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Ländern 
 - Transformationsfondsantrag ohne Strukturveraenderungskonzept — Antrag nicht foerderfaehig.
 - KHZG-Frist verpasst, keine Verlaengerung beantragt.
 
-## Querverweise
-- `krankenhausfinanzierungsgesetz-khg-grundstruktur`
-- `krankenhausdigitalisierung-khzg-it-sicherheit`
-- `vergaberecht-krankenhaus-einkauf-bau-it`
-- `klinikverbund-fusion-kartell-vergabe-planungsrecht`
-- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
-- `kommunale-klinik-beihilfe-und-eu-beihilfen`
-
 ## Quellen Stand 06/2026
 - KHG § 9 i. d. F. KHVVG.
 - Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
@@ -93,3 +81,4 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Ländern 
 - KHVVG Transformationsfonds (Live-Check BMG).
 - BVerwG, staend. Rspr. zur Investitionsfoerderung; BSG zum Versorgungsauftrag.
 - EU-Beihilfenrecht: Altmark-Trans (EuGH C-280/00), Freistellung DAWI.
+

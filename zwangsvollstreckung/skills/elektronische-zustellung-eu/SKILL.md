@@ -37,13 +37,6 @@ Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung
 - § 840 ZPO — Drittschuldnererklärung
 - § 750 ZPO — Voraussetzungen der Vollstreckung (Zustellnachweis)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Praktische Begleitung der größten ZPO-Reform der letzten Jahre für die Zwangsvollstreckung. Skill stellt sicher, dass Anträge ab Inkrafttreten formgerecht eingereicht und an die richtigen Empfänger über den richtigen Weg zugestellt werden.
-
 ## Reform-Eckdaten (Stand 25.5.2026)
 
 | Datum | Inhalt |
@@ -112,22 +105,6 @@ Die Drittschuldnererklärung darf zusätzlich zur elektronischen Form auch per P
 - Zustellung per beA statt eBO an Drittschuldner – Bank hat ggf. nur eBO eröffnet.
 - Übergangsphase: nicht jede Bank ist vor 1.10.2027 elektronisch erreichbar – im Zweifel beim GV-Bezirk anfragen.
 
-## Ausgabeformat
-
-```
-ZVOLLSTRDIGITG-CHECK [Mandat / Pfändung]
-
-Inkrafttreten-Stand: verkündet [JA / NEIN, Stand-Recherche DD.MM.JJJJ]
-Anwendbar ab: 1.10.2026 (XML), 1.10.2027 (Bank-Pflicht eBO)
-Aktueller Schritt: [PfÜB-Antrag / Zustellung an Bank / § 840-Erklärung]
-Empfehlung Form: [Papier / beA + ERVV PDF / XML + PDF / eBO]
-Drittschuldner: Bank [Name], eBO bekannt [JA/NEIN]
-Risiko: [Formfehler / Doppelzustellung / Übergangsfrist]
-
-NÄCHSTER SCHRITT: [konkret]
-WIEDERVORLAGE: DD.MM.JJJJ
-```
-
 ## Qualitätsgates
 
 - Datum der Verkündung im BGBl bei jeder Beratung neu verifizieren.
@@ -136,10 +113,3 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Niemals annehmen, jede Bank sei vor 1.10.2027 elektronisch erreichbar – im Übergang konkret beim GV nachfragen.
 - Bei Anwaltsmandat § 130d ZPO als aktive Nutzungspflicht stets beachten.
 
-## Querverweise
-
-- `zv-kommandocenter` – Reform-Eckdaten kurz
-- `zv-pfueb-bank` – Hauptanwendungsfall
-- `zv-pfueb-arbeitsentgelt`, `zv-pfueb-mieter-finanzamt`
-- `zv-titel-klausel-zustellung`
-- Plugin `prozessrecht` (anderes Plugin) – allgemeiner Elektronischer Rechtsverkehr (§§ 130a, 130d ZPO; beA, eBO, EGVP)

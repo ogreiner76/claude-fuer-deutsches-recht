@@ -5,10 +5,6 @@ description: "Sichert Analysten-Calls und Investorenkommunikation gegen Selectiv
 
 # Analysten-Calls und Investorenkommunikation – Selective Disclosure
 
-## Arbeitsbereich
-
-Sichert Analysten-Calls und Investorenkommunikation gegen Selective-Disclosure-Risiken und MAR-Verstoesse: Sprechregeln, Q&A-Pruefung und Post-Call-Protokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,25 +70,6 @@ Wenn im Call versehentlich eine Insiderinformation offengelegt wurde:
 - Prüfung: Ad-hoc-Pflicht nach Art. 17 MAR (Öffentlichkeit herstellen)
 - Prüfung: Hat der informierte Analyst Transaktionen auf Basis dieser Information getätigt?
  → Meldung an BaFin erforderlich
-
-## Red-Team-Fragen
-
-- Wurde vor dem Call geprüft, ob eine aktuelle Insiderinformation vorliegt?
-- Haben IR-Mitarbeiter Sprechregeln und den Umgang mit heiklen Fragen schriftlich
- dokumentiert?
-- Wurde der Call vollständig aufgezeichnet und archiviert?
-- Gibt es einen Post-Call-Review-Prozess für Compliance?
-- Werden Einzelgespräche mit Investoren (One-on-Ones) genauso behandelt wie öffentliche Calls?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Pre-Call-Checkliste (Insiderinformations-Status, Themen-Sperrlist)
-2. Sprechregeln-Leitfaden für IR und Vorstand
-3. Q&A-Screening-Protokoll
-4. Post-Call-Compliance-Report-Vorlage
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
 
 ## Normen und Rechtsprechung
 

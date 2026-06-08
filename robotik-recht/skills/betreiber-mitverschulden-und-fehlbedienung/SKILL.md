@@ -77,12 +77,6 @@ Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich da
 - **"Vernünftigerweise vorhersehbare Fehlanwendung"** unterschätzt im Hersteller-Risikomanagement.
 - **§ 130 OWiG-Verantwortlicher** nicht benannt – Betreiberorganisation angreifbar.
 
-## Querverweise
-
-- `deliktische-haftung-paragraph-823-bgb`
-- `beweislast-und-offenlegung-produkthaftung`
-- `arbeitsschutz-betrsichv-robotik`
-
 ## Quellen Stand 06/2026
 
 - § 254 BGB; § 823 BGB; § 278 BGB.
@@ -92,3 +86,4 @@ Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich da
 - VO (EU) 2024/1689 (KI-VO), Art. 9.
 - ArbSchG; BetrSichV; § 130 OWiG.
 - Live-Verifikation auf eur-lex.europa.eu, bundesgerichtshof.de, dejure.org; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

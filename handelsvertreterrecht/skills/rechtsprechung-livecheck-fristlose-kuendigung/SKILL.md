@@ -66,10 +66,6 @@ Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländis
 - Instanzgericht weicht von BGH ab — Revision wurde versäumt.
 - Keine Liveprüfung vor Klageerhebung — falsche Rechtsgrundlage verwendet.
 
-## Output
-
-Rechtsprechungs-Recherche-Report, Entscheidungsübersicht nach § 89b HGB, EuGH-Livecheck-Protokoll.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +85,4 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [Dejure HGB](https://dejure.org/gesetze/HGB)
 - [Openjur BGH-Entscheidungen](https://openjur.de/)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+

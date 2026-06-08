@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Produktsicherheit bei EU-Importen. E
 
 # Produktsicherheit beim EU-Import
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Produktsicherheit bei EU-Importen. EU-Marktüberwachungsverordnung (EU) 2019/1020, CE-Kennzeichnung, REACH-VO (EG) 1907/2006, Produkthaftungsrichtlinie 85/374/EWG (Neufassung 2024) und Pflichten des Importeurs. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Importeure in die EU tragen produktrechtliche Pflichten: CE-Kennzeichnung sicher
 - RAPEX-Meldefluss dokumentieren: interne Eskalationskette festlegen
 - EU-Bevollmächtigter: EU-ansässige Kontaktperson im Importvertrag festlegen
 
-## Output
-
-- Importeur-Pflichten-Checkliste (CE, REACH, Marktüberwachung)
-- REACH Art. 33 Meldeformular-Muster
-- RAPEX-Meldefluss-Diagramm
-
-## Quellenregel
-
-VO (EU) 2019/1020: eur-lex.europa.eu. REACH: eur-lex.europa.eu (32006R1907). PH-RL 2024/2853: eur-lex.europa.eu. ECHA: echa.europa.eu. Unsicherheit bleibt sichtbar.

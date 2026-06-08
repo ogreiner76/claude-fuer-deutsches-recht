@@ -5,10 +5,6 @@ description: "Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgege
 
 # Whistleblower-Meldungen mit Insiderrecht-Bezug
 
-## Arbeitsbereich
-
-Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgegennahme, Pruefung, Eskalation und MAR-Folgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,20 +69,3 @@ d) BaFin: Proaktive Meldung erwägen (Kooperationsbonus)
 - Maßnahmen (Disziplinarrecht, Strafanzeige, BaFin-Meldung) festhalten
 - Archivierung 3 Jahre nach Abschluss (HinSchG § 11)
 
-## Red-Team-Fragen
-
-- Wurde die Vertraulichkeit des Whistleblowers ausreichend geschützt?
-- Wurde die Meldung vollständig und unvoreingenommen untersucht?
-- Wurden MAR-Folgen (Ad-hoc, Aufschub, Insiderliste) aus dem Befund abgeleitet?
-- War die Untersuchung unabhängig (kein Befangenheitsrisiko)?
-- Wurden Repressalien-Risiken dokumentiert und ausgeschlossen?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Erstbewertungsbogen für Whistleblower-Meldung
-2. Untersuchungsplan (Schritte, Zeitplan, Verantwortliche)
-3. Eskalationsprotokoll (Schwellenwerte für externe Einschaltung / BaFin-Meldung)
-4. Abschlussdokumentation-Vorlage
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

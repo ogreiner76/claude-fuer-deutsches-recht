@@ -5,10 +5,6 @@ description: "Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, D
 
 # Kandidatenlösung auf Subsumtion prüfen
 
-## Arbeitsbereich
-
-Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet. Gibt Korrekturvermerk mit Punkteindikation und Musterpassage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,26 +80,7 @@ Dieser Skill prüft abgegebene Klausur- oder Kandidatenlösungen auf methodische
 | Behandlung Gegenargumente | 1–2 | Streitstand übergangen |
 | Gesamtergebnis Indikativ | 1 | Konjunktiv im Schluss |
 
-## Red-Team-Fragen
-
-- Welche Anspruchsgrundlage oder Norm ist verführerisch, aber falsch?
-- Welche Tatsache wird im Sachverhalt nur behauptet, aber nicht belegt?
-- Welche Rechtsfolge passt nicht zur gewählten Norm?
-- Wo droht eine falsche Reihenfolge: BGB AT → BT; Primär → Sekundäranspruch; Vertrag → Delikt?
-
 ## Ausgabe
 
 Korrekturvermerk mit Abschnittsmarkierungen (Rot/Gelb/Grün), Randbemerkungen, Punkteindikation und verbesserter Musterpassage für die schwächste Subsumtionspassage. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle; keine Blindzitate.
 
-## Quellenregel
-
-- Normtext live prüfen: gesetze-im-internet.de.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, openjur.de, bgh.de).
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Korrekturvermerk, Prüfpfad, Lückenliste und Musterpassage.

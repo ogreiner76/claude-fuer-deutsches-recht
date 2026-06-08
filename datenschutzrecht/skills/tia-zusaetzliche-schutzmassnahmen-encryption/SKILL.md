@@ -5,10 +5,6 @@ description: "Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-E
 
 # Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap)
 
-## Zweck
-
-Dieser Skill behandelt Schritt 4 der EDPB-Sechs-Schritte-Roadmap: die Auswahl und Bewertung zusaetzlicher Schutzmassnahmen (supplementary measures), wenn das Schutzniveau im Drittland nicht von vornherein der Union "im Wesentlichen gleichwertig" ist. Grundlage ist insbesondere Annex 2 der EDPB-Empfehlung 01/2020 mit den Use Cases 1 bis 7.
-
 ## Wann dieses Modul hilft
 
 - Schritt 3 des TIA hat ergeben, dass Drittlandsrecht/Praxis das SCC-Schutzniveau nicht abdeckt.
@@ -92,13 +88,6 @@ Technischer Baustein:
 - Restrisiko nicht dokumentiert; Entscheider-Sign-off fehlt.
 - Warrant Canary versprochen, aber kein operatives Verfahren.
 
-## Querverweise
-
-- `tia-edpb-roadmap-6-schritte-deutsch` für Roadmap.
-- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Use Case.
-- `avv-tom-art-32-dsgvo-anlage` für TOMs.
-- `tia-template-deutsch-vollvorlage` für Vollvorlage.
-
 ## Quellen Stand 06/2026
 
 - EDPB Empfehlung 01/2020 Final 18.06.2021, insb. Annex 2 Use Cases.
@@ -108,10 +97,3 @@ Technischer Baustein:
 - BSI Technische Richtlinie TR-02102 (kryptografische Verfahren), aktueller Stand auf bsi.bund.de pruefen.
 - ENISA Guidelines for SMEs on the security of personal data processing (Dezember 2016) und Folgepapiere.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

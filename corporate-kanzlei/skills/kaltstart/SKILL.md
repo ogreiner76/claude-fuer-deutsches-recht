@@ -119,10 +119,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Kaltstart Corporate-Kanzlei
 
-## Zweck
-
-Strukturiert den Einstieg in ein neues Corporate/M&A-Mandat aus beliebiger Quelle: E-Mail, Call, Teams-Message, NDA-Anfrage, Term Sheet oder Teaser.
-
 ## Triage-Fragen beim Kaltstart
 
 1. Was ist die Transaktion? (M&A Share Deal, Asset Deal, Squeeze-Out, IPO, Restrukturierung)
@@ -190,3 +186,4 @@ Eskalation: [Falls Konflikt oder Insider-Verdacht → Partner sofort]
 
 - § 43a BRAO; Art. 18 MAR; §§ 2-10 GwG; §§ 311 II BGB
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

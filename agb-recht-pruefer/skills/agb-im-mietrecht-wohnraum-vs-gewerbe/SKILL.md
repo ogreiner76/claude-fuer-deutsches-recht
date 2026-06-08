@@ -53,7 +53,3 @@ description: "AGB im Mietrecht: Wohnraum- und Gewerberaummiete. Skill differenzi
 4. § 558-559 BGB-Grenze?
 5. Lebenszyklusfrage (Beginn / Verlauf / Ende der Miete)?
 
-## Output
-
-- Klauselraster Wohnraum vs. Gewerbe.
-- Schriftsatzbaustein.

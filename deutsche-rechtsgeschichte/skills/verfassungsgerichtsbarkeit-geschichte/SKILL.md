@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarke
 
 # Verfassungsgerichtsbarkeit Geschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,6 +54,3 @@ Die Verfassungsgerichtsbarkeit hat in Deutschland eine eigentuemliche Geschichte
 - Zuständigkeitsuebersicht BVerfG nach Art. 93 GG und BVerfGG § 13
 - Leitsaetze aus BVerfGE 1, 14 und BVerfGE 89, 155 (Maastricht)
 
-## Quellenregel
-
-GG und BVerfGG: gesetze-im-internet.de. BVerfGE vollstaendig: bverfg.de. WRV: documentArchiv.de. Historische Zeitschriften: JZ, NJW (ab 1951 zugaenglich).

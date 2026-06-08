@@ -5,10 +5,6 @@ description: "Länderuebergreifende Benefits-Matrix für internationalen Konzern
 
 # Country-by-Country Benefits-Matrix für Konzerne
 
-## Arbeitsbereich
-
-Länderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,24 +32,6 @@ Je Land — kurze Übersicht (Details je Skill `internationale-harmonisierung-ko
 - **JP:** Welfare Pension Insurance Act (厚生年金保険法); DC Pension Law (確定拠出年金法); DB Pension Law (確定給付企業年金法)
 - **NL:** Pensioenwet 2007; Wet toekomst pensioenen (WTP, ab 2023); DNB (De Nederlandsche Bank)
 - **CH:** BVG (Bundesgesetz über die berufliche Vorsorge 1985); FZG (Freizügigkeitsgesetz); FINMA
-
----
-
-## Vorgehen
-
-### Schritt 1: Matrix-Struktur und Erhebungsmethodik
-
-Die Country-by-Country Benefits-Matrix ist das zentrale Steuerungsinstrument für internationale Konzerne. fachliche Leitung etabliert folgende Standardstruktur:
-
-**Dimensionen der Matrix:**
-1. Obligatorische Systeme (staatliche Pflicht)
-2. Branchenweite / tarifliche Zusatzsysteme
-3. Betriebliche freiwillige Systeme
-4. Steuerliche Fördergrenzen
-5. PSV-Äquivalente / Insolvenzsicherung
-6. Governance-Anforderungen
-7. Expat-Behandlung
-8. Portabilität
 
 ---
 
@@ -203,12 +181,10 @@ J. Lokaler Rechtsberater-Kontakt: [...]
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — vor der Matrix-Erstellung
 
 1. Welche Länder sind im Konzern-Fussabdruck enthalten?
 2. Gibt es DB-Plaene mit bilanzieller Relevanz (IAS 19)?
 3. Kommen Expats vor, die Anwartschaften in mehreren Ländern aufgebaut haben?
 4. Ist eine M&A-Transaktion der Anlass? → Dann Due-Diligence-Fokus
+

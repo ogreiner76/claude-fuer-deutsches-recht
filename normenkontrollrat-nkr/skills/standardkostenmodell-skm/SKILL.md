@@ -95,14 +95,6 @@ Pflicht: jaehrlicher Bericht im Umfang von ca. 4 Stunden.
 - Fallzahl aus 10 Jahre alter Statistik
 - Komplexitaetsfaktor "1,0" durchgaengig
 
-## Querverweise
-
-- `nkr-erfuellungsaufwand-grundbegriff`
-- `nkr-zeitwerttabelle-und-fallzahlen`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `nkr-fallzahlen-schaetzung-bandbreiten`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
@@ -110,3 +102,4 @@ Pflicht: jaehrlicher Bericht im Umfang von ca. 4 Stunden.
 - EU Better Regulation Toolbox Tool 24
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - Live verifizieren ueber [www.bmi.bund.de](https://www.bmi.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

@@ -5,10 +5,6 @@ description: "Offenlegung beim Unternehmensregister/Bundesanzeiger: Größenklas
 
 # Jahresabschluss und Offenlegung
 
-## Arbeitsbereich
-
-Offenlegung beim Unternehmensregister/Bundesanzeiger: Größenklasse, Frist, Erleichterung, Ordnungsgeld und Korrektur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Offenlegung beim Unternehmensregister/Bundesanzeiger: Größenklasse, Frist, Erl
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für GmbH/UG/KG, die Offenlegungspflichten erfüllen müssen.
-
 ## Norm- und Quellenanker
 
 HGB §§ 325 ff.; EHUG/Unternehmensregister; Ordnungsgeldverfahren.
-
-## Arbeitsfragen
-
-1. Welche Größenklasse?
-2. Welche Unterlagen sind offenlegungspflichtig?
-3. Welche Frist/Ordnungsgeldandrohung?
-
-## Output
-
-Offenlegungscheck und Ordnungsgeldabwehr.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Offenlegungscheck und Ordnungsgeldabwehr.
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

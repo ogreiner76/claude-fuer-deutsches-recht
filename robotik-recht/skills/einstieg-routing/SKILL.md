@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Robotik-Recht: ordnet Rolle (Her
 
 Dieser Einstieg routet **Robotik Recht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `accuracy-robustness-cybersecurity-ai` — Accuracy Robustness Cybersecurity AI
@@ -35,7 +34,6 @@ Dieser Einstieg routet **Robotik Recht** vom ersten Sachverhalt zu Rollen, Frist
 - Zuständige Stelle bestimmen: Hersteller, Inverkehrbringer, Betreiber, Endnutzer, Marktüberwachungsbehörde, benannte Stelle.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -44,12 +42,10 @@ Konkret zu prüfen:
 - Art. 6 AI-Act (Hochrisiko-KI)
 - §§ 1-19 ProdHaftG
 - RL (EU) 2024/2853 (neue Produkthaftungs-RL)
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Robotik-Recht typische Eskalationsstufen: Konformitätsmemo, Haftungsanalyse, Versicherungs-Memo.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

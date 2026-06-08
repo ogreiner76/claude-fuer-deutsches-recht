@@ -5,10 +5,6 @@ description: "Prueft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Origin
 
 # Werkhöhe und Schöpfungshöhe prüfen
 
-## Arbeitsbereich
-
-Prueft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Originalitaet: persönliche geistige Schoepfung, Gestaltungsspielraum, Ausdruck statt Idee. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Konkret zu prüfen:
 - § 44b UrhG (Text und Data Mining, Opt-out)
 - § 60d UrhG (wiss. TDM)
 - RL (EU) 2019/790 Art. 3, 4
+

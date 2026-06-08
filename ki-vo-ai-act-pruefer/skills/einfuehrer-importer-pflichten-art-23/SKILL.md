@@ -5,10 +5,6 @@ description: "Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich pr�
 
 # Einführer-Pflichten (Importer) — Art. 23 KI-VO
 
-## Zweck
-
-Ein Einführer ist derjenige, der ein in einem Drittland in Verkehr gebrachtes Hochrisiko-KI-System in der EU in Verkehr bringt. Art. 23 KI-VO legt den Pflichtenkatalog für Einführer fest.
-
 ## Wer ist Einführer?
 
 Ein Einführer ist eine in der EU niedergelassene natürliche oder juristische Person, die ein Hochrisiko-KI-System in der EU in Verkehr bringt, das von einem nicht in der EU niedergelassenen Anbieter stammt.
@@ -84,9 +80,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -113,3 +106,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

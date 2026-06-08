@@ -5,10 +5,6 @@ description: "Antwort-E-Mail soll mit exakt richtiger Anrede des potentiellen Ma
 
 # Anrede-Übernehmen
 
-## Arbeitsbereich
-
-Antwort-E-Mail soll mit exakt richtiger Anrede des potentiellen Mandanten beginnen ohne Fehler bei Titeln oder Doppelnamen. Anredekonventionen Kanzlei. Prüfraster: Titel (Dr. Prof. Mag.) Doppelnamen Adelspraeifikate kirchliche Titel Komposita Ehepaare Erbengemeinschaften namenlose Anfragen. Output: korrekte formelle Anredezeile für E-Mail-Antwort. Abgrenzung zu anfrage-eingang-parser (Datenparsing) und erstantwort-generator (vollständige E-Mail). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,9 +32,6 @@ Dieser Skill übernimmt die exakte Anrede aus der eingehenden E-Mail und wandelt
 - § 43 BRAO — Sorgfaltspflicht: fehlerfreie Kommunikation als Bestandteil anwaltlicher Berufspflichten
 - § 12 BGB — Namensrecht: Recht auf korrekte Namensnennung auch in der Korrespondenz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grundprinzip: Exaktheit vor Heuristik
 
 Die Anrede aus der Eingangsmail wird buchstabengenau übernommen, sofern sie bereits formal korrekt ist. Eigenhändig gewählte Anredeformen sind zu respektieren:
@@ -120,18 +113,6 @@ Hierarchie der Titelführung nach deutschem Recht:
 
 - "Mx." oder "Divers" aus der Eingangsmail: "Sehr geehrte Person [Nachname]," oder die von der anfragenden Person gewünschte Formulierung übernehmen.
 - Im Zweifel vollständigen Namen ohne Geschlechtsmarkierung verwenden: "Sehr geehrte[r/s] [Vollständiger Name],"
-
-## Ausgabeformat
-
-```
-ANREDEZEILE (Erstantwort):
-Sehr geehrte[r/s/e] [Titel] [Vorname] [Nachname],
-
-INTERNE NOTIZ:
-Quelle der Anrede: [Signatur / Fließtext / E-Mail-Header / Heuristik]
-Angewendete Heuristik: [Typ 1-10 oder keine]
-Unsicherheit: [ja/nein — wenn ja: manuell prüfen]
-```
 
 ## Verweise auf andere Skills
 

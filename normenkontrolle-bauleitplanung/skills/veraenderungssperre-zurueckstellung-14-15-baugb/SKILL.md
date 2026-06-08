@@ -17,10 +17,6 @@ Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungss
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Während der Bauleitplanung kann die Gemeinde die Realisierung von Bauvorhaben, die der Plan-Entwicklung widersprechen würden, sichern — durch Veränderungssperre § 14 BauGB oder Zurückstellung § 15 BauGB. Beide Instrumente sind sowohl von Behörden- als auch von Bauherren-/Nachbarseite zu prüfen.
-
 ## Eingaben
 
 - Plan-Stand (Aufstellungsbeschluss vorhanden? Konkretisierungs-Stand?)
@@ -267,6 +263,3 @@ d) Damit: **kein § 14-Verfahren möglich**, aber **Indiz für Gefälligkeitspla
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

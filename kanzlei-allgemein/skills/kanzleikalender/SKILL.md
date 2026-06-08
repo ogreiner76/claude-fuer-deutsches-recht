@@ -32,13 +32,6 @@ Führt einen Kanzleikalender für Termine Fristen Postlauf HR und Jour fixe. Anw
 - § 53 BRAO — Vertretungspflicht bei Verhinderung: Kanzleiueberschneidungen erfordern Vertreter
 - § 51 BRAO — Haftungsrisiko bei Terminsversaeumnis
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill ist der zentrale Kalenderblick der Kanzlei. Er verbindet Fristen, Termine, Postlauf, beA, Schreibzeiten, HR, Urlaub, Krankheit, Payroll, UStVA, Rechnungen und interne Abstimmungen.
-
 ## Kalenderarten
 
 - Gerichtstermine.
@@ -82,3 +75,4 @@ Für Jour fixe oder interne Abstimmung:
 ## Ausgabe
 
 `assets/templates/kanzleikalender.md` und `assets/templates/jour-fixe-protokoll.md` verwenden.
+

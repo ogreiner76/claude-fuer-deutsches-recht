@@ -59,6 +59,7 @@ Hinweis: Ein direktes Pendant zur US-amerikanischen "Subpoena" existiert im deut
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 0: Anwendbares Recht bestimmen
@@ -154,25 +155,6 @@ Alle Fristen aus der Schritt-0-Recherche verwenden. Einwendungsfristen können b
 - **Vorlagedatum** — sofern keine Einwendungen greifen
 
 Alle Fristen sofort im Fristenkontrollsystem notieren.
-
-## Ausgabeformat
-
-### Schritt 8: Triage-Dokument erstellen
-
-```markdown
-[ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
-
-### Beweisanordnung Triage
-
-> **KEIN ERSATZ FÜR ANWALTLICHE BERATUNG.** Dies ist eine strukturierte Klassifizierungs- und Scoping-Analyse zur Unterstützung schneller Entscheidungen zu Fristen, Beweissicherung und Mandatierung. Jeder Normenhinweis ist ein Ausgangspunkt — rechtssichere Einwendungen, Antragsstellung und Vertretung vor Gericht erfordern zugelassene Rechtsanwälte mit Kenntnis des Forums. Externe Bevollmächtigte für jede Beweisanordnung außerhalb routinemäßiger Drittvorlagen mandatieren.
-
-**Slug:** [Bezeichnung]
-**Zugestellt:** [JJJJ-MM-TT]
-**Zugestellt an:** [Person / Kanzlei / eingetragener Vertreter]
-**Ausgangsdokument:** [Pfad]
-**Klassifizierung:** [§-142-ZPO-Vorlage / Zeugenladung / Durchsuchung/Sicherstellung / Behördenanforderung / Strafrechtliche-Vorladung]
-
----
 
 ## Schlüsselfelder
 
@@ -312,3 +294,4 @@ nicht das behauptete Thema "Auskunftsverweigerungsrecht § 99 VwGO / behoerdlich
 Geheimhaltungsinteresse". Das im Skill genannte Datum 15.02.2018 existiert auf dejure.org
 ebenfalls nicht. Halluzinierte Referenz geloescht. Keine Ersatzquelle ergaenzt.
 -->
+

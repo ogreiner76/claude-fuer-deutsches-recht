@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Konnossement (Bill of Lading) und Se
 
 # Konnossement und Seefrachtbrief
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Konnossement (Bill of Lading) und Seefrachtbrief (Sea Waybill). Wertpapierfunktion, Traditionspapier-Eigenschaft, Typen (Order-BL, Bearer-BL, Straight-BL), Indossament und eKonnossement nach MLETR. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Das Konnossement (Bill of Lading, B/L) ist das Kernwertpapier des Seehandels: es
 - E-BL: nur wenn beide Parteien kompatible Plattform nutzen
 - Switch-BL: immer nur Original-Set vernichten vor Neuausstellung
 
-## Output
-
-- Konnossementstypen-Übersicht (Funktion, Indossament, Risiko)
-- UCP 600 Art. 20 Compliance-Checkliste
-- E-BL-Plattformen-Übersicht
-
-## Quellenregel
-
-HGB §§ 513-549: gesetze-im-internet.de. HVR: uncitral.un.org. UCP 600: iccwbo.org. MLETR: uncitral.un.org. CMI Rules 1990: comitemaritime.org. Unsicherheit bleibt sichtbar.

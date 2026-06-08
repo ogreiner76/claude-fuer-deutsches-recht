@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Fachanwalt Strafrecht: wählt den nächsten
 
 Dieses Anschluss-Routing für **Fachanwalt Strafrecht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `adhaesionsverfahren-ermittlungsverfahren` — Adhaesionsverfahren Ermittlungsverfahren
@@ -35,10 +34,6 @@ Dieses Anschluss-Routing für **Fachanwalt Strafrecht** wählt nach dem ersten E
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Beschuldigter, Strafverteidiger, Staatsanwaltschaft, Ermittlungsrichter, Vorsitzender, Schöffen, Zeuge, Nebenkläger, JVA oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Fachanwalt Strafrecht.
 
 ## Qualitätsanker
 

@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibf
 
 # Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler, offensichtliche Unrichtigkeit
 
-## Arbeitsbereich
-
-Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler und offensichtliche Unrichtigkeit. Möglichkeiten zur Korrektur von Fehlern in notariellen Urkunden und im Grundbuch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ Wer unrichtigerweise im Grundbuch eingetragen ist oder wessen Recht unrichtigerw
 - **Mandantenmail** (Fehler identifiziert, nächste Schritte)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

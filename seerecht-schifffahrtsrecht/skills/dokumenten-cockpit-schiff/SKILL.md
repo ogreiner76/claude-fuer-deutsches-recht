@@ -5,10 +5,6 @@ description: "Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Re
 
 # Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung
 
-## Arbeitsbereich
-
-Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Registerauszug; Hypothekenurkunden; Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISPS/ISSC); Flaggenzertifikat; Charter; Konnossements-Template. SchRG §§ 2/8-74; FlaggRG §§ 3-5; ISM-Code; MLC 2006 Titel 5; ISPS-Code. Output: Dokumenten-Cockpit-Matrix und Faelligkeits-Kalender. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -49,12 +45,6 @@ Ein neuer Schiffsfinancier übernimmt ein Schiffsportfolio und benötigt eine so
 - IOPP-Zertifikat nicht aktualisiert nach Maschinenraumänderungen.
 - Ballastwasser-Zertifikat fehlt; seit 2017 IMO-Pflicht für alle internationalen Fahrten.
 
-## Output
-- Dokumenten-Cockpit-Matrix: Dokument; Ausstelldatum; Ablaufdatum; Aussteller; Status
-- Fälligkeits-Kalender für alle 12 Monate
-- Checkliste Dokumente für PSC-Inspektion
-- Lücken-Report mit Maßnahmenplan
-
 ## Erweiterte Normengrundlage
 
 ### Zertifizierungspflichten
@@ -91,3 +81,4 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 - FlaggRG: https://www.gesetze-im-internet.de/flaggrg/
 - SchRG: https://www.gesetze-im-internet.de/schrg/BJNR014990940.html
 - MARPOL IMO: https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx
+

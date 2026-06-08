@@ -5,10 +5,6 @@ description: "Schema: Verhandlung, Vergleich und Eskalation; schärft Rollen, Be
 
 # Schema: Verhandlung, Vergleich und Eskalation
 
-## Arbeitsbereich
-
-Schema: Verhandlung, Vergleich und Eskalation; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,22 +97,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen und Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
 
-## Output-Standard
-
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Verhandlungsmatrix:** Position, Zugeständnis, Untergrenze, Risiko, nächster Schritt.
-- **Arbeitsprodukt:** Vergleichsentwurf, Verhandlungsschreiben oder Eskalationsplan.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf markieren.
-
 ## Quellenregel
 
 - Normen live prüfen: gesetze-im-internet.de (BGB §§ 779, 203, 286; ZPO §§ 688 ff., 794, 935, 940; UWG § 13; MediationsG).
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

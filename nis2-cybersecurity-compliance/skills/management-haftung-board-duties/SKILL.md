@@ -5,10 +5,6 @@ description: "Übersetzt Cyberpflichten in Organpflichten für Geschäftsführer
 
 # Management Haftung Board Duties
 
-## Arbeitsbereich
-
-Übersetzt Cyberpflichten in Organpflichten für Geschäftsführer und Vorstände. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Vorstandsvorlage und Haftungsradar. Wenn der Nutzer nur eine 
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausg
 
 # Bauueberwachung Doppelhaus und Reihenhaus (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Jede Einheit wird separat abgenommen, da Kaeufermangelansprueche sich auf die je
 - Einheitenuebergreifende TGA: gemeinsame Heizung benoetigt WEG-Vertragsregelung vor Aufteilung
 - Fehlende Einzelabnahme: Sammelabnahme schliesst Kaeufermangelansprueche nicht aus
 
-## Output
-
-Einheitenbezogene Bautagebuecher. Schallschutz- und Brandschutzpruefprotokolle.
-Maengelreport je Einheit mit Fristen. Individuelle Abnahmeprotokolle je Kaeufer.
-Schlusskostenfeststellung je Einheit für Schlussrechnung des Bautraeger-Controllers.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Schlusskostenfeststellung je Einheit für Schlussrechnung des Bautraeger-Control
 - [VOB/B § 12 Abnahme](https://www.gesetze-im-internet.de/vob-b/__12.html)
 - [GEG 2023](https://www.gesetze-im-internet.de/geg/index.html)
 - [BGH VII ZR 15/16 Schallschutz Reihenhaus](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+15/16)
+

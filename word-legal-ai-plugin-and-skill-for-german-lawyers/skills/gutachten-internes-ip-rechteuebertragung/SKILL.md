@@ -5,10 +5,6 @@ description: "Internes Memo und Gutachten im Gutachtenstil. Standardstruktur: Sa
 
 # Gutachten und internes Memo
 
-## Arbeitsbereich
-
-Internes Memo und Gutachten im Gutachtenstil. Standardstruktur: Sachverhalt knapp; Frage(n); Kurzantwort in einem Satz; rechtliche Bewertung im Gutachtenstil; Gesamtergebnis; Risiken und offene Punkte; Quellenverzeichnis. Anspruchsgrundlagenprüfung in der Reihenfolge Vertrag bis Bereicherung. Vier klassische Auslegungsmethoden plus verfassungs- und unionsrechtskonforme Auslegung. Mit Mustertext-Auszug eines Memos und typischen Drafting-Fehlern wie Subsumtion ohne Obersatz und Ergebnis vor Begründung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Internes Memo und Gutachten im Gutachtenstil. Standardstruktur: Sachverhalt knap
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Das interne Memo ist die Standard-Antwortform auf juristische Mandantenfragen. Es zwingt zur sauberen Trennung von Sachverhalt, Frage und rechtlicher Bewertung. Es ist die Grundlage für jeden weiteren Schriftsatz, jedes Beratungsgespräch und jeden Vergleichsvorschlag. Das Memo trägt seine Quellen und ist auditfähig.
-
-Dieser Skill operationalisiert die in der Repository-CLAUDE.md vorgesehene Standardstruktur. Er führt durch den Aufbau, gibt einen Mustertext-Auszug und schützt vor den klassischen Drafting-Fehlern.
 
 ## Eingaben
 
@@ -74,12 +64,6 @@ Dieser Skill operationalisiert die in der Repository-CLAUDE.md vorgesehene Stand
 - **Reihenfolgefehler.** Bereicherung vor Vertrag prüfen ist methodisch falsch.
 - **Quellenarmut.** Eine juristische Aussage ohne Beleg ist eine Vermutung.
 - **Sachverhaltsausschmückung.** Memo ist kein Roman. Tatsachen, die nicht relevant sind, gehören in die Akte.
-
-## Ausgabeformat
-
-- Vollständiges Memo nach Standardstruktur.
-- Bei Konzeptphase: nur Kurzantwort plus Skizze der Prüfungsschritte.
-- Quellenverzeichnis ans Ende.
 
 ## Beispiele
 
@@ -166,16 +150,10 @@ Mandantin die Erfüllung als Lieferung beweisen kann.
  (vom Nutzer zu verifizieren).
 ```
 
-## Querverweise
-
-- `klage-drafting-253-zpo` als nächster Schritt nach Bejahung des Anspruchs
-- `klageerwiderung-substantiiertes-bestreiten` als Verteidigungspendant
-- `anwaltsschreiben-aussergerichtlich` für die Mandanten- oder Gegenseitenkommunikation
-- `drafting-prinzipien-klarheit-bestimmtheit-praezision` für sprachliche Hygiene
-
 ## Quellen (Stand 05/2026)
 
 - `references/methodik-buergerliches-recht.md` für Anspruchsgrundlagenprüfung und Auslegungsmethoden.
 - CLAUDE.md des Repositories für die Standardstruktur des Memos.
 - `references/zitierweise.md` für Belegpflicht.
 - § 43a BRAO und § 203 StGB für Vertraulichkeit interner Memos.
+

@@ -5,10 +5,6 @@ description: "Formerfordernis für einzelne Wandeldarlehens-Dokumente bestimmen 
 
 # Textform vs. Schriftform vs. Notarielle Beurkundung
 
-## Arbeitsbereich
-
-Formerfordernis für einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen. §§ 126 126a 126b BGB Schriftform Textform elektronische Form. Prüfraster: Vertragstyp Erklärung Beschluss gesetzliches Formerfordernis vereinbartes Formerfordernis. Output: Formzuordnungs-Memo je Dokument. Abgrenzung: nicht für Beurkundungspflicht bei Kapitalerhohung (beurkundungserfordernis-prüfung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Formerfordernis für einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen. 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill klärt die drei Formstufen für Wandeldarlehensverträge und gibt eine praktische Empfehlung. Für das Standard-Wandeldarlehen (zweistufige Konstruktion) genügt Textform (§ 126b BGB). Phase B des Lebenszyklus.
 
 ## Eingaben
 
@@ -80,12 +72,6 @@ Bei Formverstoß (§ 125 BGB: Formmangel → Nichtigkeit): Heilung durch Vollzie
 | DocuSign ohne Audit Trail | Beweisnot bei Streit | Trail unvollständig | Vollständiger Audit Trail |
 | Schriftform vertraglich vereinbart, aber nur E-Mail | Vertrag in Schwebezustand | Auslegungsfrage | Klare Formregelung |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/beurkundungserfordernis-pruefung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/unterzeichnung-elektronisch-docusign/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/notar-paket-uebermittlung/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. eIDAS-VO 910/2014, GNotKG. Bei Änderung BGB-Formvorschriften aktualisieren.
@@ -103,3 +89,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 § 126 BGB (Schriftform) → § 126b BGB (Textform) → § 128 BGB i.V.m. §§ 1-17 BeurkG (notarielle Form) → § 125 BGB (Nichtigkeit bei Formmangel) → § 15 Abs. 3, 4 GmbHG (notarielle Form bei GmbH-Anteilsübertragung und Verpflichtung) → § 53 GmbHG (notarielle Beurkundung Satzungsänderung)
+

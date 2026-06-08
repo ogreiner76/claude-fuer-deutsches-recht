@@ -5,9 +5,6 @@ description: "Richterstaat Risikomatrix Richtlinienkonforme im Plugin Methodenle
 
 # Richterstaat Risikomatrix Richtlinienkonforme
 
-## Arbeitsbereich
-
-**Richterstaat Risikomatrix Richtlinienkonforme** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill erstellt eine strukturierte Risikomatrix für, in denen, Dieses Skill behandelt die Pflicht zur richtlinienkonformen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Richterstaat Risikomatrix Richtlinienkonforme im Plugin Methodenle
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `richterstaat-risikomatrix`
@@ -83,10 +81,6 @@ Der Begriff "Richterstaat" bezeichnet Situationen, in denen Gerichte faktisch re
 - Die Auswirkung anstehender BGH-Grundsatzurteile auf laufende Verträge wird nicht antizipiert.
 - Mandanten werden nicht ausreichend über das Prozessrisiko informiert, das aus richterlichem Ermessen resultiert.
 - Vertragsklauseln werden nicht angepasst, obwohl die Rechtsprechungslinie eine Reaktion nahelegen würde.
-
-## Output
-
-Das Skill produziert eine schriftliche Risikomatrix mit tabellarischer Übersicht der Rechtsfragen, Einstufung nach Risikostufen, Worst-Case-Szenarien und Handlungsempfehlungen. Ergänzend wird ein kurzes Memo zur strategischen Mandatsführung erstellt, das Vergleichs-, Prozess- und Gestaltungsoptionen gewichtet.
 
 ## Quellen
 
@@ -176,10 +170,6 @@ Die richtlinienkonforme Auslegung ist das zentrale Instrument zur Integration de
 - Zeitliche Grenzen der Richtlinienbindung (Umsetzungsfrist, Sachverhaltszeit) werden übersehen.
 - Das Vorabentscheidungsverfahren wird versäumt, obwohl eine letztinstanzliche Entscheidung vorliegt.
 
-## Output
-
-Das Skill liefert eine methodisch strukturierte Prüfung der richtlinienkonformen Auslegung für den konkreten Fall: Abgrenzung von Auslegung und Rechtsfortbildung, Prüfung des contra-legem-Verbots, Bewertung alternativer Rechtswege (Vorabentscheidung, Staatshaftung) und eine handlungsanleitende Empfehlung für Schriftsatz oder Beratungsprotokoll.
-
 ## Quellen
 
 - [Art. 288 AEUV auf eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E288)
@@ -225,10 +215,6 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Einsatz
-
-Anwendungsfall: eine neue Auslegung, geänderte Rechtsprechung oder kreative Fortbildung auf abgeschlossene Dispositionen angewandt werden soll. Gerade im Zivilrecht sind Parteien häufig schon lange gebunden, bevor ein Gericht die Dogmatik nachschärft.
-
 ## Prüfroutine
 
 1. **Zeitachse bauen:** Vertragsschluss, Pflichtverletzung, Zugang, Leistung, Kündigung, Prozessbeginn, Rechtsprechungsänderung, Reformdatum.
@@ -243,10 +229,6 @@ Anwendungsfall: eine neue Auslegung, geänderte Rechtsprechung oder kreative For
 - Der Normzweck wird so weit gefasst, dass frühere Dispositionen entwertet werden.
 - Verkehrskreise hätten den neuen Maßstab nur mit Spezialwissen erkennen können.
 - Einzelfallgerechtigkeit verdrängt Rechtssicherheit, ohne dies offen zu sagen.
-
-## Output
-
-Erstelle eine Chronologie mit Vertrauensschutzampel und einem Schriftsatzbaustein. Wenn die neue Linie tragfähig ist, formuliere sie so, dass die Gegenseite nicht mit dem Vorwurf des Überraschungsrechts durchdringt.
 
 ## Quellen- und Zitierdisziplin
 
@@ -309,10 +291,6 @@ Jede Sachverhaltsdarstellung enthält implizite Wertungen: Welche Tatsachen werd
 - Der Sachverhalt wird zu früh auf eine bestimmte Anspruchsgrundlage "zugeschnitten" und alternativ relevante Tatsachen werden ignoriert.
 - Beweislücken werden erst im Prozess bemerkt, anstatt sie bei der Sachverhaltsaufnahme zu identifizieren.
 - Die Chronologie wird nicht vollständig erstellt, sodass Verjährungs- und Fristenfragen ungeprüft bleiben.
-
-## Output
-
-Das Skill liefert eine strukturierte Sachverhaltsdarstellung in zwei Stufen: zunächst eine Rohdokumentation aller Mandantenangaben mit Wertungsmarkierung, dann eine rechtlich aufbereitete Fassung mit Chronologie, Tatsachen-Wertungs-Trennung und Beweisbarkeitscheck. Die Darstellung ist direkt für Gutachten, Klageentwurf oder Beratungsprotokoll verwendbar.
 
 ## Quellen
 
@@ -420,16 +398,6 @@ Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird de
 
 Kritische Stimmen aus der Methodenlehre: Theodor Viehweg ("Topik und Jurisprudenz", 1953) bezweifelt die Steuerungskraft des Kanons; Niklas Luhmann sieht die vier Methoden als operative Selbstbeschreibung des Rechtssystems (siehe Skill `systemtheorie-luhmann-rechtssystem-autopoiese`); Robert Alexy ("Theorie der juristischen Argumentation", 1978) ordnet sie in eine umfassende Argumentationstheorie ein (siehe Skill `diskurstheorie-habermas-alexy`).
 
-## Querverweise
-
-- `wortlaut-grammatikalische-auslegung` — Vertiefung Element 1.
-- `systematische-auslegung` — Vertiefung Elemente 2 und 4 nach Savigny.
-- `historische-auslegung` — Vertiefung Element 3.
-- `teleologische-auslegung` — Erweiterung des Kanons um den Zweck.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Querschnittskanones.
-- `methodenlehre-anwenden` — Praktische Anwendung im Anwaltsalltag.
-- `methoden-mix-in-der-praxis-anwaltsschriftsatz` — Kombination im Schriftsatz.
-
 ## Quellen und Stand 05/2026
 
 - Friedrich Carl von Savigny, System des heutigen Roemischen Rechts, Band 1, Berlin 1840, §§ 32-37.
@@ -439,3 +407,4 @@ Kritische Stimmen aus der Methodenlehre: Theodor Viehweg ("Topik und Jurispruden
 - Quellenpflicht und Zitierweise: `references/zitierweise.md`.
 
 Stand: Mai 2026. Vor jeder Schriftsatz- oder Memo-Verwendung Rechtsprechungslinien live verifizieren.
+

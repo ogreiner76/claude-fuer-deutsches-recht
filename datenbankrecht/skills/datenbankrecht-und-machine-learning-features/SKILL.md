@@ -5,10 +5,6 @@ description: "Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §
 
 # Datenbankrecht und Machine-Learning-Features — Feature Stores und Trainingsdaten
 
-## Arbeitsbereich
-
-Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e Urh
 - DSGVO Art. 22 ist relevant, wenn Feature-basierte Entscheidungen vollständig automatisiert sind und rechtliche Wirkung haben.
 - Personenbezogene Features erfordern DSGVO-Rechtsgrundlage — nicht immer durch berechtigtes Interesse abgedeckt.
 
-## Output
-
-- Feature-Store-Datenbankherstellerrecht-Prüfbogen
-- TDM-Schranken-Analyse für ML-Feature-Extraktion
-- DSGVO-Compliance-Check für personenbezogene ML-Feature-Daten
-- Schutzstrategie für Feature Store (AGB, Opt-out, Zugangskontrolle)
-- Lizenz-Compliance-Matrix für ML-Trainingsdaten-Quellen
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e Urh
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [DSGVO Art. 22 — dejure.org](https://dejure.org/gesetze/DSGVO/22.html)
 - [DSM-Richtlinie 2019/790 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)
+

@@ -5,10 +5,6 @@ description: "Findet das anwendbare Landesversammlungsgesetz und die konkrete zu
 
 # Föderaler Zuständigkeitsfinder
 
-## Arbeitsbereich
-
-Findet das anwendbare Landesversammlungsgesetz und die konkrete zuständige Versammlungsbehörde oder Polizei anhand von Ort und Route. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,17 +23,11 @@ Starte nie mit einer Bundesnorm allein. Seit der Föderalismusreform haben viele
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
 
-## Arbeitsweise
-Frage den genauen Ort, Start- und Endpunkt, Route, Landkreis, kreisfreie Stadt und ob mehrere Länder oder mehrere Behördenbezirke betroffen sind.
-
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
 - Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
 - Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
 - Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Output
-Output ist eine Behördenkarte mit Rechtsgrundlage, Onlineformular, E-Mail, Telefon, Zuständigkeitszweifel und Fallback an Polizei oder Ordnungsbehörde.
 
 ## Qualitätsgate
 - Wurde das richtige Landesrecht verwendet?
@@ -51,3 +41,4 @@ Output ist eine Behördenkarte mit Rechtsgrundlage, Onlineformular, E-Mail, Tele
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+

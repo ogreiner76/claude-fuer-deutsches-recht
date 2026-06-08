@@ -16,10 +16,6 @@ description: "3D-Review-Ergebnis als PDF-Bericht erzeugen: Zusammenfassung, Tabe
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Mandanten lesen lieber PDF als Excel. Der PDF-Bericht ist die Erzählfassung des Würfels: vom Aggregat über die Perspektiven bis in die Belegkette.
-
 ## Struktur
 
 ### 1. Deckblatt
@@ -87,3 +83,4 @@ Alle zitierten Quellen mit:
 ## Grenzen
 
 Bei sehr großen Würfeln (mehr als 50.000 Zellen) wird der PDF unhandlich. In diesem Fall: PDF nur für Management-Summary und Anhang A pro Arbeitsblatt als separate PDFs. Vollständige Daten weiter in Excel.
+

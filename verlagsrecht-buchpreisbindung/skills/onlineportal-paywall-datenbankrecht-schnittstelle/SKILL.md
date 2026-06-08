@@ -5,10 +5,6 @@ description: "Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 
 
 # Verl-036 · Online-Portal, Paywall, Datenbankrecht und Schnittstelle
 
-## Arbeitsbereich
-
-Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 87a ff.) und API-/Schnittstellen-Nutzung — Lizenzmodelle, API-Terms, Screen Scraping und TDM-Schranken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -127,3 +123,4 @@ Verlage betreiben zunehmend **Online-Portale** mit Paywalls und API-Schnittstell
 - **TDM-Opt-Out-Implementierung**: robots.txt-Snippet und AI-Datei
 - **Nutzungsbedingungen-Review**: Scraping-Verbot, erlaubte Nutzungen
 - **Scraping-Nachweis-Protokoll**: Log-Auswertung für Abmahnverfahren
+

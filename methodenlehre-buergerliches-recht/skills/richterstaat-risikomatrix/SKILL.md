@@ -52,10 +52,6 @@ description: "Dieses Skill erstellt eine strukturierte Risikomatrix für Sachver
 - Mandanten werden nicht ausreichend über das Prozessrisiko informiert, das aus richterlichem Ermessen resultiert.
 - Vertragsklauseln werden nicht angepasst, obwohl die Rechtsprechungslinie eine Reaktion nahelegen würde.
 
-## Output
-
-Das Skill produziert eine schriftliche Risikomatrix mit tabellarischer Übersicht der Rechtsfragen, Einstufung nach Risikostufen, Worst-Case-Szenarien und Handlungsempfehlungen. Ergänzend wird ein kurzes Memo zur strategischen Mandatsführung erstellt, das Vergleichs-, Prozess- und Gestaltungsoptionen gewichtet.
-
 ## Quellen
 
 - [Art. 20 GG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gg/art_20.html)
@@ -87,3 +83,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

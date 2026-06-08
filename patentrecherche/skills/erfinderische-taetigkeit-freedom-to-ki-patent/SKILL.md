@@ -5,10 +5,6 @@ description: "Prüft erfinderische Tätigkeit nach § 4 PatG und Art. 56 EPUe mi
 
 # erfinderische-tätigkeit-prüfen
 
-## Arbeitsbereich
-
-Prüft erfinderische Tätigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-Solution-Approach der EPA-Beschwerdekammern. Drei Stufen: (1) Bestimmung des naechstliegenden Stands der Technik (closest prior art) anhand technischer Naehe Zweckverwandschaft und gemeinsamer Merkmale; (2) Formulierung der objektiven technischen Aufgabe (objective technical problem) als das was die Erfindung löst und der naechstliegende Stand der Technik nicht; (3) Frage nach could-would am Tag der Anmeldung haette der Fachmann ausgehend vom naechstliegenden Stand der Technik mit Erwartung auf Erfolg die beanspruchte Lösung umgesetzt. Berücksichtigt Sekundaerindizien wie technisches Vorurteil unerwartete Wirkung lange empfundenes Bedürfnis und kommerziellen Erfolg. Disclaimer keine amtliche Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüft erfinderische Tätigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 139, EPÜ Art. 54, 56, 64, 69, 87 ff., Straßburger IPC-Abkommen, PCT, Espacenet-Datenbankzugriff, DEPATISnet-Bedingungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Prüft, ob ein Anspruch — typischerweise nachdem die Neuheit bejaht wurde — auf einer **erfinderischen Tätigkeit** beruht. Im EPA-Sprachgebrauch ist die erfinderische Tätigkeit der zentrale Knackpunkt der Patentprüfung.
 
 ## Rechtsrahmen
 
@@ -139,3 +131,4 @@ Bevor der Problem-Solution-Approach angewendet wird, klaere:
 > **EPA, Technische Beschwerdekammer, T 21/81 (Unerwarteter technischer Effekt):** Ein unerwarteter technischer Effekt, der ueber das aus dem Stand der Technik Vorhersehbare hinausgeht, ist ein Indiz für erfinderische Taetigkeit; er muss im Anspruch oder in der Beschreibung hinreichend offenbart sein.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -30,15 +30,6 @@ Karteninhalt (fuenf Felder aus der Excel-Vorlage):
 - Fortschrittsanzeige: Prozentual erledigte Schritte pro Karte
   (Padlet-Funktion `Checklisten`)
 
-## Vorgehen
-1. Spalte 4 anlegen.
-2. Pro Karte aus Spalte 3 eine Workflow-Karte hier erstellen.
-3. Schritte nummeriert und als Checkbox-Liste eintragen.
-4. Rechtsgrundlage in einem eigenen Absatz benennen.
-5. Tags `Unterzeichnet von` und `Versendet an` setzen.
-6. Bei Erledigung Schritt abhaken, Karte wandert visuell `nach oben`
-   in Spalte 4 (Padlet-Sortierung optional `nach Fortschritt`).
-
 ## Anwendungsbeispiel
 LausitzStorage-Akte, Spalte 4 mit 12 Workflow-Karten, davon:
 
@@ -77,3 +68,4 @@ Spalte 4 schliesst den Step-Plan ab. Optional erweiterbar um eine
 Spalte 5 (Fristen) und Spalte 6 (Beteiligte) – siehe Skills
 erweiterung-rangfolge-reiter und excel-reiter-fristen-optional, die
 analog als Padlet-Spalten ausspielbar sind.
+

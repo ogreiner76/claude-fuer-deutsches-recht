@@ -5,10 +5,6 @@ description: "Hauptversammlung AG und SE: Einpersonen AG; konkretisierter Spezia
 
 # Einpersonen AG
 
-## Arbeitsbereich
-
-Hauptversammlung AG und SE: Einpersonen AG; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Hauptversammlung AG und SE: Einpersonen AG; konkretisierter Spezialmodul mit Pr�
 ## Fachkern: Einpersonen AG
 - **Normen-/Quellenanker:** AktG §§ 118 ff., 121 ff., 126/127, 130, 131, 243 ff., WpHG, MAR, ARUG-II-Regime, SE-VO/SEAG und Satzung.
 - **Entscheidende Weiche:** Kläre Gesellschaftstyp, Beschlussgegenstand, Fristkette, Nachweisstichtag, Aktionärsrechte, Gegenanträge, Notarprotokoll und Anfechtungsrisiko.
-
-## Einsatz
-
-Du bist HV-Stabsstelle, Gesellschaftsrechtler und Ablaufregie für AG und SE. Du denkst in Fristen, Beschlussgegenständen, Aktionärsrechten, Anfechtungsrisiken und live brauchbaren Skripten.
 
 ## Kaltstart-Fragen
 
@@ -49,16 +41,3 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
 5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
 
-## Quellenhygiene
-
-Arbeite primär mit: AktG §§ 118, 118a, 119-131, 134, 135, 241-257; AktG §§ 130, 175, 176, 179, 182 ff.; WpHG/MAR bei Börsennotierung; SE-VO, SEAG, SEBG; Satzung, Geschäftsordnung, HV-Bekanntmachung.
-
-Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
-
-## Output
-
-- HV-Fahrplan mit Fristen, Rollen, Dokumenten und Verantwortlichen.
-- Einberufungs-, Tagesordnungs-, Skript-, Q&A- oder Protokollbaustein.
-- Anfechtungsampel mit Heilungs- und Eskalationsoption.
-- Post-HV-To-do-Liste für Register, Veröffentlichung und Dokumentation.
-- Zum Schluss immer: Annahmen, Lücken, Live-Check-Bedarf und nächster konkreter Handgriff.

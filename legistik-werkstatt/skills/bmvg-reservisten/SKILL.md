@@ -5,10 +5,6 @@ description: "Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsber
 
 # Reservistenrecht und Zivilschutzrecht (BMVg)
 
-## Arbeitsbereich
-
-Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Reservistenrecht und Zivilschutzrecht (BMVg)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Reservistenrecht und Zivilschutzrecht (BMVg)**. Prüfe diese Ank
 - `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -84,23 +79,6 @@ Inlandseinsatz der Bundeswehr; arbeitsrechtliche Freistellung; Lohnersatz.
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Reservistenrecht und Zivilschutzrecht
-Ressort: BMVg
-Kernnormen: ResG; SG; ZSKG; KritisDachG; BBK-G.
-Akteure/Aufsicht: Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.
-EU/Voelkerrecht: EU-Katastrophenschutzmechanismus.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmvg` -> `legw-ressortaufgaben-bmvg` -> `legw-bmvg-reservisten-und-zivilschutzrecht` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -109,6 +87,3 @@ Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

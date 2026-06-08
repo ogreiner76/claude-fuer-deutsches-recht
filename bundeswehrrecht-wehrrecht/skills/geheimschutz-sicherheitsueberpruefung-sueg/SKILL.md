@@ -5,10 +5,6 @@ description: "Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-V
 
 # Geheimschutz und Sicherheitsüberprüfung (SÜG)
 
-## Arbeitsbereich
-
-Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,12 +33,6 @@ Die Sicherheitsüberprüfung ist Voraussetzung für Verwendungen auf VS-Dienstpo
 - § 22 SÜG — Anhörungsrecht
 - § 25 SÜG — Datenverarbeitung
 - MADG — MAD-Ermittlungen
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -95,21 +85,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Anhörung § 22 SÜG — Vorbereitung
 - Prüfschema: Sicherheitsüberprüfungsstufe für Dienstposten
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sug/ — SÜG
-- https://www.gesetze-im-internet.de/madg/ — MADG
-- https://www.bfdi.bund.de — BfDI
-- https://dejure.org/gesetze/SÜG
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -119,3 +94,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

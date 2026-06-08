@@ -28,13 +28,3 @@ Die KI-VO wird durch harmonisierte Normen, gemeinsame Spezifikationen, Leitlinie
 - Human Oversight.
 - Modellkarten und technische Dokumentation.
 
-## Output
-
-- Standards-Gap-Matrix.
-- Übergangsfahrplan.
-- Audit-Evidence-Liste.
-- Formulierung, was behauptet werden darf und was nicht.
-
-## Qualitätsregel
-
-Nie "ISO erfüllt KI-VO" pauschal schreiben. Immer Artikel, Standardkapitel, Nachweis und Lücke nebeneinanderstellen.

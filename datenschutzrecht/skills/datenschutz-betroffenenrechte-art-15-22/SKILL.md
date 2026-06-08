@@ -92,14 +92,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert die Aufsichtsbehoerde?** Sammelantwort ohne Konfliktaufloesung, fehlende Begruendung der Verlaengerung, kein Hinweis auf Art. 77.
 
-## Querverweise
-
-- `datenschutz-auskunftsersuchen-art-15-praxis`
-- `datenschutz-loeschpflicht-art-17-und-aufbewahrung`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `dsr-betroffenenrechte-prozess-leitfaden`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 12 bis 22.
@@ -111,10 +103,3 @@ Sieben-Fragen-Diagnose:
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

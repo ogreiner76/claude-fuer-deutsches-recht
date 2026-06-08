@@ -5,10 +5,6 @@ description: "Begleitet BSI-Aufsichtsverfahren und Nachweisverlangen im Nis2 Cyb
 
 # Aufsichtsverfahren BSI
 
-## Arbeitsbereich
-
-Begleitet BSI-Aufsichtsverfahren und Nachweisverlangen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

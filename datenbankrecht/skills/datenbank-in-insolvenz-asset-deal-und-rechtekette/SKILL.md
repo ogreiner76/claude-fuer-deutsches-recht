@@ -5,10 +5,6 @@ description: "Datenbankrecht in der Insolvenz: Übergang von Datenbankhersteller
 
 # Datenbank in der Insolvenz — Asset Deal und Rechtekette
 
-## Arbeitsbereich
-
-Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 87a-87e UrhG) im Insolvenzverfahren und Asset Deal, Due-Diligence-Prüfung der Rechtekette, Freigabe durch den Insolvenzverwalter und DSGVO-Pflichten bei Übertragung personenbezogener Datensätze. Erstellt Transaktions-Checkliste für Datenbankrechte-Erwerb aus Insolvenzmasse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 
 - Insolvenzanfechtung: Datenbankrechte-Übertragungen in den letzten Monaten vor Insolvenzantrag können anfechtbar sein.
 - Bewertung des Datenbankrechts ohne Prüfung der verbleibenden Schutzdauer und des Verletzungshistorie-Risikos führt zu Fehlinvestition.
 
-## Output
-
-- Asset-Deal-Datenbankrechte-Checkliste (Due Diligence)
-- Übertragungsvertrag-Klauseln für Datenbankherstellerrecht
-- Rechteketten-Dokumentationsmatrix
-- DSGVO-Pflichten-Übersicht für den Erwerber personenbezogener Datenbanken
-- Schutzdauer- und Wertbewertungstool (§ 87d UrhG)
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 
 - [§ 108 InsO — dejure.org](https://dejure.org/gesetze/InsO/108.html)
 - [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [§ 453 BGB Rechtskauf — dejure.org](https://dejure.org/gesetze/BGB/453.html)
+

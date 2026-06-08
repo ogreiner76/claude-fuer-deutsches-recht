@@ -56,12 +56,6 @@ Eine Hamburger Reederei ruft an: ihr Bulkcarrier wurde in Rotterdam mit Arrest b
 - ISM-Mängel lösen Port-State-Detention aus und unterbrechen Charter-Pläne.
 - P&I-Club-Deckung setzt rechtzeitige Meldung voraus; Versäumnis führt zu Deckungsverlust.
 
-## Output
-- Mandatseröffnungs-Checkliste (Schiffsdaten; Beteiligte; Fristen; Versicherung)
-- Sofortmassnahmen-Vermerk mit Risikoampel (grün/gelb/rot)
-- Erste-48h-Aktionsplan: Registerabfrage; Club-Meldung; Arreststrategie
-- Normpfad-Übersicht: welche HGB-/SchRG-Normen greifen
-
 ## Erweiterte Normengrundlage
 
 ### Registrierung und Identität
@@ -98,3 +92,4 @@ Eine Hamburger Reederei ruft an: ihr Bulkcarrier wurde in Rotterdam mit Arrest b
 - UNCLOS Text: https://www.un.org/Depts/los/convention_agreements/texts/unclos/unclos_e.pdf
 - BSH Schiffsregister: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - dejure HGB § 606: https://dejure.org/gesetze/HGB/606.html
+

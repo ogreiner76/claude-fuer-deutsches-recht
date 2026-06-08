@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmac
 
 # Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmacht – Geschäftsfähigkeit
 
-## Arbeitsbereich
-
-Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmacht – Geschäftsfähigkeit. Prüfprogramm für Geschäftsfähigkeit, gesetzliche Vertretung durch Betreuer, Einwilligungsvorbehalt und familiengerichtliche Genehmigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,3 +97,4 @@ Wenn eine Vorsorgevollmacht vorliegt und aktiviert ist, handelt der Bevollmächt
 - **Mandantenmail** (nächste Schritte, Genehmigungswartezeit)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

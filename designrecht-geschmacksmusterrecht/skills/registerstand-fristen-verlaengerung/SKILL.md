@@ -5,10 +5,6 @@ description: "Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: f�
 
 # Registerstand Fristen Verlaengerung
 
-## Arbeitsbereich
-
-Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Perioden, maximaler Schutz, Gebühren, Löschung, Inhaberwechsel und Belastungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Pe
 
 Ein Designportfolio oder einzelnes Registerrecht muss geprüft werden.
 
-## Arbeitsweise
-
-Hole Registerdaten live, rechne Fristen und markiere kritische Lücken in Chain of Title oder Verlängerung.
-
 ## Prüfpunkte
 
 - Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
@@ -32,13 +24,10 @@ Hole Registerdaten live, rechne Fristen und markiere kritische Lücken in Chain 
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
-## Output
-
-Registervermerk und Fristenliste.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

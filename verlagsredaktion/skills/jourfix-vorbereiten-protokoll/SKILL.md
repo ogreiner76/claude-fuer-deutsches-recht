@@ -5,10 +5,6 @@ description: "Bereitet einen Jourfixe der Verlagsredaktion vor: knappe Agenda St
 
 # Jourfixe vorbereiten und Protokoll
 
-## Arbeitsbereich
-
-Bereitet einen Jourfixe der Verlagsredaktion vor: knappe Agenda Statusliste Beschluesse mit Owner und Frist Protokoll innerhalb 24 Stunden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -111,14 +107,6 @@ Naechster Jourfix: 19.06.2026, 10:00.
 - Protokoll erst nach Tagen - alle vergessen.
 - Wiederkehrende Themen ohne Standardloesung.
 
-## Querverweise
-
-- `verl-redaktionssitzung-vorbereiten` - Heftsitzung (strategischer).
-- `verl-abstimmung-mit-autor-feedback-kanal` - Autorenseite.
-- `verl-abstimmung-mit-lektorat-format` - Lektorats-Schnittstelle.
-- `verl-ideenpool-und-priorisierung` - Backlog.
-- `workflow-fristen-und-risikoampel` - Risikoampel.
-
 ## Quellen Stand 06/2026
 
 - Allgemeine Sitzungsleitungs-Methodik: keine spezifische juristische Quelle erforderlich.
@@ -127,3 +115,4 @@ Naechster Jourfix: 19.06.2026, 10:00.
 - BGB §§ 280, 286, 323.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

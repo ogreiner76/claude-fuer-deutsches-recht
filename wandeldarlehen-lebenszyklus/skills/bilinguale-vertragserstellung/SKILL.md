@@ -5,10 +5,6 @@ description: "Wandeldarlehensvertrag zweisprachig deutsch und englisch erstellen
 
 # Bilinguale Vertragserstellung DE/EN
 
-## Arbeitsbereich
-
-Wandeldarlehensvertrag zweisprachig deutsch und englisch erstellen für internationale Transaktionen oder ausl. Investoren. BGB Darlehen §§ 488 ff. BGB GmbHG Kapitalerhohung. Prüfraster: Terminologie-Konsistenz Rechtswahl governing-law jurisdiction. Output: bilingualer Vertragsentwurf mit Gegenüberstell. Abgrenzung: nicht für einsprachige Fassung (einsprachige-vertragsfassung-de). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Wandeldarlehensvertrag zweisprachig deutsch und englisch erstellen für internat
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erstellt den vollständigen Wandeldarlehensvertrag in bilingualer Fassung (DE/EN) als zweispaltige Word-Tabelle. Die deutsche Fassung ist allein verbindlich (§ 10.1 Sprachklausel). Phase A des Lebenszyklus.
 
 ## Eingaben
 
@@ -86,12 +78,6 @@ German terms in parentheses in the English version are binding references.
 | Platzhalter [●] verbleiben | Vertrag nicht unterzeichnungsreif | Einzelne Felder offen | Alle Felder ausgefüllt |
 | DocuSign-Hinweis fehlt | Unterzeichner unsicher über Verfahren | Hinweis nur mündlich | Schriftlicher Hinweis |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/einsprachige-vertragsfassung-de/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/textform-vs-schriftform-vs-notariell/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/beurkundungserfordernis-pruefung/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung BGB-Formvorschriften oder GmbHG aktualisieren.
@@ -111,3 +97,4 @@ Problem : BGH VI ZR 232/09 (NJW 2010, 2812) – WRONG_TOPIC; tatsächlich: Schad
 Maßnahme: Leitsatz-Zitat entfernt. Kein verifizierter BGH-Ersatz zur Sprachpriorität in zweisprachigen Verträgen gefunden; OLG München 31 Wx 79/16 (GmbHR 2016, 543) verbleibt als valide Quelle.
 Quelle: https://dejure.org/2010,477
 -->
+

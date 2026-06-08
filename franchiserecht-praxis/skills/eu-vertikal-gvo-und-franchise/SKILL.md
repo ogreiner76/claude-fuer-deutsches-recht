@@ -5,10 +5,6 @@ description: "EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfrei
 
 # Franchiserecht: EU-Vertikal-GVO und Franchise
 
-## Arbeitsbereich
-
-EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfreistellung, Marktanteilsschwellen, Kernbeschränkungen, Online-Vertriebsregeln und Übergangszeitraum. Compliance-Check für Bezugsbindungen, Gebietsschutz und Preisregeln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisesystem möchte seine Vertragsklauseln auf Konformität mit der Vert
 - Neue Online-Regeln der Vertikal-GVO 2022 (Dual-Pricing, Plattformverbote) wurden nicht in Vertragsüberarbeitung einbezogen.
 - Übergangsfrist bis Mai 2023 wurde versäumt; alte GVO-konforme Klauseln sind jetzt nichtig.
 
-## Output
-
-- Vertikal-GVO-Compliance-Screening des Franchisevertrags
-- Ampelbewertung: GVO-konform / Kernbeschränkung / Ausgeschlossene Beschränkung
-- Empfehlungsliste für Vertragsanpassungen
-- Einzelfreistellungsprüfung für Ausnahmefälle
-
 ## Quellen
 
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
@@ -71,6 +60,7 @@ Ein Franchisesystem möchte seine Vertragsklauseln auf Konformität mit der Vert
 - https://dejure.org/gesetze/BGB/134.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12012E101
 - https://gesetze-im-internet.de/gwb/__2.html
+
 ## Vertiefung
 
 Die Vertikal-GVO EU 2022/720, die am 1. Juni 2022 in Kraft trat und die Vorgänger-Verordnung 330/2010 ersetzte, hat das europäische Vertriebsrecht erheblich modernisiert. Neu sind insbesondere Regelungen zu dualen Vertriebssystemen, Online-Plattform-Diensten und die klarere Abgrenzung zwischen zulässigen Selektivvertriebsklauseln und Kernbeschränkungen.
@@ -84,7 +74,10 @@ Für Franchisesysteme besonders relevant sind die aktualisierten Regelungen zu O
 - Übergangsfrist bis 31. Mai 2023 war einmalig; danach gelten neue Regeln uneingeschränkt.
 - Bei Marktanteilen über 30 % keine Gruppenfreistellung mehr; individuelle Effizienzabwägung nach Art. 101 Abs. 3 AEUV.
 - Bundeskartellamt-Merkblätter zur Vertikal-GVO 2022 beachten; Behörde hat eigene Praxis-Hinweise veröffentlicht.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

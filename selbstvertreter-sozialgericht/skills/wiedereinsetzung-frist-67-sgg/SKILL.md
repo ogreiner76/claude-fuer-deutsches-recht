@@ -143,22 +143,7 @@ Die Behörde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, k
 - Antrag ohne Nachholung des Widerspruchs → erfolglos
 - Kein Beleg für den Grund → schwer beweisbar
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruchsfrist-84-sgg` — die Widerspruchsfrist selbst
-- `fristen-berechnen-sgg-laien` — alle Fristen
-- `widerspruchsbescheid-was-jetzt` — wenn Widerspruchsfrist gerade noch geht
-- `wann-doch-anwalt-grenzfaelle-sozialgericht` — für komplexe Wiedereinsetzungs-Faelle
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wichtigen Faellen lassen Sie sich bei VdK / SoVD beraten.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

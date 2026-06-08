@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldb
 
 # Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief
 
-## Arbeitsbereich
-
-Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief. Verfahren nach §§ 1162–1163 BGB i.V.m. FamFG, Antrag beim Amtsgericht, Bekanntmachungspflichten und Kraftloserklärung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Aufgebotsverfahren-Kosten: Gerichtskosten nach FamGKG, i.d.R. 0,5 Gebühr des Gr
 ## Eidesstattliche Versicherung als Alternative
 
 Manche Grundbuchämter akzeptieren eine notariell aufgenommene eidesstattliche Versicherung des Gläubigers, dass der Brief vernichtet oder verloren ist, ohne formales Aufgebotsverfahren (§ 67 GBO). Diese schnellere und günstigere Option sollte zuerst geprüft werden. Im Zweifel vorher beim Grundbuchamt anfragen.
+

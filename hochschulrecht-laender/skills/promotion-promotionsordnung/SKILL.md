@@ -5,10 +5,6 @@ description: "Prüft Promotion, Annahme, Betreuung und Entzug im Hochschulrecht 
 
 # Promotion Und Promotionsordnung
 
-## Arbeitsbereich
-
-Prüft Promotion, Annahme, Betreuung und Entzug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Promotion Und Promotionsordnung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Promotion Und Promotionsordnung**. Prüfe diese Anker am Sachver
 - `§ 28 Abs. 1 VwVfG` — Anhörung.
 - `§ 39 Abs. 1 VwVfG` — Begründung.
 - `§ 123 Abs. 1 VwGO` — Eilrechtsschutz im Konkurrenten-/Prüfungskontext.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -93,3 +88,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: Promotionsfahrplan. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

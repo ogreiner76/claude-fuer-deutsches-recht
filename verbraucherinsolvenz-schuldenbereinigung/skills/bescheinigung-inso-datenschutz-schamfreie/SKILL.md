@@ -5,9 +5,6 @@ description: "Bescheinigung Inso Datenschutz Schamfreie im Plugin Verbraucherins
 
 # Bescheinigung Inso Datenschutz Schamfreie
 
-## Arbeitsbereich
-
-**Bescheinigung Inso Datenschutz Schamfreie** ordnet den Fall über die tragenden Prüfungslinien: Bescheinigung nach § 305 InsO, Datenschutz und schamfreie Akte, Warum Eigenverwaltung kein Verbraucher-Standard ist. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Bescheinigung Inso Datenschutz Schamfreie im Plugin Verbraucherins
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bescheinigung-305-inso`
@@ -44,26 +42,6 @@ Dieser Skill arbeitet im Plugin **Verbraucherinsolvenz und Schuldenbereinigung**
 
 InsO § 305 Abs. 1 Nr. 1, Abs. 4. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
 
-## Arbeitsfragen
-
-1. Geht es um Verbraucherinsolvenz, ehemalige Selbstständigkeit oder Regelinsolvenz?
-2. Welche Gläubiger, Titel, Pfändungen, Inkassoschreiben, Steuern, Unterhalts- oder Deliktforderungen existieren?
-3. Gibt es laufende Vollstreckung, Kontosperre, Mietrückstand, Stromsperre oder Arbeitsplatzrisiko?
-4. Liegt ein außergerichtlicher Einigungsversuch vor oder muss er vorbereitet werden?
-5. Welche Unterlagen fehlen für Antrag, Plan, Bescheinigung, Stundung und Restschuldbefreiung?
-
-## Vorgehen
-
-- Zuerst Existenz sichern: Konto, Miete, Energie, Krankenversicherung, Unterhalt, Arbeit.
-- Danach Gläubigerliste, Forderungsgrund, Titel, Sicherheiten und § 302-Risiken erfassen.
-- Dann Plan bauen: Nullplan, Quote, Drittmittel, Einmalzahlung oder dynamische Rate.
-- Bei Antragstellung Formulare, Anlagen, RSB-Antrag und Stundung getrennt abhaken.
-- In der Wohlverhaltensphase Obliegenheiten als Kalender und nicht als abstrakte Belehrung führen.
-
-## Ergebnisformate
-
-- Unterlagenliste, Gläubigertabelle, Planentwurf, Anschreiben, Gerichtsantrag-Check, P-Konto-Notfallplan, Red-Team-Vermerk oder Laienerklärung.
-
 ## 2. `datenschutz-und-schamfreie-akte`
 
 **Fokus:** Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine für Verbraucherinsolvenz und Schuldenbereinigung.
@@ -82,26 +60,6 @@ Dieser Skill arbeitet im Plugin **Verbraucherinsolvenz und Schuldenbereinigung**
 ## Norm- und Praxisanker
 
 DSGVO Art. 5, 6, 9; Berufsgeheimnis je nach Beratung. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
-
-## Arbeitsfragen
-
-1. Geht es um Verbraucherinsolvenz, ehemalige Selbstständigkeit oder Regelinsolvenz?
-2. Welche Gläubiger, Titel, Pfändungen, Inkassoschreiben, Steuern, Unterhalts- oder Deliktforderungen existieren?
-3. Gibt es laufende Vollstreckung, Kontosperre, Mietrückstand, Stromsperre oder Arbeitsplatzrisiko?
-4. Liegt ein außergerichtlicher Einigungsversuch vor oder muss er vorbereitet werden?
-5. Welche Unterlagen fehlen für Antrag, Plan, Bescheinigung, Stundung und Restschuldbefreiung?
-
-## Vorgehen
-
-- Zuerst Existenz sichern: Konto, Miete, Energie, Krankenversicherung, Unterhalt, Arbeit.
-- Danach Gläubigerliste, Forderungsgrund, Titel, Sicherheiten und § 302-Risiken erfassen.
-- Dann Plan bauen: Nullplan, Quote, Drittmittel, Einmalzahlung oder dynamische Rate.
-- Bei Antragstellung Formulare, Anlagen, RSB-Antrag und Stundung getrennt abhaken.
-- In der Wohlverhaltensphase Obliegenheiten als Kalender und nicht als abstrakte Belehrung führen.
-
-## Ergebnisformate
-
-- Unterlagenliste, Gläubigertabelle, Planentwurf, Anschreiben, Gerichtsantrag-Check, P-Konto-Notfallplan, Red-Team-Vermerk oder Laienerklärung.
 
 ## 3. `eigenverwaltung-nicht-verbraucher`
 
@@ -122,22 +80,3 @@ Dieser Skill arbeitet im Plugin **Verbraucherinsolvenz und Schuldenbereinigung**
 
 InsO Eigenverwaltung vs. Verbraucherinsolvenz. Entscheidend ist immer der aktuelle Normstand der InsO, die amtlichen Formulare des Insolvenzgerichts und die örtliche Praxis. Wenn eine Frist, ein Formular oder ein Pfändungsbetrag tragend ist, muss live geprüft werden.
 
-## Arbeitsfragen
-
-1. Geht es um Verbraucherinsolvenz, ehemalige Selbstständigkeit oder Regelinsolvenz?
-2. Welche Gläubiger, Titel, Pfändungen, Inkassoschreiben, Steuern, Unterhalts- oder Deliktforderungen existieren?
-3. Gibt es laufende Vollstreckung, Kontosperre, Mietrückstand, Stromsperre oder Arbeitsplatzrisiko?
-4. Liegt ein außergerichtlicher Einigungsversuch vor oder muss er vorbereitet werden?
-5. Welche Unterlagen fehlen für Antrag, Plan, Bescheinigung, Stundung und Restschuldbefreiung?
-
-## Vorgehen
-
-- Zuerst Existenz sichern: Konto, Miete, Energie, Krankenversicherung, Unterhalt, Arbeit.
-- Danach Gläubigerliste, Forderungsgrund, Titel, Sicherheiten und § 302-Risiken erfassen.
-- Dann Plan bauen: Nullplan, Quote, Drittmittel, Einmalzahlung oder dynamische Rate.
-- Bei Antragstellung Formulare, Anlagen, RSB-Antrag und Stundung getrennt abhaken.
-- In der Wohlverhaltensphase Obliegenheiten als Kalender und nicht als abstrakte Belehrung führen.
-
-## Ergebnisformate
-
-- Unterlagenliste, Gläubigertabelle, Planentwurf, Anschreiben, Gerichtsantrag-Check, P-Konto-Notfallplan, Red-Team-Vermerk oder Laienerklärung.

@@ -81,12 +81,6 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 
 (Allgemeines DBA-Pruefungsraster siehe `stb-dba-grundprinzip-oecd-musterabkommen`.)
 
-## Output
-
-- Mandanten-Memo.
-- Berechnungsbeispiel Pension Daenemark mit Subsumtion.
-- BZSt-Antragspaket bei Beteiligungen.
-
 ## Strategie und Praxis-Tipps
 
 - Folkepension wird oft falsch eingeordnet — sie ist staatliche Sozialleistung, das DBA enthaelt eine Spezialregelung — DBA-Text konkret pruefen.
@@ -153,12 +147,9 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 >
 > Anmerkung: konkrete DBA-Klausel und aktuelle Verstaendigungsvereinbarung im BMF-Verzeichnis pruefen.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Daenemark 22.11.1995, in Kraft 25.12.1996 (BGBl. 1996 II S. 2565). Aenderungsprotokoll: BGBl. 2021 II S. 483, in Kraft 23.12.2021, anwendbar ab 01.01.2022. MLI-modifiziert; Synthesetext im BMF-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

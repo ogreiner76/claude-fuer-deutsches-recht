@@ -5,9 +5,6 @@ description: "VKR Bussgeldverfahren Bussgeld Einspruch im Plugin Fachanwalt Verk
 
 # VKR Bussgeldverfahren Bussgeld Einspruch
 
-## Arbeitsbereich
-
-**VKR Bussgeldverfahren Bussgeld Einspruch** ordnet den Fall über die tragenden Prüfungslinien: Bussgeldverfahren Grundzuege, Prüfungslinie für bussgeld einspruch pruefen, Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "VKR Bussgeldverfahren Bussgeld Einspruch im Plugin Fachanwalt Verk
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `vkr-bussgeldverfahren-grundzuege`
@@ -61,12 +59,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
@@ -78,10 +70,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 **Fokus:** Bussgeld Einspruch Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Bußgeldbescheid prüfen und Einspruch
-
-## Zweck
-
-Bußgeldbescheide haben oft Verteidigungspotenzial — Messfehler, Identitätszweifel, Verjährung, Härtefall-Argumentation beim Fahrverbot. Der Skill führt systematisch durch alle Prüfschritte vom Fristbeginn bis zur Verhandlungs-Strategie.
 
 ## Kaltstart-Rückfragen
 
@@ -635,3 +623,4 @@ Aktueller Stand Mai 2026 (verifizierte Aktenzeichen):
 - BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20 — Keine Rohmessdaten-Speicherungspflicht; aber Anspruch auf vorhandene Daten
 - BVerwG, Beschl. v. 8.1.2025, 3 B 2.24 — Cannabis und KCanG ab 1.4.2024
 - KCanG vom 27.3.2024, BGBl. I 2024 Nr. 109; § 24a Abs. 1a StVG i. d. F. vom 21.8.2024, BGBl. I 2024 Nr. 274 (3.5 ng/ml THC-Grenzwert)
+

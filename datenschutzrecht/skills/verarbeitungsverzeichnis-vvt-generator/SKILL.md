@@ -5,10 +5,6 @@ description: "Verzeichnis der Verarbeitungstätigkeiten nach Art. 30 DSGVO erste
 
 # VVT — Verzeichnis von Verarbeitungstätigkeiten
 
-## Zweck
-
-Art. 30 DSGVO Pflicht-Dokument für alle datenverarbeitenden Stellen ab Schwellenwerten. Dieses Skill bedient den Aufbau und die Aktualisierung des VVT.
-
 ## Eingaben
 
 - Anzahl Beschäftigte
@@ -401,3 +397,4 @@ Rechtsgrundlage (Empfehlung): Art. [X] DSGVO [§ BDSG]
 ```
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

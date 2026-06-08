@@ -5,10 +5,6 @@ description: "Sammelt Rechnungsdaten und Belege für die monatliche Umsatzsteuer
 
 # UStVA, Eingangsrechnungen und Kanzlei-Buchhaltung
 
-## Arbeitsbereich
-
-Sammelt Rechnungsdaten und Belege für die monatliche Umsatzsteuervoranmeldung. Anwendungsfall Monat ist vorbei und UStVA-Unterlagen muessen für ELSTER oder Steuerkanzlei zusammengestellt werden. Normen §§ 18 21 UStG UStVA-Pflicht § 14 UStG Rechnungspflichtangaben GoBD-Aufbewahrung. Prüfraster Ausgangsrechnungen Eingangsrechnungen Betriebsausgaben Vorsteuer Umsatzsteuer Zahlungsstatus Belegprüfung. Output UStVA-Vorbereitung mit strukturierter Belegsammlung ELSTER-Übergabepaket oder Steuerkanzlei-Paket ohne stille Abgabe. Abgrenzung zu kanzlei-allgemein-rechnung und kanzlei-allgemein-ustva-simulation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Sammelt Rechnungsdaten und Belege für die monatliche Umsatzsteuervoranmeldung. 
 - § 14 UStG — Pflichtangaben auf Rechnungen; Vorsteuerabzug
 - § 147 AO — Aufbewahrungspflicht 10 Jahre für Buchungsbelege
 - § 152 AO — Verspaetungszuschlag bei verspaeteter Abgabe
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill bereitet die monatliche Umsatzsteuer-Voranmeldung und die Belegsammlung der Kanzlei vor. Er gibt keine Steuerberatung, bucht nicht verbindlich und übermittelt nichts ohne Freigabe.
 
 ## Datenquellen
 
@@ -109,3 +98,4 @@ Für jede Eingangsrechnung erfassen:
 - `assets/templates/ustva-elster-simulation.md`, wenn nur geübt wird.
 - Bei Rechnungen zusätzlich `assets/templates/gobd-rechnungsprotokoll.md`.
 - Bei Kontenabgleich zusätzlich `assets/templates/offene-posten-debitoren.md` und `assets/templates/zahlungseingang-matching.md`.
+

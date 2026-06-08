@@ -5,10 +5,6 @@ description: "Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Ano
 
 # Datenminimierung in der Edge/Cloud-Architektur
 
-## Arbeitsbereich
-
-Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,12 +86,6 @@ Robotik-Architekturen verteilen Datenverarbeitung typischerweise auf Edge (im Ro
 - **Anonymisierungs-Anspruch** ohne Re-ID-Test.
 - **Keine Löschroutine** technisch implementiert.
 
-## Querverweise
-
-- `data-act-roboterdaten`
-- `beschaeftigtendatenschutz-cobot`
-- `cra-produkt-mit-digitalen-elementen`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 5, 25, 28, 32, 35, 44 ff.
@@ -107,3 +97,4 @@ Robotik-Architekturen verteilen Datenverarbeitung typischerweise auf Edge (im Ro
 - BSI C5; ISO/IEC 27001/27017/27018.
 - EDPB Guidelines on Anonymisation (in Bearbeitung 2024-2026); EDPB Recommendations 01/2020 Supplementary Measures.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, BfDI, bsi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

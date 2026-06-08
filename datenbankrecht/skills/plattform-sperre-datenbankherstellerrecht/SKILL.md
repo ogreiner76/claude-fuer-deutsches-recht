@@ -5,10 +5,6 @@ description: "Rechtliche Bewertung von Plattformsperren wegen Data Extraction: B
 
 # Plattformsperre wegen Data Extraction — Berechtigung und Rechtsschutz
 
-## Arbeitsbereich
-
-Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren. Erstellt Sperre-Dokumentation und Wiederherstellungsantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,3 +71,4 @@ Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zu
 - [Art. 102 AEUV — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A12012E102)
 - [§ 19 GWB — dejure.org](https://dejure.org/gesetze/GWB/19.html)
 - [DMA-Verordnung 2022/1925 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R1925)
+

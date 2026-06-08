@@ -5,10 +5,6 @@ description: "Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Art
 
 # Lunar Heritage und Schutz historischer Mondlandestellen
 
-## Arbeitsbereich
-
-Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert das US One Small Step to Protect Human Heritage in Space Act 2020 die Auslegung der Artikel I II und IX OST zur Frage Non-Appropriation und Common Heritage NASA Recommendations to Space-Faring Entities und das ICOMOS Heritage on the Moon. Behandelt private Bergung Tourismus Rover-Annaeherung und kommerzielle Nutzung historischer Stellen. Liefert Pruefraster und Risiko-Cockpit für Mondmissionen mit Annaeherung an Apollo Luna Chang E historische Stellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für Mandate aus dem Mond-Sektor, in denen die Annaeherung an oder die Beruehrung von historischen Mondlandestellen rechtlich zu pruefen ist. Anlaesse: kommerzielle Lander (z. B. Intuitive Machines, Astrobotic, ispace), Rover-Missionen, Lunar Mining Vorbereitungsphasen, Tourismus-Vorstudien.
 
 ## Sofortfragen
 
@@ -60,10 +52,3 @@ Skill für Mandate aus dem Mond-Sektor, in denen die Annaeherung an oder die Ber
 5. Kommerzielle Annaeherungserlaubnis erforderlich?
 6. Versicherung deckt Heritage-Damage?
 
-## Output
-
-- Heritage-Compliance-Memo.
-- Trajektorienpruefraster.
-- Risiko-Cockpit für kommerzielle Mondmissionen.
-- Talking Points für NASA / ESA / DLR-Koordination.
-- Sanktions- und Reputationsmatrix bei Annaeherungsverletzung.

@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Grundbuchauszug lesen – Abteilung II und III
 
 # Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III
 
-## Arbeitsbereich
-
-Notariat im Alltag: Grundbuchauszug lesen – Abteilung II und III. Systematische Analyse aller Grundbuchinhalte, Bedeutung der Eintragungen in Abt. I (Eigentum), II (Belastungen) und III (Grundpfandrechte) für den Vollzug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -107,3 +103,4 @@ Grundbuchauszüge veralten schnell. Für Beurkundung: Auszug nicht älter als 3 
 - **Auszug-Anforderungsschreiben** (an Grundbuchamt)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

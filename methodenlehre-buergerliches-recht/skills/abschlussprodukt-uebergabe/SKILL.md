@@ -51,10 +51,6 @@ description: "Dieses Skill definiert und strukturiert das juristische Abschlussp
 - Die Mandatsakte wird unvollständig übergeben, was bei späteren Rechtsstreitigkeiten zu Haftungsrisiken führt.
 - Rechtsmittelfristen werden beim Abschlussprotokoll nicht dokumentiert, sodass Mandanten Rechtsbehelfsmöglichkeiten versäumen.
 
-## Output
-
-Das Skill liefert ein vollständiges Abschlusspaket: Abschlussprotokoll mit Mandatsergebnis und Risikohinweisen, Fristenübersicht für offene Handlungsbedarfe, Inhaltsverzeichnis der Mandatsakte und ein formelles Abschlussschreiben an den Mandanten mit Empfehlung für Folgeschritte. Das Paket sichert die anwaltliche Sorgfaltspflicht und dient als Haftungsschutz.
-
 ## Quellen
 
 - [§ 675 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__675.html)
@@ -114,3 +110,4 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
+

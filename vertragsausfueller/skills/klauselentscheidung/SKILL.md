@@ -36,13 +36,6 @@ Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vert
 - § 310 Abs. 1 BGB — B2B: eingeschränkte Inhaltskontrolle
 - § 1031 ZPO — Schiedsvereinbarung (Formerfordernis)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Der Skill verhindert stilles Auswählen riskanter Optionen. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.
-
 ## Startet bei
 
 - hochgeladener Word-Vorlage oder altem Vertrag
@@ -75,6 +68,8 @@ Der Skill verhindert stilles Auswählen riskanter Optionen. Er arbeitet freisteh
 ---
 
 <!-- AUDIT 27.05.2026 -->
+
 ## Audit-Hinweis (27.05.2026)
 
 Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.
+

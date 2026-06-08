@@ -104,13 +104,6 @@ Fragen zum Einstieg:
 - Verlängerter EV wird übersehen – Lieferant hat Vorrang.
 - Künftige Forderungen werden im Entstehungszeitpunkt anders zugeordnet als gedacht.
 
-## Querverweise
-
-- `globalzession-verlaengerte-eigentumsvorbehalte-prioritaetskonfli`
-- `abtretbarkeit-forderungen-398-bgb-und-abtretungsverbote`
-- `insolvenzanfechtung-globalzession-deckung-bargeschaeft`
-- `insolvenz-des-factoringkunden-aussonderung-absonderung`
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 398, 401, 449 zur Abtretung und zum Eigentumsvorbehalt.
@@ -118,3 +111,4 @@ Fragen zum Einstieg:
 - BGH zur Bestimmbarkeit von Globalzessionen (etwa BGH NJW 2000, 276 – Bezeichnungs-/Bestimmbarkeitsanforderungen).
 - BGH zum verlängerten Eigentumsvorbehalt und seinem Verhältnis zur Globalzession.
 - HGB § 354a zur Wirksamkeit der Abtretung im Handelsverkehr.
+

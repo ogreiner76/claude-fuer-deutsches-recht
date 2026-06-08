@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zum Verhältnis § 83a SGB X zu Art. 33 DSG
 
 § 35; § 67; § 83a; § 85 SGB X; § 35 SGB I; Art. 33 DSGVO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Doppelspur Meldung
 
 DSGVO-Spur: Meldung an Aufsichtsbehörde (BfDI bei Bundesbehörde oder zuständige Landesbehörde).
@@ -51,3 +47,4 @@ Berichtsformate parallel halten; Konsistenz beachten.
 
 - `dsv-art-9-besondere-kategorien` deckt Gesundheitsdaten ab.
 - `dsv-paragraf-203-stgb-berufsgeheimnis` deckt aerztliches Geheimnis ab.
+

@@ -5,10 +5,6 @@ description: "Bauueberwachung gemaess HOAI LPH 8 für Gartenhaeuser und Carports
 
 # Bauueberwachung Gartenhaus und Carport (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung gemaess HOAI LPH 8 für Gartenhaeuser und Carports aus Holz- oder Stahl-Leichtbau — Fundamentpruefung nach DIN 1054, Holzschutzklassen nach DIN 68800, Verbindungsmittel-Kontrolle und Abstandsflaechennachweis. Unterstuetzt private und kleingewerbliche Bauherren mit strukturierter Maengeldokumentation und digitaler Fotodokumentation ueber PlanRadar oder Dalux. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Gartenhaeuser und Carports gelten baurechtlich je nach Landesbauordnung als gene
 - Mangelhafte Betongute: C12/15 geliefert statt vorgeschriebenem C20/25 laut Statik - ablehnen und dokumentieren
 - Abstandsflaechenverstoss: Carport an Grundstuecksgrenze ohne Baulast kann Abbruchanordnung ausloesen
 
-## Output
-
-Bautagebuch-Eintrag mit Datum, Witterung, Personen und Kontrollen. Fotodokumentation als PDF-Report (PlanRadar oder Dalux). Maengelreport mit Fristen und Verantwortlichen. Abnahmeprotokoll mit Vorbehalten und Restleistungen. Schlusskontrollbescheinigung für Bauherr und Behörde.
-
 ## Quellen
 
 - [HOAI 2021 § 34 Anlage 10](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -92,3 +84,4 @@ Bautagebuch-Eintrag mit Datum, Witterung, Personen und Kontrollen. Fotodokumenta
 - [BGH VII ZR 46/06 Bauueberwachungspflicht](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+46/06)
 - [DIN 1054 Baugrund](https://www.gesetze-im-internet.de/)
 - [DIN 68800 Holzschutz](https://www.gesetze-im-internet.de/)
+

@@ -5,10 +5,6 @@ description: "Prüft die Impressumspflicht für Websites, Apps und Social-Media-
 
 # Impressumspflicht (§§ 5, 6 DDG, § 18 MStV)
 
-## Arbeitsbereich
-
-Prüft die Impressumspflicht für Websites, Apps und Social-Media-Profile nach §§ 5 und 6 DDG und § 18 MStV, erstellt konforme Impressumstexte und identifiziert typische Abmahnrisiken nach UWG. Lädt bei Fragen zu Anbieterkennzeichnung, Impressum-Vollständigkeit und Bußgeldrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüft die Impressumspflicht für Websites, Apps und Social-Media-Profile nach �
 - Tragende Normen verifizieren: ProdSG, ProdHaftG, EU-Marktüberwachungs-VO 2019/1020, EU-Produktsicherheits-VO 2023/988 (GPSR ab 13.12.2024), Produkthaftungs-RL 2024/2853, MaschinenVO 2023/1230, GPSGV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Fulfillment-Dienstleister, Marktüberwachungsbehörde (BAuA, Länder), benannte Stelle, Endverbraucher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation, Risikoanalyse, CE-Kennzeichnung, Rückrufkonzept, Sicherheitsbericht, Online-Marktplatz-AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill prüft, ob eine Impressumspflicht nach dem Digitale-Dienste-Gesetz (DDG, in Kraft seit 14.05.2024, vormals TMG) und dem Medienstaatsvertrag (MStV) besteht, welche Pflichtangaben erforderlich sind und wie das Impressum korrekt zu gestalten ist. Er identifiziert Abmahnrisiken nach UWG und Bußgeldrisiken nach DDG. Anwendungsfälle: Unternehmenswebsite, Online-Shop, Blog, Social-Media-Profil (Instagram, LinkedIn, YouTube), App-Store-Listing, Newsletter.
 
 ## Eingaben
 
@@ -52,6 +44,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Schritt 1 – Impressumspflicht dem Grunde nach**
@@ -93,15 +86,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Zentrale Normen (Paragrafenkette)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Ausgabeformat
-
-- **Impressumstext** (fertig formuliert, vollständig, einfügebereit).
-- **Prüfliste** (Tabelle): Pflichtangabe × vorhanden/fehlend × Fundstelle.
-- **Risikomemo** (kurz): Fehlende Angaben, Bußgeld- und Abmahnrisiko, Empfehlung.
-
 ## Beispiel
 
 **Sachverhalt**: GmbH G betreibt einen Online-Shop mit integriertem Unternehmensblog, auf dem regelmäßig Meinungsbeiträge zu Branchenthemen erscheinen. Bisheriges Impressum enthält keine Handelsregisternummer und keine v.i.S.d.P.-Angabe.
@@ -132,3 +116,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 <!-- AUDIT 27.05.2026 bundle_040
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

@@ -5,10 +5,6 @@ description: "ZAG-Erlaubnisanalyse für Zahlungsinstitute: Zahlungsdienste katal
 
 # ZAG-Erlaubnisanalyse Zahlungsinstitut
 
-## Arbeitsbereich
-
-ZAG-Erlaubnisanalyse für Zahlungsinstitute: Zahlungsdienste katalogisieren, § 10 ZAG, Eigenmittel, Geschäftsplan, Sicherung von Kundengeldern, Geschäftsleiter, Auslagerungen und BaFin-Antrag prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,10 +47,3 @@ Dieser Skill prüft, ob ein Geschäftsmodell der Erlaubnispflicht nach dem ZAG u
 - Passporting aus EU-Staat: § 38 ZAG-Notifizierung; BaFin-Prüfung ob Hauptverwaltung wirklich im Herkunftsstaat
 - ZAG-Institut erweitert um Kreditvergabe: Grenze zu § 1 Abs. 1 Nr. 2 KWG; ggf. KWG-Erlaubnis erforderlich
 
-## Output
-
-Erlaubnisantrags-Checkliste nach § 10 ZAG; Anfangskapital-Tabelle nach Dienstart; Sicherungskonzept-Muster; Eigenmittelberechnung Methode A/B/C; Fit-and-Proper-Unterlagenliste für Geschäftsleiter.
-
-## Quellenregel
-
-gesetze-im-internet.de (ZAG, KWG), bafin.de (Merkblatt Zahlungsinstitute, Erlaubnisantrag-Formular ZAG), eur-lex.europa.eu (PSD2 Richtlinie 2015/2366). Live-Check: BaFin-Merkblatt ZAG-Erlaubnis, PSD3-Entwurf COM(2023)366 (noch nicht in Kraft).

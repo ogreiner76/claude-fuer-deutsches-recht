@@ -5,10 +5,6 @@ description: "Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisie
 
 # Verlags-Batchplan, Serien und Backlist
 
-## Arbeitsbereich
-
-Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-R
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Plane mehrere Registrierungen wie ein kleines Projekt. Ziel ist nicht Vollständigkeitsromantik, sondern ein vernünftiger Batch nach Risiko, Wert und Machbarkeit.
 
 ## Priorisierung
 
@@ -40,14 +32,6 @@ Plane mehrere Registrierungen wie ein kleines Projekt. Ziel ist nicht Vollständ
 4. Batchfenster planen: Zahlung, Packen, Tracking, Wiedervorlagen.
 5. Abschlussreport für Verlagsleitung und Rechteabteilung erstellen.
 
-## Output
-
-Batchboard mit Titel, Antragstyp, Priorität, Aufwand, Kosten, Deposit-Art, Risiken, Verantwortlicher Person und Status.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
-
 ## Tiefencheck für die Akte
 
 Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
@@ -58,3 +42,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Ausgabe braucht der Mandant: Antragspaket, Clearance-Memo, Risikomatrix, Takedown, Lizenzklausel oder US-Counsel-Briefing?
 
 **Mindest-Output:** Arbeitsprodukt mit Claim Scope, Rechtekette, Risikomatrix, Evidenzlücken und nächstem US-Schritt.
+

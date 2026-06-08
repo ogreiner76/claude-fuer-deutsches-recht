@@ -5,9 +5,6 @@ description: "Krisenverfassung Permanenter im Rechtstheorie und Rechtsphilosophi
 
 # Krisenverfassung Permanenter
 
-## Arbeitsbereich
-
-**Krisenverfassung Permanenter** ordnet den Fall über die tragenden Prüfungslinien: Prueft Krisenverfassung und dauerhafte Notstandslogik, Prueft formale Legalitaet als Kern des Rechtsstaats, Prueft Legitimation richterlicher Rechtsfortbildung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -40,6 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `krisenverfassung-und-permanenter-notstand`
@@ -60,10 +58,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill prüft, ob eine Krisenmaßnahme in der Verfassung bleibt oder eine Ausnahme dauerhaft normalisiert. Er verbindet Kelsen-artige Normbindung mit einer scharfen Kritik an Notstands- und Entscheidungsrhetorik.
 
 ## Sofort klären
 
@@ -100,16 +94,6 @@ Eine rechtsstaatliche Krisenregel enthält:
 - Folgenprüfung;
 - Rückkehr zur Normalordnung.
 
-## Output
-
-Liefere eine Notstandsampel:
-
-- `grün`: Krisennorm klar, Befristung klar, Kontrolle wirksam;
-- `gelb`: Krise plausibel, aber Grenzen/Dokumentation nachschärfen;
-- `rot`: Selbstermächtigung, Entfristung oder Ausschaltung effektiver Kontrolle.
-
-Schließe mit einer alternativen Formulierung, die Krisenhandeln ermöglicht, aber den Ausnahmezustand nicht verstetigt.
-
 ## 2. `legalitaetsprinzipien-als-rechtsstaatsmotor`
 
 **Fokus:** Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung.
@@ -129,10 +113,6 @@ Schließe mit einer alternativen Formulierung, die Krisenhandeln ermöglicht, ab
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Einsatz
-
-Anwendungsfall: eine Rechtsordnung, Behörde, Satzung, Plattformregel, Unternehmensrichtlinie oder gerichtliche Linie als "rechtlich" erscheint, aber unklar ist, ob sie rechtsstaatlich tragfähig funktioniert. Der Skill behandelt Legalität nicht als bloße Ästhetik der Normform, sondern als Mindestarchitektur, die Menschen überhaupt erst erlaubt, ihr Verhalten am Recht auszurichten.
-
 ## Acht Prüfsteine
 
 1. **Allgemeinheit:** Regeln dürfen nicht bloß verkleidete Einzelfallbefehle sein. Prüfe, ob sie nach Fallgruppen, Rollen und Tatbestandsmerkmalen arbeiten.
@@ -151,17 +131,6 @@ Anwendungsfall: eine Rechtsordnung, Behörde, Satzung, Plattformregel, Unternehm
 3. Trenne bloße Unschärfe von rechtsstaatlich gefährlicher Unberechenbarkeit.
 4. Bestimme, welche Institution den Mangel beheben kann: Gesetzgeber, Verwaltung, Gericht, Satzungsgeber, Vertragsparteien oder interne Governance.
 5. Gib eine kurze Reparaturformel aus: Klarstellung, Übergangsregel, Begründung, Veröffentlichung, Härtefallmechanismus, Rechtsschutz.
-
-## Red-Team-Fragen
-
-- Wird "Flexibilität" benutzt, um willkürliche Einzelfallsteuerung zu verdecken?
-- Muss der Bürger mehr wissen als die Behörde selbst offenlegt?
-- Wird rückwirkend sanktioniert, obwohl vorher keine tragfähige Orientierung bestand?
-- Passen Normtext, Verwaltungspraxis, Begründung und Rechtsfolge tatsächlich zusammen?
-
-## Output
-
-Erstelle eine Rechtsstaatsmatrix mit Ampel je Prüfstein, kurzer Diagnose, institutionellem Reparaturweg und Formulierungsvorschlag für Memo, Stellungnahme, Schriftsatz oder Gesetzgebungsnotiz.
 
 ## Quellen- und Zitierdisziplin
 
@@ -188,10 +157,6 @@ Erstelle eine Rechtsstaatsmatrix mit Ampel je Prüfstein, kurzer Diagnose, insti
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
-
 ## Sofort klären
 
 1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
@@ -206,14 +171,3 @@ Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in 
 3. Bewerte, ob der Gesetzgeber bewusst geschwiegen hat.
 4. Gib eine Fortbildungsampel.
 
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.

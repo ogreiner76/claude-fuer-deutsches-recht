@@ -5,10 +5,6 @@ description: "Streitbeilegung im Franchisesystem gestalten: Mediationsklauseln, 
 
 # Franchiserecht: Streitbeilegung, Mediation, Beirat und Schiedsgericht
 
-## Arbeitsbereich
-
-Streitbeilegung im Franchisesystem gestalten: Mediationsklauseln, Franchisenehmer-Beiräte als Ombudsinstanz, Schiedsgerichtsklauseln nach §§ 1029 ff. ZPO, Stufenmodelle und Kostenfragen bei alternativer Streitbeilegung im deutschen Franchiserecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Streit zwischen Franchisegeber und Franchisenehmer droht vor dem Landgericht
 - Franchisenehmer-Beirat hat keine echte Schiedsgewalt; Entscheidungen werden ignoriert.
 - AGB-Schiedsklausel des Franchisegebers benachteiligt den Franchisenehmer durch einseitige Schiedsrichterbestellung; unwirksam nach § 307 BGB.
 
-## Output
-
-- Stufenmodell-Klausel für Franchisevertrag
-- Beirat-Verfahrensordnung (Vorlage)
-- Schiedsgerichtsordnung (DIS-Verweis oder ad hoc)
-- Mediation-Kostenregelung
-
 ## Quellen
 
 - https://gesetze-im-internet.de/zpo/__1029.html
@@ -71,6 +60,7 @@ Ein Streit zwischen Franchisegeber und Franchisenehmer droht vor dem Landgericht
 - https://gesetze-im-internet.de/zpo/__1031.html
 - https://gesetze-im-internet.de/zpo/__1036.html
 - https://gesetze-im-internet.de/zpo/__1059.html
+
 ## Vertiefung
 
 Alternative Streitbeilegung gewinnt im Franchiserecht zunehmend an Bedeutung. Das Mediationsgesetz von 2012 hat den rechtlichen Rahmen für Mediation in Deutschland geschaffen; Mediationsklauseln in Franchiseverträgen sind seitdem üblicher geworden.
@@ -84,7 +74,10 @@ Das Deutsche Institut für Schiedsgerichtsbarkeit (DIS) bietet spezialisierte Sc
 - Mediationskosten klar regeln; ohne Regelung trägt jede Partei ihre eigenen Kosten plus hälftig die Mediatorkosten.
 - Beirat mit echter Kompetenz ausstatten: Empfehlungsrecht oder Mitentscheidungsrecht bei wesentlichen Systemänderungen.
 - Streitbeilegungsklausel auf Vollstreckbarkeit im Ausland prüfen (New Yorker Schiedsgerichtsübereinkommen).
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

@@ -5,10 +5,6 @@ description: "Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und §
 
 # NKR-Gleichstellungs- und Gendercheck
 
-## Arbeitsbereich
-
-Fachmodul Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -105,14 +101,6 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 - Unterschiedliche Betroffenheit nicht thematisiert
 - Foerdermassnahmen nicht erwogen, obwohl moeglich
 
-## Querverweise
-
-- `nkr-nachhaltigkeit-klimacheck-und-vereinbarkeit`
-- `nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-evaluation-und-jahresbericht`
-- `legistik-werkstatt/folgenabschaetzung-nachhaltigkeit`
-
 ## Quellen Stand 06/2026
 
 - § 1 BGleiG
@@ -123,3 +111,4 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.bmfsfj.de](https://www.bmfsfj.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

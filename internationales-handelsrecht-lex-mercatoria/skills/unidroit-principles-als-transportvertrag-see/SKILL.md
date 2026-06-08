@@ -53,12 +53,3 @@ Die UNIDROIT Principles of International Commercial Contracts (PICC), zuletzt re
 - Art. 1.7 Treu und Glauben: Schiedsgerichte wenden ihn weitgehend an
 - CENTRAL-Datenbank für PICC-Referenzen in Schiedssprüchen: trans-lex.org
 
-## Output
-
-- PICC-Anwendungs-Entscheidungsbaum
-- Vergleichstabelle PICC vs. CISG (Hauptunterschiede)
-- Klauselvorschlag: PICC als ergänzendes Recht
-
-## Quellenregel
-
-PICC 2016 Text: unidroit.org. CENTRAL: trans-lex.org. Schrifttum: Vogenauer/Kleinheisterkamp (Commentary on the UNIDROIT Principles, 2. Aufl. 2015). Unsicherheit bleibt sichtbar.

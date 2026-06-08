@@ -27,9 +27,6 @@ Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prüft sie sche
 - § 985, 1004 BGB — dingliche Ansprüche
 - Art. 1 ff. Rom-I, Art. 4 ff. Rom-II — IPR-Kollisionsrecht
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Sachverhalt scannen:** Welche Parteien, welche Rechtsbeziehung, welches Ziel des Klägers?
@@ -43,6 +40,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Richter/Berichterstatter — Tonfall: sachlich-juristisch
 
 ```
+
 ## Anspruchsgrundlagen-Übersicht
 
 | Anspruchsgrundlage | Ergebnis | Hauptproblem |

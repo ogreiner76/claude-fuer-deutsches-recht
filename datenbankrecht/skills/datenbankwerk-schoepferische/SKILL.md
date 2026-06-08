@@ -59,14 +59,6 @@ Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtli
 - Schutz der Struktur erstreckt sich nicht auf enthaltene Rohdaten; Dritte können dieselben Daten in anderer Struktur frei verwenden.
 - Fehlende Dokumentation der redaktionellen Entscheidungen erschwert Beweisführung im Streitfall erheblich.
 
-## Output
-
-- Schutzfähigkeitsgutachten (Datenbankwerk ja/nein mit Begründung)
-- Schöpfungsakte-Protokoll-Vorlage
-- Abgrenzung Werk-/Herstellerrecht
-- Urheberbenennungsmatrix (wer hat was erschaffen)
-- Handlungsempfehlung (Registrierung, Vertragsgestaltung, Abmahnung)
-
 ## Quellen
 
 - [§ 4 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
@@ -75,3 +67,4 @@ Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtli
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [§ 43 UrhG Arbeitnehmerurheberrecht — dejure.org](https://dejure.org/gesetze/UrhG/43.html)
 - [§ 8 UrhG Miturheberschaft — dejure.org](https://dejure.org/gesetze/UrhG/8.html)
+

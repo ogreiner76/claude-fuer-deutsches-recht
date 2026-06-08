@@ -5,10 +5,6 @@ description: "Ausnahmen Aussergewoehnliche Umstaende Pruefen: ordnet Normen, Nut
 
 # Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)
 
-## Arbeitsbereich
-
-Ausnahmen Aussergewoehnliche Umstaende Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -108,3 +104,4 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
 ---
 <!-- AUDIT 27.05.2026 bundle_004 -->
 **Halluzinations-Audit 27.05.2026**
+

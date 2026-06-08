@@ -5,10 +5,6 @@ description: "Chronologie und Belegmatrix: macht aus unordentlichem Material ein
 
 # Chronologie und Belegmatrix
 
-## Arbeitsbereich
-
-Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,9 +12,6 @@ Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit
 - Tragende Normen verifizieren: GeschGehG §§ 2 Nr. 1, 3, 4, 5, 6, 7, 8, 9, 10, 17, BGB §§ 145 ff., 280, 339, 343, 305 ff. (AGB-Kontrolle), BDSG § 26, DSGVO Art. 6, 28, 32 (TOM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA, Cleanroom-Agreement, Joinder-Erklärung, Term Sheet, AVV nach Art. 28 DSGVO, Verschwiegenheitsanlage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Dieses Modul bearbeitet: Chronologie und Belegmatrix im Plugin nda-abgleich: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen..
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
@@ -34,14 +27,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

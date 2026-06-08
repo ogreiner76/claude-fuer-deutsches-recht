@@ -5,10 +5,6 @@ description: "Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprach
 
 # Qualitätsgate
 
-## Arbeitsbereich
-
-Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprache vor Veröffentlichung prüfen. Verstaendlichkeit Gliederung Glossar Zielgruppenpassung juristische Vollständigkeit offene Nutzergruppen-Prüfung. Normen BITV 2.0 BGG § 11 Netzwerk Leichte Sprache. Prüfraster Verstaendlichkeits-Score Gliederungs-Check Glossar-Vollständigkeit Rechtsinhalt-Sicherung. Output Prüfergebnis-Bericht Verbesserungshinweise. Abgrenzung zu elsj-juristische-sicherung (Inhalt) und elsj-einfache-sprache/elsj-leichte-sprache (Übertragung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,10 +32,6 @@ Dieses Fachmodul vor jeder Herausgabe.
 - BITV 2.0 Anhang 1 — Pruefanforderungen für digitale Barrierefreiheit
 - DIN 33430 — Qualitaetsanforderungen an Testverfahren (analog heranziehbar für Verstaendlichkeitspruefungen)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -48,9 +40,11 @@ Konkret zu prüfen:
 - BGG (Behindertengleichstellungsgesetz) § 11
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
+
 ## Output-Template: Qualitaetsgate-Ergebnis
 
 ```
+
 ## Qualitaetsgate
 
 Geprueft am: [DATUM]
@@ -78,6 +72,7 @@ Status: freigabereif / ueberarbeiten / Nutzergruppe-Pruefung offen
 - [ ] Leichte Sprache: Pruefung durch Zielgruppe faelschlich behauptet
 - [ ] Text wirkt herablassend
 ```
+
 ## Pflichtprüfung
 
 | Prüfungslinie | Frage |
@@ -108,6 +103,7 @@ sein. Ein längerer Satz kann ausnahmsweise nötig sein.
 ## Ergebnisformat
 
 ```markdown
+
 ## Qualitätsgate
 
 Status: freigabereif / überarbeiten / Nutzerprüfung offen
@@ -139,3 +135,4 @@ Stoppe die Herausgabe, wenn:
 - bei Leichter Sprache fälschlich behauptet wird, es habe eine Prüfung durch
  Zielgruppenpersonen gegeben.
 - der Text herablassend wirkt.
+

@@ -96,12 +96,6 @@ Die Standardgliederung in fuenf Bloecken (Kontennummern typische SKR-Bereiche, i
 - BWA elektronisch im Mandanten-Ordner gesichert ablegen (revisionssicher, unveraenderbar).
 - Aufbewahrungsfrist 10 Jahre nach § 257 HGB / § 147 AO beachten.
 
-## Output
-
-- Standard-BWA als strukturierter Bericht mit funf Blocken, Vorjahresvergleich und kumuliertem Jahresblock.
-- Erlaeuterungstext für den Mandanten (1-2 Seiten).
-- Hinweise zur Liquiditaetslage und zu offenen Buchungsfragen.
-
 ## Strategie und Praxis-Tipps
 
 - Auswertungsstichtag spaetestens 30 Tage nach Ablauf des Auswertungsmonats vereinbaren — sonst verliert die BWA Steuerungswirkung.
@@ -110,14 +104,6 @@ Die Standardgliederung in fuenf Bloecken (Kontennummern typische SKR-Bereiche, i
 - Honorar nach StBVV § 33 (Buchfuehrung) und § 35 (Lohnbuchfuehrung) abrechnen, Zusatzleistung BWA-Auswertung gesondert.
 - Bei wiederholten Buchungsfehlern Mandanten-Belegabgabe disziplinieren — Checkliste an Mandanten verteilen.
 - Bei Krisensignalen aus BWA: Querverweis zu stb-bwa-sus-bilanz-pruefung und Hinweispflicht § 102 StaRUG pruefen.
-
-## Querverweise
-
-- `stb-bwa-kontenrahmen-skr03-skr04` — Wahl SKR 03 oder SKR 04.
-- `stb-bwa-monatsabschluss-routine` — Routine für die Monats-BWA.
-- `stb-bwa-erlaeuterungstext-mandant` — Erlaeuterungstexte unter der BWA.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung mit BWA SuSa und Bilanz.
-- `stb-bwa-fehlerquellen-haeufig` — typische Fehler beim BWA-Aufbau.
 
 ## Quellen und Updates
 
@@ -161,3 +147,4 @@ Stand: 05/2026.
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

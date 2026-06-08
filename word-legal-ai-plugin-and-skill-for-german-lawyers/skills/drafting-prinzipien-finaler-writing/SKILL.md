@@ -78,12 +78,6 @@ Jeder operative Satz traegt Antwort auf vier Fragen:
 - **Substantivketten.** "Vertragsdurchfuehrungskostenuebernahmeverpflichtung" zerlegen.
 - **Mehrfach-Negationen.** "nicht ohne vorherige Zustimmung" wird zu "nur mit vorheriger Zustimmung".
 
-## Ausgabeformat
-
-- Bewerteter Originaltext mit Markierungen je Satz: K (Klarheit), B (Bestimmtheit), P (Praezision).
-- Umformulierter Vorschlag.
-- Vergleichstabelle alt zu neu.
-
 ## Beispiel
 
 **Original:** "Im Falle, dass die Lieferung nicht ordnungsgemaess erfolgt, koennen vom Besteller alle ihm hieraus erwachsenden Anspruechee gegenueber dem Lieferanten geltend gemacht werden, wobei der Lieferant darauf hingewiesen wird, dass derartige Anspruechee insbesondere auch Schadensersatzanspruechee umfassen koennen."
@@ -97,15 +91,9 @@ Jeder operative Satz traegt Antwort auf vier Fragen:
 
 **Resultat:** 31 Woerter in zwei Saetzen. Tatbestand und Rechtsfolge sind getrennt. Verweise sind eindeutig.
 
-## Querverweise
-
-- `definitionen-klauseln-stringent`
-- `anspruchsgrundlage-und-rechtsfolgen-klauseln`
-- `transparenzgebot-307-bgb` (Fachmodul für AGB-Transparenz)
-- `stil-und-ton-juristische-texte`
-
 ## Quellen (Stand 05/2026)
 
 - § 253 Abs. 2 Nr. 2 ZPO; § 305c Abs. 2 BGB; § 307 Abs. 1 Satz 2 BGB; § 138 Abs. 2 ZPO; siehe gesetze-im-internet.de.
 - Rechtsprechung zum AGB-Transparenzgebot: vom Nutzer zu verifizieren. Keine Aktenzeichen aus Modellwissen.
 - `references/zitierweise.md` für Belegpflicht.
+

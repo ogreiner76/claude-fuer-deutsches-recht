@@ -11,12 +11,6 @@ description: "Geführter Rechtsprechungschat für Selbstvertreter im Sozialgeric
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Dieser Skill hilft, Rechtsprechung im Sozialrecht praktisch nutzbar zu machen. Er soll nicht viele Fundstellen sammeln, sondern die eine oder zwei Entscheidungen finden, die den eigenen Punkt wirklich tragen.
-
-Es werden keine Entscheidungen erfunden. Unsichere Fundstellen müssen live verifiziert werden.
-
 ## Startfragen
 
 | Frage | Warum? |
@@ -48,35 +42,3 @@ Es werden keine Entscheidungen erfunden. Unsichere Fundstellen müssen live veri
 | GdB | Funktionsbeeinträchtigung statt bloßer Diagnose |
 | Berufung | § 144 SGG Wertgrenze, laufende Leistungen, Zulassungsgründe |
 
-## Ausgabeformat
-
-**Ihre Rechtsfrage**
-[Ein Satz.]
-
-**Normanker**
-| Norm | Bedeutung |
-|---|---|
-
-**Rechtsprechungslage**
-| Fundstelle | Kernaussage | Passt? | Verwendung |
-|---|---|---|---|
-
-**In einfacher Sprache**
-[Drei bis fünf kurze Sätze.]
-
-**Schriftsatzbaustein**
-```text
-Nach der Rechtsprechung von [Gericht] kommt es bei [Thema] darauf an, ob [Kernsatz].
-Das ist hier relevant, weil [Tatsache].
-```
-
-**Noch zu prüfen**
-- Fundstelle live verifizieren.
-- Sachverhalt mit Belegen unterfüttern.
-- Gegenargument der Behörde prüfen.
-
-## Qualitätsregeln
-
-- BSG-/BVerfG-Fundstellen nur mit sicherem Aktenzeichen, Datum und Aussage nennen.
-- Keine alten Entscheidungen verwenden, wenn Reformen oder neue BSG-Linien erkennbar sind.
-- Laien erklären, dass Rechtsprechung kein Zauberspruch ist: Sie hilft nur, wenn Sachverhalt und Norm passen.

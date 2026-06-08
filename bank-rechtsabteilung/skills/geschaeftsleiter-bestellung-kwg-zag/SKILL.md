@@ -5,10 +5,6 @@ description: "Geschäftsleiterbestellung nach KWG, ZAG und KAGB tief prüfen: Ab
 
 # Geschäftsleiterbestellung nach KWG und ZAG
 
-## Arbeitsbereich
-
-Geschäftsleiterbestellung nach KWG, ZAG und KAGB tief prüfen: Absichtsanzeige, Vollzugsanzeige, Zuverlässigkeit, fachliche Eignung, Zeitbudget, Lebenslauf, Führungszeugnis, Eignungsmatrix und BaFin-Kommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,10 +47,3 @@ Dieser Skill begleitet die vollständige Geschäftsleiterbestellung bei KWG-Inst
 - Abberufungsverfahren BaFin: § 36 KWG, Anhörung (§ 28 VwVfG), Klagerecht Verwaltungsgericht; aufschiebende Wirkung § 80 VwGO
 - Aufsichtsrat-Mitglied Bank AG: § 25d KWG, Mandatshöchstzahl, kollektiver Sachverstand, EBA/GL/2021/06 Nicht-Exekutiv
 
-## Output
-
-Fit-and-Proper-Selbstauskunftsbogen; Absichtsanzeige-Entwurf mit allen AnzV-Unterlagen; Mandats-Zeitbudget-Tabelle; Risikovermerk bei BaFin-Einwendungsrisiko; Abberufungsschutz-Analyse.
-
-## Quellenregel
-
-gesetze-im-internet.de (KWG, ZAG, AnzV), bafin.de (Merkblatt Geschäftsleiter, Formular GF-KI), eba.europa.eu (EBA/GL/2021/06). Live-Check bei BaFin-Merkblatt Geschäftsleiter (zuletzt aktualisiert 2023) und EBA-Q&A zur Fit-and-Proper-Leitlinie.

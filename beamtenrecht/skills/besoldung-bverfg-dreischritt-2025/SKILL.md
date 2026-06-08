@@ -5,10 +5,6 @@ description: "Vertiefung amtsangemessene Alimentation nach Art. 33 Abs. 5 GG: BV
 
 # Besoldung - BVerfG-Dreischritt, Mindestabstand und Reformstand
 
-## Arbeitsbereich
-
-Vertiefung amtsangemessene Alimentation nach Art. 33 Abs. 5 GG: BVerfG-Linie 2015/2020/2025, Mindestabstand, Prekaritätsschwelle, Drei-Schritt-Prüfung, Reparaturgesetz und Output für Widerspruch, Vorlageanregung und Mandantenmemo. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,16 +53,7 @@ Der Skill nutzt drei Ebenen:
 - Kläger ist Versorgungsempfänger: Übertragbarkeit der Beamten-/Richterlinien genau begründen, nicht behaupten.
 - Akte enthält nur Pressemitteilungen: Entscheidung, Datum, Aktenzeichen und amtliche Quelle nachziehen.
 
-## Output
-
-Der Skill erzeugt wahlweise:
-
-- Kurznotiz „besteht verfassungsrechtliches Besoldungsrisiko?";
-- Widerspruchs- oder Antragstext zur zeitnahen Geltendmachung;
-- Schriftsatzbaustein zur Vorlage nach Art. 100 GG;
-- tabellarische Jahresprüfung;
-- Mandantenbrief in einfacher Sprache.
-
 ## Zitierhygiene
 
 Keine BeckRS-, juris- oder Kommentarzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle. Bekannte Anker: BVerfG 05.05.2015 - 2 BvL 17/09 u.a.; BVerfG 04.05.2020 - 2 BvL 4/18; BVerfG 04.05.2020 - 2 BvL 6/17 u.a.; BVerfG 17.09.2025 - 2 BvL 20/17 u.a. Vor Ausgabe wird die konkrete Quelle live geprüft.
+

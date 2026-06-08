@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 201
 
 # PECL, DCFR und PICC: Soft-Law-Vergleich
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. Draft Common Frame of Reference (DCFR). Anwendungsfelder, Gemeinsamkeiten, Divergenzen und Relevanz für grenzüberschreitende Verträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Neben UNIDROIT PICC existieren europäische Soft-Law-Instrumente: die Principles
 - Europarechtlicher Kontext: DCFR als Auslegungsmaterial für EU-Richtlinien
 - Für praktische Vertragsgestaltung: PICC bevorzugen (mehr Schiedspraxis)
 
-## Output
-
-- Vergleichstabelle: PICC / PECL / DCFR — Schlüsselthemen
-- Empfehlung: wann welches Instrument in Schiedsklausel
-- Literaturliste: Kommentare und Datenbanken
-
-## Quellenregel
-
-PICC: unidroit.org. PECL: cisg.law.pace.edu (Text). DCFR: ec.europa.eu. CENTRAL: trans-lex.org. Schrifttum: Lando/Beale PECL (2000). Unsicherheit bleibt sichtbar.

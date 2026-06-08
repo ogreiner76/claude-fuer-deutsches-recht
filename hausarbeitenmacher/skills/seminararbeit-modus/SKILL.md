@@ -5,10 +5,6 @@ description: "Student schreibt Seminararbeit mit persönlicher Lekture durch Leh
 
 # Seminararbeit-Modus
 
-## Arbeitsbereich
-
-Student schreibt Seminararbeit mit persönlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Forschungsfrage These Argumentation Disputation-Vorbereitung. Output Seminararbeit-Struktur Forschungsfragen-Entwurf. Abgrenzung zu hausarbeit-workflow-start (Standard-Hausarbeit). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Student schreibt Seminararbeit mit persönlicher Lekture durch Lehrkraft: Forsch
 - § 1 Abs. 1 BRAO — Anwaltliche Unabhaengigkeit als Ausbildungsziel
 - §§ 133, 157 BGB — Auslegungs-Methoden als inhaltlicher Massstab
 - § 242 BGB — Treu und Glauben: auch wissenschaftliche Auseinandersetzung muss fair und vollstaendig sein
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Eine Seminararbeit unterscheidet sich von einer Hausarbeit wesentlich — in Erwartung, Tiefe, Form und Adressat. Dieser Skill schaltet das Plugin in den **Seminararbeit-Modus**, wenn Du nicht eine Falllösung, sondern eine **wissenschaftliche Auseinandersetzung** schreibst.
 
 ## Schritt 1 — Was ist eine Seminararbeit?
 
@@ -249,3 +238,4 @@ Die Lehrkraft wird Deinen Vortrag und Deine Arbeit hören — und manche werden 
 - `meinungsstreit-darstellen` — Streit-Darstellung wissenschaftlich
 - `methodenlehre-auslegung` — Methodische Grundlagen
 - `rechtstheorie-rechtsphilosophie-anbindung` — Wissenschaftliche Tiefe
+

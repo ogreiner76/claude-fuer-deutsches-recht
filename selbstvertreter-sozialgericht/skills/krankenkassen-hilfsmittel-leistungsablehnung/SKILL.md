@@ -5,9 +5,6 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 
 # Krankenkassen Hilfsmittel Leistungsablehnung
 
-## Arbeitsbereich
-
-**Krankenkassen Hilfsmittel Leistungsablehnung** ordnet den Fall über die tragenden Prüfungslinien: Krankenkassen-Hilfsmittel nach § 33 SGB V, Streit mit der Krankenkasse nach SGB V, Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Krankenkassen Hilfsmittel Leistungsablehnung im Selbstvertretung a
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `krankenkassen-hilfsmittel-33-sgb-v`
@@ -234,26 +232,9 @@ Wie bei jeder Klage: Verpflichtungs- und Anfechtungsklage kombiniert.
 - Aerztliche Atteste alt → aktuell halten
 - Krankengeld zu spaet uebergeleitet → fruehzeitig planen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch allgemein
-- `eilantrag-krankenkassen-leistung` — Eilantrag
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-- `medizinische-gutachten-strategie-laien` — Gutachten
-- `klagebegruendung-laienleitfaden` — Klage
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmittel-Verzeichnis online aktuell. MD seit 2022.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `krankenkassen-mds-stellungnahme`
 
@@ -425,3 +406,4 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 ## Vorlage Sonderkuendigung
 
 "Ich kuendige hiermit meine Mitgliedschaft bei der [Krankenkasse] zum [Datum] nach § 175 Abs. 4 SGB V. Grund: Erhebung/Erhoehung des Zusatzbeitrags ab [Datum]. Bitte bestaetigen Sie den Eingang."
+

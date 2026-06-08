@@ -5,10 +5,6 @@ description: "Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen
 
 # Sekretariats-Tagesbrief
 
-## Arbeitsbereich
-
-Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt und Sekretariat für den Tag brauchen — Fristen heute und in der naechsten Woche Vorfristen aus dem Fristenbuch eingegangene Post vom Vortag offene Mandantenrückrufe Termine Gerichts- und Behördentermine Wiedervorlagen Geburtstage des Tages Honorarrückstaende über Schwelle. Strukturiert zur schnellen Sichtung in fuenf Minuten. Bricht Information so herunter dass Anwalt entscheiden kann was Prioritaet hat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt un
 - § 51 BRAO — Haftung für Organisationspflichtverletzungen im Sekretariat
 - § 517 ZPO — Berufungsfrist (Notfrist): muss im Tagesbrief an erster Stelle erscheinen
 - § 222 ZPO — Fristberechnung: korrekte Berechnung als Grundlage des Tagesbriefs
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Morgens den Tag strukturieren. Fünf Minuten Lesezeit; danach klare Prioritaeten.
 
 ## Aufbau
 
@@ -150,3 +139,4 @@ Az 2025/0188 — Rechnung 2025/00451 vom 14.11.2025 über 1.850 EUR
 - `tagesbrief-<datum>.md` und PDF.
 - Einträge für Erinnerungen im Kalendersystem.
 - Tagesbrief-Archiv unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/tagesbriefe/`.
+

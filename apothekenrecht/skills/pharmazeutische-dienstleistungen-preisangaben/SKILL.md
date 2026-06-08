@@ -5,10 +5,6 @@ description: "Pharmazeutische Dienstleistungen Vergütung: prüft die einschläg
 
 # Pharmazeutische Dienstleistungen Vergütung
 
-## Arbeitsbereich
-
-Pharmazeutische Dienstleistungen Vergütung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,15 +91,6 @@ Eingaben:
 - Werbung mit pDL als "Gesundheits-Check" überschreitet HWG-Grenzen.
 - Dokumentation nicht patientenbezogen — bei Stichprobenprüfung nicht nachweisbar.
 
-## Querverweise
-
-- `amts-medikationsanalyse-beratungspflicht` (Beratungspflicht)
-- `impfleistungen-in-apotheken` (Impfdienstleistung)
-- `datenschutz-in-apotheke-gesundheitsdaten` (DSGVO)
-- `qualitaetsmanagement-qms-sops` (SOP-Pflege)
-- `kooperation-arzt-apotheke-antikorruption` (Schnittstelle Arzt)
-- `apothekenbetriebsordnung-grundpflichten` (Rahmen)
-
 ## Quellen Stand 06/2026
 
 - SGB V §§ 1a, 31, 73, 129 Abs. 5e.
@@ -112,3 +99,4 @@ Eingaben:
 - DSGVO Art. 9; BDSG.
 - ABDA-Fortbildungskataloge (vom Anwender zu verifizieren).
 - Berufsordnungen Apothekerkammern.
+

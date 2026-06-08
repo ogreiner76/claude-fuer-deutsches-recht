@@ -5,10 +5,6 @@ description: "Einfuehrung VO (EU) 2021/782 Fahrgastrechte Eisenbahn. Anwendungsb
 
 # Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn
 
-## Zweck
-
-Norm-Übersicht und systematische Einordnung für die Mandatsarbeit im Fahrgastrechte-Plugin. Liefert die Schwellen, Anwendungsbereiche und Befreiungstatbestände auf einen Blick. Ergänzende Referenzen: `references/vo-2021-782-uebersicht.md`, `references/evo-2023-uebersicht.md`.
-
 ## Rechtsquellen
 
 - **VO (EU) 2021/782** vom 29. April 2021 — Neufassung, in Kraft seit 7. Juni 2023, ersetzt VO (EG) 1371/2007. ABl. L 172 vom 17.5.2021, S. 1. [eur-lex.europa.eu (CELEX 32021R0782)](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32021R0782).
@@ -157,6 +153,3 @@ Bei Einsatz dieses Skills als Antwort auf eine Mandanten- oder Praxisfrage:
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -78,14 +78,6 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 - Keine KMU-Differenzierung
 - "Vorsorgegrundsatz" als Pauschalbegruendung
 
-## Querverweise
-
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-alternativen-pruefung-keine-regelung-soft-law`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-praktikabilitaet-vollzug-test`
-- `legistik-werkstatt/verfassungsmaessigkeit-quercheck`
-
 ## Quellen Stand 06/2026
 
 - Art. 20 Abs. 3 GG (Rechtsstaatsprinzip)
@@ -94,3 +86,4 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

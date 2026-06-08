@@ -5,10 +5,6 @@ description: "Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Dis
 
 # Bindungswirkung Strafurteil im Disziplinarverfahren § 23 BDG
 
-## Arbeitsbereich
-
-Skill zur Bindungswirkung des rechtskraeftigen Strafurteils im Disziplinarverfahren nach § 23 BDG und den Landesdisziplinargesetzen. Klaert den Umfang der tatsaechlichen Feststellungen den Loesungsbeschluss bei Anhaltspunkten für Fehler die Bedeutung des Strafbefehls und die Grenzen bei Einstellung nach §§ 153 153a StPO. Behandelt die Konstellation Aussagewert eines Freispruchs und die Bindungswirkung in der Bemessungsfrage. Liefert Schriftsatzbausteine für die disziplinarrechtliche Verteidigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,3 +69,4 @@ Skill zur Frage, in welchem Umfang ein Strafurteil oder ein Strafbefehl in das D
 ## 7. Beispiel (Kurzfassung)
 
 Mandant rechtskraeftig wegen Untreue verurteilt; Strafkammer hat aber ein zentrales Indiz uebersehen, das die Hoehe des Schadens widerlegen wuerde. Skill liefert Antrag auf Loesung von den tatsaechlichen Feststellungen mit Begruendung.
+

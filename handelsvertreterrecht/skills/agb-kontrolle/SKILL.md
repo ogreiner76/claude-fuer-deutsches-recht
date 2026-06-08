@@ -65,10 +65,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Ausgleichsausschlussklauseln als wirksam behandelt, obwohl § 89b Abs. 4 HGB diese verbietet.
 - Nichtigkeit der Klausel führt nicht automatisch zur Gesamtnichtigkeit des Vertrags (§ 306 BGB).
 
-## Output
-
-AGB-Prüfvermerk mit Bewertung jeder Klausel, Empfehlung zur Vertragsanpassung, Formulierungsvorschläge für rechtssichere Klauseln.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.

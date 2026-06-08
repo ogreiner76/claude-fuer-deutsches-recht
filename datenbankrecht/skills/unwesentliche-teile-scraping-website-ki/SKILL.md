@@ -59,14 +59,6 @@ Analysiert den Kumulations-Tatbestand des § 87b Abs. 1 S. 2 UrhG: Wiederholte u
 - Zeitlicher Nachweis der Systematik erfordert lückenlose Logs über längere Zeiträume — Einmalsicherungen sind unzureichend.
 - Anspruch verjährt nach § 102 UrhG (regelmäßige Verjährungsfrist § 195 BGB, 3 Jahre) — Fristbeginn ab Kenntnis prüfen.
 
-## Output
-
-- Kumulationsnachweis-Tabelle (Abrufprotokoll nach Zeit und Volumen)
-- Systematizitäts-Analyse (Muster, Automatisierungshinweise)
-- Unterlassungs- und Auskunftsschreiben
-- Sachverhaltsbeschreibung für einstweilige Verfügung
-- Beweissicherungsprotokoll (technische Mittel)
-
 ## Quellen
 
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
@@ -75,3 +67,4 @@ Analysiert den Kumulations-Tatbestand des § 87b Abs. 1 S. 2 UrhG: Wiederholte u
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
 - [§ 102 UrhG Verjährung — dejure.org](https://dejure.org/gesetze/UrhG/102.html)
+

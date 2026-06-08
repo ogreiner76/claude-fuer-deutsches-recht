@@ -5,10 +5,6 @@ description: "Skill zu Anforderungen an strukturierte Auswahlgespraeche und Asse
 
 # Auswahlgespraech — Dokumentationspflicht und Verfahrensfehler
 
-## Arbeitsbereich
-
-Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen für alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine für Anfechtung und Konkurrenteneilantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,3 +69,4 @@ Skill für Bewerber, die im Auswahlverfahren ein strukturiertes Auswahlgespraech
 ## 7. Beispiel (Kurzfassung)
 
 Konkurrentensituation um A15-Stelle. Auswahlgespraech entscheidet, da Beurteilungen gleich. Mandant ruegt: unterschiedliche Fragenkataloge, kein Protokoll, Kommissionsmitglied war im Vorjahr Vorgesetzter der Konkurrentin. Skill liefert Anordnungsanspruch für einstweilige Anordnung.
+

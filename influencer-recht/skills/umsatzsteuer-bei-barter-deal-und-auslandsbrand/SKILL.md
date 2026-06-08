@@ -5,10 +5,6 @@ description: "Influencer-Recht: Umsatzsteuer bei Barter Deals und Kooperationen 
 
 # Influencer-Recht: Umsatzsteuer – Barter Deal und Auslands-Brand
 
-## Arbeitsbereich
-
-Influencer-Recht: Umsatzsteuer bei Barter Deals und Kooperationen mit ausländischen Brands – Leistungsaustausch, Reverse Charge, OSS. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,3 +71,4 @@ Barter Deals (Ware gegen Content) und grenzüberschreitende Kooperationen stelle
 - Rechnungsvorlage (DE-Brand / EU-Brand / Drittland-Brand)
 - Steuercheck: Reverse Charge ja/nein
 - EÜR-Buchungsnotiz für Barter Deal
+

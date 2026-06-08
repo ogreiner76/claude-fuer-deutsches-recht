@@ -5,10 +5,6 @@ description: "Weltraummüll-Prävention – IADC-Leitlinien, 25/5-Jahres-Regel, 
 
 # Weltraumrecht: Weltraummüll: Debris Mitigation und Betreiberpflichten
 
-## Arbeitsbereich
-
-Weltraummüll-Prävention – IADC-Leitlinien, 25/5-Jahres-Regel, Active Debris Removal, Betreiberpflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,3 +111,4 @@ Das Rechtsgebiet berührt folgende Kernthemen: Debris Mitigation, 25-Jahres-Deor
 - UNOOSA: https://www.unoosa.org/
 - BNetzA: https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/start.html
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
+

@@ -5,10 +5,6 @@ description: "Incoterms-Wahl bei Lieferungen aus/nach China: FOB/CIF/DDP-Fallstr
 
 # Incoterms China-Handel: Auswahl und Risikobewertung
 
-## Arbeitsbereich
-
-Incoterms-Wahl bei Lieferungen aus/nach China: FOB/CIF/DDP-Fallstricke im China-Handel, Risikoübergangspunkte, Zuständigkeit für chinesische Exportzollanmeldung, Versicherungsrisiken auf Seefracht, Abgrenzung Incoterms zu Eigentumsübergang (CISG Art. 67). Output: Incoterms-Bewertungsmatrix China-Handel und Vertragsklausel-Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,13 +80,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
 
-## Output
-
-Prüfbericht Incoterms China Shipment, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
-
 ## Quellen
 
 Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
@@ -101,3 +90,4 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU-VO 2019/452 EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0452)
 - [LkSG Volltext](https://www.gesetze-im-internet.de/lksg/)
 - [BMWK China-Strategie](https://www.bmwk.de/Redaktion/DE/Artikel/Aussenwirtschaft/china-strategie.html)
+

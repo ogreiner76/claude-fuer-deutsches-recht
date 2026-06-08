@@ -5,10 +5,6 @@ description: "HOAI-Fachfrage: Fördermittel, Zuwendungsbescheid, Vergabebindunge
 
 # Fördermittel, Vergabebindung Und Rückforderung
 
-## Arbeitsbereich
-
-HOAI-Fachfrage: Fördermittel, Zuwendungsbescheid, Vergabebindungen, Kostensteigerung, Mittelabruf, Dokumentationspflicht und Rückforderungsrisiko in Planung und Bauüberwachung prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ HOAI-Fachfrage: Fördermittel, Zuwendungsbescheid, Vergabebindungen, Kostensteig
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Dieses Fachmodul bei Kita, Schule, Kommune, Verein, WEG oder gemeinnützigem Träger, wenn Fördermittelbedingungen die Planung, Vergabe und Abrechnung steuern.
 
 ## Prüffragen
 
@@ -32,10 +24,6 @@ Dieses Fachmodul bei Kita, Schule, Kommune, Verein, WEG oder gemeinnützigem Tr�
 ## HOAI-Schnittstelle
 
 Fördermittelmanagement ist nicht automatisch jede Grundleistung. Prüfe, ob Beratung, Nachweisführung oder Mittelabruf als besondere Leistung gesondert vereinbart werden müssen.
-
-## Output
-
-Fördermittel-Risikoregister mit Auflage, Nachweis, Frist, verantwortlicher Person, Bau-/Honorarfolge und Text für Zuwendungsgeber.
 
 ## Normen und Rechtsprechung
 
@@ -65,3 +53,4 @@ Fördermittel-Risikoregister mit Auflage, Nachweis, Frist, verantwortlicher Pers
 - Leistungsphasen 1-9 trennscharf benennen; keine Pauschalvergueterung ohne Bezug zu §§ 8, 10, 14 HOAI.
 - Nach EuGH C-377/17 sind Mindest- und Hoechstsaetze unverbindlich; Honorarvereinbarung dennoch nach § 7 HOAI 2021 schriftlich.
 - Anrechenbare Kosten nach § 10 HOAI gegen DIN 276 abgleichen; Kostenfortschreibung dokumentieren.
+

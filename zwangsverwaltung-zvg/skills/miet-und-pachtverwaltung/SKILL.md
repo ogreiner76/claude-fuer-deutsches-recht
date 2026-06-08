@@ -17,12 +17,6 @@ Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsuebern
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Ordnet Miet- und Pachtverhältnisse im beschlagnahmten Objekt mit Kommunikation, Zahlstellen, Kautionen und Vertragsrisiken.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
-
 ## Startet bei
 
 - Mieter oder Pächter vorhanden sind
@@ -78,9 +72,6 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 § 152 ZVG (Rechte/Pflichten Verwalter) → § 153 ZVG (Einziehung Nutzungen) → § 57 ZVG (Schutz der Mieter) → §§ 535 566 BGB (Mietrecht) → §§ 8-9 ZwVwV (laufende Verwaltung) → § 581 BGB (Pachtvertrag) → §§ 596-599 BGB (Pächterschutz)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Miet-/Pachtverwaltung
 
 1. Liegen schriftliche Mietverträge vor? (Alle Einheiten vollständig erfasst)
@@ -112,3 +103,4 @@ Ihre vertraglichen Rechte bleiben unberührt. Mängelanzeigen richten Sie bitte 
 
 [UNTERSCHRIFT]
 ```
+

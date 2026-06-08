@@ -65,10 +65,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - RL 86/653/EWG-Schutz bei Drittstaats-Rechtswahl verkannt.
 - Tätigkeitsort entscheidend für § 92c HGB — nicht Sitz des Handelsvertreters.
 
-## Output
-
-Kollisionsrechtliches Gutachten, Rechtswahl-Klausel Entwurf, Gerichtsstandsanalyse.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +85,4 @@ ergänzen das Recht praxisnah.
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [EuGVVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
 - [Dejure § 92c HGB](https://dejure.org/gesetze/HGB/92c.html)
+

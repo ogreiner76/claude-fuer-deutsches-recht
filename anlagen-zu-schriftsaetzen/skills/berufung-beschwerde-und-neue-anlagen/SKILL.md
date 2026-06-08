@@ -17,12 +17,7 @@ Arbeitsfokus: **Berufung, Beschwerde und neue Anlagen**. Prüfe diese Anker am S
 - `§ 296 ZPO` — Zurückweisung verspäteten Vorbringens.
 - `§ 139 ZPO` — gerichtlicher Hinweis.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill hilft, wenn die Akte in die zweite Instanz wandert und alte K-Nummern, neue BB-/BK-Nummern und vorinstanzliche Anlagen gleichzeitig im Spiel sind.
 
 ## Mindestinput
 
@@ -76,3 +71,4 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 - Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
 - Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
 - Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
+

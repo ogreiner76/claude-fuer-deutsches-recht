@@ -16,10 +16,6 @@ description: "Vorlagetabelle für Portfolio-Review von Immobilienvertraegen im 3
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Immobilien-Portfolioanalyse. Pro Flurstück dieselben 16 Fragen, drei Perspektiven übereinander.
-
 ## Spalten (16 Datenpunkte)
 
 ### Bestandsverzeichnis
@@ -89,3 +85,4 @@ Baulasten existieren NICHT im Grundbuch. Querverweis mit Baulastenverzeichnis zw
 ## Ausgabe
 
 Würfel-Schema fix und fertig. Direkt einsatzbereit.
+

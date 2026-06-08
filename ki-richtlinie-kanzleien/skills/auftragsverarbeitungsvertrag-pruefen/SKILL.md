@@ -25,16 +25,6 @@ Jeder KI-Dienstleister, der im Auftrag der Kanzlei personenbezogene Daten verarb
 
 Art. 28 Abs. 1 DSGVO: Beauftragung nur von Auftragsverarbeitern mit hinreichenden Garantien für technisch-organisatorische Maßnahmen. Art. 28 Abs. 3 DSGVO: Pflichtinhalt des AVV (Gegenstand, Dauer, Art, Zweck, Weisungsgebundenheit, Vertraulichkeit, TOMs, Unterauftragsverarbeiter, Betroffenenrechte, Löschung/Rückgabe, Audits). Art. 28 Abs. 4 DSGVO: Unterauftragsverarbeiter müssen denselben Pflichten unterliegen. Art. 46 DSGVO: Anforderungen für Drittlandtransfers (SCC, Angemessenheitsbeschluss). Art. 83 Abs. 4 DSGVO: Bußgelder bis zu 10 Millionen Euro oder 2 % des Jahresumsatzes bei AVV-Verstößen. Art. 82 DSGVO: Schadensersatzhaftung.
 
-## Vorgehen
-
-1. **AVV-Existenz prüfen**: Besteht überhaupt ein schriftlicher (oder elektronischer) AVV mit dem KI-Anbieter?
-2. **Pflichtinhalte nach Art. 28 Abs. 3 DSGVO verifizieren**: Sind alle gesetzlich vorgeschriebenen Regelungspunkte enthalten?
-3. **Subprozessoren-Liste einholen**: Welche Unterauftragnehmer setzt der KI-Anbieter ein? Sind diese ebenfalls durch AVV gebunden? Wird eine aktuelle Liste bereitgestellt?
-4. **TOMs prüfen**: Sind die technisch-organisatorischen Maßnahmen konkret beschrieben und dem Stand der Technik entsprechend?
-5. **Drittlandtransfer-Regelung verifizieren**: Verarbeitet der Anbieter Daten außerhalb des EWR? Falls ja: Welche Rechtsgrundlage für den Drittlandtransfer (Angemessenheitsbeschluss, SCC, TIA)?
-6. **Audit- und Kontrollrechte sicherstellen**: Räumt der AVV der Kanzlei das Recht ein, die Einhaltung der DSGVO durch den Anbieter zu überprüfen oder überprüfen zu lassen?
-7. **Löschfristen definieren**: Verpflichtet der AVV den Anbieter zur Löschung oder Rückgabe aller Daten nach Vertragsende?
-
 ## Vorlagentext / Bausteine
 
 **AVV-Prüfcheckliste:**

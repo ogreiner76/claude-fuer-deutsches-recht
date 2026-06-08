@@ -168,13 +168,7 @@ Rangfolge: Erst Hauptangriff (Verjährung, weil sie Klage komplett zu Fall bring
 - "Aufrechnung erklaere ich im Termin." → Frueh erklaeren, sonst Praeklusion.
 - "Zurueckbehaltungsrecht ohne konkrete Gegenleistung." → Klare Bezeichnung der Gegenleistung erforderlich.
 
-## Querverweise
-
-- `klageerwiderung-checkliste-alle-punkte` — Vollstaendigkeit.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung pruefen.
-- `widerklage-33-zpo` — Eigene Forderung als Widerklage.
-- `substantiiertes-bestreiten-138-iv-zpo` — Bestreiten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 214, 320, 387, 273 BGB unveraendert. Aufrechnungs-Erklaerung kann im AGB ausgeschlossen sein — verifizieren.
+

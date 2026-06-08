@@ -72,13 +72,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Systematischer Überblick mit Quellenzuordnung
-- Epochentabelle mit Juristen und Hauptwerken
-- Quellenmatrix für CIC-Bücher
-- Einstiegsmemo für Hausarbeit oder Seminar
-
-## Quellenregel
-
-CIC-Texte via archive.org (Mommsen-Krüger, gemeinfrei). Gaius via ITEAL. Sekundär: Kaser, Kunkel/Schermaier, Wieacker. Interpolationsunsicherheiten kennzeichnen.

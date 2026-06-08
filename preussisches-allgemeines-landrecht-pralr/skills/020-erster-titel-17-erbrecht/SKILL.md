@@ -5,10 +5,6 @@ description: "PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Fo
 
 # PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge
 
-## Aufgabe
-
-Dieser Skill bearbeitet **Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
 ## Kaltstart in 6 Fragen
 
 1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
@@ -57,10 +53,3 @@ ALR I 12 / II 2 regeln Erbrecht: gesetzliche Erbfolge, Testierfreiheit, Pflichtt
 2. Nach 1900? BGB.
 3. Familienfideikommiss? — Aufloesungsfrist und Sondervermoegen pruefen.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

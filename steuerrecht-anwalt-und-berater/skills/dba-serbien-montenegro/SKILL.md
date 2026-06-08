@@ -76,12 +76,6 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbescheinigung der serbischen Poreska uprava bzw. der Steuerverwaltung Montenegro als Anlage.
 
-## Output
-
-- Mandanten-Memo.
-- Berechnungsbeispiel.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Diaspora-Pensionaere mit DRV-Rente Wohnsitz Serbien/Montenegro: DBA klaert Wohnsitzstaat-Prinzip.
@@ -155,12 +149,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Jugoslawien 1987 Fundstellen, Nachfolge-Notenwechsel (Serbien 1997, Montenegro 2011) verbindlich zitieren. Bei DRV-Rente Bescheinigung als Anlage.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-slowenien`, `stb-dba-kroatien`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Jugoslawien 26.03.1987, BGBl. 1988 II S. 744, in Kraft 01.01.1989. Fortgeltung für Serbien: BGBl. 1997 II S. 961; für Montenegro: BGBl. 2011 II S. 745. Dividenden (Art. 11) 15%, Zinsen (Art. 12) 0%, Lizenzen (Art. 13) 10%. MLI: nicht anwendbar (keine Unterzeichner).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1988 II S. 744 bestaetigt (BMF-DBA-Stand 01.01.2026, NWB); Notenwechsel Serbien BGBl. 1997 II S. 961 und Montenegro BGBl. 2011 II S. 745 bestaetigt (BMF); BFH I R 81/13 gestrichen (Urteil betrifft anderes DBA); BMF Nachfolge allgemein gefasst; Quellensteuer Art. 11/12/13 bestaetigt (doppelbesteuerung.eu); MLI-Ausschluss bestaetigt (BMF-DBA-Stand) -->
+

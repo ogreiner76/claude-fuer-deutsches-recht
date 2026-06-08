@@ -170,14 +170,7 @@ Arbeitsfokus: **Forschungszulage — Allgemein**. Prüfe diese Anker am Sachverh
 - `§ 10 FZulG` — Festsetzung/Auszahlung.
 - `§ 90 Abs. 1 AO` — Mitwirkung und Belege.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- Kurzbild plus Auswahl des passenden Fachmodule.
-- Erste grobe Förderchance.
-- Liste der unverzichtbaren Eingaben für den Folge-Skill.
 
 ## Quellen Stand 05/2026
 
@@ -188,3 +181,4 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zitierweise: `references/zitierweise.md`
 
 Konkrete Beträge, Fristen und KMU-Definition vom Antragsteller vor Einreichung live mit aktueller Gesetzesfassung und BSFZ-Portal abgleichen.
+

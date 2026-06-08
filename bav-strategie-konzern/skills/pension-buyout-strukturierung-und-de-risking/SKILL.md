@@ -5,10 +5,6 @@ description: "Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an 
 
 # Pension Buyout Strukturierung und De-Risking
 
-## Arbeitsbereich
-
-Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -221,3 +217,4 @@ D. RECHTLICHE DOKUMENTATION
 - → `drei-stufen-theorie-eingriffsanalyse` — Eingriff in Versorgungsrechte durch Ablösung
 
 ## Ergaenzende Rechtsprechung (v14.2)
+

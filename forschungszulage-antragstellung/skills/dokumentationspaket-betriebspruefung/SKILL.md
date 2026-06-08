@@ -157,23 +157,7 @@ Arbeitsfokus: **Dokumentationspaket für Außenprüfung**. Prüfe diese Anker am
 - `§ 10 FZulG` — Festsetzung/Auszahlung.
 - `§ 90 Abs. 1 AO` — Mitwirkung und Belege.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- Inhaltsverzeichnis der Prüfermappe.
-- Fehlende-Belege-Liste mit Verantwortlichen.
-- Plausibilitätscheck Stunden/Kosten/Projektfortschritt.
-- Mandanten-E-Mail zur Nachforderung der offenen Belege.
-- Verfahrensdokumentations-Memo.
-
-## Querverweise
-
-- `fz-bemessungsgrundlage-2026` für die Personalkostenformel.
-- `fz-bsfz-bescheinigung-projektbeschreibung` als Quelle der Projektakte.
-- `fz-kumulierung-beihilfen-agvo` für das Kumulierungsblatt.
-- `fz-roadmap-mehrjahresantrag` für die jährliche Wiederholungsroutine.
 
 ## Quellen Stand 05/2026
 
@@ -182,10 +166,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - FZulG (Belegpflichten).
 - `references/forschungszulage-quellen-und-zahlen.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

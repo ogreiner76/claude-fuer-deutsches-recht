@@ -5,10 +5,6 @@ description: "Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragskl
 
 # Fahrzeugflotte und Telematik: Datenstrategie und Compliance
 
-## Arbeitsbereich
-
-Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragsklauseln, Datenschutz-Compliance, Betriebsvereinbarung und Flottenauswertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragsklauseln, Datens
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Flottentelematik liefert wertvolle Daten für Kostenoptimierung, Sicherheit und Wartungsplanung – aber sie birgt erhebliche Datenschutzrisiken. Dieser Skill bearbeitet technische Telematikstrategie mit rechtlicher Compliance.
 
 ## Telematikdaten: Kategorien und Verwendung
 
@@ -109,3 +101,4 @@ Flottentelematik liefert wertvolle Daten für Kostenoptimierung, Sicherheit und 
 - **Datenschutzinformation Fahrer**: Art. 13 DSGVO für Flottenleasing
 - **AVV-Telematik**: Muster für LN mit Telematik-Dienstleister
 - **Telematik-KPI-Dashboard**: Excel-Vorlage mit Flottenauswertung
+

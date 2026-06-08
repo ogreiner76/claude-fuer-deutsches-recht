@@ -17,10 +17,6 @@ Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstae
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Bewegliche Sachen des Schuldners pfänden, in Verwahrung nehmen und verwerten. Oft die ergiebigste Methode bei Selbstständigen oder Unternehmen, aber bei Privathaushalten in der Praxis selten lukrativ.
-
 ## Startet bei
 
 - Titel + Klausel + Zustellung grün
@@ -69,23 +65,6 @@ Die häufigsten Fehlbewertungen:
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-```
-MOBILIAR-AUFTRAG [Mandant] gegen [Schuldner], GV [Bezirk]
-
-Titel: [Art, Datum]
-Forderung: EUR Haupt + EUR Zinsen + EUR Kosten
-Modul: [1 / 1+2 / 1+2+3]
-Anlaufstelle: [Wohnung Adresse / Geschäft / KFZ]
-Durchsuchungsanordn: [nicht erforderlich / § 758a ZPO beantragt]
-Erwartete Pfandstücke: [KFZ, Maschinen, Lager, ...]
-Voraussichtliche Kost: EUR x (GvKostG)
-
-NÄCHSTER SCHRITT: GV-Termin abwarten
-WIEDERVORLAGE: DD.MM.JJJJ
-```
-
 ## Qualitätsgates
 
 - Niemals Mobiliarauftrag, wenn offensichtlich nur § 811-Gegenstände vorhanden – Kostenfalle.
@@ -93,10 +72,3 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Niemals Verwertung von Hochzeitsringen oder Tieren.
 - Bei Selbstständigen: Berufsausübungsschutz bedenken, sonst Existenzgefährdung mit § 765a-Risiko.
 
-## Querverweise
-
-- `zv-titel-klausel-zustellung`
-- `zv-vermoegensauskunft-gv` – wenn Sachpfändung erfolglos
-- `zv-pfaendungstabelle-2025` (für Bargeld)
-- `zv-abwehr-schuldner` – Schuldnersicht
-- `zv-raeumung-885` – ähnliche GV-Logik

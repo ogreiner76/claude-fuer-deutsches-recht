@@ -5,10 +5,6 @@ description: "Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sek
 
 # AWG/AWV-Investitionsprüfung: Verfahren und Fallgruppen
 
-## Arbeitsbereich
-
-Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgruppen KRITIS/Technologie/Medien. Output: AWV-Prüfschema und Antragsunterlage-Gerüst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,13 +79,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Vertragspartner China: Welche Interessen und Risikobewertungen hat die chinesische Seite?
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
-
-## Output
-
-Prüfbericht Außenwirtschaftsrecht, Risiko-Ampel, Handlungsempfehlung, ggf. Behördenkorrespondenz-Entwurf.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
 
 ## Quellen
 

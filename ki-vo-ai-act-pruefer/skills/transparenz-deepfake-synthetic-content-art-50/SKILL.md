@@ -22,13 +22,6 @@ description: "Art. 50 KI-VO für Chatbots, Deepfakes und synthetische Inhalte: N
 5. Gibt es Ausnahmen oder besondere journalistische/künstlerische Kontexte?
 6. Welche Plattformregeln gelten zusätzlich?
 
-## Output
-
-- Kennzeichnungsentscheidung.
-- Musterhinweise.
-- Freigabeprozess für Marketing/PR.
-- Incident-Plan bei falsch oder nicht gekennzeichnetem Material.
-
 ## Grundsatz
 
 Kennzeichnung soll informieren, nicht stigmatisieren. Der Hinweis muss dort stehen, wo er für Betroffene wirklich wahrnehmbar ist.
@@ -39,3 +32,4 @@ Kennzeichnung soll informieren, nicht stigmatisieren. Der Hinweis muss dort steh
 - **Dokumentationslogik:** Schreibe nicht nur ein Ergebnis, sondern eine auditfähige Begründung mit Systembeschreibung, Datenfluss, Risiko, Governance, menschlicher Aufsicht und Restunsicherheit.
 - **Quellenbremse:** Normtext, Leitlinien, harmonisierte Normen und Behördenpraxis nur mit Datum/Quelle; ISO-/DIN-Bezüge als Prüfauftrag kennzeichnen, wenn nicht im Mandat belegt.
 - **Output:** KI-System-Check, Hochrisiko-Matrix, Grundrechte-/Transparenznotiz oder Behördenkommunikation.
+

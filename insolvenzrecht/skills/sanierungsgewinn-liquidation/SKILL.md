@@ -5,10 +5,6 @@ description: "Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfo
 
 # Sanierungsgewinn — Liquidation statt Plan, Steuer-Folgen
 
-## Arbeitsbereich
-
-Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermoegenslosigkeit bestehen. OFD Frankfurt: Liquidationsbeschluss allein ist kein konkludenter Verzicht. Entscheidungsmatrix mit Steuersicht und Mustertexte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -169,21 +165,6 @@ Liquidation herleiten will, hat schlechte Karten.
 5. Bei Personengesellschaft die Gesellschafter-Haftung Paragraph 128 HGB vergessen.
 6. Paragraph 11 KStG-Liquidationszeitraum nicht beachtet.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-uebertragende-sanierung-asset-deal` — Asset Deal als Hybrid.
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — Plan-Schiene.
-- `insol-sanierungsgewinn-finanzamt-im-insolvenzverfahren` — FA-Position.
-- `insol-sanierungsgewinn-restschuldbefreiung-und-3a-estg` — natuerliche Person.
-
-In anderen Plugins:
-
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt.
-- `steuerrecht-anwalt-und-berater` — Liquidationsbesteuerung.
-- `grosskanzlei-corporate-ma` — Distressed-M-und-A.
-
 ## Quellen Stand 06/2026
 
 - Paragraphen 199, 207 InsO.
@@ -195,3 +176,4 @@ In anderen Plugins:
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 - OFD Frankfurt a. M.: Liquidationsbeschluss allein ist kein konkludenter Verzicht (Verlautbarung der OFD — Aktenzeichen/Datum vom Anwender mit aktueller OFD-Veroeffentlichung zu pruefen).
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

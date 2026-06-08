@@ -5,10 +5,6 @@ description: "Datenbankrecht für Geodatenbanken, Kartendienste und Luftbilder: 
 
 # Kartendaten, Geodaten und Luftbilder — Datenbankrecht für Geodatenbanken
 
-## Arbeitsbereich
-
-Datenbankrecht für Geodatenbanken, Kartendienste und Luftbilder: §§ 87a-87e UrhG für topografische Datenbanken, OpenStreetMap-ODbL-Lizenz, BKG-Nutzungsbedingungen, Verhältnis zu § 2 UrhG (Kartenwerke als Werke) und Open-Geodata-Anforderungen nach GeoZG. Bewertet Nutzung von Google Maps-, HERE- und OSM-Daten für kommerzielle Anwendungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für Geodatenbanken, Kartendienste und Luftbilder: §§ 87a-87e U
 - Amtliche topografische Karten sind nach § 5 UrhG urheberrechtsfrei, können aber als Datenbankwerk oder durch Herstellerrecht geschützt sein.
 - Drohnen-Luftbilder ohne Genehmigung verletzen nicht nur Datenbankrecht, sondern auch Luftverkehrsrecht (LuftVO).
 
-## Output
-
-- Geodaten-Lizenz-Kompatibilitätsmatrix (OSM/BKG/proprietär)
-- ODbL-Compliance-Checkliste für OSM-basierte Anwendungen
-- Datenbankherstellerrecht-Gutachten für eigene Geodatenbank
-- GeoZG-Bereitstellungspflichten-Übersicht für Behörden
-- Luftbild-Rechteprofil (Urheberrecht + Datenbankschutz + Luftverkehrsrecht)
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für Geodatenbanken, Kartendienste und Luftbilder: §§ 87a-87e U
 - [INSPIRE-Richtlinie 2007/2/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32007L0002)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 - [§ 5 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/5.html)
+

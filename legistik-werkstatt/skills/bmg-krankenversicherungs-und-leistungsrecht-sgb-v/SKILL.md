@@ -5,10 +5,6 @@ description: "Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Ge
 
 # Krankenversicherungs- und Leistungsrecht (SGB V) (BMG)
 
-## Arbeitsbereich
-
-Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Geschaeftsbereich BMG: Normbestand (SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.); Akteure (GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.); EU-Bezug (EU-Patientenrechte-RL; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Krankenversicherungs- und Leistungsrecht (SGB V) (BMG)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Krankenversicherungs- und Leistungsrecht (SGB V) (BMG)**. Prüfe
 - `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -84,23 +79,6 @@ Verteilung Bund-Selbstverwaltung; Wirtschaftlichkeitsgebot; AMNOG-Schiedsverfahr
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Krankenversicherungs- und Leistungsrecht (SGB V)
-Ressort: BMG
-Kernnormen: SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.
-Akteure/Aufsicht: GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.
-EU/Voelkerrecht: EU-Patientenrechte-RL; HTA-VO.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmg` -> `legw-ressortaufgaben-bmg` -> `legw-bmg-krankenversicherungs-und-leistungsrecht-sgb-v` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -109,6 +87,3 @@ Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

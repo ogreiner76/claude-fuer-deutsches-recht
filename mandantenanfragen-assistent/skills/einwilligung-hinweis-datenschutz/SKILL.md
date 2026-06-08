@@ -36,9 +36,6 @@ Dieser Skill formuliert die datenschutzrechtlich erforderliche Einwilligungsklau
 - Art. 13 DSGVO — Informationspflicht bei Ersterhebung: vollstaendige Transparenzpflicht
 - Art. 7 Abs. 3 DSGVO — Widerrufsrecht: jederzeit ohne Nachteile
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtlicher Hintergrund
 
 ### Warum Einwilligung?
@@ -123,3 +120,4 @@ Ohne Bestätigung: keine Aufnahme. Kein Einverständnis — kein Transkript.
 - `transkriptionsdienst-erklaerung` — bettet diese Klausel ein
 - `mandatsverhaeltnis-hinweis` — ergänzender Disclaimer
 - `erstantwort-generator` — Kurzform in der Antwortmail
+

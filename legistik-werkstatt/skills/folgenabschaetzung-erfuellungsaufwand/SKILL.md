@@ -17,7 +17,6 @@ Arbeitsfokus: **Folgenabschätzung - Erfüllungsaufwand**. Prüfe diese Anker am
 - `Art. 80 Abs. 1 GG` — Bestimmtheit bei Verordnungsermächtigungen.
 - `§ 7 Abs. 1 BHO` — Wirtschaftlichkeit bei Vollzugskosten.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Methodik
@@ -67,9 +66,6 @@ Wenn KMU betroffen: Prüfung Verhältnismaessigkeit. Ggf. Schwellenwerte einfüh
 
 §§ 44a, 62 GGO (Erfuellungsaufwand-Berechnung, Folgenabschaetzung) — §§ 1-4 SKMBericht (Statistisches Bundesamt, Standardkosten-Modell) — Art. 5 Abs. 4 EUV (EU-Verhaeltnismaessigkeit) — § 39a VwVfG (Vorwegbegruendung bei Massenverfahren)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Tabelle plus Beschreibung in Vorblatt-Abschnitt E und in Begründung-Abschnitt A.VI.4.
@@ -77,3 +73,4 @@ Tabelle plus Beschreibung in Vorblatt-Abschnitt E und in Begründung-Abschnitt A
 ## Anschluss
 
 `folgenabschaetzung-nachhaltigkeit`, `normenkontrollrat-kmu-check`.
+

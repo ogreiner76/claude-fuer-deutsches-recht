@@ -5,10 +5,6 @@ description: "Vorschuss auf JVEG-Verguetung beantragen: Voraussetzungen, Formerf
 
 # JVEG-Vorschuss
 
-## Arbeitsbereich
-
-Vorschuss auf JVEG-Verguetung beantragen: Voraussetzungen, Formerfordernis, Verfahren. Normen: § 3 JVEG. Prüfraster: Vorschusshoehe, Belegpflicht, Auszahlungsverfahren. Output: Vorschussantrag nach JVEG. Abgrenzung: nicht Kostenfestsetzungsantrag (endgueltige Abrechnung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Vorschuss auf JVEG-Verguetung beantragen: Voraussetzungen, Formerfordernis, Verf
 ## Fachkern: JVEG-Vorschuss
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Prüfe Vorschussanträge nach § 3 JVEG auf Zulässigkeit und Höhe, insbesondere bei erheblichen Fahrtkosten, Übernachtungsbedarf und Teilleistungen.
 
 ## Triage — kläre vor der Prüfung
 
@@ -51,18 +44,8 @@ Prüfe Vorschussanträge nach § 3 JVEG auf Zulässigkeit und Höhe, insbesonder
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Sachverständiger, Zeuge oder Dolmetscher beantragt Vorschuss vor oder während der Leistungserbringung.
-
-## Arbeitsweise
-1. Erheblichkeit der zu erwartenden Aufwendungen feststellen.
-2. Vorschusshöhe anhand zu erwartender Kosten berechnen.
-3. Bedürftigkeitsfrage explizit ausschließen.
-4. Anrechnungslogik auf spätere Festsetzung dokumentieren.
-5. Vorschussantrag formulieren.
 
 ## Output-Template
 
@@ -82,3 +65,4 @@ Vorschussprüfung mit Erheblichkeitsbewertung, Betragsberechnung und Anrechnungs
 ## Leitplanken
 - Keine Bedürftigkeitsprüfung; nur Erheblichkeit der Aufwendungen maßgeblich.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

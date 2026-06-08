@@ -5,10 +5,6 @@ description: "Influencer-Recht: Werbung für Heilmittel und Nahrungsergänzungsm
 
 # Influencer-Recht: Heilmittel, Nahrungsergänzung und Health Claims
 
-## Arbeitsbereich
-
-Influencer-Recht: Werbung für Heilmittel und Nahrungsergänzungsmittel – HWG, HCVO, Health Claims, verbotene Aussagen und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Gesundheitsbezogene Werbung ist ein hochrisikobehaftetes Feld für Creator:
 - HCVO-konforme Formulierungsalternativen
 - Pflichthinweis-Vorlage (OTC-Arzneimittel)
 - Abmahnantwort (HWG-Verstoß)
+

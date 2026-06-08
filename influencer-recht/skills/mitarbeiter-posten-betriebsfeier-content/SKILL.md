@@ -5,10 +5,6 @@ description: "Influencer-Recht: Social-Media-Guidelines für Mitarbeiter – arb
 
 # Influencer-Recht: Mitarbeiter posten für das Unternehmen
 
-## Arbeitsbereich
-
-Influencer-Recht: Social-Media-Guidelines für Mitarbeiter – arbeitsrechtliche Pflichten, Haftung, Datenschutz und Employee Advocacy. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,3 +75,4 @@ Wenn Mitarbeiter im Auftrag ihres Arbeitgebers Social-Media-Posts verfassen, ent
 - Mitarbeiter-Schulungskonzept
 - Kennzeichnungs-Checkliste für Employee Posts
 - Kündigung nach Social-Media-Verstoß: Prüfschema
+

@@ -5,10 +5,6 @@ description: "Verkehrsowi Beweisverwertung Standardisiert: ordnet Normen, Nutzer
 
 # Standardisiertes Messverfahren und Beweisverwertung
 
-## Arbeitsbereich
-
-Verkehrsowi Beweisverwertung Standardisiert: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -41,9 +37,6 @@ Verifizierte Aktenzeichen mit offener Quelle (Volltext vor Versand aufrufen):
 - **BVerfG, Beschl. v. 20.6.2023, 2 BvR 1167/20** — Keine Pflicht zur Speicherung von Rohmessdaten beim standardisierten Verfahren (Leivtec XV3); Recht auf erweiterten Zugang besteht aber im Einzelfall. Quelle: bundesverfassungsgericht.de
 - BGH-Linie zum standardisierten Messverfahren: BGHSt 39, 291 (1993). Aktualisierende OLG-Rechtsprechung in offenen Quellen (openjur.de, nrwe.de) verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Standardisierte Messverfahren — anerkannt in Deutschland
 
 | Messgeraet | Verfahren |
@@ -92,3 +85,4 @@ SACHVERSTAENDIGENANTRAG (§ 77 Abs. 2 OWiG):
 - Sachverstaendigenantrag mit Beweisthema und Sachverstaendigenbezeichnung formulieren.
 - Rohmessdaten-Anforderung immer schriftlich dokumentieren.
 - Anwaltliche Endkontrolle bei Sachverstaendigenauswahl.
+

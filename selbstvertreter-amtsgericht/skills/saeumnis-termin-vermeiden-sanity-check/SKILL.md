@@ -5,9 +5,6 @@ description: "Saeumnis Termin Vermeiden Sanity Check im Selbstvertretung am Amts
 
 # Saeumnis Termin Vermeiden Sanity Check
 
-## Arbeitsbereich
-
-**Saeumnis Termin Vermeiden Sanity Check** ordnet den Fall über die tragenden Prüfungslinien: Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO, Versaeumnisurteil verhindern §§ 330 ff, Letzter Sanity-Check vor Klage. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Saeumnis Termin Vermeiden Sanity Check im Selbstvertretung am Amts
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `saeumnis-im-termin-330-zpo`
@@ -155,24 +153,9 @@ Sehr seltener Erfolg — bessere Strategie: rechtzeitig Einspruch.
 - "Termin ist morgen, jetzt ist mir klar, dass ich nicht kann." → Sofort Gericht informieren.
 - "Einspruchsfrist 1 Monat." → 2 Wochen!
 
-## Querverweise
-
-- `saeumnis-vermeiden-330-ff-zpo` — Vor Termin.
-- `ladung-termin-216-zpo` — Ladung.
-- `terminvorbereitung-checkliste` — Vorbereitung.
-- `wiedereinsetzung-frist-233-zpo` — Wiedereinsetzung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 330, 331, 338 ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `saeumnis-vermeiden-330-ff-zpo`
 
@@ -306,35 +289,15 @@ Skill `terminvorbereitung-checkliste`.
 - "VU ist endgueltig." → Mit Einspruch nicht.
 - "Ich kann nochmal nicht erscheinen, dann gibt's drittes VU." → Nein — zweitens reicht.
 
-## Querverweise
-
-- `klageerwiderung-fristen-274-zpo` — Fristen.
-- `klageerwiderung-checkliste-alle-punkte` — Klageerwiderung.
-- `terminvorbereitung-checkliste` — Termin.
-- `wiedereinsetzung-frist-233-zpo` — Bei unverschuldetem Versaeumnis.
-- `saeumnis-im-termin-330-zpo` — Saeumnis im Termin.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 330 ff. ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `sanity-check-selbstvertretung-amtsgericht`
 
 **Fokus:** Letzter Sanity-Check vor Klage, Klageerwiderung, Replik, Termin, Vergleich oder Rechtsmittel beim Amtsgericht. Prüft Fristen, Zuständigkeit, Anwaltszwang, Streitwert, Antrag, Tatsachenvortrag, Beweise, Anlagen, Kosten, Zustellung und rote Warnsignale.
 
 ### Sanity-Check Selbstvertretung Amtsgericht
-
-## Zweck
-
-Dieser Skill ist die letzte Kontrolle, bevor ein Bürger ohne Anwalt etwas beim Amtsgericht einreicht oder im Termin verwendet. Er soll verhindern, dass gute Fälle an Form, Frist, Beweis oder unklarem Antrag scheitern.
 
 ## Wann aktivieren?
 
@@ -407,34 +370,3 @@ Jede gelbe oder rote Ampel bekommt einen Reparaturschritt:
 - "Fristende mit `fristen-berechnen-187-188-bgb` prüfen";
 - "Vor Einreichung `zulassungsgrenzen-check-amtsgericht` ausführen".
 
-## Ausgabeformat
-
-**Sanity-Check**
-| Feld | Ampel | Befund | Reparatur |
-|---|---|---|---|
-| Frist | Rot/Gelb/Grün | | |
-
-**Nicht abschicken, bevor**
-1. [kritischer Punkt]
-
-**Kann so raus, wenn**
-1. [Bedingung]
-
-**Passende nächste Skills**
-| Skill | Zweck |
-|---|---|
-| `zulassungsgrenzen-check-amtsgericht` | Zuständigkeit, Wertgrenze, Rechtsmittel |
-
-## Qualitätsregeln
-
-- Keine Schriftsatzfreigabe behaupten. Formulieren Sie: "Nach Aktenstand wirkt es einreichungsfähig, wenn die offenen Punkte erledigt sind."
-- Fristen immer mit Datum, Ausgangspunkt und Unsicherheit nennen.
-- Bei Gerichts- oder Rechtsmittelpost nie nur "sieht gut aus" sagen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Influencer-Recht: Datenschutz für Newsletter, Community-Plattform
 
 # Influencer-Recht: Datenschutz – Newsletter, Community und Discord
 
-## Arbeitsbereich
-
-Influencer-Recht: Datenschutz für Newsletter, Community-Plattformen und Discord – DSGVO, Einwilligung, Double-Opt-In, Drittlandtransfer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,3 +72,4 @@ Creator, die eigene Communities aufbauen, sind Datenverantwortliche nach DSGVO:
 - Double-Opt-In Prozessbeschreibung
 - AV-Vertrag (Mailchimp / Brevo Vorlage)
 - Cookie-Consent-Banner-Anleitung
+

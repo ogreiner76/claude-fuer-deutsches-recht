@@ -5,10 +5,6 @@ description: "Abzweigung aus Patentanmeldung prüfen: Fristen, Anmeldetag, Inhal
 
 # Abzweigung Aus Patentanmeldung
 
-## Arbeitsbereich
-
-Abzweigung aus Patentanmeldung prüfen: Fristen, Anmeldetag, Inhalt, strategischer Schnellschutz und Kollisionsrisiken mit eigener Offenbarung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Abzweigung aus Patentanmeldung prüfen: Fristen, Anmeldetag, Inhalt, strategisch
 ## Wann dieser Skill hilft
 
 Eine Patentfamilie existiert oder läuft.
-
-## Arbeitsweise
-
-Prüfe, ob das Gebrauchsmuster als schneller Durchsetzungsanker taugt.
 
 ## Prüfpunkte
 
@@ -51,10 +43,6 @@ Prüfe, ob das Gebrauchsmuster als schneller Durchsetzungsanker taugt.
 ### Wichtige Frist (BGH X ZB 11/12 — Az verifizieren)
 - Die 2-Monats-Frist nach Pruefungsfristablauf der Patentanmeldung ist eine Ausschlussfrist.
 - Bei Frist-Verlust ist eine Abzweigung nicht mehr moeglich.
-
-## Output
-
-Abzweigungsstrategie.
 
 ## Quellen-Hardening
 

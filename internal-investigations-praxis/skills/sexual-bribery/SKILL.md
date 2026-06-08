@@ -5,10 +5,6 @@ description: "Leitet Untersuchungen bei sexueller Belästigung am Arbeitsplatz �
 
 # Sexuelle Belästigung am Arbeitsplatz – Untersuchung und Maßnahmen
 
-## Arbeitsbereich
-
-Leitet Untersuchungen bei sexueller Belästigung am Arbeitsplatz – AGG, Schutzpflichten des Arbeitgebers, Beweiserhebung, arbeitsrechtliche Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill stellt sicher, dass Untersuchungen bei sexueller Belästigung opfer
 - Unternehmen hat keine Pflicht zur Strafanzeige; aber die betroffene Person kann selbst Anzeige erstatten.
 - Parallele straf- und arbeitsrechtliche Verfahren sind möglich und müssen koordiniert werden.
 
-## Red-Team-Fragen
-
-- Wurde die betroffene Person sofort geschützt, bevor Beweise erhoben oder der Täter konfrontiert wurde?
-- Ist die Untersucherin/ der Untersucher tatsächlich unabhängig von Täter und Opfer?
-- Wurde § 22 AGG (Beweislasterleichterung) bei der Beweiswürdigung berücksichtigt?
-- Gibt es strukturelle Muster (frühere Beschwerden, Hierarchiemissbrauch), die über den Einzelfall hinausgehen?
-- Wurden alle Schutzmaßnahmen nach § 12 AGG ergriffen, und sind diese dokumentiert?
-- Hat das Unternehmen auf die Beschwerde sofort und dokumentiert reagiert?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -99,3 +86,4 @@ Dieser Skill stellt sicher, dass Untersuchungen bei sexueller Belästigung opfer
 - **Betriebsratsanhörung** nach § 102 BetrVG
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

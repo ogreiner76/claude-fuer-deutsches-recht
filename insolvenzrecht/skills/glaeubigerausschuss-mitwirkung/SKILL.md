@@ -25,10 +25,6 @@ Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewä
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Der Gläubigerausschuss ist das wichtigste Mitwirkungs-Organ der Gläubiger im Insolvenzverfahren — Überwachung des Verwalters und wichtigste Entscheidungen.
-
 ## Schritt 1 — Bestellung
 
 ### Endgültiger Gläubigerausschuss § 67 InsO
@@ -248,6 +244,3 @@ Bevor losgelegt wird, klaere:
 3. **Interessenkonflikt?** Ausschussmitglied ist gleichzeitig Glaeubiger und Bieter in Verwertung → § 71 InsO Haftungsrisiko.
 4. **Informations-Hol-Pflicht?** Mitglieder muessen aktiv Informationen vom IV anfordern; passives Warten genuegt nicht.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

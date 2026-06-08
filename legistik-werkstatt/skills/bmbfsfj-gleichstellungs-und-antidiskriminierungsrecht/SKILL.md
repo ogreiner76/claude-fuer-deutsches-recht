@@ -5,10 +5,6 @@ description: "Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Gesc
 
 # Gleichstellungs- und Antidiskriminierungsrecht (BMBFSFJ)
 
-## Arbeitsbereich
-
-Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.); Akteure (Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.); EU-Bezug (Gleichbehandlungs-RL; Pay-Transparency-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,23 +62,6 @@ Verhaeltnis zu Tarifautonomie (Art. 9 Abs. 3 GG); Sanktionssystem; Beweislast.
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Gleichstellungs- und Antidiskriminierungsrecht
-Ressort: BMBFSFJ
-Kernnormen: AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.
-Akteure/Aufsicht: Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.
-EU/Voelkerrecht: Gleichbehandlungs-RL; Pay-Transparency-RL.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmbfsfj` -> `legw-ressortaufgaben-bmbfsfj` -> `legw-bmbfsfj-gleichstellungs-und-antidiskriminierungsrecht` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -91,6 +70,3 @@ Naechste Skills: legw-ressortaufgaben-bmbfsfj; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

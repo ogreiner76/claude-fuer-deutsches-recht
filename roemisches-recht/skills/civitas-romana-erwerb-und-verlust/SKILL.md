@@ -5,10 +5,6 @@ description: "Civitas Romana: Erwerb und Verlust des roemischen Buergerrechts. S
 
 # Rom 150 Civitas Romana Erwerb Und Verlust
 
-## Aufgabe
-
-Skill für Erwerb und Verlust der civitas Romana.
-
 ## Erwerbsarten
 
 ### Geburtserwerb
@@ -73,7 +69,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

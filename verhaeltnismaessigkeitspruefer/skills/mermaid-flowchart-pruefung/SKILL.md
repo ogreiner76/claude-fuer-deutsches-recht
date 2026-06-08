@@ -5,12 +5,6 @@ description: Mermaid-Flowchart fuer die Verhaeltnismaessigkeitspruefung mit Stuf
 
 # Mermaid Flowchart Pruefung
 
-## Aufgabe
-
-Mermaid ist eine textbasierte Diagramm-Sprache, die in vielen Markdown-
-Renderern (GitHub, GitLab, Obsidian) live gerendert wird. Damit lassen
-sich Verhaeltnismaessigkeits-Pruefungen als Entscheidungsbaeume darstellen.
-
 ## Grundgeruest
 
 ```mermaid
@@ -58,6 +52,3 @@ flowchart TD
 - Knoten mit Fallnummern beschriften fuer den jeweils zu pruefenden
   Sachverhalt.
 
-## Output
-
-Mermaid-Codeblock zum Copy-Paste. Bei Bedarf SVG-Export.

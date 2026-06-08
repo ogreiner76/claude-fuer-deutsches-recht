@@ -27,9 +27,6 @@ Die Incoterms (International Commercial Terms) der Internationalen Handelskammer
 - § 346 HGB — Handelsgebräuche
 - § 305 ff. BGB — AGB-Einbeziehung (bei B2C-Geschäften)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Klausel identifizieren:** Welche Klausel, welche Fassung? Im Vertrag oder AGB?
@@ -43,6 +40,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
 
 ```
+
 ## Incoterms / Gefahrübergang
 
 Die Parteien haben die Klausel [KLAUSEL, z.B. FOB Hamburg, Incoterms 2020] vereinbart.
@@ -79,3 +77,4 @@ Incoterms sind keine gesetzliche Regelung, sondern Vertragsklausel. Sie konkreti
 ## Tatbestand
 
 Im Tatbestand die Klausel wörtlich oder als Bezugnahme angeben, im Entscheidungsgrund subsumieren.
+

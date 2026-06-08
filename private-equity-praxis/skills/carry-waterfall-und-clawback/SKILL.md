@@ -5,10 +5,6 @@ description: "Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, Eu
 
 # Carry, Waterfall und Clawback
 
-## Arbeitsbereich
-
-Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,13 +90,6 @@ Clawback (LPA):
 - Escrow im Sponsor-Cash-Pool — bei Insolvenz Verlust.
 - Hurdle-Reset bei Recycling vergessen.
 
-## Querverweise
-
-- pe-002 für Begriffsklärung.
-- pe-011 für Side-Letter-MFN auf Waterfall-Klauseln.
-- pe-020 für Steuer-Qualifikation Carry.
-- pe-005 für Spezial-AIF-Anlagebedingungen.
-
 ## Quellen Stand 06/2026
 
 - KAGB § 67; LPA als zentraler Vertrag.
@@ -110,3 +99,4 @@ Clawback (LPA):
 - MinStG (Pillar Two seit 01.01.2024).
 - InvStG §§ 1, 20.
 - ILPA Principles 3.0 und Carry Best Practice Guidance (Stand vom Anwender zu prüfen).
+

@@ -5,10 +5,6 @@ description: "Bankinstrumente als Liquiditätsbrücke für Firmenkunden struktur
 
 # Liquiditätsbrücke durch Bankinstrumente
 
-## Arbeitsbereich
-
-Bankinstrumente als Liquiditätsbrücke für Firmenkunden strukturieren: Aval, Kontokorrent, Factoring, Forfaitierung, Akkreditiv, Lieferantenkredit, Stundung, Waiver und Sanierungsnähe mit Rechts- und Risikomatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Bankinstrumente als Liquiditätsbrücke für Firmenkunden strukturieren: Aval, K
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Zeige praktisch, wie Banken den Geschäftsverkehr mit Liquidität schmieren, ohne ihre Kreditakte zu ruinieren: nicht nur Darlehen, sondern Avale, Akkreditive, Factoring, Forfaitierung, Stundung, Waiver, Supply-Chain-Finance und Sicherheitenumbau.
 
 ## Instrumentenkarte
 
@@ -67,3 +59,4 @@ Ergänze:
 - `stundung-standstill-waiver`
 - `forbearance-npe-risikoklassifizierung`
 - `sanierungsgutachten-idw-s6-bewertung`
+

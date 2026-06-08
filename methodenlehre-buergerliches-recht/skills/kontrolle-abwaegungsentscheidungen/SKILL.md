@@ -53,10 +53,6 @@ description: "Systematisiert die methodischen Anforderungen an die gerichtliche 
 - Abwägungsfehlgewichtungen werden akzeptiert, solange kein Abwägungsausfall vorliegt.
 - Die Heilungsmöglichkeit von Abwägungsfehlern durch nachträgliche ergänzende Abwägung wird nicht geprüft.
 
-## Output
-
-Das Skill liefert eine Abwägungskontrolle-Analyse: Identifikation des Fehlertyps, Anwendung des Kontrollmaßstabs, Prüfung der Grenzen zur Ersatzabwägung, Rechtsfolgenbestimmung und Formulierungsvorschlag für Schriftsatz oder Urteilsanmerkung. Geeignet für Verwaltungs-, Zivil- und Arbeitsrechtsfälle mit Abwägungskomponente.
-
 ## Vertiefung: Inzidente Abwägungskontrolle im Zivilprozess
 
 Im Zivilprozess erfolgt die Abwägungskontrolle oft inzident: Das Gericht überprüft eine behördliche oder schiedsgerichtliche Abwägung nicht im Hauptverfahren, sondern im Rahmen der Zulässigkeitsprüfung oder der Vollstreckungsgegenklage. Die Kontrolldichte variiert je nach Verfahrensart und dem institutionellen Status des überprüften Organs.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 114 VwGO – Ermessensprüfung](https://dejure.org/gesetze/VwGO/114.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

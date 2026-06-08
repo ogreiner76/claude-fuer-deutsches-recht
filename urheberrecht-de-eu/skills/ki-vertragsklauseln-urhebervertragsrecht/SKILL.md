@@ -5,10 +5,6 @@ description: "Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Prom
 
 # KI-Klauseln in Urheberverträgen
 
-## Arbeitsbereich
-
-Entwirft und prüft Klauseln zu KI-Nutzung, Training, Output, Promptlogs, Opt-out, Kennzeichnung und Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,3 +77,4 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 Konkret zu prüfen:
 
 - §§ 31-44 UrhG
+

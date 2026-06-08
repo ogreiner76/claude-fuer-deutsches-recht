@@ -5,10 +5,6 @@ description: "Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungss
 
 # KVG: Erlaubnis, Registrierung und Auslagerung
 
-## Arbeitsbereich
-
-Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungsstruktur erforderlich ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -87,13 +83,6 @@ Auslagerungsregister (Pflichtfeld):
 - Auslagerung ohne Letztverantwortungs-Klausel — § 26 KAGB-Verstoß.
 - DORA-Auslagerungsregister fehlt seit 2025 — Bußgeldgefahr.
 
-## Querverweise
-
-- pe-004 für KAGB-Scope.
-- pe-005 für Spezial-AIF.
-- pe-009 für Verwahrstelle.
-- pe-010 für Fundraising mit EU-Pass.
-
 ## Quellen Stand 06/2026
 
 - KAGB §§ 2 Abs. 4/5, 17–26.
@@ -101,3 +90,4 @@ Auslagerungsregister (Pflichtfeld):
 - VO (EU) 231/2013 Art. 76 ff. Auslagerung.
 - DORA (VO (EU) 2022/2554, anwendbar seit 17.01.2025).
 - BaFin-Auslegungshilfe und MaRisk-/MaComp-Rundschreiben (jeweils aktueller Stand vom Anwender zu prüfen).
+

@@ -5,10 +5,6 @@ description: "Student fragt sich ob er der Lehrmeinung des Professors folgen sol
 
 # Professor erkennen und Strategie wählen
 
-## Arbeitsbereich
-
-Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenständig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Lehrmeinung-Recherche Strategie-Wahl Abweichungs-Argumentation. Output Strategie-Empfehlung Argumentations-Hinweis. Abgrenzung zu meinungsstreit-darstellen (Inhalt) und hausarbeit-workflow-start (Master). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -30,13 +26,6 @@ Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenst
 - Art. 5 Abs. 3 GG — Wissenschaftsfreiheit: eigene wissenschaftliche Position ist geschuetzt und erwuenscht
 - § 1 Abs. 1 BRAO — Anwaltliche Unabhaengigkeit als Berufsziel: wird im Studium durch eigenstaendiges Denken vorbereitet
 - § 43a Abs. 1 BRAO — Unabhaengigkeit und Eigenverantwortlichkeit: Studierende ueben diese Haltung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Bevor Du Dich in die Subsumtion stürzt, lohnt sich eine kurze, ehrliche Frage: **Von wem stammt die Aufgabe?** Daraus folgt eine strategische Entscheidung — nicht zur Schleimerei, sondern zur klugen Adressaten-Orientierung Deiner Argumentation.
 
 ## Schritt 1 — Die Fangfrage
 
@@ -186,3 +175,4 @@ Das ist die Königsklasse. Und sie ist erlernbar.
 - `aufgabenstellung-erfassen` — Nun den Sachverhalt zerlegen
 - `seminararbeit-modus` — Spezifika für Seminararbeiten
 - `meinungsstreit-darstellen` — Faire Streit-Darstellung trotz Adressaten-Orientierung
+

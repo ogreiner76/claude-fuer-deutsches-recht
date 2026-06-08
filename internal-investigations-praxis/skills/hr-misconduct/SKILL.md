@@ -5,10 +5,6 @@ description: "Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Miscondu
 
 # HR Misconduct und Arbeitsrechtliche Maßnahmen
 
-## Arbeitsbereich
-
-Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -67,15 +63,6 @@ Dieser Skill leitet die korrekte Auswahl und Durchführung arbeitsrechtlicher Ma
 - § 249 BGB: Schadensersatzpflicht des Mitarbeiters bei Straftaten (auch nach Kündigung verfolgbar).
 - D&O-Versicherung: prüfen, ob Deckungsschutz für den betroffenen Manager greift.
 
-## Red-Team-Fragen
-
-- Ist die 2-Wochen-Frist für die außerordentliche Kündigung eingehalten?
-- Wurde die Betriebsratsanhörung ordnungsgemäß durchgeführt und dokumentiert?
-- Wurde der Mitarbeiter vor der Verdachtskündigung angehört – mit Möglichkeit zur Stellungnahme?
-- Ist die Verdachtskündigung auf ausreichend starken objektiven Tatsachen gestützt?
-- Wurden mildere Mittel (Abmahnung, Versetzung, Freistellung) vor der Kündigung geprüft?
-- Ist der Schadensersatzanspruch gegen den Mitarbeiter gesichert, bevor er das Unternehmen verlässt?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -95,3 +82,4 @@ Dieser Skill leitet die korrekte Auswahl und Durchführung arbeitsrechtlicher Ma
 - **Schadensersatz-Forderungsschreiben** an betroffenen Mitarbeiter
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

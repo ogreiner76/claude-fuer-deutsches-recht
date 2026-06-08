@@ -5,10 +5,6 @@ description: "HOAI-Fachfrage LPH 5: Ausführungsplanung, Detailtiefe, Koordinati
 
 # LPH 5 Ausführungsplanung Und Detailtiefe
 
-## Arbeitsbereich
-
-HOAI-Fachfrage LPH 5: Ausführungsplanung, Detailtiefe, Koordination der Fachplanung, Werkstattplanung, Planfreigabe, Widersprüche und ausführungsreife Pläne prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ HOAI-Fachfrage LPH 5: Ausführungsplanung, Detailtiefe, Koordination der Fachpla
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Anwendungsfall: bauunternehmen wegen unklarer Pläne Nachträge stellen, Fachplaner kollidieren oder Werkstattzeichnungen nicht zu Ausführungsplänen passen.
 
 ## Normanker
 
@@ -35,6 +27,3 @@ Anwendungsfall: bauunternehmen wegen unklarer Pläne Nachträge stellen, Fachpla
 4. Werkstattplanung des Unternehmers von Ausführungsplanung des Planers trennen.
 5. Fehlerfolge: Nachtrag, Bauzeit, Mangel, Haftung, Umplanung.
 
-## Output
-
-Planwiderspruchsliste mit Priorität, Verantwortlichem, Frist, Kosten-/Terminfolge und Freigabeentscheidung.

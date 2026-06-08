@@ -5,10 +5,6 @@ description: "Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite 
 
 # Rentabilitaetskennzahlen — Eigenkapital- Gesamtkapital-Rendite ROI
 
-## Arbeitsbereich
-
-Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung Branchenvergleich Praktische Aussage. Output Rentabilitaets-Kennzahlenblatt mit Erlaeuterung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -122,13 +118,6 @@ Beispiel: ROI 8 Prozent kann sich aus Umsatzrentabilitaet 4 Prozent x Kapitalums
 - Bei unterdurchschnittlicher EK-Rendite: Massnahmen (Preisgestaltung, Kostenstruktur, Bilanzpolitik).
 - Bei langfristig negativen Renditen: Hinweispflicht § 102 StaRUG aufgrund Eigenkapitalverzehr.
 
-## Output
-
-- Rentabilitaets-Kennzahlenblatt.
-- 5-Jahres-Trend-Grafik.
-- DuPont-Analyse.
-- Erlaeuterungstext mit Branchenvergleich.
-
 ## Strategie und Praxis-Tipps
 
 - Bei haftungsbeschraenkten Gesellschaften EK-Rendite vor und nach Steuern parallel ausweisen.
@@ -137,15 +126,6 @@ Beispiel: ROI 8 Prozent kann sich aus Umsatzrentabilitaet 4 Prozent x Kapitalums
 - Bei Konzern: ROCE (Return on Capital Employed) statt ROI.
 - StBVV: Standardkennzahlen pauschaliert, Mehrjahres-Trend als Zusatzauftrag.
 - DATEV-Tipp: Kennzahlen-Modul mit Standard-Formeln; individuelle Anpassung ueber Berater-Stammdaten.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-bwa-statische-liquiditaet-kennzahlen` — Liquiditaetskennzahlen.
-- `stb-bwa-cashflow-laienverstaendlich` — Cashflow.
-- `stb-bwa-branchenvergleich-bbe-datev` — Branchenvergleich.
-- `stb-bwa-mandantenreport-monatlich` — Monatsreport.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -160,10 +140,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Daumenregel-Hinweis ohne Marker neu formuliert) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

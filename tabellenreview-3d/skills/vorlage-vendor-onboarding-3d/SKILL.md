@@ -16,10 +16,6 @@ description: "Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Ve
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Beim Onboarding eines neuen Lieferanten (oder beim Bestands-Audit der vorhandenen) sind dieselben 17 Fragen aus 5 Perspektiven zu beantworten. Dieser Würfel liefert die Standardstruktur.
-
 ## Spalten (17 Datenpunkte)
 
 ### Stammdaten
@@ -101,3 +97,4 @@ Beim Onboarding eines neuen Lieferanten (oder beim Bestands-Audit der vorhandene
 ## Ausgabe
 
 Würfel-Schema fix und fertig. Direkt einsatzbereit.
+

@@ -5,10 +5,6 @@ description: "Sachbereich Bauproduktenrecht und technische Normen im Geschaeftsb
 
 # Bauproduktenrecht und technische Normen (BMWSB)
 
-## Arbeitsbereich
-
-Sachbereich Bauproduktenrecht und technische Normen im Geschaeftsbereich BMWSB: Normbestand (BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.); Akteure (DIBt; BMWSB; Notified Bodies; Länder-Bauaufsicht.); EU-Bezug (BauPVO 305/2011; Aenderung BauPVO (CRR-Update).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Bauproduktenrecht und technische Normen (BMWSB)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -21,7 +17,6 @@ Arbeitsfokus: **Bauproduktenrecht und technische Normen (BMWSB)**. Prüfe diese 
 - `§ 535 Abs. 1 BGB` — Mietvertrag.
 - `§ 556 Abs. 1 BGB` — Betriebskosten.
 - `Art. 20 Abs. 3 GG` — Normklarheit.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -82,23 +77,6 @@ EuGH-Linie zu nationalen Zusatzanforderungen; Wechselwirkung mit Brandschutz.
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Bauproduktenrecht und technische Normen
-Ressort: BMWSB
-Kernnormen: BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.
-Akteure/Aufsicht: DIBt; BMWSB; Notified Bodies; Länder-Bauaufsicht.
-EU/Voelkerrecht: BauPVO 305/2011; Aenderung BauPVO (CRR-Update).
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmwsb` -> `legw-ressortaufgaben-bmwsb` -> `legw-bmwsb-bauproduktenrecht-und-technische-normen` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -107,6 +85,3 @@ Naechste Skills: legw-ressortaufgaben-bmwsb; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

@@ -5,12 +5,6 @@ description: "PrALR: Polizeirecht, Wohlfahrt, Gefahrenabwehr, Staatszweck und Ve
 
 # Polizeirecht
 
-## Aufgabe
-
-Unterscheide Wohlfahrtsstaat, Sicherheitsstaat, Gemeinwohlformel und konkrete Eingriffsnorm.
-
-Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staaten als historischer Normquelle. Er behandelt das PrALR nicht als dekorativen Alttext, sondern als konkrete Quelle mit Ausgabejahr, Textzeugen, Geltungsraum, systematischem Ort und möglicher heutiger Fortwirkung.
-
 ## Startfragen
 
 1. Welche Quelle liegt vor: Scan, OCR, PDF, Transkription, Sekundärtext, Urteil oder Aktenvermerk?
@@ -47,10 +41,3 @@ ALR-Loesung: ALR II 17 — Gefahrenabwehr; rechtmaessig; aber Aufopferungsanspru
 - Eng-faktische Gefahrenbegriff seit Kreuzberg-Urteil 1882.
 - Trennung Sicherheits- und Wohlfahrtspolizei = klassisches Erbe des Rechtsstaats.
 
-## Ausgabeformat
-
-- **Kurzbefund:** Was sagt die Quelle sicher?
-- **Textzeugenstand:** Welche Fassung wurde benutzt und wo ist sie unsicher?
-- **Historische Einordnung:** Systemstelle, Geltungsraum, gesellschaftliche Funktion.
-- **Heutiger Anschluss:** Fortwirkung, Gewohnheitsrecht, bloße Dogmengeschichte oder keine heutige Relevanz.
-- **Nächster Schritt:** zweite Quelle, Scan-Gegenprobe, aktuelles Landesrecht oder Rechtsprechungsrecherche.

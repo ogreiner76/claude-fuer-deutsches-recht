@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Datenschutz im Notariat – Aktenversand und C
 
 # Notariat im Alltag: Datenschutz im Notariat – Aktenversand, Cloudgrenzen
 
-## Arbeitsbereich
-
-Notariat im Alltag: Datenschutz im Notariat – Aktenversand und Cloudgrenzen. DSGVO-Pflichten, verschlüsselter Aktenversand, Cloudnutzung im Notariat und Datenschutzfolgenabschätzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ Cloud-Dienste für Aktenverarbeitung:
 - **Mandanteninfo** (Art. 13 DSGVO-Informationsblatt)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

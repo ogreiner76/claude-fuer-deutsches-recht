@@ -34,9 +34,6 @@ Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutach
 - § 8a Abs. 2 JVEG — Wegfall der Verguetung bei Unverwertbarkeit oder Identitaetsunklarheit
 - Art. 103 Abs. 1 GG — Anspruch auf rechtliches Gehoer: Partei muss Gutachten-Mangel geltend machen koennen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Grundproblem
 
 In zivilprozessualen Verfahren kommt es zunehmend vor, dass eine Partei einwendet, das gerichtlich beauftragte Sachverständigengutachten sei (teilweise) unter Einsatz von KI-Werkzeugen erstellt worden. Solche Vorwürfe können erhebliche Konsequenzen haben — von der Reduzierung der Sachverständigenvergütung bis zur Unverwertbarkeit des Gutachtens. Dieser Skill strukturiert die anwaltliche Prüfung.
@@ -194,8 +191,3 @@ oder Hilfskräfte beteiligt waren.
 - **JVEG-Festsetzung 0 Euro** ist die schärfste Folge; nur bei objektiver Unverwertbarkeit und/oder echter Identitäts-Unklarheit erreichbar.
 - **Eigenes Gutachten widerlegt KI-Verdacht nicht**: Ein Privatgutachten der Gegenpartei kann methodische Schwächen aufzeigen, aber nicht beweisen, dass das Originalgutachten KI-erstellt war.
 
-## Querverweise
-
-- → `aktenauszug-gerichtsverfahren` — strukturierte Aktenführung
-- → Plugin `jveg-kostenpruefer`: `jveg-kuerzung-wegfall-8a`, `jveg-sachverstaendigenrechnung`
-- → Plugin `prozessrecht`: Anhörung und Beweisaufnahme

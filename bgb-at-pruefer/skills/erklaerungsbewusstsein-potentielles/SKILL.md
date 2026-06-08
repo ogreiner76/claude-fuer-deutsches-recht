@@ -45,13 +45,6 @@ description: "Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungs
 - Anfechtung beseitigt die Willenserklärung ex tunc — aber Vertrauensschaden bleibt.
 - Mindermeinung (keine WE) schützt den Erklärenden stärker, aber belastet Rechtsverkehr.
 
-## Output
-
-- Meinungsstreit-Darstellung: h.M. potentielles Bewusstsein vs. Mindermeinung
-- Gutachtenstil-Abschnitt zum Willenserklärungstatbestand
-- Trierer Weinversteigerungsfall nachgebaut als Klausurbeispiel
-- Folgeprüfung Anfechtung nach § 119 Abs. 1 BGB
-
 ## Quellen
 
 - [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
@@ -84,3 +77,4 @@ nach § 122 BGB, wenn er anficht.
 - Potentielles Bewusstsein: Hätte Erklärende bei Sorgfalt erkennen können?
 - Rechtsfolge: Willenserklärung wirksam — Anfechtung nach § 119 Abs. 1 BGB möglich?
 - § 122 BGB-Haftung bei Anfechtung wegen fehlendem Erklärungsbewusstsein?
+

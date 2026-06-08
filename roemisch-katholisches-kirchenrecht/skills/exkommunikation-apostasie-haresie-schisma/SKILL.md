@@ -5,10 +5,6 @@ description: "Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zureche
 
 # Exkommunikation, Apostasie, Häresie, Schisma
 
-## Arbeitsbereich
-
-Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache; CIC can. 751 und 1311-1399 und 1364; KKK 817-822 und 2089 und 1463; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Canones- und Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -112,3 +108,4 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zwischen göttlichem Recht, kirchlicher Disziplin, päpstlichem/kurialem Recht, Partikularrecht und staatlichem Recht sauber unterscheiden.
 - Keine antipäpstliche oder rein soziologische Umdeutung: katholische Selbstbeschreibung, Sakramentalität und Communio sind Ausgangspunkt.
 - Bei schwerwiegenden Status-, Straf-, Ehe- oder Sakramentenfragen immer an zuständige kirchliche Autorität, Offizialat oder Ordinariat routen.
+

@@ -5,9 +5,6 @@ description: "Kreditkuendigung BGB Mica Stablecoin im Plugin Fachanwalt Bank Kap
 
 # Kreditkuendigung BGB Mica Stablecoin
 
-## Arbeitsbereich
-
-**Kreditkuendigung BGB Mica Stablecoin** ordnet den Fall über die tragenden Prüfungslinien: Bank kündigt Kredit nach § 490 BGB wegen wesentlicher, Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin, Mandant will vor Klage Bank-Streit durch. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Kreditkuendigung BGB Mica Stablecoin im Plugin Fachanwalt Bank Kap
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb`
@@ -30,10 +28,6 @@ description: "Kreditkuendigung BGB Mica Stablecoin im Plugin Fachanwalt Bank Kap
 **Fokus:** Bank kündigt Kredit nach § 490 BGB wegen wesentlicher Vermögensverschlechterung und Mandant braucht Sofort-Strategie. AGB-Banken Nr. 19. Normen § 490 BGB § 314 BGB AGB-Banken Nr. 19 26. Prüfraster Kündigungs-Voraussetzungen Ankündigungsfrist Sicherheiten-Verwertung einstweiliger Rechtsschutz. Output Widerspruchs-Schreiben Stundungsantrag Klage einstweiliger Rechtsschutz. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkündigung (allg. Kündigung) und widerrufsjoker (Widerruf).
 
 ### Kreditkündigung § 490 BGB
-
-## Zweck
-
-Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer (Abwehr) und Banken (Rechtssicherheit). Zeitkritisch: nach Kündigung beginnen Vollstreckungsfristen.
 
 ## Mandantenfragen — Kaltstart
 
@@ -225,10 +219,6 @@ des Kreditverhältnisses zu den bisherigen Konditionen.
 **Fokus:** Krypto-Unternehmen beantragt MiCA-Lizenz für Stablecoin (ART oder EMT) bei BaFin. MiCA VO 2023/1114 Art. 16-21 Whitepaper-Pflicht Art. 19 Eigenmittel Art. 35 Reserveaktiva Art. 36-38. Normen MiCA Art. 16-21 KWG WpIG BaFin-Merkblatt. Prüfraster Lizenzanforderungen Whitepaper-Inhalt Eigenmittel-Berechnung Prüfdauer 180 Tage. Output BaFin-Lizenzantrag Whitepaper-Entwurf. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-orientierung (Überblick) und mandat-triage-bank-kapitalmarktrecht (Ersterfassung).
 
 ### MiCA-Stablecoin-Emittenten — Art. 16-21 Lizenzierung (BaFin)
-
-## Zweck
-
-Beratung von FinTechs und Banken bei der Lizenzierung als Emittent von Asset-Referenced Tokens (ART) oder E-Money Tokens (EMT) nach MiCA-VO (EU) 2023/1114, Titel III/IV. MiCA gilt für ART/EMT seit 30.6.2024 und für CASP (Krypto-Dienstleister) seit 30.12.2024. Die BaFin ist für Deutschland die zuständige nationale Behörde.
 
 ## Mandantenfragen — Kaltstart
 
@@ -468,23 +458,11 @@ Begründung:
 - BaFin-Meldung vom 6.10.2025 zu interaktivem Kryptowerte-Informationsblatt — bafin.de
 - BaFin Aufsicht ZK 1 für ART/EMT — bafin.de/EN/Aufsicht/MiCAR
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung`
 
 **Fokus:** Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Prüfraster Zulassigkeits-Check Vergleichs-Chancen Kosten-Nutzen Zeitlinie. Output Ombudsmann-Antrag BaFin-Beschwerde Vergleichs-Konzept. Abgrenzung zu anlageberatungsfehler-prüfen (Klageroute) und schriftsatzkern-substantiierung (Klage).
 
 ### Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung
-
-## Zweck
-
-Außergerichtliche Beschwerde- und Schlichtungsverfahren im Bank-/Kapitalmarktrecht. Spezifika: **Ombudsmann der privaten Banken** (BVR, Bankenverband), **BaFin-Beschwerden**, **WpHG-Schiedsstelle DSW**, **EU-ODR-Plattform**. In den meisten Bank-/Anlagestreitigkeiten ist eine Klage erst nach Schlichtungsversuch sinnvoll.
 
 ## Eingaben
 
@@ -559,12 +537,6 @@ Außergerichtliche Beschwerde- und Schlichtungsverfahren im Bank-/Kapitalmarktre
 - **Beweislast-Erleichterungen** § 280 BGB i.V.m. WpHG-Beratungspflichten dokumentieren
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **MiFID-Beratungsdokumentation** rügen: Bank muss vollständig dokumentieren
-
-## Querverweise
-
-- `fachanwalt-bank-kapitalmarktrecht-orientierung` — Triage
-- `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` — Anlagebetrug
-- `fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin` — Krypto-Sonderfall
 
 ## Quellen und Updates
 
@@ -655,3 +627,4 @@ Geprüft: BGH VI ZR 516/19 (NOT_FOUND auf dejure.org)
 Ersatz: BGH III ZR 60/19, NJW 2021, 153 (verifiziert auf dejure.org)
 Thema: Güteantrag Verjährungshemmung § 204 BGB — thematisch passend für Schlichtungs-Kontext
 -->
+

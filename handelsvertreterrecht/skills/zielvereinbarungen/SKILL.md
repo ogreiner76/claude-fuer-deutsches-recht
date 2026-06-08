@@ -5,10 +5,6 @@ description: "Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßig
 
 # Zielvereinbarungen im Handelsvertretervertrag — Bonus und Provision nach § 87 HGB
 
-## Arbeitsbereich
-
-Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche bei einseitiger Zielveränderung oder Nicht-Erreichbarkeit der Ziele. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Bonus mit Provision verwechselt — Anspruchsgrundlagen falsch bestimmt.
 - Keine Vertragsanpassung nach § 313 BGB geltend gemacht — Anspruch verfallen.
 
-## Output
-
-Zielvereinbarungs-Analyse, AGB-Prüfvermerk, Schadensersatzberechnung bei Zielvereitelung.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 280 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__280.html)
 - [§ 313 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__313.html)
 - [Dejure § 307 BGB](https://dejure.org/gesetze/BGB/307.html)
+

@@ -26,9 +26,6 @@ Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in berufliche
 - § 823 Abs. 1 BGB — Persoenlichkeitsrecht; fehlerhafte Titelanrede kann Verletzung sein
 - § 1 BJagdG analog — Respekt vor Amtstiteln in hoheitlichem Schriftverkehr
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Anrede-Empfehlung
 
 **Situation:** [Beschreibung Adressat und Kontext]
@@ -72,10 +69,6 @@ Die Wahl der Schlussformel spiegelt die Intensität der Förmlichkeit wider. "Mi
 
 **Vorher:** (kein Abschlusssatz, nur Unterschrift)
 **Nachher:** "Mit freundlichen Grüßen" / "Mit kollegialen Grüßen"
-
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Empfohlene Anrede in der konkreten Situation. (2) Alternative Anreden nach Förmlichkeitsgrad. (3) Empfohlene Schlussformel. (4) Begründung mit Verweis auf berufsrechtliche oder konventionelle Grundlage.
 
 ## Normen und Rechtsprechung
 

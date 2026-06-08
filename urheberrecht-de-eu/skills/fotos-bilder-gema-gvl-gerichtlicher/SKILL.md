@@ -5,10 +5,6 @@ description: "Prueft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, 
 
 # Fotos, Bilder und Design
 
-## Arbeitsbereich
-
-Prueft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, Stocklizenz, KI-Bild und Bildbearbeitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,3 +80,4 @@ Konkret zu prüfen:
 - § 72 UrhG (Lichtbilder)
 - § 23 KUG (Recht am eigenen Bild)
 - Art. 6, 9 DSGVO
+

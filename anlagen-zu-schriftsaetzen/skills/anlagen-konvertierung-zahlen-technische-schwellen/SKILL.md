@@ -18,12 +18,7 @@ Arbeitsfokus: **Konvertierung, Zahlen und technische Schwellen**. Prüfe diese A
 - `§ 420 ZPO` — Vorlegung durch Beweisführer.
 - `§ 142 Abs. 1 ZPO` — Urkundenvorlegung durch Partei/Dritte.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill ist der technische Vorfilter zwischen Kanzleiordner und gerichtlichem Anlagenpaket.
 
 ## Mindestinput
 
@@ -75,3 +70,4 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 - Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
 - Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
 - Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
+

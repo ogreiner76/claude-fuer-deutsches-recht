@@ -5,10 +5,6 @@ description: "Glaeubigerbank will Pfandrecht an Luftfahrzeug bestellen und gleic
 
 # Registerpfandrecht – Pfandrecht vorbereiten
 
-## Arbeitsbereich
-
-Glaeubigerbank will Pfandrecht an Luftfahrzeug bestellen und gleichzeitig Cape-Town-Sicherungsinteresse eintragen. Prueft LuftFzgG §§ 1-12 Notarerfordernis Rangordnung AG-Braunschweig-Antrag Cape-Town-Prioritaet und liefert Bestellungs-Checkliste und Antragsentwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,6 +43,7 @@ LuftFzgG §§ 1-12 Cape Town Convention Art. 16 19 29 AG Braunschweig Notar ZPO 
 - **LuftFzgG § 4**: Pfandrechtseintragung beim AG Braunschweig; konstitutive Wirkung.
 - **LuftFzgG § 25**: Pfandrechtsvollstreckung; Verwertung durch Versteigerung.
 - **ZPO § 864**: Pfändung eingetragener Luftfahrzeuge; besonderer Vollstreckungsweg.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -57,6 +54,7 @@ LuftFzgG §§ 1-12 Cape Town Convention Art. 16 19 29 AG Braunschweig Notar ZPO 
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist die Rangfolge konkurrierender Pfandrechte (national vs. Cape Town) klar ermittelt?
 8. Ist das Pfandrecht bei Weiterveräußerung des Luftfahrzeugs erloschen (LuftFzgG § 27)?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -75,9 +73,6 @@ Die Registerauswertung ist Grundlage jeder luftrechtlichen Due-Diligence-Prüfun
 - **ICAO International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
 - **Registerauszug Aktualität**: Stets aktuellen Auszug anfordern; veraltete Auszüge führen zu Haftungsrisiken.
 
-## Output
-
-Strukturierter Vermerk zu Registerpfandrecht – Pfandrecht vorbereiten mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Registerauszug-Analyse mit Rangfolge. Vollstreckungsfahrplan.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -104,3 +99,4 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

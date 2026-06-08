@@ -10,10 +10,6 @@ description: "Vergleich § 779 BGB: gegenseitiges Nachgeben, Irrtum über Grundl
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Vergleichsvertrag nach § 779 BGB prüfen: Voraussetzungen des gegenseitigen Nachgebens, Fehler über die Vergleichsgrundlage, Nichtigkeitsfolgen und Abgrenzung zum Erlass und zur Anerkenntnis.
-
 ## Normanker
 
 - § 779 BGB: Vergleich (gegenseitiges Nachgeben zur Beilegung eines streitigen Rechtsverhältnisses)
@@ -47,25 +43,13 @@ Vergleichsvertrag nach § 779 BGB prüfen: Voraussetzungen des gegenseitigen Nac
 - § 779 Abs. 1 Hs. 2 BGB: Irrtum muss die Vergleichsgrundlage betreffen; späterer Irrtum genügt nicht.
 - Gerichtlicher Vergleich hat zusätzliche Wirkungen als Vollstreckungstitel; Widerruf beachten.
 - Vorsorgevorbehalt (z.B. Steuervorbehalt) kann Endgültigkeit des Vergleichs einschränken.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Vergleichs-Wirksamkeits-Prüfung
-- Irrtum-über-Vergleichsgrundlage-Analyse
-- Abgrenzungsmatrix (Vergleich, Erlass, Anerkenntnis)
-- Vollstreckungs-Optionen bei gerichtlichem Vergleich
-
-## Qualitätsregeln
-
-- Gegenseitiges Nachgeben als Kernmerkmal immer sachverhaltsnah belegen.
-- Irrtum nach § 779 Abs. 1 Hs. 2 BGB nur bei gemeinsamem und vorherigem Sachverhaltsmerkmal anwenden.
-- Prozessuale Wirkungen des gerichtlichen Vergleichs gesondert prüfen.
 
 ## Anschluss-Skills
 
@@ -78,10 +62,4 @@ Vergleichsvertrag nach § 779 BGB prüfen: Voraussetzungen des gegenseitigen Nac
 - https://www.gesetze-im-internet.de/bgb/__779.html
 - https://www.gesetze-im-internet.de/bgb/__397.html
 - https://www.gesetze-im-internet.de/zpo/__794.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

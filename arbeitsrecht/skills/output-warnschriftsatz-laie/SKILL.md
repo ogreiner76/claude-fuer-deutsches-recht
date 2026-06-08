@@ -13,10 +13,6 @@ description: "Ausgabe vollständige Klageschrift mit Pflicht-Disclaimer-Kopf fü
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Dieser Skill führt alle Bausteine des KüSchK-Laien-Workflows zu einem vollständigen, druckfertigen Klageschrift-Entwurf zusammen — inklusive Pflicht-Disclaimer-Kopf.
-
 ## Vollständige Klageschrift (Laie)
 
 ---
@@ -149,9 +145,6 @@ Step 7: Einreichungshinweise ausgeben
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Einreichungshinweise
 
 1. **Frist:** Die Klageschrift muss innerhalb von **drei Wochen** nach Zugang der Kündigung beim Arbeitsgericht eingehen.
@@ -165,3 +158,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+

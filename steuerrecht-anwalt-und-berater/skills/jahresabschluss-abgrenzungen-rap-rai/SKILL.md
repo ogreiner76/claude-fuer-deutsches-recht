@@ -86,12 +86,6 @@ Rechnungsabgrenzungsposten (RAP) sind die bilanzielle Zuordnung von Aufwand und 
 - § 5 Abs. 5 EStG: aktive RAP sind in der Steuerbilanz zwingend.
 - Steuerbilanz und Handelsbilanz oft identisch in RAP.
 
-## Output
-
-- RAP-Liste mit Berechnungsbasis.
-- Buchungen im Hauptbuch.
-- Bilanz mit RAP-Posten.
-
 ## Strategie und Praxis-Tipps
 
 - Standard-RAP (Versicherung, Miete, Kfz-Steuer) sind wiederkehrend — Routine.
@@ -99,12 +93,6 @@ Rechnungsabgrenzungsposten (RAP) sind die bilanzielle Zuordnung von Aufwand und 
 - Bei kleinen RAP-Betraegen unter Wesentlichkeitsschwelle: ggf. nicht abgrenzen (vgl. BMF zu RAP-Bagatelle).
 - Bei Pruefungspflicht: WP prueft RAP detailliert.
 - DATEV-Tipp: DATEV-AfA-Modul kann RAP-Aufloesung monatlich automatisch.
-
-## Querverweise
-
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-jahresabschluss-rueckstellungen-bewertung` — Rueckstellungen.
-- `stb-bwa-aufbau-grundlagen` — BWA mit Periodenabgrenzung.
 
 ## Quellen und Updates
 
@@ -114,10 +102,3 @@ Stand: 05/2026.
 - EStG §§ 5, 6.
 - IDW PS 480.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

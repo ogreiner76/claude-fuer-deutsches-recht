@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Freiflaechen-Solarparks und Trafos
 
 # Bauueberwachung Solarpark und Trafostation
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Freiflaechen-Solarparks und Trafostationen — Kontrolle Rammpfaehle und Schraubanker nach DIN 1054 und EC7, Modulaufstaenderung Stahlkonstruktion nach DIN EN 1993-1-1, Erdungsanlage und Potentialausgleich nach DIN VDE 0100-410, Mittelspannungstransformator-Aufstellung, Kabeltrassenverlegung und DGUV-gerechte Abnahme. Umfasst UAV-Thermografie, SAP-PM-Integration und VOB/C-Protokollierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 - Trafostation ohne Oelrueckhaltewanne: Umweltschutzauflage fehlt, Netzbetreiber verweigert Netzanschluss, Nachruestung dauert 4-6 Wochen
 - Stringkabel ohne Zugentlastung: Windlast-bedingte Kabelermuedung fuehrt nach 5 Jahren zu Kabelbruch, nicht abnahmekonform nach VDE 0100-610
 
-## Output
-
-Rammprotokoll je Pfahlreihe mit Kurvendiagramm und GPS. Abnahmeprotokoll Stahlkonstruktion mit Schweissnaht-Sichtpruefung. Thermografie-Bericht Modulanlage mit Defektliste. Kabel-Isolationsmessprotokoll. Netzanschluss-Abnahmeprotokoll. Bautagebuch chronologisch. SAP-PM-Anlagenstruktur mit Equipment-IDs für Betriebsphase.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Rammprotokoll je Pfahlreihe mit Kurvendiagramm und GPS. Abnahmeprotokoll Stahlko
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 823 Schadensersatz](https://www.gesetze-im-internet.de/bgb/__823.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
+

@@ -5,10 +5,6 @@ description: "Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftu
 
 # Pension Buyout im M&A-Deal — Asset vs. Share Deal
 
-## Arbeitsbereich
-
-Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -226,3 +222,4 @@ EMPFEHLUNG:
 - → `drei-stufen-theorie-eingriffsanalyse` — historische Eingriffe als DD-Befunde
 
 ## Ergaenzende Rechtsprechung (v14.2)
+

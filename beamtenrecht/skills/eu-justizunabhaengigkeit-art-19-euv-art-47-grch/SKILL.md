@@ -42,9 +42,3 @@ Dieser Skill ergänzt das deutsche Richterrecht, wenn unionsrechtliche Bezüge a
 
 Vor Verwendung wird die konkrete Entscheidung in EUR-Lex geprüft. Der Skill zitiert keine Zusammenfassung aus zweiter Hand als Rechtsprechung.
 
-## Output
-
-- Unionsrechts-Abschnitt für Schriftsatz.
-- Vorlagefragen-Entwurf.
-- Risikoanalyse für nationale Disziplinar- oder Ernennungsregeln.
-- Kurzer Vergleich: deutsches Art. 97-GG-System und unionsrechtliche Mindestanforderungen.

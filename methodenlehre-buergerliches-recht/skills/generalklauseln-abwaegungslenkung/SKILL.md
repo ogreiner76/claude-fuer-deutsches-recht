@@ -53,10 +53,6 @@ description: "Systematisiert den methodisch korrekten Umgang mit Generalklauseln
 - Fallgruppenbildung der Rechtsprechung wird ignoriert, was zu Inkonsistenz und Gleichheitsverstößen führt.
 - Transparenz der Wertungsmaßstäbe fehlt: Das Ergebnis steht, die normative Herleitung ist unklar.
 
-## Output
-
-Das Skill liefert eine Generalklausel-Analyse: Einschlägigkeit, Fallgruppeneinordnung, normative Quellen der Wertungsmaßstäbe, Verhältnismäßigkeitsprüfung und Begründungsvorschlag für die Entscheidung. Verwendbar in Schriftsätzen, Gutachten und Revisionsrügen bei generalklauselgestützten Urteilen.
-
 ## Vertiefung: Fallgruppenbildung als Konkretisierungsmechanismus
 
 Die Konkretisierung von Generalklauseln erfolgt im deutschen Recht primär durch Fallgruppenbildung in der Rechtsprechung. Diese Fallgruppen haben faktische Bindungswirkung und strukturieren die Abwägung. Wer eine neue Fallgruppe vorschlagen will, muss die Vergleichbarkeit mit anerkannten Gruppen begründen und die neuen Wertungsmaßstäbe aus dem Normzweck ableiten.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 7, 198 – Lüth-Urteil, mittelbare Drittwirkung und Wertordnung](https://www.bverfg.de/e/rs19580115_1bvr040051.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

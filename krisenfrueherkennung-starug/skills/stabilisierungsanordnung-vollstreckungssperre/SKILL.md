@@ -5,10 +5,6 @@ description: "Stabilisierungsanordnung Vollstreckungssperre im Plugin Krisenfrue
 
 # Stabilisierungsanordnung Vollstreckungssperre
 
-## Arbeitsbereich
-
-**Stabilisierungsanordnung Vollstreckungssperre** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Stabilisierungsanordnung Vollstreckungssperre im Plugin Krisenfrue
 - Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `stabilisierungsanordnung-und-vollstreckungssperre`
@@ -108,36 +105,6 @@ AUFHEBUNG VOR FRISTABLAUF:
  - Von Amts wegen bei Wegfall der Voraussetzungen
  - Auf Gläubigerantrag bei Obliegenheitsverletzung (§ 59 StaRUG)
 ```
-
----
-
-## Vorgehen
-
-### Schritt 1: Prüfung der Anordnungsvoraussetzungen
-
-- [ ] Liegt drohende Zahlungsunfähigkeit vor?
-- [ ] Ist die Restrukturierungssache bereits angezeigt?
-- [ ] Welche konkreten Vollstreckungs-/Verwertungsmaßnahmen drohen?
-- [ ] Ist die Anordnung verhältnismäßig und erforderlich?
-- [ ] Gibt es alternative Schutzmaßnahmen (Verhandlungsstillhalteabkommen)?
-
-### Schritt 2: Antrag vorbereiten
-
-Der Antrag muss enthalten:
-
-1. **Darstellung der Situation:** Warum droht Vollstreckung? Von welchem Gläubiger?
-2. **Restrukturierungsplan-Status:** Wie weit ist der Plan vorbereitet?
-3. **Verhältnismäßigkeitsdarlegung:** Warum ist die Anordnung erforderlich?
-4. **Zumutbarkeitsargumentation:** Warum ist die Beeinträchtigung der Gläubiger zumutbar?
-5. **Planungsunterlagen** als Anlagen (Finanzplan, ggf. IDW S 6-Gutachten)
-
-### Schritt 3: Gläubigerbenachrichtigung
-
-Alle von der Anordnung betroffenen Gläubiger sind unverzüglich zu benachrichtigen (§ 50 StaRUG):
-
-- Information über Anordnung und ihre Wirkung
-- Hinweis auf Widerspruchsrecht
-- Information über Verfahrensstatus und Zeitplan
 
 ---
 
@@ -252,14 +219,6 @@ Mit freundlichen Grüßen
 
 ---
 
-## Querverweise
-
-- → `restrukturierungsplan-architektur-paragraph-7ff-starug` — Planvoraussetzung für Anordnung
-- → `restrukturierungsbeauftragter-und-sachwalter` — Rolle externer Organe während Anordnung
-- → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Zugangsvoraussetzung
-- → `cross-class-cram-down-und-absolute-priority` — Parallele Planabstimmung unter Schutz
-- → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Pflichten während Anordnung
-
 ## Aktuelle Leitentscheidungen — Stabilisierungsanordnung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -283,3 +242,4 @@ Rechtsprechung live pruefen: Thema und Fundstelle nur mit freier/amtlicher Quell
 Rechtsprechung live pruefen: Falsche Themenzuordnung ohne verifizierte Quelle nicht ausgeben.
 Kein echter StaRUG-Bezug. Aktion: Eintrag geloescht.
 -->
+

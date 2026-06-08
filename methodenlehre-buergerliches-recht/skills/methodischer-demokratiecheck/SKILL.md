@@ -53,10 +53,6 @@ description: "Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf ihre dem
 - Demokratieargumente werden instrumentalisiert: Sie werden nur gegen unerwünschte Entscheidungen eingesetzt.
 - Art. 79 Abs. 3 GG als absolute Grenze wird nicht in Betracht gezogen, wenn Grundsätze des Demokratieprinzips durch Richterrecht ausgehöhlt werden.
 
-## Output
-
-Das Skill liefert einen Demokratiecheck: Identifikation der demokratischen Vorentscheidung, Prüfung der methodischen Entscheidung gegen das Demokratieprinzip, Kompetenzanalyse, Legitimationskette und Formulierung der demokratietheoretischen Konsequenz. Verwendbar für Verfassungsbeschwerden, wissenschaftliche Beiträge und institutionelle Reformdiskussionen.
-
 ## Vertiefung: Parlamentsvorbehalt im Privatrecht
 
 Der Parlamentsvorbehalt ist nicht nur im Öffentlichen Recht relevant: Auch im Privatrecht verlangen grundrechtlich wesentliche Entscheidungen eine parlamentarisch-gesetzliche Grundlage. Die Wesentlichkeitslehre des BVerfG gilt auch hier: Wenn eine richterrechtliche Fortbildung in grundrechtsrelevante Bereiche eingreift, ohne gesetzliche Ermächtigung, fehlt ihr die demokratische Legitimation.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 123, 267 – Lissabon-Urteil, Demokratieprinzip](https://www.bverfg.de/e/es20090630_2bve000208.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

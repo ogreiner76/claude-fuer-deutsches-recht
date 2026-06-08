@@ -45,13 +45,6 @@ description: "Klausurfall zum Missbrauch der Vertretungsmacht: kollusives Zusamm
 - Bei Kollusion ist § 138 BGB die richtige Rechtsfolge, nicht § 242 BGB.
 - § 166 BGB-Wissenszurechnung kann zu Lasten des Vertretenen wirken — Doppelwirkung beachten.
 
-## Output
-
-- Gutachtenstil-Abschnitt zum Missbrauch der Vertretungsmacht
-- Prüfampel: Vertrag wirksam / nichtig nach § 138 BGB / Einwendung nach § 242 BGB
-- Klausurlösungsskizze mit Schadensersatz-Folgeprüfung
-- Rückfragenliste zu Vollmachtsumfang und Drittkenntnis
-
 ## Quellen
 
 - [§ 164 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__164.html)
@@ -81,3 +74,4 @@ nach § 138 BGB tritt neben die strafrechtliche Verantwortlichkeit.
 - Kollusion: Gemeinsames Handeln von Vertreter und Drittem zum Nachteil des Vertretenen?
 - Evidenz: War Missbrauch für Dritten auf den ersten Blick erkennbar?
 - Rechtsfolge: § 138 BGB (Kollusion) oder § 242 BGB (Evidenz ohne Kollusion)?
+

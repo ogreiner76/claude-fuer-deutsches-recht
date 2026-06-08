@@ -39,10 +39,6 @@ description: "Erstgespraech-Leitfaden für steuerrechtliche Mandate. Anwendungsf
 
 § 43a BRAO · § 57 StBerG · §§ 80 ff. AO · § 62 FGO · § 393 AO · § 355 AO (Einspruchsfrist) · § 47 FGO (Klagefrist) · § 49b BRAO · § 64 StBerG · RVG · StBVV
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
-
 ## Praxisformulierung / Antragsmuster
 
 ```
@@ -67,3 +63,4 @@ umfassend zur Vertretung, insbesondere zur:
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+

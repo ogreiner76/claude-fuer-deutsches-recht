@@ -42,7 +42,3 @@ description: "AGB Transparenzgebot § 307 Abs. 1 Satz 2 BGB. Skill arbeitet die 
 4. Wirtschaftliche Folgen vorhersehbar?
 5. Verschachtelung problematisch?
 
-## Output
-
-- Klauselentwurf "transparente Version".
-- Schriftsatzbaustein.

@@ -5,10 +5,6 @@ description: "Kabelschäden: Leitungsauskunft, Verkehrssicherung, Tiefbau, Schad
 
 # Kabelschaden durch Bauarbeiten
 
-## Arbeitsbereich
-
-Kabelschäden: Leitungsauskunft, Verkehrssicherung, Tiefbau, Schadensersatz, Betriebsunterbrechung und Beweissicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Kabelschäden: Leitungsauskunft, Verkehrssicherung, Tiefbau, Schadensersatz, Bet
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Netzbetreiber, Bauunternehmen und Versicherer.
-
 ## Norm- und Quellenanker
 
 BGB §§ 823, 280; TKG Infrastruktur; Straßen-/Baurecht; ZPO.
-
-## Arbeitsfragen
-
-1. Wurde Leitungsauskunft eingeholt?
-2. Welche Pläne und Markierungen?
-3. Welcher Schaden und Folgeschaden?
-
-## Output
-
-Kabelschaden-Dossier und Anspruchsschreiben.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Kabelschaden-Dossier und Anspruchsschreiben.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

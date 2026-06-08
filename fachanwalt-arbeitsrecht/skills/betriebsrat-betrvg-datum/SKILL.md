@@ -5,9 +5,6 @@ description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft
 
 # Betriebsrat Betrvg Datum
 
-## Arbeitsbereich
-
-**Betriebsrat Betrvg Datum** ordnet den Fall über die tragenden Prüfungslinien: Betriebsrat, BetrVG, Datum. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-betriebsrat-zahlen-schwellen-und-berechnung`
@@ -38,9 +36,6 @@ description: "Betriebsrat Betrvg Datum im Plugin Fachanwalt Arbeitsrecht: prüft
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Präzise Berechnung und Prüfung der betriebsverfassungsrechtlichen Schwellenwerte: BR-Größe, Freistellungen, Wahlberechtigung, Betriebsbegriff. Grundlage für die Erstprüfung bei jedem Mandat mit BR-Bezug.
 
 ## Einstieg
 Wenn ein betriebsverfassungsrechtlicher Sachverhalt vorliegt, zuerst klären:
@@ -153,12 +148,6 @@ Räumlich weit entfernte Betriebsteile oder organisatorisch selbständige Betrie
 - `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` für Beschlussmängel
 - `spezial-betrvg-behoerden-gericht-und-registerweg` für Verfahrenswege
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Leiharbeitnehmer-Zählungsfragen: aktuelle BAG-Linie live prüfen.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu Betriebsverfassungsrechtsverstößen im konkreten Einzelfall ohne vollständige Sachverhaltskenntnis.
 - Keine Berechnung von Wahlresultaten oder Sitzzuteilung.
@@ -176,9 +165,6 @@ Räumlich weit entfernte Betriebsteile oder organisatorisch selbständige Betrie
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vollständiger Überblick über Verfahrenswege bei betriebsverfassungsrechtlichen Streitigkeiten — welches Verfahren vor welchem Gericht, wer ist Beteiligter, welche Fristen gelten.
 
 ## Einstieg
 Wenn eine betriebsverfassungsrechtliche Frage vorliegt, zuerst bestimmen:
@@ -285,11 +271,6 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 - `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` für Beschlussmängel
 - `spezial-fao-fristen-form-und-zuständigkeit` für Verfahrensrecht
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu europäischen Betriebsräten oder internationalem Betriebsverfassungsrecht.
 - Keine abschließende Prüfung der Beteiligtenstellung ohne vollständige Sachverhaltskenntnis.
@@ -307,9 +288,6 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Praktischer Leitfaden für die fristgerechte und formkorrekte Einreichung von Schriftsätzen, Klagen und Formularen im arbeitsrechtlichen Verfahren — von der Fristberechnung über das beA bis zu den BA-Portalen.
 
 ## Einstieg
 Wenn eine Einreichung ansteht, zuerst klären:
@@ -398,12 +376,7 @@ Bei technischem Ausfall des beA: sofortige Einreichung per Telefax mit gleichzei
 - `spezial-fao-fristen-form-und-zuständigkeit` für weitere Verfahrensfragen
 - `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` für § 17 KSchG-Details
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- BA-Formulare und -Portale live prüfen auf [bundesagentur.de](https://www.bundesagentur.de).
-- beA-Anforderungen: [brak.de](https://www.brak.de) live prüfen; Anforderungen können sich ändern.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Hilfe für beA-Einrichtung oder -Betrieb.
 - Keine Garantie für Aktualität von Formularversionen; stets aktuelle Version beim zuständigen Portal prüfen.
+

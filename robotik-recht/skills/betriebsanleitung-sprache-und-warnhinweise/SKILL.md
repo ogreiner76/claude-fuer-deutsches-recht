@@ -83,12 +83,6 @@ Die Betriebsanleitung ist ein Sicherheitsbauteil im juristischen Sinn: Fehler in
 - **Sprachversion fehlt** in einem Mitgliedstaat.
 - **Digitale Anleitung** ohne Auffindbarkeit nach 10 Jahren – Hersteller-Pflichtverletzung.
 
-## Querverweise
-
-- `ce-zeichen-fehlgebrauch-und-abmahnung`
-- `betreiber-mitverschulden-und-fehlbedienung`
-- `barrierefreiheit-und-inklusion-robotik`
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2023/1230 (MaschinenVO), Art. 10, 11, Anhang III Nr. 1.7.
@@ -99,3 +93,4 @@ Die Betriebsanleitung ist ein Sicherheitsbauteil im juristischen Sinn: Fehler in
 - ProdHaftG; § 823 BGB.
 - ISO 3864; ISO 7010; ANSI Z535.
 - Live-Verifikation auf eur-lex.europa.eu, baua.de, bsi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

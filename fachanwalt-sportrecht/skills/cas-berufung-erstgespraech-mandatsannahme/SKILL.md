@@ -5,9 +5,6 @@ description: "CAS Berufung Erstgespraech Mandatsannahme im Sportrecht: prüft ko
 
 # CAS Berufung Erstgespraech Mandatsannahme
 
-## Arbeitsbereich
-
-**CAS Berufung Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüfungslinien: Sportler oder Verein will Entscheidung eines Sportverbands, Strukturierter Erstgespraechsleitfaden für Sport- und, Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "CAS Berufung Erstgespraech Mandatsannahme im Sportrecht: prüft ko
 - Tragende Normen verifizieren: FAO § 14n (Sportrecht), AntiDopG, NADC, WADC, BGB §§ 25 ff. (Verein), 705 ff., DFB-Satzung/Rechts- und Verfahrensordnung, FIFA-Statuten, CAS-Code, ArbGG (Spielerverträge) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `cas-berufung-vorbereiten`
@@ -536,10 +534,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ### Doping-Berufung CAS
 
-## Zweck
-
-Verteidigung Athlet bei Doping-Vorwurf.
-
 ## 1) WADA-Code
 
 ### Strict Liability
@@ -650,3 +644,4 @@ Verteidigung Athlet bei Doping-Vorwurf.
 - `fachanwalt-sportrecht-orientierung` — Triage
 - `cas-berufung-vorbereiten` (Power-Tool) — Vorbereitung
 - `verbandsstrafe-anfechten` — bei Verbands-Sanktion
+

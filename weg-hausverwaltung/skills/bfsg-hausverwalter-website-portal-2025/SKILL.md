@@ -37,13 +37,6 @@ Pflichten: (1) Zugängliche Gestaltung der Website/des Portals nach WCAG 2.1 AA,
 
 Casavi, Etg24, Vermieter-Cloud und Sander+Doll-Portal werden als Software-as-a-Service erbracht. Verantwortlich nach BFSG ist der Dienstleistungserbringer — das ist die Hausverwaltung, nicht der Software-Anbieter. Verwalter müssen beim Anbieter nachfragen und BFSG-Konformität vertraglich sichern. AVV und BFSG-Konformitätserklärung des Anbieters anfordern.
 
-## Output
-
-- Selbsteinstufungs-Bogen (BFSG anwendbar ja/nein: Kleinstunternehmen-Test, B2C-Prüfung)
-- Audit-Checkliste WCAG 2.1 AA für Verwalter-Website (20 Prüfpunkte mit Bewertung)
-- Anfrage-Muster an Portal-Anbieter (Casavi/Etg24) zu BFSG-Konformitätserklärung
-- Muster Erklärung zur Barrierefreiheit (Pflichtinhalt nach BFSG-Durchführungsverordnung)
-
 ## Cross-Refs
 
 - Barrierefreie Versammlungsdokumente → `barrierefreie-einladung-protokoll-versammlung`
@@ -54,3 +47,4 @@ Casavi, Etg24, Vermieter-Cloud und Sander+Doll-Portal werden als Software-as-a-S
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. BFSG-Text über https://www.gesetze-im-internet.de/bfsg/ und EU-Richtlinie 2019/882 über https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0882 live verifizieren. Bundesfachstelle Barrierefreiheit (bundesfachstelle-barrierefreiheit.de) für aktuelle WCAG-Leitfäden konsultieren.
+

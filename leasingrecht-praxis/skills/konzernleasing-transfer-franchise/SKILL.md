@@ -5,10 +5,6 @@ description: "Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktio
 
 # Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise
 
-## Arbeitsbereich
-
-Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdv
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Wenn eine Konzerngesellschaft Leasingobjekte an eine andere Konzerngesellschaft verleast, unterliegen die Verrechnungspreise dem Fremdvergleichsgrundsatz (§ 1 AStG, Art. 9 OECD-Musterabkommen). Dieses Skill analysiert die Regeln, Dokumentationspflichten und Risiken.
 
 ## Rechtlicher Rahmen
 
@@ -106,3 +98,4 @@ Vergleich der Nettomarge des Leasinggebers mit vergleichbaren Drittunternehmen.
 - **Methoden-Auswahl-Matrix**: CUP / Kostenaufschlag / TNMM – Eignung nach Transaktionsart
 - **Zinsschranken-Memo**: Leasingrate, Zinsanteil, § 4h EStG-Prüfung
 - **BEPS-Risikoeinschätzung**: Captive Lessor – Substanz, Verrechnungspreise, Quellensteuer
+

@@ -5,9 +5,6 @@ description: "Belegchaos Strukturieren Nachtraegliche im Plugin Verbraucherinsol
 
 # Belegchaos Strukturieren Nachtraegliche
 
-## Arbeitsbereich
-
-**Belegchaos Strukturieren Nachtraegliche** ordnet den Fall über die tragenden Prüfungslinien: Schuldnerberatungsstelle, Verbraucherinsolvenz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Belegchaos Strukturieren Nachtraegliche im Plugin Verbraucherinsol
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `verbraucherinsolvenz-belegchaos-strukturieren`
@@ -35,10 +33,6 @@ description: "Belegchaos Strukturieren Nachtraegliche im Plugin Verbraucherinsol
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Skill für Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
 
 ## Ausgangslage
 
@@ -99,14 +93,6 @@ Skill für Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
 4. Vermoegensaufstellung erstellt?
 5. Einkommensberechnung erstellt?
 
-## Output
-
-- Strukturierte Mandatsakte.
-- Glaeubigerliste.
-- Vermoegensaufstellung.
-- Einkommensberechnung.
-- Schuldenbereinigungsplan-Entwurf.
-
 ## 2. `verbraucherinsolvenz-nachtraegliche-glaeubiger`
 
 **Fokus:** Verbraucherinsolvenz: Nachtraegliche Glaeubiger nach Restschuldbefreiung. Skill klaert ob nicht angemeldete Glaeubiger nach Erteilung der Restschuldbefreiung noch Anspruch geltend machen koennen § 301 InsO und Ausnahmen § 302 InsO. Liefert Pruefraster.
@@ -117,10 +103,6 @@ Skill für Schuldnerberatungsstellen zur Strukturierung des Belegchaos.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Skill für nachtraeglich auftauchende Glaeubiger.
 
 ## Norm
 
@@ -152,11 +134,6 @@ Skill für nachtraeglich auftauchende Glaeubiger.
 3. Vorsatz / Arglist?
 4. Verjährung?
 
-## Output
-
-- Memo Glaeubigeranfrage nach Restschuldbefreiung.
-- Schriftsatzbaustein.
-
 ## 3. `verbraucherinsolvenz-pfaendungsschutzkonto`
 
 **Fokus:** Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto. Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrung sowie Wechselwirkung mit Insolvenzverfahren. Liefert Pruefraster.
@@ -167,10 +144,6 @@ Skill für nachtraeglich auftauchende Glaeubiger.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Skill für Pfaendungsschutzkonto.
 
 ## Norm
 
@@ -206,7 +179,3 @@ Skill für Pfaendungsschutzkonto.
 3. Erhoehungsbetraege beantragt?
 4. Bankkommunikation?
 
-## Output
-
-- Antragsvorlage.
-- Pruefraster.

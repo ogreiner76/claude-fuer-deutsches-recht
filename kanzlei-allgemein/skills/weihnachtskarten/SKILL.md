@@ -5,10 +5,6 @@ description: "Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empf
 
 # Weihnachtskarten Mandantenpflege
 
-## Arbeitsbereich
-
-Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfaenger Anschrift E-Mail Versandart (postalisch / digital) Anredeform Bezug zur Kanzlei. Texte für formell-zurückhaltend warm und persoenlich. Druckliste für Postversand inkl Adressetiketten und Frankierhinweis. Versandzeitraum (vor Weihnachten) und Erinnerungen. Datenschutz Art. 6 Abs. 1 lit. f DSGVO berechtigtes Interesse Mandantenpflege; Widerspruchsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -32,9 +28,6 @@ Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfaenger Anschri
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit im Kartenverteiler
 - § 7 UWG — Unzumutbare Belaestigung: E-Mail ohne klare Einwilligung bei Verbrauchern riskant
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verteilerpflege
 
 ```yaml
@@ -128,3 +121,4 @@ CSV mit Spalten: Name Anschrift Stadt PLZ Land Ansprache.
 - Druckliste (CSV).
 - E-Mail-Entwuerfe zur Freigabe.
 - Audit mit Versanddatum pro Empfänger.
+

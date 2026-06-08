@@ -5,10 +5,6 @@ description: "Heranfuehrung Ressort BMDS (Bundesministerium für Digitales und S
 
 # Ressort-Heranfuehrung BMDS
 
-## Arbeitsbereich
-
-Heranfuehrung Ressort BMDS (Bundesministerium für Digitales und Staatsmodernisierung). Schwerpunkt: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht. Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG. Fuenf Spezialfelder: digitale-verwaltung-ozg-und-egovg; it-sicherheit-und-bsig; datenrecht-und-data-act; verwaltungsdigitalisierung-und-registermodernisierung; ki-verordnung-und-aufsichtsstruktur. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmds und legw-bmds-Themenslug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Ressort-Heranfuehrung BMDS**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Ressort-Heranfuehrung BMDS**. Prüfe diese Anker am Sachverhalt;
 - `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -107,54 +102,7 @@ Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich ueber genau d
  Beteiligung kostet politisches Kapital.
 5. **Terminologie inkonsistent** - in der Begruendung andere Begriffe als im Normtext.
 
-## Vorgehen
-
-### Schritt 1 - Stammdaten dieses Ressorts in das Auftragsblatt uebernehmen
-
-Volltitel; Federfuehrung; Mitzeichner; Spiegelausschuss; verantwortliches Referat und Aufsicht
-in das Auftragsblatt einpflegen.
-
-### Schritt 2 - Spezialfeld waehlen
-
-Aus den fuenf Spezialfeldern (siehe oben) das passende waehlen. Bei Mehrfachbezug: das
-schwerpunktmäßige Feld federfuehrend; die anderen als Mitzeichnungs-Schnittstellen.
-
-### Schritt 3 - Ressortaufgaben-Skill rufen
-
-Anschluss an `legw-ressortaufgaben-bmds` - dort ressortspezifische Aufgaben (Begruendung;
-Verbaendeanhoerung; Bundestagsweg; Aufsicht).
-
-### Schritt 4 - Werkstatt-Skills nutzen
-
-`legistik-auftragsaufnahme`; `normhierarchie-routing`; `normenkartierung`;
-`verfassungsmaessigkeit-quercheck`; `europarechtskonformitaet`; `folgenabschaetzung-*` und
-`begruendung-allgemein-und-besonders` ergaenzen.
-
-### Schritt 5 - Optional RuleMapping-Anschluss
-
-Wenn das Vorhaben digital-tauglich werden soll: `legw-rmap-grundlagen` als Einstieg in die 10 RuleMapping-Skills (Abschluss mit `legw-rmap-anschluss-an-legw`).
-
-## Output
-
-Ressort-Kompass im Auftragsblatt:
-
-```
-Ressort: BMDS - Bundesministerium für Digitales und Staatsmodernisierung
-Hausleitung: Karsten Wildberger (CDU)
-Materie: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht.
-Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG.
-Spezialfeld: <gewaehlter Slug>
-Mitzeichner: <Liste>
-Spiegelausschuss: <Bundestags-Ausschuss>
-Verbaendekreis: <Listen-Liste>
-EU-Bezug: <Generaldirektion und Rechtsakt>
-Naechster Skill: legw-ressortaufgaben-bmds
-```
-
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

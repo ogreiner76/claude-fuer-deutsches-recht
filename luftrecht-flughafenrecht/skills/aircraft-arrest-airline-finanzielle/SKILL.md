@@ -5,10 +5,6 @@ description: "Mandant will Flugzeug im Ausland arrestieren oder auslaendischer G
 
 # Aircraft Arrest International – grenzüberschreitender Flugzeug-Arrest
 
-## Arbeitsbereich
-
-Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arrestiert in Deutschland. Prueft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-Vorlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,10 +54,6 @@ Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arre
 - Alternative-B-Staat: kein automatischer Herausgabeanspruch in Insolvenz.
 - Parallel laufende nationale Arreste konkurrieren; Prioritätsreihenfolge unklar.
 
-## Output
-
-Arrest-Strategie-Vermerk mit Jurisdiktion und Cape-Town-Analyse. Local-Counsel-Briefing-Vorlage (Englisch) mit IDERA-Status. Ranganalyse internationale Gläubiger.
-
 ## Quellen
 
 - Cape Town Convention/Aircraft Protocol: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
@@ -88,3 +80,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

@@ -5,10 +5,6 @@ description: "Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamten
 
 # Landesrecht - 16-Länder-Routenplan
 
-## Arbeitsbereich
-
-Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,3 +60,4 @@ Der Skill stoppt Ausgaben, wenn:
 - Beamter und Tarifbeschäftigter vermischt werden;
 - die Akte aus einem Stadtstaat stammt und Kommunal-/Landesebene unklar ist;
 - altes BRRG/BBesG ohne Übergangsgrundlage benutzt werden soll.
+

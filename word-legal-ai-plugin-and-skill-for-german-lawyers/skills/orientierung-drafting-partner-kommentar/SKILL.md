@@ -5,10 +5,6 @@ description: "Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dok
 
 # Orientierung und Drafting-Triage
 
-## Arbeitsbereich
-
-Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Fachmodulen word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stad
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Jeder Drafting-Auftrag beginnt mit einer Triage. Bevor Sie eine Klausel schreiben, eine Klage entwerfen oder einen Schriftsatz strukturieren, müssen drei Dinge feststehen: welches Dokument, welches Stadium, welcher Adressat. Dieser Skill bringt Sie in zwei Rückfragen dorthin und legt sofort die Mandatsmatrix offen. Er ist der Einstiegspunkt für das Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` (Word Legal AI Plugin and Skill for German Lawyers, bis v50.6.x unter dem Slug `juristisches-drafting`).
-
-Er ersetzt nicht die spezialisierten Skills, sondern verweist auf sie. Wenn die Anfrage wirklich diffus ist, beginnt die Arbeit mit `kaltstart-drafting-kommandocenter`. Wenn Dokumenttyp und Ziel bereits erkennbar sind, beginnt die Arbeit hier und verzweigt sofort in die Fachmodule.
-
-Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält keinen Vortrag zur Drafting-Theorie. Sobald die drei Triagefragen beantwortet sind, erzeugt er eine Mandatsmatrix und schlägt die nächsten Skills vor.
 
 ## Eingaben
 
@@ -84,12 +72,6 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 - **Frist nicht erfasst.** Drafting ohne Frist ist akademisch.
 - **Kein Verweis auf Fachmodule.** Triage-Skill versucht selbst, alle Aspekte zu lösen, statt zu übergeben.
 
-## Ausgabeformat
-
-- Mandatsmatrix als Tabelle.
-- Liste der nächsten zwei bis fünf Skills.
-- Optional: Skelettentwurf mit Platzhaltern in eckigen Klammern.
-
 ## Beispiel
 
 **Anfrage:** "Wir verhandeln eine Lieferantenvereinbarung mit einem mittelgroßen Werkzeugbauer. Der Lieferant hat einen Entwurf geschickt. Wir wollen Markup zurückspielen, Frist eine Woche."
@@ -113,25 +95,9 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 3. `verweis-und-querverweis-technik` für Anlagen und interne Verweise.
 4. `boilerplate-klauseln-katalog` für Schriftform, Gerichtsstand, Rechtswahl.
 
-## Querverweise
-
-- `dokumentarchitektur-vertrag-und-schriftsatz`
-- `drafting-prinzipien-klarheit-bestimmtheit-praezision`
-- `stil-und-ton-juristische-texte`
-- `kaltstart-drafting-kommandocenter`
-- `deutscher-kanzleistil-kalibrieren`
-- `finaler-writing-quality-gate`
-
 ## Quellen (Stand 05/2026)
 
 - § 43a BRAO und § 203 StGB für Vertraulichkeit; gesetze-im-internet.de.
 - `references/methodik-buergerliches-recht.md` für Stilwahl Gutachtenstil und Urteilsstil.
 - Fachmodule im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` als Folgeartefakt; vom Nutzer zu validieren, falls die genannten Skills im konkreten Setup nicht aktiviert sind.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

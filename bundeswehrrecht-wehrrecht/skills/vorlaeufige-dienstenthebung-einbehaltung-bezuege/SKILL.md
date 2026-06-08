@@ -5,10 +5,6 @@ description: "Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO �
 
 # Vorläufige Dienstenthebung und Einbehaltung von Bezügen
 
-## Arbeitsbereich
-
-Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Sie darf nur bei schwerwiegenden Fällen angeordnet werden und ist sofort mit WB
 - § 9 WBO — Vollzugsaussetzung
 - BBesG § 9a — Besoldungskonsequenzen
 - StPO — Paralleles Strafverfahren
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -95,21 +85,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Sofortmaßnahmen nach Dienstenthebung
 - Muster-Vollzugsaussetzungsantrag § 9 WBO
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/wdo_2002/ — WDO §§ 126–131
-- https://www.gesetze-im-internet.de/wbo/ — § 9 WBO
-- https://www.bverwg.de
-- https://openjur.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -119,3 +94,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

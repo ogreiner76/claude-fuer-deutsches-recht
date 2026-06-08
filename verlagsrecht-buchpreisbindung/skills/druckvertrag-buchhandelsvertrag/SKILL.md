@@ -5,10 +5,6 @@ description: "Verlagsrecht: Druckverträge, Papierlieferengpässe, Lieferverzug 
 
 # Verl-024 · Druckvertrag, Papierengpass und Lieferverzug
 
-## Arbeitsbereich
-
-Verlagsrecht: Druckverträge, Papierlieferengpässe, Lieferverzug der Druckerei — Werkvertragsrecht, höhere Gewalt, Schadensersatz, Preisklauseln und Notfallplanung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -130,3 +126,4 @@ Ein Druckvertrag sollte enthalten:
 - **Preisgleitklausel-Bewertung**: Index, Formel, Risiko
 - **Mängelrüge-Entwurf** an Druckerei
 - **Notfallplan Druck**: Backup-Optionen bei Ausfällen
+

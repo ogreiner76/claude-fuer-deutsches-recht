@@ -5,10 +5,6 @@ description: "Probezeit, Bewährung, Verlängerung und Ernennung auf Lebenszeit 
 
 # Probezeit Und Lebenszeiternennung
 
-## Arbeitsbereich
-
-Probezeit, Bewährung, Verlängerung und Ernennung auf Lebenszeit für Beamte und Richter auf Probe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Probezeit, Bewährung, Verlängerung und Ernennung auf Lebenszeit für Beamte un
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Probezeit, Bewährung, Verlängerung und Ernennung auf Lebenszeit für Beamte und Richter auf Probe.
-
-## Arbeitsweise
-
-Prüfe Laufbahnrecht, dienstliche Beurteilungen, Bewährungsberichte, gesundheitliche Eignung und Fristen. Bei Richtern zusätzlich DRiG-Rechtsformen und richterliche Besonderheiten.
 
 ## Pflichtfragen
 
@@ -41,10 +29,3 @@ Prüfe Laufbahnrecht, dienstliche Beurteilungen, Bewährungsberichte, gesundheit
 4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
 5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
 
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.

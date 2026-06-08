@@ -5,10 +5,6 @@ description: "Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterv
 
 # Kündigungsschreiben im Handelsvertretervertrag — Form, Fristen und Inhalt
 
-## Arbeitsbereich
-
-Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterverträge: ordentliche Kündigung mit korrekter Fristenberechnung nach § 89 HGB, außerordentliche Kündigung nach § 89a HGB mit wichtigem Grund, Aufhebungsvereinbarungen sowie formale Anforderungen (Schriftform, Zugang, Bevollmächtigung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Zweiwochenfrist bei außerordentlicher Kündigung überschritten.
 - Ausgleichsanmeldung nicht fristgerecht nach § 89b Abs. 4 HGB — Anspruch erloschen.
 
-## Output
-
-Muster ordentliche Kündigung, Muster außerordentliche Kündigung mit Begründung, Muster Aufhebungsvereinbarung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [§ 130 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__130.html)
 - [Dejure § 89 HGB](https://dejure.org/gesetze/HGB/89.html)
+

@@ -102,13 +102,6 @@ Fragen zum Einstieg:
 - Insolvenz des Kunden vor Aufdeckung – § 91 InsO blockiert nachträgliche Zugriffe.
 - Treuhandkonto fehlt – kein Schutz vor Vermengung mit Kundenkonten.
 
-## Querverweise
-
-- `debitorenkommunikation-und-abtretungsanzeige`
-- `einziehungsbefugnis-debitoren-zahlungskanaele-treuhandkonto`
-- `insolvenz-des-factoringkunden-aussonderung-absonderung`
-- `datenschutz-debitorendaten-dsgvo-informationspflichten`
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 398, 407, 409, 410 zur Abtretung und Schuldnerschutz.
@@ -116,3 +109,4 @@ Fragen zum Einstieg:
 - InsO §§ 80, 91 zur Verfügungsbeschränkung im Insolvenzverfahren.
 - DSGVO Art. 14, insbesondere Abs. 5 lit. b zur Ausnahme von der Informationspflicht.
 - BGH zur Wirksamkeit der stillen Zession und zur Auslegung der Anzeige (st. Rspr.).
+

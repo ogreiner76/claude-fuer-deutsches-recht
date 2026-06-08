@@ -5,10 +5,6 @@ description: "Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Do
 
 # Archivierung – MAR-konforme Aufbewahrung
 
-## Arbeitsbereich
-
-Sichert MAR-konforme Archivierung aller Insiderrecht-Compliance-Dokumente: Fristen, Formate, Zugriffssicherung und Loeschkonzept. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,20 +75,3 @@ Folgende Dokumente sind aufzubewahren (Mindestfristen):
 - Löschbestätigung dokumentieren
 - Ausnahme: Laufende BaFin-Ermittlung oder gerichtliches Verfahren → Einfrierung der Löschung
 
-## Red-Team-Fragen
-
-- Sind alle im Dokumentenkatalog genannten Dokument-Typen vollständig archiviert?
-- Ist die Archivierung revisionssicher (kein nachträgliches Überschreiben möglich)?
-- Ist der Zugriff auf Compliance-Archiv ausreichend beschränkt?
-- Werden Aufbewahrungsfristen systemgestützt überwacht?
-- Ist das Löschkonzept DSGVO-konform und mit laufenden Ermittlungen koordiniert?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Dokumentenkatalog mit Aufbewahrungsfristen und Format-Anforderungen
-2. Archivierungssystem-Anforderungsprofil (für IT-Ausschreibung oder System-Check)
-3. DSGVO-Löschkonzept-Vorlage
-4. BaFin-Anfragen-Bereitstellungsprotokoll
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

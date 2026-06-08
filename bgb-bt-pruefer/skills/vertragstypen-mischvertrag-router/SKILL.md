@@ -10,10 +10,6 @@ description: "Vertragstypen-Router: Mischvertrag, gemischter Vertrag, Abgrenzung
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Vertragstypen im BGB BT einordnen und bei Misch- oder atypischen Verträgen die anwendbaren Normen bestimmen: Absorptionstheorie, Kombinationstheorie und Typenzwang-Fragen.
-
 ## Normanker
 
 - §§ 433 ff. BGB: Kaufvertrag
@@ -50,25 +46,13 @@ Vertragstypen im BGB BT einordnen und bei Misch- oder atypischen Verträgen die 
 - Bei Werklieferungsvertrag (§ 650 BGB) gilt Kaufrecht, nicht Werkrecht.
 - Franchising, Factoring, Leasing haben kein kodifiziertes Sonderrecht; analogische Anwendung erforderlich.
 - Schwerpunktbestimmung bei Mischverträgen ist Wertungsfrage; Argumentation klar machen.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Vertragstyp-Einordnung mit Begründung
-- Anwendbare Normen-Matrix (je nach Pflicht oder Schwerpunkt)
-- Mischvertrag-Behandlungsempfehlung
-- Risikoampel für fehlerhafte Einordnung
-
-## Qualitätsregeln
-
-- Sachverhalt-Schwerpunkt für Absorptionstheorie klar herausarbeiten.
-- § 650 BGB (Werklieferung) immer als Alternative zu § 631 BGB prüfen.
-- Atypische Verträge mit allgemeinem Schuldrecht lösen, wenn kein kodifizierter Typ passt.
 
 ## Anschluss-Skills
 
@@ -77,10 +61,3 @@ Vertragstypen im BGB BT einordnen und bei Misch- oder atypischen Verträgen die 
 - werkvertrag-grundschema-paragraph-631
 - dienstvertrag-und-behandlungsvertrag
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

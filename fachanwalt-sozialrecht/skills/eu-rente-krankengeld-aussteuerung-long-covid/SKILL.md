@@ -5,9 +5,6 @@ description: "EU Rente Krankengeld Aussteuerung Long Covid im Plugin Fachanwalt 
 
 # EU Rente Krankengeld Aussteuerung Long Covid
 
-## Arbeitsbereich
-
-**EU Rente Krankengeld Aussteuerung Long Covid** ordnet den Fall über die tragenden Prüfungslinien: Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt, Mandant war langzeitkrank und Krankengeld laeuft nach 78, Prüfungslinie für fachanwalt sozialrecht long covid bk. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "EU Rente Krankengeld Aussteuerung Long Covid im Plugin Fachanwalt 
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X; § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch; § 84 SGG Klage; § 87 SGG Eilantrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-sozialrecht-eu-rente-antrag`
@@ -39,10 +37,6 @@ description: "EU Rente Krankengeld Aussteuerung Long Covid im Plugin Fachanwalt 
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Renten-Antrag bei Personen mit Arbeitsleben in mehreren EU-Staaten.
 
 ## 1) Rechtsgrundlage VO (EU) 883/2004
 
@@ -173,10 +167,6 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
-
 ## 1) Bezugsdauer § 48 SGB V
 
 - **78 Wochen** wegen derselben Krankheit
@@ -243,14 +233,6 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 - `fachanwalt-sozialrecht-gdb-schwerbehinderung` — bei GdB-Bezug
 - `widerspruchsfrist-und-zustellung-sgb` (Power-Tool) — Frist-Prüfung
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg`
 
 **Fokus:** Fachanwalt Sozialrecht Long Covid Bk Anerkennung Bg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
@@ -279,9 +261,6 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 - Long-/Post-COVID — Stand der medizinischen Erkenntnis: AWMF-S1-Leitlinie Long-/Post-COVID Stand 05/2024 (Recherche: https://register.awmf.org/de/leitlinien/detail/020-027); diese stützt die instanzgerichtliche Linie (LSG-Entscheidungen seit 2023/2024), dass Fatigue-Syndrom und kognitive Defizite als typische Post-COVID-Symptome anzuerkennen sind und der medizinisch-wissenschaftliche Erkenntnisstand für eine Kausalitätsbeurteilung im Rahmen der BK 3101 inzwischen vorliegt.
 - Hinweis: Eine BSG-Leitentscheidung 2025/2026 speziell zur Anerkennung von Long-COVID als Folge der BK 3101 ist Stand Mai 2026 nicht im Volltext zugänglich; mehrere Verfahren sind nach öffentlicher Aktenzeichenlage anhängig (vgl. https://www.bsg.bund.de/SharedDocs/Rechtsfragen/DE/B_02_U_17_23_R.html). Vor Ausgabe Aktenzeichen-Recherche unter https://www.bsg.bund.de/SharedDocs/Entscheidungen/ durchführen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kaltstart-Rückfragen
 
 1. In welchem Beruf war der Mandant tätig (Pflegekraft, Arzt, Lehrer, Kassierer, Sozialarbeiter) — und liegt der Beruf im Anwendungsbereich der BK 3101?
@@ -568,9 +547,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## FAO-Voraussetzungen (§ 11 FAO)
 
 - Lehrgang 120 Stunden + drei Klausuren.
@@ -621,9 +597,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Arbeitsgemeinschaft Sozialrecht im DAV.
@@ -640,3 +613,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **`kanzlei-allgemein`** für Fristen und Versand.
 - **`fachanwalt-arbeitsrecht`** bei Sperrzeit Arbeitslosengeld und Schwerbehinderung im Arbeitsverhältnis.
 - **`fachanwalt-medizinrecht`** bei medizinischer Begutachtung.
+

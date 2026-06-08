@@ -5,9 +5,6 @@ description: "Sachliche GVG Verjährungsfrist BGB im Selbstvertretung am Amtsger
 
 # Sachliche GVG Verjährungsfrist BGB
 
-## Arbeitsbereich
-
-**Sachliche GVG Verjährungsfrist BGB** ordnet den Fall über die tragenden Prüfungslinien: Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach, Prüfung von Verjährungsfristen vor Klage, Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Sachliche GVG Verjährungsfrist BGB im Selbstvertretung am Amtsger
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `sachliche-zuständigkeit-amtsgericht-23-gvg`
@@ -106,14 +104,6 @@ Falsche Zuständigkeit ist nicht das Ende. Auf Ihren Antrag verweist das Gericht
 - "Bei Unsicherheit nehme ich den niedrigsten Streitwert an." → Falsch. Setzen Sie realistisch an; bei Untererfassung droht spaetere Streitwert-Festsetzung und Nachzahlung.
 - "Familiengerichts-Sachen kann ich selbst betreiben." → Bei Ehesachen und Folgesachen Anwaltszwang § 114 FamFG.
 - "Die Grenze ist 5.000 EUR." → Veraltet. Seit 01.01.2026 sind es 10.000 EUR.
-
-## Querverweise
-
-- `ausnahmen-streitwertgrenze-23-nr-2-gvg` — Mietsache, Reisevertrag.
-- `oertliche-zuständigkeit-12-37-zpo` — Welches AG raeumlich?
-- `verbrauchergerichtsstand-29c-zpo` — Verbraucher-Vorteile.
-- `klage-streitwert-angabe-3-zpo` — Streitwert berechnen.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten je Streitwert.
 
 ## Quellen und Aktualitaet
 
@@ -226,24 +216,9 @@ Schreiben Sie aus:
 - "Mit einer Mahnung hemme ich die Verjährung." → Nein, einfache Mahnung hemmt **nicht**. Nur Mahnbescheid, Klage oder Verhandlungen.
 - "Verjährung beginnt mit Faelligkeit." → Bei Regelfrist beginnt sie erst zum **Jahresende** der Faelligkeit (mit Kenntnis).
 
-## Querverweise
-
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Vorab-Check.
-- `aussergerichtliche-mahnung-286-bgb` — Mahnung.
-- `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid hemmt!
-- `einreden-aktiv-geltend-machen` — Beklagter: Verjährung-Einrede.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 195 ff. BGB unveraendert. Beachten Sie BGH-Rechtsprechung zur "Kenntnis und grob fahrlaessigen Unkenntnis" (§ 199 BGB).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `wiedereinsetzung-frist-233-zpo`
 
@@ -401,21 +376,7 @@ Wenn Wiedereinsetzung wenig Aussicht hat, pruefen Sie alternative Wege (Vollstre
 - "Ich beantrage Wiedereinsetzung Monate spaeter." → 2-Wochen-Frist versaeumt.
 - "Ich verges, die versaeumte Handlung nachzuholen." → Antrag ohne Nachholung unwirksam.
 
-## Querverweise
-
-- `klageerwiderung-fristen-274-zpo` — Fristen.
-- `zurechnungsproblem-versand-durch-dritte` — Risiko Bote.
-- `saeumnis-vermeiden-330-ff-zpo` — Versaeumnis.
-- `fristen-berechnen-187-188-bgb` — Berechnung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 233 ff. ZPO unveraendert. BGH-Linie zur Eigenverantwortung stabil.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

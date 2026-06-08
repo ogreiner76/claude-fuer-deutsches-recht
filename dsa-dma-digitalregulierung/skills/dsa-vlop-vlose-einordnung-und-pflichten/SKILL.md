@@ -103,9 +103,6 @@ Stand 2026: bereits designiert sind u.a. mehrere große soziale Netzwerke, Video
 - Art. 52–53 DSA — Sanktionen bis 6 % Jahresumsatz
 - Art. 65 DSA — Durchsetzung durch Kommission
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Überschreitet die Plattform 45 Mio. monatlich aktive EU-Nutzer (Art. 33 Abs. 1 DSA)?
@@ -136,3 +133,4 @@ Kernpflichten-Status:
 
 Sanktionsrisiko: Art. 52 DSA — bis 6 % Jahresumsatz
 ```
+

@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung und P
 
 # Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung, Pfandfreigabe
 
-## Arbeitsbereich
-
-Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung und Pfandfreigabe. Grundbuchrangrecht nach §§ 879–882 BGB, Rangrücktritt, Löschungsunterlagen und Pfandfreigabe-Mechanismen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,3 +91,4 @@ Wenn eine Grundschuld vollständig abgelöst ist, fällt sie an den Eigentümer 
 - **Mandantenmail** (Vollzugsstand Lastenfreistellung)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt 
 
 # Bauueberwachung TGA Rohrleitungen und Druckpruefung
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für TGA-Rohrleitungen mit Schwerpunkt Druckpruefung — Heizung Rohrleitungen nach DVGW TRGI und DIN EN 12828, Trinkwasser nach DVGW W 551 und DIN 1988-100, Abwasser Dichtheitspruefung nach EN 1610 und DIN 1986-30, Druckpruefprotokolle, Druckverlustmessung Heizkreise, Spuel- und Befuellprotokolle sowie SAP-PM-Integration mit Anlagenkennzeichnungssystem AKS für technischen Gebaeudemanager. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Rohrleitungen der technischen Gebaeude-ausruestung sind nach dem Einbau in Waend
 - Trinkwasseranlage ohne DVGW W 551 Betriebstemperatur: Legionellenausbruch waehrend Hotel-Betrieb, schwerwiegende Haftungsfolgen nach § 823 BGB
 - Abwasserleitungen nicht einzeln geprueft: Gesamtabschnitt zu lang, Leckstelle nicht lokalisierbar
 
-## Output
-
-Druckpruefprotokoll je Rohrsystem Heizung Sanitaer Abwasser mit Unterschriften. Schweissnahtpruefprotokoll RT und VT. Trinkwasser-Laborprotokoll Legionellen und Keime vor Inbetriebnahme. Daemmprotokoll je Abschnitt. SAP-PM-Anlagenstruktur AKS-Kennzeichnungsliste. Bautagebuch TGA chronologisch. Abnahmeprotokoll TGA nach VOB/B § 12.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Druckpruefprotokoll je Rohrsystem Heizung Sanitaer Abwasser mit Unterschriften. 
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 823 Schadensersatz](https://www.gesetze-im-internet.de/bgb/__823.html)
+

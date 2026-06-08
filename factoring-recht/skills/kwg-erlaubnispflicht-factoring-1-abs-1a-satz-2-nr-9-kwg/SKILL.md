@@ -54,6 +54,3 @@ Dieser Skill prüft, ob ein Factoring-Geschäftsmodell unter die Erlaubnispflich
 
 Erlaubnis-Subsumtions-Vermerk § 1 Abs. 1a Satz 2 Nr. 9 KWG; Erlaubnisantrags-Checkliste § 32 KWG für Factoring-Institut; Konzernprivileg-Prüfungsschema; Zivilrechtliche Abtretungscheck-Liste (BGB/HGB); GwG-Pflichten-Übersicht für Factoring-Institute.
 
-## Quellenregel
-
-gesetze-im-internet.de (KWG, BGB, HGB, GwG), bafin.de (Merkblatt Factoring, Erlaubnisantrag Finanzdienstleistungsinstitut). Live-Check: BaFin-Merkblatt Factoring bei Gesetzesänderungen aktualisiert; BaFin-Auslegungshinweise zu § 1 Abs. 1a Nr. 9 KWG auf bafin.de.

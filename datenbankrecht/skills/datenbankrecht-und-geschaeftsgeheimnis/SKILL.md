@@ -5,10 +5,6 @@ description: "Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§
 
 # Datenbankrecht und Geschäftsgeheimnisschutz — Kumulative Schutzstrategie
 
-## Arbeitsbereich
-
-Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG)
 - Reverse Engineering ist nach § 3 Abs. 1 Nr. 2 GeschGehG grundsätzlich erlaubt — der Datenbankschutz kann hier stärker greifen.
 - Beweislastverteilung im GeschGehG-Prozess ist komplex; vorprozessuale Dokumentation der Geheimhaltungsmaßnahmen ist entscheidend.
 
-## Output
-
-- Geheimhaltungsmaßnahmen-Audit-Checkliste (§ 2 Nr. 1 GeschGehG)
-- Kumulative Schutzrechtskarte (UrhG + GeschGehG)
-- Verletzungshandlungsanalyse nach § 4 GeschGehG
-- NDA-Klausel mit Datenbankbezug
-- Abmahnschreiben (GeschGehG + UrhG kombiniert)
-
 ## Quellen
 
 - [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)
@@ -75,3 +63,4 @@ Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG)
 - [§ 4 GeschGehG — dejure.org](https://dejure.org/gesetze/GeschGehG/4.html)
 - [§§ 6-8 GeschGehG — dejure.org](https://dejure.org/gesetze/GeschGehG/6.html)
 - [§ 307 BGB AGB-Kontrolle — dejure.org](https://dejure.org/gesetze/BGB/307.html)
+

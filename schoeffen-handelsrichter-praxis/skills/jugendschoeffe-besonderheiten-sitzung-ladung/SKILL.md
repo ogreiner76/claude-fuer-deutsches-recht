@@ -5,10 +5,6 @@ description: "Jugendschöffe Besonderheiten (Orientierung): hilft ehrenamtlichen
 
 # Jugendschöffe Besonderheiten: Orientierung
 
-## Arbeitsbereich
-
-Jugendschöffe Besonderheiten (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Erziehungsgedanke, nichtöffentliche Verhandlung, Jugendhilfe und Sanktionen mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,12 +17,6 @@ Jugendschöffe Besonderheiten (Orientierung): hilft ehrenamtlichen Richterinnen 
 - **Normen-/Quellenanker:** GVG, StPO/ZPO, Verfahrensgrundsätze, Beratungsgeheimnis, Ablehnung/Befangenheit, Beweiswürdigung, Handelsrichterrolle in der KfH.
 - **Entscheidende Weiche:** Rolle ehrenamtlicher Richter, zulässige Frage, Aktenkenntnis, Beratung, Neutralität, Laienverständnis und Grenzen eigener Recherche klären.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Erziehungsgedanke, nichtöffentliche Verhandlung, Jugendhilfe und Sanktionen - Orientierung
 
 ## Sofortsortierung
 
@@ -59,7 +49,6 @@ Erzeuge verständliche Erklärung, Sitzungscheckliste und Fragen, die vor dem Te
 - Welches Gericht und welche Rolle?
 - Geht es um Vorbereitung, laufende Sitzung, Beratung oder Nachbereitung?
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -68,6 +57,4 @@ Konkret zu prüfen:
 - § 76 GVG (Mitwirkung)
 - §§ 105-109 GVG (Handelsrichter)
 - BVerfGE 14, 56 (Schöffen als Richter)
-## Quellenhygiene
 
-Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik 
 
 # BGB 1900 und die soziale Frage
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeitnehmerschutz im BGB, Mieterrecht und spaetere soziale Ausformung durch Rechtsprechung und Sondergesetze. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne di
 - KSchG: gesetze-im-internet.de
 - Sekundaerliteratur: Knut Wolfgang Noerr, Privatrechtsgeschichte der Weimarer Republik
 
-## Output
-
-- Mengers Kritikpunkte von 1890 und ihr rechtliches Schicksal bis 2000
-- Tabelle: BGB-Regelung (1900) vs. soziale Weiterentwicklung durch Sondergesetze
-- § 242 BGB als sozialer Hebel: Schluessel-Entscheidungen des RG und BGH
-
-## Quellenregel
-
-Menger Das buergerliche Recht 1890: historische Erstausgabe. Mugdan: Bd. II (Schuldrecht). BGB: gesetze-im-internet.de. KSchG, BetrVG: gesetze-im-internet.de. BGH-Rspr.: bgh.de.

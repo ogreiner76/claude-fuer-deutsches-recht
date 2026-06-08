@@ -5,10 +5,6 @@ description: "Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei ESG-Sc
 
 # ESG-Schockereignis – Insiderrecht und Ad-hoc-Pflicht
 
-## Arbeitsbereich
-
-Prueft Insiderinformations-Qualitaet und Ad-hoc-Pflicht bei ESG-Schockereignissen (Umweltvorfaelle, Governance-Skandale, Social-Misstaende). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,19 +70,3 @@ die Ad-hoc-Entscheidung sowie die Koordination mit Nachhaltigkeits- und Kommunik
 - Sustainability-Manager: Falls sie Zugang zu kursrelevanten ESG-Informationen haben,
  müssen sie auf der Insiderliste stehen
 
-## Red-Team-Fragen
-
-- Wurde die Kursrelevanz des ESG-Ereignisses explizit begründet (nicht abgetan)?
-- Wurde der frühestmögliche Zeitpunkt des Insiderwissens identifiziert (inkl. HSE-Reports)?
-- Sind ESG-Experten des Unternehmens auf Insiderlisten erfasst?
-- Ist die Ad-hoc mit der Nachhaltigkeitskommunikation koordiniert?
-
-## Ausgabeformat
-
-Erzeuge:
-1. ESG-Ereignis-Kursrelevanz-Matrix (Event-Typ × Anleger-Reaktion × Regulatorische Folge)
-2. Insiderinformations-Zeitstrahl (interne Kenntnis → Ad-hoc)
-3. Ad-hoc-Entwurf ESG-Schockereignis
-4. Koordinationsplan: Ad-hoc × CSRD × Pressemitteilung
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

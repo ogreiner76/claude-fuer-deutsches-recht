@@ -5,10 +5,6 @@ description: "REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei 
 
 # REACH und PIC: Chemikalien-Compliance im Aussenhandel
 
-## Arbeitsbereich
-
-REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei Im- und Export von gefaehrlichen Chemikalien: VO (EG) 1907/2006 REACH und VO (EU) 649/2012. Registrierung, Auskunftspflichten und Verbote für nicht-EU-Exporte. Ansprechpartner ECHA und Hauptzollamt. Output: REACH/PIC-Compliance-Checkliste und Behordenschreiben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei Im- und Export
 - REACH-Registrierung verfaellt bei Jahres-Mengenunterschreitung.
 - Weiterverkauf registrierter Stoffe in EU erfordert eigene Downstream-User-Pflichten.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-REACH/PIC-Compliance-Checkliste, Exportbenachrichtigungsschreiben an ECHA, SDS-Pruef-Protokoll und Zolldokumentationstemplate.
-
 ## Quellen
 
 - [VO (EG) 1907/2006 REACH auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32006R1907)
 - [VO (EU) 649/2012 PIC auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R0649)
 - [ECHA REACH-Datenbank](https://echa.europa.eu/de/information-on-chemicals)
 - [Zoll.de Gefahrgut Chemikalien](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Chemikalien/chemikalien_node.html)
+

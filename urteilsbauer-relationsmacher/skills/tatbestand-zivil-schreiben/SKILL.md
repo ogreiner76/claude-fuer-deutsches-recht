@@ -26,9 +26,6 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 - § 320 ZPO — Tatbestandsberichtigung auf Antrag
 - § 286 ZPO — Beweiswürdigung (gehört in Entscheidungsgründe, nicht Tatbestand)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -113,3 +110,4 @@ Auf Anlagen, Schriftsätze, Protokolle nach Paragraf 313 Abs. 2 Satz 2 ZPO konkr
 - Parteien werden als "Kläger" / "Beklagte" bezeichnet (nicht namentlich, außer zur Unterscheidung mehrerer Beklagter)
 - Streitwertangaben im Tatbestand vermeiden (gehören in den Tenor / Streitwertbeschluss)
 - "Wegen ..." gehört in den Einleitungssatz, nicht in das Rubrum
+

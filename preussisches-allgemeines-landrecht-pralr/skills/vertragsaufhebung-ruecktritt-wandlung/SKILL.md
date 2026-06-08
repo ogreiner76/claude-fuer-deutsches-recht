@@ -5,10 +5,6 @@ description: "Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt 
 
 # Pralr Vertragsaufhebung Ruecktritt Wandlung
 
-## Arbeitsbereich
-
-Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt die Aufhebungsgruende einvernehmlich gesetzlich (Wegfall der Geschaeftsgrundlage Untergang) und die Ruecktrittstradition. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,7 +44,3 @@ Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt die Aufhebungs
 2. Rueckabwicklung?
 3. Wertersatz?
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

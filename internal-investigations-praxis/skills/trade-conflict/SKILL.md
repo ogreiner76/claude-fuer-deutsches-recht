@@ -5,10 +5,6 @@ description: "Untersucht Geheimnisverrat und Trade-Secret-Leaks – GeschGehG, �
 
 # Trade-Secret-Leak und Geheimnisverrat
 
-## Arbeitsbereich
-
-Untersucht Geheimnisverrat und Trade-Secret-Leaks – GeschGehG, § 17 UWG a.F., Täteridentifizierung, einstweilige Verfügung, Strafanzeige. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,15 +69,6 @@ Dieser Skill identifiziert den Täter, sichert Beweise und leitet zivil- und str
 - DLP-Systeme und USB-Beschränkungen einrichten (mit Betriebsratseinbindung).
 - Regelmäßige Überprüfung der Zugriffsberechtigungen.
 
-## Red-Team-Fragen
-
-- Sind die GeschGehG-Schutzvoraussetzungen (§ 2 Nr. 1: geheim, Wert, Schutzmaßnahmen) erfüllt?
-- Gibt es konkrete forensische Beweise für den Datenabriss, oder nur indirekten Verdacht?
-- Wurde die einstweilige Verfügung unverzüglich beantragt?
-- Ist der Strafantrag innerhalb der 3-Monats-Frist gestellt worden?
-- Wurden DLP-Systeme mit Betriebsratszustimmung eingerichtet, oder droht Verwertungsverbot?
-- Hat der Täter einen eigenen Anspruch als Whistleblower (§ 5 Nr. 2 GeschGehG), der den Schutzanspruch einschränkt?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -101,3 +88,4 @@ Dieser Skill identifiziert den Täter, sichert Beweise und leitet zivil- und str
 - **GeschGehG-Schutzmaßnahmen-Audit**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

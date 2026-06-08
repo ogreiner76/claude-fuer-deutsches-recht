@@ -22,11 +22,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Aufgabe
-
-Dieser Skill behandelt Delikts- und Sanktionslogik im Zwölftafelgesetz: **Diebstahl, Personenverletzung, Sachschaden, Bußen, Talion, private Durchsetzung und sakrale Restbestände**.
-
 ## Startfragen
 
 1. Geht es um furtum, iniuria, Sachbeschädigung, Körperverletzung, falsches Zeugnis, Brand, Zauber-/Sakralthema oder Bußsystem?
@@ -41,8 +36,3 @@ Dieser Skill behandelt Delikts- und Sanktionslogik im Zwölftafelgesetz: **Diebs
 4. **Fortbildung zeigen:** vom starren Satz zur actio, vom Bußsystem zur differenzierten Haftung.
 5. **Kritik sichtbar machen:** Gewalt, Statusunterschiede und Ungleichheit nicht glätten.
 
-## Ausgabeformat
-
-- Deliktsmatrix mit Regeltyp, Schutzgut, Sanktion und späterer Entwicklung.
-- Vergleich mit klassischem römischem Deliktsrecht.
-- Warnhinweis: keine moderne Strafrechtsdogmatik rückprojizieren.

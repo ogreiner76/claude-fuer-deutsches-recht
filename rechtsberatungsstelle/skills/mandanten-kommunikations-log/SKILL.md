@@ -5,10 +5,6 @@ description: "Mandantenkommunikation dokumentieren und Kommunikations-Log führe
 
 # /mandanten-kommunikations-log
 
-## Arbeitsbereich
-
-Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentische Rechtsberatung, § 43a BRAO Vertraulichkeit, BDSG. Prüfraster Gespraeach-Datum Inhalt Ergebnis und Naechste Schritte protokollieren, Datenschutz beachten, Übergabe an anderen Berater sicherstellen. Output Kommunikations-Log mit strukturiertem Protokoll und Weiterleitungshinweisen. Abgrenzung zu Semester-Übergabe für Mandats-Übergabe und zu Status-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -131,13 +127,6 @@ Wenn ja: sofortige Benachrichtigung des Anleiters empfehlen.
 
 Strukturierter Logeintrag nach obigem Format. Immer mit Verschwiegenheitshinweis. Immer mit offenem Fristenstatus.
 
-## Ausgabeformat
-
-Markdown-Tabellen für Fristen. Bullet-Lists für Inhalt. Standardformat wie oben. Kein Fließtext-Protokoll – Bullets und Tabellen sind beim Semesterübergabe-Scan leichter zu lesen.
-
-Jede Ausgabe trägt:
-> **[INTERNES DOKUMENT – Vertraulich nach § 43a BRAO / § 203 StGB. Nicht für Mandanten oder Dritte bestimmt.]**
-
 ## Beispiel
 
 ### Eintrag 3 – 14.01.2025 14:30
@@ -175,10 +164,3 @@ Mandant wünscht Widerspruch. Kopie des Bescheids wird per Post zugesandt. Frist
 - **Offene Fristen nicht weitergegeben:** Beim Semesterwechsel sind nicht übergebene Fristen das größte Haftungsrisiko. Das Log ist die Grundlage für `/rechtsberatungsstelle:semester-übergabe`.
 - **Personenbezogene Daten unverschlüsselt gespeichert:** DSGVO Art. 9 verlangt erhöhten Schutz für Asylstatus, Gesundheitsdaten. Kein Upload in unkonfigurierte Cloud-Systeme ohne Auftragsverarbeitungsvertrag (Art. 28 DSGVO).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

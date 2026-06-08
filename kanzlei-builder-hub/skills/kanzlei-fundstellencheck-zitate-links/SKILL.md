@@ -5,10 +5,6 @@ description: "Normen- und Rechtsprechungszitate in Schriftsätzen, Memos und Ski
 
 # Fundstellenglattzieher / Zitatenkorrektor
 
-## Zweck
-
-Dieser Skill glättet Belege formal und stoppt unsichere Quellen. Er ergänzt keine fehlenden Aktenzeichen, Randnummern oder Literaturfundstellen aus Modellwissen.
-
 ## Harte Regeln
 
 - Keine BeckRS- oder juris-Nummer erzeugen.
@@ -34,9 +30,6 @@ Dieser Skill glättet Belege formal und stoppt unsichere Quellen. Er ergänzt ke
 | Kommentar/Aufsatz ohne Quelle | `[LITERATURQUELLE PRÜFEN]` |
 | Palandt/Pahlen | `[QUELLENFEHLER PRÜFEN]` |
 
-## Ausgabeformat
-
-```markdown
 ## Korrekturprotokoll
 
 | ID | Original | Behandlung | Grund |
@@ -55,3 +48,4 @@ Dieser Skill glättet Belege formal und stoppt unsichere Quellen. Er ergänzt ke
 ## Kurzregel
 
 Norm zuerst. Dann verifizierte Rechtsprechung. Literatur nur mit echter Quelle. Keine schönen Blindzitate.
+

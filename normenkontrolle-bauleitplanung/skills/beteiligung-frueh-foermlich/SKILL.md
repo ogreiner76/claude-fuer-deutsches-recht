@@ -5,10 +5,6 @@ description: "Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Be
 
 # Beteiligung — frühzeitig und förmlich
 
-## Zweck
-
-Audit der zweistufigen Beteiligung. Hier finden sich die meisten Verfahrenshebel: Auslegungsdauer, Bekanntmachung der Auslegung, Identität der ausgelegten Unterlagen, Online-Veröffentlichung, Behandlung der Stellungnahmen.
-
 ## Schritt 1 — Frühzeitige Beteiligung § 3 Abs. 1 BauGB
 
 ### Inhalt
@@ -152,6 +148,3 @@ Audit der zweistufigen Beteiligung. Hier finden sich die meisten Verfahrenshebel
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

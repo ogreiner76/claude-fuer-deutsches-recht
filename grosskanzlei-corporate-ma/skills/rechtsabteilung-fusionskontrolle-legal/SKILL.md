@@ -5,9 +5,6 @@ description: "Rechtsabteilung Fusionskontrolle Legal im Corporate/M&A (Großkanz
 
 # Rechtsabteilung Fusionskontrolle Legal
 
-## Arbeitsbereich
-
-**Rechtsabteilung Fusionskontrolle Legal** ordnet den Fall über die tragenden Prüfungslinien: Rechtsabteilungs-Fachmodul für Fusionskontrolle als Closing, Rechtsabteilungs-Fachmodul für Legal Tech DD mit, Rechtsabteilungs-Fachmodul für Locked Box Leakage aus. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Rechtsabteilung Fusionskontrolle Legal im Corporate/M&A (Großkanz
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `rechtsabteilung-fusionskontrolle-als-closing-condition`
@@ -76,10 +74,6 @@ Regulatory Timetable, Hell-or-High-Water und Long Stop Date werden verknüpft.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
-
 ## 2. `rechtsabteilung-legal-tech-dd-mit-halluzinationsschutz`
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Legal Tech DD mit Halluzinationsschutz: AI-gestützte DD wird mit Quellenregister, Privilege-Log und Red-Flag-Audit kontrolliert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
@@ -128,10 +122,6 @@ AI-gestützte DD wird mit Quellenregister, Privilege-Log und Red-Flag-Audit kont
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
 
 ## 3. `rechtsabteilung-locked-box-leakage-aus-konzerncashpool`
 
@@ -182,10 +172,6 @@ Leakage wird aus Zahlungsflüssen, Cashpool, Management Fees und Related-Party-D
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
-
 ## 4. `rechtsabteilung-warranty-and-indemnity-versicherung-im-claimfall`
 
 **Fokus:** Rechtsabteilungs-Fachmodul für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
@@ -235,10 +221,6 @@ Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als g
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
-
 ## 5. `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix`
 
 **Fokus:** Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
@@ -255,5 +237,3 @@ Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft,
 4. Haftung/D&O: Organnähe, Informationsgrundlage, Protokoll, Interessenkonflikte.
 5. Exit/Finanzierung: Drag/Tag, Liquidation Preference, Reserved Matters, Bank Covenants.
 
-## Output
-Satzungsbaustein, Geschäftsordnungsbaustein und Tabelle `Maßnahme / Schwelle / Gremium / Mehrheit / Konflikt / Eskalation / Dokumentation`.

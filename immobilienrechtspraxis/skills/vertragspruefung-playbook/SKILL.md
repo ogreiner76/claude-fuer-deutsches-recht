@@ -5,10 +5,6 @@ description: "Immobilienrechtliche Vertraege nach standardisiertem Playbook prü
 
 # Vertragsprüfung gegen Playbook
 
-## Arbeitsbereich
-
-Immobilienrechtliche Vertraege nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und Formerfordernisse. Output: Vertragsprüfergebnis mit Markierungen. Abgrenzung: nicht Vertragserstellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -60,12 +56,6 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 6. Business-Memo mit drei bis fünf Punkten was wirklich wirtschaftlich
  relevant ist
 
-## Output
-
-- `Pruefbericht_<Vertragsname>.md` mit Ampelmatrix in Tabellenform
-- `<Vertragsname>_redlined.docx` mit Tracked Changes auf Klauselbasis
-- `Memo_Business.md` — eine Seite, in Klartext, für Geschäftsleitung
-
 ## Typische Prüfthemen im Immobilienrecht
 
 - Schriftform Gewerbemiete § 550 BGB inklusive aller Nachtraege
@@ -109,12 +99,10 @@ Konkrete weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.d
 - Wohnraummiete: §§ 549 ff. BGB, § 558 BGB (Kappungsgrenze), §§ 555b ff. BGB (Modernisierung), §§ 573 ff. BGB (Kuendigung)
 - WEG-Verwaltervertrag: §§ 26 ff. WEG, § 19 Abs. 2 Nr. 6 WEG
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Integration mit Projekten und Agenten
 
 Der Skill ist so gebaut, dass er in einem Projekt-Ordner mit fixiertem
 Playbook und Vertragstyp laeuft. Ein Agent kann auf eingehende Vertraege
 auf einem Watch-Ordner reagieren und automatisch die Pruefung anstossen.
 Siehe Skill `projekt-arbeitsweise`.
+

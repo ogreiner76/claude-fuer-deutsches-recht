@@ -8,6 +8,7 @@ description: "Kueschk Annahmeverzug Lohnsteuer im Plugin Arbeitsrecht: prüft ko
 ## Arbeitsbereich
 
 **Kueschk Annahmeverzug Lohnsteuer** ordnet den Fall über die tragenden Prüfungslinien: Annahmeverzugslohn nach § 615 BGB und § 11 KSchG, Beurteilt den sozialversicherungsrechtlichen Status, § 7a. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +25,7 @@ description: "Kueschk Annahmeverzug Lohnsteuer im Plugin Arbeitsrecht: prüft ko
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst`
@@ -61,9 +63,6 @@ description: "Kueschk Annahmeverzug Lohnsteuer im Plugin Arbeitsrecht: prüft ko
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Annahmeverzug § 615 BGB
 
 **Voraussetzungen:**
@@ -199,6 +198,7 @@ Dieser Skill dient der Beurteilung des sozialversicherungsrechtlichen Beschäfti
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1 – Abgrenzungsprüfung: Abhängige Beschäftigung oder Selbständigkeit?
@@ -256,13 +256,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Künstlerische und publizistische Tätigkeiten → Künstlersozialversicherung (KSVG) prüfen: Abgabepflicht des Auftraggebers (§§ 24, 25 KSVG).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-- **Standardausgabe**: Rechtliches Memo (Gutachtenstil) mit tabellarischer Kriterienprüfung und Risikoabschätzung.
-- **Auf Anforderung**: Antrag auf Statusfeststellung nach § 7a SGB IV (Entwurf).
-- **Auf Anforderung**: Checkliste Kriterien Scheinselbständigkeit als Tabelle.
-- **Auf Anforderung**: Strafbarkeitsrisiko § 266a StGB als separate Bewertung.
-
 ## Beispiel
 
 **Sachverhalt:** Unternehmen U-GmbH beschäftigt seit 3 Jahren Herr F als "freien IT-Berater" auf Honorarbasis (Monatshonorar 7.500 €). F arbeitet ausschließlich für U-GmbH, nutzt U-GmbHs IT-Infrastruktur, ist in den Projektmanagementprozess eingebunden und erhält Weisungen vom Projektleiter der U-GmbH. Ein eigenes Büro oder eigene Arbeitnehmer hat F nicht.
@@ -318,10 +311,6 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Dieser Skill dient dem Entwurf und der rechtlichen Bewertung von Abmahnungen im Arbeitsverhältnis. Er ist einschlägig, wenn ein Arbeitgeber eine Abmahnung aussprechen will (Wirksamkeitsvoraussetzungen, Formulierung), ein Arbeitnehmer eine erhaltene Abmahnung anfechten oder deren Entfernung aus der Personalakte begehrt, oder wenn eine verhaltensbedingte Kündigung vorbereitet wird und die Frage der vorherigen Abmahnung zu klären ist. Die Abmahnung ist regelmäßig notwendige Vorstufe einer verhaltensbedingten ordentlichen oder außerordentlichen Kündigung (§§ 1 KSchG, 626 BGB) und deshalb in ihrer formellen wie inhaltlichen Anforderung sorgfältig zu behandeln.
-
 ## Eingaben
 
 1. **Sachverhalt**: Beschreibung des beanstandeten Verhaltens (Datum, Ort, konkrete Handlung/Unterlassung)
@@ -361,6 +350,7 @@ Dieser Skill dient dem Entwurf und der rechtlichen Bewertung von Abmahnungen im 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1 – Prüfung: Ist eine Abmahnung erforderlich / sinnvoll?
@@ -434,13 +424,6 @@ in Betracht ziehen werden.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Mehrere Abmahnungen wegen gleichartiger Verstöße erhöhen die Kündbarkeit der Pflichtverletzung.
-
-## Ausgabeformat
-
-- **Standardausgabe**: Memo im Gutachtenstil mit Wirksamkeitsprüfung (Aufbau vgl. references/methodik-buergerliches-recht.md Ziff. 6).
-- **Auf Anforderung**: Vollständiges Abmahnungsschreiben (Urteilsstil, direkte Formulierung).
-- **Auf Anforderung**: Widerspruchsschreiben / Gegendarstellung (Arbeitnehmerperspektive).
-- **Auf Anforderung**: Checkliste Wirksamkeitsvoraussetzungen als Tabelle.
 
 ## Beispiel
 

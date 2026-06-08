@@ -5,10 +5,6 @@ description: "Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingri
 
 # Verfassungsrecht — Grundrechts-Prüfung
 
-## Arbeitsbereich
-
-Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schritt-Schema pro Grundrecht Verhältnismäßigkeitsprüfung Schluss-Saetze. Output Grundrechts-Prüfungsschema Argumentation. Abgrenzung zu öffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungs
 - Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3, UrhG §§ 51, 51a (Zitatrecht), Promotionsordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Bei jeder Grundrechts-Frage: Schutzbereich – Eingriff – Verfassungsrechtliche Rechtfertigung. Das ist das Standard-Schema, das fast jede Aufgabe verlangt.
 
 ## Schritt 1 — Drei-Stufen-Schema
 
@@ -267,3 +259,4 @@ C. Verfassungs-rechtliche Rechtfertigung
 - `meinungsstreit-darstellen` — Bei strittigen Grundrechts-Fragen
 - `öffentliches-recht-statthaft-zulaessig-begruendet` — bei Verwaltungs-Klage mit Grundrechts-Bezug
 - `subsumtion-schritt-für-schritt` — Subsumtions-Praxis
+

@@ -32,13 +32,6 @@ Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates für Anfaenger und Prof
 - § 253 Abs. 2 ZPO — Klageschrift: Vollstaendigkeitspflicht bei Antraegen und Tatsachen
 - § 51 BRAO — Haftung bei erkennbar lueckenhaftem oder fehlerhaftem Schriftsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill ist die letzte und wiederholbare Prüfstation für Kanzlei-Outputs. Er soll Anfänger auffangen und Profis nicht ausbremsen. Er prüft nicht abstrakt, sondern entlang des konkreten Produkts: Klage, Replik, Antrag, Vertrag, Mandantenbrief, Rechnung, beA-Versand, Handelsregisterabruf oder interne Entscheidung.
-
 ## Moduswahl
 
 Zu Beginn anbieten:
@@ -129,16 +122,7 @@ Wenn der Entwurf bereits gut ist:
 - Kosten- und Fristrisiken markieren.
 - Stil verdichten.
 
-## Ausgabeformat
-
-Immer kurz und handlungsorientiert:
-
-1. Status: `STOPP`, `WARNUNG` oder `DURCHLAUF`.
-2. Die drei wichtigsten Befunde.
-3. Nächste konkrete Schritte.
-4. Offene Fragen, nur soweit nötig.
-5. Verweis auf den passenden Folge-Skill.
-
 ## Ausgabe
 
 `assets/templates/qualitaetsgate-checkliste.md` verwenden.
+

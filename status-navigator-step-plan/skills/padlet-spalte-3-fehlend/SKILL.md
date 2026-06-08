@@ -33,13 +33,6 @@ Karteninhalt (fuenf Felder aus der Excel-Vorlage):
   - GELB: 8 bis 30 Tage
   - ROT: bis zu 7 Tage
 
-## Vorgehen
-1. Spalte 3 anlegen.
-2. Aus Reiter 1 alle ROTEN sowie GELBEN-mit-Beschaffungsanteil uebernehmen.
-3. Frist je Karte recherchieren und im Untertitel setzen.
-4. Status je Karte aktualisieren.
-5. Sortierung nach Frist konfigurieren.
-
 ## Anwendungsbeispiel
 LausitzStorage-Akte, Spalte 3 mit 12 Karten:
 - Karte 1 (ROT, Frist 09.06.): Aushaendigung LEAG-Aval –
@@ -66,3 +59,4 @@ LausitzStorage-Akte, Spalte 3 mit 12 Karten:
 ## Plugin-Kontext
 Spalte 3 ist der Treiber fuer Spalte 4. Jede Karte hier wird in Spalte 4
 mit einem Schrittplan ausgearbeitet.
+

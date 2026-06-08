@@ -5,10 +5,6 @@ description: "Antwortmail muss klar machen dass noch kein Mandatsverhältnis bes
 
 # Mandatsverhältnis-Hinweis
 
-## Arbeitsbereich
-
-Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begründung. Kurz- und Langform für Antwortmail und Fusszeile. Output: Disclaimer-Texte für E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,9 +32,6 @@ Dieser Skill formuliert den rechtlich erforderlichen Hinweis, dass mit der Beant
 - § 13 BGB — Verbraucher: erhoehtere Informationspflichten und Widerrufsrecht (§§ 355 ff. BGB) bei Fernkommunikation
 - § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch gegenueber potenziellem Mandanten, der noch kein Mandat erteilt hat
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtlicher Hintergrund
 
 ### Entstehung des Mandatsverhältnisses
@@ -119,3 +112,4 @@ einen Rechtsanwalt Ihres Vertrauens oder rufen Sie uns unter
 - `vertraulichkeit-erinnerung` — weiterführender Hinweis nach Mandatsbegründung
 - `transkriptionsdienst-erklaerung` — verwendet diesen Hinweis im Transkriptions-Abschnitt
 - `dringlichkeitsmarker` — bei HOCH: Langform mit Frist-Warnung
+

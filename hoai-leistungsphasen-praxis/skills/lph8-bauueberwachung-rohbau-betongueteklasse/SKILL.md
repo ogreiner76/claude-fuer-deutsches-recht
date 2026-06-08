@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongu
 
 # Bauueberwachung Rohbau und Betongueteklassen
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN EN 12390-1 sowie digitale Dokumentation in PlanRadar und BIM360. Konkrete Falleinsaetze Buerogebaeude und Bruecken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungsla
 - Sichtbeton-Klasse nicht schriftlich vereinbart: Auftraggeber beanstandet spaeter Farbtoene, keine vertragliche Grundlage, teurer Nachtragsstreit
 - Zu fruehes Ausschalen: Mindest-Ausschalfristen nach DIN 1045-3 nicht eingehalten, Rissbildung durch Eigengewicht
 
-## Output
-
-Bewehrungsabnahme-Protokoll je Bauteil mit Unterschrift Tragwerksplaner. Betonierprotokoll mit Frischbetonkennwerten und Chargen-Nummern. Pruefwuerfel-Auswertungsbericht 7 und 28 Tage. Sichtbeton-Abnahmeprotokoll. Maengelreport PlanRadar mit Fotos. SAP-PS-Bauteilfortschritt-Report. Bautagebuch chronologisch.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Bewehrungsabnahme-Protokoll je Bauteil mit Unterschrift Tragwerksplaner. Betonie
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme](https://www.gesetze-im-internet.de/bgb/__640.html)
+

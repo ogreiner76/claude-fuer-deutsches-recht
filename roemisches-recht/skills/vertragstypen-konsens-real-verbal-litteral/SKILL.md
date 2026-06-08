@@ -5,10 +5,6 @@ description: "Römisches Recht: Vertragstypen nach Entstehungsmodus. Konsensualv
 
 # Vertragstypen: Konsens, Übergabe, Worte, Schrift
 
-## Arbeitsbereich
-
-Römisches Recht: Vertragstypen nach Entstehungsmodus. Konsensualverträge, Realverträge, Verbalverträge/Stipulation und Litteralkontrakte; mit Kauf, mutuum, Zinsstipulation, Darlehen und moderner Rezeptionswarnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -33,10 +29,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Dieser Skill sortiert römische Verträge danach, **wie** sie entstehen. Das verhindert den häufigsten modernen Fehler: Man sucht sofort nach "Vertragsschluss" im heutigen Sinn und übersieht, dass das römische Recht sehr fein zwischen Konsens, Realhingabe, feierlichen Worten und Schrift-/Buchungsakten trennt.
 
 ## Vertragslandkarte
 
@@ -64,10 +56,3 @@ Zinsen (`usurae`) sind nicht selbstverständlich Teil des `mutuum`. Sie werden t
 3. Zinsobergrenzen oder Sonderregeln einschlägig?
 4. Sondertyp `fenus nauticum` mit Risikoverlagerung auf den Darlehensgeber?
 
-## Output
-
-1. **Typisierung:** Konsens / Real / Verbal / Litteral.
-2. **Entstehungspunkt:** Wann wird die Obligation rechtlich wirksam?
-3. **Klage:** Welche `actio` trägt den Anspruch?
-4. **Einrede:** Welche `exceptio` droht?
-5. **Rezeptionsnotiz:** Welche Parallele zum BGB ist didaktisch zulässig, welche wäre falsch?

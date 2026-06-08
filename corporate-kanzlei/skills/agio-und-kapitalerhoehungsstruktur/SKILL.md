@@ -5,10 +5,6 @@ description: "Strukturierung von Kapitalerhöhungen mit Agio bei VC-Finanzierung
 
 # Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis
 
-## Arbeitsbereich
-
-Strukturierung von Kapitalerhöhungen mit Agio bei VC-Finanzierungsrunden Holding-Aufbauten und M&A-Sekundärfinanzierungen. Übersetzung US-Term-Sheet-Begriffe (Original Purchase Price Par Value APIC Liquidation Preference) in deutsche Kategorien (Ausgabebetrag Nennbetrag Kapitalrücklage Vorzugsrecht). Differenzierung echtes vs. unechtes Agio. Sachagio im Rahmen des qualifizierten Anteilstauschs § 21 UmwStG. Eintragungshindernisse beim Handelsregister vermeiden. Schnittstellen zu Notar Steuerberater Investor Counsel. Lädt bei VC-Runden Series A/B/C Anteilstauschen Bridge-Finanzierungen und Convertible-Wandlungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

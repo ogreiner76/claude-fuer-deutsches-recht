@@ -34,12 +34,6 @@ AtG, StrlSchG, BauGB, BImSchG, EU-Recht, Behördenzuständigkeit live prüfen.
 3. Sicherheits-, Umwelt-, Netz- und Verkehrsfragen getrennt dokumentieren.
 4. Konkrete Nachforderungen an Vorhabenträger und Behördenstrategie ausgeben.
 
-## Output
-
-- Regulierungslandkarte
-- Genehmigungsfahrplan
-- Risiko-/Kommunikationspapier
-
 ## Qualitätsgate
 
 - Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
@@ -49,3 +43,4 @@ AtG, StrlSchG, BauGB, BImSchG, EU-Recht, Behördenzuständigkeit live prüfen.
 ## Spezielle Vorsicht
 
 Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen AtG/Strahlenschutz-/Fachrecht und Behördenmaterial live prüfen.
+

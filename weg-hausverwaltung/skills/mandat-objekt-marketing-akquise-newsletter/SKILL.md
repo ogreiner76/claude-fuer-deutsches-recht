@@ -5,9 +5,6 @@ description: "Mandat Objekt Marketing Akquise Newsletter im Plugin Weg Hausverwa
 
 # Mandat Objekt Marketing Akquise Newsletter
 
-## Arbeitsbereich
-
-**Mandat Objekt Marketing Akquise Newsletter** ordnet den Fall über die tragenden Prüfungslinien: Erfasst eine WEG-/Hausverwaltungsakte (Stand 05/2026), Akquise neuer WEG-Verwaltungsmandate (Stand 06/2026), Eigentuemerinfo vs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Mandat Objekt Marketing Akquise Newsletter im Plugin Weg Hausverwa
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `mandat-objekt-triage`
@@ -74,13 +72,6 @@ Aus einer ungeordneten Verwaltungsakte entsteht ein arbeitsfähiges Objektprofil
 3. **Vorgänge in Körbe sortieren**: Versammlung, Beschluss, Abrechnung, Bau, Hausgeld, Kommunikation, Datenschutz, Gericht.
 4. **Primären Folge-Skill vorschlagen**.
 
-## Output
-
-- `objektprofil.md` (Adresse, Einheiten, Beteiligte, Verwaltervertrag, Beirat, Schlüssel)
-- `fristen-und-risiken.md` (nach Datum sortiert, mit Wirkung und Maßnahme)
-- `dokumentenluecken.md`
-- Skill-Routing mit Priorität (welcher Skill zuerst, mit Begründung)
-
 ## Cross-Refs
 
 - Bei Versammlung-Stapel → `eigentuemerversammlung-vorbereiten`
@@ -92,14 +83,6 @@ Aus einer ungeordneten Verwaltungsakte entsteht ein arbeitsfähiges Objektprofil
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden, sobald rechtliche Bewertung erfolgt.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `marketing-akquise-neue-weg-mandate`
 
@@ -153,14 +136,6 @@ Wettbewerbsrechtliche Grenzen: Keine irreführenden Kostenersparnisversprechen o
 ## Übernahme-Übergabe: Unterlagenliste
 
 Vom Vor-Verwalter zu übergebende Unterlagen: vollständige Beschlusssammlung, alle laufenden Handwerkerverträge und Dauerverträge (Hausmeister, Versicherungen), Jahresabrechnungen der letzten 3 Jahre, aktuelle Rücklagenhöhe mit Belegen, Bankvollmachten (sofortige Ummeldung), Schlüssel und Schlüsselliste, Nebenkostenabrechnungen gegenüber Mietern, offene Gerichtsverfahren und Anwaltskorrespondenz, Gebäudeversicherungspolice.
-
-## Output
-
-- Pitch-Deck-Gerüst (10 Folien, Beschreibung Inhalte je Folie)
-- Honorarmatrix (Einheiten-Staffel: 1-20 / 21-50 / 51-100 / 100+ mit Sonderhonorarliste)
-- Erstgesprächs-Leitfaden (Fragen zu Objekt, Konflikten, Erwartungen)
-- Übernahme-Checkliste (Unterlagen, Fristen, Stichtag-Bilanz)
-- Angebots-Musterschreiben mit Leistungsverzeichnis
 
 ## Cross-Refs
 
@@ -224,14 +199,6 @@ Empfiehlt die Hausverwaltung namentlich einen Versicherungsmakler und erhält da
 
 Pflicht-E-Mails (Einladung, Protokoll) dürfen keinen Werbeteil enthalten, der eine eigene Einwilligung erfordern würde — Mischform ist rechtlich riskant. Separate Versendewege empfohlen. Tracking-Pixel in Pflicht-E-Mails: nur mit Einwilligung (§ 25 TDDDG).
 
-## Output
-
-- Einwilligungsformular-Muster (Double-Opt-In, DSGVO-konform mit Pflichtfeldern)
-- Newsletter-Footer-Vorlage mit Abmeldelink und Impressum-Pflichtangaben
-- Trennungs-Checkliste Pflicht-Information / Werbenachricht
-- Texthülsen: Eigentümerinfo-E-Mail (nüchtern, sachlich) vs. optionaler Newsletter (einladend)
-- Muster-Widerspruchsprotokoll bei UWG-Abmahnung
-
 ## Cross-Refs
 
 - Website und Impressum → `marketing-website-impressum-tmg-und-bewertungen`
@@ -242,3 +209,4 @@ Pflicht-E-Mails (Einladung, Protokoll) dürfen keinen Werbeteil enthalten, der e
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 7 UWG über https://www.gesetze-im-internet.de/uwg_2004/__7.html, § 34d GewO über https://www.gesetze-im-internet.de/gewo/__34d.html und § 25 TDDDG live verifizieren.
+

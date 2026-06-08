@@ -46,13 +46,6 @@ description: "Klausurfall zu Bedingung und Befristung nach §§ 158 bis 163 BGB:
 - Rückwirkung nach § 159 BGB ist keine gesetzliche Regel, sondern muss vereinbart werden.
 - Zwischenverfügungen: § 161 BGB greift nur bei schuldrechtlicher Übereignungspflicht.
 
-## Output
-
-- Gutachtenstil-Abschnitt: Bedingungsart, Schwebezeit, Eintrittsfolge
-- § 162 BGB-Analyse: Treuwidrigkeit und Fiktion des Bedingungseintritts
-- Zwischenverfügungs-Schema nach § 161 BGB
-- Klausurlösungsskizze mit Ergebnis
-
 ## Quellen
 
 - [§ 158 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__158.html)
@@ -83,3 +76,4 @@ klausurrelevant bei Potestativbedingungen.
 - Bedingungseintritt: Tatsächlich eingetreten oder vereitelt?
 - § 162 BGB: Treuwidrige Vereitelung oder Herbeiführung der Bedingung?
 - Schwebezustand: Wirkung auf vorläufige Rechte und Pflichten der Parteien?
+

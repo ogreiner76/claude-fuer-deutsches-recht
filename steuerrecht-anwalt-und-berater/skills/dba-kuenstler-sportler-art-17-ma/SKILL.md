@@ -83,13 +83,6 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 ### Phase 6 — Werbungskosten / Betriebsausgaben
 1. Pauschalverfahren oder Nettobesteuerung mit Beleg.
 
-## Output
-
-- **Mandanten-Memo Kuenstler/Sportler**.
-- **BZSt-Antragspaket** Freistellung oder Erstattung.
-- **Berechnungsbeispiel** Brutto- vs. Nettobesteuerung.
-- **Star-Company-Pruefung**.
-
 ## Strategie und Praxis-Tipps
 
 - § 50a-Steuerabzug ist eine Bringschuld des Vergueterschuldners (Veranstalter) — Pruefung der Einbehaltspflichten.
@@ -158,13 +151,9 @@ Sachverhalt: US-Band tritt in DE bei drei Konzerten auf. Gage 300.000 EUR brutto
 | Empfaenger der Verguetung | [Star-Company/Kuenstler-Person] | [identisch wirtschaftlich?] |
 | § 50d Abs. 3 EStG-Test | [Substanz nachgewiesen?] | [bestanden/scheitert] |
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`.
-- `stb-dba-usa-1989-protokoll-2006`, `stb-dba-grossbritannien-2010`, `stb-dba-frankreich-1959` — landesspezifische Sonderregelungen.
-
 ## Quellen und Updates
 
 Stand: 05/2026. Art. 17 OECD-MA. § 50a, § 50c, § 50d EStG. Konkrete Quellensteuer-Saetze nach § 50a EStG, Bagatellklauseln in einzelnen DBA und aktuelle BMF-Schreiben zur Anwendung im BMF-Veroeffentlichungsverzeichnis und freier amtlicher Quelle abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 0 belegt (alle Az nicht belegbar), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

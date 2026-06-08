@@ -5,10 +5,6 @@ description: "Kanzlei oder Behörde will juristischen Text für Menschen mit Ler
 
 # Leichte Sprache
 
-## Arbeitsbereich
-
-Kanzlei oder Behörde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. Normen BGG § 11 BITV 2.0 Netzwerk Leichte Sprache Regeln. Prüfraster Satzlaenge max. 8 Woerter aktive Formulierung Erklärungen sichtbare Schritte Nutzergruppen-Test. Output Leichte-Sprache-Fassung Glossar. Abgrenzung zu elsj-einfache-sprache (B1-Niveau) und elsj-qualitaetsgate (Prüfung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,16 +33,13 @@ Lesekompetenz oder hohem Barrierefreiheitsbedarf verständlich werden soll.
 - § 12a BGG — Webzugaenglichkeitsgesetz: Anforderungen an öffentliche digitale Dokumente
 - DIN EN ISO 9241-171 — Ergonomie der Mensch-System-Interaktion: Barrierefreiheit
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
 
 - § 11 BGG (Leichte Sprache)
 - § 14 BGG (Gebärdensprache)
+
 ## Output-Template: Leichte-Sprache-Fassung
 
 **Adressat:** Personen mit Leseschwierigkeiten / Barrierefreiheitsbedarf
@@ -88,6 +81,7 @@ Das bedeutet: [Erklaerung in 1-2 Saetzen]
 
 > **Hinweis:** Dieser Entwurf ist in Leichter Sprache formuliert.
 > Eine Pruefung durch Personen aus der Zielgruppe steht noch aus.
+
 ## Grundhaltung
 
 Leichte Sprache ist kein "netter Ton". Sie ist ein eigenständiges
@@ -174,3 +168,4 @@ Wenn keine Prüfung stattgefunden hat, schreibe:
 
 > Dieser Entwurf ist in Leichter Sprache formuliert.
 > Eine Prüfung durch Personen aus der Zielgruppe steht noch aus.
+

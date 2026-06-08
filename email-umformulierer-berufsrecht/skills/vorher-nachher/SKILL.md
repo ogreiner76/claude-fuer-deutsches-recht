@@ -5,10 +5,6 @@ description: "Vorher Nachher im Plugin Email Umformulierer Berufsrecht im Berufs
 
 # Vorher Nachher
 
-## Arbeitsbereich
-
-**Vorher Nachher** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Vorher Nachher im Plugin Email Umformulierer Berufsrecht im Berufs
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `vorher-nachher-tabelle`
@@ -52,9 +49,6 @@ Dieser Skill definiert das standardisierte Ausgabeformat für alle E-Mail-Umform
 - § 138 ZPO — Wahrheitspflicht: Transparenz der Aenderungen sichert Authentizitaet
 - § 45 BRAO — Interessenkonflikt-Check: Tabellenformat hilft, Risiken zu identifizieren
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck des Standardformats
 
 Ein einheitliches Ausgabeformat erfüllt mehrere Funktionen: Es macht die Überarbeitung für den Nutzer kontrollierbar (er kann jede Änderung akzeptieren oder ablehnen), es dokumentiert die berufsrechtliche Begründung jeder Formulierungsänderung und es dient als Lernwerkzeug für zukünftige Korrespondenz.
@@ -100,6 +94,3 @@ Um die Tabelle übersichtlich zu halten, können folgende Kürzel verwendet werd
 
 Für sehr kurze E-Mails (unter fünf Sätze) kann die Tabelle auf die wesentlichsten Änderungen beschränkt werden. Für lange Schreiben sollte die Tabelle nach Abschnitten gegliedert werden. Bei mehrsprachigen Schreiben ist die Tabelle zweisprachig zu führen.
 
-## Ausgabeformat
-
-Der Skill selbst ist das Ausgabeformat: Er strukturiert jede Umformulierung in Analyse, Tabelle und überarbeiteten Text.

@@ -5,10 +5,6 @@ description: "Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, B
 
 # Output wählen
 
-## Arbeitsbereich
-
-Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checklis
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Diese Prüfungslinie wählt den richtigen Output-Typ für die Arbeitsaufgabe. Er unterscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline und Mandantenübersetzung und gibt Stil- und Formatierungsanweisungen.
 
 ## Output-Typen und wann sie passen
 
@@ -84,24 +76,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 4. Passende Fachmodule vorschlagen.
 5. Ein sofort nutzbares Ergebnis erzeugen.
 
-## Output-Standard
-
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Output-Typ-Empfehlung mit Begründung.
-- Fertiger Entwurf im gewählten Format.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-
-## Quellenregel
-
-- Normen live prüfen: gesetze-im-internet.de.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-- Im Memo-Format immer Zwischenergebnis je Tatbestandsmerkmal — leichter zu prüfen und besser zu lesen.

@@ -120,24 +120,10 @@ Vor jedem Finanzamt-Antrag:
 4. Auftragnehmer-Sitznachweis EU/EWR vorhanden?
 5. Subunternehmerkette mitgeprüft?
 
-## Output
-
-- Fördermittel-Synopse aller laufenden und beantragten Förderungen.
-- Kosten-Deduplizierung je Kostenart.
-- Beihilfen-Risikoampel.
-- Formulierung für Antrag und Prüferakte.
-- Anlage Kumulierungsblatt zum Finanzamt-Antrag.
-
-## Querverweise
-
-- `fz-bemessungsgrundlage-2026` für die Personalkosten und die FZulG-Quote.
-- `fz-finanzamt-festsetzung-auszahlung` zur Anlage Kumulierungsblatt.
-- `fz-dokumentationspaket-betriebspruefung` für die Belegfähigkeit.
-- `fz-ablehnung-nachbesserung-einspruch` falls Finanzamt wegen Kumulierung kürzt.
-
 ## Quellen Stand 05/2026
 
 - AGVO Verordnung (EU) 651/2014 (insbesondere Art. 8, Art. 25; vom Antragsteller mit konsolidierter Fassung zu prüfen).
 - De-minimis Verordnung (EU) 2023/2831 (Antragsteller live zu prüfen).
 - BSFZ Wachstumschancengesetz: https://www.bescheinigung-forschungszulage.de/wachstumschancengesetz
 - BMF-Hinweise zur Forschungszulage.
+

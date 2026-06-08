@@ -40,12 +40,3 @@ Die Rechtsquellenhierarchie ist historisch kein unveraendertes System. Im gemein
 - GG: gesetze-im-internet.de
 - BVerfGE zur Normenkontrolle: bverfg.de
 
-## Output
-
-- Diagramm: Rechtsquellenhierarchie in jeder Epoche (gemeines Recht, Kaiserreich, WRV, GG, EU)
-- Schluesselentscheidungen BVerfG zur Hierarchiefrage
-- Tabelle: Lex posterior / lex specialis im historischen Wandel
-
-## Quellenregel
-
-Reichsverfassung 1871 und WRV: ALEX/ÖNB und documentArchiv.de. GG: gesetze-im-internet.de. BVerfGE: bverfg.de. EU-Recht: eur-lex.europa.eu.

@@ -121,12 +121,7 @@ Skill `saeumnis-im-termin-330-zpo`.
 - "Im Cafe oder im Auto." → Stoerend; ruhiger Hintergrund noetig.
 - "Kamera aus." → Pflicht zur Sichtbarkeit waehrend der Verhandlung.
 
-## Querverweise
-
-- `ladung-termin-216-zpo` — Ladung.
-- `terminvorbereitung-checkliste` — Vorbereitung.
-- `verhalten-gerichtssaal-laienleitfaden` — Verhalten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 128a ZPO Video-Verhandlung in Reformbewegung — die genaue Ausgestaltung kann sich nach Justizmodernisierungs-Gesetz aendern. Verifizieren Sie aktuellen Stand.
+

@@ -5,10 +5,6 @@ description: "Drohnendienstleister zeigt Insolvenzzeichen. Prueft InsO §§ 15a 
 
 # Drohne – Insolvenzrisiko markieren
 
-## Arbeitsbereich
-
-Drohnendienstleister zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Insolvenzantragspflicht Aussonderungsrechte Leasinggeber bei Drohnenflotte und Kundenforderungen und liefert Risikoampel-Bewertung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,6 +43,7 @@ InsO §§ 15a 17-19 47 BGB §§ 929 930 EU-VO 785/2004 – die einschlägigen No
 - **LuftVG § 21e**: Nationales UAS-Register; Registrierungspflicht ab 250 g.
 - **LuftVO § 21b**: Betriebsverbote und Beschränkungszonen; Kontrollluftraum.
 - **EASA Easy Access Rules for UAS**: Konsolidierte Fassung aller UAS-Verordnungen.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -57,6 +54,7 @@ InsO §§ 15a 17-19 47 BGB §§ 929 930 EU-VO 785/2004 – die einschlägigen No
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Betriebskategorie (offen/spezifisch/zertifiziert) korrekt eingestuft (EU-VO 2019/947 Art. 5)?
 8. Liegt für spezifische Kategorie ein genehmigter SORA-Risikoplan vor?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -75,9 +73,6 @@ Airline-Insolvenzen erfordern schnelles Handeln:
 - **InsO § 47**: Aussonderungsrecht des Eigentümers (Leasinggeber); Priorität gegenüber Insolvenzgläubigern.
 - **IATA/IOSA**: Kreditversicherung und IATA-Abrechnung (BSP) können bei Insolvenz besondere Regelungen auslösen.
 
-## Output
-
-Strukturierter Vermerk zu Drohne – Insolvenzrisiko markieren mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Betriebsgenehmigungsmatrix nach Kategorie. SORA-Risikoanalyse-Template.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -107,3 +102,4 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

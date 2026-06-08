@@ -5,10 +5,6 @@ description: "Prüft Anwesenheitspflichten als Prüfungsvoraussetzung im Pruefun
 
 # Anwesenheitspflicht
 
-## Arbeitsbereich
-
-Prüft Anwesenheitspflichten als Prüfungsvoraussetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:

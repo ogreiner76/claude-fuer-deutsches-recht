@@ -5,10 +5,6 @@ description: "Kfz-Franchise und Kfz-Selektivvertrieb kartellrechtlich prüfen: q
 
 # Franchiserecht: Kfz-Franchise und Selektivvertrieb
 
-## Arbeitsbereich
-
-Kfz-Franchise und Kfz-Selektivvertrieb kartellrechtlich prüfen: quantitative und qualitative Selektivvertriebskriterien, Händlernetz nach Vertikal-GVO EU 2022/720, Agenturprinzip im Kfz-Handel, Ersatzteilmarkt und Werkstattkoppelung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Kfz-Hersteller oder -Importeur möchte sein Händlernetz durch ein Selektivv
 - Neue Kfz-Direktvertriebsmodelle (OEM-Direktverkauf online) gefährden bestehende Händlernetze; kein Schutz ohne vertragliche Regelung.
 - Kürzung des Händlergebiets ohne angemessene Kompensation löst Schadensersatzpflicht aus.
 
-## Output
-
-- Selektivvertrieb-Compliance-Check (Kartellrecht)
-- Agentur-vs.-Händler-Einordnungsmemo
-- Kündigungsschutz-Analyse für Kfz-Händler
-- Empfehlung Vertragsgestaltung für neues Händlernetz
-
 ## Quellen
 
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
@@ -71,6 +60,7 @@ Ein Kfz-Hersteller oder -Importeur möchte sein Händlernetz durch ein Selektivv
 - https://dejure.org/gesetze/HGB/89b.html
 - https://dejure.org/gesetze/BGB/307.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12012E101
+
 ## Vertiefung
 
 Das Kfz-Händlernetz ist historisch das bedeutendste Selektivvertriebssystem in Deutschland. Nach dem Auslaufen der spezifischen Kfz-GVO (VO (EG) 1400/2002) im Jahr 2013 gelten für den Kfz-Sektor die allgemeinen Vertikal-GVO-Regeln. Die Übergangsjahre haben die Händlernetze erheblich verändert; viele Hersteller experimentieren mit direkten Agenturmodellen.
@@ -84,7 +74,10 @@ Der EuGH hat in Sachen Coty (C-230/16) und anderen Entscheidungen klargestellt, 
 - Händlerverträge mit langen Laufzeiten und hohen Investitionen benötigen angemessenen Investitionsschutz.
 - Marktanteil des Herstellers auf relevanten Märkten regelmässig berechnen; 30%-Schwelle überwachen.
 - Direktvertrieb des Herstellers online kann Händlernetz beschädigen; vertragliche Schutzklauseln entwickeln.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

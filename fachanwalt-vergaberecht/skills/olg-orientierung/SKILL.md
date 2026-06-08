@@ -5,9 +5,6 @@ description: "OLG Orientierung im Plugin Fachanwalt Vergaberecht: prüft konkret
 
 # OLG Orientierung
 
-## Arbeitsbereich
-
-**OLG Orientierung** ordnet den Fall über die tragenden Prüfungslinien: Sofortige Beschwerde gegen VK-Entscheidung beim, Orientierung im Fachanwaltsrecht Vergaberecht, Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "OLG Orientierung im Plugin Fachanwalt Vergaberecht: prüft konkret
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-vergaberecht-olg-sofortige-beschwerde`
@@ -31,9 +29,6 @@ description: "OLG Orientierung im Plugin Fachanwalt Vergaberecht: prüft konkret
 **Fokus:** Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Auftraggeber will VK-Beschluss angreifen oder verteidigen. Normen: §§ 171-184 GWB (Beschwerde), § 172 GWB (Frist zwei Wochen ab Zustellung), § 173 GWB (aufschiebende Wirkung), § 176 GWB (Verlaengerung), § 178 GWB (Entscheidung). Pruefraster: Beschwerdebefugnis, Frist, Form, Begruendungstiefe, Antraege, aufschiebende Wirkung beantragen, Eilantrag § 173 Abs. 1 S. 3 GWB. Output Beschwerdeschriftsatz-Geruest, Fristenkalender, Antraege-Set. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; Schadensersatz siehe fachanwalt-vergaberecht-schadensersatz-181-gwb.
 
 ### Sofortige Beschwerde OLG-Vergabesenat
-
-## Aufgabe
-Bereite eine sofortige Beschwerde gegen eine Vergabekammer-Entscheidung vor oder verteidige sie. Frist zwei Wochen ab Zustellung ist nicht verlaengerbar. Aufschiebende Wirkung muss separat beantragt werden.
 
 ## Einstieg
 1. Wer hat verloren? (Bieter, Auftraggeber, Beigeladener)
@@ -88,14 +83,6 @@ Form: Beim OLG-Vergabesenat, beim Gericht der Vergabekammer; Beschwerdeschrift m
 - Neue Tatsachen ohne § 174 GWB-Pruefung eingefuehrt.
 - Anwaltszwang verletzt.
 - Streitwertangabe fehlt.
-
-## Output
-- Beschwerdeschriftsatz-Geruest mit Saetzen, Antraegen, Begruendungsabschnitten.
-- Fristenkalender (Zustellung, Beschwerde, Suspensiv-Antrag, Begruendung, Erwiderung).
-- Pruefvermerk Erfolgsaussichten.
-
-## Quellenregel
-BGH X ZB 14/17 (Suspensiveffekt) und OLG-Linien nur mit Datum, Aktenzeichen und frei pruefbarer Quelle ueber dejure.org oder openjur.de zitieren.
 
 ## Vergabe-Workbench-Boost v61.2
 
@@ -159,9 +146,6 @@ BGH X ZB 14/17 (Suspensiveffekt) und OLG-Linien nur mit Datum, Aktenzeichen und 
 - **BGH** (XIII. Zivilsenat seit 01.01.2021) bei Divergenzvorlage § 179 Abs. 2 GWB des OLG-Vergabesenats.
 - **EuGH** bei EU-rechtlichen Vorabentscheidungen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Vergaberecht DAV.
@@ -211,10 +195,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Fokus:** Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs. 3 GWB ausarbeiten: Bieter will Ruege inhaltlich stark begründen. Normen: § 160 Abs. 3 GWB (Ruege als Zulassigkeitsvoraussetzung), §§ 97 ff. GWB. Prüfraster: Konkrete Vergabestoerung, Norm-Bezeichnung, Beweismittel, Antrag auf Abhilfe, unverzuegliche Einreichung. Output Ruegeschriftsatz, Begleitschreiben. Abgrenzung: Ersteinschaetzung Ruege-Erfordernis siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Nachprüfungsantrag danach siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk.
 
 ### Ruegeschriftsatz § 160 III GWB
-
-## Zweck
-
-Ruege als Pflicht-Vorstufe zum Nachprüfungsverfahren.
 
 ## 1) Voraussetzungen § 160 III GWB
 
@@ -396,9 +376,6 @@ Mit freundlichen Gruessen
 
 ### Sektorenvergabe (SektVO)
 
-## Aufgabe
-Sektorenvergabe nach SektVO strukturieren oder angreifen. Schluesselfragen: Ist der Auftraggeber Sektorenauftraggeber? Greift die SektVO statt der VgV? Welcher Schwellenwert?
-
 ## Einstieg
 1. Taetigkeitsbereich: Wasser, Energie (Gas, Waerme, Elektrizitaet), Verkehr (Bus, Bahn, Hafen, Flughafen), Postdienste?
 2. Rechtsform und Eigentuemerschaft (öffentlicher Auftraggeber, öffentliches Unternehmen, Privatunternehmen mit besonderen oder ausschliesslichen Rechten)?
@@ -443,14 +420,6 @@ Sektorenvergabe nach SektVO strukturieren oder angreifen. Schluesselfragen: Ist 
 - Schwellenwert verwechselt (EUR 432000 vs. EUR 216000/140000).
 - Praequalifikationsbedingungen diskriminierend.
 
-## Output
-- Verfahrenswahl-Pruefvermerk.
-- SektVO-Verfahrensplan mit Fristen.
-- Praequalifikationsbedingungen-Entwurf.
-
-## Quellenregel
-EuGH- und OLG-Entscheidungen zur Sektorenabgrenzung ueber curia.europa.eu / dejure.org verifizieren.
-
 ## Vergabe-Workbench-Boost v61.2
 
 - Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
@@ -460,3 +429,4 @@ EuGH- und OLG-Entscheidungen zur Sektorenabgrenzung ueber curia.europa.eu / deju
 - Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
 - Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
 - Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+

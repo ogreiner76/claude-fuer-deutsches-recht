@@ -5,9 +5,6 @@ description: "Fristen- und Risikoampel im Plugin Betreuungsrecht: 1. Wer fragt i
 
 # Fristen- und Risikoampel
 
-## Aufgabe
-Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin betreuungsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
-
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
@@ -34,14 +31,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Betreuung (richterliche Anordnung, gesetzliche Rechte) vs. Vorsorgevollmacht (privatautonom, kann sofort wirken, aber missbrauchsanfälliger): vorrangig § 1814 Abs. 3 Nr. 1 BGB nF Erforderlichkeitsgrundsatz.
 - Kontrollbetreuung neben Vorsorgevollmacht möglich (§ 1820 BGB nF) bei Missbrauchsverdacht.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

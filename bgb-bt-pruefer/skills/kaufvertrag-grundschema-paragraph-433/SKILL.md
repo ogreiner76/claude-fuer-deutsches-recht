@@ -10,10 +10,6 @@ description: "Kaufvertrag § 433 BGB: Primär- und Sekundäransprüche, Übergab
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Den Kaufvertrag nach § 433 BGB vollständig prüfen: Vertragsschluss, gegenseitige Hauptleistungspflichten (Übergabe, Eigentumsverschaffung, Kaufpreiszahlung), Pflichtverletzung und Sekundäransprüche.
-
 ## Normanker
 
 - § 433 BGB: Vertragstypische Pflichten beim Kaufvertrag
@@ -52,25 +48,13 @@ Den Kaufvertrag nach § 433 BGB vollständig prüfen: Vertragsschluss, gegenseit
 - Kenntnis des Mangels bei Vertragsschluss führt nach § 442 BGB zum Ausschluss der Mängelrechte.
 - AGB-Klauseln zu Gewährleistungsausschluss zwischen Unternehmern können wirksam sein; gegenüber Verbrauchern nicht.
 - Nacherfüllungsrecht des Verkäufers muss vor Rücktritt gewährt werden (§§ 437 Nr. 2 und 440 BGB).
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Vertragsstruktur-Übersicht (Parteien, Gegenstand, Pflichten)
-- Mängelprüfungsschema (subjektiv, objektiv, Montagemangel)
-- Käufer-Rechte-Matrix nach § 437 BGB
-- Risikoampel und Empfehlung
-
-## Qualitätsregeln
-
-- Kaufgegenstand-Qualifikation (beweglich, Grundstück, digital) immer als ersten Schritt klären.
-- Gefahrübergang und Mangelentstehungszeitpunkt sauber dokumentieren.
-- Nacherfüllungsrecht des Verkäufers als Voraussetzung für Rücktritt immer prüfen.
 
 ## Anschluss-Skills
 
@@ -79,10 +63,3 @@ Den Kaufvertrag nach § 433 BGB vollständig prüfen: Vertragsschluss, gegenseit
 - kaufrecht-beweislast-verjaehrung-digitale-elemente
 - verbrauchsgueterkauf-digitales
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355
 
 # Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht
 
-## Arbeitsbereich
-
-E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber betreibt gemeinsam mit seinen Franchisenehmern einen Online-S
 - Produkthaftung nach ProdHaftG trifft den Inverkehrbringer; unklar, ob das der Franchisegeber oder der jeweilige Franchisenehmer ist.
 - Online-Gebietsschutz fehlt; Bestell-Routing nicht definiert; mehrere Franchisenehmer streiten um dieselbe Bestellung.
 
-## Output
-
-- E-Commerce-Verantwortlichkeitsmatrix (Franchisegeber/Franchisenehmer)
-- Widerrufsbelehrungs-Vorlage (AGB-konform)
-- Online-Gebietsschutz-Regelung (Vertragsklausel)
-- Datenschutzkonzept für gemeinsamen Online-Shop
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/355.html
@@ -71,6 +60,7 @@ Ein Franchisegeber betreibt gemeinsam mit seinen Franchisenehmern einen Online-S
 - https://gesetze-im-internet.de/prodhaftg/
 - https://gesetze-im-internet.de/dsgvo/art_26.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+
 ## Vertiefung
 
 Das Widerrufsrecht bei Fernabsatzverträgen ist ein starkes Verbraucherschutzrecht: Verbraucher können Verträge, die über Fernkommunikationsmittel (Internet, Telefon) abgeschlossen wurden, innerhalb von 14 Tagen widerrufen, ohne Angabe von Gründen. Wenn die Widerrufsbelehrung nicht korrekt erteilt wurde, verlängert sich die Widerrufsfrist auf 12 Monate und 14 Tage (§ 356 Abs. 3 BGB).
@@ -84,7 +74,10 @@ Für Franchisesysteme mit gemeinsamen Online-Shops ist die Frage der Rücksendun
 - Tracking des Bestellursprungs für Gebietsschutz implementieren; IP-basierte Zuordnung ist nicht ausreichend.
 - Produkthaftungsverantwortung im Online-Kanal mit der physischen Verkaufsverantwortung harmonisieren.
 - DSGVO-konforme Bestelldaten-Übertragung an Franchisenehmer sicherstellen; keine unnötige Datenweitergabe.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

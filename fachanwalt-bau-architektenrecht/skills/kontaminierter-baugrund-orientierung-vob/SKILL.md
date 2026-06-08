@@ -5,9 +5,6 @@ description: "Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau 
 
 # Kontaminierter Baugrund Orientierung VOB
 
-## Arbeitsbereich
-
-**Kontaminierter Baugrund Orientierung VOB** ordnet den Fall über die tragenden Prüfungslinien: Kontaminierter Baugrund, Orientierungs-Skill Bau- und Architektenrecht, VOB/B-Schiedsgutachten und Schlichtung als Alternative zum. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Kontaminierter Baugrund Orientierung VOB im Plugin Fachanwalt Bau 
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg`
@@ -434,9 +432,6 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — Bevor du loslegst, kläre
 
 1. **Mandantenrolle**: Bauherr, Auftragnehmer, Architekt/Ingenieur, Subunternehmer, Bauträger, Investor?
@@ -471,10 +466,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Fokus:** VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen. Normen: §§ 18 Abs. 3 18b VOB/B, §§ 1025 ff. ZPO. Prüfraster: Schiedsgutachter-Auswahl, Bindungswirkung, Fristen, Abgrenzung Schiedsverfahren. Output: Schiedsgutachten-Antrag VOB/B. Abgrenzung: nicht staatliches Klageverfahren.
 
 ### VOB-Schiedsgericht / SOBau / Schlichtung im Baurecht
-
-## Zweck
-
-Bauspezifische außergerichtliche Streitbeilegung: **VOB/B § 18 Schiedsgericht**, **SOBau** (Streitlösungsordnung für das Bauwesen 2020), **Schlichtungsstelle Bauhandwerker** der lizenzpflichtige Literaturquelle, **Sachverständigen-Schiedsgutachten**. Bauverfahren sind langwierig — ADR ist oft wirtschaftlich entscheidend.
 
 ## Eingaben
 
@@ -571,12 +562,6 @@ Bauspezifische außergerichtliche Streitbeilegung: **VOB/B § 18 Schiedsgericht*
 - **Architekt-Beteiligung**: Mediator-Rolle oder eigener Anspruch?
 - **Sicherheitsleistung** Bauhandwerker-Sicherung § 650f BGB einsetzen
 - **Bei Schwarzarbeit-Verdacht**: Vergleich nicht ratsam (§ 134 BGB-Risiko)
-
-## Querverweise
-
-- `fachanwalt-bau-architektenrecht-orientierung` — Triage
-- `fachanwalt-bau-architektenrecht-abnahme-verweigerung` — Vertiefung Abnahme
-- `fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg` — Spezialfall
 
 ## Quellen und Updates
 
@@ -775,9 +760,6 @@ Mit freundlichen Grüßen
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Empfehlung
 
 | Situation | Empfehlung | Begründung |
@@ -799,3 +781,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 <!-- VII ZR 17/02 (behauptet 18.07.2002, NJW 2003, 200): NOT_FOUND auf dejure.org — ersetzt durch VII ZR 181/00 (09.01.2003, NJW 2003, 1188), verifiziert auf dejure.org -->
 <!-- VII ZR 119/10 (behauptet NJW 2013, 1670, Thema: Selbstvornahme): WRONG_TOPIC — real: Nachbesserungsverlangen vor Abnahme / Art der Maengelbeseitigung, NJW 2013, 1528, verifiziert auf dejure.org/2013,7541 — korrigiert -->
 <!-- UPDATE 05/2026: BGH VII ZR 46/17 (22.02.2018), VII ZR 26/20 (08.10.2020), VII ZR 301/13 (19.01.2017) ergaenzt — alle verifiziert ueber dejure.org / BGHZ 218,1 -->
+

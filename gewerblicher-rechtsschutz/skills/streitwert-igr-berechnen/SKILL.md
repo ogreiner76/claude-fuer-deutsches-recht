@@ -17,10 +17,6 @@ Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Die richtige Streitwertbemessung ist im gewerblichen Rechtsschutz entscheidend für Kosten, Gerichtsstand, Anwaltskosten und Sicherheitsleistung. Sie ist häufig der zentrale Verhandlungspunkt.
-
 ## Eingaben
 
 - Schutzrecht (Marke Patent Design Geschmacksmuster Urheber Sortenschutz)
@@ -197,3 +193,4 @@ Bevor der Streitwert festgesetzt wird, klaere:
 Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
 Aktenzeichen geprueft und korrigiert:
 - BGH I ZR 20/07 (NOT_FOUND: Aktenzeichen nicht in dejure nachweisbar): ersetzt durch verifizierte Entscheidung BGH X ZR 171/12 vom 13.11.2013 (Einkaufskuehltasche), GRUR 2014, 206 (Quelle: dejure.org/2013,31771)
+

@@ -33,14 +33,6 @@ Karteninhalt pro Dokument (sieben Felder aus der Excel-Vorlage):
 - Kartenfarbe: GRUEN, GELB, ROT entsprechend Ampel
 - Standardansicht: kompakte Karten
 
-## Vorgehen
-1. Padlet anlegen, Format `Shelf` waehlen.
-2. Erste Spalte umbenennen in `1. Uebersicht`.
-3. Alle Dokumente aus dem Excel-Reiter 1 als Karten anlegen.
-4. Pro Karte Ampelfarbe setzen (Padlet-Funktion `Karte einfaerben`).
-5. Anhaenge verlinken: Scan, DATEV-Link, E-Mail-Thread.
-6. Vertragsebenen-Sortierung durch Karten-Reihenfolge abbilden.
-
 ## Anwendungsbeispiel
 LausitzStorage-Akte:
 - Erste Karte oben (GRUEN): Pachtvertrag LEAG Hauptvertrag, 11.07.2025,
@@ -67,3 +59,4 @@ LausitzStorage-Akte:
 ## Plugin-Kontext
 Spalte 1 ist die Eingangsansicht. Die folgenden drei Padlet-Skills bauen
 die Detailspalten 2, 3 und 4 auf.
+

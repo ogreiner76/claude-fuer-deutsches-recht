@@ -5,10 +5,6 @@ description: "Franchisevertrag auf AGB-Konformität prüfen: Einbeziehung nach �
 
 # Franchiserecht: Franchisevertrag – AGB-Redline
 
-## Arbeitsbereich
-
-Franchisevertrag auf AGB-Konformität prüfen: Einbeziehung nach §§ 305 ff. BGB, Inhaltskontrolle von Systemhandbuchvorbehalten, Bezugsbindungen und Vertragsstrafen. Redline erstellen und unwirksame Klauseln markieren. Perspektive Franchisegeber oder Franchisenehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisevertrag soll vor Unterzeichnung geprüft oder nach Streitentstehung
 - Kartellrechtlich unwirksame Klauseln (z. B. Festpreisbindung nach Art. 4 lit. a Vertikal-GVO) werden im Redline nicht markiert.
 - Salvatorische Klauseln retten unwirksame AGB nicht; es gilt das geltungserhaltende Reduktionsverbot.
 
-## Output
-
-- Kommentiertes Redline-Dokument (Ampel: grün/gelb/rot)
-- Klauselliste mit Normbezug und Empfehlung
-- Risikoranking für Mandant
-- Nachverhandlungsagenda
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/305.html
@@ -71,6 +60,7 @@ Ein Franchisevertrag soll vor Unterzeichnung geprüft oder nach Streitentstehung
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
 - https://dejure.org/gesetze/GWB/1.html
 - https://gesetze-im-internet.de/bgb/__308.html
+
 ## Vertiefung
 
 Die AGB-Kontrolle gilt auch im B2B-Verhältnis. § 307 BGB schützt auch Unternehmer vor unangemessener Benachteiligung, wenn auch mit höherer Toleranzschwelle als bei Verbrauchergeschäften. Franchiseverträge zwischen zwei Unternehmern unterliegen vollständig der Inhaltskontrolle. Das Transparenzgebot nach § 307 Abs. 1 S. 2 BGB verlangt, dass der Franchisenehmer seine Pflichten und Risiken aus dem Vertrag klar erkennen kann.
@@ -84,7 +74,10 @@ Systemhandbuchvorbehalte, die einseitige Vertragsänderungen ermöglichen, sind 
 - Systemhandbuchvorbehalt genau auf Änderungsumfang prüfen: Ist der Vorbehalt auf sachlich begründete Anpassungen beschränkt?
 - Kartellrechtliche Prüfung parallel zur AGB-Kontrolle; nicht nur BGB, auch GWB und Vertikal-GVO 2022/720.
 - Bei international tätigen Franchisesystemen auch ausländische AGB-Rechtsgrundsätze beachten.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

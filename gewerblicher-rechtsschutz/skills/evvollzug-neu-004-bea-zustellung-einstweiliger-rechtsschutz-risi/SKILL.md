@@ -5,10 +5,6 @@ description: "EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Re
 
 # EV-Vollzug 004: beA-Zustellung im Einstweiligen Rechtsschutz – Risiken und Praxis
 
-## Arbeitsbereich
-
-EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -128,3 +124,4 @@ Mandatsbezug: Anwalt erwägt, statt des Gerichtsvollziehers die beA-Zustellung z
 - `evvollzug-neu-003` – GV-Zustellung als verlässliche Alternative
 - `evvollzug-neu-005` – Ordnungsmittelantrag nach Vollzug
 - `evvollzug-neu-006` – Auslandszustellung EV
+

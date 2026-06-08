@@ -5,10 +5,6 @@ description: "Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU
 
 # Whistleblower-Schutz und -Management
 
-## Arbeitsbereich
-
-Bewertet Whistleblower-Meldungen rechtssicher – HinSchG 2023, EU-Richtlinie 2019/1937, Schutzumfang, Meldestellen und Reaktionspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,15 +61,6 @@ Dieser Skill stellt sicher, dass Whistleblower-Meldungen rechtskonform entgegeng
 - Offenbarung von Geschäftsgeheimnissen durch Whistleblower: § 5 Nr. 2 GeschGehG schützt, wenn zur Aufdeckung rechtswidrigen Verhaltens nötig.
 - HinSchG ergänzt GeschGehG: Whistleblower-Schutz hat Vorrang vor Geheimnisschutz, wenn Meldung in gutem Glauben erfolgt.
 
-## Red-Team-Fragen
-
-- Hat das Unternehmen einen funktionsfähigen internen Meldekanal eingerichtet, der den HinSchG-Anforderungen entspricht?
-- Wurde die Identität des Hinweisgebers geschützt – insbesondere bei der Weitergabe der Meldung an die Untersuchungskommission?
-- Gibt es Anzeichen für Repressalien gegen den Hinweisgeber? Beweislastumkehr im Blick behalten!
-- Hat der Hinweisgeber bereits extern (BaFin, SEC) gemeldet – und wenn ja, was bedeutet das für das Timing der internen Untersuchung?
-- Ist die Meldung inhaltlich plausibel und von § 2 HinSchG erfasst?
-- Wurde die 3-Monats-Rückmeldepflicht eingehalten?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -93,3 +80,4 @@ Dieser Skill stellt sicher, dass Whistleblower-Meldungen rechtskonform entgegeng
 - **Rückmeldung an Hinweisgeber** nach 3 Monaten (Mustertext)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

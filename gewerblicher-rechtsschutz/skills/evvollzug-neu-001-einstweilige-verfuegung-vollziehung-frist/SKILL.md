@@ -5,10 +5,6 @@ description: "EV-Vollzug: Vollziehungsfrist § 929 Abs. 2 ZPO und Parteizustellu
 
 # EV-Vollzug 001: Vollziehungsfrist und Parteizustellung (§ 929 Abs. 2 ZPO)
 
-## Arbeitsbereich
-
-EV-Vollzug: Vollziehungsfrist § 929 Abs. 2 ZPO und Parteizustellung im gewerblichen Rechtsschutz. Beschluss- und Urteilsverfügung, Zustellwege, Vollziehungsversäumnis und Rechtsfolgen. Praxisfür Anwalt, Mandant und Vollstreckungsorgan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -120,3 +116,4 @@ Mandatsbezug: Marken-, Patent-, UWG- und Urheberrechtsfälle, in denen eine Besc
 - `evvollzug-neu-003` – Zustellung durch Gerichtsvollzieher im IP-Verfahren
 - `evvollzug-neu-005` – Ordnungsmittelantrag nach erfolgreichem Vollzug
 - `schutzschrift-eilverfuegung` – Schutzschrift als Gegenmittel des Schuldners
+

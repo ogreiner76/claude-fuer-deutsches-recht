@@ -132,25 +132,7 @@ Arbeitsfokus: **Mehrjahresroadmap Forschungszulage**. Prüfe diese Anker am Sach
 - `§ 10 FZulG` — Festsetzung/Auszahlung.
 - `§ 90 Abs. 1 AO` — Mitwirkung und Belege.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- 12-Monats-Plan mit Quartalsterminen.
-- Roadmap-Tabelle mit BMG-Schätzung und Förderung je Jahr.
-- Rückwirkende-Jahre-Matrix.
-- Aufgabenliste für Technik, Finance, Steuerberatung und Geschäftsleitung.
-- Anschlussantrag-Vorlage.
-
-## Querverweise
-
-- `fz-foerdercheck-kaltstart` für die erste Förderchance je Vorhaben.
-- `fz-bsfz-bescheinigung-projektbeschreibung` für den Erstantrag (mehrjährig).
-- `fz-bemessungsgrundlage-2026` für die jährliche BMG.
-- `fz-finanzamt-festsetzung-auszahlung` für den jährlichen FA-Antrag.
-- `fz-dokumentationspaket-betriebspruefung` für die Jahresroutine.
-- `fz-insolvenz-verlust-liquiditaet` für Liquiditätsplanung.
 
 ## Quellen Stand 05/2026
 
@@ -158,3 +140,4 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - BSFZ-Verfahrensregeln für mehrjährige Bescheinigung.
 - AO — Festsetzungsverjährung und Antragsfristen.
 - `references/forschungszulage-quellen-und-zahlen.md`.
+

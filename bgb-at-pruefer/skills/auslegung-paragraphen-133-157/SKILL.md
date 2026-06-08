@@ -45,13 +45,6 @@ description: "Klausurfall zur Auslegung von Willenserklärungen und Verträgen n
 - Ergänzende Vertragsauslegung erfordert eine planwidrige Lücke, nicht bloß eine für eine Partei ungünstige Regelung.
 - § 157 BGB gilt nur für Verträge, § 133 BGB für alle Willenserklärungen.
 
-## Output
-
-- Auslegungsgutachten: natürliche und normative Auslegung im Gutachtenstil
-- Schema: Auslegungsmittel und Ergebnis tabellarisch
-- Ergänzende Vertragsauslegung: Lücke — Maßstab — Ergebnis
-- Abgrenzung Auslegung vs. Anfechtung
-
 ## Quellen
 
 - [§ 133 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -82,3 +75,4 @@ Ausnahme: Falsa demonstratio non nocet — wenn beide dasselbe wollten, trotz an
 - Objektiver Empfängerhorizont angelegt?
 - Falsa demonstratio: Haben beide Parteien dasselbe gemeint?
 - Ergänzende Vertragsauslegung nur bei echter Regelungslücke, nicht bei Dissens?
+

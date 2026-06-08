@@ -5,10 +5,6 @@ description: "Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor In
 
 # Sanierungsgewinn — fruehe Vorbereitung vor Insolvenzantrag oder StaRUG-Anzeige
 
-## Arbeitsbereich
-
-Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor Insolvenzantrag oder StaRUG-Anzeige. Zeitachse mit Monaten und Antragspflichtigen. Was muss VOR der Plan-Einreichung steuerlich geklaert sein: Sanierungsbeduerftigkeit dokumentieren, Verlustvortrag aufstellen lassen, Antragsraster nach Paragraph 3a EStG vorbereiten, Sanierungsabsicht der Glaeubiger sichern. Verhindert das spaete und teuere Stolpern ueber Steuerfallen im bestaetigten Plan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -144,23 +140,6 @@ Verfasser: [IV/Sachwalter] in Abstimmung mit [StB Name]
 4. Paragraph 7b GewStG vergessen — der Gewerbesteuer-Antrag laeuft eigenstaendig.
 5. Wahl des falschen Sanierungsbegriffs: nur die **unternehmensbezogene** Sanierung ist begnadigt, nicht die rein unternehmerbezogene.
 
-## Querverweise
-
-Innerhalb des Plugins `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — die Modellrechnung Schritt für Schritt.
-- `insol-sanierungsgewinn-mandantenwarnung-iv-und-cro` — Mandantenbrief an Geschaeftsleitung und CRO.
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Antragsmechanik im Plan.
-- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftung des Verwalters bei versaeumter Vorbereitung.
-- `insol-sanierungsgewinn-liquidation-statt-plan-folgen` — wenn der Plan-Pfad scheitert und nur Liquidation bleibt.
-- `inso-eroeffnungsantrag-checkliste` — formelle Eroeffnungspruefung.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — generelle Steuer-Skills, insbesondere `stb-sanierungsgewinn-liquidation-nachrang-fg-koeln` für den Pfad „statt Plan-Sanierung Liquidation mit nachrangigem Gesellschafterdarlehen" (verifizierte Linie FG Koeln 13 K 3006/11).
-- `grosskanzlei-corporate-ma` — Distressed-M-und-A-Sicht.
-- `fortbestehensprognose` — Schwester-Skill für die Prognose.
-
 ## Quellen Stand 06/2026
 
 - Paragraph 3a EStG, Bundesministerium der Justiz, `gesetze-im-internet.de/estg/__3a.html`.
@@ -171,3 +150,4 @@ In anderen Plugins:
 - FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung und Grenzen des steuerfreien Sanierungsgewinns. Verifikation ueber `dejure.org` und NWB-Datenbank.
 - FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation, Rangruecktritt und Steuerausfall mangels Koerperschaftsteuersubjekt; verifizierte Fundstelle für den Pfad Liquidation statt Plan.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

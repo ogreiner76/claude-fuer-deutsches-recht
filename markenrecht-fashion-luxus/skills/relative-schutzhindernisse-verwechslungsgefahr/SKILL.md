@@ -5,10 +5,6 @@ description: "Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG un
 
 # Relative Schutzhindernisse und Verwechslungsgefahr
 
-## Arbeitsbereich
-
-Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen:
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Bewerte Kollisionsrisiken zwischen neuer und älterer Marke und entscheide, ob Anmeldung, Widerspruch, Abwehr oder Koexistenz sinnvoll ist.
 
 ## Pflichtfragen
 
@@ -42,13 +34,3 @@ Bewerte Kollisionsrisiken zwischen neuer und älterer Marke und entscheide, ob A
 5. **Wechselwirkung:** Hohe Warenähnlichkeit kann geringere Zeichenähnlichkeit ausgleichen und umgekehrt.
 6. **Sonderlagen:** Serienzeichen, bekannte Marke, unlautere Ausnutzung, Verwässerung, Rufbeeinträchtigung, bösgläubige Anmeldung.
 
-## Output
-
-- Kollisionsmatrix.
-- Widerspruchs- oder Verteidigungsstrategie.
-- Vergleichsfenster für Koexistenz.
-- Such- und Belegliste.
-
-## Qualitätsregeln
-
-Keine Trefferliste ohne Bewertung. Jede Register- oder Rechtsprechungsangabe braucht Quelle, Datum und klare Aussage.

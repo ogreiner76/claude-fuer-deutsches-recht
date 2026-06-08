@@ -5,10 +5,6 @@ description: "Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutz
 
 # Anpassungsgebot — Flächennutzungsplan
 
-## Zweck
-
-Das Entwicklungsgebot bindet den B-Plan an den FNP. Verletzung ist beachtlicher Verfahrensfehler und häufig übersehener Angriffspunkt.
-
 ## Schritt 1 — Wortlaut § 8 BauGB
 
 ### § 8 Abs. 1 BauGB
@@ -153,10 +149,6 @@ Das Entwicklungsgebot bindet den B-Plan an den FNP. Verletzung ist beachtlicher 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Normen und Rechtsprechung
 

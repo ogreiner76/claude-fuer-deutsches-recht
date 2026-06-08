@@ -5,10 +5,6 @@ description: "Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Pr�
 
 # Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt
 
-## Arbeitsbereich
-
-Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Prüfens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behörde. Warnt bei Strafrecht, Verfassungsrecht, internationalem Privatrecht und Existenzgefaehrdung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Prüfens und empf
 3. Hat der Sachverhalt ausländischen Bezug oder mehrere mögliche Gerichtsstände?
 4. Ist das gesamte Ergebnis von einer Generalklausel (§ 242, § 138 BGB) abhängig?
 5. Betrifft der Sachverhalt Wohnung, Arbeitsplatz, Aufenthaltsstatus oder wesentliches Vermögen?
-
-## Zweck
-
-Mechanisches Subsumieren hat Grenzen. Dieser Skill markiert den Punkt, an dem automatisierte Hilfe nicht mehr ausreicht und qualifizierte Fachleute unverzüglich eingeschaltet werden müssen.
 
 ## Zentrale berufsrechtliche Normen
 
@@ -103,6 +95,3 @@ Wir empfehlen Ihnen dringend:
 Suche nach Fachanwälten: www.rechtsanwaltskammer.de oder www.anwaltauskunft.de
 ```
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

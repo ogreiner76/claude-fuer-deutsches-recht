@@ -5,10 +5,6 @@ description: "Auslandseinsatz Mandat Einsatzregeln: prüft die einschlägigen Vo
 
 # Auslandseinsatz – Mandat und Einsatzregeln
 
-## Arbeitsbereich
-
-Auslandseinsatz Mandat Einsatzregeln: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,15 +87,6 @@ Bewaffnete Auslandseinsätze deutscher Streitkräfte unterliegen einem dreistufi
 - Sofortmeldung verzögert – Beweismittel verloren.
 - NATO SOFA-Gerichtsbarkeitsfrage übersehen – Mandant unter Gastlandsgerichtsbarkeit.
 - Versorgungsrechtliche Folgen nicht parallel dokumentiert (§ 81a SVG).
-
-## Querverweise
-
-- gehorsam-befehl-und-rechtswidriger-befehl
-- einsatzunfall-wehrdienstbeschaedigung
-- statusrechte-im-einsatz-urlaub-betreuung
-- ptbs-einsatzfolge-beweisfuehrung
-- wehrstrafrecht-fahnenflucht-gehorsamsverweigerung-schnittstelle
-- kriegsdienstverweigerung-verfahren
 
 ## Quellen Stand 06/2026
 

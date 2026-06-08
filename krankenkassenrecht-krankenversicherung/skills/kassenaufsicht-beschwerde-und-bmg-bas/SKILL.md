@@ -5,10 +5,6 @@ description: "Beschwerde bei Kassenaufsichtsbehörden (BAS, Landesbehörden): Zu
 
 # Kassenaufsicht: Beschwerde und BMG/BAS
 
-## Arbeitsbereich
-
-Beschwerde bei Kassenaufsichtsbehörden (BAS, Landesbehörden): Zuständigkeiten, Beschwerdeinhalte, Grenzen der Aufsicht und ergänzende Rechtsmittel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Neben dem Rechtsweg zu den Sozialgerichten können Beschwerden bei der Kassenauf
 - [BSG Aufsichtsrecht](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 87 SGB IV](https://dejure.org/gesetze/SGB_IV/87.html)
 - [Unabhängige Patientenberatung (UPD)](https://www.patientenberatung.de)
+

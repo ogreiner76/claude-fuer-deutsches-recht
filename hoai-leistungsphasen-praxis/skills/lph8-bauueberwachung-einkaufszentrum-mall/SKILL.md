@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Einkaufszentren und Malls —
 
 # Bauueberwachung Einkaufszentrum Mall (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme für verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM für Betreibergesellschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Mieteinheiten-bezogene Abnahmepruefung sichert die Uebergabe an jeden Mieter mit
 - Mieteinheiten-Abnahme vergessen: Mieter nimmt ohne Protokoll in Besitz, Maengel nicht festgestellt
 - Fettabscheider zu klein: Abwasserrueckstau bei Vollbetrieb Foodcourt, Betriebsstilllegung
 
-## Output
-
-Sprinkler-Abnahmeprotokoll VdS CEA 4001. RWA-Pruefprotokoll nach DIN 18232.
-Mieteinheiten-Uebergabeprotokoll je Mieter. Barrierefreiheits-Abnahme nach DIN 18040-1.
-BIM360 As-Built-Dokumentation. Abnahmeprotokoll Mall nach VOB/B und Sonderbaurecht.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ BIM360 As-Built-Dokumentation. Abnahmeprotokoll Mall nach VOB/B und Sonderbaurec
 - [DIN 18040-1 Barrierefreiheit](https://www.gesetze-im-internet.de/)
 - [VdS CEA 4001 Sprinkler](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 158/04 Sprinkleranlage Mangel](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+158/04)
+

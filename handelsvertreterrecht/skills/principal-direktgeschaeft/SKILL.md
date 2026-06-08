@@ -5,10 +5,6 @@ description: "Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet
 
 # Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach § 87 HGB
 
-## Arbeitsbereich
-
-Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systematischer Unterwanderung des Alleinvertretervertrags. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,10 +62,6 @@ Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländis
 - Schadensersatz bei systematischer Unterwanderung nicht geltend gemacht.
 - Stufenklage ohne korrekte Formulierung der Leistungsstufe unzulässig.
 
-## Output
-
-Buchauszugs-Anforderungsschreiben, Bezirksprovisionsberechnung, Stufenklage-Entwurf.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [§ 280 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__280.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

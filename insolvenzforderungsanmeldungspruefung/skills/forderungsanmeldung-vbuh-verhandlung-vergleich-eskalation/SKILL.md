@@ -5,10 +5,6 @@ description: "Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation im Plugi
 
 # Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
 
-## Arbeitsbereich
-
-**Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation im Plugi
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-vbuh-verhandlung-vergleich-und-eskalation`
@@ -57,12 +54,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## vbuH-Forderungen — Vorsätzlich begangene unerlaubte Handlung
 - **Bedeutung:** Forderungen aus vorsätzlich begangener unerlaubter Handlung (§§ 823, 826 BGB) sind nach § 302 Nr. 1 InsO von der Restschuldbefreiung des Schuldners ausgenommen — sie überleben das Verfahren.
 - **Anmeldung § 174 Abs. 2 InsO:** Bei der Anmeldung muss der Tatbestand der vorsätzlich begangenen unerlaubten Handlung ausdrücklich behauptet und tatsächlich substantiiert dargelegt werden — sonst nimmt die Tabelleneintragung diese Qualifikation nicht auf.
@@ -72,8 +63,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Trade-off:** vbuH-Anmeldung macht im Restschuldbefreiungsverfahren wirtschaftlich Sinn — Mehrkosten der Beweisführung gegen die Aussicht auf vollständige Forderung nach dem Verfahren abwägen.
 - **Praxis:** Bei Strafurteil als Beweismittel früh ankündigen; bei laufendem Strafverfahren ggf. Tabellenfeststellung aussetzen.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

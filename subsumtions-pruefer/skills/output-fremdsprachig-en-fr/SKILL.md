@@ -5,10 +5,6 @@ description: "Gibt das Subsumtionsergebnis auf Englisch oder Franzoesisch aus. E
 
 # Output: Fremdsprachig (Englisch und Französisch)
 
-## Zweck
-
-Für internationale Mandanten, grenzüberschreitende Sachverhalte und EU-rechtliche Verfahren ist eine englische oder französische Ausgabe des Subsumtionsergebnisses hilfreich. Dieser Skill erzeugt Ausgaben in beiden Sprachen und kennzeichnet sie ausdrücklich als nicht-amtliche Übersetzungen.
-
 ## Triage zu Beginn
 
 1. Welche Sprache wird benötigt? (Englisch / Französisch / zweisprachig)
@@ -81,17 +77,3 @@ Für Sachverhalte mit Bezug zu EU-Institutionen (EuGH, Kommission, Rat) empfiehl
 - Gerichtsstand und Zustellungsfragen: EuGVVO (VO 1215/2012), HZÜ, EuZVO — live prüfen
 - Ausländisches Recht wird nicht angewendet; bei Kollisionsrechtsfragen Verweis auf IPR (EGBGB, Rom I-VO, Rom II-VO)
 
-## Quellenregel
-
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (curia.europa.eu für EuGH; dejure.org; bgh.de).
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- EU-Normtext live prüfen: eur-lex.europa.eu.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-- Normtext live prüfen: gesetze-im-internet.de (Bund), eur-lex.europa.eu (EU-Recht).

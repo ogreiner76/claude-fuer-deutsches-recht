@@ -23,10 +23,6 @@ verständlich werden soll, ohne die Standardsprache vollständig zu verlassen.
 - § 242 BGB — Treu und Glauben als Grundlage des Transparenzgebots
 - BITV 2.0 — Barrierefreie-Informationstechnik-Verordnung, Anhang 1 (Verstaendlichkeit digitaler Dokumente)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -35,6 +31,7 @@ Konkret zu prüfen:
 - BGG (Behindertengleichstellungsgesetz) § 11
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
+
 ## Output-Template: Einfache-Sprache-Fassung
 
 **Adressat:** Mandant / Buerger — **Tonfall:** klar, direkt, respektvoll
@@ -67,6 +64,7 @@ Wenn Sie nichts tun, dann: [Rechtsfolge kurz]
 - Widerspruch: Sie sagen der Behörde, dass Sie nicht einverstanden sind.
 - Verjährung: Nach Ablauf dieser Frist koennen Sie nichts mehr verlangen.
 ```
+
 ## Ziel
 
 Der Text soll schnell beantworten:
@@ -154,3 +152,4 @@ Gib am Ende eine Mini-Prüfung aus:
 | Rechtsfolgen erhalten | ja/nein |
 | schwere Wörter erklärt | ja/nein |
 | weiterer Prüfbedarf | kurz |
+

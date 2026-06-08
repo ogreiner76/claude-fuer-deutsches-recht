@@ -5,10 +5,6 @@ description: "Prueft insiderrechtliche Pflichten externer Berater (Anwaelte, WPs
 
 # Externe Berater – Kanzleien, Wirtschaftsprüfer, Banken
 
-## Arbeitsbereich
-
-Prueft insiderrechtliche Pflichten externer Berater (Anwaelte, WPs, Banken): Insiderliste, Handelsverbot, Chinesische Mauern und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,21 +75,3 @@ Pflichtklauseln in Beratungsverträgen / NDAs mit externen Beratern:
 - Strafbarkeit nach § 119 WpHG gilt auch für externe Personen
 - Emittent kann in Anspruch genommen werden, wenn er unzureichend überwacht hat
 
-## Red-Team-Fragen
-
-- Sind alle externen Berater des aktuellen Projekts vertraglich zur Insiderlisten-Führung
- verpflichtet?
-- Werden Banken auf ordnungsgemäße Chinese Walls überprüft?
-- Ist der Datenraum-Zugang protokolliert und auf need-to-know beschränkt?
-- Wurden alle Berater-Mitarbeiter schriftlich belehrt?
-- Gibt es einen Mechanismus zur Meldung verdächtiger Aktivitäten?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Pflichten-Matrix: Beratertyp × MAR-Pflicht × Nachweis
-2. NDA-Zusatzklauseln für externe Berater (Insiderrecht-spezifisch)
-3. Chinese-Wall-Protokoll für Investmentbanken
-4. Datenraum-Zugangsprotokolle-Vorlage
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

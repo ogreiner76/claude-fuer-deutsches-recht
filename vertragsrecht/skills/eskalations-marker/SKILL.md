@@ -5,10 +5,6 @@ description: "Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalation
 
 # Eskalationsregeln
 
-## Arbeitsbereich
-
-Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt "wer muss das genehmigen", "eskalieren", "braucht das GC-Freigabe", "Genehmigung einholen" oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,13 +32,6 @@ Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus de
 - §§ 5-8 LkSG — Sorgfaltspflichten (Eskalationsauslöser bei Lieferkettenverstößen)
 - Art. 33, 34 DSGVO — Meldepflichten bei Datenpannen (Eskalationsauslöser)
 - § 43a Abs. 2 BRAO — anwaltliche Verschwiegenheitspflicht
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Jede Rechtsabteilung hat eine Eskalationsmatrix – geschrieben oder ungeschrieben. Dieser Skill liest die geschriebene (in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md`), ordnet ein Vertragsproblem darin ein, nennt den Genehmiger beim Namen und entwirft die Anfrage – damit der Jurist nicht abends schnell eine "hast du kurz?"-E-Mail schreibt.
 
 ## Eingaben
 
@@ -128,11 +117,6 @@ Bei Rückfragen stehe ich gerne zur Verfügung.
 
 Entwurf anzeigen, Anwalt sendet. Niemals ohne ausdrückliche Bestätigung absenden.
 
-## Ausgabeformat
-
-```markdown
-VERTRAULICH – ANWALTLICHES ARBEITSERGEBNIS (§ 43a II BRAO)
-
 ## Eskalation: [Vertrag] mit [Vertragspartner] – [Klausel]
 
 **Eskalationsgrund:** [Betrags-Schwelle / Klausel-Abweichung / Automatischer Auslöser / Geschäftsentscheidung]
@@ -166,3 +150,4 @@ Relevante Normen:
 - **Entscheidung vorwegnehmen:** Der Entwurf bietet Optionen – er trifft keine Entscheidung. Der Genehmiger entscheidet.
 - **Frist vergessen:** Ohne Entscheidungs-Datum läuft die Verhandlung. Immer ein Datum nennen.
 - **Privilegierter Inhalt außerhalb des Kreises:** Genehmigungsanfragen intern halten; § 43a Abs. 2 BRAO, § 203 StGB beachten.
+

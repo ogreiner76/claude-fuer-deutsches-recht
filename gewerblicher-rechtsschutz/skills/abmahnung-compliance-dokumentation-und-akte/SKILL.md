@@ -5,10 +5,6 @@ description: "Abmahnung im gewerblichen Rechtsschutz: Compliance-Dokumentation u
 
 # Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung
 
-## Arbeitsbereich
-
-Abmahnung im gewerblichen Rechtsschutz: Compliance-Dokumentation und Aktenführung. Wie Abmahnvorgänge vollständig dokumentiert, Fristen gesichert und Entscheidungen nachvollziehbar gemacht werden – für Anwaltskanzlei und Unternehmens-Rechtsabteilung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

@@ -16,10 +16,6 @@ description: "Dokumentenstapel für 3D-Tabellenreview einlesen: PDFs, Excel-Date
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Bevor der Reviewlauf startet muss der Dokumentenstapel sauber sein — kein Dokument doppelt kein Dokument vergessen kein Dokument falsch klassifiziert. Dieser Skill ist die Eingangsphase der Zeilenachse.
-
 ## Eingabequellen
 
 - **VDR-Export:** Verzeichnis mit Originalstruktur — Datasite Intralinks Box SharePoint
@@ -63,3 +59,4 @@ Bevor der Reviewlauf startet muss der Dokumentenstapel sauber sein — kein Doku
 ## Grenzen
 
 Klassifikation ist heuristisch. Bei Konfidenz unter 80 Prozent fragt der Skill zurück. OCR-Qualität hängt vom Scan ab. Belegkette ist nur so gut wie die OCR-Konfidenz.
+

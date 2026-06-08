@@ -5,10 +5,6 @@ description: "Analysiert Insiderrecht bei bankaufsichtsrechtlichen Massnahmen (K
 
 # Bankaufsichtliches Handeln – Insiderrecht und MAR
 
-## Arbeitsbereich
-
-Analysiert Insiderrecht bei bankaufsichtsrechtlichen Massnahmen (KWG, SSM): Vertraulichkeit, Ad-hoc-Pflicht und Koordination mit BaFin/EZB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -71,23 +67,6 @@ marktrechtlicher Ad-hoc-Pflicht für börsennotierte Kreditinstitute.
 - EZB übt Vertraulichkeit besonders streng aus
 - Koordination mit EZB-Vertretern und BaFin als nationaler zuständiger Behörde
 
-## Red-Team-Fragen
-
-- Ist die Aufsichtsmaßnahme kursrelevant?
-- Wurde der Aufschub koordiniert und dokumentiert?
-- Ist die BaFin als Kapitalmarktaufseher (nicht als Bankenaufseher) informiert?
-- Wurde die Aufschub-Dauer minimiert und der Trigger für Beendigung definiert?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Kursrelevanz-Analyse bankaufsichtsrechtlicher Maßnahmen
-2. Aufschub-Dokumentation (inklusive behördlicher Vertraulichkeitsauflage)
-3. BaFin-Koordinationsprotokoll
-4. Ad-hoc-Entwurf für rechtskräftige Maßnahme
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Für systemrelevante Institute (G-SIIs, O-SIIs) und Kreditinstitute unter SSM-Direktaufsicht
@@ -100,3 +79,4 @@ Schriftliche Klärung mit EZB/BaFin vor der Veröffentlichung einholen.
 Weitere Quellen:
 - SSM-Verordnung (EU) 1024/2013: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R1024
 - §§ 44 KWG: https://www.gesetze-im-internet.de/kwg/__44.html
+

@@ -42,14 +42,6 @@ description: "Algorithmische Kollusion und KI-Pricing: Preisalgorithmen, Signall
 - Logging von Preisentscheidungen.
 - Kartellrechtliche Schulung für Revenue Teams.
 
-## Output
-
-- Pricing-AI-Freigabevermerk.
-- Red-Flag-Liste für Vertrieb.
-- Fragen an Softwareanbieter.
-- Notfallplan bei Behördenanfrage.
-- Dawn-Raid-Fragenkatalog für Pricing-, Data-Science- und Revenue-Management-Teams.
-
 ## Merksatz
 
 Ein Algorithmus kann ein Kartell nicht entschuldigen. Er kann aber dessen Beweisbild komplizierter machen.
@@ -82,3 +74,4 @@ Ein Algorithmus kann ein Kartell nicht entschuldigen. Er kann aber dessen Beweis
 - KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
 - Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
 - GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.
+

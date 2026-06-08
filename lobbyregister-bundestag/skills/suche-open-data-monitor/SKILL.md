@@ -5,10 +5,6 @@ description: "Nutzt Suche, Standardlisten, Open Data und API zur Markt-, Complia
 
 # Suche und Open-Data-Monitor
 
-## Arbeitsbereich
-
-Nutzt Suche, Standardlisten, Open Data und API zur Markt-, Compliance- und Gegenparteienprüfung. Output Monitoring-Report. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Nutzt Suche, Standardlisten, Open Data und API zur Markt-, Compliance- und Gegen
 - Tragende Normen verifizieren: LobbyRG §§ 1, 2, 3, 5, 6, 7, 8 (i.d.F. Reform 2024), Verhaltenskodex Lobbyregister, GOBT, BGleiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lobbyregistereintrag, Verhaltenskodex-Bestätigung, Tätigkeitsbericht, Hausausweisantrag, Finanzangaben, Verbandsmitgliederliste — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Oeffentliche Registerdaten für Due Diligence und Monitoring auswerten.
 
 ## Gefuehrter Ablauf
 
@@ -58,10 +50,6 @@ Bei Zweigniederlassungen ist zwingend ein Suchlauf auf Rechtstraegername, Nieder
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 - Open Data/API: ../../references/open-data-api-v2.md
 
-## Output
-
-Monitoring-Report mit Suchprofil, API-Abfrageplan, Trefferliste, Cursor-Protokoll, Datenstand, Feldauffaelligkeiten, rechtlicher Bewertung und Folgeaktion.
-
 ## Qualitaetsgate
 
 - Pflichtgrund, Ausnahme und freiwillige Registrierung werden getrennt.
@@ -70,10 +58,3 @@ Monitoring-Report mit Suchprofil, API-Abfrageplan, Trefferliste, Cursor-Protokol
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
 - API-Ausgaben werden nicht als Portal-Einreichung oder automatische Registeraenderung dargestellt.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

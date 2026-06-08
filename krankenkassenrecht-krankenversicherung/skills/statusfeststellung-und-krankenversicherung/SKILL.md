@@ -5,10 +5,6 @@ description: "Statusfeststellungsverfahren nach § 7a SGB IV: Scheinselbstständ
 
 # Statusfeststellung und Krankenversicherung
 
-## Arbeitsbereich
-
-Statusfeststellungsverfahren nach § 7a SGB IV: Scheinselbstständigkeit, sozialversicherungsrechtliche Folgen für die Krankenversicherung und Nachzahlungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Wer als selbstständig gilt, muss sich selbst krankenversichern. Wenn der Status
 - [DRV Statusfeststellung](https://www.deutsche-rentenversicherung.de)
 - [§ 25 SGB IV – Verjährung](https://www.gesetze-im-internet.de/sgb_4/__25.html)
 - [dejure.org § 7 SGB IV](https://dejure.org/gesetze/SGB_IV/7.html)
+

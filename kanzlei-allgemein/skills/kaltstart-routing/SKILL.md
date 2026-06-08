@@ -34,13 +34,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - § 31a BRAO — beA-Nutzungspflicht: sofort bei Zulassung
 - § 8 PartGG — Haftung in der Partnerschaftsgesellschaft: wichtig für Kanzleistruktur-Entscheidung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill richtet das Plugin für eine Kanzlei, ein Dezernat oder einen Einzelanwalt ein. Ziel ist ein handhabbares Betriebsprofil, das spätere Workflows nicht blockiert.
-
 ## Pflichtfragen
 
 Einmalig am Anfang fragen:
@@ -109,3 +102,4 @@ Ein `Kanzlei-Lebenszyklus-Profil` mit:
 ## Übergabe
 
 Danach an `kanzlei-allgemein-kommandocenter`, `kanzlei-allgemein-integrationen-simulation`, `kanzlei-allgemein-freundlicher-copilot`, `kanzlei-allgemein-kanzleikalender`, `kanzlei-allgemein-intake` und bei neuer Akte an `kanzlei-allgemein-mandatsannahme-gwg`, sobald ein Eingang oder eine neue Akte vorliegt.
+

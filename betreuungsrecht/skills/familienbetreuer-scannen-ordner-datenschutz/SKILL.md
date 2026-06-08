@@ -5,10 +5,6 @@ description: "Digitale Betreuungsakte für Angehörige: Scans, Dateinamen, Daten
 
 # Familienbetreuer: Scannen, Ordner, Datenschutz
 
-## Einsatz
-
-Für Familienbetreuer, die Dokumente in ein KI-/Ordnersystem bringen wollen, ohne alles preiszugeben.
-
 ## Normenanker
 
 Arbeitsfokus: **Familienbetreuer: Scannen, Ordner, Datenschutz**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -24,18 +20,7 @@ Arbeitsfokus: **Familienbetreuer: Scannen, Ordner, Datenschutz**. Prüfe diese A
 - `§ 5 BtOG` — Beratung und Unterstützung.
 - `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsfragen
-
-1. Welche Dokumente müssen digitalisiert werden?
-2. Welche Daten sind besonders sensibel?
-3. Wer darf Zugriff haben?
-
-## Output
-
-Ordnerstruktur, Dateinamenstandard, Datenschutzcheck und Übergabeindex.
 
 ## Red Flags
 
@@ -53,3 +38,4 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 - **Gerichts- und Beleglogik:** Halte Wunsch der betreuten Person, Vertretungsmacht, Einwilligung, Vermögensschutz, Gesundheitsdaten und Nachweis gegenüber dem Betreuungsgericht getrennt.
 - **Fehlerbremse:** Keine Vermischung eigener und fremder Gelder, keine unnötige Offenlegung sensibler Daten, keine medizinische Entscheidung ohne Zuständigkeit und dokumentierten Wunsch bzw. mutmaßlichen Willen.
 - **Output:** Tagesplan, Belegliste, kurzer Gerichtstext, Telefonnotiz und Wiedervorlage in einfacher Sprache.
+

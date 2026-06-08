@@ -5,10 +5,6 @@ description: "Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Ze
 
 # Ad-hoc-Publizität nach Art. 17 MAR
 
-## Arbeitsbereich
-
-Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,29 +81,6 @@ Inhaltspflichten nach Art. 17 MAR und BaFin-Emittentenleitfaden:
 - BaFin-Eingangsbestätigung
 - Website-Screenshot mit Zeitstempel
 - Handelsaussetzung / -wiederaufnahme dokumentieren, falls erfolgt
-
-## Red-Team-Fragen
-
-- Wurde zwischen dem Vorliegen der Insiderinformation und der Veröffentlichung unnötig gezögert?
-- Enthält die Mitteilung alle Pflichtangaben laut BaFin-Emittentenleitfaden?
-- Wurde die BaFin gleichzeitig informiert (nicht erst danach)?
-- Sind alle relevanten Handelsplätze benachrichtigt?
-- Wurde die korrekte Sprachfassung gewählt?
-- Ist der Website-Nachweis (5-Jahres-Archiv) gesichert?
-- Wurde ein eventueller Aufschub korrekt beendet und dokumentiert?
-- Ist die Ad-hoc-Mitteilung sachlich korrekt und frei von Marketingsprache?
-- Bei Aufhebung eines Aufschubs wegen Leak: Wurde der Hergang dokumentiert?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Ad-hoc-Mitteilungs-Entwurf (vollständiger Text, publikationsreif)
-2. Checkliste Verbreitungsschritte mit Zeitstempel-Spalte
-3. Compliance-Akte: Tabellarische Dokumentationsliste mit Status
-4. Sprachversionen-Matrix bei Dual-Listing
-
-Belege ausschließlich mit Quellen aus: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de,
-curia.europa.eu, bgh.de, dejure.org, openjur.de.
 
 ## Normen und Rechtsprechung
 

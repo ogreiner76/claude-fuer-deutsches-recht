@@ -18,12 +18,7 @@ Arbeitsfokus: **Excel-Anlagen und Zahlenbausteine**. Prüfe diese Anker am Sachv
 - `§ 420 ZPO` — Vorlegung durch Beweisführer.
 - `§ 142 Abs. 1 ZPO` — Urkundenvorlegung durch Partei/Dritte.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Excel ist häufig Beweis und Risiko zugleich. Dieser Skill sorgt dafür, dass Tabellen nicht als Black Box in der Anlage verschwinden.
 
 ## Mindestinput
 
@@ -75,3 +70,4 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 - Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
 - Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
 - Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
+

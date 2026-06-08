@@ -49,10 +49,6 @@ description: "Verfassungsrechtliche Bestimmtheits- und Normklarheitsanforderunge
 
 Wenn ein Gesetz bereits an der Bestimmtheit scheitert, kommt die Verhaeltnismaessigkeitspruefung nicht zum Zug. Diese Vorfrage hat eigenstaendige Funktion und ist nicht in der Stufe 4 aufgegangen.
 
-## Output
-
-Kurzpruefung: Bestimmtheit gewahrt (ja/nein), kritische Tatbestandsmerkmale, Vorschlaege fuer Auslegung oder Aenderung.
-
 ## Quellen mit Schlagwort
 
 - BVerfGE 65, 1 (Volkszaehlung, informationelle Selbstbestimmung)
@@ -65,3 +61,4 @@ Kurzpruefung: Bestimmtheit gewahrt (ja/nein), kritische Tatbestandsmerkmale, Vor
 - BVerfGE 126, 170 (Untreue-Beschluss, Bestimmtheit Paragraf 266 StGB)
 - BVerfGE 141, 220 (BKAG-Urteil, heimliche Datenerhebung)
 - BVerfGE 154, 152 (Bestandsdatenauskunft II)
+

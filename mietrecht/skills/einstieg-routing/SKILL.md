@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Mietrecht (Wohnraum/Gewerbe): or
 
 Dieser Einstieg routet **Mietrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `amtlichen-amtsgericht-sonderfall` — Amtlichen Amtsgericht Sonderfall
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Mietrecht** vom ersten Sachverhalt zu Rollen, Fristen, 
 - Zuständige Stelle bestimmen: Vermieter, Mieter, Hausverwaltung, WEG-Verwaltung, Amtsgericht der Belegenheit, Mieterverein, Eigentümergemeinschaft.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Mietrecht (Wohnraum/Gewerbe) typische Eskalationsstufen: Kündigungsschreiben, Mietminderungserklärung, Klage AG.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

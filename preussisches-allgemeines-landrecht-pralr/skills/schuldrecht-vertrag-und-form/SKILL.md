@@ -5,12 +5,6 @@ description: "PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit un
 
 # Vertrag und Form
 
-## Aufgabe
-
-Prüfe Vertragstyp, Form, Beweisfunktion, Schutzfunktion und Abgrenzung zum späteren BGB.
-
-Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staaten als historischer Normquelle. Er behandelt das PrALR nicht als dekorativen Alttext, sondern als konkrete Quelle mit Ausgabejahr, Textzeugen, Geltungsraum, systematischem Ort und möglicher heutiger Fortwirkung.
-
 ## Startfragen
 
 1. Welche Quelle liegt vor: Scan, OCR, PDF, Transkription, Sekundärtext, Urteil oder Aktenvermerk?
@@ -50,10 +44,3 @@ ALR-Loesung: ALR I 5 §§ — Untergang ohne Verschulden = Befreiung von Leistun
 - §§ 286-288 BGB Verzug.
 - § 313 BGB Stoerung der Geschaeftsgrundlage (BGH-Linie aus ALR-Tradition gespeist).
 
-## Ausgabeformat
-
-- **Kurzbefund:** Was sagt die Quelle sicher?
-- **Textzeugenstand:** Welche Fassung wurde benutzt und wo ist sie unsicher?
-- **Historische Einordnung:** Systemstelle, Geltungsraum, gesellschaftliche Funktion.
-- **Heutiger Anschluss:** Fortwirkung, Gewohnheitsrecht, bloße Dogmengeschichte oder keine heutige Relevanz.
-- **Nächster Schritt:** zweite Quelle, Scan-Gegenprobe, aktuelles Landesrecht oder Rechtsprechungsrecherche.

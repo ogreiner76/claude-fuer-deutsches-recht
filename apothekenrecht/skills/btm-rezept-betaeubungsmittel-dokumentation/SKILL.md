@@ -5,10 +5,6 @@ description: "BtM-Rezept Betäubungsmittel Dokumentation: prüft die einschlägi
 
 # BtM-Rezept Betäubungsmittel Dokumentation
 
-## Arbeitsbereich
-
-BtM-Rezept Betäubungsmittel Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,15 +93,6 @@ Eingaben:
 - Vertretungsausstellung ohne Vertretungsvermerk — formale Lücke.
 - Vernichtung ohne Zeugen und ohne BfArM-Meldung.
 
-## Querverweise
-
-- `arzneimittelabgabe-verschreibungspflicht` (allgemeiner Abgabevorgang)
-- `cannabis-medizinalcannabis-abgabe-dokumentation` (Cannabis BtM oder nicht)
-- `t-rezept-besondere-arzneimittel` (Thalidomid-Sonderrecht)
-- `securpharm-faelschungsschutz` (Verifikation)
-- `apothekenrevision-vorbereitung-antwort` (Revisionspraxis)
-- `owi-strafrisiken-apog-amg-btmg` (Strafbarkeit)
-
 ## Quellen Stand 06/2026
 
 - BtMG, BtMVV, jeweils aktueller Stand im Bundesgesetzblatt.
@@ -113,3 +100,4 @@ Eingaben:
 - Anlage III BtMG für Höchstmengen.
 - BGH staend. Rspr. zur Apothekerverantwortung bei BtM-Rezeptannahme.
 - Landesaufsicht und Apothekerkammer-Merkblätter zur BtM-Revision (vom Anwender zu verifizieren).
+

@@ -30,6 +30,3 @@ Vor Einkauf eines KI-Tools muss klar sein, welche Pflichten beim Anbieter liegen
 - Incident Reporting Annex.
 - Acceptable Use und Off-label-Prohibition.
 
-## Output
-
-Ein Einkaufsvermerk mit Go/No-Go, Nachforderungen und Redlines.

@@ -45,13 +45,6 @@ description: "Klausurfall zu Geschäftsfähigkeit nach §§ 104 bis 106 BGB: Ges
 - Beschränkte Geschäftsfähigkeit führt nicht zur Nichtigkeit, sondern zur schwebenden Unwirksamkeit.
 - Heilung bei Geschäftsunfähigkeit ist nicht möglich — anders als bei beschränkter Geschäftsfähigkeit.
 
-## Output
-
-- Prüfungsschema Geschäftsfähigkeit: Stufen und Rechtsfolgen
-- Abgrenzungstabelle: Geschäftsunfähigkeit vs. beschränkte Geschäftsfähigkeit
-- Gutachtenstil-Abschnitt zur Geschäftsfähigkeit im Klausurfall
-- Beweislast-Hinweise für Praxis und Prozess
-
 ## Quellen
 
 - [§ 104 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__104.html)
@@ -80,3 +73,4 @@ nichtig. Dies betrifft Trunkenheit, Drogeneinfluss, Hypnose oder akute psychisch
 - § 105 Abs. 2 BGB: Vorübergehende Störung — Zustand zum Zeitpunkt der Erklärung?
 - Rechtsfolge der Geschäftsunfähigkeit: § 105 Abs. 1 BGB — Nichtigkeit (nicht schwebende Unwirksamkeit)?
 - Beschränkte Geschäftsfähigkeit: Einwilligung, Genehmigung oder Ausnahme nach §§ 107-113 BGB?
+

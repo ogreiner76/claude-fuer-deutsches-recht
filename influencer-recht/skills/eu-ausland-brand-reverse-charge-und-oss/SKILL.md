@@ -5,10 +5,6 @@ description: "Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse
 
 # Influencer-Recht: EU-Ausland Brand – Reverse Charge und OSS
 
-## Arbeitsbereich
-
-Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,3 +71,4 @@ Grenzüberschreitende Kooperationen innerhalb der EU haben besondere USt-Regeln:
 - VIES-Verifikations-Protokoll
 - ZM-Einreichungs-Anleitung
 - Barter-Deal-EU-Steuerkalkulation
+

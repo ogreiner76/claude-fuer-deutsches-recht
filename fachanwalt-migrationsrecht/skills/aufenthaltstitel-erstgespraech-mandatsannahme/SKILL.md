@@ -5,9 +5,6 @@ description: "Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: 
 
 # Aufenthaltstitel Erstgespraech Mandatsannahme
 
-## Arbeitsbereich
-
-**Aufenthaltstitel Erstgespraech Mandatsannahme** ordnet den Fall über die tragenden Prüfungslinien: Mandant fragt welcher Aufenthaltstitel für ihn passt oder, Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoer. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Aufenthaltstitel Erstgespraech Mandatsannahme im Migrationsrecht: 
 - Tragende Normen verifizieren: AsylG §§ 13-19, 24-26a, 27-30, 71-74, 77; AufenthG §§ 4, 5, 7-9, 16a-d, 18a-c, 19-21, 28-36, 53-55, 60, 81, 95; AufenthG, AsylG, FreizügG/EU, StAG; AufenthG § 18b Abs. 2, § 18g, EU-Richtlinie 2021/1883; Dublin-III-VO (EU) 604/2013 Art. 3, 7-15, 17, 21-23, 29; StAG §§ 8, 9, 10, 11, 12a, 13, 16, 17, 25, 30; AufenthG §§ 18, 18a, 18b, 18c, 18d, 18g, 19c, FachkräfteEG 2023; AufenthG §§ 27-36; EU-Asylpaket (GEAS-Reform 2024): Asylverfahrens-VO, Asylkrisen-VO, Eurodac, AMMR; Genfer Flüchtlingskonvention Art. 1A, 31, 33; StAG §§ 4, 5, 8-17, 25, 27, 30; AufenthG, AsylG, StAG, FreizügG/EU, AsylbLG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `aufenthaltstitel-pruefung`
@@ -560,10 +558,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - **§ 52 GKG** — Streitwert; Abs. 2 Regelstreitwert 5.000 EUR für Asylklage
 - **§ 25 Abs. 6 AsylG** — Recht auf anwaltlichen Beistand bei BAMF-Anhörung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 3. `fachanwalt-migrationsrecht-abschiebungsabwehr`
 
 **Fokus:** Abschiebung abwehren — Duldung § 60a AufenthG Abschiebungsverbote § 60 Abs. 5 und 7 AufenthG Eilrechtsschutz § 123 VwGO bzw. § 80 Abs. 5 VwGO. Inlandsbezogene Vollstreckungshindernisse Art. 6 GG Familieneinheit Art. 8 EMRK Privat- und Familienleben Reiseunfähigkeit. Petitions- und Haerteverfahren. Asylfolgeantrag § 71 AsylG. Verfassungsbeschwerde nach Erschoepfung Rechtsweg.
@@ -670,9 +664,6 @@ Mit freundlichen Gruessen
 - **§ 71 AsylG** — Asylfolgeantrag bei neuen Wiederaufgreifensgruenden (§ 51 VwVfG)
 - **Art. 6 GG / Art. 8 EMRK** — Familienschutz als inlandsbezogenes Vollstreckungshindernis
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Eilantrag § 123 VwGO (erweitert)
 
 **Adressat:** Verwaltungsgericht [ORT]
@@ -724,10 +715,6 @@ Anlagen K1 bis K[X].
 **Fokus:** Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Prüfraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgründe Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Überstellungs-Sperre. Output Folgeantrag-Entwurf mit Begründung neuer Umstaende und Sperr-Argument für Dublin-Überstellung. Abgrenzung: asyl-anhoerung-vorbereiten für Erst-Anhörung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr.
 
 ### Asyl-Folgeantrag § 71 AsylG
-
-## Zweck
-
-Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 
 ## 1) Eingangs-Abfrage
 
@@ -884,9 +871,6 @@ Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 - **§ 74 Abs. 1 AsylG** — Klagefrist zwei Wochen bei Sachabweisung des Folgeantrags
 - **Art. 40 Verfahrens-RL 2013/32** — Folgeantraege; Mitgliedstaat kann Folgeantrag nur ablehnen wenn keine neuen Elemente
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Folgeantrag BAMF
 
 **Adressat:** BAMF, Abteilung Wiederaufnahme / Folgeantrag
@@ -942,3 +926,4 @@ Anlagen: K1 bis K[X]
 [KANZLEI], [ORT], [DATUM]
 [RA-NAME]
 ```
+

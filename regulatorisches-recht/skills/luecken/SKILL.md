@@ -5,10 +5,6 @@ description: "Regulatorische Luecken in bestehenden Compliance-Strukturen identi
 
 # Gap-Tracker
 
-## Arbeitsbereich
-
-Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Prüfraster: Ist-Zustand Soll-Anforderungen Luecken Risikograd Priorisierung. Output: Lueckenliste mit Risikoklassifizierung. Abgrenzung: nicht für Lueckenaufzeiger-Perspektive nach aussen (luecken-aufzeiger). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG 
 - Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill liest und aktualisiert den Gap-Tracker. Er zeigt alle offenen, in Bearbeitung befindlichen und geschlossenen Compliance-Lücken aus dem letzten `luecken-aufzeiger`-Lauf an. Er ermöglicht das Setzen von Eigentümern, das Aktualisieren des Status und das Eskalieren von Gaps mit Fristüberschreitung.
 
 ## Eingaben
 
@@ -79,20 +71,11 @@ f) Alle geschlossenen Gaps archivieren
 
 Art. 20 Abs. 3 GG (Bindung an Gesetz und Recht, Rechtsluecken-Klaerung) — §§ 133, 157 BGB (Auslegungsgrundsaetze) — § 5 EGBGB (Analogie bei Rechtsluecken im Privatrecht) — §§ 13, 31 EnWG (Luecken in Regulierungs-Normen)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen und Zitierweise
 
 Zitierweise: `../../../references/zitierweise.md`
 
 Dieser Skill liest und schreibt ausschließlich interne Tracking-Daten; keine normspezifische Zitierung erforderlich. Gap-Inhalte enthalten Normverweise aus dem erzeugenden `luecken-aufzeiger`-Lauf.
-
-## Ausgabeformat
-
-- **Übersichtskarte:** Kennzahlen oben
-- **Gap-Tabelle:** Sortiert nach Priorität und Frist
-- **Aktionsmenü:** Konkrete nächste Schritte
 
 ## Beispiel
 
@@ -117,3 +100,4 @@ Offen: 5 | In Bearbeitung: 2 | Geschlossen: 0 | Überfällig: 0
 - **Veralteter Tracker:** Ohne regelmäßige `luecken-aufzeiger`-Läufe veraltet der Tracker. Hinweis anzeigen, wenn der letzte Lauf > 90 Tage zurückliegt.
 - **Eigentümer nicht gesetzt:** Gaps ohne Eigentümer werden nicht umgesetzt. Unzugeordnete Gaps explizit markieren.
 - **Fristüberschreitung ohne Eskalation:** Für überfällige Gaps automatisch Eskalationsnotiz-Option hervorheben.
+

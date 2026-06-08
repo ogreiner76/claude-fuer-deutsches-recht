@@ -9,7 +9,6 @@ description: "Lücken- und Beschaffungsliste für Fachanwalt Bank- und Kapitalma
 
 Diese Unterlagenprüfung für **Fachanwalt Bank Kapitalmarktrecht** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `anlageberatung-fehlerhaft-cybertrading` — Anlageberatung Fehlerhaft Cybertrading
@@ -36,12 +35,9 @@ Diese Unterlagenprüfung für **Fachanwalt Bank Kapitalmarktrecht** benennt fehl
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
-## Output
-
-Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Fachanwalt Bank- und Kapitalmarktrecht typischerweise Darlehensvertrag, Wertpapierorder zuerst.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

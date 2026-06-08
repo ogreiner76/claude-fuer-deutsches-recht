@@ -5,9 +5,6 @@ description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozi
 
 # Krankenkassen Zahnersatz Ladung Termin
 
-## Arbeitsbereich
-
-**Krankenkassen Zahnersatz Ladung Termin** ordnet den Fall über die tragenden Prüfungslinien: Krankenkassen-Zahnersatz nach § 55 SGB V, Die Ladung zum SG-Termin verstehen, Die Leistungsklage nach § 54 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Krankenkassen Zahnersatz Ladung Termin im Selbstvertretung am Sozi
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `krankenkassen-zahnersatz-55-sgb-v`
@@ -196,26 +194,9 @@ Wenn Sie nicht koennen (Krankheit, wichtiger Termin):
 - Zu spaet kommen → Anfahrt grosszuegig
 - Aufgeregt sein → tief atmen, ruhig bleiben
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `terminvorbereitung-laien-checkliste-sozialgericht` — Checkliste
-- `verhalten-im-saal-sozialgericht-laienleitfaden` — wie im Saal verhalten
-- `saeumnis-im-termin-sozialgericht` — wenn Sie nicht koennen
-- `vergleich-vorschlag-101-sgg` — Vergleich im Termin
-- `video-verhandlung-110a-sgg` — Video-Variante
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell. § 110a SGG (Video-Verhandlung) seit 2020 verstaerkt genutzt.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `leistungsklage-54-sgg`
 
@@ -333,24 +314,9 @@ Wenn die Behörde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199
 - Betrag zu pauschal → konkret berechnen
 - Vorprozessuale Erinnerung vergessen → vor Klage immer nochmal erinnern
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — Ueberblick
-- `untaetigkeitsklage-88-sgg` — bei voelliger Untaetigkeit
-- `widerspruchsbescheid-was-jetzt` — vor der Klage
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 Abs. 5 SGG aktuell. Verzinsung § 44 SGB I — pruefen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `medizinische-gutachten-strategie-laien`
 
@@ -484,26 +450,9 @@ Wenn Sie kuerzlich eine Reha hatten:
 - Auf das negative Gutachten nicht reagieren → unbedingt widerspruch
 - § 109-Gutachten ohne aerztliche Vorabsprache → erstmal mit Hausarzt sprechen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `amtsermittlungsgrundsatz-103-sgg` — Amtsermittlung
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-- `widerspruch-gegen-gutachten-laien` — Reaktion auf negatives Gutachten
-- `erwerbsminderungs-rente-streit-sgb-vi` — EM-Rente
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. § 109 SGG wichtige Strategie.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `mitwirkungspflicht-60-bis-67-sgb-i`
 
@@ -565,3 +514,4 @@ Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. § 109 SGG wichtige Strategie.
 - Schreiben Sie schriftlich begruendet warum die Mitwirkung unzumutbar ist.
 - Stellen Sie Alternative vor (z. B. anderer Untersuchungsort, neutraler Gutachter).
 - Behalten Sie die Frist im Auge.
+

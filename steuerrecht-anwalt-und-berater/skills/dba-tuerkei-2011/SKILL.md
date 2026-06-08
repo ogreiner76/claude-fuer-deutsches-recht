@@ -91,13 +91,6 @@ Das DBA-Tuerkei vom 19.09.2011 (BGBl. 2012 II S. 526, in Kraft 01.08.2012, anwen
 1. BZSt-Antrag bei Beteiligungen.
 2. Anlage AUS / N-AUS / R-AUS.
 
-## Output
-
-- Mandanten-Memo zur DBA-Anwendung Tuerkei.
-- Ansaessigkeits-Memo bei Diaspora-Konstellation.
-- Berechnungsbeispiel Pension mit Anrechnung.
-- BZSt-Antragspaket.
-
 ## Strategie und Praxis-Tipps
 
 - Tuerkische Diaspora: Tie-Breaker oft Familie/Wohnsitz Deutschland trotz Wochenend-Aufenthalte in der Tuerkei — sauber dokumentieren.
@@ -150,12 +143,9 @@ Tuerkischer Diaspora-Mandant mit Wohnsitz DE (Familie, Beruf) und Sommerhaus in 
 
 Bei Pensionsempfaenger Wohnsitz TR mit DRV: TR besteuert, DE freistellt; Lebensbescheinigung jaehrlich an DRV.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Tuerkei 19.09.2011, in Kraft 01.08.2012 (BGBl. 2012 II S. 526; BStBl. 2013 I S. 373). Anwendbar rueckwirkend ab VZ 2011. Kein MLI (Tuerkei hat MLI nicht ratifiziert, Stand 05/2026).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

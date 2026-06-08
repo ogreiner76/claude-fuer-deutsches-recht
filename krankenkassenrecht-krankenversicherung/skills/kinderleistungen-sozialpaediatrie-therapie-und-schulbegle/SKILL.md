@@ -5,10 +5,6 @@ description: "Krankenversicherungsleistungen für Kinder: sozialpädiatrische Ze
 
 # Kinderleistungen: Sozialpädiatrie, Therapie und Schulbegleitung
 
-## Arbeitsbereich
-
-Krankenversicherungsleistungen für Kinder: sozialpädiatrische Zentren, Therapien, Schulbegleitung – Abgrenzung GKV, Eingliederungshilfe (SGB IX/SGB XII), Schnittstellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,3 +92,4 @@ Kinder mit Entwicklungsstörungen, Behinderungen oder chronischen Erkrankungen b
 - [§ 35a SGB VIII – Jugendhilfe](https://www.gesetze-im-internet.de/sgb_8/__35a.html)
 - [BSG Kinderleistungen](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [G-BA Heilmittel-Richtlinie](https://www.g-ba.de/richtlinien/12/)
+

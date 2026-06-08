@@ -5,10 +5,6 @@ description: "Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positiv
 
 # Rechtstheorie und Rechtsphilosophie — Anbindung
 
-## Arbeitsbereich
-
-Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechtstheoretischer Abschnitt Theorien-Überblick. Abgrenzung zu methodenlehre-auslegung (Methoden) und verfassungsrecht-grundrechtsprüfung (Grundrechte). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrec
 - Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3, UrhG §§ 51, 51a (Zitatrecht), Promotionsordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Manche Hausarbeits-Aufgaben werfen grundsätzliche Fragen auf: Wie ist Recht zu verstehen? Was ist gerechte Auslegung? Eine **kurze, gut platzierte** rechtstheoretische Reflexion kann die Hausarbeit deutlich aufwerten.
 
 ## Schritt 1 — Wann passt Rechtstheorie / -philosophie?
 
@@ -227,3 +219,4 @@ Bevor Du eine rechtstheoretische Anbindung schreibst:
 - `meinungsstreit-darstellen` — Streit-Stände
 - `verfassungsrecht-grundrechtspruefung` — Verfassungsmäßigkeit
 - `selbstkontrolle-vor-abgabe` — Endcheck
+

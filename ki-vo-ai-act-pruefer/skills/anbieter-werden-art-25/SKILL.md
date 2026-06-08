@@ -5,10 +5,6 @@ description: "Betreiber Einführer oder Haendler fragt: Werde ich durch mein Ver
 
 # Anbieter-Werden — Art. 25 KI-VO
 
-## Zweck
-
-Art. 25 KI-VO ist eine zentrale Schutznorm der KI-VO: Sie verhindert, dass Akteure durch die Wahl einer bestimmten Rolle in der Lieferkette den strengen Anbieter-Pflichten ausweichen. Wer unter bestimmten Umständen ein KI-System weiterverbreitet oder verändert, wird selbst zum Anbieter — mit allen Konsequenzen.
-
 ## Vier Fallgruppen (Art. 25 Abs. 1 KI-VO)
 
 ### Fallgruppe 1 — Inverkehrbringen unter eigenem Namen oder eigener Marke
@@ -88,9 +84,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -146,3 +139,4 @@ Geprueft: [NAME], [DATUM]
 - KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
 - Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
 - GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.
+

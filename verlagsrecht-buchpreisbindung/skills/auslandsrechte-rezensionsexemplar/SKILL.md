@@ -5,10 +5,6 @@ description: "Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle
 
 # Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle
 
-## Arbeitsbereich
-
-Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sanktionen, US-OFAC, verbotene Lizenznehmer, Due Diligence und Compliance-Anforderungen für internationale Lizenzverträge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

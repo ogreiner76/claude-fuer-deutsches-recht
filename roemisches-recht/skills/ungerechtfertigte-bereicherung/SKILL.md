@@ -22,11 +22,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Arbeitsauftrag
-
-Dieser Skill bearbeitet **Ungerechtfertigte Bereicherung Condictiones** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
-
 ## Sofortsortierung
 
 1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
@@ -55,17 +50,6 @@ Dieser Skill bearbeitet **Ungerechtfertigte Bereicherung Condictiones** im Plugi
 - Quellen- und Belegmatrix
 - Risikoampel mit nächstem Schritt
 - Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
-
-## Red-Team-Fragen
-
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
-
-## Quellenregel
-
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
 
 ## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
 
@@ -96,3 +80,4 @@ Sachverhalt: A zahlt B 100 für ungesetzliche Handlung; B haelt sich nicht daran
 Sachverhalt: A zahlt 100 als Mitgift für Heirat mit Tochter des B; Heirat scheitert vor Vollzug.
 - **Roemisch**: condictio causa data causa non secuta (D. 12.4); Rueckforderung der Mitgift.
 - **BGB**: § 812 Abs. 1 Satz 2 Var. 2 BGB Zweckverfehlung.
+

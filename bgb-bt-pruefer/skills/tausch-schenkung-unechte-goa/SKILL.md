@@ -5,10 +5,6 @@ description: "Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkei
 
 # Tausch und Schenkung §§ 480 und 516 ff. BGB
 
-## Arbeitsbereich
-
-Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Wider
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Zweck
-
-Tauschvertrag nach § 480 BGB und Schenkungsrecht (§§ 516 ff. BGB) prüfen: Unentgeltlichkeit, Schenkungsversprechen (Form), Schenkungsvollzug, Widerruf und Notbedarfseinrede.
 
 ## Normanker
 
@@ -61,25 +53,13 @@ Tauschvertrag nach § 480 BGB und Schenkungsrecht (§§ 516 ff. BGB) prüfen: Un
 - Gemischte Schenkung (teils entgeltlich, teils unentgeltlich): komplexe Rechtsfolgen.
 - Widerruf nach § 530 BGB setzt schwerwiegende Verfehlung voraus; bloße Undankbarkeit reicht nicht.
 - Rückforderung nach § 528 BGB: Beschenkter muss nur noch vorhandene Bereicherung herausgeben.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Einordnungsmatrix (Schenkung, Tausch, gemischte Schenkung)
-- Formprüfung (Versprechen vs. Vollzug)
-- Rückforderungs- und Widerrufsrechte-Übersicht
-- Handlungsempfehlung
-
-## Qualitätsregeln
-
-- Unentgeltlichkeit als Kernmerkmal der Schenkung sorgfältig prüfen; auch wirtschaftliche Betrachtung.
-- Formheilung durch Vollzug (§ 518 Abs. 2 BGB) immer prüfen, bevor Formmangel bejaht wird.
-- Grobem Undank hohe Anforderungen anlegen.
 
 ## Anschluss-Skills
 
@@ -92,10 +72,4 @@ Tauschvertrag nach § 480 BGB und Schenkungsrecht (§§ 516 ff. BGB) prüfen: Un
 - https://www.gesetze-im-internet.de/bgb/__516.html
 - https://www.gesetze-im-internet.de/bgb/__518.html
 - https://www.gesetze-im-internet.de/bgb/__530.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

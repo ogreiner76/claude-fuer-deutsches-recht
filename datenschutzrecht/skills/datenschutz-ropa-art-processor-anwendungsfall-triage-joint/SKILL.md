@@ -19,9 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-**Datenschutz Ropa ART Processor Anwendungsfall Triage Joint** ordnet den Fall über die tragenden Prüfungslinien: Vollvorlage für das Verzeichnis von, Datenschutzrechtlichen Sachverhalt einordnen und, Joint-Controller-Vereinbarung nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -39,6 +36,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `ropa-art-30-processor-deutsch-vorlage`
@@ -46,10 +44,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 **Fokus:** Vollvorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Auftragsverarbeiters nach Art. 30 Abs. 2 DSGVO. Vier Mindestinhalte, Auftraggeberliste, Verarbeitungskategorien, Drittlandtransfer, TOM-Verweis. Beispiele für Hosting, Steuerberatung, Lohnbuchhaltung.
 
 ### RoPA-Vorlage Auftragsverarbeiter (Processor) – Deutsch
-
-## Zweck
-
-Dieser Skill liefert eine ausfuellfertige Vorlage für das Verzeichnis des Auftragsverarbeiters gemaess Art. 30 Abs. 2 DSGVO. Im Unterschied zum Controller-Verzeichnis sind nur vier Pflichtinhalte zu erfassen – nicht sieben. Geeignet für Cloud-Anbieter, IT-Dienstleister, Steuerkanzleien, Lohnbuchhaltung, Hosting, Druckdienstleister, externe DSB.
 
 ## Wann dieses Modul hilft
 
@@ -126,48 +120,17 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 - TOM-Spalte mit Wiederholung der Anlage 32 – besser Verweis.
 - Drittlandtransfer in zweiter Stufe (Sub-Subprozessor) uebersehen.
 
-## Querverweise
-
-- `ropa-art-30-dsgvo-grundlagen` für Rechtsrahmen.
-- `ropa-art-30-controller-deutsch-vorlage` für Controller-Pendant.
-- `avv-art-28-dsgvo-grundtatbestand` für Vertragspflichten.
-- `avv-cloud-und-subverarbeitung-art-28-iv` für Subverarbeiter-Klauseln.
-- `tia-template-deutsch-vollvorlage` für Transferpruefung.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 30 Abs. 2, Art. 28.
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 - DSK-Kurzpapier Nr. 13 "Auftragsverarbeitung" (Stand 16.01.2018).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `anwendungsfall-triage`
 
 **Fokus:** Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG. Prüfraster: Anwendungsbereich personenbezogene Daten Verantwortlicher Auftragsverarbeiter Drittland. Output: Triage-Memo Bearbeitungsroute Normenmap. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills.
 
 ### Datenschutz-Triage neuer Verarbeitungsvorgänge
-
-## Zweck
-
-Diese Skill beantwortet die Frage vor jeder Datenschutz-Folgenabschätzung (DSFA):
-Ist eine Prüfung erforderlich — und wenn ja, welche Art?
-
-Die Triage ist schneller als die DSFA-Generierung, aber ihr vorgelagert. Sie erstellt
-die Folgenabschätzung nicht, sondern bestimmt, ob sie geboten ist.
-
-**Vier Klassifikationen:**
-- **FREIGABE** — Keine gesonderte Prüfung. Standardschutzmaßnahmen gelten.
-- **DSA ERFORDERLICH** — Datenschutzprüfung vor oder begleitend zum Einsatz.
-- **DSFA PFLICHT** — Art. 35 DSGVO zwingend; DSB-Einbindung erforderlich.
-- **STOPP** — Verarbeitung widerspricht Datenschutzrichtlinie oder entbehrt jeder
- Rechtsgrundlage; Neugestaltung vor Fortführung zwingend.
 
 ## Eingaben
 
@@ -294,20 +257,6 @@ Konflikt benennen. Optionen: (A) Vorhaben umgestalten, (B) Richtlinie aktualisie
  KI-Folgenabschätzung erwägen.
 - **Beschäftigtendatenschutz:** § 26 BDSG und Mitbestimmung (§§ 87 Abs. 1 Nr. 6,
  94 BetrVG) prüfen.
-
-## Ausgabeformat
-
-Ausgabe im Chat. Bei DSA, DSFA oder STOPP optional Protokolldatei:
-`~/datenschutz-triagen/triage-YYYY-MM-DD-[vorgang].md`.
-
-**Sammel-Triage** (Feature-Liste):
-
-| # | Vorgang | Klassifikation | Blocker |
-|---|---|---|---|
-| 1 | [Vorgang] | FREIGABE | — |
-| 2 | [Vorgang] | DSA ERFORDERLICH | Rechtsgrundlage offen; AVV fehlt |
-| 3 | [Vorgang] | DSFA PFLICHT | Art.-9-Daten, großer Umfang |
-| 4 | [Vorgang] | STOPP | Zweckbindungsverstoß |
 
 ## Beispiel
 
@@ -498,12 +447,6 @@ Klauselgeruest für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 - Innenregress nicht geregelt.
 - Bei Webtracking: keine Beruecksichtigung der Erstuebermittlungsphase.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-rolemix-getrennt-vs-gemeinsam-verantwortlich/SKILL.md`
-- `datenschutzrecht/skills/joint-controllership-en-template/SKILL.md`
-- `datenschutzrecht/skills/avv-haftung-risikoallokation-art-82-dsgvo/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 26, Art. 13, Art. 14, Art. 82 Abs. 4 und Abs. 5 DSGVO.
@@ -513,14 +456,6 @@ Klauselgeruest für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 - EuGH C-40/17 – verifiziert.
 - Volltexte ueber curia.europa.eu pruefen.
 - Zitierweise: `../../../references/zitierweise.md`.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `avv-art-28-dsgvo-grundtatbestand`
 
@@ -596,13 +531,6 @@ Praeambel-Klausel für einen AVV nach Art. 28 DSGVO:
 - Vermischung mit allgemeinen Geheimhaltungsklauseln; AVV-Pflichten sind eigenstaendig.
 - AVV erst nach Verarbeitungsbeginn abgeschlossen (Art. 28 Abs. 9 DSGVO Form).
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-mindestinhalte-checkliste/SKILL.md`
-- `datenschutzrecht/skills/avv-rolemix-getrennt-vs-gemeinsam-verantwortlich/SKILL.md`
-- `datenschutzrecht/skills/funktionsuebertragung-vs-auftragsverarbeitung/SKILL.md`
-- `datenschutzrecht/skills/avv-art-26-joint-controllership-deutsch/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 4 Nr. 7, Nr. 8, Art. 28, Art. 29.
@@ -613,14 +541,6 @@ Praeambel-Klausel für einen AVV nach Art. 28 DSGVO:
 - EuGH C-40/17 (Fashion ID) – Aktenzeichen verifiziert.
 - Verbindlich zur Zitierweise: `../../../references/zitierweise.md`.
 - Kommentar-, Handbuch- und Aufsatzfundstellen nur, wenn der Mandant die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `avv-art-28-mindestinhalte-checkliste`
 
@@ -702,14 +622,6 @@ Konsolidierte Pflichtklausel-Liste (Kurzform für Vertragsanlage):
 - lit. g ohne klare Wahlmoeglichkeit (Loeschung oder Rueckgabe) und ohne Format.
 - lit. h verweist auf Zertifikate, ohne eigenes Audit-Recht zuzulassen.
 
-## Querverweise
-
-- `datenschutzrecht/skills/avv-art-28-dsgvo-grundtatbestand/SKILL.md`
-- `datenschutzrecht/skills/avv-tom-art-32-dsgvo-anlage/SKILL.md`
-- `datenschutzrecht/skills/avv-audit-und-kontrollrechte/SKILL.md`
-- `datenschutzrecht/skills/avv-loeschung-rueckgabe-nach-vertragsende/SKILL.md`
-- `datenschutzrecht/skills/avv-cloud-und-subverarbeitung-art-28-iv/SKILL.md`
-
 ## Quellen Stand 06/2026
 
 - Art. 28 Abs. 3 DSGVO – Pflichtinhalte des Vertrags.
@@ -719,10 +631,3 @@ Konsolidierte Pflichtklausel-Liste (Kurzform für Vertragsanlage):
 - EDSA-Leitlinien 07/2020 – Final 07.07.2021; abrufbar ueber edpb.europa.eu.
 - Zitierweise: `../../../references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

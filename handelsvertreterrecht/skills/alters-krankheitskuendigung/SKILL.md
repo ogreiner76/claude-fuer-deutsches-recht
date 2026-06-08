@@ -5,10 +5,6 @@ description: "Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Ha
 
 # Kündigung wegen Alters oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB
 
-## Arbeitsbereich
-
-Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Provisionsansprüche sowie Gestaltung von Aufhebungsvereinbarungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Ausgleichsanspruch bei krankheitsbedingter Eigenkündigung des Vertreters irrtümlich verneint.
 - Ordentliche Kündigung ohne Einhaltung der gesetzlichen Fristen — Unwirksamkeit.
 - Diskriminierung wegen Alters als eigenständiger Kündigungsgrund — AGG beachten.
-
-## Output
-
-Kündigungsschreiben mit Begründung, Checkliste Ausgleichsanspruch, Entwurf Aufhebungsvereinbarung.
 
 ## Hintergrund und Kontext
 

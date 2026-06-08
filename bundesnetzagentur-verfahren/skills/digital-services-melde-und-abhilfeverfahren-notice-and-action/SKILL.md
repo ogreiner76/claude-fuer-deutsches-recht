@@ -5,10 +5,6 @@ description: "Digital Services / Melde- und Abhilfeverfahren Notice and Action: 
 
 # Melde- und Abhilfeverfahren ("Notice and Action") nach Art. 16 DSA
 
-## Arbeitsbereich
-
-Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -60,11 +56,6 @@ Anwaltliche Arbeit am Art. 16 DSA-Verfahren ("Notice and Action"), d. h. der Pfl
 - BGH/EuGH-Rechtsprechung zu Hostprovider-Haftung mit Datum, Az., freier Fundstelle (z. B. EuGH C-682/18 Peterson/Cyando, BGH-Rechtsprechung zu Notice-and-Stay-Down).
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Meldungstext für den Mandanten.
-- Compliance-Workflow-Diagramm für Plattformen (Eingang Meldung > Triage > Bearbeitung > Statement of Reasons > Beschwerdesystem).
-- Anzeige an die BNetzA als DSC.
-
 ## Beispiele
 - Rechteinhaber meldet urheberrechtsverletzendes Video. Plattform reagiert nicht binnen 7 Tagen. Klage vor LG plus DSC-Anzeige.
 - Verband meldet Hassrede gegen Minderjährige. Plattform sperrt; Statement of Reasons mangelhaft. Beschwerde Art. 20 DSA, dann DSC.
@@ -101,3 +92,4 @@ Meldung enthält alle Art. 16 Abs. 2-Bestandteile? Begründung der Illegalität 
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

@@ -5,10 +5,6 @@ description: "Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unterne
 
 # Fortbestehensprognose — Zweistufiges Modell nach IDW S 11
 
-## Arbeitsbereich
-
-Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unternehmen ist möglicherweise ueberschuldet und braucht positive Fortführungsprognose. Normen: § 19 InsO (Überschuldungsbegriff modifiziert), IDW S 11 (Fortbestehensprognose-Standard). Prüfraster: Stufe 1 Fortführungswille, Stufe 2 Fortführungsfähigkeit (GuV/Liquiditaet 12 vs. 24 Monate), Dokumentationspflicht, Sanierungsgutachten. Output Zweistufige Fortbestehensprognose, IDW-S-11-konformes Gutachten-Geruest. Abgrenzung: Drohende ZU siehe drohende-zahlungsunfähigkeit-paragraph-18-inso; integrierte Planung siehe integrierte-planung-guv-bilanz-cashflow. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -98,51 +94,6 @@ Ein formales Gutachten durch einen Wirtschaftsprüfer nach IDW S 11 ist in folge
 
 ---
 
-## Vorgehen
-
-### Schritt 1: Rechnerische Überschuldungsprüfung
-
-```
-ÜBERSCHULDUNGSBILANZ (LIQUIDATIONSWERTE)
-
-AKTIVA — zu Liquidationswerten
- Immaterielle VG (Marktwert): EUR [___]
- Sachanlagevermögen (Verwertungswert): EUR [___]
- Vorräte (Verwertungswert, ggf. Abschlag): EUR [___]
- Forderungen (abzgl. Ausfallwahrscheinlichkeit): EUR [___]
- Bankguthaben: EUR [___]
- Sonstige Aktiva: EUR [___]
-= AKTIVA GESAMT: EUR [___]
-
-PASSIVA — zu Nennwerten
- Bankverbindlichkeiten: EUR [___]
- Verbindlichkeiten L&L: EUR [___]
- Steuerverbindlichkeiten: EUR [___]
- Rückstellungen: EUR [___]
- Sonstige Verbindlichkeiten: EUR [___]
-= PASSIVA GESAMT: EUR [___]
-
-SALDO: EUR [___]
- → Positiv: Keine rechnerische Überschuldung
- → Negativ: Rechnerische Überschuldung — weiter mit FBP
-```
-
-### Schritt 2: Fortbestehensprognose erstellen
-
-1. **Liquiditätsplanung validieren** (24 Monate, IDW S 11 Tz. 23 ff.)
-2. **Ertragsplanung validieren** (GuV-Plan, Ertragsfähigkeit prüfen)
-3. **Planprämissen dokumentieren** (nachvollziehbar, plausibel, extern prüfbar)
-4. **Szenarioanalyse** (Base + Bear) — auch im Bear Case noch positiv?
-5. **Ergebnis festhalten** — positive oder negative FBP
-
-### Schritt 3: Dokumentation und Fortschreibung
-
-- FBP wird mindestens quartalsweise aktualisiert
-- Jede Verschlechterung der Planprämissen führt zur Ad-hoc-Überprüfung
-- Alle Versionen der FBP werden archiviert (Zeitpunktnachweis für Haftung)
-
----
-
 ## Templates
 
 ### Muster: Fortbestehensprognose-Zusammenfassung
@@ -197,14 +148,6 @@ Hinweis: Dieser Vermerk ersetzt kein Sachverständigengutachten.
 
 ---
 
-## Querverweise
-
-- → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Abgrenzung § 18/§ 19 InsO
-- → `integrierte-planung-guv-bilanz-cashflow` — Planungsgrundlage für FBP
-- → `rollierende-liquiditaetsplanung-24-monate-template` — Liquiditätsplanung als FBP-Basis
-- → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Folge negativer FBP
-- → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — Haftungsfolgen
-
 ## Weitere Leitentscheidungen (Stand Mai 2026)
 
 - **BGH IX ZR 285/14 vom 26.01.2017** — Hinweis- und Warnpflicht des Steuerberaters; bei verfehlter FBP kann Berater auf Insolvenzvertiefungsschaden haften. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=26.01.2017&Aktenzeichen=IX+ZR+285/14>
@@ -219,3 +162,4 @@ Bevor losgelegt wird, klaere:
 2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
 3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
 4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
+

@@ -5,10 +5,6 @@ description: "Ex-ante-Vermerk zur Erforderlichkeit nach § 43e BRAO für KI-Outs
 
 # Ex-ante-Vermerk zur Erforderlichkeit
 
-## Arbeitsbereich
-
-Ex-ante-Vermerk zur Erforderlichkeit nach § 43e BRAO für KI-Outsourcing: Zweck der Offenlegung, Datenminimierung, Alternativen, Mandatsklassen, Kanzleiinfrastruktur, Einzelmandat, No-Training und Freigabebegründung dokumentieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -41,12 +37,3 @@ Nutze diese Logik, ohne Scheinsicherheit:
 - "Nur nach Mandanteninformation/Einwilligung."
 - "Nicht freigegeben, weil Training/Telemetrie/Subunternehmer/Drittstaat ungeklärt."
 
-## Output
-
-Erzeuge einen zwei- bis dreiseitigen Kanzleivermerk, der in die Toolakte gelegt werden kann:
-
-- Ergebnis in einem Satz
-- tragende Gründe
-- Restrisiken
-- Nachprüftermin
-- Verantwortliche Person

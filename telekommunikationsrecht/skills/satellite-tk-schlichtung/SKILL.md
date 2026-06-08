@@ -5,10 +5,6 @@ description: "Satelliteninternet/NTN: Frequenzen, Genehmigung, Endgeräte, Verbr
 
 # Satellitenkommunikation und NTN
 
-## Arbeitsbereich
-
-Satelliteninternet/NTN: Frequenzen, Genehmigung, Endgeräte, Verbrauchervertrag, Resilienz und nationale Sicherheitsaspekte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Satelliteninternet/NTN: Frequenzen, Genehmigung, Endgeräte, Verbrauchervertrag,
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Starlink-/LEO-/NTN-Projekte und Kundenstreit.
-
 ## Norm- und Quellenanker
 
 TKG Frequenz/Marktzugang; EU/ITU-Rahmen live prüfen; BNetzA.
-
-## Arbeitsfragen
-
-1. Welche Satelliten-/Bodeninfrastruktur?
-2. Welche Frequenz-/Marktzugangslage?
-3. Welche Vertrags- und Resilienzrisiken?
-
-## Output
-
-Satelliten-TK-Memo und Genehmigungscheck.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Satelliten-TK-Memo und Genehmigungscheck.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

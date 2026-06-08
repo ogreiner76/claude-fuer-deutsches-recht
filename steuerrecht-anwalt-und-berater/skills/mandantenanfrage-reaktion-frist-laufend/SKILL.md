@@ -92,12 +92,6 @@ Mandantenbrief mit Standardanliegen | 1 Tag | 5 Tage
 - KPI: Anteil Anfragen in SLA bearbeitet.
 - Quartalsweise Auswertung im Kanzleiteam.
 
-## Output
-
-- Service-Standard-Dokument.
-- KPI-Reporting Mandantenkommunikation.
-- Eskalations-Routinen.
-
 ## Strategie und Praxis-Tipps
 
 - Klare Service-Standards reduzieren Mandanten-Stress und Sachbearbeiter-Stress.
@@ -105,12 +99,6 @@ Mandantenbrief mit Standardanliegen | 1 Tag | 5 Tage
 - Bei kontinuierlicher Ueberlastung: Recruiting oder Mandantenstamm-Anpassung.
 - StBVV: Standardanfragen oft in Pauschal; komplexe Beratung Zeithonorar.
 - DATEV-Tipp: DATEV Mandantenanfragen-Modul mit Termin-Tracking.
-
-## Querverweise
-
-- `stb-mandanten-onboarding-checkliste-vollservice` — Onboarding.
-- `stb-routine-monatsabschluss-30-tage-zyklus` — Monatsabschluss.
-- `stb-mandantenrechnung-honorar-stbvv` — StBVV.
 
 ## Quellen und Updates
 
@@ -120,10 +108,3 @@ Stand: 05/2026.
 - StBVV § 4.
 - BGB §§ 199, 280.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

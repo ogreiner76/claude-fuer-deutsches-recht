@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Nachfrage-Bankgarantien nach URDG 75
 
 # Bankgarantien nach URDG 758
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Nachfrage-Bankgarantien nach URDG 758 (ICC 2010). Demand-Charakter, Unabhängigkeitsprinzip, Arten (Bietungsgarantie, Erfüllungsgarantie, Anzahlungsgarantie), Gegengarantie und Missbrauchsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ URDG 758 (Uniform Rules for Demand Guarantees, ICC 2010) ist das wichtigste Rege
 - Abrufbedingungen: so einfach wie möglich (Erklärung + ggf. Dokument)
 - Fraud-Ausnahme: nationales Recht prüfen (England, Deutschland: Injunction möglich)
 
-## Output
-
-- URDG 758 Garantietypen-Übersicht (Bid/Performance/APB)
-- Abrufbedingungen-Checkliste nach URDG 758 Art. 14-15
-- Gegengarantie-Schema
-
-## Quellenregel
-
-URDG 758: iccwbo.org. ISP98: iccwbo.org. Schrifttum: Kelly-Louw, International Trade Finance (2012) Kap. 8. ICC Opinions URDG: iccwbo.org. Unsicherheit bleibt sichtbar.

@@ -5,10 +5,6 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Urheber Medie
 
 # Vergleichsverhandlung Strategie
 
-## Arbeitsbereich
-
-**Vergleichsverhandlung Strategie** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Vergleichsverhandlung Strategie im Plugin Fachanwalt Urheber Medie
 - Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `vergleichsverhandlung-strategie`
@@ -95,9 +92,6 @@ Schritt 5: Vergleichsvertrag abschliessen
  → Mandantenfreigabe vor Unterzeichnung
 ```
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template Vergleichsangebot
 
 **Adressat:** Verletzende Partei — Tonfall sachlich-verhandelnd
@@ -175,3 +169,4 @@ Die Parteien beantragen gemeinsam Vollstreckbarerklaerung nach § 796a ZPO.
 - `urheber-abmahnung-pruefen` — Abmahnung-Grundlage
 - `schriftsatzkern-substantiierung` — wenn Vergleich scheitert, Klage noetig
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — Zukunftslizenz nach Vergleich
+

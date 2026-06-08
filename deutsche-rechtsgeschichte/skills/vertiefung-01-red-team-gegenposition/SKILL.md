@@ -56,12 +56,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Red-Team-Analyse für eine vom Nutzer vorgegebene rechtshistorische These
-- Strukturiertes Gegenmemo: Beweislast, Gegenquellen, alternative Interpretation
-- Methodennotiz: Wie man Red-Team-Ergebnis in wissenschaftliche Argumentation integriert
-
-## Quellenregel
-
-Radbruch 1946: SJZ 1946. Carl Schmitt: Werke mit Erscheinungsjahr und Seite. NS-Gesetze: RGBl. via ALEX/ÖNB. BVerfGE: bverfg.de. Kein Argument ohne Fundstelle.

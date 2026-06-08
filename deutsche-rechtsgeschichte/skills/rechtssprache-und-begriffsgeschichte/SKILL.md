@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. D
 
 # Rechtssprache und Begriffsgeschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. Deutsch als Rechtssprache im Mittelalter, Latinisierung, Pandektistik-Fachbegriffe, BGB-Sprache und heutige Verstaendlichkeits-Debatte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Die Rechtssprache ist selbst historisch. Im Mittelalter wurde Recht in der Volks
 - Koselleck Geschichtliche Grundbegriffe (Hrsg. Brunner/Conze/Koselleck, 8 Bde., 1972-1997): Band und Stichwort
 - GG Art. 103 Abs. 2: gesetze-im-internet.de; BVerfGE dazu: bverfg.de
 
-## Output
-
-- Rechtssprach-Entwicklung: Volkssprache, Latein, Pandektistik, BGB-Sprache
-- BGB-Schluessel-Begriffe mit fachliche Einordnung
-- Kosellecks Begriffsgeschichte: Methode und Anwendungsbeispiele
-
-## Quellenregel
-
-Sachsenspiegel: MGH-Edition. Mugdan: historische Ausgabe. GG Art. 103: gesetze-im-internet.de. Koselleck Geschichtliche Grundbegriffe: Band und Stichworteintrag.

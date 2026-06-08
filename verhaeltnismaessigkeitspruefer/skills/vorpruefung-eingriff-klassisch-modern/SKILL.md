@@ -44,10 +44,6 @@ Die Eingriffsschwere bestimmt mit, wie streng spaeter Erforderlichkeit und Angem
 - **Mittlerer Eingriff**: Standardpruefung mit Vertretbarkeitskontrolle.
 - **Schwerer Eingriff in Kernbereich**: Intensive Kontrolle, ggf absolute Grenzen (Art 1 I, Art 19 II GG, Existenzminimum).
 
-## Output
-
-Vier-Zeilen-Notiz: Eingriff (ja/nein), klassisch oder modern, Eingriffsschwere, Folgen fuer spaetere Pruefungsdichte.
-
 ## Quellen mit Schlagwort
 
 - BVerfGE 7, 99 (Sender Freies Berlin, mittelbarer Eingriff in Art 5 I 2 GG)
@@ -57,3 +53,4 @@ Vier-Zeilen-Notiz: Eingriff (ja/nein), klassisch oder modern, Eingriffsschwere, 
 - BVerfGE 105, 252 (Glykol-Warnung, Informationshandeln als Eingriff)
 - BVerfGE 105, 279 (Osho-Beschluss, staatliche Sektenwarnung)
 - BVerfGE 152, 68 (Hartz-IV-Sanktionen, Existenzminimum)
+

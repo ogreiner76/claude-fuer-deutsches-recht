@@ -121,12 +121,6 @@ Mit freundlichen Gruessen
 - Konfigurationsberatung als separater Auftrag nach § 13 StBVV (Beratungstaetigkeit) oder Pauschalvereinbarung nach § 14 StBVV.
 - Bei kleineren Mandanten Software-Empfehlung (z.B. DATEV Unternehmen Online, ZUGFeRD-faehige Faktura-Loesungen).
 
-## Output
-
-- Konfiguration Empfang/Versand eRechnung.
-- Archivierungs-Routine.
-- Mandanten-Information.
-
 ## Strategie und Praxis-Tipps
 
 - Die wichtigste Stufe ist seit 01.01.2025 die **Empfangsbereitschaft** — ohne sie kann ein eRechnungs-pflichtiger Lieferant nicht ordnungsgemaess abrechnen, der Mandant verliert ggf. den Vorsteuerabzug.
@@ -134,12 +128,6 @@ Mit freundlichen Gruessen
 - ZUGFeRD eignet sich als Einstiegsformat für Mittelstand und Kleinunternehmer (PDF bleibt für den Anwender lesbar). XRechnung ist Pflichtformat im B2G-Verkehr mit Bundesstellen (E-Rech-VO seit 27.11.2020) und in einigen Ländern.
 - DATEV-Hinweis: In DATEV Unternehmen Online laesst sich der eRechnungs-Empfang ueber das Postfach "Eingangsrechnungen" und das ZUGFeRD-Auswertungsmodul konfigurieren; konkrete Programmpfade in DATEV-Onlinehilfe und Versionshinweisen nachschlagen.
 - StBVV: Konfigurationsberatung als Beratungsleistung gem. § 21 StBVV oder Pauschalvereinbarung gem. § 14 StBVV (Mandanten frueh per Rundschreiben informieren — Mustertext im Skill `stb-mandantenanfrage-reaktion-frist-laufend`).
-
-## Querverweise
-
-- `stb-belegtransfer-datev-unternehmen-online` — Belegtransfer.
-- `stb-online-portal-datev-mandantenshop` — DUO.
-- `stb-pruefliste-belegabgabe-monatlich` — Belegabgabe.
 
 ## Quellen und Updates
 
@@ -157,10 +145,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BMF-Schreiben 15.10.2024 bestaetigt), 3 ersetzt (DATEV-Programmpfad auf Onlinehilfe verwiesen; KoSIT XRechnung-Spezifikation 3.0.2 Winter 2025/26 bestaetigt; ViDA Ratsbeschluss 11.03.2025 bestaetigt) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeg
 
 # Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz
 
-## Arbeitsbereich
-
-Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner oder Naturschutzverband. Prueft LuftVG §§ 6-10 Planfeststellungspflicht UVP-Pflicht nach UVPG Klagerecht nach UmwRG BVerwG-Leitentscheidungen zu FRA BER Leipzig und liefert Rechtsschutzstrategie-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,6 +40,7 @@ Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner od
 - **LuftVG § 9**: Planfeststellungsbeschluss; Drittwirkung und Bestandsschutz.
 - **FluglärmG § 4**: Lärmschutzbereiche; Tagschutzzonen 1 und 2 sowie Nachtschutzzone.
 - **VwVfG § 72**: Planfeststellungsverfahren allgemein; Beteiligungsrechte betroffener Dritter.
+
 ## Prüfraster
 
 1. Besteht Planfeststellungspflicht (LuftVG § 8)?
@@ -54,6 +51,7 @@ Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner od
 6. Wurden Naturschutz und FFH-Verträglichkeit geprüft?
 7. Ist eine UVP nach UVPG § 4 durchgeführt und aktuell?
 8. Sind Lärmschutzbereiche nach FluglärmG § 4 neu zu ermitteln nach Bauerweiterung?
+
 ## Typische Fallstricke
 
 - Einwendungsfrist versäumt; Präklusion in der Verwaltungsgerichtsklage.
@@ -62,9 +60,7 @@ Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner od
 - Sofortvollzug nicht angegriffen; Bau beginnt trotz Klage.
 - Planfeststellungsbeschluss nicht vollständig umgesetzt; Auflagen aus Lärmschutzbereich vergessen.
 - Dritte (Anwohner) fristgerecht Klage erhoben; aufschiebende Wirkung ignoriert.
-## Output
 
-Rechtsschutzstrategie-Vermerk (Einwendung Klage einstweiliger Rechtsschutz). UVP-Prüfcheckliste. Klage-Baustein. Planfeststellungs-Checkliste. Lärmschutzbereichs-Karte als Anhang.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -91,3 +87,4 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

@@ -41,13 +41,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Einmaliges Einrichtungsinterview für das Prozessrecht-Plugin. Erfasst das Praxisprofil der Kanzlei oder Rechtsabteilung und schreibt die Konfiguration in CLAUDE.md. Jeder nachfolgende Skill liest aus dieser Datei den Kontext – ohne Kaltstart arbeiten die Skills mit unvollständigen Voreinstellungen.
-
 ## Eingaben
 
 Keine Voreingaben erforderlich. Das Interview fragt alle benötigten Felder interaktiv ab. Flags:
@@ -116,16 +109,10 @@ Das Plugin schreibt alle erfassten Werte in die YAML-Felder von CLAUDE.md (Absch
 - RVG §§ 1–3a (Anwendungsbereich, Vergütungsvereinbarung).
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Ausgabeformat
-
-1. **Interaktiver Dialog** (sequenzielle Fragen)
-2. **Zusammenfassung** am Ende: Tabellarische Übersicht aller erfassten Werte
-3. **CLAUDE.md-Update:** Automatisch, sofern bestätigt
-4. **Bestätigungs-Anzeige:** "Praxisprofil gespeichert. Sie können jetzt alle Skills verwenden."
-
 ## Risiken / typische Fehler
 
 - **Unvollständiges Profil:** Wenn Felder leergelassen werden, arbeiten Skills mit Standardwerten – diese sind nicht kanzleispezifisch. Nach Einrichtung mit `/anpassen` korrigieren.
 - **Rollenwahl falsch:** Syndikusrechtsanwalt hat andere Schweigepflichtgrenzen und Vertretungsverbote (§ 46c BRAO) als freier Anwalt – Rollenwahl im Profil ist berufsrechtlich relevant.
 - **Vergütungsvereinbarung:** Stundenhonorar erfordert Textform (§ 3a Abs. 1 RVG); das Plugin dokumentiert die Wahl, ersetzt aber keine rechtsgültige Mandatsvereinbarung.
 - **Integrations-Fehlkonfiguration:** Outlook/Kalender MCP ohne korrekte Authentifizierung führt zu fehlgeschlagenen Aktionen; immer `--check-integrations` nach Konfigurations­änderung ausführen.
+

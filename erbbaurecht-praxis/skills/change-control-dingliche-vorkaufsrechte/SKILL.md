@@ -5,10 +5,6 @@ description: "Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Ko
 
 # Change of Control beim Erbbauberechtigten
 
-## Arbeitsbereich
-
-Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -41,10 +37,6 @@ Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel 
 ## Spezialfokus
 
 Gerade Share Deals werden schnell als „nicht Grundstück“ missverstanden; der Skill legt Vertrags- und Registerfolgen offen.
-
-## Aufgabe
-
-Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches Amt/Gericht, welcher Rang oder welche Eintragung betroffen ist. Trenne streng zwischen materieller Rechtslage, Formnachweis, Vollzugshindernis und taktischer Kommunikation.
 
 ## Arbeitsmodus
 

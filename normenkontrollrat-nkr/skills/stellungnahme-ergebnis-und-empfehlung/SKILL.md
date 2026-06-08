@@ -99,17 +99,10 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe — keine Einwaende, Bemer
 - Stufe falsch (politisches Lob in formaler Pflicht-Stellungnahme)
 - Unterschriften vergessen
 
-## Querverweise
-
-- `nkr-stellungnahme-aufbau-und-format`
-- `nkr-stellungnahme-grundsatzfeststellung`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-stellungnahme-evaluationsklausel-vorschlag`
-- `legistik-werkstatt/spezial-normtext-begruendung-und-synopse`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 6
 - §§ 45, 62 GGO
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Mustertexte und Praxisbeispiele
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

@@ -5,10 +5,6 @@ description: "Systematische Pruefung von Alternativen zur geplanten Regelung: Ve
 
 # NKR-Alternativen-Pruefung — Verzicht, Soft-Law, Vollzug
 
-## Arbeitsbereich
-
-Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem Ressort stellt das eine Alternative nicht geprueft hat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,14 +93,6 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 - Verzicht nicht als Alternative angefuehrt
 - Mehrere Varianten der Eingriffstiefe nicht verglichen
 - Keine Aufwandschaetzung pro Alternative
-
-## Querverweise
-
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-verhaeltnismaessigkeit-aus-nkr-sicht`
-- `nkr-praktikabilitaet-vollzug-test`
-- `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf`
-- `legistik-werkstatt/legistik-auftragsaufnahme`
 
 ## Quellen Stand 06/2026
 

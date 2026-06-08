@@ -5,10 +5,6 @@ description: "Civis Romanus vs. Latinus vs. Peregrinus: drei Buergerstaufen im r
 
 # Rom 152 Civis Romanus Vs Latinus Vs Peregrinus
 
-## Aufgabe
-
-Skill für die Unterscheidung der drei Hauptbuergerschaften.
-
 ## Civis Romanus
 
 - Vollrechte: ius commercii, ius conubii, ius suffragii, ius honorum.
@@ -67,7 +63,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

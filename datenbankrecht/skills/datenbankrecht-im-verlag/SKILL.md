@@ -59,14 +59,6 @@ Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digi
 - Institutionslizenzen werden oft auf neue Nutzergruppen (Remote-Zugriff, Alumni) ausgedehnt, ohne Lizenzerweiterung — Verstoß gegen Vertragskonditionen.
 - Presseverleger-Leistungsschutzrecht (§ 87g UrhG) gilt nur für Presseverlage, nicht für Wissenschaftsverlage.
 
-## Output
-
-- Datenbankherstellerrecht-Check für Verlagsarchiv
-- TDM-Opt-out-Implementierungsguide für Verlage (JATS, robots.txt, HTTP-Header)
-- Institutionslizenz-Vorlage mit Download-Limits und Simultanzugriff-Regeln
-- Bibliotheksschranken-Übersicht (§ 60e UrhG) für digitale Verlagsarchive
-- Aggregator-Verletzungsanalyse und Abmahn-Strategie
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +67,4 @@ Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digi
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [DSM-Richtlinie 2019/790 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

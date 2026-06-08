@@ -5,10 +5,6 @@ description: "Consumer-KI, Enterprise-KI, Kanzleisoftware und §-43e-Dienstleist
 
 # Consumer-KI vs. §-43e-Dienstleister
 
-## Arbeitsbereich
-
-Consumer-KI, Enterprise-KI, Kanzleisoftware und §-43e-Dienstleister trennen: prüft Mandatsdaten, Vertragsbindung, Toolzweck, Subunternehmer, Anonymisierungspflicht, Mandanteninformation und Freigabeentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,9 +40,3 @@ Dieser Skill verhindert den häufigsten Denkfehler: Nicht jede KI ist berufsrech
 
 Formuliere nie pauschal "KI mit Mandatsdaten ist verboten" oder "Enterprise reicht". Formuliere: Zulässig ist nur die konkret erforderliche Offenlegung an einen hinreichend gebundenen, kontrollierten und dokumentierten Dienstleister; alles andere bleibt anonymisierte Nutzung oder Sperrfall.
 
-## Output
-
-- Toolklassifikation
-- Datenfreigabeentscheidung
-- Lückenliste für Anbieterfragen
-- Hinweis, ob Mandanteninformation oder Einwilligung zu prüfen ist

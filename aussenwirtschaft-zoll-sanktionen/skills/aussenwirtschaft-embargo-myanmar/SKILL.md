@@ -5,10 +5,6 @@ description: "EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnu
 
 # Embargo Myanmar: Militaerregime-Sanktionen und Guetersperren
 
-## Arbeitsbereich
-
-EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnungen: gelistete Personen und Entitaeten des Militaerregimes, Finanzsanktionen, Waffenembargo und sektorale Einschraenkungen. Besondere Risiken bei Handels- und Investitionsbeziehungen mit Staatsunternehmen. Output: Myanmar-Embargo-Screening und Pruefungsvermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,19 +51,6 @@ EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnungen: gelistet
 - Militaer haelt Anteile an zahlreichen scheinbar zivilwirtschaftlichen Unternehmen.
 - Sektorale Verbote gelten auch für Handelsfinanzierung.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -86,13 +69,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Myanmar-Embargo-Screening-Protokoll, Gueterkategorien-Uebersicht, Unternehmenspruefvermerk und Freigabe-/Sperrempfehlung.
-
 ## Quellen
 
 - [VO (EU) 401/2013 konsolidiert auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0401)
 - [EU Sanctions Map Myanmar](https://www.sanctionsmap.eu/#/main/details/25)
 - [BAFA Myanmar-Embargo](https://www.bafa.de/DE/Aussenwirtschaft/Exportkontrolle/Embargolaender/embargolaender_node.html)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
+

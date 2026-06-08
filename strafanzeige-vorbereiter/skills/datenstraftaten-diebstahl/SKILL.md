@@ -5,10 +5,6 @@ description: "Ausspähen, Abfangen, Datenveränderung, Computersabotage: technis
 
 # Datenstraftaten §§ 202a, 303a StGB
 
-## Arbeitsbereich
-
-Ausspähen, Abfangen, Datenveränderung, Computersabotage: technische Beweise, Logs, Forensik und ZAC. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Ausspähen, Abfangen, Datenveränderung, Computersabotage: technische Beweise, L
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Hacking, Accountübernahme, Datenlöschung.
-
 ## Norm- und Quellenanker
 
 StGB §§ 202a–202d, 303a, 303b; DSGVO Art. 33.
-
-## Arbeitsfragen
-
-1. Welche Systeme/Daten?
-2. Welche Logs/Forensik?
-3. Welche parallelen Meldepflichten?
-
 
 ## Normen & Rechtsprechung
 
@@ -40,9 +25,6 @@ Konkret zu prüfen:
 - § 248a StGB (geringwertige Sachen – Antragsdelikt)
 - § 248b StGB
 - § 243 StGB (besonders schwerer Fall)
-## Output
-
-Datenstraftaten-Anzeige und Incident-Check.
 
 ## Red Flags
 
@@ -54,6 +36,3 @@ Datenstraftaten-Anzeige und Incident-Check.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

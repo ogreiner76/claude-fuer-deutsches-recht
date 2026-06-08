@@ -18,9 +18,6 @@ description: "Bündelt die wichtigsten amtlichen BMF-/BZSt-Anker für laufende S
 3. BMF-Schreiben nur mit Datum, Titel und offizieller URL als Verwaltungsauffassung verwenden.
 4. Bei streitiger Rechtsfrage: Bindung der Verwaltung vs. gerichtliche Überprüfbarkeit offenlegen.
 
-## Output
-Erzeuge eine Tabelle `Thema / amtlicher Anker / Mandantenrisiko / Pflicht / To-do / Frist / Streitpotenzial` und anschließend ein umsetzbares Mandantenmemo.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -49,3 +46,4 @@ Erzeuge eine Tabelle `Thema / amtlicher Anker / Mandantenrisiko / Pflicht / To-d
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

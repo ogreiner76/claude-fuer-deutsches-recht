@@ -5,10 +5,6 @@ description: "Verfahren beginnt und Verfahrensart und Parteistellung muessen bes
 
 # Marktabgrenzung — Kontextanalyse
 
-## Arbeitsbereich
-
-Verfahren beginnt und Verfahrensart und Parteistellung muessen bestimmt werden bevor die Marktabgrenzung-Analyse starten kann. Identifiziert Verfahrensart Fusionskontrolle Kartellverbot Missbrauchsverfahren und Zielrichtung der Marktabgrenzung. Normen FKVO 139/2004 Art. 101 102 AEUV §§ 1 18 19 35 GWB. Prüfraster ergebnisgetriebene Argumentation Parteistellung methodische Vorentscheidungen prozessualer Kontext. Output Kontext-Analysememo mit Verfahrensart Parteiposition und Routing-Empfehlung für Folge-Skills. Abgrenzung: gesamtbewertung-tragfähigkeit für Gesamturteil nach der Analyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Verfahren beginnt und Verfahrensart und Parteistellung muessen bestimmt werden b
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Zweck
-
-Bevor die sachliche und räumliche Marktabgrenzung inhaltlich geprüft werden kann, muss ihr Entstehungskontext verstanden werden. Marktdefinitionen sind selten neutral: Sie werden von Parteien strategisch eingesetzt, um Marktanteile zu verkleinern (wenn Marktbeherrschung droht) oder zu vergrößern (wenn Effizienzgründe vorgebracht werden).
 
 ## Analyse-Schritte
 
@@ -72,6 +64,3 @@ Der Output dieser Kontextanalyse fließt in alle nachfolgenden Prüfungsschritte
 - EK, Marktdefinitionsbekanntmachung 2024 Rn. 10-30 — Kontextfaktoren: Regulierung, Substitution, Technologie, Verhalten.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

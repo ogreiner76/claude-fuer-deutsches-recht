@@ -5,10 +5,6 @@ description: "Presseäußerung Meinungsfreiheit Soldat: prüft die einschlägige
 
 # Presseäußerung und Meinungsfreiheit des Soldaten
 
-## Arbeitsbereich
-
-Presseäußerung Meinungsfreiheit Soldat: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,15 +88,6 @@ Der Soldat genießt die Meinungsfreiheit aus Art. 5 GG, die jedoch durch die sol
 - Geheimschutzrechtliche Folgen (Strafanzeige § 353b StGB, § 11 SÜG) übersehen.
 - Distanzierungserklärung erst nach Bekanntwerden – Glaubhaftigkeit fraglich.
 
-## Querverweise
-
-- politische-betaetigung-maessigung-neutralitaet
-- social-media-soldat-dienstpflichten
-- geheimschutz-sicherheitsueberpruefung-sueg
-- pflicht-zum-treuen-dienen-7-sg
-- mandantenbrief-soldat-verstaendlich
-- kameradschaft-achtungs-und-vertrauenspflicht
-
 ## Quellen Stand 06/2026
 
 - Art. 5 GG.
@@ -109,3 +96,4 @@ Der Soldat genießt die Meinungsfreiheit aus Art. 5 GG, die jedoch durch die sol
 - BVerwG Wehrdienstsenate zu § 17 SG – ständige Rechtsprechung (Az. nach Verifikation).
 - WBeauftrG – Volltext gesetze-im-internet.de.
 - § 353b StGB, SÜG – Volltext gesetze-im-internet.de.
+

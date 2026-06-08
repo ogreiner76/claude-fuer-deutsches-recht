@@ -136,9 +136,6 @@ Wichtig: Die Mahnung nimmt regelmäßig dieselben Anlagen wie das Erstschreiben 
 - EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler Triebwerk
 - EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Mahnung — Checkliste
 
 1. Erste Stufe versendet und Frist abgelaufen? → Datum prüfen (typisch 14 Tage nach Erstschreiben)
@@ -150,3 +147,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Adressat & Tonfall
 
 Adressat: Airline-Kundendienst / Rechtsabteilung — Tonfall scharf-fristsetzend, aber sachlich-juristisch; keine persönlichen Vorwuerfe
+

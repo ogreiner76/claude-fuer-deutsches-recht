@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Joint Venture im internationalen Han
 
 # Joint Venture im internationalen Handel
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollfunktions-JV). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Joint Ventures (JV) im internationalen Handel dienen Markteintritt, Technologiet
 - Governance: Deadlock-Klausel aushandeln; Mehrheits- vs. Einstimmigkeits-Entscheidungen
 - IP: Background IP vs. Foreground IP — klare Eigentumsverteilung in JV-Vertrag
 
-## Output
-
-- JV-Governance-Struktur (Entscheidungsmatrix)
-- Deadlock-Klausel-Varianten (Russian Roulette, Mediation, Shoot-Out)
-- IP-Klausel-Muster für JV
-
-## Quellenregel
-
-EU-Fusionskontroll-VO 139/2004: eur-lex.europa.eu. GWB §§ 35-44: gesetze-im-internet.de. AEUV Art. 101: eur-lex.europa.eu. Schrifttum: Dodge/Baer, International Joint Ventures (2018). Unsicherheit bleibt sichtbar.

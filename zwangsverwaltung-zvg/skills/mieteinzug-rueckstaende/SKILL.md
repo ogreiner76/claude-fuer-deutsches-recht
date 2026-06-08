@@ -17,12 +17,6 @@ Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Anwendungsfall Mie
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Sichert laufende Nutzungen und treibt Rückstände mit sauberem Soll-Ist-Abgleich ein.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
-
 ## Startet bei
 
 - Mieteinnahmen fehlen
@@ -78,9 +72,6 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 § 153 ZVG (Einziehung Nutzungen) → § 535 Abs. 2 BGB (Mietzinszahlungspflicht) → § 543 Abs. 2 Nr. 3 BGB (Kündigung wegen Zahlungsverzug) → § 286 BGB (Verzug) → § 288 BGB (Verzugszinsen) → §§ 12-13 ZwVwV (Buchführung Rückstände)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage Mieteinzug/Rückstände
 
 1. Rückstand vor oder nach Beschlagnahme entstanden? (Unterschiedliche Behandlung)
@@ -117,3 +108,4 @@ Bitte übergeben Sie die Wohnung spätestens zum [DATUM] geräumt.]
 
 [UNTERSCHRIFT ZWANGSVERWALTER]
 ```
+

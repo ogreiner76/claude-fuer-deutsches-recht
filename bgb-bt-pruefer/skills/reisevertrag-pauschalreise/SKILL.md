@@ -10,10 +10,6 @@ description: "Reisevertrag §§ 651a ff. BGB und Pauschalreiserichtlinie: Mänge
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Reiserechtliche Ansprüche nach §§ 651a ff. BGB prüfen: Mangelrüge, Abhilfeverlangen, Minderung, Rücktritt und Schadensersatz bei Pauschalreisen nach der Pauschalreise-RL.
-
 ## Normanker
 
 - § 651a BGB: Pauschalreisevertrag (Grundnorm)
@@ -50,25 +46,13 @@ Reiserechtliche Ansprüche nach §§ 651a ff. BGB prüfen: Mangelrüge, Abhilfev
 - Entschädigung für nutzlos aufgewendete Urlaubszeit ist Sonderform des immateriellen Schadens.
 - COVID-19-Fälle: unvermeidbare außergewöhnliche Umstände nach § 651h Abs. 3 BGB; Rücktrittsrecht für beide Seiten.
 - Verbundene Reiseleistungen nach § 651c BGB (neue Kategorie): andere Rechtslage als Pauschalreise.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Mängelübersicht mit Minderungsquoten-Empfehlung
-- Anspruchsmatrix (Abhilfe, Minderung, Schadensersatz, Kündigung)
-- Fristen-Checkliste (Rüge, Klage, Verjährung)
-- Risikoampel
-
-## Qualitätsregeln
-
-- Pauschalreise-Definition immer sorgfältig prüfen; einzelne Reiseleistungen unterliegen allgemeinem Schuldrecht.
-- Mangelrüge-Obliegenheit am Urlaubsort dokumentieren.
-- Pauschalreise-RL-Umsetzungsstand mitprüfen.
 
 ## Anschluss-Skills
 
@@ -81,10 +65,4 @@ Reiserechtliche Ansprüche nach §§ 651a ff. BGB prüfen: Mangelrüge, Abhilfev
 - https://www.gesetze-im-internet.de/bgb/__651a.html
 - https://www.gesetze-im-internet.de/bgb/__651f.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2302
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

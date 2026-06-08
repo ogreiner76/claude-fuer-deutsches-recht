@@ -5,10 +5,6 @@ description: "Schützt Untersuchungsergebnisse und Unternehmensinterna als Gesch
 
 # Schutz von Geschäftsgeheimnissen in Internal Investigations
 
-## Arbeitsbereich
-
-Schützt Untersuchungsergebnisse und Unternehmensinterna als Geschäftsgeheimnisse – GeschGehG, § 17 UWG a.F., strafrechtlicher Schutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -63,15 +59,6 @@ Dieser Skill klärt, welche Untersuchungsergebnisse als Geschäftsgeheimnisse zu
 - Technische Sicherheit: End-to-end-Verschlüsselung, keine Downloadmöglichkeit, Wasserzeichen.
 - Protokollierung jedes Zugriffs für spätere Nachweisführung.
 
-## Red-Team-Fragen
-
-- Ist der Untersuchungsbericht als Geschäftsgeheimnis qualifizierbar – wurden alle drei GeschGehG-Voraussetzungen aktiv erfüllt?
-- Wurde bei der Übergabe an externe Berater eine NDA abgeschlossen und dokumentiert?
-- Könnte ein Whistleblower die § 5 Nr. 2 GeschGehG-Ausnahme in Anspruch nehmen und den Bericht rechtmäßig an Behörden weitergeben?
-- Enthält der Bericht kursrelevante Informationen, die Insiderhandelsrisiken begründen?
-- Wurden Zugangsprotokolle für den Data Room lückenlos geführt?
-- Hat das Unternehmen bei drohender Beschlagnahme einen Schutzantrag (In-camera) vorbereitet?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -91,3 +78,4 @@ Dieser Skill klärt, welche Untersuchungsergebnisse als Geschäftsgeheimnisse zu
 - **Secure-Data-Room-Anforderungsliste**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

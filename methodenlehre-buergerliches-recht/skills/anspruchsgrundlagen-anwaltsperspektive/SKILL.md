@@ -5,9 +5,6 @@ description: "Anspruchsgrundlagen Anwaltsperspektive im Plugin Methodenlehre Bue
 
 # Anspruchsgrundlagen Anwaltsperspektive
 
-## Arbeitsbereich
-
-**Anspruchsgrundlagen Anwaltsperspektive** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill systematisiert die Auswahl und Durchsetzung, Dieses Skill erstellt aus anwaltlicher Perspektive eine, Dieses Skill bearbeitet methodische Vertragsauslegung mit. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Anspruchsgrundlagen Anwaltsperspektive im Plugin Methodenlehre Bue
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg`
@@ -82,10 +80,6 @@ Die Durchsetzung rechtlicher Ansprüche erfordert nicht nur die Kenntnis der mat
 - Registerrechtliche Beschwerdefristen werden nicht beachtet, während auf zivilrechtliche Klage gesetzt wird.
 - Der Rechtswegverweis nach § 17a GVG verursacht Zeitverluste, die durch sorgfältige Prüfung hätten vermieden werden können.
 - Behördliche Primäransprüche werden nicht ausgeschöpft, obwohl sie schneller als Klagen wären.
-
-## Output
-
-Das Skill liefert eine strukturierte Entscheidungsmatrix: Welche Ansprüche bestehen, auf welchem Rechtsweg sie geltend zu machen sind, welche Fristen gelten und welche Strategieempfehlung sich ergibt. Als Output entsteht ein kurzes Mandatsmemo mit Weichenentscheidung, Begründung und nächsten Schritten.
 
 ## Quellen
 
@@ -173,10 +167,6 @@ Eine tragfähige Mandatsführung steht und fällt mit der Vollständigkeit der D
 - Originale werden nicht gesichert, obwohl Kopien nicht ausreichen (Formerfordernisse, § 416 ZPO).
 - Der Mandant wird nicht über seine Mitwirkungspflichten informiert, was die Dokumentenbasis unvollständig lässt.
 
-## Output
-
-Das Skill produziert eine tabellarische Dokumentenmatrix mit drei Spalten: Tatbestandsmerkmal, vorhandene Beweismittel, fehlende Beweismittel. Ergänzt wird eine priorisierte Lückenliste mit Angabe, wer welches Dokument bis wann beschaffen muss. Das Ergebnis fließt in das Mandatsprotokoll und in die Prozessplanung ein.
-
 ## Quellen
 
 - [§ 286 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__286.html)
@@ -263,10 +253,6 @@ Die anwaltliche Begleitung von Konflikten umfasst mehr als Rechtsprüfung: Sie v
 - Vergleiche werden ohne Vollstreckungsklausel geschlossen und können bei Nichterfüllung nicht tituliert werden.
 - Die Verjährungshemmung durch Verhandlungen (§ 203 BGB) wird nicht dokumentiert, und Ansprüche verjähren während der Verhandlungsphase.
 - Die Eskalationsschwelle wird zu spät gezogen, was Verhandlungszeit verschwendet oder kostspielige Verfahren nach sich zieht.
-
-## Output
-
-Das Skill liefert eine dreistufige Dokumentation: Auslegungsanalyse mit Bandbreite vertretbarer Ergebnisse, strukturiertes Verhandlungsprotokoll mit Positions- und Konzessionsplanung, fertiger Vergleichsentwurf mit Vollstreckbarkeitscheck. Bei Eskalation entsteht ein Klageentwurf mit Begründung, warum Verhandlung gescheitert ist.
 
 ## Quellen
 
@@ -356,10 +342,6 @@ Das Ende eines Mandats ist methodisch genauso wichtig wie sein Beginn. Ein volls
 - Die Mandatsakte wird unvollständig übergeben, was bei späteren Rechtsstreitigkeiten zu Haftungsrisiken führt.
 - Rechtsmittelfristen werden beim Abschlussprotokoll nicht dokumentiert, sodass Mandanten Rechtsbehelfsmöglichkeiten versäumen.
 
-## Output
-
-Das Skill liefert ein vollständiges Abschlusspaket: Abschlussprotokoll mit Mandatsergebnis und Risikohinweisen, Fristenübersicht für offene Handlungsbedarfe, Inhaltsverzeichnis der Mandatsakte und ein formelles Abschlussschreiben an den Mandanten mit Empfehlung für Folgeschritte. Das Paket sichert die anwaltliche Sorgfaltspflicht und dient als Haftungsschutz.
-
 ## Quellen
 
 - [§ 675 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__675.html)
@@ -447,10 +429,6 @@ Ein juristisches Gutachten ist erst dann methodisch vollständig, wenn es neben 
 - Mandanten erhalten ein "grünes" Gutachten, das die gegnerischen Stärken systematisch unterschätzt.
 - Der Gutachtenstil wird mit einem Urteilsstil vermischt, was die Argumentationsklarheit reduziert.
 
-## Output
-
-Das Skill liefert ein zweiteiliges Gutachten: Teil 1 enthält die eigene Argumentation im klassischen Gutachtenstil; Teil 2 enthält die systematisch aufgearbeiteten Gegenargumente mit Risikoampelwertung je Tatbestandsmerkmal und einer zusammenfassenden Gesamtrisikobewertung. Das Ergebnis ist direkt für die Mandantenberatung und als Grundlage für die Prozessentscheidung verwendbar.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -482,3 +460,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

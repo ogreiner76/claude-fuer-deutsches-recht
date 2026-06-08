@@ -5,10 +5,6 @@ description: "Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach SGB II
 
 # Sperrzeit, Arbeitslosengeld und Krankenversicherung
 
-## Arbeitsbereich
-
-Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach SGB III: Pflichtversicherung, Beitragsübernahme durch Bundesagentur, Lückenproblem und Optionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Arbeitslose sind in der GKV pflichtversichert. Bei Sperrzeit entfällt jedoch da
 - [BSG B 12 KR 3/10 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [Bundesagentur für Arbeit – KV](https://www.arbeitsagentur.de)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
+

@@ -18,12 +18,7 @@ Arbeitsfokus: **Duplikate, Fassungen und Hashlog**. Prüfe diese Anker am Sachve
 - `§ 299 Abs. 1 ZPO` — Akteneinsicht.
 - `§ 371 Abs. 1 ZPO` — Augenschein.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill macht die stille technische Kontrolle hinter dem Anlagenverzeichnis. Er entscheidet nicht materiell-rechtlich, aber er zeigt, ob die Anlagenbasis stabil genug ist, um gerichtsfest verwendet zu werden.
 
 ## Mindestinput
 
@@ -62,3 +57,4 @@ Dieser Skill macht die stille technische Kontrolle hinter dem Anlagenverzeichnis
 ## Quellen- und Vorsichtsregel
 
 Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
+

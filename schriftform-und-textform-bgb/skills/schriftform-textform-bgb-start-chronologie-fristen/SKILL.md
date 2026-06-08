@@ -5,10 +5,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Schriftform Und Textfor
 
 # Schriftform und Textform im BGB — Allgemein
 
-## Arbeitsbereich
-
-Einstieg, Schnelltriage und Fallrouting im Schriftform Und Textform Bgb-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,15 +12,6 @@ Einstieg, Schnelltriage und Fallrouting im Schriftform Und Textform Bgb-Plugin. 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
 ## Schnellstart-Workflow
 
@@ -233,12 +220,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Formmangel erst in der Klage entdeckt: Nachtraegliche Heilung ist bei den meisten Formarten nicht moeglich; praevention hat Vorrang.
 - Beurkundungspflicht bei GmbH-Anteilsuebertragung uebersehen: Formverstoss fuehrt zu Nichtigkeit des Vertrages (§ 15 Abs. 3 GmbHG).
 
-## Querverweise
-
-- `arbeitsrecht` — Schriftformzwang bei Befristung, Kuendigung und Aufhebungsvertrag im Arbeitsrecht.
-- `gewerblicher-rechtsschutz` — Formanforderungen bei IP-Uebertragungsvertraegen und Lizenzvertraegen.
-- `prozessrecht` — Prozessuale Fragen bei Schriftsatz-Zustellung und elektronischem Rechtsverkehr (beA).
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
@@ -251,3 +232,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
  - BGH, Urt. v. 06.03.2025 – Az. I ZR 32/24 und Az. I ZR 138/24 — Halbteilungsgrundsatz § 656c und § 656d BGB beim Maklervertrag.
  - LAG Berlin-Brandenburg, Urt. v. 16.03.2022 – Az. 23 Sa 1133/21 — eingescannte Unterschrift wahrt § 14 Abs. 4 TzBfG nicht.
  - ArbG Gera, Urt. v. 03.07.2024 – Az. 2 Ca 936/23 — DocuSign-qES wahrt § 14 Abs. 4 TzBfG.
+

@@ -5,9 +5,6 @@ description: "Erwerbsminderungsrente im Selbstvertretung am Sozialgericht: prüf
 
 # Erwerbsminderungsrente
 
-## Arbeitsbereich
-
-**Erwerbsminderungsrente** ordnet den Fall über die tragenden Prüfungslinien: Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren, Die Feststellungsklage nach § 55 SGG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Erwerbsminderungsrente im Selbstvertretung am Sozialgericht: prüf
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `erwerbsminderungsrente-belegfuehrung`
@@ -205,24 +203,9 @@ Hinweis: Der km-Satz nach JVEG kann sich aendern; pruefen Sie den aktuellen Wert
 - Eigene Auslagen ohne Beleg → schwer beweisbar
 - Bei Niederlage trotzdem Erstattung erwartet → nur bei Erfolg
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `kostenfrei-vs-aufwendungsersatz-193-sgg` — § 193 SGG
-- `zeugenbeweis-sozialgericht-373-zpo-analog` — Zeugen
-- `pkh-vor-sozialgericht-73a-sgg` — PKH
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. JVEG aktuell. Konkrete Saetze pruefen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `feststellungsklage-55-sgg`
 
@@ -341,24 +324,9 @@ Sie muessen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
 - Allgemeines Interesse statt konkret → reicht nicht
 - "Klage gegen Behörde generell" → konkrete Frage formulieren
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — Ueberblick
-- `anfechtungsklage-54-sgg` — wenn ablehnender Bescheid
-- `verpflichtungsklage-54-sgg` — wenn positiver Bescheid gewollt
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 55 SGG aktuell.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `gdb-feststellung-versorgungsamt-sgb-ix`
 
@@ -518,23 +486,7 @@ Wenn Sie gewinnen, muss die unterliegende Behörde Ihnen die notwendigen ausserg
 - Anwalt selbst gezahlt, obwohl Erfolg → § 193-Antrag beim SG stellen
 - § 192 SGG provoziert mit aggressiven Schriftsaetzen → ruhig und sachlich bleiben
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `kostenfrei-vs-aufwendungsersatz-193-sgg` — Auslagen bei Erfolg
-- `anwaltskosten-bei-erfolg-erstattung` — Anwaltskosten zurueck
-- `pkh-vor-sozialgericht-73a-sgg` — PKH, falls Sie doch Anwalt brauchen
-- `sachverstaendigen-wahlrecht-109-sgg` — wann Sie eigenes Gutachten zahlen
-- `kostenrisiko-vs-kostenfreiheit-laien` — Risiko-Ueberblick
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 183 SGG ist Kernschutz der sozialen Gerichtsbarkeit. Pruefen Sie im Zweifel mit Ihrem Sozialverband.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -53,10 +53,6 @@ description: "Analysiert das Prinzip richterlicher Zurückhaltung als methodisch
 - Zurückhaltung und Entscheidungsverweigerung werden gleichgesetzt: Das Gericht muss den Fall entscheiden, auch wenn es Zurückhaltung übt.
 - Die Kompetenz des Gerichts für eine empirisch fundierte normative Entscheidung wird nicht kritisch hinterfragt.
 
-## Output
-
-Das Skill liefert eine Zurückhaltungs-Rechtsfortbildungs-Analyse: Lückenfeststellung, Kontroversitätsprüfung, Kompetenzcheck, Alternativenbetrachtung (Signalpflicht, Vorlage) und begründete Empfehlung für das methodische Vorgehen. Verwendbar als Grundlage für Urteilsbegründungen, Gutachten und wissenschaftliche Beiträge zur Methodenlehre.
-
 ## Vertiefung: Prozeduraler vs. substantieller Zurückhaltungsansatz
 
 Es gibt zwei Modelle richterlicher Zurückhaltung: Der prozedurale Ansatz fordert, dass Gerichte methodisch transparent vorgehen und ihre Kompetenzgrenzen sichtbar machen, ohne inhaltlich auf Entscheidungen zu verzichten. Der substantielle Ansatz fordert dagegen echte Enthaltung von normativ weitreichenden Entscheidungen und Zurückverweisung an den Gesetzgeber. Beide Ansätze haben ihre Berechtigung, abhängig von der Kontroversität der Frage.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 97 GG – Richterliche Unabhängigkeit](https://dejure.org/gesetze/GG/97.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

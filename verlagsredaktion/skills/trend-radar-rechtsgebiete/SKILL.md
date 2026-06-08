@@ -5,10 +5,6 @@ description: "Beobachtet rechtsgebietsuebergreifende Trends (Digitalisierung, ES
 
 # Trend-Radar Rechtsgebiete
 
-## Arbeitsbereich
-
-Beobachtet rechtsgebietsuebergreifende Trends (Digitalisierung, ESG, KI-Recht, EU-Reformen) als Themen-Frueherkennung für mehrere Zeitschriften und Reihen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,14 +93,6 @@ Programm-Empfehlung:
 - EU-Reformen unterschaetzt - oft langlebige Trends mit Folgewellen.
 - Beraterperspektive ausgeklammert - das raecht sich am Markt.
 
-## Querverweise
-
-- `verl-themenscout-rechtsentwicklung` - einzelne Entscheidungen.
-- `verl-redaktionsmemo-jahresplanung` - Jahresarchitektur.
-- `verl-ideenpool-und-priorisierung` - Trends in Backlog uebertragen.
-- `verl-loseblattwerk-spezial` - bei Reihenbildung.
-- `verl-online-kommentar-update-spezial` - bei Online-Kommentar-Anpassung.
-
 ## Quellen Stand 06/2026
 
 - BGH, [https://www.bundesgerichtshof.de](https://www.bundesgerichtshof.de).
@@ -114,3 +102,4 @@ Programm-Empfehlung:
 - Bundesregierung Vorhabenplaner, [https://www.bundesregierung.de](https://www.bundesregierung.de).
 - AI Act, VO (EU) 2024/1689, [https://eur-lex.europa.eu/eli/reg/2024/1689/oj](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
+

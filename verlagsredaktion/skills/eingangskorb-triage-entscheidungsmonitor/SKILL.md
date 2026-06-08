@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen, Bildern, Tabellen und Notizen nach Frist, Risiko, Projekt und naechster Aktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,27 +27,12 @@ Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen, Bildern, Ta
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Arbeitsweise
-
-1. Alles Material listen.
-2. Projekt oder Produkt zuordnen.
-3. Frist und Abhängigkeit erkennen.
-4. Rechte-/Datenschutzrisiko markieren.
-5. Nächste Aktion formulieren.
-
 ## Kategorien
 
 - Sofort: Druck, Onlinegang, Freigabe, Rechteproblem.
 - Heute: Autor:innenantwort, fehlende Anlage, Korrektur.
 - Diese Woche: Lektorat, Metadaten, Marketing, Vertrieb.
 - Parken: Hintergrund, Ideen, spätere Auflage.
-
-## Output
-
-- Eingangskorb-Tabelle.
-- Tagesprioritäten.
-- E-Mail-Entwürfe für Nachforderungen.
-- Übergabe an passende Fachmodule.
 
 ## Schneller Arbeitsmodus
 
@@ -65,10 +46,3 @@ Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen, Bildern, Ta
 - Sind Rechte, Quellen, Namen, Titel, Preis, Termine und Freigaben als belegt oder offen markiert?
 - Gibt es genau die naechsten Schritte mit Owner, Frist und Eskalation?
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

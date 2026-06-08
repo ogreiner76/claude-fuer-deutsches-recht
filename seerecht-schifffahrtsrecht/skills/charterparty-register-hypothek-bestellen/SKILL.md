@@ -5,10 +5,6 @@ description: "Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat C
 
 # Charterparty – Registerprüfung
 
-## Arbeitsbereich
-
-Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer prueft Seeschiffsregister bleibt beim Reeder; kein Charter-Register auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,9 +38,6 @@ Eine finanzierende Bank prueft den Seeschiffsregister bleibt beim Reeder; kein C
 - Gesetzliche Vorrechte (Crew-Löhne, Hafengebühren) entstehen ohne Registereintragung.
 - Voreintragungspflicht: Veräußerer muss im Seeschiffsregister bleibt beim Reeder; kein Charter-Register eingetragen sein.
 - Bei Gechartertes Seeschiff unter Charterparty unter Auslandsflagge gilt Lex registri des Flaggenstaats.
-
-## Output
-Registerprüfprotokoll mit Abteilungsübersicht und Rangkarte für Gechartertes Seeschiff unter Charterparty.
 
 ## Vertiefung: Registerrechtliche Besonderheiten
 Das Schiffsregister ist ein öffentliches Register im Sinne des SchRG § 3; es gilt das Prinzip der positiven und negativen Publizität (BGB §§ 892-893 analog). Ein gutgläubiger Erwerber kann sich auf den Registerinhalt verlassen, soweit keine Eintragungsvoraussetzungen fehlen. Bei internationalen Transaktionen ist die Anerkennung ausländischer Schiffshypotheken nach dem Recht des Registerstaats (Lex registri) zu prüfen; dies gilt insbesondere für Schiffe unter Panama-, Marshall-Islands- oder Liberia-Flagge.
@@ -102,3 +95,4 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 - HGB §§ 596-601: https://dejure.org/gesetze/HGB/596.html
 - BSH Register: https://www.bsh.de/DE/THEMEN/Schifffahrt/Schiffsregister/schiffsregister_node.html
 - SchRegO: https://dejure.org/gesetze/SchRegO
+

@@ -5,10 +5,6 @@ description: "Verbraucherzentrale: Inkasso- und Konzerninkasso-Serienfälle nach
 
 # VDG 102 Inkasso Konzerninkasso Musterfeststellung
 
-## Arbeitsbereich
-
-Verbraucherzentrale: Inkasso- und Konzerninkasso-Serienfälle nach BGH VIII ZR 138/23 prüfen; Verzug, Erstattungsfähigkeit, Gebührenhöhe, RDG, Anspruchsgruppen und Kommunikation für Musterverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill prüft, ob Inkasso-Nebenforderungen als Verbandsfall taugen: nicht mit der falschen These "Konzerninkasso ist immer nicht ersatzfähig", sondern nach Hauptforderung, Verzug, Erforderlichkeit, Höhe und Transparenz.
-
 ## Rechtsanker
 
 - §§ 249, 254, 280, 286 BGB.
@@ -61,14 +53,3 @@ Dieser Skill prüft, ob Inkasso-Nebenforderungen als Verbandsfall taugen: nicht 
 4. Gebührenpositionen typisieren.
 5. Klageziel wählen: Unterlassung irreführender Darstellung, Rückzahlung, Feststellung oder Abhilfe.
 
-## Output
-
-- Anspruchsgruppenkarte.
-- Musterfragebogen für Betroffene.
-- Beweisbeschluss-/Beweisantrittsplan.
-- Textbaustein für Verbraucherkommunikation: "nicht jede Inkassoforderung ist falsch, aber jede Position wird geprüft".
-- Vergleichscheck mit Streuwirkung.
-
-## Qualitätsregel
-
-Keine überholte Pauschalbehauptung. Nach VIII ZR 138/23 muss die Strategie genauer werden: Angriff über fehlenden Verzug, fehlende Hauptforderung, Überhöhung, Irreführung und fehlende Transparenz.

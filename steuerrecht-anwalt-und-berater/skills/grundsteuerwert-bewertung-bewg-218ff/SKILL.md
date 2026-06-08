@@ -11,10 +11,6 @@ description: "Grundsteuerwert nach BewG §§ 218 ff. prüfen: Bundesmodell, Ertr
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Aufgabe
-
-Prüfe den Grundsteuerwertbescheid im Bundesmodell. Dieser Skill arbeitet nicht als Rechner ohne Unterlagen, sondern als Bewertungsdiagnose: Welche Eingabe bestimmt den Wert, welche ist falsch, welche ist nur belastend, aber rechtlich vorgesehen?
-
 ## Prüfschritte
 
 1. **Anwendungsbereich**: Bundesmodell oder Landesmodell? Bei Landesmodell an `anw-grundsteuer-landesmodell-routing` abgeben.
@@ -42,14 +38,6 @@ Arbeite in dieser Reihenfolge:
 3. richtiger Wert und Beleg,
 4. rechtliche Relevanz für BewG/GrStG,
 5. Antrag auf Änderung beziehungsweise Einspruchsziel.
-
-## Output
-
-- Bewertungsfehler-Matrix.
-- Priorisierte Angriffspunkte.
-- Entwurf eines Beleganschreibens.
-- Kurzer Einspruchsbaustein.
-- Hinweis, ob zusätzlich gemeiner Wert/gutachterlicher Nachweis geprüft werden soll.
 
 ## Quellen
 
@@ -85,3 +73,4 @@ Empfehlung: Erst niedrigwertige Belege (Wohnflächenberechnung, Bodenrichtwertau
 
 - Einspruch trifft den falschen Bescheid: Hebesatz angegriffen, obwohl der Wertfehler im Grundlagenbescheid (Finanzamt) sitzt. § 351 Abs. 2 AO sperrt den Folgebescheid.
 - Einspruchsfrist von einem Monat wird übersehen, weil der Bescheid an die ELSTER-Postfachadresse zugestellt und nicht abgerufen wurde; § 122 Abs. 2a AO regelt elektronische Bekanntgabe nach drei Tagen.
+

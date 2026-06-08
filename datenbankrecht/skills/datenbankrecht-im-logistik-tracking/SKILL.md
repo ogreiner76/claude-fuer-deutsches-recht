@@ -5,10 +5,6 @@ description: "Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e Ur
 
 # Datenbankrecht im Logistik-Tracking — Sendungsverfolgung und Transportdaten
 
-## Arbeitsbereich
-
-Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendun
 - Tracking-Aggregatoren können Innoweb-Test erfüllen, wenn sie Echtzeit-Abfragen an Tracking-APIs richten.
 - AGB-Tracking-API-Verbote müssen klar formuliert sein — pauschale Verbote für alle automatisierten Abfragen sind nach § 307 BGB riskant.
 
-## Output
-
-- Tracking-Datenbank-Herstellerrecht-Gutachten (BHB-Prüfung)
-- Data Act Art. 4 Zugangsrecht-Implementierungsguide für Logistikdienstleister
-- Aggregator-Verletzungsanalyse (§ 87b UrhG + Innoweb-Test)
-- DSGVO-Löschfristen-Konzept für Empfänger-Lieferdaten
-- Tracking-API-Lizenz-AGB-Vorlage (Händler / Aggregator / White-Label)
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendun
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [DSGVO Art. 6 — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
+

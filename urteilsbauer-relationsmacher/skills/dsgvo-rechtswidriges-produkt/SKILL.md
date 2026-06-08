@@ -28,9 +28,6 @@ Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtsw
 - Art. 82 DSGVO — Schadensersatz (materiell und immateriell)
 - § 134 BGB — Nichtigkeit bei Verstoß gegen Verbotsgesetz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Anwendbarkeit DSGVO prüfen (Art. 3):** Niederlassungsprinzip oder Marktortprinzip.
@@ -45,6 +42,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
 
 ```
+
 ## DSGVO-Prüfung
 
 **Anwendbarkeit Art. 3 DSGVO:** Ja, weil [Niederlassungsprinzip / Marktortprinzip: Produkt
@@ -96,3 +94,4 @@ Im Tatbestand auf das Gutachten verweisen. In den Entscheidungsgründen konkret 
 
 <!-- AUDIT 27.05.2026 -->
 <!-- BGH VI ZR 39/20 (claimed: DSGVO-Versto\u00dfe Schadensersatz Art. 82, NJW 2021, 3041): NOT_FOUND auf dejure.org. NJW 2021, 3041 gehoert zu BGH VI ZR 40/20 (VW-Abgasskandal §826 BGB) – thematisch unverwandt. Eintrag geloescht. DSGVO-Schadensersatz wird durch bereits vorhandene EuGH-Zitate C-300/21 und C-340/21 abgedeckt. -->
+

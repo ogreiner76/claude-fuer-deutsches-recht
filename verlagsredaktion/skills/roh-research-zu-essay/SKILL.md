@@ -5,10 +5,6 @@ description: "Verdichtet unstrukturierten Recherchewust einer Autorin zu einem z
 
 # Roh-Research zu Essay
 
-## Arbeitsbereich
-
-Verdichtet unstrukturierten Recherchewust einer Autorin zu einem zitierfaehigen Essay oder Diskussionsbeitrag für juristisches Fachformat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -88,14 +84,6 @@ Sie brauchen ihn, wenn unstrukturierte Recherchematerialien als Quelle für eine
 - Filtersaetze ohne Beleg ("in der Literatur wird ueberwiegend ...").
 - Bei Co-Autorenschaft: keine vertragliche Honorierung der Verlagsseite.
 
-## Querverweise
-
-- `verl-email-konvolute-zu-fachbeitrag` - aehnliche Verdichtungsaufgabe.
-- `verl-themenscout-rechtsentwicklung` - für Anlassrecherche.
-- `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-- `lektorat-struktur-redaktion` - für Gliederungsarbeit.
-- `honorar-vertrag-royalties-triage` - bei Co-Autorenschaft.
-
 ## Quellen Stand 06/2026
 
 - UrhG §§ 7, 8 (Miturheberschaft), §§ 51, 63 (Zitat, Quellenangabe), [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/).
@@ -104,3 +92,4 @@ Sie brauchen ihn, wenn unstrukturierte Recherchematerialien als Quelle für eine
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022, zur Strukturarbeit.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023, zum Essay-Aufbau.
+

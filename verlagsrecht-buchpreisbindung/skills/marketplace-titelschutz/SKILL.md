@@ -5,10 +5,6 @@ description: "Buchpreisbindungsgesetz: Preisdisziplin bei Amazon Marketplace und
 
 # Verl-014 · Marketplace-Händler, Amazon und Preisdisziplin
 
-## Arbeitsbereich
-
-Buchpreisbindungsgesetz: Preisdisziplin bei Amazon Marketplace und anderen Online-Händlern — Durchsetzung des Ladenpreises, Abmahnung, Monitoring und Compliance-Praxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -133,3 +129,4 @@ Amazon Marketplace und vergleichbare Plattformen sind die häufigsten Schauplät
 - **Stufenplan Durchsetzung**: Von Direktkontakt bis einstweiliger Verfügung
 - **Börsenverein-Meldungsformular**: Strukturierter Verstoßbericht
 - **Verjährungs-Fristenplan**: Für alle laufenden Fälle
+

@@ -5,10 +5,6 @@ description: "Unterschiede in der Sanierungsertragsbehandlung zwischen Körpersc
 
 # Sanierungsgewinn — KSt vs. ESt
 
-## Arbeitsbereich
-
-Unterschiede in der Sanierungsertragsbehandlung zwischen Körperschaftsteuer und Einkommensteuer. KSt geht über § 8 Absatz 1 KStG auf § 3a EStG; ESt direkt; unterschiedliche Verlustverrechnung und Antragsstruktur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -156,14 +152,6 @@ Bindungswirkung nach Feststellung: EUR ...
 - § 7b GewStG vergessen — gleichgültig ob KSt oder ESt.
 - Sonderbetriebsvermögen mit Gesamthand vermischt.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-personengesellschaft-und-mitunternehmer`
-- `stb-sanierungsgewinn-3a-estg-unternehmens-vs-person`
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
-
 ## Quellen Stand 06/2026
 
 - § 3a Abs. 1, 4 EStG.
@@ -177,3 +165,4 @@ Bindungswirkung nach Feststellung: EUR ...
 - § 4 Abs. 1 EStG.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

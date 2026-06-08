@@ -5,10 +5,6 @@ description: "Macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen
 
 # BGB AT und Schuldrecht AT im M&A-Mandat
 
-## Arbeitsbereich
-
-Macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanzierungs- und SHA-Vertraegen unter deutschem Recht stillschweigend mitlaufen: Form, Stellvertretung, Bedingungen, Verfuegungsverbote, AGB-Kontrolle, Konkretisierung, Treu und Glauben. Gegen den weit verbreiteten Irrtum, M&A sei reines Vertragsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,10 +72,3 @@ Englischsprachige M&A- und Finanzierungsvertraege unter deutschem Recht (Rechtsw
 - `reasonable-efforts-covenants` für endeavours- und reasonable-efforts-Klauseln.
 - `verdeckte-sacheinlage` für § 19 Abs. 4 und Abs. 5 GmbHG.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

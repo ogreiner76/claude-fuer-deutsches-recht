@@ -5,10 +5,6 @@ description: "Reinhart-Koselleck-Projekt prüfen und entwerfen: 500.000 Euro bis
 
 # Reinhart-Koselleck-Check
 
-## Arbeitsbereich
-
-Reinhart-Koselleck-Projekt prüfen und entwerfen: 500.000 Euro bis 1.250.000 Euro, 5 Jahre, Stufen von 250.000 Euro, außergewöhnliches Profil, positives Risiko, Vertrauensvorschuss, Abgrenzung zur Sachbeihilfe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Regelungs- und Quellenanker
 
 Arbeitsfokus: **Reinhart-Koselleck-Check**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Reinhart-Koselleck-Check**. Prüfe diese Anker am Sachverhalt; e
 - `DFG-Kodex Leitlinie 1` — Redlichkeit.
 - `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
 - `DFG-Kodex Leitlinie 14` — Autorschaft.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -155,31 +150,6 @@ Kaltstartfragen:
 - "Kann auch in 3 Jahren laufen, falls Sie das wollen" — Laufzeit ist fix 5 Jahre.
 - Vision als Modewort: "disruptiv", "transformativ" ohne Substanz.
 
-## Output
-
-**Koselleck-Ampel:**
-
-| Aspekt | Grün | Gelb | Rot |
-| --- | --- | --- | --- |
-| Profil | außergewöhnliche Linie, Spitzenpublikationen, sichtbare Drittmittel | starke Linie, aber noch wenig Vertrauen | Profil trägt Vertrauensvorschuss nicht |
-| Vision-Klarheit | in 1 Satz formulierbar | in 3 Sätzen | unklar |
-| Risiko-Logik | wissenschaftlich produktiv | gemischt | nur Management-Risiko |
-| Abgrenzung zur SB | klar begründet | weich | nicht erkennbar |
-| Stufe | 500k-1.25m angemessen | grenzwertig | unangemessen |
-
-- **Empfehlung Go / No-Go.**
-- **Empfohlene Stufe** (500k / 750k / 1.000k / 1.250k).
-- **Kernnarrativ auf einer Seite** (Vision, Profil, Risiko, Abgrenzung).
-- **Fünf wahrscheinlichste Gutachter-Einwände** mit Reparaturvorschlag.
-- **Alternative Sachbeihilfe-Route**, falls Koselleck zu riskant.
-
-## Querverweise
-
-- Programmstrategie: `dfg-foerderstrategie-schnell-oder-gross`
-- Formalia für die Antragsmechanik: `dfg-sachbeihilfe-elan-formalia`
-- Projektbeschreibung (anderer Stil als SB!): `dfg-projektbeschreibung-arbeitsprogramm`
-- Reviewer-Brille: `dfg-reviewer-red-team`
-
 ## Quellen Stand 05/2026
 
 - DFG-Programmseite Reinhart-Koselleck-Projekte: dfg.de
@@ -188,3 +158,4 @@ Kaltstartfragen:
 - DFG-Verfahrensordnung — Antragsvoraussetzungen am Einreichtag live prüfen.
 
 Bei Koselleck-Anträgen ist das vorbereitende Telefonat mit der DFG-Fachgebietsleitung besonders wichtig — sie geben offen Auskunft, ob das Vorhaben programmtauglich aussieht.
+

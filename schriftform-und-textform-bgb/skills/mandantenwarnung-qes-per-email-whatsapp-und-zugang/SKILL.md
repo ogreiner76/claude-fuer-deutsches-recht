@@ -5,10 +5,6 @@ description: "Mandantenwarnung Qes Per Email Whatsapp Und Zugang: ordnet Normen,
 
 # Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis
 
-## Arbeitsbereich
-
-Mandantenwarnung Qes Per Email Whatsapp Und Zugang: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -169,10 +165,3 @@ Löschen Sie die Datei NICHT, bevor wir sie geprüft haben.
 - **Fehlende qES erkannt**: Wenn das PDF keine prüfbare qES enthält, ist die Schriftform nicht gewahrt — Kündigung formunwirksam. Diesen Einwand unverzüglich gegenüber dem Vermieter erheben.
 - **Frist versäumt durch Ignorieren der E-Mail**: Selbst wenn der Mieter die E-Mail nicht gelesen hat, beginnt die Frist für ggf. erforderliche Handlungen ab Zugang zu laufen.
 
-## Querverweise
-
-- → `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`
-- → `wohnraummiete-kuendigung-paragraph-568-bgb`
-- → `elektronische-form-paragraph-126a-bgb-qes`
-- → `dokumentations-und-beweisarchitektur`
-- → `mandantenkorrespondenz-form-und-zugang-templates`

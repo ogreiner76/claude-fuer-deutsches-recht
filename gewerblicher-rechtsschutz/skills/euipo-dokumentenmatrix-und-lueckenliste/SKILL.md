@@ -5,10 +5,6 @@ description: "EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmark
 
 # Spezial: EUIPO – Dokumentenmatrix und Lückenliste
 
-## Arbeitsbereich
-
-EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -118,16 +114,10 @@ Bei älterer Marke mit > 5 Jahren Eintragung verlangt der Markeninhaber Benutzun
 5. **Prioritätsnachweis zu spät:** Frist 3 Monate ab Anmeldedatum; nicht nachholbar.
 6. **Zeichenabbildung ungeeignet:** Bei Farbmarke: Farbangabe nach Pantone/RGB erforderlich.
 
-## Quellenregel
-
-- VO (EU) 2017/1001 (EUTMR): [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32017R1001)
-- EUIPO-Leitlinien: [euipo.europa.eu/en/trade-marks/trade-mark-guidelines](https://www.euipo.europa.eu/en/trade-marks/trade-mark-guidelines)
-- EUIPO eFiling: [euipo.europa.eu](https://www.euipo.europa.eu)
-- Keine BeckRS-Blindzitate; aktuelle Gebühren und Fristen über EUIPO-Website prüfen.
-
 ## Anschluss-Skills
 
 - `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Verfahren
 - `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
 - `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
 - `markenrecherche` – Kollisionsrecherche vor Anmeldung
+

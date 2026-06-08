@@ -5,10 +5,6 @@ description: "Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronisch
 
 # NKR-Handelsregister und elektronische Zustellung
 
-## Arbeitsbereich
-
-Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -147,14 +143,6 @@ Ersparnis: rund **240 Mio EUR jaehrlich**.
 - Mehrere Standards parallel ohne Schnittstellen-Spezifikation
 - Konsequenz Loeschung aus Handelsregister ohne Abstufung
 
-## Querverweise
-
-- `nkr-digitalcheck-und-onlinezugangsgesetz-ozg`
-- `nkr-eu-richtlinien-umsetzung-und-goldplating`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-praktikabilitaet-vollzug-test`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - HGB; HRV in der jeweils geltenden Fassung
@@ -167,3 +155,4 @@ Ersparnis: rund **240 Mio EUR jaehrlich**.
 - Statistisches Bundesamt — Unternehmensregister
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.destatis.de](https://www.destatis.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundesjustizportal.de](https://www.handelsregister.de)
+

@@ -89,9 +89,6 @@ Dann zu `formulierungshilfe-bauen` routen, aber als Antrag/Entschließungsantrag
 
 Art. 70-74 GG — Art. 76-78 GG — Art. 80 GG — Art. 28 Abs. 2 GG — Art. 31 GG — Art. 1 Abs. 3 GG — Art. 93 Abs. 1 Nr. 2 GG — Art. 100 GG — Art. 288 AEUV — GO-BT — jeweilige Landesverfassung und Landtags-GO
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 - Entscheidung institutionelle Startbahn
@@ -105,3 +102,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Goldplating durch Wahl der falschen Ebene (Bund regelt, was Land regeln duerfte): prüfen unter `goldplating-vermeiden`
 - Wesentlichkeitstheorie wird oft übersehen, wenn das Ministerium "schnell per VO" regeln will
 - Subsidiaritaetsprinzip EU bei Kompetenzfragen mitdenken
+

@@ -77,12 +77,6 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung § 50c Abs. 3 EStG nachtraeglich (Frist vier Jahre nach Ablauf des Kalenderjahres der Steuerentstehung); Antraege ueber BZSt-Online-Portal (BOP). Anlage: bulgarische Ansaessigkeitsbescheinigung der NRA (National Revenue Agency).
 
-## Output
-
-- Mandanten-Memo.
-- Berechnungsbeispiel CFC-Hinzurechnung.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Niedrigste EU-KSt 10 Prozent: CFC-Hinzurechnung praktisch immer pruefen.
@@ -155,12 +149,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Bulgarien 2010 mit Aenderungsprotokoll Fundstellen, BMF-Schreiben verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rumaenien`, `stb-dba-ungarn`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Bulgarien 25.01.2010, in Kraft 21.12.2010 (BGBl. 2010 II S. 1286). Aenderungsprotokoll 21.07.2022 in Kraft 13.12.2023 (BGBl. 2023 II Nr. 213). MLI-Status: nicht als Covered Tax Agreement im deutschen BEPS-MLI-Anwendungsgesetz gelistet (Stand 01.01.2026). Dividenden 5/15 Prozent, Zinsen 5 Prozent, Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2010 II S. 1286; Aenderungsprotokoll 2022 ergaenzt; MLI-Status geklaert; Quellensteuer-Saetze bestaetigt; BMF-Schreiben neu formuliert), 0 gestrichen -->
+

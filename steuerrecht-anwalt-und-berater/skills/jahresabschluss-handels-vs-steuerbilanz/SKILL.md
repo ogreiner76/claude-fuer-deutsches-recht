@@ -100,12 +100,6 @@ JAHRESERGEBNIS HANDELSBILANZ [X]
 - Steueroptimierung diskutieren.
 - Bei wesentlichen Wahlrechten Mandantenwahl dokumentieren.
 
-## Output
-
-- Handelsbilanz und Steuerbilanz (oder Ueberleitungsrechnung).
-- E-Bilanz uebermittelt.
-- Mandantengespraech ueber Wahlrechte.
-
 ## Strategie und Praxis-Tipps
 
 - Bei kleinen Mandanten oft Einheitsbilanz (Steuerbilanz = Handelsbilanz mit Wahlrechten gleichgesetzt).
@@ -113,13 +107,6 @@ JAHRESERGEBNIS HANDELSBILANZ [X]
 - IAB § 7g EStG ist gestaltungsstark — bei Investitionen pruefen.
 - Bei Pensionsrueckstellungen erhebliche Differenzen — Mandant erklaeren.
 - E-Bilanz-Taxonomie jaehrlich anpassen.
-
-## Querverweise
-
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-jahresabschluss-rueckstellungen-bewertung` — Rueckstellungen.
-- `stb-jahresabschluss-anlagenverzeichnis-afa` — AfA.
-- `stb-jahresabschluss-elektronische-uebermittlung-ebilanz` — E-Bilanz.
 
 ## Quellen und Updates
 
@@ -133,10 +120,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 3 bestaetigt (§ 7g 40% stabil, IAB 50% stabil, E-Bilanz Taxonomie 6.9 recherchiert) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

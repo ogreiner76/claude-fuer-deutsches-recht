@@ -5,10 +5,6 @@ description: "Drohnenbetreiber erhaelt LBA oder Landesbehoerden-Auflage nach Dro
 
 # Drohne – Sicherheitsauflage bewerten
 
-## Arbeitsbereich
-
-Drohnenbetreiber erhaelt LBA oder Landesbehoerden-Auflage nach Drohnenvorfall oder Routineinspektion. Prueft EU-VO 2019/947 LuftVG § 21a Verhaeltnismaessigkeit der Auflage und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ EU-VO 2019/947 LuftVG § 21a EU-VO 785/2004 VwVfG § 36 – die einschlägigen N
 - **LuftVG § 21e**: Nationales UAS-Register; Registrierungspflicht ab 250 g.
 - **LuftVO § 21b**: Betriebsverbote und Beschränkungszonen; Kontrollluftraum.
 - **EASA Easy Access Rules for UAS**: Konsolidierte Fassung aller UAS-Verordnungen.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -56,6 +53,7 @@ EU-VO 2019/947 LuftVG § 21a EU-VO 785/2004 VwVfG § 36 – die einschlägigen N
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist Betriebskategorie (offen/spezifisch/zertifiziert) korrekt eingestuft (EU-VO 2019/947 Art. 5)?
 8. Liegt für spezifische Kategorie ein genehmigter SORA-Risikoplan vor?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -74,9 +72,6 @@ Sicherheitsauflagen im Luftrecht müssen auf Verhältnismäßigkeit und Rechtsgr
 - **Verhältnismäßigkeit**: BVerfG-Rechtsprechung zu Grundrechtseingriffen; Einschränkung der Berufsfreiheit (Art. 12 GG) nur durch geeignete erforderliche und angemessene Maßnahme.
 - **Eilrechtsschutz**: § 80 Abs. 5 VwGO bei sofortigem Vollzug; Interessenabwägung Sicherheitsinteresse vs. Eingriff.
 
-## Output
-
-Strukturierter Vermerk zu Drohne – Sicherheitsauflage bewerten mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. Betriebsgenehmigungsmatrix nach Kategorie. SORA-Risikoanalyse-Template.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -106,3 +101,4 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

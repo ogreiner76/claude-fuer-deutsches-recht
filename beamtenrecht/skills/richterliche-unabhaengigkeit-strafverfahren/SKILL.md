@@ -51,13 +51,7 @@ Dienstaufsicht umfasst Vorhalt und Ermahnung, soweit die Unabhängigkeit nicht b
 - Vergleichbarkeit mit anderen Dezernaten;
 - Geschäftsanfall und Personal-/Krankheitslage.
 
-## Output
-
-- Antrag an das Richterdienstgericht auf Feststellung einer unzulässigen Maßnahme.
-- Erwiderung der Gerichtsverwaltung.
-- internes Memo für Präsidium/Präsident.
-- Mandantenbrief in verständlicher Sprache.
-
 ## Rechtsprechungsanker
 
 BVerfG 11.11.2021 - 2 BvR 1473/20 zur Dienstaufsicht und Erledigungsleistung; BVerfG 09.05.1962 - 2 BvL 13/60 und weitere Grundlagen zu Art. 97 GG. Vor Zitat immer Quelle prüfen.
+

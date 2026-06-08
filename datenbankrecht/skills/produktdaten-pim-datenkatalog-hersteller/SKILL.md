@@ -5,10 +5,6 @@ description: "Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §�
 
 # Produktdaten, PIM-Systeme und Datenkataloge — Datenbankrecht für Hersteller
 
-## Arbeitsbereich
-
-Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältnis zu § 4 UrhG (Datenbankwerk). Analysiert Inhaberschaft bei arbeitsteilig erstellten Produktdatenbanken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG
 - AGB-Weiterverwendungsverbote ohne hinreichende Bestimmtheit sind nach § 307 BGB unwirksam.
 - Produktdaten aus Drittquellen (z. B. GS1-Datenbanken) können eigene Schutzrechte Dritter tragen — Lizenzprüfung nötig.
 
-## Output
-
-- Datenbankherstellerrecht-Gutachten für Produktkatalog
-- Produktdaten-Lizenzvertrag mit Weiterverwendungsverbot-Klausel
-- Inhaberschafts-Matrix für arbeitsteilig erstellte PIM-Datenbanken
-- Abmahnschreiben bei unerlaubter Katalogübernahme
-- Feed-Lizenz-AGB-Vorlage mit Preisvergleichsportal-Ausschluss
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG
 - [§ 31 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
 - [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

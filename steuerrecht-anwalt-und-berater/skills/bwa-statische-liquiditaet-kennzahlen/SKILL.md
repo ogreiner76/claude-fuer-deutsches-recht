@@ -109,12 +109,6 @@ Die Schwellenwerte sind Branchenrichtwerte und vor dem Mandantengespraech mit ak
 - Liquiditaets-Kennzahlenblatt im Quartalsbericht.
 - Bei Krisensignalen Querverweis stb-liquiditaetsvorschau-3wochen und stb-bwa-sus-bilanz-pruefung.
 
-## Output
-
-- Liquiditaets-Kennzahlenblatt mit Ampel.
-- Erlaeuterungstext.
-- Empfehlungen zur Liquiditaetssteuerung.
-
 ## Strategie und Praxis-Tipps
 
 - Statische Kennzahlen sind Schnappschuss — bei Krisensignalen IMMER dynamische Liquiditaetsplanung ergaenzen.
@@ -122,14 +116,6 @@ Die Schwellenwerte sind Branchenrichtwerte und vor dem Mandantengespraech mit ak
 - Kreditlinien-Ausnutzung mit dokumentieren — "verfuegbare Reserve" ist Steuerungsgroesse.
 - StBVV: Standardkennzahlen pauschaliert, dynamische Liquiditaetsplanung als Zusatzauftrag.
 - DATEV-Tipp: Kennzahlen-Modul mit Standard-Liquiditaetsformeln; bei individuellen Branchen-Schwellen Anpassung.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-bwa-kennzahlen-rentabilitaet-eigenkapital` — Rentabilitaet.
-- `stb-liquiditaetsvorschau-3-6-12-monate` — dynamische Liquiditaetsplanung.
-- `stb-liquiditaetsvorschau-3wochen` — § 17 InsO-Pruefung.
-- `stb-bwa-sus-bilanz-pruefung` — Krisensignale.
 
 ## Quellen und Updates
 
@@ -143,3 +129,4 @@ Stand: 05/2026.
 - BBE-Branchenkennzahlen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BGH IX ZR 123/04, BGHZ 163, 134 bestaetigt), 1 ersetzt (Daumenregel-Hinweis ohne Marker neu formuliert) -->
+

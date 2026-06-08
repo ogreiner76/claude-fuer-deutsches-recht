@@ -5,10 +5,6 @@ description: "Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: s
 
 # Workflow: Red-Team Quality Gate
 
-## Arbeitsbereich
-
-Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: systematischer letzter Check vor Abgabe von Schriftsätzen, Memos, Abmahnungen und Entscheidungsvorlagen. Sechs Qualitätsstufen, Freigabe-Entscheidung und Dokumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: systematischer 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill ist das **letzte Qualitätstor** vor der Abgabe eines Dokuments – Schriftsatz, Abmahnung, Memo, Entscheidungsvorlage oder Mandantenbrief. Er stellt sicher, dass das Dokument formal korrekt, materiell belastbar, quellengestützt und frei von blinden Flecken ist.
-
-Mandatsbezug: Anwalt hat EV-Antrag fertiggestellt und will ihn vor Einreichung einem systematischen Review unterziehen. Oder: Kanzlei-Qualitätssicherung prüft alle ausgehenden Abmahnschreiben durch den Quality-Gate-Prozess.
 
 ## Quality-Gate: Sechs Stufen
 
@@ -144,15 +134,10 @@ Wenn alle vier Punkte grün: Notfall-Freigabe mit Vorbehalt.
 - Schutzrecht abgelaufen (Abmahnung ohne Grundlage).
 - Verjährung übersehen.
 
-## Quellenregel
-
-- [§ 920 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/920.html) (Glaubhaftmachung EV)
-- [§ 890 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/890.html) (Ordnungsmittel)
-- Keine BeckRS-Blindzitate; jede Rechtsprechung live verifizierten.
-
 ## Anschluss-Skills
 
 - `spezial-source-red-team-und-qualitaetskontrolle` – Detailliertes Red-Team
 - `workflow-rechtsquellen-livecheck` – Quellenprüfung
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweisführung
 - `workflow-output-waehlen` – Outputformat
+

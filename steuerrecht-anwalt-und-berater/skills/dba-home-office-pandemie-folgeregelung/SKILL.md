@@ -80,12 +80,6 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 1. Anlage N-AUS mit Aufteilung.
 2. Bei zusaetzlichem Arbeitszimmer: § 9 Abs. 5 EStG-Pruefung.
 
-## Output
-
-- **Konsultationsvereinbarungen-Check** je Vertragsstaat.
-- **Home-Office-Tage-Berechnung**.
-- **Mandanten-Memo** zu Risiko Statuswechsel.
-
 ## Strategie und Praxis-Tipps
 
 - Konsultationsvereinbarungen sind nicht alle als Dauerregelungen bestehen geblieben — Stichtag für Anwendbarkeit beachten.
@@ -157,22 +151,9 @@ Sachverhalt: Grenzgaenger Wohnsitz DE, Arbeitsort Luxemburg, 200 Arbeitstage/Jah
 | 9 | § 34c EStG-Anrechnung pruefen | [...] |
 | 10 | Bei Doppelbesteuerung: MAP Art. 25 MA | [...] |
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`.
-- `stb-dba-grenzgaenger-frankreich-vor-allem-elsass`, `stb-dba-grenzgaenger-schweiz-60-tage-rueckkehr`, `stb-dba-grenzgaenger-oesterreich-rueckkehr` — Grenzgaenger-Detail.
-- `stb-dba-luxemburg-2012`, `stb-dba-niederlande-2012`, `stb-dba-belgien` — landesspezifisch.
-
 ## Quellen und Updates
 
 Stand: 05/2026. Konsultationsvereinbarungen Home-Office DE-CH, DE-AT, DE-LU (Aend.-Prot. 06.07.2023, BGBl. 2023 II Nr. 334), DE-NL, DE-FR, DE-BE (Pandemie 2020/2021 und Folgeregelungen). Aktualitaet jeder Vereinbarung, Toleranzschwellen und Anwendungszeitraeume im jeweiligen BMF-Schreiben vor Anwendung pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 belegt (DBA-LU Aend.-Prot. 06.07.2023 BGBl. 2023 II Nr. 334 bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

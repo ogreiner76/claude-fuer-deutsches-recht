@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, E
 
 # Bodenreform und Vermoegensrecht (1945-1990)
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen ohne Entschaedigung, Fortgeltungsausschluss im Einigungsvertrag 1990 und BVerfGE 84-90 als Grundsatzentscheidung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -69,12 +65,3 @@ Die Bodenreform in der Sowjetischen Besatzungszone (SBZ) 1945-49 enteignete Guts
 - EGMR Jahn v. Germany (2005): ECHR-Datenbank (hudoc.echr.coe.int)
 - Bodenreform-Dokumente: SMAD-Befehl Nr. 209 im Bundesarchiv (Bestand DY 30)
 
-## Output
-
-- Chronologische Darstellung Bodenreform 1945-49 und rechtliche Folgen
-- BVerfGE 84, 90 und 94, 12: Kernaussagen und Kritikpunkte
-- EGMR-Entscheidung Jahn v. Germany: Verhaltnis zu deutschem Verfassungsrecht
-
-## Quellenregel
-
-BVerfGE: bverfg.de. VermG: gesetze-im-internet.de. Einigungsvertrag Anlage III: BGBl. II 1990. EGMR: hudoc.echr.coe.int. Bundesarchiv für SMAD-Befehle: invenio.bundesarchiv.de.

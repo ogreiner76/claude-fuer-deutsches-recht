@@ -59,14 +59,6 @@ Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und 
 - Datenübertragungsrecht (Art. 20 DSGVO) kann faktisch zur Herausgabe wesentlicher Datenbankteile zwingen — Rechte abwägen.
 - Anonymisierte Daten unterliegen nicht mehr der DSGVO, können aber weiterhin Datenbankschutz genießen.
 
-## Output
-
-- Doppelschutz-Karte: DSGVO-Rechtsgrundlage + UrhG-Datenbankschutz je Datenkategorie
-- Betroffenenrechte-ohne Preisgabe der Datenbankstruktur
-- Privacy-by-Design-Checkliste für Datenbankarchitektur
-- Auftragsverarbeitungsvertrag-Klausel zum Datenbankherstellerrecht
-- DSGVO-Datenschutz-Folgenabschätzungs-Vorlage für personenbezogene Datenbanken
-
 ## Quellen
 
 - [Art. 4 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/4.html)
@@ -75,3 +67,4 @@ Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und 
 - [Art. 25 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/25.html)
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

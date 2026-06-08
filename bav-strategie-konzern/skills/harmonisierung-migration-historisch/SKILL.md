@@ -5,10 +5,6 @@ description: "bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmoni
 
 # Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen
 
-## Arbeitsbereich
-
-bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,6 +32,7 @@ bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und mig
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Vorgehen
 
 ### Schritt 1: Ausgangslage — Typische Harmonisierungsszenarien
@@ -187,3 +184,4 @@ Mit freundlichen Grüßen
 - → `drei-stufen-theorie-eingriffsanalyse` — Rechtfertigungsanalyse je Maßnahme
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Mitbestimmungsverfahren
 - → `kollektivrechtliche-loesungen-und-sozialplan` — Begleitmaßnahmen Sozialplan
+

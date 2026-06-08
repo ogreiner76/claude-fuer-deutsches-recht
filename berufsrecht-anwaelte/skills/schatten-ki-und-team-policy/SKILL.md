@@ -55,10 +55,3 @@ Frage knapp ab:
 5. **Vorfälle:** Meldeschiene an IT, Datenschutz, Berufsrecht, Mandatsverantwortliche; Sofortstopp bei Geheimnisabfluss.
 6. **KI-Kompetenz:** Schulung nicht als Folienfriedhof, sondern mit echten Kanzleifällen: falsches Zitat, Prompt-Injection, versehentlicher Upload, Drittstaatfrage.
 
-## Output
-
-Erzeuge eine Kanzleiweisung in drei Schichten:
-
-- **Ein-Seiten-Regel** für alle Mitarbeitenden
-- **Freigabeformular** für neue Tools
-- **Incident-Runbook** für versehentliche Uploads oder unklare Anbieterzugriffe

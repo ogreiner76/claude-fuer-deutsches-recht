@@ -5,9 +5,6 @@ description: "Cyber Datenschutz im Plugin Fachanwalt It Recht: prüft konkret Cy
 
 # Cyber Datenschutz
 
-## Arbeitsbereich
-
-**Cyber Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack, Datenschutz-Folgenabschaetzung DSFA nach Art, KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Cyber Datenschutz im Plugin Fachanwalt It Recht: prüft konkret Cy
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen`
@@ -728,10 +726,6 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 
 ### Open-Source-Compliance-Audit
 
-## Zweck
-
-Prüfung der OSS-Lizenz-Konformität — vor Produkt-Launch, vor M&A-Due-Diligence, bei Verletzungs-Vorwurf.
-
 ## 1) Eingangs-Abfrage
 
 1. Eigenes Produkt mit OSS-Komponenten?
@@ -980,9 +974,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Bundeskartellamt / Vergabekammer bei öffentlichen IT-Aufträgen.
 - BfDI und Landesdatenschutzbehörden.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Davit Deutscher Anwaltverein IT-Recht.
@@ -1024,3 +1015,4 @@ Fristen im Blick:
 
 Anschlusskills: [LISTE WEITERFÜHRENDER SKILLS]
 ```
+

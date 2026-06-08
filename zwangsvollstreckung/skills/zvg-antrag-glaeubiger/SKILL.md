@@ -17,10 +17,6 @@ Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners verst
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Vollstreckung in das Grundstück. Wird in der Regel parallel zur PfÜB betrieben. Dieser Skill steuert ausschließlich die Gläubigerseite; der Schwesterskill `zwangsverwaltung-zvg` betrifft die Verwalterperspektive.
-
 ## Startet bei
 
 - Titel + Klausel + Zustellung grün
@@ -96,10 +92,3 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Bei Insolvenz § 30d ZVG mitdenken.
 - Bei selbstgenutztem Wohneigentum § 765a ZPO mit Härtefall-Vortrag rechnen.
 
-## Querverweise
-
-- `zv-notarielle-urkunde-grundschuld`
-- `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt` (parallel)
-- `zwangsverwaltung-zvg` – Verwalterperspektive (anderes Plugin)
-- `zv-abwehr-schuldner`
-- `insolvenzforderungsanmeldungspruefung/ifap-tabellenauszug-178`

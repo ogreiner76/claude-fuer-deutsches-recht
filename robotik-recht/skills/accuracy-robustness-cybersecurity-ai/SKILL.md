@@ -89,14 +89,6 @@ Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskompon
 - **AMR im Lager.** Verwechselt Schatten mit Hindernis. Maßnahmen: Kombiniere LiDAR und Tiefenkamera; Kalibrierung bei Tageslicht; Heuristik gegen ground-shadow.
 - **Service-Roboter mit Sprachsteuerung.** Prompt-Injection beim GenAI-Layer. Maßnahmen: Allowlist physischer Aktionen, Two-Person-Confirmation für sicherheitsrelevante Bewegungen.
 
-## Querverweise
-
-- `cra-produkt-mit-digitalen-elementen`
-- `datensatzqualitaet-und-bias-hri`
-- `agile-entwicklung-und-compliance-gates`
-- `betreiber-mitverschulden-und-fehlbedienung`
-- `data-act-roboterdaten`
-
 ## Eskalationspfad bei Sicherheitsvorfall
 
 1. **Sofort (T+0 bis T+1h)**: Stillstand, Sicherheitsraum sichern, Verletzte versorgen, Behörden bei Personenschaden.
@@ -128,3 +120,4 @@ Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskompon
 - VO (EU) 2024/2853 (neue ProdHaftRL).
 - ENISA, AI Threat Landscape, fortlaufend; BSI, Leitlinien zu KI-Cloud-Diensten.
 - Live-Verifikation in eur-lex.europa.eu und auf BSI-, BfDI-, EDPB-Seiten; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

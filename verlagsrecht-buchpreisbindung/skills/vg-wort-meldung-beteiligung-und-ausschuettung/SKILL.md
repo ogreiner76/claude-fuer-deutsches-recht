@@ -5,10 +5,6 @@ description: "VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen
 
 # Verl-017 · VG Wort: Meldung, Beteiligung und Ausschüttung
 
-## Arbeitsbereich
-
-VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen, Wahrnehmungsvertrag, VGG §§ 27 ff. — Fristen, Verteilungsplan und Praxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -129,3 +125,4 @@ Die **VG Wort** (Verwertungsgesellschaft Wort) nimmt Vergütungsansprüche für 
 - **Verleger-Beteiligungscheck**: Vertragsklausel vorhanden / fehlt / reformbedürftig
 - **METIS-Melde-Entwurf**: Strukturiertes Formular für Online-Texte
 - **Jahresabschluss-Auswertung**: Tatsächliche Ausschüttungen vs. Erwartungen
+

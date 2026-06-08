@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensregister — freigegeben, bedingt oder nicht freigegeben — und erstellt Auflagenliste und nächste Schritte. Prüft gegen verbotene Praktiken (Art. 5 KI-VO) und Hochrisiko-Kategorien (Anhang III KI-VO). Lädt, wenn der Nutzer "KI-Anwendungsfall triage", "dürfen wir KI für X einsetzen", "ist das freigegeben" oder "Hochrisiko-KI klassifizieren" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -30,17 +26,6 @@ Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensregi
 - Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Das Gespräch stoppen, das als "Können wir nicht einfach KI dafür einsetzen?"
-beginnt. Schnelle, kalibrierte Antwort aus dem Register geben — und bei
-bedingter Freigabe die Auflagen konkret und den nächsten Schritt klar machen.
-
-Die Triage-Skill ist ein Eingangstor: klassifizieren, Erforderliches
-kennzeichnen, weiterleiten. Die Folgenabschätzungs-Skill erledigt die
-Tiefenarbeit. Pflichtprüfung vor allem anderen: Art. 5 KI-VO (verbotene
-Praktiken, ab 02.02.2025) und DSGVO Art. 22 (automatisierte Einzelentscheidung).
 
 ## Eingaben
 
@@ -152,12 +137,6 @@ abfragen; 1-seitigen Kurzüberblick für das Anwaltsgespräch generieren.
 | Betriebsrats-Beteiligung (§ 87 Abs. 1 Nr. 6 BetrVG) | [HR/Recht] | ☐ |
 
 **Governance-Stufe:** [Standard / Erhöht / Hoch]
-
-## Ausgabeformat
-
-Bei Einzel-Anwendungsfall: wie oben. Bei mehreren Anwendungsfällen:
-zuerst Übersichtstabelle (✅ Freigegeben / ⚠️ Bedingt / ❌ Nicht freigegeben
-+ Schlüssel-Blocker), dann Detailausführung für bedingte und abgelehnte.
 
 ## Beispiel
 

@@ -5,10 +5,6 @@ description: "Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtige
 
 # CBAM-Lieferantendaten: Emissionsermittlung beim Produzenten
 
-## Arbeitsbereich
-
-Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten: Anforderungen an Drittland-Produzenten für Berechnung eingebetteter direkter und indirekter Emissionen nach VO (EU) 2023/956. Lieferanten-Datenanforderung, Verifizierung durch akkreditierten Prufer und Notfallszenarien (Standardwerte). Output: Lieferanten-Datenanforderungspaket und Emissionsverifikationsprotokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtigen Lieferanten:
 - Standardwerte sind oft signifikant hoeher als reale Emissionen.
 - Produktionsprozessaenderungen beim Lieferanten erfordern Datenaktualisierung.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,12 +70,9 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Lieferanten-Datenanforderungsschreiben, Emissionsverifikationsprotokoll, Standardwert-Vergleichstabelle und CBAM-Bericht-Datenstruktur.
-
 ## Quellen
 
 - [VO (EU) 2023/956 Anhang IV auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0956)
 - [VO (EU) 2023/1773 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R1773)
 - [EU-Kommission CBAM-Leitlinien](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en)
+

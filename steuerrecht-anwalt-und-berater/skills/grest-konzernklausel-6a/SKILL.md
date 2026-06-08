@@ -11,10 +11,6 @@ description: "§ 6a GrEStG Konzernklausel prüfen: Umwandlung, Einbringung, herr
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Aufgabe
-
-Prüfe, ob eine konzerninterne Umstrukturierung von GrESt begünstigt sein kann. Der Skill eignet sich für Verschmelzung, Spaltung, Ausgliederung, Einbringung und vergleichbare konzerninterne Schritte.
-
 ## Mindestdaten
 
 1. Umstrukturierungsart und Stichtag.
@@ -32,14 +28,6 @@ Prüfe, ob eine konzerninterne Umstrukturierung von GrESt begünstigt sein kann.
 - Vorbehaltensfrist erfüllt oder wegen Umstrukturierungslogik entbehrlich?
 - Nachbehaltensfrist realistisch?
 - Anzeige und Dokumentation gesichert?
-
-## Output
-
-- § 6a-Ampel.
-- Strukturdiagramm in Text.
-- Beleganforderung.
-- Risikovermerk für Vorstand/Geschäftsführung.
-- Entwurf für verbindliche Auskunft, wenn die Struktur unklar oder teuer ist.
 
 ## Rechtsprechung
 
@@ -73,3 +61,4 @@ Empfehlung: Bei Werten über 5 Mio. EUR Bemessungsgrundlage immer verbindliche A
 - Zwischenholding wird kurz vor der Umstrukturierung eingeschoben; Vorbehaltensfrist startet neu.
 - Nachbehaltensplanung in Folge-M&A vergessen; Verkauf der Tochter binnen fünf Jahren hebt Begünstigung auf.
 - Drittbeteiligungen unter 5 % werden ignoriert, obwohl Optionsrechte oder Stimmrechtsabreden die 95-%-Schwelle wirtschaftlich reißen.
+

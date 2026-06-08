@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Zahlungsbedingungen im international
 
 # Zahlungsbedingungen: Open Account und Trade Finance
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Zahlungsbedingungen im internationalen Handel. Open Account, Cash in Advance, Dokumenteninkasso (URC 522), Akkreditiv (UCP 600) und Bankgarantie (URDG 758) im Risikoranking. Zahlungsverzug (EU-ZahlungsverzugsRL 2011/7/EU). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Die Wahl der Zahlungsbedingung ist eine Risikozuweisung: Cash in Advance schütz
 - Akkreditiv: UCP 600 als Grundlage, eUCP für elektronische Dokumente
 - Zahlungsverzugs-Monitoring: Fälligkeitsdatum und 30-Tage-Frist dokumentieren
 
-## Output
-
-- Zahlungsbedingungen-Risikoranking (CIA bis OA)
-- Zahlungsverzug-Mahnschreiben-Muster (EU-RL-Zinsen)
-- Akkreditiv vs. Inkasso Entscheidungsmatrix
-
-## Quellenregel
-
-UCP 600: iccwbo.org. URC 522: iccwbo.org. EU-ZahlungsverzugsRL 2011/7/EU: eur-lex.europa.eu. CISG Art. 59: uncitral.un.org. Unsicherheit bleibt sichtbar.

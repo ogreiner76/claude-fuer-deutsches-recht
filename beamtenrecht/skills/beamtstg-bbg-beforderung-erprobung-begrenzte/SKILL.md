@@ -5,10 +5,6 @@ description: "Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderreg
 
 # BeamtStG, BBG und Landesrecht richtig abgrenzen
 
-## Arbeitsbereich
-
-Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -67,3 +63,4 @@ Wenn der Nutzer ein Aktenzeichen, eine Behördennorm oder eine Verwaltungsvorsch
 - Gibt es eine amtliche Quelle?
 - Ist das Zitat nur aus einer privaten Datenbank?
 - Wird eine Verwaltungsvorschrift fälschlich wie ein Gesetz behandelt?
+

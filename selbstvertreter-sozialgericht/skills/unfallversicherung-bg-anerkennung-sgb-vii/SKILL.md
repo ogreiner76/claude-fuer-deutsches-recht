@@ -142,22 +142,7 @@ Beklagte: BG am Sitz der BG (Sonderzuständigkeit nach § 57 Abs. 2 SGG). Beispi
 - Privater Arzt-Behandlung statt BG-Wege → Erstattung gefaehrdet
 - Wegeunfall-Definition (Umweg, Unterbrechung) zu locker
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch
-- `verpflichtungsklage-54-sgg` — Klage
-- `medizinische-gutachten-strategie-laien` — Gutachten
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB VII aktuell. BKV jaehrlich aktualisiert. BSG-Linie zu BK-Anerkennung detailliert in juris pruefen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

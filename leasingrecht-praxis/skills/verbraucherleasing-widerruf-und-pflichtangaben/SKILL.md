@@ -5,10 +5,6 @@ description: "Verbraucherleasing: §§ 506–509 BGB, Pflichtangaben, Widerrufsr
 
 # Verbraucherleasing: Pflichtangaben und Widerruf
 
-## Arbeitsbereich
-
-Verbraucherleasing: §§ 506–509 BGB, Pflichtangaben, Widerrufsrecht, Folgen fehlerhafter Angaben und Muster-Widerrufsbelehrung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Verbraucherleasing: §§ 506–509 BGB, Pflichtangaben, Widerrufsrecht, Folgen f
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Leasingverträge mit Verbrauchern unterliegen besonderen Anforderungen nach §§ 506–509 BGB. Fehlende Pflichtangaben führen zu Nichtigkeit einzelner Klauseln oder des gesamten Vertrages. Das Widerrufsrecht kann weit über 14 Tage hinaus laufen, wenn die Widerrufsbelehrung fehlerhaft ist. Dieser Skill systematisiert Pflichtangaben, Widerrufsrecht und Rechtsfolgen.
 
 ## Anwendungsbereich §§ 506–509 BGB
 
@@ -113,3 +105,4 @@ Verbraucherleasing über Internet/Telefon zusätzlich: §§ 312a ff. BGB (Fernab
 - **Widerrufsinformation-Muster**: Aktuelle Anlage 7 EGBGB
 - **Fehlerfolgen-Tabelle**: Fehlende Angabe – Rechtsfolge – Heilung möglich?
 - **Widerrufserklärung-Muster**: Für Verbraucher
+

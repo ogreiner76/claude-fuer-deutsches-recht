@@ -5,10 +5,6 @@ description: "Umwandlungsrecht: Verschmelzung, Spaltung, Ausgliederung, Formwech
 
 # Umwandlungsrecht
 
-## Arbeitsbereich
-
-Umwandlungsrecht: Verschmelzung, Spaltung, Ausgliederung, Formwechsel, Einbringung und Vorfeld-Carve-outs nach UmwG mit Normen, BGH-Rechtsprechung und Schritt-Workflow. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Umwandlungsrecht: Verschmelzung, Spaltung, Ausgliederung, Formwechsel, Einbringu
 ## Fachkern: Umwandlungsrecht
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **SPA/APA, Disclosure, Signing, Closing und Post-Closing-Mechanik**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Umwandlungsrecht
 
-## Zweck
-
-Bearbeitet Verschmelzung, Spaltung, Ausgliederung, Formwechsel, Einbringung und Vorfeld-Carve-outs nach Umwandlungsgesetz. Verzahnt notarielle Schritte, Registerpflichten, Arbeitnehmer- und Glaeubigerschutz mit dem M&A-Zeitplan.
-
 ## Triage — klaere vor Strukturentscheidung
 
 1. Welche Umwandlungsart ist geplant — Verschmelzung (§§ 2-38 UmwG), Spaltung/Ausgliederung (§§ 123-173 UmwG) oder Formwechsel (§§ 190-304 UmwG)?
@@ -145,9 +134,6 @@ Bearbeitet Verschmelzung, Spaltung, Ausgliederung, Formwechsel, Einbringung und 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Umwandlungstyp bestimmen:** Verschmelzung, Abspaltung, Ausgliederung, Formwechsel — massgeblich für Form und Gremien
@@ -209,3 +195,4 @@ Steuerl. Schlusspunkt UmwStG | Steuer [NAME] | [DATUM] | [ ]
 
 - assets/templates/umwandlungsrecht-checkliste.md
 - assets/templates/verschmelzung-spaltung-formwechsel-plan.md
+

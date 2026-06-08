@@ -5,10 +5,6 @@ description: "Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der 
 
 # Neuheit Und Erfinderischer Schritt
 
-## Arbeitsbereich
-
-Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffentliche Zugänglichkeit, Merkmalsgliederung und Angriffsfestigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der Technik, öffe
 ## Wann dieser Skill hilft
 
 Ein eingetragenes oder geplantes Gebrauchsmuster braucht Rechtsbestandsprüfung.
-
-## Arbeitsweise
-
-Arbeite mit Merkmalstabelle und Quellenbelegen; Eintragung beim DPMA ersetzt diese Prüfung nicht.
 
 ## Prüfpunkte
 
@@ -53,13 +45,10 @@ Arbeite mit Merkmalstabelle und Quellenbelegen; Eintragung beim DPMA ersetzt die
 3. Unterschiede zur Erfindung herausarbeiten.
 4. Bewertung ob erfinderischer Schritt erfuellt.
 
-## Output
-
-Rechtsbestandsmemo.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

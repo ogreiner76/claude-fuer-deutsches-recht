@@ -52,12 +52,7 @@ Die Notifikationspflicht ist untrennbar mit der Force-Majeure-Berufung verbunden
 - Inhalt: Ereignis beschreiben, Vertragspflichten benennen, voraussichtliche Dauer schätzen
 - Empfang sichern: Courier + E-Mail parallel; Zugangsbestätigung verlangen
 
-## Output
-
-- FM-Notifikationsschreiben-Muster (CISG und ICC-Klausel-konform)
-- Fristkalender (CISG unverzüglich vs. ICC 30 Tage)
-- Beweissicherungs-Checkliste
-
 ## Quellenregel
 
 CISG Art. 79: uncitral.un.org. PICC Art. 7.1.7: unidroit.org. ICC FM-Klausel 2020: iccwbo.org. BGB §§ 121, 286: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.
+

@@ -5,10 +5,6 @@ description: "Status-Lehre: status libertatis status civitatis status familiae a
 
 # Rom 151 Status Libertatis Status Civitatis Status Familiae
 
-## Aufgabe
-
-Skill für die roemische Status-Lehre.
-
 ## Drei Achsen
 
 ### Status libertatis
@@ -68,7 +64,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Status-Diagramm.

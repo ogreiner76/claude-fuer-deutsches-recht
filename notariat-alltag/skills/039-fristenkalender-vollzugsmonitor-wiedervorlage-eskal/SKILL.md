@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlag
 
 # Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage, Eskalation
 
-## Arbeitsbereich
-
-Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage und Eskalation. Systematisches Fristenmanagement im Notariat, Wiedervorlagepflichten und Eskalationsregeln bei drohenden Vollzugsblockaden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,3 +97,4 @@ Jeder Vorgang, der nicht vollständig abgeschlossen ist, erhält eine Wiedervorl
 - **Notar-Haftungswarnung** (bei verpasster kritischer Frist)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

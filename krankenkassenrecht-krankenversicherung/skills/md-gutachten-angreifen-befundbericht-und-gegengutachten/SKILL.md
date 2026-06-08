@@ -5,10 +5,6 @@ description: "Strategie zur Anfechtung von MDK/MD-Gutachten: Akteneinsicht, Qual
 
 # MD-Gutachten angreifen: Befundbericht und Gegengutachten
 
-## Arbeitsbereich
-
-Strategie zur Anfechtung von MDK/MD-Gutachten: Akteneinsicht, Qualitätsprüfung, Gegengutachten, prozessuale Sachverständigenfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,3 +92,4 @@ Ablehnungsbescheide der Krankenkasse stützen sich meist auf ein Gutachten des M
 - [BSG B 1 KR 29/13 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [AWMF Leitliniendatenbank](https://www.awmf.org/leitlinien.html)
 - [dejure.org § 275 SGB V](https://dejure.org/gesetze/SGB_V/275.html)
+

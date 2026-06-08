@@ -5,10 +5,6 @@ description: "Rechtliche Anforderungen bei grenzueberschreitender Bewegung von K
 
 # Kulturgutschutz: Einfuhr- und Ausfuhranforderungen für Kunstwerke und Antiquitaeten
 
-## Arbeitsbereich
-
-Rechtliche Anforderungen bei grenzueberschreitender Bewegung von Kulturguetern nach VO (EU) 2019/880 und KGSG: Importlizenz für archaeologische Gegenstande und Kunstwerke ab Schwellenwert, Ausfuhrgenehmigung nach KGSG, UNESCO-Konvention-Sorgfaltspflichten. Output: Kulturgut-Compliance-Pruefbericht und Antrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Rechtliche Anforderungen bei grenzueberschreitender Bewegung von Kulturguetern n
 - UNESCO-Verdachtslaender (Irak, Syrien, Libyen) erfordern erhoehte Due Diligence.
 - Schwellenwerte nach VO (EU) 2019/880 aendern sich bei Erweiterung der Kategorien.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Kulturgut-Compliance-Pruefbericht, Importlizenzantrag, Provenienz-Dokumentationsvorlage und ggf. KGSG-Ausfuhrantrag.
-
 ## Quellen
 
 - [VO (EU) 2019/880 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0880)
 - [KGSG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/kgsg/index.html)
 - [Zoll.de Kulturguter](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/Kulturgut/kulturgut_node.html)
 - [BKM Kulturgutschutz](https://www.bundesregierung.de/breg-de/suche/kulturgutschutz)
+

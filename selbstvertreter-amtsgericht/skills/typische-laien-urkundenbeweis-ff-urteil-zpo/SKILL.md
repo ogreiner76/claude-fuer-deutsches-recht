@@ -5,9 +5,6 @@ description: "Typische Laien Urkundenbeweis FF Urteil ZPO im Selbstvertretung am
 
 # Typische Laien Urkundenbeweis FF Urteil ZPO
 
-## Arbeitsbereich
-
-**Typische Laien Urkundenbeweis FF Urteil ZPO** ordnet den Fall über die tragenden Prüfungslinien: Die häufigsten Fehler von Buergern in der Selbstvertretung, Urkundenbeweis nach §§ 415 ff, Prüfung des schriftlichen Urteils nach § 313 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Typische Laien Urkundenbeweis FF Urteil ZPO im Selbstvertretung am
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `typische-laien-fehler`
@@ -135,23 +133,9 @@ Gegenmassnahme: Vor LG Anwaltszwang. Skill `berufung-amtsgericht-511-zpo`, `wann
 - "Ich kenne die Fehler — daher mache ich sie nicht." → Routine fuehrt zu Unaufmerksamkeit.
 - "Ich pruefe nur einmal." → Doppelpruefung schuetzt.
 
-## Querverweise
-
-- `orientierung-selbstvertreter-amtsgericht` — Einstieg.
-- Alle Skills, die als Querverweise im jeweiligen Fehler-Punkt genannt sind.
-- `wann-doch-anwalt-grenzfaelle` — Bei komplexen Faellen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Skill.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `urkundenbeweis-415-ff-zpo`
 
@@ -276,24 +260,9 @@ Originale aufbewahren — auch nach Klageeinreichung. Im Termin kann das Gericht
 - "Screenshot WhatsApp ist Top-Beweis." → Authentizitaet kann bestritten werden.
 - "Vertrag muendlich, Email reicht." → Email kann Urkunde sein, aber pruefen.
 
-## Querverweise
-
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweisangebot.
-- `zeugenbeweis-373-ff-zpo` — Zeuge.
-- `klageschrift-anlagen-bezeichnen` — Anlagen.
-- `beweislast-grundregel-wer-was` — Beweislast.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 415 ff., 371a ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `urteil-pruefen-313-zpo`
 
@@ -442,22 +411,7 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 - "Berichtigung beantragen bei kleinen Fehlern." → Substanzfehler beantragen.
 - "Berufung kann immer eingelegt werden." → Streitwertgrenze beachten.
 
-## Querverweise
-
-- `urteilsverkuendung-310-zpo` — Verkuendung.
-- `berufung-amtsgericht-511-zpo` — Berufung.
-- `rechtsmittelfrist-517-zpo` — Frist.
-- `urteil-rechtskraft-705-zpo` — Rechtskraft.
-- `kostenfestsetzung-103-104-zpo` — Kostenfestsetzung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 313, 320, 321 ZPO unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

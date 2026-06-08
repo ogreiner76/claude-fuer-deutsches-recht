@@ -5,10 +5,6 @@ description: "Römisches Recht: Kauf Emptio Venditio. Geführter Fachmodul mit Q
 
 # Kauf Emptio Venditio
 
-## Arbeitsauftrag
-
-Dieser Skill bearbeitet **Kauf Emptio Venditio** im Plugin **Römisches Recht**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
-
 ## Sofortsortierung
 
 1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studierende oder Laie.
@@ -37,17 +33,6 @@ Dieser Skill bearbeitet **Kauf Emptio Venditio** im Plugin **Römisches Recht**.
 - Quellen- und Belegmatrix
 - Risikoampel mit nächstem Schritt
 - Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
-
-## Red-Team-Fragen
-
-- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
-- Wird ein aktueller Live-Check übersprungen?
-- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
-- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
-
-## Quellenregel
-
-Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
 
 ## Meat on the Bone — Konkreter roemisch-rechtlicher Stoff
 
@@ -78,3 +63,4 @@ Sachverhalt: A kauft Pferd; nach 3 Wochen lahmt es; bei Kauf bereits krank, aber
 Sachverhalt: A kauft Sklave von B; spaeter klagt C als wahrer Eigentuemer.
 - **Roemisch**: actio auctoritatis (bei mancipatio) bzw. stipulatio duplae (Kaufversprechen mit Stipulation auf doppelten Kaufpreis bei Eviktion). D. 21.2 De evictionibus.
 - **BGB**: § 435 BGB Rechtsmangel; § 437 BGB Mangelrechte; § 311a BGB anfaengliche Unmoeglichkeit.
+

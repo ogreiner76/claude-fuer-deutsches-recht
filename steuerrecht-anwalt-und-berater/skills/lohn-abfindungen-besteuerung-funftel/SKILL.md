@@ -92,12 +92,6 @@ Die Fuenftel-Regelung mindert die Steuerprogression — bei vollstaendiger Wirku
 - Achtung Reform: Mit dem Wachstumschancengesetz wurde der Lohnsteuer-Abzug der Fuenftel-Regelung im Lohnsteuer-Verfahren ab 2025 gestrichen (Verifikation 2026 ueber aktuelles BMF-Schreiben zur Lohnsteuer-Ermittlung); seither erfolgt die Fuenftel-Anwendung nur noch in der Veranlagung beim AN. AG sollte AN zur Einkommensteuererklaerung anhalten.
 - LSt-Bescheinigung in Zeile 10 ("Ermaessigt besteuerter Arbeitslohn für mehrere Jahre") — gilt für die Zuordnung zur Kennzahl; konkretes Feld bei jedem LSt-Update pruefen (Bescheinigungsmuster BMF).
 
-## Output
-
-- Lohn-Abrechnung mit ermaessigter Besteuerung.
-- LSt-Bescheinigung Zeile 10.
-- Beratungsnotiz zu Auszahlungs-Optimierung.
-
 ## Strategie und Praxis-Tipps
 
 - Verschiebung in Folgejahr fast immer steuerlich vorteilhaft, wenn AN im Folgejahr weniger verdient.
@@ -106,12 +100,6 @@ Die Fuenftel-Regelung mindert die Steuerprogression — bei vollstaendiger Wirku
 - SV-Frei nur bei echter Entschaedigung — schon im Aufhebungsvertrag korrekt formulieren.
 - StBVV: Sonderlohn-Berechnung Zeithonorar oder Pauschale.
 - DATEV-Tipp: DATEV LODAS Lohnart "Ermaessigte Besteuerung" mit automatischer Fuenftel-Berechnung.
-
-## Querverweise
-
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
-- `stb-lohn-lohnsteuer-monatsabschluss` — Monatsabschluss.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
 
 ## Quellen und Updates
 
@@ -125,3 +113,4 @@ Stand: 05/2026.
 - Wachstumschancengesetz vom 27.03.2024 (BGBl. 2024 I Nr. 108): Streichung der Fuenftel-Regelung im Lohnsteuer-Abzugsverfahren ab dem Veranlagungszeitraum 2025; Anwendung der Fuenftel-Regelung nur noch in der Veranlagung beim AN.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 0 bestaetigt (Fundstelle/Datum), 4 ersetzt (Hinweis auf Pruefung in amtliche/freie Quellen oder lizenzierte Datenbanken neu formuliert) -->
+

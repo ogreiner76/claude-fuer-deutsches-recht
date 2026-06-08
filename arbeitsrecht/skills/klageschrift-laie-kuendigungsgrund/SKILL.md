@@ -5,9 +5,6 @@ description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht:
 
 # Kueschk Klageschrift Laie Kuendigungsgrund
 
-## Arbeitsbereich
-
-**Kueschk Klageschrift Laie Kuendigungsgrund** ordnet den Fall über die tragenden Prüfungslinien: Bauklastenartige Klageschrift für Laien, Drei Kündigungsgründe nach § 1 Abs, Praxistipps für Laien in der muendlichen Verhandlung beim. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht:
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kueschk-klageschrift-laie-baustein`
@@ -63,9 +61,6 @@ description: "Kueschk Klageschrift Laie Kuendigungsgrund im Plugin Arbeitsrecht:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck
 
 Dieser Skill erzeugt eine ausfüllbare Klageschrift-Vorlage für Arbeitnehmer ohne Rechtsanwalt. In der ersten Instanz vor dem Arbeitsgericht besteht kein Anwaltszwang (§ 11 Abs. 1 ArbGG). Die Klageschrift kann auch direkt zu Protokoll des Urkundsbeamten der Geschäftsstelle erklärt werden (§ 46 Abs. 2 ArbGG i.V.m. § 496 ZPO a.F.).
@@ -195,10 +190,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-§ 1 Abs. 2 KSchG lässt ordentliche Kündigungen nur zu, wenn sie sozial gerechtfertigt sind. Die soziale Rechtfertigung setzt einen von drei anerkannten Kündigungsgründen voraus. Dieser Skill klärt, welcher Grund vorliegt und welche weiteren Anforderungen jeweils gelten.
-
 ## Die drei Kündigungsgründe
 
 ### A. Betriebsbedingte Kündigung
@@ -259,9 +250,6 @@ Mehrere Gründe kombiniert? → Alle Pfade prüfen, schwächsten angreifen
 - Verhaltensbedingte Kuendigung / Abmahnung / Verschulden: Standardrechtsprechung; konkretes Aktenzeichen vor Schriftsatzverwendung in dejure.org / openjur.de verifizieren.
 - Subjektive Determinationstheorie der BR-Anhörung: BAG, 27.02.1997 - 2 AZR 302/96 (Standardlinie); BAG, 05.02.1998 - 2 AZR 227/97. Quellen: dejure.org-Vernetzungen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Sonderkündigungsschutz immer prüfen
 
 Unabhängig vom Kündigungsgrund: Prüfe stets, ob ein besonderer Kündigungsschutz besteht (Skill `kueschk-sonderkuendigungsschutz-checkliste`). Sonderkündigungsschutz geht dem allgemeinen Kündigungsschutz vor und erfordert zusätzliche behördliche Zustimmungen.
@@ -291,10 +279,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Wer ohne Anwalt vor dem Arbeitsgericht erscheint, kann durch richtiges Auftreten und Vorbereitung viel gewinnen — oder durch unnötige Fehler verlieren. Dieser Skill gibt praktische Hinweise für Laien.
 
 ## Vor dem Termin
 
@@ -375,9 +359,6 @@ Ein Vergleich, den du im Stress unterschreibst, ist bindend. Meist gibt es zumin
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Nach dem Termin
 
 - Protokoll des Vergleichs oder Sitzungsprotokoll aufheben
@@ -403,10 +384,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-§ 12 KSchG schützt Arbeitnehmer, die während eines laufenden Kündigungsschutzprozesses einen neuen Arbeitsplatz angenommen haben und dann mit dem Problem konfrontiert werden, dass das Gericht die ursprüngliche Kündigung für unwirksam erklärt. Sie können dann einseitig erklären, das alte Arbeitsverhältnis nicht fortzusetzen.
 
 ## Die Norm — § 12 KSchG (Wortlaut, vereinfacht)
 
@@ -463,9 +440,6 @@ Urteil ergangen, kein neuer Job? → Weiterbeschaeftigungsantrag oder Vergleich
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Abgrenzung zu § 9 KSchG
 
 | | § 9 KSchG | § 12 KSchG |
@@ -482,3 +456,4 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 -->
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+

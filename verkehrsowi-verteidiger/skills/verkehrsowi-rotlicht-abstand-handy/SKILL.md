@@ -39,9 +39,6 @@ Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat Bußgeldbeschei
 - OLG-Linien zu § 23 Abs. 1a StVO (Handynutzung): vor Versand in openjur.de und offenen Landesjustiz-Datenbanken verifizieren — insbesondere zur Abgrenzung "Halten" vs. "blosses Berühren".
 - Abstandsverstoss § 4 StVO: standardisiertes Messverfahren mit Videoabstandsmessung VAMA/VKS und ProViDa; konkrete OLG-Aktenzeichen vor Versand in offener Quelle aufrufen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Besonderheiten je Verstos-Typ
 
 ### Rotlicht (§ 37 StVO)
@@ -102,3 +99,4 @@ Angriffspunkte:
 - Handy-Verstos-Definition nach BGH 2019 kennen und anwenden.
 - Abstandsberechnung immer selbst nachrechnen.
 - Anwaltliche Endkontrolle bei Rechtsbeschwerde-Begründung.
+

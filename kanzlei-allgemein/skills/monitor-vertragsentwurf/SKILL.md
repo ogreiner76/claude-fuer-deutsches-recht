@@ -32,13 +32,6 @@ Scannt Akteninhalt auf Fristen Action-Items Wiedervorlagen und Zustellungen. Anw
 - § 517 ZPO — Berufungsfrist: ein Monat ab Urteilszustellung (Notfrist, unverlaengerbar)
 - § 233 ZPO — Wiedereinsetzung in den vorigen Stand: Voraussetzungen und Antragsfrist
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill prüft Eingänge und Aktenordner auf Handlungsbedarf. Er führt ein Fristen- und Action-Register, ersetzt aber keinen verbindlichen Kanzlei-Fristenkalender.
-
 ## Scanquellen
 
 - Neue Eingänge aus Intake.
@@ -81,3 +74,4 @@ Wenn Fristberechnung unsicher ist, nicht stehen bleiben:
 1. konservativ früheste mögliche Frist markieren,
 2. Rückfrage formulieren,
 3. sofortige manuelle Prüfung verlangen.
+

@@ -100,12 +100,6 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 - Bei wesentlichen Fehlern: BWA neu erstellen und versenden.
 - Mandant informieren bei Auswirkungen auf vorgelegte Reports.
 
-## Output
-
-- Fehlerprotokoll mit Korrekturmassnahmen.
-- Korrigierte BWA.
-- Ggf. Schulungsmemo für Sachbearbeiter.
-
 ## Strategie und Praxis-Tipps
 
 - Standardisierte Pruefliste vor jedem BWA-Versand abarbeiten — auch bei Routine-Mandanten.
@@ -114,13 +108,6 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 - DATEV-Tipp: Auswertung "Konten mit ungewoehnlichem Saldo" als monatliche Pflichtpruefung.
 - Honoraranknuepfung: Fehlerprotokoll als Teil der Qualitaetssicherung, kein Extra-Honorar.
 - Bei Buchungsfehlern aus Vorperiode: Vorperiode korrigieren oder Erlaeuterungstext mit Hinweis.
-
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-bwa-monatsabschluss-routine` — Monatsabschluss.
-- `stb-susa-formfehler-pruefen` — SuSa-Fehler.
-- `stb-bwa-sus-bilanz-pruefung` — Krisensignale.
 
 ## Quellen und Updates
 
@@ -133,3 +120,4 @@ Stand: 05/2026.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 1 bestaetigt (SV-Beitragssaetze Stand 2025 eingesetzt), 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->
+

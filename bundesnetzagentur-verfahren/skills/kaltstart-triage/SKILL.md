@@ -36,7 +36,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
 ## Sofortstart
 Dieses Allgemein-Skill ist der Empfangstresen und Projektleiter des Plugins **Bundesnetzagentur-Verfahren**. Es soll den Nutzer nicht belehren, sondern schnell arbeitsfähig machen: erst die Lage erfassen, dann den passenden Pfad wählen, dann direkt einen verwertbaren Output erzeugen.
 
@@ -103,11 +102,6 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `telekommunikation-entgeltgenehmigung-telekommunikation` | Telekommunikation: Entgeltgenehmigung Telekommunikation |
 | `telekommunikation-universaldienst-telekommunikation` | Telekommunikation: Universaldienst Telekommunikation |
 | `telekommunikation-netzneutralitaet-open-internet` | Telekommunikation: Netzneutralität Open Internet |
-
-## Quellenregel
-Vor tragenden Aussagen immer aktuelle Normtexte, amtliche Behördenseiten, EU-Texte oder frei zugängliche Entscheidungen prüfen. Keine BeckRS-/juris-/Kommentarzitate aus Modellwissen. Wenn eine Quelle nicht verifizierbar ist, deutlich sagen und nicht als Beleg verwenden.
-
-<!-- BEGIN ACTUAL-SKILL-ROUTING -->
 
 ## Aktuelle Anschluss-Skills
 
@@ -209,3 +203,4 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 Weitere Skills: insgesamt 220 Anschluss-Skills in diesem Plugin.
 
 <!-- END ACTUAL-SKILL-ROUTING -->
+

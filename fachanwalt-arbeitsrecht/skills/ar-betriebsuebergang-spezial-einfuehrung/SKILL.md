@@ -5,9 +5,6 @@ description: "AR Betriebsuebergang Spezial Einfuehrung im Plugin Fachanwalt Arbe
 
 # AR Betriebsuebergang Spezial Einfuehrung
 
-## Arbeitsbereich
-
-**AR Betriebsuebergang Spezial Einfuehrung** ordnet den Fall über die tragenden Prüfungslinien: Betriebsübergang § 613a BGB im M&A-Kontext, Arbeitsrecht einführend, Leiharbeit. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "AR Betriebsuebergang Spezial Einfuehrung im Plugin Fachanwalt Arbe
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `ar-betriebsuebergang-spezial`
@@ -38,9 +36,6 @@ description: "AR Betriebsuebergang Spezial Einfuehrung im Plugin Fachanwalt Arbe
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vertiefte Prüfung des Betriebsübergangs — von der Identitätsfrage über das Unterrichtungsschreiben bis zur Widerspruchsstrategie und den Folgen für Tarif- und Betriebsvereinbarungen. Besondere Bedeutung im M&A-Kontext (Asset-Deal).
 
 ## Einstieg
 Wenn Unterlagen (Kaufvertrag, Unterrichtungsschreiben, Arbeitsverträge) vorliegen, diese zuerst auswerten. Minimalfragen:
@@ -134,11 +129,6 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 - `fachanwalt-arbeitsrecht-betriebsratsanhoerung` für BR-Beteiligungspflichten
 - `spezial-fachanwalt-erstpruefung-und-mandatsziel` für Erstmandatsprüfung
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [curia.europa.eu](https://curia.europa.eu), [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen explizit kennzeichnen; keine erfundenen EuGH- oder BAG-Aktenzeichen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für gesellschaftsrechtliche Due-Diligence-Prüfung.
 - Keine Aussage über steuerliche Implikationen des Asset-Deals.
@@ -157,9 +147,6 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Dieser Skill dient als Eingangsrouter und Orientierungshilfe. Er klassifiziert das Mandantenanliegen, benennt die einschlägigen Normen und Fristen auf einer ersten Ebene und leitet in die passenden Fachmodule weiter. Er ist kein Ersatz für die Fachmodule, sondern deren Startpunkt.
 
 ## Kaltstart — Erste Weichen
 Wenn Unterlagen (Kündigung, Vertrag, Zeugnis, Bescheid) vorliegen, diese zuerst auswerten.
@@ -243,11 +230,6 @@ Wenn Unterlagen (Kündigung, Vertrag, Zeugnis, Bescheid) vorliegen, diese zuerst
 ## Anschluss-Skills
 Alle Fachmodule des Plugins stehen für die jeweiligen Themen bereit. Nach Klassifikation direkt in den passenden Skill wechseln und dort die fachliche Tiefe aktivieren.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate.
-- Annahmen explizit markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Tiefenprüfung; dieser Skill ist der Eingangsrouter, nicht die Fachbearbeitung.
 - Keine Festlegung des Mandanten ohne ausdrückliche Entscheidung.
@@ -265,9 +247,6 @@ Alle Fachmodule des Plugins stehen für die jeweiligen Themen bereit. Nach Klass
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vertiefte Prüfung von Leiharbeitsverhältnissen — vom Equal-Pay-Anspruch über die Überlassungshöchstdauer bis zur Frage, ob ein faktisches Arbeitsverhältnis zum Entleiher entstanden ist.
 
 ## Einstieg
 Wenn Unterlagen (Überlassungsvertrag, Arbeitsvertrag, Einsatzplan) vorliegen, diese zuerst auswerten. Minimalfragen:
@@ -347,13 +326,8 @@ Wer als Werkvertrag oder Dienstvertrag bezeichnet ist, aber tatsächlich in die 
 - `spezial-entgtranspg-verhandlung-vergleich-und-eskalation` wenn Equal-Pay und Entgeltdiskriminierung sich überschneiden
 - `ar-einfuehrung-mandantenanliegen` für Erstrouting bei unklarem Sachverhalt
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Aktuelle Branchenzuschlag-Tarifverträge und AÜG-Erlaubnislisten live prüfen (BA-Website).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine steuerliche Beratung zur Gestaltung von Werkverträgen.
 - Keine individuelle Erlaubnisbeantragung.
 - Keine Prognose über behördliche Verfolgung von OWi-Tatbeständen.
+

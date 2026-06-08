@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zur Vorlagepflicht des VVT auf Behördenanf
 
 Art. 5 Abs. 2; Art. 24; Art. 30; Art. 32; Art. 33 Abs. 5 DSGVO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Update-Checkliste
 
 Schritt 1: Vorfall einer Verarbeitung VVT-ID zuordnen.
@@ -57,3 +53,4 @@ Schritt 6: Versionsstand mit Datum und Bearbeiter speichern; alte Version revisi
 
 - `dsv-dsfa-update-nach-vorfall` deckt die Datenschutz-Folgenabschätzung ab.
 - `dsv-interne-dokumentation-art-33-abs-5` deckt das Vorfallregister ab.
+

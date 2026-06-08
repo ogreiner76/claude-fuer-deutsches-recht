@@ -92,10 +92,6 @@ Gewichteter Wert vor Drift-Penalty: Note 1 bis 2. Drift-Penalty Lernbereitschaft
 
 Spitzensaetze sind authentisch (Fachkenntnisse, Arbeitsweise, Arbeitsergebnis, Engagement). Drift bei Lernbereitschaft, konstant niedrige Note bei Innovation und Sozialverhalten. Nachverhandelbar: Saetze zu Lernbereitschaft, Innovation und Sozialverhalten. Beweislast nach BAG: Gesamtnote schlechter als befriedigend muesste der Arbeitgeber beweisen, Gesamtnote besser als befriedigend muss der Arbeitnehmer beweisen — bei diesem Zeugnis ist die Drei in den weichen Bereichen aus den Formulierungen selbst herauslesbar.
 
-## Ausgabeformat
-
-Der Skill liefert: vollstaendiges Mustertextzeugnis, satzweise Notenmatrix gemaess satzweise-notenmatrix, Bereichs-Drift-Analyse gemaess bereichs-drift-detektor, gewichtete Gesamtnotenaggregation und Empfehlung zur Nachverhandlung. Geeignet als Trainingsmaterial für alle vorgelagerten Analyse-Skills.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -104,3 +100,4 @@ Der Skill liefert: vollstaendiges Mustertextzeugnis, satzweise Notenmatrix gemae
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

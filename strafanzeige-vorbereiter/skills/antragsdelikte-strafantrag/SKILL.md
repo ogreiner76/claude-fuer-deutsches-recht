@@ -5,10 +5,6 @@ description: "Strafantragsfrist und Antragsberechtigung bei Beleidigung, Hausfri
 
 # Antragsdelikte und Drei-Monats-Frist
 
-## Arbeitsbereich
-
-Strafantragsfrist und Antragsberechtigung bei Beleidigung, Hausfriedensbruch, einfacher Körperverletzung und weiteren Antragsdelikten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,20 +13,9 @@ Strafantragsfrist und Antragsberechtigung bei Beleidigung, Hausfriedensbruch, ei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Fälle mit drohender Verfolgungsvoraussetzung.
-
 ## Norm- und Quellenanker
 
 StGB §§ 77, 77a, 77b, 77d; StPO § 158; jeweiliger Straftatbestand.
-
-## Arbeitsfragen
-
-1. Wann Kenntnis von Tat und Täter?
-2. Wer darf Antrag stellen?
-3. Ist besonderes öffentliches Interesse möglich?
-
 
 ## Normen & Rechtsprechung
 
@@ -44,9 +29,6 @@ Konkret zu prüfen:
 - § 77b StGB (3-Monats-Antragsfrist)
 - § 77a StGB (Antragsrücknahme)
 - § 158 StPO
-## Output
-
-Antragsfristkalender und Antragstext.
 
 ## Red Flags
 
@@ -58,6 +40,3 @@ Antragsfristkalender und Antragstext.
 
 Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

@@ -5,10 +5,6 @@ description: "Energievertrieb und Marktrollen im liberalisierten Energiemarkt: L
 
 # Vertrieb und Marktrollen
 
-## Arbeitsbereich
-
-Energievertrieb und Marktrollen im liberalisierten Energiemarkt: Lieferant, Netzbetreiber, Bilanzkreis. Normen: §§ 4 ff. EnWG, MaBiS-Prozesse. Prüfraster: Marktrollen, Bilanzkreisvertrag, Lieferantenwechsel. Output: Marktrollenanalyse und Vertriebsstruktur. Abgrenzung: nicht Energieliefervertrag (eigener Skill). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Energievertrieb und Marktrollen im liberalisierten Energiemarkt: Lieferant, Netz
 - Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Behandelt die Stromlieferungs-/Gasversorgungs-Sphäre: Grundversorger, Sonderkunden, Tarif-Änderung, Direktvermarktung, Endkundenrechte und Marktrollen-Pflichten.
 
 ## Eingaben
 
@@ -245,9 +237,6 @@ Behandelt die Stromlieferungs-/Gasversorgungs-Sphäre: Grundversorger, Sonderkun
 
 §§ 36-38 EnWG (Grundversorgung, Ersatzversorgung) — § 41 EnWG (Vertragsaenderung Haushaltskunden) — § 42 EnWG (Stromkennzeichnung) — §§ 305-310 BGB (AGB-Kontrolle) — § 315 BGB (billiges Ermessen Preisbestimmung) — § 5 MaStRV (Marktstammdatenregister Pflichten)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-eeg-kwkg-erzeugung`
@@ -267,3 +256,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - BNetzA-Marktmonitoring-Berichte
 - UBA HKN-Register
 - Schiedsstelle Energie
+

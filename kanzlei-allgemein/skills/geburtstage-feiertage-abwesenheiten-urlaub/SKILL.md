@@ -5,10 +5,6 @@ description: "Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler
 
 # Geburtstage und Feiertage
 
-## Arbeitsbereich
-
-Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler. Reminders einige Tage vor dem Tag. Vorlagen für kurze persönliche Glueckwunsch-E-Mail (formell-warm). Bei Geschäftspartnern auch Firmenjubilaeen. Geburtstagsverteiler getrennt von Mandantenfaellen — Pflege als Geschäftspartnerstamm. Datenschutz beachten Art. 6 Abs. 1 lit. f DSGVO berechtigtes Interesse Geburtstagsglueckwunsch zulässig; Widerspruchsrecht Mandant beachten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -33,9 +29,6 @@ Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler. Reminders ei
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur notwendige Daten speichern
 - § 7 UWG — Unzumutbare Belaestigung bei Werbung ohne Einwilligung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Pflege des Verteilers
 
 ### Quellen
@@ -132,3 +125,4 @@ Beste Grüße aus der Kanzlei
 - Aktualisierter Geburtstagsverteiler.
 - Tagesbrief-Eintrag.
 - Versand-E-Mails als Entwurf zur Freigabe.
+

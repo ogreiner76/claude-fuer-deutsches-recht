@@ -127,12 +127,6 @@ ERGEBNIS NACH STEUERN [X]
 - Ablage in Mandantenakte mit Versanddatum.
 - Mandanten-Portal-Download moeglich.
 
-## Output
-
-- Betriebsuebersicht als strukturiertes PDF.
-- Anhang zur BWA.
-- Interne Auswertungs-Datei (Excel-Export aus DATEV).
-
 ## Strategie und Praxis-Tipps
 
 - Betriebsuebersicht ist Pflicht bei Mittelstand und Konzern-Reporting.
@@ -142,14 +136,6 @@ ERGEBNIS NACH STEUERN [X]
 - DATEV-Tipp: Standard-Betriebsuebersicht 21 oder individuelle Konfiguration ueber Berater-Stammdaten.
 - StBVV: Standardform pauschaliert, individuelle Konfiguration als Zeithonorar.
 
-## Querverweise
-
-- `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-susa-erstellen-grundlagen` — Summen- und Saldenliste als Grundlage.
-- `stb-bwa-zeitlicher-vergleich-jahresvergleich` — Vorjahresvergleich.
-- `stb-bwa-kontenrahmen-skr03-skr04` — Kontenrahmenwahl und Mapping.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -158,14 +144,6 @@ Stand: 05/2026.
 - StBerG § 33.
 - DATEV BWA-Form 21, Kontenuebersicht.
 - IDW PS 480.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -195,3 +173,4 @@ Stand: 05/2026.
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

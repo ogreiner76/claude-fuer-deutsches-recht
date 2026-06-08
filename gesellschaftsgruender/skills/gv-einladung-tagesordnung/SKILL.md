@@ -5,10 +5,6 @@ description: "Gesellschafterversammlungs-Einladung und Tagesordnung nach GmbHG e
 
 # Einladung zur Gesellschafterversammlung
 
-## Arbeitsbereich
-
-Gesellschafterversammlungs-Einladung und Tagesordnung nach GmbHG erstellen: Fristen, Formen, Mindestinhalt. Normen: §§ 49 51 GmbHG. Prüfraster: Ladungsfrist, Schriftform, Tagesordnungspunkte, Beschlussfähigkeit. Output: GV-Einladungsschreiben mit Tagesordnung. Abgrenzung: nicht GV-Protokoll. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,9 +47,6 @@ Klaere vor Erstellung der Einladung:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Einladungs-Rechtmaessigkeit
 
 | Schritt | Pruefpunkt | Norm | Ergebnis |
@@ -182,3 +175,4 @@ Anlage: [RELEVANTE DOKUMENTE]
 - `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Konfliktversammlung
 - `gesellschaftsgruender-bilinguale-dokumente` — DE/EN-Vorlagen
+

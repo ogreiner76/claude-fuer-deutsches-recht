@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Aufgabe
-
-Einstieg und Fallrouting im VC-Geber-Plugin: klärt Investorrolle, Deal-Phase, Instrument, Unterlagen, Trackingsystem, rote Aufsichtslinien und schlägt passende Fachmodule vor.
-
 ## Arbeitsfokus
 
 Rolle, Dealphase, Ticket, Dokumente, Dringlichkeit, gewünschter Output und Risikoampel in einem klaren VC-Cockpit sortieren.
@@ -58,3 +54,4 @@ Rolle, Dealphase, Ticket, Dokumente, Dringlichkeit, gewünschter Output und Risi
 ## Quellen- und Qualitätsregel
 
 Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Kartellrecht, Datenschutz, AI Act oder internationale Securities-Themen berührt sind, nicht aus Modellwissen final entscheiden. Aktuelle amtliche Quellen oder lokale Counsel verlangen und die Ausgabe als Struktur-/Prüfvermerk kennzeichnen.
+

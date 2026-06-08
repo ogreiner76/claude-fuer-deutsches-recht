@@ -5,10 +5,6 @@ description: "Insolvenz des Franchisenehmers: Fortführung des Franchisesystems 
 
 # Franchiserecht: Insolvenz des Franchisenehmers – Fortführung und Markenschutz
 
-## Arbeitsbereich
-
-Insolvenz des Franchisenehmers: Fortführung des Franchisesystems durch den Insolvenzverwalter, Marken- und Know-how-Schutz des Franchisegebers, Sonderkündigungsrecht nach § 103 InsO und Rückforderung von Systemkennzeichen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisenehmer hat Insolvenz angemeldet. Der Insolvenzverwalter möchte den
 - Forderungsanmeldungsfrist zur Insolvenztabelle wird versäumt; Forderungen erlöschen in der Insolvenz.
 - Software und IT-Systeme sind nicht als Eigentum des Franchisegebers gekennzeichnet; Zuordnung zur Masse ist strittig.
 
-## Output
-
-- Insolvenzrechtliche Handlungsempfehlung für den Franchisegeber
-- Forderungsanmeldung zur Insolvenztabelle (Muster)
-- Kommunikationsschreiben an Insolvenzverwalter
-- Bewertung: Fortführung zulassen oder Vertragsbeendigung anstreben?
-
 ## Quellen
 
 - https://gesetze-im-internet.de/inso/__103.html
@@ -71,6 +60,7 @@ Ein Franchisenehmer hat Insolvenz angemeldet. Der Insolvenzverwalter möchte den
 - https://gesetze-im-internet.de/inso/__174.html
 - https://dejure.org/gesetze/MarkenG/14.html
 - https://gesetze-im-internet.de/inso/__55.html
+
 ## Vertiefung
 
 Die Insolvenz des Franchisenehmers stellt den Franchisegeber vor eine schwierige Abwägung: Einerseits gefährdet die Weiterführung unter dem Insolvenzverwalter die Systemqualität und die Marke; andererseits hat die Insolvenzmasse Interesse an der Fortführung, um Gläubiger zu befriedigen. § 103 InsO gibt dem Insolvenzverwalter das Wahlrecht, das der Franchisegeber nicht einseitig unterdrücken kann.
@@ -84,7 +74,10 @@ Die Entscheidung des BGH zur Insolvenzfestigkeit von Dauerschuldverhältnissen i
 - Kommunikation mit dem Insolvenzverwalter: Klarstellen, welche Systemstandards bei Fortführung einzuhalten sind.
 - Kundendaten und IT-Zugänge sofort sichern; Zugriff des Insolvenzverwalters auf Franchisegeber-Systeme begrenzen.
 - Vertragliche Insolvenzklauseln auf Vereinbarkeit mit § 119 InsO prüfen; unwirksame Klauseln nicht als Kündigungsgrundlage nutzen.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

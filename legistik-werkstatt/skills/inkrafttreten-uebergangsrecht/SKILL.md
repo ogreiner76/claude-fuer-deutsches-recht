@@ -66,9 +66,7 @@ Außenwirkung beginnt erst mit Verkündung im BGBl bzw. Landesgesetzblatt. Eintr
 
 Art. 20 Abs. 3 GG (Rechtsstaat, Vertrauensschutz) — Art. 14 GG (Eigentumsschutz bei Uebergangsrecht) — §§ 6-7 HdR (Inkrafttreten, Uebergangsbestimmungen) — § 49 Abs. 6 VwVfG (Bestandsschutz laufender Bewilligungen) — Art. 79 EGBGB (Uebergangsregelungen BGB)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Letzter Artikel oder Schlussparagraf des Entwurfs plus separate Übergangsregelung im Stammgesetz.
+

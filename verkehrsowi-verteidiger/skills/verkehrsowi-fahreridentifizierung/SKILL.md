@@ -5,10 +5,6 @@ description: "Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen:
 
 # Fahreridentifizierung im OWi-Verfahren
 
-## Arbeitsbereich
-
-Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsrecht). Prüfraster: Lichtbildabgleich AG, Sachverständigen-Antrag Biometrie, kein Zwang zur Fahrernennung, Fahrtenbuchauflage-Risiko. Output Verteidigungsstrategie Fahreridentifikation, Sachverständigen-Antrag. Abgrenzung: Beweisauswertung Messbeamter siehe verkehrsowi-zeugen-polizei-strategie; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,9 +34,6 @@ Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestr
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Fahreridentifikation
 
 ```
@@ -97,3 +90,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Fahrtenbuchauflage dem Mandanten klar erklaeren — Konsequenz des Schweigens.
 - Sachverstaendigenantrag bei schlechter Foto-Qualitaet stellen — nicht pauschal.
 - Anwaltliche Endkontrolle bei Beweisantrag-Formulierung.
+

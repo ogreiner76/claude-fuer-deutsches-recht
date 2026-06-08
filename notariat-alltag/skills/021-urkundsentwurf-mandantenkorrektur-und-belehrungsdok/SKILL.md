@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur und Belehru
 
 # Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation
 
-## Arbeitsbereich
-
-Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur und Belehrungsdokumentation. Prozess der Entwurfserstellung, Versand- und Wartefristpflichten, Protokollierung von Korrekturen und Belehrungen nach § 17 BeurkG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -101,3 +97,4 @@ Der Notar muss:
 - **Mandantenmail** (Entwurfsversand, Frist, nächste Schritte)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

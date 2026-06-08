@@ -5,9 +5,6 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 
 # Pflegegeld Pflegegrad MDS Gutachten Streit
 
-## Arbeitsbereich
-
-**Pflegegeld Pflegegrad MDS Gutachten Streit** ordnet den Fall über die tragenden Prüfungslinien: Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff, Pfl, Pflegegrad-Begutachtung durch den MD und Widerspruch. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `pflegegeld-pflegegrad-1-bis-5`
@@ -97,11 +95,6 @@ description: "Pflegegeld Pflegegrad MDS Gutachten Streit im Selbstvertretung am 
 5. MD-/Medicproof-Gutachten vollständig: Mobilität, kognitive/kommunikative Fähigkeiten, Verhalten, Selbstversorgung, Krankheitstherapie, Alltag?
 6. Widerspruchsfrist und Begründungsfrist gesichert?
 7. Pflegeperson, Rentenversicherung, Verhinderungspflege/Kurzzeitpflege und Kombinationsleistung mitgedacht?
-
-## Output
-
-- Leistungsübersicht mit aktuellem Betrag, Rechtsgrundlage, Nachweis, Pflegekassenkontakt und Frist.
-- Widerspruchsgerüst gegen falschen Pflegegrad mit alltagsnahen Beispielen statt bloßer Diagnosen.
 
 ## 2. `pflegegrad-mds-gutachten-widerspruch`
 
@@ -342,15 +335,6 @@ Bei dringender Situation siehe `eilantrag-pflegekassen-pflegehilfsmittel`.
 - Begruendung pro Modul fehlt → Modul für Modul argumentieren
 - "Es geht mir schlechter" ohne konkreten Verlauf → konkret
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch
-- `eilantrag-pflegekassen-pflegehilfsmittel` — Eilantrag
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-- `medizinische-gutachten-strategie-laien` — Gutachten
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-
 ## Quellen und Aktualitaet
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -455,3 +439,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 2. Beratungsanspruch genutzt?
 3. Rentenversicherung der Pflegeperson?
 4. Pflegezeit angemeldet?
+

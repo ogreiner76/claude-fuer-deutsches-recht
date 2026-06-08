@@ -5,10 +5,6 @@ description: "Weekly Status im Plugin Kanzlei Mandant Lifecycle im Kanzlei-Manda
 
 # Weekly Status
 
-## Arbeitsbereich
-
-**Weekly Status** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Weekly Status im Plugin Kanzlei Mandant Lifecycle im Kanzlei-Manda
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `weekly-status-report`
@@ -62,13 +59,6 @@ Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Sch
 - Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
 - Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
 
-## Output
-
-- Dashboard-Karte mit Status, Budget, Ownern und nächstem Schritt.
-- Entscheidungsvorlage oder Kommunikationsentwurf für Kanzlei oder Mandant.
-- Risiko-/Kosten-/Fristenampel mit Eskalationspunkt.
-- Qualitygate: Was darf raus, was muss intern bleiben, was braucht Freigabe?
-
 ## Quellen- und Aktualitätsgate
 
 Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
@@ -78,3 +68,4 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 - RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
 - BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
 - BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
+

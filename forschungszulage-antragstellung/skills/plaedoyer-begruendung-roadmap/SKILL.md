@@ -5,10 +5,6 @@ description: "Plädoyer, Begründung und Verteidigung der Forschungszulage: mach
 
 # Plädoyer, Begründung und Verteidigung der Forschungszulage
 
-## Arbeitsbereich
-
-Plädoyer, Begründung und Verteidigung der Forschungszulage: macht aus Technik, Belegen, Kosten und Behördenkritik einen überzeugenden Vortrag für BSFZ, Finanzamt, Einspruch, Mandantenmemo oder Geschäftsführungsentscheidung. Mit Argumentationsarchitektur, Gegenargumenten, Beleganker, Tonalität, Kurzfassung, Langfassung und Red-Team. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -206,27 +202,6 @@ Prüfe vor jeder Ausgabe:
 9. Wird keine Auszahlung versprochen, bevor § 10 FZulG zeitlich geprüft ist?
 10. Ist das Plädoyer so kurz, dass die zuständige Person es lesen will?
 
-## Output
-
-Immer liefern:
-
-- **Adressat und Ziel** des Plädoyers.
-- **Ein-Satz-Kern** des Vorhabens.
-- **FuE-Argumentationsblock** mit Neuheit, Ungewissheit, Systematik, Routineabgrenzung.
-- **Kosten- und Belegblock** mit Tabelle.
-- **Gegenargumente und Reparaturbedarf**.
-- **Fertiger Textbaustein** in der gewünschten Länge.
-- **Quellen-/Livecheckliste** für die letzte Prüfung vor Einreichung.
-
-## Querverweise
-
-- `fz-fue-definition-frascati-abgrenzung` für den FuE-Tatbestand.
-- `fz-bsfz-bescheinigung-projektbeschreibung` für Portaltexte und Arbeitspakete.
-- `fz-bemessungsgrundlage-2026` für Rechenlogik.
-- `fz-finanzamt-festsetzung-auszahlung` für § 10 FZulG, Anrechnung, Auszahlung und Vorauszahlungssenkung.
-- `fz-ablehnung-nachbesserung-einspruch` für Rechtsbehelf und Reparaturplan.
-- `fz-insolvenz-verlust-liquiditaet` für Verlust-, Krisen- und Insolvenzfälle.
-
 ## Quellen Stand 06/2026
 
 - FZulG: https://www.gesetze-im-internet.de/fzulg/
@@ -234,3 +209,4 @@ Immer liefern:
 - BSFZ-Antragsverfahren: https://www.bescheinigung-forschungszulage.de/antragsverfahren/ueber-das-antragsverfahren
 - BSFZ steuerliches Investitionssofortprogramm: https://www.bescheinigung-forschungszulage.de/steuerliches-investitionssofortprogramm
 - `references/forschungszulage-quellen-und-zahlen.md`
+

@@ -18,10 +18,6 @@ description: "Unterscheidet instrumentelle Herrschaft durch Rechtsformen von ech
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Einsatz
-
-Anwendungsfall: staatliches oder privates Handeln äußerlich formalisiert wirkt, aber der Verdacht besteht, dass Recht nur als Werkzeug der Macht eingesetzt wird. Der Skill trennt "es gibt irgendeine Regel" von "die Regel bindet Macht rechtsstaatlich".
-
 ## Kernunterscheidung
 
 - **Herrschaft durch Rechtsform:** Regeln dienen als Hebel, Befehl, Disziplinierungsinstrument oder Nachkriegsbegründung. Verfahren und Begriffe stabilisieren das gewünschte Ergebnis.
@@ -60,12 +56,9 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Liefere eine Gegenüberstellung "Rechtsform / Rechtsstaat" mit Risikoampel, Machtbindungsanalyse und konkreten Reparaturvorschlägen. Für anwaltliche Arbeit: füge einen Schriftsatzbaustein hinzu, der nicht moralisch schimpft, sondern Normbindung, Verfahren und Rechtsschutz verlangt.
-
 ## Quellen- und Zitierdisziplin
 
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Keine wörtliche Übernahme aus Vorlagen oder Arbeitsmaterialien.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
+

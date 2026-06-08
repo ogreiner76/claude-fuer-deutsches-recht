@@ -135,13 +135,6 @@ Die konkreten Formularnummern aendern sich periodisch; **stets ueber das BZSt-On
 2. Mandantenakt: Antragskopie, Bescheid, Zahlungsbeleg.
 3. Update bei Aenderung Anteilsverhaeltnisse (Substanztest periodisch).
 
-## Output
-
-- **BZSt-Antragspaket** vollstaendig zusammengestellt.
-- **Substanztest-Memo** § 50d Abs. 3 EStG.
-- **Fristen-Tableau** Einspruch, Klage, Erstattungsfrist.
-- **Empfehlung** Freistellung vorab vs. Erstattung nachher.
-
 ## Strategie und Praxis-Tipps
 
 - Antragsbearbeitungsdauer BZSt aktuell hoch (12-24 Monate) — Cashflow-Auswirkung beim Glaeubiger bedenken; Freistellungsbescheinigung vor Zahlung ist deutlich effizienter als Erstattung.
@@ -221,16 +214,9 @@ Sachverhalt: US-Mutter haelt 60 Prozent an deutscher GmbH. Dividende 200.000 EUR
 
 (**Werte sind Beispiel — DBA-USA Art. 10 mit Protokoll 2006 konkret nachpruefen.**)
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen` — Pruefkette.
-- `stb-dba-dividenden-quellensteuer-art-10` — Dividenden.
-- `stb-dba-lizenzgebuehren-art-12-bzst` — Lizenzen.
-- `stb-dba-kuenstler-sportler-art-17-ma` — Kuenstler/Sportler.
-- `stb-dba-methodenartikel-anrechnung-vs-freistellung` — Folgemethode auf Glaeubigerseite.
-
 ## Quellen und Updates
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 2 belegt (EuGH C-504/16 / C-613/16 20.12.2017 bestaetigt; AbzStEntModG BGBl. 2021 I S. 1259 bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

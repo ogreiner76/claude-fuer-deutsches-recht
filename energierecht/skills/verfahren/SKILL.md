@@ -5,10 +5,6 @@ description: "Regulierungsverfahren und Gerichtsverfahren im Energierecht durchf
 
 # Verfahren — Behörden und Gerichte
 
-## Arbeitsbereich
-
-Regulierungsverfahren und Gerichtsverfahren im Energierecht durchführen: BNetzA-Verfahren, Kartellamt. Normen: §§ 75 ff. EnWG, GWB, VwGO. Prüfraster: Verfahrenstyp, Beschwerde, Klage, Fristenmanagement. Output: Verfahrensstrategie Energierecht. Abgrenzung: nicht Genehmigungsverfahren Infrastruktur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Regulierungsverfahren und Gerichtsverfahren im Energierecht durchführen: BNetzA
 - Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Behandelt das gesamte Verfahrens-Spektrum im Energierecht: BNetzA-Beschwerden, Klage VG / OVG / BVerwG, Eilanträge, Stellungnahmen. Frist-Management zentral.
 
 ## Eingaben
 
@@ -271,9 +263,6 @@ Behandelt das gesamte Verfahrens-Spektrum im Energierecht: BNetzA-Beschwerden, K
 
 § 31 EnWG (BNetzA-Beschwerde Zulaessigkeit) — § 75 EnWG (OLG-Beschwerde) — § 77 EnWG (aufschiebende Wirkung Eilantrag) — § 50 VwGO (BVerwG erste Instanz NABEG) — § 80 Abs. 5 VwGO (Eilrechtsschutz VG) — § 123 VwGO (einstweilige Verfuegung Verwaltung) — § 10 BImSchG (foermliches Verfahren)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-eeg-kwkg-erzeugung` (Vergütungsstreit)
@@ -295,3 +284,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - OLG Düsseldorf VI-3 Kart-Verfahren
 - BVerwG-Linien (4 C 3.10, 9 A 5.20)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

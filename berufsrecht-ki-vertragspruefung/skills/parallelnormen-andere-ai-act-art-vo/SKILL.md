@@ -5,10 +5,6 @@ description: "Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Recht
 
 # Parallelnormen — alle fünf Berufe
 
-## Arbeitsbereich
-
-Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln für Berufsausübungsgesellschaften (§ 59c WPO) Anwaltsnotare gemischte Sozietaeten und multidisziplinaere Praxen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -98,10 +94,6 @@ Folgende Felder sollten in jeder Skill-Ausgabe gefüllt sein:
 - Einzelfall-Variante: Mandat oder Amtsgeschäft
 ```
 
-## Output
-
-Diese Skill liefert primär Referenzdaten für andere Skills. Sie kann auch eigenständig aufgerufen werden, um eine Übersichtstabelle zu erzeugen.
-
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -116,9 +108,6 @@ Diese Skill liefert primär Referenzdaten für andere Skills. Sie kann auch eige
 - §§ 203, 204 StGB — Straftatbestände für alle Berufsgruppen
 - §§ 53a, 97 StPO — Strafprozessuale Absicherung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Welche Berufsgruppe(n) sind betroffen — einzeln oder gemischte Sozietät?
@@ -152,3 +141,4 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 Massnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=08.03.2022&Aktenzeichen=X+ARZ+148/22
 -->
+

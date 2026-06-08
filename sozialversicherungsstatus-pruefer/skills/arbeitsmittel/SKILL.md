@@ -5,10 +5,6 @@ description: "Prüft eigene oder fremde Arbeitsmittel: Laptop, Instrumente, Fahr
 
 # Arbeitsmittel und Equipment
 
-## Arbeitsbereich
-
-Prüft eigene oder fremde Arbeitsmittel: Laptop, Instrumente, Fahrzeuge, Softwarelizenzen, Räume und Spezialgeräte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,12 +24,6 @@ Prüft eigene oder fremde Arbeitsmittel: Laptop, Instrumente, Fahrzeuge, Softwar
 ## Fachkern: Arbeitsmittel und Equipment
 - **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
 - **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-
-## Zweck
-
-Das Sozialversicherungsstatus-Plugin prüft Beschäftigung, Selbständigkeit, Scheinselbständigkeit und Statusfeststellung für Geschäftsführer, Freelancer, Anwälte, Lehrer, Musikschulen, Plattformarbeit und andere Arbeitsformen nach deutscher Sozialversicherungssystematik.
-
-Dieser Skill macht aus **Arbeitsmittel und Equipment** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
 
 ## Rechts- und Quellenanker
 

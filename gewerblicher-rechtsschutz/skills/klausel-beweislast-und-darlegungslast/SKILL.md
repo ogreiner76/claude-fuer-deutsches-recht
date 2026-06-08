@@ -5,10 +5,6 @@ description: "Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer mu
 
 # Spezial: Klausel – Beweislast und Darlegungslast im IP-Recht
 
-## Arbeitsbereich
-
-Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer muss was beweisen bei Marken-, Patent-, Design-, Urheber- und UWG-Verletzungen? Beweislastumkehr, sekundäre Darlegungslast, Beweiserleichterungen und praktische Konsequenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -150,3 +146,4 @@ Mandatsbezug: Anwalt fragt: Muss ich beweisen, dass der Beklagte das Patent verl
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beleglage
 - `verletzungs-triage` – Erstentscheidung IP-Verletzung
 - `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag und Glaubhaftmachung
+

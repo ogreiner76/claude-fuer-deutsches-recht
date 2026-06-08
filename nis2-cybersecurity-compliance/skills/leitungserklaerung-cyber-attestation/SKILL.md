@@ -5,10 +5,6 @@ description: "Erstellt eine belastbare Leitungserklärung zur Cyber-Compliance m
 
 # Leitungserklärung Cyber Attestation
 
-## Arbeitsbereich
-
-Erstellt eine belastbare Leitungserklärung zur Cyber-Compliance mit Scope, Quellen, Restrisiken, Budgetentscheidungen, Nachweisen und klaren Vorbehalten gegen Scheinsicherheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,3 +43,4 @@ Dieser Skill hilft Geschäftsführung, Vorstand, CISO und Legal dabei, eine inte
 ## Ergebnisformat
 
 Erzeuge eine zweistufige Ausgabe: erst eine rote Vorprüfung der nicht unterschriftsreifen Punkte, danach eine unterschriftsfähige Fassung mit Anlagenverzeichnis und Vorbehalten.
+

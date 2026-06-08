@@ -5,10 +5,6 @@ description: "Prüft Marktbeherrschung nach Paragraf 18 GWB: Einzelmarktbeherrsc
 
 # § 18 GWB — Marktbeherrschung: Prüfung
 
-## Arbeitsbereich
-
-Prüft Marktbeherrschung nach Paragraf 18 GWB: Einzelmarktbeherrschung Abs 1 Marktanteils-Schwellen Abs 4 (40 Prozent) gemeinsame Marktbeherrschung Abs 5 und 6 intermediaere Plattformen Abs 3a sowie relative Marktmacht nach Paragraf 20 GWB. Für BKartA-Verfahren und nationale Gerichte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -89,6 +85,3 @@ Praxis: Häufig bei Lebensmitteleinzelhandel (Marktmacht gegenüber Lieferanten)
 - BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — § 18 Abs. 3a GWB; ueberragende marktuebergreifende Bedeutung; Datenverarbeitung als marktrelevanter Faktor.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

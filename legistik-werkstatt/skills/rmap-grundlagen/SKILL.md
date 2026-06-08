@@ -17,14 +17,6 @@ description: "Grundlagen der Rulemapping-Methode: Law as Code; Rulemap als visue
 
 Rulemapping ist eine Methode, juristische Logik in strukturierte digitale Entscheidungsmodelle (Rulemaps) zu ueberfuehren. Die Methode wurde von Prof. Dr. Stephan Breidenbach entwickelt und wird durch die Bundesagentur für Sprunginnovationen SPRIN-D gefoerdert. Sie wird unter anderem im Bundesministerium der Justiz eingesetzt und bildet vollstaendige Wenn-Dann-Logik einer Norm ab; einschliesslich Tatbestaenden; Rechtsfolgen; Ausnahmen und Verweisen.
 
-## Vorgehen
-
-1. Methoden-Steckbrief des Vorhabens anlegen
-2. Begriffsglossar (Tatbestand; Rechtsfolge; Ausnahme; Verweisung) sauber definieren
-3. Akteurskreis benennen (Rulemapping-Group; BMJ; SPRIN-D; eigene Ressortrolle)
-4. Erste Skizze der Wenn-Dann-Struktur der Norm anlegen
-5. Uebergabe an legw-rmap-norm-zu-rulemap
-
 ## Pruefpunkte
 
 Pruefen: passt die Methode zum Vorhaben? Komplexitaet hoch genug für Rulemap? Anschluss an Vollzugs-IT erforderlich? Welche Aufsichtsentscheidung soll spaeter automatisierbar sein?
@@ -44,17 +36,7 @@ Arbeitsfokus: **Rulemapping - Grundlagen und Begriffe**. Prüfe diese Anker am S
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-```
-Skill: legw-rmap-grundlagen
-Thema: Rulemapping - Grundlagen und Begriffe
-Ergebnis: <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills: siehe Description-Verweise
-```
 
 ## Abgrenzung
 
@@ -63,3 +45,4 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 ## Quellen Stand 06/2026
 
 Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
+

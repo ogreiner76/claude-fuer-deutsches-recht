@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Hallenbaeder und Freibaeder m
 
 # Bauueberwachung Schwimmbad Chloridschutz (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Hallenbaeder und Freibaeder mit besonderem Augenmerk auf chloridbestaendigen Beton nach DIN 1045 und DIN EN 13670, Beckenbeschichtung nach DIN 19643, Filteranlage und Wasseraufbereitung nach DIN EN 13451 sowie Korrosionsschutz Stahltragwerk im Chloridmilieu nach DIN EN ISO 12944 Klasse C5. Praxisnahe Dokumentation mit SAP PM und PlanRadar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Lueftungsanlage im Hallenbad muss spezifisch auf Chloramin-Abfuhr und Korrosions
 - Lueftungsanlage nicht chloramingeeignet: Stahlkanaele korrodieren innerhalb von Jahren
 - Filteranlage ohne PED-Abnahme: Betrieb nicht genehmigt, Hallenbad nicht eroeffentbar
 
-## Output
-
-Betonguete-Pruefprotokolle Chlorideindringwiderstand. Beckenbeschichtungs-Schichtdickenprotokoll.
-Filteranlage PED-Abnahmeprotokoll. Wasserchemie-Inbetriebnahmeprotokoll.
-Korrosionsschutz-Pruefprotokoll Stahltragwerk. Abnahmeprotokoll Schwimmbad nach VOB/B.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Korrosionsschutz-Pruefprotokoll Stahltragwerk. Abnahmeprotokoll Schwimmbad nach 
 - [DIN EN ISO 12944 Korrosionsschutz](https://www.gesetze-im-internet.de/)
 - [DIN EN 13670 Beton XA3](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 88/05 Schwimmbad Beschichtung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+88/05)
+

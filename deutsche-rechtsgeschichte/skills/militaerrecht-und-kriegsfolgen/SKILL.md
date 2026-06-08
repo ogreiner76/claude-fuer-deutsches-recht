@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Militaerrecht und Kriegsfolgen. Militae
 
 # Militaerrecht und Kriegsfolgen
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Militaerrecht und Kriegsfolgen. Militaerstrafrecht im Kaiserreich, Kriegsgerichtsbarkeit WW1 und WW2, Deserteur-Rehabilitierung und Aufarbeitung von Kriegsverbrechern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das Militaerrecht war ein Sonderrechtsgebiet mit eigener Gerichtsbarkeit. Das Mi
 - NS-Aufhebungsgesetz 2002: BGBl. I 2002, 2532
 - Bundesarchiv-Militaerarchiv Freiburg: NS-Kriegsgerichtsurteile
 
-## Output
-
-- Zeitleiste Militaerrecht: 1872-2002
-- NS-Reichskriegsgericht: Statistik und Beispielfaelle
-- Deserteur-Rehabilitierung: Gesetz 2002 und politische Geschichte
-
-## Quellenregel
-
-MStGB 1872: ALEX/OeNB. WStG 2002: gesetze-im-internet.de. NS-Aufhebungsgesetz 2002: BGBl. I 2002, 2532. Militaerarchiv Freiburg: Bestaende Reichskriegsgericht. BVerfGE zur Kriegsdienstverweigerung: bverfg.de.

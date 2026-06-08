@@ -5,10 +5,6 @@ description: "Mandant greift Bebauungsplan wegen unzureichender Umweltprüfung o
 
 # Umweltbericht und Umweltprüfung
 
-## Zweck
-
-Der Umweltbericht ist nach dem Abwägungsgebot eines der wichtigsten Prüfungslinien. Fehler hier wirken doppelt: als Verfahrensfehler bei der Beteiligung und als materieller Abwägungsfehler.
-
 ## Schritt 1 — Pflicht zur Umweltprüfung § 2 Abs. 4 BauGB
 
 ### Grundregel
@@ -172,6 +168,3 @@ Der Umweltbericht ist nach dem Abwägungsgebot eines der wichtigsten Prüfungsli
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

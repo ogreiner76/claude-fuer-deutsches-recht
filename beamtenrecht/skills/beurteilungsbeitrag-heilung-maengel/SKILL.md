@@ -5,10 +5,6 @@ description: "Skill zur rechtlichen Pruefung von Beurteilungsbeitraegen Dritter 
 
 # Beurteilungsbeitrag — Pflicht, Mangel, Heilung
 
-## Arbeitsbereich
-
-Skill zur rechtlichen Pruefung von Beurteilungsbeitraegen Dritter im beamtenrechtlichen Beurteilungsverfahren. Klaert wer einen Beitrag liefern muss wann ein fehlender Beitrag die Beurteilung rechtswidrig macht und wie eine fehlende Heranziehung im Verfahren geheilt werden kann. Behandelt die Konstellationen Abordnung Versetzung Wechsel des Dienstvorgesetzten lange Elternzeit Beurlaubung. Liefert Schriftsatzbausteine zur Anfechtung der Beurteilung und zur Geltendmachung im Konkurrenteneilrechtsschutz. Verweist auf konkurrentenschutz-bestenauslese-art-33-ii-gg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,3 +68,4 @@ Skill für Mandanten, deren dienstliche Beurteilung ohne Einbindung eines fruehe
 ## 7. Beispiel (Kurzfassung)
 
 Mandantin war im Beurteilungszeitraum 18 Monate abgeordnet. Der dortige Dienststellenleiter lieferte keinen Beitrag, der Heimatbeurteiler stuetzte sich allein auf eigene Eindruecke ueber den verbliebenen Zeitraum. Skill liefert Argument: Beurteilung ist rechtswidrig wegen fehlenden Beurteilungsbeitrags; Nachholung mit Neuerstellung erforderlich.
+

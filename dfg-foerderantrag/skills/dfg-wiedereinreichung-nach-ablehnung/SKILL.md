@@ -181,25 +181,7 @@ Arbeitsfokus: **Wiedereinreichung nach Ablehnung**. Prüfe diese Anker am Sachve
 - `DFG-Kodex Leitlinie 15` — Publikationsorgan und Qualitätssicherung.
 - `DFG-Verfahrensordnung Begutachtung` — Befangenheit, fachliche Passung und Entscheidungspfad live prüfen.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- **Gutachten-Synopse** mit Kritik-Kategorisierung.
-- **Reparaturplan** mit konkreten Änderungen und Seitenverweisen.
-- **Neue Antragsthese** (falls strukturelle Überarbeitung).
-- **Stellungnahme tabellarisch.**
-- **Kurzanschreiben** falls sinnvoll.
-- **"Nicht mehr diskutieren"-Liste:** Punkte, die besser durch Textänderung als durch Verteidigung gelöst werden.
-- **Entscheidungsvorlage** Wiedereinreichung vs. Programmwechsel vs. Pause.
-
-## Querverweise
-
-- Programmwechsel-Optionen: `dfg-foerderstrategie-schnell-oder-gross`
-- Antrag strukturell überarbeiten: `dfg-projektbeschreibung-arbeitsprogramm`
-- Vor Wiedereinreichung red-teamen: `dfg-reviewer-red-team`
-- Formalia neue Einreichung: `dfg-sachbeihilfe-elan-formalia`
 
 ## Quellen Stand 05/2026
 
@@ -208,3 +190,4 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DFG-Verfahrensordnung (Sperrfristen, Wiedereinreichungsregeln): dfg.de — am Tag des Bescheids und vor Wiedereinreichung live prüfen.
 
 Sperrfristen und Verfahrensregeln zur Wiedereinreichung sind programmabhängig und ändern sich — vor Wiedereinreichung in der aktuellen Verfahrensordnung verifizieren.
+

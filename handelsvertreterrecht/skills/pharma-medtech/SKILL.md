@@ -5,10 +5,6 @@ description: "Analysiert Besonderheiten des Handelsvertreterrechts in der Pharma
 
 # Handelsvertreterrecht in Pharma und Medtech — Regulierung und §§ 84 ff. HGB
 
-## Arbeitsbereich
-
-Analysiert Besonderheiten des Handelsvertreterrechts in der Pharma- und Medtech-Branche: Regulatorische Anforderungen (AMG, MPG), Compliance-Pflichten bei Ärztebesuchen, Provisionsabrechnungen bei regulierten Produkten, Ausgleichsansprüche im regulierten Markt und besondere Qualifikationsanforderungen für Medizinproduktevertreter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,10 +62,6 @@ Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländis
 - Ausgleich trotz regulierten Markts zu gering berechnet.
 - FSA-Kodex-Verstöße durch Handelsvertreter lösen Haftung des Unternehmers aus.
 
-## Output
-
-Qualifikationsprüfvermerk, Provisionsrückforderungsanalyse, Ausgleichsberechnung Pharma/Medtech.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [§ 89a HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89a.html)
 - [Dejure § 75 AMG](https://dejure.org/gesetze/AMG/75.html)
+

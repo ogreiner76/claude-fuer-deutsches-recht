@@ -5,10 +5,6 @@ description: "Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung 
 
 # Gerichtliche KI-Assistenz und Anhang III
 
-## Arbeitsbereich
-
-Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,15 +33,7 @@ Wird KI nur als allgemeines Schreibwerkzeug genutzt oder beeinflusst sie die Aus
 - Möglichkeit, Fehler zu erkennen und zu korrigieren;
 - klare Trennung zwischen Entwurfshilfe und Entscheidung.
 
-## Output
-
-Erstelle:
-
-- Hochrisiko-Vermerk.
-- Governance-Check für Gericht/Behörde.
-- Transparenz- und Akteneinsichtsfragen.
-- Beweisverwertungs- und Gehörsrisiken.
-
 ## Warnung
 
 Gerade bei Justiz-KI reicht "human in the loop" nicht als Zauberwort. Entscheidend ist, ob der Mensch fachlich und organisatorisch wirklich gegensteuern kann.
+

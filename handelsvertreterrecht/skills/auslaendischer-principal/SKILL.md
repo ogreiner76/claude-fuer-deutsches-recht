@@ -5,10 +5,6 @@ description: "Analysiert Handelsvertreterverträge mit ausländischem Unternehme
 
 # Handelsvertretervertrag mit ausländischem Unternehmer — Internationales Privatrecht
 
-## Arbeitsbereich
-
-Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerkennung ausländischer Urteile und Schiedssprüche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Vollstreckung in Drittstaaten (USA, Schweiz) ohne bilaterales Anerkennungsabkommen schwierig.
 - Gerichtsstandsklausel für Verbraucher oder arbeitnehmerähnliche Personen unter Umständen unwirksam.
 
-## Output
-
-Rechtsgutachten zur Kollisionsnorm, Gerichtsstandsanalyse, Empfehlung zur Vertragsgestaltung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [EuGVVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
 - [Dejure § 92c HGB](https://dejure.org/gesetze/HGB/92c.html)
+

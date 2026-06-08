@@ -142,13 +142,7 @@ Wer bestreitet, muss in der Regel **nicht** beweisen — der Klaeger ist beweisp
 - "Ich habe nichts gemacht." → Wer was nicht macht, muss konkret entgegnen, was er statt dessen tat.
 - "Ich bestreite, weil mein Anwalt es so sagt." → Beweis-Lage zaehlt, nicht Behauptung.
 
-## Querverweise
-
-- `klageerwiderung-checkliste-alle-punkte` — Vollstaendigkeit.
-- `einreden-aktiv-geltend-machen` — Einreden.
-- `beweislast-grundregel-wer-was` — Beweislast.
-- `klageerwiderung-fristen-274-zpo` — Frist.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 138 ZPO unveraendert. BGH-Rechtsprechung zur sekundaeren Darlegungslast in Einzelfaellen verifizieren.
+

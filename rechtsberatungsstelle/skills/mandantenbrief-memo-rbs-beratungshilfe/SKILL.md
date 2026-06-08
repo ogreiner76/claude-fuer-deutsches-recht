@@ -5,10 +5,6 @@ description: "Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfal
 
 # /mandantenbrief
 
-## Arbeitsbereich
-
-Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behörde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige Beratung, Mandantenkommunikation in verstaendlicher Sprache. Prüfraster Empfaenger und Zweck klaeren, Sachverhalts-Zusammenfassung, rechtliche Einordnung, naechste Schritte für Mandant. Output Mandantenbrief in verstaendlicher oder juristisch foermlicher Sprache je nach Empfaenger. Abgrenzung zu Einfache-Sprache-Briefe für barrierefreie Kommunikation und zu Entwurf für Schriftsaetze. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -43,17 +39,6 @@ Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatu
 - § 43a Abs. 2 BRAO — Verschwiegenheit: Mandantenbrief darf keine Drittinformationen offenbaren
 - § 6 Abs. 2 Nr. 2 RDG — Anleitungspflicht: Mandantenbrief von Studierenden erfordert Anleiterpruefung und -freigabe
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur für Mandanten bestimmte Informationen im Brief
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Viele Mandanten der Beratungsstelle haben wenig oder keine juristische Vorbildung. Bei Geflüchteten kommen Sprachbarrieren und ein anderes Verständnis von Behörden und Rechtssystem hinzu. Ein unverständlicher Brief ist genauso wertlos wie kein Brief.
-
-Dieser Skill erzeugt Briefe, die der Mandant versteht – und die ihn in die Lage versetzen, selbst zu handeln, wo das möglich ist.
-
-**Was der Skill nicht tut:** strategische Rechtsberatung im Brief. Konkrete Rechtsratschläge nur in der Formulierung, die der Anleiter freigegeben hat.
 
 ## BORA-Pflichten bei Mandantenmitteilungen
 
@@ -139,16 +124,10 @@ Mit freundlichen Grüßen
 ### Termin-Erinnerung
 > "Ihr nächster Termin bei uns ist: [Datum], [Uhrzeit], [Adresse, Raum]. Bitte bringen Sie mit: [Aufzählung der Unterlagen]. Wenn Sie nicht kommen können: Bitte rufen Sie uns vorher an unter [Nummer]."
 
-## Ausgabeformat
-
-Brief im obigen Standardformat. Kurzform erlaubt bei einfachen Mitteilungen (z. B. reine Terminbestätigung).
-
-Jede Ausgabe trägt:
-> **[KI-GESTÜTZTER ENTWURF – Analyse durch Studierenden und Freigabe durch anleitenden Volljuristen erforderlich. Kein Versand ohne Prüfung.]**
-
 ## Risiken / typische Fehler
 
 - **Juristischer Rat im Mandantenbrief ohne Freigabe:** Kein Brief darf Aussagen enthalten wie "Sie werden gewinnen" oder "Die Klage hat gute Chancen" – das ist unzulässige Prognose ohne Anleiterbilligung.
 - **Falsches Fristenverständnis beim Mandanten:** Der Brief muss Fristen, die der Mandant wahren muss (z. B. Vorlage von Dokumenten), klar und mit genauen Daten benennen. Keine vagen Formulierungen wie "möglichst bald".
 - **Keine Rückfrage-Möglichkeit:** Mandantenbrief ohne Kontaktangabe ist wertlos. Immer Erreichbarkeit der Beratungsstelle angeben.
 - **Vertraulichkeit verletzt:** Keine Drittdaten (z. B. Informationen über den Vermieter, den Arbeitgeber) im Brief an den Mandanten – es sei denn, der Mandant hat alle relevanten Informationen ohnehin selbst geliefert.
+

@@ -9,17 +9,6 @@ description: "Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster,
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
 - **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
 
-## Zweck
-
-Dieser Skill erstellt für eine GmbH/UG/AG/Einzelunternehmen eine **wochenaktuelle Drei-Wochen-Liquiditätsvorschau** und dokumentiert die insolvenzrechtliche Vorprüfung nach § 17 InsO. Rechtsprechung wird nur nach Live-Prüfung verwendet. Das Standardergebnis ist eine **Excel-Tabelle nach der hinterlegten Vorlage** (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`) auf Wochenbasis (Freitag = Wochenstichtag). Zusätzlich auf Nutzerwunsch ein **interaktives HTML-Padlet** oder ein **Markdown-Artefakt**, das im Verlauf des Gesprächs fortlaufend gepflegt wird. Ein Memo wird **nur auf ausdrückliche Anfrage** erstellt.
-
-Anwendungsfälle:
-
-- Wöchentliche Geschäftsführer-Sitzung in einer KMU-GmbH mit angespannter Liquidität.
-- Dauermandat des Steuerberaters mit Krisenfrüherkennungsauftrag.
-- Vorprüfung vor dem Bankgespräch oder vor einer StaRUG-Anzeige.
-- Erstindikation, ob ein Antragspflicht-Check nach § 15a InsO ausgelöst werden muss.
-
 ## Eingaben — minimaler Datensatz
 
 Der Skill fragt diese Felder strukturiert ab. Fehlt etwas, wird der Worst Case angesetzt und die Annahme im Padlet/Artefakt protokolliert.
@@ -201,3 +190,4 @@ Wochen 10-13 (langfristig): [...]
 ENGPAESSE: [Beschreibung kritischer Wochen und Gegenmassnahmen]
 ANNAHMEN: [Auflistung der Schluesselannahmen]
 ```
+

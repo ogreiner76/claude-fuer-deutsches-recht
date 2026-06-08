@@ -5,10 +5,6 @@ description: "Belegpaket gegen negative Auskunfteieinträge: Beschlüsse, Regist
 
 # Negativeintrag bestreiten: Belegpaket
 
-## Arbeitsbereich
-
-Belegpaket gegen negative Auskunfteieinträge: Beschlüsse, Registerauszüge, Erledigungsnachweise, Löschfristen, Auskunft und Versandnachweis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -25,29 +21,12 @@ Belegpaket gegen negative Auskunfteieinträge: Beschlüsse, Registerauszüge, Er
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Einsatz
-
-Für die praktische Durchsetzung gegenüber Auskunftei, Bank, Vermieter oder Plattform.
-
 ## Norm- und Quellenanker
 
 - InsO-Beschlüsse: Eröffnung, Restschuldbefreiung, Aufhebung/Einstellung, Insolvenzbekanntmachungen und Registerauszüge als Primärbelege.
 - DSGVO Art. 5, 12, 15, 16, 17, 18, 21 für Auskunft, Berichtigung, Löschung/Einschränkung und Widerspruch.
 - EuGH/BGH-/OLG-Rechtsprechung zu Auskunfteien, Restschuldbefreiung und Speicherfristen nur mit Datum, Aktenzeichen und freier Quelle zitieren.
 - ZPO-Beweislogik: Zugang, Inhalt, Versandweg und Identität der betroffenen Person beweisbar halten.
-
-## Arbeitsfragen
-
-1. Welche Originalnachweise sind nötig?
-2. Welche Stellen müssen gleichzeitig angeschrieben werden?
-3. Wie wird Zugang bewiesen?
-4. Welcher Eintrag ist falsch: Person, Datum, Forderung, Erledigung, Insolvenzereignis, Score-Grundlage oder Dublette?
-5. Ist die gesetzliche Veröffentlichung bereits gelöscht/abgelaufen und welche private Speicherlogik behauptet die Auskunftei?
-6. Welche Folgeadressaten brauchen Korrektur: Bank, Vermieter, Leasing, Plattform, Arbeitgeber, Versicherung?
-
-## Output
-
-Belegpaket mit Anlagenverzeichnis, Auskunftsantrag, Lösch-/Berichtigungsverlangen, Versandmatrix, Fristenkontrolle und Eskalation an Datenschutzaufsicht/Gericht.
 
 ## Red Flags
 
@@ -58,3 +37,4 @@ Belegpaket mit Anlagenverzeichnis, Auskunftsantrag, Lösch-/Berichtigungsverlang
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

@@ -5,10 +5,6 @@ description: "Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Un
 
 # Planerhaltung — § 214/215 BauGB
 
-## Zweck
-
-§§ 214 und 215 BauGB filtern Fehler heraus, die nicht durchschlagen. Sie sind zentrale Verteidigungs-Argumente der Gemeinde. Anwältin der Antragstellerseite muss sie umgekehrt aushebeln: durch Subsumtion auf "beachtlich" und durch fristgerechte Rüge.
-
 ## Schritt 1 — § 214 Abs. 1 BauGB Verfahrens- und Formfehler
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -172,9 +168,6 @@ Weitere Aktenzeichen vor Ausgabe per bverwg.de und OVG/VGH-Datenbanken verifizie
 
 § 214 Abs. 1 BauGB (beachtliche Verfahrensfehler) → § 214 Abs. 2a BauGB (§ 13a-Verfahren) → § 214 Abs. 3 BauGB (beachtliche Abwägungsfehler) → § 214 Abs. 4 BauGB (ergänzendes Verfahren) → § 215 Abs. 1 BauGB (Rügefrist 1 Jahr) → § 215 Abs. 2 BauGB (Hinweispflicht) → § 233 BauGB (Übergangsrecht)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Bearbeitung
 
 Kläre nach Mandatsübernahme:
@@ -244,3 +237,4 @@ Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

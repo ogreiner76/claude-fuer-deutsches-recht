@@ -20,10 +20,6 @@ description: "Prüft Gesellschafterliste, Nennbeträge, Nummerierung, Prozentang
 3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
 4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
 
-## Arbeitsweise
-
-Fehler können Register und Transparenzregister stören.
-
 ## Rechts- und Quellenanker
 
 Je nach Rechtsform live prüfen: GmbHG, HGB, BGB-Gesellschaftsrecht nach MoPeG, PartGG, GenG, AktG, GwG, GewO, AO/UStG/EStG sowie Register- und Notarvorgaben.
@@ -34,14 +30,6 @@ Je nach Rechtsform live prüfen: GmbHG, HGB, BGB-Gesellschaftsrecht nach MoPeG, 
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Gründerfreundliche Kurzantwort
-- To-do-Liste mit Zuständigen
-- Dokumenten- und Lückenliste
-- Risikoampel
-- passende Anschluss-Skills
 
 ## Vertiefter Gründer-Workflow
 
@@ -59,3 +47,4 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 - Trenne Muss, Sollte, Optional und Später.
 - Markiere externe Abhängigkeiten: Notar, Registergericht, Bank, Finanzamt, IHK/HWK, BaFin oder Fachbehörde.
 - Keine endgültige Register- oder Steuerbehauptung ohne aktuellen Norm-/Formularcheck; bei Registerfragen die konkrete Zwischenverfügung oder den Notarentwurf als Primärquelle behandeln.
+

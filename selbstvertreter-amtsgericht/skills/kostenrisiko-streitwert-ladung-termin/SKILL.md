@@ -5,9 +5,6 @@ description: "Kostenrisiko Streitwert Ladung Termin im Selbstvertretung am Amtsg
 
 # Kostenrisiko Streitwert Ladung Termin
 
-## Arbeitsbereich
-
-**Kostenrisiko Streitwert Ladung Termin** ordnet den Fall über die tragenden Prüfungslinien: Berechnung des Kostenrisikos bei Klage vor Amtsgericht, Termin-Ladung nach § 216 ZPO, Mit Akten und Anlagen optimal in die muendliche Verhandlung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Kostenrisiko Streitwert Ladung Termin im Selbstvertretung am Amtsg
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kostenrisiko-streitwert-berechnen-gkg`
@@ -141,15 +139,6 @@ Wenn Sie gewinnen, koennen Sie die verausgabten Kosten von der Gegenseite festse
 - "Ich brauche keinen Anwalt, also kein Risiko." → Doch — Gegenseite hat Anwalt, dessen Kosten zahlen Sie bei Niederlage.
 - "Sachverstaendigen-Vorschuss spaere ich mir." → Ohne Vorschuss kein Sachverstaendigen-Beweis. Beweisantrag laeuft ins Leere.
 
-## Querverweise
-
-- `klage-streitwert-angabe-3-zpo` — Streitwert bestimmen.
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Erfolg vs. Kosten.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `gerichtskostenvorschuss-12-gkg` — Vorschuss zahlen.
-- `vergleich-richtervorschlag-278-ii-zpo` — Vergleichsanreiz.
-- `kostenfestsetzung-103-104-zpo` — Bei Erfolg erstattet.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. GKG- und RVG-Tabellen periodisch angepasst — Werte vor Klage verifizieren ueber justiz.de oder juris.
@@ -255,24 +244,9 @@ Sie koennen vor dem Termin Akten einsehen. Antrag an die Geschaeftsstelle, Termi
 - "Krank ohne Attest." → Verlegungs-Antrag scheitert ohne Beleg.
 - "Vergessen wegen Urlaub." → Saeumnis-Folgen.
 
-## Querverweise
-
-- `terminvorbereitung-checkliste` — Vorbereitung.
-- `saeumnis-im-termin-330-zpo` — Saeumnis.
-- `verhalten-gerichtssaal-laienleitfaden` — Verhalten.
-- `vergleich-richtervorschlag-278-ii-zpo` — Vergleich im Termin.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 214 ff. ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `muendliche-verhandlung-akten-griffbereit`
 
@@ -406,23 +380,7 @@ Wenn der Termin als Video stattfindet, brauchen Sie:
 - **Fehler:** Bei Video-Verhandlung Webcam nicht getestet. → **So vermeiden:** Einen Tag vorher Probe-Verbindung machen.
 - **Fehler:** Mitschreib-Block vergessen, nichts notiert. → **So vermeiden:** Block und Stift IMMER mit.
 
-## Querverweise
-
-- `terminvorbereitung-checkliste` — Checkliste zum Mitnehmen
-- `ladung-termin-216-zpo` — Was die Ladung bedeutet
-- `verhalten-gerichtssaal-laienleitfaden` — Verhaltens-Regeln
-- `vergleich-richtervorschlag-278-ii-zpo` — Vergleich annehmen oder ablehnen
-- `klage-zusammenstellen-komplettes-bundle-amtsgericht` — Bundle-Reihenfolge
-- `video-verhandlung-128a-zpo` — Video-Variante
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Termin-Vorbereitung ist Praxis-Konvention; die hier beschriebenen Akten-Methoden sind in der anwaltlichen Praxis Standard und auch für Selbstvertreter geeignet.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

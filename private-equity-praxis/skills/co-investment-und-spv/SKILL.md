@@ -5,10 +5,6 @@ description: "Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Infor
 
 # Co-Investment und SPV-Struktur
 
-## Arbeitsbereich
-
-Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -86,14 +82,6 @@ Drag-Along im Co-Invest-SHA:
 - FDI-Aggregation übersehen — Closing blockiert.
 - Schachtelprivileg verloren wegen falscher Holdinghöhe (< 10 Prozent § 8b Abs. 4 KStG).
 
-## Querverweise
-
-- pe-004 für KAGB-Scope-Test.
-- pe-011 für Subscription / Side Letter (Co-Invest-Rechte).
-- pe-016 für Club Deals.
-- pe-019 für KYC im SPV-Subscription.
-- pe-026 für FDI / Kartellrecht.
-
 ## Quellen Stand 06/2026
 
 - KAGB § 1 Abs. 1.
@@ -101,3 +89,4 @@ Drag-Along im Co-Invest-SHA:
 - FSR (VO (EU) 2022/2560).
 - § 8b KStG (Schachtelprivileg, 10 Prozent Mindestbeteiligung für KapErtrSt-Befreiung); MinStG (Pillar Two).
 - ILPA Co-Investment Guidance (Stand vom Anwender zu prüfen).
+

@@ -46,13 +46,6 @@ description: "Router-Skill für digitale Elemente und Reparaturrecht im BGB-AT-K
 - Automatisierte Annahme (z.B. Online-Shop-Bestätigung) ist rechtlich eine Willenserklärung des Unternehmers.
 - Updatepflicht kann über vereinbarte Vertragsdauer hinausgehen.
 
-## Output
-
-- Routing-Entscheidung: Welches Normensystem ist anwendbar?
-- Digitaler-Vertragsschluss-Schema: Abgabe — Zugang — Wirksamkeit
-- AGB-Einbeziehungs-Checkliste für Online-Verträge
-- Klausurlösungsansatz mit Normabgrenzung
-
 ## Quellen
 
 - [§ 327 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__327.html)
@@ -82,3 +75,4 @@ vor allem den Vertragsschluss und die Anwendbarkeit von AGB-Klauseln auf digital
 - Verbraucher-Schutz: Widerrufsrecht nach §§ 356d und 312b BGB?
 - Aktualisierungspflicht: §§ 327f und 475b BGB — Umfang und Dauer?
 - Abgrenzung: Dienstvertrag, Werkvertrag oder Kaufvertrag mit digitalen Elementen?
+

@@ -5,10 +5,6 @@ description: "Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfun
 
 # Methodenlehre — Öffentliches Recht
 
-## Arbeitsbereich
-
-Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfung bei Grundrechten, Verhältnismäßigkeit, Ermessen und Ermessensfehler, Verwaltungsaktqualität, prozessuale Methodik der Klagearten, unionsrechtskonforme Auslegung, Vorrang des EU-Rechts, Vorlage an EuGH und BVerfG. Lädt, wenn der Nutzer "Grundrechtsprüfung", "Verhältnismäßigkeit", "Ermessen prüfen", "Klageart bestimmen" oder "Vorlage EuGH" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,15 +12,6 @@ description: "Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfun
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Das öffentliche Recht hat drei methodische Eigenheiten, die es vom Zivil- und Strafrecht unterscheiden:
-1. Die **Schichtenprüfung** bei Grundrechten (Schutzbereich – Eingriff – Rechtfertigung).
-2. Die **Verhältnismäßigkeit** als allgegenwärtiger Maßstab.
-3. Das **Ermessen** und seine Fehler — die Verwaltung "kann", das Gericht prüft die Grenzen.
-
-Hinzu kommt die prozessuale Methodik: Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs-, allg. Leistungsklage, Normenkontrolle), Zulässigkeit prüfen, dann Begründetheit.
 
 ## Eingaben
 
@@ -128,23 +115,9 @@ Faustregel: Erst die Maßnahme qualifizieren (VA oder nicht?), dann die Klageart
 4. Verhältnismäßigkeit wird Schritt für Schritt durchgegangen — vier eigenständige Subsumtionsblöcke.
 5. Bei Ermessen: Skill fragt nach der Fehlerart und nach der korrekten Begründung.
 
-## Querverweise
-
-- `methodenlehre-grundlagen` — verfassungskonforme und unionsrechtskonforme Auslegung.
-- `subsumtionslehre` — Subsumtion innerhalb jedes Tatbestandsmerkmals (§ 35 VwVfG, Eingriff, Verhältnismäßigkeit).
-- `loesungsschemata` — Schichtenprüfung als Schema (mit Disclaimer).
-- `rechtsgeschichte` — Grundgesetz-Genese als methodisches Hintergrundwissen.
-
 ## Was diese Skill nicht tut
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Sie ist kein Klagereihen-Skript.
 - Sie schreibt keine ausgewerteten Klausuren — sie übt die Methodik.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

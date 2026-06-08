@@ -5,9 +5,6 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 
 # Elterngeld Elterngeldstellen EM Rente
 
-## Arbeitsbereich
-
-**Elterngeld Elterngeldstellen EM Rente** ordnet den Fall über die tragenden Prüfungslinien: Elterngeld nach dem BEEG, Erwerbsminderungsrente medizinische Feststellung, Soziales Entschaedigungsrecht SGB XIV seit 2024. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Elterngeld Elterngeldstellen EM Rente im Selbstvertretung am Sozia
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `elterngeld-elterngeldstellen-beeg`
@@ -268,25 +266,9 @@ Wie bei anderen Sozialleistungen.
 - Therapie-Berichte fehlen → wichtig
 - Behörden-Bezeichnung verwechselt → je Land unterschiedlich
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — Widerspruch
-- `verpflichtungsklage-54-sgg` — Klage
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-- `medizinische-gutachten-strategie-laien` — Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregelungen pruefen. BSG-Linien noch im Aufbau. Bei diesem neuen Recht besonders sorgfaeltig pruefen — Verifikation in juris empfohlen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `erstattung-zu-unrecht-50-sgb-x`
 
@@ -484,15 +466,7 @@ Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Pruefen Sie genau die Definit
 - Berufsschutz für falschen Jahrgang behauptet → nur vor 02.01.1961
 - Reha-Bericht ignoriert → wichtigster Beleg
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `verpflichtungsklage-54-sgg` — Klageform
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-- `medizinische-gutachten-strategie-laien` — Gutachten
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-- `widerspruch-gegen-gutachten-laien` — Reaktion auf Gutachten
-
 ## Quellen und Aktualitaet
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

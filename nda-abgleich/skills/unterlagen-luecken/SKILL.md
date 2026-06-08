@@ -9,7 +9,6 @@ description: "Lücken- und Beschaffungsliste für NDA-Abgleich: trennt fehlende 
 
 Diese Unterlagenprüfung für **Nda Abgleich** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `aenderungsmodus-compliance-dokumentation` — Aenderungsmodus Compliance Dokumentation
@@ -36,7 +35,6 @@ Diese Unterlagenprüfung für **Nda Abgleich** benennt fehlende Dokumente, strei
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -46,12 +44,10 @@ Konkret zu prüfen:
 - § 307 BGB (Inhaltskontrolle)
 - § 90 HGB (Geschäftsgeheimnisse)
 - GeschGehG (Geschäftsgeheimnisgesetz)
-## Output
-
-Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat NDA-Abgleich typischerweise NDA-Entwurf, Mustervorlage zuerst.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

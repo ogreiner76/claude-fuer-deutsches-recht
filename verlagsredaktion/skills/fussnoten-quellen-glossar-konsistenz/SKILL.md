@@ -5,10 +5,6 @@ description: "Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert,
 
 # Fussnoten- und Quellen-Konsolidierung
 
-## Arbeitsbereich
-
-Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert, vereinheitlicht, prueft Pinpoints und stellt die Reihenfolge nach Verlagsstandard her. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,14 +90,6 @@ Sonst: Volltext-Wiederholung oder Kurzzitat mit "ders." / "dies."
 - Online-Zitate ohne Abrufdatum.
 - "Stand"-Angabe bei Online-Kommentaren vergessen.
 
-## Querverweise
-
-- `verl-zitierweise-pruefung-zeitschrift-jus-njw` - Hausnorm.
-- `quellen-zitate-fundstellencheck` - allgemeiner Quellencheck.
-- `verl-formatvorlage-check-autor-manuskript` - vorgelagert.
-- `verl-glossar-konsistenz-pruefung` - Konsistenz allgemein.
-- `verl-zeitschriftenartikel-leitfaden` - Zielformat.
-
 ## Quellen Stand 06/2026
 
 - Manuskriptrichtlinien der jeweiligen Zielzeitschrift (vom Verlag bezogen).
@@ -110,3 +98,4 @@ Sonst: Volltext-Wiederholung oder Kurzzitat mit "ders." / "dies."
 - Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Wayback Machine, [https://web.archive.org](https://web.archive.org), für URL-Archivierung.
+

@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshalle
 
 # Bauueberwachung Gewerbehalle Stahlbau (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mit systematischer Maengeldokumentation und SAP-PM-Integration für Betreiber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Schweissnahtpruefung (VT, UT, MT) und Korrosionsschutz-Trockenschichtdickenmessu
 - Kranbahn-Toleranz ueberschritten: Schienenabstand falsch, Kran lauft schief, Getriebeschaden
 - Brandschutzanforderung unterschaetzt: tragendes Bauteil ohne Feuerwiderstand F30 oder F60 je nach LBO
 
-## Output
-
-Schweissnahtueberwachungsbericht mit VT/UT-Ergebnissen. Korrosionsschutz-Schichtdickenprotokoll.
-Kranbahn-Abnahmeprotokoll mit TUeV-Freigabe. Brandschutz-Pruefprotokoll Intumeszenzanstrich.
-Abnahmeprotokoll Gewerbehalle nach VOB/B. Fotodokumentation Dachdecke und Stahlverbindungen.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll Gewerbehalle nach VOB/B. Fotodokumentation Dachdecke und Stahlv
 - [DIN EN ISO 12944 Korrosionsschutz](https://www.gesetze-im-internet.de/)
 - [DIN 15018 Krane Stahltragwerke](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 376/97 Stahlbau Maengelhaftung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+376/97)
+

@@ -5,10 +5,6 @@ description: "Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-To
 
 # Leasing und Cape Town – Flugzeugsicherung im internationalen Leasing
 
-## Arbeitsbereich
-
-Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-Town-Registrierung. Prueft Cape Town Convention Art. 2-9 Internationale Interests LuftFzgG nationales Pfandrecht IDERA Aircraft Protocol Art. XI Alternative A/B und liefert Leasing-Sicherungsstrategie und Vertrags-Pruef-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,10 +54,6 @@ Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-Town-Registrieru
 - Finance-Lease als Dry-Lease deklariert; steuerliche und rechtliche Konsequenzen.
 - Aircraft-Protocol-Alternative ignoriert; Insolvenzschutz schwächer als erwartet.
 
-## Output
-
-Leasing-Sicherungsstrategie je Leasingtyp. Vertrags-Prüf-Checkliste Cape Town compliance. IDERA-Hinterlegungsablauf.
-
 ## Quellen
 
 - Cape Town Convention: https://www.unidroit.org/instruments/security-interests/aircraft-protocol/
@@ -88,3 +80,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

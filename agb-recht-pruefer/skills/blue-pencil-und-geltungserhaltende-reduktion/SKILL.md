@@ -34,7 +34,3 @@ description: "Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraege
 4. Rest für sich verstaendlich?
 5. Verbot der Reduktion verletzt?
 
-## Output
-
-- Klauselzerlegungs-Memo.
-- Schriftsatzbaustein.

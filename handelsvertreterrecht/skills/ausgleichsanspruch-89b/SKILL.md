@@ -65,10 +65,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Rohausgleich über Höchstbetrag berechnet — Korrektur nach § 89b Abs. 2 HGB vergessen.
 - Neue Kunden nicht dokumentiert — Ausgleichsgrundlage nicht nachweisbar.
 
-## Output
-
-Ausgleichsberechnung nach BGH-Stufenmethode, Anmeldefristschreiben, Klageschrift auf Ausgleich.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +85,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [Art. 17 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [BGH-Entscheidungen auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

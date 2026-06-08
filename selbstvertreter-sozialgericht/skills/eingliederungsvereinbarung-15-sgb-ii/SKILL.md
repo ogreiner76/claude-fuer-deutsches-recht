@@ -49,6 +49,3 @@ description: "Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Ko
 5. Gibt es eine konkrete Rechtsfolgenbelehrung oder nur allgemeinen Druck?
 6. Widerspruch gegen Minderungsbescheid und einstweiliger Rechtsschutz nötig?
 
-## Output
-
-Kooperationsplan-Redline, Gesprächsvorbereitung, Nachweisliste, Änderungswunsch und Widerspruchs-/Eilantragsampel.

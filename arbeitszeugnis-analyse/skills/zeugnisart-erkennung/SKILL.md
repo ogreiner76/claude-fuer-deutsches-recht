@@ -31,10 +31,6 @@ description: "Unterscheidet qualifiziertes Endzeugnis einfaches Zeugnis Zwischen
 
 **Beispiel 4 – Ausbildungszeugnis ohne Berufsschulangabe (Orange):** Bei einem BBiG-Zeugnis fehlt die Beurteilung des schulischen Teils komplett, obwohl Schule und Betrieb im Sachverhalt eine tragende Rolle spielen — erwarteter Baustein fehlt.
 
-## Ausgabeformat
-
-Der Skill gibt zunächst die erkannte Zeugnisart aus (mit Begründung) und listet dann die erwarteten Bausteine mit dem Status "vorhanden / fehlend / unerwartet". Auf dieser Basis justiert er den Interpretationsrahmen für alle nachgelagerten Analyse-Skills.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -43,3 +39,4 @@ Der Skill gibt zunächst die erkannte Zeugnisart aus (mit Begründung) und liste
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -5,9 +5,6 @@ description: "Influencer Marketing KI Trainingsdaten im Plugin Fachanwalt Gewerb
 
 # Influencer Marketing KI Trainingsdaten
 
-## Arbeitsbereich
-
-**Influencer Marketing KI Trainingsdaten** ordnet den Fall über die tragenden Prüfungslinien: Influencer-Marketing und UWG, KI-Trainingsdaten und Urheberrecht, Klage oder Antrag im gewerblichen Rechtsschutz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Influencer Marketing KI Trainingsdaten im Plugin Fachanwalt Gewerb
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `influencer-marketing-uwg-spezial`
@@ -30,9 +28,6 @@ description: "Influencer Marketing KI Trainingsdaten im Plugin Fachanwalt Gewerb
 **Fokus:** Influencer-Marketing und UWG: Kennzeichnungspflicht Werbung § 5a UWG, § 6 TMG, MStV, BGH 'Influencer'-Entscheidungen, organische vs. bezahlte Posts, Schleichwerbung, Abmahnpraxis, Plattformregeln Instagram/TikTok/YouTube, DS-GVO-Schnittstellen.
 
 ### Influencer-Marketing und UWG
-
-## Aufgabe
-Dieser Skill behandelt die lauterkeitsrechtlichen Anforderungen an Influencer-Marketing: Kennzeichnungspflicht, Schleichwerbungsverbot, Abmahnpraxis und aktuelle BGH-Rechtsprechung.
 
 ## Rechtsrahmen
 
@@ -121,13 +116,6 @@ Dieser Skill behandelt die lauterkeitsrechtlichen Anforderungen an Influencer-Ma
 ## Plugin-Kontext
 Anschluss-Skills: `gr-mitbewerberabmahnung-aktivlegitimation-spezial`, `uwg-systematik-und-anwendung`, `gr-abmahnung-workflow`.
 
-## Quellenregel
-- BGH-Entscheidungen: [bgh.de](https://www.bundesgerichtshof.de), [dejure.org](https://dejure.org).
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de) (UWG, TMG, MStV).
-- AVMD-RL: [eur-lex.europa.eu](https://eur-lex.europa.eu).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine plattformspezifische Technikberatung (Algorithmus, Reichweite).
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -137,9 +125,6 @@ Anschluss-Skills: `gr-mitbewerberabmahnung-aktivlegitimation-spezial`, `uwg-syst
 **Fokus:** KI-Trainingsdaten und Urheberrecht: Text and Data Mining (TDM) §§ 44a, 44b UrhG, Opt-out-Vorbehalt, KI-generierte Werke und Schutzfähigkeit, EU AI Act, Haftung für KI-Output, Datenbankschutz § 87a UrhG, aktuelle EuGH-/BGH-Leitlinien.
 
 ### KI-Trainingsdaten und Urheberrecht
-
-## Aufgabe
-Dieser Skill behandelt die urheberrechtlichen Fragen rund um KI-Trainingsdaten, Text and Data Mining (TDM), Schutzfähigkeit KI-generierter Inhalte und Haftungsfragen nach dem EU AI Act.
 
 ## Rechtsrahmen
 
@@ -220,12 +205,6 @@ Dieser Skill behandelt die urheberrechtlichen Fragen rund um KI-Trainingsdaten, 
 ## Plugin-Kontext
 Anschluss-Skills: `spezial-urhg-livequellen-und-rechtsprechungscheck`, `uwg-systematik-und-anwendung`, `fachanwalt-gewrechts-ki-vo-50-genai`.
 
-## Quellenregel
-- UrhG, DSM-RL, EU AI Act: [gesetze-im-internet.de](https://www.gesetze-im-internet.de), [eur-lex.europa.eu](https://eur-lex.europa.eu).
-- EuGH: [curia.europa.eu](https://curia.europa.eu); BGH: [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf (insb. EU AI Act Umsetzungsstand) ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Beratung zu KI-Architekturen.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -304,9 +283,6 @@ DesignG:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -413,3 +389,4 @@ K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 - `erstgespraech-mandatsannahme` — Tatsachen-Grundlage und Streitwertskizze
 - `vergleichsverhandlung-strategie` — paralleler Vergleichsversuch
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — UWG-spezifische Bausteine
+

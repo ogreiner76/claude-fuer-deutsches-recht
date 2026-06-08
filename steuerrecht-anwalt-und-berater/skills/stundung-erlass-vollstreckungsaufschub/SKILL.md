@@ -11,10 +11,6 @@ description: "Anträge auf Stundung Erlass und Vollstreckungsaufschub bei Zahlun
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Zweck
-
-Anwaltliche Beratung und Antragstellung beim Finanzamt zur Streckung der Zahlungspflicht, wenn der Mandant fällige Steuern oder Bescheidforderungen vorübergehend oder dauerhaft nicht aufbringen kann. Drei abgestufte Instrumente — Stundung (Aufschub), Erlass (Verzicht), Vollstreckungsaufschub (vorläufiges Pausieren der Vollstreckung). Häufig in Sanierungskonstellationen kombiniert mit `anw-insolvenzreife-pruefung-17-19-inso` und `stb-warnschreiben-krisensignale`.
-
 ## Kaltstart-Rückfragen
 
 1. Welche Steuerart und welcher Bescheid (Anspruchshöhe, Fälligkeit, ggf. Säumniszuschläge)?
@@ -161,15 +157,7 @@ angebot]
 - Sanierungskonzept (IDW S 6) als Grundlage.
 - Ggf. parallel Verständigung mit anderen Gläubigern.
 
-## Querverweise
-
-- `anw-einspruch-finanzamt` — bei Ablehnung
-- `anw-aussetzung-vollziehung` — wenn Vollstreckung trotz Antrag läuft
-- `anw-insolvenzreife-pruefung-17-19-inso` — Pflichtprüfung vor § 222 AO
-- `stb-liquiditaetsvorschau-3wochen` — Belege-Quelle
-- `stb-warnschreiben-krisensignale` — Steuerberater hat parallel hinzuweisen
-- `fachanwalt-insolvenz-sanierungsrecht` — bei Übergang Sanierung/StaRUG
-
 ## Quellen und Updates
 
 Stand: 05/2026. § 234 AO Stundungszinssatz aktuell unverändert 0.5 %/Monat (gesonderter Zinssatz, BVerfG-Urteil zu § 233a AO greift nicht direkt). AEAO Stand 2024 berücksichtigt. Bei Reform der Säumnis-/Stundungszinsen aktualisieren.
+

@@ -5,10 +5,6 @@ description: "Überträgt Alimentationsfragen vorsichtig auf Versorgungsempfäng
 
 # Versorgung, Familienzuschlag und offene Übertragungsfragen
 
-## Arbeitsbereich
-
-Überträgt Alimentationsfragen vorsichtig auf Versorgungsempfänger, Hinterbliebene, kinderreiche Beamtenfamilien und Familienzuschlag-Rückforderungen, mit ausdrücklicher Unsicherheits- und Landesrechtsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,13 +48,7 @@ Der Skill trennt:
 - Ruhen, Anrechnung und Erwerbseinkommen;
 - Unfallfürsorge.
 
-## Output
-
-- Risikomemo zur Übertragbarkeit der Besoldungsrechtsprechung.
-- Antrag/Widerspruch mit vorsichtiger verfassungsrechtlicher Begründung.
-- Rückforderungsabwehr mit Vertrauensschutz- und Billigkeitsargumenten.
-- Familienzuschlag-Checkliste für Nachweise.
-
 ## Sperre gegen Überbehauptung
 
 Der Skill darf nicht schreiben „Versorgungsempfänger haben sicher denselben Nachzahlungsanspruch wie aktive Beamte". Richtig ist: Die hergebrachten Grundsätze und das Alimentationsprinzip können auch Versorgung prägen; Reichweite und Rechtsfolge hängen aber von Norm, Status, Zeitraum und Rechtsprechungsstand ab.
+

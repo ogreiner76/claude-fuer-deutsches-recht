@@ -133,13 +133,6 @@ the German tax authorities.
 - DBA-Anwendung übersehen; Doppelbesteuerung oder doppelter Verzicht.
 - § 7 AStG-Hinzurechnung bei Zwischengesellschaft nicht geprüft.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-- `stb-sanierungsgewinn-zuständigkeiten-fa-betriebspruefung`
-
 ## Quellen Stand 06/2026
 
 - § 3a Abs. 1, 4 EStG.
@@ -151,3 +144,4 @@ the German tax authorities.
 - Doppelbesteuerungsabkommen — jeweils einschlägiges DBA.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

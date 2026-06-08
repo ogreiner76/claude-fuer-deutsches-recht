@@ -5,10 +5,6 @@ description: "Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufsch
 
 # Bedingungen aufschiebend, aufloesend, Fristen
 
-## Arbeitsbereich
-
-Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Bedingungstyp zu Beispielklausel und Pitfall doppelt-negative Formulierungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -153,12 +149,6 @@ wird. § 119 InsO bleibt unberuehrt.
 - **Potestativ ohne Sorgfaltsklausel.** Potestativbedingungen brauchen Mitwirkungspflicht, sonst Manipulationsrisiko.
 - **CP-Liste in Fliesstext.** CPs gehoeren in eine Anlage und sind durchnummeriert.
 
-## Ausgabeformat
-
-- Klauselentwurf mit Bedingungslogik und Fristen.
-- Tabelle Bedingung zu Wirkung zu Long Stop Date.
-- Fristberechnungsdiagramm bei komplexen Vertraegen.
-
 ## Beispiel
 
 **Aufgabe:** Optionsklausel im Investitionsvertrag. Der Investor kann innerhalb von 24 Monaten nach Erstinvestment eine Folgetranche zeichnen. Bei Ausübung wird die Tranche mit Zahlung des Kaufpreises wirksam.
@@ -185,23 +175,9 @@ Die Frist von 24 Monaten beginnt mit dem Tag nach Eingang der Erst-
 investition auf dem Konto der Gesellschaft (§ 187 Abs. 1 BGB).
 ```
 
-## Querverweise
-
-- `anspruchsgrundlage-und-rechtsfolgen-klauseln`
-- `kuendigungsklauseln-und-vertragsbeendigung`
-- `dokumentarchitektur-vertrag-und-schriftsatz`
-- `verweis-und-querverweis-technik`
-
 ## Quellen (Stand 05/2026)
 
 - § 158 BGB, § 159 BGB, § 161 BGB, § 162 BGB, § 163 BGB, §§ 187 bis 193 BGB. gesetze-im-internet.de.
 - § 119 InsO für Beendigung bei Insolvenz. gesetze-im-internet.de/inso/.
 - M&A-Closing-Konvention folgt internationaler Praxis und ist in deutscher M&A-Praxis etabliert. Konkrete Klauselformulierungen vom Nutzer mit aktueller Literatur zu validieren.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -38,9 +38,6 @@ Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 68
 - § 204 Abs. 1 Nr. 3 BGB — Verjährungshemmung durch Zustellung des Mahnbescheids
 - § 167 ZPO — Rückwirkung der Zustellung bei "demnächst"-Zustellung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufgabe
 
 Der Skill führt durch das automatisierte Mahnverfahren, das in Deutschland ausschließlich über das gemeinsame Mahnportal der Länder läuft: [www.online-mahnantrag.de](https://www.online-mahnantrag.de). Anwälte sind seit 1.1.2018 zur elektronischen Einreichung verpflichtet (§ 702 Abs. 2 ZPO i.V.m. § 130d ZPO).
@@ -132,36 +129,9 @@ Privatperson oder Vereine ohne beA: über das Online-Portal anlegen, dann ausdru
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-```
-MAHNANTRAG-VORBEREITUNG [Mandant] gegen [Schuldner]
-
-Schlüssigkeit: [JA – Anspruchsgrundlage XYZ / NEIN – Klage statt Mahnverfahren]
-Anhängigkeit-Termin: [Verjährung droht zum DD.MM.JJJJ – Einreichung bis ...]
-
-Antragsdaten:
-- Antragsteller: [Name, Anschrift, ggf. ges. Vertreter]
-- Antragsgegner: [Name, Anschrift, ggf. ges. Vertreter, HRB-Nr.]
-- Hauptforderung: [EUR ...,..]
-- Anspruchsbezeichn.: [Katalog-Nr. ...; Individualisierung: Rechnungsnr. ... v. DD.MM.JJJJ]
-- Zinsen: [X % seit DD.MM.JJJJ – Anspruchsgrundlage § 288 BGB / Vertrag]
-- Nebenforderungen: [Mahnkosten EUR ..; Inkassokosten EUR .. (Anwaltskosten Verzug)]
-- Gegenleistung: [erbracht / nicht abhängig]
-- Verfahrensgebühr: [EUR .. nach Nr. 1100 KV GKG]
-
-Übermittlung: [beA mit EDA-XML / EGVP / Druck]
-Wiedervorlage: [DD.MM.JJJJ (2 Wo nach voraussichtl. Zustellung)]
-```
-
 ## Qualitätsgates
 
 - Verbraucherdarlehen mit überhöhtem Zinssatz – Mahnverfahren unzulässig.
 - Anspruchsbezeichnung muss eindeutig sein – sonst keine Verjährungshemmung.
 - Bei Auslands-Schuldner ist Mahnverfahren oft nicht zulässig oder Europäisches Mahnverfahren (EuMahnVO) statt deutsches Mahnverfahren.
 
-## Querverweise
-
-- `zv-vollstreckungsbescheid-folge` – nach Widerspruchsfrist-Ablauf.
-- `zv-titel-klausel-zustellung` – VB trägt Klausel kraft Gesetzes.
-- `forderungsmanagement-klagewerkstatt/klagevorlage-aus-eigenen-mustern` – wenn Widerspruch und Übergang ins streitige Verfahren.

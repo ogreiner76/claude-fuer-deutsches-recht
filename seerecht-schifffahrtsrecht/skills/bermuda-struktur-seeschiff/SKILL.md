@@ -5,10 +5,6 @@ description: "Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding):
 
 # Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken
 
-## Arbeitsbereich
-
-Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und Haftungsrisiko-Karte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,11 +44,6 @@ Ein Schiffsfonds hält seine Schiffe über Cayman-SPVs; nach einem Totalverlust 
 - Fehlende Substanz der Bermuda-Gesellschaft; BFH bejaht Hinzurechnung.
 - ISM-DOC ausgestellt auf Managementfirma aber wirtschaftlicher Betreiber ist anders.
 - KYC/AML-Anforderungen verlangen zunehmend UBO-Transparenz.
-
-## Output
-- Strukturanalyse-Vermerk: Gesellschaftskaskade; Haftungsfluss; Steuerrisiken
-- Haftungsrisiko-Karte
-- Restrukturierungs-Empfehlung
 
 ## Erweiterte Normengrundlage
 

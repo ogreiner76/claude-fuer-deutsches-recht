@@ -5,9 +5,6 @@ description: "Oertliche ZPO Online Verfahren im Selbstvertretung am Amtsgericht:
 
 # Oertliche ZPO Online Verfahren
 
-## Arbeitsbereich
-
-**Oertliche ZPO Online Verfahren** ordnet den Fall über die tragenden Prüfungslinien: Bestimmung des örtlich zuständigen Amtsgerichts nach §§ 12, Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026, Rechtsmittelfrist 1 Monat nach § 517 ZPO. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Oertliche ZPO Online Verfahren im Selbstvertretung am Amtsgericht:
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `oertliche-zuständigkeit-12-37-zpo`
@@ -125,24 +123,9 @@ Beklagter ruegt Unzuständigkeit in der Klageerwiderung; Gericht verweist auf An
 - "Im Vertrag steht 'Gerichtsstand: Berlin'." → Bei Verbrauchern oft unwirksam (§ 38 ZPO eng).
 - "Bei online bestellter Ware kann ich am Sitz des Online-Shops klagen." → Eher Verbrauchergerichtsstand am eigenen Wohnsitz pruefen (§ 29c ZPO).
 
-## Querverweise
-
-- `verbrauchergerichtsstand-29c-zpo` — Verbraucher-Vorteile.
-- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Welche Gerichtsstufe?
-- `ausnahmen-streitwertgrenze-23-nr-2-gvg` — Mietsache, Reisevertrag.
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 12 ff. ZPO unveraendert. BGH-Rechtsprechung zum Erfuellungsort und Gerichtsstand bei Online-Delikten beachten — bei Unsicherheit Rechtsantragsstelle einschalten.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `online-verfahren-11-buch-zpo-experimentell`
 
@@ -277,13 +260,6 @@ Das Urteil erscheint im Plattform-Postfach. Laden Sie es als PDF herunter und sp
 - **Fehler:** Lokale Sicherungs-Kopien vergessen. → **So vermeiden:** Nach jeder Eingabe als PDF herunterladen.
 - **Fehler:** Bei Video-Termin technische Probleme — kein Backup-Geraet. → **So vermeiden:** Vor dem Termin Funktion testen, Smartphone als Backup griffbereit.
 
-## Querverweise
-
-- `einreichung-mein-justizpostfach-mjp-2024` — MJP als Identifikations-Variante
-- `video-verhandlung-128a-zpo` — Video-Verhandlung allgemein
-- `klageschrift-pflichtbestandteile-253-zpo` — Inhalte der Klageschrift (auch in der Eingabe-Maske noetig)
-- `wann-doch-anwalt-grenzfaelle` — Bei komplexen Faellen Anwalt erwaegen
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Das Online-Verfahren wurde 2025 als Experimentier-Verfahren eingefuehrt; die genaue Norm-Verortung im 11. Buch ZPO und der Anwendungsbereich werden im laufenden Erprobungs-Zeitraum praezisiert. **Verifizieren Sie die aktuelle Rechtslage in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zuständigen Amtsgerichts vor Klageeinreichung.**
@@ -407,21 +383,7 @@ Skill `prozesskostenhilfe-pkh-114-zpo`.
 - "Verlaengerung der Berufungsfrist." → Nicht moeglich.
 - "Ich begruende, wenn ich Zeit habe." → Begruendungs-Frist 2 Monate parallel.
 
-## Querverweise
-
-- `berufung-amtsgericht-511-zpo` — Berufung einlegen.
-- `berufungs-zulassung-niedrig-streitwert` — Zulassung.
-- `fristen-berechnen-187-188-bgb` — Berechnung.
-- `wiedereinsetzung-frist-233-zpo` — Wiedereinsetzung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 517 ZPO unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

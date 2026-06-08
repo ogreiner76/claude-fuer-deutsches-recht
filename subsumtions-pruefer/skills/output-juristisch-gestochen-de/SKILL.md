@@ -16,10 +16,6 @@ description: "Erzeugt Ausgaben im juristischen Schriftsatzstil auf Deutsch: Antr
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Dieser Skill formatiert das Subsumtionsergebnis als juristisch-formalen Text im deutschen Schriftsatzstil. Er dient als Grundlage für Schriftsätze, Klageschriften, Widersprüche, Beschwerden und anwaltliche Stellungnahmen. Der erzeugte Text ist ein Entwurf — er muss von einem Rechtsanwalt geprüft, ergänzt und verantwortet werden.
-
 ## Struktur des Ausgabedokuments
 
 ### 1. Rubrum
@@ -79,3 +75,4 @@ Am Kopf jedes erzeugten Schriftsatzentwurfs steht:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+

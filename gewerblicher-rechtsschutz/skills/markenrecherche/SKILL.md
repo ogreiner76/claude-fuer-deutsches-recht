@@ -5,10 +5,6 @@ description: "Unternehmen oder Mandant plant neue Marke oder Produktname und fra
 
 # Markenrecherche (Clearance)
 
-## Arbeitsbereich
-
-Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Prüfraster: Identitäts- und Aehnlichkeitsprüfung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket für anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen K
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Erste Verwechslungsrisikoprüfung für eine geplante Marke oder Unternehmensbezeichnung. Der Skill führt einen Knockout-Scan durch, identifiziert potenziell kollidierende Voreintragungen und analysiert die relevanten Verwechslungsfaktoren. Ergebnis ist ein Recherchepaket für den beratenden Anwalt – kein Freigabe- oder Sperrurteil. Einsatzfelder: Produktneueinführungen, Rebranding, Domainregistrierungen, Unternehmensneugründungen.
 
 ## Eingaben
 
@@ -124,10 +116,6 @@ Zitierweise nach `../references/zitierweise.md`.
 - Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 9 Rn. 95 ff.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Ausgabeformat
-
-**Clearance-Report:** Tabellarische Zusammenfassung der Rechercheergebnisse (Zeichen, Inhaber, Klassen, Risikobewertung), gefolgt von Einzelanalyse der 🔴/🟠-Treffer im Gutachtenstil, Offene-Punkte-Liste, Entscheidungsbaum.
-
 ## Beispiel (Gutachtenstil)
 
 **Geplantes Zeichen:** NORDBLATT, angemeldet für Kl. 25 (Bekleidung), Kl. 35 (Einzelhandel)
@@ -159,3 +147,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

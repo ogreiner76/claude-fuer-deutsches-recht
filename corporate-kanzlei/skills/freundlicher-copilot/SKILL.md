@@ -103,10 +103,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Freundlicher Corporate-Copilot
 
-## Zweck
-
-Erste Anlaufstelle für alle Corporate/M&A-Fragen. Beantwortet Einstiegsfragen, erklaert Konzepte und leitet an die richtigen Fach-Skills weiter.
-
 ## Haeufige Erstfragen und kurze Antworten
 
 ### Was ist ein Share Deal vs. Asset Deal?
@@ -147,11 +143,9 @@ Mehrheitsaktionaer mit >95 % (AktG §§ 327a-f) kann Minderheitsaktionaere gegen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rote Schwellen
 
 - Unbekannte Materie → an Fach-Skill oder Senior Partner weiterleiten
 - Mandatsgeheimnis: keine vertraulichen Details an unberechtigte Dritte
 - Fristen immer mit Kalender absichern; Verjährung und CP-Fristen sind kritisch
+

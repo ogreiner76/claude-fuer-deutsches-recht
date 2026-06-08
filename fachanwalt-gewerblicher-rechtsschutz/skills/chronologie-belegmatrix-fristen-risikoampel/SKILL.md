@@ -5,9 +5,6 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt G
 
 # Chronologie Belegmatrix Fristen Risikoampel
 
-## Arbeitsbereich
-
-**Chronologie Belegmatrix Fristen Risikoampel** ordnet den Fall über die tragenden Prüfungslinien: Chronologie und Belegmatrix im gewerblichen Rechtsschutz, Fristen und Risikoampel im gewerblichen Rechtsschutz, Mandantenkommunikation im gewerblichen Rechtsschutz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt G
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `workflow-chronologie-und-belegmatrix`
@@ -30,9 +28,6 @@ description: "Chronologie Belegmatrix Fristen Risikoampel im Plugin Fachanwalt G
 **Fokus:** Chronologie und Belegmatrix im gewerblichen Rechtsschutz: Zeitachse aufbauen, Dokumente chronologisch sortieren, Lücken identifizieren, Beweiskette strukturieren für Verletzungsverfahren, EV, Klagschrift und Mandantenakte.
 
 ### Chronologie und Belegmatrix
-
-## Aufgabe
-Diese Prüfungslinie hilft beim strukturierten Aufbau der Zeitachse und Belegmatrix: Sachverhalts-Chronologie, Dokumentenordnung und Beweiskette für anwaltliche Verfahren im gewerblichen Rechtsschutz.
 
 ## Warum Chronologie und Belegmatrix?
 
@@ -133,14 +128,6 @@ Zeitachse Markenverletzung
 - `spezial-gewerblichen-tatbestand-beweis-und-belege` – Beweismitteldetails.
 - `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung` – Qualitätsgate EV.
 
-## Quellenregel
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Wayback Machine: [web.archive.org](https://web.archive.org).
-- ZSSR: [zssr.de](https://www.zssr.de).
-- Register: [dpma.de](https://www.dpma.de), [euipo.europa.eu](https://euipo.europa.eu).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Lücken ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Bewertung ohne vollständige Zeitachse.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -150,9 +137,6 @@ Zeitachse Markenverletzung
 **Fokus:** Fristen und Risikoampel im gewerblichen Rechtsschutz: systematischer Fristencheck, Risikoampel Grün/Gelb/Rot für alle Verfahrensarten (Marke, Patent, Design, UWG, EV, Klage), Fristenkalender und Eskalationshinweise.
 
 ### Fristen und Risikoampel
-
-## Aufgabe
-Diese Prüfungslinie führt einen systematischen Fristencheck durch und bewertet das Risiko mit einer Ampel: Grün (sicher), Gelb (Handlungsbedarf), Rot (Eskalation sofort).
 
 ## Risikoampel-Systematik
 
@@ -243,12 +227,6 @@ Diese Prüfungslinie führt einen systematischen Fristencheck durch und bewertet
 - `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zustellung` – EV-Fristen.
 - `gr-portfolio-pflege-workflow` – Portfolio-Fristen.
 
-## Quellenregel
-- ZPO, MarkenG, PatG, DesignG, EPÜ: [gesetze-im-internet.de](https://www.gesetze-im-internet.de), [epo.org](https://www.epo.org).
-- DPMA: [dpma.de](https://www.dpma.de); BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Fristberechnung ohne vollständige Eingangsdaten.
 - Kein Ersatz für vollständige Mandantenberatung und laufende Fristenüberwachung.
@@ -258,9 +236,6 @@ Diese Prüfungslinie führt einen systematischen Fristencheck durch und bewertet
 **Fokus:** Mandantenkommunikation im gewerblichen Rechtsschutz: Mandantenbriefe, Entscheidungsvorlagen, Statusberichte, Kostenaufklärung, Beratungsprotokoll, Tonalität und BRAO-Informationspflichten. Mustertexte für alle Phasen des Mandats.
 
 ### Mandantenkommunikation
-
-## Aufgabe
-Diese Prüfungslinie unterstützt die gesamte Mandantenkommunikation im gewerblichen Rechtsschutz: von der Erstberatung über laufende Statusberichte bis zur Mandatsabschluss-Kommunikation.
 
 ## BRAO-Informationspflichten
 
@@ -395,11 +370,7 @@ Wir danken für das Vertrauen und stehen für künftige Mandate gerne zur Verfü
 - `spezial-schadensersatz-abschlussprodukt-und-uebergabe` – Abschluss-Memo.
 - `spezial-bezuege-zahlen-schwellen-und-berechnung` – Kostenabschätzung.
 
-## Quellenregel
-- BRAO, BORA, RVG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine inhaltlichen Urteile in diesem Skill (nur Kommunikationsstruktur).
-- Annahmen und Lücken ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine inhaltliche Rechtsprüfung (das machen die Fachmodule).
 - Kein Ersatz für vollständige Mandantenberatung und individuelle Aufklärung.
+

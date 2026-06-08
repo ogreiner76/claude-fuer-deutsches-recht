@@ -8,6 +8,7 @@ description: "Fachanwaltsbereich Familienrecht: Einstieg, Verfahrenswahl und Rou
 ## Arbeitsbereich
 
 Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in die tragende Prüfungslinie. Im Mittelpunkt stehen Kindeswohlgefährdung nach § 1666 BGB, Familienmediation nach § 156 FamFG und Cochemer Praxis, der Scheidungsantrag (§§ 1564 ff. BGB, § 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüfungslinien bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +26,7 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er kl
 - Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag`
@@ -45,10 +47,6 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Familienrecht**. Er kl
 - **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
 - **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Zweck
-
-Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastung, Drittklage bei Jugendamts-Maßnahme.
 
 ## 1) Eingangs-Abfrage
 
@@ -559,9 +557,6 @@ Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen z
 
 Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org, openjur.de verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## FAO-Voraussetzungen (§ 5 Abs. 1 FAO)
 
 - **Theoretischer Lehrgang** 120 Stunden (§ 4 FAO).
@@ -605,9 +600,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **OLG-Familiensenat** als Beschwerdegericht (§ 119 GVG).
 - **BGH XII. Zivilsenat** in Familiensachen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Deutscher Anwaltverein DAV Arbeitsgemeinschaft Familienrecht.
@@ -1310,3 +1302,4 @@ Abtrennung des Versorgungsausgleichs nach § 142 FamFG.
 Maßnahme: Zeile aus Leitentscheidungen-Tabelle gelöscht.
 Hinweis: Die Abtrennung von Folgesachen ist in § 140 FamFG geregelt (nicht § 142 FamFG).
 -->
+

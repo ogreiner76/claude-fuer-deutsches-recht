@@ -5,10 +5,6 @@ description: "Transaktion vor Closing und Anwalt muss Closing Bible erstellen: V
 
 # Closing Bible und Archiv
 
-## Arbeitsbereich
-
-Transaktion vor Closing und Anwalt muss Closing Bible erstellen: Versionierung Signaturketten Registerbelege Deal-Archiv. Normen §§ 311b 15 GmbHG BeurkG SPA-Pflichten Notarrecht. Prüfraster Vollständigkeit Unterlagen Signatur-Tracking Register-Check Archivierungspflichten. Output Closing-Bible-Entwurf Signatur-Checkliste Archivplan. Abgrenzung zu mittelstand-ma-aktenanlage (Anlage) und signing-closing-conditions (Prozess). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Transaktion vor Closing und Anwalt muss Closing Bible erstellen: Versionierung S
 ## Fachkern: Closing Bible und Archiv
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **SPA/APA, Disclosure, Signing, Closing und Post-Closing-Mechanik**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -116,10 +109,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Closing Bible und Archiv
 
-## Zweck
-
-Erstellt Closing Bible, Versionierung, Signaturketten, Registerbelege und Deal-Archiv. Sichert Nachweiskette für Closing Deliverables, Registerpflichten und Widerrufsrechte nach SPA.
-
 ## Triage — klaere vor Zusammenstellung
 
 1. Welche Dokumente sind als "final executed" markiert — SPA, aller Anhange, Disclosure Schedules?
@@ -140,9 +129,6 @@ Erstellt Closing Bible, Versionierung, Signaturketten, Registerbelege und Deal-A
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Closing-Deliverables-Register anlegen:** alle SPA-Deliverables aus Schedule/Annex extrahieren, Owner und Faelligkeitsdatum zuordnen
@@ -215,3 +201,4 @@ TAB D — POST-CLOSING OBLIGATIONS
 
 - assets/templates/closing-bible-index.md
 - assets/templates/closing-deliverables-register.md
+

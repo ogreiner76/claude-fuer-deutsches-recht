@@ -5,10 +5,6 @@ description: "Kanzlei oder Plugin-Entwickler definiert visuelles Erscheinungsbil
 
 # Corporate-Cowork-Look
 
-## Arbeitsbereich
-
-Kanzlei oder Plugin-Entwickler definiert visuelles Erscheinungsbild des Deal-Copiloten: ruhig edel blaeulch-silbern warmes Orange für Entscheidungspunkte. Normen keine (UI/UX-Guideline). Prüfraster Farbpalette Typografie Informationsdichte Branding-Konformität. Output Style-Guide Farb-Definitionen Layout-Regeln. Abgrenzung zu allen Fach-Skills (nur visuelles Rahmen-Setup). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Kanzlei oder Plugin-Entwickler definiert visuelles Erscheinungsbild des Deal-Cop
 ## Fachkern: Corporate-Cowork-Look
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Mandatsaufnahme, Deal-PMO, Unternehmerkommunikation, Staffing und Budgetsteuerung**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Corporate-Cowork-Look
 
-## Zweck
-
-Definiert die sichtbare Oberfläche: sehr ruhig, edel, bläulich-silbern mit warmem Orange für Entscheidungspunkte, dichte Deal-Information statt Marketing.
-
 ## Arbeitsmodus
 
 - Jede sichtbare Ausgabe als Arbeitsfläche für Partner, Counsel, Associates und Mandanten denken.
@@ -170,3 +159,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Qualitaetssicherung
 - Human-in-the-loop bei allen hochrisikorelevanten Ausgaben
 - Dokumentation: Datum, Bearbeiter, Freigabe durch Senior
+

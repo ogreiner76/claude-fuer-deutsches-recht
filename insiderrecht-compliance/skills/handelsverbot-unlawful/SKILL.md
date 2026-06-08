@@ -5,10 +5,6 @@ description: "Prueft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von 
 
 # Insiderhandelsverbot nach Art. 14 MAR
 
-## Arbeitsbereich
-
-Prueft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von Absicht, analysiert Safe-Harbour-Ausnahmen und stellt Verteidigungsdokumentation sicher. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,22 +78,3 @@ Erstelle für jede verdachtsauslösende Transaktion:
 - Nachweis, dass Entscheidung vor Kenntnis getroffen wurde
 - Belege für Safe-Harbour-Tatbestand (falls zutreffend)
 
-## Red-Team-Fragen
-
-- Hatte die handelnde Person tatsächlich Zugang zur Insiderinformation?
-- Kann der Kausalzusammenhang zwischen Insiderinformation und Transaktion widerlegt werden?
-- Liegt ein Safe-Harbour-Tatbestand vor, und ist dieser lückenlos dokumentiert?
-- Wurde die Transaktion auf der Basis eines vorgefassten Handelsplans ausgeführt?
-- Wurde Tipping (Weitergabe an Dritte) ausgeschlossen oder sachgemäß dokumentiert?
-- Gibt es Trading-Anomalien vor der Ad-hoc-Veröffentlichung, die BaFin-Aufmerksamkeit erregen?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Transaktions-Prüfprotokoll (Zeitstrahl, Wissensstand, Kausalitätsanalyse)
-2. Safe-Harbour-Prüfmatrix
-3. Verteidigungsmemo (für BaFin-Anfrage oder Ermittlungsverfahren)
-4. Empfehlungen für Handelsüberwachung und Pre-Clearance-Verfahren
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, curia.europa.eu,
-bgh.de, dejure.org, openjur.de.

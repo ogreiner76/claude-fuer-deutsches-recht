@@ -5,10 +5,6 @@ description: "Influencer-Recht: Finanzamtsanfragen für Creator beantworten – 
 
 # Influencer-Recht: Finanzamt – Anfrage beantworten
 
-## Arbeitsbereich
-
-Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,3 +75,4 @@ Finanzamtsanfragen bei Creator richten sich meist auf Nebeneinnahmen und Sachlei
 - Unterlagen-Zusammenstellung-Checkliste
 - Fristverlängerungs-Antrag
 - Selbstanzeige-Prüfschema (mit Steueranwalt-Verweis)
+

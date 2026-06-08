@@ -5,9 +5,6 @@ description: "Faevvollzug Parteibetrieb Gerichtsvollzieher im Plugin Fachanwalt 
 
 # Faevvollzug Parteibetrieb Gerichtsvollzieher
 
-## Arbeitsbereich
-
-**Faevvollzug Parteibetrieb Gerichtsvollzieher** ordnet den Fall über die tragenden Prüfungslinien: Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln, BeA und elektronischer Rechtsverkehr bei EV-Zustellung, Vollstreckung aus Unterlassungsverfügung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Faevvollzug Parteibetrieb Gerichtsvollzieher im Plugin Fachanwalt 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt`
@@ -30,9 +28,6 @@ description: "Faevvollzug Parteibetrieb Gerichtsvollzieher im Plugin Fachanwalt 
 **Fokus:** Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz. §§ 192 und 194 und 890 ZPO, Ordnungsmittelantrag nach Zuwiderhandlung.
 
 ### Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln
-
-## Aufgabe
-Dieser Skill steuert den Parteibetrieb bei der Vollziehung einstweiliger Verfügungen und Unterlassungstiteln: GV-Beauftragung, Zustellnachweis, Vollziehungsprotokoll und Vorbereitung des Ordnungsmittelantrags.
 
 ## Rechtsrahmen
 
@@ -135,12 +130,6 @@ Die Vollziehungsfrist läuft bis [Datum]. Bitte vorrangige Bearbeitung.
 - `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-ordnungsmittel` – Ordnungsmittelverfahren.
 - `faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev-zustellung` – BeA-Zustellungsweg.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link zu [dejure.org](https://dejure.org) oder [openjur.de](https://openjur.de).
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollständige Mandantenberatung.
 - Keine Berechnung von GV-Gebühren ohne konkrete Kenntnis der Gebührenordnung (GvKostG – live prüfen).
@@ -151,9 +140,6 @@ Die Vollziehungsfrist läuft bis [Datum]. Bitte vorrangige Bearbeitung.
 **Fokus:** BeA und elektronischer Rechtsverkehr bei EV-Zustellung: ERVV, § 130a ZPO, sichere Übermittlungswege, qualifizierte elektronische Signatur, Einreichung über beA bei einstweiligen Verfügungen im gewerblichen Rechtsschutz.
 
 ### BeA und Elektronischer Rechtsverkehr bei EV-Zustellung
-
-## Aufgabe
-Dieser Skill behandelt den elektronischen Rechtsverkehr (ERV) beim Einreichen und Zustellen von einstweiligen Verfügungen: beA (besonderes elektronisches Anwaltspostfach), ERVV, sichere Übermittlungswege und Formvorschriften.
 
 ## Rechtsrahmen
 
@@ -234,12 +220,6 @@ Datum des Empfangs (= Zustellungsdatum): [Datum]
 - `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unterlassungstiteln` – GV-Zustellung.
 - `workflow-fristen-und-risikoampel` – Fristenübersicht.
 
-## Quellenregel
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de) (ZPO, ERVV).
-- beA-Informationen: [bea.brak.de](https://www.bea.brak.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein technischer IT-Support für beA-Softwareprobleme.
 - Keine Garantie für aktuelle SAFE-IDs (live im EGVP-Adressbuch prüfen).
@@ -250,9 +230,6 @@ Datum des Empfangs (= Zustellungsdatum): [Datum]
 **Fokus:** Vollstreckung aus Unterlassungsverfügung: Ordnungsgeld und Ordnungshaft nach § 890 ZPO, Tatbestandsvoraussetzungen, Antragstellung, Zuwiderhandlungsnachweis, Höhe des Ordnungsmittels, Ordnungsmittelverfahren.
 
 ### Vollstreckung aus Unterlassungsverfügung: Ordnungsmittel
-
-## Aufgabe
-Dieser Skill behandelt die Vollstreckung aus Unterlassungstiteln (einstweilige Verfügung oder Urteil) nach § 890 ZPO: Voraussetzungen, Nachweis der Zuwiderhandlung, Antragstellung und Höhe des Ordnungsmittels.
 
 ## Rechtsrahmen
 
@@ -347,12 +324,7 @@ Gerichtsübliche Ausgangsbeiträge: 500 – 5.000 € (gering); 5.000 – 25.000
 - `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unterlassungstiteln` – Zustellnachweis.
 - `spezial-verfuegung-beweislast-und-darlegungslast` – Beweisführung.
 
-## Quellenregel
-- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
-- Normen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Garantie für gerichtliche Festsetzungsquoten (stark einzelfallabhängig).
 - Kein Ersatz für vollständige Mandantenberatung.
+

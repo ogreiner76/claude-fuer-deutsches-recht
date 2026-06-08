@@ -5,10 +5,6 @@ description: "Sachbereich Verwaltungsdigitalisierung und Registermodernisierung 
 
 # Verwaltungsdigitalisierung und Registermodernisierung (BMDS)
 
-## Arbeitsbereich
-
-Sachbereich Verwaltungsdigitalisierung und Registermodernisierung im Geschaeftsbereich BMDS: Normbestand (RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.); Akteure (BMDS; BMI (Personenstand); Bundesverwaltungsamt; Länder.); EU-Bezug (Single Digital Gateway; Once-Only-Prinzip.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Verwaltungsdigitalisierung und Registermodernisierung (BMDS)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -21,7 +17,6 @@ Arbeitsfokus: **Verwaltungsdigitalisierung und Registermodernisierung (BMDS)**. 
 - `§ 5 EGovG` — elektronische Aktenführung live prüfen.
 - `Art. 3 KI-VO` — Begriffe.
 - `Art. 6 KI-VO` — Hochrisiko-Systeme.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -82,23 +77,6 @@ Verfassungsrechtliche Grenzen der Datenverknuepfung; Foederale Register; Akzepta
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Verwaltungsdigitalisierung und Registermodernisierung
-Ressort: BMDS
-Kernnormen: RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.
-Akteure/Aufsicht: BMDS; BMI (Personenstand); Bundesverwaltungsamt; Länder.
-EU/Voelkerrecht: Single Digital Gateway; Once-Only-Prinzip.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmds` -> `legw-ressortaufgaben-bmds` -> `legw-bmds-verwaltungsdigitalisierung-und-registermodernisierung` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -107,6 +85,3 @@ Naechste Skills: legw-ressortaufgaben-bmds; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

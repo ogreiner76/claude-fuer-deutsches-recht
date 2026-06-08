@@ -5,10 +5,6 @@ description: "Student braucht Anleitung zu den vier Auslegungsmethoden grammatik
 
 # Methodenlehre und Auslegung
 
-## Arbeitsbereich
-
-Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-für-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systema
 - Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3, UrhG §§ 51, 51a (Zitatrecht), Promotionsordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Auslegung ist das Herz jeder Hausarbeit. Wer nur subsumiert ohne auszulegen, kann nur an klaren Fällen punkten. Bei jedem unbestimmten oder strittigen Tatbestandsmerkmal ist Auslegung erforderlich.
 
 ## Schritt 1 — Wann ist Auslegung erforderlich?
 
@@ -225,3 +217,4 @@ geschützt.
 - `verfassungsrecht-grundrechtspruefung` — bei Grundrechts-Auswirkungen
 - `europarecht-anwendbarkeit-vorrang-vorabentscheidung` — bei EU-Bezug
 - `rechtstheorie-rechtsphilosophie-anbindung` — bei tiefer methodischer Reflexion
+

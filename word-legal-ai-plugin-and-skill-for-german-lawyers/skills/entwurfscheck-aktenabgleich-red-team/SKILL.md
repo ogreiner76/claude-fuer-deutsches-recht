@@ -5,10 +5,6 @@ description: "Prueft juristische Entwuerfe gegen Akte, Ziel, Belege, Rechtsstand
 
 # Entwurfscheck, Aktenabgleich und Red Team
 
-## Zweck
-
-Dieser Skill ist für Schriftsaetze, Vertraege, Memos, Mandantenbriefe und interne Vermerke gedacht, die schon fertig aussehen, aber noch gegen Akte, Ziel und Risiko geprueft werden muessen.
-
 ## Vier Pflichtbausteine
 
 1. Ziel klaeren: Was soll entschieden, geprueft, entworfen, verbessert oder verhandelt werden?
@@ -49,10 +45,3 @@ Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfun
 - **KI-Halluzinationen suchen:** jede zitierte Rspr. live verifiziert?
 - Falle: Vorgaben des Mandanten ignoriert (z. B. Vergleichsangebot nicht erwaehnt) — Mandantenwillen explizit zu Aktennotiz nehmen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

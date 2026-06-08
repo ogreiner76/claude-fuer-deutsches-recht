@@ -100,14 +100,7 @@ Praxis: Online-Banking mit Aktenzeichen im Verwendungszweck. Dauer 1-2 Werktage.
 - "Kein Verwendungszweck bei Ueberweisung." → Bank-Zuordnung verzoegert sich.
 - "Ich warte auf zweite Mahnung." → Eingang vom Gericht dauert. Verfahren in Schwebe.
 
-## Querverweise
-
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kostenkalkulation.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung pruefen.
-- `einreichung-papierform-mit-abschriften` — Klage einreichen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 12 GKG, § 167 ZPO unveraendert. GKG-Werte ueber aktuelle Tabelle verifizieren.
+

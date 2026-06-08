@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für WEG/Hausverwaltung: ordnet Rolle
 
 Dieser Einstieg routet **Weg Hausverwaltung** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abrechnung-ist-plan-mieterschnittstelle` — Abrechnung IST Plan Mieterschnittstelle
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Weg Hausverwaltung** vom ersten Sachverhalt zu Rollen, 
 - Zuständige Stelle bestimmen: Verwalter, Eigentümergemeinschaft, Verwaltungsbeirat, AG der Belegenheit, Handwerker, Vorverwalter.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei WEG/Hausverwaltung typische Eskalationsstufen: Beschlussklage, Beschlussersetzungsklage, Verwalter-Memo.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

@@ -5,10 +5,6 @@ description: "Bewertet Mitarbeiter-Geruechte ueber Insiderwissen: Klaerungspflic
 
 # Mitarbeiter-Gerüchte über Insiderwissen – Compliance-Reaktion
 
-## Arbeitsbereich
-
-Bewertet Mitarbeiter-Geruechte ueber Insiderwissen: Klaerungspflichten des Compliance-Officers, Insiderlisten-Folgen und Eskalation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,19 +71,3 @@ Wenn nicht bestätigt, dass eine Insiderinformation vorliegt:
 - Klarer, nicht bedrohlicher Meldekanal (kein Repressaliensrisiko für Meldenden)
 - Regelmäßige Erinnerung: „Wenn unklar, frag Compliance"
 
-## Red-Team-Fragen
-
-- Wurde das Gerücht vollständig und unvoreingenommen abgeklärt?
-- Wurden mögliche Eigengeschäfte des betroffenen Mitarbeiters geprüft?
-- Ist die Dokumentation ausreichend für eine spätere BaFin-Prüfung?
-- Gibt es einen sicheren Meldekanal für Mitarbeiter, der keine Repressalien auslöst?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Gerüchts-Erstbewertungs-Formular
-2. Klärungsprotokoll (Sachverhaltsaufklärung × Ergebnis × Folgehandlungen)
-3. Eigengeschäfts-Prüfprotokoll für betroffene Mitarbeiter
-4. Abschluss-Dokumentations-Vorlage
-
-Belege ausschließlich mit: eur-lex.europa.eu, bafin.de, gesetze-im-internet.de, dejure.org.

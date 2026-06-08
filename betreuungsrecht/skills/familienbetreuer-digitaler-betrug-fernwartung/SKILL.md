@@ -5,10 +5,6 @@ description: "Betrugsschutz bei betreuten Personen: Romance Scam, Enkeltrick, Fe
 
 # Familienbetreuer: digitaler Betrug und Fernwartung stoppen
 
-## Einsatz
-
-Für Angehörige, wenn Geld abfließt oder Fremde digital Zugriff haben.
-
 ## Normenanker
 
 Arbeitsfokus: **Familienbetreuer: digitaler Betrug und Fernwartung stoppen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -24,18 +20,7 @@ Arbeitsfokus: **Familienbetreuer: digitaler Betrug und Fernwartung stoppen**. Pr
 - `§ 5 BtOG` — Beratung und Unterstützung.
 - `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsfragen
-
-1. Welche Geräte/Konten sind kompromittiert?
-2. Welche Zahlungen können gestoppt werden?
-3. Welche Schutzmaßnahmen sind verhältnismäßig?
-
-## Output
-
-Sofortmaßnahmenplan, Bank-/Polizeischreiben und Sicherheitscheckliste.
 
 ## Red Flags
 
@@ -53,3 +38,4 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 - **Gerichts- und Beleglogik:** Halte Wunsch der betreuten Person, Vertretungsmacht, Einwilligung, Vermögensschutz, Gesundheitsdaten und Nachweis gegenüber dem Betreuungsgericht getrennt.
 - **Fehlerbremse:** Keine Vermischung eigener und fremder Gelder, keine unnötige Offenlegung sensibler Daten, keine medizinische Entscheidung ohne Zuständigkeit und dokumentierten Wunsch bzw. mutmaßlichen Willen.
 - **Output:** Tagesplan, Belegliste, kurzer Gerichtstext, Telefonnotiz und Wiedervorlage in einfacher Sprache.
+

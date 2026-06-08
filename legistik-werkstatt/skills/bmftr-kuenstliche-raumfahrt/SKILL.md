@@ -5,10 +5,6 @@ description: "Sachbereich Kuenstliche Intelligenz und Technikregulierung im Gesc
 
 # Kuenstliche Intelligenz und Technikregulierung (BMFTR)
 
-## Arbeitsbereich
-
-Sachbereich Kuenstliche Intelligenz und Technikregulierung im Geschaeftsbereich BMFTR: Normbestand (KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.); Akteure (BSI; Marktueberwachung der Länder; BNetzA; ggf. KI-Marktaufsicht.); EU-Bezug (KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Kuenstliche Intelligenz und Technikregulierung (BMFTR)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Kuenstliche Intelligenz und Technikregulierung (BMFTR)**. Prüfe
 - `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -84,23 +79,6 @@ Schnittstelle zu produktrechtlicher Regulierung; KI-Systeme im öffentlichen Sek
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Kuenstliche Intelligenz und Technikregulierung
-Ressort: BMFTR
-Kernnormen: KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.
-Akteure/Aufsicht: BSI; Marktueberwachung der Länder; BNetzA; ggf. KI-Marktaufsicht.
-EU/Voelkerrecht: KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmftr` -> `legw-ressortaufgaben-bmftr` -> `legw-bmftr-kuenstliche-intelligenz-und-technikregulierung` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -109,6 +87,3 @@ Naechste Skills: legw-ressortaufgaben-bmftr; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

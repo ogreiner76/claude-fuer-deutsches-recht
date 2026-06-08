@@ -5,10 +5,6 @@ description: "PrALR: Erster Teil Titel 2 Sachen und Rechte im Preußisches Allge
 
 # Pralr Erster Teil Titel 2 Sachen Und Rechte
 
-## Arbeitsbereich
-
-PrALR: Erster Teil Titel 2 Sachen und Rechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ PrALR: Erster Teil Titel 2 Sachen und Rechte. Arbeite entlang dieser konkreten P
 - Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-ALR I 2: Sachen und Rechte — die Sachenrechtssystematik des ALR.
 
 ## Wichtige Paragraphen
 
@@ -48,7 +40,3 @@ A verkauft B seine Forderung gegen C.
 2. Beweglich oder unbeweglich?
 3. Bestandteile?
 
-## Output
-
-- Sachen-Recht-Klassifikation.
-- BGB-Vergleich.

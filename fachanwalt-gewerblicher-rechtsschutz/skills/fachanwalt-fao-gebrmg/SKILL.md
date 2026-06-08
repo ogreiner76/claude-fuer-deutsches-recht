@@ -5,9 +5,6 @@ description: "FAO Gebrmg im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft 
 
 # FAO Gebrmg
 
-## Arbeitsbereich
-
-**FAO Gebrmg** ordnet den Fall über die tragenden Prüfungslinien: Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz, FAO-Dokumentenmatrix, Gebrauchsmusterrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "FAO Gebrmg im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
@@ -30,9 +28,6 @@ description: "FAO Gebrmg im Plugin Fachanwalt Gewerblicher Rechtsschutz: prüft 
 **Fokus:** Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabwägung, Mandatszieldefinition, Interessenkonfliktprüfung, Kostenaufklärung und strategische Weichenstellung.
 
 ### Erstprüfung und Mandatsziel
-
-## Aufgabe
-Dieser Skill strukturiert die anwaltliche Erstprüfung im gewerblichen Rechtsschutz: Screening der Schutzrechte, Definition des Mandatsziels, Kostenaufklärung und erste strategische Weichenstellung.
 
 ## Erstprüfungs-Schema
 
@@ -142,12 +137,6 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 - `spezial-fao-dokumentenmatrix-und-lueckenliste` – FAO-Dokumentation.
 - `gr-abmahnung-workflow` – Nach Erstprüfung: Abmahnung vorbereiten.
 
-## Quellenregel
-- BRAO, BORA: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Register: [dpma.de](https://www.dpma.de), [euipo.europa.eu](https://euipo.europa.eu), [epo.org](https://www.epo.org).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständiges Erstgespräch mit dem Mandanten.
 - Keine Schutzrechts-Prüfung ohne Registerauszüge.
@@ -157,9 +146,6 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 **Fokus:** FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO. Falllistenführung, Fallgruppen, qualifizierte Fälle, besondere praktische Erfahrungen, Lückenliste, Zulassungsantrag und häufige Fehler.
 
 ### FAO-Dokumentenmatrix und Lückenliste
-
-## Aufgabe
-Dieser Skill unterstützt bei der Vorbereitung des Antrags auf Verleihung der Fachanwaltsbezeichnung „Fachanwalt für gewerblichen Rechtsschutz" (§ 14k FAO): Falllistenstruktur, Dokumentation, Lückenanalyse.
 
 ## Rechtsrahmen
 
@@ -251,12 +237,6 @@ Dieser Skill unterstützt bei der Vorbereitung des Antrags auf Verleihung der Fa
 - `spezial-fachanwalt-erstpruefung-und-mandatsziel` – Fallaufnahme und Mandatsziel.
 - `workflow-dokumentenintake` – Dokumentenerfassung.
 
-## Quellenregel
-- FAO: [brak.de](https://www.brak.de) (aktuelle Fassung abrufbar); [gesetze-im-internet.de](https://www.gesetze-im-internet.de/brao/).
-- Für aktuelle Anforderungen immer bei zuständiger RAK nachfragen.
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Aussage über FAO-Anforderungen ohne Live-Prüfung (RAK und BRAK).
 - Kein Ersatz für Beratung durch RAK oder Fachanwaltskommission.
@@ -266,9 +246,6 @@ Dieser Skill unterstützt bei der Vorbereitung des Antrags auf Verleihung der Fa
 **Fokus:** Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation. GebrMG §§ 1–25, Abgrenzung zum Patent, Schutzansprüche, Verletzungsklage, Löschungsverfahren DPMA, Vergleichsoptionen, Eskalationspfade und Kostenabwägung.
 
 ### Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation
-
-## Aufgabe
-Dieser Skill behandelt das Gebrauchsmusterrecht in der Praxis: Schutzvoraussetzungen, Abgrenzung zum Patent, Verletzungsverfahren, Verhandlungs- und Vergleichsstrategie und Eskalationspfade.
 
 ## Rechtsrahmen
 
@@ -368,13 +345,7 @@ Urteil → ggf. Berufung
 - `spezial-patg-schriftsatz-brief-und-memo-bausteine` – Schriftsatzbausteine Patentrecht.
 - `spezial-schadensersatz-abschlussprodukt-und-uebergabe` – Schadensersatz.
 
-## Quellenregel
-- GebrMG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/gebrmg/); PatG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/patg/).
-- DPMA: [dpma.de](https://www.dpma.de); BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de).
-- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Bewertung der Schutzansprüche ohne Patentschrift und Sachverständige.
 - Kein Ersatz für vollständige Mandantenberatung.
+

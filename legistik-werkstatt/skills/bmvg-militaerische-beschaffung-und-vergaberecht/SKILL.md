@@ -5,10 +5,6 @@ description: "Sachbereich Militaerische Beschaffung und Vergaberecht im Geschaef
 
 # Militaerische Beschaffung und Vergaberecht (BMVg)
 
-## Arbeitsbereich
-
-Sachbereich Militaerische Beschaffung und Vergaberecht im Geschaeftsbereich BMVg: Normbestand (BwBeschG; GWB; VgV; SektVO; KonzVgV; VSVgV (Verteidigungs- und Sicherheitsvergabe).); Akteure (BAAINBw; BMVg-Abteilungen Ausruestung; BMWE-Vergaberecht; OLG-Vergabesenate.); EU-Bezug (RL 2009/81/EG (Verteidigungs- und Sicherheitsvergabe); Art. 346 AEUV.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,23 +62,6 @@ Auslegung Art. 346 AEUV; Wettbewerbsklagen; Lieferkettenrisiken; Geheimhaltung v
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Militaerische Beschaffung und Vergaberecht
-Ressort: BMVg
-Kernnormen: BwBeschG; GWB; VgV; SektVO; KonzVgV; VSVgV (Verteidigungs- und Sicherheitsvergabe).
-Akteure/Aufsicht: BAAINBw; BMVg-Abteilungen Ausruestung; BMWE-Vergaberecht; OLG-Vergabesenate.
-EU/Voelkerrecht: RL 2009/81/EG (Verteidigungs- und Sicherheitsvergabe); Art. 346 AEUV.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmvg` -> `legw-ressortaufgaben-bmvg` -> `legw-bmvg-militaerische-beschaffung-und-vergaberecht` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -91,6 +70,3 @@ Naechste Skills: legw-ressortaufgaben-bmvg; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

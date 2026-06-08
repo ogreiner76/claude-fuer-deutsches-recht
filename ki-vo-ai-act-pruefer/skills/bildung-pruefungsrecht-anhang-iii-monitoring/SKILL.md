@@ -42,6 +42,3 @@ Erzeuge:
 - Grundrechte- und Datenschutz-Check.
 - Entscheidungsbausteine für Prüfungsamt oder Rechtsbehelf.
 
-## Quellenregel
-
-Bei konkreten gerichtlichen Entscheidungen nur Gericht, Datum, Aktenzeichen und frei überprüfbare Quelle verwenden. Keine Datenbankfundstellen aus geschlossenen Systemen erfinden.

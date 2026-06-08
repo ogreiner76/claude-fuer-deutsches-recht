@@ -77,14 +77,6 @@ Vor dem AG koennen Sie sich auch durch eine andere Person vertreten lassen, wenn
 - "Mein Cousin ist Jurastudent, der vertritt mich." → Geht nur, wenn er Volljaehriger Familienangehoeriger ist und es Einzelfall. Geschaeftsmäßige Vertretung ist verboten.
 - "Ich kann mich auch in der Berufung vor LG selbst vertreten." → Nur für einzelne Antraege. Berufungsbegruendung braucht Anwalt.
 
-## Querverweise
-
-- `orientierung-selbstvertreter-amtsgericht` — Einstieg.
-- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Wann ist das AG ueberhaupt zuständig?
-- `berufung-amtsgericht-511-zpo` — Berufung zum LG (dort Anwaltszwang).
-- `wann-doch-anwalt-grenzfaelle` — Wann ist Selbstvertretung kein gutes Ergebnis?
-- `prozesskostenhilfe-pkh-114-zpo` — PKH bei finanzieller Notlage.
-
 ## Praxis-Tipp
 
 Selbst wenn am Amtsgericht kein Anwaltszwang besteht, gibt es zwei Schwellen, ab denen Anwaltskontakt regelmaessig sinnvoll ist: (1) **Streitwert ueber 5.000 EUR** – Risiko und Komplexitaet steigen; im Unterliegen drohen erhebliche Kostenfolgen nach §§ 91 ff. ZPO. (2) **Berufungswuerdiger Sachverhalt** – wenn der Fall mit ueber 1.000 EUR Beschwer endet, droht Anwaltszwang vor dem LG (§ 78 I ZPO). Frueh PKH (§§ 114 ff. ZPO) oder Beratungshilfe nach BerHG pruefen, weil Antraege rechtzeitig vor Klage gestellt werden muessen. Notanwalt § 78b ZPO nur als letzter Ausweg, wenn Sie partout keinen Anwalt finden.
@@ -92,14 +84,6 @@ Selbst wenn am Amtsgericht kein Anwaltszwang besteht, gibt es zwei Schwellen, ab
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 78 ZPO und § 114 FamFG unveraendert. Achtung beim Arbeitsgericht — dort gilt § 11 ArbGG, der dieses Plugin nicht abdeckt.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

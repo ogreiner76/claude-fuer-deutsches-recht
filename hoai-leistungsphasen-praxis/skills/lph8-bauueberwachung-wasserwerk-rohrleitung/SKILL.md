@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Wasserwerksrohrleitungen und Trink
 
 # Bauueberwachung Wasserwerk und Trinkwasserrohrleitung
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen für Wasserversorger mit GIS-As-Built-Abgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerk
 - Ungenuegend verdichtetes Rohrbett: Setzung Verbindung oeffnet sich nach 2 Betriebsjahren
 - Fehlende GPS-Aufnahme vor Verfuellung: Leitungsatlas unvollstaendig, kuenftige Tiefbauarbeiten gefaehrden Leitung durch unbekannte Lage
 
-## Output
-
-Einbauprotokoll Rohrleitung mit Schweiss- und Verbindungsprotokollen. Druckpruefungsprotokoll nach DVGW W 400-2 mit Unterschriften. Desinfektionsprotokoll und Wasseruntersuchungsbefund Gesundheitsamt. As-Built GIS-Shapefile Leitungsachse. Bautagebuch chronologisch. SAP-PM-Anlagenstruktur Leitungsabschnitte für Betriebsphase.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Einbauprotokoll Rohrleitung mit Schweiss- und Verbindungsprotokollen. Druckpruef
 - [§ 650q BGB](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [DIN 4124 Baugruben](https://www.gesetze-im-internet.de/vob/)
+

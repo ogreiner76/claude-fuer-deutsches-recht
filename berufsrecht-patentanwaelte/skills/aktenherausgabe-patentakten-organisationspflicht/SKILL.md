@@ -5,10 +5,6 @@ description: "Patentanwälte: aktenherausgabe patentakten - Organisationspflicht
 
 # Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
-## Arbeitsbereich
-
-Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -39,20 +35,6 @@ Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Präventio
 - **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
 - **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
 
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Kammerantwort, Mandatsgrenzencheck, Schutzrechtsvertretungs-Memo, Fristenblatt oder berufsgerichtliche Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -81,3 +63,4 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 - Vertretungsbefugnis vor BPatG/UPC nach § 134 PatG und Art. 48 UPCA klar abgrenzen.
 - Verschwiegenheit nach § 39a PAO im UPC-Verfahren mit Art. 53 UPCA harmonisieren.
 - Werbung § 26 PAO nach BVerfG 1 BvR 2616/17 weit, aber sachlich.
+

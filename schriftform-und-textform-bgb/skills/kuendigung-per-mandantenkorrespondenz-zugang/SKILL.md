@@ -169,10 +169,3 @@ Vollmachtsurkunde im Original vorgelegt wurde (§ 174 Satz 1 BGB).
 - **§ 130e ZPO nicht als Zustellungsnorm missverstehen**: Die Norm fingiert Form und Zugang der Willenserklärung, wenn Zustellung oder Mitteilung ordnungsgemäß erfolgt ist. Sie ersetzt keine bereitgestellten Lehrmaterialien und keine verifizierte Quellenarbeit.
 - **Andere Prozessordnungen**: VwGO, SGG, FGO, FamFG und StPO haben eigene ERV-Regeln. Eine Formfiktion wie § 130e ZPO nur anwenden, wenn die jeweilige Prozessordnung sie ausdrücklich enthält oder eindeutig verweist.
 
-## Querverweise
-
-- → `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`
-- → `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`
-- → `wohnraummiete-kuendigung-paragraph-568-bgb`
-- → `elektronische-form-paragraph-126a-bgb-qes`
-- → `prozessablauf-papier-vs-elektronisch`

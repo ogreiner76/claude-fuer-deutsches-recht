@@ -5,10 +5,6 @@ description: "Prueft im Manuskript jede tragende Aussage darauf ob sie so im Dru
 
 # Aussagensicherheits-Pruefung ("darf das so im Druck?")
 
-## Arbeitsbereich
-
-Prueft im Manuskript jede tragende Aussage darauf ob sie so im Druck stehen darf: Belegtiefe Ehrenschutz Datenschutz Berufsrecht und Aussagewahrheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -102,14 +98,6 @@ Bitte um Rueckmeldung bis 16.06.2026.
 - DSGVO-Verletzung mit Klarnamen in Fussnoten.
 - Rspr.-Kritik ad personam statt zur Sache.
 
-## Querverweise
-
-- `rechtecheck-urhg-verlg` - Urheber- und Verlagsrecht.
-- `verl-relationslinien-pruefung-im-aufsatz` - Argumentationskritik.
-- `verl-fussnoten-quellen-konsolidierung` - Beleg-Konsolidierung.
-- `verl-stilbruch-stilcheck-fachzeitschrift` - Stilcheck.
-- `ai-einsatz-transparenz-datenschutz` - Datenschutz beim KI-Einsatz.
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 823, 1004 (Ehrenschutz, Unterlassung), [https://www.gesetze-im-internet.de/bgb/](https://www.gesetze-im-internet.de/bgb/).
@@ -119,3 +107,4 @@ Bitte um Rueckmeldung bis 16.06.2026.
 - DSGVO Art. 6, Art. 9, [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj).
 - KUG § 22 (Bildnisschutz).
 - Pressekodex Ziff. 1, 2, 9, [https://www.presserat.de/pressekodex.html](https://www.presserat.de/pressekodex.html).
+

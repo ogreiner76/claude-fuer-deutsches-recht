@@ -5,9 +5,6 @@ description: "Freistellungsklausel im Plugin Fachanwalt Arbeitsrecht: prüft kon
 
 # Freistellungsklausel
 
-## Arbeitsbereich
-
-**Freistellungsklausel** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt arbeitsrecht bag, Freistellungsklausel im Arbeitsvertrag, Abfindungsrechner modular. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Freistellungsklausel im Plugin Fachanwalt Arbeitsrecht: prüft kon
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`
@@ -77,9 +75,6 @@ Der Beschäftigungsanspruch des Arbeitnehmers darf nur mit verifizierter Rechtsp
 |---|---|---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann ist Freistellung weiterhin zulässig
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -246,9 +241,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-Vertiefte Analyse der Freistellungsklausel im Arbeitsvertrag — nach dem Paradigmenwechsel durch BAG 5 AZR 108/25. Der Skill behandelt die Unwirksamkeit pauschaler Klauseln, korrekte Formulierung und die wichtigsten Edge Cases.
-
 ## Einstieg
 Wenn ein Sachverhalt mit Freistellungsklausel vorliegt, zuerst klären:
 
@@ -329,12 +321,6 @@ Bei Aufhebungsverträgen: explizite Freistellungsklausel vereinbaren; Urlaubsabr
 - `spezial-urlaub-livequellen-und-rechtsprechungscheck` für Urlaubsfragen
 - `workflow-redteam-qualitygate` für Klauselprüfung
 
-## Quellenregel
-- BAG 5 AZR 108/25: [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de) Pressemitteilung; [dejure.org](https://dejure.org). Urteilstext live prüfen.
-- BAG 9 AZR 104/24: [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de); [dejure.org](https://dejure.org).
-- Keine modellwissensbasierten Klauselaussagen ohne Normgrundlage.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Klauselgestaltung ohne Mandantenkenntnis.
 - Keine Prognose über Wirksamkeit jeder konkreten Klausel ohne Vorlage des Wortlauts.
@@ -352,9 +338,6 @@ Bei Aufhebungsverträgen: explizite Freistellungsklausel vereinbaren; Urlaubsabr
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Strukturierte Berechnung und Verhandlungsvorbereitung bei Abfindungen — vom Erstgespräch bis zur Vergleichsformel. Der Skill liefert sowohl eine Rechenlogik als auch eine Strategie-Matrix für den Güte- und Kammertermin vor dem Arbeitsgericht.
 
 ## Einstieg
 Wenn Unterlagen vorliegen, arbeite zuerst damit. Nur die Rückfragen stellen, die für die erste Weiche nötig sind:
@@ -444,13 +427,8 @@ Mit Fünftelregelung:
 - `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` für Verhandlungsstrategie
 - `spezial-kschg-risikoampel-und-gegenargumente` für Risikoampel
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link ausgeben: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-- Steuerliche Aussagen als Hinweise kennzeichnen; für Steuerbescheide und -erklärungen Steuerberater empfehlen.
-- Annahmen explizit markieren; keine erfundenen BA-Dienstanweisungen oder Praxisformeln ohne Quellenbeleg.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollständige Mandantenberatung oder steuerliche Beratung.
 - Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
 - Keine Spekulation über individuelle BA-Entscheidungen zur Sperrzeit.
+

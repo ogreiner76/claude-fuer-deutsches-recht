@@ -108,12 +108,6 @@ AUFFAELLIGKEITS-LISTE
 - Auffaelligkeits-Liste in Mandantenakte.
 - Bei wesentlichen Krisensignalen: Querverweis stb-bwa-sus-bilanz-pruefung.
 
-## Output
-
-- SuSa mit Vergleichsspalten Aktuell / Vormonat / Vorjahres-Periode.
-- Auffaelligkeits-Liste mit Klaerungsmassnahmen.
-- Korrektur-Protokoll.
-
 ## Strategie und Praxis-Tipps
 
 - SuSa-Vergleich ist Standardpruefung im Monatsabschluss — nicht nur bei Jahresabschluss.
@@ -122,13 +116,6 @@ AUFFAELLIGKEITS-LISTE
 - Bei Wechsel des Kontenrahmens: Vergleich nicht moeglich ohne Brueckenposten.
 - StBVV: Periodenvergleich in der Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV-Sachkontenauswertung mit Vergleichsspalten und automatischer Abweichungsmarkierung.
-
-## Querverweise
-
-- `stb-susa-erstellen-grundlagen` — SuSa-Grundlagen.
-- `stb-susa-formfehler-pruefen` — Pruefung.
-- `stb-bwa-zeitlicher-vergleich-jahresvergleich` — BWA-Vergleich.
-- `stb-bwa-fehlerquellen-haeufig` — BWA-Fehler.
 
 ## Quellen und Updates
 
@@ -139,10 +126,3 @@ Stand: 05/2026.
 - BMF v. 28.11.2019 zu GoBD.
 - IDW PS 480.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

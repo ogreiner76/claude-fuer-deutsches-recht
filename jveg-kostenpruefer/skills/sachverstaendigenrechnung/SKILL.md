@@ -5,10 +5,6 @@ description: "Sachverständigenrechnung nach JVEG prüfen oder erstellen: Stunde
 
 # JVEG-Sachverstaendigenrechnung
 
-## Arbeitsbereich
-
-Sachverständigenrechnung nach JVEG prüfen oder erstellen: Stundenverguetung, Nebenkosten, Festbetrag. Normen: §§ 8 9 JVEG, Anlage 1 JVEG. Prüfraster: Verguetungshoehe, Berichtumfang, Auslagen. Output: Geprufte Sachverständigenrechnung. Abgrenzung: nicht Zeugenentschaedigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Sachverständigenrechnung nach JVEG prüfen oder erstellen: Stundenverguetung, N
 ## Fachkern: JVEG-Sachverstaendigenrechnung
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Prüfe Sachverständigenrechnungen vollständig nach §§ 8–10 JVEG: Honorargruppe, erforderliche Zeit, Reisezeit, Nebenkosten, § 8a-Kürzungsrisiken und Vorschusssaldo.
 
 ## Triage — kläre vor der Prüfung
 
@@ -52,18 +45,8 @@ Mit dem KostRAeG 2025 wurden die Saetze des § 9 JVEG in Anlage 1 zum 01.06.2025
 - Rechtsprechung zu §§ 8, 9, 12 JVEG (Erforderlichkeit, Plausibilitaetspruefung, Schwierigkeitsbewertung) ueber https://dejure.org und https://openjur.de verifizieren.
 - BGH-Linie zu § 8a JVEG (Kuerzung wegen Pflichtverletzung) vor Ausgabe pruefen; Aktenzeichen und Datum nicht aus Modellwissen einsetzen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Eingang einer Sachverständigenrechnung zur Festsetzung nach § 4 JVEG.
-
-## Arbeitsweise
-1. Honorargruppe und Stundensatz verifizieren.
-2. Erforderliche Zeit objektiv bewerten.
-3. Reisezeit separat prüfen (§ 10 JVEG).
-4. Nebenkosten auf Notwendigkeit und Belege prüfen.
-5. § 8a-Risiken bewerten; Vorschusssaldo berechnen.
 
 ## Output-Template
 
@@ -84,3 +67,4 @@ Positionsgenaues Prüfergebnis mit § 8a-Risikoeinschätzung und Vorschusssaldo.
 ## Leitplanken
 - Honorargruppe immer zuerst prüfen; falscher Ansatz infiziert gesamte Berechnung.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

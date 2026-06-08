@@ -5,10 +5,6 @@ description: "Wohnraummiete Kuendigung Paragraph 568 BGB: ordnet Normen, Nutzera
 
 # Wohnraummiete-Kündigung — § 568 BGB und Formfragen
 
-## Arbeitsbereich
-
-Wohnraummiete Kuendigung Paragraph 568 BGB: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -161,10 +157,3 @@ Mit freundlichen Grüßen
 - **Fehlende Begründung**: Fehlt die Begründung bei ordentlicher Kündigung durch den Vermieter, ist die Kündigung formell unwirksam (§ 573 Abs. 3 S. 1 BGB). Nachschieben von Gründen ist eingeschränkt.
 - **Teilkündigung**: Bei Wohnraummiete grundsätzlich unzulässig.
 
-## Querverweise
-
-- → `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`
-- → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
-- → `elektronische-form-paragraph-126a-bgb-qes`
-- → `prozessablauf-papier-vs-elektronisch`
-- → `anspruchsformulierungen-bei-formverstoss` (Räumungsklage)

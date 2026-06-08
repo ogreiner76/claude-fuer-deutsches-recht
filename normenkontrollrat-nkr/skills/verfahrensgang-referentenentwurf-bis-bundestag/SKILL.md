@@ -5,10 +5,6 @@ description: "Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee u
 
 # NKR-Verfahrensgang Referentenentwurf bis Bundestag
 
-## Arbeitsbereich
-
-Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Länder- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -120,14 +116,6 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 - "Formulierungshilfe" als Umgehung der NKR-Befassung
 - Aenderungen vor Kabinett, die der NKR nicht mehr sieht
 
-## Querverweise
-
-- `nkr-orientierung-und-mandatsaufnahme`
-- `nkr-aufgabe-und-kompetenz-nkrg`
-- `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts`
-- `nkr-stellungnahme-zum-bundestag-anhoerung`
-- `legistik-werkstatt/legw-gesetzgebungsverfahren-bauleiter`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 4, 6
@@ -135,3 +123,4 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 - §§ 70, 70a GO BT
 - Art. 76, 77, 82 GG
 - Live verifizieren ueber Bundesanzeiger und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

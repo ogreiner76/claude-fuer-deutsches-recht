@@ -42,9 +42,6 @@ Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhal
 - BVerfG-Rahmen (Stand-by) zu § 257c StPO: Maßstab weiterhin BVerfG 19.03.2013 — 2 BvR 2628/10, 2 BvR 2155/11, 2 BvR 2883/10 (Verstaendigungs-Urteil); Aktualisierungen vor Ausgabe in dejure.org / bverfg.de pruefen. Offene Fundstelle Verstaendigungs-Urteil: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+BvR+2628/10
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Anwendung des § 257c StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 257c StPO Strafbefehl" durchführen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Abgrenzung: Wann welches Instrument?
 
 | Instrument | Geeignet wenn | Vorteil |
@@ -96,3 +93,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Informelle Zusagen nicht vertrauen — nur foermliche Verstaendigung im Protokoll ist bindend.
 - Bindungswirkung entfaellt bei neuen Erkenntnissen (§ 257c Abs. 4 StPO) — Mandant darauf hinweisen.
 - Anwaltliche Endkontrolle bei Gestaendnisformulierung und Protokoll.
+

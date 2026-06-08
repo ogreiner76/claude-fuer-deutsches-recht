@@ -5,10 +5,6 @@ description: "Kleiner Unfall Fahrrad und Auto: führt Laien durch Bagatellunfall
 
 # Kleiner Unfall Fahrrad und Auto
 
-## Arbeitsbereich
-
-Kleiner Unfall Fahrrad und Auto: führt Laien durch Bagatellunfall, Haftpflicht, Personenschaden, Schuldanerkenntnis und Beweissicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -38,12 +34,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Bagatellunfall, Haftpflicht, Personenschaden, Schuldanerkenntnis und Beweissicherung.
 
 ## Sofortsortierung
 
@@ -75,6 +65,3 @@ Erzeuge Unfallprotokoll, Versicherungsmeldung, Schadensliste und Arzt-/Fristenhi
 
 - Wer war beteiligt, Polizei, Verletzung, Fotos, Kennzeichen, Zeugen?
 
-## Quellenhygiene
-
-Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

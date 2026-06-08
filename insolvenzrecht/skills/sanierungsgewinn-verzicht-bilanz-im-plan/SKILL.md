@@ -5,10 +5,6 @@ description: "Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und
 
 # Sanierungsgewinn — Forderungsverzicht im Plan, bilanzielle Folgen
 
-## Arbeitsbereich
-
-Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und StaRUG-Plan. Handelsrechtliche und steuerliche Behandlung. Werthaltigkeit der verzichteten Forderung. Verzicht mit und ohne Besserungsschein. Gesellschafterverzicht versus Drittglaeubigerverzicht. Buchungsbeispiele und Auswirkungen auf das Eigenkapital. Schnittstelle zur Modellrechnung Paragraph 3a Absatz 3 EStG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -178,21 +174,6 @@ EUR [...], Sanierungsertrag in Hoehe EUR [...].
 5. Ausbuchung mangels Schuldner mit Verzicht verwechselt (BFH II R 19/01 nicht beachtet).
 6. Bei nur teilweisem Verzicht (Plan-Quote) Buchung als Vollverzicht.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Voraussetzungen.
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Verrechnung.
-- `insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan` — Rangruecktritt.
-- `insol-sanierungsgewinn-debt-equity-swap-im-plan` — DES.
-- `insol-sanierungsgewinn-massehaftungsbefreiung-und-bilanz` — Massehaftung-Bilanz-Effekte.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — Bilanzsteuerrecht.
-- `grosskanzlei-corporate-ma` — Distressed-Bilanz-Themen.
-
 ## Quellen Stand 06/2026
 
 ### Normen
@@ -226,3 +207,4 @@ In anderen Plugins:
 - Hageboeke, in: Roedder/Herlinghaus/Neumann, KStG, 1. Aufl. 2015, Paragraph 11 Rn. 78.
 
 Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

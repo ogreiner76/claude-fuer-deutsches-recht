@@ -86,14 +86,6 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 - Mehrere Varianten der Eingriffstiefe nicht verglichen
 - Keine Aufwandschaetzung pro Alternative
 
-## Querverweise
-
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-verhaeltnismaessigkeit-aus-nkr-sicht`
-- `nkr-praktikabilitaet-vollzug-test`
-- `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf`
-- `legistik-werkstatt/legistik-auftragsaufnahme`
-
 ## Quellen Stand 06/2026
 
 - § 44 Abs. 1 Nr. 4 GGO

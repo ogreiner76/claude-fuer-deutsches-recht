@@ -5,9 +5,6 @@ description: "Entfristung Kueschk Anwendbarkeit im Plugin Arbeitsrecht: prüft k
 
 # Entfristung Kueschk Anwendbarkeit
 
-## Arbeitsbereich
-
-**Entfristung Kueschk Anwendbarkeit** ordnet den Fall über die tragenden Prüfungslinien: Prüft Anwendbarkeit des Kündigungsschutzgesetzes, Elektronische Signaturen und Befristungsabreden, Grundwarnung Entfristungsklage. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Entfristung Kueschk Anwendbarkeit im Plugin Arbeitsrecht: prüft k
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kueschk-anwendbarkeit-kschg-pruefen`
@@ -61,9 +59,6 @@ description: "Entfristung Kueschk Anwendbarkeit im Plugin Arbeitsrecht: prüft k
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Prüfung
 
 ### Schritt 1: Wartezeit § 1 Abs. 1 KSchG
@@ -154,10 +149,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-In der Praxis werden Arbeitsverträge immer häufiger digital unterzeichnet. Dieser Skill trennt sauber zwischen Scan/einfacher Signatur, fortgeschrittener elektronischer Signatur und echter qualifizierter elektronischer Signatur (QES). Gerade bei Befristungen ist diese Unterscheidung prozessentscheidend.
-
 ## Zentrale Normen
 
 - **§ 14 Abs. 4 TzBfG** — Schriftformerfordernis für Befristungsabreden
@@ -225,10 +216,6 @@ Ein professionell aussehender Signaturvorgang genügt nicht automatisch. Entsche
 
 **Praxishinweis:** Viele Arbeitgeber nutzen Portale, deren Standard-Signatur nur einfach oder fortgeschritten ist. Nicht der Markenname der Plattform entscheidet, sondern das konkrete Zertifikat, die Signaturstufe, die Identifizierung und der rechtzeitige Zugang.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 3. `entfristung-grundwarnung-drei-wochen-frist`
 
 **Fokus:** Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; § 17 Satz 2 TzBfG i.V.m. § 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis; Fristberechnung; nachtraegliche Zulassung.
@@ -243,10 +230,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Die Dreiwochenfrist des § 17 TzBfG ist die wichtigste und gefährlichste Frist im Entfristungsrecht. Sie läuft auch wenn man keinen Anwalt hat, auch wenn man noch weiterbeschäftigt wird, und auch wenn man von der Frist nichts weiß.
-
 ## Zentrale Normen
 
 - § 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende
@@ -260,9 +243,6 @@ Die Dreiwochenfrist des § 17 TzBfG ist die wichtigste und gefährlichste Frist 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Die Norm — § 17 TzBfG (vollständig)
 
 > **Satz 1:** Will der Arbeitnehmer geltend machen, dass die Befristung eines Arbeitsvertrags rechtsunwirksam ist, so muss er innerhalb von drei Wochen nach dem vereinbarten Ende des befristeten Arbeitsvertrags Klage beim Arbeitsgericht auf Feststellung erheben, dass das Arbeitsverhältnis auf Grund der Befristung nicht beendet ist.
@@ -379,9 +359,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gütetermin (§ 54 ArbGG)
 
 **Was passiert:** Erster Termin vor dem Vorsitzenden allein. Ziel: gütliche Einigung. Kein Urteil möglich.
@@ -457,3 +434,4 @@ Kammertermin:
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+

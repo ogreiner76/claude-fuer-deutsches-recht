@@ -5,10 +5,6 @@ description: "Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rec
 
 # Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard
 
-## Arbeitsbereich
-
-Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und externen Stakeholdern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber mit wachsendem Netzwerk (20 bis 100 oder mehr Franchisenehmer
 - Eskalationsprotokoll ist nicht dokumentiert; ad-hoc-Entscheidungen ohne rechtliche Absicherung.
 - Compliance-Verantwortlichkeit ist nicht klar; mehrere Abteilungen handeln widersprüchlich.
 
-## Output
-
-- Compliance-Dashboard-Konzept (Struktur, KPIs, Datenquellen)
-- Eskalationsprotokoll Vorlage
-- Datenschutz-Folgenabschätzung für das Dashboard
-- Berichtspflichten-Übersicht (intern und extern)
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/305.html
@@ -71,6 +60,7 @@ Ein Franchisegeber mit wachsendem Netzwerk (20 bis 100 oder mehr Franchisenehmer
 - https://gesetze-im-internet.de/dsgvo/art_5.html
 - https://gesetze-im-internet.de/lksg/__10.html
 - https://dejure.org/gesetze/AktG/91.html
+
 ## Vertiefung
 
 Ein Compliance-Management-System (CMS) ist für grosse Franchisesysteme nicht nur rechtlich sinnvoll, sondern kann im Haftungsfall entlastend wirken: Wenn der Franchisegeber nachweist, dass er ein funktionierendes CMS betrieben hat und die Verletzung trotzdem stattfand, kann dies sein Verschulden mindern.
@@ -84,7 +74,10 @@ Der IDW-Standard PS 980 (Grundsätze ordnungsgemässer Prüfung von Compliance-M
 - Datenschutz-Folgenabschätzung (DSFA) nach Art. 35 DSGVO für das Compliance-Dashboard durchführen.
 - Compliance-Berichte dem Franchisegeberbeirat und dem Board vorlegen; Nachverfolgung sicherstellen.
 - CMS-Prüfung durch externen Wirtschaftsprüfer alle 2 bis 3 Jahre empfehlenswert.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

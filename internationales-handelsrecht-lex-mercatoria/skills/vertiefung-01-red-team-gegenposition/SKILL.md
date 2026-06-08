@@ -40,12 +40,3 @@ Red-Team-Analyse identifiziert die stärksten Gegenargumente zur eigenen Rechtsp
 - Award-Schwächen: Formfehler, Begründungsmängel, Befangenheit
 - Vorbeugende Gegenmaßnahmen: schwache Stellen vor Prozessbeginn stärken
 
-## Output
-
-- Red-Team-Analyse-Protokoll (Eigene Position × Gegenargument × Stärke)
-- CISG-Schwachstellen-Checkliste
-- Award-Anfechtungs-Risikoanalyse
-
-## Quellenregel
-
-CISG Art. 38-39, 77: uncitral.un.org. IBA Guidelines on Conflicts of Interest 2014: ibanet.org. NY Convention Art. V: newyorkconvention.org. Unsicherheit bleibt sichtbar.

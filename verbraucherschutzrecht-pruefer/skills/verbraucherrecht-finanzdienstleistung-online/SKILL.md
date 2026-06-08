@@ -5,10 +5,6 @@ description: "Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Ef
 
 # Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.
 
-## Arbeitsbereich
-
-Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.; Normanker: BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -52,3 +48,4 @@ BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle. Der aktuelle Normte
 3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
 4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
 5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
+

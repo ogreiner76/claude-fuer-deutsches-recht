@@ -5,23 +5,9 @@ description: "Löschung von SCHUFA-/Auskunfteidaten zur Restschuldbefreiung nach
 
 # Datenschutz: SCHUFA-Insolvenzdaten löschen
 
-## Einsatz
-
-Für Betroffene, die nach Restschuldbefreiung weiterhin negative Auskunfteieinträge finden.
-
 ## Norm- und Quellenanker
 
 DSGVO Art. 5, 6, 15, 17, 18, 21, 77, 79; EuGH 07.12.2023 C-26/22 und C-64/22; InsO/InsBekV live prüfen.
-
-## Arbeitsfragen
-
-1. Welche Einträge, Datenquellen und Speicherfristen?
-2. Ist die öffentliche Bekanntmachung noch abrufbar?
-3. Welche Auskunfteien und Empfänger?
-
-## Output
-
-Auskunfts-/Löschungsverlangen, Fristenplan und Beschwerdeentwurf.
 
 ## Red Flags
 
@@ -39,3 +25,4 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 - **Auskunftei-/Score-Fälle:** Bei `Datenschutz: SCHUFA-Insolvenzdaten löschen` EuGH C-634/21 zum Scoring und EuGH C-26/22/C-64/22 zur Restschuldbefreiung nur mit verifizierter Quelle und Kernaussage verwenden.
 - **Belege:** Datenkopie, Scorelogik, Speicherfrist, Insolvenzbekanntmachung, Ablehnungsschreiben der Bank, Selbstauskunft und Beschwerdeantwort getrennt ablegen.
 - **Output:** Löschungs-/Berichtigungsantrag, Aufsichtsbehördenbeschwerde, Beweisplan und Klage-/Eilrechtsschutzmatrix.
+

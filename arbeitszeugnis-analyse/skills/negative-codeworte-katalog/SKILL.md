@@ -108,10 +108,6 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 
 **Beispiel 6 – Betriebsrats-Code:** "Herr Wagner nahm seine Mitwirkungsrechte umfassend wahr." → Verschluesselter Hinweis auf aktive Betriebsratstaetigkeit. Orange, berichtigungsfaehig wegen Diskriminierungsverbot.
 
-## Ausgabeformat
-
-Der Skill identifiziert in einem eingegebenen Zeugnis alle erkennbaren Codeworte und gibt sie tabellarisch aus mit den Spalten: Codewort, Cluster, Bedeutung, Ampel, juristische Bewertung (zulaessig nach § 109 GewO oder nicht), Empfehlung (Berichtigungsverlangen, Klage, Akzeptanz). Bei mehreren Codeworten derselben Familie wird die Mehrfacherkennung als verstaerktes Signal markiert. Auslassungssignale werden mit "fehlend" eingetragen.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -120,3 +116,4 @@ Der Skill identifiziert in einem eingegebenen Zeugnis alle erkennbaren Codeworte
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

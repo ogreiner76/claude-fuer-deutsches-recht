@@ -5,10 +5,6 @@ description: "Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicher
 
 # Notfallstufen und Sicherstellungszuschlaege
 
-## Arbeitsbereich
-
-Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszuschlaege nach KHEntgG: Eingruppierung, Strukturmerkmale, Vergueterelevanz, Verlust bei Strukturveraenderung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,14 +72,6 @@ Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser 
 - Bei Stufenverlust Personaldisposition nicht anpassen — Kosten bleiben, Erloese sinken.
 - Strukturpruefung des MD nicht ernsthaft begleitet; spaeter Widerspruch erschwert.
 
-## Querverweise
-- `leistungsgruppen-und-qualitaetskriterien-reformlogik`
-- `sektorenuebergreifende-versorgung-level-ii-klinik`
-- `rettungsdienst-schnittstelle-aufnahme-pflicht`
-- `triage-notaufnahme-ueberlastung-dokumentation`
-- `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
-- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
-
 ## Quellen Stand 06/2026
 - SGB V § 136c.
 - G-BA Notfallstufen-RL (Live-Check g-ba.de).
@@ -99,3 +87,4 @@ Konkret zu prüfen:
 - §§ 107-114 SGB V (Krankenhaus)
 - KHEntgG (Entgeltgesetz)
 - §§ 17a-17d KHG (DRG, Pflege, Investitionen)
+

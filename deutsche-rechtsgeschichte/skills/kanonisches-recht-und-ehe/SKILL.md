@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretu
 
 # Kanonisches Recht und Eherecht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das kanonische Recht (kirchliches Recht) hatte für das Eherecht bis ins 19. Jah
 - BGB §§ 1303 ff.: gesetze-im-internet.de für aktuelle Fassung; historisch Mugdan Bd. IV
 - Reichsgesetzblatt 1874: ALEX/OeNB
 
-## Output
-
-- Zeitlinie Eherecht: Kanonisches Recht, Tametsi, Zivilehe 1874, BGB 1900
-- Konsensprinzip kanonisches Recht vs. BGB-Eherecht
-- Tabelle: Kirchliche Ehehindernisse im Vergleich zu BGB-Ehevoraussetzungen
-
-## Quellenregel
-
-Corpus Iuris Canonici: Friedberg-Edition (1879-1881). RGBl. 1874: ALEX/OeNB. BGB-Materialien Eherecht: Mugdan Bd. IV (1899). BGB aktuell: gesetze-im-internet.de.

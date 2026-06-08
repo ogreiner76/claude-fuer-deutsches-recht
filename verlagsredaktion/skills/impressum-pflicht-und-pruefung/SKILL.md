@@ -5,10 +5,6 @@ description: "Impressumspflicht und Pruefung im Verlag: DDG § 5, MStV § 18 V. 
 
 # Impressums-Pflicht und Pruefung
 
-## Arbeitsbereich
-
-Impressumspflicht und Pruefung im Verlag: DDG § 5, MStV § 18 V. i. S. d. P., Anforderungen Print/Online/Newsletter/Social-Media-Profile, Mustertexte und Pruefcheckliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -170,15 +166,6 @@ Datenschutz: [Link]
 - Social-Media-Profil ohne Impressum oder Bio-Link.
 - USt-ID fehlt bei umsatzsteuerpflichtigem Verlag.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung des Produkts.
-- `verl-newsletter-redaktion-jur` - Impressum im Newsletter-Footer.
-- `verl-social-media-rechtsfachzeitschrift` - Impressum im Profil.
-- `verl-pressetext-rechtsthemen` - Impressum auf Pressemitteilungen.
-- `verl-vlb-katalog-pflege-jur` - Konsistenz Verlagsdaten.
-- `verl-abstimmung-mit-rechtsabteilung-pruefung` - Pruefung bei Aenderungen.
-
 ## Quellen Stand 06/2026
 
 - DDG § 5 - Allgemeine Informationspflichten Telemedien.
@@ -188,3 +175,4 @@ Datenschutz: [Link]
 - UStG § 27a - USt-ID-Angabe.
 - DSGVO Art. 13, 14 - Datenschutzhinweise (separat zum Impressum).
 - BGH-Rechtsprechung zu Impressumsanforderungen in sozialen Medien (Volltexte unter bundesgerichtshof.de).
+

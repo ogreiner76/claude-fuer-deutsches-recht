@@ -73,16 +73,6 @@ Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich 
 - **Objektive Theorie ohne Bezug.** Wer rein "objektiv" auslegt, ohne die Historie zu pruefen, verliert die Bindung an den demokratisch legitimierten Gesetzgeber.
 - **Historie bei sehr alten Normen ueberstrapazieren.** § 242 BGB existiert seit 1900; die Reichstagskommission hatte ihn als Programmsatz für Treu und Glauben; die Anwendung im Arbeitsrecht oder im Verbrauchsschutz ist heute weit ueber die historische Vorstellung hinausgewachsen.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Einordnung in den Kanon.
-- `wortlaut-grammatikalische-auslegung` — vorgelagert.
-- `systematische-auslegung` — wenn Materialien das System erklaeren.
-- `teleologische-auslegung` — wenn Materialien die ratio legis dokumentieren.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — bei EU-Umsetzungsgesetzen.
-- `wertungsjurisprudenz-larenz-canaris` — Theorie hinter dem objektivierten Willen.
-- `pandekten-und-begriffsjurisprudenz` — Historische Rechtsschule als Wurzel.
-
 ## Quellen und Stand 05/2026
 
 - Friedrich Carl von Savigny, System des heutigen Roemischen Rechts, Band 1, Berlin 1840, § 33.
@@ -95,10 +85,3 @@ Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich 
 
 Stand: Mai 2026. BT-Drucksachen vor Verwendung in Schriftsaetzen immer im Original pruefen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

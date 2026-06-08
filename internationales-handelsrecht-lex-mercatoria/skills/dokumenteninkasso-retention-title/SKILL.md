@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Dokumenteninkasso nach URC 522 (ICC 
 
 # Dokumenteninkasso nach URC 522
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Dokumenteninkasso nach URC 522 (ICC 1995). Dokumente-gegen-Zahlung (D/P) und Dokumente-gegen-Akzept (D/A), Inkassoauftrag, Pflichten der Inkassobank und Risiken bei Nichteinlösung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Das Dokumenteninkasso (Documentary Collection) ist eine kostengünstigere Altern
 - Inkassoauftrag: URC 522-Einbeziehungsklausel und vollständige Anweisungen
 - Wechselakzept: Wechselrecht des Käuferlands vor D/A-Einsatz prüfen
 
-## Output
-
-- D/P vs. D/A Risikoanalyse
-- Inkassoauftrag-Checkliste (URC 522 Art. 4)
-- Wechsel-Muster (internationalem Wechselgesetz)
-
-## Quellenregel
-
-URC 522: iccwbo.org. WG (Wechselgesetz): gesetze-im-internet.de. Schrifttum: Malek/Quest, Documentary Credits (4. Aufl. 2009). Unsicherheit bleibt sichtbar.

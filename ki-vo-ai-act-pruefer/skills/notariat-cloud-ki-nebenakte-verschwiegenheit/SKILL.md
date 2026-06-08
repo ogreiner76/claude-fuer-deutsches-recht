@@ -24,16 +24,7 @@ Der Skill hilft Notariaten, KI- und Cloudwerkzeuge so zu strukturieren, dass Ent
 4. Gibt es Verschlüsselung, Rollenrechte, Backup, Export, Löschkonzept?
 5. Kann die führende Akte ohne Cloudzugriff weitergeführt werden?
 
-## Output
-
-Erstelle:
-
-- Freigabevermerk für ein konkretes Tool.
-- Datenklassenmatrix.
-- Notfall- und Exportplan.
-- KI-Prompt-Regel für Notariatsmitarbeitende.
-- Liste der Fälle, in denen keine echten Urkundendaten in das Tool dürfen.
-
 ## Red Flag
 
 Wenn ein externer Dienst faktisch die einzige Stelle ist, an der aktenrelevante Informationen vollständig vorhanden sind, ist das kein harmloses Hilfsmittel mehr.
+

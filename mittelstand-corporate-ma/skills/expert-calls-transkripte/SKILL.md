@@ -5,10 +5,6 @@ description: "Anwalt wertet Management Presentations Expert Calls und Verhandlun
 
 # Expert Calls und Transkripte
 
-## Arbeitsbereich
-
-Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte für DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Prüfraster Kernaussagen-Extrakt Widerspruecheprüfung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusammenfassung Key-Points-Liste DD-Fundstellen. Abgrenzung zu datenraum-gap-clean-room (Datenmaterial) und due-diligence-legal (Rechtsprüfung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte 
 ## Fachkern: Expert Calls und Transkripte
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Datenraum, Legal Due Diligence und pragmatische Information-Request-Steuerung**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Expert Calls und Transkripte
 
-## Zweck
-
-Bereitet Management Presentations, Expert Calls und Transkripte für DD und SPA-Verhandlung auf.
-
 ## Arbeitsmodus
 
 - Einwilligung und Vertraulichkeit vor Transkription prüfen.
@@ -170,9 +159,6 @@ Bereitet Management Presentations, Expert Calls und Transkripte für DD und SPA-
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Einwilligung sichern:** alle Teilnehmer muessen Aufzeichnung genehmigen; bei boersennotierten Gesellschaften: MAR-Hinweis
@@ -185,3 +171,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 - Aufzeichnung ohne Einwilligung: § 201 StGB strafbar; Beweismittel unverwertbar
 - Expert Call mit Insider ohne MAR-Protokoll: Aufsichtsrisiko
+

@@ -5,9 +5,6 @@ description: "Verfassungs Vorrang RED Systematische im Plugin Methodenlehre Buer
 
 # Verfassungs Vorrang RED Systematische
 
-## Arbeitsbereich
-
-**Verfassungs Vorrang RED Systematische** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill strukturiert die Kommunikation von, Dieses Skill führt eine methodische Red-Team-Analyse und, Systematische Auslegung im deutschen Zivilrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Verfassungs Vorrang RED Systematische im Plugin Methodenlehre Buer
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage`
@@ -82,10 +80,6 @@ Verfassungsrechtliche Fragen sind selten auf den ersten Blick als solche erkennb
 - Die Monatsfrist für die Verfassungsbeschwerde (§ 93 Abs. 1 BVerfGG) wird versäumt.
 - Mandanten werden nicht ausreichend über die Subsidiarität der Verfassungsbeschwerde informiert.
 - Entscheidungsvorlagen sind zu technisch und nicht auf den Informationsstand des Mandanten abgestimmt.
-
-## Output
-
-Das Skill liefert eine mandantengerechte Entscheidungsvorlage: Sachverhalt in Laienbegriffen, verfassungsrechtliche Einordnung mit Risikoampel, Handlungsoptionen mit Kosten- und Erfolgsprognose, Fristen und Empfehlung. Das Dokument ist für das Beratungsgespräch und die Aktenablage bestimmt.
 
 ## Quellen
 
@@ -174,10 +168,6 @@ Wer nur die eigene Argumentation kennt, ist im Prozess überrumpelbar. Das Red-T
 - Schwachstellen werden identifiziert, aber nicht konsequent bearbeitet, weil die Überarbeitung aufwendig ist.
 - Der Vorrang-Check wird vergessen, sodass Spezialrecht unbeachtet bleibt.
 - Das Ergebnis wird nach dem Red Team nicht aktualisiert, sodass die Analyse wirkungslos bleibt.
-
-## Output
-
-Das Skill liefert einen strukturierten Red-Team-Bericht: drei bis fünf Gegenargumente mit Bewertung ihrer Stärke, identifizierter schwächster Punkt der eigenen Position, Vorrang-Check-Ergebnis und überarbeitetes Arbeitsergebnis. Der Bericht kann als interne Qualitätsdokumentation und als Grundlage für Mandantengespräche verwendet werden.
 
 ## Quellen
 
@@ -285,16 +275,6 @@ Das Argument lautet: Der Gesetzgeber denkt das Gesetz als kohaerentes System. We
 
 Kritik aus der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Das System ist nicht so geschlossen, wie die Pandektistik glauben machte. Im konkreten Fall siegen Problem- und Wertungsargumente, nicht Systemargumente (siehe Skill `topik-viehweg-vs-systemdenken`).
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Einordnung in den Kanon.
-- `wortlaut-grammatikalische-auslegung` — vorgelagertes Element.
-- `historische-auslegung` — wenn die Systematik selbst entstehungsgeschichtlich erklaert werden muss.
-- `teleologische-auslegung` — wenn Systematik und Telos divergieren.
-- `pandekten-und-begriffsjurisprudenz` — historische Wurzeln des Systemdenkens.
-- `wertungsjurisprudenz-larenz-canaris` — modernes Systemverstaendnis.
-- `topik-viehweg-vs-systemdenken` — Gegenposition.
-
 ## Quellen und Stand 05/2026
 
 - Friedrich Carl von Savigny, System des heutigen Roemischen Rechts, Band 1, Berlin 1840, § 33.
@@ -304,14 +284,6 @@ Kritik aus der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Das Syste
 - `references/methodik-buergerliches-recht.md` im Repo.
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `systemkritik-begriffsfallen`
 
@@ -368,10 +340,6 @@ Juristische Begriffe tragen scheinbar klare Bedeutungen, die bei näherer Betrac
 - Begriffe aus anderen Rechtsbereichen werden ohne methodische Überprüfung übernommen.
 - Begriffsausweitungen werden argumentativ getarnt als "sinngemäße Auslegung".
 - Historisch überholte Begriffsdefinitionen werden ohne Prüfung aus älterer Literatur übernommen.
-
-## Output
-
-Das Skill liefert eine Begriffsanalyse für die entscheidenden Rechtsbegriffe im Sachverhalt: Normtext, historische Bedeutung, aktuelle Rechtsprechungsdefinition, Überdehnungs-/Unterdehnungsprüfung und methodisch begründete Begriffsdefinition für den konkreten Fall. Das Ergebnis ist für Gutachten und Schriftsätze direkt verwendbar.
 
 ## Quellen
 
@@ -487,15 +455,6 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 
 **Kritik aus Critical Legal Studies:** Luhmann behauptet eine politische Neutralitaet des Rechtssystems, die so nicht existiert. Das Rechtssystem ist von politischen und sozialen Konflikten durchsetzt.
 
-## Querverweise
-
-- `pandekten-und-begriffsjurisprudenz` — fruehe Systemvorstellung (geschlossenes System aus Begriffen).
-- `wertungsjurisprudenz-larenz-canaris` — wertungsorientiertes Systemverstaendnis.
-- `topik-viehweg-vs-systemdenken` — Gegenposition (Diskurs statt System).
-- `diskurstheorie-habermas-alexy` — Hauptkonkurrent in der modernen Rechtstheorie.
-- `rechtspluralismus-und-mehrebenen-system` — alternative Beobachtung der Vielfalt.
-- `oekonomische-analyse-des-rechts-coase-posner` — andere Aussensicht.
-
 ## Quellen und Stand 05/2026
 
 - Niklas Luhmann, Rechtssoziologie, 1972.
@@ -507,10 +466,3 @@ Die Systemtheorie ist nicht Methodenlehre im engeren Sinne. Sie erklaert nicht, 
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,9 +5,6 @@ description: "Bverfg Grenzen Diskurstheorie Habermas im Plugin Methodenlehre Bue
 
 # Bverfg Grenzen Diskurstheorie Habermas
 
-## Arbeitsbereich
-
-**Bverfg Grenzen Diskurstheorie Habermas** ordnet den Fall über die tragenden Prüfungslinien: Analysiert die vom BVerfG gezogenen Grenzen richterlicher, Diskurstheorie und juristische Argumentation, Faktizitaet und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Bverfg Grenzen Diskurstheorie Habermas im Plugin Methodenlehre Bue
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bverfg-grenzen-richterlicher-rechtsfortbildung`
@@ -85,10 +83,6 @@ Das Bundesverfassungsgericht hat in einer langen Linie von Entscheidungen die ve
 - Die überraschende Rechtsfortbildung verletzt Art. 103 Abs. 1 GG nur, wenn die Partei keine Gelegenheit zur Stellungnahme hatte.
 - Vorlagepflicht nach Art. 100 GG besteht nur bei nachrangigem Recht, nicht bei verfassungskonformer Auslegung.
 - Die Verfassungsbeschwerde gegen richterliche Rechtsfortbildung muss binnen eines Monats nach dem letzten fachgerichtlichen Urteil erhoben werden.
-
-## Output
-
-Das Skill liefert eine Verfassungsrüge-Analyse: Identifikation der rechtsfortbildenden Entscheidung, Prüfung gegen die BVerfG-Maßstäbe, Formulierung der konkreten Verfassungsverletzung (Norm, Grundrecht, Verletzungshandlung) und Einschätzung der Erfolgsaussichten einer Verfassungsbeschwerde. Inklusive Formulierungsvorschlag für die Begründungsschrift.
 
 ## Vertiefung: Die BVerfG-Prüfungsformel im Einzelnen
 
@@ -212,15 +206,6 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 **Kritik aus Critical Legal Studies:** Diskurstheorie unterstellt einen Konsens, der politisch beeinflusst ist. Wer am Diskurs teilnimmt, wer ausgeschlossen ist — das ist Machtfrage.
 
-## Querverweise
-
-- `wertungsjurisprudenz-larenz-canaris` — verwandte Methodenposition.
-- `topik-viehweg-vs-systemdenken` — Vorlaeufer des Diskursmodells.
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori` — klassische Argumentationsmuster.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Anwendungsfeld der Gewichtungsformel.
-- `systemtheorie-luhmann-rechtssystem-autopoiese` — Gegenposition.
-- `legal-realism-und-critical-legal-studies` — externe Kritik.
-
 ## Quellen und Stand 05/2026
 
 - Juergen Habermas, Faktizitaet und Geltung, Frankfurt 1992.
@@ -231,22 +216,11 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `dworkin-prinzipien-integritaet-zivilrecht`
 
 **Fokus:** Überträgt Dworkins Regeln/Prinzipien-Analyse auf zivilrechtliche Auslegung, Generalklauseln, richterliche Rechtsfortbildung und Schriftsatzargumente.
 
 ### Dworkin im Zivilrecht: Prinzipien, Integrität und hard cases
-
-## Einsatz
-Dieses Fachmodul bei Generalklauseln, planwidrigen Lücken, konkurrierenden Präjudizien, neuen Technologien oder Fällen, in denen mehrere BGB-Lösungen vertretbar erscheinen.
 
 ## Workflow
 1. Harte Regel, Standard oder Prinzip identifizieren.
@@ -254,9 +228,6 @@ Dieses Fachmodul bei Generalklauseln, planwidrigen Lücken, konkurrierenden Prä
 3. Prinzipien explizieren: Privatautonomie, Verkehrsschutz, Vertrauensschutz, Gleichheit, Eigentum, Verbraucherschutz, Verantwortlichkeit.
 4. Integritätstest: Wäre die Lösung in Nachbarfällen anschlussfähig oder nur Einzelfallopportunismus?
 5. Institutionelle Grenze: Kann ein Gericht das fortbilden oder braucht es Gesetzgebung?
-
-## Output
-Schriftsatzbaustein mit zwei Ebenen: erst positive Rechtsquellen, dann Prinzipienbegründung. Keine Moralbehauptung ohne Normanschluss.
 
 ## 4. `empirie-im-zivilrecht-quellenkritik`
 
@@ -316,10 +287,6 @@ Empirische Befunde spielen im Zivilrecht eine wachsende Rolle — von Marktdaten
 - Interessengebundene Studien (Unternehmens- oder Verbandsforschung) werden wie neutrale Wissenschaft behandelt.
 - Die Übertragbarkeit von Laborbefunden auf die Lebenswirklichkeit wird unkritisch angenommen.
 - Empirische Befunde werden als normative Argumente ausgegeben, ohne die rechtliche Relevanzschwelle zu prüfen.
-
-## Output
-
-Das Skill liefert eine Quellenkritik-Analyse: methodische Bewertung der empirischen Quelle, Einordnung des Befunds nach Beweiskraft (gesichert, wahrscheinlich, tendenziell), Einschätzung der rechtlichen Verwendbarkeit und Formulierungsvorschlag für die juristische Argumentation. Geeignet als Gutachtenbestandteil oder Schriftsatzanlage.
 
 ## Vertiefung: Kausalitätsstandards im Zivilrecht
 
@@ -405,10 +372,6 @@ EU-Recht wird autonom und im Lichte aller Amtssprachen ausgelegt. Dieses Skill f
 - Vorabentscheidungsersuchen werden nicht gestellt, obwohl die Auslegungsfrage nicht gesichert ist — das begründet Staatshaftungsansprüche.
 - Erwägungsgründe werden als unverbindliche Präambeln abgetan, obwohl sie zentrale Auslegungshilfen sind.
 
-## Output
-
-Das Skill liefert eine unionsrechtliche Auslegungsanalyse: Begriffsbestimmung nach allen relevanten Sprachfassungen, Auswertung der EuGH-Rechtsprechung, Analyse der nationalen Umsetzungskonformität und Empfehlung, ob ein Vorabentscheidungsersuchen geboten ist. Geeignet als Schriftsatzbaustein in Verfahren mit Unionsrechtsbezug.
-
 ## Vertiefung: Rangverhältnis der Sprachfassungen nach EuGH-Formel
 
 Der EuGH hat in ständiger Rechtsprechung entschieden, dass alle Sprachfassungen des EU-Rechts gleich authentisch sind und bei Divergenzen nach dem Geist und Zweck des Rechtsakts aufgelöst werden müssen. Die Formel "im Lichte aller Amtssprachen und des Ziels der Regelung" ist der Ausgangspunkt. Dabei kommt dem effet utile besondere Bedeutung zu: Die Auslegung muss die praktische Wirksamkeit des Unionsrechts sicherstellen.
@@ -434,3 +397,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 288 AEUV bei dejure](https://dejure.org/gesetze/AEUV/288.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

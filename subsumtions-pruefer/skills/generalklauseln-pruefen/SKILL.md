@@ -5,10 +5,6 @@ description: "Prüft Generalklauseln wie Treu und Glauben (§ 242 BGB), gute Sit
 
 # Generalklauseln prüfen
 
-## Arbeitsbereich
-
-Prüft Generalklauseln wie Treu und Glauben (§ 242 BGB), gute Sitten (§ 138 BGB), billiges Ermessen, öffentliches Interesse und Verhältnismäßigkeit. Gibt Indizien und Fallgruppen statt mechanischer Subsumtion. Warnt vor der Grenzen automatisierter Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Prüft Generalklauseln wie Treu und Glauben (§ 242 BGB), gute Sitten (§ 138 BG
 3. Handelt es sich um Privatrecht (§§ 138, 242 BGB) oder öffentliches Recht (Verhältnismäßigkeit)?
 4. Besteht ein Zeit- und Umstandsmoment für Verwirkung? — beide kumulativ erforderlich
 5. Welche Fallgruppe der Generalklausel ist primär einschlägig? → System listet Fallgruppen
-
-## Zweck
-
-Generalklauseln entziehen sich per definitionem der rein mechanischen Subsumtion. Dieser Skill liefert anerkannte Fallgruppen, Indizien und Auslegungsmaßstäbe, die als Orientierung dienen. Das System gibt ausdrücklich keine abschließende Bewertung bei Generalklauseln — es benennt Indizien, keine Ergebnisse.
 
 ## Zentrale Normen
 
@@ -85,9 +77,6 @@ Im öffentlichen Recht: Geeignetheit, Erforderlichkeit, Angemessenheit (Überma�
 
 Bei einseitiger Leistungsbestimmung: Das System prüft, ob die Bestimmung sich im Rahmen des Üblichen und Sachgerechten hält. Indizien: Marktvergleich, frühere Vertragspraxis, Begründung der Bestimmung.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Das System gibt:
@@ -104,3 +93,4 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
  → Vollzitat-Zeile und Fundstellen-Verweis NJW 2021, 1952 gelöscht
  → kein Ersatz eingetragen (keine verifizierte Alternative gefunden)
 -->
+

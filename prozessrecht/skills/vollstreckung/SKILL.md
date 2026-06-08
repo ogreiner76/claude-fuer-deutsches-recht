@@ -5,10 +5,6 @@ description: "Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfa
 
 # Zwangsvollstreckung – Überblick und Praxis
 
-## Arbeitsbereich
-
-Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: §§ 704 ff. ZPO. Prüfraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis, Vollstreckungsarten. Output: Vollstreckungsauftrag und Pfaendungsbeschluss-Antrag. Abgrenzung: nicht AnfG-Anfechtung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -29,15 +25,6 @@ Tabellenauszug § 201 InsO, Räumung § 885 ZPO, Schuldnerschutz – lädt das f
 `zv-pfaendungstabelle-2025`, `zv-elektronische-zustellung-2027`, `zv-mahnbescheid-online`,
 `zv-vollstreckungsbescheid-folge`). Dieser Hub-Skill ist die richtige Adresse für die dogmatische
 Gesamtschau; das Plugin ist die richtige Adresse für die einzelne Vollstreckungsmaßnahme.
-
-## Zweck
-
-Dieser Skill begleitet die Durchführung der Zwangsvollstreckung aus Urteilen, Beschlüssen,
-Vollstreckungsbescheiden, notariellen Urkunden und anderen Titeln. Er deckt alle wesentlichen
-Vollstreckungsarten ab: Mobiliarvollstreckung (Pfändung körperlicher Sachen), Geldvollstreckung
-in Forderungen (PfÜB), Immobiliarvollstreckung (ZVG), Vermögensauskunft, Räumungsvollstreckung
-und Herausgabevollstreckung. Auf der Schuldnerseite: Abwehr rechtswidriger Vollstreckung,
-Vollstreckungsgegenklage, Drittwiderspruchsklage.
 
 ## Eingaben
 
@@ -92,6 +79,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### A. Geldvollstreckung – Mobiliarpfändung (§ 808 ZPO)
@@ -125,13 +113,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 2. **Androhung**: GV setzt Termin (mind. 3 Wochen Vorlauf, § 885 Abs. 1 ZPO)
 3. **Durchführung**: GV räumt; Hab und Gut des Schuldners wird eingelagert oder bei Wertlosigkeit
  vernichtet
-
-## Ausgabeformat
-
-- **PfÜB-Antragsentwurf** (vollständig für das Vollstreckungsgericht)
-- **Rechtliches Memo** zu Vollstreckungsvoraussetzungen und Pfändungsschutz
-- **Checkliste** (Titel/Klausel/Zustellung; Pfändungsschutz; Drittschuldner)
-- **Muster-Vermögensauskunfts-Aufforderung** für außergerichtliche Nutzung
 
 ## Beispiel
 
@@ -178,3 +159,4 @@ Datum 01.07.2010 (nicht 20.05.2010), aber mit falschem Thema: real handelt das U
 Vorteilsausgleichung/Steuervorteile, nicht von Drittwiderspruchsklage § 771 ZPO (WRONG_TOPIC).
 Halluzinierte Referenz geloescht. Keine Ersatzquelle für § 771 ZPO-Leitentscheidung ergaenzt.
 -->
+

@@ -5,10 +5,6 @@ description: "Fristenund Risikoampel für das Plugin gewerblicher-rechtsschutz: 
 
 # Workflow: Fristen und Risikoampel
 
-## Arbeitsbereich
-
-Fristenund Risikoampel für das Plugin gewerblicher-rechtsschutz: strukturierte Fristenerfassung, Risikobewertung Grün/Gelb/Rot und sofortige Handlungsempfehlung. Für alle IP-Verfahren vom Erstgespräch bis zur Vollstreckung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Fristenund Risikoampel für das Plugin gewerblicher-rechtsschutz: strukturierte 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erstellt eine **vollständige Fristenübersicht mit Risikoampel** für ein laufendes IP-Mandat. Er ist kein vollständiges Fristenbuch (s. `spezial-fristen-abschlussprodukt-und-uebergabe`), sondern das operative Werkzeug für die laufende Fristenkontrolle und Risikobewertung im Mandatsalltag.
-
-Mandatsbezug: Wöchentlicher Fristencheck in der Kanzlei; Übergabe eines Mandats an Urlaubsvertretung; schnelle Lageeinschätzung bei einem parallelen Mandat-Portfolio.
 
 ## Risikoampel-System
 
@@ -169,16 +159,10 @@ OFFENE KLÄRUNGSPUNKTE:
 4. Prüfen: Ist Fristverlängerung möglich? (z.B. § 929 Abs. 2 Satz 2 ZPO; EUIPO-Verlängerungsantrag)
 5. Dokumentation: Alle Schritte in Akte festhalten.
 
-## Quellenregel
-
-- Fristen nur aus aktuellen Normen; gesetze-im-internet.de und dejure.org.
-- [§ 929 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/929.html)
-- [§ 42 MarkenG – dejure.org](https://dejure.org/gesetze/MarkenG/42.html)
-- Keine Pauschalangaben; Fristberechnungen immer im konkreten Fall prüfen.
-
 ## Anschluss-Skills
 
 - `spezial-fristen-abschlussprodukt-und-uebergabe` – Vollständige Fristenmatrix
 - `spezial-schutzrechts-fristennotiz-und-naechster-schritt` – Sofort-Fristennotiz
 - `workflow-dokumentenintake` – Frist-Auslöser aus Dokumenten
 - `evvollzug-neu-001` – EV-Vollziehungsfrist im Detail
+

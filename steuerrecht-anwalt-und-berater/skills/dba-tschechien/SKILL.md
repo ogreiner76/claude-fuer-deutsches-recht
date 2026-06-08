@@ -74,12 +74,6 @@ Das DBA wurde urspruenglich mit der CSSR am 19.12.1980 abgeschlossen (BGBl. 1982
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo.
-- Berechnungsbeispiel.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Aelteres DBA-CSSR (1980): bei strittiger Auslegung Verstaendigungsverfahren oder EU-DBA-SBG.
@@ -148,12 +142,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-CSSR Fundstellen, Nachfolge-Notenwechsel, BMF-Schreiben verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-slowakei`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-CSSR 19.12.1980 (BGBl. 1982 II S. 1022), in Kraft 17.11.1983; Fortgeltung für Tschechien per Bekanntmachung BGBl. 1993 II S. 762. MLI ab 01.01.2026. Dividenden 5/15 Prozent, Zinsen 0 Prozent (nur Ansaessigkeitsstaat), Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 9 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 1022; Fortgeltung Bekanntmachung 1993; MLI 01.01.2026; Quellensteuer-Saetze; Bauausfuehrung 12 Monate), 1 gestrichen (BFH I R 38/12 betrifft nicht Tschechien) -->
+

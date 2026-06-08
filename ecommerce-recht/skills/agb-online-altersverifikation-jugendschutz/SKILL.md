@@ -5,10 +5,6 @@ description: "AGB im Online-Shop Einbeziehung § 305 BGB: prüft die einschlägi
 
 # AGB im Online-Shop – Einbeziehung § 305 BGB
 
-## Arbeitsbereich
-
-AGB im Online-Shop Einbeziehung § 305 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -110,15 +106,6 @@ Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie 
 - Pauschale Bearbeitungsgebühr bei Widerruf.
 - Gerichtsstand auf Sitz des Unternehmers für Verbraucher – unwirksam.
 - Klausel "AGB können jederzeit geändert werden" ohne konkreten Änderungsmechanismus – unwirksam.
-
-## Querverweise
-
-- unwirksame-klauseln-versand-ruecksendung-gewaehrleistung
-- impressum-ddg-anbieterkennzeichnung
-- widerrufsbelehrung-digitale-waren-dienstleistungen
-- preisangaben-pangv-gesamtpreis-grundpreis
-- rechtstexte-versionierung-deployment
-- grenzueberschreitender-verbrauchervertrag-rom-i-bruessel-ia
 
 ## Quellen Stand 06/2026
 

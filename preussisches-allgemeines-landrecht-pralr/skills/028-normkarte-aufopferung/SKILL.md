@@ -5,10 +5,6 @@ description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft im Preußis
 
 # PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft
 
-## Aufgabe
-
-Dieser Skill bearbeitet **Normkarte Aufopferung Einleitung 74 75 vertieft** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
 ## Kaltstart in 6 Fragen
 
 1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
@@ -65,10 +61,3 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 3. Spezialgesetz vorhanden (POG, BVG, InfSchG)? — Vorrang.
 4. Sonst allgemeiner Aufopferungsanspruch nach Einl. §§ 74, 75 ALR.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

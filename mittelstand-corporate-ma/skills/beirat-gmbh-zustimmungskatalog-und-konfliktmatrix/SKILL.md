@@ -5,10 +5,6 @@ description: "Prüft und entwirft GmbH-Beiratsregeln für mittelständische und 
 
 # GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
 
-## Arbeitsbereich
-
-Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,5 +23,3 @@ Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft,
 4. Haftung/D&O: Organnähe, Informationsgrundlage, Protokoll, Interessenkonflikte.
 5. Exit/Finanzierung: Drag/Tag, Liquidation Preference, Reserved Matters, Bank Covenants.
 
-## Output
-Satzungsbaustein, Geschäftsordnungsbaustein und Tabelle `Maßnahme / Schwelle / Gremium / Mehrheit / Konflikt / Eskalation / Dokumentation`.

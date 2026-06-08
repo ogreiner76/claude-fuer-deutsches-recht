@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-E
 
 # Erbrecht und Hofrecht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-Erbrecht 1900, Anerbenrecht und Hoefe-Kodifikation, NS-Reichserbhofgesetz 1933 und heutiges Hoefe-Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das Erbrecht hat in Deutschland eine vielschichtige Geschichte. Das Sachsenspieg
 - Reichserbhofgesetz 1933: RGBl. I 1933, 685 via ALEX/OeNB
 - HoefeO: gesetze-im-internet.de (Bundesrecht Anerbenrecht)
 
-## Output
-
-- Zeitleiste Erbrecht: Sachsenspiegel bis BGB 1900 und Sonderrecht
-- Reichserbhofgesetz 1933: Inhalt und Kritik
-- Anerbenrecht heute: HoefeO-Anwendung und Verfassungsfragen
-
-## Quellenregel
-
-Sachsenspiegel Erbrecht: MGH-Edition. BGB Erbrecht: gesetze-im-internet.de; Mugdan Bd. V. Reichserbhofgesetz 1933: ALEX/OeNB. HoefeO: gesetze-im-internet.de.

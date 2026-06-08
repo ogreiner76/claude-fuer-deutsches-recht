@@ -25,16 +25,6 @@ Analysiert die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO, d
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Dieser Skill unterstützt bei der Prüfung, ob und wann der Geschäftsleiter einer
-juristischen Person (insbesondere GmbH, AG, GmbH & Co. KG) zur Stellung eines
-Insolvenzantrags verpflichtet ist, welche zivilrechtlichen und strafrechtlichen
-Haftungsfolgen bei Pflichtverletzung drohen und welche Zahlungspflichten nach
-§ 15b InsO gelten. Der Skill legt den Fokus auf die Antrags­fristen, die
-Haftungsstruktur gegenüber Neu- und Altgläubigern sowie die Dokumentations-
-pflichten des Geschäftsleiters.
-
 ## Eingaben
 
 - Rechtsform der Gesellschaft (GmbH, AG, GmbH & Co. KG, etc.)

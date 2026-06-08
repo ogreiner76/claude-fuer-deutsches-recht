@@ -5,9 +5,6 @@ description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am
 
 # Berufung ZPO Berufungs Zulassung Beweislast
 
-## Arbeitsbereich
-
-**Berufung ZPO Berufungs Zulassung Beweislast** ordnet den Fall über die tragenden Prüfungslinien: Berufung gegen Amtsgerichts-Urteil zum Landgericht nach §, Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO, Grundregel der Beweislast im Zivilprozess. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Berufung ZPO Berufungs Zulassung Beweislast im Selbstvertretung am
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `berufung-amtsgericht-511-zpo`
@@ -176,25 +174,9 @@ LG-Urteil kann mit **Revision zum BGH** angefochten werden — aber nur, wenn vo
 - "Das AG hat nicht zugelassen — ich lege Beschwerde beim LG ein." → Existiert nicht. Eine "Zulassungs-Beschwerde" gibt es in § 511 IV ZPO nicht.
 - "Die Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR.
 
-## Querverweise
-
-- `urteil-pruefen-313-zpo` — Urteil pruefen.
-- `rechtsmittelfrist-517-zpo` — Frist.
-- `berufungs-zulassung-niedrig-streitwert` — Zulassung.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `wann-doch-anwalt-grenzfaelle` — Anwalt.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 511 II Nr. 1 ZPO aktuelle Fassung: Beschwer 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz). Anwaltszwang § 78 ZPO unveraendert. Eine Zulassungs-Beschwerde zum LG existiert in § 511 ZPO nicht.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `berufungs-zulassung-niedrig-streitwert`
 
@@ -304,24 +286,9 @@ Wenn das AG zugelassen hat: Sie koennen Berufung normal einlegen. Frist 1 Monat 
 - "Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR — ausser in Uebergangsfaellen nach § 47 EGZPO.
 - "Mein altes Urteil ist nicht mehr berufungsfaehig, weil ich nur 800 EUR Beschwer habe." → Falsch, wenn das Urteil bis 31.12.2025 verkuendet wurde: dort gilt noch 600 EUR (§ 47 EGZPO).
 
-## Querverweise
-
-- `berufung-amtsgericht-511-zpo` — Berufung allgemein.
-- `urteil-pruefen-313-zpo` — Urteil pruefen.
-- `rechtsmittelfrist-517-zpo` — Frist.
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 511 ZPO mit Anhebung Beschwer auf 1.000 EUR seit 01.01.2026 (Justizstandort-Staerkungsgesetz vom 08.12.2025, BGBl. I Nr. 318). Uebergangsregel § 47 EGZPO: Alte Wertgrenze 600 EUR gilt fort für Verfahren mit anzufechtender Entscheidung bis 31.12.2025 bzw. mit bis dahin geschlossener muendlicher Verhandlung. Zulassung erfolgt ausschliesslich durch das erstinstanzliche Gericht (AG). Eine eigenstaendige Zulassungs-Beschwerde zum LG sieht § 511 ZPO nicht vor.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `beweislast-grundregel-wer-was`
 
@@ -439,13 +406,7 @@ Wenn das Gericht nicht ueberzeugt ist, verliert die beweispflichtige Partei (= n
 - "Bei Schadensersatz muss der Beklagte alles beweisen." → Nur bei Beweislast-Umkehr (z. B. § 280 BGB).
 - "Indizien zaehlen nicht." → Doch, kumulativ koennen sie Ueberzeugung tragen.
 
-## Querverweise
-
-- `tatbestand-zerlegen-anspruchspruefung-laien` — Tatbestand.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweisangebote.
-- `substantiiertes-bestreiten-138-iv-zpo` — Bestreiten.
-- `kein-beweis-folgen-laienwarnung` — Folgen ohne Beweis.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Beweislast-Grundsaetze sind Rechtsprechung, weitgehend stabil. Sondernormen verifizieren.
+

@@ -5,10 +5,6 @@ description: "Krankenhaushygiene zwischen IfSG, KRINKO-Empfehlungen und Landeshy
 
 # Krankenhaushygiene IfSG Landesrecht
 
-## Arbeitsbereich
-
-Krankenhaushygiene zwischen IfSG, KRINKO-Empfehlungen und Landeshygieneverordnungen: Hygieneplan, MRE, Meldewege, Ausbruchsmanagement, Aufsichtsdialog mit Gesundheitsamt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,14 +74,6 @@ Krankenhaushygiene wird in mehreren Ebenen geregelt: IfSG (Bund), KRINKO-/RKI-Em
 - Hygieneplan nicht aktualisiert.
 - Aufbereitung Medizinprodukte (MPBetreibV) nicht eingebunden.
 
-## Querverweise
-- `medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv`
-- `landesaufsicht-krankenhausaufsicht-beanstandung`
-- `intensivmedizin-beatmung-verlegung`
-- `blutprodukte-transfusionsrecht-dokumentation`
-- `personaluntergrenzen-pflege-ppugv`
-- `compliance-system-klinik-einkauf-forschung-spenden`
-
 ## Quellen Stand 06/2026
 - IfSG §§ 6, 7, 23, 36.
 - KRINKO-Empfehlungen RKI (Live-Check rki.de).
@@ -102,3 +90,4 @@ Konkret zu prüfen:
 - §§ 107-114 SGB V (Krankenhaus)
 - KHEntgG (Entgeltgesetz)
 - §§ 17a-17d KHG (DRG, Pflege, Investitionen)
+

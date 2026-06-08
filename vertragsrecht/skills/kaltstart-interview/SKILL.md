@@ -19,17 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Zweck
-
-Diese Skill führt das strukturierte Erstgespräch, um die konkrete Vertragspraxis
-der Kanzlei oder Rechtsabteilung zu erfassen und in ein lebendes Kanzleiprofil
-zu schreiben. Jede andere Skill des Plugins liest dieses Profil, bevor sie
-tätig wird. Ohne ausgefülltes Profil arbeiten alle anderen Skills mit
-Standardwerten — das Erstgespräch ist der Hebel, der die Ausgaben von
-"generisch" auf "so wie Ihre Kanzlei arbeitet" verschiebt.
-
-Lädt beim ersten Einsatz des Plugins oder wenn `--redo` übergeben wird.
-
 ## Eingaben
 
 - Angaben zum Anwalt/zur Anwältin: Rolle, Kanzleigröße, Tätigkeitsschwerpunkt
@@ -82,6 +71,7 @@ Lädt beim ersten Einsatz des Plugins oder wenn `--redo` übergeben wird.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 0 — Vorabprüfung Konfigurationsstatus
@@ -378,14 +368,6 @@ Zeigen Sie eine Zusammenfassung und bieten Sie an:
 
 ---
 
-## Ausgabeformat
-
-Das Kanzleiprofil ist ein Prosatext mit Tabellen — kein YAML, kein
-Config-File. Der Anwalt soll es lesen und direkt editieren können.
-
-Nach dem Schreiben: kurze Zusammenfassung dessen, was erfasst wurde, und
-Angebot eines Erste-Schritte-Tests.
-
 ## Beispiel
 
 **Szenario:** Kanzlei mit 3 Anwälten, schwerpunktmäßig IT-Dienstleistungsverträge
@@ -425,3 +407,4 @@ Jede Vertragsanalyse und jedes Playbook-Ergebnis muss Nachweise führen aus:
  Ist eine Literaturquelle erforderlich, nur als "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" mit exakter Fundstelle kennzeichnen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

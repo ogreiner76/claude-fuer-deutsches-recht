@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Anerkennung und Vollstreckung auslä
 
 # New York Convention 1958: Anerkennung und Vollstreckung
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Die New York Convention (UN-Übereinkommen 1958, 172 Vertragsstaaten) ist das wi
 - Ordre public Verteidigung: nur bei offensichtlicher, fundamentaler Grundrechts- oder Rechtsverletzung
 - Aufhebungsklage vermeiden: Award-Anfechtung am Schiedsort und parallele Vollstreckung in Drittland möglich
 
-## Output
-
-- NY Convention Art. V Versagungsgründe-Matrix
-- Vollstreckungsverfahren-Zeitstrahl (D: Oberlandesgericht, § 1062 ZPO)
-- Vollstreckbarkeit-Risikorating Top-10-Länder
-
-## Quellenregel
-
-NY Convention 1958: newyorkconvention.org (Text und Vorbehaltsliste). §§ 1060-1062 ZPO: gesetze-im-internet.de. Schrifttum: Born, International Commercial Arbitration (2021) Kap. 27. Unsicherheit bleibt sichtbar.

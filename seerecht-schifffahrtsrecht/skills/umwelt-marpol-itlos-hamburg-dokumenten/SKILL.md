@@ -50,11 +50,6 @@ Ein Kapitän soll auf der Elbe Bilgenwasser eingeleitet haben; die Küstenwache 
 - MARPOL-Notfallausnahme eng auszulegen; technischer Defekt allein reicht oft nicht.
 - Geschäftsführerhaftung: Reeder haftet für Organisationsverschulden.
 
-## Output
-- Strafverteidigungs-Vermerk: Tatbestand; Verteidigungsansätze; Beweislage
-- Beweissicherungs-Checkliste (ORB; Logbücher; GPS; AIS)
-- Meldepflichten-Übersicht nach MARPOL und SeeUG
-
 ## Erweiterte Normengrundlage
 
 ### MARPOL 73/78
@@ -88,3 +83,4 @@ Ein Kapitän soll auf der Elbe Bilgenwasser eingeleitet haben; die Küstenwache 
 - StGB § 324: https://dejure.org/gesetze/StGB/324.html
 - SeeUG: https://www.gesetze-im-internet.de/seeug/
 - BSH Meeresumwelt: https://www.bsh.de/DE/THEMEN/Meeresumwelt/meeresumwelt_node.html
+

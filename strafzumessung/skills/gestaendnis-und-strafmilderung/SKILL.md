@@ -5,10 +5,6 @@ description: "Gestaendnis als Strafmilderungsgrund. Umfang Reichweite Glaubhafti
 
 # Gestaendnis und Strafmilderung
 
-## Arbeitsbereich
-
-Gestaendnis als Strafmilderungsgrund. Umfang Reichweite Glaubhaftigkeit. Differenzierung schlankes Gestaendnis vs. qualifiziertes Gestaendnis. Verbindung zu Reue und Wiedergutmachung. Wirkung in der Strafzumessung praktisch 25 bis 33 Prozent Rabatt; orientierender Faustwert. Doppelverwertung mit Verstaendigung vermeiden. Schweigen darf nicht schaerfend gewertet werden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -125,17 +121,10 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
 - **Verspaetetes Gestaendnis** ueberschaetzt: geringerer Wert.
 - **Falsches Gestaendnis** (Schutzbehauptung) kann sich strafschaerfend auswirken oder zu falsa demonstrans-Problem fuehren — Mandanten ausfuehrlich beraten.
 
-## Querverweise
-
-- `paragraph-46-stgb-grundsatz-strafzumessung` — Grundsatz.
-- `strafzumessungs-tatsachen-46-ii-stgb` — Detailkatalog.
-- `verstaendigung-257c-stpo-strafzumessung` — Verzahnung Verstaendigung.
-- `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` — Kombination TOA.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Urteilsbegruendung.
-
 ## Quellen und Stand 05/2026
 
 - § 46 Abs. 2 StGB in der geltenden Fassung.
 - §§ 136, 243 Abs. 5, 257c StPO.
 - BGH zur Bewertung des Schweigens — Aktenzeichen verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

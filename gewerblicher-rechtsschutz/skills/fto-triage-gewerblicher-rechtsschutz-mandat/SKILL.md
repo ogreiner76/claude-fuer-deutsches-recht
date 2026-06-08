@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operate-Analyse FTO. Prüfraster: Recherche Espacenet DPMApaplus EP-Datenbank sperrende DE- und EP-Patente. Ergebnis Recherchepaket für Patentanwalt kein FTO-Gutachten. Output: Recherche-Bericht mit relevanten Patentfundstellen. Abgrenzung zu erfindungsmeldung-aufnahme (eigene Erfindung) und verletzungs-triage (fremde Schutzrechte). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -30,10 +26,6 @@ Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verlet
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Erste Triage möglicher Patenthindernisse vor Markteinführung eines Produkts oder einer Technologie. Der Skill recherchiert relevante DE- und EP-Patente, bewertet ihre Relevanz für den konkreten Anwendungsfall und erstellt ein Recherchepaket für einen Patentanwalt. **Kein formelles FTO-Gutachten** – die abschließende rechtliche Einschätzung, ob ein Produkt in den Schutzbereich eines Patents fällt, erfordert einen zugelassenen Patentanwalt.
 
 ## Eingaben
 
@@ -130,17 +122,6 @@ Zitierweise nach `../references/zitierweise.md`.
 - Kraßer/Ann, Patentrecht, 7. Aufl. 2016, § 33 Rn. 45 ff. (Schutzbereichsbestimmung). `[Modellwissen – prüfen; neuere Auflage verwenden falls verfügbar]`
 - Schulte/Moufang, PatG, 10. Aufl. 2017, § 14 Rn. 95 ff. (Äquivalenzlehre).
 
-## Ausgabeformat
-
-**FTO-Triage-Bericht:**
-1. Technologieprofil (Kurzfassung der geprüften Merkmale)
-2. Rechercheparameter (Datenbanken, Klassen, Suchterms, Datum)
-3. Ergebnistabelle (Patent-Nr., Inhaber, Titel, Status, Ablauf, Bewertung 🔴🟠🟡🟢)
-4. Detailanalyse der 🔴/🟠-Treffer (Merkmalsabgleich, Begründung)
-5. Handlungsoptionen (Lizenz, Design-around, Nichtigkeitsangriff)
-6. Offene Fragen für Patentanwalt
-7. Entscheidungsbaum
-
 ## Beispiel (Gutachtenstil – Auszug)
 
 **Produkt:** Neue Fertigungsmethode für Halbleiterbauteile mit bestimmter Schichtabfolge
@@ -167,3 +148,4 @@ Zitierweise nach `../references/zitierweise.md`.
 - **Kein FTO-Gutachten:** Diese Triage ersetzt kein formelles FTO-Gutachten durch einen Patentanwalt; bei 🔴/🟠-Ergebnissen ist patentanwaltliche Einschaltung zwingend.
 - **Äquivalenz ist Recht, nicht Technik:** Die Äquivalenzprüfung erfordert rechtliche Wertung (BGH "Pemetrexed"); nicht dem Ingenieur überlassen.
 - **Geheimhaltung:** Technologiebeschreibungen sind vertraulich (§ 43a Abs. 2 BRAO; Geschäftsgeheimnis § 2 GeschGehG); nur intern und über gesicherte Kanäle verarbeiten.
+

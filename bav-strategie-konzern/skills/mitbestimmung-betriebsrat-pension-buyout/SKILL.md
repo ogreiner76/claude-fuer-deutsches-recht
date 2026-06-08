@@ -5,10 +5,6 @@ description: "Betriebsratsbeteiligung bei bAV-Einführung und -Aenderung sichers
 
 # Mitbestimmung — Betriebsrat und Einigungsstelle bei BAV
 
-## Arbeitsbereich
-
-Betriebsratsbeteiligung bei bAV-Einführung und -Aenderung sicherstellen: Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Prüfraster: Mitbestimmungstatbestaende, Informationspflichten, Einigungsstelle. Output: Beteiligungsverfahren bAV. Abgrenzung: nicht kollektivrechtlicher Sozialplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -224,3 +220,4 @@ in Kraft und ersetzt insoweit die bisherige [Versorgungsordnung/BV].
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — Ergebnisdokumentation in BV
 
 ## Ergaenzende Rechtsprechung (v14.2)
+

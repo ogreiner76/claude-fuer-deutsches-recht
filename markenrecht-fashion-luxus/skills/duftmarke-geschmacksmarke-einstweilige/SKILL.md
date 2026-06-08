@@ -5,10 +5,6 @@ description: "Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarke
 
 # Duftmarken und Geschmacksmarken
 
-## Arbeitsbereich
-
-Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -147,3 +143,4 @@ Bevor die Duftmarke eingereicht wird, klaere:
 Ersatz: BGH I ZR 149/14 (Pippi-Langstrumpf-Kostuem II, 19.11.2015) — verifiziert auf dejure.org (GRUR 2016, 725).
 Thema: wettbewerbliche Eigenart und UWG-Nachahmungsschutz; passt inhaltlich zum Kontext.
 -->
+

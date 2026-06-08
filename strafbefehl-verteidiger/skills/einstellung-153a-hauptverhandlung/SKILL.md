@@ -41,9 +41,6 @@ Einstellung im Strafbefehlsverfahren: § 153 StPO (Geringfuegigkeit ohne Auflage
 - BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): Die gesetzliche Wertung des KCanG ist als bestimmender Strafzumessungsgrund zu beruecksichtigen — relevant für die Bemessung von Geldauflagen nach § 153a StPO im Cannabisbereich. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
 - Hinweis: Eine BGH-Leitentscheidung speziell zur Anwendung des § 153a StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 153a StPO Strafbefehl" durchführen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vergleich der Einstellungsmoeglichkeiten
 
 | Norm | Voraussetzung | Auflage | BZR-Eintrag |
@@ -120,3 +117,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Auflage-Erfuellungsfrist im Kalender einpflegen.
 - BZR-Konsequenzen erklaeren: bei § 153a und Geldbusse bis 90 Tagessaetze kein Eintrag.
 - Ablehnung der Einstellung ist kein Endpunkt — Antrag in der HV wiederholen.
+

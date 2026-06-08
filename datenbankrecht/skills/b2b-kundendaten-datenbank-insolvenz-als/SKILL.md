@@ -5,10 +5,6 @@ description: "Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschG
 
 # B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht
 
-## Arbeitsbereich
-
-Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Da
 - Arbeitsrechtliche Abmahnung und außerordentliche Kündigung müssen zeitnah erfolgen — keine Verwirkung.
 - Berechnung des Schadens ist komplex: entgangene Aufträge, Lizenzanalogie oder pauschaler Schadensersatz nach § 97 Abs. 2 UrhG.
 
-## Output
-
-- Verletzungsanalyse (§ 87b UrhG + GeschGehG + Arbeitsrecht kombiniert)
-- Abmahnschreiben und fristlose Kündigung des Mitarbeiters
-- Einstweiliger Verfügungsantrag gegen Mitarbeiter und Wettbewerber
-- DSGVO-Datenpannen-Meldung (Art. 33 DSGVO) — Muster
-- Präventionskonzept: Technische und vertragliche CRM-Schutzmaßnahmen
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Da
 - [§ 241 BGB — dejure.org](https://dejure.org/gesetze/BGB/241.html)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)
+

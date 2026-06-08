@@ -5,10 +5,6 @@ description: "Digital Services / Außergerichtliche Streitbeilegungsstelle DSA: 
 
 # Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA
 
-## Arbeitsbereich
-
-Digital Services / Außergerichtliche Streitbeilegungsstelle DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -103,13 +99,6 @@ Anwaltliche Begleitung außergerichtlicher Streitbeilegungsstellen für Plattfor
 - DSA-Originaltext aus EUR-Lex.
 - Zitierweise gemäß `references/zitierweise.md`.
 
-## Ausgabeformat
-
-- Antrag oder Stellungnahme im Streitbeilegungsverfahren.
-- Akkreditierungsdossier (bei Anerkennungsantrag) mit gegliederten Unterlagen.
-- Beweis-Layout: Screenshots datiert, URLs mit Web-Archive-Backup, Korrespondenz-Auszüge.
-- Erfolgsaussichts-Memo für den Mandanten.
-
 ## Beispiele
 
 - **Hassrede-Sperrung.** Nutzer rügt unrechtmäßige Sperrung; Streitbeilegungsstelle empfiehlt Wiederherstellung, Plattform setzt um.
@@ -157,3 +146,4 @@ Vor Antragstellung prüfen:
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

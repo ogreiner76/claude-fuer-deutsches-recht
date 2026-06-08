@@ -5,10 +5,6 @@ description: "Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und
 
 # Neutralitätsprüfung
 
-## Arbeitsbereich
-
-Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markiert alle parteiischen Formulierungen Prognosen und Bewertungen und schlaegt neutrale Ersatzformulierungen vor. Sicherheitsgate vor Weitergabe des Auszugs. Massstab § 286 ZPO freie Beweiswürdigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und Erfolgseinsch
 - Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Der Aktenauszug muss neutral formuliert sein — er gibt den Stand eines Verfahrens wieder, ohne eine Seite zu bevorzugen oder eine Erfolgsprognose abzugeben. Dieser Skill prüft einen erstellten Aktenauszug auf Neutralitätsverstöße und schlägt Korrekturen vor.
 
 ## Triage — kläre vor der Prüfung
 
@@ -37,9 +29,6 @@ Der Aktenauszug muss neutral formuliert sein — er gibt den Stand eines Verfahr
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verbotene Formulierungstypen
 
 ### Erfolgsprognosen (absolut verboten)
@@ -85,6 +74,7 @@ Für jede beanstandete Formulierung wird eine neutrale Ersatzformulierung vorges
 ## Ergebnis-Format
 
 ```markdown
+
 ## Neutralitätsprüfung — Ergebnis
 
 ### Beanstandungen
@@ -114,3 +104,4 @@ Anzahl Beanstandungen: [Zahl]
 Die Neutralitätsprüfung ist kein Korrektorat des Aktenauszugs. Sie prüft ausschließlich auf Wertungen und Prognosen. Sachliche Fehler sind durch Abgleich mit der Akte zu beheben.
 
 ---
+

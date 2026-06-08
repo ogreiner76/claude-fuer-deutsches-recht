@@ -23,13 +23,6 @@ description: "Beratung zu DAC7-Meldepflichten für digitale Plattformen ab 2023 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Anwaltliche Beratung zu den EU-Meldepflichten der Plattformbetreiber (DAC7) und Krypto-Vermögensdienstleister (DAC8). Beide setzen EU-Richtlinien um, die automatischen Informationsaustausch zwischen den Finanzbehörden der Mitgliedstaaten begründen. Praxisrelevant für **alle digitalen Plattformen** (Vermittlung von Waren, Dienstleistungen, Vermietung, Personentransport) und **alle Krypto-Dienstleister** mit EU-Bezug.
-
 ## Kaltstart-Rückfragen
 
 1. Mandant ist (a) Plattformbetreiber, (b) Krypto-Dienstleister, (c) Anbieter auf einer Plattform, (d) Krypto-Inhaber?
@@ -171,15 +164,7 @@ Bei Vorsatz zusätzlich strafrechtliche Verfolgung nach § 370 AO denkbar.
 | Anbieter ohne Steuererklärung | Nach DAC7-Meldung Tatentdeckung; § 371 AO Sperrwirkung | Selbstanzeige in Vorbereitung | rechtzeitige Selbstanzeige |
 | Krypto-Trader ohne § 23 EStG-Erklärung | Nach DAC8-Erstmeldung 1/2027 erhebliches Risiko | Selbstanzeige 2026 vorbereiten | Steuern erklärt |
 
-## Querverweise
-
-- `anw-selbstanzeige-371` — bei bisheriger Nichterklärung
-- `anw-mandat-triage-steuerrecht` — Eingangs-Triage
-- `anw-aussenpruefung-strategien` — bei nachgehender Außenprüfung wegen DAC-Daten
-- `aussenwirtschaft-zoll-sanktionen` — bei Drittland-Bezug
-- `fachanwalt-bank-kapitalmarktrecht` — bei MiCA-VO Lizenz-Fragen
-- `geldwaeschepraevention-aml-kyc` — KYC im Krypto-Kontext
-
 ## Quellen und Updates
 
 Stand: 05/2026. PStTG seit 1.1.2023 in Kraft, KryptoStG seit 1.1.2026. MiCA-VO ab 30.12.2024 vollständig anwendbar. DAC7-Erstmeldungen ab 31.1.2024 erfolgt; DAC8-Erstmeldung 31.1.2027 für 2026. Bei Verschärfung der Bagatellgrenzen oder Erweiterung auf weitere Aktivitäten (DAC9 in Vorbereitung) aktualisieren.
+

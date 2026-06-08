@@ -5,10 +5,6 @@ description: "Prüft Auswirkungen von Währungsrisiken und Inflation auf Handels
 
 # Währungsrisiken und Inflation im Handelsvertretervertrag nach HGB und § 313 BGB
 
-## Arbeitsbereich
-
-Prüft Auswirkungen von Währungsrisiken und Inflation auf Handelsvertreter-Ansprüche: Provisionsberechnung in Fremdwährung, Wertsicherungsklauseln für langfristige Verträge, Anpassungsansprüche nach § 313 BGB bei erheblicher Geldentwertung sowie Währungsrisiko im internationalen Vertrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - § 313 BGB-Anpassung bei Inflation nicht in Betracht gezogen.
 - Buchauszug ohne Währungsdokumentation — Nachprüfung nicht möglich.
 
-## Output
-
-Währungsrisiko-Analyse, Wertsicherungsklausel Entwurf, § 313 BGB-Anpassungsantrag.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
 - [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
 - [Dejure § 313 BGB](https://dejure.org/gesetze/BGB/313.html)
+

@@ -5,9 +5,6 @@ description: "Erbengemeinschaft Blockade Erstgespraech im Plugin Fachanwalt Erbr
 
 # Erbengemeinschaft Blockade Erstgespraech
 
-## Arbeitsbereich
-
-**Erbengemeinschaft Blockade Erstgespraech** ordnet den Fall über die tragenden Prüfungslinien: Erbengemeinschaft, Erstgespraech im Erbrechtmandat strukturieren und, Erbschaftsausschlagung erlaeutern und Erklärung formulieren. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Erbengemeinschaft Blockade Erstgespraech im Plugin Fachanwalt Erbr
 - Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `erbengemeinschaft-blockade-auseinandersetzung`
@@ -49,14 +47,6 @@ description: "Erbengemeinschaft Blockade Erstgespraech im Plugin Fachanwalt Erbr
 
 BGB §§ 2032 ff., 2042; ZVG. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle genannt; bei unsicherem Stand wird ausdrücklich ein Live-Check verlangt.
 
-## Arbeitsfragen
-
-1. Was ist das konkrete Ziel und welche Frist läuft?
-2. Welche Urkunde, Mail, Zustellung, Berechnung oder Aussage belegt den entscheidenden Punkt?
-3. Welche typische Gegenposition ist zu erwarten?
-4. Welche prozessuale Form ist richtig: Schreiben, Antrag, Klage, Eilantrag, Vergleich, Red-Team?
-5. Welche Formulierung vermeidet unnötige Zugeständnisse und hält den Fall offen?
-
 ## 2. `erstgespraech-mandatsannahme`
 
 **Fokus:** Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen. §§ 1922 ff. BGB Erbfolge § 43a BRAO. Prüfraster: Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills.
@@ -80,9 +70,6 @@ BGB §§ 2032 ff., 2042; ZVG. Rechtsprechung wird nur mit Gericht, Datum, Aktenz
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wann dieser Arbeitsgang greift
 
 - Neue Anfrage aus dem Bereich Erb- und Pflichtteilsrecht (Telefon, Mail, Empfehlung, Walk-in).
@@ -243,10 +230,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Beratung bei Frage "Erbe annehmen oder ausschlagen" — Frist, Form, Strategien.
-
 ## 1) Eingangs-Abfrage
 
 1. Erbfall-Datum und Kenntnis vom Erbfall?
@@ -395,3 +378,4 @@ Beratung bei Frage "Erbe annehmen oder ausschlagen" — Frist, Form, Strategien.
 
 <!-- AUDIT 27.05.2026 bundle_021
 -->
+

@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Commodity-Handel — Rohstoff- und A
 
 # Commodity Trade
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Commodity-Handel — Rohstoff- und Agrarprodukthandel. GAFTA/FOSFA-Standardverträge, ISDA-Rahmenverträge für Derivate, Preissicherung (Hedging), String-Trading-Struktur, Ware-Dokument-Prinzip und CISG-Anwendbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Commodity-Handel (Rohstoffe, Agrarprodukte, Energie) hat eigene Vertragstandardi
 - Hedging-Strategie: Long-Hedge für Käufer, Short-Hedge für Verkäufer
 - String Trading: Dokumente-Kette lückenlos halten (BL-Indossament)
 
-## Output
-
-- Commodity-Standardverträge-Übersicht (GAFTA, FOSFA, ISDA)
-- String-Trading-Dokumentenfluss
-- Hedging-Strategie-Matrix
-
-## Quellenregel
-
-GAFTA-Verträge: gafta.com. FOSFA-Verträge: fosfa.org. ISDA 2002 MA: isda.org. Incoterms 2020: iccwbo.org. Unsicherheit bleibt sichtbar.

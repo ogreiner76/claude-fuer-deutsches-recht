@@ -5,10 +5,6 @@ description: "Auslandseinsatz Anerkennung und Nachweise: prüft Einsatzbescheini
 
 # Auslandseinsatz: Anerkennung und Nachweise
 
-## Arbeitsbereich
-
-Auslandseinsatz Anerkennung und Nachweise: prüft Einsatzbescheinigungen, AVZ-Nachweise, WDB-Dokumentation und behördliche Verfahren. Norm-/Quellenanker: BBesG §§ 56–58, SVG, EinsatzWVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Häufige Probleme: fehlende Einsatzbescheinigungen, nachträgliche PTBS-Anerkenn
 - EinsatzWVG — Weiterverwendungsrecht
 - SG § 30 — Fürsorge (Dokumentationspflicht Dienstherr)
 - AuslVZV — Stufenzuordnung
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -93,20 +83,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Nachweise Auslandseinsatz (AVZ, WDB, Einsatzbescheinigung)
 - Muster: Antrag Einsatzbescheinigung beim BAPersBw
 - Prüfschema: AVZ-Abrechnung nachrechnen
-
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/bbesg/ — §§ 56–58 BBesG
-- https://www.gesetze-im-internet.de/svg/ — SVG §§ 63a ff.
-- https://www.bundeswehr.de/de/organisation/personal/bundesamt-für-das-personalmanagement
 
 ## Qualitätsgate
 

@@ -5,10 +5,6 @@ description: "Leasinggesellschaft braucht Dashboard für Flugzeugflotte: Cape-To
 
 # Flugzeugleasing – Dashboard bauen
 
-## Arbeitsbereich
-
-Leasinggesellschaft braucht Dashboard für Flugzeugflotte: Cape-Town-Registrierungsstatus IDERA-Status Leasingnehmer-Solvenz LuftVG-Rollenstatus Wartungsintervalle. Skill strukturiert Datenquellen ICAO-Register LBA LuftFzgG und liefert befuellbares Flotten-Dashboard-Template. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ LuftVG § 64 LuftFzgG Cape Town Convention ICAO-Register InsO – die einschläg
 - **Cape Town Aircraft Protocol Art. XII**: Prioritäten konkurrierender Sicherungsrechte im internationalen Register.
 - **LuftFzgG § 3**: Entstehung des Pfandrechts; Eintragungszeitpunkt als Prioritätsregel.
 - **InsO § 47**: Aussonderungsrecht des Leasinggebers; Priorität gegenüber Insolvenzgläubigern.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -56,6 +53,7 @@ LuftVG § 64 LuftFzgG Cape Town Convention ICAO-Register InsO – die einschläg
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist eine IDERA (Irrevocable Deregistration and Export Request Authorisation) im Cape-Town-Register eingetragen?
 8. Hat Leasinggeber wirksam nach InsO § 47 Aussonderung geltend gemacht?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -75,9 +73,6 @@ Ein effektives Luftrecht-Dashboard für laufende Mandate umfasst:
 - **Insolvenz-Frühwarnung**: Finanzkennzahlen der beteiligten Airline; Ratingänderungen; Pressemeldungen.
 - **Dokumentenablage**: Bescheide Verträge Gutachten Registerauszüge versioniert und durchsuchbar.
 
-## Output
-
-Befüllbares Flotten-Dashboard-Template (Excel). Datenquellen-Übersicht mit Links. Aktualisierungs-Checkliste. Cape-Town-Registrierungs-Checkliste. Aussonderungsvermerk bei Insolvenz.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -105,3 +100,4 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

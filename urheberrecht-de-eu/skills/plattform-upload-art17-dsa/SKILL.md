@@ -5,10 +5,6 @@ description: "Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overbl
 
 # Plattformen, Uploads und Art. 17 DSM
 
-## Arbeitsbereich
-
-Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,3 +79,4 @@ Konkret zu prüfen:
 - § 1 UrhDaG (Verantwortlichkeit Diensteanbieter)
 - §§ 4-12 UrhDaG
 - Art. 17 RL 2019/790
+

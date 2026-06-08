@@ -5,10 +5,6 @@ description: "Ressortaufgaben BMDS: typische Legistik-Aufgaben im Geschaeftsbere
 
 # Ressortaufgaben BMDS
 
-## Arbeitsbereich
-
-Ressortaufgaben BMDS: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Digitales und Staatsmodernisierung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmds-Themenslug für Sachfragen und normhierarchie-routing für Normwahl. Abgrenzung zu legw-ressort-bmds (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Ressortaufgaben BMDS**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Ressortaufgaben BMDS**. Prüfe diese Anker am Sachverhalt; ergä
 - `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -109,28 +104,7 @@ Anhörungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
 
 Nachgeordnete Behörden des BMDS im Vollzug einbinden. Vollzugsfolgen pruefen.
 
-## Output
-
-Aufgabenmatrix:
-
-```
-Ressort: BMDS
-Vorhabenart: <Eckpunktepapier|Referenten|Kabinett|RV|AendAntrag>
-Begruendungspflicht: allgemein und besonders; Aufwand; Nachhaltigkeit; KMU; Alternativen
-Verbaende: <Liste>; Frist 4 Wochen
-Mitzeichner: <BMF;BMI;BMJV;...>
-NKR-Vorlage: ja|nein; Aufwand <Buerger|Wirtschaft|Verwaltung>
-Kabinett: ja|nein; Vorlage-Schwerpunkt
-Bundesrat: Zustimmung|Einspruch|nicht erforderlich
-Fachausschuss BT: BMDS-Spiegel
-Aufsicht/Vollzug: <Behörde>; Vollzugsfolgen
-Naechste Skills: legw-bmds-<thema>; normhierarchie-routing
-```
-
 ## Abgrenzung
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

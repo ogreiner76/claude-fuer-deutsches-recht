@@ -5,10 +5,6 @@ description: "Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a 
 
 # Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht — § 97a UrhG
 
-## Arbeitsbereich
-
-Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a UrhG: Anforderungen an wirksame Abmahnung (Verletzungshandlung, Fristsetzung, Unterlassungsforderung, Schadensersatz), Kostenerstattung und Missbrauchsprüfung. Erstellt Abmahnschreiben für §§ 87a-87e UrhG-Verletzungen und bewertet Gegendarstellung und modifizierte Unterlassungserklärung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,3 +71,4 @@ Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a UrhG: Anforder
 - [§ 339 BGB — dejure.org](https://dejure.org/gesetze/BGB/339.html)
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
 - [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

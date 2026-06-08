@@ -78,17 +78,6 @@ Kritik aus der Begriffsjurisprudenz (Puchta, Windscheid): Zweck ist beliebig; nu
 
 Kritik aus der Topik (Viehweg): Die teleologische Argumentation ist ein Topos im Diskurs, kein Erkenntnisinstrument. Die Wahrheit liegt im Konsens der Juristen, nicht im "wahren" Zweck.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Einordnung in den Kanon.
-- `wortlaut-grammatikalische-auslegung` — vorgelagert.
-- `systematische-auslegung` — vorgelagert.
-- `historische-auslegung` — Quelle der Telos-Bestimmung.
-- `analogie-und-teleologische-reduktion` — wenn Telos jenseits oder gegen den Wortlaut wirkt.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Rueckbindung an Verfassungswerte und Unionsrecht.
-- `interessenjurisprudenz-heck` — historische Wurzel der Telos-Lehre.
-- `wertungsjurisprudenz-larenz-canaris` — moderne Verankerung.
-
 ## Quellen und Stand 05/2026
 
 - Rudolf von Jhering, Der Zweck im Recht, Leipzig 1877-1883.
@@ -100,10 +89,3 @@ Kritik aus der Topik (Viehweg): Die teleologische Argumentation ist ein Topos im
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

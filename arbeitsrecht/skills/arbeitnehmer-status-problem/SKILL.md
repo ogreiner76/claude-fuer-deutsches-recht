@@ -5,9 +5,6 @@ description: "Arbeitnehmer Status Problem im Plugin Arbeitsrecht: prüft konkret
 
 # Arbeitnehmer Status Problem
 
-## Arbeitsbereich
-
-**Arbeitnehmer Status Problem** ordnet den Fall über die tragenden Prüfungslinien: Statusfeststellung für eine geplante Beschaeftigung -, Gezielte Anpassung des Arbeitsrechts-Praxisprofils –, Risiko. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Arbeitnehmer Status Problem im Plugin Arbeitsrecht: prüft konkret
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `arbeitnehmer-status`
@@ -84,9 +82,6 @@ Bevor losgelegt wird, kläre:
  - Quelle: eur-lex.europa.eu - https://eur-lex.europa.eu/eli/dir/2024/2831/oj
 - Aktualisierungen vor Schriftsatzverwendung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de, bundessozialgericht.de) pruefen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 ### Schritt 1 – Arbeitnehmereigenschaft (§ 611a BGB)
@@ -238,10 +233,6 @@ Wesentliche Quellen:
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Der Nutzer möchte etwas im Praxisprofil ändern – eine Jurisdiktion, eine Risikoeinstellung, einen Eskalationskontakt, eine Handbuchposition – ohne das gesamte Kaltstart-Interview zu wiederholen.
-
 ## Eingaben
 
 - Beschreibung der gewünschten Änderung (Freitext oder Abschnittsname)
@@ -292,22 +283,6 @@ Relevante Normen je nach Änderungsbereich:
 - Betriebsrat: BetrVG §§ 1, 87, 99, 102, 111 ff.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-```
-Profil-Änderung: [Kürzel der Änderung]
-================================================
-Geändert: [Abschnitt in CLAUDE.md]
-
-Vorher:
- [Alt-Wert]
-
-Nachher:
- [Neu-Wert]
-
-Gespeichert: ~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md
-```
-
 ## Beispiele
 
 ```
@@ -346,17 +321,6 @@ Wir sind seit Januar diesem Jahr an den Tarifvertrag Einzelhandel NRW gebunden.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 Anwälte und Kanzleien arbeiten für mehrere Mandanten gleichzeitig. Eine Mandatsakte hält den Kontext eines Mandanten strikt von allen anderen getrennt. Dieser Skill verwaltet diese Akten.
-
-## Zweck
-
-Für Kanzleien mit mehreren Mandanten (Einzelkanzlei, Mittelkanzlei, Großkanzlei). Für Syndikusrechtsanwälte mit einem Arbeitgeber ist diese Funktion standardmäßig **deaktiviert** – alle Skills nutzen automatisch den Kanzlei-/Unternehmenskontext.
-
-Im Arbeitsrecht entspricht eine "Akte" typischerweise einem bestimmten Mandanten-Sachverhalt:
-- Eine konkrete Kündigung oder Kündigungsschutzklage
-- Eine interne Untersuchung
-- Ein Entsendungsprojekt
-- Ein Tarifvertragsstreit
-- Eine Massenentlassung / Betriebsänderung
 
 ## Eingaben
 
@@ -409,35 +373,6 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 - § 26 BDSG (Beschäftigtendatenschutz; gilt auch für anwaltlich bearbeitete Personaldaten)
 - § 53 StPO (Zeugnisverweigerungsrecht des Rechtsanwalts)
 
-## Ausgabeformat
-
-**Neu:**
-```
-Mandatsakte angelegt: mueller-ksg-2024
-========================================
-Mandant: [intern anonymisiert]
-Sachverhalt: Kündigungsschutzklage nach betriebsbedingter Kündigung
-Anwalt: [Name]
-Status: offen
-Ablage: ~/.../akten/mueller-ksg-2024/
-
-Dateien erstellt:
- mandat.md – Akten-Stammdaten und Kontext
- verlauf.md – Chronologisches Protokoll
- notizen.md – Freie Notizen, entwürfe, Recherche-Ergebnisse
-```
-
-**Auflisten:**
-```
-Mandantenakten – Arbeitsrecht
-=================================
-● mueller-ksg-2024 [offen] Kündigungsschutzklage geändert: heute
- bayer-betriebsrat [ruhend] BR-Streitigkeit § 87 BetrVG geändert: vor 3 Wo.
- huber-entsendung [offen] Entsendung Frankreich geändert: gestern
-
-● = aktive Akte
-```
-
 ## Beispiele
 
 ```
@@ -459,14 +394,6 @@ Kündigung wegen betriebsbedingter Restrukturierung, Sozialauswahl streitig.
 - **Mandant nicht anonymisieren.** Kürzel und interne Bezeichnung sollten nicht von Unbefugten identifiziert werden können.
 - **Aktenübergreifende Suche ungewollt aktivieren.** Standardmäßig deaktiviert aus datenschutzrechtlichen Gründen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 4. `arbeitsrecht-problem-sortieren`
 
 **Fokus:** Sehr allgemeiner Einstiegsskill für unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage.
@@ -480,10 +407,6 @@ Kündigung wegen betriebsbedingter Restrukturierung, Sozialauswahl streitig.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Dieser Skill ist der ruhige erste Tisch in einer unuebersichtlichen arbeitsrechtlichen Lage. Er beginnt nicht mit einem Schema, sondern mit Ordnung: Was ist passiert, was will die Person erreichen, was liegt als Dokument vor, was eilt und welcher Fachmodul hilft jetzt wirklich?
 
 ## Vier Pflichtbausteine
 
@@ -523,10 +446,3 @@ Schnellfeuer-Klage spart Frist, aber ohne Sozialauswahl-Prüfung und ohne Betrie
 
 Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfundene Quellen? Sind Fristen und offene Tatsachen sichtbar? Ist der naechste Schritt eindeutig?
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

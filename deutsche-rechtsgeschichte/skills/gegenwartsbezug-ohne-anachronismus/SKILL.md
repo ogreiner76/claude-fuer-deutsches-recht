@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Gegenwartsbezug ohne Anachronismus. Met
 
 # Gegenwartsbezug ohne Anachronismus
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Gegenwartsbezug ohne Anachronismus. Methodisches Ruest-zeug um historische Argumente in heutige Rechtsdiskussion einzubringen ohne unzulaessige Zeitspringe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,12 +46,3 @@ Anachronismus ist die unzulässige Anwendung von Konzepten einer Epoche auf eine
 - BVerfGE und BGH: bverfg.de und bgh.de für Leitlinien historischer Auslegung
 - Kontextualisierung: Immer Epoche und Rechtsrahmen des Quellen explizit nennen
 
-## Output
-
-- Methodenblatt: Anachronismus-Test in sieben Fragen
-- Beispielanalyse: Art. 48 WRV in heutigem Ausnahmerecht-Diskurs ohne Anachronismus
-- Checkliste Gegenwartsbezug: Was darf man sagen, was nicht
-
-## Quellenregel
-
-Savigny System Bd. I (1840): historische Ausgabe. BVerfGE und BGH: bverfg.de und bgh.de. Mugdan: Bde. I-VI (1899). Reichstagsprotokolle: reichstagsprotokolle.de.

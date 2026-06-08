@@ -5,9 +5,6 @@ description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüf
 
 # Entfristung Klageschrift Anwalt Laie
 
-## Arbeitsbereich
-
-**Entfristung Klageschrift Anwalt Laie** ordnet den Fall über die tragenden Prüfungslinien: Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag, Schritt-für-Schritt Klageschrift Entfristungsklage für, Statusabfrage Entfristungsklage. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüf
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `entfristung-klageschrift-anwalt-baustein`
@@ -63,9 +61,6 @@ description: "Entfristung Klageschrift Anwalt Laie im Plugin Arbeitsrecht: prüf
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Vorprüfung (Checkliste)
 
 - [ ] Dreiwochenfrist § 17 TzBfG gewahrt
@@ -209,15 +204,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill erzeugt eine ausfüllbare Klageschrift-Vorlage für die Befristungskontrollklage (Entfristungsklage) — für Arbeitnehmer ohne Anwalt.
-
-**Vor Verwendung:** Prüfe die Dreiwochenfrist nach § 17 TzBfG. Hat dein Vertrag laut Urkunde bereits geendet? Dann läuft die Frist möglicherweise bereits.
-
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -353,10 +339,6 @@ ____________________________
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Wie im KüSchK-Bündel muss auch im Entfristungs-zunächst geklärt werden, wer den Skill nutzt. Die Warnstufe und die Art der Ausgaben richten sich danach.
-
 ## Pflicht-Eröffnungsfrage
 
 > "Bist du Rechtsanwältin / Rechtsanwalt oder nutzt du dieses System als Verbraucher / Laie ohne anwaltliche Zulassung?"
@@ -432,9 +414,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt: Was folgt aus § 16 TzBfG?
 
 ### Schritt 1: Feststellung der Rechtsfolge
@@ -494,3 +473,4 @@ Der Feststellungsantrag lautet:
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+

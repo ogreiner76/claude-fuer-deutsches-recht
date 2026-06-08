@@ -5,10 +5,6 @@ description: "Prüft Rechtsstand eines Patents oder einer Anmeldung im jeweilige
 
 # rechtsstand-prüfen
 
-## Arbeitsbereich
-
-Prüft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister für DE-Schutzrechte EPO Register für EP-Schutzrechte USPTO PAIR PEDS für US-Patente nationale Register für JP CN KR. Liefert Anmeldetag Veröffentlichungstag Erteilungstag Schutzdauer-Ende Status (anhaengig erteilt zurückgenommen zurückgewiesen erloschen nichtig), Einspruchsverfahren laufend abgeschlossen, Nichtigkeitsverfahren laufend abgeschlossen, Jahresgebühren bezahlt offen, Validierungsstaaten bei EP-Patenten, SPC für Arzneimittel und Pflanzenschutzmittel. Quellen werden mit Datum des Abrufs vermerkt. Disclaimer Rechtsstand kann sich taeglich aendern Stichtag-Datum dokumentieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Prüft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Registe
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 139, EPÜ Art. 54, 56, 64, 69, 87 ff., Straßburger IPC-Abkommen, PCT, Espacenet-Datenbankzugriff, DEPATISnet-Bedingungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Sicherstellen, dass ein Treffer aus der Recherche **noch in Kraft** ist und seine Schutzwirkung tatsächlich entfaltet. Ein abgelaufenes Patent blockiert keinen Markteintritt, eine zurückgenommene Anmeldung erzeugt keinen Stand-der-Technik-Effekt (außer für die Veröffentlichung als solche).
 
 ## Wichtige Begriffe
 
@@ -137,3 +129,4 @@ Bevor der Rechtsstand geprueft wird, klaere:
 > **EPA, Erweiterte Beschwerdekammer, G 1/10 (Widerruf nach Einspruch):** Ein durch Einspruch angegriffenes Patent bleibt bis zur abschliessenden Einspruchsentscheidung in Kraft; der Rechtsstand ist waehrend des Einspruchsverfahrens unsicher, und ein Lizenznehmer sollte Klauseln für den Fall des Widerrufs vorsehen.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

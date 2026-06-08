@@ -26,9 +26,6 @@ Dieser Skill wandelt fordernde, vorwurfsvolle oder unklare Handlungsaufforderung
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot bei anwaltlichen Aufforderungsschreiben
 - § 315 BGB — Bestimmungsrecht bei Fristsetzung: Frist muss billigem Ermessen entsprechen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anatomie einer guten Bitte
 
 Eine wirksame Bitte enthält folgende Elemente: (1) klare Beschreibung des Gewünschten (Was soll getan werden?), (2) Frist oder Zeitrahmen (Bis wann?), (3) Adressat oder Zuständigkeit (Von wem?), (4) ggf. Begründung (Warum?), (5) optionaler Ausblick auf Folgeschritte. Beispiel: "Ich darf Sie bitten, mir die Originalrechnung vom TT.MM.JJJJ bis TT.MM.JJJJ zu übersenden, da ich diese für die Einreichung bei Gericht benötige."
@@ -60,6 +57,3 @@ Eine Frist ist nur wirksam, wenn sie eindeutig (TT.MM.JJJJ, nicht "bald"), reali
 **Vorher:** "Das ist Ihre Pflicht, das zu tun!"
 **Nachher:** "Nach meiner Auffassung obliegt Ihnen die Erfüllung der vereinbarten Pflicht X; ich darf Sie um entsprechende Ausführung bis TT.MM.JJJJ bitten."
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Überarbeitete Bitte mit allen wesentlichen Elementen. (2) Eingestufte Höflichkeitsstufe. (3) Hinweis auf fehlende Elemente (Frist, Zuständigkeit etc.).

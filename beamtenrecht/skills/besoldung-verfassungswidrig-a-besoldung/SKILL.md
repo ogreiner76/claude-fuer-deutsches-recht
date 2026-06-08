@@ -5,10 +5,6 @@ description: "Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. 
 
 # Verfassungswidrige A-Besoldung — Mindestabstandsgebot und Geltendmachung
 
-## Arbeitsbereich
-
-Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema für den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag für das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,3 +65,4 @@ Skill für Beamte und Richter, die geltend machen wollen, dass ihre Besoldung in
 ## 7. Beispiel (Kurzfassung)
 
 Polizeimeister A7 Stufe 4, Ehepartner ohne Erwerbseinkommen, vier Kinder. Skill liefert Berechnung Grundsicherungsniveau im Vergleich zu Brutto- und Nettobesoldung, Widerspruchsentwurf mit zeitnaher Geltendmachung.
+

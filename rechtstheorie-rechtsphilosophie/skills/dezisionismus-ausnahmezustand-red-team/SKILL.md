@@ -18,10 +18,6 @@ description: "Red-Team gegen dezisionistische Ausnahmezustandsrhetorik: Krise, N
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill prüft Aussagen, die in Richtung `in der Krise entscheidet am Ende die Macht` kippen. Er ist bewusst kritisch gegenüber Carl-Schmitt-nahen Denkfiguren und verwandter Ausnahmezustandsrhetorik. Ziel ist nicht literarische Theoriepflege, sondern die praktische Frage: Wird Recht hier durch politische Entscheidung, Exekutivmacht oder Krisennarrativ verdrängt?
-
 ## Sofort klären
 
 1. Welche Krise wird behauptet: Krieg, Terror, Pandemie, Staatsnotstand, Migration, Klima, Finanzsystem, Infrastruktur, Cyberangriff, Verwaltungskollaps?
@@ -70,12 +66,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Gib ein Red-Team in fünf Blöcken aus:
-
-1. behauptete Krise;
-2. suspendierte Normalbindung;
-3. tatsächliche Rechtsgrundlage;
-4. Kontroll- und Grundrechtsdefizite;
-5. rechtlich robuste Alternative mit enger Befristung, Dokumentation und Kontrolle.

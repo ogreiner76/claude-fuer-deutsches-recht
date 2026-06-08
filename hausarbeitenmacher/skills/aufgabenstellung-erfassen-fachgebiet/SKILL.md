@@ -5,10 +5,6 @@ description: "Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverha
 
 # Aufgabenstellung erfassen
 
-## Arbeitsbereich
-
-Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird geprüft. Normen §§ 133 157 BGB Auslegungsmethodik. Prüfraster Sachverhalts-Zerlegung Bearbeitungsvermerk-Analyse Schwerpunkt-Erkennung. Output strukturierte Sachverhaltskarte Bearbeitungshinweise. Abgrenzung zu bearbeitungsplan-erstellen (Zeitplan) und hausarbeit-workflow-start (Master-Workflow). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturier
 - § 195 BGB — Regelverjaehrung 3 Jahre: Zeitstrahl-Relevanz bei Klage/Mahnung/Verjährungsbeginn
 - § 199 BGB — Verjährungsbeginn: Kenntnis und grob fahrlässige Unkenntnis
 - § 204 BGB — Hemmung der Verjährung durch Rechtsverfolgung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Der erste Schritt jeder Hausarbeit: den Sachverhalt verstehen, **bevor** Du anfängst zu prüfen. Ohne sauberes Sachverhaltsbild ist jede Subsumtion willkürlich.
 
 ## Bevor Du anfängst
 

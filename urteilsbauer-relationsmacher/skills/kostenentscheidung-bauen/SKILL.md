@@ -25,9 +25,6 @@ description: "Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Ko
 - § 101 ZPO — Kosten bei Nebenintervention
 - § 3 ZPO — Streitwertschätzung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Obsiegen/Unterliegen feststellen:** Welche Klageanträge wurden zugesprochen, welche abgewiesen?
@@ -42,6 +39,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Urteil → Tenor (Ziff. 2) und Entscheidungsgründe — Tonfall: sachlich-juristisch
 
 ```
+
 ## Kostenentscheidung
 
 **Tenor Ziff. 2:**
@@ -83,3 +81,4 @@ Streitwertbeschluss separat oder im Tenor. Pflicht zur Begründung bei Abweichun
 
 <!-- AUDIT 27.05.2026
 -->
+

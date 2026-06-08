@@ -5,10 +5,6 @@ description: "KG und GmbH und Co. KG gründen: Gesellschaftsvertrag, Haftungsstr
 
 # KG und GmbH & Co. KG
 
-## Arbeitsbereich
-
-KG und GmbH und Co. KG gründen: Gesellschaftsvertrag, Haftungsstruktur, steuerliche Transparenz. Normen: §§ 161 ff. HGB, GmbHG. Prüfraster: Komplementaer-GmbH, Kommanditistenstellung, steuerliche Behandlung. Output: KG-Gesellschaftsvertrag und GmbH-Komplementaer-Satzung. Abgrenzung: nicht reine GmbH-Gründung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,9 +47,6 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: GmbH & Co. KG vs. GmbH
 
 | Merkmal | GmbH & Co. KG | GmbH |
@@ -128,3 +121,4 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzung Komplementaer-GmbH
 - `gesellschaftsgruender-handelsregister-anmeldung` — KG-Eintragung
 - `gesellschaftsgruender-transparenzregister` — wirtschaftlich Berechtigte der KG
+

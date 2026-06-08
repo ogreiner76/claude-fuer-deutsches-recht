@@ -5,10 +5,6 @@ description: "LBA prueft finanzielle Leistungsfaehigkeit nach EU-VO 1008/2008 Ar
 
 # Airline – Finanzielle Leistungsfähigkeit prüfen
 
-## Arbeitsbereich
-
-LBA prueft finanzielle Leistungsfaehigkeit nach EU-VO 1008/2008 Art. 5 oder Mandant bewertet Insolvenzrisiko einer Fluggesellschaft. Prueft Nachweispflichten Eigenkapital Versicherung Businessplan LBA-Auflagenpraxis und Fruehwarnindikatoren und liefert Leistungsfaehigkeits-Bewertungs-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -43,6 +39,7 @@ LBA prueft finanzielle Leistungsfaehigkeit nach EU-VO 1008/2008 Art. 5 oder Mand
 - **LuftVG § 21a**: Wet-Lease-Genehmigung; Voraussetzungen und Befristung.
 - **LuftVG § 29d**: Aufsichtsbefugnisse des LBA gegenüber Luftverkehrsunternehmen.
 - **EASA Part-OPS ORO.AOC.100**: AOC-Anforderungen; Nachweis technischer und betrieblicher Kompetenz.
+
 ## Prüfraster
 
 1. Erfüllt Jahresabschluss die LBA-Mindestanforderungen (geprüft aktuell)?
@@ -53,6 +50,7 @@ LBA prueft finanzielle Leistungsfaehigkeit nach EU-VO 1008/2008 Art. 5 oder Mand
 6. Sind Frühwarnindikatoren (negativer Cashflow Kreditkündigung) dokumentiert?
 7. Ist das AOC noch gültig und entspricht es dem aktuellen Streckennetz?
 8. Haben sich Eigentümerstruktur oder Hauptsitz geändert (EU-VO 1008/2008 Art. 4)?
+
 ## Typische Fallstricke
 
 - Ungeprüfter Jahresabschluss reicht nicht; LBA besteht auf Wirtschaftsprüfer-Testat.
@@ -61,9 +59,7 @@ LBA prueft finanzielle Leistungsfaehigkeit nach EU-VO 1008/2008 Art. 5 oder Mand
 - Businessplan zu optimistisch; LBA lehnt ab und Mandant muss nachlegen.
 - Wet-Lease ohne gesonderte Genehmigung nach LuftVG § 21a operiert; rückwirkende Sanktion möglich.
 - AOC und Betriebsgenehmigung als identisch behandelt; sind rechtlich getrennte Instrumente.
-## Output
 
-Leistungsfähigkeits-Bewertungs-Vermerk mit Nachweisliste. Muster-Stellungnahme an LBA bei Art.-9-Anfrage. Frühwarn-Checkliste. Zuständigkeitsmatrix Behörde/Register. Fristenkalender mit Ampelstatus.
 ## Quellen
 
 - EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
@@ -91,3 +87,4 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

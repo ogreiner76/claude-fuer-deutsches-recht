@@ -5,10 +5,6 @@ description: "Solo-Selbstständige: führt durch Passwortmanager, 2FA, Recovery-
 
 # Büro Alltag und Tools: Führt durch passwortmanager
 
-## Arbeitsbereich
-
-Solo-Selbstständige: führt durch Passwortmanager, 2FA, Recovery-Codes und Gerätewechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,17 +12,6 @@ Solo-Selbstständige: führt durch Passwortmanager, 2FA, Recovery-Codes und Ger�
 - Tragende Normen verifizieren: SGB IV § 7 (Scheinselbstständigkeit), SGB VI § 2 Nr. 9 (Rentenversicherungspflicht), UStG §§ 1, 19, EStG §§ 15, 18, GewO § 14, BGB §§ 611, 631, 305 ff., HGB §§ 1, 2, BBG (Beitragsbemessung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Solo-Selbstständiger, Auftraggeber, Deutsche Rentenversicherung (DRV) Statusfeststellungsstelle, Finanzamt, Krankenkasse, IHK/HWK, Sozialgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Werkvertrag/Dienstvertrag, Statusfeststellungsantrag § 7a SGB IV, Steuererklärung, GewA-Anmeldung, Rechnung mit § 14 UStG-Angaben, EÜR, Rentenversicherungsausweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Büro Alltag und Tools**. Schwerpunkt: führt durch Passwortmanager, 2FA, Recovery-Codes und Gerätewechsel. Er sortiert die tatsächlichen Unterlagen, den Handlungsdruck und die wirtschaftliche Folge.
-
-## Arbeitsweise
-
-1. Klär zuerst Tätigkeit, Kundentyp, Bundesland/Ort, Haupt- oder Nebenerwerb, Umsatzgrößen, Fristdruck und vorhandene Dokumente.
-2. Trenne Muss-Pflichten von Klugheitsmaßnahmen: Anmeldung, Steuer, Vertrag, Sozialversicherung, Datenschutz, Geldfluss und Beweis.
-3. Baue eine Ampel mit Sofortmaßnahme, sauberer Dokumentation, optionaler Optimierung und Punkten für Steuerberater, Anwalt oder Behörde.
-4. Formuliere am Ende genau ein brauchbares Artefakt: Checkliste, Mail, Vertragsbaustein, Widerspruchsskizze, Fristenlog, Rechnungstext oder Entscheidungsmemo.
 
 ## Ergebnis
 
@@ -40,3 +25,4 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Büro Alltag und Tool
 - Prüfe aktuelle Beträge, Grenzwerte und Fristen in amtlichen Quellen, insbesondere Gesetze im Internet, ELSTER, DRV, KSK, Bundesagentur für Arbeit und BMWK-Existenzgründungsportal.
 - Keine Steuer- oder Sozialversicherungsentscheidung ohne Hinweis, welche Angaben geschätzt sind und welche Belege fehlen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Fundlink ausgeben; keine BeckRS-/Juris-/Kommentar-Blindzitate.
+

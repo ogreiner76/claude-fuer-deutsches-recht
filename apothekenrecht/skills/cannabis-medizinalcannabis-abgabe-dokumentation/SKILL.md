@@ -5,10 +5,6 @@ description: "Cannabis Medizinalcannabis Abgabe Dokumentation: prüft die einsch
 
 # Cannabis Medizinalcannabis Abgabe Dokumentation
 
-## Arbeitsbereich
-
-Cannabis Medizinalcannabis Abgabe Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,15 +91,6 @@ Eingaben:
 - Lagerung in unzureichend gesichertem Schrank — Diebstahlrisiko.
 - Patient nicht zur Verkehrstauglichkeit aufgeklärt — Haftungsrisiko bei Unfall.
 
-## Querverweise
-
-- `btm-rezept-betaeubungsmittel-dokumentation` (verwandte Regelungen)
-- `arzneimittelabgabe-verschreibungspflicht` (allgemein)
-- `import-einzelimport-73-amg` (Cannabis-Import)
-- `beanstandung-durch-aufsichtsbehoerde-anhoerung` (Aufsichtskontakt)
-- `securpharm-faelschungsschutz` (Verifikation Fertigarzneimittel)
-- `apothekenbetriebsordnung-grundpflichten` (Lagerung)
-
 ## Quellen Stand 06/2026
 
 - Cannabisgesetz (CanG) / KCanG / MedCanG — Stand vom Anwender zu verifizieren (laufende Anpassungen 2024–2026).
@@ -112,3 +99,4 @@ Eingaben:
 - BfArM-Bekanntmachungen zur Cannabisversorgung.
 - BSG, staend. Rspr. zur Cannabis-Erstattung.
 - DAV-Handlungsempfehlungen zur Cannabis-Abgabe (vom Anwender zu verifizieren).
+

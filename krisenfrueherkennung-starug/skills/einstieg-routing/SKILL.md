@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Krisenfrüherkennung StaRUG: ord
 
 Dieser Einstieg routet **Krisenfrueherkennung Starug** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `ampelsystem-beweislast-und-darlegungslast` — Ampelsystem Beweislast und Darlegungslast
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Krisenfrueherkennung Starug** vom ersten Sachverhalt zu
 - Zuständige Stelle bestimmen: Geschäftsführer, Aufsichtsrat, Restrukturierungsbeauftragter, Restrukturierungsgericht (LG).
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Krisenfrüherkennung StaRUG typische Eskalationsstufen: Frühwarn-Indikatoren-Set, Restrukturierungsplan, Geschäftsführerschutzmemo.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

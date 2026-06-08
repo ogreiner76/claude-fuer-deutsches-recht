@@ -5,10 +5,6 @@ description: "Verwaltet Closed Periods nach Art. 19 Abs. 11 MAR: Berechnung, Kom
 
 # Closed Periods nach Art. 19 Abs. 11 MAR
 
-## Arbeitsbereich
-
-Verwaltet Closed Periods nach Art. 19 Abs. 11 MAR: Berechnung, Kommunikation, Ausnahmenantrag und Handelssperren-Monitoring. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,21 +74,3 @@ Falls eine Closed-Period-Verletzung festgestellt wird:
  BaFin-Meldung und interne Untersuchung
 - Bußgeld nach § 120 WpHG möglich (bis zu 1 Mio. EUR für natürliche Personen)
 
-## Red-Team-Fragen
-
-- Wurde der Closed-Period-Kalender rechtzeitig für das gesamte Geschäftsjahr erstellt?
-- Wurden alle PDMRs und nahestehenden Personen schriftlich informiert?
-- Werden Ausnahmeanträge restriktiv geprüft und dokumentiert?
-- Gibt es ein Trading-Monitoring-System mit Closed-Period-Integration?
-- Ist klar geregelt, wer Ausnahmen genehmigt und wie das dokumentiert wird?
-- Werden auch automatische Sparpläne und ESOP-Pläne auf Closed-Period-Relevanz geprüft?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Closed-Period-Kalender (Jahresübersicht, tabellarisch)
-2. PDMR-Informationsschreiben (Vorlage)
-3. Ausnahmeantrag-Formular und Entscheidungsvorlage
-4. Verletzungs-Eskalationsprotokoll
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

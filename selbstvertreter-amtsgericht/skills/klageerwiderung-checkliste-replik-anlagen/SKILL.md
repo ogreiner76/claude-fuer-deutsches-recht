@@ -5,9 +5,6 @@ description: "Klageerwiderung Checkliste Replik Anlagen im Selbstvertretung am A
 
 # Klageerwiderung Checkliste Replik Anlagen
 
-## Arbeitsbereich
-
-**Klageerwiderung Checkliste Replik Anlagen** ordnet den Fall über die tragenden Prüfungslinien: Vollständige Checkliste für die Klageerwiderung, Anlagen-Nummerierung in Klageerwiderung und Replik korrekt, Bezeichnung Sortierung und Beifuegung von Anlagen zur. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Klageerwiderung Checkliste Replik Anlagen im Selbstvertretung am A
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `klageerwiderung-checkliste-alle-punkte`
@@ -213,26 +211,9 @@ Vor Versand:
 - "Ich erzaehle erstmal meine Sicht." → Auch Stellungnahme zu Klaeger-Punkten Pflicht.
 - "Beweis kommt im Termin." → Beweismittel jetzt benennen.
 
-## Querverweise
-
-- `klageerwiderung-fristen-274-zpo` — Fristen.
-- `substantiiertes-bestreiten-138-iv-zpo` — Bestreiten.
-- `einreden-aktiv-geltend-machen` — Einreden.
-- `widerklage-33-zpo` — Eigene Forderung.
-- `saeumnis-vermeiden-330-ff-zpo` — Versaeumnis.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweis.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 138 ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `klageerwiderung-replik-anlagen-b1-b2-fortlaufend`
 
@@ -362,26 +343,9 @@ Anlage B5 — Foto, das das Klaeger-Foto K9 widerlegt (...)
 - **Fehler:** Anlagenverzeichnis vergessen, nur im Text auf Anlagen verwiesen. → **So vermeiden:** Anlagenverzeichnis ist Pflicht-Element.
 - **Fehler:** Querverweis "siehe Anlage 2" — unklar ob K2 oder B2. → **So vermeiden:** Immer den Buchstaben mitschreiben.
 
-## Querverweise
-
-- `klage-zusammenstellen-komplettes-bundle-amtsgericht` — Bundle zusammenstellen
-- `anlagen-formatieren-k1-k2-pdf-amtsgericht` — Anlagen formatieren
-- `klageschrift-anlagen-bezeichnen` — Anlagen im Klagetext bezeichnen
-- `klageerwiderung-checkliste-alle-punkte` — Auf alle Punkte antworten
-- `replik-auf-klageerwiderung-systematik` — Replik schreiben
-- `duplik-nach-replik` — Duplik
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht gesetzlich vorgeschrieben. Variante: einige Anwaelte nutzen K1, K2 für Klaeger und KE1, KE2 für Klageerwiderung — Konvention regional unterschiedlich. Die hier vorgestellte K/B-Variante ist die haeufigste.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `klageschrift-anlagen-bezeichnen`
 
@@ -523,21 +487,7 @@ Skill `einreichung-mein-justizpostfach-mjp-2024`.
 - "Anlagen sind unbeschriftet." → Erschwert Bezugnahme; Richter sucht.
 - "Ich gebe nur Original und keine Abschriften." → Klage muss zugestellt werden — ohne Abschriften kann das Gericht nicht zustellen.
 
-## Querverweise
-
-- `klageschrift-pflichtbestandteile-253-zpo` — Gesamtaufbau.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweisangebote.
-- `einreichung-papierform-mit-abschriften` — Papierform.
-- `einreichung-mein-justizpostfach-mjp-2024` — Elektronische Einreichung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Konvention.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

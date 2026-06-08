@@ -22,15 +22,6 @@ Dieser Fehlerkatalog prüft im Bereich **Fluggastrechte** Ergebnisse vor Abgabe,
 - `ausnahmen-aussergewoehnliche-umstaende-pruefen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 - `aussergewoehnliche-distanz-interessen-erfassen`: für dieses Thema typischen Fehler aktiv gegenprüfen.
 
-## Red-Team-Fragen
-
-1. Ist die richtige Rolle, Zuständigkeit und Verfahrensart gewählt?
-2. Sind Fristbeginn, Fristende, Form, Zugang und Beweislast getrennt dokumentiert?
-3. Gibt es eine Spezialnorm, die die allgemeine Lösung verdrängt?
-4. Sind tatsächliche Annahmen als Annahmen markiert und Belege benannt?
-5. Enthält der Output unnötige Zugeständnisse, vertrauliche Daten oder ungeprüfte Fundstellen?
-6. Ist der nächste Schritt praktisch ausführbar: wer tut was bis wann mit welchem Dokument?
-
 ## Heilung
 
 Jeden roten Punkt mit Symptom, Diagnose, Korrektur und verbleibendem Restrisiko ausgeben. Quellenhygiene nach `references/quellenhygiene.md`.
@@ -44,3 +35,4 @@ Konkret zu prüfen:
 - Art. 6 VO 261/2004 (Verspätung)
 - Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
 - EuGH C-402/07 (Sturgeon)
+

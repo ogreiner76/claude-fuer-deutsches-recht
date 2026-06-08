@@ -89,12 +89,6 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 1. BZSt-Antrag.
 2. Anlage AUS / R-AUS / V (Vermietung).
 
-## Output
-
-- Mandanten-Memo Spanien.
-- Berechnungsbeispiel mit Anrechnung statt Freistellung (Wechsel DBA 1966 → DBA 2011).
-- BZSt-Hinweise.
-
 ## Strategie und Praxis-Tipps
 
 - Wechsel von Freistellung zu Anrechnung beim Uebergang DBA 1966 → DBA 2011 ist die zentrale Aenderung — deutsche Mietverluste in Spanien wirken sich anders aus.
@@ -166,12 +160,9 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 >
 > Schritt 4: Spanische IRPF auf Rente: progressiv (16 Prozent bis 47 Prozent); Erstattung deutscher Quellensteuer nach Vorlage Form-NRA und ES-Ansaessigkeit.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-portugal`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Spanien 03.02.2011, in Kraft 18.10.2012, anwendbar ab 01.01.2013 (BGBl. 2012 II S. 18). MLI-modifiziert ab 01.01.2025 (BGBl. 2025 II Nr. 5). Beckham-Regelung und ETVE-Klassifikation im Einzelfall pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

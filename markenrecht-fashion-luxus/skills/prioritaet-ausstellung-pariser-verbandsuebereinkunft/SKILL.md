@@ -5,10 +5,6 @@ description: "Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanme
 
 # Priorität und Ausstellungspriorität
 
-## Arbeitsbereich
-
-Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfen: nationale Erstanmeldung, Unionsmarke, Madrid, Messepriorität, Nachanmeldung, Prioritätsbelege und Fristenkalender. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfe
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Sichere Prioritäten bei Markenanmeldungen, damit internationale Expansion nicht an Timingfehlern scheitert.
 
 ## Pflichtfragen
 
@@ -41,12 +33,7 @@ Sichere Prioritäten bei Markenanmeldungen, damit internationale Expansion nicht
 4. **Madrid-Schnittstelle:** Basisanmeldung, internationale Registrierung, spätere Benennungen, Central-Attack-Risiko.
 5. **Fristenkalender:** Verantwortliche Person, Belege, Vollmachten, Gebühren, Übersetzungen.
 
-## Output
-
-- Prioritätsfahrplan.
-- Fristen- und Belegliste.
-- Anweisung an Korrespondenzanwälte.
-
 ## Qualitätsgate
 
 Fristen und Formalia live bei DPMA, EUIPO, WIPO oder nationalem Amt prüfen.
+

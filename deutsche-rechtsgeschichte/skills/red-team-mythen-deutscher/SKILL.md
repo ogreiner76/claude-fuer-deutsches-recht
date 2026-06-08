@@ -56,12 +56,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Red-Team-Analyse für 5 klassische Rechtsgeschichts-Mythen
-- Fuer jeden Mythos: Belege, Gegenbelege, nuancierte These
-- Methodennotiz: Wie man Mythos von historischer Faktenlage trennt
-
-## Quellenregel
-
-Radbruch-Formel: SJZ 1946. NS-Gesetze: RGBl. via ALEX/ÖNB. DDR-ZGB: GBl. I DDR 1975. BVerfGE: bverfg.de. Keine Blindzitate.

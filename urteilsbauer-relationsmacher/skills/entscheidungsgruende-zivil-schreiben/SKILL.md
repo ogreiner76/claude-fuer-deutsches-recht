@@ -28,9 +28,6 @@ Im Urteilsstil (nicht im Gutachtenstil). Reihenfolge: Ergebnis - Begründung.
 - § 91, 92 ZPO — Kosten
 - § 708, 709 ZPO — vorläufige Vollstreckbarkeit
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Obersatz:** "Die Klage ist [zulässig und] begründet / [zulässig, aber] unbegründet / teilweise begründet."
@@ -49,6 +46,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Urteil → Entscheidungsgründe — Tonfall: sachlich-juristisch, Urteilsstil
 
 ```
+
 ## Entscheidungsgründe
 
 Die Klage ist zulässig und begründet.
@@ -101,3 +99,4 @@ Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
 ## Stil
 
 Praesens, Indikativ, im Aktiv, kurze Sätze, eine Sache pro Satz.
+

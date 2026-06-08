@@ -87,21 +87,7 @@ Fax ist Ueberbrueckung — wenn Sie laufend Schriftsaetze einreichen, richten Si
 - "Ich sehe nur 'gesendet' im Display." → "Gesendet" heisst nicht "empfangen". Sendebericht "OK" ist entscheidend.
 - "Fax statt MJP für staendige Einreichung." → Auf Dauer zu fehleranfaellig. Wenden Sie sich an MJP.
 
-## Querverweise
-
-- `einreichung-mein-justizpostfach-mjp-2024` — Bessere elektronische Alternative.
-- `einreichung-papierform-mit-abschriften` — Papier-Alternative.
-- `wiedereinsetzung-frist-233-zpo` — Wenn Frist versaeumt.
-- `fristen-berechnen-187-188-bgb` — Frist-Berechnung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Fax-Einreichung weiterhin moeglich; mehrere Gerichte planen aber Abbau. Vor Verlass auf Fax telefonisch bestaetigen, dass Anschluss aktiv ist.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

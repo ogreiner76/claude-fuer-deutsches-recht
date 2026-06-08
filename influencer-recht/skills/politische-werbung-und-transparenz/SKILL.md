@@ -5,10 +5,6 @@ description: "Influencer-Recht: Politische Werbung durch Creator – Kennzeichnu
 
 # Influencer-Recht: Politische Werbung und Transparenz
 
-## Arbeitsbereich
-
-Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,3 +70,4 @@ Creator, die für politische Parteien oder Organisationen posten, unterliegen be
 - Politische-Werbung-Compliance-Checkliste
 - Kennzeichnungskonzept für staatliche/parteiliche Kampagnen
 - Ablehnungsschreiben für verdeckte politische Werbung
+

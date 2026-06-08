@@ -5,9 +5,6 @@ description: "Marketing Website Protokollwerkstatt TOP im Plugin Weg Hausverwalt
 
 # Marketing Website Protokollwerkstatt TOP
 
-## Arbeitsbereich
-
-**Marketing Website Protokollwerkstatt TOP** ordnet den Fall über die tragenden Prüfungslinien: Verwalter-Website rechtssicher gestalten (Stand 06/2026), Erstellt und prüft Protokolle für lange, Rampe. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Marketing Website Protokollwerkstatt TOP im Plugin Weg Hausverwalt
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `marketing-website-impressum-tmg-und-bewertungen`
@@ -66,14 +64,6 @@ BGH, Urteil vom 14.11.2017, VI ZR 425/16 (Jameda I): Bewertungsplattform darf Ar
 **Negative echte Bewertungen:** Aushalten und sachlich antworten — keine persönlichen Angriffe, keine Offenlegung von Mandantendaten in der Antwort (DSGVO). Eskalation: Gegendarstellung, ggf. Unterlassungsklage wenn Tatsachenbehauptungen unwahr.
 
 **Werbung mit Mandantenstimmen:** Schriftliche Einwilligung Mandant erforderlich (DSGVO Art. 6 Abs. 1 lit. a); bei Foto zusätzlich UrhG § 22 (Recht am eigenen Bild). Norm UrhG § 22: https://www.gesetze-im-internet.de/urhg/__22.html
-
-## Output
-
-- Impressum-Mustertext für Verwalter-GmbH (alle Pflichtfelder)
-- Datenschutzerklärung-Bausteine (Cookie-Banner, GA4, Webhoster-AVV)
-- Bewertungs-Antwort-Vorlagen (sachlich-deeskalierend, juristisch-präzise, bei Verleumdung)
-- Lösch-Antrag an Plattform (Google/Trustpilot) Mustertext
-- Website-Audit-Checkliste (Impressum, Datenschutz, Cookie-Banner, § 34c GewO, SSL)
 
 ## Cross-Refs
 
@@ -154,22 +144,6 @@ Frist: [...]
 - Trenne Verwaltungspraxis, Beschlusskompetenz, ordnungsmäßige Verwaltung, bauliche Veraenderung, Kostenfolge und Anfechtungsrisiko.
 - Bei Protokollen: Beschlusswortlaut, Abstimmungsergebnis, Verkündung, Anlagen und abweichende Auffassungen so aufnehmen, dass ein Gericht den Vorgang nachvollziehen kann.
 
-## Ausgabeformat
-
-- TOP/Beschlusskern.
-- Formelle Risiken.
-- Materielle Risiken.
-- Vollzugsschritte der Verwaltung.
-- Anfechtungs- oder Heilungsoptionen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich`
 
 **Fokus:** Rampe, beidseitige Handläufe, Tuerverbreiterung und Beleuchtungsoptimierung im Gemeinschaftseigentum (Stand 06/2026): DIN 18040 Masszahlen, Kostentragung § 21 WEG, Genehmigungspflicht Landesbauordnung, Beschlussvorlagen.
@@ -225,14 +199,6 @@ Stufenkantenmarkierung nach DIN 32975: Leuchtdichteunterschied mindestens 0.4 (n
 
 Automatischer Türöffner am Hauseingang: Elektrische Verriegelung und Taster beidseitig (innen und außen), Türschließer mit gedämpftem Schließzug. Leistung: Öffnungskraft max. 25 N nach DIN EN 1154.
 
-## Output
-
-- Maßnahmen-Katalog mit DIN-Anforderungen (Tabelle)
-- Beschlussvorlage Rampe (mit Auflagen Optik, Rückbau-Option, Kostentragung)
-- Beschlussvorlage Handlauf-Nachrüstung beidseitig
-- Schreiben an Bauamt (verfahrensfreie Maßnahme anzeigen, Mustertext)
-- Kostenkalkulations-Vorlage (Rampe inkl. Erdbau/Belag/Handlauf, Handlauf inkl. Montage)
-
 ## Cross-Refs
 
 - Aufzug und Treppenlift → `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg`
@@ -244,3 +210,4 @@ Automatischer Türöffner am Hauseingang: Elektrische Verriegelung und Taster be
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 20 und § 21 WEG über https://www.gesetze-im-internet.de/woeigg/__20.html und https://www.gesetze-im-internet.de/woeigg/__21.html live verifizieren. Landesbauordnungen auf Portalen der jeweiligen Bundesländer abrufen — Verfahrensfreiheitskataloge variieren.
+

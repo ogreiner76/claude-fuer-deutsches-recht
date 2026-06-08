@@ -5,10 +5,6 @@ description: "Erzeugt das abschliessende KI-VO-Pruefdokument mit Warnhinweisen, 
 
 # Output: Prüfdokument KI-VO mit Warnhinweisen
 
-## Zweck
-
-Dieser Skill erstellt das abschließende Prüfdokument am Ende des KI-VO-Workflows. Es soll nicht nur Ergebnisse zusammenfassen, sondern die Einordnung so dokumentieren, dass später nachvollziehbar ist, auf welchen Tatsachen, Annahmen und Rechtskategorien die Entscheidung beruhte.
-
 ## Pflicht-Header
 
 ```text
@@ -141,10 +137,3 @@ Empfohlene nächste Schritte:
 
 Stand: 05/2026. Quellenstand und Leitlinienlage sind vor Außenverwendung zu aktualisieren. Keine Rechtsberatung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

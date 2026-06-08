@@ -95,6 +95,7 @@ oder Logo schützen; DPMA erteilt Beanstandung; Wettbewerber widerspricht.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 1. **Markenrecherche** – DPMA-Datenbank (DPMAregister.dpma.de), EUIPO TMview,
@@ -131,14 +132,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 8. **Widerspruchsverfahren** – Widerspruchsgebühr 250 €; Benutzungseinrede
  geltend machen (§ 43 MarkenG), wenn die ältere Marke älter als 5 Jahre;
  Verhandlung beim DPMA; Beschwerde zum BPatG (§ 66 MarkenG, Frist 1 Monat).
-
-## Ausgabeformat
-
-- **Anmeldememo** (Gutachtenstil): Hindernisanalyse § 8 MarkenG → Waren/DL-
- Verzeichnis → Kostenübersicht → Empfehlung.
-- **Klassifikationstabelle** (Tabelle): Klasse | Waren/Dienstleistungen | Gebühr.
-- **Stellungnahme auf Beanstandungsbescheid** (Schriftsatz): Adressat DPMA;
- Aktenzeichen; Argumentation zur Schutzfähigkeit; ggf. Verkehrsdurchsetzung.
 
 ## Beispiel
 
@@ -209,3 +202,4 @@ Problem: Konkrete Leitentscheidungen duerfen nur nach Live-Verifikation mit Geri
  Fallname um "/MediCo Apotheke" ergaenzt. Beide Fundstellen im Dokument korrigiert.
  Verifiziert via dejure.org.
 -->
+

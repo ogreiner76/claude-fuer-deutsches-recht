@@ -5,10 +5,6 @@ description: "Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete u
 
 # Mietspiegel-Quellen (amtlich)
 
-## Arbeitsbereich
-
-Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Anwendungsfall: für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprüft werden soll. Liefert ein strukturiertes Datenblatt für die Folgeskills mieterhoehung-prüfen-widersprechen und klageentwurf-amtsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,14 +20,6 @@ Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpre
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Dieser Skill macht aus einer Mandantenadresse ein **strukturiertes Datenblatt zur ortsüblichen Vergleichsmiete**, mit dem die Folgeskills `mieterhoehung-pruefen-widersprechen`, `klageentwurf-amtsgericht`, `mieterhoehungsverlangen-erstellen` und `mietsenkungsverlangen` unmittelbar weiterrechnen können.
-
-Die vollständige amtliche Quellensammlung steht in der mitgelieferten Referenz:
-
-- [references/mietspiegel-quellen.md](../../references/mietspiegel-quellen.md) — Bundesweite Rechtsgrundlagen, 16 Bundesländer, 20 größte Städte, 25 Universitätsstädte.
 
 ## Wann diesen Skill verwenden
 
@@ -200,3 +188,4 @@ Diese Quellensammlung ersetzt keine Rechtsberatung. Sie ist ein Werkzeug zur Rec
 
 ---
 <!-- AUDIT 27.05.2026 -->
+

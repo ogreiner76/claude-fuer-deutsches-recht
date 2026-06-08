@@ -5,10 +5,6 @@ description: "Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fri
 
 # Red-Team Qualitygate
 
-## Arbeitsbereich
-
-Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,9 +12,6 @@ Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zu
 - Tragende Normen verifizieren: InsO § 19 Abs. 2 (zweistufige Prüfung), IDW S 11 (Anforderungen), IDW PS 800, HGB § 252 Abs. 1 Nr. 2 (Going Concern), BGH II ZR 296/05 (Drei-Wochen-Lücke), StaRUG §§ 1, 102 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin fortbestehensprognose: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
@@ -34,12 +27,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
 ## Red-Team-Fragen Fortbestehensprognose
 - **Prognosezeitraum:** Sind die nach Rechtsprechung und IDW S 11 üblichen Zeiträume eingehalten? Üblich: das laufende und das folgende Geschäftsjahr (mind. 12 Monate ab Stichtag), bei drohender Zahlungsunfähigkeit nach § 18 Abs. 2 InsO idR 24 Monate (Stand prüfen).
 - **Annahmen identifizieren:** Sind die kritischen Annahmen (Großkunden, Bankfinanzierung, Steuerstundung) als solche gekennzeichnet, und ist klar, was passiert, wenn sie nicht eintreten?
@@ -48,8 +35,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Klärung Eröffnungsgrund:** Ist trennscharf, ob die Prognose § 19 InsO (Überschuldung) oder § 18 InsO (drohende Zahlungsunfähigkeit) adressiert? Beides hat unterschiedliche Folgen für § 15a InsO.
 - **Quellenfußabdruck:** Sind alle nicht-trivialen rechtlichen Aussagen normbelegt? Keine BGH-Az aus Modellwissen, sondern "BGH ständige Rspr." oder verlinkter Live-Check.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

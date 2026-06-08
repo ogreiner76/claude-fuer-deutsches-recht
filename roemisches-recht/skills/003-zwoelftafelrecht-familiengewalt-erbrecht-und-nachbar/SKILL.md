@@ -5,10 +5,6 @@ description: "Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nac
 
 # Rom Zwoelftafelrecht Familiengewalt Erbrecht Und Nachbar
 
-## Arbeitsbereich
-
-Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft. Ar
 - Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Zwoelftafelrecht: Familiengewalt, Erbrecht und Nachbarschaft.
 
 ## Tafel IV (Familienrecht)
 
@@ -54,6 +46,3 @@ A will Vermoegen zu Lebzeiten ueber Tod hinaus verfuegen.
 2. Familienrecht / Erbrecht / Nachbarrecht?
 3. Heutiges Pendant?
 
-## Output
-
-- Tafel-Analyse.

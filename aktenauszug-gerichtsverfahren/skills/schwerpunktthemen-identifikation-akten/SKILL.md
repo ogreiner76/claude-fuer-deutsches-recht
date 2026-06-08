@@ -5,10 +5,6 @@ description: "Anwalt braucht schnellen Überblick über drei bis fuenf rechtlich
 
 # Schwerpunktthemen-Identifikation
 
-## Arbeitsbereich
-
-Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Überblick) und rechtsargumente-gegenüberstellung (alle Argumente). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitp
 - Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill identifiziert die drei bis fünf zentralen Rechtsfragen, auf denen das Verfahren schwerpunktmäßig beruht. Er hilft dem Anwalt, die Prioritäten für die weitere Bearbeitung zu setzen, ohne eine Einschätzung des Ausgangs zu treffen.
 
 ## Triage — kläre vor Identifikation
 
@@ -39,9 +31,6 @@ Dieser Skill identifiziert die drei bis fünf zentralen Rechtsfragen, auf denen 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Kriterien für ein Schwerpunktthema
 
 Ein Thema ist Schwerpunkt, wenn:
@@ -59,6 +48,7 @@ Drei bis fünf Schwerpunktthemen. Bei einfachen Verfahren können es weniger sei
 ## Outputformat
 
 ```markdown
+
 ## Schwerpunktthemen
 
 ### 1. [Bezeichnung des Schwerpunktthemas]
@@ -112,3 +102,4 @@ Schwerpunktthemen werden neutral dargestellt. Die Identifikation eines Themas al
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Quellen: dejure.org (https://dejure.org/2016,13484 ; https://dejure.org/2019,4759)
+

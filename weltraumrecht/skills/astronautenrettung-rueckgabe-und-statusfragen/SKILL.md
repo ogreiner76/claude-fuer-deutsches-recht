@@ -5,10 +5,6 @@ description: "Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschaf
 
 # Weltraumrecht: Astronautenrettung: Rückgabe und Statusfragen
 
-## Arbeitsbereich
-
-Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -113,3 +109,4 @@ Dieser Skill bearbeitet **Astronautenrettung: Rückgabe und Statusfragen** im Be
 - FAA Commercial Space: https://www.faa.gov/space
 - ESA ISS Framework: https://www.esa.int/About_Us/Law_at_ESA/ESA_s_legal_framework
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/
+

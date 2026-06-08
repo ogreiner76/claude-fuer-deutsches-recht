@@ -118,9 +118,6 @@ Nicht-abschließender Katalog möglicher Maßnahmen:
 - Art. 40 DSA — Forschungsdatenzugang
 - Art. 11 GRCh — Meinungsfreiheit als Abwägungsposten in Risikobewertung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 
 1. Ist der Mandant VLOP oder VLOSE (Art. 33 DSA)? Designation abgewartet?
@@ -156,3 +153,4 @@ Bewertung: hoch / mittel / gering
 
 Audit (Art. 37 DSA): durchgeführt am [DATUM] / ausstehend
 ```
+

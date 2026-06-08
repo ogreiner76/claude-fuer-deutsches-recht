@@ -5,10 +5,6 @@ description: "Trennungsgeld, Umzugskosten, Reisebeihilfe: prüft TGV, BUKG, Ansp
 
 # Trennungsgeld, Umzugskosten und Reisebeihilfe
 
-## Arbeitsbereich
-
-Trennungsgeld, Umzugskosten, Reisebeihilfe: prüft TGV, BUKG, Anspruchsvoraussetzungen, Präklusionsfristen und Rückforderungen. Norm-/Quellenanker: TGV, BUKG, BRKG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Präklusionsfristen sind strikt: TGV-Antrag spätestens 6 Monate nach Versetzung
 - BRKG — Bundesreisekostengesetz
 - BBesG §§ 12–13 — Reisekostenvergütung
 - SG § 22 — Versetzung (Auslöser)
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -95,21 +85,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Fristen-Übersicht: TGV vs. BUKG
 - Muster-Antrag Trennungsgeld
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/tgv/ — TGV
-- https://www.gesetze-im-internet.de/bukg/ — BUKG
-- https://www.gesetze-im-internet.de/brkg/ — BRKG
-- https://dejure.org/gesetze/TGV
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -119,3 +94,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

@@ -5,10 +5,6 @@ description: "Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche 
 
 # Mangel am Leasingobjekt: Rechte gegen den Lieferanten
 
-## Arbeitsbereich
-
-Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferan
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Wenn das Leasingobjekt mangelhaft ist, richtet der Leasingnehmer seine Ansprüche kraft Abtretung direkt gegen den Lieferanten. Dieser Skill erklärt die Sachmängelrechte, Fristen, Beweislast und praktische Durchsetzung.
 
 ## Sachmängelrecht: Grundlagen (§§ 434–442 BGB)
 
@@ -113,3 +105,4 @@ Wenn das Leasingobjekt mangelhaft ist, richtet der Leasingnehmer seine Ansprüch
 - **Anspruchsübersicht**: § 437 BGB – alle vier Ansprüche mit Voraussetzungen
 - **Verjährungskalender**: Frist, Beginn, Unterbrechungsmöglichkeit
 - **Beweissicherungs-Checkliste**: Fotos, Gutachten, Rügeprotokoll
+

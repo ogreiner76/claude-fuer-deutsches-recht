@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Steuerstaat und Haushaltsgeschichte. Ma
 
 # Steuerstaat und Haushaltsgeschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Steuerstaat und Haushaltsgeschichte. Matrikularbeitraege des Deutschen Bundes, Erzberger-Steuerreform 1919-1920, Reichsabgabenordnung, Finanzausgleich und GG Art. 105-108. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Der moderne deutsche Steuerstaat entstand schrittweise. Das Kaiserreich finanzie
 - GG Art. 105-108: gesetze-im-internet.de
 - BVerfGE zum Finanzausgleich: bverfg.de
 
-## Output
-
-- Zeitleiste Steuerstaat: 1871-2020
-- Erzberger-Reform: Steuern, Ergebnisse, politische Folgen
-- Finanzausgleich: Art. 107 GG und BVerfGE-Leitlinien
-
-## Quellenregel
-
-Erzberger-Gesetze: RGBl. 1919-1920 via ALEX/OeNB. RAO 1919: ALEX/OeNB. AO und EStG: gesetze-im-internet.de. BVerfGE: bverfg.de.

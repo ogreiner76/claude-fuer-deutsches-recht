@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Alleinvertriebsvertrag international
 
 # Alleinvertriebsvertrag International
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Alleinvertriebsvertrag international. Gebietsschutz nach VBER 2022 (EU) 2022/720, Mindestumsatzpflichten, Wettbewerbsverbote, Kündigung und Schadensersatz bei missbräuchlicher Beendigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Der Alleinvertriebsvertrag (Exclusive Distribution Agreement) gewährt dem Händ
 - Mindestumsatz: Berechnungsbasis definieren (Nettopreis, CIF-Wert)
 - Kündigung: Vertragsstrafe oder Mindest-Schadensersatz-Klausel für missbräuchliche Kündigung
 
-## Output
-
-- VBER 2022 Compliance-Checkliste für Alleinvertrieb
-- Mindestumsatz-Klausel-Muster
-- Kündigungsschutz-Analyse
-
-## Quellenregel
-
-VBER (EU) 2022/720: eur-lex.europa.eu. GWB § 20: gesetze-im-internet.de. Leitlinien zu vertikalen Beschränkungen (EU) 2022: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

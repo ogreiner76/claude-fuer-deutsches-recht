@@ -5,10 +5,6 @@ description: "Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsverein
 
 # Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen
 
-## Arbeitsbereich
-
-Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -40,6 +36,7 @@ Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozial
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Vorgehen
 
 ### Schritt 1: Auslösung der Sozialplan-Pflicht
@@ -191,3 +188,4 @@ behandeln:
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Einigungsstellenverfahren
 - → `harmonisierung-und-migration-rechtssicher` — Sozialplan bei Systemwechsel
 - → `drei-stufen-theorie-eingriffsanalyse` — Eingriffsanalyse als Grundlage Sozialplan
+

@@ -17,13 +17,6 @@ description: "Ergaenzende Vertragsauslegung bei AGB-Luecken. Skill klaert die BG
 - § 306 Abs. 2 BGB: an die Stelle der unwirksamen AGB-Klausel tritt das Gesetz.
 - Ergaenzende Vertragsauslegung als ultima ratio.
 
-## Vorgehen
-
-1. Klausel ist unwirksam.
-2. Lueckhe entstanden?
-3. Gesetzesrecht regelt die Lueckhe? — wenn ja, Gesetzesrecht.
-4. Gesetzesrecht laesst Lueckhe? — ergaenzende Vertragsauslegung.
-
 ## Beispiele
 
 ### Schoenheitsreparaturen
@@ -51,7 +44,3 @@ description: "Ergaenzende Vertragsauslegung bei AGB-Luecken. Skill klaert die BG
 4. Ergaenzende Vertragsauslegung erforderlich?
 5. Hypothetischer Parteiwille begruendbar?
 
-## Output
-
-- Pruefraster.
-- Schriftsatzbaustein.

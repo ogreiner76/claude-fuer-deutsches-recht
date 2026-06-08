@@ -5,10 +5,6 @@ description: "Römisches Recht: Byzantinische Rechtsrezeption in orthodox geprä
 
 # Byzantinische Rezeption und Osteuropa
 
-## Aufgabe
-
-Dieser Skill verfolgt byzantinisches Recht in seine **Rezeptionsräume**: orthodox geprägte Rechtskultur, Südosteuropa, Osteuropa, kirchliche Normsammlungen, Übersetzungen und spätere rechtsgeschichtliche Nachwirkungen.
-
 ## Startfragen
 
 1. Welcher Raum steht im Vordergrund: Balkan, Griechenland, slawische Rechtskulturen, kirchliche Rechtssammlungen oder allgemeine Rezeptionsgeschichte?
@@ -40,8 +36,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Rezeptionskarte mit Quellenkanälen.
-- Synopse nach Raum und Institut.
-- Unsicherheitsampel für starke, mittlere oder schwache Einflussbehauptung.

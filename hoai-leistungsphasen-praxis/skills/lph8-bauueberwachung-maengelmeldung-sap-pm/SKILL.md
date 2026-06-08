@@ -5,10 +5,6 @@ description: "Methodikskill HOAI LPH 8 — Vollstaendiger für Maengelmeldungen 
 
 # Maengelmeldung und SAP Plant Maintenance in der Bauueberwachung LPH 8
 
-## Arbeitsbereich
-
-Methodikskill HOAI LPH 8 — Vollstaendiger für Maengelmeldungen in SAP Plant Maintenance PM. Umfasst Meldungsarten M1-M3, Equipment-Nummernstruktur aus Bau-Objektbaum, Schadens- und Ursachencodes nach Normen, Prioritaeten und Faelligkeiten nach VOB/B § 13, Workflows PM-Meldung bis PM-Auftrag mit Ausfuehrungs-Ueberwachung, Integration PlanRadar-SAP-PM via REST-API sowie Abschluss-Meldung und Kostenstellenzuordnung bei HOAI-LPH-8-Projekten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 - Fehlende Kostenstellen-Zuordnung: Kosten landen auf falscher Kostenstelle, Projektabrechnung fehlerhaft
 - Zu spaete Meldungserstellung: Mangel erst nach Wochen erfasst, Kausalitaetsnachweis schwierig, VOB-Fristen schon abgelaufen
 
-## Output
-
-SAP-PM-Meldungsliste vollstaendig mit allen Fotos und Status. Offene-Meldungen-Auswertung monatlich an Projektleitung. Abgeschlossene-Meldungen-Zusammenfassung mit Kosten je Gewerk. Mangelbeseitigungs-Nachweis-Dokumentation für Abnahmeprotokoll. SAP-PM-Equipment-Baum als Anlagenstruktur Facility Management. VOB/B § 13 Fristenkontrolle-Protokoll.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ SAP-PM-Meldungsliste vollstaendig mit allen Fotos und Status. Offene-Meldungen-A
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme](https://www.gesetze-im-internet.de/bgb/__640.html)
+

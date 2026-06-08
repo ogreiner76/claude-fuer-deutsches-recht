@@ -89,16 +89,9 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
 - **Praevention vor Schuld**: Wenn die Strafe ueber den Schuldrahmen hinaus aus Generalpraevention erhoeht wird, verletzt das § 46 Abs. 1 StGB.
 - **Strafzumessung pauschal**: "unter Beruecksichtigung aller Umstaende" ohne Einzelabwaegung ist revisionsanfaellig (§ 267 Abs. 3 StPO).
 
-## Querverweise
-
-- `strafzumessungs-tatsachen-46-ii-stgb` — Detail-Katalog des Abs. 2.
-- `strafrahmen-und-strafzumessungsstufen` — vor der konkreten Zumessung.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — wie Urteilsbegruendung aussehen muss.
-- `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` — Sondernorm.
-- `gestaendnis-und-strafmilderung` — typischer Milderungsgrund.
-
 ## Quellen und Stand 05/2026
 
 - § 46 StGB in der seit 01.08.2015 geltenden Fassung (Erweiterung um geschlechtsspezifische, gegen sexuelle Orientierung gerichtete Beweggruende).
 - BGH GS BGHSt 7, 28 (Spielraumtheorie) — Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.
 - Quellenregel: Kommentar-/Aufsatzfundstellen nur auf Nutzerquellenbasis oder lizenzierten Live-Zugriff; vgl. `references/zitierweise.md`.
+

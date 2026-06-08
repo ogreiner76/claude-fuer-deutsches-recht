@@ -5,10 +5,6 @@ description: "Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach �
 
 # Arbeitnehmerähnlicher Handelsvertreter nach § 92a HGB
 
-## Arbeitsbereich
-
-Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozialversicherungsrecht bei Einkommen unter der Grenze. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Zuständigkeit der Arbeitsgerichte nach § 5 Abs. 3 ArbGG übersehen.
 - Einkommensschwelle nicht korrekt berechnet — Mehrjahresbetrachtung erforderlich.
 
-## Output
-
-Status-Gutachten zur Arbeitnehmerähnlichkeit, Gestaltungsempfehlung für Vertragsanpassung, Hinweise zu Sozialversicherungspflicht.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 92a HGB](https://dejure.org/gesetze/HGB/92a.html)
+

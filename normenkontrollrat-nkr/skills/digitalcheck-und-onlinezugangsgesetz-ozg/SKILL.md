@@ -123,14 +123,6 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 - Mehrfacherhebung ohne Begruendung
 - OZG-Anschluss "in spaeterer Phase"
 
-## Querverweise
-
-- `nkr-digital-anschlussfaehigkeit-tauglich`
-- `nkr-handelsregister-und-elektronische-zustellung` — Praxisbeispiel
-- `nkr-eu-richtlinien-umsetzung-und-goldplating`
-- `nkr-praktikabilitaet-vollzug-test`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - Onlinezugangsgesetz (OZG) vom 14.08.2017 in der jeweils geltenden Fassung; OZG-Folgeregulierung Stand vom Anwender zu verifizieren
@@ -140,3 +132,4 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 - § 44 GGO; NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4 Abs. 3 (Digitalcheck) i.V.m. § 9 (Anwendbarkeit ab 1. Januar 2023)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.digitalcheck.bund.de](https://www.digitalcheck.bund.de), [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

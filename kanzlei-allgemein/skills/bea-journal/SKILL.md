@@ -32,13 +32,6 @@ Dokumentation von beA-Verbindungen Nachrichten Versand und Empfangsbekenntnissen
 - § 174 Abs. 4 ZPO — Elektronisches Empfangsbekenntnis: Formerfordernis und Fristausloesung
 - § 130a ZPO — Anforderungen an elektronische Dokumente und Uebermittlung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill wird genutzt, sobald eine technische beA-Verbindung, ein beA-Export oder ein beA-Screenshot vorliegt. Er macht aus beA-Zugriffen einen nachvollziehbaren Kanzleivorgang: Journal sichern, Nachrichten archivieren, Eingänge und Ausgänge der Akte zuordnen, Fristen erkennen und elektronische Empfangsbekenntnisse nur nach ausdrücklicher Freigabe vorbereiten oder abgeben.
-
 ## Sicherheitsstart
 
 Vor jedem beA-Zugriff ausgeben:
@@ -124,3 +117,4 @@ Wenn das System beA nicht selbst bedienen kann:
 ## Ausgabe
 
 `assets/templates/bea-nachrichtenjournal.md` verwenden.
+

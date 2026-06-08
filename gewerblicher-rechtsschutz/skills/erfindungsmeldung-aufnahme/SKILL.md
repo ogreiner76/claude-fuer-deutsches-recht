@@ -5,10 +5,6 @@ description: "Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegan
 
 # Erfindungseingang — Erstprüfung
 
-## Arbeitsbereich
-
-Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungsgesetz. Prüfraster: Neuheit erfinderische Tätigkeit technischer Charakter EPUe Schutzfähigkeit Arbeitnehmererfindung Inanspruchnahme vs. Freistellung Frist 4 Monate § 6 ArbnErfG strategischer Wert. Output: Ersteinschaetzung Anmeldung/Weiterverfolgung/Ablehnung. Abgrenzung zu fto-triage (Freiheitsgrad) und schutzrechts-portfolio (Portfolioverwaltung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindung
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Diese Skill führt eine strukturierte Erstprüfung einer Erfindungsmeldung durch. Sie schirmt offensichtliche Ausschlussgründe ab, identifiziert kritische Fristen (insbesondere neuheitsschädliche Vorveröffentlichungen nach § 3 PatG) und empfiehlt eine von drei Handlungsoptionen: **WEITERVERFOLGEN** (Beauftragung einer Patentrecherche und Einschaltung eines Patentanwalts), **KLÄREN** (Rückfragen an den Erfinder oder Spezialisten) oder **ABLEHNEN** (mit konkreter Begründung).
-
-Die Skill trifft keine Patentierbarkeitsaussage. Eine solche setzt eine vollständige Patentrecherche, Anspruchskonstruktion und das fachliche Urteil eines zugelassenen Patentanwalts voraus.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ## Eingaben
 
@@ -207,12 +195,6 @@ Wenn der Erfinder Arbeitnehmer ist:
 - **§§ 9 ff. ArbnErfG — Vergütungspflicht:** Bei Inanspruchnahme entsteht Vergütungsanspruch. Bemessung nach den Richtlinien für die Vergütung von Arbeitnehmererfindungen im privaten Dienst (1959/zuletzt geändert). Faktoren: Erfindungswert, Anteilsfaktor, Mitarbeiterstellung.
 - Frist im Vermerk dokumentieren und in das Fristenkontrollsystem des Mandanten eintragen.
 
-## Ausgabeformat
-
-Der Erfindungsprüfungsvermerk enthält: Titel, Ergebnis (WEITERVERFOLGEN / KLÄREN / ABLEHNEN), Prüftabelle, offene Punkte, nächste Schritte. Bei aktiver Mandatssache: Ausgabe in den Mandatsordner.
-
-Kein internes Arbeitsnarrativ im Vermerk. Der Vermerk ist sofort verwendbar.
-
 ## Beispiel
 
 **Eingabe:** "Neuer Cache-Algorithmus auf Basis eines erlernten Modells anstelle von LRU; im ersten Quartal dieses Jahres entwickelt, noch nicht veröffentlicht, Prototyp intern im Staging."
@@ -267,3 +249,4 @@ Bevor die Erfindung aufgenommen und bewertet wird, klaere:
 Task: Bundle 031 / Halluzinations-Reparatur
 Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
 -->
+

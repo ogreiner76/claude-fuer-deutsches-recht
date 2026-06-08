@@ -5,10 +5,6 @@ description: "Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Eh
 
 # Byzantinisches Kirchenrecht und Familienrecht
 
-## Arbeitsbereich
-
-Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Dieser Skill behandelt die byzantinische Verbindung von **Kirche, Ehe, Familie, Erbrecht und kaiserlicher Ordnung**. Er zeigt, wie sich römische Privatrechtsstrukturen in einem christlich geprägten Reichskontext verändern.
-
 ## Startfragen
 
 1. Geht es um Ehe, Scheidung, Verwandtschaft, Adoption, Erbrecht, kirchliche Zuständigkeit oder moralische Sanktion?
@@ -52,8 +44,3 @@ Dieser Skill behandelt die byzantinische Verbindung von **Kirche, Ehe, Familie, 
 4. **Soziale Realität beachten:** Status, Geschlecht, Familie, Vermögen und Herrschaftsstruktur nicht glätten.
 5. **Vergleich sauber halten:** klassisch, justinianisch, byzantinisch und modern getrennt ausgeben.
 
-## Output
-
-- Familienrechtliche Entwicklungslinie.
-- Tabelle: Institut, römische Grundlage, byzantinische Akzentverschiebung.
-- Kurze kritische Einordnung aus heutiger Sicht.

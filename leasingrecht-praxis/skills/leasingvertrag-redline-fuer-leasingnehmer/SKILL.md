@@ -5,10 +5,6 @@ description: "Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klau
 
 # Leasingvertrag-Redline: Leasingnehmerperspektive
 
-## Arbeitsbereich
-
-Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifiz
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Als Leasingnehmer erhält man häufig Standard-AGB des Leasinggebers. Dieser Skill zeigt, welche Klauseln problematisch sind, wie man Gegenentwürfe formuliert und worauf man in Verhandlungen bestehen sollte.
 
 ## Red-Flag-Klauseln aus LN-Sicht
 
@@ -98,3 +90,4 @@ Als Leasingnehmer erhält man häufig Standard-AGB des Leasinggebers. Dieser Ski
 - **Gegenentwurf-Formulierungen**: Fertige Redline-Texte
 - **Verhandlungsbrief**: LN fordert Änderungen mit Begründung
 - **Risikoabsicherungsplan**: Welche Versicherungen, welche Klauseln
+

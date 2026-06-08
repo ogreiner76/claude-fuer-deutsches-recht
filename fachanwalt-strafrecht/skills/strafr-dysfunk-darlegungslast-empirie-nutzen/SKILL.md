@@ -5,9 +5,6 @@ description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft
 
 # Strafr Dysfunk Darlegungslast Empirie Nutzen
 
-## Arbeitsbereich
-
-**Strafr Dysfunk Darlegungslast Empirie Nutzen** ordnet den Fall über die tragenden Prüfungslinien: Darlegungs- und Substantiierungslast für den, Empirische Datenlage zur Strafverteidigungspraxis als, Erklaerungsrecht § 257 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +27,7 @@ description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafr-dysfunk-darlegungslast-umkehren`
@@ -70,18 +68,6 @@ description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft
 - Eigene Antraege mit duenner Begruendung sind angreifbar. Substanz immer dokumentieren.
 - Wenn der Antrag tatsaechlich keinen Bezug hat: zurueckziehen oder umformulieren statt zu verteidigen.
 
-## Querverweise
-
-- `strafr-dysfunk-empirie-nutzen`
-- `strafr-dysfunk-beweisantrag-fundament`
-- `strafr-dysfunk-senatsschelte-obiter-dicta`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
-
 ## 2. `strafr-dysfunk-empirie-nutzen`
 
 **Fokus:** Empirische Datenlage zur Strafverteidigungspraxis als Argument gegen den Pauschalvorwurf einsetzen. Praxiserhebungen an Oberlandesgerichten und Diplomarbeiten zeigen sehr geringe Fallzahlen problematischer Verteidigung. Wer Dysfunktionalitaet behauptet hat empirische Darlegungslast. Daten zu Verfahren mit hoher Beweisantragszahl Befangenheitsantraegen und tatsaechlichem Missbrauch. Argumentation in Schriftsatz und mediennaher Auseinandersetzung. Quellen vor Verwendung verifizieren.
@@ -115,18 +101,6 @@ description: "Strafr Dysfunk Darlegungslast Empirie Nutzen im Strafrecht: prüft
 
 - Empirie nicht aus Modellwissen zitieren. Daten und Studien immer mit Quelle.
 - Wenn der eigene Mandat objektiv viele Antraege braucht: dies sachlich begruenden, nicht relativieren.
-
-## Querverweise
-
-- `strafr-dysfunk-darlegungslast-umkehren`
-- `strafr-dysfunk-institutsmissbrauch-kritik`
-- `strafr-dysfunk-beweisantragsstrategie`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
 
 ## 3. `strafr-dysfunk-erklaerungsrecht-257-stpo`
 
@@ -176,18 +150,6 @@ und behaelt sich weiteren Vortrag im Plaedoyer vor.
 - Wiederholung allgemeiner Verteidigungslinien ohne Bezug zur konkreten Beweisaufnahmehandlung ist angreifbar.
 - Eskalierende Polemik fuehrt zu Wortentzug § 176 GVG und Ordnungsmittel § 178 GVG.
 
-## Querverweise
-
-- `strafr-dysfunk-beweisantragsstrategie`
-- `strafr-dysfunk-sitzungspolizei-ordnungsmittel`
-- `strafr-dysfunk-darlegungslast-umkehren`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
-
 ## 4. `strafr-dysfunk-hinweis-auf-heilbaren-fehler`
 
 **Fokus:** Hinweis auf einen heilbaren Fehler im Ablehnungs- oder Sanktionsbeschluss als Verteidigungswerkzeug. Statt sofortiger Eskalation eine schriftliche Erinnerung und Bitte um ergaenzende Begruendung. Kollegiale Form schuetzt vor Missbrauchsvorwurf und gibt dem Gericht Gelegenheit. Falls keine Reaktion erfolgt verstaerkt sich die Revisionsruege. Mustertexte und Eskalationsstufen.
@@ -200,12 +162,6 @@ und behaelt sich weiteren Vortrag im Plaedoyer vor.
 2. Welche Begruendungsluecke konkret (fehlende Subsumtion zu § 244 Abs. 3 Satz 3 StPO, fehlende Sachdienlichkeitsbegruendung § 244 Abs. 6 StPO, fehlende Tatsachenbasis)?
 3. Ist der Fehler ueberhaupt heilbar oder braucht es Revision?
 4. Wie ist das Klima im Senat?
-
-## Vorgehen
-
-- Schriftlicher Hinweis an den Senat. Kollegial im Ton. Konkrete Begruendungsluecke benennen.
-- Bitte um ergaenzende Begruendung oder Aufhebung des Beschlusses.
-- Eskalationsstufe: wenn keine Reaktion innerhalb angemessener Frist, foermliche Erklaerung § 257 Abs. 2 StPO und Vorbehalt der Revisionsruege.
 
 ## Mustertext (Auszug)
 
@@ -225,18 +181,6 @@ Andernfalls behaelt sich die Verteidigung die Revisionsruege vor.
 
 - Aggressive Tonalitaet verschlechtert die Atmosphaere ohne Mehrwert.
 - Wenn der Beschluss nicht heilbar ist (Verfahrenshindernis, Eingriff in Verteidigungsrecht), nicht warten sondern foermlich rueggen.
-
-## Querverweise
-
-- `strafr-dysfunk-darlegungslast-umkehren`
-- `strafr-dysfunk-verschleppungsabsicht-abgrenzen`
-- `strafr-dysfunk-senatsschelte-obiter-dicta`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
 
 ## 5. `strafr-dysfunk-institutsmissbrauch-kritik`
 
@@ -272,18 +216,6 @@ Andernfalls behaelt sich die Verteidigung die Revisionsruege vor.
 
 - Nicht in Theoriestreit verzetteln. Maximal zwei drei Saetze methodische Kritik. Schwerpunkt bleibt die konkrete Subsumtion.
 - Lehrmeinungen nicht aus Modellwissen zitieren. Wenn doktrinaler Bezug noetig: Nutzerquelle oder verifizierte Fundstelle.
-
-## Querverweise
-
-- `strafr-dysfunk-darlegungslast-umkehren`
-- `strafr-dysfunk-vorwurf-einordnen`
-- `strafr-dysfunk-contempt-of-court-debatte-177a`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
 
 ## 6. `strafr-dysfunk-ki-schriftsatz-falle-vermeiden`
 
@@ -333,18 +265,6 @@ Pruefung Schriftsatz vom [Datum]
 - KI-Schriftsatz als Pauschalersatz für eigene Aktenkenntnis.
 - Versteck hinter dem Modell, wenn der Fehler auffliegt.
 
-## Querverweise
-
-- `strafr-dysfunk-mandant-strategie-schuetzen`
-- `strafr-dysfunk-beistandsleistung-137-stpo`
-- `strafr-dysfunk-darlegungslast-umkehren`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
-
 ## 7. `strafr-dysfunk-konfliktverteidigung-vs-dysfunktional`
 
 **Fokus:** Konfliktverteidigung gegen den Vorwurf der Dysfunktionalitaet sauber abgrenzen. Schwerpunkt liegt im aktiven Akt. Konfliktverteidigung ist Negation der Verfahrensherrschaft des Gerichts durch zugespitzten Einsatz prozessualer Rechte. Dysfunktional waere erst das verdeckte Unterlassen zielfuehrenden Prozessierens. Wer harte Mittel einsetzt aber die Sache vorantreibt verteidigt nicht dysfunktional sondern engagiert. Wichtige praktische Indikatoren zur Selbstkontrolle und zur Argumentation gegen das Gericht.
@@ -389,18 +309,6 @@ Pruefung Schriftsatz vom [Datum]
 - Konfliktverteidigung darf nicht zum Selbstzweck werden. Wenn die Strategie nur darin besteht, das Gericht zu zermuerben, wird sie angreifbar.
 - Mandant muss die Strategie tragen. Sonst Verstoss gegen § 137 Abs. 1 StPO (Beistandsleistung) und Berufsrecht (§ 43a Abs. 3 BRAO).
 
-## Querverweise
-
-- `strafr-dysfunk-vorwurf-einordnen`
-- `strafr-dysfunk-beistandsleistung-137-stpo`
-- `strafr-dysfunk-beweisantrag-fundament`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
-
 ## 8. `strafr-dysfunk-mandant-strategie-schuetzen`
 
 **Fokus:** Mandant und Verteidigungsstrategie gegen institutionellen Druck schuetzen. Klare Kommunikation mit dem Mandanten. Strategie wird nicht durch Druck des Gerichts geaendert sondern durch sachliche Bewertung. Mandanteneinwilligung zur Strategie dokumentieren. Wechselrede mit Mandanten zu Folgen einer harten Linie. Mandanteninteresse als Mittelpunkt nicht Verteidigerego.
@@ -440,18 +348,6 @@ Pruefung Schriftsatz vom [Datum]
 - Mandantenwille uebergehen aus Routine.
 - Druck des Gerichts an den Mandanten ungefiltert weitergeben.
 
-## Querverweise
-
-- `strafr-dysfunk-konfliktverteidigung-vs-dysfunktional`
-- `strafr-dysfunk-pflichtverteidiger-entpflichtung-143a`
-- `strafr-dysfunk-ki-schriftsatz-falle-vermeiden`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
-
 ## 9. `strafr-dysfunk-pflichtverteidiger-entpflichtung-143a`
 
 **Fokus:** Entpflichtung des Pflichtverteidigers nach § 143a Abs. 2 StPO insbesondere Variante 2 (zerruettetes Vertrauensverhaeltnis) abwehren. Strenge Voraussetzungen. Konkrete Tatsachen die das Vertrauensverhaeltnis endgueltig zerruetten. Pauschale Konfliktverteidigung traegt die Entpflichtung nicht. Stellungnahme des Mandanten ist entscheidend. Verteidigung gegen den Antrag der StA oder des Gerichts.
@@ -489,18 +385,6 @@ Pruefung Schriftsatz vom [Datum]
 - Wenn das Verhaeltnis tatsaechlich zerruettet ist, im Interesse des Mandanten ehrlich pruefen und ggf einer geordneten Mandatsbeendigung Vorrang geben.
 - Pflichtverteidigerwechsel nicht als persönliche Niederlage werten.
 
-## Querverweise
-
-- `strafr-dysfunk-wahlverteidigerausschluss-138a`
-- `strafr-dysfunk-mandant-strategie-schuetzen`
-- `strafr-dysfunk-beistandsleistung-137-stpo`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.
-
 ## 10. `strafr-dysfunk-senatsschelte-obiter-dicta`
 
 **Fokus:** Senatsschelte und obiter dicta in Strafurteilen und Revisionsentscheidungen als Verteidiger filtern und einordnen. Unterscheidung zwischen tragender Wuerdigung und beilaeufiger Kritik an der Verteidigung. Revisionsrelevanz wenn Verteidigerkritik in die Beweiswuerdigung einfliesst. Ruegestrategie nach § 261 StPO und § 338 StPO. Kein Anlass für ueberzogene Reaktion sondern für praezise Filterung und ggf Ruege.
@@ -535,14 +419,3 @@ Pruefung Schriftsatz vom [Datum]
 - Senatskritik als persönlichen Angriff lesen. Sie ist meist rechtspolitisch gemeint und nicht persoenlich.
 - Vorschnelle Rueckzueg aus dem Mandat als Reaktion auf Kritik.
 
-## Querverweise
-
-- `strafr-dysfunk-darlegungslast-umkehren`
-- `strafr-dysfunk-empirie-nutzen`
-- `strafr-dysfunk-mandant-strategie-schuetzen`
-
-## Quellenregel
-
-- Rechtsprechung und Normen nur mit verifizierter Quelle ausgeben (Gericht, Entscheidungsform, Datum, Aktenzeichen, tragende Aussage). Zulaessig sind insbesondere dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, gesetze-im-internet.de und eur-lex.europa.eu.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Wenn eine Aussage nicht gesichert verifizierbar ist, ausdruecklich als nicht verifiziert kennzeichnen oder weglassen.

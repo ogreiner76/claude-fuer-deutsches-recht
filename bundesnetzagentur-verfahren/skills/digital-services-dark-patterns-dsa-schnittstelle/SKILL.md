@@ -5,10 +5,6 @@ description: "Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher f
 
 # Dark Patterns: DSA-, UWG- und DSGVO-Schnittstelle
 
-## Arbeitsbereich
-
-Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,10 +54,6 @@ Anwaltliche Arbeit am Verbot manipulativer Schnittstellengestaltungen ("Dark Pat
 - EuGH-Rechtsprechung (Planet49 C-673/17, Orange Romania C-61/19) als Anker.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Anzeige- oder Stellungnahme-Schriftsatz mit Screenshot-Anlagen.
-- Compliance-Checkliste für UI-Reviews (Cookie-Banner, Kündigungs-Workflow, Werbeeinstellung, Bestellbestätigung).
-
 ## Beispiele
 - E-Commerce-Plattform präsentiert "Premium-Versand" als Default-Selektion ohne klare Opt-Out-Option. Anzeige BNetzA + UWG-Abmahnung.
 - Soziales Netzwerk gestaltet Werbe-Opt-Out in 5 Klicks tief, Opt-In in 1 Klick. Aufforderungs-Schreiben nach Art. 25 DSA.
@@ -98,3 +90,4 @@ Screenshots datiert? URL und Zeitpunkt sicher? Vergleichsmaßstab benannt? Paral
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

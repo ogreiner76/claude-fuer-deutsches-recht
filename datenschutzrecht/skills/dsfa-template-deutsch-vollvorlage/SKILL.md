@@ -5,10 +5,6 @@ description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuell
 
 # DSFA-Vollvorlage Deutsch
 
-## Zweck
-
-Vollstaendige deutsche Vorlage einer Datenschutz-Folgenabschaetzung nach Art. 35 Abs. 7 DSGVO. Alle sechs Pflichtsektionen sind enthalten und mit Platzhaltern vorausgefuellt, so dass eine Kanzlei oder ein Unternehmen die DSFA direkt befuellen und der Aufsicht oder dem DSB vorlegen kann. Die Vorlage folgt der methodischen Struktur Beschreibung, Verhaeltnismaessigkeit, Risiken, Massnahmen, Restrisiko, Freigabe.
-
 ## Wann dieses Modul hilft
 
 - Wenn die Trigger-Pruefung ergeben hat, dass eine DSFA durchzufuehren ist
@@ -181,15 +177,6 @@ Trigger für ausserplanmäßige Pruefung: [Aenderung Datenarten / Empfaenger / T
 - DSB unterschreibt nicht oder spaeter — Beweisluecke.
 - Versionierung fehlt — bei Aenderung nicht nachvollziehbar.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dpia-en-template-full-version/SKILL.md` — Englische Vollvorlage
-- `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikomethodik
-- `datenschutzrecht/skills/dsfa-stakeholder-konsultation-art-35-9/SKILL.md` — Stakeholder
-- `datenschutzrecht/skills/dsfa-update-bei-aenderungen-und-revision/SKILL.md` — Update
-- `datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/SKILL.md` — Dokumentation
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 7 DSGVO Mindestinhalte
@@ -200,3 +187,4 @@ Trigger für ausserplanmäßige Pruefung: [Aenderung Datenarten / Empfaenger / T
 - SDM V3.0 — Schutzziele
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

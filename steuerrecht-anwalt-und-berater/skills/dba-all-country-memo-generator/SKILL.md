@@ -13,10 +13,6 @@ description: "Generiert ein länderspezifisches DBA-Memo für jeden deutschen DB
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-
-Dieser Skill erzeugt aus jedem realistischen DBA-Sachverhalt ein verwendbares Memo, auch wenn das Land noch keinen Einzel-Skill hat.
-
 ## Pflichtaufbau
 
 1. **Sachverhalt:** Beteiligte, Staaten, Zeitraum, Beträge, Zahlungsflüsse.
@@ -40,10 +36,6 @@ Baue bei Bedarf Varianten:
 - Pensionär mit gesetzlicher und betrieblicher Rente.
 - US-LLC mit deutschen Gesellschaftern.
 - Grenzgänger mit Dienstreisen in Drittstaaten.
-
-## Quellenregel
-
-Wenn der DBA-Text nicht vorliegt, keine abschließenden Sätze behaupten. Ausgabe dann ausdrücklich als "Arbeitsmemo mit Live-Prüfmarkern" kennzeichnen.
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
@@ -110,13 +102,3 @@ Bei jeder Variante folgendes Schema durcharbeiten:
 | Treaty Override | [...] | § 50d Abs. 3/8/9 EStG | [Substanz/Subject-to-Tax] | [greift/greift nicht] | BMF-Schreiben |
 | Verfahren | [...] | § 50a, § 50c EStG | [Vorab/Nachher] | [Antragsweg] | BOP |
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen` — Pruefkette.
-- `stb-dba-ansaessigkeit-tie-breaker-rules` — Ansaessigkeit.
-- `stb-dba-betriebsstaette-art-5-musterabkommen` — BS.
-- `stb-dba-methodenartikel-anrechnung-vs-freistellung` — Methode.
-- `stb-dba-quellensteuer-erstattung-bzst-50c-estg` — BZSt-Verfahren.
-- `stb-dba-edge-cases-playbook` — Edge-Cases.
-- `stb-dba-quellensteuer-atlas-weltweit` — Quellensteuer drei Ebenen.
-- `stb-dba-map-eu-streitbeilegung` — bei Doppelbesteuerung.

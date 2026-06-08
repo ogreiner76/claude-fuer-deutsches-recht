@@ -5,10 +5,6 @@ description: "Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital
 
 # Verwahrstelle, Administrator und Backoffice
 
-## Arbeitsbereich
-
-Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital Calls, Reporting und Kontrollkette. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,14 +81,6 @@ NAV-Frequenz (Anlagebedingungen):
 - IPEV-Bewertungsmethodik nicht dokumentiert — BaFin-Beanstandung.
 - DORA-Vendoren-Risikobewertung fehlt seit 2025.
 
-## Querverweise
-
-- pe-004 für KAGB-Scope.
-- pe-005 für Spezial-AIF.
-- pe-008 für KVG-Auslagerung.
-- pe-013 für Capital Calls.
-- pe-014 für Waterfall-Berechnung.
-
 ## Quellen Stand 06/2026
 
 - KAGB §§ 36, 80–90, 105.
@@ -100,3 +88,4 @@ NAV-Frequenz (Anlagebedingungen):
 - IPEV Valuation Guidelines (Stand 2022 oder aktueller, vom Anwender zu prüfen).
 - DORA (VO (EU) 2022/2554, seit 17.01.2025).
 - ILPA Standardized Reporting Templates 2.1 (jeweils aktueller Stand vom Anwender zu prüfen).
+

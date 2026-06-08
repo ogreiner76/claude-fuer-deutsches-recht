@@ -5,10 +5,6 @@ description: "Rechtsabteilungs-Fachmodul für Google Ads und Keyword-Kollision: 
 
 # Rechtsabteilung: Google Ads und Keyword-Kollision
 
-## Arbeitsbereich
-
-Rechtsabteilungs-Fachmodul für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,6 +48,3 @@ Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislag
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

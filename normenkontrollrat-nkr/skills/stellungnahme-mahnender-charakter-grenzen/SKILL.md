@@ -102,17 +102,10 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe ist angemessen — Bemerku
 - Mahnungsstufe zu niedrig für wiederholten Fehler
 - Jahresberichts-Bezug ohne Belastbarkeit
 
-## Querverweise
-
-- `nkr-stellungnahme-aufbau-und-format`
-- `nkr-stellungnahme-ergebnis-und-empfehlung`
-- `nkr-stellungnahme-pressepolitik-und-jahresbericht`
-- `nkr-pruefumfang-was-prueft-der-nkr-nicht`
-- `legistik-werkstatt/spezial-opposition-risikoampel-und-gegenargumente`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4, § 6, § 7
 - §§ 45, 62 GGO
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Mustertexte mahnender Bemerkungen
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

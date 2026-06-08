@@ -5,10 +5,6 @@ description: "USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche:
 
 # USPTO Office Actions und TESS/TSDR-Recherche
 
-## Arbeitsbereich
-
-USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Prüfungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgründe), In re E.I. DuPont 476 F.2d 1357 (DuPont Factors Likelihood of Confusion). Prüfraster: Section 2(d) Verwechslungsgefahr (DuPont-Analyse), Section 2(e)(1) Merely Descriptive, Section 2(e)(4) Surname, Section 2(a) Deceptiveness. Output Office-Action-Response mit DuPont-Analyse oder Anspruchseinschraenkung. Abgrenzung: Neue USPTO-Anmeldung siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -177,10 +173,3 @@ Bevor die Response verfasst wird, klaere:
 
 > **In re Gyulay, 820 F.2d 1216 (Fed. Cir. 1987):** Ein Begriff ist im Sinne von § 2(e)(1) Lanham Act "merely descriptive", wenn er unmittelbar eine Eigenschaft oder Merkmal der angemeldeten Waren beschreibt; er muss nicht ausschliesslich beschreibend sein — es genuegt, wenn er im Zusammenhang mit den Waren eine direkte beschreibende Aussage macht.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

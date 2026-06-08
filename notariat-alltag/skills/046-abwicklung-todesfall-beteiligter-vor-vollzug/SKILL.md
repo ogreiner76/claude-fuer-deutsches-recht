@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Abwicklung Todesfall eines Beteiligten vor Vol
 
 # Notariat im Alltag: Abwicklung Todesfall eines Beteiligten vor Vollzug
 
-## Arbeitsbereich
-
-Notariat im Alltag: Abwicklung Todesfall eines Beteiligten vor Vollzug. Rechtliche Konsequenzen des Todes eines Käufers, Verkäufers oder GmbH-Gesellschafters während des laufenden Vollzugs und notarielle Schritte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -99,3 +95,4 @@ GmbH-Anteile gehen auf die Erben über (§§ 1922, 15 Abs. 1 GmbHG, sofern kein 
 - **GmbH-Gesellschafterliste** (Erbfolge-Aktualisierung)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

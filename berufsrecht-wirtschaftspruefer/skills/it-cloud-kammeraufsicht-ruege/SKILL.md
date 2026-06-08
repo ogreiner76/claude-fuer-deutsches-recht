@@ -5,10 +5,6 @@ description: "IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für 
 
 # IT, Cloud, KI und Outsourcing
 
-## Arbeitsbereich
-
-IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Berufsgeheimnis, Datenschutz, Anbieterprüfung, Logging und No-Training-Klauseln, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,12 +17,6 @@ IT, Cloud, KI und Outsourcing: vertiefter Berufsrechts-Skill für Wirtschaftspr�
 - **Normen-/Quellenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfung, EU-Abschlussprüferrecht, APAS/WPK, Unabhängigkeit, Rotation und Qualitätskontrolle.
 - **Entscheidende Weiche:** Prüfungsauftrag, Unabhängigkeit, Dokumentation, Wesentlichkeit, Berichterstattung, Aufsicht und Verteidigungslinie trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Berufsgeheimnis, Datenschutz, Anbieterprüfung, Logging und No-Training-Klauseln
 
 ## Kaltstart in fünf Schritten
 
@@ -44,16 +34,3 @@ Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen 
 - **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
 - **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.

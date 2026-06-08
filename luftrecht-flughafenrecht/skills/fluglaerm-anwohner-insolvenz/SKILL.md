@@ -5,10 +5,6 @@ description: "Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzpro
 
 # Fluglärm und Anwohner – Lärmschutzbereiche und Schallschutzansprüche
 
-## Arbeitsbereich
-
-Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Prueft FluglaermG §§ 1-9 Laermschutzbereiche Tagschutzzone 65-60 dB Nachtschutzzone 55 dB BImSchG § 41 und Schallschutzansprueche und liefert Klagebaustein und Schallschutzanspruchs-Checkliste mit Fristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,10 +54,6 @@ Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Pru
 - Planfeststellungsklage ohne Einwendung im Verfahren; Präklusion.
 - Nachtflugregelung als Planfeststellungsbestandteil angreifen statt als separate Genehmigung.
 
-## Output
-
-Schallschutzanspruchs-Checkliste mit Fristen. Klagebaustein gegen Planfeststellungsbeschluss (Lärmschutzfehler). Muster-Antrag an Flughafenbetreiber.
-
 ## Quellen
 
 - FluglärmG: https://www.gesetze-im-internet.de/fluglaermg/
@@ -88,3 +80,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

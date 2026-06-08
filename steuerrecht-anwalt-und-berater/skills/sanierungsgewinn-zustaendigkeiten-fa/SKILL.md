@@ -180,15 +180,6 @@ Mit freundlichen Grüßen
 - Großbetriebsprüfung nicht einbezogen; Doppelarbeit später.
 - Tatsächliche Verständigung ohne strategische Vorbereitung.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-bmf-2017-sanierungserlass-nachfolge`
-- `anw-verbindliche-auskunft`
-- `anw-aussenpruefung-strategien`
-- `anw-tatsaechliche-verstaendigung-schlussbesprechung`
-- `anw-einspruch-finanzamt`
-
 ## Quellen Stand 06/2026
 
 - § 88, § 89, § 90, §§ 193 ff. AO.
@@ -199,3 +190,4 @@ Mit freundlichen Grüßen
 - § 3a EStG.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

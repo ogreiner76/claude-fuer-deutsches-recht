@@ -5,10 +5,6 @@ description: "Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung; schärft Roll
 
 # Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung
 
-## Arbeitsbereich
-
-Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung; schärft Rollen, Belege, Fa
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Dieser Skill quantifiziert die Rechtsfolgen einer Subsumtion: Schadensersatz, Vertragsstrafen, gesetzliche Zinsen, Bußgelder, Streitwert, RVG-Gebühren und sonstige geldwerte Rechtsfolgen. Er gibt Berechnungsschemata und Prüfpunkte für Zahlen, die live zu verifizieren sind.
 
 ## Wichtige Schwellenwerte und gesetzliche Beträge (Stand: Modellwissen; live prüfen)
 
@@ -93,22 +85,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen und Alternativwegen.
 5. **Anschluss bauen:** Passende weitere Skills vorschlagen.
 
-## Output-Standard
-
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Berechnungstabelle:** Posten, Norm, Betrag, Annahme/Unsicherheit, Quelle.
-- **Arbeitsprodukt:** Berechnungsschema für Schriftsatz oder Mandantenbrief.
-- **Qualitätsgate:** keine Scheingenauigkeit; alle Zahlenwerte als Prüfpunkte markieren, wenn sie nicht live verifiziert sind.
-
-## Quellenregel
-
-- Aktuelle Beträge, Schwellenwerte und Gebührentabellen immer live prüfen: gesetze-im-internet.de, Bundesbank.de (Basiszinssatz), eur-lex.europa.eu (EU-Bußgelder).
-- Rechtsprechung zu Schmerzensgeld und Schadensersatz nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de).
-- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe absichern.
-- Wenn eine Quelle, Randnummer, Behördenpraxis, Frist oder Zahl nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

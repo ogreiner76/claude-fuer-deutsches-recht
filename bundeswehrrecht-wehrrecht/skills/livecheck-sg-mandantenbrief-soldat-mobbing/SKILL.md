@@ -5,10 +5,6 @@ description: "Live-Check SG, WBO, WDO, WPflG, SVG: prüft aktuellen Normstand, �
 
 # Live-Check SG, WBO, WDO, WPflG, SVG
 
-## Arbeitsbereich
-
-Live-Check SG, WBO, WDO, WPflG, SVG: prüft aktuellen Normstand, Änderungen und Verweisungen. Norm-/Quellenanker: gesetze-im-internet.de, dejure.org. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,12 +32,6 @@ Dieser Skill gibt Anleitungen, wie aktueller Normstand zu prüfen ist, und stell
 - WPflG — Wehrpflichtgesetz (aktuell i.d.F. nach Aussetzung)
 - SVG — Soldatenversorgungsgesetz
 - BBesG — Bundesbesoldungsgesetz
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -94,22 +84,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Tabelle: Wichtige Normen und ihre letzten Änderungsdaten
 - Muster: Normzitat mit Quellenverweis
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de — Amtliche Normtexte
-- https://dejure.org — Verlinkungen und Änderungshistorie
-- https://eur-lex.europa.eu — EU-Recht
-- https://www.bverwg.de
-- https://www.bverfg.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -119,3 +93,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

@@ -5,10 +5,6 @@ description: "Rechtsschutzversicherung: Ablehnung wegen fehlender Erfolgsaussich
 
 # Rechtsschutz: Erfolgsaussicht und Mutwilligkeit
 
-## Arbeitsbereich
-
-Rechtsschutzversicherung: Ablehnung wegen fehlender Erfolgsaussicht oder Mutwilligkeit angreifen, ohne das Hauptmandat zu gefährden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Rechtsschutzversicherung: Ablehnung wegen fehlender Erfolgsaussicht oder Mutwill
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Der Skill baut einen nüchternen, finanzierungsfähigen Prospekt für die RSV.
 
 ## Normenanker
 
@@ -38,17 +30,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 VVG § 128; ARB; ZPO Prozesskostenlogik analog nur vorsichtig; RVG.
 
-## Arbeitsfragen
-
-1. Welche Tatsachen und Beweise tragen den Hauptanspruch?
-2. Welche Gegenargumente sind ernsthaft, welche nur vorgeschoben?
-3. Ist Kosten-Nutzen-Verhältnis mutwillig oder wirtschaftlich plausibel?
-4. Kann ein Teilrechtsschutz sinnvoll sein?
-
-## Output
-
-Erfolgsaussichtsmemo, Mutwilligkeitsabwehr, Teildeckungsantrag und Mandantenrisiko.
-
 ## Red Flags
 
 - Hauptsache zu optimistisch dargestellt
@@ -61,6 +42,3 @@ Erfolgsaussichtsmemo, Mutwilligkeitsabwehr, Teildeckungsantrag und Mandantenrisi
 - rechtsschutz-deckungszusage-stichentscheid
 - vergleich-abfindung-entschaedigungsquittung
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren; sonst nur als Prüfpunkt formulieren.

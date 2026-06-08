@@ -17,12 +17,6 @@ Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; G
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Cloud-Tools wie Claude Cowork, Microsoft Office 365 oder Google Workspace sind aus dem juristischen Drafting nicht mehr wegzudenken. Sie ermöglichen schnelle Zusammenarbeit, Versionierung, KI-Unterstützung. Sie sind aber zugleich der häufigste Angriffsvektor auf das Mandantengeheimnis. Dieser Skill klärt den rechtlichen Rahmen und liefert eine praktische Vorgehensweise für sicheres Drafting in der Cloud.
-
-Er ist nicht nur Datenschutzbelehrung. Er gibt konkrete Drafting-Empfehlungen: Welche Daten dürfen in welcher Phase in welches Tool. Wann pseudonymisieren. Wann erst nach Abschluss des Drafts die Mandantendaten einfügen.
-
 ## Eingaben
 
 - Genutzte Cloud-Tools in Ihrer Kanzlei
@@ -90,13 +84,6 @@ Adressen -> "Anschrift M" / "Anschrift G"
 - **Drittlandübermittlung übersehen.** Bei US-Cloud-Anbietern Schrems-II-Aspekte und Standardvertragsklauseln prüfen.
 - **Bring-your-own-Device ohne Mobile Device Management.** Mandantendaten auf privaten Geräten ohne kontrollierten Trennungslogik.
 
-## Ausgabeformat
-
-- Sensitivitäts-Einschätzung für das konkrete Mandat.
-- Empfehlung der Tool-Wahl pro Drafting-Phase.
-- Pseudonymisierungsplan für Entwurfsphase.
-- Checkliste vor Versand: Klarnamen ersetzt? Zwei-Faktor aktiv? Cowork-Berechtigungen aktuell?
-
 ## Beispiele
 
 ### Beispiel Cowork-Konzept für Vertragsdraft
@@ -123,13 +110,6 @@ Phase 4 (Versand an Gegenseite):
 
 Ein Anwalt schickt einen NDA-Entwurf für einen prominenten Mandanten über sein privates Gmail-Konto an einen externen Steuerberater. Folge: Verstoß gegen § 203 StGB (kein zulässiges Outsourcing nach § 203 Abs. 3 StGB), § 43a BRAO und Art. 32 DSGVO. Strafrechtliches Risiko, berufsrechtliche Maßnahme, Meldepflicht nach Art. 33, 34 DSGVO.
 
-## Querverweise
-
-- `word-dokument-finish-und-layout` für sichere Versandhygiene vor Upload oder Versand
-- `revisions-prozess-redlines-comparison` für Versionsführung
-- `orientierung-drafting-triage` für die Anfangsbewertung der Risikolage
-- `geheimhaltung-nda-vertraulichkeit` für NDA-Klauseln, die das selbe Schutzgut adressieren
-
 ## Quellen (Stand 05/2026)
 
 - § 43a Abs. 2 BRAO; § 203 Abs. 1 Nr. 3, Abs. 3 und Abs. 4 StGB; § 26 BORA; gesetze-im-internet.de und brak.de.
@@ -137,3 +117,4 @@ Ein Anwalt schickt einen NDA-Entwurf für einen prominenten Mandanten über sein
 - Empfehlungen der Bundesrechtsanwaltskammer zur Cloud-Nutzung: vom Nutzer zu prüfen, brak.de.
 - Schrems-II-Urteil EuGH und Folgepraxis: vom Nutzer zu verifizieren (EuGH, Urt. v. 16. Juli 2020, Rs. C-311/18).
 - `references/zitierweise.md` für Belegpflicht.
+

@@ -5,9 +5,6 @@ description: "Fazugang Arbeitnehmerverteidigung Schriftform im Plugin Fachanwalt
 
 # Fazugang Arbeitnehmerverteidigung Schriftform
 
-## Arbeitsbereich
-
-**Fazugang Arbeitnehmerverteidigung Schriftform** ordnet den Fall über die tragenden Prüfungslinien: Arbeitnehmerverteidigung, Schriftform Kündigung § 623 BGB, Einschreiben. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Fazugang Arbeitnehmerverteidigung Schriftform im Plugin Fachanwalt
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne`
@@ -38,9 +36,6 @@ description: "Fazugang Arbeitnehmerverteidigung Schriftform im Plugin Fachanwalt
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Verteidigungsstrategie für den Arbeitnehmer bei streitigem Zugangsdatum — ausschließlich mit wahrheitsgemäßen Einwänden. Dieser Skill betont, dass die Verteidigung auf Fakten beruhen muss und erklärt, wo echte rechtliche Spielräume liegen.
 
 ## Einstieg
 Wenn ein Sachverhalt vorliegt, zuerst klären:
@@ -124,11 +119,6 @@ Der Anwalt ist verpflichtet, den Mandanten über die Wahrheitspflicht im Prozess
 - `fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangebot` für Inhaltsbestreiten
 - `fachanwalt-arbeitsrecht-kuendigungsschutzklage` für Klageschrift
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Keine modellwissensbasierten Urteile ohne Verifikation.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu falschen Tatsachenbehauptungen.
 - Keine Prognose über das Ergebnis der Beweiswürdigung im konkreten Einzelfall.
@@ -146,9 +136,6 @@ Der Anwalt ist verpflichtet, den Mandanten über die Wahrheitspflicht im Prozess
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vollständige Prüfung des Schriftformerfordernisses nach § 623 BGB bei der Kündigung. Häufig verkannte Fehlerquelle: Arbeitgeber versenden Kündigungen per E-Mail, WhatsApp oder als eingescannte PDF — alles unwirksam.
 
 ## Einstieg
 Wenn eine Kündigung vorliegt, sofort prüfen:
@@ -241,12 +228,6 @@ Eine nichtige Kündigung kann nicht geheilt werden. Der Arbeitgeber muss eine ne
 - `ar-kuendigungspruefung-workflow` für vollständige Kündigungsprüfung
 - `spezial-fao-fristen-form-und-zuständigkeit` für Verfahrensfragen
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Fax-Streitstand: aktuelle BAG-Linie live prüfen.
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine individuelle Prognose über Zurückweisungsrecht bei konkretem Fall ohne vollständige Sachverhaltskenntnis.
 - Keine Aussage zu internationalen Schriftformerfordernissen.
@@ -273,10 +254,3 @@ Dieser Fachmodul ist für die anwaltliche Praxis gedacht. Er beginnt nicht mit A
 
 BGB § 130; KSchG § 4; ZPO Zeugenbeweis. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle genannt; bei unsicherem Stand wird ausdrücklich ein Live-Check verlangt.
 
-## Arbeitsfragen
-
-1. Was ist das konkrete Ziel und welche Frist läuft?
-2. Welche Urkunde, Mail, Zustellung, Berechnung oder Aussage belegt den entscheidenden Punkt?
-3. Welche typische Gegenposition ist zu erwarten?
-4. Welche prozessuale Form ist richtig: Schreiben, Antrag, Klage, Eilantrag, Vergleich, Red-Team?
-5. Welche Formulierung vermeidet unnötige Zugeständnisse und hält den Fall offen?

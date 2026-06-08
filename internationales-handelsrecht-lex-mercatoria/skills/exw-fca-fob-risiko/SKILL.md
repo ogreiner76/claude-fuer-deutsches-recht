@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Risikoübergang bei EXW, FCA und FOB
 
 # EXW, FCA, FOB: Risikoübergang und Pflichten
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Risikoübergang bei EXW, FCA und FOB nach Incoterms 2020. Gefahrübergang am Abgangsort, Pflichten des Verkäufers und Käufers, Exportkontrollproblem bei EXW und Containereignung von FCA vs. FOB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ EXW (Ex Works), FCA (Free Carrier) und FOB (Free on Board) sind Abgangsklauseln:
 - EXW: Exportkontrolle explizit im Vertrag regeln
 - Konnossement-Abrede: immer in Sales-Contract und Letter of Credit abstimmen
 
-## Output
-
-- Risikomatrix: EXW / FCA / FOB — Gefahrübergang, Kostentragung, Dokumentenpflicht
-- Klauselcheck: EXW vs. FCA für exportkontrollierte Güter
-- FCA-Konnossementsabrede-Formulierung
-
-## Quellenregel
-
-Incoterms 2020: iccwbo.org. CISG Art. 67-69: uncitral.un.org. Schrifttum: Ramberg, ICC Guide to Incoterms 2020; Piltz, Internationales Kaufrecht § 5. Unsicherheit bleibt sichtbar.

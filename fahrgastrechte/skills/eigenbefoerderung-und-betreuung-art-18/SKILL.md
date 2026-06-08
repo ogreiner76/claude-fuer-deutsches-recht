@@ -5,10 +5,6 @@ description: "Pruefraster für Selbstbefoerderung des Fahrgasts (Art. 18 Abs. 3 
 
 # Eigenbeförderung und Betreuung (Art. 18, 20 VO; § 11 EVO)
 
-## Zweck
-
-Klärt, ob der Fahrgast Anspruch auf Erstattung selbst getragener Kosten hat, wenn die DB bei Verspätung / Ausfall keine zumutbare Alternative angeboten oder Hilfeleistung verweigert hat. Bezieht sowohl die EU-VO-Standards (Art. 18, 20) als auch die deutschen Zusatzrechte im SPNV (§ 11 EVO) ein.
-
 ## Drei Anspruchsgrundlagen
 
 ### 1. Eigenbeförderung (Art. 18 Abs. 3 Unterabs. 2 VO 2021/782)
@@ -155,6 +151,3 @@ Gesamtforderung Fahrgastrechte:
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

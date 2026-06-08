@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Notverordnungen und Demokratiekrise 193
 
 # Notverordnung und Demokratiekrise (1930-1933)
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Notverordnungen und Demokratiekrise 1930-1933. Art. 48 WRV in der Praxis, Praesidialkabinette Bruening, Papen, Schleicher, Notverordnungsflut und legaler Weg zur NS-Machtergreifung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Die Praesidialkabinette 1930-1933 regierten Deutschland faktisch per Notverordnu
 - Schmitt Politische Theologie (1922): historische Erstausgabe, Seite angeben
 - Reichstagsprotokolle 1930-1933: reichstagsprotokolle.de
 
-## Output
-
-- Statistik Notverordnungen 1930-1933 mit Gegenuebersteltlung parlamentarischer Gesetzgebung
-- Art. 48 WRV: Voraussetzungen und tatsaechliche Anwendung
-- Ermächtigungsgesetz: Parlamentsabstimmung, Ergebnis, formale Verfassungsmaessigkeit
-
-## Quellenregel
-
-Notverordnungen: RGBl. I 1930-1933 via ALEX/OeNB. Ermächtigungsgesetz: documentArchiv.de und ALEX/OeNB. Reichstagsprotokolle: reichstagsprotokolle.de. Schmitt-Texte: Erstausgaben mit Seitenangabe.

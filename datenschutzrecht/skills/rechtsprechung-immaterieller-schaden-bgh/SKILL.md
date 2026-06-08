@@ -30,10 +30,6 @@ Nicht aus Modellwissen; jede zitierte Entscheidung vor Ausgabe über bundesgeric
 
 Art. 82 DSGVO; § 253 Abs. 2 BGB; EuGH C-300/21; C-687/21; C-456/22.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Übersichtsraster
 
 Spalte 1: Aktenzeichen und Gericht; Spalte 2: Datum; Spalte 3: Sachverhaltstyp; Spalte 4: Schadenshöhe zugesprochen; Spalte 5: tragende Argumente; Spalte 6: Quelle.
@@ -48,3 +44,4 @@ Verifikationsschritt: vor jeder Zitation prüfen — wegen Quellenregel keine Zi
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-schadensersatz-art-82` deckt die konkrete Verteidigung ab.
+

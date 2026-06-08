@@ -5,9 +5,6 @@ description: "Presse Gegendarstellung Schiedsstelle Dpma im Plugin Fachanwalt Ur
 
 # Presse Gegendarstellung Schiedsstelle Dpma
 
-## Arbeitsbereich
-
-**Presse Gegendarstellung Schiedsstelle Dpma** ordnet den Fall über die tragenden Prüfungslinien: Gegendarstellungsanspruch in der Presse prüfen und, Schiedsstellenverfahren beim DPMA nach VGG einleiten oder, Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Presse Gegendarstellung Schiedsstelle Dpma im Plugin Fachanwalt Ur
 - Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-urheber-medienrecht-presse-gegendarstellung`
@@ -139,10 +137,6 @@ Halluzinations-Reparatur Bundle 026:
 
 ### Schiedsstelle DPMA / VGG — Urheber-/Medienrecht
 
-## Zweck
-
-Streit zwischen Verwertungsgesellschaften (GEMA, VG Wort, VG Bild-Kunst, GVL) und Nutzern (Veranstalter, Verlage, Sender) wird über die **Schiedsstelle beim DPMA** entschieden — VGG §§ 92-126. Pflicht-Vorverfahren vor Klage.
-
 ## Eingaben
 
 - Mandantenrolle (Nutzer, Urheber, VG)
@@ -232,12 +226,6 @@ Streit zwischen Verwertungsgesellschaften (GEMA, VG Wort, VG Bild-Kunst, GVL) un
 - **GVR-Verhandlung** verbandlich oft günstiger als Einzel-Verhandlung
 - **Plattform-Streit**: DSM-RL Art. 17 Übergangs-Themen
 - **Lizenz-Audit**: vorsichtig, DSGVO-Konflikt
-
-## Querverweise
-
-- `fachanwalt-urheber-medienrecht-orientierung` — Triage
-- `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — Lizenz
-- `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` — KI-Training
 
 ## Zentrale Rechtsprechung
 
@@ -573,3 +561,4 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 - **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live ueber dejure.org und openjur.de verifizieren.
 - **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live ueber nationale Gerichtsdatenbanken und curia.europa.eu pruefen.
 - **DSA + Empfehlungssysteme:** Falls KI-generierte Inhalte ueber VLOPs verbreitet werden, parallele DSA-Pflichten beachten (Art. 28 Abs. 2 DSA — Minderjaehrigenschutz, Art. 34 DSA — Risikobewertung).
+

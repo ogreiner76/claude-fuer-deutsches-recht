@@ -5,10 +5,6 @@ description: "Prüft die Delkredere-Haftung des Handelsvertreters nach § 86b HG
 
 # Delkredere-Haftung des Handelsvertreters nach § 86b HGB
 
-## Arbeitsbereich
-
-Prüft die Delkredere-Haftung des Handelsvertreters nach § 86b HGB: Voraussetzungen einer wirksamen Delkrederehaftung, gesonderte Vergütung (Delkredereprovision), Haftungsumfang und -begrenzung, Formvorschriften sowie Abgrenzung von bloßer Inkassovollmacht und echter Ausfallhaftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Forderungsausfall nicht rechtzeitig mitgeteilt — Haftungsanspruch verjährt oder verwirkt.
 - Delkredere mit Bürgschaft verwechselt — unterschiedliche Formvorschriften und Rechtsfolgen.
 
-## Output
-
-Delkredere-Prüfvermerk, Provisionsberechnung Delkredere-Vergütung, Muster Delkrederehaftung-Klausel.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 765 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__765.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 86b HGB](https://dejure.org/gesetze/HGB/86b.html)
+

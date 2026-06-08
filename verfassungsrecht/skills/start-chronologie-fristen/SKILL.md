@@ -5,10 +5,6 @@ description: "Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin
 
 # Verfassungsrecht — Allgemein
 
-## Arbeitsbereich
-
-Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,15 +12,6 @@ Einstieg, Schnelltriage und Fallrouting im Verfassungsrecht-Plugin. Fragt Rolle,
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
 
 ## Schnellstart-Workflow
 
@@ -215,12 +202,6 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 - Gesetzgebungskompetenz wird nur für den Bund geprueft ohne Sperrwirkung und Abweichungsgesetzgebung zu beachten.
 - BVerfG-Judikatur aus den 1990er Jahren wird ohne Ueberpruefung auf Weitergeltung angewendet; Rechtsprechung kann sich geaendert haben.
 
-## Querverweise
-
-- `jurastudium` — Fuer Studierende die Verfassungsrecht für das Staatsexamen ueben wollen.
-- `subsumtions-pruefer` — Fuer die mechanische Subsumtion einzelner Verfassungsrechtsnormen im Vier-Schritt.
-- `gesellschaftsrecht` — Wenn Verfassungsrecht im Kontext von Unternehmensrecht (z.B. Berufsfreiheit Art. 12 GG) relevant wird.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
@@ -234,3 +215,4 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 - BVerfG, Beschl. v. 07.08.2025 — 1 BvR 180/23 (Trojaner II, Quellen-TKÜ / Online-Durchsuchung StPO) — strafprozessuale Quellen-TKÜ für Taten mit niedrigem Strafrahmen teilweise nichtig — Pinpoint vor Verwendung [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de) verifizieren.
 - BVerfG, Klimabeschluss vom 24.03.2021 — 1 BvR 2656/18 u. a. — intertemporale Freiheitssicherung — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html).
 - BVerfG, Jahresbericht 2025 — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/Jahresbericht/jahresbericht_2025.pdf).
+

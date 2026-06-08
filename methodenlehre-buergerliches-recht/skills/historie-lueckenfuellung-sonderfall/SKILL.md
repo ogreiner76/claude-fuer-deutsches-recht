@@ -5,9 +5,6 @@ description: "Historie Lueckenfuellung Sonderfall im Plugin Methodenlehre Buerge
 
 # Historie Lueckenfuellung Sonderfall
 
-## Arbeitsbereich
-
-**Historie Lueckenfuellung Sonderfall** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill strukturiert die historische und, Dieses Skill behandelt die methodische Lückenfüllung im, Dieses Skill leitet die methodische Erstprüfung eines neuen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Historie Lueckenfuellung Sonderfall im Plugin Methodenlehre Buerge
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-historie-compliance-dokumentation-und-akte`
@@ -82,10 +80,6 @@ Die historisch-genetische Auslegungsmethode setzt voraus, dass Vertragsentstehun
 - Aufbewahrungsfristen enden, bevor erkannt wird, dass die Dokumente noch rechtsrelevant sind.
 - Digitale Dokumente werden ohne Metadaten gespeichert, was ihre zeitliche Einordnung und Authentizität schwächt.
 - Mündliche Verhandlungsergebnisse werden nicht protokolliert, was ihre spätere Beweisbarkeit ausschließt.
-
-## Output
-
-Das Skill liefert eine strukturierte Aktenübersicht mit Dokumentenklassifizierung, Aufbewahrungsfristen und einer historischen Vertragschronologie. Ergänzt wird ein Auslegungsprotokoll, das aus der historischen Dokumentation Argumente für die Interpretation streitiger Klauseln ableitet. Geeignet für Due Diligence, Prozessvorbereitung und interne Compliance-Prüfung.
 
 ## Quellen
 
@@ -175,10 +169,6 @@ Das Gesetz kann nicht alle denkbaren Sachverhalte regeln. Sonderfälle und Grenz
 - Das Analogieergebnis widerspricht dem Telos der Leitvorschrift, ohne dass dies begründet wird.
 - Bereicherungsrechtliche Lösungen werden übersehen, obwohl sie für atypische Sachverhalte besser passen.
 
-## Output
-
-Das Skill liefert ein strukturiertes Lückenfüllungsgutachten: Identifikation der Regelungslücke, Analogieprüfung mit Vergleichbarkeitsprüfung, Anwendung der gewählten Methode und Risikobewertung des Ergebnisses. Geeignet für anwaltliche Beratung bei Grenzfällen, für Klageentwürfe und für Gutachten in ungesicherten Rechtsfragen.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -265,10 +255,6 @@ Die erste methodische Weichenstellung eines Mandats entscheidet über Effizienz 
 - Fristen werden bei der Erstprüfung nicht geprüft, sodass sofortiger Handlungsbedarf übersehen wird.
 - Die Erstprüfung konzentriert sich auf eine offensichtliche Anspruchsgrundlage und übersieht günstigere Alternativen.
 - Das Erstprotokoll wird nicht dokumentiert, was bei späteren Meinungsverschiedenheiten keine Grundlage bietet.
-
-## Output
-
-Das Skill liefert ein strukturiertes Erstprotokoll: Sachverhaltserfassung, provisorische Rechtsfrage, Mandatsziel, Rangfolge der Anspruchsgrundlagen, sofortiger Handlungsbedarf und nächste Bearbeitungsschritte. Das Dokument bildet die Grundlage für das gesamte Mandat und sichert die methodische Kohärenz von Anfang an.
 
 ## Quellen
 
@@ -358,10 +344,6 @@ Sachverhalte mit internationalem Bezug stellen Anwälte vor methodische Zusatzan
 - Internationale Gerichtsstandsvereinbarungen werden vereinbart, ohne die Vollstreckbarkeit von Urteilen im Zielland zu prüfen.
 - Der Verbrauchergerichtsstand nach Brüssel Ia wird bei Online-Verträgen nicht beachtet.
 
-## Output
-
-Das Skill liefert einen strukturierten Schnittstellen-Check: Identifikation des internationalen Anknüpfungspunkts, Kollisionsrechtsprüfung mit Ergebnis, Empfehlung zur Vertragsgestaltung (Rechtswahl, Gerichtsstand, Schiedsklausel) und Risikohinweise zur Vollstreckbarkeit. Geeignet als Bestandteil von Vertragsreviews und internationalen Mandaten.
-
 ## Quellen
 
 - [Rom-I-Verordnung auf eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32008R0593)
@@ -450,10 +432,6 @@ Rechtliche Argumentation ohne Beweisfundament ist im Prozess wertlos. Dieses Ski
 - Beweismittel werden nicht rechtzeitig gesichert (Zeugen nicht sofort vernommen, Belege nicht archiviert).
 - Darlegungsanforderungen werden nicht vollständig erfüllt, was zu einem prozessualen Nichtbeachten führt.
 
-## Output
-
-Das Skill liefert eine tatbestandsbasierte Beweismatrix: Anspruchsgrundlage, Tatbestandsmerkmale, Beweislast, vorhandene Beweismittel, fehlende Beweismittel und Maßnahmenplan. Das Ergebnis ist direkt schriftsatzfähig und dient als Grundlage für Klagebegründung, Erwiderung und Beweisantritte.
-
 ## Quellen
 
 - [§ 634 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__634.html)
@@ -484,3 +462,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

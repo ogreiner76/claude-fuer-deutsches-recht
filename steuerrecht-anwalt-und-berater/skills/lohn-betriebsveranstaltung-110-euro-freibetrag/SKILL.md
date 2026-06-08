@@ -5,10 +5,6 @@ description: "Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. A
 
 # Betriebsveranstaltung — 110-EUR-Freibetrag § 19 Abs. 1 Nr. 1a EStG
 
-## Arbeitsbereich
-
-Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. Anwendungsfall Firmenfeier Sommerfest Weihnachtsfeier Kostenkalkulation 110 EUR pro AN Pauschalierung. Methodik Berechnung Prüfung Belege. Output Lohn-Abrechnung mit Betriebsveranstaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,12 +111,6 @@ Gesamtkosten / Anzahl tatsaechlicher Teilnehmer = AN-Anteil
 - Teilnehmerliste mit AN-Namen und Begleitpersonen.
 - DATEV LODAS: Sachbezug-Lohnart "Betriebsveranstaltung" mit Pauschalbesteuerung.
 
-## Output
-
-- Kostenkalkulation der Veranstaltung.
-- Teilnehmerliste.
-- Lohn-Abrechnung mit Pauschalbesteuerung.
-
 ## Strategie und Praxis-Tipps
 
 - 110 EUR Freibetrag pro AN und pro Veranstaltung — bei 2 Veranstaltungen pro Jahr 220 EUR.
@@ -130,12 +120,6 @@ Gesamtkosten / Anzahl tatsaechlicher Teilnehmer = AN-Anteil
 - Geschenke an AN auf der Veranstaltung sind eingerechnet — Aufmerksamkeit 60 EUR pruefen.
 - StBVV: Sonderlohn-Berechnung; bei groesseren Veranstaltungen Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Betriebsveranstaltungs-Modul mit automatischer Pauschalierung.
-
-## Querverweise
-
-- `stb-lohn-sachbezuege-50-euro-freigrenze` — Sachbezug.
-- `stb-lohn-betriebsausfluege-aufmerksamkeiten-60-euro` — Aufmerksamkeit.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
 
 ## Quellen und Updates
 
@@ -150,10 +134,3 @@ Stand: 05/2026.
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BMF-Datum 14.10.2015 und GZ recherchiert), 1 ersetzt (Pruefhinweis ohne Marker) -->
 <!-- UPDATE 29.05.2026 | BFH VI R 5/22 (27.03.2024) und Steueraenderungsgesetz 2025 ergaenzt -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

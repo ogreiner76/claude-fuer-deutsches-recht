@@ -5,10 +5,6 @@ description: "Halluzinationen von KI in juristischer Arbeit erkennen und Prozess
 
 # Halluzinations-Handhabung
 
-## Arbeitsbereich
-
-Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einfliessen. OLG Koblenz Haftung Halluzination, AG Köln 02.07.2025, § 43 BRAO Sorgfaltspflicht. Prüfraster Pflicht zur Quellenverifizierung jedes KI-Zitats, Vier-Augen-Prinzip für Schriftsaetze, Dokumentation der Prüfung. Output Prüfprotokoll-Vorlage für KI-Zitate mit Verifikations-Checkliste. Abgrenzung zu Prompting-Leitfaden und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,17 +20,6 @@ Das sogenannte "Halluzinieren" von KI-Systemen — die Erzeugung von nicht exist
 ## Rechtlicher Hintergrund
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Vorgehen
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-1. **Quellenprüfung als Standard-Schritt**: In den Arbeitsablauf für jeden Schriftsatz und jede Beratung als festen Schritt integrieren: Jedes KI-generierte Zitat wird vor der Verwendung in der Originalquelle nachgeschlagen.
-2. **Primärquellen nutzen**: Gerichtsentscheidungen aus offiziellen Portalen (z.B. openjur, Bundesgerichtshof-Website, ECLI-Suche), Gesetze aus dem Bundesgesetzblatt oder gesetze-im-internet.de.
-3. **Dokumentation der Prüfung**: Im Arbeitsvermerk oder in der Akte festhalten, welche Fundstellen KI-generiert waren und wie die Verifikation erfolgte (Prüfer, Datum, Quelle).
-4. **Vier-Augen-Prinzip bei kritischen Schriftsätzen**: Schriftsätze, die auf KI-generierte Fundstellen gestützt werden, sollten von einer zweiten Person vor Einreichung geprüft werden.
-5. **Schulung zu Halluzinationsmustern**: Mitarbeitende müssen typische Muster erkennen lernen: besonders eloquente Formulierungen, genaue Randnummernangaben, unbekannte Senate oder Spruchkörper können Warnsignale sein.
-6. **Konsequenz bei Auffinden einer Halluzination**: Gesamtes KI-generiertes Dokument erneut vollständig prüfen; keine selektive Verifikation.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -113,3 +98,4 @@ Geprueft von: [ZWEITE PERSON]
 Datum: [DATUM]
 Freigabe für Versand: [JA / NEIN — Korrekturbedarf: BESCHREIBUNG]
 ```
+

@@ -5,10 +5,6 @@ description: "Zeilenprompts Definieren im Plugin Tabellenreview 3D im Tabellenre
 
 # Zeilenprompts Definieren
 
-## Arbeitsbereich
-
-**Zeilenprompts Definieren** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Zeilenprompts Definieren im Plugin Tabellenreview 3D im Tabellenre
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zeilenprompts-definieren`
@@ -40,10 +37,6 @@ description: "Zeilenprompts Definieren im Plugin Tabellenreview 3D im Tabellenre
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zweck
-
-Spaltenprompts machen alle Dokumente vergleichbar. Zeilenprompts erlauben genau die Sonderbehandlung dort wo ein Dokument abweicht. Der Würfel bleibt strukturiert aber die Genauigkeit pro Dokument steigt.
 
 ## Typische Zeilenprompt-Muster
 
@@ -103,3 +96,4 @@ Wenn die meisten Zeilen einen ähnlichen Zeilenprompt brauchen ist das ein Hinwe
 <!-- AUDIT 27.05.2026 -->
 - Geprüft: 27.05.2026 (Halluzinations-Reparatur, Task 234)
 - Frontmatter unveraendert. Keine Komma-Zahlen eingefuehrt. Kein Kyrillisch vorhanden.
+

@@ -5,10 +5,6 @@ description: "Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und ERP-Import
 
 # Bautagebuch und ERP-Import in der Bauueberwachung LPH 8
 
-## Arbeitsbereich
-
-Methodikskill HOAI LPH 8 — Bautagebuch-Erstellung und ERP-Import-Workflow. Umfasst Pflichtinhalte Bautagebuch nach HOAI § 34 LPH 8 und BGH-Rechtsprechung, digitale Bautagesbuecher in Nevaris, RIB iTWO und PlanRadar, automatischer Wetter-DWD-API-Import, SAP PS Netzplan-Fortschrittsbuchung aus Bautagebuch, Export-Schnittstellen zu SAP S/4HANA Enterprise Asset Management und Revit BIM360 sowie rechtssichere elektronische Signatur nach eIDAS. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Das Bautagebuch ist das wichtigste Dokument der Bauueberwachung: Es beweist Witt
 - SAP PS Import-Fehler nicht bemerkt: Fortschritt falsch gebucht, Meilenstein fehlerhaft gesetzt, Zahlungsfreigabe blockiert
 - Fehlende eIDAS-Signatur: Digitales Bautagebuch ohne qualifizierte Signatur nicht rechtssicher, papierhaft gleichwertig besser
 
-## Output
-
-Bautagebuch-Archive taeglich mit eIDAS-Signatur revisionssicher. SAP PS Fortschrittsbericht monatlich. Behinderungsanzeigen vollstaendig nach VOB/B § 6. DWD-Wetterdaten-Archiv je Bauphase. SAP PM Meldungen bei Behinderungen. Abschlagsrechnungs-Freigabe-Dokumentation SAP FI.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Bautagebuch-Archive taeglich mit eIDAS-Signatur revisionssicher. SAP PS Fortschr
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [eIDAS EU 910/2014](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0910)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
+

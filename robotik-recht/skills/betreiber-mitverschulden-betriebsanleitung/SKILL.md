@@ -5,10 +5,6 @@ description: "Prüft Betreiber-Mitverschulden: missachtete Anleitung, fehlende W
 
 # Betreiber-Mitverschulden und Fehlbedienung
 
-## Arbeitsbereich
-
-Prüft Betreiber-Mitverschulden: missachtete Anleitung, fehlende Wartung, Umgehung von Schutzfunktionen, Schulungslücken und Logspuren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -89,12 +85,6 @@ Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich da
 - **"Vernünftigerweise vorhersehbare Fehlanwendung"** unterschätzt im Hersteller-Risikomanagement.
 - **§ 130 OWiG-Verantwortlicher** nicht benannt – Betreiberorganisation angreifbar.
 
-## Querverweise
-
-- `deliktische-haftung-paragraph-823-bgb`
-- `beweislast-und-offenlegung-produkthaftung`
-- `arbeitsschutz-betrsichv-robotik`
-
 ## Quellen Stand 06/2026
 
 - § 254 BGB; § 823 BGB; § 278 BGB.
@@ -104,3 +94,4 @@ Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich da
 - VO (EU) 2024/1689 (KI-VO), Art. 9.
 - ArbSchG; BetrSichV; § 130 OWiG.
 - Live-Verifikation auf eur-lex.europa.eu, bundesgerichtshof.de, dejure.org; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

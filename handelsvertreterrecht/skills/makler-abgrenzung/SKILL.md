@@ -5,10 +5,6 @@ description: "Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 6
 
 # Abgrenzung Handelsvertreter vom Makler nach §§ 84 HGB und 652 BGB
 
-## Arbeitsbereich
-
-Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Handelsvertreterrechts auf Makleragenturen sowie Ausgleichsanspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 - Ausgleichsanspruch nach § 89b HGB bei Maklervertrag geltend gemacht — abgewiesen.
 - Zulassungspflichten nach § 34c GewO nicht erfüllt.
 
-## Output
-
-Qualifikationsgutachten Makler vs. Handelsvertreter, Ausgleichsprüfung, Vertragsanalyse.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [§ 34c GewO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gewo/__34c.html)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
+

@@ -158,13 +158,7 @@ Mit Vollstreckungs-Schutzantrag (§ 765a ZPO) oder Vollstreckungs-Gegenklage (§
 - "Konto-Pfaendung ohne P-Konto." → Sofort umwandeln.
 - "Vollstreckung kann nicht gestoppt werden." → § 765a oder § 767 ZPO.
 
-## Querverweise
-
-- `urteil-rechtskraft-705-zpo` — Urteil.
-- `berufung-amtsgericht-511-zpo` — Berufung pruefen.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH für Vollstreckungs-Gegenklage.
-- `zwangsvollstreckung-querverweis-substitutionsagent` — Substitutionsagent.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 765a, 767, 850 ff. ZPO unveraendert. Pfaendungs-Freigrenzen-Tabelle verifizieren ueber justiz.de.
+

@@ -5,10 +5,6 @@ description: "Löst Konflikte mit dem Betriebsrat während einer Internal Invest
 
 # Betriebsrats-Konflikte in Internal Investigations
 
-## Arbeitsbereich
-
-Löst Konflikte mit dem Betriebsrat während einer Internal Investigation – Mitbestimmungsstreit, Einigungsstelle, einstweiliger Rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ Dieser Skill löst konkrete Betriebsrats-Konflikte und sichert die Fortführung 
 - **Kooperationsstrategie-Memo** für konstruktive Einbindung
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

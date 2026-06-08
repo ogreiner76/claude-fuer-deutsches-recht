@@ -9,12 +9,6 @@ description: "Verbindet Liquiditätsvorschau, GuV-Planung und Planbilanz zu eine
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
 - **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
 
-## Aufgabe
-
-Dieser Skill hebt eine Liquiditätsvorschau auf Sanierungskonzept-Niveau. Er prüft nicht nur, ob in den nächsten Wochen Geld reicht, sondern ob Maßnahmen, Ergebnisplanung, Bilanzplanung und Liquiditätsplanung zusammen ein konsistentes Bild ergeben.
-
-Nutze ihn, wenn ein Unternehmen, eine Bank, ein Insolvenzverwalter, ein Sachwalter, ein Restrukturierungsberater oder ein Gericht nicht nur einen Cash-Forecast, sondern eine tragfähige Sanierungsplanung braucht.
-
 ## Wann starten?
 
 - 13-Wochen-Plan ist erstellt, aber Bank verlangt Sanierungskonzept.
@@ -123,6 +117,3 @@ Liefer standardmäßig:
 - Gesellschafter- oder Bankbeitrag ist nicht verbindlich.
 - Kleine Unternehmen werden zu grob geplant, obwohl einzelne Großkunden oder Schlüsselpersonen das Risiko treiben.
 
-## Quellenregel
-
-Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben. Berufsständische Standards als methodischen Maßstab verwenden, nicht als Zitierersatz.

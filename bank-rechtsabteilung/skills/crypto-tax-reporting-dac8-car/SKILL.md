@@ -5,10 +5,6 @@ description: "Krypto-Steuerreporting, DAC8 und CARF als Bank-Monitoring prüfen:
 
 # Krypto-Steuerreporting DAC8
 
-## Arbeitsbereich
-
-Krypto-Steuerreporting, DAC8 und CARF als Bank-Monitoring prüfen: Datenfelder, Meldepflichtige, CASP-Schnittstelle, Kundenkommunikation, Datenschutz und Roadmap. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,12 +17,6 @@ Krypto-Steuerreporting, DAC8 und CARF als Bank-Monitoring prüfen: Datenfelder, 
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Bearbeite diesen Spezialfall aus Sicht einer Bank-Rechtsabteilung. Das Ergebnis muss intern verwendbar sein: als Legal Note, Vorstandsvorlage, BaFin-Fragenpaket, Produktfreigabe, Vertragscheck, Red-Team-Vermerk oder Umsetzungs-Backlog.
-
-**Wann nutzen:** Bank oder CASP muss Krypto-Reporting-Themen beobachten oder Projektvorbereitung für Steuerdaten starten.
 
 ## Schnellmodus
 
@@ -107,3 +97,4 @@ Vor Ausgabe prüfen:
 - Gibt es eine konkrete Unterlagenliste?
 - Ist die Bankentscheidung dokumentationsfest?
 - Sind keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate enthalten?
+

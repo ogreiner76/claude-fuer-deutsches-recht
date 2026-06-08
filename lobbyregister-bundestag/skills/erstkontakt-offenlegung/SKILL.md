@@ -5,10 +5,6 @@ description: "Formuliert Offenlegung beim erstmaligen Kontakt: Identität, Anlie
 
 # Erstkontakt Offenlegung
 
-## Arbeitsbereich
-
-Formuliert Offenlegung beim erstmaligen Kontakt: Identität, Anliegen, Auftraggeber, Registereintrag und Verhaltenskodizes. Output Kontaktbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Formuliert Offenlegung beim erstmaligen Kontakt: Identität, Anliegen, Auftragge
 - Tragende Normen verifizieren: LobbyRG §§ 1, 2, 3, 5, 6, 7, 8 (i.d.F. Reform 2024), Verhaltenskodex Lobbyregister, GOBT, BGleiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lobbyregistereintrag, Verhaltenskodex-Bestätigung, Tätigkeitsbericht, Hausausweisantrag, Finanzangaben, Verbandsmitgliederliste — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Sicherstellen, dass der erste Kontakt transparent und nicht irrefuehrend erfolgt.
 
 ## Gefuehrter Ablauf
 
@@ -95,10 +87,6 @@ Der **Verhaltenskodex** (Anlage zu § 5 LobbyRG) verlangt bei Erstkontakt mit Ma
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 
-## Output
-
-Kontaktbausteine für E-Mail, Telefonnotiz, Meeting-Intro und Nachfassmail mit Pruefhinweis.
-
 ## Qualitaetsgate
 
 - Pflichtgrund, Ausnahme und freiwillige Registrierung werden getrennt.
@@ -106,10 +94,3 @@ Kontaktbausteine für E-Mail, Telefonnotiz, Meeting-Intro und Nachfassmail mit P
 - Jede Portalangabe bekommt Quelle, Freigabe und offenen Pruefpunkt.
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

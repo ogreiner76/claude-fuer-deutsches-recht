@@ -5,10 +5,6 @@ description: "Prueft alle vier Tatbestandsmerkmale der Insiderinformation nach A
 
 # Insiderinformation nach Art. 7 MAR
 
-## Arbeitsbereich
-
-Prueft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,15 +90,3 @@ zu verneinen. Ergebnis ist immer ein schriftlicher Insidervermerk mit Quellennac
 - Ist ein Aufschub nach Art. 17 Abs. 4 MAR möglich und wurden dessen Voraussetzungen geprüft?
 - Wurden Insiderliste (Art. 18 MAR) und Handelsverbote (Art. 14 MAR) zeitgleich ausgelöst?
 
-## Ausgabeformat
-
-Erzeuge einen strukturierten Insidervermerk mit folgenden Abschnitten:
-1. Sachverhalt (stichpunktartig, datiert)
-2. Prüfung der vier Merkmale (je Merkmal: Norm – Subsumtion – Beleg – Ergebnis)
-3. Gesamtergebnis: Insiderinformation ja/nein
-4. Folgehandlungen (Ad-hoc-Pflicht, Aufschub, Insiderlistenpflege, Handelsverbot)
-5. Offene Fragen und Empfehlungen
-
-Nenne Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und einer der zulässigen
-Quell-Domains (dejure.org, openjur.de, gesetze-im-internet.de, eur-lex.europa.eu,
-curia.europa.eu, bafin.de, bgh.de). Keine Blindzitate aus BeckRS, juris oder Kommentaren.

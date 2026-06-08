@@ -17,12 +17,7 @@ Arbeitsfokus: **Redaktion, DSGVO und Geschäftsgeheimnisse**. Prüfe diese Anker
 - `§ 299 Abs. 2 ZPO` — Akteneinsicht Dritter.
 - `§ 174 Abs. 3 GVG` — Ausschluss der Öffentlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill verhindert, dass das Anlagenpaket prozessual richtig, aber berufsrechtlich oder datenschutzrechtlich gefährlich ist. Er arbeitet mit einer Redaktionslogik: notwendig, verhältnismäßig, dokumentiert, reversibel intern, sauber exportiert extern.
 
 ## Mindestinput
 
@@ -77,3 +72,4 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 - Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
 - Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
 - Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
+

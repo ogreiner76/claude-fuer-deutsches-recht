@@ -50,14 +50,6 @@ Stufenkantenmarkierung nach DIN 32975: Leuchtdichteunterschied mindestens 0.4 (n
 
 Automatischer Türöffner am Hauseingang: Elektrische Verriegelung und Taster beidseitig (innen und außen), Türschließer mit gedämpftem Schließzug. Leistung: Öffnungskraft max. 25 N nach DIN EN 1154.
 
-## Output
-
-- Maßnahmen-Katalog mit DIN-Anforderungen (Tabelle)
-- Beschlussvorlage Rampe (mit Auflagen Optik, Rückbau-Option, Kostentragung)
-- Beschlussvorlage Handlauf-Nachrüstung beidseitig
-- Schreiben an Bauamt (verfahrensfreie Maßnahme anzeigen, Mustertext)
-- Kostenkalkulations-Vorlage (Rampe inkl. Erdbau/Belag/Handlauf, Handlauf inkl. Montage)
-
 ## Cross-Refs
 
 - Aufzug und Treppenlift → `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg`
@@ -69,3 +61,4 @@ Automatischer Türöffner am Hauseingang: Elektrische Verriegelung und Taster be
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 20 und § 21 WEG über https://www.gesetze-im-internet.de/woeigg/__20.html und https://www.gesetze-im-internet.de/woeigg/__21.html live verifizieren. Landesbauordnungen auf Portalen der jeweiligen Bundesländer abrufen — Verfahrensfreiheitskataloge variieren.
+

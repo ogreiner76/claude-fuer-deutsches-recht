@@ -53,10 +53,6 @@ description: "Systematisiert den methodischen Umgang mit Präzedenzfällen im de
 - Der Gleichheitssatz als Argument für Präjudizkonsistenz wird nicht angewandt.
 - § 132 GVG als institutioneller Mechanismus für Overruling wird übersehen, wenn ein Senat von einem anderen BGH-Senat abweichen will.
 
-## Output
-
-Das Skill liefert eine Präjudiz-Analyse: Identifikation und Zusammenfassung des Präzedenzfalls, Sachverhaltsmatchinganalyse, Distinguishing-Argumente, Overruling-Voraussetzungsprüfung und Formulierungsvorschlag für Schriftsatz oder Revisionsrüge. Direkt verwendbar in der Prozesspraxis.
-
 ## Vertiefung: Abweichungspflicht bei Richtlinienverstößen
 
 Im Anwendungsbereich des Unionsrechts besteht eine besondere Abweichungspflicht: Nationale Gerichte sind verpflichtet, von entgegenstehenden nationalen Präjudizien abzuweichen, wenn diese Unionsrecht verletzen. Diese "Unionsrechts-overruling-Pflicht" überlagert die Bindungswirkung nationaler Präjudizien und verlangt eine aktive Auseinandersetzung mit dem Unionsrecht, bevor ein deutsches Präjudiz unkritisch angewandt wird.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 20 GG bei dejure](https://dejure.org/gesetze/GG/20.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

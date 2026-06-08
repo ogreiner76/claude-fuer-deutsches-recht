@@ -5,10 +5,6 @@ description: "Analysiert Besonderheiten des Handelsvertreterrechts im Energiever
 
 # Handelsvertreterrecht im Energievertrieb — EnWG und §§ 84 ff. HGB
 
-## Arbeitsbereich
-
-Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt sowie Anforderungen nach EnWG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Ausgleichsanspruch trotz reguliertem Energiemarkt vergessen.
 - Rückforderung bereits ausgezahlter Provision ohne vertragliche Klausel unzulässig.
 
-## Output
-
-Provisionsabrechnungsprüfung Energievertrieb, Ausgleichsberechnung, Widerrufsfolgenanalyse.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 66c EnWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/enwg_2005/__66c.html)
 - [§ 312 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__312.html)
 - [Dejure § 87a HGB](https://dejure.org/gesetze/HGB/87a.html)
+

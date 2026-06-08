@@ -21,9 +21,6 @@ Kuerzung oder Wegfall der JVEG-Verguetung nach § 8a JVEG prüfen: fehlerhafte G
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
 
-## Aufgabe
-Prüfe, ob und in welchem Umfang die Sachverständigenvergütung nach § 8a JVEG gekürzt oder vollständig versagt werden kann, und identifiziere die maßgeblichen Kürzungsrisiken.
-
 ## Triage — kläre vor der Prüfung
 
 1. **Gutachtenmängel:** Welche konkreten Mängel werden dem Gutachten vorgeworfen (Unvollständigkeit, Methodenfehler, fehlende Begründung)?
@@ -45,18 +42,8 @@ Prüfe, ob und in welchem Umfang die Sachverständigenvergütung nach § 8a JVEG
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Gutachten liegt vor und Kostenbeamter oder Gericht erwägt Kürzung nach § 8a JVEG.
-
-## Arbeitsweise
-1. Gutachten auf Vollständigkeit und Verwertbarkeit bewerten.
-2. Hinweisobliegenheiten und Vorschusssituation prüfen.
-3. Befangenheitsprotokoll einsehen.
-4. Kürzungsrisiko kategorisieren (keine / teilweise / vollständige Kürzung).
-5. Kürzungsbetrag berechnen und Begründung formulieren.
 
 ## Output-Template
 
@@ -74,3 +61,4 @@ Risikoübersicht mit Kürzungsbeträgen, Normbezug und Begründungsentwurf.
 ## Leitplanken
 - § 8a JVEG ist Ausnahmetatbestand; Kürzungen müssen konkret begründet werden.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

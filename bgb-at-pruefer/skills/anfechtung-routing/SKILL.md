@@ -46,13 +46,6 @@ description: "Routing-Skill für Anfechtung nach §§ 119 bis 124 und § 142 BGB
 - § 123 BGB: arglistige Täuschung durch Dritten — nur wenn Erklärungsempfänger die Täuschung kannte oder kennen musste.
 - Anfechtung neben Gewährleistungsrecht: Vorrang und Sperrwirkung beachten.
 
-## Output
-
-- Routing-Übersicht: Welcher Anfechtungsgrund liegt vor?
-- Prüfungsraster-Tabelle: Grund / Erklärung / Frist / Ausschluss / Folgen
-- Gutachtenstil-Abschnitt zur gewählten Anfechtungsnorm
-- Schadensersatzberechnung nach § 122 BGB
-
 ## Quellen
 
 - [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)

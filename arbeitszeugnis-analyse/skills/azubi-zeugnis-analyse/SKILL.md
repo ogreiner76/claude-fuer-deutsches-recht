@@ -36,10 +36,6 @@ description: "Analyse von Ausbildungszeugnissen nach § 16 BBiG bei Zeugnisstrei
 
 **Beispiel 5 – Vollständige positive Schlussformel:** "Wir bedauern es sehr, Frau Klein am Ende ihrer Ausbildung zu verlieren, und danken ihr herzlich für ihr Engagement. Wir empfehlen sie uneingeschränkt." — Starkes Signal für einen Übernahme- oder Weiterempfehlungswunsch.
 
-## Ausgabeformat
-
-Der Skill gibt eine azubi-spezifische Checkliste aus (Lernfortschritt / Praxis / Berufsschule / Verhalten / Schlussformel / Weiterempfehlung), gefolgt von der Ampeltabelle mit azubi-adjustierten Bewertungsmaßstäben und einer Empfehlung (Zeugnis annehmen / nachverhandeln / anfordern falls fehlt).
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 16 BBiG** — Anspruch des Auszubildenden auf qualifiziertes Zeugnis nach Beendigung der Ausbildung
@@ -50,12 +46,10 @@ Der Skill gibt eine azubi-spezifische Checkliste aus (Lernfortschritt / Praxis /
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage — vor der Azubi-Analyse
 
 1. Abschlusszeugnis oder Zwischenzeugnis (§ 16 Abs. 2 BBiG)?
 2. Duales Ausbildungsverhältnis? → Berufsschulbewertung vorhanden?
 3. Ausbildung abgebrochen? → Nur Anspruch auf einfaches Zeugnis nach § 16 Abs. 1 BBiG
 4. Beendigungsgrund: Bestehen der Prüfung oder Kündigung/Aufhebung?
+

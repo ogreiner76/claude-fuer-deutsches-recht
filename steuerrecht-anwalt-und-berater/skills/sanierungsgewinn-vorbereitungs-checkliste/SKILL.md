@@ -155,15 +155,6 @@ Gläubiger C — kein Verzicht ► Verhandlungsvermerk ... Bl. ...
 - Gewerbesteuer-Antrag § 7b GewStG vergessen.
 - Verbindliche Auskunft zu spät beantragt (Bearbeitungszeit FA mehrere Monate).
 
-## Querverweise
-
-- `stb-sanierungsgewinn-fruehwarnung-monat-zwoelf-vor-plan`
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung`
-- `stb-sanierungsgewinn-liquidation-nachrang-fg-koeln` — bei Mandaten, in denen statt Sanierung eine Liquidation diskutiert wird (FG Koeln 13 K 3006/11).
-- `anw-verbindliche-auskunft`
-
 ## Quellen Stand 06/2026
 
 - § 3a Abs. 1, 2, 4 EStG.
@@ -174,3 +165,4 @@ Gläubiger C — kein Verzicht ► Verhandlungsvermerk ... Bl. ...
 - BMF-Schreiben vom 27.04.2017 — Stand vor Verwendung verifizieren.
 - IDW S 6, IDW S 11.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren. FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12): bei Liquidation mit nachrangigem Gesellschafterdarlehen ist der rechentheoretisch im Loeschungszeitpunkt entstehende Gewinn mangels Koerperschaftsteuersubjekt nicht festsetzbar.
+

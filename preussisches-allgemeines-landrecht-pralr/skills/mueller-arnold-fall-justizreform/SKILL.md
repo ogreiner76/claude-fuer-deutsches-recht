@@ -5,12 +5,6 @@ description: "PrALR: Müller-Arnold-Fall, Justizreform, Richterbild und Kodifika
 
 # Müller-Arnold und Justizreform
 
-## Aufgabe
-
-Nutze den Fall als Reformmotiv, nicht als simplen Ursprung des gesamten Kodex.
-
-Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staaten als historischer Normquelle. Er behandelt das PrALR nicht als dekorativen Alttext, sondern als konkrete Quelle mit Ausgabejahr, Textzeugen, Geltungsraum, systematischem Ort und möglicher heutiger Fortwirkung.
-
 ## Startfragen
 
 1. Welche Quelle liegt vor: Scan, OCR, PDF, Transkription, Sekundärtext, Urteil oder Aktenvermerk?
@@ -49,10 +43,3 @@ Der Mueller-Arnold-Fall war der unmittelbare Anlass für die Justizreform unter 
 2. Trennung von Historiographie und Dogmengeschichte: Fall ist primaer politisches Symbol, dogmatisch wenig ertragreich, aber als Lehrfall zur Richterunabhaengigkeit unschlagbar.
 3. Heute Bezug zu Richter-Disziplinarrecht (§ 26 DRiG) und Geschaeftsverteilung (§ 21e GVG).
 
-## Ausgabeformat
-
-- **Kurzbefund:** Was sagt die Quelle sicher?
-- **Textzeugenstand:** Welche Fassung wurde benutzt und wo ist sie unsicher?
-- **Historische Einordnung:** Systemstelle, Geltungsraum, gesellschaftliche Funktion.
-- **Heutiger Anschluss:** Fortwirkung, Gewohnheitsrecht, bloße Dogmengeschichte oder keine heutige Relevanz.
-- **Nächster Schritt:** zweite Quelle, Scan-Gegenprobe, aktuelles Landesrecht oder Rechtsprechungsrecherche.

@@ -75,20 +75,7 @@ Schreiben Sie in die Klageerwiderung: "Die oertliche Zuständigkeit wird geruegt
 - "Ich klage am Sitz des Online-Shops, dort gibt es einen Geschaeftsfuehrer." → Nein, § 29c ZPO greift; Sie klagen am eigenen Wohnsitz.
 - "Ich bin Freiberufler, kann das aber privat geltend machen." → Sie muessen sich entscheiden — wenn Sie als Privatperson gekauft haben, ja.
 
-## Querverweise
-
-- `oertliche-zuständigkeit-12-37-zpo` — Allgemeine Gerichtsstandsregeln.
-- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Sachliche Zuständigkeit AG.
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 29c ZPO unveraendert. Bei internationalen Verbrauchertraegen Bruessel-Ia-VO zusaetzlich beachten.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

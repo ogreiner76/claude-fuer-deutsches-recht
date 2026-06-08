@@ -5,10 +5,6 @@ description: "Sektor Telekommunikation und Infrastructure Sharing: Sektor-Skill 
 
 # Sektor Telekommunikation und Infrastructure Sharing
 
-## Arbeitsbereich
-
-Sektor Telekommunikation und Infrastructure Sharing: Sektor-Skill im globalen Kartellrecht mit Marktabgrenzung, Behördenschnittstelle, Daten-/Zugangsfragen, Fusionskontrolle, Missbrauch und Quellen-Livecheck. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,12 +17,6 @@ Sektor Telekommunikation und Infrastructure Sharing: Sektor-Skill im globalen Ka
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einsatz
-
-Anwendungsfall: der Fall in genau diesem Sektor spielt oder wenn eine Multi-Jurisdiction-Matrix sektorale Besonderheiten braucht. Ziel ist kein abstraktes Wettbewerbsrecht, sondern ein arbeitsfähiger Sektorvermerk mit Behördenrouting und belastbarer Faktenmatrix.
-
-**Fokus:** Frequenzen, TowerCos, Netzzugang, Roaming, Kooperationen, Margin Squeeze und Regulierungsüberschneidung
 
 ## Einstieg
 
@@ -44,10 +34,3 @@ Anwendungsfall: der Fall in genau diesem Sektor spielt oder wenn eine Multi-Juri
 - **Verteidigung:** Effizienz, objektive Rechtfertigung, failing firm, countervailing buyer power oder Compliance-Remedies nur faktenbasiert einsetzen.
 - **International:** Local-Counsel-Fragen, Filing-Schwellen, Standstill, Dawn-Raid-Befugnisse und Informationsaustausch je Jurisdiktion live prüfen.
 
-## Output
-
-Erzeuge ein Sektor-Memo mit Marktabgrenzung, Behördenrouting, Risikoampel, Belegmatrix, offenen Datenpunkten, Local-Counsel-Fragen und nächstem Schritt.
-
-## Quellenhygiene
-
-Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Sektorleitlinien zuerst Bundeskartellamt, Europäische Kommission, DOJ/FTC und die zuständigen nationalen Behörden prüfen.

@@ -5,10 +5,6 @@ description: "Generiert Rückfragen an den Mandanten wenn das vorgelegte Materia
 
 # rückfragen-mandant
 
-## Arbeitsbereich
-
-Generiert Rückfragen an den Mandanten wenn das vorgelegte Material für eine sinnvolle Recherche nicht ausreicht oder Abgrenzungsfragen offen sind. Pflichtfragen: Was ist der wesentliche Lösungsbeitrag der Erfindung gegenüber dem Stand der Technik den der Mandant kennt; Welcher Anspruch ist der wichtigste; Welcher Markt und welche Zielstaaten; Gibt es eigene fruehere Veröffentlichungen Anmeldungen Vortraege Messeauftritte (Eigenstand der Technik); Gibt es Konkurrenten die das Plugin in den Watch nehmen soll; Welcher Recherchezweck. Formuliert die Rückfragen als Brief oder als Frageliste die in eine Mandantenrückfrage uebernommen werden kann. Disclaimer keine Rechtsberatung Patentanwaeltin verantwortet die Mandantenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,18 +12,6 @@ Generiert Rückfragen an den Mandanten wenn das vorgelegte Material für eine si
 - Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 139, EPÜ Art. 54, 56, 64, 69, 87 ff., Straßburger IPC-Abkommen, PCT, Espacenet-Datenbankzugriff, DEPATISnet-Bedingungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Wenn das Material des Mandanten für eine seriöse Recherche nicht ausreicht — typische Fälle:
-
-- Erfindung nur in einem Satz beschrieben
-- Kein Anspruchsentwurf vorhanden
-- Zielmarkt unklar
-- Eigene frühere Veröffentlichungen des Mandanten nicht offengelegt
-- Konkurrenten-Liste fehlt
-
-— dann erzeugt dieses Skill eine Rückfrageliste oder einen Mandanten-Brief.
 
 ## Pflichtfragen
 
@@ -150,3 +134,4 @@ Bevor die Rueckfrageliste erstellt wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

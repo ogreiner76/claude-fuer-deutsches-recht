@@ -16,10 +16,6 @@ description: "Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomi
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill betrachtet Besitz- und Eigentumsfragen als Zuordnung knapper Ressourcen. Er fragt, welche Regel Investitionen schützt, Streit reduziert, Such- und Beweiskosten senkt und Sachen in wertvolle Nutzung bringt. Die ökonomische Analyse ist ein Prüfwerkzeug, kein Ersatz für Normbindung.
-
 ## Sofort klären
 
 1. Welche Ressource soll exklusiv genutzt oder geschützt werden?
@@ -65,22 +61,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 47 GRCh` — wirksamer Rechtsbehelf.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-Erstelle eine ökonomische Besitzanalyse:
-
-| Faktor | Befund |
-| --- | --- |
-| Ressource | ... |
-| Exklusivitätsbedarf | ... |
-| Investitionsanreiz | ... |
-| Such-/Sicherungskosten | ... |
-| Beweis- und Transaktionskosten | ... |
-| geeignete Rechtsfolge | ... |
-| Grenze des Effizienzarguments | ... |
-
-Schließe mit `geltendes Recht` und `rechtspolitische Bewertung` getrennt.
 
 ## Normen und Rechtsprechung
 

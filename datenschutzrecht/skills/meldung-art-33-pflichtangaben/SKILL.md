@@ -31,10 +31,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldfälle wegen unvollständiger oder vers
 
 Art. 33 Abs. 1; Art. 33 Abs. 3 lit. a-d; Art. 33 Abs. 4; Art. 33 Abs. 5; Art. 55; Art. 56 DSGVO; § 51 BlnDSG.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Berliner Struktur als Goldstandard
 
 Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informationsfreiheit deckt strukturell alle Pflichtangaben nach Art. 33 Abs. 3 DSGVO ab und wird als inhaltliche Pruefliste verwendet. Die Meldung gliedert sich in sechs Bloecke:
@@ -100,3 +96,4 @@ Output ist Text, kein Code, kein JSON.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - Behördenspezifische Eingabewege und Adressen siehe dsv-meldung-bfdi / dsv-meldung-baylda / dsv-meldung-ldi-nrw etc.
+

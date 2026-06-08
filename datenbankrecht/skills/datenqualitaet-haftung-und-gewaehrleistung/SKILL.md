@@ -59,14 +59,6 @@ Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmänge
 - Bonitätsdatenbankbetreiber (SCHUFA) haben besondere gesetzliche Sorgfaltspflichten — Verletzungen können erhebliche Schadensersatzansprüche auslösen.
 - Berichtigungspflicht nach Art. 16 DSGVO schließt Schadensersatzansprüche nicht aus — beides kann parallel geltend gemacht werden.
 
-## Output
-
-- Haftungsrisikoanalyse für Datenbankbetreiber (Vertrag + Delikt + DSGVO)
-- DSGVO-Berichtigungs(Art. 16 DSGVO) für personenbezogene Datenbanken
-- Haftungsbegrenzungs-AGB-Klausel (§§ 307-309 BGB-konform)
-- Datenbankqualitäts-Sorgfaltspflichten-Katalog
-- Schadensberechnung für Falschauskunft-Fälle (Lizenzanalogie / konkreter Schaden)
-
 ## Quellen
 
 - [§ 434 BGB — dejure.org](https://dejure.org/gesetze/BGB/434.html)
@@ -75,3 +67,4 @@ Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmänge
 - [Art. 82 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/82.html)
 - [§ 309 BGB — dejure.org](https://dejure.org/gesetze/BGB/309.html)
 - [§ 254 BGB Mitverschulden — dejure.org](https://dejure.org/gesetze/BGB/254.html)
+

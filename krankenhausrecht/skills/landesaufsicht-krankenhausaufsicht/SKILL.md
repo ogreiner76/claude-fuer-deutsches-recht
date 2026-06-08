@@ -5,10 +5,6 @@ description: "Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen
 
 # Landesaufsicht Krankenhausaufsicht Beanstandung
 
-## Arbeitsbereich
-
-Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,17 +73,10 @@ Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit
 - Sofortvollzug uebersehen — Massnahme wird umgesetzt.
 - Aufsichtsdialog verweigert — Eskalation zur Schliessungsanordnung.
 
-## Querverweise
-- `krankenhausfinanzierungsgesetz-khg-grundstruktur`
-- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
-- `krankenhaushygiene-ifsg-landesrecht`
-- `patientenbeschwerde-und-risikomanagement`
-- `personaluntergrenzen-pflege-ppugv`
-- `triage-notaufnahme-ueberlastung-dokumentation`
-
 ## Quellen Stand 06/2026
 - Landeskrankenhausgesetze 16 Länder (Live-Check Landesministerien).
 - Landes-VwVfG / Bundes-VwVfG §§ 28, 35 ff., 48, 49.
 - IfSG §§ 23, 36.
 - BVerwG, staend. Rspr. zu Aufsichtsmassnahmen und Verhaeltnismaessigkeit.
 - VwGO §§ 42, 80, 113.
+

@@ -5,10 +5,6 @@ description: "Prüft besondere Anforderungen bei der Vertretung regulierter Prod
 
 # Handelsvertreter regulierter Produkte — Zulassung und berufsrechtliche Pflichten
 
-## Arbeitsbereich
-
-Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und berufsrechtliche Pflichten des Vertreters. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Sachkundenachweis abgelaufen — Erlaubnis erloschen.
 - Compliance-Klauseln im Handelsvertretervertrag fehlen — Haftungsrisiko.
 
-## Output
-
-Erlaubnischeck regulierter Produkte, Compliance-Klausel Entwurf, Risikobewertung unerlaubter Vertrieb.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 47 AMG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/amg_1976/__47.html)
 - [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
 - [Dejure § 34d GewO](https://dejure.org/gesetze/GewO/34d.html)
+

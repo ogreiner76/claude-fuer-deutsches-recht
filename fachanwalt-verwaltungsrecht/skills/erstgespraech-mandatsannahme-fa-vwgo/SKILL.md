@@ -5,9 +5,6 @@ description: "Erstgespraech Mandatsannahme FA Vwgo im Plugin Fachanwalt Verwaltu
 
 # Erstgespraech Mandatsannahme FA Vwgo
 
-## Arbeitsbereich
-
-**Erstgespraech Mandatsannahme FA Vwgo** ordnet den Fall über die tragenden Prüfungslinien: Strukturierter Erstgespraechsleitfaden für Allgemeines, Prüfungslinie für fa vwgo widerspruchsbescheid abschleppen oepnv, Anfechtungsklage nach § 42 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Erstgespraech Mandatsannahme FA Vwgo im Plugin Fachanwalt Verwaltu
 - Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `erstgespraech-mandatsannahme`
@@ -175,9 +173,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Cross-Refs
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
@@ -537,12 +532,10 @@ Aktuelle Linien mit Bezug zu Anfechtungsverfahren:
 - BVerwG 6 C 1.25, Urteil vom 02.12.2025 — Überwachungsmaßnahmen bei terroristischen Straftaten und die vom BVerfG aufgestellten Anforderungen an die Eingriffsschwellen für Maßnahmen der Gefahrenabwehr — Verifikation [bverwg.de](https://www.bverwg.de/021225U6C1.25.0).
 - BVerfG, Beschluss vom 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen-Anforderungen, Übergangsfortgeltung bis 31.12.2025 — relevant für Polizei-Anfechtungsklagen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Uebergabe
 
 - Bei Sofortvollzug parallel Antrag § 80 Abs. 5 VwGO — Skill `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz`.
 - Bei Verpflichtungsbegehren (Erlass eines beantragten VA) Verpflichtungsklage § 42 Abs. 1 Var. 2 VwGO — Antrag entsprechend formulieren.
 - Berufungsbedarf: Berufung § 124 VwGO durch Zulassung; Antrag auf Zulassung der Berufung § 124a VwGO innerhalb Monatsfrist.
 - Anschluss: bei Rechtsmittel im Hauptverfahren weitere Schriftsaetze; bei Erfolg ggf. Folgenbeseitigungsanspruch § 113 Abs. 1 Satz 2 VwGO.
+

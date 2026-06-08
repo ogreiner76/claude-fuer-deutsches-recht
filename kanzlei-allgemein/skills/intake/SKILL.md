@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iMessage WhatsApp Telegram Teams Screenshot Upload oder Telefonnotiz. Erkennt Absender Akte Aktenzeichen Fristen Action-Items Datenschutzrisiken und nächsten Schritt. Fragt bei Unsicherheit gezielt nach. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,13 +41,6 @@ Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iMessage WhatsAp
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: alle Eingaenge unterliegen dem Mandatsgeheimnis
 - § 173 ZPO — Zustellungszeitpunkt bei beA-Eingang (massgebend für Fristbeginn)
 - Art. 5 Abs. 1 lit. f DSGVO — Integritaet und Vertraulichkeit bei der Verarbeitung von Mandantendaten
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill nimmt beliebige Eingänge entgegen und macht daraus eine geordnete Kanzlei-Entscheidung: zuordnen, neu anlegen, beantworten, fristen, delegieren oder zurückfragen.
 
 ## Unterstützte Eingangskanäle
 
@@ -95,9 +84,6 @@ Dieser Skill nimmt beliebige Eingänge entgegen und macht daraus eine geordnete 
 - Eingangsstempel und Lesbarkeit prüfen.
 - Bei Fristbezug Originaleingang und Scanzeit trennen.
 
-## Ausgabeformat
-
-```markdown
 ## Intake-Karte
 
 - Kanal:
@@ -121,3 +107,4 @@ Dieser Skill nimmt beliebige Eingänge entgegen und macht daraus eine geordnete 
 - Frist oder Handlung: `kanzlei-allgemein-fristen-monitor`.
 - Antwortentwurf oder Versand: `kanzlei-allgemein-output-versand`.
 - beA-Journal, beA-ZIP oder elektronisches Empfangsbekenntnis: `kanzlei-allgemein-bea-journal`.
+

@@ -128,23 +128,7 @@ Behalten Sie selbst **eine vollstaendige Kopie** von allem. Bewahren Sie sie an 
 - **Fehler:** Klage hat 4 Anlagen erwaehnt, aber nur 3 Anlagen liegen bei. → **So vermeiden:** Anlagenverzeichnis und Anlagen-Stapel nebeneinanderlegen und durchzaehlen.
 - **Fehler:** Bei mehreren Beklagten nur ein Bundle eingereicht. → **So vermeiden:** Pro Beklagter ein zusaetzliches Bundle.
 
-## Querverweise
-
-- `klageschrift-pflichtbestandteile-253-zpo` — Was muss in die Klage rein
-- `klageschrift-anlagen-bezeichnen` — Anlagen im Text bezeichnen
-- `anlagen-formatieren-k1-k2-pdf-amtsgericht` — Anlagen formatieren (Schriftart, Position)
-- `dokumenten-erzeugung-pdf-laien-amtsgericht` — PDF erstellen
-- `einreichung-mein-justizpostfach-mjp-2024` — Elektronisch einreichen
-- `einreichung-papierform-mit-abschriften` — Papierform einreichen
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Standard bundesweit ueblich. Die Beschriftung K1, K2 (Klaeger) bzw. B1, B2 (Beklagter) ist nicht gesetzlich vorgeschrieben, aber durchgaengig anerkannte Konvention der Gerichtspraxis.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

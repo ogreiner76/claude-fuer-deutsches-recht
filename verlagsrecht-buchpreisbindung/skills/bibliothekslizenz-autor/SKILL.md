@@ -5,10 +5,6 @@ description: "Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — U
 
 # Verl-033 · Bibliothekslizenz, E-Lending und Zugriff
 
-## Arbeitsbereich
-
-Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — UrhG § 27, Onleihe, OverDrive, Lizenzmodelle, EuGH Volksbank-Entscheidung und Zugangssteuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -119,3 +115,4 @@ Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — UrhG § 27, Onl
 - **Preisbindungscheck für Bibliothekskäufe**
 - **Vergriffene-Werke-Opt-Out-Erklärung**
 - **§ 52b-Compliance-Protokoll**
+

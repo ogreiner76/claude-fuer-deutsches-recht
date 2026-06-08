@@ -5,10 +5,6 @@ description: "Haftpflichtdeckung im Berufsverfahren (Präventions- und Organisat
 
 # Haftpflichtdeckung im Berufsverfahren: Präventions- und Organisationspaket
 
-## Arbeitsbereich
-
-Haftpflichtdeckung im Berufsverfahren (Präventions- und Organisationspaket): steuert Berufshaftpflicht, Deckungsanzeige, Ausschluss, Selbstbehalt und Interessenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,12 +16,6 @@ Haftpflichtdeckung im Berufsverfahren (Präventions- und Organisationspaket): st
 ## Fachkern: Haftpflichtdeckung im Berufsverfahren: Präventions- und Organisationspaket
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG/BOStB, WPO/BS WP, PAO/BOPA, RDG/RVG, Kammerverfahren, Berufsgerichtsbarkeit und Verwaltungsrechtsschutz.
 - **Entscheidende Weiche:** Bestimme Berufsgruppe, Pflichtnorm, Kammerzuständigkeit, Anhörung, Verteidigungsziel, Sanktion, Sofortmaßnahme und Reputationsschutz.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** Berufshaftpflicht, Deckungsanzeige, Ausschluss, Selbstbehalt und Interessenkonflikt - Präventions- und Organisationspaket
 
 ## Sofortsortierung
 
@@ -58,6 +48,3 @@ Erzeuge Organisationsanweisung, Checkliste, Schulung, Vorlagen, Eskalationslogik
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
 
-## Quellenhygiene
-
-Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

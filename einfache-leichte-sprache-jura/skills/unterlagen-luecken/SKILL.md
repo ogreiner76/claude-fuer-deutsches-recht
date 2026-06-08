@@ -9,7 +9,6 @@ description: "Lücken- und Beschaffungsliste für Einfache/Leichte Sprache Jura:
 
 Diese Unterlagenprüfung für **Einfache Leichte Sprache Jura** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `annaeherung-quellenkarte` — Annaeherung Quellenkarte
@@ -36,7 +35,6 @@ Diese Unterlagenprüfung für **Einfache Leichte Sprache Jura** benennt fehlende
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -45,12 +43,10 @@ Konkret zu prüfen:
 - BGG (Behindertengleichstellungsgesetz) § 11
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
-## Output
-
-Priorisierte Lückenliste mit Frist, Beweiszweck, Beschaffungsweg, Ersatznachweis und Verantwortlichem; im Mandat Einfache/Leichte Sprache Jura typischerweise Originalbescheid, Vereinfachte Fassung zuerst.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

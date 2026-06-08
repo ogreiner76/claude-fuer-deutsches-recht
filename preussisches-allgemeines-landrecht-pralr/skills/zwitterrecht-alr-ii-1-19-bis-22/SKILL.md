@@ -46,8 +46,3 @@ ALR II 1 §§ 19 bis 22 — die wahrscheinlich beruehmteste Detailregelung des A
 2. Vergleich zu modernem Personenstandsrecht.
 3. § 22 PStG (Eintrag) heute.
 
-## Output
-
-- Quellenmatrix mit Wortlautzitaten der §§ 19-22.
-- Memo zur Wiederentdeckung in der Intersexualitaetsdebatte.
-- Synopse zur heutigen Rechtslage nach 2018.

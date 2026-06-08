@@ -56,10 +56,3 @@ Nachtatverhalten; Verfahrensdauer Paragraf 46 II StGB.
   verschiebung.
 - Lange Verfahrensdauer als Strafmilderungsgrund.
 
-## Output
-
-Strafzumessungsentwurf mit:
-- Strafrahmen.
-- Strafzumessungsgruenden (zugunsten und zulasten).
-- Gewichtung.
-- Endstrafe und Bewaehrungsfrage.

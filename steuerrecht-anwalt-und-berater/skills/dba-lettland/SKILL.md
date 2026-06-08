@@ -70,12 +70,6 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbescheinigung des lettischen Valsts ieņēmumu dienests (VID) als Anlage.
 
-## Output
-
-- Mandanten-Memo.
-- Berechnungsbeispiel.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Lettisches Distribution-Tax-System seit 2018: CFC pruefen.
@@ -148,12 +142,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Lettland 1997 Fundstellen, BZSt-Tabelle 2025, BMF-Schreiben verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-estland`, `stb-dba-litauen`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Lettland 21.02.1997, BGBl. 1997 II S. 1382, in Kraft 24.12.1997. Dividenden max. 15%, Zinsen max. 10% (gem. BZST-Tabelle 2025). MLI-Status: aktuellen BMF-DBA-Stand pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: BGBl. 1997 II S. 1382 bestaetigt (BMF-Webseite); Quellensteuer 15%/10% bestaetigt (BZST-Tabelle 2025); MLI allgemein gefasst (kein gesicherter Nachweis als gedecktes Abkommen); Niedrigsteuerschwelle 15% bestaetigt (ATADUmsG); Quellen-Marker gestrichen -->
+

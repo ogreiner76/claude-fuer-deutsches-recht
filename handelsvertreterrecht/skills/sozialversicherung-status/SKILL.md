@@ -65,10 +65,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Rückwirkende Nachzahlungspflicht von bis zu vier Jahren nicht eingeplant.
 - Scheinselbständigkeit und Arbeitnehmerähnlichkeit nach § 92a HGB verwechselt.
 
-## Output
-
-Sozialversicherungs-Statusprüfung, Statusfeststellungsantrag, Nachzahlungsberechnung.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +85,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 2 SGB VI auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_6/__2.html)
 - [§ 84 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__84.html)
 - [Dejure § 7 SGB IV](https://dejure.org/gesetze/SGB_IV/7.html)
+

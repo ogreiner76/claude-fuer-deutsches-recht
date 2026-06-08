@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: DDR-Recht und sozialistische Gesetzlich
 
 # DDR-Recht und sozialistische Gesetzlichkeit
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: DDR-Recht und sozialistische Gesetzlichkeit. DDR-Verfassung 1949/68/74, ZGB 1975, AGO, StPO-DDR und Charakteristika des sozialistischen Rechtssystems. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Die DDR (1949-1990) entwickelte ein eigenstaendiges Rechtssystem auf sozialistis
 - BGH zu Mauerschuetzen: bgh.de
 - BVerfG zu DDR-Recht-Aufarbeitung: bverfg.de
 
-## Output
-
-- Vergleich DDR-ZGB vs. BGB in drei Kerninstituten
-- DDR-Justiz: Institutioneller Aufbau und Parteieinfluss
-- Mauerschuetzen-Prozesse: BGH-Grundsaetze
-
-## Quellenregel
-
-DDR-Gesetze: GBl. DDR via ALEX/OeNB. BVerfGE zum DDR-Recht: bverfg.de. BGH zu Mauerschuetzen: bgh.de. Sekundaerliteratur: mit Autor, Werk, Seite.

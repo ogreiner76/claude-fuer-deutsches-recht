@@ -59,14 +59,6 @@ Die Zahlungsfähigkeit der GdWE sichern, ohne Forderungen unsauber zu verfolgen.
 - Vorbereitendes Anwaltspaket: Sachverhaltschronologie, Beschlüsse (vollständig), Einzelabrechnung, Mahnverlauf, Zahlungsverkehr, Eigentümerwechselbeleg (§ 894 BGB).
 - Amtsgericht der belegenen Sache (§ 43 Abs. 1 WEG, § 23 Nr. 2c GVG).
 
-## Output
-
-- Rückstandstabelle (Eigentümer, Beschluss, Betrag, Fälligkeit, Mahnstand, Zinsen)
-- Mahnung/Erinnerung
-- Ratenzahlungs-Check (Gleichbehandlung, Beschlussbedarf, Sicherheiten)
-- Beschlussvorschlag Sonderumlage
-- Übergabepaket Hausgeldklage
-
 ## Cross-Refs
 
 - Beschlussvorschlag Sonderumlage → `beschlussvorlagen-erstellen`
@@ -78,10 +70,3 @@ Die Zahlungsfähigkeit der GdWE sichern, ohne Forderungen unsauber zu verfolgen.
 
 `rechtsstand-mai-2026-faktenbank` laden. Keine Beck-RS, juris ohne offene Veröffentlichung, Kommentare/Aufsätze aus Modellwissen. Aktenzeichen nur mit offen prüfbarer URL.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

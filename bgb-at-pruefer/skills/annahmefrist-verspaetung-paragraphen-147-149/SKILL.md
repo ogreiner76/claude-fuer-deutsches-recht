@@ -46,13 +46,6 @@ description: "Klausurfall zur Annahmefrist nach §§ 147 bis 149 BGB: Annahme un
 - Verspätete Annahme ohne § 149 BGB begründet kein Vertragsschluss, sondern ein neues Angebot.
 - Bei ausdrücklicher Fristsetzung nach § 148 BGB gilt nur diese Frist.
 
-## Output
-
-- Gutachtenstil-Prüfung des Vertragsschlusses mit Fristberechnung
-- Schema: Fristbeginn — Fristablauf — Zugang der Annahme — Ergebnis
-- Analyse § 149 BGB mit Anzeigelast-Prüfung
-- Klausurlösungsskizze: Vertrag zustande gekommen oder neues Angebot?
-
 ## Quellen
 
 - [§ 147 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__147.html)
@@ -82,3 +75,4 @@ unverzüglich an, kommt kein Vertrag zustande. Dies wird in Klausuren oft falsch
 - Verspätete Annahme nach § 149 BGB als neues Angebot gewertet?
 - Ablehnung: unverzüglich durch den Antragenden erklärt oder konkludent?
 - Abgeänderte Annahme nach § 150 Abs. 2 BGB als weiteres Angebot?
+

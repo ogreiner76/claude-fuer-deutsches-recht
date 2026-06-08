@@ -51,10 +51,6 @@ description: "Dieses Skill strukturiert die anwaltliche Mandantenkommunikation i
 - Mandanten werden mit juristischer Fachsprache überwältigt, ohne dass eine verständliche Zusammenfassung folgt.
 - Mandantenentscheidungen werden nicht schriftlich bestätigt, was bei Haftungsfragen zu Beweisproblemen führt.
 
-## Output
-
-Das Skill liefert mandantengerechte Kommunikationsvorlagen für die wichtigsten Mandatsstadien: Erstberatungsprotokoll, Zwischenstandsbericht, Entscheidungsvorlage mit Risikokommunikation und Abschlussschreiben. Alle Templates enthalten eine Checkliste für die vollständige Aufklärungspflicht und eine Dokumentationsanleitung für die Mandatsakte.
-
 ## Quellen
 
 - [§ 675 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__675.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

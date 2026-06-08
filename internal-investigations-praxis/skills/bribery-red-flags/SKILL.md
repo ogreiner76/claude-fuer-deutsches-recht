@@ -5,10 +5,6 @@ description: "Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, V
 
 # Bestechungs-Red-Flags und Korruptionsermittlung
 
-## Arbeitsbereich
-
-Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -70,15 +66,6 @@ Dieser Skill identifiziert Bestechungs-Red-Flags in Transaktionsdaten, Drittpart
 - BaFin: keine formelle Selbstanzeige-Regelung, aber proaktive Kooperation fließt in Ermessen ein.
 - Regulatorische Strafe vs. Reputationsschaden: Abwägung vor Selbstanzeige.
 
-## Red-Team-Fragen
-
-- Wurden alle Zahlungen an Drittparteien (Agenten, Berater) mit angemessener Due-Diligence überprüft?
-- Gibt es systematische Muster in den Red Flags (z. B. immer dieselbe Region, immer vor Genehmigungsentscheidungen)?
-- Wurden die FCPA- und UK-Bribery-Act-Anforderungen für alle relevanten Märkte geprüft?
-- Hat das Unternehmen Adequate Procedures dokumentiert (UK Bribery Act Section 7)?
-- Sind die Interviewpartner mit den Transaktions-Red-Flags konfrontiert worden?
-- Wurde eine Selbstanzeige an das DOJ in Betracht gezogen und die Entscheidung dokumentiert?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -98,3 +85,4 @@ Dieser Skill identifiziert Bestechungs-Red-Flags in Transaktionsdaten, Drittpart
 - **DOJ-Kooperationsstrategie-Memo**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

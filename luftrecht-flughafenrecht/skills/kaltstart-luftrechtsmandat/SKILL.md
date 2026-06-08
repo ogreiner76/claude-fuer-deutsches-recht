@@ -61,10 +61,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Slotrechte als übertragbar behandeln obwohl VO EWG 95/93 keine privatrechtliche Übertragung vorsieht.
 - Fristen nach VwGO nicht sofort sichern weil Mandant zunächst Einigung anstrebt.
 
-## Output
-
-Ersteinschätzungs-Vermerk (1-2 Seiten) mit Normpfad Fristenstand und Risikoampel. Zuständigkeitsmatrix (Behörde/Gericht je Teilfrage). Checkliste offener Dokumente.
-
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -92,3 +88,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

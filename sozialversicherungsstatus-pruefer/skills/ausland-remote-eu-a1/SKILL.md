@@ -5,10 +5,6 @@ description: "Prüft grenzüberschreitende Remote-Tätigkeit in EU/EWR/Schweiz, 
 
 # Ausland Remote EU A1
 
-## Arbeitsbereich
-
-Prüft grenzüberschreitende Remote-Tätigkeit in EU/EWR/Schweiz, A1, anwendbares Sozialversicherungsrecht und Status. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,12 +24,6 @@ Prüft grenzüberschreitende Remote-Tätigkeit in EU/EWR/Schweiz, A1, anwendbare
 ## Fachkern: Ausland Remote EU A1
 - **Normen-/Quellenanker:** SGB IV § 7/§ 7a, SGB VI, SGB III, SGB V, SGB XI, DRV-Statusfeststellung, Beitragsnachforderung, Säumniszuschläge und Lohnsteuer-Schnittstelle.
 - **Entscheidende Weiche:** Prüfe Eingliederung, Weisungsrecht, Unternehmerrisiko, Vergütung, Exklusivität, Auftreten am Markt, Sperrminorität und gelebte Praxis.
-
-## Zweck
-
-Das Sozialversicherungsstatus-Plugin prüft Beschäftigung, Selbständigkeit, Scheinselbständigkeit und Statusfeststellung für Geschäftsführer, Freelancer, Anwälte, Lehrer, Musikschulen, Plattformarbeit und andere Arbeitsformen nach deutscher Sozialversicherungssystematik.
-
-Dieser Skill macht aus **Ausland Remote EU A1** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
 
 ## Rechts- und Quellenanker
 

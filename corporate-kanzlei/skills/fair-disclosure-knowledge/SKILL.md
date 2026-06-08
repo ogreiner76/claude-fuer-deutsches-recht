@@ -127,9 +127,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - BKartA, Entscheidung B2-141/18 — Gun Jumping: Kaeufer-Verkaefer hatten vor Kartellfreigabe Informationen ueber Preise und Kunden ausgetauscht; Bussgeld; Clean Team nachtraeglich eingerichtet
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Insider-Management: Kategorien und Regeln
 
 ### Insider-Kreis (Art. 18 MAR)
@@ -211,3 +208,4 @@ Ich bestatige die Kenntnis dieser Belehrung:
 - Art. 14, 17, 18 MAR; §§ 1, 19, 41 GWB; § 43a BRAO; § 17 UWG
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Assmann/Schneider/Muelbert WpHG Art. 17, 18 MAR; Immenga/Mestmaecker GWB § 41
+

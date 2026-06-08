@@ -5,10 +5,6 @@ description: "Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktri
 
 # Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktritt, höhere Gewalt, Insolvenzabsicherung.
 
-## Arbeitsbereich
-
-Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktritt, höhere Gewalt, Insolvenzabsicherung.; Normanker: BGB §§ 651a ff.; FluggastrechteVO; Montrealer Übereinkommen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,3 +31,4 @@ BGB §§ 651a ff.; FluggastrechteVO; Montrealer Übereinkommen. Der aktuelle Nor
 3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
 4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
 5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
+

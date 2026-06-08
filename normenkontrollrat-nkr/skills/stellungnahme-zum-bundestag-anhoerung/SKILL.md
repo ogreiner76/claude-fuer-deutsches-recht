@@ -117,17 +117,10 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 - Kein klares Bild der Hauptempfehlungen
 - Auf Fragen unklar oder weitschweifig antworten
 
-## Querverweise
-
-- `nkr-stellungnahme-aufbau-und-format`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-stellungnahme-pressepolitik-und-jahresbericht`
-- `nkr-verfahrensgang-referentenentwurf-bis-bundestag`
-- `legistik-werkstatt/spezial-bundestag-fristen-form-und-zuständigkeit`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 6
 - GO BT §§ 70 ff.
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Praxis der Anhörungen
 - Live verifizieren ueber [www.bundestag.de](https://www.bundestag.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

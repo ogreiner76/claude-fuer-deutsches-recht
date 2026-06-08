@@ -20,13 +20,6 @@ description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: E
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: Community-Skills duerfen keine Mandantengeheimnisse exponieren
 - § 203 StGB — Verletzung von Privatgeheimnissen: gilt auch bei Weiterleitung an Community-Skill-Infrastruktur
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Die Community könnte etwas gebaut haben, das Sie gerade selbst erstellen oder gesucht haben. Dieser Skill bemerkt dies und erwähnt es — einmal, kurz, nicht nervig. Keine Unterbrechung laufender Arbeit. Nur am Ende einer Aufgabe.
-
 ## Eingaben
 
 - Aufgabenbeschreibung (was der Nutzer gerade getan hat) — aus dem Kontext oder direkt
@@ -92,13 +85,6 @@ Keine direkten Rechtsnormen in diesem Skill. Bei Empfehlungen datenschutzrelevan
 - § 43a Abs. 2 BRAO (Verschwiegenheit)
 - Zitierweise nach `../references/zitierweise.md`
 
-## Ausgabeformat
-
-Maximal ein kurzer einzeiliger Hinweis nach einer Aufgabe. Nie mehr als zwei Skills gleichzeitig empfehlen — wenn mehrere passen, den am besten passenden auswählen.
-
-Format:
-> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — "[Kurzbeschreibung in einem Satz]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ansehen.
-
 ## Entscheidungsbaum am Ende
 
 Mit dem Nächste-Schritte-Entscheidungsbaum gemäß `CLAUDE.md` → `## Ausgaben` abschließen. Optionen auf das anpassen, was dieser Skill gerade produziert hat:
@@ -144,3 +130,4 @@ Art. 32 DSGVO und ggf. AVV mit dem Infrastrukturanbieter erforderlich.
 - Laufende Aufgaben unterbrechen. Empfehlungen erscheinen am *Ende* einer Aufgabe, nicht mittendrin.
 - Nerven. Ein Hinweis pro Skill, nie.
 - Benachrichtigungen anzeigen, wenn die Einstellung auf `keine` steht.
+

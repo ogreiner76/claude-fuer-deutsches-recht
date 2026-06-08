@@ -9,7 +9,6 @@ description: "Output-Wahl für Einfache/Leichte Sprache Jura: stimmt Adressat (A
 
 Diese Output-Weiche für **Einfache Leichte Sprache Jura** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `annaeherung-quellenkarte` — Annaeherung Quellenkarte
@@ -36,7 +35,6 @@ Diese Output-Weiche für **Einfache Leichte Sprache Jura** entscheidet, ob Memo,
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -45,12 +43,10 @@ Konkret zu prüfen:
 - BGG (Behindertengleichstellungsgesetz) § 11
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Einfache/Leichte Sprache Jura sofort: Bescheid in Leichter Sprache oder Mandantenbrief in einfacher Sprache.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

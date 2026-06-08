@@ -5,10 +5,6 @@ description: "Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler im Hi
 
 # Rueckmeldung 3 Monate
 
-## Arbeitsbereich
-
-Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Rückmeldungstext. Wenn der Nutzer nur eine Kurzantwort möch
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

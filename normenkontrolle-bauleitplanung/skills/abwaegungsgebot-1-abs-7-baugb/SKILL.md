@@ -5,10 +5,6 @@ description: "Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegun
 
 # Abwägungsgebot § 1 Abs. 7 BauGB
 
-## Zweck
-
-Das Abwägungsgebot ist das Herzstück der materiellen Plan-Prüfung. Vier Stufen-Fehler-Lehre des BVerwG seit 1969 ist die Grundlage jedes Normenkontroll-Schriftsatzes.
-
 ## Schritt 1 — Wortlaut und Bedeutung
 
 ### § 1 Abs. 7 BauGB
@@ -161,10 +157,6 @@ Das Abwägungsgebot ist das Herzstück der materiellen Plan-Prüfung. Vier Stufe
 - **BVerwG 23.06.2020, 9 A 22.19** (Klimaschutz-Belang Verkehrsplanung; uebertragbar auf Bauleitplanung): Klima als bei Planungen zwingend einzustellender Belang. Quelle: bverwg.de.
 
 Konkrete Entscheidungen vor Verwendung per bverwg.de mit Datum verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Normen und Rechtsprechung
 

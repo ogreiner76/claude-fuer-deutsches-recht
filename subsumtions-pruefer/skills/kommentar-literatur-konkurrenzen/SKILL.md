@@ -5,10 +5,6 @@ description: "Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, H
 
 # Quellenhinweis ohne Blindzitate
 
-## Arbeitsbereich
-
-Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen aus. Markiert, welche Normen vertieft in Literatur oder Datenbanken zu prüfen sind, und fordert Nutzerquellen oder lizenzierten Live-Zugriff an. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Quellenhinweis für vertiefte Subsumtion. Gibt keine Kommentar-, Handbuch- oder 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill ersetzt frühere Literatur-Empfehlungslisten. Er sagt nicht "zitiere Kommentar X Rn. Y", sondern baut eine saubere Recherche- und Prüfspur. Ziel ist Quellenhygiene: nur gesicherter Gesetzestext, verifizierte Rechtsprechung und vom Nutzer bereitgestellte Literatur fließen in das Arbeitsergebnis ein.
 
 ## Quellenklassen und Umgang
 
@@ -50,13 +42,6 @@ Dieser Skill ersetzt frühere Literatur-Empfehlungslisten. Er sagt nicht "zitier
 - Randnummern, die nicht live geprüft wurden
 - "nach allgemeiner Ansicht" oder "h. M." ohne konkrete Quelle
 
-## Arbeitsweise
-
-1. Nenne die entscheidenden Normen und Tatbestandsmerkmale.
-2. Nenne, welche Punkte rechtsprechungs- oder literaturbedürftig sind.
-3. Verlange konkrete Nutzerquellen oder lizenzierten Live-Zugriff, bevor Literatur zitiert wird.
-4. Markiere unverifizierte Fundstellen als Prüfbedarf.
-
 ## Ausgabe-Tabelle
 
 | Punkt | Prüfbedarf | Quelle |
@@ -78,18 +63,3 @@ Wenn Nutzer keine Literatur bereithält und eine Frage literaturbedürftig ist:
 - Frage nach vorhandenen lizenzierten Quellen oder frei zugänglichen Materialien. Wenn keine vorliegen, liefere nur Normen, Rechtsprechungs-Recherchefragen und Suchstrategie.
 - Trenne sauber zwischen gesichertem Gesetzestext, verifizierter Rechtsprechung, Nutzerquelle und offenem Literaturbedarf.
 
-## Ausgabeformat
-
-- Welche Literaturfrage ist offen?
-- Welche Norm/Entscheidung muss zuerst geprüft werden?
-- Welche Suchbegriffe und Datenbanken sind geeignet?
-- Welche Aussage darf ohne Quelle noch nicht in den Schriftsatz?
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-- Normtext live prüfen: gesetze-im-internet.de (Bund), eur-lex.europa.eu (EU), dejure.org (Querverweise).

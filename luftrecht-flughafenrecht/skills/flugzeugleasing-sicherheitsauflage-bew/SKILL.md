@@ -5,10 +5,6 @@ description: "Geleaste Flugzeuge unterliegen Sicherheitsauflagen die Leasinggebe
 
 # Flugzeugleasing – Sicherheitsauflage bewerten
 
-## Arbeitsbereich
-
-Geleaste Flugzeuge unterliegen Sicherheitsauflagen die Leasinggeber oder Leasingnehmer betreffen. Prueft EASA Part-OPS LuftSiG § 9 Airline-Sicherheitsprogramm Cape-Town-Abgrenzung Wartungspflichten und liefert Sicherungslasten-Zuordnung und Compliance-Checkliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ EASA Part-OPS EU-VO 965/2012 LuftSiG § 9 EU-VO 1008/2008 Art. 13 Cape Town Conv
 - **Cape Town Aircraft Protocol Art. XII**: Prioritäten konkurrierender Sicherungsrechte im internationalen Register.
 - **LuftFzgG § 3**: Entstehung des Pfandrechts; Eintragungszeitpunkt als Prioritätsregel.
 - **InsO § 47**: Aussonderungsrecht des Leasinggebers; Priorität gegenüber Insolvenzgläubigern.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -56,6 +53,7 @@ EASA Part-OPS EU-VO 965/2012 LuftSiG § 9 EU-VO 1008/2008 Art. 13 Cape Town Conv
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist eine IDERA (Irrevocable Deregistration and Export Request Authorisation) im Cape-Town-Register eingetragen?
 8. Hat Leasinggeber wirksam nach InsO § 47 Aussonderung geltend gemacht?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -74,9 +72,6 @@ Sicherheitsauflagen im Luftrecht müssen auf Verhältnismäßigkeit und Rechtsgr
 - **Verhältnismäßigkeit**: BVerfG-Rechtsprechung zu Grundrechtseingriffen; Einschränkung der Berufsfreiheit (Art. 12 GG) nur durch geeignete erforderliche und angemessene Maßnahme.
 - **Eilrechtsschutz**: § 80 Abs. 5 VwGO bei sofortigem Vollzug; Interessenabwägung Sicherheitsinteresse vs. Eingriff.
 
-## Output
-
-Sicherungslasten-Zuordnung (Leasinggeber/Leasingnehmer). Compliance-Checkliste. Vertragsklausel-Empfehlung. Cape-Town-Registrierungs-Checkliste. Aussonderungsvermerk bei Insolvenz.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -104,3 +99,4 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

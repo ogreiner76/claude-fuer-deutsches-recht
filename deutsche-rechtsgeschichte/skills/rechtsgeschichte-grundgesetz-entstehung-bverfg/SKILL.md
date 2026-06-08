@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. H
 
 # Grundgesetz Entstehung 1948-49
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Das Grundgesetz (GG) entstand unter dem Eindruck des NS-Unrechts und der WRV-Erf
 - Parlamentarischer Rat Protokolle: historische Edition, Bundesarchiv
 - BVerfGE zur Ewigkeitsklausel: bverfg.de (BVerfGE 30, 1; BVerfGE 109, 279)
 
-## Output
-
-- Zeitleiste GG-Entstehung: Juli 1948 bis 23. Mai 1949
-- WRV-Fehler und GG-Antworten: Vergleichstabelle (Art. 48/67, Art. 76/79 III usw.)
-- Parlamentarischer Rat: Hauptakteure und Entscheidungskonflikte
-
-## Quellenregel
-
-GG: gesetze-im-internet.de; BGBl. 1949, 1 (Originalfassung). BVerfGE: bverfg.de. Parlamentarischer Rat Protokolle: historische Edition Bundesarchiv. Jahrbuch öffentliches Recht Bd. 1 (1951) für Herrenchiemsee-Entwurf.

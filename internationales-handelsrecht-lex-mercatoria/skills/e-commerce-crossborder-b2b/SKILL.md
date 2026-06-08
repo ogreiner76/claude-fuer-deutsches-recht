@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerc
 
 # Grenzüberschreitender B2B-E-Commerce
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerce. EU-E-Commerce-RL 2000/31/EG (Herkunftslandprinzip), Vertragsschluss online (CISG Art. 14-24), elektronische Signaturen (eIDAS-VO), Digital Markets Act und Plattformhaftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Digitale Beschaffung und Vertrieb über Online-Plattformen werfen spezifische Re
 - Plattformbedingungen: DMA/DSA-Compliance check für neue Marktplatzteilnahme
 - CISG auf Online-Handel: Frist- und Zugangsregelungen digital umsetzen
 
-## Output
-
-- Online-Vertragsschluss-Schema (CISG-konform)
-- eIDAS-Signaturtypen-Übersicht
-- DMA/DSA-Pflichten-Checkliste für Marktplatzteilnehmer
-
-## Quellenregel
-
-E-Commerce-RL 2000/31/EG: eur-lex.europa.eu. eIDAS-VO 910/2014: eur-lex.europa.eu. DMA 2022/1925: eur-lex.europa.eu. DSA 2022/2065: eur-lex.europa.eu. CISG: uncitral.un.org. Unsicherheit bleibt sichtbar.

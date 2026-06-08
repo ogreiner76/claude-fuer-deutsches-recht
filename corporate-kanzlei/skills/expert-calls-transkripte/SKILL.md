@@ -123,9 +123,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Expert-Call-Compliance-Protokoll
 
 Vor dem Call:
@@ -193,3 +190,4 @@ INSIDER-COMPLIANCE-CHECK:
 - Art. 14, 15 MAR; § 17 UWG; § 201 StGB; Art. 6 DSGVO
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ohly/Sosnitza UWG § 17; Assmann/Schneider/Muelbert WpHG Art. 14 MAR
+

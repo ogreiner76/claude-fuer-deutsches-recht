@@ -5,10 +5,6 @@ description: "Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Ve
 
 # Revisions-Prozess: Redlines und Compare-Workflow
 
-## Arbeitsbereich
-
-Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Markup-zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Re
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Jeder Vertrag, jedes Vergleichsangebot, jedes Memo, das mehr als einmal die Hand wechselt, wandert durch einen Revisions-Prozess. Dieser Skill strukturiert den Workflow: Wer schickt welche Version, in welchem Modus, in welcher Farbe, mit welcher Begleitkommunikation? Er erklärt die Compare-Funktion (Vergleichen zwei Versionen, Redline erzeugen), die Konventionen für sichtbares Markup und die Trennung zwischen Arbeitsfassung und Clean Version für die Unterschrift.
-
-Der Skill richtet sich an Drafter, die Verhandlungen führen oder Schriftsätze mit Mandanten und Co-Drafter abstimmen. Er ist die operative Anwendung von sauberer Versionsführung, sichtbarem Markup und dem sicheren Austausch nach `cowork-cloud-kollaboration-drafting`.
 
 ## Eingaben
 
@@ -85,12 +75,6 @@ v5 2026-06-14 final Clean Version für Unterschrift
 - **Clean Version vergessen vor Unterzeichnung.** Vertrag wird mit eingeschalteten Tracked Changes unterschrieben. Bei späteren Streitigkeiten unklar, was Vertragstext ist.
 - **PDF-Konvertierung mit Markup.** PDF eingefrieren mit sichtbaren Tracked Changes; nicht aufhebbar.
 
-## Ausgabeformat
-
-- Redline-Dokument (Word-Datei) mit klarer Versionsbezeichnung.
-- Clean Version separat für die Unterschrift.
-- Begleit-E-Mail oder Schreiben mit Erläuterung der Hauptänderungen.
-
 ## Beispiele
 
 ### Mustertext Begleitkommunikation Redline
@@ -136,13 +120,6 @@ Rechtsanwältin
 [ ] Versand über sicheren Kanal (beA, Datenraum, verschlüsselte E-Mail)
 ```
 
-## Querverweise
-
-- `word-dokument-finish-und-layout` für die finale Versandhygiene
-- `cowork-cloud-kollaboration-drafting` für sichere Übermittlungswege
-- `anwaltsschreiben-aussergerichtlich` für die Begleitkommunikation
-- `orientierung-drafting-triage` für die Stadium-Einordnung
-
 ## Quellen (Stand 05/2026)
 
 - § 43a BRAO; § 203 StGB; gesetze-im-internet.de.
@@ -152,10 +129,3 @@ Rechtsanwältin
 - Microsoft-Dokumentation zu Vergleichen und Tracked Changes über support.microsoft.com.
 - `references/zitierweise.md` für Belegpflicht in den daraus erzeugten Dokumenten.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

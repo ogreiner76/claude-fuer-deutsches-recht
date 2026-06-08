@@ -5,10 +5,6 @@ description: "Bereitet Kommunikation mit externer Meldestelle vor im Hinweisgebe
 
 # Externes BfJ Formular
 
-## Arbeitsbereich
-
-Bereitet Kommunikation mit externer Meldestelle vor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: BfJ-Vorbereitung. Wenn der Nutzer nur eine Kurzantwort möcht
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

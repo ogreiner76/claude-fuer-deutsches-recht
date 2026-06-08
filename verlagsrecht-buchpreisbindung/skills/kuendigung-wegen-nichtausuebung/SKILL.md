@@ -5,10 +5,6 @@ description: "Verlagsrecht: Rückruf und Kündigung wegen Nichtausübung — Urh
 
 # Verl-045 · Kündigung wegen Nichtausübung (UrhG § 41)
 
-## Arbeitsbereich
-
-Verlagsrecht: Rückruf und Kündigung wegen Nichtausübung — UrhG § 41 im Detail: Voraussetzungen, Sperrfristen, Verfahren, Wirkung und Strategien für Autor und Verlag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -138,3 +134,4 @@ Der **Rückruf wegen Nichtausübung** nach UrhG § 41 ist das wichtigste gesetzl
 - **Rückrufserklärung-Entwurf**: Nach Fristablauf
 - **Wirkungsprotokoll**: Welche Rechte erlöschen; was bleibt
 - **Verlagsreaktion-Briefing**: Wenn Verlag doch noch ausüben will
+

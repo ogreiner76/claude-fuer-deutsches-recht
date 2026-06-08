@@ -1,3 +1,44 @@
+# v251.0.0 — Boilerplate-Sweep: identische Wiederholungs-Sections plugin-weit entfernt
+
+## Schwerpunkt
+
+Repo-weit wurden in 211 Plugins identische Wiederholungs-Sections aus den Skills entfernt, die in vielen Plugins dutzend- bis hundertfach gleichlautend gestanden hatten. Insgesamt 17.855 Skills wurden überarbeitet, 57.645 Boilerplate-Blöcke entfernt. Skill-spezifische Bodies, Norm-Pinpoints und Leitentscheidungen bleiben unangetastet — Sections mit drei oder mehr Norm-Pinpoints (`§`, `BVerfGE`, `BGH`, `EuGH`, `OLG`, `Art. N`) wurden grundsätzlich nicht angefasst.
+
+## Was entfernt wurde
+
+Header-basierte Blacklist auf folgenden Wiederholungs-Sections:
+
+- Arbeitsbereich, Arbeitsweise, Arbeitsauftrag, Arbeitsfragen, Aufgabe
+- Output, Output-Standard, Ausgabeformat, Ergebnisformate
+- Quellenregel, Quellenhygiene
+- Qualitätsregel, Qualitätsregeln, Qualitäts-Hardening
+- Red-Team-Fragen
+- Einstieg ohne Leerlauf, Einsatz
+- Minimal-Intake
+- Typische Artefakte, Querverweise
+- Zweck, Anwendungsbereich, Vorgehen
+- Konversationsstil
+- V61 Deal-OS Boost, Agentischer Arbeitsmodus
+- Anfänger- und First-Year-Modus, Jurisdiktionsweichen in fünf Schritten
+- Spezielle Leitplanken
+
+## Was bewahrt wurde
+
+- Fachkern, Prüfpfad, Normen-Bibliothek, Leitentscheidungen, Quellenanker
+- Skill-spezifische BGH-Linien und OLG-Rechtsprechungs-Blöcke
+- Akten- und beispielnahe Bodies aus den v243-Kaltstarts
+- Alle Norm-Pinpoint-haltigen Substanz-Sections (Schutzschwelle: ≥3 Pinpoints)
+
+## Methodik
+
+Sweep-Skript mit Header-Blacklist + Norm-Pinpoint-Substanzschutz und Sicherheits-Fallback (letzte Section eines Skills wird nie entfernt). Header-Base-Erkennung über `re.split('[:—]|\\s–\\s')`, damit Varianten wie "Fachkern: Abtretung" sauber von "Fachkern" als Boilerplate unterschieden werden.
+
+## Folge-Arbeiten
+
+Mehrere Sammelskills (z. B. `verbraucherinsolvenz-schuldenbereinigung/skills/privatdarlehen-familie`) tragen weiterhin mehrere Sub-Themen in einer SKILL.md. Diese werden in einer Folge-Version in eigenständige Skills aufgespalten.
+
+---
+
 # v250.0.0 — Testakten als echte Akten-Dumps und Release-ZIPs ohne Meta-Vorspann
 
 ## Schwerpunkt

@@ -57,9 +57,6 @@ Bei vollharmonisierenden Richtlinien (z.B. Verbraucherrechte-RL 2011/83) ist Gol
 
 § 62 Abs. 2 GGO (Goldplating-Vermeidungsgebot) — Art. 288 AEUV (Richtlinien-Regelungs-Spielraum) — §§ 1-3 GoldplatingV (Bundesregierung 2012, Berichtspflicht) — Art. 5 EUV (Verhaeltnismaessigkeit, Subsidiaritaet)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Goldplating-Liste mit Empfehlungen pro Abweichungspunkt.
@@ -67,3 +64,4 @@ Goldplating-Liste mit Empfehlungen pro Abweichungspunkt.
 ## Anschluss
 
 `verfassungsmaessigkeit-quercheck`.
+

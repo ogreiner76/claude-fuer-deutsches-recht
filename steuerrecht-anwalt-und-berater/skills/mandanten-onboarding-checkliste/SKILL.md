@@ -137,12 +137,6 @@ H. ESKALATION
 - Strukturierte Ordner (Vertrag, Vollmachten, Stamm, Korrespondenz).
 - Wiedervorlage für Folgejahr.
 
-## Output
-
-- Vollstaendige Mandantenakte.
-- DATEV Unternehmen Online Konto eingerichtet.
-- Erste Auswertung erfolgreich.
-
 ## Strategie und Praxis-Tipps
 
 - Standardisierte Onboarding-Checkliste reduziert die Fehlerquote erheblich und schuetzt vor Haftungsfaellen (§ 67 StBerG).
@@ -151,13 +145,6 @@ H. ESKALATION
 - BHV-Anzeige bei erkennbaren Risiken zeitnah (Haftungs-Praeventiv).
 - StBVV: Onboarding wahlweise als separater Auftrag nach § 13 StBVV (Beratungstaetigkeit), Pauschalvereinbarung nach § 14 StBVV oder als Teil der laufenden Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV Mandanten-Onboarding-Modul mit Checklistensystem; alternative kanzleieigene Checkliste im DMS.
-
-## Querverweise
-
-- `stb-lohn-mandantenaufnahme-onboarding` — Lohn-Onboarding.
-- `stb-pruefliste-belegabgabe-monatlich` — Belegabgabe.
-- `stb-online-portal-datev-mandantenshop` — DATEV Unternehmen Online.
-- `stb-datentransfer-mandant-cloud-dsgvo` — DSGVO im Datenverkehr.
 
 ## Quellen und Updates
 
@@ -169,10 +156,3 @@ Stand: 05/2026.
 - DSGVO Art. 13, 28.
 - DStV-Praxisleitfaden Mandantenaufnahme.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

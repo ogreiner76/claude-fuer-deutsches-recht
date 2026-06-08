@@ -5,9 +5,6 @@ description: "BFSG Hausverwalter Datenschutz im Plugin Weg Hausverwaltung: prüf
 
 # BFSG Hausverwalter Datenschutz
 
-## Arbeitsbereich
-
-**BFSG Hausverwalter Datenschutz** ordnet den Fall über die tragenden Prüfungslinien: Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 für, Betroffenenrechte nach DSGVO Art, Datenschutzverletzungen nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "BFSG Hausverwalter Datenschutz im Plugin Weg Hausverwaltung: prüf
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bfsg-hausverwalter-website-portal-2025`
@@ -66,13 +64,6 @@ Pflichten: (1) Zugängliche Gestaltung der Website/des Portals nach WCAG 2.1 AA,
 ## Portale der Praxis (Verantwortlichkeit)
 
 Casavi, Etg24, Vermieter-Cloud und Sander+Doll-Portal werden als Software-as-a-Service erbracht. Verantwortlich nach BFSG ist der Dienstleistungserbringer — das ist die Hausverwaltung, nicht der Software-Anbieter. Verwalter müssen beim Anbieter nachfragen und BFSG-Konformität vertraglich sichern. AVV und BFSG-Konformitätserklärung des Anbieters anfordern.
-
-## Output
-
-- Selbsteinstufungs-Bogen (BFSG anwendbar ja/nein: Kleinstunternehmen-Test, B2C-Prüfung)
-- Audit-Checkliste WCAG 2.1 AA für Verwalter-Website (20 Prüfpunkte mit Bewertung)
-- Anfrage-Muster an Portal-Anbieter (Casavi/Etg24) zu BFSG-Konformitätserklärung
-- Muster Erklärung zur Barrierefreiheit (Pflichtinhalt nach BFSG-Durchführungsverordnung)
 
 ## Cross-Refs
 
@@ -207,13 +198,6 @@ Normen: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
 
 Norm § 303b StGB: https://www.gesetze-im-internet.de/stgb/__303b.html
 
-## Output
-
-- Meldetext-Generator für Aufsichtsbehörde (Felder: Datum/Uhrzeit Entdeckung, Art der Verletzung, Kategorien/Anzahl Betroffener, voraussichtliche Folgen, ergriffene Maßnahmen, Kontaktdaten DSB)
-- Betroffenenbenachrichtigung (postalisch und E-Mail-Muster nach Art. 34 Abs. 2)
-- Internes Vorfalls-Logbuch (Tabelle: Datum, Vorfall, Risikostufe, Maßnahmen, Meldung ja/nein, Datum Meldung)
-- Sofortmaßnahmen-Checkliste mit Zeitstempel-Feldern
-
 ## Cross-Refs
 
 - TOM-Mindeststandards (Prävention) → `datenschutz-vvt-tom-avv-hausverwaltung`
@@ -224,3 +208,4 @@ Norm § 303b StGB: https://www.gesetze-im-internet.de/stgb/__303b.html
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Art. 33 und 34 DSGVO über https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679 und aktuelle Melde-Formulare der Landesaufsichtsbehörden live abrufen — Portaladressen und Formularversionen ändern sich.
+

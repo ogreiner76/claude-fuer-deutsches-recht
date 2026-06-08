@@ -83,12 +83,6 @@ Mobile Roboter (AMR, AGV, Liefer-, Reinigungs-, Mähroboter) werden überwiegend
 - **Versicherer nicht informiert** bei neuer Lagermenge – Deckungsausschluss.
 - **ADR-Verstöße** beim Versand defekter Zellen.
 
-## Querverweise
-
-- `ce-zeichen-fehlgebrauch-und-abmahnung`
-- `cra-produkt-mit-digitalen-elementen`
-- `robotik-recht-allgemein`
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2023/1542 (Batterie-VO).
@@ -108,3 +102,4 @@ Konkret zu prüfen:
 - Art. 6 AI-Act (Hochrisiko-KI)
 - §§ 1-19 ProdHaftG
 - RL (EU) 2024/2853 (neue Produkthaftungs-RL)
+

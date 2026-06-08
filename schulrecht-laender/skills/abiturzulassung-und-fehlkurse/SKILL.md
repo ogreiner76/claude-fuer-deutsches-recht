@@ -5,10 +5,6 @@ description: "Prüft Zulassung zum Abitur, Fehlkurse, Atteste und Nachholmöglic
 
 # Abiturzulassung und Fehlkurse
 
-## Arbeitsbereich
-
-Prüft Zulassung zum Abitur, Fehlkurse, Atteste und Nachholmöglichkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

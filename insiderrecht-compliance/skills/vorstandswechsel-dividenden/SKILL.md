@@ -5,10 +5,6 @@ description: "Prueft Insiderrecht bei Vorstandswechseln: Zeitpunkt der Insiderin
 
 # Vorstandswechsel – Insiderrecht und Ad-hoc-Pflicht
 
-## Arbeitsbereich
-
-Prueft Insiderrecht bei Vorstandswechseln: Zeitpunkt der Insiderinformation, Ad-hoc-Pflicht, Abberufung vs. Ruecktritt und Vertraulichkeitspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,20 +72,3 @@ prüft den Ad-hoc-Zeitpunkt und stellt Vertraulichkeit während der Entscheidung
 - Neuer CEO: Directors'-Dealings-Registrierung ab Dienstantritt
 - Abfindung: Meldepflichtige Transaktion nach Art. 19 MAR?
 
-## Red-Team-Fragen
-
-- Wurde der frühestmögliche Insiderinformationszeitpunkt dokumentiert?
-- Wurden Eigengeschäfte des ausscheidenden Vorstandsmitglieds im kritischen Zeitraum geprüft?
-- Ist die Ad-hoc vollständig (Name, Funktion, Datum, Nachfolge)?
-- Wurden AR-Mitglieder auf Insiderstatus während der Beratungsphase hingewiesen?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Zeitstrahl Insiderinformations-Entstehung → AR-Beschluss → Ad-hoc
-2. Ad-hoc-Entwurf Vorstandswechsel
-3. Eigengeschäfts-Prüfprotokoll für ausscheidendes Vorstandsmitglied
-4. AR-Verschwiegenheitsinstruktion für die Beratungsphase
-
-Belege ausschließlich mit: eur-lex.europa.eu, curia.europa.eu, gesetze-im-internet.de,
-bafin.de, bgh.de, dejure.org.

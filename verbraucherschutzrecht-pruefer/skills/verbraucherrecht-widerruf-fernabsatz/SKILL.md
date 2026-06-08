@@ -5,10 +5,6 @@ description: "Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, 
 
 # Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, Dienstleistungen, Wertersatz und Button-Lösung.
 
-## Arbeitsbereich
-
-Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, Dienstleistungen, Wertersatz und Button-Lösung.; Normanker: BGB §§ 312g, 355-357; EGBGB Art. 246a; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,3 +31,4 @@ BGB §§ 312g, 355-357; EGBGB Art. 246a; UWG. Der aktuelle Normtext, insbesonder
 3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
 4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
 5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
+

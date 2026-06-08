@@ -43,7 +43,3 @@ description: "AGB im Konzernverbund. Skill behandelt die AGB-rechtliche Pruefung
 3. § 307 BGB-Risiko?
 4. Steuerliche und kartellrechtliche Wechselwirkung?
 
-## Output
-
-- Klauselraster.
-- Memo zur konzerninternen AGB-Gestaltung.

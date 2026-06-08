@@ -53,10 +53,6 @@ description: "Klärt, welche Institution im Rechtssystem für eine konkrete Abw�
 - Fehlen der demokratischen Rückbindung bei weitreichenden Abwägungsentscheidungen wird nicht thematisiert.
 - Die Vorlagepflicht nach Art. 100 GG wird übersehen, wenn Abwägungsergebnisse gegen förmliches Gesetz verstoßen.
 
-## Output
-
-Das Skill liefert eine institutionelle Zuständigkeitsanalyse: Wer darf die konkrete Abwägungsentscheidung treffen, in welchem Rahmen, und mit welchem Kontrollmaßstab kann das übergeordnete Organ prüfen? Inklusive Formulierungsvorschlag für Schriftsatz oder Gutachten zur institutionellen Rüge.
-
 ## Vertiefung: Ermessen und Kontrolldichte im Mehrebenensystem
 
 Im Mehrebenensystem des deutschen Rechts besteht eine Hierarchie der Abwägungszuständigkeiten: Unionsrecht hat Anwendungsvorrang, Bundesrecht bricht Landesrecht, und innerhalb jeder Ebene gelten klare institutionelle Zuweisungen. Bei grenzüberschreitenden Sachverhalten muss die Abwägungszuständigkeit daher auf jeder Ebene gesondert bestimmt werden.
@@ -112,3 +108,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
+

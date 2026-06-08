@@ -5,10 +5,6 @@ description: "Trennt den Erfuellungsaufwand methodisch nach den drei Adressateng
 
 # NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung
 
-## Arbeitsbereich
-
-Trennt den Erfuellungsaufwand methodisch nach den drei Adressatengruppen Buerger Wirtschaft Verwaltung. Erklaert Spezifika je Gruppe Standard-Zeitwerte Lohnsaetze Bandbreiten und die typischen Falltypen. Mit Mustertabelle für die Stellungnahme und Bausteinen zur Plausibilisierung pro Gruppe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -114,14 +110,6 @@ Bausteine:
 - Konnexitaet ignoriert (Pflichten für Länder / Kommunen)
 - Buerger pauschal "geringfuegig"
 
-## Querverweise
-
-- `nkr-erfuellungsaufwand-grundbegriff`
-- `nkr-zeitwerttabelle-und-fallzahlen`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-praktikabilitaet-vollzug-test`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
@@ -130,3 +118,4 @@ Bausteine:
 - DESTATIS Verdienststrukturerhebung (jeweils aktuelle Ausgabe)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.destatis.de](https://www.destatis.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

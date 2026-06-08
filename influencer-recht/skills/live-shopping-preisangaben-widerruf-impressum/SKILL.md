@@ -5,10 +5,6 @@ description: "Influencer-Recht: Live Shopping – Preisangabenpflicht, Widerrufs
 
 # Influencer-Recht: Live Shopping – Preisangaben, Widerruf, Impressum
 
-## Arbeitsbereich
-
-Influencer-Recht: Live Shopping – Preisangabenpflicht, Widerrufsrecht, Impressumspflicht und fernabsatzrechtliche Anforderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,3 +77,4 @@ Live Shopping (Instagram Live, TikTok Shop, YouTube Shopping) löst Fernabsatzre
 - Widerrufsbelehrungs-Vorlage
 - Impressum-Vorlage für Creator
 - AGB-Kurzvorlage für Einzel-Stream
+

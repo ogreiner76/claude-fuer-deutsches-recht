@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Sachenrecht und Grundbuchgeschichte. Pr
 
 # Sachenrecht und Grundbuchgeschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Sachenrecht und Grundbuchgeschichte. Preussisches Grundbuchrecht, BGB-Sachenrecht 1900, Eintragungsgrundsatz, Grunddienstbarkeiten und Hypothekenrecht im historischen Wandel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Das Grundbuchrecht entwickelte sich aus dem mittelalterlichen Stadtbuchwesen (St
 - PreussHypG 1872: ALEX/OeNB für historischen Originaltext
 - BGH-Sachenrechtsentscheidungen: bgh.de (V. Zivilsenat)
 
-## Output
-
-- Grundbuch-Funktionsprinzipien: Eintragungs-, Publizitaets-, Konstitutivprinzip
-- Hypothek vs. Grundschuld: historische Entwicklung und Unterschiede
-- DDR-Sachenrecht-Uebergang 1990: Problemfelder
-
-## Quellenregel
-
-BGB Sachenrecht: gesetze-im-internet.de; Mugdan Bd. III. GBO: gesetze-im-internet.de. PreussHypG 1872: ALEX/OeNB. BGH V. Zivilsenat: bgh.de.

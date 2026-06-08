@@ -92,25 +92,12 @@ Rueckstellungen sind Bilanzposten für ungewisse Verbindlichkeiten, drohende Ver
 - Mandantenakte mit Bewertungsgrundlagen.
 - Bei Pruefungspflicht: WP-Pruefer-Vorbereitung.
 
-## Output
-
-- Rueckstellungs-Aufstellung.
-- Buchungen im Hauptbuch.
-- Bilanz-Position "Rueckstellungen".
-
 ## Strategie und Praxis-Tipps
 
 - Rueckstellungen sind Vorsichtsprinzip-Werkzeug — bei Pruefungspflicht WP-erfasst.
 - § 5 Abs. 4a EStG kann zur Differenz Handels-/Steuerbilanz fuehren — bei Massgeblichkeit beachten.
 - Urlaubsrueckstellung ist Standardbestandteil — auch bei kleinen Mandanten zu bilden.
 - Bei Pruefungspflicht WP-Erlaeuterung der Bewertungs-Grundlagen wichtig.
-
-## Querverweise
-
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-jahresabschluss-bestandskonten-abstimmung` — Bestandsabstimmung.
-- `stb-jahresabschluss-handels-vs-steuerbilanz` — Massgeblichkeit.
-- `stb-bwa-aufbau-grundlagen` — BWA.
 
 ## Quellen und Updates
 
@@ -121,10 +108,3 @@ Stand: 05/2026.
 - IDW PS 480; IDW RH HFA 1.009.
 - BFH-Rechtsprechung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Kaltstart, Scope und Fallrouting für digitale Barrierefreiheit. F
 
 # Barrierefreiheit Web Checker — Allgemein
 
-## Arbeitsbereich
-
-Kaltstart, Scope und Fallrouting für digitale Barrierefreiheit. Fragt Website App Webshop öffentliche Stelle BFSG BITV EN 301 549 WCAG Zielgruppe Audit-Tiefe und Output ab, schlägt passende Skills vor und startet mit Prüfplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,6 +46,3 @@ Arbeite wie ein ruhiger Accessibility-Lead mit juristischem Radar. Erst klären,
 
 Wenn Angaben fehlen, stelle höchstens eine Rückfrage. Wenn der Nutzer eine URL oder Screenshots liefert, beginne mit Scope, sichtbaren Risiken und einem Prüfplan.
 
-## Quellenregel
-
-Bei Rechtsstandfragen zuerst `references/rechtsstand-mai-2026.md` beachten. Keine Bußgeld-, Behörden- oder Standardbehauptung ohne aktuelle Quelle.

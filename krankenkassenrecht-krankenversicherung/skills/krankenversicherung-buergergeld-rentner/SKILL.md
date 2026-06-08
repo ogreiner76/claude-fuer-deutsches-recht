@@ -5,10 +5,6 @@ description: "Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: P
 
 # Bürgergeld, Rentner und Krankenversicherungspflicht
 
-## Arbeitsbereich
-
-Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: Pflichtversicherung, Beitragsübernahme, KVdR, Lückenfälle und Widersprüche. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,3 +88,4 @@ Dieser Skill klärt die **Krankenversicherung von Bürgergeld-Beziehenden und Re
 - [Deutsche Rentenversicherung KVdR](https://www.deutsche-rentenversicherung.de)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
 - [GKV-Spitzenverband Beitragsbemessung](https://www.gkv-spitzenverband.de)
+

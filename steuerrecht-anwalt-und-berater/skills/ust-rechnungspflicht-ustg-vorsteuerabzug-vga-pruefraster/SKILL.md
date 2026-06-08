@@ -5,10 +5,6 @@ description: "Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — P
 
 # Rechnungspflicht und Rechnungsberichtigung — § 14 § 14a § 14c UStG
 
-## Arbeitsbereich
-
-Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c UStG. Anwendungsfall Aussenpruefung beanstandet Rechnungen wegen formeller Maengel oder Mandant hat zu hohe Umsatzsteuer ausgewiesen. Behandelt e-Rechnung Pflicht ab 2025 ZUGFeRD XRechnung und elektronische Uebermittlung. Output Mustertabelle Pflichtangaben und Berichtigungsschreiben. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,9 @@ Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben 
 
 § 14 UStG · § 14a UStG · § 14b UStG · § 14c UStG · § 33 UStDV · § 31 UStDV · § 18 UStG (Voranmeldung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
-
 ## Abgrenzung zu anderen Skills dieses Plugins
 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+

@@ -5,10 +5,6 @@ description: "Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten 
 
 # Sichtbarkeit und Datenschutz zusammen denken
 
-## Arbeitsbereich
-
-Prüft Fotos, Livestreams, Drohnen, Teilnehmerdaten, Ordnerlisten und Polizeiaufnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -26,9 +22,6 @@ Versammlungen sind öffentlich, aber personenbezogene Daten bleiben sensibel. Sc
 3. Wann soll die Versammlung stattfinden und wann soll oder wurde sie öffentlich bekannt gemacht?
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
-
-## Arbeitsweise
-Prüfe Hausrecht, KUG/DSGVO-Schnittstellen, Presseprivilegien, Minderjährige, Ordnerlisten, Speicherfristen, Livestream-Hinweis und Drohnenrecht.
 
 ## Polizeiaufnahmen, KUG und § 201 StGB
 
@@ -48,9 +41,6 @@ Für akute Polizeikonflikte nutze zusätzlich `polizeifilmerei-beweissicherung-k
 - Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
 - Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
 
-## Output
-Output: Datenschutzhinweis, Foto-Regel und Datenminimierungsplan.
-
 ## Qualitätsgate
 - Wurde das richtige Landesrecht verwendet?
 - Ist die zuständige Behörde oder Polizeidienststelle konkret benannt?
@@ -63,3 +53,4 @@ Output: Datenschutzhinweis, Foto-Regel und Datenminimierungsplan.
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+

@@ -5,10 +5,6 @@ description: "Einordnung: Zahlen, Schwellenwerte und Berechnung im Plugin dsa dm
 
 # Einordnung: Zahlen, Schwellenwerte und Berechnung
 
-## Arbeitsbereich
-
-Einordnung: Zahlen, Schwellenwerte und Berechnung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,14 +51,3 @@ Gegenbeweis: Art. 3 Abs. 5 DMA — Marktbedingungen widerlegen die Gatekeeper-St
 ## Trade-off
 Schwellen sind Brutto-Größen — gerichtliche Überprüfung der Methodik (Definition aktiver Nutzer, Konsolidierungsgrenze) ist offen; Designated-Beschlüsse der Kommission werden vor dem EuG angegriffen. Die Marktkapitalisierungs-Schwelle macht auch wachstumsstarke Anbieter ohne hohen Umsatz erfassbar.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

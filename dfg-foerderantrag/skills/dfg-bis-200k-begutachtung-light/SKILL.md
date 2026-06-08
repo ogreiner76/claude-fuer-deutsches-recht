@@ -140,23 +140,7 @@ Arbeitsfokus: **DFG-Antrag bis 200.000 Euro**. Prüfe diese Anker am Sachverhalt
 - `DFG-Kodex Leitlinie 15` — Publikationsorgan und Qualitätssicherung.
 - `DFG-Verfahrensordnung Begutachtung` — Befangenheit, fachliche Passung und Entscheidungspfad live prüfen.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- **Kompaktantrags-Skelett** mit drei AP, einer These, einem Erkenntnisziel.
-- **Budgettabelle** unter 200k, jede Position AP-funktional.
-- **Vorarbeiten-Tabelle** drei Spalten.
-- **Entscheidungsvorlage:** "schlanker Antrag jetzt" vs. "größerer Antrag später" mit Chancen, Risiken, To-do-Liste.
-- **Schwellen-Risiko-Ampel:** Wo genau liegt die Antragssumme? Wie nahe an 200k? Welcher Puffer ist nötig, ohne in die Standardroute zu rutschen?
-
-## Querverweise
-
-- Programmstrategie: `dfg-foerderstrategie-schnell-oder-gross`
-- Formalia: `dfg-sachbeihilfe-elan-formalia`
-- Projektbeschreibung: `dfg-projektbeschreibung-arbeitsprogramm`
-- Reviewer-Brille: `dfg-reviewer-red-team`
 
 ## Quellen Stand 05/2026
 
@@ -167,10 +151,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Die 200.000-Euro-Schwelle ist Ermessen der DFG, nicht Anspruch. Frühere 100.000-Euro-Werte nicht ungeprüft fortschreiben.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

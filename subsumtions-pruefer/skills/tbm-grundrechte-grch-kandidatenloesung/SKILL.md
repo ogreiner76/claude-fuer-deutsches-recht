@@ -5,10 +5,6 @@ description: "Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einw
 
 # Gegen-TBM und Einreden prüfen
 
-## Arbeitsbereich
-
-Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden: Nichtigkeitsgründe, Anfechtung, Erfuellung, Aufrechnung, Verjährung, Zurückbehaltungsrecht, Verwirkung, Verzicht. Strukturierte Gegenprüfung nach Anspruchsaufbau. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und E
 3. Besteht eine Aufrechnungslage (§§ 387 ff. BGB)? — fällig, gleichartig, gegenseitig?
 4. Ist Verjährung eingreifend? → Skill `verjaehrung-fristen-pruefen` parallel nutzen
 5. Hat der Gläubiger durch sein Verhalten einen Vertrauenstatbestand gesetzt? → Verwirkung prüfen
-
-## Zweck
-
-Nach der positiven Subsumtion (Anspruch entstanden dem Grunde nach) prüft dieser Skill, ob Einwendungen oder Einreden des Anspruchsgegners den Anspruch ausschließen, vernichten oder hemmen. Dieser Schritt ist zwingend, bevor ein Ergebnis ausgegeben wird.
 
 ## Zentrale Paragrafenkette
 
@@ -93,9 +85,6 @@ Ist ein Nichtigkeitsgrund vorhanden?
  └─ Nein → Mitverschulden § 254 BGB prüfen → Quote
 ```
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Tabelle aller geprüften Gegenrechte mit Ergebnis (eingreifend / nicht eingreifend / fraglich). Gesamtergebnis: Anspruch besteht vollständig / gemindert / nicht durchsetzbar / nicht entstanden.
@@ -108,3 +97,4 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 <!-- AUDIT 27.05.2026
 -->
+

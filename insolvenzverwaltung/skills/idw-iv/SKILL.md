@@ -5,10 +5,6 @@ description: "Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verw
 
 # Sanierungsfähigkeit-Gate für Insolvenzverwaltung
 
-## Arbeitsbereich
-
-Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-Niveau tragfähig ist. Kernbestandteile: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpaket, integrierte GuV-/Bilanz-/Liquiditätsplanung, Fortbestehensprognose, Dokumentation und Red-Team-Gaps. Output: Sanierungsfähigkeitsvermerk, Lückenliste, Datenanforderung und Go/No-go-Ampel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspekti
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-
-Dieser Skill prüft, ob ein vorgelegtes oder erst aufzubauendes Sanierungskonzept für Insolvenzplan, Eigenverwaltung, Schutzschirm oder StaRUG wirklich belastbar ist. Er liefert keine Zertifizierung und ersetzt kein Gutachten, sondern macht die insolvenzverwalterliche Arbeitsfrage greifbar: Reicht das Konzept als Entscheidungs-, Berichts- und Verhandlungsgrundlage, oder ist es nur ein Zahlenpaket mit Hoffnungstext?
 
 ## Kaltstart in acht Fragen
 
@@ -120,16 +112,6 @@ Erstelle ein Register mit:
 - Offene Punkte: fehlender Beleg, Auswirkung, Verantwortlicher, Frist.
 - Entscheidungsvermerk: warum trotz Unsicherheiten ein Go, Conditional Go oder No-go vertretbar ist.
 
-## Ausgabeformat
-
-Liefer standardmäßig:
-
-1. **Sanierungsfähigkeitsvermerk** mit Kurzfazit, Stichtag, Rolle und Verwendungszweck.
-2. **Ampel:** Grün, Gelb, Rot mit Begründung und Stoppern.
-3. **Lückenliste:** fehlende Daten, Widersprüche, nicht belegte Annahmen, nicht gesicherte Maßnahmen.
-4. **Datenanforderung:** priorisiert nach "entscheidend", "wichtig", "nice to have".
-5. **Red-Team-Fragen:** die zehn stärksten Angriffspunkte aus Sicht von Gericht, Gläubigerausschuss, Bank und opponierendem Gläubiger.
-
 ## Red Flags
 
 - Plan zeigt Liquidität, aber keine Planbilanz.
@@ -150,6 +132,3 @@ Liefer standardmäßig:
 - `iv-plan-redteam-qualitygate` für die harte Endprüfung.
 - `iv-schutzschirm-270d` bei Schutzschirm- oder Eigenverwaltungsroute.
 
-## Quellenregel
-
-Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben. Berufsständische Standards nur als methodischen Arbeitsmaßstab verwenden, nicht als Ersatz für die rechtliche Subsumtion.

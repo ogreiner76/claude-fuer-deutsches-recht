@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Prozessrechtliche Entwicklung. Von der 
 
 # Prozessrechtliche Entwicklung
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Prozessrechtliche Entwicklung. Von der Reichskammergerichtsordnung 1495 ueber CPO 1877, ZPO 1877, VwGO 1960 bis zur elektronischen ZPO-Reform 2022. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Die Prozessrechtsgeschichte Deutschlands ist ein Spiegel der Verfassungsgeschich
 - ZPO-Reform 2002: BGBl. I 2001, 1887
 - BGH zur ZPO: bgh.de
 
-## Output
-
-- Zeitleiste Prozessrecht: RKG 1495 bis ZPO 2022
-- Vergleich: Schriftlich-roemisch-kanonisch vs. ZPO 1877 (Muendlichkeit)
-- ZPO-Reform 2002: Kernpunkte Rechtsmittelsystem
-
-## Quellenregel
-
-ZPO und VwGO: gesetze-im-internet.de. ZPO 1877: ALEX/OeNB. ZPO-Reform 2002: BGBl. I 2001, 1887. BGH: bgh.de. RKG-Ordnung 1495: historische Editionen.

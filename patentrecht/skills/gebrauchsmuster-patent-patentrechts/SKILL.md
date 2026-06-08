@@ -5,10 +5,6 @@ description: "Prüft strategisch Patent, Gebrauchsmuster, EP/PCT, Geheimhaltung,
 
 # Gebrauchsmuster oder Patent
 
-## Arbeitsbereich
-
-Prüft strategisch Patent, Gebrauchsmuster, EP/PCT, Geheimhaltung, defensive Veröffentlichung oder keine Anmeldung; berücksichtigt Offenbarung, Geschwindigkeit, Kosten, Technikart und Zielmärkte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,13 +33,6 @@ Prüft strategisch Patent, Gebrauchsmuster, EP/PCT, Geheimhaltung, defensive Ver
 5. **Geheimhaltung:** wenn Reverse Engineering schwer und Offenbarung schädlich wäre.
 6. **Defensive Veröffentlichung:** wenn Schutz nicht gesucht wird, aber Dritten Patentierung erschwert werden soll.
 
-## Output
-
-- Entscheidungsmatrix.
-- Fristenplan.
-- Kosten-/Nutzenhinweise ohne Scheingenauigkeit.
-- Empfehlung mit Alternativroute.
-
 ## Normen und Trade-offs
 
 - **Patent vs. Gebrauchsmuster (§§ 1, 3 ff. PatG vs. §§ 1, 3 GebrMG):**
@@ -55,10 +44,3 @@ Prüft strategisch Patent, Gebrauchsmuster, EP/PCT, Geheimhaltung, defensive Ver
 - **Strategie:** Doppelschutz (Patent + Gebrauchsmuster) durch Abzweigung (§ 5 GebrMG) bis 10 Jahre nach Patentanmeldung möglich.
 - Falle: Vor Anmeldung öffentliche Vorführung — bei Patent neuheitsschädlich, bei Gebrauchsmuster nur, wenn vom Anmelder/Rechtsvorgänger ausgehend und älter als 6 Monate.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

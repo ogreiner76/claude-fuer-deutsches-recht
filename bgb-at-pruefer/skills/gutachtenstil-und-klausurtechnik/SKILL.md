@@ -45,13 +45,6 @@ description: "Methodik-Skill für Gutachtenstil und Klausurtechnik im Zivilrecht
 - Ergebnis zu früh nennen: zerstört Gutachtenstruktur und führt zu Abzug.
 - Normen ohne Subsumtion zitieren ist kein Gutachtenstil.
 
-## Output
-
-- OTSE-Schema als Vorlage mit Beispiel
-- Klausuraufbau-Checkliste: was wann wie
-- Häufige Fehler-Liste mit Korrekturtipps
-- Zeitplan-Vorlage für Examensklausur
-
 ## Quellen
 
 - [§ 116 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__116.html)
@@ -83,3 +76,4 @@ Ergebnis: Abschließendes Urteil — „Das Tatbestandsmerkmal ist erfüllt/nich
 - Subsumtion für jedes Merkmal auf den Sachverhalt bezogen?
 - Zwischenergebnis und Endergebnis klar formuliert?
 - Gutachtenstil durchgehalten oder Urteilsstil eingeschlichen?
+

@@ -115,15 +115,7 @@ Wenn Sie gewinnen, koennen Sie die verausgabten Kosten von der Gegenseite festse
 - "Ich brauche keinen Anwalt, also kein Risiko." → Doch — Gegenseite hat Anwalt, dessen Kosten zahlen Sie bei Niederlage.
 - "Sachverstaendigen-Vorschuss spaere ich mir." → Ohne Vorschuss kein Sachverstaendigen-Beweis. Beweisantrag laeuft ins Leere.
 
-## Querverweise
-
-- `klage-streitwert-angabe-3-zpo` — Streitwert bestimmen.
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Erfolg vs. Kosten.
-- `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `gerichtskostenvorschuss-12-gkg` — Vorschuss zahlen.
-- `vergleich-richtervorschlag-278-ii-zpo` — Vergleichsanreiz.
-- `kostenfestsetzung-103-104-zpo` — Bei Erfolg erstattet.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. GKG- und RVG-Tabellen periodisch angepasst — Werte vor Klage verifizieren ueber justiz.de oder juris.
+

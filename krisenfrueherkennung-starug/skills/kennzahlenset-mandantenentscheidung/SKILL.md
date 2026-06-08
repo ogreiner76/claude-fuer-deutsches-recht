@@ -5,10 +5,6 @@ description: "Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage im 
 
 # Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage
 
-## Arbeitsbereich
-
-Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -53,12 +49,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Kennzahlenset Krisenfrüherkennung — Pflicht-Set für § 1 StaRUG
 - **Liquidität:** Cash-Burn-Rate, Liquide Mittel Tage, freie Kreditlinie, Kontokorrent-Auslastung.
 - **Rentabilität:** EBITDA-Marge, EBIT-Marge, Verzinsung Working Capital, Deckungsbeitrag pro Geschäftsfeld.
@@ -69,8 +59,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Trade-off:** Engmaschiges Set (15+ Kennzahlen) ist informativ, aber pflegeintensiv; minimalistisches Set (3–5) ist effizient, aber blind für Branchen-Spezifika.
 - **Praxis:** Kennzahlen werden im Reporting an die Geschäftsleitung mindestens monatlich präsentiert; bei Eintritt eines Roten Schwellenwerts wird Anzeige an Aufsichtsorgan (§ 1 Abs. 1 Satz 3 StaRUG, Stand prüfen) ausgelöst.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

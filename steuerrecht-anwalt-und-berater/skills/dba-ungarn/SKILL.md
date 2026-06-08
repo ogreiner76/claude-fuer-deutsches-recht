@@ -75,12 +75,6 @@ Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 
 ### Phase 5 — CFC-Pruefung
 ### Phase 6 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo.
-- Berechnungsbeispiel mit CFC-Hinzurechnung.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Niedrige ungarische KSt 9 Prozent kann § 8 AStG-Niedrigsteuerschwelle ausloesen — CFC obligatorisch pruefen.
@@ -153,12 +147,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Ungarn 2011 Fundstellen, BMF-Schreiben, BFH-Rechtsprechung zur Ungarn-DBA-Anwendung verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rumaenien`, `stb-dba-slowakei`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Ungarn 28.02.2011, in Kraft 30.12.2011 (BGBl. 2011 II S. 1322). MLI-Anwendung (Covered Tax Agreement). AStG-Niedrigsteuerschwelle 15 Prozent (§ 8 Abs. 5 AStG). Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle, MLI-Status, Quellensteuer-Saetze, AStG-Schwelle 15%), 1 ersetzt (BFH I R 42/16 nicht belegbar, durch BFH I R 95/10 zum DBA-Ungarn ersetzt) -->
+

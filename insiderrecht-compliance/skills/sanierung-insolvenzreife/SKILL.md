@@ -5,10 +5,6 @@ description: "Prueft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRU
 
 # Sanierung und StaRUG – Insiderrecht bei Restrukturierung
 
-## Arbeitsbereich
-
-Prueft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Zeitpunkte, Ad-hoc und Glaeubiger-Informationsfluss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,21 +71,3 @@ ersten Restrukturierungsüberlegung bis zum abgeschlossenen Sanierungsplan.
 - Neues Management, neue PDMRs: Directors' Dealings-Pflichten auffrischen
 - Compliance-Policy nach Restrukturierung aktualisieren
 
-## Red-Team-Fragen
-
-- Wurde der frühestmögliche Entstehungszeitpunkt der Insiderinformation bestimmt?
-- Ist der Aufschub während der Restrukturierungsverhandlungen vollständig dokumentiert?
-- Wurden alle Gläubiger als Sekundärinsider behandelt und belehrt?
-- Werden Ad-hoc-Mitteilungen bei jeder wesentlichen Stufe des Verfahrens veröffentlicht?
-- Widersprechen öffentliche Aussagen des Vorstands der verschwiegenen Insiderinformation?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Restrukturierungs-Meilensteinmatrix mit Insiderinformations-Prüfung je Stufe
-2. Gläubiger-Insiderlisten-Framework
-3. Ad-hoc-Kaskade (StaRUG-Verfahren: Trigger × Ad-hoc-Inhalt)
-4. Aufschub-Prüfprotokoll (laufende Verhandlungen)
-
-Belege ausschließlich mit: eur-lex.europa.eu, curia.europa.eu, gesetze-im-internet.de,
-bafin.de, dejure.org.

@@ -94,15 +94,6 @@ Seit der WEG-Reform beschließen Eigentümer nicht mehr die Jahresabrechnung "al
 | Hausmeister | ja, soweit nicht Reparatur | Vertrag/Stundenliste | Stundennachweise | Aussonderung von Reparaturen |
 | Verwalterkosten WEG | nein (Verwaltungskosten) | — | — | herausnehmen |
 
-## Output
-
-- Prüftabelle Kostenpositionen
-- Rückfragen an Verwaltung (WEG-seitig)
-- Mieter-/Vermieter-Antwortentwurf
-- Korrekturvorschlag mit beziffertem Erstattungs-/Nachforderungsbetrag
-- Hinweis auf CO2KostAufG-Aufteilung
-- Datenpaket für vermietende Eigentümer: umlagefähige Positionen, nicht umlagefähige Positionen, Heizkosten/CO2, Belegliste, Schlüssel
-
 ## Cross-Refs
 
 - WEG-Abrechnungsseite → `wirtschaftsplan-jahresabrechnung-28-weg`
@@ -114,10 +105,3 @@ Seit der WEG-Reform beschließen Eigentümer nicht mehr die Jahresabrechnung "al
 
 `rechtsstand-mai-2026-faktenbank` laden. BetrKV: https://www.gesetze-im-internet.de/betrkv/ ; HeizkostenV: https://www.gesetze-im-internet.de/heizkostenv/ ; § 556 BGB: https://www.gesetze-im-internet.de/bgb/__556.html ; CO2KostAufG: https://www.gesetze-im-internet.de/co2kostaufg/ .
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

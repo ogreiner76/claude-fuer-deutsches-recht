@@ -19,15 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Zweck
-
-Das Ersteinrichtungsinterview sammelt die kanzleispezifischen Informationen, die alle anderen Skills benötigen: Rechtsgebiets-Mix, Jurisdiktion, Schutzrechtsportfolio, Durchsetzungsstrategie und Genehmigungsmatrix. Ohne dieses Interview liefern alle anderen Skills generische Ergebnisse, die möglicherweise nicht mit der Kanzleipraxis übereinstimmen.
-
-Das Interview schreibt das Kanzleiprofil in:
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/gewerblicher-rechtsschutz/CLAUDE.md`
-
-Dieser Pfad überlebt Plugin-Updates.
-
 ## Eingaben
 
 Keine Pflicht-Eingaben vor dem Start. Das Interview fragt nacheinander ab.
@@ -118,10 +109,6 @@ Zitierweise nach `../references/zitierweise.md`.
 
 Dieses Interview-Skill zitiert keine primären Rechtsquellen; es konfiguriert das System. Alle nachgelagerten Skills zitieren dann nach dem befüllten Kanzleiprofil.
 
-## Ausgabeformat
-
-Gesprächsorientiertes Q&A (ein Themenblock je Nachricht, nicht alle Fragen auf einmal). Abschluss: Bestätigungsmeldung + Link zum angelegten Profil + Liste der freigeschalteten Befehle.
-
 ## Rechtlicher Hintergrund: Relevante Normen bei Kanzleieinrichtung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -142,3 +129,4 @@ Task: Bundle 031 / Halluzinations-Reparatur
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Korrektur: GRUR 2019, 748 → GRUR 2019, 746. Verifiziert via damm-legal.de und dejure.org.
 -->
+

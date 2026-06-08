@@ -44,9 +44,6 @@ Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Prom
 - BGH 4. Strafsenat zu § 24a StVG und § 316 StGB: konkrete Aktenzeichen vor Versand in bundesgerichtshof.de oder dejure.org verifizieren.
 - OLG-Linien zu Cannabis-Grenzwert und Trennungsfähigkeit: laufende Rechtsprechung 2025/2026 — vor Versand in openjur.de oder nrwe.de prüfen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Trennlinie OWi vs. Strafrecht
 
 | Situation | Norm | Konsequenz |

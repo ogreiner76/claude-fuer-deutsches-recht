@@ -5,10 +5,6 @@ description: "Prueft administrative expense claims, postpetition goods/services,
 
 # Administrative Expenses § 503
 
-## Arbeitsbereich
-
-Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,12 +16,6 @@ Prueft administrative expense claims, postpetition goods/services, substantial c
 ## Fachkern: Administrative Expenses § 503
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass für Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Administrative Expenses § 503** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 
 ## Code- und Quellenanker
 
@@ -46,12 +36,6 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 1. Expense category bestimmen.
 2. Benefit and timing prove.
 3. Payment priority impact prüfen.
-
-## Output
-
-- 503 application checklist
-- Admin claim memo
-- Budget impact note
 
 ## Tiefencheck für die Akte
 

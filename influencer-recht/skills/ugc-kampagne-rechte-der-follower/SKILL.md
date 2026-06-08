@@ -5,10 +5,6 @@ description: "Influencer-Recht: UGC-Kampagnen – Rechte der Follower, Einwillig
 
 # Influencer-Recht: UGC-Kampagne – Rechte der Follower
 
-## Arbeitsbereich
-
-Influencer-Recht: UGC-Kampagnen – Rechte der Follower, Einwilligung, Nutzungsrechtserwerb, DSGVO und Kennzeichnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ User Generated Content-Kampagnen (Follower sollen Content einreichen) erfordern 
 - DSGVO-Datenschutztext für UGC-Kampagne
 - Nutzungsrechts-Bestätigung (Einzel-Follower)
 - Preis-Übergabe-Protokoll
+

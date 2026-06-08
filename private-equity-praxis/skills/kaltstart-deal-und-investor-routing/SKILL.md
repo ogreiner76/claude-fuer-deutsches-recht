@@ -132,14 +132,6 @@ Mandatsöffnung — Rolleneinordnung:
 - MAR-Insider-Register erst nach Bietergespräch — Marktmissbrauchsrisiko.
 - Mandantenkommunikation über private E-Mail-Konten — § 43a BRAO und § 203 StGB.
 
-## Querverweise
-
-- pe-002 für reine Begriffsklärung ohne Rechtsrahmen.
-- pe-003 für tieferes Investorprofil.
-- pe-021 für Teaser/NDA-Phase.
-- pe-022 für LOI/Term Sheet.
-- pe-040 ff. für Closing-Mechanik.
-
 ## Quellen Stand 06/2026
 
 - KAGB in der jeweils aktuellen Fassung; BaFin-Auslegungshinweise zur Verwaltung von Investmentvermögen (vor Verwendung auf Aktualität prüfen).
@@ -147,3 +139,4 @@ Mandatsöffnung — Rolleneinordnung:
 - FKVO (Verordnung (EG) 139/2004); FSR (Verordnung (EU) 2022/2560).
 - MinStG (Pillar Two, in Kraft seit 01.01.2024).
 - DSGVO Art. 28; § 43a Abs. 2 BRAO; § 203 StGB für Mandatsgeheimnis.
+

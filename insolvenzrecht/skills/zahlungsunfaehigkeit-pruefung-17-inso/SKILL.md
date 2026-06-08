@@ -25,13 +25,6 @@ Erstellt ein strukturiertes Prüfgutachten zum Eröffnungsgrund der Zahlungsunf�
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Dieser Skill führt eine strukturierte, an der BGH-Rechtsprechung und IDW S 11 ausgerichtete
-Prüfung durch, ob zum maßgeblichen Stichtag Zahlungsunfähigkeit i.S.d. § 17 InsO vorliegt.
-Das Ergebnis ist ein dokumentierbares Gutachten, das vor Insolvenzgerichten, im Anfechtungs-
-und Haftungsprozess sowie gegenüber dem vorläufigen Insolvenzverwalter Stand hält.
-
 ## Eingaben
 
 Der Nutzer stellt folgende Informationen bereit (fehlende Angaben werden abgefragt):
@@ -310,3 +303,4 @@ GESAMT LIQUIDE: EUR [SUMME]
 LIQUIDITAETSLUECKE: EUR [SUMME] = [X%] der faelligen Verbindlichkeiten
 ERGEBNIS: [Zahlungsunfaehigkeit i.S.d. § 17 InsO: JA / NEIN / ZAHLUNGSSTOCKUNG]
 ```
+

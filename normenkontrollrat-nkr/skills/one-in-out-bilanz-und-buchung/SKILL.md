@@ -108,14 +108,6 @@ Rueckfrage nur wenn unklar: *"Liegt eine ressortinterne One-in-one-out-Buchung v
 - Kreuzkompensation ohne Vereinbarung
 - Belastung in einem Jahr, Entlastung erst in 3 Jahren
 
-## Querverweise
-
-- `nkr-einmalig-vs-jaehrlich-laufend`
-- `nkr-eu-richtlinien-umsetzung-und-goldplating`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `nkr-evaluation-und-jahresbericht`
-- `legistik-werkstatt/normenkontrollrat-kmu-check`
-
 ## Quellen Stand 06/2026
 
 - Beschluss der Bundesregierung 2015 zu One-in-one-out (Stand und Modifizierungen sind vom Anwender zu verifizieren)
@@ -124,3 +116,4 @@ Rueckfrage nur wenn unklar: *"Liegt eine ressortinterne One-in-one-out-Buchung v
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de) und [www.bundesregierung.de](https://www.bundesregierung.de)
+

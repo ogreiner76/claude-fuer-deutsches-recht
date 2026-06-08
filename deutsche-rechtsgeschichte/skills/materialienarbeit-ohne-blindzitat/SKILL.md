@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korr
 
 # Materialienarbeit ohne Blindzitat
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mit den Mugdan-Materialien, Reichstagsdebattenprotokollen und parlamentarischen Entwurfsbegruendungen ohne Quellenfiktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,12 +63,3 @@ Materialienarbeit bedeutet das direkte Arbeiten mit den Entstehungsquellen einer
 - BT-Drucksachen: bundestag.de für neuere Gesetze
 - Kein Materialien-Blindzitat: Immer Band, Seite, Kontext
 
-## Output
-
-- Anleitung Materialienarbeit: Mugdan, Protokolle, Reichstagsdebatte
-- Beispielzitat aus Mugdan Bd. II zu BGB § 242 mit Kontext
-- Checkliste: 5 Fehler bei Materialienarbeit und wie man sie vermeidet
-
-## Quellenregel
-
-Mugdan: historische Ausgabe 1899, Band und Seite zwingend. Reichstagsprotokolle: reichstagsprotokolle.de. BT-Drucksachen: bundestag.de. Kein Blindzitat.

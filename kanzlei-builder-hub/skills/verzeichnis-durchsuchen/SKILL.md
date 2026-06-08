@@ -20,13 +20,6 @@ description: "Skill-Verzeichnis nach Rechtsgebiet, Norm oder Mandantentyp durchs
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: Registry-Skills duerfen keine Mandantengeheimnisse an externe Anbieter uebermitteln
 - § 203 StGB — Verletzung von Privatgeheimnissen: Community-Skills muessen mandatsgeheimnisskonform sein
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Skills in den beobachteten Registries finden. Suchen, Vorschau anzeigen, entscheiden. Dieser Skill installiert nichts — er zeigt, was verfügbar ist. Das Installieren übernimmt `/kanzlei-builder-hub:skill-installierer`.
-
 ## Eingaben
 
 - Suchbegriff (optional — ohne Argument werden alle Skills aller Registries aufgelistet)
@@ -65,6 +58,7 @@ Zusätzlich: nach Kategorie browsen, falls die Registry so organisiert ist.
 ### Schritt 4: Treffer präsentieren
 
 ```markdown
+
 ## Suche: "[Suchbegriff]"
 
 **[N] Skills in [M] Registries gefunden:**
@@ -108,19 +102,10 @@ Keine direkten Rechtsnormen-Zitate. Bei Fragen zu vertrauenswürdigen Drittanbie
 - § 43a Abs. 2 BRAO (Verschwiegenheit — Grundlage für Prüfung, ob Registry-Skills Mandantendaten gefährden könnten)
 - Zitierweise nach `../references/zitierweise.md`
 
-## Ausgabeformat
-
-Strukturierte Trefferliste mit:
-- Skill-Name, Registry-Herkunft, Rechtsgebiet-Tag
-- Kurzbeschreibung (aus Frontmatter)
-- Aktualitätsdatum (falls angegeben)
-- Links: "Vollständige SKILL.md anzeigen" / "Installieren"
-- Kennzeichnung bereits installierter Skills
-- Am Ende: "[N] weitere Skills nicht angezeigt. Filter anpassen?"
-
 ## Beispiel
 
 ```
+
 ## Suche: "NDA"
 
 3 Skills in 2 Registries gefunden:
@@ -154,3 +139,4 @@ Zuletzt verifiziert: 2024-09-01 ⚠️ Aktualität prüfen (>6 Monate)
 - Skills installieren. Das macht `skill-installierer`.
 - Skills bewerten oder Empfehlungen geben (nur Profil-Passung-Filterung). Den Rohtext prüfen; Sie urteilen.
 - Das gesamte Internet durchsuchen. Nur beobachtete Registries.
+

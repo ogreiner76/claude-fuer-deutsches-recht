@@ -5,10 +5,6 @@ description: "GKV-Psychotherapie: Richtlinienpsychotherapie, Systemversagen und 
 
 # Psychotherapie: Kostenerstattung, Systemversagen und Akutbehandlung
 
-## Arbeitsbereich
-
-GKV-Psychotherapie: Richtlinienpsychotherapie, Systemversagen und Kostenerstattung privater Therapeuten, Akutbehandlung nach § 92 SGB V. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,3 +89,4 @@ Dieser Skill bearbeitet **GKV-Psychotherapieleistungen**: Anspruch auf Richtlini
 - [BVerfG 1 BvR 673/17](https://www.bverfg.de/entscheidungen.html)
 - [dejure.org § 13 SGB V](https://dejure.org/gesetze/SGB_V/13.html)
 - [Kassenärztliche Bundesvereinigung PT](https://www.kbv.de/html/psychotherapie.php)
+

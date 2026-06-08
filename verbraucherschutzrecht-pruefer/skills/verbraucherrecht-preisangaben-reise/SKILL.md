@@ -5,10 +5,6 @@ description: "Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis,
 
 # Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.
 
-## Arbeitsbereich
-
-Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.; Normanker: PAngV; UWG §§ 3 und 5 und 5a; DSA-Schnittstellen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,3 +31,4 @@ PAngV; UWG §§ 3, 5, 5a; DSA-Schnittstellen. Der aktuelle Normtext, insbesonder
 3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
 4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
 5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
+

@@ -10,10 +10,6 @@ description: "Werkvertrag: Abnahme § 640 BGB, Fälligkeit der Vergütung, fingi
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Abnahme beim Werkvertrag nach §§ 640 und 641 BGB prüfen: Abnahmepflicht des Bestellers, Rechtsfolgen der Abnahme (Fälligkeit, Gefahrübergang, Verjährungsbeginn), fingierte Abnahme und Abnahmeverweigerung.
-
 ## Normanker
 
 - § 640 BGB: Abnahmepflicht des Bestellers und fingierte Abnahme
@@ -47,25 +43,13 @@ Abnahme beim Werkvertrag nach §§ 640 und 641 BGB prüfen: Abnahmepflicht des B
 - Fingierte Abnahme (§ 640 Abs. 2 BGB): Frist muss nach Fertigstellung gesetzt werden; pauschale Fristsetzung vorab genügt nicht.
 - Vorbehaltlose Abnahme in Kenntnis eines Mangels schließt Mängelansprüche aus (§ 640 Abs. 3 BGB).
 - Bei VOB/B-Verträgen gelten ergänzende Regeln zur Abnahme; diese gehen BGB vor.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Abnahme-Status-Analyse (erteilt, verweigert, fingiert)
-- Rechtsfolgen-Matrix (Fälligkeit, Gefahrübergang, Verjährungsbeginn)
-- Handlungsempfehlung (Nachfristsetzung, Mängelrüge, Klage)
-- Risikoampel
-
-## Qualitätsregeln
-
-- Wesentlichkeit eines Mangels als Schwelle zur Abnahmeverweigerung immer prüfen.
-- § 640 Abs. 3 BGB-Kenntnisausschluss aktiv in Prüfung einbauen.
-- Fingierte Abnahme nur nach korrekter Fristsetzung annehmen.
 
 ## Anschluss-Skills
 
@@ -79,10 +63,4 @@ Abnahme beim Werkvertrag nach §§ 640 und 641 BGB prüfen: Abnahmepflicht des B
 - https://www.gesetze-im-internet.de/bgb/__640.html
 - https://www.gesetze-im-internet.de/bgb/__641.html
 - https://www.gesetze-im-internet.de/bgb/__634a.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

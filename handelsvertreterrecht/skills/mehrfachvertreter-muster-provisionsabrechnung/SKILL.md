@@ -64,10 +64,6 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 - Ausgleichsanspruch nur gegen einen Unternehmer geltend gemacht — weitere Ansprüche vergessen.
 - Geheimhaltungspflicht nach § 86 Abs. 2 HGB gegenüber einem Unternehmer verletzt.
 
-## Output
-
-Interessenkonflikt-Analyse, Offenlegungsschreiben, Ausgleichsberechnung je Unternehmer.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +85,4 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 92b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__92b.html)
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [Dejure § 86 HGB](https://dejure.org/gesetze/HGB/86.html)
+

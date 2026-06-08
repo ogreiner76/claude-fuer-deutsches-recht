@@ -5,9 +5,6 @@ description: "Klage Niederschrift Zusammenstellen Bundle im Selbstvertretung am 
 
 # Klage Niederschrift Zusammenstellen Bundle
 
-## Arbeitsbereich
-
-**Klage Niederschrift Zusammenstellen Bundle** ordnet den Fall über die tragenden Prüfungslinien: Klage auf der Geschäftsstelle des SG diktieren § 90 SGG, Komplette Klage als Paket zusammenstellen, Welche Klage passt zu Ihrem Fall. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Klage Niederschrift Zusammenstellen Bundle im Selbstvertretung am 
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `klage-zur-niederschrift-90-sgg`
@@ -130,25 +128,9 @@ Sie bekommen eine Kopie der Niederschrift. Aufheben! Das ist Ihr Beweis.
 - Beim Vorlesen nicht zugehoert → wichtig: Protokoll muss stimmen
 - Original-Bescheid abgegeben → immer nur Kopie
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg
-- `klagearten-uebersicht-sgg` — welche Klage
-- `oertliche-zuständigkeit-57-sgg` — welches SG
-- `dolmetscher-beim-sozialgericht-laien` — Dolmetscher
-- `terminvorbereitung-laien-checkliste-sozialgericht` — Termin-Tipps
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 90 SGG aktuell. Oeffnungszeiten variieren je SG; bitte direkt vorab anrufen oder auf der Website pruefen (www.sozialgerichtsbarkeit.de).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `klage-zusammenstellen-bundle-sozialgericht`
 
@@ -262,27 +244,9 @@ Pruefen Sie das Limit Ihres Versandwegs (z.B. MJP).
 - Schreibfehler im Antrag → Korrigieren mit Schriftsatz nachschicken (Gericht ist verstaendnisvoll)
 - Datum falsch → korrigieren
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — welche Klage
-- `klagebegruendung-laienleitfaden` — Schriftsatz
-- `anlagen-bezeichnen-und-sortieren-sozialgericht` — Anlagen
-- `einreichung-mein-justizpostfach-mjp-sozialgericht` — MJP
-- `einreichung-papierform-sozialgericht-mit-abschriften` — Post
-- `versand-selbst-zurechnung-laien-sozialgericht` — Versandbeweis
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis der Sozialgerichte.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `klagearten-uebersicht-sgg`
 
@@ -401,27 +365,9 @@ Sie koennen Anfechtungs- und Verpflichtungs- und Leistungsklage in einer Klage s
 - Falsche Klageart → SG aendert in der Regel selbst, kein Drama
 - Bei Untaetigkeit zu frueh klagen (vor 3/6 Monaten) → Klage unzulaessig
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `anfechtungsklage-54-sgg` — Detail
-- `verpflichtungsklage-54-sgg` — Detail
-- `leistungsklage-54-sgg` — Detail
-- `feststellungsklage-55-sgg` — Detail
-- `untaetigkeitsklage-88-sgg` — Detail
-- `klage-zur-niederschrift-90-sgg` — Einreichen
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 54, 55, 88 SGG aktuell. Auch bei falscher Klageart hilft das Gericht oft (Hinweispflicht, § 106 SGG).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `klagebegruendung-laienleitfaden`
 
@@ -598,27 +544,9 @@ Faustregel: 3 bis 8 Seiten reichen meist. Lieber kurz und praezise als lang und 
 - Beweise nicht beigefuegt → Anlagen vergessen
 - Wuetend formuliert → sachlich
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — Ueberblick
-- `verpflichtungsklage-54-sgg` — Verpflichtung
-- `anfechtungsklage-54-sgg` — Anfechtung
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste richtig nutzen
-- `anlagen-bezeichnen-und-sortieren-sozialgericht` — Anlagen ordnen
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 92 SGG aktuell. § 106 SGG verpflichtet das Gericht, Sie bei Formfehlern zu unterstuetzen. Bei komplexen Faellen ist Anwalt mit PKH erwaegen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `kostenfrei-vs-aufwendungsersatz-193-sgg`
 
@@ -739,22 +667,7 @@ Bei Teil-Sieg: Quotenrechnung. Beispiel: Sie wollten 1000 EUR, bekommen 500: 50 
 - Antrag vergessen → kein Geld
 - Eigene Stundenrechnung → nicht erstattungsfaehig
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `gerichtskostenfreiheit-183-sgg` — Grundlage
-- `anwaltskosten-bei-erfolg-erstattung` — Anwalt
-- `fahrtkosten-zeugen-pkh-erstattung` — Fahrtkosten
-- `urteil-sozialgericht-was-jetzt` — Urteil
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 193 SGG aktuell. RVG für Anwaltsrechnung pruefen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

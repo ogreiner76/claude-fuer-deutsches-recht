@@ -17,10 +17,6 @@ Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbrauchersch
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill unterstützt Sie bei der Entscheidung, ob Sie ein einheitliches Klauselwerk für Verbraucher- und Unternehmergeschäfte führen oder getrennte AGB-Sätze pflegen. Die Trennung folgt aus der unterschiedlichen Anwendung der §§ 305 ff. BGB.
-
 ## Eingaben
 
 - Kundenstruktur (rein B2B, rein B2C, gemischt).
@@ -62,13 +58,6 @@ Dieser Skill unterstützt Sie bei der Entscheidung, ob Sie ein einheitliches Kla
 - Rügepflicht nach § 377 HGB in Verbraucher-AGB übernommen: unwirksam.
 - Vertragsstrafe in B2C-AGB: § 309 Nr. 6 BGB.
 
-## Ausgabeformat
-
-- Strategie-Memo: B2C-only, B2B-only, gemeinsamer Korpus mit Schaltern oder getrennte AGB-Sätze.
-- Tabelle Klauseltyp / B2C-Risiko / B2B-Risiko / Empfehlung.
-- Mustertexte für die wichtigsten Konfliktklauseln in beiden Varianten.
-- Hinweise zum operativen Einsatz (Checkout-Logik, Versionierung, Vertrieb).
-
 ## Beispiele
 
 Tabelle (Auszug):
@@ -96,17 +85,10 @@ B2B-Variante:
 > (2) Bei leicht fahrlässiger Verletzung wesentlicher Vertragspflichten haftet der Anbieter der Höhe nach begrenzt auf den vertragstypischen, vorhersehbaren Schaden. Eine weitergehende Haftung für leichte Fahrlässigkeit ist ausgeschlossen.
 > (3) Die Verjährung der Ansprüche des Kunden wegen Mängeln beträgt zwölf Monate ab Gefahrübergang, soweit nicht zwingende gesetzliche Vorschriften entgegenstehen.
 
-## Querverweise
-
-- `agb-konforme-klauseln-305-310-bgb` – Grundprüfung.
-- `transparenzgebot-307-bgb` – Verständlichkeit.
-- `haftungsausschluss-und-haftungsbegrenzung` – Tiefe der Haftungs-Drafting.
-- `vertragsstrafe-339-bgb` – § 309 Nr. 6 BGB im Vergleich.
-- `kuendigungsklauseln-und-vertragsbeendigung` – § 309 Nr. 9 BGB.
-
 ## Quellen (Stand 05/2026)
 
 - §§ 13, 14, 305, 305c, 306, 307, 308, 309, 310 BGB.
 - § 377 HGB (Rügepflicht im Handelskauf).
 - BGH-Linie zur Ausstrahlung des § 309 BGB auf § 307 BGB im B2B ist vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
+

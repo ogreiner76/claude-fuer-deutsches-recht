@@ -5,10 +5,6 @@ description: "Internet-/Telefonstörung: Minderung, Ausfallentschädigung, Entst
 
 # Störung, Minderung und Ausfallentschädigung
 
-## Arbeitsbereich
-
-Internet-/Telefonstörung: Minderung, Ausfallentschädigung, Entstörungspflichten, Messprotokolle, SLA und Schadensersatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ Internet-/Telefonstörung: Minderung, Ausfallentschädigung, Entstörungspflicht
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Der Skill bearbeitet juristische Rechte mit ordentlicher technischer Dokumentation.
-
 ## Norm- und Quellenanker
 
 TKG Kundenschutz, insbesondere Minderungs-/Entschädigungsregeln live prüfen; BGB §§ 280, 536 analog nur vorsichtig; ZPO.
-
-## Arbeitsfragen
-
-1. Welche vertraglich vereinbarte Leistung fehlt?
-2. Wie wurde die Störung gemeldet und dokumentiert?
-3. Ist eine BNetzA-konforme Messkampagne nötig?
-4. Welche Ausfallentschädigung/Minderung/Schäden sind realistisch?
-
-## Output
-
-Minderungsberechnung, Providerbrief, Schlichtungs-/Klagebasis und Beweisplan.
 
 ## Red Flags
 
@@ -48,6 +29,3 @@ Minderungsberechnung, Providerbrief, Schlichtungs-/Klagebasis und Beweisplan.
 - tk-beweisplan-messung-stoerung-protokoll
 - tk-schlichtung-verbraucher
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

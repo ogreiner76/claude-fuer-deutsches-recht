@@ -47,13 +47,7 @@ Behörden sollen KI nicht blind einkaufen. Dieser Skill baut Ausschreibungs- und
 - Auditierbare menschliche Aufsicht: wer darf überstimmen, stoppen, freigeben, protokollieren?
 - Change-Control für Modellupdates, Prompt-/Systemänderungen, neue Datenquellen und neue Einsatzbereiche.
 
-## Output
-
-- Ausschreibungsklauseln.
-- Bewertungsmatrix.
-- Abnahmeprotokoll.
-- Grundrechte- und Datenschutz-Gate.
-
 ## Merksatz
 
 Der öffentliche Auftraggeber beschafft nicht nur Software, sondern Verwaltungsmacht. Die muss prüfbar bleiben.
+

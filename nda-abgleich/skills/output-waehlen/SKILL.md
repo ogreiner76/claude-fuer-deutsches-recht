@@ -9,7 +9,6 @@ description: "Output-Wahl für NDA-Abgleich: stimmt Adressat (Vertragspartner, B
 
 Diese Output-Weiche für **Nda Abgleich** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `aenderungsmodus-compliance-dokumentation` — Aenderungsmodus Compliance Dokumentation
@@ -36,7 +35,6 @@ Diese Output-Weiche für **Nda Abgleich** entscheidet, ob Memo, Antrag, Schrifts
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -46,12 +44,10 @@ Konkret zu prüfen:
 - § 307 BGB (Inhaltskontrolle)
 - § 90 HGB (Geschäftsgeheimnisse)
 - GeschGehG (Geschäftsgeheimnisgesetz)
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei NDA-Abgleich sofort: Markup mit Kommentaren oder Issue List.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

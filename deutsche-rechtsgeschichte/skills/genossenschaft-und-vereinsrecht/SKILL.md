@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Ver
 
 # Genossenschaft und Vereinsrecht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Vereinsrechts. Schulze-Delitzsch und Raiffeisen, Genossenschaftsgesetz 1867 und 1889, BGB-Vereinsrecht und Gewerkschaftsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das Genossenschaftsrecht ist eine eigenstaendige Erfolgsgeschichte des 19. Jh. H
 - BGB §§ 21-79: gesetze-im-internet.de; historisch Mugdan Bd. I
 - Gierke Das deutsche Genossenschaftsrecht (4 Bde., 1868-1913): historische Sekundaerquelle
 
-## Output
-
-- Zeitleiste Genossenschaftsrecht: 1867-2006
-- Vergleich: eG vs. e.V. (rechtliche Struktur, Haftung, Mitglieder)
-- Schulze-Delitzsch vs. Raiffeisen: Modelle und ihre gesetzliche Aufnahme
-
-## Quellenregel
-
-GenG 1889: RGBl. 1889, 55 via ALEX/OeNB. GenG aktuell: gesetze-im-internet.de. BGB Vereinsrecht: gesetze-im-internet.de. Gierke Genossenschaftsrecht (1868-1913): Band und Seite.

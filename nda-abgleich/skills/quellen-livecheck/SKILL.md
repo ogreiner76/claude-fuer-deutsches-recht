@@ -9,7 +9,6 @@ description: "Quellen-Live-Check für NDA-Abgleich: prüft Normen (BGB §§ 145 
 
 Dieser Quellen-Livecheck für **Nda Abgleich** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `aenderungsmodus-compliance-dokumentation` — Aenderungsmodus Compliance Dokumentation
@@ -36,7 +35,6 @@ Dieser Quellen-Livecheck für **Nda Abgleich** trennt amtliche Normfassung, frei
 - Dynamische Bereiche im Nda Abgleich (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
 - Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -46,12 +44,10 @@ Konkret zu prüfen:
 - § 307 BGB (Inhaltskontrolle)
 - § 90 HGB (Geschäftsgeheimnisse)
 - GeschGehG (Geschäftsgeheimnisgesetz)
-## Output
-
-Quellenkarte mit Primärnormen, Rechtsprechungssuche (Gericht/Datum/Az/Rn), Behördenstand und Zitierform nach `references/zitierweise.md`.
 
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

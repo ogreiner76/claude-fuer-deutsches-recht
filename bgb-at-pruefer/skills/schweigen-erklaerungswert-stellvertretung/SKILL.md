@@ -5,10 +5,6 @@ description: "Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Au
 
 # Schweigen und Erklärungswert
 
-## Arbeitsbereich
-
-Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der
 - AGB-Klauseln mit Schweigen als Zustimmung müssen § 307 BGB standhalten.
 - Bloßes Unterlassen der Antwort auf ein Angebot ist nie Annahme im Verbraucherrecht.
 
-## Output
-
-- Gutachtenstil-Abschnitt zum Erklärungswert des Schweigens
-- Entscheidungsbaum: Grundregel → gesetzliche Ausnahme → vertragliche Ausnahme
-- Prüfampel: Schweigen als WE / keine WE / AGB-Problem
-- Klausurlösungsskizze mit kaufmännischem Bestätigungsschreiben
-
 ## Quellen
 
 - [§ 241a BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__241a.html)
@@ -95,3 +84,4 @@ Im Verbraucherbereich sind solche Klauseln regelmäßig unwirksam (§ 308 Nr. 5 
 - Kfm. BS: Beide Kaufleute, vorangegangene Verhandlungen, zeitnah?
 - Vertraglich vereinbarter Erklärungswert: AGB-Kontrolle nach § 307 BGB?
 - Verbraucher: § 241a BGB schließt Zahlungspflicht bei unbestellter Ware aus?
+

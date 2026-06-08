@@ -24,12 +24,6 @@ Qualitätsanforderungen: klar strukturiert, alle Pflichtbestandteile, Rechtsprec
 - WDO §§ 91–92 — Schlussplädoyer TDG
 - ZDv — Formvorschriften
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - Was soll entstehen: Beschwerde, Antrag, Stellungnahme, Schriftsatz?
@@ -87,21 +81,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Vorlage: Widerspruch nach VwGO
 - Vorlage: Stellungnahme Disziplinarverfahren
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/wbo/ — WBO
-- https://www.gesetze-im-internet.de/vwgo/ — VwGO
-- https://www.gesetze-im-internet.de/wdo_2002/ — WDO
-- https://openjur.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -111,3 +90,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

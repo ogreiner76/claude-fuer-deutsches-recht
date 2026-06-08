@@ -25,14 +25,6 @@ Wenn eine Kanzlei KI-Systeme zur Bearbeitung von Mandaten einsetzt, entstehen In
 
 Art. 13 DSGVO: Informationspflicht bei der Erhebung personenbezogener Daten — der Verantwortliche muss über Empfänger (auch Auftragsverarbeiter) informieren, was KI-Anbieter als Auftragsverarbeiter einschließt. Art. 6 Abs. 1 lit. a DSGVO: Einwilligung als Rechtsgrundlage — optional, schafft aber Vertrauen. Art. 14 DSGVO: Informationspflicht, wenn Daten nicht direkt beim Betroffenen erhoben werden. Art. 46 DSGVO: Information über Drittlandtransfer. § 43a Abs. 2 BRAO: Verschwiegenheit — Mandanten müssen verstehen, dass ihre Daten an Dritte weitergegeben werden, wenn keine Anonymisierung erfolgt. § 43e BRAO: Transparenz über Dienstleister-Verhältnis. Art. 50 Abs. 4 KI-VO: Transparenzpflicht bei öffentlichen Informationstexten.
 
-## Vorgehen
-
-1. **Informationspflicht nach Art. 13 DSGVO erfüllen**: In der Datenschutzerklärung der Kanzlei KI-Anbieter als Empfänger/Auftragsverarbeiter benennen.
-2. **Mandatsvertrag anpassen**: Optional eine Klausel zur Information über KI-Einsatz aufnehmen; Einwilligung einholen, soweit personenbezogene Daten des Mandanten eingesetzt werden.
-3. **Drittland-Transfer transparent machen**: Wenn KI-Anbieter Daten außerhalb des EWR verarbeiten, Mandanten darüber informieren.
-4. **Beratung über KI-Einsatz**: Mandanten sollten wissen, dass KI nur als Werkzeug eingesetzt wird und die anwaltliche Verantwortung beim Anwalt verbleibt.
-5. **Opt-out ermöglichen**: Mandanten, die den KI-Einsatz ablehnen, sollten dies mitteilen können; die Kanzlei regelt dann den Einsatz für dieses Mandat gesondert.
-
 ## Vorlagentext / Bausteine
 
 **Klausel Datenschutzerklärung (Empfänger):**
@@ -89,3 +81,4 @@ entnehmen Sie bitte unserer Datenschutzerklaerung: [LINK/REFERENZ]
 
 Bei Fragen wenden Sie sich an: [ANSPRECHPARTNER], [EMAIL]
 ```
+

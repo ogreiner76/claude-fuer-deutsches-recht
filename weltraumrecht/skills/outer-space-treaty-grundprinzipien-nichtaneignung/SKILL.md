@@ -5,10 +5,6 @@ description: "OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verant
 
 # Weltraumrecht: Outer Space Treaty: Grundprinzipien, Nichtaneignung und nationale Verantwortung
 
-## Arbeitsbereich
-
-OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -119,3 +115,4 @@ Dieser Skill bearbeitet **Outer Space Treaty: Grundprinzipien, Nichtaneignung un
 - Luxemburger Space Resources Law: https://gouvernement.lu/en/actualites/toutes_actualites/communiques/2017/07-juillet/14-loi-espace.html
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/
 - UNOOSA COPUOS: https://www.unoosa.org/oosa/en/ourwork/copuos/index.html
+

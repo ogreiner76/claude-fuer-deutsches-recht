@@ -5,10 +5,6 @@ description: "Prüft DSGVO/BDSG bei E-Mail-Auswertung, Chatlogs, Forensik, Zugri
 
 # Datenschutz in Internal Investigations
 
-## Arbeitsbereich
-
-Prüft DSGVO/BDSG bei E-Mail-Auswertung, Chatlogs, Forensik, Zugriffen, Drittstaatentransfer und Betroffenenrechten in Internal Investigations. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,15 +68,6 @@ Dieser Skill stellt für jede Untersuchungsmaßnahme eine DSGVO-konforme Rechtsg
 - Datenschutz-Folgenabschätzung (Art. 35 DSGVO) bei Hochrisikomaßnahmen (vollständige Forensik, Massenauswertung).
 - DSB einbinden (Art. 38 DSGVO).
 
-## Red-Team-Fragen
-
-- Ist für jede Datenverarbeitungsmaßnahme eine Rechtsgrundlage dokumentiert – nicht nur behauptet?
-- Wurde die Verhältnismäßigkeit (Datenminimierung, Scope) aktiv geprüft und schriftlich festgehalten?
-- Gibt es Drittstaatentransfers, für die keine wirksame DSGVO-Grundlage vorliegt?
-- Kann ein Betroffener per Art. 15-Anfrage Einsicht in Interviewprotokolle erzwingen – und was würde er dann sehen?
-- Wurde der DSB rechtzeitig eingebunden?
-- Liegt eine Datenpanne vor, die Meldepflichten nach Art. 33/34 DSGVO ausgelöst hat?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -101,3 +88,4 @@ Dieser Skill stellt für jede Untersuchungsmaßnahme eine DSGVO-konforme Rechtsg
 - **Löschkonzept** nach Abschluss der Untersuchung
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

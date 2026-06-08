@@ -20,10 +20,6 @@ Der Skill-Name verweist auf ein BMF-Schreiben vom 22.11.2024. Massgebend für di
 
 Bei Nutzung des Skills daher: BMF v. 06.03.2025 zugrundelegen; Skill-Name dokumentationshalber bestehen lassen.
 
-## Zweck
-
-Spezial-Mandat: Mandant nutzt DeFi-Protokolle (Aave, Compound, Curve, Yearn, Uniswap V3, Lido, EigenLayer) für Lending, Yield Farming, Liquidity Mining, Staking. Anwaltliche Beratung zur **steuerlichen Erklärung** nach **BMF-Schreiben vom 06.03.2025** (ersetzt BMF v. 10.05.2022). DeFi-Komplexität: jeder Token-Tausch ist potenziell Veräußerung; LP-Token-Einlage = Tausch; Rewards = Einnahmen.
-
 ## Eingaben
 
 - Genutzte Protokolle (Aave, Compound, Uniswap, Lido, EigenLayer)
@@ -123,14 +119,7 @@ Spezial-Mandat: Mandant nutzt DeFi-Protokolle (Aave, Compound, Curve, Yearn, Uni
 | Daytrading-Niveau | § 15 EStG (Gewerblich) statt § 23 — höherer Steuersatz | Klärung Gewinn-/Volumen-Schwelle | klar privat |
 | Liquidity-Mining-Rewards in nicht-€ | Kursbewertung Tageskurs Pflicht | Tool-Bewertung | korrekt bewertet |
 
-## Querverweise
-
-- `anw-selbstanzeige-371` — bei nachträglicher Erklärung
-- `anw-dac7-dac8-plattformen-krypto` — DAC8-Meldepflichten
-- `anw-steuerbescheid-analyse` — Bescheid-Auswertung
-- `anw-aussenpruefung-strategien` — bei BP
-- `fachanwalt-erbrecht-krypto-wallet-nachlass-multisig` — bei Krypto-Erbschaft
-
 ## Quellen und Updates
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

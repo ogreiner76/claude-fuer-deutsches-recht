@@ -5,10 +5,6 @@ description: "GrESt-Bescheid prüfen und angreifen: Einspruch, Aussetzung der Vo
 
 # GrESt: Bescheid, Einspruch, AdV und § 16
 
-## Arbeitsbereich
-
-GrESt-Bescheid prüfen und angreifen: Einspruch, Aussetzung der Vollziehung, § 16 GrEStG Rueckgaengigmachung/Korrektur, doppelte Festsetzung, falsche Bemessungsgrundlage, falscher Steuersatz, Verfahrensfehler und FG-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ GrESt-Bescheid prüfen und angreifen: Einspruch, Aussetzung der Vollziehung, § 
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-
-Prüfe GrESt-Bescheide nach Asset Deal, Share Deal oder Umstrukturierung. Erstelle Einspruchs- und AdV-Strategie, wenn Bemessung, Tatbestand oder Doppelbelastung streitig sind.
 
 ## Bescheidanalyse
 
@@ -54,23 +46,7 @@ Prüfe GrESt-Bescheide nach Asset Deal, Share Deal oder Umstrukturierung. Erstel
 
 Prüfe Rückgängigmachung, Aufhebung, Nichtdurchführung, Herabsetzung und besondere Share-Deal-Korrekturen getrennt. Nie pauschal versprechen, § 16 lösche jede Doppelbelastung; Fristen, Anzeigepflichten und Bescheidstand sind entscheidend.
 
-## Output
-
-- Bescheidprüfvermerk.
-- Einspruchsentwurf.
-- AdV-Antrag.
-- § 16-Antrag oder Hilfsantrag.
-- Fristen- und Zahlungsplan.
-- Belegliste für Finanzamt und FG.
-
 ## Quellen
 
 GrEStG, AO, FGO und BFH-Volltexte öffnen. BFH-AdV-Beschlüsse als Eilverfahren kennzeichnen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfal
 
 # AG/Seminar-Vorbereitung (Cold-Call-Prep)
 
-## Arbeitsbereich
-
-AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,21 +27,6 @@ AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird
 - § 280 Abs. 1 BGB — Schadensersatz: Standard-AG-Anspruch
 - §§ 32, 34 StGB — Notwehr/Notstand: AG-Klassiker Strafrecht
 - §§ 40, 42 VwGO — Rechtsweg und Klagearten: AG-Grundlage öffentliches Recht
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill bereitet dich auf das **Aufrufen in der Arbeitsgemeinschaft (AG)** oder im **Seminar** vor. Die AG ist im deutschen Jurastudium ein zentrales Lernformat: ein Dozent (oft Referendar oder wissenschaftlicher Mitarbeiter) bespricht Übungsfälle mit kleinen Gruppen von Studierenden. Wer nicht vorbereitet ist, verliert wertvolle Übungszeit.
-
-Schwerpunkte:
-- Fallbesprechungs-AGs im Grundstudium (BGB, StGB, ÖffR)
-- Übungsklausur-AGs in der Examensvorbereitung
-- Seminargespräche mit sokratischen Dozentenbohrern
-- Lehrveranstaltungen, in denen aktive Teilnahme benotet wird (Große Übung, BGB-Übung)
-
-Das Plugin sagt **nicht**, was der Dozent fragen wird – es bohrt die Fragen, die ein erfahrener AG-Leiter wahrscheinlich stellen wird, und lässt dich antworten.
 
 ## Eingaben
 
@@ -108,41 +89,6 @@ In der AG wird das **mündliche Zitieren** erwartet – kein vollständiges Lite
 **Quellen in AGs:**
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Ausgabeformat
-
-### AG-Vorbereitung (Steckbrief)
-
-```
-**Fall / Thema:** [Kurzzusammenfassung]
-**AG-Typ:** [Grundstudium / Fortgeschrittene / Examens-AG]
-**Schwerpunktnormen:** [§§]
-**Kernstreitstand:** [1–2 Sätze]
-
-**Die 5 wahrscheinlichsten AG-Fragen:**
-1. [Frage] → [Hinweis auf relevanten Kommentarabschnitt]
-2. [Frage] → [Normbezug]
-3. [Frage] → [Streitstand mit Belegen]
-4. [Frage] → [Sachverhaltsmodifikation]
-5. [Frage] → [Vertiefungsfrage]
-
-**Sachverhaltsmodifikationen:**
-- Was ändert sich, wenn …?
-- Wie ist es, wenn …?
-
-**Vorbereiten bis:** [gezielte Seiten/Randnummern aus dem Kommentar]
-```
-
-### Simulierte AG-Sitzung
-
-```
-[AG-Leiter-Modus]
-Frage: "[Konkrete Frage im AG-Stil]"
-
-[Nutzerantwort]
-
-Nachbohren: "[Präzisierungsfrage oder Sachverhaltsmodifikation]"
-```
 
 ## Beispiel
 

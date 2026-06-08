@@ -47,14 +47,6 @@ description: "'Einstiegs-Skill für Mandantenfälle im Datenbankrecht: Weichenst
 - Fehlende Dokumentation der Investitionshöhe schwächt die Klageposition erheblich.
 - Lizenzverträge regeln oft nur das Herstellerrecht, schweigen zum Urheberrecht an einzelnen Einträgen.
 
-## Output
-
-- Schutzrechtskarte: Datenbankwerk ja/nein, Herstellerrecht ja/nein, Begründung
-- Investitionsnachweis-Checkliste
-- Verletzungsanalyse (Handlung, wesentlicher Teil, Wiederholung)
-- Empfehlung: Abmahnung / EV / Klage / Lizenzverhandlung
-- Quellenverweis auf einschlägige EuGH-Entscheidungen
-
 ## Quellen
 
 - [§ 4 UrhG — dejure.org](https://dejure.org/gesetze/UrhG/4.html)
@@ -63,3 +55,4 @@ description: "'Einstiegs-Skill für Mandantenfälle im Datenbankrecht: Weichenst
 - [EuGH C-203/02 BHB/William Hill — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-203/02)
 - [EuGH C-545/07 Apis/Lakorda — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
 - [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
+

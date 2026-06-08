@@ -5,10 +5,6 @@ description: "Nutzer fragt eine KI-VO-Frage die eigentlich unter DSGVO Produktha
 
 # Warnung: Falsche Wiese — Verwechslung der Rechtsgebiete
 
-## Zweck
-
-Ein häufiger Fehler in der Praxis besteht darin, die KI-VO auf Sachverhalte anzuwenden, die tatsächlich von einem anderen Rechtsgebiet erfasst werden — oder umgekehrt: KI-spezifische Pflichten zu übersehen, weil der Nutzer glaubt, DSGVO-Konformität genüge. Dieser Skill klärt die Abgrenzung.
-
 ## Verwechslungsfall 1 — KI-VO versus DSGVO
 
 **Häufiges Szenario:** Nutzer fragt nach Datenschutzpflichten beim Einsatz eines KI-Systems.
@@ -87,9 +83,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -116,3 +109,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

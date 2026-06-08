@@ -5,10 +5,6 @@ description: "AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungs
 
 # Auslandsverwendungszuschlag und Einsatzversorgung
 
-## Arbeitsbereich
-
-AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,12 +32,6 @@ PTBS und psychische Einsatzfolgen sind anerkannte Wehrdienstbeschädigungen. Das
 - EinsatzWVG — Einsatzweiterverwendungsgesetz
 - § 27 SVG — Wehrdienstbeschädigung
 - SGB XIV — Soziales Entschädigungsrecht
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -96,21 +86,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Prüfschema: Einsatzversorgungsansprüche SVG
 - Checkliste: Einsatzbedingte Schäden dokumentieren
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/bbesg/ — §§ 56–58 BBesG
-- https://www.gesetze-im-internet.de/einsatzwvg/ — EinsatzWVG
-- https://www.gesetze-im-internet.de/svg/ — SVG §§ 63a ff.
-- https://www.gesetze-im-internet.de/auslvzv/ — AuslVZV
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -120,3 +95,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

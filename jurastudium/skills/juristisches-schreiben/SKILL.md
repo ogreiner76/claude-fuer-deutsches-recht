@@ -5,10 +5,6 @@ description: "Juristisches Schreiben trainieren für Klausur und Seminararbeit: 
 
 # Juristische Schreibberatung
 
-## Arbeitsbereich
-
-Juristisches Schreiben trainieren für Klausur und Seminararbeit: Anwendungsfall Student will Schreibstil verbessern und benoetigt Feedback zu Formulierungen Argumentationsstruktur und Praegnanz. Gutachtenstil, Lösungsschemata, Subsumtion Methodenlehre Buergerliches Recht. Prüfraster Satzstruktur juristisch korrekt, Definitionen prazise, Subsumtion vollständig, Praegnanz ohne Weitschweifigkeit, Zitierweise korrekt. Output kommentierter Text mit Verbesserungsvorschlaegen zu Stil und Struktur. Abgrenzung zu Gutachten-Uebung für inhaltliche Prüfung und zu Subsumtionslehre. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Juristisches Schreiben trainieren für Klausur und Seminararbeit: Anwendungsfall
 - Tragende Normen verifizieren: DRiG §§ 5, 5a, 5b (Erste Prüfung), JAG der Länder, JAPO Bayern, JAG NRW, BBesG (Referendariat), Hochschulgesetze, Studienordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Justizprüfungsamt (Landesjustizverwaltung), Universität, Repetitorium, Klausurleiter, Mündliche-Prüfungs-Kommission.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Klausurgutachten (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis), Hausarbeit, Aktenvortrag (Referendar), Probeklausur, Prüfungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Juristische Schreibkompetenz entsteht durch eigenes Schreiben, Feedback und Überarbeitung — nicht dadurch, dass jemand anders den Text schreibt. Diese Skill liest den eingereichten Entwurf, benennt strukturelle und sprachliche Defizite mit Belegen aus dem Text, zeigt Techniken — und überlässt die Überarbeitung dem Studierenden.
-
-**Hardregel: Kein Umschreiben. Nie.** Strukturelles Feedback ist das Produkt. Maximal ein bis zwei markierte Formulierungsbeispiele zur Demonstration einer Technik, mit explizitem Hinweis "eigene Variante formulieren, nicht übernehmen." Wenn das Feedback in "so sollte der Absatz lauten" übergeht, hat die Skill ihren Zweck verfehlt.
 
 ## Eingaben
 
@@ -140,10 +130,6 @@ Nach 3+ Sitzungen: Wiederkehrende Schwächen benennen:
 - "Sie setzen bei drei Hausarbeiten Normen voraus, ohne sie auszulegen."
 - "Die Gliederung ist stets durchdacht; das Defizit liegt bei der Auseinandersetzung mit Gegenmeinungen."
 
-## Ausgabeformat
-
-Strukturiertes Feedback nach dem Schema in Schritt 3. Einschätzung nach Notentendenz (mit Vorbehalt: Betreuer kennen Aufgabenspezifika, die diese Skill nicht kennt). Keine Endnoten, kein Gesamtpunktwert.
-
 ## Beispiel
 
 **Textsorte:** Seminararbeit Schuldrecht BT (Kaufrecht), 15 Seiten
@@ -167,3 +153,4 @@ Zitierhinweise in diesem Feedback folgen den gängigen deutschen Zitierkonventio
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 116/12 (WRONG_TOPIC: echtes Thema Straßenverkehrsunfall NJW 2013, 1679, nicht Schriftsatzanforderungen NJW 2013, 1682 Rn. 12) korrigiert; Fundstelle auf NJW 2013, 1679 berichtigt und Beschreibung an echten Urteilsinhalt angepasst. -->
+

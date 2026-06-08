@@ -42,13 +42,3 @@ Die Modernisierung des röm. Rechts für aktuelle Rechtsfragen (Pandektistik, Ve
 - Interdisziplinär: Rechtsgeschichte + Rechtsphilosophie
 - Kaser RP I Einleitung; Schulz History of Roman Legal Science
 
-## Output
-
-- Kritische Analyse: Hauptrisiken der Modernisierung
-- Red-Team-Fragen-Katalog
-- Memo: analog verwertbar vs. historisches Relikt
-- Fallbeispiele gescheiterter Modernisierung
-
-## Quellenregel
-
-D. 50.17.1; D. 1.3 (Mommsen-Krüger). BGB: gesetze-im-internet.de. GG Art. 14 (gesetze-im-internet.de). Kaser RP I. Schulz.

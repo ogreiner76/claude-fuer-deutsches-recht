@@ -82,12 +82,6 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform für den digitalen Bele
 - Bei Mitarbeiterwechsel: Zugang aktualisieren.
 - Audit-Logs pruefen.
 
-## Output
-
-- Eingerichtetes DUO-Konto.
-- Mandant geschult.
-- Belegtransfer im Standardbetrieb.
-
 ## Strategie und Praxis-Tipps
 
 - DUO ist Effizienz-Hebel für beide Seiten — Belege landen sofort beim StB.
@@ -95,14 +89,6 @@ DATEV Unternehmen Online (DUO) ist die Standardplattform für den digitalen Bele
 - Mobile App ist Killer-Feature: Beleg-Scan direkt am Empfangsort.
 - Bei groesseren Mandanten: ERP-Anbindung pruefen (verschiedene Schnittstellen).
 - StBVV: DUO-Einrichtung als Onboarding-Bestandteil.
-
-## Querverweise
-
-- `stb-belegtransfer-datev-unternehmen-online` — Belegtransfer.
-- `stb-mandanten-onboarding-checkliste-vollservice` — Onboarding.
-- `stb-datev-bwa-modul-bedienen-tipps` — DATEV-BWA-Modul.
-- `stb-pruefliste-belegabgabe-monatlich` — Belegabgabe.
-- `stb-datentransfer-mandant-cloud-dsgvo` — DSGVO.
 
 ## Quellen und Updates
 
@@ -115,10 +101,3 @@ Stand: 05/2026.
 - DATEV-Dokumentation Unternehmen Online (aktuelle Version pruefen).
 - Verifikations-Hinweis: konkrete Programmpfade und Modul-Bezeichnungen ggf. abweichend in aktueller DATEV-Version.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

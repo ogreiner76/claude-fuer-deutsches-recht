@@ -5,10 +5,6 @@ description: "Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanz
 
 # Tax Structuring: Deutschland-Fokus
 
-## Arbeitsbereich
-
-Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -88,14 +84,6 @@ Tax Indemnity (Auszug):
 - MIP ohne Vesting-Mechanik — vorzeitiges Lohnsteuer-Event.
 - Pillar Two nicht im Konsolidierungsperimeter geprüft.
 
-## Querverweise
-
-- pe-014 für Carry-Steuer.
-- pe-027 für Sweet Equity / MIP.
-- pe-040 ff. für Closing-Mechanik (Tax-Indemnity).
-- pe-015 für Co-Investment-Steuerstruktur.
-- pe-017 für Continuation Fund mit Step-Up.
-
 ## Quellen Stand 06/2026
 
 - KStG §§ 8b, 8c, 8d.
@@ -106,3 +94,4 @@ Tax Indemnity (Auszug):
 - AO §§ 42, 90 ff.
 - BMF-Schreiben zu § 8c/8d KStG, § 4h EStG, ATAD (jeweils aktuelle Fassung vom Anwender mit aktuellem BMF zu prüfen).
 - Wachstumschancengesetz 2024; Zukunftsfinanzierungsgesetz 2023.
+

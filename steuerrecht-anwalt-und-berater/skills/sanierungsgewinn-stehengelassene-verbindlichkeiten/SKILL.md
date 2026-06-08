@@ -5,10 +5,6 @@ description: "Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-P
 
 # Sanierungsgewinn — Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation
 
-## Arbeitsbereich
-
-Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mit Loeschungsverfahren und Mindestbesteuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -414,3 +410,4 @@ Andere Plugins:
 - § 89 AO; § 42 AO.
 - § 12 Abs. 3, § 4 Abs. 2 Satz 2 UmwStG; § 2 Abs. 4 UmwStG.
 - § 272 Abs. 2 Nr. 4 HGB.
+

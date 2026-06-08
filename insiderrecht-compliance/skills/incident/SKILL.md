@@ -5,10 +5,6 @@ description: "INS Incident im Insiderrecht und Compliance im Insiderrecht Compli
 
 # INS Incident
 
-## Arbeitsbereich
-
-**INS Incident** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "INS Incident im Insiderrecht und Compliance im Insiderrecht Compli
 - Tragende Normen verifizieren: WpHG §§ 13, 14, 15-15b (i.d.F. MAR), Marktmissbrauchs-VO (MAR) 596/2014, KWG, EU-VO 600/2014 (MiFIR), BörsG; WpHG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `ins-055-incident-drill`
@@ -105,21 +102,3 @@ Protokolliere für jede Drill-Entscheidung:
 - Verbesserungsplan mit Umsetzungs-Tracking
 - Nachweis für Compliance-Committee und Aufsichtsrat
 
-## Red-Team-Fragen
-
-- Waren alle relevanten Entscheidungsträger beim Drill anwesend?
-- Wurden die realen Entscheidungsabläufe simuliert (kein „ideal case" spielen)?
-- Wurden Schwachstellen unverschönt dokumentiert?
-- Gibt es einen verbindlichen Verbesserungsplan mit Fristen?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Drill-Szenario (vollständig ausgearbeiteter Sachverhalt mit Komplikations-Inject)
-2. Rollen-Instruktionskarten (je Teilnehmer eine Seite)
-3. Entscheidungsprotokoll-Vorlage (für den Drill selbst)
-4. Auswertungs-Formular (Schwachstellen × Maßnahme × Verantwortlicher × Frist)
-5. Management-Summary für Compliance-Committee
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, bgh.de,
-dejure.org, openjur.de.

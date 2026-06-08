@@ -55,12 +55,3 @@ Beim Einstieg in einen internationalen Handelsfall müssen Rechtsordnung, anwend
 - Incoterms-Klausel als Kostentrenner, nicht als Eigentumsübertragungsregel lesen
 - ICC-Schiedsklausel auf Konnexität zur Rechtswahl prüfen
 
-## Output
-
-- Checkliste: CISG ja/nein, Incoterms-Variante, Schiedsvs. Staatsgericht
-- Kurzdiagnose der drei größten Risikopunkte
-- Entwurf Rechtswahl- und Schiedsklausel
-
-## Quellenregel
-
-Primärquellen: uncitral.un.org (CISG-Text), unidroit.org (UNIDROIT Principles), iccwbo.org (Incoterms 2020). Rechtsprechung: CISG-online.ch (Universität Basel), jusmundi.com. Unsicherheit bleibt sichtbar.

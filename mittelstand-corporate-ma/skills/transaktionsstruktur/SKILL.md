@@ -5,10 +5,6 @@ description: "Transaktionsstrukturierung: Entwickelt Strukturvarianten für Shar
 
 # Transaktionsstrukturierung
 
-## Arbeitsbereich
-
-Transaktionsstrukturierung: Entwickelt Strukturvarianten für Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Transaktionsstrukturierung: Entwickelt Strukturvarianten für Share Deal, Asset 
 ## Fachkern: Transaktionsstrukturierung
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **SPA/APA, Disclosure, Signing, Closing und Post-Closing-Mechanik**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Transaktionsstrukturierung
 
-## Zweck
-
-Entwickelt Strukturvarianten für Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung. Bewertet steuerliche, haftungsrechtliche, regulatorische und zeitliche Implikationen.
-
 ## Triage — klaere vor Strukturentscheidung
 
 1. Was ist das Kaufobjekt — Anteile (Share Deal), Einzelwirtschaftsguetern (Asset Deal), oder ein Mischobjekt (Carve-out)?
@@ -145,9 +134,6 @@ Entwickelt Strukturvarianten für Share Deal, Asset Deal, Carve-out, Joint Ventu
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Zielobjekt klaren:** Wirtschaftsguetern, Anteile, Teilbetrieb, Holding-Beteiligung — massgeblich für Strukturentscheidung
@@ -210,3 +196,4 @@ Offene Punkte: [TODO Owner Datum]
 
 - assets/templates/transaktionsstruktur-options.md
 - assets/templates/carve-out-structure-plan.md
+

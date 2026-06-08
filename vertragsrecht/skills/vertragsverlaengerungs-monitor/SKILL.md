@@ -24,15 +24,6 @@ description: "'Zeigt Verträge mit ablaufenden Kündigungsfristen an und warnt r
 - § 126 BGB — Schriftform (Original-Unterschrift nötig; E-Mail reicht nicht)
 - § 126b BGB — Textform (E-Mail, PDF)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Niemand liest einen Vertrag zweimal. Das Verlängerungsdatum wird einmal beim Review entnommen und muss dann irgendwo gespeichert werden – idealerweise an einem Ort, der 45 Tage vor Ablauf der Kündigungsfrist laut warnt, nicht 45 Tage danach. Dieser Skill pflegt das Fristen-Register und zeigt, was fällig wird.
-
-Rechtlicher Hintergrund: § 309 Nr. 9 BGB verbietet in B2C-AGB stillschweigende Verlängerungen um mehr als 1 Jahr und Kündigungsfristen über 3 Monate. Im B2B prüft § 307 BGB unangemessen lange Bindungen. Diesem Skill kommt daher auch eine präventive Prüffunktion zu: automatische Verlängerungen mit überlangen Fristen können unwirksam sein.
-
 ## Eingaben
 
 - Register `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/renewal-register.yaml`
@@ -92,16 +83,6 @@ Gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertrags
  notizen: "Preis unbegrenzt – vor Verlängerung Alternativen prüfen: X, Y."
  bgb_309_9_pruefung: "B2B – § 307 BGB prüfen; nicht direkt anwendbar"
 ```
-
-## Ausgabeformat
-
-```markdown
-### Verlängerungsübersicht – [Datum]
-
-**Fenster:** nächste [N] Tage
-**Einträge gesamt:** [N aktiv] | [N in Beobachtungsfenster]
-
----
 
 ## 🔴 Sofortiger Handlungsbedarf (0–13 Tage bis Absende-Frist)
 
@@ -164,3 +145,4 @@ Kommentare:
 - **§ 309 Nr. 9 BGB-Unwirksamkeit nicht geprüft:** Wenn der Vertrag B2C ist und die Verlängerungsklausel gegen § 309 Nr. 9 BGB verstößt, kann die Verlängerung unwirksam sein – aber man muss es wissen.
 - **Bundesland-Feiertage:** Feiertage variieren zwischen Bundesländern; pauschal "Montag bis Freitag" reicht nicht.
 - **Register-Lücken:** Verträge, die vor Plugin-Einrichtung unterzeichnet wurden, sind nicht im Register – einmaliger Erst-Import erforderlich.
+

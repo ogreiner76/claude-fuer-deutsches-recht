@@ -5,10 +5,6 @@ description: "EU-Router für TK-Recht: Richtlinie (EU) 2018/1972, Verbraucherrec
 
 # EU Electronic Communications Code Router
 
-## Arbeitsbereich
-
-EU-Router für TK-Recht: Richtlinie (EU) 2018/1972, Verbraucherrechte, Marktregulierung, Nummerierung, Universaldienst, Netzneutralität und nationale Umsetzung im TKG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ EU-Router für TK-Recht: Richtlinie (EU) 2018/1972, Verbraucherrechte, Marktregu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Wenn ein Thema europäisch geprägt ist, hilft dieser Skill, die deutsche TKG-Norm nicht isoliert zu lesen.
-
 ## Norm- und Quellenanker
 
 Richtlinie (EU) 2018/1972 (EECC); TKG 2021; BEREC/EU-Dokumente live prüfen; TDDDG/DSGVO-Schnittstelle.
-
-## Arbeitsfragen
-
-1. Welche EECC-Thematik ist betroffen?
-2. Ist die deutsche Umsetzung im TKG eindeutig oder unionsrechtlich auslegungsbedürftig?
-3. Gibt es BEREC-Leitlinien oder EU-Vorgaben?
-4. Welche nationale Behörde oder Gerichtsebene entscheidet?
-
-## Output
-
-EU-/TKG-Mapping mit Umsetzungsnormen, Argumentationslinie und Quellenliste.
 
 ## Red Flags
 
@@ -48,6 +29,3 @@ EU-/TKG-Mapping mit Umsetzungsnormen, Argumentationslinie und Quellenliste.
 - tk-marktanalyse-betraechtliche-marktmacht
 - tk-netzneutralitaet-zero-rating-throttling
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

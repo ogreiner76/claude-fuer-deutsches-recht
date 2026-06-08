@@ -87,27 +87,7 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 - "Ich warte ab, was die Gegenseite schreibt." → Beim Beklagten oft toedlich: Wer in der Frist nicht reagiert, kassiert ein Versaeumnisurteil. Skill `saeumnis-vermeiden-330-ff-zpo`.
 - "Ich verklage erstmal, einigen kann ich mich spaeter." → Vorgerichtliche Mahnung und Verzug sind Voraussetzung für manche Anspruchspositionen (z. B. Verzugszinsen). Skill `aussergerichtliche-mahnung-286-bgb`.
 
-## Querverweise
-
-- `anwaltszwang-pruefen-78-zpo` — Anwaltszwang-Check.
-- `anfaenger-workflow-amtsgericht` — besonders geführter Einstieg.
-- `sanity-check-selbstvertretung-amtsgericht` — letzte Ampel vor Versand, Termin oder Rechtsmittel.
-- `zulassungsgrenzen-check-amtsgericht` — Streitwert, AG/LG, § 495a ZPO, Berufung, Anwaltszwang.
-- `rechtsprechungschat-amtsgericht` — Rechtsprechung finden, prüfen und sauber verwenden.
-- `sachliche-zuständigkeit-amtsgericht-23-gvg` — AG ueberhaupt zuständig?
-- `oertliche-zuständigkeit-12-37-zpo` — Welches AG raeumlich?
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Lohnt sich der Prozess?
-- `kostenrisiko-streitwert-berechnen-gkg` — Was kostet das?
-- `wann-doch-anwalt-grenzfaelle` — Wann ist Selbstvertretung kein gutes Ergebnis?
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 23 Nr. 1 GVG: Wertgrenze 10.000 EUR seit 01.01.2026 (Anhebung von 5.000 EUR durch das Justizstandort-Staerkungsgesetz). § 495a ZPO: Wertgrenze 1.000 EUR (Anhebung von 600 EUR). § 511 II Nr. 1 ZPO: Berufungs-Beschwer 1.000 EUR (Anhebung von 600 EUR). MJP (Mein Justizpostfach) ist seit 2024 im Buerger-Betrieb.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

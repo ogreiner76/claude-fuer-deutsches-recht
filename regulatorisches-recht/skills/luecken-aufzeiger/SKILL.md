@@ -5,16 +5,6 @@ description: "Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder
 
 # Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen
 
-## Zweck
-
-Dieser Skill führt eine strukturierte Gap-Analyse durch: Er vergleicht interne Richtlinien und Prozesse gegen aktuelle Aufsichtsverlautbarungen – insbesondere BaFin-Rundschreiben, MaRisk-Novellen und EBA/ESMA-Leitlinien. Das Ergebnis ist eine priorisierte Gap-Liste mit konkreten Handlungsempfehlungen und Fristen.
-
-Typische Einsatzfelder:
-- MaRisk-Novelle 2023: Eigene Risikomanagementrichtlinien gegen neue AT/BT-Module prüfen
-- Neues BaFin-Rundschreiben zum Informationssicherheitsmanagement
-- EBA-Leitlinien zu Zins- und Spreadrisiken im Anlagebuch (IRRBB/CSRBB)
-- BNetzA-Festlegungen nach EnWG-Novelle gegen eigene Netzrichtlinien
-
 ## Eingaben
 
 - **Aufsichtsverlautbarung:** BaFin-Rundschreiben / Leitlinie (hochgeladen oder per Link)
@@ -99,9 +89,6 @@ Gap-Liste in `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisch
 
 Art. 20 Abs. 3 GG (Lueckenfuellungs-Pflicht) — § 5 EGBGB (Analogie) — §§ 133, 157 BGB (Auslegung) — §§ 306 Abs. 2 BGB (Lueckenfuellung AGB-Recht) — Art. 288 AEUV (Richtlinien-Umsetzungs-Luecken)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Quellen und Zitierweise
 
 Zitierweise: `../../../references/zitierweise.md`
@@ -118,14 +105,6 @@ Einschlägige Verlautbarungen und Normen:
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
 - Lerch, ZAG, 2. Aufl. 2020, § 27 Rn. 1 ff. (Risikomanagement Zahlungsinstitute).
-
-## Ausgabeformat
-
-- **Gap-Tabelle:** Priorisiert nach Schweregrad und Frist
-- **Handlungsempfehlungen:** Konkret, mit Normverweis und Verantwortlichem
-- **Dashboard-Angebot:** Bei > 10 Gaps Visualisierung anbieten
-- **Gap-Tracker:** YAML-Datei mit allen offenen Gaps
-- Reviewer-Header und Prüfernotiz wie in CLAUDE.md definiert
 
 ## Beispiel
 
@@ -163,3 +142,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Fehlende Übergangsfrist:** MaRisk-Novellen enthalten oft gestaffelte Übergangsfristen für einzelne Module. Nicht alle Gaps haben dieselbe Frist.
 - **Nur formale Prüfung:** Auch wenn eine interne Richtlinie den Anforderungswortlaut übernimmt, kann sie in der Praxis nicht gelebt werden. Hinweis auf erforderliche Prozessprüfung.
 - **Auslagerungsrisiken:** § 25b KWG-Anforderungen an ausgelagerte Tätigkeiten separat prüfen – nicht durch Richtlinienprüfung allein abgedeckt.
+

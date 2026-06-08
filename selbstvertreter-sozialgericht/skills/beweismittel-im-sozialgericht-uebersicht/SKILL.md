@@ -132,23 +132,7 @@ Vortragen Sie, wie viele Indizien zusammenpassen.
 - Sachverstaendigen-Frage nicht klar formuliert → das Gericht braucht klare Fragestellungen
 - Atteste alt (mehrere Jahre) → aktuelle einholen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `amtsermittlungsgrundsatz-103-sgg` — das Gericht ermittelt mit
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste konkret
-- `zeugenbeweis-sozialgericht-373-zpo-analog` — Zeugen
-- `medizinische-gutachten-strategie-laien` — Gutachten
-- `sachverstaendigen-wahlrecht-109-sgg` — § 109-Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Beweisrecht SGG i.V.m. ZPO klassisch.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

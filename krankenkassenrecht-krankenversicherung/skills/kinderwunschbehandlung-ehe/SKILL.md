@@ -5,10 +5,6 @@ description: "GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfo
 
 # Kinderwunschbehandlung: Ehe, Alter und Kostenquote
 
-## Arbeitsbereich
-
-GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfordernis, Altersgrenzen, 50-%-Kostenquote, Versuche und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,3 +89,4 @@ Dieser Skill klärt den **GKV-Anspruch auf Kinderwunschbehandlung**: Welche Paar
 - [GKV-Spitzenverband Kinderwunsch](https://www.gkv-spitzenverband.de)
 - [dejure.org § 27a SGB V](https://dejure.org/gesetze/SGB_V/27a.html)
 - [Bundesministerium für Gesundheit Kinderwunsch](https://www.bundesgesundheitsministerium.de)
+

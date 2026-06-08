@@ -5,10 +5,6 @@ description: "Prüft Medien- und Plattformfälle mit Löschung, Sperrung, Meldun
 
 # Presse, Plattformen und DSA-Schnittstelle
 
-## Arbeitsbereich
-
-Prüft Medien- und Plattformfälle mit Löschung, Sperrung, Meldung, Bewertungsportal, DSA-Schnittstelle, Notice-and-Action, Gegendarstellung, Antwort und Beweissicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -38,24 +34,9 @@ Dieses Fachmodul bei Onlineveröffentlichungen, Plattformmeldungen, Account-Sper
 - Bei Bildnissen: KUG und Kontext prüfen.
 - Bei Gegendarstellung: landespresserechtliche Sonderregeln prüfen, wenn Pressemedium.
 
-## Output
-
-- Plattformstrategie:
-- rechtliche Begründung:
-- Beweispaket:
-- Entwurf Meldung/Antwort:
-- Risiken bei Overclaiming:
-
 ## Fachmodule
 
 - `eugh-grch-art-11-rechtsprechung` bei Suchmaschinen, DSGVO, DSA, Uploadfiltern oder Art.-11-GRCh-Bezug.
 - `egmr-art-10-rechtsprechung` bei journalistischem Kontext, Hyperlinks, Kommentarspalten oder Art.-8-/Art.-10-Abwägung.
 - `olg-kg-praxis-rechtsprechung` bei Unterlassungsanträgen, künftigen gleichwertigen Inhalten und Tenorweite.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

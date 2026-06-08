@@ -89,12 +89,6 @@ SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkasse
 - Quittungen 10 Jahre aufbewahren (§ 28f SGB IV).
 - Elektronisch in DATEV LODAS oder Mandantenakte.
 
-## Output
-
-- Versendete Meldungen.
-- Empfangsquittungen.
-- Beleg in Mandantenakte.
-
 ## Strategie und Praxis-Tipps
 
 - Bei vielen Mandanten DATEV DAKOTA wirtschaftlich; bei wenigen sv.net ausreichend.
@@ -103,14 +97,6 @@ SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkasse
 - Wiederholte Fehlermeldungen (z.B. SV-Nummer nicht erkannt) deuten auf Stammdaten-Fehler hin.
 - StBVV: Standardmeldungen in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS automatische ITSG-Zertifikats-Erinnerung.
-
-## Querverweise
-
-- `stb-lohn-meldungen-sv-elstam-zugang` — ELStAM/SV-Meldungen.
-- `stb-lohn-monatsende-meldepflichten-checkliste` — Meldepflichten.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-jahresmeldungen-ahn-asn-besondere` — Jahresmeldungen.
-- `stb-datev-lohn-modul-lodas-luh` — DATEV LODAS.
 
 ## Quellen und Updates
 
@@ -122,10 +108,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (sv.net-Verfuegbarkeit Pruefhinweis ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

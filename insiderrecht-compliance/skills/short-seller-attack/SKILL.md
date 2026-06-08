@@ -5,10 +5,6 @@ description: "Steuert die Compliance-Reaktion auf Short-Seller-Berichte: Ad-hoc-
 
 # Short-Seller-Angriff – Compliance-Reaktion
 
-## Arbeitsbereich
-
-Steuert die Compliance-Reaktion auf Short-Seller-Berichte: Ad-hoc-Pflicht, Dementierungsgrenzen, BaFin-Zusammenarbeit und Marktmanipulationsvorwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,23 +68,6 @@ und koordiniert die Kommunikation mit der BaFin.
 - Wenn ja: Anzeige bei BaFin und Staatsanwaltschaft erwägen
 - Dokumentation: Short-Seller-Bericht sichern, Kursverlauf dokumentieren
 
-## Red-Team-Fragen
-
-- Wurde die Ad-hoc-Pflicht vollständig geprüft (nicht nur reflexartig dementiert)?
-- Werden durch die Reaktion des Emittenten unbeabsichtigt Insiderinformationen offengelegt?
-- Ist die BaFin zeitnah informiert worden?
-- Gibt es Anhaltspunkte für Marktmanipulation durch den Short Seller?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Sofortbewertungs-Checkliste (0–2 Stunden)
-2. Ad-hoc-Entscheidungs-Matrix (Reaktionspflicht × Schweigen × Richtigstellung)
-3. BaFin-Kommunikationsprotokoll
-4. Marktmanipulationsanzeige-Vorlage (falls relevant)
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Die BaFin unterscheidet zwischen legitimer kritischer Analyse (Meinungsfreiheit, Art. 20 MAR
@@ -101,3 +80,4 @@ mit einer auf Kapitalmarktrecht spezialisierten Kanzlei zu analysieren.
 Weitere Quellen:
 - Art. 20 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - § 119 WpHG: https://www.gesetze-im-internet.de/wphg/__119.html
+

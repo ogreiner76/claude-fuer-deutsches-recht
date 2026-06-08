@@ -5,10 +5,6 @@ description: "Fernabsatzvertrag § 312c BGB: prüft die einschlägigen Vorausset
 
 # Fernabsatzvertrag § 312c BGB
 
-## Arbeitsbereich
-
-Fernabsatzvertrag § 312c BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,15 +88,6 @@ Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der 
 - B2B nicht klar abgrenzen – Verbraucher kann sich darauf berufen.
 - Lieferbeschränkungen nicht vorab kommuniziert – Verstoß gegen Geo-Blocking-VO und § 312j II BGB.
 
-## Querverweise
-
-- widerrufsrecht-verbraucher-355-312g-bgb
-- button-loesung-312j-bgb
-- informationspflichten-vor-vertragsschluss-art-246a-egbgb
-- e-mail-bestellbestaetigung-vertragsschluss
-- impressum-ddg-anbieterkennzeichnung
-- agb-im-online-shop-einbeziehung-305-bgb
-
 ## Quellen Stand 06/2026
 
 - §§ 312, 312c, 312i, 312j, 312k, 355 BGB – Volltext gesetze-im-internet.de.
@@ -109,3 +96,4 @@ Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der 
 - Modernisierungs-RL 2019/2161 – EUR-Lex.
 - EuGH-Rechtsprechung zu § 312c – curia.europa.eu (Az. verifizieren).
 - BGH ständige Rechtsprechung zu Fernabsatz – bundesgerichtshof.de.
+

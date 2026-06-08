@@ -5,10 +5,6 @@ description: "Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations
 
 # Spin-off – Insiderrecht bei Unternehmensabspaltungen
 
-## Arbeitsbereich
-
-Steuert Insiderrecht-Compliance bei Spin-offs: Insiderinformations-Zeitpunkte, Ad-hoc, Insiderlisten für Mutter und Tochter sowie Post-Separation-Pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,20 +72,3 @@ Meilensteine mit potenziellem Insiderinformations-Entstehungszeitpunkt:
 - Vertragliche Regelung im Spin-off-Vertrag (Indemnification)
 - Compliance-Übergabe: Insiderlisten, Aufschubakten, Directors'-Dealings-Register
 
-## Red-Team-Fragen
-
-- Wurden alle insiderrelevanten Meilensteine zeitpunktbezogen geprüft?
-- Gibt es Informationsbarrieren zwischen Mutter und Tochter bereits vor der Trennung?
-- Wurden Haftungsfragen im Spin-off-Vertrag geregelt?
-- Sind die Insiderlisten beider Gesellschaften vollständig und getrennt?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Spin-off-Meilensteinmatrix mit Insiderinformations-Prüfung
-2. Doppeltes Insiderlisten-Framework (Mutter / Tochter)
-3. Koordinierter Ad-hoc-Entwurf (Mutter und Tochter)
-4. Post-Separation-Compliance-Roadmap
-
-Belege ausschließlich mit: eur-lex.europa.eu, curia.europa.eu, gesetze-im-internet.de,
-bafin.de, bgh.de, dejure.org.

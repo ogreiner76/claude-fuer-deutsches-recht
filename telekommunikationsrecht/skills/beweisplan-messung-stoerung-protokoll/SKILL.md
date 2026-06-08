@@ -5,10 +5,6 @@ description: "Technischer Beweisplan für TK-Streit: Breitbandmessung, Ausfallpr
 
 # Beweisplan: Messung, Störung, Protokoll
 
-## Arbeitsbereich
-
-Technischer Beweisplan für TK-Streit: Breitbandmessung, Ausfallprotokoll, Routerlogs, Technikertermine, Fotos, Tickets, SLA und Zeugen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ Technischer Beweisplan für TK-Streit: Breitbandmessung, Ausfallprotokoll, Route
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Verbraucher und Geschäftskunden, die nicht nur behaupten wollen, dass Internet oder Telefon schlecht waren.
-
 ## Norm- und Quellenanker
 
 TKG Kundenschutz; BGB Leistungsstörung; ZPO Beweis; BNetzA-Breitbandmessungsvorgaben live prüfen.
-
-## Arbeitsfragen
-
-1. Welche vertragliche Leistung ist geschuldet?
-2. Welche Messmethode ist anerkannt und reproduzierbar?
-3. Welche Störung wurde wann wem gemeldet?
-4. Welche wirtschaftlichen Folgen sind belegbar?
-
-## Output
-
-Mess- und Störungsdossier, Belegliste, Minderungs-/Schadensersatzbasis und Providerbrief.
 
 ## Red Flags
 
@@ -48,6 +29,3 @@ Mess- und Störungsdossier, Belegliste, Minderungs-/Schadensersatzbasis und Prov
 - tk-stoerung-minderung-ausfallentschaedigung
 - tk-sla-business-kunden-ausfall
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

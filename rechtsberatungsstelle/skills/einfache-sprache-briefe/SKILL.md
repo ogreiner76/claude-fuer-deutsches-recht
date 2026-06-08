@@ -5,10 +5,6 @@ description: "Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebe
 
 # [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`
 
-## Arbeitsbereich
-
-Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite verstehen. BeratungsHiG kostenfreie Beratung, BRAO niedrigschwellige Erstberatung, Leichte-Sprache-Standard. Prüfraster Hauptaussage herausarbeiten, Fachbegriffe ersetzen, kurze Saetze bildhafte Sprache, Rechte und Pflichten klar benennen. Output Brief-Übersetzung in einfacher Sprache mit Erklärung der naechsten Schritte. Abgrenzung zu Mandantenbrief für foermliche Korrespondenz und zu Einfache-Sprache-Jura-Plugin. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,16 +12,6 @@ Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebersetzen: Anwen
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Diese Skill wurde im Rahmen des Umbaus auf Version 2 aufgeteilt, weil der ursprüngliche Geltungsbereich zu heterogen war: einfache Terminbestätigungen haben andere Anforderungen als inhaltlich komplexe Statusmitteilungen.
-
-**Routine-Korrespondenz** (Terminbestätigungen, Unterlagenbitten, kurze Eingangsbestätigungen) → `skills/mandantenbrief/` — Befehl `/mandantenbrief [typ]`
-
-**Inhaltliche Statusmitteilungen an Mandanten** (was ist passiert, was passiert als nächstes, was muss der Mandant tun) → `skills/status/` im Mandanten-Modus — Befehl `/status mandant`
-
-Beide Nachfolge-Skills wenden die Verständlichkeitsstandards der Beratungsstelle an (Lesbarkeit Hauptschulniveau, keine nicht erläuterten Fachbegriffe, konkrete Handlungshinweise), wie sie in der Klinik-Konfiguration (CLAUDE.md) festgelegt sind.
 
 ## Eingaben
 
@@ -52,6 +38,7 @@ Die Verständlichkeit von Mandantenkommunikation ist eine Rechtspflicht, keine S
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Stattdessen verwenden:**
@@ -74,10 +61,6 @@ Vollständiger Ablauf in den jeweiligen SKILL.md-Dateien:
 2. Verständlichkeitsstandards der Klinik anwenden (Klinik-Konfiguration → plain-language-standard)
 3. Kein Fachjargon ohne Erläuterung; kurze Sätze; konkrete Handlungsanweisungen
 4. Supervisoren-Routing nach § 6 Abs. 2 RDG vor Versand
-
-## Ausgabeformat
-
-Keine Ausgabe — diese Skill ist inaktiv. Weiterleitung auf `/mandantenbrief [typ]` oder `/status mandant`.
 
 ## Beispiel
 
@@ -108,3 +91,4 @@ Ergebnis: Eine klare Terminbestätigung mit Ort, Zeit, Mitnahme-Unterlagen und K
 Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben zu Mandantenbriefen: `skills/status/SKILL.md`, Sektion "Quellenpflicht", und `skills/mandantenbrief/SKILL.md`.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

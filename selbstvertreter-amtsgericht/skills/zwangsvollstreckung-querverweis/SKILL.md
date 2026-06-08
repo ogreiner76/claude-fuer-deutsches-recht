@@ -5,10 +5,6 @@ description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht
 
 # Zwangsvollstreckung Querverweis
 
-## Arbeitsbereich
-
-**Zwangsvollstreckung Querverweis** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Zwangsvollstreckung Querverweis im Selbstvertretung am Amtsgericht
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zwangsvollstreckung-querverweis-substitutionsagent`
@@ -137,21 +134,7 @@ Wenn Vollstreckung erfolglos:
 - "Schuldner hat nichts — egal." → Schuldnerverzeichnis-Eintrag erlangen.
 - "Nach 5 Jahren Forderung vergessen." → 30 Jahre vollstreckbar.
 
-## Querverweise
-
-- `urteil-rechtskraft-705-zpo` — Rechtskraft.
-- `vollstreckungsklausel-724-zpo` — Klausel.
-- `kostenfestsetzung-103-104-zpo` — Kosten.
-- `gegnerische-vollstreckung-abwehr` — Bei Niederlage.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Querverweis-Skill. Fuer Details Substitutionsagent.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

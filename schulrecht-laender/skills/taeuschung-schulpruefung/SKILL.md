@@ -5,10 +5,6 @@ description: "Prüft Täuschungsvorwürfe in Klassenarbeit, Prüfung und Abitur 
 
 # Taeuschung Schulpruefung
 
-## Arbeitsbereich
-
-Prüft Täuschungsvorwürfe in Klassenarbeit, Prüfung und Abitur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,3 +70,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: Täuschungsabwehr. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

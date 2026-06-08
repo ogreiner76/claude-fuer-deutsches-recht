@@ -32,13 +32,6 @@ Erkennung Normalisierung und Verknuepfung von Aktenzeichen in der Kanzlei. Anwen
 - § 319 ZPO — Berichtigung offensichtlicher Unrichtigkeiten in Urteilen (auch Aktenzeichen)
 - § 130a ZPO — Pflichtangaben beim elektronischen Dokument, inkl. Aktenzeichen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill verhindert Suchchaos. Er erkennt Aktenzeichen aus Texten, Dateinamen, Betreffzeilen, beA-Nachrichten, PDFs, Screenshots und Notizen und verknüpft sie mit der richtigen Kanzleiakte.
-
 ## Typen von Aktenzeichen
 
 - Eigenes Kanzlei-Aktenzeichen.
@@ -62,6 +55,7 @@ Dieser Skill verhindert Suchchaos. Er erkennt Aktenzeichen aus Texten, Dateiname
 ## Ausgabe
 
 ```markdown
+
 ## Aktenzeichen-Verknüpfung
 
 | Typ | Aktenzeichen | Quelle | Akte | Sicherheit | Notiz |
@@ -71,3 +65,4 @@ Dieser Skill verhindert Suchchaos. Er erkennt Aktenzeichen aus Texten, Dateiname
 ## Sicherheitsregel
 
 Wenn zwei Akten plausibel sind, nicht automatisch ablegen. Immer nachfragen.
+

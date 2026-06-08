@@ -5,10 +5,6 @@ description: "Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Rechtsprechu
 
 # Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
-## Arbeitsbereich
-
-Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -39,13 +35,6 @@ Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Rechtsprechungscheck, stä
 - **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
 - **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
 
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -58,10 +47,4 @@ Konkret zu prüfen:
 - § 53 StPO
 - § 97 StPO
 - § 160a Abs. 1 StPO
-## Output
 
-Erzeuge Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.

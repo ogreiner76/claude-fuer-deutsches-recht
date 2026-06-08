@@ -195,24 +195,7 @@ Arbeitsfokus: **Projektbeschreibung und Arbeitsprogramm**. Prüfe diese Anker am
 - `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
 - `DFG-Kodex Leitlinie 14` — Autorschaft.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- **Ein-Seiten-Skizze** vor Langfassung.
-- **Vollgliederung** mit Seitenbudget pro Abschnitt.
-- **Arbeitspaket-Tabelle** mit fester Innenstruktur.
-- **Gantt-Chart** oder Balkengrafik.
-- **Risikomatrix** ein Eintrag pro AP.
-- **Schwächenliste:** wo der Antrag noch reviewer-anfällig ist.
-
-## Querverweise
-
-- Formalia: `dfg-sachbeihilfe-elan-formalia`
-- Finanzplan (folgt aus Arbeitsprogramm): `dfg-finanzplan-module-personal-geraete`
-- KI/Ethik/DMP: `dfg-ki-ethik-forschungsdaten`
-- Vor Einreichung: `dfg-reviewer-red-team`
 
 ## Quellen Stand 05/2026
 
@@ -222,3 +205,4 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DFG-Leitfaden für die Antragstellung (programmspezifisch): dfg.de
 
 Seitenlimits und Gliederungsempfehlungen variieren nach Programm und Vordruck — am Einreichtag aktuelle Version verifizieren.
+

@@ -5,10 +5,6 @@ description: "Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Begin
 
 # Fristenberechnung — §§ 186 bis 193 BGB
 
-## Arbeitsbereich
-
-Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach § 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,13 +54,6 @@ Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist,
 - Verjährungsfristen: § 199 BGB für Verjährungsbeginn kombiniert mit §§ 186 ff. BGB für Berechnung.
 - Bundesweite vs. landesrechtliche Feiertage können Fristende unterschiedlich verschieben.
 
-## Output
-
-- Fristenberechnungsschema mit Rechenweg und konkretem Datum
-- Übersicht §§ 186 bis 193 BGB mit Anwendungsbeispielen
-- Gutachtenstil-Abschnitt zur Frist-Prüfung
-- Klausurlösungsskizze: Frist gewahrt oder abgelaufen?
-
 ## Quellen
 
 - [§ 187 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__187.html)
@@ -96,3 +85,4 @@ Der Tag des Ereignisses (Beendigungsdatum) zählt nicht, die Frist zählt rückw
 - Feiertags- und Wochenendregelung nach § 193 BGB beachtet?
 - Anfechtungsfristen: § 121 BGB (unverzüglich) oder § 124 BGB (ein Jahr) — Fristbeginn?
 - Verjährungsfristen: § 199 Abs. 1 BGB — Entstehung und Kenntnis als Doppelerfordernis?
+

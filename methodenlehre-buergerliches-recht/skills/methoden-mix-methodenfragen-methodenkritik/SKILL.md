@@ -5,9 +5,6 @@ description: "Methoden MIX Methodenfragen Methodenkritik im Plugin Methodenlehre
 
 # Methoden MIX Methodenfragen Methodenkritik
 
-## Arbeitsbereich
-
-**Methoden MIX Methodenfragen Methodenkritik** ordnet den Fall über die tragenden Prüfungslinien: Pragmatischer Methoden-Mix im Anwaltsschriftsatz, System, Hist. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Methoden MIX Methodenfragen Methodenkritik im Plugin Methodenlehre
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `methoden-mix-in-der-praxis-anwaltsschriftsatz`
@@ -181,21 +179,6 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 - **Verfassung und Unionsrecht uebersehen.** In jedem zivilrechtlichen Schriftsatz mit Grundrechts- oder Richtlinienbezug muessen die Querschnittskanones bedacht werden.
 - **Kein Gegenargument.** Der Schriftsatz, der die gegnerische Position nicht vorwegnimmt, wirkt einseitig.
 
-## Querverweise
-
-Alle anderen Skills dieses Plugins:
-
-- `methodenlehre-buergerliches-recht-allgemein` — Workflow- und Triage-Skill.
-- `methodenlehre-anwenden` — Praxis-Skill für Fallpruefung.
-- `savigny-vier-auslegungsmethoden` — Grundkanon.
-- `wortlaut-grammatikalische-auslegung`, `systematische-auslegung`, `historische-auslegung`, `teleologische-auslegung` — Einzelmethoden.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Querschnittskanones.
-- `analogie-und-teleologische-reduktion` — Rechtsfortbildung.
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori` — Hilfsfiguren.
-- `pandekten-und-begriffsjurisprudenz`, `interessenjurisprudenz-heck`, `wertungsjurisprudenz-larenz-canaris`, `topik-viehweg-vs-systemdenken` — methodische Schulen.
-- `rechtspluralismus-und-mehrebenen-system` — Mehrebenenordnung.
-- `oekonomische-analyse-des-rechts-coase-posner`, `systemtheorie-luhmann-rechtssystem-autopoiese`, `diskurstheorie-habermas-alexy`, `legal-realism-und-critical-legal-studies` — moderne Rechtstheorien.
-
 ## Quellen und Stand 05/2026
 
 - `references/methodik-buergerliches-recht.md` im Repo.
@@ -205,14 +188,6 @@ Alle anderen Skills dieses Plugins:
 - §§ 133, 138, 157, 242, 280, 311, 433, 437, 823, 826, 985, 1004, 1626 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `methodenfragen-als-verfassungsfragen`
 
@@ -272,10 +247,6 @@ Wer die Auslegungsmethode wählt, trifft eine verfassungsrechtliche Entscheidung
 - Das Verhältnis zwischen richterlicher Unabhängigkeit (Art. 97 GG) und Methodenbindung (Art. 20 Abs. 3 GG) wird falsch bestimmt.
 - Der Wesentlichkeitsgrundsatz wird als Maßstab dafür, wann Methodenentscheidungen Gesetzgeberkompetenz berühren, nicht angewandt.
 
-## Output
-
-Das Skill liefert eine Verfassungs-Methoden-Analyse: Identifikation der methodischen Entscheidung, verfassungsrechtliche Einordnung, Prüfung auf Gebotenes und Verbotenes, Formulierung der Verfassungsrüge aus dem Methodenfehler und Einschätzung der Erfolgschancen. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Methodenkritik.
-
 ## Vertiefung: Methodenrecht als eigenständige Kategorie
 
 Einige Rechtswissenschaftler fordern ein ausdrückliches "Methodenrecht" — verbindliche gesetzliche Auslegungsregeln nach dem Vorbild von Art. 1 Abs. 1 des Schweizerischen ZGB, der den Richter zur Entscheidung nach Gewohnheitsrecht und notfalls nach eigener Regel verpflichtet. Ein solches Methodenrecht würde die Diskrepanz zwischen metodischer Praxis und normativem Anspruch systematisch adressieren.
@@ -308,9 +279,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ### Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle
 
-## Arbeitsauftrag
-Wenn ein Schriftsatz oder Gutachten mit „System“, „Natur der Sache“, „objektiver Wertung“ oder „konkreter Ordnung“ argumentiert, wird hier red-geteamt.
-
 ## Kritische Leitplanken
 - Larenz’ nationalsozialistische Vergangenheit darf bei methodischer Autoritätsbildung nicht ausgeblendet werden.
 - Canaris’ Systemdenken kann präzise Dogmatik liefern, darf aber nicht als Ersatz für Normtext, Gesetzgeberentscheidung und Präjudizien dienen.
@@ -322,9 +290,6 @@ Wenn ein Schriftsatz oder Gutachten mit „System“, „Natur der Sache“, „
 3. Historische Belastung und autoritäre Ordnungssprache markieren, ohne ad hominem zu argumentieren.
 4. Alternative quellenklare Begründung formulieren.
 5. Prozessuale Nutzbarkeit testen: Was muss bewiesen werden?
-
-## Output
-Red-Team-Memo mit ersetzbaren Formulierungen für Schriftsatz oder Gutachten.
 
 ## 4. `methodenlehre-anwenden`
 
@@ -543,10 +508,6 @@ Ein Grundproblem juristischer Argumentation ist die retrospektive Methodenwahl: 
 - Strohmann-Argumente der Gegenseite werden als vollständige Berücksichtigung der Gegenposition ausgegeben.
 - Das Audit endet mit einer Qualifikation statt mit konkreten Verbesserungsvorschlägen.
 
-## Output
-
-Das Skill liefert ein Methodenwahl-Audit: systematische Prüfung aller Indikatoren für Ergebnisoffenheit und Ergebnissteuerung, Bewertung der Gegenmethodenbehandlung, Formulierungsanalyse, Konsistenzcheck und abschließende Qualifikation mit konkreten Verbesserungsempfehlungen. Verwendbar als interne Qualitätsprüfung, Mandantenbericht oder wissenschaftliche Urteilsanalyse.
-
 ## Vertiefung: Anchoring als kognitive Falle
 
 Ein zentrales psychologisches Problem bei der Methodenwahl ist Anchoring: Der erste entwickelte Lösungsansatz beeinflusst alle folgenden Überlegungen, auch wenn er methodisch schwach ist. Das Audit sollte daher prüfen, ob die erste Ergebnishypothese den Auslegungs- und Abwägungsprozess dominiert hat. Gegenmittel ist die explizite Entwicklung von Alternativhypothesen vor Beginn der Hauptanalyse.
@@ -572,3 +533,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 3 GG – Gleichheitssatz](https://dejure.org/gesetze/GG/3.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

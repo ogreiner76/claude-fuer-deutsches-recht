@@ -5,10 +5,6 @@ description: "Prüft Auswirkungen von Retouren und Reklamationen auf den Provisi
 
 # Retouren und Reklamationen — Auswirkungen auf die Provision nach § 87a HGB
 
-## Arbeitsbereich
-
-Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unternehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Eigenverursachte Reklamation des Unternehmers — Provision irrtümlich zurückgefordert.
 - Buchauszug ohne Retourendetails — Prüfung nicht möglich.
 
-## Output
-
-Retouren-Provisionsanalyse, Nachforderungsberechnung, AGB-Prüfvermerk Retourenklausel.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 312 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__312.html)
 - [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
 - [Dejure § 87a HGB](https://dejure.org/gesetze/HGB/87a.html)
+

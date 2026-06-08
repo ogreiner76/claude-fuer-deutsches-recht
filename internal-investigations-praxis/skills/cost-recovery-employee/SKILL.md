@@ -5,10 +5,6 @@ description: "Macht Untersuchungskosten und Schäden gegen verantwortliche Mitar
 
 # Kostenerstattung und Schadensersatz gegen Mitarbeiter
 
-## Arbeitsbereich
-
-Macht Untersuchungskosten und Schäden gegen verantwortliche Mitarbeiter und Organmitglieder geltend – § 93 AktG, § 249 BGB, Verjährung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill strukturiert Schadensersatzansprüche gegen Mitarbeiter und Organmi
 - § 195 BGB: 3 Jahre ab Kenntnis (Mitarbeiter).
 - Kein Verzicht: Hauptversammlung kann nach § 93 Abs. 4 AktG erst 3 Jahre nach Entstehung auf Ansprüche verzichten.
 
-## Red-Team-Fragen
-
-- Sind alle Schadenskomponenten vollständig berechnet, einschließlich der Untersuchungskosten?
-- Läuft die Verjährung, und wurden Hemmungsmaßnahmen rechtzeitig eingeleitet?
-- Hat die D&O-Versicherung eine ordnungsgemäße Schadensmeldung erhalten?
-- Gibt es Gegenforderungen des Mitarbeiters (Gehaltsrückstände, Abfindung), die die Aufrechnung gefährden könnten?
-- Besteht Flucht- oder Vermögensverschleuderungsrisiko, das einen Arrest erfordert?
-- Kann das Unternehmen gegenüber der Hauptversammlung belegen, dass es Schadensersatzansprüche nicht verfrüht aufgegeben hat?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -97,3 +84,4 @@ Dieser Skill strukturiert Schadensersatzansprüche gegen Mitarbeiter und Organmi
 - **Verjährungs-Tracking-Tabelle**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

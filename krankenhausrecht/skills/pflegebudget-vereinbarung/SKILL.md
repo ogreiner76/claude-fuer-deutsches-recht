@@ -5,10 +5,6 @@ description: "Pflegebudget nach § 17 KHEntgG / Pflegepersonalkostenausgliederun
 
 # Pflegebudget Vereinbarung Nachweis Risiken
 
-## Arbeitsbereich
-
-Pflegebudget nach § 17 KHEntgG / Pflegepersonalkostenausgliederung: Berechnung, Nachweis, Pflegeentgeltwert, MD-Strukturpruefung, Schiedsstellenrisiken und Reformbezuege (PPR 2.0). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,14 +75,6 @@ Das Pflegebudget ist seit 2020 aus den DRG ausgegliedert (frueher § 6a KHEntgG,
 - PpUGV-Verletzung nicht in Plausibilitaet einbezogen.
 - Frist InEK-Meldung versaeumt.
 
-## Querverweise
-- `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
-- `personaluntergrenzen-pflege-ppugv`
-- `vorhalteverguetung-leistungsgruppen-krankenhausreform`
-- `schiedsstellenverfahren-krankenhausentgelt`
-- `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung`
-- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
-
 ## Quellen Stand 06/2026
 - KHEntgG § 17 i. d. F. KHVVG.
 - SGB V § 137k (PPR 2.0).
@@ -94,3 +82,4 @@ Das Pflegebudget ist seit 2020 aus den DRG ausgegliedert (frueher § 6a KHEntgG,
 - InEK-Datenlieferungsvereinbarungen (Live-Check g-drg.de).
 - BSG, staend. Rspr. zu Pflegebudget und Pflegeentgeltwert.
 - KHG § 18a (Schiedsstelle).
+

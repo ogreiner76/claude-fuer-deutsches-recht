@@ -5,10 +5,6 @@ description: "Gesinderecht im ALR Grundlagen. Skill behandelt die Stellung des G
 
 # Pralr Gesinderecht Knecht Magd Grundlagen
 
-## Arbeitsbereich
-
-Gesinderecht im ALR Grundlagen. Skill behandelt die Stellung des Gesindes (Knecht Magd) nach ALR II 5 das Dienstverhaeltnis Anstellung Loehnung Disziplin und Beendigung. Historischer Kontext bis zur Aufhebung des Gesinderechts 1918/1923. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -67,7 +63,3 @@ ALR II 5 — Gesinderecht. Regelt die Dienstverhaeltnisse zwischen Herrschaft (B
 2. Historische Vorperiode bewerten?
 3. Lokales Statutarrecht?
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Arbeitsrechtsgeschichte.

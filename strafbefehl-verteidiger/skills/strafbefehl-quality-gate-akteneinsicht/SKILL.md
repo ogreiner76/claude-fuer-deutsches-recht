@@ -17,10 +17,6 @@ Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fri
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieses Kommandocenter ist der Einstiegspunkt für alle Mandate im Strafbefehlsverfahren. Es erfasst den Mandats-Kontext, bewertet die Dringlichkeit und routet zur richtigen Subskill-Anleitung.
-
 ## Sofort-Triage bei Mandatsaufnahme
 
 **Die drei kritischen Fragen zuerst:**
@@ -84,12 +80,10 @@ Dieses Kommandocenter ist der Einstiegspunkt für alle Mandate im Strafbefehlsve
 - BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Verwertbarkeit): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
 - Weitere Rechtsprechung vor Ausgabe in dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Harte Leitplanken
 
 - Frist immer zuerst — kein Schritt ohne Fristensicherung.
 - Vollmacht vor Akteneinsicht.
 - Keine Einlassung ohne Aktenkenntnis.
 - Anwaltliche Endkontrolle bei allen Fristen, Antraegen und Einlassungen.
+

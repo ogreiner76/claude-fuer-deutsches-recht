@@ -51,10 +51,6 @@ description: "Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspr
 - Der Rechtswegverweis nach § 17a GVG verursacht Zeitverluste, die durch sorgfältige Prüfung hätten vermieden werden können.
 - Behördliche Primäransprüche werden nicht ausgeschöpft, obwohl sie schneller als Klagen wären.
 
-## Output
-
-Das Skill liefert eine strukturierte Entscheidungsmatrix: Welche Ansprüche bestehen, auf welchem Rechtsweg sie geltend zu machen sind, welche Fristen gelten und welche Strategieempfehlung sich ergibt. Als Output entsteht ein kurzes Mandatsmemo mit Weichenentscheidung, Begründung und nächsten Schritten.
-
 ## Quellen
 
 - [§ 13 GVG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/gvg/__13.html)
@@ -84,3 +80,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

@@ -5,10 +5,6 @@ description: "Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnu
 
 # Klageanträge im Markenrecht
 
-## Arbeitsbereich
-
-Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Entfernung aus Vertriebswegen, Schadensersatzfeststellung, Annexanträge und Bestimmtheit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Ver
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Formuliere markenrechtliche Anträge so, dass sie bestimmt, vollstreckbar und zur konkreten Verletzung passend sind.
 
 ## Normanker
 
@@ -51,13 +43,7 @@ Formuliere markenrechtliche Anträge so, dass sie bestimmt, vollstreckbar und zu
 7. **Annexverhältnismäßigkeit:** Vernichtung/Rückruf/Entfernung nur so weit beantragen, wie Besitz, Eigentum, Vertriebsweg und Zumutbarkeit belegbar sind.
 8. **Anlagenbezug:** Screenshots, Produktfotos, Verpackungen und Testkaufbelege so nummerieren, dass der Tenor später vollstreckbar bleibt.
 
-## Output
-
-- Antragssatz.
-- Begründungsbausteine.
-- Vollstreckungscheck.
-- Red-Team-Liste gegen Unbestimmtheit.
-
 ## Qualitätsgate
 
 Keine Copy-Paste-Anträge ohne Verletzungsform. Antrag und Belege müssen zusammenpassen.
+

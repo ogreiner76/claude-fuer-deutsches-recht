@@ -5,10 +5,6 @@ description: "Verlagsrecht: Übersetzungsrechte, Auslandslizenzen und Co-Edition
 
 # Verl-007 · Übersetzungsrechte, Auslandslizenz und Co-Edition
 
-## Arbeitsbereich
-
-Verlagsrecht: Übersetzungsrechte, Auslandslizenzen und Co-Editions — VerlG § 35, UrhG § 3, internationale Lizenzvertragsgestaltung, Verlagsrecht als Lizenzgeber und -nehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -125,3 +121,4 @@ Dieser Skill behandelt die **Internationalisierung** von Verlagswerken: Vergabe 
 - **Lizenz-Portfolioübersicht**: Alle vergebenen Lizenzen mit Status
 - **Messen-Term-Sheet**: Einfaches Verhandlungsdokument für Buchmessen
 - **Co-Edition-Kalkulation**: Druckkosten-Split und Lizenzpreis
+

@@ -5,10 +5,6 @@ description: "Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum 
 
 # Sanierungsgewinn — Eigenverwaltung und CRO
 
-## Arbeitsbereich
-
-Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschaeftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung für Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter. Mustertexte für interne Steuerung der Eigenverwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -160,22 +156,6 @@ einbezogen; Versicherungsumfang und -summe siehe Police vom [Datum].
 5. D-und-O-Versicherung erst nach Schaden informiert.
 6. Annahme, Eigenverwaltung schliesse Paragraph 3a EStG aus — falsch, Paragraph 3a EStG ist Eigenverwaltungs- und Plan-Variante neutral.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Antragsmechanik.
-- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftungs-Vertiefung (sinngemaess auf GF/CRO).
-- `do-versicherung-manager-haftung` — D-und-O-Versicherung.
-- `glaeubigerausschuss-mitwirkung` — Ausschuss-Beschluss.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — generelle Steuerthemen.
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt.
-- `krisenfrueherkennung-starug` — Krisenfrueherkennung.
-
 ## Quellen Stand 06/2026
 
 - Paragraphen 270, 270b, 270c, 270d, 274 ff., 277, 280 InsO.
@@ -185,3 +165,4 @@ In anderen Plugins:
 - Paragraph 3a EStG.
 - Paragraph 7b GewStG.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

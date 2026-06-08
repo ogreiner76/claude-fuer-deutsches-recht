@@ -5,10 +5,6 @@ description: "Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsan
 
 # Sanierungsgewinn — Massenpriorisierung Paragraphen 53/261 InsO vs. Paragraph 3a EStG
 
-## Arbeitsbereich
-
-Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. zur Modellierung und Mustertexte für Glaeubigerausschuss-Brief. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -158,21 +154,6 @@ Mit freundlichen Gruessen
 5. Bei Eigenverwaltung Verantwortung verschoben — sie bleibt bei GF/CRO.
 6. Masseunzulaenglichkeitsanzeige Paragraph 208 InsO vergessen.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — Hauptlinie.
-- `insol-sanierungsgewinn-vergleich-mit-finanzamt-und-stundung` — Stundung/Erlass.
-- `insol-sanierungsgewinn-finanzamt-im-insolvenzverfahren` — FA-Position.
-- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftung.
-- `inso-massearmut-massekostenmangel-spezial` — Massearmut.
-
-In anderen Plugins:
-
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt.
-- `steuerrecht-anwalt-und-berater` — generelle Steuerthemen.
-
 ## Quellen Stand 06/2026
 
 - Paragraphen 53, 55, 208, 209, 261 InsO, `gesetze-im-internet.de/inso/`.
@@ -181,3 +162,4 @@ In anderen Plugins:
 - Paragraph 3a EStG.
 - Paragraph 7b GewStG.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

@@ -5,10 +5,6 @@ description: "Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderung
 
 # Sanierungsgewinn — Debt-Equity-Swap im Plan
 
-## Arbeitsbereich
-
-Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zum reinen Verzicht. Mustertexte für die Plan-Gestaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -157,21 +153,6 @@ Plan-Bestaetigung ersetzt.
 5. Steuerliche Behandlung nur auf Schuldnerebene gepraegt — Investor-Sicht uebersehen.
 6. Bei StaRUG: Paragraph 7 StaRUG-Klassenbildung der Anteilseigner unterschaetzt.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Voraussetzungen.
-- `insol-sanierungsgewinn-verzicht-bilanz-im-plan` — Bilanzteil.
-- `insol-sanierungsgewinn-3a-estg-im-starug-plan` — StaRUG-Variante.
-- `insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan` — Rangruecktritt als Alternative.
-
-In anderen Plugins:
-
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt.
-- `steuerrecht-anwalt-und-berater` — Beteiligungs-Steuerrecht.
-- `grosskanzlei-corporate-ma` — Investor-Sicht und Distressed-M-und-A.
-
 ## Quellen Stand 06/2026
 
 - Paragraph 225a InsO, `gesetze-im-internet.de/inso/__225a.html`.
@@ -183,3 +164,4 @@ In anderen Plugins:
 - Paragraph 56 GmbHG, `gesetze-im-internet.de/gmbhg/__56.html`.
 - Paragraph 7 StaRUG, `gesetze-im-internet.de/starug/__7.html`.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

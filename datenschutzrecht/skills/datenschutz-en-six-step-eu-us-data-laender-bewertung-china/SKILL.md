@@ -5,9 +5,6 @@ description: "Datenschutz EN SIX Step EU US Data Länder Bewertung China im Date
 
 # Datenschutz EN SIX Step EU US Data Länder Bewertung China
 
-## Arbeitsbereich
-
-**Datenschutz EN SIX Step EU US Data Länder Bewertung China** ordnet den Fall über die tragenden Prüfungslinien: English-language version of the EDPB Recommendation 01/2020, Aktueller Stand zum EU-US Data Privacy Framework (DPF) als, TIA-Länderbewertung jenseits der USA. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Datenschutz EN SIX Step EU US Data Länder Bewertung China im Date
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `tia-en-six-step-roadmap`
@@ -199,23 +197,11 @@ Re-assess on triggers:
 - Commission Implementing Decision (EU) 2023/1795 of 10 July 2023 (EU-US DPF).
 - Articles 44–49 GDPR.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `tia-eu-us-data-privacy-framework-aktueller-stand`
 
 **Fokus:** Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien für DPF-Tragfaehigkeit und Restrisiko.
 
 ### EU-US Data Privacy Framework – Aktueller Stand für das TIA
-
-## Zweck
-
-Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DPF) als Transferinstrument nach Art. 45 DSGVO. Er erklaert Voraussetzungen, Pruefkriterien für die Tragfaehigkeit eines DPF-Listings im konkreten Fall, das Restrisiko angesichts FISA 702 / EO 12333 sowie die Beobachtung der Folgeentwicklungen (Schrems III, DPRC-Praxis, EU-Review).
 
 ## Wann dieses Modul hilft
 
@@ -309,15 +295,6 @@ Hinweisbaustein im TIA-Schritt 2:
 - Keine Fallback-Klausel; bei Schrems-III-Aufhebung steht der Transfer ohne Grundlage.
 - Verwechslung Swiss-US DPF und EU-US DPF.
 
-## Querverweise
-
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` für Schrems II.
-- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Behörden.
-- `tia-en-data-privacy-framework-status` für englische Fassung.
-- `tia-template-deutsch-vollvorlage` für Vollvorlage.
-- `us-transfer-tia-dokumentation` für das Output-Paket.
-- `avv-eu-us-data-privacy-framework-bezug` für vertragliche Seite.
-
 ## Quellen Stand 06/2026
 
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023.
@@ -328,23 +305,11 @@ Hinweisbaustein im TIA-Schritt 2:
 - Anhaengiges Verfahren Schrems III (NOYB) – Verfahrensstand am Gericht der EU pruefen.
 - DPF-Liste: dataprivacyframework.gov.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `tia-laender-bewertung-china-india-brazil-uk`
 
 **Fokus:** TIA-Länderbewertung jenseits der USA: Vereinigtes Koenigreich (Angemessenheit), China (PIPL, Sicherheitsgesetze), Indien (DPDPA), Brasilien (LGPD). Pruefraster für Drittlandsrecht Behördenzugriff Praxis und Empfehlung Transferinstrument für Schritt 3 der EDPB-Roadmap.
 
 ### TIA-Länderbewertung: UK, China, Indien, Brasilien
-
-## Zweck
-
-Dieser Skill liefert die operative Drittlandbewertung für vier zentrale Nicht-USA-Ziellaender: das Vereinigte Koenigreich (UK), die Volksrepublik China, Indien und Brasilien. Er ergaenzt die US-Fachmodule um die haeufigsten weiteren Cluster und liefert Pruefraster und Empfehlung für das Transferinstrument.
 
 ## Wann dieses Modul hilft
 
@@ -432,13 +397,6 @@ Dieser Skill liefert die operative Drittlandbewertung für vier zentrale Nicht-U
 - Nutzung von Art. 49 DSGVO als Daueroption.
 - Konzerninterne Transfers in mehrere Drittlaender ohne differenzierte Bewertung.
 
-## Querverweise
-
-- `tia-edpb-roadmap-6-schritte-deutsch` für Methodik.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Schritt 4.
-- `tia-template-deutsch-vollvorlage` für Vollvorlage.
-- `drittlandstransfer-pruefung` für Art. 44 ff. DSGVO Basis.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 44–49.
@@ -456,10 +414,6 @@ Dieser Skill liefert die operative Drittlandbewertung für vier zentrale Nicht-U
 **Fokus:** Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urteil C-311/18 vom 16.07.2020 Facebook Ireland und Schrems. Tragende Aussagen, Folgen für Art. 46 DSGVO, Pflicht zur Pruefung der Schutzgleichwertigkeit (essentially equivalent), EDPB-Empfehlung 01/2020 als Konkretisierung.
 
 ### Schrems II – Grundlagen für Transfer Impact Assessment
-
-## Zweck
-
-Dieser Skill ordnet das EuGH-Urteil Schrems II (Rechtssache C-311/18 vom 16.07.2020) ein und erlaeutert, warum daraus die Pflicht zur Durchfuehrung eines Transfer Impact Assessment (TIA) folgt. Er ist der Einstieg in das TIA-Toolset im Datenschutzrecht-Plugin.
 
 ## Wann dieses Modul hilft
 
@@ -519,15 +473,6 @@ Kurzvermerk-Baustein für das TIA:
 - TIA-Dokument als Einmal-Pruefung; keine Wiedervorlage.
 - "Essentially equivalent" mit "identisch" gleichgesetzt – nicht zutreffend, ein "im Wesentlichen gleichwertiger" Schutz genuegt.
 
-## Querverweise
-
-- `tia-edpb-roadmap-6-schritte-deutsch` für die operative Sechs-Schritte-Pruefung.
-- `tia-en-six-step-roadmap` (englische Fassung).
-- `tia-us-fisa-702-und-eo-12333-bewertung` für die US-Behörden-Bewertung.
-- `tia-eu-us-data-privacy-framework-aktueller-stand` für DPF.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Supplementary Measures.
-- `tia-template-deutsch-vollvorlage` für das TIA-Dokument.
-
 ## Quellen Stand 06/2026
 
 - EuGH, Urteil der Grossen Kammer vom 16.07.2020, C-311/18, ECLI:EU:C:2020:559 (Schrems II).
@@ -538,28 +483,11 @@ Kurzvermerk-Baustein für das TIA:
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023 (EU-US DPF).
 - US Executive Order 14086 vom 07.10.2022.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 5. `tia-us-fisa-702-und-eo-12333-bewertung`
 
 **Fokus:** Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 für das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen für Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten für Schritt 3 EDPB-Roadmap.
 
 ### US-Ueberwachungsgrundlagen FISA 702 und EO 12333 für das TIA
-
-## Zweck
-
-Dieser Skill liefert die operative Bewertung der beiden zentralen US-Ueberwachungsgrundlagen, die der EuGH in Schrems II als ausschlaggebend für das fehlende Schutzniveau identifiziert hat:
-
-- **FISA Section 702** (Foreign Intelligence Surveillance Act, 50 U.S.C. § 1881a) – Zugriff auf elektronische Kommunikation von Non-US-Personen ueber US-Anbieter ("electronic communication service providers", ECSP).
-- **Executive Order 12333** vom 04.12.1981 (zuletzt geaendert) – Auslandsaufklaerung der US-Geheimdienste; deckt z. B. Bulk Collection bei Glasfasertrassen ab.
-
-Beide werden in Schritt 3 der EDPB-Sechs-Schritte-Roadmap (Assess law and practice) geprueft. Nach Inkrafttreten der Executive Order **14086** vom 07.10.2022 (Grundlage des EU-US DPF) sind zudem die Reformen zu wuerdigen.
 
 ## Wann dieses Modul hilft
 
@@ -640,14 +568,6 @@ Baustein TIA-Schritt 3 (US):
 - Quellenangaben aus Modellwissen statt Verifikation an offiziellen Texten.
 - Annahme, Schrems II sei "ueberholt" durch DPF – TIA für SCC-Faelle bleibt zwingend.
 
-## Querverweise
-
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` für EuGH-Grundlage.
-- `tia-eu-us-data-privacy-framework-aktueller-stand` für DPF.
-- `tia-edpb-roadmap-6-schritte-deutsch` für Schritt-3-Einbindung.
-- `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` für Step 4.
-- `us-transfer-tia-dokumentation` für Output-Paket.
-
 ## Quellen Stand 06/2026
 
 - EuGH C-311/18 vom 16.07.2020 (Schrems II), insb. Rn. 168 ff.
@@ -659,10 +579,3 @@ Baustein TIA-Schritt 3 (US):
 - EDPB Information Note 1/2024 on EU-US DPF redress mechanism (Verifikation am Originaldokument).
 - PCLOB-Berichte (Privacy and Civil Liberties Oversight Board) zu Section 702.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

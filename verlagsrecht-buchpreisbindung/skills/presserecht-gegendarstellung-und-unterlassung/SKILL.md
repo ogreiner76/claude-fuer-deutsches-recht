@@ -5,10 +5,6 @@ description: "Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsanspr
 
 # Verl-031 · Presserecht, Gegendarstellung und Unterlassung
 
-## Arbeitsbereich
-
-Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsansprüche — Landespressegesetze, Meinungsfreiheit, Schmähkritik, Unterlassung und Schadensersatz bei Pressedelikten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -130,3 +126,4 @@ Verlage und Zeitschriften operieren im Spannungsfeld zwischen **Pressefreiheit**
 - **Unterlassungserklärung** (strafbewehrt)
 - **Abmahnungs-Antwort**: Reaktion auf presserechtliche Abmahnung
 - **Online-Archiv-Audit**: Berichte mit Aktualisierungsbedarf identifiziert
+

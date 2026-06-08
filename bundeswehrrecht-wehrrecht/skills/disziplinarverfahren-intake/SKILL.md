@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Disziplinarverfahren Intake: strukturierte Aufnahme, Priorisierung, Ausgabe im Thema Disziplinarverfahren. Norm-/Quellenanker: WDO, SG, BVerwG Wehrdienstsenat. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -49,12 +45,6 @@ Zentral ist die sorgfältige Sachverhaltsaufnahme zu Beginn: Status, Vorwurf, Ve
 - §§ 46–57 WDO — Untersuchungsverfahren
 - §§ 1–17 WDO — Allgemeine Vorschriften, Fristen
 - § 17 SG — Personalakte
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -109,20 +99,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Fragenliste für Mandantengespräch (Disziplinarverfahren)
 - Tabelle: Einfache vs. gerichtliche Disziplinarmaßnahmen
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/wdo_2002/ — WDO
-- https://www.bverwg.de — BVerwG Wehrdienstsenat
-- https://openjur.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -132,3 +108,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

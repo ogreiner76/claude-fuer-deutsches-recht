@@ -5,10 +5,6 @@ description: "Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch 
 
 # Parteigericht: Effektiver Rechtsschutz
 
-## Aufgabe
-
-Prüft parteigerichtliche Verfahren nicht nur nach Satzung, sondern nach ihrem praktischen Gewährleistungsgehalt: Zugang, Dauer, Gehör, Neutralität, Öffentlichkeit, Befangenheit und Erledigungsgefahr.
-
 ## Einstieg
 
 Wenn ein Dokument vorliegt, lies zuerst Satzung, Schiedsgerichtsordnung, angegriffene Maßnahme und Fristenlage. Frage höchstens vier Punkte nach:
@@ -43,13 +39,6 @@ Wenn ein Dokument vorliegt, lies zuerst Satzung, Schiedsgerichtsordnung, angegri
 - BVerfG, 27.07.2006 - 2 BvR 1416/06: Parteiinterner Rechtsschutz kann staatlichem Rechtsschutz vorgeschaltet sein; bei unzumutbarer Verzögerung oder fehlender Erreichbarkeit bleibt staatlicher Rechtsschutz zu prüfen.
 - BVerfG, 03.06.2022 - 1 BvR 2103/16: Bei zwingend vorgegebenen Schiedsverfahren müssen rechtsstaatliche Mindeststandards und der Grundsatz der Öffentlichkeit mündlicher Verhandlungen ernsthaft gewichtet werden.
 
-## Output
-
-- **Kurzdiagnose:** interner Vorrang tragfähig, gefährdet oder unzumutbar.
-- **Mängelmatrix:** Gehör, Besetzung, Geschäftsstelle, Befangenheit, Öffentlichkeit, Dauer, Eilbedürftigkeit.
-- **Antragspaket:** parteigerichtlicher Antrag plus Hilfs-/Eilanträge, Besetzungsanfrage, Akteneinsicht, Verzögerungsrüge.
-- **Staatlicher Rechtsschutzpfad:** wann und mit welcher Begründung ordentliche Gerichte oder Eilrechtsschutz angerufen werden können.
-
 ## Vorsichtsregel
 
 Keine politischen Bewertungen. Der Skill prüft nur, ob das Verfahren formal und rechtsstaatlich trägt. Vorwürfe gegen Personen nur aufnehmen, wenn sie aktenmäßig belegt, rechtlich erheblich und für Befangenheit, Gehör, Öffentlichkeit oder Verfahrensdauer wirklich nötig sind.
@@ -60,3 +49,4 @@ Keine politischen Bewertungen. Der Skill prüft nur, ob das Verfahren formal und
 - Wahl- und Fristenbezug mit amtlichen Wahlleiterhinweisen abgleichen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+

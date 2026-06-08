@@ -5,10 +5,6 @@ description: "Verlagsrecht: Fachbuch-Aktualisierungen, Loseblattwerke und Online
 
 # Verl-022 · Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank
 
-## Arbeitsbereich
-
-Verlagsrecht: Fachbuch-Aktualisierungen, Loseblattwerke und Online-Datenbanken — Nutzungsrechte, Datenbankrecht, Aktualisierungspflichten, Lizenzmodelle und Preisbindung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -124,3 +120,4 @@ Juristische, medizinische und wissenschaftliche Fachbücher stellen besondere An
 - **Aktualisierungsplan**: Lieferfristen und Preise für nächste Ergänzungslieferungen
 - **Haftungsdisclaimer-Check**: AGB-Konformität
 - **Daten-Export-Klausel** für Lizenzverträge
+

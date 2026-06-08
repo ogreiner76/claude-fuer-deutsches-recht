@@ -140,15 +140,9 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 >
 > Schritt 5: Erhebliche Mehrbelastung wahrscheinlich. Vorab Reise-Planung anpassen oder Wechsel zu reduziertem Drittlandsanteil.
 
-## Querverweise
-
-- `stb-dba-oesterreich` — DBA-Grunddokumentation.
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`.
-- `stb-dba-home-office-pandemie-folgeregelung` — Konsultationsvereinbarungen.
-- `stb-dba-grenzgaenger-frankreich-vor-allem-elsass`, `stb-dba-grenzgaenger-schweiz-60-tage-rueckkehr` — Vergleichsregelungen.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Oesterreich Art. 15 Abs. 6 (Grenzgaengerregelung). Grenzzone: 30 km Luftlinie. Schaedlichkeitsschwelle: max. 45 Arbeitstage ausserhalb der Grenzzone. Homeoffice ab 01.01.2024 nicht schaedlich (Protokoll 2023, Konsultationsvereinbarung 20.12.2023). Aktuelle Gemeindelisten und DBA-Text im BMF-DBA-Verzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 6 geprueft (Fundstelle/Datum bestaetigt), 2 ersetzt (Az nicht belegbar/falsch zugeordnet, Satz neu formuliert) -->
+

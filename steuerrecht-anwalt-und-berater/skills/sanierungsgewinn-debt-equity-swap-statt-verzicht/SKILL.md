@@ -5,10 +5,6 @@ description: "Debt-Equity-Swap als Alternative zum Forderungsverzicht: Umwandlun
 
 # Debt-Equity-Swap statt Forderungsverzicht
 
-## Arbeitsbereich
-
-Debt-Equity-Swap als Alternative zum Forderungsverzicht: Umwandlung der Forderung in Eigenkapital. Sanierungssteuerlich oft günstiger; aber gesellschaftsrechtliche Hürden und Werthaltigkeits-Problem zu beachten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -161,14 +157,6 @@ nerin gem. § 364 BGB durch Konfusion.
 - Im Plan d/e-swap als Strukturelement vergessen; nur Verzichte beschlossen.
 - Steuerliche Würdigung d/e-swap nicht von Verzicht abgegrenzt.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung`
-- `stb-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg`
-- `stb-sanierungsgewinn-vermeidungsstrategien-praxis`
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-
 ## Quellen Stand 06/2026
 
 ### Normen
@@ -201,3 +189,4 @@ nerin gem. § 364 BGB durch Konfusion.
 ### Querverweis Fachmodul
 
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Liquidations-Alternative zum DES, wenn Restrukturierung scheitert.
+

@@ -53,10 +53,6 @@ description: "Klärt die methodisch entscheidende Unterscheidung zwischen einer 
 - Lückenbehauptungen werden nicht auf Plausibilität geprüft: Ein Gesetzgeber, der ähnliche Fälle regelt, hat selten eine Lücke beim nächststehenden Fall.
 - Die Analogiefähigkeit der Lücke wird nicht separat geprüft: Nicht jede Lücke ist durch Analogie schließbar — manche verlangen Gesetzgebung.
 
-## Output
-
-Das Skill liefert eine Lücken-Ablehnung-Analyse: systematische Prüfung der Lückenvoraussetzungen, Auswertung der Gesetzgebungsmaterialien, Bestimmung als planwidrige Lücke oder bewusste Nichtregelung, Konsequenz für Analogiefähigkeit und Formulierungsvorschlag für die Gutachten- oder Schriftsatzbegründung.
-
 ## Vertiefung: Bewusste Nichtregelung als positives Schweigen
 
 Das Schweigen des Gesetzgebers ist mehrdeutig: Es kann Unkenntnis, bewusste Entscheidung oder bewusstes Offenlassen sein. Die Unterscheidung ist entscheidend für die Zulässigkeit von Analogien. Bewusstes Offenlassen (Delegationslücke) ist von bewusster Nichtregelung (Ablehnungslücke) zu unterscheiden: Erstere erlaubt richterliche Schließung, Letztere verbietet sie.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 100 GG – Vorlagepflicht](https://dejure.org/gesetze/GG/100.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

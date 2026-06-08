@@ -5,10 +5,6 @@ description: "Eigentumsschutz im ALR Vindikation und Besitzschutz. Skill behande
 
 # Pralr Eigentumsschutz Vindikation Besitzschutz
 
-## Arbeitsbereich
-
-Eigentumsschutz im ALR Vindikation und Besitzschutz. Skill behandelt die rei vindicatio die actio Publiciana und die possessorischen Klagen sowie die Fortwirkung in §§ 985 ff. BGB. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,7 +48,3 @@ Eigentumsschutz im ALR Vindikation und Besitzschutz. Skill behandelt die rei vin
 2. Welche Stoerung?
 3. Frist?
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

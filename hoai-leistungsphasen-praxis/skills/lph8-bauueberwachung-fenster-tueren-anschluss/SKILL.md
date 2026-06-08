@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Fenster- und Tuereinbauten — Kon
 
 # Bauueberwachung Fenster und Tueren Einbauanschluss
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Fenster- und Tuereinbauten — Kontrolle Einbauanschluss nach RAL-Leitfaden Fenstereinbau 3-Ebenen-Konzept aussen schlagregensDicht-innen dampfdicht, Fensterbank- und Sturzdichtung, Befestigungsnachweis Rahmendubel nach EN 14592, Schallschutz-Einbauprotokoll nach DIN 4109, einbruchhemmende Verglasung nach RC-Klassen sowie Aufmass und Abnahme mit Blower-Door-Messung nach DIN EN ISO 9972. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Der Fenstereinbau ist Schnittstelle zwischen Rohbau, Waermedaemmung und Dichtigk
 - Blower-Door-Test zu frueh ohne geschlossene Dampfsperre: n50 zu schlecht, kein Rueckschluss moeglich, Nachtest nach Fertigstellung Pflicht
 - Fehlende Einbaukategorie-Vereinbarung: RAL-Leitfaden Kategorie nicht vertraglich festgelegt, Leistungsstreit ueber Einbautiefe
 
-## Output
-
-Einbauprotokoll RAL je Fenstereinheit mit 4 Pflichtfotos. Rahmendubel-Pruefprotokoll Ausriss. Blower-Door-Pruefbericht n50-Wert. Thermografie-Laibungsprotokoll fRsi-Nachweis. Lieferschein-Archiv Fenster und Tueren. Bautagebuch Fensterarbeiten. Abnahmeprotokoll mit Auftraggeber und Fensterlieferant.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Einbauprotokoll RAL je Fenstereinheit mit 4 Pflichtfotos. Rahmendubel-Pruefproto
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme](https://www.gesetze-im-internet.de/bgb/__640.html)
+

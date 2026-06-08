@@ -11,10 +11,6 @@ description: "Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtl
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Einsatz
-
-Anwendungsfall: eine zivilrechtliche Lösung inhaltlich plausibel ist, aber verfahrensförmig nicht sauber entsteht: Parteivortrag wird übergangen, Beweisangebote werden nicht eingeordnet, eine neue rechtliche Wertung überrascht oder die Begründung erklärt dem Adressaten nicht, warum er verliert.
-
 ## Prüfprogramm
 
 1. **Vortrag ordnen:** Welche Tatsachen, Einwendungen, Beweisangebote und Rechtsansichten liegen tatsächlich vor?
@@ -44,12 +40,9 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Liefere eine Verfahrens- und Begründungsmatrix mit `Vortrag`, `Norm`, `Beweis`, `Gehör`, `Begründungslücke`, `nächster Schritt`.
-
 ## Quellen- und Zitierdisziplin
 
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
 - Normen vor Rechtsprechung, wenn die verfahrensrechtliche Lösung direkt aus Gesetz oder Grundgesetz folgt.
+

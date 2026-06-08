@@ -22,11 +22,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Aufgabe
-
-Dieser Skill macht das **Zwölftafelgesetz** ausdrücklich nutzbar, ohne so zu tun, als läge ein moderner Gesetzestext vollständig und sicher vor. Er trennt Rekonstruktion, spätere literarische Überlieferung, archaische Sozialordnung und dogmatische Nachwirkung.
-
 ## Startfragen
 
 1. Geht es um Verständnis, Hausarbeit, rechtsgeschichtliches Memo, Vergleich mit modernem Recht oder Quellenkritik?
@@ -49,9 +44,3 @@ Dieser Skill macht das **Zwölftafelgesetz** ausdrücklich nutzbar, ohne so zu t
 - Warnhinweise gegen anachronistische Deutung.
 - Anschluss-Skills: Prozess, Familie/Erbe/Nachbarschaft, Delikte oder byzantinische Weiterentwicklung.
 
-## Red-Team-Fragen
-
-- Wird eine rekonstruierte Regel zu sicher dargestellt?
-- Wird archaisches Recht mit klassischem oder justinianischem Recht vermischt?
-- Wird ein Zitat ohne Nutzerquelle wörtlich behauptet?
-- Ist die Antwort didaktisch klar genug für jemanden ohne Romanistik-Vorwissen?

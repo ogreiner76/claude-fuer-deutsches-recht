@@ -5,10 +5,6 @@ description: "Skill zur Unterscheidung konstitutives Anforderungsprofil und dekl
 
 # Anforderungsprofil — konstitutiv oder deklaratorisch
 
-## Arbeitsbereich
-
-Skill zur Unterscheidung konstitutives Anforderungsprofil und deklaratorisches Anforderungsprofil bei der beamtenrechtlichen Auswahlentscheidung. Klaert wann ein im Anforderungsprofil aufgestelltes Merkmal die Vergleichsbasis verengt und wann es nur als Auslegungshilfe der Beurteilungen dient. Liefert das Pruefschema zum Wegfall der Vergleichbarkeit bei willkuerlichem Anforderungsprofil und zur Rechtfertigung dienstpostenbezogener Eignungsanforderungen. Hilft bei Anfechtung der Auswahlentscheidung wenn der Mandant durch ein zugeschnittenes Profil ausgeschieden wird. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,3 +92,4 @@ Stelle Referatsleiterin im BMI A16. Konstitutiv gefordert: Promotion im öffentl
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
 - Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.
+

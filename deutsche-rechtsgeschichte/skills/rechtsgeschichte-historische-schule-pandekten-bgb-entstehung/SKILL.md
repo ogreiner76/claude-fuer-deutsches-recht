@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Historische Rechtsschule und Pandektist
 
 # Historische Rechtsschule und Pandektistik
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Historische Rechtsschule und Pandektistik. Savigny, Puchta, Windscheid, Jhering und die Pandektenwissenschaft als Grundlage des BGB 1900. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Die Historische Rechtsschule (Begruender: Savigny, ab 1814) wandte sich gegen da
 - Jhering Geist: Erstausgabe 1852-65; Jhering-Briefe an Windscheid (1907 veroeffentlicht)
 - BGB-Materialien: Mugdan Bd. I (Allgemeiner Teil) für Pandektistik-Einfluss
 
-## Output
-
-- Stammbaum der Historischen Schule und Pandektistik: Savigny bis Windscheid
-- Pandektistisches System und seine Abbildung im BGB
-- Vergleich Jherings Methode (Geist des Roemischen Rechts) vs. Savignys Volksgeistlehre
-
-## Quellenregel
-
-Savigny 1814: Erstausgabe. Windscheid Pandekten: Erstausgabe 1862-70 (Band und Seite). Jhering Geist: Erstausgabe 1852-65. Mugdan Bd. I: BGB-Materialien (1899). Keine unsicheren Zusammenfassungen.

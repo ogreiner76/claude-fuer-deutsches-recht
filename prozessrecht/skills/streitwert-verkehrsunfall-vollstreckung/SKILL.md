@@ -5,10 +5,6 @@ description: "Streitwert für zivilrechtliche Klagen berechnen: Hauptforderung, 
 
 # Streitwertfestsetzung – GKG / RVG
 
-## Arbeitsbereich
-
-Streitwert für zivilrechtliche Klagen berechnen: Hauptforderung, Nebenforderungen, Gerichts- und Anwaltsgebühren. Normen: §§ 3 9 ZPO, GKG, RVG. Prüfraster: Streitwertbemessung, Nebenforderungen, Kostenfolge. Output: Streitwertberechnung mit Kostentabelle. Abgrenzung: nicht Anspruchstabelle (Inhalt der Ansprüche). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -84,6 +80,7 @@ Quellen:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 1. **Hauptforderung bestimmen** – Nennwert bei Leistungsklage; bei Feststellungsklage
@@ -114,15 +111,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
  GKG); beschwerdeberechtigt: Parteien und Staatskasse; Gericht, das die
  angegriffene Entscheidung erlassen hat, entscheidet zuerst (§ 68 Abs. 1
  Satz 1 GKG); dann ggf. Beschwerdegericht.
-
-## Ausgabeformat
-
-- **Streitwert-Memo** (Gutachtenstil): Struktur Hauptantrag → Hilfsanträge →
- Nebenforderungen → Ergebniswert; mit Norm- und Rspr.-Nachweisen.
-- **Kostennote** (Tabelle): Gebührenart | Gegenstandswert | Gebührensatz
- (VV-Nr.) | Betrag | USt.; Gesamt.
-- **Kostenfestsetzungsantrag** (Schriftsatz): Adressat Urkundsbeamter; Bezugnahme
- auf Kostentitel; Auflistung erstattungsfähiger Kosten; Unterschrift.
 
 ## Beispiel
 
@@ -175,3 +163,4 @@ Kommentar. Bei streitiger Streitwertbemessung (z. B. Feststellungsabschlag)
 h. M. und Gegenauffassung kenntlich machen. Tabellenwerte (GKG Anlage 2, RVG
 Anlage 2) stets auf Aktualität prüfen – Gesetzesänderungen fließen nicht
 automatisch ein.
+

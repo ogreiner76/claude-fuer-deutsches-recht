@@ -5,9 +5,6 @@ description: "Dsfa Restrisiko ART Stakeholder Konsultation im Datenschutzrecht: 
 
 # Dsfa Restrisiko ART Stakeholder Konsultation
 
-## Arbeitsbereich
-
-**Dsfa Restrisiko ART Stakeholder Konsultation** ordnet den Fall über die tragenden Prüfungslinien: Restrisiko nach Massnahmen bewerten und Vorab-Konsultation, Konsultation der Betroffenen oder ihrer Vertreter nach Art, Deutsche DSFA-Vollvorlage nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Dsfa Restrisiko ART Stakeholder Konsultation im Datenschutzrecht: 
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsfa-restrisiko-und-art-36-konsultation`
@@ -32,10 +30,6 @@ description: "Dsfa Restrisiko ART Stakeholder Konsultation im Datenschutzrecht: 
 **Fokus:** Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36 DSGVO vorbereiten. Output: Konsultationsantrag mit Verarbeitungsbeschreibung Massnahmen Restrisiko Begruendung warum die Konsultation erforderlich ist.
 
 ### Restrisiko und Vorab-Konsultation nach Art. 36 DSGVO
-
-## Zweck
-
-Bewertung des Restrisikos nach Umsetzung der DSFA-Massnahmen und, falls erforderlich, Vorbereitung der Vorab-Konsultation bei der zuständigen Aufsichtsbehoerde nach Art. 36 DSGVO. Ergebnis ist ein vollstaendiger Konsultationsantrag mit Verarbeitungsbeschreibung, Massnahmen, Restrisiko und Begruendung der Konsultationsnotwendigkeit.
 
 ## Wann dieses Modul hilft
 
@@ -126,14 +120,6 @@ Mit freundlichen Gruessen
 - Frist 8 Wochen wird nicht im Projektplan beruecksichtigt.
 - Anlagen fehlen — Aufsichtsbehoerde fordert nach und Frist beginnt erst dann.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage
-- `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Restrisiko-Berechnung
-- `datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/SKILL.md` — Dokumentation
-- `datenschutzrecht/skills/dsfa-für-ki-systeme-schnittstelle-art-26-kivo/SKILL.md` — KI-DSFA und Konsultation
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 36 Abs. 1, 2, 3, 4, 5 DSGVO
@@ -149,10 +135,6 @@ Mit freundlichen Gruessen
 **Fokus:** Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs. 9 DSGVO im Rahmen einer DSFA: Pruefung Erforderlichkeit Form Reichweite Dokumentation. Output: Konsultationsplan mit Begruendung Form und Dokumentation.
 
 ### Stakeholder-Konsultation nach Art. 35 Abs. 9 DSGVO
-
-## Zweck
-
-Pruefung und Strukturierung der Konsultation Betroffener oder ihrer Vertreter im Rahmen einer DSFA. Art. 35 Abs. 9 DSGVO sieht vor, dass der Verantwortliche, soweit angemessen, den Standpunkt Betroffener oder ihrer Vertreter einholt. Ergebnis dieses Skills ist ein dokumentierter Konsultationsplan mit Begruendung, Form, Reichweite und Verwertung des Ergebnisses.
 
 ## Wann dieses Modul hilft
 
@@ -253,13 +235,6 @@ Unterschrift DSB: ____________________
 - Bei öffentlichen Stellen werden Beteiligungsrechte nach Landesrecht uebersehen.
 - Eingaenge der Stakeholder werden nicht im Verarbeitungsverzeichnis Art. 30 verlinkt.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Aufnahme in Vollvorlage
-- `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikoanalyse
-- `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Aufsichtskonsultation
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 9 DSGVO
@@ -273,10 +248,6 @@ Unterschrift DSB: ____________________
 **Fokus:** Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern für alle sechs Pflichtsektionen Beschreibung Verhaeltnismaessigkeit Risiken Massnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen.
 
 ### DSFA-Vollvorlage Deutsch
-
-## Zweck
-
-Vollstaendige deutsche Vorlage einer Datenschutz-Folgenabschaetzung nach Art. 35 Abs. 7 DSGVO. Alle sechs Pflichtsektionen sind enthalten und mit Platzhaltern vorausgefuellt, so dass eine Kanzlei oder ein Unternehmen die DSFA direkt befuellen und der Aufsicht oder dem DSB vorlegen kann. Die Vorlage folgt der methodischen Struktur Beschreibung, Verhaeltnismaessigkeit, Risiken, Massnahmen, Restrisiko, Freigabe.
 
 ## Wann dieses Modul hilft
 
@@ -450,15 +421,6 @@ Trigger für ausserplanmäßige Pruefung: [Aenderung Datenarten / Empfaenger / T
 - DSB unterschreibt nicht oder spaeter — Beweisluecke.
 - Versionierung fehlt — bei Aenderung nicht nachvollziehbar.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dpia-en-template-full-version/SKILL.md` — Englische Vollvorlage
-- `datenschutzrecht/skills/dsfa-risikoanalyse-eintrittswahrscheinlichkeit-schaden/SKILL.md` — Risikomethodik
-- `datenschutzrecht/skills/dsfa-stakeholder-konsultation-art-35-9/SKILL.md` — Stakeholder
-- `datenschutzrecht/skills/dsfa-update-bei-aenderungen-und-revision/SKILL.md` — Update
-- `datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/SKILL.md` — Dokumentation
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 7 DSGVO Mindestinhalte
@@ -475,10 +437,6 @@ Trigger für ausserplanmäßige Pruefung: [Aenderung Datenarten / Empfaenger / T
 **Fokus:** Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Pruefliste für DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis.
 
 ### Typische Fehler bei der DSFA-Erstpruefung
-
-## Zweck
-
-Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer DSFA, einschliesslich Gegenmassnahmen, Vermeidungsstrategien und Verweis auf die jeweils einschlaegigen Skills. Ergebnis ist eine Pruefliste für DSB und Verantwortliche, die vor Freigabe einer DSFA durchgegangen wird.
 
 ## Wann dieses Modul hilft
 
@@ -606,16 +564,6 @@ Freigabeempfehlung: ja / nachzubessern / nein
 Unterschrift Pruefer: ____________________
 ```
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-art-35-dsgvo-trigger-und-anwendungsbereich/SKILL.md`
-- `datenschutzrecht/skills/dsfa-edpb-leitlinien-9-19-anwendung/SKILL.md`
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md`
-- `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md`
-- `datenschutzrecht/skills/dsfa-update-bei-aenderungen-und-revision/SKILL.md`
-- `datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/SKILL.md`
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35, 36, 5 Abs. 2, 83 Abs. 4 lit. a DSGVO
@@ -629,10 +577,6 @@ Unterschrift Pruefer: ____________________
 **Fokus:** Aktualisierung einer DSFA bei wesentlichen Aenderungen der Verarbeitung nach Art. 35 Abs. 11 DSGVO. Output: Revisionsplan mit Trigger-Liste Aenderungsanalyse Risikoreassessment und Versionshistorie.
 
 ### DSFA Update bei Aenderungen und Revision
-
-## Zweck
-
-Steuerung der Aktualisierung einer bestehenden DSFA bei wesentlichen Aenderungen der Verarbeitungstaetigkeit nach Art. 35 Abs. 11 DSGVO. Ergebnis ist ein Revisionsplan mit Trigger-Liste, Aenderungsanalyse, Risikoreassessment und Versionshistorie. Ziel ist, die DSFA als lebendes Dokument zu fuehren und nicht als Einmalvorgang.
 
 ## Wann dieses Modul hilft
 
@@ -739,14 +683,6 @@ Versionshistorie
 - Nach Datenpanne (Art. 33) wird die DSFA nicht ueberprueft.
 - KI-Modellupdate wird nicht als Trigger erkannt.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Basisvorlage
-- `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Vorabkonsultation bei Aenderung
-- `datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/SKILL.md` — Versionierung
-- `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` — Trigger Datenpanne
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 11 DSGVO
@@ -756,3 +692,4 @@ Versionshistorie
 - BfDI / Landesbehoerden — Verfahrenshinweise
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

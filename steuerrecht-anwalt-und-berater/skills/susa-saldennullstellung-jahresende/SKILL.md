@@ -96,12 +96,6 @@ Saldo Konto 9999 (Gewinn/Verlust) → Konto 2000 (Bilanzgewinn) [GmbH]
 - Schluss-SuSa als Beleg für Schliessung.
 - Eroeffnungsbilanz Folgejahr (analytisch).
 
-## Output
-
-- Schluss-SuSa mit allen Erfolgskonten auf null.
-- Bilanzgewinn ueberfuehrt auf Konto 2000 (GmbH) bzw. 800/3010.
-- Eroeffnungsbilanz Folgejahr vorbereitet.
-
 ## Strategie und Praxis-Tipps
 
 - Erfolgskonten-Schliessung ist der Schluss-Stempel des Jahres. Spaetere Aenderungen muessen ueber Vorperioden-Korrekturen laufen.
@@ -110,14 +104,6 @@ Saldo Konto 9999 (Gewinn/Verlust) → Konto 2000 (Bilanzgewinn) [GmbH]
 - Bei Personenunternehmen: Privatentnahmen und -einlagen ueber das Jahr separat — werden in Kapitalkonto verrechnet.
 - StBVV: Jahresabschluss-Erstellung StBVV § 35 — gesonderter Auftrag.
 - DATEV-Tipp: Jahreswechsel mit DATEV-Berater-Lauf; manuelle Korrekturen nur ueber Berater-Funktion.
-
-## Querverweise
-
-- `stb-susa-erstellen-grundlagen` — SuSa-Grundlagen.
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-jahresabschluss-bestandskonten-abstimmung` — Bestandskonten-Abstimmung.
-- `stb-jahresabschluss-handels-vs-steuerbilanz` — Massgeblichkeit.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -128,10 +114,3 @@ Stand: 05/2026.
 - StBVV § 35.
 - IDW PS 480.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

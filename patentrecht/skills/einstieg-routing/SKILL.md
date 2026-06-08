@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Patentrecht (Verfahren, Verletzu
 
 Dieser Einstieg routet **Patentrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-patentverletzung-verteidigung` — Abmahnung Patentverletzung Verteidigung
@@ -35,12 +34,9 @@ Dieser Einstieg routet **Patentrecht** vom ersten Sachverhalt zu Rollen, Fristen
 - Zuständige Stelle bestimmen: Patentanmelder, Erfinder, Patentanwalt, DPMA, EPO, BPatG, BGH X. Senat, UPC.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Patentrecht (Verfahren, Verletzung) typische Eskalationsstufen: Nichtigkeitsklage, Einspruch EPA, Verletzungsklage UPC/LG.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

@@ -5,10 +5,6 @@ description: "Apothekenbetriebsordnung Grundpflichten: prüft die einschlägigen
 
 # Apothekenbetriebsordnung Grundpflichten
 
-## Arbeitsbereich
-
-Apothekenbetriebsordnung Grundpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -104,15 +100,6 @@ Eingaben:
 - Apothekenübliche Waren werden über § 25 ApBetrO hinaus angeboten (z. B. Tee, Lebensmittel ohne Indikation).
 - Temperaturlücke in der Kühlkette wird nicht dokumentiert; bei Audit als nicht GDP-konform beanstandet.
 - Personalengpass führt zu kurzfristiger Schliessung ohne Dienstbereitschaftsmeldung an die Aufsicht.
-
-## Querverweise
-
-- `apothekenrevision-vorbereitung-antwort` (Revisionsablauf)
-- `qualitaetsmanagement-qms-sops` (QMS-Tiefe)
-- `personal-pharmazeutisch-nichtpharmazeutisch-vertretung` (Personalstruktur)
-- `raeume-ausstattung-rezeptur-defektur-labor` (Räume)
-- `arzneimittelabgabe-verschreibungspflicht` (Abgabevorgang)
-- `apothekenuebliche-waren-abgrenzung` (Sortimentsgrenzen)
 
 ## Quellen Stand 06/2026
 

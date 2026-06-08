@@ -119,9 +119,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 Art. 76-78 GG (Gesetzgebungsverfahren) — Art. 79 GG (Verfassungsaenderung) — Art. 19 Abs. 1 Satz 2 GG (Zitiergebot) — Art. 80 GG (Verordnungsermaechtigung, formelle Anforderungen) — Art. 82 GG (Ausfertigung und Verkuendung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Format
 
 ```
@@ -156,3 +153,4 @@ Ergebnis: [formell verfassungsgemäß / formell verfassungswidrig — Grund: ___
 ## Disclaimer-Wiederholung
 
 Auch eine sorgfältige Prüfung der formellen Verfassungsmäßigkeit ersetzt nicht die anwaltliche Mandatsbearbeitung. Die verbindliche Verwerfung obliegt allein dem BVerfG.
+

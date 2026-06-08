@@ -45,13 +45,6 @@ description: "Klausurfall zur Abgabe einer Willenserklärung nach §§ 116 ff. B
 - Bei Autofill oder technischen Fehlern: Fehlendes Erklärungsbewusstsein kann Abgabe verhindern.
 - Widerruf muss gleichzeitig oder früher zugehen, nicht nur gleichzeitig abgesendet werden.
 
-## Output
-
-- Gutachtenabschnitt zur Abgabe mit vollständiger Subsumtion
-- Kurztriage mit Prüfampel: Abgabe bejaht / verneint / offen
-- Rückfragenliste zu fehlenden Tatsachen (Zeitstempel, Botenweg, technisches Protokoll)
-- Schriftsatzbaustein für streitigen Abgabezeitpunkt
-
 ## Quellen
 
 - [§ 130 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__130.html)

@@ -5,10 +5,6 @@ description: "GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety
 
 # GPAI Code of Practice: Evidence statt Etikett
 
-## Arbeitsbereich
-
-GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen für Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -43,3 +39,4 @@ Der GPAI Code of Practice kann Compliance operationalisieren, ersetzt aber nicht
 ## Vorsicht
 
 Nicht schreiben: "Code erfüllt, damit automatisch rechtssicher." Besser: "Code/Standard wird als Nachweisbaustein genutzt; finale KI-VO-Bewertung bleibt artikelspezifisch."
+

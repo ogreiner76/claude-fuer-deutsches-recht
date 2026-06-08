@@ -40,9 +40,6 @@ Dieser Skill prüft Korrespondenz gezielt auf Einhaltung des anwaltlichen Kolleg
 - § 12 BORA — Direktkontaktverbot: kein Schreiben an Mandanten des Kollegen ohne Einwilligung
 - § 43b BRAO — Werbeverbot: keine herabsetzenden Vergleiche mit Kollegen in Aussenkommunikation
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Das Kollegialitätsgebot nach § 25 BORA
 
 § 25 BORA verpflichtet Rechtsanwälte zu gegenseitiger Rücksichtnahme und einem fairen Umgang auch in streitigen Situationen. Das bedeutet konkret: keine persönlichen Angriffe auf den Kollegen (auch wenn der Mandant das wünscht), keine Herabsetzung der fachlichen Leistung ohne sachliche Grundlage, keine Unterstellungen über persönliche Motive. Das Kollegialitätsgebot gilt nicht nur in der Kommunikation von Anwalt zu Anwalt, sondern auch in Mandantenanschreiben, wenn darin über den gegnerischen Kollegen gesprochen wird.
@@ -74,6 +71,3 @@ Schritt 1: Kommt der Name oder die Berufsbezeichnung eines Kollegen im Schreiben
 **Vorher:** "Der Herr Kollege sollte vielleicht nochmal die Grundlagen studieren."
 **Nachher:** Streichen oder ersetzen durch: "Ich erlaube mir, auf folgende Rechtsprechung hinzuweisen, die für den Sachverhalt einschlägig sein dürfte..."
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Zitate kollegialitätsgefährdender Aussagen. (2) Einordnung (formal/substantiell problematisch). (3) Berufsrechtliches Risiko. (4) Konforme Alternativformulierung. (5) Hinweis, ob die Aussage gänzlich gestrichen werden sollte.

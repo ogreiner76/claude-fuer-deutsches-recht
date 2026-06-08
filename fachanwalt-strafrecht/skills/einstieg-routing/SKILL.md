@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Fachanwalt Strafrecht: ordnet Ro
 
 Dieser Einstieg routet **Fachanwalt Strafrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `adhaesionsverfahren-ermittlungsverfahren` — Adhaesionsverfahren Ermittlungsverfahren
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Fachanwalt Strafrecht** vom ersten Sachverhalt zu Rolle
 - Zuständige Stelle bestimmen: Beschuldigter, Strafverteidiger, Staatsanwaltschaft, Ermittlungsrichter, Vorsitzender, Schöffen, Zeuge, Nebenkläger, JVA.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Fachanwalt Strafrecht typische Eskalationsstufen: Akteneinsicht-Antrag, Beweisantrag, Plädoyer.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

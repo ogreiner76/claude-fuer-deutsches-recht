@@ -5,10 +5,6 @@ description: "Krankenhausapotheke und Arzneimittelversorgung: AMG, ApoG, ApBetrO
 
 # Krankenhausapotheke Arzneimittelversorgung
 
-## Arbeitsbereich
-
-Krankenhausapotheke und Arzneimittelversorgung: AMG, ApoG, ApBetrO, Versorgungsvertrag § 14 ApoG, Pruefungspflicht, Substitution, NUB, Zytostatika, Antibiotic Stewardship und Lieferengpaesse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,14 +76,6 @@ Die Krankenhausversorgung mit Arzneimitteln laeuft entweder ueber eine eigene **
 - ABS nicht implementiert — Strukturpruefung MD risikiert Abschlag.
 - Lieferengpass-Management nicht systematisiert.
 
-## Querverweise
-- `entlassmanagement-39-abs-1a-sgb-v`
-- `compliance-system-klinik-einkauf-forschung-spenden`
-- `vergaberecht-krankenhaus-einkauf-bau-it`
-- `krankenhaushygiene-ifsg-landesrecht`
-- `forschung-studien-ethikkommission-datenschutz`
-- `datenschutz-krankenhaus-patientenakte-forschung`
-
 ## Quellen Stand 06/2026
 - AMG, ApoG § 14, ApBetrO.
 - SGB V §§ 35a, 35b.
@@ -95,3 +83,4 @@ Die Krankenhausversorgung mit Arzneimitteln laeuft entweder ueber eine eigene **
 - BfArM-Lieferengpassliste (Live-Check bfarm.de).
 - BSG, staend. Rspr. zu Off-Label-Use und Erstattung.
 - KRINKO/ABS-Empfehlungen RKI (Live-Check rki.de).
+

@@ -5,10 +5,6 @@ description: "KI-Systeme auf Anforderungen der KI-VO und Datenschutz prüfen. KI
 
 # KI-Verordnung — Compliance-Prüfung
 
-## Zweck
-
-Die EU-KI-Verordnung (VO EU 2024/1689, "AI Act") ist seit 1.8.2024 in Kraft, gestaffelt anwendbar. Dieses Skill prüft Anwendbarkeit, Risiko-Klasse und Pflichten für deutsche Unternehmen.
-
 ## Eingaben
 
 - Beschreibung des KI-Systems oder Modells (Zweck Funktion Daten Output)
@@ -318,3 +314,4 @@ Kernpflichten:
 
 Ergebnis: Konform / Anpassungsbedarf (bis [DATUM]) / Verboten
 ```
+

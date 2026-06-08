@@ -5,10 +5,6 @@ description: "Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-
 
 # Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen
 
-## Arbeitsbereich
-
-Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-Lizenzen, Systemhandbuch-Herausgabe, Fortführungsrechte der Franchisenehmer nach §§ 108a InsO und Schutz systemkritischer Investitionen der Franchisenehmer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -55,13 +51,6 @@ Der Franchisegeber ist insolvent. Franchisenehmer fragen, ob sie das System weit
 - Systemhandbuch ist Teil der Insolvenzmasse; Franchisenehmer kann keine Kopien anfertigen, ohne Erlaubnis.
 - Betriebsveräusserung überträgt Franchiseverträge nur, wenn der Erwerber zustimmt und die Vertragsstruktur angemessen übernimmt.
 
-## Output
-
-- Insolvenzrecht-Memo für Franchisenehmer
-- Forderungsanmeldung zur Insolvenztabelle (Muster)
-- Handlungsoptionen: Fortführung, Neusystemsuche, Schadensersatz
-- Bewertung der Lizenzfestigkeit nach § 108a InsO
-
 ## Quellen
 
 - https://gesetze-im-internet.de/inso/__108a.html
@@ -70,6 +59,7 @@ Der Franchisegeber ist insolvent. Franchisenehmer fragen, ob sie das System weit
 - https://gesetze-im-internet.de/inso/__174.html
 - https://gesetze-im-internet.de/geschgehg/
 - https://dejure.org/gesetze/MarkenG/14.html
+
 ## Vertiefung
 
 § 108a InsO (eingefügt durch das Gesetz zur Vereinfachung des Insolvenzverfahrens vom 13. April 2007, in Kraft ab 1. Juli 2017) schützt Lizenznehmer vor dem Verlust ihrer Lizenz bei Insolvenz des Lizenzgebers. Danach kann der Insolvenzverwalter des Lizenzgebers das Lizenzvertragsverhältnis nicht ohne weiteres beenden; der Lizenznehmer hat das Recht, die Lizenz fortzuführen.
@@ -83,9 +73,12 @@ Diese Regelung gilt jedoch nicht rückwirkend und nur für Insolvenzverfahren, d
 - Forderungsanmeldung frühzeitig; Vertrauensschäden aus Vorvertragspflichtverletzungen anmelden.
 - Franchisenehmerzusammenschlüsse (Beirat) können kollektiv stärker agieren; gemeinsames Vorgehen prüfen.
 - Markenlizenz nach § 108a InsO ist geschützt; aber Systemhandbuch-Nutzungsrecht ist gesondert zu beurteilen.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
 
 ## Abgrenzung und Einordnung
+

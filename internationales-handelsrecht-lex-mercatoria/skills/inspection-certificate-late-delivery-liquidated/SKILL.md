@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Inspektionszertifikat im internation
 
 # Inspektionszertifikat
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Inspektionszertifikate bescheinigen Qualität, Menge, Ursprung oder Zustand von 
 - Phytosanitär: staatliche Ausstellung im Ursprungsland; Timing für Akkreditiv beachten
 - UCP 600 Art. 26: kein Standard-Format vorgegeben — Inhalt nach Akkreditivbedingungen
 
-## Output
-
-- Inspektionszertifikat-Typen-Übersicht
-- UCP 600 Art. 26 Compliance-Checkliste
-- Muster-Akkreditivklausel für Inspektionszertifikat
-
-## Quellenregel
-
-UCP 600 Art. 26: iccwbo.org. CISG Art. 35/38: uncitral.un.org. ISO/IEC 17020: iso.org. Unsicherheit bleibt sichtbar.

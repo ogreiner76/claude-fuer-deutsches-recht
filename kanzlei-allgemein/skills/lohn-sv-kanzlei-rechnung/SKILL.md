@@ -5,10 +5,6 @@ description: "Bereitet Lohnabrechnung Sozialversicherungsmeldungen und Payroll-�
 
 # Lohn, Sozialversicherung und Payroll
 
-## Arbeitsbereich
-
-Bereitet Lohnabrechnung Sozialversicherungsmeldungen und Payroll-Übergabe für Kanzleimitarbeiter vor. Anwendungsfall monatliche Lohnabrechnung muss vorbereitet oder Daten für DATEV-Lohnsoftware oder Steuerkanzlei zusammengestellt werden. Normen SGB IV SGB V SGB VI EStG § 41b EStG Lohnsteuerbescheinigung. Prüfraster Bruttogehalt ELStAM-Steuerklasse SV-Beitraege Minijob Meldungen Bonus Gratifikation Fehlzeiten. Output Payroll-Zusammenfassung mit SV-Beitraegen Lohnsteuer Meldedaten und Übergabepaket für Fachsystem oder Steuerberater. Abgrenzung zu kanzlei-allgemein-hr-personal und kanzlei-allgemein-ustva-buchhaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Bereitet Lohnabrechnung Sozialversicherungsmeldungen und Payroll-Übergabe für 
 - §§ 14, 17 SGB IV — Arbeitsentgelt und Beitragsbemessungsgrundlage Sozialversicherung
 - § 38 EStG — Lohnsteuerabzug: Arbeitgeberpflicht bei Entgeltauszahlung
 - § 1 MiniJobG i.V.m. § 8 SGB IV — Minijob-Grenze: 556 EUR monatlich (ab 01.01.2025)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill bereitet die monatliche Lohnabrechnung der Kanzlei vor. Er erstellt keine verbindliche Entgeltabrechnung und übermittelt keine Meldungen. Abrechnung, ELStAM, Lohnsteuer-Anmeldung, SV-Meldungen und Beitragsnachweise laufen über Lohnsoftware, Steuerkanzlei, ELSTER, SV-Meldeportal oder ein anderes zulässiges Fachsystem.
 
 ## Payroll-Daten
 
@@ -83,3 +72,4 @@ Immer anhalten bei:
 ## Ausgabe
 
 `assets/templates/lohnabrechnung-vorbereitung.md` verwenden.
+

@@ -5,10 +5,6 @@ description: "Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladu
 
 # Zwölftafelgesetz - Prozess und Vollstreckung
 
-## Arbeitsbereich
-
-Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Dieser Skill erklärt das Zwölftafelgesetz als frühe Ordnung von **Verfahren und Vollstreckung**: Ladung, Anwesenheit, formale Prozessschritte, Urteil, Fristen, Schulddruck und die Härte archaischer Vollstreckung.
-
 ## Sofortsortierung
 
 1. Handelt es sich um Prozessbeginn, Beweis, Urteil, Vollstreckung oder Schuldnerstatus?
@@ -52,15 +44,9 @@ Dieser Skill erklärt das Zwölftafelgesetz als frühe Ordnung von **Verfahren u
 4. **Vollstreckungsdruck:** Schuldhaft und Zugriff auf Person/Vermögen historisch erklären, nicht normativ romantisieren.
 5. **Fortbildung:** Übergang zu Legisaktionen, prätorischer Steuerung, Formularprozess und späterem Kognitionsverfahren skizzieren.
 
-## Ausgabeformat
-
-- Prozesskarte in fünf Schritten.
-- Historischer Härtegrad mit heutiger Warnmarke.
-- Vergleich: Zwölftafelgesetz, klassischer Prozess, justinianische Ordnung, moderne Rechtsstaatslogik.
-- Kurzes didaktisches Beispiel.
-
 ## Fehlervermeidung
 
 - Keine Gleichsetzung mit moderner ZPO.
 - Keine ungesicherte wörtliche Tafelübersetzung ohne Nutzerquelle.
 - Keine Beschönigung archaischer Zwangsmittel.
+

@@ -5,10 +5,6 @@ description: "Wehrdisziplinarordnung einfache Disziplinarmaßnahme: prüft die e
 
 # Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme
 
-## Arbeitsbereich
-
-Wehrdisziplinarordnung einfache Disziplinarmaßnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,15 +89,6 @@ Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (d
 - Parallelverfahren übersehen – § 16 WDO wäre Aussetzung möglich.
 - Bemessungsfehler nicht gerügt – Truppendienstgericht prüft Bemessung sonst nur eingeschränkt.
 
-## Querverweise
-
-- soldatengesetz-rechtsstellung-grundpflichten
-- disziplinarverfahren-intake
-- truppendienstgericht-zuständigkeit-verfahren
-- gerichtliches-disziplinarverfahren-soldat
-- wehrstrafrecht-fahnenflucht-gehorsamsverweigerung-schnittstelle
-- rechtsbeistand-im-disziplinarverfahren
-
 ## Quellen Stand 06/2026
 
 - WDO 2025 – Volltext gesetze-im-internet.de.
@@ -109,3 +96,4 @@ Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (d
 - BVerwG Wehrdienstsenate – ständige Rechtsprechung zur Bemessung von Disziplinarmaßnahmen (Az. verifizieren in BVerwG-Datenbank).
 - Truppendienstgericht Süd/Nord – Verfahren und Spruchpraxis (publik bei den Truppendienstgerichten).
 - Dienstvorschriften (ZDv) nur nach Vorlage durch Mandanten.
+

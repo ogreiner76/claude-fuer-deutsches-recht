@@ -5,10 +5,6 @@ description: "Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht im
 
 # Rom Oskisches Recht Tabula Bantina Und Volksrecht
 
-## Arbeitsbereich
-
-Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Oskisches Recht — Tabula Bantina und das Recht der Bundesgenossen.
-
 ## Tabula Bantina
 
 - Bronzetafel aus Bantia (Apulien).
@@ -62,6 +54,3 @@ Oskisches Recht — Tabula Bantina und das Recht der Bundesgenossen.
 2. Welche Magistratur?
 3. Roemische Parallele?
 
-## Output
-
-- Inschriftenanalyse.

@@ -22,7 +22,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
 ## Fachkern: Dashboard Red Team
 
 - **Managementproblem (Dashboard Red Team):** Prüft Dashboards auf falsche Präzision, Datenlücken und politische Ampeln. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
@@ -41,14 +40,6 @@ Prüft Dashboards auf falsche Präzision, Datenlücken und politische Ampeln. De
 3. Welche Entscheidung steht an und wer darf sie treffen?
 4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
 5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
-
-## Arbeitsweise
-
-- Trenne Signal von Kanzleigeräusch. Nicht jede laute Partnerstimme ist ein strategisches Argument.
-- Behandle Zahlen als Entscheidungsstütze, nicht als Orakel.
-- Zeige immer die Gegenrechnung: Kosten des Nichtstuns, Kosten der Überreaktion, Kosten der halbherzigen Lösung.
-- Prüfe, ob das Problem ein Cash-, Pricing-, People-, Governance-, Qualitäts- oder Kommunikationsproblem ist.
-- Formuliere den Output so, dass er im Partnerkreis beschlossen und nach vier Wochen überprüft werden kann.
 
 ## Standard-Output
 
@@ -72,3 +63,4 @@ Erzeuge:
 ## Quellen- und Compliance-Hygiene
 
 Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
+

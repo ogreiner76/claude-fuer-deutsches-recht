@@ -5,10 +5,6 @@ description: "Verortet den NKR im europaeischen Better-Regulation-Kontext. Stell
 
 # NKR-EU-Ebene und Better Regulation
 
-## Arbeitsbereich
-
-Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine für EU-spezifische Stellungnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -95,14 +91,6 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 - EU-Folgenabschaetzung nicht in deutsche Begruendung uebernommen
 - Eigene Methodik abweichend von Better-Regulation-Toolbox ohne Begruendung
 
-## Querverweise
-
-- `nkr-eu-richtlinien-umsetzung-und-goldplating` — Detailskill Goldplating
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-leitfaden-ermittlung-und-darstellung`
-- `nkr-evaluation-und-jahresbericht`
-- `legistik-werkstatt/legw-eu-richtlinienumsetzung-spezial`
-
 ## Quellen Stand 06/2026
 
 - Art. 288 AEUV, Art. 5 EUV
@@ -111,3 +99,4 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 - NKRG vom 14.08.2006 § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [ec.europa.eu/info/better-regulation](https://ec.europa.eu/info/law/better-regulation_en) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

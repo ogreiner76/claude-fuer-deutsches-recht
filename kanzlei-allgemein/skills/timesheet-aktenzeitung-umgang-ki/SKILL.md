@@ -5,10 +5,6 @@ description: "Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mi
 
 # Timesheet und Aktenzeitung
 
-## Arbeitsbereich
-
-Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -31,13 +27,6 @@ Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt
 - § 3a RVG — Stundensatz-Vereinbarung: setzt nachvollziehbare Zeiterfassung voraus
 - § 147 AO — Aufbewahrungspflicht 10 Jahre für Buchungsbelege inkl. Timesheet
 - § 238 HGB — Buchfuehrungspflicht: Zeitnarrative als betriebliche Aufzeichnung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Die Aktenzeitung ist die Tagebuchführung pro Mandat. Sie ist Grundlage jeder Honorarrechnung nach Stundensatz und Belegfähigkeit gegenüber dem Mandanten.
 
 ## Erfassungseinheit
 
@@ -115,3 +104,4 @@ Bei Mandatsende oder Zwischenrechnung:
 - `timesheet-mandat-<az>-<periode>.md` als Mandatsbeleg
 - `timesheet-anwalt-<initialen>-<periode>.md` als Anwalts-Auslastung
 - `timesheet-kanzlei-<periode>.md` als Kanzlei-Report
+

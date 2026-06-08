@@ -17,10 +17,6 @@ Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behördenbeteili
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Audit der zweistufigen Beteiligung. Hier finden sich die meisten Verfahrenshebel: Auslegungsdauer, Bekanntmachung der Auslegung, Identität der ausgelegten Unterlagen, Online-Veröffentlichung, Behandlung der Stellungnahmen.
-
 ## Schritt 1 — Frühzeitige Beteiligung § 3 Abs. 1 BauGB
 
 ### Inhalt
@@ -164,6 +160,3 @@ Audit der zweistufigen Beteiligung. Hier finden sich die meisten Verfahrenshebel
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

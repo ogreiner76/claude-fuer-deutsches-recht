@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 
 
 # Mauergrundstücke und Restitution
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen für den Grenzstreifen, Vermögensgesetz, Rückübertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Der Berliner Mauer-Grenzstreifen entstand durch systematische Enteignungen priva
 - BVerwG: bverwg.de für vollstaendige Entscheidungen
 - Berliner Senat: fachliche Informationen zur Mauer-Grundstuecks-Abwicklung
 
-## Output
-
-- VermG-Anwendungsfall Mauergrundstück: Schritt-für-Schritt
-- InVorG-Investitionsvorrang vs. Rueckgabeanspruch: Abwaegungsschema
-- BVerwG-Kernentscheidungen zu Mauergrundstücken
-
-## Quellenregel
-
-VermG und InVorG: gesetze-im-internet.de. BVerwG: bverwg.de. BGBl. I 1992, 1257. BVerfGE zur Bodenreform: bverfg.de.

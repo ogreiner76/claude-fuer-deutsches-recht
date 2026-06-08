@@ -25,19 +25,3 @@ Dieser Skill eignet sich fuer polizeirechtliche, bauordnungsrechtliche und verwa
 4. **Verhaeltnismaessigkeit nachschalten:** Erst wenn Zweck und Ermaechtigungsgrundlage tragen, beginnt die moderne BVerfG-Pruefung von Geeignetheit, Erforderlichkeit und Angemessenheit.
 5. **Fehlerbremse:** Nicht aus dem historischen Urteil eine heutige BVerfG-Leitentscheidung machen. Es ist ein Strukturanker fuer Gesetzesbindung und Zweckkontrolle, kein Ersatz fuer Art. 20 Abs. 3 GG und die Grundrechtsdogmatik.
 
-## Output
-
-Erstelle eine kurze Tabelle:
-
-| Frage | Befund | Folge |
-|---|---|---|
-| Welcher Zweck wird behauptet? |  |  |
-| Welcher Zweck traegt die Akte wirklich? |  |  |
-| Gefahr oder Wohlfahrtspflege? |  |  |
-| Reicht allgemeines Polizeirecht? |  |  |
-| Welche Spezialnorm waere noetig? |  |  |
-| Moderne Verhaeltnismaessigkeit noch zu pruefen? |  |  |
-
-## Quellenhygiene
-
-Das historische Urteil nur mit Gericht, Datum, Aktenzeichen und Sammlung nennen. Fuer moderne Anschlussfaelle bevorzugt frei pruefbare Gerichtsquellen, etwa die Entscheidungsdatenbank des Bundesverwaltungsgerichts zu BVerwG, Urteil vom 11.10.2007, 4 C 8.06. Keine BeckRS- oder juris-Blindzitate erzwingen.

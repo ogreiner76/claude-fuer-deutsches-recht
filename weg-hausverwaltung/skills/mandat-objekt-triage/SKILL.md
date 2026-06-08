@@ -60,13 +60,6 @@ Aus einer ungeordneten Verwaltungsakte entsteht ein arbeitsfähiges Objektprofil
 3. **Vorgänge in Körbe sortieren**: Versammlung, Beschluss, Abrechnung, Bau, Hausgeld, Kommunikation, Datenschutz, Gericht.
 4. **Primären Folge-Skill vorschlagen**.
 
-## Output
-
-- `objektprofil.md` (Adresse, Einheiten, Beteiligte, Verwaltervertrag, Beirat, Schlüssel)
-- `fristen-und-risiken.md` (nach Datum sortiert, mit Wirkung und Maßnahme)
-- `dokumentenluecken.md`
-- Skill-Routing mit Priorität (welcher Skill zuerst, mit Begründung)
-
 ## Cross-Refs
 
 - Bei Versammlung-Stapel → `eigentuemerversammlung-vorbereiten`
@@ -79,10 +72,3 @@ Aus einer ungeordneten Verwaltungsakte entsteht ein arbeitsfähiges Objektprofil
 
 `rechtsstand-mai-2026-faktenbank` laden, sobald rechtliche Bewertung erfolgt.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

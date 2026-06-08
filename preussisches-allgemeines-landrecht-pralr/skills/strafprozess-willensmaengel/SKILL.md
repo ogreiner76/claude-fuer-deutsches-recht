@@ -5,10 +5,6 @@ description: "Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das
 
 # Pralr Strafprozess Und Inquisition
 
-## Arbeitsbereich
-
-Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das Inquisitionsprinzip die Folter-Aufhebung Friedrichs II. 1740 die Beweismittel Indizienbeweis Folterabbau und die Reform durch die rheinische Strafprozessordnung 1849 mit Schwurgericht. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -70,7 +66,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Welches Verfahrensprinzip?
 3. Welche Beweisregel?
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Strafprozessgeschichte.

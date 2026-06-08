@@ -5,10 +5,6 @@ description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche
 
 # Space Weather: Solarsturm-Haftung und Versicherung
 
-## Arbeitsbereich
-
-Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit für Industrie und Versicherer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für Mandate aus Branchen, die durch Space Weather betroffen sind: Satellitenbetreiber, Energieversorger, Telekommunikationsanbieter, Luftfahrtgesellschaften, Versicherer, Aufsichtsbehoerden. Anlaesse: Halloween-Storms 2003, geomagnetischer Sturm Mai 2024 (Gannon Storm), Carrington-Ereignis 1859 als historisches Maximum.
 
 ## Sofortfragen
 
@@ -66,10 +58,3 @@ Skill für Mandate aus Branchen, die durch Space Weather betroffen sind: Satelli
 6. KRITIS- oder NIS2-Meldepflicht ausgeloest?
 7. Force-Majeure-Klausel in welcher Fassung?
 
-## Output
-
-- Schadensgutachten Space Weather mit Versicherungsbezug.
-- Pruefraster Force Majeure.
-- Vorfall-Meldungsentwurf (BSI, BNetzA, BAFin).
-- Compliance-Memo zur Risikomanagement-Pflicht.
-- Versicherungs-Negotiations-Bausteine.

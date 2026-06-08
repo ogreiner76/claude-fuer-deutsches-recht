@@ -8,6 +8,7 @@ description: "Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft kon
 ## Arbeitsbereich
 
 **Subventionsbetrug Stgb Toetung Verlangen** ordnet den Fall über die tragenden Prüfungslinien: Subventionsbetrug § 264 StGB, Toetung auf Verlangen nach § 216 StGB, Totschlag nach § 212 StGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +31,7 @@ description: "Subventionsbetrug Stgb Toetung Verlangen im Strafrecht: prüft kon
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-subventionsbetrug-264-stgb`
@@ -120,13 +122,6 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 ### Bestreiten Subventionserheblichkeit
 
 "Die in der Anklageschrift bezeichnete Angabe ist nicht subventionserheblich im Sinne von § 264 Abs. 9 Nr. 1 oder Nr. 2 StGB. Das Antragsformular der [Behörde] vom [Datum] enthaelt zwar pauschal die Formulierung [...], jedoch fehlt eine konkrete Bezeichnung der streitgegenstaendlichen Tatsache als subventionserheblich. Eine pauschale Globalformel genuegt nach staendiger Rechtsprechung des BGH nicht."
-
-## Querverweise
-
-- `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `fachanwalt-strafrecht-untersuchungshaft-haftpruefung`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
 
 ## Quellen Stand 06/2026
 
@@ -220,13 +215,6 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 
 **Plaedoyer-Snippet:**
 > Die Voraussetzungen des § 216 StGB liegen vor. Das Verlangen war ausdruecklich, schriftlich dokumentiert und ernstlich. Die Patientin war einsichts- und urteilsfaehig. Der Angeklagte wurde durch das Verlangen zur Tat bestimmt. Eigene Motive (Habgier, Erbschaft) sind nicht ersichtlich. Es ist eine Freiheitsstrafe im unteren Bereich des § 216 Abs. 1 StGB tat- und schuldangemessen, die zur Bewaehrung auszusetzen ist.
-
-## Querverweise
-
-- `strafrecht-spezial-totschlag-212-stgb` – Grundtatbestand.
-- `strafrecht-spezial-mord-211-stgb-mordmerkmale` – Abgrenzung.
-- `fachanwalt-strafrecht-einlassung-vorbereiten` – Aussagestrategie.
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` – Verstaendigungsverfahren.
 
 ## Quellen Stand 06/2026
 
@@ -323,14 +311,6 @@ In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** 
 **Hilfsbeweisantrag (Auszug):**
 > Hilfsweise wird beantragt, den Sachverstaendigen Dr. ... zur Beurteilung der Schuldfaehigkeit des Angeklagten zum Tatzeitpunkt zu vernehmen. Beweisthema: Der Angeklagte stand zum Tatzeitpunkt unter erheblicher Alkoholisierung (gemessene BAK ... Promille). Steuerungsfaehigkeit erheblich vermindert iSd § 21 StGB.
 
-## Querverweise
-
-- `strafrecht-spezial-mord-211-stgb-mordmerkmale` – Qualifikation.
-- `strafrecht-spezial-minder-schwerer-fall-213-stgb` – Strafrahmenverschiebung.
-- `strafrecht-spezial-toetung-auf-verlangen-216-stgb` – Privilegierung.
-- `strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb` – Auffangtatbestand bei fehlendem Toetungsvorsatz.
-- `fachanwalt-strafrecht-einlassung-vorbereiten` – Aussagestrategie.
-
 ## Quellen Stand 06/2026
 
 - § 212 StGB Totschlag (gesetze-im-internet.de).
@@ -420,12 +400,6 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 
 **Einlassungs-Snippet (Fahrlaessigkeit):** "Ich habe die Klaeranlage routinemaessig betrieben. Ein technischer Defekt an der Foerderpumpe am DD.MM.JJJJ hat zu einem unkontrollierten Ueberlauf gefuehrt. Die Stoerung war für meinen Schichtbetrieb nicht vorhersehbar; eine vorsaetzliche Verunreinigung lag nicht vor."
 
-## Querverweise
-
-- `strafrecht-spezial-umweltstrafrecht-326-stgb-abfall`
-- `strafrecht-spezial-umweltstrafrecht-327-stgb-anlagen`
-- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 324 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -437,14 +411,6 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 - Paragraph 30 OWiG Verbandsgeldbusse.
 - Paragraph 70 StGB Berufsverbot.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `strafrecht-spezial-umweltstrafrecht-326-stgb-abfall`
 
@@ -533,12 +499,6 @@ Vorsatz hinsichtlich aller objektiven Merkmale, einschliesslich des Fehlens der 
 
 **Einlassungs-Snippet (Bagatelle Absatz 6):** "Ich habe lediglich drei Asbestplatten von ca. 8 kg auf meinem eigenen Grundstueck im Erdreich vergraben. Bei dieser Menge ist eine Gefaehrdung der Allgemeinheit offensichtlich ausgeschlossen."
 
-## Querverweise
-
-- `strafrecht-spezial-umweltstrafrecht-324-stgb-gewaesser`
-- `strafrecht-spezial-umweltstrafrecht-327-stgb-anlagen`
-- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 326 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -550,14 +510,6 @@ Vorsatz hinsichtlich aller objektiven Merkmale, einschliesslich des Fehlens der 
 - Paragraph 30 OWiG Verbandsgeldbusse.
 - Paragraph 70 StGB Berufsverbot.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 6. `strafrecht-spezial-umweltstrafrecht-327-stgb-anlagen`
 
@@ -641,12 +593,6 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 
 **Einlassungs-Snippet (Verbotsirrtum):** "Ich habe vor der Umstellung am DD.MM.JJJJ den Umweltgutachter X um eine schriftliche Einschaetzung gebeten (Anlage U 1). Dieser hat mir mitgeteilt, dass die Aenderung lediglich anzeigepflichtig nach Paragraph 15 BImSchG, nicht jedoch genehmigungsbeduerftig sei. Ich habe deshalb keine neue Genehmigung beantragt."
 
-## Querverweise
-
-- `strafrecht-spezial-umweltstrafrecht-324-stgb-gewaesser`
-- `strafrecht-spezial-umweltstrafrecht-326-stgb-abfall`
-- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 327 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -657,14 +603,6 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 - BGH staendige Rspr. zum Verbotsirrtum bei komplexen Genehmigungslagen.
 - Paragraph 30 OWiG Verbandsgeldbusse; Paragraph 62 BImSchG OWi-Tatbestaende.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 7. `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
 
@@ -742,14 +680,6 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen X (Mehrheitsgesellschafter) zu erheben zum Beweis der Tatsache, dass dieser meinem Mandanten am DD.MM.JJJJ telefonisch die Entnahme von EUR Y erlaubt hat."
 
-## Querverweise
-
-- `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand`
-- `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit`
-- `strafrecht-spezial-untreue-aktiengesellschaft-aktg-93`
-- `strafrecht-spezial-koerperliche-vermoegensgefaehrdung-untreue`
-- `strafrecht-spezial-bankrott-283-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 266 StGB im Wortlaut (gesetze-im-internet.de).
@@ -760,14 +690,6 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 - BGH staendige Rspr. zur Existenzvernichtungsuntreue trotz Gesellschafterzustimmung.
 - Paragraph 93 Abs 1 Satz 2 AktG Business Judgment Rule (analog GmbH).
 - Paragraph 43 GmbHG Sorgfaltspflicht des GF.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 8. `strafrecht-spezial-untreue-aktiengesellschaft-aktg-93`
 
@@ -849,13 +771,6 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung des Vorstandsprotokolls vom DD.MM.JJJJ und der Anlage 4 (Sachverstaendigengutachten Y) zu erheben zum Beweis der Tatsache, dass die Sponsoringentscheidung auf Grundlage angemessener Information iSd Paragraph 93 Abs 1 Satz 2 AktG getroffen wurde."
 
-## Querverweise
-
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-- `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand`
-- `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit`
-- `strafrecht-spezial-koerperliche-vermoegensgefaehrdung-untreue`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 266 StGB im Wortlaut (gesetze-im-internet.de).
@@ -867,14 +782,6 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 - BGH staendige Rspr. zur Anwendung der Business Judgment Rule in Strafverfahren.
 - BGH-Linie zur Mannesmann-Entscheidung (Aufsichtsratspflicht bei Praemienentscheidungen) als Anknuepfungspunkt.
 - BVerfG 23.06.2010 - 2 BvR 2559/08 (Bestimmtheitsgebot der Untreue, gilt auch im AG-Recht).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 9. `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand`
 
@@ -953,13 +860,6 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der internen Arbeitsanweisung der Y GmbH vom DD.MM.JJJJ zu erheben zum Beweis der Tatsache, dass meine Mandantin Buchungen nur nach schriftlicher Anweisung des GF vornehmen durfte."
 
-## Querverweise
-
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-- `strafrecht-spezial-untreue-schaden-und-bezifferbarkeit`
-- `strafrecht-spezial-untreue-aktiengesellschaft-aktg-93`
-- `strafrecht-spezial-koerperliche-vermoegensgefaehrdung-untreue`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 266 Abs 1 Alt 2 StGB im Wortlaut (gesetze-im-internet.de).
@@ -969,14 +869,6 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 - BGH staendige Rspr. zum faktischen Treueverhaeltnis.
 - Paragraph 43 GmbHG, Paragraph 93 AktG, Paragraph 1793 BGB, Paragraph 60 InsO als gesetzliche Pflichtquellen.
 - Paragraph 27 StGB Beihilfe (Schnittstelle bei Mitarbeitern ohne VBP, die dem GF helfen).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 10. `strafrecht-spezial-urheberrecht-106-urhg`
 
@@ -1058,15 +950,6 @@ Strafrahmen Paragraph 106 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldst
 7. **Verstaendigung Paragraph 257c StPO** bei eindeutiger Beweislage und kooperativer Mandantenseite.
 8. **Bei Anklage:** Hauptverhandlung mit Sachverstaendigenbeweisantraegen zur Schoepfungshoehe und zur Schutzfristberechnung.
 
-## Querverweise
-
-- `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
-- `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich`
-- `strafrecht-spezial-urheberrecht-108b-urhg-tpm`
-- `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung`
-- `strafrecht-spezial-markenrecht-143-markeng`
-
 ## Quellen Stand 06/2026
 
 - Paragraphen 106, 108a, 109, 110 UrhG im Wortlaut (gesetze-im-internet.de).
@@ -1076,3 +959,4 @@ Strafrahmen Paragraph 106 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldst
 - BGH staendige Rspr. zur Schoepfungshoehe der Kleinen Muenze; zur sekundaeren Darlegungslast im Filesharing (zivilrechtlich, im Strafverfahren nicht uebertragbar).
 - EuGH C-527/15 Filmspeler; EuGH C-610/15 Stichting Brein; EuGH C-128/11 UsedSoft; EuGH C-145/10 Painer (Schutz der Lichtbildwerke und Schoepfungsbegriff). Vor Verwendung in der Akte mit konkretem Datum und Rn live verifizieren.
 - Paragraphen 73, 73c, 74 StGB Einziehung und Wertersatz.
+

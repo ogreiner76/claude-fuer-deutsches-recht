@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Barrierefreiheit Web BFSG/WCAG: wählt den 
 
 Dieses Anschluss-Routing für **Barrierefreiheit Web Checker** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abnahme-formular-portal-und-einreichung` — Abnahme Formular Portal und Einreichung
@@ -35,10 +34,6 @@ Dieses Anschluss-Routing für **Barrierefreiheit Web Checker** wählt nach dem e
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Webseitenbetreiber, Bundes-/Landesbarrierefreiheitsbeauftragter, Schlichtungsstelle BFSG, Marktüberwachung oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Barrierefreiheit Web BFSG/WCAG.
 
 ## Qualitätsanker
 

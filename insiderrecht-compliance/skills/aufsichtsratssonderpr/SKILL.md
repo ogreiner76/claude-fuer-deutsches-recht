@@ -5,10 +5,6 @@ description: "Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch de
 
 # Aufsichtsrats-Sonderprüfung – Insiderrecht
 
-## Arbeitsbereich
-
-Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,21 +69,3 @@ Insiderinformation werden, und steuert die Ad-hoc-Entscheidung.
 - Koordination: Untersuchungsbericht fertig → CFO und Compliance prüfen → Ad-hoc unverzüglich
 - Inhalt: Was wurde festgestellt, welche Maßnahmen werden ergriffen, Ausblick
 
-## Red-Team-Fragen
-
-- Wurde der frühestmögliche Insiderinformationszeitpunkt identifiziert?
-- Ist der Aufschub während der laufenden Untersuchung rechtlich begründet?
-- Wurden alle Wissensträger in die Insiderliste aufgenommen (inkl. externe Kanzlei und WP)?
-- Wurden PDMR-Eigengeschäfte im Zeitraum der Untersuchung geprüft?
-- Ist das finale Untersuchungsergebnis Gegenstand einer Ad-hoc-Pflicht?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Insiderinformations-Zeitstrahl (Hinweis → AR-Beschluss → Zwischenergebnis → finales Ergebnis)
-2. Insiderlisten-Aktualisierungsplan
-3. Aufschub-Begründungsmatrix
-4. Ad-hoc-Entwurf für wesentliche Untersuchungsergebnisse
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, bgh.de,
-dejure.org.

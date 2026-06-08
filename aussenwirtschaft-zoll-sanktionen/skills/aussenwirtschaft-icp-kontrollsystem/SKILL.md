@@ -5,10 +5,6 @@ description: "Aufbau und Auditierung eines Internal Compliance Programme (ICP) n
 
 # Internal Compliance Programme (ICP): Aufbau und Gap-Analyse
 
-## Arbeitsbereich
-
-Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitfaden und EU Best Practice Guidelines: Risikobasierte Struktur, Schluessel-Compliance-Elemente, Ausfuhrverantwortlicher, Screening-Prozesse, Dokumentation und Schulungspflichten. Output: ICP-Handbuch-Gliederung und Gap-Analyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,19 +53,6 @@ Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitf
 - Schulungsnachweis fehlt; Teilnahmelisten und Inhaltsdokumentation noetig.
 - ICP deckt Technologietransfer und Dienstleistungen nicht ab, nur Warenausfuhr.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -88,13 +71,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-ICP-Handbuch-Gliederung nach BAFA-Standard, Gap-Analyse mit Priorisierung, Umsetzungsplan und Dokumentationsvorlagen für Screening und Entscheidungen.
-
 ## Quellen
 
 - [BAFA ICP-Merkblatt](https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Interne_Compliance/interne_compliance_node.html)
 - [EU Best Practice Guidelines ICP](https://ec.europa.eu/trade/import-and-export-rules/export-from-eu/dual-use-controls/index_en.htm)
 - [AWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awg_2013/index.html)
 - [AWV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/awv_2013/index.html)
+

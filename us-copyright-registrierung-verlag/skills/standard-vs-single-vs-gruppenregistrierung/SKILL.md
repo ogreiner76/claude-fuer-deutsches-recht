@@ -5,10 +5,6 @@ description: "Antragstyp sauber wählen: Standard Application, Single-author-Opt
 
 # Standard, Single oder Gruppenregistrierung
 
-## Arbeitsbereich
-
-Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenregistrierung oder separater Antrag pro Werk; keine unzulässige Sammelanmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenre
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Entscheide den richtigen Antragstyp. Der Skill bremst die typische Verlagsidee, „gleich zehn Titel in einen Standard-Antrag zu packen“, wenn dafür eine spezielle Gruppenoption oder getrennte Anträge nötig sind.
-
 ## Entscheidungsbaum
 
 1. **Ein Werk:** Standard Application prüfen; Single-author/same-claimant/one-work/not-for-hire nur bei engem Zuschnitt.
@@ -34,19 +26,11 @@ Entscheide den richtigen Antragstyp. Der Skill bremst die typische Verlagsidee, 
 4. **Sammelwerk:** Registrierung des Sammelwerks deckt Auswahl/Anordnung und eigene Beiträge, aber nicht automatisch jeden fremden Einzelbeitrag.
 5. **Backlist/Serien:** Batchplan mit separaten Cases statt unzulässiger Sammelclaim.
 
-## Output
-
-Eine Antragstyp-Matrix mit Werk, Claim, Zulässigkeit, Kosten, Deposit-Route und Begründung.
-
 ## Risikoampel
 
 - Grün: ein Werk, klare Rechtekette, passender Deposit.
 - Gelb: mehrere Beiträge, Herausgeber-/Autorenmix, fremde Inhalte.
 - Rot: Standard-Antrag für mehrere nicht zusammen registrierbare Werke, unklare Claimants, AI-Anteile ohne Disclaimer.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -58,3 +42,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Frist-/Remedy-Wirkung hat timing nach § 411/§ 412 und was muss als Nachweis in die Verlagsakte?
 
 **Mindest-Output:** Registrierungsakte mit Antragstyp, Werkdaten, Rechtekette, Deposit-Route, Fee/Tracking und Certificate-Archiv.
+

@@ -5,10 +5,6 @@ description: "GKV-Leistungen für Haushaltshilfe (§ 38 SGB V), Fahrkosten (§ 6
 
 # Haushaltshilfe, Fahrkosten und besondere Lebenslagen
 
-## Arbeitsbereich
-
-GKV-Leistungen für Haushaltshilfe (§ 38 SGB V), Fahrkosten (§ 60 SGB V) und besondere Lebenslagen: Anspruchsvoraussetzungen, Genehmigung und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,3 +90,4 @@ Dieser Skill bearbeitet **ergänzende GKV-Leistungen** neben der Krankenbehandlu
 - [§ 62 SGB V – Belastungsgrenze](https://www.gesetze-im-internet.de/sgb_5/__62.html)
 - [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 60 SGB V](https://dejure.org/gesetze/SGB_V/60.html)
+

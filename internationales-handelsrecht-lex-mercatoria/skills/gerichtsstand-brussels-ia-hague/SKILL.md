@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (E
 
 # Gerichtsstand: Brüssel Ia und Haager Übereinkommen
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (EU) 1215/2012 und Haager Gerichtsstandsübereinkommen 2005. Art. 25 Gerichtsstandsvereinbarung, ausschließlicher Gerichtsstand, Lis pendens und Anerkennung ausländischer Urteile. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Die Brüssel Ia-VO (EU) 1215/2012, anwendbar seit 2015, regelt die international
 - Lis-pendens-Reform: Gerichtsstand-Vereinbarungsgericht hat Priorität (Art. 31 Abs. 2)
 - Schiedsklausel und staatliche Gerichtsstandsklausel immer aufeinander abstimmen
 
-## Output
-
-- Gerichtsstandsklausel-Muster (ausschließlich, EU und Drittland)
-- Tabelle: Brüssel Ia vs. Haager GStÜ Anwendungsbereich
-- Lis-pendens-Analyse für Risikofälle
-
-## Quellenregel
-
-Brüssel Ia: eur-lex.europa.eu (32012R1215). Haager GStÜ: hcch.net. EuGH-Rspr.: curia.europa.eu. Schrifttum: Rauscher EuZPR/EuIPR Brüssel Ia-VO. Unsicherheit bleibt sichtbar.

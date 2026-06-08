@@ -93,13 +93,6 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 - Termin für Quartalsgespraech ankuendigen (alle 3 Monate).
 - Bei wiederholten Belegabgabe-Verzoegerungen Mahnschreiben mit Honoraranknuepfung (Zuschlag für Eilfall).
 
-## Output
-
-- BWA mit Vorjahresvergleich und Erlaeuterungstext.
-- USt-Voranmeldung uebermittelt.
-- OPOS-Listen aktualisiert.
-- Mandantenakte mit Monatsabschluss-Eintrag dokumentiert.
-
 ## Strategie und Praxis-Tipps
 
 - 30-Tage-Zyklus mit klaren Deadlines (Tag 5 Belegannahme, Tag 15 Buchungsende, Tag 25 BWA fertig) durchhalten.
@@ -107,14 +100,6 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 - Personalkosten brauchen vorgezogene Datenuebernahme — Lohnabteilung muss BWA-relevante Buchungen bis Tag 12 liefern.
 - Honoraranknuepfung StBVV § 33: Buchfuehrungspauschale pro Monat, BWA-Erstellung separat als Vereinbarung.
 - Bei Krisensignalen (negative BWA, Eigenkapitalerosion) automatische Eskalation an Berufstraeger (Querverweis stb-bwa-sus-bilanz-pruefung).
-
-## Querverweise
-
-- `stb-routine-monatsabschluss-30-tage-zyklus` — vertiefte Prozessbeschreibung.
-- `stb-bwa-aufbau-grundlagen` — BWA-Struktur.
-- `stb-pruefliste-belegabgabe-monatlich` — Belegabgabe-Checkliste.
-- `stb-bwa-fehlerquellen-haeufig` — typische Fehler im Monatsabschluss.
-- `stb-bwa-sus-bilanz-pruefung` — Krisensignal-Check.
 
 ## Quellen und Updates
 
@@ -127,10 +112,3 @@ Stand: 05/2026.
 - BMF v. 28.11.2019, BStBl I 2019, 1269 (GoBD).
 - Verifikations-Hinweis: GoBD-Update bei BMF-Anpassungen jaehrlich pruefen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

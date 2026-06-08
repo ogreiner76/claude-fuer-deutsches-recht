@@ -5,10 +5,6 @@ description: "Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualis
 
 # Playbook-Vorschläge prüfen und genehmigen
 
-## Arbeitsbereich
-
-Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschläge des Playbook-Monitor-Agenten und überträgt genehmigte Änderungen in das Kanzleiprofil. Lädt, wenn der Monitor Vorschläge gemeldet hat, wenn der Nutzer "Playbook-Vorschläge prüfen", "welche Playbook-Updates sind ausstehend" oder "Abweichungsvorschläge durchgehen" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,17 +12,6 @@ Prüft und genehmigt (oder lehnt ab) ausstehende Playbook-Aktualisierungsvorschl
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; §§ 305 ff. BGB, NDA, SaaS- — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Diese Skill führt durch ausstehende Vorschläge des Playbook-Monitor-Agenten
-und überträgt genehmigte Änderungen in das Kanzleiprofil. Der Monitor beobachtet
-Verhandlungsmuster: wenn ein Anwalt eine Abweichung vom Standard-Playbook
-wiederholt billigt (Schwellenwert: 5 Mal in den letzten 12 Monaten), generiert
-er einen Vorschlag, das Playbook an die gelebte Praxis anzupassen.
-
-Lädt automatisch nach einer Monitor-Meldung oder wenn der Nutzer ausstehende
-Vorschläge explizit abfragen möchte.
 
 ## Eingaben
 
@@ -83,6 +68,7 @@ nicht aus Modellwissen ergänzt werden.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1 — Vorschlagsdatei laden
@@ -116,6 +102,7 @@ Nur nach ausdrücklicher Bestätigung durch den Anwalt übertragen.
 **Format des Diffs:**
 
 ```
+
 ## Playbook — Haftungsbeschränkung (Verwender-Seite)
 
 AKTUELL:
@@ -156,13 +143,6 @@ Ergebnis:
 
 Kanzleiprofil aktualisiert. Vorschlagsdatei archiviert.
 ```
-
-## Ausgabeformat
-
-Für jeden Vorschlag: Vollständiger Vorschlagsblock (Klausel, aktueller Wert,
-vorgeschlagener neuer Wert, Begründung, Quellenbeleg) + vier Optionen.
-Nach Entscheidung: Diff-Anzeige vor Schreiben.
-Am Ende: Gesamtübersicht aller Entscheidungen.
 
 ## Beispiel
 
@@ -219,3 +199,4 @@ Jeder Vorschlag in der Ausgabe muss enthalten:
  Ist eine Literaturquelle erforderlich, nur als "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" mit exakter Fundstelle kennzeichnen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

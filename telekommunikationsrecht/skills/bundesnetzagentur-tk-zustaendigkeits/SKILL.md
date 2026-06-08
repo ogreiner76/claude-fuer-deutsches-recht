@@ -5,10 +5,6 @@ description: "Verfahren vor der Bundesnetzagentur: Anhörung, Akteneinsicht, Ges
 
 # BNetzA-Verfahren: Akteneinsicht, Anhörung, Fristen
 
-## Arbeitsbereich
-
-Verfahren vor der Bundesnetzagentur: Anhörung, Akteneinsicht, Geschäftsgeheimnisse, Beiladung, Fristen, Beschlusskammerlogik und gerichtliche Anschlussstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ Verfahren vor der Bundesnetzagentur: Anhörung, Akteneinsicht, Geschäftsgeheimn
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Der Skill begleitet regulierte Unternehmen und Wettbewerber durch BNetzA-Verfahren, ohne Akteneinsicht und Geheimnisschutz zu verschlampen.
-
 ## Norm- und Quellenanker
 
 TKG; VwVfG §§ 28, 29; VwGO; Geschäftsgeheimnisgesetz; BNetzA-Verfahrenshinweise live prüfen.
-
-## Arbeitsfragen
-
-1. Welche Beschlusskammer/Einheit führt das Verfahren?
-2. Wurde angehört, beigeladen oder beschieden?
-3. Welche Aktenbestandteile sind geschwärzt oder geheimhaltungsbedürftig?
-4. Welche Frist für Stellungnahme/Rechtsmittel läuft?
-
-## Output
-
-Verfahrensfahrplan, Akteneinsichtsantrag, Geheimnisschutzvermerk und Stellungnahmegliederung.
 
 ## Red Flags
 
@@ -48,6 +29,3 @@ Verfahrensfahrplan, Akteneinsichtsantrag, Geheimnisschutzvermerk und Stellungnah
 - tk-eilrechtsschutz-bnetza-beschluss
 - tk-behoerdenkommunikation-kooperationsstrategie
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

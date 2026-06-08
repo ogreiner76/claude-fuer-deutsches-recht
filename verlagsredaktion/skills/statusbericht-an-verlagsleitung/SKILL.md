@@ -5,10 +5,6 @@ description: "Statusbericht an die Verlagsleitung: knappe Lagedarstellung zu Pro
 
 # Statusbericht an die Verlagsleitung
 
-## Arbeitsbereich
-
-Statusbericht an die Verlagsleitung: knappe Lagedarstellung zu Projekt, Frist, Kosten, Risiko und Eskalation. Mustertexte für monatliches Reporting und Ad-hoc-Alarm. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -122,17 +118,10 @@ Mit freundlichen Gruessen
 - Personenbezogene Werturteile statt Sachverhalt - schafft Personalfaelle.
 - Schoenfaerberei vor Bilanztermin - bei Aufdeckung Vertrauensverlust.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - schnelle Einordnung des Anlasses.
-- `workflow-fristen-und-risikoampel` - Ampelmethodik.
-- `verl-eskalation-bei-deadline-konflikt` - wenn der Statusbericht eine Eskalation ausloest.
-- `verl-abstimmung-mit-rechtsabteilung-pruefung` - bei rechtssensiblen Vorgaengen vor dem Bericht.
-- `qualitaetsgate-verlag` - bei wiederkehrenden Qualitaetsproblemen als Anlage.
-
 ## Quellen Stand 06/2026
 
 - Art. 17 MAR (Marktmissbrauchsverordnung) - Ad-hoc-Publizitaet.
 - §§ 87, 99 BetrVG - Mitbestimmung bei personellen Massnahmen.
 - Art. 6 DSGVO - Rechtsgrundlage interner Datenverarbeitung.
 - Verlagsinterne Reportingrichtlinien (Berichtspflicht Programmleitung an Geschaeftsfuehrung) - Kanzlei- bzw. Verlagsspezifisch.
+

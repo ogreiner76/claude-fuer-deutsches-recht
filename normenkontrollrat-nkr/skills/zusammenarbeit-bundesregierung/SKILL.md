@@ -5,10 +5,6 @@ description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im 
 
 # Zusammenarbeit Bundesregierung
 
-## Arbeitsbereich
-
-**Zusammenarbeit Bundesregierung** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Zusammenarbeit Bundesregierung im Plugin Normenkontrollrat Nkr im 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `nkr-zusammenarbeit-mit-bundesregierung-und-ressorts`
@@ -118,14 +115,6 @@ In der Stellungnahme:
 - Antwort auf NKR-Nachfrage erst nach Stellungnahme-Vorlage
 - Verweis auf "weitere Konkretisierung im Verordnungsweg" ohne Hinweis auf erneute NKR-Befassung
 
-## Querverweise
-
-- `nkr-aufgabe-und-kompetenz-nkrg`
-- `nkr-verfahrensgang-referentenentwurf-bis-bundestag`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `nkr-evaluation-und-jahresbericht`
-- `legistik-werkstatt/verbaendeanhoerung-ressortabstimmung`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 1, 3, 5, 6
@@ -133,3 +122,4 @@ In der Stellungnahme:
 - Geschaeftsordnung des NKR (intern)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

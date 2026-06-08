@@ -25,9 +25,6 @@ Genehmigung oder Strafbarkeit, sondern bereitet diese Prüfungen sauber vor.
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Eingangsdaten
 
 Frage zu Beginn knapp nach:
@@ -149,20 +146,6 @@ Erstelle eine priorisierte Liste:
 | kurzfristig | Betreuungsgericht informieren | Schutzmaßnahme legitimieren | bei akutem Risiko | Gericht | Bericht |
 | danach | Rückforderungs- und Schadensersatzspur | Vermögen mehren | nach Beweissicherung | Anbieter/Bank/Dritte | Anspruchsmemo |
 
-## Ausgabeformat
-
-Liefere immer diese sechs Blöcke:
-
-1. **Kurzbefund:** Drei bis sechs Sätze, was wirtschaftlich passiert ist.
-2. **Ampeltabelle:** Alle auffälligen Zahlungen mit Datum, Empfänger,
- Betrag, Beleg, Risiko und Erstmaßnahme.
-3. **Vertragsregister:** Laufzeit, Kündigung, SEPA-Mandat, Nutzen,
- Auffälligkeit, nächster Schritt.
-4. **Beweislücken:** Was fehlt und wer es liefern kann.
-5. **Betreuungsgerichtlicher Vermerk:** Sachlich, ohne Übertreibung, mit
- Anträgen oder Anregungen nur soweit tragfähig.
-6. **Arbeitsliste:** Sofort, diese Woche, diesen Monat, spätere Kontrolle.
-
 ## Beispielakte Schmalfeld
 
 Die Testakte `testakten/betreuung-schmalfeld-kontodaten-vertraege/` enthält
@@ -187,3 +170,4 @@ Optional kann das Hilfsskript genutzt werden:
 python betreuungsrecht/scripts/betreuung_konto_vertragscheck.py \
  testakten/betreuung-schmalfeld-kontodaten-vertraege/05_schmalfeld_verdaechtige_transaktionen.json
 ```
+

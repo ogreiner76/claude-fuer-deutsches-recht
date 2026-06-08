@@ -5,10 +5,6 @@ description: "KI-Deklaration in Sachverständigengutachten prüfen: Hat der Sach
 
 # Prüfung Sachverständigengutachten — KI-Deklaration und JVEG
 
-## Arbeitsbereich
-
-KI-Deklaration in Sachverständigengutachten prüfen: Hat der Sachverständige KI-Nutzung offengelegt? Normen: §§ 404 ff. ZPO, JVEG. Prüfraster: Deklarationspflicht, Methodentransparenz, Beeinflussung des Gutachtenwertes. Output: Prüfergebnis KI-Deklaration mit Handlungsempfehlung. Abgrenzung: nicht allgemeine Gutachtenprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -34,9 +30,6 @@ KI-Deklaration in Sachverständigengutachten prüfen: Hat der Sachverständige K
 2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck dieses Skills
 
 Wenn dem Gericht ein Sachverständigengutachten zur Vergütungsfestsetzung vorgelegt wird und Anhaltspunkte für KI-Einsatz bestehen, strukturiert dieser Skill die richterliche Prüfung. Er greift im JVEG-Kostenprüfungsverfahren ebenso wie bei der Verwertbarkeitsprüfung im Hauptverfahren.
@@ -243,16 +236,3 @@ Gründe:
 - **Kollegen einbinden**: Bei grundsätzlicher Bedeutung Anregung an die Kammer oder das Präsidium, Leitlinien zu entwickeln.
 - **Externe Berichterstattung**: Beschlüsse mit 0-Euro-Festsetzung können öffentliche Aufmerksamkeit erzeugen — Vorsicht bei der Anonymisierung.
 
-## Querverweise
-
-- → `jveg-kuerzung-wegfall-8a`
-- → `jveg-sachverstaendigenrechnung`
-- → `jveg-festsetzung-beschwerde`
-- → `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten` (Anwaltsseite)
-- → `ki-einsatz-bei-gutachten-mandatsseite` (Großkanzlei-Mandatsseite)
-
-<!-- AUDIT 27.05.2026
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Quelle: dejure.org. Prüfer: Bundle-005-Audit.
--->

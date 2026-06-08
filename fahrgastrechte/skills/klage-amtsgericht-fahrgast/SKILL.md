@@ -313,10 +313,6 @@ beA-Konvention:
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## Triage vor Klageerhebung
 
 1. Schlichtung versucht? → Schlichtungsstelle Reise & Verkehr e.V. erst aus­schöpfen (kostenfrei); danach Klage.
@@ -328,3 +324,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Adressat & Tonfall
 
 Adressat: Amtsgericht am gewählten Gerichtsstand — Tonfall sachlich-juristisch; Klageschrift ohne Anwaltszwang trotzdem nach § 253 ZPO-Mindestinhalt strukturiert (Parteien, Antrag, Begründung, Beweisangebote).
+

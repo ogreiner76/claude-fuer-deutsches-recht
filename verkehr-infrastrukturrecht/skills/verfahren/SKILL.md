@@ -44,9 +44,6 @@ Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vor
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -150,3 +147,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Akteneinsicht vor Begruendungseinreichung anfordern
 - Keine pauschalen Ermessensfehler — konkrete Sachverhaltsbindung nachweisen
 - Unterschied Anfechtungsklage (aufheben) vs. Verpflichtungsklage (genehmigen) klarhalten
+

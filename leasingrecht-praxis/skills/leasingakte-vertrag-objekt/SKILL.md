@@ -5,10 +5,6 @@ description: "Schnellanalyse einer Leasingakte: Vertragstyp, Objekt, Zahlungsstr
 
 # Kaltstart: Leasingakte, Vertrag, Objekt, Zahlungsstrom
 
-## Zweck
-
-Dieser Skill strukturiert den Einstieg in eine unbekannte Leasingakte. Ziel ist es, innerhalb kurzer Zeit die drei Kernkoordinaten festzustellen: **Vertragstyp** (Finanzierungsleasing, Operating-Lease, Mietkauf), **Objektqualifikation** (bewegliche Sache, Immobilie, Software/IP) und **Zahlungsstromlogik** (Vollamortisation, Teilamortisation, Restwert). Erst wenn diese drei Achsen klar sind, können rechtliche und steuerliche Folgen sicher eingeordnet werden.
-
 ## Rechtlicher Rahmen
 
 Leasing ist im BGB nicht eigenständig geregelt. Die h.M. und der BGH qualifizieren den Leasingvertrag als **atypischen Mietvertrag** (§§ 535 ff. BGB analog), überlagert von finanzierungsrechtlichen Elementen. Beim Finanzierungsleasing gegenüber Verbrauchern greifen §§ 506–509 BGB (Verbraucherleasing als entgeltliche Finanzierungshilfe). Das Dreiecksgeschäft Lieferant/Leasinggeber/Leasingnehmer erzeugt eigenständige Zurechnungsprobleme, insbesondere bei der Abtretungskonstruktion (§ 398 BGB).
@@ -86,3 +82,4 @@ Einschlägige Normen:
 - **Prüf-Checkliste**: 20-Punkte-Check für erste Aktenansicht
 - **Dreiecksdiagramm**: LG, LN, Lieferant mit Rechtsverhältnissen
 - **Fristenkalender**: Laufzeitende, Optionsfristen, Rückgabetermin
+

@@ -65,10 +65,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Aufwendungsersatz als Provision versteuert — steuerlicher Fehler.
 - Reverse-Charge bei ausländischem Handelsvertreter übersehen — Steuernachzahlungen.
 
-## Output
-
-Umsatzsteuerliche Einordnung Provision, Rechnungsmuster nach § 14 UStG, Reverse-Charge-Check.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +85,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 19 UStG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/ustg_1980/__19.html)
 - [§ 87d HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87d.html)
 - [Dejure § 14 UStG](https://dejure.org/gesetze/UStG/14.html)
+

@@ -5,10 +5,6 @@ description: "Training generativer Modelle mit Text, Bild, Musik, Code und Daten
 
 # Training generativer Modelle: TDM und Opt-out
 
-## Einsatz
-
-Anwendungsfall: ein Modell mit fremden Werken, Datenbanken, Bildern, Musik, Code oder Texten trainiert wurde oder wenn ein Unternehmen ein Modell einkauft und die Trainingsdatenrisiken verstehen muss.
-
 ## Prüffragen
 
 1. Welche Werkarten: Text, Bild, Musik, Video, Code, Datenbank, wissenschaftliche Publikation?
@@ -28,12 +24,3 @@ Anwendungsfall: ein Modell mit fremden Werken, Datenbanken, Bildern, Musik, Code
 | Memorization | Output kopiert Passagen | Filter, Red-Team, Logging |
 | Datenbankrecht | massenhafter Datenbankauszug | Rechteprüfung, Mengenanalyse |
 
-## Output
-
-Erstelle ein Memo mit:
-
-- Datenquellenkarte;
-- TDM-/Opt-out-Bewertung;
-- Risikostufen;
-- Nachforderungsliste an Anbieter;
-- Entscheidung: nutzen, nachverhandeln, sperren, ersetzen.

@@ -5,9 +5,6 @@ description: "Duplik Eidesstattliche Versicherung Einreden im Selbstvertretung a
 
 # Duplik Eidesstattliche Versicherung Einreden
 
-## Arbeitsbereich
-
-**Duplik Eidesstattliche Versicherung Einreden** ordnet den Fall über die tragenden Prüfungslinien: Duplik als Beklagten-Antwort auf die Klaeger-Replik, Eidesstattliche Versicherung nach § 294 ZPO als, Einreden aktiv geltend machen Verjährung Aufrechnung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Duplik Eidesstattliche Versicherung Einreden im Selbstvertretung a
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `duplik-nach-replik`
@@ -154,24 +152,9 @@ Gericht setzt Duplik-Frist. Verlaengerung moeglich (Skill `fristverlaengerung-an
 - "Duplik ist optional, ich lasse weg." → Bei substantiellem Klaeger-Vortrag riskant.
 - "Im Termin werde ich alles sagen." → Schriftliche Vorlage erwartet.
 
-## Querverweise
-
-- `replik-auf-klageerwiderung-systematik` — Klaeger-Replik.
-- `klageerwiderung-checkliste-alle-punkte` — Erwiderung.
-- `nachgereichter-schriftsatz-296a-zpo` — Nach Termin.
-- `terminvorbereitung-checkliste` — Termin vorbereiten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `eidesstattliche-versicherung-294-zpo`
 
@@ -300,24 +283,9 @@ E. V. ist haeufig die einfachste Form.
 - "Ohne Hinweis-Klausel auf § 156 StGB." → Formal mangelhaft.
 - "Aussage allgemein." → Konkret machen.
 
-## Querverweise
-
-- `prozesskostenhilfe-pkh-114-zpo` — PKH-Antrag.
-- `wiedereinsetzung-frist-233-zpo` — Wiedereinsetzung.
-- `beweislast-grundregel-wer-was` — Beweislast.
-- `zeugenbeweis-373-ff-zpo` — Zeuge im Hauptverfahren.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 294 ZPO, § 156 StGB unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `einreden-aktiv-geltend-machen`
 
@@ -488,13 +456,7 @@ Rangfolge: Erst Hauptangriff (Verjährung, weil sie Klage komplett zu Fall bring
 - "Aufrechnung erklaere ich im Termin." → Frueh erklaeren, sonst Praeklusion.
 - "Zurueckbehaltungsrecht ohne konkrete Gegenleistung." → Klare Bezeichnung der Gegenleistung erforderlich.
 
-## Querverweise
-
-- `klageerwiderung-checkliste-alle-punkte` — Vollstaendigkeit.
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung pruefen.
-- `widerklage-33-zpo` — Eigene Forderung als Widerklage.
-- `substantiiertes-bestreiten-138-iv-zpo` — Bestreiten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 214, 320, 387, 273 BGB unveraendert. Aufrechnungs-Erklaerung kann im AGB ausgeschlossen sein — verifizieren.
+

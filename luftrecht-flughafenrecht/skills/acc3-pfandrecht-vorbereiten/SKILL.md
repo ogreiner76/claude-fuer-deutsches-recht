@@ -5,10 +5,6 @@ description: "ACC3-Carrier will Flugzeuge für Drittland-Frachtbetrieb finanzier
 
 # ACC3 – Pfandrecht vorbereiten
 
-## Arbeitsbereich
-
-ACC3-Carrier will Flugzeuge für Drittland-Frachtbetrieb finanzieren; Pfandrecht und Cape-Town-Eintrag nötig. Prueft Cape-Town-Convention LuftFzgG EU-VO 300/2008 Betriebsvoraussetzungen und liefert kombinierte Sicherungs- und Compliance-Strategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,6 +41,7 @@ Cape Town Convention LuftFzgG EU-DVO 2015/1998 EU-VO 300/2008 – die einschläg
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
 - **LuftSiG § 3c**: Nationale Umsetzung der EU-Sicherheitsarchitektur; Zuständigkeit LBA.
 - **ICAO Annex 17 Std. 4.6**: Frachtsicherheitskette; Verantwortung des Luftfrachtführers.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -55,6 +52,7 @@ Cape Town Convention LuftFzgG EU-DVO 2015/1998 EU-VO 300/2008 – die einschläg
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist der EU-Validator zugelassen und sein Bericht nicht älter als 3 Jahre?
 8. Sind alle Sub-Auftragnehmer in der Lieferkette als RA oder KC anerkannt?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -72,9 +70,6 @@ Das Luftfahrzeugpfandrecht verbindet nationales Sachenrecht mit dem internationa
 - **Vollstreckung**: Pfandrechtsverwertung erfolgt durch öffentliche Versteigerung; ZPO § 864 regelt den besonderen Vollstreckungsweg für Luftfahrzeuge.
 - **Internationaler Arrest**: Luftfahrzeug kann im Ausland nach nationalen Regeln oder Cape-Town-Mechanismus arretiert werden; Koordination mit Local Counsel erforderlich.
 
-## Output
-
-Strukturierter Vermerk zu ACC3 – Pfandrecht vorbereiten mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. ACC3-Compliance-Matrix. Validierungskalender mit Ablaufdaten.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -133,3 +128,4 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 - Fluggastrechte VO 261/2004 nach EuGH C-402/07 Sturgeon: 3-Stunden-Schwelle = Ausgleichsanspruch.
 - Planfeststellung § 8 LuftVG nach BVerwG 4 A 5.08 mit FFH-Vertraeglichkeit und Laermschutz.
 - Ausnahmegruende VO 261/2004 Art. 5 Abs. 3 eng auslegen; EuGH C-432/20 zu wilden Streiks.
+

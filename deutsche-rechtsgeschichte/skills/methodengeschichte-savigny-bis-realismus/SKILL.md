@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum 
 
 # Methodengeschichte: Savigny bis Rechtsrealismus
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen für heutige Auslegungsmethoden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -69,12 +65,3 @@ Die juristische Methode ist selbst historisch. Savignys vier Auslegungskanons (g
 - Kantorowicz 1906: Erstausgabe (unter Pseudonym Gnaeus Flavius)
 - Larenz Methodenlehre: 6. Aufl. 1991, Seite angeben
 
-## Output
-
-- Methodengeschichts-Stammbaum: Savigny bis Larenz
-- Auslegungskanons im Vergleich: historisch, systematisch, teleologisch, grammatisch
-- Freirecht: Kernpositionen und Grenzen
-
-## Quellenregel
-
-Savigny System Bd. I (1840): historische Ausgabe. Jhering Zweck (1877-84): historische Ausgabe. Kantorowicz 1906: Erstausgabe. Larenz Methodenlehre 6. Aufl. 1991: Seite angeben.

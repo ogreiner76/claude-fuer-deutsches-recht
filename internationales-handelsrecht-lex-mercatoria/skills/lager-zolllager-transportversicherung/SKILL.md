@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Z
 
 # Lager- und Zolllager
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Zolllager nach Unionszollkodex (UZK) Art. 237-242. Lagerhalter-Pflichten, Haftung, Zollverfahren, Einfuhr- und Ausfuhrlager, ATLAS-Anmeldung und Zolllagertypen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Das Lagerrecht (HGB §§ 467-475h) regelt die Verwahrung von Waren durch einen g
 - Haftungsabgrenzung: Übernahmezustand dokumentieren (Fotos, Wiegung)
 - Pfandrecht: Rangfolge mit anderen Sicherungsrechten im Vorfeld klären
 
-## Output
-
-- Lager- vs. Zolllager Unterscheidungsmatrix
-- Zolllager-Bewilligungsvoraussetzungen (UZK Art. 237-242)
-- Muster-Einlagerungsprotokoll
-
-## Quellenregel
-
-HGB §§ 467-475h: gesetze-im-internet.de. UZK (VO 952/2013): eur-lex.europa.eu. ADSp 2017: dslv.org. Zollverwaltung.de für ATLAS. Unsicherheit bleibt sichtbar.

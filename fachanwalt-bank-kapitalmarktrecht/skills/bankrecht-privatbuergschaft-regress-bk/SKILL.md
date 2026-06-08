@@ -5,9 +5,6 @@ description: "Bankrecht Privatbuergschaft Regress BK im Plugin Fachanwalt Bank K
 
 # Bankrecht Privatbuergschaft Regress BK
 
-## Arbeitsbereich
-
-**Bankrecht Privatbuergschaft Regress BK** ordnet den Fall über die tragenden Prüfungslinien: Privat-, Ehegatten- und Angehörigenbürgschaft prüfen, Regress nach Aval-. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Bankrecht Privatbuergschaft Regress BK im Plugin Fachanwalt Bank K
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bankrecht-privatbuergschaft-sittenwidrigkeit`
@@ -30,10 +28,6 @@ description: "Bankrecht Privatbuergschaft Regress BK im Plugin Fachanwalt Bank K
 **Fokus:** Privat-, Ehegatten- und Angehörigenbürgschaft prüfen: § 138 BGB, krasse finanzielle Überforderung, emotionaler Druck, Eigeninteresse, Bankkenntnis, Schriftform und Vergleichsstrategie.
 
 ### Privatbürgschaft und Sittenwidrigkeit
-
-## Aufgabe
-
-Prüfe Bürgschaften nahestehender Privatpersonen gegen Banken: nicht sentimental, sondern entlang von Form, Überforderung, Eigeninteresse, Bankkenntnis und Beweisen. Der Skill hilft sowohl Anspruchsabwehr als auch Bankverteidigung.
 
 ## Prüfworkflow
 
@@ -65,10 +59,6 @@ Keine Rechtsprechungsfundstelle ohne Live-Check mit Gericht, Datum und Aktenzeic
 **Fokus:** Regress nach Aval-, Bürgschafts- oder Garantiezahlung im Bankmandat prüfen: § 774 BGB, Aufwendungsersatz, Kontobelastung, Sicherheiten, Mitbürgen, Insolvenz, Anfechtung und Vergleich.
 
 ### Regress nach Avalzahlung
-
-## Aufgabe
-
-Prüfe, was nach der Zahlung passiert. Der Mandant kann Bank, Kunde, Bürge oder Mitverpflichteter sein. Entscheidend sind Anspruchsgrundlage, Forderungsübergang, Sicherheiten und Insolvenzfestigkeit.
 
 ## Normenanker
 
@@ -137,10 +127,3 @@ Dieser Skill liefert den Arbeitskern für Fachanwalts-Mandate in der Bankaufsich
 - Neuer Drittanbieter-Vertrag ohne DORA-Klauseln: DORA Art. 30 Nachrüstung, Vertragsnachverhandlung, Übergangsfrist
 - Fit-and-Proper-Beanstandung CRD V Art. 91: § 25c KWG, § 36 KWG Abberufungsdrohung, EBA/GL/2021/06, Gegendarstellung-Strategie
 
-## Output
-
-Mandatsvermerk Inhaberkontrolle mit Fristkalender; DORA-Gap-Analyse-Template; Vorfallmeldungs-Formular ITS-konform; CRR-Eigenmittel-Kurzanalyse; Behördenerwiderung-Entwurf; Prozessstrategie-Übersicht.
-
-## Quellenregel
-
-gesetze-im-internet.de (KWG, ZAG), eur-lex.europa.eu (DORA VO 2022/2554, CRR VO 2013/575, CRD V 2013/36/EU), eba.europa.eu (DORA-ITS/RTS, EBA/GL/2021/06), bafin.de (DORA-Umsetzungshinweise, SREP-Methodik). Live-Check: DORA-RTS/ITS auf eba.europa.eu laufend aktualisiert; CRR3 (VO 2024/1623) ab 01.01.2025 Änderungen bei Eigenmittelanforderungen.

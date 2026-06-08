@@ -121,26 +121,9 @@ Sie muessen mitmachen. Wenn das Gericht zu Untersuchungen bittet, gehen Sie hin.
 - Keine Schweigepflichtsentbindung → Gericht verzoegert
 - Termine nicht wahrnehmen → § 60 SGB I Verletzung
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `beweismittel-im-sozialgericht-uebersicht` — alle Beweise
-- `arztberichte-vorlegen-laien-leitfaden` — Atteste
-- `zeugenbeweis-sozialgericht-373-zpo-analog` — Zeugen
-- `medizinische-gutachten-strategie-laien` — Gutachten-Strategie
-- `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 103 SGG ist das Herz des Sozialgerichtsverfahrens. Stark Laien-freundlich.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -170,3 +153,4 @@ Stand: 05/2026. § 103 SGG ist das Herz des Sozialgerichtsverfahrens. Stark Laie
 - Untaetigkeitsklage § 88 SGG nach 6 Monaten; Zustaendigkeit nach § 51 SGG vor Klageerhebung pruefen.
 - PKH § 73a SGG: Bediduerftigkeit + Erfolgsaussicht; ablehnender Beschluss mit § 73a Abs. 1 SGG-Beschwerde angreifbar.
 - Zugunstenverfahren § 44 SGB X erlaubt Korrektur bestandskraeftiger Bescheide; 4-Jahres-Frist beachten.
+

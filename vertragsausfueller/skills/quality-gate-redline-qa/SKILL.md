@@ -5,10 +5,6 @@ description: "Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet 
 
 # Quality Gate — Vertragsausfueller
 
-## Arbeitsbereich
-
-Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollständig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck für Teilprüfung und zu Clean-Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -33,15 +29,6 @@ Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Fr
 - § 307 Abs. 1 S. 2 BGB — Transparenzgebot (Klausel muss klar und verständlich sein)
 - § 139 BGB — Teilnichtigkeit (unwirksame Klausel → Gesamtvertrag nur bei separabler Klausel)
 - § 306 BGB — Rechtsfolge unwirksamer AGB (dispositives Recht tritt ein)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Letzte Schleuse, bevor ein Vertragsentwurf, eine Redline oder ein Track-Changes-Dokument an den Mandanten oder die Gegenseite herausgeht. Verhindert sechs typische Fehlerklassen: leere Pflichtfelder, ungeklärte Wahlklauseln, Rechenfehler, normwidrige Formulierungen, fehlende Anlagen, fehlende Freigaben. Liefert ein Pruefprotokoll mit Go / Go mit Warnungen / No-go.
-
-Arbeitet freistehend im Vertragsausfueller-Plugin, setzt keine anderen Plugins voraus.
 
 ## 1) Eingangs-Trigger
 
@@ -207,3 +194,4 @@ Empfehlung: Go / Go mit Warnungen / No-go
 - `vaf-redline-qa` — Review von Track-Changes-Fassungen
 - `vaf-clean-output` — finaler Clean-Entwurf nach GRUEN-Ampel
 - `vaf-track-changes-nur-nach-frage` — Track Changes nur nach Bestätigung
+

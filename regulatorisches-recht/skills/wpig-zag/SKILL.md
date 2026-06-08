@@ -5,10 +5,6 @@ description: "Wpig ZAG im Plugin Regulatorisches Recht im Regulatorisches Recht.
 
 # Wpig ZAG
 
-## Arbeitsbereich
-
-**Wpig ZAG** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Wpig ZAG im Plugin Regulatorisches Recht im Regulatorisches Recht.
 - Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `wpig-und-zag-pruefung`
@@ -63,10 +60,3 @@ Dieser Skill prüft die Abgrenzung zwischen WpIG-Erlaubnis, ZAG-Erlaubnis und KW
 - WpIG expandiert in Kredit (z.B. Wertpapierkredit): § 1 Abs. 1 Nr. 2 KWG Kreditgeschäft; WpIG-Erlaubnis reicht nicht; KWG-Erlaubnis erforderlich
 - Sandbox-Option: BaFin-Innovationsbereich-Kontakt; regulatorische Erprobung unter FinDAG § 4a; DLT-Pilot-VO 2022/858 für Marktinfrastrukturen
 
-## Output
-
-WpIG/ZAG/KWG-Abgrenzungsmatrix; K-Faktoren-Berechnungsblatt (IFR); Erlaubnisantrags-Checkliste WpIG § 15; MiCAR-CASP-Prüfschema; Sandbox-Optionen-Übersicht (BaFin, DLT-Pilot).
-
-## Quellenregel
-
-gesetze-im-internet.de (WpIG, ZAG, KWG), eur-lex.europa.eu (IFR VO 2019/2033, IFD 2019/2034, MiCAR VO 2023/1114, DLT-Pilot VO 2022/858), bafin.de (WpIG-Merkblatt, Erlaubnisantrag WpIG), eba.europa.eu (EBA-ITS IFR-Meldewesen). Live-Check: CRR3 (VO 2024/1623) Klasse-1-Schwelle ab 01.01.2025; MiCAR CASP-Erlaubnispflicht ab Dezember 2024.

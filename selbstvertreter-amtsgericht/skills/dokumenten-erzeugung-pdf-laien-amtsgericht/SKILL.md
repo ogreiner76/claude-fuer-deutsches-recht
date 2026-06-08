@@ -139,21 +139,7 @@ Das Datum am Anfang sorgt für chronologische Sortierung. Der Inhalt im Namen hi
 - **Fehler:** PDF ist 200 MB gross, MJP weigert sich. → **So vermeiden:** Komprimieren oder in mehrere Einreichungen aufteilen.
 - **Fehler:** Klageschrift und Anlagen in einem riesigen PDF — Gericht muss alles durchscrollen. → **So vermeiden:** Klageschrift = ein PDF, jede Anlage = ein eigenes PDF.
 
-## Querverweise
-
-- `klage-zusammenstellen-komplettes-bundle-amtsgericht` — Bundle zusammenstellen
-- `anlagen-formatieren-k1-k2-pdf-amtsgericht` — Anlagen formatieren
-- `einreichung-mein-justizpostfach-mjp-2024` — Elektronisch einreichen
-- `einreichung-papierform-mit-abschriften` — Wenn Sie lieber Papier nutzen
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Mein Justizpostfach (MJP) seit 2024 in Betrieb. PDF/A ist das vom Gericht bevorzugte Format. Praxis-Hinweise zu Tools sind unverbindliche Empfehlungen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

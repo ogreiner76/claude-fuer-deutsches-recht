@@ -5,10 +5,6 @@ description: "Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rückt
 
 # Workflow: Fristen, Rücktritt und Kündigung
 
-## Arbeitsbereich
-
-Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, K�
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Fristsetzung, Rücktrittsrecht und Kündigung bei BGB-BT-Verträgen vollständig prüfen: wann ist eine Frist erforderlich, wann entbehrlich, Rechtsfolgen des Rücktritts nach §§ 346 ff. BGB und Kündigungsrecht.
 
 ## Normanker
 
@@ -56,25 +48,13 @@ Fristsetzung, Rücktrittsrecht und Kündigung bei BGB-BT-Verträgen vollständig
 - Bei Dauerschuldverhältnissen ist Rücktritt oft ausgeschlossen; nur Kündigung möglich.
 - Rücktritt macht Rückgewähr erforderlich (§§ 346 ff. BGB); Kosten und Wertersatz beachten.
 - Widerruf von Gestaltungsrechten (Rücktritt, Kündigung) grundsätzlich nicht möglich.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Fristsetzungs-Prüfungsschema
-- Rücktritts- vs. Kündigungsanalyse
-- Rechtsfolgen-Matrix (Rückgewähr, Wertersatz)
-- Handlungsempfehlung mit Formulierungsvorschlag
-
-## Qualitätsregeln
-
-- Angemessenheit der Frist immer sachverhaltsbezogen bestimmen.
-- Dauerschuldverhältnis-Abgrenzung vor Rücktritt prüfen.
-- Form und Zugang des Gestaltungsrechts dokumentieren.
 
 ## Anschluss-Skills
 
@@ -88,10 +68,4 @@ Fristsetzung, Rücktrittsrecht und Kündigung bei BGB-BT-Verträgen vollständig
 - https://www.gesetze-im-internet.de/bgb/__323.html
 - https://www.gesetze-im-internet.de/bgb/__346.html
 - https://www.gesetze-im-internet.de/bgb/__314.html
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

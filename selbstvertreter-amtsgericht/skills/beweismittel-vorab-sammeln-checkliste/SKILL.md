@@ -140,23 +140,7 @@ Wenn Schwachstellen: Sammeln Sie mehr (Email anfragen, Zeugen finden, Indizien s
 - "Zeuge ist mein Ehepartner, der weiss alles." → Naher Angehoeriger hat Zeugnis-Verweigerungsrecht (§ 383 ZPO) und Aussagewert wird kritisch beurteilt.
 - "Ich erinnere mich, dass ..." → Eigene Aussage hat geringen Beweiswert.
 
-## Querverweise
-
-- `beweislast-grundregel-wer-was` — Wer beweist was?
-- `zeugenbeweis-373-ff-zpo` — Zeugen einsetzen.
-- `urkundenbeweis-415-ff-zpo` — Urkunden.
-- `sachverstaendigenbeweis-402-zpo` — Sachverstaendiger.
-- `augenscheinsbeweis-371-zpo` — Augenschein.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Im Schriftsatz.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO-Beweisrecht stabil. Praxis-Tipp.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

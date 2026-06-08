@@ -72,10 +72,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Erzeuge: **Kaltstartbogen, Skill-Routing und 30-Minuten-Arbeitsplan**. Wenn Informationen fehlen, stelle höchstens acht präzise Rückfragen und liefere anschließend eine vorläufige Ampel mit Annahmen.
-
 ## Qualitätsgate
 
 - Ist die Wahlart und die zuständige Wahl- oder Ordnungsbehörde konkret bestimmt?
@@ -91,3 +87,4 @@ Erzeuge: **Kaltstartbogen, Skill-Routing und 30-Minuten-Arbeitsplan**. Wenn Info
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei politischer Online-Werbung die Verordnung (EU) 2024/900, Plattformregeln, DSGVO/BDSG und die konkrete Anzeigenbibliothek prüfen.
 - Bei Spenden, Sponsoring und Sachleistungen das Parteiengesetz, Bundestagsverwaltungshinweise und interne Schatzmeisterei-Regeln prüfen.
+

@@ -5,10 +5,6 @@ description: "Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemes
 
 # EU-US Data Privacy Framework – Aktueller Stand für das TIA
 
-## Zweck
-
-Dieser Skill liefert die aktuelle Bewertung des EU-US Data Privacy Framework (DPF) als Transferinstrument nach Art. 45 DSGVO. Er erklaert Voraussetzungen, Pruefkriterien für die Tragfaehigkeit eines DPF-Listings im konkreten Fall, das Restrisiko angesichts FISA 702 / EO 12333 sowie die Beobachtung der Folgeentwicklungen (Schrems III, DPRC-Praxis, EU-Review).
-
 ## Wann dieses Modul hilft
 
 - Pruefung, ob für einen US-Importeur ein TIA noch erforderlich ist.
@@ -101,15 +97,6 @@ Hinweisbaustein im TIA-Schritt 2:
 - Keine Fallback-Klausel; bei Schrems-III-Aufhebung steht der Transfer ohne Grundlage.
 - Verwechslung Swiss-US DPF und EU-US DPF.
 
-## Querverweise
-
-- `tia-schrems-ii-eugh-c-311-18-grundlagen` für Schrems II.
-- `tia-us-fisa-702-und-eo-12333-bewertung` für US-Behörden.
-- `tia-en-data-privacy-framework-status` für englische Fassung.
-- `tia-template-deutsch-vollvorlage` für Vollvorlage.
-- `us-transfer-tia-dokumentation` für das Output-Paket.
-- `avv-eu-us-data-privacy-framework-bezug` für vertragliche Seite.
-
 ## Quellen Stand 06/2026
 
 - Durchfuehrungsbeschluss (EU) 2023/1795 der Kommission vom 10.07.2023.
@@ -120,10 +107,3 @@ Hinweisbaustein im TIA-Schritt 2:
 - Anhaengiges Verfahren Schrems III (NOYB) – Verfahrensstand am Gericht der EU pruefen.
 - DPF-Liste: dataprivacyframework.gov.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den
 
 # Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach § 89b HGB
 
-## Arbeitsbereich
-
-Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den Unternehmer: Umstellung von Handelsvertreter- auf Direktvertrieb oder E-Commerce, Kürzung des Vertriebsgebiets, Änderungskündigung sowie Ausgleichsansprüche nach § 89b HGB bei wesentlicher Verschlechterung der Provisionsgrundlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Provisionseinbuße nicht als erheblich für § 89b HGB-Berechnung erkannt.
 - Kundendaten-Herausgabe bei Umstellung auf Direktvertrieb nicht geregelt.
 
-## Output
-
-Ausgleichsanspruch-Analyse Vertriebsumstellung, Kündigungsschreiben, Schadensersatzberechnung.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 87 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

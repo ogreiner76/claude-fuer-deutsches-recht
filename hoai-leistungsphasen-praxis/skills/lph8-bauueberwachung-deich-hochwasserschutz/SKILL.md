@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Deichbauten und Hochwasserschutzan
 
 # Bauueberwachung Deich und Hochwasserschutzanlage
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Deichbauten und Hochwasserschutzanlagen — Kontrolle Kleibodenkern und Dammschuettung nach DWA-M 507 und DIN 19712, Bodenverdichtungspruefung nach DIN 18127 Proctor und Plattendruckversuch, Sicker- und Standsicherheitsnachweise nach EC7 und DIN 4084, Spundwand-Einbindung sowie Koordination mit Wasserbehoerde und Pegelauswertung bei witterungsabhaengigem Baubetrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Deichbauvorhaben verbinden Wasserbau, Geotechnik und Tiefbau unter dem besondere
 - Bauunterbrechung bei Hochwasserwarnung: Ungesi cherte Baugrube flutet, Notfallplan muss vor Baubeginn vorliegen
 - Keine Sickersicherung am Deichfuss: Fehlende Drainage fuehrt zu Bodenauftrieb und Deichfuss-Erosion
 
-## Output
-
-Verdichtungsprotokolle je Schuettlage mit Evd-Werten und GPS. Setzungsmonitoring-Bericht monatlich. Piezometer-Auswertung Hochwasserereignis. Deich-Bautagebuch chronologisch. Abnahmeprotokoll Wasserbehoerde nach Planfeststellung. Drohnen-Orthofoto je Bauphase als As-Built. SAP-PM-Anlagenstruktur Deichabschnitte für Unterhaltsverwaltung.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Verdichtungsprotokolle je Schuettlage mit Evd-Werten und GPS. Setzungsmonitoring
 - [WHG § 76 Ueberschwemmungsgebiete](https://www.gesetze-im-internet.de/whg_2009/__76.html)
 - [VOB Vergabe und Vertragsordnung](https://www.gesetze-im-internet.de/vob/)
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
+

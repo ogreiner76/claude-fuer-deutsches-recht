@@ -35,49 +35,6 @@ Dieser Skill macht den Sprung vom abstrakten Vorhaben zur ressortspezifischen Ar
 | BMZ | Wirtschaftliche Zusammenarbeit und Entwicklung | Bilaterale Abkommen; humanitaere Hilfe; Klimafinanzierung |
 | BMWSB | Wohnen; Stadtentwicklung; Bauwesen | BauGB; Mietrecht; Stadtentwicklung; Bauprodukte; GEG |
 
-## Vorgehen
-
-### Schritt 1 - Ressort waehlen
-
-Der Auftrag wurde in `legistik-auftragsaufnahme` aufgenommen. Frage:
-
-> Welches Bundesressort fuehrt federfuehrend (BMF; BMI; AA; BMVg; BMWE; BMFTR; BMJV; BMBFSFJ;
-> BMAS; BMDS; BMV; BMUKN; BMG; BMLEH; BMZ; BMWSB)?
-
-Bei Mitzeichnung oder ressortuebergreifenden Vorhaben: federfuehrendes Ressort + alle Mitzeichner
-festhalten. Federfuehrung steuert HdR-Vorlage; Mitzeichner steuern Inhalte.
-
-### Schritt 2 - Heranfuehrungs-Skill rufen
-
-Jedes Ressort hat einen Heranfuehrungs-Skill `legw-ressort-<kuerzel>`. Beispiel:
-- Federfuehrer BMUKN -> `legw-ressort-bmukn` (Atomrecht; Immissionsschutz; Wasser; Abfall; Naturschutz)
-- Federfuehrer BMLEH -> `legw-ressort-bmleh` (Agrar; Tierschutz; Lebensmittel; Forst; Oekolandbau)
-
-Diese Skills erklaeren in kurzer Form **Materie; Akteure; Normbestand; typische Stolpersteine**.
-
-### Schritt 3 - Ressortaufgaben-Skill rufen
-
-Pro Ressort gibt es `legw-ressortaufgaben-<kuerzel>`. Er bricht die typische Legistik-Aufgabe
-auf das Ressort herunter: welche Begruendungsteile; welche Verbaende; welche Befassung im
-Bundestag; welche Ausschuesse; welche Aufsicht; welche Fristen.
-
-### Schritt 4 - Spezialfeld-Skill rufen
-
-Jedes Ressort hat fuenf Spezialfeld-Skills `legw-<kuerzel>-<thema>`. Beispiel BMLEH:
-- `legw-bmleh-agrar-und-foerderungsrecht-gak-gap`
-- `legw-bmleh-tierschutz-und-tiergesundheitsrecht`
-- `legw-bmleh-lebensmittelrecht-und-futtermittelrecht`
-- `legw-bmleh-forst-und-jagdrecht`
-- `legw-bmleh-oekolandbau-und-pflanzenschutzrecht`
-
-Diese decken sachliche Detailfragen ab und sind das Brett, auf dem der Politikwissenschaftler steht,
-wenn er an eine fremde Materie heran muss.
-
-### Schritt 5 - Optional RuleMapping-Anschluss
-
-Wenn das Vorhaben digital-tauglich werden soll (BMJ-Initiative; SPRIND-Förderung; Rulemap-Builder):
-weiter zu `legw-rmap-grundlagen` als didaktischem Einstieg in die RuleMapping-Methodik. Von dort fuehren insgesamt 10 RuleMapping-Skills durch den Workflow: `legw-rmap-grundlagen`, `legw-rmap-norm-zu-rulemap`, `legw-rmap-tatbestand-und-rechtsfolge`, `legw-rmap-verweisungen-und-ausnahmen`, `legw-rmap-bestimmtheit-und-justitiabilitaet`, `legw-rmap-entscheidungsbaum-validierung`, `legw-rmap-vollzugstauglichkeit`, `legw-rmap-evaluierung-und-aenderung`, `legw-rmap-export-und-systemintegration` und `legw-rmap-anschluss-an-legw` als Rueckkopplung in die Legistik-Werkstatt.
-
 ## Normenanker
 
 Arbeitsfokus: **Legistik-Werkstatt - Ressort-Router**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -93,25 +50,5 @@ Arbeitsfokus: **Legistik-Werkstatt - Ressort-Router**. Prüfe diese Anker am Sac
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Ein Routing-Block für das Auftragsblatt:
-
-```
-Ressort federfuehrend: <kuerzel> - <Volltitel>
-Mitzeichnende Ressorts: <Liste>
-Empfohlene Skill-Kette:
- 1. legw-ressort-<kuerzel> (Heranfuehrung)
- 2. legw-ressortaufgaben-<kuerzel> (Ressortaufgaben)
- 3. legw-<kuerzel>-<thema> (Spezialfeld)
- 4. normhierarchie-routing (Normwahl)
- 5. <weitere Spezial- und Werkstattskills>
-Optional RuleMapping-Anschluss: legw-rmap-grundlagen (Einstieg in 10 RuleMapping-Skills)
-```
-
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

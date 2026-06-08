@@ -5,10 +5,6 @@ description: "Securpharm Fälschungsschutz: prüft die einschlägigen Voraussetz
 
 # Securpharm Fälschungsschutz
 
-## Arbeitsbereich
-
-Securpharm Fälschungsschutz: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -99,15 +95,6 @@ Eingaben:
 - Retoure ohne Re-Aktivierung — Packung im Lager gesperrt, Verlust für Apotheke.
 - Schulung nur einmalig; bei Personalwechsel keine Auffrischung.
 
-## Querverweise
-
-- `arzneimittelrisiken-rueckruf-chargenrueckverfolgung` (Rückruf)
-- `apothekenrevision-vorbereitung-antwort` (Audit)
-- `arzneimittelpruefung-ausgangsstoffe-pruefprotokoll` (Eingangsprüfung)
-- `arzneimittelabgabe-verschreibungspflicht` (Abgabe)
-- `qualitaetsmanagement-qms-sops` (SOP-Pflege)
-- `versandhandel-und-e-rezept-intake` (Versand)
-
 ## Quellen Stand 06/2026
 
 - Richtlinie 2011/62/EU; Delegierte VO 2016/161/EU.
@@ -115,3 +102,4 @@ Eingaben:
 - Securpharm GmbH: Nutzervereinbarung NMVS (vom Anwender zu verifizieren — laufende technische Updates).
 - BfArM-Bekanntmachungen zu Fälschungsfunden (Spotsystem).
 - ABDA-Merkblätter zur Securpharm-Praxis (vom Anwender zu verifizieren).
+

@@ -5,10 +5,6 @@ description: "Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit:
 
 # Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber
 
-## Arbeitsbereich
-
-Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung 
 - Ohne laufende Datenbankpflege durch den Kreditnehmer sinkt der Wert der Datenbank rapide — Covenants erforderlich.
 - Insolvenzanfechtung bei kurzfristiger Sicherungsübertragung (§ 133 InsO) kann die Sicherheit zunichte machen.
 
-## Output
-
-- IP-Sicherheitenprüfbogen Datenbankrecht (Due-Diligence-Checkliste)
-- Sicherungsübertragungsvertrag-Vorlage für Datenbankherstellerrecht
-- Wertbewertungsrahmen (Investitionsvolumen, Schutzdauer, Lizenzpotenzial)
-- Covenant-Klauseln für Kreditvertrag (Datenbankpflege, Verletzungsabwehr)
-- Verwertungsplan-Übersicht für den Sicherungsfall
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung 
 - [§ 35 InsO — dejure.org](https://dejure.org/gesetze/InsO/35.html)
 - [§ 51 InsO Absonderungsrecht — dejure.org](https://dejure.org/gesetze/InsO/51.html)
 - [Art. 7 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

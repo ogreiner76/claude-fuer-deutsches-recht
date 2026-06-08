@@ -5,10 +5,6 @@ description: "Berechnet Schadensersatz im Urheberrecht über konkreten Schaden, 
 
 # Schadensersatz und Lizenzanalogie
 
-## Arbeitsbereich
-
-Berechnet Schadensersatz im Urheberrecht über konkreten Schaden, Verletzergewinn, Lizenzanalogie und Zuschläge. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,3 +81,4 @@ Konkret zu prüfen:
 - § 32a UrhG (Bestseller-Paragraph)
 - § 97 Abs. 2 UrhG (Schadensersatz)
 - Lizenzanalogie/dreifache Schadensberechnung
+

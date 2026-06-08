@@ -5,10 +5,6 @@ description: "Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendun
 
 # Arbeitsrecht für zivile Bundeswehrbeschäftigte
 
-## Arbeitsbereich
-
-Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,12 +33,6 @@ Besonderheiten entstehen durch militärische Organisationsstruktur, häufige Ver
 - ArbGG — Arbeitsgerichtsgesetz
 - NATO-Truppenstatut — bei ausländischen Truppen mit zivilem Personal
 - SÜG — Sicherheitsüberprüfung als Beschäftigungsvoraussetzung
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -103,21 +93,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Tabelle: Personalrat (BPersVG) vs. Betriebsrat (BetrVG) — Unterschiede in der Bundeswehr
 - Checkliste: Kündigung ziviler Bundeswehrbeschäftigter — häufige Fehler
 - Muster: Widerspruch gegen Versetzungsverfügung
-
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/tvod/ — TVöD
-- https://www.gesetze-im-internet.de/bpersvg/ — BPersVG
-- https://www.gesetze-im-internet.de/kschg/ — KSchG
-- https://www.bundesarbeitsgericht.de
 
 ## Qualitätsgate
 

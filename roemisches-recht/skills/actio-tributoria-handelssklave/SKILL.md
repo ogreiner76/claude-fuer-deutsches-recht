@@ -5,10 +5,6 @@ description: "Actio tributoria: Klage gegen den dominus für Verbindlichkeiten a
 
 # Rom 132 Actio Tributoria Handelssklave Sondervermoegen
 
-## Aufgabe
-
-Skill für die actio tributoria als praetorische Sonderaktion.
-
 ## Rechtsquelle
 
 - D. 14.4 (De tributoria actione).
@@ -59,7 +55,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Sklavenhandelspraxis.

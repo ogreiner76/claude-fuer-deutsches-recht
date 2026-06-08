@@ -5,10 +5,6 @@ description: "Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche
 
 # Zwangsvollstreckung – Kommandocenter
 
-## Arbeitsbereich
-
-Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Prüfung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalprüfung) und allen anderen ZV-Skills. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,13 +32,6 @@ Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckung
 - § 802a ZPO — Aufgaben des Gerichtsvollziehers
 - § 829 ZPO — Pfändungs- und Überweisungsbeschluss (Forderungspfändung)
 - § 89 InsO — Vollstreckungsverbot nach Insolvenzeröffnung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Das Kommandocenter steuert den gesamten Vollstreckungspfad: vom Erstgespräch bis zur Beendigung. Es erkennt, welcher Titel vorliegt, was vollstreckt werden soll, welche Vermögenswerte bekannt sind und welcher Folge-Skill als Nächstes geladen werden muss. Es ist der einzige Skill, der ohne Vorwissen gestartet werden kann.
 
 ## Eingaben
 
@@ -91,25 +80,6 @@ Das Gesetz zur weiteren Digitalisierung der Zwangsvollstreckung (BT-Drs. 21/4815
 
 Stand 25.5.2026: Gesetz im Bundestag beschlossen am 19.3.2026, Bundesrat nicht zustimmungspflichtig, Verkündung im BGBl stand bei letzter Recherche noch aus – `zv-elektronische-zustellung-2027` enthält die operative Umsetzung und prüft, ob das Datum zwischenzeitlich angepasst werden muss.
 
-## Ausgabeformat
-
-```
-ZV-KOMMANDOCENTER [Mandant] [Az]
-
-Titel: [Art, Datum, Aussteller]
-Klausel: [vorhanden / fehlt / wo beantragen]
-Zustellung: [erfolgt am DD.MM.JJJJ / offen]
-Drei Säulen: [GRÜN / GELB / ROT]
-
-Vollstreckungsziel: [Geld EUR x / Räumung / Herausgabe / ...]
-Schuldner: [Privat / Unternehmen / Insolvenz / sonst]
-Bekannte Werte: [Bank / AG / Immobilie / Kfz / nichts]
-
-NÄCHSTER SKILL: [zv-...]
-Begründung: [warum dieser Pfad]
-Wiedervorlage: [in N Tagen wegen ...]
-```
-
 ## Qualitätsgates
 
 - Niemals Folge-Skill laden, wenn eine der drei Säulen rot ist.
@@ -120,3 +90,4 @@ Wiedervorlage: [in N Tagen wegen ...]
 ## Arbeitsstil
 
 Disziplinarisch, klar, ohne juristisches Wortgeklingel. Wenn Säulen wackeln, ist das die einzige Botschaft. Wenn der Schuldner offensichtlich vermögenslos ist, sagt der Skill das frühzeitig und schickt nicht in eine teure Mobiliarvollstreckung.
+

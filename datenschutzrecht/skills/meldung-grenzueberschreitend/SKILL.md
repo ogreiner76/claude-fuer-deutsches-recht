@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zu One-Stop-Shop-Streitigkeiten und Drittst
 
 Art. 33; Art. 49; Art. 56; Art. 60 DSGVO; UK GDPR; Swiss DSG.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Meldelandkarte
 
 Spalte 1: Land; Spalte 2: Behörde; Spalte 3: Pflicht oder freiwillig; Spalte 4: Frist; Spalte 5: Sprache; Spalte 6: Verantwortlicher intern; Spalte 7: Status.
@@ -46,3 +42,4 @@ Spalte 1: Land; Spalte 2: Behörde; Spalte 3: Pflicht oder freiwillig; Spalte 4:
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-lead-authority-konzern` deckt die Bestimmung der federfuehrenden Behörde ab.
+

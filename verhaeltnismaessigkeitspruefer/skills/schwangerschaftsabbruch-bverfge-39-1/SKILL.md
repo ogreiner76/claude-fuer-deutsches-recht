@@ -24,7 +24,3 @@ Ein Gesetz soll nicht Freiheit beschränken, sondern Schutz organisieren: Leben,
 4. **Untermaß prüfen:** Nicht jede Schutzlücke ist verfassungswidrig; verfassungswidrig wird es bei evident unzureichendem Schutz oder inkonsistentem Schutzkonzept.
 5. **Übermaß gegen Untermaß spiegeln:** Mehr Schutz kann zugleich stärker in Freiheit eingreifen. Das Ergebnis muss beide Seiten sichtbar halten.
 
-## Output
-
-- Schutzpflicht-Matrix mit Schutzgut, Gefahr, Schutzinstrument, Lücke und Verfassungsrisiko.
-- Formulierungsvorschlag, ob ein Gesetz zu wenig schützt oder innerhalb des Einschätzungs-, Wertungs- und Gestaltungsspielraums bleibt.

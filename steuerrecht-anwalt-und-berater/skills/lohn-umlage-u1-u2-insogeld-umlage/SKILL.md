@@ -5,10 +5,6 @@ description: "Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen mona
 
 # Umlagen U1, U2, Insolvenzgeld
 
-## Arbeitsbereich
-
-Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen monatlich Erstattung Krankheit Mutterschaft Insolvenz Berechnung Saetze Variabilitaet KK. Methodik Prüfung Pflicht Kleinunternehmer 30 AN. Output Umlage-Berechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -104,12 +100,6 @@ Drei Umlagen lasten ausschliesslich auf dem AG (AN-Anteil null):
 - KK-Bescheide ueber Erstattung.
 - Beleg im Lohnordner.
 
-## Output
-
-- Korrekt berechnete Umlagen.
-- Erstattungsantraege bei Krankheit/Mutterschaft.
-- Buchung im Hauptbuch.
-
 ## Strategie und Praxis-Tipps
 
 - U1-Pflicht-Pruefung jaehrlich zum 1. Januar — nicht vergessen.
@@ -119,13 +109,6 @@ Drei Umlagen lasten ausschliesslich auf dem AG (AN-Anteil null):
 - Bei wechselnder Mitarbeiterzahl ueber 30: U1-Wechsel zum Jahreswechsel.
 - StBVV: in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS Umlage-Konfiguration mit jaehrlicher Pflicht-Aktualisierung.
-
-## Querverweise
-
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-krankheit-entgeltfortzahlung-efzg` — Krankheit.
-- `stb-lohn-elternzeit-mutterschutz` — Mutterschaft.
-- `stb-lohn-arbeitgeber-arbeitnehmer-anteile` — AG-/AN-Anteile.
 
 ## Quellen und Updates
 
@@ -139,10 +122,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (Insolvenzgeld-Umlage 2025 0,06% eingesetzt), 1 ersetzt (Pruefhinweis ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

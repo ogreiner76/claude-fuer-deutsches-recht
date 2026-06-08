@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere zu Anforderungen an die DSFA-Aktualisierung
 
 Art. 5 Abs. 2; Art. 32; Art. 35; Art. 36 DSGVO.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — DSFA-Update-Felder
 
 1. Beschreibung der Verarbeitung mit Bezug auf VVT.
@@ -52,3 +48,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-vvt-update-nach-vorfall` deckt das VVT ab.
+

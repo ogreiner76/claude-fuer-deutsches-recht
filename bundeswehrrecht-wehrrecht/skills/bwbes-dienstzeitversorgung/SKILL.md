@@ -5,10 +5,6 @@ description: "Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsge
 
 # Dienstzeitversorgung und Berufsförderungsdienst
 
-## Arbeitsbereich
-
-Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsgebührnisse, Übergangsbeihilfe, BFD-Ansprüche und Rentenrecht. Norm-/Quellenanker: SVG, BFD-Richtlinien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,12 +32,6 @@ Die Verzahnung mit GRV und Versorgungsausgleich bei Scheidung ist komplex.
 - §§ 39–48 SVG — Berufsförderungsdienst
 - § 26a SVG — Erhöhung bei WDB
 - SGB VI — Rentenrecht (Schnittstelle)
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -95,21 +85,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Unterlagen BFD-Antrag
 - Prüfschema: Pensionsanspruch Berufssoldat § 13 SVG
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/svg/ — SVG
-- https://dejure.org/gesetze/SVG
-- https://www.bundeswehr.de/de/organisation/personal
-- https://www.bverwg.de
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -119,3 +94,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

@@ -5,9 +5,6 @@ description: "Richtlinien Entwurf Kueschk Grundwarnung im Plugin Arbeitsrecht: p
 
 # Richtlinien Entwurf Kueschk Grundwarnung
 
-## Arbeitsbereich
-
-**Richtlinien Entwurf Kueschk Grundwarnung** ordnet den Fall über die tragenden Prüfungslinien: Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit st. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Richtlinien Entwurf Kueschk Grundwarnung im Plugin Arbeitsrecht: p
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `richtlinien-entwurf`
@@ -39,18 +37,6 @@ description: "Richtlinien Entwurf Kueschk Grundwarnung im Plugin Arbeitsrecht: p
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Eine Regelung, die für München passt, kann in Frankfurt falsch sein — nicht
-wegen des Landes, sondern wegen des Tarifvertrags, der Betriebsvereinbarung
-oder der Konzernstruktur. Diese Skill entwirft eine Kernregelung und erstellt
-standortspezifische Ergänzungen, wo der Betrieb, ein Tarifvertrag oder eine
-bestehende Betriebsvereinbarung abweichende Anforderungen stellt.
-
-Lädt, wenn eine neue oder geänderte Arbeitsregelung für ein oder mehrere
-Unternehmen / Standorte benötigt wird und die Folgewirkungen auf Betriebsrat,
-Tarifvertrag und bestehende Zusagen geprüft werden sollen.
 
 ## Eingaben
 
@@ -209,11 +195,6 @@ Ergänzungen knapp halten — nur Abweichendes; Kernregelung nicht wiederholen.
 - AGG-Konformität: Enthält die Regelung mittelbare Benachteiligungen wegen
  geschützter Merkmale nach § 1 AGG?
 
-## Ausgabeformat
-
-```markdown
-### [Regelungsname]
-
 ## Kernregelung
 
 **Geltung:** [alle Arbeitnehmer / bestimmte Gruppen / Standorte]
@@ -353,10 +334,6 @@ Halluzinations-Reparatur Bundle 014:
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Dieser Skill liefert den Pflicht-Warnkopf, der jedem Schriftsatz und jeder inhaltlichen Ausgabe vorangestellt wird, die im Rahmen des KüSchK-Laien-Workflows erzeugt wird. Er ist kein eigenständiger Workflow, sondern ein einzufügender Baustein.
-
 ## Pflicht-Disclaimer-Kopf (in jeden Laien-Output einfügen)
 
 ---
@@ -400,9 +377,6 @@ Nur wenn Frage 1 = ja: Warnbaustein zwingend einbetten. Bei Anwält:innen entfä
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Wo dieser Baustein erscheint
 
 - Vor jedem Klageschrift-Entwurf (Skill `kueschk-klageschrift-laie-baustein`)
@@ -432,27 +406,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Internationale Einstellungen werden bei wachsenden Unternehmen regelmäßig
-unstrukturiert behandelt, weil niemand das Gesamtbild überblickt. Legal kennt
-die arbeitsrechtlichen Fragen, aber nicht das Betriebsstättenrisiko. Finance
-kennt das Kostenmodell, aber nicht die Schwellenwerte für Arbeitnehmervertretungen.
-HR kennt die Gehaltsmarktdaten, aber nicht die Tag-1-Compliance-Anforderungen.
-
-Diese Skill ersetzt keine dieser Funktionen. Sie kartiert das Terrain, formuliert
-die richtigen Fragen für jeden Stakeholder, erstellt einen Briefing-Request
-für externe Arbeitsrechtler im Zielland und legt einen Tracker an, der das
-Projekt sitzungsübergreifend voranbringt.
-
-Die Skill setzt voraus, dass die Expansionsentscheidung gefallen ist. Sie ist
-kein Rahmen für "sollen wir expandieren?".
-
-Diese Skill enthält kein länderspezifisches Arbeitsrecht. Die materiellen
-Regelungen ändern sich häufig und variieren nach Rolle, Headcount und Branche —
-jedes Zielland wird über einen Briefing-Request an externe Arbeitsrechtler geleitet,
-nicht über eine interne Referenztabelle.
 
 ## Rechtlicher Rahmen
 
@@ -753,6 +706,7 @@ Verantwortlichkeit zuordenbar sein.
 > ein anderes Land: neuen Briefing-Request und neuen Kickoff-Lauf durchführen.
 
 ```markdown
+
 ## Internationale Expansion: [Land] — [Datum]
 
 Erste Einstellung angestrebt: [Datum]
@@ -866,9 +820,6 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=2
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Die Faustformel
 
 Die in der Praxis häufig verwendete Faustformel lautet:
@@ -948,3 +899,4 @@ Sperrzeit-Hinweis: § 158-159 SGB III prüfen (Agentur für Arbeit informieren)
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+

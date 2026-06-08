@@ -5,9 +5,6 @@ description: "130a ZPO FAX Grenzen Mein Justizpostfach im Selbstvertretung am Am
 
 # 130a ZPO FAX Grenzen Mein Justizpostfach
 
-## Arbeitsbereich
-
-**130a ZPO FAX Grenzen Mein Justizpostfach** ordnet den Fall über die tragenden Prüfungslinien: Elektronische Einreichung nach § 130a ZPO für Buerger, Einreichung per Fax und ihre verbleibenden Grenzen, Einrichtung und Nutzung von Mein Justizpostfach (MJP) für. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "130a ZPO FAX Grenzen Mein Justizpostfach im Selbstvertretung am Am
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `einreichung-130a-zpo-elektronisch-buerger`
@@ -124,24 +122,9 @@ Wenn die Uebermittlung versagt:
 - "Ich habe einen Screenshot der Bestaetigung." → Bestaetigungs-Dokument vollstaendig speichern.
 - "PDF mit Foto der Unterschrift." → Kein qeS, kein sicherer Weg — bestenfalls wirkungslos.
 
-## Querverweise
-
-- `einreichung-mein-justizpostfach-mjp-2024` — MJP konkret.
-- `einreichung-papierform-mit-abschriften` — Papier-Alternative.
-- `einreichung-fax-und-grenzen` — Fax.
-- `zurechnungsproblem-versand-durch-dritte` — Versand-Risiko.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 130a ZPO seit Gesetz zur Förderung des elektronischen Rechtsverkehrs (FoeRV) erweitert. § 130d ZPO Anwaltszwang elektronisch — Buerger weiter wahlfrei.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `einreichung-fax-und-grenzen`
 
@@ -231,24 +214,9 @@ Fax ist Ueberbrueckung — wenn Sie laufend Schriftsaetze einreichen, richten Si
 - "Ich sehe nur 'gesendet' im Display." → "Gesendet" heisst nicht "empfangen". Sendebericht "OK" ist entscheidend.
 - "Fax statt MJP für staendige Einreichung." → Auf Dauer zu fehleranfaellig. Wenden Sie sich an MJP.
 
-## Querverweise
-
-- `einreichung-mein-justizpostfach-mjp-2024` — Bessere elektronische Alternative.
-- `einreichung-papierform-mit-abschriften` — Papier-Alternative.
-- `wiedereinsetzung-frist-233-zpo` — Wenn Frist versaeumt.
-- `fristen-berechnen-187-188-bgb` — Frist-Berechnung.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Fax-Einreichung weiterhin moeglich; mehrere Gerichte planen aber Abbau. Vor Verlass auf Fax telefonisch bestaetigen, dass Anschluss aktiv ist.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `einreichung-mein-justizpostfach-mjp-2024`
 
@@ -352,24 +320,9 @@ Pruefen Sie:
 - "Ich schicke einen Scan." → Scan ist okay, aber PDF/A bevorzugt; Lesbarkeit pruefen.
 - "Email reicht doch auch." → Klassische Email ohne Signatur ist **kein** sicherer Uebermittlungsweg. Nicht fristwahrend!
 
-## Querverweise
-
-- `einreichung-130a-zpo-elektronisch-buerger` — Allgemeine elektronische Einreichung.
-- `einreichung-papierform-mit-abschriften` — Papierform.
-- `zurechnungsproblem-versand-durch-dritte` — Risiko bei Dritten.
-- `fristen-berechnen-187-188-bgb` — Frist beachten.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. MJP seit 01/2024 im Buerger-Betrieb. § 130a ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 

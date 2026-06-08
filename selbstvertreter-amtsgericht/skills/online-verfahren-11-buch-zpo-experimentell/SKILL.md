@@ -132,13 +132,7 @@ Das Urteil erscheint im Plattform-Postfach. Laden Sie es als PDF herunter und sp
 - **Fehler:** Lokale Sicherungs-Kopien vergessen. → **So vermeiden:** Nach jeder Eingabe als PDF herunterladen.
 - **Fehler:** Bei Video-Termin technische Probleme — kein Backup-Geraet. → **So vermeiden:** Vor dem Termin Funktion testen, Smartphone als Backup griffbereit.
 
-## Querverweise
-
-- `einreichung-mein-justizpostfach-mjp-2024` — MJP als Identifikations-Variante
-- `video-verhandlung-128a-zpo` — Video-Verhandlung allgemein
-- `klageschrift-pflichtbestandteile-253-zpo` — Inhalte der Klageschrift (auch in der Eingabe-Maske noetig)
-- `wann-doch-anwalt-grenzfaelle` — Bei komplexen Faellen Anwalt erwaegen
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Das Online-Verfahren wurde 2025 als Experimentier-Verfahren eingefuehrt; die genaue Norm-Verortung im 11. Buch ZPO und der Anwendungsbereich werden im laufenden Erprobungs-Zeitraum praezisiert. **Verifizieren Sie die aktuelle Rechtslage in amtliche/freie Quellen oder lizenzierte Datenbanken und auf der Webseite Ihres oertlich zuständigen Amtsgerichts vor Klageeinreichung.**
+

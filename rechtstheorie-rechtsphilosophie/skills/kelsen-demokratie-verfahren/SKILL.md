@@ -16,10 +16,6 @@ description: "Prueft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheit
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill macht demokratische Legitimation präzise. Er behandelt Demokratie nicht als bloße Mehrheitsstimmung, sondern als Verfahren, in dem Zuständigkeit, Öffentlichkeit, Gleichheit, Minderheitenschutz, Rechtsschutz und Änderbarkeit zusammenwirken.
-
 ## Sofort klären
 
 1. Wer entscheidet: Parlament, Regierung, Verwaltung, Gericht, Verband, Partei, Unternehmen oder Volk unmittelbar?
@@ -80,13 +76,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Erstelle einen Demokratie- und Minderheitenschutz-Vermerk mit:
-
-- Entscheidungsorgan;
-- Legitimationskette;
-- verletzbarer Minderheit;
-- unverfügbaren Rechten;
-- Kontrollweg;
-- sauberer Formulierung, welche politische Entscheidung rechtlich möglich ist und welche nicht.

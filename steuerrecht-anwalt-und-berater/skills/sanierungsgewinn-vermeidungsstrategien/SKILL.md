@@ -183,15 +183,6 @@ Strategie C: Verzicht mit Besserungsabrede
 - Besserungsabrede ohne Bilanz-Vermerk; spätere Buchung unklar.
 - Konzern-Optimierung übersehen — Organschaftsmöglichkeit.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-debt-equity-swap-statt-verzicht`
-- `stb-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg`
-- `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-fruehwarnung-monat-zwoelf-vor-plan`
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG.
@@ -205,3 +196,4 @@ Strategie C: Verzicht mit Besserungsabrede
 - UmwStG (bei konzerninternen Umstrukturierungen).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

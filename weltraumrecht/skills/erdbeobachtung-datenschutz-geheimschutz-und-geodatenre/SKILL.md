@@ -5,10 +5,6 @@ description: "Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensib
 
 # Weltraumrecht: Erdbeobachtung: Datenschutz, Geheimschutz und Geodatenrecht
 
-## Arbeitsbereich
-
-Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,3 +111,4 @@ Das Rechtsgebiet berührt folgende Kernthemen: Erdbeobachtung, DSGVO, Geodatenre
 - UNOOSA: https://www.unoosa.org/
 - BNetzA: https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/start.html
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
+

@@ -5,10 +5,6 @@ description: "Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbe
 
 # Arzneimittel- und Medizinprodukterecht (BMG)
 
-## Arbeitsbereich
-
-Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Länder-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Arzneimittel- und Medizinprodukterecht (BMG)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -21,7 +17,6 @@ Arbeitsfokus: **Arzneimittel- und Medizinprodukterecht (BMG)**. Prüfe diese Ank
 - `§ 5 EGovG` — elektronische Aktenführung live prüfen.
 - `Art. 3 KI-VO` — Begriffe.
 - `Art. 6 KI-VO` — Hochrisiko-Systeme.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -82,23 +77,6 @@ EU-Konformitaet; Notified Bodies; Versorgungsengpaesse; Off-label-Use.
 
 Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld: Arzneimittel- und Medizinprodukterecht
-Ressort: BMG
-Kernnormen: AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.
-Akteure/Aufsicht: BfArM; PEI; G-BA; DIMDI/BfArM; Länder-Aufsichten.
-EU/Voelkerrecht: VO 726/2004; MDR; IVDR; EMA.
-Pruefpunkte: <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine: <Sachfeld-spezifisch>
-Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
- normenkartierung; verfassungsmaessigkeit-quercheck;
- europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmg` -> `legw-ressortaufgaben-bmg` -> `legw-bmg-arzneimittel-und-medizinprodukterecht` (hier) -> `normhierarchie-routing` und Querprueferei.
@@ -107,6 +85,3 @@ Naechste Skills: legw-ressortaufgaben-bmg; normhierarchie-routing;
 
 Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
 
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.

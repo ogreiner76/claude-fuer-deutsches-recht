@@ -5,10 +5,6 @@ description: "Entgeltregulierung, Kostenunterlagen, Effizienzmaßstab, Genehmigu
 
 # Entgeltgenehmigung und Kostenorientierung
 
-## Arbeitsbereich
-
-Entgeltregulierung, Kostenunterlagen, Effizienzmaßstab, Genehmigung, Margin Squeeze und Eilrechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Entgeltregulierung, Kostenunterlagen, Effizienzmaßstab, Genehmigung, Margin Squ
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für regulierte Entgelte und Vorleistungsstreit.
-
 ## Norm- und Quellenanker
 
 TKG Entgeltregulierung; BNetzA-Beschlusskammerpraxis; GWB/AEUV.
-
-## Arbeitsfragen
-
-1. Welche Entgelte sind genehmigungspflichtig?
-2. Welche Kostenbasis ist belegt?
-3. Droht Preis-Kosten-Schere?
-
-## Output
-
-Entgeltmemo, Kostenfragenliste und Beschlussangriff.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Entgeltmemo, Kostenfragenliste und Beschlussangriff.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

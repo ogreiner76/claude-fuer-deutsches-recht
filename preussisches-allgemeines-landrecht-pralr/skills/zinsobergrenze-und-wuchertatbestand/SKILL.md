@@ -5,10 +5,6 @@ description: "Zinsobergrenze und Wuchertatbestand im ALR. Skill behandelt die hi
 
 # Pralr Zinsobergrenze Und Wuchertatbestand
 
-## Arbeitsbereich
-
-Zinsobergrenze und Wuchertatbestand im ALR. Skill behandelt die historische Zinsobergrenze (centesima usura 12 Prozent oder 6 Prozent) Sondervorschriften beim fenus nauticum und das Verhaeltnis zum heutigen Wucherrecht § 138 II BGB und § 291 StGB. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,7 +41,3 @@ Zinsobergrenze und Wuchertatbestand im ALR. Skill behandelt die historische Zins
 2. Marktueblicher Vergleich?
 3. Wuchertatbestand?
 
-## Output
-
-- Quellenmatrix.
-- Synopse zur heutigen Wucherlinie.

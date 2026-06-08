@@ -5,10 +5,6 @@ description: "Zusammentreffen von Beamtenpension und gesetzlicher Rente nach § 
 
 # pension-und-gesetzliche-rente-55-beamtvg
 
-## Arbeitsbereich
-
-Zusammentreffen von Beamtenpension und gesetzlicher Rente nach § 55 BeamtVG: Anrechnung, Höchstgrenze, Nachversicherung, Versorgungsausgleich und Auslandsrenten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Zusammentreffen von Beamtenpension und gesetzlicher Rente nach § 55 BeamtVG: An
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Prüft, ob Renten die Pension mindern oder nur dokumentiert werden müssen.
 
 ## Pflichtfragen
 
@@ -45,3 +37,4 @@ Prüft, ob Renten die Pension mindern oder nur dokumentiert werden müssen.
 ## Quellen-Hardening
 
 Keine Rechtsprechung aus Modellwissen zitieren. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher/frei prüfbarer Quelle. Landesrecht und Beihilferecht live prüfen.
+

@@ -5,10 +5,6 @@ description: "Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, ext
 
 # Verfassungstreue, Chatgruppen und politische Grenzfälle
 
-## Arbeitsbereich
-
-Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, extremistische Bezüge, Chatgruppen, Social Media, Parteitätigkeit, Mäßigungspflicht, Beweiswürdigung und disziplinarische Reaktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,13 +54,7 @@ Bei Zugang zum öffentlichen Dienst gilt Art. 33 Abs. 2 GG, aber fehlende Verfas
 - aktueller Distanzierung;
 - besonderem Justiz-/Polizeibezug.
 
-## Output
-
-- Behördenvermerk zur Beweis- und Prognoselage.
-- Verteidigungsstellungnahme.
-- Mandantenbrief „Was Sie ab jetzt nicht mehr schreiben sollten".
-- Anhörungskatalog mit Kontextfragen.
-
 ## Quellenanker
 
 Bekannte Linien: BVerfG 22.05.1975 - 2 BvL 13/73; BVerfG 12.06.2018 - 2 BvR 1738/12 u.a.; BVerwG 02.12.2021 - 2 A 7.21; BVerwG 10.10.2024 - 2 C 15.23. Vor Nutzung live verifizieren.
+

@@ -5,10 +5,6 @@ description: "Erstellt eine chronologische Bullet-Liste aller wesentlichen auße
 
 # Sachverhaltschronologie
 
-## Arbeitsbereich
-
-Erstellt eine chronologische Bullet-Liste aller wesentlichen außerprozessualen Tatsachen: Vertragsschluss Vorfaelle vorgerichtliche Korrespondenz Schadensereignisse und Behördenakte. Datum fett vorangestellt knappe Beschreibung ohne Wertung. Fundstellen in der Akte werden angegeben. Normen §§ 145-157 BGB Vertragsschluss §§ 280 631 BGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Erstellt eine chronologische Bullet-Liste aller wesentlichen außerprozessualen 
 - Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die Sachverhaltschronologie listet alle wesentlichen außerprozessualen Ereignisse in zeitlicher Reihenfolge auf. Sie unterscheidet sich von der Verfahrenschronologie dadurch, dass sie ausschließlich materielle Tatsachen erfasst — also Ereignisse aus dem Leben des Rechtsverhältnisses selbst, nicht die prozessualen Schritte.
 
 ## Triage — kläre vor Erstellung
 
@@ -41,9 +33,6 @@ Die Sachverhaltschronologie listet alle wesentlichen außerprozessualen Ereignis
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Was gehört hinein
 
 - Vertragsschlüsse, Angebote, Annahmen
@@ -106,3 +95,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - [ ] Verjährungsrelevante Ereignisse besonders markiert?
 
 ---
+

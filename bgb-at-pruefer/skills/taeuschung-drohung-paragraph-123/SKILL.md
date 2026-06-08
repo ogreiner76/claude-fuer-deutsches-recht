@@ -46,13 +46,6 @@ description: "Klausurfall zur Anfechtung wegen arglistiger Täuschung oder wider
 - Anfechtungsfrist § 124 BGB läuft ab Entdeckung, nicht ab Abschluss — wichtig für Fristberechnung.
 - Drohung mit Ausübung eines Rechts kann dennoch widerrechtlich sein, wenn Zweck-Mittel-Verhältnis nicht stimmt.
 
-## Output
-
-- Gutachtenstil-Abschnitt zu § 123 BGB mit vollständiger Subsumtion
-- Prüfampel: Täuschung / Drohung bejaht / Kausalität / Frist gewahrt
-- Klausurlösungsskizze mit Dritte-Täuschung-Variante
-- Rückfragenliste zu Arglist-Nachweis und Fristbeginn
-
 ## Quellen
 
 - [§ 123 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__123.html)
@@ -83,3 +76,4 @@ Strafanzeige, um Schulden einzutreiben.
 - Drohungsvariante: Empfindliches Übel in Aussicht gestellt?
 - Widerrechtlichkeit der Drohung: Mittel oder Zweck rechtswidrig?
 - Dritte-Täuschung (§ 123 Abs. 2 BGB): Empfänger kannte Täuschung?
+

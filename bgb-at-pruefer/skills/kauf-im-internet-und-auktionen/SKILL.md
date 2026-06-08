@@ -45,13 +45,6 @@ description: "Prüft Vertragsschluss beim Online-Kauf und Internet-Auktionen: in
 - Widerruf nach §§ 312b ff. BGB berührt Vertragsschluss nicht, nur Bindung nachträglich.
 - Vorzeitige Beendigung einer eBay-Auktion ist keine freie Rücknahme des Angebots.
 
-## Output
-
-- Gutachtenstil-Abschnitt zum digitalen Vertragsschluss
-- Prüfampel: Vertrag wirksam / Anfechtung möglich / Widerruf greift
-- Rückfragenliste zu Plattform-AGB und Bestätigungs-E-Mail-Wortlaut
-- Klausurlösungsskizze mit Fernabsatz-Folgeprüfung
-
 ## Quellen
 
 - [§ 156 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__156.html)
@@ -83,3 +76,4 @@ nach § 312d BGB. Erlöschen des Widerrufsrechts bei vollständiger Erfüllung d
 - Automatisierte Bestätigung: Annahme oder Eingangsbestätigung — Auslegung?
 - Preisfehler: Anfechtung nach § 119 Abs. 1 BGB unverzüglich erklärt?
 - B2C: Widerrufsrecht nach §§ 312b ff. BGB belehrt und fristgerecht?
+

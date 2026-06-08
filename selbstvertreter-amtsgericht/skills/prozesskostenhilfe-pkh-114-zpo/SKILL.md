@@ -134,14 +134,7 @@ In Praxis selten bewilligt — meist nur bei komplexen Faellen.
 - "PKH deckt auch Gegnerkosten." → Nein, nur eigene Kosten.
 - "Ich beantrage PKH nach Klage-Einreichung." → Geht, aber besser gleichzeitig.
 
-## Querverweise
-
-- `kostenrisiko-streitwert-berechnen-gkg` — Kosten ueberhaupt.
-- `pkh-bewilligung-ablehnung-folgen` — Wenn abgelehnt.
-- `pkh-ratenzahlung-bewilligung` — Raten.
-- `beratungshilfe-aussergerichtlich-brh` — Vor Prozess.
-- `gerichtskostenvorschuss-12-gkg` — Vorschuss.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 114 ff. ZPO unveraendert. PKH-Freibetraege jaehrlich angepasst — aktuelle Hoehen ueber Justizportal verifizieren.
+

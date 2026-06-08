@@ -5,10 +5,6 @@ description: "Unterstützt Patentportfolio- und Technikstrategie: Schutzzaun, Ro
 
 # Patentportfolio und Technikstrategie
 
-## Arbeitsbereich
-
-Unterstützt Patentportfolio- und Technikstrategie: Schutzzaun, Roadmap, Wettbewerbsmonitoring, defensive Veröffentlichungen, Anmeldepriorisierung, Länderstrategie und Budgetsteuerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,14 +33,6 @@ Unterstützt Patentportfolio- und Technikstrategie: Schutzzaun, Roadmap, Wettbew
 - defensive Veröffentlichung bei nicht schutzwürdigen, aber blockaderelevanten Details.
 - Lizenzierungs- oder Cross-License-Strategie.
 
-## Output
-
-- Portfolio-Landkarte.
-- Anmeldepriorisierung.
-- Recherche- und Monitoringplan.
-- Budget- und Fristenübersicht.
-- Board-/Investor-taugliche Kurzfassung.
-
 ## Kosten, Routen und Fristen-Anker
 
 - **DPMA-Anmeldung:** 60 EUR Anmeldegebühr, ab 11. Anspruch je 30 EUR; Prüfungsantrag bis 7 Jahre (§ 44 PatG) für 350 EUR.
@@ -57,10 +45,3 @@ Unterstützt Patentportfolio- und Technikstrategie: Schutzzaun, Roadmap, Wettbew
 - **Investorenkommunikation:** Patent-Status mit Reifegrad (Anmeldung pending vs. erteilt) und geographischer Abdeckung; "Patente angemeldet" ist NICHT identisch mit "erteilt".
 - Falle: 30-Monats-Frist PCT-Übergang in nationale Phase versäumen — Wiedereinsetzung sehr eng (Art. 122 EPÜ unter Voraussetzungen).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

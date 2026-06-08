@@ -5,9 +5,6 @@ description: "Faevvollzug Abschlussschreiben Lizenzanaloger im Plugin Fachanwalt
 
 # Faevvollzug Abschlussschreiben Lizenzanaloger
 
-## Arbeitsbereich
-
-**Faevvollzug Abschlussschreiben Lizenzanaloger** ordnet den Fall über die tragenden Prüfungslinien: Red-Team und Qualitätsgate für alle Arbeitsprodukte im, Abschlussschreiben nach einstweiliger Verfügung, Lizenzanaloger Schadensersatz. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Faevvollzug Abschlussschreiben Lizenzanaloger im Plugin Fachanwalt
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `workflow-redteam-qualitygate`
@@ -30,9 +28,6 @@ description: "Faevvollzug Abschlussschreiben Lizenzanaloger im Plugin Fachanwalt
 **Fokus:** Red-Team und Qualitätsgate für alle Arbeitsprodukte im gewerblichen Rechtsschutz: Schwachstellenanalyse von Schriftsätzen, Memos, Abmahnungen, EV-Anträgen und Vergleichsentwürfen. Kritische Gegenfragen und Freigabekriterien.
 
 ### Red-Team und Qualitätsgate
-
-## Aufgabe
-Diese Prüfungslinie führt ein systematisches Red-Team-Review durch: Er sucht Schwächen, Lücken und logische Fehler in Arbeitsprodukten, bevor sie nach außen gehen oder für Entscheidungen verwendet werden.
 
 ## Warum Red-Team im IP-Recht?
 
@@ -138,11 +133,6 @@ Ein Arbeitsprodukt wird freigegeben, wenn:
 - `spezial-designverletzung-red-team-und-qualitaetskontrolle` – Red-Team Design.
 - `workflow-rechtsquellen-livecheck` – Quellen-Verifikation.
 
-## Quellenregel
-- Dieser Skill bewertet Inhalte; Normen und Urteile werden im Review auf Live-Verifizierung geprüft.
-- Quellen: [gesetze-im-internet.de](https://www.gesetze-im-internet.de), [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein inhaltliches Tiefenreview ohne vollständiges Dokument.
 - Kein Ersatz für vollständige anwaltliche Prüfung.
@@ -152,9 +142,6 @@ Ein Arbeitsprodukt wird freigegeben, wenn:
 **Fokus:** Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten, Unterlassungserklärung als Abschlussregelung, Abschlussgebühr RVG, Übergang zu Hauptsacheklage oder endgültige Erledigung im gewerblichen Rechtsschutz.
 
 ### Abschlussschreiben: Kosten, Frist und Abschlussregelung
-
-## Aufgabe
-Dieser Skill behandelt das Abschlussschreiben nach Erlass einer einstweiligen Verfügung: Aufforderung zur Abgabe einer Abschlusserklärung, Fristen, Kostenerstattung und Übergang zur Hauptsache.
 
 ## Rechtsrahmen
 
@@ -251,12 +238,6 @@ Mit freundlichen Grüßen
 - `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-ordnungsmittel` – Bei Zuwiderhandlung.
 - `spezial-schadensersatz-abschlussprodukt-und-uebergabe` – Schadensersatz-Abrechnung.
 
-## Quellenregel
-- RVG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/rvg/).
-- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Kostenberechnung (RVG-Tabelle live prüfen).
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -266,9 +247,6 @@ Mit freundlichen Grüßen
 **Fokus:** Lizenzanaloger Schadensersatz: Berechnung, Marktrecherche für Lizenzsätze, Stufenklage, Fristen für Auskunft und Schadensersatz, nächster Handlungsschritt nach Unterlassungsurteil oder EV-Abschluss im gewerblichen Rechtsschutz.
 
 ### Lizenzanaloger Schadensersatz: Berechnung und nächster Schritt
-
-## Aufgabe
-Dieser Skill behandelt den lizenzanalogen Schadensersatz als bevorzugte Methode der Schadensberechnung im IP-Recht: Berechnungsgrundlage, Marktrecherche, Stufenklage und Fristenmanagement.
 
 ## Rechtsrahmen
 
@@ -362,13 +340,7 @@ zu machen (§ [14 Abs. 6 MarkenG / 139 Abs. 2 PatG / 97 Abs. 2 UrhG]).
 - `spezial-bezuege-zahlen-schwellen-und-berechnung` – Gebühren und Streitwerte.
 - `workflow-fristen-und-risikoampel` – Fristenmanagement.
 
-## Quellenregel
-- MarkenG, PatG, DesignG, UrhG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Lizenzsätze nicht aus Modellwissen; immer branchenspezifisch recherchieren.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Schadensberechnung ohne vollständige Daten zur Verletzungshistorie.
 - Kein Ersatz für vollständige Mandantenberatung.
+

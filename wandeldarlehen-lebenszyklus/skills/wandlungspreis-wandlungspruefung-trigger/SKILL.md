@@ -5,10 +5,6 @@ description: "Wandlungspreis auf Basis vertraglich vereinbarter Parameter berech
 
 # Wandlungspreis-Berechnung
 
-## Arbeitsbereich
-
-Wandlungspreis auf Basis vertraglich vereinbarter Parameter berechnen wenn Wandlung ausgelöst wird. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Bewertungsdeckel Rabatt Qualified-Financing-Preis MFN Verwasserungsschutz Rundungsregel. Output: Berechnungsnachweis Wandlungspreis neue Anteile. Abgrenzung: nicht für Cap-Table-Update (cap-table-update-pre-post). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Wandlungspreis auf Basis vertraglich vereinbarter Parameter berechnen wenn Wandl
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill führt die vollständige Wandlungspreis-Berechnung durch – von der Wandlungssumme über den Wandlungspreis nach MIN-Methode bis zur Zahl der neuen Geschäftsanteile. Phase C des Lebenszyklus.
 
 ## Eingaben
 
@@ -97,12 +89,6 @@ Wandlungssumme C − Nennbetrag neue Anteile = Einlage in Kapitalrücklage (§ 2
 | Cap unter aktuellem Preis A und B | Cap immer massgeblich | Cap leicht unter | Cap deutlich unter |
 | Differenzhaftung bei Überbewertung | Gesellschafter persönlich haftbar (§ 9 GmbHG) | Wertgutachten fehlt | Werthaltigkeitsprüfung vorhanden |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/cap-table-update-pre-post/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/sacheinlagebericht-werthaltigkeit/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-qualified-financing/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 5 und 55 ff. sowie HGB § 272 aktualisieren.
@@ -118,3 +104,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 § 5 Abs. 1 GmbHG (Mindest-Nennbetrag 1 EUR pro Anteil, Aufrundung) → § 56 Abs. 2 GmbHG (Differenzhaftung bei Unterschreitung Sachwert) → § 272 Abs. 2 Nr. 4 HGB (Kapitalrücklage für Wandlungsagio) → §§ 488 ff. BGB (Zinslauf bis Wandlungsstichtag) → § 138 BGB (Sittenwidrigkeit bei Preis-Manipulation)
+

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. P
 
 # Finanzgerichtsbarkeit Geschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. Preussische Steuerbeschwerdekommissionen, Reichsabgabenordnung 1919, Finanzgerichte nach 1945 und FGO 1965. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Die Finanzgerichtsbarkeit entstand aus fiskalischen Beschwerdesystemen der Einze
 - BFH-Rechtsprechung: bundesfinanzhof.de (frei zugaengliche Entscheidungen)
 - BMF-Schreiben: bundesfinanzministerium.de
 
-## Output
-
-- Zeitleiste Finanzgerichtsbarkeit: RAO 1919 bis FGO 1965
-- Kernunterschiede RAO vs. AO 1977
-- RFH-BFH-Kontinuitaet: Institutionelle und personelle Aspekte
-
-## Quellenregel
-
-RAO 1919: ALEX/ÖNB. AO und FGO: gesetze-im-internet.de. BFH: bundesfinanzhof.de. RFH-Entscheidungen: historische Steuerzeitschriften (RFHE).

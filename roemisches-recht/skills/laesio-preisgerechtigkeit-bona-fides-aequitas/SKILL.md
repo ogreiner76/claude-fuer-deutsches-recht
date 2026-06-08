@@ -5,10 +5,6 @@ description: "Römisches Recht: Laesio enormis nach C. 4.44.2 (Diokletian 285 n.
 
 # Laesio enormis und Preisgerechtigkeit
 
-## Arbeitsbereich
-
-Römisches Recht: Laesio enormis nach C. 4.44.2 (Diokletian 285 n.Chr.) - Anfechtung beim Immobilienkauf unter der Hälfte des wahren Werts, Verhältnis zu iustum pretium und späterem Recht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,13 +49,3 @@ Die laesio enormis ist eine justinianische (resp. diokletianische) Regelung: ver
 - Kaser RP II §§ 60-62; Zimmermann Law of Obligations Kap. 11
 - Vergleich BGB § 138 Abs. 2
 
-## Output
-
-- Schema: Voraussetzungen der laesio enormis
-- Historische Entwicklung: klassisch -> diokletianisch -> mittelalterlich
-- Memo: iustum pretium-Debatte
-- Vergleich röm. laesio vs. BGB-Wucher
-
-## Quellenregel
-
-C. 4.44 (Mommsen-Krüger Codex). D. 19.2.22.3. Kaser RP II. Zimmermann Law of Obligations.

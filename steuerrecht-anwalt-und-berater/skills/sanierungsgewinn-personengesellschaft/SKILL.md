@@ -146,14 +146,6 @@ A trägt allein:
 - § 7b GewStG-Antrag durch Mitunternehmer statt durch Gesellschaft.
 - Gewinnverteilungsschlüssel falsch angesetzt; Anteile fehlerhaft.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-3a-estg-unternehmens-vs-person`
-- `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-
 ## Quellen Stand 06/2026
 
 - § 15 Abs. 1 S. 1 Nr. 2 EStG.
@@ -167,3 +159,4 @@ A trägt allein:
 - § 180 Abs. 1 Nr. 2 AO.
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

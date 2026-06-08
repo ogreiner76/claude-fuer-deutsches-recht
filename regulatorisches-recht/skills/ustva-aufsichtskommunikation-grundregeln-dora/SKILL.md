@@ -5,10 +5,6 @@ description: "Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn F
 
 # Umsatzsteuer-Voranmeldung (§ 18 UStG)
 
-## Arbeitsbereich
-
-Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Prüfraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Prüfprotokoll Voranmeldungs-Checkliste. Abgrenzung: nicht für allgemeines Steuerrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -54,6 +50,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 **Schritt 1 – Voranmeldungszeitraum bestimmen**
@@ -90,13 +87,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Schätzung: Finanzamt kann Besteuerungsgrundlagen schätzen (§ 162 AO).
 - Säumniszuschlag auf verspätete Zahlung: 1 % pro angefangenem Monat (§ 240 AO).
 
-## Ausgabeformat
-
-- **Fristenübersicht** (Tabelle): Voranmeldungszeitraum × Reguläre Frist × Frist mit Dauerfristverlängerung.
-- **Checkliste UStVA-Erstellung**: Kennzahlen-Mapping für häufige Geschäftsvorfälle.
-- **Berichtigungsanleitung** (Schritt-für-Schritt via ELSTER).
-- **Dauerfristverlängerungs-Memo**: Voraussetzungen, Sondervorauszahlungshöhe, ELSTER-Pfad.
-
 ## Beispiel
 
 **Sachverhalt**: GmbH G hatte im Jahr 2024 eine USt-Zahllast von 14.000 EUR. G hat keine Dauerfristverlängerung beantragt. Die Januar-2025-UStVA enthält einen Vorsteuerfehler (KZ 66 um 1.200 EUR zu hoch), den G am 15.03.2025 erkennt.
@@ -123,6 +113,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Quellenpflicht
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Aktuelle Rechtsprechung & Leitsätze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -131,6 +122,3 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 § 18 UStG (UStVA-Pflicht, Fristen, Dauerfreistellung) — § 152 AO (Verspätungszuschlag) — § 370 AO (Steuerhinterziehung bei falscher UStVA) — ELSTER-Verfahren (elektronische Uebermittlungs-Pflicht) — § 233a AO (Zinsen bei Umsatzsteuer-Nachzahlung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

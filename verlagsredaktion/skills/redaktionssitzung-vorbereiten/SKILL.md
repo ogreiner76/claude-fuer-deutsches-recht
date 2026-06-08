@@ -5,10 +5,6 @@ description: "Bereitet eine juristische Redaktionssitzung vor: Agenda, Themensco
 
 # Redaktionssitzung vorbereiten
 
-## Arbeitsbereich
-
-Bereitet eine juristische Redaktionssitzung vor: Agenda, Themenscoring, Beschlussvorlage, Protokollskelett und Anschlussaufgaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -104,17 +100,10 @@ Frist Druckfreigabe: 29.07.2026
 - Endlose Themen-Brainstorming ohne Priorisierung.
 - Protokoll nicht innerhalb 24h - alle vergessen, was beschlossen wurde.
 
-## Querverweise
-
-- `verl-jourfix-vorbereiten-protokoll` - Schwester-Skill für Jourfixe.
-- `verl-themenscout-rechtsentwicklung` - liefert Themenkandidaten.
-- `verl-ideenpool-und-priorisierung` - für den Backlog.
-- `verl-redaktionsmemo-jahresplanung` - Jahresplanung uebergeordnet.
-- `workflow-output-waehlen` - Output-Wahl pro Beitrag.
-
 ## Quellen Stand 06/2026
 
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Allgemeine Regeln zu Sitzungsfuehrung und Protokoll: keine spezifische juristische Quelle erforderlich.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016 (für Protokoll-Belegformat).
 - Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
+

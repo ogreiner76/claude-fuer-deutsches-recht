@@ -5,10 +5,6 @@ description: "Anspruchsformulierungen Bei Formverstoss: ordnet Normen, Nutzerang
 
 # Anspruchsformulierungen bei Formverstoß
 
-## Arbeitsbereich
-
-Anspruchsformulierungen Bei Formverstoss: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -149,13 +145,6 @@ Wir bitten um Rückantwort bis zum genannten Termin.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **c.i.c.-Anspruch**: Wer arglistig eine Formnorm verschweigt oder die Formunwirksamkeit verursacht, kann nach §§ 280 Abs. 1, 311 Abs. 2 BGB schadensersatzpflichtig sein — dieser Anspruch besteht unabhängig vom Bereicherungsanspruch.
 - **Drei-Wochen-Frist Entfristungsklage**: § 17 TzBfG setzt eine Klagefrist von drei Wochen ab dem vereinbarten Vertragsende. Versäumung der Frist führt zu endgültigem Verlust des Anspruchs.
-
-## Querverweise
-
-- → `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25`
-- → `wohnraummiete-kuendigung-paragraph-568-bgb`
-- → `verteidigungsstrategie-bei-formangriff`
-- → `arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb`
 
 ## Normen und Rechtsprechung
 

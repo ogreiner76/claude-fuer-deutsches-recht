@@ -5,9 +5,6 @@ description: "Technische Begriffe Teleologische Auslegung im Plugin Methodenlehr
 
 # Technische Begriffe Teleologische Auslegung
 
-## Arbeitsbereich
-
-**Technische Begriffe Teleologische Auslegung** ordnet den Fall über die tragenden Prüfungslinien: Dieses Skill führt einen Neutralitätscheck für technische, Teleologische Auslegung im deutschen Zivilrecht, Topik und Jurisprudenz nach Theodor Viehweg. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Technische Begriffe Teleologische Auslegung im Plugin Methodenlehr
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `technische-begriffe-neutralitaetscheck`
@@ -82,10 +80,6 @@ Technische, wirtschaftliche und wissenschaftliche Fachbegriffe finden immer häu
 - Die Unterschiede zwischen fachsprachlichem und rechtlichem Fehlerbegriff werden nicht erkannt.
 - Sachverständigenaussagen werden zur Begriffsfüllung benötigt, aber nicht eingeplant.
 - Implizite Wertungen in Fachbegriffen führen dazu, dass das Ergebnis schon durch die Begriffswahl feststeh.
-
-## Output
-
-Das Skill liefert eine Neutralitätsprüfung aller technischen Begriffe: Fachbegriff, rechtliche Definition, Übereinstimmungsanalyse, Neutralitätsrisiken und methodisch neutrale Reformulierung. Das Ergebnis sichert die methodische Integrität der Argumentation und ist direkt in Gutachten und Schriftsätze übertragbar.
 
 ## Quellen
 
@@ -199,17 +193,6 @@ Kritik aus der Begriffsjurisprudenz (Puchta, Windscheid): Zweck ist beliebig; nu
 
 Kritik aus der Topik (Viehweg): Die teleologische Argumentation ist ein Topos im Diskurs, kein Erkenntnisinstrument. Die Wahrheit liegt im Konsens der Juristen, nicht im "wahren" Zweck.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Einordnung in den Kanon.
-- `wortlaut-grammatikalische-auslegung` — vorgelagert.
-- `systematische-auslegung` — vorgelagert.
-- `historische-auslegung` — Quelle der Telos-Bestimmung.
-- `analogie-und-teleologische-reduktion` — wenn Telos jenseits oder gegen den Wortlaut wirkt.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Rueckbindung an Verfassungswerte und Unionsrecht.
-- `interessenjurisprudenz-heck` — historische Wurzel der Telos-Lehre.
-- `wertungsjurisprudenz-larenz-canaris` — moderne Verankerung.
-
 ## Quellen und Stand 05/2026
 
 - Rudolf von Jhering, Der Zweck im Recht, Leipzig 1877-1883.
@@ -220,14 +203,6 @@ Kritik aus der Topik (Viehweg): Die teleologische Argumentation ist ein Topos im
 - `references/methodik-buergerliches-recht.md` im Repo.
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `topik-viehweg-vs-systemdenken`
 
@@ -320,15 +295,6 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 
 **Heutige Position:** Die Wertungsjurisprudenz (Larenz, Canaris) und die Topik (Viehweg) sind nicht Gegensaetze, sondern Ergaenzungen. System und Topoi sind beide Bestandteile guter juristischer Argumentation.
 
-## Querverweise
-
-- `pandekten-und-begriffsjurisprudenz` — Gegenposition (geschlossenes System).
-- `wertungsjurisprudenz-larenz-canaris` — Hauptkonkurrent in der heutigen Methodenlehre.
-- `interessenjurisprudenz-heck` — Vorlaeufer einer offeneren Methodenlehre.
-- `diskurstheorie-habermas-alexy` — moderne argumentationstheoretische Fortsetzung.
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori` — klassische Topoi der Logik.
-- `legal-realism-und-critical-legal-studies` — externe Kritik am Systemdenken.
-
 ## Quellen und Stand 05/2026
 
 - Theodor Viehweg, Topik und Jurisprudenz, Muenchen 1953.
@@ -339,14 +305,6 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 - §§ 133, 138, 157, 242, 307, 826 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `ueberpositives-recht-als-leerformel-check`
 
@@ -403,10 +361,6 @@ Argumente aus "Gerechtigkeit", "Naturrecht" oder ungeschriebenen überverfassung
 - Die Leerformel "Gerechtigkeit" wird nicht in prüfbare positivrechtliche Normen übersetzt.
 - Der Rückgriff auf Art. 1 GG wird als Universallösung verwendet, ohne die Schrankendogmatik zu beachten.
 - Richterliche Entscheidungen mit überpositiver Begründung werden nicht als methodisch angreifbar erkannt.
-
-## Output
-
-Das Skill liefert eine Leerformel-Analyse: Identifikation aller überpositiven Argumente, Übersetzungstest (positivrechtlicher Anker?), Substanzbewertung und methodisch begründete Alternativformulierung. Das Ergebnis ist für die Kritik gegnerischer Argumente und für die Qualitätssicherung eigener Gutachten verwendbar.
 
 ## Quellen
 
@@ -526,15 +480,6 @@ Verfassungskonforme Auslegung: Von mehreren vertretbaren Auslegungen ist die mit
 
 Kritik: Wenn jede Auslegung als verfassungs- oder unionsrechtskonform gerechtfertigt werden kann, verliert das Gesetz seine Bindungskraft. Die Wortlaut-Grenze ist daher ernst zu nehmen.
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Grundkanon.
-- `wortlaut-grammatikalische-auslegung` — Grenze der konformen Auslegung.
-- `historische-auslegung` — bei EU-Umsetzungsgesetzen.
-- `teleologische-auslegung` — Schutzzweck-Argument.
-- `analogie-und-teleologische-reduktion` — wenn die Wortlaut-Grenze erreicht wird.
-- `rechtspluralismus-und-mehrebenen-system` — theoretische Einordnung.
-
 ## Quellen und Stand 05/2026
 
 - BVerfGE 7, 198 — Lueth (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%207%2C%20198).
@@ -544,3 +489,4 @@ Kritik: Wenn jede Auslegung als verfassungs- oder unionsrechtskonform gerechtfer
 - §§ 138, 242, 305 ff., 312 ff., 327 ff., 651a ff., 823, 826 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026. Rechtsprechungslinien laufen weiter; vor Verwendung live verifizieren.
+

@@ -5,10 +5,6 @@ description: "PTBS Einsatzfolge Beweisführung: prüft die einschlägigen Voraus
 
 # PTBS als Einsatzfolge – Beweisführung
 
-## Arbeitsbereich
-
-PTBS Einsatzfolge Beweisführung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,15 +87,6 @@ Die posttraumatische Belastungsstörung (PTBS) ist eine anerkannte psychische Er
 - VMG-Tabelle nicht zitiert – Bewertung scheint pauschal.
 - § 81e SVG-Einmalentschädigung nicht ausdrücklich beantragt.
 
-## Querverweise
-
-- soldatenversorgungsgesetz-beschaedigtenversorgung
-- einsatzunfall-wehrdienstbeschaedigung
-- einsatz-unfall-versorgung-dokumentenplan
-- aerztliche-begutachtung-dienstfaehigkeit
-- sanitaetsdienst-heilfürsorge
-- dienstunfaehigkeit-entlassung-zurruhesetzung
-
 ## Quellen Stand 06/2026
 
 - SVG §§ 81, 81a, 81b, 81e – Volltext gesetze-im-internet.de.
@@ -108,3 +95,4 @@ Die posttraumatische Belastungsstörung (PTBS) ist eine anerkannte psychische Er
 - BSG zu Kausalität psychischer Schäden – ständige Rechtsprechung.
 - BAPersBw – Verwaltungspraxis.
 - Bundeswehrkrankenhäuser – Standorte und Fachabteilungen (bundeswehr.de).
+

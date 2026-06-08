@@ -5,10 +5,6 @@ description: "Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyou
 
 # Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting
 
-## Arbeitsbereich
-
-Influencer-Recht: Content-Lizenzierung, Nutzungsdauer, Media Buyout und Whitelisting – urheberrechtliche Grundlagen und Vergütungsmodelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,3 +73,4 @@ Content-Lizenzen sind der urheberrechtliche Kern jedes Brand Deals:
 - Whitelisting-Klausel-Vorlage
 - Preiskalkulations-Tool (Aufschlagstabelle)
 - Lizenzwiderruf-Schreiben
+

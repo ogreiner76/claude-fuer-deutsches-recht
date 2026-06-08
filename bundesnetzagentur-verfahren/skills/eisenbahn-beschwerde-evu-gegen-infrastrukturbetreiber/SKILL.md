@@ -5,10 +5,6 @@ description: "Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlic
 
 # Beschwerde eines EVU gegen den Infrastrukturbetreiber nach § 66 ERegG
 
-## Arbeitsbereich
-
-Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -62,11 +58,6 @@ Anwaltliche Führung einer Beschwerde eines Eisenbahnverkehrsunternehmens (EVU) 
 - EuGH zu RL 2012/34 mit konkretem Datum und Az.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Beschwerdeschrift (15–40 Seiten).
-- Datenanlagen (Trassen-Anfragen, Antworten, Vergleichswerte).
-- Eilantrag (separat oder im Beschwerde-Schriftsatz).
-
 ## Beispiele
 - Privates Güter-EVU rügt Ablehnung einer Trasse zugunsten DB Cargo. Beschwerde § 66 ERegG, Beweis durch Vergleich Trassen-Anfrage und -Bescheid.
 - EVU Personenverkehr rügt überhöhte Stationsentgelte. Beschwerde § 66 ERegG, gleichzeitig Genehmigungsverfahren § 33 ERegG.
@@ -74,3 +65,4 @@ Anwaltliche Führung einer Beschwerde eines Eisenbahnverkehrsunternehmens (EVU) 
 
 ## Qualitätsgate
 Aktivlegitimation tragfähig? Streitgegenstand präzise eingegrenzt? Diskriminierungs-Vergleich belegt? Eilfristen kalendarisiert? Parallelweg GWB-Klage abgewogen? Akteneinsicht/Schwärzungs-Strategie geklärt?
+

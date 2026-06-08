@@ -5,10 +5,6 @@ description: "Systemwechsel und Rebranding im Franchiserecht abwickeln: Vertrags
 
 # Franchiserecht: Systemwechsel und Rebranding
 
-## Arbeitsbereich
-
-Systemwechsel und Rebranding im Franchiserecht abwickeln: Vertragsrechtliche Folgen der Marken- und Systemänderung, Zustimmungserfordernisse der Franchisenehmer, AGB-Kontrolle von Rebranding-Klauseln, Investitionsschutz und Übergangsfristen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber möchte das gesamte System umbenennen (Rebranding), die Marke
 - Neue Marke noch nicht eingetragen; Franchisenehmer trägt erhebliche CI-Kosten für eine ungesicherte Marke.
 - Übergangsfrist zu kurz; Franchisenehmer kann wegen laufender Mietvertragspflichten (Fassade, Schilder) nicht sofort umrüsten.
 
-## Output
-
-- Rebranding-Klausel (AGB-konformer Entwurf)
-- Kostenverteilungsplan Franchisegeber/Franchisenehmer
-- Zeitplan und Meilensteine für systemweites Rebranding
-- Ausserordentliches-Kündigungs-Analyse bei unzumutbarem Rebranding
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/308.html
@@ -71,6 +60,7 @@ Ein Franchisegeber möchte das gesamte System umbenennen (Rebranding), die Marke
 - https://dejure.org/gesetze/BGB/314.html
 - https://dejure.org/gesetze/MarkenG/30.html
 - https://dejure.org/gesetze/BGB/280.html
+
 ## Vertiefung
 
 Rebranding-Massnahmen, die das gesamte Franchisesystem betreffen, sind eine erhebliche Herausforderung für die Systemkohärenz. Der BGH hat klargestellt, dass der Franchisegeber das System weiterentwickeln darf und muss; er darf aber die wirtschaftliche Existenzgrundlage des Franchisenehmers nicht einseitig verändern.
@@ -84,7 +74,10 @@ Die Grenze zwischen zulässiger Systemevolution und unzulässigem einseitigem Le
 - Übergangsfrist mindestens 12 bis 18 Monate; bei erheblichen Investitionen länger.
 - Neue Marke vor Ankündigung beim DPMA oder EUIPO anmelden; kein Rebranding auf eine nicht gesicherte Marke hin.
 - Parallelnutzungsperiode für alte Marke während der Übergangsphase vertraglich sichern.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

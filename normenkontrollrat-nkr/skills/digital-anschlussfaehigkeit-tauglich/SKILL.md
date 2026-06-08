@@ -121,14 +121,6 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 - OZG-Anschluss "in spaeterer Phase"
 - Maschinenlesbarkeit nicht thematisiert
 
-## Querverweise
-
-- `nkr-digitalcheck-und-onlinezugangsgesetz-ozg` — Detail-Skill OZG
-- `nkr-praktikabilitaet-vollzug-test`
-- `nkr-handelsregister-und-elektronische-zustellung` — Beispielfall
-- `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - Digitalcheck-Methodik (BMI / NKR, seit 2022, jeweils aktuelle Fassung)
@@ -139,3 +131,4 @@ Rueckfrage nur wenn unklar: *"Welche digitalen Beruehrungspunkte hat das Vorhabe
 - Standards XOEV, FIM, ELSTER, beA — Spezifikationen jeweils aktueller Stand
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.digitalcheck.bund.de](https://www.digitalcheck.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

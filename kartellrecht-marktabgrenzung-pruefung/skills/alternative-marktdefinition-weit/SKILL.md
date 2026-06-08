@@ -5,10 +5,6 @@ description: "Mandant will eine weitere Marktabgrenzung argumentieren um niedrig
 
 # Alternative Marktdefinition — Weiter
 
-## Arbeitsbereich
-
-Mandant will eine weitere Marktabgrenzung argumentieren um niedrigere Marktanteile zu zeigen oder Behörden-Markt anzugreifen. Generiert weitere alternative Marktdefinition mit juristischer und oekonomischer Begründung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024. Prüfraster einzuschließende Produkte Regionen Supply-Side-Faktoren Nachfragesubstitution. Auswirkung auf Marktanteil und Widerlegung Marktbeherrschungsvermutung. Output Argumentationsmemo mit Begründung und Angreifbarkeits-Analyse. Abgrenzung: alternative-marktdefinition-eng für engere Abgrenzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,13 +17,6 @@ Mandant will eine weitere Marktabgrenzung argumentieren um niedrigere Marktantei
 - **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
 - **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Zweck
-
-Dieser Skill generiert eine systematisch weitere alternative Marktdefinition. Anwendungsfälle:
-- Fusionskontrolle: Verringerung des kombinierten Marktanteils durch breitere Definition.
-- Missbrauchsabwehr: Entkräftung der Marktbeherrschungsvorwürfe durch breiteren Markt.
-- Eigenes Team: Stress-Test zur Stärkung der eigenen Position.
 
 ## Vorgehensweise
 
@@ -81,9 +70,6 @@ Auswirkung auf Verfahrensergebnis: [...]
 - EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Weiter Markt Wearables; Substitution zwischen Smart-Watch und Fitness-Band trotz Unterschiede moeglich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Standardformulierung für Schriftsatz
 
 > "Bezieht man — dem Verständnis der Nachfrager entsprechend — auch [Produkt X] in den relevanten Markt ein, weil [Begründung], reduziert sich der Marktanteil auf [Y%]. Die Marktbeherrschungsvermutung des § 18 Abs. 4 GWB wäre dann nicht erfüllt."
@@ -122,3 +108,4 @@ Wenn nationale Marktdefinition angegriffen werden soll:
 - Marktabgrenzung nach SSNIP-Test sauber durchfuehren; Bekanntmachung der Kommission 2024/C berücksichtigen.
 - Bezweckte Beschraenkungen Art. 101 Abs. 1 AEUV nicht vorschnell annehmen; EuGH C-67/13 P Cartes Bancaires-Linie pruefen.
 - § 19a GWB-Verfahren sind eigenstaendig vom Marktmissbrauch nach § 19 GWB; Befugnisse und Rechtsfolgen unterscheiden.
+

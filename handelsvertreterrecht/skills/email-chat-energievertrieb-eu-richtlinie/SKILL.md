@@ -5,10 +5,6 @@ description: "Prüft die Verwertbarkeit von E-Mails, WhatsApp-Nachrichten und Ch
 
 # E-Mails und Chat-Nachrichten als Beweismittel im Handelsvertreterstreit
 
-## Arbeitsbereich
-
-Prüft die Verwertbarkeit von E-Mails, WhatsApp-Nachrichten und Chat-Protokollen als Beweismittel in Handelsvertreterstreitigkeiten: Authentizitätsnachweis, datenschutzrechtliche Verwertungsverbote nach DSGVO, Vorlage als Urkunde nach § 416 ZPO und Anforderungen an forensische Sicherung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Selektive Chat-Auswahl ohne Kontext als irreführend gewertet.
 - DSGVO-Verstoß bei Vorlage von Privatnachrichten — Verwertungsverbot möglich.
 
-## Output
-
-Beweismittelliste digitale Kommunikation, Antrag auf Sachverständigengutachten Authentizität, Prozessstrategie.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 - [§ 371 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__371.html)
 - [DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
 - [Dejure § 416 ZPO](https://dejure.org/gesetze/ZPO/416.html)
+

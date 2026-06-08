@@ -41,9 +41,6 @@ Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder R
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Projekttyp bestimmen:** informelle Planung, Bauleitplanung (FNP/B-Plan) oder Planfeststellung (§ 74 VwVfG)
@@ -126,3 +123,4 @@ Wir beantragen:
 - Abwaegungsgebot (§ 1 VII BauGB, § 74 VwVfG) muss alle Belange erfassen
 - Keine Trassenfestlegung ohne Variantenvergleich
 - Naturschutzrechtliche Eingriffsregelung (§§ 14 ff. BNatSchG) beachten
+

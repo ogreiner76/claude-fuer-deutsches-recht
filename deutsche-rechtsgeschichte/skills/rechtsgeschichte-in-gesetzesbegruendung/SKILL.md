@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegrün
 
 # Rechtsgeschichte in der Gesetzesbegründung
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegründung. Wie historische Normanalyse in Referentenentwuerfe, Begründungen und parlamentarische Materialien korrekt eingebaut wird. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,12 +46,3 @@ Gesetzesbegründungen (Regierungsentwuerfe, Referentenentwuerfe, BT-Drucksachen)
 - GGO: bundesregierung.de für formale Anforderungen
 - BVerfGE: bverfg.de für Nutzung der Gesetzesbegründung
 
-## Output
-
-- Vorlage: Historischer Abschnitt für Referentenentwurf
-- Checkliste: Qualitaetspruefung historische Begruendungsteile
-- Beispiel BT-Drucksache 14/6040: Gut gemachte historische Analyse
-
-## Quellenregel
-
-BT-Drucksachen: bundestag.de. GGO: bundesregierung.de. Mugdan: historische Ausgabe. BVerfGE: bverfg.de. GG Art. 76: gesetze-im-internet.de.

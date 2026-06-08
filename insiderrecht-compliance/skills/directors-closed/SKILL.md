@@ -5,10 +5,6 @@ description: "Prueft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDM
 
 # Directors' Dealings nach Art. 19 MAR
 
-## Arbeitsbereich
-
-Prueft und dokumentiert Eigengeschaefte von Fuehrungskraeften (PDMRs) und nahestehenden Personen nach Art. 19 MAR: Schwellen, Meldefristen, Closed Periods und Ausnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,24 +77,3 @@ Empfehlen (nicht gesetzlich zwingend, aber Best Practice):
 - Schriftliche Freigabe oder Verweigerung mit Begründung
 - Aufbewahrung 5 Jahre
 
-## Red-Team-Fragen
-
-- Sind alle PDMRs und nahestehenden Personen identifiziert und informiert?
-- Wurden alle meldepflichtigen Instrumente (nicht nur Aktien!) erfasst?
-- Wird die 20.000-EUR-Schwelle korrekt auf Jahresbasis kumuliert?
-- Werden Closed Periods rechtzeitig kommuniziert?
-- Werden Pre-Clearance-Entscheidungen schriftlich dokumentiert?
-- Erfolgt die Meldung an BaFin und Emittent binnen 3 Geschäftstagen?
-- Veröffentlicht der Emittent die Meldungen rechtzeitig?
-- Werden Derivate und indirekte Transaktionen (über nahestehende Personen) erfasst?
-
-## Ausgabeformat
-
-Erzeuge:
-1. PDMR-Transaktionsmeldung (DVO 2016/523-konformes Formular)
-2. Closed-Period-Kalender (aktuelles Geschäftsjahr)
-3. Pre-Clearance-Antragsformular
-4. Compliance-Matrix: PDMR × Transaktion × Meldestatus
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org,
-openjur.de.

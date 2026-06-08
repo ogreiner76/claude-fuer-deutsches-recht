@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Lex mercatoria — transnationaler H
 
 # Lex Mercatoria: Geltungsbereich und Grenzen
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Die lex mercatoria-Debatte fragt, ob transnationaler Handel ein autonomes Rechts
 - Schiedssprüche: jusmundi.com, italaw.com für Investment-Kontext
 - Vor staatlichen Gerichten: lex mercatoria nur als Auslegungshilfe, nicht als Statut
 
-## Output
-
-- Übersicht: Goldman / Mustill / Berger Positionen im Vergleich
-- CENTRAL-Prinzipien-Matrix (Top 10 mit Schiedsreferenz)
-- Klauselvorschlag: lex mercatoria als Auffangregel in Schiedsklausel
-
-## Quellenregel
-
-trans-lex.org (CENTRAL), unidroit.org, jusmundi.com, italaw.com. Schrifttum: Berger, Creeping Codification (1999); Mustill, Arbitration International 1987. Unsicherheit bleibt sichtbar.

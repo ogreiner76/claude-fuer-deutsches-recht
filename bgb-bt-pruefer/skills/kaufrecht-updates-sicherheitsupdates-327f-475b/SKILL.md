@@ -5,10 +5,6 @@ description: "Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b B
 
 # Kaufrecht: Updates und Sicherheitsupdates §§ 327f und 475b BGB
 
-## Arbeitsbereich
-
-Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digital
 - **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Zweck
-
-Updatepflichten und Sicherheitsupdateverpflichtungen bei digitalen Produkten (§ 327f BGB) und Ware mit digitalen Elementen (§ 475b BGB) prüfen.
 
 ## Normanker
 
@@ -59,25 +51,13 @@ Updatepflichten und Sicherheitsupdateverpflichtungen bei digitalen Produkten (§
 - Keine separate Vergütung für Pflicht-Sicherheitsupdates gegenüber Verbrauchern zulässig.
 - Nutzeraufforderung zum Update ist Pflicht; Ablehnung durch Nutzer befreit nur bei ordnungsgemäßer Information.
 - DSM-Richtlinie wurde erst 2022 vollständig umgesetzt; altes Recht nur auf Altverträge anwenden.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Update-Pflichten-Matrix (Sicherheits- und Funktionsupdates)
-- Zeitraum-Analyse
-- Mängelrechte bei Update-Pflichtverletzung
-- Vertragsgestaltungsempfehlungen
-
-## Qualitätsregeln
-
-- DSM-Richtlinien-Umsetzungsstand live prüfen.
-- Sicherheits- und Funktionsupdates immer getrennt behandeln.
-- Verbraucher-Abbedingungs-Verbote immer mitprüfen.
 
 ## Anschluss-Skills
 
@@ -91,10 +71,4 @@ Updatepflichten und Sicherheitsupdateverpflichtungen bei digitalen Produkten (§
 - https://www.gesetze-im-internet.de/bgb/__327f.html
 - https://www.gesetze-im-internet.de/bgb/__475b.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

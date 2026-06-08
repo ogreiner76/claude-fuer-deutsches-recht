@@ -54,9 +54,6 @@ Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag we
 - **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** zu Grunderwerbsteuer-Doppelfestsetzung nach § 1 Abs. 2b und § 1 Abs. 3 Nr. 1 GrEStG bei zeitlich getrenntem Signing und Closing eines GmbH-Anteilserwerbs: ernstliche Zweifel an der Rechtmaessigkeit bejaht; Vollziehung ausgesetzt. Volltext ueber BFH-Datenbank.
 - **BFH, Beschluss vom 09.07.2025 — II B 13/25 (AdV)**: Massstab "ernstliche Zweifel" — gegeben, wenn bei summarischer Pruefung neben für die Rechtmaessigkeit sprechenden Umstaenden gewichtige gegen die Rechtmaessigkeit sprechende Gruende zutage treten, die Unsicherheit oder Unentschiedenheit in der rechtlichen oder tatsaechlichen Beurteilung bewirken. Volltext ueber BFH-Datenbank.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -236,3 +233,4 @@ AdV-Antrag beim **Finanzamt** (§ 361 AO): über ELSTER/ERiC, Briefpost oder Tel
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

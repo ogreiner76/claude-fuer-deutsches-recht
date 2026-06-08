@@ -5,9 +5,6 @@ description: "Glaeubigerverhandlung Sanierung IDW S6 Krypto im Insolvenz- und Sa
 
 # Glaeubigerverhandlung Sanierung IDW S6 Krypto
 
-## Arbeitsbereich
-
-**Glaeubigerverhandlung Sanierung IDW S6 Krypto** ordnet den Fall über die tragenden Prüfungslinien: Sanierungs-Verhandlung mit Gläubigern vor und in der, Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau, Prüfungslinie für fachanwalt insolvenz krypto verwertung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Glaeubigerverhandlung Sanierung IDW S6 Krypto im Insolvenz- und Sa
 - Tragende Normen verifizieren: InsO §§ 1, 13-22, 35, 39, 47, 55-56, 60, 80, 87, 129, 133, 174, 175, 270 ff., 286-300, StaRUG §§ 1, 29, 31; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; § 14. InsO Eroeffnung Antragspflicht; § 15a Gläubigerantrag; § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-insolvenz-glaeubigerverhandlung-sanierung`
@@ -40,10 +38,6 @@ description: "Glaeubigerverhandlung Sanierung IDW S6 Krypto im Insolvenz- und Sa
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Insolvenz-Sanierungs-Verhandlungen sind im Wesentlichen **Gläubiger-Management**: persönliche Verhandlungen, Vergleichsvorschläge, Plan-Mehrheiten. StaRUG (seit 1.1.2021) eröffnete neue Verhandlungs-Werkzeuge ohne Insolvenz-Eröffnung.
 
 ## Eingaben
 
@@ -141,15 +135,6 @@ Insolvenz-Sanierungs-Verhandlungen sind im Wesentlichen **Gläubiger-Management*
 - **Insolvenzgeld § 165 SGB III** als Liquiditätsbrücke nutzen
 - **Steuerberater + Anwalt parallel**: stb-warnschreiben → anw-haftungswarn-15a → Sanierung
 
-## Querverweise
-
-- `fachanwalt-insolvenz-sanierungsrecht-orientierung` — Triage
-- `fachanwalt-insolvenz-idw-s6-sanierungskonzept` — Sanierungskonzept und Sanierungsfähigkeit vor Bank- oder Gläubigerverhandlung plausibilisieren
-- `fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren` — Vertiefung
-- `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` — StaRUG-Plan
-- `fachanwalt-insolvenz-krypto-verwertung` — Krypto-Sonderfall
-- `liquiditaetsplanung` — Planungs-Tool
-
 ## Quellen und Updates
 
 Stand: 05/2026. StaRUG 1.1.2021. IDW S 6 / S 11. INSOL-Standards. Bei SanInsKG-Verlängerung 31.12.2026 aktualisieren.
@@ -178,9 +163,6 @@ Bevor losgelegt wird, klaere:
 
 § 18 InsO (drohende ZU) → § 31 StaRUG (Anzeige) → §§ 7-39 StaRUG (Plan) → § 25 StaRUG (Mehrheiten) → § 26 StaRUG (Cramdown) → § 39 Abs. 4 InsO (Sanierungsprivileg) → § 142 InsO (Bargeschaeft) → § 133 InsO (Vorsatzanfechtung) → § 165 SGB III (Insolvenzgeld)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## — 5-Phasen-Glaeubigerverhandlung
 
 1. **Lageanalyse:** Liquiditaetsstatus 3-Wochen und 13-Wochen-Forecast; Fortbestehensprognose § 19 Abs. 2 InsO; Sanierungskonzept auf IDW-S-6-Niveau vorbereiten, wenn Banken, Warenkreditversicherer oder Schluesselglaeubiger mittragen sollen.
@@ -225,12 +207,6 @@ Frist: [DATUM]
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-
-Dieser Skill macht aus einer unsortierten Krisenakte ein anwaltlich belastbares Sanierungskonzept oder prüft ein vorgelegtes Konzept auf Schwachstellen. Er arbeitet pragmatisch: erst Insolvenzreife und Fristen sichern, dann Sanierungsfähigkeit prüfen, dann den richtigen Output für Mandant, Bank, Gläubiger, Gericht oder Investor erstellen.
-
-Der Skill erstellt keine Prüfungsbescheinigung. Er unterstützt die anwaltliche Strukturierung, Plausibilisierung, Dokumentation und Verhandlungsfähigkeit.
 
 ## Einstieg
 
@@ -381,10 +357,6 @@ Formuliere die stärksten Gegenargumente:
 - `fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren` bei Schutzschirm/Eigenverwaltung.
 - `fachanwalt-insolvenz-glaeubigerverhandlung-sanierung` für Banken- und Gläubigerverhandlungen.
 - `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` für Planarchitektur.
-
-## Quellenregel
-
-Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben. Berufsständische Standards methodisch verwenden, aber nicht als Ersatz für Gesetz, Rechtsprechung und Subsumtion.
 
 ## 3. `fachanwalt-insolvenz-krypto-verwertung`
 
@@ -628,10 +600,6 @@ Bevor losgelegt wird, klaere:
 4. **Steuerliche Lage?** BMF-Schreiben 22.11.2024: Jahresfrist § 23 EStG — Haltezeit pruefen; bei Verkauf vor Jahresfrist Steuerpflicht als Masseverbindlichkeit § 55 InsO.
 5. **Verjährung § 146 InsO?** Anfechtungsfristen für Krypto-Transfers laufen ab → sofort Inventur.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 4. `fachanwalt-insolvenz-sanierung-starug-plan`
 
 **Fokus:** StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Voraussetzung drohende Zahlungsunfähigkeit § 18 InsO. Plan-Struktur Gruppen Mehrheiten 75 Prozent je Klasse. Cross-class cramdown. Stabilisierungsanordnung § 49 StaRUG. Restrukturierungsbeauftragter. Anzeige Plan-Aufstellung Abstimmung Bestätigung.
@@ -645,10 +613,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfähigkeit. Kein Insolvenz-Verfahren, kein Insolvenz-Stigma.
 
 ## 1) Eingangs-Abfrage
 
@@ -840,9 +804,6 @@ Bevor losgelegt wird, klaere:
 
 § 29 StaRUG (Restrukturierungssache) → § 31 StaRUG (Anzeige) → §§ 7-39 StaRUG (Plan-Struktur) → § 8 StaRUG (darstellender Teil) → § 9 StaRUG (gestaltender Teil) → § 10 StaRUG (Gruppen) → § 25 StaRUG (Mehrheiten) → § 26 StaRUG (Cramdown) → § 49 StaRUG (Stabilisierung) → §§ 60-66 StaRUG (gerichtliche Bestaetigung)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## — 7 Schritte StaRUG-Restrukturierungsplan
 
 1. **Krisenstadium verifizieren:** 24-Monats-Forecast § 29 Abs. 2 StaRUG; bei ZU § 17 InsO Notfallwechsel → InsO.
@@ -1012,17 +973,3 @@ V. Rechtsfolge
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 - Weitere BGH-Entscheidungen vor Klageeinreichung über dejure.org / openjur.de / bundesgerichtshof.de mit Datum, Aktenzeichen und Randnummer verifizieren.
 
-## Output
-
-| Abschnitt | Status |
-|---|---|
-| Klageantrag | [...] |
-| Sachverhaltstabelle | [...] |
-| Beweismittel | [...] |
-| stärkster Tatbestand | [...] |
-| größtes Prozessrisiko | [...] |
-| Vergleichskorridor | [...] |
-
----
-
-Hinweis: Keine Rechtsberatung. Klageentwurf nur nach Originalprüfung von Gesetz, Akte und aktueller Rechtsprechung verwenden.

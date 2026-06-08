@@ -5,10 +5,6 @@ description: "Digital Services / Digital Services Coordinator DDG: anwaltlicher 
 
 # Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren
 
-## Arbeitsbereich
-
-Digital Services / Digital Services Coordinator DDG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -61,11 +57,6 @@ Steuerung von anwaltlichen Verfahren gegenüber der Bundesnetzagentur in ihrer R
 - VG Köln-Entscheidungen mit Az., Datum, Fundstelle.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Verfahrenslandkarte mit Behördenrollen.
-- Stellungnahme-Schriftsatz (10–30 Seiten je nach Verfahren).
-- Eskalationsplan zur EU-Kommission (für VLOP-relevante Mandate).
-
 ## Beispiele
 - Hosting-Anbieter erhält Auskunftsverlangen nach § 18 DDG. Strategie: zügige Lieferung mit klarem Schutz von Geschäftsgeheimnissen.
 - Online-Plattform wird Untersagung gem. § 19 DDG angedroht wegen fehlender Notice-and-Action-Schnittstelle. Verpflichtungszusagen-Vorschlag nach Art. 73 DSA.
@@ -102,3 +93,4 @@ Zuständigkeit DSC vs. Kommission geklärt? Nationale Behördenbeteiligung berü
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

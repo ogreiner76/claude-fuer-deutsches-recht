@@ -27,9 +27,6 @@ Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, geg
 - § 567 ZPO — sofortige Beschwerde gegen Beschlüsse (Frist 2 Wochen)
 - § 78 ZPO — Anwaltszwang vor LG und OLG
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Entscheidungsart bestimmen:** Urteil (→ Berufung) oder Beschluss (→ sofortige Beschwerde)?
@@ -43,6 +40,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Urteil/Beschluss → Rechtsmittelbelehrung — Tonfall: formal-amtlich
 
 ```
+
 ## Rechtsmittelbelehrung
 
 Gegen dieses Urteil ist die Berufung statthaft.
@@ -84,6 +82,8 @@ Form und Frist:
 ---
 
 <!-- AUDIT 27.05.2026 -->
+
 ## Audit-Hinweis (27.05.2026)
 
 Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.
+

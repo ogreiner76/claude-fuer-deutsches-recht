@@ -5,10 +5,6 @@ description: "Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichk
 
 # Leasing im Sanierungsgutachten (IDW S6)
 
-## Arbeitsbereich
-
-Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Bei der Erstellung eines Sanierungsgutachtens nach IDW S6 spielen Leasingverhältnisse eine wichtige Rolle: Sie sind Off-Balance-Verbindlichkeiten (HGB), On-Balance (IFRS 16) oder Kostenbelastungen. Dieser Skill zeigt, wie Leasing in Sanierungsgutachten zu erfassen, zu bewerten und zu restrukturieren ist.
 
 ## IDW S6: Grundstruktur des Sanierungsgutachtens
 
@@ -115,3 +107,4 @@ Detaillierte Angaben zu RoU, Leasingverbindlichkeiten, Laufzeiten und Cash-Auswi
 - **Cashflow-Leasing**: Zahlungsplan alle Verträge (Rate, Restwert, Fälligkeit)
 - **Sanierungsmaßnahmen-Matrix**: Option – Effekt – Kosten – Zeitplan
 - **IFRS-16-vs-HGB-Vergleich**: Bilanzielle Darstellung im Plan
+

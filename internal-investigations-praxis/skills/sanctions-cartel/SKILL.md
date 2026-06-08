@@ -5,10 +5,6 @@ description: "Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, 
 
 # Sanktionstreffer – Sofortmaßnahmen und Behördenstrategie
 
-## Arbeitsbereich
-
-Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -67,15 +63,6 @@ Dieser Skill definiert die Sofortmaßnahmen nach einem Sanktionstreffer und leit
 - Training: alle relevanten Mitarbeiter.
 - Externe Überprüfung: OFAC Compliance Commitment-Dokument oder EU-Compliance-Programm-Assessment.
 
-## Red-Team-Fragen
-
-- Wurde die Transaktion sofort gestoppt, oder gab es eine Verzögerung durch interne Entscheidungsprozesse?
-- Ist der Treffer ein True Positive? Wurden alle verfügbaren Identifikatoren geprüft?
-- Wurden alle Meldepflichten (EU-Behörde, BAFA, BaFin, OFAC) innerhalb der vorgesehenen Fristen erfüllt?
-- Gibt es historische Transaktionen mit derselben sanktionierten Entität, die eine kumulierte OFAC-Penalty begründen?
-- Hat das Compliance-Team den sanktionierten Kunden vorgewarnt? (Verbotsverstoß!)
-- Ist eine OFAC-Voluntary Disclosure sinnvoll, und wurde die Entscheidung dokumentiert?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -94,3 +81,4 @@ Dieser Skill definiert die Sofortmaßnahmen nach einem Sanktionstreffer und leit
 - **Remediation-Plan** Sanktions-Compliance
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

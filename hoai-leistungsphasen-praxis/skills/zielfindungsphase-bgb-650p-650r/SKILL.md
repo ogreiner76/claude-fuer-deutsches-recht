@@ -17,10 +17,6 @@ HOAI-Fachfrage: Zielfindungsphase nach § 650p Abs. 2 BGB, Planungsgrundlage, Ko
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Anwendungsfall: projektziele, Bedarf, Kosten und Planung noch nicht feststehen oder der Bauherr nach ersten Skizzen aussteigen will.
-
 ## Normanker
 
 - § 650p Abs. 2 BGB: Planungsgrundlage und Kosteneinschätzung, wenn wesentliche Planungs- und Überwachungsziele noch nicht vereinbart sind.
@@ -34,6 +30,3 @@ Anwendungsfall: projektziele, Bedarf, Kosten und Planung noch nicht feststehen o
 4. Belehrung, Frist, Verbraucherrolle und Kündigungszugang prüfen.
 5. Vergütung bis zur Kündigung von nicht abgerufener Weiterplanung trennen.
 
-## Output
-
-Ein Zielfindungsprotokoll mit Mindestunterlagen, Kündigungsfenster, Honorarfolge und Textbausteinen für Bauherr oder Planer.

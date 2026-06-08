@@ -5,10 +5,6 @@ description: "Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – g
 
 # Influencer-Recht: Restaurant, Hotel, Einladung und geldwerter Vorteil
 
-## Arbeitsbereich
-
-Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,3 +72,4 @@ Einladungen zu Restaurants, Hotels und Events sind steuerlich und werberechtzlic
 - Kennzeichnungsampel für Einladungs-Posts
 - EÜR-Buchungsnotiz
 - Bewirtungsbeleg-Vorlage
+

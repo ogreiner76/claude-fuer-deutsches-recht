@@ -5,10 +5,6 @@ description: "Schlichtungsantrag bei der Schlichtungsstelle Reise & Verkehr e.V.
 
 # Schlichtungsstelle Reise & Verkehr e.V. anrufen
 
-## Zweck
-
-Bereitet einen Schlichtungsantrag an die **Schlichtungsstelle Reise & Verkehr e.V.** (vormals söp — Schlichtungsstelle für den öffentlichen Personenverkehr) vor. Die Schlichtung ist der typische Zwischenschritt zwischen Widerspruch und Klage.
-
 ## Schlichtungsstelle Reise & Verkehr e.V.
 
 | Punkt | Wert |
@@ -174,8 +170,3 @@ Anrufung der Schlichtungsstelle **hemmt** die Verjährung gem. § 204 Abs. 1 Nr.
 - Übergabe an `fahrgastrechte-anlagen-bauen` für Anlagen-Bundle.
 - Hinweis auf Verjährungshemmung mit Stichdatum.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

@@ -5,10 +5,6 @@ description: "Fuenf Durchführungswege der betrieblichen Altersversorgung vergle
 
 # Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
 
-## Arbeitsbereich
-
-Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,6 +41,7 @@ Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waeh
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Vorgehen
 
 ### Schritt 1: Bestandsaufnahme und Ausgangslage
@@ -265,3 +262,4 @@ bAV-Projektteam · fachliche Leitung
 - → `governance-und-anpassungsmechanismen` — für Pension Committee und Trustee-Board-Governance
 - → `drei-stufen-theorie-eingriffsanalyse` — bei Umstellung bestehender Zusagen
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — für VO/BV-Templates je Durchführungsweg
+

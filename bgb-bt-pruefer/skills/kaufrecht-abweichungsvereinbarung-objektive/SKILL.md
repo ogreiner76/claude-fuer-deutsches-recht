@@ -10,10 +10,6 @@ description: "Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 4
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Abweichungsvereinbarungen von den objektiven Anforderungen an die Kaufsache nach § 476 BGB beim Verbrauchsgüterkauf prüfen: Voraussetzungen, Transparenz und Zulässigkeit.
-
 ## Normanker
 
 - § 434 BGB: Sachmangel und objektive Anforderungen
@@ -46,25 +42,13 @@ Abweichungsvereinbarungen von den objektiven Anforderungen an die Kaufsache nach
 - Abweichungsvereinbarung muss gesondert und ausdrücklich erfolgen; bloße Erwähnung im Vertrag genügt nicht.
 - Informationspflicht über die Abweichung muss vor Vertragsschluss erfüllt werden.
 - § 477 BGB-Beweislastumkehr bleibt trotz wirksamer Abweichungsvereinbarung bestehen.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Wirksamkeitsprüfung der Abweichungsvereinbarung
-- AGB-Konformitätsprüfung
-- Beweislastmatrix
-- Handlungsempfehlung für Vertragsgestaltung
-
-## Qualitätsregeln
-
-- § 476 BGB gilt nur beim Verbrauchsgüterkauf; B2B-Verträge unterliegen anderen Regeln.
-- Informationspflicht muss vor und nicht erst bei Vertragsschluss erfüllt sein.
-- Niemals pauschale Gewährleistungsausschlüsse beim Verbrauchsgüterkauf empfehlen.
 
 ## Anschluss-Skills
 
@@ -78,10 +62,4 @@ Abweichungsvereinbarungen von den objektiven Anforderungen an die Kaufsache nach
 - https://www.gesetze-im-internet.de/bgb/__476.html
 - https://www.gesetze-im-internet.de/bgb/__434.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

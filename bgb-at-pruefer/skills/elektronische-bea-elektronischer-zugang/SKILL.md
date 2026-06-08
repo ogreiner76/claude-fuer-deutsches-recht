@@ -5,10 +5,6 @@ description: "Elektronische Form Bea Qes Formfiktion: ordnet Normen, Nutzerangab
 
 # Elektronische Form BeA QES Formfiktion
 
-## Arbeitsbereich
-
-Elektronische Form Bea Qes Formfiktion: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Elektronische Form Bea Qes Formfiktion: ordnet Normen, Nutzerangaben, Fristen, B
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill bearbeitet BGB AT, Schriftform und elektronischen Rechtsverkehr. Er prüft, ob eine empfangsbedürftige Willenserklärung, die Schriftform oder elektronische Form verlangt, durch qES, beA-Einreichung, gerichtliche Zustellung oder die neue Formfiktion formwirksam zugegangen ist.
 
 ## Normanker
 
@@ -86,14 +78,6 @@ Ein aus dem eigenen beA versandter und einfach signierter Schriftsatz kann § 13
 - Risikoliste zu Vollmacht, § 174 BGB, Klarerkennbarkeit, Zustellung und Beweis
 - konkrete Empfehlung: Papieroriginal, qES-Direktversand, beA-Schriftsatz mit Formfiktion oder Neuerklärung
 
-## Qualitätsregeln
-
-- Immer zwischen prozessualer Einreichungsform und materieller Form der Willenserklärung trennen.
-- beA-sicherer Übermittlungsweg ist nicht dasselbe wie qualifizierte elektronische Signatur.
-- Zugang ist bei empfangsbedürftigen Erklärungen ein eigenes Tatbestandsmerkmal.
-- § 130e ZPO und § 46h ArbGG erst ab ihrem Inkrafttreten anwenden.
-- Keine Parallelvorschrift in anderen Prozessordnungen erfinden.
-
 ## Anschluss-Skills
 
 - formnichtigkeit-paragraphen-125-129
@@ -103,3 +87,4 @@ Ein aus dem eigenen beA versandter und einfach signierter Schriftsatz kann § 13
 - schriftform-und-textform-bgb: elektronische-form-paragraph-126a-bgb-qes
 - schriftform-und-textform-bgb: kuendigung-per-schriftsatz-zustellung-formfragen
 - prozessrecht
+

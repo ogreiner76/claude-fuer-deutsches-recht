@@ -5,10 +5,6 @@ description: "Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Un
 
 # ABC/Compliance DD
 
-## Arbeitsbereich
-
-Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Untersuchungen und Compliance-Risiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,12 +32,6 @@ StGB, OWiG, HinSchG, GwG, Sanktionen, Lieferkette.
 3. Rechtsrahmen, wirtschaftlichen Hebel und Entscheidungspunkt trennen.
 4. Risikopunkte nach Deal Value, Closing-Fähigkeit, Haftung und Verhandlungshebel priorisieren.
 5. Verwertbaren Output erzeugen und offene Annahmen sichtbar markieren.
-
-## Output
-
-- Kurz-Memo mit Ergebnis, Annahmen und nächstem Schritt.
-- Issues List oder Checkliste mit Owner, Frist, Beleg und Risikoampel.
-- Bei Entwurfsaufgaben: erster Draft mit Platzhaltern für fehlende Informationen.
 
 ## Qualitätsgate
 

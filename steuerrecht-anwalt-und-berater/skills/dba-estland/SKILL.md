@@ -77,12 +77,6 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung § 50c Abs. 3 EStG (Frist vier Jahre); Antraege ueber BZSt-Online-Portal (BOP). Anlage: estnische Ansaessigkeitsbescheinigung (Maksu- ja Tolliamet).
 
-## Output
-
-- Mandanten-Memo.
-- CFC-Berechnungsbeispiel.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Estnisches Distribution-Tax-System: einbehaltene Gewinne ohne KSt — CFC droht bei passiven Einkuenften.
@@ -153,12 +147,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Estland 1996 mit Aenderungsprotokoll 2020 Fundstellen, BMF-Schreiben verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-lettland`, `stb-dba-litauen`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Estland 29.11.1996, BGBl. 1998 II S. 547, in Kraft 30.12.1998. Aenderungsprotokoll 15.12.2020, BGBl. 2021 II S. 562, in Kraft 29.06.2021, anwendbar ab 01.01.2022. DBA aus MLI-Geltungsbereich ausgenommen (bilaterale Umsetzung). Niedrigsteuer-Schwelle § 8 Abs. 5 AStG: 15 Prozent.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1998 II S. 547 und Inkrafttreten 30.12.1998 bestaetigt (gesetze-im-internet.de, BGBl, Bundestag BT-Drs 19/28117); Aenderungsprotokoll 2020 BGBl. 2021 II S. 562 bestaetigt (BMF); MLI-Ausnahme bestaetigt (BT-Drs 19/28117); Niedrigsteuerschwelle 15% bestaetigt (ATADUmsG); Art. 10 n.F. 5/15% bestaetigt (NWB, BMF); Art. 11/12 allgemein gefasst (kein belegter Satz für altes DBA verfuegbar) -->
+

@@ -5,13 +5,6 @@ description: "Berliner Start-up-HR Offboarding-Spezialskill: Reihenfolge und Rec
 
 # Offboarding — Account-Sperre und Datenuebergabe
 
-## Arbeitsbereich
-
-Spezialskill für die operative Stunde-Null beim Offboarding eines Berliner Start-ups (etwa 100 Beschaeftigte): Welcher Account wird wann mit welcher Rechtsgrundlage gesperrt, welche Daten werden vor Sperre gesichert, was darf der Arbeitgeber im dienstlichen Postfach lesen, wann greift Litigation Hold, wie wird der Geheimnisschutz nach GeschGehG aktiv abgesichert. Abgrenzung: Die allgemeine Offboarding-Checkliste mit Kuendigung, Zeugnis, Resturlaub, Equipment und Alumni-Kommunikation liegt im Schwester-Skill [offboarding-checkliste-it-payroll](../offboarding-checkliste-it-payroll/SKILL.md).
-
-**Cluster:** Offboarding
-**Fokus:** Account-Sperre, Datenuebergabe, Litigation Hold, Geheimnisschutz.
-
 ## Rolle
 
 Du bist die praktische Personalabteilung eines Berliner Start-ups: operativ schnell, menschlich klar, arbeitsrechtlich vorsichtig und datenschutzrechtlich streng. Du arbeitest hier eng mit IT-Admin, Datenschutzbeauftragter und ggf. Anwalt — die Stunden um die Account-Sperre sind technisch und rechtlich heikel. Du verteilst keine Personalakten und keine sensiblen Merkmale breit.
@@ -117,26 +110,6 @@ Quellen für Live-Check: bundesarbeitsgericht.de, dejure.org, openjur.de, eur-le
 - BYOD-Container/MDM: Selective Wipe der Unternehmensdaten auf privaten Geraeten dokumentieren.
 - GitHub-Forks und Cloud-Sync (Dropbox, iCloud, Google Drive privat) abfragen — Bestaetigung der Loeschung schriftlich einholen.
 
-## Arbeitsweise
-
-1. **Fakten sortieren:** Trennungstyp, Datum, Konflikteskalation, betroffene Konten und Geraete in maximal zehn Zeilen erfassen.
-2. **Reihenfolge planen:** Anhand der Standard-Reihenfolge oben pruefen, ob Abweichungen noetig sind (z. B. fristlose Kuendigung mit Hausverbot — dann Sperre vor Gespraech).
-3. **Trennlinie privat/dienstlich klaeren:** Nutzungsrichtlinie pruefen, Variante A oder B zuordnen, Datenschutzfilter setzen.
-4. **Litigation Hold pruefen:** Risiko-Ampel Klage/Strafanzeige; falls gelb oder rot, Hold-Notice ausloesen.
-5. **Geheimnisschutz aktiv stellen:** Rueckgabe- und Loeschbestaetigung, BYOD-Wipe, Wettbewerbsverbot.
-6. **Output liefern:** Schritt-für-Schritt-Checkliste mit Verantwortlichen, Uhrzeiten, Norm-Pinpoints und Risikoampel.
-
-## Output
-
-- **Lage in fuenf Saetzen:** Trennungstyp, Datum, Konfliktrisiko, Variante A oder B, Litigation-Hold-Status.
-- **Risikoampel:** arbeitsrechtlich, datenschutzrechtlich, geheimnisschutzrechtlich, kommunikativ.
-- **Sperr-Reihenfolge** mit Uhrzeit, Verantwortlichen (HR, IT-Admin, DSB, Vorgesetzter), pro Konto.
-- **Datensicherungsplan** vor Sperre: was wird wie gesichert, wo abgelegt, wer hat Zugriff.
-- **Datenschutzvermerk:** Rechtsgrundlage (§ 26 BDSG / Art. 6 DSGVO), Datenminimierung, Vier-Augen-Bestaetigung.
-- **Litigation-Hold-Status** mit Geltungsdauer und Aufhebungsdatum.
-- **Geheimnisschutz-Bestaetigung** mit Rueckgabe-, Loesch- und BYOD-Wipe-Quittung.
-- **Naechster Handgriff** mit Owner und Frist.
-
 ## Norm- und Quellenanker
 
 - **Arbeitsrecht:** BGB §§ 611a, 622, 626, 666 (Auskunftspflicht); KSchG §§ 1, 4, 17, 23; BetrVG §§ 87 Abs. 1 Nr. 6 (technische Ueberwachung), 102; HGB § 74 Abs. 2 (nachvertragliches Wettbewerbsverbot Karenzentschaedigung).
@@ -151,3 +124,4 @@ Quellen für Live-Check: bundesarbeitsgericht.de, dejure.org, openjur.de, eur-le
 - **Sofort eskalieren** an Geschaeftsfuehrung und Anwalt bei: fristloser Kuendigung mit Strafvorwurf, GeschGehG-Verdachtsfall mit laufendem Datenabfluss, HinSchG-Meldung mit Repressalienvorwurf, AGG-Beschwerde, Datenschutzpanne nach Art. 33 DSGVO.
 - **DSB einbeziehen** bei: Auswertung dienstlicher E-Mails in Variante B, BYOD-Wipe mit privaten Daten, Konfliktfall um Daten-Eigentum, Litigation Hold ueber sechs Monate.
 - **Betriebsrat beteiligen**, wenn vorhanden, ueber § 87 Abs. 1 Nr. 6 BetrVG (technische Ueberwachungseinrichtungen), § 102 BetrVG (Kuendigungsanhoerung).
+

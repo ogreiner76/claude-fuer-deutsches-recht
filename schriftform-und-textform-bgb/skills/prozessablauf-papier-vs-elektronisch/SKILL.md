@@ -5,10 +5,6 @@ description: "Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schr
 
 # Prozessablauf — Papier vs. Elektronisch
 
-## Arbeitsbereich
-
-Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, § 130e ZPO, § 46h ArbGG, Textform per E-Mail, Zustellung und Beweisarchitektur. Output: konkrete Prozessabläufe und Entscheidungsmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -39,9 +35,6 @@ Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder F
 ## Rechtsprechung
 Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - §§ 126-126b BGB — Formvorschriften
@@ -225,9 +218,3 @@ von [Name Überbringer] folgendes Dokument erhalten zu haben:
 - **Schriftsatzkündigung vor 17.07.2024**: Alt-Fälle dürfen nicht vorschnell nach § 130e ZPO gelöst werden. Dort bleibt die BGH-Linie zum prüfbaren qES-Zugang maßgeblich.
 - **WhatsApp-Geräteaustausch**: Nach Gerätewechsel können WhatsApp-Nachrichten verloren gehen, wenn kein Backup aktiviert war. Für Beweiszwecke: Screenshots und Chat-Export sofort nach der Erklärung sichern.
 
-## Querverweise
-
-- → `dokumentations-und-beweisarchitektur`
-- → `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`
-- → `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`
-- → `form-checker-für-vertrag-oder-willenserklaerung`

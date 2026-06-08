@@ -9,7 +9,6 @@ description: "Output-Wahl für Mandantenanfragen-Assistent: stimmt Adressat (Man
 
 Diese Output-Weiche für **Mandantenanfragen Assistent** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `anfrage-eingang-parser` — Anfrage Eingang Parser
@@ -36,12 +35,9 @@ Diese Output-Weiche für **Mandantenanfragen Assistent** entscheidet, ob Memo, A
 - Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
 - Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Output
-
-Format-Wahl mit kurzer Begründung, einer Alternative und fertigem Bausteinen; bei Mandantenanfragen-Assistent sofort: Antwortentwurf oder Empfangsbestätigung.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

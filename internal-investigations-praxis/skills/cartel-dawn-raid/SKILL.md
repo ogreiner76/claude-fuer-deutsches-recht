@@ -5,10 +5,6 @@ description: "Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder 
 
 # Kartell-Dawn-Raid und Leniency
 
-## Arbeitsbereich
-
-Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -70,15 +66,6 @@ Dieser Skill stellt das korrekte Verhalten bei Kartell-Nachprüfungen sicher, sc
 - Compliance-Programm als strafmildernder Faktor.
 - Remediation-Maßnahmen dokumentieren für Bußgeldbemessung.
 
-## Red-Team-Fragen
-
-- Wurde die Kronzeugen-Option bereits vor dem Raid analysiert und eine Entscheidung getroffen?
-- Haben Beamte Zugang zu Anwaltsdokumenten gehabt, ohne dass Widerspruch eingelegt wurde?
-- Gibt es parallele Ermittlungen in anderen Ländern, und ist die Kronzeugenstrategie koordiniert?
-- Hat das Unternehmen die Nachprüfung vollständig protokolliert?
-- Wurden private Schadensersatzklagen nach dem Bußgeldbescheid antizipiert?
-- Wurden alle betroffenen Mitarbeiter über ihre Rechte und Pflichten informiert?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -98,3 +85,4 @@ Dieser Skill stellt das korrekte Verhalten bei Kartell-Nachprüfungen sicher, sc
 - **Settlement-Entscheidungsmatrix**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

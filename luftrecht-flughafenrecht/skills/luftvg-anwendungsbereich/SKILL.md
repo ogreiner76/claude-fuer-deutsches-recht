@@ -5,10 +5,6 @@ description: "Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf
 
 # LuftVG Anwendungsbereich – Normanwendbarkeit im Einzelfall
 
-## Arbeitsbereich
-
-Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf Privatgelände auslaendische Airline auf deutschem Flughafen. Prueft §§ 1 und 6 LuftVG Hoheitsgebiet/Luftfahrzeugbegriff Chicagoer Abkommen Art. 1 sowie EASA Basic Regulation Anwendungsausnahmen und liefert Normanwendbarkeits-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,10 +55,6 @@ Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf Privatgeländ
 - Staatsluftfahrzeug-Ausnahme auf kommerzielle Charter ausgedehnt.
 - Transitflug als volle LBA-Genehmigungspflicht eingestuft obwohl Art. 5 Chicagoer Abkommen gilt.
 
-## Output
-
-Normanwendbarkeits-Vermerk (1 Seite) mit Subsumtionsschema. Kollisionstabelle LuftVG vs. EASA-Recht vs. Chicagoer Abkommen.
-
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -93,3 +85,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 ### Weitere Praxishinweise
 
 - Anwendungsbereich des LuftVG stets zuerst prüfen bevor andere Normen herangezogen werden.
+

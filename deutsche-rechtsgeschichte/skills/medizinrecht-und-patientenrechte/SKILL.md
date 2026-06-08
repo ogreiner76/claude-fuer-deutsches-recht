@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Medizinrecht und Patientenrechte. Aerzt
 
 # Medizinrecht und Patientenrechte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Medizinrecht und Patientenrechte. Aerztliche Aufklaerungspflicht (RG-Rspr. 1894), Nuerenberger Kodex 1947, Patientenrechtegesetz 2013 und Sterbehilfe-Diskussion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das Medizinrecht hat sich im 20. Jh. aus dem allgemeinen Zivilrecht entwickelt. 
 - BVerfGE 153, 182: bverfg.de vollstaendig lesen
 - AMG: gesetze-im-internet.de
 
-## Output
-
-- Zeitleiste Patientenrechte: 1894-2020
-- BGB §§ 630a-630h: Kernansprueche des Patienten
-- BVerfGE 153, 182 Sterbehilfe: Kernaussagen
-
-## Quellenregel
-
-BGB: gesetze-im-internet.de. BVerfGE 153, 182: bverfg.de. RGZ 39, 127: historische RG-Sammlung. AMG: gesetze-im-internet.de. Nuernberger Kodex: BMJ-Publikation oder historische Quellen.

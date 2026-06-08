@@ -54,10 +54,6 @@ description: "Prüft den methodisch korrekten Umgang mit empirischen Quellen in 
 - Die Übertragbarkeit von Laborbefunden auf die Lebenswirklichkeit wird unkritisch angenommen.
 - Empirische Befunde werden als normative Argumente ausgegeben, ohne die rechtliche Relevanzschwelle zu prüfen.
 
-## Output
-
-Das Skill liefert eine Quellenkritik-Analyse: methodische Bewertung der empirischen Quelle, Einordnung des Befunds nach Beweiskraft (gesichert, wahrscheinlich, tendenziell), Einschätzung der rechtlichen Verwendbarkeit und Formulierungsvorschlag für die juristische Argumentation. Geeignet als Gutachtenbestandteil oder Schriftsatzanlage.
-
 ## Vertiefung: Kausalitätsstandards im Zivilrecht
 
 Das Zivilrecht verwendet unterschiedliche Kausalitätsstandards je nach Kontext: Die Äquivalenztheorie (conditio-sine-qua-non), die Adäquanztheorie und die Schutzzwecktheorie führen zu unterschiedlichen Ergebnissen. Empirische Befunde müssen stets in den Kontext des relevanten Kausalitätsstandards gesetzt werden, um rechtlich verwertbar zu sein. Ein statistischer Zusammenhang allein genügt nicht.
@@ -83,3 +79,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 199 BGB – Beginn der Verjährungsfrist](https://dejure.org/gesetze/BGB/199.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

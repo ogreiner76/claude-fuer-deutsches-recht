@@ -110,14 +110,6 @@ Fragen zum Einstieg:
 - **Insolvenzanfechtung**: Wenn Globalzession erst nach Anfechtungszeitraum (3 Monate vor Insolvenzantrag, § 130 InsO) bestellt wurde, droht Anfechtung; bei Forderungen aus Bargeschäft (§ 142 InsO) Schutz.
 - **Sub-Faktoring**: Wenn ein Factor seinerseits Forderungen weiter abtritt (Refactoring an Investor), gelten die Bestimmbarkeitsregeln neu.
 
-## Querverweise
-
-- `abtretungsverbot-354a-hgb-handelsgeschaeft`
-- `doppelabtretung-prioritaet-und-gutglaubensprobleme`
-- `globalzession-verlaengerte-eigentumsvorbehalte-prioritaetskonfli`
-- `debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb`
-- `drittschuldneranzeige-und-stille-zession`
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 398 bis 412, insbesondere § 399 (Abtretungsverbot) und § 404 (Einwendungen).

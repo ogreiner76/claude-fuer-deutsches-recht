@@ -5,10 +5,6 @@ description: "Receptum nautarum cauponum stabulariorum: praetorische Schaerfung 
 
 # Rom 126 Receptum Nautarum Cauponum Stabulariorum
 
-## Arbeitsbereich
-
-Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern für eingebrachtes Gut. Skill behandelt die receptum-Erklaerung die Haftungsgrundlage als custodia und das Verhaeltnis zur actio depositi. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung vo
 - Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für die strenge praetorische Schaerfung der Haftung der nautae cauponum stabulariorum.
 
 ## Rechtsquelle
 
@@ -54,7 +46,3 @@ Skill für die strenge praetorische Schaerfung der Haftung der nautae cauponum s
 3. Schaden eingetreten?
 4. Vis maior gegeben?
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.

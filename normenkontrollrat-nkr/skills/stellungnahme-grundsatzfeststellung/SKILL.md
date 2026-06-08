@@ -100,17 +100,10 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 - Position zur Ausgestaltung in der Grundsatzfeststellung versteckt
 - Zu lang (mehr als 5 Saetze)
 
-## Querverweise
-
-- `nkr-stellungnahme-aufbau-und-format`
-- `nkr-stellungnahme-ergebnis-und-empfehlung`
-- `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
-- `nkr-stellungnahme-mahnender-charakter-grenzen`
-- `legistik-werkstatt/spezial-normtext-begruendung-und-synopse`
-
 ## Quellen Stand 06/2026
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 6
 - §§ 45, 62 GGO
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe) — Mustertexte und Praxisbeispiele
 - Live verifizieren ueber [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

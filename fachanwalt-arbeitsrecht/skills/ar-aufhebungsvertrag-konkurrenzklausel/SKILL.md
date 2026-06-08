@@ -5,9 +5,6 @@ description: "AR Aufhebungsvertrag Konkurrenzklausel im Plugin Fachanwalt Arbeit
 
 # AR Aufhebungsvertrag Konkurrenzklausel
 
-## Arbeitsbereich
-
-**AR Aufhebungsvertrag Konkurrenzklausel** ordnet den Fall über die tragenden Prüfungslinien: Aufhebungsvertrag in der Praxis, Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog, Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "AR Aufhebungsvertrag Konkurrenzklausel im Plugin Fachanwalt Arbeit
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `ar-aufhebungsvertrag-praxis`
@@ -38,9 +36,6 @@ description: "AR Aufhebungsvertrag Konkurrenzklausel im Plugin Fachanwalt Arbeit
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vollständige anwaltliche Begleitung beim Aufhebungsvertrag — von der Erstprüfung über die Verhandlung bis zur Unterzeichnung. Kritische Weichen: Sperrzeitrisiko, Klageverzichtswert, AGB-Kontrolle der Klauseln und steuerliche Gestaltung.
 
 ## Einstieg
 Wenn Vertragsentwurf vorliegt, diesen zuerst auswerten. Minimalfragen für die erste Weiche:
@@ -122,12 +117,6 @@ Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist n
 - `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` für Verhandlungsstrategie im Gütermin
 - `spezial-freistellungsklausel-sonderfall-und-edge-case` für Klauselprüfung
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine BeckRS-, juris-, Kommentar- oder Handbuch-Blindzitate aus Modellwissen.
-- Steuerliche Aussagen als Hinweis kennzeichnen; steuerliche Beratung bleibt dem Steuerberater vorbehalten.
-- Annahmen explizit markieren; keine erfundenen BA-Dienstanweisungen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung oder steuerliche Beratung.
 - Keine Festlegung ohne ausdrückliche Mandantenentscheidung.
@@ -146,9 +135,6 @@ Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist n
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Vollständige Prüfung nachvertraglicher Wettbewerbsverbote — von der Klauselwirksamkeit über die Karenzentschädigungsberechnung bis zur Verteidigungsstrategie bei behauptetem Verstoß.
 
 ## Einstieg
 Wenn Vertragsklausel vorliegt, diese zuerst auswerten. Minimalfragen:
@@ -244,11 +230,6 @@ Klauseln mit Vertragsstrafe unterliegen § 307 BGB. Unangemessen hoch → Reduzi
 - `spezial-freistellungsklausel-sonderfall-und-edge-case` für Freistellungsklausel und AGB-Prüfung
 - `workflow-redteam-qualitygate` für kritische Klauselprüfung
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate.
-- Annahmen explizit kennzeichnen; keine erfundenen BAG-Aktenzeichen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für vollständige Mandantenberatung.
 - Keine individuelle Steuerberatung zur Versteuerung der Karenzentschädigung.
@@ -267,10 +248,6 @@ Klauseln mit Vertragsstrafe unterliegen § 307 BGB. Unangemessen hoch → Reduzi
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch die Bundesagentur für Arbeit erleidet (§ 159 SGB III).
 
 ## 1) Eingangs-Abfrage
 
@@ -426,6 +403,3 @@ Der vorliegende Entwurf entspricht den gesetzlichen Mindestanforderungen zur Spe
 - § 34 EStG — Fünftel-Regelung
 - § 138 BGB — Sittenwidrigkeit; § 123 BGB — Anfechtung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

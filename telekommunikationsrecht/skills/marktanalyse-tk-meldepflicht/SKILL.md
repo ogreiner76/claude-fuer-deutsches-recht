@@ -5,10 +5,6 @@ description: "Marktanalyse, Marktdefinition, SMP/beträchtliche Marktmacht, Kons
 
 # Marktanalyse und beträchtliche Marktmacht
 
-## Arbeitsbereich
-
-Marktanalyse, Marktdefinition, SMP/beträchtliche Marktmacht, Konsultation, EU-Abstimmung und Regulierungsverfügung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Marktanalyse, Marktdefinition, SMP/beträchtliche Marktmacht, Konsultation, EU-A
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für regulierte Märkte, in denen Zugang/Entgelt nur nach Marktmachtanalyse angeordnet werden kann.
-
 ## Norm- und Quellenanker
 
 TKG Marktregulierung; EECC; BNetzA/BEREC/EU-Kommission live prüfen.
-
-## Arbeitsfragen
-
-1. Welcher relevante Markt ist betroffen?
-2. Welche Marktanteile, Kontrolle über Infrastruktur und Wettbewerbsparameter liegen vor?
-3. Welche Konsultation/Notifizierung läuft?
-
-## Output
-
-Marktanalyse-Memo und Stellungnahme.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Marktanalyse-Memo und Stellungnahme.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

@@ -61,14 +61,6 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 > Wir setzen Ihnen eine angemessene Frist zur Nachbesserung bis [Datum]. Nach fruchtlosem Ablauf behalten wir uns Ersatzvornahme, Minderung und Schadensersatz vor (§§ 634, 637 BGB).
 > Bitte bestätigen Sie den Nachbesserungstermin bis [Datum].
 
-## Output
-
-- Maßnahmensteckbrief (Ist/Ziel, Variantenvergleich, GEG-Konformität)
-- Beschluss- oder Eilentscheidungsbedarf
-- Gutachter-/Handwerkerfragen
-- Mängelrüge / Fristsetzung
-- Eigentümerinformation (Risikoampel, Kostenrahmen, Finanzierung)
-
 ## Cross-Refs
 
 - Beschluss / Sonderumlage → `beschlussvorlagen-erstellen`, `hausgeld-sonderumlage-liquiditaet`
@@ -80,10 +72,3 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 
 `rechtsstand-mai-2026-faktenbank` laden. § 19 WEG: https://www.gesetze-im-internet.de/woeigg/__19.html ; § 20 WEG: https://www.gesetze-im-internet.de/woeigg/__20.html ; § 71 GEG: https://www.gesetze-im-internet.de/geg/__71.html .
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

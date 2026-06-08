@@ -5,9 +5,6 @@ description: "E Mobilitaet Eigentuemerkommunikation im Plugin Weg Hausverwaltung
 
 # E Mobilitaet Eigentuemerkommunikation
 
-## Arbeitsbereich
-
-**E Mobilitaet Eigentuemerkommunikation** ordnet den Fall über die tragenden Prüfungslinien: Prüft E-Mobilität, Wallboxen, Ladeinfrastruktur. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "E Mobilitaet Eigentuemerkommunikation im Plugin Weg Hausverwaltung
 - Tragende Normen verifizieren: WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `e-mobilitaet-steckersolar-kellerstrom`
@@ -76,14 +74,6 @@ Die Gemeinschaft stellt klar, dass provisorische Stromführungen aus Kellerabtei
 - Netzkapazität und Brandschutz werden nicht geprüft.
 - Kosten- und Rückbaupflicht fehlen.
 - Gemeinschaftliches Dach wird für Einzel-PV ohne Beschluss genutzt.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `eigentuemerkommunikation-beschwerde`
 
@@ -156,14 +146,6 @@ Antworten, die freundlich, verbindlich und beweissicher sind, ohne falsche Recht
 > Umsetzung: [Zuständig, Frist, Folgekommunikation].
 > Hinweis Anfechtungsfristen (§ 45 WEG): 1 Monat Klage, 2 Monate Begründung; bei Zustellungsverzug bitte spätestens binnen Jahresfrist beim Gericht den Sachstand erfragen (BGH V ZR 17/24 vom 25.10.2024).
 
-## Output
-
-- Kurzantwort
-- ausführliche Verwalterantwort
-- Beiratsupdate
-- Eskalationsmail an Anwalt
-- Eigentümerinfo nach Beschluss
-
 ## Cross-Refs
 
 - Beschwerde mit Störungsbezug → `stoerung-hausordnung-mieter-eigentuemer`
@@ -174,14 +156,6 @@ Antworten, die freundlich, verbindlich und beweissicher sind, ohne falsche Recht
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Rechtliche Aussagen nur mit offen prüfbarer Quelle und Stand-Hinweis.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `eigentuemerversammlung-vorbereiten`
 
@@ -243,14 +217,6 @@ Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereit
 - **Jahresabrechnung**: TOP klar als "Abrechnungsspitzen" (Nachschüsse, Vorschussanpassung) formulieren — BGH, Urteil vom 19.07.2024, V ZR 102/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23).
 - **Schlüsseländerung**: sachlicher Grund in Begründungstext aufnehmen — BGH, Urteile vom 14.02.2025, V ZR 236/23 und V ZR 128/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+236/23 ; https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23).
 
-## Output
-
-- Versammlungsfahrplan (Termine, Zuständigkeiten, To-dos)
-- Tagesordnungsentwurf mit Beschluss-/Infopunkt-Kennzeichnung
-- Unterlagenliste
-- Beschlussreife-Ampel
-- Nachbereitungsplan (Protokoll, Beschlusssammlung, Umsetzung)
-
 ## Cross-Refs
 
 - Einladung und Fristen → `einladung-tagesordnung-fristen`
@@ -262,10 +228,3 @@ Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereit
 
 `rechtsstand-mai-2026-faktenbank` laden. § 23, § 24, § 25 WEG: https://www.gesetze-im-internet.de/woeigg/__23.html, https://www.gesetze-im-internet.de/woeigg/__24.html, https://www.gesetze-im-internet.de/woeigg/__25.html .
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -17,14 +17,6 @@ description: "Export der Rulemap aus dem Builder; Integration in Fachverfahren; 
 
 Der Rulemap Builder exportiert ausfuehrbare Modelle; sie werden ueber die Rulemapping Automation Platform an Fachverfahren angebunden. Juristisch zu klaeren sind: Rechtsgrundlage der Datenverarbeitung; Registerzugriffe; Auftragsverarbeitung; Loeschkonzept; Protokollierung.
 
-## Vorgehen
-
-1. Export-Format und Versionsstand festhalten
-2. Schnittstellenvertrag mit Vollzugs-IT abschliessen
-3. Datenschutz-Folgenabschaetzung beim Bedarf (Art. 35 DSGVO)
-4. Auftragsverarbeitung und Hosting klaeren
-5. Inbetriebnahme dokumentieren und der Aufsicht melden
-
 ## Pruefpunkte
 
 Pruefen: Zuständigkeitsverteilung Norm und IT; Folgepflichten aus DSGVO; Anschluss an Bundes-IT-Standards (z.B. BSI-Vorgaben; OZG-Vorgaben).
@@ -44,17 +36,7 @@ Arbeitsfokus: **Export und Integration in Vollzugs-IT**. Prüfe diese Anker am S
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-```
-Skill: legw-rmap-export-und-systemintegration
-Thema: Export und Integration in Vollzugs-IT
-Ergebnis: <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills: siehe Description-Verweise
-```
 
 ## Abgrenzung
 
@@ -63,3 +45,4 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 ## Quellen Stand 06/2026
 
 Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
+

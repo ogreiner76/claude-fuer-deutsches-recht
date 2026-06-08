@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Antidumping-Recht nach WTO-Antidumpi
 
 # Antidumping und Ausgleichszölle
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Antidumping-Recht nach WTO-Antidumping-Abkommen (ADA) und EU-Anti-Dumping-Grundverordnung (EU) 2016/1036. Dumping-Marge, Schadenstest, Unioninteresse, vorläufige/endgültige Maßnahmen und Umgehungsverfahren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,16 +48,6 @@ Antidumping-Maßnahmen (AD) und Ausgleichszölle (AS, countervailing duties) sin
 - Schadensprüfung: Marktanteil, Preisunterbietung, Rentabilität EU-Wirtschaftszweig
 - Unternehmensstrategie: Fragebogen-Mitarbeit, Unternehmensspezifische Marge
 - Umgehungsplanung: frühzeitig AD-Berater einschalten
-
-## Output
-
-- Dumping-Marge-Berechnungsschema
-- AD-Verfahrens-Zeitstrahl (Einleitung bis Endmaßnahme ~15 Monate)
-- Unternehmens-Strategie bei laufendem AD-Verfahren
-
-## Quellenregel
-
-WTO ADA: wto.org. EU-AD-GVO (EU) 2016/1036: eur-lex.europa.eu. EuG: curia.europa.eu. Schrifttum: Vermulst, EU Anti-Dumping Law and Practice (2. Aufl. 2010). Unsicherheit bleibt sichtbar.
 
 ## Normen und Rechtsprechung
 

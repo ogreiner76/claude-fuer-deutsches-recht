@@ -5,10 +5,6 @@ description: "Skill zur Versetzung des Beamten gegen seinen Willen nach § 28 BB
 
 # Versetzung gegen den Willen § 28 BBG
 
-## Arbeitsbereich
-
-Skill zur Versetzung des Beamten gegen seinen Willen nach § 28 BBG bzw. § 15 BeamtStG i.V.m. Landesrecht. Klaert die Voraussetzungen dienstliche Belange Anhörung Beruecksichtigung der persönlichen Verhaeltnisse und das Verhaeltnis zur Abordnung und Umsetzung. Behandelt typische Konstellationen wie Versetzung von Bund zu Land Versetzung in andere Behörde mit groesserer Entfernung Versetzung zur Vermeidung von Mobbingsituationen. Liefert Pruefraster und Schriftsatzbausteine für Widerspruch und Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,3 +65,4 @@ Skill für Beamte, denen eine Versetzung in eine andere Behörde oder in ein and
 ## 7. Beispiel (Kurzfassung)
 
 Mandantin Behördenmitarbeiterin in Bonn, soll nach Berlin versetzt werden; pflegebedürftige Mutter und schulpflichtige Tochter. Skill liefert Anhörungsantwort mit Geltendmachung persönlicher Belange und Argumente für Umsetzung statt Versetzung.
+

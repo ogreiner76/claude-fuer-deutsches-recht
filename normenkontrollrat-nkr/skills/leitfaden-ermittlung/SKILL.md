@@ -5,10 +5,6 @@ description: "Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und D
 
 # NKR-Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands
 
-## Arbeitsbereich
-
-Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Checkliste Pflicht-Bezugnahme in jeder NKR-Stellungnahme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -102,14 +98,6 @@ In jeder NKR-Stellungnahme sollte am Beginn der methodischen Bewertung ein Satz 
 - Digitalcheck nicht durchgefuehrt
 - Evaluierungsklausel fehlt
 
-## Querverweise
-
-- `nkr-erfuellungsaufwand-grundbegriff`
-- `nkr-standardkostenmodell-skm`
-- `nkr-zeitwerttabelle-und-fallzahlen`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `legistik-werkstatt/folgenabschaetzung-erfuellungsaufwand`
-
 ## Quellen Stand 06/2026
 
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR), jeweils aktuelle Fassung — der Stand 2018 ist die letzte allgemein bekannte; die aktuelle Fassung ist vor Ausgabe zu verifizieren
@@ -117,3 +105,4 @@ In jeder NKR-Stellungnahme sollte am Beginn der methodischen Bewertung ein Satz 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 4
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren ueber [www.bmi.bund.de](https://www.bmi.bund.de) und [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)
+

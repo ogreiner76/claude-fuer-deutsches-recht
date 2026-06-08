@@ -53,10 +53,6 @@ description: "Unterstützt die methodisch saubere Gewichtung kollidierender Rech
 - Verhältnismäßigkeit wird auf Angemessenheit verkürzt — Geeignetheit und Erforderlichkeit werden übersprungen.
 - Praktische Konkordanz wird als bloßes Kompromissgebot missverstanden; sie verlangt optimale Entfaltung beider Positionen, nicht arithmetische Mitte.
 
-## Output
-
-Am Ende steht ein strukturiertes Abwägungsmemo, das die kollidierenden Positionen benennt, ihre Gewichtung mit Intensitätsargumenten belegt und das verhältnismäßige Ergebnis inklusive der alternativen Lösungen dokumentiert. Das Memo ist schriftsatztauglich und kann als Grundlage für Revision oder Verfassungsbeschwerde dienen.
-
 ## Vertiefung: Intensitätsstufen in der Rechtsprechung
 
 Das BVerfG unterscheidet in ständiger Rechtsprechung zwischen leichten, mittleren und schweren Grundrechtseingriffen. Diese Trias ist auf zivilrechtliche Abwägungen übertragbar: Eingriffe in die Sozialsphäre des Persönlichkeitsrechts sind weniger gewichtig als Eingriffe in die Intimsphäre. Dieses Stufenmodell macht Abwägungsentscheidungen revisionsrechtlich überprüfbar.
@@ -111,3 +107,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - Auslegungscanon: Wortlaut, Systematik, Historie, Telos; verfassungskonforme Auslegung BVerfG 1 BvR 730/04 als Grenze.
 - Analogie nur bei planwidriger Regelungsluecke; teleologische Reduktion BGH V ZR 250/02 als Korrelat.
 - Richterrecht BGH GSZ 1/14: Rechtsfortbildung an Art. 20 Abs. 3, Art. 97 GG gebunden.
+

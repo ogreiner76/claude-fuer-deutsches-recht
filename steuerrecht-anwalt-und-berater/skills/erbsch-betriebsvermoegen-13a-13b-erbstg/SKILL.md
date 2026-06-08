@@ -5,10 +5,6 @@ description: "Pruefung der erbschaftsteuerlichen Verschonungsregeln für Betrieb
 
 # Erbschaftsteuerliche Verschonung Betriebsvermoegen — §§ 13a 13b ErbStG
 
-## Arbeitsbereich
-
-Pruefung der erbschaftsteuerlichen Verschonungsregeln für Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verschonung soll moeglichst ausgeschoepft werden ohne Verstoss gegen Behalte- oder Lohnsummenregel. Behandelt 90 Prozent Verwaltungsvermögenstest Investitionsklausel und Verschonungsbedarfspruefung § 28a ErbStG. Output Pruefraster mit Verschonungsrechner. Abgrenzung zu fa-stu-schenkung-zehnjahresfrist und fa-stu-bewertung-immobilien-bewg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,9 @@ Pruefung der erbschaftsteuerlichen Verschonungsregeln für Betriebsvermoegen —
 
 § 13a ErbStG · § 13b ErbStG · § 13c ErbStG · § 28a ErbStG · § 19a ErbStG · § 19 ErbStG (Tarif) · § 16 ErbStG (Freibetraege)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
-
 ## Abgrenzung zu anderen Skills dieses Plugins
 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+

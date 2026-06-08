@@ -5,10 +5,6 @@ description: "Register- und Grundbuchvollzug bei ausländischer Insolvenz: GmbH-
 
 # Ausländischer Insolvenzverwalter — Register und Grundbuch
 
-## Arbeitsbereich
-
-Register- und Grundbuchvollzug bei ausländischer Insolvenz: GmbH-Anteile, Gesellschafterliste, Handelsregister, Grundbuch, Notar, § 29 GBO, § 346 InsO und Nachweis der Rechtsmacht ausländischer office holder. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Register- und Grundbuchvollzug bei ausländischer Insolvenz: GmbH-Anteile, Gesel
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-
-Dieser Skill macht aus einer grenzüberschreitenden Insolvenz einen deutschen Vollzugspfad. Er hilft, wenn ein ausländischer trustee, debtor in possession, monitor, receiver, liquidator oder administrator in Deutschland GmbH-Anteile, Grundstücke, Konten, Forderungen oder Registerpositionen bewegen will.
 
 ## Schnellweichen
 
@@ -83,14 +75,6 @@ Prüfe in dieser Reihenfolge:
 ## Formulierung für eine Vollzugsnotiz
 
 > Die handelnde Person stützt ihre Vertretungs- und Verfügungsbefugnis nicht auf eine deutsche Bestellung, sondern auf die Wirkungen des ausländischen Insolvenzverfahrens. Für Deutschland ist deshalb zuerst die Anerkennung nach §§ 335 ff., 343 InsO zu prüfen. Sodann ist getrennt zu prüfen, ob die konkrete Handlung nach dem ausländischen Insolvenzstatut gedeckt und nach deutschem Form-, Register- und Sachenrecht vollziehbar ist.
-
-## Output
-
-- Register-/Grundbuch-Checkliste;
-- Dokumentenanforderung an ausländische counsel;
-- Notarvermerk;
-- Anschreiben an Registergericht/Grundbuchamt;
-- Risikoampel für Vollzug heute, Nachlieferung, gerichtlichen Antrag oder Deal-Stopp.
 
 ## Quellenregel
 

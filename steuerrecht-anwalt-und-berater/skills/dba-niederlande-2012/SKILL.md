@@ -99,12 +99,6 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 1. BZSt-Antrag.
 2. Anlage AUS / N-AUS / R-AUS.
 
-## Output
-
-- Mandanten-Memo zur DBA-Anwendung.
-- Berechnungsbeispiel mit Vergleich Freistellung und Anrechnung.
-- Hinweise zu Holding-Substanz § 50d Abs. 3 EStG.
-
 ## Strategie und Praxis-Tipps
 
 - Pensions-Schwelle DBA-Niederlande: ab Ueberschreitung Quellenstaat (Niederlande) — Pension oft hoeher besteuert als in Deutschland; bei Doppelbesteuerung Verstaendigungsverfahren Art. 25 MA. Schwellenwert strikt aus DBA-Text Art. 17 uebernehmen.
@@ -169,12 +163,9 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 >
 > Schritt 3: Bei strittiger Auslegung Verstaendigungsverfahren Art. 25 DBA — vor allem Doppelbesteuerung gerade an der Schwelle haeufig Streitthema.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Niederlande 12.04.2012 (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), ab 01.01.2016. Aend.-Prot. 11.01.2016 (BGBl. 2016 II S. 868), Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736). MLI-Notifications beim OECD-Portal pruefen. Quellensteuer-Saetze und Pensionsschwelle konkret im DBA-Text Art. 17 pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 4 belegt (BGBl. 2012 II S. 1414/1415 bestaetigt; BGBl. 2015 II S. 1674 bestaetigt; Aend.-Prot. 11.01.2016 BGBl. 2016 II S. 868 bestaetigt; Aend.-Prot. 24.03.2021 BGBl. 2021 II S. 736 bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

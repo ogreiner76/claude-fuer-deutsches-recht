@@ -5,10 +5,6 @@ description: "Disclosure-Dokument für internationale Franchiseinvestoren erstel
 
 # Franchiserecht: Disclosure-Dokument für internationale Investoren
 
-## Arbeitsbereich
-
-Disclosure-Dokument für internationale Franchiseinvestoren erstellen: Inhaltliche Mindestanforderungen nach DFV Code of Ethics und ausländischen Disclosure-Regeln, Übersetzungs- und Haftungsfragen, Abgrenzung zu Wertpapierprospekt und Investmentrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber möchte sein System an ausländische Investoren vermarkten, d
 - Aktualisierungspflichten werden vergessen; veraltete Angaben zur Finanzlage des Franchisegebers begründen Haftung.
 - Franchise-Angebot ist im Zielland als Investmentvertrag zu qualifizieren; Prospektpflicht nach lokalem Wertpapierrecht greift.
 
-## Output
-
-- Disclosure-Dokument-Template (nach DFV-Standard)
-- Ländervergleich Disclosure-Pflichten (Deutschland/USA/Frankreich)
-- Risikohinweis-Bibliothek für Disclosure-Dokumente
-- Checkliste vor Verabschiedung des Disclosure-Dokuments
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/311.html
@@ -71,6 +60,7 @@ Ein Franchisegeber möchte sein System an ausländische Investoren vermarkten, d
 - https://gesetze-im-internet.de/vermanlg/
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
 - https://dejure.org/gesetze/BGB/242.html
+
 ## Vertiefung
 
 Das Disclosure-Dokument ist das wichtigste Haftungsschutz-Instrument für den Franchisegeber. Je vollständiger und genauer es ist, desto schwieriger ist es für einen Franchisenehmer, eine vorvertragliche Aufklärungspflichtverletzung nachzuweisen. In vielen Jurisdiktionen (USA, Australien, Frankreich) ist ein Disclosure-Dokument gesetzlich vorgeschrieben und muss eine bestimmte Form und einen bestimmten Inhalt haben.
@@ -84,7 +74,10 @@ In Deutschland gibt es keine gesetzliche Pflicht zum Disclosure-Dokument; die Pf
 - Risikofaktoren des Systems explizit und deutlich darstellen; nicht im Kleingedruckten verstecken.
 - Franchisenehmer-Liste aktuell halten; Angaben zu ausgeschiedenen Franchisenehmern können informativ sein.
 - Rechtsstreitigkeiten des Franchisegebers vollständig offenlegen; selektive Offenbarung gefährdet das gesamte Disclosure.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

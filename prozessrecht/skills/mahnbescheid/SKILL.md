@@ -5,10 +5,6 @@ description: "Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetz
 
 # Mahnverfahren – §§ 688 ff. ZPO
 
-## Arbeitsbereich
-
-Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetzungen, Formulierung, Übergang zum Streitverfahren. Normen: §§ 688 ff. ZPO. Prüfraster: Zuständigkeit Mahngericht, bestimmte Geldforderung, Widerspruchsrecht des Schuldners. Output: Mahnbescheidsantrag-Entwurf. Abgrenzung: nicht Klageschrift § 253 ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,14 +20,6 @@ den Übergang zum Vollstreckungsbescheid samt Klausel und Zustellung lädt das f
 `zwangsvollstreckung` die Skills `zv-mahnbescheid-online` und `zv-vollstreckungsbescheid-folge`.
 Dieser Skill liefert die dogmatische Grundlage und Strategie; das Plugin liefert das fertige
 Formularpaket.
-
-## Zweck
-
-Dieser Skill begleitet das gerichtliche Mahnverfahren als kostengünstiges und schnelles
-Verfahren zur Titulierung unstreitiger Geldforderungen. Anwendungsfelder: Forderungseinzug
-bei Zahlungsverzug (Kauf-, Werk-, Darlehensverträge), Rückforderungsansprüche, titulierter
-Verzugszinsanspruch. Der Skill deckt den gesamten Ablauf ab: Mahnantrag → Widerspruch →
-Abgabe ins streitige Verfahren oder Vollstreckungsbescheid → Einspruch → Vollstreckung.
 
 ## Eingaben
 
@@ -79,6 +67,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 1. **Zulässigkeitsprüfung** (§ 688 ZPO): Ist die Forderung eine bezifferte Geldforderung?
@@ -100,13 +89,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
  Versäumnisurteil (§ 700 Abs. 1 ZPO).
 8. **Vollstreckung**: VB ohne Einspruch → Vollstreckungsklausel beantragen (§§ 724 ff. ZPO);
  Pfändung oder Forderungspfändung einleiten (→ Skill vollstreckung).
-
-## Ausgabeformat
-
-- **Checkliste** für den Mahnantrag (Pflichtangaben, Zinsen, Anlagen)
-- **Mahnantragsentwurf** (kann direkt auf online-mahnantrag.de übertragen werden)
-- **Rechtliches Memo** zur Verjährungshemmung und Individualisierung der Forderung
-- **Widerspruchsschreiben** (falls Mandant Antragsgegner ist)
 
 ## Beispiel
 
@@ -150,3 +132,4 @@ Rn.). Kommentare mit Bearbeiter, Werk, Aufl., §, Rn. Keine allgemeinen Pauschal
 ---
 
 <!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemaess dejure.org-Pruefung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->
+

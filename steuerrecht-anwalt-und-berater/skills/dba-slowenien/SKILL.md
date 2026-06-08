@@ -70,12 +70,6 @@ Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 BZSt-Verfahren: Freistellung/Erstattung § 50c EStG ueber BOP; Ansaessigkeitsbescheinigung der slowenischen FURS (Finančna uprava) als Anlage.
 
-## Output
-
-- Mandanten-Memo.
-- Berechnungsbeispiel.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - Slowenische Holding mit operativem Schwerpunkt Adria-Region: Substanz pruefen.
@@ -147,12 +141,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Slowenien 2006 Fundstellen, BMF-Schreiben, MLI-Synthesetext verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-kroatien`, `stb-dba-italien`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Slowenien 03.05.2006, in Kraft 19.12.2006 (BGBl. 2006 II S. 1091). Dividenden 5/25% Schachtel, sonst 15 Prozent; Zinsen 5 Prozent, Lizenzen 5 Prozent. MLI-Anwendung ab VZ 2021. Aktuellen Stand im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 5 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2006 II S. 1091; Inkrafttreten 19.12.2006; MLI-Status; Quellensteuer-Saetze), 0 gestrichen -->
+

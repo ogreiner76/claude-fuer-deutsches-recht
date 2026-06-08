@@ -5,10 +5,6 @@ description: "Rechtsabteilungs-Fachmodul für RPM-Alarm bei Händler- und Franch
 
 # Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen
 
-## Arbeitsbereich
-
-Rechtsabteilungs-Fachmodul für RPM-Alarm bei Händler- und Franchise-Kanälen: Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen rekonstruiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,6 +48,3 @@ Preisbindungsfälle werden aus E-Mails, Bonusmechanik und Außendienstnotizen re
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.

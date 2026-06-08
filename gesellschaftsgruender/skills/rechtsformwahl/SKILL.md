@@ -5,10 +5,6 @@ description: "Rechtsformwahl für Unternehmen: GmbH, UG, AG, GbR, PartG, KG, SE 
 
 # Rechtsformwahl
 
-## Arbeitsbereich
-
-Rechtsformwahl für Unternehmen: GmbH, UG, AG, GbR, PartG, KG, SE im Vergleich. Normen: GmbHG, AktG, PartGG, HGB, SE-VO. Prüfraster: Haftung, Steuern, Kapital, Mitbestimmung, Borsenreife. Output: Rechtsformvergleich-Matrix mit Empfehlung. Abgrenzung: nicht Gründungsunterlagen (separate Skills je Rechtsform). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -444,3 +440,4 @@ NAECHSTE SCHRITTE:
  [ ] Notar-Termin: [DATUM]
  [ ] Holding-Struktur pruefen: [Ja / Nein / Spaeter]
 ```
+

@@ -68,6 +68,3 @@ Beginne mit Orientierung, nicht mit Lehrbuch. Prüfe zuerst, ob der Fall überha
 | --- | --- | --- |
 | `...` | [...] | [...] |
 
-## Quellenregel
-
-Für Commercial Courts muss der aktuelle Stand des Bundesrechts und des jeweiligen Landesrechts live geprüft werden. Wenn unklar ist, ob ein Land den konkreten Commercial Court eingerichtet hat oder welche Spruchkörper zuständig sind, wird das ausdrücklich als Live-Check markiert.

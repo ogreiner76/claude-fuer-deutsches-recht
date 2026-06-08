@@ -5,10 +5,6 @@ description: "Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nach
 
 # Mandantenkommunikation
 
-## Arbeitsbereich
-
-Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -25,9 +21,6 @@ Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Ents
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-Dieses Modul bearbeitet: Mandantenkommunikation im Plugin insolvenzforderungsanmeldungspruefung: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten..
-
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
@@ -42,12 +35,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
 ## Kommunikation Forderungsanmeldung — was die Mandantin wissen muss
 - **Anmeldefrist § 28 InsO:** Frist vom Insolvenzgericht im Eröffnungsbeschluss bestimmt. Bei verspäteter Anmeldung (§ 177 InsO): Sonderprüfungstermin auf Kosten des Anmelders.
 - **Erwartete Quote realistisch einschätzen:** Bei Unternehmensinsolvenzen sind Quoten von 5–10 % auf einfache Insolvenzforderungen (§ 38 InsO) typisch; nachrangige Forderungen (§ 39 InsO) erhalten meist 0 %.
@@ -56,8 +43,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Anfechtungsrisiko nicht unterschätzen:** Zahlungen, die in der Krise oder im Anfechtungszeitraum geleistet wurden (§§ 130, 131, 133 InsO), können vom Verwalter zurückgefordert werden — Mandantin frühzeitig informieren.
 - **Kostenrisiko:** Tabellenklage löst Gerichtskosten und Anwaltskosten aus. Bei kleinen Forderungen oft wirtschaftlich nicht sinnvoll — Mandantin auf Quote/Kosten-Verhältnis hinweisen.
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

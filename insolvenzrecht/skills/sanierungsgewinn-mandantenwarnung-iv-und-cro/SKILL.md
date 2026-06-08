@@ -5,10 +5,6 @@ description: "Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldne
 
 # Sanierungsgewinn — Mandantenwarnung an Insolvenzverwalter / CRO / Schuldner
 
-## Arbeitsbereich
-
-Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klaeren ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 OWiG, Paragraph 69 AO), wie der Berater eingebunden wird. Erste Antwort knapp, dann sofort Briefentwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -177,19 +173,6 @@ Mit freundlichen Gruessen
 4. Honorarklarheit fehlt — Auftrag bleibt schwebend.
 5. Vergessen, die GewSt-Schiene (Paragraph 7b GewStG) anzusprechen.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Modellrechnung.
-- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftungs-Vertiefung.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — generelle Steuerberatungs-Mandantenkommunikation.
-- `grosskanzlei-corporate-ma` — falls Investor-Seite mitbetreut wird.
-
 ## Quellen Stand 06/2026
 
 - Paragraph 3a EStG, `gesetze-im-internet.de/estg/__3a.html`.
@@ -199,3 +182,4 @@ In anderen Plugins:
 - Paragraph 130 OWiG, `gesetze-im-internet.de/owig_1968/__130.html`.
 - FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung. Verifikation ueber `dejure.org`.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

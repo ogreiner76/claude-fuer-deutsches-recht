@@ -5,10 +5,6 @@ description: "Fachmodul Franchiserecht für Ausgleichsanspruch nach Vertragsende
 
 # Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten
 
-## Arbeitsbereich
-
-Fachmodul Franchiserecht für Ausgleichsanspruch nach Vertragsende und Kundendaten: Franchisenehmer-Ausgleich analog § 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,10 +46,6 @@ Anspruchsmatrix: Neukunden, wirtschaftlicher Vorteil, Billigkeit, Datenverfügba
 - Ist der Sachverhalt beweisbar oder nur systemintern behauptet?
 - Muss zuerst kommuniziert, abgemahnt, gesichert, verhandelt oder gerichtlicher Eilrechtsschutz vorbereitet werden?
 - Welche parallelen Plugins helfen: AGB-Recht, Kartellrecht, Datenschutz, Markenrecht, Insolvenzrecht oder Corporate/M&A?
-
-## Quellenhygiene
-
-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei erreichbarer Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Wenn eine Fundstelle nicht live verifizierbar ist, wird sie als zu verifizieren markiert und nicht als tragender Beleg ausgegeben.
 
 ## Normen und Rechtsprechung
 

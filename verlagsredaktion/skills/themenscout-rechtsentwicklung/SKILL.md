@@ -5,10 +5,6 @@ description: "Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und 
 
 # Themenscout Rechtsentwicklung
 
-## Arbeitsbereich
-
-Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und Gesetzgebungsverfahren als Themenkandidaten für Aufsaetze und Heftaufmacher. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -100,14 +96,6 @@ Quellen-URL: https://www.bundesgerichtshof.de/...
 - Trendlinien aus drei Entscheidungen falsch hochgerechnet, ohne Senatsbesetzung zu pruefen.
 - Eigene Watchlist nicht aktualisiert - alter Stand wirkt blamabel.
 
-## Querverweise
-
-- `verl-trend-radar-rechtsgebiete` - rechtsgebietsuebergreifender Trend.
-- `verl-redaktionssitzung-vorbereiten` - Themen bringen in die Sitzung.
-- `verl-redaktionsmemo-jahresplanung` - für Jahresplanung.
-- `verl-ideenpool-und-priorisierung` - Backlog-Verwaltung.
-- `entscheidungsmonitor-rechtsstand` - laufender Monitor (bestehender Skill).
-
 ## Quellen Stand 06/2026
 
 - BGH, [https://www.bundesgerichtshof.de](https://www.bundesgerichtshof.de) (Pressemitteilungen, anhaengige Verfahren).
@@ -118,3 +106,4 @@ Quellen-URL: https://www.bundesgerichtshof.de/...
 - Bundesgesetzblatt online, [https://www.recht.bund.de/bgbl/](https://www.recht.bund.de/bgbl/).
 - Bundesrat / Bundestag Drucksachen, [https://dip.bundestag.de](https://dip.bundestag.de).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
+

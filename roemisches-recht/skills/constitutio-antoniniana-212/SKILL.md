@@ -5,10 +5,6 @@ description: "Constitutio Antoniniana 212 n. Chr.: allgemeine Buergerrechtsverle
 
 # Rom 153 Constitutio Antoniniana 212 Allgemeine Buergerrechtsverleihung
 
-## Aufgabe
-
-Skill für die Constitutio Antoniniana.
-
 ## Rechtsquelle
 
 - Papyrus Gissensis 40 (Hauptquelle, mit Lakunen).
@@ -65,7 +61,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Memo zur rechtshistorischen Wirkung.

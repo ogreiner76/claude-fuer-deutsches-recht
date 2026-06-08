@@ -43,9 +43,6 @@ Ein Investor kauft ein Segel- oder Motorjacht; Risiken aus Altlasten und Zertifi
 - Gewaehrleistungsausschluss (as-is) deckt keine versteckten Konstruktionsmaengel.
 - Zertifikatslücke zwischen Closing und Neuausstellung gefaehrdet Betrieb.
 
-## Output
-Kaufvertrag-Review-Matrix und Closing-Conditions-Checkliste für Segel- oder Motorjacht.
-
 ## Vertiefung: Wesentliche Kaufvertragsklauseln im Schiffskauf
 International dominieren MOA-Standardformulare (Norwegian Saleform 2012; Norwegian Saleform 1993; Nipponsale 1999). Für deutsche Seeschiffe mit HGB-Bezug gelten ergänzend die deutschen Kaufrechtsregeln (BGB §§ 433-479). Bei internationalem Schiffskauf empfiehlt sich die ausdrückliche Rechtswahl (z.B. englisches Recht) im Vertrag, um CISG-Anwendung zu vermeiden.
 
@@ -88,3 +85,4 @@ Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassem
 - BGB §§ 433-479: https://dejure.org/gesetze/BGB/433.html
 - HGB §§ 480 ff.: https://dejure.org/gesetze/HGB/480.html
 - openjur Schiffskaufstreit: https://www.openjur.de
+

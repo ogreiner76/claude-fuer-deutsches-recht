@@ -5,10 +5,6 @@ description: "Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Mind
 
 # Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe
 
-## Arbeitsbereich
-
-Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrkilometer, Gutachten und Abrechnungsstreit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrki
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Kfz-Leasing ist das quantitativ bedeutsamste Leasingsegment. Die zwei Grundmodelle – **Kilometervertrag** und **Restwertvertrag** – haben unterschiedliche Risikostrukturen. Dieser Skill analysiert die Unterschiede, den Rückgabeprozess, typische Abrechnungsstreitigkeiten und die Rechtsprechung zu Minderwert und Mehrkilometern.
 
 ## Zwei Modelle im Vergleich
 
@@ -126,3 +118,4 @@ Kfz-Leasing ist das quantitativ bedeutsamste Leasingsegment. Die zwei Grundmodel
 - **Minderwert-Tabelle**: Schadensarten – Nachforderungsberechtigt ja/nein
 - **Muster-Widerspruch**: Gegen Minderwertabrechnung des LG
 - **Abrechnungsübersicht**: Km-Abrechnung, Restwertdifferenz, Minderwert
+

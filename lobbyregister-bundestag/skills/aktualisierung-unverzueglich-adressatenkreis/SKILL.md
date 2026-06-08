@@ -5,10 +5,6 @@ description: "Steuert unverzuegliche Updates bei Stammdaten, Personen, Tätigkei
 
 # Unverzuegliche Aktualisierung
 
-## Arbeitsbereich
-
-Steuert unverzuegliche Updates bei Stammdaten, Personen, Tätigkeitsbeschreibung, Vorhabenbereichen, Regelungsvorhaben, Auftraegen und Auftraggebern. Output Update-Ticket. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Steuert unverzuegliche Updates bei Stammdaten, Personen, Tätigkeitsbeschreibung
 - Tragende Normen verifizieren: LobbyRG §§ 1, 2, 3, 5, 6, 7, 8 (i.d.F. Reform 2024), Verhaltenskodex Lobbyregister, GOBT, BGleiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Interessenvertreter, Bundestagsverwaltung (Lobbyregisterstelle), Geschäftsstelle, registrierte Verbände, Bundesregierung (zweiter Registerteil).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lobbyregistereintrag, Verhaltenskodex-Bestätigung, Tätigkeitsbericht, Hausausweisantrag, Finanzangaben, Verbandsmitgliederliste — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Aenderungen so schnell erfassen, dass keine verspaetete Aktualisierung entsteht.
 
 ## Gefuehrter Ablauf
 
@@ -68,7 +60,6 @@ Nach einer Portalaktualisierung soll der Skill eine Wiedervorlage für den öffe
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
-
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html
@@ -76,10 +67,6 @@ Nach einer Portalaktualisierung soll der Skill eine Wiedervorlage für den öffe
 - Handbuch: https://www.lobbyregister.bundestag.de/informationen-und-hilfe/handbuch
 - Leitplanken: ../../references/lobbyregister-leitplanken.md
 - Open Data/API: ../../references/open-data-api-v2.md
-
-## Output
-
-Update-Ticket mit Ausloeser, Pflichtfeld, Deadline, Portaltext, Verantwortlichem, API-Nachkontrolle und Kontrollpunkt.
 
 ## Qualitaetsgate
 
@@ -89,10 +76,3 @@ Update-Ticket mit Ausloeser, Pflichtfeld, Deadline, Portaltext, Verantwortlichem
 - Unsichere Rechts- oder Tatsachenfragen werden nicht geglaettet, sondern sichtbar markiert.
 - Nach der Veroeffentlichung wird die API-Antwort als Beleg gesichert oder die fehlende Veroeffentlichung eskaliert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

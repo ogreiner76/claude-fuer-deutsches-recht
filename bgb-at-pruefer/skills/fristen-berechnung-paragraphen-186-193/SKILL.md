@@ -46,13 +46,6 @@ description: "Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Begin
 - Verjährungsfristen: § 199 BGB für Verjährungsbeginn kombiniert mit §§ 186 ff. BGB für Berechnung.
 - Bundesweite vs. landesrechtliche Feiertage können Fristende unterschiedlich verschieben.
 
-## Output
-
-- Fristenberechnungsschema mit Rechenweg und konkretem Datum
-- Übersicht §§ 186 bis 193 BGB mit Anwendungsbeispielen
-- Gutachtenstil-Abschnitt zur Frist-Prüfung
-- Klausurlösungsskizze: Frist gewahrt oder abgelaufen?
-
 ## Quellen
 
 - [§ 187 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__187.html)
@@ -84,3 +77,4 @@ Der Tag des Ereignisses (Beendigungsdatum) zählt nicht, die Frist zählt rückw
 - Feiertags- und Wochenendregelung nach § 193 BGB beachtet?
 - Anfechtungsfristen: § 121 BGB (unverzüglich) oder § 124 BGB (ein Jahr) — Fristbeginn?
 - Verjährungsfristen: § 199 Abs. 1 BGB — Entstehung und Kenntnis als Doppelerfordernis?
+

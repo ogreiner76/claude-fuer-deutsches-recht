@@ -53,10 +53,6 @@ description: "Zeigt auf, dass und wie methodische Fragen der Rechtsanwendung zug
 - Das Verhältnis zwischen richterlicher Unabhängigkeit (Art. 97 GG) und Methodenbindung (Art. 20 Abs. 3 GG) wird falsch bestimmt.
 - Der Wesentlichkeitsgrundsatz wird als Maßstab dafür, wann Methodenentscheidungen Gesetzgeberkompetenz berühren, nicht angewandt.
 
-## Output
-
-Das Skill liefert eine Verfassungs-Methoden-Analyse: Identifikation der methodischen Entscheidung, verfassungsrechtliche Einordnung, Prüfung auf Gebotenes und Verbotenes, Formulierung der Verfassungsrüge aus dem Methodenfehler und Einschätzung der Erfolgschancen. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Methodenkritik.
-
 ## Vertiefung: Methodenrecht als eigenständige Kategorie
 
 Einige Rechtswissenschaftler fordern ein ausdrückliches "Methodenrecht" — verbindliche gesetzliche Auslegungsregeln nach dem Vorbild von Art. 1 Abs. 1 des Schweizerischen ZGB, der den Richter zur Entscheidung nach Gewohnheitsrecht und notfalls nach eigener Regel verpflichtet. Ein solches Methodenrecht würde die Diskrepanz zwischen metodischer Praxis und normativem Anspruch systematisch adressieren.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 34, 269 – Soraya, Methode und Verfassung](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

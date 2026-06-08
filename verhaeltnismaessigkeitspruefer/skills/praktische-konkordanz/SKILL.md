@@ -44,6 +44,3 @@ staatlichen Volksschulen verstiess gegen Glaubensfreiheit Art 4 I GG
 in Verbindung mit staatlichem Neutralitaetsgebot. Schonende Zuordnung
 moeglich durch Einzelfallpruefung, nicht durch generellen Anbringungszwang.
 
-## Output
-
-Drei-Spalten-Schema: Gut 1, Gut 2, Schonende Zuordnung.

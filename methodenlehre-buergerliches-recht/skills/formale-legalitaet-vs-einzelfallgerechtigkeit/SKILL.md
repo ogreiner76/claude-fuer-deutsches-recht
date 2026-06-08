@@ -11,10 +11,6 @@ description: "Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: 
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Einsatz
-
-Anwendungsfall: das rechtlich naheliegende Ergebnis hart wirkt oder das gerechte Ergebnis den Normtext strapaziert. Der Skill verhindert zwei schlechte Reflexe: kalten Formalismus und grenzenlose Billigkeitsdogmatik.
-
 ## Prüfroutine
 
 1. **Formaler Ausgangspunkt:** Was folgt aus Wortlaut, System und Regel-Ausnahme-Struktur?
@@ -48,12 +44,9 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Erstelle eine Matrix `Formaler Befund / Härte / Normanker / Kompetenz / Verallgemeinerung / Ergebnis`. Füge eine Formulierung hinzu, die offenlegt, ob es sich um Auslegung, Korrektur über Generalklausel oder Rechtsfortbildung handelt.
-
 ## Quellen- und Zitierdisziplin
 
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
 - Bei Generalklauseln immer zuerst die speziellere Norm prüfen.
+

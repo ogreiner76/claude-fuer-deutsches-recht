@@ -29,9 +29,6 @@ Dieser Skill prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Beruf
 - § 25 BORA — Kollegialitaetsgebot
 - § 43a Abs. 2 BRAO — Grundlegende Verschwiegenheitspflicht
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## § 2 BORA — Verschwiegenheit
 
 § 2 BORA dehnt die anwaltliche Verschwiegenheitspflicht auf alle Kommunikationsmittel aus. In E-Mails besonders relevant: Offenlegung mandatsbezogener Informationen an Dritte, Nutzung von Mandantendaten in werblichen Kontexten, unverschlüsselte Übermittlung sensibler Mandantendaten. Jede E-Mail, die Mandantendaten enthält, ist auf Verschwiegenheitskonformität zu prüfen — insbesondere bei CC-Feldern und Weiterleitungen.
@@ -63,6 +60,3 @@ Maßgebliche Normen: § 2 BORA (Verschwiegenheit), § 6 BORA (Werbung), § 12 BO
 **Vorher:** "Wir sind bekannt für unsere Erfolge vor dem BGH."
 **Nachher (Prüfergebnis):** Werberechtlich bedenklich nach § 6 BORA, sofern nicht durch öffentliche Informationen (Urteilslisten) belegt. Empfehlung: Konkrete, nachprüfbare Angabe.
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Identifizierte BORA-Risikostellen mit Zitat. (2) Einschlägige BORA-Norm. (3) Schwere des Verstoßes (formal/substantiell). (4) Korrigierte Alternativformulierung. (5) Gesamtbewertung (konform / geringes Risiko / hohes Risiko).

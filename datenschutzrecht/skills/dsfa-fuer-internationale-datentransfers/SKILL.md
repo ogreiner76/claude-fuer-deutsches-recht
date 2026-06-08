@@ -5,10 +5,6 @@ description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Inte
 
 # DSFA bei internationalen Datentransfers
 
-## Zweck
-
-Erweiterung einer DSFA um die transferbezogene Pruefung nach Kapitel V DSGVO. Wenn die Verarbeitung einen Drittlandtransfer beinhaltet, ist eine Transfer Impact Assessment (TIA) erforderlich, die in die DSFA integriert oder als deren Bestandteil gefuehrt wird. Ergebnis ist eine erweiterte DSFA-Sektion mit Transferregister, Rechtsgrundlage des Transfers, Risikobewertung des Drittlandes und ergaenzenden Massnahmen.
-
 ## Wann dieses Modul hilft
 
 - Bei Auftragsverarbeiter mit Sitz oder Unterauftrag im Drittland
@@ -118,15 +114,6 @@ Unterschrift DSB: ____________________
 - Re-Pruefung nach Schrems-Folgeurteil unterbleibt.
 - DPF-Zertifizierung des Anbieters wird nicht jaehrlich nachgeprueft.
 
-## Querverweise
-
-- `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Allgemeine Pruefung
-- `datenschutzrecht/skills/standardvertragsklauseln-scc-paket/SKILL.md` — SCC-Pakete
-- `datenschutzrecht/skills/us-transfer-tia-dokumentation/SKILL.md` — US-spezifische TIA
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Integration in DSFA
-- `datenschutzrecht/skills/spezial-transfer-livequellen-und-rechtsprechungscheck/SKILL.md` — Livequellen
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 44 bis 49 DSGVO
@@ -137,3 +124,4 @@ Unterschrift DSB: ____________________
 - EDSA Empfehlungen 01/2020 zu ergaenzenden Massnahmen (Aktualitaet pruefen)
 - Rechtsprechung: weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

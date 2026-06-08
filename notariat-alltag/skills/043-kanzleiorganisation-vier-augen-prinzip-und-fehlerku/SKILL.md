@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip und Fe
 
 # Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip, Fehlerkultur
 
-## Arbeitsbereich
-
-Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip und Fehlerkultur. Organisatorische Anforderungen an das Notariat, Qualitätssicherung, Fehlermanagement und Lernkultur. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -110,3 +106,4 @@ Notarielle Amtshandlungen (Beurkundung, Beglaubigung, Bescheinigung) können nic
 - **Schulungsplan** (GwG, DSGVO, Vollzug)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

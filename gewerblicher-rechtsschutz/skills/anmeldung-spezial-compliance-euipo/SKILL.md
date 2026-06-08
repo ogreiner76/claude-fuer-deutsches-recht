@@ -5,10 +5,6 @@ description: "Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Re
 
 # Spezial: Anmeldung – Behörden, Gerichte und Registerwege
 
-## Arbeitsbereich
-
-Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -140,15 +136,6 @@ Mandatsbezug: Anwalt fragt: Welches Amt ist für meine Marke zuständig? Wo reic
 - **Frist versäumt:** Widerspruchsfrist beim DPMA/EUIPO 3 Monate; keine Wiedereinsetzung bei einfachen Fehlern.
 - **Falsches Formular:** DPMA-Anmeldung ohne Pflichtangaben; Zurückweisung.
 - **Validierung EP-Patent vergessen:** Nach EPA-Erteilung nationale Validierung erforderlich; Fristen und Kosten je Staat.
-
-## Quellenregel
-
-- DPMA: [dpma.de](https://www.dpma.de)
-- EUIPO: [euipo.europa.eu](https://www.euipo.europa.eu)
-- EPA: [epo.org](https://www.epo.org)
-- WIPO: [wipo.int](https://www.wipo.int)
-- BPatG: [bundespatentgericht.de](https://www.bundespatentgericht.de)
-- Gebühren und Fristen immer über offizielle Behördenwebseiten prüfen; keine Drittquellen.
 
 ## Anschluss-Skills
 

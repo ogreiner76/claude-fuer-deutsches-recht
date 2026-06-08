@@ -5,9 +5,6 @@ description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Ba
 
 # Anlageberatungsfehler Bankrecht Akkreditiv
 
-## Arbeitsbereich
-
-**Anlageberatungsfehler Bankrecht Akkreditiv** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für anlageberatungsfehler pruefen, Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Ba
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `anlageberatungsfehler-pruefen`
@@ -30,10 +28,6 @@ description: "Anlageberatungsfehler Bankrecht Akkreditiv im Plugin Fachanwalt Ba
 **Fokus:** Anlageberatungsfehler Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Anlageberatungsfehler prüfen
-
-## Zweck
-
-Schadensersatzansprüche eines Anlegers gegen seine Bank oder einen Vermögensverwalter wegen falscher Anlageberatung. Das praxistypische Mandat im Bankrecht: geschlossene Fonds, Zertifikate, Swaps, Schiffsfonds, Lehman-Papiere oder aktuelle Krypto-Anleihen.
 
 ## Mandantenfragen — Kaltstart
 
@@ -268,10 +262,6 @@ Kapitalmarktrecht]
 
 ### Akkreditiv, Standby LC und Dokumentenstreit
 
-## Aufgabe
-
-Prüfe Mandate rund um dokumentenbasierte Trade-Finance-Zahlungen: Der Streit wird oft nicht über die Ware, sondern über Dokumente, Fristen, Abweichungen und Fraud geführt.
-
 ## Prüfworkflow
 
 1. Instrument und anwendbares Regelwerk identifizieren.
@@ -281,27 +271,11 @@ Prüfe Mandate rund um dokumentenbasierte Trade-Finance-Zahlungen: Der Streit wi
 5. Fraud-/Sanktions-/Boykott-Themen isolieren.
 6. Anspruch oder Abwehr gegen Bank/Begünstigten/Kunden strukturieren.
 
-## Quellenhygiene
-
-ICC-Regelwerke wie UCP, URC, ISP oder URDG nicht aus Modellwissen zitieren. Wenn sie entscheidend sind, konkreten Text vom Nutzer anfordern oder als Live-Check markieren. Deutsche Normen, EU-Sanktionen und Prozessrecht nur mit prüfbarer Quelle verwenden.
-
-## Output
-
-- Dokumentenabweichungsliste.
-- Zahlungs-/Zurückweisungsargumentation.
-- Beweismatrix.
-- Klage-/Eilrechtsschutz-Skizze.
-- Vergleichsoptionen.
-
 ## 3. `bankrecht-buergschaft-auf-erste-anforderung`
 
 **Fokus:** Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Zahlungsmechanik, Einwendungen, offensichtlicher Missbrauch, einstweiliger Rechtsschutz, Rückforderung und Regress.
 
 ### Bürgschaft auf erste Anforderung
-
-## Aufgabe
-
-Prüfe, ob eine Zahlung auf erstes Anfordern verlangt, abgewehrt oder zurückgefordert werden kann. Arbeite streng am Wortlaut des Sicherungstextes und am Abruf; bloße Empörung über den Grundvertrag ersetzt keine Einwendung.
 
 ## Prüfaufbau
 

@@ -5,10 +5,6 @@ description: "Strukturiert die laufende Kommunikation mit Autorin: Kanal Frequen
 
 # Abstimmung mit Autorin (Feedback-Kanal)
 
-## Arbeitsbereich
-
-Strukturiert die laufende Kommunikation mit Autorin: Kanal Frequenz Dokumentation Eskalationswege bei Konflikten Lieferverzug und Manuskriptaenderungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -100,14 +96,6 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 - Lieferverzug zu spaet adressiert.
 - Honorar-Themen vermischt mit Lektorat - verwirrt beide Seiten.
 - Bei Konflikt sofort Eskalation an Verlagsleitung - vorher direkte Klaerung versuchen.
-
-## Querverweise
-
-- `verl-redaktionelle-rueckmeldung-formulieren` - Stil von Rueckmeldungen.
-- `autorenkommunikation-email` - generelle Autoren-E-Mail.
-- `honorar-vertrag-royalties-triage` - Honorar-Triage.
-- `verl-jourfix-vorbereiten-protokoll` - regelmäßige Sitzungen.
-- `workflow-fristen-und-risikoampel` - bei Verzug.
 
 ## Quellen Stand 06/2026
 

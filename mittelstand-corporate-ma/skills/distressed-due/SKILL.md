@@ -5,10 +5,6 @@ description: "Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A un
 
 # Disclosure Schedules
 
-## Arbeitsbereich
-
-Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantien; Materiality Scrape, Earn-Out-Konflikte, Vendor DD, Fair Disclosure nach BGH-Rechtsprechung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantie
 ## Fachkern: Disclosure Schedules
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Datenraum, Legal Due Diligence und pragmatische Information-Request-Steuerung**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -117,10 +110,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Disclosure Schedules
 
-## Zweck
-
-Leitet Disclosure Schedules aus Datenraum, DD-Findings, Q&A-Antworten und SPA-Garantien ab. Sichert Verkaeuferhaftungsbegrenzung durch vollstaendige und korrekte Offenlegung; verhindert Haftung für Garantieverletzung bei bekannten Umstaenden.
-
 ## Triage — klaere vor Erstellung
 
 1. Welches Disclosure-Konzept gilt — General Disclosure (ganzer Datenraum qualifiziert als Disclosure) oder Specific Disclosure (nur namentlich aufgefuehrte Dokumente)?
@@ -142,9 +131,6 @@ Leitet Disclosure Schedules aus Datenraum, DD-Findings, Q&A-Antworten und SPA-Ga
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **SPA-Garantienliste erstellen:** alle Business Warranties mit Disclosure-Vorbehalt identifizieren; je Garantie: Scope, Carve-out, Disclosure-Methode
@@ -217,3 +203,4 @@ Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 ---
 <!-- AUDIT 27.05.2026 -->
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -96,10 +96,8 @@ Verifiziert mit Quelle curia.europa.eu (Volltext jeweils vor Versand aufrufen):
 - EuGH, Urt. v. 9.1.2025, C-394/23 — bestätigend für Vorverlegung.
 - EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag als außergewöhnlicher Umstand.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Hinweise
 
 - Bei einheitlicher Buchung lohnt eine sorgfaeltige Prüfung — viele Airlines berechnen falsch.
 - Bei separaten Buchungen Verlust des Anschlusses regelmäßig nicht erstattungsfähig nach VO 261 — daher bei Buchung auf Einheits-PNR achten.
+

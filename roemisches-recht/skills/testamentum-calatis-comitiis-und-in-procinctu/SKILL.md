@@ -5,10 +5,6 @@ description: "Testamentum calatis comitiis und in procinctu: aelteste Formen des
 
 # Rom 142 Testamentum Calatis Comitiis Und In Procinctu
 
-## Arbeitsbereich
-
-Testamentum calatis comitiis und in procinctu: aelteste Formen des roemischen Testaments. Skill behandelt die Beurkundung vor dem Volk (calatis comitiis) und vor dem Heer (in procinctu) sowie ihre Verdraengung durch das mancipationstestament. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Testamentum calatis comitiis und in procinctu: aelteste Formen des roemischen Te
 - Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für die aeltesten Testamentsformen.
 
 ## Rechtsquelle
 
@@ -57,7 +49,3 @@ Skill für die aeltesten Testamentsformen.
 2. Personenkreis (cives, Soldat)?
 3. Formerfordernisse erfuellt?
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

@@ -21,9 +21,6 @@ Beschwerde gegen JVEG-Kostenfestsetzungsbeschluss einlegen: Zulässigkeit, Frist
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
 
-## Aufgabe
-Begleite das Verfahren der gerichtlichen Kostenfestsetzung nach § 4 JVEG und bereite Erinnerung oder Beschwerde gegen Kostenfestsetzungsbeschlüsse vor.
-
 ## Triage — kläre vor der Prüfung
 
 1. **Ausgangsbeschluss:** Welcher Kostenfestsetzungsbeschluss ist angegriffen — Datum, Gericht, Aktenzeichen?
@@ -45,18 +42,8 @@ Begleite das Verfahren der gerichtlichen Kostenfestsetzung nach § 4 JVEG und be
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Erhalt eines Kostenfestsetzungsbeschlusses mit Kürzungen oder Ablehnung.
-
-## Arbeitsweise
-1. Beschluss auf Tenor und Begründung analysieren.
-2. Beschwer ermitteln (Differenz geltend gemachter Betrag vs. festgesetzter Betrag).
-3. Frist prüfen und notieren.
-4. Angriffsmittel strukturieren (Tatbestand / Ermessen / Norm).
-5. Beschwerdeschrift mit konkreten Anträgen formulieren.
 
 ## Output-Template
 
@@ -78,3 +65,4 @@ Beschwerdeschrift-Entwurf mit strukturierten Angriffsmitteln und Antrag.
 ## Leitplanken
 - Beschwerde nur bei positiver Beschwer; Kostenrisiko ansprechen.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

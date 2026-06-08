@@ -5,9 +5,6 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 
 # Zweckentfremdung WEG Kostenverteilung
 
-## Arbeitsbereich
-
-**Zweckentfremdung WEG Kostenverteilung** ordnet den Fall über die tragenden Prüfungslinien: Zweckentfremdung, Prüft Beschlüsse zur Kostenverteilung und, Vergleichsverhandlungs-Strategie für Wohnraum-. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-zweckentfremdung`
@@ -40,9 +38,6 @@ description: "Zweckentfremdung WEG Kostenverteilung im Miet- und Wohnungseigentu
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aufgabe
-Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: prüft kommunale Satzung, Genehmigung, Ferienwohnung, Leerstand.
-
 ## Einstieg
 1. Welche Seite wird vertreten und welches Ergebnis soll erreicht werden?
 2. Welche Norm-/Vertrags-/Beschlussgrundlage ist wahrscheinlich einschlägig?
@@ -57,12 +52,6 @@ Fachmodul im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: pr�
 4. **Beweis:** Darlegungslast, Substantiierung, Beweisangebot, Sachverständigenbedarf.
 5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
 6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
-
-## Output
-- Prüfvermerk mit Normen und Belegen.
-- Lückenliste der fehlenden Tatsachen.
-- Entwurf für Mandantenmail, Gegenseitenschreiben, Beschlussvorschlag oder Schriftsatzbaustein.
-- Anschluss-Skills, wenn WEG/Miete/Betriebskosten/GEG/Prozessrecht tiefer laufen muss.
 
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
@@ -85,11 +74,6 @@ BGH, Urteil vom 14.02.2025 - V ZR 128/23: § 16 Abs. 2 Satz 2 WEG begründet Bes
 3. **Bestimmtheit:** Kostenart und Verteilungsmaßstab müssen für Verwaltung und Eigentümer vollziehbar sein.
 4. **Ordnungsmäßige Verwaltung:** Sachgrund, Privilegierung, Belastungssprung, Gewerbe-/Wohnflächen, Verursachungsnähe, Gleichbehandlung.
 5. **Prozess:** Anfechtungsfrist § 45 WEG, Aktiv-/Passivseite § 44 WEG, Beschlussersetzung nur nach sauberer Vorbefassung.
-
-## Output
-- Beschluss-Redline mit rechtssicherer Formulierung.
-- Risikoampel `Kompetenz / Bestimmtheit / Sachgrund / Frist / Vollzug`.
-- Schriftsatzbaustein für Anfechtung oder Verteidigung.
 
 ## 3. `vergleichsverhandlung-strategie`
 
@@ -269,9 +253,6 @@ BATNA- und ZOPA-relevante BGH-Eckpunkte (Volltext jeweils ueber bundesgerichtsho
 
 § 779 BGB (Vergleichsvertrag) → § 557 BGB (Mietaufhebungsvertrag) → § 568 BGB (Schriftform Kündigung/Aufhebung) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich) → § 796a ZPO (Anwaltsvergleich) → § 23 WEG (Beschlussfassung) → § 44 WEG (WEG-Anfechtungsklage Klagefrist)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Vergleichsgespräch Miet-/WEG
 
 Kläre vor Beginn:
@@ -362,14 +343,9 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behördenpraxis-Saetze.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+

@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten 
 
 # Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten, Mietverträgen
 
-## Arbeitsbereich
-
-Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten und Mietverträgen. Sonderkonstellationen der Kaufpreisfälligkeit bei öffentlich-rechtlichen Belastungen, Mietverträgen und Altlastenverdacht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Standard-Kaufvertrag sieht vor: Kaufpreis fällig nach Vorliegen der normalen Vo
 - **Mandantenmail** (Altlasten/Mietrisiken erläutern)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

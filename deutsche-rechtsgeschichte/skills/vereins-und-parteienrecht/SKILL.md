@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Vereins- und Parteienrecht. BGB-Vereins
 
 # Vereins- und Parteienrecht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Vereins- und Parteienrecht. BGB-Vereinsrecht, Sozialistengesetz 1878, Weimarer Koalitionsfreiheit, GG Art. 21 und Parteiengesetz 1967. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das Vereinsrecht hat im deutschen Recht eine politisch brisante Geschichte. Das 
 - GG Art. 21 und PartG: gesetze-im-internet.de
 - BVerfGE zum Parteienrecht: bverfg.de
 
-## Output
-
-- Zeitleiste Vereins- und Parteienrecht: 1878-1967
-- Parteienprivileg Art. 21 GG: Inhalt und Grenzen
-- Parteienverbotsverfahren: SRP 1952, KPD 1956, NPD 2017
-
-## Quellenregel
-
-Sozialistengesetz 1878: ALEX/OeNB. BGB und PartG: gesetze-im-internet.de. BVerfGE zum Parteienrecht: bverfg.de.

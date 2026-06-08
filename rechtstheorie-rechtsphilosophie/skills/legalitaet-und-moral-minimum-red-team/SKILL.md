@@ -18,10 +18,6 @@ description: "Prueft, ob formale Legalitaet moralisch relevant ist, ohne Positiv
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Einsatz
-
-Anwendungsfall: in einer Debatte behauptet wird, formale Legalität sei entweder moralisch völlig leer oder schon für sich genommen moralisch ausreichend. Beides ist zu grob. Der Skill zeigt, wie Legalitätsmängel moralisch und rechtsstaatlich wichtig sein können, ohne die Trennung von Geltung und Bewertung aufzugeben.
-
 ## Prüfprogramm
 
 1. **Geltungsebene:** Welche Norm gilt positiv, aus welcher Quelle, mit welcher Kompetenz und welchem Rang?
@@ -54,12 +50,9 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Liefere eine dreistufige Matrix `Geltung / Legalitätsqualität / Rechtsfolge`. Ergänze eine knappe, verwertbare These: "Der Mangel ist nicht bloß unschön, sondern rechtlich relevant, weil ..."; oder: "Der Mangel ist kritikwürdig, trägt aber ohne weitere Normanknüpfung noch keine Unwirksamkeit."
-
 ## Quellen- und Zitierdisziplin
 
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Kein Autoritätsargument aus Theoriebegriffen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
+

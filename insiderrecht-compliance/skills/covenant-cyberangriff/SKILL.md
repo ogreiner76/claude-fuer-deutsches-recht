@@ -5,10 +5,6 @@ description: "Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen i
 
 # Covenant Breach – Insiderrecht und Ad-hoc-Pflicht
 
-## Arbeitsbereich
-
-Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Glaeubiger-Kommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,24 +68,6 @@ auslöst, und entwickelt die Compliance-Strategie für Emittent und Kreditgeber.
 - Inhalt: Art der Verletzung, Zeitpunkt, ergriffene Maßnahmen, Ausblick
 - Koordination mit Sanierungsankündigung (falls zutreffend)
 
-## Red-Team-Fragen
-
-- Wurde die Kursrelevanz der Covenant-Verletzung unvoreingenommen beurteilt?
-- Erfüllen Waiver-Verhandlungen die Aufschub-Voraussetzungen?
-- Wurden Kreditgeber als Sekundärinsider behandelt und belehrt?
-- Ist der Aufschub mit einer widerspruchsfreien öffentlichen Kommunikation vereinbar?
-- Wurde ein Trigger für den Aufschub-Ende definiert?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Insiderinformations-Prüfprotokoll Covenant Breach
-2. Aufschub-Prüfmatrix (legitimes Interesse × Widerspruchsfreiheit × Vertraulichkeit)
-3. Kreditgeber-Belehrungsschreiben (Insiderstatus)
-4. Ad-hoc-Entwurf (Covenant Breach)
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Bei syndizierten Krediten ist die Koordination mit allen Banken der Kreditgebergruppe
@@ -101,3 +79,4 @@ Die Insiderliste muss alle informierten Bankvertreter namentlich erfassen.
 Weitere Quellen:
 - Art. 18 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+

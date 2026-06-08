@@ -5,10 +5,6 @@ description: "Prüft die Abgrenzung zwischen Handelsvertreter und Vertragshändl
 
 # Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch
 
-## Arbeitsbereich
-
-Prüft die Abgrenzung zwischen Handelsvertreter und Vertragshändler: Eigenhändler kauft im eigenen Namen und auf eigene Rechnung und hat keinen gesetzlichen Ausgleich nach § 89b HGB, analoge Anwendung bei Einbindung wie Handelsvertreter nach BGH-Rechtsprechung sowie vertragliche Gestaltungsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Einbindungsintensität nicht geprüft — BGH-Analogie verpasst.
 - Vertragsgestaltung unklar — Status zwischen Vertragshändler und Handelsvertreter offen.
 
-## Output
-
-Abgrenzungsanalyse, Ausgleichsanspruch-Prüfung analog § 89b HGB, Vertragsgestaltungsempfehlung.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [BGH-Entscheidungen auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
+

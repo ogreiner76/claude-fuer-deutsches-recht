@@ -18,7 +18,6 @@ Arbeitsfokus: **Referentenentwurf bauen**. Prüfe diese Anker am Sachverhalt; er
 - `§ 556 Abs. 1 BGB` — Betriebskosten.
 - `Art. 20 Abs. 3 GG` — Normklarheit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Aufbau eines Referentenentwurfs
@@ -120,9 +119,6 @@ Bei Landesgesetzen und Landesverordnungen die landesspezifische Eingangs- und Sc
 
 GGO (Bundesreferentenentwurf, Ressortabstimmung, Beteiligung, Kabinett) — Art. 76 Abs. 1 GG (Einbringungsrecht Bundesregierung) — HdR (Rechtsförmlichkeit, Änderungsbefehle) — Art. 80 Abs. 1 Satz 3 GG (Zitiergebot in Rechtsverordnungen) — Landesverfassung und Landes-Geschäftsordnung bei Landesentwürfen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Markdown-Datei mit dem kompletten Entwurfstext, bereit für Bundes- oder Landes-Ressortabstimmung, einschließlich Profilvermerk und offenen landesspezifischen Prüfpunkten.
@@ -133,3 +129,4 @@ Markdown-Datei mit dem kompletten Entwurfstext, bereit für Bundes- oder Landes-
 - `synopse-erstellen`
 - `xml-paralleldarstellung`
 - `dokumente-rendern-docx-pdf` (am Ende, erzeugt lieferfertiges DOCX und PDF im offiziellen HdR-Layout)
+

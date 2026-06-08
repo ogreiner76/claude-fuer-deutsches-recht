@@ -5,9 +5,6 @@ description: "Staat Kelsen Demokratie Abwaegung Transparenz im Rechtstheorie und
 
 # Staat Kelsen Demokratie Abwaegung Transparenz
 
-## Arbeitsbereich
-
-**Staat Kelsen Demokratie Abwaegung Transparenz** ordnet den Fall über die tragenden Prüfungslinien: Prueft starke-Staat- und Ordnungsmacht-Argumente, Prueft Demokratie als Verfahren, Macht Abwaegungen transparent. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -40,6 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `staat-als-ordnungsmacht-anti-autoritaerer-check`
@@ -60,10 +58,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill prüft, wann ein starkes Staatsargument rechtlich trägt und wann es autoritär kippt. Er eignet sich für Polizei- und Ordnungsrecht, Verwaltungsvollzug, Sicherheitsrecht, Krisenrecht, Infrastruktur, Migration, Versammlung, Beamtenrecht und politische Kommunikation.
 
 ## Sofort klären
 
@@ -96,21 +90,6 @@ Ein Staat darf und muss handlungsfähig sein. Rechtsstaatliche Handlungsfähigke
 - Eilmaßnahmen werden nicht befristet.
 - Die Exekutive prüft ihre eigenen Grenzen ohne externe Kontrolle.
 
-## Output
-
-Gib ein Ordnungsmacht-Gutachten aus:
-
-| Element | Prüfung |
-| --- | --- |
-| Schutzgut | ... |
-| Gefahr | ... |
-| Normgrundlage | ... |
-| Zuständigkeit | ... |
-| Verhältnismäßigkeit | ... |
-| Grundrechte | ... |
-| Rechtsschutz | ... |
-| anti-autoritärer Befund | ... |
-
 ## 2. `kelsen-demokratie-verfahren-minderheitenschutz`
 
 **Fokus:** Prueft Demokratie als Verfahren: Mehrheitsentscheidung, Minderheitenschutz, Normbindung, institutionelle Rollen, Rechtsschutz und die Grenze plebiszitaerer oder autoritaerer Direktlegitimation.
@@ -129,10 +108,6 @@ Gib ein Ordnungsmacht-Gutachten aus:
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill macht demokratische Legitimation präzise. Er behandelt Demokratie nicht als bloße Mehrheitsstimmung, sondern als Verfahren, in dem Zuständigkeit, Öffentlichkeit, Gleichheit, Minderheitenschutz, Rechtsschutz und Änderbarkeit zusammenwirken.
 
 ## Sofort klären
 
@@ -177,17 +152,6 @@ Arbeitsfragen:
 - `Opposition ist Sabotage` als Ersatz für rechtliche Argumente.
 - `Demokratische Gesetzgebung führt zwangsläufig in Planwirtschaft` ohne konkrete Macht-, Eingriffs- und Verhältnismäßigkeitsprüfung.
 
-## Output
-
-Erstelle einen Demokratie- und Minderheitenschutz-Vermerk mit:
-
-- Entscheidungsorgan;
-- Legitimationskette;
-- verletzbarer Minderheit;
-- unverfügbaren Rechten;
-- Kontrollweg;
-- sauberer Formulierung, welche politische Entscheidung rechtlich möglich ist und welche nicht.
-
 ## 3. `abwaegung-transparenz-rationalitaet`
 
 **Fokus:** Macht Abwaegungen transparent: Material, Gewichtung, Intensität, Kontrollmaßstab, Abwaegungslast und Ergebnisoffenheit.
@@ -207,10 +171,6 @@ Erstelle einen Demokratie- und Minderheitenschutz-Vermerk mit:
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
-
 ## Sofort klären
 
 1. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
@@ -225,14 +185,3 @@ Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in 
 3. Bestimme Kontrolldichte und Entscheidungsspielraum.
 4. Lege Restunsicherheit offen.
 
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.

@@ -5,10 +5,6 @@ description: "Erstellt Informationsfreiheits-, Umweltinformations- oder Verbrauc
 
 # IFG/UIG/VIG-Anfrage
 
-## Arbeitsbereich
-
-Erstellt Informationsfreiheits-, Umweltinformations- oder Verbraucherinfomations-Antrag und erklärt Ablehnung/Gebühren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,9 +12,6 @@ Erstellt Informationsfreiheits-, Umweltinformations- oder Verbraucherinfomations
 - Tragende Normen verifizieren: BEG IV (Viertes Bürokratieentlastungsgesetz 2024), OZG/OZG-Änderungsgesetz, VwVfG §§ 35, 35a (vollautomatisierter VA), §§ 9, 10 e-Government-Gesetz, NKR-Gesetz, GGO § 44 (Gesetzesfolgenabschätzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Erstellt Informationsfreiheits-, Umweltinformations- oder Verbraucherinfomations-Antrag und erklärt Ablehnung/Gebühren.
 
 ## Normfokus und Praxis
 - Drei getrennte Regime: IFG (Bundes-IFG vom 5.9.2005, BGBl. I S. 2722; daneben Landes-IFG, NRW IFG/VIG, Berlin-IFG etc.), UIG (Umweltinformationsgesetz iVm UI-RL 2003/4/EG), VIG (Verbraucherinformationsgesetz, § 2 VIG für Lebensmittelhygiene/Sicherheit, z. B. Topf-Secret-Anfragen).
@@ -44,12 +37,6 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ## Vorsichtsregel
 Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt bei Straf-, Familien-, Aufenthalts-, Kinderschutz-, Existenz- oder Eilrisiken früh anwaltliche Beratung, Beratungshilfe, Rechtsantragsstelle oder Fachberatungsstelle.
 
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
-
 ## Quellen- und Aktualitätsregel
 - einschlägiges Bundesrecht
 - Landesrecht/kommunale Satzung
@@ -57,3 +44,4 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 - frei prüfbare Rechtsprechung nur mit Gericht, Datum und Aktenzeichen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+

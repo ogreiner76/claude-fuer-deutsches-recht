@@ -5,10 +5,6 @@ description: "Amtlicher Normcheck für BGB-AT-Fälle: gleicht Geschäftsfähigke
 
 # Amtlicher BGB/ZPO-Normcheck
 
-## Arbeitsbereich
-
-Amtlicher Normcheck für BGB-AT-Fälle: gleicht Geschäftsfähigkeit, Willenserklärung, Form, Zugang, Vertragsschluss, Stellvertretung, Fristen, Verjährung und ZPO-Schnittstellen gegen die aktuelle Gesetze-im-Internet-Fassung ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Amtlicher Normcheck für BGB-AT-Fälle: gleicht Geschäftsfähigkeit, Willenserk
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill ist der Faktenhygiene-Check für BGB-AT-Arbeit. Er wird zugeschaltet, wenn eine Normnummer, ein Formpfad, ein Fristenlauf oder eine ZPO-Schnittstelle tragend ist und nicht aus Gedächtnisformeln beantwortet werden darf.
 
 ## Arbeitsfolge
 
@@ -44,15 +36,6 @@ Dieser Skill ist der Faktenhygiene-Check für BGB-AT-Arbeit. Er wird zugeschalte
 | Fristen | §§ 186-193 BGB; § 222 ZPO |
 | Verjährung | §§ 194-218 BGB; § 204 BGB und § 167 ZPO |
 | Elektronisches Verfahren | §§ 130a, 130d, 130e, 173, 189, 371a ZPO |
-
-## Output
-
-Erzeuge eine Tabelle:
-
-| Norm | Titel/Funktion | Tatsache | Beleg | Rechtsfolge | Live-Check |
-| --- | --- | --- | --- | --- | --- |
-
-Danach höchstens fünf Sätze Ergebnis. Keine Rechtsprechung ergänzen, wenn sie nicht ausdrücklich geprüft wurde.
 
 ## Referenz
 

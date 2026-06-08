@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Zweck
-
-Dieses Interview richtet das Plugin auf Ihre konkrete Datenschutzpraxis aus: Wer sind Sie als Verantwortlicher oder Auftragsverarbeiter? Welche Rechtsgrundlagen nutzen Sie? Welche Aufsichtsbehörde ist zuständig? Was darf in einem AVV nicht stehen? Die Antworten landen in `CLAUDE.md` – der Wissensbasis, die jeder andere Skill als Grundlage nutzt.
-
 ## Eingaben
 
 - Öffentliche URL der Datenschutzerklärung oder Datei
@@ -87,15 +83,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Ausgabeformat
-
-Abschlusszusammenfassung als strukturierte Auflistung der geschriebenen Konfiguration:
-- Welche Werte aus Interview übernommen
-- Welche aus Ausgangsdokumenten extrahiert
-- Welche als Fallback-Standard gesetzt (Kennzeichnung: "Standard – bitte anpassen")
-- Offene Punkte, die noch ausgefüllt werden müssen
-- Erste empfohlene Folgeaktion (z.B. `anwendungsfall-triage` für aktuelle Verarbeitungstätigkeit)
-
 ## Beispiel
 
 **Situation:** Mittelständische Softwarefirma, Hauptniederlassung NRW, Auftragsverarbeiter für CRM-Kunden, interner DSB, kein DPF, Hosting in Frankfurt.
@@ -155,3 +142,4 @@ AVV-Playbook: konfiguriert / nicht konfiguriert
 Systemliste: konfiguriert / nicht konfiguriert
 Naechste Schritte: [LISTE]
 ```
+

@@ -5,10 +5,6 @@ description: "Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM
 
 # Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones
 
-## Arbeitsbereich
-
-Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM, Datenschutz, BYOD vs. COPE, Rückgabe und Nutzungsrichtlinien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Leasing mobiler Arbeitsgeräte: Laptops, Tablets, Smartphones; MDM, Datenschutz,
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Mobile Endgeräte sind das am weitesten verbreitete IT-Leasingsegment. Unternehmen leeasen Laptops, Tablets und Smartphones für ihre Mitarbeiter. Dieser Skill klärt MDM-Anforderungen, Datenschutz, Nutzungsrichtlinien und Rückgabeprozesse.
 
 ## BYOD vs. COPE vs. COBO
 
@@ -119,3 +111,4 @@ Mobile Endgeräte sind das am weitesten verbreitete IT-Leasingsegment. Unternehm
 - **Betriebsvereinbarung MDM**: Muster mit DSGVO-konformen Datenschutzvorgaben
 - **Rückgabe-Protokoll Mobiles Gerät**: Zustand, Remote Wipe, Datenlöschungs-Zertifikat
 - **MDM-Datenschutzinformation**: Art. 13 DSGVO für Mitarbeiter
+

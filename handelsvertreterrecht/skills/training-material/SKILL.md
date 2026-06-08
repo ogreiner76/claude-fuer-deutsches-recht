@@ -5,10 +5,6 @@ description: "Erstellt und prüft Schulungs- und Trainingsunterlagen für Handel
 
 # Schulungs- und Trainingsunterlagen zum Handelsvertreterrecht nach HGB
 
-## Arbeitsbereich
-
-Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Fehlende BGH-Fallbeispiele — abstrakte Theorie ohne Praxisbezug.
 - Keine aktuellen Hinweise auf EuGH-Rechtsprechung zur RL 86/653/EWG.
 
-## Output
-
-Schulungsunterlagen Entwurf, Foliensatz Handelsvertreterrecht, Merkblatt Rechte und Pflichten.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +81,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [BGH-Entscheidungen auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
 - [Dejure HGB](https://dejure.org/gesetze/HGB)
+

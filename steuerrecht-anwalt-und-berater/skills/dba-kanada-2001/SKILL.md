@@ -74,12 +74,6 @@ Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhaeltnis zu K
 ### Phase 5 — Branch Profits Tax
 ### Phase 6 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo Kanada.
-- Berechnungsbeispiel RRSP-Auszahlung.
-- BZSt-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - RRSP-Auszahlung bei Wohnsitz Deutschland: kanadische Quellensteuer (typ. 25 Prozent national; DBA ermaessigt) — Erstattung via CRA.
@@ -151,12 +145,9 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Kanada 2001 Fundstellen, BMF-Schreiben zu RRSP/RRIF, BFH-Rechtsprechung verbindlich zitieren.
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`, `stb-dba-usa-1989-protokoll-2006`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Kanada 19.04.2001, BGBl. 2002 II S. 670, in Kraft 28.03.2002. Dividenden 5/15%, Zinsen 10%, Lizenzen 10%, Branch Profits Tax max. 5% (Art. 10 Abs. 6). MLI-Status: aktuellen BMF-DBA-Stand pruefen.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

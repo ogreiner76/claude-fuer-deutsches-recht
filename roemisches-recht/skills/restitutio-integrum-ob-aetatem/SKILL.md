@@ -5,10 +5,6 @@ description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemi
 
 # Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz
 
-## Aufgabe
-
-Skill für Minderjaehrigenschutz im roemischen Recht.
-
 ## Rechtsquelle
 
 - Lex Plaetoria de circumscriptione adolescentium (Daten und Inhalt vor Zitat verifizieren).
@@ -65,7 +61,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.

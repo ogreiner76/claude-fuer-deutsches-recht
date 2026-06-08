@@ -5,12 +5,6 @@ description: "Prueft nach positiver Anhang-III-Zuordnung, ob ein KI-System ausna
 
 # Rückausnahme vom Hochrisiko — Art. 6 Abs. 3 KI-VO
 
-## Zweck
-
-Dieser Skill wird nur genutzt, wenn zuvor ein Anhang-III-Tatbestand nach Art. 6 Abs. 2 KI-VO möglich oder wahrscheinlich ist. Er prüft, ob das System ausnahmsweise nicht als Hochrisiko-KI-System gilt, weil es kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte darstellt und in eine der eng auszulegenden Fallgruppen fällt.
-
-Der Skill ist besonders wichtig bei allgemeinen Assistenzsystemen, LLM-Tools, Chatbots und Dokumentationshilfen, die in sensiblen Bereichen eingesetzt werden, aber nur vorbereitende oder eng begrenzte Aufgaben erfüllen sollen.
-
 ## Prüfungsreihenfolge
 
 1. Anhang-III-Treffer konkret benennen.
@@ -160,10 +154,3 @@ Anhang-III-Treffer: [NR. / BEREICH / KONKRETER TATBESTAND]
 
 Stand: 05/2026. Maßgeblich sind Art. 6 Abs. 3 und 4 KI-VO, Art. 3 Nr. 12/13/23 KI-VO und Anhang III. Keine Rechtsberatung; die Rückausnahme ist eng und tatsachenabhängig.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

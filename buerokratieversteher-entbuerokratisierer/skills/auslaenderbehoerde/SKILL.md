@@ -5,10 +5,6 @@ description: "Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweis
 
 # Ausländerbehörde
 
-## Arbeitsbereich
-
-Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebenbestimmung und Vorsicht bei Angaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,9 +12,6 @@ Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebe
 - Tragende Normen verifizieren: BEG IV (Viertes Bürokratieentlastungsgesetz 2024), OZG/OZG-Änderungsgesetz, VwVfG §§ 35, 35a (vollautomatisierter VA), §§ 9, 10 e-Government-Gesetz, NKR-Gesetz, GGO § 44 (Gesetzesfolgenabschätzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundesverwaltung, Länder, Kommunen, Normenkontrollrat (NKR), Unternehmen, Statistisches Bundesamt (Bürokratiekostenindex), Digitalcheck-Stelle.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gesetzesfolgenabschätzung, NKR-Stellungnahme, Erfüllungsaufwandsberechnung, Once-Only-Konzept, Digitalcheck-Bericht, BEG-IV-Maßnahmenkatalog — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebenbestimmung und Vorsicht bei Angaben.
 
 ## Normfokus und Praxis
 - Rechtsgrundlagen: AufenthG (Visum § 6, Aufenthaltserlaubnis §§ 7, 16 ff., 18 ff., 28; Niederlassungserlaubnis § 9; Daueraufenthalt-EU § 9a), AufenthV, FreizügG/EU für Unionsbürger, AsylG für Schutzsuchende. Bei drittstaatlichen Beschäftigten BeschV beachten.
@@ -43,12 +36,6 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ## Vorsichtsregel
 Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt bei Straf-, Familien-, Aufenthalts-, Kinderschutz-, Existenz- oder Eilrisiken früh anwaltliche Beratung, Beratungshilfe, Rechtsantragsstelle oder Fachberatungsstelle.
-
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
 
 ## Quellen- und Aktualitätsregel
 - einschlägiges Bundesrecht

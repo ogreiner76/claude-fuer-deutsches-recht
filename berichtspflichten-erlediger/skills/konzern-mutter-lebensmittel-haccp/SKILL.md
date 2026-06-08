@@ -5,10 +5,6 @@ description: "Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CS
 
 # Konzernmatrix Mutter/Tochter
 
-## Arbeitsbereich
-
-Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Stat
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Unternehmensgruppen.
-
 ## Norm- und Quellenanker
 
 HGB Konzernrecht; GwG; CSRD/HGB; LkSG; BStatG.
-
-## Arbeitsfragen
-
-1. Welche Einheit ist Pflichtenträger?
-2. Welche Schwellen auf Konzern-/Einzelebene?
-3. Welche Datenflüsse?
-
-## Output
-
-Konzernpflichtenmatrix.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Konzernpflichtenmatrix.
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

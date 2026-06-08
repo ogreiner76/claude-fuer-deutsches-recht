@@ -24,14 +24,7 @@ Anbieter von GPAI-Modellen müssen urheberrechtliche Compliance nicht nur behaup
 5. Zusammenfassung der Trainingsinhalte so formulieren, dass sie hinreichend aussagekräftig ist, aber keine Geschäftsgeheimnisse unnötig offenlegt.
 6. Downstream-Informationen bereitstellen.
 
-## Output
-
-- Copyright-Policy.
-- Trainingsdaten-Kategorienübersicht.
-- Opt-out-Handling.
-- Vendor-/Modelcard-Fragen.
-- Lückenliste für nicht belegte Datenquellen.
-
 ## Warnung
 
 Urheberrechtliche Compliance ist nicht mit "Daten waren öffentlich im Internet" erledigt. Prüfe Lizenz, TDM-Ausnahme, Opt-out und Reproduktionsrisiko getrennt.
+

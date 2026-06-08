@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Deliktsrecht und Gefaehrdungshaftung. B
 
 # Deliktsrecht und Gefaehrdungshaftung
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Deliktsrecht und Gefaehrdungshaftung. BGB §§ 823-853, Haftpflichtgesetz 1871, Gefaehrdungshaftung im Industriezeitalter und Produkthaftungsgesetz 1989. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das BGB-Deliktsrecht 1900 (§§ 823-853) basiert auf dem Verschuldensprinzip: We
 - ProdHaftG: gesetze-im-internet.de
 - BGH-Deliktsrecht: bgh.de (VI. Zivilsenat; Schluesselfaelle z. B. Huehnerpestrohrsaft BGHZ 51, 91)
 
-## Output
-
-- Zeitleiste Delikts- und Haftpflichtrecht: 1871-2022
-- Verschuldens- vs. Gefaehrdungshaftung: Systematik und Beispiele
-- BGH-Schluesselfaelle Produkthaftung vor und nach 1989
-
-## Quellenregel
-
-BGB Deliktsrecht: gesetze-im-internet.de. Reichshaftpflichtgesetz 1871: ALEX/OeNB. ProdHaftG: gesetze-im-internet.de. BGH: bgh.de (Aktenzeichen angeben). EU-Richtlinie 85/374/EWG: eur-lex.europa.eu.

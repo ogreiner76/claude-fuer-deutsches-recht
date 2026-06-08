@@ -5,10 +5,6 @@ description: "Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher für Verfahre
 
 # Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg
 
-## Arbeitsbereich
-
-Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,11 +53,6 @@ Anwaltlicher Allgemein-Skill für Mandate nach dem Eisenbahnregulierungsgesetz (
 - BVerwG, OVG Münster, VG Köln, EuGH mit Datum, Az., freier Fundstelle.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-- Triage-Memo (1–3 Seiten).
-- Routing-Empfehlung in den Fachmodul des Plugins (Trassenzugang, Entgelte, Serviceeinrichtungen, Stationszugang, Beschwerde EVU gegen EIU, Sperrpausen, Netznutzungsbedingungen, Anreizsetzung, Kapazitätskonflikt).
-- Erste Maßnahmenliste (Fristen, Beweissicherung, Konsultations-Stellungnahme).
-
 ## Beispiele
 - Personenfern-EVU bittet um Erstkontakt zur Streitlage Trassen 2026. Triage: Routing in Fachmodul eisenbahn-trassenzugang.
 - Aufgabenträger SPNV bittet um Memo zu Stationsentgelten. Triage: Routing in eisenbahn-stationszugang.
@@ -69,3 +60,4 @@ Anwaltlicher Allgemein-Skill für Mandate nach dem Eisenbahnregulierungsgesetz (
 
 ## Qualitätsgate
 Mandantenrolle eindeutig? Fachmodul-Routing klar? Frist sofort kalendarisiert? Konsultations- und Konflikt-Statuspunkt erfasst? EuGH-Vorlagerisiko reflektiert?
+

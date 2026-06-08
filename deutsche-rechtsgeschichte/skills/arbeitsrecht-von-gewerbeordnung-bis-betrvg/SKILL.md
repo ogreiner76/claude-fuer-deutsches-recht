@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 186
 
 # Arbeitsrecht: Von der Gewerbeordnung bis zum BetrVG
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 1869 bis zum BetrVG 1972. Koalitionsfreiheit, Arbeitsschutzgesetze, Tarifvertrag, Betriebsrat und die Entstehung des kollektiven Arbeitsrechts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das moderne Arbeitsrecht entstand schrittweise aus dem Gewerberecht. Die Gewerbe
 - Sinzheimer: Arbeitsrechtliche Aufsaetze und Lehrbuecher (historische Ausgaben)
 - BAG-Rspr.: Bundesarbeitsgericht.de (JURIS-Zugang oder Printsammlungen)
 
-## Output
-
-- Zeitleiste Arbeitsrecht: 1839-1972
-- Tarifvertrag: Entwicklung von 1918 bis heute
-- BetrVG 1952 vs. 1972: Rechtsvergleich der Betriebsratszuständigkeiten
-
-## Quellenregel
-
-GewO 1869: RGBl. NDB 1869 via ALEX/OeNB. BetrVG 1972: gesetze-im-internet.de. Tarifvertragsgesetz 1949: BGBl. 1949, 55. BAG: bundesarbeitsgericht.de oder JURIS für BAG-Rspr.

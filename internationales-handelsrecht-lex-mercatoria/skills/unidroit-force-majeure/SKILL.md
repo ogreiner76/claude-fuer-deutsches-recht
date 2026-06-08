@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Force Majeure nach UNIDROIT Principl
 
 # Force Majeure: PICC Art. 7.1.7 und CISG Art. 79
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Force Majeure nach UNIDROIT Principles Art. 7.1.7 und CISG Art. 79. Befreiungsvoraussetzungen, Hinweispflicht, Rechtsfolgen (kein Schadensersatz aber Aufhebungsrecht) und Abfassung von Force-Majeure-Klauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Force Majeure befreit den Schuldner von Schadensersatzhaftung wenn ein außerhal
 - ICC FM-Klausel 2020 als Vertragsbaustein einbeziehen (kürzere Notifikationsfrist 30 Tage)
 - Sublieferantenkette: Art. 79 Abs. 2 Kaskade prüfen
 
-## Output
-
-- FM-Prüfschema (CISG und PICC parallel)
-- FM-Notifikationsschreiben-Muster
-- ICC FM-Klausel 2020 mit Anpassungsoptionen
-
-## Quellenregel
-
-CISG Art. 79: uncitral.un.org. PICC Art. 7.1.7: unidroit.org. ICC FM-Klausel 2020: iccwbo.org. Schrifttum: Liu, Force Majeure, CISG-online.ch. Unsicherheit bleibt sichtbar.

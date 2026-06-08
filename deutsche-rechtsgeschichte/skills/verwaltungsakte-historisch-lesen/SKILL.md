@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Form
 
 # Verwaltungsakte historisch lesen
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behördendokumenten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,12 +46,3 @@ Historische Verwaltungsakte (Konzessionen, Bescheide, Genehmigungen, Erlasse) si
 - Kanzleisprache: Woerterbucher und Lexika der historischen Amtssprache
 - Epochenspezifische Rechtsgrundlage: GewO, preussische Behördenordnungen
 
-## Output
-
-- Leitfaden zum Lesen historischer Verwaltungsakte
-- Vergleichsschema: Historischer Verwaltungsakt vs. VwVfG § 35
-- Pruef-Schema: Historischer Verwaltungsakt und seine heutige Relevanz
-
-## Quellenregel
-
-VwVfG: gesetze-im-internet.de. Historische Verwaltungsakte: Bundesarchiv und Landesarchive (Bestand, Signatur, Blattnummer). GewO historisch: ALEX/OeNB.

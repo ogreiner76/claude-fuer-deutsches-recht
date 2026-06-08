@@ -5,10 +5,6 @@ description: "Prüft Zeugnisnoten und pädagogischen Bewertungsspielraum im Schu
 
 # Zeugnis Und Notenangriff
 
-## Arbeitsbereich
-
-Prüft Zeugnisnoten und pädagogischen Bewertungsspielraum. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,3 +70,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: Notenprüfungs-Memo. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

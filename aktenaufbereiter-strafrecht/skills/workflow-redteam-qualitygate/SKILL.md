@@ -5,10 +5,6 @@ description: "Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fri
 
 # Red-Team Qualitygate
 
-## Arbeitsbereich
-
-Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,9 +12,6 @@ Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zu
 - Tragende Normen verifizieren: StPO §§ 147, 199, 200, 273 (Protokoll), 261, 264, 265, 267 (Beweiswürdigung/Urteil), 273 (HV-Protokoll), AktO, RiStBV Nr. 1, Akteneinsichtsrichtlinien — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verteidiger, Mandant, Staatsanwaltschaft, Vorsitzender, Geschäftsstelle, Sachverständiger, Polizei.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Aktenspiegel (chronologisch und thematisch), Beweismittelübersicht, Vernehmungsprotokoll, Spurenakte, Beiakte, Telefonüberwachungsprotokoll, Gutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Dieses Modul bearbeitet: Red-Team Qualitygate im Plugin aktenaufbereiter-strafrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton..
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
@@ -34,18 +27,6 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 3. Passende Fachmodule aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
 ## Strafakte-Red-Team-Checks
 - **Halluzinations-Check:** Keine erfundenen BGH-/BVerfG-Az; Fundstellen mit Datum, Gericht und Az pruefen oder als "staendige Rspr."/"BGH-Linie" markieren.
 - **Frist-Re-Check:** Berufung § 314 StPO (1 Woche), Revision §§ 341, 345 StPO (1 Woche / 1 Monat), Strafbefehl-Einspruch § 410 StPO (2 Wochen), Wiedereinsetzung § 44 StPO (1 Woche ab Wegfall); Postzustellungsdatum verifizieren.
@@ -54,3 +35,4 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Beweisverwertungs-Check:** § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Hauptverhandlung), § 261 StPO Beweiswuerdigungslueckchen, Belehrungsfehler in Beschuldigtenvernehmung.
 - **Ton-/Stil-Check:** keine wertende Vorverurteilung; klare Trennung Fakten / Bewertung; Mandantengeheimnis § 43a Abs. 2 BRAO, § 203 StGB.
 - **Vollstaendigkeits-Check Anklageschrift § 200 StPO:** Beschuldigter, Tat (Zeit, Ort, gesetzliche Merkmale), Beweismittel, anzuwendende Strafvorschriften.
+

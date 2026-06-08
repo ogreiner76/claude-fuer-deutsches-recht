@@ -5,9 +5,6 @@ description: "Orientierung Tierhaltung Genehmigung im Agrarrecht: prüft konkret
 
 # Orientierung Tierhaltung Genehmigung
 
-## Arbeitsbereich
-
-**Orientierung Tierhaltung Genehmigung** ordnet den Fall über die tragenden Prüfungslinien: Anwalt will ueberblicken welche Normen und Mandate das, Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab, Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Orientierung Tierhaltung Genehmigung im Agrarrecht: prüft konkret
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-agrarrecht-orientierung`
@@ -77,9 +75,6 @@ description: "Orientierung Tierhaltung Genehmigung im Agrarrecht: prüft konkret
 - **BGH** Senat für Landwirtschaftssachen (V. Zivilsenat).
 - **EuGH** bei GAP-Vorabentscheidungen.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Deutsche Gesellschaft für Agrarrecht.
@@ -134,10 +129,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Fokus:** Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhörung Buergerbeteiligung. Widerspruch Klage Eilantrag.
 
 ### Tierhaltungs-Genehmigung
-
-## Zweck
-
-Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtlichen, bauplanungsrechtlichen und tierschutzrechtlichen Aspekten. Das Verfahren berührt typischerweise drei Rechtsbereiche gleichzeitig: BImSchG, BauGB und TierSchG / TierSchNutztV.
 
 ## Mandantenfragen — Kaltstart
 
@@ -405,10 +396,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Verhandlung und Schlichtung im Agrarrecht
 
-## Zweck
-
-Kommunikations- und Verhandlungsstrategie für agrarrechtliche Mandate: Landpacht-Anpassungen, Hofübergabe-Konflikte, Förderstreitigkeiten BLE/EGFL/ELER, Wolfsrisse-Entschädigungs-Verhandlung. Schwerpunkt auf den agrarrechtlich typischen Schlichtungs- und Vergleichsorganen — Landwirtschaftskammer, Bauernverband, Pachtrichter beim Landwirtschaftsgericht.
-
 ## Mandantenfragen — Kaltstart
 
 1. **Was ist das Streitziel — Vertragsbeendigung oder Fortführung?** — Fundamentaler Unterschied in der Strategie; bei Fortführungswillen ist Schlichtung zwingend voranzustellen.
@@ -639,3 +626,4 @@ Wir bitten um Anberaumung eines Schlichtungstermins.
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -5,10 +5,6 @@ description: "Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskon
 
 # Konkurrenzen und Anspruchsgrundlagen
 
-## Arbeitsbereich
-
-Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht, nationalem zu Unionsrecht, StGB zu OWiG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspr
 3. Enthält eine Norm einen ausdrücklichen Ausschluss der anderen (Subsidiaritätsklausel)?
 4. Stammen die Normen aus unterschiedlichen Rangstufen (Verfassung, Gesetz, VO)?
 5. Stammt eine Norm aus dem Unionsrecht? → Anwendungsvorrang prüfen
-
-## Zweck
-
-Oft sind mehrere Normen auf einen Sachverhalt anwendbar. Dieser Skill klärt das Verhältnis mehrerer Anspruchsgrundlagen zueinander und gibt die empfohlene Prüfungsreihenfolge.
 
 ## Zentrale Normen und Prinzipien
 
@@ -95,6 +87,3 @@ Das System erstellt eine Konkurrenz-Tabelle:
 - Empfohlene Prüfungsreihenfolge
 - Hinweis auf verbleibende Kumulation oder Ausschluss
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

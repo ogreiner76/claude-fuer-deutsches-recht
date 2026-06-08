@@ -36,9 +36,6 @@ Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Che
 - § 356 StGB — Parteiverrat: strafrechtliche Konsequenz bei gleichzeitiger Vertretung gegenlaeufiger Interessen
 - § 14 BRAO — Widerruf der Zulassung bei schwerwiegenden Berufsrechtsverletzungen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlage
 
 ### § 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen
@@ -139,3 +136,4 @@ Mit freundlichen Grüßen
 - `folgekorrespondenz-vorbereiten` — enthält Konfliktcheck-Statusfeld
 - `mandatsverhaeltnis-hinweis` — parallel relevanter Disclaimer
 - `vertraulichkeit-erinnerung` — nach erfolgreichem Check und Mandatsbegründung
+

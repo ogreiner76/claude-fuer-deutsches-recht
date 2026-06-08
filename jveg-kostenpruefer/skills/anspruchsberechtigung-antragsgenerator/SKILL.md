@@ -5,10 +5,6 @@ description: "Anspruchsberechtigung nach JVEG prüfen: Sachverständiger, Zeuge,
 
 # JVEG-Anspruchsberechtigung
 
-## Arbeitsbereich
-
-Anspruchsberechtigung nach JVEG prüfen: Sachverständiger, Zeuge, Dolmetscher, Anwalt. Normen: §§ 1 2 JVEG. Prüfraster: Personenkategorie, Beauftragung durch Gericht, Verfahrensart. Output: Prüfergebnis Anspruchsberechtigung JVEG. Abgrenzung: nicht Verguetungsberechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Anspruchsberechtigung nach JVEG prüfen: Sachverständiger, Zeuge, Dolmetscher, 
 ## Fachkern: JVEG-Anspruchsberechtigung
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Kläre, welche Person nach § 2 JVEG anspruchsberechtigt ist, und ordne die Vergütungsgrundlage (Sachverständiger, Zeuge, Dolmetscher usw.) der richtigen Normengruppe zu.
 
 ## Triage — kläre vor der Prüfung
 
@@ -46,17 +39,8 @@ Kläre, welche Person nach § 2 JVEG anspruchsberechtigt ist, und ordne die Verg
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Eingang eines JVEG-Antrags oder einer Rechnung, wenn die Rolle der anspruchsberechtigten Person unklar ist.
-
-## Arbeitsweise
-1. Ladungs- oder Bestellungsdokument auswerten.
-2. Rolle nach § 2 JVEG zuordnen.
-3. Bei Mehrfachrolle: Abgrenzung prüfen, keine Doppelerstattung.
-4. Zutreffende Normenkette für nachgelagerte Prüfung benennen.
 
 ## Output-Template
 

@@ -5,10 +5,6 @@ description: "Navigationszentrum für alle JVEG-Kostenprüfer-Skills: Weiterleit
 
 # JVEG-Kommandocenter
 
-## Arbeitsbereich
-
-Navigationszentrum für alle JVEG-Kostenprüfer-Skills: Weiterleitung je Personenkategorie und Verfahrensschritt. Normen: JVEG. Prüfraster: Einordnung Personenkategorie, aktueller Verfahrensschritt, Delegierung. Output: Navigationshinweis zum richtigen JVEG-Skill. Abgrenzung: kein inhaltlicher Berechnungs-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ Navigationszentrum für alle JVEG-Kostenprüfer-Skills: Weiterleitung je Persone
 ## Fachkern: JVEG-Kommandocenter
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Erfasse alle Parameter eines JVEG-Kostenvorgangs und erstelle eine vollständige Kostenlandkarte, die den Prüfvorgang strukturiert und an die passendes Fachmoduls weiterleitet.
 
 ## Triage — kläre vor dem Start
 
@@ -52,18 +45,8 @@ Das Kommandocenter baut zu Beginn eine strukturierte Übersicht aller Anspruchsp
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Jeder neue JVEG-Kostenvorgang oder wenn Überblick über einen laufenden Vorgang gefragt ist.
-
-## Arbeitsweise
-1. Rolle und Anspruchsart nach § 2 JVEG klären.
-2. Alle geltend gemachten Positionen erfassen.
-3. Kostenlandkarte erstellen (Positionen → Normen → offene Punkte).
-4. Frist § 23 JVEG prüfen.
-5. An Fachmodule weiterleiten (Fahrtkosten, Sachverständige, Dolmetscher, Zeugen).
 
 ## Output-Template
 
@@ -85,3 +68,4 @@ Vollständige Kostenlandkarte mit Normenzuordnung, Belegstatus und Skill-Routing
 ## Leitplanken
 - Kostenlandkarte immer zuerst; keine Position ohne Normbezug.
 - Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.
+

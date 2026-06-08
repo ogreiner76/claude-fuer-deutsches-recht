@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: OEM, ODM und Private Label im intern
 
 # OEM, ODM und Private Label
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: OEM, ODM und Private Label im internationalen Handel. Markenrecht (EUIPO, WIPO), IP-Übertragung vs. Lizenz, CE-Kennzeichnung, Hersteller-Importeur-Haftung und Unterschied OEM vs. ODM vs. White-Label. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ OEM (Original Equipment Manufacturer) fertigt nach Käufer-Design unter Käufer-
 - CE-Verantwortung: EU-Importeur übernimmt Konformitätsprüfungspflicht; vertragliche Rückgriffsmöglichkeit auf OEM
 - CISG Art. 42: IP-Indemnity-Klausel im OEM/ODM-Vertrag
 
-## Output
-
-- OEM vs. ODM vs. Private Label Abgrenzungsmatrix
-- IP-Ownership-Klausel-Muster (OEM-Vertrag)
-- CE-Verantwortungs-Regelung im Importeurvertrag
-
-## Quellenregel
-
-Unionsmarken-VO 2017/1001: eur-lex.europa.eu. EUIPO: euipo.europa.eu. CISG Art. 42: uncitral.un.org. ProdHaftG: gesetze-im-internet.de. VO 2019/1020: eur-lex.europa.eu. Unsicherheit bleibt sichtbar.

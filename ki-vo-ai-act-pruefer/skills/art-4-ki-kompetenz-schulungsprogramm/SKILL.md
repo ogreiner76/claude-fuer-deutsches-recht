@@ -5,10 +5,6 @@ description: "Art. 4 KI-VO als praktisches Schulungs- und Nachweissystem: Rollen
 
 # Art. 4 KI-VO — KI-Kompetenz als Compliance-Programm
 
-## Arbeitsauftrag
-
-Dieser Skill baut aus Art. 4 KI-VO kein Folienversprechen, sondern ein beweisbares Schulungs- und Kompetenzsystem. Ziel ist ein kurzer, operationalisierbarer Plan, der zeigt, wer im Unternehmen KI nutzt, welche Risiken dort entstehen und wie die Organisation nachweist, dass die beteiligten Personen ausreichend angeleitet wurden.
-
 ## Normanker
 
 - Art. 4 KI-VO: Anbieter und Betreiber muessen KI-Kompetenz sicherstellen.
@@ -38,19 +34,6 @@ Erzeuge eine Tabelle:
 | IT/Security | Logging, Zugriff, Cyber, Modellgrenzen | offene API ohne Mandantentrennung | Art. 12/15, Security-Gate | Architektur- und Lognachweis |
 | Fachabteilung | zulässige Prompts, Freigabegrenzen | Shadow-AI, personenbezogene Daten in Consumer-Tools | Use-Case-Check | Kurztest, Prompt-Policy |
 
-## Output
-
-Liefere:
-
-- Schulungsplan für 30/60/90 Tage.
-- Einseitige KI-Nutzungsregel für Mitarbeitende.
-- Nachweismatrix für Audits und Marktaufsicht.
-- Trigger, wann neu geschult werden muss: neues Tool, neuer Use Case, Anhang-III-Naehe, Incident, Rollenwechsel, neue Leitlinie/Norm.
-
-## Qualitätsregel
-
-Keine pauschale Aussage "alle muessen KI-Schulung machen". Immer Rolle, Risiko und tatsaechliche Nutzung verbinden. Bei Live-Output aktuelle KI-VO-Fassung und veroeffentlichte EU-Leitlinien pruefen.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek
@@ -79,3 +62,4 @@ Keine pauschale Aussage "alle muessen KI-Schulung machen". Immer Rolle, Risiko u
 - KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
 - Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
 - GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.
+

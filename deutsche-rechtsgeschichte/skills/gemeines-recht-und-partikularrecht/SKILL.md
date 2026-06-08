@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 1
 
 # Gemeines Recht und Partikularrecht
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhundert. Ius commune vs. Territorialrecht, Subsidiaritaet des roemischen Rechts, Preussens Sonderweg und Aufloesung durch die BGB-Kodifikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,12 +63,3 @@ Das Verhaeltnis von gemeinrechtlicher Doktrin (ius commune, roemisch-kanonisch) 
 - EGBGB: gesetze-im-internet.de für aktuell geltende Uebergangsvorschriften
 - Coing Handbuch (1973-88): Europaeische Kontextualisierung des gemeinen Rechts
 
-## Output
-
-- Karte: Partikularrechtliche Zersplitterung Deutschlands um 1800
-- Subsidiaritaetsprinzip: Anwendungsfaelle und Grenzen
-- EGBGB-Vorbehalte: Was blieb als Partikularrecht nach 1900?
-
-## Quellenregel
-
-ALR: ALEX/OeNB. EGBGB: gesetze-im-internet.de. Dernburg Pandekten: historische Edition (1884-1887). Coing Handbuch Bd. I: mit Seitenangabe.

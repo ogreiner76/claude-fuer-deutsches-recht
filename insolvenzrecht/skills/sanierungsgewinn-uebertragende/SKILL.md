@@ -5,10 +5,6 @@ description: "Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff. InsO) 
 
 # Sanierungsgewinn — Uebertragende Sanierung (Asset Deal) und ihre Steuerfolgen
 
-## Arbeitsbereich
-
-Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff. InsO) und der Sanierungsgewinn. Beim Asset Deal entsteht kein klassischer Sanierungsertrag beim Schuldner, weil keine Forderungen erlassen werden. Stattdessen Veraeusserungsgewinn bei der Schuldnerin (stille Reserven). Steuerliche Schnittstelle: Paragraph 3a EStG meist nicht direkt anwendbar; Paragraph 75 AO Uebernehmerhaftung. Abgrenzung zur Plan-Sanierung mit Forderungsverzicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -136,21 +132,6 @@ erlauben.
 5. Umsatzsteuer-Folge Paragraph 1 Absatz 1a UStG nicht beachtet.
 6. Annahme, bei Asset Deal in der Insolvenz seien Verlustvortraege erhalten — Paragraph 8c KStG ist zu pruefen, weil der Erwerber je nach Strukturierung schaedliche Anteilsuebertragungen ausloesen kann.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `uebertragende-sanierung-und-asset-deals` — Plan-Variante.
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — Verzichtsmechanik.
-- `insol-sanierungsgewinn-finanzamt-im-insolvenzverfahren` — FA-Position.
-- `insol-sanierungsgewinn-liquidation-statt-plan-folgen` — Liquidationsalternative.
-
-In anderen Plugins:
-
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt.
-- `grosskanzlei-corporate-ma` — Distressed-M-und-A.
-- `steuerrecht-anwalt-und-berater` — generelle Steuer-Skills.
-
 ## Quellen Stand 06/2026
 
 - Paragraphen 159 ff. InsO, `gesetze-im-internet.de/inso/`.
@@ -162,3 +143,4 @@ In anderen Plugins:
 - Paragraph 3a EStG.
 - BFH, Urteil vom 26.02.2003 — II R 19/01.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

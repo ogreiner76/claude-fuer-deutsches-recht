@@ -5,10 +5,6 @@ description: "Influencer-Recht: Preisangaben, Rabattaktionen, Countdown-Timer un
 
 # Influencer-Recht: Preisangaben, Rabatt, Countdown und Dark Patterns
 
-## Arbeitsbereich
-
-Influencer-Recht: Preisangaben, Rabattaktionen, Countdown-Timer und Dark Patterns – PAngV, Omnibus-Richtlinie, UWG und Verbraucherschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,3 +73,4 @@ Falsche Preisangaben und manipulative Designpraktiken sind abmahnträchtig:
 - 30-Tage-Preis-Dokumentationsprotokoll
 - Abmahnantwort (Preisangaben)
 - Korrektur-Guide für Countdown und Knappheits-Signale
+

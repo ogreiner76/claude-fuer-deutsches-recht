@@ -5,10 +5,6 @@ description: "Influencer-Recht: Werbekennzeichnung bei Eigenmarken – BGH Diana
 
 # Influencer-Recht: Kennzeichnung bei Eigenmarke
 
-## Arbeitsbereich
-
-Influencer-Recht: Werbekennzeichnung bei Eigenmarken – BGH Diana zur Löwen, Abgrenzung, Kennzeichnungspflicht beim Bewerben eigener Produkte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,3 +70,4 @@ Die Frage, ob Creator eigene Produkte kennzeichnen müssen, wurde durch den BGH 
 - Eigenmarken-Kennzeichnungsampel
 - Post-Formulierungsvorschlag (mit/ohne Label)
 - Produkthaftungs-Kurzcheck
+

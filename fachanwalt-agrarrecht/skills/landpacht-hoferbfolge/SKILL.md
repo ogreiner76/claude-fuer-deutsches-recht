@@ -5,9 +5,6 @@ description: "Landpacht Hoferbfolge im Agrarrecht: prüft konkrete Prüfungslini
 
 # Landpacht Hoferbfolge
 
-## Arbeitsbereich
-
-**Landpacht Hoferbfolge** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für fachanwalt agrarrecht wolfsentnahme, Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen, Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Landpacht Hoferbfolge im Agrarrecht: prüft konkrete Prüfungslini
 - Tragende Normen verifizieren: FAO § 14b, BGB §§ 581 ff. (Landpacht), GrdstVG, Landwirtschaftsanpassungsgesetz (LwAnpG), HöfeO, EU-GAP-VO (2021/2115, 2021/2116, 2021/2117), MarktorganisationsG, BNatSchG, DüV, AwSV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg`
@@ -30,10 +28,6 @@ description: "Landpacht Hoferbfolge im Agrarrecht: prüft konkrete Prüfungslini
 **Fokus:** Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Wolfsentnahme — Schnellabschuss-Verfahren § 45 BNatSchG
-
-## Zweck
-
-Anwaltliche Vertretung eines Tierhalters (Schäfer, Rinderhalter, Hobbyhalter) beim Antrag auf Erteilung einer Sondergenehmigung zur Entnahme eines konkreten Wolfs nach Nutztierrissen. Hochsensibler Sonderfall des Agrarrechts mit europarechtlichem Schutzstatus des Wolfs.
 
 ## Mandantenfragen — Kaltstart
 
@@ -254,10 +248,6 @@ Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwiss
 **Fokus:** Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO. Prüfraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige § 2 LPachtVG Pachtpreisanpassung § 593 BGB. Hoefeerbrecht HoefeO Anerbenrecht Hofeszession Abfindungsanspruch weichender Erben § 12 HoefeO Hofeswert. GAP-Foerderrecht Direktzahlungen Cross-Compliance Agrarumweltmassnahmen als Schnittstelle. Output Prüf-Memo Pacht-Vertrag oder Erb-Abfindungs-Berechnung mit Hofeswert-Ermittlung. Abgrenzung: fachanwalt-agrarrecht-hoefe-uebergabe für Hofuebergabe zu Lebzeiten.
 
 ### Landpacht und Höfeerbfolge prüfen
-
-## Zweck
-
-Zwei zentrale Instrumente des Agrarrechts: Landpachtvertrag und Höfeerbfolge. Beide weichen erheblich vom allgemeinen Zivil- und Erbrecht ab. Dieses Prüfraster erfasst die wichtigsten Konstellationen und verknüpft sie mit GAP-Förderrecht.
 
 ## Mandantenfragen — Kaltstart
 
@@ -513,10 +503,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Mandat-Triage Agrarrecht
 
-## Zweck
-
-Agrarrecht-Mandate sind oft saisonal und förderrechtlich fristbeladen. Triage stellt sicher dass Sammelantrag und LPachtVG-Frist nicht verloren gehen.
-
 ## Ablauf — sieben Fragen
 
 ### Frage 1 — Mandantenrolle?
@@ -659,3 +645,4 @@ LwVG §§ 1 ff. (Zuständigkeit Landwirtschaftsgericht) → § 70 VwGO (Widerspr
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+

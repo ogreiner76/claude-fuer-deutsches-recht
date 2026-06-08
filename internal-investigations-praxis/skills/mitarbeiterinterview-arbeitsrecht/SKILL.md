@@ -5,10 +5,6 @@ description: "Leitet Mitarbeiterinterviews in Internal Investigations rechtskonf
 
 # Mitarbeiterinterviews
 
-## Arbeitsbereich
-
-Leitet Mitarbeiterinterviews in Internal Investigations rechtskonform durch – Belehrung, Protokoll, Verwertbarkeit, Schweigerecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,15 +62,6 @@ Dieser Skill strukturiert die Vorbereitung, Durchführung und Nachbereitung von 
 - Keine unmittelbare Weitergabe von Interviewprotokollen an Staatsanwaltschaft ohne Prüfung der eigenen Interessen.
 - § 161a StPO: Zeugenpflicht gegenüber Staatsanwaltschaft; Arbeitgeber kann Mitarbeiter nicht anweisen, gegenüber Staatsanwalt zu schweigen ([gesetze-im-internet.de](https://www.gesetze-im-internet.de/stpo/__161a.html)).
 
-## Red-Team-Fragen
-
-- Wurde die Rolle des Interviewten klar definiert und dokumentiert – vor Beginn des Gesprächs?
-- Hat der betroffene Mitarbeiter Gelegenheit gehabt, einen eigenen Anwalt hinzuzuziehen?
-- Enthält das Protokoll Formulierungen, die in einem Strafverfahren als erzwungenes Geständnis gewertet werden könnten?
-- Wurde der Betriebsrat über die Interviewserie informiert, und hat er Mitbestimmungsrechte geltend gemacht?
-- Ist das Protokoll unter Anwaltsgeheimnis gehalten, und wurde der Verteiler auf Need-to-know beschränkt?
-- Wurden alle Interviewten gleich behandelt, oder entsteht ein Selektionsverdacht?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -95,3 +82,4 @@ Dieser Skill strukturiert die Vorbereitung, Durchführung und Nachbereitung von 
 - **Beweisverwertungsanalyse** für vorliegende Protokolle
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

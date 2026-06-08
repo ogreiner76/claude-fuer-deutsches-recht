@@ -5,10 +5,6 @@ description: "Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-a
 
 # Plattform-Piraterie und Notice-and-Action nach DSA
 
-## Arbeitsbereich
-
-Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -151,3 +147,4 @@ Bevor der Notice-and-Action-Antrag oder die Klage eingereicht wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **DSA (EU) 2022/2065, Art. 16/17/45:** Sehr grosse Online-Plattformen muessen wirksame Notice-and-Action-Verfahren einrichten, innerhalb angemessener Frist auf qualifizierte Notices reagieren und dem Melder den Bearbeitungsstatus mitteilen; Nichteinhaltung kann zu Bussgeldern bis zu 6 % des globalen Jahresumsatzes fuehren.
+

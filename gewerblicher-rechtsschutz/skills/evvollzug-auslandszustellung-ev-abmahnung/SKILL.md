@@ -5,10 +5,6 @@ description: "EV-Vollzug: Auslandszustellung einstweiliger Verfügungen im IP-Re
 
 # EV-Vollzug 006: Auslandszustellung der EV und Übersetzungspflicht
 
-## Arbeitsbereich
-
-EV-Vollzug: Auslandszustellung einstweiliger Verfügungen im IP-Recht nach EuZustVO, HZÜ und HCCH 2019. Übersetzungspflicht, Zustellwege EU/Nicht-EU, Vollziehungsfrist und praktische Fallstricke bei grenzüberschreitenden IP-Verfügungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -127,3 +123,4 @@ Mandatsbezug: Deutsches Gericht erlässt EV gegen englischen Online-Händler ode
 - `evvollzug-neu-001` – Vollziehungsfrist Überblick
 - `evvollzug-neu-003` – GV-Zustellung im Inland
 - `spezial-reaktion-internationaler-bezug-und-schnittstellen` – Internationale Bezüge im GewRS
+

@@ -5,10 +5,6 @@ description: "Zweitverwertungsrechte und Nebenrechte pauschal vereinbaren: Lizen
 
 # Zweitverwertungsrechte
 
-## Arbeitsbereich
-
-Zweitverwertungsrechte und Nebenrechte pauschal vereinbaren: Lizenz an juris/beck-online, Open Access, Sonderdruck, Festschriftsuebernahme, Bearbeitungen. Honorarverteilung und § 38 UrhG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -141,14 +137,6 @@ Mit freundlichen Gruessen
 - Sonderdruckmenge nicht geregelt - immer wiederkehrende Bitte.
 - Embargo-Frist nach UrhG § 38 Abs. 4 nicht eingehalten - rechtswidrige Open-Access-Veroeffentlichung.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Eingangsroutung des Nebenrechtsthemas.
-- `honorar-vertrag-royalties-triage` - Triage der Vertragslage.
-- `verl-honorarvertrag-templates-und-abweichungen` - Klauseltemplates für Nebenrechte.
-- `verl-tantieme-abrechnung-jaehrlich` - Auskehr im Rahmen der Jahresabrechnung.
-- `rechtecheck-urhg-verlg` - vertiefte urheberrechtliche Pruefung.
-
 ## Quellen Stand 06/2026
 
 - UrhG §§ 31, 31a, 32, 32a, 32d, 32e, 38, 40a, 41 - Nutzungsrechte, Verguetung, Zweitverwertung.
@@ -156,3 +144,4 @@ Mit freundlichen Gruessen
 - DFG-Foerderbedingungen Open Access (aktuelle Fassung unter dfg.de).
 - EU-Horizon-Programmregeln zu Open Access (cordis.europa.eu).
 - BGH-Rechtsprechung zu § 38 UrhG und Sublizenzen (Volltexte unter bundesgerichtshof.de und dejure.org).
+

@@ -3,17 +3,6 @@ name: kaltstart-triage
 description: "Einstieg, Schnelltriage und Fallrouting im Liquiditaetsplanung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage."
 ---
 
-## Konversationsstil – konzis starten, schnell zum Dokument
-
-- **Erste Antwort kurz.** Sachverhalt einordnen, höchstens **eine** unverzichtbare Rückfrage stellen, dann arbeiten.
-- **Kein Lehrbuch-Intro.** Keine Norm-Wiederholung, keine Selbstankündigung – sofort einsteigen.
-- **Schnell zum Dokument.** Sobald die Mindestangaben vorliegen, liefere einen ersten Entwurf mit `[noch zu klären: …]`-Platzhaltern, statt weiter abzufragen.
-- **Allgemein-Skill = Einstieg, nicht Vorlesung.** Triage, Rückfrage falls nötig, dann auf die Fachmodule dieses Plugins verweisen oder direkt den ersten Entwurf produzieren.
-- **Ausführlich nur, wenn es das Arbeitsergebnis verlangt:** echte Subsumtion im Gutachtenstil, Tabellen, Chronologien, Risiko-/Beweislastanalysen, Schriftsatz- oder Memo-Text.
-- **Erklärungen nur auf Nachfrage.** Wenn der Nutzer Hintergrund will, ausführlich. Sonst nicht.
-
-# Liquiditaetsplanung — Allgemein
-
 ## Schnellstart-Workflow
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Liquiditaetsplanung**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
@@ -181,23 +170,9 @@ Zielgruppe sind Berater und Organe von GmbH, UG und AG in wirtschaftlichen Krise
 - Eine 13-Wochen-Vorschau wird als Sanierungskonzept behandelt, obwohl GuV, Planbilanz, Maßnahmenwirkung und nachhaltige Sanierungsfähigkeit fehlen.
 - Haftungsrisiken des Geschaeftsfuehrers nach § 15b InsO werden nicht kommuniziert.
 
-## Querverweise
-
-- Plugin `grosskanzlei-corporate-ma` (Skill `grosskanzlei-ma-liquiditaetsvorschau`) — Liquiditaetsvorschau im M&A/Distressed-Kontext.
-- Plugin `grosskanzlei-corporate-ma` (Skill `grosskanzlei-ma-insolvenzreife`) — Insolvenzreife-Schwellencheck.
-- Plugin `zwangsvollstreckung` — Vollstreckungsabwehr bei akuter Zahlungsunfaehigkeit.
-- Plugin `wandeldarlehen-lebenszyklus` — Rangruecktritt zur Vermeidung insolvenzrechtlicher Nachrangwirkung.
-
 ## Quellen und Aktualitaet
 
 - Stand: 05/2026
 - InsO in der Fassung des SanInsFoG (in Kraft seit 01.01.2021); § 15b InsO ersetzt § 64 GmbHG a.F.
 - BGH-Urteil zur Passiva-II-Methode (Leitsatz: Deckungsluecke dauerhaft ueber 10 Prozent indiziert Zahlungsunfaehigkeit)
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

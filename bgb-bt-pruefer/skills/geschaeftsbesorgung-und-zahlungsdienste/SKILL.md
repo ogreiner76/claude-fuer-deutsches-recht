@@ -10,10 +10,6 @@ description: "Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, 
 - **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Zweck
-
-Zahlungsdienstrecht nach §§ 675c–676c BGB prüfen: Zahlungsaufträge, Erstattungsansprüche bei unautorisierter Zahlung und Haftung bei Fehlüberweisungen.
-
 ## Normanker
 
 - §§ 675c–676c BGB: Zahlungsdienstrecht (Umsetzung der PSD2)
@@ -49,25 +45,13 @@ Zahlungsdienstrecht nach §§ 675c–676c BGB prüfen: Zahlungsaufträge, Erstat
 - Grobe Fahrlässigkeit des Nutzers (PIN-Weitergabe) schließt Erstattungsanspruch nach § 675v Abs. 3 BGB aus.
 - Nachweis der Autorisierung liegt nach § 675w BGB beim Zahlungsdienstleister.
 - Fehlüberweisung auf falsche IBAN: Bank haftet nur bei eigener Pflichtverletzung.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Autorisierungs-Analyse mit Beweislastprüfung
-- Erstattungsanspruch-Berechnung
-- Haftungsverteilung Nutzer/Bank
-- Fristen- und Meldekalender
-
-## Qualitätsregeln
-
-- Autorisierungs-Nachweis nach § 675w BGB immer auf Bank legen.
-- Grobe Fahrlässigkeit des Nutzers nur bei klarem Pflichtenverstoß bejahen.
-- PSD2-Umsetzung in nationales Recht immer aktuell prüfen.
 
 ## Anschluss-Skills
 
@@ -81,10 +65,4 @@ Zahlungsdienstrecht nach §§ 675c–676c BGB prüfen: Zahlungsaufträge, Erstat
 - https://www.gesetze-im-internet.de/bgb/__675.html
 - https://www.gesetze-im-internet.de/bgb/__675c.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2366
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

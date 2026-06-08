@@ -45,7 +45,3 @@ description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polize
 4. Aufopferung subsidiaer?
 5. Sonderopfer-Schwelle?
 
-## Output
-
-- Quellenmatrix.
-- Synopse zu Art. 14 / Art. 34 GG.

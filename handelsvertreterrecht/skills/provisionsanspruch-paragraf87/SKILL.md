@@ -5,10 +5,6 @@ description: "Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach §
 
 # Provisionsanspruch nach § 87 HGB — Entstehung, Fälligkeit und Durchsetzung
 
-## Arbeitsbereich
-
-Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach § 87 HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit nach Ausführung des Geschäfts, Provisionssatz und Bemessungsgrundlage, Ansprüche bei Direktabschlüssen und nachvertraglichen Folgegeschäften sowie Verjährung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,10 +62,6 @@ Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländis
 - Buchauszug nicht angefordert — fehlende Geschäfte nicht erfasst.
 - Verjährung eingetreten — trotz offensichtlicher Ansprüche.
 
-## Output
-
-Provisionsberechnung mit Kausalitätsnachweis, Klageschriftentwurf, Buchauszugs-Anforderung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [§ 87c HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__87c.html)
 - [RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

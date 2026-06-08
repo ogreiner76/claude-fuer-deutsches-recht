@@ -5,10 +5,6 @@ description: "IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach
 
 # IHK und Berufsgenossenschaft
 
-## Arbeitsbereich
-
-IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gründung erledigen. Normen: §§ 2 ff. IHKG, §§ 150 ff. SGB VII. Prüfraster: Branchenzuordnung BG, IHK-Beitragspflicht, Fristen. Output: Checkliste IHK-Anmeldung und BG-Anmeldung. Abgrenzung: nicht Gewerbeamt-Anmeldung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,9 +42,6 @@ IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gründun
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## IHK — Mitgliedschaft und Beitrag
 
 ### Pflichtmitgliedschaft
@@ -169,3 +162,4 @@ STATUS PFLICHTMELDUNGEN
 - `gesellschaftsgruender-kommandocenter` — Master-Gründung
 - `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — Gewerbeanmeldung vor IHK
 - `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Status GF und Beschäftigte
+

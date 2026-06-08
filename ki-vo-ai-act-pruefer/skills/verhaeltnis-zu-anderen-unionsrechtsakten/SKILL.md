@@ -5,10 +5,6 @@ description: "Anwalt oder Compliance-Beauftragter fragt: Gilt neben der KI-VO no
 
 # Verhältnis zu anderen Unionsrechtsakten
 
-## Zweck
-
-Die KI-VO steht nicht isoliert. Sie verweist auf andere Unionsrechtsakte, wird von diesen ergänzt und überlagert in manchen Bereichen bestehende Pflichten. Dieser Skill klärt das Rangverhältnis und zeigt, welche Rechtsakte kumulativ zu beachten sind.
-
 ## Grundregel: Kumulation, nicht Verdrängung
 
 Die KI-VO verdrängt andere Unionsrechtsakte in der Regel nicht, sondern ergänzt sie. Unternehmen müssen häufig mehrere Regelwerke gleichzeitig einhalten.
@@ -87,9 +83,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -116,3 +109,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

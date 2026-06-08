@@ -5,10 +5,6 @@ description: "Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für
 
 # Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT
 
-## Arbeitsbereich
-
-Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten. Erstellt Datenstrategie für AgTech-Unternehmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,14 +54,6 @@ Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionsla
 - Agrardaten aggregierter Betriebe können trotz Einzelanonymisierung in der Kombination re-identifizierbar sein.
 - Geschäftsgeheimnisschutz für Erntedaten setzt angemessene Maßnahmen voraus — fehlende NDA oder offene API schwächt den Schutz.
 - TDM-Schranke schützt den Saatgut-KI-Anbieter nur, wenn kein wirksamer Opt-out erklärt wurde.
-
-## Output
-
-- AgTech-Datenbankherstellerrecht-Check (BHB-Prüfung + Data Act)
-- Data Act Art. 4 Zugangsrecht-Implementierungsguide für AgTech
-- Geschäftsgeheimnisschutz-Konzept für Agrardaten
-- TDM-Opt-out-Guide für AgTech-Unternehmen
-- DSGVO-Agrardaten-Compliance-Check (GPS, Betriebsdaten)
 
 ## Quellen
 

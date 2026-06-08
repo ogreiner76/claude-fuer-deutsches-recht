@@ -5,10 +5,6 @@ description: "Brueckenskill: Wie verzahnt sich die Rulemap-Arbeit mit der uebrig
 
 # Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt
 
-## Arbeitsbereich
-
-Brueckenskill: Wie verzahnt sich die Rulemap-Arbeit mit der uebrigen Legistik-Werkstatt (Auftragsaufnahme; Ressort-Router; Heranfuehrung; Ressortaufgaben; Sachfeld-Spezialfelder; normhierarchie-routing; verfassungsmaessigkeit-quercheck; europarechtskonformitaet; folgenabschaetzung). Output Kettenpfad mit Eingaben; Ausgaben; Verantwortlichkeiten je Stufe. Abgrenzung zur fachlichen Modellierung selbst; hier wird die Werkstattkette beschrieben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt**. Prüfe
 - `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -49,27 +44,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Die Rulemap-Skills bilden eine eigene Subkette; sie werden nach der Ressort- und Sachfeld-Klaerung in das Werkstatt-eingehaengt. Die Quercheckskills (verfassungsmaessigkeit; europarechtskonformitaet) wirken weiter; die rmap-Skills liefern zusaetzlich die maschinenlesbare Fassung.
 
-## Vorgehen
-
-1. Auftragsblatt um Rulemap-Erfordernis ergaenzen
-2. Nach Sachfeld-Kompass legw-rmap-grundlagen anstossen
-3. Vorgehensmodell aus legw-rmap-norm-zu-rulemap durchlaufen
-4. Quercheckskills (verfassungs- und europarechtlich) parallel arbeiten lassen
-5. Rulemap mit Begruendung; NKR-Bericht und Vollzugsplan zusammenfuehren
-6. Akte schliessen; Builder-Export ablegen
-
 ## Pruefpunkte
 
 Pruefen: ist die Werkstattkette vollstaendig durchlaufen? Sind Querprueferei und Rulemap-Erstellung sauber verzahnt? Liegt am Ende ein Aktenstand mit Text- und Logikfassung der Norm vor?
-
-## Output
-
-```
-Skill: legw-rmap-anschluss-an-legw
-Thema: Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt
-Ergebnis: <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills: siehe Description-Verweise
-```
 
 ## Abgrenzung
 
@@ -78,3 +55,4 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 ## Quellen Stand 06/2026
 
 Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
+

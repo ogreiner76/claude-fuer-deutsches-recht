@@ -5,10 +5,6 @@ description: "Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahiere
 
 # Insichgeschäft — § 181 BGB
 
-## Arbeitsbereich
-
-Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -57,13 +53,6 @@ Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfach
 - Schwebende Unwirksamkeit nach § 177 BGB bedeutet Genehmigungsmöglichkeit — keine endgültige Nichtigkeit.
 - Ausnahme bei rechtlichem Vorteil gilt nur, wenn keinerlei rechtliche Belastung entsteht.
 
-## Output
-
-- Gutachtenstil-Abschnitt zu § 181 BGB mit Ausnahmeprüfung
-- Prüfampel: Insichgeschäft verboten / Ausnahme greift / schwebend unwirksam mit Genehmigungsoption
-- Klausurlösungsskizze mit GmbH-Sonderfall und § 177 BGB-Folgeprüfung
-- Rückfragenliste zu Vollmachts- und Satzungsregelungen
-
 ## Quellen
 
 - [§ 181 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__181.html)
@@ -93,3 +82,4 @@ Person für zwei Vertragsparteien gleichzeitig verhandelt. § 181 BGB erfasst be
 - Ausdrückliche Gestattung: In Vollmacht, Satzung oder Gesellschaftsvertrag vorhanden?
 - Schwebende Unwirksamkeit und Genehmigung nach § 177 BGB als Folge?
 - GmbH-Besonderheit: § 35 Abs. 3 GmbHG als Befreiungsmöglichkeit?
+

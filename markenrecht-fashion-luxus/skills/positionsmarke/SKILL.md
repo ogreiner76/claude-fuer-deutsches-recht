@@ -5,10 +5,6 @@ description: "Positionsmarken für Streifen, Muster, Farbpositionen und Produktd
 
 # Positionsmarken
 
-## Arbeitsbereich
-
-Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -129,3 +125,4 @@ Bevor die Anmeldung eingereicht wird, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > **EUIPO BoA, Entsch. R 2592/2011-4 (Bottega Veneta — Intrecciato):** Ein charakteristisches Flechtmuster auf Lederhandtaschen kann als eingetragene Positionsmarke geschuetzt werden, wenn durch Verkehrsdurchsetzung belegt ist, dass der angesprochene Verkehr das Muster als Herkunftshinweis auf den Hersteller versteht.
+

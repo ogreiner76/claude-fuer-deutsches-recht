@@ -5,10 +5,6 @@ description: "Datenpanne beim Berufsträger (Verteidigungs- und Kammerantwort): 
 
 # Datenpanne beim Berufsträger: Verteidigungs- und Kammerantwort
 
-## Arbeitsbereich
-
-Datenpanne beim Berufsträger (Verteidigungs- und Kammerantwort): steuert verlorener Laptop, Fehlversand, Cloud-Leak, Mandatsgeheimnis und Meldestrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,12 +16,6 @@ Datenpanne beim Berufsträger (Verteidigungs- und Kammerantwort): steuert verlor
 ## Fachkern: Datenpanne beim Berufsträger: Verteidigungs- und Kammerantwort
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG/BOStB, WPO/BS WP, PAO/BOPA, RDG/RVG, Kammerverfahren, Berufsgerichtsbarkeit und Verwaltungsrechtsschutz.
 - **Entscheidende Weiche:** Bestimme Berufsgruppe, Pflichtnorm, Kammerzuständigkeit, Anhörung, Verteidigungsziel, Sanktion, Sofortmaßnahme und Reputationsschutz.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** verlorener Laptop, Fehlversand, Cloud-Leak, Mandatsgeheimnis und Meldestrategie - Verteidigungs- und Kammerantwort
 
 ## Sofortsortierung
 
@@ -58,6 +48,3 @@ Erzeuge Stellungnahme, Akteneinsicht, Bestreiten, Einordnung, Entlastung, Wieder
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
 
-## Quellenhygiene
-
-Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

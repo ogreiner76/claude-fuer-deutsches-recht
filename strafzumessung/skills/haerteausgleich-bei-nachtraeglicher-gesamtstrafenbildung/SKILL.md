@@ -144,14 +144,6 @@ Haerteausgleich.
 
 Die BGH-Rspr. zum Haerteausgleich bei nicht moeglicher Einbeziehung nach § 55 StGB ist umfangreich und gefestigt; Leitentscheidungen finden sich beispielsweise in BGHSt-Bestaenden zur Gesamtstrafenbildung. **Vor Zitat im Schriftsatz immer Aktenzeichen in dejure.org oder openjur.de verifizieren**, da konkrete Az nicht aus Modellwissen uebernommen werden duerfen (vgl. Quellenregel `references/zitierweise.md`).
 
-## Querverweise
-
-- `nachtraegliche-gesamtstrafenbildung-55-stgb` — Mutternorm.
-- `gesamtstrafenbildung-53-54-stgb-erste-instanz` — Grundlagen.
-- `bewaehrungswiderruf-56f-stgb` — Alternativ-Pfad bei laufender Bewaehrung.
-- `paragraph-46-stgb-grundsatz-strafzumessung` — Einbettung in Strafzumessung.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Begruendungspflicht im Urteil.
-
 ## Quellen und Stand 05/2026
 
 - § 55 StGB in der geltenden Fassung.
@@ -159,3 +151,4 @@ Die BGH-Rspr. zum Haerteausgleich bei nicht moeglicher Einbeziehung nach § 55 S
 - § 267 Abs. 3 StPO.
 - BGH-staendige Linie zum Haerteausgleich bei nicht moeglicher Einbeziehung — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

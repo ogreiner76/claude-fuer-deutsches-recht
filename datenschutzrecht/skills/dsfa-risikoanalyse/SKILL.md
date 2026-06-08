@@ -5,10 +5,6 @@ description: "Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal 
 
 # Risikoanalyse Eintrittswahrscheinlichkeit mal Schadenschwere
 
-## Zweck
-
-Strukturierte Risikoanalyse im Rahmen einer DSFA nach Art. 35 Abs. 7 lit. c DSGVO. Pro Bedrohungsszenario wird die Eintrittswahrscheinlichkeit mit der Schadenschwere für die Betroffenen zu einer Risikostufe verknuepft. Ergebnis ist eine vollstaendige Risikomatrix in Ampelfarben mit jeweils nachvollziehbarer Begruendung.
-
 ## Wann dieses Modul hilft
 
 - In jeder vollstaendigen DSFA
@@ -97,14 +93,6 @@ Unterschrift DSB: ____________________
 - Risikomatrix wird nicht aktualisiert — DSFA als Einmaldokument.
 - Schutzziele werden auf Vertraulichkeit reduziert — Transparenz und Intervenierbarkeit werden vergessen.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Aufnahme in Vollvorlage
-- `datenschutzrecht/skills/dsfa-edpb-leitlinien-9-19-anwendung/SKILL.md` — EDSA-Kriterien für Schwellwert
-- `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md` — Restrisiko und Art. 36
-- `datenschutzrecht/skills/dsfa-methodik-cnil-pia-vs-bsfd-bsi/SKILL.md` — Methodenwahl
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35 Abs. 7 lit. c DSGVO
@@ -114,3 +102,4 @@ Unterschrift DSB: ____________________
 - SDM V3.0 — Schutzziele
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

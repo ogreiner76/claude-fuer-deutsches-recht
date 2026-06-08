@@ -159,15 +159,6 @@ III. Strafzumessung
 - **Verstaendigung** ohne Mitteilung im Urteil (§ 267 Abs. 3 Satz 5 StPO).
 - **U-Haft-Anrechnung** vergessen.
 
-## Querverweise
-
-- `paragraph-46-stgb-grundsatz-strafzumessung` — Grundsatz.
-- `strafzumessungs-tatsachen-46-ii-stgb` — Katalog.
-- `bewaehrung-56-stgb-positive-sozialprognose` — Bewaehrung.
-- `verstaendigung-257c-stpo-strafzumessung` — Verstaendigung.
-- Plugin `fachanwalt-strafrecht`: `fachanwalt-strafrecht-revisionsbegruendung`.
-- Plugin `urteilsbauer-relationsmacher` — Urteilsformulierung.
-
 ## Quellen und Stand 05/2026
 
 - § 267 Abs. 3 StPO in der geltenden Fassung.
@@ -175,3 +166,4 @@ III. Strafzumessung
 - §§ 257c, 273 Abs. 1a, 337 StPO.
 - Art. 6 EMRK.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

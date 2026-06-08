@@ -29,10 +29,6 @@ Nicht aus Modellwissen; insbesondere zur Reichweite des Anwaltsprivilegs bei Cyb
 
 Art. 32; Art. 33 Abs. 3 lit. c DSGVO; § 43a Abs. 2 BRAO; § 53 StPO; § 203 StGB.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Beauftragungsraster
 
 Auftraggeber: Kanzlei in Untermandat / Mandant direkt.
@@ -51,3 +47,4 @@ Schnittstellen: Versicherung; Aufsichtsbehörde; Strafverfolgung.
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+

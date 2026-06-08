@@ -5,10 +5,6 @@ description: "SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15
 
 # SCHUFA Scoring Negativeintrag DSGVO
 
-## Arbeitsbereich
-
-SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15/17/21/22 DSGVO, EuGH C-634/21 und C-26/22/C-64/22, Restschuldbefreiung, Score-Nutzung durch Banken und Löschungs-/Beschwerdeweg. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15/17/21/22 DSGV
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Einsatz
-
-Anwendungsfall: verbraucher wegen SCHUFA, Auskunftei, Score, Kreditabsage, Kontoablehnung, Restschuldbefreiung oder streitiger Forderung Hilfe brauchen.
 
 ## Rechtsanker
 
@@ -52,13 +44,7 @@ Anwendungsfall: verbraucher wegen SCHUFA, Auskunftei, Score, Kreditabsage, Konto
 4. **Score-Entscheidung prüfen:** Hat der Dritte den Score nur als Hinweis genutzt oder war er faktisch entscheidend?
 5. **Abhilfe wählen:** Auskunft, Berichtigung, Löschung, Widerspruch, Beschwerde bei Datenschutzaufsicht, Eilbrief an Bank/Vermieter.
 
-## Output
-
-- Auskunfts- und Löschungsverlangen.
-- Score-Entscheidungsfragebogen an Bank/Vermieter.
-- Beschwerdeentwurf an Datenschutzaufsicht.
-- Risikoampel für "schnell löschen", "erst Forderung klären", "gerichtlich/eilig prüfen".
-
 ## Nicht tun
 
 Keine pauschalen Löschungsversprechen. Bei titulierten Forderungen, laufenden Insolvenz-/Restschuldbefreiungsthemen und Identitätsdiebstahl sauber in Fachpfade routen.
+

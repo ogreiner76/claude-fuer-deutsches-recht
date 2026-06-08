@@ -5,10 +5,6 @@ description: "Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung B
 
 # Rueckruf bei spaet erkanntem Fehlerbeitrag
 
-## Arbeitsbereich
-
-Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte für Print- und Online-Rueckruf, Kostenabwaegung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -161,15 +157,6 @@ Mit freundlichen Gruessen
 - Keine Dokumentation - bei spaeterer Klage Beweisnot.
 - Korrekturversion enthaelt neue Fehler - Doppelschaden.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Eingangsroutung des Vorfalls.
-- `workflow-fristen-und-risikoampel` - Abmahn- und Eskalationsfristen.
-- `verl-richtigstellung-online-print` - parallele Richtigstellungsmassnahme.
-- `verl-abstimmung-mit-rechtsabteilung-pruefung` - Justiziariatseinbindung.
-- `verl-haftungsfreistellung-autor-verlag` - vertragliche Verteilung.
-- `qualitaetsgate-verlag` - Praeventionslogik.
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 823, 824, 1004 (analog) - Schadensersatz, Kreditgefaehrdung, Beseitigung.
@@ -177,3 +164,4 @@ Mit freundlichen Gruessen
 - DDG § 7 i.V.m. DSA Art. 4-8 - beschraenkte Verantwortlichkeit Diensteanbieter; § 7 Abs. 2 DDG - WLAN-Sondervorschrift; DDG § 8 Abs. 1 - Sperrungsanspruch nur gegen Uebermittlungs-/Zugangsdiensteanbieter (Mere Conduit), nicht gegen Hosting oder Datenbankanbieter.
 - UWG §§ 5, 5a - Irrefuehrung.
 - Aktuelle BVerfG-Rechtsprechung zur Abwaegung Meinungsfreiheit/Persoenlichkeitsrecht (bundesverfassungsgericht.de).
+

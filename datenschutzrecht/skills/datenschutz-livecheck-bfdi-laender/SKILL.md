@@ -5,10 +5,6 @@ description: "Livecheck-Skill für aktuelle Veroeffentlichungen BfDI und Landesd
 
 # Datenschutz Livecheck — BfDI und Landesaufsichten
 
-## Zweck
-
-Dieser Skill stellt sicher, dass vor jeder Mandantenkommunikation oder Stellungnahme zu Aufsichtsbehoerden die aktuelle Rechts- und Aufsichtspraxis verifiziert wird. Datenschutzrecht aendert sich rasant durch EuGH-Vorabentscheidungen, EDSA-Leitlinien und nationale Aufsichts-Praxis. Modellwissen ist nicht ausreichend.
-
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 Sie brauchen den Skill **vor jeder** Mandantenkommunikation in einem datenschutzrechtlichen Verfahren, insbesondere:
@@ -109,14 +105,6 @@ Verifizierung: [Quelle, URL gespeichert in Akte].
 
 **Was triggert die Aufsicht negativ?** Veraltete Zitate, EuGH-Az ohne Datum, Bezug auf Aufsichtspraxis anderer Länder ohne Pruefung.
 
-## Querverweise
-
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-- `workflow-rechtsquellen-livecheck`
-- `spezial-transfer-livequellen-und-rechtsprechungscheck`
-
 ## Quellen Stand 06/2026
 
 - DSGVO.
@@ -128,3 +116,4 @@ Verifizierung: [Quelle, URL gespeichert in Akte].
 - EuGH curia.europa.eu.
 - Landesaufsichten siehe Liste oben.
 - Keine Aufsatzfundstellen aus Modellwissen.
+

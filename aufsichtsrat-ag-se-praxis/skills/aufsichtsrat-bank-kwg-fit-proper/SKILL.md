@@ -5,10 +5,6 @@ description: "AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Bank KWG Fit Proper; konkr
 
 # Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen
 
-## Arbeitsbereich
-
-AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Bank KWG Fit Proper; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -49,14 +45,6 @@ Dieser Skill prüft die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsm
 - BaFin fordert Abberufung: § 36 Abs. 3 KWG, Anhörung (§ 28 VwVfG), Gegendarstellung, Klage VG Frankfurt; aufschiebende Wirkung § 80 VwGO
 - SREP-Ergebnis bemängelt AR-Governance: CRD V Art. 91, § 25d KWG-Maßnahmenplan; Ausschuss-Struktur überarbeiten
 - Interessenkonflikt Aufsichtsratsmitglied: EBA/GL/2021/06 Abschnitt 7; Offenlegungspflicht, Enthaltung bei betroffenen Beschlüssen, ggf. Niederlegung
-
-## Output
-
-Fit-and-Proper-Eignungsmatrix für das Gesamtgremium; Mandats-Zeitbudget-Tabelle; Anzeige-Checkliste § 24 KWG für Aufsichtsrat-Änderungen; Gegendarstellungs-Vorlage bei BaFin-Beanstandung; Ausschuss-Strukturplan (Risiko, Vergütung, Prüfung).
-
-## Quellenregel
-
-gesetze-im-internet.de (KWG, FinDAG, AnzV), bafin.de (Merkblatt Aufsichtsorgan 2022, FAQ Fit-and-Proper), eba.europa.eu (EBA/GL/2021/06). Live-Check: BaFin-Merkblatt Aufsichtsorgan bei CRD-VI-Umsetzung aktualisieren; EBA/GL/2021/06 Überarbeitung für PSD3 im Gange.
 
 ## Normen und Rechtsprechung
 

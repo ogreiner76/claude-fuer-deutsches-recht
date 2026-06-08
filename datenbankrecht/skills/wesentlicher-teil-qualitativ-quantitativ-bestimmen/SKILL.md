@@ -59,14 +59,6 @@ Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer D
 - Die Kumulations-Regel (§ 87b Abs. 1 S. 2 UrhG) wird von Verletzern oft ignoriert; Verteidiger übersehen sie gleichermaßen.
 - Gegendarstellung des Verletzers über eigene Datenquellen kann die Kausalität bestreiten — Provenienznachweis vorbereiten.
 
-## Output
-
-- Wesentlichkeitsbewertungsmatrix (quantitativ/qualitativ)
-- Entnahme-Nachweisprotokoll (Logs, Screenshots, Hashes)
-- Gutachtenauftrag-Vorlage für Sachverständigen
-- Argumentationsleitfaden für Klageschrift oder Klageerwiderung
-- Kumulationsnachweis-Tabelle für wiederholte Teilentnahmen
-
 ## Quellen
 
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
@@ -75,3 +67,4 @@ Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer D
 - [EuGH C-545/07 Apis/Lakorda — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-545/07)
 - [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
 - [§ 97 UrhG Schadensersatz — dejure.org](https://dejure.org/gesetze/UrhG/97.html)
+

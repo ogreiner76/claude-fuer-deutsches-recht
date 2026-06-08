@@ -16,10 +16,6 @@ description: "Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-4000 Zellen einzeln zu sichten ist nicht praktikabel. Diese Aggregation reduziert die Sicht ohne Information zu verlieren — wer reinzoomen will klickt durch.
-
 ## Aggregationsstufen
 
 ### Zellen-Ampel (atomisch)
@@ -62,3 +58,4 @@ Wenn ein Skill ein Finding mit einem Schweregrad produziert und ein anderer Skil
 ## Hinweis zur Prüfer-Abnahme
 
 Vor Mandatsabnahme müssen ALLE Zellen mit `prüfer-flag` durch den Prüfer abgehakt sein. Ohne Prüfer-Abnahme darf das Aggregat nicht an Mandanten gehen.
+

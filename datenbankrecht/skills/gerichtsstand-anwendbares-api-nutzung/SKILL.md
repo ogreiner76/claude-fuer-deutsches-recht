@@ -59,14 +59,6 @@ Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständig
 - Beklagter im Drittland (außerhalb EU) — keine EuGVVO-Anwendung; nationale Zuständigkeitsregeln prüfen.
 - Forum-Shopping zwischen EU-Gerichten muss rechtsmissbräuchliche Antizipation vermeiden — LG-Wahl muss sachlich gerechtfertigt sein.
 
-## Output
-
-- Gerichtsstandsanalyse (EU-intern und international) für Datenbankrechts-Verletzungsklage
-- Forum-Shopping-Strategie-Empfehlung (LG Hamburg / München / Köln)
-- Anwendbares-Recht-Check nach Art. 8 Rom-II-VO
-- Gerichtsstandsklausel-Vorlage für Datenbanklizenzverträge (Art. 25 EuGVVO)
-- Schiedsklausel-Analyse für internationale Datenbankstreitigkeiten
-
 ## Quellen
 
 - [Art. 7 EuGVVO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
@@ -75,3 +67,4 @@ Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständig
 - [EuGH C-170/12 Pinckney — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-170/12)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [Art. 25 EuGVVO — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32012R1215)
+

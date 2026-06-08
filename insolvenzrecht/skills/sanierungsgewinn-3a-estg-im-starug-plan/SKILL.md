@@ -5,10 +5,6 @@ description: "Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 
 
 # Sanierungsgewinn — Paragraph 3a EStG bei StaRUG-Restrukturierungsplan
 
-## Arbeitsbereich
-
-Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Glaeubiger im StaRUG-Kontext belegen. Antragsmechanik für den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung. Mustertexte für Restrukturierungsplan und Steuererklaerung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -175,22 +171,6 @@ b) die Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG gemaess der
 4. Vergessen, dass Paragraph 3a EStG keinen "StaRUG-Bonus" einbaut, sondern die normalen vier Voraussetzungen verlangt.
 5. Stabilisierungsanordnung Paragraph 49 StaRUG nicht beim Finanzamt eingelegt — Aufrechnungs- und Vollstreckungsverhalten des FA bleibt sonst aktiv.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — Vergleichsfall.
-- `insol-sanierungsgewinn-eigenverwaltung-und-cra` — Eigenverwaltungs-Schiene.
-- `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack` — GewSt-Parallel.
-- `krisenfrueherkennung-starug` — StaRUG-Frueherkennung.
-
-In anderen Plugins:
-
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt.
-- `steuerrecht-anwalt-und-berater` — generelle Steuer-Skills.
-- `grosskanzlei-corporate-ma` — Investor-Sicht.
-
 ## Quellen Stand 06/2026
 
 ### Normen
@@ -225,3 +205,4 @@ In anderen Plugins:
 - `steuerrecht-anwalt-und-berater/stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse für stehen gelassene Verbindlichkeiten in der Liquidation (Plan-B-Pfad bei Scheitern des StaRUG-Plans).
 
 Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

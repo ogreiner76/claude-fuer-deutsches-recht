@@ -5,10 +5,6 @@ description: "Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten a
 
 # Verl-025 · Verlagsinsolvenz: Rechterückfall und Lagerbestand
 
-## Arbeitsbereich
-
-Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten an Autoren, Lagerbestandsverwertung, InsO §§ 103–119, UrhG §§ 41–42 und praktische Schritte für betroffene Autoren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -125,3 +121,4 @@ Die **Insolvenz eines Verlags** ist für Autoren ein Worst-Case-Szenario: Honora
 - **Rückruf-Ankündigung** nach § 41 UrhG
 - **Nutzungsrecht-Rückfall-Erklärung** (für neuen Verlag)
 - **Neuen-Verlagsvertrag-Briefing**: Was braucht der neue Verlag an Unterlagen
+

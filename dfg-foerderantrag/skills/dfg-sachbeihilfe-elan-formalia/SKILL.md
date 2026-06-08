@@ -149,25 +149,7 @@ Arbeitsfokus: **Sachbeihilfe und elan-Formalia**. Prüfe diese Anker am Sachverh
 - `DFG-Kodex Leitlinie 7` — Qualitätssicherung.
 - `DFG-Kodex Leitlinie 14` — Autorschaft.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-| Abschnitt | Ergebnis |
-| --- | --- |
-| Programmschiene | Sachbeihilfe / Modulmix |
-| Einreichungsreife | Grün / Gelb / Rot |
-| Fehlende Anlagen | konkrete Liste mit Verantwortlichen und Fristen |
-| Risiken | formale Ablehnung, Nachforderung, Kürzungsrisiko |
-| Nächster Skill | Textarbeit, Budget oder Reviewer-Red-Team |
-
-## Querverweise
-
-- Programmstrategie davor: `dfg-foerderstrategie-schnell-oder-gross`
-- Projektbeschreibung: `dfg-projektbeschreibung-arbeitsprogramm`
-- Finanzplan: `dfg-finanzplan-module-personal-geraete`
-- Vor Einreichung: `dfg-reviewer-red-team`
 
 ## Quellen Stand 05/2026
 
@@ -178,3 +160,4 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DFG-FAQ Begutachtung: dfg.de
 
 Vordrucknummern (z. B. 53.01) ändern sich periodisch — vor jeder Einreichung live verifizieren.
+

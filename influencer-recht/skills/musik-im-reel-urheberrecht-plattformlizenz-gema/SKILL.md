@@ -5,10 +5,6 @@ description: "Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA
 
 # Influencer-Recht: Musik im Reel – Urheberrecht, Plattformlizenz und GEMA
 
-## Arbeitsbereich
-
-Influencer-Recht: Musik in Reels und Videos – Urheberrecht, GEMA, Plattformlizenzen, kommerzielle Nutzung und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,3 +73,4 @@ Musik in Creator-Content ist ein unterschätztes Haftungsfeld:
 - Lizenzierungspfad für kommerzielle Musik
 - Muster-Anfrage Synchronlizenz
 - Alternative-Plattformen-Liste (royalty-free mit kommerziellem Recht)
+

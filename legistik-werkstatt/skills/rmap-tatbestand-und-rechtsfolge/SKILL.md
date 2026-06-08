@@ -16,14 +16,6 @@ description: "Knotenmodellierung in der Rulemap: jeden Tatbestand als pruefbare 
 
 Jeder Tatbestand wird zum pruefbaren Bedingungsknoten mit klarem Datentyp (boolean; Schwellenwert; Datum; Aufzaehlung). Jede Rechtsfolge wird zum Aktionsknoten mit eindeutigem Effekt (Bewilligung; Versagung; Auflage; Frist setzen). Konjunktion (und); Disjunktion (oder); Negation; Vergleichsoperator werden explizit gemacht; nicht durch Sprache verschleiert.
 
-## Vorgehen
-
-1. Tatbestand 1 bis n extrahieren und als Knoten anlegen
-2. Rechtsfolgen extrahieren und mit Tatbestaenden verbinden
-3. Konjunktionen und Disjunktionen explizit kennzeichnen
-4. Datentypen je Knoten festlegen
-5. Konfliktfreiheit pruefen; widerspruechliche Pfade ausschliessen
-
 ## Pruefpunkte
 
 Pruefen: ist jede Voraussetzung als eigener Knoten modelliert? Sind unbestimmte Rechtsbegriffe (zumutbar; angemessen; ueberwiegendes Interesse) entweder konkretisiert oder als gesonderter Beurteilungsknoten markiert?
@@ -43,17 +35,7 @@ Arbeitsfokus: **Tatbestand und Rechtsfolge als Knoten modellieren**. Prüfe dies
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-```
-Skill: legw-rmap-tatbestand-und-rechtsfolge
-Thema: Tatbestand und Rechtsfolge als Knoten modellieren
-Ergebnis: <Artefakt gemaess Kern und Vorgehen>
-Naechste Skills: siehe Description-Verweise
-```
 
 ## Abgrenzung
 
@@ -62,3 +44,4 @@ Abgrenzung zur klassischen Legistik-Kette: Die legw-rmap-Skills schliessen die N
 ## Quellen Stand 06/2026
 
 Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Stephan Breidenbach; Bundesagentur für Sprunginnovationen SPRIN-D als Investor; Equity-Runde April 2025; eingesetzt im BMJ). Methodenbeschreibung unter rulemapping.com und rulemapping.org; Builder kostenlos verfuegbar. Begleitend: Bundesregierung-Modernisierungsagenda Oktober 2025; SPRIND-Projektseite. Plus Bestandsquellen: gesetze-im-internet.de; bundestag.de; bundesregierung.de; bmj.de; normenkontrollrat.bund.de; bundesverfassungsgericht.de; bundesgerichtshof.de; eur-lex.europa.eu.
+

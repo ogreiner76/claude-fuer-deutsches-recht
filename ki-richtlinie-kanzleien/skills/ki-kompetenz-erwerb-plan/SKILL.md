@@ -5,10 +5,6 @@ description: "KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstel
 
 # KI-Kompetenz Erwerb Plan
 
-## Arbeitsbereich
-
-KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Prüfraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,15 +20,6 @@ Art. 4 KI-VO verpflichtet Betreiber von KI-Systemen, sicherzustellen, dass ihr P
 ## Rechtlicher Hintergrund
 
 Art. 4 KI-VO: Pflicht zur KI-Kompetenz — kontextspezifisch, keine formale Zertifizierungspflicht, aber Maßnahmen "nach besten Kräften" erforderlich. Art. 3 Nr. 56 KI-VO: Definition KI-Kompetenz — Fähigkeiten, Kenntnisse und Verständnis für sachkundigen KI-Einsatz sowie Bewusstsein für Chancen und Risiken. Erwägungsgrund 20 KI-VO: KI-Kompetenz soll Betreiber befähigen, fundierte Entscheidungen über KI-Systeme zu treffen. Art. 26 Abs. 5 KI-VO: Bei Hochrisiko-Systemen muss der Betreiber sicherstellen, dass das zuständige Personal über die notwendige Kompetenz, Schulung und Autorität verfügt. § 43 BRAO: Gewissenhaftigkeit schließt kompetenten Umgang mit genutzten Hilfsmitteln ein. Haftungsrisiko: Mangelnde KI-Kompetenz kann bei Kausalität für einen Schaden Haftungsfolgen auslösen.
-
-## Vorgehen
-
-1. **Kompetenzniveau erfassen**: Bestandserhebung — welche KI-Kenntnisse haben Mitarbeitende bereits? Strukturierte Selbsteinschätzung oder kurzer Test.
-2. **Schulungsmodule entwickeln**: Mindestens drei Module: (a) Grundlagenmodul — Was ist KI, wie funktioniert sie, welche Risiken gibt es? (b) Rechtliches Modul — DSGVO, Berufsrecht, KI-VO-Grundlagen. (c) Praxismodul — Sicherer Umgang, Quellenprüfung, Prompt-Techniken.
-3. **Sandbox-Umgebung einrichten**: Vor dem produktiven Einsatz üben Mitarbeitende in einer Testumgebung mit fiktiven Akten und anonymisierten Daten.
-4. **Schulungen dokumentieren**: Teilnahme, Inhalte, Datum und Schulende/Schulender schriftlich festhalten; Unterschrift der Teilnehmenden.
-5. **Jährliche Aktualisierung**: KI-Technologie und Rechtslage entwickeln sich schnell; mindestens einmal jährlich Schulungsunterlagen und -inhalte aktualisieren.
-6. **Differenzierung nach Rolle**: Anwälte brauchen tiefere rechtliche und kritische Kompetenz; nicht-anwaltliche Mitarbeitende brauchen vor allem praktische Regeln und Warnsignale.
 
 ## Vorlagentext / Bausteine
 
@@ -96,3 +83,4 @@ Schulungsteilnahme wird dokumentiert für: Art. 4 KI-VO Kompetenznachweis / § 1
 VERANTWORTLICH: [KOMPETENZ-OFFICER NAME]
 NAECHSTE ÜBERPRÜFUNG: [DATUM]
 ```
+

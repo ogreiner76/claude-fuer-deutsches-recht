@@ -155,24 +155,7 @@ Wie Anfechtungsklage: schriftlich, per Fax, MJP oder zur Niederschrift.
 - Versicherungsrechtliche Voraussetzungen vergessen → Versicherungsverlauf pruefen
 - Nicht beachtet, dass auch Anfechtung mit drin sein muss → kombinierter Antrag
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `klagearten-uebersicht-sgg` — Ueberblick
-- `anfechtungsklage-54-sgg` — als Teil der kombinierten Klage
-- `erwerbsminderungs-rente-streit-sgb-vi` — EM-Rente speziell
-- `pflegegrad-streit-mdk-pflegekasse-sgb-xi` — Pflegegrad speziell
-- `grad-der-behinderung-gdb-sgb-ix` — GdB speziell
-- `sachverstaendigen-wahlrecht-109-sgg` — Gutachter waehlen
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 54 SGG aktuell. BSG-Linie zum Berufsschutz und zum verschlossenen Teilzeitarbeitsmarkt zu beachten. Verifizierung in einer amtlichen oder frei zugänglichen Quelle empfohlen; juris nur bei vorhandenem Lizenzzugriff.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

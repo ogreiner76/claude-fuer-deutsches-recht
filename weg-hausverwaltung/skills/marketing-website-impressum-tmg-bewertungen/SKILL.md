@@ -37,14 +37,6 @@ BGH, Urteil vom 14.11.2017, VI ZR 425/16 (Jameda I): Bewertungsplattform darf Ar
 
 **Werbung mit Mandantenstimmen:** Schriftliche Einwilligung Mandant erforderlich (DSGVO Art. 6 Abs. 1 lit. a); bei Foto zusätzlich UrhG § 22 (Recht am eigenen Bild). Norm UrhG § 22: https://www.gesetze-im-internet.de/urhg/__22.html
 
-## Output
-
-- Impressum-Mustertext für Verwalter-GmbH (alle Pflichtfelder)
-- Datenschutzerklärung-Bausteine (Cookie-Banner, GA4, Webhoster-AVV)
-- Bewertungs-Antwort-Vorlagen (sachlich-deeskalierend, juristisch-präzise, bei Verleumdung)
-- Lösch-Antrag an Plattform (Google/Trustpilot) Mustertext
-- Website-Audit-Checkliste (Impressum, Datenschutz, Cookie-Banner, § 34c GewO, SSL)
-
 ## Cross-Refs
 
 - DSGVO-Grundlagen Hausverwaltung → `datenschutz-vvt-tom-avv-hausverwaltung`
@@ -55,3 +47,4 @@ BGH, Urteil vom 14.11.2017, VI ZR 425/16 (Jameda I): Bewertungsplattform darf Ar
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 5 DDG über https://www.gesetze-im-internet.de/ddg/__5.html, § 25 TDDDG über https://www.gesetze-im-internet.de/tdddg/__25.html live verifizieren. Abmahn-Rechtsprechung und Plattform-AGB ändern sich laufend.
+

@@ -5,9 +5,6 @@ description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Soz
 
 # Mutterrente Kindererziehung Nichtigkeit
 
-## Arbeitsbereich
-
-**Mutterrente Kindererziehung Nichtigkeit** ordnet den Fall über die tragenden Prüfungslinien: Mutterrente und Kindererziehungszeiten nach § 56 SGB VI, Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach, Nichtzulassungsbeschwerde zum BSG nach § 160a SGG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Mutterrente Kindererziehung Nichtigkeit im Selbstvertretung am Soz
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `mutterrente-und-kindererziehung-56-sgb-vi`
@@ -220,24 +218,9 @@ BSG lasst Revision zu. Verfahren wird als Revisions-Verfahren fortgesetzt.
 - PKH zu spaet → Frist
 - Allgemeine "Ich habe Unrecht" Begruendung → muss konkret juristisch sein
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `revision-bsg-160-sgg` — Revision
-- `berufung-lsg-144-sgg-wertgrenze-750` — vorgelagert
-- `pkh-vor-sozialgericht-73a-sgg` — PKH
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 160a SGG aktuell. Sehr enges Verfahren.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `orientierung-selbstvertreter-sozialgericht`
 
@@ -343,30 +326,9 @@ Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch,
 - Falsche Behörde angeschrieben → Adressat aus dem Bescheid uebernehmen
 - Den Bescheid wegwerfen → immer aufheben
 
-## Querverweise
-
-- `widerspruch-vorverfahren-78-sgg` — der erste Schritt fast immer
-- `anfaenger-workflow-sozialgericht` — besonders geführter Einstieg
-- `sanity-check-selbstvertretung-sozialgericht` — letzte Ampel vor Versand, Termin oder Rechtsmittel
-- `zulassungsgrenzen-check-sozialgericht` — Berufung, Nichtzulassung, Revision und BSG-Vertretung
-- `rechtsprechungschat-sozialgericht` — Rechtsprechung verstehen und sauber verwenden
-- `klagearten-uebersicht-sgg` — wenn Widerspruch nicht hilft
-- `eilantrag-86b-sgg-grundlagen` — wenn es eilt
-- `gerichtskostenfreiheit-183-sgg` — das Verfahren ist kostenfrei
-- `anwaltszwang-pruefen-73-sgg` — Anwalt noetig?
-- `pkh-vor-sozialgericht-73a-sgg` — Prozesskostenhilfe
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. Bei Unsicherheit pruefen Sie unter www.sozialgerichtsbarkeit.de oder beim oertlichen Sozialgericht.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `persönliches-budget-29-sgb-ix`
 
@@ -425,3 +387,4 @@ Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 für Buerger. B
 3. Hoehe berechnet?
 4. Nachweisfuehrung organisiert?
 5. EUTB konsultiert?
+

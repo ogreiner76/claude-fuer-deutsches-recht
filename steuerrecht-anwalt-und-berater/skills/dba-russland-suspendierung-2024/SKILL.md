@@ -111,13 +111,6 @@ Die genaue Liste der suspendierten Artikel ergibt sich aus dem Wortlaut der russ
 ### Phase 6 — Verstaendigungsverfahren
 1. MAP bleibt formal moeglich — praktisch erschwert.
 
-## Output
-
-- **Mandanten-Memo** zur Suspendierung und ihren Folgen.
-- **Berechnungsbeispiel** Anrechnung vs. fruehere Freistellung.
-- **Sanktions-Compliance-Memo** mit Sanktionslisten-Check.
-- **Empfehlung** zur Geschaeftsbeziehung.
-
 ## Strategie und Praxis-Tipps
 
 - Suspendierung gilt für Vorgaenge ab dem 01.01.2024 in voller Reichweite (konsolidierter BMF-Stand 15.01.2024 und Wirkung der StAbwV-Listung); Altvorgaenge bis 07.08.2023 haben vollen DBA-Schutz; Uebergangszeitraum 08.08.2023 bis 31.12.2023 sorgfaeltig pruefen.
@@ -163,13 +156,10 @@ DE-Investor haelt 100 Prozent an russischer OOO; Gewinn 2024 200.000 EUR. Aussch
 
 Sanktions-Compliance: vor jeder Transaktion EU-Sanktionsverordnung 833/2014 und Folgeverordnungen sowie OFAC SDN-Liste pruefen; bei Sanktionsbetroffenheit gewerberechtliches Verbot und strafrechtliche Folgen (§§ 17, 18 AWG).
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-ukraine`, `stb-dba-serbien-montenegro`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Russland 29.05.1996 (BGBl. 1996 II S. 2710). Russische Verbalnote 08.08.2023 (Suspendierung Art. 5 bis 22 und 24, Protokoll-Nrn. 2 bis 7). § 1 Abs. 3 Satz 2 StAbwG (BGBl. 2021 I S. 2056). StAbwV (BGBl. 2021 I S. 5236) i.d.F. der Zweiten Aenderungsverordnung vom 20.12.2023 (BGBl. 2023 I Nr. 375). BMF-Schreiben vom 15.01.2024 (GZ IV B 2 - S 1301/21/10048 :003), Stand DBA zum 01.01.2024, abrufbar unter bundesfinanzministerium.de. Belarus-Suspendierung 2024 analog. EU-Sanktionen 833/2014 ff. — **aktuelle Fassung pruefen**. Aktueller Stand 2026 im BMF-DBA-Verzeichnis pruefen.
 
 <!-- AUDIT 27.05.2026 | welle 5b | BMF-Datum korrigiert: nicht 18.12.2023 sondern 15.01.2024 GZ IV B 2 - S 1301/21/10048 :003; Wirkung 01.01.2024 statt 30.12.2023; russische Verbalnote 08.08.2023 und § 1 Abs. 3 Satz 2 StAbwG ergaenzt -->
 <!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 3 geprueft und bestaetigt (MLI-Status Russland; russischer Quellensteuersatz 15 Prozent; Belarus-Vollaussetzung BGBl. 2025 II Nr. 6), 0 gestrichen -->
+

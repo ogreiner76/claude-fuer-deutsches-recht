@@ -5,10 +5,6 @@ description: "Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill b
 
 # Rom 118 Paulianische Anfechtung Fortwirkung Anfg Inso
 
-## Aufgabe
-
-Skill für die rechtshistorische und dogmengeschichtliche Vergleichung.
-
 ## Strukturparallelen
 
 | actio Pauliana | AnfG | InsO |
@@ -49,8 +45,3 @@ Skill für die rechtshistorische und dogmengeschichtliche Vergleichung.
 4. Rechtsfolge Restitution?
 5. Quellenmatrix.
 
-## Output
-
-- Synopse-Tabelle.
-- Memo zur Rezeptionsgeschichte.
-- Schriftsatzbaustein.

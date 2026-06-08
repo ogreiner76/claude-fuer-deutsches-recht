@@ -25,17 +25,6 @@ Dieses Skill erzeugt das vollständige Grundgerüst einer KI-Nutzungsrichtlinie 
 
 Eine vollständige KI-Nutzungsrichtlinie muss die relevanten Rechtsquellen kohärent abbilden: Die DSGVO (Art. 5, 6, 9, 28) zum Datenschutz, die BRAO (§§ 43, 43a, 43e) und BORA (§ 2) zum Berufsrecht, das UrhG (§ 2 Abs. 2, § 5) zum Urheberrecht, das GeschGehG zum Geheimnisschutz sowie die KI-VO (Art. 3, 4, 6, 50, Anhang III) zur Regulierung von KI-Systemen. Die BRAK-Hinweise vom Dezember 2024 und die DAV-Stellungnahme Nr. 32/2025 geben den Stand der berufsrechtlichen Diskussion wieder.
 
-## Vorgehen
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-1. **Kanzlei-Kontext abfragen**: Ergebnis des Skills `kanzlei-kontext-analyse` als Grundlage nutzen.
-2. **13 Kapitel anlegen**: Alle Kapitel mit Überschrift und Kurzbeschreibung vorstrukturieren.
-3. **Kapitel priorisieren**: Je nach Kanzlei-Profil einzelne Kapitel ausführlicher oder schlanker gestalten (z.B. Drittland-Transfer nur bei internationalen Mandaten relevant).
-4. **Prompting-Anlage anhängen**: Vier-Elemente-Methode als Anhang immer beifügen.
-5. **Platzhalter einbauen**: Für kanzleispezifische Angaben (Name, DSB, Ansprechpartner, Datum) Platzhalter "[...]" verwenden.
-6. **Versionierung einrichten**: Stand-Datum und Versions-Nummer im Dokumentkopf festhalten.
-
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
@@ -156,3 +145,4 @@ VI. GOVERNANCE UND VERANTWORTUNG
 
 Genehmigt von: [UNTERSCHRIFT], [DATUM]
 ```
+

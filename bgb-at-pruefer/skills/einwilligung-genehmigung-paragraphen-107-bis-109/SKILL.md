@@ -57,13 +57,6 @@ Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen n
 - ex-tunc-Wirkung der Genehmigung nach § 184 BGB bedeutet: Eigentum war rückwirkend übergegangen.
 - Widerrufsrecht des Vertragspartners gilt nicht gegenüber einem gutgläubigen Vertragspartner.
 
-## Output
-
-- Prüfungsschema: schwebende Unwirksamkeit — Genehmigung — Widerruf
-- Ablaufdiagramm: Fristenberechnung und Genehmigungsfiktion
-- Gutachtenstil-Abschnitt zu §§ 107 bis 109 BGB
-- Klausurlösungsskizze
-
 ## Quellen
 
 - [§ 107 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__107.html)
@@ -95,3 +88,4 @@ Dritte bei Vertragsschluss von der Minderjährigkeit wusste.
 - Schwebende Unwirksamkeit: Zeitraum und Rechtswirkungen in dieser Zeit?
 - § 109 BGB: Hat der Dritte widerrufen oder konnte er widerrufen?
 - Verweigerung der Genehmigung: Vertrag endgültig unwirksam?
+

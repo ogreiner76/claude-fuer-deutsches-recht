@@ -5,9 +5,6 @@ description: "Cloud Vertrag Datenschutz ITR im Plugin Fachanwalt It Recht: prüf
 
 # Cloud Vertrag Datenschutz ITR
 
-## Arbeitsbereich
-
-**Cloud Vertrag Datenschutz ITR** ordnet den Fall über die tragenden Prüfungslinien: Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit, Datenschutz-Due-Diligence für Cloud-Vertraege, Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Cloud Vertrag Datenschutz ITR im Plugin Fachanwalt It Recht: prüf
 - Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-it-recht-vertragsstrafe-pruefen`
@@ -134,9 +132,6 @@ Mit freundlichen Gruessen
 - § 307 Abs. 1 Satz 2 BGB — Transparenzgebot AGB
 - § 309 Nr. 6 BGB — Klauselverbote ohne Wertungsspielraum (Vertragsstrafe im B2C-Bereich)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Handelt es sich um AGB oder Individualvereinbarung (§ 305 Abs. 1 BGB)?
 2. Ist die strafbewehrte Pflicht hinreichend konkret beschrieben (Transparenzgebot)?
@@ -191,10 +186,6 @@ sind verifiziert.
 **Fokus:** Datenschutz-Due-Diligence für Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster für Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-für-Schritt für Pre-Contract-Pruefung und laufende Compliance. Mustertexte für Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle).
 
 ### IT-Recht — Cloud-Vertrag mit Datenschutz-Due-Diligence
-
-## Zweck
-
-Dieser Skill fuehrt eine strukturierte Due Diligence bei Cloud-Vertraegen durch, bei denen personenbezogene Daten verarbeitet werden. Er kombiniert IT-vertragsrechtliche Pruefung (Leistungsbeschreibung, SLA, Haftung, Exit) mit datenschutzrechtlicher Pruefung (AVV, TOM, Transfer, Zertifizierung) und liefert eine Risikoampel.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -303,15 +294,6 @@ Empfehlung: [Abschluss / Nachverhandlung / Ablehnung]
 
 **Was triggert Aufsichtsbehoerden?** US-Cloud ohne DPF und ohne TIA, fehlender AVV, Schatten-Cloud-IT (BYOD-Apps).
 
-## Querverweise
-
-- `it-recht-datenschutz-im-it-vertrag`
-- `it-recht-saas-avv-und-tia-bundle`
-- `avv-cloud-und-subverarbeitung-art-28-iv`
-- `drittlandstransfer-pruefung`
-- `us-transfer-tia-dokumentation`
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 28, 32, 44, 45, 46, 49.
@@ -323,23 +305,11 @@ Empfehlung: [Abschluss / Nachverhandlung / Ablehnung]
 - NIS-2 Richtlinie (EU) 2022/2555 vom 14.12.2022.
 - Keine Aufsatzfundstellen aus Modellwissen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `it-recht-datenschutz-im-it-vertrag`
 
 **Fokus:** Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbeiter gemeinsam Verantwortlicher Subverarbeiter Datenstandort. AVV Art. 28 DSGVO Joint Controllership Art. 26 DSGVO Drittlandstransfer Art. 44 ff DSGVO. Schritt-für-Schritt für Vertragspruefung. Mustertexte für Klauseln. Abgrenzung: kein reiner AVV (avv-pruefung) keine SaaS-Spezialklauseln (it-recht-saas-avv-und-tia-bundle).
 
 ### IT-Recht — Datenschutz im IT-Vertrag
-
-## Zweck
-
-Dieser Skill liegt an der Schnittstelle des IT-Vertragsrechts und des Datenschutzrechts. Er hilft beim Pruefen und Gestalten von IT-Vertraegen mit datenschutzrechtlicher Komponente: Softwareentwicklung, IT-Outsourcing, Hosting, Wartung, Cloud, SaaS, Lizenz mit Telemetrie. Ziel ist, dass der IT-Vertrag und die datenschutzrechtliche Konstruktion (AVV oder Joint Controllership) konsistent sind.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -422,14 +392,6 @@ Sieben-Fragen-Diagnose:
 
 **Was triggert Aufsicht / Vertragsverhandlung?** Keine AVV-Anlage, leere Floskel zu TOM, Verweis auf "branchenuebliche Standards" ohne Konkretisierung, keine SCC bei US-Anbieter.
 
-## Querverweise
-
-- `avv-art-28-dsgvo-grundtatbestand`
-- `avv-art-28-mindestinhalte-checkliste`
-- `it-recht-saas-avv-und-tia-bundle`
-- `it-recht-cloud-vertrag-datenschutz-due-diligence`
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 4, 5, 24, 25, 26, 28, 32, 44 ff.
@@ -438,14 +400,6 @@ Sieben-Fragen-Diagnose:
 - EuGH C-311/18 Schrems II, Urteil 16.07.2020.
 - EDSA, Leitlinien 07/2020 zu den Begriffen Verantwortlicher und Auftragsverarbeiter, Version 2.0, angenommen 07.07.2021.
 - Keine Aufsatzfundstellen aus Modellwissen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `itr-ki-systeme-vertragsklausel-leitfaden`
 
@@ -482,13 +436,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
@@ -532,15 +479,9 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
 
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+

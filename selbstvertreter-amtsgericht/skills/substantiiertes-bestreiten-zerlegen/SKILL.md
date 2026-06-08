@@ -5,9 +5,6 @@ description: "Substantiiertes Bestreiten Zerlegen im Selbstvertretung am Amtsger
 
 # Substantiiertes Bestreiten Zerlegen
 
-## Arbeitsbereich
-
-**Substantiiertes Bestreiten Zerlegen** ordnet den Fall über die tragenden Prüfungslinien: Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO, Den Tatbestand einer Anspruchsnorm in einzelne Merkmale, Checkliste für die Vorbereitung der muendlichen Verhandlung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Substantiiertes Bestreiten Zerlegen im Selbstvertretung am Amtsger
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `substantiiertes-bestreiten-138-iv-zpo`
@@ -168,13 +166,6 @@ Wer bestreitet, muss in der Regel **nicht** beweisen — der Klaeger ist beweisp
 - "Ich habe nichts gemacht." → Wer was nicht macht, muss konkret entgegnen, was er statt dessen tat.
 - "Ich bestreite, weil mein Anwalt es so sagt." → Beweis-Lage zaehlt, nicht Behauptung.
 
-## Querverweise
-
-- `klageerwiderung-checkliste-alle-punkte` — Vollstaendigkeit.
-- `einreden-aktiv-geltend-machen` — Einreden.
-- `beweislast-grundregel-wer-was` — Beweislast.
-- `klageerwiderung-fristen-274-zpo` — Frist.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 138 ZPO unveraendert. BGH-Rechtsprechung zur sekundaeren Darlegungslast in Einzelfaellen verifizieren.
@@ -315,25 +306,9 @@ Bei wirklich fehlendem Beweis: Anspruch scheitert. Skill `kein-beweis-folgen-lai
 - "Ich sage, der hat den Vertrag gebrochen." → Welcher? Welche Pflicht? Welche Verletzung?
 - "Beweise hat das Gericht selbst." → Sie muessen sie anbieten.
 
-## Querverweise
-
-- `anspruchsgrundlage-finden-laienhilfe` — Norm finden.
-- `klageschrift-tatsachenvortrag-strukturieren` — Vortrag.
-- `beweislast-grundregel-wer-was` — Beweislast.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweisangebote.
-- `kein-beweis-folgen-laienwarnung` — Folgen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Subsumtions-Methodik staendige Praxis.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `terminvorbereitung-checkliste`
 
@@ -467,22 +442,7 @@ Wenn Gericht persönliches Erscheinen anordnet:
 - "Ich nehme nur das Wichtigste mit." → Alles, sicherheitshalber.
 - "Ich gehe als Opfer hin und bekomme Recht." → Sachliche Argumente und Beweise zaehlen.
 
-## Querverweise
-
-- `ladung-termin-216-zpo` — Ladung.
-- `verhalten-gerichtssaal-laienleitfaden` — Verhalten im Saal.
-- `vergleich-richtervorschlag-278-ii-zpo` — Vergleich.
-- `saeumnis-im-termin-330-zpo` — Saeumnis vermeiden.
-- `klageschrift-tatsachenvortrag-strukturieren` — Vortrag.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

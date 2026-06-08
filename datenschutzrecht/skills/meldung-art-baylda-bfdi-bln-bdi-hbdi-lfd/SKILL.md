@@ -5,9 +5,6 @@ description: "DSV Meldung ART Baylda Bfdi BLN BDI Hbdi LFD im Datenschutzrecht: 
 
 # DSV Meldung ART Baylda Bfdi BLN BDI Hbdi LFD
 
-## Arbeitsbereich
-
-**DSV Meldung ART Baylda Bfdi BLN BDI Hbdi LFD** ordnet den Fall über die tragenden Prüfungslinien: Erstellt eine vollständige Meldung nach Art, Reicht eine Meldung nach Art. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +27,7 @@ description: "DSV Meldung ART Baylda Bfdi BLN BDI Hbdi LFD im Datenschutzrecht: 
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsv-meldung-art-33-pflichtangaben`
@@ -63,10 +61,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldfälle wegen unvollständiger oder vers
 ## Zentrale Normen
 
 Art. 33 Abs. 1; Art. 33 Abs. 3 lit. a-d; Art. 33 Abs. 4; Art. 33 Abs. 5; Art. 55; Art. 56 DSGVO; § 51 BlnDSG.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Berliner Struktur als Goldstandard
 
@@ -163,10 +157,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der BayLDA vor Ausgabe verifizie
 ## Zentrale Normen
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; BayDSG insbesondere für öffentliche Stellen (Aufsicht Bayerischer Landesbeauftragter).
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Behördenstammdaten BayLDA
 
@@ -269,10 +259,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der BfDI vor Ausgabe verifiziere
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; BDSG insbesondere § 65 für Bundesbehörden.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Behördenstammdaten BfDI
 
 - Name: Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
@@ -373,10 +359,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der BlnBDI vor Ausgabe verifizie
 ## Zentrale Normen
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; BlnDSG insbesondere § 51 BlnDSG.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Behördenstammdaten BlnBDI
 
@@ -479,10 +461,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der HBDI vor Ausgabe verifiziere
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; HDSIG Hessisches Datenschutz- und Informationsfreiheitsgesetz.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Behördenstammdaten HBDI
 
 - Name: Hessischer Beauftragter für Datenschutz und Informationsfreiheit
@@ -583,10 +561,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der HmbBfDI vor Ausgabe verifizi
 ## Zentrale Normen
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; HmbDSG Hamburgisches Datenschutzgesetz.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Behördenstammdaten HmbBfDI
 
@@ -689,10 +663,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der LDA BB vor Ausgabe verifizie
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; BbgDSG Brandenburgisches Datenschutzgesetz.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Behördenstammdaten LDA BB
 
 - Name: Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg
@@ -793,10 +763,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der LDI NRW vor Ausgabe verifizi
 ## Zentrale Normen
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; DSG NRW.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
 
 ## Behördenstammdaten LDI NRW
 
@@ -899,10 +865,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der LfD NI vor Ausgabe verifizie
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; NDSG Niedersächsisches Datenschutzgesetz.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Behördenstammdaten LfD NI
 
 - Name: Landesbeauftragte für den Datenschutz Niedersachsen
@@ -1004,10 +966,6 @@ Nicht aus Modellwissen; aktuelle Bußgeldpraxis der LfD ST vor Ausgabe verifizie
 
 Art. 33; Art. 55; Art. 5 Abs. 2 DSGVO; DSG LSA Datenschutzgesetz Sachsen-Anhalt.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Behördenstammdaten LfD ST
 
 - Name: Landesbeauftragter für den Datenschutz Sachsen-Anhalt
@@ -1078,3 +1036,4 @@ Diese sechs Bloecke werden in jeder Behörden-spezifischen Meldung adressiert; d
 
 - `dsv-meldung-art-33-pflichtangaben` liefert die generische Pflichtinhalte-Vorlage.
 - `dsv-nachmeldung-aktualisierung-art-33-abs-4` deckt die Nachmeldung ab.
+

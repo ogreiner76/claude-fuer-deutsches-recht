@@ -5,10 +5,6 @@ description: "Verlagsrecht: Bildrechte, Kartenrechte, Tabellen und sonstiges Dri
 
 # Verl-018 · Bildrechte, Karten, Tabellen und Drittmaterial
 
-## Arbeitsbereich
-
-Verlagsrecht: Bildrechte, Kartenrechte, Tabellen und sonstiges Drittmaterial im Buch — Nutzungsrechte einholen, Bildrechtsverträge, CC-Lizenzen und Haftung bei Fehlern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -124,3 +120,4 @@ Für jede Abbildung im Buch führen:
 - **Risikoampel**: Fehlende oder abgelaufene Lizenzen
 - **Freistellungsklausel** für Autorenvertrag
 - **Verwaiste-Werke-Suchprotokoll**
+

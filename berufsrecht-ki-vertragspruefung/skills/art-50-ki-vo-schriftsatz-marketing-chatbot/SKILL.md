@@ -27,13 +27,6 @@ Prüfe den Geltungsstand live. Als Arbeitsstand gilt: Transparenzpflichten nach 
 
 Ein Hinweis "KI-generiert" heilt keine ungeprüfte Rechtsauskunft, kein unzulässiges Mandatsversprechen und keinen Geheimnisverstoß. Berufsrecht, Mandatsvertrag, Datenschutz und Haftung laufen parallel.
 
-## Output
-
-- Transparenzhinweis für Chatbot
-- Redaktionsvermerk für Veröffentlichungen
-- Schriftsatz-Endkontrollnotiz
-- interne Art.-50-Checkliste
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek

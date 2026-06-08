@@ -5,10 +5,6 @@ description: "Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen.
 
 # Mandat-Workspace-Verwaltung
 
-## Arbeitsbereich
-
-Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe beteiligte Behörden. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Regulierungsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,16 +12,6 @@ Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA
 - Tragende Normen verifizieren: WpHG; EnWG; HeilMWerbG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill verwaltet Mandat-Workspaces für Kanzleien mit mehreren Mandanten. Im regulatorischen Recht ist ein "Mandat" typischerweise:
-- Ein bestimmter Regulierungsakt, zu dem ein Mandant beraten wird (z. B. MaRisk-Novelle-Implementierung)
-- Ein offenes Konsultationsverfahren, für das eine Stellungnahme erstellt wird
-- Eine BaFin-Prüfung oder eine DORA-GAP-Analyse für einen bestimmten Mandanten
-- Ein Anfrageverfahren oder eine Abgrenzungsanfrage an eine Behörde
-
-**Inhouse-Nutzer:** Dieser Skill ist nicht relevant. Das Praxisprofil gilt für das gesamte Unternehmen.
 
 ## Eingaben
 
@@ -118,12 +104,6 @@ Relevante Berufsrechtsnormen:
 - § 50 BRAO (Aktenführung)
 - BORA § 2 (Unabhängigkeit), § 6 (Handakten)
 
-## Ausgabeformat
-
-- Bestätigung der Aktion (angelegt / gewechselt / geschlossen)
-- Aktueller Workspace-Status
-- Nächster empfohlener Schritt (z. B. "Mandat aktiv – starten Sie mit `/regulatorisches-recht:lücken-aufzeiger`")
-
 ## Beispiel
 
 **Eingabe:** `/regulatorisches-recht:regulatorisches-recht-mandat-arbeitsbereich neu`
@@ -152,6 +132,7 @@ Nächster Schritt: /regulatorisches-recht:lücken-aufzeiger
 - **Klarnamen in Pfaden:** Mandanten-Klarnamen nicht in Dateinamen oder Logs verwenden. Nur Kürzel.
 - **Nicht geschlossene Mandate:** Alte aktive Mandate ohne Leitfrist überprüfen und bei Abschluss schließen; beugt Versehen mit veralteten Kontextinformationen vor.
 - **Mandantengeheimnis:** Inhalte aus `mandat.md` und den mandat-spezifischen Trackern sind vertraulich nach § 43a Abs. 2 BRAO. Nie in gemeinsame Kontexte oder Protokolle exportieren.
+
 ## Aktuelle Rechtsprechung & Leitsätze
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -159,3 +140,4 @@ Nächster Schritt: /regulatorisches-recht:lücken-aufzeiger
 **Kernnormen:** §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — §§ 48-49 VwVfG — §§ 3-7 BORA (Berufsrecht Rechtsanwaelte)
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+

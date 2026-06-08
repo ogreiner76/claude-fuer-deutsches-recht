@@ -53,10 +53,6 @@ description: "Analysiert den juristischen Positivismus als Methodenkonzept und s
 - Die Spannung zwischen § 133 BGB ("wirklicher Wille", nicht Buchstabe) und positivistischer Wortlautbindung wird nicht aufgelöst.
 - Positivismus wird für die Ablehnung unerwünschter richterrechtlicher Entwicklungen instrumentalisiert, nicht als konsistentes Methodenprinzip vertreten.
 
-## Output
-
-Das Skill liefert eine Positivismus-Analyse: Identifikation positivistischer Methodenpositionen im konkreten Fall, Stärken-Schwächen-Profil, Alternative nach nicht-positivistischen Methoden und methodisches Fazit zu den berechtigten Kernpositionen des Positivismus im deutschen Zivilrecht. Verwendbar für wissenschaftliche Methodenbeiträge und Schriftsätze.
-
 ## Vertiefung: Positivismus nach 1945 und die Radbruchsche Wende
 
 Nach 1945 hat der deutsche Rechtspositivismus eine tiefgreifende Selbstkritik erfahren: Gustav Radbruchs Formel, dass extremes Unrecht kein Recht ist, wurde zur normativen Grenze des Positivismus. Das BVerfG hat diese Grenze in verschiedenen Entscheidungen anerkannt. Für die moderne Methodenlehre bedeutet dies: Positivismus als Methode ist berechtigt, aber nur bis zur Grenze des extremen Unrechts, jenseits derer überpositive Rechtsprinzipien Vorrang haben.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 3, 225 – Positivismuskritik, Radbruchsche Formel](https://www.bverfg.de/e/bs19540618_2bvr191451.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

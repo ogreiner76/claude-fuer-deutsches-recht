@@ -5,10 +5,6 @@ description: "Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder H
 
 # Luftfahrzeugrolle und Register – Registerabfrage und Eintragsänderung
 
-## Arbeitsbereich
-
-Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder Halteraenderung eintragen. Prueft LuftVG §§ 64-65 LuftVZO §§ 14-24 Rollenanforderungen Datenabruf LBA Braunschweig Pfandrechtsregister AG Braunschweig und Cape-Town-ICAO-Register und liefert Registerauszugs-Auswertung mit Handlungsoptionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -41,6 +37,7 @@ Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder Halteraenderung
 - **LuftVZO § 19**: Löschung aus der Luftfahrzeugrolle bei Außerdienststellung.
 - **LuftFzgG § 1**: Luftfahrzeugpfandrecht; Eintragung AG Braunschweig.
 - **Cape Town Convention Art. 16**: Internationales Register; Vorrang vor nationalem Register.
+
 ## Prüfraster
 
 1. Stimmt Eingetragener in Luftfahrzeugrolle mit aktuellem Eigentümer überein?
@@ -65,10 +62,6 @@ Die Registerauswertung ist Grundlage jeder luftrechtlichen Due-Diligence-Prüfun
 - **AG Braunschweig (Pfandrechtsregister)**: Führt alle eingetragenen Pfandrechte an deutschen Luftfahrzeugen; Rangfolge nach Eintragungsdatum.
 - **ICAO International Registry (Cape Town)**: Enthält internationale Sicherungsinteressen; Suche nach Luftfahrzeugkennzeichen und MSN.
 - **Registerauszug Aktualität**: Stets aktuellen Auszug anfordern; veraltete Auszüge führen zu Haftungsrisiken.
-
-## Output
-
-Registerauszugs-Auswertung: Eigentümer/Halter/Pfandrechte je Register. Handlungsmatrix. Muster-Änderungsantrag LBA.
 
 ## Quellen
 
@@ -97,3 +90,4 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

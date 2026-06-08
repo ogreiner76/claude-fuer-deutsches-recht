@@ -55,13 +55,6 @@ Ein ehemaliger Franchisenehmer eröffnet nach Vertragsende im gleichen Marktgebi
 - Verbot ist zu weit räumlich definiert (bundesweit statt nur Vertragsgebiet); AGB-Inhaltskontrolle greift.
 - Ehemaliger Franchisenehmer nutzt allgemeines Geschäftswissen, das nicht als schützenswertes Know-how des Franchisesystems einzustufen ist.
 
-## Output
-
-- Wettbewerbsverbots-Audit (zeitlich, räumlich, sachlich)
-- Einstweilige Verfügung wegen Verletzung
-- Kartellrechtliches Freistellungs-Prüfmemo
-- Empfehlung zur Vertragsgestaltung mit Know-how-Schutz
-
 ## Quellen
 
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
@@ -70,6 +63,7 @@ Ein ehemaliger Franchisenehmer eröffnet nach Vertragsende im gleichen Marktgebi
 - https://dejure.org/gesetze/BGB/307.html
 - https://dejure.org/gesetze/HGB/74.html
 - https://dejure.org/gesetze/BGB/1004.html
+
 ## Vertiefung
 
 Das nachvertragliche Wettbewerbsverbot im Franchiserecht unterscheidet sich grundlegend vom Arbeitsrecht (§ 74 HGB): Es besteht keine gesetzliche Entschädigungspflicht für das Verbot. Das Verbot ist nur kartellrechtlich freigestellt, wenn es dem Schutz echten Know-hows dient und auf maximal 1 Jahr nach Vertragsende beschränkt ist (Art. 5 Abs. 1 lit. b Vertikal-GVO EU 2022/720).
@@ -83,9 +77,12 @@ Das nachvertragliche Wettbewerbsverbot im Franchiserecht unterscheidet sich grun
 - Verletzungsbeispiele im Vertrag beschreiben, um Unterlassungsklage einfacher zu führen.
 - Einstweilige Verfügung bei Verletzung vorbereiten: Dringlichkeit ist gegeben, wenn unmittelbar nach Vertragsende ein Wettbewerbsbetrieb eröffnet wird.
 - Ohne Entschädigungsregelung hat der Franchisenehmer keine Kompensation; das schwächt die Durchsetzbarkeit.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
 
 ## Abgrenzung und Einordnung
+

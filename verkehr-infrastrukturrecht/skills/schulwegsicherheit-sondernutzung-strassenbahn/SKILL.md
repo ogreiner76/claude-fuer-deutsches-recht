@@ -38,9 +38,6 @@ Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule,
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Situation vor Ort analysieren:** Gefahrenstellen, Sichtbehinderungen, fehlende Querungshilfen.
@@ -55,3 +52,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - 30er-Zone-Antrag erfordert Nachweis besonderer Gefaehrdung (§ 45 Abs. 9 StVO).
 - Schadensfall sofort dokumentieren: Fotos, Zeugen, Polizeiprotokoll.
 - Anwaltliche Endkontrolle bei Amtshaftungsklagen.
+

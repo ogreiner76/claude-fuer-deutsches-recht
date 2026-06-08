@@ -5,10 +5,6 @@ description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit im Hausar
 
 # Zivilrecht Anspruchsgrundlagen
 
-## Arbeitsbereich
-
-**Zivilrecht Anspruchsgrundlagen** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit im Hausar
 - Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3, UrhG §§ 51, 51a (Zitatrecht), Promotionsordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `zivilrecht-anspruchsgrundlagen-pruefung`
@@ -44,13 +41,6 @@ description: "Zivilrecht Anspruchsgrundlagen im Juristische Hausarbeit im Hausar
 - § 311 Abs. 2 BGB — Culpa in contrahendo als vorvertragliche Haftung
 - §§ 823 ff. BGB — Deliktsrecht als vierte Stufe
 - §§ 812 ff. BGB — Bereicherungsrecht als letzte Auffangnorm
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durcheinander prüft, kommt zu falschen Konkurrenzen.
 
 ## Schritt 1 — Die V-C-G-D-D-B-Regel
 
@@ -303,3 +293,4 @@ Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durc
 - `subsumtion-schritt-für-schritt` — Subsumtions-Praxis
 - `meinungsstreit-darstellen` — bei Streit-Punkten innerhalb der Anspruchs-Grundlagen
 - `gliederung-mit-tiefenstruktur` — Gliederung mit Anspruchs-Grundlagen
+

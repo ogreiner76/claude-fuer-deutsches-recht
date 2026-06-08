@@ -116,13 +116,7 @@ Einmal pro Woche:
 - "Ich vertraue auf Erinnerungen." → Mehrere Quellen besser.
 - "Belege ablegen wann immer." → Sortierung wichtig.
 
-## Querverweise
-
-- `fristen-berechnen-187-188-bgb` — Berechnung.
-- `fristbeginn-zustellung-protokollieren` — Zustellung.
-- `fristverlaengerung-antrag-225-zpo` — Verlaengerung.
-- `zurechnungsproblem-versand-durch-dritte` — Versand-Risiko.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Tipp.
+

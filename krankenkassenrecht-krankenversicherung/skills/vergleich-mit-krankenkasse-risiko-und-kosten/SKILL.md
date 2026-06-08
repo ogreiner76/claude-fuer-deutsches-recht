@@ -5,10 +5,6 @@ description: "Strategische Bewertung von Vergleichsangeboten der GKV im Widerspr
 
 # Vergleich mit Krankenkasse: Risiko und Kosten
 
-## Arbeitsbereich
-
-Strategische Bewertung von Vergleichsangeboten der GKV im Widerspruchs- oder Klageverfahren: Risiko-Nutzen-Analyse, Formulierungshinweise und Abgeltungsklauseln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Krankenkassen bieten im Widerspruchs- oder Klageverfahren manchmal Vergleiche an
 - [BSG B 1 KR 7/15 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 101 SGG](https://dejure.org/gesetze/SGG/101.html)
 - [§ 779 BGB – Vergleich](https://www.gesetze-im-internet.de/bgb/__779.html)
+

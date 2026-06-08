@@ -42,6 +42,3 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 **Vorher:** "Ich erwarte von einem Richter, dass er das Gesetz kennt."
 **Nachher:** Herabsetzend. Konform: "Ich bitte das Gericht, die Ausführungen zu § 284 BGB in der Berufungsbegründung zu berücksichtigen."
 
-## Ausgabeformat
-
-Der Skill gibt aus: (1) Einordnung der Äußerung (Tatsache / Werturteil / Schmähkritik). (2) Berufsrechtliche Bewertung. (3) Einschlägige Norm und ggf. Rechtsprechung. (4) Konforme Alternativformulierung.

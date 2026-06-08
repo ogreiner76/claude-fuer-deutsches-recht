@@ -5,10 +5,6 @@ description: "Umzug bei TK-Vertrag: Fortführung, Sonderkündigung, Leistungsfä
 
 # Umzug und Telekommunikationsvertrag
 
-## Arbeitsbereich
-
-Umzug bei TK-Vertrag: Fortführung, Sonderkündigung, Leistungsfähigkeit am neuen Standort, Glasfaser-/Kabelanschluss und Kosten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ Umzug bei TK-Vertrag: Fortführung, Sonderkündigung, Leistungsfähigkeit am neu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Streit, wenn Anbieter am neuen Wohn-/Geschäftsort nicht gleichwertig liefern kann.
-
 ## Norm- und Quellenanker
 
 TKG Kundenschutzvorschriften zum Umzug live prüfen; BGB Dauerschuldverhältnis; AGB-Recht.
-
-## Arbeitsfragen
-
-1. Welche Leistung ist am neuen Standort technisch möglich?
-2. Wurde Umzug rechtzeitig angezeigt?
-3. Welche Laufzeit/Kündigungsfrist gilt?
-4. Welche Umzugsgebühren sind vereinbart?
-
-## Output
-
-Umzugsprüfung, Kündigungs-/Fortführungsschreiben und Kostencheck.
 
 ## Red Flags
 
@@ -48,6 +29,3 @@ Umzugsprüfung, Kündigungs-/Fortführungsschreiben und Kostencheck.
 - tk-mindestvertragslaufzeit-kuendigung
 - tk-glasfaser-hausanschluss-wegerecht
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

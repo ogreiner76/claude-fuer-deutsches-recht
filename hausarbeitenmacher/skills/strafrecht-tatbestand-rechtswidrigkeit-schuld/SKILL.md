@@ -32,13 +32,6 @@ Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rec
 - §§ 32, 34 StGB — Notwehr und rechtfertigender Notstand
 - §§ 20, 21 StGB — Schuldunfaehigkeit und verminderte Schuldfaehigkeit
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Das Drei-Stufen-Schema ist das Standard-Schema jeder strafrechtlichen Prüfung. Es führt von der Frage "Ist die Handlung tatbestandsmäßig?" über "Ist sie rechtswidrig?" zu "Ist sie schuldhaft?".
-
 ## Schritt 1 — Aufbau
 
 ```
@@ -294,3 +287,4 @@ III. Schuld
 - `subsumtion-schritt-für-schritt` — Subsumtions-Praxis
 - `meinungsstreit-darstellen` — Bei Streit (z.B. Vorsatz vs. Fahrlässigkeit, Tatbestands- vs. Verbotsirrtum)
 - `gliederung-mit-tiefenstruktur` — Gliederung
+

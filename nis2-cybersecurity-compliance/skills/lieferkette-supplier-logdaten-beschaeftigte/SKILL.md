@@ -5,10 +5,6 @@ description: "Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Aud
 
 # Lieferkette Supplier Security
 
-## Arbeitsbereich
-
-Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Supplier-Security-Dossier. Wenn der Nutzer nur eine Kurzantwo
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

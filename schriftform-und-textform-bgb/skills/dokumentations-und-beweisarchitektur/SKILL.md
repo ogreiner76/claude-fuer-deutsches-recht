@@ -5,10 +5,6 @@ description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen bewei
 
 # Dokumentations- und Beweisarchitektur
 
-## Arbeitsbereich
-
-Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchivierung. Output: Kanzlei-Dokumentationsstandard-Checkliste für formrelevante Vorgaenge. Abgrenzung zu zugang-empfangsbedürftiger-willenserklärung-paragraph-130-bgb (Zugangsprüfung) und elektronische-form-paragraph-126a-bgb-qes. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -37,9 +33,6 @@ Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokume
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Rechtsgrundlagen
 
 - **§ 130 BGB** — Zugang: Beweislast beim Erklärenden
@@ -186,13 +179,3 @@ Bitte leiten Sie alle diese Unterlagen zeitnah an unsere Kanzlei weiter.
 - **E-Mail-Postfach gelöscht**: E-Mails im Spam-Ordner werden automatisch gelöscht. Wichtige E-Mails sofort in gesicherten Ordner oder in Aktenstruktur verschieben.
 - **Fristbeginn unbekannt**: Wenn das genaue Zugangsdatum streitig ist, kann die Fristberechnung scheitern. Zugang immer mit Datum dokumentieren.
 
-## Querverweise
-
-- → `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`
-- → `prozessablauf-papier-vs-elektronisch`
-- → `elektronische-form-paragraph-126a-bgb-qes`
-- → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
-
----
-
-<!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemaess dejure.org-Pruefung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->

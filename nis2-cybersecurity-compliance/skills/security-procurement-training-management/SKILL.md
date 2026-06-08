@@ -5,10 +5,6 @@ description: "Prüft IT-Security-Anforderungen in Einkauf, Ausschreibung und Bes
 
 # Security Procurement Tender
 
-## Arbeitsbereich
-
-Prüft IT-Security-Anforderungen in Einkauf, Ausschreibung und Beschaffung von SaaS, Hardware, OT, Managed Services und Cyberdienstleistungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,3 +43,4 @@ Dieser Skill macht IT-Sicherheit beschaffbar: Er übersetzt NIS-2-/BSIG-, BSI-, 
 ## Ergebnisformat
 
 Erzeuge eine RFP-/Tender-Matrix mit Muss-Kriterien, Bewertungspunkten, Nachweisfeld, Vertragsklausel und roter Ausschlusslogik.
+

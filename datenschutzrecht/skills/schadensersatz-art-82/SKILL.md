@@ -30,10 +30,6 @@ Nicht aus Modellwissen; insbesondere EuGH Österreichische Post C-300/21; Saturn
 
 Art. 82 Abs. 1; Art. 82 Abs. 2; Art. 82 Abs. 3; Art. 82 Abs. 4 DSGVO; §§ 253; 280; 823 BGB.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Schriftsatzgliederung
 
 A. Sachverhalt — konkret und auf substantiierte Klage bezogen.
@@ -57,3 +53,4 @@ F. Höhe — Bagatellgrenze; Vergleich mit Rechtsprechung.
 
 - `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` deckt die Rechtsprechungsanalyse ab.
 - `dsv-sammelklagen-praevention` deckt die strategische Praevention ab.
+

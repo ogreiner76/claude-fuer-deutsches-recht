@@ -5,10 +5,6 @@ description: "Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rech
 
 # Abmahnung Gebrauchsmuster Verteidigung
 
-## Arbeitsbereich
-
-Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rechtsbestand, Unterlassung, Kosten, Fristen, Schutzschrift und Löschungsangriff. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rechtsbestand, Unt
 ## Wann dieser Skill hilft
 
 Eine Abmahnung wird gesendet oder empfangen.
-
-## Arbeitsweise
-
-Nie nur wegen Registereintrag unterwerfen; immer Recherche und Löschungsrisiko prüfen.
 
 ## Prüfpunkte
 
@@ -53,10 +45,6 @@ Nie nur wegen Registereintrag unterwerfen; immer Recherche und Löschungsrisiko 
 ### BGH-Linie zum Schutzbereich
 - BGH X ZR 95/05 "Schneidmesser" (verifizieren) — Aequivalenzlehre auch im Gebrauchsmusterrecht.
 - BGH X ZR 16/09 "Occlusionsvorrichtung" (verifizieren).
-
-## Output
-
-Abmahnentwurf oder Verteidigungsvermerk.
 
 ## Quellen-Hardening
 

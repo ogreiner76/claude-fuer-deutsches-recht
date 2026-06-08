@@ -37,11 +37,3 @@ Fordere:
 5. Subunternehmer nur mit Weiterverpflichtung und Änderungsnotice.
 6. Lösch- und Exportpfad bei Vertragsende.
 
-## Output
-
-Erstelle eine Vertragslückenliste mit:
-
-- Fundstelle im Vertrag
-- Risiko für § 43e BRAO, § 203 StGB, DSGVO
-- konkrete Nachverhandlungsklausel
-- Anbieterfrage in höflicher, aber unmissverständlicher Sprache

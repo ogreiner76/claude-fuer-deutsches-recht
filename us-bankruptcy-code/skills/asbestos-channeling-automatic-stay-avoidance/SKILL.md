@@ -5,10 +5,6 @@ description: "Prueft asbestos-specific trust/channeling structure, voting, futur
 
 # Asbestos Channeling Injunctions § 524(g)
 
-## Arbeitsbereich
-
-Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,12 +16,6 @@ Prueft asbestos-specific trust/channeling structure, voting, future claims repre
 ## Fachkern: Asbestos Channeling Injunctions § 524(g)
 - **Normen-/Quellenanker:** Title 11 U.S. Code, Federal Rules of Bankruptcy Procedure, Chapter 7/11/13/15, automatic stay, DIP financing, claims, plan, avoidance, discharge und U.S.-Court-Docket.
 - **Entscheidende Weiche:** Bestimme Chapter, Estate Property, Stay-Wirkung, Creditor-Klasse, Court-Order-Bedarf, Timeline und Schnittstelle zu deutschen Assets.
-
-## Zweck
-
-Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass für Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
-
-Dieser Skill macht aus dem Thema **Asbestos Channeling Injunctions § 524(g)** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 
 ## Code- und Quellenanker
 
@@ -46,12 +36,6 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 1. 524(g) prerequisites map.
 2. FCR and trust issues.
 3. Insurance transfer and injunction scope.
-
-## Output
-
-- Asbestos channeling memo
-- Trust funding checklist
-- Voting issue list
 
 ## Tiefencheck für die Akte
 

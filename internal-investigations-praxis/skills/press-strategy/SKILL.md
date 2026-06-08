@@ -5,10 +5,6 @@ description: "Entwickelt die Pressestrategie bei Internal Investigations – Ad-
 
 # Pressestrategie und Krisenkommunikation
 
-## Arbeitsbereich
-
-Entwickelt die Pressestrategie bei Internal Investigations – Ad-hoc-Pflicht, Reputationsmanagement, Medienanfragen und Krisenkommunikation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -68,15 +64,6 @@ Dieser Skill entwickelt eine kontrollierte Kommunikationsstrategie, die Reputati
 - Q&A-Dokument für Manager: wie antworten auf Mitarbeiterfragen?
 - Verbot, intern Details der Untersuchung zu diskutieren (DSGVO, Unschuldsvermutung, Beweissicherung).
 
-## Red-Team-Fragen
-
-- Besteht eine Ad-hoc-Meldepflicht, und wurde die Self-Befreiungsentscheidung dokumentiert?
-- Enthält die Pressemitteilung Aussagen, die als Schuldeingeständnis interpretiert werden könnten?
-- Wurden Beschuldigte in der Öffentlichkeit namentlich genannt, obwohl die Unschuldsvermutung gilt?
-- Sind alle Mitarbeiter angewiesen, keine Medienkommentare abzugeben, und wird dies kontrolliert?
-- Ist die interne Kommunikation vor der externen Kommunikation erfolgt?
-- Gibt es Lücken zwischen dem, was der Presse mitgeteilt wurde, und dem, was den Behörden mitgeteilt wurde?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -95,3 +82,4 @@ Dieser Skill entwickelt eine kontrollierte Kommunikationsstrategie, die Reputati
 - **Media-Handling-Protokoll** für Journalisten-Anfragen
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

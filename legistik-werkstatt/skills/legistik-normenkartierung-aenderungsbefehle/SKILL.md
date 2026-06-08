@@ -20,7 +20,6 @@ Arbeitsfokus: **Normenkartierung**. Prüfe diese Anker am Sachverhalt; ergänze 
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Schritt 1 - Hauptzielgesetz finden
@@ -76,9 +75,6 @@ Welche EU-Richtlinien oder Verordnungen werden beruehrt? Welche völkerrechtlich
 
 §§ 42-44 GGO (Normenkartierung im Referentenentwurf, Pflichten) — Art. 3 Abs. 1 GG (Gleichheitssatz bei inkonsistenter Normgebung) — Art. 20 Abs. 3 GG (Normenklarheit als Rechtsstaat-Gebot) — § 1 EGBGB (Kollisionsrecht bei Normenkonkurrenz)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Änderungsmatrix als Markdown- und Excel-Vorlage. Eintrag in das Auftragsblatt: Liste der zu aendernden Normen.
@@ -86,3 +82,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Anschluss
 
 `terminologie-konsistenz`, `zirkelschluss-pruefen`, dann `referentenentwurf-bauen`.
+

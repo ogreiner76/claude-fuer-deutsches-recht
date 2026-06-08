@@ -96,12 +96,6 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 - Bei systematischer Profilbildung.
 - Bei besonderen Datenkategorien.
 
-## Output
-
-- DSGVO-Compliance-Dokument.
-- AVV-Mappe.
-- TOM-Massnahmen-Liste.
-
 ## Strategie und Praxis-Tipps
 
 - Die Berufsverschwiegenheit nach § 57 StBerG ist durch § 203 Abs. 1 Nr. 3 StGB strafrechtlich abgesichert; die Einbeziehung externer Dienstleister (Cloud-Anbieter) erfordert nach § 203 Abs. 3, 4 StGB die schriftliche Verpflichtung des Dienstleisters auf die Schweigepflicht — entsprechende Klauseln im AVV pruefen.
@@ -109,12 +103,6 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 - DSGVO-Bussgelder bis 20 Mio. EUR oder 4 % des weltweiten Jahresumsatzes (Art. 83 Abs. 5 DSGVO) — Compliance unverzichtbar.
 - Jaehrliche DSGVO-Pruefung im Kanzleiteam (Verzeichnis Verarbeitungstaetigkeiten, AVV-Mappe, TOM-Liste aktualisieren).
 - StBVV: DSGVO-Compliance-Beratung für Mandanten als separater Auftrag nach § 13 StBVV (Beratung) oder als Bestandteil der Buchfuehrungspauschale.
-
-## Querverweise
-
-- `stb-online-portal-datev-mandantenshop` — DUO.
-- `stb-buchhaltungsbutler-mandantencloud` — Cloud.
-- `stb-ki-tools-im-stb-betrieb-grenzen-berufsrecht` — KI-Tools.
 
 ## Quellen und Updates
 
@@ -125,3 +113,4 @@ Stand: 05/2026.
 - StGB § 203.
 - Schrems II-Urteil EuGH.
 - DSK-Beschluesse.
+

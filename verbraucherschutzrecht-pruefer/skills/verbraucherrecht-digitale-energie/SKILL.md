@@ -5,10 +5,6 @@ description: "Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, A
 
 # Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.
 
-## Arbeitsbereich
-
-Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,3 +31,4 @@ BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle. Der aktuelle Normt
 3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
 4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
 5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
+

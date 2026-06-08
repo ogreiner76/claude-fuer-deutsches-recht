@@ -5,10 +5,6 @@ description: "Prueft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour
 
 # Aktienrückkaufprogramme – MAR Safe Harbour und Compliance
 
-## Arbeitsbereich
-
-Prueft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour DVO 2016/1052, Handelsverbote, Ad-hoc und Offenlegungspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -71,24 +67,6 @@ Keine Käufe:
 - Wöchentliche Veröffentlichung der aggregierten Rückkäufe auf Website
 - Abschlussmitteilung am Ende des Programms
 - Eigene Aktien: Eintrag ins Aktienregister, §§ 71 ff. AktG
-
-## Red-Team-Fragen
-
-- Wurde die Safe-Harbour-Bedingungen an jedem Handelstag eingehalten?
-- Wurde das Programm bei Vorliegen einer Insiderinformation ausgesetzt?
-- Enthält die Ad-hoc-Ankündigung alle Pflichtangaben?
-- Werden Tages- und Wochenmeldungen rechtzeitig veröffentlicht?
-- Liegt ein vorgefasster Rückkaufplan vor, der Käufe während Aufschub ermöglicht?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Safe-Harbour-Compliance-Checkliste (tagesaktuell)
-2. Ad-hoc-Entwurf für Programmankündigung
-3. Melde-Protokoll (tägliche und wöchentliche Offenlegung)
-4. Programm-Abschlussprotokoll
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
 
 ## Weitere Hinweise
 

@@ -5,10 +5,6 @@ description: "Antrag auf einstweilige Verfuegung zur Sicherung zivilrechtlicher 
 
 # Einstweilige Verfügung – §§ 935, 940 ZPO
 
-## Arbeitsbereich
-
-Antrag auf einstweilige Verfuegung zur Sicherung zivilrechtlicher Ansprüche formulieren. Normen: §§ 935 940 ZPO. Prüfraster: Verfuegungsanspruch, Verfuegungsgrund, Glaubhaftmachung, Zuständigkeit, Arrest-Abgrenzung. Output: Antragsschrift einstweilige Verfuegung. Abgrenzung: nicht Berufungsrecht §§ 511 ff. ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,6 +77,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 1. **Prüfung Verfügungsanspruch**: Materiell-rechtlicher Anspruch mit überwiegender
@@ -106,16 +103,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 8. **Schutzschrift** (§ 945a ZPO) auf Antragsgegnerseite: Einreichung ins ZSSR
  (www.zssr.de); Inhalt: Sachverhalt, Rechtsausführungen gegen Verfügungsanspruch und
  Verfügungsgrund, Beweismittel; 6-Monatsgültigkeit.
-
-## Ausgabeformat
-
-- **Antragsschrift einstweilige Verfügung** (vollständig; Verfügungsanspruch, Verfügungsgrund,
- Glaubhaftmachungsmittel, Anträge)
-- **Eidesstattliche Versicherung** (Entwurf für Antragsteller)
-- **Schutzschrift** (für Antragsgegner; Gliederung: Sachverhalt → Verfügungsanspruch fehlt →
- Verfügungsgrund fehlt → Beweisangebote)
-- **Widerspruchsschriftsatz** (§ 924 ZPO)
-- **Rechtliches Memo** zur Erfolgsaussicht und zu § 945 ZPO-Risiken
 
 ## Beispiel
 
@@ -161,3 +148,4 @@ ist nach `references/zitierweise.md` zu belegen. BGH-Urteile mit vollem Zitat (D
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 mit Bearbeiter, Werk, Aufl., §, Rn. Streitstände (insbes. zu § 945 ZPO Verschulden) offen
 darstellen.
+

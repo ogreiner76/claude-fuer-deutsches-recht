@@ -5,10 +5,6 @@ description: "Sichert Belege bei Musik, Text, Code und KI-Output: Versionen, Has
 
 # Beweisforensik, Versionen und Hashes
 
-## Arbeitsbereich
-
-Sichert Belege bei Musik, Text, Code und KI-Output: Versionen, Hashes, Metadaten, Uploads, Screenshots und Chain of Custody. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -86,3 +82,4 @@ Konkret zu prüfen:
 - §§ 15-24 UrhG (Verwertungsrechte)
 - § 97 UrhG (Unterlassung, Schadensersatz)
 - RL (EU) 2019/790 (DSM-RL)
+

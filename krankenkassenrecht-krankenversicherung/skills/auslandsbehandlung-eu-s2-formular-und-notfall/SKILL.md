@@ -5,10 +5,6 @@ description: "GKV-Leistungen im Ausland: EHIC-Karte, S2-Genehmigungsverfahren, N
 
 # Auslandsbehandlung: EU, S2-Formular und Notfall
 
-## Arbeitsbereich
-
-GKV-Leistungen im Ausland: EHIC-Karte, S2-Genehmigungsverfahren, Notfallbehandlung, Kostenerstattung und EU-Patientenrechte-Richtlinie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

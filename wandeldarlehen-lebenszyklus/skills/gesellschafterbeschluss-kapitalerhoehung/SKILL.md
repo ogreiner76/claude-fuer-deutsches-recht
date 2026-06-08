@@ -5,10 +5,6 @@ description: "Gesellschafterbeschluss für Kapitalerhohung nach Wandlung vorbere
 
 # Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage
 
-## Arbeitsbereich
-
-Gesellschafterbeschluss für Kapitalerhohung nach Wandlung vorbereiten. §§ 53 55 56 GmbHG Kapitalerhohung. Prüfraster: Beschlussinhalt Mehrheitserfordernisse notarielle Form neues Stammkapital Einlagepflicht Handelsregistereintrag. Output: Beschlussentwurf Ladungsunterlagen. Abgrenzung: nicht für allgemeine Gesellschafterversammlung (gesellschafterversammlung-einberufen). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Gesellschafterbeschluss für Kapitalerhohung nach Wandlung vorbereiten. §§ 53 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erstellt den notariell beurkundungspflichtigen Gesellschafterbeschluss über die Kapitalerhöhung gegen Sacheinlage (Wandlung des Wandeldarlehens). Phase D des Lebenszyklus.
 
 ## Eingaben
 
@@ -95,12 +87,6 @@ beschließt einstimmig:
 | Sacheinlagebericht fehlt | Differenzhaftungsrisiko § 9 GmbHG | Bericht in Erarbeitung | Bericht vollständig |
 | Wandlungssumme fehlerhaft | Beschluss und Kapitalerhöhung inkonsistent | Kleiner Rechenfehler | Exakter Betrag |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/sacheinlagebericht-werthaltigkeit/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/notar-paket-uebermittlung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterliste-aktualisieren/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026.
@@ -127,3 +113,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 §§ 53, 54 GmbHG (Satzungsänderung, notarielle Beurkundung) → § 55 GmbHG (Kapitalerhöhung durch Gesellschafterbeschluss) → § 56 GmbHG (Sacheinlage, Werthaltigkeitsprüfung) → § 57 GmbHG (Anmeldung zum Handelsregister) → § 57a GmbHG (vereinfachte Kapitalerhöhung) → § 47 GmbHG (Mehrheitserfordernisse, Stimmverbote)
+

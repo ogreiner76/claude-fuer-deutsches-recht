@@ -5,10 +5,6 @@ description: "Testamentum calatis comitiis und in procinctu: aelteste Formen des
 
 # Rom 142 Testamentum Calatis Comitiis Und In Procinctu
 
-## Aufgabe
-
-Skill für die aeltesten Testamentsformen.
-
 ## Rechtsquelle
 
 - Gaius, Institutiones II.101-103.
@@ -62,7 +58,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Synopse.

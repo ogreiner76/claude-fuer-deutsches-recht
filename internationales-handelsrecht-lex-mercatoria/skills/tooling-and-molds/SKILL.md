@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Werkzeuge und Formen (Tooling and Mo
 
 # Werkzeuge und Formen im internationalen Liefervertrag
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Werkzeuge und Formen (Tooling and Molds) im internationalen Liefervertrag. Eigentumsrecht an Werkzeugen, Rückgabepflicht, Abschreibung, Auslandssicherung und chinesisches Recht bei Tooling in China. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Wenn der Auftraggeber Werkzeuge, Formen oder Gussformen beim Hersteller hinterl�
 - Pfandrecht-Präventivn: Klausel "no lien" des Herstellers auf Auftraggeber-Werkzeuge
 - Amortisationsplan: schriftlich fixiert mit Übergangsmodalitäten
 
-## Output
-
-- Tooling-Ownership-Klausel-Muster
-- Checkliste: Werkzeuge in China sichern
-- Amortisationsplan-Muster
-
-## Quellenregel
-
-BGB § 929: gesetze-im-internet.de. CISG Art. 4: uncitral.un.org. Chinesisches Sachenrecht (物权法): moj.gov.cn (Englisch verfügbar). Schrifttum: Bing/Olesen, Doing Business in China (2020). Unsicherheit bleibt sichtbar.

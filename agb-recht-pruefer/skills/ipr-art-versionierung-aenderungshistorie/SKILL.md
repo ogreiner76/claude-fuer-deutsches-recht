@@ -54,8 +54,3 @@ AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche
 4. Welche zwingenden Vorschriften gelten?
 5. Schiedsabrede parallel?
 
-## Output
-
-- IPR-Memo.
-- Klauselentwurf.
-- Schriftsatzbaustein.

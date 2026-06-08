@@ -5,10 +5,6 @@ description: "Gerichtsverfassung im ALR — Patrimonialgerichte und Staedte. Ski
 
 # Pralr Gerichtsverfassung Patrimonialgerichte
 
-## Arbeitsbereich
-
-Gerichtsverfassung im ALR — Patrimonialgerichte und Staedte. Skill behandelt das System der drei Instanzen Patrimonialgerichte (privatadelige Gerichtsbarkeit) Stadtgerichte und das Oberlandesgericht / Obertribunal. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -66,7 +62,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 2. Welche Instanz?
 3. Welche Quellen (PrGS, Reichsjustizgesetze)?
 
-## Output
-
-- Quellenmatrix.
-- Memo zur Gerichtsverfassungsgeschichte.

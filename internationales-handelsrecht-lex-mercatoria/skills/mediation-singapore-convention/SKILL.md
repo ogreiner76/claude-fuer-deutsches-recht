@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Internationale Mediation und Singapu
 
 # Mediation und Singapur-Konvention 2019
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Internationale Mediation und Singapur-Konvention 2019 (UN Convention on International Settlement Agreements). Vollstreckbarkeit von Mediationsvergleichen, Abgrenzung zu Schiedsvergleich und ICC Mediation Rules 2014. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Die Singapur-Konvention (UN Convention on International Settlement Agreements Re
 - Vertraulichkeitsprotokoll: Mediations-NDA vor Beginn + Ausnahmen für Vollstreckungsnachweis
 - Ratifikationsstand: imna.org (International Mediation Network) laufend prüfen
 
-## Output
-
-- Singapur-Konvention vs. NY Convention Vergleichstabelle
-- Eskalationsklausel-Muster (Verhandlung → Mediation → Schiedsverfahren)
-- Settlement-Agreement-Checkliste (Singapur-Konvention-konform)
-
-## Quellenregel
-
-Singapur-Konvention: uncitral.un.org. ICC Mediation Rules: iccwbo.org. EU-Mediations-RL 2008/52/EG: eur-lex.europa.eu. MediationsG: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

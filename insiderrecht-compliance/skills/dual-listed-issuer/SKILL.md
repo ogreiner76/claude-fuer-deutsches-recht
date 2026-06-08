@@ -5,10 +5,6 @@ description: "Koordiniert MAR-Pflichten für Dual-Listed-Emittenten: parallele A
 
 # Dual-Listed-Emittent – Parallele MAR-Pflichten
 
-## Arbeitsbereich
-
-Koordiniert MAR-Pflichten für Dual-Listed-Emittenten: parallele Ad-hoc-Pflichten, Sprachfassungen, Zeitzonenkonflikte und multiple Regulatoren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -73,20 +69,3 @@ veröffentlicht werden.
  Section 16 Exchange Act (Form 4)
 - Abstimmung der Meldefristen (Deutschland: 3 Geschäftstage; USA: 2 Werktage)
 
-## Red-Team-Fragen
-
-- Wurden alle relevanten Regulatoren identifiziert und Meldewege eingerichtet?
-- Werden Ad-hoc-Mitteilungen wirklich simultan in allen Ländern veröffentlicht?
-- Sind Sprachfassungen inhaltlich identisch?
-- Werden Directors' Dealings in allen relevanten Jurisdiktionen gemeldet?
-- Ist der Herkunftsstaat korrekt bestimmt?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Dual-Listing-Jurisdiktionsmatrix (Land × Regulator × Pflichten × Frist)
-2. Ad-hoc-Koordinationsplan (Zeitzonenplan für simultane Veröffentlichung)
-3. Sprachfassungen-Checkliste
-4. Directors'-Dealings-Matrix (Land × Format × Frist)
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

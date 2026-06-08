@@ -34,9 +34,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - § 51 BRAO — Berufshaftpflichtversicherung: Pflichtnachweis bei Kanzleigruendung
 - § 8 PartGG — Haftungsstruktur in der Partnerschaftsgesellschaft
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ablauf
 
 1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/CLAUDE.md` prüfen.
@@ -120,3 +117,4 @@ Profil wird geschrieben. Nächste sinnvolle Skills:
 ## Hinweise
 
 Mandantenkommunikation und folgenreiche Versandhandlungen verbleiben in anwaltlicher Verantwortung. Vor jedem Versand `versand-vor-check`.
+

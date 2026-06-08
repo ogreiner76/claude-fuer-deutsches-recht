@@ -5,10 +5,6 @@ description: "Prüft Pricing gegen RVG, § 3a RVG, § 49b BRAO und Dokumentation
 
 # RVG und Honorarvereinbarung
 
-## Arbeitsbereich
-
-Prüft Pricing gegen RVG, § 3a RVG, § 49b BRAO und Dokumentation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,14 +32,6 @@ Prüft Pricing gegen RVG, § 3a RVG, § 49b BRAO und Dokumentation. Der Skill de
 4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
 5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
 
-## Arbeitsweise
-
-- Trenne Signal von Kanzleigeräusch. Nicht jede laute Partnerstimme ist ein strategisches Argument.
-- Behandle Zahlen als Entscheidungsstütze, nicht als Orakel.
-- Zeige immer die Gegenrechnung: Kosten des Nichtstuns, Kosten der Überreaktion, Kosten der halbherzigen Lösung.
-- Prüfe, ob das Problem ein Cash-, Pricing-, People-, Governance-, Qualitäts- oder Kommunikationsproblem ist.
-- Formuliere den Output so, dass er im Partnerkreis beschlossen und nach vier Wochen überprüft werden kann.
-
 ## Standard-Output
 
 Erzeuge:
@@ -66,3 +54,4 @@ Erzeuge:
 ## Quellen- und Compliance-Hygiene
 
 Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
+

@@ -37,9 +37,6 @@ Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zentralablage
 
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/fristenbuch.yaml`
@@ -133,3 +130,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - `fristenbuch.yaml` aktualisiert
 - `fristen-uebersicht.md` Tagesbericht nächste sieben Tage
 - Vorfristen-Erinnerung in Sekretariats-Tagesbrief (Plugin `kanzlei-allgemein`)
+

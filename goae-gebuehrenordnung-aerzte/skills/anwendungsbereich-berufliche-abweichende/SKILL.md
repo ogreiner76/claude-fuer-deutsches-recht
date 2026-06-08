@@ -104,16 +104,6 @@ Eingaben:
 - Bei Beihilfe wird Patient als Vollerstatter behandelt — Beihilfegrenze und PKV-Tarif beachten.
 - Auslandspatient wird in dortiger Sprache abgerechnet — Verständnisproblem, Anspruchsdurchsetzung erschwert.
 
-## Querverweise
-
-- `goae-2-abweichende-vereinbarung-honorarvereinbarung` (§ 2 GOÄ)
-- `goae-4-selbstaendige-aerztliche-leistung-zielleistungsprinzip` (Leistung)
-- `goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle` (Bemessung)
-- `goae-12-faelligkeit-und-rechnungspflicht` (§ 12)
-- `igel-aufklaerung-kosteninformation` (IGel-Workflow)
-- `wahlleistungsvereinbarung-krankenhaus-goae` (Wahlleistung)
-- `auslandsbehandlung-deutsche-goae-anwendung` (Ausland)
-
 ## Quellen Stand 06/2026
 
 - GOÄ §§ 1, 2, 5, 12 — Stand zur Berechnung im amtlichen Bundesgesetzblatt prüfen.
@@ -123,3 +113,4 @@ Eingaben:
 - Berufsordnung Ärztekammer (MBO-Ä § 12).
 - BGH staend. Rspr. zur GOÄ-Anwendung.
 - PKV-Verband — Erstattungsleitlinien (informativ, nicht verbindlich).
+

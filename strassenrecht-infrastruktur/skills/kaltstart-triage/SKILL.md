@@ -35,11 +35,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-
-## Aufgabe
-
-Führt in Straßenrecht und Infrastruktur ein, sortiert die Lage, fragt die richtigen Unterlagen ab und schlägt danach die passenden Fachmodule dieses Plugins vor.
-
 ## Startfragen
 
 1. Wer nutzt das Plugin: Laie, Verband, Kanzlei, Behörde, Unternehmen, Presse, Verwaltung oder Fachabteilung?
@@ -73,3 +68,4 @@ Führt in Straßenrecht und Infrastruktur ein, sortiert die Lage, fragt die rich
 ## Quellen- und Qualitätsregel
 
 Primär mit amtlichen Gesetzestexten, Behördenhinweisen, Gerichtsentscheidungen mit Datum/Aktenzeichen und frei prüfbaren Quellen arbeiten. Literatur, Datenbanken hinter Paywalls und Fundstellen ohne Nutzerquelle nicht behaupten. Wenn Landesrecht, EU-Recht oder ausländisches Recht berührt ist, den Rechtsstand ausdrücklich live prüfen und die Ausgabe als Arbeitsfassung kennzeichnen.
+

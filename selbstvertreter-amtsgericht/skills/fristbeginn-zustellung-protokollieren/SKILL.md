@@ -106,21 +106,7 @@ Ausnahme: Bei unverschuldetem Verhindertsein evtl. Wiedereinsetzung (Skill `wied
 - "Gelber Umschlag weggeworfen." → Beweis verloren.
 - "Urlaub mit voller Mailbox." → Frist laeuft trotzdem.
 
-## Querverweise
-
-- `fristen-berechnen-187-188-bgb` — Berechnung.
-- `fristen-buch-fuehren-laien` — Reminder-System.
-- `wiedereinsetzung-frist-233-zpo` — Wiedereinsetzung.
-- `klageerwiderung-fristen-274-zpo` — Beklagter-Fristen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Zustellungsrecht §§ 166 ff. ZPO unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

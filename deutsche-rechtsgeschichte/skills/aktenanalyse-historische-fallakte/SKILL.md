@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakt
 
 # Aktenanalyse: Historische Fallakte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,12 +63,3 @@ Die historische Fallakte ist eine Primearquelle ersten Ranges. Sie besteht typis
 - ZPO 1877: gesetze-im-internet.de für historische Aktenstruktur-Verstaendnis
 - Archivzitat: Bestand, Signatur, Blattnummer
 
-## Output
-
-- Schritt-für-Schritt-Anleitung historische Aktenanalyse
-- Musterzitat für Archivakte in wissenschaftlichem Text
-- Aktenstruktur-Tabelle: typische Bestandteile einer Gerichtsakte 1880-1933
-
-## Quellenregel
-
-Bundesarchiv: invenio.bundesarchiv.de. Aktenbestaende: Bestand, Signatur, Blattnummer. GVG und ZPO: gesetze-im-internet.de (für Aktenstruktur-Kontext). Keine ungeprueften Transkriptionen aus unbekannten Quellen.

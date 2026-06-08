@@ -5,10 +5,6 @@ description: "Grenzt öffentliche und private Versammlungen in geschlossenen Rä
 
 # Innenraum ist nicht automatisch behördenfrei
 
-## Arbeitsbereich
-
-Grenzt öffentliche und private Versammlungen in geschlossenen Räumen von anzeigepflichtigen Versammlungen unter freiem Himmel ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,17 +23,11 @@ Kläre, ob Art. 8 GG einschlägig ist, ob das Treffen öffentlich ist und ob Son
 4. Welche Behörde, Polizei, E-Mail, Onlineformular oder welcher Bescheid liegt bereits vor?
 5. Was ist das konkrete Ziel: Anzeige erstellen, Behördeneinwand beantworten, Auflage prüfen, Eilantrag vorbereiten oder Durchführung absichern?
 
-## Arbeitsweise
-Bei geschlossenen Räumen gibt es typischerweise keine § 14 VersG-Anzeige wie draußen; dennoch können Hausrecht, Zutritt, Störer, polizeiliche Gefahrenlagen und Veranstaltungsrecht relevant sein.
-
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.
 - Für Versammlungen unter freiem Himmel greifen Bundes- oder Landesversammlungsgesetze; die Anzeige ist keine Genehmigung.
 - Beschränkungen brauchen eine tragfähige Rechtsgrundlage, konkrete Tatsachen, unmittelbare Gefahr und Verhältnismäßigkeit.
 - Kooperation ist sinnvoll, aber kein Verzicht auf Ort, Zeit, Thema oder Modalitäten der Versammlung.
-
-## Output
-Erzeuge eine Abgrenzungsnotiz mit der Formulierung, warum keine Außerversammlungsanzeige nötig ist oder warum doch öffentliche Raumbezüge entstehen.
 
 ## Qualitätsgate
 - Wurde das richtige Landesrecht verwendet?
@@ -51,3 +41,4 @@ Erzeuge eine Abgrenzungsnotiz mit der Formulierung, warum keine Außerversammlun
 - Rechtsprechung nur zitieren, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und eine frei zugängliche Quelle vorliegen.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
 - Bei Behördenformularen immer die konkrete Stadt, den Landkreis oder das Land prüfen, weil Zuständigkeit und Portale stark abweichen.
+

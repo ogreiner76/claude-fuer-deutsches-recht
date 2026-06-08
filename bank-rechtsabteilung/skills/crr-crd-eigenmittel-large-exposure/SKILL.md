@@ -5,10 +5,6 @@ description: "CRR-, CRD- und Großkredit-Schnittstelle für Juristen: Eigenmitte
 
 # CRR CRD Eigenmittel und Großkredite
 
-## Arbeitsbereich
-
-CRR-, CRD- und Großkredit-Schnittstelle für Juristen: Eigenmittelbegriffe, Large Exposure, Organkredite, Beteiligungen, Limitüberschreitungen und Governance-Freigaben verständlich prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -125,3 +121,4 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 ## CRR-Juristenmatrix
 
 Schalte `crr-kapitalanforderungen-juristenmatrix` zu, wenn Legal eine Entscheidung erklären muss, die Risk/Finance rechnet. Prüfe zuerst Art.-4-Begriffe und die Einheit, dann Eigenmittel, Kreditrisiko, Großkredit/Gruppe verbundener Kunden, Liquidität, Leverage und Offenlegung. Keine Quote, Definition oder Übergangsregel aus Modellwissen behaupten; aktuelle konsolidierte CRR bei EUR-Lex live prüfen.
+

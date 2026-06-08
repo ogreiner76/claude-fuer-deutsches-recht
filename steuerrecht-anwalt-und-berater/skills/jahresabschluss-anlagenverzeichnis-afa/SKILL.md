@@ -101,24 +101,12 @@ Finanzanlagen | ...
 - Pool-Abschreibung 250-1.000 EUR (5 Jahre).
 - Wahlrecht im Wirtschaftsjahr einheitlich.
 
-## Output
-
-- Anlagenspiegel als Bestandteil JA.
-- AfA-Buchung im Hauptbuch.
-- IAB-Dokumentation.
-
 ## Strategie und Praxis-Tipps
 
 - Anlagenspiegel ist Pflicht bei mittelgrossen/grossen Kapitalgesellschaften (§ 288 HGB).
 - AfA-Tabellen sind nicht zwingend (BMF-Tabellen sind Verwaltungsanweisung, aber praktisch verbindlich).
 - IAB § 7g EStG: gestaltungsstark, aber 3-Jahres-Frist beachten.
 - GWG-Wahlrecht jaehrlich, aber einheitlich im Wirtschaftsjahr.
-
-## Querverweise
-
-- `stb-susa-anlagenkonten-ueberblick` — Anlagen in SuSa.
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-jahresabschluss-handels-vs-steuerbilanz` — Massgeblichkeit.
 
 ## Quellen und Updates
 
@@ -132,10 +120,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 5 bestaetigt (degressive AfA 2024/2026, § 7g 40%, § 7b bis 2029 recherchiert), 1 ersetzt (BMF 2007 obsolet, durch aktuelle Gesetzeslage ersetzt) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

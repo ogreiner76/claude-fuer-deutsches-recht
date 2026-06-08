@@ -5,9 +5,6 @@ description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozi
 
 # Fristverlaengerung Laien Oertliche SGG
 
-## Arbeitsbereich
-
-**Fristverlaengerung Laien Oertliche SGG** ordnet den Fall über die tragenden Prüfungslinien: Fristverlaengerung im SG-Verfahren beantragen, Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt, Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Fristverlaengerung Laien Oertliche SGG im Selbstvertretung am Sozi
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fristverlaengerung-sozialgericht-laien`
@@ -137,25 +135,9 @@ Eine zweite oder dritte Verlaengerung wird strenger geprueft. Begruenden Sie gut
 - Begruendung fehlt → wird abgelehnt
 - Verlaengerung nicht aufgepasst → neue Frist setzen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `fristen-berechnen-sgg-laien` — Fristen
-- `fristenbuch-fuehren-laien-sozialgericht` — Fristen verwalten
-- `wiedereinsetzung-frist-67-sgg` — wenn verspaetet
-- `widerspruch-gegen-gutachten-laien` — Stellungnahme
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 64 SGG und Praxis der Sozialgerichtsbarkeit.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `oertliche-zuständigkeit-57-sgg`
 
@@ -239,24 +221,9 @@ Kein Problem: § 98 SGG i.V.m. § 17a GVG. Das angeschriebene Gericht verweist I
 - Klage ans LSG geschickt → erste Instanz ist immer SG
 - Mehrere SG-Adressen verwechselt → www.sozialgerichtsbarkeit.de pruefen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `sozialgericht-zuständigkeit-51-sgg` — sachliche Zuständigkeit
-- `klage-zur-niederschrift-90-sgg` — Klage diktieren
-- `einreichung-papierform-sozialgericht-mit-abschriften` — Klage per Post
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Liste aller SG unter www.sozialgerichtsbarkeit.de. Verweisung nach § 98 SGG haelt die Frist.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `sozialgericht-zuständigkeit-51-sgg`
 
@@ -349,24 +316,9 @@ Auch wenn Sie ans falsche Gericht schreiben, ist nichts verloren. Das Gericht ve
 - BAfoeG am SG → ans Verwaltungsgericht weiterverwiesen
 - Rentenstreit ans Amtsgericht → ans SG ueberwiesen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `oertliche-zuständigkeit-57-sgg` — welches SG in Ihrer Stadt
-- `sozialleistungen-uebersicht-sgb` — alle Sozialleistungen
-- `klagearten-uebersicht-sgg` — welche Klage passt
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialgerichts (kostenlose Auskunft). Pruefen Sie immer die Rechtsbehelfsbelehrung Ihres Bescheids.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `widerspruch-vorverfahren-78-sgg`
 
@@ -483,26 +435,9 @@ Wenn die Behörde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen S
 - Begruendung zu kurz, ohne Frist halten → Frist hat Vorrang
 - Falsches Datum verwendet → Bekanntgabedatum, nicht Bescheidsdatum
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruchsfrist-84-sgg` — Frist und Berechnung
-- `widerspruch-begruendung-laienleitfaden` — wie begruenden
-- `widerspruch-ohne-anwalt-einreichen` — Einreichungswege
-- `widerspruchsbescheid-was-jetzt` — nach dem Widerspruchsbescheid
-- `eilantrag-86b-sgg-grundlagen` — wenn parallel Eilantrag noetig
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGG aktuell. Vier-Tage-Fiktion für Bekanntgabe seit 1.1.2025 (PostModG, § 37 Abs. 2 SGB X). Vorher: drei Tage.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `widerspruchsfrist-84-sgg`
 
@@ -598,22 +533,7 @@ Auf der Geschaeftsstelle des SG koennen Sie nach dem genauen Fristende fragen. D
 - Bei Wochenende falsch addiert → § 64 Abs. 3 SGG nutzen
 - Frist gerade noch erreicht, aber per Post → frueher abschicken!
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruch-vorverfahren-78-sgg` — der Widerspruch selbst
-- `wiedereinsetzung-frist-67-sgg` — wenn Frist schon abgelaufen
-- `fristen-berechnen-sgg-laien` — alle Fristen im Sozialgerichts-Verfahren
-- `fristenbuch-fuehren-laien-sozialgericht` — Fristen sicher verwalten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. PostModG seit 1.1.2025 hat die Drei-Tage-Fiktion auf vier Tage geaendert. § 37 Abs. 2 SGB X n.F. Wer mit alten Bescheiden arbeitet, muss Tage zaehlen. Bei Unsicherheit Geschaeftsstelle anrufen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

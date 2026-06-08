@@ -5,10 +5,6 @@ description: "Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpas
 
 # /anpassen
 
-## Arbeitsbereich
-
-Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezifische Beratungsordnung. Prüfraster Rechtsgebiete einstellen, Zielgruppe und Sprachstil, Beratungsschein-Regelungen, Anleiter-Kontakte und Eskalationspfade konfigurieren. Output konfiguriertes Plugin-Profil mit angepassten Workflows für die jeweilige Stelle. Abgrenzung zu Kaltstart-Interview für Erst-Einrichtung und zu Einarbeitung-Skill. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -42,22 +38,6 @@ Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendung
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: bei Aenderung des Verarbeitungsumfangs zu aktualisieren
 - §§ 43, 43a BRAO — Berufspflichten des Anleiters: kontinuierliche Aktualitaet der Organisationsunterlagen
 - § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studierenden neue Verschwiegenheitsvereinbarungen pruefen
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Nach der Ersteinrichtung (`/kaltstart-interview`) müssen Beratungsstellenprofile regelmäßig aktualisiert werden:
-- Semesterwechsel: Neue Studierende, neuer Anleiter.
-- Neuer Fachbereich hinzugefügt.
-- Gesetzesänderung (z. B. neue Regelbedarfsstufen SGB II, neues BAMF-Merkblatt).
-- Neue örtliche Kooperationspartner.
-- Prüfungsgates angepasst (erfahrene Studierende brauchen weniger Gateways).
-
-Dieser Skill macht gezielte Änderungen, ohne das gesamte Profil neu aufzurollen.
-
-**Nur für den anleitenden Volljuristen.**
 
 ## Häufige Anpassungsszenarien
 
@@ -126,14 +106,11 @@ Nur den angegebenen Abschnitt bearbeiten. Alle übrigen Abschnitte unverändert 
 
 Am Ende der `CLAUDE.md` einen Änderungseintrag hinzufügen:
 ```
+
 ## Änderungshistorie
 - [Datum] Abschnitt [B] geändert: SGB IX / § 76b hinzugefügt. [Kürzel Anleiter]
 - [Datum] Abschnitt [H] geändert: Semesterwechsel SS 2025. [Kürzel Anleiter]
 ```
-
-## Ausgabeformat
-
-Vollständige, aktualisierte `CLAUDE.md` (oder `guides/<name>.md`). Kein `[KI-GESTÜTZTER ENTWURF]`-Vermerk.
 
 ## Risiken / typische Fehler
 

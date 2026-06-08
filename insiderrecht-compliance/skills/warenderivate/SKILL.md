@@ -5,10 +5,6 @@ description: "Prueft Insiderrecht und Marktmanipulationsverbot für Warenderivat
 
 # Warenderivate – MAR und REMIT
 
-## Arbeitsbereich
-
-Prueft Insiderrecht und Marktmanipulationsverbot für Warenderivate: MAR-Anwendungsbereich, Spot-Market-Verzahnung und REMIT für Energiemaerkte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,19 +70,3 @@ entwickelt die Compliance-Strategie für Commodity-Trader und Energieunternehmen
 - REMIT-Compliance-Programm: Meldewege, Schulungen, Handelssystem-Monitoring
 - Regelmäßiges Review: ACER-Guidance und REMIT II-Umsetzung verfolgen
 
-## Red-Team-Fragen
-
-- Ist die Abgrenzung MAR/REMIT für alle gehandelten Produkte klar?
-- Gibt es Chinese Walls zwischen kommerzieller Seite und Handelsabteilung?
-- Werden REMIT-Meldepflichten (Transaction Reporting, Insider Information) erfüllt?
-- Wird Capacity Withholding auf REMIT-Compliance geprüft?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Produktmatrix: Warenderivat × MAR-Pflicht × REMIT-Pflicht
-2. Insiderinformations-Kategorien für Energiemärkte
-3. Chinese-Wall-Konzept für Energie-Trader
-4. REMIT-Compliance-Checkliste
-
-Belege ausschließlich mit: eur-lex.europa.eu, bafin.de, gesetze-im-internet.de, dejure.org.

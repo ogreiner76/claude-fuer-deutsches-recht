@@ -5,10 +5,6 @@ description: "Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation,
 
 # Familienbetreuer: Wunschermittlung bei schwerer Demenz
 
-## Einsatz
-
-Für Entscheidungen, bei denen die Person nicht mehr klar verbal entscheiden kann.
-
 ## Normenanker
 
 Arbeitsfokus: **Familienbetreuer: Wunschermittlung bei schwerer Demenz**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -24,18 +20,7 @@ Arbeitsfokus: **Familienbetreuer: Wunschermittlung bei schwerer Demenz**. Prüfe
 - `§ 5 BtOG` — Beratung und Unterstützung.
 - `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsfragen
-
-1. Welche aktuellen Signale und früheren Werte?
-2. Welche Biografiequellen?
-3. Wo endet Wunsch, wo beginnt erhebliche Selbstgefährdung?
-
-## Output
-
-Wunschermittlungsvermerk, Entscheidungsalternativen und Angehörigenprotokoll.
 
 ## Red Flags
 
@@ -53,3 +38,4 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 - **Gerichts- und Beleglogik:** Halte Wunsch der betreuten Person, Vertretungsmacht, Einwilligung, Vermögensschutz, Gesundheitsdaten und Nachweis gegenüber dem Betreuungsgericht getrennt.
 - **Fehlerbremse:** Keine Vermischung eigener und fremder Gelder, keine unnötige Offenlegung sensibler Daten, keine medizinische Entscheidung ohne Zuständigkeit und dokumentierten Wunsch bzw. mutmaßlichen Willen.
 - **Output:** Tagesplan, Belegliste, kurzer Gerichtstext, Telefonnotiz und Wiedervorlage in einfacher Sprache.
+

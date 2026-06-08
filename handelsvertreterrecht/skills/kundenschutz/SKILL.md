@@ -5,10 +5,6 @@ description: "Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der
 
 # Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen
 
-## Arbeitsbereich
-
-Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -64,10 +60,6 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 - Kundenschutzklausel zu weit formuliert — nach § 307 BGB nichtig.
 - Beweissicherung für Abwerbung versäumt — Schadensersatzklage scheitert.
 
-## Output
-
-Abmahnungsschreiben nach UWG, Antrag auf einstweilige Verfügung, Schadensersatzberechnung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 - [§ 8 UWG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/uwg_2004/__8.html)
 - [§ 242 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__242.html)
 - [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
+

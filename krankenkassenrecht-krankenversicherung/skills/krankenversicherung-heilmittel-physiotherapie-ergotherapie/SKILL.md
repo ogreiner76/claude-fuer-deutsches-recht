@@ -5,10 +5,6 @@ description: "Heilmittelanspruch nach § 32 SGB V: Heilmittel-Richtlinie, Verord
 
 # Heilmittel: Physiotherapie, Ergotherapie und Genehmigung
 
-## Arbeitsbereich
-
-Heilmittelanspruch nach § 32 SGB V: Heilmittel-Richtlinie, Verordnungsmengen, Langfristgenehmigung, Wirtschaftlichkeitsprüfung und Widerspruch. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Heilmittel (Physiotherapie, Ergotherapie, Logopädie, Podologie) sind häufig Ge
 - [§ 92 SGB V – G-BA](https://www.gesetze-im-internet.de/sgb_5/__92.html)
 - [BSG Heilmittelrechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 32 SGB V](https://dejure.org/gesetze/SGB_V/32.html)
+

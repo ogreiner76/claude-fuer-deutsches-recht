@@ -114,13 +114,6 @@ Fragen zum Einstieg:
 - **Carbon-Pricing-Klauseln**: Neuere Lieferantenverträge enthalten ESG-/CO2-Klauseln, die Zahlung an Erfüllung von Nachhaltigkeitsstandards koppeln – verdecktes Reklamationsrisiko.
 - **Lieferkettengesetz (LkSG)**: Großdebitor-Forderungen können wegen LkSG-Mängeln zurückgehalten werden; Sonderprüfung lohnt.
 
-## Querverweise
-
-- `auditrechte-stichproben-forderungspruefung`
-- `debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb`
-- `factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe`
-- `fraud-indikatoren-scheinforderungen-retouren-gutschriften`
-
 ## Quellen Stand 06/2026
 
 - HGB § 377 zur Rügepflicht im beiderseitigen Handelsgeschäft.
@@ -128,3 +121,4 @@ Fragen zum Einstieg:
 - BGB § 271a zur Begrenzung von Zahlungsfristen (Umsetzung Richtlinie 2011/7/EU).
 - ICC Incoterms in aktueller Fassung.
 - BGH zur Reichweite des § 377 HGB (st. Rspr., amtliche Sammlung).
+

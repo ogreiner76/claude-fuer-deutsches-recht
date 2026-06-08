@@ -5,10 +5,6 @@ description: "Abgrenzung Verletztengeld (BG, § 45 SGB VII) und Krankengeld (GKV
 
 # Verletztengeld und Krankengeld: Abgrenzung
 
-## Arbeitsbereich
-
-Abgrenzung Verletztengeld (BG, § 45 SGB VII) und Krankengeld (GKV, § 44 SGB V): Zuständigkeit bei Arbeitsunfall, Höhe, Übergang und Gleichzeitigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -89,6 +85,7 @@ Bei Arbeitsunfällen zahlt die Berufsgenossenschaft Verletztengeld statt der GKV
 - [DGUV Verletztengeld](https://www.dguv.de)
 - [BSG B 2 U 5/20 R](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 45 SGB VII](https://dejure.org/gesetze/SGB_VII/45.html)
+
 ## Hinweis: Übergangsbereich und praktische Koordination
 
 - Unfallmeldepflicht des Arbeitgebers (§ 193 SGB VII) ist Voraussetzung für schnelle UV-Leistung
@@ -102,3 +99,4 @@ Bei Arbeitsunfällen zahlt die Berufsgenossenschaft Verletztengeld statt der GKV
 - [§ 44 SGB V – Krankengeld](https://www.gesetze-im-internet.de/sgb_5/__44.html)
 - [§ 105 SGB X – Erstattungsanspruch nachrangiger Träger](https://www.gesetze-im-internet.de/sgb_10/__105.html)
 - [BSG – Abgrenzung Verletztengeld/Krankengeld](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
+

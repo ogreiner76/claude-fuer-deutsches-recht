@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise un
 
 # Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen
 
-## Arbeitsbereich
-
-Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen. Steuerliche Problembereiche bei Immobilien- und Gesellschaftsgeschäften mit Auslandsbezug, beschränkte Steuerpflicht und Notarhinweispflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -97,3 +93,4 @@ Der Notar darf auf steuerliche Problembereiche hinweisen (§ 17 BeurkG), aber ke
 - **§ 34 ErbStG-Meldungshinweis** (interner Vermerk)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

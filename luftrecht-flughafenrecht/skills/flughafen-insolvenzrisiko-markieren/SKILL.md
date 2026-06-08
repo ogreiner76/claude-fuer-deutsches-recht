@@ -5,10 +5,6 @@ description: "Regionaler Flughafen zeigt Insolvenzzeichen: Subventionsstopp sink
 
 # Flughafen – Insolvenzrisiko markieren
 
-## Arbeitsbereich
-
-Regionaler Flughafen zeigt Insolvenzzeichen: Subventionsstopp sinkende Passagierzahlen Darlehensausfaelle. Skill prueft InsO §§ 15a 17-19 EU-Beihilferecht Daseinsvorsorge-Ausnahme und LuftVG-Betriebspflichten und liefert Risikoampel-Bewertung für Kreditgeber oder Minderheitsgesellschafter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ Regionaler Flughafen zeigt Insolvenzzeichen: Subventionsstopp sinkende Passagier
 - **LuftVG § 9**: Planfeststellungsbeschluss; Drittwirkung und Bestandsschutz.
 - **FluglärmG § 4**: Lärmschutzbereiche; Tagschutzzonen 1 und 2 sowie Nachtschutzzone.
 - **VwVfG § 72**: Planfeststellungsverfahren allgemein; Beteiligungsrechte betroffener Dritter.
+
 ## Prüfraster
 
 1. Ist Planfeststellungsbeschluss aktuell und vollständig umgesetzt?
@@ -56,6 +53,7 @@ Regionaler Flughafen zeigt Insolvenzzeichen: Subventionsstopp sinkende Passagier
 6. Sind alle Auflagen aus Planfeststellungsbeschluss fristgerecht erfüllt?
 7. Ist eine UVP nach UVPG § 4 durchgeführt und aktuell?
 8. Sind Lärmschutzbereiche nach FluglärmG § 4 neu zu ermitteln nach Bauerweiterung?
+
 ## Typische Fallstricke
 
 - Planfeststellungsauflagen veraltet und nicht auf aktuelles Recht angepasst.
@@ -74,9 +72,6 @@ Airline-Insolvenzen erfordern schnelles Handeln:
 - **InsO § 47**: Aussonderungsrecht des Eigentümers (Leasinggeber); Priorität gegenüber Insolvenzgläubigern.
 - **IATA/IOSA**: Kreditversicherung und IATA-Abrechnung (BSP) können bei Insolvenz besondere Regelungen auslösen.
 
-## Output
-
-Vermerk zu Flughafen – Insolvenzrisiko markieren mit Rechtslagenanalyse Handlungsoptionen und Fristen. Planfeststellungs-Checkliste. Lärmschutzbereichs-Karte als Anhang.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -104,3 +99,4 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

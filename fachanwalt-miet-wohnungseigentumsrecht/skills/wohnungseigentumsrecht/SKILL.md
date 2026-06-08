@@ -8,6 +8,7 @@ description: "Fachanwaltsbereich Miet- und Wohnungseigentumsrecht: Einstieg und 
 ## Arbeitsbereich
 
 Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klärt zunächst, ob es sich um ein Mietverhältnis (BGB §§ 535 ff.) oder um eine WEG-Sache (WEG §§ 9a ff., 44 ff.) handelt, und routet danach in die tragende Prüfungslinie. Im Mittelpunkt stehen Kündigung (§§ 543, 569, 573 BGB), Mieterhöhung mit Kappungsgrenze (§§ 558 ff. BGB), Mietminderung wegen Schimmel und sonstiger Mängel (§§ 535 Abs. 1 S. 2, 536 BGB) sowie die WEG-Beschlussanfechtungsklage nach §§ 44–46 WEG mit ihrer scharfen Monatsfrist. Die Prüfungslinien bauen aufeinander auf — zuerst die tragende Anspruchsgrundlage identifizieren, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +26,7 @@ Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseige
 - Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c; WEG §§ 9a, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 44, 45, 46, 47, BGB §§ 535 ff., HOAI, BetrKV — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-miet-wohnungseigentumsrecht-kuendigung`
@@ -485,14 +487,6 @@ Monats kündigen.
 - Schmidt/Futterer Mietrecht, aktuelle Aufl.
 - Blank/Börstinghaus Miete, aktuelle Aufl.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel`
 
 **Fokus:** Fachanwalt Miet Wohnungseigentumsrecht Mietminderung Schimmel: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
@@ -506,10 +500,6 @@ Monats kündigen.
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Mandate Mieter bei Schimmel — Beweislast, Höhe, durchsetzbare Strategie.
 
 ## 1) Eingangs-Abfrage
 
@@ -717,9 +707,6 @@ Aktualisierungspflicht: konkrete Aktenzeichen zu Minderungsquoten/Schimmel 2025/
 - Schönheitsreparaturen (BGH-Rechtsprechung zu Quotenklauseln und starren Fristenplänen).
 - WEG-Versammlung, Beschlussanfechtung § 44 WEG, Verwalterhaftung.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Maßgebliche Rechtsprechung (verifizierte Eckpunkte, Stand 05/2026)
 
 Belegt ueber bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung live pruefen:
@@ -1016,10 +1003,3 @@ II. Begründetheit
 - Bärmann WEG-Kommentar, aktuelle Aufl.
 - Hügel/Elzer WEG
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

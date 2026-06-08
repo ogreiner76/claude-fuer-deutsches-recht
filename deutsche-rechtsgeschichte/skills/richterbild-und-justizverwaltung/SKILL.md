@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richt
 
 # Richterbild und Justizverwaltung
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richterlicher Unabhaengigkeitsgedanke, Berufsrichter vs. Schoeffen, NS-Richterbild und DRiG 1961 als demokratische Grundlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das Richterbild hat sich im Laufe der deutschen Rechtsgeschichte gewandelt. Im g
 - GG Art. 97: gesetze-im-internet.de; BVerfGE zur richterlichen Unabhaengigkeit: bverfg.de
 - NS-Richterbriefe: Bundesarchiv Berlin (Bestand R 3001, Reichsjustizministerium)
 
-## Output
-
-- Entwicklung des Richterbilds: Schoeffe, Berufsrichter, NS-Richterlenkung, GG-Richter
-- Art. 97 GG: Inhalt und BVerfGE-Auslegung
-- DRiG: Richterdienstrecht im Ueberblick
-
-## Quellenregel
-
-GVG und DRiG: gesetze-im-internet.de. GG Art. 97: gesetze-im-internet.de. BVerfGE: bverfg.de. NS-Richterbriefe: Bundesarchiv Berlin (R 3001).

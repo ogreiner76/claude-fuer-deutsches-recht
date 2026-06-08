@@ -81,13 +81,6 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 ### Phase 6 — Hybride § 4k EStG
 ### Phase 7 — Erstattung / Erklaerung
 
-## Output
-
-- Mandanten-Memo Irland.
-- **Holding-Substanz-Memo** mit Personal, Geschaeftsraeumen, Entscheidungstraegern.
-- Berechnungsbeispiel CFC und Hybrid.
-- BZSt-Antragspaket.
-
 ## Strategie und Praxis-Tipps
 
 - Irland-Holdings sind im Fokus der deutschen Finanzverwaltung — Substanz besonders gruendlich dokumentieren.
@@ -156,12 +149,9 @@ Das DBA-Irland vom 30.03.2011 (BGBl. 2012 II S. 1043, in Kraft 28.11.2012) regel
 >
 > Schritt 4: Pillar Two ab 2024: irische effektive Steuerbelastung unter 15 Prozent — Top-Up-Tax in IE (QDMTT) oder bei DE-Mutter (IIR).
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-luxemburg-2012`, `stb-dba-malta-2001`, `stb-dba-lizenzgebuehren-art-12-bzst`.
-
 ## Quellen und Updates
 
 Stand: 05/2026. DBA-Irland 30.03.2011, in Kraft 28.11.2012 (BGBl. 2012 II S. 1043). Aenderungsprotokoll 03.12.2014 (BGBl. 2015 II S. 1323). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent (Mindestbesteuerungsumsetzungsgesetz 21.12.2023). Pillar Two ab 01.01.2024.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 11 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->
+

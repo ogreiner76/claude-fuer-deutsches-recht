@@ -5,10 +5,6 @@ description: "Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher p
 
 # Netz- und Speicher-Zugang
 
-## Arbeitsbereich
-
-Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher prüfen. Normen: §§ 17 ff. 20 ff. EnWG, NAV. Prüfraster: Netzanschlussrecht, Anschlussbegehren, Kapazitaetsprüfung, Diskriminierungsfreiheit. Output: Netzanschluss-Rechtsgutachten. Abgrenzung: nicht EEG-Verguetungsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher prüfen. Normen
 - Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Behandelt Konflikte rund um Netzanschluss, Engpass-Management, Netzentgelte und Speicher-Sonderregelungen. Mandant typisch Erzeuger, Industriekunde, Speicher-Betreiber oder Netzbetreiber.
 
 ## Eingaben
 
@@ -239,9 +231,6 @@ Konkrete Beschwerdeentscheidungen vor Ausgabe per olg-duesseldorf.nrw.de / bunde
 
 § 17 EnWG (Netzanschluss-Pflicht) — § 8 EEG (Anschluss EE-Anlagen vorrangig) — § 13 EnWG (Engpass-Management) — § 13a EnWG (Redispatch-Entschaedigung) — § 19 StromNEV (Sondernetzentgelte) — § 118 EnWG (Speicher-Privileg) — §§ 31, 75 EnWG (BNetzA-Beschwerde, OLG-Beschwerde)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verzahnung
 
 - `energierecht-eeg-kwkg-erzeugung` — Erzeugungs-Anlagen
@@ -264,3 +253,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - EuGH 02.09.2021, C-718/18 — Unabhaengigkeit BNetzA als Regulierungsbehoerde (curia.europa.eu)
 - EU REMIT 1227/2011
 - EU-Strommarktordnung 2019/943 + Reform VO (EU) 2024/1747
+

@@ -25,14 +25,7 @@ Der Skill hilft bei Fällen, in denen eine Hochschule eine Prüfungsleistung weg
 5. Wurde die betroffene Person angehört und konnte sie Entstehungsprozess, Notizen, Zwischenstände oder Rechercheweg erklären?
 6. Drohen Nebenfolgen: Nichtbestehen, Exmatrikulation, Zulassungssperre, spätere Täuschungsfeststellung?
 
-## Output
-
-Erstelle wahlweise:
-
-- **Verteidigungsvermerk** mit Angriffspunkten gegen ein schwaches Indizienbündel.
-- **Hochschulvermerk** mit fairer Beweisführung, Anhörung und Entscheidungsvorschlag.
-- **Eilrechtsschutz-Check** bei Zulassungs-, Frist- oder Karrierefolgen.
-
 ## Mindeststandard
 
 Nie schreiben: "Detektor sagt KI, also Täuschung." Immer schreiben: "Detektorbefund ist nur ein Indiz; entscheidend ist die tragfähige Gesamtwürdigung."
+

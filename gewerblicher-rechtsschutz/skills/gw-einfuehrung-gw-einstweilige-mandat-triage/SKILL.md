@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick über Verfahrensarten, Zuständigkeiten, Handlungsoptionen und Weichen bei Marken-, Patent-, Design-, Urheber- und Lauterkeitsverletzungen. Erstes Orientierungsgespräch und Triage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -152,17 +148,10 @@ Mandatsbezug: Mandant kommt mit einem IP-Problem, weiß aber nicht, ob er klagen
 | Vollzug EV | `evvollzug-neu-001` |
 | Erstgespräch strukturieren | `gewerblicher-rechtsschutz-kaltstart-interview` |
 
-## Quellenregel
-
-- MarkenG: [gesetze-im-internet.de/markeng](https://www.gesetze-im-internet.de/markeng/)
-- PatG: [gesetze-im-internet.de/patg](https://www.gesetze-im-internet.de/patg/)
-- UWG: [gesetze-im-internet.de/uwg_2004](https://www.gesetze-im-internet.de/uwg_2004/)
-- ZPO Arrestvorschriften: [dejure.org/gesetze/ZPO/916.html](https://dejure.org/gesetze/ZPO/916.html)
-- Keine BeckRS-Blindzitate; aktuelle Normfassungen über gesetze-im-internet.de prüfen.
-
 ## Anschluss-Skills
 
 - `mandat-triage-gewerblicher-rechtsschutz` – Vertiefte Mandatstriage
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
 - `workflow-kaltstart-und-routing` – Kaltstart-Router
 - `allgemein` – Plugin-Übersicht
+

@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Fe
 
 # Bauueberwachung Estrich und Feuchteprotokoll
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar für Bodenbelag-Freigabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Estrichschichten sind Voraussetzung für nahezu jeden Bodenbelag, und ein zu feu
 - Feldeinteilung vergessen: Estrich reisst nach 6 Monaten Schwindrisse, Reparatur nur mit Fugenband oder Schleifen moeglich
 - Zu fruehe Belastung Estrich vor Austrocknungszeit: Estrich verformt sich plastisch, bleibt uneben
 
-## Output
-
-CM-Messprotokolle je Raum mit Datum und Grenzwert-Bewertung. Trocknungsprotokoll Temperatur und Luftfeuchte taeglich. Ebenheitsmessprotokoll 2-m-Latte. Fugenplan mit Fotos. Belagsfreigabe-Protokoll mit Unterschrift Bauueberwacher. Bautagebuch Estricharbeiten. SAP-PM-Equipment-IDs Bodenflaechen für Facility Management.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ CM-Messprotokolle je Raum mit Datum und Grenzwert-Bewertung. Trocknungsprotokoll
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme](https://www.gesetze-im-internet.de/bgb/__640.html)
+

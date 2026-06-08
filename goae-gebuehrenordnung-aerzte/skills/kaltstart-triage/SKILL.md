@@ -86,11 +86,6 @@ Wenn der Nutzer nur ein Dokument, Bild, PDF, Vertrag, Bescheid, Tabellenwerk, E-
 | `zahnaerztliche-schnittstelle-goz-goae` | Zahnärztliche Schnittstelle GOZ GOÄ |
 | `psychotherapie-psychiatrie-gespraechsleistungen` | Psychotherapie Psychiatrie Gesprächsleistungen |
 
-## Quellenregel
-Vor tragenden Aussagen immer aktuelle Normtexte, amtliche Behördenseiten, EU-Texte oder frei zugängliche Entscheidungen prüfen. Keine BeckRS-/juris-/Kommentarzitate aus Modellwissen. Wenn eine Quelle nicht verifizierbar ist, deutlich sagen und nicht als Beleg verwenden.
-
-<!-- BEGIN ACTUAL-SKILL-ROUTING -->
-
 ## Aktuelle Anschluss-Skills
 
 Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wenn ein Nutzer nach dem Einstieg weitergeleitet werden soll, nimm bevorzugt diese Namen.
@@ -163,3 +158,4 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `zahnaerztliche-schnittstelle-goz-goae` | Zahnärztliche Schnittstelle GOZ GOÄ: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff.... |
 
 <!-- END ACTUAL-SKILL-ROUTING -->
+

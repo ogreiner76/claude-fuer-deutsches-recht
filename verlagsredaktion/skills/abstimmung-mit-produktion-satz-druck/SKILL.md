@@ -5,10 +5,6 @@ description: "Klaert die Schnittstelle zur Produktion: Satzdaten Format Bildaufl
 
 # Abstimmung Produktion / Satz / Druck
 
-## Arbeitsbereich
-
-Klaert die Schnittstelle zur Produktion: Satzdaten Format Bildaufloesung Schriftrechte Fahnenlauf Druckfreigabe Online-Auslieferung und Reklamationswege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -114,14 +110,6 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 - Schriftrechte uebersehen - Drucker reklamiert.
 - Termine zu eng, kein Puffer für zweite Korrekturfahne.
 - Reklamationen ohne Dokumentation - bei nachstehender Auflage gleicher Fehler.
-
-## Querverweise
-
-- `satzfahne-korrekturlauf` - Korrekturlauf der Fahne.
-- `produktionsuebergabe-checkliste` - Produktionsuebergabe-Skill.
-- `bildrechte-grafiken-tabellen` - Bildrechte.
-- `verl-abstimmung-mit-lektorat-format` - Lektorats-Schnittstelle vor Produktion.
-- `verl-buchprojekt-bauleiter` - Buchprojekt-Bauleiter.
 
 ## Quellen Stand 06/2026
 

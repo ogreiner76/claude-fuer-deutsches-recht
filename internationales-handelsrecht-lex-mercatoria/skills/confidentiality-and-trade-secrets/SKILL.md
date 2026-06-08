@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Vertraulichkeit und Geschäftsgeheim
 
 # Vertraulichkeit und Geschäftsgeheimnisse
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Vertraulichkeit und Geschäftsgeheimnisschutz im internationalen Handel. HGeschGehG (Umsetzung RL 2016/943), angemessene Schutzmaßnahmen, Klagebefugnis und NDA-Gestaltung im grenzüberschreitenden B2B. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Das Gesetz zum Schutz von Geschäftsgeheimnissen (HGeschGehG, 2019) setzt die EU
 - NDA-Gestaltung: klar definierter Geheimhaltungsgegenstand; Laufzeit 5 Jahre realistisch
 - Grenzüberschreitend: Rechtswahl und Gerichtsstand im NDA für Vollstreckbarkeit
 
-## Output
-
-- NDA-Muster (international, bilateral)
-- Schutzmaßnahmen-Checkliste (HGeschGehG § 2 Nr. 1)
-- Information Asset Register Vorlage
-
-## Quellenregel
-
-HGeschGehG: gesetze-im-internet.de. RL (EU) 2016/943: eur-lex.europa.eu. TRIPS Art. 39: wto.org. Schrifttum: Ohly, Geschäftsgeheimnisschutz (2019). Unsicherheit bleibt sichtbar.

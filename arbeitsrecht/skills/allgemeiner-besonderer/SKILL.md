@@ -5,9 +5,6 @@ description: "Kueschk Allgemeiner Besonderer im Plugin Arbeitsrecht: prüft konk
 
 # Kueschk Allgemeiner Besonderer
 
-## Arbeitsbereich
-
-**Kueschk Allgemeiner Besonderer** ordnet den Fall über die tragenden Prüfungslinien: Erklärung des Unterschieds zwischen dem punktuellen, Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG, Berufung beim Landesarbeitsgericht und Revision beim BAG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Kueschk Allgemeiner Besonderer im Plugin Arbeitsrecht: prüft konk
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kueschk-allgemeiner-und-besonderer-feststellungsantrag`
@@ -51,13 +49,6 @@ description: "Kueschk Allgemeiner Besonderer im Plugin Arbeitsrecht: prüft konk
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Im Kündigungsschutzprozess gibt es zwei unterschiedliche Feststellungsanträge, die in ihrer Funktion und Reichweite grundlegend verschieden sind. Dieser Skill erklärt den Unterschied und empfiehlt, beide Anträge zu stellen.
 
 ## Der punktuelle Feststellungsantrag § 4 Satz 1 KSchG
 
@@ -137,13 +128,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-§ 9 Abs. 1 Satz 1 KSchG gibt dem Arbeitnehmer das Recht, beim Arbeitsgericht zu beantragen, dass das Arbeitsverhältnis gegen Zahlung einer Abfindung aufgelöst wird — wenn das Arbeitsgericht die Kündigung für unwirksam hält, aber dem Arbeitnehmer die Weiterbeschäftigung nicht zuzumuten ist.
 
 ## Voraussetzungen § 9 Abs. 1 Satz 1 KSchG
 
@@ -259,9 +243,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweite Instanz — Berufung beim Landesarbeitsgericht (LAG)
 
 ### Voraussetzungen der Berufung
@@ -394,13 +375,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Kenntnis der typischen Arbeitgeberstrategien hilft dem Arbeitnehmer und seinem Anwalt, sich vorzubereiten und nicht in Fallen zu tappen. Dieser Skill beleuchtet die häufigsten Vorgehensweisen.
 
 ## Strategie 1: Angriff auf Geltungsbereich und Fristen
 

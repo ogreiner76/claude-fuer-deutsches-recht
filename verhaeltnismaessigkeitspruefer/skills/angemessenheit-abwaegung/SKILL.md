@@ -58,11 +58,6 @@ Grenzen verstoesst, scheitert das Gesetz schon objektiv;
 keine Abwaegung mehr (BVerfGE 115, 118 (Luftsicherheitsgesetz)
 Luftsicherheitsgesetz).
 
-## Output
-
-Strukturierte Abwaegungstabelle mit Eingriffsseite, Zweckseite und
-Gesamtbewertung mit Begruendung.
-
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek

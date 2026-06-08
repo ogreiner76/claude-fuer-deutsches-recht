@@ -5,10 +5,6 @@ description: "Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Sat
 
 # Pruefungsordnung Router
 
-## Arbeitsbereich
-
-Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,3 +71,4 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Ergebnisformat
 
 Erzeuge bevorzugt: Normenkette Prüfung. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+

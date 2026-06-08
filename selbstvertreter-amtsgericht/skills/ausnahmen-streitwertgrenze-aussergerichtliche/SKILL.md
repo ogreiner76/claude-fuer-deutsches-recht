@@ -5,9 +5,6 @@ description: "Ausnahmen Streitwertgrenze Aussergerichtliche im Selbstvertretung 
 
 # Ausnahmen Streitwertgrenze Aussergerichtliche
 
-## Arbeitsbereich
-
-**Ausnahmen Streitwertgrenze Aussergerichtliche** ordnet den Fall über die tragenden Prüfungslinien: Sonderzuständigkeiten des Amtsgerichts unabhängig vom, Außergerichtliche Mahnung als Voraussetzung für Verzug nach, Beratungshilfe vor Klageerhebung. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Ausnahmen Streitwertgrenze Aussergerichtliche im Selbstvertretung 
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `ausnahmen-streitwertgrenze-23-nr-2-gvg`
@@ -109,23 +107,9 @@ Erbschein-Antraege, Testamentsvollstreckung, Betreuung. Immer AG (§ 23b, 23c GV
 - "Reiseversicherungs-Anspruch gegen Versicherer ist Reisevertrag." → Nein, das ist Versicherungsvertrag. Streitwertgrenze § 23 Nr. 1 GVG anwendbar.
 - "Ehevertrag-Streit ist allgemeine Zivilsache." → Wenn er die Ehe betrifft, ist es Familiensache und Anwaltszwang.
 
-## Querverweise
-
-- `sachliche-zuständigkeit-amtsgericht-23-gvg` — Allgemeine Grundregel.
-- `oertliche-zuständigkeit-12-37-zpo` — Welches AG raeumlich?
-- `anwaltszwang-pruefen-78-zpo` — Familiensache und Anwaltszwang.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 23 Nr. 2 GVG unveraendert. Reform der Wertgrenze § 23 Nr. 1 GVG betrifft die Sonderzuständigkeiten nicht.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `aussergerichtliche-mahnung-286-bgb`
 
@@ -254,13 +238,6 @@ Sie koennen ueber Zinsen hinaus weitere Schaeden geltend machen (z. B. Mahngebue
 - "Ich klage direkt." → Geht, aber dann keine Verzugszinsen und ggf. Klage-Kosten allein.
 - "Mahnen mit 3 Tagen Frist." → In der Regel zu kurz und unangemessen.
 
-## Querverweise
-
-- `verjaehrungsfrist-pruefen-195-bgb` — Verjährung.
-- `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid als naechste Stufe.
-- `vorabklaerung-erfolgsaussichten-selbstcheck` — Erfolg pruefen.
-- `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 286 BGB unveraendert. Basiszinssatz halbjaehrlich aktualisieren.
@@ -363,21 +340,7 @@ Jeder Anwalt darf Beratungshilfe-Mandate annehmen — er muss aber **nicht**. Ma
 - "Ich muss zuerst einen Anwalt nehmen." → Sie koennen auch direkt zum AG für Schein.
 - "Beratungshilfe ist kostenlos." → 15 EUR Schutzgebuehr.
 
-## Querverweise
-
-- `prozesskostenhilfe-pkh-114-zpo` — PKH für Klage.
-- `pkh-bewilligung-ablehnung-folgen` — Wenn PKH abgelehnt.
-- `wann-doch-anwalt-grenzfaelle` — Wann Anwalt.
-- `einreichung-rechtsantragsstelle-selbst` — Andere Hilfe.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BerHG unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

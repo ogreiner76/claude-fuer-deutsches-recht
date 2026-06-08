@@ -54,10 +54,6 @@ description: "Bietet ein strukturiertes Prüfprotokoll für die Einhaltung der G
 - Art. 97 GG wird als Freibrief für richterliche Eigenständigkeit missverstanden, obwohl er nur Unabhängigkeit von Weisungen schützt.
 - Wesentlichkeitsgrundsatz wird nicht angewandt: Grundrechtlich relevante Entscheidungen müssen gesetzlich normiert sein.
 
-## Output
-
-Das Protokoll liefert eine Gesetzesbindungsprüfung: Normgrundlage, Wortlautkonformität, Gesetzgeberwillenkonformität, richterrechtliche Eigenständigkeitsanalyse, Wesentlichkeitsprüfung und verfassungsrechtliche Konsequenz. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Methodenkritik.
-
 ## Vertiefung: Wesentlichkeitstheorie als Gesetzesbindungskonkretisierung
 
 Das BVerfG hat durch die Wesentlichkeitstheorie die Gesetzesbindung konkretisiert: Alle grundrechtlich wesentlichen Entscheidungen müssen durch den parlamentarischen Gesetzgeber getroffen werden und können nicht dem Richterrecht oder der Exekutive überlassen bleiben. Diese Theorie ist ein zentrales Instrument zur Bestimmung der Grenzen richterlicher Rechtsfortbildung im grundrechtssensiblen Bereich.
@@ -83,3 +79,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 79 GG – Änderung des Grundgesetzes](https://dejure.org/gesetze/GG/79.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

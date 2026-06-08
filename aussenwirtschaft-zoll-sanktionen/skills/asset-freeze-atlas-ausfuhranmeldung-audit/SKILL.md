@@ -56,19 +56,6 @@ Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis
 - Meldepflicht ist unverzueglich; Versaeumnis fuehrt zu eigenem Sanktionsrisiko.
 - Humanitaere Ausnahmen erfordern explizite Genehmigung; nicht eigenmaechtig handeln.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -86,10 +73,6 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
-
-## Output
-
-Einfrierungs-Protokoll mit Treffernachweis, Meldeschreiben an Bundesbank/BaFin/BAFA, Freistellungsantrag-Entwurf und Legal-Hold-Anweisung.
 
 ## Quellen
 

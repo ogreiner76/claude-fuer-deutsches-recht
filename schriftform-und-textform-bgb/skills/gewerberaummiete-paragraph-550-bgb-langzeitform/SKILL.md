@@ -5,10 +5,6 @@ description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr lau
 
 # Gewerberaummiete § 550 BGB — Langzeitform
 
-## Arbeitsbereich
-
-Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kündigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kündigung-paragraph-568-bgb (Wohnraum) und kündigung-per-schriftsatz-zustellung-formfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -140,9 +136,3 @@ ________________________ ________________________
 - **Mieterhöhung per E-Mail**: Wird eine Mieterhöhung für einen Langzeitmietvertrag per E-Mail vereinbart, verletzt dies die Schriftform — der Gesamtvertrag kann als auf unbestimmte Zeit geltend behandelt werden.
 - **Treuwidrigkeitseinwand**: Die Berufung auf den Schriftformmangel kann nach § 242 BGB treuwidrig sein, wenn die Partei, die sich auf den Mangel beruft, diesen selbst veranlasst hat. Die Hürde ist hoch (BGH-Dauerrechtsprechung).
 
-## Querverweise
-
-- → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
-- → `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt`
-- → `verteidigungsstrategie-bei-formangriff` (§ 242 BGB Treuwidrigkeitseinwand)
-- → `formerfordernisse-im-bgb-ueberblick`

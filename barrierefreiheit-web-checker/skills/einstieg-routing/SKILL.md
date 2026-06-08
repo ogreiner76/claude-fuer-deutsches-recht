@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Barrierefreiheit Web BFSG/WCAG: 
 
 Dieser Einstieg routet **Barrierefreiheit Web Checker** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abnahme-formular-portal-und-einreichung` — Abnahme Formular Portal und Einreichung
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Barrierefreiheit Web Checker** vom ersten Sachverhalt z
 - Zuständige Stelle bestimmen: Webseitenbetreiber, Bundes-/Landesbarrierefreiheitsbeauftragter, Schlichtungsstelle BFSG, Marktüberwachung.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Barrierefreiheit Web BFSG/WCAG typische Eskalationsstufen: Konformitätsbericht, Mängelliste mit WCAG-Referenz, Roadmap Behebung.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

@@ -29,10 +29,6 @@ Nicht aus Modellwissen; aktuelle Entscheidungen zur Schwellenwertentscheidung Ar
 
 Art. 34 Abs. 1; Art. 5 Abs. 2 DSGVO; Erwägungsgrund 75; 76; 86; EDSA-Leitlinien 9/2022.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Bewertungsraster
 
 Faktor 1 Schwere: gering / mittel / hoch / sehr hoch.
@@ -53,3 +49,4 @@ Conclusion: hohes Risiko ab Schwere hoch + Wahrscheinlichkeit mittel; bei Art. 9
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-risikobewertung-edsa-leitlinie` und `dsv-risikobewertung-enisa-schweregrad` liefern methodische Tiefe.
+

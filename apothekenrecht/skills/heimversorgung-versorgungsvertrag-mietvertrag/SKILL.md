@@ -5,10 +5,6 @@ description: "Heimversorgung Versorgungsvertrag: prüft die einschlägigen Vorau
 
 # Heimversorgung Versorgungsvertrag
 
-## Arbeitsbereich
-
-Heimversorgung Versorgungsvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -103,15 +99,6 @@ Eingaben:
 - Notdienst-Vertretung nicht geregelt; Heim erreicht niemanden bei Krise.
 - Mietvertrag mit Umsatzkomponente — verdeckte Beteiligung Heim am Apothekenerlös.
 
-## Querverweise
-
-- `versorgung-pflegeheim-schnittstelle` (operativer Workflow)
-- `kooperation-arzt-apotheke-antikorruption` (Antikorruption)
-- `skonti-boni-rabatte-zuweisungsverbot` (Geldflüsse)
-- `datenschutz-in-apotheke-gesundheitsdaten` (DSGVO)
-- `mietvertrag-apothekenstandort-konkurrenzschutz` (Miete im Heim)
-- `qualitaetsmanagement-qms-sops` (Verblisterung)
-
 ## Quellen Stand 06/2026
 
 - ApoG § 12a; ApBetrO § 35 Anlage.
@@ -121,3 +108,4 @@ Eingaben:
 - BGH und OLG, staend. Rspr. zur Heimversorgung.
 - ABDA-Mustervertrag (vom Anwender Aktualität zu verifizieren).
 - DSGVO Art. 9, 28.
+

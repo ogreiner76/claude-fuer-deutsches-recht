@@ -5,10 +5,6 @@ description: "Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertra
 
 # Ambulantes Operieren § 115b SGB V
 
-## Arbeitsbereich
-
-Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog mit Schweregradkontexten, Abrechnung gegenueber KV, Abgrenzung zum stationaeren Aufenthalt und Hybrid-DRG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,14 +72,6 @@ Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertrag, AOP-Katalog
 - Hybrid-DRG-Faelle ueber AOP abgerechnet (falsch — Hybrid-DRG hat eigenen Weg).
 - Stationaere Aufnahme ohne dokumentierte Begruendung — MD-Risiko.
 - KV-Abrechnung nicht in Budgetbetrachtung beruecksichtigt.
-
-## Querverweise
-- `hybrid-drg-115f-sgb-v`
-- `krankenhaus-mvz-gruendung-zulassung-compliance`
-- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
-- `strukturpruefung-ops-und-md`
-- `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
-- `sektorenuebergreifende-versorgung-level-ii-klinik`
 
 ## Quellen Stand 06/2026
 - SGB V §§ 115b, 115f.

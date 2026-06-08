@@ -45,13 +45,6 @@ description: "Klausurfall zur Irrtumsanfechtung nach § 119 Abs. 1 BGB: Inhaltsi
 - § 122 BGB-Haftung besteht auch bei verschuldenslosem Irrtum — Klausurgefahr.
 - Unverzüglichkeit nach § 121 BGB bedeutet ohne schuldhaftes Zögern, nicht sofort.
 
-## Output
-
-- Gutachtenstil-Abschnitt zu § 119 Abs. 1 BGB mit Subsumtion
-- Klausurlösungsskizze: Anfechtungsgrund / Frist / Gegner / Folge
-- Rückfragenliste zu Zeitpunkt der Kenntnis und Art des Irrtums
-- Prüfampel: Anfechtung wirksam / Motivirrtum unbeachtlich / offen
-
 ## Quellen
 
 - [§ 119 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__119.html)
@@ -85,3 +78,4 @@ Motivirrtum: Kauft Aktie in Erwartung steigender Kurse — Erwartung erfüllt si
 - Motivirrtum ausgeschieden?
 - Unverzüglichkeit nach § 121 BGB gewahrt?
 - § 122 BGB: Schadensersatz des Anfechtenden geprüft?
+

@@ -5,10 +5,6 @@ description: "Soldatenbeteiligung Vertrauensperson SBG: prüft die einschlägige
 
 # Soldatenbeteiligung – Vertrauensperson nach SBG
 
-## Arbeitsbereich
-
-Soldatenbeteiligung Vertrauensperson SBG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,15 +88,6 @@ Das Soldatenbeteiligungsgesetz (SBG) regelt die Mitbestimmung und Mitwirkung der
 - Fristen der Wahlanfechtung verpasst.
 - Verwechslung mit Personalrat (BPersVG) – beide Gremien arbeiten parallel für unterschiedliche Statusgruppen.
 
-## Querverweise
-
-- soldatengesetz-rechtsstellung-grundpflichten
-- mobbing-fürsorgepflicht-bundeswehr
-- sexuelle-belaestigung-beschwerde-schutzpflicht
-- gleichstellung-diskriminierung-soldatinnen-soldaten
-- personalvertretung-zivile-beschaeftigte-schnittstelle
-- versetzung-kommandierung-abordnung
-
 ## Quellen Stand 06/2026
 
 - SBG – Volltext gesetze-im-internet.de.
@@ -108,3 +95,4 @@ Das Soldatenbeteiligungsgesetz (SBG) regelt die Mitbestimmung und Mitwirkung der
 - BVerwG Wehrdienstsenate – Rechtsprechung zur Beteiligungspflicht (Az. nach Verifikation).
 - Wehrbeauftragter des Deutschen Bundestages – Jahresberichte (bundestag.de/wehrbeauftragter).
 - Keine Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+

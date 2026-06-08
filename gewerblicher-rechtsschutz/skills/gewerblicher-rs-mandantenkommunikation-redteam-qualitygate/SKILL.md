@@ -5,10 +5,6 @@ description: "Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte
 
 # Workflow: Mandantenkommunikation
 
-## Arbeitsbereich
-
-Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und Rechtsabteilung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill strukturiert die **Kommunikation mit Mandanten** in IP- und Wettbewerbsschutzmandaten. Er liefert Templates und Tonalitätsregeln für alle typischen Kommunikationssituationen – von der Erstinformation bis zum Abschlussbericht.
-
-Mandatsbezug: Anwalt hat EV-Antrag vorbereitet und muss Mandanten informieren. Kanzlei sendet wöchentlichen Statusbericht. Rechtsabteilungsleiterin braucht Vorlage für Vorstandsbericht zu laufenden IP-Verfahren.
 
 ## Grundsätze der IP-Mandantenkommunikation
 
@@ -194,14 +184,9 @@ Bitte bestätigen Sie die Klageerhebung mit Ihrer Unterschrift.
 | Mandant ist aufgeregt | Beruhigend, aber klar | „Wir haben die Situation im Griff; nächster Schritt ist..." |
 | Termindruck | Direkt | „WICHTIG: Frist endet am [Datum]" |
 
-## Quellenregel
-
-- Keine externen Quellen für diesen Kommunikationsskill.
-- Kosten immer nach aktuellem RVG und GKG berechnen; [gesetze-im-internet.de/rvg](https://www.gesetze-im-internet.de/rvg/).
-- Keine Pauschalgebührenangaben ohne Streitwert-Grundlage.
-
 ## Anschluss-Skills
 
 - `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` – Entscheidungsvorlagen
 - `workflow-output-waehlen` – Output-Format wählen
 - `workflow-fristen-und-risikoampel` – Fristencheck
+

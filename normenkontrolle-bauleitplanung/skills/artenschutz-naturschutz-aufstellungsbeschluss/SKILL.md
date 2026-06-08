@@ -17,10 +17,6 @@ Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artens
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Artenschutz ist materieller Pflichtprogramm-Punkt jedes B-Plans, der bauliche Veränderungen vorsieht. Lücken in der speziellen artenschutzrechtlichen Prüfung (saP) sind häufiger Treffer.
-
 ## Schritt 1 — Zugriffsverbote § 44 BNatSchG
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -194,9 +190,6 @@ Artenschutz ist materieller Pflichtprogramm-Punkt jedes B-Plans, der bauliche Ve
 
 § 44 Abs. 1 Nr. 1-3 BNatSchG (Zugriffsverbote) → § 44 Abs. 5 BNatSchG (Legalausnahme Planung) → § 45 Abs. 7 BNatSchG (Ausnahme) → § 67 BNatSchG (Befreiung) → § 34 BNatSchG (FFH-Verträglichkeit) → § 1a Abs. 3 BauGB (Eingriffsregelung) → § 2 Abs. 3 BauGB (Ermittlungspflicht) → § 1 Abs. 7 BauGB (Abwägungsgebot)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage vor Bearbeitung
 
 Kläre vor Beginn der saP-Prüfung:
@@ -252,3 +245,4 @@ Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

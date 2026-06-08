@@ -5,10 +5,6 @@ description: "Verkehrsowi Messverfahren Geschwindigkeit: ordnet Normen, Nutzeran
 
 # Geschwindigkeitsmessung OWi-Verfahren
 
-## Arbeitsbereich
-
-Verkehrsowi Messverfahren Geschwindigkeit: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,9 +40,6 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand Volltext aufrufen):
 
 Hinweis: Standardisiertes Messverfahren bringt Beweis-Erleichterung; konkrete Angriffspunkte (Eichung, Aufstellung, Mehrfachreflexion, Bedienfehler) müssen substantiiert vorgetragen werden.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Messverfahren-Angriffspunkte — Checkliste
 
 ```
@@ -123,3 +116,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Sachverstaendigen-Antrag nur bei konkreten Angriffspunkten stellen (pauschal genuegt nicht).
 - Toleranzabzug immer selbst nachrechnen.
 - Anwaltliche Endkontrolle bei Sachverstaendigen-Auswahl und Beweisantraegen.
+

@@ -43,21 +43,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: muss vor Beginn der Datenverarbeitung erstellt werden
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Bevor Studierende `/einarbeitung` starten und Mandate aufnehmen, muss der anleitende Volljurist die Beratungsstelle konfigurieren. Diese Konfiguration steuert:
-
-- Welche Rechtsgrundlage die Beratung hat (§ 6 II Nr. 2 RDG? § 8 RDG? Zugelassener Anwalt?)
-- Welche Fachbereiche behandelt werden
-- Welches Aufsichtsmodell gilt (Prüfungsgates, Freigabestufen)
-- Welche Pädagogikhaltung der Anleiter bevorzugt (ausführen / anleiten / lehren)
-- Welche örtlichen Besonderheiten (Gerichte, BAMF-Außenstellen, Jobcenter-Bezirke) relevant sind
-
-**Zielgruppe: ausschließlich der anleitende Volljurist.** Studierende starten mit `/rechtsberatungsstelle:einarbeitung`.
-
 ## Berufsrechtlicher Rahmen
 
 - § 6 Abs. 2 Nr. 2 RDG: Die Organisation der Anleitungsstruktur muss sicherstellen, dass der Volljurist tatsächlich in der Lage ist, die Studierenden anzuleiten. "Formelle" Aufsicht ohne tatsächliche Prüfung genügt nicht; vgl. Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 52.
@@ -176,10 +161,6 @@ Anschließend empfehlen:
 - `/rechtsberatungsstelle:leitfaden-erstellen` für jeden konfigurierten Fachbereich
 - `/rechtsberatungsstelle:einarbeitung` – Testlauf aus Studierenden-Perspektive
 
-## Ausgabeformat
-
-Konfigurationsdatei (`CLAUDE.md`). Kein `[KI-GESTÜTZTER ENTWURF]`-Vermerk (Anleiter-Dokument). Länge: 80–180 Zeilen.
-
 ## Risiken / typische Fehler
 
 - **Anleitungsstruktur nur auf dem Papier:** § 6 Abs. 2 Nr. 2 RDG verlangt tatsächliche, nicht nur formelle Anleitung. Ein Anleiter, der monatlich einmal ins Büro schaut, genügt nicht.
@@ -190,3 +171,4 @@ Konfigurationsdatei (`CLAUDE.md`). Kein `[KI-GESTÜTZTER ENTWURF]`-Vermerk (Anle
 ---
 
 <!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemaess dejure.org-Pruefung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->
+

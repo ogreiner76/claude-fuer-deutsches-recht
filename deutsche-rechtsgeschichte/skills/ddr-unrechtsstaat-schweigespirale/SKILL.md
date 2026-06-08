@@ -5,10 +5,6 @@ description: "Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele
 
 # DDR-Recht und juristische Aufarbeitung
 
-## Arbeitsbereich
-
-Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Dieses Fachmodul prüft DDR-Rechtsgeschichte, Rehabilitierung, Vermögensfragen, Verwaltungsakten, Hochschulgeschichte und Debatten über den Begriff Unrechtsstaat.
-
 ## Prüfschritte
 
 1. Rechtsquelle der DDR bestimmen: Gesetz, Verordnung, Parteivorgabe, Verwaltungspraxis, Gerichtspraxis.
@@ -46,10 +38,6 @@ Dieses Fachmodul prüft DDR-Rechtsgeschichte, Rehabilitierung, Vermögensfragen,
 4. Erinnerungskonflikt trennen von Rechtsfolge.
 5. Keine Gleichsetzung verschiedener Diktaturen ohne Funktionsvergleich.
 
-## Output
-
-DDR-Aufarbeitungs-Memo mit Quellenmatrix, Rechtsfolgenpfad und sensibler Begriffsklärung.
-
 ## Quellen- und Zitierdisziplin
 
 - Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
@@ -57,3 +45,4 @@ DDR-Aufarbeitungs-Memo mit Quellenmatrix, Rechtsfolgenpfad und sensibler Begriff
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
 - Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
+

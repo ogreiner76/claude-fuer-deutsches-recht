@@ -5,10 +5,6 @@ description: "Kartellverbot Modus: ordnet Normen, Nutzerangaben, Fristen, Belege
 
 # Kartellverbot — Modus
 
-## Arbeitsbereich
-
-Kartellverbot Modus: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,9 +62,6 @@ Marktanteilsschwellen 20 Prozent (Wettbewerber) und 30 Prozent (Nicht-Wettbewerb
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfprotokoll Kartellverbot
 
 ```
@@ -81,3 +74,4 @@ GVO anwendbar?: [ja → VO-Nummer / nein]
 Art. 101 Abs. 3 Freistellung: [prüfen / nicht relevant]
 Ergebnis: [verboten / freigestellt / zweifelhaft]
 ```
+

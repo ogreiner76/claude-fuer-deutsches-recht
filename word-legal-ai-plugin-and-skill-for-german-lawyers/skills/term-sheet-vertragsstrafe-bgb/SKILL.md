@@ -5,10 +5,6 @@ description: "Uebersetzung eines Term Sheets oder Letter of Intent in einen ausg
 
 # Term Sheet zu Vertrag
 
-## Arbeitsbereich
-
-Uebersetzung eines Term Sheets oder Letter of Intent in einen ausgearbeiteten Vertrag. Identifiziert die typischen Term-Sheet-Punkte (Parteien Praeambel Leistung Verguetung Laufzeit Kuendigung Gewaehrleistung Haftung Geheimhaltung Recht Gericht Schiedsklausel Schriftform Salvatorisch), mappt jeden Punkt auf einen Vertragsabschnitt, fuegt notwendige Boilerplate-Klauseln hinzu, schliesst typische Term-Sheet-Luecken (Definitionen Verzug Force Majeure Datenschutz IP Aenderungen) und liefert einen vollstaendigen Vertragsentwurf inklusive Mandantenmemo zu offenen Punkten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Uebersetzung eines Term Sheets oder Letter of Intent in einen ausgearbeiteten Ve
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Ein Term Sheet (Letter of Intent, Eckdatenpapier, Heads of Terms) ist die wirtschaftliche Einigung in zwei bis fuenf Seiten. Der ausgearbeitete Vertrag ist 20 bis 80 Seiten. Dazwischen liegt eine Uebersetzungsaufgabe: Welche Punkte sind im Term Sheet schon geklaert? Welche fehlen? Welche Boilerplate-Klauseln muessen ergaenzt werden? Welche Verhandlungspunkte sind noch offen?
-
-Dieser Skill fuehrt strukturiert durch diese Uebersetzung. Er hilft, Luecken systematisch zu schliessen, ohne wirtschaftliche Punkte zu ueberschreiben, die nicht im Term Sheet stehen.
 
 ## Eingaben
 
@@ -114,13 +104,6 @@ Diese Punkte fehlen in fast jedem Term Sheet und muessen aktiv ergaenzt werden:
 >
 > Mit freundlichen Gruessen
 
-## Ausgabeformat
-
-- **Ausgearbeiteter Vertragsentwurf** als .docx mit Formatvorlagen.
-- **Mapping-Tabelle** als Anhang für interne Doku.
-- **Mandantenmemo** zu offenen Punkten.
-- **Markup-Modus aus**, da Erstentwurf.
-
 ## Beispiel: Term-Sheet-Punkt vs. Vertragsklausel
 
 ### Term-Sheet-Punkt
@@ -147,23 +130,8 @@ Diese Punkte fehlen in fast jedem Term Sheet und muessen aktiv ergaenzt werden:
 
 Der ausgearbeitete Vertrag hat den Term-Sheet-Punkt nicht veraendert (EUR 500.000, drei Tranchen, Verteilung 30/40/30), aber alle Detailfragen geregelt (Umsatzsteuer, Milestone-Feststellung, Faelligkeit, Verzug, Aufrechnung).
 
-## Querverweise
-
-- `dokumentarchitektur-vertrag-und-schriftsatz` für das Vertragsskelett
-- `definitionen-klauseln-stringent` für den Definitionsapparat
-- `boilerplate-klauseln-katalog` für Schlussbestimmungen
-- `klausel-bibliothek-katalog` für fertige Klauselbausteine
-- `defensive-drafting-fallen-erkennen` für Review der Gegenfassung
-
 ## Quellen (Stand 05/2026)
 
 - § 311 BGB (vorvertragliches Schuldverhaeltnis); § 286, § 288 BGB (Verzug); § 377 HGB (Untersuchungs- und Ruegepflicht); § 399 BGB (Abtretungsverbot); § 309 BGB (AGB-Klauselverbote); Art. 28 DSGVO (Auftragsverarbeitung).
 - Zitierweise: `references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

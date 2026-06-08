@@ -62,8 +62,3 @@ description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Re
 5. Ordre public einschlaegig?
 6. Schiedsabrede parallel?
 
-## Output
-
-- Rechtswahlklauselentwurf.
-- Memo "Schweizer Recht als Ausweg aus dem deutschen AGB-Recht — was funktioniert, was nicht".
-- Schriftsatzbaustein im Streitfall.

@@ -5,10 +5,6 @@ description: "Student sucht juristische Quellen für Hausarbeit: amtliche/freie 
 
 # Quellen-Recherche — Rechtsprechung und Literatur
 
-## Arbeitsbereich
-
-Student sucht juristische Quellen für Hausarbeit: amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards. Prüfraster Quellen-Vollständigkeit Aktualitaet Zugaenglichkeit Alternativ-Strategien. Output Quellen-Liste Recherche-Strategie Fundstellen-Tipps. Abgrenzung zu zitierweise-jura-fundstellen (Zitierformat) und kommentar-und-literatur-hinweis im subsumtions-prüfer. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Student sucht juristische Quellen für Hausarbeit: amtliche/freie Quellen und li
 - Tragende Normen verifizieren: JAG/JAPO Land (Pflicht-Hausarbeit), HRG, Studien-/Prüfungsordnung, GG Art. 5 Abs. 3, UrhG §§ 51, 51a (Zitatrecht), Promotionsordnung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Eine gute Hausarbeit lebt von guten Quellen. Wer nicht weiß, wo er sucht, findet nichts.
 
 ## Schritt 1 — Welche Quellen brauchst Du?
 
@@ -240,3 +232,4 @@ Bevor Du eine Quelle zitierst:
 - `zitierweise-jura-fundstellen` — Wie zitiere ich korrekt?
 - `meinungsstreit-darstellen` — Bei Streit-Punkten ausführlich
 - `selbstkontrolle-vor-abgabe` — Endcheck Quellen
+

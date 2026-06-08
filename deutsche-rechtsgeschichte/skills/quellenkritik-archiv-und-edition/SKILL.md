@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und hist
 
 # Quellenkritik: Archiv und Edition
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Quellenkritik für Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,12 +63,3 @@ Quellenkritik ist die Grundoperation der Rechtsgeschichte. Sie unterscheidet Ueb
 - Bundesarchiv-Online: invenio.bundesarchiv.de für Findbuecher
 - MGH: mgh.de für Volltext-Zugang zu mittelalterlichen Editionen
 
-## Output
-
-- Quellenkritik-Checkliste für ein konkretes rechtshistorisches Problem
-- Ueberlieferungsdiagramm für eine ausgewaehlte Quelle
-- Archivrecherche-Leitfaden mit Online-Ressourcen
-
-## Quellenregel
-
-Bundesarchiv: invenio.bundesarchiv.de. MGH: mgh.de. ALEX/OeNB: alex.onb.ac.at. Landesarchive: jeweilige Portale. Kein Blindzitat ohne Fundstelle.

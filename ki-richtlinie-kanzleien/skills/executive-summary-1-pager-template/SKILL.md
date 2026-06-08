@@ -5,10 +5,6 @@ description: "Ein-Seiten-Executive-Summary für KI-Nutzungsrichtlinien einer Kan
 
 # Executive Summary 1-Pager Template
 
-## Arbeitsbereich
-
-Ein-Seiten-Executive-Summary für KI-Nutzungsrichtlinien einer Kanzlei oder Rechtsabteilung; produziert ein druckfertiges 1-Pager-Dokument mit den Bloecken 'Was ist erlaubt', 'Was ist nicht erlaubt', 'Wo Vorsicht', 'Anlaufstellen' und 'Naechste Revision'; deckt KI-VO 2024/1689 Artikel 4 und 5 und 26 sowie BRAO Paragraf 43a und Paragraf 43e und DSGVO Artikel 5 und 6 und 28 und 32 ab und ist als Anlage zur Vollrichtlinie oder als Aushang für Onboarding und Schulungen einsetzbar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Ein-Seiten-Executive-Summary für KI-Nutzungsrichtlinien einer Kanzlei oder Rech
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erzeugt einen Ein-Seiten-Executive-Summary der KI-Nutzungsrichtlinie. Er liefert das kompakteste Dokument, das eine Kanzlei oder Rechtsabteilung als Aushang, Onboarding-Anlage oder Mandanteninformation einsetzen kann. Das Format ist bewusst auf 1 DIN-A4-Seite begrenzt.
 
 ## Wann dieses Modul hilft
 
@@ -103,13 +95,6 @@ Pro Block maximal 50 Worte, gesamt unter 300 Worte. Schriftgrad 11 Punkt.
 - Keine Datierung und keine Versionsnummer
 - Halbsatz-Verweise auf KI-VO-Artikel ohne konkrete Norm
 
-## Querverweise
-
-- `kr-richtlinie-vollvorlage-2026-kanzlei` für die Vollvorlage
-- `kr-richtlinie-anlagenverwaltung-tool-katalog` für den Tool-Katalog
-- `kr-richtlinie-mitarbeiter-erklaerung-und-bestaetigung` für die Bestaetigung
-- `kr-workflow-iterative-richtlinien-revision` für den Revisionsprozess
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2024/1689 (KI-VO), insb. Art. 4, 5, 26, 50
@@ -120,10 +105,3 @@ Pro Block maximal 50 Worte, gesamt unter 300 Worte. Schriftgrad 11 Punkt.
 - BRAK-Hinweise zur KI-Nutzung (Stand pruefen vor Veroeffentlichung)
 - DAV-Stellungnahme zu Legal-AI (Stand pruefen vor Veroeffentlichung)
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

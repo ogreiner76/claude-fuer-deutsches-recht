@@ -5,10 +5,6 @@ description: "Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umwelti
 
 # Umweltinformation nach UIG und IFG
 
-## Arbeitsbereich
-
-Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation oder wehrt Ablehnung ab. Normen UIG §§ 3 4 8 9 10 IFG §§ 1 3 5 6 9 Auskunftsfrist 1 Monat. Prüfraster Antragsrecht Ausnahmen Geheimnisschutz Drittbeteiligung Widerspruchs-Klage. Output Antrags-Muster Widerspruch Klage VG. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-kommandocenter (Routing). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,9 +40,6 @@ Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation ode
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 **Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
@@ -180,3 +173,4 @@ Wir beantragen, den Ablehnungsbescheid aufzuheben und die Informationen herauszu
 - `umweltrecht-verfahren` — VG-Klage auf Informationszugang
 - `klimaklagen-verbandsklage-umwrg` — NGO-Strategie Umweltinformation
 - `fachanwalt-verwaltungsrecht-anfechtungsklage` — Klage gegen Ablehnung
+

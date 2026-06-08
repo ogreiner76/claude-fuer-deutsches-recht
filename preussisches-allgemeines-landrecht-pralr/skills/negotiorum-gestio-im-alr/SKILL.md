@@ -39,14 +39,10 @@ description: "Geschaeftsfuehrung ohne Auftrag (negotiorum gestio) im ALR. Skill 
 3. Mutmasslicher Wille?
 4. Aufwendungen ersatzfaehig?
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse zu §§ 677 ff. BGB.
-
 ## Powersprint-Vertiefung
 
 - **Quellenarbeit:** Vor einer Aussage die betroffene ALR-Stelle mit Teil, Titel und Paragraph aus der 1794er oder 1804er Fassung festhalten; Abweichungen zwischen Fassungen nur behaupten, wenn sie am Text belegt sind.
 - **Historische Funktion:** Erkläre, ob `Pralr Negotiorum Gestio Im Alr` eher ständische Ordnung, Kameralstaat, Privatrechtsdogmatik, Polizeirecht oder frühe Verfahrensrationalisierung abbildet.
 - **Moderner Vergleich:** Stelle die heutige Parallele nur als Vergleich daneben, etwa BGB, ZPO, FamFG, StGB/StPO oder öffentliches Recht; niemals so tun, als gelte ALR-Recht noch unmittelbar.
 - **Output:** Liefere eine Mini-Synopse `ALR-Regel / historisches Problem / heutige Vergleichsnorm / didaktischer Nutzen / offene Quellenprüfung`.
+

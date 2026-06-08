@@ -72,16 +72,6 @@ Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird de
 
 Kritische Stimmen aus der Methodenlehre: Theodor Viehweg ("Topik und Jurisprudenz", 1953) bezweifelt die Steuerungskraft des Kanons; Niklas Luhmann sieht die vier Methoden als operative Selbstbeschreibung des Rechtssystems (siehe Skill `systemtheorie-luhmann-rechtssystem-autopoiese`); Robert Alexy ("Theorie der juristischen Argumentation", 1978) ordnet sie in eine umfassende Argumentationstheorie ein (siehe Skill `diskurstheorie-habermas-alexy`).
 
-## Querverweise
-
-- `wortlaut-grammatikalische-auslegung` — Vertiefung Element 1.
-- `systematische-auslegung` — Vertiefung Elemente 2 und 4 nach Savigny.
-- `historische-auslegung` — Vertiefung Element 3.
-- `teleologische-auslegung` — Erweiterung des Kanons um den Zweck.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Querschnittskanones.
-- `methodenlehre-anwenden` — Praktische Anwendung im Anwaltsalltag.
-- `methoden-mix-in-der-praxis-anwaltsschriftsatz` — Kombination im Schriftsatz.
-
 ## Quellen und Stand 05/2026
 
 - Friedrich Carl von Savigny, System des heutigen Roemischen Rechts, Band 1, Berlin 1840, §§ 32-37.
@@ -91,3 +81,4 @@ Kritische Stimmen aus der Methodenlehre: Theodor Viehweg ("Topik und Jurispruden
 - Quellenpflicht und Zitierweise: `references/zitierweise.md`.
 
 Stand: Mai 2026. Vor jeder Schriftsatz- oder Memo-Verwendung Rechtsprechungslinien live verifizieren.
+

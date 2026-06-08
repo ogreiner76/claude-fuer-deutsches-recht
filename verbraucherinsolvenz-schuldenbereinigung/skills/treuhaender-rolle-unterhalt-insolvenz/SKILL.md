@@ -5,9 +5,6 @@ description: "Treuhaender Rolle Unterhalt Insolvenz im Plugin Verbraucherinsolve
 
 # Treuhaender Rolle Unterhalt Insolvenz
 
-## Arbeitsbereich
-
-**Treuhaender Rolle Unterhalt Insolvenz** ordnet den Fall über die tragenden Prüfungslinien: Verbraucherinsolvenz, Verbraucherinsolvenz und eheliche Unterhaltspflicht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Treuhaender Rolle Unterhalt Insolvenz im Plugin Verbraucherinsolve
 - Tragende Normen verifizieren: InsO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `verbraucherinsolvenz-treuhaender-rolle`
@@ -35,10 +33,6 @@ description: "Treuhaender Rolle Unterhalt Insolvenz im Plugin Verbraucherinsolve
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Skill für Treuhaender-Mandate.
 
 ## Norm
 
@@ -74,12 +68,6 @@ Skill für Treuhaender-Mandate.
 2. Pflichtverletzungen?
 3. Verguetung angemessen?
 
-## Output
-
-- Treuhaender-Memo.
-- Jahresbericht-Vorlage.
-- Schlussbericht-Vorlage.
-
 ## 2. `verbraucherinsolvenz-unterhalt-und-insolvenz`
 
 **Fokus:** Verbraucherinsolvenz und eheliche Unterhaltspflicht. Skill behandelt das Verhaeltnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung. Liefert Pruefraster.
@@ -90,10 +78,6 @@ Skill für Treuhaender-Mandate.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Skill für Schnittstelle Insolvenz / Unterhalt.
 
 ## Norm
 
@@ -121,11 +105,6 @@ Skill für Schnittstelle Insolvenz / Unterhalt.
 3. Erwerbsobliegenheit erfuellt?
 4. § 850d ZPO-Pfaendung?
 
-## Output
-
-- Pruefraster.
-- Schriftsatzbaustein.
-
 ## 3. `verbraucherinsolvenz-versagungsgruende`
 
 **Fokus:** Verbraucherinsolvenz: Versagungsgruende. Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermoegensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigungsstrategien. Liefert Pruefraster.
@@ -136,10 +115,6 @@ Skill für Schnittstelle Insolvenz / Unterhalt.
 - **Normen-/Quellenanker:** InsO Verbraucherinsolvenz, außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, P-Konto, Restschuldbefreiung, Forderungsanmeldung und Pfändungsschutz.
 - **Entscheidende Weiche:** Schuldnerstatus, Gläubigerliste, Forderungstyp, pfändbares Einkommen, Vergleichsquote, Obliegenheiten und Antragsreife trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Skill für Versagungsverfahren.
 
 ## Norm
 
@@ -179,7 +154,3 @@ Skill für Versagungsverfahren.
 3. Bagatelle?
 4. Verfahrensgang?
 
-## Output
-
-- Verteidigungs-Memo.
-- Schriftsatz.

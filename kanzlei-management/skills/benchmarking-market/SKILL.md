@@ -5,10 +5,6 @@ description: "Nutzt Marktvergleiche vorsichtig für Rates, Gehälter, Profitabil
 
 # Benchmarking und Marktvergleich
 
-## Arbeitsbereich
-
-Nutzt Marktvergleiche vorsichtig für Rates, Gehälter, Profitabilität und Größe. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -52,14 +48,6 @@ Nutzt Marktvergleiche vorsichtig für Rates, Gehälter, Profitabilität und Grö
 3. Welche Entscheidung steht an und wer darf sie treffen?
 4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
 5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
-
-## Arbeitsweise
-
-- Trenne Signal von Kanzleigeräusch. Nicht jede laute Partnerstimme ist ein strategisches Argument.
-- Behandle Zahlen als Entscheidungsstütze, nicht als Orakel.
-- Zeige immer die Gegenrechnung: Kosten des Nichtstuns, Kosten der Überreaktion, Kosten der halbherzigen Lösung.
-- Prüfe, ob das Problem ein Cash-, Pricing-, People-, Governance-, Qualitäts- oder Kommunikationsproblem ist.
-- Formuliere den Output so, dass er im Partnerkreis beschlossen und nach vier Wochen überprüft werden kann.
 
 ## Standard-Output
 

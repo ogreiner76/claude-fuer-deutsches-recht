@@ -5,10 +5,6 @@ description: "Pensionierungs-Gesamtcheck für Beamte und Richter: Ruhegehalt, Mi
 
 # pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv
 
-## Arbeitsbereich
-
-Pensionierungs-Gesamtcheck für Beamte und Richter: Ruhegehalt, Mindestversorgung, Versorgungsabschlag, Beihilfe, PKV, Rente, Nebeneinkünfte und Übergang in den Ruhestand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Pensionierungs-Gesamtcheck für Beamte und Richter: Ruhegehalt, Mindestversorgun
 - Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Bündelt die letzten Schritte vor dem Ruhestand in einer beamtenrechtlichen Checkliste.
 
 ## Pflichtfragen
 
@@ -45,3 +37,4 @@ Bündelt die letzten Schritte vor dem Ruhestand in einer beamtenrechtlichen Chec
 ## Quellen-Hardening
 
 Keine Rechtsprechung aus Modellwissen zitieren. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher/frei prüfbarer Quelle. Landesrecht und Beihilferecht live prüfen.
+

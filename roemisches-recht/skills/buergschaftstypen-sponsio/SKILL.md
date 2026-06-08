@@ -5,10 +5,6 @@ description: "Buergschaftstypen im roemischen Recht: sponsio fidepromissio und f
 
 # Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio
 
-## Aufgabe
-
-Skill für die drei Hauptformen der roemischen Buergschaft.
-
 ## Sponsio
 
 - Aelteste Form, beschraenkt auf cives Romani.
@@ -71,7 +67,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.

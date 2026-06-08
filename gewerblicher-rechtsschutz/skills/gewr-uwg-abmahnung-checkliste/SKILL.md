@@ -5,10 +5,6 @@ description: "UWG-Abmahnung: vollständige Prüfcheckliste für Versand und Empf
 
 # GewR: UWG-Abmahnung – Vollständige Prüfcheckliste
 
-## Arbeitsbereich
-
-UWG-Abmahnung: vollständige Prüfcheckliste für Versand und Empfang. Voraussetzungen §§ 3 und 8 UWG, Mitbewerbereigenschaft, Spürbarkeit, Wiederholungsgefahr, Unterlassungserklärung, Streitwert, Abmahnmissbrauch § 8c UWG und typische Verteidigungsargumente. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -144,3 +140,4 @@ Mandatsbezug: Online-Händler erhält Abmahnung wegen fehlendem Impressum oder i
 - `verletzungs-triage` – Erstentscheidung
 - `unterlassungsverlangen` – Unterlassungserklärung
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweisfragen
+

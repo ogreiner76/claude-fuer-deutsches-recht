@@ -5,10 +5,6 @@ description: "Katalog konkreter Buerokratieabbau-Vorschlaege als Standardreperto
 
 # NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege
 
-## Arbeitsbereich
-
-Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten für One-in-one-out-Gegenrechnung und für Empfehlungen in der Stellungnahme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -136,14 +132,6 @@ Vorhaben mit Wirksamkeitsunsicherheit befristen.
 - Standardmuster ignoriert
 - "Buerokratieabbau erfolgt im weiteren Verfahren"
 - Gegenrechnung leer
-
-## Querverweise
-
-- `nkr-one-in-one-out-bilanz-und-buchung`
-- `nkr-alternativen-pruefung-keine-regelung-soft-law`
-- `nkr-mittelstandsfreundlichkeit-kmu-test`
-- `nkr-digital-anschlussfaehigkeit-tauglich`
-- `legistik-werkstatt/normenkontrollrat-kmu-check`
 
 ## Quellen Stand 06/2026
 

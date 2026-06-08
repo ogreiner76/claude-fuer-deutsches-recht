@@ -115,13 +115,7 @@ Wenn das Gericht nicht ueberzeugt ist, verliert die beweispflichtige Partei (= n
 - "Bei Schadensersatz muss der Beklagte alles beweisen." → Nur bei Beweislast-Umkehr (z. B. § 280 BGB).
 - "Indizien zaehlen nicht." → Doch, kumulativ koennen sie Ueberzeugung tragen.
 
-## Querverweise
-
-- `tatbestand-zerlegen-anspruchspruefung-laien` — Tatbestand.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweisangebote.
-- `substantiiertes-bestreiten-138-iv-zpo` — Bestreiten.
-- `kein-beweis-folgen-laienwarnung` — Folgen ohne Beweis.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Beweislast-Grundsaetze sind Rechtsprechung, weitgehend stabil. Sondernormen verifizieren.
+

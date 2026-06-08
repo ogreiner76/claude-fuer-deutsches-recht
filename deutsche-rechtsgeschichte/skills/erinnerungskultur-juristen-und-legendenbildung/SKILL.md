@@ -5,10 +5,6 @@ description: "Prüft geschönte juristische Geschichtsbilder, Nachrufe, Festschr
 
 # Juristische Erinnerungskultur und Legendenbildung
 
-## Arbeitsbereich
-
-Prüft geschönte juristische Geschichtsbilder, Nachrufe, Festschriften und Selbstzeugnisse auf Auslassungen, Rollenwechsel, Entlastungsnarrative und überprüfbare Gegenbelege. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Dieser Skill untersucht, wie juristische Biografien nach Systembrüchen erzählt werden. Er eignet sich für Rechtsgeschichte, Wissenschaftsgeschichte, Justizgeschichte und Einordnung belasteter Institutionen.
-
 ## Prüfpfad
 
 1. **Erzählanlass:** Nachruf, Festschrift, Jubiläum, Autobiografie, Fakultätsgeschichte, Behördenchronik.
@@ -46,10 +38,6 @@ Dieser Skill untersucht, wie juristische Biografien nach Systembrüchen erzählt
 4. **Gegenbelege:** Normtexte, Personalakten, Publikationen, Organisationsfunktionen, Urteile, Archivquellen.
 5. **Sprachkritik:** Wird moralische Bewertung durch Karriere- oder Leistungsrhetorik ersetzt?
 
-## Output
-
-Legendenbildungs-Audit mit Quellenmatrix, plausiblen und unplausiblen Entlastungen sowie neutralem Formulierungsvorschlag für Unterricht, Memo oder README.
-
 ## Quellen- und Zitierdisziplin
 
 - Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
@@ -57,3 +45,4 @@ Legendenbildungs-Audit mit Quellenmatrix, plausiblen und unplausiblen Entlastung
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
 - Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
+

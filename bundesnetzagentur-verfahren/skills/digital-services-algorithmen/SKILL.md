@@ -5,10 +5,6 @@ description: "Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltliche
 
 # Algorithmen und Empfehlungssysteme nach dem Digital Services Act
 
-## Arbeitsbereich
-
-Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,13 +87,6 @@ Anwaltliche Arbeit zu Transparenz- und Risikopflichten von Anbietern von Online-
 - BNetzA-DSC-Praxis nur generisch, konkrete Az. vom Anwender zu verifizieren.
 - Zitierweise nach `references/zitierweise.md`.
 
-## Ausgabeformat
-
-- Compliance-Memo (5–15 Seiten) mit Pflichten-Kartierung.
-- Risikomatrix nach Art. 34 DSA (Risikodimensionen x Wahrscheinlichkeit x Schwere).
-- Entwurf der AGB-Passage Art. 27 DSA in der jeweiligen Landessprache.
-- Implementierungsplan (Phasen, Owner, Fristen).
-
 ## Beispiele
 
 - **Online-Marktplatz.** Marktplatzbetreiber muss seine Empfehlung von Verkäuferangeboten transparent machen. Ergebnis: Erweiterung AGB-Klausel, neue Nutzeroberfläche mit Erklärbutton.
@@ -159,3 +148,4 @@ Vor Versand prüfen:
 - BNetzA-Bescheide nach §§ 28, 161 TKG / § 65 EnWG: Anhoerung nach § 28 VwVfG zwingend, Ermessen am Verhaeltnismaessigkeitsgrundsatz messen.
 - Anreizregulierung nach § 21 EnWG: Effizienzbenchmark der BNetzA mit BGH KVR 4/20-Linie pruefen.
 - Eilrechtsschutz nach § 80 Abs. 5 VwGO bei Marktdefinitionen ueblicher Weg; Suspensiv­wirkung sorgfaeltig begruenden.
+

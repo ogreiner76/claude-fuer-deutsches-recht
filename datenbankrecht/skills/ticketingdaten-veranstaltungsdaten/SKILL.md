@@ -5,10 +5,6 @@ description: "Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattf
 
 # Ticketing-Daten, Veranstaltungsdaten und Kalender — Datenbankrecht
 
-## Arbeitsbereich
-
-Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87
 - Aggregatoren mit Deeplinks zu Ticketportalen können Unterlassung wegen technischer Schutzmaßnahmenumgehung riskieren.
 - Eventdaten werden oft von mehreren Stellen gepflegt (Veranstalter, Portal, Agentur) — Inhaberschaft des Herstellerrechts klären.
 
-## Output
-
-- Datenbankherstellerrecht-Gutachten für Eventdatenbank
-- Aggregator-Risikobewertung (§ 87b UrhG + Innoweb-Test)
-- Event-API-Lizenzvertrag-Vorlage
-- DSGVO-Prüfbogen für Käuferdaten (Ticketing)
-- AGB-Klausel-Empfehlung gegen Scraping von Eventdaten
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
+

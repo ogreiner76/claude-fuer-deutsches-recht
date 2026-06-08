@@ -5,10 +5,6 @@ description: "Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftr
 
 # Negotiorum gestio - Geschäftsführung ohne Auftrag
 
-## Arbeitsbereich
-
-Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,13 +49,3 @@ Die negotiorum gestio ist die Führung fremder Geschäfte ohne Auftrag. Vorausse
 - Iust. Inst. 3.27
 - Kaser RP I §§ 267-272; Zimmermann Law of Obligations Kap. 17
 
-## Output
-
-- Schema: Voraussetzungen der negotiorum gestio
-- Pflichtenübersicht: gestor und dominus
-- Haftungsvergleich: gestor vs. mandatarius
-- Vergleich röm. GoA vs. BGB §§ 677ff.
-
-## Quellenregel
-
-D. 3.5 (Mommsen-Krüger). Iust. Inst. 3.27. Kaser RP I. Zimmermann Law of Obligations.

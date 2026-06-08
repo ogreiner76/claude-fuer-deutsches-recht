@@ -5,10 +5,6 @@ description: "Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für 
 
 # Mandantenzusammenfassung Vertragsrecht
 
-## Arbeitsbereich
-
-Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer "Zusammenfassung für Geschäftsführung", "für den Vorstand aufbereiten", "Managementzusammenfassung", "für Einkauf erklären" oder "nicht-juristische Zusammenfassung" sagt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,16 +12,6 @@ description: "Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für 
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; §§ 305 ff. BGB, NDA, SaaS- — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Der Geschäftsführer, der diesen Vertrag beauftragt hat, will kein
-Rechtsgutachten. Er will wissen: Können wir unterschreiben? Was ist der
-Haken? Was müssen wir tun? Diese Skill liest das fertige Prüfungsmemo
-und verdichtet es auf genau das.
-
-Lädt, wenn eine Vertragsanalyse abgeschlossen ist und das Ergebnis an
-eine Person außerhalb der Rechtsabteilung weitergegeben werden soll.
 
 ## Eingaben
 
@@ -63,6 +49,7 @@ sie wesentliche Risiken weglassen.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1 — Mandatskontext
@@ -161,51 +148,6 @@ Noch ausstehend:
 Wenn alle eingeleitet: `[N] von [N] Eskalationspfaden eingeleitet.`
 Wenn das Prüfungsmemo keine Eskalationen vorsieht: Block weglassen.
 
-## Ausgabeformat
-
-```markdown
-[ARBEITSERGEBNIS-KENNZEICHNUNG — nur für interne juristische Kreise;
-bei Weiterleitung an Nicht-Juristen entfernen]
-
-**[Vertragspartner] [Vertragstyp]** — [UNTERSCHRIFTSREIF / ÄNDERUNGEN ERFORDERLICH / BLOCKIERT]
-
-[Absatz 1: Was ist dieser Vertrag — in Geschäftssprache.]
-
-[Absatz 2: Der Haken, falls vorhanden. Oder: "Kein besonderer Hinweis."]
-
-**Eskalationsstatus:** [M] von [N] Eskalationspfaden eingeleitet.
-[Ausstehende Adressaten, falls vorhanden]
-
-**Was jetzt zu tun ist:**
-- [ ] [Handlungspunkt — konkret]
-- [ ] [Handlungspunkt — konkret]
-
-**Genehmigung:** [Wer genehmigt und bis wann]
-```
-
-### Übersetzungstabelle: juristischer Befund → Geschäftssprache
-
-| Juristischer Befund | Übersetzung für Empfänger |
-|---|---|
-| "Haftung auf 12 Monate Vergütung begrenzt" | "Wenn sie etwas kaputt machen, können wir maximal ein Jahresgehalt zurückfordern." |
-| "Keine ordentliche Kündigung" | "Einmal unterschrieben, sitzen wir die Laufzeit aus — wir können nicht einfach kündigen, wenn wir den Dienst nicht mehr nutzen." |
-| "Automatische Verlängerung mit 6-Wochen-Frist" | "Verlängert sich jedes Jahr automatisch. Kündigen müssen wir 6 Wochen vorher." |
-| "Keine Freistellung bei IP-Verletzung" | "Wenn jemand klagt, dass dieses Tool ein Patent verletzt, übernimmt der Anbieter die Verteidigung nicht." |
-| "Unterauftragnehmerliste nicht offengelegt" | "Wir wissen nicht, welche anderen Unternehmen über diesen Anbieter Zugang zu unseren Daten haben." |
-| "AVV fehlt trotz Verarbeitung personenbezogener Daten" | "Datenschutzrechtlich ist dieser Vertrag noch nicht fertig — ein Pflichtanhang fehlt (DSGVO-Anforderung)." |
-| "SLA-Gutschriften auf 10 % der Monatsgebühr begrenzt" | "Wenn das System ausfällt, bekommen wir eine kleine Gutschrift. Die deckt die tatsächlichen Ausfallkosten für das Unternehmen nicht." |
-
-### Was NICHT hineingehört
-
-- Paragraphennummern
-- Definierte Begriffe in Anführungszeichen
-- Das Wort "Haftungsfreizeichnung" (stattdessen: "sie übernehmen keine
- Verantwortung, wenn…")
-- Das Wort "ungeachtet"
-- Risikomatrizen mit Farbpunkten (sofern nicht explizit angefordert)
-- Relativierungsfloskeln à la "Dies ist keine Rechtsauskunft" — der Empfänger
- weiß, wer diese Zusammenfassung geschrieben hat
-
 ## Beispiel
 
 **Szenario:** SaaS-Vertrag für ein Marketing-Tool, Kunden-Seite,
@@ -267,3 +209,4 @@ ist für Nicht-Juristen):
  Literaturfundstellen nicht beispielhaft erfinden; bei Bedarf Platzhalter "vom Nutzer bereitgestellte/lizenziert live geprüfte Quelle" verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

@@ -32,13 +32,6 @@ Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen und Stundenhonor
 - Anlage 2 RVG — Gebührentabelle: Grundlage der RVG-Abrechnung
 - § 14b UStG — Aufbewahrungspflicht für Ausgangsrechnungen (10 Jahre)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill sammelt abrechnungsreife Informationen und erzeugt einen Rechnungsentwurf, Vorschussvorschlag oder eine Übergabe an den E-Rechnungs-Skill. Er ist die fachliche Rechnungsakte, nicht das Buchhaltungssystem.
-
 ## Datenquellen
 
 - Zeit- und Narrative-Ledger.
@@ -116,3 +109,4 @@ Keine verbindliche RVG-Gebührenberechnung, steuerliche Einordnung, GoBD-Prüfun
 - Entwurf Rechnungstext.
 - Offene Punkte.
 - Offene-Posten-Übergabe nach Freigabe.
+

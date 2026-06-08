@@ -5,10 +5,6 @@ description: "Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten:
 
 # Parkraumbewirtschaftung
 
-## Arbeitsbereich
-
-Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einführt Bewohnerparkausweis oder Abschleppung wird angefochten. Normen: § 45 StVO (Bewohnerparkausweis, Verkehrszeichen), StVG § 12 (Haltverbot), VwVfG (Verwaltungsakt Abschleppung). Prüfraster: Rechtsgrundlage Parkgebühren, Halteverbots-Anordnung, Abschleppkostenrecht, private Parkflaechen Eigentuemerpflichten, Parkraumkonzept Stadtplanung. Output Widerspruchsschrift Abschleppung, Parkraum-Konzept-Rechtsprüfung. Abgrenzung: Sondernutzung allgemein siehe verkehr-infrastrukturrecht-sondernutzung; Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -40,9 +36,6 @@ Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einf�
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-bei Abschleppung
 
 1. **Abschleppung vollzogen:** Datum, Ort, Fahrzeug, Einsatzkraefte dokumentieren.
@@ -56,3 +49,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Abschleppkosten-Erstattung ist Verwaltungsakt; Widerspruch und VG-Klage.
 - Privater Parkplatzbetreiber: Zivilgericht; AGB-Kontrolle der Vertragsstrafe.
 - Anwaltliche Endkontrolle bei Widerspruchsschreiben und Klagen.
+

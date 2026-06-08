@@ -16,10 +16,6 @@ description: "3D-Wuerfelstruktur für den Tabellenreview aufbauen: Zeilen, Spalt
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Bevor ein Reviewlauf startet, muss die Würfel-Struktur stehen. Dieser Skill fragt die drei Achsen ab und schreibt sie in eine versionierte `wuerfel-schema.yaml`. Die Reviewlauf-Skills lesen ausschließlich diese Datei. Wer den Würfel ändern will ändert das Schema; nichts verschwindet still.
-
 ## Eingaben
 
 - Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md`
@@ -65,3 +61,4 @@ Würfel für M&A-DD bei Erwerb einer SaaS-GmbH:
 ## Grenzen
 
 Das Schema ist nur die Architektur. Der eigentliche Reviewlauf erfolgt im Skill `review-durchfuehren`. Wer das Schema nachträglich ändert nachdem schon ein Lauf erfolgt ist muss `prompt-versionierung` und `caching-und-teil-rerun` beachten.
+

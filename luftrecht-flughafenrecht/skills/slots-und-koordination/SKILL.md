@@ -5,10 +5,6 @@ description: "Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafen
 
 # Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz
 
-## Arbeitsbereich
-
-Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin Fluko. Prueft VO EWG 95/93 Slotverordnung Grandfather Rights Use-it-or-lose-it FHKV Verwaltungsgerichtsweg und EuGH-Rechtsprechung zu Slot-Uebertragbarkeit und liefert Rechtsmittel-Vermerk und Klagebaustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,6 +40,7 @@ Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin 
 - **VO EWG 95/93 Art. 8**: Historische Slots (Grandfather Rights); Nutzungsquote 80/20.
 - **LuftVG § 27a**: Deutsche Koordinierungsstelle (Fluko); Rechtsstellung und Aufgaben.
 - **BVerwG Urt. v. 26.01.2012 – 3 C 8.11**: Slot-Entzug als Verwaltungsakt; Rechtsweg VG.
+
 ## Prüfraster
 
 1. Sind Grandfather Rights für die beantragte Slotzeit vorhanden?
@@ -54,6 +51,7 @@ Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin 
 6. Fristen für Widerspruch/Klage gewahrt?
 7. Ist die 80/20-Nutzungsquote (VO EWG 95/93 Art. 8) im letzten IATA-Season eingehalten?
 8. Sind Force-Majeure-Ausnahmen (COVID-Pandemie-Sonderregeln) korrekt beantragt?
+
 ## Typische Fallstricke
 
 - Slots als übertragbare Vermögenswerte in Insolvenzplan eingesetzt; unwirksam nach EuGH.
@@ -62,9 +60,7 @@ Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin 
 - Kapazitätsentscheidung des Flughafens und Slot-Zuweisung der Fluko vermischt.
 - Slot-Rückgabe zu spät angezeigt; keine Waiver-Ausnahme mehr möglich.
 - Slot-Übertragung als privatrechtlich behandelt; VO EWG 95/93 erlaubt keine freie Übertragung.
-## Output
 
-Rechtsmittel-Vermerk: Widerspruch und Klagechancen. Klagebaustein VG Frankfurt. Waiver-Antrag-Muster. Slot-Portfolio-Analyse mit Nutzungsnachweis. Koordinatoren-Schreiben-Template.
 ## Quellen
 
 - VO EWG 95/93: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31993R0095
@@ -93,3 +89,4 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

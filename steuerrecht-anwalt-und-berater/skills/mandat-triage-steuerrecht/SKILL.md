@@ -34,13 +34,6 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und sehr unterschiedlich (ESt-Bescheid bis Steuerstrafverfahren). Triage stellt die richtige Spur sicher — ergänzend zum Plugin-Konfigurations-Skill `anw-kaltstart-interview`.
-
 ## Ablauf — acht Fragen
 
 ### Frage 1 — Mandantenrolle?
@@ -191,3 +184,4 @@ Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und se
 - BFH Std.Spruch
 - Tipke/Lang Steuerrecht
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+

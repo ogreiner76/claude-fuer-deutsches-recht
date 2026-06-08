@@ -5,10 +5,6 @@ description: "Live-Quellencheck für BGB-BT: amtliche Gesetzestexte, Rechtsprech
 
 # Workflow: Live-Quellen und Rechtsstand
 
-## Zweck
-
-Rechtsstand und Quellen im BGB Besonderer Teil live prüfen: amtliche Gesetzestexte verifizieren, Rechtsprechungsdatenbanken abfragen, Reformstand und jüngste BGH-Entscheidungen einbeziehen.
-
 ## Normanker
 
 - Amtliches BGB: https://www.gesetze-im-internet.de/bgb/
@@ -44,25 +40,13 @@ Rechtsstand und Quellen im BGB Besonderer Teil live prüfen: amtliche Gesetzeste
 - Juris/Beck-RS-Zitate ohne Primärquelle; nicht verifizierbar.
 - BGH-Entscheidungen nur mit korrektem Aktenzeichen und Datum angeben.
 - EU-Richtlinien-Umsetzungsstand: Umsetzungsgesetz und BGB-Norm getrennt prüfen.
+
 ## Stoppschilder
 
 - Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
 - Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
 - Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Output
-
-- Normtext-Verifikations-Protokoll
-- Reformstand-Zusammenfassung
-- BGH-Entscheidungs-Verifikation
-- Quellenverzeichnis mit URLs
-
-## Qualitätsregeln
-
-- Immer amtliche Quelle als Ausgangspunkt; keine Drittzitate ohne Primärquelle.
-- BGH-Entscheidungen nur mit vollständigen Metadaten verwenden.
-- Reformstand-Unsicherheiten ausdrücklich markieren.
 
 ## Anschluss-Skills
 
@@ -76,10 +60,4 @@ Rechtsstand und Quellen im BGB Besonderer Teil live prüfen: amtliche Gesetzeste
 - https://www.gesetze-im-internet.de/bgb/
 - https://www.bundesgerichtshof.de/
 - https://eur-lex.europa.eu/
-## Qualitäts-Hardening
 
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

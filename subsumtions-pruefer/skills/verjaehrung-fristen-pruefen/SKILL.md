@@ -106,6 +106,3 @@ Anspruch entstanden wann?
  └─ Nein → Ergebnis: verjährt / nicht verjährt
 ```
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

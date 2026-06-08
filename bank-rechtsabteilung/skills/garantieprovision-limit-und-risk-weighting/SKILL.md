@@ -5,10 +5,6 @@ description: "Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern: Gar
 
 # Garantieprovision, Limit und Risk Weighting
 
-## Arbeitsbereich
-
-Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern: Garantieprovision, Limitnutzung, Risikoklassifizierung, Kreditäquivalent, Sicherheiten, Covenants, Forbearance, NPE und Vorstandsvorlage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern: Garantieprovision
 - **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
 - **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Ordne Avale und Garantien als Risiko- und Liquiditätsprodukt: Sie erzeugen beim Kunden Spielraum, bei der Bank aber Eventualverbindlichkeiten, Limitverbrauch, Pricingfragen und Governancebedarf. Der Skill liefert eine Inhouse-Entscheidungsvorlage.
 
 ## Intake
 
@@ -72,3 +64,4 @@ Liefere:
 - `forbearance-npe-risikoklassifizierung`
 - `crr-crd-eigenmittel-large-exposure`
 - `vorstandsvorlage-gutachten`
+

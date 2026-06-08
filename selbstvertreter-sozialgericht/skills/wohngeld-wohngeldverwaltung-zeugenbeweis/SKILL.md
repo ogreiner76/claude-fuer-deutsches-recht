@@ -5,9 +5,6 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 
 # Wohngeld Wohngeldverwaltung Zeugenbeweis
 
-## Arbeitsbereich
-
-**Wohngeld Wohngeldverwaltung Zeugenbeweis** ordnet den Fall über die tragenden Prüfungslinien: Wohngeld nach dem Wohngeldgesetz (WoGG), Zeugen vor dem Sozialgericht, Zugunstenantrag nach § 44 SGB X. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Wohngeld Wohngeldverwaltung Zeugenbeweis im Selbstvertretung am So
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `wohngeld-wohngeldverwaltung`
@@ -195,24 +193,9 @@ Auch bei Sozialgericht (§ 1 JVEG i.V.m. § 197a SGG analog). Sagen Sie das dem 
 - Zeuge hat nur vom Hoeren-sagen Kenntnis → wenig wertvoll
 - Zeuge unzuverlaessig → besser nicht benennen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `beweismittel-im-sozialgericht-uebersicht` — Ueberblick
-- `amtsermittlungsgrundsatz-103-sgg` — Amtsermittlung
-- `medizinische-gutachten-strategie-laien` — bei medizinischen Fragen lieber Gutachten
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze für Zeugenentschaedigung pruefen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `zugunstenantrag-44-sgb-x-bestandskraft`
 
@@ -278,10 +261,6 @@ Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen 
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Dieser Skill prüft, ob nach einem Urteil des Sozialgerichts die Berufung zum Landessozialgericht ohne Zulassung möglich ist, ob die Berufung zugelassen werden muss oder ob eine Nichtzulassungsbeschwerde in Betracht kommt. Er erklärt die Schwellen so, dass Bürger sie selbst nachvollziehen können.
-
 ## Kernwerte Stand Mai 2026
 
 | Thema | Grenze | Norm |
@@ -332,30 +311,3 @@ Wenn Wertgrenze nicht erreicht und keine laufenden Leistungen über mehr als ein
 - SG und LSG: Bürger dürfen sich selbst vertreten.
 - BSG: Vertretungszwang nach § 73 Abs. 4 SGG. Rechtzeitig Anwalt, Sozialverband oder zugelassene Vertretung prüfen.
 
-## Ausgabeformat
-
-**Rechtsmittel-Check**
-| Frage | Ergebnis | Ampel |
-|---|---|---|
-| Berufung zugelassen? | | |
-| Beschwer über 750 EUR? | | |
-| Laufende Leistungen über mehr als 1 Jahr? | | |
-| Zulassungsgrund erkennbar? | | |
-| Frist gesichert? | | |
-| Anwalt/Sozialverband nötig? | | |
-
-**Konsequenz**
-[Berufung einlegen, Nichtzulassungsbeschwerde prüfen, Urteil akzeptieren, PKH/Anwalt/Sozialverband einschalten.]
-
-**Nächste Skills**
-- `berufung-lsg-144-sgg-wertgrenze-750`
-- `berufung-zulassung-besondere-bedeutung`
-- `anwaltszwang-pruefen-73-sgg`
-- `nichtzulassungsbeschwerde-bsg-160a-sgg` nur nach einem LSG-Urteil ohne Revisionszulassung.
-
-## Qualitätsregeln
-
-- Immer zwischen Berufung, Nichtzulassungsbeschwerde und Revision unterscheiden.
-- Fristdatum konkret berechnen oder fehlende Zustellung markieren.
-- Bei BSG-Verfahren nie suggerieren, dass Bürger allein handeln können.
-- Bei Kostenfreiheit § 183 SGG trotzdem § 109 SGG, Mutwillenskosten und eigene Anwaltskosten erwähnen.

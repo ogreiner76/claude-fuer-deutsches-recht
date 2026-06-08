@@ -5,9 +5,6 @@ description: "Beantwortet Beanstandungen von Kreis-, Landes- oder Bundeswahlleit
 
 # Wahlleiter-Rückfrage
 
-## Aufgabe
-Beantwortet Beanstandungen von Kreis-, Landes- oder Bundeswahlleitung mit Korrekturpfad und Unterlagenliste.
-
 ## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
@@ -25,18 +22,12 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
 
 - § 9 PartG
 - § 17 PartG (Kandidatenaufstellung)
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
 
 ## Quellen- und Aktualitätsregel
 - Parteiengesetz live prüfen
@@ -46,3 +37,4 @@ Konkret zu prüfen:
 - Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+

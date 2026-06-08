@@ -5,10 +5,6 @@ description: "Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erkläru
 
 # Zugang empfangsbedürftiger Willenserklärungen § 130 BGB
 
-## Arbeitsbereich
-
-Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -118,14 +114,3 @@ Option C — Gerichtliche Zustellung:
 - **Spam-Filter**: E-Mail landet im Spam-Ordner → BGH und OLG-Rechtsprechung uneinheitlich. Sicherheitshalber zusätzlich per Post übermitteln oder Empfangsbestätigung anfordern.
 - **qES und Zugang**: Die qES-Erklärung muss digital (nicht als Papierausdruck) beim Empfänger ankommen, damit Formwirksamkeit und Zugang zusammenfallen (→ `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`).
 
-## Querverweise
-
-- → `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23` (Sonderfall qES-Zugang)
-- → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
-- → `dokumentations-und-beweisarchitektur`
-- → `wohnraummiete-kuendigung-paragraph-568-bgb`
-
-<!-- AUDIT 27.05.2026 bundle_043
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.10.2022&Aktenzeichen=VII+ZR+895%2F21
--->

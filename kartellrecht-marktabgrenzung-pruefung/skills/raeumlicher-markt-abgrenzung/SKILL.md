@@ -5,10 +5,6 @@ description: "Prüft den räumlich relevanten Markt: national europaeisch global
 
 # Räumlicher Markt — Abgrenzung
 
-## Arbeitsbereich
-
-Prüft den räumlich relevanten Markt: national europaeisch global. Analysiert Preisstrukturen Transportkosten regulatorische Unterschiede Homogenitaetsannahmen Handelsstroeme und Arbitragemoeaeglichkeiten. Bewertet ob nationale Marktdefinition europarechtskonform oder globalere Abgrenzung geboten ist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -94,6 +90,3 @@ Bewertung: [korrekt / zu eng / zu weit]
 - EK, Marktdefinitionsbekanntmachung 2024 Rn. 70-90 — Raeumliche Abgrenzung Methodik; Preiskorrelation, Handelsstroeome, regulatorische Grenzen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

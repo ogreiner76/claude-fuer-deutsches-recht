@@ -5,10 +5,6 @@ description: "Anw Tatsaechliche Verstaendigung Schlussbesprechung: ordnet Normen
 
 # Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich
 
-## Arbeitsbereich
-
-Anw Tatsaechliche Verstaendigung Schlussbesprechung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Anw Tatsaechliche Verstaendigung Schlussbesprechung: ordnet Normen, Nutzerangabe
 - **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
 - **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Eingaben
 
@@ -134,15 +126,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **Außenprüfung Streit-Phasen**: nicht eskalieren vor Schlussbesprechung
 - **Schweigerecht § 393 AO bei Strafverdacht**: aktivieren bei Verdacht — keine Vermischung Steuer-/Straf-Verfahren
 
-## Querverweise
-
-- `anw-aussenpruefung-strategien` — Außenprüfung-Strategie
-- `anw-einspruch-finanzamt` — Einspruchsverfahren
-- `anw-aussetzung-vollziehung` — AdV § 361 AO / § 69 FGO
-- `anw-klage-finanzgericht` — Klage FG
-- `anw-selbstanzeige-371` — Selbstanzeige-Variante
-- `anw-steuerstrafverteidigung-verstaendigung` — Steuerstraf-Variante
-
 ## Quellen und Updates
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

@@ -5,10 +5,6 @@ description: "Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragu
 
 # Notar-, Grundbuch- und Transaktionskosten
 
-## Arbeitsbereich
-
-Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -42,10 +38,6 @@ Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung,
 
 Der Skill ist kein Gebührenrechner, baut aber Kostenereignisse und Zuständigkeiten sauber in die Aktenplanung ein.
 
-## Aufgabe
-
-Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches Amt/Gericht, welcher Rang oder welche Eintragung betroffen ist. Trenne streng zwischen materieller Rechtslage, Formnachweis, Vollzugshindernis und taktischer Kommunikation.
-
 ## Arbeitsmodus
 
 1. **Dokumente sortieren:** Auszug, Urkunde, Bewilligung, Antrag, Beschluss, Vollmacht, Gerichtsschreiben, Bankauflage und Frist erfassen.
@@ -61,3 +53,4 @@ Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches
 - offene entscheidende Fragen
 - konkreter Entwurf oder Checkliste
 - Risiko, das in der Praxis leicht übersehen wird
+

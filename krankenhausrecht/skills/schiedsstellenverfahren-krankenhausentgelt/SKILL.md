@@ -5,10 +5,6 @@ description: "Schiedsstellenverfahren nach § 18a KHG / § 13 KHEntgG: Antragste
 
 # Schiedsstellenverfahren Krankenhausentgelt
 
-## Arbeitsbereich
-
-Schiedsstellenverfahren nach § 18a KHG / § 13 KHEntgG: Antragstellung, Verfahrensablauf, Beweisfragen, Entscheidungsmassstab, Beurteilungsspielraum, Rechtsschutz vor VG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,17 +75,10 @@ Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostent
 - Beurteilungsspielraum nicht beachtet — VG-Klage scheitert in Detailpruefung.
 - Vorhalteanteil mit DRG vermischt.
 
-## Querverweise
-- `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
-- `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung`
-- `vorhalteverguetung-leistungsgruppen-krankenhausreform`
-- `pflegebudget-vereinbarung-nachweis-risiken`
-- `fristen-planung-budget-md-schiedsstelle`
-- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
-
 ## Quellen Stand 06/2026
 - KHG § 18a; KHEntgG § 13; BPflV § 18.
 - Schiedsstellenverordnungen der Länder (Live-Check Landesministerien).
 - BVerwG, staend. Rspr. zur Schiedsstellenkontrolle (Beurteilungsspielraum).
 - BSG, staend. Rspr. zur Budget- und Verguetungsfestsetzung.
 - VwGO §§ 42, 80, 113.
+

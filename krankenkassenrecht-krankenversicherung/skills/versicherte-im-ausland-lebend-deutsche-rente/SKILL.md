@@ -5,10 +5,6 @@ description: "Krankenversicherung für im Ausland lebende Rentner mit deutschen 
 
 # Versicherte im Ausland lebend mit deutscher Rente
 
-## Arbeitsbereich
-
-Krankenversicherung für im Ausland lebende Rentner mit deutschen Rentenansprüchen: KVdR, S1-Formular, EU-Koordinierungsrecht und bilaterale Abkommen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,6 +77,7 @@ Deutsche Rentner, die im EU-Ausland oder in Drittstaaten leben, haben komplexe K
 - [S1-Formular Informationen](https://www.dvka.de)
 - [BSG Auslandsrentner](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 5 SGB V](https://dejure.org/gesetze/SGB_V/5.html)
+
 ## Schritt 6 – Rückkehr nach Deutschland und Statusänderung
 
 - Bei Rückkehr nach Deutschland endet S1-Registrierung im Ausland
@@ -99,3 +96,4 @@ Deutsche Rentner, die im EU-Ausland oder in Drittstaaten leben, haben komplexe K
 - [§ 256 SGB V – Beitragseinbehalt Rentenversicherungsträger](https://www.gesetze-im-internet.de/sgb_5/__256.html)
 - [DVKA – Deutsche Verbindungsstelle Krankenversicherung Ausland](https://www.dvka.de)
 - [VO (EG) 987/2009 – Durchführungsverordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009R0987)
+

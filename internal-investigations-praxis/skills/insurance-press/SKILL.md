@@ -5,10 +5,6 @@ description: "Koordiniert die Versicherungsmeldung bei Internal Investigations �
 
 # Versicherungsmeldung bei Internal Investigations
 
-## Arbeitsbereich
-
-Koordiniert die Versicherungsmeldung bei Internal Investigations – D&O, Crime-Versicherung, Cyber-Versicherung, Meldepflichten und Deckungsstrategien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill stellt sicher, dass alle relevanten Versicherungsmeldungen rechtzei
 - § 115 VVG: Direktklage gegen Versicherer bei Pflichtversicherungen.
 - Musterfeststellungsklage bei gleichartigen Deckungsstreitigkeiten (z. B. nach COVID-19-Betriebsunterbrechungsfällen).
 
-## Red-Team-Fragen
-
-- Wurden alle relevanten Versicherer (D&O, Crime, Cyber) unverzüglich nach Entdeckung des Schadens informiert?
-- Sind die Meldepflichten aus dem Versicherungsvertrag vollständig erfüllt?
-- Hat der Versicherer Mitspracherecht bei der Verteidigungsstrategie, und wurde er in strategische Entscheidungen eingebunden?
-- Könnte die D&O-Versicherung wegen Vorsatz der Täter leistungsfrei sein?
-- Wurden Incident-Response-Kosten (Forensiker, Krisenkommunikation) vorab mit dem Cyber-Versicherer abgestimmt?
-- Ist der Selbstbehalt der Organmitglieder korrekt berechnet und berücksichtigt?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -96,3 +83,4 @@ Dieser Skill stellt sicher, dass alle relevanten Versicherungsmeldungen rechtzei
 - **Deckungsstreit-Eskalationsplan**
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

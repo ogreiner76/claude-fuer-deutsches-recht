@@ -5,10 +5,6 @@ description: "Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukt
 
 # Leistungsgruppen und Qualitaetskriterien Reformlogik
 
-## Arbeitsbereich
-
-Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,14 +73,6 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 - Personal nur als Soll-Besetzung melden, statt als Ist-Lage zum Stichtag.
 - Kooperationsmodelle ohne schriftliche Vertraege/Dienstanweisungen — nicht anerkennbar.
 
-## Querverweise
-- `krankenhausreform-leistungsgruppen-routing`
-- `vorhalteverguetung-leistungsgruppen-krankenhausreform`
-- `mindestmengen-g-ba-qualitaetssicherung`
-- `qualitaets-und-strukturvorgaben-intake`
-- `strukturpruefung-ops-und-md`
-- `personaluntergrenzen-pflege-ppugv`
-
 ## Quellen Stand 06/2026
 - KHG Anlage zu § 6a (Leistungsgruppen-Liste), Fassung KHVVG 12/2024.
 - G-BA-Richtlinien zur Strukturqualitaet (Live-Check: g-ba.de/richtlinien).
@@ -100,3 +88,4 @@ Konkret zu prüfen:
 - §§ 107-114 SGB V (Krankenhaus)
 - KHEntgG (Entgeltgesetz)
 - §§ 17a-17d KHG (DRG, Pflege, Investitionen)
+

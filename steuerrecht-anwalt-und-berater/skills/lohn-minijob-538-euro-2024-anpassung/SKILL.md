@@ -102,12 +102,6 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 - Bei voraussichtlicher Grenzueberschreitung: rechtzeitig SV-pflichtige Beschaeftigung statt Minijob.
 - Bei Grenzueberschreitung rueckwirkend: Nachforderung SV-Beitraege (AG- und AN-Anteil), § 28e SGB IV.
 
-## Output
-
-- Minijob-Abrechnung mit Pauschalabgaben.
-- Anmeldung Knappschaft.
-- MiLoG-Aufzeichnung dokumentiert.
-
 ## Strategie und Praxis-Tipps
 
 - 538 EUR (Stand 01.01.2024) ist nicht statisch — bei MiLo-Erhoehung neue Grenze; jeweils zum Stichtag pruefen.
@@ -116,14 +110,6 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 - Mehrfache Minijobs: AG haftet nur für eigenen Minijob; AN-Pruefpflicht aber.
 - StBVV: Minijob in Lohnpauschale; komplexe Sonderfaelle (Sonderzahlungen) Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Minijob-Konfiguration prueft automatisch Grenze; bei MiLo-Update jaehrlich anpassen.
-
-## Querverweise
-
-- `stb-lohn-mini-midi-grenzen-2026-stand` — aktuelle Grenzen.
-- `stb-lohn-midi-job-uebergangsbereich-2000-euro` — Uebergangsbereich.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-mindestlohn-aktuell-2026-anpassung` — Mindestlohn.
-- `stb-lohn-aufzeichnungspflichten-milog` — MiLoG.
 
 ## Quellen und Updates
 
@@ -139,10 +125,3 @@ Stand: 05/2026.
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Grenze 556 EUR 2025 eingesetzt), 1 ersetzt (Umlage-Pruefhinweis ohne Marker) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: Minijob-Grenze 603 EUR (2026) / voraussichtlich 633 EUR (2027) ergaenzt -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

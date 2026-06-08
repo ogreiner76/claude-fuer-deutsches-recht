@@ -16,10 +16,6 @@ description: "Prueft Technik-, Industrie- und Infrastrukturargumente: Regulierun
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill hilft, technische und industrielle Sachzwänge rechtlich ernst zu nehmen, ohne ihnen blind zu folgen. Er passt für Energie, Robotik, KI, Plattformen, Telekommunikation, Verkehr, Gesundheitswesen, Umwelt, Cybersecurity, kritische Infrastruktur und Massenverwaltung.
-
 ## Sofort klären
 
 1. Welcher technische Sachverhalt wird behauptet?
@@ -60,14 +56,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Erstelle einen Technik-Rechts-Vermerk:
-
-- Technikannahme;
-- Beleglage;
-- Normgrundlage;
-- Sachzwang oder Alternativen;
-- Grundrechtsfolgen;
-- Governance-Vorschlag;
-- Ergebnis in einem entscheidungsreifen Absatz.

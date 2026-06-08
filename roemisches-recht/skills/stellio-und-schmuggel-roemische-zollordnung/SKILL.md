@@ -5,10 +5,6 @@ description: "Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-,
 
 # Rom 133 Stellio Und Schmuggel Roemische Zollordnung
 
-## Arbeitsbereich
-
-Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermoegenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-, Steuer- und W
 - Tragende Normen verifizieren: Corpus Iuris Civilis (Institutionen, Digesten, Codex, Novellen), Zwölftafelgesetz, Lex Aquilia, Lex Iulia et Papia, römisches Personen-, Sachen-, Obligationen-, Familien- und Erbrecht; dogmenhistorisch fortwirkend in BGB §§ 90 ff. (Sachen), 433 ff., 812 ff., 854 ff. — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaftliche Rezipienten, Lehrstühle für Bürgerliches Recht/Rechtsgeschichte, Gesetzgeber (historisches Argumentum), Rechtsprechung (Auslegungshilfe).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lehrbuchexegese, Quellenkritik (Digesten-Stelle), historisch-rechtsvergleichendes Gutachten, dogmatische Aufsatz, Klausur (Pandektistik) — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Skill für Schmuggelrechtsregeln im Roemischen Reich.
 
 ## Rechtsquelle
 
@@ -59,7 +51,3 @@ Skill für Schmuggelrechtsregeln im Roemischen Reich.
 2. Welche Zollordnung?
 3. Welche Strafe?
 
-## Output
-
-- Quellenmatrix.
-- Memo zur roemischen Steueraufsicht.

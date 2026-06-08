@@ -92,6 +92,3 @@ Strukturiere die Ruege in Abschnitte:
 
 §§ 556d, 556e, 556f, 556g BGB — Mietpreisbremse und Rüge; § 5 WiStrG 1954 — Mietpreisüberhöhung; § 8 WiStrG 1954 — Abführung des Mehrerlöses; § 291 StGB — Wucher.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

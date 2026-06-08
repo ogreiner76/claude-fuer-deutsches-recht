@@ -51,10 +51,6 @@ description: "Dieses Skill erstellt eine vollständige Sachverhaltschronologie u
 - Verjährungsrelevante Zeitpunkte werden nicht markiert, was Fristberechnungsfehler verursacht.
 - Widersprüchliche Zeitangaben zwischen verschiedenen Dokumenten werden nicht als Problem erkannt.
 
-## Output
-
-Das Skill liefert zwei Arbeitsinstrumente: eine datierte Chronologie mit Ereignissen, Quellen und Beweisbarkeitsstatus sowie eine tabellarische Belegmatrix mit Tatbestandsmerkmalen, vorhandenen und fehlenden Belegen. Beide Instrumente werden im Mandat laufend aktualisiert und bilden die Grundlage für alle nachfolgenden Bearbeitungsschritte.
-
 ## Quellen
 
 - [§ 199 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__199.html)
@@ -85,3 +81,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

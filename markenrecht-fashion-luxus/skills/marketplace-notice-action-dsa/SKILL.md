@@ -5,10 +5,6 @@ description: "Marketplace-Enforcement nach MarkenG und Digital Services Act: Not
 
 # Marketplace Notice-and-Action
 
-## Arbeitsbereich
-
-Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action, Trusted Flagger, Plattformhaftung, Wiederholungstäter, Belegpaket, Gegenanzeige und Eskalation gegen Online-Marktplätze. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Führe Markeninhaber durch Plattformmeldungen gegen Fälschungen, Trittbrettfahrer-Angebote und rechtsverletzende Listings.
 
 ## Norm- und Plattformanker
 
@@ -50,13 +42,7 @@ Führe Markeninhaber durch Plattformmeldungen gegen Fälschungen, Trittbrettfahr
 6. **Overblocking vermeiden:** Nur konkrete Listings/Verkäufer melden, keine pauschale Marktbereinigung ohne Schutzrechts- und Belegbasis.
 7. **Wiederholungstäter:** Verkäufer-ID, USt-ID, Impressum, Lieferadresse, Zahlungsdaten, verbundene Shops und Testkäufe zusammenführen.
 
-## Output
-
-- DSA-/Plattformmeldung.
-- Belegmatrix.
-- Eskalationsplan.
-- Risikoanalyse für Overblocking.
-
 ## Qualitätsgate
 
 DSA und Plattformregeln live prüfen; keine Plattformformulare aus Gedächtnis behaupten.
+

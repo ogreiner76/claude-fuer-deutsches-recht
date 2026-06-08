@@ -78,12 +78,6 @@ Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen 
 - **Bias-Mitigation einmalig**, ohne Post-Market-Monitoring.
 - **Drift** durch Modell-Updates nicht überwacht.
 
-## Querverweise
-
-- `accuracy-robustness-cybersecurity-ai`
-- `biometrie-emotion-und-personenerkennung`
-- `barrierefreiheit-und-inklusion-robotik`
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2024/1689 (KI-VO), Art. 9, 10, 13, 15, 72.
@@ -93,3 +87,4 @@ Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen 
 - BFSG.
 - NIST AI Risk Management Framework; ISO/IEC TR 24027 Bias.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, BAuA, antidiskriminierungsstelle.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+

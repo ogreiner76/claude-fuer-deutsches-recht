@@ -16,10 +16,6 @@ description: "Prueft das Wissensproblem im Recht: dezentrale Information, lokale
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill prüft rechtliche Gestaltung unter der Einsicht, dass relevante Informationen oft dezentral, lokal, stillschweigend und schwer artikulierbar verteilt sind. Das ist wichtig bei Regulierung, Marktordnung, Standards, Plattformen, Berufsrecht, Umwelt, Arbeit, Medizin, Technik, Finanzmärkten und Verwaltungsvollzug.
-
 ## Sofort klären
 
 1. Wer besitzt die entscheidenden Informationen: Marktteilnehmer, Verwaltung, Gericht, Sachverständige, Betroffene, Verbände, Plattformen, Unternehmen?
@@ -65,17 +61,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Gib eine Wissensproblem-Matrix aus:
-
-| Frage | Befund |
-| --- | --- |
-| regelungsrelevantes Wissen | ... |
-| Wissensträger | ... |
-| kommunizierbar? | ... |
-| geeigneter Regelungsmodus | ... |
-| Fehlerkosten | ... |
-| Korrekturmechanismus | ... |
-
-Schließe mit einer Empfehlung, ob die Sache eher Regel, Standard, Experiment, Haftung oder Verfahrenssteuerung verlangt.

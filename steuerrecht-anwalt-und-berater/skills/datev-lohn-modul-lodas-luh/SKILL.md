@@ -75,25 +75,12 @@ DATEV bietet zwei Lohnprogramme: LODAS (Lohnbuchhaltungs- und Datenerfassungs-Sy
 - ITSG-Zertifikate erneuern.
 - Mandanten-Stammdaten aktualisieren.
 
-## Output
-
-- Konfiguriertes Lohnprogramm.
-- Mandanten gepflegt.
-- Schnittstellen aktiv.
-
 ## Strategie und Praxis-Tipps
 
 - LODAS ist Standard für StB-Kanzleien — multimandantenfaehig.
 - Lohn und Gehalt für Mandanten, die selbst Loehne abrechnen, aber StB-Schnittstelle wuenschen.
 - Schulungen DATEV-Akademie jaehrlich empfehlenswert.
 - Bei Aenderungen am ELStAM-Verfahren: Updates zwingend.
-
-## Querverweise
-
-- `stb-lohn-mandantenaufnahme-onboarding` — Onboarding.
-- `stb-lohn-lohnsteuer-monatsabschluss` — Monatsabschluss.
-- `stb-lohn-sv-meldungen-dakota-svnet` — sv.net.
-- `stb-lohn-meldungen-sv-elstam-zugang` — ELStAM.
 
 ## Quellen und Updates
 
@@ -103,10 +90,3 @@ Stand: 05/2026.
 - DATEV-Programm-Updates jaehrlich (Stand 01.01.) sowie unterjaehrige Reform-Updates (SV-Beitragsbemessungsgrenzen, Mindestlohn).
 - Verifikations-Hinweis: konkrete Programmpfade und Menue-Bezeichnungen ggf. abweichend in aktueller DATEV-Version.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

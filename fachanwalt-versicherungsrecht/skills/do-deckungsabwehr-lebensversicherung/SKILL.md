@@ -5,9 +5,6 @@ description: "DO Deckungsabwehr Lebensversicherung im Plugin Fachanwalt Versiche
 
 # DO Deckungsabwehr Lebensversicherung
 
-## Arbeitsbereich
-
-**DO Deckungsabwehr Lebensversicherung** ordnet den Fall über die tragenden Prüfungslinien: D-und-O-Versicherung Directors-and-Officers Deckungsabwehr, Prüfungslinie für fachanwalt versicherungsrecht, Ablehnung des Versicherers prüfen nach §§ 1 28 VVG. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "DO Deckungsabwehr Lebensversicherung im Plugin Fachanwalt Versiche
 - Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-versicherungsrecht-do-deckungsabwehr`
@@ -30,10 +28,6 @@ description: "DO Deckungsabwehr Lebensversicherung im Plugin Fachanwalt Versiche
 **Fokus:** D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsansprüchen. Anwendungsfall Versicherung hat Deckung für Geschäftsführerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschäftsführer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Prüfraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschäftsbereich AVB-Auslegung. Output Deckungsanfragen-Prüfung mit AVB-Analyse Widerspruchsbegründung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-prüfen.
 
 ### D&O-Deckungsabwehr
-
-## Zweck
-
-D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen Geschäftsführer.
 
 ## 1) D&O-Standard
 
@@ -285,10 +279,6 @@ BGH VI ZR 318/08 (13.10.2009): WRONG_TOPIC; tatsaechliches Thema ist Restwert be
 **Fokus:** Fachanwalt Versicherungsrecht Lebensversicherung Rueckkauf: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ### Lebensversicherung Rückkauf
-
-## Zweck
-
-Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 
 ## 1) Rückkauf § 169 VVG
 
@@ -622,3 +612,4 @@ Vor Versand jeweils Volltext und Randnummer aus offener Quelle ergänzen (juris.
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+

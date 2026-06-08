@@ -5,10 +5,6 @@ description: "Bestimmt die passende Verfahrensart: ordentlich (ZPO), einstweilig
 
 # Verfahrensart bestimmen
 
-## Arbeitsbereich
-
-Bestimmt die passende Verfahrensart: ordentlich (ZPO), einstweilig (§§ 935/940 ZPO), Mahnverfahren, FG-Verfahren, Schiedsverfahren, Insolvenzverfahren, OWi-Verfahren, Verwaltungs-, Straf- und Verfassungsgerichtsverfahren. Gibt formale Mindestvoraussetzungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -121,12 +117,6 @@ Rechtsschutzziel?
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.
 
-## Quellenregel
-
-- Normen live prüfen: gesetze-im-internet.de (ZPO, GVG, VwGO, ArbGG, ArbGG, StPO, OWiG).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle (dejure.org, bgh.de).
-- Keine Blindzitate. Paywall-Literatur nur mit Nutzerquelle.
-
 ## Qualitäts-Hardening
 
 - Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
@@ -135,3 +125,4 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 - Normtext live prüfen: gesetze-im-internet.de (ZPO §§ 23, 71 GVG; §§ 253, 688 ff., 935, 940, 1025 ff., 1029 ZPO; §§ 40, 68 ff., 74 VwGO).
+

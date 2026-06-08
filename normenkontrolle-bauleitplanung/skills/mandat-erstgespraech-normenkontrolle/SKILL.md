@@ -5,10 +5,6 @@ description: "Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan ode
 
 # Erstgespräch Normenkontroll-Mandat
 
-## Zweck
-
-Erste Sortierung eines Mandats gegen einen Bebauungsplan, Flächennutzungsplan oder eine örtliche Bauvorschrift. Ergebnis: belastbare Erst-Einschätzung der Erfolgsaussichten und Mandatsannahme-Entscheidung.
-
 ## Schritt 1 — Mandantendaten und Betroffenheitsfeststellung
 
 ### Persönliche Daten
@@ -166,6 +162,3 @@ Erste Sortierung eines Mandats gegen einen Bebauungsplan, Flächennutzungsplan o
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

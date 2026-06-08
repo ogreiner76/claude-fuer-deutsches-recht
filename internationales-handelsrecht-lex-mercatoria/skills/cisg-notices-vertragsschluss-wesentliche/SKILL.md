@@ -53,12 +53,7 @@ Art. 38-39 CISG sind praktisch zentral: Versäumt der Käufer die Rüge, verlier
 - Rügeschreiben immer mit konkreter Mangelbezeichnung und Datum der Entdeckung
 - Art. 40 als Gegenargument bei verstecktem Mangel mitprüfen
 
-## Output
-
-- Fristen-Zeitstrahl (Muster)
-- Checkliste spezifizierte Rüge
-- Muster-Rügeschreiben nach Art. 39
-
 ## Quellenregel
 
 CISG Art. 38-44: uncitral.un.org. CISG-Rspr.: CISG-online.ch (Art. 38 >200 Entscheidungen). CISG Advisory Council Opinion No. 2. Schrifttum: Schwenzer in Schlechtriem/Schwenzer (2019) Art. 38-39. Unsicherheit bleibt sichtbar.
+

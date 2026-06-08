@@ -53,10 +53,6 @@ description: "Analysiert die libertäre Methodenkritik an staatlichen und richte
 - Die Schutzpflichtdimension aus Art. 1 und Art. 2 GG für die strukturell schwächere Partei wird ausgeblendet.
 - Der Unterschied zwischen kaufmännischen und verbraucherrechtlichen Schutzstandards wird nicht beachtet.
 
-## Output
-
-Das Skill liefert eine libertäre Methodenkritik-Analyse: Rekonstruktion der libertären Position, Prüfung der tatsächlichen Vertragsfreiheit, Bewertung der methodischen Konsistenz, Einschätzung ökonomischer Argumente und Gegengewicht aus Schutzpflichtperspektive. Verwendbar für strategische Prozessplanung, wissenschaftliche Auseinandersetzung und methodische Gegendarstellung.
-
 ## Vertiefung: Strukturelle Verhandlungsfreiheit als empirische Frage
 
 Ob Vertragsfreiheit tatsächlich besteht, ist nicht nur eine normative, sondern eine empirische Frage: Haben die Parteien tatsächlich über den Vertrag verhandelt, oder war der Abschluss auf standardisierten Bedingungen faktisch unvermeidlich? Die Bürgschaftsentscheidung des BVerfG von 1993 hat klargestellt, dass das Gericht auch bei formell freiwilligen Verträgen strukturelle Ungleichgewichte berücksichtigen muss.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 89, 214 – Bürgschaftsentscheidung, strukturelles Ungleichgewicht](https://www.bverfg.de/e/rs19931019_1bvr156789.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

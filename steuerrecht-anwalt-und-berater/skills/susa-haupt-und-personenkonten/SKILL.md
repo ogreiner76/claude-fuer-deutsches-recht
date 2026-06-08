@@ -94,12 +94,6 @@ Differenzen muessen 0 sein. Bei Abweichung: Fehler im System (Buchung ohne Perso
 - Bei BP-Pruefung Hauptbuch und OPOS-Listen gemeinsam vorlegen.
 - Bei Mandantenwechsel Abstimmung als Uebergabeunterlage.
 
-## Output
-
-- Abstimmungsprotokoll Hauptbuch / Nebenbuch.
-- Korrektur-Buchungen.
-- Aktualisierte SuSa und OPOS-Listen.
-
 ## Strategie und Praxis-Tipps
 
 - Hauptbuch-Nebenbuch-Abstimmung sollte monatlich erfolgen — nicht erst zum Jahresabschluss.
@@ -108,14 +102,6 @@ Differenzen muessen 0 sein. Bei Abweichung: Fehler im System (Buchung ohne Perso
 - StBVV: Abstimmung in Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV-Auswertung "Sachkonten und Personenkonten" bietet automatische Differenzanzeige.
 - Bei wiederholten Differenzen ueber 1.000 EUR: systemischer Fehler — Buchungslogik pruefen.
-
-## Querverweise
-
-- `stb-susa-erstellen-grundlagen` — SuSa-Grundlagen.
-- `stb-susa-debitorenliste-osa-offene-posten` — Debitoren-OPOS.
-- `stb-susa-kreditorenliste-ova` — Kreditoren-OPOS.
-- `stb-susa-formfehler-pruefen` — Pruefung.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -129,10 +115,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Kontenrahmen-Hinweis ohne Marker neu formuliert) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

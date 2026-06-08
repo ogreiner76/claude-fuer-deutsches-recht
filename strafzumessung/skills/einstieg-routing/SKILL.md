@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Strafzumessung: ordnet Rolle (An
 
 Dieser Einstieg routet **Strafzumessung** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `153a-stpo-iii-bewaehrung-stgb` — 153a STPO III Bewaehrung STGB
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Strafzumessung** vom ersten Sachverhalt zu Rollen, Fris
 - Zuständige Stelle bestimmen: Tatrichter, Verteidiger, Staatsanwaltschaft, Bewährungshelfer, Vollstreckungsbehörde.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Strafzumessung typische Eskalationsstufen: Strafzumessungs-Memo, Plädoyer, Revisionsbegründung Strafzumessung.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

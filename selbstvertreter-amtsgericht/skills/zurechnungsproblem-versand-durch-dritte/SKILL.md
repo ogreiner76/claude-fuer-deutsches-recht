@@ -109,14 +109,7 @@ Erfolgsquote eher gering, aber: probieren, wenn nichts anderes geht. Skill `wied
 - "Bote ist Anwalt — der wird es schon machen." → Wenn Bote nur Bote (kein Mandant-Anwalt-Verhaeltnis), zaehlt sein Versaeumnis Ihnen zu.
 - "Post-Versand am letzten Tag." → Postlaufzeit nicht berechnet.
 
-## Querverweise
-
-- `einreichung-mein-justizpostfach-mjp-2024` — Sichere elektronische Loesung.
-- `einreichung-papierform-mit-abschriften` — Papier mit Einschreiben.
-- `einreichung-fax-und-grenzen` — Fax mit Sendebericht.
-- `wiedereinsetzung-frist-233-zpo` — Wenn doch versaeumt.
-- `fristen-berechnen-187-188-bgb` — Frist richtig berechnen.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BVerfG-Selbstverantwortungslinie und BGH-Wiedereinsetzungs-Rechtsprechung stabil. Aktenzeichen und Fundstellen vor Uebernahme in amtliche/freie Quellen oder lizenzierte Datenbanken verifizieren.
+

@@ -5,9 +5,6 @@ description: "Normenkontrolle Vwgo Orientierung Behörde im Plugin Fachanwalt Ve
 
 # Normenkontrolle Vwgo Orientierung Behörde
 
-## Arbeitsbereich
-
-**Normenkontrolle Vwgo Orientierung Behörde** ordnet den Fall über die tragenden Prüfungslinien: Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder, Orientierung im Fachanwaltsrecht Verwaltungsrecht. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Normenkontrolle Vwgo Orientierung Behörde im Plugin Fachanwalt Ve
 - Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo`
@@ -30,10 +28,6 @@ description: "Normenkontrolle Vwgo Orientierung Behörde im Plugin Fachanwalt Ve
 **Fokus:** Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder Satzungen: Betroffener will Bebauungsplan oder kommunale Satzung zu Fall bringen. Normen: § 47 VwGO (Normenkontrolle OVG), Art. 14 GG (Eigentumsschutz), § 1 Abs. 7 BauGB (Abwaegungsgebot). Prüfraster: Antragsfrist 1 Jahr ab Inkrafttreten, Antragsbefugnis, OVG-Zuständigkeit, Abwaegungsfehler. Output Normenkontrollantrag-Entwurf. Abgrenzung: Anfechtungsklage gegen einzelnen VA siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Planfeststellung siehe energietrassen-planfeststellung-rechtsschutz.
 
 ### Normenkontrolle § 47 VwGO
-
-## Zweck
-
-Prüfung untergesetzlicher Rechtsnormen (Bebauungspläne, Satzungen, Rechtsverordnungen).
 
 ## 1) Anwendungs-Bereich
 
@@ -173,9 +167,6 @@ Prüfung untergesetzlicher Rechtsnormen (Bebauungspläne, Satzungen, Rechtsveror
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anschluss
 
 - `normenkontrolle-bauleitplanung` (Vollplugin) — Vertieftes Verfahren
@@ -230,9 +221,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - OVG / VGH Berufung und Normenkontrolle.
 - BVerwG Leipzig Revision.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Verwaltungsrecht DAV.
@@ -253,9 +241,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 | Verfassungsbeschwerde | 1 Monat | § 93 BVerfGG |
 | Revisionsantrag | 1 Monat | § 139 VwGO |
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schnittstellen
 
 - **kanzlei-allgemein** für Fristen Versand.
@@ -371,19 +356,9 @@ Verwaltungsstreit kann an mehreren Stellen vergleichsweise beendet werden: **vor
 - **Petitionsweg parallel**: ergänzend, nicht statt Rechtsbehelf
 - **Bei Ermessens-Reduzierung-Argumenten**: vorsichtig — Behörde behält Ermessen häufig
 
-## Querverweise
-
-- `fachanwalt-verwaltungsrecht-orientierung` — Triage
-- `fachanwalt-verwaltungsrecht-widerspruch-klage` — Vorverfahren
-- `fachanwalt-verwaltungsrecht-ki-automatisierte-verwaltungsakte-35a-vwvfg` — Sonderfall
-
 ## Aktuelle Leitentscheidungen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Quellen und Updates
 
@@ -392,3 +367,4 @@ Stand: 05/2026. VwVfG/VwGO im Kern stabil. Für die Verifikation öffentlich-rec
 - VwGO — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwgo/)
 - VwVfG — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/vwvfg/)
 - BVerwG-Entscheidungsdatenbank — [bverwg.de](https://www.bverwg.de/entscheidungen)
+

@@ -28,9 +28,6 @@ Schritt-für-Schritt Prüfung der Zulässigkeit nach klassischem Schema.
 - § 38 ZPO — Gerichtsstandsvereinbarung (B2B)
 - Art. 4, 7, 17 EuGVVO (VO Nr. 1215/2012) — internationale Zuständigkeit
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Rechtsweg (§ 13 GVG):** Ist die ordentliche Gerichtsbarkeit eröffnet (kein Arbeits-, Verwaltungs- oder Sozialrecht)?
@@ -46,6 +43,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 **Adressat:** Entscheidungsgründe → Abschnitt Zulässigkeit — Tonfall: sachlich-juristisch
 
 ```
+
 ## I. Zulässigkeit
 
 Die Klage ist zulässig.
@@ -84,3 +82,4 @@ da der Streitwert [BETRAG] EUR beträgt und damit die aktuelle Grenze von 10.000
 ## Ausgabe
 
 Tabelle: Pruefpunkt / Norm / Ergebnis / Begründung.
+

@@ -17,10 +17,6 @@ Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnun
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studierende, Korrektor (Lehrstuhl/Justizprüfungsamt), Bibliothek, juris/Beck-Online (Recherche), Plagiats-Software.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Bei vielen Rechtsfragen — vor allem im Zivilrecht, Verbraucherschutz, Datenschutz, Antidiskriminierungs-Recht — hat das EU-Recht eine **Anwendungs-Vorrang**-Funktion. Eine Hausarbeit ohne EU-Bezug bei diesen Themen ist unvollständig.
-
 ## Schritt 1 — Welches EU-Recht?
 
 ### Verträge (Primärrecht)
@@ -232,3 +228,4 @@ Wenn Du argumentierst: "Hier könnte ein Vorabentscheidungs-Verfahren nach Art. 
 - `methodenlehre-auslegung` — Auslegungs-Methoden inkl. EU-konform
 - `verfassungsrecht-grundrechtspruefung` — Verhältnis zu nationalen Grundrechten
 - `meinungsstreit-darstellen` — Bei EU-rechtlichen Streit-Fragen
+

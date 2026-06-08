@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfal
 
 # Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall, Rang
 
-## Arbeitsbereich
-
-Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall und Rang. Inhalt des Erbbaurechtsvertrags, Grundbuchrecht, Erbbauzins, Heimfallklauseln und Finanzierbarkeit des Erbbaurechts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,3 +92,4 @@ Erbbaurechte sind beleihbar (Grundschuldbestellung auf Erbbaurecht, § 11 Erbbau
 - **Finanzierbarkeitscheck** (Restlaufzeit, Bankauflagen)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

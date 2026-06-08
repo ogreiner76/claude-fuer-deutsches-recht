@@ -5,10 +5,6 @@ description: "Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen we
 
 # Zeitlicher Geltungsbereich und Übergangsfristen — KI-VO
 
-## Zweck
-
-Die KI-VO ist nicht sofort und vollständig anwendbar. Sie trat zwar am 1. August 2024 in Kraft, ihre einzelnen Kapitel und Vorschriften werden jedoch schrittweise verbindlich. Dieser Skill gibt einen vollständigen Überblick über die Fristen und hilft dem Nutzer, seinen aktuellen Compliance-Handlungsbedarf einzuordnen.
-
 ## Zeitstrahl
 
 ### 1. August 2024 — Inkrafttreten
@@ -96,9 +92,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 - Art. 113 KI-VO — Inkrafttreten und Stufenplan
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -125,3 +118,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

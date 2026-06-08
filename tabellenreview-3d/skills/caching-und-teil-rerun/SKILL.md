@@ -16,10 +16,6 @@ description: "Zwischenergebnisse des 3D-Tabellenreviews cachen und Teilbereiche 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Zweck
-
-Ein 25.000-Zellen-Würfel komplett neu zu berechnen weil ein einziger Spaltenprompt um drei Worte präziser wurde ist verschwenderisch. Dieser Skill macht den Würfel inkrementell.
-
 ## Cache-Key
 
 Pro Zelle ein deterministischer Hash:
@@ -63,3 +59,4 @@ Prüfer kann Rerun beauftragen / ablehnen / nur Stichprobe rechnen lassen.
 ## Grenzen
 
 Caching ist ein Effizienzwerkzeug nicht ein Beweismittel. Wer auf gerichtsfeste Reproduzierbarkeit angewiesen ist (z. B. Verfahrenseingabe) sollte einen kompletten Lauf ohne Cache machen und das Ergebnis hashen.
+

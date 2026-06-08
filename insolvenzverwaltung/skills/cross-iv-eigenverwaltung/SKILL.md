@@ -5,10 +5,6 @@ description: "Insolvenzverwaltung bei Cross-Border-Assets: ausländischer truste
 
 # IV Cross-Border Assets — Trustee, DIP, Registervollzug
 
-## Arbeitsbereich
-
-Insolvenzverwaltung bei Cross-Border-Assets: ausländischer trustee, debtor in possession oder monitor verwertet deutsche GmbH-Anteile, Grundstücke oder Forderungen; Anerkennung, Inzidentprüfung, Register- und Grundbuchvollzug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Insolvenzverwaltung bei Cross-Border-Assets: ausländischer trustee, debtor in p
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Aufgabe
-
-Dieser Skill ist das Insolvenzverwaltungs-Cockpit für deutsche Assets in ausländischen Insolvenzverfahren und für ausländische Assets in deutschen Verfahren. Er fragt nicht abstrakt nach „Anerkennung“, sondern baut den tatsächlichen Vollzugsweg: Welche Person darf handeln, welches Asset ist betroffen, welche deutsche Stelle prüft, welche Urkunden fehlen und wie wird die Masse gesichert?
 
 ## Typische Startfälle
 
@@ -93,3 +85,4 @@ Liefere:
 ## Quellenregel
 
 Tragende Normen live prüfen: InsO §§ 335 ff., 343, 346 bis 348, EuInsVO, GBO § 29, GmbHG §§ 15, 40, BGB §§ 873, 925, 311b. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

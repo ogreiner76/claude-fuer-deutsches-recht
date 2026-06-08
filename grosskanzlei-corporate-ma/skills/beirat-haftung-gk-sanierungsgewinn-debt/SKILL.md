@@ -5,9 +5,6 @@ description: "Beirat Haftung GK Sanierungsgewinn Debt im Corporate/M&A (Großkan
 
 # Beirat Haftung GK Sanierungsgewinn Debt
 
-## Arbeitsbereich
-
-**Beirat Haftung GK Sanierungsgewinn Debt** ordnet den Fall über die tragenden Prüfungslinien: GmbH-Beirat im Plugin grosskanzlei-corporate-ma, Debt-Equity-Swap (DES) als Bestandteil einer, Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -27,6 +24,7 @@ description: "Beirat Haftung GK Sanierungsgewinn Debt im Corporate/M&A (Großkan
 - Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `beirat-haftung`
@@ -47,10 +45,6 @@ description: "Beirat Haftung GK Sanierungsgewinn Debt im Corporate/M&A (Großkan
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
 - **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Einsatz
-
-Du bist GmbH-Beiratsarchitekt. Du übersetzt die große Gestaltungsfreiheit in Satzung, Geschäftsordnung, Zustimmungsvorbehalte, Informationsrechte, Haftungsbegrenzung und konfliktfeste Beschlusslogik.
 
 ## Kaltstart-Fragen
 
@@ -81,14 +75,6 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 Arbeite primär mit: GmbHG §§ 37, 43, 46, 47, 48, 52, 53; BGB §§ 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG/DSGVO bei Vertraulichkeit und Datenzugriff.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
-
-## Output
-
-- Beiratsmatrix mit Satzungsgrundlage, Kompetenz, Grenze, Risiko und Formulierung.
-- Musterklausel, Beschluss- oder Protokollbaustein.
-- Geschäftsordnungs-Redline mit Eskalationsmechanik.
-- Risikovermerk für Gesellschafter, Geschäftsführung und Beiratsmitglieder.
-- Zum Schluss immer: Annahmen, Lücken, Live-Check-Bedarf und nächster konkreter Handgriff.
 
 ## 2. `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
 
@@ -191,17 +177,6 @@ Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikels
 - Sanierungsabsicht der Gläubiger fehlt im Einbringungsvertrag; die Finanzverwaltung verweigert § 3a EStG.
 - Kapitalherabsetzung auf null wird übersprungen; Altgesellschafter behalten Anteile, die gesellschaftsrechtlich nicht mehr werthaltig sind.
 
-## Querverweise
-
-- Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung DES.
-- Plugin `insolvenzrecht`: DES im Insolvenzplan; § 225a InsO.
-- Plugin `grosskanzlei-corporate-ma`:
- - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
- - `grosskanzlei-corporate-ma-distressed-ma`
- - `gk-sanierungsgewinn-3a-estg-praxis-für-corporate-ma`
- - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
- - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG; § 3a Abs. 3 EStG; § 8 Abs. 3 KStG; § 8c KStG; § 8d KStG; § 7b GewStG – prüfbar über gesetze-im-internet.de.
@@ -210,19 +185,6 @@ Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikels
 - BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt Stand 06/2026.
 - BGH zur Werthaltigkeit bei Sacheinlage – ständige Rspr.; Verifizierung über dejure.org und bundesgerichtshof.de.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
-
-## V61 Deal-OS Boost
-
-Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
-
-- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
-- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
-- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
-- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
-- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
-- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
 ## 3. `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
 
@@ -355,19 +317,6 @@ Schreiben Sie Ihre Empfehlungen schriftlich und gegenzeichnen lassen. Das ist ni
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 (Sanierungserlass-Beschluss) – prüfbar über bundesfinanzhof.de.
 - Weitere Rspr. sonst als „ständige Rspr." formulieren oder erst nach eigener Verifizierung in offizielle Datenbank aufnehmen.
 
-## V61 Deal-OS Boost
-
-Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
-
-- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
-- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
-- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
-- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
-- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
-- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
-
 ## 4. `gk-sanierungsgewinn-im-bond-restructuring-finanzgesellschaften`
 
 **Fokus:** Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften. Behandelt die Besonderheiten der Anleihegläubiger-Strukturen, das Schuldverschreibungsgesetz, Mehrheitsentscheidungen der Anleihegläubigerversammlung, Lock-up Agreements, Schemes of Arrangement nach englischem Recht und die steuerlichen Wirkungen des Forderungsverzichts auf Schuldnerseite. Liefert Strukturraster, Plan-Klauseln und Verhandlungstaktik für Bond-Restrukturierungen. Adressat ist das Kapitalmarkt- und Restrukturierungsteam der Großkanzlei. Quellen Stand 06/2026.
@@ -496,17 +445,6 @@ Drei Beobachtungen aus der Bond-Restrukturierungs-Praxis:
 - DES mit Bondforderungen ohne Werthaltigkeitsgutachten; Differenzhaftung.
 - § 8c KStG bei DES wird nicht modelliert.
 
-## Querverweise
-
-- Plugin `kapitalmarktrecht`: SchVG, MAR im Detail.
-- Plugin `insolvenzrecht`: StaRUG, Insolvenzplan mit Bondgläubiger.
-- Plugin `grosskanzlei-corporate-ma`:
- - `grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar`
- - `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
- - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
- - `gk-sanierungsgewinn-3a-estg-praxis-für-corporate-ma`
- - `gk-sanierungsgewinn-konzern-und-cross-border`
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8d KStG – gesetze-im-internet.de.
@@ -517,19 +455,6 @@ Drei Beobachtungen aus der Bond-Restrukturierungs-Praxis:
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BGH zur SchVG-Anwendung – ständige Rspr.; bundesgerichtshof.de.
-
-## V61 Deal-OS Boost
-
-Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
-
-- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
-- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
-- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
-- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
-- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
-- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
 ## 5. `gk-sanierungsgewinn-konzern-und-cross-border`
 
@@ -631,16 +556,6 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - EuInsVO COMI-Frage nicht geklärt; Hauptverfahren in falscher Jurisdiktion.
 - Lokal Counsel in anderen Jurisdiktionen zu spät eingebunden.
 
-## Querverweise
-
-- Plugin `steuerrecht-anwalt-und-berater`: AStG, ATAD, Konzernsteuerrecht im Detail.
-- Plugin `insolvenzrecht`: EuInsVO, Konzerninsolvenz, Cross-Border-Verfahren.
-- Plugin `grosskanzlei-corporate-ma`:
- - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
- - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
- - `grosskanzlei-corporate-ma-translations-multijurisdictional`
- - `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8b KStG; § 14 ff. KStG; § 4h EStG; § 4k EStG; § 8c KStG; § 8d KStG; § 42 AO – gesetze-im-internet.de.
@@ -651,19 +566,6 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BFH zur Konzern-Verlustnutzung – ständige Rspr.; bundesfinanzhof.de.
-
-## V61 Deal-OS Boost
-
-Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
-
-- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
-- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
-- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
-- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
-- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
-- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
 ## 6. `gk-sanierungsgewinn-private-equity-und-managementbeteiligung`
 
@@ -788,17 +690,6 @@ Drei Beobachtungen aus dem Distressed-PE:
 - Sanierungs-Exit ohne Tax-Indemnity oder mit zu niedrigem Tax-Cap.
 - W&I-Versicherer schließt Sanierungsgewinn-Risiken aus; Lücke wird nicht vertraglich überbrückt.
 
-## Querverweise
-
-- Plugin `steuerrecht-anwalt-und-berater`: Steuerliche Detailberatung Managementbeteiligung.
-- Plugin `grosskanzlei-corporate-ma`:
- - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
- - `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`
- - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
- - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
- - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
- - `grosskanzlei-corporate-ma-wi-insurance`
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8d KStG; § 8b KStG; § 17 EStG; § 19 EStG – gesetze-im-internet.de.
@@ -806,19 +697,6 @@ Drei Beobachtungen aus dem Distressed-PE:
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - BFH zur Managementbeteiligung (Abgrenzung § 17 / § 19 EStG) – ständige Rspr.; bundesfinanzhof.de.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
-
-## V61 Deal-OS Boost
-
-Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
-
-- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
-- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
-- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
-- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
-- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
-- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
 
 ## 7. `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
 
@@ -922,17 +800,6 @@ Auf Käuferseite gilt umgekehrt: Closing Condition ist die saubere Lösung, aber
 - Sub-cap Tax wird auf die General-Cap gerechnet; dadurch ist die Tax-Indemnity wirtschaftlich wertlos.
 - Verjährung Tax-Indemnity zu kurz; Außenprüfungen kommen oft erst nach fünf bis sieben Jahren.
 
-## Querverweise
-
-- Plugin `steuerrecht-anwalt-und-berater`: Detailberatung § 3a EStG und § 89 AO.
-- Plugin `insolvenzrecht`: SPA-Klauseln in Insolvenzplan-Transaktionen.
-- Plugin `grosskanzlei-corporate-ma`:
- - `grosskanzlei-corporate-ma-spa-apa-entwurf`
- - `grosskanzlei-corporate-ma-vertragsmarkup-key-issues`
- - `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
- - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
- - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
-
 ## Quellen Stand 06/2026
 
 - § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG i. V. m. § 36 Abs. 2c GewStG; § 8c KStG; § 8d KStG; § 89 AO; § 233a AO – prüfbar über gesetze-im-internet.de.
@@ -941,15 +808,3 @@ Auf Käuferseite gilt umgekehrt: Closing Condition ist die saubere Lösung, aber
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 - BGH zu Garantie- und Freistellungsklauseln in SPA – ständige Rspr.; Verifizierung über dejure.org.
 
-## V61 Deal-OS Boost
-
-Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
-
-- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
-- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten für Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
-- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
-- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behördenlage erforderlich ist.
-- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
-- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.

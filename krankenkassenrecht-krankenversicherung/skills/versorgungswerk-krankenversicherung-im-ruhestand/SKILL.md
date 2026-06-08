@@ -5,10 +5,6 @@ description: "Krankenversicherung für Mitglieder berufsständischer Versorgungs
 
 # Versorgungswerk: Krankenversicherung im Ruhestand
 
-## Arbeitsbereich
-
-Krankenversicherung für Mitglieder berufsständischer Versorgungswerke (Ärzte, Anwälte, Apotheker): Ausnahmen von KVdR, freiwillige GKV, PKV-Optionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Mitglieder berufsständischer Versorgungswerke (Ärzte, Rechtsanwälte, Apotheke
 - [§ 240 SGB V – Mindestbeitrag](https://www.gesetze-im-internet.de/sgb_5/__240.html)
 - [BSG Versorgungswerk-Rechtsprechung](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 9 SGB V](https://dejure.org/gesetze/SGB_V/9.html)
+

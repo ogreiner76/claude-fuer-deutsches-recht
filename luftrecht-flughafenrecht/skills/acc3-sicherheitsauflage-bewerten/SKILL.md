@@ -5,10 +5,6 @@ description: "ACC3-Carrier erhaelt Sicherheitsauflage nach EU-Luftsicherheits-In
 
 # ACC3 – Sicherheitsauflage bewerten
 
-## Arbeitsbereich
-
-ACC3-Carrier erhaelt Sicherheitsauflage nach EU-Luftsicherheits-Inspektion. Prueft EU-DVO 2015/1998 Findings-Kategorien EU-VO 300/2008 LuftSiG § 9 Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan für ACC3-Betrieb. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,6 +41,7 @@ EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 EASA – die einschlägigen Normen 
 - **VwGO §§ 68 74 80**: Widerspruch Klage aufschiebende Wirkung.
 - **LuftSiG § 3c**: Nationale Umsetzung der EU-Sicherheitsarchitektur; Zuständigkeit LBA.
 - **ICAO Annex 17 Std. 4.6**: Frachtsicherheitskette; Verantwortung des Luftfrachtführers.
+
 ## Prüfraster
 
 1. Ist zuständige Behörde korrekt adressiert?
@@ -55,6 +52,7 @@ EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 EASA – die einschlägigen Normen 
 6. Sind Sicherheitsauflagen auf Verhältnismäßigkeit geprüft?
 7. Ist der EU-Validator zugelassen und sein Bericht nicht älter als 3 Jahre?
 8. Sind alle Sub-Auftragnehmer in der Lieferkette als RA oder KC anerkannt?
+
 ## Typische Fallstricke
 
 - Falsche Behörde adressiert; Frist läuft unbemerkt ab.
@@ -73,9 +71,6 @@ Sicherheitsauflagen im Luftrecht müssen auf Verhältnismäßigkeit und Rechtsgr
 - **Verhältnismäßigkeit**: BVerfG-Rechtsprechung zu Grundrechtseingriffen; Einschränkung der Berufsfreiheit (Art. 12 GG) nur durch geeignete erforderliche und angemessene Maßnahme.
 - **Eilrechtsschutz**: § 80 Abs. 5 VwGO bei sofortigem Vollzug; Interessenabwägung Sicherheitsinteresse vs. Eingriff.
 
-## Output
-
-Strukturierter Vermerk zu ACC3 – Sicherheitsauflage bewerten mit Rechtslage Handlungsoptionen Risikobewertung und nächsten Schritten. Checkliste offener Punkte mit Fristen. ACC3-Compliance-Matrix. Validierungskalender mit Ablaufdaten.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -105,3 +100,4 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

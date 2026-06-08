@@ -5,10 +5,6 @@ description: "Leasingbilanzierung: HGB (BMF-Erlass, wirtschaftliches Eigentum §
 
 # Leasingbilanzierung: HGB, § 39 AO und IFRS 16
 
-## Arbeitsbereich
-
-Leasingbilanzierung: HGB (BMF-Erlass, wirtschaftliches Eigentum § 39 AO), IFRS 16 (Right-of-Use-Asset), steuerliche Folgen und Bilanzoptimierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Leasingbilanzierung: HGB (BMF-Erlass, wirtschaftliches Eigentum § 39 AO), IFRS 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die Bilanzierungsfrage – bei wem wird das Leasingobjekt aktiviert – hat direkte Auswirkungen auf Bilanzkennzahlen, Steuerlast und Rating. Dieser Skill erklärt die HGB-Bilanzierungsgrundsätze (BMF-Erlasse, § 39 AO), die IFRS-16-Methodik und die Optimierungsmöglichkeiten.
 
 ## HGB-Bilanzierung: Wirtschaftliches Eigentum
 

@@ -5,10 +5,6 @@ description: "Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 13
 
 # Fusionskontrolle — Modus
 
-## Arbeitsbereich
-
-Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 139/2004): Phase I und Phase II SIEC-Test (Significant Impediment to Effective Competition) horizontale und nicht-horizontale Fusionen Effizienzeinrede und Koordinierungseffekte. Schwellenwerte und nationale Zuständigkeit BKartA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,9 +75,6 @@ Fusionsbedingte Effizienzgewinne können wettbewerbsschädliche Effekte aufwiege
 - EK, Beschl. v. 04.09.2019 — COMP/M.9064 (Google/Fitbit) — Fusionspraxisfaelle Digitalmärkte; Datenzugang als Wettbewerbsfaktor.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfprotokoll Fusionskontrolle
 
 ```
@@ -95,3 +88,4 @@ SIEC-Bedenken: [Dominanz / Koordinierung / keine]
 Effizienzeinrede: [ja / nein]
 Ergebnis: [freigabefähig / mit Auflagen / kritisch]
 ```
+

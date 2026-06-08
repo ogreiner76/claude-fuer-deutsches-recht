@@ -5,10 +5,6 @@ description: "Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschlu
 
 # Mandats-Aktualisierung
 
-## Arbeitsbereich
-
-Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen. Normen: §§ 233 ff. ZPO. Prüfraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes Mandats-Protokoll. Abgrenzung: nicht Mandatseroffnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen 
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Ein Prozessportfolio bleibt nur dann nützlich, wenn es aktuell ist. Dieser Skill macht das Einpflegen einer Entwicklung effizient — strukturiertes Erfassen in wenigen Minuten, ohne freien Textdrift. Lädt bei jeder Anfrage, einen neuen Vorgang in ein laufendes Prozessmandat einzutragen.
 
 ## Eingaben
 
@@ -48,6 +40,7 @@ Ein Prozessportfolio bleibt nur dann nützlich, wenn es aktuell ist. Dieser Skil
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 0: Konfliktsschranke
@@ -126,13 +119,6 @@ Bei bestimmten Ereignistypen ist eine Wesentlichkeitsprüfung obligatorisch — 
 
 Falls das Update ein Dokument betrifft (Beschluss, Schriftsatz, Korrespondenz), wird gefragt, ob ein Pfad verlinkt werden soll.
 
-## Ausgabeformat
-
-### Verlaufseintrag in `verlauf.md`
-
-Jüngster Eintrag oben, direkt unter dem `---` nach dem Header:
-
-```markdown
 ## [JJJJ-MM-TT] — [Ereignistyp]: [Kurztitel]
 
 [Zusammenfassung in einem Absatz.]
@@ -164,6 +150,7 @@ Der Verlaufseintrag und die Yaml-Diff werden dem Nutzer zur Freigabe vorgelegt:
 **Eintrag:**
 
 ```markdown
+
 ## [2025-05-12] — Verfahrensrechtlich: Berufungsbegründung eingereicht
 
 Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (§ 520 Abs. 2 ZPO). Keine inhaltlichen Änderungen zur bisherigen Positionierung. Nächster Termin: Eingang der Berufungserwiderung der Gegenseite erwartet bis 12.07.2025.
@@ -194,3 +181,4 @@ In der Verlaufsakte und bei Wesentlichkeitsprüfungen sind folgende Quellen hera
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

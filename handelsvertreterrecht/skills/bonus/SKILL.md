@@ -5,10 +5,6 @@ description: "Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteil
 
 # Bonus und leistungsbezogene Vergütung im Handelsvertretervertrag
 
-## Arbeitsbereich
-
-Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klauseln sowie Einbeziehung von Boni in die Ausgleichsberechnung nach § 89b HGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Bonusklausel wegen unangemessener Benachteiligung nach § 307 BGB nichtig — gesetzliche Regelung greift.
 - Verjährung des Bonusanspruchs nach § 195 BGB eingetreten.
 
-## Output
-
-Bonusberechnung mit Zielerreichungsdokumentation, AGB-Prüfvermerk Bonusklausel, Klageschriftentwurf.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 - [§ 315 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__315.html)
 - [§ 307 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__307.html)
 - [Dejure § 87 HGB](https://dejure.org/gesetze/HGB/87.html)
+

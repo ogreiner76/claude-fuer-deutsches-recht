@@ -11,10 +11,6 @@ description: "GrESt-Bescheid prüfen und angreifen: Einspruch, Aussetzung der Vo
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Aufgabe
-
-Prüfe GrESt-Bescheide nach Asset Deal, Share Deal oder Umstrukturierung. Erstelle Einspruchs- und AdV-Strategie, wenn Bemessung, Tatbestand oder Doppelbelastung streitig sind.
-
 ## Bescheidanalyse
 
 1. Bescheidadressat und Steuerschuldner.
@@ -40,23 +36,7 @@ Prüfe GrESt-Bescheide nach Asset Deal, Share Deal oder Umstrukturierung. Erstel
 
 Prüfe Rückgängigmachung, Aufhebung, Nichtdurchführung, Herabsetzung und besondere Share-Deal-Korrekturen getrennt. Nie pauschal versprechen, § 16 lösche jede Doppelbelastung; Fristen, Anzeigepflichten und Bescheidstand sind entscheidend.
 
-## Output
-
-- Bescheidprüfvermerk.
-- Einspruchsentwurf.
-- AdV-Antrag.
-- § 16-Antrag oder Hilfsantrag.
-- Fristen- und Zahlungsplan.
-- Belegliste für Finanzamt und FG.
-
 ## Quellen
 
 GrEStG, AO, FGO und BFH-Volltexte öffnen. BFH-AdV-Beschlüsse als Eilverfahren kennzeichnen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

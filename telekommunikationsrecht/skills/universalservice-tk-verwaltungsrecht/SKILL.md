@@ -5,10 +5,6 @@ description: "Universaldienst/Mindestversorgung mit Telekommunikationsdiensten: 
 
 # Universaldienst und Mindestversorgung
 
-## Arbeitsbereich
-
-Universaldienst/Mindestversorgung mit Telekommunikationsdiensten: Unterversorgung, Anspruch, BNetzA-Verfahren, technische Zumutbarkeit und Alternativen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,24 +13,9 @@ Universaldienst/Mindestversorgung mit Telekommunikationsdiensten: Unterversorgun
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Orte, Haushalte oder Unternehmen ohne ausreichende Grundversorgung.
-
 ## Norm- und Quellenanker
 
 TKG Universaldienst-/Mindestversorgungsregeln live prüfen; EECC; BNetzA-Verfahren.
-
-## Arbeitsfragen
-
-1. Welche Mindestleistung wird nicht erreicht?
-2. Welche Anbieter/Technologien sind verfügbar?
-3. Welche BNetzA-Schritte wurden eingeleitet?
-4. Ist Übergangslösung möglich?
-
-## Output
-
-Unterversorgungsdossier, BNetzA-Antrag/Beschwerde und Technologievergleich.
 
 ## Red Flags
 
@@ -48,6 +29,3 @@ Unterversorgungsdossier, BNetzA-Antrag/Beschwerde und Technologievergleich.
 - tk-beweisplan-messung-stoerung-protokoll
 - tk-bundesnetzagentur-verfahren-akteneinsicht-fristen
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

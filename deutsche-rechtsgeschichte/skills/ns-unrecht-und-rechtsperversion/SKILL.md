@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rasseg
 
 # NS-Unrecht und Rechtsperversion
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rassegesetze, Nuernberger Gesetze 1935, Enteignungsrecht im NS, Radbruch-Formel und Aufarbeitung nach 1945. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das NS-Regime (1933-1945) pervertierte das Recht zur Verfolgung politischer Gegn
 - Fraenkel Doppelstaat: Deutsche Erstausgabe 1974 (englisches Original 1941)
 - BVerfGE: bverfg.de
 
-## Output
-
-- Systematik NS-Unrechtsgesetze: Rassenrecht, Enteignungsrecht, Strafrecht
-- Radbruch-Formel: Inhalt, Kritik, Anwendung in BVerfGE
-- Kontinuitaet nach 1945: Institutionelle Analyse
-
-## Quellenregel
-
-Nuernberger Gesetze: RGBl. I 1935 via ALEX/OeNB. Ermächtigungsgesetz 1933: ALEX/OeNB und documentArchiv.de. Radbruch-Formel: SJZ 1946, 105. BVerfGE: bverfg.de. Fraenkel Doppelstaat: mit Ausgabe und Seite.

@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Sanktionsklauseln in internationalen
 
 # Sanktionsklauseln in internationalen Verträgen
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Sanktionsklauseln in internationalen Verträgen. Force-Majeure-Abgrenzung, Kündigungsrecht bei Sanktionierung einer Partei, OFAC-Compliance-Klauseln, EU-Blocking-Statute-Konflikt und Formulierungsempfehlungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Sanktionsklauseln erlauben die Vertragsbeendigung oder Zahlungsverweigerung wenn
 - Blocking Statute: Bericht an Bundesministerium für Wirtschaft + Geschäftsführungsverpflichtung
 - Screening: SDN-Screening-Klausel als Vertragsbestandteil; Frequenz definieren
 
-## Output
-
-- Sanktionsklausel-Muster (OFAC-kompatibel mit EU-Blocking-Statute-Carve-out)
-- Blocking-Statute-Konflikt-Handlungsschema
-- OFAC-Wind-Down-Lizenz-Antragsprozess
-
-## Quellenregel
-
-EU Blocking Statute VO 2271/96 i.d.F. 2018/1100: eur-lex.europa.eu. OFAC: home.treasury.gov. EU-Sanktionsliste: eur-lex.europa.eu. UCP 600: iccwbo.org. Unsicherheit bleibt sichtbar.

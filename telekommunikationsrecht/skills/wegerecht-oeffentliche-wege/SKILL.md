@@ -5,10 +5,6 @@ description: "Wegerecht, Mitverlegung, Baustellenkoordination, Zustimmung, Wiede
 
 # Wegerecht für öffentliche Wege
 
-## Arbeitsbereich
-
-Wegerecht, Mitverlegung, Baustellenkoordination, Zustimmung, Wiederherstellung und Streit mit Straßenbaulastträgern. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Wegerecht, Mitverlegung, Baustellenkoordination, Zustimmung, Wiederherstellung u
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Netzbau auf öffentlichen Wegen.
-
 ## Norm- und Quellenanker
 
 TKG Wegerechte live prüfen; Straßenrecht Bund/Länder; VwVfG/VwGO.
-
-## Arbeitsfragen
-
-1. Welche Straße/Fläche und welcher Träger?
-2. Welche Zustimmung/Anzeige?
-3. Welche Nebenbestimmungen und Wiederherstellungspflichten?
-
-## Output
-
-Wegerechtsantrag, Nebenbestimmungscheck und Bauzeitenplan.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Wegerechtsantrag, Nebenbestimmungscheck und Bauzeitenplan.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

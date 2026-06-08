@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Zweck
-
-Strukturierter Katalog der typischen Fehler bei der ersten Durchfuehrung einer DSFA, einschliesslich Gegenmassnahmen, Vermeidungsstrategien und Verweis auf die jeweils einschlaegigen Skills. Ergebnis ist eine Pruefliste für DSB und Verantwortliche, die vor Freigabe einer DSFA durchgegangen wird.
-
 ## Wann dieses Modul hilft
 
 - Vor Freigabe einer DSFA durch den Verantwortlichen
@@ -149,16 +145,6 @@ Freigabeempfehlung: ja / nachzubessern / nein
 Unterschrift Pruefer: ____________________
 ```
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-art-35-dsgvo-trigger-und-anwendungsbereich/SKILL.md`
-- `datenschutzrecht/skills/dsfa-edpb-leitlinien-9-19-anwendung/SKILL.md`
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md`
-- `datenschutzrecht/skills/dsfa-restrisiko-und-art-36-konsultation/SKILL.md`
-- `datenschutzrecht/skills/dsfa-update-bei-aenderungen-und-revision/SKILL.md`
-- `datenschutzrecht/skills/dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii/SKILL.md`
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 35, 36, 5 Abs. 2, 83 Abs. 4 lit. a DSGVO
@@ -166,3 +152,4 @@ Unterschrift Pruefer: ____________________
 - BfDI- und Landesbehoerden-Pruefberichte (live abzurufen)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

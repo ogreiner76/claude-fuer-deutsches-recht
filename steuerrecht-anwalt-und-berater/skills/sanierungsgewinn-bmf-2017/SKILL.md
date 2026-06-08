@@ -137,14 +137,6 @@ herangezogen werden.
 - Verbindliche Auskunft nicht erbeten, obwohl konkretes FA streitig.
 - Argument im Einspruch: BMF-Bindung nicht herausgearbeitet.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-3a-estg-grundtatbestand`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-vorbereitungs-checkliste`
-- `stb-sanierungsgewinn-zuständigkeiten-fa-betriebspruefung`
-- `anw-verbindliche-auskunft`
-
 ## Quellen Stand 06/2026
 
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung aktuellen Stand im BStBl. abrufen.
@@ -154,3 +146,4 @@ herangezogen werden.
 - § 7b GewStG.
 - § 89 AO.
 - Rechtsprechung (insb. Großer Senat BFH zum alten Sanierungserlass): keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

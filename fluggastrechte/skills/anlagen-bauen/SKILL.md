@@ -5,12 +5,6 @@ description: "Baut aus den Belegen eines Fluggastrechte-Mandats ein beA-konforme
 
 # Fluggastrechte — Anlagen bauen
 
-## Zweck
-
-Im Fluggastrechte-Mandat sammelt der Mandant typischerweise einen bunten Strauß an Belegen: Buchungsbestätigung als PDF, Boardingpass als Screenshot, E-Mails der Airline mit Annullierungsbestätigung, Restaurant-Quittungen vom Flughafen als Foto, Taxiquittungen, Hotelrechnungen. Dieser Skill macht aus diesem Material ein einheitliches, gerichtsfestes Anlagenkonvolut.
-
-Der Skill wird **automatisch** von den Schreiben-Skills (`forderungsschreiben-erste-stufe`, `forderungsschreiben-mahnung`, `klage-amtsgericht-fluggast`) angestoßen, sobald dort ein Schriftsatz fertig ist und Belege im Mandantenordner liegen. Er kann auch manuell aufgerufen werden, etwa wenn nur die Belege geordnet werden sollen.
-
 ## Eingaben
 
 - **Schriftsatz** (PDF oder DOCX) — das vom vorhergehenden Skill erzeugte Forderungsschreiben, die Mahnung oder die Klage.
@@ -143,3 +137,4 @@ Konkret zu prüfen:
 - Art. 6 VO 261/2004 (Verspätung)
 - Art. 7 VO 261/2004 (Ausgleichszahlung 250/400/600 EUR)
 - EuGH C-402/07 (Sturgeon)
+

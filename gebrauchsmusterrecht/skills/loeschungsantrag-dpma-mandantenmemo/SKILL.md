@@ -5,10 +5,6 @@ description: "Löschungsantrag beim DPMA vorbereiten: fehlende Schutzfähigkeit,
 
 # Loeschungsantrag Dpma
 
-## Arbeitsbereich
-
-Löschungsantrag beim DPMA vorbereiten: fehlende Schutzfähigkeit, Stand der Technik, unzulässige Erweiterung, Antrag, Begründung und Kosten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Löschungsantrag beim DPMA vorbereiten: fehlende Schutzfähigkeit, Stand der Tec
 ## Wann dieser Skill hilft
 
 Ein Gebrauchsmuster soll angegriffen werden.
-
-## Arbeitsweise
-
-Stelle den Angriff merkmalsbezogen und mit belastbaren Belegen auf.
 
 ## Prüfpunkte
 
@@ -56,13 +48,10 @@ Stelle den Angriff merkmalsbezogen und mit belastbaren Belegen auf.
 - Gegenangriff im Verletzungsverfahren typisch.
 - Aussetzung des Verletzungsverfahrens beim ZPO-Gericht moeglich, wenn Loeschung erhebliche Erfolgsaussicht hat.
 
-## Output
-
-Löschungsantrag-Outline.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

@@ -5,10 +5,6 @@ description: "AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt d
 
 # Agb Bei Versicherungsvertraegen Vvg
 
-## Arbeitsbereich
-
-AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsverhaeltnis zwischen den Allgemeinen Versicherungsbedingungen (AVB) und § 307 BGB. Klaert das Transparenzgebot Risikoausschluesse Obliegenheitsverletzungen Sanktion bei Falschangaben Sondervorschriften des VVG. Liefert Pruefraster und Klauselentwurf. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,7 +54,3 @@ AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsve
 4. VVG-Spezialnorm vorrangig?
 5. BGH-Linie konsultieren.
 
-## Output
-
-- Memo zur AVB-Klausel.
-- Klauselentwurf.

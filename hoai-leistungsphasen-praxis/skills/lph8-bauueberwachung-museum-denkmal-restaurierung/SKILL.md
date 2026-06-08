@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgesc
 
 # Bauueberwachung Museum und Denkmal Restaurierung (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgeschuetzte Restaurierungen — Denkmalschutzbehoerden-Koordination, Moertelanalyse nach DIN EN 998, Naturstein-Restaurierung nach DIN EN 16085, reversible Sanierungsverfahren und Foerdermittel-Dokumentation. Unterstuetzt Bauueberwacher bei Rissmonitoring, Resistograph-Pruefung Holz und digitaler Schadensdokumentation mit Dalux und PlanRadar. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spe
 - Foerdermittel-Dokumentation lueckenhaft: Zuwendungsgeber fordert Rueckzahlung
 - Denkmalbehoerden-Zustimmung fehlt: Strafanzeige nach DSchG, Rueckbau auf Kosten Bauherr
 
-## Output
-
-Rissmonitoring-Langzeitprotokoll. Resistograph-Bohrprotokolle Holztragwerk.
-Gewoelbe-Injektionsprotokoll. Foerdermittel-Kostennachweise mit Vorher-Nachher-Fotos.
-Denkmalbehoerden-Zustimmungsschreiben. Abnahmeprotokoll Restaurierung.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Denkmalbehoerden-Zustimmungsschreiben. Abnahmeprotokoll Restaurierung.
 - [DIN EN 16085 Erhaltung bauliches Erbe](https://www.gesetze-im-internet.de/)
 - [DSchG Denkmalschutzgesetz NRW](https://dejure.org/gesetze/DSchG_NRW)
 - [BGH VII ZR 28/02 Denkmalschutz Haftung](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+28/02)
+

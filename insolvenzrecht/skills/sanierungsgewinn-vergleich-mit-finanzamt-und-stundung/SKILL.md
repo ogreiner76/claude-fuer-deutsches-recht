@@ -5,10 +5,6 @@ description: "Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffangl
 
 # Sanierungsgewinn — Vergleich mit Finanzamt und Stundung
 
-## Arbeitsbereich
-
-Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien für den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persönliche und sachliche Unbilligkeit begruenden, Vermoegensauflistung, Tatsaechliche Verstaendigung Paragraph 78 AO. Mustertexte Stundungs- und Erlassantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -167,19 +163,6 @@ Wir schlagen vor, die Werthaltigkeit einvernehmlich auf [Y %] festzulegen.
 5. Tatsaechliche Verstaendigung mit Rechtsfragen vermischt — Paragraph 78 AO nur für Tatsachen.
 6. Gemeinde-Schiene (GewSt-Hebebezug) vergessen.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — Hauptlinie.
-- `insol-sanierungsgewinn-finanzamt-im-insolvenzverfahren` — FA-Position.
-- `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack` — GewSt-Parallel.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — Stundungs-/Erlassmechanik allgemein.
-- `insolvenzplan-starug-planwerkstatt` — Plan-Werkstatt.
-
 ## Quellen Stand 06/2026
 
 - Paragraph 222 AO, `gesetze-im-internet.de/ao_1977/__222.html`.
@@ -189,3 +172,4 @@ In anderen Plugins:
 - Paragraph 3a EStG.
 - Paragraph 7b GewStG.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

@@ -5,10 +5,6 @@ description: "DRG Historische im deutsche Rechtsgeschichte im Deutsche Rechtsges
 
 # DRG Historische
 
-## Arbeitsbereich
-
-**DRG Historische** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "DRG Historische im deutsche Rechtsgeschichte im Deutsche Rechtsges
 - Tragende Normen verifizieren: Sachsenspiegel, Schwabenspiegel, Carolina (CCC 1532), Preußisches ALR 1794, Code civil (1804), Sächsisches BGB 1865, BGB 1900, WRV 1919, GG 1949; rechtshistorische Quellen MGH, Constitutiones — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `drg-neu-020-historische-verfassungsvergleiche-als-argumentations`
@@ -29,10 +26,6 @@ description: "DRG Historische im deutsche Rechtsgeschichte im Deutsche Rechtsges
 **Fokus:** Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
 ### Deutsche Rechtsgeschichte: 020 Historische Verfassungsvergleiche Als Argumentations
-
-## Aufgabe
-
-Skill für historische Verfassungsvergleiche als juristische Argumentationsquelle — wie wirkt Verfassungsgeschichte heute?
 
 ## Bedeutung der Verfassungsgeschichte
 
@@ -82,8 +75,3 @@ Skill für historische Verfassungsvergleiche als juristische Argumentationsquell
 - Erstmals im GG.
 - Reaktion auf Erfahrung der Weimarer Selbstaufgabe durch Ermaechtigungsgesetz.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse.
-- Argumentationsleitfaden für Verfassungsanwendung mit historischem Bezug.

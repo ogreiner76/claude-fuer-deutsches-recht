@@ -5,10 +5,6 @@ description: "Leitet forensische Sicherung von IT-Systemen an – Imaging-Standa
 
 # Forensic Imaging und IT-Datensicherung
 
-## Arbeitsbereich
-
-Leitet forensische Sicherung von IT-Systemen an – Imaging-Standards, Chain of Custody, Hash-Werte, Zulässigkeit und DSGVO-Konformität. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -69,15 +65,6 @@ Dieser Skill stellt sicher, dass forensische Sicherungsmaßnahmen technisch korr
 - Nicht verwertbare Dateien dokumentieren (defekte Sektoren, verschlüsselte Bereiche).
 - Expert Witness Report für US-Discovery oder Strafverfahren.
 
-## Red-Team-Fragen
-
-- Wurden Write-Blocker verwendet und dokumentiert?
-- Stimmen Hash-Werte von Original und Image überein?
-- Ist die Chain of Custody lückenlos – insbesondere bei Übergabe an externe Berater?
-- Wurden private Kommunikationsdaten gefiltert, bevor der Forensiker die Auswertung begann?
-- Ist der IT-Forensiker nach ISO/IEC 27037 oder einem vergleichbaren Standard zertifiziert?
-- Gibt es Datenschutzbedenken beim Transfer forensischer Images an US-Counsel oder US-Behörden?
-
 ## Normenregister
 
 | Norm | Inhalt | Quelle |
@@ -96,3 +83,4 @@ Dieser Skill stellt sicher, dass forensische Sicherungsmaßnahmen technisch korr
 - **Expert Witness Report** (Vorlage für US-Discovery)
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

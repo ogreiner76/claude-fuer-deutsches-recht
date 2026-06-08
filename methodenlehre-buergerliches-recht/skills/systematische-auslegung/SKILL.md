@@ -71,16 +71,6 @@ Das Argument lautet: Der Gesetzgeber denkt das Gesetz als kohaerentes System. We
 
 Kritik aus der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Das System ist nicht so geschlossen, wie die Pandektistik glauben machte. Im konkreten Fall siegen Problem- und Wertungsargumente, nicht Systemargumente (siehe Skill `topik-viehweg-vs-systemdenken`).
 
-## Querverweise
-
-- `savigny-vier-auslegungsmethoden` — Einordnung in den Kanon.
-- `wortlaut-grammatikalische-auslegung` — vorgelagertes Element.
-- `historische-auslegung` — wenn die Systematik selbst entstehungsgeschichtlich erklaert werden muss.
-- `teleologische-auslegung` — wenn Systematik und Telos divergieren.
-- `pandekten-und-begriffsjurisprudenz` — historische Wurzeln des Systemdenkens.
-- `wertungsjurisprudenz-larenz-canaris` — modernes Systemverstaendnis.
-- `topik-viehweg-vs-systemdenken` — Gegenposition.
-
 ## Quellen und Stand 05/2026
 
 - Friedrich Carl von Savigny, System des heutigen Roemischen Rechts, Band 1, Berlin 1840, § 33.
@@ -91,10 +81,3 @@ Kritik aus der Topik (Theodor Viehweg, "Topik und Jurisprudenz" 1953): Das Syste
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

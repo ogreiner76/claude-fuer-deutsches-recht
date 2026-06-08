@@ -5,10 +5,6 @@ description: "Missio in bona: praetorische Einweisung des Glaeubigers in das Ver
 
 # Rom 112 Missio In Bona Praetorische Vermoegensergreifung
 
-## Aufgabe
-
-Skill für die missio in bona als praetorisches Vollstreckungsinstrument.
-
 ## Rechtsquelle
 
 - D. 42.4 (De rebus auctoritate iudicis possidendis seu vendundis).
@@ -62,7 +58,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Memo zur historischen Bedeutung.

@@ -5,10 +5,6 @@ description: "US-Franchise-Disclosure-Dokument (FDD) mit deutschem Aufklärungss
 
 # Franchiserecht: USA-Franchise-Disclosure im Vergleich
 
-## Arbeitsbereich
-
-US-Franchise-Disclosure-Dokument (FDD) mit deutschem Aufklärungsstandard vergleichen: FTC-Rule-Items vs. DFV-Ethics-Standard, Haftungsunterschiede, Cooling-off-Perioden und Implikationen für deutsch-amerikanische Franchisesysteme. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein deutsches Franchisesystem expandiert in die USA oder ein US-amerikanisches S
 - State-level-Registration in Regulation States (z. B. Kalifornien) wird übersehen; Franchiseverträge sind anfechtbar.
 - Cooling-off-Periode im FDD beginnt falsch zu laufen; formelle Mängel im Übergabeprozess gefährden Rechtssicherheit.
 
-## Output
-
-- Vergleichstabelle FDD-Items vs. DFV-Disclosure-Standard
-- Anpassungsliste für Markteintritt Deutschland bzw. USA
-- Länderüberblick US-Registration-States-Pflichten
-- Haftungsvergleich cic (Deutschland) vs. Fraud in the Inducement (USA)
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/311.html
@@ -71,6 +60,7 @@ Ein deutsches Franchisesystem expandiert in die USA oder ein US-amerikanisches S
 - https://gesetze-im-internet.de/bgb/__242.html
 - https://gesetze-im-internet.de/bgb/__280.html
 - https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0720
+
 ## Vertiefung
 
 Die FDD (Franchise Disclosure Document) nach der FTC Franchise Rule ist ein standardisiertes Dokument mit 23 Pflicht-Items. Es muss dem Franchisenehmer spätestens 14 Tage vor Vertragsschluss oder vor einer ersten Zahlung übergeben werden. Die Jahresabschlüsse müssen nach US-GAAP auditiert sein.
@@ -84,7 +74,10 @@ Besonders relevant für deutsch-amerikanische Franchisesysteme ist, dass die 14 
 - Item 3 des FDD (Rechtsstreitigkeiten) muss vollständig sein; jede Auslassung kann zur Unwirksamkeit des Vertrags führen.
 - Cooling-off-Perioden im FDD sind streng: Keine Zahlung und kein Vertragsschluss innerhalb von 14 Tagen nach FDD-Übergabe.
 - Deutschen Clients beim US-Markteintritt die erheblich höheren Compliance-Kosten für FDD-Erstellung und Registration-States kommunizieren.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

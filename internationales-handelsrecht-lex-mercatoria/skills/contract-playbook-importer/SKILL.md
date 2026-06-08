@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Vertragshandbuch für den Importeur.
 
 # Contract Playbook für Importeure
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Vertragshandbuch für den Importeur. Käufer-Standardpositionen, Qualitätssicherungsklauseln, Lieferantenbewertung, Preisanpassung, Zahlungsbedingungen und Defensivstrategie bei Lieferverzug und Qualitätsmängeln. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Importeure verfolgen eine andere Verhandlungsstrategie als Exporteure: Qualität
 - LkSG-Lieferantenklausel: Code of Conduct + Audit-Recht + Vertragsstrafe bei Verstoß
 - EV-Modifikation: wenn EV unvermeidbar dann zeitlich begrenzen (max. bis Zahlungseingang)
 
-## Output
-
-- Importeur-Playbook-Struktur
-- LkSG-Lieferantenklausel-Muster
-- Qualitäts-Eingangs-Checkliste
-
-## Quellenregel
-
-CISG Art. 35, 38-39, 50: uncitral.un.org. LkSG: gesetze-im-internet.de. UCP 600: iccwbo.org. Incoterms 2020: iccwbo.org. Unsicherheit bleibt sichtbar.

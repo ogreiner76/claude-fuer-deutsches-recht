@@ -5,10 +5,6 @@ description: "Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und St
 
 # Sanierungsgewinn — Rangruecktritt und Paragraph 5 Absatz 2a EStG im Plan
 
-## Arbeitsbereich
-
-Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und StaRUG-Plan. Qualifizierter Rangruecktritt verhindert Passivierung. Abgrenzung zum Forderungsverzicht: bei Rangruecktritt bleibt die Verbindlichkeit zivilrechtlich, faellt aber bilanziell weg, wenn Tilgung nur aus kuenftigen Gewinnen/Liquidationserloesen erfolgt. Beziehung zu Sanierungsertrag. Mustertexte Rangruecktrittsvereinbarung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -166,20 +162,6 @@ zu behandeln, soweit die dortigen Voraussetzungen erfuellt sind.
 5. Spaetere Tilgung nicht buchhalterisch dokumentiert.
 6. Bei Gesellschafterdarlehen vergessen, dass Paragraph 39 Absatz 1 Nr. 5 InsO ohnehin Nachrang vorsieht — die Vereinbarung verstaerkt das nur.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-verzicht-bilanz-im-plan` — Verzichts-Variante.
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — Sanierungsertrag.
-- `insol-sanierungsgewinn-debt-equity-swap-im-plan` — DES.
-- `ueberschuldung-pruefung-19-inso` — Ueberschuldungspruefung.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — allgemeine Steuerthemen.
-- `fortbestehensprognose` — Fortbestehensprognose und Rangruecktritt.
-
 ## Quellen Stand 06/2026
 
 ### Normen
@@ -217,3 +199,4 @@ In anderen Plugins:
 - `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` (Drei-Phasen-Analyse für die Liquidation).
 
 Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

@@ -33,10 +33,6 @@ description: "Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen für Mandatsa
 
 **Beispiel 5 – Zwischenzeugnis ohne Enddatum (Grün):** Kein Enddatum bei einem als Zwischenzeugnis bezeichneten Dokument — korrekt und unauffällig.
 
-## Ausgabeformat
-
-Der Skill gibt eine strukturierte Übersichtstabelle aus mit den Feldern: Arbeitgeber (Name, Rechtsform, Ort), Arbeitnehmer (Name, ggf. Geburtsdatum), Beschäftigungszeitraum (Von–Bis oder "Zwischenzeugnis"), Position/Tätigkeit, Ausstellungsdatum, Unterschriftsberechtigte(r) (Name, Titel), Zeugnisart (einfach/qualifiziert/Zwischen-/Endzeugnis). Unter der Tabelle folgt ein Hinweis auf erkannte Vollständigkeitsmängel.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -45,3 +41,4 @@ Der Skill gibt eine strukturierte Übersichtstabelle aus mit den Feldern: Arbeit
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

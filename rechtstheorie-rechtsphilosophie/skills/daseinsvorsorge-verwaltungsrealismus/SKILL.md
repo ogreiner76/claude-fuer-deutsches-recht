@@ -16,10 +16,6 @@ description: "Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- u
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill nimmt ernst, dass moderne Verwaltung nicht nur verbietet, sondern Versorgung, Infrastruktur, Sicherheit, Gesundheit, Energie, Verkehr, Daten- und Krisenmanagement organisiert. Zugleich verhindert er, dass diese Aufgabenlogik Grundrechte, Kompetenzgrenzen und Rechtsschutz verdrängt.
-
 ## Sofort klären
 
 1. Welche öffentliche Leistung oder Infrastruktur steht im Zentrum?
@@ -67,13 +63,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Gib eine Daseinsvorsorge-Prüfung mit:
-
-- Verwaltungsaufgabe;
-- Rechtsform;
-- Abhängigkeitslage;
-- Grundrechts- und Gleichheitsrisiken;
-- Kontrollweg;
-- Verbesserungsvorschlag, der Handlungsfähigkeit und Rechtsstaatlichkeit zugleich erhält.

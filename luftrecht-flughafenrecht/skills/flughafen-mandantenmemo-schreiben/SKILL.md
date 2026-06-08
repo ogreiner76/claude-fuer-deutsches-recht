@@ -5,10 +5,6 @@ description: "Anwalt schreibt Mandantenmemo für Flughafen-Betreiber oder Invest
 
 # Flughafen – Mandantenmemo schreiben
 
-## Arbeitsbereich
-
-Anwalt schreibt Mandantenmemo für Flughafen-Betreiber oder Investor zu komplexem Luftrechtsfall: Planfeststellungsklage Sicherheitsauflage Insolvenznaehe oder Entgeltstreit. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -46,6 +42,7 @@ Anwalt schreibt Mandantenmemo für Flughafen-Betreiber oder Investor zu komplexe
 - **LuftVG § 9**: Planfeststellungsbeschluss; Drittwirkung und Bestandsschutz.
 - **FluglärmG § 4**: Lärmschutzbereiche; Tagschutzzonen 1 und 2 sowie Nachtschutzzone.
 - **VwVfG § 72**: Planfeststellungsverfahren allgemein; Beteiligungsrechte betroffener Dritter.
+
 ## Prüfraster
 
 1. Ist Planfeststellungsbeschluss aktuell und vollständig umgesetzt?
@@ -56,6 +53,7 @@ Anwalt schreibt Mandantenmemo für Flughafen-Betreiber oder Investor zu komplexe
 6. Sind alle Auflagen aus Planfeststellungsbeschluss fristgerecht erfüllt?
 7. Ist eine UVP nach UVPG § 4 durchgeführt und aktuell?
 8. Sind Lärmschutzbereiche nach FluglärmG § 4 neu zu ermitteln nach Bauerweiterung?
+
 ## Typische Fallstricke
 
 - Planfeststellungsauflagen veraltet und nicht auf aktuelles Recht angepasst.
@@ -75,9 +73,6 @@ Ein mandantentaugliches Luftrechtsmemo hat folgende Struktur:
 - **Zeitplan**: Wichtigste Fristen; geplante Schritte; nächste Entscheidungspunkte.
 - **Anlagen**: Relevante Normauszüge; Registerauszüge; Behördenschreiben.
 
-## Output
-
-Vermerk zu Flughafen – Mandantenmemo schreiben mit Rechtslagenanalyse Handlungsoptionen und Fristen. Planfeststellungs-Checkliste. Lärmschutzbereichs-Karte als Anhang.
 ## Quellen
 
 - LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
@@ -105,3 +100,4 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

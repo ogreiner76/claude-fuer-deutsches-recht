@@ -5,10 +5,6 @@ description: "Influencer-Recht: Virtuelle Influencer – Urheberrecht, Kennzeich
 
 # Influencer-Recht: Virtueller Influencer – Rechte und Kennzeichnung
 
-## Arbeitsbereich
-
-Influencer-Recht: Virtuelle Influencer – Urheberrecht, Kennzeichnungspflicht, Haftung und EU AI Act. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,3 +73,4 @@ Virtuelle Influencer (KI-Charaktere ohne reale Person dahinter) stellen neue Rec
 - Kennzeichnungskonzept (Werbung + KI-Label)
 - Urheberrechts-Vertrag mit Designer-Vorlage
 - Markenanmeldungs-Checkliste
+

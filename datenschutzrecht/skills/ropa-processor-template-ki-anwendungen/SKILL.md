@@ -5,9 +5,6 @@ description: "Ropa Processor Template KI Anwendungen im Datenschutzrecht: prüft
 
 # Ropa Processor Template KI Anwendungen
 
-## Arbeitsbereich
-
-**Ropa Processor Template KI Anwendungen** ordnet den Fall über die tragenden Prüfungslinien: Full English-language template for the Records of, Besonderheiten des Verzeichnisses von, Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Ropa Processor Template KI Anwendungen im Datenschutzrecht: prüft
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `ropa-en-processor-template`
@@ -127,14 +125,6 @@ Version 1.1 – [change] – [date, author]
 - DSK Short Paper No. 13 "Processor Agreements" (Status 16 January 2018).
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR (adopted 7 July 2021).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 2. `ropa-für-ki-anwendungen-besonderheiten`
 
 **Fokus:** Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten bei KI-Anwendungen: Trainingsdatensaetze, Inferenz, RAG, Prompt-Logs, Fine-Tuning, Vector Stores, automatisierte Entscheidungen (Art. 22 DSGVO), Bezug zur KI-Verordnung. Mit Spaltenerweiterungen und Beispielen für LLM-API-Nutzung, Co-Pilot-Tools und KI-gestuetzte Bewerberauswahl.
@@ -220,15 +210,6 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 - Trainingsdaten aus Mandantenakten – Berufsgeheimnis (§ 43a Abs. 2 BRAO, § 203 StGB) verletzt.
 - Webscraping-Trainingsdaten ohne Rechtsgrundlage.
 
-## Querverweise
-
-- `ropa-art-30-dsgvo-grundlagen` für Basis.
-- `ropa-art-30-controller-deutsch-vorlage` für Grundvorlage.
-- `dsfa-erstellung` für Art. 35 DSGVO.
-- `mandantendaten-ki` (in `kanzleifuehrung-und-mandat` Plugin) für berufsrechtliche Seite.
-- `ki-vo-ai-act-pruefer` (in `ki-vo` Plugin) für KI-Verordnung.
-- `tia-template-deutsch-vollvorlage` für Transferpruefung.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 5, 6, 9, 13, 14, 22, 30, 32, 35.
@@ -243,10 +224,6 @@ Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen,
 **Fokus:** Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-Entity-Strukturen. Konzernklausel-Mythos, Rollenverteilung (Verantwortlicher gemeinsam Verantwortlich Auftragsverarbeiter), zentrale vs. dezentrale Pflege, Intercompany-Datenfluesse, BCR-Verweis. Mit Strukturskizze und Vorlage für Master-RoPA und Entity-Anhaenge.
 
 ### RoPA im Konzern und in Multi-Entity-Strukturen
-
-## Zweck
-
-Dieser Skill behandelt das Verzeichnis von Verarbeitungstaetigkeiten in Konzernen und mehrgliedrigen Unternehmensgruppen. Er klaert, dass es **kein Konzernprivileg** im Datenschutzrecht gibt, ordnet Rollenverteilung und Datenfluesse zwischen Gruppenunternehmen und liefert eine Struktur für Master-RoPA mit Entity-Anhaengen.
 
 ## Wann dieses Modul hilft
 
@@ -346,14 +323,6 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 - M&A: Datenschutz-DD ohne Sichtung des RoPA der Target-Gesellschaft.
 - Doppelte Pflege: Master-RoPA und Entity-RoPA divergieren; kein Versionsabgleich.
 
-## Querverweise
-
-- `ropa-art-30-dsgvo-grundlagen` für Basis.
-- `avv-konzern-und-multi-party-konstellation` für Vertragsseite.
-- `avv-art-26-joint-controllership-deutsch` für Joint Controllership.
-- `bcr-binding-corporate-rules` (falls Skill existiert) für BCR-Verfahren.
-- `tia-template-deutsch-vollvorlage` für Transferpruefung.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 4 Nr. 7, Art. 26, Art. 28, Art. 30, Art. 44–47, Erwaegungsgrund 48.
@@ -361,14 +330,6 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 - EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR (verabschiedet 07.07.2021).
 - EDPB Working Document on Approval Procedure for BCR (zuletzt aktualisiert 2022).
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `spezial-auskunft-behoerden-gericht-und-registerweg`
 
@@ -411,18 +372,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Praxis-Tipp
 Bei unvollständiger Auskunft frühzeitig nachhaken und konkret benennen, was fehlt (Empfänger, Speicherdauer, Herkunft, Logik bei automatisierten Entscheidungen). Pauschale Beschwerde "Auskunft unvollständig" wird oft zurückgewiesen — präzise Nachforderung erhöht Erfolgsaussichten.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
 ## 5. `spezial-bdsg-tatbestand-beweis-und-belege`
 
 **Fokus:** Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
@@ -458,14 +407,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Praxis-Tipp
 Bei Verstoß gegen § 26 BDSG ist die zentrale Beweisfrage immer: "Erforderlich für was genau?" Pauschale Verweise auf "Zwecke des Arbeitsverhältnisses" tragen nicht — der konkrete Anlass und die Geeignetheit der Mittel müssen dokumentierbar sein. BAG 27.07.2017, 2 AZR 681/16 zur Verwertbarkeit von Keylogger-Daten als Leitorientierung.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

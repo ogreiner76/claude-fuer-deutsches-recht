@@ -5,10 +5,6 @@ description: "Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Bes
 
 # Delisting – Insiderrecht und Ad-hoc-Pflicht
 
-## Arbeitsbereich
-
-Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -70,24 +66,6 @@ bis zur endgültigen Zulassungsbeendigung.
 - Abfindungsangebot und Zeitplan kommunizieren
 - BaFin-Genehmigung des Widerrufsantrags abwarten
 
-## Red-Team-Fragen
-
-- Wurde der frühestmögliche Entstehungszeitpunkt der Insiderinformation identifiziert?
-- Wurde die Ad-hoc unverzüglich nach dem Beschluss veröffentlicht?
-- Wurden alle parallelen Pflichten (WpÜG, Squeeze-out) koordiniert?
-- Wurden alle Compliance-Unterlagen archiviert (5-Jahres-Frist)?
-- Wurden PDMRs über das Ende ihrer Meldepflichten informiert?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Delisting-Zeitstrahl (Entscheidung → Ad-hoc → Antrag → Widerruf → Ende MAR-Pflichten)
-2. Ad-hoc-Entwurf Delisting
-3. Insiderlisten-Abschlussprotokoll
-4. Squeeze-out-Koordinationsplan (falls relevant)
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.
-
 ## Weitere Hinweise
 
 Beim regulären Delisting (kein Squeeze-out) hat das Bundesverfassungsgericht in der
@@ -99,3 +77,4 @@ für die Einstellung des Börsenhandels klar kommunizieren.
 Weitere Quellen:
 - § 39 BörsG: https://www.gesetze-im-internet.de/borsG_2007/__39.html
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
+

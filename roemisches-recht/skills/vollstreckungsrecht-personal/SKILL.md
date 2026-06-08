@@ -5,10 +5,6 @@ description: "Personalexekution und Vermoegensexekution im roemischen Recht. Ski
 
 # Rom 110 Vollstreckungsrecht Personal Und Vermoegen
 
-## Aufgabe
-
-Skill für die roemisch-rechtliche Pruefung von Vollstreckungslagen und ihrer historischen Entwicklung.
-
 ## Historische Entwicklung
 
 ### Manus iniectio (XII Tafeln)
@@ -55,8 +51,3 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-- Quellenmatrix.
-- Vergleichende Synopse roemisch / heute.
-- Memo für rechtshistorische Hausarbeit.

@@ -350,18 +350,6 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 
 ---
 
-## Querverweise
-
-- `entscheidungsbaum-ki-vo-gesamt-workflow` — Master-vorgelagert
-- `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` — alternative Pfade
-- `rueckausnahme-art-6-abs-3` — falls Diagnose noch unsicher
-- `sanktionen-art-99-bis-101` — was passiert, wenn nichts unternommen wird
-- `mandatsabbruch-empfehlung-komplexe-faelle` — wenn intern nicht stemmbar
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Roadmap. Konkrete Umsetzung erfordert produkt-/branchen-spezifische Detailprüfung.
-
 ## Aktuelle Rechtsprechung (v14.2)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -372,9 +360,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Roadmap. Konkrete Umsetzung erfordert
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -401,3 +386,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

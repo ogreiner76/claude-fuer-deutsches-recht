@@ -5,10 +5,6 @@ description: "DORA Artikel 16 für kleinere oder privilegierte Finanzunternehmen
 
 # DORA Artikel 16: Vereinfachter IKT-Rahmen
 
-## Arbeitsbereich
-
-DORA Artikel 16 für kleinere oder privilegierte Finanzunternehmen: vereinfachten IKT-Risikomanagementrahmen, Governance, Asset-Inventar, Need-to-use, Business Continuity, Drittparteienrisiko, Vertragslücken und Nachweisordner prüfbar machen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ DORA Artikel 16 für kleinere oder privilegierte Finanzunternehmen: vereinfachte
 - Tragende Normen verifizieren: BGB §§ 305-310, AGBG (alt), EuGH zu Klauseltransparenz (z. B. C-26/13, C-186/16), VerbrG; StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nach Artikel 16 DORA nutzen kann und welche Pflichten trotzdem bleiben. Er verhindert zwei Fehler: erstens kleine Institute so zu behandeln, als müssten sie den vollen Konzernapparat bauen; zweitens Artikel 16 als Freibrief zu missverstehen.
 
 ## Erste Weiche
 
@@ -63,17 +55,7 @@ Prüfe mindestens:
 - Geschäftsleitung wird informiert, aber nicht entscheidungsfähig eingebunden.
 - Tests finden statt, aber Lessons Learned und Maßnahmenabschluss fehlen.
 
-## Output
-
-Erzeuge:
-
-1. Scope-Entscheidung: DORA ja/nein, Art. 16 ja/nein, NIS2-Schnittstelle.
-2. Management Summary für Vorstand/Geschäftsleitung.
-3. Maßnahmenmatrix mit Owner, Frist, Nachweis.
-4. Vertragslückenliste für IKT-Drittanbieter.
-5. Nachweisordner-Index für Aufsicht/Revision.
-6. Drei Sofortmaßnahmen für die nächsten zehn Arbeitstage.
-
 ## Anschluss
 
 Bei Bankauslagerungen `marisk-auslagerungen-at9-dora` zuschalten. Bei Cyber-Gesamtcompliance `nis2-cybersecurity-compliance:dora-finanzsektor-abgrenzung` oder `nis2-cybersecurity-compliance:dora-art16-finanzunternehmen-simplified-framework` verwenden.
+

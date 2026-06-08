@@ -5,10 +5,6 @@ description: "Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten �
 
 # Provisionsabrechnung und Buchauszug nach § 87c HGB
 
-## Arbeitsbereich
-
-Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf Lücken und Stornoreserven. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Verjährung einzelner Provisionsforderungen übersehen, obwohl Buchauszugsanspruch noch offen ist.
 - Unternehmer legt unvollständigen Buchauszug vor; Handelsvertreter akzeptiert ohne Gegenkontrolle.
 - Stornoreserven ohne vertragliche Grundlage einbehalten — Prüfung der AGB-Konformität versäumt.
-
-## Output
-
-Buchauszugs-Anforderungsschreiben, Differenzaufstellung mit Nachforderungsberechnung, Entwurf Stufenklage nach § 254 ZPO.
 
 ## Hintergrund und Kontext
 

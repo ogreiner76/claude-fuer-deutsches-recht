@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Vertragsausfüller: ordnet Rolle
 
 Dieser Einstieg routet **Vertragsausfueller** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `altvertraege-dokumentenmatrix-und-lueckenliste` — Altvertraege Dokumentenmatrix und Lueckenliste
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Vertragsausfueller** vom ersten Sachverhalt zu Rollen, 
 - Zuständige Stelle bestimmen: Mandant, Vertragspartner, Rechtsabteilung, Notar bei Formerfordernis.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Vertragsausfüller typische Eskalationsstufen: Ausgefüllter Vertrag mit kommentierten Lücken, Issue List, Risikomemo.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

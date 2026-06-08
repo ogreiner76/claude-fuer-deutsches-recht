@@ -38,12 +38,6 @@ Das BVerwG hat in BVerwG 2 WD 12/04 ('Irakkrieg-Urteil') entschieden, dass ein S
 - Art. 4 Abs. 3 GG — Kriegsdienstverweigerung
 - BVerfGE 90, 286 — innere Führung, Parlamentsheer
 
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
-
 ## Sachverhaltsaufnahme — Startfragen
 
 - Welcher Befehl wurde verweigert oder soll verweigert werden?
@@ -128,3 +122,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

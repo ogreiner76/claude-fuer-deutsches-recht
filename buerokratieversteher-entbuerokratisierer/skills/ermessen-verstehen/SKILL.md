@@ -5,10 +5,6 @@ description: "Ermessen der Behörde nach § 40 VwVfG: gebundene vs. Ermessensent
 
 # Ermessen verstehen
 
-## Arbeitsbereich
-
-Ermessen der Behörde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -74,17 +70,10 @@ Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der N
 - Gleichbehandlungsfrage uebersehen.
 - Bei Klage Ermessen nicht detailliert angegriffen — Gericht prueft nur eingeschraenkt.
 
-## Querverweise
-- `widerspruch-einfach`
-- `anhoerung-vor-bescheid`
-- `nebenbestimmungen-auflagen`
-- `ordnungsverfuegung`
-- `rueckforderung-und-aufhebung`
-- `klage-verwaltungsgericht-einfach`
-
 ## Quellen Stand 06/2026
 - VwVfG §§ 39, 40.
 - VwGO § 114.
 - GG Art. 3 Abs. 1.
 - BVerwG, staend. Rspr. zu Ermessensfehlern und Verhaeltnismaessigkeit.
 - Landes-VwVfG (Live-Check Landesministerien).
+

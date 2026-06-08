@@ -5,10 +5,6 @@ description: "Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fug
 
 # Bauueberwachung Mauerwerk und Fugenbild
 
-## Arbeitsbereich
-
-Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestungsanschluss, Sturz- und Auflagertiefe sowie fotografische Fugenbilddokumentation für spaetere Schadensrekonstruktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,10 +73,6 @@ Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig:
 - Sturz zu kurz aufgelagert: Auflager kleiner als 175 mm fuehrt zu Punkt-Lasteintrag, Rissbildung nach Erstbelastung durch Obergeschoss
 - Fehlende Abdichtung Fensterbruestung vor Verputz: Nachtraegliche Sanierung erfordert Fassadenabriss
 
-## Output
-
-Fugenbild-Abnahmeprotokoll je Geschoss mit Messwerten. Lieferschein-Archiv Steine und Moertel. Fotodokumentation Sturzauflager und Wandstoesse. Mauerwerk-Aufmassprotokoll. SAP-PS-Baufortschrittsbericht je Geschoss. Bautagebuch chronologisch. Matterport-Scan Rohbau als Digitales Bauwerksbuch.
-
 ## Hinweise zur Qualitaetssicherung
 
 - Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
@@ -95,3 +87,4 @@ Fugenbild-Abnahmeprotokoll je Geschoss mit Messwerten. Lieferschein-Archiv Stein
 - [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [BGB § 640 Abnahme](https://www.gesetze-im-internet.de/bgb/__640.html)
+

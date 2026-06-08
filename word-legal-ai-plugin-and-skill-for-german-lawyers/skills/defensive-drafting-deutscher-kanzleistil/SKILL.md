@@ -5,10 +5,6 @@ description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwo
 
 # Defensive Drafting und Fallen-Erkennung
 
-## Arbeitsbereich
-
-Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjährungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigste
 - Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Beim Review fremder Vertragsentwuerfe verlieren Mandanten regelmaessig viel Geld nicht durch boese Absicht, sondern durch routinierte Standardklauseln, die einseitig zu ihrem Nachteil wirken. Dieser Skill ist eine Pruefcheckliste für die zwoelf haeufigsten Fallen: woran Sie sie erkennen (Rote-Flaggen-Wortliste), warum sie problematisch sind (rechtliche Wirkung) und wie Sie sie chirurgisch entschaerfen (Verteidigungsklauseln).
-
-Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haftungsausschluss-und-haftungsbegrenzung` (Haftungsklauseln), schaut aber breiter auf das Vertragswerk.
 
 ## Eingaben
 
@@ -171,22 +161,10 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 4. Reihenfolge der Verhandlung priorisieren: zuerst Hochrisiko-Fallen (1, 5, 9), dann mittleres Risiko (3, 4, 7, 10), dann Detail (12).
 5. Pro Klausel den Fallback definieren (was, wenn Gegenseite nicht nachgibt).
 
-## Ausgabeformat
-
-- Tabelle: Klausel-Nummer | Klausel-Auszug | Falle-Nr | Risiko (rot/gelb/gruen) | Verteidigungsformulierung | Fallback.
-- Markup-Vorlage für Track-Changes im Word-Dokument.
-- Mandantenbrief mit Top-3-Risiken in Klartext.
-
-## Querverweise
-
-- `agb-konforme-klauseln-305-310-bgb` für AGB-Inhaltskontrolle
-- `haftungsausschluss-und-haftungsbegrenzung` für Haftungsdrafting
-- `klausel-bibliothek-katalog` für fertige Verteidigungsformulierungen
-- `revisions-prozess-redlines-comparison` für den Markup-Workflow
-
 ## Quellen (Stand 05/2026)
 
 - §§ 305, 305c, 306, 307, 308, 309, 310 BGB; §§ 38, 293 ZPO; § 138, § 242 BGB; § 43a BRAO.
 - DSGVO Art. 28 für Audit-Reziprozitaet.
 - BGH-Rechtsprechung zur AGB-Inhaltskontrolle und MAC-Klauseln vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
+

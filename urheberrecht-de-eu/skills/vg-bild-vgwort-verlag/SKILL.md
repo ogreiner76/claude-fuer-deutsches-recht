@@ -5,10 +5,6 @@ description: "Prueft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie,
 
 # VG Wort, VG Bild-Kunst und Verlag
 
-## Arbeitsbereich
-
-Prueft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie, Bibliothek, Verlagserlös und Autorentransparenz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -82,3 +78,4 @@ Konkret zu prüfen:
 
 - §§ 1-141 VGG (Verwertungsgesellschaften)
 - § 9 VGG
+

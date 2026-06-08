@@ -96,12 +96,6 @@ Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungslei
 - Bei Konzernen Pensionsfonds oder Direktzusage moeglich.
 - Vertragstext mit Rechtsanwalt pruefen lassen.
 
-## Output
-
-- Beratungsnotiz zu bAV-Durchfuehrungsweg.
-- Konfiguration in DATEV LODAS / Lohn und Gehalt.
-- Versorgungszusage-Vertrag.
-
 ## Strategie und Praxis-Tipps
 
 - Direktversicherung ist Standard für kleine Mandanten — wenig Aufwand, klare Förderung.
@@ -110,13 +104,6 @@ Die betriebliche Altersversorgung (bAV) ist eine vom AG zugesagte Versorgungslei
 - Bei Direktzusagen: bilanzielle Behandlung (Rueckstellung) zu beachten — § 6a EStG.
 - StBVV: bAV-Beratung als Zusatzauftrag (Komplex).
 - DATEV-Tipp: DATEV LODAS bAV-Konfiguration mit Versicherer-Schnittstelle.
-
-## Querverweise
-
-- `stb-lohn-direktversicherung-3-nr-63-estg` — Direktversicherung.
-- `stb-lohn-vermoegenswirksame-leistungen` — VL.
-- `stb-lohn-bav-doppelversorgung-foerderung` — Mehrere bAV-Wege.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
 
 ## Quellen und Updates
 
@@ -130,3 +117,4 @@ Stand: 05/2026.
 - BBG-West RV 2025: 96.600 EUR; § 100 EStG Schwellenwert 2.575 EUR/Monat, Foerderbetrag max. 288 EUR/Jahr (Stand 2025; Sozialversicherungs-Rechengroessenverordnung 2026 und BMF-Schreiben pruefen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Werte 2025 eingesetzt), 1 ersetzt (Rentner-Freibetrag Pruefhinweis ohne Marker) -->
+

@@ -5,10 +5,6 @@ description: "Neuheitsschonfrist für eigene Offenbarungen prüfen: Messe, Pitch
 
 # Neuheitsschonfrist Eigene Offenbarung
 
-## Arbeitsbereich
-
-Neuheitsschonfrist für eigene Offenbarungen prüfen: Messe, Pitchdeck, Website, Verkauf, Testkunde, Geheimhaltung und Sechsmonatsfenster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Neuheitsschonfrist für eigene Offenbarungen prüfen: Messe, Pitchdeck, Website,
 ## Wann dieser Skill hilft
 
 Die Erfindung wurde schon gezeigt.
-
-## Arbeitsweise
-
-Erstelle eine Offenbarungschronologie und unterscheide eigene Offenbarung von fremdem Stand der Technik.
 
 ## Prüfpunkte
 
@@ -60,13 +52,10 @@ Erstelle eine Offenbarungschronologie und unterscheide eigene Offenbarung von fr
 - 6 Monate genuegen daher nur für DE-Gebrauchsmuster.
 - Bei US- oder JP-Strategie eigene Regelungen pruefen.
 
-## Output
-
-Schonfrist- und Risikoampel.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

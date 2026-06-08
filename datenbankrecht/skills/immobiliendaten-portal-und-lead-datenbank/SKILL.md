@@ -5,10 +5,6 @@ description: "Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft
 
 # Immobiliendaten, Portale und Lead-Datenbanken — Datenbankrecht
 
-## Arbeitsbereich
-
-Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -75,3 +71,4 @@ Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e 
 - [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
 - [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
 - [Art. 83 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/83.html)
+

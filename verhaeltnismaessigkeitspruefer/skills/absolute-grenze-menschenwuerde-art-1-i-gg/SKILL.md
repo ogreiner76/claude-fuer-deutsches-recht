@@ -49,10 +49,6 @@ Eine Verletzung liegt vor, wenn der Mensch zum **blossen Objekt** staatlichen Ha
 
 Siehe `absolute-grenze-wesensgehalt-art-19-ii-gg` und `absolute-grenze-existenzminimum`. Diese drei Grenzen markieren die unverfuegbaren Punkte der Verhaeltnismaessigkeitspruefung.
 
-## Output
-
-Drei-Zeilen-Notiz: Objektformel verletzt (ja/nein), Begruendung in einem Satz, Folgen fuer die weitere Pruefung.
-
 ## Quellen mit Schlagwort
 
 - BVerfGE 1, 332 (Folter und erniedrigende Behandlung)
@@ -68,3 +64,4 @@ Drei-Zeilen-Notiz: Objektformel verletzt (ja/nein), Begruendung in einem Satz, F
 - BVerfGE 132, 134 (Asylbewerberleistungsgesetz)
 - BVerfGE 154, 17 (BND-Auslandsaufklaerung)
 - BVerfGE 154, 152 (Bestandsdatenauskunft II)
+

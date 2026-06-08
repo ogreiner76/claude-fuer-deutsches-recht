@@ -5,10 +5,6 @@ description: "Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohn
 
 # Familienbetreuer: Monatsroutine und Kalender
 
-## Arbeitsbereich
-
-Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fri
 - Tragende Normen verifizieren: BtOG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Für Überforderungsschutz: kleine regelmäßige Schritte statt Chaos.
 
 ## Normenanker
 
@@ -36,21 +28,7 @@ Arbeitsfokus: **Familienbetreuer: Monatsroutine und Kalender**. Prüfe diese Ank
 - `§ 5 BtOG` — Beratung und Unterstützung.
 - `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsfragen
-
-1. Welche wiederkehrenden Termine?
-2. Welche Post/Fristen neu?
-3. Welche Veränderung bei Gesundheit, Geld, Wohnung?
-4. Welcher Aufgabenkreis ist wirklich übertragen: Gesundheit, Vermögen, Aufenthalt, Behörden, Post, Wohnungsangelegenheiten?
-5. Was will die betreute Person selbst, und wie wurde dieser Wille ermittelt/dokumentiert?
-6. Braucht eine Handlung gerichtliche Genehmigung, ärztliche Rücksprache oder nur Alltagserledigung?
-
-## Output
-
-Monatscheckliste, Kalenderstruktur, Besuchsnotiz, Gerichtskommunikation, Genehmigungsampel und Angehörigen-/Dienstleisterlog.
 
 ## Red Flags
 
@@ -63,3 +41,4 @@ Monatscheckliste, Kalenderstruktur, Besuchsnotiz, Gerichtskommunikation, Genehmi
 ## Arbeitsstil
 
 Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+

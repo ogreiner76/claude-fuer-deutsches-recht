@@ -5,10 +5,6 @@ description: "Hotel-Franchise vom Managementvertrag abgrenzen: Selbstständigkei
 
 # Franchiserecht: Hotel-Franchise und Managementvertrag – Abgrenzung
 
-## Arbeitsbereich
-
-Hotel-Franchise vom Managementvertrag abgrenzen: Selbstständigkeit des Hotelbetreibers vs. Beauftragungsstruktur, markenrechtliche Lizenz, Umsatzbeteiligung statt Managementfee und haftungsrechtliche Konsequenzen der Vertragsgestaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Hotelbesitzer möchte unter einer bekannten Hotelmarke operieren und fragt, 
 - Ausgleichsanspruch nach § 89b HGB analog wird übersehen, weil der Vertrag als Managementvertrag bezeichnet ist, aber Franchisestruktur aufweist.
 - Haftungsabgrenzung gegenüber Gästen ist unklar; bei Personenschäden haften Hotelkette und -betreiber gesamtschuldnerisch.
 
-## Output
-
-- Vertragsstruktur-Analyse (Franchise vs. Management)
-- Entscheidungshilfe: Wann Franchise, wann Management?
-- Haftungsabgrenzungsklausel
-- Ausgleichsanspruchs-Prüfung bei Vertragsende
-
 ## Quellen
 
 - https://dejure.org/gesetze/BGB/611a.html
@@ -71,6 +60,7 @@ Ein Hotelbesitzer möchte unter einer bekannten Hotelmarke operieren und fragt, 
 - https://dejure.org/gesetze/HGB/89b.html
 - https://dejure.org/gesetze/BGB/307.html
 - https://dejure.org/gesetze/BGB/631.html
+
 ## Vertiefung
 
 Die Abgrenzung zwischen Franchise- und Managementvertrag im Hotelbereich ist für die Haftungsstruktur entscheidend: Im Managementvertrag führt der Manager (die Hotelkette) das Hotel für Rechnung des Eigentümers und trägt kein eigenes wirtschaftliches Risiko; im Franchise-Modell trägt der Franchisenehmer als Hotelbetreiber das vollständige unternehmerische Risiko.
@@ -84,7 +74,10 @@ Die Rechtsprechung zum Ausgleichsanspruch nach § 89b HGB analog ist im Hotelber
 - Managementgebühren und Incentive-Fee klar von Franchise-Royalties unterscheiden; steuerliche Behandlung unterscheidet sich.
 - Kündigungsschutz bei langjährigen Investitionen des Hoteleigentümers durch Mindestlaufzeiten sichern.
 - Haftungsabgrenzung gegenüber Hotelgästen vertraglich regeln; Gesamtschuldnerschaft vermeiden.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

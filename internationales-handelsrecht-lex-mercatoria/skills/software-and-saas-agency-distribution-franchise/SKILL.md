@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Software- und SaaS-Verträge im gren
 
 # Software- und SaaS-Verträge im grenzüberschreitenden B2B
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Software-as-a-Service (SaaS) und Softwarelizenzen haben grenzüberschreitend spe
 - Data Act Compliance: Export-API und Portabilitäts-Dokumentation in SaaS integrieren
 - EAR-Kryptographie: BIS-Notifizierung für Mass-Market-Software (740.17 EAR)
 
-## Output
-
-- SaaS-Vertrags-Checkliste (SLA, Datenschutz, Exit, IP)
-- SLA-Template (Verfügbarkeit, Penalties)
-- Escrow-Agreement-Grundstruktur
-
-## Quellenregel
-
-EAR 15 CFR: bis.doc.gov. DSGVO: eur-lex.europa.eu. Data Act 2023/2854: eur-lex.europa.eu. UrhG §§ 69a ff.: gesetze-im-internet.de. Unsicherheit bleibt sichtbar.

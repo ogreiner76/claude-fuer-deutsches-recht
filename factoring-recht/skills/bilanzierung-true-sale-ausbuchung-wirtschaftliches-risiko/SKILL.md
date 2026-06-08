@@ -104,13 +104,6 @@ Fragen zum Einstieg:
 - HGB-Ausbuchung wird ohne IFRS-Bewertung übernommen, im Konzernabschluss bricht das.
 - Steuerliche Folgen (Maßgeblichkeit) übersehen.
 
-## Querverweise
-
-- `echtes-und-unechtes-factoring-risikoverteilung`
-- `factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe`
-- `factoringtyp-true-false-reverse-maturity`
-- `full-service-factoring-inhouse-factoring-ausschnittsmodell`
-
 ## Quellen Stand 06/2026
 
 - HGB §§ 246, 252, 290 zur Bilanzierung und Konsolidierung.
@@ -118,3 +111,4 @@ Fragen zum Einstieg:
 - IFRS 9 zu Financial Instruments (Risk-and-Reward, Control-Test).
 - IFRS 10 zur Konsolidierung von Zweckgesellschaften.
 - IDW Stellungnahmen und Veröffentlichungen, jeweils in der aktuellen Fassung.
+

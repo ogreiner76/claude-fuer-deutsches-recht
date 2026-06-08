@@ -18,12 +18,7 @@ Arbeitsfokus: **Original, Abschrift, Kopie und elektronische Fassung**. Prüfe d
 - `§ 130 Nr. 6 ZPO` — Schriftsatzsignatur.
 - `§ 299 Abs. 1 ZPO` — Akteneinsicht.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill verhindert Formverwechslungen: Eine Anlage ist oft nur Beleg, manchmal aber gerade Urkunde, Original, Vollmacht, Ausfertigung oder beglaubigte Abschrift.
 
 ## Mindestinput
 
@@ -77,3 +72,4 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 - Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
 - Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
 - Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
+

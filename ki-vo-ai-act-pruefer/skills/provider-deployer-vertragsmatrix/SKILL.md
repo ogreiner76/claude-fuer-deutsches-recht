@@ -29,6 +29,3 @@ KI-Verträge scheitern oft daran, dass technische und regulatorische Verantwortu
 - Keine Incident-Fristen.
 - Unklare Haftung bei Outputfehlern.
 
-## Output
-
-Vertragsredlines und eine Verantwortlichkeitsmatrix.

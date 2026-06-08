@@ -5,10 +5,6 @@ description: "Standardangebotspflichten, Prüfung von Klauseln, Änderungsanordn
 
 # Standardangebot und Reference Offer
 
-## Arbeitsbereich
-
-Standardangebotspflichten, Prüfung von Klauseln, Änderungsanordnung, Zugangsnachfrage und Nichtdiskriminierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Standardangebotspflichten, Prüfung von Klauseln, Änderungsanordnung, Zugangsna
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Vorleistungsangebote, die reguliert, genehmigt oder angegriffen werden.
-
 ## Norm- und Quellenanker
 
 TKG; BNetzA-Standardangebotsverfahren; AGB-Recht.
-
-## Arbeitsfragen
-
-1. Welche Klausel behindert Zugang?
-2. Welche BNetzA-Festlegung gilt?
-3. Ist die Klausel diskriminierend oder unpraktikabel?
-
-## Output
-
-Klausel-Redline und BNetzA-Stellungnahme.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Klausel-Redline und BNetzA-Stellungnahme.
 
 - Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
-## Qualitätsregel
-
-Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bundesnetzagentur immer Bescheid, Norm, Tenor, Nebenbestimmungen und Rechtsbehelfsbelehrung lesen; bei Verbraucherfällen Vertrag, Leistungsbeschreibung, Messprotokoll und Anbieterkommunikation trennen.

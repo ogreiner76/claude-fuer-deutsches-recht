@@ -5,9 +5,6 @@ description: "Datenschutz Sanktion Unternehmensgruppe Federfuehrende im Datensch
 
 # Datenschutz Sanktion Unternehmensgruppe Federfuehrende
 
-## Arbeitsbereich
-
-**Datenschutz Sanktion Unternehmensgruppe Federfuehrende** ordnet den Fall über die tragenden Prüfungslinien: Datenschutzrecht-Brückenskill. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Datenschutz Sanktion Unternehmensgruppe Federfuehrende im Datensch
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `dsv-sanktion-unternehmensgruppe-und-federfuehrende-aufsicht`
@@ -32,12 +30,6 @@ description: "Datenschutz Sanktion Unternehmensgruppe Federfuehrende im Datensch
 **Fokus:** Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 ### Unternehmensgruppe und federführende Aufsicht
-
-## Aufgabe
-
-Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen.
-
-Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
 
 ## Kaltstart-Fragen
 
@@ -73,10 +65,6 @@ Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er d
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 - Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
 
-## Output
-
-Behördenstrategie mit Antwortentwurf, Vorbehalten, Anlagenplan und Schutz vor überschießender Selbstbelastung.
-
 ## Übergabe an das Spezialplugin
 
 Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
@@ -93,12 +81,6 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 **Fokus:** Datenschutzrecht-Brückenskill: Veröffentlichung von Bußgeldentscheidungen: Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 ### Veröffentlichung von Bußgeldentscheidungen
-
-## Aufgabe
-
-Namensnennung, Behördenpublikation, Geschäftsgeheimnisse und Reputationsschutz steuern.
-
-Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
 
 ## Kaltstart-Fragen
 
@@ -134,10 +116,6 @@ Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er d
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 - Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
 
-## Output
-
-Verteidigungsbaustein für OWiG-Verfahren mit Akteneinsicht, Einspruch, Beweisthemen und Terminstrategie.
-
 ## Übergabe an das Spezialplugin
 
 Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `datenschutz-sanktionsverfahren-verteidigung` und dort insbesondere `kaltstart-verfahrensstand-und-mandatsziel`, `akteneinsicht-49-owig-147-stpo`, `zuständigkeit-amtsgericht-landgericht-41-bdsg`, `art-83-abs-2-kriterien-einzeln` und `art-58-anordnung-verwaltungsakt`.
@@ -154,12 +132,6 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 **Fokus:** Datenschutzrecht-Brückenskill: Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren. Fachmodul für Datenschutz-Sanktionsverfahren, Bußgeldverteidigung, Aufsichtsbehördenkommunikation und gerichtlichen Rechtsschutz. Bei ernstem Behörden- oder Bußgelddruck Spezialplugin datenschutz-sanktionsverfahren-verteidigung laden.
 
 ### Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater
-
-## Aufgabe
-
-Datenschutzbeauftragten, Geschäftsleitung, externe Anwälte, IT-Forensik und PR-Beratung konfliktfrei koordinieren.
-
-Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er darf nicht austauschbar antworten: immer zuerst Verfahrensstand, Behörde, Frist, Rechtsweg, Beweisstand und gewünschtes Arbeitsprodukt klären.
 
 ## Kaltstart-Fragen
 
@@ -194,10 +166,6 @@ Dieser Skill arbeitet als Brücke im allgemeinen Plugin `datenschutzrecht`. Er d
 - § 73 OWiG als Bezeichnung der mündlichen Verhandlung missverstehen; die Hauptverhandlung steht in § 71 OWiG.
 - EuGH C-807/21 als verschuldenslose Unternehmenshaftung lesen. Das ist falsch: keine Identifizierung einer natürlichen Person nötig, aber Vorsatz oder Fahrlässigkeit bleibt nötig.
 - Rechtsprechung oder Behördenpraxis ohne live verifizierbare Quelle zitieren.
-
-## Output
-
-Mandats-Cockpit mit Verfahrensspur, Fristen, Sofortmaßnahmen, Risikoampel und nächsten Skills.
 
 ## Übergabe an das Spezialplugin
 
@@ -241,10 +209,6 @@ Nicht aus Modellwissen; insbesondere EuGH Österreichische Post C-300/21; Saturn
 
 Art. 82 Abs. 1; Art. 82 Abs. 2; Art. 82 Abs. 3; Art. 82 Abs. 4 DSGVO; §§ 253; 280; 823 BGB.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Schriftsatzgliederung
 
 A. Sachverhalt — konkret und auf substantiierte Klage bezogen.
@@ -274,10 +238,6 @@ F. Höhe — Bagatellgrenze; Vergleich mit Rechtsprechung.
 **Fokus:** Livecheck-Skill für aktuelle Veroeffentlichungen BfDI und Landesdatenschutzbehoerden vor Abgabe Schriftsatz oder Stellungnahme. Sieben-Fragen-Diagnose: Mandatsgebiet zuständige Aufsicht Rechtsbereich Verarbeitungsart EuGH Vorabentscheidung EDSA-Leitlinie aktuell. Schritt-für-Schritt: NICHT aus Modellwissen zitieren immer Live-Quellen. Mustertexte für Live-Quellen-Notiz und Aktualisierungsvermerk. Liste der offiziellen Quellen ohne erfundene Datums. Abgrenzung: keine Subsumtion (datenschutz-erstgespraech-mandantenmatrix-7-fragen).
 
 ### Datenschutz Livecheck — BfDI und Landesaufsichten
-
-## Zweck
-
-Dieser Skill stellt sicher, dass vor jeder Mandantenkommunikation oder Stellungnahme zu Aufsichtsbehoerden die aktuelle Rechts- und Aufsichtspraxis verifiziert wird. Datenschutzrecht aendert sich rasant durch EuGH-Vorabentscheidungen, EDSA-Leitlinien und nationale Aufsichts-Praxis. Modellwissen ist nicht ausreichend.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -379,14 +339,6 @@ Verifizierung: [Quelle, URL gespeichert in Akte].
 
 **Was triggert die Aufsicht negativ?** Veraltete Zitate, EuGH-Az ohne Datum, Bezug auf Aufsichtspraxis anderer Länder ohne Pruefung.
 
-## Querverweise
-
-- `datenschutz-erstgespraech-mandantenmatrix-7-fragen`
-- `datenschutz-beschwerde-art-77-aufsichtsbehoerde`
-- `datenschutz-mandantenkommunikation-aufsichtsbehoerde`
-- `workflow-rechtsquellen-livecheck`
-- `spezial-transfer-livequellen-und-rechtsprechungscheck`
-
 ## Quellen Stand 06/2026
 
 - DSGVO.
@@ -398,3 +350,4 @@ Verifizierung: [Quelle, URL gespeichert in Akte].
 - EuGH curia.europa.eu.
 - Landesaufsichten siehe Liste oben.
 - Keine Aufsatzfundstellen aus Modellwissen.
+

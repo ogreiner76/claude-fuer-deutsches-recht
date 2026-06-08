@@ -5,10 +5,6 @@ description: "Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab im Hinwei
 
 # Beschwerde Management
 
-## Arbeitsbereich
-
-Grenzt Hinweis, Beschwerde, Grievance und HR-Konflikt ab. Arbeite entlang dieser konkreten Pr체fungslinie und trenne Rolle, Frist, Zust채ndigkeit, Beweislast und gew체nschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gew체nschtes Arbeitsprodukt kl채ren: Wer handelt, welche Entscheidung steht an, welche Frist l채uft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Routing-Entscheidung. Wenn der Nutzer nur eine Kurzantwort m�
 ## Qualit채tsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei pr체fbar, Sachverhalt nicht erg채nzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

@@ -9,7 +9,6 @@ description: "Anschluss-Routing für Verfassungsrecht: wählt den nächsten Spez
 
 Dieses Anschluss-Routing für **Verfassungsrecht** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `acht-zahlen-schwellen-und-berechnung` — Acht Zahlen Schwellen und Berechnung
@@ -35,10 +34,6 @@ Dieses Anschluss-Routing für **Verfassungsrecht** wählt nach dem ersten Ergebn
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Beschwerdeführer, BVerfG (1. und 2. Senat, Kammern), Landesverfassungsgerichte, EGMR oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Output
-
-Routing-Entscheidung mit Anschluss-Skill, Reihenfolge, Abbruchkriterien und nächster Aktion innerhalb von Verfassungsrecht.
 
 ## Qualitätsanker
 

@@ -5,10 +5,6 @@ description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act) im Ki Vo Ai Act Pru
 
 # Wettbewerb Flaschenhaelse
 
-## Arbeitsbereich
-
-**Wettbewerb Flaschenhaelse** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Wettbewerb Flaschenhaelse im EU KI-VO (AI Act) im Ki Vo Ai Act Pru
 - Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `wettbewerb-ki-flaschenhaelse-big-tech`
@@ -52,13 +49,7 @@ Der Skill hilft, KI-Geschäftsmodelle kartellrechtlich zu lesen: Wer kontrollier
 5. Werden Daten aus einem Markt in einen KI-Markt übertragen?
 6. Welche Abhilfe: Zugang, Interoperabilität, FRAND, Entflechtung, Verhaltenszusage?
 
-## Output
-
-- Kartellrechtliches KI-Risiko-Memo.
-- Fragenkatalog für Due Diligence.
-- Behördenargumentation für Bundeskartellamt/EU.
-- Vertragsredlines gegen marktabschottende KI-Klauseln.
-
 ## Schnittstelle
 
 Kartellrecht ist nicht Teil der KI-VO, aber in KI-Projekten häufig das härtere wirtschaftliche Problem.
+

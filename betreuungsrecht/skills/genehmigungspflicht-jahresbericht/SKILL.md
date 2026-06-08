@@ -88,6 +88,7 @@ Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 1. **Aufgabenkreis prüfen**
@@ -117,42 +118,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 6. **Genehmigungsbeschluss umsetzen**
  Geschäft erst nach Rechtskraft des Beschlusses vollziehen. Bei
  Grundstücken: Beschluss als Anlage zum Notarvertrag.
-
-## Ausgabeformat
-
-Strukturierte Prüfung in folgender Form:
-
-```
-Genehmigungspflicht-Prüfung
-Geplante Maßnahme: [konkret]
-Geprüft am: [Datum]
-Betreute Person: [Name, AZ]
-Aufgabenkreise: [Aufzählung]
-
-1. Aufgabenkreis-Zuordnung
- [Ja/Nein, Begründung]
-
-2. Einschlägige Rechtsnorm
- [§ XXXX BGB — Tatbestand]
-
-3. Subsumtion
- [Tatbestandsmerkmal 1 — erfüllt/nicht erfüllt — Begründung]
- [Tatbestandsmerkmal 2 — ...]
-
-4. Wunsch und Wille der betreuten Person (§ 1821 BGB)
- [Ermittelt durch ..., Inhalt: ...]
-
-5. Ergebnis
- [ ] genehmigungspflichtig — Antrag beim Betreuungsgericht erforderlich
- [ ] nicht genehmigungspflichtig — Begründung
- [ ] Aufgabenkreis-Erweiterung erforderlich
-
-6. Empfohlene Anlagen für Genehmigungsantrag
- [Liste]
-
-7. Belege
- [BGH-Entscheidungen, Kommentarstellen]
-```
 
 ## Beispiel
 
@@ -242,3 +207,4 @@ Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 *Dieser Skill ersetzt keine konkrete fachliche Beratung im Einzelfall.
 Vor jeder genehmigungspflichtigen Maßnahme ist der Antrag durch den
 verantwortlichen Betreuer zu prüfen.*
+

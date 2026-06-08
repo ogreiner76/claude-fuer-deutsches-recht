@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Verwaltung von Kanzlei-Personal mit Stammdaten Arbeitsvertraegen Onboarding und Offboarding. Anwendungsfall neue Kanzleimitarbeiterin wird eingestellt oder Mitarbeiter scheidet aus und HR-Dokumentation muss gepflegt werden. Normen BDSG § 26 Arbeitnehmerdatenschutz § 622 BGB Kündigungsfrist BRAO-Standesrecht Fortbildungspflicht. Prüfraster Stammdaten Vertraege Onboarding Datenschutz Fortbildungsnachweis Zielvereinbarungen Gratifikation Bonus Offboarding. Output HR-Akte Onboarding-Checkliste Offboarding-Protokoll Fortbildungsnachweis. Abgrenzung zu kanzlei-allgemein-lohn-sv und kanzlei-allgemein-abwesenheiten-urlaub. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -45,13 +41,6 @@ Verwaltung von Kanzlei-Personal mit Stammdaten Arbeitsvertraegen Onboarding und 
 - § 23 KSchG — Geltungsbereich des Kuendigungsschutzgesetzes ab 10 Beschaeftigte
 - § 3 BUrlG — Gesetzlicher Mindesturlaub (24 Werktage)
 - § 26 BDSG — Datenverarbeitung für Zwecke des Beschaeftigungsverhaeltnisses
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill führt die interne Personalverwaltung der Kanzlei. Er ersetzt keine Personalsoftware, keine arbeitsrechtliche Prüfung und keine Lohnbuchhaltung, bereitet aber Daten, Entscheidungen und Dokumente so auf, dass die Kanzlei handlungsfähig bleibt.
 
 ## Personalakte
 
@@ -88,3 +77,4 @@ Wenn Daten fehlen:
 ## Ausgabe
 
 `assets/templates/personalstammblatt.md` und `assets/templates/hr-onboarding-offboarding.md` verwenden.
+

@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Präferenzieller Ursprung in EU-Frei
 
 # Präferenzieller Ursprung und Lieferantenerklärungen
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Präferenzieller Ursprung in EU-Freihandelsabkommen (CETA, EUSFTA, EU-UK TCA). Listenregeln, Kumulierung, REX-System, Lieferantenerklärungen nach VO (EU) 2015/2447 Art. 62 und Präferenznachweise (EUR.1, A.TR, REX). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Präferenzursprung berechtigt zu reduzierten Zollsätzen im Rahmen von Freihande
 - Lieferantenerklärungen: Archivierung mindestens 4 Jahre (UZK Art. 51)
 - REX-Registrierung: Hauptzollamt; Gültigkeit überprüfen vor Export
 
-## Output
-
-- Präferenzursprungs-Prüfschema (5 Schritte)
-- Lieferantenerklärung-Muster (lang und kurz)
-- EU-FHA-Übersicht: gültige Abkommen und Ursprungsnachweise
-
-## Quellenregel
-
-UZK (VO 952/2013): eur-lex.europa.eu. VO (EU) 2015/2447: eur-lex.europa.eu. EU-UK TCA: eur-lex.europa.eu. REX: ec.europa.eu. Unsicherheit bleibt sichtbar.

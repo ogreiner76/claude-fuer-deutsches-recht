@@ -20,7 +20,6 @@ Arbeitsfokus: **Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout**. Pr
 - `§ 45 GGO` — Beteiligung.
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Wann verwenden
@@ -39,19 +38,6 @@ Plus Hilfsformate:
 5. **Spaltensynopse** dreispaltig (geltend / Änderung / Begründung)
 6. **Lesefassung konsolidiert** (Artikelgesetz nach Inkrafttreten)
 7. **Kabinettsmappe-Deckblatt**
-
-## Vorgehen
-
-1. **Eingangsbausteine sammeln**: Die strukturierten Markdown-Dateien aus den vorgelagerten Skills (`vorblatt.md`, `gesetzestext.md`, `begruendung-allgemein.md`, `begruendung-besonders.md`, `synopse.csv`) müssen vorliegen.
-2. **Format wählen** (siehe oben 1-7) abhängig vom Adressaten:
- - federführendes Ressort intern -> Referentenentwurf
- - Kabinett -> Kabinettsmappe + Referentenentwurf
- - Bundestag/Fraktion/Opposition -> parlamentarische Vorlage oder Formulierungshilfe
- - Landtag/Landtagsfraktion -> landesspezifische parlamentarische Vorlage
- - Bundestag von Bundesregierung -> BT-Drucksachen-Layout
-3. **Skript aufrufen**: `python3 skills/dokumente-rendern-docx-pdf/assets/render.py --format referentenentwurf --eingabe /pfad/zum/projekt/ --ausgabe /pfad/zum/projekt/output/`
-4. **Visuelle Prüfung** des DOCX: Schriftart, Sperrsatz, Änderungsbefehle kursiv, Vorblatt-Gliederung, Kopf-/Fußzeile.
-5. **Optional PDF**: Konvertierung via LibreOffice headless (Skript läuft, wenn `soffice` verfügbar) oder Pandoc.
 
 ## Layout-Eckdaten nach Handbuch der Rechtsförmlichkeit
 
@@ -132,6 +118,7 @@ Ausgabe: `Referentenentwurf-Pflichtpostfachgesetz.docx` (und `.pdf` wenn `soffic
 - `formulierungshilfe-bauen` - liefert Formulierungshilfe, Änderungsantrag, Gesetzentwurf aus der Mitte, Antrag oder Entschließungsantrag
 - `synopse-erstellen` - liefert die dreispaltige CSV für die Synopse
 - `begruendung-allgemein-und-besonders` - liefert die Begründung Teil A und Teil B
+
 ## Technische Standards & Qualitätsanforderungen
 
 - DOCX ist Arbeits- und Austauschformat; PDF ist Liefer- und Lesefassung. Wenn ein bestimmtes Portal, Parlament oder Haus eine andere Vorgabe macht, geht diese vor.
@@ -144,10 +131,3 @@ Ausgabe: `Referentenentwurf-Pflichtpostfachgesetz.docx` (und `.pdf` wenn `soffic
 
 HdR — GGO — Art. 76-78 GG — GO-BT oder Landtags-GO — Landesverfassung und Verkündungsrecht — LegalDocML.de/eNorm soweit gefordert — PDF/A-Standard ISO 19005 nur bei konkreter Archivvorgabe
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

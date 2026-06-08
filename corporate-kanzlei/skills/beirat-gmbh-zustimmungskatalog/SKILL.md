@@ -15,9 +15,6 @@ Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft,
 4. Haftung/D&O: Organnähe, Informationsgrundlage, Protokoll, Interessenkonflikte.
 5. Exit/Finanzierung: Drag/Tag, Liquidation Preference, Reserved Matters, Bank Covenants.
 
-## Output
-Satzungsbaustein, Geschäftsordnungsbaustein und Tabelle `Maßnahme / Schwelle / Gremium / Mehrheit / Konflikt / Eskalation / Dokumentation`.
-
 ## Powersprint-Vertiefung
 
 - **Konkreter Arbeitsauftrag:** `GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik` immer als eigenes Fachproblem behandeln: Rolle, Ziel, Frist, Zuständigkeit, Beleglage und gewünschten Output trennen.

@@ -97,12 +97,6 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 - Stundenaufzeichnung MiLoG.
 - Lohnabrechnung mit Personengruppen 106.
 
-## Output
-
-- Werkstudent-SV-Abrechnung (nur RV).
-- Anmeldung mit Personengruppen 106.
-- Stundenaufzeichnung MiLoG.
-
 ## Strategie und Praxis-Tipps
 
 - 20-Stunden-Regel strikt — bei systematischem Ueberschreiten Status verloren.
@@ -111,13 +105,6 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 - Bei Studienabschluss waehrend Beschaeftigung: Status faellt zum Tag des Abschlusses weg.
 - StBVV: in Lohnpauschale; Statuspruefung bei Sonderfaellen Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Werkstudent-Personengruppe automatisch; Immatrikulations-Wiedervorlage zu Semesterbeginn.
-
-## Querverweise
-
-- `stb-lohn-minijob-538-euro-2024-anpassung` — Minijob.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant` — Vertragspruefung.
-- `stb-lohn-praktikanten-azubis-loehne` — Praktikant.
 
 ## Quellen und Updates
 
@@ -131,10 +118,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (DEUEV-Schluessel 106 unveraendert), 1 ersetzt (26-Wochen-Regel Pruefhinweis ohne Marker) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "Leistungspflicht in der PKV nach § 192 VVG und MB/KK: medizinisch
 
 # PKV-Leistungspflicht: Medizinische Notwendigkeit
 
-## Arbeitsbereich
-
-Leistungspflicht in der PKV nach § 192 VVG und MB/KK: medizinische Notwendigkeit, Behandlungsmethoden, Kostenbegrenzungsklauseln und Beweislast. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ In der PKV schuldet der Versicherer Leistungen für **medizinisch notwendige Hei
 - [GOÄ – Ärztliche Gebührenordnung](https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/GOAe_20130901.pdf)
 - [dejure.org § 192 VVG](https://dejure.org/gesetze/VVG/192.html)
 - [PKV-Verband Leistungspflicht](https://www.pkv.de)
+

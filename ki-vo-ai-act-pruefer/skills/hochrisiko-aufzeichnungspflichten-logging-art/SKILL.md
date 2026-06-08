@@ -5,10 +5,6 @@ description: "Anbieter von Hochrisiko-KI fragt: Was muss unser System automatisc
 
 # Aufzeichnungspflichten und Logging — Art. 12 KI-VO
 
-## Zweck
-
-Art. 12 KI-VO verpflichtet Anbieter von Hochrisiko-KI-Systemen, sicherzustellen, dass das System automatisch Ereignisse protokolliert. Diese Logs dienen der Rückverfolgung, der Überwachung nach dem Inverkehrbringen und der Aufklärung von Vorfällen.
-
 ## Grundanforderung: Automatische Protokollierung (Art. 12 Abs. 1 KI-VO)
 
 Hochrisiko-KI-Systeme müssen automatisch Ereignisse protokollieren, die für die Kontrolle des Systembetriebs und die Ermittlung von Risiken nach dem Inverkehrbringen relevant sind.
@@ -75,9 +71,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -104,3 +97,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

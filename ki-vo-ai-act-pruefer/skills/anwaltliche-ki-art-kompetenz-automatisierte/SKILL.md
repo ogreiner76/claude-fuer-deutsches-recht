@@ -5,10 +5,6 @@ description: "Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, �
 
 # Anwaltliche KI-Nutzung und Quellencheck
 
-## Arbeitsbereich
-
-Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, § 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, DSGVO, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk für Kanzlei und Rechtsabteilung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -30,24 +26,6 @@ Der Skill verhindert, dass KI-generierte Texte mit erfundenen Fundstellen, fallf
 5. **Berufsrecht:** Keine bewusst unwahren Angaben, keine unsachliche Verzerrung, keine Quellenerfindung.
 6. **Geheimnis:** Keine Mandatsdaten in nicht freigegebene KI-Systeme.
 7. **Freigabe:** Menschliche juristische Endkontrolle dokumentieren.
-
-## Red-Team-Fragen
-
-- Gibt es Zitate, die zu schön klingen?
-- Passen Aktenzeichen, Datum und Rechtsgebiet zusammen?
-- Taucht dieselbe Entscheidung in einer offiziellen oder freien Datenbank auf?
-- Sind Textbausteine aus einem anderen Mandat sichtbar?
-- Hat die KI einen starken Vortrag erfunden, der nicht von der Akte getragen wird?
-
-## Output
-
-Erzeuge einen **KI-Nutzungsvermerk**:
-
-- verwendetes Tool und Zweck;
-- keine oder welche Mandatsdaten genutzt wurden;
-- geprüfte Quellenliste;
-- gestrichene unsichere Fundstellen;
-- verantwortliche Endfreigabe.
 
 ## Merksatz
 
@@ -81,3 +59,4 @@ KI darf die Arbeit beschleunigen. Sie darf nie die anwaltliche Verantwortung ers
 - KI-System-Klassifikation Art. 6 KI-VO: Risikoeinstufung vor Compliance-Pflichten pruefen.
 - Transparenz Art. 50 KI-VO erfasst auch Deepfakes; OLG Koeln 6 U 32/24 als Praxisbeispiel.
 - GPAI-Pflichten Art. 53-55 KI-VO ab August 2025; technische Dokumentation Annex XI vorhalten.
+

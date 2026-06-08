@@ -11,10 +11,6 @@ description: "GrESt im SPA vertraglich absichern: Tax Covenant, GrESt-Indemnity,
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Aufgabe
-
-Hilf beim Entwurf oder Review von GrESt-Klauseln in Unternehmenskaufverträgen. Der Skill ist für deutsche oder deutsch-englische M&A-Praxis gedacht.
-
 ## Klauselthemen
 
 - Wer trägt GrESt aus der Transaktion?
@@ -35,14 +31,6 @@ Hilf beim Entwurf oder Review von GrESt-Klauseln in Unternehmenskaufverträgen. 
 | keine Grundbesitzliste | Bemessung und Zuständigkeit unklar |
 | keine Streitkontrolle | Einspruchsfrist läuft beim falschen Team |
 | keine Doppelbesteuerungsklausel | Signing/Closing-Liquiditätsrisiko offen |
-
-## Output
-
-- Klauselkommentar in Deal-Sprache.
-- Tax Covenant-Vorschlag auf Deutsch oder Englisch.
-- Indemnity-Matrix.
-- Closing Deliverables.
-- Escrow- und Cooperation-Baustein.
 
 ## Stil
 
@@ -73,10 +61,3 @@ Empfehlung: Allgemeine Tax Indemnity für unbekannte Altrisiken + Specific Indem
 - "Käufer trägt alle Steuern aus der Transaktion" deckt Alt-GrESt nicht (keine "Transaktionssteuer"). Klare Cut-off-Klausel mit Datum nötig.
 - Grundbesitzliste fehlt oder ist nicht aktuell zum Closing-Datum; spätere Streitigkeiten über Bemessungsgrundlage und Belegenheitsfinanzamt.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -58,7 +58,3 @@ ist, ist das Mittel nicht erforderlich.
   nach Mehrheit erforderlich, abweichende Meinung Hassemer verneinte
   dies.
 
-## Output
-
-Tabelle der Alternativen: Alternative, Effektivitaet (gleich/geringer),
-Eingriffsschwere (milder/gleich), Erforderlichkeit (ja/nein).

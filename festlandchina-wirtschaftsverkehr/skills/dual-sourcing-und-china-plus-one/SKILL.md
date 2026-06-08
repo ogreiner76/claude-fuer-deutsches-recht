@@ -5,10 +5,6 @@ description: "Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-
 
 # Dual-Sourcing und China-Plus-One: Planung und Umsetzung
 
-## Arbeitsbereich
-
-Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Businessplan und Lieferantenvertragsgerüst. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,13 +77,6 @@ Folgende Gegenargumente sind im Mandantengespräch zu adressieren:
 - Investoren/Aufsichtsrat: Sind ESG- und Menschenrechts-Anforderungen berücksichtigt?
 - Compliance: Wurde auf Exportkontroll- und Sanktions-Risiken geprüft?
 
-## Output
-
-Dual-Sourcing-Businessplan, Alternativstandort-Bewertungsmatrix, LkSG-Checkliste für neue Lieferanten, Vertragsgerüst.
-
-Der Output ist als direktes Arbeitsprodukt nutzbar: Memo, Klausel, Checkliste oder Board-Paper.
-Unsicherheiten werden sichtbar gemacht; Live-Check-Bedarf wird markiert.
-
 ## Quellen
 
 Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht und Datum.
@@ -97,3 +86,4 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 - [EU Dual-Use VO 2021/821](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821)
 - [AWV Volltext](https://www.gesetze-im-internet.de/awv_2013/)
 - [BGB Volltext](https://www.gesetze-im-internet.de/bgb/)
+

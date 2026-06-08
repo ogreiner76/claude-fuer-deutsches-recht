@@ -5,10 +5,6 @@ description: "IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff d
 
 # Franchiserecht: IT-System, POS-Kassendaten und Datenzugriff
 
-## Arbeitsbereich
-
-IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff des Franchisegebers auf Echtzeitdaten, Dateneigentum, Datenschutz nach DSGVO, Systemausfallhaftung und Vertragsklauseln für Kassensoftware-Nutzungspflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein Franchisegeber verlangt Echtzeitzugriff auf die Kassendaten aller Franchisen
 - Kassendaten enthalten personenbezogene Kundendaten (Treueprogramm-IDs); kein AVV nach Art. 28 DSGVO abgeschlossen.
 - KassenSichV-Anforderungen nicht erfüllt; Steuernachforderungen bei Betriebsprüfung.
 
-## Output
-
-- IT-Zugangs- und Datenschutz-Compliance-Memo
-- Vertragsklausel für POS-Datenzugriff und Dateneigentum
-- Art.-26-DSGVO-Vereinbarung Muster
-- SLA-Empfehlung für IT-Systemverfügbarkeit
-
 ## Quellen
 
 - https://gesetze-im-internet.de/dsgvo/art_6.html
@@ -71,6 +60,7 @@ Ein Franchisegeber verlangt Echtzeitzugriff auf die Kassendaten aller Franchisen
 - https://dejure.org/gesetze/BGB/280.html
 - https://gesetze-im-internet.de/kassensichv/
 - https://gesetze-im-internet.de/dsgvo/art_28.html
+
 ## Vertiefung
 
 Die Digitalisierung hat den Informationsvorsprung des Franchisegebers in modernen Systemen erheblich verstärkt: Echtzeit-POS-Daten ermöglichen dem Franchisegeber eine lückenlose Überwachung jedes Standorts. Dies schafft einerseits Transparenz (Umsatz-Reporting), kann aber andererseits als Überwachungsinstrument eingesetzt werden, das über den legitimen Systemzweck hinausgeht.
@@ -84,7 +74,10 @@ Die KassenSichV (Kassensicherungsverordnung) schreibt seit dem 1. Januar 2020 vo
 - KassenSichV-Konformität (TSE-Einbau) in den Systemstandard und die Audit-Checkliste aufnehmen.
 - Dateneigentum (Transaktionsdaten) im Franchisevertrag explizit regeln; Übergabepflicht bei Vertragsende.
 - Haftung für IT-Systemausfall des Franchisegebers: SLA-Verletzung als Schadensersatz-Grundlage.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

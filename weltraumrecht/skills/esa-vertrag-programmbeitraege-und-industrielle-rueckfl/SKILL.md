@@ -5,10 +5,6 @@ description: "ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industriell
 
 # Weltraumrecht: ESA-Vertrag: Programmbeiträge und industrielle Rückflüsse
 
-## Arbeitsbereich
-
-ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -115,3 +111,4 @@ Das Rechtsgebiet berührt folgende Kernthemen: ESA-Programmbeiträge, Juste Reto
 - UNOOSA: https://www.unoosa.org/
 - BNetzA: https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/start.html
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
+

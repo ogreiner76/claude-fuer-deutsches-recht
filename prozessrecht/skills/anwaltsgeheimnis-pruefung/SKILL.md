@@ -56,6 +56,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 0: Anwendbares Recht bestimmen
@@ -103,21 +104,6 @@ Eintrag [N] ([Aktenzeichen/Belegnummer]): [✅ Geschützt | ✅ Geschützt + ⚠
 - Gleiche Frage wiederholt? (Z. B. dieselbe Drittpartei in 50 Einträgen — eine Entscheidung löst 50 Markierungen)
 - Überklassifizierungsmuster? (Wenn alles als geschützt gekennzeichnet wird, ohne Differenzierung — dem Anwalt zur Kenntnis bringen; aber die Entscheidung zur Einschränkung liegt beim Anwalt)
 - Unzureichende Beschreibungen? (So vage, dass ein Gericht eine In-Camera-Prüfung anordnen könnte)
-
-## Ausgabeformat
-
-### Vor der Vorlage an das Gericht oder die Gegenseite — Schranke
-
-Vor Einreichung einer Aufstellung vorzulegender/verweigernder Dokumente beim Gericht oder vor Übergabe an die Gegenseite:
-
-> Die Vorlage oder Verweigerung von Dokumenten hat rechtliche Folgen — unzureichende Verweigerungsbegründungen können zur Vorlageerzwingung führen; unberechtigte Zurückhaltung kann Kostennachteile auslösen; eine versehentlich offengelegte Unterlage ist möglicherweise nicht rückrufbar. Wurde dies mit einem Anwalt besprochen? Falls ja: bitte bestätigen. Falls nein, hier ist ein Briefing für das Gespräch:
->
-> [Zusammenfassung: Mandat, Anzahl geprüfter Dokumente, ⚠️-Markierungen und kritische Grenzfälle, Muster (Überklassifizierung, vage Beschreibungen), Normenlage je Schutztatbestand, was bei Vorlage schiefgehen kann.]
-
-Ohne ausdrückliche Bestätigung wird die Liste nicht als vorlagebereits behandelt. Erstprüfung, Sortierung und interne Markierung erfordern die Schranke nicht — der Umgang mit dem Gericht schon.
-
-```markdown
-[ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
 
 ## Vertraulichkeitsschutz-Erstprüfung: [Mandat] — [Datum]
 
@@ -183,3 +169,4 @@ Ohne ausdrückliche Bestätigung wird die Liste nicht als vorlagebereits behande
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

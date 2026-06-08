@@ -5,9 +5,6 @@ description: "Vergleichspraxis Interessen Verifizierter im Plugin Fachanwalt Arb
 
 # Vergleichspraxis Interessen Verifizierter
 
-## Arbeitsbereich
-
-**Vergleichspraxis Interessen Verifizierter** ordnet den Fall über die tragenden Prüfungslinien: Vergleichspraxis bei Mehrparteienkonstellationen und, Verifizierte Mandantenentscheidung, Setzt BAG 23.10.2025 - 8 AZR 300/24 in einen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Vergleichspraxis Interessen Verifizierter im Plugin Fachanwalt Arb
 - Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen`
@@ -38,9 +36,6 @@ description: "Vergleichspraxis Interessen Verifizierter im Plugin Fachanwalt Arb
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Strategische Begleitung bei Vergleichen mit mehreren Beteiligten oder komplexen Interessenlagen — insbesondere bei Restrukturierungen, Sozialplan-Verhandlungen und kollektivrechtlichen Einigungen mit individualrechtlichen Folgen.
 
 ## Einstieg
 Wenn eine Mehrparteien- oder komplexe Vergleichskonstellation vorliegt, zuerst klären:
@@ -123,11 +118,6 @@ In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich
 - `fachanwalt-arbeitsrecht-betriebsratsanhoerung` für BR-Rechte
 - `vergleichsverhandlung-strategie` für Verhandlungstaktik im Gütermin
 
-## Quellenregel
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link: [dejure.org](https://dejure.org), [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de).
-- Annahmen explizit kennzeichnen; keine erfundenen Sozialplan-Formeln.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Sozialplanberechnung ohne konkrete Belegschaftsdaten.
 - Keine Verhandlungsführung; Strategie-Entscheidung bleibt beim Anwalt.
@@ -145,9 +135,6 @@ In einem Interessenausgleich können die zu entlassenden Arbeitnehmer namentlich
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-Sicherstellung, dass der Mandant eine informierte, eigenverantwortliche Entscheidung trifft, bevor der Anwalt rechtsverbindliche Schritte unternimmt. Dieser Skill schützt vor Haftungsrisiken und stärkt die Vertrauensbasis.
 
 ## Einstieg
 Wenn eine wichtige rechtliche Entscheidung ansteht (Klageerhebung, Aufhebungsvertrag, Widerspruch), zuerst klären:
@@ -229,11 +216,6 @@ Wenn der Mandant eine Entscheidung treffen will, die nach Einschätzung des Anwa
 - `ar-aufhebungsvertrag-praxis` für Aufhebungsvertrags-Entscheidung
 - `ar-abfindungs-rechner-modular` für Abfindungsentscheidung
 
-## Quellenregel
-- Berufsrechtliche Grundlagen: BRAO, BORA — live prüfen auf [brak.de](https://www.brak.de).
-- Normtext live prüfen auf [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Annahmen explizit kennzeichnen.
-
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für die individuelle Mandantenberatung.
 - Keine Muster-Vollmacht oder Mandatsvertrag.
@@ -257,7 +239,3 @@ Art. 157 AEUV, RL 2006/54/EG, AGG §§ 1, 7, 15, 22, EntgTranspG §§ 3, 5, 7, B
 4. **Indizien und Exkulpation:** Arbeitgeber muss objektive, geschlechtsneutrale Gründe plausibel und belegbar darstellen; nachgeschobene, diffuse „Performance“-Erzählung red-teamen.
 5. **Datenstrategie:** Auskunft, Vergleichsgruppe, Entgeltmedian, HRIS-Auszug, Zielvereinbarungen, Performance Ratings, Budgetrunden und Ausnahmefreigaben sichern.
 
-## Output
-- `Claim Map`: Entgeltbestandteil / Vergleichsperson / Differenz / Norm / Indiz / Gegenargument / Beleg.
-- Entwurf Auskunfts-/Nachforderungsschreiben oder Verteidigungsmemo für Arbeitgeber.
-- Prozessrisikoampel mit Vergleichskorridor.

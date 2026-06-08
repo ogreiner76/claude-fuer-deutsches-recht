@@ -113,13 +113,6 @@ Fragen zum Einstieg:
 - **Audit während laufender Außenprüfung des Finanzamts**: Koordinierung erforderlich, um steuerliche Mitwirkungspflichten und Factor-Audit nicht zu kollidieren.
 - **Forensische Sonderprüfung**: Wenn Fraud-Verdacht besteht, kann ein Wirtschaftsprüfer mit forensischem Mandat eingesetzt werden; Beweissicherung dokumentieren.
 
-## Querverweise
-
-- `fraud-indikatoren-scheinforderungen-retouren-gutschriften`
-- `checkliste-forderungsdatenraum-factoring`
-- `b2b-lieferketten-forderungsbestand-und-reklamationsrisiko`
-- `dokumentenintake-forderungsportfolio`
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 242, 666 zu Auskunfts- und Rechenschaftspflichten.

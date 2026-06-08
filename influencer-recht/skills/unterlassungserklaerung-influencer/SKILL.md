@@ -5,10 +5,6 @@ description: "Influencer-Recht: Unterlassungserklärung prüfen und gestalten �
 
 # Influencer-Recht: Unterlassungserklärung prüfen
 
-## Arbeitsbereich
-
-Influencer-Recht: Unterlassungserklärung prüfen und gestalten – Reichweite, Vertragsstrafe, Modifikation und Folgen bei Verstoß. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -78,3 +74,4 @@ Die Unterlassungserklärung ist ein rechtlich bindender Vertrag mit erheblichen 
 - Modifizierter Gegenentwurf
 - Compliance-Protokoll nach Abgabe
 - Vertragsstrafe-Herabsetzungsantrag (Muster)
+

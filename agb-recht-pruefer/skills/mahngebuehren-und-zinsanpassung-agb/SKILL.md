@@ -37,7 +37,3 @@ description: "Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie 
 3. Transparenz?
 4. Verzugszins entsprechend § 288 BGB?
 
-## Output
-
-- Klauselentwurf.
-- Schriftsatzbaustein.

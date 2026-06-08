@@ -5,10 +5,6 @@ description: "Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzunge
 
 # Backlist Rights Gap Audit
 
-## Arbeitsbereich
-
-Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzungen, Bildrechte, digitale Rechte, US-Rechte und Registrierungsfähigkeit systematisch prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -22,10 +18,6 @@ Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzungen, Bildrechte,
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Aufgabe
-
-Prüfe ältere Titel vor der Registrierung auf Rechte-Lücken. Eine schnelle eCO-Anmeldung hilft wenig, wenn der Verlag die US-Rechte, Digitalrechte oder Bildrechte nicht sauber belegen kann.
-
 ## Prüfprogramm
 
 - Autorenvertrag und Nachträge: Gebiet, Sprache, digital, Print, Übersetzung, USA, Exklusivität.
@@ -33,14 +25,6 @@ Prüfe ältere Titel vor der Registrierung auf Rechte-Lücken. Eine schnelle eCO
 - Herausgeber-/Beiträgerrechte bei Sammelwerken.
 - Neuauflagen und Bearbeitungen: wer hat was geschaffen?
 - Rechteketten nach Verlagskauf, Verschmelzung, Insolvenz oder Backlist-Erwerb.
-
-## Output
-
-Eine Lückenliste mit Priorität: sofort registrierbar, Nachtrag einholen, Claim begrenzen, US-Counsel fragen, nicht anmelden.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
 
 ## Tiefencheck für die Akte
 
@@ -52,3 +36,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Ausgabe braucht der Mandant: Antragspaket, Clearance-Memo, Risikomatrix, Takedown, Lizenzklausel oder US-Counsel-Briefing?
 
 **Mindest-Output:** Arbeitsprodukt mit Claim Scope, Rechtekette, Risikomatrix, Evidenzlücken und nächstem US-Schritt.
+

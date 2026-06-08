@@ -5,10 +5,6 @@ description: "Prüft E-Discovery und Forensik im deutschen Rahmen im Hinweisgebe
 
 # E Discovery Forensik
 
-## Arbeitsbereich
-
-Prüft E-Discovery und Forensik im deutschen Rahmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -58,3 +54,4 @@ Erzeuge bevorzugt: Forensik-Suchplan. Wenn der Nutzer nur eine Kurzantwort möch
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

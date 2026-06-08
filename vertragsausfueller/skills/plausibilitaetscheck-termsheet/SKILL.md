@@ -5,10 +5,6 @@ description: "Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querve
 
 # Plausibilitätscheck
 
-## Arbeitsbereich
-
-Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querverweise und interne Widersprüche prüfen. Anwendungsfall ausgefüllter Vertragsentwurf soll vor Ausgabe auf Rechenfehler und Inkonsistenzen geprüft werden. §§ 305 ff. BGB Klausel-Konsistenz, § 550 BGB Schriftformhürde. Prüfraster Betraege Netto/Brutto konsistent, Fristen rechtlich zulässig, Anlagenverzeichnis vollständig, Parteidaten aktuell, Umsatzsteuer-Option konsistent. Output Plausibilitätsprotokoll mit Fehlerampel und Korrekturbedarf. Abgrenzung zu Quality-Gate für Gesamtprüfung und zu Clean-Output. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -34,13 +30,6 @@ Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querverweise und int
 - § 556 BGB — Betriebskosten Abrechnung (Jahresfrist)
 - § 288 BGB — Verzugszinsen (§ 288 Abs. 1: 5 Prozentpunkte B2C; § 288 Abs. 2: 9 Prozentpunkte B2B)
 - § 269 BGB — Leistungsort (relevant für Fristberechnung)
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Der Skill härtet den Entwurf vor Versand oder Verhandlung. Er arbeitet freistehend innerhalb des Vertragsausfüller-Plugins und setzt keine anderen Plugins voraus.
 
 ## Startet bei
 
@@ -76,3 +65,4 @@ Der Skill härtet den Entwurf vor Versand oder Verhandlung. Er arbeitet freisteh
 <!-- AUDIT 27.05.2026
 Bundle: bundle_047.json
 -->
+

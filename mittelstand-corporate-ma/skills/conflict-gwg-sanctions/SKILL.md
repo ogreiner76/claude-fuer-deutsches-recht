@@ -5,10 +5,6 @@ description: "Konflikt- GwG- und Sanktionscheck: Annahmeprüfung Corporate/M&A: 
 
 # Konflikt-, GwG- und Sanktionscheck
 
-## Arbeitsbereich
-
-Konflikt- GwG- und Sanktionscheck: Annahmeprüfung Corporate/M&A: Interessenkonflikte, wirtschaftlich Berechtigte, Sanktionen, PEP, Mittelherkunft, Sektorrisiken, BRAO 43a. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -28,9 +24,6 @@ Konflikt- GwG- und Sanktionscheck: Annahmeprüfung Corporate/M&A: Interessenkonf
 ## Fachkern: Konflikt-, GwG- und Sanktionscheck
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
-
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Regulatory, FDI, Fusionskontrolle, GwG und Kapitalmarkt-Compliance**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -116,10 +109,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Konflikt-, GwG- und Sanktionscheck
 
-## Zweck
-
-Fuehrt Annahme- und Begleitpruefung für Corporate/M&A-Mandate: Interessenkonflikte nach § 43a BRAO, wirtschaftlich Berechtigte nach GwG, Sanktionen nach AWG/EU-Verordnungen, PEP-Status, Mittelherkunft und Länder-/Sektorrisiken.
-
 ## Triage — klaere vor Mandatsannahme
 
 1. Sind alle Parteien (Kaeufer, Verkaeufer, Zielgesellschaft, Garantiegeber, Finanziers) und ihre wirtschaftlich Berechtigten identifiziert?
@@ -143,9 +132,6 @@ Fuehrt Annahme- und Begleitpruefung für Corporate/M&A-Mandate: Interessenkonfli
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Parteien-Screening:** alle Parteien inkl. wirtschaftlich Berechtigter (mind. 25 % Beteiligungsschwelle, § 3 GwG) identifizieren und in internem Conflicts-System abgleichen
@@ -219,3 +205,4 @@ Freigabe: [PARTNER] am [DATUM]
 
 - assets/templates/conflicts-gwg-sanctions-protokoll.md
 - assets/templates/sorgfaltspflichten-geldwaesche.md
+

@@ -59,14 +59,6 @@ Rechtliche Analyse des KI-Trainings mit Datenbankbeständen: §§ 44b und 60d Ur
 - § 60d UrhG gilt nur für originär wissenschaftliche Forschung, nicht für Forschungs-Spin-offs mit kommerziellem Fokus.
 - Das erzeugte KI-Modell kann Datenbankschutz der Quelldatenbank weitertragen, wenn Trainingsdaten direkt abrufbar sind.
 
-## Output
-
-- TDM-Compliance-Prüfbericht (kommerziell/wissenschaftlich, Opt-out-Status)
-- Opt-out-Implementierungsguide für Datenbankbetreiber (robots.txt, HTTP-Header)
-- Lizenz-Checkliste für Trainingsdaten-Beschaffung
-- Datenschutz-Kurzprüfung (DSGVO-Rechtsgrundlage für personenbezogene Trainingsdaten)
-- Vertragsmuster für KI-Trainingsdaten-Lizenz
-
 ## Quellen
 
 - [§ 44b UrhG TDM-Schranke — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)
@@ -75,3 +67,4 @@ Rechtliche Analyse des KI-Trainings mit Datenbankbeständen: §§ 44b und 60d Ur
 - [DSM-Richtlinie 2019/790 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)
 - [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
 - [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
+

@@ -5,17 +5,6 @@ description: "HOAI LPH 3 Entwurfsplanung: sucht Widersprüche, vergessene Beteil
 
 # LPH 3 Entwurfsplanung: Sucht widersprüche
 
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er prüft sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit im Kontext dieser Phase: stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung. Bewertungsanker für Gebäude/Innenräume: 15 %.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-3-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-3-Zweck: stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
 ## Ergebnis
 
 - LPH-3-Prüfmatrix
@@ -35,3 +24,4 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 - Praktischer Kern: stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung
 - Bewertungsanker Gebäude/Innenräume: 15 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
+

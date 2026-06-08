@@ -166,24 +166,7 @@ Geht — aber Achtung Praeklusion (§ 296 ZPO). Bestes Vorgehen: alles in die Kl
 - "Beweis: Akten der Gegenseite." → Nicht moeglich; Gericht kann nicht von sich aus Akten der Gegenseite einsehen. Antrag auf Urkundenvorlage § 142 ZPO.
 - "Beweis: Internet-Recherche." → Internet ist kein Beweismittel.
 
-## Querverweise
-
-- `klageschrift-tatsachenvortrag-strukturieren` — Sachvortrag.
-- `beweismittel-vorab-sammeln-checkliste` — Beweise sammeln.
-- `urkundenbeweis-415-ff-zpo` — Urkunden.
-- `zeugenbeweis-373-ff-zpo` — Zeugen.
-- `sachverstaendigenbeweis-402-zpo` — Sachverstaendiger.
-- `parteivernehmung-445-ff-zpo` — Parteivernehmung.
-- `beweislast-grundregel-wer-was` — Beweislast.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO-Beweisrecht unveraendert.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,10 +5,6 @@ description: "HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauübe
 
 # Sachverständigenfragen Zu Planungsfehlern
 
-## Arbeitsbereich
-
-HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauüberwachungsfehler, Kostensteuerung, Nachtrag, Mangelursache und LPH-Abgrenzung gerichtsfest formulieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauüberwachungsfehle
 - Tragende Normen verifizieren: HOAI §§ 1-13, 14-37 (Objektplanung), 38-52 (Flachbau, Ingenieurbauwerke), BGB §§ 631 ff., VOB/B — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einsatz
-
-Anwendungsfall: ein selbständiges Beweisverfahren, Privatgutachten, gerichtliches Gutachten oder anwaltlicher Beweisbeschluss vorbereitet wird.
 
 ## Norm- und Prozessanker
 
@@ -44,6 +36,3 @@ Anwendungsfall: ein selbständiges Beweisverfahren, Privatgutachten, gerichtlich
 - "War der festgestellte Feuchteschaden nach Lage, Verlauf und Materialbild eher auf eine fehlerhafte Detailplanung, eine Ausführungsabweichung oder spätere Nutzung/Wartung zurückzuführen?"
 - "Welche Kosten wären bei ursprünglich mangelfreier Planung ohnehin angefallen, und welche Mehrkosten beruhen erst auf der nachträglichen Sanierung?"
 
-## Output
-
-Fragenkatalog mit Thema, Beweistatsache, Unterlage, Zeuge, Gutachterdisziplin, Norm-/LPH-Bezug, Alternativursache, Kostenfolge und Risiko einer unzulässigen Rechtsfrage.

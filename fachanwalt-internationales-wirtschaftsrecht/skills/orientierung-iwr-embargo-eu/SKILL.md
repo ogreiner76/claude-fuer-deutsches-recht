@@ -5,9 +5,6 @@ description: "Orientierung IWR Embargo EU im Internationalen Wirtschaftsrecht: p
 
 # Orientierung IWR Embargo EU
 
-## Arbeitsbereich
-
-**Orientierung IWR Embargo EU** ordnet den Fall über die tragenden Prüfungslinien: Einstieg in den Skill-Verbund Internationales, Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO, EU-US Data Privacy Framework (DPF) seit 10.7.2023 als. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Orientierung IWR Embargo EU im Internationalen Wirtschaftsrecht: p
 - Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-internationales-wirtschaftsrecht-orientierung`
@@ -79,9 +77,6 @@ description: "Orientierung IWR Embargo EU im Internationalen Wirtschaftsrecht: p
 - ICSID Washington.
 - WTO Dispute Settlement Body.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - ARGE Internationales Wirtschaftsrecht DAV.
@@ -363,9 +358,6 @@ Mit freundlichen Gruessen
 - **§ 134 BGB** — Nichtigkeit des Rechtsgeschaefts bei Verstoß gegen gesetzliches Verbot
 - **§ 31 OWiG** — Verjährung der Verbandsgeldbuße; § 78 Abs. 3 Nr. 4 StGB — Strafverfolgungsverjährung 5 Jahre
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Sanktionsrechtliches Pruefungsmemo
 
 **Adressat:** Geschaftsfuehrung / Compliance-Abteilung des Mandanten
@@ -418,10 +410,6 @@ Abgelegt unter: [ARCHIVPFAD / AKTENZEICHEN]
 
 - **Spezialfrage (EU-US Data Privacy Framework — Folgen für Verträge):** EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. grenzüberschreitende Vertragsklauseln Updates.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
-
-## Zweck
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Eingaben
 
@@ -477,13 +465,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Schrems III anhängig | DPF könnte aufgehoben werden | Notfall-Plan | Multi-Cloud mit EU-Optionen |
 | Sub-Prozessor nicht DPF-zertifiziert | Kette unterbrochen | Prüfung Subprozessor | klare DPF-Kette |
 
-## Querverweise
-
-- `fachanwalt-internationales-wirtschaftsrecht-orientierung` — Triage
-- `fachanwalt-it-recht-saas-vertrag-verhandlung` — Vertragsverhandlung
-- `datenschutzrecht/skills/datenpanne-meldung` — bei Datenpanne mit US-Bezug
-- `aussenwirtschaft-zoll-sanktionen` — bei Sanktions-Bezug
-
 ## Quellen und Updates
 
 Stand: 05/2026. Angemessenheitsbeschluss (EU) 2023/1795 (10.7.2023). EO 14086. Schrems III anhängig — Stand prüfen. Bei DPF-Aufhebung dringend prüfen.
@@ -519,3 +500,4 @@ Datenkategorien: [PERSONENBEZOGENE DATEN: BESCHREIBUNG]
 Rechtsgrundlage: [DPF-Angemessenheit Art. 45 DSGVO / SCC Art. 46 DSGVO]
 Ergebnis: [ZULAESSIG / UNZULAESSIG / EINSCHRAENKUNG ERFORDERLICH]
 ```
+

@@ -53,10 +53,6 @@ description: "Identifiziert und dekonstruiert postfaktische Argumente in juristi
 - Der Gegenbeweis wird nicht angeboten, weil das Bestreiten als ausreichend erscheint.
 - Die Verletzung des rechtlichen Gehörs durch postfaktische Argumentation wird nicht als Verfahrensrüge formuliert.
 
-## Output
-
-Das Skill liefert eine postfaktische Argumentation-Dekonstruktion: Identifikation der unbelegten Behauptung, Belegpflichtprüfung, Tragfähigkeitsanalyse, Red-Team-Gegenbehauptung, prozessuale Konsequenz und Formulierungsvorschlag für den Einwand im Schriftsatz oder die Urteilsanmerkung. Direkt verwendbar in Verfahren.
-
 ## Vertiefung: Unterschied zwischen Beweisfrage und Rechtsfrage
 
 Postfaktische Argumente operieren oft an der Grenze zwischen Beweis- und Rechtsfrage: Wenn eine Behauptung als "allgemeinbekannt" oder "rechtlich anerkannt" ausgegeben wird, verschiebt sich die Last. Das Red-Team muss daher zunächst klären, ob die angegriffene Behauptung eine Tatsache (Beweis erforderlich) oder eine normative Wertung (Begründung erforderlich) ist. Erst dann kann die angemessene Gegenargumentation formuliert werden.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 103 GG – Rechtliches Gehör](https://dejure.org/gesetze/GG/103.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

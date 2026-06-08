@@ -157,14 +157,6 @@ Anlage zur Steuererklärung Sanierungsjahr:
 - Gewerbesteuer-Parallele § 10a S. 1 GewStG vergessen.
 - Verlustvortrag nach Antrag bzw. Sanierung im Folgejahr noch angesetzt — ist aber verbraucht.
 
-## Querverweise
-
-- `stb-sanierungsgewinn-verlustvortrag-sanity-check`
-- `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
-- `stb-sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust`
-- `stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel`
-- `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
-
 ## Quellen Stand 06/2026
 
 - § 3c Abs. 1, 4 EStG.
@@ -174,3 +166,4 @@ Anlage zur Steuererklärung Sanierungsjahr:
 - § 7b GewStG.
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung Stand prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+

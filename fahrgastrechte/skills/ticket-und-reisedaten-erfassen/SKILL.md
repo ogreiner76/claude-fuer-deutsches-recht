@@ -5,10 +5,6 @@ description: "Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestaetigu
 
 # Ticket- und Reisedaten erfassen
 
-## Zweck
-
-Sortiert die hochgeladenen Belege aus einer Bahn-Reise, extrahiert die anspruchsbegründenden Daten und legt eine strukturierte Fallakte als YAML an. Diese Akte ist Grundlage für `verspaetung-und-anschlussverlust-einordnen`, `entschaedigung-berechnen` und alle folgenden Schriftsatz-Skills.
-
 ## Eingaben
 
 Typische Belege:
@@ -154,6 +150,3 @@ Wenn die Bahnreise Teil einer Pauschalreise (Reiseveranstalter) ist, ergänzen s
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entsteh
 
 # Notariat und Grundbuchhistorie
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entstehung des Notariats im Mittelalter, deutsche Notariatsgeschichte, Beurkundungsgesetz 1969 und Grundbuchordnung im historischen Wandel. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Das Notariat hat mittelalterliche Wurzeln im kaiserlichen und paepstlichen Notar
 - BGB § 311b: gesetze-im-internet.de; historisch Mugdan Bd. III
 - Historische Notariatsakten: Landesarchive (Bestaende der Notariatsprotokolle)
 
-## Output
-
-- Notariatsformen im Vergleich: Hauptamt, Nebenamt, Rheinisches Modell
-- Beurkundungspflicht § 311b BGB: Voraussetzungen und Folgen bei Verstoss
-- GBO-Grundbuchsystem: Funktionsprinzipien und historische Entwicklung
-
-## Quellenregel
-
-BeurkG und GBO: gesetze-im-internet.de. BGB § 311b: gesetze-im-internet.de. BNotO: gesetze-im-internet.de. Historische Notariatsakten: Landesarchive.

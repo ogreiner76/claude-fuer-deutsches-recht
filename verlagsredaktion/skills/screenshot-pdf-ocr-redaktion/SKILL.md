@@ -5,10 +5,6 @@ description: "Fuehrt einen sauberen OCR-für gescannte PDFs und Screenshots zu r
 
 # Screenshot / PDF-OCR-Workflow
 
-## Arbeitsbereich
-
-Fuehrt einen sauberen OCR-für gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -89,14 +85,6 @@ Status: redaktionsreif nach Lektoratspruefung
 - Mandantendaten in Cloud-OCR ohne AVV.
 - Kein Audit-Log - im Streitfall nicht nachvollziehbar.
 
-## Querverweise
-
-- `verl-manuskript-merkwuerdige-formate-rettung` - allgemeine Format-Rettung.
-- `verl-handschrift-und-altdoc-digitalisieren` - bei handschriftlichen Vorlagen.
-- `workflow-dokumentenintake` - Intake-Workflow.
-- `quellen-zitate-fundstellencheck` - Pinpoint-Pruefung nach OCR.
-- `ai-einsatz-transparenz-datenschutz` - Datenschutz bei Tool-Einsatz.
-
 ## Quellen Stand 06/2026
 
 - BRAO § 43a Abs. 2 (Verschwiegenheit).
@@ -105,3 +93,4 @@ Status: redaktionsreif nach Lektoratspruefung
 - Tesseract OCR, [https://github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract).
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, zur Pinpoint-Disziplin.
+

@@ -169,22 +169,7 @@ Bei Selbstvertretung muss die Rechtsfolge nicht ueberkomplex sein — kurz und a
 - "Beweis steht nur unten als Liste." → Pro Tatsache direkt darunter Beweis-Angabe.
 - "Ich bestreite eigene Pflichten." → Sie als Klaeger muessen Ihre Tatsachen positiv vortragen.
 
-## Querverweise
-
-- `anspruchsgrundlage-finden-laienhilfe` — Anspruchsgrundlage.
-- `tatbestand-zerlegen-anspruchspruefung-laien` — Tatbestandsmerkmale identifizieren.
-- `klageschrift-beweisangebote-einbauen-373-zpo` — Beweismittel.
-- `klageschrift-pflichtbestandteile-253-zpo` — Gesamtaufbau.
-- `beweismittel-vorab-sammeln-checkliste` — Beweise sammeln.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. ZPO unveraendert. Praxis-Tipp.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

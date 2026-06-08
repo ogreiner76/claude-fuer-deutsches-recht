@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Fortschritts-Dashboard und nächste 
 
 # Dashboard und nächste Schritte im internationalen Handelsfall
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Fortschritts-Dashboard und nächste Schritte für komplexe internationale Handelsfälle. Meilensteintracking, offene Rechtsfragen, Informationslücken, Eskalationsstufen und Entscheidungsmatrix für das Fallmanagement. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,7 @@ Komplexe internationale Handelsfälle erfordern strukturiertes Case Management: 
 - Kosten-Nutzen-Analyse: Early Settlement-Angebot vs. Full Arbitration — Entscheidungsmodell
 - Dashboard-Aktualisierung: bei jedem neuen Ereignis (Zahlung, Brief, Schiedsantrag)
 
-## Output
-
-- Case-Management-Dashboard-Template
-- Fristkalender-Muster (internationaler Handelsfall)
-- ICC-Kostenrechner-Referenz (iccwbo.org/dispute-resolution/arbitration/costs)
-
 ## Quellenregel
 
 CISG Art. 39 Abs. 2: uncitral.un.org. ZPO § 1059: gesetze-im-internet.de. ICC Schiedskosten: iccwbo.org. NY Convention: newyorkconvention.org. Unsicherheit bleibt sichtbar.
+

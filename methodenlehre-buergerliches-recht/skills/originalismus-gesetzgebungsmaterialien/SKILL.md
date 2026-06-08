@@ -53,10 +53,6 @@ description: "Analysiert den deutschen Originalismus als Auslegungsansatz, der d
 - Primäre Quellen (Motive, Protokolle) werden selektiv zitiert, um das gewünschte Ergebnis zu stützen.
 - Der historische Wille kann widersprüchlich sein — diese Widersprüche werden nicht aufgelöst.
 
-## Output
-
-Das Skill liefert eine originalistische Auslegungsanalyse: Identifikation und Auswertung der primären Materialquellen, Extraktion des historischen Gesetzgeberwillens, Prüfung auf Zeitwandel und verfassungsrechtliche Kompatibilität sowie Formulierungsvorschlag für die originalistische Argumentation. Verwendbar in Schriftsätzen, Gutachten und methodologischen Beiträgen.
-
 ## Vertiefung: Komparativer Originalismus und seine Grenzen
 
 Ein komparativer Originalismus befragt nicht nur den deutschen, sondern auch den Gesetzgeberwillen anderer Rechtsordnungen, wenn es um Normen mit internationalem Kontext geht (UN-Kaufrecht, EU-Richtlinien). Hier ist der relevante historische Wille derjenige der internationalen Verhandlungsgemeinschaft, nicht allein des deutschen Gesetzgebers. Diese Besonderheit verlangt erweiterte Materialkunde.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [§ 2 EGBGB bei dejure](https://dejure.org/gesetze/EGBGB/2.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

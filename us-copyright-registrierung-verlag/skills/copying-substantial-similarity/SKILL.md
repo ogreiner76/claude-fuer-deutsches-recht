@@ -5,10 +5,6 @@ description: "Bereitet US-Infringement-Prüfung zu Zugang, tatsächlicher Kopie,
 
 # Copying und Substantial Similarity
 
-## Arbeitsbereich
-
-Bereitet US-Infringement-Prüfung zu Zugang, tatsächlicher Kopie, protectable expression und substantial similarity vor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,12 +17,6 @@ Bereitet US-Infringement-Prüfung zu Zugang, tatsächlicher Kopie, protectable e
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Zweck
-
-Das US-Copyright-Act-Plugin deckt Title 17 nicht nur als Registrierungsab, sondern als Praxiswerkzeug für Rechteinhaber, deutsche Verlage, Plattformen, Produzenten, Lizenznehmer und Prozessvorbereitung.
-
-Dieser Skill macht aus dem Thema **Copying und Substantial Similarity** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
 
 ## Code- und Quellenanker
 
@@ -48,12 +38,6 @@ Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über
 2. Access evidence sichern.
 3. Expert- und pleading-Fragen vorbereiten.
 
-## Output
-
-- Similarity matrix
-- Access evidence log
-- US-counsel briefing
-
 ## Tiefencheck für die Akte
 
 Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
@@ -72,3 +56,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 - Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
 - Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.
+

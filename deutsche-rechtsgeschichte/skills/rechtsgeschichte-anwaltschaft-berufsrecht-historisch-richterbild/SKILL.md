@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Ber
 
 # Anwaltschaft und Berufsrecht historisch
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Berufsrechts. Reichsanwaltsordnung 1878, BRAO 1959, Anwaltszulassung und freier Beruf als verfassungsrechtlich geschuetztes Gut. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Die Rechtsanwaltschaft als eigenstaendiger Beruf entstand mit der Rechtsvereinhe
 - BVerfGE: bverfg.de
 - BORA: Bundesrechtsanwaltskammer-Website (brak.de)
 
-## Output
-
-- Zeitleiste Anwaltschaft: RAO 1878 bis BRAO 2022
-- Singularzulassung: Geschichte und Ende
-- GG Art. 12 und Anwaltliches Berufsrecht: BVerfGE-Uebersicht
-
-## Quellenregel
-
-RAO 1878: RGBl. 1878, 177 via ALEX/OeNB. BRAO: gesetze-im-internet.de. BVerfGE: bverfg.de. BORA: brak.de.

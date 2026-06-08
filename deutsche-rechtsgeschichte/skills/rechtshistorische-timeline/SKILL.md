@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Rechtshistorische Timeline erstellen. M
 
 # Rechtshistorische Timeline
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Rechtshistorische Timeline erstellen. Methodik zur Erstellung einer chronologischen Darstellung mit Quellenangaben für ein konkretes rechtshistorisches Problem. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -67,12 +63,3 @@ Eine rechtshistorische Timeline stellt die Entwicklung eines Rechtsproblems, Rec
 - Jedes Element: Datum, Normbezeichnung, Fundstelle
 - Kritische Wendepunkte: Erklaerender Zusatz
 
-## Output
-
-- Timeline-Vorlage (tabellarisch: Datum, Ereignis, Fundstelle, Kommentar)
-- Beispiel-Timeline: Frauenwahlrecht in Deutschland 1848-1918
-- Methodenhinweis: Wann reicht eine Timeline, wann braucht man mehr?
-
-## Quellenregel
-
-Alle Timeline-Elemente mit Datum und Quellenangabe. Normtexte: ALEX/OeNB und gesetze-im-internet.de. Entscheidungen: bverfg.de, bgh.de. Kein Element ohne Fundstelle.

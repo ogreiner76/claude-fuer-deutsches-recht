@@ -5,10 +5,6 @@ description: "Verzeichnis von Verarbeitungstaetigkeiten in Konzern- und Multi-En
 
 # RoPA im Konzern und in Multi-Entity-Strukturen
 
-## Zweck
-
-Dieser Skill behandelt das Verzeichnis von Verarbeitungstaetigkeiten in Konzernen und mehrgliedrigen Unternehmensgruppen. Er klaert, dass es **kein Konzernprivileg** im Datenschutzrecht gibt, ordnet Rollenverteilung und Datenfluesse zwischen Gruppenunternehmen und liefert eine Struktur für Master-RoPA mit Entity-Anhaengen.
-
 ## Wann dieses Modul hilft
 
 - Konzernweiter RoPA-Roll-out (Mutter- und Tochtergesellschaften).
@@ -107,14 +103,6 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 - M&A: Datenschutz-DD ohne Sichtung des RoPA der Target-Gesellschaft.
 - Doppelte Pflege: Master-RoPA und Entity-RoPA divergieren; kein Versionsabgleich.
 
-## Querverweise
-
-- `ropa-art-30-dsgvo-grundlagen` für Basis.
-- `avv-konzern-und-multi-party-konstellation` für Vertragsseite.
-- `avv-art-26-joint-controllership-deutsch` für Joint Controllership.
-- `bcr-binding-corporate-rules` (falls Skill existiert) für BCR-Verfahren.
-- `tia-template-deutsch-vollvorlage` für Transferpruefung.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 4 Nr. 7, Art. 26, Art. 28, Art. 30, Art. 44–47, Erwaegungsgrund 48.
@@ -123,10 +111,3 @@ DE (Mutter) <--SCC--> BR (Tochter, kein Angemessenheitsbeschluss)
 - EDPB Working Document on Approval Procedure for BCR (zuletzt aktualisiert 2022).
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

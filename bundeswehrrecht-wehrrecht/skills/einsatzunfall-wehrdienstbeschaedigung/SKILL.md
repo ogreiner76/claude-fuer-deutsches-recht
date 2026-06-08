@@ -5,10 +5,6 @@ description: "Einsatzunfall Wehrdienstbeschädigung: prüft die einschlägigen V
 
 # Einsatzunfall und Wehrdienstbeschädigung
 
-## Arbeitsbereich
-
-Einsatzunfall Wehrdienstbeschädigung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,15 +88,6 @@ Der Einsatzunfall ist eine besonders qualifizierte Form der Wehrdienstbeschädig
 - Einmalige Entschädigung § 81e SVG nicht ausdrücklich beantragt.
 - GdS unter 50 v.H. akzeptiert, obwohl Folgeschäden den Wert erhöhen.
 
-## Querverweise
-
-- soldatenversorgungsgesetz-beschaedigtenversorgung
-- einsatz-unfall-versorgung-dokumentenplan
-- ptbs-einsatzfolge-beweisfuehrung
-- auslandseinsatz-mandat-einsatzregeln
-- aerztliche-begutachtung-dienstfaehigkeit
-- statusrechte-im-einsatz-urlaub-betreuung
-
 ## Quellen Stand 06/2026
 
 - SVG §§ 81, 81a, 81b, 81e – Volltext gesetze-im-internet.de.
@@ -108,3 +95,4 @@ Der Einsatzunfall ist eine besonders qualifizierte Form der Wehrdienstbeschädig
 - Bundestagsmandate – Drucksachen des Deutschen Bundestages, einsehbar bei bundestag.de.
 - Versorgungsmedizinische Grundsätze – BMAS.
 - BSG/BVerwG zu § 81a SVG – ständige Rechtsprechung; Az. nach Verifikation.
+

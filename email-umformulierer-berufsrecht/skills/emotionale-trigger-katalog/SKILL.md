@@ -28,9 +28,6 @@ Dieser Skill stellt ein strukturiertes Wörterbuch typischer emotionaler und uns
 - Art. 5 GG — Meinungsfreiheit: Schutz sachlicher Kritik, nicht von Schmahkritik
 - § 824 BGB — Kreditgefaehrdung durch unwahre Tatsachenbehauptungen
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Zweck und Anwendung
 
 Der Katalog dient als Nachschlagewerk beim Umformulieren konkreter Textpassagen. Er kann direkt auf markierte Textstellen angewendet werden: Eingabe des problematischen Ausdrucks, Ausgabe der neutralen Entsprechung mit kurzer Begründung. Der Fokus liegt auf anwaltlicher und steuerberaterlicher Korrespondenz, ist aber auch für allgemeine Geschäftskorrespondenz geeignet.
@@ -73,6 +70,3 @@ Typ A — Kompetenzabsprachen: Formulierungen, die dem Adressaten fachliche Fäh
 | "zum wiederholten Mal" (anklagend) | D | "wie bereits mit Schreiben vom TT.MM.JJJJ mitgeteilt" |
 | "ich verlange" | C | "ich bitte um" / "ich darf Sie auffordern" |
 
-## Ausgabeformat
-
-Der Skill gibt für jeden identifizierten Trigger aus: Originalformulierung, Trigger-Typ (A–E), neutrale Ersatzformulierung, optionaler Berufsrechts-Bezug bei besonders sensiblen Ausdrücken.

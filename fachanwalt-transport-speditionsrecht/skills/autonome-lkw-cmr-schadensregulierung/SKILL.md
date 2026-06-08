@@ -5,9 +5,6 @@ description: "Autonome LKW CMR Schadensregulierung im Plugin Fachanwalt Transpor
 
 # Autonome LKW CMR Schadensregulierung
 
-## Arbeitsbereich
-
-**Autonome LKW CMR Schadensregulierung** ordnet den Fall über die tragenden Prüfungslinien: Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren, Schadensregulierung im grenzüberschreitenden Gueterverkehr, Speditionshaftung nach HGB prüfen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Autonome LKW CMR Schadensregulierung im Plugin Fachanwalt Transpor
 - Tragende Normen verifizieren: §§ 407 ff. Frachtvertrag — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg`
@@ -313,10 +311,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### CMR-Schadensregulierung
 
-## Zweck
-
-Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen über den Beförderungsvertrag im internationalen Straßengueterverkehr).
-
 ## 1) Anwendbarkeit Art. 1 CMR
 
 - Straßentransport
@@ -437,10 +431,6 @@ ADSp-Aktualität: Die ADSp 2017 sind weiterhin Branchenstandard (keine ADSp 2025
 
 ### Speditions-Haftung §§ 453 ff. HGB
 
-## Zweck
-
-Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
-
 ## 1) Vertrags-Arten
 
 ### Vermittlungs-Spedition § 453 HGB
@@ -549,3 +539,4 @@ Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
 - § 3 ProdHaftG
 - § 1 PflVG
 - § 29 VwVfG
+

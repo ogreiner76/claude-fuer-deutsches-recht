@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie
 
 # Rechtspolitische Narrative pruefen
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Rechtspolitische Narrative sind verdichtete Erzaehlungen ueber die Bedeutung his
 - Gegenquellen suchen: Was widerspricht dem Narrativ?
 - Nuancierung: Kern des Narrativs beibehalten, Uebertreibungen korrigieren
 
-## Output
-
-- Narrativ-Pruef-Schema für rechtshistorische Argumente
-- Fallbeispiel: Bismarck-Sozialversicherungsnarrativ geprueft
-- Checkliste: Warnsignale für politisch aufgeladene Rechtsgeschichte
-
-## Quellenregel
-
-Quellen zum Narrativ immer separat pruefen. RGBl. 1883 ff.: ALEX/OeNB. GG: gesetze-im-internet.de. Radbruch 1946: SJZ 1946. Einigungsvertrag: BGBl. II 1990. Kein Narrativ ohne Quellentest.

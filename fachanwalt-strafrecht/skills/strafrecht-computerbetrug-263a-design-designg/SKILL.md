@@ -5,9 +5,6 @@ description: "Computerbetrug 263a Design Designg im Strafrecht: prüft konkret C
 
 # Computerbetrug 263a Design Designg
 
-## Arbeitsbereich
-
-**Computerbetrug 263a Design Designg** ordnet den Fall über die tragenden Prüfungslinien: Computerbetrug § 263a StGB, Strafvorschriften des Designgesetzes Paragraph 51 DesignG, Erpresserischer Menschenraub § 239a StGB und Geiselnahme §. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +27,7 @@ description: "Computerbetrug 263a Design Designg im Strafrecht: prüft konkret C
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-computerbetrug-263a-stgb`
@@ -118,14 +116,6 @@ Spezial-Mandat: Vorwurf Computerbetrug. Praxistypisch: Missbrauch Online-Banking
 
 "Eine Bereicherungsabsicht des Mandanten ist nicht ersichtlich. Der Mandant hat die Zugangsdaten weitergegeben in der Annahme, eine legitime Teilzahlungstransaktion zu unterstuetzen; eine eigene oder fremde Vermoegensvorteilerstrebung lag nicht vor. Der erforderliche direkte Vorsatz hinsichtlich der Bereicherung wird bestritten."
 
-## Querverweise
-
-- `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
-- `strafrecht-spezial-bandenbetrug-263-stgb`
-- `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `fachanwalt-strafrecht-akteneinsicht-beantragen`
-- `akteneinsicht-strafrecht-auswerten`
-
 ## Quellen Stand 06/2026
 
 - § 263a StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/__263a.html.
@@ -209,14 +199,6 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Anzahl verkaufter Stuecke, Umsatz, S
 **Schutzschrift-Snippet:** "Das streitgegenstaendliche Design DE 40 [12345] ist nicht schutzfaehig im Sinne von Paragraph 2 DesignG. Bereits vor der Anmeldung am DD.MM.JJJJ wurde ein identisches Design in der Publikation X (Anlage SS1, S 23) veroeffentlicht. Es wird Nichtigkeit beantragt. Hilfsweise: Das von meinem Mandanten gefertigte Erzeugnis erzeugt aus Sicht des informierten Benutzers einen abweichenden Gesamteindruck; charakteristische Merkmale (a, b, c) unterscheiden sich erkennbar (Anlage SS2 synoptische Gegenueberstellung)."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten eines Designers mit Schwerpunkt Y einzuholen zum Beweis der Tatsache, dass das streitgegenstaendliche Erzeugnis aus Sicht des informierten Benutzers einen anderen Gesamteindruck als das Design DE 40 [12345] erweckt und daher nicht in den Schutzbereich von Paragraph 38 Abs 2 DesignG faellt."
-
-## Querverweise
-
-- `strafrecht-spezial-markenrecht-143-markeng`
-- `strafrecht-spezial-patentrecht-142-patg`
-- `strafrecht-spezial-urheberrecht-106-urhg`
-- `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung`
 
 ## Quellen Stand 06/2026
 
@@ -320,13 +302,6 @@ Strafrahmen:
 **Antrag taetige Reue:**
 > Es wird die Anwendung des § 239a Abs. 4 StGB beantragt. Der Angeklagte hat das Opfer aus eigenem Antrieb freigelassen und auf die erstrebte Leistung verzichtet. Damit liegen die Voraussetzungen der taetigen Reue mit Strafrahmenverschiebung nach § 49 Abs. 1 StGB vor.
 
-## Querverweise
-
-- `strafrecht-spezial-raub-249-stgb` – Raub.
-- `strafrecht-spezial-schwerer-raub-250-stgb` – Qualifikation.
-- `strafrecht-spezial-noetigung-240-stgb` – Allgemeine Noetigung.
-- `strafrecht-spezial-bedrohung-241-stgb` – Bedrohung.
-
 ## Quellen Stand 06/2026
 
 - § 239a StGB erpresserischer Menschenraub (gesetze-im-internet.de).
@@ -423,14 +398,6 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen Z (eingetragener GF) zu erheben zum Beweis der Tatsache, dass mein Mandant ihn nur bei einzelnen Strategie-Fragen beraten hat, aber alle Geschaeftsentscheidungen und Aussenkommunikation von ihm selbst (Herrn Z) verantwortet wurden."
 
-## Querverweise
-
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-insolvenzverschleppung-15a-inso`
-- `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg`
-- `strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb`
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 14 StGB Handeln für andere im Wortlaut (gesetze-im-internet.de).
@@ -441,14 +408,6 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 - BGH staendige Rspr. zur strafrechtlichen Erfassung faktischer GF nach Paragraph 14 Abs 3 StGB.
 - BAG staendige Rspr. zur Arbeitnehmerstellung bei faktischer GF.
 - Paragraph 43 GmbHG Sorgfaltspflicht des GF (auch faktischer).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb`
 
@@ -540,11 +499,6 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer öffentlichen Behörde inne
 
 **Einlassungs-Snippet:** "Ich habe gegenueber dem Standesbeamten am DD.MM.JJJJ angegeben, dass ich am 12.05.1985 geboren wurde. Mein tatsaechliches Geburtsdatum laut Geburtsregister meines Heimatlandes lautet 12.05.1986. Ich habe dieses Datum erst spaeter durch Vergleich mit meiner Geburtsurkunde bemerkt. Eine vorsaetzliche Falschangabe lag nicht vor."
 
-## Querverweise
-
-- `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt`
-- `strafrecht-spezial-rechtsbeugung-339-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 348 StGB Falschbeurkundung im Amt im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -556,14 +510,6 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer öffentlichen Behörde inne
 - BGH staendige Rspr. zur Beweiskraft öffentlicher Urkunden im Strafrecht.
 - BGH-Linie zur Scheinehe und Aufenthaltserschleichung.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 6. `strafrecht-spezial-gefaehrliche-koerperverletzung-224-stgb`
 
@@ -646,14 +592,6 @@ In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches 
 
 **Plaedoyer-Snippet:**
 > Die Qualifikation nach § 224 Abs. 1 Nr. 5 StGB setzt eine konkret lebensgefaehrdende Behandlung voraus. Die Beweisaufnahme hat ergeben, dass das Wuergen nur sekundenkurz und ohne erkennbaren Erstickungseffekt erfolgt ist. Die konkrete Eignung zur Lebensgefaehrdung ist nicht zur Ueberzeugung des Gerichts nachgewiesen.
-
-## Querverweise
-
-- `strafrecht-spezial-koerperverletzung-223-stgb-grund` – Grundtatbestand.
-- `strafrecht-spezial-schwere-koerperverletzung-226-stgb` – Erfolgsqualifikation.
-- `strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb` – Erfolgsqualifikation.
-- `strafrecht-spezial-misshandlung-schutzbefohlener-225-stgb` – qualifizierte Form.
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` – TOA-Verfahren.
 
 ## Quellen Stand 06/2026
 
@@ -776,15 +714,6 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 
 "Es wird Antrag auf Anerkennung der taetigen Reue gemaess § 261 Abs. 9 StGB gestellt. Der Mandant hat am [Datum] vor Bekanntwerden der Ermittlungen der zuständigen Staatsanwaltschaft [Ort] eine umfassende Selbstanzeige erstattet (Anlage K-1) und gleichzeitig die Sicherstellung der noch verfuegbaren Vermoegenswerte in Hoehe von [Betrag] EUR bewirkt (Anlage K-2). Die Tat war zu diesem Zeitpunkt nicht ganz oder zum Teil entdeckt; die Strafbarkeit entfaellt."
 
-## Querverweise
-
-- `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
-- `strafrecht-spezial-bandenbetrug-263-stgb`
-- `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
-- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
-- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
-
 ## Quellen Stand 06/2026
 
 - § 261 StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/__261.html.
@@ -875,13 +804,6 @@ Strafrahmen Paragraph 23 Abs 1 GeschGehG: bis drei Jahre Freiheitsstrafe oder Ge
 
 **Hilfsbeweisantrag:** "Es wird beantragt, ein IT-forensisches Gutachten einzuholen zum Beweis der Tatsache, dass die streitgegenstaendliche Datei im Tatzeitraum ueber das offene WLAN der Mandantin von jedem Mitarbeiter abrufbar war und somit keine angemessenen Geheimhaltungsmassnahmen im Sinne von Paragraph 2 Nr 1 b) GeschGehG vorlagen."
 
-## Querverweise
-
-- `strafrecht-spezial-urheberrecht-108b-urhg-tpm`
-- `strafrecht-spezial-markenrecht-143-markeng`
-- `strafrecht-spezial-ip-strafrecht-verteidigung`
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 23 GeschGehG im Wortlaut (gesetze-im-internet.de).
@@ -966,14 +888,6 @@ Wieder: Eintritt der Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag.
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung des Liefer- und Zahlungskontoauszuges der Z-GmbH zu erheben zum Beweis der Tatsache, dass die am DD.MM.JJJJ ueberwiesenen EUR X aus einer Anfang des Monats faelligen, vertraglich vereinbarten Lieferung resultierten."
 
-## Querverweise
-
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-schuldnerbeguenstigung-283d-stgb`
-- `strafrecht-spezial-zahlungsverbot-15b-inso`
-- `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege`
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 283c StGB im Wortlaut (gesetze-im-internet.de).
@@ -982,14 +896,6 @@ Wieder: Eintritt der Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag.
 - Paragraph 39 Abs 1 Nr 5 InsO Nachrang Gesellschafterdarlehen.
 - BGH staendige Rspr. zur Beguenstigungsabsicht (direkter Vorsatz erforderlich, nicht Eventualvorsatz).
 - BGH staendige Rspr. zur Inkongruenz bei Zahlung vor Faelligkeit.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 10. `strafrecht-spezial-gmbh-unrichtige-darstellung-82-gmbhg`
 
@@ -1074,13 +980,6 @@ Vorsatz erforderlich, dolus eventualis genuegt. Bei Nr. 1 verlangt die Rspr. zus
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen Notar Y zu erheben zum Beweis der Tatsache, dass er meinen Mandanten vor der Anmeldung darueber aufgeklaert hat, die Stammeinlage gelte als wirksam eingezahlt."
 
-## Querverweise
-
-- `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg`
-- `strafrecht-spezial-faktische-geschaeftsfuehrer`
-- `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
-- `strafrecht-spezial-bankrott-283-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 82 GmbHG im Wortlaut (gesetze-im-internet.de).
@@ -1092,10 +991,3 @@ Vorsatz erforderlich, dolus eventualis genuegt. Bei Nr. 1 verlangt die Rspr. zus
 - Paragraph 331 HGB unrichtige Darstellung im Jahresabschluss.
 - BGH staendige Rspr. zur verdeckten Sacheinlage und Hin- und Herzahlen.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,9 +5,6 @@ description: "Besitzdogmatik Historische Daseinsvorsorge im Rechtstheorie und Re
 
 # Besitzdogmatik Historische Daseinsvorsorge
 
-## Arbeitsbereich
-
-**Besitzdogmatik Historische Daseinsvorsorge** ordnet den Fall über die tragenden Prüfungslinien: Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formal. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -40,6 +37,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `besitzdogmatik-historische-schule-und-systemdenken`
@@ -61,10 +59,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill nutzt Besitzrecht als rechtstheoretisches Testfeld. Besitz zeigt besonders klar, wie juristische Dogmatik aus Geschichte, Begriffen, Systembildung und praktischen Konflikten entsteht. Der Skill hilft, historische und systematische Argumente ernst zu nehmen, ohne aus römischem Recht, Tradition oder Professorenautorität eine Ersatzrechtsquelle zu machen.
-
 ## Sofort klären
 
 1. Geht es um Besitz, Eigentum, Herausgabe, verbotene Eigenmacht, Fund, Verwahrung, Ersitzung, Grenze, Zubehör, Teil eines Ganzen oder faktische Sachherrschaft?
@@ -85,29 +79,6 @@ Dieser Skill nutzt Besitzrecht als rechtstheoretisches Testfeld. Besitz zeigt be
 
 Historische Dogmatik kann Ordnung, Sprache und Vergleichsmaterial liefern. Sie wird problematisch, wenn sie so tut, als könne man moderne Fälle rein aus einem ursprünglichen Prinzip lösen. Gute Rechtsanwendung braucht beides: systematische Disziplin und Sinn für praktische Fallgruppen.
 
-## Red-Team-Fragen
-
-- Wird `Besitzwille` behauptet, obwohl das Verhalten nur faktische Kontrolle zeigt?
-- Wird `Sachherrschaft` verneint, weil ein alter Begriff zu eng verstanden wird?
-- Wird gemeinsamer oder gestufter Besitz ausgeschlossen, obwohl das geltende Recht ihn praktisch braucht?
-- Wird ein Teil einer Sache dogmatisch verschluckt, obwohl der Verkehr ihn getrennt behandelt?
-- Wird die historische Herkunft benutzt, um heutige Interessen unsichtbar zu machen?
-
-## Output
-
-Liefere eine Besitzdogmatik-Matrix:
-
-| Ebene | Prüfung |
-| --- | --- |
-| geltende Norm | ... |
-| dogmatischer Begriff | ... |
-| historischer Hintergrund | nur erläuternd |
-| praktische Funktion | ... |
-| Grenzfallrisiko | ... |
-| Ergebnis | ... |
-
-Schließe mit einem Satz, ob die historische Dogmatik das Ergebnis trägt, nur erklärt oder korrigiert werden muss.
-
 ## 2. `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck`
 
 **Fokus:** Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz.
@@ -126,10 +97,6 @@ Schließe mit einem Satz, ob die historische Dogmatik das Ergebnis trägt, nur e
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill nimmt ernst, dass moderne Verwaltung nicht nur verbietet, sondern Versorgung, Infrastruktur, Sicherheit, Gesundheit, Energie, Verkehr, Daten- und Krisenmanagement organisiert. Zugleich verhindert er, dass diese Aufgabenlogik Grundrechte, Kompetenzgrenzen und Rechtsschutz verdrängt.
 
 ## Sofort klären
 
@@ -161,17 +128,6 @@ Verwaltungsrealismus ist nützlich, solange er Wirklichkeit in Recht übersetzt.
 - Plattform- oder Datenzugang im öffentlichen Auftrag;
 - Krisenbeschaffung und Notfallverwaltung.
 
-## Output
-
-Gib eine Daseinsvorsorge-Prüfung mit:
-
-- Verwaltungsaufgabe;
-- Rechtsform;
-- Abhängigkeitslage;
-- Grundrechts- und Gleichheitsrisiken;
-- Kontrollweg;
-- Verbesserungsvorschlag, der Handlungsfähigkeit und Rechtsstaatlichkeit zugleich erhält.
-
 ## 3. `demokratie-gesetzgeber-gericht`
 
 **Fokus:** Prueft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen.
@@ -190,10 +146,6 @@ Gib eine Daseinsvorsorge-Prüfung mit:
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Aufgabe
-
-Dieser Skill macht Rechtstheorie praktisch. Er verwandelt abstrakte Begriffe in prüfbare juristische Entscheidungen: Welche Quelle bindet, welche Methode trägt, welche Institution darf entscheiden, welche Wertung bleibt offen?
 
 ## Sofort klären
 
@@ -232,15 +184,3 @@ Wenn eine Argumentation sagt, im Ernstfall müsse `jemand entscheiden`, fragt di
 
 Ohne diese Antworten ist es keine demokratische Letztentscheidung, sondern eine Selbstermächtigungsbehauptung.
 
-## Qualitätsregeln
-
-- Theorie ist kein Autoritätsersatz: Kein Name, keine Schule und kein Schlagwort ersetzt Subsumtion, Beleg und Rechtsquelle.
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-- Wenn ein Argument moralisch, politisch, ökonomisch oder empirisch ist, wird es so bezeichnet und erst danach rechtlich angeschlossen.
-- Das Ergebnis muss praktisch verwertbar bleiben.
-- Mehrheitswille, Volksnähe oder Regierungsverantwortung ersetzen nicht Norm, Verfahren, Minderheitenschutz und Rechtsschutz.
-
-## Output
-
-Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schriftsatzbaustein, Mandantenbrief, Gesetzgebungsnotiz oder Entscheidungsvorlage. Immer mit Gegenargument und Grenzen.

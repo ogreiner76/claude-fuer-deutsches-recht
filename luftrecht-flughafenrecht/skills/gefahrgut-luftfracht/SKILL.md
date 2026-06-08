@@ -5,10 +5,6 @@ description: "Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: f
 
 # Gefahrgut-Luftfracht – Klassifizierung, Compliance und Haftung
 
-## Arbeitsbereich
-
-Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Deklaration Versand verbotener Gueter oder Behördenuntersuchung. Prueft ICAO TI Doc 9284 IATA DGR LuftVG § 27 Gefahrgutbeauftragter und Strafbarkeit nach LuftVG § 58 und liefert Compliance-Check und Stellungnahme-Baustein. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,6 +40,7 @@ Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Dek
 - **LuftVG § 44**: Nationale Verweisung auf Montrealer Übereinkommen für innerdeutsche Flüge.
 - **EU-VO 300/2008 und DVO 2015/1998**: Sicherheitsanforderungen für Luftfracht; ACC3 und RA/KC-Status.
 - **HGB § 475**: Frachtführerhaftung subsidiär; nur soweit MÜ keine Regelung trifft.
+
 ## Prüfraster
 
 1. Ist Gut korrekt nach IATA DGR klassifiziert?
@@ -54,6 +51,7 @@ Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Dek
 6. Sind Schulungsnachweise aller Beteiligten aktuell?
 7. Ist Haftungsgrenze (22 SZR/kg) eingehalten oder Werterklärung im AWB vermerkt?
 8. Ist die Frachtkette lückenlos dokumentiert (AWB Sicherheitsdeklaration Manifest)?
+
 ## Typische Fallstricke
 
 - Lithium-Batterien nach falscher Verpackungsanweisung; schwerer Verstoß.
@@ -62,9 +60,7 @@ Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Dek
 - Bußgeldverfahren ohne anwaltliche Begleitung; falsche Aussagen.
 - Haftungsregime Montrealer Übereinkommen mit HGB-Recht vermischt; falsche Haftungssumme.
 - AWB fehlt oder unvollständig; Beweislastumkehr zulasten des Frachtführers.
-## Output
 
-Compliance-Check IATA DGR mit konkreter Sendung. Stellungnahme-Baustein für Behördenverfahren. Gefahrgutbeauftragten-Pflichtenübersicht. Haftungsanalyse nach MÜ. AWB-Prüfschema. Schadensmeldungs-Fristenübersicht.
 ## Quellen
 
 - ICAO Doc 9284: https://www.icao.int/safety/dangerousgoods/pages/technical-instructions.aspx
@@ -92,3 +88,4 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

@@ -5,10 +5,6 @@ description: "Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein hypothetische
 
 # SSNIP-Test — Anwendung
 
-## Arbeitsbereich
-
-Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein hypothetischer Monopolist profitabel Preise um 5 bis 10 Prozent erhoehen koennte. Wendet Small but Significant Non-transitory Increase in Price Hypothetischer-Monopolisten-Test an. Normen EU-Bekanntmachung Marktdefinition 2024 § 18 GWB Art. 102 AEUV FKVO 139/2004. Prüfraster kritische Verlustanalyse Cellophane-Fallacy-Risiko Datenbasis Preiselastizitaet. Output SSNIP-Test-Memo mit Marktdefinitions-Ergebnis und methodischer Bewertung. Abgrenzung: elastizitaeten-diversion-ratios für vertiefte oekonometrische Analyse. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -81,9 +77,6 @@ Leitfälle:
 - EK, Horizontal Merger Guidelines 2004, Rn. 18-21 — SSNIP-Test als primaere Methode; kritische Verlustanalyse; Cellophane Fallacy Einschraenkung.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Dokumentation
 
 ```
@@ -94,3 +87,4 @@ Tatsächlicher Verlust (Schätzung): [%]
 Ergebnis: [Markt bestätigt / Markt zu eng / Cellophane-Fallacy-Risiko]
 Begründung: [...]
 ```
+

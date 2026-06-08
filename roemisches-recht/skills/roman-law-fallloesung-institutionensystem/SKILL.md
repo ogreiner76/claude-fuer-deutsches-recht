@@ -5,10 +5,6 @@ description: "Römisches Recht: Falsche Freunde (false friends) zwischen römisc
 
 # Falsche Freunde zwischen römischem und modernem Recht
 
-## Arbeitsbereich
-
-Römisches Recht: Falsche Freunde (false friends) zwischen römischem Recht und modernem deutschem Recht - actio nicht = Klage im BGB-Sinne, possessio nicht = Besitz, culpa nicht = Fahrlässigkeit (vollständig). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -54,13 +50,3 @@ Viele lateinische Begriffe des röm. Rechts werden im modernen deutschen Recht s
 - Liebs Lateinische Rechtsregeln für Terminologie
 - Berger Encyclopedic Dictionary of Roman Law
 
-## Output
-
-- Tabelle: 20 wichtige false friends mit Erklärung
-- Memo: actio im röm. und mod. Recht
-- Memo: possessio vs. BGB-Besitz
-- Checkliste für Hausarbeiten und Gutachten
-
-## Quellenregel
-
-D. 44.7.3; D. 41.2 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Liebs. Berger.

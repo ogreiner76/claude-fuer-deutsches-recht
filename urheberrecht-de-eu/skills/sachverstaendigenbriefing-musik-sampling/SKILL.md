@@ -5,10 +5,6 @@ description: "Erstellt ein präzises Briefing für Musiksachverständige mit Pr�
 
 # Sachverständigenbriefing Musik
 
-## Arbeitsbereich
-
-Erstellt ein präzises Briefing für Musiksachverständige mit Prüfgegenstand, Audiofiles, Notation, Vergleichsparametern und Rechtsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -83,3 +79,4 @@ Konkret zu prüfen:
 - § 2 Abs. 1 Nr. 2 UrhG
 - § 73 UrhG (ausübende Künstler)
 - § 85 UrhG (Tonträgerhersteller)
+

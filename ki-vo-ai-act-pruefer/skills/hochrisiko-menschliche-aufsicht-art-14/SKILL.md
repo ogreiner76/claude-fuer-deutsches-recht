@@ -5,10 +5,6 @@ description: "Anbieter oder Betreiber fragt: Wie stellen wir sicher dass Mensche
 
 # Menschliche Aufsicht — Art. 14 KI-VO
 
-## Zweck
-
-Art. 14 KI-VO ist eine der zentralen Schutzvorschriften für Hochrisiko-KI-Systeme: Kein Hochrisiko-KI-System darf ohne die Möglichkeit menschlicher Aufsicht betrieben werden. Dies schließt nicht aus, dass das System weitgehend automatisiert arbeitet — aber es muss jederzeit die Möglichkeit geben, einzugreifen, zu korrigieren oder zu stoppen.
-
 ## Pflicht 1 — Systemseitige Maßnahmen zur menschlichen Aufsicht (Art. 14 Abs. 1 KI-VO)
 
 Anbieter müssen Hochrisiko-KI-Systeme so konzipieren, dass sie durch natürliche Personen wirksam beaufsichtigt werden können. Die Maßnahmen zur menschlichen Aufsicht müssen in das System integriert sein, bevor es in Verkehr gebracht oder in Betrieb genommen wird.
@@ -81,9 +77,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Art. 26 KI-VO — Betreiberpflichten
 - Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
 2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
@@ -110,3 +103,4 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
+

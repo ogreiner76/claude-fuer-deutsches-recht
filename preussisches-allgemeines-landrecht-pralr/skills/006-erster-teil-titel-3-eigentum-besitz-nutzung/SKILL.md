@@ -5,10 +5,6 @@ description: "PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung im Preußisches
 
 # PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung
 
-## Arbeitsbereich
-
-PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung. Arbeite entlang dieser konkr
 - Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Erster Teil Titel 3 Eigentum Besitz Nutzung** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
 ## Kaltstart in 6 Fragen
 
@@ -75,10 +67,3 @@ Eigentum, Besitz und Nutzung sind ueber mehrere Titel verteilt: Sachen (I 2), Ei
 3. Berechtigter und Verpflichteter durch Rechtsnachfolge bis heute belegbar?
 4. Live-Check der Eintragung und der landesrechtlichen Bereinigungsgesetze (z. B. Sachenrechtsbereinigungsgesetz Ostdeutschland 1994).
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

@@ -5,10 +5,6 @@ description: "Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeur
 
 # Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung
 
-## Arbeitsbereich
-
-Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung. Was remote vorbereitet werden darf, Grenzen der Fernkommunikation, zulässige digitale Zusammenarbeit und Terminvorbereitung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -98,3 +94,4 @@ Seit 2022: Unterschriftsbeglaubigung kann unter bestimmten Voraussetzungen onlin
 - **Mandantenmail** (Vorbereitung remote, Präsenztermin nötig)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+

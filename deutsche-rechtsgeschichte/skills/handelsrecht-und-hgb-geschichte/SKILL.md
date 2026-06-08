@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HG
 
 # Handelsrecht und HGB Geschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HGB. ADHGB 1861, Einheitsrecht im Kaiserreich, HGB 1897, Handelsstand, Handelsregister und Reformgeschichte des 20. Jahrhunderts. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Das deutsche Handelsrecht kodifizierte sich in zwei Schritten: Das Allgemeine De
 - Goldschmidt Handbuch des Handelsrechts (Bd. I, 1864): historische Sekundaerquelle
 - BGH-Handelsrechts-Rspr.: bgh.de
 
-## Output
-
-- Zeitleiste Handelsrecht: ADHGB 1861 bis HRefG 1998
-- Kaufmannsbegriff im Wandel: ADHGB vs. HGB 1897 vs. HGB 1998
-- HGB § 346 Handelsbrauch: Anwendungsvoraussetzungen und Beispiele
-
-## Quellenregel
-
-ADHGB: historische Edition. HGB: gesetze-im-internet.de. RGBl. 1897, 219: ALEX/OeNB. BGH-Rspr. Handelsrecht: bgh.de. BGBl. I 1998, 1474: gesetze-im-internet.de.

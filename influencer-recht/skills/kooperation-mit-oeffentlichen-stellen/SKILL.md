@@ -5,10 +5,6 @@ description: "Influencer-Recht: Kooperation mit Behörden und öffentlichen Stel
 
 # Influencer-Recht: Kooperation mit öffentlichen Stellen
 
-## Arbeitsbereich
-
-Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -76,3 +72,4 @@ Staatliche Institutionen als Auftraggeber für Creator unterliegen besonderen Re
 - Kennzeichnungskonzept (staatliche Kampagne)
 - Nutzungsrechte-Klausel (öffentlicher Auftraggeber)
 - Vertragsmuster öffentlicher Auftrag
+

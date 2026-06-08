@@ -58,9 +58,6 @@ Bei dynamischen Verweisen auf EU-Recht: Demokratieprinzip prüfen. Der nationale
 
 Art. 20 Abs. 3 GG (Bestimmtheitsgebot) — §§ 1-5 HdR (Normenklarheit, Verweisungs-Regeln) — § 307 BGB (Analogie: Zirkelschluss als Klarheits-Verstoß) — §§ 133, 157 BGB (Auslegungsgrundsaetze bei zirkulaeren Formulierungen)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Ausgabe
 
 Verweisgraf, Liste detektierter Schleifen, Vorschläge zur Entzerrung.
@@ -68,3 +65,4 @@ Verweisgraf, Liste detektierter Schleifen, Vorschläge zur Entzerrung.
 ## Anschluss
 
 `referentenentwurf-bauen`, dann `begruendung-allgemein-und-besonders`.
+

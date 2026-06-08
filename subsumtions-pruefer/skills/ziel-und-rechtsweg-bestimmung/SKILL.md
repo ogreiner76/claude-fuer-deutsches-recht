@@ -5,10 +5,6 @@ description: "Ermittelt interaktiv das Nutzerziel (Anspruchsdurchsetzung, Abwehr
 
 # Ziel- und Rechtsweg-Bestimmung
 
-## Arbeitsbereich
-
-Ermittelt interaktiv das Nutzerziel (Anspruchsdurchsetzung, Abwehr, Antrag, Beschwerde, Strafverfolgung, Verwaltungsakt-Anfechtung) und leitet daraus den einschlaegigen Rechtsweg ab: ZPO, VwGO, SGG, FGO, StPO, FamFG. Warnt bei Zweifelsfaellen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Ermittelt interaktiv das Nutzerziel (Anspruchsdurchsetzung, Abwehr, Antrag, Besc
 3. Ist Behördenbeteiligung erkennbar? → Öffentliches Recht prüfen
 4. Besteht Dringlichkeit? → Eilverfahren parallel skizzieren
 5. Wurde ein Vorverfahren (Widerspruch, Einspruch) bereits durchgeführt?
-
-## Zweck
-
-Das Ziel bestimmt den Rechtsweg, die Verfahrensart, die Klageart und letztlich die einschlägigen Normen. Dieser Skill erfasst das Ziel strukturiert und gibt einen ersten Rechtsweg-Hinweis.
 
 ## Zentrale Normen zur Rechtswegsbestimmung
 
@@ -106,3 +98,4 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
 - Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 - Normtext live prüfen: gesetze-im-internet.de (GVG §§ 13, 17, 17a; VwGO §§ 40, 70, 74; SGG § 51; FGO § 33; ArbGG § 2; KSchG § 4; BVerfGG § 90; ZPO §§ 935, 940, 1025 ff.).
+

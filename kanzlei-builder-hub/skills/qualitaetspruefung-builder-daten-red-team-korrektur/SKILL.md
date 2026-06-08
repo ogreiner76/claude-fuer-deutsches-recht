@@ -5,10 +5,6 @@ description: "Qualitaet installierter Skills prüfen: Normaktualitaet, Descripti
 
 # Skills-QA
 
-## Arbeitsbereich
-
-Qualitaet installierter Skills prüfen: Normaktualitaet, Description-Qualitaet, Struktur-Compliance. Normen: technisch/intern, SKILL.md-Schema. Prüfraster: Description-Laenge, Normverankerung, Frontmatter-Vollständigkeit. Output: Qualitaetsprüfungs-Bericht Skills. Abgrenzung: nicht inhaltliche Rechtsprüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,18 +12,6 @@ Qualitaet installierter Skills prüfen: Normaktualitaet, Description-Qualitaet, 
 - Tragende Normen verifizieren: BRAO §§ 5, 7, 14, 27, 43 ff., 49b, 51 (Berufshaftpflicht), BORA, FAO, RVG §§ 1 ff., GwG §§ 2, 10, 11, 43 (Kanzlei als Verpflichteter), DSGVO, beA-Bedingungen, Steuerrecht (EStG, UStG, GewStG) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Kanzleigründer, Kammer, BRAK, Versicherer (Berufshaftpflicht), Mandant, Steuerberater, IT-Dienstleister (beA, RA-MICRO/AnNoText).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Kanzleihandbuch, Datenschutz-Konzept, Geldwäsche-Risikoanalyse, Mandatsvertrag, Honorarvereinbarung, Versicherungspolice, Sozietätsvertrag, beA-Konfiguration — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Jeder kann einen Skill bauen. Diese Prüfung klärt, ob er gut gebaut wurde, bevor er Kanzlei-Arbeitsabläufe berührt.
-
-Der Skill bewertet jeden Kanzlei-Skill gegen das Kanzlei-Skill-Design-Rahmenwerk: **dreizehn Entwurfsparameter** (die ersten neun sind inhaltliche Gestaltung; der zehnte ist die Vertrauensoberfläche — Ausführungsberechtigungen und Injection-Risiko des Skills; der elfte ist Aktualität — ob gebearbeitete Referenzinhalte aktuell sind; der zwölfte ist Schema — ob die SKILL.md die Struktur eines gut gebauten Skills hat; der dreizehnte sind Konflikte — ob der Skill bereits installierte Skills überlagert oder widerspricht), **drei rechtsspezifische Fehlermodi** sowie ein klares Urteil. Gilt für Community-Skills aus Registries und Erstanbieter-Skills, die das Kanzleiteam entwickelt oder einsetzt.
-
-Die Qualitätsprüfung ist zugleich Pflicht nach dem Berufsrecht: § 43a BRAO und die BRAK-Stellungnahme zum KI-Einsatz verlangen, dass KI-generierte Rechtsdienstleistungsprodukte auf Plausibilität geprüft werden, bevor sie in der Mandatsarbeit verwendet werden. AI Act Art. 26 (Deployer-Pflichten bei Hochrisiko-KI) ergänzt diese Anforderung um systematische Qualitätssicherungsmaßnahmen.
-
-Lädt automatisch als Teil von `/kanzlei-builder-hub:skill-installierer`. Kann auch eigenständig auf jeden Skill angewendet werden.
-
----
 
 ## Eingaben
 
@@ -198,9 +182,6 @@ Der heuristische Scan hat Belege für Datenexfiltration, Zugangsdatendiebstahl, 
 
 ---
 
-## Ausgabeformat
-
-```
 ## Skills-QA — [skill-name]
 Quelle: [Community-Registry / Erstanbieter]
 Bewertet: [Datum]
@@ -294,3 +275,4 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

@@ -16,10 +16,6 @@ description: "Prueft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streit
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Aufgabe
-
-Dieser Skill fragt bei Besitz- und Eigentumsargumenten: Welche reale Konfliktlage entscheidet das Recht? Er ergänzt Begriffsarbeit um Rechtsrealismus, ohne in bloße Bauchgefühl-Jurisprudenz zu kippen. Praktische Bedürfnisse müssen konkret benannt werden: Wer handelt wie, welche Beweise gibt es, welche Regel senkt Konflikte, welche Regel erzeugt Fehlanreize?
-
 ## Sofort klären
 
 1. Wer hat faktische Kontrolle über die Sache?
@@ -65,18 +61,6 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `Art. 47 GRCh` — wirksamer Rechtsbehelf.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-Gib ein rechtsrealistisches Besitzmemo aus:
-
-1. tatsächliche Kontrolle;
-2. behaupteter Besitzwille oder Ausschlusswille;
-3. Konflikt- und Friedensfunktion;
-4. Beweislage;
-5. handhabbare Entscheidungsregel;
-6. dogmatischer Anschluss;
-7. Ergebnis mit stärkstem Gegenargument.
 
 ## Normen und Rechtsprechung
 

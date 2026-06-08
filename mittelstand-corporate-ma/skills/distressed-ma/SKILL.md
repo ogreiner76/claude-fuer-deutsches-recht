@@ -29,9 +29,6 @@ Distressed M&A: Unternehmenskauf in Krise, vorläufiger Insolvenz, StaRUG, Insol
 - **Normen-/Quellenanker:** GmbHG, HGB, BGB, UmwG, WpÜG/GWB/AWG je nach Transaktion, Satzung, Geschäftsordnung, Gesellschafterbeschluss und Beiratsordnung.
 - **Entscheidende Weiche:** Trenne Dealstruktur, Organbeschluss, Zustimmungsvorbehalt, Informationsrecht, Haftung, Interessenkonflikt und Vollzugsdokument.
 
-## Zweck
-Dieser Skill führt ein Mittelstands-Corporate/M&A-Mandat durch den Arbeitsbereich **Distressed M&A, StaRUG/Insolvenz, Liquidität und steuerliche Strukturfolgen**. Er macht aus unvollständigen Unternehmerunterlagen einen belastbaren Deal-Befund, trennt gesicherte Tatsachen von Annahmen und übersetzt juristische Risiken in einen nächsten praktischen Schritt. Adressaten sind Partner, Counsel, Associates, Steuerberater, Inhouse-Verantwortliche und Unternehmer in mittelständischen Transaktionen.
-
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
 - "Ich habe hier Distressed M&A und brauche einen belastbaren nächsten Schritt."
@@ -114,10 +111,6 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ### Distressed M&A
 
-## Zweck
-
-Fuehrt Unternehmenskauf in Krise, vorlaeufliger Insolvenz, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz. Liquiditaetsvorschau, Insolvenzreifecheck und CP-Kalender sind intern verfuegbar.
-
 ## Triage — klaere vor Strukturentscheidung
 
 1. Welcher Krisenstatus besteht — drohende Zahlungsunfaehigkeit (§ 18 InsO), Zahlungsunfaehigkeit (§ 17 InsO) oder Ueberschuldung (§ 19 InsO)?
@@ -142,9 +135,6 @@ Fuehrt Unternehmenskauf in Krise, vorlaeufliger Insolvenz, StaRUG, Insolvenzplan
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Schritt-für-Schritt-Workflow
 
 1. **Krisencheck:** Insolvenztatbestand (§§ 17-19 InsO) bestimmen; Antragspflicht (§ 15a InsO) und Fristen pruefen; Liquiditaetsvorschau anfordern
@@ -220,3 +210,4 @@ OFFENE PUNKTE: [TODO Owner Datum]
 - assets/templates/distressed-ma-liquiditaetsampel.md
 - assets/templates/insolvenzplan-ma-checklist.md
 - assets/templates/cash-bridge-13-wochen.md
+

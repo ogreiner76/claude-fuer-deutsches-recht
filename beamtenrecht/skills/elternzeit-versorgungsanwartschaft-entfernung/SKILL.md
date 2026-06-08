@@ -5,10 +5,6 @@ description: "Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versor
 
 # Elternzeit — Auswirkungen auf Versorgungsanwartschaft
 
-## Arbeitsbereich
-
-Skill zur Elternzeit der Beamten und ihren Auswirkungen auf Versorgungsanwartschaft Stufenaufstieg und Beihilfeberechtigung. Klaert die Beruecksichtigung der Kindererziehungszeiten im Ruhegehalt die Frage des ruhegehaltfaehigen Charakters der Elternzeit das Verhaeltnis zu Teilzeit-Elternzeit und dem Erziehungsurlaub bei Versorgungsausgleich nach Scheidung. Behandelt typische Konstellationen lange Elternzeit gestaffelt nach Kindern Teilzeitruckkehr Wiederaufnahme. Liefert Pruefraster und Antragsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -67,3 +63,4 @@ Skill für Beamte, die Elternzeit nehmen oder genommen haben und die Auswirkunge
 ## 7. Beispiel (Kurzfassung)
 
 Mandantin Beamtin A12, drei Kinder, je drei Jahre Elternzeit. Skill liefert Berechnung der ruhegehaltfaehigen Zeiten und Hinweise auf Kindererziehungszuschlag.
+

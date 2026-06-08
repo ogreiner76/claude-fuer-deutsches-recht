@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Strafprozessgeschichte. Inquisitionspro
 
 # Strafprozessgeschichte
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Strafprozessgeschichte. Inquisitionsprozess, Akkusationsprozess, StPO 1877, NS-Strafprozessrecht und StPO-Reformen bis zur Reform 2021. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Der Strafprozess hat sich von der Inquisition (Ex-officio-Prozess, Folter, Gehei
 - StPO aktuell: gesetze-im-internet.de
 - BVerfGE zum Strafprozessrecht: bverfg.de
 
-## Output
-
-- Zeitleiste Strafprozess: CCC 1532 bis StPO 2021
-- Inquisitions- vs. Akkusationsprozess: Systemvergleich
-- NS-StPO-Reform 1935: Kernpunkte der Veraenderung
-
-## Quellenregel
-
-CCC 1532: historische Edition. StPO 1877: ALEX/OeNB. StPO aktuell: gesetze-im-internet.de. NS-StPO-Aenderung 1935: ALEX/OeNB. BVerfGE: bverfg.de.

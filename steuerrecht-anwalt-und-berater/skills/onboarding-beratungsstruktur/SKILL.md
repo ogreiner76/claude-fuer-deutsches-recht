@@ -37,10 +37,6 @@ description: "Methodisches Pruefungsschema für jedes steuerliche Mandat — vom
 
 §§ 38 ff. AO (Steueranspruch) · § 88 AO · § 90 AO · § 162 AO · § 4 AO · Art. 20 Abs. 3 GG (Gesetzmaessigkeit) · § 4 EStG / § 5 EStG (Gewinnermittlung als Beispielnorm)
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Verwaltungsanweisungen (BMF-Schreiben, OFD-Verfuegungen, AEAO, UStAE, EStR, KStR) ausschliesslich nach Verifikation aus bundesfinanzministerium.de oder offiziellen Amtsblaettern zitieren.
-
 ## Sechs-Schritt-Pruefraster
 
 1. **Sachverhalt** vollstaendig und chronologisch (wer, wann, was, wieviel, warum).
@@ -55,3 +51,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
+

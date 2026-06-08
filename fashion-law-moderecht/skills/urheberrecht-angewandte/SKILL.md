@@ -5,10 +5,6 @@ description: "Urheberrecht Angewandte im Fashion Law (Moderecht) im Fashion Law 
 
 # Urheberrecht Angewandte
 
-## Arbeitsbereich
-
-**Urheberrecht Angewandte** priorisiert Aktenlage, Fristen, Zuständigkeit, Beweislast und gewünschten Output. Die Prüfung beginnt bei der sachtragenden Prüfungslinie und endet mit einem verwertbaren Arbeitsergebnis.
-
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -22,6 +18,7 @@ description: "Urheberrecht Angewandte im Fashion Law (Moderecht) im Fashion Law 
 - Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `urheberrecht-angewandte-kunst`
@@ -34,10 +31,6 @@ description: "Urheberrecht Angewandte im Fashion Law (Moderecht) im Fashion Law 
 
 Kreative Modeleistung soll gegen Kopie geschützt werden.
 
-## Arbeitsweise
-
-Prüfe nicht nur Geschmack, sondern konkrete kreative Entscheidungen und Entstehungsbelege.
-
 ## Prüfpunkte
 
 - Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
@@ -45,13 +38,10 @@ Prüfe nicht nur Geschmack, sondern konkrete kreative Entscheidungen und Entsteh
 - Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
 - Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
 
-## Output
-
-Urheberrechts-Risikomemo.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

@@ -133,14 +133,9 @@ Regelbeispiele bei besonders schwerem Fall der Noetigung.
 - **Doppelverwertung**: Regelbeispiel-Begruendung wird in § 46 StGB nochmals strafschaerfend angefuehrt.
 - **Verteidigung** uebersieht, dass die Indizwirkung mehrstufig entkraeftet werden kann (auch bei nachgewiesenem Regelbeispiel).
 
-## Querverweise
-
-- `minder-schwerer-fall-und-besonders-schwerer-fall` — Mutternorm.
-- `strafrahmen-und-strafzumessungsstufen` — Pruefungsreihenfolge.
-- `paragraph-46-stgb-grundsatz-strafzumessung` — Doppelverwertungsverbot.
-
 ## Quellen und Stand 05/2026
 
 - §§ 243, 263, 267, 218, 253, 264, 266, 271, 335 StGB in der geltenden Fassung.
 - BGH-Linie zu Gewerbsmaessigkeit, Bande, Vermoegensverlust grossen Ausmasses — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

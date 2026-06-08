@@ -5,10 +5,6 @@ description: "Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseff
 
 # Cap-Table Update – Pre-Money und Post-Money
 
-## Arbeitsbereich
-
-Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Prüfraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill erstellt die Pre-Money-Cap-Table (vor Wandlung und Kapitalerhöhung) und die Post-Money-Cap-Table (nach Wandlung und Kapitalerhöhung der neuen Investoren) und quantifiziert die Verwässerung der Altgesellschafterinnen. Phase C des Lebenszyklus.
 
 ## Eingaben
 
@@ -39,26 +31,6 @@ Dieser Skill erstellt die Pre-Money-Cap-Table (vor Wandlung und Kapitalerhöhung
 
 ### Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Vorgehen
-
-### 1. Pre-Money-Cap-Table erstellen
-Alle aktuellen Gesellschafterinnen mit Anteilszahl, Nennwert (EUR) und Prozentanteil. Stammkapital gesamt = Summe aller Nennwerte. Vollverwässert: plus ESOP-Optionen (als eigene Zeile).
-
-### 2. Wandlungsanteile des Lenders einrechnen
-Neue Anteile Lender (aus `wandlungspreis-berechnung`). Post-Wandlung (vor Seed-Investoren): Anteile der Gesellschafterinnen unveränderter Absolutwert, aber neuer Prozentanteil nach Verwässerung durch Lender.
-
-### 3. Kapitalerhöhung neue Seed-Investoren einrechnen
-Neue Investoren: Investitionsbetrag / Rundenpreis = neue Anteile. Stammkapital nach Kapitalerhöhung = Stammkapital alt + neue Anteile Lender + neue Anteile Investoren.
-
-### 4. Post-Money-Cap-Table vollständig aufstellen
-Alle Gesellschafter mit Anteilszahl und Prozent nach Kapitalerhöhung. Verwässerungseffekt auf Altgesellschafterinnen quantifizieren: Prozentverlust = Altanteil(vor) − Altanteil(nach).
-
-### 5. Verwässerungsdarstellung
-Tabelle: Gesellschafterin / Anteile vor / Prozent vor / Anteile nach / Prozent nach / Verwässerung in Prozentpunkten.
-
-### 6. Excel-Datei und Dokumentation
-Cap-Table als Excel-Datei mit zwei Tabellenblättern (Pre-Money und Post-Money). Formatierung: Summenzeile, Prozentwerte als Dezimalzahl mit zwei Nachkommastellen.
 
 ## Beispiel Pre-Money-Cap-Table (Sonnenglas UG)
 
@@ -94,12 +66,6 @@ Verwässerung Schöneck: 40 % → 29.63 % = −10.37 Prozentpunkte
 | Stammkapital-Erhöhung nicht ins HR eingetragen | Gesellschafterliste veraltet | Eintragung beantragt | Eingetragen |
 | Alte Gesellschafterliste verwendet | Altdaten | Teils aktuell | Aktuelle Liste gem. § 40 GmbHG |
 
-## Querverweise
-
-- `wandeldarlehen-lebenszyklus/skills/wandlungspreis-berechnung/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterliste-aktualisieren/SKILL.md`
-- `wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-kapitalerhoehung/SKILL.md`
-
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG § 40 aktualisieren.
@@ -115,3 +81,4 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### Normen-Ergänzung
 
 § 40 GmbHG (Gesellschafterliste, unverzügliche Aktualisierung nach Wandlung) → § 15 GmbHG (Abtretung Anteile) → § 17 GmbHG (Mehrfachabtretung) → § 16 GmbHG (Gesellschafterstellung, Legitimationswirkung Liste) → § 55 GmbHG (Kapitalerhöhungsbeschluss, neue Anteile)
+

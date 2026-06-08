@@ -5,9 +5,6 @@ description: "Vollstreckungsklausel ZPO Papierform im Selbstvertretung am Amtsge
 
 # Vollstreckungsklausel ZPO Papierform
 
-## Arbeitsbereich
-
-**Vollstreckungsklausel ZPO Papierform** ordnet den Fall über die tragenden Prüfungslinien: Vollstreckungsklausel nach § 724 ZPO, Einreichung der Klage in Papierform, Anlagen K1 K2 K3 richtig formatieren für Klage. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Vollstreckungsklausel ZPO Papierform im Selbstvertretung am Amtsge
 - Tragende Normen verifizieren: ZPO §§ 78, 79, 129, 253, 495a, 511, 517, GVG §§ 23, 71, SGG §§ 73, 78, 87, 90, 144, 160; §23 GVG; §511 ZPO-Grenzen, Klage — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `vollstreckungsklausel-724-zpo`
@@ -146,13 +144,6 @@ Wenn die erste Klausel verloren / ausgegeben: zweite Klausel auf Antrag (§ 733 
 - "Klausel ohne Zustellung an Schuldner." → Verfahrensfehler.
 - "Klausel verloren — egal." → Zweite beantragen.
 
-## Querverweise
-
-- `urteil-rechtskraft-705-zpo` — Rechtskraft.
-- `urteilsverkuendung-310-zpo` — Verkuendung.
-- `zwangsvollstreckung-querverweis-substitutionsagent` — Vollstreckung.
-- `gegnerische-vollstreckung-abwehr` — Bei Niederlage.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 724 ff. ZPO unveraendert.
@@ -258,25 +249,9 @@ Voraussetzung: Sie haben Gerichtskostenvorschuss zuegig gezahlt; sonst kein "dem
 - "Klage als einfacher Brief." → Bei Fristen ein Risiko.
 - "Unterschrift drucke ich aufs Computer." → Kein eigenhaendiges Unterzeichnen. Original muss handschriftlich unterschrieben sein.
 
-## Querverweise
-
-- `klageschrift-pflichtbestandteile-253-zpo` — Klageschrift.
-- `klageschrift-anlagen-bezeichnen` — Anlagen.
-- `einreichung-mein-justizpostfach-mjp-2024` — Elektronische Alternative.
-- `zurechnungsproblem-versand-durch-dritte` — Risiko.
-- `gerichtskostenvorschuss-12-gkg` — Vorschuss.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. §§ 130, 133, 167 ZPO unveraendert.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `anlagen-formatieren-k1-k2-pdf-amtsgericht`
 
@@ -429,21 +404,7 @@ So sollte eine fertige Anlage K1 aussehen:
 - **Fehler:** Anlage als Word-Dokument (.docx) statt PDF einreichen. → **So vermeiden:** Immer PDF — als unveraenderbares Format.
 - **Fehler:** Anlage K1 enthaelt mehrere Beweise zusammen. → **So vermeiden:** Eine Anlage = ein Beweisstueck. Pro Vertrag, Rechnung, E-Mail eine eigene Anlage.
 
-## Querverweise
-
-- `klage-zusammenstellen-komplettes-bundle-amtsgericht` — Bundle zusammenstellen
-- `dokumenten-erzeugung-pdf-laien-amtsgericht` — PDF erstellen
-- `klageschrift-anlagen-bezeichnen` — Anlagen im Text bezeichnen
-- `urkundenbeweis-415-ff-zpo` — Urkundenbeweis
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Anlagen-Beschriftung K1, K2 (Klaeger), B1, B2 (Beklagter) ist Praxis-Konvention der Zivilgerichte, nicht gesetzlich vorgeschrieben.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

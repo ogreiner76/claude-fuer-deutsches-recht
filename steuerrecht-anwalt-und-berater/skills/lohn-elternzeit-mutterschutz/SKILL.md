@@ -95,12 +95,6 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 - AN-Steuerbescheid: hoeherer Steuersatz auf uebrige Einkuenfte.
 - Bei Veranlagung: ggf. Nachzahlung.
 
-## Output
-
-- Mutterschutz-Lohnabrechnung mit AG-Zuschuss.
-- Elternzeit-Status in DATEV LODAS.
-- Bescheinigung für Elterngeld-Antrag.
-
 ## Strategie und Praxis-Tipps
 
 - AG-Zuschuss zum Mutterschaftsgeld ist gesetzliche Pflicht — verbindlich.
@@ -109,12 +103,6 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 - Wegen Progressionsvorbehalt im Folgejahr kann Steuernachzahlung anfallen.
 - StBVV: Mutterschutz/Elternzeit-Abrechnung Zusatzauftrag (Komplex).
 - DATEV-Tipp: DATEV LODAS Mutterschutz-Modul; Elternzeit als "Unterbrechung" markieren.
-
-## Querverweise
-
-- `stb-lohn-krankheit-entgeltfortzahlung-efzg` — Krankheit.
-- `stb-lohn-sv-beitraege-grundlagen` — SV.
-- `stb-lohn-lohnsteuer-monatsabschluss` — Monatsabschluss.
 
 ## Quellen und Updates
 
@@ -128,10 +116,3 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (Mutterschaftsgeld 13 EUR/Tag seit 1992 stabil), 1 ersetzt (BEEG-Einkommensgrenze 175.000 EUR ab 01.04.2024 eingesetzt) -->
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -65,10 +65,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Jahresfrist für Ausgleichsanmeldung nach § 89b Abs. 4 S. 2 HGB abgelaufen — Anspruch erloschen.
 - EuGH-Vorgaben zu richtlinienkonformer Auslegung nicht berücksichtigt.
 
-## Output
-
-Rechtsgutachten zu Ausschlussgründen, Schriftsatz zur Ausgleichsanmeldung, Gegenargumentation für Klageschrift.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +85,4 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 - [Art. 18 RL 86/653/EWG auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653)
 - [EuGH C-465/04 Honyvem auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62004CJ0465)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

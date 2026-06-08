@@ -9,7 +9,6 @@ description: "Einstieg, Triage und Routing für Fachanwalt Bau- und Architektenr
 
 Dieser Einstieg routet **Fachanwalt Bau Architektenrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
-
 ## Fachlandkarte dieses Plugins
 
 - `abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13` — Abnahme Fiktion Paragraf 640 BGB BGH VII ZR 301 13
@@ -36,12 +35,9 @@ Dieser Einstieg routet **Fachanwalt Bau Architektenrecht** vom ersten Sachverhal
 - Zuständige Stelle bestimmen: Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
-## Output
-
-Triage-Notiz mit Frist, Norm, Zuständigkeit, Anschluss-Skill-Vorschlag und konkret nächstem Schritt. Bei Fachanwalt Bau- und Architektenrecht typische Eskalationsstufen: Mängelrüge, Klage Werklohn / Schadensersatz Mängel, Selbstständiges Beweisverfahren.
-
 ## Qualitätsanker
 
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+

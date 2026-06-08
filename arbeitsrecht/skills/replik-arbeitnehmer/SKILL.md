@@ -5,9 +5,6 @@ description: "Kueschk Replik Arbeitnehmer im Plugin Arbeitsrecht: prüft konkret
 
 # Kueschk Replik Arbeitnehmer
 
-## Arbeitsbereich
-
-**Kueschk Replik Arbeitnehmer** ordnet den Fall über die tragenden Prüfungslinien: Reaktion auf die Klageerwiderung des Arbeitgebers, Checkliste Sonderkündigungsschutz, Streitwert nach § 42 GKG drei Bruttomonatsgehaelter. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "Kueschk Replik Arbeitnehmer im Plugin Arbeitsrecht: prüft konkret
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `kueschk-replik-arbeitnehmer-baustein`
@@ -39,10 +37,6 @@ description: "Kueschk Replik Arbeitnehmer im Plugin Arbeitsrecht: prüft konkret
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Nach Erhalt der Klageerwiderung des Arbeitgebers hat der Arbeitnehmer (bzw. sein Anwalt) die Möglichkeit, eine Replik einzureichen. Liefert Bausteine für eine substanzielle Replik.
 
 ## Ablauf nach der Klageerwiderung
 
@@ -118,9 +112,6 @@ Step 6: Schriftsatz fristgerecht einreichen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Substantiierungstiefe — Was wird erwartet?
 
 Das Gericht erwartet **konkretes, substantiiertes Bestreiten**. Pauschal "Wird bestritten" genügt nicht, wenn der Arbeitgeber seinerseits substantiiert vorgetragen hat. Der Arbeitnehmer muss dann die konkrete Tatsache benennen, die er bestreitet, und wenn möglich Gegenbeweis anbieten.
@@ -143,10 +134,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Bestimmte Personengruppen genießen einen besonderen Kündigungsschutz, der über den allgemeinen Kündigungsschutz des KSchG hinausgeht. Diese Schutztatbestände sind oft stärker als der KSchG-Schutz und können eine Kündigung selbst dann unwirksam machen, wenn das KSchG nicht anwendbar ist.
-
 ## Triage zu Beginn — kläre vor Anwendung der Sonderschutz-Checkliste
 
 1. Liegt eine der bekannten Schutzgruppen vor (Schwangerschaft, Elternzeit, Schwerbehinderung, Betriebsrat, DSB, Azubi nach Probezeit, Wehrdienst)?
@@ -168,9 +155,6 @@ Keiner der obigen? → Nur allgemeiner KSchG-Schutz
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Checkliste: Liegt Sonderkündigungsschutz vor?
 
 ### 1. Schwangerschaft und Mutterschutz § 17 MuSchG
@@ -246,10 +230,6 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Zweck
-
-Wer eine Kündigungsschutzklage einreicht, muss die Kostenrisiken kennen. Die gute Nachricht für Arbeitnehmer: In der ersten Instanz gibt es keine Kostenerstattung — jede Seite trägt ihre eigenen Anwaltskosten.
-
 ## Streitwert § 42 GKG
 
 Der Streitwert in Kündigungsschutzverfahren wird nach § 42 Abs. 2 GKG berechnet:
@@ -310,9 +290,6 @@ Wer die Kosten des Prozesses nicht selbst tragen kann, kann Prozesskostenhilfe (
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Gewerkschaft als Alternative
 
 Ist der Arbeitnehmer **Gewerkschaftsmitglied**, übernimmt die Gewerkschaft in vielen Fällen die anwaltliche Vertretung und Kosten — prüfe dies zuerst.
@@ -358,9 +335,6 @@ Kein neuer Job, keine Unzumutbarkeit? → Prozess führen, § 102 Abs. 5 BetrVG 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Das zentrale Risiko — bitte genau lesen
 
 **Das Szenario:**
@@ -422,3 +396,4 @@ Der sicherste Weg: Im Gütetermin oder Kammertermin einen **Vergleich mit Beendi
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+

@@ -5,10 +5,6 @@ description: "Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Ma
 
 # Eskalation bei Deadline-Konflikt
 
-## Arbeitsbereich
-
-Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Manuskript-, Druck-, Honorar- oder Auslieferungsterminen mit Mustermails für Autor, Programmleitung und Geschaeftsfuehrung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -139,17 +135,10 @@ Entscheidung bitte bis [Datum, Uhrzeit].
 - Mehrere Mahnungen ohne Eskalation - der Autor lernt, dass keine Konsequenz folgt.
 - Mailverkehr nicht in CRM oder Lektoratsakte einpflegen - bei Rechtsstreit fehlt der Beweis.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - erste Einordnung des Konflikts.
-- `workflow-fristen-und-risikoampel` - Ampelmethodik für Folgewirkungen.
-- `verl-statusbericht-an-verlagsleitung` - Mantel für die Hochstufung.
-- `verl-mahnung-an-autor-zahlung-frist` - bei Zahlungsverzug parallel zur Lieferung.
-- `verl-abstimmung-mit-rechtsabteilung-pruefung` - vor Ruecktritt und Schadensersatzforderung.
-
 ## Quellen Stand 06/2026
 
 - Gesetz ueber das Verlagsrecht (VerlG) vom 19.06.1901, zuletzt geaendert; insb. §§ 30, 32, 33 VerlG.
 - BGB §§ 280, 286, 288, 314, 323 - Verzug, Ruecktritt, Kuendigung aus wichtigem Grund.
 - BGB § 271 - Leistungszeit.
 - Schricker/Loewenheim, Urheberrecht, aktuelle Auflage (vom Nutzer beizubringen) zu Verlagsverhaeltnissen.
+

@@ -5,9 +5,6 @@ description: "Gegendarstellung Presse MOD Erklaerung im Plugin Fachanwalt Urhebe
 
 # Gegendarstellung Presse MOD Erklaerung
 
-## Arbeitsbereich
-
-**Gegendarstellung Presse MOD Erklaerung** ordnet den Fall über die tragenden Prüfungslinien: Gegendarstellung Pressefreiheit § 11 BlnPresseG analog, Modifizierte Unterlassungserklärung als Alternative zur, Urheber- und Medienrechtsmandat einordnen und. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Gegendarstellung Presse MOD Erklaerung im Plugin Fachanwalt Urhebe
 - Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-urheber-medienrecht-gegendarstellung-presse`
@@ -30,10 +28,6 @@ description: "Gegendarstellung Presse MOD Erklaerung im Plugin Fachanwalt Urhebe
 **Fokus:** Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Prüfung Schriftsatz Klage.
 
 ### Gegendarstellung Presserecht
-
-## Zweck
-
-Gegendarstellung gegen Tatsachen-Behauptung in Presse / TV.
 
 ## 1) Voraussetzungen (Landes-PresseG, z.B. § 11 BlnPresseG)
 
@@ -527,9 +521,6 @@ KI-Training und Text-Data-Mining?
 | Gegendarstellung | LPG-Frist pruefen, Verlangen verfassen | 2-3 Monate ab Kenntnis |
 | VGG-Schiedsstelle | Antrag DPMA | Vor Klage OLG Muenchen § 128 VGG |
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Fristen-Checkliste
 
 - [ ] Abmahnreaktionsfrist: uebl. 7-14 Tage (§ 97a UrhG)
@@ -543,3 +534,4 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Bei markenrechtlichen Aspekten: Plugin `gewerblicher-rechtsschutz` / `fachanwalt-gewerblicher-rechtsschutz`.
 - Bei Verlagsvertraegen: Plugin `verlagsredaktion`.
 - Bei Plattformhaftung/DSA: Plugin `fachanwalt-it-recht` / DSA-Kompetenz.
+

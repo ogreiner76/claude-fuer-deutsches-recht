@@ -5,10 +5,6 @@ description: "Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Diff
 
 # Firmenname-Prüfung
 
-## Arbeitsbereich
-
-Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Differenzierungsgebot, Irreführungsverbot. Normen: §§ 17 18 HGB, § 4 GmbHG. Prüfraster: Unterscheidungskraft, Irreführungsverbot, Handelsregisterfähigkeit, Markenrecherche-Empfehlung. Output: Prüfergebnis Firmenname mit Handlungsempfehlung. Abgrenzung: nicht Markenanmeldung beim DPMA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -50,9 +46,6 @@ Klaere mindestens 2 Wochen vor Notar-Termin:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Firmennamen-Check
 
 | Schritt | Pruefung | Stelle | Ergebnis |
@@ -133,3 +126,4 @@ Naechste Schritte:
 - `gesellschaftsgruender-gmbh-vorbereitung` — Firmenname als Baustein der Vorbereitung
 - `gesellschaftsgruender-notar-vorbereitung` — IHK-Bescheinigung vorlegen
 - `gesellschaftsgruender-handelsregister-anmeldung` — HR-Pruefung durch Registergericht
+

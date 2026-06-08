@@ -5,10 +5,6 @@ description: "MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquo
 
 # MD-Pruefung Krankenhausabrechnung Pruefverfahrensvereinbarung
 
-## Arbeitsbereich
-
-MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquoten, PrueferV, Aufwandspauschalen, Beanstandungen, Strukturpruefung und Klage gegen Pruefberichte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,14 +73,6 @@ Der Medizinische Dienst (MD) prueft im Auftrag der Krankenkassen die Abrechnung 
 - Strukturpruefung mit Einzelfallpruefung verwechselt.
 - Nachforderung nicht gegen Verjährung gesichert (§ 109 Abs. 5 SGB V, 4 Jahre).
 
-## Querverweise
-- `strukturpruefung-ops-und-md`
-- `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
-- `dokumentation-aufbewahrung-beweislast`
-- `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung`
-- `mindestmengen-g-ba-qualitaetssicherung`
-- `pflegebudget-vereinbarung-nachweis-risiken`
-
 ## Quellen Stand 06/2026
 - SGB V §§ 275c, 109; KHG § 17c.
 - PrueferV (Live-Check gkv-spitzenverband.de, dkgev.de).
@@ -101,3 +89,4 @@ Konkret zu prüfen:
 - MD-Reform
 - § 275 SGB V
 - § 275c SGB V
+

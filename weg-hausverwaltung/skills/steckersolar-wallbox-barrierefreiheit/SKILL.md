@@ -77,14 +77,6 @@ Folgen: **Anspruch auf Gestattung** (kein freies Ermessen). Die GdWE darf das "W
 > 5. Wartung, Versicherung, Rückbau pro Anlage durch den jeweiligen Antragsteller.
 > Kosten der Wallbox-Errichtung trägt der jeweilige Antragsteller; Kosten der Infrastruktur (Lastmanagement, Hauptkabel) tragen alle nutzungsberechtigten Eigentümer nach Schlüssel [...] (§ 21 Abs. 3 WEG).
 
-## Output
-
-- Unterlagenanforderung an Eigentümer (Datenblatt, Statik, Versicherung, Fachbetrieb)
-- Beschlussvorschlag mit Auflagen
-- Technische Fragenliste an Antragsteller
-- Antwortschreiben bei unvollständigem Antrag
-- Hinweisschreiben an vermietende Eigentümer (Beschluss vor Mieter-Maßnahme)
-
 ## Cross-Refs
 
 - Anspruchsprüfung / § 20 WEG generell → `bauliche-veraenderungen-20-weg`
@@ -95,3 +87,4 @@ Folgen: **Anspruch auf Gestattung** (kein freies Ermessen). Die GdWE darf das "W
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Technische Vorgaben (z. B. Leistungsgrenzen Steckersolar, MaStR-Pflichten, GEG-Anforderungen) zum Versammlungszeitpunkt live verifizieren — siehe https://www.gesetze-im-internet.de/woeigg/__20.html und https://www.gesetze-im-internet.de/bgb/__554.html.
+

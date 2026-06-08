@@ -54,12 +54,3 @@ Das CISG regelt Angebot und Annahme in Art. 14-24 autonom. Ein Angebot ist ausre
 - Zugang bei E-Mail: Server-Eingang als Zugang (analog Art. 24); elektronische Signatur kein CISG-Thema
 - Immer prüfen ob Art. 9 Handelsbrauch eine abweichende Praxis begründet
 
-## Output
-
-- Vertragsschluss-Schema (Angebot → Annahme → Zugang)
-- Battle-of-Forms-Matrix: welche Klauseln gelten
-- Formulierungshilfe: Schiedsklausel in Angebot integrieren ohne Art. 19 zu riskieren
-
-## Quellenregel
-
-CISG Art. 14-24: uncitral.un.org. CISG-Rspr.: CISG-online.ch, jusmundi.com. Schrifttum: Magnus in Staudinger (2018) Art. 14-24. Unsicherheit bleibt sichtbar.

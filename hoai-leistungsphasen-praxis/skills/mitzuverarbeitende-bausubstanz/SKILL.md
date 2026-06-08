@@ -17,10 +17,6 @@ HOAI-Fachfrage: mitzuverarbeitende Bausubstanz bei Umbau, Modernisierung, Instan
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Dieses Fachmodul bei Umbau, Sanierung, Kita im Altbau, Denkmal, Haustechnik im Bestand, Fassaden-/Dach-/Brandschutzsanierung oder Streit, ob der vorhandene Bestand die Honorargrundlage erhöht.
-
 ## Normanker
 
 - § 2 Abs. 7 HOAI: Begriff der mitzuverarbeitenden Bausubstanz.
@@ -35,6 +31,3 @@ Dieses Fachmodul bei Umbau, Sanierung, Kita im Altbau, Denkmal, Haustechnik im B
 4. Textformvereinbarung suchen oder Entwurf vorbereiten.
 5. Honorarfolge von Haftungsfolge trennen: Bestand kann Honorar erhöhen und zugleich Risiken verschärfen.
 
-## Output
-
-Liefer eine Bestandsmatrix mit Fotos/Plänen/Positionen, Wertansatz, HOAI-Bezug, Streitpunkt und Formulierungsbaustein für Vereinbarung oder Einwendung.

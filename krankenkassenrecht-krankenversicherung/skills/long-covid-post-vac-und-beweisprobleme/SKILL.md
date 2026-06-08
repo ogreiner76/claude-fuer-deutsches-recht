@@ -5,10 +5,6 @@ description: "Krankenversicherungsrechtliche Ansprüche bei Long Covid und Post-
 
 # Long Covid, Post-Vac und Beweisprobleme
 
-## Arbeitsbereich
-
-Krankenversicherungsrechtliche Ansprüche bei Long Covid und Post-Vac-Syndrom: Leistungsansprüche, Beweisschwierigkeiten, MDK-Problematik und Kausalitätsfragen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -96,3 +92,4 @@ Long Covid und Post-Vac-Syndrom stellen **neue Beweisherausforderungen** im Kran
 - [BSG Kausalitätslehre](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
 - [dejure.org § 44 SGB V](https://dejure.org/gesetze/SGB_V/44.html)
 - [WHO Long Covid Definition](https://www.who.int/publications/i/item/9789240025035)
+

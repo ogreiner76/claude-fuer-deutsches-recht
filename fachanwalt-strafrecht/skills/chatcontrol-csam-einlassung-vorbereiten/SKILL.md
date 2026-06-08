@@ -5,9 +5,6 @@ description: "Chatcontrol Csam Einlassung Vorbereiten im Strafrecht: prüft konk
 
 # Chatcontrol Csam Einlassung Vorbereiten
 
-## Arbeitsbereich
-
-**Chatcontrol Csam Einlassung Vorbereiten** ordnet den Fall über die tragenden Prüfungslinien: Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO, Schriftliche Einlassung des Beschuldigten vorbereiten oder, Hauptverhandlung im Strafverfahren vorbereiten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Chatcontrol Csam Einlassung Vorbereiten im Strafrecht: prüft konk
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo`
@@ -136,13 +134,6 @@ Spezial-Mandat: Mandant ist Anwalt oder Anwalt-Mitarbeiter, der Sorge hat, dass 
 | Cloud-Anbieter USA ohne DPF | DSGVO-Verstoß + ChatControl-Risiko | DPF-Prüfung | EU-Cloud mit BSI C5 |
 | Klare CSAM-Falschtreffer in eigener Kanzlei | Strafverfolgung trotz Verteidiger-Privilegs | Klärung läuft | § 160a StPO greift |
 | Verzicht auf Verschlüsselung | § 43a BRAO-Verstoß | Konzept in Arbeit | E2E-konsistent |
-
-## Querverweise
-
-- `fachanwalt-strafrecht-orientierung` — Triage
-- `fachanwalt-strafrecht-wahlverteidiger-mandat` — Verteidigung
-- `berufsrecht-ki-vertragspruefung` — bei KI-Anbieter-Risiken
-- `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` — bei Vorfall
 
 ## Quellen und Updates (Stand Mai 2026)
 
@@ -909,3 +900,4 @@ beantrage ich ausdrücklich gerichtliche Entscheidung gemäß
 ## Quellen
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+

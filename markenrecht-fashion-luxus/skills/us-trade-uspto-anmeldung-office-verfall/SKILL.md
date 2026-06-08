@@ -5,10 +5,6 @@ description: "US Trade Dress Protection für Produktaufmachung und Produktgestal
 
 # US Trade Dress und Secondary Meaning
 
-## Arbeitsbereich
-
-US Trade Dress Protection für Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schützen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Product Configuration erfordert Secondary Meaning), TrafFix Devices 532 U.S. 23 (Functionality Doctrine). Prüfraster: Inherent Distinctiveness vs. Secondary Meaning, Functionality-Einwand, Nachahmungsnachweis. Output Trade Dress Strategy Memo, Secondary-Meaning-Nachweis-Konzept. Abgrenzung: US-Markenanmeldung siehe uspto-anmeldung-und-lanham-act; EU 3D-Marke siehe dreidimensionale-marke. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -162,10 +158,3 @@ Bevor der Trade-Dress-Schutz beansprucht wird, klaere:
 
 > **TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23 (2001):** Ein Trade-Dress-Merkmal, das durch ein abgelaufenes Patent als funktional erklaert wurde, ist als wettbewerbsrechtlich freizuhaltendes Element nicht schutzfaehig; das Ablaufen des Patents ist starkes Indiz für Funktionalitaet — Registrierung sollte daher vor Patent-Expiry geprueft werden.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

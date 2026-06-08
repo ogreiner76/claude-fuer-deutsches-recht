@@ -5,10 +5,6 @@ description: "Behörde oder Gegenseite argumentiert fehlende Markteintrittsbarri
 
 # Potenzieller Wettbewerb und Markteintrittsschranken
 
-## Arbeitsbereich
-
-Behörde oder Gegenseite argumentiert fehlende Markteintrittsbarrieren um Marktbeherrschung zu verneinen. Analysiert Markteintrittsschranken und Wahrscheinlichkeit potenziellen Wettbewerbs im Zeitrahmen 2 bis 3 Jahre. Normen Art. 102 AEUV § 18 GWB FKVO 139/2004 EU-Bekanntmachung Marktdefinition 2024. Prüfraster strukturelle Faktoren Netzwerkeffekte Skaleneffekte Datenzugang regulatorische Huerden Sunk Costs. Output Markteintrittsbarrieren-Memo mit Bewertung Wahrscheinlichkeit und Zeitrahmen. Abgrenzung: produktmarkt-angebotsumstellung für kurzfristige Supply-Side-Substitution. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,6 +76,3 @@ Potenzieller Wettbewerb diszipliniert Marktmacht: **ja / eingeschränkt / nein**
 - EK, Horizontal Merger Guidelines 2004 Rn. 68-79 — Potenzieller Wettbewerb; glaubwuerdige Marktzutrittsdrohung bei niedrigen Barrieren; Zeitrahmen 2 Jahre.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

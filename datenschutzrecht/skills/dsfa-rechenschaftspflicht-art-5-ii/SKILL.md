@@ -5,10 +5,6 @@ description: "Dokumentation der DSFA als Beleg der Rechenschaftspflicht nach Art
 
 # DSFA-Dokumentation und Rechenschaftspflicht
 
-## Zweck
-
-Strukturierte Dokumentation einer DSFA als Beleg der Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO. Ergebnis dieses Skills ist eine vollstaendige DSFA-Akte mit Aktenuebersicht, Versionierung, Aufbewahrungsregeln und Beweiswertbeurteilung. Ziel ist die jederzeitige Vorlagefaehigkeit gegenueber Aufsicht, Gericht oder DSB.
-
 ## Wann dieses Modul hilft
 
 - Nach Abschluss einer DSFA, vor Archivierung
@@ -97,15 +93,6 @@ Zugriffskonzept
 - Zugriffsrechte ungeregelt — DSFA mit personenbezogenen Risikobeschreibungen offen einsehbar.
 - Beweismittel (Datenflussdiagramm) nicht beigefuegt — DSFA bleibt abstrakt.
 
-## Querverweise
-
-- `datenschutzrecht/skills/dsfa-template-deutsch-vollvorlage/SKILL.md` — Vollvorlage
-- `datenschutzrecht/skills/dsfa-update-bei-aenderungen-und-revision/SKILL.md` — Versionierung
-- `datenschutzrecht/skills/verarbeitungsverzeichnis-vvt-generator/SKILL.md` — VV Art. 30 Verlinkung
-- `datenschutzrecht/skills/spezial-dpia-dokumentenmatrix-und-lueckenliste/SKILL.md` — Dokumentenmatrix
-- `datenschutzrecht/skills/spezial-datenschutzrecht-compliance-dokumentation-und-akte/SKILL.md` — Aktenfuehrung allg.
-- `references/zitierweise.md` — Zitierweise
-
 ## Quellen Stand 06/2026
 
 - Art. 5 Abs. 2 DSGVO
@@ -115,3 +102,4 @@ Zugriffskonzept
 - BfDI / Landesbehoerden — Hinweise zur Rechenschaftspflicht
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle
+

@@ -5,10 +5,6 @@ description: "Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen
 
 # Capital Calls und Defaulting LP
 
-## Arbeitsbereich
-
-Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -85,13 +81,6 @@ Compulsory Sale Mechanic (LPA):
 - Sanktionsbedingten Verzug als gewöhnlichen Default behandelt; OFAC-Lizenz fehlt.
 - LPAC nicht informiert; Side-Letter-Pflicht zur LPAC-Eskalation verletzt.
 
-## Querverweise
-
-- pe-011 für Sub-Doc / Side Letter.
-- pe-012 für LP-Transfer / Compulsory Sale.
-- pe-014 für Carry-Auswirkung bei Default.
-- pe-019 für Sanktions-Compliance.
-
 ## Quellen Stand 06/2026
 
 - KAGB §§ 281 ff.
@@ -100,3 +89,4 @@ Compulsory Sale Mechanic (LPA):
 - GwG §§ 10 ff., § 19; EU-Sanktionsverordnungen (EU 833/2014 Russland, EU 269/2014 etc.).
 - ILPA Capital Call Templates und Default Mechanics Guidance (Stand vom Anwender zu prüfen).
 - AnlV für Versicherer.
+

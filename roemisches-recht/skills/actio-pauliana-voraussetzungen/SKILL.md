@@ -5,10 +5,6 @@ description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skil
 
 # Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht
 
-## Aufgabe
-
-Skill für die Beweislastfragen bei der actio Pauliana.
-
 ## Beweislast
 
 - Glaeubiger traegt die Beweislast für:
@@ -45,8 +41,3 @@ Skill für die Beweislastfragen bei der actio Pauliana.
 3. Greifen Vermutungen?
 4. Welcher Quellenanker (D. 42.8)?
 
-## Output
-
-- Beweisstrategie-Memo.
-- Indizienmatrix.
-- Vergleichende Synopse.

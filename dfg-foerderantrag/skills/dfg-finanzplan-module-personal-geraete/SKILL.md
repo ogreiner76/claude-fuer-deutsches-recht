@@ -191,22 +191,7 @@ Arbeitsfokus: **Finanzplan und Module**. Prüfe diese Anker am Sachverhalt; erg�
 - `DFG-Vordruck Sachbeihilfe Finanzierungsplan` — Personal, Geräte, Verbrauchsmittel und Reisen getrennt begründen.
 - `DFG-Kodex Leitlinie 7` — Qualitätssicherung auch bei Mittelverwendung und Dokumentation.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Output
-
-- **Budgettabelle** mit AP-Funktion pro Position.
-- **Personalmatrix** mit AP-Zuordnung und Prozenten.
-- **Modulbegründung** pro Modul.
-- **Kürzungsrisiko-Ampel** pro Position (Grün/Gelb/Rot).
-- **Minimal-/Idealbudget-Vergleich** für interne Strategie und Verhandlungsspielraum.
-
-## Querverweise
-
-- Arbeitsprogramm: `dfg-projektbeschreibung-arbeitsprogramm`
-- Formalia (Modulauswahl in elan): `dfg-sachbeihilfe-elan-formalia`
-- Reviewer-Brille (Kürzungsabwehr testen): `dfg-reviewer-red-team`
 
 ## Quellen Stand 05/2026
 
@@ -217,3 +202,4 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - DFG-FAQ zu Personalmitteln: dfg.de
 
 Personalkostensätze, Tarifsteigerungen und Pauschalen ändern sich — keine aus dem Gedächtnis geschriebenen Zahlen verwenden.
+

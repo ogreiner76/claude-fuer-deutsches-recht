@@ -17,10 +17,6 @@ Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §�
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für Strafverfahren nach der Strafprozessordnung (StPO). Strafakten haben eine andere Struktur als Zivilakten — Ermittlungsakte, Anklageschrift, Hauptverhandlungsprotokoll und Urteil sind die zentralen Dokumente.
-
 ## Triage — kläre vor Aktivierung des Modus
 
 1. Stadium: Ermittlungsverfahren / Zwischenverfahren / Hauptverhandlung / Rechtsmittelverfahren?
@@ -43,9 +39,6 @@ Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für Straf
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Typischer Verfahrensablauf
 
 1. Ermittlungsverfahren (Staatsanwaltschaft / Polizei)
@@ -109,3 +102,4 @@ Gesondert darzustellen:
 - Keine Schuldvermutung im Aktenauszug
 - Freispruch und Verurteilung neutral darstellen
 - Bei laufender Untersuchungshaft: Haftverlängerungsbeschlüsse und Haftdauer hervorheben
+

@@ -120,26 +120,6 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 2. Quellensteuerbescheinigung beifuegen.
 3. Bei Anrechnung Beweis Umrechnungskurs am Tag der Steuerentstehung.
 
-## Output
-
-- **Berechnungsbeispiel**: Anrechnung vs. Freistellung in Tabellenform.
-- **Anlage AUS / N-AUS** Hinweise.
-- **Memo** mit Subsumtion der Methode und Begruendung der Rueckfallklausel-Pruefung.
-
-### Beispiel Vergleichsrechnung (schematisch)
-
-| Position | Freistellung mit Progression | Anrechnung |
-|---|---|---|
-| Deutsche Einkuenfte | 60.000 EUR | 60.000 EUR |
-| Auslaendische Einkuenfte | 40.000 EUR (freigestellt) | 40.000 EUR (einbezogen) |
-| Welteinkommen | 100.000 EUR (nur für Tarif) | 100.000 EUR |
-| Tarifsteuer auf Welteinkommen | (Tarif) | (Tarif) |
-| Deutsche Steuer auf inlaendischen Anteil | 60.000 x Durchschnittssatz | 100.000 x Tarif |
-| Anrechnungsbetrag auslaend. Steuer | – | max. anteilig auf 40.000 |
-| Effektive deutsche Steuer | (geringer bei Progressionsvorbehalt) | (mit Begrenzung Per-Country-Limitation) |
-
-(**Konkrete Steuersaetze und Werte sind verifizierungspflichtig — Tarif § 32a EStG 2026, Solidaritaetszuschlag, Kirchensteuer einzeln pruefen.**)
-
 ## Strategie und Praxis-Tipps
 
 - Wahlrecht § 34c Abs. 2 EStG (Abzug statt Anrechnung) ist immer dann sinnvoll, wenn die deutsche Steuer auf die Einkunft zu gering für volle Anrechnung waere (negatives Hochrechnungsergebnis).
@@ -225,15 +205,9 @@ Bei Land Y mit Freistellungsmethode:
 
 (**Werte sind Beispiel — konkrete Werte mit Tarif § 32a EStG 2026 nachrechnen.**)
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen` — Gesamtpruefung.
-- `stb-dba-quellensteuer-erstattung-bzst-50c-estg` — BZSt-Erstattung als Vorstufe.
-- `stb-dba-dividenden-quellensteuer-art-10`, `stb-dba-lizenzgebuehren-art-12-bzst` — Quellenseite.
-- `stb-dba-betriebsstaette-art-5-musterabkommen` — Betriebsstaetten-Switch-Over.
-
 ## Quellen und Updates
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 1 belegt (BVerfG 2 BvL 1/12, 15.12.2015, BVerfGE 141, 1 bestaetigt), 8 ersetzt (Az/Datum nicht belegbar, Saetze neu formuliert) -->
+

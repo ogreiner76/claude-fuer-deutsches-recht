@@ -5,10 +5,6 @@ description: "M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung v
 
 # Franchiserecht: Franchise-M-und-A-Due-Diligence
 
-## Arbeitsbereich
-
-M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von Systemrisiken für den Erwerber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,13 +52,6 @@ Ein strategischer Investor oder ein Private-Equity-Fonds erwirbt ein Franchiseun
 - Systemhandbuch ist nicht dokumentiert; wesentliches Know-how ist in den Köpfen der Gründer, aber nicht übertragbar.
 - Kartellrechtliches Verfahren des Bundeskartellamts wird im Kaufprozess nicht disclosed; Käufer haftet für Altlasten.
 
-## Output
-
-- Due-Diligence-Checkliste Franchisesystem
-- Vertragsportfolio-Risikoanalyse (Change of Control, Laufzeiten)
-- Schutzrechte-Inventar (Marken, Domains, Software)
-- Fusionskontrolle-Kurzprüfung (GWB/FKVO)
-
 ## Quellen
 
 - https://dejure.org/gesetze/GWB/35.html
@@ -71,6 +60,7 @@ Ein strategischer Investor oder ein Private-Equity-Fonds erwirbt ein Franchiseun
 - https://gesetze-im-internet.de/geschgehg/
 - https://gesetze-im-internet.de/inso/__119.html
 - https://dejure.org/gesetze/BGB/311.html
+
 ## Vertiefung
 
 Die Franchise-Due-Diligence ist umfangreicher als eine herkömmliche Unternehmens-Due-Diligence: Neben den üblichen Bereichen (Finanzen, Recht, Steuern) ist das Franchisevertragsportfolio selbst ein kritischer Due-Diligence-Gegenstand. Jeder Franchisevertrag kann Change-of-Control-Klauseln enthalten, die bei der Transaktion ausgelöst werden.
@@ -84,7 +74,10 @@ Die Fusionskontrolle nach §§ 35 ff. GWB ist relevant, wenn das franchisierte U
 - Systemhandbuch und Know-how-Transfer in den Kaufvertrag einbeziehen; Übergabepflicht des Veräusserers.
 - Latenzrisiken (potential claims) aus Franchiseverträgen in den Kaufpreiseinbehalt einkalkulieren.
 - Fusionskontrolle-Prüfung durch Kartellrechtsanwalt; Vollzugsverbot bis Behördenfreigabe beachten.
+
 ## Abgrenzung und Einordnung
 
 Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp. Die Rechtsordnung wendet typenverwandte Normen an: BGB-Schuldrecht für Vertragspflichten und Haftung, HGB für handelsrechtliche Besonderheiten, MarkenG für Schutzrechte, GWB und Vertikal-GVO EU 2022/720 für kartellrechtliche Grenzen sowie GeschGehG für Know-how-Schutz. Der BGH hat mit NJW 2003 S. 743 die vorvertragliche Aufklärungspflicht des Franchisegebers grundlegend geprägt. Der Code of Ethics des Deutschen Franchiseverbands (DFV) setzt branchenübliche Mindeststandards, ist aber kein Gesetz.
+
 ## Abgrenzung und Einordnung
+

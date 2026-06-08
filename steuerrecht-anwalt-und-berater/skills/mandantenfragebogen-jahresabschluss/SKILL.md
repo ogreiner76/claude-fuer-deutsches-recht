@@ -135,12 +135,6 @@ Unterschrift Mandant: [...]
 - Ausgefuellter Fragebogen in Jahresabschluss-Mappe.
 - Unterzeichnete Bestaetigung (Mandantenerklaerung).
 
-## Output
-
-- Ausgefuellter Mandantenfragebogen.
-- Datenbasis für Jahresabschluss.
-- Mandanten-Erklaerung mit Unterschrift.
-
 ## Strategie und Praxis-Tipps
 
 - Standardisierter Fragebogen ist Effizienzhebel — gleiche Fragen bei allen Mandanten.
@@ -149,13 +143,6 @@ Unterschrift Mandant: [...]
 - Mandanten-Erklaerung am Ende: schuetzt StB bei spaeteren Streits.
 - StBVV: Fragebogen ist Teil Jahresabschluss-Auftrag StBVV § 35.
 - DATEV-Tipp: DATEV Mandantenfragebogen-Vorlagen anpassen.
-
-## Querverweise
-
-- `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
-- `stb-jahresabschluss-rueckstellungen-bewertung` — Rueckstellungen.
-- `stb-jahresabschluss-bestandskonten-abstimmung` — Bestandsabstimmung.
-- `stb-jahresgespraech-mandant-bwa-basis` — Jahresgespraech.
 
 ## Quellen und Updates
 
@@ -166,10 +153,3 @@ Stand: 05/2026.
 - IDW PS 480.
 - DStV-Praxisleitfaden Jahresabschluss.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

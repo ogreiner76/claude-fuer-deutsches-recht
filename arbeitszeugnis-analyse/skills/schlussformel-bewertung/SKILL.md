@@ -35,10 +35,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 **Beispiel 5 – Orange (kühle Formulierung):** "Das Arbeitsverhältnis endet auf Wunsch von Herrn Bauer. Wir wünschen ihm für die Zukunft alles Gute." — Sachliche Distanz durch Passivformulierung, fehlendes Bedauern.
 
-## Ausgabeformat
-
-Der Skill gibt die erkannten Schlussformel-Elemente einzeln aus (Bedauern: ja/nein/schwach; Dank: ja/nein/schwach; Wunsch: ja/nein/schwach), bewertet die Signalwirkung mit Ampelfarbe und trennt davon die rechtliche Durchsetzbarkeit. Danach folgt eine Empfehlung: akzeptieren, nachverhandeln, in Vergleich aufnehmen oder nur als Kontextargument verwenden.
-
 ## Rechtliche Einordnung und Normen
 
 - **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
@@ -47,3 +43,4 @@ Der Skill gibt die erkannten Schlussformel-Elemente einzeln aus (Bedauern: ja/ne
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

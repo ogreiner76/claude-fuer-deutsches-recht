@@ -120,21 +120,3 @@ Sachverhalt: Mandant DE-ansaessig, BS in Staat B, Zahlung aus Staat C (Quellenst
 | MAP DE-B oder DE-C? | DBA Art. 25 | bilateral |
 | Verstaendigung trilateral nicht moeglich | — | nur zwei DBA-Verfahren parallel |
 
-## Querverweise
-
-- `stb-dba-grundprinzip-oecd-musterabkommen` — Pruefkette.
-- `stb-dba-ansaessigkeit-tie-breaker-rules` — doppelte Ansaessigkeit.
-- `stb-dba-betriebsstaette-art-5-musterabkommen` — BS und Anti-Fragmentierung.
-- `stb-dba-methodenartikel-anrechnung-vs-freistellung` — Methodenartikel.
-- `stb-dba-quellensteuer-erstattung-bzst-50c-estg` — BZSt-Verfahren.
-- `stb-dba-map-eu-streitbeilegung` — bei Doppelbesteuerung.
-- `stb-dba-rentner-pensionen-art-18` — Pension-Edge-Cases.
-- `stb-dba-kuenstler-sportler-art-17-ma` — Kuenstler/Sportler-Edge-Cases.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

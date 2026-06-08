@@ -5,10 +5,6 @@ description: "eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Pas
 
 # eCO Account und Organisationskonto
 
-## Arbeitsbereich
-
-eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -21,10 +17,6 @@ eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Kon
 - **Normen-/Quellenanker:** Title 17 U.S.C., Copyright Office Compendium, eCO-Verfahren, deposit/best edition, DMCA, fair use, termination, work made for hire und international treaties.
 - **Entscheidende Weiche:** Werkart, Autor/Rechteinhaber, Veröffentlichung, Deposit, Claim/Exclusion, Registrierungsdatum, Enforcement-Ziel und US-Prozessnutzen trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aufgabe
-
-Baue einen belastbaren Organisationsprozess für deutsche Verlage, damit US-Registrierungen nicht an Einzelpersonen, vergessenen Passwörtern oder unklaren Zuständigkeiten hängen.
 
 ## Einrichtung
 
@@ -42,14 +34,6 @@ Baue einen belastbaren Organisationsprozess für deutsche Verlage, damit US-Regi
 4. Template-Regeln festlegen, aber keine falsche Wiederverwendung zwischen unterschiedlichen Werktypen zulassen.
 5. Monatsreport erzeugen: eingereicht, offen, Rückfrage, Certificate, abgebrochen.
 
-## Output
-
-Ein Organisationsvermerk mit Zugangskonzept, Rollen, Kontrollliste und Aktenstandard pro Registrierung.
-
-## Quellenhygiene
-
-Aktuelle Gebühren, Formulare, Deposit-Anforderungen, Gruppenoptionen und Bearbeitungszeiten vor einer konkreten Ausgabe immer auf den offiziellen Seiten des U.S. Copyright Office prüfen. Rechtliche Schlussfolgerungen zu US-Prozessführung, Ownership-Streit, Work made for hire, AI-Material oder Schadenersatz nur als Vorprüfung formulieren und bei Tragweite US-Counsel einschalten.
-
 ## Tiefencheck für die Akte
 
 Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
@@ -60,3 +44,4 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 - Welche Frist-/Remedy-Wirkung hat timing nach § 411/§ 412 und was muss als Nachweis in die Verlagsakte?
 
 **Mindest-Output:** Registrierungsakte mit Antragstyp, Werkdaten, Rechtekette, Deposit-Route, Fee/Tracking und Certificate-Archiv.
+

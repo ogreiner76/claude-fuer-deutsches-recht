@@ -5,17 +5,6 @@ description: "HOAI LPH 1 Grundlagenermittlung: sucht Widersprüche, vergessene B
 
 # LPH 1 Grundlagenermittlung: Sucht widersprüche
 
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. Er prüft sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit im Kontext dieser Phase: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren. Bewertungsanker für Gebäude/Innenräume: 2 %.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-1-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-1-Zweck: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
 ## Ergebnis
 
 - LPH-1-Prüfmatrix
@@ -35,3 +24,4 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 - Praktischer Kern: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren
 - Bewertungsanker Gebäude/Innenräume: 2 %
 - Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
+

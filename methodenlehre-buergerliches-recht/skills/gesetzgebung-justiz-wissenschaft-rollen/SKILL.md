@@ -53,10 +53,6 @@ description: "Analysiert die methodischen Rollen und institutionellen Grenzen vo
 - Wissenschaftliche Systematisierungen werden unreflektiert auf normative Aussagen übertragen.
 - Die Grenze zwischen dogmatischer Systembildung (Wissenschaft) und Normkonkretisierung (Justiz) wird verwischt.
 
-## Output
-
-Das Skill liefert eine Rollenanalyse: Identifikation des institutionellen Akteurs, Prüfung der Rollentreue, Bewertung etwaiger Rollenkonfusionen und Formulierungsvorschlag für die institutionelle Rüge oder die methodisch korrekte Begründung. Geeignet für wissenschaftliche Methodenkritik, Schriftsätze und Gutachten zur institutionellen Kompetenz.
-
 ## Vertiefung: Kooperatives Verhältnis der Institutionen
 
 Das Verhältnis zwischen Gesetzgebung, Justiz und Wissenschaft ist nicht rein antagonistisch, sondern kooperativ: Rechtswissenschaft liefert Interpretationsvorschläge, die Justiz konkretisiert das Recht, und der Gesetzgeber kann auf Rechtsprechungsentwicklungen reagieren. Dieser Kreislauf ist für die Fortentwicklung des Rechts unverzichtbar, solange die institutionellen Grenzen gewahrt bleiben.
@@ -82,3 +78,4 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [BVerfGE 34, 269 – Soraya, Richterrecht und Gesetzgebung](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
+

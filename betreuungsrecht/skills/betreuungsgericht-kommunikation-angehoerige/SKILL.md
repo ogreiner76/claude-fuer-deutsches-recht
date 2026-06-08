@@ -20,12 +20,7 @@ Arbeitsfokus: **Betreuungsgericht-Kommunikation für Angehörige**. Prüfe diese
 - `§ 5 BtOG` — Beratung und Unterstützung.
 - `§ 23 BtOG` — Registrierung beruflicher Betreuer.
 
-
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Zweck
-
-Dieser Skill hilft ehrenamtlichen Betreuern, mit dem Betreuungsgericht knapp, vollständig und respektvoll zu kommunizieren. Das Ziel ist: Gericht bekommt, was es zur Aufsicht braucht; der Betreuer verrennt sich nicht in lange Erzählungen.
 
 ## Grundton
 
@@ -85,3 +80,4 @@ Mit freundlichen Grüßen
 - `vermoegensverzeichnis-pruefung`
 - `familienbetreuer-alltagscockpit`
 - `kalender-reminder-und-fristenmanagement`
+

@@ -5,10 +5,6 @@ description: "Verlagsrecht: Literaturagentur und Verlagsagentur — Agenturvertr
 
 # Verl-027 · Verlagsagentur, Literaturagentur und Provision
 
-## Arbeitsbereich
-
-Verlagsrecht: Literaturagentur und Verlagsagentur — Agenturvertrag, Vollmacht, Provision, Interessenkollision, Haftung und Abgrenzung zum Handelsvertreter (HGB). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -135,3 +131,4 @@ Literaturagenturen sind in der deutschsprachigen Verlagsbranche wichtige Mittler
 - **Treuhandkonto-Klausel**: Muster für Agenturvertrag
 - **Vollmachts-Vorlage**: Für spezifische Vertragsabschlüsse
 - **HGB-Status-Check**: Handelsvertreter oder Auftragnehmer?
+

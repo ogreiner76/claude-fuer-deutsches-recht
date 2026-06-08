@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Expert Determination (Sachverständi
 
 # Expert Determination
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Expert Determination (Sachverständigenentscheidung) im internationalen Handelsrecht. Abgrenzung zu Schiedsgerichtsbarkeit, Verbindlichkeit, ICC Expert Rules 2015, Einsatzgebiete (Preis, Qualität, Bilanzen) und Anfechtbarkeit. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -52,12 +48,3 @@ Expert Determination ist ein alternatives Streitbeilegungsverfahren, bei dem ein
 - § 319 BGB: nur extreme Fälle; keine Überprüfung inhaltlicher Richtigkeit
 - Abgrenzungsklausel: bei gemischten Streitigkeiten (Sach- und Rechtsfragen) Schieds-Rückfall-Klausel
 
-## Output
-
-- Expert-Determination-Klausel-Muster
-- Expert Determination vs. Arbitration Entscheidungsmatrix
-- ICC Expert Rules Verfahrensübersicht
-
-## Quellenregel
-
-ICC Expert Rules 2015: iccwbo.org. BGB §§ 317-319: gesetze-im-internet.de. Schrifttum: Mackie et al., ADR Practice Guide (2007). Unsicherheit bleibt sichtbar.

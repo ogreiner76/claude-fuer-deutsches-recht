@@ -5,10 +5,6 @@ description: "DSGVO-Auskunftsantwort an Betroffenen vollständig und rechtskonfo
 
 # Betroffenenanfragen – Art. 15–22 DSGVO
 
-## Zweck
-
-Strukturierter Ablauf zur vollständigen Bearbeitung eingehender Betroffenenanfragen. Vom ersten Eingang bis zum versandfertigen Antwortentwurf: Klassifikation, Fristberechnung, Identitätsprüfung, Systemabfrage, Ausnahmenprüfung und formgerechte Antwort. Alle Fristen werden aus dem Eingangsdatum berechnet; Verlängerungsoptionen nach Art. 12 Abs. 3 Satz 2 DSGVO werden geprüft.
-
 ## Eingaben
 
 - Art der Anfrage (Auskunft, Berichtigung, Löschung, Einschränkung, Datenportabilität, Widerspruch, Einwilligungswiderruf)
@@ -80,16 +76,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Kamlah, in: Plath, DSGVO/BDSG, 3. Aufl. 2021, Art. 15 Rn. 1 ff.
 - Dix, in: Simitis/Hornung/Spiecker, Datenschutzrecht, 1. Aufl. 2019, Art. 15 Rn. 1 ff.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Ausgabeformat
-
-1. **Kopfzeile:** Anfrage-Art, Eingangsdatum, Fristdaten (1 Monat / Verlängerung), Bearbeiter
-2. **Klassifikations-Ergebnis**
-3. **Identitätsverifikations-Status**
-4. **Systemabfrage-Ergebnisse** (Tabelle: System | Datenfund | Zweck | Rechtsgrundlage | Frist)
-5. **Ausnahmenprüfung** (tabellarisch: Norm | anwendbar | Begründung)
-6. **Antwortentwurf** (druckreif, Briefkopf-Format, ohne Plugin-Kommentare im Text)
-7. **Dokumentations-Eintrag für Datenschutzregister**
 
 ## Beispiel (Auskunftsanfrage)
 
@@ -247,3 +233,4 @@ Geprüft: BGH VI ZR 7/21 (WRONG_TOPIC: dejure.org zeigt Kfz-Unfall/fiktive Schad
 Ersatz: BGH VI ZR 97/22, ZIP 2023, 2472 (verifiziert auf dejure.org — Vorlage EuGH zu Art. 82 DSGVO immateriellem Schaden)
 Thema: DSGVO Art. 82 Schadensersatz — thematisch passend für DSGVO-Kontext
 -->
+

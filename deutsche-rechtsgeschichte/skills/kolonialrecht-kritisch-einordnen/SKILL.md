@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deuts
 
 # Kolonialrecht kritisch einordnen
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deutsche Kolonialgesetzgebung 1885-1914, Herero-Nama-Voelkermord, Kolonialrechtliche Diskriminierung und Aufarbeitung nach 1919 und heute. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Das Deutsche Kaiserreich hatte von 1884/85 bis 1919 Kolonien in Afrika, dem Pazi
 - Voelkermordkonvention: BGBl. II 1954, 730; eur-lex.europa.eu für EU-Aspekte
 - Sekundaerliteratur: Juergen Zimmerer, Deutsche Herrschaft ueber Afrikaner (2001)
 
-## Output
-
-- Rechtsstruktur des deutschen Kolonialrechts 1884-1919
-- Herero-Nama-Voelkermord: rechtliche Einordnung
-- Aufarbeitung 2021: Erklaerung, Inhalt, Grenzen
-
-## Quellenregel
-
-Schutzgebietsgesetz 1886: ALEX/OeNB. Versailler Vertrag: documentArchiv.de. Voelkermordkonvention: BGBl. II 1954, 730. Zimmerer 2001: mit Seite. Bundesregierung 2021: Erklaerungstext.

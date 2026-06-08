@@ -5,10 +5,6 @@ description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB.
 
 # Geldstrafe vs. Freiheitsstrafe — § 47 StGB
 
-## Arbeitsbereich
-
-Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhaeltnis Geldstrafe + Freiheitsstrafe (§ 41 StGB). Strategiewahl Verteidigung gegen kurze Freiheitsstrafe; Umstellungsantrag in Geldstrafe; Bewaehrungsperspektive. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,15 +76,8 @@ Wird trotzdem eine kurze Freiheitsstrafe (3 bis 6 Monate) verhaengt, ist Bewaehr
 - **Vorstrafen** allein begruenden in der Regel nicht ohne weiteres die Unerlaesslichkeit; nur einschlaegige und intensive Vorbelastung.
 - **§ 41 StGB falsch** angewendet: Geldstrafe neben Freiheitsstrafe **nur** bei Bereicherungsabsicht.
 
-## Querverweise
-
-- `geldstrafe-tagessatzanzahl-bestimmen` — Anzahl bestimmen.
-- `tagessatzhoehe-40-ii-stgb-nettotagesverdienst` — Hoehe bestimmen.
-- `freiheitsstrafe-strafmass-pruefen` — bei laengerer Freiheitsstrafe.
-- `bewaehrung-56-stgb-positive-sozialprognose` — Aussetzung zur Bewaehrung.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Begruendungsmangel als Ruege.
-
 ## Quellen und Stand 05/2026
 
 - §§ 40, 41, 47, 56 StGB in der geltenden Fassung.
 - Quellenregel: vgl. `references/zitierweise.md`.
+

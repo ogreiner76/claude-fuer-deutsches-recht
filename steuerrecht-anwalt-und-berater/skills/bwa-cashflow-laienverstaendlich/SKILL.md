@@ -111,12 +111,6 @@ BANK-/KASSE-BESTAND ENDE [X]
 - Im Quartalsgespraech 5 Minuten erklaeren.
 - Bei Krisensignalen: Sondergespraech mit Liquiditaetsplanung.
 
-## Output
-
-- 1-seitige Cashflow-Uebersicht laienverstaendlich.
-- Wasserfall-Grafik.
-- Erlaeuterungstext.
-
 ## Strategie und Praxis-Tipps
 
 - Bei Familien-GmbH ist Cashflow oft wichtigeres Steuerungsmass als Bilanzgewinn — direkter Bezug zur Bankliquiditaet.
@@ -124,14 +118,6 @@ BANK-/KASSE-BESTAND ENDE [X]
 - Bei Bankgespraech: Cashflow-Uebersicht oft entscheidender als reine GuV.
 - StBVV: Cashflow-Uebersicht als Bestandteil der Quartals-BWA oder als Zusatzauftrag.
 - DATEV-Tipp: Der DATEV-Bilanzbericht beinhaltet eine automatisierte Kapitalflussrechnung (Klickpfad: Rechnungswesen → Bilanzbericht → Bestandteile waehlen → Kapitalflussrechnung). Die vereinfachte Mandantendarstellung erfolgt in Excel oder im DATEV-Praesentationsmodul manuell.
-
-## Querverweise
-
-- `stb-bwa-kapitalflussrechnung-iduk` — methodisch DRS 21.
-- `stb-bwa-bewegungsbilanz-erstellen` — Bewegungsbilanz.
-- `stb-liquiditaetsvorschau-3-6-12-monate` — Liquiditaetsplanung.
-- `stb-bwa-mandantengespraech-uebergabe` — Quartalsgespraech.
-- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 
@@ -142,14 +128,6 @@ Stand: 05/2026.
 - IDW S 6.
 - StBerG §§ 33, 57.
 - DStV-Praxisleitfaden Mandantenkommunikation.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## Normen und Rechtsprechung
 
@@ -179,3 +157,4 @@ Stand: 05/2026.
 - Beraterhaftung gegen Mandantenpflicht (§§ 153, 154 AO) klar trennen; Selbstanzeige nach § 371 AO ist eine Strafnorm, kein Steueroptimierungs-Tool.
 - Festsetzungsverjaehrung nach §§ 169-171 AO im Zweifel zugunsten des Steuerpflichtigen; Hemmung durch Aussenpruefung beachten.
 - Bei Gestaltungsmissbrauch § 42 AO immer alternative Wirtschaftsgruende dokumentieren.
+

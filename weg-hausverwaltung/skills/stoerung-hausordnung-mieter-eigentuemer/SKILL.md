@@ -64,14 +64,6 @@ Störungen geordnet aufnehmen, Beweise sichern und die richtige Adressatenkette 
 - Sicherheits-/Brandschutzregeln (Treppenhaus freihalten).
 - Datenschutzbestimmungen für Überwachungskameras / Klingelanlagen.
 
-## Output
-
-- Störungsprotokoll (chronologisch, mit Belegen)
-- Beweisanforderung (Lärmmessung, Foto, Zeugenliste)
-- Schreiben an Eigentümer / Mieter (Abmahnung, Aufforderung)
-- Eskalationsmatrix (intern → Anwalt → Klage)
-- Hinweisschreiben an vermietende Eigentümer (Mieter-Schiene + V ZR 1/24)
-
 ## Cross-Refs
 
 - Bauliche Veränderungen / Klimaanlagen → `bauliche-veraenderungen-20-weg`
@@ -83,10 +75,3 @@ Störungen geordnet aufnehmen, Beweise sichern und die richtige Adressatenkette 
 
 `rechtsstand-mai-2026-faktenbank` laden. § 14 WEG: https://www.gesetze-im-internet.de/woeigg/__14.html ; § 1004 BGB: https://www.gesetze-im-internet.de/bgb/__1004.html .
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

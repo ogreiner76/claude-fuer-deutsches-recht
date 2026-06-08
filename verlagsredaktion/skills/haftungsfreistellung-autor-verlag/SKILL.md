@@ -5,10 +5,6 @@ description: "Haftungsfreistellung zwischen Autor und Verlag: Klauselbaustein im
 
 # Haftungsfreistellung Autor / Verlag
 
-## Arbeitsbereich
-
-Haftungsfreistellung zwischen Autor und Verlag: Klauselbaustein im Verlagsvertrag, Reichweite, AGB-Schranken, Versicherungsfragen, Praxis bei Abmahnung und Klage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -165,15 +161,6 @@ Mit freundlichen Gruessen
 - Manuskripterklaerung nicht eingeholt - vor Gericht Beweisnot.
 - Innenausgleich pauschal "100 Prozent Autor" - ohne Verschuldensanalyse unhaltbar.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Eingangsroutung der Abmahnung.
-- `workflow-fristen-und-risikoampel` - Abmahnfrist und Versicherungsfrist.
-- `verl-honorarvertrag-templates-und-abweichungen` - Klauseltemplate.
-- `verl-abstimmung-mit-rechtsabteilung-pruefung` - Justiziariatspflicht.
-- `verl-rueckruf-fehlerbeitrag-spaet-erkannt` - bei kombinierten Massnahmen.
-- `rechtecheck-urhg-verlg` - vertiefte urheberrechtliche Pruefung.
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 280, 305 ff., 307, 311, 426 - Pflichtverletzung, AGB-Kontrolle, vorvertragliche Aufklaerung, Innenausgleich.
@@ -182,3 +169,4 @@ Mit freundlichen Gruessen
 - VVG - Versicherungsvertragsgesetz, insb. Anzeigepflicht.
 - ZPO § 72 - Streitverkuendung.
 - BGH-Rechtsprechung zur Haftungsfreistellungsklausel (Volltexte unter bundesgerichtshof.de).
+

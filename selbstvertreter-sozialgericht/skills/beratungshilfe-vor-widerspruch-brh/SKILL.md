@@ -106,21 +106,7 @@ Beratungshilfe ist VOR dem Gerichtsverfahren. Im laufenden Verfahren brauchen Si
 - Anwalt ohne Schein aufsucht, ohne Vereinbarung → Anwalt kann volles Honorar verlangen
 - Belege fehlen → Schein nicht bewilligt
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `pkh-vor-sozialgericht-73a-sgg` — PKH im laufenden Verfahren
-- `anwaltszwang-pruefen-73-sgg` — Anwalt allgemein
-- `wann-doch-anwalt-grenzfaelle-sozialgericht` — wann Anwalt
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. BerHG aktuell. Eigenanteil seit Jahren 15 EUR. Pruefen Sie aktuellen Stand auf www.justiz.de.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

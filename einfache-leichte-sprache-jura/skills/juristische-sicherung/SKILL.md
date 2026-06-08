@@ -22,12 +22,10 @@ Dieses Fachmodul vor und nach jeder Übertragung.
 - § 214 BGB — Wirkung der Verjährung
 - § 130 BGB — Zugang als Fristbeginn
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Output-Template: Juristische Sicherungs-Matrix
 
 ```
+
 ## Juristische Sicherung — Pruefvermerk
 
 Dokument: [TITEL / AKTENZEICHEN]
@@ -45,6 +43,7 @@ Geprueft am: [DATUM]
 Gesamtbefund: freigabereif / nacharbeiten
 Offene Punkte: [...]
 ```
+
 ## Bedeutungs-Matrix
 
 Erstelle eine Tabelle:
@@ -101,6 +100,7 @@ Beispiele für erklärungsbedürftige Wörter:
 Gib am Ende einen Vermerk aus:
 
 ```markdown
+
 ## Juristische Sicherung
 
 - Fristen geprüft: ...
@@ -109,3 +109,4 @@ Gib am Ende einen Vermerk aus:
 - Begriffe erklärt: ...
 - Nicht geklärt: ...
 ```
+

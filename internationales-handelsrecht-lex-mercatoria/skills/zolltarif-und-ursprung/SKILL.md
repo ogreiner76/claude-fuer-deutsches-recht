@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Zolltarif (EU Kombinierte Nomenklatu
 
 # Zolltarif und nicht-präferenzieller Ursprung
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Zolltarif (EU Kombinierte Nomenklatur, HS-Code) und nicht-präferenzieller Ursprung nach UZK Art. 59-63. Einreihung von Waren, wesentliche Be- und Verarbeitung, ursprungsbestimmende Vorgänge und Antidumping-Relevanz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Die zollrechtliche Einreihung (HS-Code / KN-Code) bestimmt den Zollsatz und Rege
 - BTI beantragen: Bindende Zolltarifauskunft beim Hauptzollamt / EU-Datenbank EBTI
 - Antidumping-Verdacht: EuG-Rspr. zu Umgehungsfällen (curia.europa.eu)
 
-## Output
-
-- HS-Code-Einreihungsschema (AV 1-6)
-- Ursprungsnachweis-Anforderungen (UZK Art. 61)
-- BTI-Antragsformular-Hinweise
-
-## Quellenregel
-
-UZK (VO 952/2013): eur-lex.europa.eu. TARIC: ec.europa.eu/taxation_customs. KN (VO 2658/87): eur-lex.europa.eu. WZO HS: wcoomd.org. Unsicherheit bleibt sichtbar.

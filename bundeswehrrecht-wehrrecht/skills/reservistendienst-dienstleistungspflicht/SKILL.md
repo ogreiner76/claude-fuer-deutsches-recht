@@ -5,10 +5,6 @@ description: "Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–
 
 # Reservistendienst und Dienstleistungspflicht
 
-## Arbeitsbereich
-
-Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–69, Heranziehungsbescheid, Freistellung und Rechtsbehelfe. Norm-/Quellenanker: SG §§ 60–69, WPflG, UhSiG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -35,12 +31,6 @@ Praktische Fragen: Freistellung durch Arbeitgeber, Unterhaltssicherung, Beschwer
 - WPflG — im Spannungsfall
 - UhSiG — Unterhaltssicherung
 - ArbPlSchG — Freistellung Arbeitgeber
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und
-verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
 
 ## Sachverhaltsaufnahme — Startfragen
 
@@ -94,21 +84,6 @@ Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
 - Checkliste: Heranziehungsbescheid anfechten
 - Muster: Antrag Vollzugsaussetzung Heranziehungsbescheid
 
-## Quellenhygiene
-
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen
- (openjur.de, bverwg.de, bverfg.de, bgh.de).
-- Normtexte über gesetze-im-internet.de oder dejure.org live prüfen.
-- Bei Behördenverfahren: aktuelle Formulare und Merkblätter der Bundeswehr / BAPersBw prüfen.
-
-**Primärquellen:**
-
-- https://www.gesetze-im-internet.de/sg/ — §§ 60–69 SG
-- https://www.gesetze-im-internet.de/uhsig/ — UhSiG
-- https://www.gesetze-im-internet.de/arb-plschg/ — ArbPlSchG
-- https://www.bundeswehr.de/de/soldat-werden/reservisten
-
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:
@@ -118,3 +93,4 @@ Vor Ausgabe prüfen:
 - Gegenargumente und Verteidigungslinien formuliert?
 - Beweislastverteilung geklärt?
 - Output entspricht dem gewünschten Arbeitsergebnis?
+

@@ -31,14 +31,7 @@ Wenn ein Unternehmen ein System nicht als Hochrisiko einstuft, muss diese Entsch
 - Incident;
 - Behörden- oder Leitlinienänderung.
 
-## Output
-
-Ein unterschriftsreifer Vermerk mit klarer Entscheidung:
-
-- "Nicht Hochrisiko, weil..."
-- "Grenzen der Freigabe..."
-- "Diese Nutzungen bleiben verboten oder freigabepflichtig..."
-
 ## Warnung
 
 Ein Negativvermerk schützt nur, wenn er aktuell gehalten wird. Er ist kein Freibrief für spätere Zweckverschiebung.
+

@@ -141,19 +141,6 @@ KI-Nutzungsrichtlinie; Folgenabschätzung; KI-Anbieterverträge (AVV + KI-Annex)
 KI-Inventar; Freigabe-/Sperrliste. Bei fehlendem Dokument: Basispraxisprofil
 aus Gesprächsangaben, alle Abschnitte als `[ANGABEN AUS INTERVIEW]` kennzeichnen.
 
-## Ausgabeformat
-
-Praxisprofil als `CLAUDE.md`, Abschnitte: Unternehmensprofil (KI-Rolle gem.
-Art. 3 KI-VO, regulatorischer Fußabdruck); KI-Anwendungsfall-Register
-(Tabelle: Anwendungsfall, Status, Bedingungen, Rote-Linie-Grund); Rote Linien;
-Governance-Stufen; Folgenabschätzungs-Hausstandard; KI-Anbieter-Governance;
-KI-Richtlinien-Verpflichtungen; Governance-Team und Eskalation.
-
-Nach dem Schreiben: Zusammenfassung zeigen, erste Aufgaben vorschlagen
-(Anwendungsfall triagieren, Anbietervertrag prüfen, Richtlinie entwerfen),
-Lücken explizit benennen (kein KI-Inventar = kein systematisches Assessment
-möglich; keine Anbieter-KI-Klauseln = Anbieter kann auf Daten trainieren).
-
 ## Beispiel
 
 Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
@@ -235,3 +222,4 @@ PRAXISPROFIL KI-GOVERNANCE — ERSTERFASSUNG
 Erstellt: [NAME], [DATUM]
 Naechste Pruefung: [DATUM]
 ```
+

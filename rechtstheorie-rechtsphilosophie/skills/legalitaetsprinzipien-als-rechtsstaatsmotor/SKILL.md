@@ -16,10 +16,6 @@ description: "Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit
 - **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Einsatz
-
-Anwendungsfall: eine Rechtsordnung, Behörde, Satzung, Plattformregel, Unternehmensrichtlinie oder gerichtliche Linie als "rechtlich" erscheint, aber unklar ist, ob sie rechtsstaatlich tragfähig funktioniert. Der Skill behandelt Legalität nicht als bloße Ästhetik der Normform, sondern als Mindestarchitektur, die Menschen überhaupt erst erlaubt, ihr Verhalten am Recht auszurichten.
-
 ## Acht Prüfsteine
 
 1. **Allgemeinheit:** Regeln dürfen nicht bloß verkleidete Einzelfallbefehle sein. Prüfe, ob sie nach Fallgruppen, Rollen und Tatbestandsmerkmalen arbeiten.
@@ -39,13 +35,6 @@ Anwendungsfall: eine Rechtsordnung, Behörde, Satzung, Plattformregel, Unternehm
 4. Bestimme, welche Institution den Mangel beheben kann: Gesetzgeber, Verwaltung, Gericht, Satzungsgeber, Vertragsparteien oder interne Governance.
 5. Gib eine kurze Reparaturformel aus: Klarstellung, Übergangsregel, Begründung, Veröffentlichung, Härtefallmechanismus, Rechtsschutz.
 
-## Red-Team-Fragen
-
-- Wird "Flexibilität" benutzt, um willkürliche Einzelfallsteuerung zu verdecken?
-- Muss der Bürger mehr wissen als die Behörde selbst offenlegt?
-- Wird rückwirkend sanktioniert, obwohl vorher keine tragfähige Orientierung bestand?
-- Passen Normtext, Verwaltungspraxis, Begründung und Rechtsfolge tatsächlich zusammen?
-
 ## Regelungs- und Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -63,12 +52,9 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Output
-
-Erstelle eine Rechtsstaatsmatrix mit Ampel je Prüfstein, kurzer Diagnose, institutionellem Reparaturweg und Formulierungsvorschlag für Memo, Stellungnahme, Schriftsatz oder Gesetzgebungsnotiz.
-
 ## Quellen- und Zitierdisziplin
 
 - Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
 - Theoretische Begriffe sind Arbeitswerkzeuge, keine Autoritätsbeweise.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
+

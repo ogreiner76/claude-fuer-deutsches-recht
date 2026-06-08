@@ -5,9 +5,6 @@ description: "Bankrecht Buergschaft Aval Garantieabruf im Plugin Fachanwalt Bank
 
 # Bankrecht Buergschaft Aval Garantieabruf
 
-## Arbeitsbereich
-
-**Bankrecht Buergschaft Aval Garantieabruf** ordnet den Fall über die tragenden Prüfungslinien: Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen, Eilrechtsschutz bei Abruf aus Bankgarantie. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Bankrecht Buergschaft Aval Garantieabruf im Plugin Fachanwalt Bank
 - Tragende Normen verifizieren: WpHG; WpIG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bankrecht-buergschaft-aval-garantie-routing`
@@ -30,10 +28,6 @@ description: "Bankrecht Buergschaft Aval Garantieabruf im Plugin Fachanwalt Bank
 **Fokus:** Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde; §§ 765 ff. BGB, §§ 349 und 350 HGB, erstes Anfordern, Regress, Missbrauchseinwand und Beweislast.
 
 ### Bürgschaft, Aval und Bankgarantie routen
-
-## Aufgabe
-
-Führe ein bankrechtliches Mandat mit Bürgschaft, Aval oder Bankgarantie in den richtigen Prüfpfad. Der Skill ist bewusst praktisch: Erst Rolle und Dokument erkennen, dann Anspruch, Einwendungen, Eilbedarf und Beweise sortieren.
 
 ## Rollenklärung
 
@@ -86,10 +80,6 @@ Erzeuge eine **Mandats-Triage**:
 
 ### Garantieabruf und Eilrechtsschutz
 
-## Aufgabe
-
-Bereite die schnelle gerichtliche oder außergerichtliche Reaktion vor, wenn ein Abruf aus Bankgarantie, Aval oder Bürgschaft droht. Ziel ist kein breiter Gutachtenaufsatz, sondern eine Eilakte, die in derselben Nacht funktionieren könnte.
-
 ## Sofortcheck
 
 - Wann muss die Bank spätestens zahlen?
@@ -106,25 +96,11 @@ Bereite die schnelle gerichtliche oder außergerichtliche Reaktion vor, wenn ein
 - Beweis: Urkunden, E-Mails, Abnahmeprotokolle, Mängellisten, Zahlungsnachweise.
 - Prozessrisiko: Gericht kann bloßen Grundvertragsstreit für unzureichend halten.
 
-## Output
-
-Erzeuge:
-
-1. Eilbrief an Bank.
-2. Eilbrief an Begünstigten.
-3. Antragsgerüst einstweilige Verfügung.
-4. Anlagenliste mit Beweisthema.
-5. Risikoampel, ob Eilrechtsschutz tragfähig ist.
-
 ## 3. `bankrecht-kaufmaennische-buergschaft-hgb-349-350`
 
 **Fokus:** Kaufmännische Bürgschaft prüfen: Handelsgeschäft des Bürgen, § 349 HGB ohne Vorausklage, § 350 HGB ohne BGB-Schriftform, Abgrenzung zu privater Mithaftung, AGB und Prozessstrategie.
 
 ### Kaufmännische Bürgschaft nach HGB
-
-## Aufgabe
-
-Prüfe, ob eine Bürgschaft im kaufmännischen Kontext steht und deshalb harte HGB-Folgen auslöst. Der Skill schützt vor dem häufigen Fehler, jede Geschäftsführer- oder Gesellschafterbürgschaft automatisch kaufmännisch zu behandeln.
 
 ## Kernprüfung
 
@@ -152,3 +128,4 @@ Erstelle:
 - stärkste Kläger-/Beklagtenargumente.
 - Beweisliste zu Kaufmannseigenschaft und Betriebsbezug.
 - Vergleichsfenster, falls Formangriff schwach, aber Überforderung/AGB stark ist.
+

@@ -5,10 +5,6 @@ description: "Prueft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrec
 
 # Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken
 
-## Arbeitsbereich
-
-Prueft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -77,21 +73,3 @@ c) Keine diskretionären Handlungen nach Beginn der Insiderphasee
 - Pre-Clearance-Pflicht für diskretionäre Ausübungen
 - Regelmäßige Schulung der Programmteilnehmer
 
-## Red-Team-Fragen
-
-- Fallen Vesting-Termine regelmäßig in Closed Periods?
-- Wurden Mitarbeiter mit Insiderkenntnissen auf das Ausübungsverbot hingewiesen?
-- Gibt es vorgefasste Pläne, die den Safe Harbour nach Art. 9 Abs. 3 MAR begründen?
-- Ist die Unterscheidung zwischen PDMRs (Closed-Period-Verbot) und sonstigen Mitarbeitern
- (nur Insiderhandelsverbot) sauber implementiert?
-- Wird das Programm regelmäßig auf insiderrechtliche Risiken überprüft?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Programm-Risikomatrix: Instrument × Closed Period × Insiderstatus × Safe Harbour
-2. Safe-Harbour-Plan-Vorlage (vorgefasster Ausübungsplan)
-3. Mitarbeiter-Belehrungsschreiben (Insiderrecht und Aktienplan)
-4. Compliance-Empfehlungen für Programmüberarbeitung
-
-Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de, dejure.org.

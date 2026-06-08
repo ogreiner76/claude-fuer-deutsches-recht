@@ -5,10 +5,6 @@ description: "Impressum DDG Anbieterkennzeichnung: prüft die einschlägigen Vor
 
 # Impressum / Anbieterkennzeichnung nach DDG
 
-## Arbeitsbereich
-
-Impressum DDG Anbieterkennzeichnung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -117,15 +113,6 @@ DE[...]
 - Impressum-Link auf Detailseite nicht vorhanden (mehr als 2 Klicks).
 - Social-Media: kein Impressum-Link in der Profilbeschreibung.
 
-## Querverweise
-
-- datenschutzerklaerung-tracking-consent-dsgvo-ttdsg-tdddg
-- dsa-pflichten-vermittlungsdienste-online-plattformen
-- influencer-affiliate-kennzeichnung-uwg
-- agb-im-online-shop-einbeziehung-305-bgb
-- shop-check-checkout-widerruf-impressum
-- rechtstexte-versionierung-deployment
-
 ## Quellen Stand 06/2026
 
 - DDG §§ 5, 6, 7–10, 26 – Volltext gesetze-im-internet.de.
@@ -134,3 +121,4 @@ DE[...]
 - TDDDG – Volltext gesetze-im-internet.de.
 - § 27a UStG – Volltext gesetze-im-internet.de.
 - BGH zur Zwei-Klicks-Regel – ständige Rechtsprechung; bundesgerichtshof.de.
+

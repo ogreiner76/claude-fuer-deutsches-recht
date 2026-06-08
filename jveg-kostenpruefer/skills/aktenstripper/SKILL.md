@@ -5,10 +5,6 @@ description: "JVEG-relevante Daten aus Gerichtsakten und Gutachterunterlagen ext
 
 # JVEG-Aktenstripper
 
-## Arbeitsbereich
-
-JVEG-relevante Daten aus Gerichtsakten und Gutachterunterlagen extrahieren: Termine, Stunden, Auslagen. Normen: §§ 2 ff. JVEG. Prüfraster: Terminsprotokoll, Stundennachweis, Belegstruktur. Output: Extrahierter Datensatz für Kostenprüfung. Abgrenzung: nicht Kostenberechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,9 +16,6 @@ JVEG-relevante Daten aus Gerichtsakten und Gutachterunterlagen extrahieren: Term
 ## Fachkern: JVEG-Aktenstripper
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.
 - **Entscheidende Weiche:** Trenne Rolle Zeuge/Sachverständiger/Dolmetscher, Zeitaufwand, Auslagen, Verdienstausfall, Vorschuss, Frist und Belegwert.
-
-## Aufgabe
-Extrahiere alle vergütungsrelevanten Daten aus Gerichtsschreiben, Anträgen, Rechnungen und Belegen und überführe sie in eine strukturierte, prüfbare JVEG-Datenmatrix.
 
 ## Triage — kläre vor dem Ausstreifen
 
@@ -48,18 +41,8 @@ Extrahiere alle vergütungsrelevanten Daten aus Gerichtsschreiben, Anträgen, Re
 3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Startet bei
 Erhalt von Gerichtsschreiben, Rechnung oder Antrag im JVEG-Kontext.
-
-## Arbeitsweise
-1. Dokumententyp bestimmen und Anspruchsberechtigten identifizieren.
-2. Alle Positionen mit Betrag, Norm und Beleg in die Matrix einlesen.
-3. Fristen prüfen (§ 23 JVEG).
-4. Vollständigkeitscheck: fehlende Belege markieren.
-5. Matrix an nachgelagerte Prüf-Skills übergeben.
 
 ## Output-Template
 

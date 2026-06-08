@@ -5,10 +5,6 @@ description: "Influencer-Recht: Werbung für Alkohol, Tabak und Cannabis – Tab
 
 # Influencer-Recht: Alkohol, Tabak und Cannabis – Werberestriktionen
 
-## Arbeitsbereich
-
-Influencer-Recht: Werbung für Alkohol, Tabak und Cannabis – TabakerzG, JuSchG, LMIV, MStV und Werbeverbote. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

@@ -5,10 +5,6 @@ description: "Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaber
 
 # IP-Klausel-Prüfung
 
-## Arbeitsbereich
-
-Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Prüfraster: Übertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistung Freistellung Reichweite. Output: IP-Klausel-Prüfbericht mit Risikokennzeichnung und Aenderungsvorschlaegen. Abgrenzung zu unterlassungsverlangen (Verletzung) und open-source-prüfung (OSS-Compliance). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freiste
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Diese Skill liest die IP-Klauseln eines Vertrags und gibt dem Rechtsanwalt für jede Klausel eine strukturierte Auswertung: Was steht drin, wie weicht es von der Marktpraxis oder der Hausposition ab, welches Risiko besteht, und — wo angebracht — welcher konkrete Änderungsvorschlag greift. Das Ziel ist ein Vermerk, der in einem Durchgang handlungsfähig macht.
-
-Die wichtigsten IP-Klauseln in den meisten Verträgen sind Rechteeinräumung und Inhaberschaft. Fehler hier sind schwer zu korrigieren. Eine fehlende oder unklare Rechteübertragung taucht später in Due-Diligence-Prozessen, Finanzierungsrunden und Rechtsstreitigkeiten auf.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ## Eingaben
 
@@ -213,10 +201,6 @@ Format:
 [Wer genehmigt; was löst automatische Eskalation aus]
 ```
 
-## Ausgabeformat
-
-Vermerk mit Arbeitsergebnis-Kopfzeile, Gesamtbewertung, Rechteübertragungsprüfung, Klauselblöcke nach Schweregrad, Konsistenzprüfung, Rechtsordnungshinweis, Weiterleitungshinweise. Änderungsvorschläge: kleinstmögliche Eingriffsgranularität (Wort vor Phrase vor Satz vor Klausel).
-
 ## Beispiel
 
 **Eingabe:** Werkvertrag mit einem freien Softwareentwickler, der "alle Urheberrechte an den Arbeitsergebnissen überträgt".
@@ -265,3 +249,4 @@ Bevor die Klauselanalyse beginnt, klaere:
 
 <!-- AUDIT 27.05.2026: 4 halluzinierte Leitentscheidungen geprüft und bereinigt.
 Frontmatter unverändert. Kein Commit. Bearbeiter: Halluzinations-Reparatur-Pipeline. -->
+

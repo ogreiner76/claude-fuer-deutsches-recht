@@ -93,15 +93,6 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 **Kritik aus Critical Legal Studies:** Diskurstheorie unterstellt einen Konsens, der politisch beeinflusst ist. Wer am Diskurs teilnimmt, wer ausgeschlossen ist — das ist Machtfrage.
 
-## Querverweise
-
-- `wertungsjurisprudenz-larenz-canaris` — verwandte Methodenposition.
-- `topik-viehweg-vs-systemdenken` — Vorlaeufer des Diskursmodells.
-- `argumentum-figuren-e-contrario-a-maiore-a-fortiori` — klassische Argumentationsmuster.
-- `verfassungs-und-unionsrechtskonforme-auslegung` — Anwendungsfeld der Gewichtungsformel.
-- `systemtheorie-luhmann-rechtssystem-autopoiese` — Gegenposition.
-- `legal-realism-und-critical-legal-studies` — externe Kritik.
-
 ## Quellen und Stand 05/2026
 
 - Juergen Habermas, Faktizitaet und Geltung, Frankfurt 1992.
@@ -112,10 +103,3 @@ Fuer die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 Stand: Mai 2026.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

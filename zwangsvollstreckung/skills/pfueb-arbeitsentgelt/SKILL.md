@@ -17,10 +17,6 @@ Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 85
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Pfändung des laufenden Arbeitseinkommens. Bauteil mit den meisten Stolpersteinen: Pfändungstabelle, Unterhalt, Sonderzuwendungen, Krankengeld, Arbeitgeberwechsel.
-
 ## Startet bei
 
 - Titel + Klausel + Zustellung grün
@@ -61,24 +57,6 @@ Gültig seit 1.7.2025 (Bekanntmachung BMJ). Die Tabelle wird zum 1.7. jeden unge
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-```
-PFÜB ARBEITSENTGELT [Mandant] gegen [Schuldner], Az [Gericht]
-
-Titel: [Art, Datum, Aussteller]
-Forderung: EUR Haupt + EUR Zinsen + EUR Kosten
-Drittschuldner: [Arbeitgeber als juristische Person]
-Schuldner-Netto: EUR x (zuletzt bekannter Wert, Datum)
-Unterhaltspflichten: [Anzahl]
-Pfändbarer Betrag: EUR y / Monat (Tabelle 1.7.2025)
-Privileg § 850d: [ja – Unterhaltsforderung / nein]
-Sonderzuwendungen: [erfasst nach § 850a Nr. 3/4 ZPO]
-
-NÄCHSTER SCHRITT: Drittschuldnererklärung in 2 Wochen
-WIEDERVORLAGE: DD.MM.JJJJ
-```
-
 ## Qualitätsgates
 
 - Niemals Bruttoeinkommen pfänden – pfändbar ist der Nettoteil.
@@ -93,10 +71,3 @@ Geprüft: 3 AZ aus task_259.json
 - BGH VII ZB 17/05: WRONG_TOPIC (real: § 850f Abs. 2 ZPO Vollstreckungsprivileg, nicht § 850a Nr. 4) → Beschreibung korrigiert
 -->
 
-## Querverweise
-
-- `zv-pfaendungstabelle-2025` – Rechentool
-- `zv-titel-klausel-zustellung` – Vorprüfung
-- `zv-vermoegensauskunft-gv` – wenn Arbeitgeber unbekannt
-- `zv-elektronische-zustellung-2027` – ERV-Stand
-- `zv-abwehr-schuldner` – Schuldnersicht

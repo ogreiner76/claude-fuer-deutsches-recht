@@ -17,10 +17,6 @@ Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Aufgabe
-
-Wohn- oder Gewerberäume vom Schuldner herausverlangen. Hier kollidieren Eigentumsschutz und sozialer Schutz – Skill achtet ausdrücklich auf Mitbewohner und Härtefallschutz.
-
 ## Startet bei
 
 - Räumungstitel (Urteil, gerichtlicher Vergleich) vorhanden
@@ -103,9 +99,3 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Bei minderjährigen Kindern: Jugendamt-Beteiligung mitdenken.
 - Schlüsseldienst, Vorschuss, Versicherung der Habe sicherstellen.
 
-## Querverweise
-
-- `zv-titel-klausel-zustellung`
-- `zv-mobiliar-gv-auftrag` – ähnliche GV-Mechanik
-- `zv-abwehr-schuldner`
-- `zv-elektronische-zustellung-2027`

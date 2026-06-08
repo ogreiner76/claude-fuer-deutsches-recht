@@ -5,9 +5,6 @@ description: "Drittanfechtung im Plugin Fachanwalt Verwaltungsrecht: prüft konk
 
 # Drittanfechtung
 
-## Arbeitsbereich
-
-**Drittanfechtung** ordnet den Fall über die tragenden Prüfungslinien: Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn, Einstweiligen Rechtsschutz nach § 80 Abs. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Drittanfechtung im Plugin Fachanwalt Verwaltungsrecht: prüft konk
 - Tragende Normen verifizieren: VwGO; VwVfG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt`
@@ -30,10 +28,6 @@ description: "Drittanfechtung im Plugin Fachanwalt Verwaltungsrecht: prüft konk
 **Fokus:** Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn oder Umweltverband: Klagebefugnis und materielle Gründe prüfen. Normen: § 42 Abs. 2 VwGO (Schutznorm-Theorie), § 5 BImSchG (Nachbarschutz), UmwRG (Verbandsklage), UVP-Pflicht. Prüfraster: Klagebefugnis Dritter, drittschützende Normen, UVP-Fehler, Verbandsklage. Output Klageschrift-Entwurf, Klagebefugungs-Gutachten. Abgrenzung: BImSchG-Genehmigung Betreiber siehe energieanlagen-bimschg-genehmigung-verfahren; Bauleitplanung Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo.
 
 ### Drittanfechtung Umwelt-Genehmigung
-
-## Zweck
-
-Klage von Nachbarn / Verbänden gegen umweltrechtliche Genehmigungen.
 
 ## 1) Klagebefugnis § 42 II VwGO
 
@@ -177,9 +171,6 @@ Klage von Nachbarn / Verbänden gegen umweltrechtliche Genehmigungen.
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Anschluss
 
 - `testakten/umweltrecht-industrieanlage-genehmigung` — bei vertiefter Verteidigung
@@ -512,10 +503,6 @@ Aktuelle Linien mit Eilrechtsschutz-Bezug:
 - **Spezialfrage (Klimaklage gegen Bundesländer — KSG / BVerfG 2021):** Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg BVerfG: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 - **Prüfzugriff:** Sachverhalt, Norm, Zugang/Form/Frist oder Anspruchsvoraussetzung zuerst klären; Rechtsprechung erst danach als verifizierten Beleg nutzen.
 
-## Zweck
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
 ## Eingaben
 
 - Bundesland (jedes hat eigenes Klima-Gesetz, z. B. Bayern, NRW, Berlin)
@@ -604,13 +591,6 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | Politische Eile / Bundestagswahl | Beschleunigung politisch | Beobachtung | klar gerichtlich |
 | Verbandsklage statt Individual | Klagebefugnis Verein nach KSG / UmwRG | Klärung | UmwRG-anerkannter Verein |
 
-## Querverweise
-
-- `fachanwalt-verwaltungsrecht-orientierung` — Triage
-- `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt` — bei Umwelt-Genehmigungs-Verfahren
-- `fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo` — bei Verordnungs-Klage
-- `aussenwirtschaft-zoll-sanktionen` — CBAM-Klima-Zoll
-
 ## Quellen und Updates
 
 Stand 05/2026. Rechtsprechung im Schriftsatz live verifizieren — Aktenzeichen nicht aus Modellwissen.
@@ -621,3 +601,4 @@ Stand 05/2026. Rechtsprechung im Schriftsatz live verifizieren — Aktenzeichen 
 - BVerfG-Entscheidungsdatenbank — [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SiteGlobals/Forms/Suche/EN/Entscheidungensuche_Formular.html)
 
 Hinweis: BVerfG hat im Klimabeschluss 2021 die Erstreckung der Schutzpflicht auf künftige Freiheitsgrundrechte etabliert (intertemporale Freiheitssicherung). EGMR KlimaSeniorinnen 04/2024 erweitert die Art. 8 EMRK-Schutzpflicht. Beide Linien sind in Klagebegründungen tragfähig, wenn Mandantenbetroffenheit substantiiert wird.
+

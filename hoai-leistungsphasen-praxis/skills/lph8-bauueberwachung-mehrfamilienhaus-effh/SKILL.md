@@ -5,10 +5,6 @@ description: "Bauueberwachung nach HOAI LPH 8 für Mehrfamilienhaeuser als KfW-E
 
 # Bauueberwachung Mehrfamilienhaus Energieeffizienzgebaeude (LPH 8)
 
-## Arbeitsbereich
-
-Bauueberwachung nach HOAI LPH 8 für Mehrfamilienhaeuser als KfW-Energieeffizienzgebaeude EH 40 oder EH 55 — Koordination Massivbau und TGA-Gewerke, WDVS nach ETAG 004, Luftdichtheitsnachweis nach DIN 4108-7, Aufzugsanlagen nach DIN EN 81-20 und Brandschutzkonzept nach LBO. Unterstuetzt KfW-konforme Dokumentation und digitale Maengelverfolgung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,12 +75,6 @@ Der akkreditierte Energieeffizienz-Experte (EE-Experte) begleitet Ausfuehrung un
 - WDVS-Duebel vergessen: Unterputz ohne Duebel loest sich von der Fassade
 - Aufzugsschacht zu kurz: Grubentiefe unterschritten, Pruefingenieur verweigert Abnahme
 
-## Output
-
-Woechentliche Baubesprechungsprotokolle. WDVS-Qualitaetsnachweis (Duebelliste, Klebeprotokoll).
-Heizungsdruckpruefprotokoll. KfW-Fertigstellungsbestaetigung BEG.
-Abnahmeprotokoll je Wohneinheit. Fotodokumentation verdeckter Bauteile als PDF-Export.
-
 ## Quellen
 
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
@@ -93,3 +83,4 @@ Abnahmeprotokoll je Wohneinheit. Fotodokumentation verdeckter Bauteile als PDF-E
 - [DIN EN 13670 Beton](https://www.gesetze-im-internet.de/)
 - [VOB/B § 12 Abnahme](https://www.gesetze-im-internet.de/vob-b/__12.html)
 - [BGH VII ZR 308/09 KfW-Energienachweis](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+308/09)
+

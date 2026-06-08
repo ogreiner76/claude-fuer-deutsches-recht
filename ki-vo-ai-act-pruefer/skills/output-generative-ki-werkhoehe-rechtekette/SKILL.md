@@ -5,10 +5,6 @@ description: "Output generativer KI: Werkhoehe, menschlicher Schoepfungsbeitrag,
 
 # Generativer Output: Werkhöhe und Rechtekette
 
-## Zweck
-
-Dieser Skill prüft, ob ein KI-generierter Output genutzt, veröffentlicht, lizenziert oder in ein Produkt eingebaut werden kann.
-
 ## Prüfraster
 
 1. **Input:** Welche Prompts, Vorlagen, Referenzen, Uploads wurden genutzt?
@@ -19,13 +15,7 @@ Dieser Skill prüft, ob ein KI-generierter Output genutzt, veröffentlicht, lize
 6. **Kennzeichnung:** Art. 50 KI-VO, Plattformregeln, Branchenregeln.
 7. **Haftung:** Urheberrecht, UWG, Persönlichkeitsrecht, Vertragsgewährleistung.
 
-## Output
-
-- Freigabevermerk.
-- Lizenz- und Rechtekettenmatrix.
-- Risikohinweise für Veröffentlichung.
-- Nachbearbeitungsplan, wenn Werkhöhe oder Rechtekette schwach ist.
-
 ## Grundsatz
 
 Nicht jeder KI-Output ist frei nutzbar. Nicht jeder KI-Output ist schutzlos. Entscheidend ist der konkrete menschliche Beitrag und die Nähe zu fremdem Material.
+

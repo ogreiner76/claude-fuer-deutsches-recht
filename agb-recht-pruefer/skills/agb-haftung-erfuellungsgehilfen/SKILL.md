@@ -40,7 +40,3 @@ description: "AGB-Haftung für Erfuellungsgehilfen. Skill klaert die AGB-rechtli
 3. Kardinalpflicht beruehrt?
 4. § 309 Nr. 7 BGB erfuellt?
 
-## Output
-
-- Klauselentwurf.
-- Schriftsatzbaustein.

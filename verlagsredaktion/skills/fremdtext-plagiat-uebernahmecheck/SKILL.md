@@ -5,10 +5,6 @@ description: "Markiert Fremdtext-, Copy-Paste-, Plagiats-, KI-Text- und Paraphra
 
 # Fremdtext- und Übernahmecheck
 
-## Arbeitsbereich
-
-Markiert Fremdtext-, Copy-Paste-, Plagiats-, KI-Text- und Paraphrase-Risiken und erstellt eine redaktionelle Klaerungsliste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -29,13 +25,6 @@ Nicht kriminalisieren, sondern sauber klären: Was ist Autor:innenleistung, was 
 - KI-typische Glättung ohne Belege.
 - Tabellen oder Übersichten ohne Herkunft.
 - Screenshots aus Drittquellen.
-
-## Output
-
-- Risikoliste.
-- Textstellen mit Markierung.
-- Nachforderungsmail.
-- Vorschlag: zitieren, paraphrasieren, streichen, Rechte klären.
 
 ## Schneller Arbeitsmodus
 
@@ -61,10 +50,3 @@ Nicht kriminalisieren, sondern sauber klären: Was ist Autor:innenleistung, was 
 - Stilbruchanalyse je Absatz; semantische Konsistenz; Quellenverzeichnis komplett?
 - Bilder mit Lizenznachweis; URL+Stand für Webquellen; Bibliographie nach `references/zitierweise.md`.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

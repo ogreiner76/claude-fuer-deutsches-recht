@@ -5,10 +5,6 @@ description: "Skill zur Abgrenzung Heilfürsorge und Beihilfe im Vollzugsdienst.
 
 # Heilfürsorge versus Beihilfe — Vollzugsdienst und Soldaten
 
-## Arbeitsbereich
-
-Skill zur Abgrenzung Heilfürsorge und Beihilfe im Vollzugsdienst. Klaert die Systemunterschiede zwischen freier Heilfürsorge für Polizeibeamte und Soldaten und der Beihilfe der Verwaltungsbeamten. Behandelt die Konstellation Krankenversicherungsschutz bei aktiver Verwendung Uebergang in den Ruhestand und Anspruch auf Wahlleistungen Heilpraktiker Sehhilfen und Zahnersatz. Liefert Pruefraster Antrag und Beratungsbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -68,3 +64,4 @@ Skill für Beamte in der Heilfürsorge (Bundespolizei, Bundeswehr, Justizvollzug
 ## 7. Beispiel (Kurzfassung)
 
 Polizeihauptkommissar tritt mit 62 in den Ruhestand. Skill liefert Hinweise auf rechtzeitigen Beihilfeantrag, Anwartschaftsversicherung der PKV und Erstattungsumfang für Brillen.
+

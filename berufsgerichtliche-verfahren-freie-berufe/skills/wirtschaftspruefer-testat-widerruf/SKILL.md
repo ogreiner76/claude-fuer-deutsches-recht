@@ -5,10 +5,6 @@ description: "Wirtschaftsprüfer Testat Widerruf (Verteidigungs- und Kammerantwo
 
 # Wirtschaftsprüfer Testat Widerruf: Verteidigungs- und Kammerantwort
 
-## Arbeitsbereich
-
-Wirtschaftsprüfer Testat Widerruf (Verteidigungs- und Kammerantwort): steuert fehlerhaftes Testat, Nachtragsprüfung, Widerruf, Marktinformation und Haftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,12 +16,6 @@ Wirtschaftsprüfer Testat Widerruf (Verteidigungs- und Kammerantwort): steuert f
 ## Fachkern: Wirtschaftsprüfer Testat Widerruf: Verteidigungs- und Kammerantwort
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG/BOStB, WPO/BS WP, PAO/BOPA, RDG/RVG, Kammerverfahren, Berufsgerichtsbarkeit und Verwaltungsrechtsschutz.
 - **Entscheidende Weiche:** Bestimme Berufsgruppe, Pflichtnorm, Kammerzuständigkeit, Anhörung, Verteidigungsziel, Sanktion, Sofortmaßnahme und Reputationsschutz.
-
-## Einsatz
-
-Er ordnet die konkrete Lage, sichere Tatsachen, offene Fragen, Risiken, Quellen und den nächsten verwertbaren Schritt.
-
-**Fokus:** fehlerhaftes Testat, Nachtragsprüfung, Widerruf, Marktinformation und Haftung - Verteidigungs- und Kammerantwort
 
 ## Sofortsortierung
 
@@ -58,6 +48,3 @@ Erzeuge Stellungnahme, Akteneinsicht, Bestreiten, Einordnung, Entlastung, Wieder
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
 
-## Quellenhygiene
-
-Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei Behörden-, Berufs-, Verbraucher- und Verfahrensrecht zuerst die aktuelle amtliche Normfassung und die zuständige öffentliche Stelle prüfen.

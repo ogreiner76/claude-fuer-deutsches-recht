@@ -5,10 +5,6 @@ description: "Zeigt, wie fortgeltende Gesetze durch Auslegung, neue Rechtsquelle
 
 # Rechtsperversion ohne Gesetzesänderung
 
-## Arbeitsbereich
-
-Zeigt, wie fortgeltende Gesetze durch Auslegung, neue Rechtsquellenlehren, Verwaltungspraxis und Richterrecht in autoritären Systemen inhaltlich umcodiert werden können. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Quelleneditionen, Lehrstühle für deutsche Rechtsgeschichte, Verfassungsrechtler (Auslegungshintergrund), Restitutionsverfahren mit historischem Anker.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Quellenedition, rechtshistorisches Gutachten, Vorlesungsskript, dogmenhistorischer Aufsatz, Verfassungsentstehungsgeschichte — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Dieser Skill ist für Fälle gedacht, in denen formale Normkontinuität täuscht. Er trennt Gesetzestext, institutionelle Macht, Auslegungslehre und tatsächliche Rechtsanwendung.
-
 ## Prüffragen
 
 - Galt der Text weiter, aber mit neuem Inhalt?
@@ -46,10 +38,6 @@ Dieser Skill ist für Fälle gedacht, in denen formale Normkontinuität täuscht
 - Welche Grundrechte oder subjektiven Rechte wurden entleert?
 - Welche Nachkriegsdeutung verschweigt diese Mechanik?
 
-## Output
-
-Umcodierungsanalyse mit Textkontinuität, Bedeutungsbruch und Belegmatrix.
-
 ## Quellen- und Zitierdisziplin
 
 - Interne Arbeitsquellen oder Vorlagen nicht als Autorität anführen.
@@ -57,3 +45,4 @@ Umcodierungsanalyse mit Textkontinuität, Bedeutungsbruch und Belegmatrix.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur nennen, wenn der Nutzer sie ausdrücklich bereitstellt oder ein lizenzierter Live-Zugriff dokumentiert ist.
 - Wenn eine historische Tatsachenbehauptung nicht geprüft ist, als Prüfpunkt markieren und nicht als gesichert ausgeben.
+

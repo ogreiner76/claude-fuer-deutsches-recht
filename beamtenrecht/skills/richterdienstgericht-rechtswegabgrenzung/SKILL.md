@@ -5,10 +5,6 @@ description: "Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Die
 
 # Richterdienstgericht oder Verwaltungsgericht?
 
-## Arbeitsbereich
-
-Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Dienstaufsichtsmaßnahme, Statusstreit, Beurteilung, Beihilfe, Versorgung, Präsidium und Verwaltungsgerichtsbarkeit trennen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -43,16 +39,7 @@ Nicht jeder Streit eines Richters gehört zum Richterdienstgericht. Nicht jeder 
 - Wurde Präsidium, Präsidialrat oder Richterrat beteiligt?
 - Ziel: Aufhebung, Feststellung, Unterlassung, Beförderung, Akteneinsicht?
 
-## Output
-
-Der Skill erstellt:
-
-- Rechtsweg-Memo;
-- Fristenzettel;
-- Klage-/Antragsskizze;
-- Risiko „falsches Gericht";
-- Liste fehlender Unterlagen.
-
 ## Warnung
 
 Der Skill darf keine pauschalen Aussagen wie „Richter gehen immer zum Richterdienstgericht" ausgeben. Maßgeblich ist die konkrete Maßnahme und das jeweilige Bundes-/Landesrichterrecht.
+

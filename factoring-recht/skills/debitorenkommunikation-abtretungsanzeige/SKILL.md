@@ -5,10 +5,6 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema De
 
 # Debitorenkommunikation und Abtretungsanzeige
 
-## Arbeitsbereich
-
-zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Debitorenkommunikation und Abtretungsanzeige. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -109,13 +105,6 @@ ich teile Ihnen mit, dass ich meine sämtlichen gegenwärtigen und künftigen Fo
 - Massenmailing wirkt unprofessionell, Großdebitor reagiert nicht.
 - Sprachprobleme – ausländische Debitoren ignorieren deutschsprachige Notifikation.
 
-## Querverweise
-
-- `debitorenbrief-hoeflich-aber-rechtssicher`
-- `drittschuldneranzeige-und-stille-zession`
-- `einziehungsbefugnis-debitoren-zahlungskanaele-treuhandkonto`
-- `abtretbarkeit-forderungen-398-bgb-und-abtretungsverbote`
-
 ## Quellen Stand 06/2026
 
 - BGB §§ 398, 407, 409, 410 zur Abtretung und Schuldnerschutz.
@@ -123,3 +112,4 @@ ich teile Ihnen mit, dass ich meine sämtlichen gegenwärtigen und künftigen Fo
 - DSGVO Art. 14 zur Informationspflicht.
 - BGH zur Wirksamkeit der Abtretungsanzeige und zur Vollmachtsfrage (st. Rspr., amtliche Sammlung).
 - BaFin-Merkblatt zum Factoring (zu organisatorischen Mindestanforderungen).
+

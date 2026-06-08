@@ -5,10 +5,6 @@ description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) n
 
 # F-Gase und Ozonschutzstoffe: Einfuhrkontrolle und Quotenmanagement
 
-## Arbeitsbereich
-
-Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmigungsantrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -56,19 +52,6 @@ Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 51
 - Kaelteanlagentechniker ohne F-Gas-Zertifikat machen Unternehmen bussgeldpflichtig.
 - Ozonabbauende Stoffe in kleinen Mengen für Laboranalysen koennen Sonderausnahmen haben.
 
-## Arbeitsweise
-
-Dieser Skill fuehrt strukturiert durch den Sachverhalt. Beginn mit Tatsachenerhebung:
-Beteiligte (Exporteur Importeur Spediteur Zwischenhaendler Bank Endverwender), betroffene Waren
-(mit HS-/KN-/TARIC-Code und Dual-Use-Klassifizierung), Länder und Routen, Vertragslage,
-behordliche Vorgeschichte und Fristen. Danach Rechtsrahmen abschichten: harte Verbote zuerst,
-dann Genehmigungspflichten, Meldeobliegenheiten und Dokumentationsanforderungen.
-Sofortmassnahmen benennen (Stop-Ship, Legal Hold, Eskalation) bevor Genehmigungsantrag
-oder Offenlegungsstrategie erarbeitet wird. Jede Entscheidung mit Quellenstand und Datum
-protokollieren. Offene Punkte bleiben sichtbar und werden nicht als Freigabe getarnt.
-Keine Listenlage aus Modellwissen behaupten. Nur amtliche oder frei zugaengliche Quellen
-(EUR-Lex, gesetze-im-internet.de, bafa.de, zoll.de) zitieren; Abrufdatum festhalten.
-
 ## Schnittstellen zu anderen Skills
 
 Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbesondere:
@@ -87,13 +70,10 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
-## Output
-
-Einfuhr-Compliance-Pruefbericht mit Quotenstatus, Genehmigungsantrag Umweltbundesamt, Zertifizierungsnachweis-Checkliste und TARIC-Auszug.
-
 ## Quellen
 
 - [VO (EU) 517/2014 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0517)
 - [VO (EG) 1005/2009 auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32009R1005)
 - [Umweltbundesamt F-Gase](https://www.umweltbundesamt.de/themen/klima-energie/treibhausgase/f-gase)
 - [Zoll.de Verbote und Beschraenkungen](https://www.zoll.de/DE/Fachthemen/Verbote-Beschraenkungen/verbote-beschraenkungen_node.html)
+

@@ -5,10 +5,6 @@ description: "Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/L
 
 # Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen
 
-## Arbeitsbereich
-
-Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -113,3 +109,4 @@ Dieser Skill bearbeitet **Artemis Accords und Verhältnis zu UN-Verträgen** im 
 - UNOOSA COPUOS: https://www.unoosa.org/oosa/en/ourwork/copuos/index.html
 - ESA Artemis: https://www.esa.int/Enabling_Support/Space_Law/ESA_and_the_Artemis_Accords
 - US SPACE Act 2015: https://www.congress.gov/bill/114th-congress/house-bill/2262
+

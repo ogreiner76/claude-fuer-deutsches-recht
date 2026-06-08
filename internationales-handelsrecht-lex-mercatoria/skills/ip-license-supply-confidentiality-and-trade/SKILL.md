@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: IP-Lizenzen in der Lieferkette. Pate
 
 # IP-Lizenzen in der Lieferkette
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: IP-Lizenzen in der Lieferkette. Patentzwangslizenz, Markenlizenz, Know-how-Lizenz, Reichweite von Sublizenzrechten, Exhaustion-Doktrin (EUIPO) und IP-Klauseln in Supply-Chain-Verträgen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,7 @@ Lieferketten enthalten häufig IP-Rechte: der Hersteller lizenziert Know-how, de
 - Know-how-Schutz: NDA + digitale Zugangskontrolle + Audit-Trail
 - Post-termination: IP-Nutzungsrecht explizit beenden (Übergangsphase mit Lizenz-Zeitfenster)
 
-## Output
-
-- IP-Klausel-Matrix für Lieferverträge (Background/Foreground/Sublizenz)
-- Erschöpfungs-Analyse für parallele Importe
-- Know-how-Schutzmaßnahmen-Checkliste
-
 ## Quellenregel
 
 PatG §§ 9, 20: gesetze-im-internet.de. MarkenG § 24: gesetze-im-internet.de. HGeschGehG § 9: gesetze-im-internet.de. TRIPS Art. 31: wto.org. Unsicherheit bleibt sichtbar.
+

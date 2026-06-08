@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte de
 
 # Rechtstatsachen und Sozialgeschichte des Rechts
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte des Rechts. Eugen Ehrlichs lebendes Recht, Rechtstatsachenforschung, soziologische Rechtswissenschaft und Recht in der Alltagspraxis. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -68,12 +64,3 @@ Rechtstatsachen sind die empirischen Befunde der Rechtswirklichkeit: Wie wird Re
 - Anachronismus-Vermeidung: Keine modernen Konzepte (z. B. Arbeitnehmerbegriff) in 1900-Quellen
 - Kombination: Normquellen und empirische Quellen (Gerichtsprotokolle, Notariatsakten)
 
-## Output
-
-- Lebendes Recht vs. Buchrecht: Beispiele aus deutschem BGB-Recht 1900-1950
-- Sozialgeschichtliche Analyse: Wer gewann, wer verlor im BGB?
-- Rechtstatsachenforschungs-Methoden: Ueberblick
-
-## Quellenregel
-
-Ehrlich 1913: Erstausgabe mit Seite. BGB: gesetze-im-internet.de. Rechtstatsaechliche Quellen: Statistisches Bundesamt oder historische Gerichtsprotokolle (Landesarchive).

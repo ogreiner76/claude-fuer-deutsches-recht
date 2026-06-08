@@ -5,9 +5,6 @@ description: "Spezial Raub Rechtsbeugung im Strafrecht: prüft konkret Raub nach
 
 # Spezial Raub Rechtsbeugung
 
-## Arbeitsbereich
-
-**Spezial Raub Rechtsbeugung** ordnet den Fall über die tragenden Prüfungslinien: Raub nach § 249 StGB, Raub mit Todesfolge nach § 251 StGB, Rechtsbeugung nach Paragraph 339 StGB. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -30,6 +27,7 @@ description: "Spezial Raub Rechtsbeugung im Strafrecht: prüft konkret Raub nach
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `strafrecht-spezial-raub-249-stgb`
@@ -125,14 +123,6 @@ In der Praxis ist die Abgrenzung **Raub vs. raeuberische Erpressung (§§ 253, 2
 **Hilfsbeweisantrag:**
 > Hilfsweise wird beantragt, den Polizeibeamten ... zur Aussage des Geschaedigten unmittelbar nach der Tat zu vernehmen. Beweisthema: Der Geschaedigte hat in der ersten Aussage angegeben, dass die Schlaege wegen einer vorgaengigen Beleidigung gefallen seien und das Geld erst danach abgenommen wurde.
 
-## Querverweise
-
-- `strafrecht-spezial-schwerer-raub-250-stgb` – Qualifikation.
-- `strafrecht-spezial-raub-mit-todesfolge-251-stgb` – Erfolgsqualifikation.
-- `strafrecht-spezial-raeuberischer-diebstahl-252-stgb` – Auffangtatbestand.
-- `strafrecht-spezial-erpresserischer-menschenraub-239a-239b-stgb` – verwandte Tatbestaende.
-- `fachanwalt-strafrecht-einlassung-vorbereiten` – Aussagestrategie.
-
 ## Quellen Stand 06/2026
 
 - § 249 StGB Raub (gesetze-im-internet.de).
@@ -223,14 +213,6 @@ Praktisch ist § 251 StGB das **Verteidigungsziel** bei Anklage wegen Mordes aus
 
 **Hilfsbeweisantrag:**
 > Hilfsweise wird beantragt, ein rechtsmedizinisches Gutachten zum Todesmechanismus einzuholen. Beweisthema: Der Tod ist nicht durch die unmittelbaren Schlaege, sondern durch eine atypische, für den Angeklagten subjektiv nicht voraussehbare Komplikation eingetreten. Leichtfertigkeit iSd § 251 StGB liegt damit nicht vor.
-
-## Querverweise
-
-- `strafrecht-spezial-raub-249-stgb` – Grundtatbestand.
-- `strafrecht-spezial-schwerer-raub-250-stgb` – Qualifikation.
-- `strafrecht-spezial-mord-211-stgb-mordmerkmale` – Vorrangig bei Toetungsvorsatz.
-- `strafrecht-spezial-totschlag-212-stgb` – Vorrangig bei Toetungsvorsatz.
-- `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` – Verfahrensvorbereitung.
 
 ## Quellen Stand 06/2026
 
@@ -324,12 +306,6 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 
 **Einlassungs-Snippet (Vorsatzausschluss):** "Ich habe die Entscheidung im guten Glauben getroffen, dass meine Auslegung der Norm rechtlich vertretbar sei. Ich habe vor der Entscheidung am DD.MM.JJJJ mit dem Vorsitzenden Richter X die Auslegungsfrage besprochen; er hat mir bestaetigt, dass die von mir gewaehlte Auslegung in seiner Spruchpraxis ebenfalls vorkommt."
 
-## Querverweise
-
-- `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt`
-- `strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb`
-- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 339 StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -341,14 +317,6 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 - Paragraph 70 StGB Berufsverbot.
 - Paragraph 7 BRAO Sperre als Anwalt.
 - BVerfG staendige Linie zur Schutzwirkung der richterlichen Unabhaengigkeit (Art 97 GG).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `strafrecht-spezial-schuldnerbeguenstigung-283d-stgb`
 
@@ -431,13 +399,6 @@ Wieder: Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag muessen eintr
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung der Zeugin Y zu erheben zum Beweis der Tatsache, dass meine Mandantin im Zeitpunkt des Kaufs vom DD.MM.JJJJ keinen Einblick in die geschaeftlichen Verhaeltnisse ihres Ehemanns hatte."
 
-## Querverweise
-
-- `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb`
-- `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege`
-- `strafrecht-spezial-faktische-geschaeftsfuehrer`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 283d StGB im Wortlaut (gesetze-im-internet.de).
@@ -447,14 +408,6 @@ Wieder: Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag muessen eintr
 - Paragraph 826 BGB sittenwidrige Schaedigung als zivilrechtliches Spiegelbild.
 - BGH staendige Rspr. zur Kenntnis als Voraussetzung (positives Wissen, nicht Eventualvorsatz).
 - BGH staendige Rspr. zur Abgrenzung Paragraph 283d StGB vs. Beihilfe nach Paragraph 27 StGB.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `strafrecht-spezial-schwere-koerperverletzung-226-stgb`
 
@@ -549,14 +502,6 @@ Wenn der Taeter die schwere Folge **vorsaetzlich** verursacht (mindestens dolus 
 
 **Plaedoyer-Snippet (Verteidigung zu Abs. 2):**
 > Die Absichtsvariante setzt mindestens Wissentlichkeit hinsichtlich der schweren Folge voraus. Aus den Tatumstaenden – einmaliger Schlag im Streit, ohne Wiederholung, ohne Zielrichtung gegen das Auge – ist nicht ableitbar, dass der Angeklagte den Verlust der Sehfaehigkeit als sichere Folge erkannt und gewollt hat. Allenfalls Abs. 1 ist erfuellt.
-
-## Querverweise
-
-- `strafrecht-spezial-koerperverletzung-223-stgb-grund` – Grundtatbestand.
-- `strafrecht-spezial-gefaehrliche-koerperverletzung-224-stgb` – Qualifikation.
-- `strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb` – Erfolgsqualifikation Tod.
-- `strafrecht-spezial-misshandlung-schutzbefohlener-225-stgb` – qualifizierte Form.
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` – Nebenklage.
 
 ## Quellen Stand 06/2026
 
@@ -668,14 +613,6 @@ In der Praxis ist die Abgrenzung **Beisich-Fuehren vs. Verwenden** zentral: Bere
 
 **Antrag auf Anwendung § 46b StGB:**
 > Es wird beantragt, die fakultative Strafrahmenverschiebung des § 46b StGB anzuwenden. Der Angeklagte hat freiwillig Angaben zur Bandenstruktur und zu weiteren Mitgliedern gemacht, die wesentlich zur Aufklaerung der Tat sowie zur Verhinderung weiterer Taten beigetragen haben.
-
-## Querverweise
-
-- `strafrecht-spezial-raub-249-stgb` – Grundtatbestand.
-- `strafrecht-spezial-raub-mit-todesfolge-251-stgb` – Erfolgsqualifikation.
-- `strafrecht-spezial-raeuberischer-diebstahl-252-stgb` – Nachtatraub.
-- `strafrecht-spezial-erpresserischer-menschenraub-239a-239b-stgb` – Geiselnahme.
-- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` – Verstaendigung und Kronzeugenregelung.
 
 ## Quellen Stand 06/2026
 
@@ -794,13 +731,6 @@ Strafrahmen § 176a Abs. 1 StGB: Freiheitsstrafe nicht unter zwei Jahren.
 **Einlassung (kurz; falls Geststaendnis):**
 > Der Angeklagte raeumt die in der Anklage bezeichneten Handlungen ein. Er ist sich der Schwere und der Auswirkungen auf das Kind bewusst. Er hat sich nach der Tat in eine therapeutische Behandlung begeben (Bestaetigung als Anlage), die er fortsetzen wird. Er bittet das Gericht, dies bei der Strafzumessung zu beruecksichtigen.
 
-## Querverweise
-
-- `strafrecht-spezial-vergewaltigung-177-stgb` – § 177 StGB.
-- `strafrecht-spezial-sexueller-uebergriff-177-i-stgb` – Reform 2016.
-- `fachanwalt-strafrecht-einlassung-vorbereiten` – Aussagestrategie.
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` – Nebenklage Kinder.
-
 ## Quellen Stand 06/2026
 
 - § 176 StGB sexueller Missbrauch von Kindern (gesetze-im-internet.de).
@@ -909,13 +839,6 @@ Reines Schweigen oder Erstarren ist nach staendiger BGH-Rechtsprechung **nicht**
 **Hilfsbeweisantrag:**
 > Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Aussage der Geschaedigten einzuholen. Beweisthema: Die Schilderung der Geschaedigten enthaelt eine retrospektive Umdeutung des Tatgeschehens; sie hat in der Tatnacht keinen erkennbaren entgegenstehenden Willen geaeussert.
 
-## Querverweise
-
-- `strafrecht-spezial-vergewaltigung-177-stgb` – Gesamtstruktur § 177 StGB.
-- `strafrecht-spezial-sexueller-missbrauch-176-stgb` – Kinder.
-- `fachanwalt-strafrecht-einlassung-vorbereiten` – Aussagestrategie.
-- `fachanwalt-strafrecht-nebenklage-opfervertretung` – Nebenklage.
-
 ## Quellen Stand 06/2026
 
 - § 177 Abs. 1 StGB sexueller Uebergriff (gesetze-im-internet.de).
@@ -995,13 +918,6 @@ Strafrahmen § 238 Abs. 1 StGB: Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 
 **Hilfsbeweisantrag § 244 III StPO**:
 > Hilfsweise wird beantragt, das Gericht moege die Geschaedigte [Name] erneut vernehmen zu den Themen [Lebensumstaende vor und waehrend des Tatzeitraums; gemeinsame Treffen seit Trennung; konkrete Auswirkungen auf den Tagesablauf]. Die Vernehmung wird ergeben, dass die beanstandeten Handlungen nicht geeignet waren, die Lebensgestaltung der Geschaedigten nicht unerheblich zu beeintraechtigen.
-
-## Querverweise
-
-- `strafrecht-spezial-bedrohung-241-stgb`
-- `strafrecht-spezial-noetigung-240-stgb`
-- `strafrecht-spezial-haeusliche-gewalt-im-strafverfahren`
-- `fachanwalt-familienrecht` (GewSchG-Annaeherungsverbote)
 
 ## Quellen Stand 06/2026
 
@@ -1090,12 +1006,6 @@ Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verb
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen X zu erheben zum Beweis der Tatsache, dass mein Mandant lediglich als Beifahrer in einer einzigen Schmuggelreise mitgefahren ist und keinen Anteil an der Organisation hatte."
 
-## Querverweise
-
-- `strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung`
-- `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige`
-- `strafrecht-spezial-bandenbetrug-263-stgb`
-
 ## Quellen Stand 06/2026
 
 - Paragraph 373 AO im Wortlaut (gesetze-im-internet.de; dejure.org).
@@ -1108,10 +1018,3 @@ Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verb
 - Paragraph 53 AufenthG Ausweisung bei Auslaendern.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -5,9 +5,6 @@ description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: p
 
 # BAG Equal Mindesturlaub Kein Betriebsrat
 
-## Arbeitsbereich
-
-**BAG Equal Mindesturlaub Kein Betriebsrat** ordnet den Fall über die tragenden Prüfungslinien: Prüfungslinie für bag equal pay paarvergleich 8azr30024, Prüfungslinie für bag mindesturlaub kein verzicht 9azr10424, Prüft und dokumentiert die ordnungsgemäße Anhörung des. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -24,6 +21,7 @@ description: "BAG Equal Mindesturlaub Kein Betriebsrat im Plugin Arbeitsrecht: p
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `bag-equal-pay-paarvergleich-8azr30024`
@@ -223,6 +221,7 @@ Dieser Skill dient der Prüfung und Durchführung der Betriebsratsanhörung nach
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 ### Schritt 1 – Prüfung: Betriebsrat vorhanden?
@@ -282,12 +281,6 @@ Checkliste für die Prüfung:
 - Wurde die Frist eingehalten (Kündigung erst nach Fristablauf)?
 - Wurde ggf. ein Widerspruch fristgerecht erhoben?
 - Hat der Arbeitgeber einen Widerspruch bei der Kündigung mitgeteilt?
-
-## Ausgabeformat
-
-- **Standardausgabe**: Memo im Gutachtenstil mit Checkliste der Anhörungsanforderungen.
-- **Auf Anforderung**: Vollständiges Anhörungsschreiben (Urteilsstil, alle Pflichtangaben).
-- **Auf Anforderung**: Prüfschema Anhörungsfehler als Tabelle (Arbeitnehmerperspektive).
 
 ## Beispiel
 
@@ -471,8 +464,3 @@ Auch nach Heilung muss die Erforderlichkeit der Anwaltskosten nach § 40 Abs. 1 
 - **Vorsorge**: In Standardvorlagen für Beschlüsse einen Hinweis aufnehmen: "Sollte sich nachträglich herausstellen, dass dieser Beschluss an einem Verfahrensmangel leidet, ist eine Heilung durch nachfolgenden ordnungsgemäßen Beschluss vorgesehen."
 - **Geschlechterquote nicht vergessen**: § 15 Abs. 2 BetrVG bleibt auch bei der Nachrückreihenfolge anwendbar — bei der Heilungssitzung sollte das Geschlecht in der Minderheit erneut korrekt vertreten sein.
 
-## Querverweise
-
-- → `betriebsrat-ladung-und-ersatzmitglieder-pruefen` — Prüfung, ob überhaupt ein Fehler vorliegt
-- → `betriebsrat-anhoerung` — § 102 BetrVG bei Kündigung
-- → `kuendigungsschutzklage-grundlagen`

@@ -5,10 +5,6 @@ description: "Japanisches betriebliches Altersversorgungssystem und IORP-Verglei
 
 # Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive
 
-## Arbeitsbereich
-
-Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht Expatriate-Planung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,76 +32,6 @@ Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europa
 - 厚生労働省 (Kosei-rodo-sho — Ministry of Health, Labour and Welfare, MHLW): Aufsicht über Sozialversicherungs- und Pensionssysteme
 - IORP II (RL 2016/2341/EU): Gilt für deutsche/EU-Pensionseinrichtungen; Japan-Pendant fehlt, aber Best-Practice-Bezug
 - DE-JP SV-Abkommen (1.4.2000): Totalization von Rentenzeiten (→ Skill `expatriate-pensionsplanung-und-totalization`)
-
----
-
-## Vorgehen
-
-### Schritt 1: Überblick Japanisches Alterssicherungssystem (Sankaku-Modell — 三角構造)
-
-Das japanische System ist — ähnlich dem europäischen — dreischichtig aufgebaut:
-
-**Schicht 1 (Stufe 1): Kokumin Nenkin (国民年金 — Nationale Rente)**
-Universelle Basisrente; alle in Japan wohnenden Personen (20–59 Jahre); Pflichtbeitrag ca. JPY 16.980 pro Monat (2024); Vollrente nach 40 Jahren bei ca. JPY 68.000 p.m. (2024).
-
-**Schicht 2 (Stufe 2): Kosei Nenkin Hoken (厚生年金保険 — Angestelltenversicherung)**
-Pflicht für Arbeitnehmer in Unternehmen (AG und AN je ca. 9,15 % des Gehalts); einkommensabhängige Rente zusätzlich zur Kokumin Nenkin.
-
-**Schicht 3 (Stufe 3): Corporate Pension (企業年金 kigyou nenkin)**
-Freiwillige betriebliche Altersversorgung; zwei Hauptformen:
-- Kakutei-kyuufu kigyou nenkin (確定給付企業年金 — DB): Traditionell; leistungsdefiniert
-- Kakutei-kyoshutsu nenkin (確定拠出年金 — DC): Modern; beitragsdefiniert; seit 2001
-
-### Schritt 2: Kakutei-kyuufu kigyou nenkin (確定給付企業年金 — DB Corporate Pension)
-
-**Rechtsform:** Zwei Formen:
-- Tokantei-gata (托管型 — Vertraglicher Typ): Vertrag zwischen Unternehmen und Treuhandbank/Lebensversicherungsgesellschaft; Vermögen extern gehalten
-- Kikin-gata (基金型 — Stiftungstyp): Eigenständige Stiftung (kigyou nenkin kikin 企業年金基金); eigene Rechtspersönlichkeit
-
-**Genehmigung:** MHLW-Genehmigung erforderlich; Plan-Dokument (nenkin kisoku 年金規則) muss genehmigt werden
-
-**Leistungsstruktur:** Typisch jahresgehaltsbasiert oder Festbetrag × Dienstjahre; Auszahlung als Rente oder Einmalbetrag (ichijikikin 一時金)
-
-**Finanzierung:** Arbeitgeber-Beiträge (Arbeitnehmer-Beiträge möglich, aber unüblich); externe Anlage
-
-**Steuerliche Behandlung:** Arbeitgeber-Beiträge als Betriebsausgaben abzugsfähig; Kapitalerträge im Fonds steuerbegünstigt; Leistungen beim Empfänger versteuert (nenkin koujyo 年金控除)
-
-### Schritt 3: Kakutei-kyoshutsu nenkin (確定拠出年金 — DC Corporate Pension)
-
-**Arbeitgeber-DC (Kigyo-gata DC — 企業型DC):**
-- Arbeitgeber leistet Beiträge; Arbeitnehmer wählt Anlage-Optionen
-- Beitragsgrenzen (2024): JPY 55.000 p.m. (wenn kein anderer Corporate Pension); JPY 27.500 p.m. (wenn DB-Plan vorhanden)
-- Portabilität: Konten sind übertragbar bei Jobwechsel (ichi-gen-gata nenkin 移換型)
-- Vesting: 100 % sofort (im Unterschied zu Japan-DB)
-
-**Individuelles DC — iDeCo (個人型確定拠出年金):**
-- Freiwillig; Beitragsgrenzen variieren nach Status (Angestellter mit Betriebsplan: JPY 12.000 p.m.)
-- Steuerabzug für Beiträge
-
-**Leistungsauszahlung:** Rentenform oder Einmalbetrag ab Alter 60 (Vorraussetzung: mindestens zehn Jahre Teilnahme)
-
-### Schritt 4: Tax-Qualified Pension Plan (適格退職年金制度 — AUSLAUFMODELL)
-
-Der Tax-Qualified Pension Plan (tekikaku taishokukin seido) war das Vorläufersystem vor dem DB und DC Corporate Pension Law von 2001. Er wurde am 31.3.2012 abgeschafft.
-
-**Status 2024:** Alle Pläne sollten seit 2012 umgestellt worden sein. In der Praxis gibt es in multinationalen Konzernen gelegentlich noch nicht vollständig aufgelöste Altbestände oder Streitfragen über historische Ansprüche.
-
-**Empfehlung bAV-Projektteam / Japan-/Datenschutz-Team:** Jeder Konzern mit Japan-Tochter sollte prüfen, ob der alte tekikaku taishokukin vollständig aufgelöst wurde. Offene Positionen können zu steuerlichen Risiken und Mitarbeiteransprüchen führen.
-
-### Schritt 5: Düsseldorf-Kyoto-Kollaborationsmodell
-
-bAV-Projektteam hat ein spezifisches Workflow-Modell für DE-JP-Pensionsfragen:
-
-**Beratungsstruktur:**
-1. **Mandatsanalyse Düsseldorf:** fachliche Leitung analysiert deutsches Recht (BetrAVG, IAS 19, IORP II)
-2. **Japan-Koordination Kyoto:** Japan-/Datenschutz-Team koordiniert japanisches Recht (DC/DB-Gesetze, FSA, MHLW)
-3. **Gemeinsames Memorandum:** Dual-Language (deutsch und japanisch in Lateinumschrift + Kanji)
-4. **Konzernweite Empfehlung:** Integration beider Rechtsrahmen in Global Benefits Policy
-
-**Kommunikationssprachen:**
-- Mit deutschen Konzernmandanten: Deutsch; englische Executive Summary für internationales Management
-- Mit japanischen Konzerngesellschaften: Japanisch (durch Kyoto-Büro) + deutsche Fassung (durch Düsseldorf)
-- Fachbegriffe: Dual-Language-Glossar (s. unten)
 
 ---
 
@@ -197,6 +123,3 @@ Beitragsgrenze (2024) | Keine Obergrenze | JPY 55.000 p.m. (ohne anderen Plan)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

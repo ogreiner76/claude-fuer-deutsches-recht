@@ -5,10 +5,6 @@ description: "Markenrecherche mit Risikoampel: systematische Kollisionsrecherche
 
 # Spezial: Markenrecherche – Risikoampel und Gegenargumente
 
-## Arbeitsbereich
-
-Markenrecherche mit Risikoampel: systematische Kollisionsrecherche für DPMA, EUIPO und internationale Register, Risikobewertung nach Ähnlichkeit, Klassen und Benutzung, Gegenargumente gegen Verwechslungsgefahr und Verteidigungsstrategien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -146,3 +142,4 @@ Mandatsbezug: Mandant will neue Marke anmelden und fragt: Kann ich „XYZ" als M
 - `gewr-markenanmeldung-bauleiter` – Anmeldeprozess
 - `unterlassungsverlangen` – Reaktion auf Abmahnung
 - `spezial-dpma-fristen-form-und-zuständigkeit` – DPMA-Widerspruch
+

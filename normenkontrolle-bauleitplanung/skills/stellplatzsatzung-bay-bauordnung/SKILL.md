@@ -5,10 +5,6 @@ description: "Mandant wendet sich gegen Stellplatzsatzung einer Gemeinde oder de
 
 # Stellplatzsatzung — Art. 47 BayBO
 
-## Zweck
-
-Stellplatzfragen sind ein Hauptkampffeld bei Innenstadt-Verdichtungen. Reduzierte Stellplatzschlüssel führen häufig zu Parkdruck-Verlagerung in Wohnstraßen — abwägungserheblicher Belang der Mandantenseite.
-
 ## Schritt 1 — Grundregel Art. 47 BayBO
 
 ### Stellplatzpflicht
@@ -148,6 +144,3 @@ Stellplatzfragen sind ein Hauptkampffeld bei Innenstadt-Verdichtungen. Reduziert
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

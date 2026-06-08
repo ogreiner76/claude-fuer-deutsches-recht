@@ -5,10 +5,6 @@ description: "CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzision
 
 # CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung
 
-## Arbeitsbereich
-
-CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-CNC-Maschinen (Computer Numerical Control) sind hochpräzise Fertigungsanlagen mit spezifischen Anforderungen an Abnahme, Präzision, Wartung und Rückgabe. Dieser Skill analysiert die besonderen rechtlichen Aspekte dieses Segments.
 
 ## Technische Besonderheiten
 
@@ -115,3 +107,4 @@ CNC-Maschinen (Computer Numerical Control) sind hochpräzise Fertigungsanlagen m
 - **Mängelrüge-Vorlage**: LN an CNC-Hersteller (abgetretenes Recht)
 - **Wartungsnachweis-Formular**: Kalibrier- und Serviceprotokoll
 - **Rückgabe-Checkliste CNC**: Geometrie, Verschleiß, Transport
+

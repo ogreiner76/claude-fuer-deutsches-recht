@@ -5,10 +5,6 @@ description: "Tarifwechselrecht in der PKV nach § 204 VVG: Voraussetzungen, Mit
 
 # Tarifwechsel PKV: § 204 VVG
 
-## Arbeitsbereich
-
-Tarifwechselrecht in der PKV nach § 204 VVG: Voraussetzungen, Mitnahme der Altersrückstellungen, Risikoprüfung und Durchsetzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -90,3 +86,4 @@ Wer in der PKV zu einem günstigeren oder leistungsfähigeren Tarif beim gleiche
 - [§ 146 VAG – Altersrückstellungen](https://www.gesetze-im-internet.de/vag_2016/__146.html)
 - [dejure.org § 204 VVG](https://dejure.org/gesetze/VVG/204.html)
 - [PKV-Verband Tarifwechsel](https://www.pkv.de)
+

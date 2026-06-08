@@ -5,10 +5,6 @@ description: "Skill zur beamtenrechtlichen Verfassungstreue nach § 7 BBG bzw. �
 
 # Verfassungstreue Beamte — Reichsbuerger und Extremismus
 
-## Arbeitsbereich
-
-Skill zur beamtenrechtlichen Verfassungstreue nach § 7 BBG bzw. § 33 BeamtStG insbesondere in Fallgestaltungen Reichsbuerger Extremismus und der Verfassungsschutzbeobachteten Parteien. Klaert die Anforderungen an die Feststellung mangelnder Verfassungstreue im Eignungsverfahren und im Disziplinarverfahren das Verhaeltnis zur freiheitlichen demokratischen Grundordnung und das Pruefraster zwischen Mitgliedschaft Aeusserung und Handlung. Liefert Verteidigungsbausteine und Schriftsatzmuster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -72,3 +68,4 @@ Skill für Beamte, denen mangelnde Verfassungstreue vorgeworfen wird, oder für 
 ## 7. Beispiel (Kurzfassung)
 
 Mandant Polizeibeamter, in Chatgruppen mit Reichsbuergerinhalten beteiligt; eine Aeusserung "BRD ist eine GmbH". Skill liefert Pruefraster mit Indizienliste, Anhörungsstrategie und Disziplinargewichtung.
+

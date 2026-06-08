@@ -5,10 +5,6 @@ description: "Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB u
 
 # VDG 103 Bestellbutton UKlaG UWG Abmahnung
 
-## Arbeitsbereich
-
-Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -34,10 +30,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Skill macht aus Button-Fallen eine saubere Verbandsakte: Testkauf, Screenshotkette, Normverstoß, Antragstenor, Abmahnung und Folgekommunikation.
-
 ## Rechtsanker
 
 - § 312j BGB.
@@ -62,14 +54,7 @@ Sichere:
 4. Ist der Verstoß systematisch und wiederholbar?
 5. Welcher Antrag ist präzise genug, ohne rechtmäßige Gestaltungen mitzuerfassen?
 
-## Output
-
-- Abmahnentwurf.
-- Antragstenor für Unterlassung.
-- Screenshot-Protokoll.
-- Verbraucherhinweis für laufende Forderungen.
-- Red-Team: mögliche Verteidigung des Unternehmens.
-
 ## Taktik
 
 Nicht moralisch überziehen. Gute Button-Fälle sind technisch-nüchtern: Der Text auf der Schaltfläche ist der Mittelpunkt.
+

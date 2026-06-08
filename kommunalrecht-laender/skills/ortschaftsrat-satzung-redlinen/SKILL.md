@@ -5,9 +5,6 @@ description: "der Länder: Ortschaftsrat: Satzung redlinen im Kommunalrecht: pr�
 
 # Ortschaftsrat Satzung Redlinen
 
-## Arbeitsbereich
-
-Spezialthema **Ortschaftsrat Satzung Redlinen** im Kommunalrecht. Der Skill prüft die einschlägigen Tatbestandsmerkmale, Fristen, Beweislast und Rechtsfolgen für genau diese Prüfungslinie; Rolle, Zuständigkeit und gewünschter Output bleiben dabei klar getrennt.
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -15,17 +12,6 @@ Spezialthema **Ortschaftsrat Satzung Redlinen** im Kommunalrecht. Der Skill prü
 - Tragende Normen verifizieren: GO der Länder, KomVG, KAG, GG Art. 28, BauGB, VwGO, KomHV-Doppik — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Arbeitsauftrag
-
-Ortschaftsrat Satzung Redlinen wird nicht als abstraktes Schema beantwortet, sondern als Arbeitsgang im Bereich Kommunalrecht der Länder: erst Zuständigkeit und Normpfad, dann Tatsachen und Belege, dann Fristen und taktische Option, danach ein verwertbarer Output.
-
-## Einstieg ohne Leerlauf
-
-1. Rolle klären: antragstellende Person, Behörde, Verband, Unternehmen, Anwalt, Gericht, Presse, Betroffene oder Projektträger.
-2. Ziel festlegen: Auskunft, Bescheidprüfung, Gestaltung, Verteidigung, Klage/Eilrechtsschutz, Dashboard, Vertrags-/Registerprüfung oder Entscheidungsvermerk.
-3. Dokumente einsammeln: Bescheid, Antrag, Vertrag, Registerauszug, Haushaltsstelle, Behördenmail, Foto/Scan, Zeitachse, Fristen und bisherige Kommunikation.
-4. Rechtsstand als Live-Check markieren, wenn Landesrecht, EU-Recht, internationale Regeln, Gebührenordnungen oder aktuelle Rechtsprechung betroffen sind.
 
 ## Normenanker
 
@@ -56,27 +42,3 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
 
-## Typische Artefakte
-
-- Landesrechts-Navigator
-- Beschluss-/Satzungscheck
-- Bürgerbegehren-Fristenmatrix
-- Kommunalaufsichts- und Haushaltsrisikoampel
-
-## Red-Team-Fragen
-
-- falsches Bundesland
-- Organrolle verwechselt
-- Satzungsbekanntmachung/Öffentlichkeit fehlt
-- kommunale Finanzierung übersehen
-
-## Ausgabeformat
-
-- **Kurzbefund:** ein Absatz, der die Lage und den nächsten Schritt verständlich macht.
-- **Arbeitsmatrix:** Norm, Tatsache, Beleg, Risiko, offener Punkt, nächster Schritt.
-- **Entwurf:** Antrag, Schreiben, Vermerk, Widerspruch, Klagebaustein, Dashboard-Zeile oder Checkliste nach Bedarf.
-- **Quellenblock:** nur amtliche/frei prüfbare Quellen oder vom Nutzer bereitgestellte Quellen; keine Blindzitate, keine BeckRS-/juris-Behauptungen ohne Nutzerquelle.
-
-## Qualitätsregel
-
-Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rechtsstand tagesaktuell sein kann, Live-Recherche verlangen. Wenn die Akte widersprüchlich ist, den Widerspruch stehen lassen und daraus eine Entscheidungsvorlage bauen.

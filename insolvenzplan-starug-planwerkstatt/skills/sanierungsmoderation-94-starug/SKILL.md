@@ -5,10 +5,6 @@ description: "Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführe
 
 # Sanierungsmoderation § 94 StaRUG
 
-## Arbeitsbereich
-
-Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführen wenn außergerichtliche Einigung mit moderierender Instanz angestrebt wird. §§ 94 ff. StaRUG Sanierungsmoderation. Prüfraster: Antrag Bestellungsvoraussetzungen Moderationsplan Vertraulichkeit Gläubiger-Einbeziehung Abschlussbericht. Output: Moderationsplan Kommunikationsleitfaden Abschlussbericht. Abgrenzung: nicht für StaRUG-Restrukturierungsplan (ips-starug-plan-architektur). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -24,10 +20,6 @@ Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführen wenn außerg
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Die Sanierungsmoderation ist ein vorinsolvenzliches präventives Werkzeug nach §§ 94 ff. StaRUG (seit 1.1.2021). Sie ermöglicht vertraulichen Vergleich vor Eskalation in Restrukturierungs-Verfahren oder Insolvenz.
 
 ## Eingaben
 
@@ -303,6 +295,3 @@ Die Sanierungsmoderation ist ein vorinsolvenzliches präventives Werkzeug nach �
 
 - Konkrete Restrukturierungsgerichts-Entscheidungen zur Sanierungsmoderation (§§ 94–100 StaRUG), insbesondere zur Bestellung des Moderators und zur Bestätigung des Sanierungsvergleichs (§ 97 StaRUG), vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

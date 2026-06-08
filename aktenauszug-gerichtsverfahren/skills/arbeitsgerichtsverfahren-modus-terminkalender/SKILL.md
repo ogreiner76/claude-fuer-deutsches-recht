@@ -17,10 +17,6 @@ Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsv
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Zweck
-
-Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für arbeitsgerichtliche Verfahren nach dem Arbeitsgerichtsgesetz (ArbGG). Arbeitsgerichtliche Verfahren sind durch den obligatorischen Gütetermin, die kurze KSchG-Klagefrist und die besondere Kostenregelung geprägt.
-
 ## Triage — kläre vor Aktivierung des Modus
 
 1. Urteilsverfahren (§§ 46 ff. ArbGG) oder Beschlussverfahren (§§ 80 ff. ArbGG)?
@@ -44,9 +40,6 @@ Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für arbei
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Verfahrensarten
 
 ### Urteilsverfahren (§§ 46 ff. ArbGG)
@@ -122,3 +115,4 @@ Vergleichsspielraum: [BETRAG] / offenes Zeugnis / beides
 
 ---
 <!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
+

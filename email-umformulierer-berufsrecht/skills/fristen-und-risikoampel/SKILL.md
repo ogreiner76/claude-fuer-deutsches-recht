@@ -5,9 +5,6 @@ description: "Fristen- und Risikoampel im Plugin Email Umformulierer Berufsrecht
 
 # Fristen- und Risikoampel
 
-## Aufgabe
-Dieses Modul bearbeitet: Fristen- und Risikoampel im Plugin email-umformulierer-berufsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen..
-
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:
 
@@ -34,14 +31,3 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - Schnelligkeit (E-Mail) vs. Rechtssicherheit (beA bei Schriftform, Postzustellung bei Sonderzustellung).
 - Standard-Verschlüsselung E-Mail oft nicht ausreichend; bei sensiblen Mandaten dedizierter sicherer Kanal (S/MIME, beA, Datenraum).
 
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.

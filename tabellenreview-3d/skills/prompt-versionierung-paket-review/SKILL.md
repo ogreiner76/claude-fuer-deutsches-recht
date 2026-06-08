@@ -5,10 +5,6 @@ description: "Prompt-Versionen für den 3D-Review verwalten: Versionierung der S
 
 # /tabellenreview-3d:prompt-versionierung
 
-## Arbeitsbereich
-
-Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Prüfraster: Versionsnummer, Aenderungsprotokoll, aktive Version. Output: Prompt-Versionsprotokoll. Abgrenzung: nicht Prompt-Erstellung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -27,10 +23,6 @@ Prompt-Versionen für den 3D-Review verwalten: Versionierung der Spaltenprompts 
 ## Rechtliche Grundlagen
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zweck
-
-Wenn der Spaltenprompt 'Change-of-Control' heute leicht anders formuliert ist als gestern dann sind die heutigen Zellen mit den gestrigen nicht vergleichbar. Dieser Skill macht den Unterschied explizit.
 
 ## Versionierungsschema
 
@@ -87,3 +79,4 @@ Jede Prompt-Änderung erzeugt einen `prompt.geändert` Eintrag im `audit-trail-p
 ## Grenzen
 
 Versionierung verhindert keine schlechten Prompts — sie macht sie nur sichtbar. Der Prüfer entscheidet ob Migration noetig ist.
+

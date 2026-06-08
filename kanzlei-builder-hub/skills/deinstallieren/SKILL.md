@@ -5,10 +5,6 @@ description: "Plugins oder Skills vollständig deinstallieren: Abhaengigkeitspr�
 
 # Deinstallation
 
-## Arbeitsbereich
-
-Plugins oder Skills vollständig deinstallieren: Abhaengigkeitsprüfung, Datensicherung. Normen: technisch/intern. Prüfraster: Abhaengigkeitscheck, Datensicherung vor Löschung, Bestätigung. Output: Deinstallationsprotokoll. Abgrenzung: nicht temporaeres Deaktivieren. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -93,24 +89,6 @@ Nach der Deinstallation ausdrücklich darauf hinweisen:
 
 ---
 
-## Ausgabeformat
-
-Strukturierte Abschlussbestätigung:
-
-```
-Deinstallation — [skill-name]
-Zeitstempel: [ISO8601]
-Gelöschte Dateien:
- - [Pfad 1]
- - [Pfad 2]
-Beigehaltene Konfiguration:
- - [Pfad, falls zutreffend]
-Protokolleintrag: installations-protokoll.yaml aktualisiert (action: uninstall)
-Aufbewahrungshinweis: [siehe oben, falls Konfiguration vorhanden]
-```
-
----
-
 ## Beispiel
 
 **Nutzer:** "Deinstalliere den Skill `miet-kündigung-analyse`."
@@ -149,3 +127,4 @@ Bei der Ausführung dieses Skills sind folgende Quellen als anwendbares Recht zu
 - Vogel, BRAO, 1. Aufl. 2022, § 43a Rn. 112 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+

@@ -5,9 +5,6 @@ description: "Patg Verfuegung Beweislast Verletzungsklage im Plugin Fachanwalt G
 
 # Patg Verfuegung Beweislast Verletzungsklage
 
-## Arbeitsbereich
-
-**Patg Verfuegung Beweislast Verletzungsklage** ordnet den Fall über die tragenden Prüfungslinien: PatG, Einstweilige Verfügung, Verletzungsklage. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -23,6 +20,7 @@ description: "Patg Verfuegung Beweislast Verletzungsklage im Plugin Fachanwalt G
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `spezial-patg-schriftsatz-brief-und-memo-bausteine`
@@ -30,9 +28,6 @@ description: "Patg Verfuegung Beweislast Verletzungsklage im Plugin Fachanwalt G
 **Fokus:** PatG: Schriftsatz-, Brief- und Memo-Bausteine für Patentverletzungsklagen, Nichtigkeitsklagen BPatG, UPC-Verfahren, Berechtigungsanfragen, Lizenzverhandlungen und EPA-Einspruch. Normen §§ 9 und 139 ff. PatG, EPÜ, EPGÜ.
 
 ### PatG: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Aufgabe
-Dieser Skill liefert Schriftsatz-Gerüste, Briefbausteine und Memo-Strukturen für patenrechtliche Mandate: Verletzungsklage, Nichtigkeitsklage, Berechtigungsanfrage und UPC-Verfahren.
 
 ## Rechtsrahmen
 
@@ -179,13 +174,6 @@ VI. Empfehlung
 - `spezial-schadensersatz-abschlussprodukt-und-uebergabe` – Schadensersatz.
 - `fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage` – Vollständiger Nichtigkeitsworkflow.
 
-## Quellenregel
-- PatG, ArbnErfG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- EPÜ: [epo.org](https://www.epo.org); UPC: [unified-patent-court.org](https://www.unified-patent-court.org).
-- Rechtsprechung: [dejure.org](https://dejure.org), [bgh.de](https://www.bundesgerichtshof.de), [bundespatentgericht.de](https://www.bundespatentgericht.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Verletzungsanalyse ohne Patentschrift und Produktbeschreibung.
 - Kein Ersatz für vollständige Mandantenberatung und Patentanwaltsbegutachtung.
@@ -195,9 +183,6 @@ VI. Empfehlung
 **Fokus:** Einstweilige Verfügung: Beweislast und Darlegungslast. Glaubhaftmachung § 294 ZPO, Verfügungsanspruch und Verfügungsgrund, eidesstattliche Versicherung, Gegenglaubhaftmachung, sekundäre Darlegungslast, Beweismittel im Eilverfahren.
 
 ### Einstweilige Verfügung: Beweislast und Darlegungslast
-
-## Aufgabe
-Dieser Skill behandelt die Darlegungs- und Beweislast in einstweiligen Verfügungsverfahren: Glaubhaftmachung von Verfügungsanspruch und -grund, Mittel und Grenzen.
 
 ## Rechtsrahmen
 
@@ -312,12 +297,6 @@ Bei bestimmten Sachverhalten (Verletzungsumfang, Herstellungsprozesse, Lieferket
 - `spezial-gewerblichen-tatbestand-beweis-und-belege` – Beweismittelübersicht.
 - `faevvollzug-neu-005-gegnerische-schutzschrift-auswerten` – Schutzschrift.
 
-## Quellenregel
-- ZPO: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/); MarkenG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- Rechtsprechung: [dejure.org](https://dejure.org), [openjur.de](https://openjur.de), [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine Bewertung der Dringlichkeit ohne Kenntnis des konkreten Kenntnisdatums.
 - Kein Ersatz für vollständige Mandantenberatung.
@@ -327,9 +306,6 @@ Bei bestimmten Sachverhalten (Verletzungsumfang, Herstellungsprozesse, Lieferket
 **Fokus:** Verletzungsklage: Sonderfälle und Edge Cases. Mittelbare Patentverletzung § 10 PatG, Erschöpfungseinwand § 24 MarkenG, Vorbenutzungsrecht § 12 PatG, Markenrechtliche Erschöpfung bei Reimport, fehlerhafte Schutzrechts-Übertragung, Designverletzung bei must-fit, Parallelimport.
 
 ### Verletzungsklage: Sonderfälle und Edge Cases
-
-## Aufgabe
-Dieser Skill behandelt die typischen Sonderfälle und Edge Cases bei Verletzungsklagen im gewerblichen Rechtsschutz: ungewöhnliche Einwände, Abgrenzungsprobleme und Randkonstellationen.
 
 ## Rechtsrahmen (Sonderfälle)
 
@@ -432,12 +408,7 @@ Handlungen, die **ausschließlich** Versuchszwecken dienen, sind keine Verletzun
 - `spezial-verfuegung-beweislast-und-darlegungslast` – Beweislast.
 - `spezial-patg-schriftsatz-brief-und-memo-bausteine` – Patent-Schriftsätze.
 
-## Quellenregel
-- PatG, MarkenG, DesignG, UWG: [gesetze-im-internet.de](https://www.gesetze-im-internet.de).
-- EuGH: [curia.europa.eu](https://curia.europa.eu); BGH: [bgh.de](https://www.bundesgerichtshof.de).
-- Keine BeckRS-, juris- oder Kommentar-Blindzitate aus Modellwissen.
-- Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
 ## Was dieser Arbeitsgang nicht macht
 - Keine vollständige technische Verletzungsanalyse ohne Sachverständigen.
 - Kein Ersatz für vollständige Mandantenberatung.
+

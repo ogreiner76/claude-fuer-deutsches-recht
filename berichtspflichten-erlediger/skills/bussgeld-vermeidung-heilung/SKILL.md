@@ -5,10 +5,6 @@ description: "Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung
 
 # Bußgeldvermeidung und Heilung
 
-## Arbeitsbereich
-
-Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung, Anhörung, Bußgeldabwehr und Governance-Fix. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -17,23 +13,9 @@ Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung, Anhörung, B
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorstand, Aufsichtsrat, Wirtschaftsprüfer, Geldwäschebeauftragter, Datenschutzbeauftragter, BaFin, BAFA (LkSG), Steuerprüfer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lagebericht, CSRD-Nachhaltigkeitsbericht, GwG-Risikoanalyse, LkSG-Bericht, Compliance-Bericht, Aufsichtsratsbericht, Datenschutz-Tätigkeitsbericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Einsatz
-
-Für Unternehmen, die Fehler finden, bevor die Behörde es tut.
-
 ## Norm- und Quellenanker
 
 OWiG; Fachgesetz-Bußgeldnorm; VwVfG; Compliance-Dokumentation.
-
-## Arbeitsfragen
-
-1. Was ist falsch/verspätet?
-2. Welche Sanktion droht?
-3. Wie kann korrigiert werden?
-
-## Output
-
-Heilungsplan, Anhörungsantwort und Root-Cause-Notiz.
 
 ## Red Flags
 
@@ -45,6 +27,3 @@ Heilungsplan, Anhörungsantwort und Root-Cause-Notiz.
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
 
-## Qualitätsregel
-
-Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht wird: Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugängliche Quelle verifizieren. Normen und Behördenportale vor Abgabe live prüfen.

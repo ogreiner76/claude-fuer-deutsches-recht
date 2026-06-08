@@ -5,9 +5,6 @@ description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht:
 
 # Ropa Richtlinien Monitor ART Controller DSGVO
 
-## Arbeitsbereich
-
-**Ropa Richtlinien Monitor ART Controller DSGVO** ordnet den Fall über die tragenden Prüfungslinien: Datenschutzrichtlinien und Unternehmensanweisungen auf, Vollvorlage für das Verzeichnis von, Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht:
 - Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `richtlinien-monitor`
@@ -32,12 +30,6 @@ description: "Ropa Richtlinien Monitor ART Controller DSGVO im Datenschutzrecht:
 **Fokus:** Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abgrenzung: nicht für erstmalige Richtlinien-Erstellung.
 
 ### Policy-Monitor – Drift-Monitoring Datenschutzerklärung
-
-## Zweck
-
-Zwei Modi: (1) **Sweep-Modus** – regelmäßiger Abgleich aller Datenschutz-Commitment-Flächen gegen aktuelle Verarbeitungspraxis, um Drift zu erkennen. (2) **Direkt-Modus** – für eine konkrete geplante Änderung prüfen, ob und wie die Datenschutzerklärung angepasst werden muss.
-
-Typische Drifts: neue Tracking-Tool-Integration ohne Datenschutzerklärungsupdate, neuer Sub-AV ohne Empfängerlistenaktualisierung, verlängerte Speicherfristen ohne Ankündigung, neue Drittlandtransfers ohne Transfermechanismus in der Erklärung.
 
 ## Eingaben
 
@@ -111,21 +103,6 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Paal, in: Paal/Pauly, DSGVO/BDSG, 3. Aufl. 2021, Art. 13 Rn. 1 ff.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Ausgabeformat
-
-**Sweep-Modus:**
-1. Sweep-Datum und geprüfte Quellen
-2. Drift-Tabelle (alle Flächen × alle Dimensionen)
-3. Drift-Klassifikation mit Schwere
-4. Priorisierte Änderungsvorschläge (druckfertige Textbausteine, keine Kommentare im Erklärungstext)
-5. Sweep-Folgeaktionen
-
-**Direkt-Modus:**
-1. Betroffene Art. 13/14-Pflichten
-2. Rechtsgrundlagen-Check
-3. DSFA-Hinweis (falls einschlägig)
-4. Änderungsentwurf für Datenschutzerklärung (Textbausteine)
 
 ## Beispiel (Direkt-Modus)
 
@@ -206,10 +183,6 @@ Verantwortlich: [PERSON/ROLLE]
 
 ### RoPA-Vorlage Verantwortlicher (Controller) – Deutsch
 
-## Zweck
-
-Dieser Skill liefert eine ausfuellfertige Vorlage für das Verzeichnis von Verarbeitungstaetigkeiten des Verantwortlichen nach Art. 30 Abs. 1 DSGVO. Er enthaelt die Spaltenstruktur, ein Deckblatt, drei vollstaendig befuellte Beispiele und einen Versionierungs-Footer.
-
 ## Wann dieses Modul hilft
 
 - Erstaufbau eines Verarbeitungsverzeichnisses in der Kanzlei oder im Mandantenunternehmen.
@@ -280,14 +253,6 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 - TOM-Spalte mit vollem Wortlaut der Anlage 32 DSGVO – besser Verweis.
 - Kein DSB-Eintrag obwohl Bestellpflicht (§ 38 BDSG) besteht.
 
-## Querverweise
-
-- `ropa-art-30-dsgvo-grundlagen` für Rechtsrahmen.
-- `ropa-art-30-processor-deutsch-vorlage` für Spiegel-Vorlage Processor.
-- `ropa-bdsg-besondere-art-9-categories` für Gesundheits- und Beschaeftigtendaten.
-- `avv-tom-art-32-dsgvo-anlage` für TOM-Konzept.
-- `drittlandstransfer-pruefung` für Art. 44 ff. DSGVO.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 30 Abs. 1.
@@ -296,23 +261,11 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 - HGB § 257, AO § 147 (handels-/steuerrechtliche Aufbewahrung).
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `ropa-art-30-dsgvo-grundlagen`
 
 **Fokus:** Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach Art. 30 DSGVO. Anwendungsbereich, Schwellenwert, Mindestinhalte Controller und Processor, Verhaeltnis zu § 70 BDSG, Vorlagepflicht gegenueber der Aufsichtsbehoerde. Einstiegs-Skill für das Records of Processing Activities (RoPA).
 
 ### Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen
-
-## Zweck
-
-Dieser Skill ordnet das Verzeichnis von Verarbeitungstaetigkeiten (Records of Processing Activities, kurz RoPA) nach Art. 30 DSGVO ein. Er erklaert Pflichtige, Inhalte, Form und Verhaeltnis zu anderen Dokumentationspflichten (DSFA, AVV, RoPA), damit Kanzleien und Datenschutzbeauftragte das richtige Werkzeug für das richtige Dokument waehlen.
 
 ## Wann dieses Modul hilft
 
@@ -408,27 +361,12 @@ Konkrete Vorlagen liefern die Skills:
 - Loeschfristen pauschal "10 Jahre"; ohne Differenzierung nach Datenkategorie.
 - Doppelte Pflege RoPA / DSFA / TOM-Konzept ohne Querverweise.
 
-## Querverweise
-
-- `dsfa-erstellung` für hochrisikobehaftete Verarbeitungen.
-- `avv-art-28-dsgvo-grundtatbestand` für Processor-Vertraege.
-- `drittlandstransfer-pruefung` für Art. 44 ff. DSGVO.
-- `dsb-bestellungspflicht-pruefung` für DSB-Verantwortlichkeiten.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), insbesondere Art. 30, Erwaegungsgrund 13, 82.
 - BDSG, insbesondere § 70 für Bundesbehoerden.
 - EDSA: Position Paper on Article 30(5) GDPR (vom 19.04.2018).
 - Konferenz der unabhaengigen Datenschutzaufsichtsbehoerden des Bundes und der Länder (DSK): Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `ropa-bdsg-besondere-art-9-categories`
 
@@ -515,14 +453,6 @@ Zusatzhinweis: "Diese Verarbeitung beinhaltet besondere Kategorien personenbezog
 - TOMs nach Art. 32 statt nach § 22 Abs. 2 BDSG (zusaetzliche Anforderungen).
 - Religionszugehoerigkeit aus Lohnsteuerklasse abgeleitet und ungesichert im allgemeinen HR-System.
 
-## Querverweise
-
-- `ropa-art-30-dsgvo-grundlagen` für Basis.
-- `ropa-art-30-controller-deutsch-vorlage` für Basisvorlage.
-- `dsfa-erstellung` für Art. 35 DSGVO.
-- `mitarbeiter-datenschutz-26-bdsg` (falls vorhanden) für Beschaeftigtenkontext.
-- `avv-tom-art-32-dsgvo-anlage` für TOM-Anhang.
-
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 9, Art. 10, Art. 30, Art. 35.
@@ -531,14 +461,6 @@ Zusatzhinweis: "Diese Verarbeitung beinhaltet besondere Kategorien personenbezog
 - EStG § 39 (Lohnsteuermerkmale).
 - EDSA: Leitlinien 03/2019 zur Verarbeitung personenbezogener Daten durch Videoeinrichtungen (Version 2.0 vom 29.01.2020).
 - BVerfG, Beschluss vom 11.11.2020 – 1 BvR 3214/15 (Antiterrordatei-Folgeentscheidung) – bei Anpassung des § 22 BDSG sinngemaess beachten; vor Zitierung amtliche Fundstelle pruefen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `ropa-en-controller-template`
 
@@ -640,10 +562,3 @@ Version 1.1 – [change] – [date, author]
 - DSK Short Paper No. 1 "Records of Processing Activities" (Status 17 December 2018).
 - EDPB Position Paper on Article 30(5) GDPR (19 April 2018).
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

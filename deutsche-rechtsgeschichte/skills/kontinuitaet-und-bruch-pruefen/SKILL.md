@@ -5,10 +5,6 @@ description: "Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodi
 
 # Kontinuitaet und Bruch pruefen
 
-## Arbeitsbereich
-
-Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,12 +47,3 @@ Die Frage nach Kontinuitaet und Bruch ist eine der grundlegendsten der deutschen
 - GG Art. 123 und 143: gesetze-im-internet.de
 - BVerfGE zur NS-Normfortgeltung: bverfg.de
 
-## Output
-
-- Pruefschema Kontinuitaet und Bruch: Vier Dimensionen
-- Zeitleiste: Rechtliche Brueche 1933, 1945, 1949, 1990
-- Fallbeispiel: Personalkontinuitaet in Nachkriegs-Bundesjustiz
-
-## Quellenregel
-
-Ermächtigungsgesetz 1933: ALEX/OeNB. Kontrollratsgesetz Nr. 1: historische Edition. GG Art. 123 und 143: gesetze-im-internet.de. BVerfGE: bverfg.de.

@@ -5,10 +5,6 @@ description: "Datenbankrecht für öffentliche Register (Handelsregister, Grundb
 
 # Öffentliche Register — Handelsregister, Grundbuch und Transparenzregister
 
-## Arbeitsbereich
-
-Datenbankrecht für öffentliche Register (Handelsregister, Grundbuch, Transparenzregister): Schutzfähigkeit nach §§ 87a-87e UrhG und § 5 UrhG, Weiterverwendungsrecht nach IWG und Open-Data-RL 2019/1024, massenhafte Registerabfragen als Verletzung sowie DSGVO-Grenzen bei personenbezogenen Registereinträgen. Erstellt Compliance-Konzept für Datenaggregationsdienste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Datenbankrecht für öffentliche Register (Handelsregister, Grundbuch, Transpare
 - Transparenzregister-Daten dürfen nur zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung genutzt werden — andere Zwecke sind DSGVO-widrig.
 - „Screen-Scraping" von Registerportalen kann § 202a StGB erfüllen, wenn Zugangssperren überwunden werden.
 
-## Output
-
-- Rechtsgutachten zur Zulässigkeit der Registernutzung
-- IWG-Weiterverwendungsantrag-Vorlage
-- DSGVO-Zweckbindungs-Prüfbogen für Registerdaten
-- Abmahnschreiben gegen unerlaubtes Register-Massenabgreifen
-- Compliance-Konzept für Datenaggregationsdienste mit Registerdaten
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Datenbankrecht für öffentliche Register (Handelsregister, Grundbuch, Transpare
 - [§ 12 GBO — dejure.org](https://dejure.org/gesetze/GBO/12.html)
 - [Open-Data-Richtlinie 2019/1024 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L1024)
 - [Art. 6 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
+

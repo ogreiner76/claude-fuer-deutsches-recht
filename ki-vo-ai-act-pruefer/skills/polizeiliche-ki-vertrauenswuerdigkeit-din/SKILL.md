@@ -32,10 +32,7 @@ description: "Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet
 - klare Nichtnutzungsszenarien.
 - Betroffenen- und Rechtsschutzperspektive.
 
-## Output
-
-Ein Beschaffungs- oder Einsatzvermerk mit Ampel und Abhilfen.
-
 ## Warnung
 
 Bei Polizei-KI ist "Treffer" nur ein Hinweis. Er darf nicht unbemerkt zum Beweis, zur Verdachtsbegründung oder zur Einsatzentscheidung mutieren.
+

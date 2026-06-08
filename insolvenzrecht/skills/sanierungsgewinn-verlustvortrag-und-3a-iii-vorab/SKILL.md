@@ -5,10 +5,6 @@ description: "Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absat
 
 # Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab pruefen
 
-## Arbeitsbereich
-
-Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-für-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag aufzehrt, ist die Steuerfreiheit faktisch sichergestellt — Erlassantrag bleibt formell sinnvoll, materiell aber entbehrlich. Mit Berechnungsschemata und Excel-tauglicher Tabelle. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -127,20 +123,6 @@ Zeile 6: = Restsanierungsertrag
 5. Zinsschranke und Zinsvortrag uebersehen.
 6. Annahme, Paragraph 3a EStG schliesse Paragraph 10d EStG aus — er **modifiziert** die Reihenfolge, schaltet sie aber nicht ab.
 
-## Querverweise
-
-Im Plugin `insolvenzrecht`:
-
-- `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
-- `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Vorrats- und Antragsmechanik.
-- `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack` — GewSt-Parallelitaet.
-- `insol-sanierungsgewinn-iv-haftung-für-versaumte-3a-iv-antraege` — Haftung Verwalter bei Versaeumnis.
-
-In anderen Plugins:
-
-- `steuerrecht-anwalt-und-berater` — allgemeine Verlustabzugs-Mechanik.
-- `liquiditaetsplanung` — Schwester-Skill für Cash-Sicht.
-
 ## Quellen Stand 06/2026
 
 - Paragraph 3a EStG, `gesetze-im-internet.de/estg/__3a.html`.
@@ -150,3 +132,4 @@ In anderen Plugins:
 - FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung und Grenzen des steuerfreien Sanierungsgewinns. Verifikation ueber `dejure.org` und NWB-Datenbank.
 - FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation mit nachrangigem Gesellschafterdarlehen; mit dem Erloeschen der GmbH erloeschen Verbindlichkeiten **und** Verlustvortraege, der rechentheoretisch entstehende Gewinn ist mangels Koerperschaftsteuersubjekt nicht festsetzbar. Wichtige Abgrenzung zum hier geregelten Sanierungspfad.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+

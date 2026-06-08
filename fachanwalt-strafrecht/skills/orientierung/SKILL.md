@@ -8,6 +8,7 @@ description: "Orientierung im Strafrecht: prüft konkret Orientierung im Strafre
 ## Arbeitsbereich
 
 **Orientierung** ordnet den Fall über die tragenden Prüfungslinien: Orientierung im Strafrecht-Mandat und Fallrouting, Untersuchungshaft und Haftprüfung nach §§ 112 ff, Verständigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +26,7 @@ description: "Orientierung im Strafrecht: prüft konkret Orientierung im Strafre
 - Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `fachanwalt-strafrecht-orientierung`
@@ -78,9 +80,6 @@ description: "Orientierung im Strafrecht: prüft konkret Orientierung im Strafre
 - **OLG** Berufungs- und Revisionsinstanz; Anklage erstinstanzlich bei Staatsschutzdelikten.
 - **BGH 1.–5. Strafsenat** Revisionsinstanz.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Berufsverband
 
 - Deutscher Strafverteidiger e. V. (DSV).
@@ -111,19 +110,11 @@ Plugin für Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfa
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
 ## 2. `fachanwalt-strafrecht-untersuchungshaft-haftpruefung`
 
 **Fokus:** Untersuchungshaft und Haftprüfung nach §§ 112 ff. StPO: Anwendungsfall Mandant wurde verhaftet und Strafverteidiger muss Haftbefehl anfechten oder Haftprüfungsantrag stellen. §§ 112-113 StPO Haftgründe Fluchtgefahr Verdunkelungsgefahr Wiederholungsgefahr, § 117 StPO Haftprüfung 3-Monats-Frist, § 304 StPO Haftbeschwerde. Prüfraster dringender Tatverdacht prüfen, Haftgrundargumente widerlegen, verhältnismäßige Alternativmassnahmen anbieten. Output Haftbefehlsanfechtung oder Haftprüfungsantrag mit Argumentationsstrategie. Abgrenzung zu Erstgespraeach und zu Hauptverhandlung-Vorbereiten.
 
 ### Untersuchungshaft Haftprüfung
-
-## Zweck
-
-Verteidigung bei drohender oder bestehender Untersuchungshaft.
 
 ## 1) Haftgründe § 112 II StPO
 
@@ -281,14 +272,6 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 - `fachanwalt-strafrecht-anklage-reaktion` — bei Anklage
 - `aktenaufbereiter-strafrecht` — bei Akten-Auswertung
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
-
 ## 3. `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
 
 **Fokus:** Verständigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a StGB vorbereiten: Anwendungsfall Strafverteidiger prüft ob Einigung durch Deal Einstellung oder TOA für Mandanten vorteilhaft ist. § 257c StPO Verständigung Gestaendnis gegen Strafrahmen, § 46a StGB Taeter-Opfer-Ausgleich Strafmilderung, § 153a StPO Einstellung gegen Auflage. Prüfraster Verständigungs-Eignung beurteilen, Gestaendnis-Risiken prüfen, TOA-Bereitschaft Opfer, Mandant belehren. Output Verständigungs-Strategie-Memo mit Gespraeachsskript und Belehrungsprotokoll. Abgrenzung zu Plaedoyer-Vorbereitung für Hauptverhandlung und zu Einlassung.
@@ -399,14 +382,6 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 - **Vorstrafen**: bei nicht-Geständigem Verteidigungs-Pfad häufig vorteilhaft
 - **Bei Wirtschaftsstraftaten**: § 153a-Auflage orientiert sich an 30 % des Schadens
 
-## Querverweise
-
-- `fachanwalt-strafrecht-orientierung` — Triage
-- `fachanwalt-strafrecht-wahlverteidiger-mandat` — Mandatsannahme
-- `fachanwalt-strafrecht-anklage-reaktion` — Reaktion auf Anklage
-- `fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo` — Sonderfall
-- `anw-steuerstrafverteidigung-verstaendigung` — Steuerstraf-Variante
-
 ## Quellen und Updates (Stand Mai 2026)
 
 - BGH 20.11.2025 — 4 StR 232/25 (TOA § 46a Nr. 1 StGB, sexueller Missbrauch): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
@@ -420,10 +395,6 @@ Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigu
 **Fokus:** Wahlverteidiger-Mandat im Strafrecht beginnen: Anwendungsfall Beschuldigter waehlt Strafverteidiger und Erstgespraeach muss Schweigerecht Akteneinsicht Honorar und Strategie klaeren. § 136 StPO Schweigerecht Erstbelehrung, § 137 StPO Verteidigerrecht, § 147 StPO Akteneinsicht. Prüfraster Schweigerecht kommunizieren, eigene Einschaetzung zurückhalten bis Akte vorliegt, Honorarvereinbarung über RVG hinaus, Verteidigungsstrategie aktiv vs. passiv besprechen. Output Erstgespraeach-Protokoll mit Sofortmassnahmen und Honorarvereinbarung. Abgrenzung zu Erstgespraeach-Mandatsannahme für allgemeine Aufnahme und zu Akteneinsicht.
 
 ### Wahlverteidiger-Mandat
-
-## Zweck
-
-Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 
 ## 1) Erstgespräch
 
@@ -572,10 +543,6 @@ Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 - § 146 StPO — Verbot der Mehrfachverteidigung bei Mitbeschuldigten
 - § 43a II BRAO — Verschwiegenheitspflicht
 - § 53 StPO — Zeugnisverweigerungsrecht
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## 5. `fachanwalt-strafrecht-zeugenbeistand`
 
@@ -860,3 +827,4 @@ HinSchG-Schutz prüfen (Hinweisgeberschutzgesetz 2023). Identitätsschutz und Ad
 ## Quellen
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+

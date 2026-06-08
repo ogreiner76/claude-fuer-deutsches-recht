@@ -29,10 +29,6 @@ Nicht aus Modellwissen; insbesondere zu Fristberechnung Art. 33 Abs. 1 DSGVO bei
 
 Art. 28 Abs. 3; Art. 33 Abs. 2; Art. 82 DSGVO; § 280 BGB.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe ueber offizielle oder frei zugaengliche Quelle (eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de, dejure.org, openjur.de, gesetze-im-internet.de) mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. BeckRS-Fundstellen nur in Verbindung mit einer primaeren oder offenen Sekundaerquelle.
-
 ## Praxisformulierung — Muster Meldung Auftragsverarbeiter
 
 Betreff: Meldung einer Verletzung des Schutzes personenbezogener Daten nach Art. 33 Abs. 2 DSGVO.
@@ -59,3 +55,4 @@ Eskalationsschreiben bei Schweigen: Fristsetzung 24 h; danach Vertragsstrafe und
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung des Verantwortlichen ab.
+

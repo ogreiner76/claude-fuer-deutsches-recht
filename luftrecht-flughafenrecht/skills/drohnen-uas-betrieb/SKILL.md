@@ -5,10 +5,6 @@ description: "Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach
 
 # Drohnen und UAS-Betrieb – Genehmigung, Registrierung und Haftung
 
-## Arbeitsbereich
-
-Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-Unfall in Haftungsfragen verwickelt. Prueft EU-VO 2019/947 Betriebskategorien Open/Specific/Certified LuftVG § 21a Registrierungspflicht LBA Versicherungspflicht EU-VO 785/2004 und liefert Genehmigungs-Checkliste und Haftungs-Vermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -44,6 +40,7 @@ Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-U
 - **LuftVG § 21e**: Nationales UAS-Register; Registrierungspflicht ab 250 g.
 - **LuftVO § 21b**: Betriebsverbote und Beschränkungszonen; Kontrollluftraum.
 - **EASA Easy Access Rules for UAS**: Konsolidierte Fassung aller UAS-Verordnungen.
+
 ## Prüfraster
 
 1. In welche Betriebskategorie fällt der geplante Einsatz?
@@ -54,6 +51,7 @@ Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-U
 6. Wurde LBA-Betriebsgenehmigung (Specific) korrekt beantragt?
 7. Ist Betriebskategorie (offen/spezifisch/zertifiziert) korrekt eingestuft (EU-VO 2019/947 Art. 5)?
 8. Liegt für spezifische Kategorie ein genehmigter SORA-Risikoplan vor?
+
 ## Typische Fallstricke
 
 - Open-Kategorie angenommen obwohl kommerzieller Flug über Menschen Specific erfordert.
@@ -62,9 +60,7 @@ Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-U
 - Naturschutzgebiet nicht überprüft; Einsatz illegal.
 - Drohne über 250 g nicht im UAS-Register eingetragen; Bußgeld nach LuftVG § 58.
 - Betriebszone ohne LBA-Genehmigung überflogen; Strafbarkeit nach § 315a StGB.
-## Output
 
-Genehmigungs-Checkliste je Betriebskategorie. Haftungs-Vermerk Drohnenunfall. Versicherungsnachweis-Muster. Betriebsgenehmigungsmatrix nach Kategorie. SORA-Risikoanalyse-Template.
 ## Quellen
 
 - EU-VO 2019/947: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R0947
@@ -92,3 +88,4 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 - Gültige Betriebsgenehmigung und AOC-Kopie
 - Leasingvertrag oder Eigentumsnachweis
 - Aktuelle Behördenbescheide und Aufsichtskorrespondenz
+

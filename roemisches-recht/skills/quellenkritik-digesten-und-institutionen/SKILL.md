@@ -5,10 +5,6 @@ description: "Römisches Recht: Quellenkritik der Digesten (Const. Tanta 533 n.C
 
 # Quellenkritik: Digesten und Institutionen
 
-## Arbeitsbereich
-
-Römisches Recht: Quellenkritik der Digesten (Const. Tanta 533 n.Chr.) - Interpolationsforschung, Florentina-Handschrift, Lenel Palingenesia Iuris Civilis und Methoden der Textkritik. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Historische Quellenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
@@ -71,13 +67,3 @@ Die Digesten wurden am 16. Dezember 533 durch Const. Tanta promulgiert und entha
 - Interpolationskritik mit Vorsicht: neuere Tendenz zur Zurückhaltung (Honoré, Watson)
 - Papyri-Datenbank: papyri.info
 
-## Output
-
-- Quellenkritisches Memo zu konkreter Digestenstelle
-- Vergleich klassischer Originaltext (Lenel) vs. Digestenfassung
-- Interpolationsverdachts-Analyse mit Argumenten pro/contra
-- Überlieferungsdiagramm
-
-## Quellenregel
-
-CIC: Mommsen-Krüger (archive.org). Lenel Palingenesia (archive.org). Gaius Verona: Studemund (archive.org). Interpolationen: Index Interpolationum. Unsicherheiten explizit.

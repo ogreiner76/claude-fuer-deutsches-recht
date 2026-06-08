@@ -40,14 +40,6 @@ Außenaufzug: Statik-Gutachten, ggf. Baugenehmigung nach Landesbauordnung, Denkm
 - Pflegekasse § 40 Abs. 4 SGB XI: bis 4.180 Euro je Maßnahme bei Pflegegrad 1-5 (Stand 06/2026 — verifizieren). Antrag VOR Maßnahmenbeginn. Norm: https://www.gesetze-im-internet.de/sgb_11/__40.html
 - Kommunale Programme: Berlin SIWA (Soziale Infrastruktur und Wohnraumförderung), Hamburg WK Hamburg, München Wohnungspolitik-Fonds.
 
-## Output
-
-- Anspruchsprüfungs-Bogen (§ 20 Abs. 2 Nr. 2 WEG: Eigentümer, Maßnahme, Behinderungsbedarf, technische Umsetzbarkeit)
-- Beschlusswortlaut Aufzug-Nachrüstung mit Beitritts-Option für andere Eigentümer
-- Kostenmatrix (Anschaffung, laufender Betrieb, Beitrittsbeitrag)
-- Förderantragspfade (KfW vor Bauvertrag, Pflegekasse vor Beginn)
-- Risiko-Analyse Anfechtung (mögliche Einwände und Entgegnungen)
-
 ## Cross-Refs
 
 - Privilegierte Maßnahmen allgemein → `steckersolar-wallbox-barrierefreiheit`

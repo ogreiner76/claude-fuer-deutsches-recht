@@ -42,9 +42,6 @@ Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Ber
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Entscheidungsbaum Rechtsmittelwahl
 
 ```
@@ -95,3 +92,4 @@ Mit freundlichen Gruessen [KANZLEI]
 - Revisionsbegründungsfrist 1 Monat — nach Zustellung der Urteilsgruende; nicht ab Verkuendung.
 - Annahme-Berufung (§ 313 StPO): Erfolgsaussichten darlegen.
 - Anwaltliche Endkontrolle vor Einlegung und vor Begründung.
+

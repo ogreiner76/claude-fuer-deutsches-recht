@@ -5,9 +5,6 @@ description: "Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ers
 
 # Vertreterversammlung
 
-## Aufgabe
-Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation.
-
 ## Einstieg
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 
@@ -25,7 +22,6 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 
-
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -33,11 +29,6 @@ Konkret zu prüfen:
 - Art. 21 GG (Parteien)
 - §§ 1-41 PartG (Parteiengesetz)
 - § 23 PartG (Rechenschaftsbericht)
-## Output
-- Kurz-Erklärung
-- Risiko- und Fristenampel
-- konkreter nächster Schritt
-- Dokumententwurf oder Checkliste
 
 ## Quellen- und Aktualitätsregel
 - Parteiengesetz live prüfen
@@ -47,3 +38,4 @@ Konkret zu prüfen:
 - Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen
 - Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
 - Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+

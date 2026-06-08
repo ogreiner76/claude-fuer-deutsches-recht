@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder 
 
 # Abschlussmemo Internationales Handelsrecht
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -51,16 +47,6 @@ Das rechtliche Abschlussmemo fasst Ergebnisse einer Prüfung eines international
 - Quellenmatrix: Anhang mit allen verwendeten Quellen (Norm, Gericht, Datum, Fundstelle)
 - Wesentlichkeit: Risiken unter EUR 50.000 oder unter 5% Vertragsrisiko in Anhang
 - Unsicherheit: immer sichtbar lassen — kein unqualifiziertes "ist rechtmäßig"
-
-## Output
-
-- Abschlussmemo-Template (international, CISG-Fokus)
-- Risikoampel-Kalkulationsschema
-- Quellenmatrix-Vorlage
-
-## Quellenregel
-
-CISG: uncitral.un.org. ICC Regeln 2021: iccwbo.org. LkSG: gesetze-im-internet.de. Schrifttum: Praxis-Handbücher (Anwaltsverlag). Unsicherheit bleibt sichtbar.
 
 ## Normen und Rechtsprechung
 

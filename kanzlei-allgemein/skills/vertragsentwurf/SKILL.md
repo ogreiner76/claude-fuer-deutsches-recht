@@ -32,13 +32,6 @@ Erstellt Vertragsentwuerfe aus Term Sheet Mandantenangaben oder Vorlagen für je
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag: Pflichtbestandteil bei Datenweitergabe
 - § 631 ff. BGB — Werkvertrag; § 611 ff. BGB — Dienstvertrag: Grundtypen-Abgrenzung
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Zweck
-
-Dieser Skill erzeugt schnell einen brauchbaren Vertragsentwurf oder eine Vertragsstruktur. Er hilft bei Dienstleistungsvertrag, Mandatsvereinbarung, NDA, SaaS, Kauf, Werkvertrag, Miet- oder Kooperationsvertrag. Er ist bewusst playbook-orientiert: erst die wirtschaftliche Logik, dann die Klauseln.
-
 ## Schnellstart
 
 1. Vertragstyp.
@@ -124,3 +117,4 @@ Vor Ausgabe prüfen:
 - `assets/templates/vertragsentwurf-playbook.md`.
 - `assets/templates/vertragsrisiken-matrix.md`.
 - Danach `kanzlei-allgemein-qualitaetsgate-hardening`.
+

@@ -5,10 +5,6 @@ description: "UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1
 
 # UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt)
 
-## Arbeitsbereich
-
-UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterprotokoll. Abgrenzung: nicht GmbH-Gründung ab 25000 Euro. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -47,9 +43,6 @@ UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaur
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## UG vs. GmbH Vergleichsmatrix
 
 | Merkmal | UG (haftungsbeschränkt) | GmbH |
@@ -146,8 +139,10 @@ Geschätzte Dauer bis Umfirmierung: ca. [X] Jahre
 - `gesellschaftsgruender-gmbh-vorbereitung` — bei Umfirmierung zur GmbH
 
 ---
+
 ## Audit-Hinweis (27.05.2026)
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Status: WRONG_TOPIC — das Urteil betrifft Verjährung von Einlageforderungen nach Übergangsrecht (NJW-RR 2008, 843), nicht Vorbelastungshaftung UG.
 Maßnahme: Beide Nennungen des AZ (Rechtsprechungsabschnitt und Quellenabschnitt) entfernt. Kein verifizierter Ersatz für Vorbelastungshaftung UG auf dejure.org gefunden; kein Ersatz eingefügt.
+

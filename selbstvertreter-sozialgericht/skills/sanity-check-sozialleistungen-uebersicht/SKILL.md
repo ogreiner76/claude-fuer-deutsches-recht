@@ -5,9 +5,6 @@ description: "Sanity Check Sozialleistungen Uebersicht im Selbstvertretung am So
 
 # Sanity Check Sozialleistungen Uebersicht
 
-## Arbeitsbereich
-
-**Sanity Check Sozialleistungen Uebersicht** ordnet den Fall über die tragenden Prüfungslinien: Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -25,6 +22,7 @@ description: "Sanity Check Sozialleistungen Uebersicht im Selbstvertretung am So
 - Tragende Normen verifizieren: SGG §§ 51, 78, 87, 90, 130a, 144, 160, 183, 193, SGB I, II, III, V, VI, IX, X — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `sanity-check-selbstvertretung-sozialgericht`
@@ -40,10 +38,6 @@ description: "Sanity Check Sozialleistungen Uebersicht im Selbstvertretung am So
 - **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Zweck
-
-Dieser Skill prüft, ob ein Widerspruch, eine Klage, ein Eilantrag oder eine Stellungnahme vor dem Sozialgericht praktisch tragfähig ist. Er soll Bürgern helfen, nichts Wichtiges zu vergessen.
 
 ## Wann aktivieren?
 
@@ -118,39 +112,6 @@ Ich beantrage im Wege der einstweiligen Anordnung, die Antragsgegnerin vorläufi
 | Pflegegrad | Pflegegutachten, Pflegetagebuch, Arztberichte, Hilfebedarf nach Modulen |
 | EM-Rente | Befundberichte, Reha-Entlassungsbericht, Tätigkeitsbeschreibung |
 | GdB | Diagnosen, Funktionsbeeinträchtigungen, Befunde, Alltagsschilderung |
-
-## Ausgabeformat
-
-**Sanity-Check**
-| Feld | Ampel | Befund | Reparatur |
-|---|---|---|---|
-
-**Vor Absenden erledigen**
-1. [kritischer Punkt]
-
-**So kann es raus, wenn**
-1. [Bedingung]
-
-**Nächste Skills**
-- `widerspruchsfrist-84-sgg`
-- `klagearten-uebersicht-sgg`
-- `eilantrag-86b-sgg-grundlagen`
-- `zulassungsgrenzen-check-sozialgericht`
-
-## Qualitätsregeln
-
-- Fristen mit Datum und Ausgangspunkt nennen.
-- Amtsermittlung nicht überschätzen: Belege bleiben wichtig.
-- Bei Eilrechtsschutz immer Anordnungsanspruch und Anordnungsgrund trennen.
-- Keine ärztlichen Diagnosen erfinden; medizinische Angaben nur aus Unterlagen übernehmen.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 2. `sozialleistungen-uebersicht-sgb`
 
@@ -248,26 +209,9 @@ Manchmal greift mehr als ein SGB. Beispiel: Krank (SGB V) UND Schwerbehinderung 
 - Falscher Trotz: "Die anderen wissen das schon" → Antrag aktiv stellen
 - Verwechslung SGB II und SGB XII → SGB II nur für arbeitsfaehige Personen
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `sozialgericht-zuständigkeit-51-sgg` — welche Streitigkeiten ans SG
-- `buergergeld-jobcenter-sgb-ii` — Buergergeld-Spezial
-- `grundsicherung-sgb-xii` — Sozialhilfe-Spezial
-- `pflegegrad-streit-mdk-pflegekasse-sgb-xi` — Pflege
-- `erwerbsminderungs-rente-streit-sgb-vi` — EM-Rente
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Buergergeld-Reform 2023. Bei Unsicherheit fragen Sie beim oertlichen Sozialamt oder VdK.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 3. `teilstattgabe-vollstattgabe-verstehen`
 
@@ -381,26 +325,9 @@ Eine Vollabhilfe ist eine Entscheidung. Geld kommt aber nicht von selbst. Pruefe
 - Bei Teilabhilfe nicht klagen, obwohl Rest strittig → Klage waere moeglich
 - Bei Vollabhilfe auf Geld warten ohne Nachfrage → nach 4 Wochen erinnern
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `widerspruchsbescheid-was-jetzt` — Ueberblick nach Bescheid
-- `klagearten-uebersicht-sgg` — welche Klage gegen welchen Teil
-- `untaetigkeitsklage-88-sgg` — wenn Behörde nicht zahlt
-- `anfechtungsklage-54-sgg` — gegen Zurueckweisung
-- `verpflichtungsklage-54-sgg` — auf Mehrleistung
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Klassische Auslegungs-Praxis. Bei Unsicherheit Beratungsstelle.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 4. `terminvorbereitung-laien-checkliste-sozialgericht`
 
@@ -537,25 +464,9 @@ Wenn ein Gutachter erscheint:
 - Bei schwierigen Fragen erfunden Antworten → "Das weiss ich nicht" ist ok
 - Vergleich vorschnell zugestimmt → bedenken
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `ladung-termin-sozialgericht-vorbereitung` — Ladung verstehen
-- `verhalten-im-saal-sozialgericht-laienleitfaden` — Verhalten
-- `vergleich-vorschlag-101-sgg` — Vergleich
-- `widerspruch-gegen-gutachten-laien` — Gutachten kritisieren
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Hinweise.
-
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.
 
 ## 5. `typische-fehler-selbstvertreter-sozialgericht`
 
@@ -694,23 +605,7 @@ Generelle SGG- und SGB-Pruefung.
 
 Die gesamte Skill ist eine Aufzaehlung typischer Fehler — siehe oben Fehler 1 bis 15.
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg
-- `fristen-berechnen-sgg-laien` — Fristen genau
-- `wiedereinsetzung-frist-67-sgg` — wenn Frist verpasst
-- `widerspruchsfrist-84-sgg` — Widerspruchsfrist
-- `klagebegruendung-laienleitfaden` — Klage begruenden
-- Alle anderen Skills dieses Plugins.
-
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. Praxis-Erfahrung.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

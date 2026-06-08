@@ -5,10 +5,6 @@ description: "Unternehmen will Software ausliefern oder als Open Source veroffen
 
 # Open-Source-Lizenz-Compliance-Prüfung
 
-## Arbeitsbereich
-
-Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fragt nach Lizenz-Compliance. Open-Source-Lizenz-Compliance. Prüfraster: Manifest SBOM Repository Copyleft-Pflichten Lizenzkompatibilitaet GPL LGPL MIT Apache genehmigungsfähige Bibliotheken. Output: Compliance-Bericht mit Handlungsempfehlungen je Abhaengigkeit. Abgrenzung zu ip-klausel-prüfung (vertragliche IP) und fto-triage (Patente). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,14 +12,6 @@ Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fr
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Diese Skill teilt mit, welche Lizenzen im Abhängigkeitsbaum enthalten sind, welche Pflichten diese Lizenzen angesichts des Einsatzmodells auslösen, und was für jede einzelne Abhängigkeit zu tun ist: Pflichten erfüllen, ersetzen, entfernen, anwaltliche Prüfung einholen oder kommerzielle Lizenz beschaffen.
-
-Dies ist eine Erstklassifikation. Copyleft-Analysen hängen vom Einsatzmodell, der Einbindungstiefe, der Rechtsordnung und bisweilen von noch nicht gerichtlich geklärten Rechtsfragen ab (insbesondere AGPL-Netzwerktrigger, GPL-3.0-Patentklausel). Alles was als starkes Copyleft oder unklare Lizenz eingestuft wird, geht vor Auslieferung oder Veröffentlichung an einen Rechtsanwalt. Die Skill liefert den Befund; der Anwalt entscheidet.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ## Eingaben
 
@@ -214,10 +202,6 @@ OSS-Lizenz-Durchsetzbarkeit variiert: Der AGPL-Netzwerkauslöser ist in Deutschl
 [Wer genehmigt; was löst automatische Eskalation aus]
 ```
 
-## Ausgabeformat
-
-Vermerk mit Arbeitsergebnis-Kopfzeile, Gesamtbewertung, kritischen Anfangshinweisen, Paketblöcken nach Schweregrad, Rechtsordnungshinweis, ausgehende Prüfung (falls einschlägig), Weiterleitungshinweise.
-
 ## Beispiel
 
 **Eingabe:** `requirements.txt` eines Python-SaaS-Projekts enthält `flask-login` (MIT), `celery` (BSD-3-Clause), `cryptography` (Apache-2.0/BSD), `mysqlclient` (GPL-2.0).
@@ -270,3 +254,4 @@ Bevor die Lizenz-Compliance-Analyse beginnt, klaere:
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 > Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

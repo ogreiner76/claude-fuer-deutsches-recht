@@ -51,10 +51,6 @@ description: "Dieses Skill behandelt die methodische Lückenfüllung im bürgerl
 - Das Analogieergebnis widerspricht dem Telos der Leitvorschrift, ohne dass dies begründet wird.
 - Bereicherungsrechtliche Lösungen werden übersehen, obwohl sie für atypische Sachverhalte besser passen.
 
-## Output
-
-Das Skill liefert ein strukturiertes Lückenfüllungsgutachten: Identifikation der Regelungslücke, Analogieprüfung mit Vergleichbarkeitsprüfung, Anwendung der gewählten Methode und Risikobewertung des Ergebnisses. Geeignet für anwaltliche Beratung bei Grenzfällen, für Klageentwürfe und für Gutachten in ungesicherten Rechtsfragen.
-
 ## Quellen
 
 - [§ 133 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__133.html)
@@ -86,3 +82,4 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+

@@ -5,10 +5,6 @@ description: "Prüft Besonderheiten der Familienhandelsvertretung: Mitarbeit von
 
 # Familienhandelsvertretung — Mitarbeit von Angehörigen und Agenturübertragung
 
-## Arbeitsbereich
-
-Prüft Besonderheiten der Familienhandelsvertretung: Mitarbeit von Familienangehörigen im Handelsvertreterbetrieb, arbeitsrechtliche Einordnung mitarbeitender Familienmitglieder, Haftung bei Familiengesellschaften, Übertragung der Agentur auf Familienangehörige und Auswirkungen auf Ausgleich und Erbrecht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -65,10 +61,6 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 - Sozialversicherungspflicht mitarbeitender Angehöriger nicht geklärt — Nachforderungsrisiko.
 - Erbfolge in Handelsvertretung ohne Zustimmung des Unternehmers nicht möglich.
 
-## Output
-
-Vertragsstrukturanalyse, Ausgleichsprüfung bei Agenturübertragung, Erbschaftsplanung Handelsvertretung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in den §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ ergänzen das Recht praxisnah.
 - [§ 705 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__705.html)
 - [§ 7 SGB IV auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_4/__7.html)
 - [Dejure § 89b HGB](https://dejure.org/gesetze/HGB/89b.html)
+

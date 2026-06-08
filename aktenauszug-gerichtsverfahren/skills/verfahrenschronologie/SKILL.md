@@ -5,10 +5,6 @@ description: "Erstellt eine chronologische Bullet-Liste aller prozessualen Schri
 
 # Verfahrenschronologie
 
-## Arbeitsbereich
-
-Erstellt eine chronologische Bullet-Liste aller prozessualen Schritte: Klageeingang Zustellungen Schriftsatzfristen Beweisbeschluesse muendliche Verhandlungen Beweisaufnahme Urteile und Rechtsmittel. Kritische Fristen werden optisch hervorgehoben. Fundstellen werden angegeben. Normen §§ 222 517 520 ZPO Fristberechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Erstellt eine chronologische Bullet-Liste aller prozessualen Schritte: Klageeing
 - Tragende Normen verifizieren: ZPO §§ 299, 299a, StPO §§ 147, 385, 406e, VwGO § 100, SGG § 120, FamFG § 13, BORA § 19 (Akteneinsicht), Aktenordnung (AktO), AnwGH-Bescheinigungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Anwalt, Geschäftsstelle, Verteidiger, Nebenklägervertreter, Beigeordneter, ggf. Sachverständiger.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Akteneinsichtsantrag, Aktenauszug (chronologisch), Aktenvermerk, Aktenspiegel, Beweismittelübersicht, Zeitachse, Vollmacht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Die Verfahrenschronologie erfasst alle prozessualen Schritte in zeitlicher Reihenfolge. Sie unterscheidet sich von der Sachverhaltschronologie dadurch, dass sie ausschließlich innerhalb des Verfahrens liegende Handlungen und Ereignisse abbildet.
 
 ## Triage — kläre vor Erstellung
 
@@ -42,9 +34,6 @@ Die Verfahrenschronologie erfasst alle prozessualen Schritte in zeitlicher Reihe
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Was gehört hinein
 
 - Klageeingang / Antragseingang beim Gericht
@@ -78,6 +67,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Jede prozessrelevante Frist wird hervorgehoben und ans Ende der Chronologie als eigener Block wiederholt:
 
 ```
+
 ## Fristen und Termine (Übersicht)
 
 | Frist / Termin | Datum | Status |
@@ -120,3 +110,4 @@ Jede prozessrelevante Frist wird hervorgehoben und ans Ende der Chronologie als 
 - [ ] Zustellungsdaten als Grundlage der Fristberechnung angegeben?
 
 ---
+

@@ -5,10 +5,6 @@ description: "Klimaklagen Verbandsklage Umwrg: ordnet Normen, Nutzerangaben, Fri
 
 # Klimaklagen und Verbandsklagen nach UmwRG
 
-## Arbeitsbereich
-
-Klimaklagen Verbandsklage Umwrg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,12 +12,6 @@ Klimaklagen Verbandsklage Umwrg: ordnet Normen, Nutzerangaben, Fristen, Belege u
 - Tragende Normen verifizieren: BImSchG, KrWG, WHG, BNatSchG, UVPG, BBodSchG, ChemG, StörfallV (12. BImSchV), TA Luft, TA Lärm, EU-IED 2010/75, UmwRG, EU-FFH-RL, EU-WRRL — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Skill für Klimaklagen (BVerfG-Klimabeschluss 1 BvR 2656/18, 24.03.2021), Verbandsklagen anerkannter Umweltvereinigungen nach §§ 1, 2 UmwRG, sowie KSG-Klagen auf Sofortprogramme (BVerwG 30.11.2023, 8 C 7.22). Im Fokus: UVP-/SUP-Pflicht-Streit, BImSchG-Anlagengenehmigungen mit Klimabezug, KSG-Vollzugsklagen.
-
-Zentrale verifizierte Eckentscheidungen: BVerfG 1 BvR 2656/18, BVerwG 8 C 7.22, EGMR Grosse Kammer 09.04.2024 (KlimaSeniorinnen Schweiz, Nr. 53600/20), EuGH C-243/15 + C-664/15 zu Aarhus. Konkrete Aktenzeichen vor Ausgabe ueber bundesverfassungsgericht.de / bverwg.de / curia.europa.eu / echr.coe.int verifizieren.
 
 ## Eingaben
 
@@ -323,3 +313,4 @@ Es wird beantragt:
 - Aarhus-Konvention
 - Schlacke Umweltrecht
 - Kloepfer Umweltrecht
+

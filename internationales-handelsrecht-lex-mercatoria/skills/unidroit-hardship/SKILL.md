@@ -5,10 +5,6 @@ description: "Internationales Handelsrecht: Hardship nach UNIDROIT Principles Ar
 
 # Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3
 
-## Arbeitsbereich
-
-Internationales Handelsrecht: Hardship nach UNIDROIT Principles Art. 6.2.1-6.2.3. Definition der Leistungserschwernis, Wesentlichkeit des Ungleichgewichts, Neuverhandlungspflicht, Gerichts-/Schiedsrichterentscheid und Abgrenzung zu Force Majeure (Art. 7.1.7 PICC). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -53,12 +49,3 @@ Hardship (Art. 6.2.1-6.2.3 PICC) liegt vor, wenn veränderte Umstände das Gleic
 - Neuverhandlungsklausel im Vertrag: triggert Art. 6.2.3-Mechanismus explizit
 - Schiedsgerichts-Praxis: Zurückhaltung bei Anpassung (jusmundi.com-Schiedssprüche)
 
-## Output
-
-- Hardship vs. Force Majeure Abgrenzungsmatrix
-- Neuverhandlungsklausel-Muster (PICC-konform)
-- Checkliste: Hardship-Tatbestand Art. 6.2.2
-
-## Quellenregel
-
-PICC 2016 Art. 6.2.1-6.2.3: unidroit.org. Schiedssprüche: jusmundi.com. Schrifttum: Vogenauer/Kleinheisterkamp Art. 6.2.1-6.2.3 (2015). Unsicherheit bleibt sichtbar.

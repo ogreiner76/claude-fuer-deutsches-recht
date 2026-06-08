@@ -5,10 +5,6 @@ description: "Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumente
 
 # KI-Arbeitsauftrag Briefing
 
-## Arbeitsbereich
-
-Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder einer Sprachnotiz einen praezisen KI-Arbeitsauftrag macht. Klaert Ziel, Kontext, Outputformat, Grenzen, Quellenstandard, Datenschutz, Fristen und Abnahmekriterien. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,10 +12,6 @@ Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder ei
 - Tragende Normen verifizieren: StAG §§ 4, 5, 8-17, 25, 27, 30; DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Dieser Skill verwandelt unscharfe Arbeitsauftraege in eine praezise, juristisch brauchbare Arbeitsanweisung. Er ist hilfreich, wenn Aktenstuecke, E-Mails, Screenshots, Tabellen und ein vager Wunsch zusammenfallen.
 
 ## Vier Pflichtbausteine
 
@@ -53,10 +45,3 @@ Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfun
 - **BORA und KI-Richtlinie:** Mandantenseitige Aufklaerung bei KI-Einsatz im Mandat erwaegen; Pseudonymisierung von Personendaten vor Promptuebergabe.
 - **Halluzinations-Sperre:** Jede juristische Aussage muss vor Versand verifiziert sein (Rechtsprechung mit Az., Norm in aktueller Fassung). Modell-Wissen ohne Verifizierung ist nicht zitierfaehig.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

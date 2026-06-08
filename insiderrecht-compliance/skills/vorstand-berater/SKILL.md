@@ -5,10 +5,6 @@ description: "Prueft Insiderrecht-Pflichten von Vorstand und Aufsichtsrat: Wisse
 
 # Vorstand und Aufsichtsrat – Insiderrechtliche Pflichten
 
-## Arbeitsbereich
-
-Prueft Insiderrecht-Pflichten von Vorstand und Aufsichtsrat: Wissenszurechnung, Geschaeftsordnungspflichten, AktG-Beziehung und Haftungsrisiken. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -80,21 +76,3 @@ d) Interessenkonflikt: AR-Mitglieder mit Doppelmandaten oder Verbindungen zu Bie
  schuldhaft verletzt
 - Strafbarkeit nach § 119 WpHG: persönlich für handelnde Vorstandsmitglieder
 
-## Red-Team-Fragen
-
-- Ist die Wissenszurechnung zwischen Vorstandsmitgliedern aktiv gemanagt (Information Barriers)?
-- Erfüllt jedes einzelne AR-Mitglied seine eigenen MAR-Pflichten (Handelsverbot, DD)?
-- Werden AR-Mitglieder auf Interessenkonflikte bei M&A und Kapitalmaßnahmen geprüft?
-- Sind Compliance-Richtlinien für Vorstand und AR separat und aktuell?
-- Ist die D&O-Versicherung auf Kapitalmarktrecht-Deckung geprüft?
-
-## Ausgabeformat
-
-Erzeuge:
-1. Pflichten-Matrix: Vorstand × AR × Norm × Sanktion
-2. Compliance-Richtlinien-Entwurf (Auszug für Vorstand und AR)
-3. Schulungsagenda (jährliche Auffrischung)
-4. Haftungsrisiko-Einschätzung
-
-Belege ausschließlich mit: gesetze-im-internet.de, eur-lex.europa.eu, bafin.de, bgh.de,
-dejure.org, openjur.de.

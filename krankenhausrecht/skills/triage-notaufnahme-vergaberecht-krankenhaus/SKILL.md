@@ -19,10 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Ueberlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -92,14 +88,6 @@ Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Tria
 - § 5c IfSG-Vorgaben nicht in SOP integriert (Diskriminierungsverbot).
 - Aufnahmestatus nicht abgemeldet trotz Ueberlastung.
 
-## Querverweise
-- `notfallstufen-und-sicherstellungszuschlaege`
-- `intensivmedizin-beatmung-verlegung`
-- `rettungsdienst-schnittstelle-aufnahme-pflicht`
-- `patientenrechte-behandlungsvertrag-aufklaerung`
-- `dokumentation-aufbewahrung-beweislast`
-- `haftpflichtfall-krankenhaus-gutachtenstrategie`
-
 ## Quellen Stand 06/2026
 - BVerfG 16.12.2021, 1 BvR 1541/20.
 - § 5c IfSG.
@@ -112,3 +100,4 @@ Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Tria
 Konkret zu prüfen:
 
 - GWB §§ 97 ff.
+

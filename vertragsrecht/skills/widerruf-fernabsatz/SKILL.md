@@ -5,10 +5,6 @@ description: "Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach
 
 # Widerruf im Fernabsatz- und Außergeschäftsraumvertrag
 
-## Arbeitsbereich
-
-Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -79,6 +75,7 @@ Das Modell benötigt:
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
 ## Ablauf
 
 1. **Qualifikation des Vertrags**: Liegt ein Fernabsatz- oder Außergeschäftsraumvertrag vor?
@@ -100,13 +97,6 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
  durch bestimmungswidrige Nutzung (nicht: normaler Prüfgebrauch, vgl. EuGH – "Messner").
 8. **Auskunft zu Kosten**: Ggf. Hinweis auf Schadensersatzpflicht bei schuldhafter Verletzung
  der Rückgabepflicht.
-
-## Ausgabeformat
-
-- **Prüfmemo** (Gutachtenstil): Belehrungsprüfung, Fristberechnung, Ergebnis
-- **Muster-Widerrufsbelehrung** (basierend auf Anlage 1 EGBGB) mit ausgefüllten Pflichtangaben
-- **Widerrufsschreiben** für Mandant (Urteilsstil, kurz und eindeutig)
-- **Abwehrschreiben** für Unternehmer (falls Widerruf zu Unrecht erklärt)
 
 ## Beispiel
 
@@ -150,3 +140,4 @@ Jede Aussage zur Belehrungspflicht, Fristberechnung und Rückabwicklung ist nach
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 dass Rechtsprechung insoweit nicht vorliegt.
+

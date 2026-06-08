@@ -5,10 +5,6 @@ description: "Analysiert die Einordnung von Plattformvermittlern und Agenturen d
 
 # Plattformvermittler als Handelsvertreter — § 84 HGB und P2B-Verordnung
 
-## Arbeitsbereich
-
-Analysiert die Einordnung von Plattformvermittlern und Agenturen digitaler Marktplätze als Handelsvertreter nach § 84 HGB: Dauerhaftigkeit der Beauftragung, Vollmacht, Provision und Ausgleich bei Vertragsbeendigung sowie regulatorische Anforderungen der P2B-Verordnung und des Digital Markets Act. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -66,10 +62,6 @@ Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländis
 - Digital Markets Act ignoriert — Compliance-Verstöße bei Gatekeeper-Plattform.
 - AGB-Kontrolle der Plattform-AGB versäumt — Klauseln nichtig.
 
-## Output
-
-Qualifikationsgutachten Plattform als Handelsvertreter, P2B-Compliance-Check, Ausgleichsberechnung.
-
 ## Hintergrund und Kontext
 
 Das deutsche Handelsvertreterrecht ist im fünften Buch des HGB in §§ 84 bis 92c geregelt.
@@ -89,3 +81,4 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 - [P2B-Verordnung auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R1150)
 - [DMA auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R1925)
 - [Dejure § 84 HGB](https://dejure.org/gesetze/HGB/84.html)
+

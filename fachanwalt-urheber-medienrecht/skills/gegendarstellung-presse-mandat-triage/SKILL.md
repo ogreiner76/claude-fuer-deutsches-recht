@@ -19,9 +19,6 @@ Als naechsten Schritt schlage ich vor: [...]
 
 Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
 
-## Arbeitsbereich
-
-**Gegendarstellung Presse Mandat Triage** ordnet den Fall über die tragenden Prüfungslinien: Gegendarstellungsrecht im Presserecht prüfen und, Urheber- und Medienrechtsmandat schnell einordnen und, Schriftsatzkern für urheber- und medienrechtliche Klagen. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
 ## Prüfungslinien
 
 | Prüfungslinie | Fokus |
@@ -37,6 +34,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
 ## Prüfungslinien im Detail
 
 ## 1. `gegendarstellung-presse`
@@ -346,9 +344,6 @@ Bevor der Gegendarstellungsanspruch geltend gemacht wird, klaere:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Routing-Matrix
 
 | Sachgebiet | Folge-Skill |
@@ -385,24 +380,6 @@ Schritt 4: Mandatsannahme-Pruefung
  → Streitwert schaetzen, Honorar vereinbaren
 
 Schritt 5: Routing zum Folge-Skill
-```
-
-## Output: Triage-Protokoll
-
-```
-TRIAGE-PROTOKOLL — URHEBER-/MEDIENRECHT
-
-Datum: [TT.MM.JJJJ]
-Mandant: [NAME, ROLLE]
-Sachgebiet: [BESCHREIBUNG]
-Verletzungsobjekt:[WERK/BILD/AEUSSERUNG]
-Gegner: [NAME, ADRESSE]
-Frist: [DATUM] — Art: [ABMAHNUNG/EV/GEGENDARSTELLUNG]
-Eilcharakter: [HEUTE / 48H / DIESE WOCHE / KEINE EILE]
-Folge-Skill: [SKILL-NAME]
-Streitwert: ca. [BETRAG] EUR
-Naechste Schritte:[MASSNAHME 1] bis [DATUM]
- [MASSNAHME 2] bis [DATUM]
 ```
 
 ## Eskalation
@@ -448,9 +425,6 @@ LPG § 11 BlnPrG / § 10 LPG NRW (Gegendarstellung) → §§ 935, 940 ZPO (Einst
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Aufbauschema Schriftsatz
 
 ### A. Rubrum
@@ -568,3 +542,4 @@ Anlage K2: MFM-Honorarempfehlungen
 - `urheber-abmahnung-pruefen` — vollstaendige Abmahnung-Pruefung
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — Lizenzverhandlung
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
+

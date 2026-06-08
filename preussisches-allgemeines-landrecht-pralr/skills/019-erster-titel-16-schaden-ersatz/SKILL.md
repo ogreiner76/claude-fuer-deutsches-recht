@@ -5,10 +5,6 @@ description: "PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr im Preuß
 
 # PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr
 
-## Aufgabe
-
-Dieser Skill bearbeitet **Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr** im Bereich **PrALR**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
 ## Kaltstart in 6 Fragen
 
 1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
@@ -57,10 +53,3 @@ Hier verbindet sich Schadensrecht (ALR I 6) mit Vertragsrecht (ALR I 11), Gefahr
 2. Verschuldensgrad nach ALR-Stufen (dolus bis casus).
 3. Heute BGB-§§ und ggf. UN-Kaufrecht.
 
-## Output
-
-- Memo
-- Checkliste
-- Mustertext
-- Fristenplan
-- Red-Team

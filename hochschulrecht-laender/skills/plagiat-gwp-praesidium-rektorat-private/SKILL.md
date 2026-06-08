@@ -5,10 +5,6 @@ description: "Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verf
 
 # Plagiat und GWP an Hochschulen
 
-## Arbeitsbereich
-
-Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Normenanker
 
 Arbeitsfokus: **Plagiat und GWP an Hochschulen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
@@ -23,7 +19,6 @@ Arbeitsfokus: **Plagiat und GWP an Hochschulen**. Prüfe diese Anker am Sachverh
 - `§ 28 Abs. 1 VwVfG` — Anhörung.
 - `§ 39 Abs. 1 VwVfG` — Begründung.
 - `§ 123 Abs. 1 VwGO` — Eilrechtsschutz im Konkurrenten-/Prüfungskontext.
-
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -87,3 +82,4 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 - **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
 - **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
 - **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
+

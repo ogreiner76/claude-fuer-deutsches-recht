@@ -5,10 +5,6 @@ description: "Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte
 
 # Doppelschutz Patent Gebrauchsmuster
 
-## Arbeitsbereich
-
-Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte, Abzweigung, Durchsetzung, Nichtigkeitsrisiko und Vergleichsstrategie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -20,10 +16,6 @@ Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte, Abzweigung, 
 ## Wann dieser Skill hilft
 
 Patent und Gebrauchsmuster laufen nebeneinander.
-
-## Arbeitsweise
-
-Nutze das Gebrauchsmuster als taktisches Instrument, ohne Patentstrategie zu beschädigen.
 
 ## Prüfpunkte
 
@@ -59,13 +51,10 @@ Nutze das Gebrauchsmuster als taktisches Instrument, ohne Patentstrategie zu bes
 - USA: kein gleichwertiges Utility Model (provisional patent kein Aequivalent).
 - China: Utility Model parallel zum Patent ueblich.
 
-## Output
-
-Doppelschutz-Plan.
-
 ## Quellen-Hardening
 
 - Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+

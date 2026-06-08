@@ -5,10 +5,6 @@ description: "Pressetext zu Rechtsthemen: Schreibanleitung für Verlagspressemit
 
 # Pressetext zu Rechtsthema
 
-## Arbeitsbereich
-
-Pressetext zu Rechtsthemen: Schreibanleitung für Verlagspressemitteilung zu neuem Buch oder neuer Entscheidung. Mustertexte für Fachpresse und allgemeine Medien mit Sperrfrist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -152,14 +148,6 @@ Pressekontakt
 - O-Ton ohne Freigabe des Autors verschickt.
 - Sperrfrist gesetzt, aber an einzelne Medien zu frueh - Vertrauensbruch.
 
-## Querverweise
-
-- `workflow-kaltstart-und-routing` - Einordnung des PR-Anlasses.
-- `marketing-presse-social` - Marketing-Gesamtkonzept.
-- `verl-social-media-rechtsfachzeitschrift` - parallele Social-Media-Verwertung.
-- `metadaten-seo-klappentext` - Konsistenz Klappentext/PM.
-- `verl-impressum-pflicht-und-pruefung` - Impressum auf der PM.
-
 ## Quellen Stand 06/2026
 
 - DDG § 5 - Impressumspflicht für Pressemitteilungen mit eigener Domain.
@@ -168,3 +156,4 @@ Pressekontakt
 - Buchpreisbindungsgesetz - Preisangabe.
 - UWG §§ 5, 5a - Irrefuehrungsverbot.
 - Pressekodex des Deutschen Presserats (presserat.de), aktuelle Fassung.
+

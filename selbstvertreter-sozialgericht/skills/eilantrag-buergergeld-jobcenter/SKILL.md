@@ -154,14 +154,7 @@ Das SG hat einen Eilantragsdezernenten. Anruf ist erlaubt. Sagen Sie: "Mein Eila
 - Schon laenger Geld weg, jetzt erst Eilantrag → "akute Bedrohung" schwerer zu argumentieren
 - Nur Widerspruch, keinen Eilantrag → das Widerspruchsverfahren dauert zu lange
 
-## Querverweise
-
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
-- `eilantrag-86b-sgg-grundlagen` — Grundlagen
-- `eilantrag-erfolgsaussichten-checkliste` — Chancen pruefen
-- `buergergeld-jobcenter-sgb-ii` — Buergergeld-Recht
-- `pkh-vor-sozialgericht-73a-sgg` — Prozesskostenhilfe
-
 ## Quellen und Aktualitaet
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+

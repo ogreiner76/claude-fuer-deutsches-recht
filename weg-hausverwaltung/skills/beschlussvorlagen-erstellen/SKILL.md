@@ -75,14 +75,6 @@ Aus einem Verwaltungsthema wird ein klarer Beschlussantrag, der nicht zu viel un
 
 > Die Wohnungseigentümer beschließen, den Anspruch auf Ersatz des Schadens [Sachverhalt] gegenüber der GdWE geltend zu machen; die Verwaltung wird beauftragt, etwaige Regressansprüche der GdWE gegenüber dem (vormaligen) Verwalter zu prüfen und ggf. geltend zu machen.
 
-## Output
-
-- Beschlussvorlage kurz (für TOP-Block)
-- Beschlussvorlage ausführlich (mit Begründung)
-- Begründungstext für Einladung
-- Risikoampel (Kompetenz, Bestimmtheit, Kostenfolge, Vorbefassung)
-- Anlagenliste
-
 ## Cross-Refs
 
 - Vorbefassung / Anfechtung → `beschlussanfechtung-risiko`
@@ -94,10 +86,3 @@ Aus einem Verwaltungsthema wird ein klarer Beschlussantrag, der nicht zu viel un
 
 `rechtsstand-mai-2026-faktenbank` laden. Rechtsprechungsaussagen nur mit offen prüfbarer Quelle.
 
-## Qualitäts-Hardening
-
-- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
-- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
-- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

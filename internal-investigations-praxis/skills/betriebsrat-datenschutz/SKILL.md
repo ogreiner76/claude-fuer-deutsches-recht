@@ -5,10 +5,6 @@ description: "Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investig
 
 # Betriebsrat und Mitbestimmung in Internal Investigations
 
-## Arbeitsbereich
-
-Klärt Mitbestimmungsrechte des Betriebsrats bei Internal Investigations – Überwachung, Interviews, Datenzugriffe, Sanktionen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -91,3 +87,4 @@ Dieser Skill stellt sicher, dass der Betriebsrat rechtzeitig, vollständig und i
 - **Checkliste** Betriebsratsbeteiligung für jede Untersuchungsphase
 
 Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+

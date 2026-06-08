@@ -5,10 +5,6 @@ description: "Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe
 
 # Spezial: Urheberrecht – Zahlen, Schwellen und Berechnung
 
-## Arbeitsbereich
-
-Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -135,3 +131,4 @@ Mandatsbezug: Mandant fragt: Wie viel Schadensersatz kann ich verlangen? Oder: F
 - `spezial-klausel-beweislast-und-darlegungslast` – Beweislast Urheberrecht
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand Urheberrecht
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
+

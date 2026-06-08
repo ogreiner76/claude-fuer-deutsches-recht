@@ -5,10 +5,6 @@ description: "Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittpar
 
 # DORA Finanzsektor Abgrenzung
 
-## Arbeitsbereich
-
-Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittparteien ab. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -62,3 +58,4 @@ Erzeuge bevorzugt: Regulatory-Routing-Note. Wenn der Nutzer nur eine Kurzantwort
 ## Qualitätsfilter
 
 Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht ergänzt, Gegenargument genannt, Umsetzungsfolge klar, kein blindes Zitat, keine Scheinsicherheit.
+

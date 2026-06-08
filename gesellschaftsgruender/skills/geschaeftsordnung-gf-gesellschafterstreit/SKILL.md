@@ -5,10 +5,6 @@ description: "Geschäftsordnung für GmbH-Geschäftsführung entwerfen: Ressortz
 
 # Geschäftsordnung Geschäftsführung
 
-## Arbeitsbereich
-
-Geschäftsordnung für GmbH-Geschäftsführung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Prüfraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschäftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -48,9 +44,6 @@ Klaere vor Erstellung der Geschaeftsordnung:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Prüfschema: Geschaeftsordnung-Qualitaet
 
 | Schritt | Pruefpunkt | Norm | Ergebnis |
@@ -146,3 +139,4 @@ Mehrheit (§ 46 Nr. 6 GmbHG).
 - `gesellschaftsgruender-geschaeftsfuehrervertrag` — Anstellungsvertrag; Ressortbezug
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — Gesellschafterversammlung
 - `gesellschaftsgruender-beirat-advisory-board` — Koordination mit Beiratsbefugnissen
+

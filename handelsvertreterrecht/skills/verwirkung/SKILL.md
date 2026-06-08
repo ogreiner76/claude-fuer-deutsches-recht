@@ -65,10 +65,6 @@ BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt.
 - Ausschlussfrist nach § 89b Abs. 4 HGB und Verwirkung nicht sauber getrennt.
 - Keine rechtzeitige Geltendmachung der Provisionsansprüche — Verwirkung eingetreten.
 
-## Output
-
-Verwirkungs-Analyse, Geltendmachungsschreiben, Klageschrift zur Fristwahrung.
-
 ## Hintergrund und Kontext
 
 Das Handelsvertreterrecht steht im fünften Buch des HGB (§§ 84 bis 92c).
@@ -89,3 +85,4 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 - [§ 89b HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__89b.html)
 - [BGH auf bgh.de](https://www.bgh.de/entscheidungen/entscheidungen-online)
 - [Dejure § 242 BGB](https://dejure.org/gesetze/BGB/242.html)
+

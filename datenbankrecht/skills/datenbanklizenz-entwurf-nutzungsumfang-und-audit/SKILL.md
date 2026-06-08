@@ -5,10 +5,6 @@ description: "Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG:
 
 # Datenbanklizenz: Entwurf, Nutzungsumfang und Audit-Klauseln
 
-## Arbeitsbereich
-
-Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), Audit-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wirksamkeit nach § 307 BGB und erstellt lizenzrechts­konforme Vertragsklauseln für SaaS- und Datenprovider. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -59,14 +55,6 @@ Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition de
 - Sublizenzierungsverbote müssen auch verbundene Unternehmen explizit erfassen, sonst entstehen Lücken.
 - Datenlöschungspflicht nach Vertragsende kollidiert mit gesetzlichen Aufbewahrungspflichten des Lizenznehmers (HGB, AO) — Regelung nötig.
 
-## Output
-
-- Datenbanklizenz-Vertragsvorlage mit kommentierten Klauseln
-- Nutzungsumfang-Matrix (erlaubt/verboten nach Handlungstyp)
-- Audit-Klausel-Muster mit Verhältnismäßigkeitssicherung
-- AGB-Wirksamkeits-Checkliste (§ 307 BGB)
-- Datenlöschungsprotokoll für Vertragsende
-
 ## Quellen
 
 - [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
@@ -75,3 +63,4 @@ Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition de
 - [§ 31 UrhG Nutzungsrechte — dejure.org](https://dejure.org/gesetze/UrhG/31.html)
 - [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
 - [Art. 8 RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
+

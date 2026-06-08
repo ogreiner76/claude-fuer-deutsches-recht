@@ -5,10 +5,6 @@ description: "Sammelt nur verifizierte Rechtsprechung und amtliche Quellen für 
 
 # Rechtsprechungs- und Quellenlivecheck
 
-## Arbeitsbereich
-
-Sammelt nur verifizierte Rechtsprechung und amtliche Quellen für Urheberrecht, EU-Recht, Software, Musik und KI. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -86,3 +82,4 @@ Konkret zu prüfen:
 - §§ 15-24 UrhG (Verwertungsrechte)
 - § 97 UrhG (Unterlassung, Schadensersatz)
 - RL (EU) 2019/790 (DSM-RL)
+

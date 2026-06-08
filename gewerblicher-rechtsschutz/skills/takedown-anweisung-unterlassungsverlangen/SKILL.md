@@ -5,10 +5,6 @@ description: "Rechteinhaber findet urheberrechtsverletzende Inhalte online oder 
 
 # Notice-and-Take-Down / Meldeverfahren
 
-## Arbeitsbereich
-
-Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -16,18 +12,6 @@ Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Diese Skill deckt drei Handlungsmodi ab:
-
-- `--senden` — Meldung an einen Hostprovider nach §§ 7 ff. TMG/DDG (Notice-and-Take-Down) sowie ggf. DSA Art. 16 formulieren
-- `--reagieren` — eingegangene Meldung triagieren: Entfernen / Gegenvorstellung / Verhandeln / Ignorieren
-- `--gegenvorstellung` — Gegenvorstellung an die Plattform nach eigenem gutem Glauben formulieren
-
-Kein Modus sendet automatisch. Die Skill entwirft; der Rechtsanwalt prüft und versendet.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ## Eingaben
 
@@ -301,14 +285,6 @@ Bei DSA-Plattformen: Beschwerdemechanismus nach Art. 20 DSA nutzen; ggf. außerg
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## Ausgabeformat
-
-- `--senden`: Meldungsentwurf (Klartext, zum Einreichen über plattformeigenen Meldepfad oder per E-Mail an Diensteanbieter). Im Chat zur Überprüfung zeigen, bevor auf Disk gespeichert.
-- `--reagieren`: Triagierungsvermerk mit Arbeitsergebnis-Kopfzeile; privilegiert und vertraulich.
-- `--gegenvorstellung`: Gegenvorstellungsentwurf (Klartext). Im Chat zur Überprüfung zeigen.
-
-Abschlusssatz (in-Chat-Vorschau): *"Dies ist ein Entwurf zur anwaltlichen Prüfung, kein versandfertiges Schreiben. Ein Rechtsanwalt prüft, bearbeitet und übernimmt fachliche Verantwortung vor dem Versand."*
-
 ## Beispiel
 
 **Eingabe:** `/gewerblicher-rechtsschutz:takedown-anweisung --senden` — Fotograf meldet unerlaubte Nutzung seines Fotos auf einer Nachrichtenwebsite.
@@ -368,3 +344,4 @@ Bevor der Takedown ausgeloest wird, klaere:
 <!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 -->
+

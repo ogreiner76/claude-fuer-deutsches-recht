@@ -5,10 +5,6 @@ description: "Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber d
 
 # Kontensuche und Drittschuldnerermittlung
 
-## Arbeitsbereich
-
-Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermögensauskunft-gv (Gläubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
@@ -36,13 +32,6 @@ Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners.
 - § 882b ZPO — Schuldnerverzeichnis
 - § 93 Abs. 7 AO — Kontenabrufverfahren BZSt
 - § 24c KWG — Kontenevidenzzentrale BaFin/BZSt
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Aufgabe
-
-Bevor eine Forderungspfändung Sinn ergibt, muss der Drittschuldner bekannt sein. Dieser Skill beschafft die Daten, ohne unnötige PfÜB ins Leere zu werfen.
 
 ## Startet bei
 
@@ -83,21 +72,6 @@ Bevor eine Forderungspfändung Sinn ergibt, muss der Drittschuldner bekannt sein
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Ausgabeformat
-
-```
-DRITTSCHULDNERSUCHE [Mandant] gegen [Schuldner]
-
-Titel: [Art, Datum]
-Forderungshöhe: EUR x (≥ 500 EUR? ja/nein)
-VA-Stand: [vorhanden, Datum / fehlt / unergiebig]
-Beantragte Auskünfte: [DRV / BZSt / KBA]
-Geschätzte Dauer: 4-8 Wochen ab GV-Antrag
-Folgeskill: [zv-pfueb-bank / -arbeitsentgelt / ...]
-
-WIEDERVORLAGE: DD.MM.JJJJ
-```
-
 ## Qualitätsgates
 
 - Niemals § 802l ZPO unterhalb der Bagatellgrenze 500 EUR beantragen.
@@ -111,9 +85,3 @@ Ersatz : BGH, Beschl. v. 22.01.2015 – I ZB 77/14, NJW 2015, 2509 (§ 802l ZPO,
 Aktion : Zeile ersetzt
 -->
 
-## Querverweise
-
-- `zv-vermoegensauskunft-gv` – Hauptquelle vor § 802l
-- `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`
-- `zv-kommandocenter`
-- `zv-elektronische-zustellung-2027`
