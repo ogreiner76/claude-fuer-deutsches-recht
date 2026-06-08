@@ -19,7 +19,7 @@ Das Grundrecht darf durch oder aufgrund eines Gesetzes eingeschraenkt werden, oh
 ### Qualifizierter Gesetzesvorbehalt
 Das Grundrecht darf nur fuer die in der Schranke ausdruecklich genannten Zwecke eingeschraenkt werden.
 - Art 8 II GG (Versammlungen unter freiem Himmel)
-- Art 10 II GG (Brief-, Post- und Fernmeldegeheimnis nur unter qualifizierten Voraussetzungen, vgl BVerfGE 100, 313 G10-Gesetz)
+- Art 10 II GG (Brief-, Post- und Fernmeldegeheimnis nur unter qualifizierten Voraussetzungen, vgl BVerfGE 100, 313 (G10-Gesetz))
 - Art 11 II GG (Freizuegigkeit nur fuer Bestand des Bundes oder eines Landes, Bekaempfung Seuchengefahr usw.)
 - Art 13 III bis VII GG (Wohnung; sehr fein abgestufte Eingriffsstufen)
 

@@ -1,6 +1,6 @@
 ---
 name: bverfg-uebermassverbot-dogmatiklinie
-description: "Übermaßverbot als BVerfG-Dogmatiklinie von Berufsfreiheit über Sicherheitsrecht bis Klima: vier Stufen, Kontrolldichte, Einschätzungsprärogative und absolute Grenzen ohne rechtsgeschichtliche Abschweifung."
+description: "Uebermassverbot als BVerfG-Dogmatiklinie von Berufsfreiheit ueber Sicherheitsrecht bis Klima: vier Stufen, Kontrolldichte, Einschaetzungspraerogative und absolute Grenzen ohne rechtsgeschichtliche Abschweifung."
 ---
 
 # Übermaßverbot als BVerfG-Dogmatiklinie

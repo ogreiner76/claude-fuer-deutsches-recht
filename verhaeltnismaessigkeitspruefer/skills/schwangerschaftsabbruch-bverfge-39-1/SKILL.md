@@ -1,6 +1,6 @@
 ---
 name: schwangerschaftsabbruch-bverfge-39-1
-description: "BVerfGE 39 Band 39 Seite 1 vom 25.02.1975 als Schutzpflicht- und Untermaß-Leitentscheidung: wann der Staat nicht nur Eingriffe begrenzen, sondern Grundrechte durch hinreichenden Schutz wirksam sichern muss."
+description: "BVerfGE Band 39 Seite 1 vom 25.02.1975 als Schutzpflicht- und Untermass-Leitentscheidung: wann der Staat nicht nur Eingriffe begrenzen, sondern Grundrechte durch hinreichenden Schutz wirksam sichern muss."
 ---
 
 # Schwangerschaftsabbruch BVerfGE 39, 1: Schutzpflicht und Untermaß

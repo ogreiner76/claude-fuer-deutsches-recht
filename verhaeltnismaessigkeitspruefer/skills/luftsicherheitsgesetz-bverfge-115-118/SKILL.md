@@ -1,6 +1,6 @@
 ---
 name: luftsicherheitsgesetz-bverfge-115-118
-description: Luftsicherheitsgesetz-Urteil BVerfGE 115 Band 115 Seite 118 vom 15.02.2006 als Lehrstueck fuer absolute Grenzen der Verhaeltnismaessigkeit Menschenwuerde unverfuegbar. Mit Sachverhalt Abschuss-Ermaechtigung und der Aussage dass Menschenleben gegen Menschenleben nicht abgewaegt werden darf.
+description: Luftsicherheitsgesetz-Urteil BVerfGE Band 115 Seite 118 vom 15.02.2006 als Lehrstueck fuer absolute Grenzen der Verhaeltnismaessigkeit Menschenwuerde unverfuegbar. Mit Sachverhalt Abschuss-Ermaechtigung und der Aussage dass Menschenleben gegen Menschenleben nicht abgewaegt werden darf.
 ---
 
 ## Sachverhalt

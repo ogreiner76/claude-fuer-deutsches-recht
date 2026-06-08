@@ -1,3 +1,28 @@
+# v240.0.0 — Audit-Befunde aus 15-Bug-Sweep umgesetzt
+
+## Schwerpunkt
+
+Reine Pflege- und Konsistenzversion nach dem v239-Release. Alle 15 Befunde aus dem internen Audit wurden abgearbeitet, ohne dass sich Skill-Inhalte oder Plugin-Strukturen aendern. Counts und Stand-Angaben sind durchgaengig auf 212 Plugins / 18.549 Skills / 203 Testakten konsolidiert.
+
+## Aenderungen im Einzelnen
+
+- **YAML-Description-Cleanup** in 14 Verhaeltnismaessigkeitspruefer-Skills: Doppel-Bandzahl entfernt (`BVerfGE 7 Band 7 Seite 198` -> `BVerfGE Band 7 Seite 198`), Umlaute/ss in YAML-descriptions vereinheitlicht zu ASCII (ae/oe/ue/ss). Body-Texte unveraendert.
+- **Plugin-README** `verhaeltnismaessigkeitspruefer/README.md` auf alle 44 Skills mit sieben Gruppen ausgebaut (Methodik 8, Vor-Trias plus Schranken 4, absolute Grenzen 3, Kontrolldichte 5, BVerfG-Leitentscheidungen 10, Rechtsvergleich 3, Dogmatiklinien 4, Praxis 7) und Plugin-Titel mit ss-Schreibung auf ss-Schreibung umgestellt.
+- **marketplace.json** description fuer `verhaeltnismaessigkeitspruefer` mit der plugin.json-Description synchronisiert (jetzt 44 Skills statt vorher noch 31). plugin.json fuer `status-navigator-step-plan` um "mit 35 Skills" ergaenzt, damit marketplace und plugin uebereinstimmen.
+- **TESTBERICHT.md** Arbeitsstand-Beschreibung auf v239 aktualisiert (alter LausitzStorage-Text raus), Skill-Count von 18.536 auf 18.549 korrigiert.
+- **README.md** Skill-Count auf 18.549, Plugin-Tabellen-Description fuer `verhaeltnismaessigkeitspruefer` um v239-Themen erweitert.
+- **Padlet-Skill** `padlet-vier-stufen-tafel/SKILL.md` description-Style an die uebrigen 43 Skills im Plugin angeglichen (keine Quotes mehr, Doppelpunkt vor Beispielen vermieden, damit YAML-Plain-Scalar-Regel eingehalten wird).
+- **BVerfG-Schlagwort-Feintuning** in drei Body-Stellen ohne Klammer-Schlagwort: `untermassverbot-schutzpflicht-dimension` (Lueth-Urteil), `vorpruefung-schranke-finden` (G10-Gesetz), `absolute-grenze-menschenwuerde-art-1-i-gg` (Schubhaft).
+- **audiovisuelle-leitentscheidungen-sammlung** mit Permalink-Disziplin: Permalinks zu BVerfG-Pressemitteilungen fuer Klimaschutz-Beschluss und Bundesnotbremse-Beschluss eingefuegt, aeltere Leitentscheidungen ohne audiovisuelles Material explizit als ohne Mediathek-Permalink gekennzeichnet.
+- **schutzbereich-eingriff-rechtfertigung/SKILL.md** mit Cross-Reference auf die drei Vor-Trias-Skills (`vorpruefung-schutzbereich-eroeffnet`, `vorpruefung-eingriff-klassisch-modern`, `vorpruefung-schranke-finden`) versehen, damit Detailtiefe und Gesamtschau klar zugeordnet sind.
+- **Versions-Bump** 239 -> 240 in 212 plugin.json + marketplace.json + 5 Top-Dokumenten (README, TESTBERICHT, ASSET_INDEX, SKILLS, CHANGELOG) und 212 skills-index-Detailseiten.
+
+## Validatoren
+
+- `validate-yaml-frontmatter`: 0 Fehler, 0 Warnungen
+- `validate-plugin-structure`: OK
+- `validate-testakten-gesamt-pdf`: OK (203 Testakten)
+
 # v239.0.0 — Verhaeltnismaessigkeitspruefer-Politur: 14 neue Stufen- und Schranken-Skills, Padlet-Skill arbeitet wieder, Clip-Club ersetzt
 
 ## Schwerpunkt

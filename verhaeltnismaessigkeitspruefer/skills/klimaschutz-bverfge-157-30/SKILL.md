@@ -1,6 +1,6 @@
 ---
 name: klimaschutz-bverfge-157-30
-description: Klimaschutz-Beschluss BVerfGE 157 Band 157 Seite 30 vom 24.03.2021 als intertemporale Freiheitssicherung und Schutzpflicht aus Art 20a GG fuer kuenftige Generationen. Mit Bedeutung fuer Verhaeltnismaessigkeit langfristiger Eingriffe und Schutzpflichtdimension der Grundrechte.
+description: Klimaschutz-Beschluss BVerfGE Band 157 Seite 30 vom 24.03.2021 als intertemporale Freiheitssicherung und Schutzpflicht aus Art 20a GG fuer kuenftige Generationen. Mit Bedeutung fuer Verhaeltnismaessigkeit langfristiger Eingriffe und Schutzpflichtdimension der Grundrechte.
 ---
 
 ## Sachverhalt

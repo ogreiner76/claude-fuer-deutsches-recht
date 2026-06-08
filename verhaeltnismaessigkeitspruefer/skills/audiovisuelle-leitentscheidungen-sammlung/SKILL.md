@@ -38,32 +38,34 @@ Die Verhaeltnismaessigkeitsdogmatik ist nicht nur Lesestoff. Verkuendungstermine
 
 ## Empfohlene Kernsammlung
 
+> **Permalink-Disziplin:** Eintraege ab 2018 sind in der BVerfG-Mediathek mit zitierfaehigem Permalink hinterlegt. Aeltere Leitentscheidungen (1958 bis ca. 2010) liegen nur als Print-Quelle, Hoerfunk-Mitschnitt in Rundfunkarchiven oder als Sekundaerquelle vor. Sie werden in der Kernsammlung weiterhin gefuehrt, aber ausdruecklich als ohne Mediathek-Permalink gekennzeichnet.
+
 ### Apotheken-Urteil 1958 (BVerfGE 7, 377)
-Verlesung der Drei-Stufen-Lehre durch den Vorsitzenden des Ersten Senats. Stufe: Geeignetheit und Erforderlichkeit bei Berufsregelungen. Folge: dogmatisches Fundament fuer Art. 12 I GG.
+Kein audiovisuelles Material im engeren Sinn. Hoerfunk-Verlesung der Drei-Stufen-Lehre durch den Vorsitzenden des Ersten Senats, soweit ueberliefert nur in Rundfunkarchiven. Stufe: Geeignetheit und Erforderlichkeit bei Berufsregelungen. Folge: dogmatisches Fundament fuer Art. 12 I GG. Permalink: nicht vorhanden, Verweis auf Print-Quelle BVerfGE 7, 377.
 
 ### Lueth-Urteil 1958 (BVerfGE 7, 198)
-Hoerfunk-Mitschnitte der mittelbaren Drittwirkung. Stufe: praktische Konkordanz und Schranken-Trias bei Art. 5 I GG. Folge: objektive Wertordnung der Grundrechte.
+Hoerfunk-Mitschnitte der mittelbaren Drittwirkung, nur Rundfunkarchive. Stufe: praktische Konkordanz und Schranken-Trias bei Art. 5 I GG. Folge: objektive Wertordnung der Grundrechte. Permalink: nicht vorhanden, Verweis auf Print-Quelle BVerfGE 7, 198.
 
 ### Volkszaehlung 1983 (BVerfGE 65, 1)
-Verkuendung des Rechts auf informationelle Selbstbestimmung. Stufe: Bestimmtheit und Verhaeltnismaessigkeit von Eingriffsgesetzen. Folge: kein belangloses Datum mehr.
+Verkuendung des Rechts auf informationelle Selbstbestimmung. Stufe: Bestimmtheit und Verhaeltnismaessigkeit von Eingriffsgesetzen. Folge: kein belangloses Datum mehr. Permalink: kein Mediathek-Permalink, Verweis auf Print-Quelle BVerfGE 65, 1.
 
 ### Kruzifix-Beschluss 1995 (BVerfGE 93, 1)
-Pressekonferenz zur negativen Glaubensfreiheit. Stufe: praktische Konkordanz Art. 4 I, II GG vs. Art. 6 II GG. Folge: staatliche Neutralitaetspflicht.
+Pressekonferenz zur negativen Glaubensfreiheit. Stufe: praktische Konkordanz Art. 4 I, II GG vs. Art. 6 II GG. Folge: staatliche Neutralitaetspflicht. Permalink: kein Mediathek-Permalink, Verweis auf Print-Quelle BVerfGE 93, 1.
 
 ### Luftsicherheitsgesetz 2006 (BVerfGE 115, 118)
-Verkuendung zur Menschenwuerde als absolute Grenze. Stufe: Art. 1 I GG als unueberwindbare Schranke. Folge: Abschussbefugnis unteilbar nichtig.
+Verkuendung zur Menschenwuerde als absolute Grenze. Stufe: Art. 1 I GG als unueberwindbare Schranke. Folge: Abschussbefugnis unteilbar nichtig. Permalink: kein Mediathek-Permalink, Verweis auf Print-Quelle BVerfGE 115, 118.
 
 ### Online-Durchsuchung 2008 (BVerfGE 120, 274)
-Verkuendung des Grundrechts auf Gewaehrleistung der Vertraulichkeit und Integritaet informationstechnischer Systeme. Stufe: Schutzbereichseroeffnung und Bestimmtheit.
+Verkuendung des Grundrechts auf Gewaehrleistung der Vertraulichkeit und Integritaet informationstechnischer Systeme. Stufe: Schutzbereichseroeffnung und Bestimmtheit. Permalink: kein Mediathek-Permalink, Verweis auf Print-Quelle BVerfGE 120, 274.
 
 ### Hartz-IV-Urteil 2010 (BVerfGE 125, 175)
-Verkuendung des Grundrechts auf Gewaehrleistung eines menschenwuerdigen Existenzminimums. Stufe: absolute Untergrenze und Untermassverbot.
+Verkuendung des Grundrechts auf Gewaehrleistung eines menschenwuerdigen Existenzminimums. Stufe: absolute Untergrenze und Untermassverbot. Permalink: kein Mediathek-Permalink, Verweis auf Print-Quelle BVerfGE 125, 175.
 
 ### Klimaschutz-Beschluss 2021 (BVerfGE 157, 30)
-Pressekonferenz Stephan Harbarth zur intertemporalen Freiheitssicherung. Stufe: Angemessenheit mit Zukunftsdimension. Folge: Schutzpflicht aus Art. 20a GG i.V.m. Art. 2 II GG.
+Pressekonferenz Stephan Harbarth zur intertemporalen Freiheitssicherung, Beschluss vom 24.03.2021, Az. 1 BvR 2656/18 u.a. Stufe: Angemessenheit mit Zukunftsdimension. Folge: Schutzpflicht aus Art. 20a GG i.V.m. Art. 2 II GG. Permalink: `https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2021/bvg21-031.html` (Pressemitteilung mit Hinweis auf audiovisuelles Material).
 
 ### Bundesnotbremse 2021 (BVerfGE 159, 223)
-Verkuendung zum Einschaetzungs- und Beurteilungsspielraum des Gesetzgebers bei dynamischer Wissenslage. Stufe: Geeignetheit und Kontrolldichte.
+Verkuendung zum Einschaetzungs- und Beurteilungsspielraum des Gesetzgebers bei dynamischer Wissenslage, Beschluss vom 19.11.2021, Az. 1 BvR 781/21 u.a. Stufe: Geeignetheit und Kontrolldichte. Permalink: `https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2021/bvg21-101.html` (Pressemitteilung mit Hinweis auf audiovisuelles Material).
 
 ## Begleittext pro Clip
 

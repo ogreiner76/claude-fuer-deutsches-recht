@@ -1,6 +1,6 @@
 ---
 name: mitbestimmung-bverfge-50-290
-description: Mitbestimmungs-Urteil BVerfGE 50 Band 50 Seite 290 vom 01.03.1979 als Lehrstueck fuer Einschaetzungspraerogative des Gesetzgebers und intensive Pruefungsdichte bei Eigentum und Berufsfreiheit. Mit Sachverhalt MitbestG 1976 und Kontrolldichte.
+description: Mitbestimmungs-Urteil BVerfGE Band 50 Seite 290 vom 01.03.1979 als Lehrstueck fuer Einschaetzungspraerogative des Gesetzgebers und intensive Pruefungsdichte bei Eigentum und Berufsfreiheit. Mit Sachverhalt MitbestG 1976 und Kontrolldichte.
 ---
 
 ## Sachverhalt

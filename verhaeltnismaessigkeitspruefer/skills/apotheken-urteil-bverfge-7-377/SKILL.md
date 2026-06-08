@@ -1,6 +1,6 @@
 ---
 name: apotheken-urteil-bverfge-7-377
-description: Apotheken-Urteil BVerfGE 7 Band 7 Seite 377 vom 11.06.1958 als Geburtsstunde der Drei-Stufen-Lehre der Berufsfreiheit Art 12 GG. Mit Sachverhalt Stufen-Lehre Berufsausuebung subjektive und objektive Berufswahl und Hinweisen wann welche Stufe greift.
+description: Apotheken-Urteil BVerfGE Band 7 Seite 377 vom 11.06.1958 als Geburtsstunde der Drei-Stufen-Lehre der Berufsfreiheit Art 12 GG. Mit Sachverhalt Stufen-Lehre Berufsausuebung subjektive und objektive Berufswahl und Hinweisen wann welche Stufe greift.
 ---
 
 ## Sachverhalt

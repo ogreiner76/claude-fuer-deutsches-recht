@@ -25,7 +25,7 @@ Eine Verletzung liegt vor, wenn der Mensch zum **blossen Objekt** staatlichen Ha
 
 | Konstellation | BVerfG mit Schlagwort | Rechtsfolge |
 | --- | --- | --- |
-| Folter, erniedrigende Behandlung | BVerfGE 1, 332; staendige Rspr | Absolutes Verbot |
+| Folter, erniedrigende Behandlung | BVerfGE 1, 332 (Schubhaft) und staendige Rspr | Absolutes Verbot |
 | Aufopferung Unbeteiligter | BVerfGE 115, 118 (Luftsicherheitsgesetz) | Abschuss-Ermaechtigung verfassungswidrig |
 | Lebenslange Freiheitsstrafe | BVerfGE 45, 187 (Lebenslange Freiheitsstrafe) | Nur mit realer Aussicht auf Wiedererlangung der Freiheit |
 | Existenzminimum | BVerfGE 125, 175 (Hartz IV); BVerfGE 132, 134 (Asylbewerberleistungen) | Sozialleistungen muessen menschenwuerdiges Existenzminimum sichern |

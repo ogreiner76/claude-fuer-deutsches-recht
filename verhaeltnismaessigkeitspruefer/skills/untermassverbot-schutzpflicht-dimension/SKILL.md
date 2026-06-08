@@ -9,7 +9,7 @@ description: "Untermassverbot als Spiegelbild des Uebermassverbots. Grundrechte 
 
 ## Dogmatische Bruecke
 
-- Grundrechte haben eine **objektiv-rechtliche** Dimension (BVerfGE 7, 198 Lueth-Urteil).
+- Grundrechte haben eine **objektiv-rechtliche** Dimension (BVerfGE 7, 198 (Lueth-Urteil)).
 - Daraus folgen **Schutzpflichten** gegenueber dem Buerger vor Beeintraechtigungen durch Dritte.
 - Der Gesetzgeber hat einen Einschaetzungs- und Gestaltungsspielraum, aber er darf den **erforderlichen Mindestschutz** nicht unterlaufen.
 

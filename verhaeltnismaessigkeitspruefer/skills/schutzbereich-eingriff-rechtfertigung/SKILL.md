@@ -42,3 +42,13 @@ c) Anwendung im Einzelfall verfassungsmaessig (Verfassung als Auslegungsdirektiv
 Erst wenn Schutzbereich roehrt, Eingriff vorliegt und Schranke existiert,
 wird verhaeltnismaessig gepruet. Bei Wesensgehalt Art 19 II GG bricht
 die Pruefung ab.
+
+## Hinweis: Detailtiefe in den Vor-Trias-Skills
+
+Dieser Skill ist die kompakte Gesamtschau. Fuer die einzelnen Pruefungspunkte mit ausfuehrlicher Dogmatik, Beispielen und Pruefschemata verweisen wir auf die spezialisierten Skills:
+
+- `vorpruefung-schutzbereich-eroeffnet` — Schutzbereich, sachlich und persoenlich.
+- `vorpruefung-eingriff-klassisch-modern` — klassischer und moderner Eingriffsbegriff inklusive faktischer Beeintraechtigung.
+- `vorpruefung-schranke-finden` — Schrankenkatalog, einfacher und qualifizierter Vorbehalt, verfassungsimmanente Schranken.
+
+Wer das Pruefungsschema unterrichten oder eine Klausurloesung gliedern moechte, nutzt zuerst die drei Vor-Trias-Skills und greift fuer die Gesamtschau auf diesen Skill zurueck.
