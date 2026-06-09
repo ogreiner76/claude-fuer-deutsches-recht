@@ -2,7 +2,7 @@
 
 **Aktenzeichen:** (intern) WPh-USA-2026/03; Referenz OFAC/SDN/IRN-2026-00448
 **Erstellt:** 02. April 2026
-**Bearbeitung:** RAin Dr. Carola Boekenkamp; Koordination: Hogan Lovells LLP, Washington D.C. (Ansprechpartner: Partner J. Trevor Blackwood, Esq.)
+**Bearbeitung:** RAin Dr. Carola Boekenkamp; Koordination: Brösel Holzapfel & Partner LLP, Washington D.C. (Ansprechpartner: Partner J. Trevor Blackwood, Esq.)
 **Mandantin:** Werkmann Anlagentechnik AG (Muttergesellschaft) / Werkmann Pharma Inc. (Boston, MA — unmittelbar betroffene US-Einheit)
 
 ---
@@ -39,7 +39,7 @@ Eine SDN-Listung (Specially Designated Nationals and Blocked Persons List) der W
 - Drittstaaten-Unternehmen mit US-Dollargeschäften sind faktisch gezwungen, die Geschäftsbeziehung zu beenden (Correspondent-Banking-Risiko).
 - Kreditlinien bei US-affiliierten Banken (z.B. Deutsche Bank AG mit US-Niederlassung) wären unmittelbar gefährdet.
 
-Die Likelihood einer formellen SDN-Listung wird von Hogan Lovells derzeit als „low to moderate" eingestuft, sofern WPh kooperativ und vollständig antwortet und keine weiteren Iran-bezogenen Transaktionen ans Licht kommen.
+Die Likelihood einer formellen SDN-Listung wird von Brösel Holzapfel & Partner derzeit als „low to moderate" eingestuft, sofern WPh kooperativ und vollständig antwortet und keine weiteren Iran-bezogenen Transaktionen ans Licht kommen.
 
 ---
 
@@ -62,7 +62,7 @@ Der LabVIEW-Software-Anteil (ECCN 5D002) und die Texas-Instruments-Halbleiter (E
 
 ## 4. ITAR — Risikobewertung
 
-Die International Traffic in Arms Regulations (ITAR, 22 C.F.R. Parts 120–130) regeln die Ausfuhr und den Transfer von Verteidigungsgütern und -dienstleistungen der United States Munitions List (USML). Die WPh-Produkte sind grundsätzlich nicht USML-gelistet; eine Berührung ergibt sich allerdings aus dem Bereich der „defense articles" nur dann, wenn Komponenten des MFR-3400X unter USML Category XIV (Toxicological Agents, Biological Agents) fallen könnten — dies ist bei dem vorliegenden Gerät ohne militärische Spezifikation zu verneinen. ITAR-Risiko wird von Hogan Lovells als gering eingestuft.
+Die International Traffic in Arms Regulations (ITAR, 22 C.F.R. Parts 120–130) regeln die Ausfuhr und den Transfer von Verteidigungsgütern und -dienstleistungen der United States Munitions List (USML). Die WPh-Produkte sind grundsätzlich nicht USML-gelistet; eine Berührung ergibt sich allerdings aus dem Bereich der „defense articles" nur dann, wenn Komponenten des MFR-3400X unter USML Category XIV (Toxicological Agents, Biological Agents) fallen könnten — dies ist bei dem vorliegenden Gerät ohne militärische Spezifikation zu verneinen. ITAR-Risiko wird von Brösel Holzapfel & Partner als gering eingestuft.
 
 ---
 
@@ -81,13 +81,13 @@ Handlungsempfehlungen:
 
 ---
 
-## 6. Koordination mit Hogan Lovells
+## 6. Koordination mit Brösel Holzapfel & Partner
 
-Erste Telefonkonferenz: 20. März 2026, 15:00 Uhr MEZ / 9:00 Uhr EST. Teilnehmer: Dr. Boekenkamp, Ass. Pfaff, J. Trevor Blackwood Esq. (Hogan Lovells), Sarah M. Park Esq. (Hogan Lovells, OFAC Compliance). Ergebnis:
-- Hogan Lovells übernimmt federführend die Beantwortung der OFAC-Anfrage.
+Erste Telefonkonferenz: 20. März 2026, 15:00 Uhr MEZ / 9:00 Uhr EST. Teilnehmer: Dr. Boekenkamp, Ass. Pfaff, J. Trevor Blackwood Esq. (Brösel Holzapfel & Partner), Bartholomäus Dingelstedt Esq. (Brösel Holzapfel & Partner, OFAC Compliance). Ergebnis:
+- Brösel Holzapfel & Partner übernimmt federführend die Beantwortung der OFAC-Anfrage.
 - Kanzlei Frankfurt übersendet Sachverhaltsdarstellung und relevante Unterlagen bis 08. April 2026.
-- Voluntarily self-disclosure (VSD) beim BIS wird für den EAR-Komplex geprüft — Hogan Lovells empfiehlt VSD als bußgeldmindernden Faktor.
+- Voluntarily self-disclosure (VSD) beim BIS wird für den EAR-Komplex geprüft — Brösel Holzapfel & Partner empfiehlt VSD als bußgeldmindernden Faktor.
 
 ---
 
-*Bearbeitung: Dr. Boekenkamp / Hogan Lovells — Stand: 05. April 2026*
+*Bearbeitung: Dr. Boekenkamp / Brösel Holzapfel & Partner — Stand: 05. April 2026*

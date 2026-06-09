@@ -1,6 +1,6 @@
 # 13 — Finding 6: Versteckte Blätter mit Restposten
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Finding-ID:** F-06
 **Schwere:** Hoch
 **Entdeckt:** 12. Januar 2026

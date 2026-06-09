@@ -1,6 +1,6 @@
 # 06 — Review-Achse 2: Plausibilität / Zahlenstamm
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Datum:** 11. Januar 2026
 
 ---

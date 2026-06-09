@@ -45,7 +45,7 @@ Rechnung zur Anzahlung gemäß Anlage 7 zum EPC-Vertrag „Battery Energy Storag
 
 ## Verknüpfung zum Sicherheitenpool
 
-Die Anzahlung der LausitzStorage von 18 Mio EUR an Sungrow ist durch die Sungrow-Bürgschaft gegen das Insolvenzrisiko der Sungrow abgesichert. Innerhalb des Sicherheitenpools NordCap/ILB (Akte 34) ist die Mängelgewährleistungs-Forderung gegen Sungrow zudem an Linklaters abgetreten (Sicherungsabtretung EPC-Mängelgewährleistung, § 1 Nr. 5 Sicherheitenpoolvertrag).
+Die Anzahlung der LausitzStorage von 18 Mio EUR an Sungrow ist durch die Sungrow-Bürgschaft gegen das Insolvenzrisiko der Sungrow abgesichert. Innerhalb des Sicherheitenpools NordCap/ILB (Akte 34) ist die Mängelgewährleistungs-Forderung gegen Sungrow zudem an Federfuchs Knöterich & Partner abgetreten (Sicherungsabtretung EPC-Mängelgewährleistung, § 1 Nr. 5 Sicherheitenpoolvertrag).
 
 ## ❗ Befund Statusersteller
 
@@ -58,7 +58,7 @@ Die Anzahlung der LausitzStorage von 18 Mio EUR an Sungrow ist durch die Sungrow
 
 - Original-Rechnung (PDF mit qualifizierter elektronischer Signatur Sungrow): Buchhaltung LausitzStorage (Hentschel-Archiv)
 - Banküberweisungsbeleg 22.10.2025: Commerzbank-Tagesauszug-Sammlung
-- Advance Payment Bond Bank of China BOC-FRA-2025-09-187: Original im Sicherheitenpool-Aktenordner Linklaters
+- Advance Payment Bond Bank of China BOC-FRA-2025-09-187: Original im Sicherheitenpool-Aktenordner Federfuchs Knöterich & Partner
 - Mandatsakte Pohlmann & Pohlmann: beglaubigte Kopie der Rechnung und des Bonds, eingegangen 27.09.2025
 
 ## Normbezug

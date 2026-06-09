@@ -7,7 +7,7 @@
 - Investitionsbank des Landes Brandenburg (ILB), Babelsberger Straße 21, 14473 Potsdam, vertreten durch Dr. Andreas Junker (Avalgeber, „Avalsicherheitennehmer")
 - LausitzStorage 200 GmbH i.G., HRB 12217 Cottbus, vertreten durch Karlheinz Bauernfeind (Sicherheitenbestellerin)
 
-**Treuhänder (Security Agent):** Linklaters LLP Frankfurt, Mainzer Landstraße 16, 60325 Frankfurt am Main, Kontaktpartner Dr. Manfred Heiko Burwitz
+**Treuhänder (Security Agent):** Federfuchs Knöterich & Partner LLP Frankfurt, Mainzer Landstraße 16, 60325 Frankfurt am Main, Kontaktpartner Dr. Manfred Heiko Burwitz
 
 ## Präambel
 
@@ -15,7 +15,7 @@
 
 ## § 1 Pool-Sicherheiten
 
-Sämtliche von der Sicherheitenbestellerin gestellten und im Folgenden aufgezählten Sicherheiten werden ausschließlich an Linklaters LLP als Security Agent für Rechnung und Treuhand der Pool-Berechtigten bestellt:
+Sämtliche von der Sicherheitenbestellerin gestellten und im Folgenden aufgezählten Sicherheiten werden ausschließlich an Federfuchs Knöterich & Partner LLP als Security Agent für Rechnung und Treuhand der Pool-Berechtigten bestellt:
 
 1. **Kontoverpfändung** (Akte 35) — Geschäftskonten LausitzStorage bei Commerzbank Cottbus, BLZ 18040000, Konten 0123456700 (Betriebskonto) und 0123456701 (Projektkonto).
 2. **Globalzession Pachtforderungen** (Akte 36) — Abtretung sämtlicher Forderungen der LausitzStorage gegen LEAG Immobilien GmbH aus dem Pachtvertrag (Akte 03).
@@ -50,11 +50,11 @@ Senior- und Wandeldarlehen sind untereinander gleichrangig (pari passu); Befried
 
 ## § 5 Vergütung Security Agent
 
-Linklaters erhält jährlich pauschal 18.500 EUR zzgl. USt; im Verwertungsfall zusätzlich Stundensatz 580 EUR. Verauslagung durch LausitzStorage.
+Federfuchs Knöterich & Partner erhält jährlich pauschal 18.500 EUR zzgl. USt; im Verwertungsfall zusätzlich Stundensatz 580 EUR. Verauslagung durch LausitzStorage.
 
 ## § 6 Folgen für die Drawstop-Krise
 
-§ 7 Abs. 4 Senior-Darlehensvertrag (MAC) ist von diesem Vertrag unberührt. NordCap kann unter MAC weiterhin Drawstop ausrufen, ohne den Sicherungsfall auslösen zu müssen — d.h. der Status nach Akte 13 ist **finanzierungs-, nicht sicherungsbezogen**. Linklaters hat im Status quo **nichts** zu verwerten.
+§ 7 Abs. 4 Senior-Darlehensvertrag (MAC) ist von diesem Vertrag unberührt. NordCap kann unter MAC weiterhin Drawstop ausrufen, ohne den Sicherungsfall auslösen zu müssen — d.h. der Status nach Akte 13 ist **finanzierungs-, nicht sicherungsbezogen**. Federfuchs Knöterich & Partner hat im Status quo **nichts** zu verwerten.
 
 ## § 7 Allgemeine Bestimmungen
 
@@ -68,7 +68,7 @@ Linklaters erhält jährlich pauschal 18.500 EUR zzgl. USt; im Verwertungsfall z
 - NordCap: Pierre Le Bouëdec, Marisa Kraft (Luxembourg, 04.09.2025)
 - ILB: Dr. Andreas Junker (Potsdam, 04.09.2025)
 - LausitzStorage: Karlheinz Bauernfeind (Cottbus, 04.09.2025)
-- Linklaters: Dr. Manfred Heiko Burwitz (Frankfurt am Main, 04.09.2025)
+- Federfuchs Knöterich & Partner: Dr. Manfred Heiko Burwitz (Frankfurt am Main, 04.09.2025)
 
 ## Anlagen (gesondert übergeben)
 
@@ -81,7 +81,7 @@ Linklaters erhält jährlich pauschal 18.500 EUR zzgl. USt; im Verwertungsfall z
 
 ## Aktenlage
 
-Originale: NordCap, ILB, LausitzStorage, Linklaters (je eine Ausfertigung).
+Originale: NordCap, ILB, LausitzStorage, Federfuchs Knöterich & Partner (je eine Ausfertigung).
 Mandatsakte Pohlmann & Pohlmann: beglaubigte Kopie, eingegangen 11.09.2025.
 
 ## Normbezug

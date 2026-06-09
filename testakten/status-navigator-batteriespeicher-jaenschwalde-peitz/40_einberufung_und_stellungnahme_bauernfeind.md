@@ -1,7 +1,7 @@
 # Einberufung außerordentliche Gesellschafterversammlung und Gegen-Stellungnahme Bauernfeind
 
 **Absender:** Karlheinz Bauernfeind als Geschäftsführer der LausitzStorage 200 GmbH
-**Adressaten:** alle Gesellschafter (NordCap, Lindenthal, Stadtwerke Cottbus); zur Information: Linklaters (Security Agent), Notarin Dr. Albers, ILB, Pohlmann & Pohlmann
+**Adressaten:** alle Gesellschafter (NordCap, Lindenthal, Stadtwerke Cottbus); zur Information: Federfuchs Knöterich & Partner (Security Agent), Notarin Dr. Albers, ILB, Pohlmann & Pohlmann
 **Datum:** 12.06.2026
 **Versandweg:** Einwurf-Einschreiben an alle Gesellschafteranschriften (vier Sendungen, Aufgabe 12.06.2026 bei Post-Filiale 03046 Cottbus, Nachweise im Anhang); zusätzlich PDF-Anhang per E-Mail an alle Gesellschafter-Hauptadressen
 **Aktenzeichen:** GF-LausitzStorage-2026/0612-V1

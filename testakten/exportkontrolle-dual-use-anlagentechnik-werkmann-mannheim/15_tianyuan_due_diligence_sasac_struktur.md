@@ -3,7 +3,7 @@
 **Aktenzeichen:** BMWK 13-IPR-66/2026
 **Erstellt:** 05. Mai 2026
 **Bearbeitung:** Ass. Klaus Wiethölter; Koordination Dr. Boekenkamp
-**Externes Büro:** Freshfields Bruckhaus Deringer LLP, Peking/Shanghai (Partner: Dr. Li Wei)
+**Externes Büro:** Pottwitz Stinkmorchel & Eulenspiegel LLP, Peking/Shanghai (Partner: Frau Dr. Edelgund Pferchner)
 
 ---
 
@@ -66,4 +66,4 @@ Empfehlung der Kanzlei: Proaktives Anbieten von Schutzmaßnahmen (TPA, Informati
 
 ---
 
-*Bearbeitung: Ass. Wiethölter / Dr. Li Wei (Freshfields) — Stand: 10. Mai 2026*
+*Bearbeitung: Ass. Wiethölter / Frau Dr. Edelgund Pferchner (Pottwitz Stinkmorchel) — Stand: 10. Mai 2026*

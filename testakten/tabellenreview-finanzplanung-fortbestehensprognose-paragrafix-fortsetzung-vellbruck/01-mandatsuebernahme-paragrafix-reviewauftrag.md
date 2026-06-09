@@ -1,6 +1,6 @@
 # 01 — Mandatsübernahme Paragrafix GmbH: Reviewauftrag Fortbestehensprognose
 
-**Aktenzeichen Reviewer:** TR-WF-2026-PFX-0712
+**Aktenzeichen Reviewer:** TR-QK-2026-PFX-0712
 **Hausnummer Paragrafix:** PFX-2026-FoBP-v23
 **Datum Mandatsannahme:** 08. Januar 2026
 **Bearbeiterin:** Dr. Henrike Wittfeldt-Steinheim, WPin, RAin

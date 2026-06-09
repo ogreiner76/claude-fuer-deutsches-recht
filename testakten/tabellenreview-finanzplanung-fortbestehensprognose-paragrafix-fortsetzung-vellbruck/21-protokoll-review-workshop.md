@@ -1,6 +1,6 @@
 # 21 — Protokoll Review-Workshop 14. Januar 2026
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Termin:** 14. Januar 2026, 10:00–16:30 Uhr
 **Ort:** Paragrafix GmbH, Friedrichstr. 188, 10117 Berlin, Besprechungsraum "Paralex 2"
 

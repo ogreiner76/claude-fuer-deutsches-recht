@@ -2,7 +2,7 @@
 
 **Aktenzeichen:** (intern) WAT-KOR-2026/02
 **Erstellt:** 22. Mai 2026
-**Bearbeitung:** RAin Tamara Goller-Neuss; Hogan Lovells Washington (FCPA-Aspekte)
+**Bearbeitung:** RAin Tamara Goller-Neuss; Brösel Holzapfel & Partner Washington (FCPA-Aspekte)
 
 ---
 
@@ -37,7 +37,7 @@ Die vollständige OECD-Korruptions-Selbstprüf-Checkliste ist als PDF verfügbar
 
 ### 2.1 Entscheidungsgrundlage
 
-Hogan Lovells hat nach Auswertung aller Informationen die folgende Empfehlung abgegeben (Memorandum vom 15. Mai 2026, vertraulich):
+Brösel Holzapfel & Partner hat nach Auswertung aller Informationen die folgende Empfehlung abgegeben (Memorandum vom 15. Mai 2026, vertraulich):
 
 > „We recommend filing a Voluntary Self-Disclosure (VSD) with the U.S. Department of Justice (DOJ), Criminal Division, Fraud Section, relating to potential FCPA violations by Werkmann Anlagentechnik AG through acts of Al-Quwairy Trading LLC as agent. The VSD should focus on the Al-Quwairy payments and should not, at this stage, purport to be exhaustive. We anticipate that DOJ will open a formal investigation but that a declination (i.e., no criminal prosecution) is achievable if Werkmann demonstrates genuine remediation, full cooperation, and disgorgement of any illicit benefit."
 
@@ -56,7 +56,7 @@ Werkmann erfüllt die Voraussetzungen 1, 2 und 4 prinzipiell. Voraussetzung 3 er
 | Schritt | Frist |
 |---|---|
 | Abschluss HR-Maßnahme Enders | 15. Juni 2026 |
-| Fertigstellung VSD-Memorandum (Hogan Lovells) | 30. Juni 2026 |
+| Fertigstellung VSD-Memorandum (Brösel Holzapfel & Partner) | 30. Juni 2026 |
 | Einreichung VSD beim DOJ | 15. Juli 2026 |
 | DOJ-Erstreaktion erwartet | 3.–4. Quartal 2026 |
 
@@ -74,4 +74,4 @@ Al-Quwairy Trading LLC wurde mit Schreiben vom 28. April 2026 (Entwurf: Kanzlei)
 
 ---
 
-*Bearbeitung: RAin Goller-Neuss / Hogan Lovells — Stand: 28. Mai 2026*
+*Bearbeitung: RAin Goller-Neuss / Brösel Holzapfel & Partner — Stand: 28. Mai 2026*

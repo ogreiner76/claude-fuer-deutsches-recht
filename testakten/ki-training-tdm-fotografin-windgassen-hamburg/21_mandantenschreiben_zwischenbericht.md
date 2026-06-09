@@ -13,13 +13,13 @@ nach unseren intensiven Vorbereitungen in den vergangenen zwei Wochen berichte i
 
 ---
 
-## 1. Filesharing-Abmahnung Waldorf Frommer
+## 1. Filesharing-Abmahnung Quetschenpaua & Kollegen
 
-Wir werden **morgen, am 28.01.2026**, eine modifizierte strafbewehrte Unterlassungserklärung (ohne Schuldanerkenntnis, ohne Zahlungsverpflichtung) per Fax, Einschreiben und E-Mail an Waldorf Frommer übersenden. Die Erklärung ist rechtlich so gestaltet, dass sie die Wiederholungsgefahr beseitigt, ohne Ihnen eine Zahlungspflicht aufzuerlegen.
+Wir werden **morgen, am 28.01.2026**, eine modifizierte strafbewehrte Unterlassungserklärung (ohne Schuldanerkenntnis, ohne Zahlungsverpflichtung) per Fax, Einschreiben und E-Mail an Quetschenpaua & Kollegen übersenden. Die Erklärung ist rechtlich so gestaltet, dass sie die Wiederholungsgefahr beseitigt, ohne Ihnen eine Zahlungspflicht aufzuerlegen.
 
 Gleichzeitig weisen wir die Forderung von 2.145 EUR schriftlich zurück. Wir benennen Ihren Sohn Felix als Alternativtäter und berufen uns auf BGH „Tauschbörsen III". Die sekundäre Darlegungslast ist damit erfüllt.
 
-Das Risiko, dass Waldorf Frommer danach Klage erhebt: **ca. 40 %** nach meiner Einschätzung. In diesem Fall werden wir negative Feststellungsklage erheben (Entwurf liegt bereits vor). Das AG München ist zuständig.
+Das Risiko, dass Quetschenpaua & Kollegen danach Klage erhebt: **ca. 40 %** nach meiner Einschätzung. In diesem Fall werden wir negative Feststellungsklage erheben (Entwurf liegt bereits vor). Das AG München ist zuständig.
 
 ---
 

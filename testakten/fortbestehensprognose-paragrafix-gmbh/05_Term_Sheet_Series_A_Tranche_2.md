@@ -20,7 +20,7 @@ AUSZUG / EXTRACT — Für die Fortbestehensprognose § 19 InsO relevante Abschni
 | Lead Investor / Lead-Investor | Earlybird Venture Capital GmbH & Co. KG, Ritterstraße 12, 10969 Berlin |
 | Co-Investor 1 | Cherry Ventures GmbH & Co. KG, Ansbacher Str. 4, 10787 Berlin |
 | Existing Angels / Bestehende Angels | 3 Business Angels (gemäß Gesellschafterliste; nicht namentlich genannt) |
-| Counsel / Rechtsberater der Gesellschaft | Hengeler Mueller Partnerschaft von Rechtsanwälten mbB, Berlin |
+| Counsel / Rechtsberater der Gesellschaft | Wammeshübel Zwirnknäuel & Sozien Partnerschaft von Rechtsanwälten mbB, Berlin |
 | Counsel / Rechtsberater des Investors | Orrick, Herrington & Sutcliffe LLP, Munich/Berlin |
 
 

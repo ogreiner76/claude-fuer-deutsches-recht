@@ -72,7 +72,7 @@ Großbatteriespeicher 200 MW / 400 MWh auf Konversionsfläche neben Kraftwerk J�
 31. RVG-Zwischenrechnung Pohlmann und Pohlmann (Streitwert 11,9 Mio EUR, 1,3-Gebühr)
 32. Klarstellungsschreiben an LEAG zur Pacht-Genehmigungsregime (Frist 23.06.2026)
 33. Step-Plan v2 — Änderungslog und Ampelfortschritt (rot 10 → 3)
-34. Sicherheitenpoolvertrag NordCap ∕ ILB ∕ LausitzStorage (Linklaters als Security Agent, Rangfolge)
+34. Sicherheitenpoolvertrag NordCap ∕ ILB ∕ LausitzStorage (Federfuchs Knöterich & Partner als Security Agent, Rangfolge)
 35. Kontoverpfändungsvertrag Commerzbank Cottbus (§ 1280 BGB, Anzeige bei Commerzbank am 09.09.2025)
 36. Globalzessionsvertrag Pachtforderungen LEAG (stiller Globalzessionsvertrag, nicht angezeigt)
 37. Anteilsverpfändungsurkunde UR 388⁄2025 Notar Dr. Albers (§ 15 Abs. 3 GmbHG, Stimmrechte beim Verpfänder, Gesellschafterliste § 40 GmbHG)

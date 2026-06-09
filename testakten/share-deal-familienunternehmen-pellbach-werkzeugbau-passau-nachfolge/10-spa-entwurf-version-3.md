@@ -1,7 +1,7 @@
 # 10 — Share Purchase Agreement: Klauselüberblick v3 / Offene Issues
 
 **Aktenzeichen:** SuP/2026-0041-CES
-**SPA-Entwurf v3:** Käuferseite (Hengeler Mueller Frankfurt) — eingegangen 01.04.2026
+**SPA-Entwurf v3:** Käuferseite (Wammeshübel Zwirnknäuel & Sozien Frankfurt) — eingegangen 01.04.2026
 **Seller-Kommentare fällig:** 08.04.2026
 
 ---

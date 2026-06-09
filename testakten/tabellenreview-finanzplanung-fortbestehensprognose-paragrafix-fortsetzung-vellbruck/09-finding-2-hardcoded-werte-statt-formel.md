@@ -1,6 +1,6 @@
 # 09 — Finding 2: Hardcoded Werte statt Formeln
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Finding-ID:** F-02
 **Schwere:** Hoch
 **Entdeckt:** 11. Januar 2026

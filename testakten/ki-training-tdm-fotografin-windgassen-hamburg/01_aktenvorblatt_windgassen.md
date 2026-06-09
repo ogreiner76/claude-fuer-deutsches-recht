@@ -29,7 +29,7 @@
 | # | Aktenzeichen | Gericht / Behörde | Gegner | Status |
 |---|---|---|---|---|
 | 1 | 308 O 79/26 | LG Hamburg, KI-Kammer | ImagineArt Inc., Delaware (USA) | Klagevorbereitung |
-| 2 | 155 C 18801/26 | AG München | Waldorf Frommer RA (für unbekannte Rechteinhaber) | Abmahnung eingegangen 09.01.2026 |
+| 2 | 155 C 18801/26 | AG München | Quetschenpaua & Kollegen RA (für unbekannte Rechteinhaber) | Abmahnung eingegangen 09.01.2026 |
 | 3 | — | außergerichtlich | Mare GmbH, Hamburg | Lizenzverhandlung Bildband |
 | 4 | — | außergerichtlich | Eppendorfer Wochenanzeiger GmbH | Gegendarstellungsverlangen offen |
 | 5 | Sch-Urh 32/26 | DPMA-Schiedsstelle München | VG Bild-Kunst / KI-Vergütung | Schiedsverfahren eingeleitet |
@@ -39,7 +39,7 @@
 
 ## Interessenkonflikte
 
-Prüfung durchgeführt am 14.01.2026 durch Dr. Kreidler-Bremer. Kein Interessenkonflikt festgestellt. Kanzlei vertritt keine Partei auf Gegnerseite (ImagineArt Inc., Mare GmbH, Waldorf Frommer, Eppendorfer Wochenanzeiger GmbH).
+Prüfung durchgeführt am 14.01.2026 durch Dr. Kreidler-Bremer. Kein Interessenkonflikt festgestellt. Kanzlei vertritt keine Partei auf Gegnerseite (ImagineArt Inc., Mare GmbH, Quetschenpaua & Kollegen, Eppendorfer Wochenanzeiger GmbH).
 
 ---
 
@@ -53,7 +53,7 @@ Stundensatz: 380 EUR zzgl. MwSt. Vorschuss eingegangen: 5.000 EUR am 16.01.2026 
 
 | Frist | Datum | Sache |
 |---|---|---|
-| Reaktionsfrist Waldorf Frommer Ü | 30.01.2026 | Filesharing-Abmahnung |
+| Reaktionsfrist Quetschenpaua & Kollegen Ü | 30.01.2026 | Filesharing-Abmahnung |
 | Gegendarstellungsverlangen EWA | 07.02.2026 | Presserechtliche Gegendarstellung |
 | Klagefrist Schiedsstelle DPMA Sch-Urh 32/26 | Hemmung läuft | TDM-Vergütung |
 | Klageeinreichung LG Hamburg 308 O 79/26 | intern: 28.02.2026 | ImagineArt-Hauptklage |

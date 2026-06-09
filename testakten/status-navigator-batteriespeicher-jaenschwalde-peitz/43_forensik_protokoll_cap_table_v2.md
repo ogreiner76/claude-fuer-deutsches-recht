@@ -20,7 +20,7 @@ Untersuchung der Frage, ob die in der Cap-Table-Datei `cap_table_aktuell.xlsx` (
   - reporting@lausitzstorage.de (Investor Relations)
 - 8.412 ausgehende Dateianhänge mit Cap-Table-relevanter Dateibezeichnung (Stichwortsuche: `cap`, `beteiligung`, `gesell`, `anteil`, `78`)
 - Geschäftsführungs-NAS `\\NAS\GF\Beteiligung\` — sämtliche Versionsstände der Datei `cap_table_aktuell.xlsx` (Excel-Versionshistorie, OneDrive-Sync-Backups)
-- Kommunikation mit externen Empfängern: NordCap, Lindenthal, Stadtwerke Cottbus, ILB, Commerzbank, Linklaters, Sungrow, 50Hertz, LEAG, Notar Dr. Albers, Pohlmann & Pohlmann, Schweikart Knabel und Partner
+- Kommunikation mit externen Empfängern: NordCap, Lindenthal, Stadtwerke Cottbus, ILB, Commerzbank, Federfuchs Knöterich & Partner, Sungrow, 50Hertz, LEAG, Notar Dr. Albers, Pohlmann & Pohlmann, Schweikart Knabel und Partner
 
 ## III. Methodik
 
@@ -52,7 +52,7 @@ Konkret:
 - 14 Mails an Stadtwerke Cottbus: keine Cap-Table-Anlagen mit V2.
 - 8 ILB-Kommunikationen (Avalrahmenanträge, Berichte): nur V1.
 - Commerzbank-Kommunikation (Konto-Sicherheiten, Limit-Erhöhungen): nur V1.
-- Linklaters (Security Agent): Cap-Table-Sektion in Quartalsbericht — nur V1.
+- Federfuchs Knöterich & Partner (Security Agent): Cap-Table-Sektion in Quartalsbericht — nur V1.
 - Sungrow, 50Hertz, LEAG: keine Cap-Table-Anlagen.
 - Notar Albers: nur V1-Linie in Beurkundungsvorbereitungen.
 

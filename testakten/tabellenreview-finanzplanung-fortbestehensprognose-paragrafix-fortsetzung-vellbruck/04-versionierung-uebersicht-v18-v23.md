@@ -1,6 +1,6 @@
 # 04 — Versionierung: Übersicht v18 bis v23
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Datum:** 10. Januar 2026
 
 ---

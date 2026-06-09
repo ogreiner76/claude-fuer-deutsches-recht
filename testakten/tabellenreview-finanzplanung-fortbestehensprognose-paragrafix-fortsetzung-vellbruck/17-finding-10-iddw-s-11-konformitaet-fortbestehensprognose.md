@@ -1,6 +1,6 @@
 # 17 — Finding 10: IDW-S-11-Konformität der Fortbestehensprognose
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Finding-ID:** F-10
 **Schwere:** Kritisch
 **Entdeckt:** 13. Januar 2026

@@ -2,7 +2,7 @@
 
 **Absender:** Dr. Henriette Schweikart-Bößer, Rechtsanwältin (Fachanwältin Gesellschaftsrecht), Sozietät Schweikart Knabel und Partner, Helmholtzstraße 2, 03046 Cottbus
 **Mandantin:** Petra Lindenthal (9-%-Gesellschafterin LausitzStorage 200 GmbH)
-**Adressat:** LausitzStorage 200 GmbH, zHd Geschäftsführer Karlheinz Bauernfeind (in cc: alle Mitgesellschafter Bauernfeind/NordCap/Stadtwerke; in cc: Notar Dr. Albers, Pohlmann & Pohlmann, Linklaters)
+**Adressat:** LausitzStorage 200 GmbH, zHd Geschäftsführer Karlheinz Bauernfeind (in cc: alle Mitgesellschafter Bauernfeind/NordCap/Stadtwerke; in cc: Notar Dr. Albers, Pohlmann & Pohlmann, Federfuchs Knöterich & Partner)
 **Datum:** 05.06.2026
 **Versandweg:** Einwurf-Einschreiben RM 5117 9026 4 DE (Zugang LausitzStorage 09.06.2026) plus E-Mail an karlheinz.bauernfeind@lausitzstorage.de am 05.06.2026 11:14 Uhr
 **Aktenzeichen Schweikart:** SK-2026-0418/Lindenthal-LausitzStorage

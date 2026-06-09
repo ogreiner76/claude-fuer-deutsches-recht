@@ -1,3 +1,51 @@
+# v253.0.0 — Testakten-Sweep: reale Kanzleien und reale Adresse entfernt
+
+## Schwerpunkt
+
+In den Testakten wurden alle Verweise auf reale, namentlich identifizierbare Rechtsanwaltskanzleien entfernt und durch fiktive, deutlich erfundene Namen ersetzt. Konkret wurde dabei auch die in einer Filesharing-Abmahnung verwendete echte Münchner Adresse und Telefonnummer einer realen ehemaligen Kanzlei durch eine fiktive Neuruppin-Adresse ersetzt. Die Akte heißt jetzt nach der fiktiven Kanzlei „Quetschenpaua & Kollegen" in Neuruppin.
+
+## Was ersetzt wurde
+
+| Reale Nennung | Fiktiver Ersatz |
+| --- | --- |
+| Waldorf Frommer (Filesharing-Abmahner) | Quetschenpaua & Kollegen, Neuruppin |
+| Hogan Lovells LLP | Brösel Holzapfel & Partner LLP |
+| Hengeler Mueller | Wammeshübel Zwirnknäuel & Sozien |
+| Freshfields Bruckhaus Deringer | Pottwitz Stinkmorchel & Eulenspiegel |
+| Linklaters | Federfuchs Knöterich & Partner |
+
+Auch die echte Münchner Anschrift (Beethovenstraße 11, 80336) und Telefonnummer (089 52 05 72-10/-30) der ehemaligen Filesharing-Kanzlei wurden in der Akte durch die fiktive Anschrift Karl-Marx-Straße 41, 16816 Neuruppin und Telefon 03391 47 02-0/-29 ersetzt. Der echte Mail-Account `kanzlei@waldorf-frommer.de` ist durch die fiktive Domain `kanzlei@quetschenpaua-kollegen.de` ersetzt; das Aktenzeichen-Präfix `WF-2026-...` durch `QK-2026-...`.
+
+## Was umbenannt/neugerendert wurde
+
+- `testakten/ki-training-tdm-fotografin-windgassen-hamburg/pdfs/waldorf_frommer_abmahnung_redacted.pdf` → `quetschenpaua_kollegen_abmahnung_redacted.pdf` — frisches Layout (zweiseitig, dezenter Header, Fußzeile mit fiktivem HRB Neuruppin)
+- `eml/waldorf_frommer_abmahnung_eingang_2026-01-09.eml` → `eml/quetschenpaua_kollegen_abmahnung_eingang_2026-01-09.eml`
+- `05_filesharing_abmahnung_waldorf_frommer.md` → `05_filesharing_abmahnung_quetschenpaua_kollegen.md`
+- `17_ofac_response_hogan_lovells.md` (Werkmann-Akte) → `17_ofac_response_broesel_holzapfel.md`
+- DOCX-Anlage `NFK_Filesharing_Windgassen_Entwurf.docx` neu gepackt, alle Großkanzlei- und Adressverweise ersetzt
+- 203 Gesamt-PDFs der Testakten neu gerendert
+
+## Zahlen
+
+- 127 Textersetzungen in 49 Dateien (Round 1)
+- 36 weitere Ersetzungen in 27 Dateien (Round 2 für Großschreibung, Domains, Aktenzeichen-Präfix)
+- 4 Ersetzungen in 2 Dateien für die Münchner Adresse und Telefonnummer (Round 3)
+- 1 DOCX-Anlage repacked
+- 1 Skill (`fachanwalt-urheber-medienrecht/.../erstgespraech-mandatsannahme-fachanwalt/SKILL.md`) inhaltlich neutralisiert (konkrete reale Filesharing-Abmahn-Kanzleien aus der Beispielzeile entfernt)
+
+## Validierung
+
+- `validate-plugin-structure`: OK
+- `validate-yaml-frontmatter`: 0 Fehler, 0 Warnungen
+- `validate-testakten-gesamt-pdf`: OK (203 Testakten)
+- Repo-Sweep nach den entfernten Kanzleien: 0 Treffer in `.md/.eml/.txt/.json`, 0 Treffer im PDF-Volltext der Akte
+
+## Hinweise
+
+Allgemein-übliche deutsche Familiennamen, die zufällig auch politisch oder medial prominent sind (z. B. Lauterbach, Scholz, Merkel, Lindner), wurden in den Akten belassen, da sie dort eindeutig fiktive Mandantinnen, Mandanten oder Beteiligte bezeichnen und ihre Vornamen, Berufe und Orte mit keiner real prominenten Person übereinstimmen.
+
+---
+
 # v252.0.0 — Skill-Kürzung ohne Wissensverlust und Sanity-Bump
 
 ## Schwerpunkt

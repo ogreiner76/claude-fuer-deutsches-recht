@@ -13,7 +13,7 @@
   - NordCap Infrastructure Fund SCS, 25 Avenue de la Liberté, L-1931 Luxembourg, vertreten durch Pierre Le Bouëdec und Marisa Kraft (notariell beglaubigte Vollmacht UR-Nr. 387/2025 Anl. 4) — Stammeinlage 23.400 EUR, entsprechend 30,00 % am Stammkapital
   - Stadtwerke Cottbus Beteiligungs-GmbH, HRB 9211 Cottbus, vertreten durch Geschäftsführer Wolfgang Hempel und Prokuristin Sabine Rödger (Handelsregisterauszug Anl. 5) — Stammeinlage 7.800 EUR, entsprechend 10,00 % am Stammkapital
 
-- **Pfandnehmer (Security Agent):** Linklaters LLP, vertreten durch Dr. Manfred Heiko Burwitz
+- **Pfandnehmer (Security Agent):** Federfuchs Knöterich & Partner LLP, vertreten durch Dr. Manfred Heiko Burwitz
 
 - **Gesellschaft (zustimmungsbedürftig nach § 14 Abs. 2 GmbHG iVm § 13 der Satzung):** LausitzStorage 200 GmbH, HRB 12217 Cottbus
 
@@ -44,7 +44,7 @@ Die LausitzStorage 200 GmbH, vertreten durch ihren alleinvertretungsberechtigten
 
 ## § 5 Eintragung in die Gesellschafterliste
 
-Die Geschäftsführung verpflichtet sich, die Verpfändung in der Gesellschafterliste gemäß § 40 GmbHG (Zusatz „verpfändet zugunsten Linklaters LLP als Security Agent") zu vermerken und eine aktualisierte Liste binnen 14 Tagen beim Handelsregister einzureichen.
+Die Geschäftsführung verpflichtet sich, die Verpfändung in der Gesellschafterliste gemäß § 40 GmbHG (Zusatz „verpfändet zugunsten Federfuchs Knöterich & Partner LLP als Security Agent") zu vermerken und eine aktualisierte Liste binnen 14 Tagen beim Handelsregister einzureichen.
 
 **Status der Einreichung:** Aktualisierte Gesellschafterliste wurde am **16.09.2025** beim Handelsregister Cottbus eingereicht (Eingangsstempel des Registergerichts auf Anlage Aktenstück 27).
 
@@ -73,7 +73,7 @@ Klargestellt wird: Das im Konsortialvertrag (Akte 11) eingeräumte Vorkaufsrecht
 
 ## Aktenlage
 
-- Notarielle Ausfertigung Original: Linklaters
+- Notarielle Ausfertigung Original: Federfuchs Knöterich & Partner
 - Beglaubigte Abschriften: NordCap, ILB, LausitzStorage, alle Gesellschafter (jeweils eine), Pohlmann & Pohlmann (eingegangen 11.09.2025)
 - Notar Albers führt UR-Buch
 

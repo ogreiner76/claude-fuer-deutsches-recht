@@ -53,7 +53,7 @@ Die Kanzlei empfiehlt folgendes gestuftes Vorgehen:
 
 **Stufe 2 (parallel):** Unterrichtung des BAFA über die eingeleiteten ICP-Maßnahmen (Neuschulungen, Überarbeitung des Compliance-Handbuchs, Einführung enhanced due diligence für Drittlandkunden) als Zeichen der Kooperationsbereitschaft.
 
-**Stufe 3 (nach Rücksprache mit Hogan Lovells):** Keine eigenständige Offenbarung des OFAC-Komplexes gegenüber dem BAFA; dieser wird getrennt und priorisiert mit der US-Seite behandelt.
+**Stufe 3 (nach Rücksprache mit Brösel Holzapfel & Partner):** Keine eigenständige Offenbarung des OFAC-Komplexes gegenüber dem BAFA; dieser wird getrennt und priorisiert mit der US-Seite behandelt.
 
 ---
 

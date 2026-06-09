@@ -1,6 +1,6 @@
 # 10 — Finding 3: Falsche Summenformel Bilanzsumme
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Finding-ID:** F-03
 **Schwere:** Hoch
 **Entdeckt:** 11. Januar 2026

@@ -66,7 +66,7 @@ Der SmartFlow-Quellcode und die MFR-3400X-CAD-Zeichnungen erfüllen diese Voraus
 1. **Strafanzeige:** Erstattung einer Strafanzeige bei der Kriminalpolizei Mannheim wegen unbefugter Erlangung von Geschäftsgeheimnissen (§ 23 GeschGehG) sowie versuchtem Verrat von Geschäftsgeheimnissen (§ 23 Abs. 1 GeschGehG). Verbunden mit Strafantrag nach § 23 Abs. 4 GeschGehG.
 2. **Zivilrechtliche Klage:** Klage auf Unterlassung und Schadensersatz vor dem LG Mannheim (Sitz Werkmann; §§ 6, 7 GeschGehG). Streitwert: offen; vorläufig 500.000 EUR.
 3. **Technische Maßnahmen:** Sofortiger Rollout neuer Softwareversionen (SmartFlow v3.8 mit geänderter Kernarchitektur); Änderung aller kryptografischen Schlüssel der MFR-Steuerung.
-4. **Information OFAC/Hogan Lovells:** Möglicher Wissenstransfer durch Nasseri als Risikofaktor in der OFAC-Response darstellen, ohne jedoch unbewiesene Verbindungen zu behaupten.
+4. **Information OFAC/Brösel Holzapfel & Partner:** Möglicher Wissenstransfer durch Nasseri als Risikofaktor in der OFAC-Response darstellen, ohne jedoch unbewiesene Verbindungen zu behaupten.
 5. **BfV-Kontakt:** Über das Landesamt für Verfassungsschutz Baden-Württemberg Kontakt zum BfV aufnehmen; Wirtschaftsspionage-Meldung.
 
 ---

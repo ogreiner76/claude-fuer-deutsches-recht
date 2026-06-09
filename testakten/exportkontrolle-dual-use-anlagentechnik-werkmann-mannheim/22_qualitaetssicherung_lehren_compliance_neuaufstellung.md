@@ -8,7 +8,7 @@
 
 ## 1. Zusammenfassung des Komplexes
 
-Der Werkmann-Komplex hat innerhalb von acht Monaten (März bis Oktober 2026) sechs parallele Rechtsverfahren in drei Jurisdiktionen (Deutschland, USA, Frankreich-ICC) erfordert und ca. 3,8 Millionen EUR an Rechts- und Beratungskosten sowie Bußgeldern verursacht (BAFA: 95.000 EUR; CBAM: 22.000 EUR; Hogan Lovells Honorar: ca. 1,2 Millionen USD; Kanzlei Frankfurt: ca. 800.000 EUR; KPMG Law: ca. 350.000 EUR; sonstige Sachverständige: ca. 120.000 EUR).
+Der Werkmann-Komplex hat innerhalb von acht Monaten (März bis Oktober 2026) sechs parallele Rechtsverfahren in drei Jurisdiktionen (Deutschland, USA, Frankreich-ICC) erfordert und ca. 3,8 Millionen EUR an Rechts- und Beratungskosten sowie Bußgeldern verursacht (BAFA: 95.000 EUR; CBAM: 22.000 EUR; Brösel Holzapfel & Partner Honorar: ca. 1,2 Millionen USD; Kanzlei Frankfurt: ca. 800.000 EUR; KPMG Law: ca. 350.000 EUR; sonstige Sachverständige: ca. 120.000 EUR).
 
 Das Kernergebnis ist positiv: Kein Unternehmen wurde auf die SDN-Liste gesetzt; keine Strafverfolgung in Deutschland oder USA; das ICC-Schiedsverfahren läuft plangemäß; die TianYuan-Transaktion ist auf dem Weg.
 

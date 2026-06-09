@@ -2,7 +2,7 @@
 
 **Absender:** Stadtwerke Cottbus Beteiligungs-GmbH, HRB 9211 Cottbus, vertreten durch Wolfgang Hempel (Geschäftsführer) und Sabine Rödger (Prokuristin)
 **Adressat:** LausitzStorage 200 GmbH, zHd Geschäftsführer Karlheinz Bauernfeind
-**In cc:** NordCap, Lindenthal, Linklaters (Security Agent), Pohlmann & Pohlmann
+**In cc:** NordCap, Lindenthal, Federfuchs Knöterich & Partner (Security Agent), Pohlmann & Pohlmann
 **Datum:** 06.06.2026
 **Versandweg:** Einwurf-Einschreiben RM 4517 8829 3 DE, Zugang 09.06.2026 Sekretariat Pawlowski; PDF per E-Mail an Bauernfeind und Hesselmann am 06.06.2026 09:47 Uhr
 **Aktenzeichen Stadtwerke:** SWC-Beteiligung-LausitzStorage-2026/0606
@@ -15,13 +15,13 @@
 >
 > 1. Die Anlage 4 wurde am 30.11.2025 in zwei Originalausfertigungen erstellt, parallel zum Definitivvertrag.
 > 2. Bei der Schlussunterzeichnung am 30.11.2025 wurde Anlage 4 versehentlich nur einer von vier Vertragsausfertigungen (der bei den Stadtwerken Cottbus verbliebenen) beigeheftet.
-> 3. Die anderen drei Ausfertigungen (Bauernfeind/Lindenthal, NordCap, Linklaters) wurden ohne Anlage 4 übergeben.
+> 3. Die anderen drei Ausfertigungen (Bauernfeind/Lindenthal, NordCap, Federfuchs Knöterich & Partner) wurden ohne Anlage 4 übergeben.
 >
 > Diese Fehlheftung war ein versehentlicher Mangel der Schlussabwicklung in unserer Kanzleisystematik (verantwortlicher Mitarbeiter Herr Daniel Stankowiak; eine interne Note ist erstellt). Anlage 4 war zwischen den Parteien jedoch verhandelt, in der Schlussverhandlung am 27.11.2025 finalisiert und am 30.11.2025 von allen vier Parteien einzeln durch ihre Vertreter mit-paraphiert. Sie ist also unstreitig **Bestandteil des Vertrages**."
 
 ## Übergabe Anlage 4 — beigefügt
 
-> „Anbei übersenden wir die fehlende Anlage 4 ‚Investorenrechte-Katalog Stadtwerke Cottbus' zum Konsortialvertrag vom 30.11.2025, vierundzwanzig Seiten, mit Originalparaphierungen aller vier Vertragsparteien auf jeder Seite (Stand vom 30.11.2025). Die Übergabe erfolgt in vierfacher Ausfertigung (für Bauernfeind/Lindenthal/Geschäftsführung, NordCap, Linklaters, Pohlmann & Pohlmann)."
+> „Anbei übersenden wir die fehlende Anlage 4 ‚Investorenrechte-Katalog Stadtwerke Cottbus' zum Konsortialvertrag vom 30.11.2025, vierundzwanzig Seiten, mit Originalparaphierungen aller vier Vertragsparteien auf jeder Seite (Stand vom 30.11.2025). Die Übergabe erfolgt in vierfacher Ausfertigung (für Bauernfeind/Lindenthal/Geschäftsführung, NordCap, Federfuchs Knöterich & Partner, Pohlmann & Pohlmann)."
 
 ## Inhaltsübersicht Anlage 4 — Investorenrechte-Katalog Stadtwerke Cottbus
 

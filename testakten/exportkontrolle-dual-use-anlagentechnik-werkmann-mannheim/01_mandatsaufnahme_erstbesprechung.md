@@ -17,7 +17,7 @@ Die Werkmann Anlagentechnik AG (nachfolgend: Mandantin) erteilte der Kanzlei Sal
 - Vertretung gegenüber dem Bundesministerium für Wirtschaft und Klimaschutz (BMWK), Berlin, im Investitionsprüfverfahren 13-IPR-66/2026
 - Vertretung im ICC-Schiedsverfahren Paris, Case No. 28-441/SCH/MS
 - Prozessvertretung vor dem Landgericht Frankfurt am Main, Az. 3-21 O 144/26
-- Korrespondenz mit US-Behörden (OFAC, BIS, State Department) und Koordination mit US-amerikanischem Kooperationsanwalt (Hogan Lovells LLP, Washington D.C.)
+- Korrespondenz mit US-Behörden (OFAC, BIS, State Department) und Koordination mit US-amerikanischem Kooperationsanwalt (Brösel Holzapfel & Partner LLP, Washington D.C.)
 - Interne Compliance-Untersuchung (Internal Investigation) und Begleitung eines möglichen ICP-Audits
 
 Die Originalvollmacht wurde notariell beglaubigt und liegt der Akte als Anlage 01/A bei.
@@ -71,7 +71,7 @@ Die Mandantin bezieht Aluminiumguss-Bauteile von der türkischen Firma Anadolu D
 | Verfahrensstrang | Bearbeitung | Kooperation |
 |---|---|---|
 | BAFA OWi / Dual-Use | Dr. Boekenkamp, Ass. Rüdiger Pfaff | BAFA-Behördenkorrespondenz |
-| OFAC / EAR / ITAR | Dr. Boekenkamp | Hogan Lovells Washington |
+| OFAC / EAR / ITAR | Dr. Boekenkamp | Brösel Holzapfel & Partner Washington |
 | StGB / FCPA Korruption | RAin Tamara Goller-Neuss | Forensik: KPMG Law |
 | BMWK Investitionsprüfung | Dr. Boekenkamp, Ass. Klaus Wiethölter | BMWK-Referat IB4 |
 | ICC Schiedsverfahren | RAin Dr. Boekenkamp, RAin Katharina Schreiner | ICC Paris |
@@ -86,7 +86,7 @@ Die Mandantin bezieht Aluminiumguss-Bauteile von der türkischen Firma Anadolu D
 3. Beauftragung KPMG Law für forensische Buchprüfung Al-Quwairy-Zahlungsströme.
 4. Information an Aufsichtsrat am 17. März 2026 (geplant).
 5. Prüfung Selbstanzeige gemäß § 22 OWiG: Entscheidungsfrist bis zum 07. April 2026.
-6. Mandatsanbahnung Hogan Lovells Washington — erste Telefonkonferenz für 20. März 2026 geplant.
+6. Mandatsanbahnung Brösel Holzapfel & Partner Washington — erste Telefonkonferenz für 20. März 2026 geplant.
 
 ---
 

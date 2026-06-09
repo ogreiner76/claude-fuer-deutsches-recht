@@ -16,7 +16,7 @@
 | RAin Dr. Cornelia Schwingenstein-Eichmüller | Vertreter für Reinhard in Teilbereichen | Notariell beglaubigte Vollmacht v. 09.01.2026 |
 | Lucas Pellbach (geb. 07.09.1981) | Käufer (Management-Gesellschafter); GF NewCo | Personalausweis |
 | Dr. Marcus Steinweg | GF Steinheim Capital Partners; GF NewCo | Personalausweis; Handelsregisterauszug Steinheim Cap. Partners |
-| RA Dr. Jens Hollweg | Vertreter Hengeler Mueller für Käuferseite | Vollmacht |
+| RA Dr. Jens Hollweg | Vertreter Wammeshübel Zwirnknäuel & Sozien für Käuferseite | Vollmacht |
 | Annegret Pellbach-Roosendaal | Gesellschafterin Pellbach Verwaltungs-GmbH; unterzeichnet Carve-Out-Vertrag | Personalausweis |
 | Dr. Friedrich Birkenhainer | Notar | — |
 

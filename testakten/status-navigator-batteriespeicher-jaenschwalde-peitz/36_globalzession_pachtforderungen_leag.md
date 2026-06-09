@@ -7,7 +7,7 @@
 ## Vertragsparteien
 
 - **Zedentin:** LausitzStorage 200 GmbH i.G., HRB 12217 Cottbus, vertreten durch Karlheinz Bauernfeind
-- **Zessionar (Security Agent):** Linklaters LLP, Mainzer Landstraße 16, 60325 Frankfurt am Main, für Rechnung des Sicherheitenpools (Akte 34)
+- **Zessionar (Security Agent):** Federfuchs Knöterich & Partner LLP, Mainzer Landstraße 16, 60325 Frankfurt am Main, für Rechnung des Sicherheitenpools (Akte 34)
 - **Drittschuldnerin (Pachtschuldnerin, nicht selbst Vertragspartei):** LEAG Immobilien GmbH, HRB 11842 Cottbus
 
 ## § 1 Abgetretene Forderungen
@@ -72,17 +72,17 @@ Klargestellt wird: Die Abtretung berührt die Verpflichtungen der LausitzStorage
 ## Unterzeichnung
 
 - LausitzStorage: Karlheinz Bauernfeind (Cottbus, 04.09.2025)
-- Linklaters: Dr. Manfred Heiko Burwitz (Frankfurt am Main, 04.09.2025)
+- Federfuchs Knöterich & Partner: Dr. Manfred Heiko Burwitz (Frankfurt am Main, 04.09.2025)
 
 ## Aktenlage
 
-- Original: Linklaters
+- Original: Federfuchs Knöterich & Partner
 - Beglaubigte Kopie LausitzStorage und Pohlmann & Pohlmann (eingegangen 11.09.2025)
 - Anzeige an LEAG: **nicht erfolgt** (stiller Globalzessionsvertrag, nach § 4 erst bei Sicherungsfall vorgesehen)
 
 ## ❗ Befund Statusersteller
 
-Stille Globalzessionsverträge haben in der NordCap-Drawstop-Krise (Akte 13) **eine wichtige Funktion**: Solange die LEAG nichts von der Abtretung weiß, kann sie auf die Kündigungsdrohung (Akte 19) und das Genehmigungsregime-Thema reagieren, ohne in die Konstellation einer Drei-Parteien-Auseinandersetzung NordCap/Linklaters/LausitzStorage gegen LEAG zu kommen. Die offene Anzeige würde die LEAG vorwarnen und das Verhandlungsklima in der Kündigungsabwehr (Akte 19, 32) verschlechtern.
+Stille Globalzessionsverträge haben in der NordCap-Drawstop-Krise (Akte 13) **eine wichtige Funktion**: Solange die LEAG nichts von der Abtretung weiß, kann sie auf die Kündigungsdrohung (Akte 19) und das Genehmigungsregime-Thema reagieren, ohne in die Konstellation einer Drei-Parteien-Auseinandersetzung NordCap/Federfuchs Knöterich & Partner/LausitzStorage gegen LEAG zu kommen. Die offene Anzeige würde die LEAG vorwarnen und das Verhandlungsklima in der Kündigungsabwehr (Akte 19, 32) verschlechtern.
 
 **Status:** wirksam, aber nicht angezeigt. Statusführung: gelb (latent).
 

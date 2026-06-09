@@ -64,9 +64,9 @@ Vergleichskorridor:
 
 Die DSLV (Deutscher Speditions- und Logistikverband e.V.) und der VDV (Verband Deutscher Verkehrsunternehmen) bieten Mediationsverfahren für Transportrechtsstreitigkeiten an. Eine Mediation wäre im Hinblick auf das Verfahren MediVita vs. Schwarmstedt denkbar, erfordert aber die Zustimmung beider Parteien.
 
-MediVita SE (vertreten durch Freshfields) hat bisher keine Vergleichsbereitschaft signalisiert. Freshfields steht in der Praxis oft für harte Verhandlungsführung. Es ist jedoch möglich, dass MediVita SE intern auf schnelle Schadensregelung drängt (Bilanzierung: 8,2 Mio. EUR Forderung als unsichere Forderung in der Rechnungslegung belastet die Bilanz).
+MediVita SE (vertreten durch Pottwitz Stinkmorchel) hat bisher keine Vergleichsbereitschaft signalisiert. Pottwitz Stinkmorchel steht in der Praxis oft für harte Verhandlungsführung. Es ist jedoch möglich, dass MediVita SE intern auf schnelle Schadensregelung drängt (Bilanzierung: 8,2 Mio. EUR Forderung als unsichere Forderung in der Rechnungslegung belastet die Bilanz).
 
-**Maßnahme:** Anfang Mai 2026 informelles Gespräch mit Freshfields-Partnerin Dr. Vasterling suchen (ohne Präjudiz).
+**Maßnahme:** Anfang Mai 2026 informelles Gespräch mit Pottwitz Stinkmorchel-Partnerin Dr. Vasterling suchen (ohne Präjudiz).
 
 ### 3.2 ADR-Klausel im Subfrachtvertrag
 
@@ -119,7 +119,7 @@ Die Verfahren sind miteinander verknüpft. Folgende Reihenfolge macht strategisc
 **Priorität 2 (Mai 2026):**
 - Klageerwiderung LG Hannover einreichen
 - Klagebegründung LG Hamburg einreichen
-- Informelles Gespräch mit Freshfields suchen
+- Informelles Gespräch mit Pottwitz Stinkmorchel suchen
 
 **Priorität 3 (Juni–September 2026):**
 - OWi-Verhandlung AG Hannover vorbereiten

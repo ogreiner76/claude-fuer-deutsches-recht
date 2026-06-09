@@ -24,7 +24,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 - Geschäftsführung: Dr. Cornelius Vellbruck-Steinheim (GF), CFO Annegret Pellbach-Roosendaal.
 - Reviewauftrag: TabellenReview Wittfeldt Federkamp PartG, Federführung Dr. Henrike Wittfeldt-Steinheim (WPin, RAin).
 - Gegenstand: Fortbestehensprognose-Modell v23 (Excel, 18 Sheets, ca. 2.400 Formeln) — Konsistenz, Plausibilität, Formelarchitektur, Versionsabgleich, IDW-S-11-Konformität.
-- Aktenzeichen Reviewer: TR-WF-2026-PFX-0712; Hausnummer Paragrafix: PFX-2026-FoBP-v23.
+- Aktenzeichen Reviewer: TR-QK-2026-PFX-0712; Hausnummer Paragrafix: PFX-2026-FoBP-v23.
 - 10 Findings identifiziert: u.a. zirkulärer Bezug Cashflow/Zinsen (kritisch), Hardcoded-Werte statt Formeln, fehlerhafte Bilanzsummenformel, manipulierte Zinsprognoseannahmen v22→v23, versteckte Sheets mit Restposten.
 - IDW-S-11-Konformität der Fortbestehensprognose fragwürdig; Wirtschaftsprüfer Birkholz & Partner verweigert vorläufig Bestätigungsvermerk.
 - Bank (Mittelstandsbank Nordwest eG) setzt belastbare Fortbestehensprognose als Bedingung für Sanierungskredit (4,5 Mio. EUR) voraus.
@@ -133,7 +133,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 | Verfahrensstrang | Status |
 |---|---|
-| Reviewauftrag | Angenommen; AZ TR-WF-2026-PFX-0712 |
+| Reviewauftrag | Angenommen; AZ TR-QK-2026-PFX-0712 |
 | Modellanalyse v23 | Abgeschlossen; 10 Findings |
 | Versionsvergleich v18–v23 | Abgeschlossen; Manipulationsverdacht Finding 4 |
 | IDW-S-11-Konformität | Lücken festgestellt; Finding 10 offen |

@@ -1,6 +1,6 @@
 # bereicherungs-und-anfechtungsrecht-pruefer
 
-**139 Skills** · Stand `v252.0.0`
+**139 Skills** · Stand `v253.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bereicherungs-und-anfechtungsrecht-pruefer/README.md)

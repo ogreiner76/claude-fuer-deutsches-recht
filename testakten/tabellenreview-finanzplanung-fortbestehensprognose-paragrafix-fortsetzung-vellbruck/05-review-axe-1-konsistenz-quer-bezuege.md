@@ -1,6 +1,6 @@
 # 05 — Review-Achse 1: Konsistenz / Querbezüge
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Datum:** 10./11. Januar 2026
 **Prüfer:** Karsten Federkamp (unter Aufsicht Dr. Wittfeldt-Steinheim)
 

@@ -1,7 +1,7 @@
 # Aktenstück 19 — EAR-Voluntary Self-Disclosure Werkmann Pharma Inc. / BIS
 
 **Erstellt:** 02. Juni 2026
-**Bearbeitung:** Hogan Lovells LLP (Sarah M. Park Esq.); Koordination: RAin Dr. Boekenkamp
+**Bearbeitung:** Brösel Holzapfel & Partner LLP (Bartholomäus Dingelstedt Esq.); Koordination: RAin Dr. Boekenkamp
 **Empfänger:** U.S. Department of Commerce, Bureau of Industry and Security (BIS), Office of Export Enforcement (OEE), 14th Street and Constitution Avenue NW, Washington, DC 20230
 
 ---
@@ -27,7 +27,7 @@ Die VSD enthält folgende Elemente:
 
 ## 3. Erwartetes BIS-Ergebnis
 
-Bei freiwilliger Anzeige eines erstmaligen Verstoßes und angemessener Remediation bewertet Hogan Lovells das BIS-Ergebnis wie folgt:
+Bei freiwilliger Anzeige eines erstmaligen Verstoßes und angemessener Remediation bewertet Brösel Holzapfel & Partner das BIS-Ergebnis wie folgt:
 - **Warning Letter:** Wahrscheinlichstes Ergebnis; keine Bußgeldzahlung
 - **No-Action Letter:** Möglich bei minimaler US-Beteiligung
 - **Civil Penalty:** Unwahrscheinlich bei vollständiger Kooperation
@@ -42,4 +42,4 @@ OFAC und BIS haben eine interinstitutionelle Koordination eingerichtet; die OFAC
 
 ---
 
-*Hogan Lovells LLP — Koordinationsvermerk. Stand: 10. Juni 2026. Vertraulich.*
+*Brösel Holzapfel & Partner LLP — Koordinationsvermerk. Stand: 10. Juni 2026. Vertraulich.*

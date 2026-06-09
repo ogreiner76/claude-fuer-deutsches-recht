@@ -1,6 +1,6 @@
 # 02 — Modellbeschreibung: Fortbestehensprognose Paragrafix GmbH
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Datum:** 09. Januar 2026
 **Modellversion:** v23 (05.01.2026), vorgelegt von CFO Pellbach-Roosendaal
 

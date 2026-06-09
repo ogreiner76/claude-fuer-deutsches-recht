@@ -1,6 +1,6 @@
 # 18 — Handlungsempfehlungen und Fix-Roadmap
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Datum:** 15. Januar 2026
 
 ---

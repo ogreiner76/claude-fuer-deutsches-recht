@@ -2,7 +2,7 @@
 
 **Datum:** 30.05.2026
 **Absender:** NordCap Infrastructure Fund SCS, vertreten durch Pierre Le Bouëdec und Marisa Kraft
-**Adressat:** Karlheinz Bauernfeind als Geschäftsführer der LausitzStorage 200 GmbH (in cc: alle Mitgesellschafter Lindenthal/Stadtwerke; in cc: Pohlmann & Pohlmann, Linklaters)
+**Adressat:** Karlheinz Bauernfeind als Geschäftsführer der LausitzStorage 200 GmbH (in cc: alle Mitgesellschafter Lindenthal/Stadtwerke; in cc: Pohlmann & Pohlmann, Federfuchs Knöterich & Partner)
 **Versandweg:** Einwurf-Einschreiben RM 4274 8842 1 DE, Zugang LausitzStorage 02.06.2026 (Bauernfeind-Sekretariat Zeugin Beate Pawlowski); zusätzlich PDF per E-Mail am 30.05.2026 16:08 Uhr an karlheinz.bauernfeind@lausitzstorage.de
 
 ## Anschreiben
@@ -44,7 +44,7 @@
 - A3: Wandeldarlehen mit Markierung der fehlerhaften Datumsangabe (Akte 09)
 - A4: NordCap-interner Compliance-Vermerk vom 12.12.2025 (Le Bouëdec an Bauernfeind, sechsseitig)
 - A5: LEAG-Schriftwechsel (Akte 19) mit Annotation NordCap
-- A6: Anwaltsmemo Linklaters Frankfurt vom 27.05.2026 zur „Material Adverse Change"-Konstellation
+- A6: Anwaltsmemo Federfuchs Knöterich & Partner Frankfurt vom 27.05.2026 zur „Material Adverse Change"-Konstellation
 - A7: Vorschlag Bestellung Dr. Garnatz (Lebenslauf, Verfügbarkeitsbestätigung)
 
 ## Bauernfeind-Erstantwort (Aktennotiz Pohlmann & Pohlmann vom 03.06.2026)

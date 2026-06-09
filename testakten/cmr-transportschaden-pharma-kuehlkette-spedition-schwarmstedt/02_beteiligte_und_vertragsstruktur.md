@@ -33,7 +33,7 @@ Rechtsform: Societas Europaea (SE)
 Geschäftsfeld: Entwicklung und Vertrieb onkologischer Biopharmazeutika
 BAH-Mitglied seit 2018
 Logistikverantwortlicher: Thorsten Quasdorf (Director Global Supply Chain)
-Anwalt MediVita: Freshfields Bruckhaus Deringer LLP, Düsseldorf (Partner Dr. Lena Vasterling)
+Anwalt MediVita: Pottwitz Stinkmorchel & Eulenspiegel LLP, Düsseldorf (Partner Dr. Lena Vasterling)
 Forderung gegen Schwarmstedt: 8.208.000 EUR (Warenvernichtung) + 250.000 EUR (Folgeschäden, noch zu beziffern)
 Verfahrensrolle: Klägerin in LG Hannover 9 O 244/26
 

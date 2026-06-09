@@ -26,7 +26,7 @@ Erstgespräch am 08. Januar 2026, 10:00 Uhr, Kanzleiräume München, Maximilians
 | Steinheim Capital Partners GmbH & Co. KG | PE-Investor; 60 % NewCo Käufer; vertreten durch Dr. Marcus Steinweg (Managing Partner) | m.steinweg@steinheim-cp.de |
 | Pellbach Werkzeugbau GmbH & Co. KG | Zielgesellschaft (Target); HRB 8841 Passau | — |
 | Pellbach Verwaltungs-GmbH | Komplementär-GmbH; HRB 9104 Passau | — |
-| Tokio Heavy Industries Co., Ltd. | Konkurrenzbieter (Stratege, Japan) | c/o Freshfields München |
+| Tokio Heavy Industries Co., Ltd. | Konkurrenzbieter (Stratege, Japan) | c/o Pottwitz Stinkmorchel München |
 | Dr. Friedrich Birkenhainer | Notar Passau; UR-Nr. 188/26 | birkenhainer-notar@passau.de |
 | StB Dr. Helmut Haslinger | Steuerberater Pellbach; KPMG München | h.haslinger@kpmg.de |
 | BKartA | Bundeskartellamt; Az. B 6-188/26 | — |
@@ -39,7 +39,7 @@ Erstgespräch am 08. Januar 2026, 10:00 Uhr, Kanzleiräume München, Maximilians
 
 Recherche im Kanzlei-Konfliktsystem: Weder Steinheim Capital Partners noch Tokio Heavy Industries noch eine der Pellbach-Gesellschaften ist in anderen aktiven Mandaten der Kanzlei als Partei erfasst. Eine frühere Beratung der Pellbach Werkzeugbau GmbH & Co. KG durch unsere Kanzlei im Jahr 2019 (Grundstückskauf Industriestraße 46) betraf eine andere Angelegenheit und begründet keinen Konflikt zum vorliegenden Transaktion.
 
-**Hinweis auf Mehrfachinteressen:** Formell vertreten wir Herrn Reinhard Pellbach-Wittfeldt als Verkäufer. Lucas Pellbach als Käufer wird durch eigene Berater (Hengeler Mueller, Frankfurt) vertreten. Insoweit kein gemeinsames Mandat auf Käuferseite.
+**Hinweis auf Mehrfachinteressen:** Formell vertreten wir Herrn Reinhard Pellbach-Wittfeldt als Verkäufer. Lucas Pellbach als Käufer wird durch eigene Berater (Wammeshübel Zwirnknäuel & Sozien, Frankfurt) vertreten. Insoweit kein gemeinsames Mandat auf Käuferseite.
 
 ---
 
@@ -71,7 +71,7 @@ Stundenhonorar: RAin Dr. Schwingenstein-Eichmüller 480 EUR/h; Ass. Hartmannsgru
 - [ ] Vertraulichkeitsvereinbarung (NDA) mit Steinheim Capital Partners und Tokio Heavy Industries zeichnen
 - [ ] Virtual Data Room (VDR) bei Datasite einrichten; Zugangsbeschränkungen nach NDA-Status
 - [ ] Erste Kontaktaufnahme mit BKartA (informelles Vorgespräch)
-- [ ] Anwaltlichen Gegenüber bei Steinheim identifizieren (Hengeler Mueller Frankfurt bestätigt)
+- [ ] Anwaltlichen Gegenüber bei Steinheim identifizieren (Wammeshübel Zwirnknäuel & Sozien Frankfurt bestätigt)
 - [ ] Annegret Pellbach-Roosendaal: Gespräch über Herauslösung GB Präzisionsdrehteile koordinieren
 
 **Bearbeiterin:** RAin Dr. Cornelia Schwingenstein-Eichmüller | SuP/2026-0041-CES | 08.01.2026

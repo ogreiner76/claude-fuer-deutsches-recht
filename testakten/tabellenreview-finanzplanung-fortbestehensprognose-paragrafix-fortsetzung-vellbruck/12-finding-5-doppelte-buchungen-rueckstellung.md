@@ -1,6 +1,6 @@
 # 12 — Finding 5: Doppelte Buchungen Rückstellung Pensionen
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Finding-ID:** F-05
 **Schwere:** Mittel–Hoch
 **Entdeckt:** 12. Januar 2026

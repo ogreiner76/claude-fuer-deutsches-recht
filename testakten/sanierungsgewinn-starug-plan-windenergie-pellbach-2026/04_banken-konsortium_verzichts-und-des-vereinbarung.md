@@ -12,8 +12,8 @@
 **Beraterinnen:**
 
 - Reinkeller Sanierungsrecht, Berlin (für Schuldnerin)
-- Hengeler Mueller (für NordKurland Bank AG, Konsortialführerin)
-- Hogan Lovells (für Commerzbank AG)
+- Wammeshübel Zwirnknäuel & Sozien (für NordKurland Bank AG, Konsortialführerin)
+- Brösel Holzapfel & Partner (für Commerzbank AG)
 - Inhouse-Justiziar Frau Dr. Brendt (für ILB)
 
 **Datum:** 10.03.2026 (Letter of Intent); finale Plan-Anlage 30.05.2026

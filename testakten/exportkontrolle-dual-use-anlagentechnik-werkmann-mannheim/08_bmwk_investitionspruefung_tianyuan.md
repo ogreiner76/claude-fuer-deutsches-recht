@@ -51,7 +51,7 @@ Das BMWK erwartet von Erwerber und Zielgesellschaft eine vollständige Offenlegu
 
 | Unterlage | Zuständig | Frist |
 |---|---|---|
-| Gesellschaftsstruktur TianYuan inkl. SASAC-Beteiligung | TianYuan-Rechtsabteilung / Freshfields Beijing | 01. Mai 2026 |
+| Gesellschaftsstruktur TianYuan inkl. SASAC-Beteiligung | TianYuan-Rechtsabteilung / Pottwitz Stinkmorchel Beijing | 01. Mai 2026 |
 | Technologiebeschreibung Werkmann (Produkte, Patente, IP) | Werkmann CTO Sollinger-Baum | 05. Mai 2026 |
 | Businessplan post-Akquisition | TianYuan Strategy | 10. Mai 2026 |
 | Offenlegung BAFA OWi-Verfahren | Dr. Boekenkamp | 15. Mai 2026 |

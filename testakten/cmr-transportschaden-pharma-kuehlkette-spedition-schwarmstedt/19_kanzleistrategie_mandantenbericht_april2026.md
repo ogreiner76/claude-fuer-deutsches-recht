@@ -19,7 +19,7 @@ ich möchte Ihnen nach nunmehr sechs Wochen Mandatsführung einen umfassenden Ü
 
 ## 2. Verfahren LG Hannover 9 O 244/26 (Hauptsache)
 
-**Gegen Schwarmstedt klagende Partei:** MediVita SE (Freshfields)
+**Gegen Schwarmstedt klagende Partei:** MediVita SE (Pottwitz Stinkmorchel)
 **Forderung:** 8.458.000 EUR
 
 **Verfahrensstand:**

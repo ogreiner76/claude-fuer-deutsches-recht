@@ -67,7 +67,7 @@ Zwischenbericht KPMG Law (Datum: 31. März 2026) — Kernaussagen:
 ## 4. Handlungsempfehlungen
 
 1. **Strafanzeige erwägen:** Werkmann sollte eine freiwillige Strafanzeige bei der Staatsanwaltschaft Frankfurt (Wirtschaftsabteilung) prüfen, um einer etwaigen behördlich eingeleiteten Strafverfolgung zuvorzukommen und Kronzeugenstatus zu erlangen.
-2. **FCPA Voluntary Disclosure:** Hogan Lovells Washington prüft Voluntary Self-Disclosure beim DOJ/SEC. Fristen sind kurz; Entscheidung bis 15. April 2026 erforderlich.
+2. **FCPA Voluntary Disclosure:** Brösel Holzapfel & Partner Washington prüft Voluntary Self-Disclosure beim DOJ/SEC. Fristen sind kurz; Entscheidung bis 15. April 2026 erforderlich.
 3. **Kündigung Handelsvertretervertrag:** Al-Quwairy-Vertrag aus wichtigem Grund (§ 89a HGB) mit sofortiger Wirkung kündigen — rechtliche Grundlage: Straftat des HV als wichtiger Grund.
 4. **Ausstehende Provisionen einfrieren:** Die für 2026 fälligen Provisionen (ca. 180.000 EUR) sind vorerst zurückzubehalten; Treuhandkonto erwägen.
 5. **Mitarbeiterbefragung Enders:** Interne Befragung von Klaus-Peter Enders durch externe Kanzlei (nicht Salzgitter, Boekenkamp — Interessenkonflikt vermeiden); Personalrechtliche Maßnahmen prüfen.

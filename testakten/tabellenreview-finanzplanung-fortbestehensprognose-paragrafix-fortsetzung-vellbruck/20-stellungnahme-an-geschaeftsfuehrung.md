@@ -1,6 +1,6 @@
 # 20 — Stellungnahme an die Geschäftsführung Paragrafix GmbH
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Datum:** 15. Januar 2026
 **Absender:** Dr. Henrike Wittfeldt-Steinheim, TabellenReview Wittfeldt Federkamp PartG
 **Empfänger:** Dr. Cornelius Vellbruck-Steinheim (GF), Annegret Pellbach-Roosendaal (CFO)

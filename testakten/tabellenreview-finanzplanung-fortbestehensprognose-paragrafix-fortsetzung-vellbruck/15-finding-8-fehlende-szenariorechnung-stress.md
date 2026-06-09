@@ -1,6 +1,6 @@
 # 15 — Finding 8: Fehlende Szenariorechnung Stress/Downside
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Finding-ID:** F-08
 **Schwere:** Kritisch
 **Entdeckt:** 12. Januar 2026

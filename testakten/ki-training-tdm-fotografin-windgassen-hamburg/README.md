@@ -35,7 +35,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | # | Komplex | Skill(s) | AZ | Status |
 |---|---|---|---|---|
 | 1 | KI-Training-Opt-out § 44b UrhG (ImagineArt Inc. / LAION-5B) | `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` | LG Hamburg 308 O 79/26 | Klagevorbereitung |
-| 2 | Filesharing-Abmahnung Waldorf Frommer (Sohn Felix, 14 J.) | `fachanwalt-urheber-medienrecht-filesharing-verteidigung` | AG München 155 C 18801/26 | Frist 30.01.2026 |
+| 2 | Filesharing-Abmahnung Quetschenpaua & Kollegen (Sohn Felix, 14 J.) | `fachanwalt-urheber-medienrecht-filesharing-verteidigung` | AG München 155 C 18801/26 | Frist 30.01.2026 |
 | 3 | Lizenzvertrag-Verhandlung Bildband (Mare GmbH) | `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` | außergerichtlich | Verhandlung offen |
 | 4 | Presserechtliche Gegendarstellung (Eppendorfer Wochenanzeiger) | `fachanwalt-urheber-medienrecht-presse-gegendarstellung` + `fachanwalt-urheber-medienrecht-gegendarstellung-presse` | außergerichtlich | Frist 30.01.2026 |
 | 5 | Schiedsstelle DPMA / VGG (KI-Training-Vergütung) | `fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg` | Sch-Urh 32/26 | Termin 17.03.2026 |
@@ -93,7 +93,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | Martin Windgassen | Ehemann der Mandantin (kein Tätervorwurf) |
 | Lia Windgassen (19 J.) | Tochter, Kunststudentin (Collage-Problematik) |
 | ImagineArt Inc., Delaware/USA | Beklagte KI-Unternehmen (Klage LG Hamburg) |
-| Waldorf Frommer Rechtsanwälte, München | Abmahnkanzlei (Filesharing) |
+| Quetschenpaua & Kollegen Rechtsanwälte, München | Abmahnkanzlei (Filesharing) |
 | Mare GmbH, Hamburg | Verlagshaus (Lizenzstreit Bildband) |
 | Eppendorfer Wochenanzeiger GmbH | Gegendarstellungsgegner |
 | VG Bild-Kunst, Bonn | Verwertungsgesellschaft / Schiedsstellenantragstellerin |
@@ -111,7 +111,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | 02 | `02_mandantengespraech_erstaufnahme.md` | Erstgespräch-Protokoll, Sachverhalt |
 | 03 | `03_tdm_opt_out_prüfung_§44b_urhg.md` | Rechtsgutachten § 44b UrhG, Opt-out-Analyse |
 | 04 | `04_laion_serverlog_analyse.md` | IT-Forensik Barkhoff: CCBot-Crawl-Nachweis |
-| 05 | `05_filesharing_abmahnung_waldorf_frommer.md` | Abmahnungsanalyse + Verteidigungsstrategie |
+| 05 | `05_filesharing_abmahnung_quetschenpaua_kollegen.md` | Abmahnungsanalyse + Verteidigungsstrategie |
 | 06 | `06_lizenzvertrag_mare_analyse.md` | Lizenzvertrag 2019, Auslegungsstreit Buyout |
 | 07 | `07_gegendarstellung_eppendorfer_wochenanzeiger.md` | Presserecht, Gegendarstellungsentwurf |
 | 08 | `08_schiedsstelle_dpma_vgg_antrag.md` | Schiedsstellenverfahren Sch-Urh 32/26 |
@@ -151,14 +151,14 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | Datei | Inhalt |
 |---|---|
 | `mare_bildband_angebot_2026-01-12.eml` | Mare GmbH: Bildband-Angebot 1.200 EUR |
-| `waldorf_frommer_abmahnung_eingang_2026-01-09.eml` | Waldorf Frommer: Abmahnungs-E-Mail (06.01.2026) |
+| `quetschenpaua_kollegen_abmahnung_eingang_2026-01-09.eml` | Quetschenpaua & Kollegen: Abmahnungs-E-Mail (06.01.2026) |
 | `dpma_schiedsstelle_terminsladung_2026-01-20.eml` | DPMA-Schiedsstelle: Ladung zum Termin 17.03.2026 |
 | `windgassen_an_kreidler_bremer_sohn_felix_2026-01-23.eml` | Mandantin an RA: Mitteilung nach Felix-Gespräch |
 
 ### pdfs/ (2 PDFs, redacted)
 | Datei | Inhalt |
 |---|---|
-| `waldorf_frommer_abmahnung_redacted.pdf` | Waldorf-Frommer-Abmahnung (Rechteinhaber, IP, Hashes geschwärzt) |
+| `quetschenpaua_kollegen_abmahnung_redacted.pdf` | Quetschenpaua & Kollegen-Abmahnung (Rechteinhaber, IP, Hashes geschwärzt) |
 | `serverlog_robots_txt_auszug_redacted.pdf` | Serverlog-Auszug IT-Forensik Barkhoff + robots.txt/ai.txt (Besucher-IPs geschwärzt) |
 
 ### jpg/ (3 Bilder)

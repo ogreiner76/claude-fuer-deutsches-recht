@@ -2,7 +2,7 @@
 
 **Erstellt:** 15. Juni 2026
 **Bearbeitung:** RAin Dr. Carola Boekenkamp (federführend)
-**Teilnehmer Strategiebesprechung 12.06.2026:** GF Dr. Werkmann-Lottermann, CFO Florian Reusch, RAin Dr. Boekenkamp, RAin Goller-Neuss, Hogan Lovells (telefonisch)
+**Teilnehmer Strategiebesprechung 12.06.2026:** GF Dr. Werkmann-Lottermann, CFO Florian Reusch, RAin Dr. Boekenkamp, RAin Goller-Neuss, Brösel Holzapfel & Partner (telefonisch)
 
 ---
 

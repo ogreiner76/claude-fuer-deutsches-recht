@@ -451,7 +451,7 @@ Halluzinations-Reparatur Bundle 026:
 
 ## 1) Klassische Konstellation
 
-- Abmahnung Kanzlei (Waldorf Frommer, .rka, FAREDS) wegen Film / Serie / Software
+- Abmahnung Filesharing-Kanzlei wegen Film / Serie / Software
 - Streitwert behauptet hoch (10-50 K)
 - Aufforderung Unterlassungs-Erklärung + Zahlung
 

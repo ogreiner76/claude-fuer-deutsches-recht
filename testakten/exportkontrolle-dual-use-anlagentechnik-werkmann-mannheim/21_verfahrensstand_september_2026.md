@@ -37,7 +37,7 @@ Der Arrest-Beschluss des LG Frankfurt (3-21 O 144/26) vom 04. Mai 2026 ist vollz
 
 ## 5. DOJ FCPA
 
-Die VSD wurde am 14. Juli 2026 beim DOJ eingereicht. DOJ hat den Eingang bestätigt (Bestätigung vom 22. Juli 2026) und eine Bearbeitungszeit von 18–24 Monaten angegeben. Hogan Lovells bewertet die Lage weiterhin als günstig für eine Declination.
+Die VSD wurde am 14. Juli 2026 beim DOJ eingereicht. DOJ hat den Eingang bestätigt (Bestätigung vom 22. Juli 2026) und eine Bearbeitungszeit von 18–24 Monaten angegeben. Brösel Holzapfel & Partner bewertet die Lage weiterhin als günstig für eine Declination.
 
 ---
 
@@ -55,7 +55,7 @@ Die CBAM-Korrekturmeldungen für 2024 wurden am 28. Juli 2026 bei der Bundeszoll
 
 ## 8. Ausblick
 
-Die Mandantin hat die akuteste Phase der Krise überstanden. Die wichtigsten Verfahren sind entweder abgeschlossen (BAFA, CBAM) oder verlaufen plangemäß (ICC, BMWK, OFAC). Die DOJ FCPA-Prüfung bleibt der größte verbleibende Unsicherheitsfaktor; Hogan Lovells beobachtet das Verfahren engmaschig.
+Die Mandantin hat die akuteste Phase der Krise überstanden. Die wichtigsten Verfahren sind entweder abgeschlossen (BAFA, CBAM) oder verlaufen plangemäß (ICC, BMWK, OFAC). Die DOJ FCPA-Prüfung bleibt der größte verbleibende Unsicherheitsfaktor; Brösel Holzapfel & Partner beobachtet das Verfahren engmaschig.
 
 Die Überarbeitung des ICP ist abgeschlossen (Abschlussbericht KPMG Law: 31. August 2026). Die neue Exportkontrollbeauftragte Dr. Martina Heller-Krentz (ehem. BAFA-Referatsleiterin) hat ihre Stelle am 01. September 2026 angetreten.
 

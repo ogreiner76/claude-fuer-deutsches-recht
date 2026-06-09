@@ -12,7 +12,7 @@
 |---|---|---|---|---|
 | 14.01.2026 | Erstgespräch + Interessenkonfliktprüfung + Mandatsannahme | 2,5 Std. | 380 EUR | 950 EUR |
 | 14.01.2026 | Diktat Aktennotiz Erstgespräch | 0,5 Std. | 380 EUR | 190 EUR |
-| 16.01.2026 | Aktenstudium Waldorf-Frommer-Abmahnung | 1,0 Std. | 380 EUR | 380 EUR |
+| 16.01.2026 | Aktenstudium Quetschenpaua & Kollegen-Abmahnung | 1,0 Std. | 380 EUR | 380 EUR |
 | 18.01.2026 | Beauftragung IT-Forensik Barkhoff; Anfrage Hetzner | 0,8 Std. | 380 EUR | 304 EUR |
 | 20.01.2026 | Rechtsgutachten § 44b UrhG (Entwurf 12 Seiten) | 3,5 Std. | 380 EUR | 1.330 EUR |
 | 21.01.2026 | Bewertung Filesharing-Abmahnung; Mod.-Ü-Entwurf | 2,0 Std. | 380 EUR | 760 EUR |

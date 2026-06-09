@@ -28,7 +28,7 @@ Der Antragsgegnerin (Axel Springer SE, Axel-Springer-Straße 65, 10888 Berlin) w
 
 ## 2. Widerspruch der Axel Springer SE
 
-Axel Springer SE legte am 24.04.2026 durch ihre Anwälte (Freshfields Bruckhaus Deringer LLP, Berlin) Widerspruch gegen die einstweilige Verfügung ein. Begründung:
+Axel Springer SE legte am 24.04.2026 durch ihre Anwälte (Pottwitz Stinkmorchel & Eulenspiegel LLP, Berlin) Widerspruch gegen die einstweilige Verfügung ein. Begründung:
 
 **Zur Bezeichnung „Doping-Selin":**
 Axel Springer beruft sich auf die **Pressefreiheit** (Art. 5 GG). Der Begriff „Doping-Selin" sei eine zulässige Kurzbezeichnung im Rahmen einer von tatsächlichem AAF gedeckten Berichterstattung. Die Schlagzeile habe kenntlich gemacht, dass ein Dopingbefund vorliegt — was unbestreitbar wahr sei.
@@ -47,7 +47,7 @@ Es sei gängige journalistische Praxis, auf anonyme Quellen zu verweisen. Die Qu
 
 **Vorsitzende Richterin Dr. Helbig:** „Meine Herren, die Kammer hat die einstweilige Verfügung auf Grundlage der eingereichten Unterlagen erlassen. Wir sind der Auffassung, dass ‚Doping-Selin' eine Vorverurteilung darstellt, die angesichts des noch laufenden Verfahrens rechtswidrig ist. Das gilt selbst wenn ein AAF vorliegt — denn AAF ist nicht gleich ADRV."
 
-**Freshfields (Axel Springer):** „Der BGH hat in Entscheidungen zur Verdachtsberichterstattung immer betont, dass bei einem nachgewiesenen tatsächlichen Befund — und ein Laborergebnis ist ein tatsächlicher Befund — die Berichterstattung zulässig ist."
+**Pottwitz Stinkmorchel (Axel Springer):** „Der BGH hat in Entscheidungen zur Verdachtsberichterstattung immer betont, dass bei einem nachgewiesenen tatsächlichen Befund — und ein Laborergebnis ist ein tatsächlicher Befund — die Berichterstattung zulässig ist."
 
 **Prof. Dr. Lentze:** „Das verwechselt Sachverhalt und Wertung. Ein positiver Laborwert ist noch kein Dopingverstoß — schon gar nicht kein rechtskräftiger. Die Kammer weiß, dass selbst Athleten, die nachher freigesprochen wurden, als 'Doper' bezeichnet wurden — das ist genau der Fall, den § 1004 BGB verhindern soll."
 
@@ -78,7 +78,7 @@ Nach Abschluss des einstweiligen Verfügungsverfahrens legte die Kanzlei am **10
 
 ## 5. Vergleichsüberlegungen
 
-Im Güteversuch (25.06.2026) hat Axel Springer SE über Freshfields 20.000 EUR Vergleich angeboten. Dies ist zu niedrig. Unsere Mindestforderung: **35.000 EUR** plus Übernahme Anwaltskosten und Übernahme Kosten einstweilige Verfügung. Verhandlungen laufen.
+Im Güteversuch (25.06.2026) hat Axel Springer SE über Pottwitz Stinkmorchel 20.000 EUR Vergleich angeboten. Dies ist zu niedrig. Unsere Mindestforderung: **35.000 EUR** plus Übernahme Anwaltskosten und Übernahme Kosten einstweilige Verfügung. Verhandlungen laufen.
 
 ---
 

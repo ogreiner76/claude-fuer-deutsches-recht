@@ -39,9 +39,9 @@ Sie sei sich aber nicht sicher, ob das den KI-Crawlern ausreiche. Außerdem habe
 
 ### Januar 2026 — Filesharing-Abmahnung
 
-Am 09.01.2026 sei eine Abmahnung von Waldorf Frommer Rechtsanwälte, München, im Briefkasten gewesen. Ihr Sohn Felix, 14 Jahre, habe zugegeben, über BitTorrent drei Filme geteilt zu haben. Felix benutze einen PC im Kinderzimmer, die Eltern hätten kein Jugendschutz-Filter eingerichtet gehabt. Windgassen habe einen eigenen Router (FritzBox 7590, Anschluss Deutsche Telekom) — sie ist alleinige Anschlussinhaberin, ihr Ehemann Martin Windgassen arbeite häufig im Homeoffice, sei aber kein technikaffiner Nutzer. Außer Felix und Martin gäbe es keine weiteren Personen mit regelmäßigem Zugang zum WLAN.
+Am 09.01.2026 sei eine Abmahnung von Quetschenpaua & Kollegen Rechtsanwälte, München, im Briefkasten gewesen. Ihr Sohn Felix, 14 Jahre, habe zugegeben, über BitTorrent drei Filme geteilt zu haben. Felix benutze einen PC im Kinderzimmer, die Eltern hätten kein Jugendschutz-Filter eingerichtet gehabt. Windgassen habe einen eigenen Router (FritzBox 7590, Anschluss Deutsche Telekom) — sie ist alleinige Anschlussinhaberin, ihr Ehemann Martin Windgassen arbeite häufig im Homeoffice, sei aber kein technikaffiner Nutzer. Außer Felix und Martin gäbe es keine weiteren Personen mit regelmäßigem Zugang zum WLAN.
 
-Abgemahnte Werke laut Schreiben Waldorf Frommer:
+Abgemahnte Werke laut Schreiben Quetschenpaua & Kollegen:
 1. „Oppenheimer" (Christopher Nolan, Universal, 2023)
 2. „Barbie" (Greta Gerwig, Warner Bros., 2023)
 3. „Mission Impossible: Dead Reckoning Part One" (McQuarrie, Paramount, 2023)

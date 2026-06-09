@@ -1,4 +1,4 @@
-# Kontoverpfändungsvertrag LausitzStorage 200 ./. Linklaters LLP (Security Agent)
+# Kontoverpfändungsvertrag LausitzStorage 200 ./. Federfuchs Knöterich & Partner LLP (Security Agent)
 
 **Datum:** 04.09.2025
 **Form:** privatschriftlich, dreifach
@@ -7,7 +7,7 @@
 ## Vertragsparteien
 
 - **Verpfänderin:** LausitzStorage 200 GmbH i.G., HRB 12217 Cottbus, vertreten durch Karlheinz Bauernfeind
-- **Pfandnehmer (Security Agent):** Linklaters LLP, Mainzer Landstraße 16, 60325 Frankfurt am Main, im Auftrag des Sicherheitenpools nach Sicherheitenpoolvertrag vom 04.09.2025 (Akte 34)
+- **Pfandnehmer (Security Agent):** Federfuchs Knöterich & Partner LLP, Mainzer Landstraße 16, 60325 Frankfurt am Main, im Auftrag des Sicherheitenpools nach Sicherheitenpoolvertrag vom 04.09.2025 (Akte 34)
 - **Drittschuldnerin:** Commerzbank AG, Niederlassung Cottbus, Karl-Liebknecht-Straße 116, 03046 Cottbus
 
 ## § 1 Verpfändete Konten und Forderungen
@@ -76,12 +76,12 @@ Die Commerzbank hat mit Schreiben vom **15.09.2025** (Aktenzeichen KredKom-Lausi
 ## Unterzeichnung
 
 - LausitzStorage: Karlheinz Bauernfeind (Cottbus, 04.09.2025)
-- Linklaters: Dr. Manfred Heiko Burwitz (Frankfurt am Main, 04.09.2025)
+- Federfuchs Knöterich & Partner: Dr. Manfred Heiko Burwitz (Frankfurt am Main, 04.09.2025)
 - Anzeigenempfang Commerzbank: Heike Pankratz (Cottbus, 09.09.2025, Posteingangsstempel)
 
 ## Aktenlage
 
-- Original mit Anzeigeneingangsstempel: Linklaters
+- Original mit Anzeigeneingangsstempel: Federfuchs Knöterich & Partner
 - Beglaubigte Kopie LausitzStorage und Pohlmann & Pohlmann (eingegangen 11.09.2025)
 - Bankseitige Bestätigung 15.09.2025 (KredKom-LausitzStorage-2025/2174) in Datev-Archiv Mandant L-200
 

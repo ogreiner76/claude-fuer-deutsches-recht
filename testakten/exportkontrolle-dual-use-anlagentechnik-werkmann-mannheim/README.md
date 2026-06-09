@@ -84,7 +84,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 | 14 | [`14_nasseri_ip_schutz_geschaeftsgeheimnis.md`](14_nasseri_ip_schutz_geschaeftsgeheimnis.md) | Geschäftsgeheimnisschutz §§ 2/6/23 GeschGehG, IT-Forensik |
 | 15 | [`15_tianyuan_due_diligence_sasac_struktur.md`](15_tianyuan_due_diligence_sasac_struktur.md) | TianYuan Due Diligence, SASAC-Beteiligung, Technologietransfer-Risiko |
 | 16 | [`16_icc_verfahrensstand_schiedsgericht_konstituierung.md`](16_icc_verfahrensstand_schiedsgericht_konstituierung.md) | ICC Schiedsgericht konstituiert, ToR, Preliminary Session, Zeitplan |
-| 17 | [`17_ofac_response_hogan_lovells.md`](17_ofac_response_hogan_lovells.md) | OFAC-Response Werkmann Pharma Inc., SDN-Risikobewertung |
+| 17 | [`17_ofac_response_broesel_holzapfel.md`](17_ofac_response_broesel_holzapfel.md) | OFAC-Response Werkmann Pharma Inc., SDN-Risikobewertung |
 | 18 | [`18_oecd_fcpa_selbstpruefung_antikorruption.md`](18_oecd_fcpa_selbstpruefung_antikorruption.md) | OECD-Selbstprüfung, FCPA-VSD beim DOJ, Checkliste Anti-Korruption |
 | 19 | [`19_werkmann_pharma_inc_ear_vsd_bericht.md`](19_werkmann_pharma_inc_ear_vsd_bericht.md) | EAR-VSD bei BIS, US-Komponentenanalyse, Remediation |
 | 20 | [`20_gesamtstrategie_verfahrenskoordination.md`](20_gesamtstrategie_verfahrenskoordination.md) | Gesamtstrategie, Verfahrensübersicht, Risikomatrix |
@@ -155,4 +155,4 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 
 Bearbeiterin: **RAin Dr. Carola Boekenkamp (LL.M. London)**, Salzgitter, Boekenkamp & Trautmannsdorf Rechtsanwaltsgesellschaft mbH, Frankfurt am Main
 Bearbeiterinnen: RAin Tamara Goller-Neuss (Strafrecht/Compliance); RAin Katharina Schreiner (Schiedsverfahren); Ass. Rüdiger Pfaff (Exportkontrolle); Ass. Klaus Wiethölter (Investitionsprüfung)
-Externe Koordination: Hogan Lovells LLP, Washington D.C.
+Externe Koordination: Brösel Holzapfel & Partner LLP, Washington D.C.

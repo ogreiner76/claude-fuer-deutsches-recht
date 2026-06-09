@@ -8,7 +8,7 @@
 
 ## 1. MAC-Klausel — Grundstruktur (SPA v3, Klausel 11)
 
-### Käufer-Entwurf (Steinheim, Hengeler Mueller)
+### Käufer-Entwurf (Steinheim, Wammeshübel Zwirnknäuel & Sozien)
 
 „Material Adverse Change" ist definiert als jedes Ereignis, jede Umstandsveränderung oder Entwicklung, die — einzeln oder zusammen — eine wesentliche nachteilige Auswirkung auf die Geschäftstätigkeit, das Vermögen, die Ertragslage oder die Finanzlage der Pellbach-Gruppe hat, und zwar mit einem negativen Effekt von mindestens 5 Mio. EUR auf den Unternehmenswert.
 

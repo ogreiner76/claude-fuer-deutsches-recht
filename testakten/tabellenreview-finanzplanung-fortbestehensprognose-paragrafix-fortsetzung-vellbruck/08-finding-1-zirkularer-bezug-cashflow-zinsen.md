@@ -1,6 +1,6 @@
 # 08 — Finding 1: Zirkulärer Bezug Cashflow / Zinsen
 
-**Aktenzeichen:** TR-WF-2026-PFX-0712
+**Aktenzeichen:** TR-QK-2026-PFX-0712
 **Finding-ID:** F-01
 **Schwere:** Kritisch
 **Entdeckt:** 11. Januar 2026
