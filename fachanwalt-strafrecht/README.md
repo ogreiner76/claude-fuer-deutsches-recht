@@ -22,6 +22,19 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
+## Anwalts-Dashboard fuer den Schnelleinstieg
+
+Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
+Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
+Zustaendigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
+Norm-Radar, Leitentscheidungs-Anker und genau eine Rueckfrage - bei
+klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
+
+Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
+| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
+| Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md).
+
+
 ## Was dieses Plugin im Strafprozess leistet
 
 Dieses Plugin ist als Arbeitscockpit für Strafverteidigung gedacht: nicht nur für die große Strategie, sondern für die täglichen Schritte einer laufenden Strafakte. Es ordnet Eingänge, markiert Fristen, baut Aktenlog und Wiedervorlagen, steuert Akteneinsicht, U-Haft, Pflichtverteidigung, Hauptverhandlung, Antragslog, Mandanteninstruktionen, Rechtsmittel und Vollstreckungsnachlauf.
