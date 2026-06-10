@@ -7,7 +7,7 @@ description: "Transport § 431 HGB: fachanwaltlicher Spezial-Skill mit Normenank
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Transport § 431 HGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Transport § 431 HGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

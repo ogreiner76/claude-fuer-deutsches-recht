@@ -1,6 +1,6 @@
 ---
 name: hauszitierweise-juristische-kommentar
-description: "Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: medienverfuegung-beweislast-und-darlegungslast
-description: "Medienverfuegung: Beweislast, Darlegungslast und Substantiierung: Medienverfuegung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt urheber medienrecht."
+description: "Medienverfuegung: Beweislast, Darlegungslast und Substantiierung: Medienverfuegung: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Medienverfuegung: Beweislast, Darlegungslast und Substantiierung
@@ -14,7 +14,7 @@ description: "Medienverfuegung: Beweislast, Darlegungslast und Substantiierung: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Medienverfuegung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt urheber medienrecht.
+**Fokus:** Medienverfuegung: Beweislast, Darlegungslast und Substantiierung.
 
 ## Spezialwissen: Medienverfuegung: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

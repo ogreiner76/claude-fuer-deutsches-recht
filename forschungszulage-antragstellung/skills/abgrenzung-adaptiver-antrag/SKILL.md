@@ -1,6 +1,6 @@
 ---
 name: abgrenzung-adaptiver-antrag
-description: "Abgrenzung: Compliance-Dokumentation und Aktenvermerk im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Abgrenzung: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Abgrenzung: Compliance-Dokumentation und Aktenvermerk

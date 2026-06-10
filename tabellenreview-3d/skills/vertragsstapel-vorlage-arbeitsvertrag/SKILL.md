@@ -1,6 +1,6 @@
 ---
 name: vertragsstapel-vorlage-arbeitsvertrag
-description: "Vertragsstapel: Internationaler Bezug und Schnittstellen im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Vertragsstapel: Internationaler Bezug und Schnittstellen."
 ---
 
 # Vertragsstapel: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: qualitaetspruefung-beweislast-und-darlegungslast
-description: "Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung

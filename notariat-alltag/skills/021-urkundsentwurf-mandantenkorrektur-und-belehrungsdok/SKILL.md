@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur und Belehru
 
 ## Zweck und Anwendungsbereich
 
-Die Entwurfsphase ist rechtlich und haftungsrechtlich kritisch. Dieser Skill strukturiert den Entwurfsprozess, die Mandantenkommunikation, den Entwurfsversand mit Fristberechnung und die Dokumentation der Belehrung nach § 17 BeurkG.
+Die Entwurfsphase ist rechtlich und haftungsrechtlich kritisch. Strukturiere den Entwurfsprozess, die Mandantenkommunikation, den Entwurfsversand mit Fristberechnung und die Dokumentation der Belehrung nach § 17 BeurkG.
 
 Rechtsgrundlagen: § 17 BeurkG (Belehrungspflicht, Entwurfsversand, Wartefrist), § 17 Abs. 2a BeurkG (Verbraucherwartefrist 14 Tage), § 14 BNotO (Unparteilichkeit), § 15 BeurkG (Niederschrift), DONot §§ 13–19 (Urkundsführung, Aufbewahrung), GNotKG § 8 (Auslagenpauschale Entwurf).
 

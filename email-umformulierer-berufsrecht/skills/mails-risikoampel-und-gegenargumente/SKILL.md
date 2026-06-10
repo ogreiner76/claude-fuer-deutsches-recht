@@ -1,6 +1,6 @@
 ---
 name: mails-risikoampel-und-gegenargumente
-description: "Mails: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Mails: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Mails: Risikoampel, Gegenargumente und Verteidigungslinien

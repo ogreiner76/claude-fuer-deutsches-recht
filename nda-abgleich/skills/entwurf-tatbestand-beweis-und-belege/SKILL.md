@@ -1,6 +1,6 @@
 ---
 name: entwurf-tatbestand-beweis-und-belege
-description: "Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin nda abgleich im NDA-Abgleich."
+description: "Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage

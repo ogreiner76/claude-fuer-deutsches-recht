@@ -1,6 +1,6 @@
 ---
 name: fahrtkosten-festsetzung-interessen
-description: "Fahrtkosten: Behörden-, Gerichts- oder Registerweg im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Fahrtkosten: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Fahrtkosten: Behörden-, Gerichts- oder Registerweg

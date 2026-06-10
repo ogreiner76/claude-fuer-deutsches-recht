@@ -1,6 +1,6 @@
 ---
 name: gleicht-erstpruefung-und-mandatsziel
-description: "Gleicht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin nda abgleich im NDA-Abgleich."
+description: "Gleicht: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Gleicht: Erstprüfung, Rollenklärung und Mandatsziel

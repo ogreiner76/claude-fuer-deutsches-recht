@@ -21,7 +21,7 @@ Vor Ausgabe BGH-Aktenzeichen zu Liquiditätsbilanz, Stundungen und Zahlungseinst
 
 ## Zweck
 
-Dieser Skill strukturiert die Erstellung und Bewertung einer rollierenden Liquiditätsvorschau
+Strukturiert die Erstellung und Bewertung einer rollierenden Liquiditätsvorschau
 ausschließlich aus insolvenzrechtlicher Perspektive. Im Mittelpunkt steht nicht die
 steuerberaterliche Mandantenberatung, sondern die **insolvenzrechtliche Liquiditätsbilanz** als
 Beweismittel: Wann ist der Schuldner zahlungsunfähig nach § 17 InsO geworden? Trägt die

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Anhörung, Dekret, Vermögenszuordnung, Archive und Rekurs**.
+Prüft insbesondere: **Anhörung, Dekret, Vermögenszuordnung, Archive und Rekurs**.
 
 **CIC-/Normanker:** can. 515 §2, 121-123, 1254-1310.
 

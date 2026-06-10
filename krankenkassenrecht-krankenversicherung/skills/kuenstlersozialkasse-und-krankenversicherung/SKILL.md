@@ -15,7 +15,7 @@ description: "Kranken- und Rentenversicherung über die KSK (KSVG): Versicherung
 
 ## Skill-Zweck
 
-Die Künstlersozialkasse (KSK) ermöglicht selbstständigen Künstlern und Publizisten eine GKV-ähnliche Absicherung. Dieser Skill klärt **Versicherungspflicht, Beitragsberechnung und KSK-Prüfverfahren**.
+Die Künstlersozialkasse (KSK) ermöglicht selbstständigen Künstlern und Publizisten eine GKV-ähnliche Absicherung. Kläre **Versicherungspflicht, Beitragsberechnung und KSK-Prüfverfahren**.
 
 ## Rechtlicher Rahmen
 

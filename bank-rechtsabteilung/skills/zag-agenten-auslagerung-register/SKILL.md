@@ -15,7 +15,7 @@ description: "ZAG-Agenten, E-Geld-Agenten und Auslagerung prüfen: Register, Haf
 
 ## Worum es geht
 
-Dieser Skill prüft den Einsatz von Agenten und die Auslagerung bei ZAG-Instituten: Registrierungspflicht, Haftungsverantwortung des Hauptinstituts, AML-Integration, Auslagerungsanzeige und Anforderungen an ICT-Drittparteien nach DORA. Die Abgrenzung zwischen erlaubnispflichtigem Agenten und erlaubnisfreiem technischen Dienstleister ist zentral.
+Prüft den Einsatz von Agenten und die Auslagerung bei ZAG-Instituten: Registrierungspflicht, Haftungsverantwortung des Hauptinstituts, AML-Integration, Auslagerungsanzeige und Anforderungen an ICT-Drittparteien nach DORA. Die Abgrenzung zwischen erlaubnispflichtigem Agenten und erlaubnisfreiem technischen Dienstleister ist zentral.
 
 ## Kernnormen
 

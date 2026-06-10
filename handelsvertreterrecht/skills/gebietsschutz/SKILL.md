@@ -15,7 +15,7 @@ description: "Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umf
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Gebietsschutz im Handelsvertretervertrag nach § 87 Abs. 2 HGB und Kartellrecht.
+Unterstützt bei rechtlichen Fragen rund um Gebietsschutz im Handelsvertretervertrag nach § 87 Abs. 2 HGB und Kartellrecht.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.

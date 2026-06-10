@@ -25,7 +25,7 @@ description: "Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstelle
 
 Internationale Investoren, ausländische Gesellschafter und grenzüberschreitende M&A-Transaktionen erfordern Gesellschaftsdokumente in zwei Sprachen — regelmäßig Deutsch und Englisch. Dabei gilt im deutschen Rechtsraum: Die deutsche Fassung ist die rechtlich verbindliche; die englische Fassung ist eine "Convenience Translation". Diese Hierarchie muss in jedem Dokument durch eine Sprachvorrang-Klausel ausdrücklich vereinbart werden, sonst drohen Auslegungsstreitigkeiten und Vollstreckungsprobleme.
 
-Dieser Skill unterstützt bei der Erstellung, Qualitätssicherung und Konsistenzprüfung bilingualer Gesellschaftsdokumente: Satzung (Articles of Association), Gesellschaftervereinbarung (Shareholder Agreement / SHA), Geschäftsführeranstellungsvertrag (Managing Director's Agreement), Beiratsordnung (Advisory Board Charter), Term Sheet und Convertible Loan Agreement.
+Unterstützt bei der Erstellung, Qualitätssicherung und Konsistenzprüfung bilingualer Gesellschaftsdokumente: Satzung (Articles of Association), Gesellschaftervereinbarung (Shareholder Agreement / SHA), Geschäftsführeranstellungsvertrag (Managing Director's Agreement), Beiratsordnung (Advisory Board Charter), Term Sheet und Convertible Loan Agreement.
 
 ## Kaltstart-Rückfragen
 

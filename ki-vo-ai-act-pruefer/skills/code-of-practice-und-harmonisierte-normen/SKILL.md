@@ -7,7 +7,7 @@ description: "Normen- und Standards-Landkarte für KI-VO-Compliance: Art. 40 har
 
 ## Zweck
 
-Dieser Skill unterstützt die Compliance-Strategie für KI-Systeme, Hochrisiko-KI und GPAI-Modelle. Er trennt sauber:
+Unterstützt die Compliance-Strategie für KI-Systeme, Hochrisiko-KI und GPAI-Modelle. Er trennt sauber:
 
 - harmonisierte Normen nach Art. 40 KI-VO
 - gemeinsame Spezifikationen nach Art. 41 KI-VO

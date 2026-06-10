@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill klärt die insiderrechtliche Situation für Familienangehörige und nahestehende
+Klärt die insiderrechtliche Situation für Familienangehörige und nahestehende
 Personen von PDMRs und schafft Präventionsmaßnahmen gegen versehentliches Tipping.
 
 ## Arbeitsprogramm

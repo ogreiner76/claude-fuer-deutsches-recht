@@ -15,7 +15,7 @@ description: "GKV-Arzneimittelversorgung: Zulassung, Off-Label-Use nach BSG-Maß
 
 ## Skill-Zweck
 
-Dieser Skill klärt, wann die GKV Arzneimittelkosten übernimmt – und wann nicht. Schwerpunkte sind **Off-Label-Verschreibungen**, die Abgrenzung zu Lifestyle-Medikamenten und die AMNOG-Nutzenbewertung.
+Kläre, wann die GKV Arzneimittelkosten übernimmt – und wann nicht. Schwerpunkte sind **Off-Label-Verschreibungen**, die Abgrenzung zu Lifestyle-Medikamenten und die AMNOG-Nutzenbewertung.
 
 ## Rechtlicher Rahmen
 

@@ -1,6 +1,6 @@
 ---
 name: gutachten-red-legal-patentanwaelte
-description: "Gutachten: Red-Team und Qualitätskontrolle im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Gutachten: Red-Team und Qualitätskontrolle."
 ---
 
 # Gutachten: Red-Team und Qualitätskontrolle

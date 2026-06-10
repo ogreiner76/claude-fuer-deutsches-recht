@@ -1,6 +1,6 @@
 ---
 name: bieterangebote-mieten-oeffentliche
-description: "Bieterangebote: Compliance-Dokumentation und Aktenvermerk im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Bieterangebote: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Bieterangebote: Compliance-Dokumentation und Aktenvermerk

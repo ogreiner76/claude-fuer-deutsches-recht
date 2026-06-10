@@ -7,7 +7,7 @@ description: "Revisionsbegruendung § 344 StPO: fachanwaltlicher Spezial-Skill m
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Revisionsbegruendung § 344 StPO** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Revisionsbegruendung § 344 StPO** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

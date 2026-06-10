@@ -20,7 +20,7 @@ description: "Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewin
 
 In einer komplexen Restrukturierung entscheidet die **Reihenfolge** der Strukturschritte über Erfolg oder Misserfolg der Sanierung. Wer zuerst den Forderungsverzicht wirksam werden lässt und erst danach den Anteilseignerwechsel vollzieht, kann den Sanierungsertrag mit dem Verlustvortrag verrechnen. Wer zuerst den Anteilseignerwechsel vollzieht und erst danach den Forderungsverzicht, zerstört den Verlustvortrag nach § 8c KStG und besteuert den Sanierungsertrag voll. Diese Steuerung leistet der **Tax Step Plan**.
 
-Dieser Skill liefert das Strukturierungsraster für den Tax Step Plan.
+Liefert das Strukturierungsraster für den Tax Step Plan.
 
 ## Wann dieses Modul hilft
 

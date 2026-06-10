@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Distanzierung, Reuezeichen, Ärgernis und Angehörige**.
+Prüft insbesondere: **Distanzierung, Reuezeichen, Ärgernis und Angehörige**.
 
 **CIC-/Normanker:** can. 1176-1185.
 

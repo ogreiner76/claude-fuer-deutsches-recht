@@ -15,7 +15,7 @@ description: "Buchpreisbindungsgesetz: Abmahnung wegen Preisbindungsverstoßes �
 
 ## Zweck dieses Skills
 
-Abmahnungen wegen Buchpreisbindungsverstößen sind das häufigste Durchsetzungsinstrument im deutschen Buchhandel. Dieser Skill klärt, wie eine wirksame Abmahnung aussieht, wie Empfänger reagieren sollten und welche Kosten und Risiken auf beiden Seiten entstehen.
+Abmahnungen wegen Buchpreisbindungsverstößen sind das häufigste Durchsetzungsinstrument im deutschen Buchhandel. Kläre, wie eine wirksame Abmahnung aussieht, wie Empfänger reagieren sollten und welche Kosten und Risiken auf beiden Seiten entstehen.
 
 ## Rechtsgrundlagen
 

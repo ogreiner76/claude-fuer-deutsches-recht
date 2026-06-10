@@ -15,7 +15,7 @@ description: "Tarifwechselrecht in der PKV nach § 204 VVG: Voraussetzungen, Mit
 
 ## Skill-Zweck
 
-Wer in der PKV zu einem günstigeren oder leistungsfähigeren Tarif beim gleichen Versicherer wechseln will, hat ein gesetzliches Recht dazu. Dieser Skill klärt **§ 204 VVG: Voraussetzungen, Altersrückstellungen und Durchsetzungsstrategien**.
+Wer in der PKV zu einem günstigeren oder leistungsfähigeren Tarif beim gleichen Versicherer wechseln will, hat ein gesetzliches Recht dazu. Kläre **§ 204 VVG: Voraussetzungen, Altersrückstellungen und Durchsetzungsstrategien**.
 
 ## Rechtlicher Rahmen
 

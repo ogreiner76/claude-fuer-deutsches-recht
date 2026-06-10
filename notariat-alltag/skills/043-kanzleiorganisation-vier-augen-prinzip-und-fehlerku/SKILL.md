@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip und Fe
 
 ## Zweck und Anwendungsbereich
 
-Die Kanzleiorganisation entscheidet über Fehlerrate, Haftungsrisiken und Mitarbeiterzufriedenheit. Dieser Skill strukturiert organisatorische Mindestanforderungen, das Vier-Augen-Prinzip und eine konstruktive Fehlerkultur.
+Die Kanzleiorganisation entscheidet über Fehlerrate, Haftungsrisiken und Mitarbeiterzufriedenheit. Strukturiere organisatorische Mindestanforderungen, das Vier-Augen-Prinzip und eine konstruktive Fehlerkultur.
 
 Rechtsgrundlagen: § 1 BNotO (Unabhängigkeit), § 14 BNotO (Amtspflichten), § 26 BNotO (Aufsicht über Notariatspersonal), § 23 BNotO (Verschwiegenheitspflicht des Personals), DONot §§ 1–56 (Dienstpflichten), § 19 BNotO (Haftung), Datenschutz-Grundverordnung (DSGVO).
 

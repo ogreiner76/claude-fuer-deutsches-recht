@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Gehorsam, Zölibat, Amtspflichten und Entlassung**.
+Prüft insbesondere: **Gehorsam, Zölibat, Amtspflichten und Entlassung**.
 
 **CIC-/Normanker:** can. 273-289, 290-293, 1333.
 

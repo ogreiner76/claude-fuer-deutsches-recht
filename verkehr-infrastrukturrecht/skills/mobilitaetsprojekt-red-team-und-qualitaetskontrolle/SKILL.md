@@ -1,6 +1,6 @@
 ---
 name: mobilitaetsprojekt-red-team-und-qualitaetskontrolle
-description: "Mobilitaetsprojekt: Red-Team und Qualitätskontrolle im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Mobilitaetsprojekt: Red-Team und Qualitätskontrolle."
 ---
 
 # Mobilitaetsprojekt: Red-Team und Qualitätskontrolle

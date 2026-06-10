@@ -1,6 +1,6 @@
 ---
 name: 017-erster-titel-14-gesellschaft
-description: "PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer hande..."
+description: "PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung: Bearbeite den ersten Teil Titel 14 Gesellschaft Gemeinschaft und Teilung im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer hande..."
 ---
 
 # PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung

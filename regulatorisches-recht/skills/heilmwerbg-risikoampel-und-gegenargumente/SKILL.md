@@ -1,6 +1,6 @@
 ---
 name: heilmwerbg-risikoampel-und-gegenargumente
-description: "Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien

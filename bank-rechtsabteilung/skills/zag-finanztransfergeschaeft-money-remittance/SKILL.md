@@ -15,7 +15,7 @@ description: "Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Wei
 
 ## Worum es geht
 
-Dieser Skill prüft das Finanztransfergeschäft nach § 1 Abs. 1 Satz 2 Nr. 6 ZAG (Money Remittance): Weiterleitung von Geldbeträgen ohne Eröffnung eines Zahlungskontos. Er deckt Erlaubnisanforderungen, Geldwäscheprävention, FATF-Vorgaben und die Travel-Rule-Pflichten ab. Besonderheiten bei Bargeld, Krypto-Remittance und Agentennetzen werden adressiert.
+Prüft das Finanztransfergeschäft nach § 1 Abs. 1 Satz 2 Nr. 6 ZAG (Money Remittance): Weiterleitung von Geldbeträgen ohne Eröffnung eines Zahlungskontos. Er deckt Erlaubnisanforderungen, Geldwäscheprävention, FATF-Vorgaben und die Travel-Rule-Pflichten ab. Besonderheiten bei Bargeld, Krypto-Remittance und Agentennetzen werden adressiert.
 
 ## Kernnormen
 

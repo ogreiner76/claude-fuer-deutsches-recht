@@ -1,6 +1,6 @@
 ---
 name: aktenzeichen-schriftsatz-brief-und-memo-bausteine
-description: "Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine

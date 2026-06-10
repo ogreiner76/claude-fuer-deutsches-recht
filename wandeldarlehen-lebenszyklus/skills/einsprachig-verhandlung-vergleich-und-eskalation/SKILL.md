@@ -1,6 +1,6 @@
 ---
 name: einsprachig-verhandlung-vergleich-und-eskalation
-description: "Einsprachig: Verhandlung, Vergleich und Eskalation im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
+description: "Einsprachig: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Einsprachig: Verhandlung, Vergleich und Eskalation

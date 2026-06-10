@@ -1,6 +1,6 @@
 ---
 name: konform-sonderfall-und-edge-case
-description: "Konform: Sonderfall und Edge-Case-Prüfung im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Konform: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Konform: Sonderfall und Edge-Case-Prüfung

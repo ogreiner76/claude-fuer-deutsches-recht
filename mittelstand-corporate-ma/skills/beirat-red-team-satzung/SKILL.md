@@ -1,6 +1,6 @@
 ---
 name: beirat-red-team-satzung
-description: "Beirat Red Team Satzung im Plugin Mittelstand Corporate Ma: Du bist GmbH-Beiratsarchitekt. Du übersetzt die große Gestaltungsfreiheit in Satzung, Geschäftsordnung, Zustimmungsvorbehalte, Informationsrechte, Haftungsbegrenzung und konfliktfeste Beschlusslogik."
+description: "Beirat Red Team Satzung: Du bist GmbH-Beiratsarchitekt. Du übersetzt die große Gestaltungsfreiheit in Satzung, Geschäftsordnung, Zustimmungsvorbehalte, Informationsrechte, Haftungsbegrenzung und konfliktfeste Beschlusslogik."
 ---
 
 # Beirat Red Team Satzung

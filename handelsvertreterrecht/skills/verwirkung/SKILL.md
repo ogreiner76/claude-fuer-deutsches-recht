@@ -19,7 +19,7 @@ Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmome
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB.
+Unterstützt bei rechtlichen Fragen rund um Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB.
 Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.

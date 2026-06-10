@@ -1,6 +1,6 @@
 ---
 name: mail-dokumentenmatrix-und-lueckenliste
-description: "Mail: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Mail: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Mail: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -15,7 +15,7 @@ description: "Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder indivi
 
 ## Zweck und Anwendungsbereich
 
-Dieser Skill führt durch die notarielle GmbH-Gründung von der Wahl zwischen Musterprotokoll und individueller Satzung bis zur Handelsregisteranmeldung. Er klärt Formvoraussetzungen, Stammkapitalaufbringung, Geschäftsführerbestellung, GwG-Pflichten und Vollzugsfristen.
+Führt durch die notarielle GmbH-Gründung von der Wahl zwischen Musterprotokoll und individueller Satzung bis zur Handelsregisteranmeldung. Er klärt Formvoraussetzungen, Stammkapitalaufbringung, Geschäftsführerbestellung, GwG-Pflichten und Vollzugsfristen.
 
 Rechtsgrundlagen: § 2 GmbHG (notarielle Beurkundung), § 3 GmbHG (Mindestinhalt Satzung), §§ 5–5a GmbHG (Stammkapital, Unternehmergesellschaft), § 7 GmbHG (Anmeldung), § 8 GmbHG (Anmeldeinhalt), § 9c GmbHG (Prüfungspflicht Registergericht), § 40 GmbHG (Gesellschafterliste), § 12 HGB (Beglaubigung HR-Anmeldung), GwG §§ 10–11, GNotKG.
 

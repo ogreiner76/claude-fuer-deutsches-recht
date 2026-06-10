@@ -1,6 +1,6 @@
 ---
 name: versicherungsrecht-tatbestand-beweis-und-belege
-description: "Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht."
+description: "Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -14,7 +14,7 @@ description: "Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglag
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht.
+**Fokus:** Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 
 ## Spezialwissen: Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** VVG, VAG.

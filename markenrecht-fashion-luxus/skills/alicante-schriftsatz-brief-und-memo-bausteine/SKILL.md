@@ -1,6 +1,6 @@
 ---
 name: alicante-schriftsatz-brief-und-memo-bausteine
-description: "Alicante: Schriftsatz-, Brief- und Memo-Bausteine im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "Alicante: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Alicante: Schriftsatz-, Brief- und Memo-Bausteine

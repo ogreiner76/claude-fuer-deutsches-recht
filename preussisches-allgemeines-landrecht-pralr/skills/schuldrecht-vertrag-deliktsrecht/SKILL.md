@@ -1,6 +1,6 @@
 ---
 name: schuldrecht-vertrag-deliktsrecht
-description: "PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit und historische Verkehrssicherheit analysieren im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit und historische Verkehrssicherheit analysieren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Vertrag und Form

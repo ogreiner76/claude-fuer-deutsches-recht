@@ -15,7 +15,7 @@ description: "Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäfts
 
 ## Worum es geht
 
-Dieser Skill prüft, welche bankaufsichtsrechtlichen Pflichten ein konkreter Vorgang auslöst, und ordnet ihn den einschlägigen KWG-Normen und MaRisk-Modulen zu. Ergebnis ist kein Lehrbuch, sondern ein verwertbarer nächster Schritt: Vermerk, Entscheidungsvorlage, Risikoampel oder Gremienunterlage. Die Triage deckt Risikomanagement, Compliance, interne Revision, Auslagerung und Aufsichtskommunikation ab.
+Prüfe, welche bankaufsichtsrechtlichen Pflichten ein konkreter Vorgang auslöst, und ordnet ihn den einschlägigen KWG-Normen und MaRisk-Modulen zu. Ergebnis ist kein Lehrbuch, sondern ein verwertbarer nächster Schritt: Vermerk, Entscheidungsvorlage, Risikoampel oder Gremienunterlage. Die Triage deckt Risikomanagement, Compliance, interne Revision, Auslagerung und Aufsichtskommunikation ab.
 
 ## Kernnormen
 

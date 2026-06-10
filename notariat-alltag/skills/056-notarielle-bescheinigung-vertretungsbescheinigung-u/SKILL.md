@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbesche
 
 ## Zweck und Anwendungsbereich
 
-Notarielle Bescheinigungen nach § 21 BNotO sind ein häufig unterschätztes, aber wichtiges Instrument. Sie bestätigen Tatsachen, die der Notar aus öffentlichen Registern oder seiner eigenen Wahrnehmung kennt. Dieser Skill klärt Voraussetzungen, Inhalte und Abgrenzungen.
+Notarielle Bescheinigungen nach § 21 BNotO sind ein häufig unterschätztes, aber wichtiges Instrument. Sie bestätigen Tatsachen, die der Notar aus öffentlichen Registern oder seiner eigenen Wahrnehmung kennt. Kläre Voraussetzungen, Inhalte und Abgrenzungen.
 
 Rechtsgrundlagen: § 21 BNotO (notarielle Bescheinigung), § 20 BNotO (Beratung), § 39 BeurkG (Beglaubigung), § 21 FamFG (Registerauskunft), HGB § 15 (negative Publizität), EGBGB Art. 11 (Formstatut), GNotKG KV Nr. 25200 (Bescheinigungsgebühr).
 

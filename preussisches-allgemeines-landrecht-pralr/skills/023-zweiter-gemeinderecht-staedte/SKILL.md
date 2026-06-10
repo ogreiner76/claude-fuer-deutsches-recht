@@ -1,6 +1,6 @@
 ---
 name: 023-zweiter-gemeinderecht-staedte
-description: "PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Gemeinderecht Städte Dörfer Polizei im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlage..."
+description: "PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei: Bearbeite den zweiten Teil Gemeinderecht Städte Dörfer Polizei im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlage..."
 ---
 
 # PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei

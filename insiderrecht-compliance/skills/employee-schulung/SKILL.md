@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft, ob die Ausübung von Mitarbeiteraktienoptionen, RSU-Vestings oder anderen
+Prüfe, ob die Ausübung von Mitarbeiteraktienoptionen, RSU-Vestings oder anderen
 Programmtransaktionen in einer Closed Period oder Insiderphase liegt, und bestimmt, ob ein
 Safe Harbour oder eine Befreiung greift.
 

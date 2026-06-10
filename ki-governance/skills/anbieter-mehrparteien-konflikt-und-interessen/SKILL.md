@@ -1,6 +1,6 @@
 ---
 name: anbieter-mehrparteien-konflikt-und-interessen
-description: "Anbieter: Mehrparteienkonflikt und Interessenmatrix im Plugin ki governance im Ki Governance."
+description: "Anbieter: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Anbieter: Mehrparteienkonflikt und Interessenmatrix

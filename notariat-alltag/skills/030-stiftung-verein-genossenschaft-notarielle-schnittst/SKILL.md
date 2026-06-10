@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Stiftung, Verein, Genossenschaft – notariell
 
 ## Zweck und Anwendungsbereich
 
-Stiftungen, Vereine und Genossenschaften haben unterschiedliche notarielle Berührungspunkte. Dieser Skill klärt, wann der Notar zwingend oder sinnvoll einzuschalten ist, und führt durch die jeweiligen Anforderungen.
+Stiftungen, Vereine und Genossenschaften haben unterschiedliche notarielle Berührungspunkte. Kläre, wann der Notar zwingend oder sinnvoll einzuschalten ist, und führt durch die jeweiligen Anforderungen.
 
 Rechtsgrundlagen: §§ 80–88 BGB (Stiftungsrecht), §§ 21–79b BGB (Vereinsrecht), GenG (Genossenschaftsgesetz), § 33 BGB (Satzungsänderung Verein), § 6 StiftG der Bundesländer, § 2 GmbHG (wenn Stiftung GmbH-Anteile hält), § 12 HGB (Registereintragung), GwG.
 

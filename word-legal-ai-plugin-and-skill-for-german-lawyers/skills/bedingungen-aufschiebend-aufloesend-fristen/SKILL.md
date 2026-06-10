@@ -17,7 +17,7 @@ description: "Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufsch
 
 Bedingungen und Fristen geben dem Vertrag seine zeitliche Struktur. Die juristische Unterscheidung zwischen aufschiebender und aufloesender Bedingung (§ 158 BGB), zwischen Bedingung und Befristung (§ 163 BGB) und zwischen Potestativbedingung und reiner Drittbedingung ist Drafting-Grundwissen. Wer die Begriffe verwechselt, baut Klauseln, die das Gegenteil ihres Wortlauts bewirken.
 
-Dieser Skill liefert die Konditionalsystematik, die typischen M&A-Closing-Conditions, das Long Stop Date und die Fristberechnung nach §§ 187 bis 193 BGB. Er zeigt die Anti-Pattern doppelt-negativer Formulierungen.
+Liefert die Konditionalsystematik, die typischen M&A-Closing-Conditions, das Long Stop Date und die Fristberechnung nach §§ 187 bis 193 BGB. Er zeigt die Anti-Pattern doppelt-negativer Formulierungen.
 
 ## Eingaben
 

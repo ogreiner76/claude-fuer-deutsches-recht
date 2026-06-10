@@ -63,7 +63,7 @@ Die Verschwiegenheitspflicht gilt unbegrenzt zeitlich, auch nach Mandatsbeendigu
 **§ 43a Abs. 4 BRAO — Verbot der Wahrnehmung widerstreitender Interessen**
 > "Der Rechtsanwalt darf keine widerstreitenden Interessen vertreten."
 
-Dieser Skill führt **keine** Interessenkonfliktprüfung durch. Die Konfliktprüfung obliegt dem Anwalt vor jeder Mandatsannahme. Der Skill stellt lediglich sicher, dass Mandatsinhalte technisch getrennt bleiben.
+Führt **keine** Interessenkonfliktprüfung durch. Die Konfliktprüfung obliegt dem Anwalt vor jeder Mandatsannahme. Der Skill stellt lediglich sicher, dass Mandatsinhalte technisch getrennt bleiben.
 
 **§ 53 StPO — Zeugnisverweigerungsrecht des Rechtsanwalts**
 > Dem Rechtsanwalt steht ein Zeugnisverweigerungsrecht zu über das zu, was ihm in dieser Eigenschaft anvertraut oder bekanntgeworden ist.

@@ -26,7 +26,7 @@ AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, 
 
 Factoringverträge sind in der Regel **Formularverträge** des Factors. Damit unterliegen sie der AGB-Kontrolle nach §§ 305 ff. BGB. Auch im B2B-Verhältnis gelten die Inhaltskontrollen der §§ 307 BGB – die Klauselverbote der §§ 308 und 309 BGB greifen nicht direkt, sind aber als **Indikatoren** für die Unangemessenheit im Rahmen des § 307 BGB heranzuziehen (Indizwirkung, st. Rspr. BGH).
 
-Dieser Skill prüft die typischen Risikoklauseln im Factoringvertrag: Veritäts- und Bonitätshaftung, Rückbelastungsrechte, Verzugszinsen, Aufrechnungsverbote, Vorfälligkeitsentschädigungen, Kündigungsregelungen, Schiedsklauseln. Ziel ist eine durchsetzbare und zugleich faire Klauselgestaltung.
+Prüft die typischen Risikoklauseln im Factoringvertrag: Veritäts- und Bonitätshaftung, Rückbelastungsrechte, Verzugszinsen, Aufrechnungsverbote, Vorfälligkeitsentschädigungen, Kündigungsregelungen, Schiedsklauseln. Ziel ist eine durchsetzbare und zugleich faire Klauselgestaltung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

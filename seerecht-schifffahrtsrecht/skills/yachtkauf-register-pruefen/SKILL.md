@@ -25,7 +25,7 @@ Eine finanzierende Bank prueft den Seeschiffsregister oder Kleinfahrzeugregister
 6. Registerpruefprotokoll erstellen; Rangkarte und Risikoampel ausgeben.
 
 ## Rechtsrahmen
-- BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m; SchRegO §§ 3-19 Registerführung; BGB §§ 892-893 Gutglaubensschutz im Register. CE-Kennzeichnung; Fahrterlaubnis BSH; VAT-Status EU; MCA Cat..
+- BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m; SchRegO §§ 3-19 Registerführung; BGB §§ 892-893 Gutglaubensschutz im Register. CE-Kennzeichnung; Fahrterlaubnis BSH; VAT-Status EU; MCA Cat.
 
 ## Prüfraster
 - Stimmt eingetragener Eigentümer mit dem Verkäufer des Segel- oder Motorjachts überein?

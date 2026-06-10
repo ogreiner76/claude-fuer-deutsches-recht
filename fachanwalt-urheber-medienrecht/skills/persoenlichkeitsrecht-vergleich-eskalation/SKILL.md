@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrecht-vergleich-eskalation
-description: "Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation: Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt urheber medienrecht."
+description: "Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation: Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation
@@ -14,7 +14,7 @@ description: "Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation: Pers
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt urheber medienrecht.
+**Fokus:** Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation.
 
 ## Spezialwissen: Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

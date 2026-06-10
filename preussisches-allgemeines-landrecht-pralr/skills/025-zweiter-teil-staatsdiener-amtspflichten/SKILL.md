@@ -1,6 +1,6 @@
 ---
 name: 025-zweiter-teil-staatsdiener-amtspflichten
-description: "PrALR: Zweiter Teil Staatsdiener Amtspflichten im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Zweiter Teil Staatsdiener Amtspflichten: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Zweiter Teil Staatsdiener Amtspflichten

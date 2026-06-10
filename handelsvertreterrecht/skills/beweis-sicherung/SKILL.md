@@ -15,7 +15,7 @@ description: "Unterstützt Handelsvertreter und Unternehmer bei der Beweissicher
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Beweissicherung im Handelsvertreterstreit nach §§ 485 ff. ZPO.
+Unterstützt bei rechtlichen Fragen rund um Beweissicherung im Handelsvertreterstreit nach §§ 485 ff. ZPO.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.

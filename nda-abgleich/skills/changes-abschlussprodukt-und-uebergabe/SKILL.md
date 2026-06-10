@@ -1,6 +1,6 @@
 ---
 name: changes-abschlussprodukt-und-uebergabe
-description: "Changes: Abschlussprodukt und Übergabe im Plugin nda abgleich im NDA-Abgleich."
+description: "Changes: Abschlussprodukt und Übergabe."
 ---
 
 # Changes: Abschlussprodukt und Übergabe

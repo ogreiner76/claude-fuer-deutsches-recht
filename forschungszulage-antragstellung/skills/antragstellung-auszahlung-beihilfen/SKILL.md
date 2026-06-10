@@ -1,6 +1,6 @@
 ---
 name: antragstellung-auszahlung-beihilfen
-description: "Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage

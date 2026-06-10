@@ -1,6 +1,6 @@
 ---
 name: adsp-internationaler-bezug-und-schnittstellen
-description: "Adsp: Internationaler Bezug und Schnittstellen: Adsp: Internationaler Bezug und Schnittstellen im Plugin fachanwalt transport speditionsrecht."
+description: "Adsp: Internationaler Bezug und Schnittstellen: Adsp: Internationaler Bezug und Schnittstellen."
 ---
 
 # Adsp: Internationaler Bezug und Schnittstellen
@@ -14,7 +14,7 @@ description: "Adsp: Internationaler Bezug und Schnittstellen: Adsp: Internationa
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Adsp: Internationaler Bezug und Schnittstellen im Plugin fachanwalt transport speditionsrecht.
+**Fokus:** Adsp: Internationaler Bezug und Schnittstellen.
 
 ## Spezialwissen: Adsp: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** HGB, CMR, COTIF, CO.

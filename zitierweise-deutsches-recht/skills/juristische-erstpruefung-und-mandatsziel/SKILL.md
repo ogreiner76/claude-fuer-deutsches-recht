@@ -1,6 +1,6 @@
 ---
 name: juristische-erstpruefung-und-mandatsziel
-description: "Juristische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Juristische: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Juristische: Erstprüfung, Rollenklärung und Mandatsziel

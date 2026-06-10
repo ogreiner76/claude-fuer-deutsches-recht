@@ -25,7 +25,7 @@ description: "Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor In
 
 Wer den Insolvenzplan oder den Restrukturierungsplan erst dann steuerlich denkt, wenn er bereits bei Gericht eingereicht ist, hat oft schon einen siebenstelligen Schaden produziert. Die Steuerfreiheit des Sanierungsertrags nach Paragraph 3a EStG haengt an vier materiellen Voraussetzungen (Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger) und an einem Antrag, dessen Verrechnungsmasse nach Paragraph 3a Absatz 3 EStG **vor** Plan-Vorlage berechenbar sein muss.
 
-Dieser Skill liefert die Zeitachse: Welche steuerliche Vorarbeit gehoert in welchen Monat? Wer ist verantwortlich? Welcher Output muss vor der Plan-Vorlage in der Akte liegen?
+Liefert die Zeitachse: Welche steuerliche Vorarbeit gehoert in welchen Monat? Wer ist verantwortlich? Welcher Output muss vor der Plan-Vorlage in der Akte liegen?
 
 Adressat: Insolvenzverwalter, Sachwalter, Eigenverwalter, CRO, Geschaeftsleitung in der Krise und ihre Steuerberater.
 

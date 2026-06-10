@@ -15,7 +15,7 @@ description: "PKV-Beitragserhöhungen nach § 203 VVG: Treuhänder-Zustimmung, f
 
 ## Skill-Zweck
 
-PKV-Beiträge werden regelmäßig erhöht. Dieser Skill prüft, ob **Beitragsanpassungen formell und materiell wirksam** sind, analysiert die Treuhänderprüfung und klärt Rückforderungsansprüche bei unwirksamen Erhöhungen.
+PKV-Beiträge werden regelmäßig erhöht. Prüfe, ob **Beitragsanpassungen formell und materiell wirksam** sind, analysiert die Treuhänderprüfung und klärt Rückforderungsansprüche bei unwirksamen Erhöhungen.
 
 ## Rechtlicher Rahmen
 

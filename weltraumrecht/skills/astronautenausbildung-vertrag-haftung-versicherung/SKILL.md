@@ -15,7 +15,7 @@ description: "Astronautenausbildungsverträge – Arbeitsrecht, Haftung für Aus
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

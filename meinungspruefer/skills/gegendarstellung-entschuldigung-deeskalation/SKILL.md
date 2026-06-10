@@ -15,7 +15,7 @@ description: "Entwickelt Reaktionsoptionen bei eskalierten Äußerungen: Klarste
 
 ## Ziel
 
-Nicht jeder Fall muss maximal eskaliert werden. Dieser Skill erstellt rechtlich vorsichtige, menschlich brauchbare Reaktionsoptionen.
+Nicht jeder Fall muss maximal eskaliert werden. Erstelle rechtlich vorsichtige, menschlich brauchbare Reaktionsoptionen.
 
 ## Optionen
 

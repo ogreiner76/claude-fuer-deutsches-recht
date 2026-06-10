@@ -7,7 +7,7 @@ description: "Druckreifes KI-VO-Konformitätspaket erzeugen: interne Konformitä
 
 ## Zweck
 
-Dieser Skill erzeugt ein druckreifes Konformitätspaket für KI-Systeme nach der Verordnung (EU) 2024/1689. Er ist der Output-Skill nach Art.-3-Prüfung, Rollenklärung, Hochrisiko-Einstufung, Anforderungen Art. 9-15 und Konformitätsbewertung Art. 43.
+Erzeugt ein druckreifes Konformitätspaket für KI-Systeme nach der Verordnung (EU) 2024/1689. Er ist der Output-Skill nach Art.-3-Prüfung, Rollenklärung, Hochrisiko-Einstufung, Anforderungen Art. 9-15 und Konformitätsbewertung Art. 43.
 
 **Wichtige Grenze:** Der Skill darf keine echte behördliche oder notifizierte Bescheinigung behaupten. Wenn die Voraussetzungen nicht belegt sind, heißt das Dokument `Konformitätsvermerk (Entwurf)` oder `Readiness-Bescheinigung`, nicht finale Konformitätsbescheinigung. Eine EU-Konformitätserklärung nach Art. 47 i.V.m. Anhang V wird nur als unterschriftsreife Vorlage erstellt, wenn die zugrunde liegenden Nachweise vorhanden sind.
 

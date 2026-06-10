@@ -57,26 +57,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `675u-675w-banking` | 675U: Verhandlung, Vergleich und Eskalation im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
+| `675u-675w-banking` | 675U: Verhandlung, Vergleich und Eskalation. |
 | `675v-quellenkarte` | 675v Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `675w-zahlen-schwellen-und-berechnung` | 675W: Zahlen, Schwellenwerte und Berechnung im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
+| `675w-zahlen-schwellen-und-berechnung` | 675W: Zahlen, Schwellenwerte und Berechnung. |
 | `anschluss-routing` | Anschluss-Routing für Phishing-Vorfall-Prüfer: wählt den nächsten Spezial-Skill nach Engpass (Art. 33 DSGVO 72h, Vorfallsbericht, Logs, Bank-Korrespondenz), dokumentiert Router-Entscheidung mit Begründung. |
 | `arbeitnehmer-haftung-bgb-675u-phish-ceo` | Phishing am Arbeitsplatz: Arbeitnehmer-Haftung für durch Phishing verursachten Schaden. Innerbetriebliche Schadensausgleichung (BAG-Rechtsprechung), gestufte Haftung. Empfehlung Schulungspflichten Arbeitgeber im Phishing Vorfall Pruefer. |
 | `aufsicht-bafin-bank-strategie-banking-app` | BaFin-Beschwerde gegen Bank bei verweigerter Rueckbuchung: § 4 Abs. 4 FinDAG, BaFin-Verbraucherbeschwerde. Output: Beschwerde-Entwurf, Eskalationsstrategie im Phishing Vorfall Pruefer. |
-| `banking-behoerden-gericht-und-registerweg` | Banking: Behörden-, Gerichts- oder Registerweg im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
-| `bankpflichten-beweislast-bgb` | Bankpflichten: Beweislast, Darlegungslast und Substantiierung im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
+| `banking-behoerden-gericht-und-registerweg` | Banking: Behörden-, Gerichts- oder Registerweg. |
+| `bankpflichten-beweislast-bgb` | Bankpflichten: Beweislast, Darlegungslast und Substantiierung. |
 | `bea-notfall-bgb-675v-erstkontakt-mandant` | Phishing gegen Anwalts-beA: Sofort Karte sperren, BRAK informieren, Mandanten informieren, Datenschutzverstoss pruefen Art. 33 DSGVO (72h-Frist). Berufshaftpflicht informieren § 31 VVG. Output: Notfall-Ablaufplan im Phishing Vorfall Prue... |
-| `beweislast-mandantenkommunikation-entscheidungsvorlage` | Beweislast: Mandantenkommunikation und Entscheidungsvorlage im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
-| `bgb-schriftsatz-brief-und-memo-bausteine` | BGB: Schriftsatz-, Brief- und Memo-Bausteine im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
-| `call-interessen-faelle-freistehender` | Call: Mehrparteienkonflikt und Interessenmatrix im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
+| `beweislast-mandantenkommunikation-entscheidungsvorlage` | Beweislast: Mandantenkommunikation und Entscheidungsvorlage. |
+| `bgb-schriftsatz-brief-und-memo-bausteine` | BGB: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `call-interessen-faelle-freistehender` | Call: Mehrparteienkonflikt und Interessenmatrix. |
 | `dokumente-intake` | Dokumentenintake für Phishing-Vorfall-Prüfer: sortiert Vorfallsbericht, Logs, Bank-Korrespondenz, prüft Datum, Absender, Frist und Beweiswert (Mail-Forensik, Server-Logs); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Phishing-Vorfall-Prüfer: ordnet Rolle (Geschädigtes Unternehmen, Mitarbeiter, Bank), markiert Frist (Art. 33 DSGVO 72h), wählt Norm (DSGVO Art. 33 Meldung, NIS2, § 8b BSIG) und Zuständigkeit (BSI), leitet... |
-| `faelle-abschlussprodukt-und-uebergabe` | Faelle: Abschlussprodukt und Übergabe im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
+| `faelle-abschlussprodukt-und-uebergabe` | Faelle: Abschlussprodukt und Übergabe. |
 | `fahrlaessigkeit-fehlerkatalog` | Fahrlaessigkeit Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `freistehender-erstpruefung-und-mandatsziel` | Freistehender: Erstprüfung, Rollenklärung und Mandatsziel im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
-| `grobe-online-phishing` | Grobe: Formular, Portal und Einreichungslogik im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
-| `klage-fristennotiz-vorfall-phish-banking` | Klage: Fristennotiz und nächster Schritt im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
-| `online-risikoampel-und-gegenargumente` | Online: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
+| `freistehender-erstpruefung-und-mandatsziel` | Freistehender: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `grobe-online-phishing` | Grobe: Formular, Portal und Einreichungslogik. |
+| `klage-fristennotiz-vorfall-phish-banking` | Klage: Fristennotiz und nächster Schritt. |
+| `online-risikoampel-und-gegenargumente` | Online: Risikoampel, Gegenargumente und Verteidigungslinien. |
 | `output-waehlen` | Output-Wahl für Phishing-Vorfall-Prüfer: stimmt Adressat (Geschädigtes Unternehmen, Mitarbeiter, Bank), Frist (Art. 33 DSGVO 72h) und Form auf den Zweck ab — typische Outputs: Vorfallsmeldung Art. 33 DSGVO, BSI-Meldung NIS2, Strafanzeige... |
 | `phish-banking-trojaner-haftung-spezial` | Spezialfall Banking-Trojaner und Haftung bei nicht autorisierten Zahlungen § 675u BGB / § 675v BGB: grob fahrlaessig, starke Kundenauthentifizierung PSD2. Pruefraster Bank und Kunde im Phishing Vorfall Pruefer. |
 | `phish-ceo-fraud-konzern-spezial` | Spezialfall CEO-Fraud im Konzern: interne Kontrollen, Vier-Augen-Prinzip, Schadensersatz Geschaeftsleitung, Versicherer D-and-O / Cyber. Pruefraster für Konzern im Phishing Vorfall Pruefer. |
@@ -96,18 +96,18 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `phishing-supply-chain-bec` | Business Email Compromise (BEC), Rechnungs-Phishing: gefaelschte Lieferantenrechnung mit geaenderter IBAN. Vertragsrechtliche Folgen, schuldbefreiende Zahlung an falsche IBAN. Pruefraster: Anscheinsbeweis Zahlung an Glaeubiger? Rueckford... |
 | `phishing-tan` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Phishing Vorfall Pruefer. |
 | `phishing-tan-verfahren-vergleich` | TAN-Verfahren vergleichen aus Haftungssicht: smsTAN (veraltet), pushTAN, photoTAN, chipTAN. Welches Verfahren wurde manipuliert? Geraetebindung pushTAN als Sicherheitsanker. Auswirkung auf § 675v BGB im Phishing Vorfall Pruefer. |
-| `phishing-tatbestand-beweis-und-belege` | Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
+| `phishing-tatbestand-beweis-und-belege` | Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `phishing-zivilklage-bank` | Zivilklage gegen Bank wenn Rueckbuchung verweigert: § 675u BGB Anspruch, Beweislast bei Bank Authentifizierung. Output: Klageentwurf vor LG. Streitwert Schadenshoehe. Mandantenrechtsanspruch auf Datenherausgabe (Logs, Beweise) im Phishin... |
 | `pruefen` | Prüft Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprüche gegen Zahlungsdienstleister. Anwendungsfall Bankkunde ist Opfer von Phishing pushTAN-Betrug oder Call-ID-Spoofing und Bank verweigert Erstattung. Norm... |
-| `pushtan-compliance-dokumentation-und-akte` | Pushtan: Compliance-Dokumentation und Aktenvermerk im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
-| `pushtan-schlichtung-sonderfall` | Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
+| `pushtan-compliance-dokumentation-und-akte` | Pushtan: Compliance-Dokumentation und Aktenvermerk. |
+| `pushtan-schlichtung-sonderfall` | Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `quellen-livecheck` | Quellen-Live-Check für Phishing-Vorfall-Prüfer: prüft Normen (DSGVO Art. 33 Meldung, NIS2, § 8b BSIG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BSI und Quellenhygiene nach references/quellenhygiene.md. |
-| `schlichtung-sonderfall-und-edge-case` | Schlichtung: Sonderfall und Edge-Case-Prüfung im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
-| `spoofing-internationaler-bezug-und-schnittstellen` | Spoofing: Internationaler Bezug und Schnittstellen: Spoofing: Internationaler Bezug und Schnittstellen im Plugin phishing vorfall pruefer. |
+| `schlichtung-sonderfall-und-edge-case` | Schlichtung: Sonderfall und Edge-Case-Prüfung. |
+| `spoofing-internationaler-bezug-und-schnittstellen` | Spoofing: Internationaler Bezug und Schnittstellen: Spoofing: Internationaler Bezug und Schnittstellen. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Phishing Vorfall Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Be... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Phishing-Vorfall-Prüfer: trennt fehlende Tatsachen von fehlenden Belegen (Vorfallsbericht, Logs, Bank-Korrespondenz), nennt pro Lücke Beweisthema, Beschaffungsweg (BSI), Frist und Ersatznachweis. |
 | `versicherer-cyber-phishing-vorfall-zivilklage` | Cyberversicherung pruefen: Deckungsumfang bei Phishing/Social Engineering, Selbstbehalt, Ausschluesse (z. B. grobfahrlaessige Pflichtverletzung). Pruefraster Versicherungsbedingungen. Schadenanzeige § 31 VVG im Phishing Vorfall Pruefer. |
-| `vorfall-fristen-form-und-zustaendigkeit` | Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer. |
+| `vorfall-fristen-form-und-zustaendigkeit` | Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Phishing Vorfall Pruefer. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Phishing Vorfall Pruefer. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Phishing Vorfall Pruefer. |

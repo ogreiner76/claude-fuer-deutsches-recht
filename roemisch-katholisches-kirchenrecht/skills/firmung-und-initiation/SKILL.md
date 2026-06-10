@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Firmspender, Alter, Vorbereitung, Nachweis und Nachholung**.
+Prüft insbesondere: **Firmspender, Alter, Vorbereitung, Nachweis und Nachholung**.
 
 **CIC-/Normanker:** can. 879-896.
 

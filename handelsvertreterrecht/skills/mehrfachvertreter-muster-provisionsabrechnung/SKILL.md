@@ -19,7 +19,7 @@ Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Inte
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Mehrfachvertreter nach § 86 HGB — Interessenkonflikte und Offenlegungspflichten.
+Unterstützt bei rechtlichen Fragen rund um Mehrfachvertreter nach § 86 HGB — Interessenkonflikte und Offenlegungspflichten.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.

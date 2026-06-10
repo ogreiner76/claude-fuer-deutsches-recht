@@ -7,7 +7,7 @@ description: "Mietminderung § 536 BGB: fachanwaltlicher Spezial-Skill mit Norme
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Mietminderung § 536 BGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Mietminderung § 536 BGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

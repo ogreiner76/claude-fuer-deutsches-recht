@@ -1,6 +1,6 @@
 ---
 name: mandantenentscheidung-einspruch-sonderfall
-description: "Dokumentation: Mandantenkommunikation und Entscheidungsvorlage im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Dokumentation: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Dokumentation: Mandantenkommunikation und Entscheidungsvorlage

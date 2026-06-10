@@ -1,6 +1,6 @@
 ---
 name: stvo-dokumentenmatrix-und-lueckenliste
-description: "Stvo: Dokumentenmatrix, Lückenliste und Nachforderung: Stvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verkehrsrecht."
+description: "Stvo: Dokumentenmatrix, Lückenliste und Nachforderung: Stvo: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Stvo: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -14,7 +14,7 @@ description: "Stvo: Dokumentenmatrix, Lückenliste und Nachforderung: Stvo: Doku
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Stvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verkehrsrecht.
+**Fokus:** Stvo: Dokumentenmatrix, Lückenliste und Nachforderung.
 
 ## Spezialwissen: Stvo: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.

@@ -1,6 +1,6 @@
 ---
 name: tatbestandsmerkmale-interessen
-description: "Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix im Plugin Urteilsbauer Relationsmacher: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfah..."
+description: "Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfah..."
 ---
 
 # Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix

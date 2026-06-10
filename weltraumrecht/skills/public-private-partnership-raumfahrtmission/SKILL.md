@@ -15,7 +15,7 @@ description: "PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, R
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Public-Private-Partnership Raumfahrtmission** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Public-Private-Partnership Raumfahrtmission** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

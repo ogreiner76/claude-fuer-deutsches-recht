@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen-beweislast-und-darlegungslast
-description: "Stellungnahmen: Beweislast, Darlegungslast und Substantiierung im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Stellungnahmen: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Stellungnahmen: Beweislast, Darlegungslast und Substantiierung

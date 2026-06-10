@@ -15,7 +15,7 @@ description: "Streitwert für zivilrechtliche Klagen berechnen: Hauptforderung, 
 
 ## Zweck
 
-Dieser Skill unterstützt bei der Berechnung des Streitwerts für gerichtliche
+Unterstützt bei der Berechnung des Streitwerts für gerichtliche
 Verfahren (§§ 39 ff. GKG), des anwaltlichen Gegenstandswerts (§ 23 RVG) sowie
 bei der Erstellung von Kostenfestsetzungsanträgen (§ 104 ZPO). Er dient ferner
 der Überprüfung vorläufiger Streitwertfestsetzungen des Gerichts und der

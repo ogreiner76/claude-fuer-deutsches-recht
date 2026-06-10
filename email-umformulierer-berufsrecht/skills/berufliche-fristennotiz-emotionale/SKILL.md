@@ -1,6 +1,6 @@
 ---
 name: berufliche-fristennotiz-emotionale
-description: "Berufliche: Fristennotiz und nächster Schritt im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Berufliche: Fristennotiz und nächster Schritt."
 ---
 
 # Berufliche: Fristennotiz und nächster Schritt

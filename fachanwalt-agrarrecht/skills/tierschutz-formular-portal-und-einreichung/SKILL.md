@@ -1,6 +1,6 @@
 ---
 name: tierschutz-formular-portal-und-einreichung
-description: "Tierschutz: Formular, Portal und Einreichungslogik: Tierschutz: Formular, Portal und Einreichungslogik im Plugin fachanwalt agrarrecht."
+description: "Tierschutz: Formular, Portal und Einreichungslogik: Tierschutz: Formular, Portal und Einreichungslogik."
 ---
 
 # Tierschutz: Formular, Portal und Einreichungslogik
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Tierschutz: Formular, Portal und Einreichungslogik im Plugin fachanwalt agrarrecht.
+**Fokus:** Tierschutz: Formular, Portal und Einreichungslogik.
 
 ## Spezialwissen: Tierschutz: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

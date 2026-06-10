@@ -1,6 +1,6 @@
 ---
 name: schlichtung-sonderfall-und-edge-case
-description: "Schlichtung: Sonderfall und Edge-Case-Prüfung im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Schlichtung: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Schlichtung: Sonderfall und Edge-Case-Prüfung

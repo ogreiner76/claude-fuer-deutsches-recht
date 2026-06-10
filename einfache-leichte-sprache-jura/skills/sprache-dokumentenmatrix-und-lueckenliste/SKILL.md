@@ -1,6 +1,6 @@
 ---
 name: sprache-dokumentenmatrix-und-lueckenliste
-description: "Sprache: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Sprache: Dokumentenmatrix, Lückenliste und Nachforderung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Sprache: Dokumentenmatrix, Lückenliste und Nachforderung

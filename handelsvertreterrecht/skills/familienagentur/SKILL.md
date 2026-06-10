@@ -15,7 +15,7 @@ description: "Prüft Besonderheiten der Familienhandelsvertretung: Mitarbeit von
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Familienhandelsvertretung — Mitarbeit von Angehörigen und Agenturübertragung.
+Unterstützt bei rechtlichen Fragen rund um Familienhandelsvertretung — Mitarbeit von Angehörigen und Agenturübertragung.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.

@@ -1,6 +1,6 @@
 ---
 name: 002-zwoelftafelgesetz-textzeugen
-description: "Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Römisches Recht: Dieser Skill bearbeitet Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt,..."
+description: "Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Römisches Recht: Bearbeite Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt,..."
 ---
 
 # Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht

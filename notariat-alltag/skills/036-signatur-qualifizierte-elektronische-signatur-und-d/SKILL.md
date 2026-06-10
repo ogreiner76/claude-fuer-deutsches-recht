@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Signatur – qualifizierte elektronische Signa
 
 ## Zweck und Anwendungsbereich
 
-Die qualifizierte elektronische Signatur (qeS) ist das digitale Äquivalent zur eigenhändigen Unterschrift. Im Notarwesen ersetzt sie bei zugelassenen Verfahren die papierene Beglaubigung. Dieser Skill klärt technische Anforderungen, rechtliche Wirkungen und typische Fehlerquellen.
+Die qualifizierte elektronische Signatur (qeS) ist das digitale Äquivalent zur eigenhändigen Unterschrift. Im Notarwesen ersetzt sie bei zugelassenen Verfahren die papierene Beglaubigung. Kläre technische Anforderungen, rechtliche Wirkungen und typische Fehlerquellen.
 
 Rechtsgrundlagen: eIDAS-Verordnung (EU) Nr. 910/2014 (Art. 25–32), § 126a BGB (elektronische Form), § 39a BeurkG (elektronische Beglaubigung), § 78b BNotO (beN), ERVV (Elektronischer Rechtsverkehr Verordnung), EIDAS-DurchführungsVO (Signaturformate), § 130a ZPO (elektronisches Dokument an Gericht).
 

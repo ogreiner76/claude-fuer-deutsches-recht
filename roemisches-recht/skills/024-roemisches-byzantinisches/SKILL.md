@@ -1,6 +1,6 @@
 ---
 name: 024-roemisches-byzantinisches
-description: "Römisches Recht: Römisches Recht und byzantinisches Sachenrecht im Römisches Recht: Dieser Skill bearbeitet Römisches Recht und byzantinisches Sachenrecht im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen..."
+description: "Römisches Recht: Römisches Recht und byzantinisches Sachenrecht im Römisches Recht: Bearbeite Römisches Recht und byzantinisches Sachenrecht im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen..."
 ---
 
 # Römisches Recht: Römisches Recht und byzantinisches Sachenrecht

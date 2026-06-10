@@ -1,6 +1,6 @@
 ---
 name: 011-pompeji-graffiti-sozialquelle
-description: "Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle im Römisches Recht: Dieser Skill bearbeitet Pompeji Graffiti als Rechts- und Sozialquelle im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen li..."
+description: "Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle im Römisches Recht: Bearbeite Pompeji Graffiti als Rechts- und Sozialquelle im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen li..."
 ---
 
 # Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle

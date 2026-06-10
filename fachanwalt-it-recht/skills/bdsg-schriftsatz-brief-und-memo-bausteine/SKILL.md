@@ -1,6 +1,6 @@
 ---
 name: bdsg-schriftsatz-brief-und-memo-bausteine
-description: "Bdsg: Schriftsatz-, Brief- und Memo-Bausteine: Bdsg: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt it recht."
+description: "Bdsg: Schriftsatz-, Brief- und Memo-Bausteine: Bdsg: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
@@ -28,7 +28,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bdsg: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt it recht.
+**Fokus:** Bdsg: Schriftsatz-, Brief- und Memo-Bausteine.
 
 ## Spezialwissen: Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.

@@ -20,6 +20,19 @@ BEGIN = "<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->"
 END = "<!-- END SKILLS-OVERVIEW (auto-generated) -->"
 
 
+def clean_description(desc: str) -> str:
+    """Entfernt alte Generator-/Konsolidierungsfloskeln aus Tabellenbeschreibungen."""
+    desc = re.sub(
+        r"\s+[—-]\s*Arbeitskontext:\s*[^.]+,\s*Schwerpunkt\s+[^.]+\.?",
+        "",
+        desc,
+    )
+    desc = re.sub(r"\s+im Plugin\s+[^.:\"`|]+(?=[:.])", "", desc)
+    desc = re.sub(r"\s+im Plugin\s+[^\"`|]+$", "", desc)
+    desc = re.sub(r"\s{2,}", " ", desc)
+    return desc.strip()
+
+
 def read_description(skill_md: Path) -> str:
     """Liest description aus YAML-Frontmatter einer SKILL.md."""
     if not skill_md.is_file():
@@ -52,7 +65,8 @@ def read_description(skill_md: Path) -> str:
     if desc.startswith('"') and desc.endswith('"'):
         desc = desc[1:-1]
     # Pipes für Tabelle escapen, Zeilenumbrueche in Spaces
-    desc = desc.replace("\n", " ").replace("|", "\\|").strip()
+    desc = clean_description(desc.replace("\n", " ").strip())
+    desc = desc.replace("|", "\\|").strip()
     # Lange Beschreibungen abkuerzen
     if len(desc) > 240:
         desc = desc[:237].rstrip() + "..."

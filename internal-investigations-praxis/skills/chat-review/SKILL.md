@@ -19,7 +19,7 @@ Chat-Kommunikation über Microsoft Teams, Slack, WhatsApp Business oder Signal i
 
 ## Ziel dieses Skills
 
-Dieser Skill sichert alle relevanten Chat-Kommunikationen rechtssicher, wertet sie effizient aus und beachtet die datenschutz- und mitbestimmungsrechtlichen Grenzen.
+Sichere alle relevanten Chat-Kommunikationen rechtssicher, wertet sie effizient aus und beachtet die datenschutz- und mitbestimmungsrechtlichen Grenzen.
 
 ## Arbeitsprogramm
 

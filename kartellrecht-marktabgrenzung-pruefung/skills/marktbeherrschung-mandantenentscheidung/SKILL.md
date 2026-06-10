@@ -1,6 +1,6 @@
 ---
 name: marktbeherrschung-mandantenentscheidung
-description: "Marktbeherrschung: Mandantenkommunikation und Entscheidungsvorlage im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Marktbeherrschung: Mandantenkommunikation und Entscheidungsvorlage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Marktbeherrschung: Mandantenkommunikation und Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: transparenzbericht-fristennotiz-dsa-dma
-description: "Transparenzbericht: Fristennotiz und nächster Schritt im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Transparenzbericht: Fristennotiz und nächster Schritt."
 ---
 
 # Transparenzbericht: Fristennotiz und nächster Schritt

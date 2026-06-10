@@ -1,6 +1,6 @@
 ---
 name: genehmigungspflichten-gericht
-description: "Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Betreuungsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
+description: "Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
 ---
 
 # Genehmigungspflichten: Dokumentenmatrix, Lückenliste und Nachforderung

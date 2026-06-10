@@ -1,6 +1,6 @@
 ---
 name: bayvgh-verhandlung-vergleich
-description: "Bayvgh: Verhandlung, Vergleich und Eskalation im Plugin Normenkontrolle Bauleitplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Bayvgh: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
 ---
 
 # Bayvgh: Verhandlung, Vergleich und Eskalation

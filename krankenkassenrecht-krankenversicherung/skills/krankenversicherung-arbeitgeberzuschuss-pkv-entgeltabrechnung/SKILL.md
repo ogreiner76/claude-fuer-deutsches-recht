@@ -15,7 +15,7 @@ description: "AG-Zuschuss zur PKV nach § 257 SGB V: Höhe, Berechnung, Sozialve
 
 ## Skill-Zweck
 
-Arbeitnehmer, die privat krankenversichert sind, haben Anspruch auf einen AG-Zuschuss zur PKV. Dieser Skill klärt **Berechnung, steuer- und sozialversicherungsrechtliche Behandlung und häufige Abrechnungsfehler**.
+Arbeitnehmer, die privat krankenversichert sind, haben Anspruch auf einen AG-Zuschuss zur PKV. Kläre **Berechnung, steuer- und sozialversicherungsrechtliche Behandlung und häufige Abrechnungsfehler**.
 
 ## Rechtlicher Rahmen
 

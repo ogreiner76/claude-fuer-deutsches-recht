@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Zwischenverfügung Registergericht – Antwort
 
 ## Zweck und Anwendungsbereich
 
-Zwischenverfügungen (§ 18 GBO, § 382 FamFG) sind das häufigste Kommunikationsmittel der Register. Dieser Skill führt durch die Analyse der Beanstandung, die Antwortstrategie, Fristen und den Rechtsbehelf bei ungerechtfertigter Beanstandung.
+Zwischenverfügungen (§ 18 GBO, § 382 FamFG) sind das häufigste Kommunikationsmittel der Register. Führe durch die Analyse der Beanstandung, die Antwortstrategie, Fristen und den Rechtsbehelf bei ungerechtfertigter Beanstandung.
 
 Rechtsgrundlagen: § 18 GBO (Grundbuch-Zwischenverfügung), § 382 FamFG (Register-Zwischenverfügung), §§ 58–69 FamFG (Beschwerdeverfahren), § 71 GBO (GBO-Beschwerde), BNotO § 15 (Dienstaufsicht), BGH-Rechtsprechung zu Registerrecht.
 

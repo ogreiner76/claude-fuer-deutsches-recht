@@ -58,7 +58,7 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 - **Einfache Sprache:** kurze Saetze, aktive Verben, ein Gedanke pro Satz. Beispiel: "Sie muessen bis 30. Juni zahlen."
 - **Leichte Sprache:** noch einfacher; Regeln nach DIN SPEC 33429. Eher für Personen mit kognitiver Einschraenkung.
-- **Behördensprache hoeflich-formal:** "Sehr geehrte Damen und Herren, mit Schreiben vom .. teilen Sie mit ... Hierzu nehme ich wie folgt Stellung: ..."
+- **Behördensprache hoeflich-formal:** "Sehr geehrte Damen und Herren, mit Schreiben vom . teilen Sie mit ... Hierzu nehme ich wie folgt Stellung: ..."
 - Tipp: Mehrdeutige Formulierungen vermeiden ("erforderlichenfalls" → "wenn noetig"; "Sachverhalt" → "Geschehen").
 
 ## Normen und Rechtsprechung

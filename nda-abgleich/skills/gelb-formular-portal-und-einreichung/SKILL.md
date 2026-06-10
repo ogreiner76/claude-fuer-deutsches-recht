@@ -1,6 +1,6 @@
 ---
 name: gelb-formular-portal-und-einreichung
-description: "Gelb: Formular, Portal und Einreichungslogik im Plugin nda abgleich im NDA-Abgleich."
+description: "Gelb: Formular, Portal und Einreichungslogik."
 ---
 
 # Gelb: Formular, Portal und Einreichungslogik

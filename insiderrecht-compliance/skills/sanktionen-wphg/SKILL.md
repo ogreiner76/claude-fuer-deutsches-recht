@@ -34,7 +34,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill analysiert das vollständige Sanktionsspektrum bei MAR-Verstößen und erstellt
+Analysiert das vollständige Sanktionsspektrum bei MAR-Verstößen und erstellt
 für jede Sanktionsebene eine Risikomatrix mit Tatbestand, Rechtsfolge und Verteidigungsstrategie.
 
 ## Arbeitsprogramm

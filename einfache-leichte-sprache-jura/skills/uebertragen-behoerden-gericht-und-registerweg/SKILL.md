@@ -1,6 +1,6 @@
 ---
 name: uebertragen-behoerden-gericht-und-registerweg
-description: "Uebertragen: Behörden-, Gerichts- oder Registerweg im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Uebertragen: Behörden-, Gerichts- oder Registerweg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Uebertragen: Behörden-, Gerichts- oder Registerweg

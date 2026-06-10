@@ -7,7 +7,7 @@ description: "Eignungskriterien § 122 GWB: fachanwaltlicher Spezial-Skill mit N
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Eignungskriterien § 122 GWB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Eignungskriterien § 122 GWB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

@@ -1,6 +1,6 @@
 ---
 name: oertlichen-risikoampel-und-gegenargumente
-description: "Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien

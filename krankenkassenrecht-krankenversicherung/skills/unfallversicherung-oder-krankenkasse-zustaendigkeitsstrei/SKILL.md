@@ -15,7 +15,7 @@ description: "Abgrenzung gesetzliche Unfallversicherung (SGB VII) und GKV bei Ar
 
 ## Skill-Zweck
 
-Bei Arbeitsunfällen und Berufskrankheiten ist die Berufsgenossenschaft (BG) zuständig, nicht die GKV. Dieser Skill klärt die **Zuständigkeitsabgrenzung, Vorleistungspflicht der GKV und Erstattungsansprüche zwischen den Trägern**.
+Bei Arbeitsunfällen und Berufskrankheiten ist die Berufsgenossenschaft (BG) zuständig, nicht die GKV. Kläre die **Zuständigkeitsabgrenzung, Vorleistungspflicht der GKV und Erstattungsansprüche zwischen den Trägern**.
 
 ## Rechtlicher Rahmen
 

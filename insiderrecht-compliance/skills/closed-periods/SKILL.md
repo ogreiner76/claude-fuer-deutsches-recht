@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill erstellt einen vollständigen Closed-Period-Kalender, stellt die rechtzeitige
+Erstellt einen vollständigen Closed-Period-Kalender, stellt die rechtzeitige
 Kommunikation an PDMRs sicher und prüft Ausnahmeanträge auf Zulässigkeit.
 
 ## Arbeitsprogramm

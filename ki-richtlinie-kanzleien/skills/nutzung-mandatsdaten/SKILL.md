@@ -1,6 +1,6 @@
 ---
 name: nutzung-mandatsdaten
-description: "Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg

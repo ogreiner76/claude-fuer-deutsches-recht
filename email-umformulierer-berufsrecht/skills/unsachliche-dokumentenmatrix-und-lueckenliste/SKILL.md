@@ -1,6 +1,6 @@
 ---
 name: unsachliche-dokumentenmatrix-und-lueckenliste
-description: "Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: treuhandkonto-versteigerung
-description: "Treuhandkonto: Behörden-, Gerichts- oder Registerweg im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Treuhandkonto: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Treuhandkonto: Behörden-, Gerichts- oder Registerweg

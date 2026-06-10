@@ -15,7 +15,7 @@ description: "Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — U
 
 ## Zweck dieses Skills
 
-Öffentliche und wissenschaftliche Bibliotheken haben besondere Rechte und Lizenzanforderungen für die Bereitstellung von E-Books. Dieser Skill klärt die Rechtslage beim E-Lending, die verschiedenen Lizenzmodelle, Preisbindungsfragen und aktuelle EU-Rechtsprechung zur digitalen Ausleihe.
+Öffentliche und wissenschaftliche Bibliotheken haben besondere Rechte und Lizenzanforderungen für die Bereitstellung von E-Books. Kläre die Rechtslage beim E-Lending, die verschiedenen Lizenzmodelle, Preisbindungsfragen und aktuelle EU-Rechtsprechung zur digitalen Ausleihe.
 
 ## Rechtsgrundlagen
 

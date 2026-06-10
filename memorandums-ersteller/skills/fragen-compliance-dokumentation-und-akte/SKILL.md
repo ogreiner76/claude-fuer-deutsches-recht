@@ -1,6 +1,6 @@
 ---
 name: fragen-compliance-dokumentation-und-akte
-description: "Fragen: Compliance-Dokumentation und Aktenvermerk im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Fragen: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Fragen: Compliance-Dokumentation und Aktenvermerk

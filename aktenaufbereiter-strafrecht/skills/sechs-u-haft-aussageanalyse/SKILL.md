@@ -1,6 +1,6 @@
 ---
 name: sechs-u-haft-aussageanalyse
-description: "Sechs: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Sechs: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Sechs: Fristen, Form, Zuständigkeit und Rechtsweg

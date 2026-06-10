@@ -1,6 +1,6 @@
 ---
 name: leistungsmatrix-fristennotiz-und-naechster-schritt
-description: "Leistungsmatrix: Fristennotiz und nächster Schritt im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Leistungsmatrix: Fristennotiz und nächster Schritt."
 ---
 
 # Leistungsmatrix: Fristennotiz und nächster Schritt

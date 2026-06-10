@@ -1,6 +1,6 @@
 ---
 name: zeugenbeistand-internationaler-bezug-und-schnittstellen
-description: "Zeugenbeistand: Internationaler Bezug und Schnittstellen: Zeugenbeistand: Internationaler Bezug und Schnittstellen im Plugin fachanwalt strafrecht."
+description: "Zeugenbeistand: Internationaler Bezug und Schnittstellen: Zeugenbeistand: Internationaler Bezug und Schnittstellen."
 ---
 
 # Zeugenbeistand: Internationaler Bezug und Schnittstellen
@@ -14,7 +14,7 @@ description: "Zeugenbeistand: Internationaler Bezug und Schnittstellen: Zeugenbe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Zeugenbeistand: Internationaler Bezug und Schnittstellen im Plugin fachanwalt strafrecht.
+**Fokus:** Zeugenbeistand: Internationaler Bezug und Schnittstellen.
 
 ## Spezialwissen: Zeugenbeistand: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** StPO.

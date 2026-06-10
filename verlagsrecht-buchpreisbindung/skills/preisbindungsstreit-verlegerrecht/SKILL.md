@@ -15,7 +15,7 @@ description: "Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unter
 
 ## Zweck dieses Skills
 
-Dieser Skill führt durch das **gerichtliche Verfahren** bei Preisbindungsstreitigkeiten: Unterlassungsklage, einstweilige Verfügung, Auskunftsanspruch und Schadensersatz. Er klärt Zuständigkeiten, Fristen, Beweisanforderungen und strategische Optionen für Verlage und Buchhandel.
+Führt durch das **gerichtliche Verfahren** bei Preisbindungsstreitigkeiten: Unterlassungsklage, einstweilige Verfügung, Auskunftsanspruch und Schadensersatz. Er klärt Zuständigkeiten, Fristen, Beweisanforderungen und strategische Optionen für Verlage und Buchhandel.
 
 ## Rechtsgrundlagen
 

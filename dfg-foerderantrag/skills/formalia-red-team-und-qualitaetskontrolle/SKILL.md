@@ -1,6 +1,6 @@
 ---
 name: formalia-red-team-und-qualitaetskontrolle
-description: "Formalia: Red-Team und Qualitätskontrolle im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Formalia: Red-Team und Qualitätskontrolle."
 ---
 
 # Formalia: Red-Team und Qualitätskontrolle

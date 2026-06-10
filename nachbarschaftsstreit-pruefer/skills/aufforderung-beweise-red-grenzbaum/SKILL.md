@@ -1,6 +1,6 @@
 ---
 name: aufforderung-beweise-red-grenzbaum
-description: "Aufforderung: Mandantenkommunikation und Entscheidungsvorlage im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Aufforderung: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Aufforderung: Mandantenkommunikation und Entscheidungsvorlage

@@ -7,7 +7,7 @@ description: "Pflegeversicherung Pflegegrad: fachanwaltlicher Spezial-Skill mit 
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Pflegeversicherung Pflegegrad** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Pflegeversicherung Pflegegrad** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

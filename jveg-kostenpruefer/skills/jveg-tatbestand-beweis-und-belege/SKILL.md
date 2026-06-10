@@ -1,6 +1,6 @@
 ---
 name: jveg-tatbestand-beweis-und-belege
-description: "JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # JVEG: Tatbestandsmerkmale, Beweisfragen und Beleglage

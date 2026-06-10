@@ -1,6 +1,6 @@
 ---
 name: tagessaetze-verstaendigung-sonderfall
-description: "Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine im Plugin strafbefehl verteidiger im Strafbefehl Verteidiger."
+description: "Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine
@@ -14,7 +14,7 @@ description: "Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine im Plugin str
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine
-- **Konkreter Gegenstand:** Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine im Plugin strafbefehl verteidiger..
+- **Konkreter Gegenstand:** Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine.
 - **Normen-/Verfahrensanker:** StPO §§ 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen.
 - **Entscheidende Weiche:** Tat, Beweis, Rechtsfolge, Frist, Mandantenziel und Kostenrisiko so trennen, dass sofort klar wird: Einspruch voll, beschränkt oder Rücknahme/Deal.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

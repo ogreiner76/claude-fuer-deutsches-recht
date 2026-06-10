@@ -15,7 +15,7 @@ description: "GKV-Leistungen für Haushaltshilfe (§ 38 SGB V), Fahrkosten (§ 6
 
 ## Skill-Zweck
 
-Dieser Skill bearbeitet **ergänzende GKV-Leistungen** neben der Krankenbehandlung: Haushaltshilfe bei Krankenhausaufenthalt oder ambulanter Behandlung sowie Fahrkostenerstattung. Beide Leistungen werden häufig abgelehnt, obwohl die rechtlichen Voraussetzungen vorliegen.
+Bearbeite **ergänzende GKV-Leistungen** neben der Krankenbehandlung: Haushaltshilfe bei Krankenhausaufenthalt oder ambulanter Behandlung sowie Fahrkostenerstattung. Beide Leistungen werden häufig abgelehnt, obwohl die rechtlichen Voraussetzungen vorliegen.
 
 ## Rechtlicher Rahmen
 

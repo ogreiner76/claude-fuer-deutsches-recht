@@ -1,6 +1,6 @@
 ---
 name: legal-tatbestand-beweis-und-belege
-description: "Legal: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin word legal ai plugin and skill for german lawyers im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Legal: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Legal: Tatbestandsmerkmale, Beweisfragen und Beleglage

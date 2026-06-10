@@ -15,7 +15,7 @@ description: "Pfändung und Beschlagnahme von Satelliten und Frequenzrechten –
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Beschlagnahme oder Pfändung von Satellitenrechten** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Beschlagnahme oder Pfändung von Satellitenrechten** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

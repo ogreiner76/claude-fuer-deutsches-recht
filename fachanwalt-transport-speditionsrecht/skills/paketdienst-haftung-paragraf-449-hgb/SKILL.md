@@ -7,7 +7,7 @@ description: "Paketdienst Haftung § 449 HGB: fachanwaltlicher Spezial-Skill mit
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Paketdienst Haftung § 449 HGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Paketdienst Haftung § 449 HGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

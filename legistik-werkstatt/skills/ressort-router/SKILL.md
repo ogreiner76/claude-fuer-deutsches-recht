@@ -11,7 +11,7 @@ description: "Ressort-Router der Legistik-Werkstatt: leitet nach Auftragsaufnahm
 
 Legistinnen und Legisten kommen oft aus den Politikwissenschaften, dem öffentlichen Recht oder aus
 Verwaltungslaufbahnen - das Ressort und seine Materie sind dabei zunaechst nicht ihr Heimspielfeld.
-Dieser Skill macht den Sprung vom abstrakten Vorhaben zur ressortspezifischen Arbeitsumgebung:
+Macht den Sprung vom abstrakten Vorhaben zur ressortspezifischen Arbeitsumgebung:
 **welches Ministerium - welche Materie - welche Skills.**
 
 ## Ressort-Matrix Bundesregierung Kabinett Merz Stand 2026

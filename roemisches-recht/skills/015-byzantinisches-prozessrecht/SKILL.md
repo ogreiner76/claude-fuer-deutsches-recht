@@ -1,6 +1,6 @@
 ---
 name: 015-byzantinisches-prozessrecht
-description: "Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition im Römisches Recht: Dieser Skill bearbeitet Byzantinisches Prozessrecht Richter Kanzlei und Petition im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt..."
+description: "Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition im Römisches Recht: Bearbeite Byzantinisches Prozessrecht Richter Kanzlei und Petition im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt..."
 ---
 
 # Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition

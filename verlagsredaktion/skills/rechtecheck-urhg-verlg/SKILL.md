@@ -15,7 +15,7 @@ description: "Erstellt eine redaktionelle Rechteampel zu UrhG, Verlagsgesetz, Nu
 
 ## Kein Rechtsgutachten
 
-Dieser Skill bereitet Rechtefragen für Redaktion, Justiziariat oder externe Prüfung vor.
+Bereitet Rechtefragen für Redaktion, Justiziariat oder externe Prüfung vor.
 
 ## Prüfpunkte
 

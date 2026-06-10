@@ -30,7 +30,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill erstellt ein vollständiges Archivierungskonzept für alle insiderrechtlich
+Erstellt ein vollständiges Archivierungskonzept für alle insiderrechtlich
 relevanten Dokumente, das Aufbewahrungsfristen, Formate, Zugriffssicherung und
 DSGVO-konformes Löschkonzept umfasst.
 

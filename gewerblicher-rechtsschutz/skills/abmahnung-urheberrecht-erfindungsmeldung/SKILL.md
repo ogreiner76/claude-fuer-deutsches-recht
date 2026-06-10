@@ -19,7 +19,7 @@ Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mand
 
 ## Zweck
 
-Dieser Skill behandelt das urheberrechtliche Abmahnverfahren nach § 97a UrhG
+Behandelt das urheberrechtliche Abmahnverfahren nach § 97a UrhG
 als notwendige Voraussetzung für die gerichtliche Geltendmachung von
 Unterlassungs- und Schadensersatzansprüchen (§§ 97, 97a UrhG). Er deckt
 sowohl die Gläubigerperspektive (Abmahnung verfassen, Unterlassungserklärung

@@ -7,7 +7,7 @@ description: "Verlagsrecht: Kaltstart-Analyse eines Verlagsmandats — Werk, Ver
 
 ## Zweck dieses Skills
 
-Dieser Skill stellt den **Eingangspunkt** für alle verlagsrechtlichen Mandate dar. Er klärt in einem strukturierten Aufnahme-Gespräch, welches Werk, welcher Vertragstyp, welcher Vertriebsweg und welche Preisbindungssituation vorliegen – bevor irgendeine inhaltliche Bewertung beginnt. Ohne diese Grundlage laufen spätere Prüfschritte ins Leere oder produzieren fehlerhafte Ergebnisse.
+Eingangspunkt für alle verlagsrechtlichen Mandate dar. Er klärt in einem strukturierten Aufnahme-Gespräch, welches Werk, welcher Vertragstyp, welcher Vertriebsweg und welche Preisbindungssituation vorliegen – bevor irgendeine inhaltliche Bewertung beginnt. Ohne diese Grundlage laufen spätere Prüfschritte ins Leere oder produzieren fehlerhafte Ergebnisse.
 
 ## Rechtsgrundlagen (Normenrahmen)
 

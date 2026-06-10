@@ -1,6 +1,6 @@
 ---
 name: schnelle-formular-portal-und-einreichung
-description: "Schnelle: Formular, Portal und Einreichungslogik im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Schnelle: Formular, Portal und Einreichungslogik."
 ---
 
 # Schnelle: Formular, Portal und Einreichungslogik

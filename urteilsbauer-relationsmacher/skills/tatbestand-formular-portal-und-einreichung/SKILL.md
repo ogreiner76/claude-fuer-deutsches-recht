@@ -1,6 +1,6 @@
 ---
 name: tatbestand-formular-portal-und-einreichung
-description: "Tatbestand: Formular, Portal und Einreichungslogik im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Tatbestand: Formular, Portal und Einreichungslogik."
 ---
 
 # Tatbestand: Formular, Portal und Einreichungslogik

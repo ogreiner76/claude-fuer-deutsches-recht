@@ -1,6 +1,6 @@
 ---
 name: dsv-zeitleiste
-description: "Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung: Behandelt: Eintritt; Erstwa — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv zeitleiste."
+description: "Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung: Behandelt: Eintritt; Erstwa"
 ---
 
 # Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung

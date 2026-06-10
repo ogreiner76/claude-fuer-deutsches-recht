@@ -28,7 +28,7 @@ description: "Prüft und dokumentiert die ordnungsgemäße Anhörung des Betrieb
 
 ## Zweck
 
-Dieser Skill dient der Prüfung und Durchführung der Betriebsratsanhörung nach § 102 BetrVG als notwendige Wirksamkeitsvoraussetzung jeder Arbeitgeberkündigung in Betrieben mit Betriebsrat. Die fehlerhafte oder unterbliebene Anhörung führt nach § 102 Abs. 1 Satz 3 BetrVG zwingend zur Unwirksamkeit der Kündigung – unabhängig davon, ob ein Kündigungsschutzrecht im Übrigen besteht. Der Skill ist einschlägig bei der Prüfung einer erhaltenen Kündigung (Arbeitnehmerperspektive), beim Entwurf des Anhörungsschreibens (Arbeitgeberperspektive) sowie bei der Frage des Widerspruchsrechts des BR (§ 102 Abs. 3 BetrVG) und des Weiterbeschäftigungsanspruchs (§ 102 Abs. 5 BetrVG).
+Dient der Prüfung und Durchführung der Betriebsratsanhörung nach § 102 BetrVG als notwendige Wirksamkeitsvoraussetzung jeder Arbeitgeberkündigung in Betrieben mit Betriebsrat. Die fehlerhafte oder unterbliebene Anhörung führt nach § 102 Abs. 1 Satz 3 BetrVG zwingend zur Unwirksamkeit der Kündigung – unabhängig davon, ob ein Kündigungsschutzrecht im Übrigen besteht. Der Skill ist einschlägig bei der Prüfung einer erhaltenen Kündigung (Arbeitnehmerperspektive), beim Entwurf des Anhörungsschreibens (Arbeitgeberperspektive) sowie bei der Frage des Widerspruchsrechts des BR (§ 102 Abs. 3 BetrVG) und des Weiterbeschäftigungsanspruchs (§ 102 Abs. 5 BetrVG).
 
 ## Eingaben
 

@@ -7,7 +7,7 @@ description: "Bemessungsgrundlage Forschungszulage ab 2026 belastbar berechnen: 
 
 ## Worum geht es
 
-Die Höhe der Forschungszulage hängt nicht von der BSFZ ab, sondern allein von den ansatzfähigen Aufwendungen und dem Höchstbetrag der Bemessungsgrundlage (BMG). Dieser Skill liefert die Berechnungslogik, die Personalkostenformel, die Behandlung von Auftragsforschung und Eigenleistung sowie typische Pitfalls.
+Die Höhe der Forschungszulage hängt nicht von der BSFZ ab, sondern allein von den ansatzfähigen Aufwendungen und dem Höchstbetrag der Bemessungsgrundlage (BMG). Liefere die Berechnungslogik, die Personalkostenformel, die Behandlung von Auftragsforschung und Eigenleistung sowie typische Pitfalls.
 
 Stand 2026 — alle Zahlen vom Antragsteller mit aktueller Gesetzesfassung und BMF-Verwaltungsanweisungen abzugleichen.
 

@@ -9,7 +9,7 @@ description: "Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Dieser Skill analysiert einen eingegangenen E-Mail-Text systematisch auf emotionale Belastung, unsachliche Formulierungen und potenzielle berufsrechtliche Risiken. Er bildet die Grundlage für alle nachfolgenden Umformulierungsschritte.
+Analysiert einen eingegangenen E-Mail-Text systematisch auf emotionale Belastung, unsachliche Formulierungen und potenzielle berufsrechtliche Risiken. Er bildet die Grundlage für alle nachfolgenden Umformulierungsschritte.
 
 ## Triage zu Beginn
 1. Von wem stammt die E-Mail: Mandant, Gegner, gegnerischer Anwalt, Gericht, Behörde oder Unbekannter?

@@ -1,6 +1,6 @@
 ---
 name: ermittlungsverfahren-vergleich-eskalation
-description: "Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation: Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt strafrecht."
+description: "Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation: Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
@@ -14,7 +14,7 @@ description: "Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation: Ermit
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt strafrecht.
+**Fokus:** Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation.
 
 ## Spezialwissen: Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** StPO.

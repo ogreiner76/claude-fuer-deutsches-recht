@@ -1,6 +1,6 @@
 ---
 name: benefits-mandantenkommunikation-entscheidungsvorlage
-description: "Benefits: Mandantenkommunikation und Entscheidungsvorlage im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Benefits: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Benefits: Mandantenkommunikation und Entscheidungsvorlage

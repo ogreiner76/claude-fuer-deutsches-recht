@@ -1,6 +1,6 @@
 ---
 name: word-stil-ton
-description: "Word: Erstprüfung, Rollenklärung und Mandatsziel im Plugin word legal ai plugin and skill for german lawyers im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Word: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Word: Erstprüfung, Rollenklärung und Mandatsziel

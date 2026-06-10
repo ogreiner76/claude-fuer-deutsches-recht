@@ -19,7 +19,7 @@ US-amerikanische Discovery-Pflichten nach den Federal Rules of Civil Procedure (
 
 ## Ziel dieses Skills
 
-Dieser Skill analysiert das US-Discovery-Risiko für laufende Internal Investigations, leitet Schutzmaßnahmen ab und klärt, welche Dokumente trotz Privilege-Anspruch offengelegt werden müssen.
+Analysiert das US-Discovery-Risiko für laufende Internal Investigations, leitet Schutzmaßnahmen ab und klärt, welche Dokumente trotz Privilege-Anspruch offengelegt werden müssen.
 
 ## Arbeitsprogramm
 

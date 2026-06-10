@@ -84,7 +84,7 @@ Automatisch generierte Komplett-Liste aller 102 Skills in diesem Plugin. Beschre
 | `internationale-kooperation-memorandum-of-understanding` | MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt im Weltraumrecht. |
 | `internationale-streitbeilegung` | Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht im Weltraumrecht. |
 | `ip-an-weltraumerfindungen-an-bord` | Patentrecht für Weltraumerfindungen – Jurisdiktion an Bord, ISS, Arbeitgebererfindung im Weltraumrecht. |
-| `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting im Plugin Weltraumrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokumen... |
+| `kaltstart-triage` | Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittex... |
 | `katastrophenschutz-mit-satellitendaten` | Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten im Weltraumrecht. |
 | `ki-an-bord-autonomie-und-ai-act-schnittstelle` | Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung im Weltraumrecht. |
 | `kleinsatellit-universitaet-amateurfunk` | CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm im Weltraumrecht. |

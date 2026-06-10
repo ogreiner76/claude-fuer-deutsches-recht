@@ -15,7 +15,7 @@ description: "Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Vollstreckung des Buchauszugsanspruchs nach § 87c HGB und § 888 ZPO.
+Unterstützt bei rechtlichen Fragen rund um Vollstreckung des Buchauszugsanspruchs nach § 87c HGB und § 888 ZPO.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.

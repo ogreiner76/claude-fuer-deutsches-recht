@@ -1,6 +1,6 @@
 ---
 name: ampelmatrix-internationaler-bezug-und-schnittstellen
-description: "Ampelmatrix: Internationaler Bezug und Schnittstellen im Plugin nda abgleich im NDA-Abgleich."
+description: "Ampelmatrix: Internationaler Bezug und Schnittstellen."
 ---
 
 # Ampelmatrix: Internationaler Bezug und Schnittstellen

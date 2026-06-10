@@ -1,6 +1,6 @@
 ---
 name: sonderfall-edge-roadmap-rolle
-description: "Pruefung: Sonderfall und Edge-Case-Prüfung im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Pruefung: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Pruefung: Sonderfall und Edge-Case-Prüfung

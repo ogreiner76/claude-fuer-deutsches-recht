@@ -1,6 +1,6 @@
 ---
 name: wandelt-erstpruefung-und-mandatsziel
-description: "Wandelt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Wandelt: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Wandelt: Erstprüfung, Rollenklärung und Mandatsziel

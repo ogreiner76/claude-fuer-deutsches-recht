@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill steuert die insiderrechtliche Compliance in Restrukturierungsverfahren, von der
+Steuert die insiderrechtliche Compliance in Restrukturierungsverfahren, von der
 ersten Restrukturierungsüberlegung bis zum abgeschlossenen Sanierungsplan.
 
 ## Arbeitsprogramm

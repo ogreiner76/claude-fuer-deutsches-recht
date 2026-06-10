@@ -7,7 +7,7 @@ description: "kfz Haftpflicht § 115 VVG: fachanwaltlicher Spezial-Skill mit Nor
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **kfz Haftpflicht § 115 VVG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **kfz Haftpflicht § 115 VVG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

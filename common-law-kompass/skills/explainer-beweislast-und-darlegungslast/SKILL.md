@@ -1,6 +1,6 @@
 ---
 name: explainer-beweislast-und-darlegungslast
-description: "Explainer: Beweislast, Darlegungslast und Substantiierung im Plugin common law kompass im Common Law Kompass."
+description: "Explainer: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Explainer: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: compliance-sonderfall-edge-case
-description: "Compliance: Sonderfall und Edge-Case-Prüfung: Compliance: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt internationales wirtschaftsrecht."
+description: "Compliance: Sonderfall und Edge-Case-Prüfung: Compliance: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Compliance: Sonderfall und Edge-Case-Prüfung
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Compliance: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt internationales wirtschaftsrecht.
+**Fokus:** Compliance: Sonderfall und Edge-Case-Prüfung.
 
 ## Spezialwissen: Compliance: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG, UNCIT.

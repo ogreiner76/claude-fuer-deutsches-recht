@@ -1,6 +1,6 @@
 ---
 name: werkvertrag-dokumentenmatrix-und-lueckenliste
-description: "Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung: Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bau architektenrecht."
+description: "Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung: Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -14,7 +14,7 @@ description: "Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung: Wer
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bau architektenrecht.
+**Fokus:** Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung.
 
 ## Spezialwissen: Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

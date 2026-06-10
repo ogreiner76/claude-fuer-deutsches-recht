@@ -1,6 +1,6 @@
 ---
 name: livecheck-mehrparteien-konflikt-und-interessen
-description: "Livecheck: Mehrparteienkonflikt und Interessenmatrix im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Livecheck: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Livecheck: Mehrparteienkonflikt und Interessenmatrix

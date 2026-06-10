@@ -1,6 +1,6 @@
 ---
 name: antraege-zahlen-schwellen-und-berechnung
-description: "Antraege: Zahlen, Schwellenwerte und Berechnung im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Antraege: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Antraege: Zahlen, Schwellenwerte und Berechnung

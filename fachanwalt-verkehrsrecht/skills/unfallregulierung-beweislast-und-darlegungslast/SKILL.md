@@ -1,6 +1,6 @@
 ---
 name: unfallregulierung-beweislast-und-darlegungslast
-description: "Unfallregulierung: Beweislast, Darlegungslast und Substantiierung: Unfallregulierung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verkehrsrecht."
+description: "Unfallregulierung: Beweislast, Darlegungslast und Substantiierung: Unfallregulierung: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Unfallregulierung: Beweislast, Darlegungslast und Substantiierung
@@ -14,7 +14,7 @@ description: "Unfallregulierung: Beweislast, Darlegungslast und Substantiierung:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Unfallregulierung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verkehrsrecht.
+**Fokus:** Unfallregulierung: Beweislast, Darlegungslast und Substantiierung.
 
 ## Spezialwissen: Unfallregulierung: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, BGB.

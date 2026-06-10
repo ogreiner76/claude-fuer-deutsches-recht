@@ -7,7 +7,7 @@ description: "Red-Team-Analyse für Weltraummissionen – rechtliche Schwachstel
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Red Team: Space Mission Legal Readiness** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Red Team: Space Mission Legal Readiness** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

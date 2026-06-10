@@ -1,6 +1,6 @@
 ---
 name: aeuv-behoerden-gericht-und-registerweg
-description: "Aeuv: Behörden-, Gerichts- oder Registerweg im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Aeuv: Behörden-, Gerichts- oder Registerweg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Aeuv: Behörden-, Gerichts- oder Registerweg

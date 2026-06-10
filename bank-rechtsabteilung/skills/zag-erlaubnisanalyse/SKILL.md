@@ -15,7 +15,7 @@ description: "ZAG-Erlaubnisanalyse für Zahlungsinstitute: Zahlungsdienste katal
 
 ## Worum es geht
 
-Dieser Skill prüft, ob ein Geschäftsmodell der Erlaubnispflicht nach dem ZAG unterliegt, welcher Zahlungsdienst nach § 1 ZAG einschlägig ist und welche Mindestanforderungen für den BaFin-Antrag erfüllt sein müssen. Kapital, Sicherung von Kundengeldern, Geschäftsleiter-Eignung und Auslagerungen werden normseitig verankert. Abgrenzung zu Bankerlaubnis (KWG) und E-Geld-Erlaubnis wird durchgeführt.
+Prüfe, ob ein Geschäftsmodell der Erlaubnispflicht nach dem ZAG unterliegt, welcher Zahlungsdienst nach § 1 ZAG einschlägig ist und welche Mindestanforderungen für den BaFin-Antrag erfüllt sein müssen. Kapital, Sicherung von Kundengeldern, Geschäftsleiter-Eignung und Auslagerungen werden normseitig verankert. Abgrenzung zu Bankerlaubnis (KWG) und E-Geld-Erlaubnis wird durchgeführt.
 
 ## Kernnormen
 

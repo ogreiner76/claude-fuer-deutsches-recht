@@ -1,6 +1,6 @@
 ---
 name: kennzahlenset-mandantenentscheidung
-description: "Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage

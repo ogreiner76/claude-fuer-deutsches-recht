@@ -42,7 +42,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Parallelfassungen mit gleicher Rechtsaussage und sauberer Terminologie**.
+Prüft insbesondere: **Parallelfassungen mit gleicher Rechtsaussage und sauberer Terminologie**.
 
 **CIC-/Normanker:** can. 747-755, 1507, 1612.
 

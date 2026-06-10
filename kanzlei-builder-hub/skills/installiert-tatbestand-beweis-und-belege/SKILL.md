@@ -1,6 +1,6 @@
 ---
 name: installiert-tatbestand-beweis-und-belege
-description: "Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage

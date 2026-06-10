@@ -20,7 +20,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill führt ein strukturiertes Red-Team-Review für jeden MAR-relevanten Sachverhalt
+Führt ein strukturiertes Red-Team-Review für jeden MAR-relevanten Sachverhalt
 durch. Er fordert Gegenthesen zu allen Compliance-Entscheidungen ein, prüft Dokumentation auf
 BaFin-Anfragetauglichkeit und gibt Verbesserungsempfehlungen.
 

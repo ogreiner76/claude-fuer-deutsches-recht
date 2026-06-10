@@ -29,7 +29,7 @@ Eine Bank bestellt eine Hypothek auf ein Segel- oder Motorjacht als Sicherheit f
 6. Eintragungsbestaetigung und ggf. Hypothekenbrief sichern; Sicherungsvertrag archivieren.
 
 ## Rechtsrahmen
-- BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m; SchRG § 31 Zubehoer-Mithaftung; SchRG § 75 Hoechstbetragshypothek; SchRegO §§ 13-19. CE-Kennzeichnung; Fahrterlaubnis BSH; VAT-Status EU; MCA Cat..
+- BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m; SchRG § 31 Zubehoer-Mithaftung; SchRG § 75 Hoechstbetragshypothek; SchRegO §§ 13-19. CE-Kennzeichnung; Fahrterlaubnis BSH; VAT-Status EU; MCA Cat.
 
 ## Prüfraster
 - Ist das Segel- oder Motorjacht im Seeschiffsregister oder Kleinfahrzeugregister eingetragen und eintragungsfaehig?

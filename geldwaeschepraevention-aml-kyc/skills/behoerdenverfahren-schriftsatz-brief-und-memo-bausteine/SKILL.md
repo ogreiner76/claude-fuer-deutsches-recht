@@ -1,6 +1,6 @@
 ---
 name: behoerdenverfahren-schriftsatz-brief-und-memo-bausteine
-description: "Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine

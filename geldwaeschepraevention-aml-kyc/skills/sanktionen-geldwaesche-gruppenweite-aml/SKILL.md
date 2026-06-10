@@ -1,6 +1,6 @@
 ---
 name: sanktionen-geldwaesche-gruppenweite-aml
-description: "Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung

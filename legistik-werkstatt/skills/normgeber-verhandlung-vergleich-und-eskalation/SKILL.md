@@ -1,6 +1,6 @@
 ---
 name: normgeber-verhandlung-vergleich-und-eskalation
-description: "Normgeber: Verhandlung, Vergleich und Eskalation im Plugin legistik werkstatt im Legistik."
+description: "Normgeber: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Normgeber: Verhandlung, Vergleich und Eskalation

@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Geldwäscheprüfung bei Immobilientransaktione
 
 ## Zweck und Anwendungsbereich
 
-Notare sind Verpflichtete nach dem Geldwäschegesetz (GwG). Dieser Skill führt durch die vollständige GwG-Prüfung bei Immobilientransaktionen: Identifizierung, Transparenzregisterprüfung, Risikoklassifizierung, PEP-Screening, verstärkte Sorgfaltspflichten und Meldepflichten.
+Notare sind Verpflichtete nach dem Geldwäschegesetz (GwG). Führe durch die vollständige GwG-Prüfung bei Immobilientransaktionen: Identifizierung, Transparenzregisterprüfung, Risikoklassifizierung, PEP-Screening, verstärkte Sorgfaltspflichten und Meldepflichten.
 
 Rechtsgrundlagen: §§ 1–17 GwG (Begriffsbestimmungen, allgemeine Sorgfaltspflichten), §§ 10–11 GwG (Sorgfaltspflichten im Detail), §§ 14–17 GwG (verstärkte Sorgfaltspflichten), §§ 43–47 GwG (Meldepflichten, Verdachtsanzeige), §§ 20–24 GwG (Transparenzregister), § 43 GwG (Verdachtsmeldung FIU), BNotO § 18 (Verschwiegenheit vs. GwG-Pflicht).
 

@@ -1,6 +1,6 @@
 ---
 name: verifikation-compliance-dokumentation-und-akte
-description: "Verifikation: Compliance-Dokumentation und Aktenvermerk im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Verifikation: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Verifikation: Compliance-Dokumentation und Aktenvermerk

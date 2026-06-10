@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Datenschutz im Notariat – Aktenversand und C
 
 ## Zweck und Anwendungsbereich
 
-Das Notariat verarbeitet besonders sensible personenbezogene Daten (Vermögensverhältnisse, Gesundheitsdaten in Vorsorgevollmachten, biometrische Daten). Dieser Skill klärt DSGVO-Pflichten, sicheren Aktenversand und Grenzen der Cloud-Nutzung.
+Das Notariat verarbeitet besonders sensible personenbezogene Daten (Vermögensverhältnisse, Gesundheitsdaten in Vorsorgevollmachten, biometrische Daten). Kläre DSGVO-Pflichten, sicheren Aktenversand und Grenzen der Cloud-Nutzung.
 
 Rechtsgrundlagen: DSGVO (EU) 2016/679, BDSG 2018, §§ 29–30 BNotO (Verschwiegenheitspflicht), § 18 BNotO (Aktenaufbewahrung), GwG §§ 8, 10 (GwG-Dokumentation), BeurkG § 54 (Urkundenaufbewahrung), Landesnotargesetze.
 

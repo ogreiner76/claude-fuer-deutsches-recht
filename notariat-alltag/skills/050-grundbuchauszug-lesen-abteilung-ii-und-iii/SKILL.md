@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Grundbuchauszug lesen – Abteilung II und III
 
 ## Zweck und Anwendungsbereich
 
-Ein aktueller Grundbuchauszug ist Ausgangspunkt jedes Grundstücksgeschäfts. Dieser Skill führt durch die systematische Lektüre aller drei Abteilungen und zeigt, welche Eintragungen vollzugsrelevant sind.
+Ein aktueller Grundbuchauszug ist Ausgangspunkt jedes Grundstücksgeschäfts. Führe durch die systematische Lektüre aller drei Abteilungen und zeigt, welche Eintragungen vollzugsrelevant sind.
 
 Rechtsgrundlagen: GBO §§ 2–15 (Grundbuchinhalt), GBV §§ 1–21 (Grundbuchverfügung), §§ 873–902 BGB (Grundstücksrechte), §§ 1030–1093 BGB (Dienstbarkeiten), §§ 1094–1104 BGB (Vorkaufsrechte), §§ 1105–1112 BGB (Reallasten), §§ 1113–1203 BGB (Grundpfandrechte).
 

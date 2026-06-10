@@ -15,7 +15,7 @@ description: "Verlagsrecht: Presserecht, Gegendarstellung und Unterlassungsanspr
 
 ## Zweck dieses Skills
 
-Verlage und Zeitschriften operieren im Spannungsfeld zwischen **Pressefreiheit** (GG Art. 5) und dem Schutz von Persönlichkeitsrechten, Unternehmensreputation und Datenschutz. Dieser Skill klärt die presserechtlichen Grundlagen, das Gegendarstellungsrecht, Unterlassungsansprüche und die Haftung für Presseberichte.
+Verlage und Zeitschriften operieren im Spannungsfeld zwischen **Pressefreiheit** (GG Art. 5) und dem Schutz von Persönlichkeitsrechten, Unternehmensreputation und Datenschutz. Kläre die presserechtlichen Grundlagen, das Gegendarstellungsrecht, Unterlassungsansprüche und die Haftung für Presseberichte.
 
 ## Rechtsgrundlagen
 

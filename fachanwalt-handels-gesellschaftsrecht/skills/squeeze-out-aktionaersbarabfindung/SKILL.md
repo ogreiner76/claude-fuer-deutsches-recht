@@ -7,7 +7,7 @@ description: "Squeeze out Aktionaersbarabfindung: fachanwaltlicher Spezial-Skill
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Squeeze out Aktionaersbarabfindung** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Squeeze out Aktionaersbarabfindung** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

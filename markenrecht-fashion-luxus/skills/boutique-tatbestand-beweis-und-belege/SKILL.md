@@ -1,6 +1,6 @@
 ---
 name: boutique-tatbestand-beweis-und-belege
-description: "Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: hoefliche-konformitaet-mails
-description: "Hoefliche: Behörden-, Gerichts- oder Registerweg im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Hoefliche: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Hoefliche: Behörden-, Gerichts- oder Registerweg

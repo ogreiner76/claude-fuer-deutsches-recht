@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Plugin Leasingrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Skill das Material eigen..."
+description: "Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Skill das Material eigen..."
 ---
 
 ## Aktenstart statt Formularstart

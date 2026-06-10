@@ -15,7 +15,7 @@ description: "Pflichtversicherung Studierender (§ 5 Abs. 1 Nr. 9 SGB V): Alters
 
 ## Skill-Zweck
 
-Studierende sind zu günstigen Konditionen gesetzlich pflichtversichert – aber nur bis zu bestimmten Altersgrenzen. Dieser Skill klärt **Altersgrenzen, Fachsemesterlimits, Übergangslösungen und Folgen des Versicherungsendes**.
+Studierende sind zu günstigen Konditionen gesetzlich pflichtversichert – aber nur bis zu bestimmten Altersgrenzen. Kläre **Altersgrenzen, Fachsemesterlimits, Übergangslösungen und Folgen des Versicherungsendes**.
 
 ## Rechtlicher Rahmen
 

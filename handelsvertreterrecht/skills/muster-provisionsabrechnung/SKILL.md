@@ -15,7 +15,7 @@ description: "Erstellt Musterprovisonionsabrechnungen für Handelsvertreter nach
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Muster-Provisionsabrechnung nach § 87c HGB.
+Unterstützt bei rechtlichen Fragen rund um Muster-Provisionsabrechnung nach § 87c HGB.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.

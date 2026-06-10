@@ -7,7 +7,7 @@ description: "Arzthaftung und ärztliche Aufklärung nach §§ 630a ff. BGB: Spe
 
 ## Worum es geht
 
-Dieser Skill prüft, ob eine medizinische Behandlung wirksam eingewilligt, ordnungsgemäß aufgeklärt, dokumentiert und prozessual beweisbar ist. Er eignet sich für Patientenseite, Behandlerseite und Versicherer.
+Prüfe, ob eine medizinische Behandlung wirksam eingewilligt, ordnungsgemäß aufgeklärt, dokumentiert und prozessual beweisbar ist. Er eignet sich für Patientenseite, Behandlerseite und Versicherer.
 
 ## Normenanker
 

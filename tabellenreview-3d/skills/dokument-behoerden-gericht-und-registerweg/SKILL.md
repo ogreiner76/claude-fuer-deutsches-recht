@@ -1,6 +1,6 @@
 ---
 name: dokument-behoerden-gericht-und-registerweg
-description: "Dokument: Behörden-, Gerichts- oder Registerweg im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Dokument: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Dokument: Behörden-, Gerichts- oder Registerweg

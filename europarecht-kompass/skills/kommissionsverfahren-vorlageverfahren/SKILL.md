@@ -1,6 +1,6 @@
 ---
 name: kommissionsverfahren-vorlageverfahren
-description: "Kommissionsverfahren: Formular, Portal und Einreichungslogik im Plugin europarecht kompass im Europarecht Kompass."
+description: "Kommissionsverfahren: Formular, Portal und Einreichungslogik."
 ---
 
 # Kommissionsverfahren: Formular, Portal und Einreichungslogik

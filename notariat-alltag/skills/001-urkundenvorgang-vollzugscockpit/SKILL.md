@@ -7,7 +7,7 @@ description: "Notariat im Alltag: Kaltstart – Urkundenvorgang und Vollzugscock
 
 ## Zweck und Anwendungsbereich
 
-Dieser Skill steuert den Kaltstart eines neuen notariellen Vorgangs. Er sortiert die praktische Lage, bevor irgendein Entwurf entsteht: Wer handelt, in welcher Funktion, mit welchen Dokumenten, unter welchen Fristen, vor welcher Behörde und mit welchem Ergebnisziel. Das Vollzugscockpit ist das lebende Steuerungsinstrument bis zur Aktenabschlussnotiz.
+Steuert den Kaltstart eines neuen notariellen Vorgangs. Er sortiert die praktische Lage, bevor irgendein Entwurf entsteht: Wer handelt, in welcher Funktion, mit welchen Dokumenten, unter welchen Fristen, vor welcher Behörde und mit welchem Ergebnisziel. Das Vollzugscockpit ist das lebende Steuerungsinstrument bis zur Aktenabschlussnotiz.
 
 Rechtsgrundlagen: §§ 1–21 BNotO (Amtspflichten, Zuständigkeit, Unparteilichkeit), §§ 1–26 BeurkG (Beurkundungsverfahren), §§ 1–56 DONot (Dienstpflichten, Urkundenrolle, Aufbewahrung), GNotKG (Kostenrecht), GwG (Geldwäscheprüfung), GBO/GBV (Grundbuchrecht), FamFG §§ 1–24a (Antragsverfahren).
 

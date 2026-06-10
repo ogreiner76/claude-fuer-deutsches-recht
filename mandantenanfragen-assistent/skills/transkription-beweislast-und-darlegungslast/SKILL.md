@@ -1,6 +1,6 @@
 ---
 name: transkription-beweislast-und-darlegungslast
-description: "Transkription: Beweislast, Darlegungslast und Substantiierung im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Transkription: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Transkription: Beweislast, Darlegungslast und Substantiierung

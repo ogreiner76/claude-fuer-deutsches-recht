@@ -1,6 +1,6 @@
 ---
 name: lawyers-legal
-description: "Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin word legal ai plugin and skill for german lawyers im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Lawyers: Dokumentenmatrix, Lückenliste und Nachforderung

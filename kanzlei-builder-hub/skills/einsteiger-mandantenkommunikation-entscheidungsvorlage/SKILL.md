@@ -1,6 +1,6 @@
 ---
 name: einsteiger-mandantenkommunikation-entscheidungsvorlage
-description: "Einsteiger: Mandantenkommunikation und Entscheidungsvorlage im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Einsteiger: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Einsteiger: Mandantenkommunikation und Entscheidungsvorlage

@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill erstellt die Governance für Datenräume in kapitalmarktrelevanten Transaktionen
+Erstellt die Governance für Datenräume in kapitalmarktrelevanten Transaktionen
 und stellt sicher, dass alle Zugangsberechtigten korrekt als Insider behandelt werden.
 
 ## Arbeitsprogramm

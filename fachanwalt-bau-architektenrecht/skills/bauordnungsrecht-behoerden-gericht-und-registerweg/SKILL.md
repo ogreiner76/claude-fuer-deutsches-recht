@@ -1,6 +1,6 @@
 ---
 name: bauordnungsrecht-behoerden-gericht-und-registerweg
-description: "Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg: Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bau architektenrecht."
+description: "Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg: Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg
@@ -14,7 +14,7 @@ description: "Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg: Bauordnu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bau architektenrecht.
+**Fokus:** Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg.
 
 ## Spezialwissen: Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

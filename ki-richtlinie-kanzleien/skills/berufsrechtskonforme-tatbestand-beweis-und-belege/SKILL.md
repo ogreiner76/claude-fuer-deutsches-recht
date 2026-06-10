@@ -1,6 +1,6 @@
 ---
 name: berufsrechtskonforme-tatbestand-beweis-und-belege
-description: "Berufsrechtskonforme: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Berufsrechtskonforme: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Berufsrechtskonforme: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -15,7 +15,7 @@ description: "Antrag auf einstweilige Verfuegung zur Sicherung zivilrechtlicher 
 
 ## Zweck
 
-Dieser Skill begleitet das Verfahren der einstweiligen Verfügung als Instrument des vorläufigen
+Begleitet das Verfahren der einstweiligen Verfügung als Instrument des vorläufigen
 Rechtsschutzes für nicht auf Geld gerichtete Ansprüche. Typische Mandate: wettbewerbsrechtliche
 Unterlassungsverfügungen (§ 935 ZPO), Sicherungsverfügungen bei drohender Beweisvereitelung
 oder Vermögensverschiebung, Regelungsverfügungen (§ 940 ZPO) bei Arbeitsverhältnissen,

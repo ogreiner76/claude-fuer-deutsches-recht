@@ -1,6 +1,6 @@
 ---
 name: beirat-kaltstart-und-zielbild
-description: "Beirat Kaltstart Und Zielbild: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad — Arbeitskontext: Mittelstand Corporate Ma, Schwerpunkt beirat kaltstart und zielbild."
+description: "Beirat Kaltstart Und Zielbild: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad"
 ---
 
 # Beirat Kaltstart Und Zielbild

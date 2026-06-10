@@ -15,7 +15,7 @@ description: "Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte 
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **systematische Fristenverwaltung** im gewerblichen Rechtsschutz – von der Erfassung über die Überwachung bis zur termingerechten Ablieferung von Abschlussprodukten. Fristversäumnisse im IP-Recht können zum Verlust von Schutzrechten, zu Kostenfolgen oder zum Scheitern von Verfahren führen. Eine strukturierte Fristenmatrix ist die Grundlage verlässlicher anwaltlicher Praxis.
+Behandelt die **systematische Fristenverwaltung** im gewerblichen Rechtsschutz – von der Erfassung über die Überwachung bis zur termingerechten Ablieferung von Abschlussprodukten. Fristversäumnisse im IP-Recht können zum Verlust von Schutzrechten, zu Kostenfolgen oder zum Scheitern von Verfahren führen. Eine strukturierte Fristenmatrix ist die Grundlage verlässlicher anwaltlicher Praxis.
 
 Mandatsbezug: Kanzlei betreut 20 Markenanmeldungen gleichzeitig; Rechtsabteilung verwaltet globales Patentportfolio; Anwalt hat mehrere parallele EV-Verfahren mit verschiedenen Vollziehungsfristen.
 

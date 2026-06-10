@@ -21,7 +21,7 @@ Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner o
 
 Beweisanordnungen und Vorladungen kommen mit Fristen. Die typischen Fehler: Frist verpassen, zu viel produzieren (Schutzrechtsverlust, unnötige Belastung), zu wenig produzieren (Ordnungsgeld, Beugehaft) oder das Fenster für eine Einwendung versäumen. Dieser Skill klassifiziert, analysiert und erstellt einen Mitwirkungsplan mit Einwendungsgerüst.
 
-Hinweis: Ein direktes Pendant zur US-amerikanischen "Subpoena" existiert im deutschen Recht nicht. Dieser Skill behandelt die deutschen Rechtsinstitute, die vergleichbare Funktionen erfüllen: Urkundenvorlageanordnung (§ 142 ZPO), Augenscheinsanordnung (§ 144 ZPO), Zeugenladung (§§ 373 ff. ZPO), polizeiliche und staatsanwaltschaftliche Anforderungen (§ 161a StPO), Durchsuchung und Sicherstellung (§§ 102, 103 StPO) sowie behördliche Auskunftsersuchen.
+Hinweis: Ein direktes Pendant zur US-amerikanischen "Subpoena" existiert im deutschen Recht nicht. Behandle die deutschen Rechtsinstitute, die vergleichbare Funktionen erfüllen: Urkundenvorlageanordnung (§ 142 ZPO), Augenscheinsanordnung (§ 144 ZPO), Zeugenladung (§§ 373 ff. ZPO), polizeiliche und staatsanwaltschaftliche Anforderungen (§ 161a StPO), Durchsuchung und Sicherstellung (§§ 102, 103 StPO) sowie behördliche Auskunftsersuchen.
 
 ## Eingaben
 

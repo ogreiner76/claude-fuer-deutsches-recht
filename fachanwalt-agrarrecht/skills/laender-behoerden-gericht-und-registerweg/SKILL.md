@@ -1,6 +1,6 @@
 ---
 name: laender-behoerden-gericht-und-registerweg
-description: "Länder: Behörden-, Gerichts- oder Registerweg: Länder: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht."
+description: "Länder: Behörden-, Gerichts- oder Registerweg: Länder: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Länder: Behörden-, Gerichts- oder Registerweg
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Länder: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht.
+**Fokus:** Länder: Behörden-, Gerichts- oder Registerweg.
 
 ## Spezialwissen: Länder: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

@@ -1,6 +1,6 @@
 ---
 name: ueberhang-dokumentenmatrix-und-lueckenliste
-description: "Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Ueberhang: Dokumentenmatrix, Lückenliste und Nachforderung

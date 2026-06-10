@@ -1,6 +1,6 @@
 ---
 name: agio-und-kapitalerhoehungsstruktur
-description: "Strukturierung von Kapitalerhöhungen mit Agio bei VC-Finanzierungsrunden Holding-Aufbauten und M&A-Sekundärfinanzierungen. Übersetzung US-Term-Sheet-Begriffe (Original Purchase Price Par Value APIC Liquidation Preference) in deutsche Kategorien (Ausgabebetrag Nennbetrag Kapitalrücklage Vorzugsrec — Arbeitskontext: Corporate-Kanzlei (M&A, Gesellschaftsrecht), Schwerpunkt agio und kapitalerhoehungsstruktur."
+description: "Strukturierung von Kapitalerhöhungen mit Agio bei VC-Finanzierungsrunden Holding-Aufbauten und M&A-Sekundärfinanzierungen. Übersetzung US-Term-Sheet-Begriffe (Original Purchase Price Par Value APIC Liquidation Preference) in deutsche Kategorien (Ausgabebetrag Nennbetrag Kapitalrücklage Vorzugsrec"
 ---
 
 # Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis
@@ -192,7 +192,7 @@ Bei Down-Rounds (Pre-Money unter letztem Post-Money) ist ein Bezugsrechtsausschl
 
 ## Abgrenzung
 
-- Gesellschaftsrechtliche Dogmatik des Agios siehe Skill agio-und-kapitalruecklage im Plugin gesellschaftsrecht.
+- Gesellschaftsrechtliche Dogmatik des Agios siehe Skill agio-und-kapitalruecklage.
 - Bewertung des Sachagio-Gegenstands siehe Skill mittelstand-corporate-ma-transaktionsstruktur.
 - Steuerliche Vertiefung siehe Plugin steuerrecht-anwalt-und-berater.
 - Signing- und Closing-Mechanik siehe Skill corporate-kanzlei-signing-closing-conditions.

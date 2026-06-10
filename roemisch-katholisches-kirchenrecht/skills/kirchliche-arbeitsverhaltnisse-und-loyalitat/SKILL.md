@@ -32,7 +32,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Loyalitätsobliegenheiten, Sendungsnähe und Dienstgemeinschaft**.
+Prüft insbesondere: **Loyalitätsobliegenheiten, Sendungsnähe und Dienstgemeinschaft**.
 
 **CIC-/Normanker:** can. 231, 1286.
 

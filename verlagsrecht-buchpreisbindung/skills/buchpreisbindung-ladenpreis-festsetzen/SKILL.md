@@ -15,7 +15,7 @@ description: "Buchpreisbindungsgesetz: Ladenpreis rechtssicher festsetzen — Bu
 
 ## Zweck dieses Skills
 
-Dieser Skill führt durch den **Prozess der Ladenpreisfestsetzung** nach dem Buchpreisbindungsgesetz (BuchPrG): Wer darf den Preis festsetzen, wie ist er zu melden, welche Produkte sind erfasst, welche Ausnahmen bestehen und wie wird die Preisbindung gegenüber dem Buchhandel durchgesetzt.
+Führt durch den **Prozess der Ladenpreisfestsetzung** nach dem Buchpreisbindungsgesetz (BuchPrG): Wer darf den Preis festsetzen, wie ist er zu melden, welche Produkte sind erfasst, welche Ausnahmen bestehen und wie wird die Preisbindung gegenüber dem Buchhandel durchgesetzt.
 
 ## Rechtsgrundlagen
 

@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausna
 
 ## Zweck und Anwendungsbereich
 
-Das Notaranderkonto ist kein Standardinstrument, sondern ein Ausnahmefall. Dieser Skill führt durch die strengen Zulässigkeitsvoraussetzungen, die Verwahrungsanweisung, Auszahlungsbedingungen und die besondere Haftungsverantwortung des Notars.
+Das Notaranderkonto ist kein Standardinstrument, sondern ein Ausnahmefall. Führe durch die strengen Zulässigkeitsvoraussetzungen, die Verwahrungsanweisung, Auszahlungsbedingungen und die besondere Haftungsverantwortung des Notars.
 
 Rechtsgrundlagen: § 54a BeurkG (Verwahrungsgeschäfte), § 57 BeurkG (Antrag auf Verwahrung), §§ 23–26 DONot (Notaranderkonto/Verwahrung), § 14 BNotO (Amtspflichten), BeurkG § 17 (Belehrung), GNotKG KV Nr. 25300 ff. (Verwahrungsgebühren), § 3 GwG (GwG-Pflichten auch bei Verwahrung).
 

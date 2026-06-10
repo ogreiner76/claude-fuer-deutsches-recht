@@ -104,7 +104,7 @@ Bei "Wir möchten uns melden ..." oder "Ich schreibe im Namen meiner Mutter ..."
 Nach der Extraktion:
 1. Vollständigkeit prüfen: Fehlen Pflichtfelder (Name, E-Mail), kennzeichnen und für manuelle Ergänzung markieren.
 2. Keine Interpretation über den Wortlaut hinaus: Sachverhaltsfetzen sind Zitate oder direkte Zusammenfassungen, keine rechtliche Würdigung.
-3. Keine Rechtsberatung: Dieser Skill erstellt keine rechtliche Bewertung — nur Faktenextraktion.
+3. Keine Rechtsberatung: Erstelle keine rechtliche Bewertung — nur Faktenextraktion.
 
 ## Verweise auf andere Skills
 

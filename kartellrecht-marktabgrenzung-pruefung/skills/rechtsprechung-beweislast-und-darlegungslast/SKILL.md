@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-beweislast-und-darlegungslast
-description: "Rechtsprechung: Beweislast, Darlegungslast und Substantiierung im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Rechtsprechung: Beweislast, Darlegungslast und Substantiierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Rechtsprechung: Beweislast, Darlegungslast und Substantiierung

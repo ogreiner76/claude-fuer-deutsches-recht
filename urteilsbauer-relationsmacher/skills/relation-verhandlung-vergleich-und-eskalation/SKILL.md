@@ -1,6 +1,6 @@
 ---
 name: relation-verhandlung-vergleich-und-eskalation
-description: "Relation: Verhandlung, Vergleich und Eskalation im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Relation: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Relation: Verhandlung, Vergleich und Eskalation

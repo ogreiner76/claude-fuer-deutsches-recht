@@ -1,6 +1,6 @@
 ---
 name: sponsoring-internationaler-bezug-und-schnittstellen
-description: "Sponsoring: Internationaler Bezug und Schnittstellen: Sponsoring: Internationaler Bezug und Schnittstellen im Plugin fachanwalt sportrecht."
+description: "Sponsoring: Internationaler Bezug und Schnittstellen: Sponsoring: Internationaler Bezug und Schnittstellen."
 ---
 
 # Sponsoring: Internationaler Bezug und Schnittstellen
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Sponsoring: Internationaler Bezug und Schnittstellen im Plugin fachanwalt sportrecht.
+**Fokus:** Sponsoring: Internationaler Bezug und Schnittstellen.
 
 ## Spezialwissen: Sponsoring: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

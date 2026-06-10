@@ -1,6 +1,6 @@
 ---
 name: betrieblichen-drei-duesseldorfer-sonderfall
-description: "Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage

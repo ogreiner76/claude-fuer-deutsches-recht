@@ -1,6 +1,6 @@
 ---
 name: grobe-online-phishing
-description: "Grobe: Formular, Portal und Einreichungslogik im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Grobe: Formular, Portal und Einreichungslogik."
 ---
 
 # Grobe: Formular, Portal und Einreichungslogik

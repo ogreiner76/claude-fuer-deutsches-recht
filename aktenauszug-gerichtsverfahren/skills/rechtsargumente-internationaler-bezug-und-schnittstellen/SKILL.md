@@ -1,6 +1,6 @@
 ---
 name: rechtsargumente-internationaler-bezug-und-schnittstellen
-description: "Rechtsargumente: Internationaler Bezug und Schnittstellen im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Rechtsargumente: Internationaler Bezug und Schnittstellen."
 ---
 
 # Rechtsargumente: Internationaler Bezug und Schnittstellen

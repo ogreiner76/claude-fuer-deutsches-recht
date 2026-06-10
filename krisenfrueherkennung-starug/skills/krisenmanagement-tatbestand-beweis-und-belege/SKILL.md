@@ -1,6 +1,6 @@
 ---
 name: krisenmanagement-tatbestand-beweis-und-belege
-description: "Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage

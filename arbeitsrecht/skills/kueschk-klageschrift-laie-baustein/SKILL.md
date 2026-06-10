@@ -51,7 +51,7 @@ description: "Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage: punktuel
 
 ## Zweck
 
-Dieser Skill erzeugt eine ausfüllbare Klageschrift-Vorlage für Arbeitnehmer ohne Rechtsanwalt. In der ersten Instanz vor dem Arbeitsgericht besteht kein Anwaltszwang (§ 11 Abs. 1 ArbGG). Die Klageschrift kann auch direkt zu Protokoll des Urkundsbeamten der Geschäftsstelle erklärt werden (§ 46 Abs. 2 ArbGG i.V.m. § 496 ZPO a.F.).
+Erzeugt eine ausfüllbare Klageschrift-Vorlage für Arbeitnehmer ohne Rechtsanwalt. In der ersten Instanz vor dem Arbeitsgericht besteht kein Anwaltszwang (§ 11 Abs. 1 ArbGG). Die Klageschrift kann auch direkt zu Protokoll des Urkundsbeamten der Geschäftsstelle erklärt werden (§ 46 Abs. 2 ArbGG i.V.m. § 496 ZPO a.F.).
 
 **Vor Verwendung dieser Vorlage:** Stelle sicher, dass du `kueschk-grundwarnung-falsche-wiese-und-haftung` gelesen hast. Die Drei-Wochen-Frist läuft.
 

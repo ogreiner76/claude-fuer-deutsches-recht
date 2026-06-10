@@ -1,6 +1,6 @@
 ---
 name: beschluss-tatbestand-beweis-und-belege
-description: "Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage

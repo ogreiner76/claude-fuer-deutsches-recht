@@ -7,7 +7,7 @@ description: "Link Haftung § 7 tmg: fachanwaltlicher Spezial-Skill mit Normenan
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Link Haftung § 7 tmg** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Link Haftung § 7 tmg** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

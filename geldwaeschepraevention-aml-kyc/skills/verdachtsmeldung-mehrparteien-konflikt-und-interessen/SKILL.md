@@ -1,6 +1,6 @@
 ---
 name: verdachtsmeldung-mehrparteien-konflikt-und-interessen
-description: "Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix: Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix im Plugin geldwaeschepraevention aml kyc."
+description: "Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix: Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix
@@ -14,7 +14,7 @@ description: "Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix: Verda
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (§ 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Risikoanalyse, KYC-Akte, Verdachtsmeldung an FIU, Schulungsdokumentation, Geldwäschebeauftragter-Bestellung, BaFin-Meldungen, Sanktionslisten-Check — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix im Plugin geldwaeschepraevention aml kyc.
+**Fokus:** Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix.
 
 ## Spezialwissen: Verdachtsmeldung: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** AML, KYC, GwG, UBO, PEP, FIU.

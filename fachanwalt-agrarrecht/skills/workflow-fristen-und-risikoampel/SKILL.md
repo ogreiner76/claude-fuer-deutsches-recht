@@ -1,6 +1,6 @@
 ---
 name: workflow-fristen-und-risikoampel
-description: "Fristen- und Risikoampel: Fristen- und Risikoampel im Plugin fachanwalt-agrarrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen."
+description: "Fristen- und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen."
 ---
 
 # Fristen- und Risikoampel
@@ -14,7 +14,7 @@ description: "Fristen- und Risikoampel: Fristen- und Risikoampel im Plugin facha
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fristen- und Risikoampel im Plugin fachanwalt-agrarrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
+**Fokus:** Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:

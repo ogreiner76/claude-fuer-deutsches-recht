@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-aufopferung
-description: "Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die Differenzierung zwischen Gesinde Tagelohn Handlungsgehilfe und freier Berufstaetigkeit Schutzvorschriften und das Verhaeltnis zur preussischen Sozialversicherung Bismarcks. Liefert Pruefraster im Preußisches Allgemeines Landrecht:..."
+description: "Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die Differenzierung zwischen Gesinde Tagelohn Handlungsgehilfe und freier Berufstaetigkeit Schutzvorschriften und das Verhaeltnis zur preussischen Sozialversicherung Bismarcks. Liefert Pruefraster:..."
 ---
 
 # Pralr Arbeitsrecht Vorgaenger Im Alr

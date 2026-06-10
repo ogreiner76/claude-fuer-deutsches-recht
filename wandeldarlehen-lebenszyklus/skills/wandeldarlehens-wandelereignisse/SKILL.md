@@ -1,6 +1,6 @@
 ---
 name: wandeldarlehens-wandelereignisse
-description: "Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
+description: "Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung

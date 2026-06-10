@@ -1,6 +1,6 @@
 ---
 name: spoofing-internationaler-bezug-und-schnittstellen
-description: "Spoofing: Internationaler Bezug und Schnittstellen: Spoofing: Internationaler Bezug und Schnittstellen im Plugin phishing vorfall pruefer."
+description: "Spoofing: Internationaler Bezug und Schnittstellen: Spoofing: Internationaler Bezug und Schnittstellen."
 ---
 
 # Spoofing: Internationaler Bezug und Schnittstellen
@@ -14,7 +14,7 @@ description: "Spoofing: Internationaler Bezug und Schnittstellen: Spoofing: Inte
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Spoofing: Internationaler Bezug und Schnittstellen im Plugin phishing vorfall pruefer.
+**Fokus:** Spoofing: Internationaler Bezug und Schnittstellen.
 
 ## Spezialwissen: Spoofing: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; DSGVO Art. 33, 34; StGB §§ 263, 263a, 202a, 269; Bank-AGB, Authentifizierungsprotokolle und Ombudsmannregeln.

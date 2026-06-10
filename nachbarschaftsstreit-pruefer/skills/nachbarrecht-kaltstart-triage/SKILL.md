@@ -21,7 +21,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Ziel
 
-Dieser Skill macht aus einem emotionalen Nachbarschaftsstreit eine bearbeitbare Akte. Er trennt Tatsachen, Rechtsfragen, Beweise, Eilpunkte und Kommunikationsrisiken.
+Macht aus einem emotionalen Nachbarschaftsstreit eine bearbeitbare Akte. Er trennt Tatsachen, Rechtsfragen, Beweise, Eilpunkte und Kommunikationsrisiken.
 
 ## Intake
 

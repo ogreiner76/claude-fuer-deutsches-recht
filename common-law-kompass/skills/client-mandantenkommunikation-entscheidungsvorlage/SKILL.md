@@ -1,6 +1,6 @@
 ---
 name: client-mandantenkommunikation-entscheidungsvorlage
-description: "Client: Mandantenkommunikation und Entscheidungsvorlage im Plugin common law kompass im Common Law Kompass."
+description: "Client: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Client: Mandantenkommunikation und Entscheidungsvorlage

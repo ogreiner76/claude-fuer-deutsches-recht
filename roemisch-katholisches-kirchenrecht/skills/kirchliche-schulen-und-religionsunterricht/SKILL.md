@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **katholisches Profil, Lehrkräfte, Sendung, Staat und Eltern**.
+Prüft insbesondere: **katholisches Profil, Lehrkräfte, Sendung, Staat und Eltern**.
 
 **CIC-/Normanker:** can. 793-821, 804-806.
 

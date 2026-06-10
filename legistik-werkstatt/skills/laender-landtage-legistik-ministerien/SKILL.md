@@ -1,6 +1,6 @@
 ---
 name: laender-landtage-legistik-ministerien
-description: "Länder: Behörden-, Gerichts- oder Registerweg im Plugin legistik werkstatt im Legistik."
+description: "Länder: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Länder: Behörden-, Gerichts- oder Registerweg

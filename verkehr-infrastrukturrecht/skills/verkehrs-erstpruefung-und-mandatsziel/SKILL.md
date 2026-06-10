@@ -1,6 +1,6 @@
 ---
 name: verkehrs-erstpruefung-und-mandatsziel
-description: "Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel

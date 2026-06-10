@@ -15,7 +15,7 @@ description: "Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenvers
 
 ## Skill-Zweck
 
-Wenn ein Leistungsträger an den Versicherten leistet, obwohl ein anderer Träger zuständig wäre, entstehen **Erstattungsansprüche zwischen den Trägern** nach §§ 102 ff. SGB X. Dieser Skill klärt diese Ansprüche und ihre Auswirkungen auf den Versicherten.
+Wenn ein Leistungsträger an den Versicherten leistet, obwohl ein anderer Träger zuständig wäre, entstehen **Erstattungsansprüche zwischen den Trägern** nach §§ 102 ff. SGB X. Kläre diese Ansprüche und ihre Auswirkungen auf den Versicherten.
 
 ## Rechtlicher Rahmen
 

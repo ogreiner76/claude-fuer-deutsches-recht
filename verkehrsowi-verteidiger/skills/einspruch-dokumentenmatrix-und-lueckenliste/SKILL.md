@@ -1,6 +1,6 @@
 ---
 name: einspruch-dokumentenmatrix-und-lueckenliste
-description: "Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung

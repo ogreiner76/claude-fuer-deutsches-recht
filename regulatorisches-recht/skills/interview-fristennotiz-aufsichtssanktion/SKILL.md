@@ -1,6 +1,6 @@
 ---
 name: interview-fristennotiz-aufsichtssanktion
-description: "Interview: Fristennotiz und nächster Schritt im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Interview: Fristennotiz und nächster Schritt."
 ---
 
 # Interview: Fristennotiz und nächster Schritt

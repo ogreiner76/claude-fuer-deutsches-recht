@@ -1,6 +1,6 @@
 ---
 name: saas-fristen-form-und-zustaendigkeit
-description: "Saas: Fristen, Form, Zuständigkeit und Rechtsweg: Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht."
+description: "Saas: Fristen, Form, Zuständigkeit und Rechtsweg: Saas: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Saas: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -14,7 +14,7 @@ description: "Saas: Fristen, Form, Zuständigkeit und Rechtsweg: Saas: Fristen, 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht.
+**Fokus:** Saas: Fristen, Form, Zuständigkeit und Rechtsweg.
 
 ## Spezialwissen: Saas: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.

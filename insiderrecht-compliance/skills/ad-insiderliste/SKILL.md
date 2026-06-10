@@ -30,7 +30,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill führt den Emittenten vollständig durch den Ad-hoc-Prozess: von der Entscheidung zur
+Führt den Emittenten vollständig durch den Ad-hoc-Prozess: von der Entscheidung zur
 Veröffentlichung bis zur rechtskonformen Dokumentation. Er deckt die Inhaltserfordernisse,
 Verbreitungswege, Sprachversionen, BaFin-Meldung und die anschließende Website-Archivierung ab.
 

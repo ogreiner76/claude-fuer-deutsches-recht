@@ -1,6 +1,6 @@
 ---
 name: aktenvermerk-fuer-gericht-oder-gutachten
-description: "PrALR: Aktenvermerk, Gutachtenbaustein oder Schriftsatzpassage zu PrALR-Fortwirkung erstellen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Aktenvermerk, Gutachtenbaustein oder Schriftsatzpassage zu PrALR-Fortwirkung erstellen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Aktenvermerk

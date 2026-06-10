@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Vermögen, Solidarität, Armenfürsorge und kirchliche Sendung**.
+Prüft insbesondere: **Vermögen, Solidarität, Armenfürsorge und kirchliche Sendung**.
 
 **CIC-/Normanker:** can. 222, 1254-1310.
 

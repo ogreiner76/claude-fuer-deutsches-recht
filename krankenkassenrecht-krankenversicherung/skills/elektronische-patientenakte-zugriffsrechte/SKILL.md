@@ -15,7 +15,7 @@ description: "ePA nach § 341 SGB V: Zugriffsrechte der Versicherten und Leistun
 
 ## Skill-Zweck
 
-Die elektronische Patientenakte (ePA) wird ab 2025 für alle GKV-Versicherten angelegt. Dieser Skill klärt **Zugriffsrechte, Datenschutzkontrolle, opt-out und Pflichten der beteiligten Akteure**.
+Die elektronische Patientenakte (ePA) wird ab 2025 für alle GKV-Versicherten angelegt. Kläre **Zugriffsrechte, Datenschutzkontrolle, opt-out und Pflichten der beteiligten Akteure**.
 
 ## Rechtlicher Rahmen
 

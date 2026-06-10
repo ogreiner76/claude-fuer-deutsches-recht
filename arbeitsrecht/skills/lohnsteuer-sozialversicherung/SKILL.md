@@ -32,7 +32,7 @@ description: "Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbst�
 
 ## Zweck
 
-Dieser Skill dient der Beurteilung des sozialversicherungsrechtlichen Beschäftigtenstatus sowie damit zusammenhängender lohnsteuerlicher Fragen. Er ist einschlägig, wenn die Abgrenzung zwischen abhängiger Beschäftigung (§ 7 Abs. 1 SGB IV) und selbständiger Tätigkeit rechtlich zu klären ist, ein Statusfeststellungsverfahren nach § 7a SGB IV eingeleitet werden soll oder bereits von der Deutschen Rentenversicherung Bund (DRV) durchgeführt wird, ein Verdacht auf Scheinselbständigkeit besteht (mit Nachzahlungsrisiken nach § 28e SGB IV, § 28p SGB IV) oder strafrechtliche Risiken nach § 266a StGB zu bewerten sind. Der Skill berücksichtigt die BSG-Rechtsprechung zu den Abgrenzungskriterien sowie die steuerrechtliche Einordnung (Lohnsteuer vs. Einkommensteuer / Umsatzsteuer).
+Dient der Beurteilung des sozialversicherungsrechtlichen Beschäftigtenstatus sowie damit zusammenhängender lohnsteuerlicher Fragen. Er ist einschlägig, wenn die Abgrenzung zwischen abhängiger Beschäftigung (§ 7 Abs. 1 SGB IV) und selbständiger Tätigkeit rechtlich zu klären ist, ein Statusfeststellungsverfahren nach § 7a SGB IV eingeleitet werden soll oder bereits von der Deutschen Rentenversicherung Bund (DRV) durchgeführt wird, ein Verdacht auf Scheinselbständigkeit besteht (mit Nachzahlungsrisiken nach § 28e SGB IV, § 28p SGB IV) oder strafrechtliche Risiken nach § 266a StGB zu bewerten sind. Der Skill berücksichtigt die BSG-Rechtsprechung zu den Abgrenzungskriterien sowie die steuerrechtliche Einordnung (Lohnsteuer vs. Einkommensteuer / Umsatzsteuer).
 
 ## Eingaben
 

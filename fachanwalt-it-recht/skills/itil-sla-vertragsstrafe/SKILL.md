@@ -7,7 +7,7 @@ description: "Itil sla Vertragsstrafe: fachanwaltlicher Spezial-Skill mit Normen
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Itil sla Vertragsstrafe** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Itil sla Vertragsstrafe** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

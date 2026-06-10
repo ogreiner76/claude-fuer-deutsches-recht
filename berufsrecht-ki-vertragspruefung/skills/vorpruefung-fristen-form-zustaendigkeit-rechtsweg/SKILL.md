@@ -1,6 +1,6 @@
 ---
 name: vorpruefung-fristen-form-zustaendigkeit-rechtsweg
-description: "Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrens..."
+description: "Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrens..."
 ---
 
 # Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg

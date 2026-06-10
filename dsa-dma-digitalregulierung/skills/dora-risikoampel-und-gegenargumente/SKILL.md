@@ -1,6 +1,6 @@
 ---
 name: dora-risikoampel-und-gegenargumente
-description: "Dora: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Dora: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Dora: Risikoampel, Gegenargumente und Verteidigungslinien

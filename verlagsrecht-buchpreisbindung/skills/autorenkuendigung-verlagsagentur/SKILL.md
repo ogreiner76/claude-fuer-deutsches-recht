@@ -15,7 +15,7 @@ description: "Verlagsrecht: Autorenkündigung des Verlagsvertrags, Bestseller-Na
 
 ## Zweck dieses Skills
 
-Dieser Skill behandelt zwei eng verwandte Konfliktfelder: Wann und wie kann ein Autor den Verlagsvertrag **kündigen** (Rücktritt, Rückruf, ordentliche Kündigung)? Und wann entsteht ein Anspruch auf **Nachvergütung** bei unerwartetem Werterfolg (§ 32a UrhG — Bestseller-Paragraf)? Beide Instrumente dienen dem wirtschaftlichen Ausgleich zwischen Autor und Verlag.
+Behandelt zwei eng verwandte Konfliktfelder: Wann und wie kann ein Autor den Verlagsvertrag **kündigen** (Rücktritt, Rückruf, ordentliche Kündigung)? Und wann entsteht ein Anspruch auf **Nachvergütung** bei unerwartetem Werterfolg (§ 32a UrhG — Bestseller-Paragraf)? Beide Instrumente dienen dem wirtschaftlichen Ausgleich zwischen Autor und Verlag.
 
 ## Rechtsgrundlagen
 

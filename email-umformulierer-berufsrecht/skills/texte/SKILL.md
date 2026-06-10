@@ -1,6 +1,6 @@
 ---
 name: texte
-description: "Texte: Zahlen, Schwellenwerte und Berechnung im Plugin Email Umformulierer Berufsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Texte: Zahlen, Schwellenwerte und Berechnung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
 ---
 
 # Texte: Zahlen, Schwellenwerte und Berechnung

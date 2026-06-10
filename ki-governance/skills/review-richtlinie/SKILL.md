@@ -1,6 +1,6 @@
 ---
 name: review-richtlinie
-description: "Pruefung: Internationaler Bezug und Schnittstellen im Plugin ki governance im Ki Governance."
+description: "Pruefung: Internationaler Bezug und Schnittstellen."
 ---
 
 # Pruefung: Internationaler Bezug und Schnittstellen

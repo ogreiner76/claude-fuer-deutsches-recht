@@ -1,6 +1,6 @@
 ---
 name: verbandsrecht-fristen-form-und-zustaendigkeit
-description: "Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht."
+description: "Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -14,7 +14,7 @@ description: "Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Verban
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht.
+**Fokus:** Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg.
 
 ## Spezialwissen: Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

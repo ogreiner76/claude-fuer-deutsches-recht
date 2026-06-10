@@ -15,7 +15,7 @@ description: "Unterstützt bei der rechtlichen Prüfung von Allgemeinen Geschäf
 
 ## Zweck
 
-Dieser Skill begleitet die vollständige AGB-rechtliche Prüfung nach §§ 305–310 BGB. Er deckt
+Begleitet die vollständige AGB-rechtliche Prüfung nach §§ 305–310 BGB. Er deckt
 drei Prüfungsebenen ab: (1) wirksame Einbeziehung (§§ 305–305c BGB), (2) Auslegung
 (§§ 305b, 305c Abs. 2 BGB) und (3) Inhaltskontrolle (§§ 307–309 BGB). Typische Mandate:
 Gestaltung oder Revision von Online-AGB (B2C/E-Commerce), Lieferanten- und Einkaufsbedingungen

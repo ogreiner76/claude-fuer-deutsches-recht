@@ -1,6 +1,6 @@
 ---
 name: abwaegung-formular-portal
-description: "Abwaegung: Formular, Portal und Einreichungslogik im Plugin Normenkontrolle Bauleitplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
+description: "Abwaegung: Formular, Portal und Einreichungslogik: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
 ---
 
 # Abwaegung: Formular, Portal und Einreichungslogik

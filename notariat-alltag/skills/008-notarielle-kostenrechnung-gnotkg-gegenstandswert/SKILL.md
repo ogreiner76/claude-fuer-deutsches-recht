@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegensta
 
 ## Zweck und Anwendungsbereich
 
-Die notarielle Kostenrechnung nach dem Gerichts- und Notarkostengesetz (GNotKG) ist zwingend und nicht verhandelbar. Dieser Skill führt durch Gegenstandswertermittlung, Gebührentatbestände, Kostenschuldner und häufige Fehlerquellen in der Rechnungsstellung.
+Die notarielle Kostenrechnung nach dem Gerichts- und Notarkostengesetz (GNotKG) ist zwingend und nicht verhandelbar. Führe durch Gegenstandswertermittlung, Gebührentatbestände, Kostenschuldner und häufige Fehlerquellen in der Rechnungsstellung.
 
 Rechtsgrundlagen: GNotKG (gesamt), §§ 34–55 GNotKG (Gegenstandswerte), § 29 GNotKG (Kostenschuldner), §§ 17–20 GNotKG (Kostenforderung, Fälligkeit), §§ 85–94 GNotKG (Vorschuss), KV GNotKG (Kostenverzeichnis), § 19 GNotKG (Kostenrechnung), § 81 GNotKG (Rechtsbehelf).
 

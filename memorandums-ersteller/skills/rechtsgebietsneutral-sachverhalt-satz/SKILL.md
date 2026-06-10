@@ -1,6 +1,6 @@
 ---
 name: rechtsgebietsneutral-sachverhalt-satz
-description: "Rechtsgebietsneutral: Abschlussprodukt und Übergabe im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Rechtsgebietsneutral: Abschlussprodukt und Übergabe."
 ---
 
 # Rechtsgebietsneutral: Abschlussprodukt und Übergabe

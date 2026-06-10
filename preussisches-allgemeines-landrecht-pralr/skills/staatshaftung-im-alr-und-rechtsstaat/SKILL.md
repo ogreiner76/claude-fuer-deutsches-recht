@@ -1,6 +1,6 @@
 ---
 name: staatshaftung-im-alr-und-rechtsstaat
-description: "Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die Staatshaftungsansaetze in der Einleitung des ALR die Stein-Hardenbergsche Reformphase und die spaetere Reichshaftung. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestan..."
+description: "Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die Staatshaftungsansaetze in der Einleitung des ALR die Stein-Hardenbergsche Reformphase und die spaetere Reichshaftung. Liefert Quellenmatrix: prüft konkret die einschlägigen Tatbestan..."
 ---
 
 # Pralr Staatshaftung Im Alr Und Rechtsstaat

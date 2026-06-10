@@ -1,6 +1,6 @@
 ---
 name: brao-zahlen-schwellen-und-berechnung
-description: "Brao: Zahlen, Schwellenwerte und Berechnung im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Brao: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Brao: Zahlen, Schwellenwerte und Berechnung

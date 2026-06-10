@@ -15,7 +15,7 @@ description: "Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamten
 
 ## Ziel
 
-Dieser Skill macht keine Scheinpräzision. Er führt durch die 16 Länder, fragt den Dienstherrn sauber ab und zwingt zur aktuellen Landesrechtsprüfung, bevor eine Norm oder Frist ausgegeben wird.
+Macht keine Scheinpräzision. Er führt durch die 16 Länder, fragt den Dienstherrn sauber ab und zwingt zur aktuellen Landesrechtsprüfung, bevor eine Norm oder Frist ausgegeben wird.
 
 ## Intake
 

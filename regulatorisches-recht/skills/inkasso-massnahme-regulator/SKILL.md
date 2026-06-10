@@ -1,6 +1,6 @@
 ---
 name: inkasso-massnahme-regulator
-description: "Inkasso: Verhandlung, Vergleich und Eskalation im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Inkasso: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Inkasso: Verhandlung, Vergleich und Eskalation

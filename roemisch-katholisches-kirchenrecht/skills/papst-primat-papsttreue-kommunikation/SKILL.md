@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **päpstlicher Primat, Bischofskollegium und Communio**.
+Prüft insbesondere: **päpstlicher Primat, Bischofskollegium und Communio**.
 
 **CIC-/Normanker:** can. 331-335, 336-341.
 

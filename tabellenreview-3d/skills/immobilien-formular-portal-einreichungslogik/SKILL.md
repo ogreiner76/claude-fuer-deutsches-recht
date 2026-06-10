@@ -1,6 +1,6 @@
 ---
 name: immobilien-formular-portal-einreichungslogik
-description: "Immobilien: Formular, Portal und Einreichungslogik im Plugin Tabellenreview 3D: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
+description: "Immobilien: Formular, Portal und Einreichungslogik: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
 ---
 
 # Immobilien: Formular, Portal und Einreichungslogik

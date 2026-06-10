@@ -1,6 +1,6 @@
 ---
 name: workflow-mandantenkommunikation
-description: "Mandantenkommunikation: Mandantenkommunikation im Plugin fachanwalt-internationales-wirtschaftsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten."
+description: "Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten."
 ---
 
 # Mandantenkommunikation
@@ -14,7 +14,7 @@ description: "Mandantenkommunikation: Mandantenkommunikation im Plugin fachanwal
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Mandantenkommunikation im Plugin fachanwalt-internationales-wirtschaftsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
+**Fokus:** Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:

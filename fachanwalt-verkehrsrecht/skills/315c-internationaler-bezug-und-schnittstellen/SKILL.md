@@ -1,6 +1,6 @@
 ---
 name: 315c-internationaler-bezug-und-schnittstellen
-description: "315C: Internationaler Bezug und Schnittstellen: 315C: Internationaler Bezug und Schnittstellen im Plugin fachanwalt verkehrsrecht."
+description: "315C: Internationaler Bezug und Schnittstellen: 315C: Internationaler Bezug und Schnittstellen."
 ---
 
 # 315C: Internationaler Bezug und Schnittstellen
@@ -28,7 +28,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** 315C: Internationaler Bezug und Schnittstellen im Plugin fachanwalt verkehrsrecht.
+**Fokus:** 315C: Internationaler Bezug und Schnittstellen.
 
 ## Spezialwissen: 315C: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, EUR, OLG.

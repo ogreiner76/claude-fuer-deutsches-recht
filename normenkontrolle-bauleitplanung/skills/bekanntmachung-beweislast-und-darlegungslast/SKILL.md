@@ -1,6 +1,6 @@
 ---
 name: bekanntmachung-beweislast-und-darlegungslast
-description: "Bekanntmachung: Beweislast, Darlegungslast und Substantiierung im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Bekanntmachung: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Bekanntmachung: Beweislast, Darlegungslast und Substantiierung

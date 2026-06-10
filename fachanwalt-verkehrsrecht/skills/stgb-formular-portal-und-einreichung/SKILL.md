@@ -1,6 +1,6 @@
 ---
 name: stgb-formular-portal-und-einreichung
-description: "Stgb: Formular, Portal und Einreichungslogik: Stgb: Formular, Portal und Einreichungslogik im Plugin fachanwalt verkehrsrecht."
+description: "Stgb: Formular, Portal und Einreichungslogik: Stgb: Formular, Portal und Einreichungslogik."
 ---
 
 # Stgb: Formular, Portal und Einreichungslogik
@@ -14,7 +14,7 @@ description: "Stgb: Formular, Portal und Einreichungslogik: Stgb: Formular, Port
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Stgb: Formular, Portal und Einreichungslogik im Plugin fachanwalt verkehrsrecht.
+**Fokus:** Stgb: Formular, Portal und Einreichungslogik.
 
 ## Spezialwissen: Stgb: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.

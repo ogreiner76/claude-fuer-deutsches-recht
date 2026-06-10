@@ -1,6 +1,6 @@
 ---
 name: anfechtungs-risikoampel-und-gegenargumente
-description: "Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien: Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verwaltungsrecht."
+description: "Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien: Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -14,7 +14,7 @@ description: "Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verwaltungsrecht.
+**Fokus:** Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Spezialwissen: Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** VwGO, VwVfG.

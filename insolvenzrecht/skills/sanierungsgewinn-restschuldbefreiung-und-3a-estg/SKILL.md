@@ -29,7 +29,7 @@ Bei natuerlichen Personen (Einzelunternehmer, Freiberufler, Gesellschafter einer
 - Die Restschuldbefreiung Paragraph 286 ff. InsO erlischt die Verbindlichkeit zivilrechtlich; sie ist aber **kein Sanierungsertrag** im Sinne von Paragraph 3a EStG, sondern eine eigene Konstellation.
 - Steuerlich kann gleichwohl ein Ertrag entstehen, der versteuert werden muss.
 
-Dieser Skill ordnet die Konstellationen und liefert Pruefraster. Adressat: IV, Sachwalter, StB, Schuldnervertretung.
+Ordnet die Konstellationen und liefert Pruefraster. Adressat: IV, Sachwalter, StB, Schuldnervertretung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

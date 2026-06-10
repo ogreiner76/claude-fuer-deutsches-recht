@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Beauftragung, Predigt, Homilie, Kommunionhelferdienst und Grenzen**.
+Prüft insbesondere: **Beauftragung, Predigt, Homilie, Kommunionhelferdienst und Grenzen**.
 
 **CIC-/Normanker:** can. 230, 766, 767.
 

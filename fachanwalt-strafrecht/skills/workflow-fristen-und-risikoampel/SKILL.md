@@ -1,6 +1,6 @@
 ---
 name: workflow-fristen-und-risikoampel
-description: "Fristen- und Risikoampel: Fristen- und Risikoampel im Plugin fachanwalt-strafrecht: macht aus Strafbefehl, Urteil, Beschluss, Ladung, Haftbefehl, beA-/EGVP-Eingang oder Aktennachlieferung eine Sofortampel für Frist, Zuständigkeit, U-Haft, Rechtsmittel, Eilb..."
+description: "Fristen- und Risikoampel: Fristen- und Risikoampel: macht aus Strafbefehl, Urteil, Beschluss, Ladung, Haftbefehl, beA-/EGVP-Eingang oder Aktennachlieferung eine Sofortampel für Frist, Zuständigkeit, U-Haft, Rechtsmittel, Eilb..."
 ---
 
 # Fristen- und Risikoampel
@@ -14,7 +14,7 @@ description: "Fristen- und Risikoampel: Fristen- und Risikoampel im Plugin facha
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fristen- und Risikoampel im Plugin fachanwalt-strafrecht: macht aus Strafbefehl, Urteil, Beschluss, Ladung, Haftbefehl, beA-/EGVP-Eingang oder Aktennachlieferung eine Sofortampel für Frist, Zuständigkeit, U-Haft, Rechtsmittel, Eilbedarf und fehlende Unterlagen.
+**Fokus:** Fristen- und Risikoampel: macht aus Strafbefehl, Urteil, Beschluss, Ladung, Haftbefehl, beA-/EGVP-Eingang oder Aktennachlieferung eine Sofortampel für Frist, Zuständigkeit, U-Haft, Rechtsmittel, Eilbedarf und fehlende Unterlagen.
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:

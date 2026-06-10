@@ -1,6 +1,6 @@
 ---
 name: gegen-gelb-gleicht
-description: "Gegen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin nda abgleich im NDA-Abgleich."
+description: "Gegen: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Gegen: Dokumentenmatrix, Lückenliste und Nachforderung

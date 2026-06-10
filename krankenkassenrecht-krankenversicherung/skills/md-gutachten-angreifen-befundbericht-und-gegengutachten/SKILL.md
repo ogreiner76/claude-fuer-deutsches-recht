@@ -15,7 +15,7 @@ description: "Strategie zur Anfechtung von MDK/MD-Gutachten: Akteneinsicht, Qual
 
 ## Skill-Zweck
 
-Ablehnungsbescheide der Krankenkasse stützen sich meist auf ein Gutachten des Medizinischen Dienstes (MD). Dieser Skill entwickelt eine **systematische Strategie zur Anfechtung von MD-Gutachten**: Formelle Mängel, inhaltliche Schwächen, Gegengutachten und prozessuale Verwertbarkeit.
+Ablehnungsbescheide der Krankenkasse stützen sich meist auf ein Gutachten des Medizinischen Dienstes (MD). Entwickle eine **systematische Strategie zur Anfechtung von MD-Gutachten**: Formelle Mängel, inhaltliche Schwächen, Gegengutachten und prozessuale Verwertbarkeit.
 
 ## Rechtlicher Rahmen
 

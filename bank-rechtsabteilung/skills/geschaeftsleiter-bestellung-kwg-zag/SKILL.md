@@ -15,7 +15,7 @@ description: "Geschäftsleiterbestellung nach KWG, ZAG und KAGB tief prüfen: Ab
 
 ## Worum es geht
 
-Dieser Skill begleitet die vollständige Geschäftsleiterbestellung bei KWG-Instituten und ZAG-Zahlungsinstituten: von der frühzeitigen Fit-and-Proper-Prüfung über die Absichtsanzeige bis zur Vollzugsanzeige. Er deckt Zuverlässigkeit, fachliche Eignung, Zeitbudget und Doppelmandate ab. Bei ZAG-Instituten gelten § 12 ZAG i.V.m. § 25c KWG entsprechend; bei KAGB-Verwaltungsgesellschaften § 18 KAGB.
+Begleitet die vollständige Geschäftsleiterbestellung bei KWG-Instituten und ZAG-Zahlungsinstituten: von der frühzeitigen Fit-and-Proper-Prüfung über die Absichtsanzeige bis zur Vollzugsanzeige. Er deckt Zuverlässigkeit, fachliche Eignung, Zeitbudget und Doppelmandate ab. Bei ZAG-Instituten gelten § 12 ZAG i.V.m. § 25c KWG entsprechend; bei KAGB-Verwaltungsgesellschaften § 18 KAGB.
 
 ## Kernnormen
 

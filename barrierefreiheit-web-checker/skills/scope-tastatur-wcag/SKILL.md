@@ -1,6 +1,6 @@
 ---
 name: scope-tastatur-wcag
-description: "Scope: Behörden-, Gerichts- oder Registerweg im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Scope: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Scope: Behörden-, Gerichts- oder Registerweg

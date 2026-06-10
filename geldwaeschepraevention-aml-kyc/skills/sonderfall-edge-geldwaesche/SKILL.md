@@ -1,6 +1,6 @@
 ---
 name: sonderfall-edge-geldwaesche
-description: "Chronologie: Sonderfall und Edge-Case-Prüfung im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Chronologie: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Chronologie: Sonderfall und Edge-Case-Prüfung

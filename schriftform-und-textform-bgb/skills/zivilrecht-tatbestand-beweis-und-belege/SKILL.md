@@ -1,6 +1,6 @@
 ---
 name: zivilrecht-tatbestand-beweis-und-belege
-description: "Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

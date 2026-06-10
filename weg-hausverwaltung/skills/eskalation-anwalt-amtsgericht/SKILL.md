@@ -55,7 +55,7 @@ Rechtzeitig markieren, wann die Verwaltung nicht weiter allein handeln sollte. F
 > Sehr geehrte Frau/Herr Rechtsanwalt,
 > wir bitten um anwaltliche Begleitung in folgender Angelegenheit:
 > 1. **Gegenstand**: [...]
-> 2. **Fristen**: Beschluss am [...]; Anfechtungsfrist [..]; Begründungsfrist [...]; weiteres: [...]
+> 2. **Fristen**: Beschluss am [...]; Anfechtungsfrist [.]; Begründungsfrist [...]; weiteres: [...]
 > 3. **Rolle der GdWE**: [Beklagte / Klägerin / Streithelferin]
 > 4. **Beigefügt**: Beschluss-Sammlung, Protokoll, Wirtschaftsplan, Jahresabrechnung, Sachverständigengutachten, Korrespondenz (Anlagen 1-...).
 > 5. **Mandantenwünsche / offene Fragen**: [...]

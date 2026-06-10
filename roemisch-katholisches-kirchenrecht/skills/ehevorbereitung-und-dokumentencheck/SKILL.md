@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf**.
+Prüft insbesondere: **Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf**.
 
 **CIC-/Normanker:** can. 1063-1072.
 

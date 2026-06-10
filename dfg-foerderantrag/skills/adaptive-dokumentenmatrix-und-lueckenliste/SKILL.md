@@ -1,6 +1,6 @@
 ---
 name: adaptive-dokumentenmatrix-und-lueckenliste
-description: "Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Adaptive: Dokumentenmatrix, Lückenliste und Nachforderung

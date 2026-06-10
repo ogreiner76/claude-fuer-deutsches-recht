@@ -1,6 +1,6 @@
 ---
 name: rechtspfleger-behoerden-gerichts
-description: "Rechtspfleger: Behörden-, Gerichts- oder Registerweg im Plugin Urteilsbauer Relationsmacher: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
+description: "Rechtspfleger: Behörden-, Gerichts- oder Registerweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
 ---
 
 # Rechtspfleger: Behörden-, Gerichts- oder Registerweg

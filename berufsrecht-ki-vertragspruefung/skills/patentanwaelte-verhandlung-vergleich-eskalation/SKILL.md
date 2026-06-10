@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-verhandlung-vergleich-eskalation
-description: "Patentanwälte: Verhandlung, Vergleich und Eskalation im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstu..."
+description: "Patentanwälte: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstu..."
 ---
 
 # Patentanwälte: Verhandlung, Vergleich und Eskalation

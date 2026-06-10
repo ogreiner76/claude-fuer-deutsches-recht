@@ -1,6 +1,6 @@
 ---
 name: verfahrensidentifikation
-description: "Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Verfahrensidentifikation: Dokumentenmatrix, Lückenliste und Nachforderung

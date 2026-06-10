@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Zweckbindung, Verwaltung, Zustimmung, Transparenz und Risiko**.
+Prüft insbesondere: **Zweckbindung, Verwaltung, Zustimmung, Transparenz und Risiko**.
 
 **CIC-/Normanker:** can. 1254-1310, 532, 537.
 

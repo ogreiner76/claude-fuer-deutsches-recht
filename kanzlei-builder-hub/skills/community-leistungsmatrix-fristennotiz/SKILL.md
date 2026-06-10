@@ -1,6 +1,6 @@
 ---
 name: community-leistungsmatrix-fristennotiz
-description: "Community: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Community: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Community: Fristen, Form, Zuständigkeit und Rechtsweg

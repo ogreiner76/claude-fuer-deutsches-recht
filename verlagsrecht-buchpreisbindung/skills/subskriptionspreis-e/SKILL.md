@@ -15,7 +15,7 @@ description: "Buchpreisbindungsgesetz: Subskriptionspreise, Einführungspreise u
 
 ## Zweck dieses Skills
 
-Verlage nutzen **Subskriptions-, Einführungs- und Aktionspreise**, um Nachfrage anzukurbeln. Alle diese Preismodelle sind unter dem BuchPrG zulässig — aber nur unter strikten Bedingungen: Der temporäre Preis muss selbst als gebundener Ladenpreis festgesetzt werden, und nach Ablauf muss der reguläre Preis wieder durchgesetzt werden. Dieser Skill klärt das gesamte Regelwerk.
+Verlage nutzen **Subskriptions-, Einführungs- und Aktionspreise**, um Nachfrage anzukurbeln. Alle diese Preismodelle sind unter dem BuchPrG zulässig — aber nur unter strikten Bedingungen: Der temporäre Preis muss selbst als gebundener Ladenpreis festgesetzt werden, und nach Ablauf muss der reguläre Preis wieder durchgesetzt werden. Kläre das gesamte Regelwerk.
 
 ## Rechtsgrundlagen
 

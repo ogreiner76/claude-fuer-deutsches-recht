@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Verehrung, Reliquien und Missbrauchsvermeidung**.
+Prüft insbesondere: **Verehrung, Reliquien und Missbrauchsvermeidung**.
 
 **CIC-/Normanker:** can. 1186-1190.
 

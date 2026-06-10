@@ -7,7 +7,7 @@ description: "Speditionsversicherung § 460 HGB: fachanwaltlicher Spezial-Skill 
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Speditionsversicherung § 460 HGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Speditionsversicherung § 460 HGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

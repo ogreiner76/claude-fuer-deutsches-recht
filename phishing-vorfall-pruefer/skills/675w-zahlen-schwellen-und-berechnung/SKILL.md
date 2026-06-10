@@ -1,6 +1,6 @@
 ---
 name: 675w-zahlen-schwellen-und-berechnung
-description: "675W: Zahlen, Schwellenwerte und Berechnung im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "675W: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # 675W: Zahlen, Schwellenwerte und Berechnung

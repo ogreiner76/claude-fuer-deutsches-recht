@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-und-mandatsziel
-description: "Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt agrarrecht."
+description: "Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt agrarrecht.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

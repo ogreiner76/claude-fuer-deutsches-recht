@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **arabische Antworten zu Sakrament, Communio und Rückkehr**.
+Prüft insbesondere: **arabische Antworten zu Sakrament, Communio und Rückkehr**.
 
 **CIC-/Normanker:** can. 747-755, 843.
 

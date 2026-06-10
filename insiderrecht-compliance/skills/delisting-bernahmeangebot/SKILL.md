@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill steuert die insiderrechtliche Compliance beim Delisting von der Entscheidung
+Steuert die insiderrechtliche Compliance beim Delisting von der Entscheidung
 bis zur endgültigen Zulassungsbeendigung.
 
 ## Arbeitsprogramm

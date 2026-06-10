@@ -15,7 +15,7 @@ description: "Geschäftsgeheimnisschutz nach GeschGehG: Schutzvoraussetzungen, a
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt den **Schutz von Geschäftsgeheimnissen nach dem GeschGehG** (Gesetz zum Schutz von Geschäftsgeheimnissen, in Kraft seit 26.04.2019) als eigenständigen Rechtsbaustein im gewerblichen Rechtsschutz. Das GeschGehG hat die frühere Rechtslage nach §§ 17–19 UWG a.F. abgelöst und neue Anforderungen an den Schutz eingeführt – insbesondere die Pflicht zu „angemessenen Geheimhaltungsmaßnahmen".
+Behandelt den **Schutz von Geschäftsgeheimnissen nach dem GeschGehG** (Gesetz zum Schutz von Geschäftsgeheimnissen, in Kraft seit 26.04.2019) als eigenständigen Rechtsbaustein im gewerblichen Rechtsschutz. Das GeschGehG hat die frühere Rechtslage nach §§ 17–19 UWG a.F. abgelöst und neue Anforderungen an den Schutz eingeführt – insbesondere die Pflicht zu „angemessenen Geheimhaltungsmaßnahmen".
 
 Mandatsbezug: Mitarbeiter verlässt Unternehmen und nimmt Kundendaten mit; Wettbewerber hat Zugang zu Produktionsrezepturen erlangt; Auftragnehmer nutzt vertrauliche Konstruktionszeichnungen ohne Erlaubnis. Oder: Unternehmen erhält Abmahnung wegen angeblicher GeschGehG-Verletzung.
 

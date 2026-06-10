@@ -15,7 +15,7 @@ description: "Verlagsrecht: Persönlichkeitsrechte im Sachbuch — allgemeines P
 
 ## Zweck dieses Skills
 
-Sachbücher, Biographien, Reportagen und journalistische Werke berühren häufig das **Persönlichkeitsrecht** lebender Personen: durch Namensnennung, Abbildungen, private Informationen und wertende Äußerungen. Dieser Skill klärt die Schutzgrenzen des allgemeinen Persönlichkeitsrechts, des Rechts am eigenen Bild und die Haftungsrisiken für Autor und Verlag.
+Sachbücher, Biographien, Reportagen und journalistische Werke berühren häufig das **Persönlichkeitsrecht** lebender Personen: durch Namensnennung, Abbildungen, private Informationen und wertende Äußerungen. Kläre die Schutzgrenzen des allgemeinen Persönlichkeitsrechts, des Rechts am eigenen Bild und die Haftungsrisiken für Autor und Verlag.
 
 ## Rechtsgrundlagen
 

@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Satzungsänderung – Beschlussmängel und Reg
 
 ## Zweck und Anwendungsbereich
 
-Satzungsänderungen sind das häufigste gesellschaftsrechtliche Beurkundungsgeschäft neben der Gründung. Fehlerhafte Beschlüsse können dazu führen, dass das Registergericht die Eintragung ablehnt oder dass die Änderung nachträglich angefochten wird. Dieser Skill strukturiert Voraussetzungen, Beschlussmängelkategorien und Registerrisiken.
+Satzungsänderungen sind das häufigste gesellschaftsrechtliche Beurkundungsgeschäft neben der Gründung. Fehlerhafte Beschlüsse können dazu führen, dass das Registergericht die Eintragung ablehnt oder dass die Änderung nachträglich angefochten wird. Strukturiere Voraussetzungen, Beschlussmängelkategorien und Registerrisiken.
 
 Rechtsgrundlagen: § 53 GmbHG (Satzungsänderung GmbH), § 54 GmbHG (Anmeldung), §§ 179–180 AktG (Satzungsänderung AG), § 181 AktG (Anmeldung), § 130 AktG (Beschlussprotokoll), §§ 241–261 AktG (Beschlussmängel AG), FamFG §§ 382–384 (Registerverfahren).
 

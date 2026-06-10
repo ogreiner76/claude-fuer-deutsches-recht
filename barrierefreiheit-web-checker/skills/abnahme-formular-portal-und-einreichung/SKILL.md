@@ -1,6 +1,6 @@
 ---
 name: abnahme-formular-portal-und-einreichung
-description: "Abnahme: Formular, Portal und Einreichungslogik im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Abnahme: Formular, Portal und Einreichungslogik."
 ---
 
 # Abnahme: Formular, Portal und Einreichungslogik

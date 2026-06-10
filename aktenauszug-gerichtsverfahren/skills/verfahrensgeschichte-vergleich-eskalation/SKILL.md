@@ -1,6 +1,6 @@
 ---
 name: verfahrensgeschichte-vergleich-eskalation
-description: "Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Verfahrensgeschichte: Verhandlung, Vergleich und Eskalation

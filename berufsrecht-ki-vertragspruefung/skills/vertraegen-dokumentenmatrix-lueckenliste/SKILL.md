@@ -1,6 +1,6 @@
 ---
 name: vertraegen-dokumentenmatrix-lueckenliste
-description: "Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahr..."
+description: "Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahr..."
 ---
 
 # Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung

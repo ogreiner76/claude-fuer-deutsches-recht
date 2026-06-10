@@ -1,6 +1,6 @@
 ---
 name: pruefen-abschlussprodukt-und-uebergabe
-description: "Pruefen: Abschlussprodukt und Übergabe: Pruefen: Abschlussprodukt und Übergabe im Plugin fachanwalt transport speditionsrecht."
+description: "Pruefen: Abschlussprodukt und Übergabe: Pruefen: Abschlussprodukt und Übergabe."
 ---
 
 # Pruefen: Abschlussprodukt und Übergabe
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Pruefen: Abschlussprodukt und Übergabe im Plugin fachanwalt transport speditionsrecht.
+**Fokus:** Pruefen: Abschlussprodukt und Übergabe.
 
 ## Spezialwissen: Pruefen: Abschlussprodukt und Übergabe
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

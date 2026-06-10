@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **spanische Erklärungen zu Ehe, Dispens, Nichtigkeit und Sakramenten**.
+Prüft insbesondere: **spanische Erklärungen zu Ehe, Dispens, Nichtigkeit und Sakramenten**.
 
 **CIC-/Normanker:** can. 1055-1165.
 

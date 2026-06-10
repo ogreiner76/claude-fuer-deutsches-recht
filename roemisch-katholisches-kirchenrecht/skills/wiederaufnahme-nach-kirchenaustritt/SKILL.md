@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Gespräch, Glaubensbekenntnis, Beichte, Dokumentation und Seelsorge**.
+Prüft insbesondere: **Gespräch, Glaubensbekenntnis, Beichte, Dokumentation und Seelsorge**.
 
 **CIC-/Normanker:** can. 843, 844, 912, 959-997.
 

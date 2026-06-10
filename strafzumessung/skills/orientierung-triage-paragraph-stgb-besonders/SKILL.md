@@ -1,6 +1,6 @@
 ---
 name: orientierung-triage-paragraph-stgb-besonders
-description: "Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Fachmodule aus diesem Plugin vor u..."
+description: "Einstieg und Triage. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Fachmodule aus diesem Plugin vor u..."
 ---
 
 # Strafzumessung — Orientierung und Triage

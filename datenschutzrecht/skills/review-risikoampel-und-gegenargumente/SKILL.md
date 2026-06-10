@@ -1,6 +1,6 @@
 ---
 name: review-risikoampel-und-gegenargumente
-description: "Review: Risikoampel, Gegenargumente und Verteidigungslinien: Review: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin datenschutzrecht."
+description: "Review: Risikoampel, Gegenargumente und Verteidigungslinien: Review: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Review: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -14,7 +14,7 @@ description: "Review: Risikoampel, Gegenargumente und Verteidigungslinien: Revie
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Review: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin datenschutzrecht.
+**Fokus:** Review: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Spezialwissen: Review: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.

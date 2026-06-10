@@ -1,6 +1,6 @@
 ---
 name: livecheck-abschlussprodukt-und-uebergabe
-description: "Livecheck: Abschlussprodukt und Übergabe: Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt medizinrecht."
+description: "Livecheck: Abschlussprodukt und Übergabe: Livecheck: Abschlussprodukt und Übergabe."
 ---
 
 # Livecheck: Abschlussprodukt und Übergabe
@@ -14,7 +14,7 @@ description: "Livecheck: Abschlussprodukt und Übergabe: Livecheck: Abschlusspro
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt medizinrecht.
+**Fokus:** Livecheck: Abschlussprodukt und Übergabe.
 
 ## Fachkern: Livecheck: Abschlussprodukt und Übergabe
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

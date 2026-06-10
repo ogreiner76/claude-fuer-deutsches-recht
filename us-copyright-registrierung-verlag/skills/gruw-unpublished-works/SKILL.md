@@ -8,7 +8,7 @@ description: "Group Registration of Unpublished Works (GRUW): bis zu zehn unver�
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: 17 U.S.C. § 412 Registrierung vor Verletzung für statutory damages, § 410(c) Beweisvermutung 5 Jahre nach Erstveröffentlichung, § 302 Schutzdauer 70 Jahre p.m.a..
+- Fristen und Eilrisiken zuerst markieren: 17 U.S.C. § 412 Registrierung vor Verletzung für statutory damages, § 410(c) Beweisvermutung 5 Jahre nach Erstveröffentlichung, § 302 Schutzdauer 70 Jahre p.m.a.
 - Tragende Normen verifizieren: 17 U.S.C. §§ 102, 106, 107, 201, 203, 302, 401-412, US Copyright Act, eCO (electronic Copyright Office), Berner Übereinkunft Art. 5, WIPO Copyright Treaty, deutsches UrhG (für US-Werke nach IPR) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, US Copyright Office (LOC), Registrierungsagent, Distributor, US-Anwalt.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Form TX/PA/VA/SR-Anmeldung, Deposit Copy, eCO-Registrierung, Cease-and-Desist, DMCA-Takedown, Lizenzvertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.

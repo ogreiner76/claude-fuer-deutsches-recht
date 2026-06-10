@@ -1,6 +1,6 @@
 ---
 name: gatekeeper-schriftsatz-brief-und-memo-bausteine
-description: "Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine

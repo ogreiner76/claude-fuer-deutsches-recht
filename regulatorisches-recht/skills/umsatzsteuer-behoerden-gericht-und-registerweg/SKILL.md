@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-behoerden-gericht-und-registerweg
-description: "Umsatzsteuer: Behörden-, Gerichts- oder Registerweg im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Umsatzsteuer: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Umsatzsteuer: Behörden-, Gerichts- oder Registerweg

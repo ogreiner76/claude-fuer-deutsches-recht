@@ -1,6 +1,6 @@
 ---
 name: markenrecht-erstpruefung-und-mandatsziel
-description: "Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel

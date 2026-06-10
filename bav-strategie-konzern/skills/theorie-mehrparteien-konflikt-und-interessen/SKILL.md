@@ -1,6 +1,6 @@
 ---
 name: theorie-mehrparteien-konflikt-und-interessen
-description: "Theorie: Mehrparteienkonflikt und Interessenmatrix im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Theorie: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Theorie: Mehrparteienkonflikt und Interessenmatrix

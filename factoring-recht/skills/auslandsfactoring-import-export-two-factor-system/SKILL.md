@@ -26,7 +26,7 @@ Auslandsfactoring Import Export Two-Factor-System: prüft die einschlägigen Vor
 
 Auslandsfactoring ist Forderungsankauf mit **grenzüberschreitendem Element**: deutscher Exporteur, ausländischer Debitor (Export Factoring) oder ausländischer Exporteur, deutscher Debitor (Import Factoring). Das deutsche Factoring stößt hier an Grenzen – Sprache, Rechtsordnung, Inkasso, Bonitätsbewertung. Antwort der Branche: **Two-Factor-System** der internationalen Factoring-Netzwerke (Factors Chain International FCI, IFG). Ein Factor im Land des Exporteurs (Export Factor) arbeitet mit einem Factor im Land des Debitors (Import Factor) zusammen.
 
-Rechtlich entstehen die schwierigen Fragen aus dem **internationalen Privatrecht der Forderungsabtretung** (Rom I Art. 14, UNIDROIT/UNCITRAL-Konventionen) sowie aus den **devisen- und aufsichtsrechtlichen Vorgaben** des Importlandes. Dieser Skill prüft die typischen Stolperfallen.
+Rechtlich entstehen die schwierigen Fragen aus dem **internationalen Privatrecht der Forderungsabtretung** (Rom I Art. 14, UNIDROIT/UNCITRAL-Konventionen) sowie aus den **devisen- und aufsichtsrechtlichen Vorgaben** des Importlandes. Prüfe die typischen Stolperfallen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

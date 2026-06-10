@@ -1,6 +1,6 @@
 ---
 name: hammerschlagsrecht-hecke-immissionen
-description: "Hammerschlagsrecht: Formular, Portal und Einreichungslogik im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Hammerschlagsrecht: Formular, Portal und Einreichungslogik."
 ---
 
 # Hammerschlagsrecht: Formular, Portal und Einreichungslogik

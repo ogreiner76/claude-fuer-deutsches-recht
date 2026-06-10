@@ -155,45 +155,45 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `anpassen` | Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins, Branding, Workflows. Normen: technisch/intern. Prüfraster: Anpassungsumfang, Kompatibilitaet, Testbedarf. Output: Anpassungs-Konfigurationsdokument. Abgren... |
 | `anschluss-router` | Einstieg, Schnelltriage und Fallrouting im Kanzlei Builder Hub-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dok... |
 | `automatischer-aktualisierer` | Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisieren: neue Norm-Versionen, Rechtsprechungsaenderungen. Normen: technisch/intern. Prüfraster: aeltere Versionen identifizieren, Update-Prioritaet, Rollback-Option. Output: A... |
-| `builder-zahlen-schwellen-und-berechnung` | Builder: Zahlen, Schwellenwerte und Berechnung im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
-| `community-leistungsmatrix-fristennotiz` | Community: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
-| `daten-red-team-und-qualitaetskontrolle` | Daten: Red-Team und Qualitätskontrolle im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `builder-zahlen-schwellen-und-berechnung` | Builder: Zahlen, Schwellenwerte und Berechnung. |
+| `community-leistungsmatrix-fristennotiz` | Community: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `daten-red-team-und-qualitaetskontrolle` | Daten: Red-Team und Qualitätskontrolle. |
 | `deaktivieren` | Einzelne Skills oder Plugins temporaer deaktivieren ohne Deinstallation. Normen: technisch/intern. Prüfraster: Abhaengigkeiten, Deaktivierungsumfang, Reaktivierungsweg. Output: Deaktivierungsbestätigung. Abgrenzung: nicht vollständige De... |
 | `deinstallieren` | Plugins oder Skills vollständig deinstallieren: Abhaengigkeitsprüfung, Datensicherung. Normen: technisch/intern. Prüfraster: Abhaengigkeitscheck, Datensicherung vor Löschung, Bestätigung. Output: Deinstallationsprotokoll. Abgrenzung: nic... |
-| `deployment-eigenen-einsteiger` | Deployment: Schriftsatz-, Brief- und Memo-Bausteine im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `deployment-eigenen-einsteiger` | Deployment: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `dokumente-intake` | Dokumentenintake für Kanzlei-Builder-Hub (Plugins/Skills): sortiert Plugin-Konfiguration, Skill-Definitionen, Mandanten-AVV, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis... |
-| `eigenen-formular-portal-und-einreichung` | Eigenen: Formular, Portal und Einreichungslogik im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
-| `einsteiger-mandantenkommunikation-entscheidungsvorlage` | Einsteiger: Mandantenkommunikation und Entscheidungsvorlage im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `eigenen-formular-portal-und-einreichung` | Eigenen: Formular, Portal und Einreichungslogik. |
+| `einsteiger-mandantenkommunikation-entscheidungsvorlage` | Einsteiger: Mandantenkommunikation und Entscheidungsvorlage. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Kanzlei-Builder-Hub (Plugins/Skills): ordnet Rolle (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeitende), markiert Frist (keine harten Fristen), wählt Norm (BRAO § 43e KI-Einsatz, DSGVO, KI-VO) und Zuständ... |
-| `findet-gate-installiert` | Findet: Erstprüfung, Rollenklärung und Mandatsziel im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `findet-gate-installiert` | Findet: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Kanzlei Builder Hub. |
-| `gate-behoerden-gericht-und-registerweg` | Gate: Behörden-, Gerichts- oder Registerweg im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `gate-behoerden-gericht-und-registerweg` | Gate: Behörden-, Gerichts- oder Registerweg. |
 | `grosskanzlei-rollout-thema-prozesse-abbilden` | Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-für Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap im Kanzlei Builder Hub. |
-| `installiert-tatbestand-beweis-und-belege` | Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `installiert-tatbestand-beweis-und-belege` | Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `kaltstart-interview` | Kaltstart-Interview für den Kanzlei-Builder-Hub: Kanzleiprofil, Rechtsgebiete, gewuenschte Plugins. Normen: technisch/intern. Prüfraster: Rechtsgebietsabdeckung, Mandantenstruktur, Technikvoraussetzungen. Output: Kanzlei-Profil-Konfigura... |
 | `kanzlei-fundstellencheck-zitate-links` | Normen- und Rechtsprechungszitate in Schriftsätzen, Memos und Skills vereinheitlichen. Setzt die Zitierweise v4.1 durch: keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur mit Datum, Aktenzeichen und verifizie... |
 | `kanzlei-prozesse-abbilden` | Typische Kanzlei-Prozesse mit Plugins und Skills abbilden: Mandatsaufnahme, Akteneinsicht, Schriftsatzentwurf, Fristenkontrolle, Rechnung, Archivierung. Pro Prozess: Welche Plugins (Skills) helfen, in welcher Reihenfolge, mit welchem Out... |
 | `kanzlei-quellenkarte` | Kanzlei Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `kanzleiumgebung-khub-sonderfall-livecheck` | Kanzleiumgebung: Verhandlung, Vergleich und Eskalation im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `kanzleiumgebung-khub-sonderfall-livecheck` | Kanzleiumgebung: Verhandlung, Vergleich und Eskalation. |
 | `khub-kanzlei-coi-onboarding-bauleiter` | Spezialfall Conflicts-of-Interest-Matrix in Boutique- und Grosskanzleien: Datenbank, Pruefablauf, Chinese Walls, Informationsabschirmung. Pruefraster für Risk-and-Compliance im Kanzlei Builder Hub. |
 | `khub-kanzlei-onboarding-bauleiter` | Bauleiter Onboarding neuer Anwaelte und Mitarbeitenden: Rollenmatrix, Mandatsfreigabe, IT-Setup, Berufsrecht-Briefing, Probezeit-Plan. Pruefraster für Kanzlei-Manager im Kanzlei Builder Hub. |
 | `khub-leistungsmatrix-mandanten-checkliste` | Checkliste Leistungsmatrix Mandanten: Standardleistungen, Premium, Pauschale, Stundenhonorar, Erfolgskomponenten. Pruefraster Honorarvereinbarung pro Mandantensegment im Kanzlei Builder Hub. |
 | `khub-mandantenkonferenz-paralegal-rollen` | Spezialfall Mandantenkonferenz- und Lenkungsgremien-Templates für Grossmandate: Tagesordnung, Protokoll, Action Items, Status-Reporting. Pruefraster für Konfliktpotenzial im Kanzlei Builder Hub. |
-| `khub-sonderfall-und-edge-case` | Khub: Sonderfall und Edge-Case-Prüfung im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
-| `leistungsmatrix-fristennotiz-und-naechster-schritt` | Leistungsmatrix: Fristennotiz und nächster Schritt im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
-| `livecheck-mehrparteien-konflikt-und-interessen` | Livecheck: Mehrparteienkonflikt und Interessenmatrix im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `khub-sonderfall-und-edge-case` | Khub: Sonderfall und Edge-Case-Prüfung. |
+| `leistungsmatrix-fristennotiz-und-naechster-schritt` | Leistungsmatrix: Fristennotiz und nächster Schritt. |
+| `livecheck-mehrparteien-konflikt-und-interessen` | Livecheck: Mehrparteienkonflikt und Interessenmatrix. |
 | `output-waehlen` | Output-Wahl für Kanzlei-Builder-Hub (Plugins/Skills): stimmt Adressat (Kanzleiinhaber, IT-Verantwortlicher, Mitarbeitende), Frist (keine harten Fristen) und Form auf den Zweck ab — typische Outputs: Plugin-Skizze, Skill-Entwurf, Validier... |
 | `paralegal-rollen-automatisieren` | Spezialfall paralegale Routineaufgaben automatisieren: Aktenneuanlage, Erstkontakt, Standardanschreiben, Vorlagepruefung, Vorbescheidung. Welche Skills wie kombinieren, Datenschutz beachten, Vertraulichkeit, Pflicht zur Plausibilitaetsko... |
 | `playbook-aus-eigenen-daten` | Kanzleieigenes Playbook aus vorhandenen Musterdokumenten und Vorlagen automatisch erstellen. Normen: technisch/intern, BRAO. Prüfraster: Dokumentenqualitaet, Kategorisierung, Normverankerung. Output: Kanzlei-Playbook aus eigenen Daten. A... |
-| `playbook-qualitaetspruefung-beweislast-review` | Playbook: Internationaler Bezug und Schnittstellen im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `playbook-qualitaetspruefung-beweislast-review` | Playbook: Internationaler Bezug und Schnittstellen. |
 | `qa-kanzleiweit-templating-praxis-verwalter` | Skills kanzleiweit unter QA-Kontrolle halten: zentrale Skill-Bibliothek, Versionsverwaltung, Aenderungsfreigaben, Validatoren, Tests. Pruefraster für ausreichende Qualitaet bevor ein Skill in Produktion geht im Kanzlei Builder Hub. |
-| `qualitaetspruefung-beweislast-und-darlegungslast` | Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `qualitaetspruefung-beweislast-und-darlegungslast` | Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung. |
 | `qualitaetspruefung-builder-daten-red-team-korrektur` | Qualitaet installierter Skills prüfen: Normaktualitaet, Description-Qualitaet, Struktur-Compliance. Normen: technisch/intern, SKILL.md-Schema. Prüfraster: Description-Laenge, Normverankerung, Frontmatter-Vollständigkeit. Output: Qualitae... |
 | `quellen-livecheck` | Quellen-Live-Check für Kanzlei-Builder-Hub (Plugins/Skills): prüft Normen (BRAO § 43e KI-Einsatz, DSGVO, KI-VO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt RAK und Quellenhygiene nach references/quellenhygiene... |
 | `rechtsquellen` | Rechtsquellen: Quellenprüfung; Compliance-Dokumentation und Aktenvermerk: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `rentier-rechtsanwalt-spezial` | Spezialnutzung für Einzelanwaeltinnen mit kleinem Backoffice: Welche Skills sparen am meisten Zeit, welche bringen Sichtbarkeit, welche reduzieren Routine. Top-10-Empfehlungen, Konfigurationsbeispiele, Sicherheits-Hinweise im Kanzlei Bui... |
-| `review-risikoampel-und-gegenargumente` | Review: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
-| `security-installation` | Security: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin kanzlei builder hub im Kanzlei Builder Hub. |
+| `review-risikoampel-und-gegenargumente` | Review: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `security-installation` | Security: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `skill-installation-security-gate` | Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Kanzlei Builder Hub. |
 | `skill-installierer` | Neue Skills in der KI-Anwaltskanzlei installieren: Verfuegbarkeitscheck, Abhaengigkeiten, Konfiguration. Normen: technisch/intern. Prüfraster: Kompatibilitaet, Abhaengigkeitsprüfung, Testlauf. Output: Installationsprotokoll neuer Skill.... |
 | `skill-templating-praxis` | Skill-Templating für kanzleieigene Vorlagen: vom Schriftsatz-Bauplan zum eigenen Skill mit Platzhaltern, Pruefraster, Quellenregel. Konkrete Step-by-Step-Anleitung mit YAML-Frontmatter, Description-Regeln, Variablen-Erkennung, Ausgaberez... |

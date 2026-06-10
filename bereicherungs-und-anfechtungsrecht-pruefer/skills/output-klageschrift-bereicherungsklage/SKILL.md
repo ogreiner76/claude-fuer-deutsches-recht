@@ -29,7 +29,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Hinweis
 
-Dieser Skill liefert ein strukturiertes Muster für eine Klageschrift auf Grundlage der §§ 812 ff. BGB. Er ersetzt keine anwaltliche Leistung. Bezeichnungen und Beträge sind Platzhalter.
+Liefert ein strukturiertes Muster für eine Klageschrift auf Grundlage der §§ 812 ff. BGB. Er ersetzt keine anwaltliche Leistung. Bezeichnungen und Beträge sind Platzhalter.
 
 ## Vorarbeit: Kondiktionskarte
 

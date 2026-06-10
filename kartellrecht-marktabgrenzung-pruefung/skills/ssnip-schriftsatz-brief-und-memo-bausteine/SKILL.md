@@ -1,6 +1,6 @@
 ---
 name: ssnip-schriftsatz-brief-und-memo-bausteine
-description: "Ssnip: Schriftsatz-, Brief- und Memo-Bausteine im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Ssnip: Schriftsatz-, Brief- und Memo-Bausteine: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Ssnip: Schriftsatz-, Brief- und Memo-Bausteine

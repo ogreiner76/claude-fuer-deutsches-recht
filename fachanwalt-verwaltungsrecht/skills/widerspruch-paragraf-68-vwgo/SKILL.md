@@ -7,7 +7,7 @@ description: "Widerspruch § 68 VwGO: fachanwaltlicher Spezial-Skill mit Normena
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Widerspruch § 68 VwGO** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Widerspruch § 68 VwGO** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

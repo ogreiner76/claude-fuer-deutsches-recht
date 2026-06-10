@@ -25,7 +25,7 @@ description: "Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absat
 
 Paragraph 3a Absatz 3 EStG ordnet eine zwingende Verrechnungsreihenfolge zwischen dem Sanierungsertrag und den Minderungspositionen an. Wer die Reihenfolge nicht vorab durchgerechnet hat, weiss nicht, wie hoch der **steuerbare Restbetrag** ist, der dann ggf. eine Steuer ausloest — und ob das Steuerrisiko ueberhaupt im sechs-, sieben- oder achtstelligen Bereich liegt.
 
-Dieser Skill macht eine **Schritt-für-Schritt-Modellrechnung**, die der Steuerberater des Schuldners gemeinsam mit dem Insolvenzverwalter aufsetzt. Ziel: vor Plan-Einreichung steht eine belastbare Zahl im Raum.
+Macht eine **Schritt-für-Schritt-Modellrechnung**, die der Steuerberater des Schuldners gemeinsam mit dem Insolvenzverwalter aufsetzt. Ziel: vor Plan-Einreichung steht eine belastbare Zahl im Raum.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

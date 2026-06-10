@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepraevention-erstpruefung-und-mandatsziel
-description: "Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Geldwaeschepraevention: Erstprüfung, Rollenklärung und Mandatsziel

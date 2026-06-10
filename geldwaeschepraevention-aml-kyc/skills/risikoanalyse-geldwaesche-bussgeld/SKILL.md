@@ -1,6 +1,6 @@
 ---
 name: risikoanalyse-geldwaesche-bussgeld
-description: "Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg

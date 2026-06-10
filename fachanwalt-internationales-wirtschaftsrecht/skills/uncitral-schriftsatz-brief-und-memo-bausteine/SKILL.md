@@ -1,6 +1,6 @@
 ---
 name: uncitral-schriftsatz-brief-und-memo-bausteine
-description: "Uncitral: Schriftsatz-, Brief- und Memo-Bausteine: Uncitral: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt internationales wirtschaftsrecht."
+description: "Uncitral: Schriftsatz-, Brief- und Memo-Bausteine: Uncitral: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Uncitral: Schriftsatz-, Brief- und Memo-Bausteine
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Uncitral: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt internationales wirtschaftsrecht.
+**Fokus:** Uncitral: Schriftsatz-, Brief- und Memo-Bausteine.
 
 ## Spezialwissen: Uncitral: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.

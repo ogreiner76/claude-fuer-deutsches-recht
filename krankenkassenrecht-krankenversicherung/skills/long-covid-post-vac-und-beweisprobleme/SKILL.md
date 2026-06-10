@@ -15,7 +15,7 @@ description: "Krankenversicherungsrechtliche Ansprüche bei Long Covid und Post-
 
 ## Skill-Zweck
 
-Long Covid und Post-Vac-Syndrom stellen **neue Beweisherausforderungen** im Krankenversicherungsrecht dar: fehlende Laborwerte, unklare Kausalität, skeptische MDK-Gutachten. Dieser Skill entwickelt Strategien zur Anspruchsdurchsetzung.
+Long Covid und Post-Vac-Syndrom stellen **neue Beweisherausforderungen** im Krankenversicherungsrecht dar: fehlende Laborwerte, unklare Kausalität, skeptische MDK-Gutachten. Entwickle Strategien zur Anspruchsdurchsetzung.
 
 ## Rechtlicher Rahmen
 

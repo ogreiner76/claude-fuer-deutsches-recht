@@ -532,10 +532,10 @@ Automatisch generierte Komplett-Liste aller 479 Skills in diesem Plugin. Beschre
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Insolvenz- und Sanierungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Insolvenzantrag, Sanierungskonzept IDW S6, Plan), nennt pro Lücke Beweisthema, Beschaffungsweg (Insolvenzgerich... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Insolvenz- und Restrukturierungsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverhandl... |
 | `verwertung-beweislast-und-darlegungslast` | Verwertung: Beweislast, Darlegungslast und Substantiierung im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerb... |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix im Plugin fachanwalt-insolvenz-sanierungsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel im Plugin fachanwalt-insolvenz-sanierungsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation im Plugin fachanwalt-insolvenz-sanierungsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate im Plugin fachanwalt-insolvenz-sanierungsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
+| `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `zahlungsunfaehigkeit-paragraf-17-inso-bgh-ix-zb-25-17` | Zahlungsunfaehigkeit Paragraf 17 InsO BGH Ix Zb 25 17: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -15,7 +15,7 @@ description: "Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung: Steigerungs
 
 ## Skill-Zweck
 
-PKV und Beihilfe erstatten ärztliche Honorare nach GOÄ und GOZ. Dieser Skill prüft **Abrechnungsrichtigeit, Steigerungsfaktoren, Analogleistungen und Erstattungsansprüche**.
+PKV und Beihilfe erstatten ärztliche Honorare nach GOÄ und GOZ. Prüfe **Abrechnungsrichtigeit, Steigerungsfaktoren, Analogleistungen und Erstattungsansprüche**.
 
 ## Rechtlicher Rahmen
 

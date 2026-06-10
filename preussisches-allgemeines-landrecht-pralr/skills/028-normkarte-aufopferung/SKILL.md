@@ -1,6 +1,6 @@
 ---
 name: 028-normkarte-aufopferung
-description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Normkarte Aufopferung Einleitung 74 75 vertieft im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen..."
+description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft: Bearbeite die Normkarte Aufopferung Einleitung 74 75 vertieft im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen..."
 ---
 
 # PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft

@@ -182,7 +182,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `beirat-insolvenznaehe` | GmbH-Beirat: Beirat Insolvenznaehe; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht. |
 | `beirat-interessenkonflikte` | GmbH-Beirat: Beirat Interessenkonflikte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht. |
 | `beirat-internal-investigation-datenschutz-ki` | GmbH-Beirat: Beirat Compliance Und Internal Investigation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht. |
-| `beirat-kaltstart-und-zielbild` | Beirat Kaltstart Und Zielbild: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad. |
+| `beirat-kaltstart-und-zielbild` | Beirat Kaltstart Und Zielbild: Einstieg und Routing; klärt Rolle, Ziel, Frist, Aktenlage und den passenden nächsten Fachpfad |
 | `beirat-katalog-wesentlicher-geschaefte` | GmbH-Beirat: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht. |
 | `beirat-kontrollfunktion` | GmbH-Beirat: Beirat Kontrollfunktion; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht. |
 | `beirat-mitbestimmung-abgrenzung-nachfolge` | GmbH-Beirat: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrecht. |

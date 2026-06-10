@@ -1,6 +1,6 @@
 ---
 name: gate-behoerden-gericht-und-registerweg
-description: "Gate: Behörden-, Gerichts- oder Registerweg im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Gate: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Gate: Behörden-, Gerichts- oder Registerweg

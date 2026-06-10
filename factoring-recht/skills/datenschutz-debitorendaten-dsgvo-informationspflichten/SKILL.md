@@ -26,7 +26,7 @@ Datenschutz Debitorendaten DSGVO Informationspflichten: prüft die einschlägige
 
 Beim Forderungsverkauf werden **personenbezogene Daten** der Debitoren mit übertragen: Name, Adresse, Bankverbindung, Zahlungsverhalten, gegebenenfalls Krankendaten (bei Gesundheits-Factoring), Sozialdaten. Diese Datenweitergabe ist eine **Verarbeitung im Sinne der DSGVO** und benötigt eine Rechtsgrundlage. Häufig genutzt: Art. 6 Abs. 1 lit. b (Vertragsdurchführung) und Art. 6 Abs. 1 lit. f (berechtigtes Interesse). Beim Factor entsteht eine **neue Verantwortlichkeit** im Sinne von Art. 4 Nr. 7 DSGVO – mit eigenen Informationspflichten gegenüber dem Debitor (Art. 14 DSGVO).
 
-Dieser Skill behandelt: Rechtsgrundlagen, Informationspflichten, Auftragsverarbeitung versus Joint Controllership, Datenexport bei Auslandsfactoring, Löschpflichten, Betroffenenrechte und die DSGVO-Spezialfälle Bonitätsbewertung und Inkasso.
+Behandle: Rechtsgrundlagen, Informationspflichten, Auftragsverarbeitung versus Joint Controllership, Datenexport bei Auslandsfactoring, Löschpflichten, Betroffenenrechte und die DSGVO-Spezialfälle Bonitätsbewertung und Inkasso.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

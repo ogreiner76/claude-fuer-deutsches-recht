@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **portugiesische Erläuterungen zu Pfarrei, Familie, Ehe und Sakramenten**.
+Prüft insbesondere: **portugiesische Erläuterungen zu Pfarrei, Familie, Ehe und Sakramenten**.
 
 **CIC-/Normanker:** can. 204-223, 843, 1055-1165.
 

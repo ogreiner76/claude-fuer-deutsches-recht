@@ -1,6 +1,6 @@
 ---
 name: parteivortraege-compliance-dokumentation-und-akte
-description: "Parteivortraege: Compliance-Dokumentation und Aktenvermerk im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Parteivortraege: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Parteivortraege: Compliance-Dokumentation und Aktenvermerk

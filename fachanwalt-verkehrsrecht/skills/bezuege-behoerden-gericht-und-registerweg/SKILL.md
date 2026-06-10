@@ -1,6 +1,6 @@
 ---
 name: bezuege-behoerden-gericht-und-registerweg
-description: "Bezuege: Behörden-, Gerichts- oder Registerweg: Bezuege: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt verkehrsrecht."
+description: "Bezuege: Behörden-, Gerichts- oder Registerweg: Bezuege: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Bezuege: Behörden-, Gerichts- oder Registerweg
@@ -14,7 +14,7 @@ description: "Bezuege: Behörden-, Gerichts- oder Registerweg: Bezuege: Behörde
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bezuege: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt verkehrsrecht.
+**Fokus:** Bezuege: Behörden-, Gerichts- oder Registerweg.
 
 ## Spezialwissen: Bezuege: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.

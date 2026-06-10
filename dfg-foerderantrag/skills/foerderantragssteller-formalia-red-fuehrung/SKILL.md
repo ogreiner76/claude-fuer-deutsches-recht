@@ -1,6 +1,6 @@
 ---
 name: foerderantragssteller-formalia-red-fuehrung
-description: "Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage

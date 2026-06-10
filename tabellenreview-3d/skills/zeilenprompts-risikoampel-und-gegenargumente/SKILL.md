@@ -1,6 +1,6 @@
 ---
 name: zeilenprompts-risikoampel-und-gegenargumente
-description: "Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien

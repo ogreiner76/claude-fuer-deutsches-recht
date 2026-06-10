@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-liquidation-nachrang-fg
-description: "Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen. Klaert mit der verifizierten FG-Koeln-Linie (Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012 Seite 977; vorgehend zu BFH I R 34/12) und mit BFH II R 19/01 die Frage, wann die Verbindlichkeit ausgebucht werden muss und ob ein etwai — Arbeitskontext: Steuerrecht Anwalt Und Berater, Schwerpunkt sanierungsgewinn liquidation nachrang fg."
+description: "Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen. Klaert mit der verifizierten FG-Koeln-Linie (Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012 Seite 977; vorgehend zu BFH I R 34/12) und mit BFH II R 19/01 die Frage, wann die Verbindlichkeit ausgebucht werden muss und ob ein etwai"
 ---
 
 # Sanierungsgewinn — Liquidation, Nachrang und die FG-Koeln-Linie
@@ -15,7 +15,7 @@ description: "Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen.
 
 Eine GmbH in solventer Liquidation mit einem hohen nachrangigen Gesellschafterdarlehen wirft eine Frage auf, die § 3a EStG **nicht** beantwortet: Ist beim Loeschungszeitpunkt ein steuerpflichtiger Gewinn aus dem Wegfall der Verbindlichkeit anzunehmen, oder nicht? Antwort: Wenn die FG-Koeln-Linie greift (siehe unten), entsteht der Gewinn rechentheoretisch zwar, ist aber **mangels Koerperschaftsteuersubjekt nicht mehr festsetzbar**. § 3a EStG ist im Liquidationsfall denklogisch ohnehin schwierig — die Sanierungseignung fehlt.
 
-Dieser Skill behandelt die Konstellation systematisch.
+Behandelt die Konstellation systematisch.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

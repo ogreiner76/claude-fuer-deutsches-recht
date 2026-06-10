@@ -7,7 +7,7 @@ description: "Asylantrag Folgeverfahren § 71 AsylG: fachanwaltlicher Spezial-Sk
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Asylantrag Folgeverfahren § 71 AsylG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Asylantrag Folgeverfahren § 71 AsylG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

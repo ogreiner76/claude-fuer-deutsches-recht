@@ -1,6 +1,6 @@
 ---
 name: boutique-fristennotiz-und-naechster-schritt
-description: "Boutique: Fristennotiz und nächster Schritt im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Boutique: Fristennotiz und nächster Schritt."
 ---
 
 # Boutique: Fristennotiz und nächster Schritt

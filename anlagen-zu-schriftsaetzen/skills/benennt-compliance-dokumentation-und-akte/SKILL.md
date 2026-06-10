@@ -1,6 +1,6 @@
 ---
 name: benennt-compliance-dokumentation-und-akte
-description: "Benennt: Compliance-Dokumentation und Aktenvermerk im Plugin anlagen zu schriftsaetzen im Anlagen zu Schriftsätzen."
+description: "Benennt: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Benennt: Compliance-Dokumentation und Aktenvermerk
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Benennt: Compliance-Dokumentation und Aktenvermerk
-- **Konkreter Gegenstand:** Benennt: Compliance-Dokumentation und Aktenvermerk im Plugin anlagen zu schriftsaetzen..
+- **Konkreter Gegenstand:** Benennt: Compliance-Dokumentation und Aktenvermerk.
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.
 - **Entscheidende Weiche:** Anlage nur aufnehmen, wenn sie eine konkrete Behauptung trägt; Nummerierung, Fundstelle, Dateiname, OCR, Schwärzung und Versandfähigkeit müssen zusammenpassen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Straftat, Zurechenbarkeit, Strafarten, Verfahren und Disziplin**.
+Prüft insbesondere: **Straftat, Zurechenbarkeit, Strafarten, Verfahren und Disziplin**.
 
 **CIC-/Normanker:** can. 1311-1399.
 

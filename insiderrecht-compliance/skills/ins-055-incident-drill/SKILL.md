@@ -34,7 +34,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill führt einen vollständigen Incident Drill durch: Er liefert das Szenario,
+Führt einen vollständigen Incident Drill durch: Er liefert das Szenario,
 moderiert den Entscheidungsprozess, wertet die Ergebnisse aus und erstellt die Drill-
 Dokumentation.
 

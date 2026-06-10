@@ -7,7 +7,7 @@ description: "Anhang III KI-VO für Bildung, Pruefung, Zulassung und Lernsteueru
 
 ## Einsatzfälle
 
-Dieser Skill prüft KI-Systeme in:
+Prüft KI-Systeme in:
 
 - Hochschulzulassung und Studienplatzvergabe.
 - Prüfungsaufsicht, Proctoring, Täuschungs- und Plagiatserkennung.

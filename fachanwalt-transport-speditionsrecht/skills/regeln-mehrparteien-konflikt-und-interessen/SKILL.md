@@ -1,6 +1,6 @@
 ---
 name: regeln-mehrparteien-konflikt-und-interessen
-description: "Regeln: Mehrparteienkonflikt und Interessenmatrix: Regeln: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt transport speditionsrecht."
+description: "Regeln: Mehrparteienkonflikt und Interessenmatrix: Regeln: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Regeln: Mehrparteienkonflikt und Interessenmatrix
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Regeln: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt transport speditionsrecht.
+**Fokus:** Regeln: Mehrparteienkonflikt und Interessenmatrix.
 
 ## Spezialwissen: Regeln: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

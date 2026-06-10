@@ -15,7 +15,7 @@ description: "EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gege
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt den **Ordnungsmittelantrag nach § 890 ZPO** als das zentrale Vollstreckungsinstrument bei Unterlassungsverfügungen im gewerblichen Rechtsschutz. Der Schuldner hat gegen eine rechtskräftige oder vollzogene Unterlassungsverfügung verstoßen – jetzt muss der Antragsteller die Einhaltung erzwingen.
+Behandelt den **Ordnungsmittelantrag nach § 890 ZPO** als das zentrale Vollstreckungsinstrument bei Unterlassungsverfügungen im gewerblichen Rechtsschutz. Der Schuldner hat gegen eine rechtskräftige oder vollzogene Unterlassungsverfügung verstoßen – jetzt muss der Antragsteller die Einhaltung erzwingen.
 
 Mandatsbezug: Markeninhaber hat Unterlassungsverfügung gegen Verletzer erwirkt und vollzogen; Verletzer nutzt das Zeichen weiter. Oder: UWG-Antragsteller hat EV gegen unlauteren Wettbewerber; Wettbewerber stellt nach Verfügungszustellung weiter dieselbe irreführende Werbung ein.
 

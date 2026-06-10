@@ -15,7 +15,7 @@ description: "Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte a
 
 ## Spezialwissen
 
-Dieser Skill erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Skeleton-Eintrag für das CRM-System oder die manuelle Aktenanlage. Ziel: Die Sekretariatsmitarbeitende kann den Vorgang sofort weiterführen, ohne Informationen erneut aus der Originalmail suchen zu müssen.
+Erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Skeleton-Eintrag für das CRM-System oder die manuelle Aktenanlage. Ziel: Die Sekretariatsmitarbeitende kann den Vorgang sofort weiterführen, ohne Informationen erneut aus der Originalmail suchen zu müssen.
 
 ## Triage zu Beginn
 1. Sind alle Pflichtfelder (Name, E-Mail, Anliegen, Dringlichkeit, Datum) aus dem Parsing verfuegbar?

@@ -15,7 +15,7 @@ description: "Heilmittelanspruch nach § 32 SGB V: Heilmittel-Richtlinie, Verord
 
 ## Skill-Zweck
 
-Heilmittel (Physiotherapie, Ergotherapie, Logopädie, Podologie) sind häufig Gegenstand von Ablehnungen und Mengenbeschränkungen. Dieser Skill klärt den **Anspruch, die Verordnungssystematik und Genehmigungsverfahren** nach der Heilmittel-Richtlinie (HM-RL) des G-BA.
+Heilmittel (Physiotherapie, Ergotherapie, Logopädie, Podologie) sind häufig Gegenstand von Ablehnungen und Mengenbeschränkungen. Kläre den **Anspruch, die Verordnungssystematik und Genehmigungsverfahren** nach der Heilmittel-Richtlinie (HM-RL) des G-BA.
 
 ## Rechtlicher Rahmen
 

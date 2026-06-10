@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlag
 
 ## Zweck und Anwendungsbereich
 
-Das Fristenmanagement ist die operative Lebensader des Notariats. Versäumte Fristen können den Rangverlust im Grundbuch, den Verfall einer Genehmigung oder die Haftung des Notars bedeuten. Dieser Skill strukturiert ein vollständiges Fristensystem für das Notariat.
+Das Fristenmanagement ist die operative Lebensader des Notariats. Versäumte Fristen können den Rangverlust im Grundbuch, den Verfall einer Genehmigung oder die Haftung des Notars bedeuten. Strukturiere ein vollständiges Fristensystem für das Notariat.
 
 Rechtsgrundlagen: §§ 186–193 BGB (Fristberechnung), § 17 Abs. 2a BeurkG (Verbraucherwartefrist), § 28 BauGB (Vorkaufsrechtsfrist 2 Monate), § 18 GBO (Zwischenverfügungs-Nachreichungsfrist), § 63 FamFG (Beschwerde 1 Monat), § 1944 BGB (Ausschlagungsfrist 6 Wochen), § 22 GrEStG (GrESt-Unbedenklichkeit), GwG § 8 (5 Jahre Aufbewahrung).
 

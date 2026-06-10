@@ -1,6 +1,6 @@
 ---
 name: sportr-sonderfall-edge-case
-description: "Sportr: Sonderfall und Edge-Case-Prüfung: Sportr: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt sportrecht."
+description: "Sportr: Sonderfall und Edge-Case-Prüfung: Sportr: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Sportr: Sonderfall und Edge-Case-Prüfung
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Sportr: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt sportrecht.
+**Fokus:** Sportr: Sonderfall und Edge-Case-Prüfung.
 
 ## Spezialwissen: Sportr: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

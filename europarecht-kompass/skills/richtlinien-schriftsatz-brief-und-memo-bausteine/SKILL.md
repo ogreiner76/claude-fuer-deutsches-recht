@@ -1,6 +1,6 @@
 ---
 name: richtlinien-schriftsatz-brief-und-memo-bausteine
-description: "Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine im Plugin europarecht kompass im Europarecht Kompass."
+description: "Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine

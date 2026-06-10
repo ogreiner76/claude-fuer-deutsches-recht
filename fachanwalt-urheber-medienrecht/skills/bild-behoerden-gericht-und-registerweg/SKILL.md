@@ -1,6 +1,6 @@
 ---
 name: bild-behoerden-gericht-und-registerweg
-description: "Bild: Behörden-, Gerichts- oder Registerweg: Bild: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt urheber medienrecht."
+description: "Bild: Behörden-, Gerichts- oder Registerweg: Bild: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Bild: Behörden-, Gerichts- oder Registerweg
@@ -14,7 +14,7 @@ description: "Bild: Behörden-, Gerichts- oder Registerweg: Bild: Behörden-, Ge
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bild: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt urheber medienrecht.
+**Fokus:** Bild: Behörden-, Gerichts- oder Registerweg.
 
 ## Spezialwissen: Bild: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

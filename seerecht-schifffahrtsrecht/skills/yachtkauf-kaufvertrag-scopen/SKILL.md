@@ -29,7 +29,7 @@ Ein Investor kauft ein Segel- oder Motorjacht; Risiken aus Altlasten und Zertifi
 6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
 
 ## Rechtsrahmen
-- BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m; BGB §§ 433-479 Kaufgewaehrleistung; SchRG § 2 Eigentumsuebergang; SchRegO. CE-Kennzeichnung; Fahrterlaubnis BSH; VAT-Status EU; MCA Cat..
+- BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m; BGB §§ 433-479 Kaufgewaehrleistung; SchRG § 2 Eigentumsuebergang; SchRegO. CE-Kennzeichnung; Fahrterlaubnis BSH; VAT-Status EU; MCA Cat.
 
 ## Prüfraster
 - Sind alle Hypotheken und Lasten vor Eigentumsuebergang abzuloesen?

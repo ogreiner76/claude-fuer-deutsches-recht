@@ -1,6 +1,6 @@
 ---
 name: pflegt-erstpruefung-und-mandatsziel
-description: "Pflegt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Pflegt: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Pflegt: Erstprüfung, Rollenklärung und Mandatsziel

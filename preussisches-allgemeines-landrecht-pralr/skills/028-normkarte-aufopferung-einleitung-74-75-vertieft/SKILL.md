@@ -1,6 +1,6 @@
 ---
 name: 028-normkarte-aufopferung-einleitung-74-75-vertieft
-description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft

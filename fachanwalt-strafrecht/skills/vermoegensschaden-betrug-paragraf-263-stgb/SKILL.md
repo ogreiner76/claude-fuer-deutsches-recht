@@ -7,7 +7,7 @@ description: "Vermoegensschaden Betrug § 263 StGB: fachanwaltlicher Spezial-Ski
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Vermoegensschaden Betrug § 263 StGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Vermoegensschaden Betrug § 263 StGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

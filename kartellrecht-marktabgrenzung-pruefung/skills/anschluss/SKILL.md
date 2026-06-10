@@ -350,7 +350,7 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `self-preferencing-plattformen` | Self-Preferencing Plattformen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff.... |
 | `sep-frand-kartellrecht` | SEP FRAND Kartellrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff... |
 | `siec-test-horizontale-fusion` | SIEC-Test horizontale Fusion: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff.,... |
-| `spezial-aeuv-behoerden-gericht-und-registerweg` | Aeuv: Behörden-, Gerichts- oder Registerweg im Plugin kartellrecht marktabgrenzung pruefung. |
+| `spezial-aeuv-behoerden-gericht-und-registerweg` | Aeuv: Behörden-, Gerichts- oder Registerweg. |
 
 Weitere Skills: insgesamt 125 Anschluss-Skills in diesem Plugin.
 
@@ -359,7 +359,7 @@ Weitere Skills: insgesamt 125 Anschluss-Skills in diesem Plugin.
 ## Fachlicher Zuschnitt
 
 - **Thema:** Einstieg, Schnelltriage und Fallrouting im Kartellrecht Marktabgrenzung Pruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig.
-- **Arbeitsfokus:** ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage..
+- **Arbeitsfokus:** ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
 - **Plugin-Rahmen:** Kritische kartellrechtliche Pruefinstanz für Marktabgrenzungen nach Paragraf 18 GWB sowie Art. 101 und 102 AEUV: SSNIP-Test, Nachfrage- und Angebotsums....
 - **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
 - **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.

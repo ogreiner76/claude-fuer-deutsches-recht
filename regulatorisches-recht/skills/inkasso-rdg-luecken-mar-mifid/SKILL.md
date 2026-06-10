@@ -15,7 +15,7 @@ description: "Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen wenn 
 
 ## Zweck
 
-Dieser Skill begleitet die rechtskonforme Durchführung von Inkassodienstleistungen durch registrierte Inkassounternehmen (§ 10 Abs. 1 Nr. 1 RDG) und Rechtsanwälte (§ 43d BRAO). Er deckt Registrierungsvoraussetzungen, erlaubten Tätigkeitsumfang, Hinweispflichten gegenüber Schuldnern, Vergütungsfragen (§ 4 RDGEG) und die datenschutzkonforme Verarbeitung von Schuldnerdaten (Art. 6 Abs. 1 lit. f DSGVO) ab. Relevanz insb. für Legal-Tech-Geschäftsmodelle nach dem "LexFox"-Urteil des BGH. Anwendungsfälle: Mietpreisbremse-Durchsetzung durch Inkassounternehmen, Consumer-Inkasso-Modelle, Forderungsinkasso im B2C-Bereich, anwaltliches Inkasso.
+Begleitet die rechtskonforme Durchführung von Inkassodienstleistungen durch registrierte Inkassounternehmen (§ 10 Abs. 1 Nr. 1 RDG) und Rechtsanwälte (§ 43d BRAO). Er deckt Registrierungsvoraussetzungen, erlaubten Tätigkeitsumfang, Hinweispflichten gegenüber Schuldnern, Vergütungsfragen (§ 4 RDGEG) und die datenschutzkonforme Verarbeitung von Schuldnerdaten (Art. 6 Abs. 1 lit. f DSGVO) ab. Relevanz insb. für Legal-Tech-Geschäftsmodelle nach dem "LexFox"-Urteil des BGH. Anwendungsfälle: Mietpreisbremse-Durchsetzung durch Inkassounternehmen, Consumer-Inkasso-Modelle, Forderungsinkasso im B2C-Bereich, anwaltliches Inkasso.
 
 ## Eingaben
 

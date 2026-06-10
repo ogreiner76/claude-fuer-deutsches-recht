@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheits-erstpruefung-und-mandatsziel
-description: "Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel

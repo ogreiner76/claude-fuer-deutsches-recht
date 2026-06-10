@@ -1,6 +1,6 @@
 ---
 name: anbietern-belehrung-sonderfall-edge
-description: "Anbietern: Schriftsatz-, Brief- und Memo-Bausteine im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Anbietern: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Anbietern: Schriftsatz-, Brief- und Memo-Bausteine

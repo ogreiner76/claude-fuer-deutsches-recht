@@ -114,7 +114,7 @@ Das Plugin schreibt alle Angaben in `~/.claude/plugins/config/claude-fuer-deutsc
 
 ## Quellen und Zitierweise
 
-Dieser Skill erzeugt keine inhaltlichen juristischen Outputs. Zitierregeln → `../references/zitierweise.md` werden in den nachgelagerten Skills angewendet.
+Erzeugt keine inhaltlichen juristischen Outputs. Zitierregeln → `../references/zitierweise.md` werden in den nachgelagerten Skills angewendet.
 
 ## Beispiel (Schnellstart-Modus)
 

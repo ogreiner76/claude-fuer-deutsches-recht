@@ -1,6 +1,6 @@
 ---
 name: nebenklage-compliance-dokumentation-und-akte
-description: "Nebenklage: Compliance-Dokumentation und Aktenvermerk: Nebenklage: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt strafrecht."
+description: "Nebenklage: Compliance-Dokumentation und Aktenvermerk: Nebenklage: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Nebenklage: Compliance-Dokumentation und Aktenvermerk
@@ -14,7 +14,7 @@ description: "Nebenklage: Compliance-Dokumentation und Aktenvermerk: Nebenklage:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Nebenklage: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt strafrecht.
+**Fokus:** Nebenklage: Compliance-Dokumentation und Aktenvermerk.
 
 ## Spezialwissen: Nebenklage: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** StPO.

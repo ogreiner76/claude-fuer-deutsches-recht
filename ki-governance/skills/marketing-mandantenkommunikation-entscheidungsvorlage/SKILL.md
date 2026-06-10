@@ -1,6 +1,6 @@
 ---
 name: marketing-mandantenkommunikation-entscheidungsvorlage
-description: "Marketing: Mandantenkommunikation und Entscheidungsvorlage im Plugin ki governance im Ki Governance."
+description: "Marketing: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Marketing: Mandantenkommunikation und Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: hecke-zahlen-schwellen-und-berechnung
-description: "Hecke: Zahlen, Schwellenwerte und Berechnung im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Hecke: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Hecke: Zahlen, Schwellenwerte und Berechnung

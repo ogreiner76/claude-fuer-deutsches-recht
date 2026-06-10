@@ -1,6 +1,6 @@
 ---
 name: eigenen-formular-portal-und-einreichung
-description: "Eigenen: Formular, Portal und Einreichungslogik im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Eigenen: Formular, Portal und Einreichungslogik."
 ---
 
 # Eigenen: Formular, Portal und Einreichungslogik

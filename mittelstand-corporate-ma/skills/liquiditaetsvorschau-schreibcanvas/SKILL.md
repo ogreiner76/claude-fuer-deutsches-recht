@@ -27,7 +27,7 @@ description: "Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Woch
 
 ## Kernsachverhalt
 
-Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liquiditätsvorschauen werden oft nur als monatliche Bankstimmung oder als BWA-Kommentar geführt — nicht als strukturierte rollierende Planung. Genau dies ist das Einfallstor für Insolvenzverschleppung: Der Gesellschafter-Geschäftsführer bemerkt die Zahlungsunfähigkeit zu spät oder hält die Zahlungsstockung für vorübergehend, ohne OPOS und Bankdaten systematisch abzugleichen. In M&A-Prozessen ist die Liquiditätsvorschau darüber hinaus Bestandteil der Kaufpreisfindung (Locked-Box vs. Completion Accounts, Net-Debt-Definition) und der Closing Conditions. Dieser Skill liefert das Werkzeug, um Mittelstandsliquidität schnell, transparent und revisionssicher zu planen.
+Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liquiditätsvorschauen werden oft nur als monatliche Bankstimmung oder als BWA-Kommentar geführt — nicht als strukturierte rollierende Planung. Genau dies ist das Einfallstor für Insolvenzverschleppung: Der Gesellschafter-Geschäftsführer bemerkt die Zahlungsunfähigkeit zu spät oder hält die Zahlungsstockung für vorübergehend, ohne OPOS und Bankdaten systematisch abzugleichen. In M&A-Prozessen ist die Liquiditätsvorschau darüber hinaus Bestandteil der Kaufpreisfindung (Locked-Box vs. Completion Accounts, Net-Debt-Definition) und der Closing Conditions. Liefere das Werkzeug, um Mittelstandsliquidität schnell, transparent und revisionssicher zu planen.
 
 ## Kaltstart-Rückfragen
 

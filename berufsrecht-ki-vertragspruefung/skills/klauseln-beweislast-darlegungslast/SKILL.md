@@ -1,6 +1,6 @@
 ---
 name: klauseln-beweislast-darlegungslast
-description: "Klauseln: Beweislast, Darlegungslast und Substantiierung im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahren..."
+description: "Klauseln: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahren..."
 ---
 
 # Klauseln: Beweislast, Darlegungslast und Substantiierung

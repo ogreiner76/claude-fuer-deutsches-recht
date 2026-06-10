@@ -1,6 +1,6 @@
 ---
 name: 001-fruehformen-zwoelftafelrecht
-description: "Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel im Römisches Recht: Dieser Skill bearbeitet Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortiere..."
+description: "Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel im Römisches Recht: Bearbeite Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortiere..."
 ---
 
 # Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel

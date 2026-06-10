@@ -1,6 +1,6 @@
 ---
 name: strassenbahn-risikoampel-und-gegenargumente
-description: "Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: widersprueche-beweislast-strafakte-gate
-description: "Widersprueche: Beweislast, Darlegungslast und Substantiierung im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Widersprueche: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Widersprueche: Beweislast, Darlegungslast und Substantiierung

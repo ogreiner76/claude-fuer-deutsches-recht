@@ -1,6 +1,6 @@
 ---
 name: aktenintake-schriftsatz-brief-und-memo-bausteine
-description: "Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine

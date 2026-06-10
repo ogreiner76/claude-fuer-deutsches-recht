@@ -1,6 +1,6 @@
 ---
 name: massenpruefung-mehrparteien-konflikt-und-interessen
-description: "Massenpruefung: Mehrparteienkonflikt und Interessenmatrix im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Massenpruefung: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Massenpruefung: Mehrparteienkonflikt und Interessenmatrix

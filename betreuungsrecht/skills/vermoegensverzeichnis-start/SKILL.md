@@ -1,6 +1,6 @@
 ---
 name: vermoegensverzeichnis-start
-description: "Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Betreuungsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
+description: "Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
 ---
 
 # Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg

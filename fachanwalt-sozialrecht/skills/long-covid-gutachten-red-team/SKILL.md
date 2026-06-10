@@ -15,7 +15,7 @@ description: "Red-Team Long-Covid-Gutachten: Standardfehler in MD/DRV/BG-Gutacht
 
 ## Auftrag
 
-Dieser Skill prüft Long-Covid/Post-Covid nicht als Schlagwort, sondern als sozialrechtliche Funktions- und Beweisfrage. Entscheidend sind Leistungsvermögen, Teilhabe, Kausalität, Dauer, objektivierbare Befunde, konsistente Alltagsschilderung und verwertbare ärztliche Unterlagen.
+Prüft Long-Covid/Post-Covid nicht als Schlagwort, sondern als sozialrechtliche Funktions- und Beweisfrage. Entscheidend sind Leistungsvermögen, Teilhabe, Kausalität, Dauer, objektivierbare Befunde, konsistente Alltagsschilderung und verwertbare ärztliche Unterlagen.
 
 ## Norm- und Quellenanker
 

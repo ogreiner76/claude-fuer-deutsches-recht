@@ -5,7 +5,7 @@ description: "Vorpruefung Schritt 1 vor der Schranken-Schranke. Schutzbereichser
 
 # Stufe 0a: Ist der Schutzbereich eroeffnet?
 
-> Bevor die vier Stufen der Verhaeltnismaessigkeit laufen, muss das Grundrecht ueberhaupt einschlaegig sein. Dieser Skill prueft die **persoenliche** und die **sachliche** Schutzbereichsdimension.
+> Bevor die vier Stufen der Verhaeltnismaessigkeit laufen, muss das Grundrecht ueberhaupt einschlaegig sein. Prüfe die **persoenliche** und die **sachliche** Schutzbereichsdimension.
 
 ## Persoenliche Schutzbereichsdimension
 

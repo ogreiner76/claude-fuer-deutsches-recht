@@ -1,6 +1,6 @@
 ---
 name: formulare-zahlen-schwellen-und-berechnung
-description: "Formulare: Zahlen, Schwellenwerte und Berechnung im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Formulare: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Formulare: Zahlen, Schwellenwerte und Berechnung

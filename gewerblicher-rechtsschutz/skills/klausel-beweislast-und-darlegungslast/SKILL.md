@@ -15,7 +15,7 @@ description: "Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer mu
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **Beweislast- und Darlegungslastverteilung** im gewerblichen Rechtsschutz. Wer im IP-Verfahren muss welche Tatsachen beweisen? Wo gibt es gesetzliche Beweislastumkehrungen, sekundäre Darlegungslasten und Beweiserleichterungen? Diese Fragen sind entscheidend für die Vorbereitung von Klagen, Abwehrstrategien und Schriftsätzen.
+Behandelt die **Beweislast- und Darlegungslastverteilung** im gewerblichen Rechtsschutz. Wer im IP-Verfahren muss welche Tatsachen beweisen? Wo gibt es gesetzliche Beweislastumkehrungen, sekundäre Darlegungslasten und Beweiserleichterungen? Diese Fragen sind entscheidend für die Vorbereitung von Klagen, Abwehrstrategien und Schriftsätzen.
 
 Mandatsbezug: Anwalt fragt: Muss ich beweisen, dass der Beklagte das Patent verletzt, oder muss der Beklagte beweisen, dass er es nicht verletzt? Mandant behauptet, keine Verletzung begangen zu haben – welche Mitwirkungspflichten bestehen?
 

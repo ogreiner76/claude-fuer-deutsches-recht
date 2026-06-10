@@ -1,6 +1,6 @@
 ---
 name: modehaeuser-uspto-wort-interessen-ttab
-description: "Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -19,7 +19,7 @@ Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: E
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach § 307 BGB und § 87a HGB.
+Unterstützt bei rechtlichen Fragen rund um Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach § 307 BGB und § 87a HGB.
 Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.

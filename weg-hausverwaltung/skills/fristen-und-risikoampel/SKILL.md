@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin Weg Hausverwaltung im Weg Hausverwaltung."
+description: "Fristen- und Risikoampel."
 ---
 
 # Fristen- und Risikoampel

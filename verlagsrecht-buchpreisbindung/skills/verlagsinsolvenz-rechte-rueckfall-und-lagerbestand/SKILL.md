@@ -15,7 +15,7 @@ description: "Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten a
 
 ## Zweck dieses Skills
 
-Die **Insolvenz eines Verlags** ist für Autoren ein Worst-Case-Szenario: Honorare bleiben aus, Bücher werden nicht mehr vertrieben, Nutzungsrechte sind unklar. Dieser Skill klärt die Rechtslage beim Verlagsinsolvenzverfahren, die Möglichkeiten des Rechterückfalls, den Umgang mit Lagerbeständen und die Schritte, die betroffene Autoren unternehmen müssen.
+Die **Insolvenz eines Verlags** ist für Autoren ein Worst-Case-Szenario: Honorare bleiben aus, Bücher werden nicht mehr vertrieben, Nutzungsrechte sind unklar. Kläre die Rechtslage beim Verlagsinsolvenzverfahren, die Möglichkeiten des Rechterückfalls, den Umgang mit Lagerbeständen und die Schritte, die betroffene Autoren unternehmen müssen.
 
 ## Rechtsgrundlagen
 

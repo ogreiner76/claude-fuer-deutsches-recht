@@ -20,7 +20,7 @@ description: "Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzu
 
 ## Zweck und Anwendungsbereich
 
-Der Aktenabschluss ist der letzte Schritt eines Urkundsvorgangs. Er setzt voraus, dass alle Vollzugshandlungen abgeschlossen sind, alle Kosten bezahlt wurden und keine offenen Restpunkte mehr existieren. Dieser Skill strukturiert den ordnungsgemäßen Abschlussprozess.
+Der Aktenabschluss ist der letzte Schritt eines Urkundsvorgangs. Er setzt voraus, dass alle Vollzugshandlungen abgeschlossen sind, alle Kosten bezahlt wurden und keine offenen Restpunkte mehr existieren. Strukturiere den ordnungsgemäßen Abschlussprozess.
 
 Rechtsgrundlagen: DONot §§ 9–56 (Aktenführung, Aufbewahrung), § 18 BNotO (Aufbewahrungspflicht), §§ 44–64 BeurkG (Urkundensammlung), GwG § 8 (5-Jahres-Aufbewahrung), DSGVO Art. 17 (Löschungsrecht), GNotKG § 19 (Kostenforderung), GBO § 35 (Vollständigkeit der Grundbucheintragungen).
 

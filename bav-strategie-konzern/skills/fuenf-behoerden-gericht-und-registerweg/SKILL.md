@@ -1,6 +1,6 @@
 ---
 name: fuenf-behoerden-gericht-und-registerweg
-description: "Fuenf: Behörden-, Gerichts- oder Registerweg im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Fuenf: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Fuenf: Behörden-, Gerichts- oder Registerweg

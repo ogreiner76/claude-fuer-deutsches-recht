@@ -1,6 +1,6 @@
 ---
 name: erstellung-forschungsdatenzugang
-description: "Erstellung: Abschlussprodukt und Übergabe im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Erstellung: Abschlussprodukt und Übergabe."
 ---
 
 # Erstellung: Abschlussprodukt und Übergabe

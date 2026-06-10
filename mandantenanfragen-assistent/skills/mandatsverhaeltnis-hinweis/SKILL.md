@@ -15,7 +15,7 @@ description: "Antwortmail muss klar machen dass noch kein Mandatsverhältnis bes
 
 ## Spezialwissen
 
-Dieser Skill formuliert den rechtlich erforderlichen Hinweis, dass mit der Beantwortung einer Erstanfrage noch kein Mandatsverhältnis begründet wird und die Antwort keine Rechtsberatung darstellt.
+Formuliert den rechtlich erforderlichen Hinweis, dass mit der Beantwortung einer Erstanfrage noch kein Mandatsverhältnis begründet wird und die Antwort keine Rechtsberatung darstellt.
 
 ## Triage zu Beginn
 1. Enthaelt die Erstantwort inhaltliche rechtliche Hinweise, die als konkludente Rechtsberatung ausgelegt werden koennten?

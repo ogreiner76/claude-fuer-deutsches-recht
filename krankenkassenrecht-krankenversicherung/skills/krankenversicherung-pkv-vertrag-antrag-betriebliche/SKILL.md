@@ -15,7 +15,7 @@ description: "Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG): Gesu
 
 ## Skill-Zweck
 
-Beim Abschluss eines PKV-Vertrags besteht eine **vorvertragliche Anzeigepflicht**: Wer Gesundheitsfragen falsch beantwortet, riskiert Vertragsanfechtung oder Leistungsausschluss. Dieser Skill klärt Pflichten, Grenzen und Rechtsbehelfe.
+Beim Abschluss eines PKV-Vertrags besteht eine **vorvertragliche Anzeigepflicht**: Wer Gesundheitsfragen falsch beantwortet, riskiert Vertragsanfechtung oder Leistungsausschluss. Kläre Pflichten, Grenzen und Rechtsbehelfe.
 
 ## Rechtlicher Rahmen
 

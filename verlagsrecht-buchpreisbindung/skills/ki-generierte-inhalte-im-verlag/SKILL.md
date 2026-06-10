@@ -15,7 +15,7 @@ description: "Verlagsrecht: KI-generierte Texte, Bilder und Übersetzungen im Ve
 
 ## Zweck dieses Skills
 
-KI-Werkzeuge (GPT-4, Claude, Midjourney, DeepL etc.) werden zunehmend in der Verlagsproduktion eingesetzt: für Textentwürfe, Bildgenerierung, Übersetzungen, Lektorat und Metadaten. Dieser Skill klärt den **Urheberrechtsstatus KI-generierter Inhalte**, die Kennzeichnungspflichten, die vertragsrechtlichen Anforderungen und die Haftungsrisiken nach aktuellem deutschem und EU-Recht.
+KI-Werkzeuge (GPT-4, Claude, Midjourney, DeepL etc.) werden zunehmend in der Verlagsproduktion eingesetzt: für Textentwürfe, Bildgenerierung, Übersetzungen, Lektorat und Metadaten. Kläre den **Urheberrechtsstatus KI-generierter Inhalte**, die Kennzeichnungspflichten, die vertragsrechtlichen Anforderungen und die Haftungsrisiken nach aktuellem deutschem und EU-Recht.
 
 ## Rechtsgrundlagen
 

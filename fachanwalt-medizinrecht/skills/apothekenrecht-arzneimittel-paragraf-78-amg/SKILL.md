@@ -7,7 +7,7 @@ description: "Apothekenrecht Arzneimittel § 78 AMG: fachanwaltlicher Spezial-Sk
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Apothekenrecht Arzneimittel § 78 AMG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Apothekenrecht Arzneimittel § 78 AMG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

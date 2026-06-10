@@ -1,6 +1,6 @@
 ---
 name: beihilfen-drafting-europarecht
-description: "Beihilfen: Compliance-Dokumentation und Aktenvermerk im Plugin europarecht kompass im Europarecht Kompass."
+description: "Beihilfen: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Beihilfen: Compliance-Dokumentation und Aktenvermerk

@@ -18,7 +18,7 @@ description: "Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetz
 Für den operativen Mahnantrag (Barcode-Datensatz, zentrales Mahnportal, EGVP/beA-Übermittlung) und
 den Übergang zum Vollstreckungsbescheid samt Klausel und Zustellung lädt das freistehende Plugin
 `zwangsvollstreckung` die Skills `zv-mahnbescheid-online` und `zv-vollstreckungsbescheid-folge`.
-Dieser Skill liefert die dogmatische Grundlage und Strategie; das Plugin liefert das fertige
+Liefert die dogmatische Grundlage und Strategie; das Plugin liefert das fertige
 Formularpaket.
 
 ## Eingaben

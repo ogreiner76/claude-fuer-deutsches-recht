@@ -1,6 +1,6 @@
 ---
 name: notfrist-compliance-dokumentation-und-akte
-description: "Notfrist: Compliance-Dokumentation und Aktenvermerk: Notfrist: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt migrationsrecht."
+description: "Notfrist: Compliance-Dokumentation und Aktenvermerk: Notfrist: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Notfrist: Compliance-Dokumentation und Aktenvermerk
@@ -14,7 +14,7 @@ description: "Notfrist: Compliance-Dokumentation und Aktenvermerk: Notfrist: Com
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Notfrist: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt migrationsrecht.
+**Fokus:** Notfrist: Compliance-Dokumentation und Aktenvermerk.
 
 ## Spezialwissen: Notfrist: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.

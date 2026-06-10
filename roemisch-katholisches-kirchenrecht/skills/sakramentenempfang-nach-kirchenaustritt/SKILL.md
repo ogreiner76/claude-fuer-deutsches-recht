@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Taufe bleibt, aber Einschränkungen können greifen**.
+Prüft insbesondere: **Taufe bleibt, aber Einschränkungen können greifen**.
 
 **CIC-/Normanker:** can. 843, 912, 915, 916.
 

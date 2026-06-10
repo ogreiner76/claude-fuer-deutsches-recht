@@ -1,6 +1,6 @@
 ---
 name: krisenstadien-fristennotiz-starug-gf-haftung
-description: "Krisenstadien: Fristennotiz und nächster Schritt im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Krisenstadien: Fristennotiz und nächster Schritt."
 ---
 
 # Krisenstadien: Fristennotiz und nächster Schritt

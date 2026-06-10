@@ -15,7 +15,7 @@ description: "Verlagsrecht: Werbung mit Bestseller-Siegeln, Preisauszeichnungen 
 
 ## Zweck dieses Skills
 
-Verlage werben mit **Bestseller-Listen, Preisauszeichnungen und Rezensionszitaten**. Nicht jede solche Werbung ist wettbewerbsrechtlich einwandfrei: Fehlerhafte, veraltete oder irreführende Angaben können Abmahnungen und Unterlassungsklagen auslösen. Dieser Skill klärt alle Anforderungen.
+Verlage werben mit **Bestseller-Listen, Preisauszeichnungen und Rezensionszitaten**. Nicht jede solche Werbung ist wettbewerbsrechtlich einwandfrei: Fehlerhafte, veraltete oder irreführende Angaben können Abmahnungen und Unterlassungsklagen auslösen. Kläre alle Anforderungen.
 
 ## Rechtsgrundlagen
 

@@ -1,6 +1,6 @@
 ---
 name: montrealer-verhandlung-vergleich-und-eskalation
-description: "Montrealer: Verhandlung, Vergleich und Eskalation: Montrealer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt transport speditionsrecht."
+description: "Montrealer: Verhandlung, Vergleich und Eskalation: Montrealer: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Montrealer: Verhandlung, Vergleich und Eskalation
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Montrealer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt transport speditionsrecht.
+**Fokus:** Montrealer: Verhandlung, Vergleich und Eskalation.
 
 ## Spezialwissen: Montrealer: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

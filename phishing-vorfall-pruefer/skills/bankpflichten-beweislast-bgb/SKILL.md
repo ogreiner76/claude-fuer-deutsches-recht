@@ -1,6 +1,6 @@
 ---
 name: bankpflichten-beweislast-bgb
-description: "Bankpflichten: Beweislast, Darlegungslast und Substantiierung im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Bankpflichten: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Bankpflichten: Beweislast, Darlegungslast und Substantiierung

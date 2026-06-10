@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Sendung, Entzug, Loyalität und Verfahren**.
+Prüft insbesondere: **Sendung, Entzug, Loyalität und Verfahren**.
 
 **CIC-/Normanker:** can. 804-805, 812.
 

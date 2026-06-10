@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Beauftragung, Eignung, Sendung und Grenzen**.
+Prüft insbesondere: **Beauftragung, Eignung, Sendung und Grenzen**.
 
 **CIC-/Normanker:** can. 230, 231, 785.
 

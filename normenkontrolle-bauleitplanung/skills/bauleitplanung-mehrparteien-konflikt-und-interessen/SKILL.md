@@ -1,6 +1,6 @@
 ---
 name: bauleitplanung-mehrparteien-konflikt-und-interessen
-description: "Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix

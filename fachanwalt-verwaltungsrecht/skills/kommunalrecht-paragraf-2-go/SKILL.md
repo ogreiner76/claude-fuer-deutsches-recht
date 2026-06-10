@@ -7,7 +7,7 @@ description: "Kommunalrecht § 2 go: fachanwaltlicher Spezial-Skill mit Normenan
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Kommunalrecht § 2 go** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Kommunalrecht § 2 go** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

@@ -1,6 +1,6 @@
 ---
 name: empfangsbeduerftiger-international-schnittstellen
-description: "Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen."
 ---
 
 # Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen

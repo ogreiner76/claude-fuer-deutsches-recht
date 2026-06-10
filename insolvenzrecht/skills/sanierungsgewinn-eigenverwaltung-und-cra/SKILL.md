@@ -27,7 +27,7 @@ Bei der Eigenverwaltung (Paragraph 270 ff. InsO) bleibt die Geschaeftsleitung de
 
 In groesseren Verfahren wird oft ein CRO (Chief Restructuring Officer) bestellt. Der CRO ist faktisch die operative Spitze für die Sanierung und entscheidet ueber den Steuerteil mit. Sein Haftungsstatus haengt von der vertraglichen Konstruktion ab — meist Vorstand/Geschaeftsfuehrer, manchmal nur Berater.
 
-Dieser Skill ordnet die Rollen und gibt Praxistipps. Adressat: Geschaeftsfuehrer in Eigenverwaltung, CRO, Sachwalter, StB.
+Ordnet die Rollen und gibt Praxistipps. Adressat: Geschaeftsfuehrer in Eigenverwaltung, CRO, Sachwalter, StB.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

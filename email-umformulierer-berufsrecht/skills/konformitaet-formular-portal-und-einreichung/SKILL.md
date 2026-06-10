@@ -1,6 +1,6 @@
 ---
 name: konformitaet-formular-portal-und-einreichung
-description: "Konformitaet: Formular, Portal und Einreichungslogik im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Konformitaet: Formular, Portal und Einreichungslogik."
 ---
 
 # Konformitaet: Formular, Portal und Einreichungslogik

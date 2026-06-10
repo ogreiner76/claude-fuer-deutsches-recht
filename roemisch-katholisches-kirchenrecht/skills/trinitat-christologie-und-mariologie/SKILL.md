@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **trinitarische, christologische und marianische Lehrfragen**.
+Prüft insbesondere: **trinitarische, christologische und marianische Lehrfragen**.
 
 **CIC-/Normanker:** can. 747-755.
 

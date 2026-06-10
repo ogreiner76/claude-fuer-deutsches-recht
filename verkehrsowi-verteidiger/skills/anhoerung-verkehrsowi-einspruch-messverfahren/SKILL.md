@@ -1,6 +1,6 @@
 ---
 name: anhoerung-verkehrsowi-einspruch-messverfahren
-description: "Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg

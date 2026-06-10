@@ -1,6 +1,6 @@
 ---
 name: freistehender-erstpruefung-und-mandatsziel
-description: "Freistehender: Erstprüfung, Rollenklärung und Mandatsziel im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Freistehender: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Freistehender: Erstprüfung, Rollenklärung und Mandatsziel

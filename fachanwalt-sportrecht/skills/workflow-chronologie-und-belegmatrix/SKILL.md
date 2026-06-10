@@ -1,6 +1,6 @@
 ---
 name: workflow-chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix: Chronologie und Belegmatrix im Plugin fachanwalt-sportrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen."
+description: "Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen."
 ---
 
 # Chronologie und Belegmatrix
@@ -14,7 +14,7 @@ description: "Chronologie und Belegmatrix: Chronologie und Belegmatrix im Plugin
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Chronologie und Belegmatrix im Plugin fachanwalt-sportrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
+**Fokus:** Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:

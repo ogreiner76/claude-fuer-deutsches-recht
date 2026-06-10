@@ -23,7 +23,7 @@ description: "Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldne
 
 ## Worum geht es
 
-Wer in der Insolvenz oder im StaRUG-Verfahren arbeitet, lebt mit knappen Fristen. Der Sanierungsgewinn nach Paragraph 3a EStG faellt typischerweise erst spaet auf den Schirm — oft erst dann, wenn der Plan praktisch fertig ist und nicht mehr ohne weiteres aufgemacht werden kann. Dieser Skill liefert einen **Mustermandantenbrief**, mit dem der Berater (RA, StB, Plan-Anwalt) gegenueber dem Insolvenzverwalter, dem Sachwalter, dem CRO oder dem Schuldnerunternehmen frueh und schriftlich auf die steuerliche Vorarbeit hinweist — und damit zugleich die eigene Beratungsdokumentation absichert.
+Wer in der Insolvenz oder im StaRUG-Verfahren arbeitet, lebt mit knappen Fristen. Der Sanierungsgewinn nach Paragraph 3a EStG faellt typischerweise erst spaet auf den Schirm — oft erst dann, wenn der Plan praktisch fertig ist und nicht mehr ohne weiteres aufgemacht werden kann. Liefere einen **Mustermandantenbrief**, mit dem der Berater (RA, StB, Plan-Anwalt) gegenueber dem Insolvenzverwalter, dem Sachwalter, dem CRO oder dem Schuldnerunternehmen frueh und schriftlich auf die steuerliche Vorarbeit hinweist — und damit zugleich die eigene Beratungsdokumentation absichert.
 
 Adressat: Berater, der gegenueber IV/CRO/Schuldner kommunizieren muss. Tonfall: nuechtern, kanzleitauglich, ohne Drohgebaerden, aber mit klarer Haftungs-Signalsetzung.
 

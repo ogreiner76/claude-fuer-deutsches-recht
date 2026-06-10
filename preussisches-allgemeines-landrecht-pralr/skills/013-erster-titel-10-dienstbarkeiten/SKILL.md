@@ -1,6 +1,6 @@
 ---
 name: 013-erster-titel-10-dienstbarkeiten
-description: "PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer..."
+description: "PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen: Bearbeite den ersten Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer..."
 ---
 
 # PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen

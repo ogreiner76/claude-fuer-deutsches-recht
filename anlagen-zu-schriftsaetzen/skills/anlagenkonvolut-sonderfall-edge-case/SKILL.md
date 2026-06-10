@@ -1,6 +1,6 @@
 ---
 name: anlagenkonvolut-sonderfall-edge-case
-description: "Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung im Plugin Anlagen Zu Schriftsaetzen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kr..."
+description: "Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kr..."
 ---
 
 # Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung
@@ -21,7 +21,7 @@ Arbeitsfokus: **Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung**. Prüfe die
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Spezialwissen: Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung
-- **Konkreter Gegenstand:** Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung im Plugin anlagen zu schriftsaetzen..
+- **Konkreter Gegenstand:** Anlagenkonvolut: Sonderfall und Edge-Case-Prüfung.
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.
 - **Entscheidende Weiche:** Anlage nur aufnehmen, wenn sie eine konkrete Behauptung trägt; Nummerierung, Fundstelle, Dateiname, OCR, Schwärzung und Versandfähigkeit müssen zusammenpassen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

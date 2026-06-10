@@ -15,7 +15,7 @@ description: "Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergü
 
 ## Zweck dieses Skills
 
-Dieser Skill klärt alle vergütungsrechtlichen Fragen im Verlagsvertrag: Wie wird das Honorar berechnet? Was gilt als angemessene Vergütung? Wann ist ein Vorschuss fällig? Wie funktioniert die Absatzhonorar-Abrechnung? Wann entsteht ein Nachvergütungsanspruch (Bestseller-Paragraf)? Grundlage sind VerlG §§ 22–28 und UrhG §§ 32, 32a, 32d.
+Klärt alle vergütungsrechtlichen Fragen im Verlagsvertrag: Wie wird das Honorar berechnet? Was gilt als angemessene Vergütung? Wann ist ein Vorschuss fällig? Wie funktioniert die Absatzhonorar-Abrechnung? Wann entsteht ein Nachvergütungsanspruch (Bestseller-Paragraf)? Grundlage sind VerlG §§ 22–28 und UrhG §§ 32, 32a, 32d.
 
 ## Rechtsgrundlagen
 

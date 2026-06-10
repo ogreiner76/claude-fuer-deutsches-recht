@@ -15,7 +15,7 @@ description: "Krankenversicherung für Mitglieder berufsständischer Versorgungs
 
 ## Skill-Zweck
 
-Mitglieder berufsständischer Versorgungswerke (Ärzte, Rechtsanwälte, Apotheker, Steuerberater) sind oft von der gesetzlichen Rentenversicherung befreit. Im Rentenalter fehlt dann der KVdR-Anspruch. Dieser Skill klärt die **Krankenversicherungsoptionen im Ruhestand**.
+Mitglieder berufsständischer Versorgungswerke (Ärzte, Rechtsanwälte, Apotheker, Steuerberater) sind oft von der gesetzlichen Rentenversicherung befreit. Im Rentenalter fehlt dann der KVdR-Anspruch. Kläre die **Krankenversicherungsoptionen im Ruhestand**.
 
 ## Rechtlicher Rahmen
 

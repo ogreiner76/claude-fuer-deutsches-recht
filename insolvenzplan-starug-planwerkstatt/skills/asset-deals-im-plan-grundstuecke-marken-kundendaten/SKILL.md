@@ -33,7 +33,7 @@ Im gestaltenden Teil eines Insolvenzplans (§ 221 InsO) oder StaRUG-Restrukturie
 2. **Zustimmungsfrage:** Braucht die Übertragung eine separate Einzelzustimmung der Gläubiger/Betroffenen — oder genügt die rechtsgestaltende Wirkung des bestätigten Plans (§ 254 InsO)?
 3. **Vollzugsfrage:** Wie wirkt der bestätigte Plan auf das jeweilige Übertragungsregime (Grundbuch, Markenregister, datenschutzrechtliche Zweckbindung)?
 
-Dieser Skill liefert die Entscheidungsmatrix für drei typische Asset-Klassen: Grundstücke, gewerbliche Schutzrechte (insb. Marken), Kundendaten.
+Liefert die Entscheidungsmatrix für drei typische Asset-Klassen: Grundstücke, gewerbliche Schutzrechte (insb. Marken), Kundendaten.
 
 ---
 

@@ -15,7 +15,7 @@ description: "Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung 
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill erstellt eine **sofort nutzbare Fristennotiz** für ein konkretes IP-Mandat und benennt den nächsten Schritt. Er ist das schnellste Werkzeug, um bei einem neuen Mandat oder bei einer eingehenden Abmahnung sofort die zeitkritische Lage zu erfassen und nichts zu übersehen.
+Erstellt eine **sofort nutzbare Fristennotiz** für ein konkretes IP-Mandat und benennt den nächsten Schritt. Er ist das schnellste Werkzeug, um bei einem neuen Mandat oder bei einer eingehenden Abmahnung sofort die zeitkritische Lage zu erfassen und nichts zu übersehen.
 
 Mandatsbezug: Anwalt nimmt Telefonmandat an – Mandant hat Abmahnung erhalten. In fünf Minuten muss die Fristenlage klar sein. Oder: Kanzlei-Assistent soll nach Übergabe eines neuen Mandats einen Fristencheck durchführen.
 

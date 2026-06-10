@@ -15,7 +15,7 @@ description: "Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheite
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet **Mondvertrag: Ressourcen-Governance und politische Akzeptanz** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite **Mondvertrag: Ressourcen-Governance und politische Akzeptanz** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Kontext
 

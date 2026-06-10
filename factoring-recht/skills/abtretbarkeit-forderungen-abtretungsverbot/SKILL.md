@@ -26,7 +26,7 @@ Abtretbarkeit Forderungen § 398 BGB und Abtretungsverbote: prüft die einschlä
 
 Im Factoring lebt das ganze Geschäftsmodell davon, dass eine Forderung **wirksam von dem Kunden auf den Factor übergehen kann**. § 398 BGB beschreibt den Tatbestand der Abtretung: Einigung zwischen Altgläubiger und Neugläubiger, dass die Forderung übergeht – formfrei, einseitig anzeigbar, ohne Zustimmung des Schuldners. Klingt einfach. In der Praxis bricht der Forderungsankauf häufig genau hier: weil die Forderung gar nicht existiert, weil sie nicht bestimmt genug bezeichnet ist, weil ein Abtretungsverbot greift oder weil sie bereits einem Dritten abgetreten wurde (Globalzession, verlängerter Eigentumsvorbehalt).
 
-Dieser Skill prüft die **vier Wirksamkeitsstufen**: (1) Bestand der Forderung, (2) Bestimmbarkeit, (3) freie Verfügungsbefugnis (kein Verbot, keine Vorabtretung), (4) wirksame Einigung. Erst wenn alle vier Stufen stehen, kann der Factor sich auf Eigentum berufen.
+Prüft die **vier Wirksamkeitsstufen**: (1) Bestand der Forderung, (2) Bestimmbarkeit, (3) freie Verfügungsbefugnis (kein Verbot, keine Vorabtretung), (4) wirksame Einigung. Erst wenn alle vier Stufen stehen, kann der Factor sich auf Eigentum berufen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

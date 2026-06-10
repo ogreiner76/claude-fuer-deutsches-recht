@@ -1,6 +1,6 @@
 ---
 name: arbeitsblatt-schriftsatz-brief-und-memo-bausteine
-description: "Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine

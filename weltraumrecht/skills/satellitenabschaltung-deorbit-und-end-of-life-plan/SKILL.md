@@ -15,7 +15,7 @@ description: "End-of-Life-Planung für Satelliten – Deorbit-Pflicht, IADC 25-J
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Satellitenabschaltung: Deorbit und End-of-Life-Plan** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Satellitenabschaltung: Deorbit und End-of-Life-Plan** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

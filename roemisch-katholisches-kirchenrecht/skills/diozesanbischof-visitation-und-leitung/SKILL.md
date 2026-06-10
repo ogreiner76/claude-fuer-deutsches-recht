@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **bischöfliche Leitung, Verwaltung, Visitation und Delegation**.
+Prüft insbesondere: **bischöfliche Leitung, Verwaltung, Visitation und Delegation**.
 
 **CIC-/Normanker:** can. 381-402, 469-494.
 

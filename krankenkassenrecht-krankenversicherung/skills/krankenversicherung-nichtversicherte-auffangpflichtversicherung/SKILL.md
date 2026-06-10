@@ -15,7 +15,7 @@ description: "Krankenversicherungsschutz für Personen ohne anderweitigen KV-Sch
 
 ## Skill-Zweck
 
-Wer zuletzt gesetzlich versichert war und keinen anderen KV-Schutz hat, wird über die Auffangpflichtversicherung in die GKV aufgenommen. Dieser Skill klärt **Voraussetzungen, Beiträge, Beitragsschulden und Wege aus der Nichtversicherung**.
+Wer zuletzt gesetzlich versichert war und keinen anderen KV-Schutz hat, wird über die Auffangpflichtversicherung in die GKV aufgenommen. Kläre **Voraussetzungen, Beiträge, Beitragsschulden und Wege aus der Nichtversicherung**.
 
 ## Rechtlicher Rahmen
 

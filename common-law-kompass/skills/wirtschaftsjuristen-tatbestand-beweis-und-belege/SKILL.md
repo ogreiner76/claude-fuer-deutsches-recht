@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsjuristen-tatbestand-beweis-und-belege
-description: "Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage: Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin common law kompass."
+description: "Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage: Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin common law kompass.
+**Fokus:** Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 
 ## Spezialwissen: Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** UK, US, UCC.

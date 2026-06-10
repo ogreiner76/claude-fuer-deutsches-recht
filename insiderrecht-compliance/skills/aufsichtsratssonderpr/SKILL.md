@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft, ob und wann die Sonderuntersuchung und ihre Ergebnisse zu einer
+Prüfe, ob und wann die Sonderuntersuchung und ihre Ergebnisse zu einer
 Insiderinformation werden, und steuert die Ad-hoc-Entscheidung.
 
 ## Arbeitsprogramm

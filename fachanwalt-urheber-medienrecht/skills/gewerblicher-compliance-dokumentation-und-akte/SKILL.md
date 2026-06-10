@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-compliance-dokumentation-und-akte
-description: "Gewerblicher: Compliance-Dokumentation und Aktenvermerk: Gewerblicher: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt urheber medienrecht."
+description: "Gewerblicher: Compliance-Dokumentation und Aktenvermerk: Gewerblicher: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Gewerblicher: Compliance-Dokumentation und Aktenvermerk
@@ -14,7 +14,7 @@ description: "Gewerblicher: Compliance-Dokumentation und Aktenvermerk: Gewerblic
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Gewerblicher: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt urheber medienrecht.
+**Fokus:** Gewerblicher: Compliance-Dokumentation und Aktenvermerk.
 
 ## Spezialwissen: Gewerblicher: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

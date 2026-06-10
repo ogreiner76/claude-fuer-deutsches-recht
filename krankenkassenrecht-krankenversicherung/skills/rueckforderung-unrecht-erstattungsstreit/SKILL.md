@@ -15,7 +15,7 @@ description: "Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X
 
 ## Skill-Zweck
 
-Krankenkassen fordern manchmal Leistungen zurück, die sie zu Unrecht erbracht haben. Dieser Skill klärt **Rücknahmevoraussetzungen nach SGB X, Vertrauensschutz und Verteidigungsstrategien**.
+Krankenkassen fordern manchmal Leistungen zurück, die sie zu Unrecht erbracht haben. Kläre **Rücknahmevoraussetzungen nach SGB X, Vertrauensschutz und Verteidigungsstrategien**.
 
 ## Rechtlicher Rahmen
 

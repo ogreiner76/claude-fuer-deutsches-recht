@@ -29,7 +29,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Hinweis
 
-Dieser Skill liefert ein strukturiertes Muster für eine Anfechtungsklage nach dem AnfG. Es handelt sich um keine Rechtsberatung. Alle Angaben sind Platzhalter.
+Liefert ein strukturiertes Muster für eine Anfechtungsklage nach dem AnfG. Es handelt sich um keine Rechtsberatung. Alle Angaben sind Platzhalter.
 
 ## Rubrum
 

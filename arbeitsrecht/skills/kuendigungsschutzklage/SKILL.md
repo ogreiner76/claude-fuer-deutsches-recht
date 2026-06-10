@@ -28,7 +28,7 @@ description: "Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG: L
 
 ## Zweck
 
-Dieser Skill unterstützt bei der Prüfung und dem Entwurf einer Kündigungsschutzklage nach § 4 KSchG. Er dient Rechtsanwältinnen und Rechtsanwälten, die ein Mandat zur Überprüfung einer Arbeitgeberkündigung führen, sowie der internen Fallanalyse. Kernproblem ist regelmäßig die **3-Wochen-Klagefrist** (§ 4 Satz 1 KSchG), die ab Zugang der Kündigung läuft und bei Versäumung zum Verlust des Kündigungsschutzrechts führt (§ 7 KSchG). Der Skill erfasst sowohl ordentliche als auch außerordentliche Kündigungen, die Sozialauswahl, die Betriebsratsanhörung und die gerichtliche Geltendmachung.
+Unterstützt bei der Prüfung und dem Entwurf einer Kündigungsschutzklage nach § 4 KSchG. Er dient Rechtsanwältinnen und Rechtsanwälten, die ein Mandat zur Überprüfung einer Arbeitgeberkündigung führen, sowie der internen Fallanalyse. Kernproblem ist regelmäßig die **3-Wochen-Klagefrist** (§ 4 Satz 1 KSchG), die ab Zugang der Kündigung läuft und bei Versäumung zum Verlust des Kündigungsschutzrechts führt (§ 7 KSchG). Der Skill erfasst sowohl ordentliche als auch außerordentliche Kündigungen, die Sozialauswahl, die Betriebsratsanhörung und die gerichtliche Geltendmachung.
 
 ## Eingaben
 

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **gültige Taufe, Registereintrag, Patenfrage, Elternwille und Statusfolgen**.
+Prüft insbesondere: **gültige Taufe, Registereintrag, Patenfrage, Elternwille und Statusfolgen**.
 
 **CIC-/Normanker:** can. 849-878, 535.
 

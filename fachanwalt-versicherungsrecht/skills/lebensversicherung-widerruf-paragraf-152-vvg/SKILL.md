@@ -7,7 +7,7 @@ description: "Lebensversicherung Widerruf § 152 VVG: fachanwaltlicher Spezial-S
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Lebensversicherung Widerruf § 152 VVG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Lebensversicherung Widerruf § 152 VVG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

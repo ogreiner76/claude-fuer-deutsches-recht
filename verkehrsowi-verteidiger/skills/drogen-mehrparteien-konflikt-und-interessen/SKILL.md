@@ -1,6 +1,6 @@
 ---
 name: drogen-mehrparteien-konflikt-und-interessen
-description: "Drogen: Mehrparteienkonflikt und Interessenmatrix im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Drogen: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Drogen: Mehrparteienkonflikt und Interessenmatrix

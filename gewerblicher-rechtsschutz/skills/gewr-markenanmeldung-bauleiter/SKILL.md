@@ -15,7 +15,7 @@ description: "Markenanmeldung als strukturierter Bauleiter: Recherche, Klassenwa
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill führt durch den **vollständigen Prozess der Markenanmeldung** – von der Vorabrecherche über die Klassenwahl bis zur Anmeldung und Nachverfolgung. Er fungiert als strukturierter „Bauleiter": jeder Schritt ist klar definiert, Entscheidungspunkte sind markiert und Fehlerquellen werden antizipiert.
+Führt durch den **vollständigen Prozess der Markenanmeldung** – von der Vorabrecherche über die Klassenwahl bis zur Anmeldung und Nachverfolgung. Er fungiert als strukturierter „Bauleiter": jeder Schritt ist klar definiert, Entscheidungspunkte sind markiert und Fehlerquellen werden antizipiert.
 
 Mandatsbezug: Startup möchte Produktname schützen; etabliertes Unternehmen will neue Produktlinie unter einer Marke führen; Mandant hat gute Idee für Marke, weiß aber nicht, wo anfangen. Oder: Anwalt übernimmt Markenportfolio-Betreuung und braucht strukturierten Prozess.
 

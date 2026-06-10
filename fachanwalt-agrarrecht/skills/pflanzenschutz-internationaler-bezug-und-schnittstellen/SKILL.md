@@ -1,6 +1,6 @@
 ---
 name: pflanzenschutz-internationaler-bezug-und-schnittstellen
-description: "Pflanzenschutz: Internationaler Bezug und Schnittstellen: Pflanzenschutz: Internationaler Bezug und Schnittstellen im Plugin fachanwalt agrarrecht."
+description: "Pflanzenschutz: Internationaler Bezug und Schnittstellen: Pflanzenschutz: Internationaler Bezug und Schnittstellen."
 ---
 
 # Pflanzenschutz: Internationaler Bezug und Schnittstellen
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Pflanzenschutz: Internationaler Bezug und Schnittstellen im Plugin fachanwalt agrarrecht.
+**Fokus:** Pflanzenschutz: Internationaler Bezug und Schnittstellen.
 
 ## Spezialwissen: Pflanzenschutz: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

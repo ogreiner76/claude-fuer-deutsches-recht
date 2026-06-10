@@ -19,7 +19,7 @@ Exportkontrollverstöße sind strafbewehrt nach § 18 AWG (Außenwirtschaftsgese
 
 ## Ziel dieses Skills
 
-Dieser Skill identifiziert Exportkontrollverstöße, leitet Selbstanzeige-Entscheidungen ab und strukturiert die behördliche Kooperation mit BAFA, Zoll und US-BIS/OFAC.
+Identifiziere Exportkontrollverstöße, leitet Selbstanzeige-Entscheidungen ab und strukturiert die behördliche Kooperation mit BAFA, Zoll und US-BIS/OFAC.
 
 ## Arbeitsprogramm
 

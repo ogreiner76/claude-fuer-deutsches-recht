@@ -15,7 +15,7 @@ description: "KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifiz
 
 ## Worum es geht
 
-Dieser Skill analysiert, ob ein Geschäftsmodell einer KWG-Erlaubnis bedarf, welche Tatbestandsmerkmale einschlägig sind und welche Inhaberkontrollverfahren bei qualifizierten Beteiligungen ablaufen. Die Normenstruktur folgt § 1 KWG (Tatbestände), § 32 KWG (Erlaubnispflicht) und § 2c KWG (Inhaberkontrolle). Fit-and-Proper-Anforderungen für Geschäftsleiter und Aufsichtsorgane sind eingebettet.
+Analysiere, ob ein Geschäftsmodell einer KWG-Erlaubnis bedarf, welche Tatbestandsmerkmale einschlägig sind und welche Inhaberkontrollverfahren bei qualifizierten Beteiligungen ablaufen. Die Normenstruktur folgt § 1 KWG (Tatbestände), § 32 KWG (Erlaubnispflicht) und § 2c KWG (Inhaberkontrolle). Fit-and-Proper-Anforderungen für Geschäftsleiter und Aufsichtsorgane sind eingebettet.
 
 ## Kernnormen
 

@@ -1,6 +1,6 @@
 ---
 name: wandelereignisse-zahlen-schwellen-und-berechnung
-description: "Wandelereignisse: Zahlen, Schwellenwerte und Berechnung im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
+description: "Wandelereignisse: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Wandelereignisse: Zahlen, Schwellenwerte und Berechnung

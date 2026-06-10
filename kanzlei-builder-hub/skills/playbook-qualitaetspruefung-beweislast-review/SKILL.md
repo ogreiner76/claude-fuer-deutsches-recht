@@ -1,6 +1,6 @@
 ---
 name: playbook-qualitaetspruefung-beweislast-review
-description: "Playbook: Internationaler Bezug und Schnittstellen im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Playbook: Internationaler Bezug und Schnittstellen."
 ---
 
 # Playbook: Internationaler Bezug und Schnittstellen

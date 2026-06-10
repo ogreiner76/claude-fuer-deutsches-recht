@@ -1,6 +1,6 @@
 ---
 name: reviews-internationaler-bezug-und-schnittstellen
-description: "Reviews: Internationaler Bezug und Schnittstellen im Plugin common law kompass im Common Law Kompass."
+description: "Reviews: Internationaler Bezug und Schnittstellen."
 ---
 
 # Reviews: Internationaler Bezug und Schnittstellen

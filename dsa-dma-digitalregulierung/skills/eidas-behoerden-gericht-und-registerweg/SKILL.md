@@ -1,6 +1,6 @@
 ---
 name: eidas-behoerden-gericht-und-registerweg
-description: "Eidas: Behörden-, Gerichts- oder Registerweg im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Eidas: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Eidas: Behörden-, Gerichts- oder Registerweg

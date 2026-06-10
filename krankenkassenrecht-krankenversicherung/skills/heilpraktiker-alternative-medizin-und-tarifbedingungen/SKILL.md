@@ -15,7 +15,7 @@ description: "Erstattung von Heilpraktiker-Behandlungen und alternativer Medizin
 
 ## Skill-Zweck
 
-Heilpraktiker und alternative Medizin werden zunehmend nachgefragt. Dieser Skill klärt **wann PKV und GKV zahlen**, welche Tarif­bedingungen gelten und wie Ablehnungen angegriffen werden.
+Heilpraktiker und alternative Medizin werden zunehmend nachgefragt. Kläre **wann PKV und GKV zahlen**, welche Tarif­bedingungen gelten und wie Ablehnungen angegriffen werden.
 
 ## Rechtlicher Rahmen
 

@@ -82,47 +82,47 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `anschluss-router` | Einstieg, Schnelltriage und Fallrouting im Verkehr Infrastrukturrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan.... |
 | `autonomous-driving` | Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues Mandat im Bereich Verkehrsinfrastruktur, Routing auf passenden Subskill. Normen: FStrG, AEG, PBefG, StVO, BauGB, FStrG, GWB (je nach Sachgebiet). Prüfraster: Sachgebiet (P... |
-| `autonomous-driving-interessen-grossprojekt` | Autonomous: Compliance-Dokumentation und Aktenvermerk im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `autonomous-driving-interessen-grossprojekt` | Autonomous: Compliance-Dokumentation und Aktenvermerk. |
 | `autonomous-driving-strassenrecht` | Autonomes Fahren und Strassenrecht: § 1d StVG, autonomes Fahren in Level 4, Genehmigung der zuständigen Landesbehoerden, Betrieb auf festgelegter Strecke. Schnittstelle zu KI-VO Hochrisikoanwendungen, Datenschutz, Haftungsfragen. Pruefra... |
 | `buergerentscheid-strassenbahn-spezial` | Spezialfall Buergerentscheid zur Strassenbahn oder Stadtbahn: kommunalrechtliche Voraussetzungen, Verhaeltnis zum Beschluss des Gemeinderats, planungsrechtliche Folgen, Foerderfaehigkeit nach GVFG bei Verzoegerung. Pruefraster im Verkehr... |
 | `dokumente-intake` | Dokumentenintake für Verkehr-Infrastrukturrecht: sortiert Planfeststellungsbeschluss, Erörterungstermin-Protokoll, prüft Datum, Absender, Frist und Beweiswert (Verkehrsprognose, Lärmgutachten); markiert Lücken; berücksichtigt Mandatsgehe... |
-| `driving-mehrparteien-konflikt-und-interessen` | Driving: Mehrparteienkonflikt und Interessenmatrix im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `driving-mehrparteien-konflikt-und-interessen` | Driving: Mehrparteienkonflikt und Interessenmatrix. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Verkehr-Infrastrukturrecht: ordnet Rolle (Träger Planungshoheit, Behörde, Betroffene Anwohner), markiert Frist (Klagefrist Planfeststellung), wählt Norm (FStrG, AEG, PBefG, BFStrG, VwVfG) und Zuständigkei... |
 | `foerderung-vergabe-ladeinfrastruktur` | Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Länderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB... |
-| `grossprojekt-zahlen-schwellen-und-berechnung` | Grossprojekt: Zahlen, Schwellenwerte und Berechnung im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `grossprojekt-zahlen-schwellen-und-berechnung` | Grossprojekt: Zahlen, Schwellenwerte und Berechnung. |
 | `infrastruktur-foerderung-nachhaltige` | Foerderprogramme Verkehrsinfrastruktur uebersichtlich: GVFG, KfW, EU CEF, NIP, Foerderaufruf BMDV, Land-Programme. Pro Programm: Foerdergegenstand, Quote, Antragsweg, Berichtspflichten. Routet in verkehr-infrastrukturrecht-foerderung-ver... |
-| `infrastrukturrecht-intake-ladeinfrastruktur` | Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
-| `intake-mandantenkommunikation-entscheidungsvorlage` | Intake: Mandantenkommunikation und Entscheidungsvorlage im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `infrastrukturrecht-intake-ladeinfrastruktur` | Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `intake-mandantenkommunikation-entscheidungsvorlage` | Intake: Mandantenkommunikation und Entscheidungsvorlage. |
 | `ladeinfrastruktur` | Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Net... |
-| `ladeinfrastruktur-behoerden-gericht-und-registerweg` | Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
-| `livecheck-sonderfall-mobilitaetsprojekt` | Livecheck: Sonderfall und Edge-Case-Prüfung im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `ladeinfrastruktur-behoerden-gericht-und-registerweg` | Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg. |
+| `livecheck-sonderfall-mobilitaetsprojekt` | Livecheck: Sonderfall und Edge-Case-Prüfung. |
 | `mobilitaetsprojekt-intake` | Mobilitätsprojekt-Intake mit Rechtsweg-, Förder- und Beteiligungsweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Verkehr Infrastrukturrecht. |
-| `mobilitaetsprojekt-red-team-und-qualitaetskontrolle` | Mobilitaetsprojekt: Red-Team und Qualitätskontrolle im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `mobilitaetsprojekt-red-team-und-qualitaetskontrolle` | Mobilitaetsprojekt: Red-Team und Qualitätskontrolle. |
 | `nachhaltige-bahninfrastruktur-emissionen` | Nachhaltige Bahninfrastruktur und Emissionen: Trassenpreis, Elektrifizierungsfoerderung, Verlagerung Schiene, ETS und Strassenverkehr, CBAM-Bezug für Stahl/Schienen-Lieferungen. Compliance-Roadmap für DB-Auftraggeber und Bauunternehmen i... |
 | `output-waehlen` | Output-Wahl für Verkehr-Infrastrukturrecht: stimmt Adressat (Träger Planungshoheit, Behörde, Betroffene Anwohner), Frist (Klagefrist Planfeststellung) und Form auf den Zweck ab — typische Outputs: Einwendung, Klage gegen Planfeststellung... |
-| `parkraum-planfeststellung-strassenbahn` | Parkraum: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `parkraum-planfeststellung-strassenbahn` | Parkraum: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `parkraumbewirtschaftung` | Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einführt Bewohnerparkausweis oder Abschleppung wird angefochten. Normen: § 45 StVO (Bewohnerparkausweis, Verkehrszeichen), StVG § 12 (Haltverbot), VwVfG (Verwaltu... |
-| `parkraumbewirtschaftung-verkehr` | Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `parkraumbewirtschaftung-verkehr` | Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik. |
 | `planfeststellung` | Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger benoetigt Planfeststellungsbeschluss oder Anlieger klagt dagegen. Normen: § 17 FStrG (Bundesstrasse), § 18 AEG (Eisenbah... |
-| `planfeststellung-dokumentenmatrix-und-lueckenliste` | Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `planfeststellung-dokumentenmatrix-und-lueckenliste` | Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `planfeststellung-grossprojekt` | Planfeststellung und Großprojektsteuerung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Verkehr Infrastrukturrecht. |
 | `planfeststellung-grundzuege` | Planfeststellung in Grundzuegen: §§ 72 ff. VwVfG, fachgesetzliche Planfeststellung Strasse, Schiene, Wasser, Energie. Antragsunterlagen, Anhörungsverfahren, Beschluss, Klage. Verhaeltnis zur Plangenehmigung. Routet in verkehr-infrastrukt... |
 | `quellen-livecheck` | Quellen-Live-Check für Verkehr-Infrastrukturrecht: prüft Normen (FStrG, AEG, PBefG, BFStrG, VwVfG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Eisenbahn-BBundesamt und Quellenhygiene nach references/quellenhyg... |
 | `schulwegsicherheit-sondernutzung-strassenbahn` | Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen, 30er-Zone), § 839... |
 | `sondernutzung` | Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW (Landesstrassenrecht), BayStrWG... |
 | `strassenbahn` | Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelu... |
-| `strassenbahn-risikoampel-und-gegenargumente` | Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
-| `strassenrecht-verkehrs-verkehrswende` | Strassenrecht: Internationaler Bezug und Schnittstellen im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `strassenbahn-risikoampel-und-gegenargumente` | Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `strassenrecht-verkehrs-verkehrswende` | Strassenrecht: Internationaler Bezug und Schnittstellen. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Verkehr-Infrastrukturrecht: trennt fehlende Tatsachen von fehlenden Belegen (Planfeststellungsbeschluss, Erörterungstermin-Protokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Eisenbahn-BBundesamt),... |
 | `verfahren` | Anhörung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen... |
 | `verkehr-infrastruktur-fristen-risiko-mandant` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Verkehr Infrastrukturrecht. |
-| `verkehr-infrastruktur-rechtsquellen-beweislast-darlegungslast` | Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `verkehr-infrastruktur-rechtsquellen-beweislast-darlegungslast` | Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
 | `verkehr-quellenkarte` | Verkehr Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `verkehrs-erstpruefung-und-mandatsziel` | Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
-| `verkehrsplanung-verfahren-vertragsmodell` | Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `verkehrs-erstpruefung-und-mandatsziel` | Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `verkehrsplanung-verfahren-vertragsmodell` | Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `verkehrsplanung-verkehrswende` | Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumo... |
 | `verkehrswende` | Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Förderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durc... |
-| `verkehrswende-verhandlung-vergleich-und-eskalation` | Verkehrswende: Verhandlung, Vergleich und Eskalation im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht. |
+| `verkehrswende-verhandlung-vergleich-und-eskalation` | Verkehrswende: Verhandlung, Vergleich und Eskalation. |
 | `vertragsmodell-strasse-app-spezial` | Spezialfall App- und Plattform-Vertraege im öffentlichen Personennahverkehr: Mobility-as-a-Service-Vertraege, Datenraum, P2B-Verordnung, DSGVO, Verkehrsvertraege nach VO 1370/2007. Schiedsklauseln und Vergaberecht. Pruefraster für Kommun... |
 | `vi-rechtsquellen-uebersicht` | Rechtsquellen Verkehrs- und Infrastrukturrecht: BFStrG, PBefG, AEG, EnWG-Trasse, BImSchG, BNatSchG, WHG, VwVfG, UVPG. Pro Norm: Anwendungsbereich, Verfahrensart, Aufsicht. Entscheidungstabelle für ein konkretes Infrastrukturvorhaben. |
 | `vifr-aeg-bahnrecht-deutschlandticket` | Leitfaden AEG und Bahnrecht: Eisenbahninfrastruktur, Trassenvergabe, Netzzugang, EBA als Aufsicht. Pruefraster für EVU und EIU im Verkehr Infrastrukturrecht. |

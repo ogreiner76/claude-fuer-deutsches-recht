@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft, ob eine Informationsweitergabe als unzulässige Offenlegung nach Art. 10 MAR
+Prüfe, ob eine Informationsweitergabe als unzulässige Offenlegung nach Art. 10 MAR
 qualifiziert oder unter eine Ausnahme fällt (normale Berufsausübung, Market Sounding, Due
 Diligence in M&A-Prozessen). Er erstellt das Verteidigungsdossier für Übermittlungsvorgänge.
 

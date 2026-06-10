@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft, ob laufende Gerichts- oder Schiedsverfahren eine Insiderinformation
+Prüfe, ob laufende Gerichts- oder Schiedsverfahren eine Insiderinformation
 darstellen, wann die Ad-hoc-Pflicht entsteht, und ob ein Aufschub zulässig ist.
 
 ## Arbeitsprogramm

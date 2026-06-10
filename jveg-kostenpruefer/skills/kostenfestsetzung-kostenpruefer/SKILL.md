@@ -1,6 +1,6 @@
 ---
 name: kostenfestsetzung-kostenpruefer
-description: "Fristen: Compliance-Dokumentation und Aktenvermerk im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Fristen: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Fristen: Compliance-Dokumentation und Aktenvermerk

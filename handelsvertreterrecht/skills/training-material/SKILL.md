@@ -15,7 +15,7 @@ description: "Erstellt und prüft Schulungs- und Trainingsunterlagen für Handel
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Schulungs- und Trainingsunterlagen zum Handelsvertreterrecht nach HGB.
+Unterstützt bei rechtlichen Fragen rund um Schulungs- und Trainingsunterlagen zum Handelsvertreterrecht nach HGB.
 Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.

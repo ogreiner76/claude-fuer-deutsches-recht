@@ -1,6 +1,6 @@
 ---
 name: verteilung-zwangsverwaltung-aktenanlage
-description: "Verteilung: Verhandlung, Vergleich und Eskalation im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Verteilung: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Verteilung: Verhandlung, Vergleich und Eskalation

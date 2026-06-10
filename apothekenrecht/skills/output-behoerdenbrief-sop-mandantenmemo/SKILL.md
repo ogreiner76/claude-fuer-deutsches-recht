@@ -1,6 +1,6 @@
 ---
 name: output-behoerdenbrief-sop-mandantenmemo
-description: "Output Behördenbrief SOP Mandantenmemo im Plugin Apothekenrecht: Fachlicher Fokus: Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis."
+description: "Output Behördenbrief SOP Mandantenmemo: Fachlicher Fokus: Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis."
 ---
 
 # Output Behördenbrief SOP Mandantenmemo

@@ -1,6 +1,6 @@
 ---
 name: willenserklaerung-zivilrecht-zugang
-description: "Willenserklaerung: Formular, Portal und Einreichungslogik im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Willenserklaerung: Formular, Portal und Einreichungslogik."
 ---
 
 # Willenserklaerung: Formular, Portal und Einreichungslogik

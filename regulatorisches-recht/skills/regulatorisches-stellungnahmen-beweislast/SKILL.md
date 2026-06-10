@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-stellungnahmen-beweislast
-description: "Regulatorisches: Internationaler Bezug und Schnittstellen im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Regulatorisches: Internationaler Bezug und Schnittstellen."
 ---
 
 # Regulatorisches: Internationaler Bezug und Schnittstellen

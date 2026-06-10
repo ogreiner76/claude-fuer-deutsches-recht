@@ -1,6 +1,6 @@
 ---
 name: tenor-internationaler-bezug-und-schnittstellen
-description: "Tenor: Internationaler Bezug und Schnittstellen im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Tenor: Internationaler Bezug und Schnittstellen."
 ---
 
 # Tenor: Internationaler Bezug und Schnittstellen

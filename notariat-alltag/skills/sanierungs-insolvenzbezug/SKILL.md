@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- un
 
 ## Zweck und Anwendungsbereich
 
-Insolvenz eines Beteiligten macht jedes Grundstücks- oder Gesellschaftsgeschäft kompliziert. Dieser Skill klärt die Konsequenzen von Insolvenzvermerken, die Rolle des Insolvenzverwalters und die Risiken der Insolvenzanfechtung.
+Insolvenz eines Beteiligten macht jedes Grundstücks- oder Gesellschaftsgeschäft kompliziert. Kläre die Konsequenzen von Insolvenzvermerken, die Rolle des Insolvenzverwalters und die Risiken der Insolvenzanfechtung.
 
 Rechtsgrundlagen: §§ 80–147 InsO (Insolvenzmasse, Insolvenzverwalter), §§ 129–147 InsO (Insolvenzanfechtung), § 24 Abs. 1 InsO (Wirkung Insolvenzeröffnung), § 91 InsO (Verfügungsbeschränkung), GBO § 32 (Insolvenzvermerk), § 12 GBO (Grundbucheinsicht), § 311b BGB (Form), § 17 BeurkG (Belehrungspflicht).
 

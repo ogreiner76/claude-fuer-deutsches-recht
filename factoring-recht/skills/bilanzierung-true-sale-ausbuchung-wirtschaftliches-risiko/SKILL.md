@@ -26,7 +26,7 @@ Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft die einschläg
 
 Für den Factoringkunden ist die **bilanzielle Ausbuchung der Forderung** (Off-Balance) oft das eigentliche Geschäftsziel. Sie senkt die Bilanzsumme, verbessert Bilanzkennzahlen (Eigenkapitalquote, Umschlagshäufigkeit) und ist Voraussetzung für viele Kreditkonditionen. Bilanziell ist die Ausbuchung kein juristischer Selbstläufer: Sie setzt **True Sale** voraus – einen echten Forderungsverkauf mit Übergang des wirtschaftlichen Eigentums, nicht nur eine zivilrechtliche Abtretung mit Sicherungscharakter.
 
-Maßstab nach **HGB (§ 246 HGB, IDW RS HFA 8)**: Ausbuchung, wenn das **wirtschaftliche Eigentum** vollständig übergegangen ist und der Verkäufer keine wesentlichen Risiken zurückbehält. Maßstab nach **IFRS 9** komplexer: Risk-and-Reward-Test plus Control-Test. Dieser Skill prüft die zentralen Stellschrauben.
+Maßstab nach **HGB (§ 246 HGB, IDW RS HFA 8)**: Ausbuchung, wenn das **wirtschaftliche Eigentum** vollständig übergegangen ist und der Verkäufer keine wesentlichen Risiken zurückbehält. Maßstab nach **IFRS 9** komplexer: Risk-and-Reward-Test plus Control-Test. Prüfe die zentralen Stellschrauben.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

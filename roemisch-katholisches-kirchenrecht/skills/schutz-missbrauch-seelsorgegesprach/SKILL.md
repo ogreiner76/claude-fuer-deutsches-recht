@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Schutz Betroffener, Voruntersuchung, Staat und Dokumentation**.
+Prüft insbesondere: **Schutz Betroffener, Voruntersuchung, Staat und Dokumentation**.
 
 **CIC-/Normanker:** can. 1717, 1395-1398; Vos estis lux mundi live prüfen.
 

@@ -1,6 +1,6 @@
 ---
 name: einwilligungshinweis-fristennotiz-und-naechster-schritt
-description: "Einwilligungshinweis: Fristennotiz und nächster Schritt im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Einwilligungshinweis: Fristennotiz und nächster Schritt."
 ---
 
 # Einwilligungshinweis: Fristennotiz und nächster Schritt

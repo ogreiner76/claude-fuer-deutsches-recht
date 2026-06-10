@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Plugin Krankenkassen- und Krankenversicherungsrecht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ord..."
+description: "Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ord..."
 ---
 
 ## Aktenstart statt Formularstart

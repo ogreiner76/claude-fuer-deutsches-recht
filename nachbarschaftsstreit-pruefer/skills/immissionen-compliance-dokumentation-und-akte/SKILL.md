@@ -1,6 +1,6 @@
 ---
 name: immissionen-compliance-dokumentation-und-akte
-description: "Immissionen: Compliance-Dokumentation und Aktenvermerk im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Immissionen: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Immissionen: Compliance-Dokumentation und Aktenvermerk

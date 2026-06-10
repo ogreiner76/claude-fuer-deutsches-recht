@@ -1,6 +1,6 @@
 ---
 name: werbung-beweislast-und-darlegungslast
-description: "Werbung: Beweislast, Darlegungslast und Substantiierung: Werbung: Beweislast, Darlegungslast und Substantiierung im Plugin ki governance."
+description: "Werbung: Beweislast, Darlegungslast und Substantiierung: Werbung: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Werbung: Beweislast, Darlegungslast und Substantiierung
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Werbung: Beweislast, Darlegungslast und Substantiierung im Plugin ki governance.
+**Fokus:** Werbung: Beweislast, Darlegungslast und Substantiierung.
 
 ## Spezialwissen: Werbung: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.

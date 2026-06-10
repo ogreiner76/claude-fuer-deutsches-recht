@@ -15,7 +15,7 @@ description: "Analysiert Besonderheiten des Handelsvertreterrechts in der Pharma
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Handelsvertreterrecht in Pharma und Medtech — Regulierung und §§ 84 ff. HGB.
+Unterstützt bei rechtlichen Fragen rund um Handelsvertreterrecht in Pharma und Medtech — Regulierung und §§ 84 ff. HGB.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.

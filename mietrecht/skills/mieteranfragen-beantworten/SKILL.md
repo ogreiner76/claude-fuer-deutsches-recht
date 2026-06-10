@@ -27,7 +27,7 @@ description: "Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen 
 
 ## Disclaimer (Schlüsselstelle)
 
-Dieser Skill liefert Textbausteine und rechtliche Hinweise. Bei substanziellen Streitfällen, insbesondere bei Mietminderung über zehn Prozent, Kündigung oder Klageandrohung des Mieters, ist eine anwaltliche Prüfung dringend zu empfehlen.
+Liefert Textbausteine und rechtliche Hinweise. Bei substanziellen Streitfällen, insbesondere bei Mietminderung über zehn Prozent, Kündigung oder Klageandrohung des Mieters, ist eine anwaltliche Prüfung dringend zu empfehlen.
 
 ## Typische Anfragen und Antwortlinien
 

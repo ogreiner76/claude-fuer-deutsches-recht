@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Wohnungsrecht, Dienstbarkeit, Baulast – Abgr
 
 ## Zweck und Anwendungsbereich
 
-Dienstbarkeiten sind häufige Grundstücksbelastungen, die zwischen Käufer und Verkäufer verhandelt werden. Dieser Skill klärt die Abgrenzung der drei wichtigsten Varianten und ihre grundbuchrechtliche Behandlung.
+Dienstbarkeiten sind häufige Grundstücksbelastungen, die zwischen Käufer und Verkäufer verhandelt werden. Kläre die Abgrenzung der drei wichtigsten Varianten und ihre grundbuchrechtliche Behandlung.
 
 Rechtsgrundlagen: §§ 1018–1029 BGB (Grunddienstbarkeit), §§ 1090–1093 BGB (beschränkte persönliche Dienstbarkeit, Wohnungsrecht), § 1093 BGB (Wohnungsrecht), Bauordnungsrecht der Länder (Baulast), GBO §§ 19, 29 (Form), GNotKG (Bewertung).
 

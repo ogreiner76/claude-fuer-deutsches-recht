@@ -1,6 +1,6 @@
 ---
 name: 022-roemische-obligationenlehre
-description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters im Römisches Recht: Dieser Skill bearbeitet Römische Obligationenlehre im Handelsrecht des Mittelalters im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer h..."
+description: "Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters im Römisches Recht: Bearbeite Römische Obligationenlehre im Handelsrecht des Mittelalters im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer h..."
 ---
 
 # Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters

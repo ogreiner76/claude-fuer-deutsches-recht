@@ -1,6 +1,6 @@
 ---
 name: recherche-zahlen-schwellen-und-berechnung
-description: "Recherche: Zahlen, Schwellenwerte und Berechnung im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Recherche: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Recherche: Zahlen, Schwellenwerte und Berechnung

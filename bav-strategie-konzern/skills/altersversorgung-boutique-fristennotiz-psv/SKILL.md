@@ -1,6 +1,6 @@
 ---
 name: altersversorgung-boutique-fristennotiz-psv
-description: "Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg

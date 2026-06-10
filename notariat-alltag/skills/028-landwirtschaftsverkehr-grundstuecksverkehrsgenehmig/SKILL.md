@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Landwirtschaftsverkehr – Grundstücksverkehr
 
 ## Zweck und Anwendungsbereich
 
-Käufe von land- und forstwirtschaftlichen Grundstücken unterliegen besonderen öffentlich-rechtlichen Anforderungen. Dieser Skill führt durch die Grundstücksverkehrsgenehmigung (GrdstVG), Negativatteste und Vorkaufsrechte.
+Käufe von land- und forstwirtschaftlichen Grundstücken unterliegen besonderen öffentlich-rechtlichen Anforderungen. Führe durch die Grundstücksverkehrsgenehmigung (GrdstVG), Negativatteste und Vorkaufsrechte.
 
 Rechtsgrundlagen: GrdstVG (Grundstücksverkehrsgesetz), §§ 2–12 GrdstVG (Genehmigungspflicht), § 9 GrdstVG (Versagungsgründe), §§ 4–6 GrdstVG (Genehmigungsfreiheit), §§ 24–28 BauGB (gemeindliches Vorkaufsrecht), RSG (Reichssiedlungsgesetz) §§ 4–11 (Siedlungsrecht), Höfeordnung (in Norddeutschland), ALG, FlurbG.
 

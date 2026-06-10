@@ -15,7 +15,7 @@ description: "Abgrenzung Verletztengeld (BG, § 45 SGB VII) und Krankengeld (GKV
 
 ## Skill-Zweck
 
-Bei Arbeitsunfällen zahlt die Berufsgenossenschaft Verletztengeld statt der GKV Krankengeld. Dieser Skill klärt **Abgrenzung, Höhe, Übergang und was bei streitiger Zuständigkeit gilt**.
+Bei Arbeitsunfällen zahlt die Berufsgenossenschaft Verletztengeld statt der GKV Krankengeld. Kläre **Abgrenzung, Höhe, Übergang und was bei streitiger Zuständigkeit gilt**.
 
 ## Rechtlicher Rahmen
 

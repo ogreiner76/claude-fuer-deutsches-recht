@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-beweislast-und-darlegungslast
-description: "Rechtsschutz: Beweislast, Darlegungslast und Substantiierung: Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verwaltungsrecht."
+description: "Rechtsschutz: Beweislast, Darlegungslast und Substantiierung: Rechtsschutz: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
@@ -14,7 +14,7 @@ description: "Rechtsschutz: Beweislast, Darlegungslast und Substantiierung: Rech
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verwaltungsrecht.
+**Fokus:** Rechtsschutz: Beweislast, Darlegungslast und Substantiierung.
 
 ## Spezialwissen: Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** VwGO, VwVfG.

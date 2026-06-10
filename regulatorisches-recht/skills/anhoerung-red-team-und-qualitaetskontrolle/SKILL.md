@@ -1,6 +1,6 @@
 ---
 name: anhoerung-red-team-und-qualitaetskontrolle
-description: "Anhörung: Red-Team und Qualitätskontrolle im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Anhörung: Red-Team und Qualitätskontrolle."
 ---
 
 # Anhörung: Red-Team und Qualitätskontrolle

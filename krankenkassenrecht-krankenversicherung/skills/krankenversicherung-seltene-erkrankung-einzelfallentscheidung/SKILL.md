@@ -15,7 +15,7 @@ description: "GKV-Leistungsanspruch bei seltenen Erkrankungen: § 2 Abs. 1a SGB 
 
 ## Skill-Zweck
 
-Bei seltenen Erkrankungen fehlen oft zugelassene Therapien oder G-BA-Beschlüsse. Dieser Skill entwickelt die **Argumentation nach § 2 Abs. 1a SGB V und dem Nikolaus-Beschluss des BVerfG**.
+Bei seltenen Erkrankungen fehlen oft zugelassene Therapien oder G-BA-Beschlüsse. Entwickle die **Argumentation nach § 2 Abs. 1a SGB V und dem Nikolaus-Beschluss des BVerfG**.
 
 ## Rechtlicher Rahmen
 

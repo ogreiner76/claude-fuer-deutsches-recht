@@ -25,7 +25,7 @@ description: "Eilmassnahmen im Gesellschafterstreit der GmbH: einstweilige Verfu
 
 Gesellschafterstreitigkeiten eskalieren häufig an präzise definierten Ereignissen: ein Beschluss wird mit einfacher Mehrheit gefasst, der die Minderheit materiell schädigt (Kapitalerhöhung mit Bezugsrechtsausschluss, Abberufung des Gesellschafter-GF, Verwässerung durch Down-Round). Sobald ein solcher Beschluss ins Handelsregister eingetragen ist, ist die Rechtslage oft faktisch irreversibel. Der Eilrechtsschutz — einstweilige Verfügung beim Landgericht und Anmeldungs-Sperre beim Registergericht — ist daher in vielen Fällen der entscheidende Hebel. Er muss innerhalb von Stunden bis wenigen Tagen nach dem streitigen Ereignis eingeleitet werden.
 
-Dieser Skill behandelt das vollständige Eilrechtsschutz-Werkzeugset für GmbH-Gesellschafterstreitigkeiten: Verfügungsantrag, Anmeldungs-Sperre, Anfechtungsklage, Streit-Eskalationspfad und präventive Klauseln.
+Behandelt das vollständige Eilrechtsschutz-Werkzeugset für GmbH-Gesellschafterstreitigkeiten: Verfügungsantrag, Anmeldungs-Sperre, Anfechtungsklage, Streit-Eskalationspfad und präventive Klauseln.
 
 ## Kaltstart-Rückfragen
 

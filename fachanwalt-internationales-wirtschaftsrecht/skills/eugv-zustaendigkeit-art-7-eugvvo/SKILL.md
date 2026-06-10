@@ -7,7 +7,7 @@ description: "Eugv Zustaendigkeit art 7 EuGVVO: fachanwaltlicher Spezial-Skill m
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Eugv Zustaendigkeit art 7 EuGVVO** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Eugv Zustaendigkeit art 7 EuGVVO** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

@@ -15,7 +15,7 @@ description: "Krankengeldanspruch nach § 44 SGB V: Arbeitsunfähigkeitsbeschein
 
 ## Skill-Zweck
 
-Dieser Skill bearbeitet alle Fragen rund um den **Krankengeldanspruch**: Entstehung, Höhe, Dauer (Blockfrist), Nahtlosigkeitsproblematik und häufige Fristfallen bei der Arbeitsunfähigkeitsbescheinigung.
+Bearbeite alle Fragen rund um den **Krankengeldanspruch**: Entstehung, Höhe, Dauer (Blockfrist), Nahtlosigkeitsproblematik und häufige Fristfallen bei der Arbeitsunfähigkeitsbescheinigung.
 
 ## Rechtlicher Rahmen
 

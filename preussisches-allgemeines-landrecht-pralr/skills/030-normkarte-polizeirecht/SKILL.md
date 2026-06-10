@@ -1,6 +1,6 @@
 ---
 name: 030-normkarte-polizeirecht
-description: "PrALR: Normkarte Polizeirecht ohne Anachronismus im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Normkarte Polizeirecht ohne Anachronismus im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor,..."
+description: "PrALR: Normkarte Polizeirecht ohne Anachronismus: Bearbeite die Normkarte Polizeirecht ohne Anachronismus im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor,..."
 ---
 
 # PrALR: Normkarte Polizeirecht ohne Anachronismus

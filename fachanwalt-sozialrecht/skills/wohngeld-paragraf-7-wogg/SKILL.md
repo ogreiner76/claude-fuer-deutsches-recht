@@ -7,7 +7,7 @@ description: "Wohngeld § 7 WoGG: fachanwaltlicher Spezial-Skill mit Normenanker
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Wohngeld § 7 WoGG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Wohngeld § 7 WoGG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

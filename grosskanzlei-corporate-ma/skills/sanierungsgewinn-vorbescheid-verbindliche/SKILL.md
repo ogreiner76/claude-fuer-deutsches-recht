@@ -20,7 +20,7 @@ description: "Verbindliche Auskunft nach § 89 AO im Sanierungskontext. Beschrei
 
 Die verbindliche Auskunft nach § 89 Abs. 2 AO ist im Sanierungskontext das zentrale Instrument zur **Rechtssicherheit vor Wirksamwerden der Sanierungsmaßnahme**. Sie bindet die Finanzverwaltung an die ihr vorgelegte Sachverhalts- und Rechtsfrage und schützt die Mandantin und ihre Vertragspartner vor späteren Überraschungen. Die Praxis verlangt einen sehr sorgfältig formulierten Antrag, ein vollständiges Sachverhalts-Dossier und realistische Zeitplanung.
 
-Dieser Skill liefert die Anleitung für den verbindlichen Auskunftsantrag im Sanierungskontext.
+Liefert die Anleitung für den verbindlichen Auskunftsantrag im Sanierungskontext.
 
 ## Wann dieses Modul hilft
 

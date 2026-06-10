@@ -1,6 +1,6 @@
 ---
 name: 027-normkarte-altrecht-heutiger
-description: "PrALR: Normkarte Altrecht in heutiger Akte im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Normkarte Altrecht in heutiger Akte im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist..."
+description: "PrALR: Normkarte Altrecht in heutiger Akte: Bearbeite die Normkarte Altrecht in heutiger Akte im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist..."
 ---
 
 # PrALR: Normkarte Altrecht in heutiger Akte

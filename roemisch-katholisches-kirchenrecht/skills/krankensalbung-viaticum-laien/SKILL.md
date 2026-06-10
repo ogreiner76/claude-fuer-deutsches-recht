@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Krankheit, Sterben, Sakramente und Angehörige**.
+Prüft insbesondere: **Krankheit, Sterben, Sakramente und Angehörige**.
 
 **CIC-/Normanker:** can. 998-1007, 921-922.
 

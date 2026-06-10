@@ -1,6 +1,6 @@
 ---
 name: roadmap-internationaler-bezug-und-schnittstellen
-description: "Roadmap: Internationaler Bezug und Schnittstellen im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Roadmap: Internationaler Bezug und Schnittstellen."
 ---
 
 # Roadmap: Internationaler Bezug und Schnittstellen

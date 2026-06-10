@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Mandantenkommunikation im Plugin Berufsrecht Ki Vertragspruefung: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?"
+description: "Mandantenkommunikation: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor?"
 ---
 
 # Mandantenkommunikation

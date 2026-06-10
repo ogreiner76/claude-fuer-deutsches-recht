@@ -15,7 +15,7 @@ description: "GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfun
 
 ## Skill-Zweck
 
-GKV übernimmt Kosten für Schutzimpfungen nach STIKO-Empfehlung. Dieser Skill klärt **welche Impfungen die GKV zahlen muss, welche nur freiwillig angeboten werden und wie Reiseimpfungen abrechnungsfähig sind**.
+GKV übernimmt Kosten für Schutzimpfungen nach STIKO-Empfehlung. Kläre **welche Impfungen die GKV zahlen muss, welche nur freiwillig angeboten werden und wie Reiseimpfungen abrechnungsfähig sind**.
 
 ## Rechtlicher Rahmen
 

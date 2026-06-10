@@ -1,6 +1,6 @@
 ---
 name: bilingual-einsprachig
-description: "Bilingual: Schriftsatz-, Brief- und Memo-Bausteine im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
+description: "Bilingual: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Bilingual: Schriftsatz-, Brief- und Memo-Bausteine

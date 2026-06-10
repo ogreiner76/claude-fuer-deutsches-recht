@@ -1,6 +1,6 @@
 ---
 name: hgb-dokumentenmatrix-und-lueckenliste
-description: "HGB: Dokumentenmatrix, Lückenliste und Nachforderung: HGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt transport speditionsrecht."
+description: "HGB: Dokumentenmatrix, Lückenliste und Nachforderung: HGB: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # HGB: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** HGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt transport speditionsrecht.
+**Fokus:** HGB: Dokumentenmatrix, Lückenliste und Nachforderung.
 
 ## Spezialwissen: HGB: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

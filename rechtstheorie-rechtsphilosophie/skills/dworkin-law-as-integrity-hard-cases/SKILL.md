@@ -6,7 +6,7 @@ description: "Verarbeitet Ronald Dworkins Theorie praktisch: Regeln/Prinzipien, 
 # Dworkin: Recht als Integrität, Prinzipien und hard cases
 
 ## Theorieachse
-Dworkin ist im Plugin kein Zitatlieferant, sondern ein Prüfwerkzeug für Fälle, in denen Normtext und Präjudizien mehrere vertretbare Lösungen zulassen. Die Frage lautet dann: Welche Lösung macht das geltende Recht als Ganzes in seiner besten, rechtsstaatlich verantwortbaren Gestalt verständlich?
+Dworkin ist. Die Frage lautet dann: Welche Lösung macht das geltende Recht als Ganzes in seiner besten, rechtsstaatlich verantwortbaren Gestalt verständlich?
 
 ## Prüfpunkte
 1. **Regel oder Prinzip:** Ist die Norm hart subsumierbar oder verlangt sie Gewichtung eines Rechtsprinzips?

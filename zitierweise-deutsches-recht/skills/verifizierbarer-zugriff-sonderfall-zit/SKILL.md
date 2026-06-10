@@ -1,6 +1,6 @@
 ---
 name: verifizierbarer-zugriff-sonderfall-zit
-description: "Verifizierbarer: Verhandlung, Vergleich und Eskalation im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Verifizierbarer: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Verifizierbarer: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: wcag-risikoampel-und-gegenargumente
-description: "Wcag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Wcag: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Wcag: Risikoampel, Gegenargumente und Verteidigungslinien

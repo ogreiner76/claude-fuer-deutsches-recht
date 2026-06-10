@@ -1,6 +1,6 @@
 ---
 name: sperre-vertreter-beweislast
-description: "Schwellen: Verhandlung, Vergleich und Eskalation im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Schwellen: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Schwellen: Verhandlung, Vergleich und Eskalation

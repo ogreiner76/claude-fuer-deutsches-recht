@@ -7,7 +7,7 @@ description: "Prueft, ob ein Modell oder Dienst ein General-Purpose-AI-Modell od
 
 ## Zweck
 
-Dieser Skill klärt, ob ein Modell oder Dienst ein General-Purpose-AI-Modell (GPAI-Modell) oder ein GPAI-System ist und wie dies zur Hochrisiko-Einstufung nach Art. 6 KI-VO steht.
+Kläre, ob ein Modell oder Dienst ein General-Purpose-AI-Modell (GPAI-Modell) oder ein GPAI-System ist und wie dies zur Hochrisiko-Einstufung nach Art. 6 KI-VO steht.
 
 Der wichtigste praktische Punkt: Ein allgemeines Sprachmodell oder ein ChatGPT-ähnlicher Chatbot ist nicht automatisch Hochrisiko-KI. Hochrisiko hängt an der konkreten Zweckbestimmung und dem Einsatz als KI-System in einem regulierten Kontext, insbesondere Art. 6 Abs. 2 i.V.m. Anhang III.
 

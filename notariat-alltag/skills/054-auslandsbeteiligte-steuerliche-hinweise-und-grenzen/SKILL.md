@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise un
 
 ## Zweck und Anwendungsbereich
 
-Wenn Ausländer oder im Ausland ansässige Personen an deutschen Grundstücks- oder Gesellschaftsgeschäften beteiligt sind, entstehen besondere steuerliche Fragen. Der Notar muss auf diese hinweisen – ohne selbst steuerliche Beratung zu leisten. Dieser Skill klärt die Hinweispflichten und Abgrenzung zur Steuerberatung.
+Wenn Ausländer oder im Ausland ansässige Personen an deutschen Grundstücks- oder Gesellschaftsgeschäften beteiligt sind, entstehen besondere steuerliche Fragen. Der Notar muss auf diese hinweisen – ohne selbst steuerliche Beratung zu leisten. Kläre die Hinweispflichten und Abgrenzung zur Steuerberatung.
 
 Rechtsgrundlagen: § 17 BeurkG (Belehrungspflicht), § 50a EStG (beschränkte Steuerpflicht), § 48 EStG (Bauabzugssteuer), §§ 1–7 GrEStG (Grunderwerbsteuer), § 34 ErbStG (Meldepflicht Notar), AO §§ 10–14 (Steuerliche Identifikation), DSGVO, EGBGB (IPR), DBA (Doppelbesteuerungsabkommen).
 

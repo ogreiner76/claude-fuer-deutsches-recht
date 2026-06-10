@@ -7,7 +7,7 @@ description: "Frachtfuehrerhaftung § 425 HGB: fachanwaltlicher Spezial-Skill mi
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Frachtfuehrerhaftung § 425 HGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Frachtfuehrerhaftung § 425 HGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

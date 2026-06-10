@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-fnp-inzidentkontrolle
-description: "Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Normenkontrolle Bauleitplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion..."
+description: "Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion..."
 ---
 
 # Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung

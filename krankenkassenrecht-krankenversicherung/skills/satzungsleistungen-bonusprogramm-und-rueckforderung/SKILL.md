@@ -15,7 +15,7 @@ description: "Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 
 
 ## Skill-Zweck
 
-Krankenkassen können freiwillige Leistungen anbieten, die über den gesetzlichen Pflichtleistungskatalog hinausgehen. Dieser Skill klärt **Anspruch auf Satzungsleistungen, Bonusprogramme** und die Grenzen von Rückforderungen.
+Krankenkassen können freiwillige Leistungen anbieten, die über den gesetzlichen Pflichtleistungskatalog hinausgehen. Kläre **Anspruch auf Satzungsleistungen, Bonusprogramme** und die Grenzen von Rückforderungen.
 
 ## Rechtlicher Rahmen
 

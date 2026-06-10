@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Plugin Verlagsrecht und Buchpreisbindung. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Ski..."
+description: "Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Ski..."
 ---
 
 ## Aktenstart statt Formularstart

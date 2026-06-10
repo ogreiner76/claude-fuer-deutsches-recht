@@ -17,7 +17,7 @@ description: "Technologietransfer-Risiken im China-Geschaeft: Zwangstransfer in 
 - **Normen-/Quellenanker:** AWG/AWV, EU-Dual-Use, Sanktionen, Zoll/USt, Incoterms, Lieferkette/LkSG/CSDDD, IP-/Know-how-Schutz, Datenschutz/Cybersecurity und lokale China-Compliance live prüfen.
 - **Entscheidende Weiche:** Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt.
 
-Dieser Skill begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
+Begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
 Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbares Arbeitsprodukt.
 
 ## Mandantenfall

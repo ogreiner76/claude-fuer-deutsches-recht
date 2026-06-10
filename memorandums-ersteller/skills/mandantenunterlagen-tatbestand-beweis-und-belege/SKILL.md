@@ -1,6 +1,6 @@
 ---
 name: mandantenunterlagen-tatbestand-beweis-und-belege
-description: "Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage

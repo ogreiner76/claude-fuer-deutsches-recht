@@ -1,6 +1,6 @@
 ---
 name: normtext-heutige-fraktur-lesen-fallloesung
-description: "PrALR: historische Normtexte verständlich, knapp und ohne Sinnverschiebung in heutiges Deutsch übertragen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: historische Normtexte verständlich, knapp und ohne Sinnverschiebung in heutiges Deutsch übertragen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # In heutige Sprache übertragen

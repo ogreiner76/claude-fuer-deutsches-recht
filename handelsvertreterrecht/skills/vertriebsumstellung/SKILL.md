@@ -15,7 +15,7 @@ description: "Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach § 89b HGB.
+Unterstützt bei rechtlichen Fragen rund um Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach § 89b HGB.
 Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.

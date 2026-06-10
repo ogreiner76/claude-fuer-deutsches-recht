@@ -1,6 +1,6 @@
 ---
 name: simulation-mandantenkommunikation-entscheidungsvorlage
-description: "Simulation: Mandantenkommunikation und Entscheidungsvorlage im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Simulation: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Simulation: Mandantenkommunikation und Entscheidungsvorlage

@@ -15,7 +15,7 @@ description: "MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung,
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Internationale Kooperation: Memorandum of Understanding** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Internationale Kooperation: Memorandum of Understanding** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

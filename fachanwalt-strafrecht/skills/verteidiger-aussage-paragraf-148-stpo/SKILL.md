@@ -7,7 +7,7 @@ description: "Verteidiger Aussage § 148 StPO: fachanwaltlicher Spezial-Skill mi
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Verteidiger Aussage § 148 StPO** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Verteidiger Aussage § 148 StPO** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

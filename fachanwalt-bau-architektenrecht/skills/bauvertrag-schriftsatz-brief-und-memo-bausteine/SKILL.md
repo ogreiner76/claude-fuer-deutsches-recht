@@ -1,6 +1,6 @@
 ---
 name: bauvertrag-schriftsatz-brief-und-memo-bausteine
-description: "Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine: Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bau architektenrecht."
+description: "Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine: Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine
@@ -14,7 +14,7 @@ description: "Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine: Bauvertrag: S
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bau architektenrecht.
+**Fokus:** Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine.
 
 ## Spezialwissen: Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

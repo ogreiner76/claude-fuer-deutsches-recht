@@ -1,6 +1,6 @@
 ---
 name: handy-zahlen-schwellen-und-berechnung
-description: "Handy: Zahlen, Schwellenwerte und Berechnung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Handy: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Handy: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: drei-zahlen-schwellen-und-berechnung
-description: "Drei: Zahlen, Schwellenwerte und Berechnung im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Drei: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Drei: Zahlen, Schwellenwerte und Berechnung

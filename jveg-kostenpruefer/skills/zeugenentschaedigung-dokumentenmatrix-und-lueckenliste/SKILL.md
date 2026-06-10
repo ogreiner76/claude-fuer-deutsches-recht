@@ -1,6 +1,6 @@
 ---
 name: zeugenentschaedigung-dokumentenmatrix-und-lueckenliste
-description: "Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung: Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin jveg kostenpruefer."
+description: "Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung: Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -14,7 +14,7 @@ description: "Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforde
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Sachverständiger, Dolmetscher, Übersetzer, Geschäftsstelle, Kostenbeamter, Bezirksrevisor, Festsetzungsrichter, Erinnerung-/Beschwerdesenat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vergütungsantrag, Stundennachweis, Reisekostenabrechnung, Festsetzungsbeschluss, Erinnerung, Beschwerde, Sachverständigenrechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin jveg kostenpruefer.
+**Fokus:** Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung.
 
 ## Fachkern: Zeugenentschaedigung: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** JVEG, GKG/KostR-Schnittstellen, Festsetzungsverfahren, Beschwerde, Vorschuss, Entschädigung, Sachverständigenvergütung und Belegpflicht.

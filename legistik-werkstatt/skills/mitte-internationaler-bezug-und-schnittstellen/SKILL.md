@@ -1,6 +1,6 @@
 ---
 name: mitte-internationaler-bezug-und-schnittstellen
-description: "Mitte: Internationaler Bezug und Schnittstellen im Plugin legistik werkstatt im Legistik."
+description: "Mitte: Internationaler Bezug und Schnittstellen."
 ---
 
 # Mitte: Internationaler Bezug und Schnittstellen

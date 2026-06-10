@@ -1,6 +1,6 @@
 ---
 name: klauseln-beweislast-verschwiegenheitsklausel
-description: "Klauseln: Beweislast, Darlegungslast und Substantiierung im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Klauseln: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Klauseln: Beweislast, Darlegungslast und Substantiierung

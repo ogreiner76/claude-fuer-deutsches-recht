@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-formular-portal-und-einreichung
-description: "Qualitaetsgate: Formular, Portal und Einreichungslogik im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Qualitaetsgate: Formular, Portal und Einreichungslogik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Qualitaetsgate: Formular, Portal und Einreichungslogik

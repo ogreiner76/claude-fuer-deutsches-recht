@@ -1,6 +1,6 @@
 ---
 name: 023-roemisches-stadtrechte
-description: "Römisches Recht: Römisches Recht und Stadtrechte Norditalien im Römisches Recht: Dieser Skill bearbeitet Römisches Recht und Stadtrechte Norditalien im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen..."
+description: "Römisches Recht: Römisches Recht und Stadtrechte Norditalien im Römisches Recht: Bearbeite Römisches Recht und Stadtrechte Norditalien im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen..."
 ---
 
 # Römisches Recht: Römisches Recht und Stadtrechte Norditalien

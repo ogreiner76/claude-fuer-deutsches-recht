@@ -1,6 +1,6 @@
 ---
 name: notweg-ueberhang-sonderfall-edge
-description: "Notweg: Internationaler Bezug und Schnittstellen im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Notweg: Internationaler Bezug und Schnittstellen."
 ---
 
 # Notweg: Internationaler Bezug und Schnittstellen

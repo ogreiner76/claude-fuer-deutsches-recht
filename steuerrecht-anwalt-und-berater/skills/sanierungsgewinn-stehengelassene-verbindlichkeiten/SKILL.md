@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-stehengelassene-verbindlichkeiten
-description: "Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mi — Arbeitskontext: Steuerrecht Anwalt Und Berater, Schwerpunkt sanierungsgewinn stehengelassene verbindlichkeiten."
+description: "Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mi"
 ---
 
 # Sanierungsgewinn — Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation
@@ -23,7 +23,7 @@ description: "Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-P
 
 ## 1. Zweck und Anwendungsfall
 
-Dieser Skill behandelt die in der Beratungspraxis hochkonfliktraechtige Frage:
+Behandelt die in der Beratungspraxis hochkonfliktraechtige Frage:
 
 > **Wie sind Verbindlichkeiten — insbesondere nachrangige Gesellschafterdarlehen — in der Liquidationsbilanz einer GmbH steuerlich zu behandeln, wenn die Glaeubigerin sie weder einklagt noch erlaesst, sondern „stehen laesst"?**
 

@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentsc
 
 ## Zweck und Anwendungsbereich
 
-Wenn Registergericht oder Grundbuchamt einen Antrag zu Unrecht zurückweist oder eine Zwischenverfügung unangemessene Anforderungen stellt, ist Beschwerde der richtige Weg. Dieser Skill strukturiert Beschwerdeform, Zuständigkeit und Fristen.
+Wenn Registergericht oder Grundbuchamt einen Antrag zu Unrecht zurückweist oder eine Zwischenverfügung unangemessene Anforderungen stellt, ist Beschwerde der richtige Weg. Strukturiere Beschwerdeform, Zuständigkeit und Fristen.
 
 Rechtsgrundlagen: § 71 GBO (Grundbuchbeschwerde), § 72 GBO (sofortige Beschwerde), § 73 GBO (Beschwerdeinhalt), §§ 58–69 FamFG (allgemeines Beschwerdeverfahren), §§ 374–410 FamFG (Registerrecht), § 70 Abs. 3 FamFG (Rechtsbeschwerde), GVG § 119 (Zuständigkeit OLG).
 

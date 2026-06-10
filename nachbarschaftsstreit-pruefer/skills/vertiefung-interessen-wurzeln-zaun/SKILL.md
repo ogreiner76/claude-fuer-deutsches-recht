@@ -1,6 +1,6 @@
 ---
 name: vertiefung-interessen-wurzeln-zaun
-description: "Vertiefung: Mehrparteienkonflikt und Interessenmatrix im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Vertiefung: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Vertiefung: Mehrparteienkonflikt und Interessenmatrix

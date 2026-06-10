@@ -7,7 +7,7 @@ description: "Anti Dumping Zoll eu Grundverordnung: fachanwaltlicher Spezial-Ski
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Anti Dumping Zoll eu Grundverordnung** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Anti Dumping Zoll eu Grundverordnung** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

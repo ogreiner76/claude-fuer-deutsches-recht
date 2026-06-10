@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Anhörung, Begründung, Zustellung, Wirksamkeit und Angreifbarkeit**.
+Prüft insbesondere: **Anhörung, Begründung, Zustellung, Wirksamkeit und Angreifbarkeit**.
 
 **CIC-/Normanker:** can. 35-58.
 

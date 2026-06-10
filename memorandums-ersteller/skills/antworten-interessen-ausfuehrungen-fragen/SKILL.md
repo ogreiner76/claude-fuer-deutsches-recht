@@ -1,6 +1,6 @@
 ---
 name: antworten-interessen-ausfuehrungen-fragen
-description: "Antworten: Mehrparteienkonflikt und Interessenmatrix im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Antworten: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Antworten: Mehrparteienkonflikt und Interessenmatrix

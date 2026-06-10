@@ -9,7 +9,7 @@ description: "Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Dieser Skill identifiziert ironische und sarkastische Formulierungen in beruflichen Texten und ersetzt sie durch sachliche Aussagen. Ironie und Sarkasmus sind in schriftlicher Kommunikation besonders problematisch, weil der para-linguistische Kontext (Tonfall, Mimik) fehlt — und sie daher leicht missverstanden werden oder als Angriff wirken.
+Identifiziere ironische und sarkastische Formulierungen in beruflichen Texten und ersetzt sie durch sachliche Aussagen. Ironie und Sarkasmus sind in schriftlicher Kommunikation besonders problematisch, weil der para-linguistische Kontext (Tonfall, Mimik) fehlt — und sie daher leicht missverstanden werden oder als Angriff wirken.
 
 ## Triage zu Beginn
 1. Ist die ironische/sarkastische Stelle aus eigenem Text oder einem eingehenden Schreiben?

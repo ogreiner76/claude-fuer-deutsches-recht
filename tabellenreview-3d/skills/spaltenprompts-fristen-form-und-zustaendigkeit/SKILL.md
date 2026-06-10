@@ -1,6 +1,6 @@
 ---
 name: spaltenprompts-fristen-form-und-zustaendigkeit
-description: "Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg

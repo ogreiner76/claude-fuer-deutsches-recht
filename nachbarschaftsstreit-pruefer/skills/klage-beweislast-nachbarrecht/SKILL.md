@@ -1,6 +1,6 @@
 ---
 name: klage-beweislast-nachbarrecht
-description: "Klage: Beweislast, Darlegungslast und Substantiierung im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Klage: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Klage: Beweislast, Darlegungslast und Substantiierung

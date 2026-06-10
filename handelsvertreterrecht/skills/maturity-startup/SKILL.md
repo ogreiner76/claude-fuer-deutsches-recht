@@ -15,7 +15,7 @@ description: "Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kon
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Handelsvertreterrecht im Start-up- und Scale-up-Kontext.
+Unterstützt bei rechtlichen Fragen rund um Handelsvertreterrecht im Start-up- und Scale-up-Kontext.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.

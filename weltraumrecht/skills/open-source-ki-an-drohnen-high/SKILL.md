@@ -15,7 +15,7 @@ description: "Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Co
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Open-Source-Software im Satelliten** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Open-Source-Software im Satelliten** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

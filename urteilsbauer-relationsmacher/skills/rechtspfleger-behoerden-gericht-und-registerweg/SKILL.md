@@ -1,6 +1,6 @@
 ---
 name: rechtspfleger-behoerden-gericht-und-registerweg
-description: "Rechtspfleger: Behörden-, Gerichts- oder Registerweg im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Rechtspfleger: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Rechtspfleger: Behörden-, Gerichts- oder Registerweg

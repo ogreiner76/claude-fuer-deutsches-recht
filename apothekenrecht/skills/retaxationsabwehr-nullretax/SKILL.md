@@ -20,7 +20,7 @@ description: "Retaxationsabwehr Nullretax Risiko: prüft die einschlägigen Vora
 
 ## Worum geht es konkret
 
-Retaxation: Krankenkasse verweigert ganz oder teilweise die Erstattung einer abgegebenen Arzneimittelpackung wegen formaler oder materieller Mängel. "Null-Retax" bedeutet komplette Absetzung — Apotheke erhält keinen Cent für das abgegebene Medikament, das aber bereits ausgehändigt wurde. Dieser Skill behandelt Prävention, fristgerechten Widerspruch, Schiedsverfahren und Sondervereinbarungen.
+Retaxation: Krankenkasse verweigert ganz oder teilweise die Erstattung einer abgegebenen Arzneimittelpackung wegen formaler oder materieller Mängel. "Null-Retax" bedeutet komplette Absetzung — Apotheke erhält keinen Cent für das abgegebene Medikament, das aber bereits ausgehändigt wurde. Behandle Prävention, fristgerechten Widerspruch, Schiedsverfahren und Sondervereinbarungen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

@@ -15,7 +15,7 @@ description: "Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach
 
 ## Zweck
 
-Dieser Skill begleitet rechtliche Fragestellungen rund um das verbraucherschützende Widerrufsrecht
+Begleitet rechtliche Fragestellungen rund um das verbraucherschützende Widerrufsrecht
 bei Fernabsatzverträgen (§ 312c BGB) und Außergeschäftsraumverträgen (§ 312b BGB). Typische
 Mandate: (1) Prüfung der Ordnungsmäßigkeit einer Widerrufsbelehrung für einen Online-Shop,
 (2) Durchsetzung des Widerrufsrechts für einen Verbraucher, (3) Abwehr eines erklärten Widerrufs

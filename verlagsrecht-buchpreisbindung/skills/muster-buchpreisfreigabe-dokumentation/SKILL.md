@@ -15,7 +15,7 @@ description: "Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestse
 
 ## Zweck dieses Skills
 
-Dieser Skill erstellt und prüft die vollständige **Preisbindungs-Dokumentation** eines Verlags für ein konkretes Buch oder eine Titelgruppe. Die Dokumentation umfasst den gesamten Lebenszyklus des gebundenen Ladenpreises: von der Erstfestsetzung über erlaubte Aktionspreise und Sonderkonditionen bis hin zur rechtssicheren Aufhebung der Preisbindung.
+Erstellt und prüft die vollständige **Preisbindungs-Dokumentation** eines Verlags für ein konkretes Buch oder eine Titelgruppe. Die Dokumentation umfasst den gesamten Lebenszyklus des gebundenen Ladenpreises: von der Erstfestsetzung über erlaubte Aktionspreise und Sonderkonditionen bis hin zur rechtssicheren Aufhebung der Preisbindung.
 
 Korrekte Dokumentation ist nicht nur eine rechtliche Pflicht nach **BuchPrG §§ 3 und 7**, sondern dient auch als Beweismittel im Streitfall. Behörden (Kartellamt), der Börsenverein und klagebefugte Verbände können jederzeit Nachweis verlangen. Fehlt die Dokumentation, drohen Bußgelder nach **BuchPrG § 13** und zivilrechtliche Unterlassungsansprüche.
 

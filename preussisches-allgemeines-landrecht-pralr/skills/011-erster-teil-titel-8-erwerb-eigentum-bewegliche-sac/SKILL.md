@@ -1,6 +1,6 @@
 ---
 name: 011-erster-teil-titel-8-erwerb-eigentum-bewegliche-sac
-description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac

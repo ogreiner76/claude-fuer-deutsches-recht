@@ -1,6 +1,6 @@
 ---
 name: dma-compliance-dokumentation-und-akte
-description: "DMA: Compliance-Dokumentation und Aktenvermerk: DMA: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt it recht."
+description: "DMA: Compliance-Dokumentation und Aktenvermerk: DMA: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # DMA: Compliance-Dokumentation und Aktenvermerk
@@ -14,7 +14,7 @@ description: "DMA: Compliance-Dokumentation und Aktenvermerk: DMA: Compliance-Do
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** DMA: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt it recht.
+**Fokus:** DMA: Compliance-Dokumentation und Aktenvermerk.
 
 ## Spezialwissen: DMA: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** DMA, DSGVO, BDSG, TTDSG, TKG, DDG, DSA, EU, KI, VO.

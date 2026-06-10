@@ -15,7 +15,7 @@ description: "Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: P
 
 ## Skill-Zweck
 
-Dieser Skill klärt die **Krankenversicherung von Bürgergeld-Beziehenden und Rentnern**: Wer ist pflichtversichert, wer zahlt die Beiträge, was passiert bei Einkommenslücken und wie funktioniert die KVdR?
+Klärt die **Krankenversicherung von Bürgergeld-Beziehenden und Rentnern**: Wer ist pflichtversichert, wer zahlt die Beiträge, was passiert bei Einkommenslücken und wie funktioniert die KVdR?
 
 ## Rechtlicher Rahmen
 

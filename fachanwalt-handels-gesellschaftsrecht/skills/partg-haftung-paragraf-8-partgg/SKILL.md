@@ -7,7 +7,7 @@ description: "Partg Haftung § 8 PartGG: fachanwaltlicher Spezial-Skill mit Norm
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Partg Haftung § 8 PartGG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Partg Haftung § 8 PartGG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

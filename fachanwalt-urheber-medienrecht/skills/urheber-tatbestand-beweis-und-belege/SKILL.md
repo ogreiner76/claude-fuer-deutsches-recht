@@ -1,6 +1,6 @@
 ---
 name: urheber-tatbestand-beweis-und-belege
-description: "Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage: Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt urheber medienrecht."
+description: "Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage: Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -14,7 +14,7 @@ description: "Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage: Urheber:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt urheber medienrecht.
+**Fokus:** Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 
 ## Spezialwissen: Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

@@ -1,6 +1,6 @@
 ---
 name: monats-risikoampel-und-gegenargumente
-description: "Monats: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Monats: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Monats: Risikoampel, Gegenargumente und Verteidigungslinien

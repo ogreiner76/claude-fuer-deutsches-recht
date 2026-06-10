@@ -15,9 +15,9 @@ description: "EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung,
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill klärt die praxiskritische Unterscheidung zwischen **Beschlussverfügung** (ohne mündliche Verhandlung, §§ 937 Abs. 2, 922 ZPO) und **Urteilsverfügung** (nach mündlicher Verhandlung) sowie die daraus folgenden **unterschiedlichen Vollziehungsmodalitäten**. Fehler bei der Zuordnung kosten die gesamte EV.
+Klärt die praxiskritische Unterscheidung zwischen **Beschlussverfügung** (ohne mündliche Verhandlung, §§ 937 Abs. 2, 922 ZPO) und **Urteilsverfügung** (nach mündlicher Verhandlung) sowie die daraus folgenden **unterschiedlichen Vollziehungsmodalitäten**. Fehler bei der Zuordnung kosten die gesamte EV.
 
-Mandatsbezug: Anwalt erhält telefonisch die Nachricht, die EV sei erlassen – ohne zu wissen, ob es sich um einen Beschluss oder ein Urteil handelt. Die Vollziehungsschritte sind verschieden. Dieser Skill strukturiert die Differenzierung und den konkreten Handlungsweg.
+Mandatsbezug: Anwalt erhält telefonisch die Nachricht, die EV sei erlassen – ohne zu wissen, ob es sich um einen Beschluss oder ein Urteil handelt. Die Vollziehungsschritte sind verschieden. Strukturiere die Differenzierung und den konkreten Handlungsweg.
 
 ## Rechtlicher Rahmen
 

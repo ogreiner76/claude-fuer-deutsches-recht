@@ -1,6 +1,6 @@
 ---
 name: fruehwarnsystem-behoerden-gericht-und-registerweg
-description: "Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-mandantenkommunikation-entscheidungsvorlage
-description: "Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage

@@ -19,7 +19,7 @@ Interviews mit Führungskräften (Vorstand, Geschäftsführer, Aufsichtsrat, Sen
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert Interviews mit Führungskräften so, dass die Untersuchung die erforderlichen Informationen erhält, die rechtlichen Grenzen gewahrt werden und die Aussagen verwertbar sind.
+Strukturiert Interviews mit Führungskräften so, dass die Untersuchung die erforderlichen Informationen erhält, die rechtlichen Grenzen gewahrt werden und die Aussagen verwertbar sind.
 
 ## Arbeitsprogramm
 

@@ -1,6 +1,6 @@
 ---
 name: ersatz-sonderfall-excel-faehige
-description: "Ersatz: Sonderfall und Edge-Case-Prüfung im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Ersatz: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Ersatz: Sonderfall und Edge-Case-Prüfung

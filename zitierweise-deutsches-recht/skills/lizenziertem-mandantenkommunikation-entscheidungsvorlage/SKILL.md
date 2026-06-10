@@ -1,6 +1,6 @@
 ---
 name: lizenziertem-mandantenkommunikation-entscheidungsvorlage
-description: "Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage

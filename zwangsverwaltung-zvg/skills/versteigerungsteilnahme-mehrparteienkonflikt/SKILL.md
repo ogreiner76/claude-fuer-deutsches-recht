@@ -1,6 +1,6 @@
 ---
 name: versteigerungsteilnahme-mehrparteienkonflikt
-description: "Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix

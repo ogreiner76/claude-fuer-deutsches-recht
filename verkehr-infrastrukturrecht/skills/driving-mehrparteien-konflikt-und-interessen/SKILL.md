@@ -1,6 +1,6 @@
 ---
 name: driving-mehrparteien-konflikt-und-interessen
-description: "Driving: Mehrparteienkonflikt und Interessenmatrix im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Driving: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Driving: Mehrparteienkonflikt und Interessenmatrix

@@ -15,7 +15,7 @@ description: "Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, D
 
 ## Ziel
 
-Dieser Skill prüft abgegebene Klausur- oder Kandidatenlösungen auf methodische Sauberkeit der Subsumtion. Er führt nicht schematisch durch, sondern erzwingt eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt und bewertet.
+Prüfe abgegebene Klausur- oder Kandidatenlösungen auf methodische Sauberkeit der Subsumtion. Erzwinge eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt und bewertet.
 
 ## Prüfungsschema für Kandidatenlösungen
 

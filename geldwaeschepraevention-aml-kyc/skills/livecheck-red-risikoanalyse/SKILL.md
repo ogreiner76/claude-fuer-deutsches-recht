@@ -1,6 +1,6 @@
 ---
 name: livecheck-red-risikoanalyse
-description: "Livecheck: Red-Team und Qualitätskontrolle im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Livecheck: Red-Team und Qualitätskontrolle."
 ---
 
 # Livecheck: Red-Team und Qualitätskontrolle

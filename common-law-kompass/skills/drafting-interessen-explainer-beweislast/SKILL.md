@@ -1,6 +1,6 @@
 ---
 name: drafting-interessen-explainer-beweislast
-description: "Drafting: Mehrparteienkonflikt und Interessenmatrix im Plugin common law kompass im Common Law Kompass."
+description: "Drafting: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Drafting: Mehrparteienkonflikt und Interessenmatrix

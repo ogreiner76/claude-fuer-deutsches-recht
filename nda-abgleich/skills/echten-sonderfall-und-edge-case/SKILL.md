@@ -1,6 +1,6 @@
 ---
 name: echten-sonderfall-und-edge-case
-description: "Echten: Sonderfall und Edge-Case-Prüfung im Plugin nda abgleich im NDA-Abgleich."
+description: "Echten: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Echten: Sonderfall und Edge-Case-Prüfung

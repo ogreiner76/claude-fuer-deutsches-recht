@@ -1,6 +1,6 @@
 ---
 name: 019-erster-teil-titel-16-schaden-ersatz-zufall-gefahr
-description: "PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr

@@ -1,6 +1,6 @@
 ---
 name: bora-internationaler-bezug-und-schnittstellen
-description: "Bora: Internationaler Bezug und Schnittstellen im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Bora: Internationaler Bezug und Schnittstellen."
 ---
 
 # Bora: Internationaler Bezug und Schnittstellen

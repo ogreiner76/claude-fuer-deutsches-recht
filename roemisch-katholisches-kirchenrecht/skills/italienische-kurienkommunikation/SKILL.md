@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **italienische Schreiben an römische Stellen**.
+Prüft insbesondere: **italienische Schreiben an römische Stellen**.
 
 **CIC-/Normanker:** can. 360-361.
 

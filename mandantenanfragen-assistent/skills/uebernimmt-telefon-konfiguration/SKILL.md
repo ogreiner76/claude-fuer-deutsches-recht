@@ -1,6 +1,6 @@
 ---
 name: uebernimmt-telefon-konfiguration
-description: "Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine

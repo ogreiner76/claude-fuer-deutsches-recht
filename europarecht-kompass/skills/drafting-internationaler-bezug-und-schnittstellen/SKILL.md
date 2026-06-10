@@ -1,6 +1,6 @@
 ---
 name: drafting-internationaler-bezug-und-schnittstellen
-description: "Drafting: Internationaler Bezug und Schnittstellen im Plugin europarecht kompass im Europarecht Kompass."
+description: "Drafting: Internationaler Bezug und Schnittstellen."
 ---
 
 # Drafting: Internationaler Bezug und Schnittstellen

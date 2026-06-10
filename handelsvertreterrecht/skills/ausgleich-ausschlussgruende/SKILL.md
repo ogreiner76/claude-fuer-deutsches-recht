@@ -19,7 +19,7 @@ Prüft Ausschlussgründe des Ausgleichsanspruchs nach § 89b Abs. 3 HGB: schuldh
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Ausschlussgründe für den Ausgleichsanspruch nach § 89b Abs. 3 HGB.
+Unterstützt bei rechtlichen Fragen rund um Ausschlussgründe für den Ausgleichsanspruch nach § 89b Abs. 3 HGB.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
 Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.

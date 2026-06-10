@@ -1,6 +1,6 @@
 ---
 name: dsv-tonfall-krisenkommunikation
-description: "Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall: Behandelt: Vermeidung von Verharm — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv tonfall krisenkommunikation."
+description: "Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall: Behandelt: Vermeidung von Verharm"
 ---
 
 # Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall

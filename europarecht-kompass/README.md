@@ -90,13 +90,13 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anrufung-red-team-und-qualitaetskontrolle` | Anrufung: Red-Team und Qualitätskontrolle im Plugin europarecht kompass im Europarecht Kompass. |
+| `anrufung-red-team-und-qualitaetskontrolle` | Anrufung: Red-Team und Qualitätskontrolle. |
 | `anschluss-router` | Einstieg, Schnelltriage und Fallrouting im Europarecht Kompass-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dok... |
-| `beihilfen-drafting-europarecht` | Beihilfen: Compliance-Dokumentation und Aktenvermerk im Plugin europarecht kompass im Europarecht Kompass. |
+| `beihilfen-drafting-europarecht` | Beihilfen: Compliance-Dokumentation und Aktenvermerk. |
 | `charta-quellenkarte` | Charta Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `denkfehler-fristen-form-und-zustaendigkeit` | Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin europarecht kompass im Europarecht Kompass. |
+| `denkfehler-fristen-form-und-zustaendigkeit` | Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `dokumente-intake` | Dokumentenintake für Europarecht-Kompass: sortiert Klageschrift EuGH, Vorlagebeschluss nationaler Gerichte, Kommissions-Mitteilung, prüft Datum, Absender, Frist und Beweiswert (Marktstudien, Verwaltungspraxis); markiert Lücken; berücksic... |
-| `drafting-internationaler-bezug-und-schnittstellen` | Drafting: Internationaler Bezug und Schnittstellen im Plugin europarecht kompass im Europarecht Kompass. |
+| `drafting-internationaler-bezug-und-schnittstellen` | Drafting: Internationaler Bezug und Schnittstellen. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Europarecht-Kompass: ordnet Rolle (Nationale Gerichte, EU-Institutionen, Mitgliedstaaten), markiert Frist (Nichtigkeitsklage 2 Monate Art. 263 AEUV), wählt Norm (AEUV/EUV, EU-Grundrechtecharta, Sekundärre... |
 | `er-vorlageverfahren-eur-kommissionsverfahren` | Spezialfall Vorlageverfahren Art. 267 AEUV: Voraussetzungen, letztinstanzliche Vorlagepflicht, Cilfit-Kriterien, acte clair und acte eclaire, Folgen Verstoss (Staatshaftung Koebler). Pruefraster und Mustertext für Vorlagebeschluss im Eur... |
 | `eu-rechtsquellen-vorlageweiche` | EU-Rechtsquellen, Charta und Vorlageweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -107,7 +107,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `europarecht-beihilfen-vergaben` | Beihilfenrecht und Vergaberecht prüfen wenn staatliche Förderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Veror... |
 | `europarecht-delegierte-durchfuehrungsakte` | Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output:... |
 | `europarecht-deutscher-denkfehler-scanner` | Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlini... |
-| `europarecht-erstpruefung-und-mandatsziel` | Europarecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin europarecht kompass im Europarecht Kompass. |
+| `europarecht-erstpruefung-und-mandatsziel` | Europarecht: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `europarecht-gesetzgebung-trilog` | Europaeisches Gesetzgebungsverfahren und Trilog-Verhandlungen einordnen wenn EU-Regelung in Entstehung ist. Art. 289 294 AEUV ordentliches Gesetzgebungsverfahren. Prüfraster: Verfahrensstand Kompromisstext Ratspositionen EP-Positionen Ze... |
 | `europarecht-grundfreiheiten-binnenmarkt` | Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftstätigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Prüfraster: Anwendun... |
 | `europarecht-grundrechte-charta` | EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung... |
@@ -122,24 +122,24 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `europarecht-vorlageverfahren-art-267` | Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung... |
 | `europarecht-wettbewerb-kartell` | Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellun... |
 | `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Europarecht Kompass. |
-| `gegen-grundfreiheiten-livecheck-sonderfall` | Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin europarecht kompass im Europarecht Kompass. |
-| `grundfreiheiten-zahlen-schwellen-und-berechnung` | Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung im Plugin europarecht kompass im Europarecht Kompass. |
-| `kommissionsverfahren-vorlageverfahren` | Kommissionsverfahren: Formular, Portal und Einreichungslogik im Plugin europarecht kompass im Europarecht Kompass. |
-| `livecheck-sonderfall-und-edge-case` | Livecheck: Sonderfall und Edge-Case-Prüfung im Plugin europarecht kompass im Europarecht Kompass. |
+| `gegen-grundfreiheiten-livecheck-sonderfall` | Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `grundfreiheiten-zahlen-schwellen-und-berechnung` | Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung. |
+| `kommissionsverfahren-vorlageverfahren` | Kommissionsverfahren: Formular, Portal und Einreichungslogik. |
+| `livecheck-sonderfall-und-edge-case` | Livecheck: Sonderfall und Edge-Case-Prüfung. |
 | `nationales-verfahren-vorlageverfahren-art` | EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Recht... |
 | `output-waehlen` | Output-Wahl für Europarecht-Kompass: stimmt Adressat (Nationale Gerichte, EU-Institutionen, Mitgliedstaaten), Frist (Nichtigkeitsklage 2 Monate Art. 263 AEUV) und Form auf den Zweck ab — typische Outputs: Vorlagefrage-Vorschlag, Konformi... |
-| `petitionsausschuss-mandantenentscheidung` | Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage im Plugin europarecht kompass im Europarecht Kompass. |
+| `petitionsausschuss-mandantenentscheidung` | Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage. |
 | `quellen-livecheck` | Quellen-Live-Check für Europarecht-Kompass: prüft Normen (AEUV/EUV, EU-Grundrechtecharta, Sekundärrecht (VO/RL)) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt EuGH und Quellenhygiene nach references/quellenhygie... |
-| `rechtsquellen-beweislast-darlegungslast` | Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `richtlinien-schriftsatz-brief-und-memo-bausteine` | Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine im Plugin europarecht kompass im Europarecht Kompass. |
-| `unmittelbare-risikoampel-und-gegenargumente` | Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin europarecht kompass im Europarecht Kompass. |
+| `rechtsquellen-beweislast-darlegungslast` | Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
+| `richtlinien-schriftsatz-brief-und-memo-bausteine` | Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `unmittelbare-risikoampel-und-gegenargumente` | Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Europarecht-Kompass: trennt fehlende Tatsachen von fehlenden Belegen (Klageschrift EuGH, Vorlagebeschluss nationaler Gerichte, Kommissions-Mitteilung), nennt pro Lücke Beweisthema, Beschaffungsweg (EuGH)... |
-| `verordnungen-vorrang-unmittelbare` | Verordnungen: Verhandlung, Vergleich und Eskalation im Plugin europarecht kompass im Europarecht Kompass. |
-| `vorlageverfahren-mehrparteien-konflikt-und-interessen` | Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix im Plugin europarecht kompass im Europarecht Kompass. |
-| `vorrang-dokumentenmatrix-und-lueckenliste` | Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin europarecht kompass im Europarecht Kompass. |
+| `verordnungen-vorrang-unmittelbare` | Verordnungen: Verhandlung, Vergleich und Eskalation. |
+| `vorlageverfahren-mehrparteien-konflikt-und-interessen` | Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix. |
+| `vorrang-dokumentenmatrix-und-lueckenliste` | Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `vorrang-unmittelbare-wettbewerb-kartell` | Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare W... |
 | `vorrang-unmittelbare-wirkung-effet-utile` | Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Europarecht Kompass. |
-| `wirkung-behoerden-gericht-und-registerweg` | Wirkung: Behörden-, Gerichts- oder Registerweg: Wirkung: Behörden-, Gerichts- oder Registerweg im Plugin europarecht kompass. |
+| `wirkung-behoerden-gericht-und-registerweg` | Wirkung: Behörden-, Gerichts- oder Registerweg: Wirkung: Behörden-, Gerichts- oder Registerweg. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Europarecht Kompass. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Europarecht Kompass. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Europarecht Kompass. |

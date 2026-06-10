@@ -1,6 +1,6 @@
 ---
 name: schulung-fristennotiz-und-naechster-schritt
-description: "Schulung: Fristennotiz und nächster Schritt im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Schulung: Fristennotiz und nächster Schritt."
 ---
 
 # Schulung: Fristennotiz und nächster Schritt

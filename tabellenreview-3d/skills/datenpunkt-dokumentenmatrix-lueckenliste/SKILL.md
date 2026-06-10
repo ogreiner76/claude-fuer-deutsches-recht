@@ -1,6 +1,6 @@
 ---
 name: datenpunkt-dokumentenmatrix-lueckenliste
-description: "Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Tabellenreview 3D: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
 ---
 
 # Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung

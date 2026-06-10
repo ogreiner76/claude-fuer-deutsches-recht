@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-brao-mehrparteienkonflikt-interessenmatrix
-description: "Brao: Mehrparteienkonflikt und Interessenmatrix im Plugin Email Umformulierer Berufsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe is..."
+description: "Brao: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe is..."
 ---
 
 # Brao: Mehrparteienkonflikt und Interessenmatrix

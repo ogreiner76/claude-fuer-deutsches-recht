@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill klärt, ob ein Krypto-Token unter MAR oder MiCA-Marktmissbrauchsvorschriften
+Kläre, ob ein Krypto-Token unter MAR oder MiCA-Marktmissbrauchsvorschriften
 fällt, und entwickelt die entsprechende Compliance-Strategie.
 
 ## Arbeitsprogramm

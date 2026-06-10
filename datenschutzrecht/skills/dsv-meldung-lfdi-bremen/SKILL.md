@@ -1,6 +1,6 @@
 ---
 name: dsv-meldung-lfdi-bremen
-description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit der Freien Hansestadt Bremen (LfDI HB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bremen — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv meldung lfdi bremen."
+description: "Reicht eine Meldung nach Art: 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit der Freien Hansestadt Bremen (LfDI HB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bremen"
 ---
 
 # Reicht eine Meldung nach Art

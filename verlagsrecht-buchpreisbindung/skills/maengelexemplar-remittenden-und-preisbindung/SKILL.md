@@ -15,7 +15,7 @@ description: "Buchpreisbindungsgesetz: Mängelexemplare, Remittenden und Preisbi
 
 ## Zweck dieses Skills
 
-Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** von der Buchpreisbindung. Gleichzeitig sind sie eine der häufigsten Quellen für Preisbindungsverstöße, weil die Kennzeichnungspflichten und Voraussetzungen unterschätzt werden. Dieser Skill klärt Definitionen, Verfahrensregeln und Haftungsrisiken.
+Mängelexemplare und Remittenden sind die häufigsten **Ausnahmetatbestände** von der Buchpreisbindung. Gleichzeitig sind sie eine der häufigsten Quellen für Preisbindungsverstöße, weil die Kennzeichnungspflichten und Voraussetzungen unterschätzt werden. Kläre Definitionen, Verfahrensregeln und Haftungsrisiken.
 
 ## Rechtsgrundlagen
 

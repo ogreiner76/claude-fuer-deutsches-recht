@@ -19,7 +19,7 @@ Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung 
 
 ## Zweck
 
-Dieser Skill prüft, ob ein konkret geplantes Rechtsgeschäft oder eine
+Prüfe, ob ein konkret geplantes Rechtsgeschäft oder eine
 Maßnahme des Betreuers nach dem **Vier-Augen-Prinzip** der Genehmigung
 des Betreuungsgerichts bedarf. Die Reform 2023 hat das System der
 Genehmigungspflichten neu strukturiert (§§ 1848–1858 BGB für Vermögens-

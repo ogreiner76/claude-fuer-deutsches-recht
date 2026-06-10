@@ -1,6 +1,6 @@
 ---
 name: fraktionen-dokumentenmatrix-und-lueckenliste
-description: "Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin legistik werkstatt im Legistik."
+description: "Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Fraktionen: Dokumentenmatrix, Lückenliste und Nachforderung

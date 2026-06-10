@@ -15,7 +15,7 @@ description: "Weltraumtourismus – Informed Consent, AGB-Haftungsausschluss, Ve
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Weltraumtourismus: Verbraucherrecht, Haftungsverzicht, AGB** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Weltraumtourismus: Verbraucherrecht, Haftungsverzicht, AGB** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

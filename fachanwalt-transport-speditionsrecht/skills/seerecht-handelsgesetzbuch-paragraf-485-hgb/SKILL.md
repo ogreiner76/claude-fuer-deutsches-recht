@@ -7,7 +7,7 @@ description: "Seerecht Handelsgesetzbuch § 485 HGB: fachanwaltlicher Spezial-Sk
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Seerecht Handelsgesetzbuch § 485 HGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Seerecht Handelsgesetzbuch § 485 HGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

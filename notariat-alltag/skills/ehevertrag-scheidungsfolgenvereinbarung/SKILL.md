@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Vers
 
 ## Zweck und Anwendungsbereich
 
-Der Ehevertrag gestaltet die Vermögens- und Versorgungsrechtslage zwischen Eheleuten oder Verlobten. Dieser Skill steuert die notarielle Beratung, den Formzwang, die richterrechtliche Kontrolle (Kernbereichslehre des BGH) und die Belehrungspflichten des Notars.
+Der Ehevertrag gestaltet die Vermögens- und Versorgungsrechtslage zwischen Eheleuten oder Verlobten. Steuere die notarielle Beratung, den Formzwang, die richterrechtliche Kontrolle (Kernbereichslehre des BGH) und die Belehrungspflichten des Notars.
 
 Rechtsgrundlagen: § 1410 BGB (notarielle Form), §§ 1408–1414 BGB (Güterrecht), §§ 1569–1586 BGB (Unterhalt), §§ 1587–1587p BGB (Versorgungsausgleich), VersAusglG, § 17 BeurkG (Belehrung), § 138 BGB (Sittenwidrigkeit), BGH-Rechtsprechung zu Kernbereichslehre.
 

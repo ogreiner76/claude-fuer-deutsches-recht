@@ -1,6 +1,6 @@
 ---
 name: dma-fristen-form-und-zustaendigkeit
-description: "DMA: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "DMA: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # DMA: Fristen, Form, Zuständigkeit und Rechtsweg

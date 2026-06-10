@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **pastorale Hilfe, staatliches Recht und Dokumentation**.
+Prüft insbesondere: **pastorale Hilfe, staatliches Recht und Dokumentation**.
 
 **CIC-/Normanker:** can. 222, 394, 529.
 

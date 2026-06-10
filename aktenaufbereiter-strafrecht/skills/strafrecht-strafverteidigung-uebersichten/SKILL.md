@@ -1,6 +1,6 @@
 ---
 name: strafrecht-strafverteidigung-uebersichten
-description: "Strafrecht: Abschlussprodukt und Übergabe im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Strafrecht: Abschlussprodukt und Übergabe."
 ---
 
 # Strafrecht: Abschlussprodukt und Übergabe

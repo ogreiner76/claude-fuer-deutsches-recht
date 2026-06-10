@@ -1,6 +1,6 @@
 ---
 name: drift-verhandlung-vergleich-und-eskalation
-description: "Drift: Verhandlung, Vergleich und Eskalation im Plugin ki governance im Ki Governance."
+description: "Drift: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Drift: Verhandlung, Vergleich und Eskalation

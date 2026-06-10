@@ -7,7 +7,7 @@ description: "Verkehrsunfall § 7 StVG: fachanwaltlicher Spezial-Skill mit Norme
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Verkehrsunfall § 7 StVG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Verkehrsunfall § 7 StVG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

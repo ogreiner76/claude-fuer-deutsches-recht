@@ -7,7 +7,7 @@ description: "Gmbh gf Haftung § 43 GmbHG: fachanwaltlicher Spezial-Skill mit No
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Gmbh gf Haftung § 43 GmbHG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Gmbh gf Haftung § 43 GmbHG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

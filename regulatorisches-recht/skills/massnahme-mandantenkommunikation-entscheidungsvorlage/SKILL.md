@@ -1,6 +1,6 @@
 ---
 name: massnahme-mandantenkommunikation-entscheidungsvorlage
-description: "Massnahme: Mandantenkommunikation und Entscheidungsvorlage im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Massnahme: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Massnahme: Mandantenkommunikation und Entscheidungsvorlage

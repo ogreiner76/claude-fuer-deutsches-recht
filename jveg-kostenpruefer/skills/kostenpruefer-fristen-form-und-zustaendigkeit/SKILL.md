@@ -1,6 +1,6 @@
 ---
 name: kostenpruefer-fristen-form-und-zustaendigkeit
-description: "Kostenpruefer: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Kostenpruefer: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Kostenpruefer: Fristen, Form, Zuständigkeit und Rechtsweg

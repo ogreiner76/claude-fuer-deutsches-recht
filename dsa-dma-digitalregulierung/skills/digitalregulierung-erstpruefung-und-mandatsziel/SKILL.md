@@ -1,6 +1,6 @@
 ---
 name: digitalregulierung-erstpruefung-und-mandatsziel
-description: "Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel

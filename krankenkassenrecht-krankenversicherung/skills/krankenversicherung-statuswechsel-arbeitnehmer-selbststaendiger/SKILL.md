@@ -15,7 +15,7 @@ description: "Krankenversicherungsrechtliche Folgen beim Wechsel des Erwerbsstat
 
 ## Skill-Zweck
 
-Jeder Wechsel des Erwerbsstatus hat unmittelbare krankenversicherungsrechtliche Konsequenzen. Dieser Skill analysiert den **Übergang zwischen Versicherungsstatus** und sichert Fristen, Beiträge und Lückenfreiheit der Absicherung.
+Jeder Wechsel des Erwerbsstatus hat unmittelbare krankenversicherungsrechtliche Konsequenzen. Analysiere den **Übergang zwischen Versicherungsstatus** und sichert Fristen, Beiträge und Lückenfreiheit der Absicherung.
 
 ## Rechtlicher Rahmen
 

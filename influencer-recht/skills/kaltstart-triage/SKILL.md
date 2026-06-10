@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im Plugin Influencer- und Social-Media-Recht. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Sk..."
+description: "Einstieg, Schnelltriage und Fallrouting. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlaegt passende Fachmodule aus diesem Plugin vor und fuehrt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext ordnet der Sk..."
 ---
 
 ## Aktenstart statt Formularstart

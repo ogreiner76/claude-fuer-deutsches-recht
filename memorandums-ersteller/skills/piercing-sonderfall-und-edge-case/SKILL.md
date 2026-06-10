@@ -1,6 +1,6 @@
 ---
 name: piercing-sonderfall-und-edge-case
-description: "Piercing: Sonderfall und Edge-Case-Prüfung im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Piercing: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Piercing: Sonderfall und Edge-Case-Prüfung

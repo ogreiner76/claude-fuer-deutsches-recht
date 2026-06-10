@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstelle-formular-portal-und-einreichung
-description: "Rechtsberatungsstelle: Formular, Portal und Einreichungslogik: Rechtsberatungsstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt migrationsrecht."
+description: "Rechtsberatungsstelle: Formular, Portal und Einreichungslogik: Rechtsberatungsstelle: Formular, Portal und Einreichungslogik."
 ---
 
 # Rechtsberatungsstelle: Formular, Portal und Einreichungslogik
@@ -14,7 +14,7 @@ description: "Rechtsberatungsstelle: Formular, Portal und Einreichungslogik: Rec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Rechtsberatungsstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt migrationsrecht.
+**Fokus:** Rechtsberatungsstelle: Formular, Portal und Einreichungslogik.
 
 ## Spezialwissen: Rechtsberatungsstelle: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Urkunden, Zeugen, Indizien, Gutachten und Glaubwürdigkeit**.
+Prüft insbesondere: **Urkunden, Zeugen, Indizien, Gutachten und Glaubwürdigkeit**.
 
 **CIC-/Normanker:** can. 1526-1586.
 

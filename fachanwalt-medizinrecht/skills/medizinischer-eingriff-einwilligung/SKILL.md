@@ -7,7 +7,7 @@ description: "Medizinischer Eingriff Einwilligung: fachanwaltlicher Spezial-Skil
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Medizinischer Eingriff Einwilligung** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Medizinischer Eingriff Einwilligung** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

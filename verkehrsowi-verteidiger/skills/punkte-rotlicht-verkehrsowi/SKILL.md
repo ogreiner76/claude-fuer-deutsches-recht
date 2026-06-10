@@ -1,6 +1,6 @@
 ---
 name: punkte-rotlicht-verkehrsowi
-description: "Punkte: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Punkte: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Punkte: Risikoampel, Gegenargumente und Verteidigungslinien

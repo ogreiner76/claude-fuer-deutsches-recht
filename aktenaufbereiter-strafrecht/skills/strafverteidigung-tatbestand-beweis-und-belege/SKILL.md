@@ -1,6 +1,6 @@
 ---
 name: strafverteidigung-tatbestand-beweis-und-belege
-description: "Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage

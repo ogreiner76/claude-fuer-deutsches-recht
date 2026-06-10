@@ -1,6 +1,6 @@
 ---
 name: verdienstausfall-verhandlung-vergleich-und-eskalation
-description: "Verdienstausfall: Verhandlung, Vergleich und Eskalation im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Verdienstausfall: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Verdienstausfall: Verhandlung, Vergleich und Eskalation

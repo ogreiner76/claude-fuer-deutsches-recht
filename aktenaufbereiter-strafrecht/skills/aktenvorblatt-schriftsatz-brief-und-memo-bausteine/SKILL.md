@@ -1,6 +1,6 @@
 ---
 name: aktenvorblatt-schriftsatz-brief-und-memo-bausteine
-description: "Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Aktenvorblatt: Schriftsatz-, Brief- und Memo-Bausteine

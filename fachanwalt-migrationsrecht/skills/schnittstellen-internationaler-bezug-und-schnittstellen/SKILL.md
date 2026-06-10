@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-internationaler-bezug-und-schnittstellen
-description: "Schnittstellen: Internationaler Bezug und Schnittstellen: Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt migrationsrecht."
+description: "Schnittstellen: Internationaler Bezug und Schnittstellen: Schnittstellen: Internationaler Bezug und Schnittstellen."
 ---
 
 # Schnittstellen: Internationaler Bezug und Schnittstellen
@@ -14,7 +14,7 @@ description: "Schnittstellen: Internationaler Bezug und Schnittstellen: Schnitts
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt migrationsrecht.
+**Fokus:** Schnittstellen: Internationaler Bezug und Schnittstellen.
 
 ## Spezialwissen: Schnittstellen: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.

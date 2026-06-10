@@ -15,7 +15,7 @@ description: "Mars Sample Return – Planetary Protection Kat. V, Importrecht, Q
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Mars Sample Return: Haftung, Quarantäne und Importrecht** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Mars Sample Return: Haftung, Quarantäne und Importrecht** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

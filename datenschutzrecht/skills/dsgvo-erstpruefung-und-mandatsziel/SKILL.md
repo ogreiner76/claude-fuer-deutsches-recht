@@ -1,6 +1,6 @@
 ---
 name: dsgvo-erstpruefung-und-mandatsziel
-description: "DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin datenschutzrecht."
+description: "DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
@@ -14,7 +14,7 @@ description: "DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: DSGVO: Erstpr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin datenschutzrecht.
+**Fokus:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel.
 
 ## Spezialwissen: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.

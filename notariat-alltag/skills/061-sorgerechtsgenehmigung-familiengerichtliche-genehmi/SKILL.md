@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Sorgerechtsgenehmigung – familiengerichtlich
 
 ## Zweck und Anwendungsbereich
 
-Wenn Eltern oder Betreuer im Namen Minderjähriger handeln, brauchen sie für bestimmte Rechtsgeschäfte die Genehmigung des Familiengerichts. Dieser Skill führt durch Genehmigungsanforderungen, Antragstellung und Vollzugskoordination.
+Wenn Eltern oder Betreuer im Namen Minderjähriger handeln, brauchen sie für bestimmte Rechtsgeschäfte die Genehmigung des Familiengerichts. Führe durch Genehmigungsanforderungen, Antragstellung und Vollzugskoordination.
 
 Rechtsgrundlagen: §§ 1629, 1643 BGB n.F. (Elterliche Sorge, genehmigungspflichtige Geschäfte), §§ 1803–1810 BGB n.F. (Betreuungsgenehmigungen), §§ 151–168 FamFG (Familiensachen), § 1821 BGB n.F. (Genehmigung durch Betreuungsgericht), § 1809 BGB n.F. (Ergänzungspfleger), § 1810 BGB n.F. (Einzelgenehmigung).
 

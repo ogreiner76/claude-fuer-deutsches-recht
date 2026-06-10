@@ -15,7 +15,7 @@ description: "Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypisch
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt **atypische Konstellationen und Grenzfälle** im gewerblichen Rechtsschutz – Situationen, die außerhalb der Standardprüfung liegen und besondere Aufmerksamkeit erfordern. Edge Cases tauchen in der Praxis regelmäßig auf und können bei unsachgemäßer Behandlung zu teuren Fehlern führen.
+Behandelt **atypische Konstellationen und Grenzfälle** im gewerblichen Rechtsschutz – Situationen, die außerhalb der Standardprüfung liegen und besondere Aufmerksamkeit erfordern. Edge Cases tauchen in der Praxis regelmäßig auf und können bei unsachgemäßer Behandlung zu teuren Fehlern führen.
 
 Mandatsbezug: Mandant sagt „Das ist eine besondere Situation, ich bin nicht sicher, ob die normalen Regeln gelten." Anwalt erkennt, dass der Fall einen oder mehrere atypische Aspekte hat, die gesonderter Prüfung bedürfen.
 

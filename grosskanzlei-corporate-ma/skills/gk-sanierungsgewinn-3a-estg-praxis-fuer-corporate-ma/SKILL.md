@@ -35,7 +35,7 @@ description: "Praxisleitfaden zu § 3a EStG für das Corporate-/M&A-Team einer G
 
 § 3a EStG ist die zentrale Vorschrift zur Steuerbefreiung von Sanierungserträgen. Der Sanierungserlass des BMF vom 27.03.2003 wurde durch den Beschluss des Großen Senats des BFH vom 28.11.2016 (GrS 1/15) für rechtsstaatlich unzulässig erklärt. Der Gesetzgeber hat reagiert: § 3a EStG (und § 7b GewStG) sind die gesetzliche Antwort. Sie ist strenger als der frühere Erlass, in vier Tatbestandsmerkmalen kodifiziert, und sie ordnet in Absatz 3 eine **zwingende Verrechnungsreihenfolge** an.
 
-Dieser Skill ist die Praxisanleitung für das Corporate-/M&A-Team; nicht für die Steuerberatung im engeren Sinn.
+Praxisanleitung für das Corporate-/M&A-Team; nicht für die Steuerberatung im engeren Sinn.
 
 ## Wann dieses Modul hilft
 

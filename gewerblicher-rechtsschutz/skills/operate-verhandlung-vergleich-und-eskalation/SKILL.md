@@ -15,7 +15,7 @@ description: "Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **Verhandlungs- und Vergleichsphase** im gewerblichen Rechtsschutz – den Zeitraum zwischen Abmahnung/EV und abschließender Klärung durch Urteil oder Einigung. Er strukturiert Verhandlungsstrategien, Vergleichsangebote und die Entscheidung zwischen Einigung und Eskalation.
+Behandelt die **Verhandlungs- und Vergleichsphase** im gewerblichen Rechtsschutz – den Zeitraum zwischen Abmahnung/EV und abschließender Klärung durch Urteil oder Einigung. Er strukturiert Verhandlungsstrategien, Vergleichsangebote und die Entscheidung zwischen Einigung und Eskalation.
 
 Mandatsbezug: EV ist vollzogen; Abmahner und Abgemahnter wollen Kosten und Risiken eines Hauptsacheverfahrens vermeiden. Oder: Abmahnung wurde zurückgewiesen; Anwalt muss entscheiden, ob er klagt oder verhandelt.
 

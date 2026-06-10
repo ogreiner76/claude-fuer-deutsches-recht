@@ -16,7 +16,7 @@ description: "Anschluss-Skills Router: schlägt nach der ersten Prüfung die pas
 ## Routing nach Bauaufgabe
 - **Neues Plugin:** Skeleton mit `plugin.json` (`name`, `version`, `description`), `README.md`, `skills/`-Verzeichnis. Kein Komma in Zahlen in `description`.
 - **Neuer Skill:** Frontmatter genau `name` (ASCII, Kebab-Case, max. 64 Zeichen) und `description` (max. 1024 Zeichen).
-- **Skill-Refactor:** Inhalt nach Struktur (Zweck, Eingaben, Ablauf, Quellen, Output, Beispiele); Querverweise auf andere Skills im Plugin via Markdown-Link.
+- **Skill-Refactor:** Inhalt nach Struktur (Zweck, Eingaben, Ablauf, Quellen, Output, Beispiele); Querverweise auf andere Skills.
 - **Frontmatter-Fix:** verbotene Felder entfernen (`triggers`, `when_to_use`, `language`, `rechtsgebiet`, `license`, `argument-hint`, `user-invocable`, `allowed_tools`, `tools`, `model`, `adapted_from`, `version`, `related_skills`).
 - **Validator-Lauf:** `python3 scripts/validate-yaml-frontmatter.py`, `node scripts/validate-plugin-structure.mjs`.
 - **Skill-Index aktualisieren:** `scripts/generate-skills-md.py`, `scripts/generate-skills-overview.py`.

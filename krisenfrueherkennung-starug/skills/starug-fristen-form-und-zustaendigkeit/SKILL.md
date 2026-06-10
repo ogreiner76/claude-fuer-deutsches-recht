@@ -1,6 +1,6 @@
 ---
 name: starug-fristen-form-und-zustaendigkeit
-description: "StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg

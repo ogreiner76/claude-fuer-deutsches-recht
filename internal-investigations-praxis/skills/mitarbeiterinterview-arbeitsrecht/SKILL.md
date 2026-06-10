@@ -19,7 +19,7 @@ Mitarbeiterinterviews im Rahmen von Internal Investigations bewegen sich im Span
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert die Vorbereitung, Durchführung und Nachbereitung von Mitarbeiterinterviews so, dass Aussagen verwertbar sind, Fehler bei der Belehrung keine Verfahrenshindernisse schaffen und der Interviewte weiß, in welcher Rolle er spricht.
+Strukturiert die Vorbereitung, Durchführung und Nachbereitung von Mitarbeiterinterviews so, dass Aussagen verwertbar sind, Fehler bei der Belehrung keine Verfahrenshindernisse schaffen und der Interviewte weiß, in welcher Rolle er spricht.
 
 ## Arbeitsprogramm
 

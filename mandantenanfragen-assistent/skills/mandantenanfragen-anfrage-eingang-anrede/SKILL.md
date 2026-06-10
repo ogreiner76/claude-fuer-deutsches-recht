@@ -1,6 +1,6 @@
 ---
 name: mandantenanfragen-anfrage-eingang-anrede
-description: "Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -7,7 +7,7 @@ description: "Strafzumessung § 46 StGB: fachanwaltlicher Spezial-Skill mit Norm
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Strafzumessung § 46 StGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Strafzumessung § 46 StGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

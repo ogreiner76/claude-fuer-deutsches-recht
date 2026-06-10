@@ -1,6 +1,6 @@
 ---
 name: jagdrecht-justizreform-friedrich
-description: "Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-System die Jagdberechtigung des Grundherrn vs. Eigenjagdrecht der Bauern und die Reform durch die Bundesgesetze. Liefert Quellenmatrix im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Frist..."
+description: "Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-System die Jagdberechtigung des Grundherrn vs. Eigenjagdrecht der Bauern und die Reform durch die Bundesgesetze. Liefert Quellenmatrix: prüft konkret die einschlägigen Tatbestandsmerkmale, Frist..."
 ---
 
 # Pralr Jagdrecht Und Fischerei

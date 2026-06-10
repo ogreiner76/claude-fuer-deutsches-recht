@@ -19,7 +19,7 @@ Die Kündigung nach einer Internal Investigation ist der arbeitsrechtliche Endpu
 
 ## Ziel dieses Skills
 
-Dieser Skill entwickelt für jeden Beschuldigten die optimale Kündigungsstrategie – unter Berücksichtigung des Beweismaterials, der Rechtslage und des Verhältnisses zu Behörden.
+Entwickle für jeden Beschuldigten die optimale Kündigungsstrategie – unter Berücksichtigung des Beweismaterials, der Rechtslage und des Verhältnisses zu Behörden.
 
 ## Arbeitsprogramm
 

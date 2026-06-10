@@ -15,7 +15,7 @@ description: "Briefing für Vertrieb und Marketing zu einem Verlagsprodukt: Ziel
 
 ## Worum geht es konkret
 
-Vertrieb und Marketing brauchen vor dem Erscheinen eines Buches, eines Loseblattwerks oder einer neuen Zeitschriftenreihe ein praezises Briefing: Was traegt das Produkt? Wer kauft es? Was ist anders als Konkurrenz? Welcher Preis ist plausibel? Welche Materialien werden gebraucht (Katalog, Web, Veranstaltungs-Pitches)? Dieser Skill liefert die Schnittstelle.
+Vertrieb und Marketing brauchen vor dem Erscheinen eines Buches, eines Loseblattwerks oder einer neuen Zeitschriftenreihe ein praezises Briefing: Was traegt das Produkt? Wer kauft es? Was ist anders als Konkurrenz? Welcher Preis ist plausibel? Welche Materialien werden gebraucht (Katalog, Web, Veranstaltungs-Pitches)? Liefere die Schnittstelle.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

@@ -7,7 +7,7 @@ description: "Notwehr § 32 StGB: fachanwaltlicher Spezial-Skill mit Normenanker
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Notwehr § 32 StGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Notwehr § 32 StGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

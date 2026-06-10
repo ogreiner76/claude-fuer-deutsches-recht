@@ -1,6 +1,6 @@
 ---
 name: kommentar-compliance-dokumentation-und-akte
-description: "Kommentar: Compliance-Dokumentation und Aktenvermerk im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Kommentar: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Kommentar: Compliance-Dokumentation und Aktenvermerk

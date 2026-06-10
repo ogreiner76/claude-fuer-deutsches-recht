@@ -7,7 +7,7 @@ description: "Schiedsklausel Csport: fachanwaltlicher Spezial-Skill mit Normenan
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Schiedsklausel Csport** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Schiedsklausel Csport** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

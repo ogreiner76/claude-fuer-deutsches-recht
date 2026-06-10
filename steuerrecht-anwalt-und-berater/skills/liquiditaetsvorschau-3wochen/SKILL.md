@@ -26,7 +26,7 @@ Wenn nicht installiert, hier nach dem Steuerberater-spezifischen Schema arbeiten
 
 ## Zweck
 
-Dieser Skill erstellt für eine GmbH/UG/AG eine **kurzfristige Drei-Wochen-Liquiditätsvorschau** — die kleinste sinnvolle Einheit der laufenden Krisenfrüherkennung nach § 1 StaRUG und die direkte Ableitung des BGH-Schemas zur Zahlungsunfähigkeit (§ 17 InsO).
+Erstellt für eine GmbH/UG/AG eine **kurzfristige Drei-Wochen-Liquiditätsvorschau** — die kleinste sinnvolle Einheit der laufenden Krisenfrüherkennung nach § 1 StaRUG und die direkte Ableitung des BGH-Schemas zur Zahlungsunfähigkeit (§ 17 InsO).
 
 Er ist als **wöchentliche Routine** gedacht: jeden Montag mit aktualisierten Banksalden und Fälligkeitsdaten in fünf bis zehn Minuten durchlaufen, Ampel ablesen, dokumentieren. Für die vollständige rollierende Planung über 13/26/52 Wochen siehe den Schwester-Skill `stb-liquiditaetsvorschau-3-6-12-monate` (gleiches Plugin) bzw. das Plugin Liquiditätsplanung (`liquiditaetsplanung`).
 

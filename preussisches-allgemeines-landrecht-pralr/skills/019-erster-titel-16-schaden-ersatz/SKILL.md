@@ -1,6 +1,6 @@
 ---
 name: 019-erster-titel-16-schaden-ersatz
-description: "PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterla..."
+description: "PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr: Bearbeite den ersten Teil Titel 16 Schaden Ersatz Zufall Gefahr im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterla..."
 ---
 
 # PrALR: Erster Teil Titel 16 Schaden Ersatz Zufall Gefahr

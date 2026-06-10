@@ -1,6 +1,6 @@
 ---
 name: parkraumbewirtschaftung-verkehr
-description: "Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik."
 ---
 
 # Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik

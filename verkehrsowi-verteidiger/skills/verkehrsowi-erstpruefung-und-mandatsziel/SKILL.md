@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-erstpruefung-und-mandatsziel
-description: "Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel

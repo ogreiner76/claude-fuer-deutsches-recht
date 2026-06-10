@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Registerauszüge, Bescheinigungen und Nachweise ohne Überzusage**.
+Prüft insbesondere: **Registerauszüge, Bescheinigungen und Nachweise ohne Überzusage**.
 
 **CIC-/Normanker:** can. 1540-1546, 535.
 

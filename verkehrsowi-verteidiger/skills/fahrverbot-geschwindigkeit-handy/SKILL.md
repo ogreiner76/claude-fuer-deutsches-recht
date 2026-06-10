@@ -1,6 +1,6 @@
 ---
 name: fahrverbot-geschwindigkeit-handy
-description: "Fahrverbot: Behörden-, Gerichts- oder Registerweg im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Fahrverbot: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Fahrverbot: Behörden-, Gerichts- oder Registerweg

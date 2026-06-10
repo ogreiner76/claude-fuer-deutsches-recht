@@ -15,7 +15,7 @@ description: "EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweil
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **Gerichtsvollzieherzustellung als bevorzugten Vollziehungsweg** bei einstweiligen Verfügungen im gewerblichen Rechtsschutz. Der Gerichtsvollzieher (GV) ist das verlässlichste Instrument für die Parteizustellung einer Beschlussverfügung, weil er eine förmliche Zustellurkunde nach § 182 ZPO ausfertigt, die später für Ordnungsmittelanträge benötigt wird.
+Behandelt die **Gerichtsvollzieherzustellung als bevorzugten Vollziehungsweg** bei einstweiligen Verfügungen im gewerblichen Rechtsschutz. Der Gerichtsvollzieher (GV) ist das verlässlichste Instrument für die Parteizustellung einer Beschlussverfügung, weil er eine förmliche Zustellurkunde nach § 182 ZPO ausfertigt, die später für Ordnungsmittelanträge benötigt wird.
 
 Mandatsbezug: Markenrechtliche Unterlassungsverfügung gegen Wettbewerber; patentrechtliche Unterlassungsverfügung gegen Hersteller; UWG-Verfügung gegen Online-Shop. In allen Fällen ist die GV-Zustellung Standard, da der Zustellnachweis im Vollstreckungsverfahren gerichtsfest sein muss.
 

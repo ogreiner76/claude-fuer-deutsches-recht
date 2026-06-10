@@ -1,6 +1,6 @@
 ---
 name: fzulg-fristen-form-und-zustaendigkeit
-description: "FZulG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "FZulG: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # FZulG: Fristen, Form, Zuständigkeit und Rechtsweg

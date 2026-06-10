@@ -1,6 +1,6 @@
 ---
 name: bussgeld-zahlen-schwellen-und-berechnung
-description: "Bussgeld: Zahlen, Schwellenwerte und Berechnung: Bussgeld: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verkehrsrecht."
+description: "Bussgeld: Zahlen, Schwellenwerte und Berechnung: Bussgeld: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Bussgeld: Zahlen, Schwellenwerte und Berechnung
@@ -14,7 +14,7 @@ description: "Bussgeld: Zahlen, Schwellenwerte und Berechnung: Bussgeld: Zahlen,
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bussgeld: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verkehrsrecht.
+**Fokus:** Bussgeld: Zahlen, Schwellenwerte und Berechnung.
 
 ## Spezialwissen: Bussgeld: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, BußgKatV, OWiG.

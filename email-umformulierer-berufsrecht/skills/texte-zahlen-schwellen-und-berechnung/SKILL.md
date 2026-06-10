@@ -1,6 +1,6 @@
 ---
 name: texte-zahlen-schwellen-und-berechnung
-description: "Texte: Zahlen, Schwellenwerte und Berechnung im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Texte: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Texte: Zahlen, Schwellenwerte und Berechnung

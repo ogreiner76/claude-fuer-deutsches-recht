@@ -1,6 +1,6 @@
 ---
 name: zaun-verhandlung-vergleich-und-eskalation
-description: "Zaun: Verhandlung, Vergleich und Eskalation im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Zaun: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Zaun: Verhandlung, Vergleich und Eskalation

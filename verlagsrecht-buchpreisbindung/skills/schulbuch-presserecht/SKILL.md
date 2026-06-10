@@ -15,7 +15,7 @@ description: "Verlagsrecht: Schulbuchzulassung, öffentliche Beschaffung und Buc
 
 ## Zweck dieses Skills
 
-Der Schulbuchmarkt unterliegt neben dem allgemeinen Verlagsrecht zusätzlichen **Zulassungsverfahren** durch die Kultusministerien der Länder und dem **öffentlichen Vergaberecht** bei staatlichen Beschaffungen. Dieser Skill klärt die Zulassungsvoraussetzungen, Konditionenpraxis und Buchpreisbindung in diesem Segment.
+Der Schulbuchmarkt unterliegt neben dem allgemeinen Verlagsrecht zusätzlichen **Zulassungsverfahren** durch die Kultusministerien der Länder und dem **öffentlichen Vergaberecht** bei staatlichen Beschaffungen. Kläre die Zulassungsvoraussetzungen, Konditionenpraxis und Buchpreisbindung in diesem Segment.
 
 ## Rechtsgrundlagen
 

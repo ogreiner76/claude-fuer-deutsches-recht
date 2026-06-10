@@ -1,6 +1,6 @@
 ---
 name: familienrichter-risikoampel-und-gegenargumente
-description: "Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien

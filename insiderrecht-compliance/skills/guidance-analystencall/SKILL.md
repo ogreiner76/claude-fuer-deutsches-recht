@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill identifiziert den Zeitpunkt, ab dem eine Prognoseänderung zur Insiderinformation
+Identifiziere den Zeitpunkt, ab dem eine Prognoseänderung zur Insiderinformation
 wird, und steuert die Ad-hoc-Veröffentlichung oder deren Koordination mit dem Quartalsbericht.
 
 ## Arbeitsprogramm

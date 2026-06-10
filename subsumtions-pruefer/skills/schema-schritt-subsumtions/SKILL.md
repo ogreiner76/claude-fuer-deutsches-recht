@@ -15,7 +15,7 @@ description: "Schema: Verhandlung, Vergleich und Eskalation im Subsumtions Pruef
 
 ## Aufgabe
 
-Dieser Skill strukturiert Verhandlung, Vergleich und Eskalation im Subsumtions-Workflow. Er gibt ein Schema für Vergleichsverhandlungen, die Prüfung eines gerichtlichen Vergleichs (§ 779 BGB, § 794 Abs. 1 Nr. 1 ZPO) und die Eskalationsleiter vom außergerichtlichen Schreiben bis zur Klage oder zum einstweiligen Rechtsschutz.
+Strukturiert Verhandlung, Vergleich und Eskalation im Subsumtions-Workflow. Er gibt ein Schema für Vergleichsverhandlungen, die Prüfung eines gerichtlichen Vergleichs (§ 779 BGB, § 794 Abs. 1 Nr. 1 ZPO) und die Eskalationsleiter vom außergerichtlichen Schreiben bis zur Klage oder zum einstweiligen Rechtsschutz.
 
 ## Verhandlungs-Schema
 

@@ -1,6 +1,6 @@
 ---
 name: chronologie-compliance-dokumentation-und-akte
-description: "Chronologie: Compliance-Dokumentation und Aktenvermerk im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Chronologie: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Chronologie: Compliance-Dokumentation und Aktenvermerk

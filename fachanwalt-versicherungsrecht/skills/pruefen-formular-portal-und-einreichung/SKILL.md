@@ -1,6 +1,6 @@
 ---
 name: pruefen-formular-portal-und-einreichung
-description: "Pruefen: Formular, Portal und Einreichungslogik: Pruefen: Formular, Portal und Einreichungslogik im Plugin fachanwalt versicherungsrecht."
+description: "Pruefen: Formular, Portal und Einreichungslogik: Pruefen: Formular, Portal und Einreichungslogik."
 ---
 
 # Pruefen: Formular, Portal und Einreichungslogik
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Pruefen: Formular, Portal und Einreichungslogik im Plugin fachanwalt versicherungsrecht.
+**Fokus:** Pruefen: Formular, Portal und Einreichungslogik.
 
 ## Spezialwissen: Pruefen: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** VVG, VAG.

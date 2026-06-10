@@ -1,6 +1,6 @@
 ---
 name: krisenfrueherkennung-krisenmanagement-monats
-description: "Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Krisenfrueherkennung: Erstprüfung, Rollenklärung und Mandatsziel

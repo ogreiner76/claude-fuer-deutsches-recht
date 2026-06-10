@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte u
 
 ## Zweck und Anwendungsbereich
 
-Die Begründung von Wohnungseigentum durch Teilungserklärung ist die Voraussetzung für den Verkauf einzelner Wohnungen aus einem Gebäude. Dieser Skill führt durch den gesamten Prozess von der Teilungserklärung bis zur Grundbuchanlegung.
+Die Begründung von Wohnungseigentum durch Teilungserklärung ist die Voraussetzung für den Verkauf einzelner Wohnungen aus einem Gebäude. Führe durch den gesamten Prozess von der Teilungserklärung bis zur Grundbuchanlegung.
 
 Rechtsgrundlagen: §§ 1–49 WEG (Wohnungseigentumsgesetz), § 8 WEG (Teilung durch Eigentümer), § 3 WEG (Begründung durch Vertrag), §§ 5–7 WEG (Gemeinschafts- und Sondereigentum), § 9 WEG (Grundbuchrecht), § 10 WEG (Gemeinschaftsordnung), GBO §§ 18–22 (Eintragungsverfahren), BauO der Länder (Abgeschlossenheitsbescheinigung), WEG Reform 2020 (WEMoG).
 

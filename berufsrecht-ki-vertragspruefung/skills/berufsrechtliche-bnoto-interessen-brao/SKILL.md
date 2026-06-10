@@ -1,6 +1,6 @@
 ---
 name: berufsrechtliche-bnoto-interessen-brao
-description: "Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

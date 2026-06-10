@@ -1,6 +1,6 @@
 ---
 name: memorandum-dokumentenmatrix-und-lueckenliste
-description: "Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung

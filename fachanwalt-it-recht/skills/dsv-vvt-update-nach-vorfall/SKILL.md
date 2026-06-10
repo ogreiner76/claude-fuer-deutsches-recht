@@ -1,6 +1,6 @@
 ---
 name: dsv-vvt-update-nach-vorfall
-description: "Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art: 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffen — Arbeitskontext: Fachanwalt IT-Recht, Schwerpunkt dsv vvt update nach vorfall."
+description: "Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art: 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffen"
 ---
 
 # Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art

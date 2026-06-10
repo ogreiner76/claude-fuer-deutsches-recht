@@ -1,6 +1,6 @@
 ---
 name: marktzugang-sonderfall-edge-case
-description: "Marktzugang: Sonderfall und Edge-Case-Prüfung: Marktzugang: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt transport speditionsrecht."
+description: "Marktzugang: Sonderfall und Edge-Case-Prüfung: Marktzugang: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Marktzugang: Sonderfall und Edge-Case-Prüfung
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Marktzugang: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt transport speditionsrecht.
+**Fokus:** Marktzugang: Sonderfall und Edge-Case-Prüfung.
 
 ## Spezialwissen: Marktzugang: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

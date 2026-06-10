@@ -1,6 +1,6 @@
 ---
 name: beschwerde-dolmetscher-sonderfall
-description: "Beschwerde: Internationaler Bezug und Schnittstellen im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Beschwerde: Internationaler Bezug und Schnittstellen."
 ---
 
 # Beschwerde: Internationaler Bezug und Schnittstellen

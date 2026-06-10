@@ -1,6 +1,6 @@
 ---
 name: jura-mandantenkommunikation-entscheidungsvorlage
-description: "Jura: Mandantenkommunikation und Entscheidungsvorlage im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Jura: Mandantenkommunikation und Entscheidungsvorlage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Jura: Mandantenkommunikation und Entscheidungsvorlage

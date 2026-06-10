@@ -7,7 +7,7 @@ description: "Medizinprodukt Haftung § 1 ProdHaftG: fachanwaltlicher Spezial-Sk
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Medizinprodukt Haftung § 1 ProdHaftG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Medizinprodukt Haftung § 1 ProdHaftG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

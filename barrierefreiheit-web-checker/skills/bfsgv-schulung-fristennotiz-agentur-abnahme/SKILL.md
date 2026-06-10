@@ -1,6 +1,6 @@
 ---
 name: bfsgv-schulung-fristennotiz-agentur-abnahme
-description: "Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg

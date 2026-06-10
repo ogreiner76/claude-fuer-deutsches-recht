@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsü
 
 ## Zweck und Anwendungsbereich
 
-Urlaub, Krankheit, Tod oder Amtsniederlegung des Notars erfordern klare Regelungen zur Fortführung des Amts. Dieser Skill führt durch die Vertretungsregelungen, das Notariatsverwalterverfahren und die Amtsübergabe.
+Urlaub, Krankheit, Tod oder Amtsniederlegung des Notars erfordern klare Regelungen zur Fortführung des Amts. Führe durch die Vertretungsregelungen, das Notariatsverwalterverfahren und die Amtsübergabe.
 
 Rechtsgrundlagen: §§ 38–44 BNotO (Vertretung, Notariatsverwalter), § 8 BNotO (Zuständigkeit), § 48 BNotO (Amtsniederlegung), § 49 BNotO (Amtsenthebung), § 51 BNotO (Erlöschen des Amts), DONot §§ 50–56 (Aktenübergabe), § 9 DONot (Urkundenrolle bei Amtswechsel).
 

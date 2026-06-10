@@ -1,6 +1,6 @@
 ---
 name: forschungszulage-insolvenzlage-red-team-korrektur
-description: "Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel

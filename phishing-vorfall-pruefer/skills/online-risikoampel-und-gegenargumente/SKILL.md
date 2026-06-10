@@ -1,6 +1,6 @@
 ---
 name: online-risikoampel-und-gegenargumente
-description: "Online: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Online: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Online: Risikoampel, Gegenargumente und Verteidigungslinien

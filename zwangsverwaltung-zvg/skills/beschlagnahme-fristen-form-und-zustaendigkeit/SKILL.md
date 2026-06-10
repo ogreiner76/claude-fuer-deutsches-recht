@@ -1,6 +1,6 @@
 ---
 name: beschlagnahme-fristen-form-und-zustaendigkeit
-description: "Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -65,7 +65,7 @@ der Vollmacht, (5) Ausnahmen: Duldungs-/Anscheinsvollmacht, (6) Vollmachtloser V
 
 ### Routing-Logik
 
-Dieser Skill dient als Einstiegspunkt. Bei komplexen Stellvertretungsfragen werden die spezifischen
+Dient als Einstiegspunkt. Bei komplexen Stellvertretungsfragen werden die spezifischen
 Teilskills aufgerufen: vollmacht-erteilung-umfang-erloeschen für Vollmachtsfragen,
 duldungs-anscheinsvollmacht für Rechtsschein, insichgeschaeft-paragraph-181 für § 181 BGB.
 

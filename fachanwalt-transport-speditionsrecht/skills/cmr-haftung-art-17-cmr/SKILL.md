@@ -7,7 +7,7 @@ description: "CMR Haftung art 17 CMR: fachanwaltlicher Spezial-Skill mit Normena
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **CMR Haftung art 17 CMR** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **CMR Haftung art 17 CMR** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

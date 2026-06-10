@@ -1,6 +1,6 @@
 ---
 name: stufen-theorie-interessen-versorgungssystem
-description: "Stufen: Compliance-Dokumentation und Aktenvermerk im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Stufen: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Stufen: Compliance-Dokumentation und Aktenvermerk

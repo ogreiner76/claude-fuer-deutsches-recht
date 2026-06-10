@@ -7,7 +7,7 @@ description: "Incoterms 2020 fca Versendungskauf: fachanwaltlicher Spezial-Skill
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Incoterms 2020 fca Versendungskauf** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Incoterms 2020 fca Versendungskauf** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

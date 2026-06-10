@@ -1,6 +1,6 @@
 ---
 name: spielervertraege-verhandlung-vergleich-und-eskalation
-description: "Spielervertraege: Verhandlung, Vergleich und Eskalation: Spielervertraege: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt sportrecht."
+description: "Spielervertraege: Verhandlung, Vergleich und Eskalation: Spielervertraege: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Spielervertraege: Verhandlung, Vergleich und Eskalation
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Spielervertraege: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt sportrecht.
+**Fokus:** Spielervertraege: Verhandlung, Vergleich und Eskalation.
 
 ## Spezialwissen: Spielervertraege: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

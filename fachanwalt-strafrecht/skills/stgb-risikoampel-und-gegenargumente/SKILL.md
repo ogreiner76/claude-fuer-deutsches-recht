@@ -1,6 +1,6 @@
 ---
 name: stgb-risikoampel-und-gegenargumente
-description: "Stgb: Risikoampel, Gegenargumente und Verteidigungslinien: Stgb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt strafrecht."
+description: "Stgb: Risikoampel, Gegenargumente und Verteidigungslinien: Stgb: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Stgb: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -14,7 +14,7 @@ description: "Stgb: Risikoampel, Gegenargumente und Verteidigungslinien: Stgb: R
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Stgb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt strafrecht.
+**Fokus:** Stgb: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Spezialwissen: Stgb: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** StPO.

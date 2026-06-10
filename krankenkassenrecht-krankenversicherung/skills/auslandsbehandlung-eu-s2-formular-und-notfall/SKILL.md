@@ -15,7 +15,7 @@ description: "GKV-Leistungen im Ausland: EHIC-Karte, S2-Genehmigungsverfahren, N
 
 ## Skill-Zweck
 
-Dieser Skill klärt **GKV-Leistungen für Behandlungen im Ausland**: Notfallversorgung mit EHIC, geplante Behandlung mit S2-Genehmigung und Kostenerstattung nach EU-Patientenrechterichtlinie.
+Klärt **GKV-Leistungen für Behandlungen im Ausland**: Notfallversorgung mit EHIC, geplante Behandlung mit S2-Genehmigung und Kostenerstattung nach EU-Patientenrechterichtlinie.
 
 ## Rechtlicher Rahmen
 

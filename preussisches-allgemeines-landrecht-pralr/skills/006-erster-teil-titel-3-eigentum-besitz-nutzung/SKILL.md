@@ -1,6 +1,6 @@
 ---
 name: 006-erster-teil-titel-3-eigentum-besitz-nutzung
-description: "PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung

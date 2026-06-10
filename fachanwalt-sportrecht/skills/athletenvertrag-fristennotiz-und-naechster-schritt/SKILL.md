@@ -1,6 +1,6 @@
 ---
 name: athletenvertrag-fristennotiz-und-naechster-schritt
-description: "Athletenvertrag: Fristennotiz und nächster Schritt: Athletenvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt sportrecht."
+description: "Athletenvertrag: Fristennotiz und nächster Schritt: Athletenvertrag: Fristennotiz und nächster Schritt."
 ---
 
 # Athletenvertrag: Fristennotiz und nächster Schritt
@@ -14,7 +14,7 @@ description: "Athletenvertrag: Fristennotiz und nächster Schritt: Athletenvertr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Athletenvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt sportrecht.
+**Fokus:** Athletenvertrag: Fristennotiz und nächster Schritt.
 
 ## Spezialwissen: Athletenvertrag: Fristennotiz und nächster Schritt
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

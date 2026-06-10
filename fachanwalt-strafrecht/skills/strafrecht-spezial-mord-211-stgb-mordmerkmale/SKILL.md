@@ -20,7 +20,7 @@ description: "Mord nach § 211 StGB: Praxisleitfaden für Verteidigung und Neben
 
 ## Worum geht es
 
-Dieser Skill unterstuetzt die Verteidigung und Nebenklage im Hauptverfahren wegen Mordes. Verteidigungsziel ist regelmaessig nicht der Freispruch, sondern die **Vermeidung des Schuldspruchs wegen Mordes** und damit der absoluten Strafdrohung "lebenslange Freiheitsstrafe". Erreicht wird das ueber die **Verneinung jedes einzelnen Mordmerkmals** und ueber die **Rechtsfolgenloesung** des Grossen Senats für Strafsachen (staendige BGH-Linie) bei Heimtuecke in atypischen Konfliktlagen.
+Unterstützt die Verteidigung und Nebenklage im Hauptverfahren wegen Mordes. Verteidigungsziel ist regelmaessig nicht der Freispruch, sondern die **Vermeidung des Schuldspruchs wegen Mordes** und damit der absoluten Strafdrohung "lebenslange Freiheitsstrafe". Erreicht wird das ueber die **Verneinung jedes einzelnen Mordmerkmals** und ueber die **Rechtsfolgenloesung** des Grossen Senats für Strafsachen (staendige BGH-Linie) bei Heimtuecke in atypischen Konfliktlagen.
 
 § 211 StGB ist Verbrechen. Versuch ist strafbar (§ 23 StGB). Vollendung erfordert den Tod eines anderen Menschen. Abgrenzung zu § 212 StGB Totschlag erfolgt ausschliesslich ueber das Vorliegen mindestens eines Mordmerkmals nach § 211 Abs. 2 StGB.
 

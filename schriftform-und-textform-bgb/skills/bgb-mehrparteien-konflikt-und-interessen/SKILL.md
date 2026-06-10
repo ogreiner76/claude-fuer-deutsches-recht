@@ -1,6 +1,6 @@
 ---
 name: bgb-mehrparteien-konflikt-und-interessen
-description: "BGB: Mehrparteienkonflikt und Interessenmatrix im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "BGB: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # BGB: Mehrparteienkonflikt und Interessenmatrix

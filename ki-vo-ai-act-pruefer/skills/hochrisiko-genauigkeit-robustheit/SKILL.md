@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-genauigkeit-robustheit
-description: "Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle E — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt hochrisiko genauigkeit robustheit."
+description: "Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle E"
 ---
 
 # Genauigkeit, Robustheit und Cybersicherheit — Art. 15 KI-VO

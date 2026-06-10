@@ -1,6 +1,6 @@
 ---
 name: flags-red-team-und-qualitaetskontrolle
-description: "Flags: Red-Team und Qualitätskontrolle im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Flags: Red-Team und Qualitätskontrolle: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Flags: Red-Team und Qualitätskontrolle

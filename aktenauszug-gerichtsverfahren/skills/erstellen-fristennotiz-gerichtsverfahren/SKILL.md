@@ -1,6 +1,6 @@
 ---
 name: erstellen-fristennotiz-gerichtsverfahren
-description: "Erstellen: Fristennotiz und nächster Schritt im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Erstellen: Fristennotiz und nächster Schritt."
 ---
 
 # Erstellen: Fristennotiz und nächster Schritt

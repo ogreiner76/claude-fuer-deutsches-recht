@@ -7,7 +7,7 @@ description: "Erstkontakt im Krankenversicherungsrecht: Bescheid analysieren, Re
 
 ## Skill-Zweck
 
-Dieser Skill steuert den **Erstkontakt** mit einem Krankenversicherungsproblem. Er stellt sicher, dass vor jeder inhaltlichen Prüfung die operativen Grundfragen geklärt sind: Wer ist betroffen, welches Dokument liegt vor, welche Frist läuft und was muss heute entschieden werden. Erst danach verzweigt der Skill in spezialisierte Prüfprogramme.
+Steuert den **Erstkontakt** mit einem Krankenversicherungsproblem. Er stellt sicher, dass vor jeder inhaltlichen Prüfung die operativen Grundfragen geklärt sind: Wer ist betroffen, welches Dokument liegt vor, welche Frist läuft und was muss heute entschieden werden. Erst danach verzweigt der Skill in spezialisierte Prüfprogramme.
 
 ## Rechtlicher Rahmen
 

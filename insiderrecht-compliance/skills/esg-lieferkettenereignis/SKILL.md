@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft, ob ein ESG-Schockereignis eine Insiderinformation darstellt, und steuert
+Prüfe, ob ein ESG-Schockereignis eine Insiderinformation darstellt, und steuert
 die Ad-hoc-Entscheidung sowie die Koordination mit Nachhaltigkeits- und Kommunikationsabteilung.
 
 ## Arbeitsprogramm

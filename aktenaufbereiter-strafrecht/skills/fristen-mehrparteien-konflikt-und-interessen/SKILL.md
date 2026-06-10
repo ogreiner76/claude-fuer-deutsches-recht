@@ -1,6 +1,6 @@
 ---
 name: fristen-mehrparteien-konflikt-und-interessen
-description: "Fristen: Mehrparteienkonflikt und Interessenmatrix im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Fristen: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Fristen: Mehrparteienkonflikt und Interessenmatrix

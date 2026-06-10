@@ -1,6 +1,6 @@
 ---
 name: sichern-sprache-standard
-description: "Sichern: Internationaler Bezug und Schnittstellen im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Sichern: Internationaler Bezug und Schnittstellen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Sichern: Internationaler Bezug und Schnittstellen

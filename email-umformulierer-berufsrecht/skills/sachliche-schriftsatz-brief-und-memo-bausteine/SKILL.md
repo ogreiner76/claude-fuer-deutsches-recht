@@ -1,6 +1,6 @@
 ---
 name: sachliche-schriftsatz-brief-und-memo-bausteine
-description: "Sachliche: Schriftsatz-, Brief- und Memo-Bausteine im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Sachliche: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Sachliche: Schriftsatz-, Brief- und Memo-Bausteine

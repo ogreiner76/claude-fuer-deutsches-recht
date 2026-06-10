@@ -26,7 +26,7 @@ Doppelabtretung Priorität und Gutglaubensprobleme: prüft die einschlägigen Vo
 
 Die Forderung gibt es nur einmal. Wird sie zweimal abgetreten, gewinnt regelmäßig der **Erstabnehmer** (Prioritätsprinzip prior tempore, potior iure). Der Zweitabnehmer geht leer aus, weil der Verkäufer im Moment der zweiten Abtretung nicht mehr Inhaber der Forderung war. **Gutgläubiger Erwerb von Forderungen kennt das BGB nicht** – anders als beim beweglichen Sachen-Recht (§§ 932 ff. BGB). Diese Regel macht die Reihenfolge der Abtretungen zur **wirtschaftlichen Existenzfrage** für jeden Factor.
 
-Typische Konstellationen: Globalzession an Hausbank + Factoring; verlängerter Eigentumsvorbehalt + Factoring; Sicherungsabtretung an Lieferanten + Factoring. Dieser Skill ordnet, wer wann zuerst war, und wie man als Factor priorisiert.
+Typische Konstellationen: Globalzession an Hausbank + Factoring; verlängerter Eigentumsvorbehalt + Factoring; Sicherungsabtretung an Lieferanten + Factoring. Ordne, wer wann zuerst war, und wie man als Factor priorisiert.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

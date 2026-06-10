@@ -1,6 +1,6 @@
 ---
 name: beruht-verhandlung-vergleich-und-eskalation
-description: "Beruht: Verhandlung, Vergleich und Eskalation im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Beruht: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Beruht: Verhandlung, Vergleich und Eskalation

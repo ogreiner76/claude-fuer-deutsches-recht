@@ -1,6 +1,6 @@
 ---
 name: festsetzung-mehrparteien-konflikt-und-interessen
-description: "Festsetzung: Mehrparteienkonflikt und Interessenmatrix im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Festsetzung: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Festsetzung: Mehrparteienkonflikt und Interessenmatrix

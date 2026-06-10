@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung und P
 
 ## Zweck und Anwendungsbereich
 
-Rangfragen bestimmen im Grundbuch, wer bei Zwangsversteigerung zuerst befriedigt wird. Dieser Skill klärt Rangordnung, Rangänderungen, Rangrücktrittsvereinbarungen, Löschungsunterlagen und Pfandfreigabe im Rahmen von Immobilientransaktionen.
+Rangfragen bestimmen im Grundbuch, wer bei Zwangsversteigerung zuerst befriedigt wird. Kläre Rangordnung, Rangänderungen, Rangrücktrittsvereinbarungen, Löschungsunterlagen und Pfandfreigabe im Rahmen von Immobilientransaktionen.
 
 Rechtsgrundlagen: §§ 879–882 BGB (Rang der Grundstücksrechte), § 880 BGB (Rangänderung), § 881 BGB (Rangvorbehalt), §§ 1191–1203 BGB (Grundschuld), § 1163 BGB (Eigentümergrundschuld), §§ 19, 27 GBO (Löschung), § 875 BGB (Aufhebung), ZVG (Zwangsversteigerungsgesetz).
 

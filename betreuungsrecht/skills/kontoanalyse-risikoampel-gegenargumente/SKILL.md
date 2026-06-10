@@ -1,6 +1,6 @@
 ---
 name: kontoanalyse-risikoampel-gegenargumente
-description: "Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Betreuungsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
+description: "Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
 ---
 
 # Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien

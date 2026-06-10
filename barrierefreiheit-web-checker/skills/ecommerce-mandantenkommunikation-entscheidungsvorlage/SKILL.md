@@ -1,6 +1,6 @@
 ---
 name: ecommerce-mandantenkommunikation-entscheidungsvorlage
-description: "Ecommerce: Mandantenkommunikation und Entscheidungsvorlage im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Ecommerce: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Ecommerce: Mandantenkommunikation und Entscheidungsvorlage

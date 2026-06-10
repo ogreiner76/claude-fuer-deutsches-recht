@@ -7,7 +7,7 @@ description: "kfz Handel § 434 BGB: fachanwaltlicher Spezial-Skill mit Normenan
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **kfz Handel § 434 BGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **kfz Handel § 434 BGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

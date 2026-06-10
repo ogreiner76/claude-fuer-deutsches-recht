@@ -7,7 +7,7 @@ description: "Open Source gpl: fachanwaltlicher Spezial-Skill mit Normenanker, T
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Open Source gpl** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Open Source gpl** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

@@ -15,7 +15,7 @@ description: "Launch Services Agreement – Risikoverteilung, Cross-Waiver, Forc
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Raumfahrtvertrag mit Startdienstleister: Launch Services Agreement** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Raumfahrtvertrag mit Startdienstleister: Launch Services Agreement** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

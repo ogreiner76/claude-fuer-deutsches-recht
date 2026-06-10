@@ -1,6 +1,6 @@
 ---
 name: vorpruefung-fristen-form-und-zustaendigkeit
-description: "Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg

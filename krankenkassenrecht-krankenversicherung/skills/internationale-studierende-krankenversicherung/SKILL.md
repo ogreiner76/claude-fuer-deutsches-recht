@@ -15,7 +15,7 @@ description: "Krankenversicherungspflicht für ausländische Studierende in Deut
 
 ## Skill-Zweck
 
-Ausländische Studierende in Deutschland müssen sich krankenversichern. Dieser Skill klärt **GKV-Pflichtversicherung, Befreiungsmöglichkeiten, private Alternativen und Nachweispflichten gegenüber der Hochschule**.
+Ausländische Studierende in Deutschland müssen sich krankenversichern. Kläre **GKV-Pflichtversicherung, Befreiungsmöglichkeiten, private Alternativen und Nachweispflichten gegenüber der Hochschule**.
 
 ## Rechtlicher Rahmen
 

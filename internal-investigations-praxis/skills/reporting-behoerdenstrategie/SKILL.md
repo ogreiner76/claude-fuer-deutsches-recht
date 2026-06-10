@@ -19,7 +19,7 @@ Der Abschlussbericht ist das Herzstück jeder Internal Investigation. Er entsche
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert den Abschlussbericht so, dass er belastbar und verwertbar ist, das Unternehmen schützt und die privilegierten Teile von den nicht-privilegierten trennt.
+Strukturiert den Abschlussbericht so, dass er belastbar und verwertbar ist, das Unternehmen schützt und die privilegierten Teile von den nicht-privilegierten trennt.
 
 ## Arbeitsprogramm
 

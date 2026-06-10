@@ -1,6 +1,6 @@
 ---
 name: definition-abschlussprodukt-und-uebergabe
-description: "Definition: Abschlussprodukt und Übergabe im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Definition: Abschlussprodukt und Übergabe."
 ---
 
 # Definition: Abschlussprodukt und Übergabe

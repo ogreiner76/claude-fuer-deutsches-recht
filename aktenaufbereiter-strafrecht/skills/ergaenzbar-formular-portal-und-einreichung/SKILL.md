@@ -1,6 +1,6 @@
 ---
 name: ergaenzbar-formular-portal-und-einreichung
-description: "Ergaenzbar: Formular, Portal und Einreichungslogik im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Ergaenzbar: Formular, Portal und Einreichungslogik."
 ---
 
 # Ergaenzbar: Formular, Portal und Einreichungslogik

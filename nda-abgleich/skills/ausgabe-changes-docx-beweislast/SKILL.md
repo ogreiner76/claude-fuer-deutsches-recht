@@ -1,6 +1,6 @@
 ---
 name: ausgabe-changes-docx-beweislast
-description: "Ausgabe: Mandantenkommunikation und Entscheidungsvorlage im Plugin nda abgleich im NDA-Abgleich."
+description: "Ausgabe: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Ausgabe: Mandantenkommunikation und Entscheidungsvorlage

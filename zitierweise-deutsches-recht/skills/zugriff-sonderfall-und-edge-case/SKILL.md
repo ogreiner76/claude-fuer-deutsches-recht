@@ -1,6 +1,6 @@
 ---
 name: zugriff-sonderfall-und-edge-case
-description: "Zugriff: Sonderfall und Edge-Case-Prüfung im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Zugriff: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Zugriff: Sonderfall und Edge-Case-Prüfung

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Dikasterien für Lehre, Gottesdienst, Klerus, Laien, Orden und Ehe**.
+Prüft insbesondere: **Dikasterien für Lehre, Gottesdienst, Klerus, Laien, Orden und Ehe**.
 
 **CIC-/Normanker:** can. 360-361; Praedicate Evangelium live prüfen.
 

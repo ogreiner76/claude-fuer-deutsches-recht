@@ -19,7 +19,7 @@ Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Ei
 
 ## Spezialwissen
 
-Dieser Skill formuliert die datenschutzrechtlich erforderliche Einwilligungsklausel für die Verarbeitung von Sprachdaten im Rahmen des Transkriptionsservices. Da zum Zeitpunkt der Erstanfrage noch kein Mandatsverhältnis besteht, ist die Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO die maßgebliche Rechtsgrundlage.
+Formuliert die datenschutzrechtlich erforderliche Einwilligungsklausel für die Verarbeitung von Sprachdaten im Rahmen des Transkriptionsservices. Da zum Zeitpunkt der Erstanfrage noch kein Mandatsverhältnis besteht, ist die Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO die maßgebliche Rechtsgrundlage.
 
 ## Triage zu Beginn
 1. Liegt die Anfrage vor Mandatsannahme (Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO noetig) oder nach Mandatserstellung (Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage)?

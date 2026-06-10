@@ -1,6 +1,6 @@
 ---
 name: insolvenzlage-red-team-und-qualitaetskontrolle
-description: "Insolvenzlage: Red-Team und Qualitätskontrolle im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Insolvenzlage: Red-Team und Qualitätskontrolle."
 ---
 
 # Insolvenzlage: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: urteils-erstpruefung-rollenklaerung
-description: "Urteils: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Urteilsbauer Relationsmacher: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
+description: "Urteils: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
 ---
 
 # Urteils: Erstprüfung, Rollenklärung und Mandatsziel

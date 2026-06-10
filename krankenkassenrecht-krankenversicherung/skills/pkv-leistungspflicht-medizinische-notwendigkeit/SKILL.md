@@ -15,7 +15,7 @@ description: "Leistungspflicht in der PKV nach § 192 VVG und MB/KK: medizinisch
 
 ## Skill-Zweck
 
-In der PKV schuldet der Versicherer Leistungen für **medizinisch notwendige Heilbehandlungen**. Dieser Skill analysiert den Leistungsanspruch, die Prüfung der medizinischen Notwendigkeit und typische Streitfälle.
+In der PKV schuldet der Versicherer Leistungen für **medizinisch notwendige Heilbehandlungen**. Analysiere den Leistungsanspruch, die Prüfung der medizinischen Notwendigkeit und typische Streitfälle.
 
 ## Rechtlicher Rahmen
 

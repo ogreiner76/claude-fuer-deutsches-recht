@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Mitarbeit an Leitungsgewalt, Beauftragung und Grenzen**.
+Prüft insbesondere: **Mitarbeit an Leitungsgewalt, Beauftragung und Grenzen**.
 
 **CIC-/Normanker:** can. 129, 228, 517 §2.
 

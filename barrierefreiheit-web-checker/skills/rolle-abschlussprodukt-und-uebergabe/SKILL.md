@@ -1,6 +1,6 @@
 ---
 name: rolle-abschlussprodukt-und-uebergabe
-description: "Rolle: Abschlussprodukt und Übergabe im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Rolle: Abschlussprodukt und Übergabe."
 ---
 
 # Rolle: Abschlussprodukt und Übergabe

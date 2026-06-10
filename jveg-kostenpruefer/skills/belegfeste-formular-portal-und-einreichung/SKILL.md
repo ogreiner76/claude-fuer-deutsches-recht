@@ -1,6 +1,6 @@
 ---
 name: belegfeste-formular-portal-und-einreichung
-description: "Belegfeste: Formular, Portal und Einreichungslogik im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Belegfeste: Formular, Portal und Einreichungslogik."
 ---
 
 # Belegfeste: Formular, Portal und Einreichungslogik

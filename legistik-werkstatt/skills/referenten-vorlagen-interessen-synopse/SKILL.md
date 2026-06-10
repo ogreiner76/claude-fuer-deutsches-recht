@@ -1,6 +1,6 @@
 ---
 name: referenten-vorlagen-interessen-synopse
-description: "Referenten: Zahlen, Schwellenwerte und Berechnung im Plugin legistik werkstatt im Legistik."
+description: "Referenten: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Referenten: Zahlen, Schwellenwerte und Berechnung

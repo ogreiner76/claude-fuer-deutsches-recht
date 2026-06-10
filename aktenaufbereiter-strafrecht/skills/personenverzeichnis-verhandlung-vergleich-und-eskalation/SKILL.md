@@ -1,6 +1,6 @@
 ---
 name: personenverzeichnis-verhandlung-vergleich-und-eskalation
-description: "Personenverzeichnis: Verhandlung, Vergleich und Eskalation im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Personenverzeichnis: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Personenverzeichnis: Verhandlung, Vergleich und Eskalation

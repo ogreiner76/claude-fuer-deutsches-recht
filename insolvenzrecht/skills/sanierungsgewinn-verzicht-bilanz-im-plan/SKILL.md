@@ -25,7 +25,7 @@ description: "Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und
 
 Der Forderungsverzicht ist die typische Sanierungsmassnahme im Insolvenzplan und im StaRUG-Plan. Bilanziell loest er einen **Ertrag** aus — den **Sanierungsertrag** —, dessen steuerliche Behandlung ueber Paragraph 3a EStG laeuft. Aber bilanziell, also handelsrechtlich und in der Steuerbilanz, ist die Erfassung nicht in jedem Fall trivial: Werthaltigkeit der Forderung, Verzicht mit oder ohne Besserungsabrede, Gesellschafterverzicht versus Drittglaeubigerverzicht — jede Variante hat eigene Buchungsfolgen.
 
-Dieser Skill ordnet die Konstellationen und liefert konkrete Buchungs-Saetze.
+Ordnet die Konstellationen und liefert konkrete Buchungs-Saetze.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

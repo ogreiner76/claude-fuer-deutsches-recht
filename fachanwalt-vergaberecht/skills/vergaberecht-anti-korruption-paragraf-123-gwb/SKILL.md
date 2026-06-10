@@ -7,7 +7,7 @@ description: "Vergaberecht Anti Korruption § 123 GWB: fachanwaltlicher Spezial-
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Vergaberecht Anti Korruption § 123 GWB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Vergaberecht Anti Korruption § 123 GWB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

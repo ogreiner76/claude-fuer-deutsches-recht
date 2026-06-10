@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-formular-portal-und-einreichung
-description: "Sachverhalt: Formular, Portal und Einreichungslogik im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Sachverhalt: Formular, Portal und Einreichungslogik."
 ---
 
 # Sachverhalt: Formular, Portal und Einreichungslogik

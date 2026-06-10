@@ -15,7 +15,7 @@ description: "Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzge
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt **Mehrparteienkonstellationen im gewerblichen Rechtsschutz** – Fälle, in denen mehr als zwei Parteien in IP-Streitigkeiten involviert sind oder in denen Interessenkonflikte zwischen Beteiligten entstehen. Diese Konstellationen stellen besondere Anforderungen an die anwaltliche Beratung.
+Behandelt **Mehrparteienkonstellationen im gewerblichen Rechtsschutz** – Fälle, in denen mehr als zwei Parteien in IP-Streitigkeiten involviert sind oder in denen Interessenkonflikte zwischen Beteiligten entstehen. Diese Konstellationen stellen besondere Anforderungen an die anwaltliche Beratung.
 
 Mandatsbezug: Lizenzgeber und Lizenznehmer streiten über Verletzung durch Dritte; Konzernmutter und -tochter haben überkreuzende IP-Rechte; Mandant ist Abnehmer eines Verletzers und wird in Klage hineingezogen.
 

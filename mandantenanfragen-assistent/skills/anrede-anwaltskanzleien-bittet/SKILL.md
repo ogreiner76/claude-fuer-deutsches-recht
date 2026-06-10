@@ -1,6 +1,6 @@
 ---
 name: anrede-anwaltskanzleien-bittet
-description: "Anrede: Verhandlung, Vergleich und Eskalation im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Anrede: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Anrede: Verhandlung, Vergleich und Eskalation

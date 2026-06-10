@@ -15,7 +15,7 @@ description: "Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schwe
 
 ## Zweck
 
-Dieser Skill unterstützt Strafverteidiger bei der Vorbereitung und Durchführung des ersten
+Unterstützt Strafverteidiger bei der Vorbereitung und Durchführung des ersten
 Mandantentermins sowie der unmittelbaren Folgeschritte. Er deckt ab: Pflichtverteidigerbestellung
 (§ 140 StPO), Akteneinsicht (§ 147 StPO), Belehrung des Mandanten über das Schweigerecht
 (§ 136 StPO), Vorbereitung von Beweisanträgen und einen Überblick über den Ablauf der

@@ -1,6 +1,6 @@
 ---
 name: tdddg-fristen-form-und-zustaendigkeit
-description: "Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg: Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin datenschutzrecht."
+description: "Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg: Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -14,7 +14,7 @@ description: "Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg: Tdddg: Fristen
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin datenschutzrecht.
+**Fokus:** Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg.
 
 ## Spezialwissen: Tdddg: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.

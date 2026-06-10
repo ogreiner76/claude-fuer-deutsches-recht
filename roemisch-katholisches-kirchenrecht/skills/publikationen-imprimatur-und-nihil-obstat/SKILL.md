@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Veröffentlichung, Genehmigungen und Medienkommunikation**.
+Prüft insbesondere: **Veröffentlichung, Genehmigungen und Medienkommunikation**.
 
 **CIC-/Normanker:** can. 822-832.
 

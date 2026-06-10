@@ -19,7 +19,7 @@ Interessenkonflikte von Mitarbeitern und Organmitgliedern sind einer der häufig
 
 ## Ziel dieses Skills
 
-Dieser Skill identifiziert und untersucht Interessenkonflikte, leitet Remediation-Maßnahmen ab und klärt die haftungsrechtlichen Konsequenzen.
+Identifiziere und untersucht Interessenkonflikte, leitet Remediation-Maßnahmen ab und klärt die haftungsrechtlichen Konsequenzen.
 
 ## Arbeitsprogramm
 

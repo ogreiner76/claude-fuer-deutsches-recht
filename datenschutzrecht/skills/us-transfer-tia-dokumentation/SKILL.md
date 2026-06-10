@@ -7,7 +7,7 @@ description: "US-Drittlandtransfer nach Art. 44 ff. DSGVO dokumentieren: EU-US D
 
 ## Zweck
 
-Dieser Skill erstellt ein belastbares Dokumentationspaket für personenbezogene Datenübermittlungen in die USA. Er ist für Kanzleien, Datenschutzbeauftragte und Rechtsabteilungen gedacht, die gegenüber einer deutschen Aufsichtsbehörde zeigen müssen: Transfer identifiziert, Rechtsgrundlage gewählt, DPF-Listing geprüft, Alternativpfad SCC/BCR/TIA sauber dokumentiert, technische und organisatorische Maßnahmen bewertet, Wiedervorlage gesetzt.
+Erstellt ein belastbares Dokumentationspaket für personenbezogene Datenübermittlungen in die USA. Er ist für Kanzleien, Datenschutzbeauftragte und Rechtsabteilungen gedacht, die gegenüber einer deutschen Aufsichtsbehörde zeigen müssen: Transfer identifiziert, Rechtsgrundlage gewählt, DPF-Listing geprüft, Alternativpfad SCC/BCR/TIA sauber dokumentiert, technische und organisatorische Maßnahmen bewertet, Wiedervorlage gesetzt.
 
 **Wichtige Grundregel:** Safe Harbor und EU-US Privacy Shield sind keine aktuelle Transfergrundlage. Sie werden nur als historische Einordnung oder Altlastenprüfung dokumentiert. Aktuelle Pfade sind insbesondere Art. 45 DSGVO über den EU-US Data Privacy Framework-Angemessenheitsbeschluss bei teilnehmenden US-Organisationen, Art. 46 DSGVO mit Standardvertragsklauseln/BCR plus TIA oder im Ausnahmefall Art. 49 DSGVO.
 

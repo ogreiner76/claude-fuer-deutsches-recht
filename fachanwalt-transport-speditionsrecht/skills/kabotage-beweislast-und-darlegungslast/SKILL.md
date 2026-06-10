@@ -1,6 +1,6 @@
 ---
 name: kabotage-beweislast-und-darlegungslast
-description: "Kabotage: Beweislast, Darlegungslast und Substantiierung: Kabotage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt transport speditionsrecht."
+description: "Kabotage: Beweislast, Darlegungslast und Substantiierung: Kabotage: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Kabotage: Beweislast, Darlegungslast und Substantiierung
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Kabotage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt transport speditionsrecht.
+**Fokus:** Kabotage: Beweislast, Darlegungslast und Substantiierung.
 
 ## Spezialwissen: Kabotage: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

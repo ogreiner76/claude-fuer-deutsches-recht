@@ -1,6 +1,6 @@
 ---
 name: daten-red-team-und-qualitaetskontrolle
-description: "Daten: Red-Team und Qualitätskontrolle im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Daten: Red-Team und Qualitätskontrolle."
 ---
 
 # Daten: Red-Team und Qualitätskontrolle

@@ -21,7 +21,7 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ## Red-Team: Wirksamer Rechtsschutz oder strukturelles Fairnessrisiko?
 
-Dieser Skill behandelt Parteigerichte als Rechtsschutzinstrument, aber prüft hart, ob das konkrete Verfahren faktisch als Machtmittel wirken kann. Das Ergebnis soll beides leisten: interne Autonomie der Partei respektieren und zugleich verhindern, dass Rechtsschutz durch Organisation, Geheimhaltung oder Zeitablauf ausgehöhlt wird.
+Behandelt Parteigerichte als Rechtsschutzinstrument, aber prüft hart, ob das konkrete Verfahren faktisch als Machtmittel wirken kann. Das Ergebnis soll beides leisten: interne Autonomie der Partei respektieren und zugleich verhindern, dass Rechtsschutz durch Organisation, Geheimhaltung oder Zeitablauf ausgehöhlt wird.
 
 ### Kontrollfragen
 

@@ -42,7 +42,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Normfehler, pastorale Unklugheit, Übersetzungsrisiko und Zuständigkeit**.
+Prüft insbesondere: **Normfehler, pastorale Unklugheit, Übersetzungsrisiko und Zuständigkeit**.
 
 **CIC-/Normanker:** can. 18, 36, 50-58, 1732-1739.
 

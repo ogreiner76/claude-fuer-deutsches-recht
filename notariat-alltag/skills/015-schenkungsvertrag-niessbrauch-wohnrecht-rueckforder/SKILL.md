@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, 
 
 ## Zweck und Anwendungsbereich
 
-Die vorweggenommene Erbfolge durch Schenkung unter Lebenden ist das häufigste Instrument der Nachfolgeplanung. Dieser Skill führt durch Formzwang, Schenkungsinhalt, dingliche Absicherung des Schenkers und typische Schutzklauseln.
+Die vorweggenommene Erbfolge durch Schenkung unter Lebenden ist das häufigste Instrument der Nachfolgeplanung. Führe durch Formzwang, Schenkungsinhalt, dingliche Absicherung des Schenkers und typische Schutzklauseln.
 
 Rechtsgrundlagen: § 516 BGB (Schenkung), §§ 518–519 BGB (Form, Heilung), § 528 BGB (Rückforderung wegen Verarmung), § 530 BGB (Widerruf wegen groben Undanks), §§ 1030–1089 BGB (Nießbrauch), §§ 1090–1093 BGB (beschränkte persönliche Dienstbarkeit, Wohnungsrecht), § 311b BGB (Formzwang Grundstück), ErbStG (Erbschaft- und Schenkungsteuer), §§ 2325–2328 BGB (Pflichtteilsergänzung).
 

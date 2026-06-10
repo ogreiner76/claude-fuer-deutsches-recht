@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertret
 
 ## Zweck und Anwendungsbereich
 
-Vertretungsfragen sind in jedem notariellen Vorgang präsent. Dieser Skill strukturiert die Prüfung der Vollmacht, die Rechtsfolgen vollmachtlosen Handelns und die Möglichkeiten der Nachgenehmigung. Besonderer Fokus liegt auf der Formakzessorietät der Vollmacht und der Schwebeunwirksamkeit.
+Vertretungsfragen sind in jedem notariellen Vorgang präsent. Strukturiere die Prüfung der Vollmacht, die Rechtsfolgen vollmachtlosen Handelns und die Möglichkeiten der Nachgenehmigung. Besonderer Fokus liegt auf der Formakzessorietät der Vollmacht und der Schwebeunwirksamkeit.
 
 Rechtsgrundlagen: §§ 164–181 BGB (Vertretung), § 167 BGB (Vollmacht), § 168 BGB (Erlöschen), §§ 177–180 BGB (vollmachtloser Vertreter), § 182 BGB (Genehmigung), § 181 BGB (Insichgeschäft), § 12 BeurkG (Vollmacht im Beurkundungsverfahren), § 172 BGB (Vollmachtsurkunde), §§ 1629, 1643, 1819 BGB (gesetzliche Vertretung).
 

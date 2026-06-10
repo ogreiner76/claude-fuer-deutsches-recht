@@ -1,6 +1,6 @@
 ---
 name: autonomous-driving-interessen-grossprojekt
-description: "Autonomous: Compliance-Dokumentation und Aktenvermerk im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Autonomous: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Autonomous: Compliance-Dokumentation und Aktenvermerk

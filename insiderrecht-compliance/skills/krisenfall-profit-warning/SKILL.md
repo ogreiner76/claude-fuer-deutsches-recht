@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill steuert den Compliance-Prozess von der internen Erkenntnis einer Gewinnverfehlung
+Steuert den Compliance-Prozess von der internen Erkenntnis einer Gewinnverfehlung
 bis zur ordnungsgemäßen Ad-hoc-Veröffentlichung und der Konsensus-Kommunikation mit Analysten.
 
 ## Arbeitsprogramm

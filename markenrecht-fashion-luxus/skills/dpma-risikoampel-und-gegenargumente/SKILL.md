@@ -1,6 +1,6 @@
 ---
 name: dpma-risikoampel-und-gegenargumente
-description: "Dpma: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "Dpma: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Dpma: Risikoampel, Gegenargumente und Verteidigungslinien

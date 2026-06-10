@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Aufnahme, Gelübde, Austritt, Exklaustration und Leitung**.
+Prüft insbesondere: **Aufnahme, Gelübde, Austritt, Exklaustration und Leitung**.
 
 **CIC-/Normanker:** can. 573-746.
 

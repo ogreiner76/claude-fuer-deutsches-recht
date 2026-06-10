@@ -1,6 +1,6 @@
 ---
 name: verteidigung-wiedereinsetzung-zeugenstrategie
-description: "Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin strafbefehl verteidiger im Strafbefehl Verteidiger."
+description: "Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -14,7 +14,7 @@ description: "Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im P
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Konkreter Gegenstand:** Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin strafbefehl verteidiger..
+- **Konkreter Gegenstand:** Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 - **Normen-/Verfahrensanker:** StPO §§ 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen.
 - **Entscheidende Weiche:** Tat, Beweis, Rechtsfolge, Frist, Mandantenziel und Kostenrisiko so trennen, dass sofort klar wird: Einspruch voll, beschränkt oder Rücknahme/Deal.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Sakramentengemeinschaft, Notlagen und ökumenische Sensibilität**.
+Prüft insbesondere: **Sakramentengemeinschaft, Notlagen und ökumenische Sensibilität**.
 
 **CIC-/Normanker:** can. 844, 755.
 

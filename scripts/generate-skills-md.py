@@ -17,6 +17,7 @@ Idempotent: schreibt SKILLS.md neu. Liest Version aus marketplace.json.
 from __future__ import annotations
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -27,6 +28,19 @@ GH_BLOB = f"https://github.com/{GH_OWNER}/{GH_REPO}/blob/main"
 GH_RAW = f"https://raw.githubusercontent.com/{GH_OWNER}/{GH_REPO}/main"
 GH_RELEASE = f"https://github.com/{GH_OWNER}/{GH_REPO}/releases/latest/download"
 SKILLS_INDEX_DIR = REPO_ROOT / "skills-index"
+
+
+def clean_description(desc: str) -> str:
+    """Entfernt alte Generator-/Konsolidierungsfloskeln aus Tabellenbeschreibungen."""
+    desc = re.sub(
+        r"\s+[—-]\s*Arbeitskontext:\s*[^.]+,\s*Schwerpunkt\s+[^.]+\.?",
+        "",
+        desc,
+    )
+    desc = re.sub(r"\s+im Plugin\s+[^.:\"`|]+(?=[:.])", "", desc)
+    desc = re.sub(r"\s+im Plugin\s+[^\"`|]+$", "", desc)
+    desc = re.sub(r"\s{2,}", " ", desc)
+    return desc.strip()
 
 
 def read_description(skill_md: Path) -> str:
@@ -55,7 +69,8 @@ def read_description(skill_md: Path) -> str:
         return ""
     if desc.startswith('"') and desc.endswith('"'):
         desc = desc[1:-1]
-    desc = desc.replace("\n", " ").replace("|", "\\|").strip()
+    desc = clean_description(desc.replace("\n", " ").strip())
+    desc = desc.replace("|", "\\|").strip()
     if len(desc) > 280:
         desc = desc[:277].rstrip() + "..."
     return desc

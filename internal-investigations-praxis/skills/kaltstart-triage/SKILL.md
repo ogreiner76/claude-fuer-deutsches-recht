@@ -21,7 +21,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Ziel
 
-Dieser Skill führt nicht schematisch durch Kaltstart Internal Investigation, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Erzwinge eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
 
 ## Arbeitsprogramm
 

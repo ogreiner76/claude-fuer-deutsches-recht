@@ -1,6 +1,6 @@
 ---
 name: bora-brak-dsgvo
-description: "Bora: Zahlen, Schwellenwerte und Berechnung im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Bora: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Bora: Zahlen, Schwellenwerte und Berechnung

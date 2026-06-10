@@ -1,6 +1,6 @@
 ---
 name: pflvg-risikoampel-und-gegenargumente
-description: "Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien: Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verkehrsrecht."
+description: "Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien: Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -14,7 +14,7 @@ description: "Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien: Pflvg:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verkehrsrecht.
+**Fokus:** Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Spezialwissen: Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.

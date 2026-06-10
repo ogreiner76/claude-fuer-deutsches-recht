@@ -1,6 +1,6 @@
 ---
 name: bittet-internationaler-bezug-und-schnittstellen
-description: "Bittet: Internationaler Bezug und Schnittstellen im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Bittet: Internationaler Bezug und Schnittstellen."
 ---
 
 # Bittet: Internationaler Bezug und Schnittstellen

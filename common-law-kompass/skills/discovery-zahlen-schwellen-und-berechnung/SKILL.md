@@ -1,6 +1,6 @@
 ---
 name: discovery-zahlen-schwellen-und-berechnung
-description: "Discovery: Zahlen, Schwellenwerte und Berechnung im Plugin common law kompass im Common Law Kompass."
+description: "Discovery: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Discovery: Zahlen, Schwellenwerte und Berechnung

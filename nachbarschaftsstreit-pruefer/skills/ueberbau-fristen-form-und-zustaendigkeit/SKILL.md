@@ -1,6 +1,6 @@
 ---
 name: ueberbau-fristen-form-und-zustaendigkeit
-description: "Ueberbau: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Ueberbau: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Ueberbau: Fristen, Form, Zuständigkeit und Rechtsweg

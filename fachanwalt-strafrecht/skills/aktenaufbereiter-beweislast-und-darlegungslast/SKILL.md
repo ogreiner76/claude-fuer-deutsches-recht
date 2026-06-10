@@ -1,6 +1,6 @@
 ---
 name: aktenaufbereiter-beweislast-und-darlegungslast
-description: "Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung: Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt strafrecht."
+description: "Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung: Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
@@ -28,7 +28,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt strafrecht.
+**Fokus:** Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung.
 
 ## Spezialwissen: Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** StPO, Art. 6, EMRK.

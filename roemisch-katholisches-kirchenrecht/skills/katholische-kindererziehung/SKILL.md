@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Taufe, Schule, Mischeheversprechen, Elternrechte und Konflikte**.
+Prüft insbesondere: **Taufe, Schule, Mischeheversprechen, Elternrechte und Konflikte**.
 
 **CIC-/Normanker:** can. 226, 793-795, 867-868, 1125.
 

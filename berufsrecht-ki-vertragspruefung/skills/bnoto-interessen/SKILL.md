@@ -1,6 +1,6 @@
 ---
 name: bnoto-interessen
-description: "Bnoto: Mehrparteienkonflikt und Interessenmatrix im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
+description: "Bnoto: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
 ---
 
 # Bnoto: Mehrparteienkonflikt und Interessenmatrix

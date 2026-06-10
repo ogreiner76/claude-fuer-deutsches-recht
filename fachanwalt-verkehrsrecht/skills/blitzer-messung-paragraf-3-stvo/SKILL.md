@@ -7,7 +7,7 @@ description: "Blitzer Messung § 3 StVO: fachanwaltlicher Spezial-Skill mit Norm
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Blitzer Messung § 3 StVO** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Blitzer Messung § 3 StVO** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

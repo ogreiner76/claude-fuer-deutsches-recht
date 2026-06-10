@@ -1,6 +1,6 @@
 ---
 name: stpo-dokumentenmatrix-und-lueckenliste
-description: "StPO: Dokumentenmatrix, Lückenliste und Nachforderung: StPO: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt strafrecht."
+description: "StPO: Dokumentenmatrix, Lückenliste und Nachforderung: StPO: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # StPO: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -14,7 +14,7 @@ description: "StPO: Dokumentenmatrix, Lückenliste und Nachforderung: StPO: Doku
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** StPO: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt strafrecht.
+**Fokus:** StPO: Dokumentenmatrix, Lückenliste und Nachforderung.
 
 ## Spezialwissen: StPO: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** StPO.

@@ -1,6 +1,6 @@
 ---
 name: verkehrsplanung-verfahren-vertragsmodell
-description: "Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg

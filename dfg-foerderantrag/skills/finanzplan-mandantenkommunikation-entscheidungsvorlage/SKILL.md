@@ -1,6 +1,6 @@
 ---
 name: finanzplan-mandantenkommunikation-entscheidungsvorlage
-description: "Finanzplan: Mandantenkommunikation und Entscheidungsvorlage im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Finanzplan: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Finanzplan: Mandantenkommunikation und Entscheidungsvorlage

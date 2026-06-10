@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-berufsrechtskonform-verhandlung-vergleich
-description: "Berufsrechtskonform: Verhandlung, Vergleich und Eskalation im Plugin Email Umformulierer Berufsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahr..."
+description: "Berufsrechtskonform: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahr..."
 ---
 
 # Berufsrechtskonform: Verhandlung, Vergleich und Eskalation

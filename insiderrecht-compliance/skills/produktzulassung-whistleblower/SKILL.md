@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill identifiziert insiderrelevante Zeitpunkte im Zulassungsverfahren, prüft
+Identifiziere insiderrelevante Zeitpunkte im Zulassungsverfahren, prüft
 Kursrelevanz von Zwischenschritten und steuert Timing und Inhalt der Ad-hoc-Meldungen.
 
 ## Arbeitsprogramm

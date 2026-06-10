@@ -7,7 +7,7 @@ description: "Filmrecht § 89 UrhG: fachanwaltlicher Spezial-Skill mit Normenank
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Filmrecht § 89 UrhG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Filmrecht § 89 UrhG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

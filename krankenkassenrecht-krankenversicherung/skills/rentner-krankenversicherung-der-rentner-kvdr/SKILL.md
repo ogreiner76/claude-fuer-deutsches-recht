@@ -15,7 +15,7 @@ description: "Pflichtversicherung in der KVdR (§ 5 Abs. 1 Nr. 11 SGB V): Vorver
 
 ## Skill-Zweck
 
-Die Krankenversicherung der Rentner (KVdR) regelt die GKV-Pflichtmitgliedschaft im Rentenalter. Dieser Skill klärt **Vorversicherungszeit, Beitragsbemessung, Versorgungsbezüge und häufige Streitfragen**.
+Die Krankenversicherung der Rentner (KVdR) regelt die GKV-Pflichtmitgliedschaft im Rentenalter. Kläre **Vorversicherungszeit, Beitragsbemessung, Versorgungsbezüge und häufige Streitfragen**.
 
 ## Rechtlicher Rahmen
 

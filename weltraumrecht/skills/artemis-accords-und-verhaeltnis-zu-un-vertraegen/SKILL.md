@@ -15,7 +15,7 @@ description: "Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/L
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet **Artemis Accords und Verhältnis zu UN-Verträgen** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite **Artemis Accords und Verhältnis zu UN-Verträgen** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Kontext
 

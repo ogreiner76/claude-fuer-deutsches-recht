@@ -1,6 +1,6 @@
 ---
 name: syndikus-schriftsatz-brief-und-memo-bausteine
-description: "Syndikus: Schriftsatz-, Brief- und Memo-Bausteine im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Syndikus: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Syndikus: Schriftsatz-, Brief- und Memo-Bausteine

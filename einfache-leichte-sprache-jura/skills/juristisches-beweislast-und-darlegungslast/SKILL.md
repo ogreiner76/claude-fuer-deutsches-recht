@@ -1,6 +1,6 @@
 ---
 name: juristisches-beweislast-und-darlegungslast
-description: "Juristisches: Beweislast, Darlegungslast und Substantiierung im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Juristisches: Beweislast, Darlegungslast und Substantiierung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Juristisches: Beweislast, Darlegungslast und Substantiierung

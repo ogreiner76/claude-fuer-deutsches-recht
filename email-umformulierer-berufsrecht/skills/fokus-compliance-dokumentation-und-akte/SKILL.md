@@ -1,6 +1,6 @@
 ---
 name: fokus-compliance-dokumentation-und-akte
-description: "Fokus: Compliance-Dokumentation und Aktenvermerk im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Fokus: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Fokus: Compliance-Dokumentation und Aktenvermerk

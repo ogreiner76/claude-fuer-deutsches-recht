@@ -1,6 +1,6 @@
 ---
 name: klage-fristennotiz-vorfall-phish-banking
-description: "Klage: Fristennotiz und nächster Schritt im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Klage: Fristennotiz und nächster Schritt."
 ---
 
 # Klage: Fristennotiz und nächster Schritt

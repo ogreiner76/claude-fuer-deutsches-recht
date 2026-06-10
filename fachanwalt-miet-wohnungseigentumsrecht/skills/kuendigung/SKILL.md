@@ -8,7 +8,7 @@ description: "Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Künd
 
 ## Arbeitsbereich
 
-Dieser Skill ist der Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klärt zunächst, ob es sich um ein Mietverhältnis (BGB §§ 535 ff.) oder um eine WEG-Sache (WEG §§ 9a ff., 44 ff.) handelt, und routet danach in die tragende Prüfungslinie. Im Mittelpunkt stehen Kündigung (§§ 543, 569, 573 BGB), Mieterhöhung mit Kappungsgrenze (§§ 558 ff. BGB), Mietminderung wegen Schimmel und sonstiger Mängel (§§ 535 Abs. 1 S. 2, 536 BGB) sowie die WEG-Beschlussanfechtungsklage nach §§ 44–46 WEG mit ihrer scharfen Monatsfrist. Die Prüfungslinien bauen aufeinander auf — zuerst die tragende Anspruchsgrundlage identifizieren, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
+Einstieg in den **Fachanwaltsbereich Miet- und Wohnungseigentumsrecht**. Er klärt zunächst, ob es sich um ein Mietverhältnis (BGB §§ 535 ff.) oder um eine WEG-Sache (WEG §§ 9a ff., 44 ff.) handelt, und routet danach in die tragende Prüfungslinie. Im Mittelpunkt stehen Kündigung (§§ 543, 569, 573 BGB), Mieterhöhung mit Kappungsgrenze (§§ 558 ff. BGB), Mietminderung wegen Schimmel und sonstiger Mängel (§§ 535 Abs. 1 S. 2, 536 BGB) sowie die WEG-Beschlussanfechtungsklage nach §§ 44–46 WEG mit ihrer scharfen Monatsfrist. Die Prüfungslinien bauen aufeinander auf — zuerst die tragende Anspruchsgrundlage identifizieren, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verhandlung-vergleich-und-eskalation
-description: "Einstweilige: Verhandlung, Vergleich und Eskalation: Einstweilige: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verwaltungsrecht."
+description: "Einstweilige: Verhandlung, Vergleich und Eskalation: Einstweilige: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Einstweilige: Verhandlung, Vergleich und Eskalation
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Einstweilige: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verwaltungsrecht.
+**Fokus:** Einstweilige: Verhandlung, Vergleich und Eskalation.
 
 ## Spezialwissen: Einstweilige: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** VwGO, VwVfG.

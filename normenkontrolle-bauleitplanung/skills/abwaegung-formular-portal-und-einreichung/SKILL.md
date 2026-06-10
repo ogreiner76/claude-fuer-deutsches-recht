@@ -1,6 +1,6 @@
 ---
 name: abwaegung-formular-portal-und-einreichung
-description: "Abwaegung: Formular, Portal und Einreichungslogik im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Abwaegung: Formular, Portal und Einreichungslogik."
 ---
 
 # Abwaegung: Formular, Portal und Einreichungslogik

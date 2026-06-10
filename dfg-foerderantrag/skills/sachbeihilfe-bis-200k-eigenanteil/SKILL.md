@@ -1,6 +1,6 @@
 ---
 name: sachbeihilfe-bis-200k-eigenanteil
-description: "Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Sachbeihilfe: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: internationales-tatbestand-beweis-und-belege
-description: "Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage: Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt internationales wirtschaftsrecht."
+description: "Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage: Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt internationales wirtschaftsrecht.
+**Fokus:** Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 
 ## Spezialwissen: Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.

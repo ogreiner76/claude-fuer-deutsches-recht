@@ -1,6 +1,6 @@
 ---
 name: richter-richterlicher-hinweis
-description: "Richter: Zahlen, Schwellenwerte und Berechnung im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Richter: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Richter: Zahlen, Schwellenwerte und Berechnung

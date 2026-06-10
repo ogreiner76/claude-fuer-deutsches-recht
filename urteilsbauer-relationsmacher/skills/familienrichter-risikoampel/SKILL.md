@@ -1,6 +1,6 @@
 ---
 name: familienrichter-risikoampel
-description: "Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Urteilsbauer Relationsmacher: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder..."
+description: "Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder..."
 ---
 
 # Familienrichter: Risikoampel, Gegenargumente und Verteidigungslinien

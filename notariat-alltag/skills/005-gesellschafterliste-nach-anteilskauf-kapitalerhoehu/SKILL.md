@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Gesellschafterliste nach Anteilskauf, Kapitale
 
 ## Zweck und Anwendungsbereich
 
-Die Gesellschafterliste (§ 40 GmbHG) ist die zentrale Publizitätsurkunde der GmbH. Ihre Aktualität entscheidet über Stimmrechte, Gutglaubensschutz bei Anteilserwerb und die Wirksamkeit von Gesellschafterbeschlüssen. Dieser Skill strukturiert Inhalt, Einreichungspflicht und Haftungsrisiken.
+Die Gesellschafterliste (§ 40 GmbHG) ist die zentrale Publizitätsurkunde der GmbH. Ihre Aktualität entscheidet über Stimmrechte, Gutglaubensschutz bei Anteilserwerb und die Wirksamkeit von Gesellschafterbeschlüssen. Strukturiere Inhalt, Einreichungspflicht und Haftungsrisiken.
 
 Rechtsgrundlagen: § 16 GmbHG (Legitimationswirkung), § 40 GmbHG (Listeninhalt und Einreichungspflicht), § 15 GmbHG (Anteilsabtretung, notarielle Form), §§ 55–57 GmbHG (Kapitalerhöhung), § 34 GmbHG (Einziehung), § 12 HGB (elektronische Einreichung), GwG § 20 (Transparenzregister).
 

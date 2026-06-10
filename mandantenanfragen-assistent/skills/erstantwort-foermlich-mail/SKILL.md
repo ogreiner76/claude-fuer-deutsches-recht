@@ -1,6 +1,6 @@
 ---
 name: erstantwort-foermlich-mail
-description: "Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: foermlich-behoerden-gericht-und-registerweg
-description: "Foermlich: Behörden-, Gerichts- oder Registerweg im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Foermlich: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Foermlich: Behörden-, Gerichts- oder Registerweg

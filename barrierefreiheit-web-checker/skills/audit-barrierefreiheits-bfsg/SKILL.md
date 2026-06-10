@@ -1,6 +1,6 @@
 ---
 name: audit-barrierefreiheits-bfsg
-description: "Audit: Schriftsatz-, Brief- und Memo-Bausteine im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Audit: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Audit: Schriftsatz-, Brief- und Memo-Bausteine

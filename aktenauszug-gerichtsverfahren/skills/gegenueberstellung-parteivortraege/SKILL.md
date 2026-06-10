@@ -1,6 +1,6 @@
 ---
 name: gegenueberstellung-parteivortraege
-description: "Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Gegenueberstellung: Zahlen, Schwellenwerte und Berechnung

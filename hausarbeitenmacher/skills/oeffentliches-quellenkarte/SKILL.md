@@ -1,6 +1,6 @@
 ---
 name: oeffentliches-quellenkarte
-description: "Oeffentliches Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert — Arbeitskontext: Jura-Hausarbeiten, Schwerpunkt oeffentliches quellenkarte."
+description: "Oeffentliches Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert"
 ---
 
 # Oeffentliches Quellenkarte

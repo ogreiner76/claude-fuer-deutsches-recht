@@ -1,6 +1,6 @@
 ---
 name: 021-roemisches-sachenrecht
-description: "Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext im Römisches Recht: Dieser Skill bearbeitet Römisches Sachenrecht im mittelalterlichen Lehnskontext im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt,..."
+description: "Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext im Römisches Recht: Bearbeite Römisches Sachenrecht im mittelalterlichen Lehnskontext im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt,..."
 ---
 
 # Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext

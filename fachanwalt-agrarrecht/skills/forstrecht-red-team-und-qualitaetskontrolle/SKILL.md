@@ -1,6 +1,6 @@
 ---
 name: forstrecht-red-team-und-qualitaetskontrolle
-description: "Forstrecht: Red-Team und Qualitätskontrolle: Forstrecht: Red-Team und Qualitätskontrolle im Plugin fachanwalt agrarrecht."
+description: "Forstrecht: Red-Team und Qualitätskontrolle: Forstrecht: Red-Team und Qualitätskontrolle."
 ---
 
 # Forstrecht: Red-Team und Qualitätskontrolle
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Forstrecht: Red-Team und Qualitätskontrolle im Plugin fachanwalt agrarrecht.
+**Fokus:** Forstrecht: Red-Team und Qualitätskontrolle.
 
 ## Spezialwissen: Forstrecht: Red-Team und Qualitätskontrolle
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

@@ -1,6 +1,6 @@
 ---
 name: setzt-schriftsatz-brief-und-memo-bausteine
-description: "Setzt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin nda abgleich im NDA-Abgleich."
+description: "Setzt: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Setzt: Schriftsatz-, Brief- und Memo-Bausteine

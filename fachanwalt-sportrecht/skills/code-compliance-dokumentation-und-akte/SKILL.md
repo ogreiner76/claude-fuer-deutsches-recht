@@ -1,6 +1,6 @@
 ---
 name: code-compliance-dokumentation-und-akte
-description: "Code: Compliance-Dokumentation und Aktenvermerk: Code: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt sportrecht."
+description: "Code: Compliance-Dokumentation und Aktenvermerk: Code: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Code: Compliance-Dokumentation und Aktenvermerk
@@ -28,7 +28,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Code: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt sportrecht.
+**Fokus:** Code: Compliance-Dokumentation und Aktenvermerk.
 
 ## Spezialwissen: Code: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

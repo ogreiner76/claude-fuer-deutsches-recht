@@ -1,6 +1,6 @@
 ---
 name: fristennotiz-naechster-ueberbau-akten
-description: "Pruefer: Fristennotiz und nächster Schritt im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Pruefer: Fristennotiz und nächster Schritt."
 ---
 
 # Pruefer: Fristennotiz und nächster Schritt

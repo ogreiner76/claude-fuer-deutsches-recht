@@ -1,6 +1,6 @@
 ---
 name: governance-compliance-dokumentation-und-akte
-description: "Governance: Compliance-Dokumentation und Aktenvermerk im Plugin ki governance im Ki Governance."
+description: "Governance: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Governance: Compliance-Dokumentation und Aktenvermerk

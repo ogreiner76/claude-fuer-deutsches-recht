@@ -1,6 +1,6 @@
 ---
 name: fifa-dokumentenmatrix-und-lueckenliste
-description: "Fifa: Dokumentenmatrix, Lückenliste und Nachforderung: Fifa: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt sportrecht."
+description: "Fifa: Dokumentenmatrix, Lückenliste und Nachforderung: Fifa: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Fifa: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fifa: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt sportrecht.
+**Fokus:** Fifa: Dokumentenmatrix, Lückenliste und Nachforderung.
 
 ## Spezialwissen: Fifa: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

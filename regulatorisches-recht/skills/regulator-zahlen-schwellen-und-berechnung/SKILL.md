@@ -1,6 +1,6 @@
 ---
 name: regulator-zahlen-schwellen-und-berechnung
-description: "Regulator: Zahlen, Schwellenwerte und Berechnung im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Regulator: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Regulator: Zahlen, Schwellenwerte und Berechnung

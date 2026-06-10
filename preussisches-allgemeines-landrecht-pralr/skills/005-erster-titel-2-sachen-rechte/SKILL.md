@@ -1,6 +1,6 @@
 ---
 name: 005-erster-titel-2-sachen-rechte
-description: "PrALR: Erster Teil Titel 2 Sachen und Rechte im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 2 Sachen und Rechte im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche F..."
+description: "PrALR: Erster Teil Titel 2 Sachen und Rechte: Bearbeite den ersten Teil Titel 2 Sachen und Rechte im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche F..."
 ---
 
 # PrALR: Erster Teil Titel 2 Sachen und Rechte

@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill klärt, unter welchen Umständen KI-generierte Prognosen oder Analysen
+Kläre, unter welchen Umständen KI-generierte Prognosen oder Analysen
 Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolliert werden muss.
 
 ## Arbeitsprogramm

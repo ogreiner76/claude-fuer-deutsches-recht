@@ -1,6 +1,6 @@
 ---
 name: perspektiven-verhandlung-vergleich-eskalation
-description: "Perspektiven: Verhandlung, Vergleich und Eskalation im Plugin Tabellenreview 3D: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch..."
+description: "Perspektiven: Verhandlung, Vergleich und Eskalation: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch..."
 ---
 
 # Perspektiven: Verhandlung, Vergleich und Eskalation

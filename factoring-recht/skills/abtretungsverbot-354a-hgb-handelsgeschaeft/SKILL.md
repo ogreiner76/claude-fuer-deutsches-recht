@@ -28,7 +28,7 @@ Viele Lieferanten- und Werkverträge enthalten in den AGB der großen Abnehmer e
 
 § 354a HGB ist eine **gesetzliche Rettungsnorm für die Forderungsfinanzierung**. Sie macht das vertragliche Abtretungsverbot bei beiderseitigen Handelsgeschäften und bei Forderungen gegen juristische Personen des öffentlichen Rechts **wirkungslos im Verhältnis zwischen Altgläubiger und Neugläubiger** – die Abtretung ist also wirksam. Der Debitor darf aber trotzdem mit befreiender Wirkung an den Altgläubiger zahlen.
 
-Dieser Skill prüft, wann § 354a HGB greift, was er bewirkt und was er gerade nicht heilt.
+Prüfe, wann § 354a HGB greift, was er bewirkt und was er gerade nicht heilt.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

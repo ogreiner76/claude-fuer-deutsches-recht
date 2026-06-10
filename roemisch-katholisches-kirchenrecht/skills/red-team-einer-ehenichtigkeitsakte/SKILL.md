@@ -42,7 +42,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Klagegründe, Beweislücken, Suggestion und Erwartungen**.
+Prüft insbesondere: **Klagegründe, Beweislücken, Suggestion und Erwartungen**.
 
 **CIC-/Normanker:** can. 1095-1107, 1671-1691.
 

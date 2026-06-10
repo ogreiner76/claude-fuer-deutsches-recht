@@ -19,7 +19,7 @@ Der Schutz von Geschäftsgeheimnissen richtet sich nach dem GeschGehG (Gesetz zu
 
 ## Ziel dieses Skills
 
-Dieser Skill identifiziert den Täter, sichert Beweise und leitet zivil- und strafrechtliche Maßnahmen sowie einstweiligen Rechtsschutz ein.
+Identifiziere den Täter, sichert Beweise und leitet zivil- und strafrechtliche Maßnahmen sowie einstweiligen Rechtsschutz ein.
 
 ## Arbeitsprogramm
 

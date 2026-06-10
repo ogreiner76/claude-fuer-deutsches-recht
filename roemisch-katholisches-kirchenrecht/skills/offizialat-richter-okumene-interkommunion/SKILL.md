@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Zuständigkeit, Richter, Kirchenanwalt, Bandverteidiger und Notar**.
+Prüft insbesondere: **Zuständigkeit, Richter, Kirchenanwalt, Bandverteidiger und Notar**.
 
 **CIC-/Normanker:** can. 1400-1500, 1419-1437.
 

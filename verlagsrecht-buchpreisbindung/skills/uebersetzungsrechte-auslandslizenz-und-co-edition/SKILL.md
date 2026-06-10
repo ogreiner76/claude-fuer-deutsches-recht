@@ -15,7 +15,7 @@ description: "Verlagsrecht: Übersetzungsrechte, Auslandslizenzen und Co-Edition
 
 ## Zweck dieses Skills
 
-Dieser Skill behandelt die **Internationalisierung** von Verlagswerken: Vergabe von Übersetzungslizenzen, Auslandslizenzen und Co-Edition-Arrangements. Er klärt die Rechtsgrundlagen, die Lizenzvertragsgestaltung, Honorarfragen für Übersetzer und die Besonderheiten des internationalen Lizenzhandels bei Buchmessen.
+Behandelt die **Internationalisierung** von Verlagswerken: Vergabe von Übersetzungslizenzen, Auslandslizenzen und Co-Edition-Arrangements. Er klärt die Rechtsgrundlagen, die Lizenzvertragsgestaltung, Honorarfragen für Übersetzer und die Besonderheiten des internationalen Lizenzhandels bei Buchmessen.
 
 ## Rechtsgrundlagen
 

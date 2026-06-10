@@ -1,6 +1,6 @@
 ---
 name: land-rechtspfleger-relation
-description: "Land: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Land: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Land: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: telefonische-terminvergabe-interessen
-description: "Telefonische: Compliance-Dokumentation und Aktenvermerk im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Telefonische: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Telefonische: Compliance-Dokumentation und Aktenvermerk

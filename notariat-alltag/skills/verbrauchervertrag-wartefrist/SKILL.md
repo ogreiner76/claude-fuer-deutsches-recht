@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsver
 
 ## Zweck und Anwendungsbereich
 
-Die Verbraucherwartefrist (§ 17 Abs. 2a BeurkG) schützt Verbraucher bei Immobiliengeschäften vor übereilten Entscheidungen. Dieser Skill klärt Anwendungsbereich, Fristberechnung, Entwurfsversandpflicht, Ausnahmen und Haftungsfolgen.
+Die Verbraucherwartefrist (§ 17 Abs. 2a BeurkG) schützt Verbraucher bei Immobiliengeschäften vor übereilten Entscheidungen. Kläre Anwendungsbereich, Fristberechnung, Entwurfsversandpflicht, Ausnahmen und Haftungsfolgen.
 
 Rechtsgrundlagen: § 17 Abs. 2a BeurkG (Verbraucherwartefrist), § 13 BGB (Verbraucher), § 14 BGB (Unternehmer), § 17 BeurkG (allgemeine Belehrungspflicht), § 19 BNotO (Notarhaftung), BGH-Rechtsprechung zu § 17 Abs. 2a BeurkG.
 

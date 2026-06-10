@@ -20,7 +20,7 @@ description: "Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Proz
 
 Verlustvorträge sind in Distressed-Transaktionen kein Buchungsposten, sondern Verhandlungsmasse. § 3a Abs. 3 EStG ordnet ihren zwingenden Verbrauch durch den späteren Sanierungsertrag an. Wer im Due-Diligence-Bericht den Verlustvortrag mit dem Wert aus dem Steuerbescheid übernimmt, ohne den prognostizierten Verbrauch zu modellieren, liefert einen unbrauchbaren DD-Bericht.
 
-Dieser Skill liefert das Modul, das dem Käufer und dem Sell-side-Team zeigt, **wie viel vom Verlustvortrag nach Restrukturierung tatsächlich übrig bleibt**.
+Liefert das Modul, das dem Käufer und dem Sell-side-Team zeigt, **wie viel vom Verlustvortrag nach Restrukturierung tatsächlich übrig bleibt**.
 
 ## Wann dieses Modul hilft
 

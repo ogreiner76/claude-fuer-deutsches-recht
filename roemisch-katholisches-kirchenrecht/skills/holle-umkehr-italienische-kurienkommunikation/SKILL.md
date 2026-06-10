@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Gericht und Hölle klar katholisch erklären ohne Drohrhetorik**.
+Prüft insbesondere: **Gericht und Hölle klar katholisch erklären ohne Drohrhetorik**.
 
 **CIC-/Normanker:** can. 747-755, 959-997.
 

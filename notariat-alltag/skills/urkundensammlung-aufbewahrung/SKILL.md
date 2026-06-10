@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung u
 
 ## Zweck und Anwendungsbereich
 
-Die Urkundensammlung ist das Herzstück des Notararchivs. Dieser Skill klärt die unterschiedlichen Dokumentenarten (Urschrift, Ausfertigung, beglaubigte Abschrift), Aufbewahrungsfristen und Ausfertigungsvoraussetzungen.
+Die Urkundensammlung ist das Herzstück des Notararchivs. Kläre die unterschiedlichen Dokumentenarten (Urschrift, Ausfertigung, beglaubigte Abschrift), Aufbewahrungsfristen und Ausfertigungsvoraussetzungen.
 
 Rechtsgrundlagen: §§ 44–64 BeurkG (Ausfertigungen, Abschriften), § 50 BeurkG (Ausfertigung), § 51 BeurkG (beglaubigte Abschrift), § 52 BeurkG (unbeglaubigte Abschrift), §§ 9–14 DONot (Urkundenrolle, Aufbewahrung), § 18 BNotO (Aktenaufbewahrung), GBO § 29 (Form der Eintragungsunterlagen).
 

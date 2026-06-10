@@ -27,7 +27,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill sichert den gesamten Roadshow-Prozess gegen MAR-Verstöße: von der
+Sichere den gesamten Roadshow-Prozess gegen MAR-Verstöße: von der
 Präsentationsfreigabe bis zum Post-Roadshow-Compliance-Report.
 
 ## Arbeitsprogramm

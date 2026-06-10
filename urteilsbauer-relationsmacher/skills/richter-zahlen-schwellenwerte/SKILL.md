@@ -1,6 +1,6 @@
 ---
 name: richter-zahlen-schwellenwerte
-description: "Richter: Zahlen, Schwellenwerte und Berechnung im Plugin Urteilsbauer Relationsmacher: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kr..."
+description: "Richter: Zahlen, Schwellenwerte und Berechnung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kr..."
 ---
 
 # Richter: Zahlen, Schwellenwerte und Berechnung

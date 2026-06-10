@@ -15,7 +15,7 @@ description: "Verlagsrecht: Plagiat im Manuskript — Rechtliche Grundlagen, Pr�
 
 ## Zweck dieses Skills
 
-Plagiate in Verlagswerken können zum **Vertragsrücktritt, Haftungsansprüchen, Titelrückruf und Reputationsschäden** führen. Dieser Skill klärt die rechtliche Einordnung von Plagiaten, die Prüfpflichten von Autor und Verlag, die vertraglichen Absicherungen und die Reaktionskette bei einem Plagiatsfund.
+Plagiate in Verlagswerken können zum **Vertragsrücktritt, Haftungsansprüchen, Titelrückruf und Reputationsschäden** führen. Kläre die rechtliche Einordnung von Plagiaten, die Prüfpflichten von Autor und Verlag, die vertraglichen Absicherungen und die Reaktionskette bei einem Plagiatsfund.
 
 ## Rechtsgrundlagen
 

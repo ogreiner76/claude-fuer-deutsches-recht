@@ -1,6 +1,6 @@
 ---
 name: adaptiver-dokumentenmatrix-und-lueckenliste
-description: "Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung

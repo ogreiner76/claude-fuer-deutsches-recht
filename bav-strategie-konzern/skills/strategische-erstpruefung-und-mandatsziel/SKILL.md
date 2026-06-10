@@ -1,6 +1,6 @@
 ---
 name: strategische-erstpruefung-und-mandatsziel
-description: "Strategische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Strategische: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Strategische: Erstprüfung, Rollenklärung und Mandatsziel

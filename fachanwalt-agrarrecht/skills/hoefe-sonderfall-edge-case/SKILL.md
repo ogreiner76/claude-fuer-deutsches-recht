@@ -1,6 +1,6 @@
 ---
 name: hoefe-sonderfall-edge-case
-description: "Hoefe: Sonderfall und Edge-Case-Prüfung: Hoefe: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt agrarrecht."
+description: "Hoefe: Sonderfall und Edge-Case-Prüfung: Hoefe: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Hoefe: Sonderfall und Edge-Case-Prüfung
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Hoefe: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt agrarrecht.
+**Fokus:** Hoefe: Sonderfall und Edge-Case-Prüfung.
 
 ## Spezialwissen: Hoefe: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

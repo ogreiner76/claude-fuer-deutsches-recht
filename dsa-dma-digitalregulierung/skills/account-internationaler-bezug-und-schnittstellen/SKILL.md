@@ -1,6 +1,6 @@
 ---
 name: account-internationaler-bezug-und-schnittstellen
-description: "Account: Internationaler Bezug und Schnittstellen im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Account: Internationaler Bezug und Schnittstellen."
 ---
 
 # Account: Internationaler Bezug und Schnittstellen

@@ -15,7 +15,7 @@ description: "Prüft IT-Security-Anforderungen in Einkauf, Ausschreibung und Bes
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill macht IT-Sicherheit beschaffbar: Er übersetzt NIS-2-/BSIG-, BSI-, Datenschutz- und Betriebsanforderungen in Vergabeunterlagen, RFPs, Leistungsverzeichnisse, Bewertungsmatrizen und Vertragsklauseln. Er ist besonders nützlich, wenn Einkauf schnell einen Anbieter beauftragen will und Legal/CISO verhindern müssen, dass Security erst nach dem Signing diskutiert wird.
+Macht IT-Sicherheit beschaffbar: Er übersetzt NIS-2-/BSIG-, BSI-, Datenschutz- und Betriebsanforderungen in Vergabeunterlagen, RFPs, Leistungsverzeichnisse, Bewertungsmatrizen und Vertragsklauseln. Er ist besonders nützlich, wenn Einkauf schnell einen Anbieter beauftragen will und Legal/CISO verhindern müssen, dass Security erst nach dem Signing diskutiert wird.
 
 ## Kaltstartfragen
 

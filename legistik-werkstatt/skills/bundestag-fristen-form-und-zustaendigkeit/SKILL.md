@@ -1,6 +1,6 @@
 ---
 name: bundestag-fristen-form-und-zustaendigkeit
-description: "Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin legistik werkstatt im Legistik."
+description: "Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Bundestag: Fristen, Form, Zuständigkeit und Rechtsweg

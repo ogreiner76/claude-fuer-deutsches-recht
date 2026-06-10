@@ -1,6 +1,6 @@
 ---
 name: 003-zwoelftafelrecht-familiengewalt
-description: "Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft im Römisches Recht: Dieser Skill bearbeitet Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer hande..."
+description: "Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft im Römisches Recht: Bearbeite Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer hande..."
 ---
 
 # Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft

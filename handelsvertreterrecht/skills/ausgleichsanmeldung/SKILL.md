@@ -15,7 +15,7 @@ description: "Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs 
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB.
+Unterstützt bei rechtlichen Fragen rund um Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.

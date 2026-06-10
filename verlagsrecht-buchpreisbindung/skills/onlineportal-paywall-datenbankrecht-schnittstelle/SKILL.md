@@ -15,7 +15,7 @@ description: "Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 
 
 ## Zweck dieses Skills
 
-Verlage betreiben zunehmend **Online-Portale** mit Paywalls und API-Schnittstellen für digitale Fachinhalte. Das **Datenbankrecht** (UrhG §§ 87a–87e) schützt die Investition in die Datenbank, während das Text-und-Data-Mining-Recht (§ 44b UrhG) bestimmte Nutzungen erlaubt. Dieser Skill klärt die vollständige Rechtslage.
+Verlage betreiben zunehmend **Online-Portale** mit Paywalls und API-Schnittstellen für digitale Fachinhalte. Das **Datenbankrecht** (UrhG §§ 87a–87e) schützt die Investition in die Datenbank, während das Text-und-Data-Mining-Recht (§ 44b UrhG) bestimmte Nutzungen erlaubt. Kläre die vollständige Rechtslage.
 
 ## Rechtsgrundlagen
 

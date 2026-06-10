@@ -15,7 +15,7 @@ description: "Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolven
 
 ## Skill-Zweck
 
-Beitragsschulden bei der Krankenversicherung können erheblich sein. In der Insolvenz stellen sich besondere Fragen. Dieser Skill klärt **Rang der Beitragsschulden, Insolvenzverfahren, Restschuldbefreiung und Krankenversicherungsschutz während Insolvenz**.
+Beitragsschulden bei der Krankenversicherung können erheblich sein. In der Insolvenz stellen sich besondere Fragen. Kläre **Rang der Beitragsschulden, Insolvenzverfahren, Restschuldbefreiung und Krankenversicherungsschutz während Insolvenz**.
 
 ## Rechtlicher Rahmen
 

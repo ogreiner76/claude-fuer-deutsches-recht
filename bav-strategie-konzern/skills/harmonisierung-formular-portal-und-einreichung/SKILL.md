@@ -1,6 +1,6 @@
 ---
 name: harmonisierung-formular-portal-und-einreichung
-description: "Harmonisierung: Formular, Portal und Einreichungslogik im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Harmonisierung: Formular, Portal und Einreichungslogik."
 ---
 
 # Harmonisierung: Formular, Portal und Einreichungslogik

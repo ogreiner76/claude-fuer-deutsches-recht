@@ -1,6 +1,6 @@
 ---
 name: 006-etruskische-rechtsvorformen
-description: "Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht im Römisches Recht: Dieser Skill bearbeitet Etruskische Rechtsvorformen Quellenarmut und Ritualrecht im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt..."
+description: "Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht im Römisches Recht: Bearbeite Etruskische Rechtsvorformen Quellenarmut und Ritualrecht im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt..."
 ---
 
 # Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht

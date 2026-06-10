@@ -23,7 +23,7 @@ description: "Betriebskostenabrechnung prüfen aus Mietersicht: formelle Mindest
 
 ## Ziel
 
-Dieser Skill prüft eine konkrete Betriebskostenabrechnung so, dass daraus sofort ein Rückfrageschreiben, eine Zahlungsempfehlung, eine Einwendung oder eine Klage-/Verteidigungsnotiz entstehen kann. Er unterscheidet konsequent zwischen formellen Fehlern, materiellen Fehlern und bloßen Erläuterungslücken.
+Prüft eine konkrete Betriebskostenabrechnung so, dass daraus sofort ein Rückfrageschreiben, eine Zahlungsempfehlung, eine Einwendung oder eine Klage-/Verteidigungsnotiz entstehen kann. Er unterscheidet konsequent zwischen formellen Fehlern, materiellen Fehlern und bloßen Erläuterungslücken.
 
 ## Einstieg
 

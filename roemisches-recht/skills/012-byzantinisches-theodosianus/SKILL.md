@@ -1,6 +1,6 @@
 ---
 name: 012-byzantinisches-theodosianus
-description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken im Römisches Recht: Dieser Skill bearbeitet Byzantinisches Recht Theodosianus Justinian und Basiliken im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer hande..."
+description: "Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken im Römisches Recht: Bearbeite Byzantinisches Recht Theodosianus Justinian und Basiliken im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer hande..."
 ---
 
 # Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken

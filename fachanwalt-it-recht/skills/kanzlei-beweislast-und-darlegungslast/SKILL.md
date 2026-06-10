@@ -1,6 +1,6 @@
 ---
 name: kanzlei-beweislast-und-darlegungslast
-description: "Kanzlei: Beweislast, Darlegungslast und Substantiierung: Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht."
+description: "Kanzlei: Beweislast, Darlegungslast und Substantiierung: Kanzlei: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Kanzlei: Beweislast, Darlegungslast und Substantiierung
@@ -14,7 +14,7 @@ description: "Kanzlei: Beweislast, Darlegungslast und Substantiierung: Kanzlei: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht.
+**Fokus:** Kanzlei: Beweislast, Darlegungslast und Substantiierung.
 
 ## Spezialwissen: Kanzlei: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.

@@ -15,7 +15,7 @@ description: "Verlagsrecht: Hörbuch-Produktion — Sprechervertrag, Leistungssc
 
 ## Zweck dieses Skills
 
-Hörbücher sind urheberrechtlich komplexe Produkte: Sie kombinieren das Urheberrecht des Textautors mit dem **Leistungsschutzrecht** des Sprechers. Dieser Skill klärt alle relevanten Rechte, die Vertragsgestaltung mit Sprechern, GEMA-Fragen, Preisbindung und die Vermarktung über Hörbuchplattformen.
+Hörbücher sind urheberrechtlich komplexe Produkte: Sie kombinieren das Urheberrecht des Textautors mit dem **Leistungsschutzrecht** des Sprechers. Kläre alle relevanten Rechte, die Vertragsgestaltung mit Sprechern, GEMA-Fragen, Preisbindung und die Vermarktung über Hörbuchplattformen.
 
 ## Rechtsgrundlagen
 

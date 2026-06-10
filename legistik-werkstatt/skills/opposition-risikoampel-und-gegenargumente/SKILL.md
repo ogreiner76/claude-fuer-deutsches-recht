@@ -1,6 +1,6 @@
 ---
 name: opposition-risikoampel-und-gegenargumente
-description: "Opposition: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin legistik werkstatt im Legistik."
+description: "Opposition: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Opposition: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: eigenen-risikoampel-und-gegenargumente
-description: "Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien: Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt urheber medienrecht."
+description: "Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien: Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -14,7 +14,7 @@ description: "Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien: Eige
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt urheber medienrecht.
+**Fokus:** Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Spezialwissen: Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

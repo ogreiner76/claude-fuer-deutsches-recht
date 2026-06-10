@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-internationaler
-description: "Planerhaltung: Internationaler Bezug und Schnittstellen im Plugin Normenkontrolle Bauleitplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
+description: "Planerhaltung: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
 ---
 
 # Planerhaltung: Internationaler Bezug und Schnittstellen

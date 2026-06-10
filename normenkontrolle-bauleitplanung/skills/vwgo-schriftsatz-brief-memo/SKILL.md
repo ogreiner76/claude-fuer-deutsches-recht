@@ -1,6 +1,6 @@
 ---
 name: vwgo-schriftsatz-brief-memo
-description: "VwGO: Schriftsatz-, Brief- und Memo-Bausteine im Plugin Normenkontrolle Bauleitplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "VwGO: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
 ---
 
 # VwGO: Schriftsatz-, Brief- und Memo-Bausteine

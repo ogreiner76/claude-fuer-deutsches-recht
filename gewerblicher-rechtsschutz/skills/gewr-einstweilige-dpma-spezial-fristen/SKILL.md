@@ -15,7 +15,7 @@ description: "Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsa
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt das **einstweilige Verfügungsverfahren im gewerblichen Rechtsschutz** als zentrales Instrument zur schnellen Durchsetzung von Unterlassungsansprüchen bei Schutzrechtsverletzungen und Wettbewerbsverstößen. Er deckt die Antragstellerseite (Verfügungsanspruch formulieren, Dringlichkeit begründen, glaubhaft machen) und die Antragsgegnerseite (Widerspruch, Schutzschrift, Dringlichkeitsselbstwiderlegung) ab.
+Behandelt das **einstweilige Verfügungsverfahren im gewerblichen Rechtsschutz** als zentrales Instrument zur schnellen Durchsetzung von Unterlassungsansprüchen bei Schutzrechtsverletzungen und Wettbewerbsverstößen. Er deckt die Antragstellerseite (Verfügungsanspruch formulieren, Dringlichkeit begründen, glaubhaft machen) und die Antragsgegnerseite (Widerspruch, Schutzschrift, Dringlichkeitsselbstwiderlegung) ab.
 
 Mandatsbezug: Markeninhaber entdeckt Verletzung und will sofort handeln; Patentinhaber sieht konkurrierendes Produkt auf Messe; UWG-Anspruchsteller reagiert auf irreführende Werbung; Abgemahnter will EV verhindern.
 

@@ -1,6 +1,6 @@
 ---
 name: indemnity-verhandlung-vergleich-und-eskalation
-description: "Indemnity: Verhandlung, Vergleich und Eskalation im Plugin common law kompass im Common Law Kompass."
+description: "Indemnity: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Indemnity: Verhandlung, Vergleich und Eskalation

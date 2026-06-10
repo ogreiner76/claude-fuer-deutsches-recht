@@ -1,6 +1,6 @@
 ---
 name: ampelsystem-beweislast-und-darlegungslast
-description: "Ampelsystem: Beweislast, Darlegungslast und Substantiierung im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Ampelsystem: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Ampelsystem: Beweislast, Darlegungslast und Substantiierung

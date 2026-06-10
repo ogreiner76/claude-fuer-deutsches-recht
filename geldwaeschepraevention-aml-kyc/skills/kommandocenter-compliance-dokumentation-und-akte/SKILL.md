@@ -1,6 +1,6 @@
 ---
 name: kommandocenter-compliance-dokumentation-und-akte
-description: "Kommandocenter: Compliance-Dokumentation und Aktenvermerk im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Kommandocenter: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Kommandocenter: Compliance-Dokumentation und Aktenvermerk

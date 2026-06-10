@@ -1,6 +1,6 @@
 ---
 name: fuehrung-schriftsatz-brief-und-memo-bausteine
-description: "Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine

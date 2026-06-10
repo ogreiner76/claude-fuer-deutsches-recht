@@ -11,7 +11,7 @@ description: "Prüft CE-Kennzeichnung, irreführende Werbung, fehlende Unterlage
 
 ## Worum geht es konkret
 
-Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Werbung mit nicht erlangten Zertifikaten oder vorgetäuschten Prüfsiegeln sind klassische Felder für Abmahnungen nach UWG, behördliche Verfügungen (Marktüberwachung) und – seit GPSR VO (EU) 2023/988 – auch direkte Marktverbote. In der Robotik betreffen mehrere Rechtsakte gleichzeitig die CE: MaschinenVO, KI-VO, CRA, Funkanlagengesetz (FuAG), ggf. MDR. Dieser Skill prüft eine CE-Akte und gibt sowohl Verteidigungs- als auch Angriffsschriftsätze.
+Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Werbung mit nicht erlangten Zertifikaten oder vorgetäuschten Prüfsiegeln sind klassische Felder für Abmahnungen nach UWG, behördliche Verfügungen (Marktüberwachung) und – seit GPSR VO (EU) 2023/988 – auch direkte Marktverbote. In der Robotik betreffen mehrere Rechtsakte gleichzeitig die CE: MaschinenVO, KI-VO, CRA, Funkanlagengesetz (FuAG), ggf. MDR. Prüfe eine CE-Akte und gibt sowohl Verteidigungs- als auch Angriffsschriftsätze.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

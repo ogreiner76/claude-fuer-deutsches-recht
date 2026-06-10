@@ -14,7 +14,7 @@ description: "Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Umwelt
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage
-- **Konkreter Gegenstand:** Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin umweltrecht..
+- **Konkreter Gegenstand:** Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 - **Normen-/Verfahrensanker:** BImSchG/UVPG/WHG/KrWG/BNatSchG/TEHG/UmwRG/UIG sowie Landesrecht und Behördenvollzug.
 - **Entscheidende Weiche:** Genehmigung, Nebenbestimmung, Drittschutz, Verbandsklage, Mess-/Gutachtengrundlage, Sanierungsanordnung, Bußgeld und Sofortvollzug getrennt prüfen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

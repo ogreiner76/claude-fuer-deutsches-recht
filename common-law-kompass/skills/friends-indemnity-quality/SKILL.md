@@ -1,6 +1,6 @@
 ---
 name: friends-indemnity-quality
-description: "Friends: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin common law kompass im Common Law Kompass."
+description: "Friends: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Friends: Dokumentenmatrix, Lückenliste und Nachforderung

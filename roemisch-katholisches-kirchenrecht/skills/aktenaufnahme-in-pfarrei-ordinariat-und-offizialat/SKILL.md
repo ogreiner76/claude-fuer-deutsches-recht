@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Register, Urkunden, Gesprächsnotizen, E-Mails, Bescheide und Seelsorgegeschichte**.
+Prüft insbesondere: **Register, Urkunden, Gesprächsnotizen, E-Mails, Bescheide und Seelsorgegeschichte**.
 
 **CIC-/Normanker:** can. 486-491, 535, 537.
 

@@ -1,6 +1,6 @@
 ---
 name: aufenthaltstitel-fristennotiz-und-naechster-schritt
-description: "Aufenthaltstitel: Fristennotiz und nächster Schritt: Aufenthaltstitel: Fristennotiz und nächster Schritt im Plugin fachanwalt migrationsrecht."
+description: "Aufenthaltstitel: Fristennotiz und nächster Schritt: Aufenthaltstitel: Fristennotiz und nächster Schritt."
 ---
 
 # Aufenthaltstitel: Fristennotiz und nächster Schritt
@@ -14,7 +14,7 @@ description: "Aufenthaltstitel: Fristennotiz und nächster Schritt: Aufenthaltst
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aufenthaltstitel: Fristennotiz und nächster Schritt im Plugin fachanwalt migrationsrecht.
+**Fokus:** Aufenthaltstitel: Fristennotiz und nächster Schritt.
 
 ## Spezialwissen: Aufenthaltstitel: Fristennotiz und nächster Schritt
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.

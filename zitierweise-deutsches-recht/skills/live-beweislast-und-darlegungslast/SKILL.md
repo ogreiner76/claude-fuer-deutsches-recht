@@ -1,6 +1,6 @@
 ---
 name: live-beweislast-und-darlegungslast
-description: "Live: Beweislast, Darlegungslast und Substantiierung im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Live: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Live: Beweislast, Darlegungslast und Substantiierung

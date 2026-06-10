@@ -1,6 +1,6 @@
 ---
 name: europarecht-erstpruefung-und-mandatsziel
-description: "Europarecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin europarecht kompass im Europarecht Kompass."
+description: "Europarecht: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Europarecht: Erstprüfung, Rollenklärung und Mandatsziel

@@ -15,7 +15,7 @@ description: "Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **quantitativen Aspekte des Urheberrechts** – Schutzfristen, Schöpfungshöhe, Schadensberechnungen, Lizenzanalogie und typische Streitwerte. Diese Zahlen und Schwellen sind in der Praxis entscheidend für die Bewertung eines Falls, die Formulierung einer Abmahnung und die Bezifferung von Schadensersatzforderungen.
+Behandelt die **quantitativen Aspekte des Urheberrechts** – Schutzfristen, Schöpfungshöhe, Schadensberechnungen, Lizenzanalogie und typische Streitwerte. Diese Zahlen und Schwellen sind in der Praxis entscheidend für die Bewertung eines Falls, die Formulierung einer Abmahnung und die Bezifferung von Schadensersatzforderungen.
 
 Mandatsbezug: Mandant fragt: Wie viel Schadensersatz kann ich verlangen? Oder: Fotografin wurde abgemahnt, weil ein Blogbetreiber ihr Bild verwendet hat – was kostet das typischerweise?
 

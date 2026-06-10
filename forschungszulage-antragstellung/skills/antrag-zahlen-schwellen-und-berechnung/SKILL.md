@@ -1,6 +1,6 @@
 ---
 name: antrag-zahlen-schwellen-und-berechnung
-description: "Antrag: Zahlen, Schwellenwerte und Berechnung im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Antrag: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Antrag: Zahlen, Schwellenwerte und Berechnung

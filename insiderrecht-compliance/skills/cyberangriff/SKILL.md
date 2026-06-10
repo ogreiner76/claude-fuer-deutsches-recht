@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft die Insiderinformations-Qualität eines Cyberangriffs, entwickelt die
+Prüft die Insiderinformations-Qualität eines Cyberangriffs, entwickelt die
 Ad-hoc-Strategie und koordiniert die parallelen Meldepflichten (MAR, DSGVO, NIS-2).
 
 ## Arbeitsprogramm

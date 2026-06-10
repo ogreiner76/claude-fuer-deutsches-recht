@@ -15,7 +15,7 @@ description: "GKV-Leistungen für sterbende Menschen: Hospizversorgung (§ 39a S
 
 ## Skill-Zweck
 
-Sterbende Menschen und ihre Familien haben Anspruch auf umfassende palliative Versorgung. Dieser Skill klärt **GKV-Ansprüche im Bereich Hospiz, ambulante und stationäre Palliativversorgung und spezialisierte ambulante Palliativversorgung (SAPV)**.
+Sterbende Menschen und ihre Familien haben Anspruch auf umfassende palliative Versorgung. Kläre **GKV-Ansprüche im Bereich Hospiz, ambulante und stationäre Palliativversorgung und spezialisierte ambulante Palliativversorgung (SAPV)**.
 
 ## Rechtlicher Rahmen
 

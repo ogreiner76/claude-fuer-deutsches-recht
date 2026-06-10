@@ -15,7 +15,7 @@ description: "Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **internationalen Bezüge im gewerblichen Rechtsschutz** – grenzüberschreitende IP-Verletzungen, Zuständigkeitsfragen, anwendbares Recht und die Koordination mit ausländischen Anwälten. IP-Verletzungen enden nicht an Landesgrenzen; besonders im Online-Handel, bei internationalen Messen und bei global agierenden Wettbewerbern ist die internationale Dimension entscheidend.
+Behandelt die **internationalen Bezüge im gewerblichen Rechtsschutz** – grenzüberschreitende IP-Verletzungen, Zuständigkeitsfragen, anwendbares Recht und die Koordination mit ausländischen Anwälten. IP-Verletzungen enden nicht an Landesgrenzen; besonders im Online-Handel, bei internationalen Messen und bei global agierenden Wettbewerbern ist die internationale Dimension entscheidend.
 
 Mandatsbezug: Deutsches Unternehmen entdeckt Verletzung seiner deutschen Marke durch US-amerikanischen Online-Händler. Oder: Mandant hat europäisches Patent und ein chinesischer Wettbewerber nutzt die Technologie in China und Europa.
 

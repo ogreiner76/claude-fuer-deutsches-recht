@@ -1,6 +1,6 @@
 ---
 name: berater-drohende-fruehwarnsystem
-description: "Berater: Verhandlung, Vergleich und Eskalation im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Berater: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Berater: Verhandlung, Vergleich und Eskalation

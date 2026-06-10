@@ -1,6 +1,6 @@
 ---
 name: rechnungslegung-internationaler-bezug-und-schnittstellen
-description: "Rechnungslegung: Internationaler Bezug und Schnittstellen im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Rechnungslegung: Internationaler Bezug und Schnittstellen."
 ---
 
 # Rechnungslegung: Internationaler Bezug und Schnittstellen

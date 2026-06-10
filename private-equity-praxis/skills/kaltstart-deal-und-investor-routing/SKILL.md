@@ -25,7 +25,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Worum geht es konkret
 
-Private Equity beginnt mit Perspektive: LP, GP, Sponsor, Management, Target, Bank, Verkäufer, Co-Investor oder Restrukturierungsinvestor haben völlig andere Hebel. Dieser Skill ordnet Mandat, Phase und Rolle innerhalb der ersten Minute ein, identifiziert das Pflichtdokument als erstes Arbeitsergebnis und routet auf die spezialisierten Skills im Plugin.
+Private Equity beginnt mit Perspektive: LP, GP, Sponsor, Management, Target, Bank, Verkäufer, Co-Investor oder Restrukturierungsinvestor haben völlig andere Hebel. Ordne Mandat, Phase und Rolle innerhalb der ersten Minute ein, identifiziert das Pflichtdokument als erstes Arbeitsergebnis und routet auf die spezialisierten Skills im Plugin.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

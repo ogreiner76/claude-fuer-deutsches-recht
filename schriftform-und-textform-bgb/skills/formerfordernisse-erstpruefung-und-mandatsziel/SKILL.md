@@ -1,6 +1,6 @@
 ---
 name: formerfordernisse-erstpruefung-und-mandatsziel
-description: "Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel

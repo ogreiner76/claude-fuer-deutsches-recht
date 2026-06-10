@@ -1,6 +1,6 @@
 ---
 name: quality-mandantenkommunikation-entscheidungsvorlage
-description: "Quality: Mandantenkommunikation und Entscheidungsvorlage im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Quality: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Quality: Mandantenkommunikation und Entscheidungsvorlage

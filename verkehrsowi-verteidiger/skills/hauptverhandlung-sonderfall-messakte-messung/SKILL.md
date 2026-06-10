@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-sonderfall-messakte-messung
-description: "Hauptverhandlung: Sonderfall und Edge-Case-Prüfung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Hauptverhandlung: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Hauptverhandlung: Sonderfall und Edge-Case-Prüfung

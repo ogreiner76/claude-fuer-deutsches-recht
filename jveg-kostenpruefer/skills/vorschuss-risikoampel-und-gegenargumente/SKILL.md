@@ -1,6 +1,6 @@
 ---
 name: vorschuss-risikoampel-und-gegenargumente
-description: "Vorschuss: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Vorschuss: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Vorschuss: Risikoampel, Gegenargumente und Verteidigungslinien

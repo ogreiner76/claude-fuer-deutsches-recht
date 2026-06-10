@@ -1,6 +1,6 @@
 ---
 name: faehige-risikoampel-und-gegenargumente
-description: "Faehige: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Faehige: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Faehige: Risikoampel, Gegenargumente und Verteidigungslinien

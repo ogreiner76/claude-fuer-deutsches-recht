@@ -1,6 +1,6 @@
 ---
 name: auszahlung-internationaler-bezug-und-schnittstellen
-description: "Auszahlung: Internationaler Bezug und Schnittstellen im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Auszahlung: Internationaler Bezug und Schnittstellen."
 ---
 
 # Auszahlung: Internationaler Bezug und Schnittstellen

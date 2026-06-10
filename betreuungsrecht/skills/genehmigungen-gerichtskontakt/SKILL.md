@@ -1,6 +1,6 @@
 ---
 name: genehmigungen-gerichtskontakt
-description: "Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Betreuungsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
+description: "Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
 ---
 
 # Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

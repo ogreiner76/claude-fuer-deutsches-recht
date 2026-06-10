@@ -15,7 +15,7 @@ description: "Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist n
 
 ## Zweck dieses Skills
 
-Mit dem Tod eines Autors geht das Urheberrecht auf die **Erben** über. Dieser Skill klärt den Erbgang des Urheberrechts, die Verwaltung des literarischen Nachlasses, Verlagsverträge nach dem Tod, Schutzfristen und die Besonderheiten bei bekannten Autoren-Nachlässen.
+Mit dem Tod eines Autors geht das Urheberrecht auf die **Erben** über. Kläre den Erbgang des Urheberrechts, die Verwaltung des literarischen Nachlasses, Verlagsverträge nach dem Tod, Schutzfristen und die Besonderheiten bei bekannten Autoren-Nachlässen.
 
 ## Rechtsgrundlagen
 

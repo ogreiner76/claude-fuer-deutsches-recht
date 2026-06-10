@@ -1,6 +1,6 @@
 ---
 name: hoai-risikoampel-und-gegenargumente
-description: "Hoai: Risikoampel, Gegenargumente und Verteidigungslinien: Hoai: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bau architektenrecht."
+description: "Hoai: Risikoampel, Gegenargumente und Verteidigungslinien: Hoai: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Hoai: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -14,7 +14,7 @@ description: "Hoai: Risikoampel, Gegenargumente und Verteidigungslinien: Hoai: R
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Hoai: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bau architektenrecht.
+**Fokus:** Hoai: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Spezialwissen: Hoai: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

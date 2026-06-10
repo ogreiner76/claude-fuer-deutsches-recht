@@ -15,7 +15,7 @@ description: "Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundlea
 
 ## Zweck dieses Skills
 
-Das BuchPrG verbietet grundsätzlich Abweichungen vom festgesetzten Ladenpreis. Gleichzeitig existieren gesetzliche Ausnahmen und eine Vielzahl von Branchenpraktiken — insbesondere für Bibliotheken, Schulen, Bundleangebote und Serien. Dieser Skill klärt, was zulässig ist, was einen Preisbindungsverstoß begründet und wie Sonderkonditionen rechtskonform dokumentiert werden.
+Das BuchPrG verbietet grundsätzlich Abweichungen vom festgesetzten Ladenpreis. Gleichzeitig existieren gesetzliche Ausnahmen und eine Vielzahl von Branchenpraktiken — insbesondere für Bibliotheken, Schulen, Bundleangebote und Serien. Kläre, was zulässig ist, was einen Preisbindungsverstoß begründet und wie Sonderkonditionen rechtskonform dokumentiert werden.
 
 ## Rechtsgrundlagen
 

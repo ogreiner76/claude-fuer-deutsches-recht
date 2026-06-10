@@ -1,6 +1,6 @@
 ---
 name: strafrechtliche-tatbestandsmerkmale-beweisfragen
-description: "Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder V..."
+description: "Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder V..."
 ---
 
 # Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

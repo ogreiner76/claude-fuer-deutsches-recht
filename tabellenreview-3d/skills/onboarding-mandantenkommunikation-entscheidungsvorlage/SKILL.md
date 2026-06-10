@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandantenkommunikation-entscheidungsvorlage
-description: "Onboarding: Mandantenkommunikation und Entscheidungsvorlage im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Onboarding: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Onboarding: Mandantenkommunikation und Entscheidungsvorlage

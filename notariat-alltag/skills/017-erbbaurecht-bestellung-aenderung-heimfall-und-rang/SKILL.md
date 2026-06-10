@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfal
 
 ## Zweck und Anwendungsbereich
 
-Das Erbbaurecht ist ein grundstücksgleiches Recht, das dem Erbbauberechtigten ermöglicht, auf einem fremden Grundstück ein Bauwerk zu haben. Es ist ein wichtiges Instrument für kommunale und kirchliche Grundstückseigentümer sowie für Wohnprojekte. Dieser Skill führt durch Bestellung, Inhalt, Finanzierbarkeit und Heimfall.
+Das Erbbaurecht ist ein grundstücksgleiches Recht, das dem Erbbauberechtigten ermöglicht, auf einem fremden Grundstück ein Bauwerk zu haben. Es ist ein wichtiges Instrument für kommunale und kirchliche Grundstückseigentümer sowie für Wohnprojekte. Führe durch Bestellung, Inhalt, Finanzierbarkeit und Heimfall.
 
 Rechtsgrundlagen: ErbbauRG (Erbbaurechtsgesetz), §§ 1–39 ErbbauRG, §§ 873, 877 BGB (Entstehung dinglicher Rechte), GBO §§ 14–30 (Grundbuchverfahren), § 9 ErbbauRG (Erbbauzins), § 2 ErbbauRG (Inhalt), §§ 23–26 ErbbauRG (Heimfall), GNotKG.
 

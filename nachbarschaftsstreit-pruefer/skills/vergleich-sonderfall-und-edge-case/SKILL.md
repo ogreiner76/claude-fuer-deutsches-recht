@@ -1,6 +1,6 @@
 ---
 name: vergleich-sonderfall-und-edge-case
-description: "Vergleich: Sonderfall und Edge-Case-Prüfung im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Vergleich: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Vergleich: Sonderfall und Edge-Case-Prüfung

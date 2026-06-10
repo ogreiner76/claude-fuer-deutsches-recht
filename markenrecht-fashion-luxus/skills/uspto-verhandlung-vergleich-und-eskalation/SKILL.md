@@ -1,6 +1,6 @@
 ---
 name: uspto-verhandlung-vergleich-und-eskalation
-description: "USPTO: Verhandlung, Vergleich und Eskalation im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "USPTO: Verhandlung, Vergleich und Eskalation."
 ---
 
 # USPTO: Verhandlung, Vergleich und Eskalation

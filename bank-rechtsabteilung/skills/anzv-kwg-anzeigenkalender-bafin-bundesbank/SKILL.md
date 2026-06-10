@@ -15,7 +15,7 @@ description: "AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Bete
 
 ## Worum es geht
 
-Dieser Skill erstellt einen operativen Anzeigenkalender für KWG-Institute nach der Anzeigenverordnung (AnzV) und § 24 KWG. Er deckt alle meldepflichtigen Ereignisse ab: Organpersonenwechsel, qualifizierte Beteiligungen, enge Verbindungen, Auslagerungen, Vergütungssysteme, Millionenkredite und LEI-Aktualisierungen. Einreichweg (BaFin-Portal oder Bundesbank-Meldewesen) und Unterlagen werden für jede Anzeige konkret benannt.
+Erstellt einen operativen Anzeigenkalender für KWG-Institute nach der Anzeigenverordnung (AnzV) und § 24 KWG. Er deckt alle meldepflichtigen Ereignisse ab: Organpersonenwechsel, qualifizierte Beteiligungen, enge Verbindungen, Auslagerungen, Vergütungssysteme, Millionenkredite und LEI-Aktualisierungen. Einreichweg (BaFin-Portal oder Bundesbank-Meldewesen) und Unterlagen werden für jede Anzeige konkret benannt.
 
 ## Kernnormen
 

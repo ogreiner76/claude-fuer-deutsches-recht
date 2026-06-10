@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-sonderfall-und-edge-case
-description: "Dolmetscher: Sonderfall und Edge-Case-Prüfung im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Dolmetscher: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Dolmetscher: Sonderfall und Edge-Case-Prüfung

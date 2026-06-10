@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Segnungen, Andachten, Sakramentalien und Grenzen**.
+Prüft insbesondere: **Segnungen, Andachten, Sakramentalien und Grenzen**.
 
 **CIC-/Normanker:** can. 834-839, 1166-1175.
 

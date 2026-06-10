@@ -1,6 +1,6 @@
 ---
 name: transparenzregister-behoerden-gericht-und-registerweg
-description: "Transparenzregister: Behörden-, Gerichts- oder Registerweg im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Transparenzregister: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Transparenzregister: Behörden-, Gerichts- oder Registerweg

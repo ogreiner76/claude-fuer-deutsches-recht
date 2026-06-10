@@ -19,7 +19,7 @@ Die BaFin hat weitgehende Aufsichts- und Eingriffsbefugnisse nach dem KWG ([gese
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert die Reaktion auf BaFin-Prüfungsfeststellungen: Internal Investigation als Reaktionsmechanismus, Maßnahmenplanung und behördliche Kommunikation.
+Strukturiert die Reaktion auf BaFin-Prüfungsfeststellungen: Internal Investigation als Reaktionsmechanismus, Maßnahmenplanung und behördliche Kommunikation.
 
 ## Arbeitsprogramm
 

@@ -7,7 +7,7 @@ description: "Doping Strafrecht § 4 Anti Dopg: fachanwaltlicher Spezial-Skill m
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Doping Strafrecht § 4 Anti Dopg** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Doping Strafrecht § 4 Anti Dopg** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

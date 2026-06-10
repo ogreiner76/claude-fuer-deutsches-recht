@@ -1,6 +1,6 @@
 ---
 name: checklisten-schriftsatz-brief-und-memo-bausteine
-description: "Checklisten: Schriftsatz-, Brief- und Memo-Bausteine im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Checklisten: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Checklisten: Schriftsatz-, Brief- und Memo-Bausteine

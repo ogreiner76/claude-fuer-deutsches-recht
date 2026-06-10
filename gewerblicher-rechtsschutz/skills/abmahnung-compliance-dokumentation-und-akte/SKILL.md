@@ -15,7 +15,7 @@ description: "Abmahnung im gewerblichen Rechtsschutz: Compliance-Dokumentation u
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **Compliance-konforme Dokumentation von Abmahnvorgängen** im gewerblichen Rechtsschutz. Kanzleien und Rechtsabteilungen, die regelmäßig Abmahnungen versenden oder empfangen, müssen eine vollständige, revisionssichere Akte führen – für interne Qualitätssicherung, spätere Verfahren, Beweissicherung und ggf. Haftungsvermeidung.
+Behandelt die **Compliance-konforme Dokumentation von Abmahnvorgängen** im gewerblichen Rechtsschutz. Kanzleien und Rechtsabteilungen, die regelmäßig Abmahnungen versenden oder empfangen, müssen eine vollständige, revisionssichere Akte führen – für interne Qualitätssicherung, spätere Verfahren, Beweissicherung und ggf. Haftungsvermeidung.
 
 Mandatsbezug: Kanzlei versendet im Auftrag einer Mandantin monatlich Dutzende Abmahnungen. Rechtsabteilung eines Unternehmens empfängt Abmahnungen und muss Reaktionen nachvollziehbar entscheiden und dokumentieren. Anwalt muss im Nachhinein nachweisen, dass eine Abmahnung korrekt formuliert und fristgerecht versandt wurde.
 

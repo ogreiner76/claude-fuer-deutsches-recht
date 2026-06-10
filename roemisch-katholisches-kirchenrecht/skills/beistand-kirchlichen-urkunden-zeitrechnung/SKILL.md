@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht**.
+Prüft insbesondere: **Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht**.
 
 **CIC-/Normanker:** can. 1720-1728, 1481-1490.
 

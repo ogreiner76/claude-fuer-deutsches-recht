@@ -1,6 +1,6 @@
 ---
 name: hinweisen-kanzleien-pflegt
-description: "Hinweisen: Formular, Portal und Einreichungslogik im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Hinweisen: Formular, Portal und Einreichungslogik."
 ---
 
 # Hinweisen: Formular, Portal und Einreichungslogik

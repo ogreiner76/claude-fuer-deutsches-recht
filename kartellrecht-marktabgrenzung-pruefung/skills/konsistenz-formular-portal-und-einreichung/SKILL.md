@@ -1,6 +1,6 @@
 ---
 name: konsistenz-formular-portal-und-einreichung
-description: "Konsistenz: Formular, Portal und Einreichungslogik im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Konsistenz: Formular, Portal und Einreichungslogik: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Konsistenz: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: vendor-behoerden-gericht-und-registerweg
-description: "Vendor: Behörden-, Gerichts- oder Registerweg im Plugin ki governance im Ki Governance."
+description: "Vendor: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Vendor: Behörden-, Gerichts- oder Registerweg

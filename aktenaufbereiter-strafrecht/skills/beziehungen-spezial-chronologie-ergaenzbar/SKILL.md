@@ -1,6 +1,6 @@
 ---
 name: beziehungen-spezial-chronologie-ergaenzbar
-description: "Beziehungen: Zahlen, Schwellenwerte und Berechnung im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Beziehungen: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Beziehungen: Zahlen, Schwellenwerte und Berechnung

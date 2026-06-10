@@ -1,6 +1,6 @@
 ---
 name: verteidiger-formular-portal-und-einreichung
-description: "Verteidiger: Formular, Portal und Einreichungslogik im Plugin strafbefehl verteidiger im Strafbefehl Verteidiger."
+description: "Verteidiger: Formular, Portal und Einreichungslogik."
 ---
 
 # Verteidiger: Formular, Portal und Einreichungslogik
@@ -30,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Verteidiger: Formular, Portal und Einreichungslogik
-- **Konkreter Gegenstand:** Verteidiger: Formular, Portal und Einreichungslogik im Plugin strafbefehl verteidiger..
+- **Konkreter Gegenstand:** Verteidiger: Formular, Portal und Einreichungslogik.
 - **Normen-/Verfahrensanker:** StPO §§ 407 ff., Einspruchsfrist, Wiedereinsetzung, Pflichtverteidigung, Tagessatzsystem, Einstellungsmöglichkeiten und Beweisverwertungsfragen.
 - **Entscheidende Weiche:** Tat, Beweis, Rechtsfolge, Frist, Mandantenziel und Kostenrisiko so trennen, dass sofort klar wird: Einspruch voll, beschränkt oder Rücknahme/Deal.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

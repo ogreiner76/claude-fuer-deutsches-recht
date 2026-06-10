@@ -1,6 +1,6 @@
 ---
 name: bemessungsgrundlage-interessen-bsfz
-description: "Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Bemessungsgrundlage: Mehrparteienkonflikt und Interessenmatrix

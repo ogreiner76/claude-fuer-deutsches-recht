@@ -1,6 +1,6 @@
 ---
 name: vier-risikoampel-und-gegenargumente
-description: "Vier: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Vier: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Vier: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: feeds-compliance-dokumentation-und-akte
-description: "Feeds: Compliance-Dokumentation und Aktenvermerk im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Feeds: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Feeds: Compliance-Dokumentation und Aktenvermerk

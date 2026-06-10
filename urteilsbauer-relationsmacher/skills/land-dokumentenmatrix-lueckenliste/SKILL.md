@@ -1,6 +1,6 @@
 ---
 name: land-dokumentenmatrix-lueckenliste
-description: "Land: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin Urteilsbauer Relationsmacher: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
+description: "Land: Dokumentenmatrix, Lückenliste und Nachforderung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
 ---
 
 # Land: Dokumentenmatrix, Lückenliste und Nachforderung

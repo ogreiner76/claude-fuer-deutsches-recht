@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Sünde, Reue, Bekenntnis, Lossprechung und Beichtgeheimnis**.
+Prüft insbesondere: **Sünde, Reue, Bekenntnis, Lossprechung und Beichtgeheimnis**.
 
 **CIC-/Normanker:** can. 959-997.
 

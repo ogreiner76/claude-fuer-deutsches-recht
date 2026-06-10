@@ -1,6 +1,6 @@
 ---
 name: verfahrenszusammenfassung-rechtsweg-register
-description: "Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg

@@ -15,7 +15,7 @@ description: "Verlagsrecht: Manuskriptablieferung, Lektorat, Abnahme und Verzug 
 
 ## Zweck dieses Skills
 
-Dieser Skill behandelt den **Ablieferungsprozess** im Verlagsvertrag: Was der Autor abliefern muss (Form, Inhalt, Qualität), wie der Verlag die Abnahme oder Zurückweisung handhaben darf, welche Lektoratspflichten entstehen und wie Verzug und Mängel rechtlich abgewickelt werden. Grundlage ist VerlG §§ 1–8 zusammen mit den allgemeinen BGB-Regelungen zu Leistungsstörungen.
+Behandelt den **Ablieferungsprozess** im Verlagsvertrag: Was der Autor abliefern muss (Form, Inhalt, Qualität), wie der Verlag die Abnahme oder Zurückweisung handhaben darf, welche Lektoratspflichten entstehen und wie Verzug und Mängel rechtlich abgewickelt werden. Grundlage ist VerlG §§ 1–8 zusammen mit den allgemeinen BGB-Regelungen zu Leistungsstörungen.
 
 ## Rechtsgrundlagen
 

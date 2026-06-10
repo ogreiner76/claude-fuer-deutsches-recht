@@ -1,6 +1,6 @@
 ---
 name: verfahrens-behoerden-gericht-und-registerweg
-description: "Verfahrens: Behörden-, Gerichts- oder Registerweg: Verfahrens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt migrationsrecht."
+description: "Verfahrens: Behörden-, Gerichts- oder Registerweg: Verfahrens: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Verfahrens: Behörden-, Gerichts- oder Registerweg
@@ -14,7 +14,7 @@ description: "Verfahrens: Behörden-, Gerichts- oder Registerweg: Verfahrens: Be
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verfahrens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt migrationsrecht.
+**Fokus:** Verfahrens: Behörden-, Gerichts- oder Registerweg.
 
 ## Spezialwissen: Verfahrens: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.

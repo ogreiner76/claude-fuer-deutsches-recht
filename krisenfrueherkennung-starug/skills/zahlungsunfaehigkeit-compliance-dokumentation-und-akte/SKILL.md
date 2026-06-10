@@ -1,6 +1,6 @@
 ---
 name: zahlungsunfaehigkeit-compliance-dokumentation-und-akte
-description: "Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk

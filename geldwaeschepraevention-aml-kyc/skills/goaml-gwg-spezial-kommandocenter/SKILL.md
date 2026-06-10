@@ -1,6 +1,6 @@
 ---
 name: goaml-gwg-spezial-kommandocenter
-description: "Goaml: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Goaml: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Goaml: Risikoampel, Gegenargumente und Verteidigungslinien

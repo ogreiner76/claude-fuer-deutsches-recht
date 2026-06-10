@@ -1,6 +1,6 @@
 ---
 name: 024-zweiter-teil-kirchen-schule-armenwesen
-description: "PrALR: Zweiter Teil Kirchen Schule Armenwesen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Zweiter Teil Kirchen Schule Armenwesen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Zweiter Teil Kirchen Schule Armenwesen

@@ -1,6 +1,6 @@
 ---
 name: portaltexte-schriftsatz-brief-und-memo-bausteine
-description: "Portaltexte: Schriftsatz-, Brief- und Memo-Bausteine im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Portaltexte: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine

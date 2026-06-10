@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill klärt die insiderrechtlichen Pflichten von Vorstand und Aufsichtsrat im Detail und
+Klärt die insiderrechtlichen Pflichten von Vorstand und Aufsichtsrat im Detail und
 schafft eine Grundlage für interne Compliance-Richtlinien und Haftungsprävention.
 
 ## Arbeitsprogramm

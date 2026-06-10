@@ -1,6 +1,6 @@
 ---
 name: markenarten-compliance-dokumentation-und-akte
-description: "Markenarten: Compliance-Dokumentation und Aktenvermerk im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "Markenarten: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Markenarten: Compliance-Dokumentation und Aktenvermerk

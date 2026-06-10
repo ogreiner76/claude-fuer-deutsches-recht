@@ -30,7 +30,7 @@ description: "Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitz
 
 Sitzungsprotokolle sind Rechtsurkunden. Sie dokumentieren Beschlussfassungen, legitimieren Organhandeln und sind das primäre Beweismittel für Ermächtigungen, Zustimmungen und Willensbildungsprozesse. Fehlerhafte, unvollständige oder verspätete Protokolle gefährden die Rechtssicherheit von Unternehmensentscheidungen — von Unternehmenskäufen über Kapitalmaßnahmen bis hin zur Entlastung von Vorstand und Aufsichtsrat.
 
-Dieser Skill unterstützt bei der Erstellung von Protokollen für:
+Unterstützt bei der Erstellung von Protokollen für:
 - **Aufsichtsratssitzungen** (AG, § 107 Abs. 2 AktG — gesetzliche Niederschriftspflicht)
 - **Vorstandssitzungen** (AG, keine gesetzliche Pflicht, aber beweisrechtlich zwingend empfohlen)
 - **Gesellschafterversammlungen** (GmbH, § 48 GmbHG — keine gesetzliche Protokollpflicht, aber gesellschaftsvertraglich und nach h.M. unverzichtbar)

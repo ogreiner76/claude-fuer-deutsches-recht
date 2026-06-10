@@ -7,7 +7,7 @@ description: "Berufsunfaehigkeit § 172 VVG: fachanwaltlicher Spezial-Skill mit 
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Berufsunfaehigkeit § 172 VVG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Berufsunfaehigkeit § 172 VVG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

@@ -1,6 +1,6 @@
 ---
 name: sachverhaltschronologie-textbausteine
-description: "Sachverhaltschronologie: Schriftsatz-, Brief- und Memo-Bausteine im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Sachverhaltschronologie: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Sachverhaltschronologie: Schriftsatz-, Brief- und Memo-Bausteine

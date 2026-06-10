@@ -11,7 +11,7 @@ description: "Prüft Cyber Resilience Act für Roboter, Steuerungssoftware, Apps
 
 ## Worum geht es konkret
 
-Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pflicht für "Produkte mit digitalen Elementen" ein. Roboter mit eingebetteter Software, Steuerungs-Apps, Cloud-Komponenten und OTA-Updates fallen darunter und müssen Secure-by-Design entwickelt, Schwachstellen koordiniert behoben und Vorfälle gemeldet werden. Die Vorschriften gelten gestaffelt: Schwachstellen- und Vorfallmeldepflichten ab 11.09.2026, die Hauptpflichten ab 11.12.2027 (Art. 71 CRA). Dieser Skill prüft Robotikprodukte gegen die CRA-Anforderungen.
+Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pflicht für "Produkte mit digitalen Elementen" ein. Roboter mit eingebetteter Software, Steuerungs-Apps, Cloud-Komponenten und OTA-Updates fallen darunter und müssen Secure-by-Design entwickelt, Schwachstellen koordiniert behoben und Vorfälle gemeldet werden. Die Vorschriften gelten gestaffelt: Schwachstellen- und Vorfallmeldepflichten ab 11.09.2026, die Hauptpflichten ab 11.12.2027 (Art. 71 CRA). Prüfe Robotikprodukte gegen die CRA-Anforderungen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

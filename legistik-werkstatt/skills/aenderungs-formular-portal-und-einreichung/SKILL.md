@@ -1,6 +1,6 @@
 ---
 name: aenderungs-formular-portal-und-einreichung
-description: "Aenderungs: Formular, Portal und Einreichungslogik im Plugin legistik werkstatt im Legistik."
+description: "Aenderungs: Formular, Portal und Einreichungslogik."
 ---
 
 # Aenderungs: Formular, Portal und Einreichungslogik

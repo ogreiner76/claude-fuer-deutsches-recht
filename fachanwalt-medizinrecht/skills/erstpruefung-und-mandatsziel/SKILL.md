@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-und-mandatsziel
-description: "Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt medizinrecht."
+description: "Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
@@ -14,7 +14,7 @@ description: "Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwa
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt medizinrecht.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
 
 ## Fachkern: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

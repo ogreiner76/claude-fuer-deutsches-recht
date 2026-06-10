@@ -1,6 +1,6 @@
 ---
 name: versorgungssystem-international-schnittstellen
-description: "Versorgungssystem: Internationaler Bezug und Schnittstellen im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Versorgungssystem: Internationaler Bezug und Schnittstellen."
 ---
 
 # Versorgungssystem: Internationaler Bezug und Schnittstellen

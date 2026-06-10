@@ -1,6 +1,6 @@
 ---
 name: begleitet-erstpruefung-und-mandatsziel
-description: "Begleitet: Erstprüfung, Rollenklärung und Mandatsziel im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
+description: "Begleitet: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Begleitet: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: vorlagen-mehrparteien-konflikt-und-interessen
-description: "Vorlagen: Mehrparteienkonflikt und Interessenmatrix im Plugin legistik werkstatt im Legistik."
+description: "Vorlagen: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Vorlagen: Mehrparteienkonflikt und Interessenmatrix

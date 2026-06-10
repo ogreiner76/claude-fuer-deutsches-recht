@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-erstpruefung-und-mandatsziel
-description: "Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel

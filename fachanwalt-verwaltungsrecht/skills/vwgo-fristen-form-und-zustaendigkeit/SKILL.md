@@ -1,6 +1,6 @@
 ---
 name: vwgo-fristen-form-und-zustaendigkeit
-description: "VwGO: Fristen, Form, Zuständigkeit und Rechtsweg: VwGO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verwaltungsrecht."
+description: "VwGO: Fristen, Form, Zuständigkeit und Rechtsweg: VwGO: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # VwGO: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** VwGO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verwaltungsrecht.
+**Fokus:** VwGO: Fristen, Form, Zuständigkeit und Rechtsweg.
 
 ## Spezialwissen: VwGO: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** VwGO, VwVfG.

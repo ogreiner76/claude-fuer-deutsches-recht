@@ -1,6 +1,6 @@
 ---
 name: datum-entscheidungsform-spezial-gericht
-description: "Datum: Behörden-, Gerichts- oder Registerweg im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Datum: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Datum: Behörden-, Gerichts- oder Registerweg

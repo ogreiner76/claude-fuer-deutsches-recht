@@ -1,6 +1,6 @@
 ---
 name: rechtliche-internationaler-bezug-und-schnittstellen
-description: "Rechtliche: Internationaler Bezug und Schnittstellen im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Rechtliche: Internationaler Bezug und Schnittstellen."
 ---
 
 # Rechtliche: Internationaler Bezug und Schnittstellen

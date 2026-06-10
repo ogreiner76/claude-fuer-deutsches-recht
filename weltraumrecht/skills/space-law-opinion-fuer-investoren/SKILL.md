@@ -15,7 +15,7 @@ description: "Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Ha
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Space Law Opinion für Investoren** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Space Law Opinion für Investoren** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

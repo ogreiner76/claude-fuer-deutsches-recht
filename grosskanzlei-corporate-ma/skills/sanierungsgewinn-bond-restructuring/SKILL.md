@@ -20,7 +20,7 @@ description: "Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellsc
 
 Bond-Restrukturierungen unterscheiden sich strukturell von klassischen Bankschuldverhältnis-Restrukturierungen: Es gibt eine **anonyme Gläubigerstruktur**, die nur über Mehrheitsentscheidung der Anleihegläubigerversammlung nach Schuldverschreibungsgesetz (SchVG) oder über ein Scheme of Arrangement (englisches Recht) handlungsfähig wird. Die Sanierungsabsicht der Gläubiger im Sinne von § 3a EStG ist hier nicht individuell zu dokumentieren, sondern kollektiv zu beweisen.
 
-Dieser Skill ist das Modul für die Bond-Restrukturierung mit Sanierungsgewinn-Wirkung.
+Modul für die Bond-Restrukturierung mit Sanierungsgewinn-Wirkung.
 
 ## Wann dieses Modul hilft
 

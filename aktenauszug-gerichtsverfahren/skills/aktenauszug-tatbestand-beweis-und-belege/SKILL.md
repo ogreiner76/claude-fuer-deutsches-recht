@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-tatbestand-beweis-und-belege
-description: "Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage

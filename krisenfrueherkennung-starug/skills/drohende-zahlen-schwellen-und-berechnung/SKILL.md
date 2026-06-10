@@ -1,6 +1,6 @@
 ---
 name: drohende-zahlen-schwellen-und-berechnung
-description: "Drohende: Zahlen, Schwellenwerte und Berechnung im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Drohende: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Drohende: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: ladeinfrastruktur-behoerden-gericht-und-registerweg
-description: "Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Ladeinfrastruktur: Behörden-, Gerichts- oder Registerweg

@@ -15,7 +15,7 @@ description: "Mandant kann seinen Fall nicht schriftlich schildern und soll stat
 
 ## Spezialwissen
 
-Dieser Skill formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in dem der automatisierte Transkriptionsservice beschrieben wird. Er kommt zum Einsatz, wenn die anfragende Person signalisiert, dass sie ihren Sachverhalt nicht schriftlich schildern kann oder möchte.
+Formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in dem der automatisierte Transkriptionsservice beschrieben wird. Er kommt zum Einsatz, wenn die anfragende Person signalisiert, dass sie ihren Sachverhalt nicht schriftlich schildern kann oder möchte.
 
 ## Triage zu Beginn
 1. Liegt ein Ausloeser für den Transkriptionsservice vor (Anfrage kurz/fragmentarisch, Nutzer kann nicht schreiben, expliziter Wunsch)?

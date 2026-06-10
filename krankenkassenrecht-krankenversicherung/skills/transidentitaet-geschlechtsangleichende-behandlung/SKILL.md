@@ -15,7 +15,7 @@ description: "GKV-Leistungspflicht für geschlechtsangleichende Maßnahmen: Horm
 
 ## Skill-Zweck
 
-Dieser Skill bearbeitet **GKV-Leistungsansprüche für transidente Personen**: Hormontherapie, Epithesenversorgung, operative Eingriffe zur Geschlechtsangleichung und zugehörige Diagnostik.
+Bearbeite **GKV-Leistungsansprüche für transidente Personen**: Hormontherapie, Epithesenversorgung, operative Eingriffe zur Geschlechtsangleichung und zugehörige Diagnostik.
 
 ## Rechtlicher Rahmen
 

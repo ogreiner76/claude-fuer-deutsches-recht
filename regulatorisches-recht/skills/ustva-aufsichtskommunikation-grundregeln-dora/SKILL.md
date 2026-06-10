@@ -15,7 +15,7 @@ description: "Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn F
 
 ## Zweck
 
-Dieser Skill begleitet die fristgerechte und inhaltlich korrekte Abgabe von Umsatzsteuer-Voranmeldungen (UStVA) nach § 18 UStG. Er deckt die Bestimmung des richtigen Voranmeldungszeitraums, die Dauerfristverlängerung nach § 46 UStDV, die Berichtigung nach §§ 153 AO und 17 UStG sowie die technische Abgabe über ELSTER ab. Anwendungsfälle: monatliche oder quartalsweise UStVA erstellen, Dauerfristverlängerung beantragen, versehentlich falsche UStVA berichtigen, Übergang zwischen Voranmeldungszeiträumen.
+Begleitet die fristgerechte und inhaltlich korrekte Abgabe von Umsatzsteuer-Voranmeldungen (UStVA) nach § 18 UStG. Er deckt die Bestimmung des richtigen Voranmeldungszeitraums, die Dauerfristverlängerung nach § 46 UStDV, die Berichtigung nach §§ 153 AO und 17 UStG sowie die technische Abgabe über ELSTER ab. Anwendungsfälle: monatliche oder quartalsweise UStVA erstellen, Dauerfristverlängerung beantragen, versehentlich falsche UStVA berichtigen, Übergang zwischen Voranmeldungszeiträumen.
 
 ## Eingaben
 

@@ -15,7 +15,7 @@ description: "Verlagsrecht: Rezensionsexemplare, Influencer-Kooperationen und st
 
 ## Zweck dieses Skills
 
-Verlage versenden **Rezensionsexemplare** an Presse, Buchblogger und Influencer. Diese Praxis berührt Buchpreisbindungsrecht (Ausnahme für Rezensenten), Steuerrecht (Sachzuwendungen) und Wettbewerbsrecht (Kennzeichnungspflichten). Dieser Skill klärt alle relevanten Dimensionen.
+Verlage versenden **Rezensionsexemplare** an Presse, Buchblogger und Influencer. Diese Praxis berührt Buchpreisbindungsrecht (Ausnahme für Rezensenten), Steuerrecht (Sachzuwendungen) und Wettbewerbsrecht (Kennzeichnungspflichten). Kläre alle relevanten Dimensionen.
 
 ## Rechtsgrundlagen
 

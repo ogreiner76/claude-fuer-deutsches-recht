@@ -1,6 +1,6 @@
 ---
 name: aktenaufbereiter-erstpruefung-und-mandatsziel
-description: "Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel

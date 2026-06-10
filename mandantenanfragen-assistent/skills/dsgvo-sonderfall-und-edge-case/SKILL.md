@@ -1,6 +1,6 @@
 ---
 name: dsgvo-sonderfall-und-edge-case
-description: "DSGVO: Sonderfall und Edge-Case-Prüfung im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "DSGVO: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # DSGVO: Sonderfall und Edge-Case-Prüfung

@@ -7,7 +7,7 @@ description: "Ladungsschaden art 23 CMR: fachanwaltlicher Spezial-Skill mit Norm
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Ladungsschaden art 23 CMR** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Ladungsschaden art 23 CMR** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

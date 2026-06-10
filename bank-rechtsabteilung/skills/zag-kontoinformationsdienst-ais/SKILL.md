@@ -15,7 +15,7 @@ description: "Kontoinformationsdienst nach ZAG und PSD2 prüfen: Registrierung, 
 
 ## Worum es geht
 
-Dieser Skill prüft Kontoinformationsdienste (Account Information Services, AIS) nach § 1 Abs. 1 Satz 2 Nr. 8 ZAG und Art. 67 PSD2. AIS-Provider unterliegen einem Light-Registrierungsregime (§ 34 ZAG) statt einer vollständigen Erlaubnis. Datenzugriffsrechte, Consent-Management, Haftungskette und die Anforderungen aus RTS-SCA Art. 36 (dedizierte Schnittstellen) werden normseitig verankert.
+Prüft Kontoinformationsdienste (Account Information Services, AIS) nach § 1 Abs. 1 Satz 2 Nr. 8 ZAG und Art. 67 PSD2. AIS-Provider unterliegen einem Light-Registrierungsregime (§ 34 ZAG) statt einer vollständigen Erlaubnis. Datenzugriffsrechte, Consent-Management, Haftungskette und die Anforderungen aus RTS-SCA Art. 36 (dedizierte Schnittstellen) werden normseitig verankert.
 
 ## Kernnormen
 

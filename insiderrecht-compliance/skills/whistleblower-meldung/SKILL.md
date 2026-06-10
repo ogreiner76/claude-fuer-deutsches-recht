@@ -30,7 +30,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill steuert die interne Bearbeitung von Whistleblower-Meldungen, die Insiderhandel,
+Steuert die interne Bearbeitung von Whistleblower-Meldungen, die Insiderhandel,
 Marktmanipulation oder MAR-Pflichtverletzungen betreffen, und leitet MAR-Folgehandlungen ein.
 
 ## Arbeitsprogramm

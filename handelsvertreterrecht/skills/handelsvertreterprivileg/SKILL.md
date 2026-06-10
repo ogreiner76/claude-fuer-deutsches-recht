@@ -19,7 +19,7 @@ Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertrete
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Kartellrechtliches Handelsvertreterprivileg nach Art. 101 AEUV und § 1 GWB.
+Unterstützt bei rechtlichen Fragen rund um Kartellrechtliches Handelsvertreterprivileg nach Art. 101 AEUV und § 1 GWB.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.

@@ -1,6 +1,6 @@
 ---
 name: mehrjahresroadmap-fristennotiz-fz
-description: "Mehrjahresroadmap: Fristennotiz und nächster Schritt im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Mehrjahresroadmap: Fristennotiz und nächster Schritt."
 ---
 
 # Mehrjahresroadmap: Fristennotiz und nächster Schritt

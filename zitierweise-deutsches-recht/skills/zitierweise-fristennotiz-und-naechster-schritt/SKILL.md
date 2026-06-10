@@ -1,6 +1,6 @@
 ---
 name: zitierweise-fristennotiz-und-naechster-schritt
-description: "Zitierweise: Fristennotiz und nächster Schritt im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Zitierweise: Fristennotiz und nächster Schritt."
 ---
 
 # Zitierweise: Fristennotiz und nächster Schritt

@@ -15,7 +15,7 @@ description: "Buchpreisbindungsgesetz: E-Book-Preisbindung, Plattformgebühren, 
 
 ## Zweck dieses Skills
 
-Die E-Book-Preisbindung ist ein Spezialbereich mit erheblichem Konfliktpotenzial zwischen Verlagsrecht und Plattformverträgen. Dieser Skill klärt, welche E-Books preisgebunden sind, wie Plattformgebühren und Rabatte behandelt werden, welche Vertragsklauseln mit Amazon, Apple und anderen notwendig sind und wie Verstöße durchgesetzt werden.
+Die E-Book-Preisbindung ist ein Spezialbereich mit erheblichem Konfliktpotenzial zwischen Verlagsrecht und Plattformverträgen. Kläre, welche E-Books preisgebunden sind, wie Plattformgebühren und Rabatte behandelt werden, welche Vertragsklauseln mit Amazon, Apple und anderen notwendig sind und wie Verstöße durchgesetzt werden.
 
 ## Rechtsgrundlagen
 

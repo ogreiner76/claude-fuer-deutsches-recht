@@ -15,7 +15,7 @@ description: "Gesundheitsversorgung für Asylsuchende nach AsylbLG §§ 4 und 6:
 
 ## Skill-Zweck
 
-Asylsuchende haben eigene Leistungsansprüche nach dem AsylbLG, keine GKV-Mitgliedschaft. Dieser Skill klärt **Leistungsumfang, Krankenschein-System, Übergänge zur GKV und aktuelle Entwicklungen**.
+Asylsuchende haben eigene Leistungsansprüche nach dem AsylbLG, keine GKV-Mitgliedschaft. Kläre **Leistungsumfang, Krankenschein-System, Übergänge zur GKV und aktuelle Entwicklungen**.
 
 ## Rechtlicher Rahmen
 

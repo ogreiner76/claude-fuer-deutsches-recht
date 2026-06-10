@@ -26,7 +26,7 @@ Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto: prüft die einschl�
 
 Wer darf das Geld vom Debitor einziehen? Wer hält das Konto, auf das gezahlt wird? Wer hat im Krisenfall Zugriff? Diese drei Fragen entscheiden über die operative Tauglichkeit jedes Factorings. Die zivilrechtliche Abtretung allein bringt dem Factor noch keinen Cent – es braucht eine **Einziehungsstruktur**, die Zahlungen verlässlich zum Factor leitet.
 
-Drei Standardmodelle: (1) **Eigenes Konto Factor** – Debitoren zahlen direkt; (2) **Treuhandkonto** eines unabhängigen Treuhänders mit Verteilfunktion; (3) **Einziehungsermächtigung des Kunden** mit Weiterleitungspflicht. Jedes Modell hat insolvenz- und aufsichtsrechtliche Implikationen. Dieser Skill ordnet die Strukturen und liefert die Vertragsbausteine.
+Drei Standardmodelle: (1) **Eigenes Konto Factor** – Debitoren zahlen direkt; (2) **Treuhandkonto** eines unabhängigen Treuhänders mit Verteilfunktion; (3) **Einziehungsermächtigung des Kunden** mit Weiterleitungspflicht. Jedes Modell hat insolvenz- und aufsichtsrechtliche Implikationen. Ordne die Strukturen und liefert die Vertragsbausteine.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

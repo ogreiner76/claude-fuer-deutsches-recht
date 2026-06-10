@@ -1,6 +1,6 @@
 ---
 name: presse-mandantenkommunikation-entscheidungsvorlage
-description: "Presse: Mandantenkommunikation und Entscheidungsvorlage: Presse: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt urheber medienrecht."
+description: "Presse: Mandantenkommunikation und Entscheidungsvorlage: Presse: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Presse: Mandantenkommunikation und Entscheidungsvorlage
@@ -14,7 +14,7 @@ description: "Presse: Mandantenkommunikation und Entscheidungsvorlage: Presse: M
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Presse: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt urheber medienrecht.
+**Fokus:** Presse: Mandantenkommunikation und Entscheidungsvorlage.
 
 ## Spezialwissen: Presse: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

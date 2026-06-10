@@ -1,6 +1,6 @@
 ---
 name: bilinguale-client-commercial-sonderfall
-description: "Bilinguale: Compliance-Dokumentation und Aktenvermerk im Plugin common law kompass im Common Law Kompass."
+description: "Bilinguale: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Bilinguale: Compliance-Dokumentation und Aktenvermerk

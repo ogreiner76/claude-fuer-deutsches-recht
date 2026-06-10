@@ -1,6 +1,6 @@
 ---
 name: brak-internationaler-bezug-und-schnittstellen
-description: "Brak: Internationaler Bezug und Schnittstellen im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Brak: Internationaler Bezug und Schnittstellen."
 ---
 
 # Brak: Internationaler Bezug und Schnittstellen

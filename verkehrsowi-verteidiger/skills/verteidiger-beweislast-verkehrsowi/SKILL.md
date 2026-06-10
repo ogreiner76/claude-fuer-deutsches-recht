@@ -1,6 +1,6 @@
 ---
 name: verteidiger-beweislast-verkehrsowi
-description: "Verteidiger: Beweislast, Darlegungslast und Substantiierung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Verteidiger: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Verteidiger: Beweislast, Darlegungslast und Substantiierung

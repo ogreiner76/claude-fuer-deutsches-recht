@@ -1,6 +1,6 @@
 ---
 name: data-digitalregulierung-dora
-description: "Data: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Data: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Data: Dokumentenmatrix, Lückenliste und Nachforderung

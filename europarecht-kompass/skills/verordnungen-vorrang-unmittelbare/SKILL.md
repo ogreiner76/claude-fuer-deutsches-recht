@@ -1,6 +1,6 @@
 ---
 name: verordnungen-vorrang-unmittelbare
-description: "Verordnungen: Verhandlung, Vergleich und Eskalation im Plugin europarecht kompass im Europarecht Kompass."
+description: "Verordnungen: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Verordnungen: Verhandlung, Vergleich und Eskalation

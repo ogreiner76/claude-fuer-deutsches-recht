@@ -21,7 +21,7 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ## Vertiefung: Parteigericht als echter Rechtsschutz
 
-§ 14 PartG privilegiert parteiinterne Schiedsgerichte nur, wenn sie mehr sind als ein Etikett. Dieser Skill prüft deshalb nicht nur, ob eine Schiedsgerichtsordnung existiert, sondern ob ihre Organisation im konkreten Fall rechtliches Gehör, gerechtes Verfahren, Befangenheitskontrolle und eine tatsächlich unabhängige Entscheidung ermöglicht.
+§ 14 PartG privilegiert parteiinterne Schiedsgerichte nur, wenn sie mehr sind als ein Etikett. Prüfe deshalb nicht nur, ob eine Schiedsgerichtsordnung existiert, sondern ob ihre Organisation im konkreten Fall rechtliches Gehör, gerechtes Verfahren, Befangenheitskontrolle und eine tatsächlich unabhängige Entscheidung ermöglicht.
 
 ### Strukturcheck
 

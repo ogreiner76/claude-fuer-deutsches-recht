@@ -15,7 +15,7 @@ description: "Führt einen Statuscheck zur Qualifikation als Handelsvertreter na
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Statuscheck Handelsvertreter nach § 84 HGB.
+Unterstützt bei rechtlichen Fragen rund um Statuscheck Handelsvertreter nach § 84 HGB.
 Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.

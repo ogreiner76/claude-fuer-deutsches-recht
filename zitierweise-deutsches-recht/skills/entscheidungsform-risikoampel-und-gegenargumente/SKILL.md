@@ -1,6 +1,6 @@
 ---
 name: entscheidungsform-risikoampel-und-gegenargumente
-description: "Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien

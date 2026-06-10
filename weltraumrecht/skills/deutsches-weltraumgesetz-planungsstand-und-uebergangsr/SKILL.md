@@ -15,7 +15,7 @@ description: "Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungs
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet **Deutsches Weltraumgesetz: Planungsstand und Übergangsrisiko** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite **Deutsches Weltraumgesetz: Planungsstand und Übergangsrisiko** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Kontext
 

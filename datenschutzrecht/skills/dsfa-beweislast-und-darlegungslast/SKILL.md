@@ -1,6 +1,6 @@
 ---
 name: dsfa-beweislast-und-darlegungslast
-description: "Dsfa: Beweislast, Darlegungslast und Substantiierung: Dsfa: Beweislast, Darlegungslast und Substantiierung im Plugin datenschutzrecht."
+description: "Dsfa: Beweislast, Darlegungslast und Substantiierung: Dsfa: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Dsfa: Beweislast, Darlegungslast und Substantiierung
@@ -14,7 +14,7 @@ description: "Dsfa: Beweislast, Darlegungslast und Substantiierung: Dsfa: Beweis
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Dsfa: Beweislast, Darlegungslast und Substantiierung im Plugin datenschutzrecht.
+**Fokus:** Dsfa: Beweislast, Darlegungslast und Substantiierung.
 
 ## Spezialwissen: Dsfa: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.

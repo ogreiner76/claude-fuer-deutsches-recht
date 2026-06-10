@@ -15,7 +15,7 @@ description: "Beschwerde bei Kassenaufsichtsbehörden (BAS, Landesbehörden): Zu
 
 ## Skill-Zweck
 
-Neben dem Rechtsweg zu den Sozialgerichten können Beschwerden bei der Kassenaufsicht eingereicht werden. Dieser Skill klärt **Zuständigkeiten von BAS und Landesbehörden, sinnvolle Beschwerdeinhalte und Grenzen der Aufsicht**.
+Neben dem Rechtsweg zu den Sozialgerichten können Beschwerden bei der Kassenaufsicht eingereicht werden. Kläre **Zuständigkeiten von BAS und Landesbehörden, sinnvolle Beschwerdeinhalte und Grenzen der Aufsicht**.
 
 ## Rechtlicher Rahmen
 

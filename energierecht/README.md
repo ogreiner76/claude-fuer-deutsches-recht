@@ -149,7 +149,7 @@ Automatisch generierte Komplett-Liste aller 92 Skills in diesem Plugin. Beschrei
 | `projektfinanzierung` | Projektfinanzierung für Energieanlagen strukturieren: Darlehen, Sicherheiten, Ratinganforderungen. Normen: EnWG, EEG, KWKG, BGB. Prüfraster: Finanzierungsstruktur, Sicherheitenpakete, Cashflow-Analyse, Foerderdarlehen. Output: Projektfin... |
 | `projektfinanzierung-stadtwerke-system` | Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk im Energierecht. |
 | `quellen-livecheck` | Quellen-Live-Check für Energierecht (EnWG, EEG): prüft Normen (EnWG, EEG, KWKG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt BNetzA und Quellenhygiene nach references/quellenhygiene.md. |
-| `rechtsquellen-sonderfall-edge-case` | Rechtsquellen: Quellenprüfung; Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `rechtsquellen-sonderfall-edge-case` | Rechtsquellen: Quellenprüfung; Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
 | `redispatch-3-0-spezial` | Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Pruefraster für Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister im... |
 | `routing-internationaler-bezug-und-schnittstellen` | Routing: Internationaler Bezug und Schnittstellen im Energierecht. |
 | `stadtwerke-tatbestand-beweis-und-belege` | Stadtwerke: Tatbestandsmerkmale, Beweisfragen und Beleglage im Energierecht. |

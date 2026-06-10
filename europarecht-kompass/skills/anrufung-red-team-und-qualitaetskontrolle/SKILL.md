@@ -1,6 +1,6 @@
 ---
 name: anrufung-red-team-und-qualitaetskontrolle
-description: "Anrufung: Red-Team und Qualitätskontrolle im Plugin europarecht kompass im Europarecht Kompass."
+description: "Anrufung: Red-Team und Qualitätskontrolle."
 ---
 
 # Anrufung: Red-Team und Qualitätskontrolle

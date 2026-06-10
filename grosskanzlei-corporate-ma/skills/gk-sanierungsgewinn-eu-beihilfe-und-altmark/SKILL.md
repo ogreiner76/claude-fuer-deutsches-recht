@@ -35,7 +35,7 @@ description: "EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art: 
 
 Sanierungsmaßnahmen können EU-beihilferechtlich relevant werden, wenn sie aus staatlichen Mitteln finanziert werden, einer bestimmten Gesellschaft einen wirtschaftlichen Vorteil verschaffen, den Wettbewerb verfälschen und den Handel zwischen Mitgliedstaaten beeinträchtigen (Art. 107 Abs. 1 AEUV). Der Sanierungsgewinn-Komplex ist mehrfach Gegenstand beihilferechtlicher Auseinandersetzungen gewesen, insbesondere die **Sanierungsklausel § 8c Abs. 1a KStG**. Daneben spielen die **Altmark-Trans-Kriterien** für Ausgleichsleistungen im Bereich öffentlicher Dienstleistungen eine Rolle.
 
-Dieser Skill liefert die Prüfanleitung für die EU-beihilferechtliche Würdigung im Sanierungsmandat.
+Liefert die Prüfanleitung für die EU-beihilferechtliche Würdigung im Sanierungsmandat.
 
 ## Wann dieses Modul hilft
 

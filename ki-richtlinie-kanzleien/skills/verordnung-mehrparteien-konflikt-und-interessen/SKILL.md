@@ -1,6 +1,6 @@
 ---
 name: verordnung-mehrparteien-konflikt-und-interessen
-description: "Verordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Verordnung: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Verordnung: Mehrparteienkonflikt und Interessenmatrix

@@ -19,7 +19,7 @@ Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG § 41: Voraus
 
 ## Zweck dieses Skills
 
-Dieser Skill begleitet Autoren und Verlage bei der rechtlich korrekten Abwicklung von Vergriffenheit und dem daraus folgenden Rückruf von Nutzungsrechten. Wenn ein Verlag ein Werk nicht mehr lieferfähig hält und keine Neuauflage plant, eröffnet das Gesetz dem Urheber spezifische Rückrufmechanismen.
+Begleitet Autoren und Verlage bei der rechtlich korrekten Abwicklung von Vergriffenheit und dem daraus folgenden Rückruf von Nutzungsrechten. Wenn ein Verlag ein Werk nicht mehr lieferfähig hält und keine Neuauflage plant, eröffnet das Gesetz dem Urheber spezifische Rückrufmechanismen.
 
 Zentral sind zwei Normen: **VerlG § 17** (Rücktrittrecht des Verlegers und Rückgabe bei Untergang des Werkes) sowie **UrhG § 41** (Rückruf wegen Nichtausübung des Nutzungsrechts). Hinzu kommt die Frage, wann die Buchpreisbindung nach BuchPrG endet und wie ein Neustart beim selben oder einem anderen Verlag rechtssicher gestaltet wird.
 

@@ -7,7 +7,7 @@ description: "Aktionaersklage Anfechtung § 243 AktG: fachanwaltlicher Spezial-S
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Aktionaersklage Anfechtung § 243 AktG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Aktionaersklage Anfechtung § 243 AktG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

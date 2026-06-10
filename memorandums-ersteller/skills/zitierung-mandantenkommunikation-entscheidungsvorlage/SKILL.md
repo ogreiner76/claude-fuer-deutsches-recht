@@ -1,6 +1,6 @@
 ---
 name: zitierung-mandantenkommunikation-entscheidungsvorlage
-description: "Zitierung: Mandantenkommunikation und Entscheidungsvorlage: Zitierung: Mandantenkommunikation und Entscheidungsvorlage im Plugin memorandums ersteller."
+description: "Zitierung: Mandantenkommunikation und Entscheidungsvorlage: Zitierung: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Zitierung: Mandantenkommunikation und Entscheidungsvorlage
@@ -14,7 +14,7 @@ description: "Zitierung: Mandantenkommunikation und Entscheidungsvorlage: Zitier
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Rechtsanwalt, Auftraggeber (intern: Rechtsabteilung), Gegner, ggf. Gericht (bei Vorlage), externer Spezialist.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Memo (Sachverhalt, Frage, Kurzergebnis, Begründung, Risiko, Empfehlung), Akteneinsichtsantrag, Vollmacht, Honorarvereinbarung, Tatsachenpaket — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Zitierung: Mandantenkommunikation und Entscheidungsvorlage im Plugin memorandums ersteller.
+**Fokus:** Zitierung: Mandantenkommunikation und Entscheidungsvorlage.
 
 ## Spezialwissen: Zitierung: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.

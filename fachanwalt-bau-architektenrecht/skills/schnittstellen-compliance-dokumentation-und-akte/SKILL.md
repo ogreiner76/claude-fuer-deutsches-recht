@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-compliance-dokumentation-und-akte
-description: "Schnittstellen: Compliance-Dokumentation und Aktenvermerk: Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bau architektenrecht."
+description: "Schnittstellen: Compliance-Dokumentation und Aktenvermerk: Schnittstellen: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Schnittstellen: Compliance-Dokumentation und Aktenvermerk
@@ -43,7 +43,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bau architektenrecht.
+**Fokus:** Schnittstellen: Compliance-Dokumentation und Aktenvermerk.
 
 ## Spezialwissen: Schnittstellen: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

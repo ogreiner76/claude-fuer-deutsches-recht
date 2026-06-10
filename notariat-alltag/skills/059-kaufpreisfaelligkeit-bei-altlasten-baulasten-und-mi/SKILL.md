@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Kaufpreisfälligkeit bei Altlasten, Baulasten 
 
 ## Zweck und Anwendungsbereich
 
-Nicht jeder Grundstückskauf ist ein Standard-Fall. Altlasten, Baulasten, laufende Mietverträge und öffentlich-rechtliche Beschränkungen können die Kaufpreisfälligkeit und den Vollzug erheblich verkomplizieren. Dieser Skill klärt die Besonderheiten.
+Nicht jeder Grundstückskauf ist ein Standard-Fall. Altlasten, Baulasten, laufende Mietverträge und öffentlich-rechtliche Beschränkungen können die Kaufpreisfälligkeit und den Vollzug erheblich verkomplizieren. Kläre die Besonderheiten.
 
 Rechtsgrundlagen: §§ 433–453 BGB (Kaufvertrag, Sachmängelrecht), §§ 435–436 BGB (Rechtsmangel), § 437 BGB (Gewährleistung), BBodSchG §§ 4–24 (Bodenschutz, Altlasten), BauOrdnungsrecht der Länder (Baulast), §§ 566–570 BGB (Mietvertragsübergang bei Verkauf), § 311b BGB (Form).
 

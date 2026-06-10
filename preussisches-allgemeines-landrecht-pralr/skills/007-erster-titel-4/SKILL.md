@@ -1,6 +1,6 @@
 ---
 name: 007-erster-titel-4
-description: "PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 4 Willenserklärungen und Verträge im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unt..."
+description: "PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge: Bearbeite den ersten Teil Titel 4 Willenserklärungen und Verträge im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unt..."
 ---
 
 # PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge

@@ -1,6 +1,6 @@
 ---
 name: gliederung-mandantenunterlagen-memorandum
-description: "Gliederung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Gliederung: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Gliederung: Schriftsatz-, Brief- und Memo-Bausteine

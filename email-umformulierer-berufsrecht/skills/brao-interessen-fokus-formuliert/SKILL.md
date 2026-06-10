@@ -1,6 +1,6 @@
 ---
 name: brao-interessen-fokus-formuliert
-description: "Brao: Mehrparteienkonflikt und Interessenmatrix im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Brao: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Brao: Mehrparteienkonflikt und Interessenmatrix

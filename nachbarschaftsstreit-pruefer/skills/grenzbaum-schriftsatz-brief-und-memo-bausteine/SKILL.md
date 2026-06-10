@@ -1,6 +1,6 @@
 ---
 name: grenzbaum-schriftsatz-brief-und-memo-bausteine
-description: "Grenzbaum: Schriftsatz-, Brief- und Memo-Bausteine im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Grenzbaum: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Grenzbaum: Schriftsatz-, Brief- und Memo-Bausteine

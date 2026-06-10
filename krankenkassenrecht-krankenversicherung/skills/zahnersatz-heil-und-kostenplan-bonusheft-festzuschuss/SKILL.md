@@ -15,7 +15,7 @@ description: "Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversor
 
 ## Skill-Zweck
 
-Dieser Skill klärt **Zahnersatzversorgung** in der GKV: Welche Leistung schuldet die Kasse, wie funktioniert der Festzuschuss, wie wirkt das Bonusheft und wann entstehen Mehrkosten für den Versicherten?
+Klärt **Zahnersatzversorgung** in der GKV: Welche Leistung schuldet die Kasse, wie funktioniert der Festzuschuss, wie wirkt das Bonusheft und wann entstehen Mehrkosten für den Versicherten?
 
 ## Rechtlicher Rahmen
 

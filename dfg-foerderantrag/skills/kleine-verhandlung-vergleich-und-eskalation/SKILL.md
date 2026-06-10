@@ -1,6 +1,6 @@
 ---
 name: kleine-verhandlung-vergleich-und-eskalation
-description: "Kleine: Verhandlung, Vergleich und Eskalation im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Kleine: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Kleine: Verhandlung, Vergleich und Eskalation

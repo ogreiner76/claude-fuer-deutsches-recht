@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill analysiert, ob Chatgruppen-Aktivitäten den Tatbestand des Insiderhandels oder
+Analysiere, ob Chatgruppen-Aktivitäten den Tatbestand des Insiderhandels oder
 der Marktmanipulation erfüllen, und entwickelt die Verteidigungsstrategie oder Compliance-
 Präventionsmaßnahmen.
 

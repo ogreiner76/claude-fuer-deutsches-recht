@@ -1,6 +1,6 @@
 ---
 name: aktenlektuere-fristennotiz-und-naechster-schritt
-description: "Aktenlektuere: Fristennotiz und nächster Schritt im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Aktenlektuere: Fristennotiz und nächster Schritt."
 ---
 
 # Aktenlektuere: Fristennotiz und nächster Schritt

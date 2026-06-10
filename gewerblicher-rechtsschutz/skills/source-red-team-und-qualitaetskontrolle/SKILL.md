@@ -15,7 +15,7 @@ description: "Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Sys
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill führt eine **systematische Red-Team-Prüfung** von IP-rechtlichen Analysen, Schriftsätzen, Memos und Abmahnungen durch. Er simuliert die Gegenperspektive: Was wird die Gegenseite einwenden? Welche Quellen sind schwach oder angreifbar? Wo sind die blinden Flecken der eigenen Argumentation?
+Führt eine **systematische Red-Team-Prüfung** von IP-rechtlichen Analysen, Schriftsätzen, Memos und Abmahnungen durch. Er simuliert die Gegenperspektive: Was wird die Gegenseite einwenden? Welche Quellen sind schwach oder angreifbar? Wo sind die blinden Flecken der eigenen Argumentation?
 
 Mandatsbezug: Anwalt hat EV-Antrag oder Abmahnschreiben fertiggestellt und will es vor Versand einem internen Review unterziehen. Kanzlei-Quality-Gate vor Einreichung von Schriftsätzen. Mandant fragt: Wie stark ist unser Fall wirklich?
 

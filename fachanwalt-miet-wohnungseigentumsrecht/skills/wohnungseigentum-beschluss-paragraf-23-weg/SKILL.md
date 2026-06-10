@@ -7,7 +7,7 @@ description: "Wohnungseigentum Beschluss § 23 weg: fachanwaltlicher Spezial-Ski
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Wohnungseigentum Beschluss § 23 weg** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Wohnungseigentum Beschluss § 23 weg** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

@@ -1,6 +1,6 @@
 ---
 name: medienrecht-fristen-form-und-zustaendigkeit
-description: "Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht."
+description: "Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -14,7 +14,7 @@ description: "Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Medienre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht.
+**Fokus:** Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg.
 
 ## Spezialwissen: Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

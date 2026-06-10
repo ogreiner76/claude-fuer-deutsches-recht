@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft die Pflichten externer Berater und schafft Vertragsmuster und
+Prüft die Pflichten externer Berater und schafft Vertragsmuster und
 Compliance-Protokolle für den Umgang mit Insiderinformationen in Mandats- und
 Beratungsverhältnissen.
 

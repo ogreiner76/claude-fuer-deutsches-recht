@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Identitätsprüfung – Videoident und Präsen
 
 ## Zweck und Anwendungsbereich
 
-Die sichere Identifizierung aller Beteiligten ist eine Kernpflicht des Beurkundungsverfahrens. Dieser Skill klärt die Anforderungen nach BeurkG und GwG, die Möglichkeiten der Online-Identifikation und die Grenzen der Fernbeurkundung.
+Die sichere Identifizierung aller Beteiligten ist eine Kernpflicht des Beurkundungsverfahrens. Kläre die Anforderungen nach BeurkG und GwG, die Möglichkeiten der Online-Identifikation und die Grenzen der Fernbeurkundung.
 
 Rechtsgrundlagen: § 10 BeurkG (Feststellung der Beteiligten), § 13 BeurkG (Vorlesen und Unterzeichnung), § 16 BeurkG (Behinderungen, Dolmetscher), GwG § 8 (Identifizierungspflichten), GwG § 12 (Fernidentifizierung), BNotO §§ 10a, 16a (Videobeurkundung, ab 2022), BeurkG §§ 40a–40e (Online-Beglaubigung), DONot §§ 10–12 (Beurkundungsverfahren).
 

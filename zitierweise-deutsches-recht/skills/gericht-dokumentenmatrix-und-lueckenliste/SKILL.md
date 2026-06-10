@@ -1,6 +1,6 @@
 ---
 name: gericht-dokumentenmatrix-und-lueckenliste
-description: "Gericht: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Gericht: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Gericht: Dokumentenmatrix, Lückenliste und Nachforderung

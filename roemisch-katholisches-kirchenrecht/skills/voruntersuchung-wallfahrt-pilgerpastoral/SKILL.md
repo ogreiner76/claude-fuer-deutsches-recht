@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Anfangsverdacht, Rufschutz, Beweissicherung, Befangenheit und Aktenführung**.
+Prüft insbesondere: **Anfangsverdacht, Rufschutz, Beweissicherung, Befangenheit und Aktenführung**.
 
 **CIC-/Normanker:** can. 1717-1719.
 

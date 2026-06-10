@@ -1,6 +1,6 @@
 ---
 name: 012-erster-titel-9-grundstuecke
-description: "PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 9 Grundstücke Grenzen Nachbarn im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlage..."
+description: "PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn: Bearbeite den ersten Teil Titel 9 Grundstücke Grenzen Nachbarn im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlage..."
 ---
 
 # PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn

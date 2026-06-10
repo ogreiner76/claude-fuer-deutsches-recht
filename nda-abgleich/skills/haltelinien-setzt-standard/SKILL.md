@@ -1,6 +1,6 @@
 ---
 name: haltelinien-setzt-standard
-description: "Haltelinien: Verhandlung, Vergleich und Eskalation im Plugin nda abgleich im NDA-Abgleich."
+description: "Haltelinien: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Haltelinien: Verhandlung, Vergleich und Eskalation

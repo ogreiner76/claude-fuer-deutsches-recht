@@ -1,6 +1,6 @@
 ---
 name: einordnung-zahlen-schwellen-und-berechnung
-description: "Einordnung: Zahlen, Schwellenwerte und Berechnung im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Einordnung: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Einordnung: Zahlen, Schwellenwerte und Berechnung

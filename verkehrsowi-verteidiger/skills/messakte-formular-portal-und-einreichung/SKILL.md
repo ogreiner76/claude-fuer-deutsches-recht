@@ -1,6 +1,6 @@
 ---
 name: messakte-formular-portal-und-einreichung
-description: "Messakte: Formular, Portal und Einreichungslogik im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Messakte: Formular, Portal und Einreichungslogik."
 ---
 
 # Messakte: Formular, Portal und Einreichungslogik

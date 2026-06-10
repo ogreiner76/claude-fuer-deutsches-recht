@@ -1,6 +1,6 @@
 ---
 name: nachbarrecht-erstpruefung-und-mandatsziel
-description: "Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Nachbarrecht: Erstprüfung, Rollenklärung und Mandatsziel

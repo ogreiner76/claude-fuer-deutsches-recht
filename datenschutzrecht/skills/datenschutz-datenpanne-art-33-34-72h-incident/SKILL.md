@@ -7,7 +7,7 @@ description: "Datenpannen-Incident-Response Art. 33 und 34 DSGVO. 72-Stunden-Fri
 
 ## Zweck
 
-Dieser Skill fuehrt durch den Akutfall einer Datenpanne. Ziel ist die fristwahrende und zugleich bussgeldminimierende Meldung an die Aufsichtsbehoerde nach Art. 33 DSGVO und — falls erforderlich — die Benachrichtigung der Betroffenen nach Art. 34 DSGVO, ohne durch vorschnelle Selbstbelastung das Bussgeldrisiko nach Art. 83 DSGVO zu erhoehen.
+Führt durch den Akutfall einer Datenpanne. Ziel ist die fristwahrende und zugleich bussgeldminimierende Meldung an die Aufsichtsbehoerde nach Art. 33 DSGVO und — falls erforderlich — die Benachrichtigung der Betroffenen nach Art. 34 DSGVO, ohne durch vorschnelle Selbstbelastung das Bussgeldrisiko nach Art. 83 DSGVO zu erhoehen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

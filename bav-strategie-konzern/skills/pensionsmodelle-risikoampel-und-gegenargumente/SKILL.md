@@ -1,6 +1,6 @@
 ---
 name: pensionsmodelle-risikoampel-und-gegenargumente
-description: "Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien

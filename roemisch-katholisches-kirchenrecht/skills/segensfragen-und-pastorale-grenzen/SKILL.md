@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Segnungen, liturgische Form und lehrmäßige Grenzen**.
+Prüft insbesondere: **Segnungen, liturgische Form und lehrmäßige Grenzen**.
 
 **CIC-/Normanker:** can. 1166-1172, 838-839.
 

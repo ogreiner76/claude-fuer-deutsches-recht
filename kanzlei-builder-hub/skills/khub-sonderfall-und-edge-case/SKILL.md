@@ -1,6 +1,6 @@
 ---
 name: khub-sonderfall-und-edge-case
-description: "Khub: Sonderfall und Edge-Case-Prüfung im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Khub: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Khub: Sonderfall und Edge-Case-Prüfung

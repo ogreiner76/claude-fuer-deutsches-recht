@@ -1,6 +1,6 @@
 ---
 name: bfsg-tatbestand-beweis-und-belege
-description: "BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage

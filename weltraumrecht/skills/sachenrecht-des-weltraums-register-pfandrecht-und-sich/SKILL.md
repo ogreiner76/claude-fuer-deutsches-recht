@@ -15,7 +15,7 @@ description: "Sachenrecht für Satelliten – nationales Register, Pfandrechte, 
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Sachenrecht des Weltraums: Register, Pfandrecht, Sicherungsübereignung** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Sachenrecht des Weltraums: Register, Pfandrecht, Sicherungsübereignung** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

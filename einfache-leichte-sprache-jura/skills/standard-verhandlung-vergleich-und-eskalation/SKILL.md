@@ -1,6 +1,6 @@
 ---
 name: standard-verhandlung-vergleich-und-eskalation
-description: "Standard: Verhandlung, Vergleich und Eskalation im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Standard: Verhandlung, Vergleich und Eskalation: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Standard: Verhandlung, Vergleich und Eskalation

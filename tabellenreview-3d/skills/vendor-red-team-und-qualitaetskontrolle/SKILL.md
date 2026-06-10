@@ -1,6 +1,6 @@
 ---
 name: vendor-red-team-und-qualitaetskontrolle
-description: "Vendor: Red-Team und Qualitätskontrolle im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Vendor: Red-Team und Qualitätskontrolle."
 ---
 
 # Vendor: Red-Team und Qualitätskontrolle

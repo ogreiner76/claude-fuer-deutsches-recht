@@ -1,6 +1,6 @@
 ---
 name: reviewer-beweislast-und-darlegungslast
-description: "Reviewer: Beweislast, Darlegungslast und Substantiierung im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Reviewer: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Reviewer: Beweislast, Darlegungslast und Substantiierung

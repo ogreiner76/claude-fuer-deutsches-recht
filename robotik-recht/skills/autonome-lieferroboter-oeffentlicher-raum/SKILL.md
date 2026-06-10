@@ -11,7 +11,7 @@ description: "Prüft autonome Lieferroboter im öffentlichen Raum: Verkehrsrecht
 
 ## Worum geht es konkret
 
-Lieferroboter auf Gehwegen, in Fußgängerzonen und in Mischverkehrsräumen berühren ein Mosaik aus Bundes-, Landes- und Kommunalrecht: StVO/StVG, Landesstraßengesetze (Sondernutzung), Kommunalsatzungen, DSGVO (Kamerasensorik), KI-VO (autonome Wahrnehmung), MaschinenVO/ProdSG (Sicherheit) und Vertragsrecht zum Endkunden. Dieser Skill ordnet die Regulierungsebenen, gibt einen Genehmigungs-und enthält Vorlagen für Sondernutzungsanträge und Datenschutzhinweise.
+Lieferroboter auf Gehwegen, in Fußgängerzonen und in Mischverkehrsräumen berühren ein Mosaik aus Bundes-, Landes- und Kommunalrecht: StVO/StVG, Landesstraßengesetze (Sondernutzung), Kommunalsatzungen, DSGVO (Kamerasensorik), KI-VO (autonome Wahrnehmung), MaschinenVO/ProdSG (Sicherheit) und Vertragsrecht zum Endkunden. Ordne die Regulierungsebenen, gibt einen Genehmigungs-und enthält Vorlagen für Sondernutzungsanträge und Datenschutzhinweise.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

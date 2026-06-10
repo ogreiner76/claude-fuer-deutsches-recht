@@ -1,6 +1,6 @@
 ---
 name: review-risikoampel-und-gegenargumente
-description: "Review: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Review: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Review: Risikoampel, Gegenargumente und Verteidigungslinien

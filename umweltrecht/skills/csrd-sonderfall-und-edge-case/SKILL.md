@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Csrd: Sonderfall und Edge-Case-Prüfung
-- **Konkreter Gegenstand:** Csrd: Sonderfall und Edge-Case-Prüfung im Plugin umweltrecht..
+- **Konkreter Gegenstand:** Csrd: Sonderfall und Edge-Case-Prüfung.
 - **Normen-/Verfahrensanker:** BImSchG/UVPG/WHG/KrWG/BNatSchG/TEHG/UmwRG/UIG sowie Landesrecht und Behördenvollzug.
 - **Entscheidende Weiche:** Genehmigung, Nebenbestimmung, Drittschutz, Verbandsklage, Mess-/Gutachtengrundlage, Sanierungsanordnung, Bußgeld und Sofortvollzug getrennt prüfen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

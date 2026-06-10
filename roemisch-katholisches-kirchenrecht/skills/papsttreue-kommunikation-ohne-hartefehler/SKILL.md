@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Wahrheit, Barmherzigkeit, Norm, Einladung und Konsequenz**.
+Prüft insbesondere: **Wahrheit, Barmherzigkeit, Norm, Einladung und Konsequenz**.
 
 **CIC-/Normanker:** can. 747, 748, 212-213.
 

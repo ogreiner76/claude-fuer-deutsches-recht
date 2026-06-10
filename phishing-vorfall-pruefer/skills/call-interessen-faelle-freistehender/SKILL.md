@@ -1,6 +1,6 @@
 ---
 name: call-interessen-faelle-freistehender
-description: "Call: Mehrparteienkonflikt und Interessenmatrix im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Call: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Call: Mehrparteienkonflikt und Interessenmatrix

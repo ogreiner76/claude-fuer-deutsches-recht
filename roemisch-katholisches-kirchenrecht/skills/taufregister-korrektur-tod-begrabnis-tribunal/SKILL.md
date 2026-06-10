@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Taufregister und spätere Vermerke**.
+Prüft insbesondere: **Taufregister und spätere Vermerke**.
 
 **CIC-/Normanker:** can. 535, 877-878, 1121-1123.
 

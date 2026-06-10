@@ -1,6 +1,6 @@
 ---
 name: common-consideration-discovery
-description: "Common: Erstprüfung, Rollenklärung und Mandatsziel im Plugin common law kompass im Common Law Kompass."
+description: "Common: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Common: Erstprüfung, Rollenklärung und Mandatsziel

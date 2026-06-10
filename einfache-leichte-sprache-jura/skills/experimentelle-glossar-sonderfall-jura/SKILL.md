@@ -1,6 +1,6 @@
 ---
 name: experimentelle-glossar-sonderfall-jura
-description: "Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine

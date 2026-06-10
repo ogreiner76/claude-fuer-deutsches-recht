@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, 
 
 ## Zweck und Anwendungsbereich
 
-Kapitalerhöhungen stärken die Eigenkapitalbasis einer Gesellschaft. Dieser Skill führt durch die notariellen Anforderungen für GmbH- und AG-Kapitalerhöhungen mit Bareinlagen und Sacheinlagen sowie durch die Handelsregisteranmeldung.
+Kapitalerhöhungen stärken die Eigenkapitalbasis einer Gesellschaft. Führe durch die notariellen Anforderungen für GmbH- und AG-Kapitalerhöhungen mit Bareinlagen und Sacheinlagen sowie durch die Handelsregisteranmeldung.
 
 Rechtsgrundlagen: §§ 55–57 GmbHG (GmbH-Kapitalerhöhung), §§ 182–221 AktG (AG-Kapitalerhöhung), § 53 GmbHG (Satzungsänderung durch Kapitalerhöhungsbeschluss), § 57a GmbHG (vereinfachte Kapitalerhöhung), GmbHG § 5a (UG), § 12 HGB (Anmeldung).
 

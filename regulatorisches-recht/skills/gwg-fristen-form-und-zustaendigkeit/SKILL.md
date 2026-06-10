@@ -1,6 +1,6 @@
 ---
 name: gwg-fristen-form-und-zustaendigkeit
-description: "GwG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "GwG: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # GwG: Fristen, Form, Zuständigkeit und Rechtsweg

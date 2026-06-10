@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, 
 
 ## Zweck und Anwendungsbereich
 
-Der Grundstückskauf ist das volumenstärkste notarielle Geschäft. Dieser Skill steuert den gesamten Vollzugsprozess von der Beurkundung bis zur Eigentumsumschreibung. Ziel ist die lückenlose Prüfung aller Fälligkeitsvoraussetzungen, damit Kaufpreis und Eigentumsübergang zeitlich sauber synchronisiert werden.
+Der Grundstückskauf ist das volumenstärkste notarielle Geschäft. Steuere den gesamten Vollzugsprozess von der Beurkundung bis zur Eigentumsumschreibung. Ziel ist die lückenlose Prüfung aller Fälligkeitsvoraussetzungen, damit Kaufpreis und Eigentumsübergang zeitlich sauber synchronisiert werden.
 
 Rechtsgrundlagen: § 311b Abs. 1 BGB (Formpflicht), § 873 BGB (Einigung und Eintragung), § 925 BGB (Auflassung), §§ 19–22 GBO (Eintragungsvoraussetzungen), § 883 BGB (Auflassungsvormerkung), § 22 GrEStG (steuerliche Unbedenklichkeit), § 3 GrEStG (Befreiungen), GNotKG §§ 34 ff. (Kostenwert), § 17 Abs. 2a BeurkG (Verbraucherwartefrist), MaBV (Bauträger), GwG.
 

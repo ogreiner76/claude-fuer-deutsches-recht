@@ -15,7 +15,7 @@ description: "Digitalisierung im Gesundheitswesen: Telemedizin, elektronische Pa
 
 ## Skill-Zweck
 
-Die Digitalisierung verändert das Krankenversicherungsrecht. Dieser Skill klärt **Telemedizin-Leistungsrahmen, ePA-Regelungen und eRezept-Prozesse** mit besonderem Fokus auf Datenschutz und Opt-out-Rechte.
+Die Digitalisierung verändert das Krankenversicherungsrecht. Kläre **Telemedizin-Leistungsrahmen, ePA-Regelungen und eRezept-Prozesse** mit besonderem Fokus auf Datenschutz und Opt-out-Rechte.
 
 ## Rechtlicher Rahmen
 

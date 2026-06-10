@@ -15,7 +15,7 @@ description: "GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfo
 
 ## Skill-Zweck
 
-Dieser Skill klärt den **GKV-Anspruch auf Kinderwunschbehandlung**: Welche Paare sind anspruchsberechtigt, welche Methoden werden bezuschusst, wie hoch ist der GKV-Anteil und was passiert nach Erschöpfung der Versuche?
+Klärt den **GKV-Anspruch auf Kinderwunschbehandlung**: Welche Paare sind anspruchsberechtigt, welche Methoden werden bezuschusst, wie hoch ist der GKV-Anteil und was passiert nach Erschöpfung der Versuche?
 
 ## Rechtlicher Rahmen
 

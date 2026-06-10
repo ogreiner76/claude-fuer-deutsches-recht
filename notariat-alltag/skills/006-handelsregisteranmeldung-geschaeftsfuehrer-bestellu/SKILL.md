@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer
 
 ## Zweck und Anwendungsbereich
 
-Jede Änderung des Vertretungsorgans einer GmbH oder AG muss unverzüglich zum Handelsregister angemeldet werden. Dieser Skill strukturiert die formellen Anforderungen, den Inhalt der Anmeldung sowie typische Zwischenverfügungsrisiken beim Registergericht.
+Jede Änderung des Vertretungsorgans einer GmbH oder AG muss unverzüglich zum Handelsregister angemeldet werden. Strukturiere die formellen Anforderungen, den Inhalt der Anmeldung sowie typische Zwischenverfügungsrisiken beim Registergericht.
 
 Rechtsgrundlagen: § 10 GmbHG (Registerpublizität), § 39 GmbHG (Anmeldung Geschäftsführer), § 78 GmbHG (Liquidatoren), §§ 76–94 AktG (Vorstand AG), §§ 12, 14 HGB (Form, Anmeldung), § 37 HGB (Firmengrundsätze), FamFG §§ 374–380 (Registerverfahren), § 15 HGB (negative/positive Publizität), GwG.
 

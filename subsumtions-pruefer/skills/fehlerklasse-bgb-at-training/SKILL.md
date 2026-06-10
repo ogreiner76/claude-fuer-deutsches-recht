@@ -15,7 +15,7 @@ description: "Ordnet BGB-AT-Fehler in Klausuren: Vertragsschluss, Zugang, Minder
 
 ## Ziel
 
-Dieser Skill führt nicht schematisch durch Fehlerklassen im BGB-AT-Training, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt. Er ordnet Fehler nach Schwere und gibt konkrete Korrekturanleitungen.
+Erzwinge bei Fehlerklassen im BGB-AT-Training eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt. Ordne Fehler nach Schwere und gib konkrete Korrekturanleitungen.
 
 ## Systematik der BGB-AT-Fehlerklassen
 

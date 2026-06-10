@@ -15,7 +15,7 @@ description: "E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, R�
 
 ## Worum es geht
 
-Dieser Skill prüft das E-Geld-Geschäft nach ZAG: ob ein Produkt E-Geld im Sinne von § 1 Abs. 2 ZAG ist, welche Erlaubnisanforderungen gelten und wie Eigenmittel, Sicherung, Ausgabe und Rücktausch rechtssicher ausgestaltet werden. Abgrenzungen zu Gutscheinen, Kryptowerten (MiCAR) und Bankeinlagen (KWG) werden durchgeführt.
+Prüft das E-Geld-Geschäft nach ZAG: ob ein Produkt E-Geld im Sinne von § 1 Abs. 2 ZAG ist, welche Erlaubnisanforderungen gelten und wie Eigenmittel, Sicherung, Ausgabe und Rücktausch rechtssicher ausgestaltet werden. Abgrenzungen zu Gutscheinen, Kryptowerten (MiCAR) und Bankeinlagen (KWG) werden durchgeführt.
 
 ## Kernnormen
 

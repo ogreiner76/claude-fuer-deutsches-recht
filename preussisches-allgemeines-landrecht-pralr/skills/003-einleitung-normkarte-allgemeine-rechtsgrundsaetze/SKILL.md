@@ -1,6 +1,6 @@
 ---
 name: 003-einleitung-normkarte-allgemeine-rechtsgrundsaetze
-description: "PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze

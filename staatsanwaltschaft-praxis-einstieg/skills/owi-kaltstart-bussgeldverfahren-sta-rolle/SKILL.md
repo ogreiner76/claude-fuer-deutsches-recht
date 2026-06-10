@@ -41,7 +41,7 @@ Gib je nach Lage einen Kurzvermerk, Verfügungsvorschlag, Nachermittlungsauftrag
 
 ## Fachlicher Fokus
 
-Dieser Skill klärt zuerst die Rolle: Im Bußgeldverfahren gibt es keine Anklageschrift und keinen Strafbefehl; regelmäßig erlässt die Verwaltungsbehörde den Bußgeldbescheid. Nach Einspruch prüft sie im Zwischenverfahren und legt die Akte über die Staatsanwaltschaft dem Amtsgericht vor. In der Hauptverhandlung tritt die Staatsanwaltschaft nicht als klassische Anklagebehörde auf, kann aber teilnehmen und Anträge stellen.
+Klärt zuerst die Rolle: Im Bußgeldverfahren gibt es keine Anklageschrift und keinen Strafbefehl; regelmäßig erlässt die Verwaltungsbehörde den Bußgeldbescheid. Nach Einspruch prüft sie im Zwischenverfahren und legt die Akte über die Staatsanwaltschaft dem Amtsgericht vor. In der Hauptverhandlung tritt die Staatsanwaltschaft nicht als klassische Anklagebehörde auf, kann aber teilnehmen und Anträge stellen.
 
 ## Prüfschritte
 

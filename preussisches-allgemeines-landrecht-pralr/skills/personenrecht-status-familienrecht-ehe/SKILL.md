@@ -1,6 +1,6 @@
 ---
 name: personenrecht-status-familienrecht-ehe
-description: "PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Personenrecht und Status

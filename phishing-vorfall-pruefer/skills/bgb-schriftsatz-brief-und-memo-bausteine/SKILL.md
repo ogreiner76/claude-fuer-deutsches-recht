@@ -1,6 +1,6 @@
 ---
 name: bgb-schriftsatz-brief-und-memo-bausteine
-description: "BGB: Schriftsatz-, Brief- und Memo-Bausteine im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "BGB: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # BGB: Schriftsatz-, Brief- und Memo-Bausteine

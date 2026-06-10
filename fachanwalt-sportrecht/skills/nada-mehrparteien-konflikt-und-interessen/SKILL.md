@@ -1,6 +1,6 @@
 ---
 name: nada-mehrparteien-konflikt-und-interessen
-description: "Nada: Mehrparteienkonflikt und Interessenmatrix: Nada: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt sportrecht."
+description: "Nada: Mehrparteienkonflikt und Interessenmatrix: Nada: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Nada: Mehrparteienkonflikt und Interessenmatrix
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Nada: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt sportrecht.
+**Fokus:** Nada: Mehrparteienkonflikt und Interessenmatrix.
 
 ## Spezialwissen: Nada: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

@@ -1,6 +1,6 @@
 ---
 name: parkraum-planfeststellung-strassenbahn
-description: "Parkraum: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Parkraum: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Parkraum: Schriftsatz-, Brief- und Memo-Bausteine

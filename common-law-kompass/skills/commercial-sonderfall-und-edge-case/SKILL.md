@@ -1,6 +1,6 @@
 ---
 name: commercial-sonderfall-und-edge-case
-description: "Commercial: Sonderfall und Edge-Case-Prüfung im Plugin common law kompass im Common Law Kompass."
+description: "Commercial: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Commercial: Sonderfall und Edge-Case-Prüfung

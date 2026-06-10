@@ -1,6 +1,6 @@
 ---
 name: vollstaendigen-tatbestand-beweis-und-belege
-description: "Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
+description: "Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Vollstaendigen: Tatbestandsmerkmale, Beweisfragen und Beleglage

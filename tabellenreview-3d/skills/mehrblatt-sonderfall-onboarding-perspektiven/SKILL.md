@@ -1,6 +1,6 @@
 ---
 name: mehrblatt-sonderfall-onboarding-perspektiven
-description: "Mehrblatt: Sonderfall und Edge-Case-Prüfung im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Mehrblatt: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Mehrblatt: Sonderfall und Edge-Case-Prüfung

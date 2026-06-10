@@ -1,6 +1,6 @@
 ---
 name: tastatur-verhandlung-vergleich-und-eskalation
-description: "Tastatur: Verhandlung, Vergleich und Eskalation im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Tastatur: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Tastatur: Verhandlung, Vergleich und Eskalation

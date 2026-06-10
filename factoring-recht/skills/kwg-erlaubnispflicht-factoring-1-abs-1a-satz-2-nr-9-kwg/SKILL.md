@@ -19,7 +19,7 @@ KWG Erlaubnispflicht Factoring § 1 Abs. 1a Satz 2 Nr. 9 KWG: prüft die einschl
 
 ## Worum es geht
 
-Dieser Skill prüft, ob ein Factoring-Geschäftsmodell unter die Erlaubnispflicht nach § 1 Abs. 1a Satz 2 Nr. 9 KWG fällt. Die Norm ist der gesetzliche Anker des Factorings als Finanzdienstleistung. Zentrale Fragen sind: Liegt echtes oder unechtes Factoring vor? Handelt der Factor auf eigene Rechnung? Findet eine Bonitätsprüfung statt? Für reine Forderungseinkäufer ohne Kreditfunktion kann das Bankenprivileg fehlen.
+Prüfe, ob ein Factoring-Geschäftsmodell unter die Erlaubnispflicht nach § 1 Abs. 1a Satz 2 Nr. 9 KWG fällt. Die Norm ist der gesetzliche Anker des Factorings als Finanzdienstleistung. Zentrale Fragen sind: Liegt echtes oder unechtes Factoring vor? Handelt der Factor auf eigene Rechnung? Findet eine Bonitätsprüfung statt? Für reine Forderungseinkäufer ohne Kreditfunktion kann das Bankenprivileg fehlen.
 
 ## Kernnormen
 

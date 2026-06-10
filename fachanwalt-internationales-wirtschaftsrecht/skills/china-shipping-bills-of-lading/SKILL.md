@@ -7,7 +7,7 @@ description: "China Shipping Bills of Lading: fachanwaltlicher Spezial-Skill mit
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **China Shipping Bills of Lading** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **China Shipping Bills of Lading** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

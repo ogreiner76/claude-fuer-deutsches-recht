@@ -1,6 +1,6 @@
 ---
 name: deployment-eigenen-einsteiger
-description: "Deployment: Schriftsatz-, Brief- und Memo-Bausteine im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Deployment: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Deployment: Schriftsatz-, Brief- und Memo-Bausteine

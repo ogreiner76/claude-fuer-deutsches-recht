@@ -1,6 +1,6 @@
 ---
 name: aussenhandel-zahlen-schwellen-und-berechnung
-description: "Aussenhandel: Zahlen, Schwellenwerte und Berechnung: Aussenhandel: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt internationales wirtschaftsrecht."
+description: "Aussenhandel: Zahlen, Schwellenwerte und Berechnung: Aussenhandel: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Aussenhandel: Zahlen, Schwellenwerte und Berechnung
@@ -28,7 +28,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aussenhandel: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt internationales wirtschaftsrecht.
+**Fokus:** Aussenhandel: Zahlen, Schwellenwerte und Berechnung.
 
 ## Spezialwissen: Aussenhandel: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.

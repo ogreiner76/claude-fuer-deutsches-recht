@@ -1,6 +1,6 @@
 ---
 name: workflow-anschluss-skills-router
-description: "Anschluss-Skills Router: Anschluss-Skills Router im Plugin fachanwalt-familienrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor."
+description: "Anschluss-Skills Router: Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor."
 ---
 
 # Anschluss-Skills Router
@@ -14,7 +14,7 @@ description: "Anschluss-Skills Router: Anschluss-Skills Router im Plugin fachanw
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Anschluss-Skills Router im Plugin fachanwalt-familienrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor.
+**Fokus:** Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor.
 
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Anschluss-Skills Router` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.

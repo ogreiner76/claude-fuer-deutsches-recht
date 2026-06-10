@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Mandantenmail – freundlich, knapp und rechts
 
 ## Zweck und Anwendungsbereich
 
-Die Mandantenkommunikation ist das Aushängeschild des Notariats. Dieser Skill strukturiert, was in einer Mandantenmail stehen darf, was vermieden werden muss und wie schwierige Informationen (Vollzugsblockaden, Kosten, Wartefristen) klar und freundlich kommuniziert werden.
+Die Mandantenkommunikation ist das Aushängeschild des Notariats. Strukturiere, was in einer Mandantenmail stehen darf, was vermieden werden muss und wie schwierige Informationen (Vollzugsblockaden, Kosten, Wartefristen) klar und freundlich kommuniziert werden.
 
 Rechtsgrundlagen: § 17 BeurkG (Belehrungspflicht), § 14 BNotO (Unparteilichkeit), § 29 BNotO (Verschwiegenheit), § 18 BNotO (Auskunftspflicht), RDG (Rechtsdienstleistungsgesetz) – Abgrenzung zur Rechtsberatung, § 97 StGB (Verletzung Privatgeheimnis), DSGVO Art. 5 (Datenminimierung).
 

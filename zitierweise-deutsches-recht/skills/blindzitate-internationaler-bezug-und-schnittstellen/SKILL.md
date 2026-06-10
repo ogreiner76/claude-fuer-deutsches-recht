@@ -1,6 +1,6 @@
 ---
 name: blindzitate-internationaler-bezug-und-schnittstellen
-description: "Blindzitate: Internationaler Bezug und Schnittstellen im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Blindzitate: Internationaler Bezug und Schnittstellen."
 ---
 
 # Blindzitate: Internationaler Bezug und Schnittstellen

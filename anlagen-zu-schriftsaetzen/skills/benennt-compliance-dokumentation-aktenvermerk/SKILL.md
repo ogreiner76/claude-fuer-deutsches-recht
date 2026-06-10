@@ -1,6 +1,6 @@
 ---
 name: benennt-compliance-dokumentation-aktenvermerk
-description: "Benennt: Compliance-Dokumentation und Aktenvermerk im Plugin Anlagen Zu Schriftsaetzen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Benennt: Compliance-Dokumentation und Aktenvermerk: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
 ---
 
 # Benennt: Compliance-Dokumentation und Aktenvermerk
@@ -21,7 +21,7 @@ Arbeitsfokus: **Benennt: Compliance-Dokumentation und Aktenvermerk**. Prüfe die
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Spezialwissen: Benennt: Compliance-Dokumentation und Aktenvermerk
-- **Konkreter Gegenstand:** Benennt: Compliance-Dokumentation und Aktenvermerk im Plugin anlagen zu schriftsaetzen..
+- **Konkreter Gegenstand:** Benennt: Compliance-Dokumentation und Aktenvermerk.
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.
 - **Entscheidende Weiche:** Anlage nur aufnehmen, wenn sie eine konkrete Behauptung trägt; Nummerierung, Fundstelle, Dateiname, OCR, Schwärzung und Versandfähigkeit müssen zusammenpassen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

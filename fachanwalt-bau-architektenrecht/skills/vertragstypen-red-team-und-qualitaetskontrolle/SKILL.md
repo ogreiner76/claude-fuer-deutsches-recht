@@ -1,6 +1,6 @@
 ---
 name: vertragstypen-red-team-und-qualitaetskontrolle
-description: "Vertragstypen: Red-Team und Qualitätskontrolle: Vertragstypen: Red-Team und Qualitätskontrolle im Plugin fachanwalt bau architektenrecht."
+description: "Vertragstypen: Red-Team und Qualitätskontrolle: Vertragstypen: Red-Team und Qualitätskontrolle."
 ---
 
 # Vertragstypen: Red-Team und Qualitätskontrolle
@@ -14,7 +14,7 @@ description: "Vertragstypen: Red-Team und Qualitätskontrolle: Vertragstypen: Re
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Vertragstypen: Red-Team und Qualitätskontrolle im Plugin fachanwalt bau architektenrecht.
+**Fokus:** Vertragstypen: Red-Team und Qualitätskontrolle.
 
 ## Spezialwissen: Vertragstypen: Red-Team und Qualitätskontrolle
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Beratung, Teilhabe, Sendung und Grenzen demokratischer Missverständnisse**.
+Prüft insbesondere: **Beratung, Teilhabe, Sendung und Grenzen demokratischer Missverständnisse**.
 
 **CIC-/Normanker:** can. 208-223, 342-348, 460-468.
 

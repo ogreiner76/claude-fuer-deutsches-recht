@@ -40,7 +40,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-Pflegegrad-Ablehnungen oder Niedrigerstufungen sind in 60 Prozent der Fälle angreifbar — der MD arbeitet routinemaessig zu lieblos. Dieser Skill macht das System angreifbar.
+Pflegegrad-Ablehnungen oder Niedrigerstufungen sind in 60 Prozent der Fälle angreifbar — der MD arbeitet routinemaessig zu lieblos. Mache das System angreifbar.
 
 ## Eingabe
 

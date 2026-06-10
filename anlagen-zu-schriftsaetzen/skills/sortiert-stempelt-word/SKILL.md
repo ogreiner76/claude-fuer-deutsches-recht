@@ -1,6 +1,6 @@
 ---
 name: sortiert-stempelt-word
-description: "Schriftsatz: Verhandlung, Vergleich und Eskalation im Plugin anlagen zu schriftsaetzen im Anlagen zu Schriftsätzen."
+description: "Schriftsatz: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Schriftsatz: Verhandlung, Vergleich und Eskalation
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Spezialwissen: Schriftsatz: Verhandlung, Vergleich und Eskalation
-- **Konkreter Gegenstand:** Schriftsatz: Verhandlung, Vergleich und Eskalation im Plugin anlagen zu schriftsaetzen..
+- **Konkreter Gegenstand:** Schriftsatz: Verhandlung, Vergleich und Eskalation.
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.
 - **Entscheidende Weiche:** Anlage nur aufnehmen, wenn sie eine konkrete Behauptung trägt; Nummerierung, Fundstelle, Dateiname, OCR, Schwärzung und Versandfähigkeit müssen zusammenpassen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

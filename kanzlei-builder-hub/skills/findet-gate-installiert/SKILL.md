@@ -1,6 +1,6 @@
 ---
 name: findet-gate-installiert
-description: "Findet: Erstprüfung, Rollenklärung und Mandatsziel im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Findet: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Findet: Erstprüfung, Rollenklärung und Mandatsziel

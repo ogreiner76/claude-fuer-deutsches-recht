@@ -1,6 +1,6 @@
 ---
 name: beckrs-zahlen-schwellen-und-berechnung
-description: "Beckrs: Zahlen, Schwellenwerte und Berechnung im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Beckrs: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Beckrs: Zahlen, Schwellenwerte und Berechnung

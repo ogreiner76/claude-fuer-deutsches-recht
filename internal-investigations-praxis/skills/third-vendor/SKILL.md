@@ -19,7 +19,7 @@ Drittparteien (Agenten, Berater, Distributoren, Joint-Venture-Partner) sind die 
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert die Überprüfung von Drittparteien auf Korruptionsrisiken und die Untersuchung konkreter Verdachtsmomente bei bestehenden Agenten.
+Strukturiert die Überprüfung von Drittparteien auf Korruptionsrisiken und die Untersuchung konkreter Verdachtsmomente bei bestehenden Agenten.
 
 ## Arbeitsprogramm
 

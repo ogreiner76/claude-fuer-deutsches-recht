@@ -1,6 +1,6 @@
 ---
 name: bauleitplanung-interessen
-description: "Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix im Plugin Normenkontrolle Bauleitplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahren..."
+description: "Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahren..."
 ---
 
 # Bauleitplanung: Mehrparteienkonflikt und Interessenmatrix

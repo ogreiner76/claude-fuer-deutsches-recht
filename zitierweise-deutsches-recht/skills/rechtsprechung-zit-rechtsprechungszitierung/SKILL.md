@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-zit-rechtsprechungszitierung
-description: "Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg

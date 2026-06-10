@@ -1,6 +1,6 @@
 ---
 name: intake-mandantenkommunikation-entscheidungsvorlage
-description: "Intake: Mandantenkommunikation und Entscheidungsvorlage im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Intake: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Intake: Mandantenkommunikation und Entscheidungsvorlage

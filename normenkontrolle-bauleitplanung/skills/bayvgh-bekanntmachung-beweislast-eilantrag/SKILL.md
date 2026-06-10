@@ -1,6 +1,6 @@
 ---
 name: bayvgh-bekanntmachung-beweislast-eilantrag
-description: "Bayvgh: Verhandlung, Vergleich und Eskalation im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Bayvgh: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Bayvgh: Verhandlung, Vergleich und Eskalation

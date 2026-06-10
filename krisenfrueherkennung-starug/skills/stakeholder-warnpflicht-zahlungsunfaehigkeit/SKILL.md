@@ -1,6 +1,6 @@
 ---
 name: stakeholder-warnpflicht-zahlungsunfaehigkeit
-description: "Stakeholder: Abschlussprodukt und Übergabe im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Stakeholder: Abschlussprodukt und Übergabe."
 ---
 
 # Stakeholder: Abschlussprodukt und Übergabe

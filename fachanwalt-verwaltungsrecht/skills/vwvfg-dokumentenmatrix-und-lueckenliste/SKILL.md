@@ -1,6 +1,6 @@
 ---
 name: vwvfg-dokumentenmatrix-und-lueckenliste
-description: "Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung: Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verwaltungsrecht."
+description: "Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung: Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -14,7 +14,7 @@ description: "Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung: Vwvfg: Do
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verwaltungsrecht.
+**Fokus:** Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung.
 
 ## Spezialwissen: Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** VwGO, VwVfG.

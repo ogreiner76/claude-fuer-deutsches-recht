@@ -1,6 +1,6 @@
 ---
 name: wirtschaft-wuerfel-zeilenprompts
-description: "Wirtschaft: Zahlen, Schwellenwerte und Berechnung im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Wirtschaft: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Wirtschaft: Zahlen, Schwellenwerte und Berechnung

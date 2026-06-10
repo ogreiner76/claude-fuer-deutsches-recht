@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **feierlicher Exorzismus, einfache Gebete, psychische Not und Zuständigkeit**.
+Prüft insbesondere: **feierlicher Exorzismus, einfache Gebete, psychische Not und Zuständigkeit**.
 
 **CIC-/Normanker:** can. 1166-1172.
 

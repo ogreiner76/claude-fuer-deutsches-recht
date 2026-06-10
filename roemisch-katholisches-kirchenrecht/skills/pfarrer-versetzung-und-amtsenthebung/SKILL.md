@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Verfahren, Gründe, Anhörung, Dekret, Rekurs und salus animarum**.
+Prüft insbesondere: **Verfahren, Gründe, Anhörung, Dekret, Rekurs und salus animarum**.
 
 **CIC-/Normanker:** can. 1740-1752, 522-538.
 

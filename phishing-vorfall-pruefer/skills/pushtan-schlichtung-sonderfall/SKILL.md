@@ -1,6 +1,6 @@
 ---
 name: pushtan-schlichtung-sonderfall
-description: "Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Pruefer: Dokumentenmatrix, Lückenliste und Nachforderung

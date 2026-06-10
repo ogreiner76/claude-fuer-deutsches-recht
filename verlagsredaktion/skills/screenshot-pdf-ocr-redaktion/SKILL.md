@@ -15,7 +15,7 @@ description: "Fuehrt einen sauberen OCR-für gescannte PDFs und Screenshots zu r
 
 ## Worum geht es konkret
 
-Autorinnen, Mandantinnen oder Fremdmaterial liegen oft als gescannte PDFs oder als Screenshots vor: alte Festschriftsbeitraege, Bescheidkopien, ausgedruckte und wieder eingescannte Aufsaetze. OCR ist Pflicht, aber OCR-Ergebnisse sind nie sauber. Dieser Skill fuehrt durch den vollstaendigen OCR-inklusive Fehlerquoten-Stichprobe.
+Autorinnen, Mandantinnen oder Fremdmaterial liegen oft als gescannte PDFs oder als Screenshots vor: alte Festschriftsbeitraege, Bescheidkopien, ausgedruckte und wieder eingescannte Aufsaetze. OCR ist Pflicht, aber OCR-Ergebnisse sind nie sauber. Führe durch den vollstaendigen OCR-inklusive Fehlerquoten-Stichprobe.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

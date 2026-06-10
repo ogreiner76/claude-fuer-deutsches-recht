@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill steuert die insiderrechtliche Compliance einer Kapitalerhöhung vom Beschluss
+Steuert die insiderrechtliche Compliance einer Kapitalerhöhung vom Beschluss
 bis zur Ad-hoc-Veröffentlichung, inklusive Market Sounding und Post-Deal-Compliance.
 
 ## Arbeitsprogramm

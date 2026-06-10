@@ -1,6 +1,6 @@
 ---
 name: pushtan-compliance-dokumentation-und-akte
-description: "Pushtan: Compliance-Dokumentation und Aktenvermerk im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Pushtan: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Pushtan: Compliance-Dokumentation und Aktenvermerk

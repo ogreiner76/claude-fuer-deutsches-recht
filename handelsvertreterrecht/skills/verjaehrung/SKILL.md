@@ -19,7 +19,7 @@ Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung n
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Verjährung von Handelsvertreter-Ansprüchen nach § 195 ff. BGB.
+Unterstützt bei rechtlichen Fragen rund um Verjährung von Handelsvertreter-Ansprüchen nach § 195 ff. BGB.
 Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.

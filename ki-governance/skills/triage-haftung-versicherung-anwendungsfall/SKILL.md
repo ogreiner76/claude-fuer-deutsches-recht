@@ -1,6 +1,6 @@
 ---
 name: triage-haftung-versicherung-anwendungsfall
-description: "Triage: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin ki governance im Ki Governance."
+description: "Triage: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Triage: Fristen, Form, Zuständigkeit und Rechtsweg

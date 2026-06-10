@@ -1,6 +1,6 @@
 ---
 name: enwg-feeds-heilmwerbg
-description: "Enwg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Enwg: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Enwg: Dokumentenmatrix, Lückenliste und Nachforderung

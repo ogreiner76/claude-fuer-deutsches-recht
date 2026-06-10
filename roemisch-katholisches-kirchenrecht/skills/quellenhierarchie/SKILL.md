@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Norm, Lehramt, Partikularrecht, Gewohnheit, Verwaltungspraxis und staatliches Recht**.
+Prüft insbesondere: **Norm, Lehramt, Partikularrecht, Gewohnheit, Verwaltungspraxis und staatliches Recht**.
 
 **CIC-/Normanker:** can. 7-22, 23-28, 29-34, 94-95.
 

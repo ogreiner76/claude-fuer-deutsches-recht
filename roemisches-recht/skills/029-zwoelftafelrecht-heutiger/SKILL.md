@@ -1,6 +1,6 @@
 ---
 name: 029-zwoelftafelrecht-heutiger
-description: "Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Römisches Recht: Dieser Skill bearbeitet Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer han..."
+description: "Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Römisches Recht: Bearbeite Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer han..."
 ---
 
 # Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit

@@ -15,7 +15,7 @@ description: "Krankenversicherungsbeitrag für freiwillig versicherte Selbststä
 
 ## Skill-Zweck
 
-Selbstständige sind in der GKV freiwillig versichert. Dieser Skill klärt **Beitragsbemessung, Mindestbeitrag, Nachweis­pflichten gegenüber der Kasse und Strategien bei überhöhten Beiträgen**.
+Selbstständige sind in der GKV freiwillig versichert. Kläre **Beitragsbemessung, Mindestbeitrag, Nachweis­pflichten gegenüber der Kasse und Strategien bei überhöhten Beiträgen**.
 
 ## Rechtlicher Rahmen
 

@@ -1,6 +1,6 @@
 ---
 name: 006-erster-titel-3-eigentum-besitz
-description: "PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 3 Eigentum Besitz Nutzung im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen v..."
+description: "PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung: Bearbeite den ersten Teil Titel 3 Eigentum Besitz Nutzung im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen v..."
 ---
 
 # PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung

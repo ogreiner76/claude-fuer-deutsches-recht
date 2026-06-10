@@ -15,7 +15,7 @@ description: "EV-Vollzug: Vollziehungsfrist § 929 Abs. 2 ZPO und Parteizustellu
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **Vollziehungsfrist des § 929 Abs. 2 ZPO** und die damit verbundene **Parteizustellung** als eigenständige Vollzugshandlung bei einstweiligen Verfügungen im gewerblichen Rechtsschutz. Ohne fristgerechten Vollzug verliert die EV ihre Wirkung – ein formaler Fehler, der in der Praxis zur Aufhebung der Verfügung führt, obwohl der Antragsteller materiell im Recht lag.
+Behandelt die **Vollziehungsfrist des § 929 Abs. 2 ZPO** und die damit verbundene **Parteizustellung** als eigenständige Vollzugshandlung bei einstweiligen Verfügungen im gewerblichen Rechtsschutz. Ohne fristgerechten Vollzug verliert die EV ihre Wirkung – ein formaler Fehler, der in der Praxis zur Aufhebung der Verfügung führt, obwohl der Antragsteller materiell im Recht lag.
 
 Mandatsbezug: Marken-, Patent-, UWG- und Urheberrechtsfälle, in denen eine Beschlussverfügung (ohne mündliche Verhandlung) oder eine Urteilsverfügung erwirkt wurde und nun vollzogen werden muss. Der Anwalt muss Vollziehungsfrist, Zustellweg und Zustellnachweis exakt koordinieren.
 

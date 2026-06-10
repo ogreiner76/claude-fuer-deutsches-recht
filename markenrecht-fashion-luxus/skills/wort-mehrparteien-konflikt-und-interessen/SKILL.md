@@ -1,6 +1,6 @@
 ---
 name: wort-mehrparteien-konflikt-und-interessen
-description: "Wort: Mehrparteienkonflikt und Interessenmatrix im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "Wort: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Wort: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollenklaerung
-description: "Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Tabellenreview 3D: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
 ---
 
 # Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel

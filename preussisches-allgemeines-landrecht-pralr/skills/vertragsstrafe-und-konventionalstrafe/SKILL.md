@@ -1,6 +1,6 @@
 ---
 name: vertragsstrafe-und-konventionalstrafe
-description: "Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR I 5 zur Vereinbarung Wirkung Anrechnung auf Schadensersatz und Verhaeltnis zu §§ 339-345 BGB. Liefert Pruefraster im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechts..."
+description: "Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR I 5 zur Vereinbarung Wirkung Anrechnung auf Schadensersatz und Verhaeltnis zu §§ 339-345 BGB. Liefert Pruefraster: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechts..."
 ---
 
 # Pralr Vertragsstrafe Und Konventionalstrafe

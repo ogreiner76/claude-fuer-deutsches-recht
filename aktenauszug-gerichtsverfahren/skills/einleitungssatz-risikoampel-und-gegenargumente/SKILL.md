@@ -1,6 +1,6 @@
 ---
 name: einleitungssatz-risikoampel-und-gegenargumente
-description: "Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Einleitungssatz: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -5,7 +5,7 @@ description: "Pruefraster ob eine Forderung klagefaehig ist. Verlangt Belegnachw
 
 # Klagefreigabe belegte Forderung
 
-Bevor Klage eingereicht wird durchlaeuft die Forderung ein Pflicht-Pruefraster. Dieser Skill liefert das Raster und das Freigabe-Vermerksmuster.
+Bevor Klage eingereicht wird durchlaeuft die Forderung ein Pflicht-Pruefraster. Liefere das Raster und das Freigabe-Vermerksmuster.
 
 ## Pflicht-Raster
 

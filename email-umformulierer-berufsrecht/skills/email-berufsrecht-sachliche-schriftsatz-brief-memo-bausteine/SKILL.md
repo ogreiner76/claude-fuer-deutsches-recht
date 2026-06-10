@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-sachliche-schriftsatz-brief-memo-bausteine
-description: "Sachliche: Schriftsatz-, Brief- und Memo-Bausteine im Plugin Email Umformulierer Berufsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
+description: "Sachliche: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe..."
 ---
 
 # Sachliche: Schriftsatz-, Brief- und Memo-Bausteine

@@ -7,7 +7,7 @@ description: "Rechtsschutz § 3 arb: fachanwaltlicher Spezial-Skill mit Normenan
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Rechtsschutz § 3 arb** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Rechtsschutz § 3 arb** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

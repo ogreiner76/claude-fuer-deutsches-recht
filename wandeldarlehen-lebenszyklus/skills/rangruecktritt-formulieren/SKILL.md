@@ -15,7 +15,7 @@ description: "Rangrücktrittserklärung für Wandeldarlehen formulieren um insol
 
 ## Zweck
 
-Dieser Skill formuliert den qualifizierten Rangrücktritt für § 6 des Wandeldarlehensvertrags. Er stellt sicher, dass die Klausel sowohl die insolvenzliche Subordination (§ 39 Abs. 2 InsO) als auch die vorinsolvenzliche Durchsetzungssperre nach BGH-Rechtsprechung enthält und bilanzielle Entlastungswirkung erzielt. Phase A des Lebenszyklus.
+Formuliert den qualifizierten Rangrücktritt für § 6 des Wandeldarlehensvertrags. Er stellt sicher, dass die Klausel sowohl die insolvenzliche Subordination (§ 39 Abs. 2 InsO) als auch die vorinsolvenzliche Durchsetzungssperre nach BGH-Rechtsprechung enthält und bilanzielle Entlastungswirkung erzielt. Phase A des Lebenszyklus.
 
 ## Eingaben
 

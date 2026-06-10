@@ -20,7 +20,7 @@ description: "Strukturvergleich Asset Deal vs. Share Deal im Distressed-M&A mit 
 
 Die Strukturwahl Asset Deal vs. Share Deal entscheidet im Distressed-Mandat über die steuerliche Behandlung der Sanierungsmaßnahme. **Im Asset Deal** wird das operative Geschäft auf eine neue Zielgesellschaft übertragen; die alte Hülle bleibt mit den Verlustvorträgen zurück. **Im Share Deal** wird die Hülle mit allen Steuerpositionen mitverkauft; der Sanierungsertrag entsteht in der Zielgesellschaft, deren Verlustvorträge nach § 3a Abs. 3 EStG verbraucht werden. Beide Strukturen haben gänzlich unterschiedliche Sanierungstax-Profile.
 
-Dieser Skill liefert den Vergleichsraster für die Strukturentscheidung.
+Liefert den Vergleichsraster für die Strukturentscheidung.
 
 ## Wann dieses Modul hilft
 

@@ -15,7 +15,7 @@ description: "Verlagsrecht: Literaturagentur und Verlagsagentur — Agenturvertr
 
 ## Zweck dieses Skills
 
-Literaturagenturen sind in der deutschsprachigen Verlagsbranche wichtige Mittler zwischen Autoren und Verlagen. Dieser Skill klärt den Rechtsrahmen des **Agenturvertrags**: Vollmacht und Vertretungsmacht, Provisionshöhe und Fälligkeit, Interessenkollision sowie die Abgrenzung zum Handelsvertreter (HGB §§ 84 ff.).
+Literaturagenturen sind in der deutschsprachigen Verlagsbranche wichtige Mittler zwischen Autoren und Verlagen. Kläre den Rechtsrahmen des **Agenturvertrags**: Vollmacht und Vertretungsmacht, Provisionshöhe und Fälligkeit, Interessenkollision sowie die Abgrenzung zum Handelsvertreter (HGB §§ 84 ff.).
 
 ## Rechtsgrundlagen
 

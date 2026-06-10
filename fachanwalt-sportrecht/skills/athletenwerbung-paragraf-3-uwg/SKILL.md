@@ -7,7 +7,7 @@ description: "Athletenwerbung § 3 uwg: fachanwaltlicher Spezial-Skill mit Norme
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Athletenwerbung § 3 uwg** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Athletenwerbung § 3 uwg** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

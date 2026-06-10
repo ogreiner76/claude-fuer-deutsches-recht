@@ -1,6 +1,6 @@
 ---
 name: nachbarschaftsstreit-tatbestand-beweis-und-belege
-description: "Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage

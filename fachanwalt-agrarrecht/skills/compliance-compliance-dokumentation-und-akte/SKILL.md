@@ -1,6 +1,6 @@
 ---
 name: compliance-compliance-dokumentation-und-akte
-description: "Compliance: Compliance-Dokumentation und Aktenvermerk: Compliance: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt agrarrecht."
+description: "Compliance: Compliance-Dokumentation und Aktenvermerk: Compliance: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Compliance: Compliance-Dokumentation und Aktenvermerk
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Compliance: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt agrarrecht.
+**Fokus:** Compliance: Compliance-Dokumentation und Aktenvermerk.
 
 ## Spezialwissen: Compliance: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

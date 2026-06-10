@@ -1,6 +1,6 @@
 ---
 name: textform-dokumentenmatrix-und-lueckenliste
-description: "Textform: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Textform: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Textform: Dokumentenmatrix, Lückenliste und Nachforderung

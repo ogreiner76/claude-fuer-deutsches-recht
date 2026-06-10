@@ -1,6 +1,6 @@
 ---
 name: duengeverordnung-mehrparteien-konflikt-und-interessen
-description: "Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix: Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt agrarrecht."
+description: "Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix: Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt agrarrecht.
+**Fokus:** Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix.
 
 ## Spezialwissen: Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

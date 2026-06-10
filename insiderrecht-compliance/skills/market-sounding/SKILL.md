@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill führt Emittenten und Konsortialbanken vollständig durch den Market-Sounding-Prozess:
+Führt Emittenten und Konsortialbanken vollständig durch den Market-Sounding-Prozess:
 von der Pre-Sounding-Vorbereitung über Wall Crossing bis zum Wall Down nach Ad-hoc-Veröffent-
 lichung. Er stellt die lückenlose DVO-konforme Dokumentation sicher.
 

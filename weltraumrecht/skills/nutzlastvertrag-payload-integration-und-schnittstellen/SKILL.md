@@ -15,7 +15,7 @@ description: "Payload Integration Agreement – Schnittstellen, Haftung, Verzug,
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Nutzlastvertrag: Payload Integration und Schnittstellen** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Nutzlastvertrag: Payload Integration und Schnittstellen** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

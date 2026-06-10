@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-bora-internationaler-bezug-schnittstellen
-description: "Bora: Internationaler Bezug und Schnittstellen im Plugin Email Umformulierer Berufsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Bora: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
 ---
 
 # Bora: Internationaler Bezug und Schnittstellen

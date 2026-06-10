@@ -20,7 +20,7 @@ description: "Versandhandelserlaubnis EU Versandapotheke: prüft die einschlägi
 
 ## Worum geht es konkret
 
-Erlaubnis zum Versandhandel mit apothekenpflichtigen Arzneimitteln in Deutschland — sowohl für inländische Apotheken (§ 11a ApoG) als auch für EU-/EWR-Apotheken (anerkanntes Verfahren, § 73 Abs. 1 Nr. 1a AMG). Dieser Skill behandelt den Erlaubnis- und Anerkennungsprozess, Eintragung im Sicherheitslogo-Register sowie Sortimentsgrenzen, Beratungspflicht und Aufsichtsregime.
+Erlaubnis zum Versandhandel mit apothekenpflichtigen Arzneimitteln in Deutschland — sowohl für inländische Apotheken (§ 11a ApoG) als auch für EU-/EWR-Apotheken (anerkanntes Verfahren, § 73 Abs. 1 Nr. 1a AMG). Behandle den Erlaubnis- und Anerkennungsprozess, Eintragung im Sicherheitslogo-Register sowie Sortimentsgrenzen, Beratungspflicht und Aufsichtsregime.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

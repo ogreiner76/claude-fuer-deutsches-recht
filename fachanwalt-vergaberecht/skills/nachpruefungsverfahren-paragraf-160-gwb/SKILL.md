@@ -7,7 +7,7 @@ description: "Nachpruefungsverfahren § 160 GWB: fachanwaltlicher Spezial-Skill 
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Nachpruefungsverfahren § 160 GWB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Nachpruefungsverfahren § 160 GWB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

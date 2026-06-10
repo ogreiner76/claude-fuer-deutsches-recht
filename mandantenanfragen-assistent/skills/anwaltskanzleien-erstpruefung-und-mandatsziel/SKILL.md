@@ -1,6 +1,6 @@
 ---
 name: anwaltskanzleien-erstpruefung-und-mandatsziel
-description: "Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel

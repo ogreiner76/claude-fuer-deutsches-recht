@@ -1,6 +1,6 @@
 ---
 name: gate-fehlerkatalog
-description: "Gate Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand — Arbeitskontext: Zwangsverwaltung ZVG, Schwerpunkt gate fehlerkatalog."
+description: "Gate Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand"
 ---
 
 # Gate Fehlerkatalog

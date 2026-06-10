@@ -1,6 +1,6 @@
 ---
 name: immobilien-formular-portal-und-einreichung
-description: "Immobilien: Formular, Portal und Einreichungslogik im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Immobilien: Formular, Portal und Einreichungslogik."
 ---
 
 # Immobilien: Formular, Portal und Einreichungslogik

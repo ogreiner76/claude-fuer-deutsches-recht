@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse
 
 ## Zweck und Anwendungsbereich
 
-Wenn Beteiligte die deutsche Sprache nicht ausreichend beherrschen, muss ein Dolmetscher hinzugezogen werden. Dieser Skill klärt die Anforderungen nach § 16 BeurkG, die Dolmetscherqualifikation, Sprachvermerke und die Möglichkeit zweisprachiger Beurkundungen.
+Wenn Beteiligte die deutsche Sprache nicht ausreichend beherrschen, muss ein Dolmetscher hinzugezogen werden. Kläre die Anforderungen nach § 16 BeurkG, die Dolmetscherqualifikation, Sprachvermerke und die Möglichkeit zweisprachiger Beurkundungen.
 
 Rechtsgrundlagen: § 16 BeurkG (Behinderungen; Dolmetscher), § 17 BeurkG (Belehrung in verständlicher Weise), § 13 BeurkG (Vorlesen und Unterzeichnung), GwG § 10 (Identifizierung auch bei Sprachbarrieren), BGH-Rechtsprechung zu § 16 BeurkG.
 

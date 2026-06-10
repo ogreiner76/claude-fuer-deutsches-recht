@@ -19,7 +19,7 @@ Die arbeitsrechtliche Mitwirkungspflicht des Arbeitnehmers ergibt sich aus §§ 
 
 ## Ziel dieses Skills
 
-Dieser Skill klärt, welche Mitwirkungspflichten Mitarbeiter haben, wie weit diese reichen und wo sie enden – insbesondere bei drohender Selbstbelastung, Zeugnisverweigerungsrechten und der Kollision mit strafprozessualen Rechten.
+Kläre, welche Mitwirkungspflichten Mitarbeiter haben, wie weit diese reichen und wo sie enden – insbesondere bei drohender Selbstbelastung, Zeugnisverweigerungsrechten und der Kollision mit strafprozessualen Rechten.
 
 ## Arbeitsprogramm
 

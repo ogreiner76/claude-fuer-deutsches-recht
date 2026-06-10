@@ -1,6 +1,6 @@
 ---
 name: bora-konformitaetspruefung
-description: "E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Kor — Arbeitskontext: E-Mail-Umformulierung im Berufsrecht, Schwerpunkt bora konformitaetspruefung."
+description: "E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Kor"
 ---
 
 # BORA-Konformitätsprüfung
@@ -9,7 +9,7 @@ description: "E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Dieser Skill prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Berufsordnung für Rechtsanwälte (BORA). Die BORA konkretisiert als Satzung der Bundesrechtsanwaltskammer die allgemeinen Berufspflichten der BRAO und enthält spezifische Regeln für Verschwiegenheit, Werbung und den kollegialen Umgang.
+Prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Berufsordnung für Rechtsanwälte (BORA). Die BORA konkretisiert als Satzung der Bundesrechtsanwaltskammer die allgemeinen Berufspflichten der BRAO und enthält spezifische Regeln für Verschwiegenheit, Werbung und den kollegialen Umgang.
 
 ## Triage zu Beginn
 1. Wer ist der Absender: Rechtsanwalt, Berufsausuebendes Gesellschafter oder Kanzleimitarbeiter?

@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-outsourcing
-description: "Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfa..."
+description: "Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfa..."
 ---
 
 # Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

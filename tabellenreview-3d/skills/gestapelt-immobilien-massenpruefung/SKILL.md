@@ -1,6 +1,6 @@
 ---
 name: gestapelt-immobilien-massenpruefung
-description: "Gestapelt: Compliance-Dokumentation und Aktenvermerk im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Gestapelt: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Gestapelt: Compliance-Dokumentation und Aktenvermerk

@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch und E
 
 ## Zweck und Anwendungsbereich
 
-Die Erbengemeinschaft muss auseinandergesetzt werden. Dieser Skill führt durch die notarielle Begleitung der Nachlassauseinandersetzung, insbesondere bei Grundstücken: Erbquoten, Übertragungsakte, Grundbuchberichtigung und steuerliche Konsequenzen.
+Die Erbengemeinschaft muss auseinandergesetzt werden. Führe durch die notarielle Begleitung der Nachlassauseinandersetzung, insbesondere bei Grundstücken: Erbquoten, Übertragungsakte, Grundbuchberichtigung und steuerliche Konsequenzen.
 
 Rechtsgrundlagen: §§ 2032–2063 BGB (Erbengemeinschaft), §§ 2042–2046 BGB (Auseinandersetzung), § 2048 BGB (Teilungsanordnung), § 2064 BGB (persönliche Testamentserrichtung), § 35 GBO (Erbnachweis im Grundbuch), §§ 2325–2328 BGB (Pflichtteil), ErbStG (§§ 12–19), GrEStG § 3 Nr. 3 (Erbfall GrESt-frei).
 

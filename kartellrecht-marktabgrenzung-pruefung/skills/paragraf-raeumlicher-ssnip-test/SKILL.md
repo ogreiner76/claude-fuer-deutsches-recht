@@ -1,6 +1,6 @@
 ---
 name: paragraf-raeumlicher-ssnip-test
-description: "Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien

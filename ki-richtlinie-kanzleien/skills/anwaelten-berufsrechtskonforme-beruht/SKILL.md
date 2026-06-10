@@ -1,6 +1,6 @@
 ---
 name: anwaelten-berufsrechtskonforme-beruht
-description: "Anwaelten: Behörden-, Gerichts- oder Registerweg im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Anwaelten: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Anwaelten: Behörden-, Gerichts- oder Registerweg

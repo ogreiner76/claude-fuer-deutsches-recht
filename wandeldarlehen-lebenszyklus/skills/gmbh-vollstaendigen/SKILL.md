@@ -1,6 +1,6 @@
 ---
 name: gmbh-vollstaendigen
-description: "GmbH: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
+description: "GmbH: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # GmbH: Risikoampel, Gegenargumente und Verteidigungslinien

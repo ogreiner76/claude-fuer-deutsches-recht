@@ -1,6 +1,6 @@
 ---
 name: builder-zahlen-schwellen-und-berechnung
-description: "Builder: Zahlen, Schwellenwerte und Berechnung im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Builder: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Builder: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: excel-dokumentenmatrix-und-lueckenliste
-description: "Excel: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Excel: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Excel: Dokumentenmatrix, Lückenliste und Nachforderung

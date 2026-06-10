@@ -1,6 +1,6 @@
 ---
 name: 026-zweiter-teil-strafrecht-20-titel-quellenkritisch
-description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch

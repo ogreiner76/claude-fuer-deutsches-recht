@@ -1,6 +1,6 @@
 ---
 name: infrastrukturrecht-intake-ladeinfrastruktur
-description: "Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

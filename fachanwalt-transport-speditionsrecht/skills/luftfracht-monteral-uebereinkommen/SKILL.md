@@ -7,7 +7,7 @@ description: "Luftfracht Monteral Uebereinkommen: fachanwaltlicher Spezial-Skill
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Luftfracht Monteral Uebereinkommen** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Luftfracht Monteral Uebereinkommen** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

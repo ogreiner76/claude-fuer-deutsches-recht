@@ -1,6 +1,6 @@
 ---
 name: satz-zahlen-schwellen-und-berechnung
-description: "Satz: Zahlen, Schwellenwerte und Berechnung im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Satz: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Satz: Zahlen, Schwellenwerte und Berechnung

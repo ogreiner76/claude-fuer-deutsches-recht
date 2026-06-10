@@ -1,6 +1,6 @@
 ---
 name: wirtschaft-zahlen-schwellenwerte-berechnung
-description: "Wirtschaft: Zahlen, Schwellenwerte und Berechnung im Plugin Tabellenreview 3D: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
+description: "Wirtschaft: Zahlen, Schwellenwerte und Berechnung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?..."
 ---
 
 # Wirtschaft: Zahlen, Schwellenwerte und Berechnung

@@ -15,7 +15,7 @@ description: "Rehabilitation: Zuständigkeitsabgrenzung GKV (§ 40 SGB V) und De
 
 ## Skill-Zweck
 
-Rehabilitation ist häufig Streitgegenstand: **Wer ist zuständig – Krankenkasse oder Rentenversicherung?** Dieser Skill klärt Zuständigkeitsabgrenzung, Nahtlosigkeit und die Folgen der falschen Antragstellung.
+Rehabilitation ist häufig Streitgegenstand: **Wer ist zuständig – Krankenkasse oder Rentenversicherung?** Kläre Zuständigkeitsabgrenzung, Nahtlosigkeit und die Folgen der falschen Antragstellung.
 
 ## Rechtlicher Rahmen
 

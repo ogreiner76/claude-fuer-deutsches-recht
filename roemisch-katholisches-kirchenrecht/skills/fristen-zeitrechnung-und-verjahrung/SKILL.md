@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Rekursfristen, Verjährung und preskriptive Effekte**.
+Prüft insbesondere: **Rekursfristen, Verjährung und preskriptive Effekte**.
 
 **CIC-/Normanker:** can. 200-203, 197-199.
 

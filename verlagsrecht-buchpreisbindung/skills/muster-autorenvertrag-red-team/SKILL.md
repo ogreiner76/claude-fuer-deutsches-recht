@@ -7,7 +7,7 @@ description: "Red-Team-Prüfung eines Muster-Autorenvertrags: kritische Klausela
 
 ## Zweck dieses Skills
 
-Dieser Skill führt eine systematische **Red-Team-Analyse** eines typischen Muster-Autorenvertrags durch — d. h. er identifiziert aus Autorensicht alle rechtlich problematischen, einseitigen oder gesetzeswidrigen Klauseln, die in Standardverlagen häufig verwendet werden.
+Führt eine systematische **Red-Team-Analyse** eines typischen Muster-Autorenvertrags durch — d. h. er identifiziert aus Autorensicht alle rechtlich problematischen, einseitigen oder gesetzeswidrigen Klauseln, die in Standardverlagen häufig verwendet werden.
 
 Das „Red-Team"-Konzept bedeutet: Der Skill nimmt bewusst die kritische Gegenposition zum Verlag ein, prüft jede Klausel auf ihre Rechtmäßigkeit und Fairness und formuliert Verbesserungsvorschläge. Grundlage sind die zwingenden Schutzvorschriften des UrhG (§§ 32, 32a, 32d, 36, 41), das VerlG, das AGB-Recht (§§ 305 ff. BGB) sowie die Tarifregelungen des Verbands deutscher Schriftsteller (VS) und des Börsenvereins.
 

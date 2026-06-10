@@ -28,7 +28,7 @@ description: "Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung 
 
 ## Zweck
 
-Scheinselbständigkeit ist eines der teuersten Risiken im deutschen Arbeitsrecht. Nachentrichtung von Sozialversicherungsbeiträgen bis zu 4 Jahren rückwirkend (§ 25 SGB IV), Steuernachzahlungen, Bußgelder — und das Arbeitsverhältnis entsteht kraft Gesetzes (§ 10 AÜG bei unerlaubter Überlassung; ggf. § 611a BGB bei fehlerhafter Klassifizierung). Dieser Skill prüft prospektiv, ob die geplante Struktur hält.
+Scheinselbständigkeit ist eines der teuersten Risiken im deutschen Arbeitsrecht. Nachentrichtung von Sozialversicherungsbeiträgen bis zu 4 Jahren rückwirkend (§ 25 SGB IV), Steuernachzahlungen, Bußgelder — und das Arbeitsverhältnis entsteht kraft Gesetzes (§ 10 AÜG bei unerlaubter Überlassung; ggf. § 611a BGB bei fehlerhafter Klassifizierung). Prüfe prospektiv, ob die geplante Struktur hält.
 
 ## Triage-Frage — vor der Prüfung klären
 

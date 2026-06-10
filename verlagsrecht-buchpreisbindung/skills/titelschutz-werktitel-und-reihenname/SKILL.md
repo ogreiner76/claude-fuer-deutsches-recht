@@ -15,7 +15,7 @@ description: "Verlagsrecht: Titelschutz für Werktitel, Reihennamen und Zeitschr
 
 ## Zweck dieses Skills
 
-Der **Titelschutz** schützt die Bezeichnung eines Werks, einer Reihe oder einer Zeitschrift vor Verwechslung und Ausbeutung durch Dritte. Er entsteht automatisch — ohne Registrierung — mit der Veröffentlichung und beinhaltet sowohl eine urheberrechtliche als auch eine wettbewerbsrechtliche Dimension. Dieser Skill klärt Entstehung, Umfang, Kollisionsprüfung und Durchsetzung des Titelschutzes im Verlagsbereich.
+Der **Titelschutz** schützt die Bezeichnung eines Werks, einer Reihe oder einer Zeitschrift vor Verwechslung und Ausbeutung durch Dritte. Er entsteht automatisch — ohne Registrierung — mit der Veröffentlichung und beinhaltet sowohl eine urheberrechtliche als auch eine wettbewerbsrechtliche Dimension. Kläre Entstehung, Umfang, Kollisionsprüfung und Durchsetzung des Titelschutzes im Verlagsbereich.
 
 ## Rechtsgrundlagen
 

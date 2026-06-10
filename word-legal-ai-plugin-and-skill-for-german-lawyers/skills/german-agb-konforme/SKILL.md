@@ -1,6 +1,6 @@
 ---
 name: german-agb-konforme
-description: "German: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin word legal ai plugin and skill for german lawyers im Word Legal Ai Plugin And Skill For German Lawyers."
+description: "German: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # German: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -7,7 +7,7 @@ description: "Kumulierung Forschungszulage mit anderen Förderungen und Beihilfe
 
 ## Worum geht es
 
-Die Forschungszulage ist eine staatliche Beihilfe nach Art. 25 AGVO (Verordnung (EU) 651/2014 — vom Antragsteller mit konsolidierter Fassung zu prüfen). Sie kann grundsätzlich mit anderen Förderungen kumuliert werden, aber nur bis zu den AGVO-Höchstintensitäten je Vorhaben und Beihilfe-Kategorie. Dieser Skill liefert die Kumulierungslogik, die Höchstintensitäten und das Kumulierungsblatt je Projekt.
+Die Forschungszulage ist eine staatliche Beihilfe nach Art. 25 AGVO (Verordnung (EU) 651/2014 — vom Antragsteller mit konsolidierter Fassung zu prüfen). Sie kann grundsätzlich mit anderen Förderungen kumuliert werden, aber nur bis zu den AGVO-Höchstintensitäten je Vorhaben und Beihilfe-Kategorie. Liefere die Kumulierungslogik, die Höchstintensitäten und das Kumulierungsblatt je Projekt.
 
 ## Wann dieses Modul hilft
 

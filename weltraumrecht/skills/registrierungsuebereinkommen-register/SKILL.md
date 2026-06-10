@@ -15,7 +15,7 @@ description: "Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Re
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet **Registrierungsübereinkommen: Register, Staat, Zuständigkeit, Kontrolle** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite **Registrierungsübereinkommen: Register, Staat, Zuständigkeit, Kontrolle** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Kontext
 

@@ -1,6 +1,6 @@
 ---
 name: bereits-abschlussprodukt-uebergabe
-description: "Bereits: Abschlussprodukt und Übergabe im Plugin Anlagen Zu Schriftsaetzen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4...."
+description: "Bereits: Abschlussprodukt und Übergabe: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4...."
 ---
 
 # Bereits: Abschlussprodukt und Übergabe
@@ -21,7 +21,7 @@ Arbeitsfokus: **Bereits: Abschlussprodukt und Übergabe**. Prüfe diese Anker am
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Spezialwissen: Bereits: Abschlussprodukt und Übergabe
-- **Konkreter Gegenstand:** Bereits: Abschlussprodukt und Übergabe im Plugin anlagen zu schriftsaetzen..
+- **Konkreter Gegenstand:** Bereits: Abschlussprodukt und Übergabe.
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.
 - **Entscheidende Weiche:** Anlage nur aufnehmen, wenn sie eine konkrete Behauptung trägt; Nummerierung, Fundstelle, Dateiname, OCR, Schwärzung und Versandfähigkeit müssen zusammenpassen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

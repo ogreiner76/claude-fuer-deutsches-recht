@@ -1,6 +1,6 @@
 ---
 name: privaten-risikoampel-gegenargumente
-description: "Privaten: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verf..."
+description: "Privaten: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verf..."
 ---
 
 # Privaten: Risikoampel, Gegenargumente und Verteidigungslinien

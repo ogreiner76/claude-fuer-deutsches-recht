@@ -15,7 +15,7 @@ description: "Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: W
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **tatbestandsmäßige Erfassung und Beweissicherung** bei IP-Verletzungen – die Grundlage für jede Abmahnung, jeden EV-Antrag und jede Klage. Wer gut belegt, gewinnt; wer Tatbestandsmerkmale nicht präzise erfasst, riskiert Zurückweisung des Antrags, Kostenfolgen und Verlust des Verfahrens.
+Behandelt die **tatbestandsmäßige Erfassung und Beweissicherung** bei IP-Verletzungen – die Grundlage für jede Abmahnung, jeden EV-Antrag und jede Klage. Wer gut belegt, gewinnt; wer Tatbestandsmerkmale nicht präzise erfasst, riskiert Zurückweisung des Antrags, Kostenfolgen und Verlust des Verfahrens.
 
 Mandatsbezug: Anwalt hat Mandantenhinweis auf Verletzung; muss jetzt strukturiert den Tatbestand erfassen und Beweise sichern. Oder: EV-Antrag wird vorbereitet; Glaubhaftmachungspaket muss vollständig sein.
 

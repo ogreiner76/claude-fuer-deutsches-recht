@@ -19,7 +19,7 @@ Die Beschlagnahme von Unterlagen und Gegenständen im Rahmen strafrechtlicher Er
 
 ## Ziel dieses Skills
 
-Dieser Skill bereitet auf Durchsuchungs- und Beschlagnahme-Szenarien vor, analysiert, welche Unterlagen schutzwürdig sind, und definiert Verhaltenspflichten für den Zeitpunkt der Durchsuchung.
+Bereitet auf Durchsuchungs- und Beschlagnahme-Szenarien vor, analysiert, welche Unterlagen schutzwürdig sind, und definiert Verhaltenspflichten für den Zeitpunkt der Durchsuchung.
 
 ## Arbeitsprogramm
 

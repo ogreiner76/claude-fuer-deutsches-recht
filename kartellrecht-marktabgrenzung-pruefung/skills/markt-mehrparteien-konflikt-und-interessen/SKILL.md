@@ -1,6 +1,6 @@
 ---
 name: markt-mehrparteien-konflikt-und-interessen
-description: "Markt: Mehrparteienkonflikt und Interessenmatrix im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Markt: Mehrparteienkonflikt und Interessenmatrix: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Markt: Mehrparteienkonflikt und Interessenmatrix

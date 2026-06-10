@@ -1,6 +1,6 @@
 ---
 name: asylg-dokumentenmatrix-und-lueckenliste
-description: "Asylg: Dokumentenmatrix, Lückenliste und Nachforderung: Asylg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt migrationsrecht."
+description: "Asylg: Dokumentenmatrix, Lückenliste und Nachforderung: Asylg: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Asylg: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -14,7 +14,7 @@ description: "Asylg: Dokumentenmatrix, Lückenliste und Nachforderung: Asylg: Do
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Asylg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt migrationsrecht.
+**Fokus:** Asylg: Dokumentenmatrix, Lückenliste und Nachforderung.
 
 ## Spezialwissen: Asylg: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.

@@ -15,7 +15,7 @@ description: "Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, 
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Raumfahrtrechtliche Due Diligence beim Unternehmenskauf** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Raumfahrtrechtliche Due Diligence beim Unternehmenskauf** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

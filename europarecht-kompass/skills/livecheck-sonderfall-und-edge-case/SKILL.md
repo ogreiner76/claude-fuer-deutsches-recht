@@ -1,6 +1,6 @@
 ---
 name: livecheck-sonderfall-und-edge-case
-description: "Livecheck: Sonderfall und Edge-Case-Prüfung im Plugin europarecht kompass im Europarecht Kompass."
+description: "Livecheck: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Livecheck: Sonderfall und Edge-Case-Prüfung

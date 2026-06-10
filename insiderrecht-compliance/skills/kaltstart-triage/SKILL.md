@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Kaltstart Insiderrecht im Insiderrecht und Compliance: Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt."
+description: "Kaltstart Insiderrecht im Insiderrecht und Compliance: Erzwingt eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt."
 ---
 
 # Kaltstart Insiderrecht
@@ -21,7 +21,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Ziel
 
-Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
+Erzwinge eine prüfbare Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt.
 
 ## Arbeitsprogramm
 

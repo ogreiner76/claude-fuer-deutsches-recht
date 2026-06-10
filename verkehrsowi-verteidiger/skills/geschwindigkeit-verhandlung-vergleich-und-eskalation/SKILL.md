@@ -1,6 +1,6 @@
 ---
 name: geschwindigkeit-verhandlung-vergleich-und-eskalation
-description: "Geschwindigkeit: Verhandlung, Vergleich und Eskalation im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Geschwindigkeit: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Geschwindigkeit: Verhandlung, Vergleich und Eskalation

@@ -19,7 +19,7 @@ Das Unternehmen kann die Kosten einer Internal Investigation und den durch den V
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert Schadensersatzansprüche gegen Mitarbeiter und Organmitglieder und stellt sicher, dass Forderungen rechtzeitig geltend gemacht werden.
+Strukturiert Schadensersatzansprüche gegen Mitarbeiter und Organmitglieder und stellt sicher, dass Forderungen rechtzeitig geltend gemacht werden.
 
 ## Arbeitsprogramm
 

@@ -7,7 +7,7 @@ description: "Eigenverwaltung Schutzschirm § 270b InsO: fachanwaltlicher Spezia
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Eigenverwaltung Schutzschirm § 270b InsO** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Eigenverwaltung Schutzschirm § 270b InsO** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

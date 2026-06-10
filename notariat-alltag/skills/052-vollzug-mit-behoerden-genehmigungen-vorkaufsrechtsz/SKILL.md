@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Vollzug mit Behörden – Genehmigungen, Vorka
 
 ## Zweck und Anwendungsbereich
 
-Der Immobilienvollzug erfordert die Kooperation mit zahlreichen Behörden. Dieser Skill strukturiert alle behördlichen Schritte von der Vorkaufsrechtsmitteilung bis zur steuerlichen Unbedenklichkeit.
+Der Immobilienvollzug erfordert die Kooperation mit zahlreichen Behörden. Strukturiere alle behördlichen Schritte von der Vorkaufsrechtsmitteilung bis zur steuerlichen Unbedenklichkeit.
 
 Rechtsgrundlagen: §§ 24–28 BauGB (Vorkaufsrecht Gemeinde), § 28 BauGB (Mitteilung, Vorkaufsrechtszeugnis), GrdstVG §§ 2–12 (GVO, Negativattest), GrEStG § 22 (steuerliche Unbedenklichkeit), § 6 GrdstVG (Genehmigungsfreiheit), § 1643 BGB n.F. (Familiengericht), FamFG § 151 (Betreuungsgericht).
 

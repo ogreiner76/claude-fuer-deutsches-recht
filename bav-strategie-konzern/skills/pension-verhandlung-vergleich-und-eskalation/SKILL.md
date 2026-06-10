@@ -1,6 +1,6 @@
 ---
 name: pension-verhandlung-vergleich-und-eskalation
-description: "Pension: Verhandlung, Vergleich und Eskalation im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Pension: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Pension: Verhandlung, Vergleich und Eskalation

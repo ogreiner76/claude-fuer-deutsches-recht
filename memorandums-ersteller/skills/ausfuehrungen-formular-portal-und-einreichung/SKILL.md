@@ -1,6 +1,6 @@
 ---
 name: ausfuehrungen-formular-portal-und-einreichung
-description: "Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Ausfuehrungen: Formular, Portal und Einreichungslogik."
 ---
 
 # Ausfuehrungen: Formular, Portal und Einreichungslogik

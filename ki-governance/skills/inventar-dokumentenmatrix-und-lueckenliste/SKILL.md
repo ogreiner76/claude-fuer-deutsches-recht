@@ -1,6 +1,6 @@
 ---
 name: inventar-dokumentenmatrix-und-lueckenliste
-description: "Inventar: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin ki governance im Ki Governance."
+description: "Inventar: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Inventar: Dokumentenmatrix, Lückenliste und Nachforderung

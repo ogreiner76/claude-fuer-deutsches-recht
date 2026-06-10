@@ -28,7 +28,7 @@ description: "Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertra
 
 ## Zweck
 
-Dieser Skill dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: Auflösungsvertrag) zur einvernehmlichen Beendigung eines Arbeitsverhältnisses. Er ist einschlägig, wenn Arbeitgeber und Arbeitnehmer das Arbeitsverhältnis ohne Kündigung zu einem bestimmten Termin beenden wollen. Kernthemen sind die Schriftform nach § 623 BGB, die sozialrechtlichen Konsequenzen (Sperrzeit § 159 SGB III), die Abfindungsgestaltung (§ 1a KSchG, Fünftelregelung § 34 EStG), die Ausgleichsklausel sowie mögliche Anfechtungs- und Widerrufsrechte. Der Skill berücksichtigt sowohl die Arbeitgeber- als auch die Arbeitnehmerperspektive.
+Dient der Prüfung und dem Entwurf eines Aufhebungsvertrags (auch: Auflösungsvertrag) zur einvernehmlichen Beendigung eines Arbeitsverhältnisses. Er ist einschlägig, wenn Arbeitgeber und Arbeitnehmer das Arbeitsverhältnis ohne Kündigung zu einem bestimmten Termin beenden wollen. Kernthemen sind die Schriftform nach § 623 BGB, die sozialrechtlichen Konsequenzen (Sperrzeit § 159 SGB III), die Abfindungsgestaltung (§ 1a KSchG, Fünftelregelung § 34 EStG), die Ausgleichsklausel sowie mögliche Anfechtungs- und Widerrufsrechte. Der Skill berücksichtigt sowohl die Arbeitgeber- als auch die Arbeitnehmerperspektive.
 
 ## Eingaben
 

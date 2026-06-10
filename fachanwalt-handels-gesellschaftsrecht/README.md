@@ -117,9 +117,9 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `umwg-quellenkarte` | Umwg Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Handels- und Gesellschaftsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Satzung, Gesellschafterbeschluss, HV-Protokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Handelsregister... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Handels- und Gesellschaftsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverhandlungs-S... |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix im Plugin fachanwalt-handels-gesellschaftsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel im Plugin fachanwalt-handels-gesellschaftsrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation im Plugin fachanwalt-handels-gesellschaftsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate im Plugin fachanwalt-handels-gesellschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
+| `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -1,6 +1,6 @@
 ---
 name: legal-behoerden-gericht-und-registerweg
-description: "Legal: Behörden-, Gerichts- oder Registerweg im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Legal: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Legal: Behörden-, Gerichts- oder Registerweg

@@ -7,7 +7,7 @@ description: "Absonderungsrecht § 50 InsO: fachanwaltlicher Spezial-Skill mit N
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Absonderungsrecht § 50 InsO** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Absonderungsrecht § 50 InsO** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

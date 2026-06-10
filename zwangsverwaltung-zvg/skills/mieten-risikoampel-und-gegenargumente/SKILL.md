@@ -1,6 +1,6 @@
 ---
 name: mieten-risikoampel-und-gegenargumente
-description: "Mieten: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Mieten: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Mieten: Risikoampel, Gegenargumente und Verteidigungslinien

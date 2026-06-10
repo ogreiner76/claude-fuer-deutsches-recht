@@ -32,7 +32,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **staatlicher Austritt, Kirchensteuer, Taufstatus, Folgen und Rückkehr**.
+Prüft insbesondere: **staatlicher Austritt, Kirchensteuer, Taufstatus, Folgen und Rückkehr**.
 
 **CIC-/Normanker:** can. 205, 209, 222, 751, 1364.
 

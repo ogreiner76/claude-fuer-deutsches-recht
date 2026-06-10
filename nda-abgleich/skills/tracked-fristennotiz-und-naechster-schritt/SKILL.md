@@ -1,6 +1,6 @@
 ---
 name: tracked-fristennotiz-und-naechster-schritt
-description: "Tracked: Fristennotiz und nächster Schritt im Plugin nda abgleich im NDA-Abgleich."
+description: "Tracked: Fristennotiz und nächster Schritt."
 ---
 
 # Tracked: Fristennotiz und nächster Schritt

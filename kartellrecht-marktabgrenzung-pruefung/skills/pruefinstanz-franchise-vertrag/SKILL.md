@@ -1,6 +1,6 @@
 ---
 name: pruefinstanz-franchise-vertrag
-description: "Pruefinstanz: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Pruefinstanz: Fristen, Form, Zuständigkeit und Rechtsweg: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pruefinstanz: Fristen, Form, Zuständigkeit und Rechtsweg

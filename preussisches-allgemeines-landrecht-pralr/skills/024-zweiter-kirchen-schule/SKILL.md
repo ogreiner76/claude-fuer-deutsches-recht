@@ -1,6 +1,6 @@
 ---
 name: 024-zweiter-kirchen-schule
-description: "PrALR: Zweiter Teil Kirchen Schule Armenwesen im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Kirchen Schule Armenwesen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche..."
+description: "PrALR: Zweiter Teil Kirchen Schule Armenwesen: Bearbeite den zweiten Teil Kirchen Schule Armenwesen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche..."
 ---
 
 # PrALR: Zweiter Teil Kirchen Schule Armenwesen

@@ -1,6 +1,6 @@
 ---
 name: belehrung-abschlussprodukt-uebergabe
-description: "Belehrung: Abschlussprodukt und Übergabe im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kriti..."
+description: "Belehrung: Abschlussprodukt und Übergabe: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kriti..."
 ---
 
 # Belehrung: Abschlussprodukt und Übergabe

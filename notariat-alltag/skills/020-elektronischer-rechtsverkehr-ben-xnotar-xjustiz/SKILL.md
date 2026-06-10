@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, 
 
 ## Zweck und Anwendungsbereich
 
-Der elektronische Rechtsverkehr ist für Notare seit 2022 obligatorisch. Dieser Skill führt durch die technischen Anforderungen, Übermittlungswege (beN, EGVP, XJustiz) und die Besonderheiten des Registerportals sowie der elektronischen Grundbucheinreichung.
+Der elektronische Rechtsverkehr ist für Notare seit 2022 obligatorisch. Führe durch die technischen Anforderungen, Übermittlungswege (beN, EGVP, XJustiz) und die Besonderheiten des Registerportals sowie der elektronischen Grundbucheinreichung.
 
 Rechtsgrundlagen: § 12 HGB i.V.m. § 10 EGovG (elektronische Anmeldung HR), § 39a BeurkG (elektronische Beglaubigung), § 137l EGBGB (Übergangsnormen), ERVV (Elektronischer Rechtsverkehr Verordnung), ERV-Verordnung, § 130a ZPO, §§ 14–15 GBO (elektronische Einreichung), NotVO, BNotO §§ 78a–78e (Notarpostfach beN).
 

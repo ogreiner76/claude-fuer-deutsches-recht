@@ -27,7 +27,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft, ob ein Lieferkettenereignis eine Insiderinformation darstellt, bestimmt
+Prüfe, ob ein Lieferkettenereignis eine Insiderinformation darstellt, bestimmt
 den Entstehungszeitpunkt und koordiniert die Ad-hoc-Entscheidung mit dem Krisenmanagement.
 
 ## Arbeitsprogramm

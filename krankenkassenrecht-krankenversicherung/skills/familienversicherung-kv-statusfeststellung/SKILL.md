@@ -15,7 +15,7 @@ description: "Familienversicherung nach § 10 SGB V: Einkommensgrenzen, Minijob 
 
 ## Skill-Zweck
 
-Die Familienversicherung erlaubt beitragsfreie Mitversicherung von Angehörigen. Dieser Skill klärt **Einkommensgrenzen, Auswirkungen des Minijobs und Risiken bei Grenzüberschreitung**.
+Die Familienversicherung erlaubt beitragsfreie Mitversicherung von Angehörigen. Kläre **Einkommensgrenzen, Auswirkungen des Minijobs und Risiken bei Grenzüberschreitung**.
 
 ## Rechtlicher Rahmen
 

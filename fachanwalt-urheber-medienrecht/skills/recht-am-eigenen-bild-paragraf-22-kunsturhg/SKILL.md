@@ -7,7 +7,7 @@ description: "Recht am Eigenen Bild § 22 KunstUrhG: fachanwaltlicher Spezial-Sk
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Recht am Eigenen Bild § 22 KunstUrhG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Recht am Eigenen Bild § 22 KunstUrhG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

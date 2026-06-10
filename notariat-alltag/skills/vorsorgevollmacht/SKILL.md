@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreu
 
 ## Zweck und Anwendungsbereich
 
-Vorsorgedokumente sichern die selbstbestimmte Handlungsfähigkeit für den Fall der Geschäftsunfähigkeit. Dieser Skill strukturiert Inhalt, Formvoraussetzungen, Beratungspflichten und die Registrierung im Zentralen Vorsorgeregister (ZVR) der Bundesnotarkammer.
+Vorsorgedokumente sichern die selbstbestimmte Handlungsfähigkeit für den Fall der Geschäftsunfähigkeit. Strukturiere Inhalt, Formvoraussetzungen, Beratungspflichten und die Registrierung im Zentralen Vorsorgeregister (ZVR) der Bundesnotarkammer.
 
 Rechtsgrundlagen: §§ 1814–1874 BGB n.F. (Betreuungsrecht ab 1.1.2023), § 1820 BGB n.F. (Vorsorgevollmacht), § 1901a BGB a.F. / § 1827 BGB n.F. (Patientenverfügung), § 1901b BGB a.F. / § 1828 BGB n.F. (Betreuungsverfügung), § 78d BNotO (Zentrales Vorsorgeregister), BeurkG §§ 6–35, § 17 BeurkG (Belehrungspflicht).
 

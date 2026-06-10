@@ -1,6 +1,6 @@
 ---
 name: aenderungsmodus-compliance-dokumentation-und-akte
-description: "Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk im Plugin nda abgleich im NDA-Abgleich."
+description: "Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk

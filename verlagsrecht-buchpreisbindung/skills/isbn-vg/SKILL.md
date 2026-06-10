@@ -15,7 +15,7 @@ description: "Verlagsrecht und Buchhandel: ISBN-Vergabe, Metadatenpflege, VLB-Me
 
 ## Zweck dieses Skills
 
-ISBN, Metadaten und VLB-Einträge sind das **operative Rückgrat** des deutschen Buchhandels. Fehlerhafte oder fehlende Metadaten führen zu Lieferproblemen, Preisbindungsmängeln und rechtlichen Risiken. Dieser Skill klärt alle Pflichten, Standards und Prozesse rund um Buchidentifikation und Metadateninfrastruktur.
+ISBN, Metadaten und VLB-Einträge sind das **operative Rückgrat** des deutschen Buchhandels. Fehlerhafte oder fehlende Metadaten führen zu Lieferproblemen, Preisbindungsmängeln und rechtlichen Risiken. Kläre alle Pflichten, Standards und Prozesse rund um Buchidentifikation und Metadateninfrastruktur.
 
 ## Rechtsgrundlagen und Standards
 

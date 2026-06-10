@@ -1,6 +1,6 @@
 ---
 name: bauvorschriften-behoerden-gericht-und-registerweg
-description: "Bauvorschriften: Behörden-, Gerichts- oder Registerweg im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Bauvorschriften: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Bauvorschriften: Behörden-, Gerichts- oder Registerweg

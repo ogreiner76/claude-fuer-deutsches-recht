@@ -1,6 +1,6 @@
 ---
 name: wurzeln-behoerden-gericht-und-registerweg
-description: "Wurzeln: Behörden-, Gerichts- oder Registerweg im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Wurzeln: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Wurzeln: Behörden-, Gerichts- oder Registerweg

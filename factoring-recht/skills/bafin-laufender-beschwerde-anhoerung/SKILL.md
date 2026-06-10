@@ -32,7 +32,7 @@ Der Tatbestand des Factorings in § 1 Abs. 1a Satz 2 Nr. 9 KWG ist auf drei Trag
 
 Optional: **mit oder ohne Rückgriff** – also echtes und unechtes Factoring sind beide erfasst.
 
-Wer alle drei Säulen erfüllt, ist Finanzdienstleistungsinstitut nach § 1 Abs. 1a Satz 1 KWG mit voller Aufsichtsfolge: Erlaubnispflicht (§ 32 KWG), Mindestkapital (§ 33 KWG), Geschäftsleiteranforderungen (§ 25c KWG), GwG-Pflichten, MaRisk-Anwendung. Dieser Skill prüft die Tatbestandsmerkmale einzeln.
+Wer alle drei Säulen erfüllt, ist Finanzdienstleistungsinstitut nach § 1 Abs. 1a Satz 1 KWG mit voller Aufsichtsfolge: Erlaubnispflicht (§ 32 KWG), Mindestkapital (§ 33 KWG), Geschäftsleiteranforderungen (§ 25c KWG), GwG-Pflichten, MaRisk-Anwendung. Prüfe die Tatbestandsmerkmale einzeln.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

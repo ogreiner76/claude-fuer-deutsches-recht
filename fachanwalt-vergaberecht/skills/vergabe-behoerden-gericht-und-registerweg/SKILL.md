@@ -1,6 +1,6 @@
 ---
 name: vergabe-behoerden-gericht-und-registerweg
-description: "Vergabe: Behörden-, Gerichts- oder Registerweg: Vergabe: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt vergaberecht."
+description: "Vergabe: Behörden-, Gerichts- oder Registerweg: Vergabe: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Vergabe: Behörden-, Gerichts- oder Registerweg
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Vergabe: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt vergaberecht.
+**Fokus:** Vergabe: Behörden-, Gerichts- oder Registerweg.
 
 ## Spezialwissen: Vergabe: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** GWB, VgV, UVgO, SektVO, KonzVgV, VOB, EU, RL, OLG.

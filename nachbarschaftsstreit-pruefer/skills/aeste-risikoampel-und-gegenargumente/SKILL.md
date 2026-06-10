@@ -1,6 +1,6 @@
 ---
 name: aeste-risikoampel-und-gegenargumente
-description: "Aeste: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Aeste: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Aeste: Risikoampel, Gegenargumente und Verteidigungslinien

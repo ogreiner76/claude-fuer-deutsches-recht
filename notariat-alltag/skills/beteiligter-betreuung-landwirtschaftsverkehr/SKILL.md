@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Beteiligter mit Betreuung oder Vorsorgevollmac
 
 ## Zweck und Anwendungsbereich
 
-Wenn ein Beteiligter unter Betreuung steht oder eine Vorsorgevollmacht besteht, muss der Notar die Handlungsfähigkeit des Beteiligten sorgfältig prüfen. Dieser Skill strukturiert die rechtlichen Voraussetzungen und das praktische Prüfprogramm.
+Wenn ein Beteiligter unter Betreuung steht oder eine Vorsorgevollmacht besteht, muss der Notar die Handlungsfähigkeit des Beteiligten sorgfältig prüfen. Strukturiere die rechtlichen Voraussetzungen und das praktische Prüfprogramm.
 
 Rechtsgrundlagen: §§ 104–113 BGB (Geschäftsfähigkeit), §§ 1814–1874 BGB n.F. (Betreuungsrecht 2023), § 1820 BGB n.F. (Vorsorgevollmacht), § 1825 BGB n.F. (Einwilligungsvorbehalt), §§ 1821–1822 BGB n.F. (Genehmigungspflichtige Rechtsgeschäfte), FamFG §§ 271–341 (Betreuungssachen), BeurkG § 10 (Feststellung der Beteiligten).
 

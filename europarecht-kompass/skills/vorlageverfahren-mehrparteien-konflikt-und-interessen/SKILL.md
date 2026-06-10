@@ -1,6 +1,6 @@
 ---
 name: vorlageverfahren-mehrparteien-konflikt-und-interessen
-description: "Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix im Plugin europarecht kompass im Europarecht Kompass."
+description: "Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix

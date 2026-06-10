@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Sakramente nicht verweigern und Zulassung begrenzen**.
+Prüft insbesondere: **Sakramente nicht verweigern und Zulassung begrenzen**.
 
 **CIC-/Normanker:** can. 213, 843, 912, 915-916.
 

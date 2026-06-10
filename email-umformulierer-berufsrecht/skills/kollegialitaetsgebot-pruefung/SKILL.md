@@ -1,6 +1,6 @@
 ---
 name: kollegialitaetsgebot-pruefung
-description: "E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. A — Arbeitskontext: E-Mail-Umformulierung im Berufsrecht, Schwerpunkt kollegialitaetsgebot pruefung."
+description: "E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. A"
 ---
 
 # Kollegialitätsgebot-Prüfung
@@ -9,7 +9,7 @@ description: "E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollege
 - **Normen-/Quellenanker:** BRAO/BORA, BNotO, StBerG, WPO, PAO, Sachlichkeitsgebot, Verschwiegenheit, Datenschutz und Deeskalationspflichten.
 - **Entscheidende Weiche:** Bewahre rechtlichen Inhalt, entferne Eskalation, schütze Geheimnisse, markiere Fristen und formuliere sendefähig ohne falsches Anerkenntnis.
 
-Dieser Skill prüft Korrespondenz gezielt auf Einhaltung des anwaltlichen Kollegialitätsgebots nach § 25 BORA. Der kollegiale Umgang unter Rechtsanwälten ist nicht nur eine Frage des guten Tons, sondern eine berufsrechtliche Pflicht, deren Verletzung zu Rüge- oder Ahndungsverfahren führen kann.
+Prüft Korrespondenz gezielt auf Einhaltung des anwaltlichen Kollegialitätsgebots nach § 25 BORA. Der kollegiale Umgang unter Rechtsanwälten ist nicht nur eine Frage des guten Tons, sondern eine berufsrechtliche Pflicht, deren Verletzung zu Rüge- oder Ahndungsverfahren führen kann.
 
 ## Triage zu Beginn
 1. Wer ist Adressat des Schreibens: Kollege direkt, Mandant ueber den Kollegen oder Gericht?

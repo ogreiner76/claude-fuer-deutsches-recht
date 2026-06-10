@@ -19,7 +19,7 @@ Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach Urh
 
 ## Zweck dieses Skills
 
-Dieser Skill analysiert den Verlagsvertrag nach seinen **synallagmatischen Hauptpflichten**: Manuskriptablieferung und Erscheinungspflicht (VerlG §§ 1–4), Rechteübertragung (UrhG §§ 31–44) sowie die wechselseitigen **Rückrufrechte** beider Seiten (VerlG §§ 7–8, UrhG §§ 41–42). Er bereitet den Sachverhalt für Vertragsreview, Verhandlung oder Streitbeilegung auf.
+Analysiert den Verlagsvertrag nach seinen **synallagmatischen Hauptpflichten**: Manuskriptablieferung und Erscheinungspflicht (VerlG §§ 1–4), Rechteübertragung (UrhG §§ 31–44) sowie die wechselseitigen **Rückrufrechte** beider Seiten (VerlG §§ 7–8, UrhG §§ 41–42). Er bereitet den Sachverhalt für Vertragsreview, Verhandlung oder Streitbeilegung auf.
 
 ## Rechtsgrundlagen
 

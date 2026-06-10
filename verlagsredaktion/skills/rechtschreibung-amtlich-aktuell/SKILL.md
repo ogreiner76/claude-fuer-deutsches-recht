@@ -40,7 +40,7 @@ Sie brauchen ihn als Endkorrekturlauf vor dem Druck und als Grundsatzlauf nach i
  - Bindestriche bei Komposita ("KI-Verordnung" vs. "KI Verordnung").
  - Eszett (ß) vs. Doppel-s ("dass", "Verfasser", "Strafprozess" - reformierte Schreibung).
  - Anfuehrungszeichen deutsch (unten/oben) oder englisch je nach Hausnorm.
- - Auslassungspunkte als Sonderzeichen ".." vs. "...".
+ - Auslassungspunkte als Sonderzeichen "." vs. "...".
 3. **Eigennamen.** BGH, BVerfG, FG, OVG, EuGH - immer mit Punkt? Mit Bindestrich? Mit Leerzeichen? Hausregel.
 4. **Latinismen und Anglizismen.** "in dubio pro reo" kursiv? "Compliance" mit grossem oder kleinem C im Fliesstext?
 5. **Konsistenz quer durchs Manuskript.** Wenn S. 3 "KI-Regulierung", dann nicht S. 12 "KI Regulierung".

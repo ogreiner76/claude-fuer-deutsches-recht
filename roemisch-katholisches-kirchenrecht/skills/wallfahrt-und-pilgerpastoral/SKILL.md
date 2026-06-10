@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Wallfahrten, Heiligtümer, Seelsorge und Ordnung**.
+Prüft insbesondere: **Wallfahrten, Heiligtümer, Seelsorge und Ordnung**.
 
 **CIC-/Normanker:** can. 1230-1234, 528.
 

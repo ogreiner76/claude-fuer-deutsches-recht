@@ -1,6 +1,6 @@
 ---
 name: gegenseite-tracked-fristennotiz-nda
-description: "Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin nda abgleich im NDA-Abgleich."
+description: "Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Gegenseite: Fristen, Form, Zuständigkeit und Rechtsweg

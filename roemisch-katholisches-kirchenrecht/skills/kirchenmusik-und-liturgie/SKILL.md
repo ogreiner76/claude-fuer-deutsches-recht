@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **liturgische Musik, Freigaben und pastorale Qualität**.
+Prüft insbesondere: **liturgische Musik, Freigaben und pastorale Qualität**.
 
 **CIC-/Normanker:** can. 834-839, 1171.
 

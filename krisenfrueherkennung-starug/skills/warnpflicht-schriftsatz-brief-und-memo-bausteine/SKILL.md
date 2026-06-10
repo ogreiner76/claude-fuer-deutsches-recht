@@ -1,6 +1,6 @@
 ---
 name: warnpflicht-schriftsatz-brief-und-memo-bausteine
-description: "Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine

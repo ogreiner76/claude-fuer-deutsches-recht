@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-tatbestandsmerkmale-beweisfragen
-description: "Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Betreuungsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
 ---
 
 # Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage

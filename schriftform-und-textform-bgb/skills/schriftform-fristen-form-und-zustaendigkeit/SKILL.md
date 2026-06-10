@@ -1,6 +1,6 @@
 ---
 name: schriftform-fristen-form-und-zustaendigkeit
-description: "Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg

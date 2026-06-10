@@ -1,6 +1,6 @@
 ---
 name: anfechtung-tatbestandsmerkmale
-description: "Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin Normenkontrolle Bauleitplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahr..."
+description: "Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahr..."
 ---
 
 # Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage

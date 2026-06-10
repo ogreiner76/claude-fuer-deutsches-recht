@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan-formular-portal-und-einreichung
-description: "Restrukturierungsplan: Formular, Portal und Einreichungslogik im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Restrukturierungsplan: Formular, Portal und Einreichungslogik."
 ---
 
 # Restrukturierungsplan: Formular, Portal und Einreichungslogik

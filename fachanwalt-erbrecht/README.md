@@ -114,9 +114,9 @@ Automatisch generierte Komplett-Liste aller 70 Skills in diesem Plugin. Beschrei
 | `vergleichsverhandlung-strategie` | Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln: §§ 2303 2042 BGB §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Nachlasswert Kosten... |
 | `verhandlung-mediation-erbengemeinschaft` | Streit in der Erbengemeinschaft durch Verhandlung oder Mediation lösen: §§ 2032 2042 2047 BGB Erbengemeinschaft. Prüfraster: Erbteile Nachlassbestand Verwaltungsmassnahmen Teilungsklage... |
 | `vor-und-nacherbschaft-paragraf-2113-bgb-bgh-iv-zr-201-13` | Vor Und Nacherbschaft Paragraf 2113 BGB BGH Iv Zr 201 13: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix im Plugin fachanwalt-erbrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel im Plugin fachanwalt-erbrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation im Plugin fachanwalt-erbrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
-| `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate im Plugin fachanwalt-erbrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
+| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
+| `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
+| `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
+| `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

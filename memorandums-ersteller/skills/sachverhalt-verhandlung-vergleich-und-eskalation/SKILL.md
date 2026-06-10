@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-verhandlung-vergleich-und-eskalation
-description: "Sachverhalt: Verhandlung, Vergleich und Eskalation im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Sachverhalt: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Sachverhalt: Verhandlung, Vergleich und Eskalation

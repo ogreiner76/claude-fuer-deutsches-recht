@@ -7,7 +7,7 @@ description: "Staatsangehoerigkeit § 10 StAG: fachanwaltlicher Spezial-Skill mi
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Staatsangehoerigkeit § 10 StAG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Staatsangehoerigkeit § 10 StAG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

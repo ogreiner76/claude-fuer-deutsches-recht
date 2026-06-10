@@ -1,6 +1,6 @@
 ---
 name: workflow-chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix: Chronologie und Belegmatrix im Plugin fachanwalt-bank-kapitalmarktrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen."
+description: "Chronologie und Belegmatrix: Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen."
 ---
 
 # Chronologie und Belegmatrix
@@ -14,7 +14,7 @@ description: "Chronologie und Belegmatrix: Chronologie und Belegmatrix im Plugin
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Chronologie und Belegmatrix im Plugin fachanwalt-bank-kapitalmarktrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
+**Fokus:** Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:

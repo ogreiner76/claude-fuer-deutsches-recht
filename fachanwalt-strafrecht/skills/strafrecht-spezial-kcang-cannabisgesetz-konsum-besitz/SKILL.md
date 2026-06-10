@@ -22,7 +22,7 @@ description: "Konsumcannabisgesetz KCanG seit 01.04.2024: §§ 2-3 KCanG erlaubt
 
 Das Konsumcannabisgesetz (KCanG) ist am 01.04.2024 in Kraft getreten. Es loest Cannabis aus dem BtMG-Regime heraus und stellt erlaubten Eigenkonsum, Eigenbesitz und privaten Anbau in begrenztem Umfang frei. Der Umgang mit groesseren Mengen, gewerblicher Handel und Abgabe an Minderjaehrige bleibt strafbar (§§ 34, 35 KCanG).
 
-Dieser Skill behandelt die erlaubten Bereiche (§§ 2, 3 KCanG). Der Strafrechts-Teil ist im Schwester-Skill `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang`.
+Behandelt die erlaubten Bereiche (§§ 2, 3 KCanG). Der Strafrechts-Teil ist im Schwester-Skill `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang`.
 
 ## Tatbestand und Stoffliche Erfassung
 

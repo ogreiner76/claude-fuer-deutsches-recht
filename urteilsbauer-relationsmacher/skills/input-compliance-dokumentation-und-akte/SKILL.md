@@ -1,6 +1,6 @@
 ---
 name: input-compliance-dokumentation-und-akte
-description: "Input: Compliance-Dokumentation und Aktenvermerk im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Input: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Input: Compliance-Dokumentation und Aktenvermerk

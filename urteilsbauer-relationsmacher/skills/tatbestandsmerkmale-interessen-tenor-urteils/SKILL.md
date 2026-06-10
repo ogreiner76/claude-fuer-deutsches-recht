@@ -1,6 +1,6 @@
 ---
 name: tatbestandsmerkmale-interessen-tenor-urteils
-description: "Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix

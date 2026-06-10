@@ -1,6 +1,6 @@
 ---
 name: grosse-kleine-koselleck-interessen
-description: "Grosse: Compliance-Dokumentation und Aktenvermerk im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Grosse: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Grosse: Compliance-Dokumentation und Aktenvermerk

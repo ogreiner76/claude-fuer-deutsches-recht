@@ -15,7 +15,7 @@ description: "EV-Vollzug (Gegenseite): Schutzschrift im Schutzschriftenregister,
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **präventive Verteidigungsstrategie des potentiellen Antragsgegners** bei drohender einstweiliger Verfügung im gewerblichen Rechtsschutz. Wer eine Abmahnung erhalten hat oder mit einer EV rechnet, kann durch Einreichung einer Schutzschrift ins zentrale Schutzschriftenregister (ZSSR) das Gericht vorwarnen und die Gewährung einer EV ohne mündliche Verhandlung erschweren.
+Behandelt die **präventive Verteidigungsstrategie des potentiellen Antragsgegners** bei drohender einstweiliger Verfügung im gewerblichen Rechtsschutz. Wer eine Abmahnung erhalten hat oder mit einer EV rechnet, kann durch Einreichung einer Schutzschrift ins zentrale Schutzschriftenregister (ZSSR) das Gericht vorwarnen und die Gewährung einer EV ohne mündliche Verhandlung erschweren.
 
 Mandatsbezug: Mandant hat Abmahnung erhalten (Marke, Patent, UWG, Urheberrecht) und lehnt sie ab; Abmahner hat Klageerhebung angedroht. Mandant will Beschlussverfügung ohne Anhörung verhindern. Oder: Mandant ist Wettbewerber, der beim Markteintritt mit Verfügungsantrag rechnet.
 

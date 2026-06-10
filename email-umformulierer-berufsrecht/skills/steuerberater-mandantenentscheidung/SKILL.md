@@ -1,6 +1,6 @@
 ---
 name: steuerberater-mandantenentscheidung
-description: "Steuerberater: Mandantenkommunikation und Entscheidungsvorlage im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Steuerberater: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Steuerberater: Mandantenkommunikation und Entscheidungsvorlage

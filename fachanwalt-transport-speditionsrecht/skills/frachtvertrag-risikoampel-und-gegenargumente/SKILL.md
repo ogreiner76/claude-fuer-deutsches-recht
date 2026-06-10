@@ -1,6 +1,6 @@
 ---
 name: frachtvertrag-risikoampel-und-gegenargumente
-description: "Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien: Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt transport speditionsrecht."
+description: "Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien: Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -14,7 +14,7 @@ description: "Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt transport speditionsrecht.
+**Fokus:** Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Spezialwissen: Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

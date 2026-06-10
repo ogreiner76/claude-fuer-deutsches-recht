@@ -1,6 +1,6 @@
 ---
 name: dsgvo-governance-inventar
-description: "DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki governance im Ki Governance."
+description: "DSGVO: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel

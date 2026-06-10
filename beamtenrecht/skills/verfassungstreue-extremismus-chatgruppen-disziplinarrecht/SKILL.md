@@ -15,7 +15,7 @@ description: "Verfassungstreue im Beamten- und Richterdienst: Reichsbürger, ext
 
 ## Worum es geht
 
-Beamte und Richter müssen zur freiheitlichen demokratischen Grundordnung stehen. Gleichzeitig haben sie Grundrechte und private Kommunikationsräume. Dieser Skill prüft nicht moralisch laut, sondern beweisfest und verhältnismäßig.
+Beamte und Richter müssen zur freiheitlichen demokratischen Grundordnung stehen. Gleichzeitig haben sie Grundrechte und private Kommunikationsräume. Prüfe nicht moralisch laut, sondern beweisfest und verhältnismäßig.
 
 ## Intake
 

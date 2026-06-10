@@ -7,7 +7,7 @@ description: "e Sport Anerkennung: fachanwaltlicher Spezial-Skill mit Normenanke
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **e Sport Anerkennung** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **e Sport Anerkennung** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

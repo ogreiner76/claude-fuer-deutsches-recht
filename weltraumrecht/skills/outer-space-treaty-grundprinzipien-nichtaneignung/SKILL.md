@@ -15,7 +15,7 @@ description: "OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verant
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet **Outer Space Treaty: Grundprinzipien, Nichtaneignung und nationale Verantwortung** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite **Outer Space Treaty: Grundprinzipien, Nichtaneignung und nationale Verantwortung** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Kontext
 

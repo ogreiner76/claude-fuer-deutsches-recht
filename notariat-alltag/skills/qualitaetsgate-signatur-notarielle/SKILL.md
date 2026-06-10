@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung. S
 
 ## Zweck und Anwendungsbereich
 
-Das Qualitätsgate ist der letzte Prüfpunkt, bevor ein Dokument signiert und bei Behörden eingereicht wird. Fehler nach der Einreichung kosten Zeit, Rang und ggf. Haftung. Dieser Skill strukturiert eine vollständige Vorprüfung.
+Das Qualitätsgate ist der letzte Prüfpunkt, bevor ein Dokument signiert und bei Behörden eingereicht wird. Fehler nach der Einreichung kosten Zeit, Rang und ggf. Haftung. Strukturiere eine vollständige Vorprüfung.
 
 Rechtsgrundlagen: § 17 BeurkG (Belehrung und Vollständigkeit), DONot §§ 1–56 (Aktenführung), § 12 HGB (HR-Anmeldung), GBO § 13 (Antrag), § 19 BNotO (Haftung), ERVV (Signaturformat), GNotKG (Kostenfestsetzung).
 

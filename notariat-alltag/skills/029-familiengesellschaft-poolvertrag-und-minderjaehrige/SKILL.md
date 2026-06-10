@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderj�
 
 ## Zweck und Anwendungsbereich
 
-Familiengesellschaften dienen der steueroptimalen Vermögensübertragung und Unternehmensnachfolge. Dieser Skill führt durch die Gestaltung von Familien-GmbH, GbR und Poolverträgen sowie durch die besonderen Anforderungen bei Beteiligung Minderjähriger.
+Familiengesellschaften dienen der steueroptimalen Vermögensübertragung und Unternehmensnachfolge. Führe durch die Gestaltung von Familien-GmbH, GbR und Poolverträgen sowie durch die besonderen Anforderungen bei Beteiligung Minderjähriger.
 
 Rechtsgrundlagen: §§ 2, 3, 15 GmbHG (GmbH-Recht), §§ 705–740c BGB n.F. (GbR, MoPeG ab 2024), § 1629 BGB (gesetzliche Vertretung Kind), § 1643 BGB n.F. (genehmigungspflichtige Rechtsgeschäfte für Minderjährige), §§ 1821–1822 BGB a.F. / §§ 1803–1806 BGB n.F. (Genehmigungskatalog), FamFG §§ 151 ff. (Familiensachen), GwG § 20 (Transparenzregister Minderjährige).
 

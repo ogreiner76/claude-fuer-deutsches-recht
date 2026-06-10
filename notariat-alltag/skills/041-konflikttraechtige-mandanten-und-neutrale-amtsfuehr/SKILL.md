@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amts
 
 ## Zweck und Anwendungsbereich
 
-Streitige Situationen zwischen Beteiligten, Druck auf den Notar oder Unsicherheit über die Freiwilligkeit einer Willenserklärung sind Alltagsrealität im Notariat. Dieser Skill strukturiert die notariellen Pflichten und Rechte bei konfliktträchtigen Situationen.
+Streitige Situationen zwischen Beteiligten, Druck auf den Notar oder Unsicherheit über die Freiwilligkeit einer Willenserklärung sind Alltagsrealität im Notariat. Strukturiere die notariellen Pflichten und Rechte bei konfliktträchtigen Situationen.
 
 Rechtsgrundlagen: § 17 BeurkG (Willensermittlung, Belehrung), § 4 BeurkG (Ablehnung), § 14 BNotO (Unparteilichkeit), § 15 BNotO (Verschwiegenheit), § 17 Abs. 3 BeurkG (Missverhältnis der Verhandlungsstärken), BGH-Rechtsprechung zu § 17 BeurkG.
 

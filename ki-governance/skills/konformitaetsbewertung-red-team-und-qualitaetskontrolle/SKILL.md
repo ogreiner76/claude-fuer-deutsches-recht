@@ -1,6 +1,6 @@
 ---
 name: konformitaetsbewertung-red-team-und-qualitaetskontrolle
-description: "Konformitaetsbewertung: Red-Team und Qualitätskontrolle im Plugin ki governance im Ki Governance."
+description: "Konformitaetsbewertung: Red-Team und Qualitätskontrolle."
 ---
 
 # Konformitaetsbewertung: Red-Team und Qualitätskontrolle

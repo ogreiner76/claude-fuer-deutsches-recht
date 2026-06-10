@@ -1,6 +1,6 @@
 ---
 name: bruessel-risikoampel-und-gegenargumente
-description: "Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien: Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt internationales wirtschaftsrecht."
+description: "Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien: Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt internationales wirtschaftsrecht.
+**Fokus:** Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Spezialwissen: Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.

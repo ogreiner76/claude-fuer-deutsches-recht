@@ -1,6 +1,6 @@
 ---
 name: security-installation
-description: "Security: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Security: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Security: Dokumentenmatrix, Lückenliste und Nachforderung

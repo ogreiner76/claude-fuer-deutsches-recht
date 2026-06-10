@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-emotionale-fristen-form-zustaendigkeit
-description: "Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Email Umformulierer Berufsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
+description: "Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
 ---
 
 # Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg

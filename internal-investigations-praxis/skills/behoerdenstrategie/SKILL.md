@@ -19,7 +19,7 @@ Self-Reporting an Behörden ist eine der folgenschwersten Entscheidungen in eine
 
 ## Ziel dieses Skills
 
-Dieser Skill entwickelt eine maßgeschneiderte Behördenstrategie, die Kooperationsanreize nutzt, ohne unkontrolliert Zugeständnisse zu machen oder Privilegeschutz zu opfern.
+Entwickle eine maßgeschneiderte Behördenstrategie, die Kooperationsanreize nutzt, ohne unkontrolliert Zugeständnisse zu machen oder Privilegeschutz zu opfern.
 
 ## Arbeitsprogramm
 

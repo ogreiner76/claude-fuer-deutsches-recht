@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-dokumentenmatrix-und-lueckenliste
-description: "Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung

@@ -1,6 +1,6 @@
 ---
 name: gerichtsverfahren-fristen-form-und-zustaendigkeit
-description: "Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Gerichtsverfahren: Fristen, Form, Zuständigkeit und Rechtsweg

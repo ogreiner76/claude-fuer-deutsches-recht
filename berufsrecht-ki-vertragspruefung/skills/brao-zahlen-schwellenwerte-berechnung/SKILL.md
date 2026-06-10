@@ -1,6 +1,6 @@
 ---
 name: brao-zahlen-schwellenwerte-berechnung
-description: "Brao: Zahlen, Schwellenwerte und Berechnung im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kr..."
+description: "Brao: Zahlen, Schwellenwerte und Berechnung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kr..."
 ---
 
 # Brao: Zahlen, Schwellenwerte und Berechnung

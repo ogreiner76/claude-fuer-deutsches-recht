@@ -1,6 +1,6 @@
 ---
 name: spaltenprompts-fristen-form-zustaendigkeit
-description: "Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin Tabellenreview 3D: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
+description: "Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist k..."
 ---
 
 # Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg

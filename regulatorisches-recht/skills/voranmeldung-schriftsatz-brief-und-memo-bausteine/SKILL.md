@@ -1,6 +1,6 @@
 ---
 name: voranmeldung-schriftsatz-brief-und-memo-bausteine
-description: "Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Voranmeldung: Schriftsatz-, Brief- und Memo-Bausteine

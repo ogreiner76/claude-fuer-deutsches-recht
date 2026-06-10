@@ -20,7 +20,7 @@ description: "WpIG und ZAG Pruefung: Wertpapierinstitutsgesetz und Zahlungsdiens
 
 ## Worum es geht
 
-Dieser Skill prüft die Abgrenzung zwischen WpIG-Erlaubnis, ZAG-Erlaubnis und KWG-Erlaubnis für Geschäftsmodelle an der Schnittstelle von Wertpapierdienstleistung und Zahlungsdienst. Das WpIG setzt die IFD/IFR um und klassifiziert Wertpapierinstitute in Klassen 1, 2 und 3 mit stark unterschiedlichen Eigenmittelanforderungen. Überschneidungen mit ZAG (Zahlungsauslösung, Verwahrstellen) und MiCAR (CASP) werden systematsich erfasst.
+Prüft die Abgrenzung zwischen WpIG-Erlaubnis, ZAG-Erlaubnis und KWG-Erlaubnis für Geschäftsmodelle an der Schnittstelle von Wertpapierdienstleistung und Zahlungsdienst. Das WpIG setzt die IFD/IFR um und klassifiziert Wertpapierinstitute in Klassen 1, 2 und 3 mit stark unterschiedlichen Eigenmittelanforderungen. Überschneidungen mit ZAG (Zahlungsauslösung, Verwahrstellen) und MiCAR (CASP) werden systematsich erfasst.
 
 ## Kernnormen
 

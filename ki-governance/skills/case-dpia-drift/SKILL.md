@@ -1,6 +1,6 @@
 ---
 name: case-dpia-drift
-description: "Case: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin ki governance im Ki Governance."
+description: "Case: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Case: Tatbestandsmerkmale, Beweisfragen und Beleglage

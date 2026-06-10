@@ -61,7 +61,7 @@ Reihenfolge nach IDW S 11 Rn. 23 ff.: **Erst Prognose, dann Status.** Ist die Fo
 | Unternehmenskonzept liegt schriftlich vor | ja/nein | nein → Prognose nicht haltbar |
 | Krisenstadium identifiziert (Stakeholder-, Strategie-, Ertrags-, Liquiditätskrise) | ja/nein | nein → IDW S 6 nicht erfüllt |
 | Integrierte Planung 24 Monate | ja/nein | nein → Prognose technisch nicht möglich |
-| Liquidität KW t..t+24 Monate ≥ 0 (Best/Base/Worst) | ja/nein | nein → Negative Prognose indiziert |
+| Liquidität KW t.t+24 Monate ≥ 0 (Best/Base/Worst) | ja/nein | nein → Negative Prognose indiziert |
 | Sanierungsbeitrag aller Stakeholder dokumentiert (Bank, Lieferanten, FA, Gesellschafter) | ja/nein | nein → Konzept nicht tragfähig |
 | Annahmen plausibel mit Marktdaten unterlegt | ja/nein | nein → Prognose nicht belastbar |
 

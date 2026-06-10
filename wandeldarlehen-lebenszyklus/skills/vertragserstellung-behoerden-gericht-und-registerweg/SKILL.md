@@ -1,6 +1,6 @@
 ---
 name: vertragserstellung-behoerden-gericht-und-registerweg
-description: "Vertragserstellung: Behörden-, Gerichts- oder Registerweg im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
+description: "Vertragserstellung: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Vertragserstellung: Behörden-, Gerichts- oder Registerweg

@@ -147,7 +147,7 @@ Hürden sind **hoch**: Das Auskunftsrecht ist ein Grundrecht (Art. 8 GRCh); Ausn
 - Dokumentation für Missbrauchseinwand anlegen: Datum Kündigung, Datum Auskunftsantrag, Vorliegen von Legal-Tech-Vollmacht, Muster bei anderen Mitarbeitern.
 - Parallellauf Kündigungsschutzverfahren und DSGVO-Auskunftsstreit im Blick behalten: Zuständiges Gericht für Auskunftsklage ist nach Art. 79 DSGVO i.V.m. § 44 BDSG das Landgericht (nicht das Arbeitsgericht); Koordinierung der Prozesstaktik erforderlich.
 
-Querverweis: `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` (soweit im Plugin vorhanden).
+Querverweis: `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` (soweit.
 
 ## Quellen und Zitierweise
 

@@ -32,7 +32,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit**.
+Prüft insbesondere: **Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit**.
 
 **CIC-/Normanker:** can. 1055-1165.
 

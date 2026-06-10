@@ -1,6 +1,6 @@
 ---
 name: rechtsinhalt-mehrparteien-konflikt-und-interessen
-description: "Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix

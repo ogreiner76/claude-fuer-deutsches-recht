@@ -15,9 +15,9 @@ description: "EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Re
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill analysiert, wann und ob die **Zustellung über das besondere elektronische Anwaltspostfach (beA)** für den Vollzug einer einstweiligen Verfügung im gewerblichen Rechtsschutz geeignet ist. Die beA-Zustellung ist technisch möglich, aber mit spezifischen Risiken verbunden – insbesondere wenn der Schuldner nicht anwaltlich vertreten ist oder der beA-Empfang nicht gesichert ist.
+Analysiere, wann und ob die **Zustellung über das besondere elektronische Anwaltspostfach (beA)** für den Vollzug einer einstweiligen Verfügung im gewerblichen Rechtsschutz geeignet ist. Die beA-Zustellung ist technisch möglich, aber mit spezifischen Risiken verbunden – insbesondere wenn der Schuldner nicht anwaltlich vertreten ist oder der beA-Empfang nicht gesichert ist.
 
-Mandatsbezug: Anwalt erwägt, statt des Gerichtsvollziehers die beA-Zustellung zu nutzen, um Kosten und Zeit zu sparen. Dieser Skill klärt, wann das vertretbar ist und wo die Risiken liegen.
+Mandatsbezug: Anwalt erwägt, statt des Gerichtsvollziehers die beA-Zustellung zu nutzen, um Kosten und Zeit zu sparen. Kläre, wann das vertretbar ist und wo die Risiken liegen.
 
 ## Rechtlicher Rahmen
 

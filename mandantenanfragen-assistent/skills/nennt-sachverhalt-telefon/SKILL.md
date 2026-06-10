@@ -1,6 +1,6 @@
 ---
 name: nennt-sachverhalt-telefon
-description: "Nennt: Zahlen, Schwellenwerte und Berechnung im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Nennt: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Nennt: Zahlen, Schwellenwerte und Berechnung

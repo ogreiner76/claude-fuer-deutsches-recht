@@ -1,6 +1,6 @@
 ---
 name: versteigerung-tatbestand-beweis-und-belege
-description: "Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage

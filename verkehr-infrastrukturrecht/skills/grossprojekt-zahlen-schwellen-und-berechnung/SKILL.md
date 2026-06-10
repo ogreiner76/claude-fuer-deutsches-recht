@@ -1,6 +1,6 @@
 ---
 name: grossprojekt-zahlen-schwellen-und-berechnung
-description: "Grossprojekt: Zahlen, Schwellenwerte und Berechnung im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Grossprojekt: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Grossprojekt: Zahlen, Schwellenwerte und Berechnung

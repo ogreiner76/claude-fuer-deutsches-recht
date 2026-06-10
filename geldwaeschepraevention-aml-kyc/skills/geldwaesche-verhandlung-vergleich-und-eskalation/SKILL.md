@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-verhandlung-vergleich-und-eskalation
-description: "Geldwaesche: Verhandlung, Vergleich und Eskalation im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Geldwaesche: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Geldwaesche: Verhandlung, Vergleich und Eskalation

@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill steuert die insiderrechtliche Compliance eines Spin-off-Prozesses für beide
+Steuert die insiderrechtliche Compliance eines Spin-off-Prozesses für beide
 Gesellschaften (Mutter und Tochter) von der Strategieentscheidung bis zur vollständigen
 Trennung.
 

@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Erbfolge – Erbschein, Europäisches Nachlass
 
 ## Zweck und Anwendungsbereich
 
-Nach einem Todesfall müssen Erben ihren Status gegenüber Registern und Behörden nachweisen. Dieser Skill führt durch die Feststellung der Erbfolge, den Erbscheinsantrag, das Europäische Nachlasszeugnis und die notarielle Mitwirkung bei der Grundbuchberichtigung.
+Nach einem Todesfall müssen Erben ihren Status gegenüber Registern und Behörden nachweisen. Führe durch die Feststellung der Erbfolge, den Erbscheinsantrag, das Europäische Nachlasszeugnis und die notarielle Mitwirkung bei der Grundbuchberichtigung.
 
 Rechtsgrundlagen: §§ 1922–2385 BGB (Erbrecht), §§ 2353–2375 BGB (Erbschein), §§ 2369–2370 BGB (gegenständlich beschränkter Erbschein), EuErbVO (EU-Verordnung Nr. 650/2012), §§ 342–373 FamFG (Nachlasssachen), § 35 GBO (Grundbuchberichtigung im Erbfall), § 29 GBO (Erbnachweis).
 

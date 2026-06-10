@@ -1,6 +1,6 @@
 ---
 name: notare-beweislast-sachliche-texte
-description: "Notare: Beweislast, Darlegungslast und Substantiierung im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Notare: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Notare: Beweislast, Darlegungslast und Substantiierung

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **kein Glaubenszwang und kirchliche Verbindlichkeit**.
+Prüft insbesondere: **kein Glaubenszwang und kirchliche Verbindlichkeit**.
 
 **CIC-/Normanker:** can. 748, 212, 750-754.
 

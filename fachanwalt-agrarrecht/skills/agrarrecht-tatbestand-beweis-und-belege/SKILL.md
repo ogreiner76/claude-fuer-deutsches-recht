@@ -1,6 +1,6 @@
 ---
 name: agrarrecht-tatbestand-beweis-und-belege
-description: "Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt agrarrecht."
+description: "Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -14,7 +14,7 @@ description: "Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Agrar
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt agrarrecht.
+**Fokus:** Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 
 ## Spezialwissen: Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

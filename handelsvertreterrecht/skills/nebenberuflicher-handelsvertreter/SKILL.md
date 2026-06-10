@@ -15,7 +15,7 @@ description: "Analysiert die Rechtsstellung des nebenberuflichen Handelsvertrete
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung.
+Unterstützt bei rechtlichen Fragen rund um Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.

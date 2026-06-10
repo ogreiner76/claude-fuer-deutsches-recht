@@ -1,6 +1,6 @@
 ---
 name: suretyship-schriftsatz-brief-und-memo-bausteine
-description: "Suretyship: Schriftsatz-, Brief- und Memo-Bausteine im Plugin common law kompass im Common Law Kompass."
+description: "Suretyship: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Suretyship: Schriftsatz-, Brief- und Memo-Bausteine

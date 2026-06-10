@@ -25,7 +25,7 @@ description: "Rechtsformwahl für Unternehmen: GmbH, UG, AG, GbR, PartG, KG, SE 
 
 Die Wahl der Rechtsform ist die erste und folgenreichste Entscheidung bei der Unternehmensgründung. Sie bestimmt die persönliche Haftung der Gesellschafter, die steuerliche Behandlung von Gewinnen und Ausschüttungen, die Kosten und Komplexität der Gründung und des laufenden Betriebs, die Investorentauglichkeit, die Geschäftsführer-Sozialversicherungspflicht und die Möglichkeiten einer späteren Nachfolge oder eines Exits. Eine fehlerhafte Wahl kann nur durch Umwandlungsverfahren nach dem UmwG korrigiert werden — mit erheblichem Aufwand und steuerlichen Risiken (§§ 1 ff. UmwG; §§ 1 ff. UmwStG).
 
-Dieser Skill unterstützt bei der systematischen Rechtsformwahl durch strukturierte Schlüsselfragen, eine vollständige Vergleichsmatrix und rechtsformbezogene Praxisempfehlungen.
+Unterstützt bei der systematischen Rechtsformwahl durch strukturierte Schlüsselfragen, eine vollständige Vergleichsmatrix und rechtsformbezogene Praxisempfehlungen.
 
 ## Kaltstart-Rückfragen
 

@@ -1,6 +1,6 @@
 ---
 name: bsfz-behoerden-gericht-und-registerweg
-description: "Bsfz: Behörden-, Gerichts- oder Registerweg im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Bsfz: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Bsfz: Behörden-, Gerichts- oder Registerweg

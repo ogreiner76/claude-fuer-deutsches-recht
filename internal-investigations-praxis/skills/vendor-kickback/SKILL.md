@@ -19,7 +19,7 @@ Kickbacks von Lieferanten an Einkäufer oder Entscheidungsträger erfüllen die 
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert die forensische Untersuchung von Kickback-Verdachtsmomenten in Beschaffungsprozessen.
+Strukturiert die forensische Untersuchung von Kickback-Verdachtsmomenten in Beschaffungsprozessen.
 
 ## Arbeitsprogramm
 

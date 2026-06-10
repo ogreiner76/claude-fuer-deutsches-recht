@@ -1,6 +1,6 @@
 ---
 name: sanktionen-mandantenkommunikation-entscheidungsvorlage
-description: "Sanktionen: Mandantenkommunikation und Entscheidungsvorlage: Sanktionen: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt internationales wirtschaftsrecht."
+description: "Sanktionen: Mandantenkommunikation und Entscheidungsvorlage: Sanktionen: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Sanktionen: Mandantenkommunikation und Entscheidungsvorlage
@@ -14,7 +14,7 @@ description: "Sanktionen: Mandantenkommunikation und Entscheidungsvorlage: Sankt
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Sanktionen: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt internationales wirtschaftsrecht.
+**Fokus:** Sanktionen: Mandantenkommunikation und Entscheidungsvorlage.
 
 ## Spezialwissen: Sanktionen: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.

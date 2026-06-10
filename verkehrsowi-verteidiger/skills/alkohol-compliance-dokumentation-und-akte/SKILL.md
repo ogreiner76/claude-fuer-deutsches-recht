@@ -1,6 +1,6 @@
 ---
 name: alkohol-compliance-dokumentation-und-akte
-description: "Alkohol: Compliance-Dokumentation und Aktenvermerk im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Alkohol: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Alkohol: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: aufsatz-interessen-beckrs-blindzitate
-description: "Aufsatz: Mehrparteienkonflikt und Interessenmatrix im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Aufsatz: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Aufsatz: Mehrparteienkonflikt und Interessenmatrix

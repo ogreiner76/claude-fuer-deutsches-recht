@@ -1,6 +1,6 @@
 ---
 name: zwangsverwaltung-erstpruefung-und-mandatsziel
-description: "Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel

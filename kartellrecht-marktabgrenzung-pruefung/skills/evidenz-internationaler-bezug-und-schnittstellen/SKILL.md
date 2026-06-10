@@ -1,6 +1,6 @@
 ---
 name: evidenz-internationaler-bezug-und-schnittstellen
-description: "Evidenz: Internationaler Bezug und Schnittstellen im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Evidenz: Internationaler Bezug und Schnittstellen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Evidenz: Internationaler Bezug und Schnittstellen

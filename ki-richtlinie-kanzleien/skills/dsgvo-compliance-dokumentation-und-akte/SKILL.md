@@ -1,6 +1,6 @@
 ---
 name: dsgvo-compliance-dokumentation-und-akte
-description: "DSGVO: Compliance-Dokumentation und Aktenvermerk im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "DSGVO: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # DSGVO: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: strafrechtliche-tatbestand-beweis-und-belege
-description: "Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Strafrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

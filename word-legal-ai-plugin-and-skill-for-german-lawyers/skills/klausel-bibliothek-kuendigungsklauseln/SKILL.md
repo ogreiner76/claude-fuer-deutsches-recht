@@ -23,7 +23,7 @@ description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche W
 
 ## Querverweis zum Asset
 
-Die vollstaendige Klauselbibliothek liegt im Plugin unter `references/klausel-bibliothek.md`. Sie enthaelt ueber 60 Bausteine in der oben beschriebenen Struktur. Dieser Skill ist die Bedienungsanleitung.
+Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.md`. Sie enthaelt ueber 60 Bausteine in der oben beschriebenen Struktur. Nutze diesen Skill als Bedienungsanleitung.
 
 ## Ablauf / Checkliste
 

@@ -7,7 +7,7 @@ description: "Amtshaftung § 839 BGB art 34 GG: fachanwaltlicher Spezial-Skill m
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Amtshaftung § 839 BGB art 34 GG** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Amtshaftung § 839 BGB art 34 GG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

@@ -1,6 +1,6 @@
 ---
 name: anwaltsschriftsatz-beweislast-beweismittel
-description: "Anwaltsschriftsatz: Beweislast, Darlegungslast und Substantiierung im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Anwaltsschriftsatz: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Anwaltsschriftsatz: Beweislast, Darlegungslast und Substantiierung

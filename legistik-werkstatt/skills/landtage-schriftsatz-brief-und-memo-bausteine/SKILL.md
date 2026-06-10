@@ -1,6 +1,6 @@
 ---
 name: landtage-schriftsatz-brief-und-memo-bausteine
-description: "Landtage: Schriftsatz-, Brief- und Memo-Bausteine im Plugin legistik werkstatt im Legistik."
+description: "Landtage: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Landtage: Schriftsatz-, Brief- und Memo-Bausteine

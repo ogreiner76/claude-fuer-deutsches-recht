@@ -1,6 +1,6 @@
 ---
 name: vwgo-statthaftigkeit-stellplatzsatzung-bay
-description: "VwGO: Schriftsatz-, Brief- und Memo-Bausteine im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "VwGO: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # VwGO: Schriftsatz-, Brief- und Memo-Bausteine

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache**.
+Prüft insbesondere: **Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache**.
 
 **CIC-/Normanker:** can. 751, 1311-1399, 1364.
 

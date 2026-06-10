@@ -15,7 +15,7 @@ description: "Wahltarife mit Selbstbehalt nach § 53 SGB V: Funktionsweise, Kün
 
 ## Skill-Zweck
 
-Selbstbehalt-Wahltarife bieten niedrigere Beiträge gegen einen Eigenanteil bei Leistungen. Dieser Skill klärt **Funktionsweise, 3-Jahres-Bindung, Kündigungsrechte und Rückforderungsrisiken bei Austritt**.
+Selbstbehalt-Wahltarife bieten niedrigere Beiträge gegen einen Eigenanteil bei Leistungen. Kläre **Funktionsweise, 3-Jahres-Bindung, Kündigungsrechte und Rückforderungsrisiken bei Austritt**.
 
 ## Rechtlicher Rahmen
 

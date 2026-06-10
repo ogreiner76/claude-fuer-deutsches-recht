@@ -1,6 +1,6 @@
 ---
 name: live-zahlen-schwellen-und-berechnung
-description: "Live: Zahlen, Schwellenwerte und Berechnung im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Live: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Live: Zahlen, Schwellenwerte und Berechnung

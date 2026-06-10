@@ -1,6 +1,6 @@
 ---
 name: dpia-risikoampel-und-gegenargumente
-description: "Dpia: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin ki governance im Ki Governance."
+description: "Dpia: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Dpia: Risikoampel, Gegenargumente und Verteidigungslinien

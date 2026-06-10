@@ -15,7 +15,7 @@ description: "Auffangsysteme in der PKV: Basistarif (§ 152 VAG), Standardtarif,
 
 ## Skill-Zweck
 
-Wer sich die PKV-Beiträge nicht leisten kann oder will, hat Optionen: **Basistarif, Standardtarif und Notlagentarif** bieten reduzierte Beiträge gegen eingeschränkte Leistungen. Dieser Skill klärt die Voraussetzungen, den Leistungsumfang und Wechselmöglichkeiten.
+Wer sich die PKV-Beiträge nicht leisten kann oder will, hat Optionen: **Basistarif, Standardtarif und Notlagentarif** bieten reduzierte Beiträge gegen eingeschränkte Leistungen. Kläre die Voraussetzungen, den Leistungsumfang und Wechselmöglichkeiten.
 
 ## Rechtlicher Rahmen
 

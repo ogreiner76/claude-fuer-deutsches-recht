@@ -1,6 +1,6 @@
 ---
 name: erbrecht-beweislast-und-darlegungslast
-description: "Erbrecht: Beweislast, Darlegungslast und Substantiierung: Erbrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt agrarrecht."
+description: "Erbrecht: Beweislast, Darlegungslast und Substantiierung: Erbrecht: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Erbrecht: Beweislast, Darlegungslast und Substantiierung
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Erbrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt agrarrecht.
+**Fokus:** Erbrecht: Beweislast, Darlegungslast und Substantiierung.
 
 ## Spezialwissen: Erbrecht: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.

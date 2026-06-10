@@ -7,7 +7,7 @@ description: "Jahresbericht und Anfangs-/Schlussbericht für das Betreuungsgeric
 
 ## Zweck
 
-Dieser Skill unterstützt berufliche und ehrenamtliche Betreuerinnen und
+Unterstützt berufliche und ehrenamtliche Betreuerinnen und
 Betreuer bei der Erstellung des **Jahresberichts an das Betreuungsgericht**
 nach § 1863 Abs. 3 BGB sowie des **Anfangsberichts** nach § 1863 Abs. 1 BGB.
 Aus einer Sammlung unsortierter Eingangsdaten — E-Mail-Verkehr mit Heimen,

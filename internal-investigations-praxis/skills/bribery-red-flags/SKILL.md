@@ -19,7 +19,7 @@ Bestechung im geschäftlichen Verkehr ist nach §§ 299–301 StGB strafbar ([ge
 
 ## Ziel dieses Skills
 
-Dieser Skill identifiziert Bestechungs-Red-Flags in Transaktionsdaten, Drittparteienbeziehungen und Vergabeverfahren und leitet daraus begründete Untersuchungsschritte ab.
+Identifiziere Bestechungs-Red-Flags in Transaktionsdaten, Drittparteienbeziehungen und Vergabeverfahren und leitet daraus begründete Untersuchungsschritte ab.
 
 ## Arbeitsprogramm
 

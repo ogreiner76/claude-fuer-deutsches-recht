@@ -1,6 +1,6 @@
 ---
 name: stag-verhandlung-vergleich-und-eskalation
-description: "Stag: Verhandlung, Vergleich und Eskalation: Stag: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt migrationsrecht."
+description: "Stag: Verhandlung, Vergleich und Eskalation: Stag: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Stag: Verhandlung, Vergleich und Eskalation
@@ -14,7 +14,7 @@ description: "Stag: Verhandlung, Vergleich und Eskalation: Stag: Verhandlung, Ve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Stag: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt migrationsrecht.
+**Fokus:** Stag: Verhandlung, Vergleich und Eskalation.
 
 ## Spezialwissen: Stag: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU, GEAS.

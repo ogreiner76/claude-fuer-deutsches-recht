@@ -1,6 +1,6 @@
 ---
 name: 020-rezeption-deutschland
-description: "Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus im Römisches Recht: Dieser Skill bearbeitet Rezeption in Deutschland Reichskammergericht und Usus modernus im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren:..."
+description: "Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus im Römisches Recht: Bearbeite Rezeption in Deutschland Reichskammergericht und Usus modernus im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren:..."
 ---
 
 # Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus

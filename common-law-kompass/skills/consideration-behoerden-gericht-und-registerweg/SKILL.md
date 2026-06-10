@@ -1,6 +1,6 @@
 ---
 name: consideration-behoerden-gericht-und-registerweg
-description: "Consideration: Behörden-, Gerichts- oder Registerweg im Plugin common law kompass im Common Law Kompass."
+description: "Consideration: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Consideration: Behörden-, Gerichts- oder Registerweg

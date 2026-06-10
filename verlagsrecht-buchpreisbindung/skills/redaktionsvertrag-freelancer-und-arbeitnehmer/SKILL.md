@@ -15,7 +15,7 @@ description: "Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmer
 
 ## Zweck dieses Skills
 
-Verlage beschäftigen **Redakteure, Lektoren, Übersetzer, Fotografen und Grafiker** sowohl als Arbeitnehmer als auch als freie Mitarbeiter. Die Abgrenzung zwischen echten Freelancern und Scheinselbständigen ist rechtlich komplex und hat erhebliche Konsequenzen für Sozialversicherungspflicht, Urheberrecht und Haftung. Dieser Skill klärt alle relevanten Dimensionen.
+Verlage beschäftigen **Redakteure, Lektoren, Übersetzer, Fotografen und Grafiker** sowohl als Arbeitnehmer als auch als freie Mitarbeiter. Die Abgrenzung zwischen echten Freelancern und Scheinselbständigen ist rechtlich komplex und hat erhebliche Konsequenzen für Sozialversicherungspflicht, Urheberrecht und Haftung. Kläre alle relevanten Dimensionen.
 
 ## Rechtsgrundlagen
 

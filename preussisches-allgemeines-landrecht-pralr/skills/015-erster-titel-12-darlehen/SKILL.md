@@ -1,6 +1,6 @@
 ---
 name: 015-erster-titel-12-darlehen
-description: "PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 12 Darlehen Verwahrung Leihe im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen li..."
+description: "PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe: Bearbeite den ersten Teil Titel 12 Darlehen Verwahrung Leihe im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen li..."
 ---
 
 # PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe

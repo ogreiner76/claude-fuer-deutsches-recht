@@ -1,6 +1,6 @@
 ---
 name: terminvergabe-mehrparteien-konflikt-und-interessen
-description: "Terminvergabe: Mehrparteienkonflikt und Interessenmatrix im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Terminvergabe: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Terminvergabe: Mehrparteienkonflikt und Interessenmatrix

@@ -15,7 +15,7 @@ description: "Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Die
 
 ## Problem
 
-Nicht jeder Streit eines Richters gehört zum Richterdienstgericht. Nicht jeder Streit über Dienstaufsicht gehört zur Verwaltungsgerichtsbarkeit. Dieser Skill klärt den Rechtsweg, bevor ein Schriftsatz entsteht.
+Nicht jeder Streit eines Richters gehört zum Richterdienstgericht. Nicht jeder Streit über Dienstaufsicht gehört zur Verwaltungsgerichtsbarkeit. Kläre den Rechtsweg, bevor ein Schriftsatz entsteht.
 
 ## Entscheidungsbaum
 

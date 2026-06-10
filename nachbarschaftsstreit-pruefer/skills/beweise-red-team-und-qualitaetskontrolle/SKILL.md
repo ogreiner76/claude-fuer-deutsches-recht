@@ -1,6 +1,6 @@
 ---
 name: beweise-red-team-und-qualitaetskontrolle
-description: "Beweise: Red-Team und Qualitätskontrolle im Plugin nachbarschaftsstreit pruefer im Nachbarschaftsstreit Pruefer."
+description: "Beweise: Red-Team und Qualitätskontrolle."
 ---
 
 # Beweise: Red-Team und Qualitätskontrolle

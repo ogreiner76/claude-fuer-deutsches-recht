@@ -1,6 +1,6 @@
 ---
 name: woche-mehrparteien-konflikt-und-interessen
-description: "Woche: Mehrparteienkonflikt und Interessenmatrix: Woche: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt migrationsrecht."
+description: "Woche: Mehrparteienkonflikt und Interessenmatrix: Woche: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Woche: Mehrparteienkonflikt und Interessenmatrix
@@ -14,7 +14,7 @@ description: "Woche: Mehrparteienkonflikt und Interessenmatrix: Woche: Mehrparte
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Woche: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt migrationsrecht.
+**Fokus:** Woche: Mehrparteienkonflikt und Interessenmatrix.
 
 ## Spezialwissen: Woche: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.

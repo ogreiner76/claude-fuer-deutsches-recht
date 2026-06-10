@@ -1,6 +1,6 @@
 ---
 name: anfaenger-antraege-dfg
-description: "Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Anfaenger: Risikoampel, Gegenargumente und Verteidigungslinien

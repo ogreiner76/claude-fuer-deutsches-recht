@@ -1,6 +1,6 @@
 ---
 name: rollenmodell-use-case-vendor
-description: "Rollenmodell: Formular, Portal und Einreichungslogik im Plugin ki governance im Ki Governance."
+description: "Rollenmodell: Formular, Portal und Einreichungslogik."
 ---
 
 # Rollenmodell: Formular, Portal und Einreichungslogik

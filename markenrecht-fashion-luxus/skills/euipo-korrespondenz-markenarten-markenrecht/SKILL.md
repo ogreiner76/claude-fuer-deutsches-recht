@@ -1,6 +1,6 @@
 ---
 name: euipo-korrespondenz-markenarten-markenrecht
-description: "Euipo: Behörden-, Gerichts- oder Registerweg im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "Euipo: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Euipo: Behörden-, Gerichts- oder Registerweg

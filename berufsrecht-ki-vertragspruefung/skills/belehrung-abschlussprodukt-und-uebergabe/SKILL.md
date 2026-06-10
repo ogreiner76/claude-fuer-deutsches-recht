@@ -1,6 +1,6 @@
 ---
 name: belehrung-abschlussprodukt-und-uebergabe
-description: "Belehrung: Abschlussprodukt und Übergabe im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Belehrung: Abschlussprodukt und Übergabe."
 ---
 
 # Belehrung: Abschlussprodukt und Übergabe

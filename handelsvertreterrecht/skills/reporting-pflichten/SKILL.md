@@ -19,7 +19,7 @@ Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Berichtspflichten des Handelsvertreters nach § 86 Abs. 2 HGB.
+Unterstützt bei rechtlichen Fragen rund um Berichtspflichten des Handelsvertreters nach § 86 Abs. 2 HGB.
 Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.

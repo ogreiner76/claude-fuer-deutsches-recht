@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Annahme, Buchführung, Weitergabe und Missbrauchsrisiko**.
+Prüft insbesondere: **Annahme, Buchführung, Weitergabe und Missbrauchsrisiko**.
 
 **CIC-/Normanker:** can. 945-958.
 

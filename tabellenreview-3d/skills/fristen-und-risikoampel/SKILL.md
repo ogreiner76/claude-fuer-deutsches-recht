@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin Tabellenreview 3D im Tabellenreview 3d."
+description: "Fristen- und Risikoampel."
 ---
 
 # Fristen- und Risikoampel

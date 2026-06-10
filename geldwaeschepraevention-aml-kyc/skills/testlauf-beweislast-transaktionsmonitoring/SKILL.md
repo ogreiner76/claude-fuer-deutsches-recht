@@ -1,6 +1,6 @@
 ---
 name: testlauf-beweislast-transaktionsmonitoring
-description: "Testlauf: Beweislast, Darlegungslast und Substantiierung im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Testlauf: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Testlauf: Beweislast, Darlegungslast und Substantiierung

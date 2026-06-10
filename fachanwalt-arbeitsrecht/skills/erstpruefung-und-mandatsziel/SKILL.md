@@ -121,8 +121,5 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 ## Anschluss-Skills
 - `ar-einfuehrung-mandantenanliegen` für Themen-Routing nach Erstprüfung
 - `ar-kuendigungspruefung-workflow` wenn Kündigung das Kernproblem ist
-- `workflow-kaltstart-und-routing` für weiteres Routing im Plugin
-
-## Was dieser Arbeitsgang nicht macht
-- Keine individuelle Kostenberechnung ohne vollständige Mandantsdaten.
+- `workflow-kaltstart-und-routing` für weiteres Routing.
 - Keine Steuerberatung zur steuerlichen Behandlung von Abfindungen.

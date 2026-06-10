@@ -1,6 +1,6 @@
 ---
 name: texte-uebertragen-zielgruppe-sprachniveau
-description: "Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Vereinigung, Satzung, Anerkennung, Aufsicht und Vermögen**.
+Prüft insbesondere: **Vereinigung, Satzung, Anerkennung, Aufsicht und Vermögen**.
 
 **CIC-/Normanker:** can. 298-329.
 

@@ -1,6 +1,6 @@
 ---
 name: gegen-grundfreiheiten-livecheck-sonderfall
-description: "Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin europarecht kompass im Europarecht Kompass."
+description: "Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage

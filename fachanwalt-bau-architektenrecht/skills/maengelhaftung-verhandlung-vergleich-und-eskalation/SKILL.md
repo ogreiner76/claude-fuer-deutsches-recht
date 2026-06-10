@@ -1,6 +1,6 @@
 ---
 name: maengelhaftung-verhandlung-vergleich-und-eskalation
-description: "Maengelhaftung: Verhandlung, Vergleich und Eskalation: Maengelhaftung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bau architektenrecht."
+description: "Maengelhaftung: Verhandlung, Vergleich und Eskalation: Maengelhaftung: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Maengelhaftung: Verhandlung, Vergleich und Eskalation
@@ -18,7 +18,7 @@ description: "Maengelhaftung: Verhandlung, Vergleich und Eskalation: Maengelhaft
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Maengelhaftung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bau architektenrecht.
+**Fokus:** Maengelhaftung: Verhandlung, Vergleich und Eskalation.
 
 ## Spezialwissen: Maengelhaftung: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

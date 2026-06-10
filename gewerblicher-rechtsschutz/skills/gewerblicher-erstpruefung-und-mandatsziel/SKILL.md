@@ -29,7 +29,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill strukturiert die **Erstprüfung und Mandatszieldefinition** bei neuen IP- und Wettbewerbsschutzmandaten. Er hilft dem Anwalt, in kurzer Zeit ein klares Bild der Situation, der Rollen, der einschlägigen Schutzrechtslandschaft und des konkreten Mandatsziels zu gewinnen – als Grundlage für alle weiteren Verfahrensschritte.
+Strukturiert die **Erstprüfung und Mandatszieldefinition** bei neuen IP- und Wettbewerbsschutzmandaten. Er hilft dem Anwalt, in kurzer Zeit ein klares Bild der Situation, der Rollen, der einschlägigen Schutzrechtslandschaft und des konkreten Mandatsziels zu gewinnen – als Grundlage für alle weiteren Verfahrensschritte.
 
 Mandatsbezug: Mandant ruft an und sagt „Jemand verletzt unsere Marke" oder „Wir haben eine Abmahnung erhalten" oder „Wir wollen unser Patent durchsetzen". Dieser Skill sorgt dafür, dass das Erstgespräch produktiv ist und alle relevanten Informationen erfasst werden.
 

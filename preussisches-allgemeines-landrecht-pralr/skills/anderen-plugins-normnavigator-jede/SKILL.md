@@ -1,6 +1,6 @@
 ---
 name: anderen-plugins-normnavigator-jede
-description: "PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung, Nachbarrecht, Grundbuch und BGB herstellen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung, Nachbarrecht, Grundbuch und BGB herstellen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Routing in andere Plugins

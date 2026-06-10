@@ -19,7 +19,7 @@ Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Berechnung des Ausgleichsanspruchs nach § 89b HGB.
+Unterstützt bei rechtlichen Fragen rund um Berechnung des Ausgleichsanspruchs nach § 89b HGB.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein.
 Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.

@@ -54,7 +54,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Pfarrei, Ordinariat, Bischof, Tribunal und römische Kurie**.
+Prüft insbesondere: **Pfarrei, Ordinariat, Bischof, Tribunal und römische Kurie**.
 
 **CIC-/Normanker:** can. 331-367, 368-430, 469-494, 1400-1500.
 

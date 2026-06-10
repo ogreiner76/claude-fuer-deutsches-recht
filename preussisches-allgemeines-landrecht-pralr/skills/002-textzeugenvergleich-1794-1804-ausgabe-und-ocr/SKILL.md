@@ -1,6 +1,6 @@
 ---
 name: 002-textzeugenvergleich-1794-1804-ausgabe-und-ocr
-description: "PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Textzeugenvergleich 1794 1804 Ausgabe Und Ocr

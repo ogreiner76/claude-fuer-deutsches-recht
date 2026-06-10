@@ -15,7 +15,7 @@ description: "DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zustän
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **verfahrensrechtlichen Details des DPMA** (Deutsches Patent- und Markenamt) für alle relevanten Schutzrechtsverfahren. Er gibt präzise Informationen zu Fristen, Formvoraussetzungen, Einreichungswegen und zuständigen Stellen innerhalb des DPMA – und zu den Konsequenzen von Formfehlern und Fristversäumnissen.
+Behandelt die **verfahrensrechtlichen Details des DPMA** (Deutsches Patent- und Markenamt) für alle relevanten Schutzrechtsverfahren. Er gibt präzise Informationen zu Fristen, Formvoraussetzungen, Einreichungswegen und zuständigen Stellen innerhalb des DPMA – und zu den Konsequenzen von Formfehlern und Fristversäumnissen.
 
 Mandatsbezug: Anwalt fragt: Wann muss ich Widerspruch einlegen? Was ist die korrekte Formvorschrift für die Patentanmeldung? Kann ich online einreichen? Was passiert, wenn die Frist versäumt wurde?
 

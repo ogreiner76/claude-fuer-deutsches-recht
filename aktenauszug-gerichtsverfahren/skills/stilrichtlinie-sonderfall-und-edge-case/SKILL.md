@@ -1,6 +1,6 @@
 ---
 name: stilrichtlinie-sonderfall-und-edge-case
-description: "Stilrichtlinie: Sonderfall und Edge-Case-Prüfung im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Stilrichtlinie: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Stilrichtlinie: Sonderfall und Edge-Case-Prüfung

@@ -7,7 +7,7 @@ description: "Gefahrgut adr § 9 Gefstoffvo: fachanwaltlicher Spezial-Skill mit 
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Gefahrgut adr § 9 Gefstoffvo** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Gefahrgut adr § 9 Gefstoffvo** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

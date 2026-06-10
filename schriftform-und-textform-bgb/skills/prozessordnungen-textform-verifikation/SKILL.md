@@ -1,6 +1,6 @@
 ---
 name: prozessordnungen-textform-verifikation
-description: "Prozessordnungen: Behörden-, Gerichts- oder Registerweg im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Prozessordnungen: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Prozessordnungen: Behörden-, Gerichts- oder Registerweg

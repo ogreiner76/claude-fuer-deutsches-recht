@@ -1,6 +1,6 @@
 ---
 name: bgb-verhandlung-vergleich-und-eskalation
-description: "BGB: Verhandlung, Vergleich und Eskalation: BGB: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt agrarrecht."
+description: "BGB: Verhandlung, Vergleich und Eskalation: BGB: Verhandlung, Vergleich und Eskalation."
 ---
 
 # BGB: Verhandlung, Vergleich und Eskalation
@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** BGB: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt agrarrecht.
+**Fokus:** BGB: Verhandlung, Vergleich und Eskalation.
 
 ## Spezialwissen: BGB: Verhandlung, Vergleich und Eskalation
 - **Normen-/Quellenanker:** BGB, HöfeO, GAP, EU.

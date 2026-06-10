@@ -15,7 +15,7 @@ description: "Starlink, OneWeb, IRIS² – öffentliche Beschaffung, Sicherheits
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet das Thema **Starlink, OneWeb, IRIS² und öffentliche Beschaffung** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite das Thema **Starlink, OneWeb, IRIS² und öffentliche Beschaffung** im Bereich Weltraumrecht und Raumfahrtrecht. Er strukturiert die praktische Lage, identifiziert einschlägige Normen des internationalen, europäischen und deutschen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Schwerpunkt
 

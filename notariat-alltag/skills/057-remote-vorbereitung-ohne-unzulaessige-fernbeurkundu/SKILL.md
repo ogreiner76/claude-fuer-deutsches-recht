@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeur
 
 ## Zweck und Anwendungsbereich
 
-Die Digitalisierung verleitet zu der Annahme, man könne Beurkundungen vollständig remote abwickeln. Dieser Skill klärt, was vor dem Termin remote erlaubt ist, welche Schritte zwingend persönlich stattfinden müssen und wie ein optimaler Remote-Vorbereitungsprozess aussieht.
+Die Digitalisierung verleitet zu der Annahme, man könne Beurkundungen vollständig remote abwickeln. Kläre, was vor dem Termin remote erlaubt ist, welche Schritte zwingend persönlich stattfinden müssen und wie ein optimaler Remote-Vorbereitungsprozess aussieht.
 
 Rechtsgrundlagen: §§ 6–35 BeurkG (Beurkundungsverfahren – Präsenzerfordernis), § 13 BeurkG (Vorlesen in Gegenwart), § 16 BeurkG (Dolmetscher), § 16a BNotO (Videobeurkundung – begrenzt), §§ 40a–40e BeurkG (Online-Beglaubigung), § 29 BNotO (Verschwiegenheit bei Kommunikation), DSGVO (Datenschutz).
 

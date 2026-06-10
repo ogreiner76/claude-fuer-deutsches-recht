@@ -19,7 +19,7 @@ Jede Internal Investigation erzeugt Dokumente, die in fremden Händen gefährlic
 
 ## Ziel dieses Skills
 
-Dieser Skill analysiert vor jeder Untersuchungshandlung, ob und welche Dokumente ein Risikopotenzial für die Gesellschaft, ihre Organe oder betroffene Mitarbeiter begründen. Das Ziel ist keine Beweisunterdrückung, sondern strukturierte Risikominimierung im Rahmen des rechtlich Zulässigen.
+Analysiert vor jeder Untersuchungshandlung, ob und welche Dokumente ein Risikopotenzial für die Gesellschaft, ihre Organe oder betroffene Mitarbeiter begründen. Das Ziel ist keine Beweisunterdrückung, sondern strukturierte Risikominimierung im Rahmen des rechtlich Zulässigen.
 
 ## Arbeitsprogramm
 

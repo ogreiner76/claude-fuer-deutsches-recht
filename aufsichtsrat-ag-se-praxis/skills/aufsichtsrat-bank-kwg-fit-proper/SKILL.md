@@ -15,7 +15,7 @@ description: "AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Bank KWG Fit Proper; konkr
 
 ## Worum es geht
 
-Dieser Skill prüft die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsmitglieder von KWG-Instituten nach § 25d KWG. Er verknüpft die Eignungsanforderungen (Zuverlässigkeit, Sachverstand, Zeitbudget) mit den Mandatshöchstzahlen, dem kollektiven Sachverstand und der BaFin-Kommunikation. Grundlage sind § 25d KWG, EBA/GL/2021/06 und das BaFin-Merkblatt Aufsichtsorgan.
+Prüft die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsmitglieder von KWG-Instituten nach § 25d KWG. Er verknüpft die Eignungsanforderungen (Zuverlässigkeit, Sachverstand, Zeitbudget) mit den Mandatshöchstzahlen, dem kollektiven Sachverstand und der BaFin-Kommunikation. Grundlage sind § 25d KWG, EBA/GL/2021/06 und das BaFin-Merkblatt Aufsichtsorgan.
 
 ## Kernnormen
 

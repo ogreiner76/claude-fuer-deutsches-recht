@@ -1,6 +1,6 @@
 ---
 name: zielgruppe-zahlen-schwellen-und-berechnung
-description: "Zielgruppe: Zahlen, Schwellenwerte und Berechnung: Zielgruppe: Zahlen, Schwellenwerte und Berechnung im Plugin einfache leichte sprache jura."
+description: "Zielgruppe: Zahlen, Schwellenwerte und Berechnung: Zielgruppe: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Zielgruppe: Zahlen, Schwellenwerte und Berechnung
@@ -14,7 +14,7 @@ description: "Zielgruppe: Zahlen, Schwellenwerte und Berechnung: Zielgruppe: Zah
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Behörde, Verwaltungsstelle, Übersetzer Leichte Sprache, Prüfgruppe (Selbstvertreter), Sozialverbände (Lebenshilfe, BAGSO), Behindertenbeauftragter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bescheid in Leichter Sprache, Erklärfilm-Skript, Antragsformular mit Erläuterung, Mandanteninfo, Prozessunterlagen in einfacher Sprache — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Zielgruppe: Zahlen, Schwellenwerte und Berechnung im Plugin einfache leichte sprache jura.
+**Fokus:** Zielgruppe: Zahlen, Schwellenwerte und Berechnung.
 
 ## Spezialwissen: Zielgruppe: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.

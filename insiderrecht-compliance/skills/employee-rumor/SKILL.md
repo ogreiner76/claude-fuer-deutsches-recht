@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill steuert die interne Klärungsreaktion auf Mitarbeiter-Gerüchte über
+Steuert die interne Klärungsreaktion auf Mitarbeiter-Gerüchte über
 Insiderwissen und stellt sicher, dass Compliance-Pflichten ausgelöste Folgehandlungen
 vollständig abdeckt.
 

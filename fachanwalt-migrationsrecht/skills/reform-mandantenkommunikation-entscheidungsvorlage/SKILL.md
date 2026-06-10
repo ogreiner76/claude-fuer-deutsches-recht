@@ -1,6 +1,6 @@
 ---
 name: reform-mandantenkommunikation-entscheidungsvorlage
-description: "Reform: Mandantenkommunikation und Entscheidungsvorlage: Reform: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt migrationsrecht."
+description: "Reform: Mandantenkommunikation und Entscheidungsvorlage: Reform: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Reform: Mandantenkommunikation und Entscheidungsvorlage
@@ -14,7 +14,7 @@ description: "Reform: Mandantenkommunikation und Entscheidungsvorlage: Reform: M
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Reform: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt migrationsrecht.
+**Fokus:** Reform: Mandantenkommunikation und Entscheidungsvorlage.
 
 ## Spezialwissen: Reform: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.

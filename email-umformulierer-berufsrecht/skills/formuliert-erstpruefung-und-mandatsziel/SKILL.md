@@ -1,6 +1,6 @@
 ---
 name: formuliert-erstpruefung-und-mandatsziel
-description: "Formuliert: Erstprüfung, Rollenklärung und Mandatsziel im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Formuliert: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Formuliert: Erstprüfung, Rollenklärung und Mandatsziel

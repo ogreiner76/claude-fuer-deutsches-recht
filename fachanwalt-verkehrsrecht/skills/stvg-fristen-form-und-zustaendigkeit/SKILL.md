@@ -1,6 +1,6 @@
 ---
 name: stvg-fristen-form-und-zustaendigkeit
-description: "Stvg: Fristen, Form, Zuständigkeit und Rechtsweg: Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht."
+description: "Stvg: Fristen, Form, Zuständigkeit und Rechtsweg: Stvg: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Stvg: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -14,7 +14,7 @@ description: "Stvg: Fristen, Form, Zuständigkeit und Rechtsweg: Stvg: Fristen, 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht.
+**Fokus:** Stvg: Fristen, Form, Zuständigkeit und Rechtsweg.
 
 ## Spezialwissen: Stvg: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG, BGB.

@@ -1,6 +1,6 @@
 ---
 name: docx-beweislast-und-darlegungslast
-description: "Docx: Beweislast, Darlegungslast und Substantiierung im Plugin nda abgleich im NDA-Abgleich."
+description: "Docx: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Docx: Beweislast, Darlegungslast und Substantiierung

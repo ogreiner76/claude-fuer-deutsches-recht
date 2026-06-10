@@ -1,6 +1,6 @@
 ---
 name: 018-kanonisches-roemisches
-description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung im Römisches Recht: Dieser Skill bearbeitet Kanonisches Recht und römisches Recht Wechselwirkung im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche..."
+description: "Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung im Römisches Recht: Bearbeite Kanonisches Recht und römisches Recht Wechselwirkung im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche..."
 ---
 
 # Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung

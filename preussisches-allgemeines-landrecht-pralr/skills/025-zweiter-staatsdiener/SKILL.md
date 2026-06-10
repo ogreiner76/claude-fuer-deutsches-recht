@@ -1,6 +1,6 @@
 ---
 name: 025-zweiter-staatsdiener
-description: "PrALR: Zweiter Teil Staatsdiener Amtspflichten im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Staatsdiener Amtspflichten im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welc..."
+description: "PrALR: Zweiter Teil Staatsdiener Amtspflichten: Bearbeite den zweiten Teil Staatsdiener Amtspflichten im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welc..."
 ---
 
 # PrALR: Zweiter Teil Staatsdiener Amtspflichten

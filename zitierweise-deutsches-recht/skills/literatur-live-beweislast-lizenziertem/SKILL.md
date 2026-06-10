@@ -1,6 +1,6 @@
 ---
 name: literatur-live-beweislast-lizenziertem
-description: "Literatur: Formular, Portal und Einreichungslogik im Plugin zitierweise deutsches recht im Zitierweise."
+description: "Literatur: Formular, Portal und Einreichungslogik."
 ---
 
 # Literatur: Formular, Portal und Einreichungslogik

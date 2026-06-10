@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Weihegewalt, Leitungsgewalt, Beauftragung und Fakultäten**.
+Prüft insbesondere: **Weihegewalt, Leitungsgewalt, Beauftragung und Fakultäten**.
 
 **CIC-/Normanker:** can. 1008-1054, 129, 274.
 

@@ -1,6 +1,6 @@
 ---
 name: adhaesion-formular-portal-und-einreichung
-description: "Adhaesion: Formular, Portal und Einreichungslogik: Adhaesion: Formular, Portal und Einreichungslogik im Plugin fachanwalt strafrecht."
+description: "Adhaesion: Formular, Portal und Einreichungslogik: Adhaesion: Formular, Portal und Einreichungslogik."
 ---
 
 # Adhaesion: Formular, Portal und Einreichungslogik
@@ -28,7 +28,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Adhaesion: Formular, Portal und Einreichungslogik im Plugin fachanwalt strafrecht.
+**Fokus:** Adhaesion: Formular, Portal und Einreichungslogik.
 
 ## Spezialwissen: Adhaesion: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** StPO.

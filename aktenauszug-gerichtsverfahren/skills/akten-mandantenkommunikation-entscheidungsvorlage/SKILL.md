@@ -1,6 +1,6 @@
 ---
 name: akten-mandantenkommunikation-entscheidungsvorlage
-description: "Akten: Mandantenkommunikation und Entscheidungsvorlage im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Akten: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Akten: Mandantenkommunikation und Entscheidungsvorlage

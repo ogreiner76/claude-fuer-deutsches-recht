@@ -26,7 +26,7 @@ Parteiverbot Art. 21 II GG iVm § 13 Nr. 2, §§ 43-47 BVerfGG; Finanzierungsaus
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug für `verfassungsrecht` zum Thema `verfassung-parteiverbot`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Pruefraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG..
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug für `verfassungsrecht` zum Thema `verfassung-parteiverbot`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Pruefraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG.
 
 Arbeite deshalb fallnah:
 

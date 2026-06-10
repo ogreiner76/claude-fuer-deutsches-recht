@@ -1,6 +1,6 @@
 ---
 name: dsgvo-behoerden-gericht-und-registerweg
-description: "DSGVO: Behörden-, Gerichts- oder Registerweg: DSGVO: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt it recht."
+description: "DSGVO: Behörden-, Gerichts- oder Registerweg: DSGVO: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # DSGVO: Behörden-, Gerichts- oder Registerweg
@@ -14,7 +14,7 @@ description: "DSGVO: Behörden-, Gerichts- oder Registerweg: DSGVO: Behörden-, 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** DSGVO: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt it recht.
+**Fokus:** DSGVO: Behörden-, Gerichts- oder Registerweg.
 
 ## Spezialwissen: DSGVO: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.

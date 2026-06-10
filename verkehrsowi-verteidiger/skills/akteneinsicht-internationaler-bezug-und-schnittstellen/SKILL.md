@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-internationaler-bezug-und-schnittstellen
-description: "Akteneinsicht: Internationaler Bezug und Schnittstellen im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Akteneinsicht: Internationaler Bezug und Schnittstellen."
 ---
 
 # Akteneinsicht: Internationaler Bezug und Schnittstellen

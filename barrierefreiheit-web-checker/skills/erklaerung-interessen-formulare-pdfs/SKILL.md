@@ -1,6 +1,6 @@
 ---
 name: erklaerung-interessen-formulare-pdfs
-description: "Erklaerung: Mehrparteienkonflikt und Interessenmatrix im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Erklaerung: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Erklaerung: Mehrparteienkonflikt und Interessenmatrix

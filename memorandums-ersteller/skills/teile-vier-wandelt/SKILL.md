@@ -1,6 +1,6 @@
 ---
 name: teile-vier-wandelt
-description: "Teile: Behörden-, Gerichts- oder Registerweg im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Teile: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Teile: Behörden-, Gerichts- oder Registerweg

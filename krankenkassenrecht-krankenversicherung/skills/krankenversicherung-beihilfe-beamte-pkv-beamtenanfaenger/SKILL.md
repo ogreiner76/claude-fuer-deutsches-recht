@@ -15,7 +15,7 @@ description: "Beihilferecht für Beamte: Beihilfesatz, beihilfefähige Aufwendun
 
 ## Skill-Zweck
 
-Beamte finanzieren ihre Krankenversorgung aus zwei Quellen: **staatliche Beihilfe und private Krankenversicherung**. Dieser Skill klärt Beihilfesätze, beihilfefähige Aufwendungen und die Koordination mit der PKV.
+Beamte finanzieren ihre Krankenversorgung aus zwei Quellen: **staatliche Beihilfe und private Krankenversicherung**. Kläre Beihilfesätze, beihilfefähige Aufwendungen und die Koordination mit der PKV.
 
 ## Rechtlicher Rahmen
 

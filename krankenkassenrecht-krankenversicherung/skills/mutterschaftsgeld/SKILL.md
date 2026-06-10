@@ -15,7 +15,7 @@ description: "GKV-Leistungen für Schwangere und Mütter: Mutterschaftsgeld (§ 
 
 ## Skill-Zweck
 
-Dieser Skill klärt alle **GKV-Leistungen rund um Schwangerschaft und Geburt**: Mutterschaftsgeld, Vorsorgeuntersuchungen, Entbindung und Nachsorge.
+Klärt alle **GKV-Leistungen rund um Schwangerschaft und Geburt**: Mutterschaftsgeld, Vorsorgeuntersuchungen, Entbindung und Nachsorge.
 
 ## Rechtlicher Rahmen
 

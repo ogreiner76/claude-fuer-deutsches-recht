@@ -15,7 +15,7 @@ description: "Regressansprüche der GKV gegen Leistungserbringer bei Behandlungs
 
 ## Skill-Zweck
 
-Wenn ein Behandlungsfehler Zusatzkosten für die GKV verursacht, kann die Kasse Regress nehmen. Dieser Skill klärt **Regressansprüche nach § 116 SGB X, Verhältnis zum Schadensersatzanspruch des Patienten und Koordinationspflichten**.
+Wenn ein Behandlungsfehler Zusatzkosten für die GKV verursacht, kann die Kasse Regress nehmen. Kläre **Regressansprüche nach § 116 SGB X, Verhältnis zum Schadensersatzanspruch des Patienten und Koordinationspflichten**.
 
 ## Rechtlicher Rahmen
 

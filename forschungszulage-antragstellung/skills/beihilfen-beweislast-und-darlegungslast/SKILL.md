@@ -1,6 +1,6 @@
 ---
 name: beihilfen-beweislast-und-darlegungslast
-description: "Beihilfen: Beweislast, Darlegungslast und Substantiierung im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Beihilfen: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Beihilfen: Beweislast, Darlegungslast und Substantiierung

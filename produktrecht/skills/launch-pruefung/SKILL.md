@@ -192,4 +192,4 @@ Jede Norm, Entscheidung oder Behördenaussage im Prüfvermerk muss belegt sein:
 
 Quellen, die nur aus Modellwissen stammen, nicht als zitierfähige Fundstelle ausgeben. Pinpoint-Zitate nur verwenden, wenn Randnummer, Seite oder amtlicher Leitsatz aus der konkreten Quelle geprüft wurde.
 
-Hinweis: Dieser Skill strukturiert die Launch-Freigabe so, dass juristische und technische Teams Risiken früh sehen, sauber dokumentieren und gezielt entscheiden können; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
+Hinweis: Strukturiere die Launch-Freigabe so, dass juristische und technische Teams Risiken früh sehen, sauber dokumentieren und gezielt entscheiden können; die fachliche Endverantwortung bleibt beim zuständigen Menschen.

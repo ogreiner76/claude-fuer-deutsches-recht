@@ -1,6 +1,6 @@
 ---
 name: orientierung-mandatsaufnahme-praktikabilitaet
-description: "Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pr — Arbeitskontext: Normenkontrollrat Nkr, Schwerpunkt orientierung mandatsaufnahme praktikabilitaet."
+description: "Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pr"
 ---
 
 # NKR-Orientierung und Mandatsaufnahme
@@ -17,7 +17,7 @@ description: "Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen 
 
 Allgemein-Skill als Einstieg in jedes NKR-Pruefmandat. Er nimmt einen unvorbereiteten Posteingang (Referentenentwurf, Formulierungshilfe, AVV-Entwurf, Verordnungsentwurf, parlamentarische Aenderung) und ordnet ihn in den Pruefzyklus des Nationalen Normenkontrollrats ein.
 
-Ziel: in zwei Minuten wissen, welche der 36 anderen Skills im Plugin als naechstes zu greifen sind.
+Ziel: in zwei Minuten wissen, welche der 36 anderen Skills.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

@@ -1,6 +1,6 @@
 ---
 name: denkfehler-fristen-form-und-zustaendigkeit
-description: "Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin europarecht kompass im Europarecht Kompass."
+description: "Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg

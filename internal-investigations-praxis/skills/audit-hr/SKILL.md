@@ -19,7 +19,7 @@ Das Audit Committee (Prüfungsausschuss) des Aufsichtsrats spielt in Internal In
 
 ## Ziel dieses Skills
 
-Dieser Skill klärt die Pflichten und Befugnisse des Audit Committee bei Internal Investigations und stellt sicher, dass es seine Aufgaben ordnungsgemäß wahrnimmt.
+Klärt die Pflichten und Befugnisse des Audit Committee bei Internal Investigations und stellt sicher, dass es seine Aufgaben ordnungsgemäß wahrnimmt.
 
 ## Arbeitsprogramm
 

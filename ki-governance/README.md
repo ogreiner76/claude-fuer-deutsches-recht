@@ -205,20 +205,20 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `anbieter-mehrparteien-konflikt-und-interessen` | Anbieter: Mehrparteienkonflikt und Interessenmatrix im Plugin ki governance im Ki Governance. |
+| `anbieter-mehrparteien-konflikt-und-interessen` | Anbieter: Mehrparteienkonflikt und Interessenmatrix. |
 | `anpassen` | Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine Einstellung ändern, ohne das vollständige Kaltstart-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte, Use-Case-Register-Einträge, Vendor-KI-Positionen, KI-Richtl... |
 | `anschluss-router` | Einstieg, Schnelltriage und Fallrouting im KI Governance-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-... |
 | `anwendungsfall-triage` | Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensregister — freigegeben, bedingt oder nicht freigegeben — und erstellt Auflagenliste und nächste Schritte. Prüft gegen verbotene Praktiken (Art. 5 KI-VO) und Hoch... |
-| `case-dpia-drift` | Case: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin ki governance im Ki Governance. |
+| `case-dpia-drift` | Case: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `dokumente-intake` | Dokumentenintake für KI-Governance: sortiert Risikobewertung, Konformitätserklärung, Technische Dokumentation, prüft Datum, Absender, Frist und Beweiswert (Logs, Bias-Tests); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
-| `dpia-risikoampel-und-gegenargumente` | Dpia: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin ki governance im Ki Governance. |
-| `drift-verhandlung-vergleich-und-eskalation` | Drift: Verhandlung, Vergleich und Eskalation im Plugin ki governance im Ki Governance. |
-| `dsgvo-governance-inventar` | DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki governance im Ki Governance. |
+| `dpia-risikoampel-und-gegenargumente` | Dpia: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `drift-verhandlung-vergleich-und-eskalation` | Drift: Verhandlung, Vergleich und Eskalation. |
+| `dsgvo-governance-inventar` | DSGVO: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `einstieg-routing` | Einstieg, Triage und Routing für KI-Governance: ordnet Rolle (Anbieter, Betreiber, Importeur, Händler, Aufsicht), markiert Frist (KI-VO-Geltung gestaffelt 2025-2027), wählt Norm (KI-VO EU 2024/1689, DSGVO, Produkthaftung) und Zuständigke... |
 | `fristen-risikoampel-mandantenkommunikation` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Ki Governance. |
-| `governance-compliance-dokumentation-und-akte` | Governance: Compliance-Dokumentation und Aktenvermerk im Plugin ki governance im Ki Governance. |
+| `governance-compliance-dokumentation-und-akte` | Governance: Compliance-Dokumentation und Aktenvermerk. |
 | `gpai-modelle-ki-anbieter-arbeitsrecht` | General-Purpose-AI-Modelle Art. 51 ff. KI-VO: Standardpflichten (Dokumentation, Trainingsdaten, Urheberrecht), zusaetzliche Pflichten für Modelle mit systemischem Risiko ab 10E25 FLOPs Trainingsrechenleistung. Verhaltenskodex und CE-Mode... |
-| `inventar-dokumentenmatrix-und-lueckenliste` | Inventar: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin ki governance im Ki Governance. |
+| `inventar-dokumentenmatrix-und-lueckenliste` | Inventar: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `inventar-kontrollen-konformitaetsbewertung` | KI-Inventar, Governance und Kontrollen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Ki Governance. |
 | `kaltstart-interview` | KI-Governance-Plugin erstmalig einrichten oder Inventar der KI-Systeme im Unternehmen erfassen und AI-Act-Anwendungsbereich prüfen. Führt Erstgespraech durch ermittelt KI-Inventar Rolle im KI-Lieferkette (Anbieter/Betreiber Art. 3 KI-VO... |
 | `ki-anbieter-pruefung` | Prüft KI-Anbieterverträge gegen die unternehmenseigenen Governance- Positionen; kennzeichnet Training auf Daten, Haftung, Modelländerungen und KI-Richtlinien-Konsistenz. Unterscheidet Anbieter/Betreiber-Rolle nach Art. 3 KI-VO; prüft Ver... |
@@ -233,27 +233,27 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Beschrei
 | `kig-foundation-model-anbieterpflichten-spezial` | Spezialfall Foundation Model und GPAI-Anbieterpflichten Art. 53 ff. AI Act: Transparenz, Trainingsdaten, systemisches Risiko ab Schwellenwert. Pruefraster für Anbieter und Downstream-Deployer im Ki Governance. |
 | `kig-konformitaetsbewertung-risikobewertung` | Spezialfall Konformitaetsbewertungsverfahren Hochrisiko-KI Art. 43 AI Act: interne Kontrolle, benannte Stelle, EU-Konformitaetserklaerung, CE-Kennzeichnung. Pruefraster für Anbieter im Ki Governance. |
 | `kig-risikobewertung-hochrisiko-leitfaden` | Leitfaden Risikobewertung Hochrisiko-KI Anhang III AI Act: Bereiche Bildung / Beschaeftigung / Kreditscoring / Migration. Pruefraster für Klassifizierung und Ausnahme im Ki Governance. |
-| `konformitaetsbewertung-red-team-und-qualitaetskontrolle` | Konformitaetsbewertung: Red-Team und Qualitätskontrolle im Plugin ki governance im Ki Governance. |
+| `konformitaetsbewertung-red-team-und-qualitaetskontrolle` | Konformitaetsbewertung: Red-Team und Qualitätskontrolle. |
 | `mandat-arbeitsbereich` | Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbe... |
-| `marketing-mandantenkommunikation-entscheidungsvorlage` | Marketing: Mandantenkommunikation und Entscheidungsvorlage im Plugin ki governance im Ki Governance. |
+| `marketing-mandantenkommunikation-entscheidungsvorlage` | Marketing: Mandantenkommunikation und Entscheidungsvorlage. |
 | `monitoring-quellenkarte` | Monitoring Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `output-waehlen` | Output-Wahl für KI-Governance: stimmt Adressat (Anbieter, Betreiber, Importeur, Händler, Aufsicht), Frist (KI-VO-Geltung gestaffelt 2025-2027) und Form auf den Zweck ab — typische Outputs: KI-Governance-Memo, Risikoklassifizierung, Konfo... |
 | `quellen-livecheck` | Quellen-Live-Check für KI-Governance: prüft Normen (KI-VO EU 2024/1689, DSGVO, Produkthaftung) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt KI-Aufsichtsbehörde national und Quellenhygiene nach references/quelle... |
-| `rechtsquellen-sonderfall-edge-case` | Rechtsquellen: Quellenprüfung; Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `rechtsquellen-sonderfall-edge-case` | Rechtsquellen: Quellenprüfung; Sonderfall und Edge-Case-Prüfung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
 | `regulierungs-luecken-analyse` | Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer Lückenanalyse AI Act, gi... |
-| `review-richtlinie` | Pruefung: Internationaler Bezug und Schnittstellen im Plugin ki governance im Ki Governance. |
-| `review-schriftsatz-brief-und-memo-bausteine` | Review: Schriftsatz-, Brief- und Memo-Bausteine im Plugin ki governance im Ki Governance. |
-| `richtlinie-zahlen-schwellen-und-berechnung` | Richtlinie: Zahlen, Schwellenwerte und Berechnung im Plugin ki governance im Ki Governance. |
+| `review-richtlinie` | Pruefung: Internationaler Bezug und Schnittstellen. |
+| `review-schriftsatz-brief-und-memo-bausteine` | Review: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `richtlinie-zahlen-schwellen-und-berechnung` | Richtlinie: Zahlen, Schwellenwerte und Berechnung. |
 | `richtlinien-monitor-vorlage-anbieter` | Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt,... |
 | `richtlinien-vorlage` | Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtli... |
 | `rollen-rasci-hochrisiko-anhang-incident` | Rollen-Modell RASCI für KI-Governance: KI-Beauftragte, IT-Sicherheit, Datenschutzbeauftragte, Compliance, Fachbereiche, Geschaeftsfuehrung, Betriebsrat. Pro Rolle: Responsibility, Accountability, Support, Consulted, Informed. Vorlage für... |
-| `rollenmodell-use-case-vendor` | Rollenmodell: Formular, Portal und Einreichungslogik im Plugin ki governance im Ki Governance. |
-| `triage-haftung-versicherung-anwendungsfall` | Triage: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin ki governance im Ki Governance. |
+| `rollenmodell-use-case-vendor` | Rollenmodell: Formular, Portal und Einreichungslogik. |
+| `triage-haftung-versicherung-anwendungsfall` | Triage: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für KI-Governance: trennt fehlende Tatsachen von fehlenden Belegen (Risikobewertung, Konformitätserklärung, Technische Dokumentation), nennt pro Lücke Beweisthema, Beschaffungsweg (KI-Aufsichtsbehörde nation... |
 | `use-case-risk-classification` | Use-Case-Risikoklassifizierung nach KI-VO und DSGVO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Ki Governance. |
-| `vendor-behoerden-gericht-und-registerweg` | Vendor: Behörden-, Gerichts- oder Registerweg im Plugin ki governance im Ki Governance. |
+| `vendor-behoerden-gericht-und-registerweg` | Vendor: Behörden-, Gerichts- oder Registerweg. |
 | `vo-pflichtenpyramide-kig-ai-foundation` | Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Ueber... |
-| `werbung-beweislast-und-darlegungslast` | Werbung: Beweislast, Darlegungslast und Substantiierung: Werbung: Beweislast, Darlegungslast und Substantiierung im Plugin ki governance. |
+| `werbung-beweislast-und-darlegungslast` | Werbung: Beweislast, Darlegungslast und Substantiierung: Werbung: Beweislast, Darlegungslast und Substantiierung. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Ki Governance. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Ki Governance. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Ki Governance. |

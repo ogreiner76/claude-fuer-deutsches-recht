@@ -1,6 +1,6 @@
 ---
 name: einspruch-sonderfall-und-edge-case
-description: "Einspruch: Sonderfall und Edge-Case-Prüfung im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Einspruch: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Einspruch: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: bitv-checkout-beweislast-ecommerce
-description: "BITV: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "BITV: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # BITV: Dokumentenmatrix, Lückenliste und Nachforderung

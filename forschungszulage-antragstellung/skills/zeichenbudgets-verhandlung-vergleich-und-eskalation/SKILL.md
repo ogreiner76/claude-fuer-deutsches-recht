@@ -1,6 +1,6 @@
 ---
 name: zeichenbudgets-verhandlung-vergleich-und-eskalation
-description: "Zeichenbudgets: Verhandlung, Vergleich und Eskalation im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Zeichenbudgets: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Zeichenbudgets: Verhandlung, Vergleich und Eskalation

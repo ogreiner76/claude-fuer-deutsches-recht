@@ -15,7 +15,7 @@ description: "Klaert Lektorats- und Redaktionsstandards: wer ist für welchen Pr
 
 ## Worum geht es konkret
 
-Lektorat und Redaktion arbeiten am selben Manuskript, oft parallel. Ohne klare Schnittstelle entstehen Doppelarbeit, widerspruechliche Eingriffe und Versionschaos. Dieser Skill klaert die Schnittstelle: Zuständigkeiten, Versionierungsregeln, Track-Changes-Konventionen, Eskalationswege.
+Lektorat und Redaktion arbeiten am selben Manuskript, oft parallel. Ohne klare Schnittstelle entstehen Doppelarbeit, widerspruechliche Eingriffe und Versionschaos. Kläre die Schnittstelle: Zuständigkeiten, Versionierungsregeln, Track-Changes-Konventionen, Eskalationswege.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

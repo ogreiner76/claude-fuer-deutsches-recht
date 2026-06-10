@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, V
 
 ## Zweck und Anwendungsbereich
 
-Die Grundschuld ist das wichtigste Grundpfandrecht zur Kreditsicherung. Dieser Skill führt durch die notarielle Bestellung, die Wahl zwischen Brief- und Buchgrundschuld, die Vollstreckungsunterwerfung und die Sicherungsabrede mit der finanzierenden Bank.
+Die Grundschuld ist das wichtigste Grundpfandrecht zur Kreditsicherung. Führe durch die notarielle Bestellung, die Wahl zwischen Brief- und Buchgrundschuld, die Vollstreckungsunterwerfung und die Sicherungsabrede mit der finanzierenden Bank.
 
 Rechtsgrundlagen: §§ 1191–1203 BGB (Grundschuld), §§ 1113–1190 BGB (Hypothek, analog anwendbar), § 873 BGB (Entstehung), § 1154 BGB (Übertragung Briefgrundschuld), § 1192 BGB (Anwendbarkeit der Hypothekenvorschriften), § 794 Abs. 1 Nr. 5 ZPO (Vollstreckungsunterwerfung), §§ 19, 29 GBO, GNotKG KV.
 

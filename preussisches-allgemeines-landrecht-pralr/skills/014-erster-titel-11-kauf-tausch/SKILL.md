@@ -1,6 +1,6 @@
 ---
 name: 014-erster-titel-11-kauf-tausch
-description: "PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 11 Kauf Tausch Schenkung im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor..."
+description: "PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung: Bearbeite den ersten Teil Titel 11 Kauf Tausch Schenkung im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor..."
 ---
 
 # PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung

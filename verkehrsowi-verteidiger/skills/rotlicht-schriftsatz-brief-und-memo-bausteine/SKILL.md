@@ -1,6 +1,6 @@
 ---
 name: rotlicht-schriftsatz-brief-und-memo-bausteine
-description: "Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine

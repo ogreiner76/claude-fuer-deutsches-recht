@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Beschwer, Frist, Antrag, Begründung und Weiterleitung**.
+Prüft insbesondere: **Beschwer, Frist, Antrag, Begründung und Weiterleitung**.
 
 **CIC-/Normanker:** can. 1732-1739.
 

@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-zahlen-schwellen-und-berechnung
-description: "Schnittstellen: Zahlen, Schwellenwerte und Berechnung: Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt urheber medienrecht."
+description: "Schnittstellen: Zahlen, Schwellenwerte und Berechnung: Schnittstellen: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Schnittstellen: Zahlen, Schwellenwerte und Berechnung
@@ -14,7 +14,7 @@ description: "Schnittstellen: Zahlen, Schwellenwerte und Berechnung: Schnittstel
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt urheber medienrecht.
+**Fokus:** Schnittstellen: Zahlen, Schwellenwerte und Berechnung.
 
 ## Spezialwissen: Schnittstellen: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

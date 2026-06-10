@@ -15,7 +15,7 @@ description: "Beitragsrückstände in der GKV und PKV: Säumniszuschläge, Leist
 
 ## Skill-Zweck
 
-Beitragsrückstände können den Versicherungsschutz suspendieren. Dieser Skill analysiert **Beitragsschulden**, berechnet Säumniszuschläge, klärt die Voraussetzungen des Leistungsruhens und entwickelt eine Strategie zur Wiederherstellung des vollen Versicherungsschutzes.
+Beitragsrückstände können den Versicherungsschutz suspendieren. Analysiere **Beitragsschulden**, berechnet Säumniszuschläge, klärt die Voraussetzungen des Leistungsruhens und entwickelt eine Strategie zur Wiederherstellung des vollen Versicherungsschutzes.
 
 ## Rechtlicher Rahmen
 

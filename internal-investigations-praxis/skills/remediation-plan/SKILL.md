@@ -19,7 +19,7 @@ Ein Remediation-Plan ist nach einer Internal Investigation aus mehreren Gründen
 
 ## Ziel dieses Skills
 
-Dieser Skill erstellt einen strukturierten, priorisierten und nachverfolgbaren Remediation-Plan, der sowohl interne als auch behördliche Anforderungen erfüllt.
+Erstellt einen strukturierten, priorisierten und nachverfolgbaren Remediation-Plan, der sowohl interne als auch behördliche Anforderungen erfüllt.
 
 ## Arbeitsprogramm
 

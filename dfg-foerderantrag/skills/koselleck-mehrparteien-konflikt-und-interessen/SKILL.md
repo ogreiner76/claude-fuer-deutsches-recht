@@ -1,6 +1,6 @@
 ---
 name: koselleck-mehrparteien-konflikt-und-interessen
-description: "Koselleck: Mehrparteienkonflikt und Interessenmatrix im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Koselleck: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Koselleck: Mehrparteienkonflikt und Interessenmatrix

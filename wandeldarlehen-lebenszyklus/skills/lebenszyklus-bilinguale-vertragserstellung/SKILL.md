@@ -1,6 +1,6 @@
 ---
 name: lebenszyklus-bilinguale-vertragserstellung
-description: "Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin wandeldarlehen lebenszyklus im Wandeldarlehen Lebenszyklus."
+description: "Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: bericht-mandantenkommunikation
-description: "Bericht: Mandantenkommunikation und Entscheidungsvorlage im Plugin Betreuungsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kriti..."
+description: "Bericht: Mandantenkommunikation und Entscheidungsvorlage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kriti..."
 ---
 
 # Bericht: Mandantenkommunikation und Entscheidungsvorlage

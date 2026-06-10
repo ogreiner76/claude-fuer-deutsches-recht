@@ -7,7 +7,7 @@ description: "IKT-Drittanbietervertraege auf DORA-Konformität prüfen wenn Fina
 
 ## Zweck
 
-Dieser Skill prüft Verträge mit IKT-Drittdienstleistern, die ein **Finanzunternehmen** i. S. v. Art. 2 DORA (Kreditinstitute, Zahlungs-/E-Geld-Institute, Wertpapierfirmen, Versicherer, Verwalter alternativer Investmentfonds, KVGen, OGAW, Zentralverwahrer, ZGP, Handelsplätze, Krypto-Dienstleister u. a.) abgeschlossen hat oder abschließen will, auf die Anforderungen der **Verordnung (EU) 2022/2554** (Digital Operational Resilience Act – "DORA") sowie der **dazu erlassenen RTS/ITS und EBA-/ESA-Leitlinien**.
+Prüft Verträge mit IKT-Drittdienstleistern, die ein **Finanzunternehmen** i. S. v. Art. 2 DORA (Kreditinstitute, Zahlungs-/E-Geld-Institute, Wertpapierfirmen, Versicherer, Verwalter alternativer Investmentfonds, KVGen, OGAW, Zentralverwahrer, ZGP, Handelsplätze, Krypto-Dienstleister u. a.) abgeschlossen hat oder abschließen will, auf die Anforderungen der **Verordnung (EU) 2022/2554** (Digital Operational Resilience Act – "DORA") sowie der **dazu erlassenen RTS/ITS und EBA-/ESA-Leitlinien**.
 
 Ergebnis ist eine tabellarische Lückenanalyse mit:
 

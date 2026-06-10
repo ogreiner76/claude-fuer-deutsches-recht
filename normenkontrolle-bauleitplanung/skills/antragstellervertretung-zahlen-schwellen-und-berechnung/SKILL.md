@@ -1,6 +1,6 @@
 ---
 name: antragstellervertretung-zahlen-schwellen-und-berechnung
-description: "Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung

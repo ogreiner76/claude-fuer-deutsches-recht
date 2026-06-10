@@ -1,6 +1,6 @@
 ---
 name: flaechennutzungsplaenen-normenkontrolle
-description: "Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Flaechennutzungsplaenen: Dokumentenmatrix, Lückenliste und Nachforderung

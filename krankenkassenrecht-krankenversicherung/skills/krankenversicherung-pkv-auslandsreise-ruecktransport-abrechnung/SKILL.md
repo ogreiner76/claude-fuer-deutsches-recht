@@ -15,7 +15,7 @@ description: "PKV-Leistungen auf Auslandsreisen: Geltungsbereich, medizinisch no
 
 ## Skill-Zweck
 
-Die PKV deckt Behandlungen auch im Ausland ab, aber mit Einschränkungen. Dieser Skill klärt **Geltungsbereich, Rücktransport und das Verhältnis zur Reisekrankenversicherung**.
+Die PKV deckt Behandlungen auch im Ausland ab, aber mit Einschränkungen. Kläre **Geltungsbereich, Rücktransport und das Verhältnis zur Reisekrankenversicherung**.
 
 ## Rechtlicher Rahmen
 

@@ -1,6 +1,6 @@
 ---
 name: faelle-abschlussprodukt-und-uebergabe
-description: "Faelle: Abschlussprodukt und Übergabe im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Faelle: Abschlussprodukt und Übergabe."
 ---
 
 # Faelle: Abschlussprodukt und Übergabe

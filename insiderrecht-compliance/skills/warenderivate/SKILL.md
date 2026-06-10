@@ -29,7 +29,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft, ob MAR oder REMIT auf Warenderivat-Transaktionen anwendbar ist, und
+Prüfe, ob MAR oder REMIT auf Warenderivat-Transaktionen anwendbar ist, und
 entwickelt die Compliance-Strategie für Commodity-Trader und Energieunternehmen.
 
 ## Arbeitsprogramm

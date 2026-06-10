@@ -15,7 +15,7 @@ description: "Verlagsrecht: Fachzeitschriften, Peer-Review-Verfahren, Haftung f�
 
 ## Zweck dieses Skills
 
-Wissenschaftliche und juristische Fachzeitschriften unterliegen einem eigenen Rechtsregime: Urheberrechte der Autoren bei Zeitschriftenbeiträgen, Zweitveröffentlichungsrecht, Peer-Review-Vertraulichkeit, Haftung für fehlerhafte Fachinformationen und die Retraction-Praxis. Dieser Skill klärt diese spezifischen Fragen.
+Wissenschaftliche und juristische Fachzeitschriften unterliegen einem eigenen Rechtsregime: Urheberrechte der Autoren bei Zeitschriftenbeiträgen, Zweitveröffentlichungsrecht, Peer-Review-Vertraulichkeit, Haftung für fehlerhafte Fachinformationen und die Retraction-Praxis. Kläre diese spezifischen Fragen.
 
 ## Rechtsgrundlagen
 

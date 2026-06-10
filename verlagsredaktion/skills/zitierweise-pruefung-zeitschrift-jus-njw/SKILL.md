@@ -15,7 +15,7 @@ description: "Prueft die Zitierweise in Manuskripten gegen die jeweiligen Hausno
 
 ## Worum geht es konkret
 
-Jede juristische Fachzeitschrift hat eigene Hausnormen für Zitate. NJW zitiert anders als JZ, JuS anders als NJW, NZA hat eigene Kuerzel. Dieser Skill fuehrt die Pruefung systematisch durch: jede Fundstelle pro Zeitschriftenstandard, mit Korrekturvorschlag - und ohne Halluzination, weil unbelegte Pinpoints sichtbar markiert bleiben.
+Jede juristische Fachzeitschrift hat eigene Hausnormen für Zitate. NJW zitiert anders als JZ, JuS anders als NJW, NZA hat eigene Kuerzel. Führe die Pruefung systematisch durch: jede Fundstelle pro Zeitschriftenstandard, mit Korrekturvorschlag - und ohne Halluzination, weil unbelegte Pinpoints sichtbar markiert bleiben.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

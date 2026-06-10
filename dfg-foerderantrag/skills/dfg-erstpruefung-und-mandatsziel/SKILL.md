@@ -1,6 +1,6 @@
 ---
 name: dfg-erstpruefung-und-mandatsziel
-description: "DFG: Erstprüfung, Rollenklärung und Mandatsziel im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "DFG: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # DFG: Erstprüfung, Rollenklärung und Mandatsziel

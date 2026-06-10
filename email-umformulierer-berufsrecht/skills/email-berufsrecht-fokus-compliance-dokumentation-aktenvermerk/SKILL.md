@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-fokus-compliance-dokumentation-aktenvermerk
-description: "Fokus: Compliance-Dokumentation und Aktenvermerk im Plugin Email Umformulierer Berufsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
+description: "Fokus: Compliance-Dokumentation und Aktenvermerk: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
 ---
 
 # Fokus: Compliance-Dokumentation und Aktenvermerk

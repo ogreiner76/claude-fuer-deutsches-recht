@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill bewertet Social-Media-Leaks auf ihre insiderrechtliche Relevanz und steuert
+Bewertet Social-Media-Leaks auf ihre insiderrechtliche Relevanz und steuert
 die Compliance-Reaktion einschließlich Ad-hoc-Entscheidung und forensischer Sicherung.
 
 ## Arbeitsprogramm

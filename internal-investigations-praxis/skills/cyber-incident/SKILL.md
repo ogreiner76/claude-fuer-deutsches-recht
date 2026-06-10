@@ -19,7 +19,7 @@ Cyber-Incidents lösen eine Vielzahl von Rechtspflichten aus: DSGVO Art. 33 (Mel
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert die unmittelbare Incident-Response, die forensische Beweissicherung und alle Meldepflichten bei einem Cyber-Incident.
+Strukturiert die unmittelbare Incident-Response, die forensische Beweissicherung und alle Meldepflichten bei einem Cyber-Incident.
 
 ## Arbeitsprogramm
 

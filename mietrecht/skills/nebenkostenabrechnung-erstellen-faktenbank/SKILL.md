@@ -23,7 +23,7 @@ description: "Betriebskostenabrechnung erstellen aus Vermieter- und Hausverwaltu
 
 ## Ziel
 
-Dieser Skill erstellt keine pauschale Nebenkostenliste, sondern eine belastbare, versandfähige Betriebskostenabrechnung für Wohnraummiete oder gemischt genutzte Objekte. Er trennt streng:
+Erstellt keine pauschale Nebenkostenliste, sondern eine belastbare, versandfähige Betriebskostenabrechnung für Wohnraummiete oder gemischt genutzte Objekte. Er trennt streng:
 
 - mietvertragliche Umlagevereinbarung,
 - tatsächlich angefallene Gesamtkosten,

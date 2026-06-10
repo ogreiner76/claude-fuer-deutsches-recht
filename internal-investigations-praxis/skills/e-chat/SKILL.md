@@ -19,7 +19,7 @@ Die Auswertung von Geschäfts-E-Mails im Rahmen einer Internal Investigation ist
 
 ## Ziel dieses Skills
 
-Dieser Skill steuert den E-Mail-Review von der Planung bis zur Produktion: Keyword-Entwicklung, Technology-Assisted Review (TAR), Privilege-Screening, DSGVO-Compliance und Verwertbarkeitsanalyse.
+Steuert den E-Mail-Review von der Planung bis zur Produktion: Keyword-Entwicklung, Technology-Assisted Review (TAR), Privilege-Screening, DSGVO-Compliance und Verwertbarkeitsanalyse.
 
 ## Arbeitsprogramm
 

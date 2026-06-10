@@ -1,6 +1,6 @@
 ---
 name: quality-formular-portal-und-einreichung
-description: "Quality: Formular, Portal und Einreichungslogik im Plugin common law kompass im Common Law Kompass."
+description: "Quality: Formular, Portal und Einreichungslogik."
 ---
 
 # Quality: Formular, Portal und Einreichungslogik

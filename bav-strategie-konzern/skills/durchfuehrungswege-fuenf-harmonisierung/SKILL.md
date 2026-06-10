@@ -1,6 +1,6 @@
 ---
 name: durchfuehrungswege-fuenf-harmonisierung
-description: "Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine

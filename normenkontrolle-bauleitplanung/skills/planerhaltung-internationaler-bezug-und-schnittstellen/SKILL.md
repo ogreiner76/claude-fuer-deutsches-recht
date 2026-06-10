@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-internationaler-bezug-und-schnittstellen
-description: "Planerhaltung: Internationaler Bezug und Schnittstellen im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Planerhaltung: Internationaler Bezug und Schnittstellen."
 ---
 
 # Planerhaltung: Internationaler Bezug und Schnittstellen

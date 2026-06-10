@@ -1,6 +1,6 @@
 ---
 name: amtsgericht-drogen-interessen-einspruch
-description: "Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage

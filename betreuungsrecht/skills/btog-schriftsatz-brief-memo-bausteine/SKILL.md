@@ -1,6 +1,6 @@
 ---
 name: btog-schriftsatz-brief-memo-bausteine
-description: "Btog: Schriftsatz-, Brief- und Memo-Bausteine im Plugin Betreuungsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Wel..."
+description: "Btog: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch? 4. Wel..."
 ---
 
 # Btog: Schriftsatz-, Brief- und Memo-Bausteine

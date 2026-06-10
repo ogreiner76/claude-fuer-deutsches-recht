@@ -1,6 +1,6 @@
 ---
 name: richtlinie-zahlen-schwellen-und-berechnung
-description: "Richtlinie: Zahlen, Schwellenwerte und Berechnung im Plugin ki governance im Ki Governance."
+description: "Richtlinie: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Richtlinie: Zahlen, Schwellenwerte und Berechnung

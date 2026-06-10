@@ -20,7 +20,7 @@ description: "Fachanwalts-Fachmodul für Bankaufsicht: ZAG-Erlaubnis, DORA-IKT-R
 
 ## Worum es geht
 
-Dieser Skill liefert den Arbeitskern für Fachanwalts-Mandate in der Bankaufsicht: Verknüpfung von ZAG-Erlaubnisfragen, DORA-IKT-Governance, KWG-Inhaberkontrollverfahren und CRR-Eigenmittelfolgen in einem einzigen Prüfraster. Ziel ist der verwertbare Mandatsvermerk, die BaFin-Erwiderung oder die Prozessstrategie – nicht die abstrakte Normdarstellung.
+Liefert den Arbeitskern für Fachanwalts-Mandate in der Bankaufsicht: Verknüpfung von ZAG-Erlaubnisfragen, DORA-IKT-Governance, KWG-Inhaberkontrollverfahren und CRR-Eigenmittelfolgen in einem einzigen Prüfraster. Ziel ist der verwertbare Mandatsvermerk, die BaFin-Erwiderung oder die Prozessstrategie – nicht die abstrakte Normdarstellung.
 
 ## Kernnormen
 

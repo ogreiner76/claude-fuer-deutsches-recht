@@ -19,7 +19,7 @@ Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgel
 
 ## Zweck
 
-Dieser Skill begleitet die vollständige rechtliche Aufarbeitung eines Verkehrsunfalls:
+Begleitet die vollständige rechtliche Aufarbeitung eines Verkehrsunfalls:
 Haftungsgrundlagen (§§ 7, 17, 18 StVG; § 823 BGB), Quotenbildung bei Mitverschulden,
 Direktanspruch gegen den Haftpflichtversicherer (§ 115 VVG) und vollständige Schadensaufstellung
 für Sachschäden sowie Personenschäden (Schmerzensgeld). Mandate reichen von der ersten Beratung

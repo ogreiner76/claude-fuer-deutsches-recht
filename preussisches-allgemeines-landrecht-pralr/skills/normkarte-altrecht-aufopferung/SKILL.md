@@ -1,6 +1,6 @@
 ---
 name: normkarte-altrecht-aufopferung
-description: "PrALR: Normkarte Altrecht in heutiger Akte im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: Normkarte Altrecht in heutiger Akte: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Normkarte Altrecht In Heutiger Akte

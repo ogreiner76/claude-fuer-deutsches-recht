@@ -1,6 +1,6 @@
 ---
 name: mifid-behoerden-gericht-und-registerweg
-description: "Mifid: Behörden-, Gerichts- oder Registerweg: Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht."
+description: "Mifid: Behörden-, Gerichts- oder Registerweg: Mifid: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Mifid: Behörden-, Gerichts- oder Registerweg
@@ -31,10 +31,10 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht.
+**Fokus:** Mifid: Behörden-, Gerichts- oder Registerweg.
 
 ## Spezialwissen: Mifid: Behörden-, Gerichts- oder Registerweg
-- **Konkreter Gegenstand:** Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht..
+- **Konkreter Gegenstand:** Mifid: Behörden-, Gerichts- oder Registerweg.
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

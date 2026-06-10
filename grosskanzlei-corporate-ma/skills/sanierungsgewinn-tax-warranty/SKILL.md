@@ -20,7 +20,7 @@ description: "Strukturierung von Tax Warranty und Tax Indemnity im SPA für Tran
 
 In Transaktionen mit Sanierungsbezug ist die klassische Tax-Indemnity-Architektur unzureichend. Drei Risikofelder treten zusätzlich auf: erstens die **Versagung der Steuerbefreiung nach § 3a EStG**; zweitens der **zwangsweise Verbrauch der Verlustvorträge** nach § 3a Abs. 3 EStG mit Wirkung auf zukünftige Steuerperioden; drittens das **Nichtergehen einer verbindlichen Auskunft** vor Closing. Wer hier nur eine Standard-Tax-Indemnity formuliert, lässt Risiko in Millionenhöhe ungeregelt.
 
-Dieser Skill liefert die Architektur, mit der diese drei Risikofelder im SPA korrekt geregelt werden.
+Liefert die Architektur, mit der diese drei Risikofelder im SPA korrekt geregelt werden.
 
 ## Wann dieses Modul hilft
 

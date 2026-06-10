@@ -7,7 +7,7 @@ description: "Vermoegensabschoepfung § 73 StGB: fachanwaltlicher Spezial-Skill 
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Vermoegensabschoepfung § 73 StGB** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Vermoegensabschoepfung § 73 StGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

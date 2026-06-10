@@ -15,7 +15,7 @@ description: "EV-Vollzug: Auslandszustellung einstweiliger Verfügungen im IP-Re
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **grenzüberschreitende Zustellung einstweiliger Verfügungen** – ein häufiges Problem im gewerblichen Rechtsschutz, wenn Marken-, Patent- oder UWG-Verletzer im Ausland sitzen. Die Auslandszustellung ist komplex, zeitintensiv und kann die Vollziehungsfrist nach § 929 Abs. 2 ZPO gefährden.
+Behandelt die **grenzüberschreitende Zustellung einstweiliger Verfügungen** – ein häufiges Problem im gewerblichen Rechtsschutz, wenn Marken-, Patent- oder UWG-Verletzer im Ausland sitzen. Die Auslandszustellung ist komplex, zeitintensiv und kann die Vollziehungsfrist nach § 929 Abs. 2 ZPO gefährden.
 
 Mandatsbezug: Deutsches Gericht erlässt EV gegen englischen Online-Händler oder US-amerikanischen App-Anbieter. Die Monatsfrist läuft; parallele Zustellwege müssen koordiniert werden.
 

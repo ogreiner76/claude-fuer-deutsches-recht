@@ -1,6 +1,6 @@
 ---
 name: eigenen-risikoampel-und-gegenargumente
-description: "Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin nda abgleich im NDA-Abgleich."
+description: "Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien

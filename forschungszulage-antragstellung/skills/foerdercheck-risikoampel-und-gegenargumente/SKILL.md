@@ -1,6 +1,6 @@
 ---
 name: foerdercheck-risikoampel-und-gegenargumente
-description: "Foerdercheck: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Foerdercheck: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Foerdercheck: Risikoampel, Gegenargumente und Verteidigungslinien

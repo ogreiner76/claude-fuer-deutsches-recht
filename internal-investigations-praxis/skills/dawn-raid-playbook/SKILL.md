@@ -19,7 +19,7 @@ Ein Dawn Raid ist eine koordinierte, überraschende Durchsuchung durch Strafverf
 
 ## Ziel dieses Skills
 
-Dieser Skill liefert ein sofort einsetzbares Playbook für den Fall eines Dawn Raids: Verhalten der Mitarbeiter, Eskalationspfade, Rechte des Unternehmens und Nachsorge.
+Liefert ein sofort einsetzbares Playbook für den Fall eines Dawn Raids: Verhalten der Mitarbeiter, Eskalationspfade, Rechte des Unternehmens und Nachsorge.
 
 ## Arbeitsprogramm
 

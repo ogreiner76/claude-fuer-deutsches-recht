@@ -15,7 +15,7 @@ description: "Verlagsrecht: Open-Access-Modelle, Creative-Commons-Lizenzen und V
 
 ## Zweck dieses Skills
 
-Open Access (OA) und Creative-Commons-Lizenzen (CC) verändern das traditionelle Verlagsrechtssystem grundlegend. Dieser Skill klärt, wie OA-Publikationen mit dem Urheberrecht, der Buchpreisbindung und den Verlagspflichten zusammengehen — insbesondere bei Wissenschaftsverlagen, geförderten Werken (DFG, BMBF, EU) und Hybridmodellen.
+Open Access (OA) und Creative-Commons-Lizenzen (CC) verändern das traditionelle Verlagsrechtssystem grundlegend. Kläre, wie OA-Publikationen mit dem Urheberrecht, der Buchpreisbindung und den Verlagspflichten zusammengehen — insbesondere bei Wissenschaftsverlagen, geförderten Werken (DFG, BMBF, EU) und Hybridmodellen.
 
 ## Rechtsgrundlagen
 

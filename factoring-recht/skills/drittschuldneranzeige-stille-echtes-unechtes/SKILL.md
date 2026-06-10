@@ -26,7 +26,7 @@ Drittschuldneranzeige und stille Zession: prüft die einschlägigen Voraussetzun
 
 Eine **stille Zession** ist eine Forderungsabtretung, von der der Drittschuldner (Debitor) nichts weiß. Wirtschaftliches Motiv: Diskretion – der Markt soll nicht erfahren, dass der Kunde Forderungen verkauft (Liquiditätsindiz). Rechtlich ist die stille Zession zulässig und wirksam; § 398 BGB verlangt keine Anzeige. Die Anzeige ist nach § 409 BGB nur **Schutzinstrument für den Schuldner**: Er darf bis Kenntnis an den Altgläubiger zahlen mit befreiender Wirkung (§ 407 BGB).
 
-Die Praxis kennt vier Modelle: (1) **stille Zession dauerhaft**, (2) **stille Zession mit Trigger** (Anzeige bei Krise), (3) **halboffene Zession** (Bankverbindung Factor, ohne Erläuterung), (4) **offene Zession** (vollständige Anzeige). Dieser Skill ordnet die Modelle und prüft die Risiken jedes Modells.
+Die Praxis kennt vier Modelle: (1) **stille Zession dauerhaft**, (2) **stille Zession mit Trigger** (Anzeige bei Krise), (3) **halboffene Zession** (Bankverbindung Factor, ohne Erläuterung), (4) **offene Zession** (vollständige Anzeige). Ordne die Modelle und prüft die Risiken jedes Modells.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

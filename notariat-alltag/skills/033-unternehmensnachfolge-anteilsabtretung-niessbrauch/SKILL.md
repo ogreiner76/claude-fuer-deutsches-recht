@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Ni
 
 ## Zweck und Anwendungsbereich
 
-Die Unternehmensnachfolge ist die komplexeste Aufgabe der Notariatsberatung. Dieser Skill strukturiert die wichtigsten notariellen Gestaltungsmittel: Anteilsabtretung, Nießbrauchsvorbehalt, Stimmrechtsbindung und Poolverträge für GmbH-Anteile.
+Die Unternehmensnachfolge ist die komplexeste Aufgabe der Notariatsberatung. Strukturiere die wichtigsten notariellen Gestaltungsmittel: Anteilsabtretung, Nießbrauchsvorbehalt, Stimmrechtsbindung und Poolverträge für GmbH-Anteile.
 
 Rechtsgrundlagen: § 15 GmbHG (Anteilsabtretung, notarielle Form), §§ 1030–1089 BGB (Nießbrauch), §§ 2325–2338 BGB (Pflichtteilsergänzung), § 16 GmbHG (Gutglaubensschutz), ErbStG (Bewertung, Freibeträge, § 13a ff.), UmwStG, GwG.
 

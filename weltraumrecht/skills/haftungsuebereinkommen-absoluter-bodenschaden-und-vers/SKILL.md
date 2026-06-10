@@ -15,7 +15,7 @@ description: "Liability Convention 1972 – Art. II–V: Gefährdungshaftung am 
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet **Haftungsübereinkommen: Absoluter Bodenschaden und Verschuldenshaftung im All** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite **Haftungsübereinkommen: Absoluter Bodenschaden und Verschuldenshaftung im All** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Kontext
 

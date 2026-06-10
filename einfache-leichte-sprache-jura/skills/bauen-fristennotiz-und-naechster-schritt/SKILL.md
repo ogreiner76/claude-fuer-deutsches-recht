@@ -1,6 +1,6 @@
 ---
 name: bauen-fristennotiz-und-naechster-schritt
-description: "Bauen: Fristennotiz und nächster Schritt im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Bauen: Fristennotiz und nächster Schritt: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Bauen: Fristennotiz und nächster Schritt

@@ -19,7 +19,7 @@ Cross-Border-Investigations mit US-Bezug (FCPA, SEC, DOJ) erfordern die enge Koo
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert die Koordination zwischen deutschem und US-Counsel so, dass Privilege-Verluste vermieden, widersprüchliche Aussagen gegenüber Behörden verhindert und strategische Entscheidungen konsistent getroffen werden.
+Strukturiert die Koordination zwischen deutschem und US-Counsel so, dass Privilege-Verluste vermieden, widersprüchliche Aussagen gegenüber Behörden verhindert und strategische Entscheidungen konsistent getroffen werden.
 
 ## Arbeitsprogramm
 

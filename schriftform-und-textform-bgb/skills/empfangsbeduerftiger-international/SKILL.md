@@ -1,6 +1,6 @@
 ---
 name: empfangsbeduerftiger-international
-description: "Dokumentation: Verhandlung, Vergleich und Eskalation im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Dokumentation: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Dokumentation: Verhandlung, Vergleich und Eskalation

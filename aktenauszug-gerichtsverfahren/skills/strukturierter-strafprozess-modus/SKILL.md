@@ -1,6 +1,6 @@
 ---
 name: strukturierter-strafprozess-modus
-description: "Strukturierter: Erstprüfung, Rollenklärung und Mandatsziel im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Strukturierter: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Strukturierter: Erstprüfung, Rollenklärung und Mandatsziel

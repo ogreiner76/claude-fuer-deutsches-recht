@@ -15,7 +15,7 @@ description: "VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen
 
 ## Zweck dieses Skills
 
-Die **VG Wort** (Verwertungsgesellschaft Wort) nimmt Vergütungsansprüche für Urheber von Sprachwerken wahr, die durch Gesetz entstehen (z.B. Kopiergeräte-Vergütung nach § 54 UrhG, Bibliothekstantieme nach § 27 UrhG). Dieser Skill klärt, wer der VG Wort beitreten kann, welche Werke gemeldet werden müssen, wie Ausschüttungen berechnet werden und welche Rolle Verlage dabei spielen.
+Die **VG Wort** (Verwertungsgesellschaft Wort) nimmt Vergütungsansprüche für Urheber von Sprachwerken wahr, die durch Gesetz entstehen (z.B. Kopiergeräte-Vergütung nach § 54 UrhG, Bibliothekstantieme nach § 27 UrhG). Kläre, wer der VG Wort beitreten kann, welche Werke gemeldet werden müssen, wie Ausschüttungen berechnet werden und welche Rolle Verlage dabei spielen.
 
 ## Rechtsgrundlagen
 

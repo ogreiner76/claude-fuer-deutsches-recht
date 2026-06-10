@@ -1,6 +1,6 @@
 ---
 name: 011-erster-titel-8-erwerb-eigentum
-description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche..."
+description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen: Bearbeite den ersten Teil Titel 8 Erwerb Eigentum bewegliche Sachen im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche..."
 ---
 
 # PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen

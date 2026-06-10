@@ -1,6 +1,6 @@
 ---
 name: word-zahlen-schwellen-und-berechnung
-description: "Word: Zahlen, Schwellenwerte und Berechnung: Word: Zahlen, Schwellenwerte und Berechnung im Plugin nda abgleich."
+description: "Word: Zahlen, Schwellenwerte und Berechnung: Word: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Word: Zahlen, Schwellenwerte und Berechnung
@@ -14,7 +14,7 @@ description: "Word: Zahlen, Schwellenwerte und Berechnung: Word: Zahlen, Schwell
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA, Cleanroom-Agreement, Joinder-Erklärung, Term Sheet, AVV nach Art. 28 DSGVO, Verschwiegenheitsanlage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Word: Zahlen, Schwellenwerte und Berechnung im Plugin nda abgleich.
+**Fokus:** Word: Zahlen, Schwellenwerte und Berechnung.
 
 ## Spezialwissen: Word: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.

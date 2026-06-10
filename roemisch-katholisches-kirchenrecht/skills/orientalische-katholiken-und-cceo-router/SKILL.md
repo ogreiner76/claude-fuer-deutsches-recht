@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **wann Recht einer katholischen Ostkirche maßgeblich ist**.
+Prüft insbesondere: **wann Recht einer katholischen Ostkirche maßgeblich ist**.
 
 **CIC-/Normanker:** CIC can. 1; CCEO live prüfen.
 

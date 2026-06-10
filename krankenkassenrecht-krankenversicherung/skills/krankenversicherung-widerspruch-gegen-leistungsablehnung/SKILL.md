@@ -15,7 +15,7 @@ description: "Widerspruchsverfahren nach §§ 83 ff. SGG: Fristen, Form, Begrün
 
 ## Skill-Zweck
 
-Der Widerspruch ist das erste Rechtsmittel gegen Ablehnungsbescheide der Krankenkasse. Dieser Skill sichert **Fristen, Form und Substanz** des Widerspruchs und bereitet eine verwertbare Begründung vor.
+Der Widerspruch ist das erste Rechtsmittel gegen Ablehnungsbescheide der Krankenkasse. Sichere **Fristen, Form und Substanz** des Widerspruchs und bereitet eine verwertbare Begründung vor.
 
 ## Rechtlicher Rahmen
 

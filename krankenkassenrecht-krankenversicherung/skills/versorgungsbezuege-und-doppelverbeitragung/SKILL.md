@@ -15,7 +15,7 @@ description: "Kritische Analyse der Doppelverbeitragung von Betriebsrenten in de
 
 ## Skill-Zweck
 
-Die Doppelverbeitragung von Betriebsrenten ist ein politisch und rechtlich umstrittenes Thema. Dieser Skill analysiert **die aktuelle Rechtslage nach dem Freibetrag 2020, Verteidigungsstrategien und Gestaltungsoptionen zur Beitragsminimierung**.
+Die Doppelverbeitragung von Betriebsrenten ist ein politisch und rechtlich umstrittenes Thema. Analysiere **die aktuelle Rechtslage nach dem Freibetrag 2020, Verteidigungsstrategien und Gestaltungsoptionen zur Beitragsminimierung**.
 
 ## Rechtlicher Rahmen
 

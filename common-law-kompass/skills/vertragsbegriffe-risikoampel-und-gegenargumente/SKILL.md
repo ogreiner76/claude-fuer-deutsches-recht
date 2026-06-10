@@ -1,6 +1,6 @@
 ---
 name: vertragsbegriffe-risikoampel-und-gegenargumente
-description: "Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin common law kompass im Common Law Kompass."
+description: "Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien

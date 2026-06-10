@@ -15,7 +15,7 @@ description: "EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmark
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill liefert eine **vollständige Dokumentenmatrix für EUIPO-Verfahren** – Unionsmarkenanmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerdeverfahren. Er hilft dabei, vollständige Akten zusammenzustellen, Dokumentenlücken rechtzeitig zu erkennen und fristgerechte Einreichungen zu sichern.
+Liefert eine **vollständige Dokumentenmatrix für EUIPO-Verfahren** – Unionsmarkenanmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerdeverfahren. Er hilft dabei, vollständige Akten zusammenzustellen, Dokumentenlücken rechtzeitig zu erkennen und fristgerechte Einreichungen zu sichern.
 
 Mandatsbezug: Anwalt bereitet EUIPO-Widerspruch vor und fragt: Welche Dokumente muss ich einreichen? Was passiert, wenn ein Beleg fehlt? Mandant hat eine Unionsmarke erhalten und wird nun vor dem EUIPO mit einem Nichtigkeitsantrag konfrontiert.
 

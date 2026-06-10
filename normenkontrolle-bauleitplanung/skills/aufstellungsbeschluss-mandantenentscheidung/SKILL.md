@@ -1,6 +1,6 @@
 ---
 name: aufstellungsbeschluss-mandantenentscheidung
-description: "Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Aufstellungsbeschluss: Mandantenkommunikation und Entscheidungsvorlage

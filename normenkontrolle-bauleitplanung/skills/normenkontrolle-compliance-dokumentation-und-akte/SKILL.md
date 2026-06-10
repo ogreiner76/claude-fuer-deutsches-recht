@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-compliance-dokumentation-und-akte
-description: "Normenkontrolle: Compliance-Dokumentation und Aktenvermerk im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Normenkontrolle: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Normenkontrolle: Compliance-Dokumentation und Aktenvermerk

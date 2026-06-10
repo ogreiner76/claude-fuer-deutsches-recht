@@ -1,6 +1,6 @@
 ---
 name: kanzleiumgebung-khub-sonderfall-livecheck
-description: "Kanzleiumgebung: Verhandlung, Vergleich und Eskalation im Plugin kanzlei builder hub im Kanzlei Builder Hub."
+description: "Kanzleiumgebung: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Kanzleiumgebung: Verhandlung, Vergleich und Eskalation

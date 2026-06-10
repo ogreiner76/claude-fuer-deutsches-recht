@@ -22,7 +22,7 @@ description: "Mandant will Register-/Inventar-Status für Luftfahrzeug-Ersatztei
 ## Erste Schritte
 
 1. Sachverhalt strukturieren: Parteien betroffene Luftfahrzeuge/Einrichtungen beteiligte Behörden und laufende Fristen.
-2. Einschlägige Normen identifizieren: EASA Part-145 Cape Town Convention Art. 2 LuftFzgG BGB §§ 1204 ff..
+2. Einschlägige Normen identifizieren: EASA Part-145 Cape Town Convention Art. 2 LuftFzgG BGB §§ 1204 ff.
 3. Register prüfen: LBA-Luftfahrzeugrolle AG-Braunschweig-Pfandrechtsregister ICAO-Cape-Town-Register je nach Fallrelevanz.
 4. Zuständigkeit klären: LBA vs. Landesbehörde vs. EASA vs. Verwaltungsgericht.
 5. Fristen sichern: Widerspruch (1 Monat) Klage (1 Monat) Insolvenzantrag (3/6 Wochen).

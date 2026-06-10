@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-und-mandatsziel
-description: "Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt sportrecht."
+description: "Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt sportrecht.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel.
 
 ## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

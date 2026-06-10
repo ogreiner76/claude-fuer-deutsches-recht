@@ -49,19 +49,19 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `anschluss-routing` | Anschluss-Routing für Memorandum-Ersteller: wählt den nächsten Spezial-Skill nach Engpass (Mandantenbericht-Fristen, Sachverhalt, Quellen, Vorergebnisse), dokumentiert Router-Entscheidung mit Begründung. |
-| `antworten-interessen-ausfuehrungen-fragen` | Antworten: Mehrparteienkonflikt und Interessenmatrix im Plugin memorandums ersteller im Memorandums Ersteller. |
-| `ausfuehrungen-formular-portal-und-einreichung` | Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `antworten-interessen-ausfuehrungen-fragen` | Antworten: Mehrparteienkonflikt und Interessenmatrix. |
+| `ausfuehrungen-formular-portal-und-einreichung` | Ausfuehrungen: Formular, Portal und Einreichungslogik. |
 | `dokumente-intake` | Dokumentenintake für Memorandum-Ersteller: sortiert Sachverhalt, Quellen, Vorergebnisse, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `due-diligence-ergebnis-handlungsempfehlung` | Memo Rechtsteil einer Due Diligence: Material Findings, Issues List, Red Flags, Empfehlungen für SPA-Klauseln (Garantien, Freistellungen). Format DD-Memo mit Executive Summary, Detailfindings, Aenderungsempfehlungen Kaufvertrag. Output:... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Memorandum-Ersteller: ordnet Rolle (Mandant, Geschäftsleitung, Aufsichtsorgan), markiert Frist (Mandantenbericht-Fristen), wählt Norm (Anwendungsbereich nach Mandat) und Zuständigkeit (zuständige Stelle),... |
-| `fragen-compliance-dokumentation-und-akte` | Fragen: Compliance-Dokumentation und Aktenvermerk im Plugin memorandums ersteller im Memorandums Ersteller. |
-| `gliederung-mandantenunterlagen-memorandum` | Gliederung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `fragen-compliance-dokumentation-und-akte` | Fragen: Compliance-Dokumentation und Aktenvermerk. |
+| `gliederung-mandantenunterlagen-memorandum` | Gliederung: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `haftungsrisiko-rechtsanwalt-board-pack` | Internes Memo zur Haftungspruefung: Mandantenbeziehung, vereinbarte Leistung, denkbare Pflichtverletzung, Schaden, Kausalitaet, Verjährung. Output: Haftungs-Memo für Kanzleileitung und Berufshaftpflichtversicherer. Pflicht-Hinweise an Ve... |
-| `juristisches-questions-fristennotiz` | Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `juristisches-questions-fristennotiz` | Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `laenge-formate-mandantenfreundliche-fassung` | Memo-Laenge an Komplexitaet anpassen: 1-Seiten-Antwort (schneller Mandant-Check), 3-5-Seiten-Memo (Standardfall), 10+-Seiten-Memo (komplexe Restrukturierung, M&A). Pro Format vorgegebene Inhalts-Skelette. Output: Wahl des passenden Forma... |
 | `mandantenanfrage-schnell` | Schnell-Memo zu eingehender Mandantenanfrage: in 30 Minuten, einseitig, mit 3-Punkte-Plan. Anlass: Erstgespraech, Eilanruf, Hilfeanfrage Kanzleikollege. Format: Frage, Kurzantwort, Risiken, naechster Schritt, offene Punkte. Output: Memo-... |
 | `mandantenkommunikation-redteam` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Memorandums Ersteller. |
-| `mandantenunterlagen-tatbestand-beweis-und-belege` | Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `mandantenunterlagen-tatbestand-beweis-und-belege` | Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `memo-board-pack-besondere-anlaesse-spezial` | Spezialfall Memo als Bestandteil eines Board-Packs: Aufsichtsrat / Beirat, Eilfristen, vertrauliche Anlagen, Aktenzeichen. Pruefraster für Vorstand und Generalsekretariat im Memorandums Ersteller. |
 | `memo-compliance-vorfall-intern` | Internes Compliance-Vorfall-Memo: Schwere des Vorfalls, betroffene Personen, betroffene Normen (KWG, MaRisk, GwG, DSGVO, KartellG), Meldepflichten, Sicherungsmassnahmen, Handlungsempfehlung. Speziell zu beachten: Self-Reporting-Linien (K... |
 | `memo-ergebnis-handlungsempfehlung` | Ergebnis und Handlungsempfehlung trennen: Ergebnis ist die rechtliche Antwort, Handlungsempfehlung ist die operative Konsequenz. Empfehlung mit Optionen, Risikoabschaetzung, Kostenrahmen, naechster Schritt mit verantwortlicher Person und... |
@@ -77,30 +77,30 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `memo-zu-grenzueberschreitenden-faellen` | Memo zu grenzueberschreitenden Faellen: anwendbares Recht (Rom I / Rom II), zuständiges Gericht (Brueessel Ia, EuGVVO), Anerkennung und Vollstreckung im Ausland. Output: kurzes IPR/IZPR-Memo mit Empfehlung zum Gerichtsstand und Vollstrec... |
 | `memo-zur-rechtsmittelentscheidung` | Rechtsmittel-Memo: Berufung/Revision/Beschwerde nach erstinstanzlicher Niederlage. Erfolgsaussichten, Kosten, Zeitfaktor, Mandantenpraeferenz. Pruefraster: Welche Beanstandungen tragen wirklich? Mandantenrisiko bei Verschlechterung. Outp... |
 | `memo-zur-vertragsentscheidung` | Vertragsentscheidungs-Memo: Soll der Mandant Vertrag X mit Bedingungen Y abschliessen? Pruefung wirtschaftliche und rechtliche Risiken, Verhandlungsspielraum, BATNA, Empfehlung. Output: Memo mit klarer Empfehlung 'abschliessen/nachverhan... |
-| `memorandum-dokumentenmatrix-und-lueckenliste` | Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `memorandum-dokumentenmatrix-und-lueckenliste` | Memorandum: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `memorandums-ersteller` | Erstellt ein professionelles juristisches Memorandum aus heterogenen Mandantenunterlagen. Anwendungsfall Mandant hat Unterlagen eingereicht und Kanzlei soll Rechtslage in Memorandumsform aufbereiten. Normen rechtsgebietsneutral einsetzba... |
-| `optional-beweislast-piercing-sonderfall` | Optional: Beweislast, Darlegungslast und Substantiierung im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `optional-beweislast-piercing-sonderfall` | Optional: Beweislast, Darlegungslast und Substantiierung. |
 | `output-waehlen` | Output-Wahl für Memorandum-Ersteller: stimmt Adressat (Mandant, Geschäftsleitung, Aufsichtsorgan), Frist (Mandantenbericht-Fristen) und Form auf den Zweck ab — typische Outputs: Memo im Gutachtenstil, Executive Summary, Risikomatrix. |
-| `piercing-sonderfall-und-edge-case` | Piercing: Sonderfall und Edge-Case-Prüfung im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `piercing-sonderfall-und-edge-case` | Piercing: Sonderfall und Edge-Case-Prüfung. |
 | `pinpoint-fehlerkatalog` | Pinpoint Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
 | `prozessstrategie-klageerhebung-gutachtenstil` | Memo zur Prozessstrategie vor Klageerhebung: Erfolgsaussichten, Streitwert, Kosten, Beweislage, Vergleichsbereitschaft Gegner, Vollstreckungsaussichten. Output: Memo mit Empfehlung 'Klage erheben/aussergerichtlich verhandeln/abwarten' un... |
 | `quellen-livecheck` | Quellen-Live-Check für Memorandum-Ersteller: prüft Normen (Anwendungsbereich nach Mandat) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt zuständige Stelle und Quellenhygiene nach references/quellenhygiene.md. |
 | `quellenreferenz-quellenkarte` | Quellenreferenz Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `questions-fristennotiz-und-naechster-schritt` | Questions: Fristennotiz und nächster Schritt im Plugin memorandums ersteller im Memorandums Ersteller. |
-| `rechtliche-internationaler-bezug-und-schnittstellen` | Rechtliche: Internationaler Bezug und Schnittstellen im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `questions-fristennotiz-und-naechster-schritt` | Questions: Fristennotiz und nächster Schritt. |
+| `rechtliche-internationaler-bezug-und-schnittstellen` | Rechtliche: Internationaler Bezug und Schnittstellen. |
 | `rechtsfortbildung-bgh-rechtsfragen` | Memo zu aktueller BGH-Entscheidung: Sachverhalt der Entscheidung, Leitsatz, Rechtsfrage, Begruendung BGH, praktische Auswirkungen für die Kanzlei. Format Update-Memo für Mandanten und Anwaltskollegen. Pflicht: Originalfundstelle, dejure.... |
-| `rechtsgebietsneutral-sachverhalt-satz` | Rechtsgebietsneutral: Abschlussprodukt und Übergabe im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `rechtsgebietsneutral-sachverhalt-satz` | Rechtsgebietsneutral: Abschlussprodukt und Übergabe. |
 | `sachverhalt-fixieren-vier-teile` | Sachverhalt sauber fixieren: zeitliche, raeumliche, personelle Ordnung, Unterscheidung 'unstreitig' / 'streitig' / 'unklar' / 'Annahme'. Vermeidet juristisches Wertvokabular im Sachverhalt. Markiert Tatsachen, für die Belege im Mandanten... |
-| `sachverhalt-verhandlung-vergleich-und-eskalation` | Sachverhalt: Verhandlung, Vergleich und Eskalation im Plugin memorandums ersteller im Memorandums Ersteller. |
-| `satz-zahlen-schwellen-und-berechnung` | Satz: Zahlen, Schwellenwerte und Berechnung im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `sachverhalt-verhandlung-vergleich-und-eskalation` | Sachverhalt: Verhandlung, Vergleich und Eskalation. |
+| `satz-zahlen-schwellen-und-berechnung` | Satz: Zahlen, Schwellenwerte und Berechnung. |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Memorandums Ersteller-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei D... |
-| `teile-vier-wandelt` | Teile: Behörden-, Gerichts- oder Registerweg im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `teile-vier-wandelt` | Teile: Behörden-, Gerichts- oder Registerweg. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Memorandum-Ersteller: trennt fehlende Tatsachen von fehlenden Belegen (Sachverhalt, Quellen, Vorergebnisse), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatznachweis. |
-| `vier-risikoampel-und-gegenargumente` | Vier: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin memorandums ersteller im Memorandums Ersteller. |
-| `wandelt-erstpruefung-und-mandatsziel` | Wandelt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin memorandums ersteller im Memorandums Ersteller. |
+| `vier-risikoampel-und-gegenargumente` | Vier: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `wandelt-erstpruefung-und-mandatsziel` | Wandelt: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Memorandums Ersteller. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Memorandums Ersteller. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Memorandums Ersteller. |
-| `zitierung-mandantenkommunikation-entscheidungsvorlage` | Zitierung: Mandantenkommunikation und Entscheidungsvorlage: Zitierung: Mandantenkommunikation und Entscheidungsvorlage im Plugin memorandums ersteller. |
+| `zitierung-mandantenkommunikation-entscheidungsvorlage` | Zitierung: Mandantenkommunikation und Entscheidungsvorlage: Zitierung: Mandantenkommunikation und Entscheidungsvorlage. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

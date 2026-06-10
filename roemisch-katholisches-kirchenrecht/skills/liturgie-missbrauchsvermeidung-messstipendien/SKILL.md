@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Zuständigkeit, Eigenmächtigkeit, Gültigkeit und Heilung**.
+Prüft insbesondere: **Zuständigkeit, Eigenmächtigkeit, Gültigkeit und Heilung**.
 
 **CIC-/Normanker:** can. 834-848, 846.
 

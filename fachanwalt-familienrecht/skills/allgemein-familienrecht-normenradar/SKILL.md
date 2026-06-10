@@ -218,26 +218,26 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `scheidungsverbund-va-fristenplan` | zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Scheidungsverbund VA Fristenplan. |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Re... |
 | `soldatenversorgung-bundeswehr-schnittstelle` | Soldatenversorgung Bundeswehr Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde... |
-| `spezial-duesseldorfer-abschlussprodukt-und-uebergabe` | Duesseldorfer: Abschlussprodukt und Übergabe im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-ehevertrag-red-team-und-qualitaetskontrolle` | Ehevertrag: Red-Team und Qualitätskontrolle im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-eingetragene-mandantenkommunikation-entscheidungsvorlage` | Eingetragene: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-ergaenzend-sonderfall-und-edge-case` | Ergaenzend: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-famfg-livequellen-und-rechtsprechungscheck` | Famfg: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-familiengericht-verhandlung-vergleich-und-eskalation` | Familiengericht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-familienrecht-tatbestand-beweis-und-belege` | Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-fristen-behoerden-gericht-und-registerweg` | Fristen: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-kanzlei-fristennotiz-und-naechster-schritt` | Kanzlei: Fristennotiz und nächster Schritt im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-lebenspartnerschaft-beweislast-und-darlegungslast` | Lebenspartnerschaft: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-literatur-schriftsatz-brief-und-memo-bausteine` | Literatur: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-mandate-risikoampel-und-gegenargumente` | Mandate: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-normen-dokumentenmatrix-und-lueckenliste` | Normen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-orientierung-fristen-form-und-zuständigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-scheidung-zahlen-schwellen-und-berechnung` | Scheidung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-sorge-compliance-dokumentation-und-akte` | Sorge: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-umgang-mehrparteien-konflikt-und-interessen` | Umgang: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-unterhalt-internationaler-bezug-und-schnittstellen` | Unterhalt: Internationaler Bezug und Schnittstellen im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
-| `spezial-zugewinn-formular-portal-und-einreichung` | Zugewinn: Formular, Portal und Einreichungslogik im Plugin fachanwalt familienrecht; mit V90-Fachkern, Normenradar, Fristen-/Beweislastmatrix, Gegenargumenten und direkt verwertbarem Arbeitsprodukt. |
+| `spezial-duesseldorfer-abschlussprodukt-und-uebergabe` | Duesseldorfer: Abschlussprodukt und Übergabe. |
+| `spezial-ehevertrag-red-team-und-qualitaetskontrolle` | Ehevertrag: Red-Team und Qualitätskontrolle. |
+| `spezial-eingetragene-mandantenkommunikation-entscheidungsvorlage` | Eingetragene: Mandantenkommunikation und Entscheidungsvorlage. |
+| `spezial-ergaenzend-sonderfall-und-edge-case` | Ergaenzend: Sonderfall und Edge-Case-Prüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel. |
+| `spezial-famfg-livequellen-und-rechtsprechungscheck` | Famfg: Livequellen- und Rechtsprechungscheck. |
+| `spezial-familiengericht-verhandlung-vergleich-und-eskalation` | Familiengericht: Verhandlung, Vergleich und Eskalation. |
+| `spezial-familienrecht-tatbestand-beweis-und-belege` | Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
+| `spezial-fristen-behoerden-gericht-und-registerweg` | Fristen: Behörden-, Gerichts- oder Registerweg. |
+| `spezial-kanzlei-fristennotiz-und-naechster-schritt` | Kanzlei: Fristennotiz und nächster Schritt. |
+| `spezial-lebenspartnerschaft-beweislast-und-darlegungslast` | Lebenspartnerschaft: Beweislast, Darlegungslast und Substantiierung. |
+| `spezial-literatur-schriftsatz-brief-und-memo-bausteine` | Literatur: Schriftsatz-, Brief- und Memo-Bausteine. |
+| `spezial-mandate-risikoampel-und-gegenargumente` | Mandate: Risikoampel, Gegenargumente und Verteidigungslinien. |
+| `spezial-normen-dokumentenmatrix-und-lueckenliste` | Normen: Dokumentenmatrix, Lückenliste und Nachforderung. |
+| `spezial-orientierung-fristen-form-und-zuständigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg. |
+| `spezial-scheidung-zahlen-schwellen-und-berechnung` | Scheidung: Zahlen, Schwellenwerte und Berechnung. |
+| `spezial-sorge-compliance-dokumentation-und-akte` | Sorge: Compliance-Dokumentation und Aktenvermerk. |
+| `spezial-umgang-mehrparteien-konflikt-und-interessen` | Umgang: Mehrparteienkonflikt und Interessenmatrix. |
+| `spezial-unterhalt-internationaler-bezug-und-schnittstellen` | Unterhalt: Internationaler Bezug und Schnittstellen. |
+| `spezial-zugewinn-formular-portal-und-einreichung` | Zugewinn: Formular, Portal und Einreichungslogik. |
 | `steuerliche-folgen-externe-teilung` | Steuerliche Folgen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI,... |
 | `tod-eines-ehegatten-anpassung-37-ff-versausglg` | Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Besc... |
 | `tod-nach-rechtskraft-vor-umsetzung` | Tod nach Rechtskraft vor Umsetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI,... |
@@ -254,7 +254,7 @@ Weitere Skills: insgesamt 108 Anschluss-Skills in diesem Plugin.
 ## Fachlicher Zuschnitt
 
 - **Thema:** Einstieg, Schnelltriage und Fallrouting im Fachanwalt Familienrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig.
-- **Arbeitsfokus:** ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage..
+- **Arbeitsfokus:** ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
 - **Plugin-Rahmen:** Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehev....
 - **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
 - **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.

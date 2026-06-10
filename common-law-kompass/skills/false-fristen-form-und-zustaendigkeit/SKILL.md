@@ -1,6 +1,6 @@
 ---
 name: false-fristen-form-und-zustaendigkeit
-description: "False: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin common law kompass im Common Law Kompass."
+description: "False: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # False: Fristen, Form, Zuständigkeit und Rechtsweg

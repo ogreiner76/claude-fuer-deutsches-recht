@@ -1,6 +1,6 @@
 ---
 name: cotif-schriftsatz-brief-und-memo-bausteine
-description: "Cotif: Schriftsatz-, Brief- und Memo-Bausteine: Cotif: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt transport speditionsrecht."
+description: "Cotif: Schriftsatz-, Brief- und Memo-Bausteine: Cotif: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Cotif: Schriftsatz-, Brief- und Memo-Bausteine
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Cotif: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt transport speditionsrecht.
+**Fokus:** Cotif: Schriftsatz-, Brief- und Memo-Bausteine.
 
 ## Spezialwissen: Cotif: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

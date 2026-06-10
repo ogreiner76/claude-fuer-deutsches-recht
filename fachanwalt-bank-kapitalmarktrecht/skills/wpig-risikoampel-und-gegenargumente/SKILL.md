@@ -1,6 +1,6 @@
 ---
 name: wpig-risikoampel-und-gegenargumente
-description: "Wpig: Risikoampel, Gegenargumente und Verteidigungslinien: Wpig: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bank kapitalmarktrecht."
+description: "Wpig: Risikoampel, Gegenargumente und Verteidigungslinien: Wpig: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Wpig: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -14,10 +14,10 @@ description: "Wpig: Risikoampel, Gegenargumente und Verteidigungslinien: Wpig: R
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Wpig: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bank kapitalmarktrecht.
+**Fokus:** Wpig: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Spezialwissen: Wpig: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Konkreter Gegenstand:** Wpig: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bank kapitalmarktrecht..
+- **Konkreter Gegenstand:** Wpig: Risikoampel, Gegenargumente und Verteidigungslinien.
 - **Normen-/Verfahrensanker:** KWG, ZAG, WpHG, WpIG, MAR, MiFID-II/MiFIR, MiCAR, BGB-Verbraucherkredit, AGB-Recht und BaFin-Verwaltungspraxis.
 - **Entscheidende Weiche:** Produkt, Kundentyp, Aufklärung, Geeignetheit, Dokumentation, Erlaubnispflicht, Interessenkonflikt, Prospekt-/Ad-hoc-Risiko und Verjährung auseinanderziehen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

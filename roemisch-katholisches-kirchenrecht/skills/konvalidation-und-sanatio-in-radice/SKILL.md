@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **neuer Konsens, rückwirkende Heilung, Zuständigkeit und Dokumentation**.
+Prüft insbesondere: **neuer Konsens, rückwirkende Heilung, Zuständigkeit und Dokumentation**.
 
 **CIC-/Normanker:** can. 1156-1165.
 

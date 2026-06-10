@@ -1,6 +1,6 @@
 ---
 name: excel-beweislast-und-darlegungslast
-description: "Excel: Beweislast, Darlegungslast und Substantiierung im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Excel: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Excel: Beweislast, Darlegungslast und Substantiierung

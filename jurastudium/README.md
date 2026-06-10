@@ -191,7 +191,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `methodenlehre-rechtsgeschichte-referendariat` | Methodenlehre: Behörden-, Gerichts- oder Registerweg im Jurastudium. |
 | `methodenlehre-strafrecht` | Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogiev... |
 | `methodenlehre-zivilrecht` | Übt die zivilrechtliche Methodenlehre für Studierende — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157... |
-| `oeffentliches-quellenkarte` | Oeffentliches Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `oeffentliches-quellenkarte` | Oeffentliches Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
 | `output-waehlen` | Output-Wahl für Jurastudium (Klausur, AG, Examen): stimmt Adressat (Studierender, Repetitor, Korrektor), Frist (Klausurzeit) und Form auf den Zweck ab — typische Outputs: Klausurlösung Gutachtenstil, Hausarbeit, AG-Lösung. |
 | `pruefungsgespraech-ag-rechtsgeschichte` | Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Str... |
 | `pruefungsgespraech-fristen-form-und-zustaendigkeit` | Pruefungsgespraech: Fristen, Form, Zuständigkeit und Rechtsweg im Jurastudium. |
@@ -199,7 +199,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `quellen-livecheck` | Quellen-Live-Check für Jurastudium (Klausur, AG, Examen): prüft Normen (BGB, StGB, GG, ZPO/StPO/VwGO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Universität und Quellenhygiene nach references/quellenhygiene.md. |
 | `rechtsgeschichte` | Übt deutsche und europäische Rechtsgeschichte für Studierende — römisches Recht und die BGB-Entstehung 1900, NS-Unrechtsjustiz und die Folgen der Radbruchschen Formel, SED-Unrecht und Mauerschützenprozesse, Entstehung des Grundgesetzes n... |
 | `rechtsgeschichte-zahlen-schwellen-und-berechnung` | Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung im Jurastudium. |
-| `rechtsquellen-beweislast-darlegungslast` | Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
+| `rechtsquellen-beweislast-darlegungslast` | Rechtsquellen: Quellenprüfung; Beweislast, Darlegungslast und Substantiierung: Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert |
 | `referendariat-tatbestand-beweis-und-belege` | Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage im Jurastudium. |
 | `strafrecht-studium-subsumtionslehre` | Strafrecht: Verhandlung, Vergleich und Eskalation im Jurastudium. |
 | `studium-erstpruefung-und-mandatsziel` | Studium: Erstprüfung, Rollenklärung und Mandatsziel im Jurastudium. |

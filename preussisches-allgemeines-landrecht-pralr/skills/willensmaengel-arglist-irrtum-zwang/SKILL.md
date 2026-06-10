@@ -1,6 +1,6 @@
 ---
 name: willensmaengel-arglist-irrtum-zwang
-description: "Willensmaengel im ALR — Arglist Irrtum Zwang. Skill behandelt ALR I 4 zur Anfechtbarkeit von Willenserklaerungen wegen arglistiger Taeuschung wesentlichen Irrtums und Zwangs sowie die Fortwirkung in §§ 119-124 BGB. Liefert Pruefraster im Preußisches Allgemeines Landrecht: prüft konkret die einsch..."
+description: "Willensmaengel im ALR — Arglist Irrtum Zwang. Skill behandelt ALR I 4 zur Anfechtbarkeit von Willenserklaerungen wegen arglistiger Taeuschung wesentlichen Irrtums und Zwangs sowie die Fortwirkung in §§ 119-124 BGB. Liefert Pruefraster: prüft konkret die einsch..."
 ---
 
 # Pralr Willensmaengel Arglist Irrtum Zwang

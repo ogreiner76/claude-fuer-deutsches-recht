@@ -1,6 +1,6 @@
 ---
 name: opfervertretung-mehrparteien-konflikt-und-interessen
-description: "Opfervertretung: Mehrparteienkonflikt und Interessenmatrix: Opfervertretung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt strafrecht."
+description: "Opfervertretung: Mehrparteienkonflikt und Interessenmatrix: Opfervertretung: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Opfervertretung: Mehrparteienkonflikt und Interessenmatrix
@@ -14,7 +14,7 @@ description: "Opfervertretung: Mehrparteienkonflikt und Interessenmatrix: Opferv
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Opfervertretung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt strafrecht.
+**Fokus:** Opfervertretung: Mehrparteienkonflikt und Interessenmatrix.
 
 ## Spezialwissen: Opfervertretung: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** StPO.

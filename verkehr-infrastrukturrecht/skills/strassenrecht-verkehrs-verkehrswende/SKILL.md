@@ -1,6 +1,6 @@
 ---
 name: strassenrecht-verkehrs-verkehrswende
-description: "Strassenrecht: Internationaler Bezug und Schnittstellen im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Strassenrecht: Internationaler Bezug und Schnittstellen."
 ---
 
 # Strassenrecht: Internationaler Bezug und Schnittstellen

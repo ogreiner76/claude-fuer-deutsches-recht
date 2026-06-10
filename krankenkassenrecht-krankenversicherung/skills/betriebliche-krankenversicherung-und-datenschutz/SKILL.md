@@ -15,7 +15,7 @@ description: "Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistung
 
 ## Skill-Zweck
 
-Die betriebliche Krankenversicherung (bKV) ist ein wachsendes Benefit-Instrument. Dieser Skill klärt **Vertragsstrukturen, Datenschutzpflichten des Arbeitgebers, steuerliche Behandlung und was bei Arbeitgeberwechsel passiert**.
+Die betriebliche Krankenversicherung (bKV) ist ein wachsendes Benefit-Instrument. Kläre **Vertragsstrukturen, Datenschutzpflichten des Arbeitgebers, steuerliche Behandlung und was bei Arbeitgeberwechsel passiert**.
 
 ## Rechtlicher Rahmen
 

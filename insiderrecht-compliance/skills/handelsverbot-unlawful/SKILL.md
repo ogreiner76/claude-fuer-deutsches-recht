@@ -30,7 +30,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft, ob eine konkrete Transaktion oder Empfehlung gegen Art. 14 MAR verstößt,
+Prüfe, ob eine konkrete Transaktion oder Empfehlung gegen Art. 14 MAR verstößt,
 und erstellt die Verteidigungsdokumentation für den Fall einer BaFin-Anfrage oder eines
 Ermittlungsverfahrens. Er unterscheidet zwischen dem objektiven Tatbestand und den subjektiven
 Elementen sowie den verfügbaren Safe-Harbour-Ausnahmen.

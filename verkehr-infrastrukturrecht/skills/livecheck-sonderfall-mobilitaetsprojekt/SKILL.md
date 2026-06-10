@@ -1,6 +1,6 @@
 ---
 name: livecheck-sonderfall-mobilitaetsprojekt
-description: "Livecheck: Sonderfall und Edge-Case-Prüfung im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Livecheck: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Livecheck: Sonderfall und Edge-Case-Prüfung

@@ -28,13 +28,13 @@ Die **übertragende Sanierung** ist in der Praxis der typische Weg, einen Betrie
 - **Im Regelverfahren** durch den Insolvenzverwalter — mit Zustimmung des Gläubigerausschusses bzw. der Gläubigerversammlung (§§ 160-162 InsO).
 - **Über einen Insolvenzplan** — durch rechtsgestaltende Wirkung des bestätigten Plans (§§ 254, 254a InsO).
 
-Dieser Skill behandelt beide Varianten und zeigt die drei zentralen Konstruktionsfragen, die in jeder Übertragungsklausel zu beantworten sind:
+Behandelt beide Varianten und zeigt die drei zentralen Konstruktionsfragen, die in jeder Übertragungsklausel zu beantworten sind:
 
 1. **Bedingungsfrage:** aufschiebend (§ 158 Abs. 1 BGB) oder auflösend (§ 158 Abs. 2 BGB) bedingt?
 2. **Zustimmungsfrage:** Welche Zustimmungen sind nötig — Gläubigerausschuss (§ 160 InsO), Gläubigerversammlung (§ 162 InsO), Einzelzustimmung Sicherungsnehmer, datenschutzrechtliche Einwilligung Betroffener — oder genügt die rechtsgestaltende Wirkung des bestätigten Plans (§ 254 InsO)?
 3. **Vollzugsfrage:** Wie wirkt der bestätigte Plan auf das jeweilige Übertragungsregime (Grundbuch, Markenregister, datenschutzrechtliche Zweckbindung)?
 
-Dieser Skill liefert die Entscheidungsmatrix für drei typische Asset-Klassen: Grundstücke, gewerbliche Schutzrechte (insb. Marken), Kundendaten.
+Liefert die Entscheidungsmatrix für drei typische Asset-Klassen: Grundstücke, gewerbliche Schutzrechte (insb. Marken), Kundendaten.
 
 ---
 

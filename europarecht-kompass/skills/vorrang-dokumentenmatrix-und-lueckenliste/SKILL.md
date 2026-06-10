@@ -1,6 +1,6 @@
 ---
 name: vorrang-dokumentenmatrix-und-lueckenliste
-description: "Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin europarecht kompass im Europarecht Kompass."
+description: "Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung

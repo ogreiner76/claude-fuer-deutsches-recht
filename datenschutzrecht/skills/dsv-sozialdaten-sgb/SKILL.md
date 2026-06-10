@@ -1,6 +1,6 @@
 ---
 name: dsv-sozialdaten-sgb
-description: "Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Diensten nach den Sondervorschriften der Sozialgesetzbücher: Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Dien — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv sozialdaten sgb."
+description: "Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Diensten nach den Sondervorschriften der Sozialgesetzbücher: Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Dien"
 ---
 
 # Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Diensten nach den Sondervorschriften der Sozialgesetzbücher

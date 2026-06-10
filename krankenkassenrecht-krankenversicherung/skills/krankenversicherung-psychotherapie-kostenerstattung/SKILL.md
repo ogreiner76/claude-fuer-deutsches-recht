@@ -15,7 +15,7 @@ description: "GKV-Psychotherapie: Richtlinienpsychotherapie, Systemversagen und 
 
 ## Skill-Zweck
 
-Dieser Skill bearbeitet **GKV-Psychotherapieleistungen**: Anspruch auf Richtlinienpsychotherapie, die Systemversagen-Rechtsprechung des BSG bei Wartezeiten und die Kostenerstattung für Privattherapie.
+Bearbeite **GKV-Psychotherapieleistungen**: Anspruch auf Richtlinienpsychotherapie, die Systemversagen-Rechtsprechung des BSG bei Wartezeiten und die Kostenerstattung für Privattherapie.
 
 ## Rechtlicher Rahmen
 

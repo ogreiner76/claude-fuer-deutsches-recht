@@ -19,7 +19,7 @@ Spesenabrechungsbetrug ist eine der häufigsten Formen des Mitarbeiterbetrugs un
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert die forensische Untersuchung von Spesenbetrug: von der Datenbankanalyse über Dokumentenprüfung bis zu den arbeitsrechtlichen und strafrechtlichen Maßnahmen.
+Strukturiert die forensische Untersuchung von Spesenbetrug: von der Datenbankanalyse über Dokumentenprüfung bis zu den arbeitsrechtlichen und strafrechtlichen Maßnahmen.
 
 ## Arbeitsprogramm
 

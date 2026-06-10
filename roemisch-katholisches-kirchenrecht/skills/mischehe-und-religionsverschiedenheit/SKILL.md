@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Verbot, Hindernis, Dispens, Versprechen und Kindererziehung**.
+Prüft insbesondere: **Verbot, Hindernis, Dispens, Versprechen und Kindererziehung**.
 
 **CIC-/Normanker:** can. 1124-1129, 1086.
 

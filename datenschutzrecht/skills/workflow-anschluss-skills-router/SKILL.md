@@ -1,6 +1,6 @@
 ---
 name: workflow-anschluss-skills-router
-description: "Anschluss-Skills Router: Anschluss-Skills Router im Plugin datenschutzrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor."
+description: "Anschluss-Skills Router: Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor."
 ---
 
 # Anschluss-Skills Router
@@ -14,7 +14,7 @@ description: "Anschluss-Skills Router: Anschluss-Skills Router im Plugin datensc
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Anschluss-Skills Router im Plugin datenschutzrecht: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor.
+**Fokus:** Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor.
 
 ## Einstieg
 Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste fachliche Weiche verändern:

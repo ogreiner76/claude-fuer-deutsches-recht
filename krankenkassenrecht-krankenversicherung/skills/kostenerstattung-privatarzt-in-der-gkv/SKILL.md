@@ -15,7 +15,7 @@ description: "Kostenerstattungsverfahren nach § 13 SGB V: Wahlerklärung, Syste
 
 ## Skill-Zweck
 
-GKV-Versicherte können unter bestimmten Umständen einen Privatarzt aufsuchen und Kostenerstattung von der Kasse verlangen. Dieser Skill klärt **Wahlerklärung, Systemversagen, Notfall und Erstattungsgrenzen nach § 13 SGB V**.
+GKV-Versicherte können unter bestimmten Umständen einen Privatarzt aufsuchen und Kostenerstattung von der Kasse verlangen. Kläre **Wahlerklärung, Systemversagen, Notfall und Erstattungsgrenzen nach § 13 SGB V**.
 
 ## Rechtlicher Rahmen
 

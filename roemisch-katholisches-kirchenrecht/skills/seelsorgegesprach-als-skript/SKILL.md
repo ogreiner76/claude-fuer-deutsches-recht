@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Gespräch, in dem Klarheit, Würde und Umkehr möglich bleiben**.
+Prüft insbesondere: **Gespräch, in dem Klarheit, Würde und Umkehr möglich bleiben**.
 
 **CIC-/Normanker:** can. 213, 220, 747.
 

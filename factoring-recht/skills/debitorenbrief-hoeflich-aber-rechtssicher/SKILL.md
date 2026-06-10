@@ -26,7 +26,7 @@ Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzu
 
 Der erste Brief, den ein Debitor vom Factor erhält, prägt die gesamte Folgekommunikation. Er muss **drei Ziele** gleichzeitig erfüllen: (1) **Wirksame Abtretungsanzeige** nach § 409 BGB, (2) **DSGVO-Information** nach Art. 14 DSGVO, (3) **Geschäftsbeziehung wahren** – der Debitor ist nicht Schuldner aus Notlage, sondern wirtschaftlich aktiver Partner, der weiter beim Kunden einkauft. Ein zu rauer Ton zerstört das Verhältnis Kunde-Debitor.
 
-Dieser Skill liefert die Bauanleitung für einen Debitorenbrief, der zugleich klar formuliert, juristisch belastbar und kommunikativ angemessen ist. Inkl. Eskalationsstufen vom ersten Hinweis bis zum harten Mahnen.
+Liefert die Bauanleitung für einen Debitorenbrief, der zugleich klar formuliert, juristisch belastbar und kommunikativ angemessen ist. Inkl. Eskalationsstufen vom ersten Hinweis bis zum harten Mahnen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

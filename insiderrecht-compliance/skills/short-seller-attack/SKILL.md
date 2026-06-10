@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill steuert die unmittelbare Compliance-Reaktion auf einen Short-Seller-Bericht
+Steuert die unmittelbare Compliance-Reaktion auf einen Short-Seller-Bericht
 und koordiniert die Kommunikation mit der BaFin.
 
 ## Arbeitsprogramm

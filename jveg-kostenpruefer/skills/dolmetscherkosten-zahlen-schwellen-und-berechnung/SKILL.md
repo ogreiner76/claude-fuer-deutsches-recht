@@ -1,6 +1,6 @@
 ---
 name: dolmetscherkosten-zahlen-schwellen-und-berechnung
-description: "Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Dolmetscherkosten: Zahlen, Schwellenwerte und Berechnung

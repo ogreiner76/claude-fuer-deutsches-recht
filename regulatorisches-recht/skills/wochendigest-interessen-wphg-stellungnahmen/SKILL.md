@@ -1,6 +1,6 @@
 ---
 name: wochendigest-interessen-wphg-stellungnahmen
-description: "Wochendigest: Mehrparteienkonflikt und Interessenmatrix im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Wochendigest: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Wochendigest: Mehrparteienkonflikt und Interessenmatrix

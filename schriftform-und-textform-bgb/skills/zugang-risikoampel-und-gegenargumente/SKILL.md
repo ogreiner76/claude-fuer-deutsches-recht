@@ -1,6 +1,6 @@
 ---
 name: zugang-risikoampel-und-gegenargumente
-description: "Zugang: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Zugang: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Zugang: Risikoampel, Gegenargumente und Verteidigungslinien

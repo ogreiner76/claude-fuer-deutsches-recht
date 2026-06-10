@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-betreuer-erster-monat
-description: "Ehrenamtlicher Betreuer: erster Monat im Plugin Betreuungsrecht: Dieser Skill führt nicht berufliche Betreuer Schritt für Schritt durch die ersten vier Wochen nach Bestellung. Er arbeitet beruhigend, praktisch und gerichtstauglich: Was muss sofort passieren, was darf warten, was darf der Betreuer..."
+description: "Ehrenamtlicher Betreuer: erster Monat: Führe nicht berufliche Betreuer Schritt für Schritt durch die ersten vier Wochen nach Bestellung. Er arbeitet beruhigend, praktisch und gerichtstauglich: Was muss sofort passieren, was darf warten, was darf der Betreuer..."
 ---
 
 # Ehrenamtlicher Betreuer: erster Monat

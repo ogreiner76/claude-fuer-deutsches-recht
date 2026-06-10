@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand — Arbeitskontext: NDA-Abgleich, Schwerpunkt redteam qualitygate."
+description: "Red-Team Qualitygate: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand"
 ---
 
 # Red-Team Qualitygate

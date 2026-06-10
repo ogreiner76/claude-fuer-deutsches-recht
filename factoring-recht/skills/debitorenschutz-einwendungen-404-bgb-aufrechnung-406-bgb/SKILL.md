@@ -26,7 +26,7 @@ Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: prüft die einsc
 
 Wenn die Forderung abgetreten wird, ändert sich für den Debitor nur der Gläubiger – nicht der Inhalt der Forderung. Er behält alle **Einwendungen**, die ihm gegen den Altgläubiger zustanden (§ 404 BGB), und kann unter bestimmten Voraussetzungen weiter **aufrechnen** mit Gegenforderungen gegen den Altgläubiger (§ 406 BGB). Das ist eine der wichtigsten Stellschrauben des deutschen Debitorenschutzes – und für den Factor das wichtigste **Wertminderungsrisiko** außerhalb der Bonität.
 
-Praktisch heißt das: Eine angekaufte Forderung kann beim Inkasso vom Debitor mit "Aber der Kunde schuldet mir noch …" konfrontiert werden. Der Factor muss dann gegen sich Forderungen aufrechnen lassen, die er nie erworben hat. Dieser Skill prüft die Reichweite des § 404 und § 406 BGB und zeigt Schutzmechanismen.
+Praktisch heißt das: Eine angekaufte Forderung kann beim Inkasso vom Debitor mit "Aber der Kunde schuldet mir noch …" konfrontiert werden. Der Factor muss dann gegen sich Forderungen aufrechnen lassen, die er nie erworben hat. Prüfe die Reichweite des § 404 und § 406 BGB und zeigt Schutzmechanismen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

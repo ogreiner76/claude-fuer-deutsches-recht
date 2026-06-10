@@ -1,6 +1,6 @@
 ---
 name: qualifikations-schriftsatz-brief-und-memo-bausteine
-description: "Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine: Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt migrationsrecht."
+description: "Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine: Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine
@@ -14,7 +14,7 @@ description: "Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine: Qualifika
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt migrationsrecht.
+**Fokus:** Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine.
 
 ## Spezialwissen: Qualifikations: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.

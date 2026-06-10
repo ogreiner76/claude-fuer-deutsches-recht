@@ -1,6 +1,6 @@
 ---
 name: ethik-abschlussprodukt-und-uebergabe
-description: "Ethik: Abschlussprodukt und Übergabe im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Ethik: Abschlussprodukt und Übergabe."
 ---
 
 # Ethik: Abschlussprodukt und Übergabe

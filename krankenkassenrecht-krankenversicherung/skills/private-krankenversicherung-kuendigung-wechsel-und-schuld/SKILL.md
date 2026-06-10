@@ -15,7 +15,7 @@ description: "PKV kündigen, in GKV wechseln oder PKV-Schulden bereinigen: Vorau
 
 ## Skill-Zweck
 
-Wer die PKV kündigen oder in die GKV wechseln will, stößt auf enge Voraussetzungen. Dieser Skill klärt **Kündigungsrechte, PKV-Schulden und die Rückkehr zur GKV**.
+Wer die PKV kündigen oder in die GKV wechseln will, stößt auf enge Voraussetzungen. Kläre **Kündigungsrechte, PKV-Schulden und die Rückkehr zur GKV**.
 
 ## Rechtlicher Rahmen
 

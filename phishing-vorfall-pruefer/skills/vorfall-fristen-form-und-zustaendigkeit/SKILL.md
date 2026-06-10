@@ -1,6 +1,6 @@
 ---
 name: vorfall-fristen-form-und-zustaendigkeit
-description: "Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Vorfall: Fristen, Form, Zuständigkeit und Rechtsweg

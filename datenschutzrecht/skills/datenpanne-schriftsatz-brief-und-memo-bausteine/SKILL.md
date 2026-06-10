@@ -1,6 +1,6 @@
 ---
 name: datenpanne-schriftsatz-brief-und-memo-bausteine
-description: "Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine: Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine im Plugin datenschutzrecht."
+description: "Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine: Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
@@ -14,7 +14,7 @@ description: "Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine: Datenpanne: S
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine im Plugin datenschutzrecht.
+**Fokus:** Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine.
 
 ## Spezialwissen: Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.

@@ -19,7 +19,7 @@ Die Kommunikation nach außen während einer Internal Investigation unterliegt k
 
 ## Ziel dieses Skills
 
-Dieser Skill entwickelt eine kontrollierte Kommunikationsstrategie, die Reputationsschäden minimiert, gesetzliche Pflichten erfüllt und die Untersuchung nicht gefährdet.
+Entwickle eine kontrollierte Kommunikationsstrategie, die Reputationsschäden minimiert, gesetzliche Pflichten erfüllt und die Untersuchung nicht gefährdet.
 
 ## Arbeitsprogramm
 

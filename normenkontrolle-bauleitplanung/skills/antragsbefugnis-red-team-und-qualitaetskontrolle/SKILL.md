@@ -1,6 +1,6 @@
 ---
 name: antragsbefugnis-red-team-und-qualitaetskontrolle
-description: "Antragsbefugnis: Red-Team und Qualitätskontrolle im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Antragsbefugnis: Red-Team und Qualitätskontrolle."
 ---
 
 # Antragsbefugnis: Red-Team und Qualitätskontrolle

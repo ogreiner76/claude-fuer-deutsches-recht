@@ -15,7 +15,7 @@ description: "Statusfeststellungsverfahren nach § 7a SGB IV: Scheinselbstständ
 
 ## Skill-Zweck
 
-Wer als selbstständig gilt, muss sich selbst krankenversichern. Wenn der Status als scheinselbstständig festgestellt wird, drohen erhebliche Nachzahlungen. Dieser Skill klärt **Statusfeststellung, Krankenversicherungsfolgen und Abwehrstrategien**.
+Wer als selbstständig gilt, muss sich selbst krankenversichern. Wenn der Status als scheinselbstständig festgestellt wird, drohen erhebliche Nachzahlungen. Kläre **Statusfeststellung, Krankenversicherungsfolgen und Abwehrstrategien**.
 
 ## Rechtlicher Rahmen
 

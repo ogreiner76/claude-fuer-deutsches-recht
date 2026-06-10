@@ -1,6 +1,6 @@
 ---
 name: besitz-dokumentenmatrix-und-lueckenliste
-description: "Besitz: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Besitz: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Besitz: Dokumentenmatrix, Lückenliste und Nachforderung

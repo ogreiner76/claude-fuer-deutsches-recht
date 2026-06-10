@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill klärt, ob und in welchem Umfang MAR bei der Anleiheemission gilt, und steuert
+Kläre, ob und in welchem Umfang MAR bei der Anleiheemission gilt, und steuert
 die Compliance für Emittenten und Arrangeure.
 
 ## Arbeitsprogramm

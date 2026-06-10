@@ -1,6 +1,6 @@
 ---
 name: review-schriftsatz-brief-und-memo-bausteine
-description: "Review: Schriftsatz-, Brief- und Memo-Bausteine im Plugin ki governance im Ki Governance."
+description: "Review: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Review: Schriftsatz-, Brief- und Memo-Bausteine

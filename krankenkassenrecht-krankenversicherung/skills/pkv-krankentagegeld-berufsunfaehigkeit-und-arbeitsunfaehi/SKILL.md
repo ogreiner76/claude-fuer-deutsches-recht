@@ -15,7 +15,7 @@ description: "PKV-Krankentagegeld nach § 192 Abs. 5 VVG: Anspruchsvoraussetzung
 
 ## Skill-Zweck
 
-Das PKV-Krankentagegeld sichert das Einkommen bei Arbeitsunfähigkeit ab. Dieser Skill klärt **Anspruchsentstehung, Fortbestand und typische Einstellungsgründe** – insbesondere die gefährliche Schnittstelle zur Berufsunfähigkeit.
+Das PKV-Krankentagegeld sichert das Einkommen bei Arbeitsunfähigkeit ab. Kläre **Anspruchsentstehung, Fortbestand und typische Einstellungsgründe** – insbesondere die gefährliche Schnittstelle zur Berufsunfähigkeit.
 
 ## Rechtlicher Rahmen
 

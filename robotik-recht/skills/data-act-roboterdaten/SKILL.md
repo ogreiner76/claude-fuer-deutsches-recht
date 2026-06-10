@@ -11,7 +11,7 @@ description: "Prüft Data-Act-Fragen bei vernetzten Robotern: Nutzerdatenzugang,
 
 ## Worum geht es konkret
 
-Der Data Act (VO (EU) 2023/2854) ist seit 11.01.2024 in Kraft und gilt überwiegend ab 12.09.2025 (Art. 50). Vernetzte Roboter (industriell, im Service, im Haushalt) sind "connected products" i. S. d. Art. 2 Nr. 5 Data Act. Das löst Pflichten aus: Nutzerzugang zu den vom Produkt erzeugten Daten (Art. 4), Bereitstellung an Dritte auf Verlangen des Nutzers (Art. 5), B2G-Datenzugang bei besonderen Notlagen (Art. 14 ff.), Vertragsregeln bei B2B (Art. 13 unlautere Klauseln), Cloud-Switching (Art. 23 ff.) sowie Interoperabilität (Art. 28 ff.). Dieser Skill ordnet die Pflichten und gibt Vertragsbausteine.
+Der Data Act (VO (EU) 2023/2854) ist seit 11.01.2024 in Kraft und gilt überwiegend ab 12.09.2025 (Art. 50). Vernetzte Roboter (industriell, im Service, im Haushalt) sind "connected products" i. S. d. Art. 2 Nr. 5 Data Act. Das löst Pflichten aus: Nutzerzugang zu den vom Produkt erzeugten Daten (Art. 4), Bereitstellung an Dritte auf Verlangen des Nutzers (Art. 5), B2G-Datenzugang bei besonderen Notlagen (Art. 14 ff.), Vertragsregeln bei B2B (Art. 13 unlautere Klauseln), Cloud-Switching (Art. 23 ff.) sowie Interoperabilität (Art. 28 ff.). Ordne die Pflichten und gibt Vertragsbausteine.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

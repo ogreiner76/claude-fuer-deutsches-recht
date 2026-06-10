@@ -1,6 +1,6 @@
 ---
 name: petitionsausschuss-mandantenentscheidung
-description: "Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage im Plugin europarecht kompass im Europarecht Kompass."
+description: "Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage

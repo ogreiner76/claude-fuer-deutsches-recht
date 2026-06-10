@@ -96,29 +96,29 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `abstand-quellenkarte` | Abstand Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `akteneinsicht-internationaler-bezug-und-schnittstellen` | Akteneinsicht: Internationaler Bezug und Schnittstellen im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
-| `alkohol-compliance-dokumentation-und-akte` | Alkohol: Compliance-Dokumentation und Aktenvermerk im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
+| `akteneinsicht-internationaler-bezug-und-schnittstellen` | Akteneinsicht: Internationaler Bezug und Schnittstellen. |
+| `alkohol-compliance-dokumentation-und-akte` | Alkohol: Compliance-Dokumentation und Aktenvermerk. |
 | `alkohol-drogen-beweisverwertung` | Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: § 24a Abs. 1 StVG (0.5-Promille-Grenze), § 24a Abs. 2 StVG (Wirkstoffnachweis THC/Kokain/Amphetamin), § 81a StPO (B... |
-| `amtsgericht-drogen-interessen-einspruch` | Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
-| `anhoerung-verkehrsowi-einspruch-messverfahren` | Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
+| `amtsgericht-drogen-interessen-einspruch` | Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage. |
+| `anhoerung-verkehrsowi-einspruch-messverfahren` | Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `anschluss-routing` | Anschluss-Routing für Verkehrs-OWi-Verteidigung: wählt den nächsten Spezial-Skill nach Engpass (Einspruch 2 Wochen § 67 OWiG, Bußgeldbescheid, Anhörungsbogen, Messprotokoll), dokumentiert Router-Entscheidung mit Begründung. |
-| `bussgeldbescheid-tatbestand-beweis-und-belege` | Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
+| `bussgeldbescheid-tatbestand-beweis-und-belege` | Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `dokumente-intake` | Dokumentenintake für Verkehrs-OWi-Verteidigung: sortiert Bußgeldbescheid, Anhörungsbogen, Messprotokoll, prüft Datum, Absender, Frist und Beweiswert (Messprotokoll, Rohmessdaten); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
-| `drogen-mehrparteien-konflikt-und-interessen` | Drogen: Mehrparteienkonflikt und Interessenmatrix im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
-| `einspruch-dokumentenmatrix-und-lueckenliste` | Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
+| `drogen-mehrparteien-konflikt-und-interessen` | Drogen: Mehrparteienkonflikt und Interessenmatrix. |
+| `einspruch-dokumentenmatrix-und-lueckenliste` | Einspruch: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Verkehrs-OWi-Verteidigung: ordnet Rolle (Betroffener, Bußgeldbehörde, AG), markiert Frist (Einspruch 2 Wochen § 67 OWiG), wählt Norm (OWiG, StVO, StVG, BKatV) und Zuständigkeit (Bußgeldbehörde), leitet zu... |
-| `fahrverbot-geschwindigkeit-handy` | Fahrverbot: Behörden-, Gerichts- oder Registerweg im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
-| `geschwindigkeit-verhandlung-vergleich-und-eskalation` | Geschwindigkeit: Verhandlung, Vergleich und Eskalation im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
-| `handy-zahlen-schwellen-und-berechnung` | Handy: Zahlen, Schwellenwerte und Berechnung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
-| `hauptverhandlung-sonderfall-messakte-messung` | Hauptverhandlung: Sonderfall und Edge-Case-Prüfung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
+| `fahrverbot-geschwindigkeit-handy` | Fahrverbot: Behörden-, Gerichts- oder Registerweg. |
+| `geschwindigkeit-verhandlung-vergleich-und-eskalation` | Geschwindigkeit: Verhandlung, Vergleich und Eskalation. |
+| `handy-zahlen-schwellen-und-berechnung` | Handy: Zahlen, Schwellenwerte und Berechnung. |
+| `hauptverhandlung-sonderfall-messakte-messung` | Hauptverhandlung: Sonderfall und Edge-Case-Prüfung. |
 | `mandantenkommunikation` | Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoetigt verstaendliche Erklärung. Normen: BRAO § 43a (Beratungspflicht), § 67 OWiG, § 25 StVG. Prüfraster: Erstgespraeche-Leitfaden, Anhörungsbogen-Empfehlung,... |
 | `mandantenkommunikation-redteam-qualitygate` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Verkehrsowi Verteidiger. |
-| `messakte-formular-portal-und-einreichung` | Messakte: Formular, Portal und Einreichungslogik im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
+| `messakte-formular-portal-und-einreichung` | Messakte: Formular, Portal und Einreichungslogik. |
 | `messung-fahrverbot-punkte` | Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Verkehrsowi Verteidiger. |
 | `output-waehlen` | Output-Wahl für Verkehrs-OWi-Verteidigung: stimmt Adressat (Betroffener, Bußgeldbehörde, AG), Frist (Einspruch 2 Wochen § 67 OWiG) und Form auf den Zweck ab — typische Outputs: Einspruch, Akteneinsicht-Antrag, Sachverständigen-Antrag Mes... |
-| `punkte-rotlicht-verkehrsowi` | Punkte: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
+| `punkte-rotlicht-verkehrsowi` | Punkte: Risikoampel, Gegenargumente und Verteidigungslinien. |
 | `quellen-livecheck` | Quellen-Live-Check für Verkehrs-OWi-Verteidigung: prüft Normen (OWiG, StVO, StVG, BKatV) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Bußgeldbehörde und Quellenhygiene nach references/quellenhygiene.md. |
-| `rotlicht-schriftsatz-brief-und-memo-bausteine` | Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
+| `rotlicht-schriftsatz-brief-und-memo-bausteine` | Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `simulation-training-verjaehrung-zustellung` | Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Fallvarianten mit Erwartungshorizont. Training ohne echte Mandatsdaten im... |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Verkehrsowi Verteidiger-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Verkehrs-OWi-Verteidigung: trennt fehlende Tatsachen von fehlenden Belegen (Bußgeldbescheid, Anhörungsbogen, Messprotokoll), nennt pro Lücke Beweisthema, Beschaffungsweg (Bußgeldbehörde), Frist und Ersat... |
@@ -126,7 +126,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `verkehrsowi-akteneinsicht-messakte` | Verkehrsowi Akteneinsicht Messakte: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Verkehrsowi Verteidiger. |
 | `verkehrsowi-anhoerung-bussgeldbescheid` | Anhörung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat Anhörungsbogen oder Bußgeldbescheid erhalten. Normen: § 55 OWiG (Anhörung, Schweigerecht), § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67 OWiG (Einspruch 2-Woche... |
 | `verkehrsowi-beweisverwertung-standardisiert` | Verkehrsowi Beweisverwertung Standardisiert: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Verkehrsowi Verteidiger. |
-| `verkehrsowi-erstpruefung-und-mandatsziel` | Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
+| `verkehrsowi-erstpruefung-und-mandatsziel` | Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `verkehrsowi-fahreridentifizierung` | Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsre... |
 | `verkehrsowi-fristen-einspruch` | Einspruchsfrist im OWi-Verfahren berechnen und wahren: Drohende Rechtsbestandskraft des Bußgeldbescheids. Normen: § 67 OWiG (Einspruch 2 Wochen ab Zustellung), §§ 33 OWiG, 177-182 ZPO (Zustellungsfiktion), § 52 OWiG (Wiedereinsetzung), §... |
 | `verkehrsowi-haertefall-fahrverbot` | Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Führerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2a StVG (Wirkungszeitpunkt verschiebbar), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alt... |
@@ -140,7 +140,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `verkehrsowi-rotlicht-abstand-handy` | Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat Bußgeldbescheid wegen Rotlicht, zu geringem Abstand oder Handynutzung erhalten. Normen: § 37 StVO (Rotlicht: einfach vs. qualifiziert 1 Sekunde), § 4 StVO (Abstand-Berechnu... |
 | `verkehrsowi-verjaehrung-zustellung` | Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand erheben. Normen: § 26 StVG i.V.m. § 31 OWiG (Verjährungsfrist 3 Monate nach Tatende), § 33 OWiG (Unterbrechungshandlungen), absolute Verjährung 6 Monate. Prüfr... |
 | `verkehrsowi-zeugen-polizei-strategie` | Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als einziger Zeuge in der HV. Normen: § 240 StPO i.V.m. § 71 OWiG (Fragerecht), §§ 373 ff. StPO (Zeugenvernehmung). Prüfraster: Aussage-Konstanz (Protokoll vs. HV... |
-| `verteidiger-beweislast-verkehrsowi` | Verteidiger: Beweislast, Darlegungslast und Substantiierung im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger. |
+| `verteidiger-beweislast-verkehrsowi` | Verteidiger: Beweislast, Darlegungslast und Substantiierung. |
 | `vowi-akteneinsicht-rohmessdaten-leitfaden` | Leitfaden Akteneinsicht und Rohmessdaten in OWi-Verfahren: BVerfG- und OLG-Rechtsprechung, Sachverstaendigengutachten, standardisiertes Messverfahren: Leitfaden Akteneinsicht und Rohmessdaten in OWi-Verfahren: BVerfG- und OLG-Rechtsprech... |
 | `vowi-bussgeldbescheid-verkehrsowi-quality` | Bauleiter Pruefung Bussgeldbescheid OWiG: Tatvorwurf, Beweismittel, Hoehe, Rechtsfolgen Punkte und Fahrverbot. Pruefraster für Verteidiger im Erstgespraech im Verkehrsowi Verteidiger. |
 | `vowi-handyverstoss-akteneinsicht-alkohol` | Spezialfall Handy- und Geraeteverstoss § 23 Abs. 1a StVO: erfasste Geraete, Halten, Nutzen, Abgrenzung Sprachsteuerung. Pruefraster für Verteidiger im Verkehrsowi Verteidiger. |

@@ -1,6 +1,6 @@
 ---
 name: vertreter-beweislast-und-darlegungslast
-description: "Vertreter: Beweislast, Darlegungslast und Substantiierung im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Vertreter: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Vertreter: Beweislast, Darlegungslast und Substantiierung

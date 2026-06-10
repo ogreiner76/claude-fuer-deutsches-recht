@@ -1,6 +1,6 @@
 ---
 name: gate-beweislast-jveg-quality
-description: "Gate: Beweislast, Darlegungslast und Substantiierung im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Gate: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Gate: Beweislast, Darlegungslast und Substantiierung

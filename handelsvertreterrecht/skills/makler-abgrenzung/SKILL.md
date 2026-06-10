@@ -15,7 +15,7 @@ description: "Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 6
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Abgrenzung Handelsvertreter vom Makler nach §§ 84 HGB und 652 BGB.
+Unterstützt bei rechtlichen Fragen rund um Abgrenzung Handelsvertreter vom Makler nach §§ 84 HGB und 652 BGB.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.

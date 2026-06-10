@@ -1,6 +1,6 @@
 ---
 name: apothekenrecht-mehrparteien-konflikt-und-interessen
-description: "Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix: Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt medizinrecht."
+description: "Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix: Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix
@@ -14,7 +14,7 @@ description: "Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix: Apothek
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt medizinrecht.
+**Fokus:** Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix.
 
 ## Fachkern: Apothekenrecht: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

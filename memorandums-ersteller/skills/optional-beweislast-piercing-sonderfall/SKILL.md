@@ -1,6 +1,6 @@
 ---
 name: optional-beweislast-piercing-sonderfall
-description: "Optional: Beweislast, Darlegungslast und Substantiierung im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Optional: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Optional: Beweislast, Darlegungslast und Substantiierung

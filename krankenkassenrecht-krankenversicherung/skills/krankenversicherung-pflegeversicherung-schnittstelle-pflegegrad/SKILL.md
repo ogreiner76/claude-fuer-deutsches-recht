@@ -15,7 +15,7 @@ description: "Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Kranken
 
 ## Skill-Zweck
 
-GKV und Pflegeversicherung überschneiden sich bei Hilfsmitteln, Häuslicher Krankenpflege und Reha. Dieser Skill klärt die **Leistungsabgrenzung zwischen § 37 SGB V und SGB XI** und löst Zuständigkeitskonflikte.
+GKV und Pflegeversicherung überschneiden sich bei Hilfsmitteln, Häuslicher Krankenpflege und Reha. Kläre die **Leistungsabgrenzung zwischen § 37 SGB V und SGB XI** und löst Zuständigkeitskonflikte.
 
 ## Rechtlicher Rahmen
 

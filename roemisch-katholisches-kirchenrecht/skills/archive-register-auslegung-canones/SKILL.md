@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz**.
+Prüft insbesondere: **Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz**.
 
 **CIC-/Normanker:** can. 486-491, 535.
 

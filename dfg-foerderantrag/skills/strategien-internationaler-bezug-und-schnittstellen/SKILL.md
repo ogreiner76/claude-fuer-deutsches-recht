@@ -1,6 +1,6 @@
 ---
 name: strategien-internationaler-bezug-und-schnittstellen
-description: "Strategien: Internationaler Bezug und Schnittstellen im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Strategien: Internationaler Bezug und Schnittstellen."
 ---
 
 # Strategien: Internationaler Bezug und Schnittstellen

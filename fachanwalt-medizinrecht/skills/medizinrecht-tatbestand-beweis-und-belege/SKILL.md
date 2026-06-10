@@ -1,6 +1,6 @@
 ---
 name: medizinrecht-tatbestand-beweis-und-belege
-description: "Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt medizinrecht."
+description: "Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -14,7 +14,7 @@ description: "Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Med
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt medizinrecht.
+**Fokus:** Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage.
 
 ## Fachkern: Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

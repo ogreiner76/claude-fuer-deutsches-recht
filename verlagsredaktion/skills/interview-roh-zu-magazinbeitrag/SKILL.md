@@ -15,7 +15,7 @@ description: "Macht aus einem Interview-Transkript eine drucktaugliche Interview
 
 ## Worum geht es konkret
 
-Aus einer Stunde Tonbandgespraech mit einer Bundesrichterin oder einem Strafverteidiger werden vier Druckseiten Interview. Das ist nicht "abtippen", sondern Komposition. Sie kuerzen, sortieren, glaetten - und legen das Ergebnis der Interviewten zur Autorisierung vor. Dieser Skill fuehrt durch die Bearbeitung von Roh-Transkript bis zur autorisierten Druckfassung.
+Aus einer Stunde Tonbandgespraech mit einer Bundesrichterin oder einem Strafverteidiger werden vier Druckseiten Interview. Das ist nicht "abtippen", sondern Komposition. Sie kuerzen, sortieren, glaetten - und legen das Ergebnis der Interviewten zur Autorisierung vor. Führe durch die Bearbeitung von Roh-Transkript bis zur autorisierten Druckfassung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

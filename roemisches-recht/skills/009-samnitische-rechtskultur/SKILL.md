@@ -1,6 +1,6 @@
 ---
 name: 009-samnitische-rechtskultur
-description: "Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung im Römisches Recht: Dieser Skill bearbeitet Samnitische Rechtskultur Bundesgenossen und Militärordnung im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer han..."
+description: "Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung im Römisches Recht: Bearbeite Samnitische Rechtskultur Bundesgenossen und Militärordnung im Bereich Römisches Recht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer han..."
 ---
 
 # Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung

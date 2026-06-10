@@ -1,6 +1,6 @@
 ---
 name: transaktionsmonitoring-international-schnittstellen
-description: "Transaktionsmonitoring: Internationaler Bezug und Schnittstellen im Plugin geldwaeschepraevention aml kyc im Geldwaeschepraevention Aml Kyc."
+description: "Transaktionsmonitoring: Internationaler Bezug und Schnittstellen."
 ---
 
 # Transaktionsmonitoring: Internationaler Bezug und Schnittstellen

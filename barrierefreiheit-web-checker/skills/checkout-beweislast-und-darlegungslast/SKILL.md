@@ -1,6 +1,6 @@
 ---
 name: checkout-beweislast-und-darlegungslast
-description: "Checkout: Beweislast, Darlegungslast und Substantiierung im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Checkout: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Checkout: Beweislast, Darlegungslast und Substantiierung

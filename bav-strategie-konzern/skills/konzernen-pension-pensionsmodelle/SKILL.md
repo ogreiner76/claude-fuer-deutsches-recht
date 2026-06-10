@@ -1,6 +1,6 @@
 ---
 name: konzernen-pension-pensionsmodelle
-description: "Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung

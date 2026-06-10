@@ -1,6 +1,6 @@
 ---
 name: sperre-formular-portal-und-einreichung
-description: "Sperre: Formular, Portal und Einreichungslogik im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Sperre: Formular, Portal und Einreichungslogik."
 ---
 
 # Sperre: Formular, Portal und Einreichungslogik

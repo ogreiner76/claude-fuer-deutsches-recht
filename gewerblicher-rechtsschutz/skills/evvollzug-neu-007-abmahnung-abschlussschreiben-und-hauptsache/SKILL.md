@@ -15,7 +15,7 @@ description: "EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übe
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt den Schritt nach der vollzogenen einstweiligen Verfügung: den **Übergang von der EV in die Hauptsache** – entweder durch Abschlussschreiben und Abschlussvereinbarung oder durch Hauptsacheklage. Ohne diesen Schritt bleibt die EV ein vorläufiges Sicherungsmittel; die endgültige Klärung des Unterlassungsanspruchs steht aus.
+Behandelt den Schritt nach der vollzogenen einstweiligen Verfügung: den **Übergang von der EV in die Hauptsache** – entweder durch Abschlussschreiben und Abschlussvereinbarung oder durch Hauptsacheklage. Ohne diesen Schritt bleibt die EV ein vorläufiges Sicherungsmittel; die endgültige Klärung des Unterlassungsanspruchs steht aus.
 
 Mandatsbezug: Markeninhaber hat EV erwirkt und vollzogen; Schuldner hat weder Widerspruch eingelegt noch Hauptsache erzwungen. Jetzt muss Antragsteller entscheiden, ob er Abschlussschreiben sendet oder Hauptsacheklage erhebt. Umgekehrt: Schuldner sucht Wege, das Verfahren kostengünstig abzuschließen.
 

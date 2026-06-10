@@ -1,6 +1,6 @@
 ---
 name: private-dokumentenmatrix-und-lueckenliste
-description: "Private: Dokumentenmatrix, Lückenliste und Nachforderung: Private: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt versicherungsrecht."
+description: "Private: Dokumentenmatrix, Lückenliste und Nachforderung: Private: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Private: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Private: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt versicherungsrecht.
+**Fokus:** Private: Dokumentenmatrix, Lückenliste und Nachforderung.
 
 ## Spezialwissen: Private: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** VVG, VAG.

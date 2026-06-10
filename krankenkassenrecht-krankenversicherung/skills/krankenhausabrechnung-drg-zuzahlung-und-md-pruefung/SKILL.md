@@ -15,7 +15,7 @@ description: "Krankenhausabrechnung im DRG-System: Kodierung, Zuzahlungspflicht,
 
 ## Skill-Zweck
 
-Dieser Skill bearbeitet Streitigkeiten rund um **Krankenhausabrechnungen**: DRG-Kodierung, Zuzahlungspflicht des Versicherten, MD-Prüfverfahren der Kassen und Abrechnungskürzungen durch die Kasse gegenüber dem Krankenhaus.
+Bearbeite Streitigkeiten rund um **Krankenhausabrechnungen**: DRG-Kodierung, Zuzahlungspflicht des Versicherten, MD-Prüfverfahren der Kassen und Abrechnungskürzungen durch die Kasse gegenüber dem Krankenhaus.
 
 ## Rechtlicher Rahmen
 

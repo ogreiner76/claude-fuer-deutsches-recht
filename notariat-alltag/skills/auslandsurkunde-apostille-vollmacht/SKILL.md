@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, �
 
 ## Zweck und Anwendungsbereich
 
-Ausländische Urkunden müssen für die Verwendung in deutschen Registern und Verfahren besondere Förmlichkeiten erfüllen. Dieser Skill klärt, wann Apostille oder Legalisation nötig ist, welche Übersetzungsanforderungen gelten und wie die Registertauglichkeit geprüft wird.
+Ausländische Urkunden müssen für die Verwendung in deutschen Registern und Verfahren besondere Förmlichkeiten erfüllen. Kläre, wann Apostille oder Legalisation nötig ist, welche Übersetzungsanforderungen gelten und wie die Registertauglichkeit geprüft wird.
 
 Rechtsgrundlagen: Haager Apostillekonvention (HÜ) vom 5.10.1961, §§ 438 ZPO (öffentliche Urkunden), § 29 GBO (Grundbuchform), § 12 HGB (Handelsregisterform), § 13 BeurkG (Beurkundungsverfahren), EU-Verordnung 1191/2016 (EU-Befreiung), EuErbVO Art. 62–73 (ENZ), EGBGB Artt. 11–12 (Formstatut).
 

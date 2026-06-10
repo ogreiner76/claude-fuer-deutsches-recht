@@ -15,7 +15,7 @@ description: "Hilfsmittelanspruch nach § 33 SGB V: Hilfsmittelverzeichnis, Wirt
 
 ## Skill-Zweck
 
-Dieser Skill bearbeitet **Hilfsmittelversorgung** in der GKV: vom Antrag bis zur Ablehnung, von der Mehrkostenregelung bis zum Eilantrag. Schwerpunkte sind Rollstuhl, Hörgerät, CPAP/Beatmungsgeräte, Inkontinenzversorgung und orthetische Versorgung.
+Bearbeite **Hilfsmittelversorgung** in der GKV: vom Antrag bis zur Ablehnung, von der Mehrkostenregelung bis zum Eilantrag. Schwerpunkte sind Rollstuhl, Hörgerät, CPAP/Beatmungsgeräte, Inkontinenzversorgung und orthetische Versorgung.
 
 ## Rechtlicher Rahmen
 

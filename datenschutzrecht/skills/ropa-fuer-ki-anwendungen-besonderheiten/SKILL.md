@@ -7,7 +7,7 @@ description: "Besonderheiten des Verzeichnisses von Verarbeitungstaetigkeiten be
 
 ## Zweck
 
-Dieser Skill behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verzeichnis von Verarbeitungstaetigkeiten bei KI-Anwendungen abbilden muss. Die DSGVO-Vorgaben in Art. 30 DSGVO werden nicht ersetzt, aber durch KI-spezifische Fragestellungen erweitert: Trainingsdaten, Modellzweck, Vector Stores, Prompt- und Output-Logs, Drittlandtransfer ueber LLM-Anbieter, automatisierte Entscheidungsfindung nach Art. 22 DSGVO, sowie das Zusammenspiel mit der KI-Verordnung (KI-VO, VO (EU) 2024/1689).
+Behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verzeichnis von Verarbeitungstaetigkeiten bei KI-Anwendungen abbilden muss. Die DSGVO-Vorgaben in Art. 30 DSGVO werden nicht ersetzt, aber durch KI-spezifische Fragestellungen erweitert: Trainingsdaten, Modellzweck, Vector Stores, Prompt- und Output-Logs, Drittlandtransfer ueber LLM-Anbieter, automatisierte Entscheidungsfindung nach Art. 22 DSGVO, sowie das Zusammenspiel mit der KI-Verordnung (KI-VO, VO (EU) 2024/1689).
 
 ## Wann dieses Modul hilft
 

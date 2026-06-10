@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Lebensführung, Sakramentenstand, Alter, Elternrolle und Dokumentation**.
+Prüft insbesondere: **Lebensführung, Sakramentenstand, Alter, Elternrolle und Dokumentation**.
 
 **CIC-/Normanker:** can. 872-874, 892-893.
 

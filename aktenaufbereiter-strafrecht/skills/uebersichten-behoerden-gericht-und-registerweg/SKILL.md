@@ -1,6 +1,6 @@
 ---
 name: uebersichten-behoerden-gericht-und-registerweg
-description: "Uebersichten: Behörden-, Gerichts- oder Registerweg im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Uebersichten: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Uebersichten: Behörden-, Gerichts- oder Registerweg

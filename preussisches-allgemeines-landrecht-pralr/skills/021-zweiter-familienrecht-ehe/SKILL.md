@@ -1,6 +1,6 @@
 ---
 name: 021-zweiter-familienrecht-ehe
-description: "PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Zweiter Teil Familienrecht Ehe Vormundschaft im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen..."
+description: "PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft: Bearbeite den zweiten Teil Familienrecht Ehe Vormundschaft im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen..."
 ---
 
 # PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft

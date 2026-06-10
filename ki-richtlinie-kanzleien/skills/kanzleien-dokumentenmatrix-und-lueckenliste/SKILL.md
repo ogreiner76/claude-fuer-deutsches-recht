@@ -1,6 +1,6 @@
 ---
 name: kanzleien-dokumentenmatrix-und-lueckenliste
-description: "Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung

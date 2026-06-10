@@ -27,7 +27,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill identifiziert Insiderrisiken bei Berater-Depots und Treuhandkonten und
+Identifiziere Insiderrisiken bei Berater-Depots und Treuhandkonten und
 entwickelt Schutzmaßnahmen für Berater und ihre Mandanten.
 
 ## Arbeitsprogramm

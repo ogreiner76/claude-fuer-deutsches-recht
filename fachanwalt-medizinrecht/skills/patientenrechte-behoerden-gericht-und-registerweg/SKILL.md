@@ -1,6 +1,6 @@
 ---
 name: patientenrechte-behoerden-gericht-und-registerweg
-description: "Patientenrechte: Behörden-, Gerichts- oder Registerweg: Patientenrechte: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt medizinrecht."
+description: "Patientenrechte: Behörden-, Gerichts- oder Registerweg: Patientenrechte: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Patientenrechte: Behörden-, Gerichts- oder Registerweg
@@ -14,7 +14,7 @@ description: "Patientenrechte: Behörden-, Gerichts- oder Registerweg: Patienten
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Patientenrechte: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt medizinrecht.
+**Fokus:** Patientenrechte: Behörden-, Gerichts- oder Registerweg.
 
 ## Fachkern: Patientenrechte: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

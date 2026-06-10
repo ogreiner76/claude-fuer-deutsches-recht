@@ -1,6 +1,6 @@
 ---
 name: beweismittel-mehrparteien-konflikt-und-interessen
-description: "Beweismittel: Mehrparteienkonflikt und Interessenmatrix im Plugin aktenauszug gerichtsverfahren im Aktenauszug Gerichtsverfahren."
+description: "Beweismittel: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Beweismittel: Mehrparteienkonflikt und Interessenmatrix

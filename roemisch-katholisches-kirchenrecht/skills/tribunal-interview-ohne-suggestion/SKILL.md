@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Ehe- oder Statussachverhalte ohne künstliche Formung**.
+Prüft insbesondere: **Ehe- oder Statussachverhalte ohne künstliche Formung**.
 
 **CIC-/Normanker:** can. 1526-1586, 1671-1691.
 

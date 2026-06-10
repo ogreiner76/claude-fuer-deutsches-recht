@@ -1,6 +1,6 @@
 ---
 name: brki-rollout-trainings-workflow
-description: "BRKI: Rollout-Trainings im Plugin Berufsrecht Ki Vertragspruefung: 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch? 3. Fristen: Gibt es Termi..."
+description: "BRKI: Rollout-Trainings: 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Sachverhalt: Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch? 3. Fristen: Gibt es Termi..."
 ---
 
 # BRKI: Rollout-Trainings

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **lateinische Wendungen mit moderner Erklärung**.
+Prüft insbesondere: **lateinische Wendungen mit moderner Erklärung**.
 
 **CIC-/Normanker:** can. 37, 54-58, 1612.
 

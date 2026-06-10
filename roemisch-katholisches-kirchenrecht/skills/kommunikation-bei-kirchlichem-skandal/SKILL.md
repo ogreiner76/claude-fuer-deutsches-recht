@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Betroffene, Ruf, Wahrheit, Verfahren und Glaubwürdigkeit**.
+Prüft insbesondere: **Betroffene, Ruf, Wahrheit, Verfahren und Glaubwürdigkeit**.
 
 **CIC-/Normanker:** can. 1717, 220, 223.
 

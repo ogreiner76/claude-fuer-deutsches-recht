@@ -1,6 +1,6 @@
 ---
 name: duesseldorfer-sonderfall-und-edge-case
-description: "Duesseldorfer: Sonderfall und Edge-Case-Prüfung im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Duesseldorfer: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Duesseldorfer: Sonderfall und Edge-Case-Prüfung

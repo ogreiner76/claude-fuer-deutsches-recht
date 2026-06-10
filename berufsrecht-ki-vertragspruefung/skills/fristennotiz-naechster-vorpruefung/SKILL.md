@@ -1,6 +1,6 @@
 ---
 name: fristennotiz-naechster-vorpruefung
-description: "Vertragspruefung: Fristennotiz und nächster Schritt im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Vertragspruefung: Fristennotiz und nächster Schritt."
 ---
 
 # Vertragspruefung: Fristennotiz und nächster Schritt

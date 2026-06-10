@@ -1,6 +1,6 @@
 ---
 name: forschungsdatenzugang-mehrparteienkonflikt
-description: "Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix

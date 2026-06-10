@@ -1,6 +1,6 @@
 ---
 name: sortiert-risikoampel-gegenargumente
-description: "Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin Anlagen Zu Schriftsaetzen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrens..."
+description: "Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrens..."
 ---
 
 # Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -21,7 +21,7 @@ Arbeitsfokus: **Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien**.
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Spezialwissen: Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Konkreter Gegenstand:** Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin anlagen zu schriftsaetzen..
+- **Konkreter Gegenstand:** Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien.
 - **Normen-/Verfahrensanker:** ZPO/StPO/VwGO/ArbGG/SGG je nach Verfahren, beA-/ERV-Anforderungen, Anlagenlogik, Beweisangebot, Schwärzung und Dateiorganisation.
 - **Entscheidende Weiche:** Anlage nur aufnehmen, wenn sie eine konkrete Behauptung trägt; Nummerierung, Fundstelle, Dateiname, OCR, Schwärzung und Versandfähigkeit müssen zusammenpassen.
 - **Arbeitsprodukt:** Erstelle eine fallbezogene Matrix `Behauptung / Norm / Beleg / Risiko / Gegenargument / nächster Schritt`; keine bloße Wiederholung des allgemeinen Plugin-Workflows.

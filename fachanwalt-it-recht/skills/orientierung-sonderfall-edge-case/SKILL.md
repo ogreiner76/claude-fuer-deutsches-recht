@@ -1,6 +1,6 @@
 ---
 name: orientierung-sonderfall-edge-case
-description: "Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt it recht."
+description: "Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Orientierung: Sonderfall und Edge-Case-Prüfung
@@ -14,7 +14,7 @@ description: "Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Son
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt it recht.
+**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung.
 
 ## Spezialwissen: Orientierung: Sonderfall und Edge-Case-Prüfung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.

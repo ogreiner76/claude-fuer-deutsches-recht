@@ -26,7 +26,7 @@ Checkliste Forderungsdatenraum Factoring: prüft die einschlägigen Voraussetzun
 
 Ein **Forderungsdatenraum** ist die strukturierte Sammlung aller Unterlagen, die ein Factor benötigt, um ein neues Mandat aufzunehmen, eine Sonderprüfung zu fahren oder eine Forderungsportfolio-Transaktion zu strukturieren (Forderungsverkauf an SPV, NPL-Sale, Portfolio-Refinanzierung). Ohne sauberen Datenraum keine belastbare Pricing-Entscheidung und keine bilanzielle Trennung.
 
-Die Checkliste deckt vier Ebenen ab: (1) **Verkäuferebene** – Unterlagen zum Kunden selbst, (2) **Vertragsebene** – Verträge mit Debitoren, (3) **Forderungsebene** – Einzelforderungen mit Belegen, (4) **Sicherheitenebene** – Globalzessionen, Eigentumsvorbehalte, Bürgschaften. Dieser Skill liefert eine reproduzierbare Liste, die dem Datenraum-Inhalt-Index entspricht.
+Die Checkliste deckt vier Ebenen ab: (1) **Verkäuferebene** – Unterlagen zum Kunden selbst, (2) **Vertragsebene** – Verträge mit Debitoren, (3) **Forderungsebene** – Einzelforderungen mit Belegen, (4) **Sicherheitenebene** – Globalzessionen, Eigentumsvorbehalte, Bürgschaften. Liefere eine reproduzierbare Liste, die dem Datenraum-Inhalt-Index entspricht.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

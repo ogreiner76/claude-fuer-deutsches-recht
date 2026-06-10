@@ -1,6 +1,6 @@
 ---
 name: schiedsklausel-formular-portal-und-einreichung
-description: "Schiedsklausel: Formular, Portal und Einreichungslogik: Schiedsklausel: Formular, Portal und Einreichungslogik im Plugin fachanwalt internationales wirtschaftsrecht."
+description: "Schiedsklausel: Formular, Portal und Einreichungslogik: Schiedsklausel: Formular, Portal und Einreichungslogik."
 ---
 
 # Schiedsklausel: Formular, Portal und Einreichungslogik
@@ -14,7 +14,7 @@ description: "Schiedsklausel: Formular, Portal und Einreichungslogik: Schiedskla
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Schiedsklausel: Formular, Portal und Einreichungslogik im Plugin fachanwalt internationales wirtschaftsrecht.
+**Fokus:** Schiedsklausel: Formular, Portal und Einreichungslogik.
 
 ## Spezialwissen: Schiedsklausel: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** CISG, II, ICC, UNCITRAL, ICSID, WTO, EU, LkSG.

@@ -1,6 +1,6 @@
 ---
 name: planung-internationaler-bezug-und-schnittstellen
-description: "Planung: Internationaler Bezug und Schnittstellen im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Planung: Internationaler Bezug und Schnittstellen."
 ---
 
 # Planung: Internationaler Bezug und Schnittstellen

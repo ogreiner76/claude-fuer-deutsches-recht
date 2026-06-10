@@ -1,6 +1,6 @@
 ---
 name: mpdg-compliance-dokumentation-und-akte
-description: "Mpdg: Compliance-Dokumentation und Aktenvermerk: Mpdg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt medizinrecht."
+description: "Mpdg: Compliance-Dokumentation und Aktenvermerk: Mpdg: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Mpdg: Compliance-Dokumentation und Aktenvermerk
@@ -14,7 +14,7 @@ description: "Mpdg: Compliance-Dokumentation und Aktenvermerk: Mpdg: Compliance-
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Mpdg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt medizinrecht.
+**Fokus:** Mpdg: Compliance-Dokumentation und Aktenvermerk.
 
 ## Fachkern: Mpdg: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.

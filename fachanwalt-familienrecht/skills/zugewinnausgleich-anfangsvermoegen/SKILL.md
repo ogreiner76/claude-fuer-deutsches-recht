@@ -7,7 +7,7 @@ description: "Zugewinnausgleich Anfangsvermoegen: fachanwaltlicher Spezial-Skill
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Zugewinnausgleich Anfangsvermoegen** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Zugewinnausgleich Anfangsvermoegen** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

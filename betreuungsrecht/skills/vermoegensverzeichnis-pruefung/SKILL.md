@@ -7,7 +7,7 @@ description: "Vermögensverzeichnis für Betreuung prüfen und erstellen: Betreu
 
 ## Zweck
 
-Dieser Skill unterstützt den rechtlichen Betreuer mit Aufgabenkreis
+Unterstützt den rechtlichen Betreuer mit Aufgabenkreis
 Vermögenssorge bei der **Erstellung des Anfangs-Vermögensverzeichnisses**
 nach § 1835 Abs. 1 BGB (bei Übernahme der Betreuung), der laufenden
 Verwaltung mündelsicher angelegten Vermögens nach § 1839 BGB sowie der
@@ -139,8 +139,8 @@ Betreuer: [Name, BtOG-Reg.-Nr.]
 A. Geldvermögen
  | Konto | IBAN | Saldo | Sperrvermerk |
  |----------------------|-------------------|-----------|--------------|
- | Sparkasse Berlin Giro | DE.. .. .. .. | 1.234 EUR | nein |
- | Sparkasse Spar | DE.. .. .. .. | 12.000 EUR| ja |
+ | Sparkasse Berlin Giro | DE. . . . | 1.234 EUR | nein |
+ | Sparkasse Spar | DE. . . . | 12.000 EUR| ja |
 
 B. Immobilien
  [Anschrift, Grundbuchblatt, geschätzter Verkehrswert]

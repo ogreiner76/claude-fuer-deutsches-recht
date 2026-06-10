@@ -1,6 +1,6 @@
 ---
 name: starug-stabilisierungsanordnung-vollstreckungsstopp
-description: "Stabilisierungsanordnung: Red-Team und Qualitätskontrolle im Plugin Krisenfrueherkennung Starug: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensst..."
+description: "Stabilisierungsanordnung: Red-Team und Qualitätskontrolle: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensst..."
 ---
 
 # Stabilisierungsanordnung: Red-Team und Qualitätskontrolle

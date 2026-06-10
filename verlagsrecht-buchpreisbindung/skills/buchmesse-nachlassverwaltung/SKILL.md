@@ -15,7 +15,7 @@ description: "Verlagsrecht: Rechtehandel auf Buchmessen (Frankfurt, Bologna) —
 
 ## Zweck dieses Skills
 
-Buchmessen (Frankfurt, Bologna, London, BEA) sind die wichtigsten Plattformen für den **internationalen Rechtehandel**. Dieser Skill klärt die rechtlichen Instrumentarien vor, während und nach dem Rechtsgespräch: NDA, Letter of Intent, Exklusivitätsvereinbarungen und Vorbereitung bindender Lizenzverträge.
+Buchmessen (Frankfurt, Bologna, London, BEA) sind die wichtigsten Plattformen für den **internationalen Rechtehandel**. Kläre die rechtlichen Instrumentarien vor, während und nach dem Rechtsgespräch: NDA, Letter of Intent, Exklusivitätsvereinbarungen und Vorbereitung bindender Lizenzverträge.
 
 ## Rechtsgrundlagen
 

@@ -28,7 +28,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill steuert die Sofortreaktion auf einen Informationsleak, koordiniert die
+Steuert die Sofortreaktion auf einen Informationsleak, koordiniert die
 Veröffentlichungspflicht, sichert Beweise für die interne Untersuchung und managt die
 Kommunikation nach außen.
 

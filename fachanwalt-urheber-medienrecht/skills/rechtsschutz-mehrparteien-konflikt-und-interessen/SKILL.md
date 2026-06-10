@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-mehrparteien-konflikt-und-interessen
-description: "Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix: Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt urheber medienrecht."
+description: "Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix: Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix
@@ -14,7 +14,7 @@ description: "Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix: Rechtssch
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt urheber medienrecht.
+**Fokus:** Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix.
 
 ## Spezialwissen: Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** UrhG, UWG, KUG.

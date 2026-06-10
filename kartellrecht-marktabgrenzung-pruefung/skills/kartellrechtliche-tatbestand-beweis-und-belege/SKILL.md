@@ -1,6 +1,6 @@
 ---
 name: kartellrechtliche-tatbestand-beweis-und-belege
-description: "Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Kartellrechtliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

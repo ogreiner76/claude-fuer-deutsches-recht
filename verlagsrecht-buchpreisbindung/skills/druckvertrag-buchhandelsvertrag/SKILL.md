@@ -15,7 +15,7 @@ description: "Verlagsrecht: Druckverträge, Papierlieferengpässe, Lieferverzug 
 
 ## Zweck dieses Skills
 
-Druckverträge zwischen Verlagen und Druckereien sind **Werkverträge**, die eigene Mängelrechte, Fristen und Haftungsregeln kennen. Papierlieferengpässe (wie 2021–2023) und Logistikstörungen können erhebliche Verzögerungen verursachen. Dieser Skill klärt Rechte und Pflichten, Force-Majeure-Klauseln und Schadensersatz.
+Druckverträge zwischen Verlagen und Druckereien sind **Werkverträge**, die eigene Mängelrechte, Fristen und Haftungsregeln kennen. Papierlieferengpässe (wie 2021–2023) und Logistikstörungen können erhebliche Verzögerungen verursachen. Kläre Rechte und Pflichten, Force-Majeure-Klauseln und Schadensersatz.
 
 ## Rechtsgrundlagen
 

@@ -1,6 +1,6 @@
 ---
 name: verlust-zeichenbudgets
-description: "Verlust: Formular, Portal und Einreichungslogik im Plugin forschungszulage antragstellung im Forschungszulage."
+description: "Verlust: Formular, Portal und Einreichungslogik."
 ---
 
 # Verlust: Formular, Portal und Einreichungslogik

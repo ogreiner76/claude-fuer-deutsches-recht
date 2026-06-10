@@ -1,6 +1,6 @@
 ---
 name: restrukturierung-beweislast-stil-strategische
-description: "Restrukturierung: Beweislast, Darlegungslast und Substantiierung im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Restrukturierung: Beweislast, Darlegungslast und Substantiierung."
 ---
 
 # Restrukturierung: Beweislast, Darlegungslast und Substantiierung

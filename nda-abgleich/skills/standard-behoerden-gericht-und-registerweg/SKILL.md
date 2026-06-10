@@ -1,6 +1,6 @@
 ---
 name: standard-behoerden-gericht-und-registerweg
-description: "Standard: Behörden-, Gerichts- oder Registerweg im Plugin nda abgleich im NDA-Abgleich."
+description: "Standard: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Standard: Behörden-, Gerichts- oder Registerweg

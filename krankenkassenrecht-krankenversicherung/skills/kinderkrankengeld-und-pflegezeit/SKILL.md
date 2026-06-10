@@ -15,7 +15,7 @@ description: "Kinderkrankengeld nach § 45 SGB V: Anspruch, Dauer, Erweiterung d
 
 ## Skill-Zweck
 
-Dieser Skill klärt den **Anspruch auf Kinderkrankengeld** bei Betreuung erkrankter Kinder, die seit Covid-Pandemie erhöhten Anspruchszeiten und Abgrenzungen zur Pflegezeit.
+Klärt den **Anspruch auf Kinderkrankengeld** bei Betreuung erkrankter Kinder, die seit Covid-Pandemie erhöhten Anspruchszeiten und Abgrenzungen zur Pflegezeit.
 
 ## Rechtlicher Rahmen
 

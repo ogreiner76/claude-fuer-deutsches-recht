@@ -1,6 +1,6 @@
 ---
 name: staendische-ordnung-und-gutsuntertaenigkeit
-description: "PrALR: ständische Ordnung, Adel, Bauern, Gutsuntertänigkeit, Zunft- und Statuslogik quellenkritisch prüfen im Preußisches Allgemeines Landrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "PrALR: ständische Ordnung, Adel, Bauern, Gutsuntertänigkeit, Zunft- und Statuslogik quellenkritisch prüfen: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Ständische Ordnung

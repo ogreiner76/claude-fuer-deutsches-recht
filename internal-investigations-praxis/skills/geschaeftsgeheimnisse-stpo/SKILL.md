@@ -19,7 +19,7 @@ Untersuchungsberichte, Interviewprotokolle und forensische Analyseergebnisse kö
 
 ## Ziel dieses Skills
 
-Dieser Skill klärt, welche Untersuchungsergebnisse als Geschäftsgeheimnisse zu qualifizieren sind, welche Schutzmaßnahmen erforderlich sind und wo der Schutz an Grenzen stößt – insbesondere wenn Whistleblower oder Behörden involviert sind.
+Kläre, welche Untersuchungsergebnisse als Geschäftsgeheimnisse zu qualifizieren sind, welche Schutzmaßnahmen erforderlich sind und wo der Schutz an Grenzen stößt – insbesondere wenn Whistleblower oder Behörden involviert sind.
 
 ## Arbeitsprogramm
 

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch**.
+Prüft insbesondere: **Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch**.
 
 **CIC-/Normanker:** can. 897-958, 912-923.
 

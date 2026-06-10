@@ -36,7 +36,7 @@ Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutach
 
 ## Grundproblem
 
-In zivilprozessualen Verfahren kommt es zunehmend vor, dass eine Partei einwendet, das gerichtlich beauftragte Sachverständigengutachten sei (teilweise) unter Einsatz von KI-Werkzeugen erstellt worden. Solche Vorwürfe können erhebliche Konsequenzen haben — von der Reduzierung der Sachverständigenvergütung bis zur Unverwertbarkeit des Gutachtens. Dieser Skill strukturiert die anwaltliche Prüfung.
+In zivilprozessualen Verfahren kommt es zunehmend vor, dass eine Partei einwendet, das gerichtlich beauftragte Sachverständigengutachten sei (teilweise) unter Einsatz von KI-Werkzeugen erstellt worden. Solche Vorwürfe können erhebliche Konsequenzen haben — von der Reduzierung der Sachverständigenvergütung bis zur Unverwertbarkeit des Gutachtens. Strukturiere die anwaltliche Prüfung.
 
 ## Rechtsgrundlagen
 

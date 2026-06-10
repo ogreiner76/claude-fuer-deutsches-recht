@@ -1,6 +1,6 @@
 ---
 name: bmwsb-bau-bauproduktenrecht-technische
-description: "Sachbereich Bau- und Planungsrecht (BauGB; BauNVO) im Geschaeftsbereich BMWSB: Normbestand (BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.); Akteure (BMWSB; Länder-Bauaufsicht; Kommunen; OVG.); EU-Bezug (UVP-RL; SUP-RL; FFH-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Ko — Arbeitskontext: Legistik-Werkstatt (Gesetzgebung), Schwerpunkt bmwsb bau bauproduktenrecht technische."
+description: "Sachbereich Bau- und Planungsrecht (BauGB; BauNVO) im Geschaeftsbereich BMWSB: Normbestand (BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.); Akteure (BMWSB; Länder-Bauaufsicht; Kommunen; OVG.); EU-Bezug (UVP-RL; SUP-RL; FFH-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Ko"
 ---
 
 # Bau- und Planungsrecht (BauGB; BauNVO) (BMWSB)

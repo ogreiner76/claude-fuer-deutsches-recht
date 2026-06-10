@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein und Portugiesisch**.
+Prüft insbesondere: **Deutsch, Englisch, Spanisch, Italienisch, Arabisch, Latein und Portugiesisch**.
 
 **CIC-/Normanker:** can. 747-755, 762-772.
 

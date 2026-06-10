@@ -1,6 +1,6 @@
 ---
 name: kabinettsentwuerfe-compliance-dokumentation-und-akte
-description: "Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk im Plugin legistik werkstatt im Legistik."
+description: "Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk

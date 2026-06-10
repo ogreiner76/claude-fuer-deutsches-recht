@@ -1,6 +1,6 @@
 ---
 name: anfechtung-antragsbefugnis-red-team-korrektur
-description: "Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage

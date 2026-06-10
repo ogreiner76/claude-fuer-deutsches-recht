@@ -1,6 +1,6 @@
 ---
 name: luecken-mandantenkommunikation-entscheidungsvorlage
-description: "Luecken: Mandantenkommunikation und Entscheidungsvorlage im Plugin aktenaufbereiter strafrecht im Strafrechts-Aktenaufbereiter."
+description: "Luecken: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Luecken: Mandantenkommunikation und Entscheidungsvorlage

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Pfarreistruktur, Pfarrerrolle, Vermögensrat und Mitwirkung**.
+Prüft insbesondere: **Pfarreistruktur, Pfarrerrolle, Vermögensrat und Mitwirkung**.
 
 **CIC-/Normanker:** can. 515-552, 536-537.
 

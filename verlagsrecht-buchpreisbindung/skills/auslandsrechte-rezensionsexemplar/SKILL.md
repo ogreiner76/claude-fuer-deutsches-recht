@@ -15,7 +15,7 @@ description: "Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle
 
 ## Zweck dieses Skills
 
-Verlage, die Lizenzen an ausländische Verlage vergeben, müssen **Sanktionsrecht** und Exportkontrolle beachten. Lizenzen an Verlage in sanktionierten Ländern (z.B. Russland, Iran, Nordkorea) können gegen EU-Sanktionsverordnungen oder US-OFAC-Regelungen verstoßen. Dieser Skill klärt die Compliance-Anforderungen.
+Verlage, die Lizenzen an ausländische Verlage vergeben, müssen **Sanktionsrecht** und Exportkontrolle beachten. Lizenzen an Verlage in sanktionierten Ländern (z.B. Russland, Iran, Nordkorea) können gegen EU-Sanktionsverordnungen oder US-OFAC-Regelungen verstoßen. Kläre die Compliance-Anforderungen.
 
 ## Rechtsgrundlagen
 

@@ -31,7 +31,7 @@ Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Arbeits
 
 **Plugin-Fokus:** Arbeitsrecht mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: BAG/BSG-Linien zu Equal Pay/Paarvergleich, Mindesturlaub, Freistellungsklauseln, Statusfeststellung und Lohn/SV nur mit freier Quelle. Individualkündigung, KSchG-Klage, Drei-Wochen-Frist, Aufhebungsvertrag/Sperrzeit, Abmahnung, Betriebsratsanhörung § 102 BetrVG, TzBfG.
 
-Wenn der Nutzer noch gar nicht weiss, was eigentlich das arbeitsrechtliche Problem ist, starte mit `arbeitsrecht-problem-sortieren`. Dieser Skill ordnet Rolle, Ziel, Fristen, Unterlagen, Konfliktintensitaet und Ausgabeformat, bevor Kündigung, Befristung, Lohn, Betriebsrat oder AGG vertieft werden.
+Wenn der Nutzer noch gar nicht weiss, was eigentlich das arbeitsrechtliche Problem ist, starte mit `arbeitsrecht-problem-sortieren`. Ordne Rolle, Ziel, Fristen, Unterlagen, Konfliktintensitaet und Ausgabeformat, bevor Kündigung, Befristung, Lohn, Betriebsrat oder AGG vertieft werden.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 

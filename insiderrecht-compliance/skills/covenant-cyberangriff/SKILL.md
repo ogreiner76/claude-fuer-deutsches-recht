@@ -27,7 +27,7 @@ Rechtsgrundlagen:
 
 ## Ziel dieses Skills
 
-Dieser Skill prüft, ob eine Covenant-Verletzung eine Insiderinformation und Ad-hoc-Pflicht
+Prüfe, ob eine Covenant-Verletzung eine Insiderinformation und Ad-hoc-Pflicht
 auslöst, und entwickelt die Compliance-Strategie für Emittent und Kreditgeber.
 
 ## Arbeitsprogramm

@@ -1,6 +1,6 @@
 ---
 name: dsa-eidas-einordnung
-description: "DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage

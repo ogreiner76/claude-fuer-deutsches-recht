@@ -19,7 +19,7 @@ Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleic
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Vergleich und außergerichtliche Einigung im Handelsvertreterstreit.
+Unterstützt bei rechtlichen Fragen rund um Vergleich und außergerichtliche Einigung im Handelsvertreterstreit.
 Er deckt HGB §§ 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 Zwingende Normen (§ 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.

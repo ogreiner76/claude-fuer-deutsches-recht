@@ -1,6 +1,6 @@
 ---
 name: juristisches-questions-fristennotiz
-description: "Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Juristisches: Fristen, Form, Zuständigkeit und Rechtsweg

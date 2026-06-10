@@ -15,7 +15,7 @@ description: "Krankenversicherungsleistungen für Kinder: sozialpädiatrische Ze
 
 ## Skill-Zweck
 
-Kinder mit Entwicklungsstörungen, Behinderungen oder chronischen Erkrankungen benötigen oft komplexe Versorgung. Dieser Skill klärt **welche Leistungen die Krankenkasse schuldet** – und wo die Abgrenzung zu Eingliederungshilfe, Schule und Jugendhilfe liegt.
+Kinder mit Entwicklungsstörungen, Behinderungen oder chronischen Erkrankungen benötigen oft komplexe Versorgung. Kläre **welche Leistungen die Krankenkasse schuldet** – und wo die Abgrenzung zu Eingliederungshilfe, Schule und Jugendhilfe liegt.
 
 ## Rechtlicher Rahmen
 

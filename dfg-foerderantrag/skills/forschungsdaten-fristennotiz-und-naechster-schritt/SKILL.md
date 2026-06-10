@@ -1,6 +1,6 @@
 ---
 name: forschungsdaten-fristennotiz-und-naechster-schritt
-description: "Forschungsdaten: Fristennotiz und nächster Schritt im Plugin dfg foerderantrag im DFG-Förderantrag."
+description: "Forschungsdaten: Fristennotiz und nächster Schritt."
 ---
 
 # Forschungsdaten: Fristennotiz und nächster Schritt

@@ -1,6 +1,6 @@
 ---
 name: dankt-dsgvo-sonderfall-e-mail
-description: "Dankt: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Dankt: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Dankt: Risikoampel, Gegenargumente und Verteidigungslinien

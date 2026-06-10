@@ -1,6 +1,6 @@
 ---
 name: wphg-tatbestand-beweis-und-belege
-description: "Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin regulatorisches recht im Regulatorisches Recht."
+description: "Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Wphg: Tatbestandsmerkmale, Beweisfragen und Beleglage

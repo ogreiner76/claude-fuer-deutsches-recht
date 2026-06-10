@@ -15,7 +15,7 @@ description: "Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschu
 
 ## Zweck dieses Skills
 
-Das Verlegerrecht ist historisch und aktuell umstritten. Dieser Skill klärt die Geschichte des Verlegerschutzes, das neu geschaffene **Leistungsschutzrecht des Presseverlegers** (§ 87f UrhG), das Verlegeranteil-Problem bei VG Wort (BGH 2016) und die Grenzen des aktuellen Verlegerrechts.
+Das Verlegerrecht ist historisch und aktuell umstritten. Kläre die Geschichte des Verlegerschutzes, das neu geschaffene **Leistungsschutzrecht des Presseverlegers** (§ 87f UrhG), das Verlegeranteil-Problem bei VG Wort (BGH 2016) und die Grenzen des aktuellen Verlegerrechts.
 
 ## Rechtsgrundlagen
 

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Ausnahmeinstrumente, Zuständigkeit, Grund, Form und Widerruf**.
+Prüft insbesondere: **Ausnahmeinstrumente, Zuständigkeit, Grund, Form und Widerruf**.
 
 **CIC-/Normanker:** can. 76-93, 85-93.
 

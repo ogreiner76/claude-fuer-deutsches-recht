@@ -1,6 +1,6 @@
 ---
 name: zwangsbehandlung-beweislast-darlegungslast
-description: "Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung im Plugin Betreuungsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
+description: "Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe i..."
 ---
 
 # Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung

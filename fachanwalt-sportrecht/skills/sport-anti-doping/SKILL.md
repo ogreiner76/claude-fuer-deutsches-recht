@@ -7,7 +7,7 @@ description: "Sport Anti Doping: fachanwaltlicher Spezial-Skill mit Normenanker,
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **Sport Anti Doping** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Sport Anti Doping** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

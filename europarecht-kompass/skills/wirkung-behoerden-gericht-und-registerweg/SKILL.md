@@ -1,6 +1,6 @@
 ---
 name: wirkung-behoerden-gericht-und-registerweg
-description: "Wirkung: Behörden-, Gerichts- oder Registerweg: Wirkung: Behörden-, Gerichts- oder Registerweg im Plugin europarecht kompass."
+description: "Wirkung: Behörden-, Gerichts- oder Registerweg: Wirkung: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Wirkung: Behörden-, Gerichts- oder Registerweg
@@ -14,7 +14,7 @@ description: "Wirkung: Behörden-, Gerichts- oder Registerweg: Wirkung: Behörde
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. 267 AEUV, Nichtigkeitsklage, Beschwerde an EU-KOM, Stellungnahme im Vertragsverletzungsverfahren, Notifizierung, EuGH-Urteilsbeleg — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Wirkung: Behörden-, Gerichts- oder Registerweg im Plugin europarecht kompass.
+**Fokus:** Wirkung: Behörden-, Gerichts- oder Registerweg.
 
 ## Spezialwissen: Wirkung: Behörden-, Gerichts- oder Registerweg
 - **Normen-/Quellenanker:** EU.

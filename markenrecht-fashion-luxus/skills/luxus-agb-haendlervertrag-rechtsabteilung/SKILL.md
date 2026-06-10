@@ -1,6 +1,6 @@
 ---
 name: luxus-agb-haendlervertrag-rechtsabteilung
-description: "Luxus: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "Luxus: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Luxus: Fristen, Form, Zuständigkeit und Rechtsweg

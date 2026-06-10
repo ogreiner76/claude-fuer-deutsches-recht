@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Abwicklung Todesfall eines Beteiligten vor Vol
 
 ## Zweck und Anwendungsbereich
 
-Der Tod eines Beteiligten vor Abschluss des Vollzugs wirft komplexe Rechtsfragen auf: Geht der Vertrag auf die Erben über? Wer ist jetzt handlungsfähig? Wie wird der Vollzug gesichert? Dieser Skill strukturiert die notariellen Sofortmaßnahmen.
+Der Tod eines Beteiligten vor Abschluss des Vollzugs wirft komplexe Rechtsfragen auf: Geht der Vertrag auf die Erben über? Wer ist jetzt handlungsfähig? Wie wird der Vollzug gesichert? Strukturiere die notariellen Sofortmaßnahmen.
 
 Rechtsgrundlagen: § 1922 BGB (Gesamtrechtsnachfolge), §§ 2032–2063 BGB (Erbengemeinschaft), §§ 2353–2375 BGB (Erbschein), § 35 GBO (Grundbuchberichtigung), § 1629 BGB (Vertretung Minderjähriger durch überlebenden Elternteil), §§ 177–180 BGB (vollmachtloser Vertreter), § 130 Abs. 2 BGB (Tod des Erklärenden nach Abgabe der Willenserklärung).
 

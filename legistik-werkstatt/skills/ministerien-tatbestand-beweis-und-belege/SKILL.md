@@ -1,6 +1,6 @@
 ---
 name: ministerien-tatbestand-beweis-und-belege
-description: "Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin legistik werkstatt im Legistik."
+description: "Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage

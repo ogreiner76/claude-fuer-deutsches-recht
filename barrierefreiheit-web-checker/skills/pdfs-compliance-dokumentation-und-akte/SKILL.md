@@ -1,6 +1,6 @@
 ---
 name: pdfs-compliance-dokumentation-und-akte
-description: "Pdfs: Compliance-Dokumentation und Aktenvermerk im Plugin barrierefreiheit web checker im Barrierefreiheit Web Checker."
+description: "Pdfs: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Pdfs: Compliance-Dokumentation und Aktenvermerk

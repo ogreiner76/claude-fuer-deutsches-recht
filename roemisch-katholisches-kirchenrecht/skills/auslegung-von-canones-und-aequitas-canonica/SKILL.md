@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Wortlaut, Kontext, Parallelstellen, Zweck, Tradition, Billigkeit und Heil der Seelen**.
+Prüft insbesondere: **Wortlaut, Kontext, Parallelstellen, Zweck, Tradition, Billigkeit und Heil der Seelen**.
 
 **CIC-/Normanker:** can. 17-19, 1752.
 

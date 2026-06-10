@@ -1,6 +1,6 @@
 ---
 name: 031-normkarte-zitat-link
-description: "PrALR: Normkarte Zitat mit Link zum Digitalisat im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Normkarte Zitat mit Link zum Digitalisat im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, we..."
+description: "PrALR: Normkarte Zitat mit Link zum Digitalisat: Bearbeite die Normkarte Zitat mit Link zum Digitalisat im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, we..."
 ---
 
 # PrALR: Normkarte Zitat mit Link zum Digitalisat

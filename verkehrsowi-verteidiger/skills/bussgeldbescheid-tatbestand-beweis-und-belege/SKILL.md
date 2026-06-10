@@ -1,6 +1,6 @@
 ---
 name: bussgeldbescheid-tatbestand-beweis-und-belege
-description: "Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin verkehrsowi verteidiger im Verkehrsowi Verteidiger."
+description: "Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Bussgeldbescheid: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **precise English canonical terminology**.
+Prüft insbesondere: **precise English canonical terminology**.
 
 **CIC-/Normanker:** can. 1-22, 1400-1752.
 

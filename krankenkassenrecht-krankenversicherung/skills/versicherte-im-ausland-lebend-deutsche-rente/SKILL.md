@@ -15,7 +15,7 @@ description: "Krankenversicherung für im Ausland lebende Rentner mit deutschen 
 
 ## Skill-Zweck
 
-Deutsche Rentner, die im EU-Ausland oder in Drittstaaten leben, haben komplexe Krankenversicherungsansprüche. Dieser Skill klärt **Leistungsansprüche, zuständige Träger und praktische Umsetzung**.
+Deutsche Rentner, die im EU-Ausland oder in Drittstaaten leben, haben komplexe Krankenversicherungsansprüche. Kläre **Leistungsansprüche, zuständige Träger und praktische Umsetzung**.
 
 ## Rechtlicher Rahmen
 

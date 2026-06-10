@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **sakramentales Siegel, geistliche Begleitung und staatlicher Druck**.
+Prüft insbesondere: **sakramentales Siegel, geistliche Begleitung und staatlicher Druck**.
 
 **CIC-/Normanker:** can. 983-984, 1386.
 

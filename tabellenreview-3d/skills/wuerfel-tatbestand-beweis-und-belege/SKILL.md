@@ -1,6 +1,6 @@
 ---
 name: wuerfel-tatbestand-beweis-und-belege
-description: "Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Wuerfel: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: perspektiven-verhandlung-vergleich-und-eskalation
-description: "Perspektiven: Verhandlung, Vergleich und Eskalation im Plugin tabellenreview 3d im Tabellenreview 3d."
+description: "Perspektiven: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Perspektiven: Verhandlung, Vergleich und Eskalation

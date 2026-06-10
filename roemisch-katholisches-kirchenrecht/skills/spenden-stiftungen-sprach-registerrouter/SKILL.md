@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Spendenzweck, Stiftungen, Rechnungslegung und Zweckbindung**.
+Prüft insbesondere: **Spendenzweck, Stiftungen, Rechnungslegung und Zweckbindung**.
 
 **CIC-/Normanker:** can. 1264-1310.
 

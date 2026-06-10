@@ -1,6 +1,6 @@
 ---
 name: compliance-dokumentation-aktenvermerk
-description: "Normenkontrolle: Compliance-Dokumentation und Aktenvermerk im Plugin Normenkontrolle Bauleitplanung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahre..."
+description: "Normenkontrolle: Compliance-Dokumentation und Aktenvermerk: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahre..."
 ---
 
 # Normenkontrolle: Compliance-Dokumentation und Aktenvermerk

@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abna
 
 ## Zweck und Anwendungsbereich
 
-Der Bauträgervertrag verbindet Grundstückskauf und Werkvertrag. Er unterliegt besonderen Verbraucherschutzvorschriften (MaBV) und erfordert vom Notar eine intensivere Belehrungspflicht als der klassische Grundstückskauf. Dieser Skill strukturiert die MaBV-Anforderungen, den Ratenplan und die häufigen Abnahmefallen.
+Der Bauträgervertrag verbindet Grundstückskauf und Werkvertrag. Er unterliegt besonderen Verbraucherschutzvorschriften (MaBV) und erfordert vom Notar eine intensivere Belehrungspflicht als der klassische Grundstückskauf. Strukturiere die MaBV-Anforderungen, den Ratenplan und die häufigen Abnahmefallen.
 
 Rechtsgrundlagen: § 311b BGB (Formzwang), §§ 631–651 BGB (Werkvertragsrecht), MaBV (Makler- und Bauträgerverordnung) §§ 3–9 (Sicherungspflichten), § 12 MaBV (Verbraucherrecht), § 17 Abs. 2a BeurkG (Wartefrist), §§ 640–641 BGB (Abnahme), AGBG/§ 307 BGB (AGB-Kontrolle Bauträger-AGB), BauGB (Baugenehmigung).
 

@@ -15,7 +15,7 @@ description: "Dividenden nach Art. 10 OECD-MA und EU-Mutter-Tochter-Richtlinie. 
 
 ## Kernsachverhalt
 
-Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein (in Deutschland 25 Prozent Kapitalertragsteuer plus Solidaritaetszuschlag — also 26,375 Prozent); DBA-Hoechstsatz ermaessigt typ. auf 5/15 Prozent, Mutter-Tochter-Richtlinie reduziert auf 0 Prozent bei Schachtel innerhalb EU. § 8b KStG befreit auf Empfaengerseite zu 95 Prozent. Dieser Skill fuehrt durch die DBA-Anwendung im konkreten Fall und beachtet Anti-Missbrauchsregelungen.
+Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein (in Deutschland 25 Prozent Kapitalertragsteuer plus Solidaritaetszuschlag — also 26,375 Prozent); DBA-Hoechstsatz ermaessigt typ. auf 5/15 Prozent, Mutter-Tochter-Richtlinie reduziert auf 0 Prozent bei Schachtel innerhalb EU. § 8b KStG befreit auf Empfaengerseite zu 95 Prozent. Führe durch die DBA-Anwendung im konkreten Fall und beachtet Anti-Missbrauchsregelungen.
 
 ## Kaltstart-Rueckfragen
 

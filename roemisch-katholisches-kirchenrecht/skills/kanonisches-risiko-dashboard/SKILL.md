@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Normrisiko, Frist, Zuständigkeit, pastorales Risiko und nächster Schritt**.
+Prüft insbesondere: **Normrisiko, Frist, Zuständigkeit, pastorales Risiko und nächster Schritt**.
 
 **CIC-/Normanker:** can. 35-58, 1717, 1732-1739.
 

@@ -1,6 +1,6 @@
 ---
 name: aufenthg-fristen-form-und-zustaendigkeit
-description: "Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg: Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt migrationsrecht."
+description: "Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg: Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -14,7 +14,7 @@ description: "Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg: Aufenthg: F
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt migrationsrecht.
+**Fokus:** Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg.
 
 ## Spezialwissen: Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG, EU.

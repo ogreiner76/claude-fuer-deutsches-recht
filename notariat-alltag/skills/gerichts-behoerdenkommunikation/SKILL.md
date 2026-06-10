@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem N
 
 ## Zweck und Anwendungsbereich
 
-Der Notar kommuniziert täglich mit zahlreichen Behörden und Gerichten. Dieser Skill strukturiert die formellen Anforderungen, typische Kommunikationsanlässe und Formulierungsstandards für die häufigsten Schreiben.
+Der Notar kommuniziert täglich mit zahlreichen Behörden und Gerichten. Strukturiere die formellen Anforderungen, typische Kommunikationsanlässe und Formulierungsstandards für die häufigsten Schreiben.
 
 Rechtsgrundlagen: § 12 HGB (HR-Einreichung), GBO §§ 13–15 (Grundbuchantrag), § 28 BauGB (Vorkaufsrechtsmitteilung), § 22 GrEStG (GrESt-Anzeige), § 34 ErbStG (Schenkungsanzeige), FamFG §§ 271 ff. (Familiengericht), §§ 374 ff. FamFG (Registergericht), BeurkG § 17 (Belehrungsprotokoll als Behördendokument).
 

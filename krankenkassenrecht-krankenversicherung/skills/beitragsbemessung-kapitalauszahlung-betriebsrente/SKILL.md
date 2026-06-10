@@ -15,7 +15,7 @@ description: "GKV-Beitragspflicht für Betriebsrenten und Kapitalzahlungen aus b
 
 ## Skill-Zweck
 
-Betriebsrenten und Kapitalzahlungen aus der betrieblichen Altersversorgung (bAV) sind in der GKV beitragspflichtig. Dieser Skill klärt **Beitragspflicht nach § 229 SGB V, Freibetrag, Kapitalzahlungs-Verteilung und das Problem der Doppelverbeitragung**.
+Betriebsrenten und Kapitalzahlungen aus der betrieblichen Altersversorgung (bAV) sind in der GKV beitragspflichtig. Kläre **Beitragspflicht nach § 229 SGB V, Freibetrag, Kapitalzahlungs-Verteilung und das Problem der Doppelverbeitragung**.
 
 ## Rechtlicher Rahmen
 

@@ -1,6 +1,6 @@
 ---
 name: verkehrsunfall-schriftsatz-brief-und-memo-bausteine
-description: "Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine: Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verkehrsrecht."
+description: "Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine: Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine
@@ -14,7 +14,7 @@ description: "Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine: Verkehrsu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verkehrsrecht.
+**Fokus:** Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine.
 
 ## Spezialwissen: Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** StVG, StVO, PflVG, VVG.

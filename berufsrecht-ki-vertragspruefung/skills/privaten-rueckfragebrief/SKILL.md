@@ -1,6 +1,6 @@
 ---
 name: privaten-rueckfragebrief
-description: "Privaten: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Privaten: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Privaten: Risikoampel, Gegenargumente und Verteidigungslinien

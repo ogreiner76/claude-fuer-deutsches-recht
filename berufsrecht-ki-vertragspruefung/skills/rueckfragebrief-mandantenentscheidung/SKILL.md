@@ -1,6 +1,6 @@
 ---
 name: rueckfragebrief-mandantenentscheidung
-description: "Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage

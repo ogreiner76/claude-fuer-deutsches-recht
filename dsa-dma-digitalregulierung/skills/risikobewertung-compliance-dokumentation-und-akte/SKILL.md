@@ -1,6 +1,6 @@
 ---
 name: risikobewertung-compliance-dokumentation-und-akte
-description: "Risikobewertung: Compliance-Dokumentation und Aktenvermerk im Plugin dsa dma digitalregulierung im Dsa Dma Digitalregulierung."
+description: "Risikobewertung: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Risikobewertung: Compliance-Dokumentation und Aktenvermerk

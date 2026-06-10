@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Chronologie und Belegmatrix im Plugin Weg Hausverwaltung im Weg Hausverwaltung."
+description: "Chronologie und Belegmatrix."
 ---
 
 # Chronologie und Belegmatrix

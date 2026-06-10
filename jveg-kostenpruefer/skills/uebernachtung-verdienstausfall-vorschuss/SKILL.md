@@ -1,6 +1,6 @@
 ---
 name: uebernachtung-verdienstausfall-vorschuss
-description: "Uebernachtung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Uebernachtung: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Uebernachtung: Schriftsatz-, Brief- und Memo-Bausteine

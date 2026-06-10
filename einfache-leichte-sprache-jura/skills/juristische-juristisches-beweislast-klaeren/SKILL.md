@@ -1,6 +1,6 @@
 ---
 name: juristische-juristisches-beweislast-klaeren
-description: "Juristische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin einfache leichte sprache jura im Einfache/Leichte Sprache Jura: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Juristische: Erstprüfung, Rollenklärung und Mandatsziel: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Juristische: Erstprüfung, Rollenklärung und Mandatsziel

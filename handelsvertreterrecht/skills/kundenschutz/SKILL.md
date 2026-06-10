@@ -15,7 +15,7 @@ description: "Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der
 
 ## Überblick
 
-Dieser Skill unterstützt bei rechtlichen Fragen rund um Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen.
+Unterstützt bei rechtlichen Fragen rund um Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.

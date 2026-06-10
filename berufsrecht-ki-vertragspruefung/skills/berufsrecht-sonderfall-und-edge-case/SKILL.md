@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-sonderfall-und-edge-case
-description: "Berufsrecht: Sonderfall und Edge-Case-Prüfung im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Berufsrecht: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Berufsrecht: Sonderfall und Edge-Case-Prüfung

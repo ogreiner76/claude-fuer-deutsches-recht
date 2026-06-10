@@ -7,7 +7,7 @@ description: "Red-Team-Prüfung eines Muster-Herausgebervertrags: Sammelwerk-Bes
 
 ## Zweck dieses Skills
 
-Dieser Skill analysiert systematisch einen typischen **Herausgebervertrag** auf problematische Klauseln. Der Herausgebervertrag unterscheidet sich wesentlich vom reinen Autorenvertrag: Der Herausgeber steht zwischen Verlag und den einzelnen Beitragsautoren, trägt die redaktionelle Verantwortung für das Sammelwerk und nimmt dabei eine besondere Rechtsposition ein.
+Analysiert systematisch einen typischen **Herausgebervertrag** auf problematische Klauseln. Der Herausgebervertrag unterscheidet sich wesentlich vom reinen Autorenvertrag: Der Herausgeber steht zwischen Verlag und den einzelnen Beitragsautoren, trägt die redaktionelle Verantwortung für das Sammelwerk und nimmt dabei eine besondere Rechtsposition ein.
 
 Die Red-Team-Prüfung beleuchtet:
 - Die rechtliche Doppelrolle des Herausgebers (Urheber des Sammelwerks nach § 4 UrhG + Vertragspartner des Verlags)

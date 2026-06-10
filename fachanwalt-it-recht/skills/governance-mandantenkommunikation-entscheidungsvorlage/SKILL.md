@@ -1,6 +1,6 @@
 ---
 name: governance-mandantenkommunikation-entscheidungsvorlage
-description: "Governance: Mandantenkommunikation und Entscheidungsvorlage: Governance: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt it recht."
+description: "Governance: Mandantenkommunikation und Entscheidungsvorlage: Governance: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Governance: Mandantenkommunikation und Entscheidungsvorlage
@@ -14,7 +14,7 @@ description: "Governance: Mandantenkommunikation und Entscheidungsvorlage: Gover
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Governance: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt it recht.
+**Fokus:** Governance: Mandantenkommunikation und Entscheidungsvorlage.
 
 ## Spezialwissen: Governance: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** DSGVO, BDSG, TTDSG, TKG, DDG, DSA, DMA, EU, KI, VO.

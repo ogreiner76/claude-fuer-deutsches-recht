@@ -1,6 +1,6 @@
 ---
 name: visby-compliance-dokumentation-und-akte
-description: "Visby: Compliance-Dokumentation und Aktenvermerk: Visby: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt transport speditionsrecht."
+description: "Visby: Compliance-Dokumentation und Aktenvermerk: Visby: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Visby: Compliance-Dokumentation und Aktenvermerk
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Visby: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt transport speditionsrecht.
+**Fokus:** Visby: Compliance-Dokumentation und Aktenvermerk.
 
 ## Spezialwissen: Visby: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** HGB, CMR, COTIF.

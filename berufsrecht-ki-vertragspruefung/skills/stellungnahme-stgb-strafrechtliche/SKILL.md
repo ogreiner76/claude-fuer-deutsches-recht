@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-stgb-strafrechtliche
-description: "Stellungnahme: Formular, Portal und Einreichungslogik im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Stellungnahme: Formular, Portal und Einreichungslogik."
 ---
 
 # Stellungnahme: Formular, Portal und Einreichungslogik

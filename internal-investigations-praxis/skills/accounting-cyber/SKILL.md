@@ -19,7 +19,7 @@ Bilanzmanipulationen sind strafbar nach § 331 HGB (Unrichtige Darstellung, [ges
 
 ## Ziel dieses Skills
 
-Dieser Skill strukturiert die forensische Buchprüfung und klärt die strafrechtlichen, regulatorischen und haftungsrechtlichen Konsequenzen von Bilanzierungsunregelmäßigkeiten.
+Strukturiert die forensische Buchprüfung und klärt die strafrechtlichen, regulatorischen und haftungsrechtlichen Konsequenzen von Bilanzierungsunregelmäßigkeiten.
 
 ## Arbeitsprogramm
 

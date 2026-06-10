@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-fristennotiz-naechster
-description: "Vertragspruefung: Fristennotiz und nächster Schritt im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstuf..."
+description: "Vertragspruefung: Fristennotiz und nächster Schritt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstuf..."
 ---
 
 # Vertragspruefung: Fristennotiz und nächster Schritt

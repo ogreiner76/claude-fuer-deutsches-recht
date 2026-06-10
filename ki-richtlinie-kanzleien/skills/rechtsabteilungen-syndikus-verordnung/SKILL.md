@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilungen-syndikus-verordnung
-description: "Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin ki richtlinie kanzleien im Ki Richtlinie Kanzleien."
+description: "Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien

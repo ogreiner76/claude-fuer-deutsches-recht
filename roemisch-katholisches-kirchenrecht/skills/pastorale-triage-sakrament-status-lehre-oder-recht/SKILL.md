@@ -63,7 +63,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **tröstende Erstreaktion, rechtliche Prüfung, Lehrfrage und Entscheidungskompetenz**.
+Prüft insbesondere: **tröstende Erstreaktion, rechtliche Prüfung, Lehrfrage und Entscheidungskompetenz**.
 
 **CIC-/Normanker:** can. 213, 214, 843, 912, 915, 916.
 

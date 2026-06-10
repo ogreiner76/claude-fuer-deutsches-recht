@@ -1,6 +1,6 @@
 ---
 name: pruefung-erstpruefung-und-mandatsziel
-description: "Pruefung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Pruefung: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Pruefung: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: unmittelbare-risikoampel-und-gegenargumente
-description: "Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin europarecht kompass im Europarecht Kompass."
+description: "Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien

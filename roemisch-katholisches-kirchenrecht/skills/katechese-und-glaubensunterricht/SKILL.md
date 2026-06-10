@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **lehramtstreue, altersgerechte und mehrsprachige Katechese**.
+Prüft insbesondere: **lehramtstreue, altersgerechte und mehrsprachige Katechese**.
 
 **CIC-/Normanker:** can. 773-780, 804-806.
 

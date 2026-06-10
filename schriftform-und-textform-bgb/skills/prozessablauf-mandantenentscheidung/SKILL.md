@@ -1,6 +1,6 @@
 ---
 name: prozessablauf-mandantenentscheidung
-description: "Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage im Plugin schriftform und textform bgb im Schriftform Und Textform Bgb."
+description: "Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Prozessablauf: Mandantenkommunikation und Entscheidungsvorlage

@@ -15,7 +15,7 @@ description: "Zahlungsauslösedienst nach ZAG und PSD2 prüfen: Erlaubnis, stark
 
 ## Worum es geht
 
-Dieser Skill prüft Zahlungsauslösedienste (Payment Initiation Services, PIS) nach § 1 Abs. 1 Satz 2 Nr. 7 ZAG und Art. 66 PSD2. Er deckt die Erlaubnisanforderungen, die starke Kundenauthentifizierung (SCA), die Haftungskette zwischen PIS-Provider und kontoführender Bank sowie die technischen Schnittstellenanforderungen nach der RTS-SCA (Delegierte VO 2018/389) ab.
+Prüft Zahlungsauslösedienste (Payment Initiation Services, PIS) nach § 1 Abs. 1 Satz 2 Nr. 7 ZAG und Art. 66 PSD2. Er deckt die Erlaubnisanforderungen, die starke Kundenauthentifizierung (SCA), die Haftungskette zwischen PIS-Provider und kontoführender Bank sowie die technischen Schnittstellenanforderungen nach der RTS-SCA (Delegierte VO 2018/389) ab.
 
 ## Kernnormen
 

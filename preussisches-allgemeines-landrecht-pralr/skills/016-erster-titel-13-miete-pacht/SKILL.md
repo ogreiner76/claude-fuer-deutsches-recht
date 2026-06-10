@@ -1,6 +1,6 @@
 ---
 name: 016-erster-titel-13-miete-pacht
-description: "PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag im Preußisches Allgemeines Landrecht: Dieser Skill bearbeitet Erster Teil Titel 13 Miete Pacht Dienstvertrag im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen li..."
+description: "PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag: Bearbeite den ersten Teil Titel 13 Miete Pacht Dienstvertrag im Bereich PrALR. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen li..."
 ---
 
 # PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag

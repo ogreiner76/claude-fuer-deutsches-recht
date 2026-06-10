@@ -1,6 +1,6 @@
 ---
 name: berichte-beschlagnahme-mietverwaltung-besitz
-description: "Berichte: Schriftsatz-, Brief- und Memo-Bausteine im Plugin zwangsverwaltung zvg im Zwangsverwaltung Zvg."
+description: "Berichte: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Berichte: Schriftsatz-, Brief- und Memo-Bausteine

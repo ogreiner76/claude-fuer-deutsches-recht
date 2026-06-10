@@ -1,6 +1,6 @@
 ---
 name: bebauungsplaenen-kommunalabgaben
-description: "Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin normenkontrolle bauleitplanung im Normenkontrolle Bauleitplanung."
+description: "Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg."
 ---
 
 # Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg

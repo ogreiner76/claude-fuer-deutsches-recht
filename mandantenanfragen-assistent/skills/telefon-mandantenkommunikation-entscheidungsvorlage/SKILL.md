@@ -1,6 +1,6 @@
 ---
 name: telefon-mandantenkommunikation-entscheidungsvorlage
-description: "Telefon: Mandantenkommunikation und Entscheidungsvorlage im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent."
+description: "Telefon: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Telefon: Mandantenkommunikation und Entscheidungsvorlage

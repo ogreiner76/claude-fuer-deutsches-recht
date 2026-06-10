@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transpar
 
 ## Zweck und Anwendungsbereich
 
-Das Transparenzregister erfasst die wirtschaftlich Berechtigten hinter Gesellschaften und sonstigen Vereinigungen. Notare haben sowohl Abfrage- als auch Hinweispflichten. Dieser Skill strukturiert die Pflichten, Abfragewege und Bußgeldrisiken.
+Das Transparenzregister erfasst die wirtschaftlich Berechtigten hinter Gesellschaften und sonstigen Vereinigungen. Notare haben sowohl Abfrage- als auch Hinweispflichten. Strukturiere die Pflichten, Abfragewege und Bußgeldrisiken.
 
 Rechtsgrundlagen: §§ 20–24 GwG (Transparenzregister), § 3 GwG (Definition wirtschaftlich Berechtigter), § 56 GwG (Bußgeldvorschriften), EU-Richtlinie 2018/843 (5. Geldwäscherichtlinie), § 26a GwG (Transparenzregisterauszüge für Notare), GwG-Anwendungserlass des BMF.
 

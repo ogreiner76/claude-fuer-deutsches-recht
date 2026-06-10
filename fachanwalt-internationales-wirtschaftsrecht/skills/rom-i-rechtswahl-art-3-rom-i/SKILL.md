@@ -7,7 +7,7 @@ description: "rom i Rechtswahl art 3 rom i: fachanwaltlicher Spezial-Skill mit N
 
 ## Worum es geht
 
-Dieser Skill bearbeitet **rom i Rechtswahl art 3 rom i** als konkreten fachanwaltlichen Arbeitsgang. Er führt von der ersten Aktenordnung zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **rom i Rechtswahl art 3 rom i** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

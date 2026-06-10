@@ -15,7 +15,7 @@ description: "Krankenversicherung bei Arbeitslosigkeit und Sperrzeit nach SGB II
 
 ## Skill-Zweck
 
-Arbeitslose sind in der GKV pflichtversichert. Bei Sperrzeit entfällt jedoch das ALG – aber bleibt der Krankenversicherungsschutz? Dieser Skill klärt **KV-Status während Sperrzeit, Beitragsübernahme und Überbrückungsoptionen**.
+Arbeitslose sind in der GKV pflichtversichert. Bei Sperrzeit entfällt jedoch das ALG – aber bleibt der Krankenversicherungsschutz? Kläre **KV-Status während Sperrzeit, Beitragsübernahme und Überbrückungsoptionen**.
 
 ## Rechtlicher Rahmen
 

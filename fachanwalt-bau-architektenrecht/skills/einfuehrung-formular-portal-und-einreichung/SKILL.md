@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-formular-portal-und-einreichung
-description: "Einfuehrung: Formular, Portal und Einreichungslogik: Einfuehrung: Formular, Portal und Einreichungslogik im Plugin fachanwalt bau architektenrecht."
+description: "Einfuehrung: Formular, Portal und Einreichungslogik: Einfuehrung: Formular, Portal und Einreichungslogik."
 ---
 
 # Einfuehrung: Formular, Portal und Einreichungslogik
@@ -14,7 +14,7 @@ description: "Einfuehrung: Formular, Portal und Einreichungslogik: Einfuehrung: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Einfuehrung: Formular, Portal und Einreichungslogik im Plugin fachanwalt bau architektenrecht.
+**Fokus:** Einfuehrung: Formular, Portal und Einreichungslogik.
 
 ## Spezialwissen: Einfuehrung: Formular, Portal und Einreichungslogik
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

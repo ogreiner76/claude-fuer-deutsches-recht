@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Gesellschafterstreit im Notartermin – Neutra
 
 ## Zweck und Anwendungsbereich
 
-Wenn Gesellschafter im Beurkundungstermin streiten, ist der Notar in einer schwierigen Lage. Dieser Skill klärt Neutralitätspflichten, Protokollierungsanforderungen und die Konsequenzen fehlerhafter Beschlussprotokolle.
+Wenn Gesellschafter im Beurkundungstermin streiten, ist der Notar in einer schwierigen Lage. Kläre Neutralitätspflichten, Protokollierungsanforderungen und die Konsequenzen fehlerhafter Beschlussprotokolle.
 
 Rechtsgrundlagen: § 14 BNotO (Unparteilichkeit), § 17 BeurkG (Willensermittlung), § 130 AktG (Beschlussprotokoll AG), § 53 GmbHG (Satzungsänderung GmbH), § 48 GmbHG (Gesellschafterversammlung GmbH), §§ 241–261 AktG (Beschlussmängel AG), FamFG §§ 375–406 (Registerverfahren).
 

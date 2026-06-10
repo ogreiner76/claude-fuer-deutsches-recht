@@ -15,7 +15,7 @@ description: "Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weit
 
 ## Skill-Zweck
 
-Gesundheitsdaten genießen besonderen Schutz. Dieser Skill klärt, **welche Daten die Krankenkasse verarbeiten darf**, wann sie Daten weitergeben darf und welche Rechte der Versicherte hat – insbesondere gegenüber dem Arbeitgeber.
+Gesundheitsdaten genießen besonderen Schutz. Kläre, **welche Daten die Krankenkasse verarbeiten darf**, wann sie Daten weitergeben darf und welche Rechte der Versicherte hat – insbesondere gegenüber dem Arbeitgeber.
 
 ## Rechtlicher Rahmen
 

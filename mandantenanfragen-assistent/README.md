@@ -140,24 +140,24 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | Skill | Beschreibung |
 | --- | --- |
 | `anfrage-eingang-parser` | Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und will sie schnell strukturiert auswerten. E-Mail-Parser Kanzlei. Prüfraster: Anrede Name Absender E-Mail-Adresse Telefon Sachverhaltsfetzen Stichwörter dringl... |
-| `anrede-anwaltskanzleien-bittet` | Anrede: Verhandlung, Vergleich und Eskalation im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `anrede-anwaltskanzleien-bittet` | Anrede: Verhandlung, Vergleich und Eskalation. |
 | `anrede-uebernehmen` | Antwort-E-Mail soll mit exakt richtiger Anrede des potentiellen Mandanten beginnen ohne Fehler bei Titeln oder Doppelnamen. Anredekonventionen Kanzlei. Prüfraster: Titel (Dr. Prof. Mag.) Doppelnamen Adelspraeifikate kirchliche Titel Komp... |
 | `anschluss-routing` | Anschluss-Routing für Mandantenanfragen-Assistent: wählt den nächsten Spezial-Skill nach Engpass (Unverzügliche Antwort, Mandantenmail, Kanzleiprofil, Honorarinfo), dokumentiert Router-Entscheidung mit Begründung. |
-| `anwaltskanzleien-erstpruefung-und-mandatsziel` | Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `anwaltskanzleien-erstpruefung-und-mandatsziel` | Anwaltskanzleien: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `bietet-fehlerkatalog` | Bietet Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `bittet-internationaler-bezug-und-schnittstellen` | Bittet: Internationaler Bezug und Schnittstellen im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
-| `dankt-dsgvo-sonderfall-e-mail` | Dankt: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `bittet-internationaler-bezug-und-schnittstellen` | Bittet: Internationaler Bezug und Schnittstellen. |
+| `dankt-dsgvo-sonderfall-e-mail` | Dankt: Risikoampel, Gegenargumente und Verteidigungslinien. |
 | `dokumente-intake` | Dokumentenintake für Mandantenanfragen-Assistent: sortiert Mandantenmail, Kanzleiprofil, Honorarinfo, prüft Datum, Absender, Frist und Beweiswert (Urkunden, Zeugen); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO. |
 | `dringlichkeitsmarker-einwilligung-hinweis` | Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Prüfraster: Signale Hauptverhandlung naechste Woche Kündigungsfrist Zwangsvollstreckung Insolvenzantr... |
-| `dsgvo-sonderfall-und-edge-case` | DSGVO: Sonderfall und Edge-Case-Prüfung im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `dsgvo-sonderfall-und-edge-case` | DSGVO: Sonderfall und Edge-Case-Prüfung. |
 | `e-mail-erstantwort-und-terminrouting` | E-Mail-Erstantwort, Terminrouting und Mandatsannahmehinweis: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Mandantenanfragen Assistent. |
 | `eingehenden-quellenkarte` | Eingehenden Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `einstieg-routing` | Einstieg, Triage und Routing für Mandantenanfragen-Assistent: ordnet Rolle (Mandant, Anwalt, Sekretariat), markiert Frist (Unverzügliche Antwort), wählt Norm (BRAO § 43 Sachlichkeit, BORA) und Zuständigkeit (zuständige Stelle), leitet zu... |
 | `einwilligung-hinweis-datenschutz` | Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein... |
-| `einwilligungshinweis-fristennotiz-und-naechster-schritt` | Einwilligungshinweis: Fristennotiz und nächster Schritt im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
-| `erstantwort-foermlich-mail` | Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `einwilligungshinweis-fristennotiz-und-naechster-schritt` | Einwilligungshinweis: Fristennotiz und nächster Schritt. |
+| `erstantwort-foermlich-mail` | Erstantwort: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `erstantwort-generator` | Sekretariat oder Anwalt muss professionelle Erstantwort-E-Mail an potentiellen Mandanten senden. Hauptskill Erstantwort-E-Mail. Prüfraster: Dank für Anfrage exakte Anrede Terminvergabe-Hinweis Transkriptionsservice mit DSGVO-Einwilligung... |
-| `foermlich-behoerden-gericht-und-registerweg` | Foermlich: Behörden-, Gerichts- oder Registerweg im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `foermlich-behoerden-gericht-und-registerweg` | Foermlich: Behörden-, Gerichts- oder Registerweg. |
 | `folgekorrespondenz-vorbereiten-konfliktcheck` | Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Prüfraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag für C... |
 | `konfliktcheck-vorab` | Sekretariat soll vor Terminvergabe Interessenkonflikt prüfen. § 43a Abs. 4 BRAO § 3 BORA Interessenkonflikt-Check. Prüfraster: Gegenseite und Beteiligte erfragen Datenbankabgleich bestehende Mandate. Output: Konfliktcheck-Anweisung und A... |
 | `ma-aufnahmegespraech-leitfaden` | Aufnahmegespraechsleitfaden Mandant: Sachverhalt, Eilbedarf, Ziel, Bereits eingeleitete Schritte, Andere beauftragte Anwaelte, Konflikte, Vergueng. Strukturierte Fragen und typische Stolpersteine. Mustertext zur Mandatsbestaetigung im Ma... |
@@ -165,29 +165,29 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `ma-erstvermerk-mandantenakte` | Erstvermerk für die Mandantenakte: Pflichtangaben (Mandant, Sachverhalt, Eilbedarf, Ziel, Honorar, naechster Schritt), interne Hinweise (Konflikte, sensible Punkte). Format und Aufbewahrung in der Akte im Mandantenanfragen Assistent. |
 | `ma-konfliktcheck-konzern` | Spezialfall Konfliktcheck im Konzern: Mandat für Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Pruefraster und Mustertexte für Einwilligungen und Hinweis an Mandant im Mandantenanfrag... |
 | `ma-mandant-manda-erstgespraechsleitfaden` | Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Pruefen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur für den Aufgabenkreis. Mustertexte und Pruefraster. Route... |
-| `mail-dokumentenmatrix-und-lueckenliste` | Mail: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `mail-dokumentenmatrix-und-lueckenliste` | Mail: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `manda-erstgespraechsleitfaden-checkliste` | Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erlaeutern, Honorar. Mustertext Folgeschreiben Mandant im Mandantenanfragen Assistent. |
 | `manda-erstkontakt-triagebogen-bauleiter` | Bauleiter Triagebogen Erstkontakt: Mandantendaten, COI-Pruefung, Rechtsschutzversicherung, Eilbeduerftigkeit, RVG-Hinweis. Pruefraster für Sekretariat und Anwalt im Mandantenanfragen Assistent. |
 | `manda-mandatsablehnung-rechtsschutz` | Spezialfall Mandatsablehnung und COI-Kommunikation: berufsrechtliche Hinweise § 43a BRAO, Schweigepflicht, Ablehnungsschreiben ohne offene Konflikte. Pruefraster für Risk-and-Compliance im Mandantenanfragen Assistent. |
 | `manda-rechtsschutz-eintrittsanfrage-spezial` | Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext für Auseinandersetzung mit Rechtsschutzversicherer. Pruefraster Mandant und Anwalt im Mandantenanfragen Assistent. |
-| `mandantenanfragen-anfrage-eingang-anrede` | Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `mandantenanfragen-anfrage-eingang-anrede` | Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `mandantenkommunikation-redteam` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Mandantenanfragen Assistent. |
 | `mandatsverhaeltnis-hinweis` | Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pfl... |
 | `mehrsprachige-antwort-muster-erstantwort-spam` | Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Ziel... |
 | `muster-erstantwort` | Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard... |
-| `nennt-sachverhalt-telefon` | Nennt: Zahlen, Schwellenwerte und Berechnung im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `nennt-sachverhalt-telefon` | Nennt: Zahlen, Schwellenwerte und Berechnung. |
 | `output-waehlen` | Output-Wahl für Mandantenanfragen-Assistent: stimmt Adressat (Mandant, Anwalt, Sekretariat), Frist (Unverzügliche Antwort) und Form auf den Zweck ab — typische Outputs: Antwortentwurf, Empfangsbestätigung, Rückfrage-Vorschlag. |
 | `quellen-livecheck` | Quellen-Live-Check für Mandantenanfragen-Assistent: prüft Normen (BRAO § 43 Sachlichkeit, BORA) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt zuständige Stelle und Quellenhygiene nach references/quellenhygiene.md. |
-| `sachverhalt-formular-portal-und-einreichung` | Sachverhalt: Formular, Portal und Einreichungslogik im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `sachverhalt-formular-portal-und-einreichung` | Sachverhalt: Formular, Portal und Einreichungslogik. |
 | `spam-und-massen-anfrage-filter` | Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Prüfraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Au... |
 | `start-chronologie-fristen` | Einstieg, Schnelltriage und Fallrouting im Mandantenanfragen Assistent-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan.... |
 | `telefon-konfiguration` | Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfigurationsverwaltung Kanzlei-Nummern. Prüfraster: kanzlei.json Sekretariatsnummer Transkriptionsnummer Lesen und Setzen der P... |
-| `telefon-mandantenkommunikation-entscheidungsvorlage` | Telefon: Mandantenkommunikation und Entscheidungsvorlage im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
-| `telefonische-terminvergabe-interessen` | Telefonische: Compliance-Dokumentation und Aktenvermerk im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
-| `terminvergabe-mehrparteien-konflikt-und-interessen` | Terminvergabe: Mehrparteienkonflikt und Interessenmatrix im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
-| `transkription-beweislast-und-darlegungslast` | Transkription: Beweislast, Darlegungslast und Substantiierung im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `telefon-mandantenkommunikation-entscheidungsvorlage` | Telefon: Mandantenkommunikation und Entscheidungsvorlage. |
+| `telefonische-terminvergabe-interessen` | Telefonische: Compliance-Dokumentation und Aktenvermerk. |
+| `terminvergabe-mehrparteien-konflikt-und-interessen` | Terminvergabe: Mehrparteienkonflikt und Interessenmatrix. |
+| `transkription-beweislast-und-darlegungslast` | Transkription: Beweislast, Darlegungslast und Substantiierung. |
 | `transkriptionsdienst-erklaerung` | Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklärung in Erstantwort. Prüfraster: Telefonnummer Ablauf des Anrufs Verarbeitungshinweis DSGVO-Einwilligung Kein-Mandat-Hinweis. O... |
-| `uebernimmt-telefon-konfiguration` | Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin mandantenanfragen assistent im Mandantenanfragen Assistent. |
+| `uebernimmt-telefon-konfiguration` | Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Mandantenanfragen-Assistent: trennt fehlende Tatsachen von fehlenden Belegen (Mandantenmail, Kanzleiprofil, Honorarinfo), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersat... |
 | `vertraulichkeit-erinnerung` | Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt: § 43a Abs. 2 BRAO Schweigepflicht. Prüfraster: Schweigepflicht gilt erst nach Mandatsbeginn vorher allgemeine Diskretion. Überg... |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Mandantenanfragen Assistent. |

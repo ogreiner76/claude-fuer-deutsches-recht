@@ -1,6 +1,6 @@
 ---
 name: bnoto-mehrparteien-konflikt-und-interessen
-description: "Bnoto: Mehrparteienkonflikt und Interessenmatrix im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Bnoto: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Bnoto: Mehrparteienkonflikt und Interessenmatrix

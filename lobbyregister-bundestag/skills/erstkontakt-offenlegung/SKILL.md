@@ -57,7 +57,7 @@ Der **Verhaltenskodex** (Anlage zu § 5 LobbyRG) verlangt bei Erstkontakt mit Ma
 
 ### Meeting-Eröffnung (Live)
 
-> "Bevor wir inhaltlich beginnen: Mein Name ist [..], ich vertrete [..]. Wir sind im Lobbyregister eingetragen, Nummer [R..]. Heute geht es uns um [Vorhaben]."
+> "Bevor wir inhaltlich beginnen: Mein Name ist [.], ich vertrete [.]. Wir sind im Lobbyregister eingetragen, Nummer [R.]. Heute geht es uns um [Vorhaben]."
 
 ### Veranstaltung / Empfang
 

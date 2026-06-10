@@ -7,7 +7,7 @@ description: "Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von
 
 ## Zweck
 
-Dieser Skill begleitet die berufsrechtlich und datenschutzrechtlich konforme Einbindung externer IT- und KI-Dienstleister in Kanzlei- und Beratungsprozesse. Im Mittelpunkt stehen (1) die strafrechtliche Compliance nach § 203 StGB n.F., (2) die berufsrechtliche Verschwiegenheitspflicht nach § 43a Abs. 2 BRAO, (3) der datenschutzrechtliche Auftragsverarbeitungsvertrag nach Art. 28 DSGVO sowie (4) spezifische Anforderungen an KI-Systeme (Transfer Impact Assessment, EU-Hosting, Audit-Logs). Anwendungsfälle: Kanzlei möchte CloudDienstleister für E-Mail-Hosting einsetzen; Rechtsanwalt erwägt Nutzung eines KI-Tools zur Dokumentenanalyse; IT-Dienstleister erhält Zugang zu Mandantenakten für Systemwartung.
+Begleitet die berufsrechtlich und datenschutzrechtlich konforme Einbindung externer IT- und KI-Dienstleister in Kanzlei- und Beratungsprozesse. Im Mittelpunkt stehen (1) die strafrechtliche Compliance nach § 203 StGB n.F., (2) die berufsrechtliche Verschwiegenheitspflicht nach § 43a Abs. 2 BRAO, (3) der datenschutzrechtliche Auftragsverarbeitungsvertrag nach Art. 28 DSGVO sowie (4) spezifische Anforderungen an KI-Systeme (Transfer Impact Assessment, EU-Hosting, Audit-Logs). Anwendungsfälle: Kanzlei möchte CloudDienstleister für E-Mail-Hosting einsetzen; Rechtsanwalt erwägt Nutzung eines KI-Tools zur Dokumentenanalyse; IT-Dienstleister erhält Zugang zu Mandantenakten für Systemwartung.
 
 ## Eingaben
 

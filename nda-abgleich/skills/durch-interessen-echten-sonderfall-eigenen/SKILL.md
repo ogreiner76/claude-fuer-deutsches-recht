@@ -1,6 +1,6 @@
 ---
 name: durch-interessen-echten-sonderfall-eigenen
-description: "Durch: Mehrparteienkonflikt und Interessenmatrix im Plugin nda abgleich im NDA-Abgleich."
+description: "Durch: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Durch: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: banking-behoerden-gericht-und-registerweg
-description: "Banking: Behörden-, Gerichts- oder Registerweg im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Banking: Behörden-, Gerichts- oder Registerweg."
 ---
 
 # Banking: Behörden-, Gerichts- oder Registerweg

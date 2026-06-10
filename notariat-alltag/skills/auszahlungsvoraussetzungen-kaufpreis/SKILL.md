@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Auszahlungsvoraussetzungen – Kaufpreis und L
 
 ## Zweck und Anwendungsbereich
 
-Die Fälligkeitsmitteilung ist der kritischste Schritt im Grundstücksvollzug: Erst wenn alle Voraussetzungen lückenlos vorliegen, darf der Käufer den Kaufpreis zahlen. Dieser Skill prüft systematisch alle Voraussetzungen und strukturiert das Löschungsunterlagen-Management.
+Die Fälligkeitsmitteilung ist der kritischste Schritt im Grundstücksvollzug: Erst wenn alle Voraussetzungen lückenlos vorliegen, darf der Käufer den Kaufpreis zahlen. Prüfe systematisch alle Voraussetzungen und strukturiert das Löschungsunterlagen-Management.
 
 Rechtsgrundlagen: § 311b BGB (Kaufvertrag), §§ 19, 22 GBO (Grundbuchanforderungen), § 22 GrEStG (steuerliche Unbedenklichkeit), § 3 MaBV (Bauträger), §§ 883–888 BGB (Auflassungsvormerkung), § 54a BeurkG (Verwahrungsanweisung), § 1192 BGB (Grundschuld), GNotKG Kostenfälligkeitsregeln.
 

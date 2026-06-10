@@ -1,6 +1,6 @@
 ---
 name: insolvenzantrag-red-team-und-qualitaetskontrolle
-description: "Insolvenzantrag: Red-Team und Qualitätskontrolle: Insolvenzantrag: Red-Team und Qualitätskontrolle im Plugin fachanwalt strafrecht."
+description: "Insolvenzantrag: Red-Team und Qualitätskontrolle: Insolvenzantrag: Red-Team und Qualitätskontrolle."
 ---
 
 # Insolvenzantrag: Red-Team und Qualitätskontrolle
@@ -14,7 +14,7 @@ description: "Insolvenzantrag: Red-Team und Qualitätskontrolle: Insolvenzantrag
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Insolvenzantrag: Red-Team und Qualitätskontrolle im Plugin fachanwalt strafrecht.
+**Fokus:** Insolvenzantrag: Red-Team und Qualitätskontrolle.
 
 ## Spezialwissen: Insolvenzantrag: Red-Team und Qualitätskontrolle
 - **Normen-/Quellenanker:** StPO.

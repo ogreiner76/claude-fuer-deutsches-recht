@@ -1,6 +1,6 @@
 ---
 name: verkehrswende-verhandlung-vergleich-und-eskalation
-description: "Verkehrswende: Verhandlung, Vergleich und Eskalation im Plugin verkehr infrastrukturrecht im Verkehr Infrastrukturrecht."
+description: "Verkehrswende: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Verkehrswende: Verhandlung, Vergleich und Eskalation

@@ -15,7 +15,7 @@ description: "Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: En
 
 ## Zweck und Mandatsbezug
 
-Dieser Skill behandelt die **strukturierte Mandantenkommunikation und Erstellung von Entscheidungsvorlagen** in IP- und Wettbewerbsschutzverfahren. Eine professionelle Entscheidungsvorlage gibt dem Mandanten alle relevanten Informationen – Handlungsoptionen, Risiken, Kosten, Fristen – und ermöglicht eine fundierte, dokumentierte Entscheidung.
+Behandelt die **strukturierte Mandantenkommunikation und Erstellung von Entscheidungsvorlagen** in IP- und Wettbewerbsschutzverfahren. Eine professionelle Entscheidungsvorlage gibt dem Mandanten alle relevanten Informationen – Handlungsoptionen, Risiken, Kosten, Fristen – und ermöglicht eine fundierte, dokumentierte Entscheidung.
 
 Mandatsbezug: Mandant erhält Abmahnung und fragt: Was soll ich tun? Mandant will Marke anmelden und fragt: Was kostet das und was riskiere ich? Rechtsabteilung muss dem Vorstand eine Entscheidungsvorlage zu einer IP-Klagestrategie präsentieren.
 

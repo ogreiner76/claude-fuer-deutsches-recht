@@ -15,7 +15,7 @@ description: "Krankenversicherungsrecht für Grenzgänger, EU-Koordinierungsvero
 
 ## Skill-Zweck
 
-Dieser Skill bearbeitet **komplexe grenzüberschreitende Krankenversicherungssituationen**: Grenzgänger (wohnen in einem Land, arbeiten im anderen), entsandte Arbeitnehmer, EU-Koordinierungsrecht und Doppelversicherungsproblematik.
+Bearbeite **komplexe grenzüberschreitende Krankenversicherungssituationen**: Grenzgänger (wohnen in einem Land, arbeiten im anderen), entsandte Arbeitnehmer, EU-Koordinierungsrecht und Doppelversicherungsproblematik.
 
 ## Rechtlicher Rahmen
 

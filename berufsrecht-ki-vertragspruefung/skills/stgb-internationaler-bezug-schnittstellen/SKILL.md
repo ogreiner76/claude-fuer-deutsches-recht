@@ -1,6 +1,6 @@
 ---
 name: stgb-internationaler-bezug-schnittstellen
-description: "Stgb: Internationaler Bezug und Schnittstellen im Plugin Berufsrecht Ki Vertragspruefung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Stgb: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
 ---
 
 # Stgb: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: uebersetzer-fristennotiz-jveg
-description: "Uebersetzer: Fristennotiz und nächster Schritt im Plugin jveg kostenpruefer im Jveg Kostenpruefer."
+description: "Uebersetzer: Fristennotiz und nächster Schritt."
 ---
 
 # Uebersetzer: Fristennotiz und nächster Schritt

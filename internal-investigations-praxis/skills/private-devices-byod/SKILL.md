@@ -19,7 +19,7 @@ BYOD-Geräte (Bring Your Own Device) sind eine der schwierigsten Beweisquellen i
 
 ## Ziel dieses Skills
 
-Dieser Skill klärt, unter welchen Bedingungen Arbeitgeber auf BYOD-Geräte zugreifen dürfen, wie Einwilligungen wirksam eingeholt werden und wie Unternehmensdaten von privaten Daten getrennt werden.
+Kläre, unter welchen Bedingungen Arbeitgeber auf BYOD-Geräte zugreifen dürfen, wie Einwilligungen wirksam eingeholt werden und wie Unternehmensdaten von privaten Daten getrennt werden.
 
 ## Arbeitsprogramm
 

@@ -15,7 +15,7 @@ description: "Fusion von Krankenkassen nach §§ 171a ff. SGB V: Rechtsfolgen f�
 
 ## Skill-Zweck
 
-Wenn Krankenkassen fusionieren oder geschlossen werden, entstehen Fragen zu Versicherungsschutz, Wahltarifen und Beiträgen. Dieser Skill klärt **Rechtsfolgen für Versicherte bei GKV-Fusionen und Kassenschließungen**.
+Wenn Krankenkassen fusionieren oder geschlossen werden, entstehen Fragen zu Versicherungsschutz, Wahltarifen und Beiträgen. Kläre **Rechtsfolgen für Versicherte bei GKV-Fusionen und Kassenschließungen**.
 
 ## Rechtlicher Rahmen
 

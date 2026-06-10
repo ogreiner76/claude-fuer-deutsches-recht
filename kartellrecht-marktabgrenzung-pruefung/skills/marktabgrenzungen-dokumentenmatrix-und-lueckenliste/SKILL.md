@@ -1,6 +1,6 @@
 ---
 name: marktabgrenzungen-dokumentenmatrix-und-lueckenliste
-description: "Marktabgrenzungen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin kartellrecht marktabgrenzung pruefung im Kartellrecht (Marktabgrenzung): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Marktabgrenzungen: Dokumentenmatrix, Lückenliste und Nachforderung: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Marktabgrenzungen: Dokumentenmatrix, Lückenliste und Nachforderung

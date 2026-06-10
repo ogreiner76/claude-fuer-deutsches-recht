@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Glaubensartikel und Gehorsamspflicht**.
+Prüft insbesondere: **Glaubensartikel und Gehorsamspflicht**.
 
 **CIC-/Normanker:** can. 750-754.
 

@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Sprache, Rolle, Status, Normspur, Lehrspur, Zuständigkeit und Ausgabeformat**.
+Prüft insbesondere: **Sprache, Rolle, Status, Normspur, Lehrspur, Zuständigkeit und Ausgabeformat**.
 
 **CIC-/Normanker:** can. 1-22, 96-112, 204-223.
 

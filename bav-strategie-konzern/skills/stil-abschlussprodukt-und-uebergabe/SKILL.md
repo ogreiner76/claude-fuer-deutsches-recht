@@ -1,6 +1,6 @@
 ---
 name: stil-abschlussprodukt-und-uebergabe
-description: "Stil: Abschlussprodukt und Übergabe im Plugin bav strategie konzern im Bav Strategie Konzern."
+description: "Stil: Abschlussprodukt und Übergabe."
 ---
 
 # Stil: Abschlussprodukt und Übergabe

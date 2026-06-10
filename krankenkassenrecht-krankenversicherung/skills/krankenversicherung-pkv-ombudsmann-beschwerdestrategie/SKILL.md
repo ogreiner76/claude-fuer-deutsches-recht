@@ -15,7 +15,7 @@ description: "PKV-Ombudsmann: Zuständigkeit, Verfahren, Einleitungsvoraussetzun
 
 ## Skill-Zweck
 
-Der PKV-Ombudsmann ist eine kostenlose außergerichtliche Streitschlichtungsstelle. Dieser Skill klärt **wann das Verfahren sinnvoll ist, wie es läuft und wie es mit dem Klageweg koordiniert wird**.
+Der PKV-Ombudsmann ist eine kostenlose außergerichtliche Streitschlichtungsstelle. Kläre **wann das Verfahren sinnvoll ist, wie es läuft und wie es mit dem Klageweg koordiniert wird**.
 
 ## Rechtlicher Rahmen
 

@@ -22,7 +22,7 @@ description: "zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema De
 
 Die **Abtretungsanzeige** ist der formale Akt, mit dem die Abtretung der Forderung dem Debitor mitgeteilt wird. Sie verändert den **Schuldnerschutz**: Vor Anzeige darf der Debitor nach § 407 BGB an den Altgläubiger zahlen mit befreiender Wirkung; nach Anzeige nur noch an den Neugläubiger (§ 409 BGB). Die Anzeige ist nicht zwingend für die Wirksamkeit der Abtretung, aber für die operative Umlenkung der Zahlungen.
 
-Drei Modelle: (1) **offene Zession** – Anzeige sofort nach Abtretung, (2) **stille Zession** – keine Anzeige, Kunde inkassiert weiter, (3) **gestufte Zession** – Anzeige erst bei Krisensignalen. Dieser Skill ordnet die Modelle, die Anzeigeformen und die Kommunikationsstrategie.
+Drei Modelle: (1) **offene Zession** – Anzeige sofort nach Abtretung, (2) **stille Zession** – keine Anzeige, Kunde inkassiert weiter, (3) **gestufte Zession** – Anzeige erst bei Krisensignalen. Ordne die Modelle, die Anzeigeformen und die Kommunikationsstrategie.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

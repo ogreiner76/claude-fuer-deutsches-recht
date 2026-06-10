@@ -1,6 +1,6 @@
 ---
 name: kanzlei-mehrparteien-konflikt-und-interessen
-description: "Kanzlei: Mehrparteienkonflikt und Interessenmatrix: Kanzlei: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bau architektenrecht."
+description: "Kanzlei: Mehrparteienkonflikt und Interessenmatrix: Kanzlei: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Kanzlei: Mehrparteienkonflikt und Interessenmatrix
@@ -29,7 +29,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Kanzlei: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bau architektenrecht.
+**Fokus:** Kanzlei: Mehrparteienkonflikt und Interessenmatrix.
 
 ## Spezialwissen: Kanzlei: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.

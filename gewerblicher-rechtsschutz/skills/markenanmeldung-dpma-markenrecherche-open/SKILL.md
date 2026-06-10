@@ -19,7 +19,7 @@ Mandant moechte eine Marke beim DPMA anmelden oder Widerspruch gegen eine einget
 
 ## Zweck
 
-Dieser Skill führt durch das DPMA-Anmeldeverfahren für Wortmarken, Bildmarken,
+Führt durch das DPMA-Anmeldeverfahren für Wortmarken, Bildmarken,
 Wort-/Bildmarken und sonstige Markenformen (§ 3 MarkenG). Er umfasst die
 Vorbereitung der Anmeldung (§ 32 MarkenG), die Klassifikation nach dem Nizza-
 Abkommen, die Berechnung der Anmeldegebühren, die Prüfung absoluter Eintragungs-

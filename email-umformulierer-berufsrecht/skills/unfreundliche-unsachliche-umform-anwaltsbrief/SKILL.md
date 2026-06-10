@@ -1,6 +1,6 @@
 ---
 name: unfreundliche-unsachliche-umform-anwaltsbrief
-description: "Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage."
 ---
 
 # Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage

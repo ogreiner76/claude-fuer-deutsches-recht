@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Lehramt, kirchliche Sendung, Wissenschaft und Glaubenstreue**.
+Prüft insbesondere: **Lehramt, kirchliche Sendung, Wissenschaft und Glaubenstreue**.
 
 **CIC-/Normanker:** can. 807-821, 812.
 

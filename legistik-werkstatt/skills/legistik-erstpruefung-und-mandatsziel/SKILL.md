@@ -1,6 +1,6 @@
 ---
 name: legistik-erstpruefung-und-mandatsziel
-description: "Legistik: Erstprüfung, Rollenklärung und Mandatsziel im Plugin legistik werkstatt im Legistik."
+description: "Legistik: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Legistik: Erstprüfung, Rollenklärung und Mandatsziel

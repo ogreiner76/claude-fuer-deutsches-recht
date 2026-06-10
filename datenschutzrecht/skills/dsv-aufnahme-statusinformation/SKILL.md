@@ -1,6 +1,6 @@
 ---
 name: dsv-aufnahme-statusinformation
-description: "Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform: Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten i — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv aufnahme statusinformation."
+description: "Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform: Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten i"
 ---
 
 # Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform

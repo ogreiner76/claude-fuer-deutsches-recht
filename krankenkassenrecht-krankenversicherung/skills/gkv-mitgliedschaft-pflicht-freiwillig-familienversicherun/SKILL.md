@@ -19,7 +19,7 @@ Versicherungspflicht (§ 5 SGB V), freiwillige Versicherung (§ 9 SGB V) und Fam
 
 ## Skill-Zweck
 
-Dieser Skill klärt, **wie eine Person in der gesetzlichen Krankenversicherung versichert ist** – als Pflichtmitglied, freiwilliges Mitglied oder beitragsfrei über die Familienversicherung. Die Einordnung entscheidet über Beitraghöhe, Leistungsumfang und Wechselmöglichkeiten.
+Kläre, **wie eine Person in der gesetzlichen Krankenversicherung versichert ist** – als Pflichtmitglied, freiwilliges Mitglied oder beitragsfrei über die Familienversicherung. Die Einordnung entscheidet über Beitraghöhe, Leistungsumfang und Wechselmöglichkeiten.
 
 ## Rechtlicher Rahmen
 

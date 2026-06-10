@@ -1,6 +1,6 @@
 ---
 name: urteils-erstpruefung-und-mandatsziel
-description: "Urteils: Erstprüfung, Rollenklärung und Mandatsziel im Plugin urteilsbauer relationsmacher im Urteilsbauer Relationsmacher."
+description: "Urteils: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Urteils: Erstprüfung, Rollenklärung und Mandatsziel

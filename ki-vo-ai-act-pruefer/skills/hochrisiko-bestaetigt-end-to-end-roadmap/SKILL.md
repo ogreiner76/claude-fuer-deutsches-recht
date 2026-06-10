@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-bestaetigt-end-to-end-roadmap
-description: "Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestätigt und fragt: Was sind jetzt alle noetigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-KI Art. 9 bis 49 KI-VO. Prüfraster: zwoelf Schritte Risikomanagementsystem Art. 9 Datenqualitaet Art. 10 t — Arbeitskontext: KI-VO/AI Act Prüfer, Schwerpunkt hochrisiko bestaetigt end to end roadmap."
+description: "Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestätigt und fragt: Was sind jetzt alle noetigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-KI Art. 9 bis 49 KI-VO. Prüfraster: zwoelf Schritte Risikomanagementsystem Art. 9 Datenqualitaet Art. 10 t"
 ---
 
 # Hochrisiko-KI bestätigt — die End-to-End-Roadmap
@@ -21,7 +21,7 @@ Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestätigt und fragt: 
 
 Sie haben festgestellt: das System ist Hochrisiko nach Art. 6 Abs. 1 oder Abs. 2 i.V.m. Anhang I/III KI-VO. Die Rückausnahme nach Art. 6 Abs. 3 KI-VO greift nicht. **Was jetzt?**
 
-Dieser Skill liefert den vollständigen Mandanten-von "Hochrisiko-Diagnose" bis "Marktreife mit CE-Kennzeichnung". Ziel ist Entdramatisierung: jeder Schritt ist mechanisch abarbeitbar.
+Liefert den vollständigen Mandanten-von "Hochrisiko-Diagnose" bis "Marktreife mit CE-Kennzeichnung". Ziel ist Entdramatisierung: jeder Schritt ist mechanisch abarbeitbar.
 
 ---
 

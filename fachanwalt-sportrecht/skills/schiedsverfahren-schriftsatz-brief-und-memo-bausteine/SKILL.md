@@ -1,6 +1,6 @@
 ---
 name: schiedsverfahren-schriftsatz-brief-und-memo-bausteine
-description: "Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine: Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt sportrecht."
+description: "Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine: Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine."
 ---
 
 # Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
@@ -14,7 +14,7 @@ description: "Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine: Schieds
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verein, Spieler, Verband (DFB/DFL/DOSB), Bundessportgericht, CAS (Lausanne), NADA, ArbG/LAG, Schiedsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Spielervertrag, Lizenzantrag, Sportgerichtsentscheidung, Schiedsspruch CAS, Anti-Doping-Protokoll, Verbandsstatut, Transferanmeldung TMS — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt sportrecht.
+**Fokus:** Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine.
 
 ## Spezialwissen: Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** DFB, FIFA, UEFA, IOC, DOSB, CAS, WADA, NADA.

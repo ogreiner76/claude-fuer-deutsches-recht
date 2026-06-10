@@ -15,7 +15,7 @@ description: "Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsr
 
 ## Zweck dieses Skills
 
-Verlage nutzen zunehmend **Podcasts** zur Content-Vermarktung: Lesungen, Buchzusammenfassungen, Autoreninterviews, Serialisierungen. Diese Formate erfordern eigene Nutzungsrechtsklärungen — aus den vorhandenen Verlagswerken und für die Podcast-Produktion selbst. Dieser Skill klärt die Rechtslage vollständig.
+Verlage nutzen zunehmend **Podcasts** zur Content-Vermarktung: Lesungen, Buchzusammenfassungen, Autoreninterviews, Serialisierungen. Diese Formate erfordern eigene Nutzungsrechtsklärungen — aus den vorhandenen Verlagswerken und für die Podcast-Produktion selbst. Kläre die Rechtslage vollständig.
 
 ## Rechtsgrundlagen
 

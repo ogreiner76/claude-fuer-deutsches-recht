@@ -1,6 +1,6 @@
 ---
 name: berufliche-fristennotiz-naechster-schritt
-description: "Berufliche: Fristennotiz und nächster Schritt im Plugin Email Umformulierer Berufsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
+description: "Berufliche: Fristennotiz und nächster Schritt: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist..."
 ---
 
 # Berufliche: Fristennotiz und nächster Schritt

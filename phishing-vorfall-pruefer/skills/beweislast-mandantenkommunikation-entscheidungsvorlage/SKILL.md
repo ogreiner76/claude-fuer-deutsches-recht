@@ -1,6 +1,6 @@
 ---
 name: beweislast-mandantenkommunikation-entscheidungsvorlage
-description: "Beweislast: Mandantenkommunikation und Entscheidungsvorlage im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "Beweislast: Mandantenkommunikation und Entscheidungsvorlage."
 ---
 
 # Beweislast: Mandantenkommunikation und Entscheidungsvorlage

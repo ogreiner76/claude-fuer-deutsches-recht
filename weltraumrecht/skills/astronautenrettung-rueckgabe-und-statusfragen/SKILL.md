@@ -15,7 +15,7 @@ description: "Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschaf
 
 ## Aufgabe und Einsatzbereich
 
-Dieser Skill bearbeitet **Astronautenrettung: Rückgabe und Statusfragen** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
+Bearbeite **Astronautenrettung: Rückgabe und Statusfragen** im Bereich Weltraumrecht. Er strukturiert die praktische Lage, prüft einschlägige Normen des internationalen und nationalen Rechts und liefert verwertbare Ergebnisse für Betreiber, Behörden, Investoren, Kanzleien und Compliance-Beauftragte.
 
 ## Thematischer Kontext
 

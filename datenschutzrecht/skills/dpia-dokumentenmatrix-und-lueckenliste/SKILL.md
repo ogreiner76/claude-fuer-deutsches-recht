@@ -1,6 +1,6 @@
 ---
 name: dpia-dokumentenmatrix-und-lueckenliste
-description: "Dpia: Dokumentenmatrix, Lückenliste und Nachforderung: Dpia: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin datenschutzrecht."
+description: "Dpia: Dokumentenmatrix, Lückenliste und Nachforderung: Dpia: Dokumentenmatrix, Lückenliste und Nachforderung."
 ---
 
 # Dpia: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -14,7 +14,7 @@ description: "Dpia: Dokumentenmatrix, Lückenliste und Nachforderung: Dpia: Doku
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Dpia: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin datenschutzrecht.
+**Fokus:** Dpia: Dokumentenmatrix, Lückenliste und Nachforderung.
 
 ## Spezialwissen: Dpia: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.

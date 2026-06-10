@@ -1,6 +1,6 @@
 ---
 name: grundfreiheiten-zahlen-schwellen-und-berechnung
-description: "Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung im Plugin europarecht kompass im Europarecht Kompass."
+description: "Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung

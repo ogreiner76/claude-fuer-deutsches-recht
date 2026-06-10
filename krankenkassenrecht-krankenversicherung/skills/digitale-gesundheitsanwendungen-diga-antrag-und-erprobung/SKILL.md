@@ -15,7 +15,7 @@ description: "GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verord
 
 ## Skill-Zweck
 
-Digitale Gesundheitsanwendungen (DiGA) sind Apps auf Rezept. Dieser Skill klärt **Anspruchsvoraussetzungen, Verordnungsverfahren, Freischaltung durch die Kasse und den Erprobungsprozess**.
+Digitale Gesundheitsanwendungen (DiGA) sind Apps auf Rezept. Kläre **Anspruchsvoraussetzungen, Verordnungsverfahren, Freischaltung durch die Kasse und den Erprobungsprozess**.
 
 ## Rechtlicher Rahmen
 

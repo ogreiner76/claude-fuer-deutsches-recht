@@ -1,6 +1,6 @@
 ---
 name: notare-beweislast-darlegungslast
-description: "Notare: Beweislast, Darlegungslast und Substantiierung im Plugin Email Umformulierer Berufsrecht: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
+description: "Notare: Beweislast, Darlegungslast und Substantiierung: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrenss..."
 ---
 
 # Notare: Beweislast, Darlegungslast und Substantiierung

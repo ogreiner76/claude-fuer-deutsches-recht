@@ -1,6 +1,6 @@
 ---
 name: 675u-675w-banking
-description: "675U: Verhandlung, Vergleich und Eskalation im Plugin phishing vorfall pruefer im Phishing Vorfall Pruefer."
+description: "675U: Verhandlung, Vergleich und Eskalation."
 ---
 
 # 675U: Verhandlung, Vergleich und Eskalation

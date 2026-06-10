@@ -1,6 +1,6 @@
 ---
 name: mechanik-erstpruefung-und-mandatsziel
-description: "Mechanik: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki vo ai act pruefer im Ki Vo Ai Act Pruefer."
+description: "Mechanik: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Mechanik: Erstprüfung, Rollenklärung und Mandatsziel

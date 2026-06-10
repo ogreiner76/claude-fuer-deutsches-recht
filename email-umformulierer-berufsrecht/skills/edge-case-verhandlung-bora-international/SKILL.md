@@ -1,6 +1,6 @@
 ---
 name: edge-case-verhandlung-bora-international
-description: "Allgemeine: Sonderfall und Edge-Case-Prüfung im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Allgemeine: Sonderfall und Edge-Case-Prüfung."
 ---
 
 # Allgemeine: Sonderfall und Edge-Case-Prüfung

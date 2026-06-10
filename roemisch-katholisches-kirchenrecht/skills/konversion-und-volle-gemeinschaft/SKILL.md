@@ -49,7 +49,7 @@ Dieser Skill arbeitet innerhalb des Plugins **Römisch-katholisches Kirchenrecht
 
 ## Canonischer und katechetischer Fokus
 
-Dieser Skill prüft insbesondere: **Taufe, Glaubensbekenntnis, Firmung, Eucharistie und Register**.
+Prüft insbesondere: **Taufe, Glaubensbekenntnis, Firmung, Eucharistie und Register**.
 
 **CIC-/Normanker:** can. 204-205, 206, 842-848.
 

@@ -1,6 +1,6 @@
 ---
 name: korrespondenz-zahlen-schwellen-und-berechnung
-description: "Korrespondenz: Zahlen, Schwellenwerte und Berechnung im Plugin markenrecht fashion luxus im Markenrecht Fashion Luxus."
+description: "Korrespondenz: Zahlen, Schwellenwerte und Berechnung."
 ---
 
 # Korrespondenz: Zahlen, Schwellenwerte und Berechnung

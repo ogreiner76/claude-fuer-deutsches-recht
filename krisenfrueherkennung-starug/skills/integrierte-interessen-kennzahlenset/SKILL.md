@@ -1,6 +1,6 @@
 ---
 name: integrierte-interessen-kennzahlenset
-description: "Integrierte: Mehrparteienkonflikt und Interessenmatrix im Plugin krisenfrueherkennung starug im Krisenfrueherkennung Starug."
+description: "Integrierte: Mehrparteienkonflikt und Interessenmatrix."
 ---
 
 # Integrierte: Mehrparteienkonflikt und Interessenmatrix

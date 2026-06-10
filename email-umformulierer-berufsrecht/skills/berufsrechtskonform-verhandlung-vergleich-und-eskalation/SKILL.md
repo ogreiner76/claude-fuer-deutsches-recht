@@ -1,6 +1,6 @@
 ---
 name: berufsrechtskonform-verhandlung-vergleich-und-eskalation
-description: "Berufsrechtskonform: Verhandlung, Vergleich und Eskalation im Plugin email umformulierer berufsrecht im Berufsrechts-E-Mail."
+description: "Berufsrechtskonform: Verhandlung, Vergleich und Eskalation."
 ---
 
 # Berufsrechtskonform: Verhandlung, Vergleich und Eskalation

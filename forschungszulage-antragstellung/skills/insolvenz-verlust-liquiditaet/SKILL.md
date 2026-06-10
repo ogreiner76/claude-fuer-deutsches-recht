@@ -1,13 +1,13 @@
 ---
 name: insolvenz-verlust-liquiditaet
-description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, — Arbeitskontext: Forschungszulage FZulG, Schwerpunkt insolvenz verlust liquiditaet."
+description: "Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse,"
 ---
 
 # Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel
 
 ## Worum geht es
 
-Die Forschungszulage ist nach § 10 FZulG so konstruiert, dass ein Überschuss über die festgesetzte Einkommen- oder Körperschaftsteuer als Steuererstattung ausgezahlt wird. In Verlustjahren und Start-up-Phasen heißt das: Liquidität, obwohl keine Steuer zu zahlen ist. Genau dafür wurde die Erstattungslogik geschaffen. Dieser Skill behandelt die Krise und die Insolvenz mit allen Nebenfolgen.
+Die Forschungszulage ist nach § 10 FZulG so konstruiert, dass ein Überschuss über die festgesetzte Einkommen- oder Körperschaftsteuer als Steuererstattung ausgezahlt wird. In Verlustjahren und Start-up-Phasen heißt das: Liquidität, obwohl keine Steuer zu zahlen ist. Genau dafür wurde die Erstattungslogik geschaffen. Behandle die Krise und die Insolvenz mit allen Nebenfolgen.
 
 ## Wann dieses Modul hilft
 

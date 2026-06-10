@@ -1,6 +1,6 @@
 ---
 name: dsv-spezialfaelle-uebersicht
-description: "Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills: Behandelt: Ransomwa — Arbeitskontext: Datenschutzrecht DSGVO/BDSG, Schwerpunkt dsv spezialfaelle uebersicht."
+description: "Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills: Behandelt: Ransomwa"
 ---
 
 # Liefert eine schnelle Übersicht über häufige Spezialfälle eines Datenschutzvorfalls und verweist auf vertiefte Skills

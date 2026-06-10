@@ -15,7 +15,7 @@ description: "Verlagsrecht: Buchhandelsvertrag zwischen Verlag und Buchhandel â€
 
 ## Zweck dieses Skills
 
-Der **Buchhandelsvertrag** zwischen Verlag (oder Auslieferung) und Buchhandlung ist die Grundlage des Buchvertriebssystems. Er regelt Rabatte, Zahlungsbedingungen, Remissionsrechte und Buchpreisbindungs-Pflichten. Dieser Skill analysiert die typischen Konditionenmodelle und die Remissions-Praxis.
+Der **Buchhandelsvertrag** zwischen Verlag (oder Auslieferung) und Buchhandlung ist die Grundlage des Buchvertriebssystems. Er regelt Rabatte, Zahlungsbedingungen, Remissionsrechte und Buchpreisbindungs-Pflichten. Analysiere die typischen Konditionenmodelle und die Remissions-Praxis.
 
 ## Rechtsgrundlagen
 

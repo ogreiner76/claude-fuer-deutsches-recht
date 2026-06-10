@@ -1,6 +1,6 @@
 ---
 name: dublin-risikoampel-und-gegenargumente
-description: "Dublin: Risikoampel, Gegenargumente und Verteidigungslinien: Dublin: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt migrationsrecht."
+description: "Dublin: Risikoampel, Gegenargumente und Verteidigungslinien: Dublin: Risikoampel, Gegenargumente und Verteidigungslinien."
 ---
 
 # Dublin: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -14,7 +14,7 @@ description: "Dublin: Risikoampel, Gegenargumente und Verteidigungslinien: Dubli
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Dublin: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt migrationsrecht.
+**Fokus:** Dublin: Risikoampel, Gegenargumente und Verteidigungslinien.
 
 ## Spezialwissen: Dublin: Risikoampel, Gegenargumente und Verteidigungslinien
 - **Normen-/Quellenanker:** AufenthG, AsylG, GFK, VO, RL, StAG.

@@ -15,7 +15,7 @@ description: "Notariat im Alltag: Immobilienfinanzierung – Bankauflagen und Tr
 
 ## Zweck und Anwendungsbereich
 
-Käufer finanzieren Immobilien häufig über Bankdarlehen, die eigene Auflagen für den Vollzug stellen. Der Notar koordiniert Kaufvertragsvollzug und Bankfinanzierung. Dieser Skill klärt Bankauflagen, Treuhandaufträge und Koordinationspflichten.
+Käufer finanzieren Immobilien häufig über Bankdarlehen, die eigene Auflagen für den Vollzug stellen. Der Notar koordiniert Kaufvertragsvollzug und Bankfinanzierung. Kläre Bankauflagen, Treuhandaufträge und Koordinationspflichten.
 
 Rechtsgrundlagen: §§ 311b, 873, 925 BGB (Kaufvertrag, Auflassung), §§ 1191–1203 BGB (Grundschuld), § 54a BeurkG (Verwahrungsgeschäfte), § 3 MaBV (Bauträger), GNotKG KV Nr. 22110 (Vollzugsgebühr), §§ 488–490 BGB (Darlehensvertrag), § 489 BGB (Kündigung Verbraucherdarlehen).
 

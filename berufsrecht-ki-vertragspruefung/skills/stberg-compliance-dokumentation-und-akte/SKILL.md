@@ -1,6 +1,6 @@
 ---
 name: stberg-compliance-dokumentation-und-akte
-description: "Stberg: Compliance-Dokumentation und Aktenvermerk im Plugin berufsrecht ki vertragspruefung im Berufsrecht KI-Vertragsprüfung."
+description: "Stberg: Compliance-Dokumentation und Aktenvermerk."
 ---
 
 # Stberg: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: questions-fristennotiz-und-naechster-schritt
-description: "Questions: Fristennotiz und nächster Schritt im Plugin memorandums ersteller im Memorandums Ersteller."
+description: "Questions: Fristennotiz und nächster Schritt."
 ---
 
 # Questions: Fristennotiz und nächster Schritt
