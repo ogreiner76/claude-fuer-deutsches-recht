@@ -43,3 +43,15 @@ description: "Analyse von Arbeitszeugnissen für Führungskräfte und leitende A
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+
+## Leitentscheidungs-Anker (Notenstufen + Empfaengerhorizont)
+
+> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
+
+| Entscheidung | Tragende Aussage | Freie Quelle |
+| --- | --- | --- |
+| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast fuer bessere Note beim Arbeitnehmer, fuer schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast fuer bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 21.06.2005 - 9 AZR 352/04** | Gebot der Zeugnisklarheit ($ 109 II GewO): massgeblich ist der objektive Empfaengerhorizont, nicht die Absicht des Arbeitgebers. "Kennen gelernt" allein ist kein Geheimcode. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 15.11.2011 - 9 AZR 386/10** | Bestaetigung: "kennen gelernt" ist allein und losgeloest vom uebrigen Zeugnisinhalt kein unzulaessiger Geheimcode; Werturteile-Spielraum mit Grenze Zeugniswahrheit/-klarheit. | bundesarbeitsgericht.de / dejure.org |
+

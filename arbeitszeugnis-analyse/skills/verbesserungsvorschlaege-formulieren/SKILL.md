@@ -78,3 +78,35 @@ Begründung: "war in der Lage" (theoretische Fähigkeit) wird zu "löste" (tats�
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+
+## Leitentscheidungs-Anker (Notenstufen & Beweislast)
+
+> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
+
+| Entscheidung | Tragende Aussage | Freie Quelle |
+| --- | --- | --- |
+| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast fuer bessere Note beim Arbeitnehmer, fuer schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast fuer bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
+
+
+## Wortlaut-Verbesserungstabelle (Operationsprinzipien)
+
+| Original (rot/orange) | Operation | Ergebnis (gruen) |
+| --- | --- | --- |
+| "zur Zufriedenheit" | stets + vollsten ergaenzen | "stets zur vollsten Zufriedenheit" |
+| "bemueht" | Ergebnis statt Wille | "stets mit Erfolg erledigt" |
+| "im Wesentlichen" | Einschraenkung streichen | Formulierung ohne Einschraenkung |
+| "nach Anweisung" | Eigenverantwortung einsetzen | "eigenverantwortlich und selbststaendig" |
+| kein Bedauern in Schlussformel | Bedauern ergaenzen | "Wir bedauern es sehr, Herrn X zu verlieren" |
+| "korrekt" (Verhalten) | auf "stets einwandfrei" aufwerten | "Sein Verhalten war stets einwandfrei" |
+| "zeigte hohe Lernbereitschaft" | Verb und Steigerer aufwerten | "bildete sich stets eigeninitiativ und mit grossem Erfolg fort" |
+| "fand gute neue Ideen" | Verb und Adjektiv aufwerten | "entwickelte stets hervorragende innovative Loesungsansaetze" |
+| "war in der Lage, Konflikte zu bewaeltigen" | Faehigkeit zu Tatsache | "loeste Konflikte stets souveraen und mit Augenmass" |
+| "geschaetzter Ansprechpartner" | Steigerung ergaenzen | "aeusserst geschaetzter und gefragter Ansprechpartner" |
+
+### Operationsprinzipien
+
+1. **Adverb zuerst** - "stets/jederzeit/vollsten" entscheidet die Note. Ohne Adverb kein Note-1-Wortlaut.
+2. **Ergebnis statt Wille** - "bemueht" und "in der Lage" durch konkrete Erfolgsaussage ersetzen.
+3. **Reihenfolge im Verhaltensteil** - Vorgesetzte vor Kollegen vor Kunden (oder branchenueblich begruendet). Reihenfolge ist Berichtigungspunkt.
+4. **Schlussformel in drei Elementen** - Bedauern, Dank, Wunsch. Vollstaendigkeit ist Verhandlungspunkt, kein automatischer Klageanspruch.
