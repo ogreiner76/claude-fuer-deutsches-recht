@@ -113,3 +113,27 @@ Vor jeder abschließenden Antwort prüfe:
 
 Für Schulung und Regression eignet sich die Arbeitsakte `arbeitszeugnis-analyse-bluehendes-leben`. Nutze sie nicht als vorgefertigte Lösung, sondern als lebendiges Material: erst lesen, dann Hypothese bilden, dann mit den Fachmodule absichern. Die Fälle sollen zeigen, dass Arbeitszeugnisse oft höflich aussehen und trotzdem in einzelnen Abschnitten hart abwerten.
 
+
+## Leitentscheidungs-Anker (Uebersicht, vor Schriftsatzverwendung live verifizieren)
+
+> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
+
+| Entscheidung | Tragende Aussage | Freie Quelle |
+| --- | --- | --- |
+| **BAG, Urt. v. 14.10.2003 - 9 AZR 12/03** | Zur vollen Zufriedenheit bescheinigt durchschnittliche Leistung (Note 3); Beweislast fuer bessere Note beim Arbeitnehmer, fuer schlechtere beim Arbeitgeber. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 18.11.2014 - 9 AZR 584/13** | "Befriedigend" als Mitte der Skala; Arbeitnehmer traegt Beweislast fuer bessere Note; Branchenueblichkeit guter Noten verschiebt die Beweislast nicht. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 20.02.2001 - 9 AZR 44/00** | Beginn der staendigen Linie: kein Anspruch auf Schlussformel mit Dank und guten Wuenschen; Fehlen kein unzulaessiges Geheimzeichen. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 11.12.2012 - 9 AZR 227/11** | Kein Anspruch auf Dank/Wuensche; bei unzufriedener Mandantschaft mit erteilter Schlussformel ist nur ein Zeugnis OHNE Schlussformel einklagbar - keine Umformulierung. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 25.01.2022 - 9 AZR 146/21** | Bestaetigung der Linie; Abwaegung mit Meinungsfreiheit des Arbeitgebers (Art. 5 I GG). | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 06.06.2023 - 9 AZR 272/22** | Massregelungsverbot $ 612a BGB: eine einmal erteilte Dankes-/Wunschformel darf nicht in spaeterer Fassung gestrichen werden, nur weil der Arbeitnehmer berechtigte Aenderungswuensche geltend gemacht hat. | bundesarbeitsgericht.de / dejure.org |
+
+
+## Sofortstart und Rueckfrage-Disziplin
+
+**Der haeufigste Fall ist der einfachste: jemand fuegt ein Zeugnis ein - sonst nichts.** Dann gilt:
+
+1. **Sofort loslegen.** Fuegt der Nutzer nur ein Zeugnis ein (Text, PDF, Foto), ohne Anweisung, laeuft ohne Nachfrage die **Vollanalyse**: Kopfdaten, Einschaetzungsmatrix, Drift-/Auslassungspruefung, Gesamtnotenspanne, Handlungsempfehlung.
+2. **Fehlende Angaben sind kein Blocker.** Was das Intake nicht hergibt, wird aus dem Zeugnis selbst abgeleitet (Position, Branche, Beendigungsanlass, Zeugnisart) und als **gekennzeichnete Annahme** gefuehrt ("Annahme: Vertriebsposition mit Kundenkontakt - bitte korrigieren, falls falsch.").
+3. **Hoechstens eine Rueckfrage**, und nur bei echtem Verstaendnisblocker (Text unleserlich, zwei Zeugnisse vermischt, Sprache unklar). Mehrere offene Punkte in **eine einzige gebuendelte Rueckfrage** packen - niemals seriell nachfragen.
+4. **Wuenschefragen ans Ende.** Ob der Nutzer auch ein Aufforderungsschreiben oder eine Klagestrategie will, wird nicht vorab gefragt, sondern am Schluss der Analyse als Option angeboten ("Auf Wunsch erstelle ich daraus das Aufforderungsschreiben.").
+5. **Rollenvermutung:** Ohne anderslautende Angabe wird angenommen, dass der Einsender die beurteilte Person ist (Arbeitnehmerperspektive).

@@ -80,3 +80,18 @@ description: "Erstellt die standardisierte Ampel-Ausgabetabelle für analysierte
 - BVerwG 6 C 12.21 (Maßstab Verwaltungsentscheidung)
 - BGH GSZ 1/14 (richterliche Rechtsfortbildung)
 
+
+## Ampel-Symbol-Disziplin
+
+**Die Ampel wird grafisch gesetzt, nicht als Farbwort geschrieben.** In jeder Ausgabe gilt:
+
+- 🔴 = Rot (Note 4-6, Negativcode, dringender Berichtigungspunkt)
+- 🟠 = Orange (Note 3, Abschwaechung, Verhandlungspunkt) - bei Darstellungsproblemen: 🟡
+- 🟢 = Gruen (Note 1-2, unbedenklich)
+
+Regeln:
+
+1. In Matrizen, Tabellen und Fliesstext immer das **farbige Ampelsymbol** setzen ("🔴"), nicht "Rot". Die Farbwoerter in internen Katalogtabellen sind Kodierung - in der Nutzerausgabe erscheinen Symbole.
+2. In reiner ASCII-Umgebung ersatzweise `[ROT]`, `[ORANGE]`, `[GRUEN]` in Grossbuchstaben.
+3. Im **Hauptbefund** zusaetzlich eine Ampel-Bilanz-Zeile ausgeben: `Ampel-Bilanz: 🔴 4 · 🟠 3 · 🟢 5`.
+4. Mischbefunde als Doppelsymbol: 🟢🟠.

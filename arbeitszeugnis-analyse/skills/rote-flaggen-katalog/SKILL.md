@@ -48,3 +48,13 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+
+## Leitentscheidungs-Anker (Ironie und Unterschriftsgeheimzeichen)
+
+> Diese Entscheidungen sind als Sucheinstieg gepflegt. Vor jeder Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (`bundesarbeitsgericht.de`, `dejure.org`, Rechtsprechungsportal des Bundes) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung.
+
+| Entscheidung | Tragende Aussage | Freie Quelle |
+| --- | --- | --- |
+| **LAG Hamm, Beschl. v. 14.11.2016 - 12 Ta 475/16** | Ironisch ueberzogenes Lob ist unzulaessig; Arbeitnehmer hat Anspruch auf geschaeftsuebliche Unterschrift des Ausstellers; quer-laufende Unterschrift weckt Zweifel an Ernsthaftigkeit. | nrwe.de / justiz.nrw.de |
+| **ArbG Kiel, Urt. v. 18.04.2013 - 5 Ca 80 b/13** | In die Unterschrift eingearbeiteter Smiley mit herabgezogenen Mundwinkeln ist ein unzulaessiges Geheimzeichen ($ 109 II 2 GewO). | frei publiziert / dejure-Suche |
+
