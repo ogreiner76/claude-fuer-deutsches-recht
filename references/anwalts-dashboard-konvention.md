@@ -12,6 +12,20 @@
 
 ## Standardaufbau (von oben nach unten)
 
+### Visueller Anker (optional, vor Block 1)
+
+Wenn der Fall typischerweise einen mehrstufigen Verfahrensablauf hat, darf am Anfang eine kompakte **Routenkarte als ASCII-Block** stehen — eine Zeile pro Phase, mit Pfeilen, ohne Lehrbuch. Beispiel Insolvenzrecht:
+
+```
+Antragsphase  -->  Eroeffnung 27/28 InsO  -->  Berichtstermin 156 InsO
+     |                     |                          |
+     |                     v                          v
+$ 15a InsO       VVB $ 80 InsO              Verwertung 159 ff. InsO
+3 Wochen         Treuhandkonten              Glaeubigerausschuss 160 InsO
+```
+
+Höchstens 10 Zeilen, klar lesbar in Monospace. Keine ASCII-Kunst um ihrer selbst willen — die Karte muss eine Frage beantworten, die die Tabelle nicht beantwortet (typischerweise: „wo stehe ich im Verfahrenslauf?").
+
 ### Block 1 — Sofort-Triage (Tabelle, vor jeder Rückfrage)
 
 | Punkt | Schnellprüfung | Standardquelle / Hilfsweg |

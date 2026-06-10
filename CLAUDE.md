@@ -25,6 +25,7 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 - Aufsätze: Autor, Zeitschrift, Jahrgang, Anfangsseite (konkrete Seite).
 - Reihenfolge: Rspr. vor Lit., neueste zuerst.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- **Leitentscheidungs-Anker:** [`references/leitentscheidungen-anker.md`](./references/leitentscheidungen-anker.md) ist die kuratierte Themen-Anker-Liste je Rechtsgebiet. Sie ersetzt nicht die Live-Verifikation, aber sie liefert sichere Sucheinstiege ohne Modellwissens-Halluzination.
 
 ## Verboten
 

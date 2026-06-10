@@ -15,6 +15,19 @@ Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
+## Anwalts-Dashboard fuer den Schnelleinstieg
+
+Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
+Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
+Zustaendigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
+Norm-Radar, Leitentscheidungs-Anker und genau eine Rueckfrage - bei
+klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
+
+Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
+| Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
+| Quellenhygiene: [`references/quellenhygiene.md`](../references/quellenhygiene.md).
+
+
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 ## Installation in Claude Code
