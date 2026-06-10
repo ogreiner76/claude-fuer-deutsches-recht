@@ -1,3 +1,47 @@
+# v293.0.0 — Qualitätsoffensive Rechtsprechungs-Anker und Arbeitszeugnis-Prüfer-Integration
+
+## Neue Referenzen
+
+- `references/leitentscheidungen-anker.md` — kuratiertes Such-Gerüst je Rechtsgebiet (BGH, BVerfG, BAG, BSG, BFH, BVerwG, EuGH, EGMR) ohne Aktenzeichen-Behauptungen aus Modellwissen. Skills nutzen die Anker als Sucheinstieg; Live-Verifikation in freier Quelle vor Schriftsatzverwendung bleibt Pflicht.
+- `references/anwalts-dashboard-konvention.md`: Block 6 (Leitentscheidungs-Anker) als verbindlicher Bestandteil der 6-Block-Struktur; neue optionale „Visueller Anker"-Sektion (ASCII-Routenkarte) vor Block 1; Self-Test auf 6 Pflichtfragen erhöht.
+
+## Fachanwalts-Einstiegs-Dashboards (10 Plugins)
+
+- Jedes der 10 Fachanwalt-Plugin-Einstiegs-Dashboards (arbeitsrecht, familienrecht, strafrecht, verkehrsrecht, miet-WEG, erbrecht, medizinrecht, handels-gesellschaftsrecht, insolvenz-sanierungsrecht, versicherungsrecht) erhält den neuen Block „Leitentscheidungs-Anker" mit vier topischen Rspr-Linien, jeweils mit Spruchkörper und freier Quelle.
+- Jedes Fachanwalt-Plugin-README erhält eine prominente „Anwalts-Dashboard für den Schnelleinstieg"-Sektion direkt nach dem Sofort-Download-Block.
+
+## arbeitszeugnis-analyse-Plugin
+
+- Integration des extern entwickelten `Klotzkette/arbeitszeugnispruefer-skill` v2.0.0 (1158-Zeilen-Monoskill mit 11 BAG- + 2 LAG/ArbG-Az.) — geschickt verteilt auf 20 der 50 Plugin-Skills, statt monolithisch zu kopieren.
+- Neue Skill-Inhalte:
+  - `rechtliche-bewertung-bag-rechtsprechung`: volle 13-Entscheidungen-Anker-Tabelle.
+  - `zufriedenheitsformel-decodierung`, `gruen-flaggen-katalog`, `verbesserungsvorschlaege-formulieren`, `gesamtnoten-aggregation`, `azubi-zeugnis-analyse`: BAG-Notenstufen/Beweislast-Linie (9 AZR 12/03, 9 AZR 584/13).
+  - `schlussformel-bewertung`, `aufforderungsschreiben-arbeitgeber`: BAG-Schlussformel-Linie inkl. Maßregelungsverbot § 612a BGB (BAG 9 AZR 272/22).
+  - `orange-flaggen-katalog`, `bereichs-drift-detektor`, `negationen-und-auslassungen-erkennen`, `widerspruechliche-bewertungen`, `branchen-spezifische-formulierungen`: Empfängerhorizont-Linie (9 AZR 352/04, 386/10).
+  - `rote-flaggen-katalog`: Ironie- und Smiley-Geheimzeichen-Linie (LAG Hamm 12 Ta 475/16, ArbG Kiel 5 Ca 80 b/13).
+  - `klage-strategie-zeugnisberichtigung`: Vollstreckungs-Modul mit BAG 8 AZB 25/25 und § 888 ZPO.
+- Workflow-Direktiven:
+  - `einstieg-routing` + `kaltstart-triage`: Sofortstart-Disziplin.
+  - `ampelsystem-tabellenausgabe`: Ampel-Symbol-Disziplin (🔴/🟠/🟢).
+  - `output-waehlen`: HR-Gegenprüfung-Modus.
+
+## Testakten
+
+- Neue Testakte `insolvenz-asset-deal-chaincortex-ai-berlin` — Asset Deal aus eröffnetem Insolvenzverfahren mit 34 Dateien in 7 Formaten (MD, PDF, DOCX in Times New Roman, XLSX, EML, JPG, CSV), Gesamt-PDF 83 Seiten. Verlinkt in den READMEs von `fachanwalt-insolvenz-sanierungsrecht`, `insolvenzrecht`, `insolvenzverwaltung`, `corporate-kanzlei`.
+- `scripts/build-testakte-gesamt-pdf.py`: defensiver Strip nachlaufender PageBreaks; jedes Aktenstück beginnt auf neuer Seite.
+
+## CLAUDE.md
+
+- PR-Default: ready statt draft, sofortiger Merge auf main (Force-Push verboten).
+- Verweis auf `references/leitentscheidungen-anker.md` als kuratierte Themen-Anker-Liste.
+
+## Validatoren
+
+- Alle grün: plugin-structure, yaml-frontmatter, testakten-gesamt-pdf (204 Testakten), sync-references.
+- 212 Plugins, alle auf v293.0.0.
+
+---
+
 # v292.0.0 — Rechtsvergleich zwölf europäische Rechtsordnungen im verhaeltnismaessigkeitspruefer
 
 ## Skills
