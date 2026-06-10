@@ -29,13 +29,25 @@ description: Einstieg in den Verhaeltnismaessigkeitspruefer mit Plugin-Karte, Me
 
 ## Rechtsvergleich
 
-Fünf Vergleichsordnungen sind als Kontrastfolie aufbereitet:
+Siebzehn Vergleichsordnungen sind als Kontrastfolie aufbereitet:
 
 - **Südafrika** — Section 36 Limitation Clause mit fünf Faktoren: `suedafrika-section-36-uebersicht`, `section-36-vs-deutsche-schranken-schranke`, `suedafrika-section-36-fallmatrix`.
 - **Kanada** — Oakes-Test mit vier Prongs unter Section 1 Charter: `kanada-oakes-test-uebersicht`, `kanada-oakes-fallmatrix`.
 - **EGMR / EMRK** — necessary in a democratic society und margin of appreciation nach Art 8–11 II EMRK: `egmr-emrk-verhaeltnismaessigkeit`.
 - **EuGH / Charta** — Art 52 I GRCh mit Wesensgehalt, Digital Rights Ireland und Schrems II: `eugh-cjeu-verhaeltnismaessigkeit`.
 - **USA** — strict, intermediate und rational basis scrutiny mit Korematsu, Grutter und Adarand: `usa-tiers-of-scrutiny`.
+- **Frankreich** — Triple Test des CE seit Ville Nouvelle Est, Conciliation des Conseil constitutionnel, QPC: `frankreich-controle-proportionnalite`.
+- **Italien** — Ragionevolezza ueber Art 3 Cost mit Idoneità/Necessità/Proporzionalità und Bilanciamento: `italien-ragionevolezza-proporzionalita`.
+- **Spanien** — Juicio de proporcionalidad in drei Stufen (STC 66/1995, STC 207/1996), Contenido esencial Art 53 I CE: `spanien-juicio-proporcionalidad`.
+- **Niederlande** — Evenredigheidsbeginsel Art 3:4 Awb seit Maxis en Praxis (ABRvS 2022): `niederlande-evenredigheidsbeginsel`.
+- **Belgien** — Grondwettelijk Hof / Cour constitutionnelle ueber Art 10 11 GW, Foederalismus-Pruefung: `belgien-redelijkheid-evenredigheid`.
+- **Österreich** — VfGH-Sachlichkeitsgebot mit EMRK im Verfassungsrang: `oesterreich-vfgh-verhaeltnismaessigkeit`.
+- **Luxemburg** — Cour constitutionnelle Triple Test, Verfassungsreform 2023: `luxemburg-cour-constitutionnelle-proportionnalite`.
+- **Dänemark** — Proportionalitetsprincip in Politilov und Retsplejelov, EMRK-Inkorporation 1992: `daenemark-proportionalitetsprincip`.
+- **Polen** — Trybunal Konstytucyjny Art 31 III Konstytucji mit Istota wolnosci i praw: `polen-tk-zasada-proporcjonalnosci`.
+- **Tschechien** — Ustavni soud Pl US 4/94, Podstata a smysl Art 4 IV LZPS: `tschechien-us-zasada-primerenosti`.
+- **Griechenland** — Art 25 I 4 Syntagma seit 2001, Archi tis analogikotitas: `griechenland-stedikastiriou-analogikotita`.
+- **Irland** — Heaney Test 1994 als Oakes-Rezeption, Unenumerated rights Art 40 3 Constitution: `irland-supreme-court-proportionality`.
 
 Die deutsche Lösung bleibt stets an Grundgesetz und BVerfG-Rechtsprechung gebunden; der Vergleich liefert nur Argumentationsmaterial.
 

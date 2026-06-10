@@ -36,7 +36,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 20835 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 203 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v291.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v292.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -391,7 +391,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`verbraucherschutzverband-durchsetzung`](./verbraucherschutzverband-durchsetzung) | Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststellung, Unterlassung, Register, Finanzierung, Vergleich und Kampagnenakte. |
 | [`vereinsrecht-vereinsmanager`](./vereinsrecht-vereinsmanager) | Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen, Veranstaltungen und Spezialvereine. |
 | [`verfassungsrecht`](./verfassungsrecht) | Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und Verfassungsbeschwerde. |
-| [`verhaeltnismaessigkeitspruefer`](./verhaeltnismaessigkeitspruefer) | Verhältnismäßigkeitsprüfer mit 44 Skills zur vierstufigen Schranken-Schranke: Vorprüfung Schutzbereich/Eingriff/Rechtfertigung, absolute Grenzen (Wesensgehalt, Menschenwürde), Bestimmtheit, Wesentlichkeitstheorie, BVerfG-Leitentscheidungen, PrOVG-Kreuzberg-Linie, Section-36-Südafrika-Rechtsvergleich, audiovisuelle Leitentscheidungen-Sammlung, Padlet- und ASCII-/Mermaid-Visualisierung. |
+| [`verhaeltnismaessigkeitspruefer`](./verhaeltnismaessigkeitspruefer) | Verhältnismäßigkeitsprüfer mit 61 Skills zur vierstufigen Schranken-Schranke: Vorprüfung Schutzbereich/Eingriff/Rechtfertigung, absolute Grenzen (Wesensgehalt, Menschenwürde), Bestimmtheit, Wesentlichkeitstheorie, BVerfG-Leitentscheidungen, PrOVG-Kreuzberg-Linie sowie Rechtsvergleich zu Südafrika Section 36, Kanada Oakes, EGMR/EMRK, EuGH/Charta, USA und 12 europäischen Rechtsordnungen (FR IT ES NL BE AT LU DK PL CZ GR IE), audiovisuelle Leitentscheidungen-Sammlung, Padlet- und ASCII-/Mermaid-Visualisierung. |
 | [`verkehr-infrastrukturrecht`](./verkehr-infrastrukturrecht) | Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende. |
 | [`verkehrsowi-verteidiger`](./verkehrsowi-verteidiger) | Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht. |
 | [`verlagsrecht-buchpreisbindung`](./verlagsrecht-buchpreisbindung) | Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance. |

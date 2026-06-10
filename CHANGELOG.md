@@ -1,3 +1,27 @@
+# v292.0.0 — Rechtsvergleich zwölf europäische Rechtsordnungen im verhaeltnismaessigkeitspruefer
+
+## Skills
+
+- **verhaeltnismaessigkeitspruefer**: zwölf neue rechtsvergleichende Skills, Plugin wächst von 49 auf 61 Skills. Gruppe „Rechtsvergleich“ jetzt 20 Skills für 17 Rechtsordnungen.
+  - `frankreich-controle-proportionnalite` — CE Triple Test seit CE Ass 28 mai 1971 Ville Nouvelle Est (Lebon 409), Adequation/Necessite/Proportionnalite stricto sensu, Conseil constitutionnel ueber Conciliation und QPC-Verfahren Art 61-1 Verfassung, Plein contentieux Police mit Controle minimum/normal/maximum.
+  - `italien-ragionevolezza-proporzionalita` — Corte costituzionale Ragionevolezza ueber Art 3 Cost als Idoneita/Necessita/Proporzionalita; Bilanciamento dei principi, nucleo essenziale, principi supremi (Sent 1146/1988); Leading cases 1130/1988, 220/1995, 85/2013 ILVA, 242/2019 Cappato; EMRK ueber Sent 348/349/2007 als norme interposte.
+  - `spanien-juicio-proporcionalidad` — Tribunal Constitucional STC 66/1995 und STC 207/1996, Idoneidad/Necesidad/Proporcionalidad en sentido estricto; Contenido esencial Art 53 I CE, reserva de ley organica Art 81 CE; STC 49/1999 (Telefoonintervention), STC 14/2003.
+  - `niederlande-evenredigheidsbeginsel` — Art 3 4 lid 2 Awb seit ABRvS 2 februari 2022 (Maxis en Praxis ECLI:NL:RVS:2022:285), Geschiktheid/Noodzakelijkheid/Evenwichtigheid mit variabler toetsingsintensiteit; Toetsingsverbod Art 120 Gw; EVRM und Charta als dominanter Massstab.
+  - `belgien-redelijkheid-evenredigheid` — Grondwettelijk Hof ueber Art 10 11 GW als Einfallstor; objectief en redelijk verantwoord; arrests 23/89, 39/91, 116/2017, 96/2018; Raad van State / Conseil d Etat redelijkheidstoets; Bevoegdheidsoverschrijding als Foederalismus-Pruefung.
+  - `oesterreich-vfgh-verhaeltnismaessigkeit` — VfGH Sachlichkeitsgebot Art 7 B-VG mit Eignung/Erforderlichkeit/Adaequanz; EMRK im Verfassungsrang (BGBl 59/1964); VfSlg 11.853/1988, 12.485/1990, 20.397/2020 COVID; Funktionsschutz als Wesensgehalts-Pendant.
+  - `luxemburg-cour-constitutionnelle-proportionnalite` — Cour constitutionnelle Triple Test Adequation/Necessite/Proportionnalite, Arrets 17/2003, 23/2004, 109/2014, 132/2017; Verfassungsreform 2023; Cour administrative und Cour superieure de justice als Parallelbahnen.
+  - `daenemark-proportionalitetsprincip` — Politilov § 2 Nr 6, Retsplejelov § 783, Udlaendingelov; Egnethed/Noedvendighed/Proportionalitet i snaever forstand; Hoejesteret U 1996.234 H (Tvind), U 2013.1916 H; EMRK-Inkorporationsgesetz Nr 285/1992.
+  - `polen-tk-zasada-proporcjonalnosci` — Trybunal Konstytucyjny Art 31 III Konstytucji RP mit Gesetzesvorbehalt, demokratischer Notwendigkeit, legitimen Zielen und Istota wolnosci i praw; Przydatnosc/Koniecznosc/Proporcjonalnosc; K 11/94, K 12/03, K 23/11; Praxis nach 2015 kritisch.
+  - `tschechien-us-zasada-primerenosti` — Ustavni soud Pl US 4/94 als methodische Verankerung; Vhodnost/Potrebnost/Primerenost v uzsim smyslu; Pl US 24/10 (Vorratsdatenspeicherung); Test racionalniho zakladu fuer Sozialrechte (Pl US 61/04); Podstata a smysl Art 4 IV LZPS.
+  - `griechenland-stedikastiriou-analogikotita` — Art 25 I 4 Syntagma seit Verfassungsreform 2001 als kodifizierte Verhaeltnismaessigkeit; Katallilotita/Anagkaiotita/Stenh ennoia analogikotitas; StE Olomeleia 668/2012 (Memorandum) und 2192/2014 (Beamtenbesoldung).
+  - `irland-supreme-court-proportionality` — Heaney v Ireland [1994] 3 IR 593 / [1996] 1 IR 580 als Oakes-Rezeption: Rational connection/Minimal impairment/Proportionate effect; Unenumerated rights Art 40 3 1 Constitution; Damache v DPP [2012] IESC 11; Friends of the Irish Environment [2020] IESC 49.
+- Plugin-README, plugin.json, marketplace.json, ASSET_INDEX, Top-Level-README und Skill-Index synchronisiert (20852 Skills, Stand v292.0.0).
+
+## Sonstiges
+
+- Validatoren gruen (plugin-structure, yaml-frontmatter, testakten-gesamt-pdf). 212 Plugins, alle auf 292.0.0.
+- Live-Recherche-Disclaimer in jedem neuen Skill (Legifrance, ArianeWeb, conseil-constitutionnel.fr, cortecostituzionale.it, tribunalconstitucional.es, rechtspraak.nl, const-court.be, ris.bka.gv.at, justice.public.lu, retsinformation.dk, trybunal.gov.pl, usoud.cz, ste.gr, courts.ie/BAILII).
+
 # v291.0.0 — Rechtsvergleicher-Erweiterung im verhaeltnismaessigkeitspruefer
 
 ## Skills
