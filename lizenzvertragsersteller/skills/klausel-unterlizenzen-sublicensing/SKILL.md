@@ -1,0 +1,46 @@
+---
+name: klausel-unterlizenzen-sublicensing
+description: "Sublizenz-Klauseln $ 35 UrhG: Zustimmung des Lizenzgebers, Konzern-Sublizenzen ohne Zustimmung, Sub-Royalty-Beteiligung, Kettendurchgriff, Haftungskette bei Sub-Lizenznehmer-Versagen."
+---
+
+# Klausel Unterlizenzen (Sub-Licensing)
+
+## Normenanker
+
+- $ 35 UrhG - Einraeumung weiterer Nutzungsrechte; bedarf der Zustimmung des Urhebers (im Zweifel)
+- $ 30 MarkenG analog - Sublizenz markenrechtlich grundsaetzlich zulaessig, sofern Lizenz selbst Sublizenzrecht vorsieht
+- $ 15 PatG analog - Patentlizenz mit Sublizenzrecht zulaessig
+- TT-GVO Art. 1 Abs. 1 Nr. 2 - Sublizenzen unter TT-GVO
+
+## Strukturoptionen
+
+| Option | Mechanik |
+|---|---|
+| **Kein Sublizenzrecht** | Lizenznehmer darf nicht weiter lizenzieren |
+| **Sublizenz nur mit Zustimmung** | jede Sublizenz einzeln genehmigungspflichtig |
+| **Konzern-Sublizenz frei** | innerhalb $ 15 AktG-Konzern ohne Zustimmung |
+| **Volle Sublizenz** | beliebig; nur Anzeigepflicht |
+| **Sublizenz an benannte Dritte** | Anlage mit erlaubten Sub-Lizenznehmern |
+
+## Klausel-Bausteine
+
+**A. Standard mit Zustimmungserfordernis:**
+> "$ 6 Sublizenzen. Der Lizenznehmer darf die unter diesem Vertrag erworbenen Nutzungsrechte nur mit vorheriger schriftlicher Zustimmung des Lizenzgebers an Dritte sublizenzieren. Die Zustimmung darf nicht ohne sachlichen Grund verweigert werden."
+
+**B. Konzern-frei:**
+> "Abweichend von Absatz 1 ist der Lizenznehmer berechtigt, Sublizenzen ohne Zustimmung des Lizenzgebers an Konzernunternehmen im Sinne der $$ 15 ff. AktG zu erteilen. Verlaesst ein Konzernunternehmen den Konzern, endet die Sublizenz automatisch zum Zeitpunkt des Konzernaustritts."
+
+**C. Royalty-Beteiligung am Sub-Lizenz-Erloes:**
+> "Erteilt der Lizenznehmer eine Sublizenz, ist der Lizenzgeber an der vom Sub-Lizenznehmer gezahlten Sublizenz-Gebuehr in Hoehe von [Z] Prozent zu beteiligen. Die Beteiligung wird quartalsweise gemeldet und ausgezahlt."
+
+**D. Kettendurchgriff:**
+> "Der Lizenznehmer haftet fuer Verletzungen dieses Vertrages durch Sub-Lizenznehmer wie fuer eigene Verletzungen. Bei einer wesentlichen Vertragsverletzung durch einen Sub-Lizenznehmer ist der Lizenzgeber berechtigt, die jeweilige Sublizenz mit Wirkung gegen den Sub-Lizenznehmer ausserordentlich zu kuendigen."
+
+## Sicherungs-Hinweis $ 35 UrhG
+
+Sub-Lizenzen an urheberrechtlichen Werken bestehen **nicht automatisch** weiter, wenn die Hauptlizenz endet. → Vertraglich klaeren: "Sublizenzen erloeschen mit der Hauptlizenz" (Standard) oder "Sublizenzen bleiben bestehen, wenn der Sub-Lizenznehmer die Lizenzgebuehren direkt an den Lizenzgeber zahlt" (selten).
+
+## Anschluss
+
+- TT-GVO Kartellrecht: `kartellrecht-tt-gvo-eu-316-2014`
+- Verguetung Sub-Erloes: `klausel-verguetung-pauschale-royalty-tiered`
