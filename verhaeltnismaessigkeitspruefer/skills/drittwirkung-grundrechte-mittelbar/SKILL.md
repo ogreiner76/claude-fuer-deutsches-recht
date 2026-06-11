@@ -62,7 +62,7 @@ In diesen Konstellationen kann die Verhaeltnismaessigkeitspruefung zu einer fakt
 - BVerfGE 89 214 — Buergschaft naher Angehoeriger
 - BVerfGE 103 89 — Eheverzicht und Sittenwidrigkeit
 - BVerfGE 137 273 — Chefarzt der katholischen Krankenhaustraegerschaft
-- BVerfGE 148 267 — Stadionverbot und unmittelbare Drittwirkung im Ausnahmefall
+- BVerfGE 148 267 — Stadionverbot als verstaerkte mittelbare Drittwirkung ueber zivilrechtliche Generalklauseln (kein Wechsel zur unmittelbaren Grundrechtsbindung Privater; Pflicht zur Beachtung der Grundrechte als Werteordnung). Vertiefung im Spezial-Skill drittwirkung-stadionverbot-bundesverfassungsgericht.
 - BVerfGE 152 152 — Recht auf Vergessen II und Charta-Wirkung
 
 ## Fallstricke

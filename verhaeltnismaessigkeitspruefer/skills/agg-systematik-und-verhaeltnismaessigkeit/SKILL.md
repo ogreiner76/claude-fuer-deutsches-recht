@@ -81,5 +81,5 @@ Pruefungsdichte: schwaecher als bei Paragraph 8 AGG. Sachlicher Grund reicht abe
 - art-3-abs-2-3-besondere-gleichheitssaetze — verfassungsrechtliche Grundlage
 - verhaeltnismaessigkeit-mittelbare-diskriminierung — Paragraph 3 Abs. 2 AGG und EuGH-Linie
 - gleichbehandlung-arbeitsrecht-praxischeck — Paragraph 7 und Paragraph 15 AGG in der Praxis
-- unionsrecht-grundrechte-charta — Charta der Grundrechte und Diskriminierungsverbot
+- drittwirkung-unionsgrundrechte-charta — Charta der Grundrechte und Diskriminierungsverbot
 - verhaeltnismaessigkeit-einstieg — Vier-Stufen-Grundschema
