@@ -1,5 +1,5 @@
 # Release-Asset-Index
-**Stand:** v300.0.0 — automatisch aktualisierte Asset-Übersicht
+**Stand:** v301.0.0 — automatisch aktualisierte Asset-Übersicht
 
 ## Sammel-Assets
 | Asset | Verwendung |
