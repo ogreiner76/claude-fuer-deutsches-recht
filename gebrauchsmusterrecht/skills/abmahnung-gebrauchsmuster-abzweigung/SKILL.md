@@ -8,7 +8,7 @@ description: "Abmahnung wegen Gebrauchsmuster vorbereiten oder verteidigen: Rech
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 5 Neuheitsschonfrist 6 Monate, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 23 Löschungsantrag jederzeit, § 25 Abzweigung aus Patentanmeldung 2 Monate nach Abschluss.
+- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 15 Löschungsantrag jederzeit.
 - Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -34,7 +34,7 @@ Eine Abmahnung wird gesendet oder empfangen.
 ### Besonderheit Gebrauchsmuster
 - Anders als Patent: **kein materieller Pruefungsfilter im Eintragungsverfahren** (DPMA prueft nur formell).
 - Folge: Eingetragenes Gebrauchsmuster sagt **nichts ueber Rechtsbestand** aus.
-- BGH X ZR 100/13 (Az im Mandat live verifizieren) — Verletzungsklaeger muss damit rechnen, dass Beklagter Loeschungsantrag stellt.
+- Die Abmahnung muss den ungeprüften Registertitel besonders sorgfältig gegen Rechtsbestandsangriffe absichern; konkrete BGH-Zitate nur nach Live-Check mit frei zugänglicher Quelle einsetzen.
 
 ### Verteidigungsstrategie
 1. **Pruefe Rechtsbestand**: Stand der Technik recherchieren, Neuheit und erfinderischer Schritt § 3, § 4 GebrMG.
@@ -43,8 +43,8 @@ Eine Abmahnung wird gesendet oder empfangen.
 4. **Schutzbereich pruefen**: Anspruchsmerkmale gegen verletzte Ausfuehrung pruefen — § 12a GebrMG i.V.m. § 14 PatG (Auslegung der Schutzansprueche).
 
 ### BGH-Linie zum Schutzbereich
-- BGH X ZR 95/05 "Schneidmesser" (verifizieren) — Aequivalenzlehre auch im Gebrauchsmusterrecht.
-- BGH X ZR 16/09 "Occlusionsvorrichtung" (verifizieren).
+- Für den Schutzbereich § 12a GebrMG i.V.m. § 14 PatG entlang Anspruchswortlaut, Beschreibung, Zeichnungen und Fachmannverständnis prüfen.
+- Äquivalenz- und Schutzbereichsrechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei zugänglicher Quelle in Abmahnung oder Erwiderung einsetzen.
 
 ## Quellen-Hardening
 
@@ -72,7 +72,7 @@ Eine Abmahnung wird gesendet oder empfangen.
 
 ### Leitentscheidungen
 
-- BGH X ZB 5/16
+- BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank)
 - BGH X ZR 95/05
 - BGH X ZR 75/02
 - BGH X ZR 19/06

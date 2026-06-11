@@ -93,7 +93,7 @@ Spezial-Mandat: Anklage oder Hauptverhandlung mit Vorwurf eines besonders schwer
 
 - § 263 StGB Stand 06/2026 unter https://www.gesetze-im-internet.de/stgb/__263.html.
 - BGH 7.10.2003 — 1 StR 274/03 (Grosses Ausmass beim Betrug); staendige Rspr. Aktenzeichen vor Verwendung verifizieren ueber https://www.bundesgerichtshof.de.
-- BGH staendige Rspr. zur Gewerbsmaessigkeit; vor Verwendung Az. verifizieren.
+- Gewerbsmäßigkeit nach § 263 Abs. 3 Satz 2 Nr. 1 StGB nur mit konkreter Tatsachenbasis zur fortlaufenden Einnahmequelle begründen; BGH-Zitate zur Gewerbsmäßigkeit erst nach Live-Check mit frei prüfbarem Aktenzeichen einsetzen.
 - §§ 46, 46a, 56, 70, 73, 73b, 73c, 73d StGB.
 - references/zitierweise.md für Belegregeln.
 

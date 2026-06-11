@@ -21,7 +21,7 @@ description: "Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB
  - beide Seiten erfasst sind (gegenseitig),
  - Mindestlohn / unabdingbare Ansprueche ausdruecklich ausgenommen sind,
  - Frist nicht unter 3 Monaten.
-- BAG 5 AZR 545/13 (Az verifizieren): Ausschlussfristen unter 3 Monaten unwirksam.
+- BAG, Urteil vom 28.09.2005 - 5 AZR 52/05; bestätigt u.a. BAG, Urteil vom 24.09.2015 - 5 AZR 278/14: Für arbeitsvertragliche AGB-Ausschlussfristen muss dem Arbeitnehmer regelmäßig eine Mindestfrist von drei Monaten ab Fälligkeit verbleiben.
 
 ### Rueckzahlungsklausel für Aus- und Fortbildung
 - Klassische BAG-Linie: nur wirksam, wenn:

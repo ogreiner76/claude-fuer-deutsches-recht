@@ -8,7 +8,7 @@ description: "Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen:
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 5 Neuheitsschonfrist 6 Monate, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 23 Löschungsantrag jederzeit, § 25 Abzweigung aus Patentanmeldung 2 Monate nach Abschluss.
+- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
 - Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -42,8 +42,9 @@ Die Erfindung stammt aus Team, Labor oder Dienstverhältnis.
 - Auch wenn das Gebrauchsmuster nicht materiell geprueft wird: Verguetungspflicht des Arbeitgebers besteht.
 - Auch bei "freier Erfindung" (§ 4 Abs. 3 ArbnErfG) Anbietungspflicht.
 
-### Aktuelle BGH-Linie
-- BGH X ZR 137/15 (verifizieren) zur Verguetung bei Gebrauchsmuster.
+### Aktuelle Prüfungslinie
+- Vergütung und Inhaberschaft nicht aus dem ungeprüften Registerstand ableiten: maßgeblich sind Diensterfindungsmeldung (§ 5 ArbnErfG), Inanspruchnahme/Fiktion (§ 6 ArbnErfG), Vergütung (§§ 9-12 ArbnErfG), Rechtekette und tatsächliche Verwertung des Gebrauchsmusters.
+- BGH-Rechtsprechung zur Arbeitnehmererfindervergütung nur mit Datum, Aktenzeichen und frei prüfbarer Quelle in Mandantentexte übernehmen.
 
 ## Quellen-Hardening
 

@@ -93,6 +93,6 @@ Die Wehrdisziplinarordnung (WDO) unterscheidet einfache Disziplinarmaßnahmen (d
 
 - WDO 2025 – Volltext gesetze-im-internet.de.
 - Soldatengesetz §§ 7 ff., 17 – Volltext gesetze-im-internet.de.
-- BVerwG Wehrdienstsenate – ständige Rechtsprechung zur Bemessung von Disziplinarmaßnahmen (Az. verifizieren in BVerwG-Datenbank).
+- BVerwG-Wehrdienstsenate zur Bemessung von Disziplinarmaßnahmen nur mit konkretem Aktenzeichen aus der BVerwG-Datenbank zitieren; ohne Live-Check normbasiert über WDO, Soldatengesetz und Verhältnismäßigkeit argumentieren.
 - Truppendienstgericht Süd/Nord – Verfahren und Spruchpraxis (publik bei den Truppendienstgerichten).
 - Dienstvorschriften (ZDv) nur nach Vorlage durch Mandanten.

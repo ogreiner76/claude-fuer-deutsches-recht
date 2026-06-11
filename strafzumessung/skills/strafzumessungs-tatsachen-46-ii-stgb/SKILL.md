@@ -116,5 +116,5 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 - § 46 Abs. 2 StGB in der seit 01.08.2015 geltenden Fassung.
 - § 46 Abs. 3 StGB Doppelverwertungsverbot.
 - §§ 46 ff. BZRG zur Verwertung von Vorstrafen.
-- Art. 6 Abs. 1 EMRK; Vollstreckungsmodell zur Verfahrensdauer (Az verifizieren in juris/dejure.org).
+- Art. 6 Abs. 1 EMRK; rechtsstaatswidrige Verfahrensverzögerung über die BGH-/BVerfG-Linie zum Vollstreckungsmodell nur mit frei prüfbarer Entscheidung und konkretem Kompensationsausspruch belegen.
 - Quellenregel: vgl. `references/zitierweise.md`.

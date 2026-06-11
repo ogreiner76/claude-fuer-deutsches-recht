@@ -8,7 +8,7 @@ description: "Neuheit und erfinderischer Schritt nach GebrMG prüfen: Stand der 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 5 Neuheitsschonfrist 6 Monate, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 23 Löschungsantrag jederzeit, § 25 Abzweigung aus Patentanmeldung 2 Monate nach Abschluss.
+- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 15 Löschungsantrag jederzeit.
 - Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -30,13 +30,13 @@ Ein eingetragenes oder geplantes Gebrauchsmuster braucht Rechtsbestandsprüfung.
 - Stand der Technik umfasst alles vor dem Anmelde- oder Prioritaetstag der Oeffentlichkeit Zugaengliche.
 - **§ 3 Abs. 2 GebrMG: Neuheitsgnade von 6 Monaten** für eigene Veroeffentlichungen vor der Anmeldung (wesentlicher Unterschied zum Patent!).
 
-### § 4 GebrMG Erfinderischer Schritt
-- Niedrigere Schwelle als die erfinderische Taetigkeit im Patentrecht (§ 4 PatG).
-- BGH X ZB 27/05 "Demonstrationsschrank" — erfinderischer Schritt ist erfuellt, wenn die Erfindung nicht "ohne erfinderisches Zutun" aus dem Stand der Technik herleitbar war.
-- BGH X ZB 5/16 (verifizieren) — der Massstab ist allenfalls geringfuegig hinter der Patenttatigkeit zurueckbleibend (Vorsicht: Rspr. nicht einheitlich).
+### § 1 Abs. 1 GebrMG Erfinderischer Schritt
+- Der erfinderische Schritt ist eigenständig zu prüfen und darf nicht pauschal als deutlich niedrigere Schwelle gegenüber § 4 PatG behandelt werden.
+- BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank): Der erfinderische Schritt verlangt eine wertende Prüfung der technischen Lehre aus Sicht des Fachmanns; "ungeprüft eingetragen" heißt nicht "leicht rechtsbeständig".
+- Patent-Disclaimer-Entscheidungen nicht als Gebrauchsmuster-Maßstab verwenden; sie betreffen andere Rechtsfragen.
 
 ### Wichtige Praxis-Anker
-- "Ohne erfinderisches Zutun" — auch trivialere Loesungen koennen schutzfaehig sein.
+- Technische Weiterentwicklungen können schutzfähig sein, wenn die Merkmalskombination sich nicht nur handwerklich aus dem Stand der Technik ergibt.
 - Aber: rein handwerkliche Loesungen sind nicht schutzfaehig.
 
 ### Pruefraster

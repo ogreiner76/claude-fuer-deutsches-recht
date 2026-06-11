@@ -8,7 +8,7 @@ description: "Doppelschutz Patent/Gebrauchsmuster koordinieren: parallele Rechte
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 5 Neuheitsschonfrist 6 Monate, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 23 Löschungsantrag jederzeit, § 25 Abzweigung aus Patentanmeldung 2 Monate nach Abschluss.
+- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
 - Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -32,7 +32,7 @@ Patent und Gebrauchsmuster laufen nebeneinander.
 
 ### Strategische Vorteile
 1. **Frueher Schutz**: Gebrauchsmuster eingetragen binnen Wochen (Patent-Pruefung dauert 2-5 Jahre).
-2. **Geringere Anforderungen**: Erfinderischer Schritt (§ 4 GebrMG) ist niedriger als erfinderische Taetigkeit (§ 4 PatG).
+2. **Schneller Registertitel**: Das Gebrauchsmuster wird ohne materielle Prüfung eingetragen; der erfinderische Schritt folgt aus § 1 Abs. 1 GebrMG und ist nicht schematisch als deutlich geringere Patentschwelle zu behandeln.
 3. **Fall-back**: Wenn Patent scheitert, bleibt das Gebrauchsmuster.
 
 ### Strategische Nachteile
@@ -44,8 +44,8 @@ Patent und Gebrauchsmuster laufen nebeneinander.
 - Gebrauchsmuster: 10 Jahre maximal.
 
 ### Verfahrensregeln
-- Wenn das Patent erteilt wird, kann Gebrauchsmuster fortbestehen.
-- BGH X ZR 156/93 (verifizieren) — Verhaeltnis von Patent und Gebrauchsmuster.
+- Wenn das Patent erteilt wird, kann ein paralleles Gebrauchsmuster fortbestehen; strategisch aber Kosten, Schutzdauer, Rechtsbestandsangriff und Doppeldurchsetzung koordinieren.
+- Doppelschutz-Aussagen primär aus GebrMG, PatG und Registerstand herleiten; konkrete BGH-Rechtsprechung nur nach freier Prüfung mit vollständigem Aktenzeichen zitieren.
 
 ### Internationaler Vergleich
 - USA: kein gleichwertiges Utility Model (provisional patent kein Aequivalent).

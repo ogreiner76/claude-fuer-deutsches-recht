@@ -8,7 +8,7 @@ description: "Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, una
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 5 Neuheitsschonfrist 6 Monate, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 23 Löschungsantrag jederzeit, § 25 Abzweigung aus Patentanmeldung 2 Monate nach Abschluss.
+- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 15 Löschungsantrag jederzeit.
 - Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -27,9 +27,10 @@ Der Anspruchsentwurf ist roh oder KI-generiert.
 ## Konkrete Norm-Anker
 
 ### Anforderungen an die Anspruchsfassung
-- **§ 4 GebrMG**: Unteransprueche; Schutzansprueche praezise formulieren.
-- **§ 4a GebrMG**: Pluraritaet, Einheitlichkeitsgrundsatz.
-- **§ 12a GebrMG i.V.m. § 14 PatG**: Schutzbereich durch Schutzansprueche bestimmt; Beschreibung und Zeichnungen zur Auslegung.
+- **§ 4 Abs. 3 Nr. 3 GebrMG**: Die Anmeldung muss einen oder mehrere Schutzansprüche enthalten, in denen angegeben ist, was als schutzfähig unter Schutz gestellt werden soll.
+- **§ 4 Abs. 5 GebrMG**: Änderungen bis zur Verfügung über die Eintragung nur ohne Erweiterung des Anmeldungsgegenstands.
+- **§ 4a GebrMG**: Anmeldetag, Nachreichung fehlender Zeichnungen/Beschreibungsteile und mögliche Verschiebung des Anmeldetags sauber prüfen.
+- **§ 12a GebrMG i.V.m. § 14 PatG**: Schutzbereich durch Schutzansprüche bestimmt; Beschreibung und Zeichnungen zur Auslegung.
 
 ### Schutzanspruchsarten
 - **Sachanspruch**: Vorrichtung, Geraet, Anordnung, Stoff (chemische Stoffe siehe § 2 Nr. 3 GebrMG).
@@ -44,7 +45,7 @@ Der Anspruchsentwurf ist roh oder KI-generiert.
 
 ### BGH-Linie
 - BGH X ZR 95/05 "Schneidmesser" — Aequivalenz auch im Gebrauchsmusterrecht.
-- BGH X ZB 5/16 (Az verifizieren) — Auslegung der Schutzansprueche aus dem Verstaendnis des Fachmanns.
+- Patent-Disclaimer-Entscheidungen nicht als Standardanker für Gebrauchsmuster-Auslegung verwenden; für den erfinderischen Schritt im Gebrauchsmusterrecht vorrangig BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank) heranziehen und vor Ausgabe frei prüfen.
 
 ## Quellen-Hardening
 
@@ -64,7 +65,7 @@ Der Anspruchsentwurf ist roh oder KI-generiert.
 - § 13 GebrMG
 - § 4a GebrMG
 - § 5 GebrMG
-- § 25 PatG
+- § 11 GebrMG
 - § 7 GebrMG
 - § 4 PatG
 - § 18 GebrMG
@@ -72,7 +73,7 @@ Der Anspruchsentwurf ist roh oder KI-generiert.
 
 ### Leitentscheidungen
 
-- BGH X ZB 5/16
+- BGH, Beschluss vom 20.06.2006 - X ZB 27/05 (Demonstrationsschrank)
 - BGH X ZR 95/05
 - BGH X ZR 75/02
 - BGH X ZR 19/06

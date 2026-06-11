@@ -94,5 +94,5 @@ Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der 
 - Art. 246a EGBGB, Anlagen – Volltext gesetze-im-internet.de.
 - Verbraucherrechte-RL 2011/83/EU – EUR-Lex.
 - Modernisierungs-RL 2019/2161 – EUR-Lex.
-- EuGH-Rechtsprechung zu § 312c – curia.europa.eu (Az. verifizieren).
+- EuGH-Rechtsprechung zu Verbraucherrechte-RL, Button-/Informationspflichten und Widerruf nur mit Curia-/EUR-Lex-Fundstelle und konkretem Aktenzeichen zitieren.
 - BGH ständige Rechtsprechung zu Fernabsatz – bundesgerichtshof.de.

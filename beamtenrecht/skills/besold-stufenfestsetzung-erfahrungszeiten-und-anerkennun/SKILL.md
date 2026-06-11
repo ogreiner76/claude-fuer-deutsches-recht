@@ -31,11 +31,11 @@ description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung i
 - Elternzeit nach § 28 Abs. 4 BBesG.
 - Auslandstaetigkeit.
 
-## EuGH-Linie
+## EU-/Gleichbehandlungslinie
 
-- EuGH C-501/12 (Specht ua) zum Stufenaufstieg.
-- EuGH C-298/14 (Brouillard) zur Anerkennung von Vorzeiten aus anderen EU-Staaten.
-- Az verifizieren.
+- EuGH, Urteil vom 19.06.2014 - C-501/12 u.a. (Specht): Altersdiskriminierende Besoldungs- und Überleitungssysteme müssen am unionsrechtlichen Gleichbehandlungsmaßstab geprüft werden.
+- Vorzeiten aus anderen EU-Staaten nicht schematisch ablehnen: Freizügigkeit, Gleichbehandlung, Berufsqualifikationsbezug und landes-/bundesrechtliche Anerkennungstatbestände getrennt prüfen.
+- Konkrete EuGH-Entscheidungen nur mit Curia-/EUR-Lex-Fundstelle ausgeben; Brouillard (C-298/14) nicht als Standardfall zur Stufenfestsetzung verwenden, sondern höchstens für Berufsqualifikations-/Anerkennungsfragen nach Live-Check.
 
 ## Pruefraster
 

@@ -98,4 +98,4 @@ Im Plaedoyer arbeiten Sie strukturiert in zwei Schritten: erstens die StA-Argume
 - Bond, C. F., DePaulo, B. M., Meta-Analyse Luegenerkennung (generisch).
 - Methodik siehe `references/methodik-buergerliches-recht.md` (entsprechend).
 - Zitierregeln siehe `references/zitierweise.md`.
-- Bei jeder Verwendung im Schriftsatz: BGH-Linie und konkrete Folge-Az. verifizieren.
+- Bei jeder Verwendung im Schriftsatz: BGH-Linie nur mit konkret geprüfter Folgeentscheidung und frei zugänglichem Aktenzeichen ergänzen.

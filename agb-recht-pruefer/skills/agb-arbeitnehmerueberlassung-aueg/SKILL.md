@@ -25,9 +25,9 @@ description: "AGB bei Arbeitnehmerueberlassung (AUeG). Skill klaert die AGB-rech
 - Branchenzuschlaege als Ausnahme nach Tarifvertrag.
 - AGB-Klauseln, die Equal-Pay weiter ausschliessen, sind unwirksam.
 
-### Vertragsstrafe bei Abwerbung
-- Wettbewerbsschutz für Verleiher: AGB-Klausel mit Vertragsstrafe in Hoehe einer Vermittlungsprovision (3-6 Monatsgehaelter) wirksam, soweit angemessen.
-- BAG 9 AZR 162/12 (Az verifizieren).
+### Übernahme-/Vermittlungsklausel und Abwerbung
+- § 9 Abs. 1 Nr. 3 AÜG macht Vereinbarungen unwirksam, die dem Entleiher die spätere Einstellung des Leiharbeitnehmers verbieten; eine angemessene Vergütung für eine nach vorangegangenem Verleih oder mittels vorangegangenem Verleih erfolgte Vermittlung bleibt möglich.
+- AGB-rechtlich deshalb keine pauschale "Abwerbe-Vertragsstrafe" durchwinken: Transparenz (§ 307 Abs. 1 Satz 2 BGB), Angemessenheit, Degression nach Einsatzdauer, tatsächlicher Vermittlungsbezug und Abgrenzung zu einem faktischen Einstellungsverbot prüfen.
 
 ### Verleihverbot
 - § 1 Abs. 1b AUeG: Verleihhoechstdauer 18 Monate.

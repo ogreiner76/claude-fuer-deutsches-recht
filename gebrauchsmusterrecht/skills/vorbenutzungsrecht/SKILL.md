@@ -8,7 +8,7 @@ description: "Vorbenutzungsrecht und gutgläubige Nutzung prüfen: eigener Entwi
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GebrMG § 5 Neuheitsschonfrist 6 Monate, § 11 Schutzdauer 10 Jahre (3+3+2+2), § 23 Löschungsantrag jederzeit, § 25 Abzweigung aus Patentanmeldung 2 Monate nach Abschluss.
+- Fristen und Eilrisiken zuerst markieren: GebrMG § 3 Abs. 1 Satz 3 Neuheitsschonfrist 6 Monate, § 5 Abs. 1 Satz 3 Abzweigung bis zwei Monate nach Monatsende der Erledigung der Patentanmeldung/des Einspruchs, § 11 Schutzdauer 10 Jahre (3+3+2+2), §§ 15, 16 GebrMG Löschung/Löschungsantrag.
 - Tragende Normen verifizieren: GebrMG §§ 1, 3, 5, 11, 13, 14, 15, 24, PatG §§ 14, 21, 24, 139, 140a, 140b analog, EPÜ (für Verzweigungsanmeldung), DesignG (Abgrenzung) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder, Erfinder, Patentanwalt, DPMA-Gebrauchsmusterstelle, BPatG-Beschwerdesenat, LG (Verletzungsklage).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gebrauchsmusteranmeldung, Schutzschrift, Löschungsantrag, Verletzungsklage, Recherchebericht, Schutzfähigkeitsgutachten, Abzweigungserklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -47,7 +47,7 @@ Der Gegner beruft sich auf ältere Nutzung.
 ### BGH-Linie
 - BGH X ZR 75/02 — Anforderungen an "konkrete Vorbereitungshandlungen".
 - BGH X ZR 19/06 — Umfang der Weiternutzung.
-- Az im Mandat live verifizieren.
+- Diese Aktenzeichen vor Schriftsatzverwendung in einer freien Quelle gegen Datum, Entscheidungsform und Leitsatz prüfen; ohne Live-Check nur normbasiert über § 13 Abs. 3 GebrMG i.V.m. § 12 PatG argumentieren.
 
 ### Strategischer Wert
 - Wichtiges Verteidigungsmittel gegen spaeter angemeldetes Gebrauchsmuster.

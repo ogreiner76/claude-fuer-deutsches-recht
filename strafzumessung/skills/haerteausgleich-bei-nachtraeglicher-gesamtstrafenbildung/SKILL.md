@@ -53,7 +53,7 @@ Die Strafe ist verjaehrt; keine Einbeziehung mehr.
 
 ### 4. Auslandsstrafen
 
-Auslandsstrafen werden grundsaetzlich **nicht** in eine nachtraegliche Gesamtstrafe nach § 55 StGB einbezogen (st. Rspr.; Az verifizieren). Ein Haerteausgleich kann bei rein "schicksalhaft" zustandegekommener Auslandsstrafe geboten sein.
+Auslandsstrafen werden grundsätzlich **nicht** in eine nachträgliche Gesamtstrafe nach § 55 StGB einbezogen. Ein Härteausgleich kommt nur in Betracht, wenn die getrennte Sanktionierung zu einer zufälligen, schuldunangemessenen Mehrbelastung führt; konkrete BGH-Aktenzeichen erst nach frei prüfbarem Live-Check zitieren.
 
 ### 5. Strafe aus Strafbefehl bereits gezahlt
 
@@ -112,7 +112,7 @@ Bei mehreren Vorverurteilungen ist sorgfaeltig zu pruefen, welche Strafen einbez
 
 ### Geldstrafe schon gezahlt
 
-Auch eine bereits gezahlte Geldstrafe kann Haerteausgleich begruenden, wenn sie haette einbezogen werden koennen (st. Rspr.; Az verifizieren).
+Auch eine bereits gezahlte Geldstrafe kann einen Härteausgleich begründen, wenn sie bei rechtzeitiger gemeinsamer Aburteilung einbeziehungsfähig gewesen wäre; Urteil und Vollstreckungsstand konkret belegen.
 
 ## Begruendung im Urteil (Muster-Element)
 

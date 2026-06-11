@@ -40,9 +40,9 @@ description: "Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeug
 
 ## BAG-Linie
 
-- BAG 2 AZR 358/04 zur Empfangsverweigerung.
-- BAG 2 AZR 224/18 generell zum Zugang.
-- Az verifizieren.
+- BAG, Versäumnisurteil vom 26.03.2015 - 2 AZR 483/14: Zugang unter Anwesenden setzt voraus, dass das Schriftstück in die tatsächliche Verfügungsgewalt gelangt; bei Annahmeverweigerung genügt insbesondere ein Ablegen in unmittelbarer Nähe, wenn der Empfänger ohne Weiteres Kenntnis nehmen kann.
+- BAG, Urteil vom 22.03.2012 - 2 AZR 224/11: Zugang unter Abwesenden richtet sich nach tatsächlicher Verfügungsgewalt und gewöhnlicher Kenntnisnahmemöglichkeit; individuelle Abwesenheit löst eher § 5 KSchG aus als fehlenden Zugang.
+- Für jede Kündigungsakte zusätzlich § 623 BGB (Schriftform), § 130 BGB (Zugang), § 4 KSchG (Dreiwochenfrist) und die Botendokumentation prüfen.
 
 ## Pruefraster
 

@@ -31,11 +31,11 @@ description: "Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre 
 - **Anordnungsanspruch**: Anspruch auf rechtmäßige Auswahl.
 - **Anordnungsgrund**: dringliche Folgen, wenn Ernennung erfolgt (irreversible Eingabe = abgeschlossene Personalentscheidung).
 
-## BVerwG-Linie
+## BVerwG-/BVerfG-Linie
 
-- BVerwG 2 C 16.12 vom 21.06.2007: Anforderungen an Auswahlentscheidung.
-- BVerwG 2 VR 4/14 zur Ernennungssperre.
-- Az verifizieren.
+- Die tragende Achse ist Art. 33 Abs. 2 GG: Bewerbungsverfahrensanspruch, dokumentierte Auswahlentscheidung, aktuelle dienstliche Beurteilungen und effektiver Rechtsschutz vor Ernennung.
+- Im Eilverfahren nach § 123 VwGO immer prüfen: rechtzeitige Konkurrentenmitteilung, Wartefrist/Stillhalteabrede, Anordnungsanspruch aus möglichem Auswahlfehler und Anordnungsgrund wegen irreversibler Ernennung.
+- Konkrete BVerwG-/BVerfG-Entscheidungen nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle zitieren; keine uneinheitlichen Datums-/Aktenzeichenkombinationen aus Modellwissen übernehmen.
 
 ## Pruefraster
 

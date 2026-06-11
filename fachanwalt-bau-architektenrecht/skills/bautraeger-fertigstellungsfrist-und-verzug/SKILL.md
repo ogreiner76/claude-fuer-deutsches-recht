@@ -33,10 +33,10 @@ description: "Bautraeger Fertigstellungsfrist und Verzug: Skill klaert die Verei
 - Pauschal je Tag Verzug ueblich (z. B. 0.05 Prozent des Vertragspreises).
 - Hoechstgrenze: 5 Prozent des Vertragspreises (BGH-Linie).
 
-## BGH zu weiten Verzugsfristen
+## Fertigstellungsklauseln und AGB-Kontrolle
 
-- BGH I ZR XX/XX Az verifizieren: Verzugsfristen ueber 6 Monate haeufig unangemessen.
-- Erwerber kann nach angemessener Frist zuruecktreten.
+- Keine Platzhalter-Rechtsprechung verwenden. Fertigstellungsklauseln über § 307 Abs. 1 Satz 2 BGB (Transparenz), § 308 Nr. 1 BGB (unangemessen lange Leistungsfrist), §§ 280 Abs. 1 und 2, 286 BGB (Verzug), §§ 323, 346 BGB (Rücktritt) und den MaBV-Zahlungsplan prüfen.
+- Erwerberrechte hängen nicht an einer starren "6-Monats-Grenze", sondern an konkreter Bauzeitvereinbarung, Zumutbarkeit, Verzögerungsgrund, Mahnung/Entbehrlichkeit und Nachfriststrategie. BGH-Rechtsprechung nur mit konkretem Aktenzeichen aus BGH-/dejure-/openJur-Check zitieren.
 
 ## Pruefraster
 
