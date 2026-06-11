@@ -1764,7 +1764,7 @@
     {
       "name": "verhaeltnismaessigkeitspruefer",
       "source": "./verhaeltnismaessigkeitspruefer",
-      "description": "61 Skills zur vierstufigen Schranken-Schranke: Schutzbereich Eingriff Rechtfertigung, Wesensgehalt, Menschenwuerde, Bestimmtheit, Wesentlichkeitstheorie. BVerfG-Leitentscheidungen plus Rechtsvergleich Suedafrika Kanada Oakes EGMR EuGH USA Frankreich Italien Spanien NL BE AT LU DK PL CZ GR IE.",
+      "description": "75 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Rechtsvergleich Suedafrika/Kanada/EGMR/EuGH/USA und 12 europaeische Ordnungen, plus Theorie Alexy, Rechtsgeschichte-Linie, Schnellpruefung 5 Minuten, Klausurschema, Streitstellen-Katalog, Subsumtionshelfer mit 10 Pattern-Faellen.",
       "version": "293.0.0",
       "author": {
         "name": "Klotzkette"

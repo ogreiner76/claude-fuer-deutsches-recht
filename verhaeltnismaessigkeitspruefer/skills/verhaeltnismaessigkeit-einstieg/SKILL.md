@@ -5,6 +5,10 @@ description: Einstieg in den Verhaeltnismaessigkeitspruefer mit Plugin-Karte, Me
 
 # Verhaeltnismaessigkeit Einstieg
 
+## Schnellpfad — wenn die Zeit knapp ist
+
+Wer in fuenf Minuten eine erste Pruefung braucht: `schnellpruefung-fuenfminuten-express`. Wer ein Klausurschema braucht: `klausur-pruefungsschema-kompakt`. Wer einen konkreten Fall mit Subsumtionsbausteinen sucht: `subsumtionshelfer-faelle-pattern`.
+
 ## Drei Zugaenge
 
 1. **Methodik zuerst**: `vierstufige-schranken-schranke` -> `schutzbereich-eingriff-rechtfertigung`
@@ -15,6 +19,19 @@ description: Einstieg in den Verhaeltnismaessigkeitspruefer mit Plugin-Karte, Me
 3. **Praxisfall**: `polizeirecht-eingriff-pruefen` (Standardmuster Polizeiverfuegung)
    oder `strafrecht-strafzumessung-verhaeltnismaessigkeit`
    (Paragraf 46 StGB als Eingriffsausgleich).
+
+## Theoretische Fundierung
+
+- `theorie-alexy-prinzipientheorie` — Robert Alexys Prinzipientheorie, Optimierungsgebote, Abwaegungsgesetz; Linie Smend - Alexy - Barak.
+- `abwaegungsgesetz-und-gewichtsformel-alexy` — Alexys Gewichtsformel als Werkzeug fuer Stufe 4 (Triadenlogik, Quotientenberechnung, Anwendung auf BVerfG-Faelle).
+- `rechtsgeschichte-verhaeltnismaessigkeit-linie` — Dogmengeschichtliche Linie von Preussisches OVG Kreuzberg 1882 bis Klimaschutz 2021; Stationen auf einer Zeitachse.
+
+## Pruefungs- und Klausurhilfen
+
+- `schnellpruefung-fuenfminuten-express` — Express-Workflow mit 12-Punkte-Checkliste und ASCII-Entscheidungsbaum.
+- `klausur-pruefungsschema-kompakt` — Standard-Aufbau, Standardformulierungen, Top-7-Punktverluste.
+- `streitstellen-katalog-zwanzig-typische` — 20 typische Kontroversen mit Pro/Contra/Folgerung.
+- `subsumtionshelfer-faelle-pattern` — 10 Klausur-Patterns mit fertigen Subsumtionsbausteinen (Polizeiversammlung, Pandemie, Berufsfreiheit, Datenschutz, Eilrechtsschutz, Eigentum, Klimaschutz, vorbehaltlose Grundrechte, Untermass, Strafzumessung).
 
 ## Visualisierung
 
