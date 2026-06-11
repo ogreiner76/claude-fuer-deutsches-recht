@@ -1,3 +1,30 @@
+# v301.0.0 — Eval-Harness-Vollausbau + Portable-Bundle
+
+## Vollausbau Eval-Harness
+
+- **204/204 Testakten** haben jetzt eine `rubric.yaml` (vorher 5).
+- Neuer `scripts/generate-default-rubrics.py` — erzeugt fuer jede Testakte ohne bestehende Rubric eine Baseline (file_exists README, file_exists gesamt-pdf, file_count >= 1 MD-Aktenstueck, plus human_review-Platzhalter zur sukzessiven Verfeinerung).
+- 5 hand-gepflegte Rubrics mit fachspezifischen Pass/Fail-Checks bleiben (ChainCortex, MedTech-Volkenrath, Meinhardt, Koerber, Sauer).
+- Baseline-Eval-Run: **204/204 All-Pass, 0 Failures**.
+
+## Portable Eval-Harness fuer Fremd-Repos
+
+- Neues Verzeichnis `docs/portable-eval-harness/` mit Drop-In-Anleitung fuer beliebige Legal-AI-Repos.
+- Kopierfertige `rubric.yaml`-Beispiele fuer:
+  - **arbeitszeugnispruefer-skill** — Pruefkorpus als Testakten, mit BAG-Az.-Pattern und Ampel-Symbol-Check.
+  - **vorlagen-fuer-recht** — Vertragsentwurf als Testakte mit Klausel-Checks ($ 613a, Rechtswahl, anwaltliche Endpruefung).
+
+## Versions-Bump
+
+- 213 plugin.json + marketplace.json + README + ASSET_INDEX + CHANGELOG auf v301.0.0.
+
+## Validatoren
+
+- `validate-plugin-structure.mjs` OK
+- `run-eval.py` 204/204 All-Pass
+
+---
+
 # v300.0.0 — Eval-Harness nach Harvey-LAB-Vorbild
 
 ## Neue Werkzeuge
