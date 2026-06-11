@@ -14,7 +14,7 @@ Programmierkenntnisse durchführen.
   sich jederzeit ändern – einzelne Schritte heißen bei dir eventuell anders.
 - Diese Anleitung erhebt **keinen Anspruch auf Vollständigkeit oder Richtigkeit**. Sie beschreibt **nur die technische Einrichtung** und ersetzt **keine rechtliche Prüfung**. Ob der Einsatz **berufsrechts- und datenschutzkonform** ist, muss **im Einzelfall** selbst geprüft werden.
 - Die folgenden Angaben beziehen sich auf **Claude Desktop unter macOS**. Unter Windows funktioniert es ebenfalls, einzelne Menüpunkte können dort aber anders heißen oder an einer anderen Stelle liegen.
-- Die mitgelieferte `langdock-cowork.config.json` ist ein **funktionierender Ausgangspunkt**, aber **kein fertiges
+- Die mitgelieferte `eu-gateway-cowork.config.json` ist ein **funktionierender Ausgangspunkt**, aber **kein fertiges
 Sicherheitskonzept**. Je nach **Organisation und Einsatzzweck** sind ggf. **weitere sicherheitsrelevante
 Einstellungen** sinnvoll oder erforderlich (z. B. die Egress-Freigabeliste, Telemetrie-Optionen oder
 Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, wenn diese weitergegeben wird. **Egress-Freigabeliste (`coworkEgressAllowedHosts`):** In der mitgelieferten Config steht sie bewusst auf `"*"` (alle Hosts erlaubt), damit agentisches Arbeiten mit Web-Zugriff uneingeschränkt funktioniert. Eine Einschränkung dieser Liste beschneidet den Web-Zugriff und damit das agentische Arbeiten und sollte daher **unbedingt vorab mit der IT abgestimmt** werden.
@@ -29,7 +29,7 @@ Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, 
 - Eine **passende Claude-Lizenz** für Cowork 3P (je nach Konstellation z. B. eine Team-Lizenz; ggf. ist die Einrichtung auch mit einem Free-Account möglich – bitte im eigenen Account prüfen).
 - Ein **Langdock-Account** mit **passender Lizenz** für den API-Zugang (in der Regel eine Business-Lizenz).
 - Mit Langdock muss – **zusätzlich** zu den Verträgen und dem **Auftragsverarbeitungsvertrag (AVV) einschließlich Begleitdokumenten** – eine **Zusatzvereinbarung zur Wahrung der anwaltlichen Verschwiegenheitspflicht** nach **§ 43e Abs. 3 BRAO i. V. m. § 203 Abs. 4 StGB** geschlossen werden.
-- Die Datei **`langdock-cowork.config.json`** aus diesem Ordner.
+- Die Datei **`eu-gateway-cowork.config.json`** aus diesem Ordner. **Wichtig:** Vor Verwendung muss der Platzhalter `inferenceGatewayBaseUrl` durch die konkrete Gateway-URL des gewaehlten EU-Anbieters ersetzt werden — fuer Langdock z. B. `https://api.langdock.com/anthropic/eu`.
 
 ---
 
@@ -61,8 +61,8 @@ Arbeitsbereich-Einschränkungen). Den **API-Key nicht** in der Datei speichern, 
 
 10. In der Menüleiste den Reiter **„Entwickler"** öffnen und auf **„Drittanbieter-Inferenz konfigurieren…"** klicken.
 11. Im sich öffnenden Fenster oben rechts auf das **Konfigurations-Auswahlfeld** klicken und **„Konfiguration importieren…"** wählen.
-    *Falls dieser Button in deiner App-Version nicht erscheint:* Du kannst die Werte stattdessen **von Hand in die Eingabemaske eintragen** – einfach Feld für Feld entlang der `langdock-cowork.config.json`. Für nicht-technische Nutzer ist das der einfachere und sicherere Weg.
-12. Die Datei **`langdock-cowork.config.json`** auswählen (Die Datei befindet sich hier im Repository und muss vorher auf Deinem Laptop heruntergeladen werden).
+    *Falls dieser Button in deiner App-Version nicht erscheint:* Du kannst die Werte stattdessen **von Hand in die Eingabemaske eintragen** – einfach Feld für Feld entlang der `eu-gateway-cowork.config.json`. Für nicht-technische Nutzer ist das der einfachere und sicherere Weg.
+12. Die Datei **`eu-gateway-cowork.config.json`** auswählen (Die Datei befindet sich hier im Repository und muss vorher auf Deinem Laptop heruntergeladen werden). **Zwischenschritt:** Den Platzhalter `inferenceGatewayBaseUrl` in der heruntergeladenen Datei durch die konkrete Gateway-URL deines EU-Anbieters ersetzen — bei Langdock z. B. `https://api.langdock.com/anthropic/eu`.
 13. Den **Langdock-API-Key** aus Teil 1 einfügen.
 14. Auf **„Verbindung testen"** klicken. Wenn alles stimmt, wird die Verbindung als erfolgreich bestätigt.
 15. Auf **„Änderungen übernehmen"** klicken.
